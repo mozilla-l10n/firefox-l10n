@@ -889,6 +889,8 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Tarp svetainių veikiantys ir socialinių tinklų stebėjimo elementai
 sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Tarp svetainių veikiantys stebėjimo slapukai – įskaitant socialinių tinklų slapukus
+sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Tarp svetainių veikiantys slapukai – įskaitant socialinių tinklų slapukus
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Tarp svetainių veikiantys ir socialinių tinklų stebėjimo elementai, o likusius slapukus izoliuoti
@@ -934,6 +936,7 @@ addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 content-blocking-enhanced-tracking-protection = Išplėsta apsauga nuo stebėjimo
 content-blocking-section-top-level-description = Stebėjimo elementai seka jus internete, siekdami surinkti informacijos apie jūsų naršymo įpročius ir pomėgius. „{ -brand-short-name }“ blokuoja daugelį šių elementų ir kitų kenksmingų scenarijų.
 content-blocking-learn-more = Sužinoti daugiau
+content-blocking-fpi-incompatibility-warning = Naudojate „First Party Isolation“ (FPI), kuris ignoruoja kai kurias „{ -brand-short-name }“ slapukų nuostatas.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -955,6 +958,7 @@ content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklala
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
 content-blocking-etp-custom-desc = Pasirinkite, kurios stebėjimo elementus ir scenarijus norite blokuoti.
 content-blocking-private-windows = Stebėjimui naudojamas turinys privačiojo naršymo languose
+content-blocking-cross-site-cookies = Tarp svetainių veikiantys slapukai
 content-blocking-cross-site-tracking-cookies = Tarp svetainių veikiantys stebėjimo slapukai
 content-blocking-cross-site-tracking-cookies-plus-isolate = Tarp svetainių veikiantys slapukai, o likusius slapukus izoliuoti
 content-blocking-social-media-trackers = Socialinių tinklų stebėjimo elementai
@@ -966,6 +970,7 @@ content-blocking-cryptominers = Kriptovaliutų kasėjai
 content-blocking-fingerprinters = Skaitmeninių atspaudų stebėjimas
 content-blocking-warning-title = Dėmesio!
 content-blocking-and-isolating-etp-warning-description = Stebėjimo elementų blokavimas ir slapukų izoliavimas gali sutrikdyti kai kurių svetainių veikimą. Norėdami įkelti visą turinį, tinklalapį su stebėjimo elementais įkelkite iš naujo.
+content-blocking-and-isolating-etp-warning-description-2 = Ši nuostata gali sutrikdyti kai kurių svetainių veikimą. Jeigu atrodo, kad svetainė veikia netinkamai, galite pabandyti išjungti apsaugą nuo stebėjimo joje, kad būtų įkeltas visas turinys.
 content-blocking-warning-learn-how = Sužinoti kaip
 content-blocking-reload-description = Norėdami pritaikyti šiuos pakeitimus, turėsite įkelti savo korteles iš naujo.
 content-blocking-reload-tabs-button =
