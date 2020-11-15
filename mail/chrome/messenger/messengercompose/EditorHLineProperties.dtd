@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "Horizontālās līnijas īpašības">
+
+<!ENTITY dimensionsBox.label "Izmēri">
+<!ENTITY heightEditField.label "Augstums:">
+<!ENTITY heightEditField.accessKey "A">
+<!ENTITY widthEditField.label "Platums:">
+<!ENTITY widthEditField.accessKey "P">
+<!ENTITY pixelsPopup.value "punkti">
+<!ENTITY alignmentBox.label "Līdzināšana">
+<!ENTITY leftRadio.label "Pa kreisi">
+<!ENTITY leftRadio.accessKey "K">
+<!ENTITY centerRadio.label "Centrēts">
+<!ENTITY centerRadio.accessKey "C">
+<!ENTITY rightRadio.label "Pa labi">
+<!ENTITY rightRadio.accessKey "L">
+
+<!ENTITY threeDShading.label "3-D ēnojums">
+<!ENTITY threeDShading.accessKey "Ē">
+<!ENTITY saveSettings.label "Lietot kā noklusēto">
+<!ENTITY saveSettings.accessKey "N">
+<!ENTITY saveSettings.tooltip "Saglabājiet šos iestatījumus, lai tos izmantotu, ievietojot jaunas horizontālas līnijas">
