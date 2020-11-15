@@ -5,6 +5,7 @@
 <!ENTITY  pref.masterpass.title                  "Κύριοι κωδικοί πρόσβασης">
 
 <!ENTITY  changepassword.caption                 "Αλλαγή κύριου κωδικού πρόσβασης">
+<!ENTITY  changepassword.text                    "Ο κύριος κωδικός πρόσβασης προστατεύει ευαίσθητες πληροφορίες, όπως κωδικούς πρόσβασης και πιστοποιητικά.">
 <!ENTITY  changepassword.button                  "Αλλαγή κωδικού πρόσβασης…">
 <!ENTITY  changepassword.accesskey               "Α">
 
