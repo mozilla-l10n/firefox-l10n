@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
-
 <!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
 
 <!ENTITY MsgSynchronize.label "Λήψη και συγχρονισμός μηνυμάτων">
@@ -18,7 +16,7 @@
 <!ENTITY sendMessage.accesskey "μ">
 <!ENTITY workOffline.label "Να γίνει αποσύνδεση όταν ολοκληρωθεί η λήψη ή/και ο συγχρονισμός ολοκληρωθεί">
 <!ENTITY workOffline.accesskey "γ">
-<!ENTITY selectButton.label "Επιλογή...">
+<!ENTITY selectButton.label "Επιλογή…">
 <!ENTITY selectButton.accesskey "λ">
 <!ENTITY MsgSelectDesc.label "Επιλέξτε τους φακέλους αλληλογραφίας και συζητήσεων που θέλετε να χρησιμοποιείτε εκτός σύνδεσης.">
 <!ENTITY MsgSelectInd.label "Λήψη">
