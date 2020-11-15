@@ -6,6 +6,7 @@
 
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
 <!ENTITY pref.network.title               "Δίκτυο &amp; αποθήκευση">
+<!ENTITY pref.offline.caption             "Εκτός σύνδεσης">
 <!ENTITY textStartUp                      "Κατά την εκκίνηση:">
 <!ENTITY textStartUp.accesskey            "Κ">
 <!ENTITY radioAutoSend                    "Ναι">
@@ -20,6 +21,8 @@
 <!ENTITY radioNotDownload.accesskey       "χ">
 <!ENTITY radioAskDownload                 "Ερώτηση">
 <!ENTITY radioAskDownload.accesskey       "ρ">
+<!ENTITY mailnewsTimeout.label            "Λήξη χρονικού ορίου σύνδεσης:">
+<!ENTITY mailnewsTimeout.accesskey        "ξ">
 <!ENTITY mailnewsTimeoutSeconds.label     "δευτερόλεπτα">
 <!ENTITY Diskspace                        "Χώρος δίσκου">
 <!ENTITY offlineCompactFoldersMB.label    "MB συνολικά">

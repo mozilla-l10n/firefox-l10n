@@ -8,11 +8,14 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Αναφέρθηκε σελίδα επιθέσεων!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Αυτή η ιστοσελίδα στο <span id='malware_sitename'/> έχει αναφερθεί ως ιστοσελίδα επιθέσεων και έχει αποκλειστεί σύμφωνα με τις προτιμήσεις ασφαλείας σας.">
 
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Αυτή η ιστοσελίδα στο <span id='unwanted_sitename'/> έχει αναφερθεί ότι περιέχει ανεπιθύμητο λογισμικό και έχει αποκλειστεί σύμφωνα με τις προτιμήσεις ασφαλείας σας.">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "Παραπλανητική ιστοσελίδα!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Αυτή η ιστοσελίδα στο <span id='phishing_sitename'/> έχει αναφερθεί ως παραπλανητική και έχει αποκλειστεί σύμφωνα με τις προτιμήσεις ασφαλείας σας.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "Η ιστοσελίδα ενδέχεται να περιέχει κακόβουλο λογισμικό">
 <!-- Localization note (safeb.blocked.harmfulPage.shortDesc) - Please don't translate the contents of the <span id="harmful_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
