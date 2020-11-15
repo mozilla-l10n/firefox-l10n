@@ -43,6 +43,7 @@ about-networking-dns-lookup = DNS paieška
 about-networking-dns-lookup-button = Nustatyti
 about-networking-dns-domain = Sritis:
 about-networking-dns-lookup-table-column = IP adresai
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = RCWN statistika
 about-networking-rcwn-status = RCWN būsena
 about-networking-rcwn-cache-won-count = Podėlio laimėjimų kiekis
