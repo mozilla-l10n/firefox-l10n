@@ -277,7 +277,7 @@
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Εύρεση">
 <!ENTITY findMenu.accesskey "Ε">
-<!ENTITY findCmd.label "Εύρεση σε αυτό το μήνυμα...">
+<!ENTITY findCmd.label "Εύρεση στο μήνυμα…">
 <!ENTITY findCmd.accesskey "σ">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Εύρεση ξανά">
@@ -286,7 +286,7 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων...">
+<!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων…">
 <!ENTITY searchMailCmd.accesskey "μ">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY glodaSearchCmd.label "Καθολική αναζήτηση…">
@@ -423,7 +423,7 @@
 <!ENTITY markThreadAsReadCmd.label "Νήμα ως αναγνωσμένο">
 <!ENTITY markThreadAsReadCmd.accesskey "Ν">
 <!ENTITY markThreadAsReadCmd.key "r">
-<!ENTITY markReadByDateCmd.label "Ως αναγνωσμένα κατά ημερομηνία...">
+<!ENTITY markReadByDateCmd.label "Ως αναγνωσμένα κατά ημερομηνία…">
 <!ENTITY markReadByDateCmd.accesskey "μ">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.label "Όλων ως αναγνωσμένων">
@@ -500,7 +500,7 @@
 <!ENTITY runJunkControls.accesskey "κ">
 <!ENTITY deleteJunk.label "Διαγραφή σημειωμένου μηνύματος ως ανεπιθύμητο στο φάκελο">
 <!ENTITY deleteJunk.accesskey "ι">
-<!ENTITY importCmd.label "Εισαγωγή...">
+<!ENTITY importCmd.label "Εισαγωγή…">
 <!ENTITY importCmd.accesskey "γ">
 <!ENTITY clearRecentHistory.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY clearRecentHistory.accesskey "Ι">
@@ -628,7 +628,7 @@
 <!ENTITY appmenuSelectFlagged.label "Επιλέξτε μηνύματα με αστέρι">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Νέα ετικέτα">
+<!ENTITY addNewTag.label "Νέα ετικέτα…">
 <!ENTITY addNewTag.accesskey "Ν">
 <!ENTITY manageTags.label "Διαχείριση των ετικετών…">
 <!ENTITY manageTags.accesskey "Τ">
@@ -650,7 +650,7 @@
 <!ENTITY folderContextOpenInNewWindow.accesskey "ο">
 <!ENTITY folderContextOpenNewTab.label "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY folderContextOpenNewTab.accesskey "τ">
-<!ENTITY folderContextNew.label "Νέος υποφάκελος">
+<!ENTITY folderContextNew.label "Νέος υποφάκελος…">
 <!ENTITY folderContextNew.accesskey "Ν">
 <!ENTITY folderContextRename.label "Μετονομασία">
 <!ENTITY folderContextRename.accesskey "τ">
@@ -686,7 +686,7 @@
 <!ENTITY SearchNameOrEmail.accesskey "ν">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Αναζήτηση μηνυμάτων">
+<!ENTITY glodaSearchBar.placeholder "Αναζήτηση μηνυμάτων…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Θέμα">
@@ -695,7 +695,7 @@
 <!ENTITY searchRecipient.label "Προς ή Κοιν.">
 <!ENTITY searchSubjectOrRecipientMenu.label "Θέμα, Προς ή Κοιν.">
 <!ENTITY searchMessageBody.label "Ολόκληρο μήνυμα">
-<!ENTITY saveAsVirtualFolderMenu.label "Αποθήκευση αναζήτησης ως φάκελος...">
+<!ENTITY saveAsVirtualFolderMenu.label "Αποθήκευση αναζήτησης ως φάκελο…">
 
 <!-- Thread Pane -->
 <!ENTITY selectColumn.label "Επιλογή μηνυμάτων">

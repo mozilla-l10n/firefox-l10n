@@ -17,7 +17,7 @@
 <!ENTITY insertLinkCmd2.label "Σύνδεσμος…">
 <!ENTITY insertLinkCmd2.accesskey "Σ">
 <!ENTITY insertLinkCmd2.key "K">
-<!ENTITY insertAnchorCmd.label "Άγκυρα…">
+<!ENTITY insertAnchorCmd.label "Άγκυρα με όνομα…">
 <!ENTITY insertAnchorCmd.accesskey "α">
 <!ENTITY insertImageCmd.label "Εικόνα…">
 <!ENTITY insertImageCmd.accesskey "Ε">
@@ -258,7 +258,7 @@
 <!ENTITY tableSplitCell.accesskey "κ">
 <!ENTITY convertToTable.label "Δημιουργία πίνακα από επιλογή">
 <!ENTITY convertToTable.accesskey "Δ">
-<!ENTITY tableProperties.label "Ιδιότητες πίνακα...">
+<!ENTITY tableProperties.label "Ιδιότητες πίνακα…">
 <!ENTITY tableProperties.accesskey "δ">
 
 <!-- Toolbar-only items -->
