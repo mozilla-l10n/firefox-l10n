@@ -10,3 +10,4 @@
 <!ENTITY view.accesskey "Π">
 <!ENTITY tree.recipient "Παραλήπτης">
 <!ENTITY tree.status "Κατάσταση">
+<!ENTITY tree.expiresDate "Λήξη">
