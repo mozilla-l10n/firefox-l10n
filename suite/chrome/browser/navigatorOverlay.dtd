@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- File Menu -->
+<!ENTITY tabCmd.label "Καρτέλα προγράμματος περιήγησης">
+<!ENTITY tabCmd.accesskey "Κ">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Άνοιγμα διαδικτυακής τοποθεσίας…">
 <!ENTITY openCmd.commandkey "l">

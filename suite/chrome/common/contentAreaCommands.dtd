@@ -45,7 +45,10 @@
 <!ENTITY savePageCmd.accesskey        "σ">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameAsCmd.label         "Αποθήκευση καρέ ως…">
+<!ENTITY saveFrameCmd.label           "Αποθήκευση καρέ">
+<!ENTITY saveFrameCmd.accesskey       "κ">
 <!ENTITY printFrameCmd.label          "Εκτύπωση καρέ…">
+<!ENTITY printFrameCmd.accesskey      "Ε">
 <!ENTITY saveImageAsCmd.label         "Αποθήκευση εικόνας ως…">
 <!ENTITY saveImageCmd.label           "Αποθήκευση εικόνας">
 <!ENTITY saveImageCmd.accesskey       "κ">
