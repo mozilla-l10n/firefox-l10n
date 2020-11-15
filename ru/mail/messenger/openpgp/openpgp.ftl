@@ -141,24 +141,24 @@ openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
             [one] Отпечаток
-            [few] Отпечаток
-           *[many] Отпечатки
+            [few] Отпечатка
+           *[many] Отпечатков
         }
     .accesskey = п
 openpgp-key-man-ctx-copy-key-ids =
     .label =
         { $count ->
             [one] Идентификатор ключа
-            [few] Идентификаторы ключей
-           *[many] Идентификаторы ключей
+            [few] Идентификатора ключей
+           *[many] Идентификаторов ключей
         }
     .accesskey = е
 openpgp-key-man-ctx-copy-public-keys =
     .label =
         { $count ->
             [one] Открытый ключ
-            [few] Открытые ключи
-           *[many] Открытые ключи
+            [few] Открытых ключа
+           *[many] Открытых ключей
         }
     .accesskey = ы
 openpgp-key-man-close =
