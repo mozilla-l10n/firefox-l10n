@@ -76,27 +76,44 @@
 
 <!-- passwords -->
 
+<!ENTITY pwd.tree.host.label "Ιστοσελίδα">
+<!ENTITY pwd.tree.username.label "Όνομα χρήστη">
+<!ENTITY pwd.tree.password.label "Κωδικός πρόσβασης">
 
 <!ENTITY pwd.ctx.remove.label "Αφαίρεση">
 <!ENTITY pwd.ctx.remove.accesskey "Α">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Αντιγραφή κωδικού πρόσβασης">
+<!ENTITY pwd.ctx.copyPasswordCmd.accesskey "Α">
+<!ENTITY pwd.ctx.selectAll.label "Επιλογή όλων">
+<!ENTITY pwd.ctx.selectAll.accesskey "ό">
 
 <!ENTITY pwd.button.remove.label "Αφαίρεση">
 <!ENTITY pwd.button.remove.accesskey "Α">
 
 <!-- storage -->
 
+<!ENTITY storage.tree.host.label "Ιστοσελίδα">
+<!ENTITY storage.tree.type.label "Τύπος">
+<!ENTITY storage.tree.size.label "Μέγεθος">
 
 <!ENTITY storage.ctx.remove.label "Αφαίρεση">
 <!ENTITY storage.ctx.remove.accesskey "Α">
+<!ENTITY storage.ctx.selectAll.label "Επιλογή όλων">
+<!ENTITY storage.ctx.selectAll.accesskey "ό">
 
 <!ENTITY storage.button.remove.label "Αφαίρεση">
 <!ENTITY storage.button.remove.accesskey "Α">
 
 <!-- form data -->
 
+<!ENTITY fdata.tree.fieldname.label "Όνομα πεδίου">
+<!ENTITY fdata.tree.firstused.label "Πρώτη χρήση">
+<!ENTITY fdata.tree.lastused.label "Τελευταία χρήση">
 
 <!ENTITY fdata.ctx.remove.label "Αφαίρεση">
 <!ENTITY fdata.ctx.remove.accesskey "Α">
+<!ENTITY fdata.ctx.selectAll.label "Επιλογή όλων">
+<!ENTITY fdata.ctx.selectAll.accesskey "ό">
 
 <!ENTITY fdata.button.remove.label "Αφαίρεση">
 <!ENTITY fdata.button.remove.accesskey "Α">
@@ -104,4 +121,16 @@
 <!-- forget -->
 <!ENTITY forget.cookies.label "Cookies">
 <!ENTITY forget.cookies.accesskey "C">
+<!ENTITY forget.permissions.label "Δικαιώματα">
+<!ENTITY forget.permissions.accesskey "Δ">
+<!ENTITY forget.preferences.label "Προτιμήσεις περιεχομένου">
+<!ENTITY forget.preferences.accesskey "ο">
+<!ENTITY forget.passwords.label "Κωδικοί πρόσβασης">
+<!ENTITY forget.passwords.accesskey "ω">
+<!ENTITY forget.storage.label "Αποθηκευτικός χώρος">
+<!ENTITY forget.storage.accesskey "Α">
+<!ENTITY forget.formdata.label "Δεδομένα φόρμας">
+<!ENTITY forget.formdata.accesskey "Δ">
 
+<!ENTITY forget.button.label "Διαγραφή δεδομένων">
+<!ENTITY forget.button.accesskey "φ">

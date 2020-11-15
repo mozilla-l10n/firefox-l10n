@@ -8,6 +8,10 @@
 <!ENTITY  pref.proxies.title            "Διακομιστές μεσολάβησης">
 <!ENTITY  directTypeRadio.label         "Άμεση σύνδεση στο Διαδίκτυο">
 <!ENTITY  directTypeRadio.accesskey     "Δ">
+<!ENTITY  systemTypeRadio.label         "Χρήση ρυθμίσεων διαμεσολαβητή συστήματος">
+<!ENTITY  systemTypeRadio.accesskey     "Χ">
+<!ENTITY  manualTypeRadio.label         "Χειροκίνητη ρύθμιση διακομιστή μεσολάβησης:">
+<!ENTITY  manualTypeRadio.accesskey     "ε">
 <!ENTITY  reload.label                  "Ανανέωση">
 <!ENTITY  reload.accesskey              "Α">
 <!ENTITY  http.label                    "Διακομιστής μεσολάβησης:">
