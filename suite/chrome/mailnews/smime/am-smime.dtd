@@ -5,6 +5,7 @@
 <!ENTITY securityTitle.label "Ασφάλεια">
 <!ENTITY securityTab.label "Ασφάλεια">
 <!ENTITY encryptionGroupTitle.label "Κρυπτογράφηση">
+<!ENTITY encryptionChoiceLabel.label "Προεπιλεγμένη ρύθμιση κρυπτογράφησης κατά την αποστολή μηνυμάτων:">
 <!ENTITY neverEncrypt.label "Ποτέ (χωρίς κρυπτογράφηση)">
 <!ENTITY neverEncrypt.accesskey "Π">
 <!ENTITY digitalSign.certificate.button "Επιλογή…">
@@ -16,6 +17,8 @@
 <!ENTITY encryption.certificate_clear.button "Απαλοιφή">
 <!ENTITY encryption.certificate_clear.accesskey "λ">
 <!ENTITY signingGroupTitle.label "Ψηφιακή υπογραφή">
+<!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων (από προεπιλογή)">
+<!ENTITY signMessage.accesskey "Ψ">
 
 <!ENTITY certificates.label "Πιστοποιητικά">
 <!ENTITY manageCerts2.label "Διαχείριση πιστοποιητικών…">

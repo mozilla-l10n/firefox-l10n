@@ -13,3 +13,5 @@
 
 <!ENTITY search.placeholder      "Αναζήτηση τύπων και ενεργειών">
 
+<!ENTITY useAppChooser.label     "Χρήση του εργαλείου συστήματος για επιλογή εφαρμογών όταν είναι διαθέσιμο">
+<!ENTITY useAppChooser.accesskey "Χ">

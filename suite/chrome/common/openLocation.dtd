@@ -8,6 +8,10 @@
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->
 <!ENTITY chooseFile.label "Επιλογή αρχείου…">
+<!ENTITY newPrivate.label "Νέο ιδιωτικό παράθυρο">
+<!ENTITY newWindow.label "Νέο παράθυρο προγράμματος περιήγησης">
+<!ENTITY newTab.label "Νέα καρτέλα προγράμματος περιήγησης">
+<!ENTITY editNewWindow.label "Νέο παράθυρο σύνθεσης">
 <!ENTITY open.label "Άνοιγμα">
 <!ENTITY openWhere.label "Άνοιγμα σε:">
 <!ENTITY openWhere.accesskey "Ά">
