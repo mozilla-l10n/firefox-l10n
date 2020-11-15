@@ -17,8 +17,12 @@
 <!ENTITY printAddressBook.label                         "Εκτύπωση ευρετηρίου…">
 
 <!-- Edit Menu -->
+<!ENTITY deleteAbCmd.label                              "Διαγραφή ευρετηρίου">
 <!ENTITY deleteContactCmd.label                         "Διαγραφή επαφής">
+<!ENTITY deleteContactsCmd.label                        "Διαγραφή επιλεγμένων επαφών">
 <!ENTITY deleteListCmd.label                            "Διαγραφή λίστας">
+<!ENTITY deleteListsCmd.label                           "Διαγραφή επιλεγμένων λιστών">
+<!ENTITY deleteItemsCmd.label                           "Διαγραφή επιλεγμένων στοιχείων">
 <!ENTITY propertiesCmd.label                            "Ιδιότητες…">
 
 <!-- View Menu -->

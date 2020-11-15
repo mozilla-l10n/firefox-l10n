@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY doNotDownloadPop3Movemail.label "Για εξοικονόμηση χώρου, να μη λαμβάνονται:">
+<!ENTITY allFoldersOfflineNote.label 'Σημείωση: Η αλλαγή αυτή θα επηρεάσει όλους τους φακέλους του λογαριασμού. Για ορισμό μεμονωμένων φακέλων, κάντε κλικ στο κουμπί "Για προχωρημένους…".'>
 <!ENTITY offlineNotDownload.label "Μηνύματα μεγαλύτερα από">
+<!ENTITY offlineNotDownload.accesskey "Μ">
 <!ENTITY autosyncNotDownload.label "Να μην γίνεται λήψη μηνυμάτων, μεγαλύτερων από">
 <!ENTITY autosyncNotDownload.accesskey "μ">
 <!ENTITY kb.label "KB">
