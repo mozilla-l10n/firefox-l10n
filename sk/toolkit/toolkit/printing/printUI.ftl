@@ -40,6 +40,9 @@ printui-scale = Mierka
 printui-scale-fit-to-page-width = Prispôsobiť šírke stránky
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Mierka
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Obojstranná tlač
+printui-duplex-checkbox = Vytlačiť na obe strany
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Vytlačiť hlavičku a pätu
