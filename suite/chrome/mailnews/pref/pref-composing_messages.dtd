@@ -10,8 +10,20 @@
 
 <!-- LOCALIZATION NOTE (autoSave.label): This will concatenate with
      "xxx minutes", using a number and (autoSaveEnd.label). -->
+<!ENTITY autoSave.label                       "Αυτόματη αποθήκευση μηνύματος κάθε">
+<!ENTITY autoSave.accesskey                   "υ">
+<!ENTITY autoSaveEnd.label                    "λεπτά">
 <!-- LOCALIZATION NOTE (wrapOutMsg.label): This will concatenate with "xxx characters", using a number and (char.label). -->
+<!ENTITY char.label                           "χαρακτήρες">
 
+<!ENTITY font.label                           "Γραμματοσειρά:">
+<!ENTITY font.accesskey                       "Γ">
+<!ENTITY size.label                           "Μέγεθος:">
+<!ENTITY size.accesskey                       "Μ">
+<!ENTITY fontColor.label                      "Κείμενο:">
+<!ENTITY fontColor.accesskey                  "Κ">
+<!ENTITY bgColor.label                        "Φόντο:">
+<!ENTITY bgColor.accesskey                    "Φ">
 
 <!-- LOCALIZATION NOTE (authorWroteOption.label): this is tied to the
   mailnews.reply_header_authorwrotesingle preference. [Author] needs to be

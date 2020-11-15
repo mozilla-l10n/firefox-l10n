@@ -5,7 +5,10 @@
 
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
 
+<!ENTITY clearOfflineAppCache.label         "Απαλοιφή">
+<!ENTITY clearOfflineAppCache.accesskey     "Α">
 
+<!ENTITY offlineNotifyPermissions.label     "Διαχείριση δικαιωμάτων">
 
 <!ENTITY offlineAppsListRemove.label        "Απαλοιφή δεδομένων…">
 <!ENTITY offlineAppsListRemove.accesskey    "δ">
