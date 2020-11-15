@@ -54,9 +54,9 @@ collection-health-report =
 collection-health-report-link = 더 알아보기
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = 이 빌드 구성에서는 데이터 리포팅을 하지 않음
+collection-health-report-disabled = 이 빌드 구성에서는 데이터 보고를 하지 않음
 collection-backlogged-crash-reports =
-    .label = { -brand-short-name }가 사용자를 대신해서 백로그 충돌 보고서를 보낼 수 있게 함
+    .label = { -brand-short-name }가 사용자를 대신해서 백로그 충돌 보고서를 보낼 수 있게 허가 함
     .accesskey = c
 collection-backlogged-crash-reports-link = 더 알아보기
 privacy-security-header = 보안
@@ -88,6 +88,7 @@ update-in-progress-ok-button = 취소
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속
+account-button = 계정 설정
 addons-button = 확장기능과 테마
 
 ## OS Authentication dialog
@@ -135,7 +136,7 @@ remove-search-engine =
 minimize-to-tray-label =
     .label = { -brand-short-name }가 최소화되면 트레이로 이동
     .accesskey = m
-new-message-arrival = 메시지 도착 알림
+new-message-arrival = 새로운 메시지 도착시:
 mail-play-sound-label =
     .label =
         { PLATFORM() ->
@@ -148,9 +149,9 @@ mail-play-sound-label =
            *[other] d
         }
 mail-play-button =
-    .label = 미리듣기
+    .label = 재생
     .accesskey = P
-change-dock-icon = 독 아이콘 설정
+change-dock-icon = 앱 아이콘 설정 변경
 app-icon-options =
     .label = 독 아이콘 옵션…
     .accesskey = n
@@ -168,7 +169,7 @@ mail-system-sound-label =
     .label = 새 메일에 대한 기본 시스템 소리
     .accesskey = D
 mail-custom-sound-label =
-    .label = 사용자 정의
+    .label = 다음 소리 파일 사용
     .accesskey = U
 mail-browse-sound-button =
     .label = 찾아보기…
@@ -226,7 +227,7 @@ update-app-legend = { -brand-short-name } 업데이트
 update-app-version = { " " }{ $version } 버전
 allow-description = { -brand-short-name }가 다음을 하도록 허용
 automatic-updates-label =
-    .label = 자동으로 업데이트 설치하기 (추천방식: 보안이 강화됨)
+    .label = 자동으로 업데이트 설치 (추천: 보안이 강화됨)
     .accesskey = A
 check-updates-label =
     .label = 새 업데이트를 체크하고 설치여부 묻기
@@ -337,7 +338,7 @@ choose-folder-label =
            *[other] B
         }
 always-ask-label =
-    .label = 파일을 저장할 때 항상 물어보기
+    .label = 파일 저장 위치 항상 묻기
     .accesskey = A
 display-tags-text = 태그는 메일의 내용을 분류하거나 차례를 매겨 검색을 도와 줍니다.
 new-tag-button =
