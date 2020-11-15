@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Ievietot tabulu">
 
 <!ENTITY size.label "Izmērs">
@@ -14,5 +14,5 @@
 <!ENTITY widthEditField.accessKey "P">
 <!ENTITY borderEditField.label "Mala:">
 <!ENTITY borderEditField.accessKey "M">
-
+<!ENTITY borderEditField.tooltip "Ierakstiet skaitli, lai norādītu tabulas apmales izmēru vai nulli (0) bez apmales">
 <!ENTITY pixels.label "pikseļi">
