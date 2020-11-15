@@ -133,6 +133,47 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Heredatu sistema-eragilearen itxura
+        
+        sistemaren botoi, menu eta leihoentzat.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Heredatu sistema-eragilearen itxura
+        sistemaren botoi, menu eta leihoentzat.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Erabili itxura argia botoi,
+        menu eta leihoentzat.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Erabili itxura argia botoi,
+        menu eta leihoentzat.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Erabili itxura iluna botoi,
+        menu eta leihoentzat.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Erabili itxura iluna botoi,
+        menu eta leihoentzat.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Erabili itxura koloretsua botoi,
+        menu eta leihoentzat.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Erabili itxura koloretsua botoi,
+        menu eta leihoentzat.
 
 ## These strings belong to the individual onboarding messages.
 

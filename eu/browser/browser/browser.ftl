@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Inportatu laster-markak…
-    .tooltiptext = Kopiatu laster-markak beste nabigatzaile batetik { -brand-short-name }(e)ra.
+    .tooltiptext = Inportatu laster-markak beste nabigatzaile batetik { -brand-short-name }(e)ra.
+bookmarks-toolbar-empty-message = Sarbide azkarra izateko, ipin itzazu laster-markak hementxe, laster-marken tresna-barran. <a data-l10n-name="manage-bookmarks">Kudeatu laster-markak…</a>
 
 ## WebRTC Pop-up notifications
 
