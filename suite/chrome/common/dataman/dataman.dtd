@@ -6,16 +6,28 @@
 
 <!ENTITY selectAll.key "a">
 
+<!ENTITY select.all.label "Όλοι οι τύποι δεδομένων">
 <!ENTITY select.cookies.label "Μόνο cookies">
+<!ENTITY select.permissions.label "Μόνο δικαιώματα">
+<!ENTITY select.preferences.label "Μόνο προτιμήσεις">
+<!ENTITY select.passwords.label "Μόνο κωδικοί πρόσβασης">
+<!ENTITY select.storage.label "Μόνο αποθήκευση">
 
 <!ENTITY domain.search.placeholder "Αναζήτηση τομέων">
 <!ENTITY domain.search.key "f">
 
+<!ENTITY domain.tree.domain.label "Τομέας">
 
 
 <!ENTITY data.search.key "k">
 
 <!ENTITY tab.cookies.label "Cookies">
+<!ENTITY tab.permissions.label "Δικαιώματα">
+<!ENTITY tab.preferences.label "Προτιμήσεις">
+<!ENTITY tab.passwords.label "Κωδικοί πρόσβασης">
+<!ENTITY tab.storage.label "Αποθήκευση">
+<!ENTITY tab.formdata.label "Δεδομένα φορμών">
+<!ENTITY tab.forget.label "Διαγραφή">
 
 <!-- cookies -->
 
@@ -39,6 +51,8 @@
 
 <!-- permissions -->
 
+<!ENTITY perm.button.add.label "Προσθήκη">
+<!ENTITY perm.button.add.accesskey "Π">
 
 <!-- preferences -->
 

@@ -8,4 +8,7 @@
 <!ENTITY signatureCert.label "Προβολή πιστοποιητικού υπογραφής">
 <!ENTITY encryptionCert.label "Προβολή πιστοποιητικού κρυπτογράφησης">
 
+<!ENTITY signer.name "Υπογράφηκε από:">
+<!ENTITY recipient.name "Κρυπτογραφήθηκε για:">
 <!ENTITY email.address "Διεύθυνση email:">
+<!ENTITY issuer.name "Έκδοση πιστοποιητικού από:">
