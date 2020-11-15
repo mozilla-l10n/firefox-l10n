@@ -7,6 +7,7 @@
 <!ENTITY addOnsTitle.label                    "Πρόσθετα">
 <!ENTITY addOnsAllow.label                    "Να επιτρέπεται στις ιστοσελίδες η εγκατάσταση προσθέτων και ενημερώσεων">
 <!ENTITY addOnsAllow.accesskey                "π">
+<!ENTITY allowedSitesLink.label               "Επιτρεπόμενες ιστοσελίδες">
 <!ENTITY autoAddOnsUpdates.label              "Αυτόματος έλεγχος για ενημερώσεις">
 <!ENTITY autoAddOnsUpdates.accesskey          "ο">
 <!ENTITY daily.label                          "ημερησίως">

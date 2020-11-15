@@ -175,6 +175,7 @@
 <!ENTITY customizeToolbar.text.accesskey          "Κ">
 <!ENTITY customizeToolbar.useSmallIcons.label     "Χρήση μικρών εικονιδίων">
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "μ">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "Εμφάνιση κειμένου δίπλα στο εικονίδιο">
 <!ENTITY customizeToolbar.useDefault.label        "Χρήση προεπιλεγμένων ρυθμίσεων">
 <!ENTITY customizeToolbar.useDefault.accesskey    "Χ">
 
