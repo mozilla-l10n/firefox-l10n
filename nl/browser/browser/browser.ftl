@@ -350,9 +350,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Bladwijzers importeren…
-    .tooltiptext = Bladwijzers van een andere browser naar { -brand-short-name } kopiëren.
+    .tooltiptext = Bladwijzers uit een andere browser naar { -brand-short-name } importeren.
 
 ## WebRTC Pop-up notifications
 
