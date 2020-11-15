@@ -73,7 +73,7 @@ cfr-doorhanger-pintab-animation-resume = Συνέχιση
 
 cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
 cfr-doorhanger-bookmark-fxa-body = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτό το σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με ένα { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Συγχρονισμός σελιδοδεικτών τώρα...
+cfr-doorhanger-bookmark-fxa-link-text = Συγχρονισμός σελιδοδεικτών τώρα…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Κουμπί κλεισίματος
     .title = Κλείσιμο
@@ -263,8 +263,6 @@ cfr-doorhanger-fission-primary-button = Το κατάλαβα
     .accesskey = Τ
 cfr-doorhanger-fission-secondary-button = Μάθετε περισσότερα
     .accesskey = Μ
-# Deprecated
-cfr-doorhanger-fission-body = Το { -brand-short-name } έχει ενεργοποιήσει μια πειραματική λειτουργία, το Fission (απομόνωση ιστοσελίδας) για εσάς. Απομονώνοντας την κάθε σελίδα σε ξεχωριστή διεργασία, το Fission παρέχει ένα επιπλέον επίπεδο ασφαλείας για εσάς και τις ιστοσελίδες που επισκέπτεστε.
 
 ## What's new: Cookies message
 
