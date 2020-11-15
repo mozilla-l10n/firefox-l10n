@@ -3,4 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Message Header View Popup -->
+<!ENTITY AddToAddressBook.label            "Προσθήκη σε ευρετήριο…">
+<!ENTITY AddToAddressBook.accesskey        "ε">
 <!ENTITY EditContact.label                 "Επεξεργασία επαφής…">
+<!ENTITY EditContact.accesskey             "Ε">
+<!ENTITY ViewContact.label                 "Προβολή επαφής">
+<!ENTITY ViewContact.accesskey             "Π">
+<!ENTITY SendMailTo.label                  "Σύνθεση email προς…">
+<!ENTITY SendMailTo.accesskey              "θ">
+<!ENTITY CopyEmailAddress.label            "Αντιγραφή διεύθυνσης email">
+<!ENTITY CopyEmailAddress.accesskey        "Α">
+<!ENTITY CopyNameAndEmailAddress.label     "Αντιγραφή ονόματος και διεύθυνσης email">
+<!ENTITY CopyNameAndEmailAddress.accesskey "ο">
+<!ENTITY CreateFilterFrom.label            "Δημιουργία φίλτρου από…">
+<!ENTITY CreateFilterFrom.accesskey        "φ">
+<!ENTITY copyLinkCmd.label                 "Αντιγραφή τοποθεσίας συνδέσμου">
+<!ENTITY copyLinkCmd.accesskey             "Α">

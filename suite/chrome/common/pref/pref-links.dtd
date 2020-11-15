@@ -3,7 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY linksHeader.label "Συμπεριφορά συνδέσμου">
+<!ENTITY externalDescription.label "Άνοιγμα συνδέσμων από άλλες εφαρμογές:">
 
+<!ENTITY openCurrent.label "Στην τρέχουσα καρτέλα/παράθυρο">
+<!ENTITY newWindowGroupCurrent.accesskey "τ">
+<!ENTITY externalGroupCurrent.accesskey "θ">
 
+<!ENTITY openTab.label "Σε νέα καρτέλα στο τρέχον παράθυρο">
+<!ENTITY newWindowGroupTab.accesskey "κ">
+<!ENTITY externalGroupTab.accesskey "ρ">
 
+<!ENTITY openWindow.label "Σε νέο παράθυρο">
+<!ENTITY newWindowGroupWindow.accesskey "π">
+<!ENTITY externalGroupWindow.accesskey "ο">
 
