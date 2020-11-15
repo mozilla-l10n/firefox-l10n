@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Įjungti kamerą
 webrtc-minimize =
     .title = Sumažinimo indikatorius
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Šiuo metu leidžiama prieiti prie kompiuterio kameros. Spustelėkite prieigai valdyti.
+webrtc-microphone-system-menu =
+    .label = Šiuo metu leidžiama prieiti prie kompiuterio mikrofono. Spustelėkite prieigai valdyti.
+webrtc-screen-system-menu =
+    .label = Šiuo metu leidžiama matyti ekrane rodomą vaizdą. Spustelėkite prieigai valdyti.
