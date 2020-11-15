@@ -32,9 +32,9 @@
 <!ENTITY retentionApplyToFlagged.accesskey "σ">
 <!ENTITY nntpRemoveMsgBody.label "Διαγραφή σώματος από μηνύματα μεγαλύτερα από">
 <!ENTITY nntpRemoveMsgBody.accesskey "φ">
-<!ENTITY offlineSelectNntp.label "Επιλογή ομάδων συζήτησης για εργασία χωρίς σύνδεση...">
+<!ENTITY offlineSelectNntp.label "Επιλογή ομάδων συζήτησης για χρήση εκτός σύνδεσης…">
 <!ENTITY offlineSelectNntp.accesskey "λ">
-<!ENTITY offlineImapAdvancedOffline.label "Για προχωρημένους...">
+<!ENTITY offlineImapAdvancedOffline.label "Για προχωρημένους…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "χ">
 <!ENTITY syncGroupTitle.label "Συγχρονισμός μηνυμάτων">
 <!ENTITY diskspaceGroupTitle.label "Χώρος δίσκου">

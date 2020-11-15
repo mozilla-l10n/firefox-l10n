@@ -27,5 +27,5 @@
 
 <!ENTITY backgroundImage.label      "Εικόνα φόντου:">
 <!ENTITY backgroundImage.accesskey  "κ">
-<!ENTITY chooseFile.label           "Επιλογή αρχείου...">
+<!ENTITY chooseFile.label           "Επιλογή αρχείου…">
 <!ENTITY chooseFile.accesskey       "λ">

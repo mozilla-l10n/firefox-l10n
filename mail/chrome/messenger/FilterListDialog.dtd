@@ -5,7 +5,7 @@
 <!ENTITY window.title "Φίλτρα μηνύματος">
 <!ENTITY nameColumn.label "Περιγραφή">
 <!ENTITY activeColumn.label "Ενεργοποίηση">
-<!ENTITY newButton.label "Νέο...">
+<!ENTITY newButton.label "Νέο…">
 <!ENTITY newButton.accesskey "Ν">
 <!ENTITY newButton.popupCopy.label "Αντιγραφή…">
 <!ENTITY newButton.popupCopy.accesskey "Α">
