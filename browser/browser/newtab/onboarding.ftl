@@ -89,6 +89,13 @@ onboarding-benefit-lockwise-text = Tvarkykite saugius ir patogiai pasiekiamus sl
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Puiku, jūs turite „{ -brand-short-name }“
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Dabar įdiekime jums <img data-l10n-name="icon"/> <b>„{ $addon-name }“</b>.
+return-to-amo-add-extension-label = Įdiegti priedą
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 

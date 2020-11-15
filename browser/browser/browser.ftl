@@ -298,8 +298,13 @@ identity-https-only-dropdown-off =
     .label = Išjungta
 identity-https-only-dropdown-off-temporarily =
     .label = Išjungta laikinai
+identity-https-only-info-turn-on2 = Įjunkite tik HTTPS veikseną šiai svetainei, jei norite, kad „{ -brand-short-name }“ naudotų saugų ryšį kai tik įmanoma.
+identity-https-only-info-turn-off2 = Jei tinklalkapis veikia netinkamai, gali tekti išjungti tik HTTPS veikseną šiai svetainei, ir įkelti iš naujo naudojant nesaugų HTTP.
+identity-https-only-info-no-upgrade = Nepavyko perkelti ryšio iš HTTP.
 identity-permissions =
     .value = Leidimai
+identity-permissions-storage-access-header = Tarp svetainių veikiantys slapukai
+identity-permissions-storage-access-hint = Šios šalys gali naudoti tarp svetainių veikiančius slapukus ir svetainių duomenis, kai esate šioje svetainėje.
 identity-permissions-reload-hint = Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.
 identity-permissions-empty = Šiai svetainei nesate suteikę jokių ypatingų leidimų.
 identity-clear-site-data =
@@ -345,6 +350,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importuoti adresyną…
+    .tooltiptext = Importuoti kitos naršyklės adresyną į „{ -brand-short-name }“.
+bookmarks-toolbar-empty-message = Spartesniam pasiekimui, patalpinkite savo adresyno įrašus šioje adresyno priemonių juostoje. <a data-l10n-name="manage-bookmarks">Tvarkyti adresyną…</a>
 
 ## WebRTC Pop-up notifications
 

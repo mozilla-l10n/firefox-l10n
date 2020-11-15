@@ -29,6 +29,8 @@ search-input-box =
            *[other] Rasti nuostatose
         }
 managed-notice = Jūsų naršyklę tvarko jūsų organizacija.
+category-list =
+    .aria-label = Kategorijos
 pane-general-title = Bendrosios
 category-general =
     .tooltiptext = { pane-general-title }
@@ -50,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Elkitės atsargiai
 pane-experimental-search-results-header = „{ -brand-short-name }“ eksperimentai: elkitės atsargiai
 pane-experimental-description = Išplėstinių nuostatų keitimas gali paveikti „{ -brand-short-name }“ veikimą arba saugumą.
+pane-experimental-reset =
+    .label = Atstatyti numatytuosius
+    .accesskey = A
 help-button-label = „{ -brand-short-name }“ pagalba
 addons-button-label = Priedai ir grafiniai apvalkalai
 focus-search =
@@ -429,6 +434,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Įjungti vaizdo-vaizde įrašo valdymą
     .accesskey = j
 browsing-picture-in-picture-learn-more = Sužinoti daugiau
+browsing-media-control =
+    .label = Valdykite mediją su klaviatūra, ausinėmis, ar virtualia sąsaja
+    .accesskey = V
+browsing-media-control-learn-more = Sužinokite daugiau
 browsing-cfr-recommendations =
     .label = Rekomenduoti priedus naršant
     .accesskey = R
@@ -492,6 +501,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Lankomiausios svetainės
 home-prefs-topsites-description = Dažniausiai lankomos svetainės
+home-prefs-topsites-by-option-sponsored =
+    .label = Rėmėjų svetainės
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -564,6 +575,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Keisti kitų adreso juostos siūlymų nuostatas
 search-suggestions-cant-show = Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „{ -brand-short-name }“ niekada nevestų žurnalo.
 search-one-click-header = Ieškyklės vienu spustelėjimu
+search-one-click-header2 = Paieškos leistukai
 search-one-click-desc = Pasirinkite alternatyvias ieškykles, kurios pasirodo po adreso ir paieškos laukais, kai pradedate vesti žodį.
 search-choose-engine-column =
     .label = Ieškyklė
