@@ -50,10 +50,47 @@ printui-headers-footers-checkbox = Inprimatu goiburu eta oinak
 printui-backgrounds-checkbox = Inprimatu atzeko planoa
 printui-color-mode-label = Kolorearen modua
 printui-color-mode-color = Koloretan
+printui-color-mode-bw = Zuri-beltzean
+printui-margins = Marjinak
+printui-margins-default = Lehenetsia
+printui-margins-min = Gutxienekoa
+printui-margins-none = Bat ere ez
+printui-margins-custom = Pertsonalizatua
+printui-margins-custom-top = Goia
+printui-margins-custom-bottom = Behea
+printui-margins-custom-left = Ezkerra
+printui-margins-custom-right = Eskuina
+printui-system-dialog-link = Inprimatu sistemaren elkarrizketa-koadroa erabiliz…
+printui-primary-button = Inprimatu
+printui-primary-button-save = Gorde
 printui-cancel-button = Utzi
+printui-loading = Aurrebista prestatzen
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Inprimatzeko aurrebista
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = AEBko gutuna
+printui-paper-legal = AEBko legala
+printui-paper-tabloid = Tabloidea
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Eskala 10 eta 200 arteko zenbakia izan behar da.
+printui-error-invalid-margin = Sartu baliozko marjina hautatutako paper-tamainarako.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Barrutiak 1 eta { $numPages } arteko zenbakia izan behar du.
+printui-error-invalid-start-overflow = "Hemendik" orri-zenbakia "hona" orri-zenbakia baino txikiagoa izan behar da.
