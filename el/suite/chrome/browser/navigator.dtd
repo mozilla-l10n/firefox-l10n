@@ -57,6 +57,7 @@
 <!ENTITY printButton.tooltip          "Εκτύπωση σελίδας">
 
 <!ENTITY locationBar.title            "Τοποθεσία">
+<!ENTITY proxyIcon.tooltip            "Σύρετε και εναποθέστε αυτό το εικονίδιο για δημιουργία συνδέσμου για αυτή τη σελίδα">
 
 <!ENTITY searchItem.title             "Αναζήτηση">
 
@@ -68,6 +69,7 @@
 <!-- Statusbar -->
 <!ENTITY  statusText.label            "Τέλος">
 
+<!ENTITY popupIcon.tooltiptext      "Αποδοχή αναδυόμενων παραθύρων ιστοσελίδας">
 
 <!ENTITY viewSecurityInfo.label      "Προβολή πληροφοριών ασφάλειας">
 <!ENTITY viewSecurityInfo.accesskey  "α">
@@ -76,3 +78,5 @@
 <!ENTITY viewCertManager.label       "Άνοιγμα διαχείρισης πιστοποιητικών">
 <!ENTITY viewCertManager.accesskey   "δ">
 
+<!ENTITY zoomIn.tooltiptext          "Μεγαλύτερο">
+<!ENTITY zoomOut.tooltiptext         "Μικρότερο">

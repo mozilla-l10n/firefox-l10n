@@ -6,6 +6,9 @@
 
 <!ENTITY addressing.label          "Σύνθεση &amp; διευθυνσιοδότηση">
 <!ENTITY addressingGroupTitle.label "Διευθυνσιοδότηση">
+<!ENTITY autocompleteToMyDomain.label     "Αυτόματη προσθήκη του τομέα μου σε διευθύνσεις">
+<!ENTITY autocompleteToMyDomain.accesskey "υ">
+<!ENTITY addressingText.label      "Κατά την αναζήτηση διευθύνσεων:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY editDirectories.label     "Επεξεργασία καταλόγων…">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
