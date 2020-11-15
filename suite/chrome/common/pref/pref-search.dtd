@@ -15,3 +15,7 @@
 
 <!ENTITY searchResults.label              "Αποτελέσματα αναζήτησης">
 
+<!ENTITY openInTab.label                  "Άνοιγμα νέων καρτελών για αποτελέσματα αναζήτησης πλευρικής στήλης">
+<!ENTITY openInTab.accesskey              "ν">
+<!ENTITY openContextSearchTab.label       "Άνοιγμα καρτέλας αντί παραθύρου για αναζήτηση ιστού από το μενού επιλογών">
+<!ENTITY openContextSearchTab.accesskey   "κ">
