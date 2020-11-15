@@ -39,6 +39,7 @@
 <!ENTITY  font.langGroup.bengali                  "Μπενγκάλι">
 <!ENTITY  font.langGroup.ethiopic                 "Αιθιοπικά">
 <!ENTITY  font.langGroup.georgian                 "Γεωργιανά">
+<!ENTITY  font.langGroup.gurmukhi                 "Γκουρμούκι">
 <!ENTITY  font.langGroup.khmer                    "Χμερ">
 <!ENTITY  font.langGroup.malayalam                "Μαλαισιανά">
 <!ENTITY  font.langGroup.math                     "Μαθηματικά">
@@ -51,11 +52,13 @@
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ελάχιστο μέγεθος γραμματοσειράς:">
 <!ENTITY minSize.accesskey                        "χ">
+<!ENTITY minSize.none                             "Κανένα">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!ENTITY  useDocumentFonts.label                  "Να επιτρέπεται στα έγγραφα να χρησιμοποιούν άλλες γραμματοσειρές">
 
 <!-- leaving this stuff in for now -->
 

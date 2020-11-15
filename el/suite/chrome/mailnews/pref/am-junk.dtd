@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Ρυθμίσεις ανεπιθύμητων">
+<!ENTITY level.label "Ενεργοποίηση προσαρμοστικών ελέγχων ανεπιθύμητης αλληλογραφίας για αυτό τον λογαριασμό">
+<!ENTITY level.accesskey "Ε">
 
 <!ENTITY move.label "Μετακίνηση νέων ανεπιθύμητων μηνυμάτων:">
 <!ENTITY move.accesskey "Μ">

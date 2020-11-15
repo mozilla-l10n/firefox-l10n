@@ -29,3 +29,4 @@
 <!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
+<!ENTITY restartOnLocaleChange.label            "Οι προτιμήσεις γλώσσας και μορφοποίησης θα τεθούν σε ισχύ όταν κάνετε επανεκκίνηση του &brandShortName;.">

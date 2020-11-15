@@ -5,11 +5,15 @@
 <!ENTITY emailSectionHdr.label        "Email">
 <!ENTITY composeMsgLink.label         "Σύνταξη νέου μηνύματος">
 
+<!ENTITY newsSectionHdr.label         "Ομάδες συζήτησης">
 
 <!ENTITY accountsSectionHdr.label     "Λογαριασμοί">
 <!ENTITY newAcctLink.label            "Δημιουργία νέου λογαριασμού">
 
 <!ENTITY advFeaturesSectionHdr.label  "Προηγμένες λειτουργίες">
 <!ENTITY searchMsgsLink.label         "Αναζήτηση μηνυμάτων">
+<!ENTITY filtersLink.label            "Διαχείριση φίλτρων μηνυμάτων">
+<!ENTITY offlineLink.label            "Ρυθμίσεις εκτός σύνδεσης">
 
 <!ENTITY feedsSectionHdr.label        "Ροές">
+<!ENTITY subscribeFeeds.label         "Διαχείριση συνδρομών">

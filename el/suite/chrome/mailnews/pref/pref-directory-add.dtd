@@ -18,6 +18,8 @@
 <!ENTITY searchFilter.accesskey            "ζ">
 <!ENTITY scopeOneLevel.label               "Ένα επίπεδο">
 <!ENTITY scopeOneLevel.accesskey           "Έ">
+<!ENTITY scopeSubtree.label                "Υπόδεντρο">
+<!ENTITY scopeSubtree.accesskey            "Υ">
 <!ENTITY results.label                     "αποτελέσματα">
 <!ENTITY saslMechanism.label               "Μέθοδος σύνδεσης: ">
 <!ENTITY saslMechanism.accesskey           "σ">
