@@ -352,7 +352,7 @@ browser-window-close-button =
 
 browser-import-button2 =
     .label = Импорт закладок…
-    .tooltiptext = Импорт закладок из другого браузера в { -brand-short-name }.
+    .tooltiptext = Импортируйте закладки из другого браузера в { -brand-short-name }.
 bookmarks-toolbar-empty-message = Для ускорения доступа разместите свои закладки на панели закладок. <a data-l10n-name="manage-bookmarks">Управление закладками…</a>
 
 ## WebRTC Pop-up notifications
