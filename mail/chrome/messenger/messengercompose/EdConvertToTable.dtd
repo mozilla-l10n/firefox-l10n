@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Pārveidot par tabulu">
-
-
+<!ENTITY instructions1.label   "Salicējs izveido jaunu tabulas rindu katrai atlasītajai rindkopai.">
+<!ENTITY instructions2.label   "Izvēlieties rakstzīmi, ar kuru ir atdalītas atlases kolonnas:">
 <!ENTITY commaRadio.label      "Komats">
 <!ENTITY spaceRadio.label      "Atstarpe">
 <!ENTITY otherRadio.label      "Cita rakstzīme:">
-
-
-
+<!ENTITY deleteCharCheck.label "Dzēst atdalītāja rakstzīmi">
+<!ENTITY collapseSpaces.label  "Ignorēt papildu atstarpes">
+<!ENTITY collapseSpaces.tooltip "Pārveidot blakus esošās atstarpes vienā atdalītājā">

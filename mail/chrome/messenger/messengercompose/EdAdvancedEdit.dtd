@@ -2,15 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY WindowTitle.label              "Papildu īpašību redaktors">
 <!ENTITY AttName.label                  "Atribūts: ">
 <!ENTITY AttValue.label                 "Vērtība: ">
 <!ENTITY PropertyName.label             "Īpašība: ">
-
+<!ENTITY currentattributesfor.label     "Pašreizējie atribūti:">
 <!ENTITY tree.attributeHeader.label     "Atribūts">
 <!ENTITY tree.propertyHeader.label      "Īpašība">
 <!ENTITY tree.valueHeader.label         "Vērtība">
 <!ENTITY tabHTML.label                  "HTML atribūti">
-
+<!ENTITY tabCSS.label                   "Iekļautais stils">
 <!ENTITY tabJSE.label                   "JavaScript notikumi">
 
+<!ENTITY editAttribute.label    "Lai rediģētu tā vērtību, klikšķiniet uz iepriekš minētā vienuma">
 <!ENTITY removeAttribute.label  "Noņemt">
