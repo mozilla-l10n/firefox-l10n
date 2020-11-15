@@ -7,8 +7,10 @@
 <!ENTITY newMessageCmd.key               "M">
 
 <!ENTITY newContactCmd.label             "Επαφή…">
+<!ENTITY newContactCmd.accesskey         "Ε">
 
 <!ENTITY sendPage.label                  "Αποστολή σελίδας…">
+<!ENTITY sendPage.accesskey              "Α">
 
 <!ENTITY contextSendThisPage.label       "Αποστολή σελίδας…">
 <!ENTITY contextSendThisPage.accesskey   "λ">
@@ -21,6 +23,8 @@
 <!ENTITY contextSendAudio.label          "Αποστολή ήχου…">
 <!ENTITY contextSendAudio.accesskey      "χ">
 <!ENTITY contextSendFrame.label          "Αποστολή καρέ…">
+<!ENTITY contextSendFrame.accesskey      "κ">
 
 <!ENTITY sendLinkCmd.label               "Αποστολή συνδέσμου…"> 
+<!ENTITY sendLinkCmd.accesskey           "σ">
 

@@ -6,6 +6,7 @@
 
 <!ENTITY  changepassword.caption                 "Αλλαγή κύριου κωδικού πρόσβασης">
 <!ENTITY  changepassword.button                  "Αλλαγή κωδικού πρόσβασης…">
+<!ENTITY  changepassword.accesskey               "Α">
 
 <!ENTITY  resetpassword.caption                  "Επαναφορά κύριου κωδικού πρόσβασης">
 <!ENTITY  resetpassword.button                   "Επαναφορά κωδικού πρόσβασης">

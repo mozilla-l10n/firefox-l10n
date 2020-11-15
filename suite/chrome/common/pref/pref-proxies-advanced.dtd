@@ -10,6 +10,8 @@
 <!ENTITY  ssl.accesskey               "L">
 <!ENTITY  ftp.label                   "Διακομιστής μεσολάβησης FTP:">
 <!ENTITY  ftp.accesskey               "F">
+<!ENTITY  reuseProxy.label            "Χρήση ρυθμίσεων διακομιστή μεσολάβησης HTTP για όλα τα πρωτόκολλα">
+<!ENTITY  reuseProxy.accesskey        "Χ">
 <!ENTITY  port.label                  "Θύρα:">
 <!ENTITY  HTTPPort.accesskey          "Θ">
 <!ENTITY  SSLPort.accesskey           "ύ">
@@ -22,3 +24,4 @@
 <!ENTITY  socks4.accesskey            "C">
 <!ENTITY  socks5.label                "SOCKS v5">
 <!ENTITY  socks5.accesskey            "K">
+<!ENTITY  SOCKSport.accesskey         "ρ">
