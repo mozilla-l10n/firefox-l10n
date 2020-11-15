@@ -6,12 +6,16 @@
    - the former is shown in a private browsing window and the latter in
    - a regular (non-private) browsing window. -->
 
+<!ENTITY privatebrowsingpage.title.normal        "Θέλετε να εκκινήσετε την ιδιωτική περιήγηση;">
 
 <!ENTITY privatebrowsingpage.status.private      "Το &brandShortName; δεν θα αποθηκεύει ιστορικό για τα ιδιωτικά παράθυρα.">
+<!ENTITY privatebrowsingpage.status.normal       "Αυτή τη στιγμή, δεν βρίσκεστε σε ιδιωτικό παράθυρο.">
 
 <!ENTITY privatebrowsingpage.learnmore.label     "Μάθετε περισσότερα">
 <!ENTITY privatebrowsingpage.learnmore.accesskey "Μ">
 
+<!ENTITY privatebrowsingpage.close.label         "Κλείσιμο παραθύρου τώρα">
+<!ENTITY privatebrowsingpage.close.accesskey     "Κ">
 
 <!ENTITY privatebrowsingpage.private.label       "Άνοιγμα νέου ιδιωτικού παραθύρου">
 <!ENTITY privatebrowsingpage.private.accesskey   "Ά">
