@@ -7,6 +7,7 @@
 <!ENTITY     treehead.cookiename.label      "Όνομα cookie">
 <!ENTITY     treehead.cookiedomain.label    "Ιστοσελίδα">
 <!ENTITY     treehead.cookieexpires.label   "Λήξη">
+<!ENTITY     treehead.infoselected.label    "Πληροφορίες για το επιλεγμένο cookie">
 <!ENTITY     button.removecookie.label      "Αφαίρεση cookie">
 <!ENTITY     button.removecookie.accesskey  "Α">
 <!ENTITY     button.removeallcookies.label  "Αφαίρεση όλων των cookies">
@@ -19,9 +20,11 @@
 <!ENTITY     props.name.label               "Όνομα:">
 <!ENTITY     props.value.label              "Περιεχόμενο:">
 <!ENTITY     props.path.label               "Διαδρομή:">
+<!ENTITY     props.secure.label             "Αποστολή για:">
 <!ENTITY     props.expires.label            "Λήγει:">
 
 <!ENTITY     treehead.sitename.label        "Ιστοσελίδα">
+<!ENTITY     treehead.scheme.label          "Σχέδιο">
 <!ENTITY     treehead.status.label          "Κατάσταση">
 <!ENTITY     windowtitle.label              "Διαχείριση cookies">
 
