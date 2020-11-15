@@ -8,4 +8,8 @@
 <!ENTITY  clearHistory.label                "Εκκαθάριση ιστορικού">
 <!ENTITY  clearHistory.accesskey            "σ">
 
+<!ENTITY  locationBarHistory.caption        "Ιστορικό γραμμής διευθύνσεων">
+<!ENTITY  urlBarHistoryEnabled.caption      "Ενεργοποίηση ιστορικού γραμμής διευθύνσεων">
+<!ENTITY  urlBarHistoryEnabled.accesskey    "Ε">
+<!ENTITY  formfillHistory.caption           "Ιστορικό αναζήτησης και φορμών">
 <!ENTITY  formfillDays.label                "ημέρες">
