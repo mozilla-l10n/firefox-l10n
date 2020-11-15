@@ -32,8 +32,10 @@
 <!ENTITY exportBookmarksToHTML.label       "Εξαγωγή σελιδοδεικτών σε HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "Ε">
 <!ENTITY importOtherBrowser.label          "Εισαγωγή δεδομένων από άλλο φυλλομετρητή…">
+<!ENTITY importOtherBrowser.accesskey      "ά">
 
 <!ENTITY cmd.backup.label               "Αντίγραφο ασφαλείας…">
+<!ENTITY cmd.backup.accesskey           "Α">
 <!ENTITY cmd.restore2.label             "Επαναφορά">
 <!ENTITY cmd.restore2.accesskey         "Ε">
 <!ENTITY cmd.restoreFromFile.label      "Επιλογή αρχείου…">
@@ -88,6 +90,7 @@
 <!ENTITY detailsPane.more.accesskey "ρ">
 <!ENTITY detailsPane.less.label "Λιγότερα">
 <!ENTITY detailsPane.less.accesskey "γ">
+<!ENTITY detailsPane.selectAnItemText.description "Επιλέξτε ένα στοιχείο για προβολή και επεξεργασία των ιδιοτήτων του">
 
 <!ENTITY view.label               "Προβολή">
 <!ENTITY view.accesskey           "β">

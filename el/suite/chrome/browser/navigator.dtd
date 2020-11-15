@@ -56,6 +56,7 @@
 <!ENTITY printButton.label            "Εκτύπωση">
 <!ENTITY printButton.tooltip          "Εκτύπωση σελίδας">
 
+<!ENTITY locationBar.tooltip          "Εισάγετε όρο αναζήτησης, λέξη-κλειδί ή διεύθυνση ιστού">
 <!ENTITY locationBar.title            "Τοποθεσία">
 <!ENTITY proxyIcon.tooltip            "Σύρετε και εναποθέστε αυτό το εικονίδιο για δημιουργία συνδέσμου για αυτή τη σελίδα">
 
