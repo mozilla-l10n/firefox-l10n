@@ -78,10 +78,10 @@ openpgp-key-man-import-from-url =
     .label = Импорт ключей из URL
     .accesskey = п
 openpgp-key-man-export-to-file =
-    .label = Экспорт публичных ключей в файл
+    .label = Экспорт открытых ключей в файл
     .accesskey = с
 openpgp-key-man-send-keys =
-    .label = Отправка публичных ключей по электронной почте
+    .label = Отправка открытых ключей по электронной почте
     .accesskey = в
 openpgp-key-man-backup-secret-keys =
     .label = Резервирование секретных ключей в файл
@@ -95,21 +95,45 @@ openpgp-key-copy-key =
     .label = Копировать открытый ключ
     .accesskey = п
 openpgp-key-export-key =
-    .label = Экспортировать публичный ключ в файл
-    .accesskey = в
+    .label = Экспортировать открытый ключ в файл
+    .accesskey = ю
 openpgp-key-backup-key =
     .label = Создать резервную копию секретного ключа в файле
     .accesskey = ю
 openpgp-key-send-key =
-    .label = Отправить публичный ключ по электронной почте
-    .accesskey = б
+    .label = Отправить открытый ключ по электронной почте
+    .accesskey = э
 openpgp-key-man-copy-to-clipbrd =
-    .label = Копировать публичные ключи в буфер обмена
+    .label = Копировать открытые ключи в буфер обмена
     .accesskey = о
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Копировать идентификатор ключа в буфер обмена
+            [few] Копировать идентификаторы ключей в буфер обмена
+           *[many] Копировать идентификаторы ключей в буфер обмена
+        }
+    .accesskey = м
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Копировать отпечаток в буфер обмена
+            [few] Копировать отпечатки в буфер обмена
+           *[many] Копировать отпечатки в буфер обмена
+        }
+    .accesskey = ч
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Копировать открытый ключ в буфер обмена
+            [few] Копировать открытые ключи в буфер обмена
+           *[many] Копировать открытые ключи в буфер обмена
+        }
+    .accesskey = в
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Экспортировать ключи в файл
 openpgp-key-man-ctx-copy-to-clipbrd-label =
-    .label = Копировать публичные ключи в буфер обмена
+    .label = Копировать открытые ключи в буфер обмена
 openpgp-key-man-ctx-copy =
     .label = Копировать
     .accesskey = п
