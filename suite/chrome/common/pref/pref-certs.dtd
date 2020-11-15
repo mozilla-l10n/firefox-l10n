@@ -6,6 +6,7 @@
 <!ENTITY  managecerts.button       "Διαχείριση πιστοποιητικών…">
 <!ENTITY  managecerts.accesskey    "Δ">
 <!ENTITY  managedevices.caption    "Διαχείριση συσκευών ασφαλείας">
+<!ENTITY  managedevices.text       "Χρησιμοποιήστε αυτό το κουμπί για να διαχειριστείτε τις συσκευές ασφαλείας σας, όπως έξυπνες κάρτες.">
 <!ENTITY  managedevices.button     "Διαχείριση συσκευών ασφαλείας…">
 <!ENTITY  managedevices.accesskey  "α">
 

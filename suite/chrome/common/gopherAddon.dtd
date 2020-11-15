@@ -4,4 +4,5 @@
 
 <!ENTITY loadError.label        "Σφάλμα φόρτωσης σελίδας">
 <!ENTITY gopherAddon.title      "Πρωτόκολλο Gopher">
+<!ENTITY gopherAddon.shortDesc  "Το gopher δεν είναι καταχωρημένο πρωτόκολλο.">
 <!ENTITY goToAddOn.label        "Μεταβείτε στη σελίδα προσθέτων">
