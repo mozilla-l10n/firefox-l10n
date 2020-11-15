@@ -52,6 +52,7 @@
 <!ENTITY stopButton.label             "Διακοπή">
 <!ENTITY stopButton.tooltip           "Διακοπή φόρτωσης σελίδας">
 <!ENTITY searchButton.label           "Αναζήτηση">
+<!ENTITY searchButton.tooltip         'Πληκτρολογήστε μια λέξη στο πεδίο στα αριστερά και κάντε κλικ στο "Αναζήτηση"'>
 <!ENTITY goButton.label               "Μετάβαση">
 <!ENTITY printButton.label            "Εκτύπωση">
 <!ENTITY printButton.tooltip          "Εκτύπωση σελίδας">
@@ -65,6 +66,7 @@
 <!ENTITY bookmarksButton.label        "Σελιδοδείκτες">
 <!ENTITY bookmarksButton.tooltip      "Λίστα σελιδοδεικτών">
 <!ENTITY homeButton.label             "Αρχική">
+<!ENTITY bookmarksToolbarItem.label   "Στοιχεία γραμμής σελιδοδεικτών">
 <!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
 
 <!-- Statusbar -->
