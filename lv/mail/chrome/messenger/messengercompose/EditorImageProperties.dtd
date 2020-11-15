@@ -3,61 +3,74 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
 <!-- Window title -->
+<!ENTITY windowTitle.label "Attēla īpašības">
+
+<!ENTITY pixelsPopup.value "punkti">
 
 <!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Attēla vieta:">
+<!ENTITY locationEditField.accessKey "V">
+<!ENTITY locationEditField.tooltip "Ievadiet attēla faila nosaukumu vai atrašanās vietu">
+<!ENTITY locationEditField.shortenedDataURI "Saīsināts datu URI (kopēšana ievietos pilnu URI starpliktuvē)">
+<!ENTITY title.label "Rīka padoms:">
+<!ENTITY title.accessKey "P">
+<!ENTITY title.tooltip "HTML 'title' atribūts, kas tiek parādīts kā rīka padoms">
+<!ENTITY altText.label "Alternatīvais teksts:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Ievadiet tekstu, kas norāda attēla vietu">
+<!ENTITY noAltText.label "Neizmantot alternatīvo tekstu">
+<!ENTITY noAltText.accessKey "D">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY previewBox.label "Attēla priekšskats">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY actualSize.label "Patiesais izmērs:">
+<!ENTITY actualSizeRadio.label "Patiesais izmērs">
+<!ENTITY actualSizeRadio.accessKey "P">
+<!ENTITY actualSizeRadio.tooltip "Atgriezt uz attēla patieso izmēru">
+<!ENTITY customSizeRadio.label "Pielāgots izmērs">
+<!ENTITY customSizeRadio.accessKey "I">
+<!ENTITY customSizeRadio.tooltip "Mainīt attēla izmēru, kā parādīts lapā">
+<!ENTITY heightEditField.label "Augstums:">
+<!ENTITY heightEditField.accessKey "A">
+<!ENTITY widthEditField.label "Platums:">
+<!ENTITY widthEditField.accessKey "P">
+<!ENTITY constrainCheckbox.label "Ierobežot">
+<!ENTITY constrainCheckbox.accessKey "I">
+<!ENTITY constrainCheckbox.tooltip "Saglabāt attēla malu attiecību">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-
+<!ENTITY imagemapBox.label "Attēlu karte">
+<!ENTITY removeImageMapButton.label "Noņemt">
+<!ENTITY removeImageMapButton.accessKey "N">
 
 <!-- These are the options for image alignment -->
-
-
-
-
+<!ENTITY alignment.label "Pielīdzināt tekstu attēlam">
+<!ENTITY bottomPopup.value "Apakšā">
+<!ENTITY topPopup.value "Augšā">
+<!ENTITY centerPopup.value "Centrā">
+<!ENTITY wrapRightPopup.value "Aptīt pa labi">
+<!ENTITY wrapLeftPopup.value "Aptīt pa kreisi">
 
 <!-- These controls are in the Spacing Box -->
-
 <!ENTITY spacingBox.label "Atstatums">
-
-
-
-
-
+<!ENTITY leftRightEditField.label "Pa kreisi un pa labi:">
+<!ENTITY leftRightEditField.accessKey "K">
+<!ENTITY topBottomEditField.label "Augšā un apakšā:">
+<!ENTITY topBottomEditField.accessKey "A">
+<!ENTITY borderEditField.label "Nepārtraukta apmale:">
+<!ENTITY borderEditField.accessKey "A">
 
 <!-- These controls are in the Link Box -->
-
-
-
+<!ENTITY showImageLinkBorder.label "Rādīt saistītam attēlam apmali">
+<!ENTITY showImageLinkBorder.accessKey "A">
+<!ENTITY LinkAdvancedEditButton.label "Saistīt papildu rediģēšanu…">
+<!ENTITY LinkAdvancedEditButton.accessKey "S">
 
 <!-- These tabs are currently used in the image input dialog -->
-
 <!ENTITY imageInputTab.label "Forma">
 <!ENTITY imageLocationTab.label "Atrašanās vieta">
 <!ENTITY imageDimensionsTab.label "Izmēri">
