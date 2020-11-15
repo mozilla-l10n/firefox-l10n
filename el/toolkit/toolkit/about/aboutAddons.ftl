@@ -399,7 +399,7 @@ addon-badge-verified2 =
 
 available-updates-heading = Διαθέσιμες ενημερώσεις
 recent-updates-heading = Πρόσφατες ενημερώσεις
-release-notes-loading = Φόρτωση...
+release-notes-loading = Φόρτωση…
 release-notes-error = Λυπούμαστε, αλλά προέκυψε σφάλμα φόρτωσης των σημειώσεων έκδοσης.
 addon-permissions-empty = Αυτή η επέκταση δεν απαιτεί δικαιώματα
 addon-permissions-required = Απαιτούμενα δικαιώματα για βασική λειτουργικότητα:

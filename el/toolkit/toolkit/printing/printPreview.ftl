@@ -25,7 +25,7 @@ printpreview-scale =
 printpreview-shrink-to-fit =
     .label = Αυτόματη προσαρμογή
 printpreview-custom =
-    .label = Προσαρμογή...
+    .label = Προσαρμογή…
 printpreview-print =
     .label = Εκτύπωση…
     .accesskey = Ε
@@ -57,4 +57,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Τελευταία σελίδα
-

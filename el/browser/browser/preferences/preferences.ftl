@@ -206,8 +206,8 @@ default-font = Προεπιλεγμένη γραμματοσειρά
 default-font-size = Μέγεθος
     .accesskey = Μ
 advanced-fonts =
-    .label = Για προχωρημένους...
-    .accesskey = π
+    .label = Για προχωρημένους…
+    .accesskey = Γ
 colors-settings =
     .label = Χρώματα...
     .accesskey = Χ
@@ -227,7 +227,7 @@ choose-button =
     .accesskey = λ
 choose-browser-language-description = Επιλέξτε τις γλώσσες εμφάνισης μενού, μηνυμάτων και ειδοποιήσεων από το { -brand-short-name }.
 manage-browser-languages-button =
-    .label = Ορισμός εναλλακτικών...
+    .label = Ορισμός εναλλακτικών…
     .accesskey = ν
 confirm-browser-language-change-description = Επανεκκίνηση του { -brand-short-name } για εφαρμογή αλλαγών
 confirm-browser-language-change-button = Εφαρμογή και επανεκκίνηση
@@ -469,7 +469,7 @@ home-restore-defaults =
 home-mode-choice-default =
     .label = Αρχική σελίδα Firefox (Προεπιλογή)
 home-mode-choice-custom =
-    .label = Προσαρμοσμένα URLs…
+    .label = Προσαρμοσμένα URL…
 home-mode-choice-blank =
     .label = Κενή σελίδα
 home-homepage-custom-url =
@@ -664,7 +664,7 @@ prefs-sync-setup =
 prefs-sync-offer-setup-label = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις προτιμήσεις σας με όλες τις συσκευές σας.
 prefs-sync-now =
     .labelnotsyncing = Συγχρονισμός τώρα
-    .accesskeynotsyncing = Τ
+    .accesskeynotsyncing = τ
     .labelsyncing = Συγχρονισμός…
 
 ## The list of things currently syncing.
@@ -692,7 +692,7 @@ sync-choose-what-to-sync-dialog =
     .title = Επιλέξτε στοιχεία για συγχρονισμό
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Αποθήκευση αλλαγών
-    .buttonaccesskeyaccept = Π
+    .buttonaccesskeyaccept = π
     .buttonlabelextra2 = Αποσύνδεση…
     .buttonaccesskeyextra2 = Α
 sync-engine-bookmarks =
@@ -860,7 +860,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies και δεδομένα ιστοσελίδων
-sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοσελίδας και προσωρινής μνήμης...
+sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοσελίδας και προσωρινής μνήμης…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -897,8 +897,8 @@ sitedata-option-block-all-third-party =
 sitedata-option-block-all =
     .label = Όλα τα cookies (θα προκαλέσει δυσλειτουργία σε ιστοσελίδες)
 sitedata-clear =
-    .label = Εκκαθάριση δεδομένων...
-    .accesskey = κ
+    .label = Απαλοιφή δεδομένων…
+    .accesskey = ι
 sitedata-settings =
     .label = Διαχείριση δεδομένων…
     .accesskey = Δ

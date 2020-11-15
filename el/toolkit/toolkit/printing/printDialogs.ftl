@@ -4,7 +4,7 @@
 
 print-setup =
     .title = Διαμόρφωση σελίδας
-custom-prompt-title = Προσαρμοσμένο...
+custom-prompt-title = Προσαρμογή…
 custom-prompt-prompt = Εισάγετε το προσαρμοσμένο κείμενο επικεφαλίδας/υποσέλιδου
 basic-tab =
     .label = Μορφή & επιλογές
@@ -90,7 +90,7 @@ hf-page =
 hf-page-and-total =
     .label = Σελίδα # από #
 hf-custom =
-    .label = Προσαρμοσμένο...
+    .label = Προσαρμογή…
 print-preview-window =
     .title = Προεπισκόπηση εκτύπωσης
 print-title =
@@ -103,7 +103,6 @@ print-window =
     .title = Εκτύπωση
 print-complete =
     .value = Η εκτύπωση ολοκληρώθηκε
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

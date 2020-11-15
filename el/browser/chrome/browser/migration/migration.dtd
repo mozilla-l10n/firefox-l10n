@@ -41,7 +41,7 @@
 <!ENTITY importItems.title              "Στοιχεία προς εισαγωγή">
 <!ENTITY importItems.label              "Επιλέξτε στοιχεία προς εισαγωγή:">
 
-<!ENTITY migrating.title                "Εισαγωγή...">
+<!ENTITY migrating.title                "Εισαγωγή…">
 <!ENTITY migrating.label                "Γίνεται εισαγωγή των παρακάτω στοιχείων αυτή τη στιγμή…">
 
 <!ENTITY selectProfile.title            "Επιλογή προφίλ">
