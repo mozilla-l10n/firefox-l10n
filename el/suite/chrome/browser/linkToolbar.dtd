@@ -5,6 +5,10 @@
 <!-- Link Toolbar Title -->
 
 <!-- Link Toolbar visibility options -->
+<!ENTITY linkToolbarAlways.label "Πάντα εμφάνιση">
+<!ENTITY linkToolbarAlways.accesskey "ε">
+<!ENTITY linkToolbarAsNeeded.label "Εμφάνιση μόνο αν χρειάζεται">
+<!ENTITY linkToolbarAsNeeded.accesskey "μ">
 <!ENTITY linkToolbarNever.label "Πάντα απόκρυψη">
 <!ENTITY linkToolbarNever.accesskey "α">
 
