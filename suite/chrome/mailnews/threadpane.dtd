@@ -17,5 +17,9 @@
 <!ENTITY locationColumn.label "Τοποθεσία">
 
 <!--Tooltips-->
+<!ENTITY tagsColumn2.tooltip "Ταξινόμηση κατά ετικέτες">
+<!ENTITY accountColumn2.tooltip "Ταξινόμηση κατά λογαριασμό">
+<!ENTITY statusColumn2.tooltip "Ταξινόμηση κατά κατάσταση">
+<!ENTITY sizeColumn2.tooltip "Ταξινόμηση κατά μέγεθος">
 <!ENTITY flagColumn2.tooltip "Ταξινόμηση κατά σημαία">
 <!ENTITY locationColumn2.tooltip "Ταξινόμηση κατά τοποθεσία">

@@ -11,6 +11,10 @@
 
 <!ENTITY playSound.label                "Αναπαραγωγή ήχου:">
 <!ENTITY playSound.accesskey            "Α">
+<!ENTITY systemSound.label              "Ήχος συστήματος">
+<!ENTITY systemSound.accesskey          "Ή">
+<!ENTITY customSound.label              "Προσαρμοσμένο αρχείο ήχου">
+<!ENTITY customSound.accesskey          "Π">
 
 <!ENTITY selectSound.label              "Περιήγηση…">
 <!ENTITY playSoundButton.label          "Αναπαραγωγή">

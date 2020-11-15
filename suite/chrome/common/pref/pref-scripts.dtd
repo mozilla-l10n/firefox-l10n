@@ -12,6 +12,8 @@
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Ενεργοποίηση JavaScript για">
+<!ENTITY allowWindowStatusChange.label   "Αλλαγή κειμένου γραμμής κατάστασης">
+<!ENTITY allowHideStatusBar.label        "Απόκρυψη γραμμής κατάστασης">
 
 <!ENTITY enablePlugins.label             "Ενεργοποίηση αρθρωμάτων για">
 <!ENTITY enablePluginForSuite.label      "Σουίτα">
