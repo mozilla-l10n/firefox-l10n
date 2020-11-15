@@ -27,6 +27,7 @@
 <!ENTITY biffDays.accesskey          "μ">
 <!ENTITY recommendedUnits.label      "Ο εκδότης προτείνει:">
 
+<!ENTITY quickMode.label             "Εμφάνιση σύνοψης άρθρου αντί για φόρτωση της ιστοσελίδας">
 
 <!ENTITY autotagEnable.label         "Αυτόματη δημιουργία ετικετών από τα ονόματα &lt;κατηγοριών&gt; ροής">
 <!ENTITY autotagEnable.accesskey     "τ">

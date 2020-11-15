@@ -6,6 +6,8 @@
 
 <!ENTITY copyAndFolderTitle.label "Αντίγραφα &amp; φάκελοι">
 <!ENTITY sendingPrefix.label "Κατά την αποστολή μηνυμάτων:">
+<!ENTITY fccMailFolder.label "Αυτόματη δημιουργία αντιγράφου στο:">
+<!ENTITY fccMailFolder.accesskey "υ">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->

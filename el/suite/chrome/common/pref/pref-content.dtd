@@ -7,6 +7,8 @@
 <!ENTITY pref.content.title                     "Περιεχόμενο">
 
 <!ENTITY siteIcons.label                        "Εικονίδια ιστοσελίδων">
+<!ENTITY useSiteIcons.label                     "Εμφάνιση εικονιδίων ιστοσελίδων">
+<!ENTITY useSiteIcons.accesskey                 "Ε">
 
 <!ENTITY scrolling.label                        "Κύλιση">
 <!ENTITY useAutoScroll.label                    "Χρήση αυτόματης κύλισης">
