@@ -4,6 +4,10 @@
 
 <!-- LOCALIZATION NOTE pref-receipts.dtd: UI for Mail/News Return Receipts prefs -->
 <!ENTITY pref.receipts.title          "Αποδεικτικά ανάγνωσης">
+<!ENTITY prefReceipts.caption         "Αποδεικτικά ανάγνωσης">
+<!ENTITY returnSome.label             "Αποδοχή αποδεικτικών ανάγνωσης για ορισμένα μηνύματα">
+<!ENTITY returnSome.accesskey         "Α">
+<!ENTITY outsideDomain.label          "Aν ο αποστολέας είναι εκτός του τομέα μου:">
 <!ENTITY askMe.label                  "Ερώτηση">
 <!ENTITY alwaysSend.label             "Πάντα αποστολή">
 <!ENTITY neverSend.label              "Ποτέ αποστολή">
