@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from EdReplace.xhtml -->
+
+<!ENTITY replaceDialog.title "Meklēt un aizstāt">
+<!ENTITY findField.label "Meklēt tekstu:">
+<!ENTITY findField.accesskey "n">
+<!ENTITY replaceField.label "Aizstāt ar:">
+<!ENTITY replaceField.accesskey "e">
+<!ENTITY caseSensitiveCheckbox.label "Atbilst precīzi">
+<!ENTITY caseSensitiveCheckbox.accesskey "M">
+<!ENTITY wrapCheckbox.label "Aptīt">
+<!ENTITY wrapCheckbox.accesskey "T">
+<!ENTITY backwardsCheckbox.label "Meklēt atpakaļ">
+<!ENTITY backwardsCheckbox.accesskey "a">
+<!ENTITY findNextButton.label "Meklēt nākamo">
+<!ENTITY findNextButton.accesskey "N">
+<!ENTITY replaceButton.label "Aizstāt">
+<!ENTITY replaceButton.accesskey "A">
+<!ENTITY replaceAndFindButton.label "Aizstāt un meklēt">
+<!ENTITY replaceAndFindButton.accesskey "d">
+<!ENTITY replaceAllButton.label "Aizstāt visu">
+<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY closeButton.label "Aizvērt">
+<!ENTITY closeButton.accesskey "V">
