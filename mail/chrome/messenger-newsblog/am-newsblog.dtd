@@ -7,7 +7,7 @@
 
 <!ENTITY newFeedSettings.label         "Προεπιλεγμένες ρυθμίσεις για ροές ειδήσεων">
 
-<!ENTITY manageSubscriptions.label     "Διαχείριση συνδρομών...">
+<!ENTITY manageSubscriptions.label     "Διαχείριση συνδρομών…">
 <!ENTITY manageSubscriptions.accesskey "Δ">
 
 <!ENTITY feedWindowTitle.label         "Βοηθός λογαριασμών ροής">
