@@ -391,6 +391,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Šio priedo kodas buvo peržiūrėtas dėl saugumo
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Šį oficialių priedą sukūrė „{ -brand-product-name }“ autoriai
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Šis priedas buvo peržiūrėtas ir atitinka mūsų saugumo bei našumo standartus
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -399,6 +405,9 @@ recent-updates-heading = Paskiausiai atnaujinti
 release-notes-loading = Įkeliama…
 release-notes-error = Atsiprašome, bet įkeliant laidos apžvalgą įvyko klaida.
 addon-permissions-empty = Šis priedas nereikalauja jokių leidimų
+addon-permissions-required = Pagrindiniam funkcionalumui reikalingi leidimai:
+addon-permissions-optional = Papildomam funkcionalumui reikalingi leidimai:
+addon-permissions-learnmore = Sužinokite apie leidimus daugiau
 recommended-extensions-heading = Rekomenduojami priedai
 recommended-themes-heading = Rekomenduojami grafiniai apvalkalai
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
