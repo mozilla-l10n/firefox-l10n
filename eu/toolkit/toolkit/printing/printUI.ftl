@@ -34,6 +34,7 @@ printui-scale = Eskala
 printui-scale-pcent = Eskala
 # Section title for miscellaneous print options
 printui-options = Aukerak
+printui-cancel-button = Utzi
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
