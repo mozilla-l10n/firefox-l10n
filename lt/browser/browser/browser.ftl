@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Rašykite mažiau, raskite daugiau: ieškokite per „{ $engineName }“ tiesiai iš savo adreso lauko.
 urlbar-search-tips-redirect-2 = Pradėkite savo paiešką adreso lauke, norėdami matyti žodžių siūlymus iš „{ $engineName }“ bei jūsų naršymo istorijos.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Pasirinkite šį leistuką, norėdami greičiau rasti tai, ko ieškote.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -287,6 +290,14 @@ identity-passive-loaded = Kai kurios šio tinklalapio dalys nėra saugios (pvz.,
 identity-active-loaded = Šiame tinklalapyje esate išjungę apsaugą.
 identity-weak-encryption = Šis tinklalapis naudoja silpną šifravimą.
 identity-insecure-login-forms = Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.
+identity-https-only-connection-upgraded = (naudojamas HTTPS)
+identity-https-only-label = Tik HTTPS veiksena
+identity-https-only-dropdown-on =
+    .label = Įjungta
+identity-https-only-dropdown-off =
+    .label = Išjungta
+identity-https-only-dropdown-off-temporarily =
+    .label = Išjungta laikinai
 identity-permissions =
     .value = Leidimai
 identity-permissions-reload-hint = Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.
@@ -334,9 +345,6 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
-    .label = Importuoti adresyną…
-    .tooltiptext = Kopijuoti adresyno įrašus iš kitos naršyklės į „{ -brand-short-name }“.
 
 ## WebRTC Pop-up notifications
 
