@@ -94,24 +94,50 @@
 <!ENTITY findAgainCmd.label "Meklēt vēlreiz">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Meklēt iepriekšējo">
+<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Pārkārtot pielikumus">
+<!ENTITY moveAttachmentTopPanelBtn.label "Pārvietot augšā">
+<!ENTITY moveAttachmentUpPanelBtn.label "Pārvietot augšup">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Pārvietot kopā">
+<!ENTITY moveAttachmentDownPanelBtn.label "Pārvietot lejup">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Pārvietot apakšā">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Kārtot: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Kārtot: Z - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Kārtot atlasi: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Kārtot atlasi: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Skats">
 <!ENTITY viewMenu.accesskey "S">
 <!ENTITY viewToolbarsMenuNew.label "Rīkjoslas">
 <!ENTITY viewToolbarsMenuNew.accesskey "R">
+<!ENTITY menubarCmd.label "Izvēlnes josla">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY showCompositionToolbarCmd.label "Salikšanas rīkjosla">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "Formatēšanas josla">
+<!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusa josla">
 <!ENTITY showTaskbarCmd.accesskey "S">
+<!ENTITY customizeToolbar.label "Pielāgot…">
+<!ENTITY customizeToolbar.accesskey "C">
 
+<!ENTITY addressSidebar.label "Kontaktu sānjosla">
+<!ENTITY addressSidebar.accesskey "o">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatēt">
@@ -120,31 +146,89 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Iestatījumi">
 <!ENTITY optionsMenu.accesskey "I">
+<!ENTITY checkSpellingCmd2.label "Pārbaudīt rakstību…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "Pārbaudīt pareizrakstību, rakstot">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY quoteCmd.label "Citēt vēstuli">
+<!ENTITY quoteCmd.accesskey "Q">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCard.label "Pievienot personisko karti (vCard)">
+<!ENTITY attachVCard.accesskey "v">
 
+<!ENTITY returnReceiptMenu.label "Saņemšanas apliecinājums">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY dsnMenu.label "Piegādes statusa paziņojums">
+<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY deliveryFormatMenu.label "Piegādes formāts">
+<!ENTITY deliveryFormatMenu.accesskey "F">
+<!ENTITY autoFormatCmd.label "Noteikt automātiski">
+<!ENTITY autoFormatCmd.accesskey "a">
+<!ENTITY plainTextFormatCmd.label "Tikai teksts">
+<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY htmlFormatCmd.label "Tikai bagāts teksts (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY bothFormatCmd.label "Vienkāršs un bagāts (HTML) teksts">
+<!ENTITY bothFormatCmd.accesskey "l">
 <!ENTITY priorityMenu.label "Prioritāte">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioritāte">
+<!ENTITY priorityButton.tooltiptext "Mainīt vēstules prioritāti">
 <!ENTITY priorityButton.label "Prioritāte:">
+<!ENTITY lowestPriorityCmd.label "Viszemākā">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "Zema">
+<!ENTITY lowPriorityCmd.accesskey "o">
 <!ENTITY normalPriorityCmd.label "Normāls">
 <!ENTITY normalPriorityCmd.accesskey "N">
+<!ENTITY highPriorityCmd.label "Augsta">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "Augstākā">
+<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY fileCarbonCopyCmd.label "Sūtīt kopiju uz">
+<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileHereMenu.label "Fails šeit">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Rīki">
+<!ENTITY tasksMenu.accesskey "R">
+<!ENTITY messengerCmd.label "Pasts &amp; Ziņu grupas">
+<!ENTITY messengerCmd.accesskey "p">
+<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adrešu grāmata">
 <!ENTITY addressBookCmd.accesskey "A">
+<!ENTITY addressBookCmd.key "B">
+<!ENTITY accountManagerCmd2.label "Konta iestatījumi">
+<!ENTITY accountManagerCmd2.accesskey "S">
+<!ENTITY accountManagerCmdUnix2.accesskey "S">
 <!ENTITY preferencesCmd2.label "Iestatījumi">
 <!ENTITY preferencesCmd2.accesskey "I">
 <!ENTITY preferencesCmdUnix.label "Iestatījumi">
 <!ENTITY preferencesCmdUnix.accesskey "u">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Minimizēt">
+<!ENTITY bringAllToFront.label "Novietot visu priekšā">
+<!ENTITY zoomWindow.label "Mērogs">
+<!ENTITY windowMenu.label "Logs">
 
 <!-- Mail Toolbar -->
+<!ENTITY sendButton.label "Sūtīt">
+<!ENTITY quoteButton.label "Citēt">
 <!ENTITY addressButton.label "Kontakti">
+<!ENTITY attachButton.label "Pievienot">
+<!ENTITY spellingButton.label "Pareizrakstība">
 <!ENTITY saveButton.label "Saglabāt">
+<!ENTITY printButton.label "Drukāt">
 
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Sūtīt šo vēstuli tagad">
+<!ENTITY sendlaterButton.tooltip "Sūtīt šo vēstuli vēlāk">
+<!ENTITY quoteButton.tooltip "Citēt iepriekšējo vēstuli">
 <!ENTITY cutButton.tooltip              "Izgriezt">
 <!ENTITY copyButton.tooltip             "Kopēt">
 <!ENTITY pasteButton.tooltip            "Ielīmēt">
