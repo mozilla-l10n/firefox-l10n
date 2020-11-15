@@ -13,6 +13,7 @@
 <!ENTITY image-height.label    "Ύψος:">
 <!ENTITY image-filesize.label  "Μέγεθος αρχείου:">
 <!ENTITY image-filesize.value  "Άγνωστο">
+<!ENTITY insdel-sec.label      "Εισαγωγή/διαγραφή ιδιοτήτων">
 <!ENTITY insdel-cite.label     "Πληροφορίες:">
 <!ENTITY insdel-date.label     "Ημερομηνία:">
 <!ENTITY link-sec.label        "Ιδιότητες συνδέσμου">

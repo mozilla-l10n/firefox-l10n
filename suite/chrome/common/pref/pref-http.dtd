@@ -5,6 +5,8 @@
 <!ENTITY pref.http.title                     "Δικτύωση HTTP">
 
 <!-- Network-->
+<!ENTITY prefDirect.label                    "Επιλογές άμεσης σύνδεσης">
+<!ENTITY prefProxy.label                     "Επιλογές σύνδεσης διακομιστή μεσολάβησης">
 <!ENTITY prefEnableHTTP10.label              "Χρήση HTTP 1.0">
 <!ENTITY prefEnableHTTP10.accesskey          "Χ">
 <!ENTITY prefEnableHTTP10Proxy.accesskey     "σ">

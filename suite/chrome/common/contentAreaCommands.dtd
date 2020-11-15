@@ -15,6 +15,8 @@
 <!ENTITY goBackCmd.accesskey          "Π">
 <!ENTITY goForwardCmd.label           "Εμπρός">
 <!ENTITY goForwardCmd.accesskey       "Ε">
+<!ENTITY goUpCmd.label                "Πάνω">
+<!ENTITY goUpCmd.accesskey            "Π">
 <!ENTITY reloadCmd.label              "Ανανέωση">
 <!ENTITY reloadCmd.accesskey          "Α">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -24,6 +26,8 @@
 <!ENTITY viewPageInfoCmd.accesskey    "Π">
 <!ENTITY viewFrameInfoCmd.label       "Προβολή πληροφοριών πλαισίου">
 <!ENTITY viewFrameInfoCmd.accesskey   "λ">
+<!ENTITY fitImageCmd.label            "Προσαρμογή εικόνας στο παράθυρο">
+<!ENTITY fitImageCmd.accesskey        "Π">
 <!ENTITY reloadImageCmd.label         "Ανανέωση εικόνας">
 <!ENTITY reloadImageCmd.accesskey     "Α">
 <!ENTITY viewImageCmd.label           "Προβολή εικόνας">
@@ -34,6 +38,8 @@
 <!ENTITY viewVideoCmd.accesskey       "β">
 <!ENTITY viewBGImageCmd.label         "Προβολή εικόνας φόντου">
 <!ENTITY viewBGImageCmd.accesskey     "λ">
+<!ENTITY setDesktopBackgroundCmd.label     "Ορισμός φόντου επιφάνειας εργασίας…">
+<!ENTITY setDesktopBackgroundCmd.accesskey "α">
 <!ENTITY savePageAsCmd.label          "Αποθήκευση σελίδας ως…">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας">
 <!ENTITY savePageCmd.accesskey        "σ">
@@ -47,6 +53,8 @@
 <!ENTITY saveVideoCmd.accesskey       "β">
 <!ENTITY saveAudioCmd.label           "Αποθήκευση ήχου ως…">
 <!ENTITY saveAudioCmd.accesskey       "θ">
+<!ENTITY copyLinkCmd.label            "Αντιγραφή τοποθεσίας συνδέσμου">
+<!ENTITY copyLinkCmd.accesskey        "τ">
 <!ENTITY copyImageCmd.label           "Αντιγραφή εικόνας">
 <!ENTITY copyImageCmd.accesskey       "γ">
 <!ENTITY copyVideoURLCmd.label        "Αντιγραφή τοποθεσίας βίντεο">
@@ -117,6 +125,7 @@ items are mutually exclusive. -->
 <!ENTITY fillUsernameMenu.label       "Συμπλήρωση ονόματος χρήστη">
 <!ENTITY fillUsernameMenu.accesskey   "Σ">
 <!ENTITY noLoginSuggestions.label     "(Καμία πρόταση σύνδεσης)">
+<!ENTITY viewSavedLogins.label        "Προβολή αποθηκευμένων συνδέσεων">
 
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Επιθεώρηση στοιχείου">
