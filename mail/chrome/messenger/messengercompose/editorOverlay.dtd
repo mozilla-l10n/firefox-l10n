@@ -254,13 +254,26 @@
 -->
 <!ENTITY tableJoinCells.label "s">
 <!ENTITY tableJoinCells.accesskey "s">
+<!ENTITY tableSplitCell.label "Sadalīt šūnu">
+<!ENTITY tableSplitCell.accesskey "C">
+<!ENTITY convertToTable.label "Izveidot tabulu no atlases">
+<!ENTITY convertToTable.accesskey "r">
+<!ENTITY tableProperties.label "Tabulas īpašības…">
+<!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Attēls">
+<!ENTITY imageToolbarCmd.tooltip "Ievietot jaunu attēlu vai mainīt atlasītā attēla īpašības">
+<!ENTITY hruleToolbarCmd.label "H.Line">
+<!ENTITY hruleToolbarCmd.tooltip "Ievietot horizontālu līniju vai mainīt atlasītās līnijas īpašības">
 <!ENTITY tableToolbarCmd.label "Tabula">
+<!ENTITY tableToolbarCmd.tooltip "Ievietot jaunu tabulu vai mainīt atlasītās tabulas īpašības">
 <!ENTITY linkToolbarCmd.label "Saite">
+<!ENTITY linkToolbarCmd.tooltip "Ievietot jaunu saiti vai mainīt atlasītās saites īpašības">
 <!ENTITY anchorToolbarCmd.label "Enkurs">
+<!ENTITY anchorToolbarCmd.tooltip "Ievietot jaunu nosaukto enkuru vai mainīt atlasītā nosauktā enkura īpašības">
 <!ENTITY TextColorButton.tooltip "Izvēlieties krāsu tekstam">
+<!ENTITY BackgroundColorButton.tooltip "Izvēlieties fona krāsu">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Uzstādiet fonta izmēru">
@@ -269,10 +282,23 @@
 <!ENTITY boldToolbarCmd.tooltip "Treknraksts">
 <!ENTITY italicToolbarCmd.tooltip "Kursīvs">
 <!ENTITY underlineToolbarCmd.tooltip "Pasvītrot">
+<!ENTITY bulletListToolbarCmd.tooltip "Pielietot vai noņemt saraksta aizzīmes">
+<!ENTITY numberListToolbarCmd.tooltip "Pielietot vai noņemt numurējumu">
+<!ENTITY outdentToolbarCmd.tooltip "Izvilkt tekstu (pārvietot pa kreisi)">
+<!ENTITY indentToolbarCmd.tooltip "Ievilkt tekstu (pārvietot pa labi)">
 <!ENTITY AlignPopupButton.tooltip "Izvēlieties teksta novietojumu">
+<!ENTITY InsertPopupButton.tooltip "Ievietot saiti, enkuru, attēlu, horizontālu līniju vai tabulu">
+<!ENTITY alignLeftButton.tooltip "Līdzināt tekstu gar kreiso piemali">
+<!ENTITY alignCenterButton.tooltip "Līdzināt tekstu ap centru">
+<!ENTITY alignRightButton.tooltip "Līdzināt tekstu gar labo piemali">
+<!ENTITY alignJustifyButton.tooltip "Līdzināt tekstu gar kreiso un labo piemali">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ievietot">
 <!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Atjaunināt">
 <!ENTITY updateTOC.accesskey      "u">
+<!ENTITY removeTOC.label          "Noņemt">
+<!ENTITY removeTOC.accesskey      "n">
+<!ENTITY tocMenu.label            "Satura rādītājs…">
+<!ENTITY tocMenu.accesskey        "b">
