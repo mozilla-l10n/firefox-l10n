@@ -7,6 +7,7 @@
 <!ENTITY pref.tags.description      "Οι ετικέτες είναι χρήσιμες για τον ορισμό κατηγοριών και προτεραιότητας των μηνυμάτων σας. Αλλάξτε την εμφάνιση και τη σημασία των ετικετών με τις παρακάτω ρυθμίσεις. Οι ετικέτες κοντά στο πάνω μέρος είναι πιο σημαντικές από αυτές που βρίσκονται πιο κάτω.">
 <!ENTITY tagColumn.label            "Ετικέτα">
 <!ENTITY colorColumn.label          "Χρώμα">
+<!ENTITY defaultTagName.label       "Ετικέτα χωρίς τίτλο">
 <!ENTITY addTagButton.label         "Προσθήκη">
 <!ENTITY addTagButton.accesskey     "Π">
 <!ENTITY deleteTagButton.label      "Διαγραφή">
