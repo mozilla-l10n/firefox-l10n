@@ -79,8 +79,7 @@
 ">
 
 <!ENTITY redirectLoop.longDesc "<ul>
-  <li>Ovaj problem ponekad može biti uzrokovan isključivanjem ili odbijanjem primanja kolačića
-    kolačića.</li>
+  <li>Uzrok tome može biti isključivanje ili odbijanje primanja kolačića.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.longDesc "
