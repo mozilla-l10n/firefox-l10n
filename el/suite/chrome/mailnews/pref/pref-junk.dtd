@@ -2,14 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY pref.junk.title "Ανεπιθύμητη &amp; ύποπτη αλληλογραφία">
+<!ENTITY junkSettings.caption "Καθολικές ρυθμίσεις ανεπιθύμητης αλληλογραφίας">
 
 <!-- Junk Mail Controls -->
 <!ENTITY manualMarkModeDelete.label     "Διαγραφή">
+<!ENTITY manualMarkModeDelete.accesskey "Δ">
 
+<!ENTITY markAsRead.intro               "Επισήμανση μηνυμάτων ως αναγνωσμένων από:">
 
 
 
 <!-- Phishing Detector -->
+<!ENTITY pref.phishing.caption            "Απάτες email">
 
 <!-- Anti Virus -->
 <!ENTITY pref.antivirus.caption           "Προστασία από ιούς">
