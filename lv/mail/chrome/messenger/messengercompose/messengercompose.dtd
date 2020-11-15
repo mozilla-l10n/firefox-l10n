@@ -229,17 +229,57 @@
 <!ENTITY sendButton.tooltip "Sūtīt šo vēstuli tagad">
 <!ENTITY sendlaterButton.tooltip "Sūtīt šo vēstuli vēlāk">
 <!ENTITY quoteButton.tooltip "Citēt iepriekšējo vēstuli">
+<!ENTITY addressButton.tooltip "Izvēlieties adresātu no adrešu grāmatas">
+<!ENTITY attachButton.tooltip2 "Pievienot pielikumu">
+<!ENTITY spellingButton.tooltip "Pārbaudīt atlases vai visas vēstules pareizrakstību">
+<!ENTITY saveButton.tooltip "Saglabāt šo vēstuli">
 <!ENTITY cutButton.tooltip              "Izgriezt">
 <!ENTITY copyButton.tooltip             "Kopēt">
 <!ENTITY pasteButton.tooltip            "Ielīmēt">
+<!ENTITY printButton.tooltip "Drukāt šo vēstuli">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Citi adresācijas lauku veidi">
+<!ENTITY fromAddr2.label "No">
+<!ENTITY fromAddr.accesskey "r">
+<!ENTITY toAddr2.label "Uz">
+<!ENTITY ccAddr2.label "Kopija">
+<!ENTITY bccAddr2.label "Slēpta kopija">
+<!ENTITY replyAddr2.label "Atbildēt uz">
+<!ENTITY newsgroupsAddr2.label "Ziņu grupa">
+<!ENTITY followupAddr2.label "Sekot">
+<!ENTITY subject2.label "Tēma">
+<!ENTITY subject.accesskey "T">
+<!ENTITY attachmentBucketCloseButton.tooltip "Slēpt pielikumu rūti">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
+<!ENTITY SmileButton.tooltip "Ievietot smaidiņu">
+<!ENTITY smiley1Cmd.label "Smaids">
+<!ENTITY smiley2Cmd.label "Saraukta piere">
+<!ENTITY smiley3Cmd.label "Piemiegta acs">
+<!ENTITY smiley4Cmd.label "Izbāzta mēle">
+<!ENTITY smiley5Cmd.label "Smejošs">
+<!ENTITY smiley6Cmd.label "Apmulsis">
+<!ENTITY smiley7Cmd.label "Neizlēmīgs">
+<!ENTITY smiley8Cmd.label "Pārsteigums">
+<!ENTITY smiley9Cmd.label "Skūpsts">
+<!ENTITY smiley10Cmd.label "Kliedziens">
+<!ENTITY smiley11Cmd.label "Vēss">
+<!ENTITY smiley12Cmd.label "Nauda mutē">
+<!ENTITY smiley13Cmd.label "Pēda mutē">
+<!ENTITY smiley14Cmd.label "Nevainīgs">
+<!ENTITY smiley15Cmd.label "Raudošs">
+<!ENTITY smiley16Cmd.label "Aizzīmogotas lūpas">
 
 <!-- Message Pane Context Menu -->
+<!ENTITY spellCheckNoSuggestions.label "Ieteikumi nav atrasti">
+<!ENTITY spellCheckIgnoreWord.label "Ignorēt vārdu">
+<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckAddToDictionary.label "Pievienot vārdnīcai">
+<!ENTITY spellCheckAddToDictionary.accesskey "p">
 <!ENTITY undo.label "Atsaukt">
 <!ENTITY undo.accesskey "u">
 <!ENTITY cut.label "Izgriezt">
@@ -248,12 +288,20 @@
 <!ENTITY copy.accesskey "K">
 <!ENTITY paste.label "Ielīmēt">
 <!ENTITY paste.accesskey "I">
+<!ENTITY pasteQuote.label "Ievietot kā citātu">
+<!ENTITY pasteQuote.accesskey "C">
 
 <!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Atvērt">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY delete.label "Dzēst">
 <!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "Noņemt pielikumu">
+<!ENTITY removeAttachment.accesskey "M">
+<!ENTITY renameAttachment.label "Pārsaukt…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "Pārkārtot pielikumus…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY selectAll.label "Atlasīt visus">
 <!ENTITY selectAll.accesskey "v">
 
