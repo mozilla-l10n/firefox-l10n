@@ -36,8 +36,12 @@
 <!ENTITY savePageCmd.accesskey        "σ">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveImageAsCmd.label         "Αποθήκευση εικόνας ως…">
+<!ENTITY saveImageCmd.label           "Αποθήκευση εικόνας">
+<!ENTITY saveImageCmd.accesskey       "κ">
 <!ENTITY saveVideoCmd.label           "Αποθήκευση βίντεο ως…">
+<!ENTITY saveVideoCmd.accesskey       "β">
 <!ENTITY saveAudioCmd.label           "Αποθήκευση ήχου ως…">
+<!ENTITY saveAudioCmd.accesskey       "θ">
 <!ENTITY copyImageCmd.label           "Αντιγραφή εικόνας">
 <!ENTITY copyImageCmd.accesskey       "γ">
 <!ENTITY copyVideoURLCmd.label        "Αντιγραφή τοποθεσίας βίντεο">
@@ -89,6 +93,8 @@ items are mutually exclusive. -->
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "κ">
 <!ENTITY spellAddToDictionary.label     "Προσθήκη στο λεξικό">
 <!ENTITY spellAddToDictionary.accesskey "ξ">
+<!ENTITY spellUndoAddToDictionary.label      "Αναίρεση προσθήκης στο λεξικό">
+<!ENTITY spellUndoAddToDictionary.accesskey  "ρ">
 <!ENTITY spellIgnoreWord.label          "Παράβλεψη λέξης">
 <!ENTITY spellIgnoreWord.accesskey      "λ">
 <!ENTITY spellCheckEnable.label         "Ορθογραφικός έλεγχος">

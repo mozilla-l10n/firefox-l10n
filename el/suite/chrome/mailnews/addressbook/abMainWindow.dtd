@@ -36,19 +36,42 @@
 <!ENTITY newlistButton.accesskey                        "λ">
 <!ENTITY editItemButton.label                           "Ιδιότητες">
 <!ENTITY editItemButton.accesskey                       "Ι">
+<!ENTITY newmsgButton.label                             "Σύνθεση">
+<!ENTITY newmsgButton.accesskey                         "Σ">
 <!ENTITY deleteItemButton.label                         "Διαγραφή">
 <!ENTITY deleteItemButton.accesskey                     "Δ">
+<!ENTITY newimButton.label                              "Άμεσο μήνυμα">
+<!ENTITY newimButton.accesskey                          "Ά">
+<!ENTITY printButton.label                              "Εκτύπωση">
+<!ENTITY printButton.accesskey                          "κ">
+<!ENTITY searchNameAndEmail.placeholder                 "Αναζήτηση ονομάτων και email">
+<!ENTITY searchBox.title                                "Αναζήτηση">
 
 <!-- Tooltips -->
+<!ENTITY addressbookToolbar.tooltip                     "Γραμμή ευρετηρίων διευθύνσεων">
+<!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
+<!ENTITY newmsgButton.tooltip                           "Αποστολή μηνύματος email">
 
 <!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Ευρετήρια διευθύνσεων">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
+<!ENTITY contact.heading                                "Επαφή">
+<!ENTITY home.heading                                   "Οικία">
+<!ENTITY other.heading                                  "Άλλο">
+<!ENTITY chat.heading                                   "Συνομιλία">
+<!ENTITY phone.heading                                  "Τηλέφωνο">
+<!ENTITY work.heading                                   "Εργασία">
 <!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Περιγραφή">
+<!ENTITY addresses.heading                              "Διευθύνσεις">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Λήψη χάρτη">
 
 <!-- Status Bar -->
+<!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY  hideSwapFnLnUI                                "true">

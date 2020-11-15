@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY itemDownloads.label             "Ιστορικό λήψεων">
+<!ENTITY itemDownloads.accesskey         "Ι">
+<!ENTITY itemCache.label                 "Προσωρινή μνήμη">
+<!ENTITY itemCache.accesskey             "σ">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
 

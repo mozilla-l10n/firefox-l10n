@@ -3,11 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
+<!ENTITY selectAddressWindow.title           "Επιλογή διευθύνσεων">
 
 <!-- Buttons -->
+<!ENTITY toButton.label                      "Προς->">
+<!ENTITY toButton.accesskey                  "Π">
 <!ENTITY newButton.label                     "Νέο…">
 <!ENTITY editButton.label                    "Επεξεργασία…">
 <!ENTITY removeButton.label                  "Αφαίρεση">
 <!ENTITY removeButton.accesskey              "Α">
+<!ENTITY for.label                           "για:">
+<!ENTITY for.accesskey                       "γ">
+<!ENTITY for.placeholder                     "Όνομα ή email">
 
 <!-- Tooltips items -->
+<!ENTITY addressPickerNewButton.tooltip      "Δημιουργία νέας κάρτας ευρετηρίου">

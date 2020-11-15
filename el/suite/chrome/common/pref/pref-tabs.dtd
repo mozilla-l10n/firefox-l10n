@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY tabDisplay.label "Προβολή καρτελών">
+<!ENTITY warnOnClose.label "Προειδοποίηση κατά το κλείσιμο παραθύρου με πολλαπλές καρτέλες">
+<!ENTITY warnOnClose.accesskey "Π">
 
 <!ENTITY urlbar.label "Ctrl+Enter στη γραμμή διευθύνσεων">
 <!ENTITY urlbar.accesskey "τ">

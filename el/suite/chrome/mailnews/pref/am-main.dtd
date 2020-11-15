@@ -4,6 +4,13 @@
 
 <!-- extracted from am-main.xul -->
 
+<!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
+<!ENTITY accountName.label "Όνομα λογαριασμού:">
+<!ENTITY accountName.accesskey "Ό">
+<!ENTITY name.label "Το όνομά σας:">
+<!ENTITY name.accesskey "Τ">
+<!ENTITY email.label "Διεύθυνση email:">
+<!ENTITY email.accesskey "e">
 <!ENTITY choose.label "Επιλογή…">
 <!ENTITY editVCard.label "Επεξεργασία κάρτας…">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
