@@ -20,7 +20,7 @@
 <!ENTITY newAddressBookCmd.accesskey                    "ρ">
 <!ENTITY newCardDAVBookCmd.label                        "Ευρετήριο διευθύνσεων CardDAV…">
 <!ENTITY newCardDAVBookCmd.accesskey                    "V">
-<!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP...">
+<!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "Κ">
 <!ENTITY newMessageCmd.label                            "Μήνυμα">
 <!ENTITY newMessageCmd.key                              "M">
@@ -31,7 +31,7 @@
 <!ENTITY closeCmd.label                                 "Κλείσιμο">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "Κ">
-<!ENTITY printSetupCmd.label                            "Διαμόρφωση σελίδας...">
+<!ENTITY printSetupCmd.label                            "Διαμόρφωση σελίδας…">
 <!ENTITY printSetupCmd.accesskey                        "Δ">
 <!ENTITY printPreviewContactCmd.label                   "Προεπισκόπηση εκτύπωσης επαφής">
 <!ENTITY printPreviewContactCmd.accesskey               "ε">
@@ -40,7 +40,7 @@
 <!ENTITY printContactCmd.label                          "Εκτύπωση επαφής…">
 <!ENTITY printContactCmd.accesskey                      "π">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Εκτύπωση ευρετηρίου διευθύνσεων...">
+<!ENTITY printAddressBook.label                         "Εκτύπωση ευρετηρίου…">
 <!ENTITY printAddressBook.accesskey                     "κ">
 
 <!-- Edit Menu -->
@@ -102,11 +102,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Αλληλογραφία &amp; ομάδες συζήτησης">
 <!ENTITY messengerCmd.accesskey                         "λ">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Αναζήτηση διευθύνσεων">
+<!ENTITY searchAddressesCmd.label                       "Αναζήτηση διευθύνσεων…">
 <!ENTITY searchAddressesCmd.accesskey                   "ζ">
-<!ENTITY importCmd.label                                "Εισαγωγή...">
+<!ENTITY importCmd.label                                "Εισαγωγή…">
 <!ENTITY importCmd.accesskey                            "ι">
-<!ENTITY exportCmd.label                                "Εξαγωγή...">
+<!ENTITY exportCmd.label                                "Εξαγωγή…">
 <!ENTITY exportCmd.accesskey                            "ξ">
 <!ENTITY preferencesCmd2.label                          "Επιλογές">
 <!ENTITY preferencesCmd2.accesskey                      "π">

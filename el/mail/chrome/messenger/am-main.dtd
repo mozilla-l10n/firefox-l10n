@@ -35,7 +35,7 @@
 <!ENTITY attachVCard.label "Επισύναψη προσωπικής vCard σε μηνύματα">
 <!ENTITY attachVCard.accesskey "α">
 
-<!ENTITY manageIdentities.label "Διαχείριση ταυτοτήτων...">
+<!ENTITY manageIdentities.label "Διαχείριση ταυτοτήτων…">
 <!ENTITY manageIdentities.accesskey "Δ">
 
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->

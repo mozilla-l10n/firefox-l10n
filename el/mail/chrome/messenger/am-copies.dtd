@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-copies.xul -->
-
 <!-- extracted from am-copies.xhtml -->
 
 <!ENTITY copyAndFolderTitle.label "Αντίγραφα και φάκελοι">
@@ -31,7 +29,7 @@
 <!ENTITY archivesTitle.label "Αρχεία μηνυμάτων">
 <!ENTITY keepArchives.label "Διατήρηση αρχείων μηνυμάτων:">
 <!ENTITY keepArchives.accesskey "Δ">
-<!ENTITY archiveHierarchyButton.label "Επιλογές αρχειοθέτησης">
+<!ENTITY archiveHierarchyButton.label "Επιλογές αρχειοθέτησης…">
 <!ENTITY archiveHierarchyButton.accesskey "χ">
 <!ENTITY archivesFolderOn.label "Στο φάκελο &quot;Αρχειοθήκη&quot; του:">
 <!ENTITY archivesFolderOn.accesskey "χ">

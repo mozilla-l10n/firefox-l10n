@@ -7,7 +7,7 @@
 <!ENTITY docSubdir.label       "Υποκατάλογος σελίδας...">
 <!ENTITY otherSubdir.label     "Υποκατάλογος εικόνας...">
 
-<!ENTITY status.label          "Δημοσίευση...">
+<!ENTITY status.label          "Δημοσίευση…">
 <!ENTITY fileList.label        "Κατάσταση δημοσίευσης">
 <!ENTITY succeeded.label       "Επιτυχία">
 <!ENTITY failed.label          "Αποτυχία">
