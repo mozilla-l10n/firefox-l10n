@@ -23,7 +23,7 @@
 <!ENTITY stopButton.label "Διακοπή">
 <!ENTITY stopButton.accessKey "κ">
 <!ENTITY userDictionary.label "Λεξικό χρήστη:">
-<!ENTITY moreDictionaries.label "Λήψη περισσότερων">
+<!ENTITY moreDictionaries.label "Λήψη περισσότερων λεξικών…">
 <!ENTITY addToUserDictionaryButton.label "Προσθήκη λέξης">
 <!ENTITY addToUserDictionaryButton.accessKey "θ">
 <!ENTITY editUserDictionaryButton.label "Επεξεργασία…">

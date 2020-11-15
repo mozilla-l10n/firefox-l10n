@@ -23,7 +23,7 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Ιστοσελίδα...">
+<!ENTITY attachPageCmd.label "Ιστοσελίδα…">
 <!ENTITY attachPageCmd.accesskey "σ">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Προσωπική κάρτα (vCard)">
@@ -38,7 +38,7 @@
 <!ENTITY saveCmd.accesskey "θ">
 <!ENTITY saveAsCmd.label "Αποθήκευση ως">
 <!ENTITY saveAsCmd.accesskey "θ">
-<!ENTITY saveAsFileCmd.label "Αρχείο...">
+<!ENTITY saveAsFileCmd.label "Αρχείο…">
 <!ENTITY saveAsFileCmd.accesskey "ρ">
 <!ENTITY saveAsDraftCmd.label "Προσχέδιο">
 <!ENTITY saveAsDraftCmd.accesskey "χ">
@@ -50,11 +50,11 @@
 <!ENTITY sendLaterCmd.label "Αναβολή αποστολής">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "β">
-<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
+<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας…">
 <!ENTITY printSetupCmd.accesskey "φ">
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printPreviewCmd.accesskey "ρ">
-<!ENTITY printCmd.label "Εκτύπωση...">
+<!ENTITY printCmd.label "Εκτύπωση…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Ε">
 
@@ -79,7 +79,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Μετονομασία συνημμένου…">
 <!ENTITY renameAttachmentCmd.accesskey "τ">
-<!ENTITY reorderAttachmentsCmd.label "Επανακατάταξη Συνημμένων…">
+<!ENTITY reorderAttachmentsCmd.label "Αναδιάταξη συνημμένων…">
 <!ENTITY reorderAttachmentsCmd.accesskey "π">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Πίνακας συνημμένων">
@@ -300,13 +300,13 @@
 <!ENTITY removeAttachment.accesskey "ρ">
 <!ENTITY renameAttachment.label "Μετονομασία…">
 <!ENTITY renameAttachment.accesskey "τ">
-<!ENTITY reorderAttachments.label "Ανακατάταξη συνημμένων…">
+<!ENTITY reorderAttachments.label "Αναδιάταξη συνημμένων…">
 <!ENTITY reorderAttachments.accesskey "ν">
 <!ENTITY removeAllAttachments.label "Αφαίρεση όλων των συνημμένων">
 <!ENTITY removeAllAttachments.accesskey "ρ">
 <!ENTITY selectAll.label "Επιλογή όλων">
 <!ENTITY selectAll.accesskey "λ">
-<!ENTITY attachFile.label "Επισύναψη αρχείων…">
+<!ENTITY attachFile.label "Επισύναψη αρχείου(ων)…">
 <!ENTITY attachFile.accesskey "σ">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
