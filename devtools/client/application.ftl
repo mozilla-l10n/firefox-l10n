@@ -73,11 +73,18 @@ serviceworker-empty-suggestions-aboutdebugging = Ikustatu beste domeinuetako zer
 serviceworker-empty-intro2 = Ez da zerbitzu-langilerik aurkitu
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Argibide gehiago
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Ikusi beste domeinuetako zerbitzu-langileak
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Aplikazioaren manifestua
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Aplikazioaren manifestu-fitxategia gehitu behar duzu hemen ikuskatu ahal izateko. <a>Argibide gehiago</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Ez da web aplikazioaren manifesturik antzeman
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Ikasi nola gehitzen den manifestua
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Erroreak eta abisuak
 # Header for the Identity section of Manifest inspection displayed in the application panel.
