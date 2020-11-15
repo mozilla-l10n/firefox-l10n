@@ -1,19 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!-- Window title -->
-
-
 <!ENTITY windowTitle.label "Ievietot rakstzīmi">
 <!ENTITY category.label "Kategorija">
-
-
+<!ENTITY letter.label "Vēstule:">
+<!ENTITY letter.accessKey "V">
 <!ENTITY character.label "Rakstzīme:">
 <!ENTITY character.accessKey "R">
-
-
-
-
-
+<!ENTITY accentUpper.label "Uzsvērti lielie burti">
+<!ENTITY accentLower.label "Uzsvērti mazie burti">
+<!ENTITY otherUpper.label "Citi lielie burti">
+<!ENTITY otherLower.label "Citi mazie burti">
+<!ENTITY commonSymbols.label "Izplatīti simboli">
 <!ENTITY insertButton.label "Ievietot">
 <!ENTITY closeButton.label "Aizvērt">

@@ -69,6 +69,7 @@
 <!ENTITY showImageLinkBorder.accessKey "A">
 <!ENTITY LinkAdvancedEditButton.label "Saistīt papildu rediģēšanu…">
 <!ENTITY LinkAdvancedEditButton.accessKey "S">
+<!ENTITY LinkAdvancedEditButton.tooltip "Pievienot vai mainīt HTML atribūtus, stila atribūtus un JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Forma">
