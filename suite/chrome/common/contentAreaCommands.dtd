@@ -34,9 +34,12 @@
 <!ENTITY viewVideoCmd.accesskey       "β">
 <!ENTITY viewBGImageCmd.label         "Προβολή εικόνας φόντου">
 <!ENTITY viewBGImageCmd.accesskey     "λ">
+<!ENTITY savePageAsCmd.label          "Αποθήκευση σελίδας ως…">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας">
 <!ENTITY savePageCmd.accesskey        "σ">
 <!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameAsCmd.label         "Αποθήκευση καρέ ως…">
+<!ENTITY printFrameCmd.label          "Εκτύπωση καρέ…">
 <!ENTITY saveImageAsCmd.label         "Αποθήκευση εικόνας ως…">
 <!ENTITY saveImageCmd.label           "Αποθήκευση εικόνας">
 <!ENTITY saveImageCmd.accesskey       "κ">

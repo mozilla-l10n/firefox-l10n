@@ -31,7 +31,9 @@
 <!ENTITY importBookmarksFromHTML.accesskey "Ε">
 <!ENTITY exportBookmarksToHTML.label       "Εξαγωγή σελιδοδεικτών σε HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "Ε">
+<!ENTITY importOtherBrowser.label          "Εισαγωγή δεδομένων από άλλο φυλλομετρητή…">
 
+<!ENTITY cmd.backup.label               "Αντίγραφο ασφαλείας…">
 <!ENTITY cmd.restore2.label             "Επαναφορά">
 <!ENTITY cmd.restore2.accesskey         "Ε">
 <!ENTITY cmd.restoreFromFile.label      "Επιλογή αρχείου…">

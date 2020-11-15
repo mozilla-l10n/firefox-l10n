@@ -20,6 +20,7 @@
 <!ENTITY contextSendVideo.accesskey      "β">
 <!ENTITY contextSendAudio.label          "Αποστολή ήχου…">
 <!ENTITY contextSendAudio.accesskey      "χ">
+<!ENTITY contextSendFrame.label          "Αποστολή καρέ…">
 
 <!ENTITY sendLinkCmd.label               "Αποστολή συνδέσμου…"> 
 

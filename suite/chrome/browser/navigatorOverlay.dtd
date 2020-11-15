@@ -4,6 +4,7 @@
 
 <!-- File Menu -->
 <!ENTITY tabCmd.commandkey "t">
+<!ENTITY openCmd.label "Άνοιγμα διαδικτυακής τοποθεσίας…">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
 <!ENTITY openFileCmd.accesskey "Ά">

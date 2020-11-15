@@ -14,3 +14,4 @@
 <!ENTITY  http.accesskey                "Δ">
 <!ENTITY  port.label                    "Θύρα:">
 <!ENTITY  HTTPPort.accesskey            "ρ">
+<!ENTITY  advanced.label                "Για προχωρημένους…">

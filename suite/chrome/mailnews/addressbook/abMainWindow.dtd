@@ -14,6 +14,7 @@
 <!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP…">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Εκτύπωση επαφής…">
+<!ENTITY printAddressBook.label                         "Εκτύπωση ευρετηρίου…">
 
 <!-- Edit Menu -->
 <!ENTITY deleteContactCmd.label                         "Διαγραφή επαφής">
