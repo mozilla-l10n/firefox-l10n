@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Используйте с осторожностью
 pane-experimental-search-results-header = Эксперименты { -brand-short-name }: Используйте с осторожностью
 pane-experimental-description = Изменение расширенных настроек может затронуть производительность или безопасность { -brand-short-name }.
+pane-experimental-reset =
+    .label = Восстановить значения по умолчанию
+    .accesskey = с
 help-button-label = Поддержка { -brand-short-name }
 addons-button-label = Расширения и темы
 focus-search =
@@ -933,6 +936,7 @@ addressbar-suggestions-settings = Изменить настройки для п�
 content-blocking-enhanced-tracking-protection = Улучшенная защита от отслеживания
 content-blocking-section-top-level-description = Трекеры отслеживают вас в Интернете, чтобы собирать информацию о ваших привычках и интересах. { -brand-short-name } блокирует многие из этих трекеров и других вредоносных скриптов.
 content-blocking-learn-more = Подробнее
+content-blocking-fpi-incompatibility-warning = Вы используете First Party Isolation (FPI), которая переопределяет некоторые настройки кук { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

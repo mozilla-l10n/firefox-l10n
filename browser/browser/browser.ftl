@@ -303,6 +303,8 @@ identity-https-only-info-turn-off2 = Если страница кажется с
 identity-https-only-info-no-upgrade = Невозможно переключить соединение с HTTP.
 identity-permissions =
     .value = Разрешения
+identity-permissions-storage-access-header = Межсайтовые куки
+identity-permissions-storage-access-hint = Следующие стороны могут использовать межсайтовые куки и данные сайта, пока вы находитесь на этом сайте.
 identity-permissions-reload-hint = Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.
 identity-permissions-empty = Вы не давали этому сайту каких-либо специальных разрешений.
 identity-clear-site-data =
@@ -348,9 +350,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Импорт закладок…
-    .tooltiptext = Скопируйте закладки из другого браузера в { -brand-short-name }.
+    .tooltiptext = Импорт закладок из другого браузера в { -brand-short-name }.
+bookmarks-toolbar-empty-message = Для ускорения доступа разместите свои закладки на панели закладок. <a data-l10n-name="manage-bookmarks">Управление закладками…</a>
 
 ## WebRTC Pop-up notifications
 
