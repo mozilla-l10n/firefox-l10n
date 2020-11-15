@@ -19,6 +19,7 @@
 <!ENTITY link-url.label        "Διεύθυνση:">
 <!ENTITY link-target.label     "Θα ανοίξει σε:">
 <!ENTITY link-rel.label        "Σχέση:">
+<!ENTITY misc-sec.label        "Διάφορες ιδιότητες">
 <!ENTITY misc-lang.label       "Γλώσσα κειμένου:">
 <!ENTITY misc-title.label      "Τίτλος:">
 <!ENTITY misc-tblsummary.label "Περίληψη πίνακα:">

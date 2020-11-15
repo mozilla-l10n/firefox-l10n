@@ -55,4 +55,6 @@
      channel.description.start and channel.description.end create one sentence,
      with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Αυτή τη στιγμή, βρίσκεστε στο κανάλι ενημερώσεων ">
+<!ENTITY channel.description.end    " .">
 <!ENTITY about.userAgent            "Πλατφόρμα χρήστη: ">

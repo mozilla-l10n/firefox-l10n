@@ -32,6 +32,8 @@
 <!ENTITY viewImageInfoCmd.accesskey   "ι">
 <!ENTITY viewVideoCmd.label           "Προβολή βίντεο">
 <!ENTITY viewVideoCmd.accesskey       "β">
+<!ENTITY viewBGImageCmd.label         "Προβολή εικόνας φόντου">
+<!ENTITY viewBGImageCmd.accesskey     "λ">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας">
 <!ENTITY savePageCmd.accesskey        "σ">
 <!ENTITY savePageCmd.commandkey       "s">
