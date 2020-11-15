@@ -5,6 +5,7 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "HTML pasta jautājums">
 
+<!ENTITY recipient.label "Daži no adresātiem nav norādījuši, ka var saņemt HTML pastu.">
 
 <!ENTITY question.label "Vai vēlaties pārvērst ziņojumu par vienkāršu tekstu vai tomēr nosūtīt to HTML formātā?">
 
