@@ -51,6 +51,9 @@ category-experimental =
     .tooltiptext = { -brand-short-name } esperimentuak
 pane-experimental-subtitle = Kontuz jarraitu
 pane-experimental-description = Konfigurazio-hobespen aurreratuak aldatzeak { -brand-short-name }(r)en errendimendu edo segurtasunean eragin lezake.
+pane-experimental-reset =
+    .label = Berrezarri lehenespenak
+    .accesskey = h
 help-button-label = { -brand-short-name } laguntza
 addons-button-label = Hedapenak eta itxurak
 focus-search =
@@ -83,6 +86,9 @@ extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } hedapenak zure fitxa berriaren orria kontrolatzen du.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Hedapen bat, <img data-l10n-name="icon"/> { $name }, ezarpen hau kontrolatzen ari da.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Hedapen bat, <img data-l10n-name="icon"/> { $name }, ezarpen hau kontrolatzen ari da.
