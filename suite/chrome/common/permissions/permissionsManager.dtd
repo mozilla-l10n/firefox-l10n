@@ -13,5 +13,7 @@
 <!ENTITY address.accesskey              "δ">
 <!ENTITY block.label                    "Φραγή">
 <!ENTITY block.accesskey                "Φ">
+<!ENTITY session.label                  "Αποδοχή για τη συνεδρία">
+<!ENTITY session.accesskey              "σ">
 <!ENTITY allow.label                    "Αποδοχή">
 <!ENTITY allow.accesskey                "Α">

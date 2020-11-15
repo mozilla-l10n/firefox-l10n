@@ -23,6 +23,9 @@
      mac platform, other platforms use VK_F9. -->
 <!ENTITY showHideSidebarCmd.key         "S">
 
+<!ENTITY sidebar.no-panels.state     "Η πλευρική στήλη είναι προς το παρόν άδεια.">
+<!ENTITY sidebar.no-panels.add       'Μπορείτε να προσθέσετε καρτέλες κάνοντας κλικ στο κουμπί "Καρτέλες" παραπάνω.'>
+<!ENTITY sidebar.no-panels.hide      'Αν θέλετε να αποκρύψετε εντελώς την πλευρική στήλη, κάντε κλικ στο μενού "Προβολή" παραπάνω και επιλέξτε "Πλευρική στήλη" από το υπομενού "Εμφάνιση/Απόκρυψη".'>
 <!ENTITY sidebar.sbDirectory.label   "Κατάλογος πλευρικής στήλης…">
 
 <!ENTITY sidebar.pagenotfound.label  "Αυτή η καρτέλα δεν είναι διαθέσιμη αυτή τη στιγμή.">
