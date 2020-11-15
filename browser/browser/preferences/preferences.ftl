@@ -787,6 +787,7 @@ forms-master-pw-fips-title = Une honetan FIPS moduan zaude. FIPS moduak pasahitz
 forms-primary-pw-change =
     .label = Aldatu pasahitz nagusia…
     .accesskey = d
+forms-primary-pw-fips-title = Une honetan FIPS moduan zaude. FIPS moduak pasahitz nagusia ezartzea eskatzen du.
 forms-master-pw-fips-desc = Pasahitz aldaketak huts egin du
 
 ## OS Authentication dialog
@@ -798,6 +799,13 @@ master-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sartu
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = sortu pasahitz nagusia
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Sortu pasahitz nagusia
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -868,6 +876,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Guneen arteko jarraipen-elementuak
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Guneen arteko eta sare sozialetako jarraipen-elementuak
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Guneen arteko jarraipen cookieak — sare sozialetako cookieak ere baditu
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Guneen arteko cookieak — sare sozialetako cookieak ere baditu
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Guneen arteko eta sare sozialetako jarraipen-elementuak; bakartu gainerako cookieak
 sitedata-option-block-unvisited =
@@ -933,6 +945,7 @@ content-blocking-etp-standard-desc = Babeserako eta errendimendurako orekatua. O
 content-blocking-etp-strict-desc = Babes sendoagoa baina zenbait gune edo eduki apurtzea eragin lezake.
 content-blocking-etp-custom-desc = Aukeratu blokeatu beharreko jarraipen-elementu eta scriptak.
 content-blocking-private-windows = Edukiaren jarraipena leiho pribatuetan
+content-blocking-cross-site-cookies = Guneen arteko cookieak
 content-blocking-cross-site-tracking-cookies = Guneen arteko cookie jarraipen-egileak
 content-blocking-cross-site-tracking-cookies-plus-isolate = Guneen arteko jarraipen cookieak; bakartu gainerako cookieak
 content-blocking-social-media-trackers = Sare sozialetako jarraipen-elementuak
@@ -1116,6 +1129,13 @@ space-alert-under-5gb-message = { -brand-short-name } leku erabilgarririk gabe g
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-learn-more = Argibide gehiago
+httpsonly-radio-enabled =
+    .label = Gaitu HTTPS-Only modua leiho guztietan
+httpsonly-radio-enabled-pbm =
+    .label = Gaitu HTTPS-Only modua leiho pribatuetan soilik
+httpsonly-radio-disabled =
+    .label = Ez gaitu HTTPS-Only modua
 
 ## The following strings are used in the Download section of settings
 
