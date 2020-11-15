@@ -27,3 +27,4 @@
 <!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
      Only one of these will show at a time (based on setup state),
      so reusing accesskey is ok. -->
+<!ENTITY syncSetup.label "Ρύθμιση Sync…">
