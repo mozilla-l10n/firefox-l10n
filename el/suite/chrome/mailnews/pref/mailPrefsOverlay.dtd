@@ -6,7 +6,7 @@
 
 <!-- These are added to the Window menu -->
 <!ENTITY addressbook.label                "Ευρετήριο διευθύνσεων">
-<!ENTITY addressbook.accesskey            "E">
+<!ENTITY addressbook.accesskey            "Ε">
 
 <!-- These are added to Preferences dialog -->
 <!ENTITY notifications.label              "Ειδοποιήσεις">
