@@ -11,7 +11,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Una error s'es produita pendent una connexion a { $hostname }. { $errorMessage }
+ssl-connection-error = Una error s'es producha pendent una connexion a { $hostname }. { $errorMessage }
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còdi d’error : { $error }
@@ -158,7 +158,7 @@ ssl-error-no-supported-signature-algorithm = Pas cap d'algoritme TLS de signatur
 ssl-error-unsupported-signature-algorithm = Lo par a utilizat una combinason non presa en carga de signatura e d’algoritme de trissatge.
 ssl-error-missing-extended-master-secret = Lo par a ensajat de tornar sens extension extended_master_secret corrècta.
 ssl-error-unexpected-extended-master-secret = Lo par a ensajat de tornar amb una extension extended_master_secret imprevista.
-sec-error-io = Una error d'entrada/sortida s'es produita pendent l'autorizacion de seguretat.
+sec-error-io = Una error d'entrada/sortida s'es producha pendent l'autorizacion de seguretat.
 sec-error-library-failure = Fracàs de la bibliotèca de seguretat.
 sec-error-bad-data = Bibliotèca de seguretat : donadas incorrèctas recebudas.
 sec-error-output-len = Bibliotèca de seguretat : error de longor de las donadas en sortida.
@@ -324,10 +324,10 @@ sec-error-bad-http-response = Lo servidor a renviat una marrida responsa HTTP
 sec-error-bad-ldap-response = Lo servidor a renviat una marrida responsa LDAP
 sec-error-failed-to-encode-data = Fracàs de l'encodatge de donadas amb l'encodador ASN1
 sec-error-bad-info-access-location = Marrida informacion d'emplaçament d'accès dins l'extension de certificat
-sec-error-libpkix-internal = Una error intèrna libpkix s'es produita pendent la validacion de certificat.
-sec-error-pkcs11-general-error = Un modul PKCS #11 a renviat CKR_GENERAL_ERROR, qu'indica qu'una error irrecuperabla s'es produita.
+sec-error-libpkix-internal = Una error intèrna libpkix s'es producha pendent la validacion de certificat.
+sec-error-pkcs11-general-error = Un modul PKCS #11 a renviat CKR_GENERAL_ERROR, qu'indica qu'una error irrecuperabla s'es producha.
 sec-error-pkcs11-function-failed = Un modul PKCS #11 a renviat CKR_FUNCTION_FAILED, qu'indican que la foncion demandada podiá pas èsser realizada. Ensajar tornarmai la meteissa operacion poiriá foncionar.
-sec-error-pkcs11-device-error = Un modul PKCS #11 a renviat CKR_DEVICE_ERROR, qu'indica qu'un problèma amb lo geton o lo slot s'es produit.
+sec-error-pkcs11-device-error = Un modul PKCS #11 a renviat CKR_DEVICE_ERROR, qu'indica qu'un problèma amb lo geton o lo slot s'es produch.
 sec-error-bad-info-access-method = Metòde d'accès a l'informacion desconeguda dins l'extension de certificat.
 sec-error-crl-import-failed = Error al moment de la temptativa d'importacion d'una lista de revocacion de certificat (CRL).
 sec-error-expired-password = Lo senhal a expirat.
