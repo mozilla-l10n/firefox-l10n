@@ -2,6 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY pref.addressing.title                 "Διευθυνσιοδότηση">
+<!ENTITY emailCollectiontitle.label            "Συλλογή διευθύνσεων email">
+<!ENTITY emailCollectionPicker.label           "Προσθήκη διευθύνσεων email στο:">
+<!ENTITY emailCollectionPicker.accesskey       "σ">
 
 <!-- Autocompletion -->
+<!ENTITY addressingTitle.label                 "Αυτόματη συμπλήρωση διευθύνσεων">
+<!ENTITY addressingEnable.label                "Τοπικά ευρετήρια">
+<!ENTITY directories.label                     "Διακομιστής καταλόγου:">
+<!ENTITY directories.accesskey                 "Δ">
+<!ENTITY directoriesNone.label                 "Κανένας">
 <!ENTITY editDirectories.label                 "Επεξεργασία καταλόγων…">
+<!ENTITY editDirectories.accesskey             "Ε">
