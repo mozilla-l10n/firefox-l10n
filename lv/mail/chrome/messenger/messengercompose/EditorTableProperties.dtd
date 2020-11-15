@@ -2,69 +2,74 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY tableWindow.title                "Tabulas īpašības">
+<!ENTITY applyButton.label                "Pielietot">
+<!ENTITY applyButton.accesskey            "A">
 <!ENTITY closeButton.label                "Aizvērt">
+<!ENTITY tableTab.label                   "Tabula">
+<!ENTITY cellTab.label                    "Šūnas">
+<!ENTITY tableRows.label                  "Rindas:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "Kolonnas:">
+<!ENTITY tableColumns.accessKey           "K">
+<!ENTITY tableHeight.label                "Augstums:">
+<!ENTITY tableHeight.accessKey            "A">
+<!ENTITY tableWidth.label                 "Platums:">
+<!ENTITY tableWidth.accessKey             "P">
+<!ENTITY tableBorderSpacing.label         "Apmales un atstatumi">
+<!ENTITY tableBorderWidth.label           "Apmale:">
+<!ENTITY tableBorderWidth.accessKey       "A">
+<!ENTITY tableSpacing.label               "Atstatums:">
+<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePadding.label               "Polsteris:">
+<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePxBetwCells.label           "punkti starp šūnām">
+<!ENTITY tablePxBetwBrdrCellContent.label "punkti starp šūnas apmali un saturu">
+<!ENTITY tableAlignment.label             "Tabulas izlīdzināšana:">
+<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableCaption.label               "Paraksts:">
+<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaptionAbove.label          "Virs tabulas">
+<!ENTITY tableCaptionBelow.label          "Zem tabulas">
+<!ENTITY tableCaptionLeft.label           "Pa kreisi no tabulas">
+<!ENTITY tableCaptionRight.label          "Pa labi no tabulas">
+<!ENTITY tableCaptionNone.label           "Nav">
+<!ENTITY tableInheritColor.label           "(Ļaut lapas krāsai spīdēt cauri)">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY cellSelection.label              "Atlase">
+<!ENTITY cellSelectCell.label             "Šūna">
+<!ENTITY cellSelectRow.label              "Rinda">
 <!ENTITY cellSelectColumn.label           "Kolonna">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY cellSelectNext.label             "Nākamais">
+<!ENTITY cellSelectNext.accessKey         "N">
+<!ENTITY cellSelectPrevious.label         "Iepriekšējais">
+<!ENTITY cellSelectPrevious.accessKey     "I">
+<!ENTITY applyBeforeChange.label          "Pašreizējās izmaiņas tiks piemērotas pirms atlases maiņas.">
+<!ENTITY cellContentAlignment.label       "Satura līdzināšana">
+<!ENTITY cellHorizontal.label             "Horizontāli:">
+<!ENTITY cellHorizontal.accessKey         "H">
+<!ENTITY cellVertical.label               "Vertikāli:">
+<!ENTITY cellVertical.accessKey           "V">
+<!ENTITY cellStyle.label                  "Šūnas stils:">
+<!ENTITY cellStyle.accessKey              "S">
+<!ENTITY cellNormal.label                 "Parasts">
+<!ENTITY cellHeader.label                 "Galvene">
+<!ENTITY cellTextWrap.label               "Teksta aplaušana:">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "Aplauzt">
+<!ENTITY cellNoWrap.label                 "Neaplauzt">
+<!ENTITY cellAlignTop.label               "Augšā">
+<!ENTITY cellAlignMiddle.label            "Vidū">
+<!ENTITY cellAlignBottom.label            "Apakšā">
+<!ENTITY cellAlignJustify.label           "Taisnot">
+<!ENTITY cellInheritColor.label           "(Ļaut tabulas krāsai rādīties cauri)">
+<!ENTITY cellUseCheckboxHelp.label        "Izmantojiet izvēles rūtiņas, lai noteiktu, kuras īpašības pielietot visām atlasītajām šūnām">
 
 <!-- Used in both Table and Cell panels  -->
-
-
-
-
-
-
+<!ENTITY size.label                       "Izmērs">
+<!ENTITY pixels.label                     "punkti">
+<!ENTITY backgroundColor.label            "Fona krāsa:">
+<!ENTITY backgroundColor.accessKey        "F">
+<!ENTITY AlignLeft.label                  "Pa kreisi">
+<!ENTITY AlignCenter.label                "Centrēts">
+<!ENTITY AlignRight.label                 "Pa labi">
