@@ -12,8 +12,14 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1a) - The text content of the span
 tag will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara1a "Ζητήσατε από το &brandShortName; να συνδεθεί
+με ασφάλεια στο <span class='hostname'/>, αλλά δεν μπορούμε να επαληθεύσουμε
+ότι η σύνδεση είναι ασφαλής.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Τι πρέπει να κάνω;">
+<!ENTITY certerror.whatShouldIDo.content "Αν συνδέεστε συχνά σε
+αυτή την ιστοσελίδα χωρίς προβλήματα, αυτό το σφάλμα σημαίνει ότι κάποιος
+προσπαθεί να την υποδυθεί και δεν πρέπει να συνεχίσετε.">
 
 <!ENTITY certerror.expert.heading "Κατανοώ τους κινδύνους">
 <!ENTITY certerror.addException.label "Προσθήκη εξαίρεσης…">

@@ -5,6 +5,8 @@
 <!-- Link Toolbar Title -->
 
 <!-- Link Toolbar visibility options -->
+<!ENTITY linkToolbarNever.label "Πάντα απόκρυψη">
+<!ENTITY linkToolbarNever.accesskey "α">
 
 <!-- Toolbar buttons, menus, and menuitems -->
 <!ENTITY firstButton.label "Πρώτο">
@@ -17,14 +19,17 @@
 <!ENTITY tocButton.label "Πίνακας περιεχομένων">
 <!ENTITY chapterButton.label "Κεφάλαια">
 <!ENTITY sectionButton.label "Ενότητες">
+<!ENTITY subSectionButton.label "Υπό-ενότητες">
 <!ENTITY appendixButton.label "Παραρτήματα">
 <!ENTITY glossaryButton.label "Γλωσσάριο">
+<!ENTITY indexButton.label "Ευρετήριο">
 
 <!ENTITY moreButton.label "Περισσότερα">
 
 <!ENTITY helpButton.label "Βοήθεια">
 <!ENTITY searchButton.label "Αναζήτηση">
 
+<!ENTITY authorButton.label "Δημιουργός(οί)">
 <!ENTITY copyrightButton.label "Πνευματικά δικαιώματα">
 
 <!ENTITY bookmarkButton.label "Σελιδοδείκτες">

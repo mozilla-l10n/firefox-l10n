@@ -20,5 +20,6 @@
 <!ENTITY activeLinkColor.label             "Ενεργοί σύνδεσμοι:">
 <!ENTITY activeLinkColor.accesskey         "ρ">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
+<!ENTITY someProvColors                    "Όταν μια ιστοσελίδα παρέχει τα δικά της χρώματα και φόντο">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
