@@ -21,6 +21,8 @@
 <!ENTITY manageAccount.accesskey      "λ">
 <!ENTITY changePassword.label         "Αλλαγή κωδικού πρόσβασης">
 <!ENTITY changePassword.accesskey     "Α">
+<!ENTITY myRecoveryKey.label          "Το κλειδί ανάκτησής μου">
+<!ENTITY myRecoveryKey.accesskey      "Τ">
 <!ENTITY unlinkDevice.label           "Αποσύνδεση συσκευής">
 <!ENTITY unlinkDevice.accesskey       "σ">
 <!ENTITY addDevice.label              "Προσθήκη συσκευής">
@@ -30,6 +32,7 @@
 <!ENTITY syncComputerName.label       "Όνομα υπολογιστή:">
 <!ENTITY syncComputerName.accesskey   "Ό">
 
+<!ENTITY syncMy2.label              "Συγχρονισμός:">
 <!ENTITY engine.addons.label        "Πρόσθετα">
 <!ENTITY engine.addons.accesskey    "Π">
 <!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">

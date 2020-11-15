@@ -38,6 +38,7 @@
 
 <!ENTITY menuBar.tooltip       "Γραμμή μενού">
 <!ENTITY modeToolbar.tooltip   "Γραμμή λειτουργίας">
+<!ENTITY entryToolbar.tooltip  "Γραμμή καταχωρήσεων Javascript">
 <!ENTITY toolbarsCmd.label     "Εμφάνιση/Απόκρυψη">
 <!ENTITY toolbarsCmd.accesskey "ν">
 <!ENTITY toolbarMode.label     "Λειτουργία">
