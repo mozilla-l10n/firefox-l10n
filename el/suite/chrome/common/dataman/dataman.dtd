@@ -39,6 +39,8 @@
 <!ENTITY cookies.info.value.label "Περιεχόμενο:">
 <!ENTITY cookies.info.domain.label "Τομέας:">
 <!ENTITY cookies.info.path.label "Διαδρομή:">
+<!ENTITY cookies.info.sendtype.label "Αποστολή για:">
+<!ENTITY cookies.info.expires.label "Λήγει:">
 
 <!ENTITY cookies.ctx.remove.label "Αφαίρεση">
 <!ENTITY cookies.ctx.remove.accesskey "Α">
@@ -50,15 +52,24 @@
 
 
 <!-- permissions -->
+<!ENTITY perm.UseDefault "Χρήση προεπιλογής">
+<!ENTITY perm.AskAlways "Πάντα ερώτηση">
+<!ENTITY perm.Allow "Αποδοχή">
+<!ENTITY perm.Block "Φραγή">
 
 <!ENTITY perm.button.add.label "Προσθήκη">
 <!ENTITY perm.button.add.accesskey "Π">
 
 <!-- preferences -->
 
+<!ENTITY prefs.tree.host.label "Ιστοσελίδα">
+<!ENTITY prefs.tree.name.label "Όνομα προτίμησης">
+<!ENTITY prefs.tree.value.label "Τιμή">
 
 <!ENTITY prefs.ctx.remove.label "Αφαίρεση">
 <!ENTITY prefs.ctx.remove.accesskey "Α">
+<!ENTITY prefs.ctx.selectAll.label "Επιλογή όλων">
+<!ENTITY prefs.ctx.selectAll.accesskey "ό">
 
 <!ENTITY prefs.button.remove.label "Αφαίρεση">
 <!ENTITY prefs.button.remove.accesskey "Α">
