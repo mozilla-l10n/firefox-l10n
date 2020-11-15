@@ -13,6 +13,7 @@
 <!ENTITY feedLocation.accesskey      "ρ">
 <!ENTITY feedLocation2.placeholder   "Εισάγετε ένα έγκυρο URL ροής">
 <!ENTITY locationValidate.label      "Επικύρωση">
+<!ENTITY validateText.label          "Έλεγχος επαλήθευσης και ανάκτηση έγκυρου URL.">
 
 <!ENTITY feedFolder.label            "Αποθήκευση άρθρων σε:">
 <!ENTITY feedFolder.accesskey        "Α">
@@ -27,6 +28,8 @@
 <!ENTITY recommendedUnits.label      "Ο εκδότης προτείνει:">
 
 
+<!ENTITY autotagEnable.label         "Αυτόματη δημιουργία ετικετών από τα ονόματα &lt;κατηγοριών&gt; ροής">
+<!ENTITY autotagEnable.accesskey     "τ">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Προσθήκη">

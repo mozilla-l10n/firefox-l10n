@@ -4,6 +4,8 @@
 
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
+<!ENTITY pref.mouseWheel.title           "Τροχός ποντικιού">
+<!ENTITY usingJustTheWheel.label         "Κανένα κλειδί τροποποίησης">
 <!-- Key labels, for mousewheel prefs -->
 <!ENTITY usingWheelAndAlt.label2         "Alt">
 <!ENTITY usingWheelAndOption.label       "Option">
@@ -11,3 +13,4 @@
 <!ENTITY usingWheelAndShft.label2        "Shift">
 <!ENTITY mouseWheelGroup.label           "Κάθετη κύλιση">
 <!ENTITY mouseWheelHorizGroup.label      "Οριζόντια κύλιση">
+<!ENTITY wheelSpeed.label                "Ταχύτητα τροχού ποντικιού:">
