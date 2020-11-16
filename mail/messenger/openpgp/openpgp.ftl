@@ -131,6 +131,30 @@ openpgp-key-man-ctx-expor-to-file-label =
     .label = Eksportoni Kyçe Në Kartelë
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Kopjo Kyçe Publikë Në të Papastër
+openpgp-key-man-ctx-copy =
+    .label = Kopjoje
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Shenjë gishtash
+           *[other] Shenja gishtash
+        }
+    .accesskey = S
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] ID Kyçi
+           *[other] ID Kyçesh
+        }
+    .accesskey = I
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Kyç Publik
+           *[other] Kyçe Publikë
+        }
+    .accesskey = K
 openpgp-key-man-close =
     .label = Mbylle
 openpgp-key-man-reload =
