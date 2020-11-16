@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Mae'r digwyddiad cyffred
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Mae ychwanegu adeiladwr at y rhyngwyneb <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> yn ogystal ag amrywiaeth o newidiadau cysylltiedig yn ei gwneud hi'n bosibl creu taflenni arddull newydd yn uniongyrchol heb orfod ychwanegu'r ddalen at yr HTML. Mae hyn yn ei gwneud hi'n llawer haws creu taflenni arddull y mae modd eu hailddefnyddio i'w defnyddio gyda <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Gweler <a data-l10n-name="bugzilla">bug 1520690</a> am fwy o fanylion.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Ar hyn o bryd mae gweithrediad cyfan { -brand-short-name } yr Media Session API yn arbrofol. Defnyddir yr API hwn i addasu'r broses o drin hysbysiadau sy'n gysylltiedig â'r cyfryngau, i reoli digwyddiadau a data sy'n ddefnyddiol ar gyfer cyflwyno rhyngwyneb defnyddiwr ar gyfer rheoli chwarae cyfryngau, ac i gael metadata ffeiliau cyfryngau. Gweler <a data-l10n-name="bugzilla">bug 1112032</a> am fwy o fanylion.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
 experimental-features-devtools-color-scheme-simulation-description = Yn ychwanegu opsiwn i efelychu gwahanol gynlluniau lliw sy'n eich galluogi i brofi <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> ymholiadau cyfryngau. Mae defnyddio'r ymholiad cyfryngau hwn yn caniatáu i'ch taflen arddull ymateb i p'un a yw'n well gan y defnyddiwr ryngwyneb defnyddiwr ysgafn neu dywyll. Mae'r nodwedd hon yn caniatáu ichi brofi'ch cod heb orfod newid gosodiadau yn eich porwr (neu system weithredu, os yw'r porwr yn dilyn gosodiad cynllun lliw ar draws y system). Gweler <a data-l10n-name="bugzilla1">bug 1550804</a> a <a data-l10n-name="bugzilla2">bug 1137699</a> am fwy o fanylion.
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Yn galluogi cefnogaeth arbrofol i Weithwyr Gwasanaeth yn y panel Dadfygiwr. Efallai y bydd y nodwedd hon yn arafu'r Offer Datblygwr ac yn cynyddu'r defnydd o gof.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Graffeg: Chwyddo Pinsio Llyfn
-experimental-features-graphics-desktop-zooming-description = Galluogi cefnogaeth i binsio llyfn chwyddo ar sgriniau cyffwrdd a phadiau cyffwrdd manwl gywir.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Toglau Tewi WebRTC Cyffredinol
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = Galluogi Warp, project i wella perff
 experimental-features-fission =
     .label = Fission (Ynysu Gwefan)
 experimental-features-fission-description = Mae Fission (ynysu gwefan) yn nodwedd arbrofol yn { -brand-short-name } er mwyn darparu haen ychwanegol o ddiogelwch yn erbyn bygiau diogelwch. Trwy ynysu pob gwefan i broses ar wahân, mae Fission yn ei gwneud hi'n anoddach i wefannau maleisus gael mynediad at wybodaeth o dudalennau eraill rydych chi'n ymweld â nhw. Mae hwn yn newid pensaernïol mawr yn { -brand-short-name } ac rydym yn gwerthfawrogi eich bod yn profi ac yn adrodd am unrhyw faterion y gallech ddod ar eu traws. Am fwy o fanylion, darllenwch <a data-l10n-name="wiki">y wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Cefnogaeth Llun-mewn-Llun Lluosog
+experimental-features-multi-pip-description = Cefnogaeth arbrofol i ganiatáu i nifer o ffenestri Llun-mewn-Llun fod ar agor ar yr un pryd.
