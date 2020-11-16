@@ -4,7 +4,7 @@
 
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY minimizeWindowCmd.label "Ελαχιστοποίηση">
-<!ENTITY minimizeWindowCmd.key "Ε">
+<!ENTITY minimizeWindowCmd.key "M">
 <!ENTITY zoomWindowCmd.label "Ζουμ">
 <!ENTITY navigatorCmd.label "Πρόγραμμα περιήγησης">
 <!ENTITY navigatorCmd.accesskey "Π">
