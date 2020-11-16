@@ -18,10 +18,22 @@ handler-dialog-host = <strong>{ $host }</strong> vil åbne et <strong>{ $scheme 
 ##  $appName - Name of the application that will be opened.
 
 
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
+permission-dialog-set-change-app-link = Vælg et andet program.
+
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Vælg program
+    .style = min-width: 26em; min-height: 26em;
 choose-other-app-description = Vælg et andet program
 choose-app-btn =
     .label = Vælg…
