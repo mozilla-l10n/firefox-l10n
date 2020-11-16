@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Udviklerværktøj: Debugging af service-workers
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Aktiverer eksperimentel understøttelse af service-workers i Debugger-panelet. Funktion kan gøre udviklerværktøj langsommere og øge hukommelsesforbruget.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafik: Jævn knibe-zoom
-experimental-features-graphics-desktop-zooming-description = Understøtter jævn knibe-zoom på touchskærme og præcisions-touchpads.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Slå lyd fra/til globalt for WebRTC
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Aktiver Warp, et projekt hvis formå
 experimental-features-fission =
     .label = Fission (isolation af websteder)
 experimental-features-fission-description = Fission (isolation af websteder) er en eksperimentel funktion i { -brand-short-name }, der giver et ekstra lag fa beskyttelse mod sikkerhedsfejl. Ved at isolere hvert websted i en separat proces gør Fission det sværere for ondsindede websteder at få adgang til information fra andre sider, du besøger. Fission udgør en grundlæggende ændring i { -brand-short-name }' arkitektur - og vi sætter stor pris på, at du vil hjælpe os med at teste funktionen og indrapportere eventuelle fejl, du støder på. Læs mere på <a data-l10n-name="wiki">wiki'en</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Understøttelse af flere billede-i-billede
+experimental-features-multi-pip-description = Eksperimentel understøttelse for, at flere videoer kan vises som billede-i-billede på samme tid.

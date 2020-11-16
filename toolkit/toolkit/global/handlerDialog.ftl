@@ -17,6 +17,7 @@ handler-dialog-host = <strong>{ $host }</strong> vil åbne et <strong>{ $scheme 
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Tillad dette websted at åbne { $scheme }-linket?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
