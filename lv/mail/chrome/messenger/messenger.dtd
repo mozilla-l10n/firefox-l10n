@@ -377,16 +377,32 @@
 <!ENTITY editDraftMsgCmd.accesskey "M">
 <!ENTITY editTemplateMsgCmd.label "Rediģēt veidni">
 <!ENTITY editTemplateMsgCmd.accesskey "V">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY newMsgFromTemplateCmd.label "Jauna vēstule no veidnes">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
+<!ENTITY createFilter.label "Izveidot filtru no vēstules…">
+<!ENTITY createFilter.accesskey "a">
+<!ENTITY moveMsgToMenu.label "Pārvietot uz">
+<!ENTITY moveMsgToMenu.accesskey "P">
+<!ENTITY moveCopyMsgRecentMenu.label "Nesen">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY copyMessageLocation.label "Kopēt vēstules vietu">
+<!ENTITY copyMessageLocation.accesskey "V">
 <!ENTITY copyMsgToMenu.label "Kopēt uz">
 <!ENTITY copyMsgToMenu.accesskey "K">
+<!ENTITY moveToFolderAgain.label "Pārvietot vēlreiz">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorēt pavedienu">
 <!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignorēt apakšpavedienu">
 <!ENTITY killSubthreadMenu.accesskey "a">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Vērot pavedienu">
 <!ENTITY watchThreadMenu.accesskey "V">
 <!ENTITY watchThreadMenu.key "w">
+<!ENTITY tagMenu.label "Birka">
+<!ENTITY tagMenu.accesskey "b">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
 <!ENTITY tagCmd2.key "2">
@@ -397,8 +413,18 @@
 <!ENTITY tagCmd7.key "7">
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
+<!ENTITY markMenu.label "Atzīmēt">
+<!ENTITY markMenu.accesskey "a">
 <!ENTITY toggleReadCmd.key "m">
+<!ENTITY markAsReadCmd.label "Kā lasītu">
+<!ENTITY markAsReadCmd.accesskey "L">
+<!ENTITY markAsUnreadCmd.label "Kā nelasītu">
+<!ENTITY markAsUnreadCmd.accesskey "N">
+<!ENTITY markThreadAsReadCmd.label "Pavedienu kā lasītu">
+<!ENTITY markThreadAsReadCmd.accesskey "P">
 <!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Kā lasītu pēc datuma…">
+<!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.key "S">
