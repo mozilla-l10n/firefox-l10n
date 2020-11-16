@@ -5,6 +5,9 @@
 <!ENTITY pane.title                   "Αποδεικτικά ανάγνωσης">
 <!ENTITY globalReceipts.label         "Γενικές προτιμήσεις…">
 <!ENTITY globalReceipts.accesskey     "Γ">
+<!ENTITY receiptArrive.label          "Όταν φτάνει αποδεικτικό:">
+<!ENTITY leaveIt.label                "Να παραμένει στα εισερχόμενά μου">
+<!ENTITY leaveIt.accesskey            "ε">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY outsideDomain.label          "Aν ο αποστολέας είναι εκτός του τομέα μου:">
 <!ENTITY outsideDomain.accesskey      "α">
