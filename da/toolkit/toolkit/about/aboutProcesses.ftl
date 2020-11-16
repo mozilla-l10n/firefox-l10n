@@ -2,12 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Proces-håndtering
 # The Actions column
 about-processes-column-action =
     .title = Handlinger
 
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = Luk faneblad
 
 ## Column headers
 
@@ -21,13 +25,24 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
+about-processes-web-process-name = Web (proces { $pid }, delt)
+about-processes-web-isolated-process-name = Web (proces { $pid }) for { $origin }
+about-processes-web-large-allocation = Web (proces { $pid }, stor) for { $origin }
+about-processes-with-coop-coep-process-name = Web (proces { $pid }, cross-origin isoleret) for { $origin }
 about-processes-file-process-name = Filer (proces { $pid })
 about-processes-extension-process-name = Udvidelser (proces { $pid })
+about-processes-privilegedabout-process-name = Om (proces { $pid })
 about-processes-plugin-process-name = Plugins (proces { $pid })
+about-processes-gmp-plugin-process-name = Gecko media-plugins (proces { $pid })
 about-processes-gpu-process-name = GPU (proces { $pid })
 about-processes-vr-process-name = VR (proces { $pid })
+about-processes-rdd-process-name = Data-afkoder (proces { $pid })
 about-processes-socket-process-name = Netværk (proces { $pid })
+about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (proces { $pid })
+about-processes-fork-server-process-name = Fork Server (proces { $pid })
 about-processes-preallocated-process-name = Forhånds-allokeret (proces { $pid })
+about-processes-unknown-process-name = Andet ({ $type }, proces { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
@@ -51,6 +66,7 @@ about-processes-thread-name = Tråd { $tid }: { $name }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Faneblad: { $name }
+about-processes-preloaded-tab = Forhåndsindlæst nyt faneblad
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -70,6 +86,12 @@ about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (måler)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = inaktiv ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -82,6 +104,10 @@ about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
