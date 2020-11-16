@@ -6,3 +6,10 @@
 <!ENTITY globalReceipts.label         "Γενικές προτιμήσεις…">
 <!ENTITY globalReceipts.accesskey     "Γ">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY outsideDomain.label          "Aν ο αποστολέας είναι εκτός του τομέα μου:">
+<!ENTITY outsideDomain.accesskey      "α">
+<!ENTITY otherCases.label             "Σε όλες τις άλλες περιπτώσεις:">
+<!ENTITY otherCases.accesskey         "ά">
+<!ENTITY askMe.label                  "Ερώτηση">
+<!ENTITY alwaysSend.label             "Πάντα αποστολή">
+<!ENTITY neverSend.label              "Ποτέ αποστολή">
