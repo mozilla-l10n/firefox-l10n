@@ -151,6 +151,10 @@
 <!ENTITY aboutCommPluginsCmd.label          "Σχετικά με τα αρθρώματα">
 <!ENTITY aboutCommPluginsCmd.accesskey      "α">
 
+<!ENTITY direct.label                             "Σε σύνδεση (Διακομιστής μεσολάβησης: Κανένας)">
+<!ENTITY direct.accesskey                         "Κ">
+<!ENTITY manual.label                             "Σε σύνδεση (Διακομιστής μεσολάβησης: Χειροκίνητα)">
+<!ENTITY manual.accesskey                         "Χ">
 
 <!ENTITY proxy.label                              "Ρύθμιση διακομιστή μεσολάβησης…">
 <!ENTITY proxy.accesskey                          "Ρ">
@@ -176,6 +180,7 @@
 <!ENTITY customizeToolbar.useSmallIcons.label     "Χρήση μικρών εικονιδίων">
 <!ENTITY customizeToolbar.useSmallIcons.accesskey "μ">
 <!ENTITY customizeToolbar.labelAlignEnd.label     "Εμφάνιση κειμένου δίπλα στο εικονίδιο">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "δ">
 <!ENTITY customizeToolbar.useDefault.label        "Χρήση προεπιλεγμένων ρυθμίσεων">
 <!ENTITY customizeToolbar.useDefault.accesskey    "Χ">
 

@@ -68,6 +68,8 @@
 <!ENTITY metadataCmd.accesskey        "Ι">
 <!ENTITY copyEmailCmd.label           "Αντιγραφή διεύθυνσης email">
 <!ENTITY copyEmailCmd.accesskey       "φ">
+<!ENTITY thisFrameMenu.label          "Αυτό το καρέ">
+<!ENTITY thisFrameMenu.accesskey      "ρ">
 <!ENTITY mediaPlay.label              "Αναπαραγωγή">
 <!ENTITY mediaPlay.accesskey          "Α">
 <!ENTITY mediaPause.label             "Παύση">
@@ -82,8 +84,10 @@
 <!ENTITY mediaPlaybackRate050.accesskey "Α">
 <!ENTITY mediaPlaybackRate100.label     "Κανονική ταχύτητα">
 <!ENTITY mediaPlaybackRate100.accesskey "Κ">
-<!ENTITY mediaPlaybackRate150.label     "Υψηλή ταχύτητα (1½×)">
-<!ENTITY mediaPlaybackRate150.accesskey "Υ">
+<!ENTITY mediaPlaybackRate125.label     "Υψηλή ταχύτητα (1¼ ×)">
+<!ENTITY mediaPlaybackRate125.accesskey "Υ">
+<!ENTITY mediaPlaybackRate150.label     "Πολύ υψηλή ταχύτητα (1½×)">
+<!ENTITY mediaPlaybackRate150.accesskey "Π">
 <!ENTITY mediaPlaybackRate200.label     "Διπλή ταχύτητα">
 <!ENTITY mediaPlaybackRate200.accesskey "Δ">
 <!ENTITY mediaLoop.label              "Επανάληψη">
