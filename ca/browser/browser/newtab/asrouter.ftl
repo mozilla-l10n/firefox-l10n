@@ -265,3 +265,4 @@ cfr-whatsnew-clear-cookies-image-alt = Il·lustració d'una galeta blocada
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Més controls multimèdia
+cfr-whatsnew-media-keys-button = Vegeu com fer-ho
