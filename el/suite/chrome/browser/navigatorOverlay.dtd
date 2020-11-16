@@ -96,8 +96,13 @@ left instead of right. -->
 <!ENTITY translateMenu.accesskey "Μ">
 
 <!ENTITY cookieMessageTitle.label "Τα δικαιώματα cookies άλλαξαν">
+<!ENTITY cookieDisplayCookiesCmd.label "Διαχείριση αποθηκευμένων cookies">
+<!ENTITY cookieDisplayCookiesCmd.accesskey "Δ">
+<!ENTITY cookieAllowCookiesCmd.label "Αποδοχή cookies από την ιστοσελίδα">
+<!ENTITY cookieAllowCookiesCmd.accesskey "Α">
 <!ENTITY cookieBlockCookiesCmd.label "Φραγή cookies από την ιστοσελίδα">
 <!ENTITY cookieBlockCookiesCmd.accesskey "Φ">
+<!ENTITY cookieBlockCookiesMsg.label "Τα cookies από αυτή την ιστοσελίδα θα απορρίπτονται πάντα.">
 
 <!ENTITY cookieImageMessageTitle.label "Τα δικαιώματα εικόνων άλλαξαν">
 <!ENTITY cookieDisplayImagesCmd.label "Διαχείριση δικαιωμάτων εικόνων">
