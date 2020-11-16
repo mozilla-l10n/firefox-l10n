@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = Nëse faqja duket të jetë e dëmtuar, mun
 identity-https-only-info-no-upgrade = S’arrihet të përmirësohet lidhja nga HTTP.
 identity-permissions =
     .value = Leje
+identity-permissions-storage-access-hint = Këto palë mund të përdorin “cross-site cookies” dhe të dhëna sajtesh, ndërkohë që jeni në këtë sajt.
 identity-permissions-reload-hint = Mund t'ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.
 identity-permissions-empty = S'i keni dhënë këtij sajti ndonjë leje speciale.
 identity-clear-site-data =
@@ -346,9 +347,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importoni faqerojtës…
-    .tooltiptext = Kopjoni në { -brand-short-name } faqerojtës prej një tjetër shfletuesi.
+    .tooltiptext = Importoni faqerojtës nga një shfletues tjetër në { -brand-short-name }
+bookmarks-toolbar-empty-message = Për përdorim të shpejtë, vendosini faqerojtësit këtu te paneli i faqerojtësve. <a data-l10n-name="manage-bookmarks">Administroni faqerojtës…</a>
 
 ## WebRTC Pop-up notifications
 

@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Vazhdoni me Kujdes
 pane-experimental-search-results-header = Eksperimente { -brand-short-name }: Vazhdoni me Kujdes
 pane-experimental-description = Ndryshimi i parapëlqimeve për formësim të mëtejshëm mund të ketë ndikim në funksionimin dhe sigurinë e { -brand-short-name }-it.
+pane-experimental-reset =
+    .label = Rikthe Parazgjedhjet
+    .accesskey = R
 help-button-label = Asistencë { -brand-short-name }-i
 addons-button-label = Zgjerime & Tema
 focus-search =
@@ -929,6 +932,7 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga moto
 content-blocking-enhanced-tracking-protection = Mbrojtje e Thelluar Nga Gjurmimi
 content-blocking-section-top-level-description = Gjurmuesit ju ndjekin nëpër internet për të grumbulluar të dhëna rreth zakoneve dhe interesave tuaja të shfletimit. { -brand-short-name }-i bllokon mjaft prej këtyre gjurmuesve dhe programtheve të tjerë dashakeqë.
 content-blocking-learn-more = Mësoni më tepër
+content-blocking-fpi-incompatibility-warning = Po përdorni Izolim Pale të Parë (FPI), çka anashkalon disa nga rregullimet për cookie-t në { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

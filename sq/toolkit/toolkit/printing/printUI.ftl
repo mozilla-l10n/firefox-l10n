@@ -41,6 +41,9 @@ printui-scale = Shkallë
 printui-scale-fit-to-page-width = Sa e nxë gjerësia e faqes
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Shkallë
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Shtypje në të dy faqet
+printui-duplex-checkbox = Shtyp në të dy faqet
 # Section title for miscellaneous print options
 printui-options = Mundësi
 printui-headers-footers-checkbox = Shtyp kryefaqe dhe fundfaqe
