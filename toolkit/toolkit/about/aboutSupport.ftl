@@ -324,6 +324,10 @@ multi-process-status-6 = Çaktivizuar për shkak futje teksti të pambuluar
 multi-process-status-7 = Çaktivizuar nga shtesat
 multi-process-status-8 = Çaktivizuar forcërisht
 multi-process-status-unknown = Gjendje e panjohur
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-experiment-control = Çaktivizuar nga eksperiment
 fission-status-experiment-treatment = Aktivizuar nga eksperiment
 fission-status-disabled-by-e10s-env = Çaktivizuar nga mjedisi
@@ -333,6 +337,7 @@ fission-status-enabled-by-default = Aktivizuar si parazgjedhje
 fission-status-disabled-by-default = Çaktivizuar si parazgjedhje
 fission-status-enabled-by-user-pref = Aktivizuar nga përdoruesi
 fission-status-disabled-by-user-pref = Çaktivizuar nga përdoruesi
+fission-status-disabled-by-e10s-other = E10s i çaktivizuar
 async-pan-zoom = Pan/Zoom Asinkron
 apz-none = asnjë
 wheel-enabled = me input nga rrotëz miu

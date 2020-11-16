@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Mjete Zhvilluesi: Diagnostikim Service Worker-i
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Aktivizon te paneli i Diagnostikimeve mbulim eksperimental për Service Workers. Kjo veçori mund të ngadalësojë Mjetet e Zhvilluesit dhe të shtojë konsumin e kujtesës.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafikë: Zmadhim/Zvogëlim me Pickim të Butë
-experimental-features-graphics-desktop-zooming-description = Aktivizon mbulim për zmadhim/zvogëlim përmes pickimi të butë në ekrane me prekje dhe të ngjashëm.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Butona Heshtimi Global WebRTC-je
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Aktivizon Warp-in, një projekt për
 experimental-features-fission =
     .label = Fission (Izolim Sajti)
 experimental-features-fission-description = Fission-i (izolim sajti) është një veçori eksperimentale te { -brand-short-name }-i, për dhënien e një shtrese shtesë mbrojtjeje kundër të metash sigurie. Duke izoluar çdo sajt nën një proces më vete, Fission e bën më të zorshme për sajte dashakeq të marrin të dhëna prej faqesh të tjera që po vizitoni. Ky është një ndryshim i madh arkitekturor në { -brand-short-name } dhe e vlerësojmë vënien në provë prej jush dhe njoftimin e çfarëdo problemesh që mund të hasni. Për më tepër hollësi, shihni <a data-l10n-name="wiki"> wiki-n</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Mbulim për “Picture-in-Picture”  të Shumta
+experimental-features-multi-pip-description = Mbulim eksperimental për lejim hapjeje të shumë dritareve “Picture-in-Picture”  në të njëjtën kohë.
