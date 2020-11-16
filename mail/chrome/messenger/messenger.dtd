@@ -454,38 +454,114 @@
 <!ENTITY openFeedWebPage.accesskey "T">
 <!ENTITY openFeedSummary.label "Atvērt kā kopsavilkumu">
 <!ENTITY openFeedSummary.accesskey "K">
+<!ENTITY openFeedWebPageInMP.label "Pārslēgt tīmekļa lapu un kopsavilkumu ziņojumu rūtī">
+<!ENTITY openFeedWebPageInMP.accesskey "P">
 
 <!-- Windows Menu -->
+<!ENTITY windowMenu.label "Logs">
 
 <!-- Tools Menu -->
+<!ENTITY tasksMenu.label "Rīki">
+<!ENTITY tasksMenu.accesskey "R">
+<!ENTITY messengerCmd.label "Pasts &amp; Ziņu grupas">
+<!ENTITY messengerCmd.accesskey "J">
 <!ENTITY addressBookCmd.label "Adrešu grāmata">
 <!ENTITY addressBookCmd.accesskey "g">
 <!ENTITY addressBookCmd.key "B">
+<!ENTITY addons.label "Papildinājumi">
+<!ENTITY addons.accesskey "P">
+<!ENTITY addonPrefs.label "Papildinājumu iespējas">
+<!ENTITY addonPrefs.accesskey "I">
+<!ENTITY addonPrefsUnix.label "Papildinājumu iestatījumi">
+<!ENTITY addonPrefsUnix.accesskey "I">
+<!ENTITY addonNoPrefs.label "Papildinājumu iestatījumi nav atrasti.">
+<!ENTITY activitymanager.label "Darbību pārvaldnieks">
+<!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Tērzēšanas statuss">
+<!ENTITY imAccountsStatus.accesskey "T">
 <!ENTITY imStatus.available          "Pieejams">
 <!ENTITY imStatus.unavailable        "Nepieejams">
 <!ENTITY imStatus.offline            "Nesaistē">
+<!ENTITY imStatus.showAccounts       "Rādīt kontus…">
+<!ENTITY joinChatCmd.label "Pievienoties tērzēšanai…">
+<!ENTITY joinChatCmd.accesskey "t">
+<!ENTITY savedFiles.label "Saglabātie faili">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
+<!ENTITY filtersCmd2.label "Vēstuļu filtri">
+<!ENTITY filtersCmd2.accesskey "F">
+<!ENTITY filtersApply.label "Palaist filtrus mapē">
+<!ENTITY filtersApply.accesskey "P">
+<!ENTITY filtersApplyToSelection.label "Palaist filtrus atlasītajām vēstulēm">
+<!ENTITY filtersApplyToSelection.accesskey "u">
+<!ENTITY filtersApplyToMessage.label "Palaist filtrus vēstulei">
+<!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY runJunkControls.label "Palaist mēstuļu vadīklas mapei">
+<!ENTITY runJunkControls.accesskey "C">
+<!ENTITY deleteJunk.label "Dzēst mēstules mapē">
+<!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Importēt...">
 <!ENTITY importCmd.accesskey "m">
+<!ENTITY clearRecentHistory.label "Dzēst neseno vēsturi…">
+<!ENTITY clearRecentHistory.accesskey "V">
+<!ENTITY accountManagerCmd2.label "Konta iestatījumi">
+<!ENTITY accountManagerCmd2.accesskey "I">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Izstrādātāju rīki">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Izstrādātāja rīkjosla">
+<!ENTITY devToolboxCmd.accesskey "R">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY debugAddonsCmd.label "Atkļūdot papildinājumus">
+<!ENTITY debugAddonsCmd.accesskey "A">
+<!ENTITY tabsDebugCmd.label "Satura rāmja atkļūdotājs">
+<!ENTITY tabsDebugCmd.accesskey "S">
+<!ENTITY errorConsoleCmd.label "Kļūdu konsole">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "Iegūt vēstules">
+<!ENTITY newMsgButton.label "Rakstīt">
 <!ENTITY replyButton.label "Atbildēt">
+<!ENTITY replyAllButton.label "Atbildēt visiem">
+<!ENTITY replyListButton.label "Atbildēt sarakstam">
+<!ENTITY forwardButton.label "Pārsūtīt">
 <!ENTITY fileButton.label "Datne">
 <!ENTITY archiveButton.label "Arhivēt">
+<!ENTITY openConversationButton.label "Saruna">
 <!ENTITY nextButton.label "Nākošais">
+<!ENTITY nextButtonToolbarItem.label "Nākamā nelasītā">
 <!ENTITY nextMsgButton.label "Nākošais">
 <!ENTITY previousButton.label "Iepriekšējais">
+<!ENTITY previousButtonToolbarItem.label "Iepriekšējā nelasītā">
 <!ENTITY previousMsgButton.label "Iepriekšējais">
+<!ENTITY backButton1.label "Atpakaļ">
+<!ENTITY goForwardButton1.label "Uz priekšu">
 <!ENTITY deleteItem.title "Dzēst">
 <!ENTITY deleteButton.label "Dzēst">
+<!ENTITY undeleteButton.label "Atsaukt dzēšanu">
+<!ENTITY markButton.label "Atzīmēt">
+<!ENTITY printButton.label "Drukāt">
 <!ENTITY stopButton.label "Apturēt">
+<!ENTITY throbberItem.title "Darbību rādītājs">
+<!ENTITY junkItem.title "Draza">
+<!ENTITY junkButton.label "Draza">
+<!ENTITY notJunkButton.label "Nedraza">
 <!ENTITY addressBookButton.label "Adrešu grāmata">
+<!ENTITY chatButton.label "Tērzēšana">
+<!ENTITY glodaSearch.title "Globālā meklēšana">
+<!ENTITY searchItem.title "Ātrā meklēšana">
+<!ENTITY mailViewsToolbarItem.title "Pasta skati">
+<!ENTITY folderLocationToolbarItem.title "Mapes vieta">
 <!ENTITY tagButton.label "Atzīmēt">
+<!ENTITY compactButton.label "Saspiest">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY goForwardButton.tooltip "Doties vienu vēstuli uz priekšu">
