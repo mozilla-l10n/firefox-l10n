@@ -106,10 +106,55 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Publieke sleutel(s) naar klembord kopiëren
     .accesskey = P
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Sleutel-ID naar klembord kopiëren
+           *[other] Sleutel-ID’s naar klembord kopiëren
+        }
+    .accesskey = S
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Vingerafdruk naar klembord kopiëren
+           *[other] Vingerafdrukken naar klembord kopiëren
+        }
+    .accesskey = V
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Publieke sleutel naar klembord kopiëren
+           *[other] Publieke sleutels naar klembord kopiëren
+        }
+    .accesskey = P
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Sleutels naar bestand exporteren
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Publieke sleutels naar klembord kopiëren
+openpgp-key-man-ctx-copy =
+    .label = Kopiëren
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Vingerafdruk
+           *[other] Vingerafdrukken
+        }
+    .accesskey = V
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Sleutel-ID
+           *[other] Sleutel-ID’s
+        }
+    .accesskey = S
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Publieke sleutel
+           *[other] Publieke sleutels
+        }
+    .accesskey = P
 openpgp-key-man-close =
     .label = Sluiten
 openpgp-key-man-reload =
@@ -497,7 +542,9 @@ key-man-button-generate-key = Sleutel &aanmaken
 key-abort = Sleutelaanmaak afbreken?
 key-man-button-generate-key-abort = Sleutelaanmaak &afbreken
 key-man-button-generate-key-continue = Sleutelaanmaak &voortzetten
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Fout – ontsleuteling mislukt
 fix-broken-exchange-msg-failed = Kon bericht niet repareren.
 attachment-no-match-from-signature = Kan handtekeningbestand ‘{ $attachment }’ niet koppelen aan een bijlage

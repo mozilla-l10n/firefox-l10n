@@ -27,6 +27,7 @@ openpgp-missing-signature-key = Dit bericht is ondertekend met een sleutel die u
 openpgp-search-signature-key =
     .label = Ontdekken…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Dit is een OpenPGP-bericht dat blijkbaar door MS-Exchange is beschadigd en, omdat het is geopend vanuit een lokaal bestand, kan het niet worden gerepareerd. Kopieer het bericht naar een e-mailmap om automatisch herstel te proberen.
 openpgp-broken-exchange-info = Dit is een OpenPGP-bericht dat blijkbaar is beschadigd door MS-Exchange. Als de berichtinhoud niet wordt weergegeven zoals verwacht, dan kunt u een automatische reparatie proberen.
 openpgp-broken-exchange-repair =
     .label = Bericht herstellen
