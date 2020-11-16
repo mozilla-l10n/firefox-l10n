@@ -4,6 +4,7 @@
 
 <!ENTITY pref.notifications.title         "Ειδοποιήσεις">
 <!ENTITY notifications.caption            "Ειδοποιήσεις">
+<!ENTITY newMessagesArrive.label          "Όταν φθάνουν νέα μηνύματα:">
 
 <!-- LOCALIZATION NOTE: (showAlertFor.label, showAlertTimeEnd.label)
      showAlertFor.label is associated with the checkbox to show the alert,
@@ -14,14 +15,23 @@
 <!ENTITY showAlertFor.accesskey           "Ε">
 <!ENTITY showAlertTimeEnd.label           "δευτερόλεπτα">
 
+<!ENTITY showAlertPreviewText.label       "Εμφάνιση προεπισκόπησης κειμένου μηνύματος">
+<!ENTITY showAlertPreviewText.accesskey   "φ">
 <!ENTITY showAlertSubject.label           "Εμφάνιση θέματος">
+<!ENTITY showAlertSubject.accesskey       "θ">
 <!ENTITY showAlertSender.label            "Εμφάνιση αποστολέα">
 <!ENTITY showAlertSender.accesskey        "π">
+<!ENTITY useSystemAlert.label             "Χρήση ειδοποιήσεων λειτουργικού συστήματος">
+<!ENTITY useSystemAlert.accesskey         "λ">
 <!ENTITY useBuiltInAlert.label            "Χρήση παραθύρων ειδοποιήσεων του &brandShortName;">
 <!ENTITY useBuiltInAlert.accesskey        "π">
 
 <!ENTITY showTrayIcon.label               "Εμφάνιση εικονιδίου στη γραμμή">
 <!ENTITY showTrayIcon.accesskey           "μ">
+<!ENTITY showBalloon.label                "Εμφάνιση ειδοποίησης συστήματος">
+<!ENTITY showBalloon.accesskey            "ο">
+<!ENTITY bounceSystemDockIcon.label       "Κίνηση εικονιδίου γραμμής">
+<!ENTITY bounceSystemDockIcon.accesskey   "Κ">
 
 <!ENTITY playSound.label                  "Αναπαραγωγή ήχου">
 <!ENTITY playSound.accesskey              "Α">

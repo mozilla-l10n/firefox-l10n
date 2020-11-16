@@ -17,6 +17,8 @@
 <!ENTITY reorderDownButton.accesskey "κ">
 <!ENTITY filtersForPrefix.label "Φίλτρα για:">
 <!ENTITY filtersForPrefix.accesskey "Φ">
+<!ENTITY viewLogButton.label "Αρχείο καταγραφής φίλτρου">
+<!ENTITY viewLogButton.accesskey "Α">
 <!ENTITY runFilters.label "Εκτέλεση τώρα">
 <!ENTITY runFilters.accesskey "Ε">
 <!ENTITY stopFilters.label "Διακοπή">
