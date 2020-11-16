@@ -7,6 +7,7 @@
 <!ENTITY tabCmd.accesskey "Κ">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openCmd.label "Άνοιγμα διαδικτυακής τοποθεσίας…">
+<!ENTITY openCmd.accesskey "τ">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
 <!ENTITY openFileCmd.accesskey "Ά">
@@ -33,6 +34,8 @@ left instead of right. -->
 <!ENTITY tabbarCmd.accesskey "κ">
 <!ENTITY taskbarCmd.label "Γραμμή κατάστασης">
 <!ENTITY taskbarCmd.accesskey "σ">
+<!ENTITY componentbarCmd.label "Γραμμή στοιχείων">
+<!ENTITY componentbarCmd.accesskey "σ">
 
 <!ENTITY fullScreenCmd.label "Πλήρης οθόνη">
 <!ENTITY fullScreenCmd.accesskey "Π">
@@ -67,9 +70,15 @@ left instead of right. -->
      than the mac instead of historyCmd.key. -->
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Πρόσφατα κλεισμένες καρτέλες">
+<!ENTITY recentTabs.accesskey "κ">
 <!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Πρόσφατα κλεισμένα παράθυρα">
+<!ENTITY recentWindows.accesskey "π">
 <!ENTITY recentWindows.commandkey "y">
+<!ENTITY historyRestoreLastSession.label "Επαναφορά προηγούμενης συνεδρίας">
+<!ENTITY historyRestoreLastSession.accesskey "Ε">
+<!ENTITY syncTabsMenu.label "Καρτέλες από άλλους υπολογιστές">
+<!ENTITY syncTabsMenu.accesskey "υ">
 
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
@@ -98,6 +107,7 @@ left instead of right. -->
 <!ENTITY cookieImagesDefaultMsg.label "Οι εικόνες από αυτή την ιστοσελίδα θα ληφθούν βάσει των προεπιλεγμένων ρυθμίσεων.">
 <!ENTITY cookieBlockImagesCmd.label "Φραγή εικόνων από την ιστοσελίδα">
 <!ENTITY cookieBlockImagesCmd.accesskey "Φ">
+<!ENTITY cookieBlockImagesMsg.label "Δεν θα γίνεται ποτέ λήψη εικόνων από αυτή την ιστοσελίδα.">
 
 <!ENTITY popupsMessageChangeTitle.label "Τα δικαιώματα αναδυόμενων παραθύρων άλλαξαν">
 <!ENTITY popupsManage.label "Διαχείριση αναδυόμενων παραθύρων">
