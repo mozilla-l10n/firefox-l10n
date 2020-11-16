@@ -426,11 +426,34 @@
 <!ENTITY markReadByDateCmd.label "Kā lasītu pēc datuma…">
 <!ENTITY markReadByDateCmd.accesskey "D">
 <!ENTITY markReadByDateCmd.key "c">
+<!ENTITY markAllReadCmd.label "Visas lasītas">
+<!ENTITY markAllReadCmd.accesskey "V">
 <!ENTITY markAllReadCmd.key "c">
+<!ENTITY markStarredCmd.label "Pievienot zvaigznīti">
+<!ENTITY markStarredCmd.accesskey "Z">
 <!ENTITY markStarredCmd.key "S">
+<!ENTITY markAsJunkCmd.label "Kā drazu">
+<!ENTITY markAsJunkCmd.accesskey "D">
 <!ENTITY markAsJunkCmd.key "j">
+<!ENTITY markAsNotJunkCmd.label "Kā nedrazu">
+<!ENTITY markAsNotJunkCmd.accesskey "N">
 <!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Palaist drazu pasta vadīklas">
+<!ENTITY recalculateJunkScoreCmd.accesskey "V">
+<!ENTITY openMessageWindowCmd.label "Atvērt vēstuli">
+<!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "o">
+<!ENTITY openInConversationCmd.label "Atvērt sarunu">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
+<!ENTITY openAttachmentListCmd.label "Pielikumi">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "Atverot plūsmas ziņojumus">
+<!ENTITY openFeedMessage1.accesskey "A">
+<!ENTITY openFeedWebPage.label "Atvērt kā tīmekļa lapu">
+<!ENTITY openFeedWebPage.accesskey "T">
+<!ENTITY openFeedSummary.label "Atvērt kā kopsavilkumu">
+<!ENTITY openFeedSummary.accesskey "K">
 
 <!-- Windows Menu -->
 
