@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Proceder con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: proceder con precaución
 pane-experimental-description = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
+pane-experimental-reset =
+    .label = Restaurar predeterminados
+    .accesskey = R
 help-button-label = Soporte de { -brand-short-name }
 addons-button-label = Extensiones y temas
 focus-search =
@@ -929,6 +932,7 @@ addressbar-suggestions-settings = Cambia las preferencias para las sugerencias d
 content-blocking-enhanced-tracking-protection = Protección de seguimiento mejorada
 content-blocking-section-top-level-description = Los rastreadores te siguen en línea para recolectar información sobre tus hábitos de navegación e intereses. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
 content-blocking-learn-more = Aprender más
+content-blocking-fpi-incompatibility-warning = Estás usando First Party Isolation (FPI), lo que anula algunas de las configuraciones de cookies de { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
