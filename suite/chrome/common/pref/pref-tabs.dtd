@@ -7,8 +7,14 @@
 <!ENTITY warnOnClose.label "Προειδοποίηση κατά το κλείσιμο παραθύρου με πολλαπλές καρτέλες">
 <!ENTITY warnOnClose.accesskey "Π">
 
+<!ENTITY middleClick.label "Μεσαίο κλικ, Ctrl+κλικ ή Ctrl+Enter σε συνδέσμους σε μια ιστοσελίδα">
+<!ENTITY middleClick.accesskey "Μ">
+<!ENTITY middleClickMac.label "Μεσαίο κλικ, &#8984;+κλικ ή &#8984;+Enter σε συνδέσμους σε μια ιστοσελίδα">
+<!ENTITY middleClickMac.accesskey "Μ">
 <!ENTITY urlbar.label "Ctrl+Enter στη γραμμή διευθύνσεων">
 <!ENTITY urlbar.accesskey "τ">
+<!ENTITY urlbarMac.label "&#8984;+Return στη γραμμή διευθύνσεων">
+<!ENTITY urlbarMac.accesskey "δ">
 
 <!ENTITY openDataManager.label "Διαχείριση δεδομένων">
 <!ENTITY openDataManager.accesskey "Δ">

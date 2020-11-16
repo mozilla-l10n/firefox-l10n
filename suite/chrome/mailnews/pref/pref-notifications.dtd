@@ -10,10 +10,15 @@
      leading into a numerical field to enter a time in seconds, followed by
      showAlertTimeEnd.label which in en-US is the unit of the value -->
 
+<!ENTITY showAlertFor.label               "Εμφάνιση ειδοποίησης για">
+<!ENTITY showAlertFor.accesskey           "Ε">
 <!ENTITY showAlertTimeEnd.label           "δευτερόλεπτα">
 
+<!ENTITY showAlertSubject.label           "Εμφάνιση θέματος">
 <!ENTITY showAlertSender.label            "Εμφάνιση αποστολέα">
 <!ENTITY showAlertSender.accesskey        "π">
+<!ENTITY useBuiltInAlert.label            "Χρήση παραθύρων ειδοποιήσεων του &brandShortName;">
+<!ENTITY useBuiltInAlert.accesskey        "π">
 
 <!ENTITY showTrayIcon.label               "Εμφάνιση εικονιδίου στη γραμμή">
 <!ENTITY showTrayIcon.accesskey           "μ">
