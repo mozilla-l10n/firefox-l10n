@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importar marcapaginas…
-    .tooltiptext = Copia le marcapaginas de un altere navigator a { -brand-short-name }.
+    .tooltiptext = Importar le marcapaginas de un altere navigator in { -brand-short-name }.
+bookmarks-toolbar-empty-message = Pro accesso rapide, placia tu marcapaginas sur iste barra. <a data-l10n-name="manage-bookmarks">Gerer marcapaginas…</a>
 
 ## WebRTC Pop-up notifications
 

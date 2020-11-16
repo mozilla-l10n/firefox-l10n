@@ -7,7 +7,7 @@
 
 cfr-doorhanger-extension-heading = Extension recommendate
 cfr-doorhanger-feature-heading = Function recommendate
-cfr-doorhanger-pintab-heading = Prova isto: Fixar scheda
+cfr-doorhanger-pintab-heading = Prova isto: Clavar le scheda
 
 ##
 
@@ -17,8 +17,8 @@ cfr-doorhanger-extension-cancel-button = Non ora
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Adder ora
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = Fixar iste scheda
-    .accesskey = F
+cfr-doorhanger-pintab-ok-button = Clavar iste scheda
+    .accesskey = C
 cfr-doorhanger-extension-manage-settings-button = Gerer le configurationes de recommendation
     .accesskey = G
 cfr-doorhanger-extension-never-show-recommendation = Non monstrar me iste recommendation
@@ -63,8 +63,8 @@ cfr-doorhanger-pintab-description = Accede facilemente al sitos web que tu usa l
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Face clic dextre</b> sur le scheda que tu vole fixar.
-cfr-doorhanger-pintab-step2 = Elige <b>Fixar scheda</b> in le menu.
+cfr-doorhanger-pintab-step1 = <b>Face clic dextre</b> sur le scheda que tu vole clavar.
+cfr-doorhanger-pintab-step2 = Elige <b>Clavar le scheda</b> in le menu.
 cfr-doorhanger-pintab-step3 = Si le sito se actualisa, un puncto blau apparera sur le scheda fixate.
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Reprender
@@ -257,8 +257,6 @@ cfr-doorhanger-fission-primary-button = De accordo
     .accesskey = a
 cfr-doorhanger-fission-secondary-button = Saper plus
     .accesskey = S
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } ha activate un function experimental pro te: Fission (isolamento de sitos). Isolante cata sito in un processo separate, Fission forni un strato additional de securitate pro te e pro le sitos web que tu visita.
 
 ## What's new: Cookies message
 
