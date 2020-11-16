@@ -759,12 +759,38 @@
 <!ENTITY contextOpenConversation.label "Atvērt vēstuli sarunā">
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "Atvērt vēstuli saturošajā mapē">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Rediģēt kā jaunu vēstuli">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
+<!ENTITY contextEditDraftMsg.label "Rediģēt melnraksta vēstuli">
+<!ENTITY contextEditTemplate.label "Rediģēt veidni">
+<!ENTITY contextEditTemplate.accesskey "V">
 <!ENTITY contextArchive.label "Arhivēt">
 <!ENTITY contextArchive.accesskey "h">
+<!ENTITY contextReplySender.label "Atbildēt tikai sūtītājam">
+<!ENTITY contextReplySender.accesskey "A">
+<!ENTITY contextReplyNewsgroup2.label "Turpināt ziņu grupā">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplyAll.label "Atbildēt visiem">
+<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "Atbildēt sarakstam">
+<!ENTITY contextReplyList.accesskey "S">
+<!ENTITY contextForward.label "Pārsūtīt">
+<!ENTITY contextForward.accesskey "P">
+<!ENTITY contextForwardAsMenu.label "Pārsūtīt kā">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "Iekļauti">
+<!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Pielikums">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "P">
+<!ENTITY contextMultiForwardAsAttachment.label "Pārsūtīt kā pielikumus">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
+<!ENTITY contextMoveMsgMenu.label "Pārvietot uz">
+<!ENTITY contextMoveMsgMenu.accesskey "P">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Nesen">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "N">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Izlase">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "I">
 <!ENTITY contextCopyMsgMenu.label "Kopēt uz">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Ignorēt pavedienu">
@@ -781,6 +807,8 @@
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Drukāt...">
 <!ENTITY contextPrint.accesskey "D">
+<!ENTITY contextPrintPreview.label "Drukas priekšskats">
+<!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -790,6 +818,7 @@
      folder(s). The sub-menu items indicate whether we want to apply it to just
      a folder or also its children.
   -->
+<!ENTITY columnPicker.applyTo.label "Lietot kolonnas…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
      This option in the thread pane column picker is found on a sub-menu beneath
      the "columnPicker.applyTo.label" alongside
@@ -807,6 +836,7 @@
      of its descendents. The user selects the folder using the same widget as the
      move to/copy to mechanism (via a series of popups).
   -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Mapei un tās bērniem…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
      This is used in the folder selection widget for the
      "columnPicker.applyToFolder.label" and
@@ -845,16 +875,19 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "Meklēt #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Pievienot adrešu grāmatai...">
@@ -863,8 +896,17 @@
 <!ENTITY AddDirectlyToAddressBook.accesskey "g">
 <!ENTITY EditContact1.label "Rediģēt kontaktu">
 <!ENTITY EditContact1.accesskey "e">
+<!ENTITY ViewContact.label "Skatīt kontaktu">
+<!ENTITY ViewContact.accesskey "S">
+<!ENTITY SubscribeToNewsgroup.label "Pierakstīties ziņu grupai">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Rakstīt vēstuli uz">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Kopēt epasta adresi">
 <!ENTITY CopyEmailAddress.accesskey "e">
+<!ENTITY CopyNameAndEmailAddress.label "Kopēt vārdu un epasta adresi">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
+<!ENTITY CopyNewsgroupName.label "Kopēt ziņu grupas nosaukumu">
 
 <!-- Spell checker context menu items -->
 
