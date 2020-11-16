@@ -106,6 +106,27 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Kopjo Kyç(e) Publik Në të Papastër
     .accesskey = K
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Kopjo ID Kyçi Në të Papastër
+           *[other] Kopjo ID Kyçesh Në të Papastër
+        }
+    .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Kopjo Shenjë Gishti Në të Papastër
+           *[other] Kopjo Shenjash Gishtash Në të Papastër
+        }
+    .accesskey = K
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Kopjo Kyç Publik Në të Papastër
+           *[other] Kopjo Kyçe Publikë Në të Papastër
+        }
+    .accesskey = K
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Eksportoni Kyçe Në Kartelë
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -496,7 +517,9 @@ key-man-button-generate-key = &Prodho Kyç
 key-abort = Të ndërpritet prodhimi i kyçit?
 key-man-button-generate-key-abort = &Ndërprite Prodhimin e Kyçit
 key-man-button-generate-key-continue = &Vazhdo Prodhimin e Kyçit
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Gabim - shfshehtëzimi dështoi
 fix-broken-exchange-msg-failed = S’pat sukses në riparimin e mesazhit.
 attachment-no-match-from-signature = S’u përputh dot kartela e nënshkrimit '{ $attachment }' me ndonjë bashkëngjitje
