@@ -351,13 +351,7 @@ applications-use-app =
 applications-use-app-default =
     .label = Použít { $app-name } (výchozí)
 applications-use-os-default =
-    .label =
-        Použít výchozí aplikaci 
-        { PLATFORM() ->
-            [macos] systému macOS
-            [windows] systému Windows
-           *[other] operačního systému
-        }
+    .label = Použít výchozí systémovou aplikaci
 applications-use-other =
     .label = Použít jinou…
 applications-select-helper = Zvolit pomocnou aplikaci
