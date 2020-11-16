@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
+<!ENTITY pref.advanced.title              "Για προχωρημένους">
 
 <!ENTITY systemPref.caption               "Προτιμήσεις συστήματος">
 <!ENTITY systemPrefCheck.label            "Χρήση προτιμήσεων από το σύστημα">
@@ -10,5 +11,14 @@
 
 <!ENTITY prefCheckDefault.caption         "Ενσωμάτωση συστήματος">
 
+<!ENTITY crashReports.caption             "Αναφορά καταρρεύσεων">
+<!ENTITY submitCrashes.label              "Υποβολή αναφορών κατάρρευσης">
+<!ENTITY submitCrashes.accesskey          "Υ">
 
 <!ENTITY devTools.caption                 "Εργαλεία προγραμματιστή">
+<!ENTITY allowRemoteConnections.label     "Αποδοχή συνδέσεων από άλλους υπολογιστές">
+<!ENTITY allowRemoteConnections.accesskey "ο">
+<!ENTITY connectionPrompt.label           "Ερώτηση για εισερχόμενες συνδέσεις">
+<!ENTITY connectionPrompt.accesskey       "ώ">
+<!ENTITY remoteDebuggerPort.label         "Αριθμός θύρας για σύνδεση:">
+<!ENTITY remoteDebuggerPort.accesskey     "θ">
