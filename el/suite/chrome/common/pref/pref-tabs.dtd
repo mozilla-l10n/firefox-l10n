@@ -6,7 +6,10 @@
 <!ENTITY tabDisplay.label "Προβολή καρτελών">
 <!ENTITY warnOnClose.label "Προειδοποίηση κατά το κλείσιμο παραθύρου με πολλαπλές καρτέλες">
 <!ENTITY warnOnClose.accesskey "Π">
+<!ENTITY relatedAfterCurrent.label "Άνοιγμα σχετικών καρτελών μετά την τρέχουσα">
+<!ENTITY relatedAfterCurrent.accesskey "Ά">
 
+<!ENTITY openTabs.label "Άνοιγμα καρτελών αντί παραθύρων για">
 <!ENTITY middleClick.label "Μεσαίο κλικ, Ctrl+κλικ ή Ctrl+Enter σε συνδέσμους σε μια ιστοσελίδα">
 <!ENTITY middleClick.accesskey "Μ">
 <!ENTITY middleClickMac.label "Μεσαίο κλικ, &#8984;+κλικ ή &#8984;+Enter σε συνδέσμους σε μια ιστοσελίδα">
@@ -16,6 +19,7 @@
 <!ENTITY urlbarMac.label "&#8984;+Return στη γραμμή διευθύνσεων">
 <!ENTITY urlbarMac.accesskey "δ">
 
+<!ENTITY openManagers.label "Άνοιγμα σε νέα καρτέλα αντί σε ξεχωριστό παράθυρο">
 <!ENTITY openDataManager.label "Διαχείριση δεδομένων">
 <!ENTITY openDataManager.accesskey "Δ">
 <!ENTITY openAddOnsManager.label "Διαχείριση προσθέτων">
