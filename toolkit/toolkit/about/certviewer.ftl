@@ -77,35 +77,39 @@ certificate-viewer-extended-key-usages = Udvidet nøglebrug
 certificate-viewer-ocsp-stapling = OCSP Stapling
 certificate-viewer-subject-key-id = Subjektets nøgle-ID
 certificate-viewer-authority-key-id = Autoritetens nøgle-ID
-certificate-viewer-authority-info-aia = Information om autoritet (AIA) 
+certificate-viewer-authority-info-aia = Information om autoritet (AIA)
 certificate-viewer-certificate-policies = Certifikatpolitikker
 certificate-viewer-embedded-scts = Indlejrede SCT'er
 certificate-viewer-crl-endpoints = Slutpunkter for CRL
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Hent
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field
-certificate-viewer-boolean = { $boolean ->
-  [true] Ja
- *[false] Nej
-}
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Ja
+       *[false] Nej
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
 certificate-viewer-download-pem = PEM (cert)
-  .download = { $fileName }.pem
+    .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (kæde)
-  .download = { $fileName }-chain.pem
-
+    .download = { $fileName }-chain.pem
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-  .title = Denne udvidelse er blevet markeret som kritisk, hvilket betyder at klienter skal afvise certifikatet, hvis de ikke forstår det.
+    .title = Denne udvidelse er blevet markeret som kritisk, hvilket betyder at klienter skal afvise certifikatet, hvis de ikke forstår det.
 certificate-viewer-export = Eksporter
-  .download = { $fileName }.pem
+    .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (ukendt)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
