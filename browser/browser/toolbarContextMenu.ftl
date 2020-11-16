@@ -24,21 +24,18 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Fortryd lukning af faneblade
         }
     .accesskey = l
-
 toolbar-context-menu-manage-extension =
     .label = Håndter udvidelse
     .accesskey = H
 toolbar-context-menu-remove-extension =
     .label = Fjern udvidelse
     .accesskey = v
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Rapporter udvidelse
     .accesskey = o
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -54,3 +51,12 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Tilpas…
     .accesskey = p
+toolbar-context-menu-bookmarks-toolbar-always-show =
+    .label = Altid
+    .accesskey = A
+toolbar-context-menu-bookmarks-toolbar-never-show =
+    .label = Aldrig
+    .accesskey = d
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Kun i et nyt faneblad
+    .accesskey = K
