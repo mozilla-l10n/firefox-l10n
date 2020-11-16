@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Proceder con cautela
 pane-experimental-search-results-header = Experimentos { -brand-short-name }: continuar con attention
 pane-experimental-description = Cambiar le preferentias avantiate de configuration pote haber impacto sur le prestationes e le securitate de { -brand-short-name }.
+pane-experimental-reset =
+    .label = Restaurar predefinitiones
+    .accesskey = R
 help-button-label = Assistentia de { -brand-short-name }
 addons-button-label = Extensiones e themas
 focus-search =
@@ -929,6 +932,7 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 content-blocking-enhanced-tracking-protection = Protection antitraciamento reinfortiate
 content-blocking-section-top-level-description = Le traciatores te seque per tote le rete pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
 content-blocking-learn-more = Saper plus
+content-blocking-fpi-incompatibility-warning = Tu usa First Party Isolation (FPI) que supplanta alcunes del parametros de cookies de { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

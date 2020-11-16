@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Utensiles de disveloppator: depuration de obrero de servicio
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activa supporto experimental pro Service Workers in le quadro Depurator. Iste function pote relentar le Utensiles de disveloppator e augmentar le consumption de memoria.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Graphica: zoom a prisa lisie
-experimental-features-graphics-desktop-zooming-description = Activa le supporto al zoom a prisa lisie sur schermos tactile e placas tactile de precision.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Activar/disactivar audio e video WebRTC globalmente
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Activar Warp, un projecto pro melior
 experimental-features-fission =
     .label = Fission (Isolation de sitos)
 experimental-features-fission-description = Fission (isolamento de sitos) es un function experimental in { -brand-short-name } que forni un strato additional de defensa contra defectos de securitate. Isolante cata sito in un processo separate, Fission rende plus difficile pro sitos web maligne acceder a informationes de altere paginas que tu visita. Isto es un grande cambiamento architectural in { -brand-short-name } e nos multo appreciarea tu adjuta a testar isto e reportar omne problemas que tu incontra. Pro plus detalios, vider <a data-l10n-name="wiki">le wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Plure fenestras imagine-in-imagine
+experimental-features-multi-pip-description = Function experimental que permitte aperir plure fenestras imagine-in-imagine al mesme tempore.
