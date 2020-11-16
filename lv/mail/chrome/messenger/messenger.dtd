@@ -607,13 +607,25 @@
 <!ENTITY remoteContentOptionsAllowForMsg.label "Rādīt šīs vēstules attālo saturu">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
 <!ENTITY editRemoteContentSettings.label "Rediģēt attālā satura iespējas…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Rediģēt attālā satura izvēles…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "R">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorēt brīdinājumu par šo vēstuli">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Rediģēt krāpšanas noteikšanas iespējas…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Rediģēt krāpšanas noteikšanas izvēles…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Jauna vēstule">
 <!ENTITY appmenuNewContactCmd.label "Adrešu grāmatas kontakts...">
 <!ENTITY appmenuEditMenu.label "Rediģēt">
+<!ENTITY appmenuToolbarLayout.label "Rīkjoslas izklājums…">
+<!ENTITY appmenuSelectThread.label "Atlasīt pavedienu">
+<!ENTITY appmenuSelectFlagged.label "Atlasīt zvaigžņotās vēstules">
 
 <!-- Tags Menu Popup -->
 
