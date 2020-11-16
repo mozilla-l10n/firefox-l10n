@@ -80,7 +80,7 @@
 <!ENTITY renameAttachmentCmd.label "Μετονομασία συνημμένου…">
 <!ENTITY renameAttachmentCmd.accesskey "τ">
 <!ENTITY reorderAttachmentsCmd.label "Αναδιάταξη συνημμένων…">
-<!ENTITY reorderAttachmentsCmd.accesskey "π">
+<!ENTITY reorderAttachmentsCmd.accesskey "δ">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Πίνακας συνημμένων">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "μ">
