@@ -18,14 +18,32 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
+<!ENTITY biffStart.label "Έλεγχος για νέα μηνύματα κάθε ">
+<!ENTITY biffStart.accesskey "ν">
 <!ENTITY biffEnd.label "λεπτά">
 <!ENTITY connectionSecurity.label "Ασφάλεια σύνδεσης:">
 <!ENTITY connectionSecurity.accesskey "σ">
+<!ENTITY connectionSecurityType-0.label "Καμία">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, αν υπάρχει">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Μέθοδος ταυτοποίησης:">
 <!ENTITY authMethod.accesskey "θ">
+<!ENTITY deleteByAgeFromServer.label "Για το πολύ">
+<!ENTITY deleteByAgeFromServer.accesskey "ο">
+<!ENTITY daysEnd.label "ημέρες">
+<!ENTITY deleteOnServer2.label "Μέχρι να τα διαγράψω">
+<!ENTITY deleteOnServer2.accesskey "δ">
+<!ENTITY downloadOnBiff.label "Αυτόματη λήψη νέων μηνυμάτων">
+<!ENTITY downloadOnBiff.accesskey "μ">
+<!ENTITY deleteMessagePrefix.label "Κατά τη διαγραφή ενός μηνύματος:">
+<!ENTITY modelMoveToTrash.label "Μετακίνηση στο φάκελο:">
+<!ENTITY modelMoveToTrash.accesskey "φ">
+<!ENTITY modelDeleteImmediately.label "Άμεση αφαίρεση">
+<!ENTITY modelDeleteImmediately.accesskey "φ">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY loginAtStartup.label "Έλεγχος για νέα μηνύματα κατά την εκκίνηση">
+<!ENTITY loginAtStartup.accesskey "Έ">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
      maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
      of messages between them
@@ -35,10 +53,17 @@
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "μηνυμάτων">
 <!ENTITY newsrcFilePath.label "Αρχείο newsrc:">
+<!ENTITY newsrcPicker.label "Επιλογή αρχείου newsrc">
 <!ENTITY advancedButton.label "Για προχωρημένους…">
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση κειμένου:">
 <!ENTITY advancedButton.accesskey "χ">
+<!ENTITY localPath.label "Τοπικός κατάλογος:">
+<!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">
 <!ENTITY browseFolder.label "Περιήγηση…">
+<!ENTITY browseFolder.accesskey "Π">
 <!ENTITY browseNewsrc.label "Περιήγηση…">
+<!ENTITY browseNewsrc.accesskey "ρ">
 
 <!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
+<!ENTITY mboxStore2.label "Αρχείο ανά φάκελο (mbox)">
+<!ENTITY maildirStore.label "Αρχείο ανά μήνυμα (maildir)">
