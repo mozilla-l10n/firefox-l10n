@@ -149,7 +149,7 @@ newtab-label-sponsored-by = Sponzor { $sponsor }
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Ukloni odjel
+newtab-section-menu-remove-section = Ukloni odjeljak
 newtab-section-menu-collapse-section = Sklopi odjeljak
 newtab-section-menu-expand-section = Rasklopi odjeljak
 newtab-section-menu-manage-section = Upravljaj odjeljkom
