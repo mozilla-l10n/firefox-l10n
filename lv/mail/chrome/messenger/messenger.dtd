@@ -2,73 +2,271 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Mape...">
 <!ENTITY newFolderCmd.accesskey "M">
+<!ENTITY closeTabCmd2.label "Aizvērt cilni">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Aizvērt citas cilnes">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "Nesen aizvērtās cilnes">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
+<!ENTITY moveToNewWindow.label "Pārvietot uz jaunu logu">
+<!ENTITY moveToNewWindow.accesskey "W">
+<!ENTITY newVirtualFolderCmd.label "Saglabātā meklēšana…">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newOtherAccountsCmd.label "Citi konti…">
+<!ENTITY newOtherAccountsCmd.accesskey "O">
+<!ENTITY newCreateEmailAccountCmd.label "Iegūt jaunu pasta kontu…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "G">
+<!ENTITY newExistingEmailAccountCmd.label "Esošais pasta konts…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Tērzēšanas konts…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Plūsmas konts…">
+<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newIMContactCmd.label "Tērzēšanas kontakts…">
+<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Vēstule">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Adrešu grāmatas kontakts…">
+<!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Atvērt">
+<!ENTITY openMenuCmd.accesskey "O">
+<!ENTITY openMessageFileCmd.label "Saglabāta vēstule…">
+<!ENTITY openMessageFileCmd.accesskey "M">
 <!ENTITY saveAsMenu.label "Saglabāt kā">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "Fails">
 <!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Veidne">
+<!ENTITY saveAsTemplateCmd.accesskey "V">
+<!ENTITY getNewMsgForCmd.label "Saņemt jaunas vēstules priekš">
+<!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Visi konti">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "V">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Pašreizējais konts">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "K">
+<!ENTITY getNextNMsgCmd2.label "Saņemt nākamos jaunumus">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
+<!ENTITY sendUnsentCmd.label "Sūtīt nenosūtītās vēstules">
+<!ENTITY sendUnsentCmd.accesskey "d">
+<!ENTITY subscribeCmd.label "Abonēt…">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Dzēst mapi">
+<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY renameFolder.label "Pārsaukt mapi…">
+<!ENTITY renameFolder.accesskey "P">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY compactFolders.label "Saspiest mapes">
+<!ENTITY compactFolders.accesskey "S">
+<!ENTITY emptyTrashCmd.label "Iztukšot atkritni">
+<!ENTITY emptyTrashCmd.accesskey "y">
+<!ENTITY offlineMenu.label "Nesaistē">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Strādāt nesaistē">
+<!ENTITY offlineGoOfflineCmd.accesskey "w">
+<!ENTITY synchronizeOfflineCmd.label "Lejuplādēt/sinhronizēt tagad…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd2.label "Nesaistes iestatījumi">
+<!ENTITY settingsOfflineCmd2.accesskey "e">
+<!ENTITY downloadSelectedCmd.label "Iegūt atlasītās vēstules">
+<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadStarredCmd.label "Iegūt zvaigžņotās vēstules">
+<!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Drukāt...">
 <!ENTITY printCmd.accesskey "D">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Drukas priekšskats">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Lapas iestatījumi…">
 <!ENTITY printSetupCmd.accesskey "u">
 
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Dzēst vēstuli">
 <!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY undeleteMsgCmd.label "Atdzēst vēstuli">
+<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY deleteMsgsCmd.label "Dzēst atlasītās vēstules">
+<!ENTITY deleteMsgsCmd.accesskey "D">
+<!ENTITY undeleteMsgsCmd.label "Atdzēst atlasītās vēstules">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY deleteFolderCmd.label "Dzēst mapi">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "Atrakstīties">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "t">
+<!ENTITY selectMenu.label "Izvēlēties">
+<!ENTITY selectMenu.accesskey "Z">
+<!ENTITY all.label "Visi">
+<!ENTITY all.accesskey "V">
 <!ENTITY selectThreadCmd.label "Pavediens">
 <!ENTITY selectThreadCmd.accesskey "P">
+<!ENTITY selectThreadCmd.key "a">
+<!ENTITY selectFlaggedCmd.label "Zvaigžņotās vēstules">
+<!ENTITY selectFlaggedCmd.accesskey "Z">
+<!ENTITY menuFavoriteFolder.label "Izlases mape">
+<!ENTITY menuFavoriteFolder.accesskey "i">
 <!ENTITY folderPropsCmd2.label "Īpašības">
 <!ENTITY folderPropsFolderCmd2.label "Mapes īpašības">
+<!ENTITY folderPropsNewsgroupCmd2.label "Ziņu grupas īpašības">
+<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY undoDeleteMsgCmd.label "Atsaukt vēstules dzēšanu">
+<!ENTITY redoDeleteMsgCmd.label "Reatsaukt vēstules dzēšanu">
+<!ENTITY undoMoveMsgCmd.label "Atsaukt vēstules pārvietošanu">
+<!ENTITY redoMoveMsgCmd.label "Reatsaukt vēstules pārvietošanu">
+<!ENTITY undoCopyMsgCmd.label "Atsaukt vēstules kopēšanu">
+<!ENTITY redoCopyMsgCmd.label "Reatsaukt vēstules kopēšanu">
+<!ENTITY undoMarkAllCmd.label "Atsaukt atzīmēt visu kā lasītu">
+<!ENTITY redoMarkAllCmd.label "Reatsaukt atzīmēt visu kā lasītu">
 <!ENTITY undoDefaultCmd.label "Atsaukt">
 <!ENTITY undoDefaultCmd.accesskey "u">
 <!ENTITY redoDefaultCmd.label "Atcelt atsaukšanu">
 <!ENTITY redoDefaultCmd.accesskey "t">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Izvēlnes josla">
+<!ENTITY menubarCmd.accesskey "I">
+<!ENTITY showMessengerToolbarCmd.label "Pasta rīkjosla">
+<!ENTITY showMessengerToolbarCmd.accesskey "o">
+<!ENTITY customizeToolbar.label "Pielāgot…">
+<!ENTITY customizeToolbar.accesskey "P">
 
+<!ENTITY messagePaneLayoutStyle.label "Izklājums">
+<!ENTITY messagePaneLayoutStyle.accesskey "K">
+<!ENTITY messagePaneClassic.label "Klasiskais skats">
+<!ENTITY messagePaneClassic.accesskey "K">
+<!ENTITY messagePaneWide.label "Platais skats">
+<!ENTITY messagePaneWide.accesskey "P">
+<!ENTITY messagePaneVertical.label "Vertikālais skats">
+<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY showFolderPaneCmd.label "Mapju rūts">
+<!ENTITY showFolderPaneCmd.accesskey "M">
+<!ENTITY showFolderPaneColsCmd.label "Mapju rūts kolonnas">
+<!ENTITY showFolderPaneColsCmd.accesskey "P">
+<!ENTITY showMessageCmd.label "Vēstuļu rūts">
+<!ENTITY showMessageCmd.accesskey "V">
 
 <!ENTITY folderView.label "Mapes">
 <!ENTITY folderView.accesskey "M">
+<!ENTITY unifiedFolders.label "Vienoti">
+<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY allFolders.label "Visi">
+<!ENTITY allFolders.accesskey "V">
+<!ENTITY unreadFolders.label "Nelasītas">
+<!ENTITY unreadFolders.accesskey "N">
+<!ENTITY favoriteFolders.label "Izlase">
+<!ENTITY favoriteFolders.accesskey "I">
+<!ENTITY recentFolders.label "Nesen">
+<!ENTITY recentFolders.accesskey "N">
+<!ENTITY compactVersion.label "Kompakts skats">
+<!ENTITY compactVersion.accesskey "K">
+<!ENTITY folderPaneBar.label "Mapju rūts rīkjosla">
+<!ENTITY folderPaneBar.accesskey "M">
 
 <!-- Sort Menu -->
+<!ENTITY sortMenu.label "Kārtot pēc">
+<!ENTITY sortMenu.accesskey "K">
+<!ENTITY sortByDateCmd.label "Datums">
+<!ENTITY sortByDateCmd.accesskey "d">
+<!ENTITY sortByReceivedCmd.label "Saņemts">
+<!ENTITY sortByReceivedCmd.accesskey "s">
+<!ENTITY sortByStarCmd.label "Zvaigzne">
+<!ENTITY sortByStarCmd.accesskey "Z">
+<!ENTITY sortByAttachmentsCmd.label "Pielikumi">
+<!ENTITY sortByAttachmentsCmd.accesskey "p">
+<!ENTITY sortByPriorityCmd.label "Prioritāte">
+<!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Izmērs">
 <!ENTITY sortBySizeCmd.accesskey "z">
 <!ENTITY sortByStatusCmd.label "Statuss">
 <!ENTITY sortByStatusCmd.accesskey "u">
 <!ENTITY sortByTagsCmd.label "Birkas">
 <!ENTITY sortByTagsCmd.accesskey "B">
+<!ENTITY sortByJunkStatusCmd.label "Drazas statuss">
+<!ENTITY sortByJunkStatusCmd.accesskey "D">
 <!ENTITY sortBySubjectCmd.label "Temats">
 <!ENTITY sortBySubjectCmd.accesskey "T">
 <!ENTITY sortByFromCmd.label "No">
 <!ENTITY sortByFromCmd.accesskey "N">
 <!ENTITY sortByRecipientCmd.label "Saņēmējs">
 <!ENTITY sortByRecipientCmd.accesskey "S">
+<!ENTITY sortByCorrespondentCmd.label "Korespondenti">
+<!ENTITY sortByCorrespondentCmd.accesskey "r">
 <!ENTITY sortByUnreadCmd.label "Lasīt">
 <!ENTITY sortByUnreadCmd.accesskey "L">
+<!ENTITY sortByOrderReceivedCmd.label "Pieprasījums saņemts">
+<!ENTITY sortByOrderReceivedCmd.accesskey "P">
+<!ENTITY sortAscending.label "Augoši">
+<!ENTITY sortAscending.accesskey "A">
+<!ENTITY sortDescending.label "Dilstoši">
+<!ENTITY sortDescending.accesskey "D">
+<!ENTITY sortThreaded.label "Pavedienos">
+<!ENTITY sortThreaded.accesskey "P">
+<!ENTITY sortUnthreaded.label "Nepavedienos">
+<!ENTITY sortUnthreaded.accesskey "n">
+<!ENTITY groupBySort.label "Grupēts pēc kārtošanas">
+<!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Vēstules">
 <!ENTITY msgsMenu.accesskey "m">
 <!ENTITY threads.label "Pavedieni">
 <!ENTITY threads.accesskey "e">
+<!ENTITY allMsgsCmd.label "Visi">
+<!ENTITY allMsgsCmd.accesskey "V">
+<!ENTITY expandAllThreadsCmd.label "Izvērst visus pavedienus">
+<!ENTITY expandAllThreadsCmd.accesskey "I">
+<!ENTITY expandAllThreadsCmd.key "*">
+<!ENTITY collapseAllThreadsCmd.label "Sakļaut visus pavedienus">
+<!ENTITY collapseAllThreadsCmd.accesskey "S">
+<!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY unreadMsgsCmd.label "Nelasītas">
+<!ENTITY unreadMsgsCmd.accesskey "N">
+<!ENTITY threadsWithUnreadCmd.label "Pavedieni ar nelasītām">
+<!ENTITY threadsWithUnreadCmd.accesskey "P">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Skatīti pavedieni ar nelasītām">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "S">
 <!ENTITY ignoredThreadsCmd.label "Ignorēt pavedienus">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
+<!ENTITY headersMenu.label "Galvenes">
+<!ENTITY headersMenu.accesskey "G">
+<!ENTITY headersAllCmd.label "Visas">
+<!ENTITY headersAllCmd.accesskey "V">
 <!ENTITY headersNormalCmd.label "Normāls">
 <!ENTITY headersNormalCmd.accesskey "N">
+<!ENTITY bodyMenu.label "Vēstules pamatteksts kā">
+<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyAllowHTML.label "Oriģinālais HTML">
+<!ENTITY bodyAllowHTML.accesskey "H">
+<!ENTITY bodySanitized.label "Vienkāršs HTML">
+<!ENTITY bodySanitized.accesskey "V">
+<!ENTITY bodyAsPlaintext.label "Vienkāršs teksts">
+<!ENTITY bodyAsPlaintext.accesskey "T">
+<!ENTITY bodyAllParts.label "Visas ķermeņa daļas">
+<!ENTITY bodyAllParts.accesskey "V">
 
+<!ENTITY bodyMenuFeed.label "Plūsmas ziņas pamatteksts kā">
+<!ENTITY bodyMenuFeed.accesskey "P">
+<!ENTITY viewFeedWebPage.label "Tīmekļa lapa">
+<!ENTITY viewFeedWebPage.accesskey "T">
+<!ENTITY viewFeedSummary.label "Kopsavilkums">
+<!ENTITY viewFeedSummary.accesskey "s">
+<!ENTITY viewFeedSummaryFeedPropsPref.label "Noklusētais formāts">
+<!ENTITY viewFeedSummaryFeedPropsPref.accesskey "D">
 
+<!ENTITY viewAttachmentsInlineCmd.label "Rādīt pielikumus vienā rindā">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "V">
 
 
 <!-- Search Menu -->
