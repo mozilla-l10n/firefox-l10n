@@ -155,6 +155,10 @@
 <!ENTITY direct.accesskey                         "Κ">
 <!ENTITY manual.label                             "Σε σύνδεση (Διακομιστής μεσολάβησης: Χειροκίνητα)">
 <!ENTITY manual.accesskey                         "Χ">
+<!ENTITY pac.label                                "Σε σύνδεση (Διακομιστής μεσολάβησης: Αυτόματο URL)">
+<!ENTITY pac.accesskey                            "Α">
+<!ENTITY system.label                             "Σε σύνδεση (Διακομιστής μεσολάβησης: Συστήματος)">
+<!ENTITY system.accesskey                         "Σ">
 
 <!ENTITY proxy.label                              "Ρύθμιση διακομιστή μεσολάβησης…">
 <!ENTITY proxy.accesskey                          "Ρ">
@@ -188,6 +192,7 @@
 <!ENTITY showPopupManager.label       "Διαχείριση αναδυόμενων παραθύρων">
 <!ENTITY showPopupManager.accesskey   "Δ">
 
+<!ENTITY throbber.title "Κινούμενο εικονίδιο φόρτωσης">
 <!ENTITY throbber.tooltip2 "Μετάβαση στην αρχική σελίδα του &brandShortName;">
 
 <!ENTITY syncToolbarButton.label "Sync">

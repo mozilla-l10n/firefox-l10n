@@ -2,11 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY sanitizeDialog.title            "Απαλοιφή ιδιωτικών δεδομένων">
+<!ENTITY sanitizeItems.label             "Εκκαθάριση των εξής στοιχείων:">
 
+<!ENTITY itemHistory.label               "Ιστορικό περιήγησης">
+<!ENTITY itemHistory.accesskey           "π">
+<!ENTITY itemUrlBar.label                "Ιστορικό γραμμής διευθύνσεων">
+<!ENTITY itemUrlBar.accesskey            "Ι">
 <!ENTITY itemDownloads.label             "Ιστορικό λήψεων">
 <!ENTITY itemDownloads.accesskey         "Ι">
 <!ENTITY itemCache.label                 "Προσωρινή μνήμη">
 <!ENTITY itemCache.accesskey             "σ">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
+<!ENTITY itemPasswords.label             "Αποθηκευμένοι κωδικοί πρόσβασης">
+<!ENTITY itemPasswords.accesskey         "κ">
+<!ENTITY itemSessions.label              "Επαληθευμένες συνεδρίες">
+<!ENTITY itemSessions.accesskey          "σ">
 
