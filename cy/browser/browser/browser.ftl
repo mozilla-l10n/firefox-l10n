@@ -356,9 +356,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
-    .label = Mewnforio nodau tudalen...
-    .tooltiptext = Copïo nodau tudalen o borwr arall i { -brand-short-name }.
+browser-import-button2 =
+    .label = Mewnforio nodau tudalen…
+    .tooltiptext = Mewnforio nodau tudalen o borwr arall i { -brand-short-name }.
+bookmarks-toolbar-empty-message = I gael mynediad cyflym, rhowch eich nodau tudalen yma ar y bar offer nodau tudalen. <a data-l10n-name="manage-bookmarks"> Rheoli nodau tudalen…</a>
 
 ## WebRTC Pop-up notifications
 
