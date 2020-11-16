@@ -6,11 +6,16 @@
 <!ENTITY pref.locationBar.title                "Γραμμή διευθύνσεων">
 
 <!ENTITY autoComplete.label                    "Αυτόματη συμπλήρωση">
+<!ENTITY autoCompleteMatchHistory.label        "Αυτόματη πρόταση ιστοσελίδων από το ιστορικό">
+<!ENTITY autoCompleteMatchHistory.accesskey    "Α">
+<!ENTITY autoCompleteMatchBookmarks.label      "Αυτόματη πρόταση ιστοσελίδων από τους σελιδοδείκτες">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "σ">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
 -->
 <!ENTITY autoCompleteMatch.label               "Αντιστοίχιση">
+<!ENTITY autoCompleteMatch.accesskey           "Α">
 
 <!ENTITY formatting.label                      "Μορφοποίηση">
 
