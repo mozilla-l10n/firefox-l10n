@@ -562,16 +562,51 @@
 <!ENTITY folderLocationToolbarItem.title "Mapes vieta">
 <!ENTITY tagButton.label "Atzīmēt">
 <!ENTITY compactButton.label "Saspiest">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Izvērstā vēstuļu meklēšana">
+<!ENTITY getMsgButton.tooltip "Iegūt jaunas vēstules">
+<!ENTITY getAllNewMsgCmd.label "Iegūt visas vēstules">
+<!ENTITY getAllNewMsgCmd.accesskey "I">
+<!ENTITY newMsgButton.tooltip "Izveidot jaunu vēstuli">
+<!ENTITY replyButton.tooltip "Atbildēt uz vēstuli">
+<!ENTITY replyAllButton.tooltip "Atbildēt sūtītājam un visiem saņēmējiem">
+<!ENTITY replyListButton.tooltip "Atbildēt adresātu sarakstam">
+<!ENTITY forwardButton.tooltip "Pārsūtīt atlasīto vēstuli">
+<!ENTITY forwardAsInline.tooltip "Pārsūtīt atlasīto vēstuli kā iekļautu tekstu">
+<!ENTITY forwardAsAttachment.tooltip "Pārsūtīt atlasīto vēstuli kā pielikumu">
+<!ENTITY fileButton.tooltip "Noglabāt atlasīto vēstuli">
+<!ENTITY archiveButton.tooltip "Arhivēt atlasītās vēstules">
+<!ENTITY openMsgConversationButton.tooltip "Rādīt atlasītās vēstules sarunu">
+<!ENTITY nextButton.tooltip "Pāriet uz nākamo nelasīto vēstuli">
+<!ENTITY nextMsgButton.tooltip "Pāriet uz nākamo vēstuli">
+<!ENTITY previousButton.tooltip "Pāriet uz iepriekšējo nelasīto vēstuli">
+<!ENTITY previousMsgButton.tooltip "Pāriet uz iepriekšējo vēstuli">
 <!ENTITY goForwardButton.tooltip "Doties vienu vēstuli uz priekšu">
 <!ENTITY goBackButton.tooltip "Doties vienu vēstuli atpakaļ">
+<!ENTITY deleteButton.tooltip "Dzēst atlasīto vēstuli vai mapi">
+<!ENTITY undeleteButton.tooltip "Atsaukt atlasītās vēstules dzēšanu">
+<!ENTITY markButton.tooltip "Atzīmēt vēstules">
 <!ENTITY printButton.tooltip "Drukāt šo vēstuli">
+<!ENTITY stopButton.tooltip "Pārtraukt pašreizējo pārsūtīšanu">
+<!ENTITY junkButton.tooltip "Atzīmēt atlasītās vēstules kā drazu">
+<!ENTITY notJunkButton.tooltip "Atzīmēt atlasītās vēstules kā nedrazu">
 <!ENTITY addressBookButton.tooltip "Doties uz adrešu grāmatu">
+<!ENTITY chatButton.tooltip "Rādīt Tērzēšana cilni">
+<!ENTITY tagButton.tooltip "Birkot vēstules">
+<!ENTITY compactButton.tooltip "Noņemt dzēstās vēstules no atlasītās mapes">
+<!ENTITY appmenuButton1.tooltip "Parādīt &brandShortName; izvēlni">
+<!ENTITY addonsButton.tooltip "Pārvaldīt papildinājumus">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Pārsūtīt iekļauti">
+<!ENTITY buttonMenuForwardAsAttachment.label "Pārsūtīt kā pielikumu">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Rādīt šīs vēstules attālo saturu">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
+<!ENTITY editRemoteContentSettings.label "Rediģēt attālā satura iespējas…">
 
 <!-- Phishing Button Popup -->
 
