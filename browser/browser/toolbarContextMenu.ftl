@@ -57,3 +57,6 @@ toolbar-context-menu-bookmarks-toolbar-always-show =
 toolbar-context-menu-bookmarks-toolbar-never-show =
     .label = Mai
     .accesskey = M
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Només en una pestanya nova
+    .accesskey = N
