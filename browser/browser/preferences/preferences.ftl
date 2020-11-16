@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Fortsæt på eget ansvar
 pane-experimental-search-results-header = { -brand-short-name }-eksperimenter: Fortsæt på eget ansvar
 pane-experimental-description = Ved at ændre avancerede indstillinger kan du påvirke ydelse eller sikkerhed for { -brand-short-name }.
+pane-experimental-reset =
+    .label = Gendan standarder
+    .accesskey = G
 help-button-label = Hjælp til { -brand-short-name }
 addons-button-label = Udvidelser og temaer
 focus-search =
@@ -925,6 +928,7 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 content-blocking-enhanced-tracking-protection = Udvidet beskyttelse mod sporing
 content-blocking-section-top-level-description = Sporings-teknologier følger dig rundt på nettet for at indsamle information om dine vaner og interesser. { -brand-short-name } blokerer mange af disse sporings-teknologier og andre ondsindede scripts.
 content-blocking-learn-more = Læs mere
+content-blocking-fpi-incompatibility-warning = Du bruger First Party Isolation (FPI), som tilsidesætter nogle af indstillingerne for cookies i { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -958,6 +962,7 @@ content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Vigtigt!
 content-blocking-and-isolating-etp-warning-description = Nogle websteders funktionalitet kan blive påvirket, når du blokerer sporings-teknologier og isolerer cookies. Genindlæs side med sporings-teknologier for at indlæse alt indhold.
+content-blocking-and-isolating-etp-warning-description-2 = Denne indstilling kan medføre, at nogle websteder ikke viser indhold eller ikke fungerer som de skal. Hvis et websted ikke ser ud til at fungere korrekt, så prøv at slå beskyttelse mod sporing fra for webstedet for at indlæse alt indhold.
 content-blocking-warning-learn-how = Læs hvordan
 content-blocking-reload-description = Du skal genindlæse dine faneblade, før ændringerne slår igennem.
 content-blocking-reload-tabs-button =
