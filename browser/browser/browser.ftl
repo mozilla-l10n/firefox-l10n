@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engineName } directament des de la barra d'adreces.
 urlbar-search-tips-redirect-2 = Comenceu la vostra cerca en la barra d'adreces per veure suggeriments de { $engineName } i del vostre historial de navegació.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Seleccioneu aquesta drecera per trobar el que necessiteu més ràpidament.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -293,11 +296,13 @@ identity-https-only-dropdown-off =
     .label = Desactivat
 identity-https-only-dropdown-off-temporarily =
     .label = Desactivat temporalment
-identity-https-only-info-turn-on = Activeu-ho si voleu que el { -brand-short-name } canviï a una connexió segura quan sigui possible.
-identity-https-only-info-turn-off = Si sembla que el lloc no funciona bé, podeu provar de desactivar el mode només HTTPS per tornar-lo a carregar amb HTTP insegur.
+identity-https-only-info-turn-on2 = Activeu el mode només HTTPS per a aquest lloc si voleu que el { -brand-short-name } canviï a una connexió segura quan sigui possible.
+identity-https-only-info-turn-off2 = Si sembla que la pàgina no funciona bé, podeu provar de desactivar el mode només HTTPS per a aquest lloc per tornar-lo a carregar amb HTTP insegur.
 identity-https-only-info-no-upgrade = No s'ha pogut actualitzar la connexió des d'HTTP.
 identity-permissions =
     .value = Permisos
+identity-permissions-storage-access-header = Galetes entre llocs
+identity-permissions-storage-access-hint = Aquests subjectes poden utilitzar galetes entre llocs i dades del lloc mentre esteu en aquest lloc.
 identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
 identity-permissions-empty = No heu donat cap permís especial a aquest lloc.
 identity-clear-site-data =
@@ -340,6 +345,13 @@ browser-window-restore-down-button =
     .tooltiptext = Restaura avall
 browser-window-close-button =
     .tooltiptext = Tanca
+
+## Bookmarks toolbar items
+
+browser-import-button2 =
+    .label = Importa les adreces d'interès…
+    .tooltiptext = Importa les adreces d'interès d'un altre navegador al { -brand-short-name }.
+bookmarks-toolbar-empty-message = Col·loqueu les adreces d'interès aquí, a la barra de les adreces d'interès, per accedir-hi ràpidament. <a data-l10n-name="manage-bookmarks">Gestiona les adreces d'interès…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -444,16 +456,21 @@ urlbar-result-action-search-in-private = Cerca en una finestra privada
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Cerca amb { $engine }
+urlbar-result-action-sponsored = Patrocinat
 urlbar-result-action-switch-tab = Canvia a la pestanya
 urlbar-result-action-visit = Visita
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Cerca en les adreces d'interès
-urlbar-result-action-search-history = Cerca en l'historial
-urlbar-result-action-search-tabs = Cerca en les pestanyes
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Premeu Tab per cercar amb { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Premeu Tab per cercar en { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -462,6 +479,14 @@ urlbar-result-action-tabtosearch-web = Cerca amb { $engine } directament des de 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cerca en { $engine } directament des de la barra d'adreces
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Cerca en les adreces d'interès
+urlbar-result-action-search-history = Cerca en l'historial
+urlbar-result-action-search-tabs = Cerca en les pestanyes
 
 ## Full Screen and Pointer Lock UI
 

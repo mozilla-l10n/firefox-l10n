@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Primers passos
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Us donem la benvinguda al { -brand-short-name }
 onboarding-welcome-body = Ja teniu el navegador.<br/>Ara descobriu la resta del { -brand-product-name }.
 onboarding-welcome-learn-more = Més informació sobre els beneficis.
@@ -36,9 +44,58 @@ onboarding-join-form-signin-label = Ja teniu un compte?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Inicia la sessió
 onboarding-start-browsing-button-label = Comença a navegar
+onboarding-not-now-button-label = Ara no
 onboarding-cards-dismiss =
     .title = Descarta
     .aria-label = Descarta
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Descobriu tot allò que podeu fer.
+onboarding-fullpage-form-email =
+    .placeholder = La vostra adreça electrònica…
+
+## Firefox Sync modal dialog strings.
+
+onboarding-sync-welcome-header = El vostre { -brand-product-name }, a tot arreu
+onboarding-sync-welcome-content = Accediu a les vostres adreces d'interès, historial, contrasenyes i preferències en tots els vostres dispositius.
+onboarding-sync-welcome-learn-more-link = Més informació sobre els Comptes del Firefox
+onboarding-sync-form-input =
+    .placeholder = Adreça electrònica
+onboarding-sync-form-continue-button = Continua
+onboarding-sync-form-skip-login-button = Omet aquest pas
+
+## This is part of the line "Enter your email to continue to Firefox Sync"
+
+onboarding-sync-form-header = Introduïu la vostra adreça electrònica
+onboarding-sync-form-sub-header = per continuar al { -sync-brand-name }.
+
+## These are individual benefit messages shown with an image, title and
+## description.
+
+onboarding-benefit-products-text = Milloreu la productivitat amb una família d'eines que respecten la vostra privadesa en tots els dispositius.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Tot el que fem respecta la nostra «Promesa sobre les dades personals»: recollir menys dades, mantenir-les segures i sense secrets.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Accediu a les adreces d'interès, les contrasenyes, l'historial i molt més a tot arreu on utilitzeu el { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Rebeu notificacions si la vostra informació personal apareix en alguna filtració de dades coneguda.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gestioneu les contrasenyes de forma segura i portàtil.
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Molt bé, teniu el { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Ara, instal·leu l'extensió complement <img data-l10n-name="icon"/><b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Afegeix l'extensió
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -72,8 +129,6 @@ onboarding-multistage-theme-primary-button-label = Desa el tema
 onboarding-multistage-theme-secondary-button-label = Ara no
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automàtic
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Utilitza el tema del sistema
 onboarding-multistage-theme-label-light = Clar
 onboarding-multistage-theme-label-dark = Fosc
 # "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
@@ -84,30 +139,6 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Hereta l'aparença del sistema operatiu
-        per als botons, menús i finestres.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title =
-        Utilitza una aparença clara per als
-        botons, menús i finestres.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title =
-        Utilitza una aparença fosca per als
-        botons, menús i finestres.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title =
-        Utilitza una aparença acolorida per als
-        botons, menús i finestres.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
@@ -148,44 +179,6 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Utilitza una aparença acolorida per als
         botons, menús i finestres.
-
-## Welcome full page string
-
-onboarding-fullpage-welcome-subheader = Descobriu tot allò que podeu fer.
-onboarding-fullpage-form-email =
-    .placeholder = La vostra adreça electrònica…
-
-## Firefox Sync modal dialog strings.
-
-onboarding-sync-welcome-header = El vostre { -brand-product-name }, a tot arreu
-onboarding-sync-welcome-content = Accediu a les vostres adreces d'interès, historial, contrasenyes i preferències en tots els vostres dispositius.
-onboarding-sync-welcome-learn-more-link = Més informació sobre els Comptes del Firefox
-onboarding-sync-form-input =
-    .placeholder = Adreça electrònica
-onboarding-sync-form-continue-button = Continua
-onboarding-sync-form-skip-login-button = Omet aquest pas
-
-## This is part of the line "Enter your email to continue to Firefox Sync"
-
-onboarding-sync-form-header = Introduïu la vostra adreça electrònica
-onboarding-sync-form-sub-header = per continuar al { -sync-brand-name }.
-
-## These are individual benefit messages shown with an image, title and
-## description.
-
-onboarding-benefit-products-text = Milloreu la productivitat amb una família d'eines que respecten la vostra privadesa en tots els dispositius.
-# "Personal Data Promise" is a concept that should be translated consistently
-# across the product. It refers to a concept shown elsewhere to the user: "The
-# Firefox Personal Data Promise is the way we honor your data in everything we
-# make and do. We take less data. We keep it safe. And we make sure that we are
-# transparent about how we use it."
-onboarding-benefit-privacy-text = Tot el que fem respecta la nostra «Promesa sobre les dades personals»: recollir menys dades, mantenir-les segures i sense secrets.
-onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Accediu a les adreces d'interès, les contrasenyes, l'historial i molt més a tot arreu on utilitzeu el { -brand-product-name }.
-onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Rebeu notificacions si la vostra informació personal apareix en alguna filtració de dades coneguda.
-onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Gestioneu les contrasenyes de forma segura i portàtil.
 
 ## These strings belong to the individual onboarding messages.
 
