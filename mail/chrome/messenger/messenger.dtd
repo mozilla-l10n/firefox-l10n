@@ -628,6 +628,10 @@
 <!ENTITY appmenuSelectFlagged.label "Atlasīt zvaigžņotās vēstules">
 
 <!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Jauna birka…">
+<!ENTITY addNewTag.accesskey "J">
+<!ENTITY manageTags.label "Pārvaldīt birkas…">
+<!ENTITY manageTags.accesskey "P">
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nosaukums">
@@ -638,20 +642,48 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Iegūt vēstules">
 <!ENTITY folderContextGetMessages.accesskey "g">
+<!ENTITY folderContextMarkAllFoldersRead.label "Atzīmēt visas mapes kā lasītas">
+<!ENTITY folderContextPauseAllUpdates.label "Pārtraukt visus atjaunojumus">
+<!ENTITY folderContextPauseUpdates.label "Pārtraukt atjaunojumus">
+<!ENTITY folderContextPauseUpdates.accesskey "P">
+<!ENTITY folderContextOpenInNewWindow.label "Atvērt jaunā logā">
+<!ENTITY folderContextOpenInNewWindow.accesskey "A">
+<!ENTITY folderContextOpenNewTab.label "Atvērt jaunā cilnē">
+<!ENTITY folderContextOpenNewTab.accesskey "C">
 <!ENTITY folderContextNew.label "Jauna apakšmape...">
 <!ENTITY folderContextNew.accesskey "n">
 <!ENTITY folderContextRename.label "Pārdēvēt">
 <!ENTITY folderContextRename.accesskey "r">
 <!ENTITY folderContextRemove.label "Dzēst">
 <!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextCompact.label "Kompakts">
+<!ENTITY folderContextCompact.accesskey "K">
+<!ENTITY folderContextEmptyTrash.label "Iztukšot atkritni">
+<!ENTITY folderContextEmptyTrash.accesskey "y">
+<!ENTITY folderContextEmptyJunk.label "Iztukšot drazu">
+<!ENTITY folderContextEmptyJunk.accesskey "D">
+<!ENTITY folderContextSendUnsentMessages.label "Sūtīt nenosūtītās vēstules">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextUnsubscribe.label "Atrakstīties">
+<!ENTITY folderContextUnsubscribe.accesskey "A">
+<!ENTITY folderContextMarkNewsgroupRead.label "Atzīmēt ziņu grupu kā lasītu">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkMailFolderRead.label "Atzīmēt mapi kā lasītu">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
+<!ENTITY folderContextSubscribe.label "Pierakstīties…">
+<!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Meklēt vēstules...">
 <!ENTITY folderContextSearchForMessages.accesskey "M">
 <!ENTITY folderContextProperties2.label "Īpašības">
 <!ENTITY folderContextProperties2.accesskey "p">
+<!ENTITY folderContextFavoriteFolder.label "Izlases mape">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings2.label "Iestatījumi">
 <!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Vārds vai epasts satur:">
+<!ENTITY SearchNameOrEmail.accesskey "V">
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.placeholder "Meklēt vēstules...">
@@ -659,12 +691,18 @@
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Temats">
 <!ENTITY searchFromMenu.label "No">
+<!ENTITY searchSubjectOrFromMenu.label "Temats vai No">
+<!ENTITY searchRecipient.label "Uz vai kopija">
+<!ENTITY searchSubjectOrRecipientMenu.label "Temats, Kam vai Kopija">
 <!ENTITY searchMessageBody.label "Visa vēstule">
+<!ENTITY saveAsVirtualFolderMenu.label "Saglabāt meklēšanu kā mapi…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Atlasīt vēstules">
 <!ENTITY threadColumn.label "Pavediens">
 <!ENTITY fromColumn.label "No">
 <!ENTITY recipientColumn.label "Saņēmējs">
+<!ENTITY correspondentColumn.label "Korespondenti">
 <!ENTITY subjectColumn.label "Temats">
 <!ENTITY dateColumn.label "Datums">
 <!ENTITY priorityColumn.label "Prioritāte">
@@ -672,28 +710,55 @@
 <!ENTITY accountColumn.label "Konts">
 <!ENTITY statusColumn.label "Statuss">
 <!ENTITY sizeColumn.label "Izmērs">
+<!ENTITY junkStatusColumn.label "Drazas statuss">
 <!ENTITY unreadColumn.label "Nelasīti">
 <!ENTITY totalColumn.label "Kopā">
 <!ENTITY readColumn.label "Lasīt">
 <!ENTITY receivedColumn.label "Saņemts">
+<!ENTITY starredColumn.label "Zvaigžņota">
 <!ENTITY locationColumn.label "Atrašanās vieta">
+<!ENTITY idColumn.label "Pieprasījums saņemts">
 <!ENTITY attachmentColumn.label "Pielikumi">
+<!ENTITY deleteColumn.label "Dzēst">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Atlasiet rādāmās kolonnas">
+<!ENTITY selectColumn.tooltip "Pārslēgt visu vēstuļu atlasi">
+<!ENTITY threadColumn2.tooltip "Rādīt vēstuļu pavedienus">
 <!ENTITY fromColumn2.tooltip "Kārtot pēc formas">
+<!ENTITY recipientColumn2.tooltip "Kārtot pēc saņēmēja">
+<!ENTITY correspondentColumn2.tooltip "Kārtot pēc korespondentiem">
+<!ENTITY subjectColumn2.tooltip "Kārtot pēc tēmas">
 <!ENTITY dateColumn2.tooltip "Kārtot pēc datuma">
 <!ENTITY priorityColumn2.tooltip "Kārtot pēc prioritātes">
 <!ENTITY tagsColumn2.tooltip "Kārtot pēc birkām">
 <!ENTITY accountColumn2.tooltip "Kārtot pēc konta">
 <!ENTITY statusColumn2.tooltip "Kārtot pēc statusa">
 <!ENTITY sizeColumn2.tooltip "Kārtot pēc izmēra">
+<!ENTITY junkStatusColumn2.tooltip "Kārtot pēc drazas statusa">
+<!ENTITY unreadColumn2.tooltip "Nelasītu vēstuļu skaits pavedienā">
+<!ENTITY totalColumn2.tooltip "Kopējais vēstuļu skaits pavedienā">
+<!ENTITY readColumn2.tooltip "Kārtot pēc lasītām">
+<!ENTITY receivedColumn2.tooltip "Kārtot pēc saņemšanas laika">
+<!ENTITY starredColumn2.tooltip "Kārtot pēc zvaigznītēm">
 <!ENTITY locationColumn2.tooltip "Kārtot pēc atrašanās vietas">
+<!ENTITY idColumn2.tooltip "Kārtot pēc pieprasījuma saņemšanas">
+<!ENTITY attachmentColumn2.tooltip "Kārtot pēc pielikumiem">
+<!ENTITY deleteColumn.tooltip "Dzēst vēstuli">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Jauna vēstule no veidnes">
+<!ENTITY contextOpenNewWindow.label "Atvērt vēstuli jaunā logā">
+<!ENTITY contextOpenNewWindow.accesskey "L">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
+<!ENTITY contextOpenNewTab.label "Atveriet vēstuli jaunā cilnē">
+<!ENTITY contextOpenNewTab.accesskey "C">
+<!ENTITY contextOpenConversation.label "Atvērt vēstuli sarunā">
+<!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Atvērt vēstuli saturošajā mapē">
 <!ENTITY contextEditMsgAsNew.label "Rediģēt kā jaunu vēstuli">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextArchive.label "Arhivēt">
