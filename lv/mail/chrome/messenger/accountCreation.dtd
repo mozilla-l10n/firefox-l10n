@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailWizard.title               "Iestatiet jūsu esošo e-pasta adresi">
-<!ENTITY emailWizard.caption             "Izmantot jūsu pašreizējo e-pasta adresi">
+<!ENTITY emailWizard.title               "Jūsu esošās epasta adreses iestatīšana">
+<!ENTITY emailWizard.caption             "Izmantojiet jūsu pašreizējo epasta adresi">
 <!ENTITY name.label                      "Jūsu vārds:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY fullname.placeholder            "Jūsu pilnais vārds">
