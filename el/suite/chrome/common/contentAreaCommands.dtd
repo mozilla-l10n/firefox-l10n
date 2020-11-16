@@ -11,6 +11,10 @@
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "δ">
 <!ENTITY openLinkInWindowCmd.label    "Άνοιγμα">
 <!ENTITY openLinkInWindowCmd.accesskey "ν">
+<!ENTITY openFrameCmdInTab.label      "Άνοιγμα καρέ σε νέα καρτέλα">
+<!ENTITY openFrameCmdInTab.accesskey  "κ">
+<!ENTITY keywordfield.label           "Προσθήκη λέξης-κλειδιού αναζήτησης…">
+<!ENTITY keywordfield.accesskey       "λ">
 <!ENTITY goBackCmd.label              "Πίσω">
 <!ENTITY goBackCmd.accesskey          "Π">
 <!ENTITY goForwardCmd.label           "Εμπρός">
@@ -22,6 +26,15 @@
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY stopCmd.label                "Διακοπή">
 <!ENTITY stopCmd.accesskey            "Δ">
+<!ENTITY reloadFrameCmd.label         "Ανανέωση καρέ">
+<!ENTITY reloadFrameCmd.accesskey     "Α">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Προβολή πηγαίου κώδικα επιλογής">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Προβολή πηγαίου κώδικα MathML">
+<!ENTITY viewPartialSourceCmd.accesskey "β">
+<!ENTITY viewPageSourceCmd.label      "Προβολή πηγαίου κώδικα σελίδας">
+<!ENTITY viewPageSourceCmd.accesskey  "Π">
+<!ENTITY viewFrameSourceCmd.label     "Προβολή πηγαίου κώδικα καρέ">
+<!ENTITY viewFrameSourceCmd.accesskey "Π">
 <!ENTITY viewPageInfoCmd.label        "Προβολή πληροφοριών σελίδας">
 <!ENTITY viewPageInfoCmd.accesskey    "Π">
 <!ENTITY viewFrameInfoCmd.label       "Προβολή πληροφοριών πλαισίου">
@@ -49,6 +62,9 @@
 <!ENTITY saveFrameCmd.accesskey       "κ">
 <!ENTITY printFrameCmd.label          "Εκτύπωση καρέ…">
 <!ENTITY printFrameCmd.accesskey      "Ε">
+<!ENTITY saveLinkAsCmd.label          "Αποθήκευση συνδέσμου προορισμού ως…">
+<!ENTITY saveLinkCmd.label            "Αποθήκευση συνδέσμου προορισμού">
+<!ENTITY saveLinkCmd.accesskey        "Α">
 <!ENTITY saveImageAsCmd.label         "Αποθήκευση εικόνας ως…">
 <!ENTITY saveImageCmd.label           "Αποθήκευση εικόνας">
 <!ENTITY saveImageCmd.accesskey       "κ">
@@ -84,7 +100,7 @@
 <!ENTITY mediaPlaybackRate050.accesskey "Α">
 <!ENTITY mediaPlaybackRate100.label     "Κανονική ταχύτητα">
 <!ENTITY mediaPlaybackRate100.accesskey "Κ">
-<!ENTITY mediaPlaybackRate125.label     "Υψηλή ταχύτητα (1¼ ×)">
+<!ENTITY mediaPlaybackRate125.label     "Υψηλή ταχύτητα (1¼×)">
 <!ENTITY mediaPlaybackRate125.accesskey "Υ">
 <!ENTITY mediaPlaybackRate150.label     "Πολύ υψηλή ταχύτητα (1½×)">
 <!ENTITY mediaPlaybackRate150.accesskey "Π">
