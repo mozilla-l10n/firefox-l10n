@@ -907,14 +907,37 @@
 <!ENTITY CopyNameAndEmailAddress.label "Kopēt vārdu un epasta adresi">
 <!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Kopēt ziņu grupas nosaukumu">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Kopēt intereškopas URL">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Izveidot filtru no…">
+<!ENTITY CreateFilterFrom.accesskey "F">
+<!ENTITY reportPhishingURL.label "Ziņot par krāpniecisku epastu">
+<!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Pievienot vārdnīcas…">
+<!ENTITY spellAddDictionaries.accesskey "P">
 
 <!-- Content Pane Context Menu -->
+<!ENTITY saveLinkAsCmd.label "Saglabāt saiti kā…">
+<!ENTITY saveLinkAsCmd.accesskey "k">
+<!ENTITY saveImageAsCmd.label "Saglabāt attēlu kā…">
+<!ENTITY saveImageAsCmd.accesskey "v">
+<!ENTITY copyLinkCmd.label "Kopēt saites vietu">
+<!ENTITY copyLinkCmd.accesskey "V">
+<!ENTITY copyImageAllCmd.label "Kopēt attēlu">
+<!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "Kopēt epasta adresi">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Apturēt">
 <!ENTITY stopCmd.accesskey "A">
+<!ENTITY reloadCmd.label "Pārlādēt">
+<!ENTITY reloadCmd.accesskey "P">
+<!ENTITY openInBrowser.label "Atvērt pārlūkā">
+<!ENTITY openInBrowser.accesskey "A">
+<!ENTITY openLinkInBrowser.label "Atvērt saiti pārlūkā">
+<!ENTITY openLinkInBrowser.accesskey "A">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Izdarīts">
@@ -928,9 +951,21 @@
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Iestatījumi">
 <!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "paātr">
 <!ENTITY servicesMenuMac.label          "Pakalpojumi">
+<!ENTITY hideThisAppCmdMac.label        "Slēpt &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "S">
+<!ENTITY hideThisAppCmdMac.modifiers    "paātr">
 <!ENTITY hideOtherAppsCmdMac.label      "Paslēpt citus">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "paātr,alt">
+<!ENTITY showAllAppsCmdMac.label        "Rādīt visu">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Lietotnes ikonas iespējas…">
+<!ENTITY writeNewMessageDock.label      "Rakstīt jaunu vēstuli">
+<!ENTITY openAddressBookDock.label      "Atvērt adrešu grāmatu">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Atgriezties vienu lapu atpakaļ">
+<!ENTITY browseForwardButton.tooltip "Doties vienu lapu uz priekšu">
