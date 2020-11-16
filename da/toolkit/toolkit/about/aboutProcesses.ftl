@@ -117,6 +117,7 @@ duration-unit-ms = ms
 duration-unit-s = s
 duration-unit-m = m
 duration-unit-h = t
+duration-unit-d = d
 
 ## Memory units
 
