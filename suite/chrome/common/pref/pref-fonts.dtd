@@ -37,6 +37,7 @@
 <!ENTITY  font.langGroup.tamil                    "Ταμίλ">
 <!ENTITY  font.langGroup.armenian                 "Αρμενικά">
 <!ENTITY  font.langGroup.bengali                  "Μπενγκάλι">
+<!ENTITY  font.langGroup.canadian                 "Ενοποιημένο καναδικό συλλαβάριο">
 <!ENTITY  font.langGroup.ethiopic                 "Αιθιοπικά">
 <!ENTITY  font.langGroup.georgian                 "Γεωργιανά">
 <!ENTITY  font.langGroup.gujarati                 "Γκουτζαράτι">
@@ -65,3 +66,4 @@
 <!-- leaving this stuff in for now -->
 
 <!ENTITY  header2                                 "Όταν μια ιστοσελίδα επιλέγει τις δικές της γραμματοσειρές">
+<!ENTITY  useDefaultFont.accesskey                "Χ">
