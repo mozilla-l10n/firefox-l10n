@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Inaktiver faneblade og afslut proces
 about-processes-shutdown-tab =
     .title = Luk faneblad
 
