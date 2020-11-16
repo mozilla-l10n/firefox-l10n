@@ -353,6 +353,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Bladwijzers importeren…
     .tooltiptext = Bladwijzers uit een andere browser naar { -brand-short-name } importeren.
+bookmarks-toolbar-empty-message = Plaats voor snelle toegang uw bladwijzers hier op de bladwijzerwerkbalk. <a data-l10n-name="manage-bookmarks">Bladwijzers beheren…</a>
 
 ## WebRTC Pop-up notifications
 
