@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = Hvis denne side ikke fungerer korrekt, kan 
 identity-https-only-info-no-upgrade = Kunne ikke opgradere forbindelsen fra HTTP.
 identity-permissions =
     .value = Tilladelser
+identity-permissions-storage-access-hint = Disse parter kan anvende webstedsdata og cookies på tværs af websteder, mens du besøger dette websted.
 identity-permissions-reload-hint = Du skal muligvis genindlæse siden, før at ændringerne slår igennem.
 identity-permissions-empty = Du har ikke tildelt dette websted nogen særlige tilladelser.
 identity-clear-site-data =
@@ -346,9 +347,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
-    .label = Importer bogmærker…
-    .tooltiptext = Kopier bogmærker fra andre browsere til { -brand-short-name }.
+browser-import-button2 =
+    .label = importer bogmærker…
+    .tooltiptext = importer bogmærker fra en anden browser til { -brand-short-name }.
+bookmarks-toolbar-empty-message = Få hurtig adgang til dine bogmærker ved at placere dem her på bogmærkelinjen. <a data-l10n-name="manage-bookmarks">Håndter bogmærker…</a>
 
 ## WebRTC Pop-up notifications
 

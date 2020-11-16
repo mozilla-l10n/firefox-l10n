@@ -392,6 +392,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = Denne udvidelse er gennemgået for sikkerhedsfejl
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Dette er en officiel udvidelse bygget af udviklerne bag { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Denne udvidelse er blevet tjekket for, om den overholder vores standarder for sikkerhed og ydelse
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -400,6 +406,9 @@ recent-updates-heading = Seneste opdateringer
 release-notes-loading = Indlæser…
 release-notes-error = Der opstod en fejl under indlæsning af udgivelsesnoterne.
 addon-permissions-empty = Denne udvidelse kræver ingen tilladelser
+addon-permissions-required = Påkrævede tilladelser for kerne-funktionalitet:
+addon-permissions-optional = Valgfrie tilladelser for yderligere funktionalitet:
+addon-permissions-learnmore = Læs mere om tilladelser
 recommended-extensions-heading = Anbefalede udvidelser
 recommended-themes-heading = Anbefalede temaer
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
