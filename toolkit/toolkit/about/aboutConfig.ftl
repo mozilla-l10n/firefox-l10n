@@ -15,14 +15,11 @@ config-about-warning-button =
     .label = Beru to na vědomí!
 config-about-warning-checkbox =
     .label = Zobrazit příště toto varování
-
 config-search-prefs =
     .value = Hledat:
     .accesskey = H
-
 config-focus-search =
     .key = r
-
 config-focus-search-2 =
     .key = f
 
@@ -42,7 +39,7 @@ config-value-column =
 config-pref-column-header =
     .tooltip = Klepnutím seřadíte
 config-column-chooser =
-    .tooltip = Klepnutím vyberte sloupce pro zobrazení
+    .tooltip = Klepnutím vyberte sloupce, které chcete zobrazit
 
 ## These strings are used for the context menu
 
@@ -50,60 +47,45 @@ config-copy-pref =
     .key = C
     .label = Kopírovat
     .accesskey = K
-
 config-copy-name =
     .label = Kopírovat název
     .accesskey = z
-
 config-copy-value =
     .label = Kopírovat hodnotu
     .accesskey = K
-
 config-modify =
     .label = Změnit
     .accesskey = m
-
 config-toggle =
     .label = Přepnout
     .accesskey = t
-
 config-reset =
     .label = Obnovit
     .accesskey = O
-
 config-new =
     .label = Nová předvolba
     .accesskey = N
-
 config-string =
     .label = Řetězec
     .accesskey = t
-
 config-integer =
     .label = Číslo
     .accesskey = s
-
 config-boolean =
     .label = Logická hodnota
     .accesskey = g
-
 config-default = výchozí
 config-modified = změněno
 config-locked = zamknuto
-
 config-property-string = řetězec
 config-property-int = číslo
 config-property-bool = logická hodnota
-
 config-new-prompt = Zadejte název pro předvolbu
-
 config-nan-title = Neplatná hodnota
 config-nan-text = Vložený text není číselná hodnota.
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nová předvolba typu { $type }
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Zadejte předvolbu typu { $type }
