@@ -23,7 +23,7 @@
 <!ENTITY idColumn.label "Pořadí přijetí">
 
 <!--Tooltips-->
-<!ENTITY columnChooser2.tooltip "Vyberte sloupce pro zobrazení">
+<!ENTITY columnChooser2.tooltip "Vyberte sloupce, které chcete zobrazit">
 <!ENTITY threadColumn2.tooltip "Zobrazíte vlákna zpráv">
 <!ENTITY fromColumn2.tooltip "Seřadíte podle odesílatele">
 <!ENTITY recipientColumn2.tooltip "Seřadíte podle příjemce">
