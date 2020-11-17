@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = Изтегляне на обновяване на { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Табло със защити
 appmenuitem-customize-mode =
     .label = Персонализиране…
@@ -24,4 +26,3 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Какво е новото
-

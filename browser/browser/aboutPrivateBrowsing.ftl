@@ -11,7 +11,8 @@ about-private-browsing =
     .title = Търсене в интернет
 about-private-browsing-not-private = В момента не сте в поверителен прозорец.
 about-private-browsing-info-description = { -brand-short-name } изчиства историята на търсенето и разглеждането, когато излезете от приложението или затворите всички раздели и прозорци в поверително разглеждане. Въпреки че това не ви прави анонимни за уеб сайтовете или доставчиците на интернет услуги, това улеснява запазването анонимността на вашите действия онлайн, от останалите ползващи същия компютър.
-
+about-private-browsing-need-more-privacy = Имате нужда от повече поверителност?
+about-private-browsing-turn-on-vpn = Опитайте { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
