@@ -355,6 +355,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Cytańske znamjenja importěrowaś…
     .tooltiptext = Cytańske znamjenja z drugego wobglědowaka do { -brand-short-name } importěrowaś.
+bookmarks-toolbar-empty-message = Wótpołožćo swóje cytańske znamjenja w symbolowej rědce za malsny pśistup. <a data-l10n-name="manage-bookmarks">Cytańske znamjenja zastojaś…</a>
 
 ## WebRTC Pop-up notifications
 

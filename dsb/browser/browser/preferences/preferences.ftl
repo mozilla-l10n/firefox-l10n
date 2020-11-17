@@ -940,6 +940,7 @@ addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 content-blocking-enhanced-tracking-protection = Pólěpšony slědowański šćit
 content-blocking-section-top-level-description = Pśeslědowaki wam online slěduju, aby informacije wó wašych pśeglědowańskich zwuconosćach a zajmach gromaźili. { -brand-short-name } wjele z toś tych pśeslědowakow a druge złosne skripty blokěrujo.
 content-blocking-learn-more = Dalšne informacije
+content-blocking-fpi-incompatibility-warning = Wužywaśo rozšyrjenje First Party Isolation (FIP), kótarež někotare cookiejowe nastajenja { -brand-short-name } pśepisujo.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
