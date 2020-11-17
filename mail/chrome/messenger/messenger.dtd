@@ -239,7 +239,7 @@
 <!ENTITY ignoredThreadsCmd.label "Göz ardı edilen diziler">
 <!ENTITY ignoredThreadsCmd.accesskey "l">
 
-<!ENTITY headersMenu.label "Başlıklar">
+<!ENTITY headersMenu.label "Üst bilgiler">
 <!ENTITY headersMenu.accesskey "B">
 <!ENTITY headersAllCmd.label "Tümü">
 <!ENTITY headersAllCmd.accesskey "ü">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Konum">
 <!ENTITY idColumn.label "Alınma sırası">
 <!ENTITY attachmentColumn.label "Ekler">
-
 <!ENTITY deleteColumn.label "Sil">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Konuma göre sırala">
 <!ENTITY idColumn2.tooltip "Alınış sırasına göre sırala">
 <!ENTITY attachmentColumn2.tooltip "Eklere göre sırala">
-
 <!ENTITY deleteColumn.tooltip "İletiyi sil">
 
 <!-- Thread Pane Context Menu -->

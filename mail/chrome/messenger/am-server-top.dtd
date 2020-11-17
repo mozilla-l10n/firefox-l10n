@@ -33,7 +33,7 @@
 <!ENTITY authMethod.accesskey "Y">
 <!ENTITY leaveOnServer.label "İletileri sunucuda bırak">
 <!ENTITY leaveOnServer.accesskey "b">
-<!ENTITY headersOnly.label "Sadece başlıkları getir">
+<!ENTITY headersOnly.label "Sadece üst bilgileri getir">
 <!ENTITY headersOnly.accesskey "S">
 <!ENTITY deleteByAgeFromServer.label "En fazla">
 <!ENTITY deleteByAgeFromServer.accesskey "E">
