@@ -23,7 +23,12 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = OpenPGP Anahtarı Oluştur
+openpgp-generate-key-info = <b>Anahtarın oluşturulması birkaç dakika sürebilir.</b> Anahtar oluşturma devam ederken uygulamadan çıkmayın. Anahtar oluşturma sırasında internette gezinmeniz ve veya diskiniz kullanmanız "rastgelelik havuzunu" dolduracak ve süreci hızlandıracaktır. Anahtar oluşturma tamamlandığında bilgilendirileceksiniz.
 openpgp-keygen-expiry-title = Anahtar süre sonu
+openpgp-keygen-expiry-description = Oluşturacağınız anahtarın süresinin ne zaman dolacağını belirleyin. Gerekirse daha sonra bu tarihi değiştirerek süreyi uzatabilirsiniz.
+radio-keygen-expiry =
+    .label = Anahtarın geçerlilik süresi:
+    .accesskey = A
 radio-keygen-no-expiry =
     .label = Anahtarın süresi dolmasın
     .accesskey = d
@@ -43,11 +48,14 @@ openpgp-keygen-keysize =
     .accesskey = b
 openpgp-keygen-type-rsa =
     .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (Elliptic Curve)
 openpgp-keygen-button = Anahtar oluştur
 openpgp-keygen-progress-title = Yeni OpenPGP anahtarınız oluşturuluyor…
 openpgp-keygen-import-progress-title = OpenPGP anahtarlarınız içe aktarılıyor…
 openpgp-import-success = OpenPGP anahtarları başarıyla içe aktarıldı!
 openpgp-import-success-title = İçe aktarma işlemini tamamla
+openpgp-import-success-description = İçe aktardığınız OpenPGP anahtarınızı e-posta şifrelemede kullanmak için bu iletişim kutusunu kapatın ve hesap ayarlarınıza gidip anahtarı seçin.
 openpgp-keygen-confirm =
     .label = Onayla
 openpgp-keygen-dismiss =
@@ -63,6 +71,8 @@ openpgp-keygen-short-expiry = Anahtarınız en az bir gün geçerli olmalıdır.
 openpgp-keygen-ongoing = Anahtar üretimi devam ediyor!
 openpgp-keygen-error-core = OpenPGP Temel Hizmeti başlatılamadı
 openpgp-keygen-error-failed = OpenPGP anahtar üretimi beklenmedik bir şekilde başarısız oldu
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP anahtarı başarıyla oluşturuldu ama { $key } anahtarının iptali sağlanamadı
 openpgp-keygen-abort-title = Anahtar üretimi iptal edilsin mi?
 openpgp-keygen-abort = OpenPGP anahtar üretimi şu anda devam ediyor. İptal etmek istediğinizden emin misiniz?
 #   $identity (String) - the name and email address of the currently selected identity
