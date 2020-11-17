@@ -355,9 +355,13 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Никога
     .accesskey = Н
+popup-silence-notifications-checkbox = Спиране на известията от { -brand-short-name }, докато споделяте
+popup-silence-notifications-checkbox-warning = { -brand-short-name } няма да показва известия, докато споделяте.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Споделяте { -brand-short-name }. Други хора могат да видят, когато превключите към друг раздел.
+sharing-warning-screen = Споделяте целия си екран. Други хора могат да видят, когато превключите към друг раздел.
 
 ## DevTools F12 popup
 
@@ -373,7 +377,7 @@ urlbar-placeholder =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Търсене с { $name } или въведете адрес
+    .placeholder = Търсете с { $name } или въведете адрес
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Четецът е под дистанционно управление
 urlbar-permissions-granted =
@@ -406,13 +410,28 @@ urlbar-result-action-search-in-private = Търсене в поверителе�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Търсене с { $engine }
+urlbar-result-action-sponsored = Спонсорирано
 urlbar-result-action-switch-tab = Превключване към раздел
 urlbar-result-action-visit = Посещаване
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Натиснете Tab, за да търсите с { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Натиснете Tab, за да търсите в { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-history = Търсене в историята
+urlbar-result-action-search-tabs = Търсене на раздели
 
 ## Full Screen and Pointer Lock UI
 
