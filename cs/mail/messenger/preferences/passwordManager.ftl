@@ -45,7 +45,6 @@ import =
 close-button =
     .label = Zavřít
     .accesskey = Z
-
 show-passwords =
     .label = Zobrazit hesla
     .accesskey = o
@@ -66,3 +65,12 @@ no-master-password-prompt = Opravdu chcete zobrazit svá hesla?
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to show or copy the passwords.
+password-os-auth-dialog-message = Pro zobrazení uložených hesel nejprve ověřte svou totožnost.
+# This message can be seen by trying to show or copy the passwords.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+password-os-auth-dialog-message-macosx = zobrazit uložená hesla
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }
