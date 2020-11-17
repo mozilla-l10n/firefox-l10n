@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Úložiště zpráv">
 <!ENTITY securitySettings.label "Nastavení zabezpečení">
 <!ENTITY serverSettings.label "Nastavení serveru">
@@ -74,6 +72,7 @@
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
 <!ENTITY serverDefaultCharset2.label "Výchozí znaková sada textu:">
+<!ENTITY localPath1.label "Místní adresář:">
 <!ENTITY localFolderPicker.label "Vyberte místní adresář">
 <!ENTITY browseFolder.label "Procházet…">
 <!ENTITY browseFolder.accesskey "P">

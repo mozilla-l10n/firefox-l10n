@@ -32,6 +32,7 @@
 <!ENTITY imapLong.label                  "IMAP (vzdálené složky)">
 <!ENTITY pop3Long.label                  "POP3 (místní úložiště pošty)">
 
+<!ENTITY manualConfigTable.summary       "Nastavení serveru">
 <!ENTITY incoming.label                  "Příchozí:">
 <!ENTITY incomingColumn.label            "Příchozí">
 <!ENTITY outgoing.label                  "Odchozí:">
@@ -73,8 +74,6 @@
 <!ENTITY manual-config.label             "Nastavit ručně…">
 <!ENTITY open-provisioner.label          "Získat novou e-mailovou adresu…">
 <!ENTITY open-provisioner.accesskey      "n">
-
-
 <!ENTITY get-help.label                  "Získat pomoc">
 
 

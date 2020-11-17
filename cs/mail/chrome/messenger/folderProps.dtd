@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Název:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Barva ikony:">
+<!ENTITY folderProps.color.accesskey             "B">
+<!ENTITY folderProps.reset.tooltip               "Obnovit výchozí barvu">
 <!ENTITY folderProps.location.label              "Adresa:">
 <!ENTITY folderProps.location.accesskey          "A">
 
