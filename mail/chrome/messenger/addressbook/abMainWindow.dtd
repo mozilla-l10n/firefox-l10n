@@ -52,7 +52,6 @@
 <!ENTITY deleteListsCmd.label                           "Smazat seznamy">
 <!ENTITY deleteItemsCmd.label                           "Smazat položky">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Vlastnosti">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -101,9 +100,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Pošta a diskusní skupiny">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Kontakty">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "b">
 <!ENTITY searchAddressesCmd.label                       "Hledat v kontaktech…">
 <!ENTITY searchAddressesCmd.accesskey                   "t">
 <!ENTITY importCmd.label                                "Importovat…">
@@ -127,6 +123,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Vlastnosti">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Synchronizovat">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Upravit kontakt">
 <!ENTITY editContactContext.accesskey                   "U">
 <!ENTITY editMailingListContext.label                   "Upravit seznam">
@@ -141,6 +139,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "m">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Vyberte sloupce, které chcete zobrazit">
 <!ENTITY newContactButton.tooltip                       "Vytvoří nový kontakt">
 <!ENTITY newlistButton.tooltip                          "Vytvoří novou skupinu">
 <!ENTITY editPropertiesButton.tooltip                   "Upraví označenou položku">

@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "n">
 <!ENTITY  newContactCmd.label "Kontakt…">
 <!ENTITY  newContactCmd.accesskey "K">
+<!ENTITY openMenuCmd.label "Otevřít">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Otevřít uloženou zprávu…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Uložit jako">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Hledat ve zprávách…">
 <!ENTITY searchMailCmd.accesskey "z">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Globální hledání">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Hledat v kontaktech…">
 <!ENTITY searchAddressesCmd.accesskey "k">
 
@@ -715,9 +719,10 @@
 <!ENTITY locationColumn.label "Umístění">
 <!ENTITY idColumn.label "Pořadí přijetí">
 <!ENTITY attachmentColumn.label "Přílohy">
+<!ENTITY deleteColumn.label "Smazat">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Vyberte sloupce pro zobrazení">
+<!ENTITY columnChooser2.tooltip "Vyberte sloupce, které chcete zobrazit">
 <!ENTITY selectColumn.tooltip "Přepne výběr všech zpráv">
 <!ENTITY threadColumn2.tooltip "Zobrazíte vlákna zpráv">
 <!ENTITY fromColumn2.tooltip "Seřadíte podle odesílatele">
@@ -739,6 +744,7 @@
 <!ENTITY locationColumn2.tooltip "Seřadíte podle umístění">
 <!ENTITY idColumn2.tooltip "Seřadíte podle pořadí přijetí">
 <!ENTITY attachmentColumn2.tooltip "Seřadíte podle příloh">
+<!ENTITY deleteColumn.tooltip "Smazání zprávy">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nová zpráva ze šablony">
