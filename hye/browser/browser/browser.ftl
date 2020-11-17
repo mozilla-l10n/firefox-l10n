@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = Եթե էջը թուում է կոտրու�
 identity-https-only-info-no-upgrade = Հնարաւոր չէ նորացնել կապը HTTP -ում:
 identity-permissions =
     .value = Արտոնութիւններ
+identity-permissions-storage-access-header = Միջկայքային նշոցիկներ
 identity-permissions-reload-hint = Ձեզ անհրաժեշտ կլինի թարմացնել էջը, որպէսզի կիրառուեն փոփոխութիւններ։
 identity-permissions-empty = Դուք չէք արտոնել այս կայքին որեւէ յատուկ թոյլտուութիւն:
 identity-clear-site-data =
@@ -346,9 +347,6 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
-    .label = Ներածել էջանիշեր…
-    .tooltiptext = Պատճէնել էջանիշերը մեկ այլ դիտարկչից { -brand-short-name } -ում:
 
 ## WebRTC Pop-up notifications
 
