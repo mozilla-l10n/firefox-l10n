@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = სანიშნების გადმოტანა…
-    .tooltiptext = სხვა ბრაუზერის ჩანართებს გადმოიტანს { -brand-short-name }.
+    .tooltiptext = სხვა ბრაუზერიდან გადმოტანილ სანიშნებს გამოიყენებს { -brand-short-name }.
+bookmarks-toolbar-empty-message = სწრაფი წვდომისთვის, განათავსეთ თქვენი სანიშნები აქ, სანიშნების ზოლზე. <a data-l10n-name="manage-bookmarks"> სანიშნეების მართვა…</a>
 
 ## WebRTC Pop-up notifications
 
