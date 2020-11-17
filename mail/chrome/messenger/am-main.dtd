@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Nastavení účtu">
@@ -15,6 +13,7 @@
 <!ENTITY name.accesskey "j">
 <!ENTITY email.label "E-mailová adresa:">
 <!ENTITY email.accesskey "E">
+<!ENTITY catchAll.label "Odpovědět z této identity, když se záhlaví dodání shoduje:">
 <!ENTITY replyTo.label "Adresa pro odpověď:">
 <!ENTITY replyTo.accesskey "d">
 <!ENTITY replyTo.placeholder "Příjemci budou odpovídat na tuto adresu">
