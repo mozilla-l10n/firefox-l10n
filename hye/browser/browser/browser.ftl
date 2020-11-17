@@ -348,6 +348,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Ներմուծել էջանիշներ…
+    .tooltiptext = Ներմուծել էջանիշներ այլ դիտարկչից { -brand-short-name }֊ի մէջ
 
 ## WebRTC Pop-up notifications
 
