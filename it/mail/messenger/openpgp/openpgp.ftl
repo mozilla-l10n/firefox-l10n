@@ -106,6 +106,27 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Copia chiavi pubbliche negli appunti
     .accesskey = v
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Copia ID chiave negli appunti
+           *[other] Copia ID chiavi negli appunti
+        }
+    .accesskey = o
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Copia impronta digitale negli appunti
+           *[other] Copia impronte digitali negli appunti
+        }
+    .accesskey = m
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Copia chiave pubblica negli appunti
+           *[other] Copia chiavi pubbliche negli appunti
+        }
+    .accesskey = v
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Esporta chiavi su file
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -113,6 +134,27 @@ openpgp-key-man-ctx-copy-to-clipbrd-label =
 openpgp-key-man-ctx-copy =
     .label = Copia
     .accesskey = C
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Impronta digitale
+           *[other] Impronte digitali
+        }
+    .accesskey = d
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] ID chiave
+           *[other] ID chiavi
+        }
+    .accesskey = c
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Chiave pubblica
+           *[other] Chiavi pubbliche
+        }
+    .accesskey = b
 openpgp-key-man-close =
     .label = Chiudi
 openpgp-key-man-reload =
