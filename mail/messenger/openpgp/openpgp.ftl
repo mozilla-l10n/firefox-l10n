@@ -106,10 +106,55 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = საჯარო გასაღებ(ებ)ის ასლი
     .accesskey = ლ
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] გასაღები ID-ის ასლის აღება
+           *[other] გასაღები ID-ების ასლის აღება
+        }
+    .accesskey = ღ
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] ანაბეჭდის ასლის აღება
+           *[other] ანაბეჭდების ასლის აღება
+        }
+    .accesskey = ჭ
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] საჯარო გასაღების ასლის აღება
+           *[other] საჯარო გასაღებების ასლის აღება
+        }
+    .accesskey = ჯ
 openpgp-key-man-ctx-expor-to-file-label =
     .label = გასაღებების გატანა ფაილში
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = საჯარო გასაღებების ასლი
+openpgp-key-man-ctx-copy =
+    .label = ასლი
+    .accesskey = ლ
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] ანაბეჭდი
+           *[other] ანაბეჭდები
+        }
+    .accesskey = ჭ
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] გასაღები ID
+           *[other] გასაღები ID-ები
+        }
+    .accesskey = ღ
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] საჯარო გასაღები
+           *[other] საჯარო გასაღებები
+        }
+    .accesskey = ჯ
 openpgp-key-man-close =
     .label = დახურვა
 openpgp-key-man-reload =
@@ -496,7 +541,9 @@ key-man-button-generate-key = გასაღების &შედგენა
 key-abort = შეწყდეს გასაღების შედგენა?
 key-man-button-generate-key-abort = &შეწყდეს გასაღების შედგენა?
 key-man-button-generate-key-continue = &გაგრძელდეს გასაღების შედგენა
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = შეცდომა – გაშიფვრა ვერ მოხერხდა
 fix-broken-exchange-msg-failed = ვერ მოხერხდა წერილის აღდგენა.
 attachment-no-match-from-signature = არ შეესაბამება ხელმოწერის ფაილი „{ $attachment }“ დანართს
