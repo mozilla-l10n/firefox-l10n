@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY pref.mailnews.title              "Αλληλογραφία &amp; ομάδες συζήτησης">
 <!ENTITY generalSettings.caption          "Γενικές ρυθμίσεις">
 
+<!ENTITY defaultMailSettings.description  "Ορισμός του &brandShortName; ως προεπιλογής για:">
 <!ENTITY setDefaultMail.label             "Αλληλογραφία">
 <!ENTITY setDefaultMail.accesskey         "Α">
 <!ENTITY setDefaultNews.label             "Ειδήσεις">
@@ -21,3 +23,5 @@
 <!ENTITY location.accesskey               "Τ">
 <!ENTITY useDefault.label                 "Επαναφορά προεπιλογής">
 <!ENTITY useDefault.accesskey             "π">
+<!ENTITY rememberLastMsg.label            "Αποθήκευση του τελευταίου επιλεγμένου μηνύματος">
+<!ENTITY rememberLastMsg.accesskey        "Α">

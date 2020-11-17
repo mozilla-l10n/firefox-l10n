@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabHeader.label "Περιήγηση με καρτέλες">
 
 <!ENTITY tabDisplay.label "Προβολή καρτελών">
 <!ENTITY warnOnClose.label "Προειδοποίηση κατά το κλείσιμο παραθύρου με πολλαπλές καρτέλες">
