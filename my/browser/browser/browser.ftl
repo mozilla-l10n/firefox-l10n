@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -188,7 +188,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ယခုအကြိမ် ရှာဖွေလိုက်သည်မှာ
 # This string won't wrap, so if the translated string is longer,
@@ -234,6 +234,7 @@ bookmark-panel =
 ## Identity Panel
 
 identity-connection-not-secure = ချိတ်ဆက်မှုသည် မလုံခြုံပါ
+identity-connection-secure = ချိတ်ဆက်မှု လုံခြုံသည်
 identity-connection-internal = ဒီ စာမျက်နှာ { -brand-short-name } သည် လုံခြုံစိတ်ချရသည်။
 identity-connection-file = ဒီစာမျက်နှာကို သင့်ကွန်ပျူတာတွင် သိမ်းထားသည်။
 identity-extension-page = ယခုစာမျက်နှာကို တိုးချဲ့ဆော့ဖ်ဝဲထံမှ ဖွင့်ထားသည်။
@@ -242,6 +243,8 @@ identity-passive-loaded = ဒီစာမျက်နှာ၏ အစိတ်�
 identity-active-loaded = ဒီစာမျက်နှာတွင် သင်သည် ကာကွယ်မှုကို ပိတ်ထားသည်။
 identity-weak-encryption = ဒီစာမျက်နှာသည် အားနည်းသည့် ဝှက်စာစနစ်ကို သုံးထားသည်။
 identity-insecure-login-forms = ဒီစာမျက်နှာကို ဝင်ရောက်ရာတွင် အသုံးပြုသည့် အချက်အလက်များသည် တိုက်ခိုက်ခိုးယူခံရနိုင်သည်။
+identity-https-only-dropdown-on =
+    .label = ဖွင့်
 identity-permissions =
     .value = ခွင့်ပြုချက်များ
 identity-permissions-reload-hint = ပြောင်းလဲထားသည့် အပြင်အဆင်များ သက်ရောက်မှုရှိစေရန်အတွက် ယခုစာမျက်နှာကို ပြန်လည်ခေါ်ယူရန် လိုအပ်ကောင်း လိုအပ်နိုင်ပါသည်။
@@ -283,6 +286,9 @@ browser-window-restore-down-button =
     .tooltiptext = ပြန်ယူပါ
 browser-window-close-button =
     .tooltiptext = ပိတ်ပါ
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
