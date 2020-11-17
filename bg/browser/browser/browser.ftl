@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -112,6 +112,9 @@ urlbar-search-tips-redirect-2 = Започнете търсене от адре�
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Отметки
+urlbar-search-mode-tabs = Раздели
+urlbar-search-mode-history = История
 
 ##
 
@@ -217,7 +220,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Този път търсете с:
 # This string won't wrap, so if the translated string is longer,
@@ -235,6 +238,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Задаване като стандартна търсачка в поверителни прозорци
     .accesskey = п
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -243,6 +252,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Отметки ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Раздели ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = История ({ $restrict })
 
 ## Bookmark Panel
 
@@ -270,6 +285,15 @@ identity-passive-loaded = Части от страницата, например
 identity-active-loaded = Изключихте защитата за тази страница.
 identity-weak-encryption = Тази странница използва слабо шифриране.
 identity-insecure-login-forms = Въведените на страницата данни за вход може да бъдат компрометирани.
+identity-https-only-connection-upgraded = (превключено на HTTPS)
+identity-https-only-label = Режим „само HTTPS“
+identity-https-only-dropdown-on =
+    .label = Включено
+identity-https-only-dropdown-off =
+    .label = Изключено
+identity-https-only-dropdown-off-temporarily =
+    .label = Временно изключено
+identity-https-only-info-no-upgrade = Връзката не може да бъде превключена от HTTP.
 identity-permissions =
     .value = Права
 identity-permissions-reload-hint = За да бъдат приложени промените може да се наложи да презаредите страницата.
@@ -313,6 +337,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = Затваряне
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -339,6 +366,8 @@ popup-screen-sharing-never =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Търсете или въведете адрес
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Търсете или въведете адрес
 # Variables
