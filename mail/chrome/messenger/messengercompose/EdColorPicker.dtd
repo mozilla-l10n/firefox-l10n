@@ -5,6 +5,9 @@
 <!ENTITY windowTitle.label "Cor">
 <!ENTITY lastPickedColor.label "Última cor seleccionada">
 <!ENTITY lastPickedColor.accessKey "l">
+<!ENTITY chooseColor1.label "Escolla unha cor:">
+<!ENTITY chooseColor2.label "Insira un código HTML de cor">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(ex.: &quot;#0000ff&quot; ou &quot;azul&quot;):">
 <!ENTITY default.label "Predefinido">
 <!ENTITY default.accessKey "r">
