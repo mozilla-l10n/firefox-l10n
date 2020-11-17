@@ -33,6 +33,7 @@ openpgp-generate-key =
     .tooltiptext = Şifreleme ve/veya imzalama için yeni bir OpenPGP uyumlu anahtar oluşturur
 openpgp-advanced-prefs-button-label =
     .label = Gelişmiş…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">NOT: Anahtarın oluşturulması birkaç dakika sürebilir.</a> Anahtar oluşturma devam ederken uygulamadan çıkmayın. Anahtar oluşturma sırasında internette gezinmeniz ve veya diskiniz kullanmanız "rastgelelik havuzunu" dolduracak ve süreci hızlandıracaktır. Anahtar oluşturma tamamlandığında bilgilendirileceksiniz.
 openpgp-key-expiry-label =
     .label = Süre sonu
 openpgp-key-id-label =
@@ -76,16 +77,57 @@ openpgp-key-man-import-from-clipbrd =
 openpgp-key-man-import-from-url =
     .label = Anahtarları URL’den içe aktar
     .accesskey = U
+openpgp-key-man-export-to-file =
+    .label = Ortak anahtar(lar)ı dosyaya aktar
+    .accesskey = O
 openpgp-key-man-send-keys =
     .label = Ortak anahtarları e-postayla gönder
     .accesskey = e
+openpgp-key-man-backup-secret-keys =
+    .label = Gizli anahtar(lar)ı dosyaya yedekle
+    .accesskey = G
+openpgp-key-man-discover-cmd =
+    .label = Çevrimiçi anahtarları keşfet
+    .accesskey = k
 openpgp-key-man-discover-progress = Aranıyor…
 openpgp-key-copy-key =
     .label = Ortak anahtarı kopyala
     .accesskey = k
+openpgp-key-export-key =
+    .label = Ortak anahtarı dosyaya aktar
+    .accesskey = O
+openpgp-key-backup-key =
+    .label = Gizli anahtarı dosyaya yedekle
+    .accesskey = G
 openpgp-key-send-key =
     .label = Ortak anahtarı e-postayla gönder
     .accesskey = ö
+openpgp-key-man-copy-to-clipbrd =
+    .label = Ortak anahtar(lar)ı panoya kopyala
+    .accesskey = O
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Anahtar kimliğini panoya kopyala
+           *[other] Anahtar kimliklerini panoya kopyala
+        }
+    .accesskey = k
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Parmak izini panoya kopyala
+           *[other] Parmak izlerini panoya kopyala
+        }
+    .accesskey = P
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Ortak anahtarı panoya kopyala
+           *[other] Ortak anahtarları panoya kopyala
+        }
+    .accesskey = O
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Anahtarları dosyaya aktar
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Ortak anahtarları panoya kopyala
 openpgp-key-man-close =
@@ -302,7 +344,9 @@ expiry-too-short = Anahtarınız en az bir gün geçerli olmalıdır.
 expiry-too-long = Süresi 100 yıldan fazla olan bir anahtar oluşturamazsınız.
 key-man-button-generate-key = Anahtar &oluştur
 key-abort = Anahtar üretimi iptal edilsin mi?
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Hata - şifre çözme başarısız oldu
 signature-verified-ok = { $attachment } ekinin imzası başarıyla doğrulandı
 signature-verify-failed = { $attachment } ekinin imzası doğrulanamadı
