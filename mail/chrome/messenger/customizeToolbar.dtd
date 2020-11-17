@@ -12,5 +12,7 @@
 <!ENTITY iconsBesideText.label    "Ikony vedle textu">
 <!ENTITY useSmallIcons.label      "Použít malé ikony">
 <!ENTITY restoreDefaultSet.label  "Obnovit výchozí sadu">
+<!ENTITY showTitlebar2.label      "Záhlaví okna">
+<!ENTITY extraDragSpace2.label    "Prostor pro chycení okna">
 <!ENTITY saveChanges.label        "Hotovo">
 <!ENTITY undoChanges.label        "Zrušit změny">
