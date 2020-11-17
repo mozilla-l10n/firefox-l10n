@@ -933,6 +933,7 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 content-blocking-enhanced-tracking-protection = Կատարելագործում է Հետեւման պաշտպանութիւնը
 content-blocking-section-top-level-description = Հետեւողները հետեւում են Ձեզ առցանց Ձեր զննարկման հատկութիւնների եւ հետաքրքրութիւնների մասին տեղեկութիւն հաւաքելու համար։ { -brand-short-name }-ը արգելափակում է այս հետեւումներից եւ այլ վնասարար գրուածքներից շատերը։
 content-blocking-learn-more = Իմանալ աւելին
+content-blocking-fpi-incompatibility-warning = Դուք աւգտագործում էք First Party Isolation (FPI), որը վրագրում է { -brand-short-name }֊ի որոշ նշոցիկների կարգաւորումները։
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
