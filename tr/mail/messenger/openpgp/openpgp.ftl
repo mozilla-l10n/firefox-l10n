@@ -244,6 +244,9 @@ openpgp-acceptance-unverified-label =
     .label = Evet, ama bunun doğru anahtar olduğunu doğrulamadım.
 openpgp-acceptance-verified-label =
     .label = Evet, bu anahtarın doğru parmak izine sahip olduğunu doğruladım.
+key-accept-personal =
+    Bu anahtarın hem ortak hem gizli parçasına sahipsiniz. Anahtarı Kişisel anahtar olarak kullanabilirsiniz.
+    Ama bu anahtarı size başka birisi verdiyse kişisel anahtar olarak kullanmayın.
 key-personal-warning = Bu anahtarı kendiniz mi oluşturdunuz ve ekranda görünen anahtar sahibi siz misiniz?
 openpgp-personal-no-label =
     .label = Hayır, kişisel anahtarım olarak kullanma.
@@ -293,6 +296,7 @@ key-type-pair = anahtar çifti (gizli anahtar ve ortak anahtar)
 key-expiry-never = hiçbir zaman
 key-usage-encrypt = Şifrele
 key-usage-sign = İmzala
+key-usage-certify = Onayla
 key-expired-date = Anahtarın süresi { $keyExpiry } tarihinde doldu
 key-expired-simple = Anahtarın süresi doldu
 key-revoked-simple = Anahtar iptal edildi
@@ -421,6 +425,7 @@ do-import-multiple =
 do-import-one = { $name } ({ $id }) içe aktarılsın mı?
 cant-import = Ortak anahtar içe aktarılırken hata oluştu
 unverified-reply = Girintili ileti kısmı (yanıt) muhtemelen değiştirilmiş
+key-in-message-body = İleti gövdesinde bir anahtar bulundu. İçe aktarmak için "Anahtarı içe aktar"a tıklayın
 sig-mismatch = Hata - İmza uyuşmazlığı
 invalid-email = Hata: geçersiz e-posta adres(ler)i
 dlg-button-view = &Göster
