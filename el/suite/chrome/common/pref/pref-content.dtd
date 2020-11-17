@@ -5,6 +5,7 @@
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
 
 <!ENTITY pref.content.title                     "Περιεχόμενο">
+<!ENTITY pref.content.description               "Αυτές οι ρυθμίσεις επηρεάζουν την εμφάνιση του περιεχομένου ιστοσελίδων και μηνυμάτων στο &brandShortName;.">
 
 <!ENTITY siteIcons.label                        "Εικονίδια ιστοσελίδων">
 <!ENTITY useSiteIcons.label                     "Εμφάνιση εικονιδίων ιστοσελίδων">
@@ -21,7 +22,8 @@
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
      the ASCII '%' character at the end of that string -->
-<!ENTITY minZoom.accesskey                      "α">
+<!ENTITY minZoom.label                          "Εύρος από">
+<!ENTITY minZoom.accesskey                      "π">
 <!ENTITY maxZoom.label                          "έως">
 <!ENTITY maxZoom.accesskey                      "ω">
 <!ENTITY percent.label                          "&#37;">
