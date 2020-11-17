@@ -352,9 +352,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Cytańske znamjenja importěrowaś…
-    .tooltiptext = Cytańske znamjenja z drugego wobglědowaka do { -brand-short-name } kopěrowaś.
+    .tooltiptext = Cytańske znamjenja z drugego wobglědowaka do { -brand-short-name } importěrowaś.
 
 ## WebRTC Pop-up notifications
 
