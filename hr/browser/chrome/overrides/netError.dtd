@@ -135,7 +135,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Upozorenje: potencijalni sigurnosni rizik">
 <!ENTITY certerror.sts.pagetitle  "Neuspjelo povezivanje: potencijalni sigurnosni problem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> provodi sigurnosnu politiku koja se zove HTTP Strict Transport Security (HSTS), što znači da se &brandShortName; može s njom samo sigurno povezati. Ne možete dodati sigurnosnu iznimku kako biste posjetili ovu web stranicu.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> provodi sigurnosnu politiku koja se zove HTTP Strict Transport Security (HSTS), što znači da se &brandShortName; s njom može povezati samo na siguran način. Za posjećivanje stranice ne možeš dodati iznimku.">
 <!ENTITY certerror.copyToClipboard.label "Kopiraj tekst u međuspremnik">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
