@@ -351,6 +351,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Ներմուծել էջանիշներ…
     .tooltiptext = Ներմուծել էջանիշներ այլ դիտարկչից { -brand-short-name }֊ի մէջ
+bookmarks-toolbar-empty-message = Արագ մուտքի համար տեղադրէք ձեր էջանիշներն էջանիշների գործեգաւտում։ <a data-l10n-name="manage-bookmarks"> Կառավարել էջանիշները …</a>
 
 ## WebRTC Pop-up notifications
 
