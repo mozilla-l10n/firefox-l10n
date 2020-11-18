@@ -173,7 +173,7 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή εντοπίστηκε σφάλμα στην μετάδοση των δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες του ιστοτόπου για να τους ενημερώσετε για το πρόβλημα</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ή μπορείτε να προσθέσετε μια εξαίρεση…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Να φύγω από εδώ!">
+<!ENTITY securityOverride.getMeOutOfHereButton "Θέλω να φύγω από εδώ!">
 <!ENTITY securityOverride.exceptionButtonLabel "Προσθήκη εξαίρεσης…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
