@@ -7,7 +7,7 @@
 <!ENTITY Select.label "Λίστα επιλογής">
 <!ENTITY SelectName.label "Όνομα λίστας:">
 <!ENTITY SelectName.accesskey "λ">
-<!ENTITY SelectSize.label "'Υψος:">
+<!ENTITY SelectSize.label "Ύψος:">
 <!ENTITY SelectSize.accesskey "ψ">
 <!ENTITY SelectMultiple.label "Πολλαπλή επιλογή">
 <!ENTITY SelectMultiple.accesskey "λ">

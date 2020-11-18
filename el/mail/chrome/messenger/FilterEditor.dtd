@@ -17,7 +17,7 @@
 <!ENTITY highestPriorityCmd.label "Πολύ υψηλή">
 
 <!ENTITY contextDesc.label "Εφαρμογή φίλτρου σε:">
-<!ENTITY contextIncomingMail.label "Λήψη νέας αλληλογραφίας">
+<!ENTITY contextIncomingMail.label "Κατά τη λήψη νέων email:">
 <!ENTITY contextIncomingMail.accesskey "Λ">
 <!ENTITY contextManual.label "Χειροκίνητη εκτέλεση">
 <!ENTITY contextManual.accesskey "Χ">

@@ -584,7 +584,7 @@
 <!ENTITY previousButton.tooltip "Μετάβαση στο προηγούμενο μη αναγνωσμένο">
 <!ENTITY previousMsgButton.tooltip "Μετάβαση στο προηγούμενο μήνυμα">
 <!ENTITY goForwardButton.tooltip "Μετάβαση μπροστά ένα μήνυμα">
-<!ENTITY goBackButton.tooltip "Μετάβαση πίσω ένα μήνυμα">
+<!ENTITY goBackButton.tooltip "Μετάβαση πίσω κατά ένα μήνυμα">
 <!ENTITY deleteButton.tooltip "Διαγραφή επιλεγμένου μηνύματος ή φακέλου">
 <!ENTITY undeleteButton.tooltip "Ακύρωση διαγραφής επιλεγμένου μηνύματος">
 <!ENTITY markButton.tooltip "Επισήμανση μηνυμάτων">
