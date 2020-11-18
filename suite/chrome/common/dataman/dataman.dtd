@@ -129,7 +129,7 @@
 <!ENTITY forget.passwords.accesskey "ω">
 <!ENTITY forget.storage.label "Αποθηκευτικός χώρος">
 <!ENTITY forget.storage.accesskey "Α">
-<!ENTITY forget.formdata.label "Δεδομένα φόρμας">
+<!ENTITY forget.formdata.label "Δεδομένα φορμών">
 <!ENTITY forget.formdata.accesskey "Δ">
 
 <!ENTITY forget.button.label "Διαγραφή δεδομένων">
