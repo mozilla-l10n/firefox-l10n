@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -222,7 +222,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Овај пут потражи користећи:
 # This string won't wrap, so if the translated string is longer,
@@ -287,6 +287,14 @@ identity-passive-loaded = Делови ове странице нису безб
 identity-active-loaded = Заштита на овој страници је искључена.
 identity-weak-encryption = Страница користи слабо шифровање.
 identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
+identity-https-only-connection-upgraded = (надограђено на HTTPS)
+identity-https-only-label = HTTPS-Only режим
+identity-https-only-dropdown-on =
+    .label = Укљ.
+identity-https-only-dropdown-off =
+    .label = Искљ.
+identity-https-only-dropdown-off-temporarily =
+    .label = Привремено искључено
 identity-permissions =
     .value = Дозволе
 identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
@@ -331,6 +339,9 @@ browser-window-restore-down-button =
     .tooltiptext = Врати доле
 browser-window-close-button =
     .tooltiptext = Затвори
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
