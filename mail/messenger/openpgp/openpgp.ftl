@@ -106,10 +106,55 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Iepenbiere kaai(en) nei klamboerd kopiearje
     .accesskey = k
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Kaai-ID nei klamboerd kopiearje
+           *[other] Kaai-ID's nei klamboerd kopiearje
+        }
+    .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Fingerôfdruk nei klamboerd kopiearje
+           *[other] Fingerôfdrukken nei klamboerd kopiearje
+        }
+    .accesskey = F
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Publike kaai nei klamboerd kopiearje
+           *[other] Publike kaaien nei klamboerd kopiearje
+        }
+    .accesskey = P
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kaaien nei bestân eksportearje
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Iepenbiere kaaien nei klamboerd kopiearje
+openpgp-key-man-ctx-copy =
+    .label = Kopiearje
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Fingerôfdruk
+           *[other] Fingerôfdrukken
+        }
+    .accesskey = F
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Kaai-ID
+           *[other] Kaai-ID's
+        }
+    .accesskey = K
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Publike kaai
+           *[other] Publike kaaien
+        }
+    .accesskey = P
 openpgp-key-man-close =
     .label = Slute
 openpgp-key-man-reload =
@@ -497,7 +542,9 @@ key-man-button-generate-key = Kaai &oanmeitsje
 key-abort = Kaaioanmaak ôfbrekke?
 key-man-button-generate-key-abort = Kaaioanmaak &ôfbrekke
 key-man-button-generate-key-continue = Kaaioanmaak &trochsette
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Flater - ûntsiferjen mislearre
 fix-broken-exchange-msg-failed = Koe berjocht net reparearje.
 attachment-no-match-from-signature = Kin hantekeningbestân ‘{ $attachment }’ net keppelje oan in bylage
