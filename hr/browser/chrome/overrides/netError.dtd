@@ -9,7 +9,7 @@
 <!ENTITY retry.label "Pokušaj ponovo">
 <!ENTITY returnToPreviousPage.label "Idi natrag">
 <!ENTITY returnToPreviousPage1.label "Natrag (preporučeno)">
-<!ENTITY advanced2.label "Napredno…">
+<!ENTITY advanced2.label "Napredno …">
 <!ENTITY viewCertificate.label "Pregled certifikata">
 
 <!-- Specific error messages -->
@@ -100,16 +100,16 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <span class='hostname'/>. Ukoliko posjetiš ovu web stranicu, napadači mogu pokušati ukrasti informacije kao što su tvoje lozinke, e-poruke ili podatke kreditne kartice.">
 <!ENTITY certerror.sts.introPara "&brandShortName; je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <span class='hostname'/> iz razloga što ova stranica zahtjeva sigurnu vezu.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName; je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <span class='hostname'/>. Ova web stranica je pogrešno konfigurirana ili je sat tvog računala postavljen na pogrešno vrijeme.">
-<!ENTITY certerror.expiredCert.secondPara2 "Vjerojatno je certifikat web stranice istekao, što sprečava &brandShortName; da se sigurno poveže. Ukoliko posjetiš ovu web stranicu, napadači mogu pokušati ukrasti informacije kao što su tvoje lozinke, e-poruke ili podatke kreditne kartice.">
-<!ENTITY certerror.expiredCert.sts.secondPara "Vjerojatno je certifikat web stranice istekao, što sprečava &brandShortName; da se sigurno poveže.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; je otkrio problem i nije nastavio na <span class='hostname'/>. Ova je web-stranica pogrešno konfigurirana ili je sat tvog računala pogrešno postavljen.">
+<!ENTITY certerror.expiredCert.secondPara2 "Vjerojatno je certifikat web-stranice istekao, što sprečava &brandShortName; da se sigurno poveže. Ukoliko posjetiš ovu web-stranicu, napadači mogu pokušati ukrasti tvoje lozinke, e-poruke ili podatke kreditne kartice.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Vjerojatno je certifikat web-stranice istekao, što sprečava &brandShortName; da se sigurno poveže.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Što možeš učiniti po tom pitanju?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problem se najvjerojatnije nalazi u web-stranici i ne možeš ništa učiniti, kako bi se problem riješio.</p>
 <p>Ukoliko se nalaziš u korporativnoj mreži ili koristiš antivirusni program, za pomoć možeš kontaktirati timove za podršku. O problemu možeš obavijestiti i administratora web stranice.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Sat tvog računala postavljen je na <span id='wrongSystemTime_systemDate2'/>. Provjeri datum, vrijeme i vremensku zonu u postavkama sustava i onda osvježi <span class='hostname'/>.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Sat tvog računala postavljen je na <span id='wrongSystemTime_systemDate2'/>. Provjeri datum, vrijeme i vremensku zonu u postavkama sustava i onda aktualiziraj <span class='hostname'/>.</p>
 <p>Ukoliko je tvoj sat već postavljen na ispravno vrijeme, web-stranica je vjerojatno pogrešno konfigurirana i ne možeš ništa učiniti kako bi se riješio ovaj problem. Možeš obavijestiti administratora web-stranice o ovom problemu.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problem se najvjerojatnije nalazi u web-stranici i ne možeš ništa učiniti, kako bi se problem riješio.. Možeš obavijestiti administratora web-stranice o ovom problemu.</p>">
