@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -220,7 +220,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Vyhľadať pomocou:
 # This string won't wrap, so if the translated string is longer,
@@ -252,6 +252,10 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Záložky ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = História ({ $restrict })
 
 ## Bookmark Panel
 
@@ -321,6 +325,9 @@ browser-window-maximize-button =
     .tooltiptext = Maximalizovať
 browser-window-close-button =
     .tooltiptext = Zavrieť
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
