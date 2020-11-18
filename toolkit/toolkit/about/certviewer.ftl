@@ -12,10 +12,14 @@ certificate-viewer-error-title = حدث خطب ما.
 ## Certificate information labels
 
 certificate-viewer-algorithm = الخوارزمية
-certificate-viewer-certificate-authority = سلطة شهادات
+certificate-viewer-certificate-authority = سلطة الشهادات
 certificate-viewer-common-name = الاسم الشائع
 certificate-viewer-email-address = عنوان البريد الإلكتروني
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = شهادة { $firstCertName }
 certificate-viewer-country = البلد
+certificate-viewer-distribution-point = نقطة التوزيع
 certificate-viewer-dns-name = اسم DNS
 certificate-viewer-ip-address = عنوان IP
 certificate-viewer-other-name = الاسم الآخر
@@ -24,10 +28,15 @@ certificate-viewer-not-after = ليس بعد
 certificate-viewer-not-before = ليس قبل
 certificate-viewer-organization = المنظّمة
 certificate-viewer-organizational-unit = الوحدة التنظيمية
+certificate-viewer-policy = السياسة
+certificate-viewer-protocol = البروتوكول
 certificate-viewer-state-province = الولاية/المحافظة
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = الرقم التسلسلي
+certificate-viewer-signature-algorithm = خوارزمية التوقيع
+certificate-viewer-signature-scheme = مخطّط التوقيع
+certificate-viewer-timestamp = الختم الزمني
 certificate-viewer-value = القيمة
 certificate-viewer-version = الإصدارة
 certificate-viewer-issuer-name = اسم المُصدِر
@@ -48,6 +57,9 @@ certificate-viewer-boolean =
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+
+##
 
 
 ## Labels for tabs displayed in stand-alone about:certificate page
