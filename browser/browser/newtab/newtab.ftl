@@ -156,7 +156,7 @@ newtab-section-menu-manage-section = Διαχείριση ενότητας
 newtab-section-menu-manage-webext = Διαχείριση επέκτασης
 newtab-section-menu-add-topsite = Προσθήκη κορυφαίας ιστοσελίδας
 newtab-section-menu-add-search-engine = Προσθήκη μηχανής αναζήτησης
-newtab-section-menu-move-up = Μετακίνηση επάνω
+newtab-section-menu-move-up = Μετακίνηση πάνω
 newtab-section-menu-move-down = Μετακίνηση κάτω
 newtab-section-menu-privacy-notice = Σημείωση απορρήτου
 
