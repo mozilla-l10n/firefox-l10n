@@ -29,5 +29,5 @@ safeb-blocked-harmful-page-error-desc-override = Το <span data-l10n-name='site
 safeb-blocked-harmful-page-error-desc-no-override = Το <span data-l10n-name='sitename'>{ $sitename }</span> έχει <a data-l10n-name='error_desc_link'>αναφερθεί ότι περιέχει πιθανώς επιβλαβή εφαρμογή</a>.
 safeb-blocked-harmful-page-learn-more = Μάθετε περισσότερα σχετικά με την προστασία από ηλεκτρονικό ψάρεμα και κακόβουλο λογισμικό του { -brand-short-name } στο <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
-    .label = Αυτή δεν είναι μια παραπλανητική ιστοσελίδα…
+    .label = Αυτή δεν είναι παραπλανητική ιστοσελίδα…
     .accesskey = δ
