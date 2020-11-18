@@ -41,6 +41,9 @@ printui-scale = Skalo
 printui-scale-fit-to-page-width = Alĝustigi al larĝo de paĝo
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skalo
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Ambaŭflanka presado
+printui-duplex-checkbox = Presi ambaŭflanke
 # Section title for miscellaneous print options
 printui-options = Ebloj
 printui-headers-footers-checkbox = Presi paĝokapojn kaj paĝopiedojn
