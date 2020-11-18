@@ -89,7 +89,7 @@ update-in-progress-ok-button = &Απόρριψη
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Συνέχεια
 account-button = Ρυθμίσεις λογαριασμού
-addons-button = Επεκτάσεις & Θέματα
+addons-button = Επεκτάσεις & θέματα
 
 ## OS Authentication dialog
 

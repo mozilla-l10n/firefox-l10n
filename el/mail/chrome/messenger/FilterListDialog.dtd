@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Φίλτρα μηνύματος">
-<!ENTITY nameColumn.label "Περιγραφή">
+<!ENTITY nameColumn.label "Όνομα φίλτρου">
 <!ENTITY activeColumn.label "Ενεργοποίηση">
 <!ENTITY newButton.label "Νέο…">
 <!ENTITY newButton.accesskey "Ν">

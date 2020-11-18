@@ -9,7 +9,7 @@
 <!ENTITY newsSectionHdr.label         "Ομάδες συζήτησης">
 <!ENTITY subscribeNewsLink.label      "Διαχείριση συνδρομών ομάδων συζήτησης">
 
-<!ENTITY feedsSectionHdr.label        "Ροές ειδήσεων">
+<!ENTITY feedsSectionHdr.label        "Ροές">
 <!ENTITY subscribeFeeds.label         "Διαχείριση συνδρομών">
 
 <!ENTITY chat.label                   "Συνομιλία">
