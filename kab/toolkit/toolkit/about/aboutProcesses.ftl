@@ -24,6 +24,8 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (akala { $pid })
+about-processes-gpu-process-name = GPU (akala { $pid })
+about-processes-vr-process-name = VR (akala { $pid })
 about-processes-unknown-process-name = ({ $type }, akala { $pid }) wayeḍ
 # Process
 # Variables:
@@ -75,6 +77,8 @@ about-processes-cpu-user-and-kernel-idle = arurmid ({ NUMBER($total, maximumFrac
 
 # Common case.
 about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
