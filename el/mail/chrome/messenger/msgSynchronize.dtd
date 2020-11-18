@@ -10,7 +10,7 @@
 <!ENTITY MsgSyncDirections.label "Λήψη ή/και συγχρονισμός των ακόλουθων:">
 <!ENTITY syncTypeMail.label "Μηνύματα email">
 <!ENTITY syncTypeMail.accesskey "Μ">
-<!ENTITY syncTypeNews.label "Μηνύματα Ομάδων συζήτησης">
+<!ENTITY syncTypeNews.label "Μηνύματα ομάδων συζήτησης">
 <!ENTITY syncTypeNews.accesskey "ζ">
 <!ENTITY sendMessage.label "Αποστολή μη απεσταλμένων μηνυμάτων">
 <!ENTITY sendMessage.accesskey "μ">

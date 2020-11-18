@@ -12,7 +12,7 @@
 <!ENTITY subjectField4.label "Θέμα ">
 <!ENTITY ccField4.label "Κοιν ">
 <!ENTITY bccField4.label "Κρ.κοιν ">
-<!ENTITY newsgroupsField4.label "Ομάδες συζήτησης ">
+<!ENTITY newsgroupsField4.label "Ομάδες συζήτησης">
 <!ENTITY followupToField4.label "Σε συνέχεια του">
 <!ENTITY tagsHdr4.label "Ετικέτες ">
 <!ENTITY dateField4.label "Ημερομηνία ">
