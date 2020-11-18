@@ -42,7 +42,7 @@
 <!ENTITY AddOptGroup.accesskey "μ">
 <!ENTITY RemoveElement.label "Αφαίρεση">
 <!ENTITY RemoveElement.accesskey "ρ">
-<!ENTITY MoveElementUp.label "Μετάβαση πάνω">
+<!ENTITY MoveElementUp.label "Μετακίνηση πάνω">
 <!ENTITY MoveElementUp.accesskey "π">
-<!ENTITY MoveElementDown.label "Μετάβαση κάτω">
+<!ENTITY MoveElementDown.label "Μετακίνηση κάτω">
 <!ENTITY MoveElementDown.accesskey "κ">
