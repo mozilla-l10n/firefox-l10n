@@ -18,10 +18,24 @@ handler-dialog-host = Stránka <strong>{ $host }</strong> chce otvoriť odkaz <s
 ##  $appName - Name of the application that will be opened.
 
 
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
+permission-dialog-btn-open-link =
+    .label = Otvoriť odkaz
+    .accessKey = O
+
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-dialog =
+    .buttonlabelaccept = Otvoriť odkaz
+    .buttonaccesskeyaccept = O
 choose-other-app-description = Vybrať inú aplikáciu
 choose-app-btn =
     .label = Vybrať…
