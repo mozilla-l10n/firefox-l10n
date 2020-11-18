@@ -257,6 +257,7 @@
 <!ENTITY newHTMLMessageCmd.accesskey "H">
 <!ENTITY newPlainTextMessageCmd.label "Σύνθεση σε απλό κείμενο">
 <!ENTITY newPlainTextMessageCmd.accesskey "α">
+<!ENTITY nextButton.label "Επόμενο">
 <!ENTITY goBackButton.label "Επιστροφή">
 <!ENTITY deleteButton.label "Διαγραφή">
 <!ENTITY searchButton.title "Σύνθετη αναζήτηση">

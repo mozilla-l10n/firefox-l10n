@@ -55,7 +55,7 @@
 <!ENTITY incomingUsername.label "Όνομα χρήστη:">
 <!ENTITY incomingUsername.accesskey "χ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerLabel.label "Διακομιστής ομάδας ειδήσεων:">
+<!ENTITY newsServerLabel.label "Διακομιστής ομάδας συζήτησης:">
 <!ENTITY newsServerLabel.accesskey "Δ">
 
 <!-- Entities for Outgoing Server page -->
