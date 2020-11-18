@@ -12,7 +12,7 @@ printui-sheets-count =
         [one] Orrialde bat
        *[other] { $sheetCount } orrialde
     }
-printui-page-range-all = Dena
+printui-page-range-all = Denak
 printui-page-range-custom = Pertsonalizatua
 printui-page-range-label = Orriak
 printui-page-range-picker =
