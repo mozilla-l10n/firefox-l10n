@@ -86,7 +86,7 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Έγινε διακοπή της σύνδεσης με τη σελίδα">
+<!ENTITY netReset.title "Έγινε επαναφορά της σύνδεσης">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Υπέρβαση ορίου χρόνου της σύνδεσης">
