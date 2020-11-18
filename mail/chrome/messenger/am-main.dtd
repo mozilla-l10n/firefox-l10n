@@ -9,7 +9,7 @@
 <!ENTITY accountName.accesskey "ν">
 <!ENTITY identityTitle.label "Ταυτότητα">
 <!ENTITY identityDesc.label "Κάθε λογαριασμός έχει μια ταυτότητα, η οποία αποτελείται από πληροφορίες που βλέπουν οι αναγνώστες των μηνυμάτων σας.">
-<!ENTITY name.label "Όνομα:">
+<!ENTITY name.label "Το όνομά σας:">
 <!ENTITY name.accesskey "μ">
 <!ENTITY email.label "Διεύθυνση email:">
 <!ENTITY email.accesskey "ε">

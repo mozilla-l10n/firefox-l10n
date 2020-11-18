@@ -116,7 +116,7 @@
 <!ENTITY completionText.label "Βεβαιωθείτε ότι οι παρακάτω πληροφορίες είναι σωστές.">
 <!ENTITY serverTypePrefix.label "Τύπος διακομιστή  εισερχομένων:">
 <!ENTITY serverNamePrefix.label "Όνομα διακομιστή εισερχομένων:">
-<!ENTITY smtpServerNamePrefix.label "Διακομιστής εξερχομένων (SMTP):">
+<!ENTITY smtpServerNamePrefix.label "Όνομα διακομιστή εξερχόμενων (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Όνομα διακομιστή ομάδων συζήτησης (NNTP):">
 <!ENTITY downloadOnLogin.label "Λήψη μηνυμάτων τώρα">
 <!ENTITY downloadOnLogin.accesskey "ψ">
