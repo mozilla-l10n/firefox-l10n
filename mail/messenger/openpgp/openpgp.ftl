@@ -163,7 +163,7 @@ openpgp-key-man-ctx-copy-public-keys =
         { $count ->
             [one] Zjawny kluč
             [two] Zjawnej klučej
-            [few] ZJawne kluče
+            [few] Zjawne kluče
            *[other] Zjawne kluče
         }
     .accesskey = Z
