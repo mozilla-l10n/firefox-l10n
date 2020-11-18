@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Cookies y datos del sitio
     .accesskey = C
-clear-site-data-cookies-info = Puede ser desconectado de los sitios web si se desmarca
+clear-site-data-cookies-info = Puede ser desconectado de los sitios web si se borran las cookies
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
