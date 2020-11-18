@@ -348,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Blêdwizers ymportearje…
-    .tooltiptext = Blêdwizers fan in oare browser nei { -brand-short-name } kopiearje.
+    .tooltiptext = Blêdwizers út in oare browser nei { -brand-short-name } ymportearje.
+bookmarks-toolbar-empty-message = Pleats foar snelle tagong jo blêdwizers hjir op de blêdwizerarkbalke. <a data-l10n-name="manage-bookmarks">Blêdwizers beheare…</a>
 
 ## WebRTC Pop-up notifications
 
