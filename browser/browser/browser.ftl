@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = Se la paĝo ne bone funkcias, vi povas mal�
 identity-https-only-info-no-upgrade = Ne eblas ŝanĝi la konekton HTTP.
 identity-permissions =
     .value = Permesoj
+identity-permissions-storage-access-header = Interretejaj kuketoj
 identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
 identity-permissions-empty = Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.
 identity-clear-site-data =
@@ -346,9 +347,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Enporti legosignojn…
-    .tooltiptext = Kopii legosignojn el alia retumilo al { -brand-short-name }.
+    .tooltiptext = Enporti legosignojn de alia retumilo en { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
