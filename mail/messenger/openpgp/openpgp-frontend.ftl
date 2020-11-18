@@ -27,6 +27,7 @@ openpgp-missing-signature-key = Toś ta powěsć jo se signěrowała z klucom, k
 openpgp-search-signature-key =
     .label = Namakaś…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = To jo powěsć OpenPGP, kótaraž jo se zazdaśim wobškóźiła pśez MS-Exchange a njedajo se pórěźiś, dokulaž jo se wócyniła z lokalneje dataje. Kopěrujśo powěsć do postowego zarědnika, aby awtomatiske pórěźenje wopytał.
 openpgp-broken-exchange-info = To jo OpenPGP-powěsć, kótaraž jo se wobškóźiła pó zdaśu pśez MS-Exchange. Jolic wopśimjeśe powěsći se ako wóčakane njepokazujo, móžośo awtomatiske pórěźenje wopytaś.
 openpgp-broken-exchange-repair =
     .label = Powěsć pórěźiś

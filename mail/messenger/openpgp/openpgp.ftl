@@ -106,10 +106,67 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Zjawne kluce do mjazywótkłada kopěrowaś
     .accesskey = Z
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Klucowy ID do mjazywótkłada kopěrowaś
+            [two] Klucowej ID do mjazywótkłada kopěrowaś
+            [few] Klucowe ID do mjazywótkłada kopěrowaś
+           *[other] Klucowe ID do mjazywótkłada kopěrowaś
+        }
+    .accesskey = I
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Palcowy wótśišć do mjazywótkłada kopěrowaś
+            [two] Palcowej wótśišća do mjazywótkłada kopěrowaś
+            [few] Palcowe wótśišće do mjazywótkłada kopěrowaś
+           *[other] Palcowe wótśišće do mjazywótkłada kopěrowaś
+        }
+    .accesskey = P
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Zjawny kluc do mjazywótkłada kopěrowaś
+            [two] Zjawnej kluca do mjazywótkłada kopěrowaś
+            [few] Zjawne kluce do mjazywótkłada kopěrowaś
+           *[other] Zjawne kluce do mjazywótkłada kopěrowaś
+        }
+    .accesskey = Z
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kluce do dataje eksportěrowaś
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Zjawne kluce do mjazywótkłada kopěrowaś
+openpgp-key-man-ctx-copy =
+    .label = Kopěrowaś
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Palcowy wótśišć
+            [two] Palcowej wótśišća
+            [few] Palcowe wótśišće
+           *[other] Palcowe wótśišće
+        }
+    .accesskey = P
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Klucowy ID
+            [two] Klucowej ID
+            [few] Klucowe ID
+           *[other] Klucowe ID
+        }
+    .accesskey = K
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Zjawny kluc
+            [two] Zjawnej kluca
+            [few] Zjawne kluce
+           *[other] Zjawne kluce
+        }
+    .accesskey = Z
 openpgp-key-man-close =
     .label = Zacyniś
 openpgp-key-man-reload =
@@ -501,7 +558,9 @@ key-man-button-generate-key = &Kluc napóraś
 key-abort = Napóranje kluca pśetergnuś?
 key-man-button-generate-key-abort = Napóranje kluca pśe&tergnuś
 key-man-button-generate-key-continue = Z napóranim kluca pókšacowaś
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Zmólka – dešifrěrowanje njejo se raźiło
 fix-broken-exchange-msg-failed = Powěsć njedajo se reparěrowaś.
 attachment-no-match-from-signature = Signaturowa dataja ‚{ $attachment }‘ njedajo se pśdankoju pśirědowaś
