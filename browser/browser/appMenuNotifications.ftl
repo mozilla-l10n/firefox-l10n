@@ -39,7 +39,7 @@ appmenu-addon-post-install-message = Gestisci i componenti aggiuntivi facendo cl
 appmenu-addon-post-install-incognito-checkbox =
     .label = Consenti il funzionamento di questa estensione in finestre anonime
     .accesskey = C
-    
+
 appmenu-new-tab-controlled =
     .label = La pagina Nuova scheda è cambiata
     .buttonlabel = Mantieni modifiche
@@ -58,3 +58,16 @@ appmenu-tab-hide-controlled =
     .buttonaccesskey = M
     .secondarybuttonlabel = Disattiva estensione
     .secondarybuttonaccesskey = D
+
+appmenu-new-tab-controlled-changes =
+    .label = La pagina Nuova scheda è cambiata
+    .buttonlabel = Mantieni modifiche
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Gestisci nuove schede
+    .secondarybuttonaccesskey = G
+appmenu-homepage-controlled-changes =
+    .label = La pagina iniziale è cambiata.
+    .buttonlabel = Mantieni modifiche
+    .buttonaccesskey = M
+    .secondarybuttonlabel = Gestisci pagina iniziale
+    .secondarybuttonaccesskey = G
