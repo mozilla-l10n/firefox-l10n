@@ -133,7 +133,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.accesskey               "Ε">
 <!ENTITY newmsgButton.label                             "Σύνταξη">
 <!ENTITY newmsgButton.accesskey                         "Σ">
-<!ENTITY newIM.label                                    "Άμεσο Μήνυμα">
+<!ENTITY newIM.label                                    "Άμεσο μήνυμα">
 <!ENTITY newIM.accesskey                                "α">
 <!ENTITY printButton.label                              "Εκτύπωση…">
 <!ENTITY printButton.accesskey                          "π">

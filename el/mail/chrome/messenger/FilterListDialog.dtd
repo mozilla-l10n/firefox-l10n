@@ -16,9 +16,9 @@
 <!ENTITY reorderTopButton "Μετακίνηση στην κορυφή">
 <!ENTITY reorderTopButton.accessKey "ο">
 <!ENTITY reorderTopButton.toolTip "Επανακατάταξη φίλτρου ώστε να εκτελείται πριν από όλα τα υπόλοιπα">
-<!ENTITY reorderUpButton.label "Μετακίνηση προς τα πάνω">
+<!ENTITY reorderUpButton.label "Μετακίνηση πάνω">
 <!ENTITY reorderUpButton.accesskey "Ν">
-<!ENTITY reorderDownButton.label "Μετακίνηση προς τα κάτω">
+<!ENTITY reorderDownButton.label "Μετακίνηση κάτω">
 <!ENTITY reorderDownButton.accesskey "κ">
 <!ENTITY reorderBottomButton "Μετακίνηση στο κάτω μέρος">
 <!ENTITY reorderBottomButton.accessKey "Π">

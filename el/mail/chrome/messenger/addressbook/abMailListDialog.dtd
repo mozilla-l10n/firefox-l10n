@@ -17,6 +17,5 @@
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Εισάγετε διευθύνσεις email για προσθήκη στη λίστα αλληλογραφίας:">
 <!ENTITY AddressTitle.accesskey         "τ">
-<!ENTITY UpButton.label                 "Προς τα πάνω">
-<!ENTITY DownButton.label               "Προς τα κάτω">
-
+<!ENTITY UpButton.label                 "Μετακίνηση πάνω">
+<!ENTITY DownButton.label               "Μετακίνηση κάτω">

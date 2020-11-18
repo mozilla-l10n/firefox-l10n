@@ -43,7 +43,7 @@
 <!ENTITY downloadOnBiff.label "Αυτόματη λήψη νέων μηνυμάτων">
 <!ENTITY downloadOnBiff.accesskey "υ">
 <!ENTITY deleteMessagePrefix.label "Κατά τη διαγραφή ενός μηνύματος:">
-<!ENTITY modelMoveToTrash.label "Μεταφορά στο φάκελο:">
+<!ENTITY modelMoveToTrash.label "Μετακίνηση στο φάκελο:">
 <!ENTITY modelMoveToTrash.accesskey "φ">
 <!ENTITY modelMarkDeleted.label "Επισήμανση ως διαγραμμένο">
 <!ENTITY modelMarkDeleted.accesskey "μ">
