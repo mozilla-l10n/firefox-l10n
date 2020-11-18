@@ -55,7 +55,7 @@
 <!ENTITY maintenance.accesskey  "ι">
 <!ENTITY maintenance.tooltip    "Εισαγωγή και αντίγραφα ασφαλείας σελιδοδεικτών">
 
-<!ENTITY backButton.tooltip  "Μετάβαση πίσω">
+<!ENTITY backButton.tooltip  "Επιστροφή">
 
 <!ENTITY forwardButton.tooltip  "Μετάβαση μπροστά">
 
