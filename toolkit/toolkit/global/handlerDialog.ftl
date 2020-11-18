@@ -18,10 +18,32 @@ handler-dialog-host = <strong>{ $host }</strong> haluaa avata <strong>{ $scheme 
 ##  $appName - Name of the application that will be opened.
 
 
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
+permission-dialog-btn-open-link =
+    .label = Avaa linkki
+    .accessKey = A
+permission-dialog-btn-choose-app =
+    .label = Valitse ohjelma
+    .accessKey = V
+permission-dialog-unset-description = Sinun on valittava ohjelma.
+permission-dialog-set-change-app-link = Valitse eri ohjelma.
+
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Valitse ohjelma
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Avaa linkki
+    .buttonaccesskeyaccept = A
 choose-other-app-description = Valitse toinen ohjelma
 choose-app-btn =
     .label = Valitse…
