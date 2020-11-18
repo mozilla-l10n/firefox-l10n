@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = Ma asebter yettban yerreẓ, tzemreḍ ad t
 identity-https-only-info-no-upgrade = Aleqqem n tuggna seg HTTP d awezɣi.
 identity-permissions =
     .value = Tisirag
+identity-permissions-storage-access-header = Inagan n tuqqna gar yismal
 identity-permissions-reload-hint = Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.
 identity-permissions-empty = Ur tefkiḍ ara kra n tsiregt i usmel-a.
 identity-clear-site-data =
@@ -346,9 +347,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Kter ticraḍ n yisebtar…
-    .tooltiptext = Nɣel ticraḍ n yisebtar seg yiminig-nniḍen ɣer { -brand-short-name }.
+    .tooltiptext = Kter ticraḍ n yisebtar seg yiminig-nniḍen ɣer { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 

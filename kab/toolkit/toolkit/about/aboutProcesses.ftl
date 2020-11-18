@@ -2,12 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The Actions column
+about-processes-column-action =
+    .title = Tigawin
 
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = Mdel iccer
 
 ## Column headers
 
+about-processes-column-name = Isem
+about-processes-column-memory-resident = Takatut
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -15,6 +23,7 @@
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (akala { $pid })
 about-processes-unknown-process-name = ({ $type }, akala { $pid }) wayeḍ
 # Process
 # Variables:
