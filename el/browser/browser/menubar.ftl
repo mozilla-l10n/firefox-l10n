@@ -238,7 +238,7 @@ menu-window-bring-all-to-front =
 ## Help Menu
 
 menu-help =
-    .label = Βοηθεια
+    .label = Βοήθεια
     .accesskey = Β
 menu-help-product =
     .label = Βοήθεια για το { -brand-shorter-name }
