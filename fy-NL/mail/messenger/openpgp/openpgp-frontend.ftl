@@ -27,6 +27,7 @@ openpgp-missing-signature-key = Dit berjocht is ûndertekene mei in kaai dy't jo
 openpgp-search-signature-key =
     .label = Untdekke…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Dit is in OpenPGP-berjocht dat blykber troch MS-Exchange skansearre is en, omdat it iepene is fan in lokaal bestân út, kin it net reparearre wurde. Kopiearje it berjocht nei in e-mailmap om automatysk werstel te probearjen.
 openpgp-broken-exchange-info = Dit is in OpenPGP-berjocht dat blykber skansearre is troch MS-Exchange. As de berjochtynhâld net werjûn wurdt as ferwachte, dan kinne jo in automatyske reparaasje probearje.
 openpgp-broken-exchange-repair =
     .label = Berjocht werstelle
