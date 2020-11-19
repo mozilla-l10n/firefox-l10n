@@ -14,12 +14,17 @@
 <!ENTITY usingWheelAndShft.label2        "Shift">
 <!ENTITY mouseWheelGroup.label           "Κάθετη κύλιση">
 <!ENTITY mouseWheelHorizGroup.label      "Οριζόντια κύλιση">
+<!ENTITY sameAsVertical.label            "Ίδια με την κάθετη κύλιση">
+<!ENTITY sameAsVertical.accesskey        "κ">
 <!ENTITY doNothing.label                 "Καμία ενέργεια">
 <!ENTITY doNothing.accesskey             "Κ">
 <!ENTITY doNothingHoriz.accesskey        "ν">
 <!ENTITY scrollDocument.label            "Κύλιση εγγράφου">
 <!ENTITY scrollDocument.accesskey        "Κ">
 <!ENTITY scrollDocumentHoriz.accesskey   "γ">
+<!ENTITY history.label                   "Μετάβαση εμπρός και πίσω στο ιστορικό περιήγησης">
+<!ENTITY history.accesskey               "Μ">
+<!ENTITY historyHoriz.accesskey          "ε">
 <!ENTITY zoom.label                      "Μεγέθυνση ή σμίκρυνση σελίδας">
 <!ENTITY zoom.accesskey                  "Μ">
 <!ENTITY zoomHoriz.accesskey             "ε">

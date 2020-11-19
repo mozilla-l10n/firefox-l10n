@@ -4,6 +4,10 @@
 
 <!ENTITY pref.findAsYouType.title "Εύρεση κατά την πληκτρολόγηση">
 <!ENTITY findAsYouTypeBehavior.label "Εύρεση κατά την πληκτρολόγηση">
+<!ENTITY findAsYouTypeSound.label "Αναπαραγωγή ήχου αν δεν βρεθεί το ζητούμενο κείμενο">
+<!ENTITY findAsYouTypeSound.accesskey "Α">
+<!ENTITY findAsYouTypeEnableAuto.label "Αυτόματη εύρεση κατά την πληκτρολόγηση σε μια ιστοσελίδα:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "ε">
 <!ENTITY findAsYouTypeAutoText.label "Οποιοδήποτε κείμενο στη σελίδα">
 <!ENTITY findAsYouTypeAutoText.accesskey "Ο">
 <!ENTITY findAsYouTypeAutoLinks.label "Μόνο σύνδεσμοι">
