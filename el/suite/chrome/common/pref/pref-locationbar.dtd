@@ -10,13 +10,18 @@
 <!ENTITY autoCompleteMatchHistory.accesskey    "Α">
 <!ENTITY autoCompleteMatchBookmarks.label      "Αυτόματη πρόταση ιστοσελίδων από τους σελιδοδείκτες">
 <!ENTITY autoCompleteMatchBookmarks.accesskey  "σ">
+<!ENTITY autoCompleteAutoFill.label            "Αυτόματη συμπλήρωση καλύτερης αντιστοιχίας">
+<!ENTITY autoCompleteAutoFill.accesskey        "υ">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
 -->
 <!ENTITY autoCompleteMatch.label               "Αντιστοίχιση">
 <!ENTITY autoCompleteMatch.accesskey           "Α">
+<!ENTITY autoCompleteMatchStart                "Μόνο στην αρχή της διεύθυνσης ή του τίτλου">
 
 <!ENTITY formatting.label                      "Μορφοποίηση">
 
-<!ENTITY unknownLocations.label                "Άγνωστες τοποθεσίες">
+<!ENTITY unknownLocations.label                "Άγνωστες διευθύνσεις">
+<!ENTITY domainGuessing.label                  "Προσθέστε &quot;www.&quot; και &quot;.com&quot; στη διεύθυνση αν δεν βρεθεί η ιστοσελίδα">
+<!ENTITY domainGuessing.accesskey              "ι">
