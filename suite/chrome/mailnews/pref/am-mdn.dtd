@@ -5,10 +5,14 @@
 <!ENTITY pane.title                   "Αποδεικτικά ανάγνωσης">
 <!ENTITY globalReceipts.label         "Γενικές προτιμήσεις…">
 <!ENTITY globalReceipts.accesskey     "Γ">
+<!ENTITY useCustomPrefs.label         "Προσαρμογή αποδεικτικών ανάγνωσης για αυτό τον λογαριασμό">
+<!ENTITY useCustomPrefs.accesskey     "Π">
 <!ENTITY receiptArrive.label          "Όταν φτάνει αποδεικτικό:">
 <!ENTITY leaveIt.label                "Να παραμένει στα εισερχόμενά μου">
 <!ENTITY leaveIt.accesskey            "ε">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Να μετακινείται στο φάκελο &quot;Απεσταλμένα&quot;">
+<!ENTITY moveToSent.accesskey         "Ν">
 <!ENTITY outsideDomain.label          "Aν ο αποστολέας είναι εκτός του τομέα μου:">
 <!ENTITY outsideDomain.accesskey      "α">
 <!ENTITY otherCases.label             "Σε όλες τις άλλες περιπτώσεις:">
