@@ -351,9 +351,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = استورِد العلامات…
-    .tooltiptext = انسخ العلامات من متصفّح آخر إلى { -brand-short-name }.
+    .tooltiptext = استورِد العلامات من متصفّح آخر إلى { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
