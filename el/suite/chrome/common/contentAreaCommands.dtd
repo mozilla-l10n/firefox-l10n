@@ -11,10 +11,14 @@
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "δ">
 <!ENTITY openLinkInWindowCmd.label    "Άνοιγμα">
 <!ENTITY openLinkInWindowCmd.accesskey "ν">
+<!ENTITY openFrameCmd.label           "Άνοιγμα καρέ σε νέο παράθυρο">
+<!ENTITY openFrameCmd.accesskey       "π">
 <!ENTITY openFrameCmdInTab.label      "Άνοιγμα καρέ σε νέα καρτέλα">
 <!ENTITY openFrameCmdInTab.accesskey  "κ">
 <!ENTITY keywordfield.label           "Προσθήκη λέξης-κλειδιού αναζήτησης…">
 <!ENTITY keywordfield.accesskey       "λ">
+<!ENTITY showOnlyThisFrameCmd.label     "Εμφάνιση μόνο αυτού του καρέ">
+<!ENTITY showOnlyThisFrameCmd.accesskey "Ε">
 <!ENTITY goBackCmd.label              "Πίσω">
 <!ENTITY goBackCmd.accesskey          "Π">
 <!ENTITY goForwardCmd.label           "Εμπρός">
@@ -53,6 +57,12 @@
 <!ENTITY viewBGImageCmd.accesskey     "λ">
 <!ENTITY setDesktopBackgroundCmd.label     "Ορισμός φόντου επιφάνειας εργασίας…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "α">
+<!ENTITY bookmarkPageCmd.label        "Προσθήκη σελιδοδείκτη σελίδας…">
+<!ENTITY bookmarkPageCmd.accesskey    "κ">
+<!ENTITY bookmarkLinkCmd.label        "Προσθήκη σελιδοδείκτη συνδέσμου…">
+<!ENTITY bookmarkLinkCmd.accesskey    "Π">
+<!ENTITY bookmarkFrameCmd.label       "Προσθήκη σελιδοδείκτη καρέ…">
+<!ENTITY bookmarkFrameCmd.accesskey   "ρ">
 <!ENTITY savePageAsCmd.label          "Αποθήκευση σελίδας ως…">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας">
 <!ENTITY savePageCmd.accesskey        "σ">
