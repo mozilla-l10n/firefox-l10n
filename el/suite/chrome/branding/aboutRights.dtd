@@ -24,6 +24,7 @@
 <!-- point 2da is technically point 3. in the list -->
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Μπορείτε να βρείτε τις πολιτικές απορρήτου για τα προϊόντα της &vendorShortName;">
 <!ENTITY rights.intro-point3b "εδώ">
 <!ENTITY rights.intro-point3c ".">
 
@@ -39,6 +40,7 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-b "εδώ">
+<!ENTITY rights3.webservices-c ". Άλλες λειτουργίες και υπηρεσίες μπορούν να (απ)ενεργοποιηθούν στις προτιμήσεις της εφαρμογής.">
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Υπηρεσίες προσθέτων:">
@@ -51,7 +53,10 @@
 <!ENTITY rights.safebrowsing-term4 "Η ασφαλής περιήγηση είναι πλέον ανενεργή">
 
 <!-- location aware browsing points for branded builds -->
+<!ENTITY rights.locationawarebrowsing-a "Περιήγηση βάσει τοποθεσίας:">
 <!ENTITY rights.locationawarebrowsing-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
+<!ENTITY rights.locationawarebrowsing-term4 "Η περιήγηση βάσει τοποθεσίας είναι πλέον ανενεργή">
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "Η &vendorShortName; διατηρεί το δικαίωμα να διακόψει ή να αλλάξει τις υπηρεσίες κατά βούληση.">
+<!ENTITY rights.webservices-term5 "Η &vendorShortName; μπορεί να ενημερώνει περιοδικά αυτούς τους όρους αν κριθεί απαραίτητο. Δεν είναι δυνατή η τροποποίηση ή η ακύρωση αυτών των όρων χωρίς την έγγραφη συναίνεση της &vendorShortName;.">
