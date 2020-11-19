@@ -109,6 +109,7 @@
 <!ENTITY storage.button.remove.accesskey "Α">
 
 <!-- form data -->
+<!ENTITY fdata.search.placeholder "Δεδομένα πεδίου αναζήτησης">
 
 <!ENTITY fdata.tree.fieldname.label "Όνομα πεδίου">
 <!ENTITY fdata.tree.firstused.label "Πρώτη χρήση">
