@@ -36,6 +36,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importa da un altro browser…
 about-logins-menu-menuitem-import-from-a-file = Importa da file…
 about-logins-menu-menuitem-export-logins = Esporta credenziali…
+about-logins-menu-menuitem-remove-all-logins = Rimuovi tutte le credenziali…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opzioni
@@ -177,6 +178,24 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Rimuovere queste credenziali?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
 about-logins-confirm-remove-dialog-confirm-button = Rimuovi
+
+about-logins-confirm-remove-all-dialog-confirm-button = Rimuovi tutte
+about-logins-confirm-remove-all-dialog-checkbox-label = Sì, rimuovi queste credenziali
+about-logins-confirm-remove-all-dialog-title =
+  { $count ->
+     [one] Rimuovere queste credenziali?
+    *[other] Rimuovere { $count } credenziali?
+  }
+
+about-logins-confirm-remove-all-dialog-message = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } e i relativi avvisi sulle violazioni. Non sarà possibile annullare questa operazione.
+
+about-logins-confirm-remove-all-sync-dialog-title =
+  { $count ->
+     [one] Rimuovere queste credenziali da tutti i dispositivi?
+    *[other] Rimuovere { $count } credenziali da tutti i dispositivi?
+  }
+
+about-logins-confirm-remove-all-sync-dialog-message = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con l’{ -fxaccount-brand-name }. Anche i relativi avvisi sulle violazioni verranno rimossi. Non sarà possibile annullare questa operazione.
 
 about-logins-confirm-export-dialog-title = Esportazione credenziali e password
 about-logins-confirm-export-dialog-message = Le password verranno salvate come testo leggibile (ad esempio “Password123”). Chiunque abbia accesso al file esportato potrà vederle.
