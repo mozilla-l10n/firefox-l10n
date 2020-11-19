@@ -13,6 +13,7 @@
 <!ENTITY setDefaultFeed.label             "Ροές">
 <!ENTITY setDefaultFeed.accesskey         "έ">
 
+<!ENTITY useInternalSettings.description  "Χρήση αλληλογραφίας &amp; ομάδων ειδήσεων του &brandShortName; κατά το άνοιγμα συνδέσμων για:">
 <!ENTITY useInternalMail.label            "Αλληλογραφία (mailto:)">
 <!ENTITY useInternalMail.accesskey        "λ">
 <!ENTITY useInternalNews.label            "Ειδήσεις (news:, snews:, nntp:)">
