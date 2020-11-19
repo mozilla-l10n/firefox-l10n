@@ -8,8 +8,13 @@
 <!ENTITY sendingPrefix.label "Κατά την αποστολή μηνυμάτων:">
 <!ENTITY fccMailFolder.label "Αυτόματη δημιουργία αντιγράφου στο:">
 <!ENTITY fccMailFolder.accesskey "υ">
+<!ENTITY fccReplyFollowsParent.label "Τοποθέτηση απαντήσεων στον ίδιο φάκελο με το αρχικό μήνυμα">
+<!ENTITY fccReplyFollowsParent.accesskey "Τ">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddressList.placeholder "Διαχωρισμός διευθύνσεων με κόμματα">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddressList.placeholder "Διαχωρισμός διευθύνσεων με κόμματα">
+<!ENTITY saveMessageDlg.label "Εμφάνιση παραθύρου επιβεβαίωσης κατά την αποθήκευση μηνυμάτων">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Στο φάκελο &quot;Απεσταλμένα&quot; του:">
 <!ENTITY sentFolderOn.accesskey "Α">
