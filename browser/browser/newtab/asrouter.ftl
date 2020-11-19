@@ -148,7 +148,7 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } 會封鎖�
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = 在手機上使用此書籤
-cfr-doorhanger-sync-bookmarks-body = 將您的書籤、密碼、瀏覽紀錄等資料，同步到登入至 { -brand-product-name } 的所有裝置。
+cfr-doorhanger-sync-bookmarks-body = 將您的書籤、密碼、瀏覽紀錄等資料，同步到登入 { -brand-product-name } 的所有裝置。
 cfr-doorhanger-sync-bookmarks-ok-button = 開啟 { -sync-brand-short-name }
     .accesskey = T
 
@@ -163,7 +163,7 @@ cfr-doorhanger-sync-logins-ok-button = 開啟 { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = 在通勤的時候閱讀這篇文章
 cfr-doorhanger-send-tab-recipe-header = 把這個食譜帶進廚房
-cfr-doorhanger-send-tab-body = Send Tab 可讓您很簡單就將連結分享到手機，或是任何登入至 { -brand-product-name } 的裝置。
+cfr-doorhanger-send-tab-body = Send Tab 可讓您很簡單就將連結分享到手機，或是任何登入 { -brand-product-name } 的裝置。
 cfr-doorhanger-send-tab-ok-button = 試試分頁傳送功能
     .accesskey = T
 
@@ -253,8 +253,6 @@ cfr-doorhanger-fission-primary-button = 好，知道了
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = 了解更多
     .accesskey = L
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } 已為您開啟實驗性的 Fission（網站隔離）功能。Fission 透過將各個網站隔離在不同的處理程序中，為您與您造訪的網站提供更多一層的安全性保障。
 
 ## What's new: Cookies message
 
