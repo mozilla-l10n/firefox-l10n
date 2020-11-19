@@ -54,10 +54,12 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "Α">
 
 <!-- New Account Page 3: Captcha -->
+<!ENTITY setup.captchaPage2.title.label     "Παρακαλώ επιβεβαιώστε ότι δεν είστε ρομπότ">
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Προσθήκη συσκευής">
 <!ENTITY addDevice.dontHaveDevice.label     "Δεν έχω τη συσκευή μαζί μου">
+<!ENTITY addDevice.setup.enterCode.label    "Έπειτα, εισάγετε αυτό τον κωδικό:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλούμε προσπαθήστε ξανά.">
 <!ENTITY addDevice.dialog.connected.label   "Η συσκευή συνδέθηκε">
 
@@ -90,7 +92,10 @@
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
+<!ENTITY confirm.client2.label         "Προειδοποίηση: Θα διαγραφούν τα εξής δεδομένα του &brandShortName; σε αυτό τον υπολογιστή:">
+<!ENTITY confirm.server2.label         "Προειδοποίηση: Οι εξής συσκευές θα αντικατασταθούν με τα τοπικά σας δεδομένα:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Η ρύθμιση ολοκληρώθηκε">
+<!ENTITY changeOptions.label "Μπορείτε να αλλάξετε αυτή την προτίμηση από τις επιλογές συγχρονισμού παρακάτω.">
 <!ENTITY continueUsing.label "Μπορείτε να συνεχίσετε τη χρήση του &brandShortName;.">

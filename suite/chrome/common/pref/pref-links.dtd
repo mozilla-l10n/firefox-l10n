@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY linksHeader.label "Συμπεριφορά συνδέσμου">
+<!ENTITY external.label "Σύνδεσμοι από άλλες εφαρμογές">
 <!ENTITY externalDescription.label "Άνοιγμα συνδέσμων από άλλες εφαρμογές:">
 
 <!ENTITY openCurrent.label "Στην τρέχουσα καρτέλα/παράθυρο">
@@ -17,3 +18,7 @@
 <!ENTITY newWindowGroupWindow.accesskey "π">
 <!ENTITY externalGroupWindow.accesskey "ο">
 
+<!ENTITY divertAll.label "Πάντα εκτροπή παραθύρων σε καρτέλες">
+<!ENTITY divertAll.accesskey "ε">
+<!ENTITY dontDivert.label "Πάντα άνοιγμα νέων παραθύρων">
+<!ENTITY dontDivert.accesskey "ν">
