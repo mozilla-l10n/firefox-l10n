@@ -33,7 +33,9 @@
 
 <!ENTITY cookies.tree.host.label "Ιστοσελίδα">
 <!ENTITY cookies.tree.name.label "Όνομα cookie">
+<!ENTITY cookies.tree.expires.label "Λήξη">
 
+<!ENTITY cookies.infobox.label "Πληροφορίες για το επιλεγμένο cookie">
 
 <!ENTITY cookies.info.name.label "Όνομα:">
 <!ENTITY cookies.info.value.label "Περιεχόμενο:">
@@ -55,6 +57,8 @@
 <!ENTITY perm.UseDefault "Χρήση προεπιλογής">
 <!ENTITY perm.AskAlways "Πάντα ερώτηση">
 <!ENTITY perm.Allow "Αποδοχή">
+<!ENTITY perm.AllowSameDomain "Αποδοχή για τον ίδιο τομέα">
+<!ENTITY perm.AllowSession "Αποδοχή για τη συνεδρία">
 <!ENTITY perm.Block "Φραγή">
 
 <!ENTITY perm.button.add.label "Προσθήκη">
