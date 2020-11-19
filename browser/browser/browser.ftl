@@ -340,9 +340,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Nhập dấu trang…
-    .tooltiptext = Sao chép dấu trang từ trình duyệt khác vào { -brand-short-name }.
+    .tooltiptext = Nhập dấu trang từ trình duyệt khác sang { -brand-short-name }.
+bookmarks-toolbar-empty-message = Để truy cập nhanh, hãy đặt dấu trang của bạn tại đây trên thanh công cụ dấu trang. <a data-l10n-name="manage-bookmarks">Quản lý dấu trang…</a>
 
 ## WebRTC Pop-up notifications
 

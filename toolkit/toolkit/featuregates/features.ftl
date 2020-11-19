@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Sự kiện toàn cục 
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Việc bổ sung một hàm tạo vào giao diện <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> cũng như một loạt các thay đổi liên quan giúp có thể trực tiếp tạo các bảng định kiểu mới mà không cần phải thêm trang tính vào HTML. Điều này giúp tạo các biểu định kiểu có thể tái sử dụng dễ dàng hơn nhiều để sử dụng với <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Xem <a data-l10n-name="bugzilla">bug 1520690</a> để biết thêm chi tiết.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Toàn bộ triển khai { -brand-short-name } của Media Session API hiện đang thử nghiệm. API này được sử dụng để tùy chỉnh xử lý các thông báo liên quan đến phương tiện, để quản lý các sự kiện và dữ liệu hữu ích để hiển thị giao diện người dùng để quản lý phát lại phương tiện và để có được siêu dữ liệu tệp phương tiện. Xem <a data-l10n-name="bugzilla">bug 1112032</a> để biết thêm chi tiết.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Color Scheme Simulation
 experimental-features-devtools-color-scheme-simulation-description = Thêm một tùy chọn để mô phỏng các lược đồ màu khác nhau cho phép bạn kiểm tra các truy vấn phương tiện <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Sử dụng truy vấn phương tiện này cho phép biểu định kiểu của bạn phản hồi xem người dùng thích giao diện người dùng sáng hay tối. Tính năng này cho phép bạn kiểm tra mã của mình mà không phải thay đổi cài đặt trong trình duyệt (hoặc hệ điều hành, nếu trình duyệt tuân theo cài đặt bảng màu toàn hệ thống). Xem <a data-l10n-name="bugzilla1">bug 1550804</a> và <a data-l10n-name="bugzilla2">bug 1137699</a> để biết thêm chi tiết.
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Cho phép hỗ trợ thử nghiệm Service Workers trong thẻ Trình gỡ lỗi. Tính năng này có thể làm chậm Công cụ dành cho nhà phát triển và tăng mức tiêu thụ bộ nhớ.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Đồ họa: Smooth Pinch Zoom
-experimental-features-graphics-desktop-zooming-description = Cho phép hỗ trợ cho việc phóng to pinch mịn trên màn hình cảm ứng và cảm ứng chính xác.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = Kích hoạt Warp, một dự án đ
 experimental-features-fission =
     .label = Fission (Cách ly trang web)
 experimental-features-fission-description = Fission (cách ly trang web) là một tính năng thử nghiệm trong { -brand-short-name } để cung cấp thêm một lớp bảo vệ khỏi các lỗi bảo mật. Bằng cách cô lập từng trang web thành một tiến trình riêng biệt, Fission khiến các trang web độc hại khó có thể truy cập các thông tin trên các trang web khác mà bạn đang truy cập. Đây là một thay đổi lớn về kiến trúc trong { -brand-short-name } và chúng tôi đánh giá cao việc bạn thử nghiệm và báo cáo bất kỳ những vẫn đề nào bạn có thể gặp phải. Để biết thêm chi tiết, xem <a data-l10n-name="wiki">wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Hỗ trợ nhiều cửa sổ Hình-trong-hình
+experimental-features-multi-pip-description = Thử nghiệm cho phép hỗ trợ mở nhiều cửa sổ Hình-trong-hình cùng lúc.

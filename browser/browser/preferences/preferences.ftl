@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Tiến hành thận trọng
 pane-experimental-search-results-header = Thử nghiệm { -brand-short-name }: Tiến hành thận trọng
 pane-experimental-description = Thay đổi tùy chọn cấu hình nâng cao có thể ảnh hưởng đến hiệu suất hoặc bảo mật { -brand-short-name }.
+pane-experimental-reset =
+    .label = Khôi phục về mặc định
+    .accesskey = R
 help-button-label = Hỗ trợ { -brand-short-name }
 addons-button-label = Tiện ích mở rộng & chủ đề
 focus-search =
@@ -913,6 +916,7 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 content-blocking-enhanced-tracking-protection = Trình chống theo dõi nâng cao
 content-blocking-section-top-level-description = Trình theo dõi theo bạn trên mạng để thu thập thông tin về thói quen và sở thích duyệt web của bạn. { -brand-short-name } chặn nhiều trình theo dõi và các tập lệnh độc hại khác.
 content-blocking-learn-more = Tìm hiểu thêm
+content-blocking-fpi-incompatibility-warning = Bạn đang sử dụng First Party Isolation (FPI), tính năng này sẽ ghi đè một số cài đặt cookie của { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
