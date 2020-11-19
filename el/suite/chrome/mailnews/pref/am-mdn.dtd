@@ -13,6 +13,7 @@
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Να μετακινείται στο φάκελο &quot;Απεσταλμένα&quot;">
 <!ENTITY moveToSent.accesskey         "Ν">
+<!ENTITY requestMDN.label             "Κατά τη λήψη αιτήματος για αποδεικτικό ανάγνωσης:">
 <!ENTITY outsideDomain.label          "Aν ο αποστολέας είναι εκτός του τομέα μου:">
 <!ENTITY outsideDomain.accesskey      "α">
 <!ENTITY otherCases.label             "Σε όλες τις άλλες περιπτώσεις:">
