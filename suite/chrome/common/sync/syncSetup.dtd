@@ -6,6 +6,7 @@
 
 <!-- First page of the wizard -->
 
+<!ENTITY setup.pickSetupType.description "Καλώς ήλθατε! Αν δεν έχετε χρησιμοποιήσει ποτέ το &syncBrand.fullName.label;, θα χρειαστεί να δημιουργήσετε έναν νέο λογαριασμό.">
 <!ENTITY button.createNewAccount.label "Δημιουργία νέου λογαριασμού">
 <!ENTITY setup.haveAccount.label "Έχω ήδη λογαριασμό &syncBrand.fullName.label;.">
 <!ENTITY button.connect.label "Σύνδεση">
@@ -60,7 +61,9 @@
 <!ENTITY addDevice.title.label              "Προσθήκη συσκευής">
 <!ENTITY addDevice.dontHaveDevice.label     "Δεν έχω τη συσκευή μαζί μου">
 <!ENTITY addDevice.setup.enterCode.label    "Έπειτα, εισάγετε αυτό τον κωδικό:">
+<!ENTITY addDevice.dialog.enterCode.label   "Εισάγετε τον κωδικό που παρέχει η συσκευή:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλούμε προσπαθήστε ξανά.">
+<!ENTITY addDevice.dialog.successful.label  "Η συσκευή προστέθηκε με επιτυχία. Ο αρχικός συγχρονισμός μπορεί να διαρκέσει μερικά λεπτά και θα ολοκληρωθεί στο παρασκήνιο.">
 <!ENTITY addDevice.dialog.connected.label   "Η συσκευή συνδέθηκε">
 
 <!-- Existing Account Page 2: Manual Login -->
@@ -88,7 +91,9 @@
 <!ENTITY engine.prefs.label         "Προτιμήσεις">
 <!ENTITY engine.prefs.accesskey     "μ">
 
+<!ENTITY choice2.merge.main.label      "Συγχώνευση δεδομένων υπολογιστή με τα δεδομένα του &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "(προτείνεται)">
+<!ENTITY choice2.client.main.label     "Αντικατάσταση όλων των δεδομένων υπολογιστή με τα δεδομένα του &syncBrand.shortName.label;">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
