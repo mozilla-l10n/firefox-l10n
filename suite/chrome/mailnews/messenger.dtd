@@ -98,6 +98,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "γ">
 <!ENTITY folderPropsCmd.label "Ιδιότητες…">
 <!ENTITY folderPropsFolderCmd.label "Ιδιότητες φακέλου…">
+<!ENTITY folderPropsNewsgroupCmd.label "Ιδιότητες ομάδας συζήτησης…">
 <!ENTITY undoDeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
 <!ENTITY redoDeleteMsgCmd.label "Επανάληψη διαγραφής μηνύματος">
 <!ENTITY undoMoveMsgCmd.label "Αναίρεση μετακίνησης μηνύματος">
@@ -233,6 +234,7 @@
 <!ENTITY prevFlaggedMsgCmd.label "Μήνυμα με σημαία">
 <!ENTITY prevFlaggedMsgCmd.accesskey "σ">
 <!ENTITY folderMenu.label "Φάκελος">
+<!ENTITY folderMenu.accesskey "κ">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "Μήνυμα">
