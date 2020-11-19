@@ -12,6 +12,10 @@
 <!ENTITY  systemTypeRadio.accesskey     "Χ">
 <!ENTITY  manualTypeRadio.label         "Χειροκίνητη ρύθμιση διακομιστή μεσολάβησης:">
 <!ENTITY  manualTypeRadio.accesskey     "ε">
+<!ENTITY  wpadTypeRadio.label           "Αυτόματη ανίχνευση ρυθμίσεων διακομιστή μεσολάβησης">
+<!ENTITY  wpadTypeRadio.accesskey       "Α">
+<!ENTITY  autoTypeRadio.label           "URL αυτόματης ρύθμισης διακομιστή μεσολάβησης:">
+<!ENTITY  autoTypeRadio.accesskey       "ρ">
 <!ENTITY  reload.label                  "Ανανέωση">
 <!ENTITY  reload.accesskey              "Α">
 <!ENTITY  http.label                    "Διακομιστής μεσολάβησης:">
@@ -19,3 +23,7 @@
 <!ENTITY  port.label                    "Θύρα:">
 <!ENTITY  HTTPPort.accesskey            "ρ">
 <!ENTITY  advanced.label                "Για προχωρημένους…">
+<!ENTITY  advanced.accesskey            "ω">
+<!ENTITY  noproxy.label                 "Χωρίς διακομιστή μεσολάβησης για:">
+<!ENTITY  noproxy.accesskey             "Χ">
+<!ENTITY  noproxyExplain.label          "Παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
