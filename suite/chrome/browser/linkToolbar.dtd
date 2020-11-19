@@ -16,6 +16,8 @@
 <!ENTITY linkToolbarNever.accesskey "α">
 
 <!-- Toolbar buttons, menus, and menuitems -->
+<!ENTITY topButton.label "Κορυφή">
+<!ENTITY upButton.label "Πάνω">
 <!ENTITY firstButton.label "Πρώτο">
 <!ENTITY prevButton.label "Προηγούμενο">
 <!ENTITY nextButton.label "Επόμενο">
