@@ -18,10 +18,20 @@
 <!ENTITY displayPlainText.caption         "Μηνύματα απλού κειμένου">
 <!ENTITY fontPlainText.label              "Γραμματοσειρά:">
 <!ENTITY fontPlainText.accesskey          "Γ">
+<!ENTITY displayQuoted.label              "Ρυθμίσεις μηνυμάτων σε παράθεση:">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY generalMessageDisplay.caption    "Γενικά">
+<!ENTITY autoMarkAsRead.label             "Αυτόματη επισήμανση μηνυμάτων ως αναγνωσμένων">
+<!ENTITY autoMarkAsRead.accesskey         "Α">
 <!-- LOCALIZATION NOTE (markAsReadAfter.label): This will concatenate to
      "Only after displaying for [___] seconds",
      using (markAsReadAfter.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadAfter.label            "Μόνο μετά από προβολή για">
+<!ENTITY markAsReadAfter.accesskey        "β">
 <!ENTITY secondsLabel.label               "δευτερόλεπτα">
 
+<!ENTITY openingMessages.label            "Κατά το άνοιγμα μηνυμάτων, προβολή σε:">
+<!ENTITY newWindowRadio.label             "Νέο παράθυρο μηνύματος">
+<!ENTITY newWindowRadio.accesskey         "ν">
+<!ENTITY existingWindowRadio.label        "Υπάρχον παράθυρο μηνύματος">
+<!ENTITY existingWindowRadio.accesskey    "χ">
