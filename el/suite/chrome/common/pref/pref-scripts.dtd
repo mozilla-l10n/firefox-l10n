@@ -12,6 +12,8 @@
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Ενεργοποίηση JavaScript για">
+<!ENTITY allowScripts.label              "Να επιτρέπεται στα σενάρια να κάνουν:">
+<!ENTITY allowScripts.accesskey          "σ">
 <!ENTITY allowWindowMoveResize.label     "Μετακίνηση ή αλλαγή μεγέθους υπαρχόντων παραθύρων">
 <!ENTITY allowWindowStatusChange.label   "Αλλαγή κειμένου γραμμής κατάστασης">
 <!ENTITY allowContextmenuDisable.label   "Απενεργοποίηση ή αντικατάσταση μενού επιλογών">
