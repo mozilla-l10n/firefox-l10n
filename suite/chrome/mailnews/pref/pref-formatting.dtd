@@ -6,12 +6,22 @@
 <!-- Html and Plain Text Domains  -->
 <!ENTITY HTMLdomaintitle.label        "Τομείς HTML">
 <!ENTITY HTMLdomaintitle.accesskey    "M">
+<!ENTITY PlainTexttitle.label         "Τομείς απλού κειμένου">
+<!ENTITY PlainTexttitle.accesskey     "α">
 <!ENTITY AddButton.label              "Προσθήκη…">
 <!ENTITY AddHtmlDomain.accesskey      "Π">
+<!ENTITY AddPlainText.accesskey       "θ">
 <!ENTITY DeleteButton.label           "Διαγραφή">
+<!ENTITY DeleteHtmlDomain.accesskey   "γ">
+<!ENTITY DeletePlainText.accesskey    "ρ">
 
 <!-- Add Domain Name -->
+<!ENTITY add.htmltitle                "Προσθήκη ονόματος τομέα HTML">
+<!ENTITY add.htmldomain               "Όνομα τομέα HTML:">
+<!ENTITY add.plaintexttitle           "Προσθήκη ονόματος τομέα απλού κειμένου">
+<!ENTITY add.plaintextdomain          "Όνομα τομέα απλού κειμένου:">
 
+<!ENTITY domainnameError.title        "Σφάλμα ονόματος τομέα">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 
 <!-- Global auto-detect switch -->
