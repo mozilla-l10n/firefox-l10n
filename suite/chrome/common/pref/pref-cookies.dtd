@@ -18,12 +18,17 @@
 
 <!ENTITY cookieRetentionPolicy.label    "Πολιτική διατήρησης cookies">
 
+<!ENTITY acceptNormally.label           "Χειροκίνητη αποδοχή cookies">
+<!ENTITY acceptNormally.accesskey       "ε">
 
+<!ENTITY acceptForSession.label         "Αποδοχή μόνο για την τρέχουσα συνεδρία">
+<!ENTITY acceptForSession.accesskey     "σ">
 
 <!ENTITY acceptforNDays.label           "Αποδοχή cookies για">
 <!ENTITY acceptforNDays.accesskey       "γ">
 <!ENTITY days.label                     "ημέρες">
 
+<!ENTITY manageCookies.label            "Διαχείριση cookies και ιστοσελίδων">
 
 <!ENTITY viewCookies.label              "Διαχείριση cookies">
 <!ENTITY viewCookies.accesskey          "Δ">

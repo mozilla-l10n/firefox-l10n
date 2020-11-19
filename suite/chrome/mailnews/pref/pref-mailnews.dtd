@@ -4,6 +4,10 @@
 
 <!ENTITY pref.mailnews.title              "Αλληλογραφία &amp; ομάδες συζήτησης">
 <!ENTITY generalSettings.caption          "Γενικές ρυθμίσεις">
+<!ENTITY confirmMove.label                "Επιβεβαίωση κατά τη μετακίνηση φακέλων στα Απορρίμματα">
+<!ENTITY confirmMove.accesskey            "Ε">
+<!ENTITY loadInBackground.label           "Εναλλαγή σε νέες καρτέλες όταν ανοίγουν">
+<!ENTITY loadInBackground.accesskey       "γ">
 
 <!ENTITY defaultMailSettings.description  "Ορισμός του &brandShortName; ως προεπιλογής για:">
 <!ENTITY setDefaultMail.label             "Αλληλογραφία">

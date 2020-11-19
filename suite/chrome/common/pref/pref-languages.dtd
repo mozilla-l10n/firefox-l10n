@@ -6,7 +6,9 @@
 
 <!ENTITY languages.customize.title                      "Γλώσσες">
 <!ENTITY langtitle.label                                "Γλώσσες για ιστοσελίδες">
+<!ENTITY languages.customize.prefAddLangDescript        "Επιλέξτε τις γλώσσες που θέλετε να προσθέσετε.">
 <!ENTITY languages.customize.addButton.label            "Προσθήκη…">
+<!ENTITY languages.customize.addButton.accesskey        "Π">
 <!ENTITY languages.customize.deleteButton.label         "Αφαίρεση">
 <!ENTITY languages.customize.deleteButton.accesskey     "Α">
 <!ENTITY languages.customize.add.title.label            "Προσθήκη γλωσσών">

@@ -20,6 +20,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Αν συνδέεστε συχνά σε
 αυτή την ιστοσελίδα χωρίς προβλήματα, αυτό το σφάλμα σημαίνει ότι κάποιος
 προσπαθεί να την υποδυθεί και δεν πρέπει να συνεχίσετε.">
+<!ENTITY certerror.getMeOutOfHere.label "Δεν μου αρέσει αυτό, επιστροφή στην αρχική μου σελίδα">
 
 <!ENTITY certerror.expert.heading "Κατανοώ τους κινδύνους">
 <!ENTITY certerror.addException.label "Προσθήκη εξαίρεσης…">
