@@ -4,6 +4,8 @@
 
 <!-- Title -->
 <!ENTITY addressbookWindow.title                        "Ευρετήριο διευθύνσεων">
+<!ENTITY blankResultsPaneMessage.label                  "Αυτό το ευρετήριο εμφανίζει επαφές μόνο μετά από αναζήτηση">
+<!ENTITY localResultsOnlyMessage.label                  "Οι επαφές από απομακρυσμένα ευρετήρια δεν εμφανίζονται μέχρι να κάνετε αναζήτηση">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Επαφή…">
 <!ENTITY newContact.accesskey                           "Ε">
@@ -43,6 +45,12 @@
 <!ENTITY showAbToolbarCmd.accesskey                     "ρ">
 <!ENTITY layoutMenu.label                               "Διάταξη">
 <!ENTITY layoutMenu.accesskey                           "Δ">
+<!ENTITY showDirectoryPane.label                        "Προβολή καταλόγων">
+<!ENTITY showDirectoryPane.accesskey                    "κ">
+<!ENTITY showContactPane2.label                         "Προβολή επαφών">
+<!ENTITY showContactPane2.accesskey                     "ε">
+<!ENTITY menu_ShowNameAs.label                          "Εμφάνιση ονόματος ως">
+<!ENTITY menu_ShowNameAs.accesskey                      "ν">
 <!ENTITY firstLastCmd.label                             "Όνομα Επώνυμο">
 <!ENTITY firstLastCmd.accesskey                         "Ό">
 <!ENTITY lastFirstCmd.label                             "Επώνυμο, Όνομα">
@@ -77,10 +85,14 @@
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "Γραμμή ευρετηρίων διευθύνσεων">
+<!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής ευρετηρίου">
 <!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
+<!ENTITY editItemButton.tooltip                         "Επεξεργασία επιλεγμένου στοιχείου">
 <!ENTITY newmsgButton.tooltip                           "Αποστολή μηνύματος email">
+<!ENTITY newIM.tooltip                                  "Αποστολή άμεσου μηνύματος ή συνομιλία">
 <!ENTITY printButton.tooltip                            "Εκτύπωση επιλεγμένου στοιχείου">
 <!ENTITY deleteItemButton.tooltip                       "Διαγραφή επιλεγμένου στοιχείου">
+<!ENTITY advancedButton.tooltip                         "Σύνθετη αναζήτηση διεύθυνσης">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Ευρετήρια διευθύνσεων">
@@ -98,6 +110,7 @@
 <!ENTITY addresses.heading                              "Διευθύνσεις">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Λήψη χάρτη">
+<!ENTITY mapIt.tooltip                                  "Προβολή χάρτη διεύθυνσης από το διαδίκτυο">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label                               "">
