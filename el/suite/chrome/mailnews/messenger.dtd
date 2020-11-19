@@ -99,6 +99,9 @@
 <!ENTITY folderPropsCmd.label "Ιδιότητες…">
 <!ENTITY folderPropsFolderCmd.label "Ιδιότητες φακέλου…">
 <!ENTITY folderPropsNewsgroupCmd.label "Ιδιότητες ομάδας συζήτησης…">
+<!ENTITY folderPropsCmd.accesskey "ο">
+<!ENTITY accountManagerCmd.label "Ρυθμίσεις λογαριασμού email &amp; ομάδων συζήτησης…">
+<!ENTITY accountManagerCmd.accesskey "e">
 <!ENTITY undoDeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
 <!ENTITY redoDeleteMsgCmd.label "Επανάληψη διαγραφής μηνύματος">
 <!ENTITY undoMoveMsgCmd.label "Αναίρεση μετακίνησης μηνύματος">
@@ -177,10 +180,18 @@
 <!ENTITY sortUnthreaded.label "Εκτός νήματος">
 <!ENTITY sortUnthreaded.accesskey "ν">
 <!ENTITY msgsMenu.label "Μηνύματα">
+<!ENTITY msgsMenu.accesskey "Μ">
+<!ENTITY threads.label "Νήματα">
+<!ENTITY threads.accesskey "μ">
 <!ENTITY allMsgsCmd.label "Όλα">
+<!ENTITY allMsgsCmd.accesskey "Ό">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.key "\">
+<!ENTITY ignoredThreadsCmd.label "Αγνοημένα νήματα">
+<!ENTITY ignoredThreadsCmd.accesskey "γ">
 
+<!ENTITY headersMenu.label "Κεφαλίδες">
+<!ENTITY headersMenu.accesskey "φ">
 <!ENTITY headersAllCmd.label "Όλα">
 <!ENTITY headersAllCmd.accesskey "Ό">
 <!ENTITY bodyAllowHTML.label "Αρχικό HTML">
@@ -189,7 +200,11 @@
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Απλό κείμενο">
 <!ENTITY bodyAsPlaintext.accesskey "Α">
+<!ENTITY bodyAllParts.label "Όλα τα μέρη του κυρίως κειμένου">
+<!ENTITY bodyAllParts.accesskey "Ό">
 
+<!ENTITY bodyMenuFeed.label "Κύριο μέρος μηνύματος ροής ως">
+<!ENTITY bodyMenuFeed.accesskey "ω">
 <!ENTITY viewFeedWebPage.label "Ιστοσελίδα">
 <!ENTITY viewFeedWebPage.accesskey "Ι">
 <!ENTITY viewFeedSummary.label "Περίληψη">
@@ -352,10 +367,12 @@
 <!ENTITY markButton.label "Επισήμανση">
 <!ENTITY printButton.label "Εκτύπωση">
 <!ENTITY stopButton.label "Διακοπή">
+<!ENTITY junkButton.label "Ανεπιθύμητο">
 <!ENTITY searchButton.title "Σύνθετη αναζήτηση">
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "Γραμμή μενού">
+<!ENTITY mailToolbar.tooltip "Γραμμή αλληλογραφίας">
 <!ENTITY searchToolbar.tooltip "Γραμμή αναζήτησης">
 <!ENTITY advancedButton.tooltip "Σύνθετη αναζήτηση μηνυμάτων">
 <!ENTITY getMsgButton.tooltip "Λήψη νέων μηνυμάτων">
@@ -428,6 +445,8 @@
 <!ENTITY folderContextGetMessages.accesskey "Λ">
 <!ENTITY folderContextMarkAllFoldersRead.label "Επισήμανση όλων των φακέλων ως αναγνωσμένων">
 <!ENTITY folderContextMarkAllFoldersRead.accesskey "Ε">
+<!ENTITY folderContextOpenNewWindow.label "Άνοιγμα σε νέο παράθυρο email">
+<!ENTITY folderContextOpenNewWindow.accesskey "π">
 <!ENTITY folderContextOpenNewTab.label "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY folderContextOpenNewTab.accesskey "κ">
 <!ENTITY folderContextRename.label "Μετονομασία">
@@ -440,6 +459,12 @@
 <!ENTITY folderContextEmptyTrash.accesskey "δ">
 <!ENTITY folderContextEmptyJunk.label "Άδειασμα ανεπιθύμητων">
 <!ENTITY folderContextEmptyJunk.accesskey "ι">
+<!ENTITY folderContextSendUnsentMessages.label "Αποστολή μη απεσταλμένων μηνυμάτων">
+<!ENTITY folderContextSendUnsentMessages.accesskey "λ">
+<!ENTITY folderContextUnsubscribe.label "Κατάργηση εγγραφής">
+<!ENTITY folderContextUnsubscribe.accesskey "K">
+<!ENTITY folderContextMarkNewsgroupRead.label "Επισήμανση ομάδας συζήτησης ως αναγνωσμένης">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "ζ">
 <!ENTITY folderContextMarkMailFolderRead.label "Επισήμανση φακέλου ως αναγνωσμένου">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "σ">
 <!ENTITY folderContextNew.label "Νέος υποφάκελος…">
