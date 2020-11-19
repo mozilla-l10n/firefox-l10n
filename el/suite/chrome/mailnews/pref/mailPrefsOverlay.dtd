@@ -3,13 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
+<!ENTITY enbPluginCheckMailNews.label     "Αλληλογραφία &amp; ομάδες συζήτησης">
 
 <!-- These are added to the Window menu -->
+<!ENTITY mail.label                       "Αλληλογραφία &amp; ομάδες συζήτησης">
 <!ENTITY addressbook.label                "Ευρετήριο διευθύνσεων">
 <!ENTITY addressbook.accesskey            "Ε">
 
 <!-- These are added to Preferences dialog -->
+<!ENTITY viewingMessages.label            "Προβολή μηνύματος">
 <!ENTITY notifications.label              "Ειδοποιήσεις">
 <!ENTITY composingMessages.label          "Σύνθεση">
+<!ENTITY address.label                    "Διευθυνσιοδότηση">
 <!ENTITY tags.label                       "Ετικέτες">
+<!ENTITY return.label                     "Αποδεικτικά ανάγνωσης">
 <!ENTITY characterEncoding2.label         "Κωδικοποίηση κειμένου">
