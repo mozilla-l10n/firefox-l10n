@@ -55,6 +55,8 @@
 <!ENTITY firstLastCmd.accesskey                         "Ό">
 <!ENTITY lastFirstCmd.label                             "Επώνυμο, Όνομα">
 <!ENTITY lastFirstCmd.accesskey                         "π">
+<!ENTITY displayNameCmd.label                           "Εμφανιζόμενο όνομα">
+<!ENTITY displayNameCmd.accesskey                       "Ε">
 <!-- LOCALIZATION NOTE (toggleDirectoryPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleDirectoryPaneCmd.key                     "S">

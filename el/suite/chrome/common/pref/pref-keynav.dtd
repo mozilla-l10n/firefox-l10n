@@ -3,8 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.keyNav.title "Πλοήγηση με πληκτρολόγιο">
+<!ENTITY tabNavigationBehavior.label "Πλοήγηση με πλήκτρο Tab">
 <!ENTITY tabNavigationLinks.label "Σύνδεσμοι">
 <!ENTITY tabNavigationLinks.accesskey "Σ">
 <!ENTITY accessibilityBrowseWithCaret.label "Περιήγηση με κέρσορα">
 <!ENTITY browseWithCaretUse.label "Χρήση περιήγησης με κέρσορα">
 <!ENTITY browseWithCaretUse.accesskey "Χ">
+<!ENTITY browseWithCaretShortCut.label "Χρήση της συντόμευσης F7 για εναλλαγή περιήγησης με κέρσορα">
+<!ENTITY browseWithCaretShortCut.accesskey "F">
+<!ENTITY browseWithCaretWarn.label "Προειδοποίηση πριν την ενεργοποίηση περιήγησης με κέρσορα">
+<!ENTITY browseWithCaretWarn.accesskey "Π">
