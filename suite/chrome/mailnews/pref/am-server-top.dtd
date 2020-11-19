@@ -29,6 +29,10 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Μέθοδος ταυτοποίησης:">
 <!ENTITY authMethod.accesskey "θ">
+<!ENTITY leaveOnServer.label "Φύλαξη μηνυμάτων στον διακομιστή">
+<!ENTITY leaveOnServer.accesskey "ξ">
+<!ENTITY headersOnly.label "Λήψη κεφαλίδων μόνο">
+<!ENTITY headersOnly.accesskey "ψ">
 <!ENTITY deleteByAgeFromServer.label "Για το πολύ">
 <!ENTITY deleteByAgeFromServer.accesskey "ο">
 <!ENTITY daysEnd.label "ημέρες">
@@ -65,5 +69,6 @@
 <!ENTITY browseNewsrc.accesskey "ρ">
 
 <!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
+<!ENTITY accountSettingsDesc.label "Ο ακόλουθος λογαριασμός είναι ειδικός. Δεν υπάρχουν ταυτότητες που να σχετίζονται με αυτόν.">
 <!ENTITY mboxStore2.label "Αρχείο ανά φάκελο (mbox)">
 <!ENTITY maildirStore.label "Αρχείο ανά μήνυμα (maildir)">
