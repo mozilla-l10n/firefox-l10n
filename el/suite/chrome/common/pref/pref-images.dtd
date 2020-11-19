@@ -10,8 +10,13 @@
     Place "&brandShortName;" in the phrase where the name of the application should
     appear
 -->
+<!ENTITY imageDetails                   "Ορίστε τον τρόπο διαχείρισης εικόνων στο &brandShortName;.">
 
 <!ENTITY loadAllImagesRadio.label       "Φόρτωση όλων των εικόνων">
 <!ENTITY loadAllImagesRadio.accesskey   "Φ">
+<!ENTITY loadOrgImagesRadio.label       "Φόρτωση μόνο των εικόνων που προέρχονται από τον διακομιστή προέλευσης">
+<!ENTITY loadOrgImagesRadio.accesskey   "ρ">
+<!ENTITY loadNoImagesRadio.label        "Να μην γίνεται φόρτωση εικόνων">
+<!ENTITY loadNoImagesRadio.accesskey    "Ν">
 <!ENTITY viewPermissions.label          "Διαχείριση δικαιωμάτων">
 <!ENTITY viewPermissions.accesskey      "Δ">
