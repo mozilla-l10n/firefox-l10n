@@ -12,10 +12,15 @@
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Ενεργοποίηση JavaScript για">
+<!ENTITY allowWindowMoveResize.label     "Μετακίνηση ή αλλαγή μεγέθους υπαρχόντων παραθύρων">
 <!ENTITY allowWindowStatusChange.label   "Αλλαγή κειμένου γραμμής κατάστασης">
+<!ENTITY allowContextmenuDisable.label   "Απενεργοποίηση ή αντικατάσταση μενού επιλογών">
 <!ENTITY allowHideStatusBar.label        "Απόκρυψη γραμμής κατάστασης">
 
 <!ENTITY enablePlugins.label             "Ενεργοποίηση αρθρωμάτων για">
 <!ENTITY enablePluginForSuite.label      "Σουίτα">
 <!ENTITY enablePluginForSuite.accesskey  "υ">
 
+<!ENTITY whenPageRequiresPlugins.label   "Όταν μια σελίδα απαιτεί αρθρώματα">
+<!ENTITY activateAllPlugins.label        "Ενεργοποίηση όλων των αρθρωμάτων από προεπιλογή">
+<!ENTITY activateAllPlugins.accesskey    "π">
