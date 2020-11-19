@@ -83,6 +83,8 @@ left instead of right. -->
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
 <!ENTITY bookmarksMenu.accesskey "Σ">
+<!ENTITY addCurPageCmd.label "Προσθήκη σελιδοδείκτη σελίδας">
+<!ENTITY addCurPageCmd.accesskey "σ">
 <!ENTITY addCurPageAsCmd.commandkey "d">
 <!ENTITY manBookmarksCmd.label "Διαχείριση σελιδοδεικτών…">
 <!ENTITY manBookmarksCmd.accesskey "Δ">
