@@ -11,3 +11,5 @@
 
 <!ENTITY animLoopOnce.label             "Μία φορά">
 <!ENTITY animLoopOnce.accesskey         "Μ">
+<!ENTITY animLoopNever.label            "Ποτέ">
+<!ENTITY animLoopNever.accesskey        "τ">
