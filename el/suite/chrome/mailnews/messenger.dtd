@@ -99,7 +99,7 @@
 <!ENTITY folderPropsCmd.label "Ιδιότητες…">
 <!ENTITY folderPropsFolderCmd.label "Ιδιότητες φακέλου…">
 <!ENTITY folderPropsNewsgroupCmd.label "Ιδιότητες ομάδας συζήτησης…">
-<!ENTITY folderPropsCmd.accesskey "ο">
+<!ENTITY folderPropsCmd.accesskey "ό">
 <!ENTITY accountManagerCmd.label "Ρυθμίσεις λογαριασμού email &amp; ομάδων συζήτησης…">
 <!ENTITY accountManagerCmd.accesskey "e">
 <!ENTITY undoDeleteMsgCmd.label "Αναίρεση διαγραφής μηνύματος">
@@ -462,7 +462,7 @@
 <!ENTITY folderContextSendUnsentMessages.label "Αποστολή μη απεσταλμένων μηνυμάτων">
 <!ENTITY folderContextSendUnsentMessages.accesskey "λ">
 <!ENTITY folderContextUnsubscribe.label "Κατάργηση εγγραφής">
-<!ENTITY folderContextUnsubscribe.accesskey "K">
+<!ENTITY folderContextUnsubscribe.accesskey "Κ">
 <!ENTITY folderContextMarkNewsgroupRead.label "Επισήμανση ομάδας συζήτησης ως αναγνωσμένης">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "ζ">
 <!ENTITY folderContextMarkMailFolderRead.label "Επισήμανση φακέλου ως αναγνωσμένου">
