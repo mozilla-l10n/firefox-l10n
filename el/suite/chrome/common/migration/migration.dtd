@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY migrationWizard.title           "Βοηθός εισαγωγής">
 
+<!ENTITY importAllFrom.label             "Εισαγωγή όλων των στοιχείων από:">
 <!ENTITY importBookmarksFrom.label       "Εισαγωγή σελιδοδεικτών από:">
 
 <!ENTITY importFromThunderbird.label     "Thunderbird">
@@ -17,7 +19,10 @@
 <!ENTITY importItems.label               "Επιλέξτε στοιχεία προς εισαγωγή:">
 
 <!ENTITY selectProfile.title             "Επιλογή προφίλ">
+<!ENTITY selectProfile.label             "Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:">
 
 <!ENTITY migrating.title                 "Εισαγωγή…">
+<!ENTITY migrating.label                 "Γίνεται εισαγωγή των εξής στοιχείων αυτή τη στιγμή…">
 
 <!ENTITY done.title                      "Η εισαγωγή ολοκληρώθηκε">
+<!ENTITY done.label                      "Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:">
