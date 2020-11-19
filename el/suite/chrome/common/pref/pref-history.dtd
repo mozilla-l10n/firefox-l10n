@@ -12,6 +12,8 @@
 <!ENTITY  locationBarHistory.caption        "Ιστορικό γραμμής διευθύνσεων">
 <!ENTITY  urlBarHistoryEnabled.caption      "Ενεργοποίηση ιστορικού γραμμής διευθύνσεων">
 <!ENTITY  urlBarHistoryEnabled.accesskey    "Ε">
+<!ENTITY  clearLocationBarButton.label      "Απαλοιφή γραμμής διευθύνσεων">
+<!ENTITY  clearLocationBarButton.accesskey  "δ">
 <!ENTITY  formfillHistory.caption           "Ιστορικό αναζήτησης και φορμών">
 <!ENTITY  enableFormfill.label              "Ενεργοποίηση ιστορικού φορμών και αναζήτησης">
 <!ENTITY  enableFormfill.accesskey          "ν">
