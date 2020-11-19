@@ -10,6 +10,8 @@
 <!ENTITY systemPrefCheck.accesskey        "Χ">
 
 <!ENTITY prefCheckDefault.caption         "Ενσωμάτωση συστήματος">
+<!ENTITY prefCheckDefaultClient.label     "Έλεγχος ρυθμίσεων προεπιλεγμένης εφαρμογής κατά την εκκίνησης">
+<!ENTITY prefCheckDefaultClient.accesskey "Έ">
 
 <!ENTITY crashReports.caption             "Αναφορά καταρρεύσεων">
 <!ENTITY submitCrashes.label              "Υποβολή αναφορών κατάρρευσης">
