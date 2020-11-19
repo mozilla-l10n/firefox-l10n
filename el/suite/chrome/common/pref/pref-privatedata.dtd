@@ -10,7 +10,11 @@
 
 <!ENTITY clearPrivateData.label           "Διαγραφή ιδιωτικών δεδομένων">
 
+<!ENTITY alwaysClear.label                "Να γίνεται πάντα διαγραφή των ιδιωτικών δεδομένων μου όταν κλείνω το &brandShortName;">
+<!ENTITY alwaysClear.accesskey            "λ">
 
+<!ENTITY askBeforeClear.label             "Ερώτηση πριν την απαλοιφή ιδιωτικών δεδομένων">
+<!ENTITY askBeforeClear.accesskey         "ρ">
 
 
 <!--LOCALIZATION NOTE (clearDataDialog.label, clearDataSilent.label, clearDataDialog.accesskey):
