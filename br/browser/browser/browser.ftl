@@ -305,6 +305,7 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Gweredekait ar mod HTTPS-hepken evit al lec’hienn-mañ ma fell deoc’h vefe hizivaet ar c‘hennask gant { -brand-short-name } p'eo posupl.
 identity-permissions =
     .value = Aotreoù
+identity-permissions-storage-access-header = Toupinoù etrelec'hienn
 identity-permissions-reload-hint = Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.
 identity-permissions-empty = N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.
 identity-clear-site-data =
