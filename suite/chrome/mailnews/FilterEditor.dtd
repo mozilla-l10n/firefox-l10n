@@ -31,6 +31,7 @@
 <!ENTITY filterActionDesc.label "Εκτέλεση των εξής ενεργειών:">
 <!ENTITY filterActionDesc.accesskey "Ε">
 
+<!ENTITY filterActionOrderWarning.label "Σημείωση: Οι ενέργειες φίλτρων θα εκτελούνται με διαφορετική σειρά.">
 <!ENTITY filterActionOrder.label "Προβολή σειράς εκτέλεσης">
 
 <!-- New Style Filter Rule Actions -->
@@ -46,8 +47,12 @@
 <!ENTITY deleteFromPOP.label "Διαγραφή από διακομιστή POP">
 <!ENTITY fetchFromPOP.label "Λήψη από διακομιστή POP">
 <!ENTITY ignoreThread.label "Παράβλεψη νήματος">
+<!ENTITY ignoreSubthread.label "Παράβλεψη υπονήματος">
 <!ENTITY watchThread.label "Παρακολούθηση νήματος">
+<!ENTITY stopExecution.label "Διακοπή εκτέλεσης φίλτρου">
 
+<!ENTITY addAction.tooltip "Προσθήκη νέας ενέργειας">
+<!ENTITY removeAction.tooltip "Αφαίρεση ενέργειας">
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
      Change the values only when the localized strings in the popup menus
