@@ -17,8 +17,12 @@
 <!ENTITY underlineLinks.label              "Υπογράμμιση συνδέσμων">
 <!ENTITY underlineLinks.accesskey          "Υ">
 <!ENTITY links                             "Χρώματα συνδέσμων">
+<!ENTITY linkColor.label                   "Σύνδεσμοι που δεν έχετε επισκεφθεί:">
+<!ENTITY linkColor.accesskey               "Σ">
 <!ENTITY activeLinkColor.label             "Ενεργοί σύνδεσμοι:">
 <!ENTITY activeLinkColor.accesskey         "ρ">
+<!ENTITY visitedLinkColor.label            "Σύνδεσμοι που έχετε επισκεφθεί:">
+<!ENTITY visitedLinkColor.accesskey        "ε">
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors                    "Όταν μια ιστοσελίδα παρέχει τα δικά της χρώματα και φόντο">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
