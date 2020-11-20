@@ -202,6 +202,14 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [few] { $count } přizjewjenja ze wšěch gratow wotstronić?
        *[other] { $count } přizjewjenjow ze wšěch gratow wotstronić?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } na wšěch gratow składował a kotrež je z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanje wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [one] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } na wšěch gratow składował a kotrež je z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanje wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [two] To přizjewjeni wotstroni, kotrejž sće w { -brand-short-name } na wšěch gratow składował a kotrejž stej z wašim kontom { -fxaccount-brand-name } synchronizowanej. To tež warnowanje wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratow składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanje wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+       *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratow składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanje wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+    }
 about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
 about-logins-confirm-export-dialog-message = Waše hesła budu so jako čitajomny tekst składować (na př. BadP@ass0rd), tohodla móže kóždy, kotryž móže eksportowanu dataju wočinić, je widźeć.
 about-logins-confirm-export-dialog-confirm-button = Eksportować…
