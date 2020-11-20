@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = ייבוא מדפדפן אחר…
 about-logins-menu-menuitem-import-from-a-file = ייבוא מקובץ…
 about-logins-menu-menuitem-export-logins = ייצוא כניסות…
+about-logins-menu-menuitem-remove-all-logins = הסרת כל הכניסות…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] אפשרויות
@@ -165,6 +166,18 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
+about-logins-confirm-remove-all-dialog-confirm-button = הסרת הכל
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] כן, להסיר כניסה זו
+        [one] כן, להסיר כניסה זו
+       *[other] כן, להסיר כניסות אלו
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] להסיר כניסה אחת?
+       *[other] להסיר את כל { $count } הכניסות?
+    }
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
 about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
 about-logins-confirm-export-dialog-confirm-button = ייצוא…
