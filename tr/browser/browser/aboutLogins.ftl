@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Başka bir tarayıcıdan içe aktar…
 about-logins-menu-menuitem-import-from-a-file = Dosyadan içe aktar…
 about-logins-menu-menuitem-export-logins = Hesapları dışa aktar…
+about-logins-menu-menuitem-remove-all-logins = Tüm hesapları kaldır…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Seçenekler
@@ -168,6 +169,35 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
+about-logins-confirm-remove-all-dialog-confirm-button = Tümünü kaldır
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Evet, bu hesabı kaldır
+        [one] Evet, bu hesabı kaldır
+       *[other] Evet, bu hesapları kaldır
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } hesap kaldırılsın mı?
+       *[other] { $count } hesap kaldırılsın mı?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesapları ve burada görünen ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } hesap hepsi tüm cihazlardan kaldırılsın mı?
+       *[other] { $count } hesabın hepsi tüm cihazlardan kaldırılsın mı?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesapları { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
+    }
 about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa aktarma
 about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
 about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
