@@ -180,10 +180,20 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Fjern { $count } innlogging?
        *[other] Fjern alle { $count } innlogginger?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Dette fjerner innloggingen du har lagret i { -brand-short-name } og eventuelle varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
+       *[other] Dette fjerner innloggingene du har lagret i { -brand-short-name } og eventuelle varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Fjern { $count } innlogging fra alle enhetene?
        *[other] Fjern alle { $count } innlogginger fra alle enhetene?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Dette fjerner innloggingen du har lagret i { -brand-short-name } på alle enheter som er synkronisert med { -fxaccount-brand-name }. Dette vil også fjerne varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
+       *[other] Dette fjerner alle innlogginger du har lagret i { -brand-short-name } på alle enheter som er synkronisert med { -fxaccount-brand-name }. Dette vil også fjerne varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
     }
 about-logins-confirm-export-dialog-title = Eksporter innlogginger og passord
 about-logins-confirm-export-dialog-message = Passordene dine blir lagret som lesbar tekst (f.eks. DårligP@ss0rd), slik at alle som kan åpne den eksporterte filen kan se dem.
