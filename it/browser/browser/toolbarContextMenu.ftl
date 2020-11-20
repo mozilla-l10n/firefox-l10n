@@ -64,3 +64,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Solo nella pagina Nuova scheda
     .accesskey = o
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Mostra Altri segnalibri
+    .accesskey = A
