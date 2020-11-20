@@ -21,7 +21,7 @@ cfr-doorhanger-pintab-ok-button = Zakači ovu karticu
     .accesskey = Z
 cfr-doorhanger-extension-manage-settings-button = Upravljaj postavkama preporuka
     .accesskey = U
-cfr-doorhanger-extension-never-show-recommendation = Ne pokazuj mi ovu preporuku
+cfr-doorhanger-extension-never-show-recommendation = Ne prikazuj ovu preporuku
     .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Saznaj više
 # This string is used on a new line below the add-on name
