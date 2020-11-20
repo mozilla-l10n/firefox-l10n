@@ -29,7 +29,7 @@ policy-DisableBuiltinPDFViewer = השבתת PDF.js, מציג ה־PDF המובנ�
 policy-DisableDefaultBrowserAgent = למנוע מסוכן הדפדפן ברירת המחדל מלבצע פעולות כלשהן. תקף ל־Windows בלבד; בסביבות אחרות אין את הסוכן הזה.
 policy-DisableDeveloperTools = חסימת גישה לכלי הפיתוח.
 policy-DisableFeedbackCommands = השבתת פקודות לשליחת משוב מתפריט העזרה (שליחת משוב ודיווח על אתר מטעה).
-policy-DisableFirefoxAccounts = השבתת שירותים מבוססי { -fxaccount-brand-name }, לרבות Sync.
+policy-DisableFirefoxAccounts = השבתת שירותים מבוססי { -fxaccount-brand-name(case: "a") }, לרבות Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = השבתת התכונה Firefox Screenshots.
 policy-DisableFirefoxStudies = למנוע מ־{ -brand-short-name } להריץ מחקרים.
@@ -77,8 +77,8 @@ policy-LegacyProfiles = השבתת התכונה האוכפת פרופיל נפר
 ##
 
 policy-LocalFileLinks = לאפשר לאתרים מסויימים לקשר לקבצים מקומיים.
-policy-MasterPassword = לדרוש או למנוע שימוש בססמה ראשית.
 policy-ManagedBookmarks = הגדרת רשימה של סימניות המנוהלת על־ידי מנהל מערכת ושאינה ניתנת לשינוי על־ידי המשתמש.
+policy-MasterPassword = לדרוש או למנוע שימוש בססמה ראשית.
 policy-PrimaryPassword = לדרוש או למנוע שימוש בססמה ראשית.
 policy-NetworkPrediction = הפעלה או השבתה של חיזוי רשתי (אחזור מוקדם באמצעות DNS).
 policy-NewTabPage = הפעלה או השבתה של דף הלשונית החדשה.
