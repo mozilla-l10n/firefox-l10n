@@ -44,7 +44,7 @@
 <!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u priručnoj memoriji &brandShortName;a.</p><ul><li>. Iz sigurnosnih razloga, &brandShortName; neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Pritisni gumb „Pokušaj ponovo” za ponovno traženje dokumenta s web-stranice.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<ul>
-  <li>Kliknite na &quot;Pokušaj ponovo&quot; da biste uključili mrežni način rada i ponovo učitali stranicu.</li>
+  <li>Klikni na &quot;Pokušaj ponovo&quot; za uključivanje mrežnog načina rada i ponovno učitavanje stranice.</li>
 </ul>">
 
 <!ENTITY contentEncodingError.longDesc "<ul>

@@ -15,14 +15,11 @@ config-about-warning-button =
     .label = Prihvaćam rizik!
 config-about-warning-checkbox =
     .label = Prikaži ovo upozorenje sljedeći put
-
 config-search-prefs =
     .value = Traži:
     .accesskey = r
-
 config-focus-search =
     .key = r
-
 config-focus-search-2 =
     .key = f
 
@@ -42,7 +39,7 @@ config-value-column =
 config-pref-column-header =
     .tooltip = Pritisni za poredak
 config-column-chooser =
-    .tooltip = Kliknite za odabir stupaca koji će biti prikazani
+    .tooltip = Klikni za odabir stupaca koji će biti prikazani
 
 ## These strings are used for the context menu
 
@@ -50,60 +47,45 @@ config-copy-pref =
     .key = C
     .label = Kopiraj
     .accesskey = K
-
 config-copy-name =
     .label = Kopiraj ime
     .accesskey = K
-
 config-copy-value =
     .label = Kopiraj vrijednost
     .accesskey = v
-
 config-modify =
     .label = Izmijeni
     .accesskey = I
-
 config-toggle =
     .label = Prekidač
     .accesskey = P
-
 config-reset =
     .label = Poništi
     .accesskey = P
-
 config-new =
     .label = Novi
     .accesskey = N
-
 config-string =
     .label = Izraz
     .accesskey = I
-
 config-integer =
     .label = Cijeli broj
     .accesskey = b
-
 config-boolean =
     .label = Boolean
     .accesskey = B
-
 config-default = standardno
 config-modified = izmjenjeno
 config-locked = zaključano
-
 config-property-string = izraz
 config-property-int = cijeli broj
 config-property-bool = boolean
-
 config-new-prompt = Upiši ime postavke
-
 config-nan-title = Neispravna vrijednost
 config-nan-text = Unešeni tekst nije broj.
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nova { $type } vrijednost
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Upišite vrijednost { $type }

@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = Postavite početnu stranicu
+    .title = Postavi početnu stranicu
     .style = width: 32em;
-
 select-bookmark-desc = Odaberi zabilješku za tvoju početnu stranicu. Ako odabereš mapu, u karticama će se otvoriti zabilješke iz te mape.
