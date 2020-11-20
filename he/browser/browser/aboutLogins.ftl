@@ -189,6 +189,12 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] להסיר כניסה אחת מכל המכשירים?
        *[other] להסיר את כל { $count } הכניסות מכל המכשירים?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
+        [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמו{ -fxaccount-brand-name }פיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
+       *[other] פעולה זו תסיר את כל הכניסות ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
+    }
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
 about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
 about-logins-confirm-export-dialog-confirm-button = ייצוא…
