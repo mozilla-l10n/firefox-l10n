@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από άλλο φυλλομετρητή…
 about-logins-menu-menuitem-import-from-a-file = Εισαγωγή από αρχείο…
 about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
+about-logins-menu-menuitem-remove-all-logins = Αφαίρεση όλων των συνδέσεων…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Επιλογές
@@ -168,6 +169,17 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Αφαίρεση αυτής της σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
+about-logins-confirm-remove-all-dialog-confirm-button = Αφαίρεση όλων
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ναι, αφαίρεση σύνδεσης
+       *[other] Ναι, αφαίρεση συνδέσεων
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Αφαίρεση { $count } σύνδεσης από όλες τις συσκευές;
+       *[other] Αφαίρεση και των { $count } συνδέσεων από όλες τις συσκευές;
+    }
 about-logins-confirm-export-dialog-title = Εξαγωγή συνδέσεων και κωδικών πρόσβασης
 about-logins-confirm-export-dialog-message = Οι κωδικοί πρόσβασής σας θα αποθηκευτούν ως αναγνώσιμο κείμενο (π.χ. BadP@ssw0rd), επομένως όποιος ανοίξει το αρχείο θα μπορέσει να τους δει.
 about-logins-confirm-export-dialog-confirm-button = Εξαγωγή…
