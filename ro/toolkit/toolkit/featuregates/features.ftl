@@ -29,7 +29,7 @@ experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
-experimental-features-web-api-link-preload-description = Atributul <a data-l10n-name="rel">rel</a>cu o valoare <code>„preload”</code> pe un element <a data-l10n-name="link">&lt;link&gt;</a> are menirea să ajute la îmbunătățirea performanței prin faptul că permite descărcarea resurselor mai devreme în ciclul de viață al paginii, asigurând disponibilitatea lor mai timpurie și reducând posibilitatea de blocare a redării paginii. Citește <a data-l10n-name="readmore">„Preîncărcarea conținutului cu <code>rel="preload"</code>”</a> sau vezi <a data-l10n-name="bugzilla">bug 1583604</a> pentru mai multe detalii.
+experimental-features-web-api-link-preload-description = Atributul <a data-l10n-name="rel">rel</a> cu o valoare <code>„preload”</code> pe un element <a data-l10n-name="link">&lt;link&gt;</a> are menirea să ajute la îmbunătățirea performanței prin faptul că permite descărcarea resurselor mai devreme în ciclul de viață al paginii, asigurând disponibilitatea lor mai timpurie și reducând posibilitatea de blocare a redării paginii. Citește <a data-l10n-name="readmore">„Preîncărcarea conținutului cu <code>rel="preload"</code>”</a> sau vezi <a data-l10n-name="bugzilla">bug 1583604</a> pentru mai multe detalii.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = Evenimentul global <a da
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Adiția unui constructor la interfața <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, precum și varietatea de modificări aferente face posibilă crearea directă a unor fișe de stiluri noi fără a mai fi necesară adăugarea lor în HTML. Aceasta ușurează foarte mult crearea de fișe de stiluri reutilizabile de folosit cu <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Vezi <a data-l10n-name="bugzilla">bug 1520690</a> pentru mai multe detalii.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = Toată implementarea Media Session API din { -brand-short-name } este acum experimentală. Acest API este folosit la personalizarea gestionării notificărilor legate de multimedia, la gestionarea evenimentelor și datelor utile pentru prezentarea unei interfețe pentru utilizatori pentru gestionarea redării materialelor multimedia și pentru a obține metadatele fișierelor multimedia. Vezi <a data-l10n-name="bugzilla">bug 1112032</a> pentru mai multe detalii.
 experimental-features-devtools-color-scheme-simulation =
     .label = Unelte de dezvoltare: Simularea paletei de culori
 experimental-features-devtools-color-scheme-simulation-description = Adaugă o opțiune pentru a simula diferite palete de culori, permițând testarea interogărilor multimedia cu <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. Utilizarea acestei interogări de medii permite fișei de stiluri să răspundă dacă utilizatorul preferă o interfață luminoasă sau întunecată. Această funcționalitate permite testarea de coduri fără nevoia de a schimba setările din browser (sau sistemul de operare dacă browserul urmează o setare a schemei de culori aplicată la nivelul întregului sistem). Vezi <a data-l10n-name="bugzilla1">bug 1550804</a> și <a data-l10n-name="bugzilla2">bug 1137699</a> pentru mai multe detalii.
@@ -87,7 +82,3 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Unelte de dezvoltare: Depanarea scripturilor service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activează un suport experimental pentru scripturi service worker în panoul Depanatorului. Această funcționalitate poate încetini Uneltele de dezvoltare și poate crește consumul de memorie.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafică: zoom lin prin gesturi tactile
-experimental-features-graphics-desktop-zooming-description = Activează suportul pentru zoom lin prin gesturi tactile pe ecrane tactile și zone tactile de precizie de pe laptopuri.
