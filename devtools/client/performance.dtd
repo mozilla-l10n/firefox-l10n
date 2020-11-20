@@ -56,7 +56,7 @@
 <!ENTITY performanceUI.table.selfPercentage           "Vlastiti trošak">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Postatak vremena provedenog samo u ovoj funkciji.">
 <!ENTITY performanceUI.table.samples                  "Uzorci">
-<!ENTITY performanceUI.table.samples.tooltip          "Broj puta koliko je ova funkcija bila u stacku kada je profiler uzeo uzorak.">
+<!ENTITY performanceUI.table.samples.tooltip          "Broj puta koliko je ova funkcija bila u stacku kad je profiler uzeo uzorak.">
 <!ENTITY performanceUI.table.function                 "Funkcija">
 <!ENTITY performanceUI.table.function.tooltip         "Naziv i izvorna lokacija funkcije iz uzorka.">
 <!ENTITY performanceUI.table.totalAlloc               "Ukupne uzorkovane alokacije">

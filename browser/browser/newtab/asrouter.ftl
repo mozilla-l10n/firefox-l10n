@@ -235,7 +235,7 @@ cfr-whatsnew-passwords-icon-alt = Ikona ranjive lozinke
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Prebacite sliku-u-slici na puni zaslon
-cfr-whatsnew-pip-fullscreen-body = Kada prebacite video u mali plutajući prozor, sada možete dvostrukim klikom povećati taj video na cijeli zaslon.
+cfr-whatsnew-pip-fullscreen-body = Kad se video otvori u plutajućem prozoru, dvostrukim klikom na prozor aktivira se cjeloekranski prikaz.
 cfr-whatsnew-pip-fullscreen-icon-alt = Ikona slike-u-slici
 
 ## Protections Dashboard message
@@ -277,5 +277,5 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustracija blokiranog kolačića
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Više medijskih kontrola
-cfr-whatsnew-media-keys-body = Reproduciraj i pauziraj zvuk ili video izravno s tipkovnicom ili slušalicama, što olakšava upravljanje medijima iz druge kartice, programa ili čak kada je računalo zaključano. Možeš se i kretati između pjesama pomoću tipki naprijed i natrag.
+cfr-whatsnew-media-keys-body = Reproduciraj i pauziraj zvuk ili video izravno s tipkovnicom ili slušalicama, što olakšava upravljanje medijima iz druge kartice, programa ili čak kad je računalo zaključano. Možeš se i kretati između pjesama pomoću tipki naprijed i natrag.
 cfr-whatsnew-media-keys-button = Saznaj kako
