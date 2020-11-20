@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = 다른 브라우저에서 가져오기…
 about-logins-menu-menuitem-import-from-a-file = 파일에서 가져오기…
 about-logins-menu-menuitem-export-logins = 로그인 내보내기…
+about-logins-menu-menuitem-remove-all-logins = 모든 로그인 삭제…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 설정
@@ -167,6 +168,16 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
+about-logins-confirm-remove-all-dialog-confirm-button = 모두 삭제
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] 예, 이 로그인을 삭제합니다
+       *[other] 예, 이 로그인들을 삭제합니다
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+       *[other] { $count }개의 로그인을 삭제하시겠습니까?
+    }
 about-logins-confirm-export-dialog-title = 로그인과 비밀번호 내보내기
 about-logins-confirm-export-dialog-message = 비밀번호는 읽을 수 있는 텍스트 (예: BadP@ssw0rd)로 저장되므로, 내보낸 파일을 열 수 있는 사람은 누구나 볼 수 있습니다.
 about-logins-confirm-export-dialog-confirm-button = 내보내기…
