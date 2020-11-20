@@ -351,6 +351,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Importar marcapaginas…
     .tooltiptext = Importar dins { -brand-short-name } los marcapaginas a partir d’un autre navegador.
+bookmarks-toolbar-empty-message = Per un accès rapid, plaçatz los marcapaginas aquí, a la barra personala. <a data-l10n-name="manage-bookmarks">Gerir los marcapaginas…</a>
 
 ## WebRTC Pop-up notifications
 
