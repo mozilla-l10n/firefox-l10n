@@ -181,10 +181,22 @@ about-logins-confirm-remove-all-dialog-title =
         [one] { $count } Zugangsdaten entfernen?
        *[other] Alle { $count } Zugangsdaten entfernen?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Dadurch werden die Zugangsdaten, die Sie in { -brand-short-name } gespeichert haben, und alle Warnungen zu Datenlecks, die hier angezeigt werden, entfernt. Sie können diese Aktion nicht rückgängig machen.
+        [one] Dadurch werden die Zugangsdaten, die Sie in { -brand-short-name } gespeichert haben, und alle Warnungen zu Datenlecks, die hier angezeigt werden, entfernt. Sie können diese Aktion nicht rückgängig machen.
+       *[other] Dadurch werden die Zugangsdaten, die Sie in { -brand-short-name } gespeichert haben, und alle Warnungen zu Datenlecks, die hier angezeigt werden, entfernt. Sie können diese Aktion nicht rückgängig machen.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } Zugangsdaten von allen Geräten entfernen?
        *[other] Alle { $count } Zugangsdaten von allen Geräten entfernen?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
+        [one] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
+       *[other] Dadurch werden alle Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
     }
 about-logins-confirm-export-dialog-title = Zugangsdaten und Passwörter exportieren
 about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z.B. P@ssw0rt). Dadurch hat jede Person, welche die exportierte Datei öffnen kann, Zugriff auf das unverschlüsselte Passwort.
