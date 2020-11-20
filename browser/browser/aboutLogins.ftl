@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = 从其他浏览器导入…
 about-logins-menu-menuitem-import-from-a-file = 从文件导入…
 about-logins-menu-menuitem-export-logins = 导出登录信息…
+about-logins-menu-menuitem-remove-all-logins = 移除所有登录信息…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 选项
@@ -167,6 +168,21 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 about-logins-confirm-remove-dialog-confirm-button = 移除
+about-logins-confirm-remove-all-dialog-confirm-button = 移除全部
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] 是的，移除此登录信息
+       *[other] 是的，移除这些登录信息
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] 要移除 { $count } 条登录信息吗？
+       *[other] 要移除全部共 { $count } 条登录信息吗？
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] 要从所有设备移除 { $count } 条登录信息吗？
+    }
 about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
 about-logins-confirm-export-dialog-confirm-button = 导出…
