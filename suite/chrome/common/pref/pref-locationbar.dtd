@@ -18,6 +18,7 @@
 -->
 <!ENTITY autoCompleteMatch.label               "Αντιστοίχιση">
 <!ENTITY autoCompleteMatch.accesskey           "Α">
+<!ENTITY autoCompleteMatchAnywhere             "Οπουδήποτε στη διεύθυνση ή τον τίτλο">
 <!ENTITY autoCompleteMatchStart                "Μόνο στην αρχή της διεύθυνσης ή του τίτλου">
 
 <!ENTITY formatting.label                      "Μορφοποίηση">
@@ -25,3 +26,5 @@
 <!ENTITY unknownLocations.label                "Άγνωστες διευθύνσεις">
 <!ENTITY domainGuessing.label                  "Προσθέστε &quot;www.&quot; και &quot;.com&quot; στη διεύθυνση αν δεν βρεθεί η ιστοσελίδα">
 <!ENTITY domainGuessing.accesskey              "ι">
+<!ENTITY keywords.label                        "Εκτέλεση αναζήτησης στον ιστό όταν το εισαγόμενο κείμενο δεν είναι διεύθυνση ιστού">
+<!ENTITY keywords.accesskey                    "Ε">
