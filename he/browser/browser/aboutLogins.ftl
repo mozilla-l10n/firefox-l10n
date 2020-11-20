@@ -178,6 +178,17 @@ about-logins-confirm-remove-all-dialog-title =
         [one] להסיר כניסה אחת?
        *[other] להסיר את כל { $count } הכניסות?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } ואת כל ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
+        [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } ואת כל ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
+       *[other] פעולה זו תסיר את הכניסות ששמרת ב־{ -brand-short-name } ואת כל ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] להסיר כניסה אחת מכל המכשירים?
+       *[other] להסיר את כל { $count } הכניסות מכל המכשירים?
+    }
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
 about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
 about-logins-confirm-export-dialog-confirm-button = ייצוא…
