@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importeren vanuit een andere browser…
 about-logins-menu-menuitem-import-from-a-file = Uit een bestand importeren…
 about-logins-menu-menuitem-export-logins = Aanmeldingen exporteren…
+about-logins-menu-menuitem-remove-all-logins = Alle aanmeldingen verwijderen…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opties
@@ -168,6 +169,18 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
+about-logins-confirm-remove-all-dialog-confirm-button = Alle verwijderen
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ja, deze aanmelding verwijderen
+        [one] Ja, deze aanmelding verwijderen
+       *[other] Ja, deze aanmeldingen verwijderen
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } aanmelding verwijderen?
+       *[other] Alle { $count } aanmeldingen verwijderen?
+    }
 about-logins-confirm-export-dialog-title = Aanmeldingen en wachtwoorden exporteren
 about-logins-confirm-export-dialog-message = Uw wachtwoorden worden opgeslagen als leesbare tekst (bijvoorbeeld BadP@ssw0rd), dus iedereen die het geëxporteerde bestand kan openen, kan ze bekijken.
 about-logins-confirm-export-dialog-confirm-button = Exporteren…
