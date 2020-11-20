@@ -181,6 +181,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] { $count } aanmelding verwijderen?
        *[other] Alle { $count } aanmeldingen verwijderen?
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } aanmelding van alle apparaten verwijderen?
+       *[other] Alle { $count } aanmeldingen van alle apparaten verwijderen?
+    }
 about-logins-confirm-export-dialog-title = Aanmeldingen en wachtwoorden exporteren
 about-logins-confirm-export-dialog-message = Uw wachtwoorden worden opgeslagen als leesbare tekst (bijvoorbeeld BadP@ssw0rd), dus iedereen die het geëxporteerde bestand kan openen, kan ze bekijken.
 about-logins-confirm-export-dialog-confirm-button = Exporteren…
