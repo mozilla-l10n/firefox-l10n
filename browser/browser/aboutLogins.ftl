@@ -179,9 +179,17 @@ about-logins-confirm-remove-all-dialog-title =
         [one] 要移除 { $count } 条登录信息吗？
        *[other] 要移除全部共 { $count } 条登录信息吗？
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+       *[other] 将移除您存放在 { -brand-short-name } 的登录信息，以及在此显示的任何数据外泄警报。此操作不可撤销。
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] 要从所有设备移除 { $count } 条登录信息吗？
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+       *[other] 将在您所有与 { -fxaccount-brand-name }同步的设备上，移除存放在 { -brand-short-name } 的登录信息，以及在此显示的任何数据外泄警报。此操作不可撤销。
     }
 about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
