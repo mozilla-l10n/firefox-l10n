@@ -181,6 +181,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] { $count } Zugangsdaten entfernen?
        *[other] Alle { $count } Zugangsdaten entfernen?
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } Zugangsdaten von allen Geräten entfernen?
+       *[other] Alle { $count } Zugangsdaten von allen Geräten entfernen?
+    }
 about-logins-confirm-export-dialog-title = Zugangsdaten und Passwörter exportieren
 about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z.B. P@ssw0rt). Dadurch hat jede Person, welche die exportierte Datei öffnen kann, Zugriff auf das unverschlüsselte Passwort.
 about-logins-confirm-export-dialog-confirm-button = Exportieren…
