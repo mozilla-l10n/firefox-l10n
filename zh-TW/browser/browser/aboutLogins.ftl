@@ -183,6 +183,10 @@ about-logins-confirm-remove-all-dialog-message =
     { $count ->
        *[other] 將移除您已儲存到 { -brand-short-name } 的登入資訊，以及在此顯示的任何資料外洩警報。將無法還原此操作。
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] 要從所有裝置移除 { $count } 筆登入資訊嗎？
+    }
 about-logins-confirm-export-dialog-title = 匯出登入資訊與密碼
 about-logins-confirm-export-dialog-message = 您的密碼將以可閱讀的明文格式（例如 BadP@ssw0rd）儲存，任何能夠開啟檔案的人都能得知密碼內容。
 about-logins-confirm-export-dialog-confirm-button = 匯出…
