@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Mae ar gael yn Google Play
 login-app-promo-apple =
     .alt = Llwythwch i lawr o'r App Store
-
 login-filter =
     .placeholder = Chwilio Mewngofnodion
-
 create-login-button = Creu Mewngofnod Newydd
-
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
 fxaccounts-sign-in-button = Mewngofnodi i { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -32,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Mewnforio o Borwr Arall…
 about-logins-menu-menuitem-import-from-a-file = Mewnforio o Ffeil…
 about-logins-menu-menuitem-export-logins = Allforio Mewngofnodion…
+about-logins-menu-menuitem-remove-all-logins = Tynnu Pob Mewngofnodi…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Dewisiadau
@@ -75,7 +73,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Chwilio am eich mewngofnodi wedi'u cadw? Gosodwch { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out = Chwilio am eich mewngofnodion wedi'u cadw? Gosodwch { -sync-brand-short-name } neu eu Mewnforio.
 about-logins-login-intro-heading-logged-in = Heb ganfod mewngofnodion wedi'u cydweddu.
 login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-product-name } ar ddyfais wahanol, dyma sut i'w cael yma:
@@ -83,7 +80,6 @@ login-intro-instruction-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name 
 login-intro-instruction-fxa-settings = Sicrhewch eich bod wedi dewis y blwch gwirio Mewngofnodion yng Ngosodiadau { -sync-brand-short-name }
 about-logins-intro-instruction-help = Ewch i <a data-l10n-name="help-link"> Cefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
 about-logins-intro-import = Os yw eich mewngofnodion yn cael eu cadw mewn porwr arall, gallwch <a data-l10n-name="import-link">eu mewnforio i { -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Os yw eich mewngofnodion wedi'u cadw y tu allan i { -brand-product-name }, gallwch <a data-l10n-name="import-browser-link">eu mewnforio o borwr arall</a> neu <a data-l10n-name="import-file-link">o ffeil</a>
 
 ## Login
@@ -124,13 +120,11 @@ about-logins-edit-login-os-auth-dialog-message-win = I olygu eich mewngofnod, rh
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = golygu'r mewngofnod sydd wedi'i gadw
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = I weld eich cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = dadlennu'r cyfrinair sydd wedi'i gadw
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = I gopïo'ch cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to copy a password in about:logins
@@ -140,7 +134,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copïo'r cyfrinair sy
 ## Master Password notification
 
 master-password-notification-message = Rhowch eich prif gyfrinair i weld mewngofnodi a chyfrineiriau wedi'u cadw
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = I allforio'ch mewngofnodion, nodwch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to export a password in about:logins
@@ -177,15 +170,51 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Diddymu
 confirmation-dialog-dismiss-button =
     .title = Diddymu
-
 about-logins-confirm-remove-dialog-title = Tynnu'r mewngofnod?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
 about-logins-confirm-remove-dialog-confirm-button = Tynnu
-
+about-logins-confirm-remove-all-dialog-confirm-button = Tynnu Popeth
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ie, tynnu'r mewngofnod
+        [zero] Ie, tynnu'r mewngofnodion
+        [one] Ie, tynnu'r mewngofnod
+        [two] Ie, tynnu'r mewngofnodion
+        [few] Ie, tynnu'r mewngofnodion
+        [many] Ie, tynnu'r mewngofnodion
+       *[other] Ie, tynnu'r mewngofnodion
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [zero] Tynnu { $count } mewngofnodion
+        [one] Tynnu { $count } mewngofnod
+        [two] Tynnu { $count } fewngofnod
+        [few] Tynnu { $count } mewngofnod
+        [many] Tynnu { $count } mewngofnod
+       *[other] Tynnu { $count } mewngofnod
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Bydd hyn yn dileu'r mewngofnod rydych wedi'i gadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+        [zero] Bydd hyn yn dileu'r mewngofnodion rydych wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+        [one] Bydd hyn yn dileu'r mewngofnodion rydych wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+        [two] Bydd hyn yn dileu'r mewngofnodion rydych wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+        [few] Bydd hyn yn dileu'r mewngofnodion rydych wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+        [many] Bydd hyn yn dileu'r mewngofnodion rydych wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+       *[other] Bydd hyn yn dileu'r mewngofnodion rydych wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [zero] Tynnu'r { $count } mewngofnodion o'r holl ddyfeisiau?
+        [one] Tynnu'r { $count } mewngofnod o'r holl ddyfeisiau?
+        [two] Tynnu'r { $count } fewngofnod o'r holl ddyfeisiau?
+        [few] Tynnu'r { $count } mewngofnod o'r holl ddyfeisiau?
+        [many] Tynnu'r { $count } mewngofnod o'r holl ddyfeisiau?
+       *[other] Tynnu'r { $count } mewngofnod o'r holl ddyfeisiau?
+    }
 about-logins-confirm-export-dialog-title = Allforio mewngofnodion a chyfrineiriau
 about-logins-confirm-export-dialog-message = Bydd eich cyfrineiriau'n cael eu cadw fel testun darllenadwy (e.e. BadP@ssw0rd) fel y gall unrhyw un sy'n gallu agor y ffeil a allforiwyd eu gweld.
 about-logins-confirm-export-dialog-confirm-button = Allforio…
-
 confirm-discard-changes-dialog-title = Hepgor newidiadau heb eu cadw?
 confirm-discard-changes-dialog-message = Bydd yr holl newidiadau sydd heb eu cadw'n cael eu colli.
 confirm-discard-changes-dialog-confirm-button = Dileu
@@ -216,10 +245,8 @@ about-logins-vulnerable-alert-learn-more-link = Dysgu rhagor
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Mae cofnod ar gyfer { $loginTitle } gyda'r enw defnyddiwr hwnnw eisoes yn bodoli. <a data-l10n-name="duplicate-link"> Ewch i'r cofnod presennol? </a>
-
 # This is a generic error message.
 about-logins-error-message-default = Digwyddodd gwall wrth geisio gadw'r cyfrinair hwn.
-
 
 ## Login Export Dialog
 
