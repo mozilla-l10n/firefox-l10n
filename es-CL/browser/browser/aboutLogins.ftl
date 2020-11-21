@@ -181,6 +181,23 @@ about-logins-confirm-remove-all-dialog-title =
         [one] ¿Eliminar { $count } credencial?
        *[other] ¿Eliminar todas las { $count } credenciales?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Esto eliminará la credencial que has guardado en { -brand-short-name } y cualquier alerta de filtración que aparezca aquí. No podrás deshacer esta acción.
+        [one] Esto eliminará la credencial que has guardado en { -brand-short-name } y cualquier alerta de filtración que aparezca aquí. No podrás deshacer esta acción.
+       *[other] Esto eliminará las credenciales que has guardado en { -brand-short-name } y cualquier alerta de filtración que aparezca aquí. No podrás deshacer esta acción.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] ¿Eliminar { $count } credencial de todos los dispositivos?
+       *[other] ¿Eliminar todas las { $count } credenciales de todos los dispositivos?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Esto eliminará la credencial que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+        [one] Esto eliminará la credencial que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+       *[other] Esto eliminará todas las credenciales que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+    }
 about-logins-confirm-export-dialog-title = Exportar credenciales y contraseñas
 about-logins-confirm-export-dialog-message = Tus contraseñas serán guardadas como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
