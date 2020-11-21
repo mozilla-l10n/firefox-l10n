@@ -8,8 +8,8 @@
 
 <!ENTITY playButton.playLabel "Pokreni">
 <!ENTITY playButton.pauseLabel "Zaustavi">
-<!ENTITY muteButton.muteLabel "Utišaj">
-<!ENTITY muteButton.unmuteLabel "Odtišaj">
+<!ENTITY muteButton.muteLabel "Isključi zvuk">
+<!ENTITY muteButton.unmuteLabel "Uključi zvuk">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Cjeloekranski prikaz">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Izađi iz cjeloekranskog prikaza">
 <!ENTITY castingButton.castingLabel "Prebaci na ekran">
