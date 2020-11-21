@@ -52,6 +52,7 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Åbn link
     .buttonaccesskeyaccept = b
+chooser-dialog-description = Vælg et program til at åbne { $scheme }-linket med.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Brug altid dette program til at åbne <strong>{ $scheme }</strong>-links
 chooser-dialog-remember-extra =
