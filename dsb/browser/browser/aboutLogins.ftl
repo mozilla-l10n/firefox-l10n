@@ -202,6 +202,14 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [few] { $count } pśizjawjenja ze wšych rědow wótwónoźeś?
        *[other] { $count } pśizjawjenjow ze wšych rědow wótwónoźeś?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] To pśizjawjenje wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych rědach a kótarež jo z wašym kontom { -fxaccount-brand-name } synchronizěrowane. To teke warnowanja wó datowych źěrach wótwónoźijo, kótarež se how pokazuju. Njamóžośo toś tu akciju anulěrowaś.
+        [one] To pśizjawjenje wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych rědach a kótarež jo z wašym kontom { -fxaccount-brand-name } synchronizěrowane. To teke warnowanja wó datowych źěrach wótwónoźijo, kótarež se how pokazuju. Njamóžośo toś tu akciju anulěrowaś.
+        [two] To pśizjawjeni wótwónoźijo, kótarejž sćo składł w { -brand-short-name } na wšych rědach a kótarejž stej z wašym kontom { -fxaccount-brand-name } synchronizěrowanej. To teke warnowanja wó datowych źěrach wótwónoźijo, kótarež se how pokazuju. Njamóžośo toś tu akciju anulěrowaś.
+        [few] To pśizjawjenja wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych rědach a kótarež su z wašym kontom { -fxaccount-brand-name } synchronizěrowane. To teke warnowanja wó datowych źěrach wótwónoźijo, kótarež se how pokazuju. Njamóžośo toś tu akciju anulěrowaś.
+       *[other] To pśizjawjenja wótwónoźijo, kótarež sćo składł w { -brand-short-name } na wšych rědach a kótarež su z wašym kontom { -fxaccount-brand-name } synchronizěrowane. To teke warnowanja wó datowych źěrach wótwónoźijo, kótarež se how pokazuju. Njamóžośo toś tu akciju anulěrowaś.
+    }
 about-logins-confirm-export-dialog-title = Pśizjawjenja a gronidła eksportěrowaś
 about-logins-confirm-export-dialog-message = Wašo gronidła budu se ako cytajobny tekst składowaś (na pś. BadP@ass0rd), togodla móžo kuždy, kótaryž móžo eksportěrowanu dataju wócyniś, je wiźeś.
 about-logins-confirm-export-dialog-confirm-button = Eksportěrowaś…
