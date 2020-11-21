@@ -932,6 +932,7 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 content-blocking-enhanced-tracking-protection = Proteccion contra lo seguiment renfortida
 content-blocking-section-top-level-description = Los traçadors vos pistan en linha per reculhir d’informacions sus vòstras abituds de navegacion e vòstres interèsses. { -brand-short-name } bloca fòrça d’aqueles elements de seguiment e scripts malvolents.
 content-blocking-learn-more = Ne saber mai
+content-blocking-fpi-incompatibility-warning = Utilizatz l’isolacion First-Party (FPI) que remplaça d’unes paramètres dels cookies de { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

@@ -46,6 +46,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Ensajatz 
 inactive-css-not-display-block-on-floated-fix = Ensajatz de tirar <strong>float</strong> o d’apondre adding <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Ensajar de definir sa proprietat <strong>position</strong> amb una valor diferenta de <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Ensajatz d’apondre <strong>overflow:hidden</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Ensajar de definir sa proprietat <strong>outline-style</strong> a una valor diferenta de <strong>auto</strong> o <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
