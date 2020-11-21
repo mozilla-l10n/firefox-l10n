@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Uvezi iz jednog drugog preglednika …
 about-logins-menu-menuitem-import-from-a-file = Uvezi iz datoteke …
 about-logins-menu-menuitem-export-logins = Izvezi prijave…
+about-logins-menu-menuitem-remove-all-logins = Ukloni sve prijave…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mogućnosti
@@ -169,6 +170,33 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja je nepovratna.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
+about-logins-confirm-remove-all-dialog-confirm-button = Ukloni sve
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Da, ukloni ovu prijavu
+        [one] Da, ukloni ovu prijavu
+        [few] Da, ukloni ove prijave
+       *[other] Da, ukloni ove prijave
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Ukloniti { $count } prijavu?
+        [few] Ukloniti { $count } prijave?
+       *[other] Ukloniti { $count } prijava?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Ovo će ukloniti prijavu koja je spremljena u { -brand-short-name }u i bilo koje upozorenje o curenju podataka koje se pojavljuje ovdje. Ovu radnju nije moguće poništiti.
+        [one] Ovo će ukloniti prijavu koja je spremljena u { -brand-short-name }u i bilo koje upozorenje o curenju podataka koje se pojavljuje ovdje. Ovu radnju nije moguće poništiti.
+        [few] Ovo će ukloniti prijave koje su spremljene u { -brand-short-name }u i bilo koje upozorenje o curenju podataka koje se pojavljuje ovdje. Ovu radnju nije moguće poništiti.
+       *[other] Ovo će ukloniti prijave koje su spremljene u { -brand-short-name }u i bilo koje upozorenje o curenju podataka koje se pojavljuje ovdje. Ovu radnju nije moguće poništiti.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Ukloniti { $count } prijavu sa svih uređaja?
+        [few] Ukloniti { $count } prijave sa svih uređaja?
+       *[other] Ukloniti { $count } prijava sa svih uređaja?
+    }
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-message = Vaše lozinke bit će spremljene kao čitljivi tekst (npr. Loš@L0zinka) pa će ih moći vidjeti svi koji mogu otvoriti izvezenu datoteku.
 about-logins-confirm-export-dialog-confirm-button = Izvoz…
