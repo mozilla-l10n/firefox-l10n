@@ -167,6 +167,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 about-logins-confirm-remove-dialog-confirm-button = ลบ
+about-logins-confirm-remove-all-dialog-confirm-button = เอาทั้งหมดออก
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] ใช่ ลบการเข้าสู่ระบบนี้
+       *[other] ใช่ ลบการเข้าสู่ระบบเหล่านี้
+    }
 about-logins-confirm-export-dialog-title = ส่งออกข้อมูลการเข้าสู่ระบบและรหัสผ่าน
 about-logins-confirm-export-dialog-message = รหัสผ่านของคุณจะถูกบันทึกเป็นข้อความที่อ่านได้ (เช่น BadP@ssw0rd) ดังนั้นใครก็ตามที่สามารถเปิดไฟล์ที่ส่งออกได้จะสามารถดูได้
 about-logins-confirm-export-dialog-confirm-button = ส่งออก…
