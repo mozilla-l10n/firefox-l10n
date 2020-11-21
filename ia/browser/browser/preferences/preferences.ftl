@@ -769,7 +769,7 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Saper plus
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Auto-popular le authenticationes pro accessos e contrasignos
+    .label = Auto-completar nomines de usator e contrasignos
     .accesskey = A
 forms-saved-logins =
     .label = Authenticationes salvate…
