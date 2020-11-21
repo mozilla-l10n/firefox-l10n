@@ -176,6 +176,22 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] Sí, eliminar estos inicios de sesión
        *[other] Sí, eliminar estos inicios de sesión
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] ¿Eliminar inicio de sesión de { $count }?
+       *[other] ¿Eliminar todos los inicios de sesión de { $count }?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Esto eliminará el inicio de sesión que guardó con { -brand-short-name } y cualquier alerta de violación que aparezca aquí. No podrá deshacer esta acción.
+        [one] Esto eliminará los inicios de sesión  que guardó con { -brand-short-name } y cualquier alerta de violaciones que aparezcan aquí. No podrá deshacer esta acción.
+       *[other] Esto eliminará los inicios de sesión que guardó con { -brand-short-name } y cualquier alerta de violaciones que aparezcan aquí. No podrá deshacer esta acción.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] ¿Eliminar inicio de sesión de { $count } de todos los dispositivos?
+       *[other] ¿Eliminar todos los inicios de sesión de { $count } de todos los dispositivos?
+    }
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y contraseñas
 about-logins-confirm-export-dialog-message = Sus contraseñas se guardarán como texto legible (por ejemplo, BadP @ ssw0rd) para que cualquiera que pueda abrir el archivo exportado pueda verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
