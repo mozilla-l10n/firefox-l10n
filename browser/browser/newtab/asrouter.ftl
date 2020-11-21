@@ -68,7 +68,7 @@ cfr-doorhanger-pintab-description = Jednostavan pristup tvojim najkorištenijim 
 cfr-doorhanger-pintab-step1 = <b>Desni klik</b> na karticu koju želiš zakačiti.
 cfr-doorhanger-pintab-step2 = Odaberi <b>Zakači karticu</b> iz izbornika.
 cfr-doorhanger-pintab-step3 = Ukoliko je stranica aktualizirana, pojavit će se plava točka na zakačenoj kartici.
-cfr-doorhanger-pintab-animation-pause = Pauziraj
+cfr-doorhanger-pintab-animation-pause = Zaustavi
 cfr-doorhanger-pintab-animation-resume = Nastavi
 
 ## Firefox Accounts Message
