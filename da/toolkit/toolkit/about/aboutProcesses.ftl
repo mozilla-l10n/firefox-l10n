@@ -36,6 +36,7 @@ about-processes-file-process-name = Filer (proces { $pid })
 about-processes-extension-process-name = Udvidelser (proces { $pid })
 about-processes-privilegedabout-process-name = Om (proces { $pid })
 about-processes-plugin-process-name = Plugins (proces { $pid })
+about-processes-privilegedmozilla-process-name = Web (proces { $pid }) for { -vendor-short-name }-websteder
 about-processes-gmp-plugin-process-name = Gecko media-plugins (proces { $pid })
 about-processes-gpu-process-name = GPU (proces { $pid })
 about-processes-vr-process-name = VR (proces { $pid })

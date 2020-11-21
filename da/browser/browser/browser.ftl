@@ -301,6 +301,7 @@ identity-https-only-info-turn-off2 = Hvis denne side ikke fungerer korrekt, kan 
 identity-https-only-info-no-upgrade = Kunne ikke opgradere forbindelsen fra HTTP.
 identity-permissions =
     .value = Tilladelser
+identity-permissions-storage-access-header = Cookies på tværs af websteder
 identity-permissions-storage-access-hint = Disse parter kan anvende webstedsdata og cookies på tværs af websteder, mens du besøger dette websted.
 identity-permissions-reload-hint = Du skal muligvis genindlæse siden, før at ændringerne slår igennem.
 identity-permissions-empty = Du har ikke tildelt dette websted nogen særlige tilladelser.
