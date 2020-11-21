@@ -128,8 +128,8 @@ main-context-menu-media-play =
     .label = Pokreni
     .accesskey = P
 main-context-menu-media-pause =
-    .label = Pauziraj
-    .accesskey = z
+    .label = Zaustavi
+    .accesskey = Z
 
 ##
 
