@@ -11,5 +11,5 @@ fxa-qrcode-heading-step1 = 1. אם טרם עשית זאת, עליך להתקין
 fxa-qrcode-heading-step2 = 2. יש לפתוח את Firefox במכשיר הנייד שלך.
 fxa-qrcode-heading-step3 = 3. יש לפתוח את <b>התפריט</b> (<img data-l10n-name="ios-menu-icon"/> או <img data-l10n-name="android-menu-icon"/>), להקיש על <img data-l10n-name="settings-icon"/> הגדרות ולבחור באפשרות <b>הפעלת Sync</b>
 fxa-qrcode-heading-step4 = 4. לבסוף, יש לסרוק את הקוד הזה:
-fxa-qrcode-error-title = הצימוד הצליח.
+fxa-qrcode-error-title = הצימוד לא הצליח.
 fxa-qrcode-error-body = נא לנסות שוב.
