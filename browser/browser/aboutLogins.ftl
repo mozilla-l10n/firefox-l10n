@@ -172,6 +172,36 @@ about-logins-confirm-remove-dialog-title = Toś to pśizjawjenje wótwónoźeś?
 confirm-delete-dialog-message = Toś ta akcija njedajo se anulěrowaś.
 about-logins-confirm-remove-dialog-confirm-button = Wótwónoźeś
 about-logins-confirm-remove-all-dialog-confirm-button = Wše wótwónoźeś
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Jo, toś to pśizjawjenje wótwónoźeś
+        [one] Jo, toś to pśizjawjenje wótwónoźeś
+        [two] Jo, toś tej pśizjawjeni wótwónoźeś
+        [few] Jo, toś te pśizjawjenja wótwónoźeś
+       *[other] Jo, toś te pśizjawjenja wótwónoźeś
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } pśizjawjenje wótwónoźeś?
+        [two] { $count } pśizjawjeni wótwónoźeś?
+        [few] { $count } pśizjawjenja wótwónoźeś?
+       *[other] { $count } pśizjawjenjow wótwónoźeś?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] To pśizjawjenje wótwónoźijo, kótarež sćo składł w { -brand-short-name } a wšykne warnowanja wó datowych źěrach, kótarež se how pokazuju. Toś ta akcija njedajo se anulěrowaś.
+        [one] To pśizjawjenje wótwónoźijo, kótarež sćo składł w { -brand-short-name } a wšykne warnowanja wó datowych źěrach, kótarež se how pokazuju. Toś ta akcija njedajo se anulěrowaś.
+        [two] To pśizjawjeni wótwónoźijo, kótarejž sćo składł w { -brand-short-name } a wšykne warnowanja wó datowych źěrach, kótarež se how pokazuju. Toś ta akcija njedajo se anulěrowaś.
+        [few] To pśizjawjenja wótwónoźijo, kótarež sćo składł w { -brand-short-name } a wšykne warnowanja wó datowych źěrach, kótarež se how pokazuju. Toś ta akcija njedajo se anulěrowaś.
+       *[other] To pśizjawjenja wótwónoźijo, kótarež sćo składł w { -brand-short-name } a wšykne warnowanja wó datowych źěrach, kótarež se how pokazuju. Toś ta akcija njedajo se anulěrowaś.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } pśizjawjenje ze wšych rědow wótwónoźeś?
+        [two] { $count } pśizjawjeni ze wšych rědow wótwónoźeś?
+        [few] { $count } pśizjawjenja ze wšych rědow wótwónoźeś?
+       *[other] { $count } pśizjawjenjow ze wšych rědow wótwónoźeś?
+    }
 about-logins-confirm-export-dialog-title = Pśizjawjenja a gronidła eksportěrowaś
 about-logins-confirm-export-dialog-message = Wašo gronidła budu se ako cytajobny tekst składowaś (na pś. BadP@ass0rd), togodla móžo kuždy, kótaryž móžo eksportěrowanu dataju wócyniś, je wiźeś.
 about-logins-confirm-export-dialog-confirm-button = Eksportěrowaś…
