@@ -134,11 +134,11 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = Utišaj
-    .accesskey = U
+    .label = Isključi zvuk
+    .accesskey = I
 main-context-menu-media-unmute =
-    .label = Odtišaj
-    .accesskey = O
+    .label = Uključi zvuk
+    .accesskey = U
 main-context-menu-media-play-speed =
     .label = Brzina reprodukcije
     .accesskey = r

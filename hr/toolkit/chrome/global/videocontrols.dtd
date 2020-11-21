@@ -7,7 +7,7 @@
   %brandDTD;
 
 <!ENTITY playButton.playLabel "Pokreni">
-<!ENTITY playButton.pauseLabel "Pauziraj">
+<!ENTITY playButton.pauseLabel "Zaustavi">
 <!ENTITY muteButton.muteLabel "Utišaj">
 <!ENTITY muteButton.unmuteLabel "Odtišaj">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Cjeloekranski prikaz">
