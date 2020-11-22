@@ -7,7 +7,21 @@
 <!ENTITY composeMsgLink.label         "Rakstīt jaunu vēstuli">
 
 <!ENTITY newsSectionHdr.label         "Ziņu grupas">
+<!ENTITY subscribeNewsLink.label      "Pārvaldīt ziņu grupu pierakstus">
 
+<!ENTITY feedsSectionHdr.label        "Plūsmas">
+<!ENTITY subscribeFeeds.label         "Pārvaldīt pierakstus">
 
+<!ENTITY chat.label                   "Tērzēšana">
+<!ENTITY movemail.label               "Movemail">
 
+<!ENTITY accountsSectionHdr.label     "Konti">
+<!ENTITY subscribeImapFolders.label   "Pārvaldīt mapju pierakstus">
+<!ENTITY settingsLink.label           "Skatīt šī konta iestatījumus">
+<!ENTITY setupNewAcct.label           "Izveidot kontu:">
 
+<!ENTITY advFeaturesSectionHdr.label  "Papildu iespējas">
+<!ENTITY searchMsgsLink.label         "Meklēt vēstules">
+<!ENTITY filtersLink.label            "Pārvaldīt vēstuļu filtrus">
+<!ENTITY junkSettings.label           "Mēstuļu iestatījumi">
+<!ENTITY offlineLink.label            "Nesaistes iestatījumi">
