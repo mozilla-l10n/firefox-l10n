@@ -21,5 +21,10 @@
 <!ENTITY importItems.label              "Izvēlieties importējamos elementus:">
 
 <!ENTITY migrating.title                "Importē…">
+<!ENTITY migrating.label                "Šobrīd tiek importēti sekojoši vienumi…">
 
+<!ENTITY selectProfile.title            "Izvēlieties profilu">
+<!ENTITY selectProfile.label            "Importēšanai ir pieejami šādi profili no:">
 
+<!ENTITY done.title                     "Importēšana pabeigta">
+<!ENTITY done.label                     "Ir veiksmīgi importēti sekojoši vienumi:">
