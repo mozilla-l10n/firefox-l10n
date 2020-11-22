@@ -23,9 +23,19 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Αν συνδέεστε συχνά σε
 αυτή την ιστοσελίδα χωρίς προβλήματα, αυτό το σφάλμα σημαίνει ότι κάποιος
 προσπαθεί να την υποδυθεί και δεν πρέπει να συνεχίσετε.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Αυτή η ιστοσελίδα χρησιμοποιεί το πρωτόκολλο HSTS
+(HTTP Strict Transport Security) για να καθορίσει την ασφαλή σύνδεση με το
+&brandShortName;. Συνεπώς, δεν είναι δυνατή η εξαίρεση αυτού του
+πιστοποιητικού.">
 <!ENTITY certerror.getMeOutOfHere.label "Δεν μου αρέσει αυτό, επιστροφή στην αρχική μου σελίδα">
 
 <!ENTITY certerror.expert.heading "Κατανοώ τους κινδύνους">
+<!ENTITY certerror.expert.content "Αν καταλαβαίνετε τι συμβαίνει, μπορείτε να ρυθμίσετε
+το &brandShortName; ώστε να εμπιστεύεται την ταυτότητα της ιστοσελίδας.
+<b>Ακόμα κι αν εμπιστεύεστε την ιστοσελίδα, αυτό το σφάλμα υποδεικνύει ότι
+κάποιος ενδέχεται να έχει παραβιάσει τη σύνδεσή σας.</b>">
+<!ENTITY certerror.expert.contentPara2 "Μην προσθέστε εξαίρεση εκτός αν υπάρχει
+λόγος που η ιστοσελίδα αυτή δεν χρησιμοποιεί αξιόπιστη ταυτοποίηση.">
 <!ENTITY certerror.addException.label "Προσθήκη εξαίρεσης…">
 
 <!ENTITY certerror.technical.heading "Τεχνικές λεπτομέρειες">

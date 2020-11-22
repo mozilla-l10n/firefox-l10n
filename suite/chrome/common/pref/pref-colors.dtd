@@ -26,4 +26,10 @@
 <!-- LOCALIZATION NOTE (someProvColors): This is the start of a sentence and will be followed by the following radio buttons. -->
 <!ENTITY someProvColors                    "Όταν μια ιστοσελίδα παρέχει τα δικά της χρώματα και φόντο">
 <!-- LOCALIZATION NOTE (alwaysUseDocColors.label): This is option one, and it appends to 'someProvColors' above. -->
+<!ENTITY alwaysUseDocumentColors.label     "Πάντα χρήση χρωμάτων και φόντου που ορίζονται από την ιστοσελίδα">
+<!ENTITY alwaysUseDocumentColors.accesskey "Π">
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
+<!ENTITY useMyColors.label                 "Χρήση επιλεγμένων χρωμάτων, αγνοώντας τα καθορισμένα χρώματα και την εικόνα φόντου">
+<!ENTITY useMyColors.accesskey             "σ">
+<!ENTITY automaticColors.label             "Παράβλεψη χρωμάτων σελίδας μόνο κατά τη χρήση θέματος υψηλής αντίθεσης">
+<!ENTITY automaticColors.accesskey         "μ">
