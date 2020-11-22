@@ -6,3 +6,11 @@
 
 <!ENTITY MsgSynchronize.label "Lejuplādēt un sinhronizēt vēstules">
 <!ENTITY MsgSelect.label "Vienumi nesaistes lietošanai">
+<!ENTITY MsgSyncDesc.label "Ja jau esat atlasījis pasta mapes vai ziņu grupas lietošanai nesaistē, varat tās tagad lejuplādēt un/vai sinhronizēt. Pretējā gadījumā izmantojiet &quot;Atlasīt&quot; pogu, lai izvēlētos pasta mapes un ziņu grupas lietošanai nesaistē.">
+<!ENTITY MsgSyncDirections.label "Lejuplādēt un/vai sinhronizēt sekojošus:">
+<!ENTITY syncTypeMail.label "Pasta vēstules">
+<!ENTITY syncTypeMail.accesskey "P">
+<!ENTITY syncTypeNews.label "Ziņu grupas ziņas">
+<!ENTITY syncTypeNews.accesskey "Z">
+<!ENTITY sendMessage.label "Sūtīt nenosūtītās vēstules">
+<!ENTITY sendMessage.accesskey "S">
