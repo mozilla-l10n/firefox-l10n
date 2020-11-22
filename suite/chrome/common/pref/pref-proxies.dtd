@@ -6,6 +6,8 @@
 
 <!--LOCALIZATION NOTE : FILE The Proxies preferences dialog -->
 <!ENTITY  pref.proxies.title            "Διακομιστές μεσολάβησης">
+<!ENTITY  pref.proxies.desc             "Ο διακομιστής μεσολάβησης είναι μια υπηρεσία δικτύου που μπορεί να φιλτράρει και να επιταχύνει τη σύνδεση διαδικτύου σας.">
+<!ENTITY  proxyTitle.label              "Ρύθμιση διακομιστών μεσολάβησης για πρόσβαση στο διαδίκτυο">
 <!ENTITY  directTypeRadio.label         "Άμεση σύνδεση στο Διαδίκτυο">
 <!ENTITY  directTypeRadio.accesskey     "Δ">
 <!ENTITY  systemTypeRadio.label         "Χρήση ρυθμίσεων διαμεσολαβητή συστήματος">
