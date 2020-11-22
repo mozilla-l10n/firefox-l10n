@@ -14,3 +14,10 @@
 <!ENTITY syncTypeNews.accesskey "Z">
 <!ENTITY sendMessage.label "Sūtīt nenosūtītās vēstules">
 <!ENTITY sendMessage.accesskey "S">
+<!ENTITY workOffline.label "Kad lejuplāde un/vai sinhronizācija ir pabeigta, strādāt nesaistē">
+<!ENTITY workOffline.accesskey "W">
+<!ENTITY selectButton.label "Atlasīt…">
+<!ENTITY selectButton.accesskey "A">
+<!ENTITY MsgSelectDesc.label "Izvēlieties pasta mapes un ziņu grupas lietošanai nesaistē.">
+<!ENTITY MsgSelectInd.label "Lejuplādēt">
+<!ENTITY MsgSelectItems.label "Mapes un ziņu grupas">
