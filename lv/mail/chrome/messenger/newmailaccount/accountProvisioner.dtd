@@ -25,4 +25,17 @@
 <!ENTITY partnership.description "Sadarbībā ar vairākiem pakalpojumu sniedzējiem, &brandShortName; var jums piedāvāt jaunu epasta kontu. Lai sāktu darbu, laukos augstāk vienkārši ierakstiet savu vārdu un uzvārdu vai citus vēlamos vārdus.">
 <!ENTITY existing.header "Vai jums jau ir adrese, kuru vēlaties izmantot?">
 <!ENTITY tinyheader.title "Vai jums ir adrese?">
+<!ENTITY tinyheader.existing "Izlaist šo un izmantot jūsu esošo epastu">
+<!ENTITY content.close "Es domāju, ka es iestatīšu savu kontu vēlāk.">
+<!ENTITY successful.title "Apsveicam!">
+<!ENTITY successful.successMessage "Jūs esat veiksmīgi izveidojis savu kontu.">
+<!ENTITY successful.write "Uzrakstiet kādu epastu">
+<!ENTITY successful.write.desc "Informējiet draugus un ģimenes locekļus par jūsu jauno adresi.<br/>Savu jauno kontu jūs ieguvāt tieši tāpēc, vai ne?">
+<!ENTITY successful.customize "Pielāgojiet &brandShortName; ar dažiem foršiem papildinājumiem">
+<!ENTITY successful.customize.desc "Ir tūkstošiem papildinājumu, kas ļauj pielāgot &brandShortName;, lai tas atbilstu jūsu īpašajām vajadzībām.">
+<!ENTITY successful.attach "Pievienojiet personisko parakstu jūsu epastam">
+<!ENTITY successful.attach.desc "Katras nosūtītās vēstules beigās varat automātiski pievienot citātu vai kādu informāciju par sevi.">
+<!ENTITY successful.close "Aizvērt šo logu.">
+<!ENTITY input.namePlaceholder "Jūsu vārds vai segvārds">
 <!ENTITY input.search "Meklēt">
+<!ENTITY search_engine.title "Pielāgojiet jūsu meklētājprogrammu">
