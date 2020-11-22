@@ -39,3 +39,5 @@
 <!ENTITY input.namePlaceholder "Jūsu vārds vai segvārds">
 <!ENTITY input.search "Meklēt">
 <!ENTITY search_engine.title "Pielāgojiet jūsu meklētājprogrammu">
+<!ENTITY search_engine.message "Jūsu epasta pakalpojumu sniedzējs var arī nodrošināt tīmekļa meklēšanas iespējas.">
+<!ENTITY search_engine.button "Pabeigt">
