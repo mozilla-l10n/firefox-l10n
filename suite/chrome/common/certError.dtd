@@ -15,6 +15,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1a "Ζητήσατε από το &brandShortName; να συνδεθεί
 με ασφάλεια στο <span class='hostname'/>, αλλά δεν μπορούμε να επαληθεύσουμε
 ότι η σύνδεση είναι ασφαλής.">
+<!ENTITY certerror.introPara2 "Κανονικά, όταν προσπαθείτε να συνδεθείτε με ασφάλεια, οι ιστοσελίδες
+παραθέτουν αξιόπιστα πιστοποιητικά που αποδεικνύουν ότι είστε στο
+σωστό μέρος. Ωστόσο, η ταυτότητα αυτής της σελίδας δεν μπορεί να επαληθευτεί.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Τι πρέπει να κάνω;">
 <!ENTITY certerror.whatShouldIDo.content "Αν συνδέεστε συχνά σε

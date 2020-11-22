@@ -12,6 +12,8 @@
 <!ENTITY autoCompleteMatchBookmarks.accesskey  "σ">
 <!ENTITY autoCompleteAutoFill.label            "Αυτόματη συμπλήρωση καλύτερης αντιστοιχίας">
 <!ENTITY autoCompleteAutoFill.accesskey        "υ">
+<!ENTITY autoCompleteShowPopup.label           "Εμφάνιση λίστας αποτελεσμάτων">
+<!ENTITY autoCompleteShowPopup.accesskey       "Ε">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
