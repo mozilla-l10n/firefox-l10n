@@ -104,4 +104,11 @@
 <!ENTITY saveAllAttachmentsButton1.tooltip "Saglabāt visus pievienotos failus">
 
 <!ENTITY copyLinkCmd.label        "Kopēt saites vietu">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
+<!ENTITY CopyMessageId.label "Kopēt vēstules ID">
+<!ENTITY CopyMessageId.accesskey "K">
+<!ENTITY OpenMessageForMsgId.label "Atvērt vēstuli ar ID">
+<!ENTITY OpenMessageForMsgId.accesskey "A">
+<!ENTITY OpenBrowserWithMsgId.label "Atvērt pārlūku ar vēstules ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "P">
