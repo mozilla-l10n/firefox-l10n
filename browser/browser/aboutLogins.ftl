@@ -181,6 +181,12 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Eltávolít { $count } bejelentkezést?
        *[other] Eltávolít { $count } bejelentkezést?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezést és az itt megjelenő adatsértési figyelmeztetéseket is. Ez a művelet nem vonható vissza.
+        [one] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezést és az itt megjelenő adatsértési figyelmeztetéseket is. Ez a művelet nem vonható vissza.
+       *[other] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezéseket és az itt megjelenő adatsértési figyelmeztetéseket is. Ez a művelet nem vonható vissza.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Eltávolít { $count } bejelentkezést az összes eszközről?
