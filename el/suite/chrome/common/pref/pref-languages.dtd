@@ -4,6 +4,7 @@
 
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
+<!ENTITY languages.customize.prefLangDescript           "Μερικές φορές, οι ιστοσελίδες διατίθενται σε παραπάνω από μία γλώσσες. Επιλέξτε τις γλώσσες εμφάνισης ιστοσελίδων με σειρά προτίμησης.">
 <!ENTITY languages.customize.title                      "Γλώσσες">
 <!ENTITY langtitle.label                                "Γλώσσες για ιστοσελίδες">
 <!ENTITY languages.customize.prefAddLangDescript        "Επιλέξτε τις γλώσσες που θέλετε να προσθέσετε.">
@@ -20,6 +21,7 @@
 <!ENTITY languages.customize.Fallback2.grouplabel       "Κωδικοποίηση κειμένου για παλαιό περιεχόμενο">
 <!ENTITY languages.customize.Fallback2.label            "Εφεδρική κωδικοποίηση κειμένου:">
 <!ENTITY languages.customize.Fallback2.accesskey        "κ">
+<!ENTITY languages.customize.Fallback2.desc             "Για παλαιό περιεχόμενο που δεν δηλώνει την κωδικοποίησή του.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "π.χ.: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "Μετακίνηση πάνω">

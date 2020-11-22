@@ -15,6 +15,7 @@
 <!ENTITY allowScripts.label              "Να επιτρέπεται στα σενάρια να κάνουν:">
 <!ENTITY allowScripts.accesskey          "σ">
 <!ENTITY allowWindowMoveResize.label     "Μετακίνηση ή αλλαγή μεγέθους υπαρχόντων παραθύρων">
+<!ENTITY allowWindowFlip.label           "Μετακίνηση παραθύρων στο προσκήνιο ή το παρασκήνιο">
 <!ENTITY allowWindowStatusChange.label   "Αλλαγή κειμένου γραμμής κατάστασης">
 <!ENTITY allowContextmenuDisable.label   "Απενεργοποίηση ή αντικατάσταση μενού επιλογών">
 <!ENTITY allowHideStatusBar.label        "Απόκρυψη γραμμής κατάστασης">
@@ -26,3 +27,5 @@
 <!ENTITY whenPageRequiresPlugins.label   "Όταν μια σελίδα απαιτεί αρθρώματα">
 <!ENTITY activateAllPlugins.label        "Ενεργοποίηση όλων των αρθρωμάτων από προεπιλογή">
 <!ENTITY activateAllPlugins.accesskey    "π">
+<!ENTITY warnPluginsRequired.label       "Προειδοποίηση αν απαιτείται εγκατάσταση επιπρόσθετων αρθρωμάτων">
+<!ENTITY warnPluginsRequired.accesskey   "Π">
