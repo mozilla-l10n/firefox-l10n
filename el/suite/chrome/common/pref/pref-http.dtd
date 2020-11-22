@@ -17,3 +17,4 @@
 <!ENTITY prefFirefoxStrict.accesskey         "Α">
 <!ENTITY prefFirefoxNone.label               "Αναγνώριση ως SeaMonkey">
 <!ENTITY prefFirefoxNone.accesskey           "M">
+<!ENTITY prefCompatWarning2.desc             "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: η αλλαγή αυτής της ρύθμισης ενδέχεται να προκαλέσει δυσλειτουργία ιστοσελίδων ή υπηρεσιών.">

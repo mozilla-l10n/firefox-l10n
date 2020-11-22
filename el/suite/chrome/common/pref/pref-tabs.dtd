@@ -5,6 +5,10 @@
 <!ENTITY tabHeader.label "Περιήγηση με καρτέλες">
 
 <!ENTITY tabDisplay.label "Προβολή καρτελών">
+<!ENTITY autoHide.label "Απόκρυψη γραμμής καρτελών όταν είναι ανοιχτή μόνο μία καρτέλα">
+<!ENTITY autoHide.accesskey2 "ψ">
+<!ENTITY background.label "Εναλλαγή σε νέες καρτέλες που ανοίγουν από συνδέσμους">
+<!ENTITY background.accesskey "Ε">
 <!ENTITY warnOnClose.label "Προειδοποίηση κατά το κλείσιμο παραθύρου με πολλαπλές καρτέλες">
 <!ENTITY warnOnClose.accesskey "Π">
 <!ENTITY relatedAfterCurrent.label "Άνοιγμα σχετικών καρτελών μετά την τρέχουσα">
