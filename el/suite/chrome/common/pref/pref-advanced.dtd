@@ -8,6 +8,7 @@
 <!ENTITY systemPref.caption               "Προτιμήσεις συστήματος">
 <!ENTITY systemPrefCheck.label            "Χρήση προτιμήσεων από το σύστημα">
 <!ENTITY systemPrefCheck.accesskey        "Χ">
+<!ENTITY systemPref.desc                  "Με αυτή την επιλογή, το &brandShortName; κληρονομεί προτιμήσεις από το σύστημα. Αυτές οι ρυθμίσεις συστήματος θα αντικαταστήσουν τις προτιμήσεις του &brandShortName;.">
 
 <!ENTITY prefCheckDefault.caption         "Ενσωμάτωση συστήματος">
 <!ENTITY prefCheckDefaultClient.label     "Έλεγχος ρυθμίσεων προεπιλεγμένης εφαρμογής κατά την εκκίνησης">
@@ -18,6 +19,8 @@
 <!ENTITY submitCrashes.accesskey          "Υ">
 
 <!ENTITY devTools.caption                 "Εργαλεία προγραμματιστή">
+<!ENTITY allowDebugger.label              "Να επιτρέπεται σύνδεση με το &brandShortName; για εντοπισμό σφαλμάτων">
+<!ENTITY allowDebugger.accesskey          "Ν">
 <!ENTITY allowRemoteConnections.label     "Αποδοχή συνδέσεων από άλλους υπολογιστές">
 <!ENTITY allowRemoteConnections.accesskey "ο">
 <!ENTITY connectionPrompt.label           "Ερώτηση για εισερχόμενες συνδέσεις">
