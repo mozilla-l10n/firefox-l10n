@@ -2,100 +2,106 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY toField4.label "Kam">
+<!ENTITY fromField4.label "No">
+<!ENTITY senderField4.label "Sūtītājs">
+<!ENTITY author.label "Autors">
+<!ENTITY organizationField4.label "Organizācija">
+<!ENTITY replyToField4.label "Atbildēt uz">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY subjectField4.label "Tēma">
+<!ENTITY ccField4.label "Kopija">
+<!ENTITY bccField4.label "Slēpta kopija">
+<!ENTITY newsgroupsField4.label "Ziņu grupas">
+<!ENTITY followupToField4.label "Sekot">
+<!ENTITY tagsHdr4.label "Birkas">
+<!ENTITY dateField4.label "Datums">
+<!ENTITY userAgentField4.label "Lietotāja aģents">
 <!ENTITY referencesField4.label "Atsauces">
+<!ENTITY messageIdField4.label "Vēstules ID">
+<!ENTITY inReplyToField4.label "Atbildot uz">
+<!ENTITY originalWebsite4.label "Tīmekļa vietne">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY hdrArchiveButton1.label "Arhivēt">
+<!ENTITY hdrArchiveButton1.tooltip "Arhivēt šo vēstuli">
+<!ENTITY hdrSmartReplyButton1.label "Viedā atbilde">
+<!ENTITY hdrReplyButton1.label "Atbildēt">
+<!ENTITY hdrReplyButton2.tooltip "Atbildēt šīs vēstules sūtītājam">
+<!ENTITY hdrReplyAllButton1.label "Atbildēt visiem">
+<!ENTITY hdrReplyAllButton1.tooltip "Atbildēt sūtītājam un visiem adresātiem">
+<!ENTITY hdrReplyListButton1.label "Atbildes saraksts">
+<!ENTITY hdrReplyListButton1.tooltip "Atbildēt adresātu sarakstam">
+<!ENTITY hdrFollowupButton1.label "Sekot">
+<!ENTITY hdrFollowupButton1.tooltip "Publicēt sekojumu šajā ziņu grupā">
+<!ENTITY hdrForwardButton1.label "Pārsūtīt">
+<!ENTITY hdrForwardButton1.tooltip "Pārsūtīt šo vēstuli">
+<!ENTITY hdrJunkButton1.label "Draza">
+<!ENTITY hdrJunkButton1.tooltip "Atzīmēt šo vēstuli kā drazu">
 <!ENTITY hdrTrashButton1.label "Dzēst">
+<!ENTITY hdrTrashButton1.tooltip "Dzēst šo vēstuli">
 
+<!ENTITY hdrViewToolbarShowFull.label "Rādīt ikonas un tekstu">
+<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowIcons.label "Rādīt tikai ikonas">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowText.label "Rādīt tikai tekstu">
+<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Vienmēr rādīt atbildi sūtītājam">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY otherActionsButton2.label "Vairāk">
+<!ENTITY otherActionsButton.tooltip "Vairāk darbību">
+<!ENTITY otherActionsOpenConversation1.label "Atvērt sarunā">
+<!ENTITY otherActionsOpenConversation1.accesskey "S">
+<!ENTITY otherActionsOpenInNewWindow1.label "Atvērt jaunā logā">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "L">
+<!ENTITY otherActionsOpenInNewTab1.label "Atvērt jaunā cilnē">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "C">
+<!ENTITY markAsReadMenuItem1.label "Atzīmēt kā lasītu">
+<!ENTITY markAsReadMenuItem1.accesskey "L">
+<!ENTITY markAsUnreadMenuItem1.label "Atzīmēt kā nelasītu">
+<!ENTITY markAsUnreadMenuItem1.accesskey "n">
 <!ENTITY saveAsMenuItem1.label "Saglabāt kā…">
 <!ENTITY saveAsMenuItem1.accesskey "S">
-
-
-
+<!ENTITY viewSourceMenuItem1.label "Skatīt avotu">
+<!ENTITY viewSourceMenuItem1.accesskey "S">
+<!ENTITY otherActionsPrint1.label "Drukāt…">
+<!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Sākotnēji rādīt pielikumu rūti">
+<!ENTITY startExpandedCmd.accesskey    "R">
 
 <!-- Attachment context menu items -->
-
 <!ENTITY openAttachmentCmd.label    "Atvērt">
 <!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Saglabāt kā…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "S">
-
-
+<!ENTITY detachAttachmentCmd.label    "Atdalīt…">
+<!ENTITY detachAttachmentCmd.accesskey    "A">
 <!ENTITY deleteAttachmentCmd.label    "Dzēst">
 <!ENTITY deleteAttachmentCmd.accesskey    "D">
-
-
+<!ENTITY openAllAttachmentsCmd.label    "Atvērt visus…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "A">
 <!ENTITY saveAllAttachmentsCmd.label    "Saglabāt kā…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY detachAllAttachmentsCmd.label    "Atdalīt visus…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "A">
+<!ENTITY deleteAllAttachmentsCmd.label    "Dzēst visus…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "d">
 
+<!ENTITY openAttachment.tooltip "Atvērt pievienoto failu">
 
-
-
+<!ENTITY detachedAttachmentFolder.show.label        "Atvērt saturošo mapi">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "M">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Rādīt meklētājā">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "M">
 
 <!-- Attachment toolbar items -->
-
 <!ENTITY saveAttachmentButton1.label       "Saglabāt">
-
+<!ENTITY saveAttachmentButton1.tooltip     "Saglabāt pievienoto failu">
 <!ENTITY saveAllAttachmentsButton1.label   "Saglabāt visu">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Saglabāt visus pievienotos failus">
 
-
-
-
-
-
-
-
+<!ENTITY copyLinkCmd.label        "Kopēt saites vietu">
 
