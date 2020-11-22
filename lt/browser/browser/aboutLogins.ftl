@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importuoti iš kitos naršyklės…
 about-logins-menu-menuitem-import-from-a-file = Importuoti iš failo…
 about-logins-menu-menuitem-export-logins = Eksportuoti prisijungimus…
+about-logins-menu-menuitem-remove-all-logins = Pašalinti visus prisijungimus…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Nuostatos
@@ -169,6 +170,40 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Pašalinti šį prisijungimą?
 confirm-delete-dialog-message = Atlikus šį veiksmą, jo atšaukti neįmanoma.
 about-logins-confirm-remove-dialog-confirm-button = Pašalinti
+about-logins-confirm-remove-all-dialog-confirm-button = Pašalinti visus
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Taip, pašalinti šį prisijungimą
+        [one] Taip, pašalinti šį prisijungimą
+        [few] Taip, pašalinti šiuos prisijungimus
+       *[other] Taip, pašalinti šiuos prisijungimus
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Pašalinti { $count } prisijungimą?
+        [few] Pašalinti visus { $count } prisijungimus?
+       *[other] Pašalinti visus { $count } prisijungimų?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Bus pašalintas į „{ -brand-short-name }“ įrašytas prisijungimas, ir visi čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+        [one] Bus pašalintas į „{ -brand-short-name }“ įrašytas prisijungimas, ir visi čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+        [few] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, ir visi čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+       *[other] Bus pašalinti į „{ -brand-short-name }“ įrašytas prisijungimai, ir visi čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Pašalinti { $count } prisijungimą iš visų įrenginių?
+        [few] Pašalinti visus { $count } prisijungimus iš visų įrenginių?
+       *[other] Pašalinti visus { $count } prisijungimų iš visų įrenginių?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Bus pašalintas į „{ -brand-short-name }“ įrašytas prisijungimas, iš visų su „{ -fxaccount-brand-name }“ susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+        [one] Bus pašalintas į „{ -brand-short-name }“ įrašytas prisijungimas, iš visų su „{ -fxaccount-brand-name }“ susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+        [few] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, iš visų su „{ -fxaccount-brand-name }“ susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+       *[other] Bus pašalinti į „{ -brand-short-name }“ įrašyti prisijungimai, iš visų su „{ -fxaccount-brand-name }“ susietų įrenginių. Tuo pačiu bus pašalinti čia matomi nutekėjimų pranešimai. Šis veiksmas galutinis.
+    }
 about-logins-confirm-export-dialog-title = Eksportuoti prisijungimus ir slaptažodžius
 about-logins-confirm-export-dialog-message = Jūsų slaptažodžiai bus įrašyti kaip perskaitomas tekstas (pvz., BlogasSl@ptaz0dis), tad bet kas galintis atverti eksportuotą failą galės juos peržiūrėti.
 about-logins-confirm-export-dialog-confirm-button = Eksportuoti…
