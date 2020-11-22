@@ -33,9 +33,47 @@ about-processes-web-isolated-process-name = Saitynas (procesas { $pid }), skirta
 about-processes-web-large-allocation = Saitynas (procesas { $pid }, didelis), skirtas { $origin }
 about-processes-with-coop-coep-process-name = Saitynas (procesas { $pid }, „cross-origin“ izoliuotas), skirtas { $origin }
 about-processes-file-process-name = Failai (procesas { $pid })
+about-processes-extension-process-name = Priedai (procesas { $pid })
+about-processes-privilegedabout-process-name = Apie (procesas { $pid })
+about-processes-plugin-process-name = Papildiniai (procesas { $pid })
+about-processes-privilegedmozilla-process-name = Saitynas (procesas { $pid }), skirtas „{ -vendor-short-name }“ svetainėms
+about-processes-gmp-plugin-process-name = „Gecko“ medijos papildiniai (procesas { $pid })
+about-processes-gpu-process-name = GPU (procesas { $pid })
+about-processes-vr-process-name = VR (procesas { $pid })
+about-processes-rdd-process-name = Duomenų iškoduotuvas (procesas { $pid })
+about-processes-socket-process-name = Tinklas (procesas { $pid })
+about-processes-remote-sandbox-broker-process-name = Nuotolinis izoliavimo brokeris (procesas { $pid })
+about-processes-fork-server-process-name = „Fork“ serveris (procesas { $pid })
+about-processes-preallocated-process-name = Išskirtas iš anksto (procesas { $pid })
+about-processes-unknown-process-name = Kitas ({ $type }, procesas { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Procesas { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Gijos ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Gija { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Kortelė: { $name }
+about-processes-preloaded-tab = Iš anksto įkelta nauja kortelė
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Sub-kadras: { $url }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
