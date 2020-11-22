@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Labels -->
+<!ENTITY newFolderDialog.title      "Jauna mape">
+<!ENTITY name.label                 "Nosaukums:">
+<!ENTITY name.accesskey             "n">
+<!ENTITY description.label          "Izveidot kā apakšmapi iekš:">
+<!ENTITY description.accesskey      "c">
+<!ENTITY folderRestriction1.label   "Šis serveris atļauj divu īpašu mapju veidus.">
+<!ENTITY folderRestriction2.label   "Ļaut jaunajai mapei saturēt:">
+<!ENTITY foldersOnly.label          "Tikai mapes">
+<!ENTITY messagesOnly.label         "Tikai vēstules">
+<!ENTITY accept.label               "Izveidot mapi">
+<!ENTITY accept.accesskey           "i">

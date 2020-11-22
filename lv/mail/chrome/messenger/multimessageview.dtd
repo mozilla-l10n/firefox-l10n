@@ -4,4 +4,5 @@
 
 <!ENTITY window.title             "Vēstules kopsavilkums">
 <!ENTITY selectedmessages.label   "Atlasītās vēstules">
+<!ENTITY archiveButton.label      "Arhivēt">
 <!ENTITY deleteButton.label       "Dzēst">
