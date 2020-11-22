@@ -22,7 +22,12 @@
 <!ENTITY warn.enteringsecure                "Φόρτωση σελίδας που υποστηρίζει κρυπτογράφηση">
 <!ENTITY warn.enteringsecure.accesskey      "Φ">
 
+<!ENTITY warn.mixedactivecontent            "Προειδοποίηση όταν κρυπτογραφημένες σελίδες περιέχουν επισφαλές περιεχόμενο">
+<!ENTITY warn.mixedactivecontent.accesskey  "Π">
+<!ENTITY warn.mixeddisplaycontent           "Προειδοποίηση όταν κρυπτογραφημένες σελίδες περιέχουν άλλους τύπους μικτού περιεχομένου">
+<!ENTITY warn.mixeddisplaycontent.accesskey "π">
 
+<!ENTITY certselect.description             "Αποφασίστε τον τρόπο επιλογής ασφαλούς πιστοποιητικού στο &brandShortName; για παρουσίαση σε ιστοσελίδες που το απαιτούν:">
 <!ENTITY certselect.auto                    "Αυτόματη επιλογή">
 <!ENTITY certselect.auto.accesskey          "Α">
 <!ENTITY certselect.ask                     "Ερώτηση κάθε φορά">

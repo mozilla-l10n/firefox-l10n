@@ -58,6 +58,9 @@
 <!ENTITY maxMessagesEnd.label "μηνυμάτων">
 <!ENTITY newsrcFilePath.label "Αρχείο newsrc:">
 <!ENTITY newsrcPicker.label "Επιλογή αρχείου newsrc">
+<!ENTITY abbreviate.label "Εμφάνιση ονομάτων ομάδων συζήτησης στην προβολή φακέλων αλληλογραφίας με:">
+<!ENTITY abbreviateOn.label "Πλήρη ονόματα (για παράδειγμα, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Σύντομα ονόματα (για παράδειγμα, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Για προχωρημένους…">
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση κειμένου:">
 <!ENTITY advancedButton.accesskey "χ">
@@ -70,5 +73,7 @@
 
 <!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY accountSettingsDesc.label "Ο ακόλουθος λογαριασμός είναι ειδικός. Δεν υπάρχουν ταυτότητες που να σχετίζονται με αυτόν.">
+<!ENTITY storeType.label "Τρόπος αποθήκευσης μηνυμάτων:">
+<!ENTITY storeType.accesskey "Τ">
 <!ENTITY mboxStore2.label "Αρχείο ανά φάκελο (mbox)">
 <!ENTITY maildirStore.label "Αρχείο ανά μήνυμα (maildir)">
