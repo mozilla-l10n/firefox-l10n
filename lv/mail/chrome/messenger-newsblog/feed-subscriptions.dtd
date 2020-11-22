@@ -1,36 +1,46 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
+<!ENTITY feedSubscriptions.label     "Plūsmas abonementi">
+<!ENTITY learnMore.label             "Uzzināt vairāk par plūsmām">
 
 <!ENTITY feedTitle.label             "Nosaukums:">
 <!ENTITY feedTitle.accesskey         "N">
 
-
-
+<!ENTITY feedLocation.label          "Plūsmas URL:">
+<!ENTITY feedLocation.accesskey      "P">
+<!ENTITY feedLocation2.placeholder   "Ievadiet pareizu plūsmas URL">
 <!ENTITY locationValidate.label      "Validēt">
+<!ENTITY validateText.label          "Pārbaudīt validāciju un iegūt derīgu URL.">
 
-
+<!ENTITY feedFolder.label            "Saglabāt rakstus iekš:">
+<!ENTITY feedFolder.accesskey        "S">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Pārbaudīt jaunus rakstus katru">
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "minūtes">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dienas">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Izdevējs iesaka:">
 
+<!ENTITY quickMode.label             "Nelādēt tīmekļa lapu, bet parādīt raksta kopsavilkumu">
+<!ENTITY quickMode.accesskey         "h">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY autotagEnable.label         "Automātiski izveidot birkas no plūsmas &lt;category&gt; nosaukumiem">
+<!ENTITY autotagEnable.accesskey     "o">
+<!ENTITY autotagUsePrefix.label      "Birku priedēklis:">
+<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autoTagPrefix.placeholder   "Ievadiet birkas priedēkli">
 
 <!-- Subscription Dialog -->
-
 <!ENTITY button.addFeed.label        "Pievienot">
 <!ENTITY button.addFeed.accesskey    "P">
+<!ENTITY button.verifyFeed.label     "Pārbaudīt">
+<!ENTITY button.verifyFeed.accesskey "P">
 <!ENTITY button.updateFeed.label     "Atjaunināt">
 <!ENTITY button.updateFeed.accesskey "u">
 <!ENTITY button.removeFeed.label     "Noņemt">
@@ -39,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Eksportēt">
 <!ENTITY button.exportOPML.accesskey "s">
-
+<!ENTITY button.exportOPML.tooltip   "Eksportēt plūsmas ar mapju struktūru; klikšķiniet Ctrl vai Ctrl+Enter, lai eksportētu plūsmas kā sarakstu">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Aizvērt">

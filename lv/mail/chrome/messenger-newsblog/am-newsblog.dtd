@@ -2,12 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY biffAll.label                 "Ieslēgt atjaunojumus visām plūsmām">
+<!ENTITY biffAll.accesskey             "I">
 
-
-
+<!ENTITY newFeedSettings.label         "Jauno plūsmu noklusētie iestatījumi">
 
 <!ENTITY manageSubscriptions.label     "Pārvaldīt abonementus...">
 <!ENTITY manageSubscriptions.accesskey "P">
 
 <!ENTITY feedWindowTitle.label         "Barotnes konta vednis">
-
+<!ENTITY feeds.accountName             "Emuāri &amp; Ziņu plūsmas">
