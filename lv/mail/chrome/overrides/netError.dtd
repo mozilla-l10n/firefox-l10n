@@ -118,13 +118,49 @@
 ">
 
 <!ENTITY unknownSocketType.title "Negaidīta atbilde no servera">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+ <li>Pārliecinieties, ka jūsu datorā ir uzstādīts Personiskās drošības pārvaldnieks.</li>
+ <li>Iemesls var būt arī nestandarta servera iestatījumi.</li>
+</ul>">
 
+<!ENTITY nssFailure2.title "Drošais savienojums neizdevās">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Lapu, kuru jūs šobrīd mēģināt aplūkot, nevar parādīt, jo nevar pārbaudīt tās nosūtīto datu autentiskumu.</li>
+  <li>Lūdzu, sazinieties ar vietnes īpašniekiem un informējiet viņus par šo problēmu.</li>
+</ul>
+">
 
+<!ENTITY nssBadCert.title "Drošais savienojums neizdevās">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+ <li>Šī var būt problēma ar servera iestatījumiem vai norādīt, ka par šo serveri uzdodas cits dators.</li>
+ <li>Ja senāk esat pieslēdzies šim serverim, problēma var būt īslaicīga. Tad mēģiniet vēlreiz nedaudz vēlāk.</li>
+</ul>
+">
 
+<!ENTITY sharedLongDesc "
+<ul>
+  <li> Vietne, iespējams, īslaicīgi nav pieejama vai ir pārāk aizņemta. Mēģiniet vēlreiz
+    nedaudz vēlāk. </li>
+  <li> Ja nevarat ielādēt nevienu lapu, pārbaudiet sava datora tīkla savienojumu. </li>
+  <li> Ja jūsu datoru vai tīklu aizsargā ugunsmūris vai starpniekserveris, pārliecinieties, ka
+ &brandShortName; ir atļauts piekļūt tīmeklim.</li>
+</ul>
+">
 
+<!ENTITY cspBlocked.title "Bloķē satura drošības politika">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi saskaņā ar tā drošības politiku.</p>">
 
+<!ENTITY xfoBlocked.title "Bloķēts saskaņā ar X-Frame-Options politiku">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; neļāva šo lapu ielādēt šajā kontekstā, jo tas ir aizliegts saskaņā ar X-Frame-Options politiku.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Bojāta satura kļūda">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Lapu, kuru mēģināt skatīt, nevar parādīt, jo tika konstatēta kļūda datu pārsūtīšanā.</p> <ul><li>Lūdzu, sazinieties ar vietnes īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">
 
+<!ENTITY securityOverride.linkText "Vai arī varat pievienot izņēmumu…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Doties prom no šejienes!">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
