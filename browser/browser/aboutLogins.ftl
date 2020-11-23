@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Nhập dữ liệu từ trình duyệt khác…
 about-logins-menu-menuitem-import-from-a-file = Nhập từ tập tin…
 about-logins-menu-menuitem-export-logins = Xuất thông tin đăng nhập…
+about-logins-menu-menuitem-remove-all-logins = Xóa tất cả thông tin đăng nhập…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Tùy chọn
@@ -167,6 +168,30 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Xoá thông tin đăng nhập này?
 confirm-delete-dialog-message = Thao tác này không thể hoàn tác được.
 about-logins-confirm-remove-dialog-confirm-button = Xóa
+about-logins-confirm-remove-all-dialog-confirm-button = Xóa tất cả
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Có, xóa thông tin đăng nhập này
+       *[other] Có, xóa các thông tin đăng nhập này
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+       *[other] Xóa tất cả { $count } thông tin đăng nhập?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Thao tác này sẽ xóa thông tin đăng nhập bạn đã lưu vào { -brand-short-name } và mọi cảnh báo rò rỉ xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
+       *[other] Thao tác này sẽ xóa các thông tin đăng nhập bạn đã lưu vào { -brand-short-name } và mọi cảnh báo rò rỉ xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] Xóa tất cả { $count } thông tin đăng nhập khỏi tất cả các thiết bị?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Thao tác này sẽ xóa thông tin đăng nhập bạn đã lưu vào { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa với { -fxaccount-brand-name } của bạn. Thao tác này cũng sẽ xóa các cảnh báo rò rỉ xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
+       *[other] Thao tác này sẽ xóa tất cả các thông tin đăng nhập bạn đã lưu vào { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa với { -fxaccount-brand-name } của bạn. Thao tác này cũng sẽ xóa các cảnh báo rò rỉ xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
+    }
 about-logins-confirm-export-dialog-title = Xuất thông tin đăng nhập và mật khẩu
 about-logins-confirm-export-dialog-message = Mật khẩu của bạn sẽ được lưu dưới dạng văn bản có thể đọc được (ví dụ: BadP@ssw0rd) để bất kỳ ai có thể mở tập tin được xuất đều có thể xem chúng.
 about-logins-confirm-export-dialog-confirm-button = Xuất…
