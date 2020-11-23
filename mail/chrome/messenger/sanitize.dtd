@@ -31,8 +31,12 @@ that require it.  -->
 <!ENTITY itemHistory.accesskey             "P">
 <!ENTITY itemCookies.label                 "Sīkfaili">
 <!ENTITY itemCookies.accesskey             "S">
+<!ENTITY itemCache.label                   "Kešs">
+<!ENTITY itemCache.accesskey               "K">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Šo darbību nevar atsaukt.">
 
+<!ENTITY dialog.width                 "28em">
