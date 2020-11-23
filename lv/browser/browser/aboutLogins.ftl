@@ -43,6 +43,12 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } priekš iPhone un iPad
 
 login-list =
     .aria-label = Meklēšanas nosacījumiem atbilstošie lietotājvārdi
+login-list-count =
+    { $count ->
+        [zero] { $count } lietotājvārds
+        [one] { $count } lietotājvārdi
+       *[other] { $count } lietotājvārds
+    }
 login-list-sort-label-text = Kārtot pēc:
 login-list-name-option = Nosaukuma (A-Z)
 login-list-name-reverse-option = Nosaukuma (Z-A)
