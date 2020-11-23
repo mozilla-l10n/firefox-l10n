@@ -5,39 +5,28 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Neizdevās ielādēt lapu">
 <!ENTITY retry.label "Mēģiniet vēlreiz">
 
 <!-- Specific error messages -->
 
-
 <!ENTITY connectionFailure.title "Neizdevās savienoties">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-
+<!ENTITY deniedPortAccess.title "Šī adrese ir liegta">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveris nav atrasts">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Pārbaudiet lapas adreses drukas kļūdas, piemēram:
+    <strong>ww</strong>.piem.lv
+    <strong>www</strong>.piem.lv vietā</li>
+  <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet sava datora tīklu.</li>
+  <li>Ja jūsu datoru vai tīklu aizsargā ugunsmūris vai starpniekserveris, pārliecinieties, vai &brandShortName; ir atļauts piekļūt tīmeklim.</li>
+</ul>">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fileNotFound.title "Fails nav atrasts">
 
 
 
@@ -70,4 +59,5 @@ functionality specific to thunderbird. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
