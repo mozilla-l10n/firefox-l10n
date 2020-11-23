@@ -27,6 +27,7 @@ inactive-css-not-display-block-on-floated = Ri <strong>tz'etoj</strong> xujäl r
 inactive-css-property-is-impossible-to-override-in-visited = Tikirel niyuj <strong>{ $property }</strong> ruma ri q'atoj <strong>:xtz'et</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> majun nub'än pa re ch'akulal re' ruma chi majun ta ch'akulal ya'on ruk'ojlem.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> majun nub'än pa re ch'akulal re' ruma chi ri <strong>overflow:hidden</strong> man jikib'an ta.
+inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> majun achike nub'än chi re re ch'akulal re', ruma chi ri <strong>ruchib'al-b'anikil</strong> ja ri <strong>auto</strong> o <strong>none</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -45,6 +46,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Titojtob'
 inactive-css-not-display-block-on-floated-fix = Tatojtob'ej nayüj <strong>jun k'o wi</strong> o tatz'aqatisaj <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Tatojtob'ej najikib'a' runuk'ulem <strong>k'ojlemal</strong> chuwäch <strong>jun k'o wi</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Tatojtob'ej natz'aqatisaj <strong>overflow:hidden</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Tatojtob'ej najäl ri rub'anikil <strong>outline-style</strong> rik'in jun chik chuwa ri <strong>auto</strong> o <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
