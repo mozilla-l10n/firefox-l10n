@@ -3,3 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY viewLog.title "Filtru žurnāls">
+<!ENTITY viewLogInfo.text "Filtru žurnāls dokumentē šajā kontā palaistos filtrus. Lai ieslēgtu žurnalēšanu, izmantojiet zemāk esošo izvēles rūtiņu.">
+<!ENTITY clearLog.label "Notīrīt žurnālu">
+<!ENTITY clearLog.accesskey "N">
+<!ENTITY enableLog.label "Ieslēgt filtru žurnālu">
+<!ENTITY enableLog.accesskey "I">
+<!ENTITY closeLog.label "Aizvērt">
+<!ENTITY closeLog.accesskey "z">
