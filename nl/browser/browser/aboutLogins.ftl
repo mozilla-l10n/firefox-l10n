@@ -181,10 +181,22 @@ about-logins-confirm-remove-all-dialog-title =
         [one] { $count } aanmelding verwijderen?
        *[other] Alle { $count } aanmeldingen verwijderen?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen en alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+        [one] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen en alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+       *[other] Dit verwijdert de aanmeldingen die u in { -brand-short-name } hebt opgeslagen en alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } aanmelding van alle apparaten verwijderen?
        *[other] Alle { $count } aanmeldingen van alle apparaten verwijderen?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+        [one] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+       *[other] Dit verwijdert de aanmeldingen die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
     }
 about-logins-confirm-export-dialog-title = Aanmeldingen en wachtwoorden exporteren
 about-logins-confirm-export-dialog-message = Uw wachtwoorden worden opgeslagen als leesbare tekst (bijvoorbeeld BadP@ssw0rd), dus iedereen die het geëxporteerde bestand kan openen, kan ze bekijken.
