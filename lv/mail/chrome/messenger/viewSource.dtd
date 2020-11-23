@@ -1,0 +1,86 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/viewSource.xhtml -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Pirmkods:">
+
+<!ENTITY editMenu.label "Rediģēt">
+<!ENTITY editMenu.accesskey "R">
+<!ENTITY fileMenu.label "Fails">
+<!ENTITY fileMenu.accesskey "F">
+<!ENTITY savePageCmd.label "Saglabāt lapu kā…">
+<!ENTITY savePageCmd.accesskey "S">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "Lapas iestatījumi…">
+<!ENTITY pageSetupCmd.accesskey "i">
+<!ENTITY printPreviewCmd.label "Drukas priekšskats">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Drukāt…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "Aizvērt">
+<!ENTITY closeCmd.accesskey "A">
+<!ENTITY closeCmd.commandkey "W">
+
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
+
+<!ENTITY goToLineCmd.label "Iet uz rindu…">
+<!ENTITY goToLineCmd.accesskey "G">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY viewMenu.label           "Skats">
+<!ENTITY viewMenu.accesskey       "S">
+<!ENTITY reloadCmd.label "Pārlādēt">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY menu_wrapLongLines.title "Aplauzt garas rindas">
+<!ENTITY menu_wrapLongLines.accesskey "A">
+<!ENTITY menu_highlightSyntax.label "Sintakses izcelšana">
+<!ENTITY menu_highlightSyntax.accesskey "S">
+<!ENTITY menu_textSize.label "Teksta izmērs">
+<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textEnlarge.label "Palielināt">
+<!ENTITY menu_textEnlarge.accesskey "P">
+<!ENTITY menu_textReduce.label "Samazināt">
+<!ENTITY menu_textReduce.accesskey "S">
+<!ENTITY menu_textReset.label "Parasts">
+<!ENTITY menu_textReset.accesskey "P">
+
+<!ENTITY findOnCmd.label     "Meklēt šajā lapā…">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Meklēt vēlreiz">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
+
+<!ENTITY backCmd.label "Atpakaļ">
+<!ENTITY backCmd.accesskey "A">
+<!ENTITY forwardCmd.label "Uz priekšu">
+<!ENTITY forwardCmd.accesskey "P">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label "Kopēt saites vietu">
+<!ENTITY copyLinkCmd.accesskey "V">
