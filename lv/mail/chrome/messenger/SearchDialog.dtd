@@ -1,65 +1,37 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- for SearchDialog.xul -->
 
-
-
-
-
-
-
+<!-- for SearchDialog.xhtml -->
+<!ENTITY searchHeading.label         "Meklēt vēstules iekš:">
+<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchSubfolders.label      "Meklēt apakšmapēs">
+<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchOnServer.label        "Laist meklēšanu serverī">
+<!ENTITY searchOnServer.accesskey    "u">
+<!ENTITY resetButton.label           "Notīrīt">
+<!ENTITY resetButton.accesskey       "N">
 <!ENTITY openButton.label            "Atvērt">
 <!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Dzēst">
 <!ENTITY deleteButton.accesskey      "D">
+<!ENTITY searchDialogTitle.label     "Meklēt vēstules">
+<!ENTITY results.label               "Rezultāti">
+<!ENTITY moveButton.label            "Pārvietot uz">
+<!ENTITY moveButton.accesskey        "T">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY openInFolder.label          "Atvērt mapē">
+<!ENTITY openInFolder.accesskey      "o">
+<!ENTITY saveAsVFButton.label        "Saglabāt kā meklēšanas mapi">
+<!ENTITY saveAsVFButton.accesskey    "v">
 
-
-
-
-
-
-
-
-
-<!-- for ABSearchDialog.xul -->
-
-
-
-
-
+<!-- for abSearchDialog.xhtml -->
+<!ENTITY abSearchHeading.label       "Meklēt:">
+<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY propertiesButton.label      "Īpašības">
+<!ENTITY propertiesButton.accesskey  "Ī">
+<!ENTITY composeButton.label         "Rakstīt">
+<!ENTITY composeButton.accesskey     "R">
 <!ENTITY deleteCardButton.label      "Dzēst">
 <!ENTITY deleteCardButton.accesskey  "D">
-
-<!-- Thread Pane -->
-
-
-
-
-
-
-
-
-
-
-
-<!-- Thread Pane Tooltips -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY abSearchDialogTitle.label   "Izvērsta adrešu grāmatas meklēšana">
