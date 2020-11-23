@@ -161,6 +161,7 @@
 
 <!ENTITY securityOverride.linkText "Vai arī varat pievienot izņēmumu…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Doties prom no šejienes!">
+<!ENTITY securityOverride.exceptionButtonLabel "Pievienot izņēmumu…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
