@@ -27,21 +27,97 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Fails nav atrasts">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li> Pārbaudiet, vai faila nosaukumā nav lielo burtu vai citu rakstīšanas kļūdu.</li>
+  <li> Pārbaudiet, vai fails nav pārvietots, pārdēvēts vai izdzēsts.</li>
+</ul>
+">
 
+<!ENTITY fileAccessDenied.title "Piekļuve failam tika liegta">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li> Iespējams, tas ir noņemts, pārvietots vai piekļuvi aizliedz faila atļaujas.</li>
+</ul>
+">
 
+<!ENTITY generic.title "Ui.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; nez' kāpēc nevar ielādēt šo lapu.</p>
+">
 
+<!ENTITY malformedURI.title "Adrese nav derīga">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li> Tīmekļa adreses parasti tiek rakstītas kā
+    <strong>http://www.piem.lv/</strong></li>
+  <li>Pārliecinieties, vai izmantojat slīpsvītru uz priekšu (t.i.
+    <strong>/</strong>).</li>
+</ul>
+">
 
+<!ENTITY netInterrupt.title "Savienojums tika pārtraukts">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Dokuments izbeidzies">
+<!ENTITY notCached.longDesc "<p>Pieprasītais dokuments kešatmiņā nav pieejams.</p><ul><li>Drošības nolūkos &brandShortName; automātiski nepārprasa slepenus dokumentus.</li><li>Klikšķiniet uz Mēģināt vēlreiz, lai atkārtoti pieprasītu dokumentu no vietnes.</li></ul>">
 
+<!ENTITY netOffline.title "Nesaistes režīms">
+<!ENTITY netOffline.longDesc2 "
+<ul><li>Spiediet &quot;Mēģināt vēlreiz&quot; lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.</li></ul>
+">
 
+<!ENTITY contentEncodingError.title "Satura kodējuma kļūda">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Lūdzu, informējiet vietnes īpašniekus par šo problēmu.</li>
+</ul>
+">
 
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Lūdzu, informējiet vietnes īpašniekus par šo problēmu.</li>
+</ul>
+">
 
+<!ENTITY netReset.title "Savienojums tika pārstatīts">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.title "Savienojumam iestājās noildze">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Adrese netika saprasta">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Iespējams, lai atvērtu šādu adresi, jums jāuzstāda kāda cita programma.</li>
+</ul>
+">
 
+<!ENTITY proxyConnectFailure.title "Starpniekserveris nepieņem savienojumus">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Pārliecinieties, ka starpniekservera iestatījumi ir pareizi</li>
+  <li>Lai pārliecinātos, ka starpniekserveris strādā, sazinieties ar savu tīkla administratoru.</li>
+</ul>
+">
 
+<!ENTITY proxyResolveFailure.title "Neizdodas atrast starpniekserveri">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Pārliecinieties, ka starpniekservera iestatījumi ir pareizi.</li>
+  <li>Pārliecinieties, ka jūsu datoram strādā tīkla savienojums.</li>
+  <li>Ja jūsu datu aizsardzībai tiek izmantots ugunsmūris, pārliecinieties, ka &brandShortName; ir atļauts piekļūt tīmeklim.</li>
+</ul>
+">
 
+<!ENTITY redirectLoop.title "Lapa netiek korekti pārsūtīta">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Šī problēma dažkārt rodas no tā, ka ir atslēgti vai netiek pieņemti sīkfaili.</li>
+</ul>
+">
 
+<!ENTITY unknownSocketType.title "Negaidīta atbilde no servera">
 
 
 
