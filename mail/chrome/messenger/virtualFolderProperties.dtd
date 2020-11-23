@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY virtualFolderProperties.title "Jauna saglabātā meklēšanas mape">
+<!ENTITY name.label                 "Nosaukums:">
+<!ENTITY name.accesskey             "N">
+<!ENTITY description.label          "Izveidot kā apakšmapi iekš:">
+<!ENTITY description.accesskey      "C">
+
+<!ENTITY searchTermCaption.label "Iestatiet šajā saglabātajā meklēšanas mapē izmantotos meklēšanas kritērijus:">
+
+<!ENTITY folderSelectionCaption.label "Atlasiet mapes meklēšanai:">
+<!ENTITY chooseFoldersButton.label "Izvēlieties…">
+<!ENTITY chooseFoldersButton.accesskey "h">
+
+<!ENTITY searchOnline.label "Meklēt tiešsaistē (sniedz jaunākos rezultātus IMAP un News mapēm, bet palielina mapes atvēršanas laiku)">
+<!ENTITY searchOnline.accesskey "S">
+<!ENTITY newFolderButton.label       "Izveidot">
+<!ENTITY newFolderButton.accesskey   "z">
+<!ENTITY editFolderButton.label      "Atjaunot">
+<!ENTITY editFolderButton.accesskey  "A">

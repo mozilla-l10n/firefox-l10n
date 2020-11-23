@@ -8,18 +8,23 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
-<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.label       "Tuvināt">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "T">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-
-
+<!ENTITY fullZoomReduceCmd.label        "Tālināt">
+<!ENTITY fullZoomReduceCmd.accesskey    "T">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-
-
+<!ENTITY fullZoomResetCmd.label         "Atstatīt">
+<!ENTITY fullZoomResetCmd.accesskey     "S">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-
-
-
+<!ENTITY fullZoomToggleCmd.label        "Mērogot tikai tekstu">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "Mērogs">
+<!ENTITY fullZoom.accesskey             "M">

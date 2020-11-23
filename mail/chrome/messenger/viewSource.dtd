@@ -84,3 +84,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY copyLinkCmd.label "Kopēt saites vietu">
 <!ENTITY copyLinkCmd.accesskey "V">
+<!ENTITY copyEmailCmd.label "Kopēt epasta adresi">
+<!ENTITY copyEmailCmd.accesskey "E">
