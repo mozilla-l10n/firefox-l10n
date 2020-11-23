@@ -8,9 +8,23 @@ about-logins-page-title = Lietotājvārdi un paroles
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Paņemiet paroles sev līdz
+login-app-promo-subtitle = Iegūstiet bezmaksas { -lockwise-brand-name } lietotni
+login-app-promo-android =
+    .alt = Iegūstiet to no Google Play
+login-app-promo-apple =
+    .alt = Lejupielādējiet no App Store
+login-filter =
+    .placeholder = Meklēt pieteikšanās
+create-login-button = Izveidot jaunu pieteikšanos
+fxaccounts-sign-in-text = Iegūstiet savas paroles citās ierīcēs
+fxaccounts-sign-in-button = Pierakstīties { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Pārvaldīt kontu
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Atvērt izvēlni
 about-logins-menu-menuitem-help = Palīdzība
 
 ## Login List
