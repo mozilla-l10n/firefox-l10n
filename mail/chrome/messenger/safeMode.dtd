@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title             "&brandShortName; drošais režīms">
+<!ENTITY window.width                     "37em">
+
+<!ENTITY safeModeDescription.label        "&brandShortName; tagad darbojas drošajā režīmā, kas īslaicīgi atslēdz pielāgotos iestatījumus, tēmas un paplašinājumus.">
+<!ENTITY safeModeDescription2.label       "Dažas vai visas šīs izmaiņas varat padarīt par pastāvīgām:">
+
+<!ENTITY disableAddons.label              "Atslēgt visus papildinājumus">
+<!ENTITY disableAddons.accesskey          "A">
+
+<!ENTITY resetToolbars.label              "Atstatīt rīkjoslas un vadīklas">
+<!ENTITY resetToolbars.accesskey          "A">
+
+<!ENTITY changeAndRestartButton.label     "Veikt izmaiņas un pārstartēt">
+<!ENTITY changeAndRestartButton.accesskey "V">
+
+<!ENTITY continueButton.label             "Turpināt drošajā režīmā">
+<!ENTITY continueButton.accesskey         "T">

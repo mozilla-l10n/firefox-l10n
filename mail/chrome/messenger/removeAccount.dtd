@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "Noņemt kontu un datus">
+<!ENTITY removeButton.label           "Noņemt">
+<!ENTITY removeButton.accesskey       "N">
+<!ENTITY removeAccount.label          "Noņemt konta informāciju">
+<!ENTITY removeAccount.accesskey      "i">
+<!ENTITY removeAccount.desc           "Noņem tikai &brandShortName; zināšanas par šo kontu. Neietekmē pašu kontu serverī.">
+<!ENTITY removeData.label             "Noņemt vēstuļu datus">
+<!ENTITY removeData.accesskey         "n">
+<!ENTITY removeDataChat.label         "Noņemt sarunu datus">
+<!ENTITY removeDataChat.accesskey     "s">
+<!ENTITY removeDataLocalAccount.desc  "No jūsu vietējā diska tiks noņemtas visas ar šo kontu saistītās vēstules, mapes un filtri. Tas neietekmē dažas vēstules, kuras joprojām var glabāt serverī. Neizvēlieties to, ja plānojat arhivēt vietējos datus vai vēlāk tos atkārtoti izmantot &brandShortName;.">
+<!ENTITY removeDataServerAccount.desc "No jūsu vietējā diska tiek noņemtas visas ar šo kontu saistītās vēstules, mapes un filtri. Jūsu vēstules un mapes joprojām tiek turētas serverī.">
+<!ENTITY removeDataChatAccount.desc   "Tiek noņemti visi šim kontam lokālā diskā saglabātie sarunu žurnāli.">
+<!ENTITY showData.label               "Rādīt datu vietu">
+<!ENTITY showData.accesskey           "R">
+<!ENTITY progressPending              "Noņem izvēlētos datus…">
+<!ENTITY progressSuccess              "Noņemšana izdevās.">
+<!ENTITY progressFailure              "Noņemšana neizdevās.">

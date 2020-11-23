@@ -265,8 +265,12 @@
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch
+         "Turpināt šo meklēšanu visās mapēs">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
+         "Vēlreiz nospiediet ievades taustiņu, lai turpinātu meklēt: #1">

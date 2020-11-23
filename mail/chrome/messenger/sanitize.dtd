@@ -2,30 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY sanitizeDialog2.title         "Notīrīt neseno vēsturi">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
-
-
-
-
-
+<!ENTITY clearTimeDuration.label          "Notīrāmais laika diapazons:">
+<!ENTITY clearTimeDuration.accesskey      "L">
+<!ENTITY clearTimeDuration.lastHour       "Pēdējā stunda">
+<!ENTITY clearTimeDuration.last2Hours     "Pēdējās divas stundas">
+<!ENTITY clearTimeDuration.last4Hours     "Pēdējās četras stundas">
+<!ENTITY clearTimeDuration.today          "Šodien">
+<!ENTITY clearTimeDuration.everything     "Visu">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "Sīkāk">
+<!ENTITY detailsProgressiveDisclosure.accesskey "s">
 
 
+<!ENTITY historyGroup.label                "Vēsture">
 
-
-
-
+<!ENTITY itemHistory.label                 "Pārlūkošanas vēsture">
+<!ENTITY itemHistory.accesskey             "P">
+<!ENTITY itemCookies.label                 "Sīkfaili">
+<!ENTITY itemCookies.accesskey             "S">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 
