@@ -4,13 +4,15 @@
 
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
-
-
-
-
+<!ENTITY title.label "Vēstules drošība">
+<!ENTITY subject.plaintextWarning "Lūdzu, ņemiet vērā: epasta vēstuļu tēma nekad netiek šifrēta.">
+<!ENTITY status.heading "Jūsu vēstules saturs tiks nosūtīts šādi:">
+<!ENTITY status.signed "Digitāli parakstīts:">
+<!ENTITY status.encrypted "Šifrēts:">
+<!ENTITY status.certificates "Sertifikāti:">
 <!ENTITY view.label "Skats">
 <!ENTITY view.accesskey "S">
-
-
-
-
+<!ENTITY tree.recipient "Saņēmējs">
+<!ENTITY tree.status "Statuss">
+<!ENTITY tree.issuedDate "Izdots">
+<!ENTITY tree.expiresDate "Derīgs līdz">
