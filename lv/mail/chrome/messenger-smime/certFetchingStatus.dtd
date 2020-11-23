@@ -5,3 +5,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 <!ENTITY title.label "Lejuplādē sertifikātus">
+<!ENTITY info.message "Meklē adresātu sertifikātu mapi. Tas var aizņemt dažas minūtes.">
+<!ENTITY stop.label "Pārtraukt meklēšanu">
