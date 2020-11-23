@@ -5,5 +5,18 @@
 <!ENTITY subscribeDialog.title        "Pierakstīties">
 <!ENTITY subscribeButton.label        "Pierakstīties">
 <!ENTITY subscribeButton.accesskey    "P">
+<!ENTITY unsubscribeButton.label      "Atrakstīties">
+<!ENTITY unsubscribeButton.accesskey  "A">
+<!ENTITY newGroupsTab.label           "Ziņu grupas">
+<!ENTITY newGroupsTab.accesskey       "Z">
+<!ENTITY refreshButton.label          "Pārlādēt">
+<!ENTITY refreshButton.accesskey      "P">
+<!ENTITY stopButton.label             "Apturēt">
+<!ENTITY stopButton.accesskey         "A">
+<!ENTITY server.label                 "Konts:">
+<!ENTITY server.accesskey             "K">
+<!ENTITY subscribedHeader.label       "Pierakstīties">
 <!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messages"> -->
+<!ENTITY namefield.label              "Rādīt vienumus, kas satur:">
+<!ENTITY namefield.accesskey          "O">
