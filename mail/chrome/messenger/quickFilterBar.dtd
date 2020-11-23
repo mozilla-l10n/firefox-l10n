@@ -88,16 +88,22 @@
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+<!ENTITY quickFilterBar.inaddrbook.tooltip
+         "Rādīt tikai vēstules no jūsu adrešu grāmatā saglabātiem cilvēkiem">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+<!ENTITY quickFilterBar.tags.label
+         "Birkas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+<!ENTITY quickFilterBar.tags.tooltip
+         "Rādīt tikai birkotās vēstules">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
@@ -110,6 +116,8 @@
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+<!ENTITY quickFilterBar.attachment.tooltip
+         "Rādīt tikai vēstules ar pielikumiem">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
@@ -120,11 +128,15 @@
      see the following URL For more information:
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
+<!ENTITY quickFilterBar.resultsLabel.some.formatString
+         "#1 vēstule;#1 vēstules">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
+<!ENTITY quickFilterBar.resultsLabel.none
+         "Nav rezultātu">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
@@ -135,6 +147,8 @@
      size of the text box to the label's right.  (If your string for
      "no results" is longer than the "#### messages" case, then size for that.
      -->
+<!ENTITY quickFilterBar.resultsLabel.minWidth
+         "100">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base1):
      This is the base of the empty text for the text search box.  We replace
@@ -144,52 +158,69 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.base1
+         "Filtrēt šīs vēstules #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2
+         "k">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
      linux (which use the control key).  This should match the value of
      quickFilterBar.show.key above.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
+         "&lt;Ctrl+Shift+K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
      This should match the value of quickFilterBar.show.key above.
      -->
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac
+         "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanMode.tooltip "Birku filtrēšanas režīms">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.label "Jebkura no">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Jāatbilst vismaz vienam no izvēlētajiem birku kritērijiem">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.label "Visi no">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Ir jāatbilst visiem izvēlētajiem birku kritērijiem">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of
      extra whitespace.
      -->
+<!ENTITY quickFilterBar.textbox.idealWidth
+         "320">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
      which we should refuse to flex below.  When we hit this size, the buttons
      with labels will have their labels collapsed.
      -->
+<!ENTITY quickFilterBar.textbox.minWidth
+         "280">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.
@@ -199,26 +230,36 @@
      tag sub-bar wants as much space as possible.  (Overflow is handled by an
      arrow scroll box.)
      -->
+<!ENTITY quickFilterBar.textFilter.explanation.label
+         "Filtrēt vēstules pēc:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.sender.label
+         "Sūtītāja">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.recipients.label
+         "Saņēmēja">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.subject.label
+         "Tēmas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
+<!ENTITY quickFilterBar.textFilter.body.label
+         "Pamatteksta">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
