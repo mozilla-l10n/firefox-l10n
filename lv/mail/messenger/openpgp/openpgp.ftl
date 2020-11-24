@@ -637,3 +637,8 @@ enig-alert = OpenPGP brīdinājums
 enig-info = OpenPGP informācija
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Atkārtot
+dlg-button-skip = &Izlaist
+# Strings used in enigmailCommon.js
+enig-error = OpenPGP kļūda
+enig-alert-title =
+    .title = OpenPGP brīdinājums
