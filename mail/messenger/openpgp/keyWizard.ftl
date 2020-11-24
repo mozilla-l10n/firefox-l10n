@@ -51,6 +51,8 @@ openpgp-keygen-type-rsa =
 openpgp-keygen-type-ecc =
     .label = ECC (eliptiskā līkne)
 openpgp-keygen-button = Ģenerēt atslēgu
+openpgp-keygen-progress-title = Ģenerē jūsu jaunās OpenPGP atslēgas…
+openpgp-keygen-import-progress-title = Importē jūsu OpenPGP atslēgu…
 
 ## Import Key section
 
