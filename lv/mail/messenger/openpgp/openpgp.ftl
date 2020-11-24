@@ -285,9 +285,53 @@ openpgp-selection-status =
         [0] Lai ieslēgtu OpenGPG protokolu, izvēlieties derīgu atslēgu
        *[other] Jūsu pašreizējos iestatījumos tiek izmantots atslēgas ID <b>{ $key }</b>
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Jūsu pašreizējos iestatījumos tiek izmantota atslēga <b>{ $key }</b>, kurai ir beidzies derīgums.
+openpgp-add-key-button =
+    .label = Pievienot atslēgu…
+    .accesskey = P
+e2e-learn-more = Uzzināt vairāk
+openpgp-keygen-success = OpenPGP atslēga ir veiksmīgi izveidota!
+openpgp-keygen-import-success = OpenPGP atslēgas ir veiksmīgi importētas!
+openpgp-keygen-external-success = Ārējas GnuPG atslēgas ID ir saglabāts!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Nav
+openpgp-radio-none-desc = Neizmantot OpenPGP šai identitātei.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Derīgums: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Atslēgas derīgums ir mazāks nekā 6 mēneši
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Nederīga no: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Atslēgas derīgums beidzies
+openpgp-key-expand-section =
+    .tooltiptext = Papildu informācija
+openpgp-key-revoke-title = Atsaukt atslēgu
+openpgp-key-edit-title = Mainīt OpenPGP atslēgu
+openpgp-key-edit-date-title = Pagarināt derīgumu
+openpgp-manager-description = Lai apskatītu un pārvaldītu korespondentu publiskās atslēgas un visas citas atslēgas, kas nav uzskaitītas iepriekš, izmantojiet OpenPGP atslēgu pārvaldnieku.
+openpgp-manager-button =
+    .label = OpenPGP atslēgu pārvaldnieks
+    .accesskey = a
+openpgp-key-remove-external =
+    .label = Noņemt ārējās atslēgas ID
+    .accesskey = N
+key-external-label = Ārēja GnuPG atslēga
+# Strings in keyDetailsDlg.xhtml
+key-type-public = publiskā atslēga
+key-type-primary = primārā atslēga
+key-type-subkey = apakšatslēga
+key-type-pair = atslēgu pāris (publiskā un slepenā atslēga)
+key-expiry-never = nekad
+key-usage-encrypt = Šifrēt
+key-usage-sign = Parakstīt
+key-usage-certify = Apliecināt
+key-usage-authentication = Autentifikācija
+key-does-not-expire = Atslēga der mūžīgi
 
 ## Account settings export output
 
