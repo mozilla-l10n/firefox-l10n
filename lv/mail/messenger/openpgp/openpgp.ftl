@@ -247,9 +247,44 @@ openpgp-key-details-sel-action =
 openpgp-key-details-also-known-label = Atslēgas īpašnieka iespējamās alternatīvās identitātes:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Aizvērt
+openpgp-acceptance-label =
+    .label = Jūsu pieņemšana
+openpgp-acceptance-rejected-label =
+    .label = Nē, noraidīt šo atslēgu.
+openpgp-acceptance-undecided-label =
+    .label = Vēl ne, varbūt vēlāk.
+openpgp-acceptance-unverified-label =
+    .label = Jā, bet neesmu pārbaudījis, ka tā ir pareizā atslēga.
+openpgp-acceptance-verified-label =
+    .label = Jā, esmu pārbaudījis, ka šai atslēgai ir pareizs pirkstu nospiedums.
+key-accept-personal =
+    Šai atslēgai jums ir gan publiskā, gan slepenā daļa. Jūs to varat izmantot kā personīgo atslēgu.
+    Ja šo atslēgu jums piešķīra kāds cits, tad nelietojiet to kā personīgo atslēgu.
+key-personal-warning = Vai jūs pats izveidojāt šo atslēgu, un šīs atslēgas identitāte attiecas uz jums?
+openpgp-personal-no-label =
+    .label = Nē, nelietot to kā manu personīgo atslēgu.
+openpgp-personal-yes-label =
+    .label = Jā, uzskatīt šo atslēgu par personīgo atslēgu.
+openpgp-copy-cmd-label =
+    .label = Kopēt
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird nav ar <b>{ $identity }</b> saistītas personīgās OpenPGP atslēgas
+        [one] Thunderbird atrada { $count } ar <b>{ $identity }</b> saistītu personīgo OpenPGP atslēgu
+       *[other] Thunderbird atrada { $count } ar <b>{ $identity }</b> saistītas personīgās OpenPGP atslēgas
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Lai ieslēgtu OpenGPG protokolu, izvēlieties derīgu atslēgu
+       *[other] Jūsu pašreizējos iestatījumos tiek izmantots atslēgas ID <b>{ $key }</b>
+    }
 
 ## OpenPGP Key selection area
 
