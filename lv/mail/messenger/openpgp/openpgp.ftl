@@ -383,6 +383,7 @@ expiry-keys-missing-owner-trust =
     { $desc }.
     Iesakām atslēgas iestatījumos "Paļaujos uz sertifikātiem" iestatīt uz "Pilnīgi".
 expiry-open-key-manager = Atvērt OpenPGP atslēgu pārvaldnieku
+expiry-open-key-properties = Atvērtās atslēgas īpašības
 # Strings filters.jsm
 filter-folder-required = Jums jāizvēlas mērķa mape.
 filter-decrypt-move-warn-experimental =
