@@ -443,9 +443,33 @@ save-keys-failed = Atslēgu saglabāšana neizdevās
 default-pub-key-filename = Eksportētās-publiskās-atslēgas
 default-pub-sec-key-filename = Slepeno-atslēgu-dublējums
 refresh-key-warn = Brīdinājums: atkarībā no atslēgu skaita un savienojuma ātruma visu atslēgu atsvaidzināšana var būt diezgan ilgs process!
+preview-failed = Neizdevās nolasīt publiskās atslēgas failu.
+general-error = Kļūda: { $reason }
+dlg-button-delete = &Dzēst
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Publiskā atslēga ir veiksmīgi eksportēta!</b>
+openpgp-export-public-fail = <b>Neizdevās eksportēt atlasīto publisko atslēgu!</b>
+openpgp-export-secret-success = <b>Slepenā atslēga ir veiksmīgi eksportēta!</b>
+openpgp-export-secret-fail = <b>Neizdevās eksportēt atlasīto slepeno atslēgu!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Atslēga { $userId } (atslēgas ID { $keyId }) ir atsaukta.
+key-ring-pub-key-expired = Atslēga { $userId } (atslēgas ID { $keyId }) ir beigusies.
+key-ring-key-disabled = Atslēga { $userId } (atslēgas ID { $keyId }) ir liegta; to nevar lietot.
+key-ring-key-invalid = Atslēga { $userId } (atslēgas ID { $keyId }) nav derīga. Lūdzu, apsveriet iespēju to pareizi pārbaudīt.
+key-ring-key-not-trusted = Atslēga { $userId } (atslēgas ID { $keyId }) nav pietiekami uzticama. Lai to izmantotu parakstīšanai, lūdzu, iestatiet atslēgas uzticamības līmeni uz "pilnībā".
+key-ring-no-secret-key = Šķiet, ka jūsu atslēgu saišķī nav { $userId } (atslēgas ID { $keyId }) slepenās atslēgas; jūs nevarat to izmantot parakstīšanai.
+key-ring-pub-key-not-for-signing = Atslēgu { $userId } (atslēgas ID { $keyId }) nevar izmantot parakstīšanai.
+key-ring-pub-key-not-for-encryption = Atslēgu { $userId } (atslēgas ID { $keyId }) nevar izmantot šifrēšanai.
+key-ring-sign-sub-keys-revoked = Visas atslēgas { $userId } (atslēgas ID { $keyId }) parakstīšanas apakšatslēgas ir atsauktas.
+key-ring-sign-sub-keys-expired = Visas atslēgas { $userId } (atslēgas ID { $keyId }) parakstīšanas apakšatslēgas ir beigušās.
+key-ring-sign-sub-keys-unusable = Visas atslēgas { $userId } (atslēgas ID { $keyId }) parakstīšanas apakšatslēgas ir atsauktas, beigušās vai nav citādi lietojamas.
+key-ring-enc-sub-keys-revoked = Visas atslēgas { $userId } (atslēgas ID { $keyId }) šifrēšanas apakšatslēgas ir atsauktas.
+key-ring-enc-sub-keys-expired = Visas atslēgas { $userId } (atslēgas ID { $keyId }) šifrēšanas apakšatslēgas ir beigušās.
+key-ring-enc-sub-keys-unusable = Visas atslēgas { $userId } (atslēgas ID { $keyId }) šifrēšanas apakšatslēgas ir atsauktas, beigušās vai nav citādi lietojamas.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Foto
 
 # Strings used in enigmailMessengerOverlay.js
 
