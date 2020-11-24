@@ -332,6 +332,46 @@ key-usage-sign = Parakstīt
 key-usage-certify = Apliecināt
 key-usage-authentication = Autentifikācija
 key-does-not-expire = Atslēga der mūžīgi
+key-expired-date = Atslēgas derīgums beidzās: { $keyExpiry }
+key-expired-simple = Atslēga ir beigusies
+key-revoked-simple = Atslēga ir atsaukta
+key-do-you-accept = Vai jūs pieņemat šo atslēgu digitālo parakstu pārbaudei un ziņojumu šifrēšanai?
+key-accept-warning = Izvairieties pieņemt blēdīgas atslēgas. Lai pārbaudītu korespondenta atslēgas pirksta nospiedumu, izmantojiet saziņas kanālu, kas nav epasts.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Neizdevās nosūtīt vēstuli, jo radās problēma ar jūsu personīgo atslēgu. { $problem }
+cannot-encrypt-because-missing = Neizdevās nosūtīt šo vēstulei ar no gala līdz galam šifrēšanu, jo ir problēmas ar šo adresātu atslēgām: { $problem }
+window-locked = Salikšanas logs ir bloķēts; sūtīšana atcelta
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Šifrētā vēstules daļa
+mime-decrypt-encrypted-part-concealed-data = Šī ir šifrētā vēstules daļa. Jums tā jāatver atsevišķā logā, klikšķinot uz pielikuma.
+# Strings in keyserver.jsm
+keyserver-error-aborted = Pārtraukts
+keyserver-error-unknown = Radās nezināma kļūda
+keyserver-error-server-error = Atslēgu serveris ziņoja par kļūdu.
+keyserver-error-import-error = Neizdevās importēt lejuplādēto atslēgu.
+keyserver-error-unavailable = Atslēgu serveris nav pieejams.
+keyserver-error-security-error = Atslēgu serveris neatbalsta šifrētu piekļuvi.
+keyserver-error-certificate-error = Atslēgu servera sertifikāts nav derīgs.
+keyserver-error-unsupported = Atslēgu serveris nav atbalstīts.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Jūsu epasta pakalpojumu sniedzējs apstrādāja jūsu pieprasījumu augšuplādēt publisko atslēgu OpenPGP tīmekļa atslēgu katalogā.
+    Lūdzu, apstipriniet publiskās atslēgas publicēšanu.
+wkd-message-body-process =
+    Šis ir saistīts epasts, lai automātiski apstrādātu augšuplādēto publisko atslēgu OpenPGP Tīmekļa atslēgu katalogā.
+    Šobrīd jums nav jāveic nekādas manuālas darbības.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Neizdevās atšifrēt ziņojumu ar tēmu
+    { $subject }.
+    Vai vēlaties mēģināt vēlreiz, izmantojot citu paroli, vai arī vēlaties izlaist vēstuli?
+# Strings in gpg.jsm
+unknown-signing-alg = Nezināms parakstīšanas algoritms (ID: { $id })
+unknown-hash-alg = Nezināms kriptogrāfiskais jaukums (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Jūsu atslēgas { $desc } derīgums beigsies mazāk nekā { $days } dienās.
+    Iesakām izveidot jaunu atslēgu pāri un iestatīt atbilstošos kontus tās lietošanai.
 
 ## Account settings export output
 
