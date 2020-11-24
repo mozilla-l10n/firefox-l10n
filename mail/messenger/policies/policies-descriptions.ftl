@@ -51,9 +51,25 @@ policy-Extensions = Uzstādīt, noņemt vai noslēgt paplašinājumus. Uzstādī
 policy-ExtensionSettings = Pārvaldīt visus paplašinājumu uzstādīšanas aspektus.
 policy-ExtensionUpdate = Ieslēgt vai atslēgt automātiskus paplašinājumu atjaunojumus.
 policy-HardwareAcceleration = Ja atslēgts, atslēdz aparatūrisku paātrināšanu.
+policy-InstallAddonsPermission = Ļaut noteiktām vietnēm uzstādīt papildinājumus.
+policy-LegacyProfiles = Atslēgt iespēja, kas katram uzstādījumam nodrošina atsevišķu profilu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Ieslēgt noklusēto mantoto SameSite sīkfailu uzvedības iestatījumu.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Atgriezties pie mantotās SameSite uzvedības sīkdatnēm noteiktās vietnēs.
 
 ##
 
+policy-LocalFileLinks = Ļaut noteiktām vietnēm izveidot saites uz vietējiem failiem.
+policy-NetworkPrediction = Ieslēgt vai atslēgt tīkla paredzēšanu (DNS priekšpiegādi).
+policy-OfferToSaveLogins = Ieviest iestatījumu ļauj { -brand-short-name } piedāvāt atcerēties saglabātos pieteikumvārdus un paroles. Tiek pieņemtas gan patiesas, gan nepatiesas vērtības.
+policy-OfferToSaveLoginsDefault = Iestatīt noklusēti ļaut { -brand-short-name } piedāvāt atcerēties saglabātos pieteikumvārdus un paroles. Tiek pieņemtas gan patiesas, gan nepatiesas vērtības.
+policy-OverrideFirstRunPage = Ignorēt pirmās palaišanas lapu. ja vēlaties atspējot pirmās palaišanas lapu, iestatiet šo politiku tukšu.
+policy-OverridePostUpdatePage = Ignorēt pēcatjaunošanas lapu “Kas jauns”. Ja vēlaties atspējot pēcatjaunošanas lapu, iestatiet šo politiku tukšu.
+policy-PasswordManagerEnabled = Ieslēgt paroļu saglabāšanu paroļu pārvaldniekā.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Atslēgt vai iestatīt PDF.js, iebūvēto { -brand-short-name } PDF skatītāju.
+policy-Permissions2 = Iestatiet kameras, mikrofona, atrašanās vietas, paziņojumu un automātiskās atskaņošanas atļaujas.
+policy-Preferences = Iestatiet un noslēdziet izvēļu apakškopu vērtības.
+policy-PromptForDownloadLocation = Lejuplādējot vaicāt, kur saglabāt failus.
