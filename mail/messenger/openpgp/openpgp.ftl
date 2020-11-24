@@ -516,6 +516,27 @@ import-key-confirm = Vai importēt vēstulē iekļauto(-ās) publisko(-ās) atsl
 fail-key-import = Kļūda - atslēgas importēšana neizdevās
 file-write-failed = Neizdevās rakstīt failā { $output }
 no-pgp-block = Kļūda - nav atrasts derīgs bruņots OpenPGP datu bloks
+confirm-permissive-import = Importēšana neizdevās. Importējamā atslēga var būt bojāta vai izmantot nezināmus atribūtus. Vai vēlaties mēģināt importēt pareizās daļas? Var gadīties, ka tad tiks importētas nepilnīgas un nelietojamas atslēgas.
+# Strings used in trust.jsm
+key-valid-unknown = nezināms
+key-valid-invalid = nederīgs
+key-valid-disabled = liegts
+key-valid-revoked = atsaukts
+key-valid-expired = beidzies
+key-trust-untrusted = neuzticams
+key-trust-marginal = vājš
+key-trust-full = uzticams
+key-trust-ultimate = pilnīgs
+key-trust-group = (grupa)
+# Strings used in commonWorkflows.js
+import-key-file = Importēt OpenPGP atslēgas failu
+import-rev-file = Importēt OpenPGP atsaukšanas failu
+gnupg-file = GnuPG faili
+import-keys-failed = Atslēgu importēšana neizdevās
+passphrase-prompt = Lūdzu, ievadiet paroli šīs atslēgas atbloķēšanai: { $key }
+file-to-big-to-import = Šis fails ir pārāk liels. Lūdzu, neimportējiet uzreiz lielus atslēgu komplektus.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Izveidot un saglabāt atsaukšanas sertifikātu
 
 # Strings used in enigmailMessengerOverlay.js
 
