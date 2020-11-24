@@ -386,11 +386,63 @@ expiry-open-key-manager = Atvērt OpenPGP atslēgu pārvaldnieku
 # Strings filters.jsm
 filter-folder-required = Jums jāizvēlas mērķa mape.
 filter-decrypt-move-warn-experimental =
-    Brīdinājums - filtrēšanas darbība "Atšifrēt neatgriezeniski" var izraisīt vēstules iznīcināšanu.
+    Brīdinājums - filtrēšanas darbība "Atšifrēt pastāvīgi" var izraisīt vēstules iznīcināšanu.
     Mēs iesakām vispirms izmēģināt filtru "Izveidot atšifrētu kopiju", rūpīgi pārbaudīt rezultātu un sākt lietot šo filtru tikai tad, kad esat apmierināts ar rezultātu.
 filter-term-pgpencrypted-label = OpenPGP šifrēts
 filter-key-required = Jums jāizvēlas adresāta atslēga.
 filter-key-not-found = Neizdevās atrast '{ $desc }' šifrēšanas atslēgu.
+filter-warn-key-not-secret =
+    Brīdinājums - filtrēšanas darbība "Šifrēt uz atslēgu" aizstāj adresātus.
+    Ja jums nav slepenās atslēgas priekš '{ $desc }', jūs vairs nevarēsiet lasīt šos epastus.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Atšifrēt pastāvīgi (OpenPGP)
+filter-decrypt-copy-label = Izveidot atšifrētu kopiju (OpenPGP)
+filter-encrypt-label = Šifrēt uz atslēgu (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Atslēgas importētas veiksmīgi!
+import-info-bits = Biti
+import-info-created = Izveidots
+import-info-fpr = Pirkstu nospiedums
+import-info-details = Skatīt informāciju un pārvaldīt atslēgu pieņemšanu
+import-info-no-keys = Nav importētu atslēgu.
+# Strings in enigmailKeyManager.js
+import-from-clip = Vai vēlaties importēt dažas atslēgas no starpliktuves?
+import-from-url = Lejuplādēt publisko atslēgu no šī URL:
+copy-to-clipbrd-failed = Neizdevās nokopēt atlasītās atslēgas uz starpliktuvi.
+copy-to-clipbrd-ok = Atslēga(-s) iekopēta(-s) starpliktuvē
+delete-secret-key =
+    BRĪDINĀJUMS: Jūs gatavojaties izdzēst slepeno atslēgu!
+    
+    Izdzēšot slepeno atslēgu, jūs vairs nevarēsit atšifrēt nevienu šai atslēgai šifrētu vēstuli, kā arī nevarēsit to atsaukt.
+    
+    Vai tiešām vēlaties izdzēst ABAS: slepeno un publisko atslēgu
+    '{ $userId }'?
+delete-mix =
+    BRĪDINĀJUMS: Jūs gatavojaties izdzēst slepeno atslēgu!
+    
+    Izdzēšot slepeno atslēgu, jūs vairs nevarēsit atšifrēt nevienu šai atslēgai šifrētu vēstuli.
+    
+    Vai tiešām vēlaties izdzēst ABAS: slepeno un publisko atslēgu?
+delete-pub-key =
+    Vai vēlaties izdzēst publisko atslēgu
+    '{ $userId }'?
+delete-selected-pub-key = Vai vēlaties izdzēst publiskās atslēgas?
+refresh-all-question = Jūs neatlasījāt nevienu atslēgu. Vai vēlaties atsvaidzināt VISAS atslēgas?
+key-man-button-export-sec-key = Eksportēt &slepenās atslēgas
+key-man-button-export-pub-key = Eksportēt tikai &publiskās atslēgas
+key-man-button-refresh-all = &Atsvaidzināt visas atslēgas
+key-man-loading-keys = Ielādē atslēgas, lūdzu, uzgaidiet…
+ascii-armor-file = ASCII bruņotie faili (* .asc)
+no-key-selected = Lai veiktu atlasīto darbību, jums jāizvēlas vismaz viena atslēga
+export-to-file = Eksportēt publisko atslēgu failā
+export-keypair-to-file = Eksportēt slepeno un publisko atslēgu failā
+export-secret-key = Vai vēlaties iekļaut slepeno atslēgu saglabātajā OpenPGP atslēgu failā?
+save-keys-ok = Atslēgas ir veiksmīgi saglabātas
+save-keys-failed = Atslēgu saglabāšana neizdevās
+default-pub-key-filename = Eksportētās-publiskās-atslēgas
+default-pub-sec-key-filename = Slepeno-atslēgu-dublējums
+refresh-key-warn = Brīdinājums: atkarībā no atslēgu skaita un savienojuma ātruma visu atslēgu atsvaidzināšana var būt diezgan ilgs process!
 
 ## Account settings export output
 
