@@ -37,3 +37,38 @@ msgevent-log_heartbeat_rcvd = Sasaukšanās ziņojums saņemts no { $name }.
 msgevent-log_heartbeat_sent = Sasaukšanās ziņojums nosūtīts uz { $name }.
 # Do not translate 'OTR' (name of an encryption protocol)
 msgevent-rcvdmsg_general_err = Mēģinot aizsargāt jūsu sarunu ar OTR, radās neparedzēta kļūda.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+#   $msg (string) - the message that was received.
+msgevent-rcvdmsg_unencrypted = Šis no { $name } saņemtais ziņojums nav šifrēts: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Jūs esat saņēmis neatpazītu OTR ziņojumu no { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = { $name } ir nosūtījis ziņojumu, kas paredzēts citai sesijai. Ja esat pieteicies vairākas reizes, iespējams, ziņojumu ir saņēmusi cita sesija.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Sākta privāta saruna ar lietotāju { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Sākta šifrēta, taču nepārbaudīta saruna ar lietotāju { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Šifrētā saruna ar { $name } ir veiksmīgi atsvaidzināta.
+error-enc = Šifrējot ziņojumu, radās kļūda.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Jūs nosūtījāt šifrētus datus lietotājam { $name }, kurš tos negaidīja.
+error-unreadable = Jūs nosūtījāt neizlasāmu šifrētu ziņojumu.
+error-malformed = Jūs nosūtījāt nepareizi veidotu datu ziņojumu.
+resent = [pārsūtīts]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } ir beidzis šifrēto sarunu ar jums; jums vajadzētu darīt to pašu.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = { $name } ir pieprasījis šifrētu OTR (Off-the-Record) sarunu, bet jums nav spraudņa, kas to atbalstītu. Plašāku informāciju skatiet https://en.wikipedia.org/wiki/Off-the-Record_Messaging.
