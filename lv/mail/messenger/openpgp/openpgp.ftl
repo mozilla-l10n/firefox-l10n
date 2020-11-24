@@ -470,6 +470,20 @@ key-ring-enc-sub-keys-expired = Visas atslēgas { $userId } (atslēgas ID { $key
 key-ring-enc-sub-keys-unusable = Visas atslēgas { $userId } (atslēgas ID { $keyId }) šifrēšanas apakšatslēgas ir atsauktas, beigušās vai nav citādi lietojamas.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Foto
+user-att-photo = Lietotāja atribūts (JPEG attēls)
+# Strings in key.jsm
+already-revoked = Šī atslēga jau ir atsaukta.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Jūs gatavojaties atsaukt atslēgu '{ $identity }'.
+    Jūs vairs nevarēsit parakstīties ar šo atslēgu, un pēc izplatīšanas, citi ar šo atslēgu vairs nevarēs šifrēt. Jūs joprojām varēsit to izmantot veco vēstuļu atšifrēšanai.
+    Vai vēlaties turpināt?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Jums nav atslēgas (0x{ $keyId }), kas atbilstu šim atsaukšanas sertifikātam!
+    Ja esat pazaudējis atslēgu, pirms importēt atcelšanas sertifikātu, jums jāimportē atslēga (piemēram, no atslēgu servera)!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Atslēga 0x{ $keyId } jau ir atsaukta.
 
 # Strings used in enigmailMessengerOverlay.js
 
