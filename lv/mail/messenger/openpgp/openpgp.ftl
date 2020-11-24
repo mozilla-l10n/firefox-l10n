@@ -578,3 +578,22 @@ msg-compose-partially-encrypted-inlinePGP =
     Lūdzu, apsveriet iespēju šim sūtītājam noņemt visu atbildē citēto tekstu.
 msg-compose-cannot-save-draft = Saglabājot melnrakstu, radās kļūda
 msg-compose-partially-encrypted-short = Sargieties no privātas informācijas noplūdes - daļēji šifrēta epasta.
+quoted-printable-warn =
+    Vēstules sūtīšanai esat ieslēdzis 'citētu-izdrukājamu' kodējumu. Tas var izraisīt nepareizu vēstules atšifrēšanu un/vai pārbaudi.
+    Vai vēlaties izslēgt  'citētu-izdrukājamu' vēstuļu sūtīšanu?
+minimal-line-wrapping =
+    Jūs esat iestatījis rindu aplaušana pie { $width } rakstzīmēm. Lai pareizi šifrētu un/vai parakstītu, šai vērtībai jābūt vismaz 68.
+    Vai vēlaties mainīt rindu aplaušanu uz 68 rakstzīmēm?
+sending-hidden-rcpt = Sūtot šifrētu vēstuli, slēptās kopijas adresātus nevar izmantot. Lai nosūtītu šo šifrēto vēstuli, noņemiet slēpto kopiju adresātus vai pārvietojiet tos uz kopiju lauku.
+sending-news =
+    Šifrētā sūtīšanas darbība ir pārtraukta.
+    Šo vēstuli nevar šifrēt, jo tai ir ziņu grupas adresāti. Lūdzu, nosūtiet vēstuli vēlreiz bez šifrēšanas.
+send-to-news-warning =
+    Brīdinājums: jūs gatavojaties nosūtīt šifrētu epastu ziņu grupai.
+    Tas nav ieteicams, jo tam ir jēga tikai tad, ja visi grupas dalībnieki var to atšifrēt, t.i., vēstule ir jāšifrē ar visu grupas dalībnieku atslēgām. Lūdzu, nosūtiet šo vēstuli tikai tad, ja skaidri zināt, ko darāt.
+    Turpināt?
+save-attachment-header = Saglabāt atšifrēto pielikumu
+no-temp-dir =
+    Neizdevās atrast pagaidu mapi, kurā rakstīt
+    Lūdzu, iestatiet TEMP vides mainīgo
+possibly-pgp-mime = Iespējams, ar PGP/MIME šifrēta vai parakstīt vēstule; lai pārbaudītu, izmantojiet "Atšifrēt/Pārbaudīt" darbību
