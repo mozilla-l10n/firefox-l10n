@@ -53,9 +53,45 @@ openpgp-keygen-type-ecc =
 openpgp-keygen-button = Ģenerēt atslēgu
 openpgp-keygen-progress-title = Ģenerē jūsu jaunās OpenPGP atslēgas…
 openpgp-keygen-import-progress-title = Importē jūsu OpenPGP atslēgu…
+openpgp-import-success = OpenPGP atslēgas ir veiksmīgi importētas!
+openpgp-import-success-title = Pabeidziet importēšanas procesu
+openpgp-import-success-description = Lai sāktu izmantot importēto OpenPGP atslēgu epasta šifrēšanai, aizveriet šo dialogu un atveriet sava konta iestatījumus un izvēlieties atslēgu.
+openpgp-keygen-confirm =
+    .label = Apstiprināt
+openpgp-keygen-dismiss =
+    .label = Atcelt
+openpgp-keygen-cancel =
+    .label = Atcelt procesu…
+openpgp-keygen-import-complete =
+    .label = Aizvērt
+    .accesskey = A
+openpgp-keygen-missing-username = Tekošajam kontam nav norādīts nosaukums.  Lūdzu, ievadiet vērtību konta iestatījumu laukā  "Jūsu vārds".
+openpgp-keygen-long-expiry = Jūs nevarat izveidot atslēgu, kuras derīgums ir ilgāks par 100 gadiem.
+openpgp-keygen-short-expiry = Jūsu atslēgai jābūt derīgai vismaz vienu dienu.
+openpgp-keygen-ongoing = Atslēgu ģenerēšana jau notiek!
+openpgp-keygen-error-core = Neizdevās inicializēt OpenPGP pamata pakalpojumu
+openpgp-keygen-error-failed = Negaidīti neizdevās OpenPGP atslēgu ģenerēšana
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = OpenPGP atslēga ir veiksmīgi izveidota, taču neizdevās iegūt atslēgas { $key } atsaukšanu
+openpgp-keygen-abort-title = Pārtraukt atslēgu ģenerēšanu?
+openpgp-keygen-abort = Pašlaik notiek OpenPGP atslēgu ģenerēšana, vai tiešām vēlaties to atcelt?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Vai ģenerēt { $identity } publisko un privāto atslēgu?
 
 ## Import Key section
 
+openpgp-import-key-title = Importēt esošu OpenPGP atslēgu
+openpgp-import-key-legend = Izvēlieties iepriekš dublēto failu.
+openpgp-import-key-description = Jūs varat importēt personīgās atslēgas, kas izveidotas, izmantojot citu OpenPGP programmatūru.
+openpgp-import-key-info = Cita programmatūra var aprakstīt personīgo atslēgu, izmantojot citus nosaukumus, piemēram, savu atslēgu, slepeno atslēgu, privāto atslēgu vai atslēgu pāri.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [zero] Thunderbird atrada vienu importējamu atslēgu
+        [one] Thunderbird atrada { $count } importējamas atslēgas
+       *[other] Thunderbird atrada { $count } importējamas atslēgas
+    }
+openpgp-import-key-list-description = Apstipriniet, kuras atslēgas uzskatīt par jūsu personīgajām atslēgām. Par personīgajām atslēgām drīkst izmantot tikai tās atslēgas, kuras pats esat izveidojis un kas parāda jūsu identitāti. Šo opciju var mainīt vēlāk Atslēgas īpašības dialogā.
 
 ## External Key section
 
