@@ -74,6 +74,7 @@
 </ul>
 ">
 
+<!ENTITY unsafeContentType.title "Nedrošs faila veids">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Lūdzu, informējiet vietnes īpašniekus par šo problēmu.</li>
@@ -168,9 +169,22 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
+<!ENTITY securityOverride.warningContent "
+<p> Jums nevajadzētu pievienot izņēmumu, ja neizmantojat jums pilnībā uzticamu interneta savienojumu vai, ja līdz šim neesat redzējis brīdinājumu par šo serveri. </p>
 
+<button id='getMeOutOfHereButton'>
+</button>
+<button id='exceptionDialogButton'></button>
+">
 
+<!ENTITY remoteXUL.title "Attāls XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Lūdzu, sazinieties ar vietnes īpašniekiem un informējiet viņus par šo problēmu.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Jūsu savienojums nav drošs">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class = 'hostname'></span> izmanto novecojušu un pret uzbrukumiem neaizsargātu drošības tehnoloģiju. Uzbrucējs viegli var atklāt informāciju, kuru jūs uzskatāt par drošu. Pirms jūs varat apmeklēt vietni, vietnes administratoram vispirms ir jāsalabo serveris.</p><p>Kļūdas kods: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Bloķēta lapa">
 
+<!ENTITY networkProtocolError.title "Tīkla protokola kļūda">
