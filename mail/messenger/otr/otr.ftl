@@ -30,8 +30,10 @@ msgevent-rcvdmsg_malformed = Jūs saņēmāt nepareizi veidotu datu ziņojumu no
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-log_heartbeat_rcvd = Saņemts sasaukšanās ziņojums no { $name }.
+msgevent-log_heartbeat_rcvd = Sasaukšanās ziņojums saņemts no { $name }.
 # A Heartbeat is a technical message used to keep a connection alive.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-msgevent-log_heartbeat_sent = Sasaukšanās ziņojums nosūtīts { $name }.
+msgevent-log_heartbeat_sent = Sasaukšanās ziņojums nosūtīts uz { $name }.
+# Do not translate 'OTR' (name of an encryption protocol)
+msgevent-rcvdmsg_general_err = Mēģinot aizsargāt jūsu sarunu ar OTR, radās neparedzēta kļūda.
