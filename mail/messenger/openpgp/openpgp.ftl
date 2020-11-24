@@ -244,6 +244,9 @@ openpgp-key-details-fingerprint-label = Pirkstu nospiedums
 openpgp-key-details-sel-action =
     .label = Atlasīt darbību…
     .accesskey = A
+openpgp-key-details-also-known-label = Atslēgas īpašnieka iespējamās alternatīvās identitātes:
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Aizvērt
 
 ## e2e encryption settings
 
