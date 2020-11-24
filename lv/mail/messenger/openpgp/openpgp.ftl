@@ -339,7 +339,7 @@ key-do-you-accept = Vai jūs pieņemat šo atslēgu digitālo parakstu pārbaude
 key-accept-warning = Izvairieties pieņemt blēdīgas atslēgas. Lai pārbaudītu korespondenta atslēgas pirksta nospiedumu, izmantojiet saziņas kanālu, kas nav epasts.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Neizdevās nosūtīt vēstuli, jo radās problēma ar jūsu personīgo atslēgu. { $problem }
-cannot-encrypt-because-missing = Neizdevās nosūtīt šo vēstulei ar no gala līdz galam šifrēšanu, jo ir problēmas ar šo adresātu atslēgām: { $problem }
+cannot-encrypt-because-missing = Neizdevās nosūtīt šo vēstulei ar tiešās saziņas šifrēšanu, jo ir problēmas ar šo adresātu atslēgām: { $problem }
 window-locked = Salikšanas logs ir bloķēts; sūtīšana atcelta
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Šifrētā vēstules daļa
@@ -598,8 +598,8 @@ no-temp-dir =
     Neizdevās atrast pagaidu mapi, kurā rakstīt
     Lūdzu, iestatiet TEMP vides mainīgo
 possibly-pgp-mime = Iespējams, ar PGP/MIME šifrēta vai parakstīt vēstule; lai pārbaudītu, izmantojiet "Atšifrēt/Pārbaudīt" darbību
-cannot-send-sig-because-no-own-key = Šo vēstuli nevar digitāli parakstīt, jo vēl neesat iestatījis no gala līdz galam šifrēšanu priekš <{ $key }>
-cannot-send-enc-because-no-own-key = Šo vēstuli nevar nosūtīt šifrētu, jo vēl neesat iestatījis no gala līdz gala šifrēšanu priekš <{ $key }>
+cannot-send-sig-because-no-own-key = Šo vēstuli nevar digitāli parakstīt, jo vēl neesat iestatījis tiešās saziņas šifrēšanu priekš <{ $key }>
+cannot-send-enc-because-no-own-key = Šo vēstuli nevar nosūtīt šifrētu, jo vēl neesat iestatījis tiešās saziņas šifrēšanu priekš <{ $key }>
 # Strings used in decryption.jsm
 do-import-multiple =
     Vai importēt šīs atslēgas?

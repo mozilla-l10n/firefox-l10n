@@ -36,3 +36,25 @@ state-not_private = Pašreizējā saruna nav privāta.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-unverified = Pašreizējā saruna ir šifrēta, bet nav privāta, jo { $name } identitāte vēl nav pārbaudīta.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = { $name } identitāte ir pārbaudīta. Pašreizējā saruna ir šifrēta un privāta.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } ir beidzis šifrēto sarunu ar jums; jums vajadzētu darīt to pašu.
+state-not_private-label = Nedroša
+state-unverified-label = Nepārbaudīta
+state-private-label = Privāta
+state-finished-label = Pabeigta
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } pieprasīja jūsu identitātes pārbaudi.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Jūs esat pārbaudījis { $name } identitāti.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = { $name } identitāte nav pārbaudīta.
+verify-title = Pārbaudiet jūsu kontaktpersonas identitāti
+error-title = Kļūda
+success-title = Tiešās saziņas šifrēšana
