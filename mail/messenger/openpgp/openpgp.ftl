@@ -372,6 +372,19 @@ unknown-hash-alg = Nezināms kriptogrāfiskais jaukums (ID: { $id })
 expiry-key-expires-soon =
     Jūsu atslēgas { $desc } derīgums beigsies mazāk nekā { $days } dienās.
     Iesakām izveidot jaunu atslēgu pāri un iestatīt atbilstošos kontus tās lietošanai.
+expiry-keys-expire-soon =
+    Jūsu atslēgas { $desc } derīgums beigsies mazāk nekā { $days } dienās: { $desc }
+    Iesakām izveidot jaunu atslēgu pāri un iestatīt atbilstošos kontus tās lietošanai.
+expiry-key-missing-owner-trust =
+    Jūsu slepenajai atslēgai { $desc } trūkst uzticības.
+    Iesakām atslēgas iestatījumos "Paļaujos uz sertifikātiem" iestatīt uz "Pilnīgi".
+expiry-keys-missing-owner-trust =
+    Jūsu slepenajai atslēgai trūkst uzticības.
+    { $desc }.
+    Iesakām atslēgas iestatījumos "Paļaujos uz sertifikātiem" iestatīt uz "Pilnīgi".
+expiry-open-key-manager = Atvērt OpenPGP atslēgu pārvaldnieku
+# Strings filters.jsm
+filter-folder-required = Jums jāizvēlas mērķa mape.
 
 ## Account settings export output
 
