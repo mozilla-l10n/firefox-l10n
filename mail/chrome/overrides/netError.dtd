@@ -188,3 +188,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Bloķēta lapa">
 
 <!ENTITY networkProtocolError.title "Tīkla protokola kļūda">
+<!ENTITY networkProtocolError.longDesc "<p>Lapu, kuru mēģināt skatīt, nevar parādīt, jo ir konstatēta kļūda tīkla protokolā.</p><ul><li>Lūdzu, sazinieties ar vietnes īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">
