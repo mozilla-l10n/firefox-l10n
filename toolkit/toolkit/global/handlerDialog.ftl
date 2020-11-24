@@ -9,7 +9,7 @@
 # Variables:
 #  $host - the hostname that is initiating the request
 #  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong>이(가) <strong>{ $scheme }</strong> 링크를 열려고 합니다.
+handler-dialog-host = <strong>{ $host }</strong> 사이트가 <strong>{ $scheme }</strong> 링크를 열려고 합니다.
 
 ## Permission Dialog
 ## Variables:
@@ -17,18 +17,18 @@ handler-dialog-host = <strong>{ $host }</strong>이(가) <strong>{ $scheme }</st
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
-permission-dialog-description = 이 사이트에서 { $scheme } 링크를 열도록 허용하시겠습니까?
+permission-dialog-description = 이 사이트가 { $scheme } 링크를 열도록 허용하시겠습니까?
 permission-dialog-description-file = 이 파일이 { $scheme } 링크를 열도록 허용하시겠습니까?
-permission-dialog-description-host = { $host }에서 { $scheme } 링크를 열도록 허용하시겠습니까?
-permission-dialog-description-app = 이 사이트에서 { $appName } 응용 프로그램으로 { $scheme } 링크를 열도록 허용하시겠습니까?
-permission-dialog-description-host-app = { $host }에서 { $appName } 응용 프로그램으로 { $scheme } 링크를 열도록 허용하시겠습니까?
+permission-dialog-description-host = { $host } 사이트가 { $scheme } 링크를 열도록 허용하시겠습니까?
+permission-dialog-description-app = 이 사이트가 { $appName } 응용 프로그램으로 { $scheme } 링크를 열도록 허용하시겠습니까?
+permission-dialog-description-host-app = { $host } 사이트가 { $appName } 응용 프로그램으로 { $scheme } 링크를 열도록 허용하시겠습니까?
 permission-dialog-description-file-app = 이 파일이 { $appName } 응용 프로그램으로 { $scheme } 링크를 열도록 허용하시겠습니까?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
-permission-dialog-remember = <strong>{ $host }</strong>(이)가 <strong>{ $scheme }</strong> 링크를 열도록 항상 허용
+permission-dialog-remember = <strong>{ $host }</strong> 사이트가 <strong>{ $scheme }</strong> 링크를 열도록 항상 허용
 permission-dialog-remember-file = 이 파일이 <strong>{ $scheme }</strong> 링크를 열도록 항상 허용
 
 ##
