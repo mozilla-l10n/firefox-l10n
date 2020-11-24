@@ -32,6 +32,25 @@ policy-DisableFormHistory = Neatcerēties meklēšanas un formu vēsturi.
 policy-DisableMasterPasswordCreation = Ja iestatīts, nevar iestatīt galveno paroli.
 policy-DisablePasswordReveal = Liegt izpaust paroles saglabātos pieteikšanās datos.
 policy-DisableProfileImport = Liegt izvēlnes komandu, kas importē datus no citas lietotnes.
+policy-DisableSafeMode = Liegt funkciju, kas pārstartē drošajā režīmā. Piezīme. Shift taustiņu, lai ieietu drošajā režīmā, Windows sistēmā var atspējot tikai, izmantojot grupas politiku.
+policy-DisableSecurityBypass = Liegt lietotājam apiet noteiktus drošības brīdinājumus.
+policy-DisableSystemAddonUpdate = Liegt { -brand-short-name } atjaunot un uzstādīt sistēmas papildinājumus.
+policy-DisableTelemetry = Atslēgt telemetriju.
+policy-DisplayMenuBar = Noklusēti rādīt izvēlnes joslu.
+policy-DNSOverHTTPS = Iestatīt DNS, izmantojot HTTPS.
+policy-DontCheckDefaultClient = Startējot liegt noklusētā klienta pārbaudi.
+policy-DownloadDirectory = Iestatīt un noslēgt lejuplādes mapi.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Ieslēgt vai atslēgt satura bloķēšanu un pēc izvēles to noslēgt.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Ieslēgt vai atslēgt šifrētos multivides paplašinājumus un pēc izvēles tos noslēgt.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Uzstādīt, noņemt vai noslēgt paplašinājumus. Uzstādīšanas izvēle kā parametrus pieņem URL vai ceļus. Noņemšanas un noslēgšanas izvēle pieņem paplašinājumu ID.
+policy-ExtensionSettings = Pārvaldīt visus paplašinājumu uzstādīšanas aspektus.
+policy-ExtensionUpdate = Ieslēgt vai atslēgt automātiskus paplašinājumu atjaunojumus.
+policy-HardwareAcceleration = Ja atslēgts, atslēdz aparatūrisku paātrināšanu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
