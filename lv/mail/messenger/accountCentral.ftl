@@ -8,9 +8,23 @@ account-settings = Konta iestatījumi
 setup-title =
     { $accounts ->
         [0] Izvēlieties, ko uzstādīt
-       *[other] Uzstādīt citu kontu
+       *[other] Izveidot citu kontu
     }
 about-title = Par { -brand-full-name }
 resources-title = Resursi
 release-notes =
     .title = Par { -brand-full-name }
+email-label = Epasts
+    .aria-label = Savienoties ar jūsu esošo epasta kontu
+email-description = Izmantojot { -brand-short-name }, varat izveidot savienojumu ar savu esošo epasta kontu, lai ērti un efektīvi lasītu epastus ar lietotni.
+calendar-label = Kalendārs
+    .aria-label = Izveidot jaunu kalendāru
+calendar-description = { -brand-short-name } ļauj jums apstrādāt notikumus un uzturēt kārtību. Savienojoties ar attālu kalendāru, visi notikumi tiks sinhronizēti visās jūsu ierīcēs.
+chat-label = Tērzēšana
+    .aria-label = Savienoties ar tērzēšanas kontu
+chat-description = { -brand-short-name } ļauj izveidot savienojumu ar vairākiem tūlītējās ziņapmaiņas kontiem, piedāvājot atbalstu dažādām platformām.
+filelink-label = Failsaite
+    .aria-label = Izveidot failsaiti
+filelink-description = { -brand-short-name } ļauj izveidot failu saites mākoņa kontu, lai ērti nosūtītu lielus pielikumus.
+addressbook-label = Adrešu grāmata
+    .aria-label = Izveidot jaunu adrešu grāmatu
