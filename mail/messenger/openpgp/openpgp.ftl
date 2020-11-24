@@ -502,6 +502,20 @@ revoke-key-in-use-description = Nevar turpināt! Šī identitāte pašlaik izman
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = Epasta adrese '{ $keySpec }' neatbilst nevienai atslēgai jūsu atslēgu saišķī.
 key-error-key-id-not-found = Iestatītais atslēgas ID '{ $keySpec }' jūsu atslēgu saišķī nav atrodams.
+key-error-not-accepted-as-personal = Jūs neesat apstiprinājis, ka atslēga ar ID '{ $keySpec }' ir jūsu personīgā atslēga.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Jūsu izvēlētā darbība nav pieejama nesaistes režīmā. Lūdzu, dodieties tiešsaistē un mēģiniet vēlreiz.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Neizdevās atrast nevienu atslēgu, kas atbilstu norādītajiem meklēšanas kritērijiem.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Kļūda - atslēgas izvilkšanas komanda neizdevās
+# Strings used in keyRing.jsm
+fail-cancel = Kļūda - lietotājs atcēla atslēgas saņemšanu
+not-first-block = Kļūda - pirmais OpenPGP bloks nav publiskās atslēgas bloks
+import-key-confirm = Vai importēt vēstulē iekļauto(-ās) publisko(-ās) atslēgu(-as)?
+fail-key-import = Kļūda - atslēgas importēšana neizdevās
+file-write-failed = Neizdevās rakstīt failā { $output }
+no-pgp-block = Kļūda - nav atrasts derīgs bruņots OpenPGP datu bloks
 
 # Strings used in enigmailMessengerOverlay.js
 
