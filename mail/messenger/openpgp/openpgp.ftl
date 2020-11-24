@@ -597,3 +597,43 @@ no-temp-dir =
     Neizdevās atrast pagaidu mapi, kurā rakstīt
     Lūdzu, iestatiet TEMP vides mainīgo
 possibly-pgp-mime = Iespējams, ar PGP/MIME šifrēta vai parakstīt vēstule; lai pārbaudītu, izmantojiet "Atšifrēt/Pārbaudīt" darbību
+cannot-send-sig-because-no-own-key = Šo vēstuli nevar digitāli parakstīt, jo vēl neesat iestatījis no gala līdz galam šifrēšanu priekš <{ $key }>
+cannot-send-enc-because-no-own-key = Šo vēstuli nevar nosūtīt šifrētu, jo vēl neesat iestatījis no gala līdz gala šifrēšanu priekš <{ $key }>
+# Strings used in decryption.jsm
+do-import-multiple =
+    Vai importēt šīs atslēgas?
+    { $key }
+do-import-one = Vai importēt { $name } ({ $id })?
+cant-import = Importējot publisko atslēgu, radās kļūda
+unverified-reply = Iespējams, vēstules atkāptā (atbildes) daļa ir mainīta
+key-in-message-body = Vēstules tekstā ir atrasta atslēga. Lai importētu atslēgu, klikšķiniet uz 'Importēt atslēgu'.
+sig-mismatch = Kļūda - parakstu neatbilstība
+invalid-email = Kļūda - nederīga(-as) epasta adrese(-es)
+attachment-pgp-key =
+    Šķiet, ka atveramais pielikums '{ $name }' ir OpenPGP atslēgas fails.
+    Lai importētu ietvertās atslēgas, klikšķiniet 'Importēt', vai 'Skatīt', lai skatītu faila saturu pārlūkā.
+dlg-button-view = &Skatīt
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Atšifrētā vēstule (atjaunots bojāts PGP epasta formāts, ko, iespējams, izraisījis vecs Exchange serveris, tāpēc rezultāts varētu nebūt ideāls lasīšanai)
+# Strings used in encryption.jsm
+not-required = Kļūda - šifrēšana nav nepieciešama
+# Strings used in windows.jsm
+no-photo-available = Foto nav pieejams
+error-photo-path-not-readable = Foto ceļš '{ $photo }' nav lasāms
+debug-log-title = OpenPGP atkļūdošanas žurnāls
+# Strings used in dialog.jsm
+repeat-prefix = Šis brīdinājums atkārtosies { $count }
+repeat-suffix-singular = reizi.
+repeat-suffix-plural = reizes.
+no-repeat = Šis brīdinājums vairs netiks rādīts.
+dlg-keep-setting = Atcerēties manu atbildi un vairs nejautāt
+dlg-button-ok = &LABI
+dlg-button-close = &Aizvērt
+dlg-button-cancel = At&celt
+dlg-no-prompt = Turpmāk vairs nerādīt šo dialogu.
+enig-prompt = OpenPGP uzvedne
+enig-confirm = OpenPGP apstiprinājums
+enig-alert = OpenPGP brīdinājums
+enig-info = OpenPGP informācija
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Atkārtot
