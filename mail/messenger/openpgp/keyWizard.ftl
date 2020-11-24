@@ -92,7 +92,7 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird atrada { $count } importējamas atslēgas
     }
 openpgp-import-key-list-description = Apstipriniet, kuras atslēgas uzskatīt par jūsu personīgajām atslēgām. Par personīgajām atslēgām drīkst izmantot tikai tās atslēgas, kuras pats esat izveidojis un kas parāda jūsu identitāti. Šo opciju var mainīt vēlāk Atslēgas īpašības dialogā.
-openpgp-import-key-list-caption = Atslēgas, kas atzīmētas kā personīgās atslēgas, tiks piedāvātas no gala līdz galam šifrēšanai. Pārējās būs pieejamas Atslēgu pārvaldniekā.
+openpgp-import-key-list-caption = Atslēgas, kas atzīmētas kā personīgās atslēgas, tiks piedāvātas tiešās saziņas šifrēšanai. Pārējās būs pieejamas Atslēgu pārvaldniekā.
 openpgp-passphrase-prompt-title = Nepieciešama parole
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Lūdzu, ievadiet paroli, lai atslēgtu atslēgu: { $key }
