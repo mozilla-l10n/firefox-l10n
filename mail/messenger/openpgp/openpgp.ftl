@@ -537,6 +537,44 @@ passphrase-prompt = Lūdzu, ievadiet paroli šīs atslēgas atbloķēšanai: { $
 file-to-big-to-import = Šis fails ir pārāk liels. Lūdzu, neimportējiet uzreiz lielus atslēgu komplektus.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Izveidot un saglabāt atsaukšanas sertifikātu
+revoke-cert-ok = Atsaukšanas sertifikāts ir veiksmīgi izveidots. Varat to izmantot, lai noliegtu savu publisko atslēgu, piem., gadījumā, kad jūs pazaudējat slepeno atslēgu.
+revoke-cert-failed = Atsaukšanas sertifikātu neizdevās izveidot.
+gen-going = Atslēgu ģenerēšana jau notiek!
+keygen-missing-user-name = Atlasītajam kontam/identitātei nav norādīts nosaukums. Lūdzu, ievadiet vērtību konta iestatījumu laukā "Jūsu vārds".
+expiry-too-short = Jūsu atslēgai jābūt derīgai vismaz vienu dienu.
+expiry-too-long = Jūs nevarat izveidot atslēgu, kuras derīguma termiņš ir ilgāks par 100 gadiem.
+key-confirm = Vai ģenerēt '{ $id }' publisko un slepeno atslēgu?
+key-man-button-generate-key = &Ģenerēt atslēgu
+key-abort = Pārtraukt atslēgu ģenerēšanu?
+key-man-button-generate-key-abort = &Pārtraukt atslēgu ģenerēšanu
+key-man-button-generate-key-continue = &Turpināt atslēgu ģenerēšanu
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Kļūda - atšifrēšana neizdevās
+fix-broken-exchange-msg-failed = Neizdevās izlabot šo vēstuli.
+attachment-no-match-from-signature = Neizdevās pielikumā pievienot paraksta failu '{ $attachment }'
+attachment-no-match-to-signature = Neizdevās piemērot pielikumu '{ $attachment }' paraksta failam
+signature-verified-ok = Pielikuma { $attachment } paraksts ir veiksmīgi pārbaudīts
+signature-verify-failed = Neizdevās pārbaudīt parakstu pielikumam { $attachment }
+decrypt-ok-no-sig =
+    Brīdinājums!
+    Atšifrēšana bija veiksmīga, taču parakstu neizdevās pareizi pārbaudīt
+msg-ovl-button-cont-anyway = &Turpināt jebkurā gadījumā
+enig-content-note = *Pielikumi šai vēstulei nav parakstīti un šifrēti*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Sūtīt vēstuli
+msg-compose-details-button-label = Detaļas…
+msg-compose-details-button-access-key = D
+send-aborted = Sūtīšana ir pārtraukta.
+key-not-trusted = Nepietiek uzticības atslēgai '{ $key }'
+key-not-found = Atslēga '{ $key }' nav atrasta
+key-revoked = Atslēga '{ $key }' ir atsaukta
+key-expired = Atslēga '{ $key }' ir beigusies
+msg-compose-internal-error = Radās iekšēja kļūda.
+keys-to-export = Atlasiet ievietojamās OpenPGP atslēgas
+msg-compose-partially-encrypted-inlinePGP =
+    Vēstulē, uz kuru atbildat, ir gan nešifrētas, gan šifrētas daļas. Ja sūtītājs sākotnēji nespēja atšifrēt dažas vēstules daļas, iespējams, jūs noplūdināt privātu informāciju, kuru sūtītājs sākotnēji nevarēja izlasīt.
+    Lūdzu, apsveriet iespēju šim sūtītājam noņemt visu atbildē citēto tekstu.
+msg-compose-cannot-save-draft = Saglabājot melnrakstu, radās kļūda
+msg-compose-partially-encrypted-short = Sargieties no privātas informācijas noplūdes - daļēji šifrēta epasta.
