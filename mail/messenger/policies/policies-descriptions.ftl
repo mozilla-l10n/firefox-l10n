@@ -73,3 +73,16 @@ policy-PDFjs = Atslēgt vai iestatīt PDF.js, iebūvēto { -brand-short-name } P
 policy-Permissions2 = Iestatiet kameras, mikrofona, atrašanās vietas, paziņojumu un automātiskās atskaņošanas atļaujas.
 policy-Preferences = Iestatiet un noslēdziet izvēļu apakškopu vērtības.
 policy-PromptForDownloadLocation = Lejuplādējot vaicāt, kur saglabāt failus.
+policy-Proxy = Mainīt starpniekservera iestatījumus.
+policy-RequestedLocales = Iestatīt lietotnē pieprasīto lokalizāciju sarakstu priekšrokas secībā.
+policy-SanitizeOnShutdown2 = Pēc izslēgšanas notīrīt navigācijas datus.
+policy-SearchEngines = Iestatiet meklētāju iestatījumus. Šī politika ir pieejama tikai paplašinātā atbalsta laidiena (ESR) versijā.
+policy-SearchSuggestEnabled = Ieslēgt vai atslēgt meklēšanas ieteikumus.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Uzstādīt PKCS #11 moduļus.
+policy-SSLVersionMax = Iestatīt maksimālo SSL versiju.
+policy-SSLVersionMin = Iestatīt minimālo SSL versiju.
+policy-SupportMenu = Palīdzības izvēlnē pievienot pielāgotu atbalsta izvēlnes vienumu.
+policy-UserMessaging = Nerādīt lietotājam noteiktus ziņojumus.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloķēt vietņu apmeklēšanu. Plašāku informāciju par formātu skatiet dokumentācijā.
