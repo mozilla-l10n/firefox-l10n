@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "N">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Megnyitás">
-<!ENTITY lightning.menupopup.open.accesskey           "M">
-<!ENTITY lightning.menupopup.open.message.label       "Mentett üzenet…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "z">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Naptárfájl…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "N">
 
@@ -54,7 +48,7 @@
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Elfogadás">
-<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Eseménymeghívás elfogadása">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Eseménymeghívó elfogadása">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Összes elfogadása">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Eseménymeghívó elfogadása az esemény minden előfordulására">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Hozzáadás">
