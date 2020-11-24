@@ -484,6 +484,24 @@ revoke-key-not-present =
     Ja esat pazaudējis atslēgu, pirms importēt atcelšanas sertifikātu, jums jāimportē atslēga (piemēram, no atslēgu servera)!
 #   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Atslēga 0x{ $keyId } jau ir atsaukta.
+key-man-button-revoke-key = &Atsaukt atslēgu
+openpgp-key-revoke-success = Atslēga veiksmīgi atsaukta.
+after-revoke-info =
+    Atslēga ir atsaukta.
+    Vēlreiz kopīgojiet šo publisko atslēgu, nosūtot to pa epastu vai augšupielādējot atslēgu serveros, lai citi zinātu, ka esat to atsaucis.
+    Tiklīdz citu cilvēku izmantotā programmatūra uzzinās par atsaukšanu, tās pārtrauks izmantot jūsu veco atslēgu.
+    Ja izmantojat jauno atslēgu tai pašai epasta adresei, pievienojiet jauno publisko atslēgu sūtītajiem epastiem un informācija par jūsu atsaukto veco atslēgu tiks iekļauta automātiski.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importēt
+delete-key-title = Dzēst OpenPGP atslēgu
+delete-external-key-title = Noņemt ārēju GnuPG atslēgu
+delete-external-key-description = Vai vēlaties noņemt šo ārējās GnuPG atslēgas ID?
+key-in-use-title = OpenPGP atslēga pašlaik tiek izmantota
+delete-key-in-use-description = Nevar turpināt! Šī identitāte pašlaik izmanto dzēšanai izvēlēto atslēgu. Atlasiet citu vai nevienu atslēgu un mēģiniet vēlreiz.
+revoke-key-in-use-description = Nevar turpināt! Šī identitāte pašlaik izmanto atsaukšanai izvēlēto atslēgu. Atlasiet citu vai nevienu atslēgu un mēģiniet vēlreiz.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = Epasta adrese '{ $keySpec }' neatbilst nevienai atslēgai jūsu atslēgu saišķī.
+key-error-key-id-not-found = Iestatītais atslēgas ID '{ $keySpec }' jūsu atslēgu saišķī nav atrodams.
 
 # Strings used in enigmailMessengerOverlay.js
 
