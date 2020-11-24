@@ -92,6 +92,37 @@ openpgp-import-key-list-amount =
        *[other] Thunderbird atrada { $count } importējamas atslēgas
     }
 openpgp-import-key-list-description = Apstipriniet, kuras atslēgas uzskatīt par jūsu personīgajām atslēgām. Par personīgajām atslēgām drīkst izmantot tikai tās atslēgas, kuras pats esat izveidojis un kas parāda jūsu identitāti. Šo opciju var mainīt vēlāk Atslēgas īpašības dialogā.
+openpgp-import-key-list-caption = Atslēgas, kas atzīmētas kā personīgās atslēgas, tiks piedāvātas no gala līdz galam šifrēšanai. Pārējās būs pieejamas Atslēgu pārvaldniekā.
+openpgp-passphrase-prompt-title = Nepieciešama parole
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Lūdzu, ievadiet paroli, lai atslēgtu atslēgu: { $key }
+openpgp-import-key-button =
+    .label = Atlasiet importējamo failu…
+    .accesskey = A
+import-key-file = OpenPGP atslēgas failu importēšana
+import-key-personal-checkbox =
+    .label = Uzskatīt šo atslēgu par personīgo atslēgu
+gnupg-file = GnuPG faili
+import-error-file-size = <b>Kļūda!</b> Faili, kas pārsniedz 5 MB, nav atbalstīti.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Kļūda!</b> Neizdevās importēt failu. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Kļūda!</b> Neizdevās importēt atslēgas. { $error }
+openpgp-import-identity-label = Identitāte
+openpgp-import-fingerprint-label = Pirkstu nospiedums
+openpgp-import-created-label = Izveidots
+openpgp-import-bits-label = Biti
+openpgp-import-key-props =
+    .label = Atslēgas īpašības
+    .accesskey = A
 
 ## External Key section
 
+openpgp-external-key-title = Ārēja GnuPG atslēga
+openpgp-external-key-description = Iestatiet ārēju GnuPG atslēgu, ievadot atslēgas ID
+openpgp-external-key-info = Piedevām, lai importētu un akceptētu atbilstošo Publisko atslēgu, jums ir jāizmanto atslēgu pārvaldnieks.
+openpgp-external-key-warning = <b>Jūs varat iestatīt tikai vienu ārēju GnuPG atslēgu.</b> Jūsu iepriekšējais ieraksts tiks aizstāts.
+openpgp-save-external-button = Saglabāt atslēgas ID
+openpgp-external-key-label = Privātās atslēgas ID:
+openpgp-external-key-input =
+    .placeholder = 123456789012345678
