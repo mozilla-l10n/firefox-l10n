@@ -89,6 +89,80 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Atklāt atslēgas tiešsaistē
     .accesskey = A
+openpgp-key-man-discover-prompt = Lai tiešsaistē atklātu OpenPGP atslēgas, atslēgu serveros vai ar WKD protokolu, ievadiet epasta adresi, vai atslēgas ID.
+openpgp-key-man-discover-progress = Meklē…
+openpgp-key-copy-key =
+    .label = Kopēt publisko atslēgu
+    .accesskey = K
+openpgp-key-export-key =
+    .label = Eksportēt publisko atslēgu failā
+    .accesskey = E
+openpgp-key-backup-key =
+    .label = Dublēt privāto atslēgu failā
+    .accesskey = D
+openpgp-key-send-key =
+    .label = Sūtīt publisko atslēgu pa epastu
+    .accesskey = S
+openpgp-key-man-copy-to-clipbrd =
+    .label = Kopēt publisko atslēgu(-as) uz starpliktuvi
+    .accesskey = K
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [zero] Kopēt atslēgas ID uz starpliktuvi
+            [one] Kopēt atslēgu ID uz starpliktuvi
+           *[other] Kopēt atslēgu ID uz starpliktuvi
+        }
+    .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [zero] Kopēt pirkstu nospiedumu uz starpliktuvi
+            [one] Kopēt pirkstu nospiedumus uz starpliktuvi
+           *[other] Kopēt pirkstu nospiedumus uz starpliktuvi
+        }
+    .accesskey = n
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [zero] Kopēt publisko atslēgu uz starpliktuvi
+            [one] Kopēt publiskās atslēgas uz starpliktuvi
+           *[other] Kopēt publiskās atslēgas uz starpliktuvi
+        }
+    .accesskey = p
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Eksportēt atslēgas failā
+openpgp-key-man-ctx-copy-to-clipbrd-label =
+    .label = Kopēt publiskās atslēgas uz starpliktuvi
+openpgp-key-man-ctx-copy =
+    .label = Kopēt
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [zero] Pirkstu nospiedums
+            [one] Pirkstu nospiedumi
+           *[other] Pirkstu nospiedumi
+        }
+    .accesskey = n
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [zero] Atslēgas ID
+            [one] Atslēgu ID
+           *[other] Atslēgu ID
+        }
+    .accesskey = I
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [zero] Publiskā atslēga
+            [one] Publiskās atslēgas
+           *[other] Publiskās atslēgas
+        }
+    .accesskey = P
+openpgp-key-man-close =
+    .label = Aizvērt
 
 ## e2e encryption settings
 
