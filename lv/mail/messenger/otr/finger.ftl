@@ -5,7 +5,7 @@
 otr-finger =
     .buttonlabelaccept = Aizvērt
     .title = Iepriekš redzētie OTR pirkstu nospiedumi
-finger-intro = OTR atslēgas pirkstu nospiedumi no iepriekšējām no-gala-līdz-gala šifrētām sarunām.
+finger-intro = OTR atslēgas pirkstu nospiedumi no iepriekšējām tiešās saziņas šifrētām sarunām.
 finger-screenName =
     .label = Kontakts
 finger-verified =
