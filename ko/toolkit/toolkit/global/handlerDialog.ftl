@@ -40,7 +40,7 @@ permission-dialog-btn-choose-app =
     .label = 응용 프로그램 선택
     .accessKey = A
 permission-dialog-unset-description = 응용 프로그램을 선택해야 합니다.
-permission-dialog-set-change-app-link = 다른 응용 프로그램을 선택하세요.
+permission-dialog-set-change-app-link = 다른 응용 프로그램 선택…
 
 ## Chooser dialog
 ## Variables:
