@@ -6,3 +6,4 @@ connection-window =
     .title = Svarīgi jaunumi
 continue-button =
     .label = Turpināt
+main-text = Šim { -brand-short-name } uzstādījumam ir jauns profils. Tas nekopīgo epasta datus, paroles, lietotāju preferences un adrešu grāmatas šajā datorā ar citiem { -brand-product-name } uzstādījumiem (ieskaitot { -brand-product-name }, { -brand-product-name } Beta un { -brand-product-name } Ikdienas).
