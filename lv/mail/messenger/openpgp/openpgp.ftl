@@ -385,6 +385,12 @@ expiry-keys-missing-owner-trust =
 expiry-open-key-manager = Atvērt OpenPGP atslēgu pārvaldnieku
 # Strings filters.jsm
 filter-folder-required = Jums jāizvēlas mērķa mape.
+filter-decrypt-move-warn-experimental =
+    Brīdinājums - filtrēšanas darbība "Atšifrēt neatgriezeniski" var izraisīt vēstules iznīcināšanu.
+    Mēs iesakām vispirms izmēģināt filtru "Izveidot atšifrētu kopiju", rūpīgi pārbaudīt rezultātu un sākt lietot šo filtru tikai tad, kad esat apmierināts ar rezultātu.
+filter-term-pgpencrypted-label = OpenPGP šifrēts
+filter-key-required = Jums jāizvēlas adresāta atslēga.
+filter-key-not-found = Neizdevās atrast '{ $desc }' šifrēšanas atslēgu.
 
 ## Account settings export output
 
