@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Tam ekran">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Görüntü içinde görüntü düğmesini gizle">
 <!ENTITY pictureInPictureHideToggle.accesskey "G">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; ayarları">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Başka bir cihaz bağla…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "&brandProductName;’a giriş yap">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label;’i etkinleştir">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; hizmetleri">
@@ -108,7 +106,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY bookmarksSubview.label             "Yer imleri">
 <!ENTITY bookmarksMenuButton2.label         "Yer imleri menüsü">
-<!ENTITY bookmarksMenuButton.other.label    "Diğer yer imleri">
+<!ENTITY bookmarksMenuButton.other.label    "Diğer Yer İmleri">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobil yer imleri">
 <!ENTITY viewBookmarksSidebar2.label        "Yer imleri kenar çubuğunu göster">
 <!ENTITY hideBookmarksSidebar.label         "Yer imleri kenar çubuğunu gizle">
@@ -218,17 +216,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Sayfayı Pocket’a kaydet">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Pocket listesini göster">
 
 <!ENTITY emailPageCmd.label           "Bağlantıyı e-postayla gönder…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Yakınlaştırma">
 
@@ -254,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Sözlük ekle…">
 <!ENTITY spellAddDictionaries.accesskey "S">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

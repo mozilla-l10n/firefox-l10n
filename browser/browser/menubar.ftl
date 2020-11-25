@@ -177,7 +177,7 @@ menu-bookmarks-all-tabs =
 menu-bookmarks-toolbar =
     .label = Yer imleri araç çubuğu
 menu-bookmarks-other =
-    .label = Diğer yer imleri
+    .label = Diğer Yer İmleri
 menu-bookmarks-mobile =
     .label = Mobil yer imleri
 
