@@ -18,6 +18,8 @@
 
 <!ENTITY domain.tree.domain.label "Τομέας">
 
+<!ENTITY domain.ctx.forgetglobal.label "Διαγραφή γενικών δεδομένων">
+<!ENTITY domain.ctx.forgetglobal.accesskey "Δ">
 
 <!ENTITY data.search.key "k">
 
@@ -39,6 +41,7 @@
 
 <!ENTITY cookies.info.name.label "Όνομα:">
 <!ENTITY cookies.info.value.label "Περιεχόμενο:">
+<!ENTITY cookies.info.host.label "Κεντρικός υπολογιστής:">
 <!ENTITY cookies.info.domain.label "Τομέας:">
 <!ENTITY cookies.info.path.label "Διαδρομή:">
 <!ENTITY cookies.info.sendtype.label "Αποστολή για:">
@@ -52,10 +55,12 @@
 <!ENTITY cookies.button.remove.label "Αφαίρεση">
 <!ENTITY cookies.button.remove.accesskey "Α">
 
+<!ENTITY cookies.blockOnRemove.accesskey "Κ">
 
 <!-- permissions -->
 <!ENTITY perm.UseDefault "Χρήση προεπιλογής">
 <!ENTITY perm.AskAlways "Πάντα ερώτηση">
+<!ENTITY perm.NeverSave "Ποτέ αποθήκευση">
 <!ENTITY perm.Allow "Αποδοχή">
 <!ENTITY perm.AllowSameDomain "Αποδοχή για τον ίδιο τομέα">
 <!ENTITY perm.AllowSession "Αποδοχή για τη συνεδρία">

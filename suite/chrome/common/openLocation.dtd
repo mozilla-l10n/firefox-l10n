@@ -4,9 +4,11 @@
 
 <!-- extracted from content/openLocation.xul -->
 
+<!ENTITY enter.label "Εισάγετε τη διεύθυνση ιστού (URL), ή προσδιορίστε το τοπικό αρχείο που θέλετε να ανοίξετε:">
 <!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->
+<!ENTITY enter.accesskey "Ε">
 <!ENTITY chooseFile.label "Επιλογή αρχείου…">
 <!ENTITY chooseFile.accesskey "Ε">
 <!ENTITY newPrivate.label "Νέο ιδιωτικό παράθυρο">
