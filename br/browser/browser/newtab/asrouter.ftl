@@ -78,7 +78,7 @@ cfr-doorhanger-pintab-animation-resume = Kenderc'hel
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Goubredit ho sinedoù e pep lec'h.
-cfr-doorhanger-bookmark-fxa-body = Kavet ho peus ul lec'hienn a-zoare! Bremañ eo dav deoc'h adkavout ar sined-mañ war ho trevnadoù hezoug. Krogit gant : { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Kavet ho peus ul lec'hienn a-zoare! Bremañ eo dav deoc'h adkavout ar sined-mañ war ho trevnadoù hezoug. Krogit gant: { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Goubredit ar sinedoù bremañ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Afell serriñ
@@ -261,5 +261,11 @@ cfr-whatsnew-better-pdf-body = An teulioù PDF a zigot war-eeun e { -brand-short
 cfr-doorhanger-doh-secondary-button = Diweredekaat
     .accesskey = D
 
+## Fission Experiment Message
+
+
 ## What's new: Cookies message
+
+
+## What's new: Media controls message
 

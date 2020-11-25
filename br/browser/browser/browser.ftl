@@ -355,10 +355,10 @@ browser-window-close-button =
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
-    .value = Webkam da rannañ :
+    .value = Webkam da rannañ:
     .accesskey = W
 popup-select-microphone =
-    .value = Klevell da rannañ :
+    .value = Klevell da rannañ:
     .accesskey = K
 popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
 popup-screen-sharing-not-now =
@@ -428,7 +428,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-permissions-granted =
     .tooltiptext = Roet ho peus aotreoù ouzhpenn d'al lec'hienn-mañ.
 urlbar-switch-to-tab =
-    .value = Mont d'an ivinell :
+    .value = Mont d'an ivinell:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Askouezh:

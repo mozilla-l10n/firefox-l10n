@@ -13,7 +13,7 @@ page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Donemat Mab-den!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
-error-short-desc-text = E peoc'h ha gant youl vat ez omp deuet d'ho kwelout !
+error-short-desc-text = E peoc'h ha gant youl vat ez omp deuet d'ho kwelout!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Ne c'hell ket ar robotoù kunujañ mab-den pe, dre zioberiantiz, lezel mab-den da vezañ gloazet.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."

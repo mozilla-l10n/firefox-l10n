@@ -6,10 +6,10 @@ migration-wizard =
     .title = Skoazeller Enporzhiañ
 import-from =
     { PLATFORM() ->
-        [windows] Enporzhiañ an dibarzhioù, sinedoù, roll istor, gerioù-tremen ha roadennoù all adalek :
-       *[other] Enporzhiañ an dibaboù gwellañ, sinedoù, roll istor, gerioù-tremen ha roadennoù all diouzh :
+        [windows] Enporzhiañ an dibarzhioù, sinedoù, roll istor, gerioù-tremen ha roadennoù all adalek:
+       *[other] Enporzhiañ an dibaboù gwellañ, sinedoù, roll istor, gerioù-tremen ha roadennoù all diouzh:
     }
-import-from-bookmarks = Enporzhiañ sinedoù diouzh :
+import-from-bookmarks = Enporzhiañ sinedoù diouzh:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
@@ -52,14 +52,14 @@ import-from-360se =
 no-migration-sources = N'hall ket kavout goulev ebet a zo ennañ sinedoù, rolladoù istor pe gerioù-tremen.
 import-source-page-title = Enporzhiañ arventennoù ha roadennoù diouzh …
 import-items-page-title = Ergorennoù da enporzhiañ
-import-items-description = Diuz pe elfennoù da enporzhiañ :
+import-items-description = Diuz pe elfennoù da enporzhiañ:
 import-permissions-page-title = Roit an aotreadurioù mar plij da { -brand-short-name }
 import-migrating-page-title = Oc'h enporzhiañ …
 import-migrating-description = Emañ an ergorennoù da heul o vezañ enporzhiet…
 import-select-profile-page-title = Diuz an aelad
-import-select-profile-description = An aeladoù da heul a c'hell bezañ enporzhiet diouzh :
+import-select-profile-description = An aeladoù da heul a c'hell bezañ enporzhiet diouzh:
 import-done-page-title = Echu eo an enporzhiañ
-import-done-description = Enporzhiet eo bet an ergorennoù da heul gant berzh :
+import-done-description = Enporzhiet eo bet an ergorennoù da heul gant berzh:
 import-close-source-browser = Gwiriekait eo serret ar merdeer diuzet a-raok kenderc'hel.
 # Displays which browser the bookmarks are being imported from
 #
