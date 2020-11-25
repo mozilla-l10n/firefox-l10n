@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = นำเข้าจากเบราว์เซอร์อื่น…
 about-logins-menu-menuitem-import-from-a-file = นำเข้าจากไฟล์…
 about-logins-menu-menuitem-export-logins = ส่งออกข้อมูลการเข้าสู่ระบบ…
+about-logins-menu-menuitem-remove-all-logins = ลบการเข้าสู่ระบบทั้งหมด…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ตัวเลือก
@@ -172,6 +173,10 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] ใช่ ลบการเข้าสู่ระบบนี้
        *[other] ใช่ ลบการเข้าสู่ระบบเหล่านี้
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+       *[other] ลบการเข้าสู่ระบบทั้งหมด { $count } รายการหรือไม่?
     }
 about-logins-confirm-export-dialog-title = ส่งออกข้อมูลการเข้าสู่ระบบและรหัสผ่าน
 about-logins-confirm-export-dialog-message = รหัสผ่านของคุณจะถูกบันทึกเป็นข้อความที่อ่านได้ (เช่น BadP@ssw0rd) ดังนั้นใครก็ตามที่สามารถเปิดไฟล์ที่ส่งออกได้จะสามารถดูได้
