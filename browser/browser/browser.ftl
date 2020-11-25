@@ -301,6 +301,8 @@ identity-https-only-info-turn-off2 = Se o site parecer estragado, pode querer de
 identity-https-only-info-no-upgrade = Não foi possível atualizar a ligação de HTTP.
 identity-permissions =
     .value = Permissões
+identity-permissions-storage-access-header = Cookies inter-sites
+identity-permissions-storage-access-hint = Estas entidades podem utilizar cookies inter-sites e dados do site enquanto estiver neste site.
 identity-permissions-reload-hint = Poderá ter de recarregar a página para as alterações se aplicarem.
 identity-permissions-empty = Não concedeu quaisquer permissões especiais a este site.
 identity-clear-site-data =
@@ -346,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importar marcadores…
-    .tooltiptext = Copiar marcadores de outro navegador para o { -brand-short-name }.
+    .tooltiptext = Importar marcadores de outro navegador para o { -brand-short-name }.
+bookmarks-toolbar-empty-message = Para um acesso rápido, coloque os seus marcadores aqui, na barra de ferramentas de marcadores. <a data-l10n-name="manage-bookmarks">Gerir marcadores…</a>
 
 ## WebRTC Pop-up notifications
 

@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Avançar com cuidado
 pane-experimental-search-results-header = Experiências { -brand-short-name }: Prosseguir com cuidado
 pane-experimental-description = Alterar as preferências avançadas de configuração pode interferir com o desempenho ou segurança do { -brand-short-name }.
+pane-experimental-reset =
+    .label = Repor predefinições
+    .accesskey = R
 help-button-label = Apoio do { -brand-short-name }
 addons-button-label = Extensões e temas
 focus-search =
@@ -881,6 +884,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Rastreadores entre sites
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Rastreadores entre sites e de redes sociais
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Cookies de rastreamento inter-sites - inclui cookies de redes sociais
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cookies inter-sites - inclui cookies de redes sociais
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Rastreadores entre sites e de redes sociais, e isolamento das cookies remanescentes
 sitedata-option-block-unvisited =
@@ -925,6 +932,7 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 content-blocking-enhanced-tracking-protection = Proteção melhorada contra a monitorização
 content-blocking-section-top-level-description = Os rastreadores seguem-no na Internet para recolher informação sobre os seus hábitos e interesses de navegação. O { -brand-short-name } bloqueia muitos destes rastreadores e outros scripts maliciosos.
 content-blocking-learn-more = Saber mais
+content-blocking-fpi-incompatibility-warning = Está a utilizar o isolamento primário (FPI), que substitui algumas das configurações de cookies do { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -946,6 +954,7 @@ content-blocking-etp-standard-desc = Balanceado para proteção e desempenho. As
 content-blocking-etp-strict-desc = Proteção mais forte, mas pode causar problemas em alguns sites ou conteúdos.
 content-blocking-etp-custom-desc = Escolha quais os rastreadores e scripts a bloquear.
 content-blocking-private-windows = Conteúdo de monitorização nas janelas privadas
+content-blocking-cross-site-cookies = Cookies inter-sites
 content-blocking-cross-site-tracking-cookies = Cookies de monitorização entre sites
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de monitorização entre sites e isolamento das cookies remanescentes
 content-blocking-social-media-trackers = Rastreadores de redes sociais
