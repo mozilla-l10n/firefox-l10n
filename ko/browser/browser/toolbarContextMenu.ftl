@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = 새 탭에서만 표시
     .accesskey = O
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = 다른 북마크 표시
+    .accesskey = h
