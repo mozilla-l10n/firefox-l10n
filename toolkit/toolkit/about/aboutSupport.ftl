@@ -62,6 +62,9 @@ app-basics-enabled-plugins = 啟用的外掛程式
 app-basics-build-config = 編譯組態
 app-basics-user-agent = 使用者代理字串（User Agent）
 app-basics-os = 作業系統
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = 經 Rosetta 轉譯
 app-basics-memory-use = 記憶體使用量
 app-basics-performance = 效能
 app-basics-service-workers = 註冊的 Service Worker
