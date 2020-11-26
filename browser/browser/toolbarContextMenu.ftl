@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Allinnich op nij ljepblêd
     .accesskey = o
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Oare blêdwizers toane
+    .accesskey = t
