@@ -65,3 +65,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Dim ond ar Dab Newydd
     .accesskey = D
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Dangos Nodau Tudalen Eraill
+    .accesskey = N
