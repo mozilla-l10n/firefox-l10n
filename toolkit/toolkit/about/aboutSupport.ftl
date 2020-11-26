@@ -59,6 +59,9 @@ app-basics-enabled-plugins = Ategion Galluogwyd
 app-basics-build-config = Ffurfweddiad Adeiladu
 app-basics-user-agent = Asiant Defnyddiwr
 app-basics-os = SW
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Cyfieithu gan Rosetta
 app-basics-memory-use = Defnydd o'r cof
 app-basics-performance = Perfformiad
 app-basics-service-workers = Service Workers Cofrestredig
