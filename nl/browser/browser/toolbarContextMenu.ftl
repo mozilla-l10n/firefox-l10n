@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Alleen op een nieuw tabblad
     .accesskey = o
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Andere bladwijzers tonen
+    .accesskey = t
