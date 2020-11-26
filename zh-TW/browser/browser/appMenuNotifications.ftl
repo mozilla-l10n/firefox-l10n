@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = 請點擊 <image data-l10n-name='addon-menu
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允許此擴充套件於隱私瀏覽視窗中執行
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = 您的「新分頁」已經變更。
     .buttonlabel = 保留變更
@@ -52,6 +51,18 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = 停用擴充套件
     .secondarybuttonaccesskey = D
+appmenu-new-tab-controlled-changes =
+    .label = 您的新分頁已經變更。
+    .buttonlabel = 保留變更
+    .buttonaccesskey = K
+    .secondarybuttonlabel = 管理新分頁
+    .secondarybuttonaccesskey = M
+appmenu-homepage-controlled-changes =
+    .label = 您的首頁已經變更。
+    .buttonlabel = 保留變更
+    .buttonaccesskey = K
+    .secondarybuttonlabel = 管理首頁
+    .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
     .label = 存取您所有隱藏的分頁
     .buttonlabel = 保持隱藏分頁
