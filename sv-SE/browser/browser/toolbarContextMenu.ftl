@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Endast på ny flik
     .accesskey = E
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Visa andra bokmärken
+    .accesskey = n
