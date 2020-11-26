@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = 点击 <image data-l10n-name='addon-menu-ic
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允许此扩展在隐私窗口中运行
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = 您的新标签页已变更。
     .buttonlabel = 保留更改
@@ -52,6 +51,18 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = 禁用扩展
     .secondarybuttonaccesskey = D
+appmenu-new-tab-controlled-changes =
+    .label = 您的新标签页已变更。
+    .buttonlabel = 保留更改
+    .buttonaccesskey = K
+    .secondarybuttonlabel = 管理新标签页
+    .secondarybuttonaccesskey = M
+appmenu-homepage-controlled-changes =
+    .label = 您的主页已变更。
+    .buttonlabel = 保留更改
+    .buttonaccesskey = K
+    .secondarybuttonlabel = 管理主页
+    .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
     .label = 存取您隐藏的标签页
     .buttonlabel = 保持隐藏标签页
