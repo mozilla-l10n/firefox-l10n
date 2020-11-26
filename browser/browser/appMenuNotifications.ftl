@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = Klikńće na <image data-l10n-name='addon-i
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tute rozšěrjenje w priwatnych woknach dowolić
     .accesskey = T
-    
 appmenu-new-tab-controlled =
     .label = Waš nowy rajtark je so změnił.
     .buttonlabel = Změny wobchować
@@ -52,6 +51,18 @@ appmenu-homepage-controlled =
     .buttonaccesskey = Z
     .secondarybuttonlabel = Rozšěrjenje znjemóžnić
     .secondarybuttonaccesskey = R
+appmenu-new-tab-controlled-changes =
+    .label = Waš nowy rajtark je so změnił.
+    .buttonlabel = Změny wobchować
+    .buttonaccesskey = Z
+    .secondarybuttonlabel = Nowe rajtarki rjadować
+    .secondarybuttonaccesskey = N
+appmenu-homepage-controlled-changes =
+    .label = Waša startowa strona je so změniła.
+    .buttonlabel = Změny wobchować
+    .buttonaccesskey = Z
+    .secondarybuttonlabel = Startowu stronu rjadować
+    .secondarybuttonaccesskey = S
 appmenu-tab-hide-controlled =
     .label = Přistup na waše schowane rajtarki
     .buttonlabel = Rajtarki schowane wobchować
