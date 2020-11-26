@@ -39,7 +39,7 @@
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
-#define nightly_heading Firefox Nightly kaynakları
+#define nightly_heading Firefox Nightly Kaynakları
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
@@ -60,10 +60,6 @@
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
 #define crashes Tüm çökmeleriniz
-
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Nightly’yi IRC’de tartışın
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
