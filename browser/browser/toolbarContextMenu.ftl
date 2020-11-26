@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = 只在新标签页
     .accesskey = O
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = 显示 - 其他书签
+    .accesskey = h
