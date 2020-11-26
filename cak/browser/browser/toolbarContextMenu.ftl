@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Xa xe pa K'ak'a' Ruwi'
     .accesskey = X
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Tik'ut Ch'aqa' chik taq Yaketal
+    .accesskey = k

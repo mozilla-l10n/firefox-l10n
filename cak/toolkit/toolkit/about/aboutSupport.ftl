@@ -59,6 +59,9 @@ app-basics-enabled-plugins = Tzijon taq nak'ab'äl
 app-basics-build-config = Runuk'ulem Molïk
 app-basics-user-agent = Rub'anel ri winäq
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Xtzalq'omïx Rosetta
 app-basics-memory-use = Rokisaxik rupam rujolom
 app-basics-performance = Rub'eyal nisamäj
 app-basics-service-workers = Samajela' pa samaj tz'ib'an kib'i'
