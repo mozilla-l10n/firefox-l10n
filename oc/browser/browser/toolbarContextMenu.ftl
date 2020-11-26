@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Dobrir dins un onglet novèl
     .accesskey = D
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Veire los autres marcapaginas
+    .accesskey = V
