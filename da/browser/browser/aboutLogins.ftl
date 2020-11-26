@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Hent den fra  Google Play
 login-app-promo-apple =
     .alt = Hent den i App Store
-
 login-filter =
     .placeholder = Søg efter logins
-
 create-login-button = Opret nyt login
-
 fxaccounts-sign-in-text = Få dine adgangkoder på alle dine enheder
 fxaccounts-sign-in-button = Log ind på { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -32,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importer fra en anden browser…
 about-logins-menu-menuitem-import-from-a-file = Importer fra fil…
 about-logins-menu-menuitem-export-logins = Eksporter logins…
+about-logins-menu-menuitem-remove-all-logins = Fjern alle logins…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Indstillinger
@@ -71,7 +69,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name } eller importer dine logins.
 about-logins-login-intro-heading-logged-in = Ingen synkroniserede logins fundet.
 login-intro-description = Hvis du har gemt dine logins i { -brand-product-name } på en anden enhed, så skal du gøre sådan for at anvende dem her også:
@@ -79,7 +76,6 @@ login-intro-instruction-fxa = Opret eller log ind på din { -fxaccount-brand-nam
 login-intro-instruction-fxa-settings = Vær sikker på, at du har sat et flueben ud for Logins i { -sync-brand-short-name }-indstillingerne.
 about-logins-intro-instruction-help = Besøg <a data-l10n-name="help-link">{ -lockwise-brand-short-name } denne side</a> for at få mere hjælp
 about-logins-intro-import = Hvis dine logins er gemt i en anden browser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Hvis dine logins er gemt et andet sted end { -brand-product-name }, så kan du <a data-l10n-name="import-browser-link">importere dem fra en anden browser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
 
 ## Login
@@ -120,13 +116,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Indtast dine login-informat
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redigere det gemte login
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at se din adgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = vise den gemte adgangskode
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at kopiere din adgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen when attempting to copy a password in about:logins
@@ -136,7 +130,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = kopiere den gemte adg
 ## Master Password notification
 
 master-password-notification-message = Indtast din hovedadgangskode for at se gemte logins og adgangskoder
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at eksportere dine logins. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen when attempting to export a password in about:logins
@@ -173,15 +166,23 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Annuller
 confirmation-dialog-dismiss-button =
     .title = Annuller
-
 about-logins-confirm-remove-dialog-title = Fjern dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
-
+about-logins-confirm-remove-all-dialog-confirm-button = Fjern alle
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ja, fjern dette login
+       *[other] Ja, fjern disse logins
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Fjern { $count } login?
+       *[other] Fjern { $count } logins?
+    }
 about-logins-confirm-export-dialog-title = Eksporter logins og adgangskoder
 about-logins-confirm-export-dialog-message = Dine adgangskoder bliver gemt som læsbar tekst (fx dåRligAdg@ngsk0de), så alle der kan åbne den eksportede fil kan se dine adgangskoder.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
-
 confirm-discard-changes-dialog-title = Annuller ikke-gemte ændringer?
 confirm-discard-changes-dialog-message = Alle ikke-gemte ændringer vil gå tabt.
 confirm-discard-changes-dialog-confirm-button = Annuller
@@ -212,10 +213,8 @@ about-logins-vulnerable-alert-learn-more-link = Læs mere
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Der findes allerede et login for { $loginTitle } med samme brugernavn. <a data-l10n-name="duplicate-link">Gå til eksisterende login?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Der opstod en fejl med at gemme adgangskoden.
-
 
 ## Login Export Dialog
 
