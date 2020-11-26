@@ -63,3 +63,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Jano w nowem rejtariku
     .accesskey = J
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Druge cytańske znamjenja pokazaś
+    .accesskey = D

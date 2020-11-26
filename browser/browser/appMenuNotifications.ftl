@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = Klikniśo na <image data-l10n-name='addon-i
 appmenu-addon-post-install-incognito-checkbox =
     .label = Toś to rozšyrjenje w priwatnych woknach dowóliś
     .accesskey = T
-    
 appmenu-new-tab-controlled =
     .label = Waš nowy rejtarik jo se změnił.
     .buttonlabel = Změny wobchowaś
@@ -52,6 +51,18 @@ appmenu-homepage-controlled =
     .buttonaccesskey = Z
     .secondarybuttonlabel = Rozšyrjenje znjemóžniś
     .secondarybuttonaccesskey = R
+appmenu-new-tab-controlled-changes =
+    .label = Waš nowy rejtarik jo se změnił.
+    .buttonlabel = Změny wobchowaś
+    .buttonaccesskey = Z
+    .secondarybuttonlabel = Nowe rejtariki zastojaś
+    .secondarybuttonaccesskey = N
+appmenu-homepage-controlled-changes =
+    .label = Waš startowy bok jo se změnił.
+    .buttonlabel = Změny wobchowaś
+    .buttonaccesskey = Z
+    .secondarybuttonlabel = Startowy bok zastojaś
+    .secondarybuttonaccesskey = S
 appmenu-tab-hide-controlled =
     .label = Pśistup k wašym schowanym rejtarikam
     .buttonlabel = Rejtariki schowane wobchowaś
