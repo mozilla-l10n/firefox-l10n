@@ -63,3 +63,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Jenož w nowym rajtarku
     .accesskey = J
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Druhe zapołožki pokazać
+    .accesskey = D
