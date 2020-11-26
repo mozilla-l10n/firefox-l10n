@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Csak az új lapon
     .accesskey = j
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Egyéb könyvjelzők megjelenítése
+    .accesskey = E
