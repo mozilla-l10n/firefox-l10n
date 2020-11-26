@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Bare på ny fane
     .accesskey = B
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Vis andre bokmerker
+    .accesskey = V
