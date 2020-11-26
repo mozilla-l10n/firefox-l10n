@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Yalnızca yeni sekmede
     .accesskey = Y
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Diğer yer imlerini göster
+    .accesskey = D
