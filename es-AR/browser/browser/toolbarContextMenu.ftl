@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Solo en una pestaña nueva
     .accesskey = O
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Mostrar otros marcadores
+    .accesskey = h
