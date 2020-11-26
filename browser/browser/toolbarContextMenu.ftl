@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Só em novas abas
     .accesskey = o
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Mostrar outros favoritos
+    .accesskey = M
