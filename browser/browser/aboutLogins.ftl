@@ -181,10 +181,22 @@ about-logins-confirm-remove-all-dialog-title =
         [one] { $count } oanmelding fuortsmite?
        *[other] Alle { $count } oanmeldingen fuortsmite?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Dit smyt de oanmelding fuort dy't jo yn { -brand-short-name } bewarre hawwe en alle warskôgingen foar datalekken dy't hjir ferskine. Jo kinne dizze aksje net ûngedien meitsje.
+        [one] Dit smyt de oanmelding fuort dy't jo yn { -brand-short-name } bewarre hawwe en alle warskôgingen foar datalekken dy't hjir ferskine. Jo kinne dizze aksje net ûngedien meitsje.
+       *[other] Dit smyt de oanmeldingen fuort dy't jo yn { -brand-short-name } bewarre hawwe en alle warskôgingen foar datalekken dy't hjir ferskine. Jo kinne dizze aksje net ûngedien meitsje.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } oanmelding fan alle apparaten fuortsmite?
        *[other] Alle { $count } oanmeldingen fan alle apparaten fuortsmite?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Dit smyt de oanmelding fuort dy't jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy't mei jo { -fxaccount-brand-name } syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy't hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
+        [one] Dit smyt de oanmelding fuort dy't jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy't mei jo { -fxaccount-brand-name } syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy't hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
+       *[other] Dit smyt de oanmeldingen fuort dy't jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy't mei jo { -fxaccount-brand-name } syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy't hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
     }
 about-logins-confirm-export-dialog-title = Oanmeldingen en wachtwurden eksportearje
 about-logins-confirm-export-dialog-message = Jo wachtwurden wurde bewarre as lêsbere tekst (bygelyks BadP@ssw0rd), dus elkenien dy't it eksportearre bestân iepenje kin, kin se besjen.
