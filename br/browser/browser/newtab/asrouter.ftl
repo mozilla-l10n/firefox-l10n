@@ -258,14 +258,21 @@ cfr-whatsnew-better-pdf-body = An teulioù PDF a zigot war-eeun e { -brand-short
 
 ## DOH Message
 
+cfr-doorhanger-doh-primary-button = Mat, komprenet 'm eus
+    .accesskey = M
 cfr-doorhanger-doh-secondary-button = Diweredekaat
     .accesskey = D
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = Mat, komprenet 'm eus
+    .accesskey = M
+cfr-doorhanger-fission-secondary-button = Gouzout hiroc'h
+    .accesskey = G
 
 ## What's new: Cookies message
 
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-button = Gouzout penaos

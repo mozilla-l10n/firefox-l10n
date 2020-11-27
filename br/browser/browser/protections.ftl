@@ -35,7 +35,7 @@ protection-report-page-summary = { -brand-short-name } a c'hall gwareziñ ho puh
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } a warez ho puhez prevez diouzh an drekleur p'emaoc'h o verdeiñ. Un diverradenn personelaet deus ar gwarezioù-se eo, gant binviji evit kontrollañ ho surentez enlinenn.
 protection-report-settings-link = Merañ hoc’h arventennoù prevezded ha surentez
-etp-card-title-always = Gwarez heuliañ araokaet : bepred gweredekaet
+etp-card-title-always = Gwarez heuliañ araokaet: bepred gweredekaet
 etp-card-title-custom-not-blocking = Gwarez heuliañ araokaet : DIWEREDEKAET
 etp-card-content-description = { -brand-short-name } a vir ouzh an embregerezhioù, en un doare emgefreek, d'ho heuliañ war ar web dre-guzh.
 protection-report-etp-card-content-custom-not-blocking = Diweredekaet eo an holl warezioù. Dibabit pe heulier a fell deoc'h stankañ en ur verañ hoc'h arventennoù buhez prevez { -brand-short-name }.

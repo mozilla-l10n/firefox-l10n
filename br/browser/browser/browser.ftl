@@ -462,6 +462,9 @@ urlbar-result-action-visit = Gweladenniñ
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Klask er sinedoù
+urlbar-result-action-search-history = Klask er roll istor
+urlbar-result-action-search-tabs = Klask ivinelloù
 
 ## Full Screen and Pointer Lock UI
 

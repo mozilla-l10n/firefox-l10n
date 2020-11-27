@@ -117,7 +117,7 @@ startup-header = Loc'hañ
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Aotren { -brand-short-name } ha Firefox da erounit war un dro
-use-firefox-sync = Tun : arveret e vo aeladoù disheñvel. Arverit { -sync-brand-short-name } evit rannañ roadennoù etrezo.
+use-firefox-sync = Tun: arveret e vo aeladoù disheñvel. Arverit { -sync-brand-short-name } evit rannañ roadennoù etrezo.
 get-started-not-logged-in = Kennaskañ ouzh { -sync-brand-short-name }…
 get-started-configured = Digeriñ gwellvezioù { -sync-brand-short-name }
 always-check-default =
@@ -338,7 +338,7 @@ play-drm-content =
     .label = Lenn un endalc'had reoliet gant DRM
     .accesskey = L
 play-drm-content-learn-more = Gouzout hiroc'h
-update-application-title = Hizivadurioù evit { -brand-short-name } :
+update-application-title = Hizivadurioù evit { -brand-short-name }:
 update-application-description = Derc'hel { -brand-short-name } hizivaet evit an digonusted, stabilded ha diogelroez gwellañ.
 update-application-version = Handelv { $version } <a data-l10n-name="learn-more">Petra nevez</a>
 update-history =
