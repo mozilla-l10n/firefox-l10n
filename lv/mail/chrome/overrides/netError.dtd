@@ -151,10 +151,10 @@
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Bloķē satura drošības politika">
+<!ENTITY cspBlocked.title "Liedz satura drošības politika">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; liedza šīs lapas ielādi saskaņā ar tā drošības politiku.</p>">
 
-<!ENTITY xfoBlocked.title "Bloķēts saskaņā ar X-Frame-Options politiku">
+<!ENTITY xfoBlocked.title "Liegts saskaņā ar X-Frame-Options politiku">
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; neļāva šo lapu ielādēt šajā kontekstā, jo tas ir aizliegts saskaņā ar X-Frame-Options politiku.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Bojāta satura kļūda">
@@ -185,7 +185,7 @@ functionality specific to thunderbird. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class = 'hostname'></span> izmanto novecojušu un pret uzbrukumiem neaizsargātu drošības tehnoloģiju. Uzbrucējs viegli var atklāt informāciju, kuru jūs uzskatāt par drošu. Pirms jūs varat apmeklēt vietni, vietnes administratoram vispirms ir jāsalabo serveris.</p><p>Kļūdas kods: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicy.title "Bloķēta lapa">
+<!ENTITY blockedByPolicy.title "Liegta lapa">
 
 <!ENTITY networkProtocolError.title "Tīkla protokola kļūda">
 <!ENTITY networkProtocolError.longDesc "<p>Lapu, kuru mēģināt skatīt, nevar parādīt, jo ir konstatēta kļūda tīkla protokolā.</p><ul><li>Lūdzu, sazinieties ar vietnes īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">
