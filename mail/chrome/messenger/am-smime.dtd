@@ -18,8 +18,8 @@
 <!ENTITY encryption.certificate_clear.button "Vymazať">
 <!ENTITY encryption.certificate_clear.accesskey "m">
 <!ENTITY signingGroupTitle.label "Digitálne podpisovanie">
+<!ENTITY signMessage2.label "V predvolenom nastavení pridávať môj digitálny podpis">
 <!ENTITY signMessage.accesskey "D">
-
 
 
 
