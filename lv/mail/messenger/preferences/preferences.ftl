@@ -346,18 +346,55 @@ edit-tag-button =
 delete-tag-button =
     .label = Dzēst
     .accesskey = D
+auto-mark-as-read =
+    .label = Automātiski atzīmēt vēstules kā lasītas
+    .accesskey = A
+mark-read-no-delay =
+    .label = Uzreiz parādot
+    .accesskey = U
 
 ## Note: This will concatenate to "After displaying for [___] seconds",
 ## using (mark-read-delay) and a number (seconds-label).
 
+mark-read-delay =
+    .label = Pēc parādīšanas
+    .accesskey = P
+seconds-label = sekundes
 
 ##
 
+open-msg-label =
+    .value = Atvērt vēstules:
+open-msg-tab =
+    .label = Jaunā cilnē
+    .accesskey = c
+open-msg-window =
+    .label = Jaunā logā
+    .accesskey = l
+open-msg-ex-window =
+    .label = Esošā logā
+    .accesskey = E
+close-move-delete =
+    .label = Aizveriet vēstules logu/cilni, to pārvietojot vai dzēšot
+    .accesskey = A
+display-name-label =
+    .value = Rādāmvārds:
+condensed-addresses-label =
+    .label = Adrešu grāmatā rādīt tikai tikai personas rādāmvārdu
+    .accesskey = r
 
 ## Compose Tab
 
+forward-label =
+    .value = Pārsūtīt vēstules:
+    .accesskey = P
+inline-label =
+    .label = Iekļauti
 as-attachment-label =
     .label = Kā pielikumu
+extension-label =
+    .label = Faila nosaukumam pievienot paplašinājumu
+    .accesskey = p
 
 ## Note: This will concatenate to "Auto Save every [___] minutes",
 ## using (auto-save-label) and a number (auto-save-end).
