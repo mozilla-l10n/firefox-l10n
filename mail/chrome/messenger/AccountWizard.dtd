@@ -15,7 +15,7 @@
 <!ENTITY accountTypeDirections.label "Izvēlieties konta veidu, kādu vēlaties izveidot:">
 <!ENTITY accountTypeMail.label "Epasta konts">
 <!ENTITY accountTypeMail.accesskey "m">
-<!ENTITY accountTypeNews.label "Intereškopas konts">
+<!ENTITY accountTypeNews.label "Ziņu grupas konts">
 <!ENTITY accountTypeNews.accesskey "w">
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
@@ -65,7 +65,7 @@
 <!ENTITY incomingUsername.accesskey "U">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Ievadiet jūsu ziņu servera (NNTP) nosaukumu (piemēram, &quot;news.example.net&quot;).">
-<!ENTITY newsServerLabel.label "Intereškopas serveris:">
+<!ENTITY newsServerLabel.label "Ziņu grupas serveris:">
 <!ENTITY newsServerLabel.accesskey "S">
 
 <!-- Entities for Outgoing Server page -->

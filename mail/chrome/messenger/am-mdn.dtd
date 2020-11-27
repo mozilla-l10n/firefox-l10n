@@ -18,7 +18,7 @@
 <!ENTITY moveToSent.label             "Pārvietot tos uz &quot;Nosūtīts&quot; mapi">
 <!ENTITY moveToSent.accesskey         "M">
 <!ENTITY requestMDN.label             "Kad saņemat saņemšanas apliecināšanas pieprasījumu:">
-<!ENTITY returnSome.label             "Atļaut tos dažām vēstulēm">
+<!ENTITY returnSome.label             "Ļaut tos dažām vēstulēm">
 <!ENTITY returnSome.accesskey         "e">
 <!ENTITY never.label                  "Nekad nesūtīt apliecinājumu">
 <!ENTITY never.accesskey              "N">

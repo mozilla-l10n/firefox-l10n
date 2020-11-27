@@ -489,8 +489,8 @@ cloud-account-description = Pievienot jaunu Filelink krātuves pakalpojumu
 
 mail-content = Pasta saturs
 remote-content-label =
-    .label = Atļaut attālo saturu vēstulēs
-    .accesskey = A
+    .label = Ļaut attālo saturu vēstulēs
+    .accesskey = a
 exceptions-button =
     .label = Izņēmumi…
     .accesskey = I
