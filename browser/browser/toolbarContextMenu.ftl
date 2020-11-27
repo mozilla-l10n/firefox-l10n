@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Chỉ trên thẻ mới
     .accesskey = O
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Hiển thị các dấu trang khác
+    .accesskey = h
