@@ -571,9 +571,40 @@ junk-log-button =
 reset-junk-button =
     .label = Atstatīt apmācības datus
     .accesskey = A
+phishing-description = { -brand-short-name } var novērtēt vēstules par iespējamu krāpniecību, meklējot izplatītus maldināšanas paņēmienus.
+phishing-label =
+    .label = Teikt, ka vēstule izskatās krāpnieciska
+    .accesskey = T
+antivirus-description = { -brand-short-name } var atvieglot pretvīrusu programmu darbību, novērtējot, vai vēstules satur vīrusus, pirms tās saglabāt lokāli.
+antivirus-label =
+    .label = Ļaut pretvīrusu programmām ievietot karantīnā atsevišķas ienākošās vēstules
+    .accesskey = p
+certificate-description = Kad serveris pieprasa jūsu personīgo sertifikātu:
+certificate-auto =
+    .label = Izvēlēties automātiski
+    .accesskey = I
+certificate-ask =
+    .label = Vienmēr jautāt
+    .accesskey = V
+ocsp-label =
+    .label = Vaicāt OCSP atbildes serveriem, lai pārbaudītu esošo sertifikātu derīgumu
+    .accesskey = a
+certificate-button =
+    .label = Pārvaldīt sertifikātus…
+    .accesskey = P
+security-devices-button =
+    .label = Drošības ierīces…
+    .accesskey = D
 
 ## Chat Tab
 
+startup-label =
+    .value = Palaižoties { -brand-short-name }:
+    .accesskey = P
+offline-label =
+    .label = Saglabāt tērzēšanas kontus nesaistē
+auto-connect-label =
+    .label = Automātiski savienot tērzēšanas kontus
 
 ## Note: idle-label is displayed first, then there's a field where the user
 ## can enter a number, and itemTime is displayed at the end of the line.
@@ -581,9 +612,49 @@ reset-junk-button =
 ## to mean the exact same thing as in English; please try instead to
 ## translate the whole sentence.
 
+idle-label =
+    .label = Ļaujiet kontaktiem zināt, ka esat dīkstāvē
+    .accesskey = d
+idle-time-label = bezdarbības minūtēm
 
 ##
 
+away-message-label =
+    .label = un iestatīt statusu Prom ar šo statusa ziņojumu:
+    .accesskey = u
+send-typing-label =
+    .label = Sarunās sūtīt rakstīšanas paziņojumu
+    .accesskey = S
+notification-label = Kad pienāk jums adresētas ziņas:
+show-notification-label =
+    .label = Rādīt paziņojumu:
+    .accesskey = R
+notification-all =
+    .label = ar sūtītāja vārdu un ziņas priekšskatu
+notification-name =
+    .label = tikai ar sūtītāja vārdu
+notification-empty =
+    .label = bez informācijas
+notification-type-label =
+    .label =
+        { PLATFORM() ->
+            [macos] Animēt palodzes ikonu
+           *[other] Animēt palodzes ikonu
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] A
+           *[other] A
+        }
+chat-play-sound-label =
+    .label = Atskaņot skaņu
+    .accesskey = s
+chat-play-button =
+    .label = Atskaņot
+    .accesskey = s
+chat-system-sound-label =
+    .label = Sistēmas noklusētā jaunas ziņas skaņa
+    .accesskey = S
 chat-browse-sound-button =
     .label = Pārlūkot...
     .accesskey = P
