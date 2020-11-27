@@ -21,7 +21,7 @@
 <!ENTITY biffStart.label "Pārbaudīt jaunas vēstules katru">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "minūti">
-<!ENTITY useIdleNotifications.label "Kad pienāk jauna vēstule, atļaut tūlītēju servera paziņojumu">
+<!ENTITY useIdleNotifications.label "Kad pienāk jauna vēstule, ļaut tūlītēju servera paziņojumu">
 <!ENTITY useIdleNotifications.accesskey "w">
 <!ENTITY connectionSecurity.label "Savienojuma drošība:">
 <!ENTITY connectionSecurity.accesskey "u">

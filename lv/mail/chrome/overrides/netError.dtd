@@ -20,11 +20,12 @@
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Pārbaudiet lapas adreses drukas kļūdas, piemēram:
-    <strong>ww</strong>.piem.lv
-    <strong>www</strong>.piem.lv vietā</li>
+  <strong>ww</strong>.piem.lv
+  <strong>www</strong>.piem.lv vietā</li>
   <li>Ja nevarat ielādēt nevienu lapu, pārbaudiet sava datora tīklu.</li>
-  <li>Ja jūsu datoru vai tīklu aizsargā ugunsmūris vai starpniekserveris, pārliecinieties, vai &brandShortName; ir atļauts piekļūt tīmeklim.</li>
-</ul>">
+  <li>Ja jūsu datoru vai tīklu aizsargā ugunsmūris vai starpniekserveris, pārliecinieties, vai &brandShortName; ir ļauts piekļūt tīmeklim.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Fails nav atrasts">
 <!ENTITY fileNotFound.longDesc "

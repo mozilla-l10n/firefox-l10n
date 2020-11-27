@@ -112,8 +112,8 @@ min-size-none =
 
 font-control-legend = Fontu vadība
 use-document-fonts-checkbox =
-    .label = Atļaut ziņām izmantot citus fontus
-    .accesskey = A
+    .label = Ļaut ziņām izmantot citus fontus
+    .accesskey = a
 use-fixed-width-plain-checkbox =
     .label = Vienkārša teksta ziņām izmantot vienāda platuma fontu
     .accesskey = V
