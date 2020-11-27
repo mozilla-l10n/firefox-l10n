@@ -35,7 +35,7 @@ import-title = Importeren vanuit een ander programma
 import-paragraph = Met { -brand-short-name } kunt u e-mailberichten, adresboekvermeldingen, feedabonnementen, voorkeuren en/of filters uit andere e-mailprogramma’s en bekende adresboekindelingen importeren.
 import-label = Importeren
     .aria-label = Gegevens uit andere programma’s importeren
-about-paragraph = Thunderbird is de leidende open source, platformonafhankelijke e-mail- en agendaclient, gratis voor zakelijk en persoonlijk gebruik. We willen dat het veilig blijft en zelfs beter wordt. Met een donatie kunnen we ontwikkelaars inhuren, voor infrastructuur betalen en blijven verbeteren.
+about-paragraph = Thunderbird is de leidende opensource, platformonafhankelijke e-mail- en agendaclient, gratis voor zakelijk en persoonlijk gebruik. We willen dat het veilig blijft en zelfs beter wordt. Met een donatie kunnen we ontwikkelaars inhuren, voor infrastructuur betalen en blijven verbeteren.
 about-paragraph-2 = <b>Thunderbird wordt gefinancierd door gebruikers als u! Als u van Thunderbird houdt, overweeg dan een donatie.</b> De beste manier om ervoor te zorgen dat Thunderbird beschikbaar blijft, is door
 about-donation = een donatie te doen
 about-paragraph-consider-donation = <b>Thunderbird wordt gefinancierd door gebruikers zoals u! Als Thunderbird u bevalt, overweeg dan een donatie.</b> De beste manier om ervoor te zorgen dat Thunderbird beschikbaar blijft, is <a data-l10n-name="donation-link">een donatie doen.</a>
