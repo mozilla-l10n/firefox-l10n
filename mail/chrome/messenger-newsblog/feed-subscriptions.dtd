@@ -41,7 +41,7 @@
 <!ENTITY button.addFeed.accesskey    "P">
 <!ENTITY button.verifyFeed.label     "Pārbaudīt">
 <!ENTITY button.verifyFeed.accesskey "P">
-<!ENTITY button.updateFeed.label     "Atjaunināt">
+<!ENTITY button.updateFeed.label     "Atjaunot">
 <!ENTITY button.updateFeed.accesskey "u">
 <!ENTITY button.removeFeed.label     "Noņemt">
 <!ENTITY button.removeFeed.accesskey "N">
