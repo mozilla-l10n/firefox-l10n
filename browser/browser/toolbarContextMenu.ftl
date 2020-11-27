@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Μόνο σε νέα καρτέλα
     .accesskey = Μ
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Εμφάνιση άλλων σελιδοδεικτών
+    .accesskey = φ
