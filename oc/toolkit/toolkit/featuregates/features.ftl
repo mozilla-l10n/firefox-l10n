@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = L’eveniment global <a 
 experimental-features-css-constructable-stylesheets =
     .label = CSS : fuèlh d’estil constructibla
 experimental-features-css-constructable-stylesheets-description = L’apondon d’un constructor a l’interfàcia <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> atal coma un ensemble de modificacions ligadas que permeton de crear dirèctament de fuèlhs d’estil novèls sans aver d’apondre aqueles al HTML. Facilita fòrça la creacion de fuèlhs d’estil reütilizables d’utilizar amb lo <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Vejatz lo <a data-l10n-name="bugzilla">bug 1520690</a> per mai de detalhs.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API : API de session mèdia
-experimental-features-media-session-api-description = L’implementacion complèta de l’API Media Session dins { -brand-short-name } es actualament experimentala. Aquesta API es utilizada per personalizar la gestion de las notificacions ligats als mèdias, per gerir los eveniments e las donadas que servisson a presentar una interfàcia utilizaire per la gestion de la lectura multimèdia e per obténer las metadonadas dels fichièrs multimèdias. Vejatz lo <a data-l10n-name="bugzilla">bug 1112032</a> per mai de detalhs.
 experimental-features-devtools-color-scheme-simulation =
     .label = Aisinas de desvolopaires : simulacion d’equèma de color
 experimental-features-devtools-color-scheme-simulation-description = Ajusta una opcion per simular diferents esquèma de colors per vos permetre de provar lo media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. En utilizant aqueste media query vòstre fuèlh d’estil pòt s’adaptar a la preferéncia de l’utilizaire per çò de l’interfàcia, siá clara siá escura. Aquesta foncionalitat vos permet d’ensajar vòstre còdi sens aver de modificar los paramètres del navegador (o del sistèma operatiu, se lo navegador sèc la configuracion del sistèma tocant l’esquèma de color preferit). Vejatz lo <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">1137699</a> per mai de detalhs.
@@ -72,7 +67,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Los co
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = cache d’aviada about:home
+    .label = Cache d’aviada about:home
 experimental-features-abouthome-startup-cache-description = Un cache pel document inicial about:home qu’es cargat cada aviada. La tòca del cache es de melhorar las performanças d’aviada.
 experimental-features-print-preview-tab-modal =
     .label = Renovacion de l’apercebut abans impression
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Aisinas de desvolopament : debuggatge del service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Activa la presa en carga experimentala dels Service workers dins lo panèl de desbugatge. Aquesta foncionalitat pòt alentar las aisinas de desvolopament e aumentar la consomacion de memòria.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafics : Smooth Pinch Zoom
-experimental-features-graphics-desktop-zooming-description = Activa la presa en carga d’un zoom fluid per pinçament suls ecran tactils e los pavats tactils de precesion.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Interruptor global del son WebRTC
