@@ -20,7 +20,7 @@ policy-BlockAboutProfiles = Liegt pieeju about:profiles lapai.
 policy-BlockAboutSupport = Liegt pieeju about:support lapai.
 policy-CaptivePortal = Ieslēgt vai atslēgt nebrīvā portāla atbalstu.
 policy-CertificatesDescription = Pievienot sertifikātus vai izmantot iebūvētos sertifikātus.
-policy-Cookies = Ļaut vai liegt vietnēm iestatīt sīkdatnes.
+policy-Cookies = Ļaut vai liegt vietnēm iestatīt sīkfailus.
 policy-DisabledCiphers = Liegt šifrus.
 policy-DefaultDownloadDirectory = Iestatīt noklusēto lejuplādes mapi.
 policy-DisableAppUpdate = Liegt { -brand-short-name } atjaunošanu.
@@ -37,7 +37,7 @@ policy-DisableSecurityBypass = Liegt lietotājam apiet noteiktus drošības brī
 policy-DisableSystemAddonUpdate = Liegt { -brand-short-name } atjaunot un uzstādīt sistēmas papildinājumus.
 policy-DisableTelemetry = Atslēgt telemetriju.
 policy-DisplayMenuBar = Noklusēti rādīt izvēlnes joslu.
-policy-DNSOverHTTPS = Iestatīt DNS, izmantojot HTTPS.
+policy-DNSOverHTTPS = Iestatīt DNS caur HTTPS.
 policy-DontCheckDefaultClient = Startējot liegt noklusētā klienta pārbaudi.
 policy-DownloadDirectory = Iestatīt un noslēgt lejuplādes mapi.
 # “lock” means that the user won’t be able to change this setting
@@ -57,7 +57,7 @@ policy-LegacyProfiles = Atslēgt iespēja, kas katram uzstādījumam nodrošina 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Ieslēgt noklusēto mantoto SameSite sīkfailu uzvedības iestatījumu.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Atgriezties pie mantotās SameSite uzvedības sīkdatnēm noteiktās vietnēs.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Noteiktās vietnēs atgriezties pie mantotās SameSite uzvedības sīkfailiem.
 
 ##
 

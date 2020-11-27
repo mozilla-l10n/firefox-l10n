@@ -31,7 +31,7 @@
 <!ENTITY aboveQuote.label                     "sākt jūsu atbildi virs citāta">
 <!ENTITY belowQuote.label                     "sākt jūsu atbildi zem citāta">
 <!ENTITY selectAndQuote.label                 "izvēlieties citātu">
-<!ENTITY place.label                          "un ievietot manu parakstu">
+<!ENTITY place.label                          "un ievietot jūsu parakstu">
 <!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "zem citāta (ieteicams)">
 <!ENTITY aboveText.label                      "zem manas atbildes (virs citāta)">
