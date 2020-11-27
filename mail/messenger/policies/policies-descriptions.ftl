@@ -41,7 +41,7 @@ policy-DNSOverHTTPS = Iestatīt DNS, izmantojot HTTPS.
 policy-DontCheckDefaultClient = Startējot liegt noklusētā klienta pārbaudi.
 policy-DownloadDirectory = Iestatīt un noslēgt lejuplādes mapi.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Ieslēgt vai atslēgt satura bloķēšanu un pēc izvēles to noslēgt.
+policy-EnableTrackingProtection = Ļaut vai liegt satura bloķēšanu un pēc izvēles to noslēgt.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Ieslēgt vai atslēgt šifrētos multivides paplašinājumus un pēc izvēles tos noslēgt.
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -85,4 +85,4 @@ policy-SSLVersionMin = Iestatīt minimālo SSL versiju.
 policy-SupportMenu = Palīdzības izvēlnē pievienot pielāgotu atbalsta izvēlnes vienumu.
 policy-UserMessaging = Nerādīt lietotājam noteiktus ziņojumus.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Bloķēt vietņu apmeklēšanu. Plašāku informāciju par formātu skatiet dokumentācijā.
+policy-WebsiteFilter = Liegt vietņu apmeklēšanu. Plašāku informāciju par formātu skatiet dokumentācijā.
