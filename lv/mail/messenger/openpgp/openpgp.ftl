@@ -262,7 +262,7 @@ key-accept-personal =
     Ja šo atslēgu jums piešķīra kāds cits, tad nelietojiet to kā personīgo atslēgu.
 key-personal-warning = Vai jūs pats izveidojāt šo atslēgu, un šīs atslēgas identitāte attiecas uz jums?
 openpgp-personal-no-label =
-    .label = Nē, nelietot to kā manu personīgo atslēgu.
+    .label = Nē, nelietot to kā jūsu personīgo atslēgu.
 openpgp-personal-yes-label =
     .label = Jā, uzskatīt šo atslēgu par personīgo atslēgu.
 openpgp-copy-cmd-label =
@@ -627,7 +627,7 @@ repeat-prefix = Šis brīdinājums atkārtosies { $count }
 repeat-suffix-singular = reizi.
 repeat-suffix-plural = reizes.
 no-repeat = Šis brīdinājums vairs netiks rādīts.
-dlg-keep-setting = Atcerēties manu atbildi un vairs nejautāt
+dlg-keep-setting = Atcerēties atbildi un vairs nejautāt
 dlg-button-ok = &LABI
 dlg-button-close = &Aizvērt
 dlg-button-cancel = At&celt

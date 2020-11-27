@@ -357,7 +357,7 @@
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Ievietot">
 <!ENTITY insertTOC.accesskey      "I">
-<!ENTITY updateTOC.label          "Atjaunināt">
+<!ENTITY updateTOC.label          "Atjaunot">
 <!ENTITY updateTOC.accesskey      "u">
 <!ENTITY removeTOC.label          "Dzēst">
 <!ENTITY removeTOC.accesskey      "r">
