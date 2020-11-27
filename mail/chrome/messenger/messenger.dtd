@@ -123,13 +123,13 @@
 <!ENTITY folderPropsNewsgroupCmd2.label "Ziņu grupas īpašības">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Atsaukt vēstules dzēšanu">
-<!ENTITY redoDeleteMsgCmd.label "Reatsaukt vēstules dzēšanu">
+<!ENTITY redoDeleteMsgCmd.label "Atatsaukt vēstules dzēšanu">
 <!ENTITY undoMoveMsgCmd.label "Atsaukt vēstules pārvietošanu">
-<!ENTITY redoMoveMsgCmd.label "Reatsaukt vēstules pārvietošanu">
+<!ENTITY redoMoveMsgCmd.label "Atatsaukt vēstules pārvietošanu">
 <!ENTITY undoCopyMsgCmd.label "Atsaukt vēstules kopēšanu">
-<!ENTITY redoCopyMsgCmd.label "Reatsaukt vēstules kopēšanu">
+<!ENTITY redoCopyMsgCmd.label "Atatsaukt vēstules kopēšanu">
 <!ENTITY undoMarkAllCmd.label "Atsaukt atzīmēt visu kā lasītu">
-<!ENTITY redoMarkAllCmd.label "Reatsaukt atzīmēt visu kā lasītu">
+<!ENTITY redoMarkAllCmd.label "Atatsaukt atzīmēt visu kā lasītu">
 <!ENTITY undoDefaultCmd.label "Atsaukt">
 <!ENTITY undoDefaultCmd.accesskey "u">
 <!ENTITY redoDefaultCmd.label "Atcelt atsaukšanu">
@@ -546,7 +546,7 @@
 <!ENTITY goForwardButton1.label "Uz priekšu">
 <!ENTITY deleteItem.title "Dzēst">
 <!ENTITY deleteButton.label "Dzēst">
-<!ENTITY undeleteButton.label "Atsaukt dzēšanu">
+<!ENTITY undeleteButton.label "Atdzēst">
 <!ENTITY markButton.label "Atzīmēt">
 <!ENTITY printButton.label "Drukāt">
 <!ENTITY stopButton.label "Apturēt">
@@ -908,7 +908,7 @@
 <!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Kopēt ziņu grupas nosaukumu">
 <!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Kopēt intereškopas URL">
+<!ENTITY CopyNewsgroupURL.label "Kopēt ziņu grupas URL">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Izveidot filtru no…">
 <!ENTITY CreateFilterFrom.accesskey "F">
