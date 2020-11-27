@@ -655,9 +655,57 @@ chat-play-button =
 chat-system-sound-label =
     .label = Sistēmas noklusētā jaunas ziņas skaņa
     .accesskey = S
+chat-custom-sound-label =
+    .label = Izmantot sekojošu skaņas failu
+    .accesskey = I
 chat-browse-sound-button =
     .label = Pārlūkot...
     .accesskey = P
+theme-label =
+    .value = Tēma:
+    .accesskey = T
+style-thunderbird =
+    .label = Thunderbird
+style-bubbles =
+    .label = Burbuļi
+style-dark =
+    .label = Tumša
+style-paper =
+    .label = Papīra lapas
+style-simple =
+    .label = Vienkārša
+preview-label = Priekšskats:
+no-preview-label = Priekšskats nav pieejams
+no-preview-description = Šī tēma nav derīga vai pašlaik nav pieejama (atspējots papildinājums, drošais režīms, utt.).
+chat-variant-label =
+    .value = Variants:
+    .accesskey = V
+chat-header-label =
+    .label = Rādīt galveni
+    .accesskey = g
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Meklēt iespējās
+           *[other] Meklēt iespējās
+        }
 
 ## Preferences UI Search Results
 
+search-results-header = Meklēšanas rezultāti
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Atvainojiet! “<span data-l10n-name ="query"></span>” iespējās nav rezultātu.
+       *[other] Atvainojiet! “<span data-l10n-name ="query"></span>” iespējās nav rezultātu.
+    }
+search-results-help-link = Vajadzīga palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalstu</a>!
