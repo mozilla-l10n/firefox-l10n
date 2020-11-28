@@ -6,9 +6,12 @@
 
 <!ENTITY pref.popups.caption            "Αναδυόμενα παράθυρα">
 
+<!ENTITY popupBlock.label               "Φραγή ανεπιθύμητων αναδυόμενων παραθύρων">
+<!ENTITY popupBlock.accesskey           "Φ">
 
 <!ENTITY viewPermissions.label          "Διαχείριση δικαιωμάτων">
 
+<!ENTITY whenBlock.description          "Όταν ένα αναδυόμενο παράθυρο έχει αποκλειστεί:">
 <!ENTITY playSound.label                "Αναπαραγωγή ήχου:">
 <!ENTITY playSound.accesskey            "Α">
 <!ENTITY systemSound.label              "Ήχος συστήματος">
@@ -20,5 +23,9 @@
 <!ENTITY playSoundButton.label          "Αναπαραγωγή">
 <!ENTITY playSoundButton.accesskey      "π">
 
+<!ENTITY displayIcon.label              "Προβολή εικονιδίου στη γραμμή κατάστασης του προγράμματος περιήγησης">
+<!ENTITY displayIcon.accesskey          "Π">
 
+<!ENTITY displayNotification.label      "Προβολή γραμμής ειδοποιήσεων στο πάνω μέρος της περιοχής περιεχομένου">
+<!ENTITY displayNotification.accesskey  "ε">
 

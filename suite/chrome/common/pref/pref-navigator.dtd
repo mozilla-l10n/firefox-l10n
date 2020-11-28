@@ -19,6 +19,7 @@
 <!ENTITY restoreSessionRadio.label      "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY restoreSessionRadio.accesskey  "π">
 
+<!ENTITY restoreSessionIntro.label      "Κατά την επαναφορά συνεδριών και παραθύρων">
 <!ENTITY restoreImmediately.label       "Άμεση επαναφορά όλων των καρτελών">
 <!ENTITY restoreImmediately.accesskey   "ν">
 <!-- LOCALIZATION NOTE (restoreTabs.label): This will concatenate to
@@ -43,3 +44,5 @@
 <!ENTITY defaultBrowserButton.label     "Ορισμός προεπιλεγμένου προγράμματος περιήγησης">
 <!ENTITY defaultBrowserButton.accesskey "π">
 <!ENTITY alreadyDefaultText             "Το &brandShortName; είναι ήδη το προεπιλεγμένο πρόγραμμα περιήγησής σας.">
+<!ENTITY defaultPendingText             'Το $BrandShortName; θα οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας όταν κάνετε κλικ στο "OK".'>
+<!ENTITY wasMadeDefaultText             "Το &brandShortName; έχει οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας.">

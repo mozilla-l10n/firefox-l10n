@@ -19,10 +19,14 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
 <!ENTITY manageAccount.accesskey      "λ">
+<!ENTITY viewQuota.label              "Προβολή ορίου">
+<!ENTITY viewQuota.accesskey          "Π">
 <!ENTITY changePassword.label         "Αλλαγή κωδικού πρόσβασης">
 <!ENTITY changePassword.accesskey     "Α">
 <!ENTITY myRecoveryKey.label          "Το κλειδί ανάκτησής μου">
 <!ENTITY myRecoveryKey.accesskey      "Τ">
+<!ENTITY resetSync.label              "Επαναφορά Sync">
+<!ENTITY resetSync.accesskey          "Ε">
 <!ENTITY unlinkDevice.label           "Αποσύνδεση συσκευής">
 <!ENTITY unlinkDevice.accesskey       "σ">
 <!ENTITY addDevice.label              "Προσθήκη συσκευής">

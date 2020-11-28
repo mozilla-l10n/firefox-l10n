@@ -19,6 +19,7 @@
 
 <!ENTITY     props.name.label               "Όνομα:">
 <!ENTITY     props.value.label              "Περιεχόμενο:">
+<!ENTITY     props.domain.label             "Κεντρικός υπολογιστής:">
 <!ENTITY     props.path.label               "Διαδρομή:">
 <!ENTITY     props.secure.label             "Αποστολή για:">
 <!ENTITY     props.expires.label            "Λήγει:">
