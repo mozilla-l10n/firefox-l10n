@@ -15,6 +15,7 @@
 <!ENTITY reorderUpButton.accesskey "π">
 <!ENTITY reorderDownButton.label "Μετακίνηση κάτω">
 <!ENTITY reorderDownButton.accesskey "κ">
+<!ENTITY filterHeader.label "Τα ενεργά φίλτρα εκτελούνται αυτόματα με την παρακάτω σειρά.">
 <!ENTITY filtersForPrefix.label "Φίλτρα για:">
 <!ENTITY filtersForPrefix.accesskey "Φ">
 <!ENTITY viewLogButton.label "Αρχείο καταγραφής φίλτρου">
@@ -23,3 +24,7 @@
 <!ENTITY runFilters.accesskey "Ε">
 <!ENTITY stopFilters.label "Διακοπή">
 <!ENTITY stopFilters.accesskey "Δ">
+<!ENTITY folderPickerPrefix.label "Εκτέλεση επιλεγμένων φίλτρων στο:">
+<!ENTITY folderPickerPrefix.accesskey "γ">
+<!ENTITY choosethis.label "επιλογή φακέλου">
+<!ENTITY choosethisnewsserver.label "επιλογή διακομιστή συζήτησης">
