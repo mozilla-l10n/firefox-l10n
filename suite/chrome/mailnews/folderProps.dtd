@@ -7,15 +7,23 @@
 <!ENTITY generalInfo.label                       "Γενικές πληροφορίες">
 <!ENTITY folderCharsetFallback2.label            "Εφεδρική κωδικοποίηση κειμένου:">
 <!ENTITY folderCharsetFallback2.accesskey        "Ε">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Εκ νέου δημιουργία ευρετηρίου αρχείων περίληψης">
 <!ENTITY folderRebuildSummaryFile2.label         "Επιδιόρθωση φακέλου">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "Ε">
 
+<!ENTITY retention.label "Πολιτική διατήρησης">
 <!ENTITY retentionUseAccount.label "Χρήση ρυθμίσεων λογαριασμού">
 <!ENTITY retentionUseAccount.accesskey "Χ">
+<!ENTITY daysOld.label "ημερών">
 <!ENTITY message.label "μηνύματα">
 <!ENTITY retentionCleanup.label "Διατήρηση μηνυμάτων:">
+<!ENTITY retentionCleanupImap.label "Διατήρηση μηνυμάτων, τόσο των τοπικών αντιγράφων όσο και τα αρχικών στον διακομιστή:">
+<!ENTITY retentionDeleteMsg.label "Διαγραφή μηνυμάτων παλαιότερων από">
+<!ENTITY retentionDeleteMsg.accesskey "μ">
 <!ENTITY retentionKeepAll.label "Όλα τα μηνύματα">
 <!ENTITY retentionKeepAll.accesskey "Ό">
+<!ENTITY retentionKeepRecent.label "Το νεότερο">
+<!ENTITY retentionKeepRecent.accesskey "ν">
 <!ENTITY retentionApplyToFlagged.label "Πάντα διατήρηση των μηνυμάτων με σημαία">
 <!ENTITY retentionApplyToFlagged.accesskey "α">
 
@@ -24,6 +32,8 @@
 <!ENTITY offlineFolder.button.label              "Λήψη τώρα">
 <!ENTITY offlineFolder.button.accesskey          "Λ">
 
+<!ENTITY selectofflineNewsgroup.check.label      "Επιλογή αυτής της ομάδας συζήτησης για χρήση εκτός σύνδεσης">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "ο">
 <!ENTITY offlineNewsgroup.button.label           "Λήψη τώρα">
 <!ENTITY offlineNewsgroup.button.accesskey       "Λ">
 
