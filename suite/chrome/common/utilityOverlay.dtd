@@ -15,6 +15,10 @@
 <!ENTITY newBlankPageCmd.label            "Σελίδα σύνθεσης">
 <!ENTITY newBlankPageCmd.accesskey        "Σ">
 <!ENTITY newBlankPageCmd.key              "n">
+<!ENTITY newPageFromTemplateCmd.label "Σελίδα από πρότυπο">
+<!ENTITY newPageFromTemplateCmd.accesskey "π">
+<!ENTITY newPageFromDraftCmd.label "Σελίδα από προσχέδιο">
+<!ENTITY newPageFromDraftCmd.accesskey "ρ">
 <!ENTITY newNavigatorCmd.label "Παράθυρο προγράμματος περιήγησης">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "Π">
