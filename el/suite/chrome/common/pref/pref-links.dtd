@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY linksHeader.label "Συμπεριφορά συνδέσμου">
+<!ENTITY newWindow.label "Συμπεριφορά ανοίγματος συνδέσμου">
+<!ENTITY newWindowDescription.label "Άνοιγμα συνδέσμων που σκοπεύουν να ανοίξουν νέο παράθυρο σε:">
 <!ENTITY external.label "Σύνδεσμοι από άλλες εφαρμογές">
 <!ENTITY externalDescription.label "Άνοιγμα συνδέσμων από άλλες εφαρμογές:">
 
