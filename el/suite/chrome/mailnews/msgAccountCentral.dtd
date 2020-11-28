@@ -6,8 +6,10 @@
 <!ENTITY composeMsgLink.label         "Σύνταξη νέου μηνύματος">
 
 <!ENTITY newsSectionHdr.label         "Ομάδες συζήτησης">
+<!ENTITY subscribeNewsLink.label      "Διαχείριση συνδρομών ομάδων συζήτησης">
 
 <!ENTITY accountsSectionHdr.label     "Λογαριασμοί">
+<!ENTITY subscribeImapFolders.label   "Διαχείριση συνδρομών φακέλων">
 <!ENTITY newAcctLink.label            "Δημιουργία νέου λογαριασμού">
 
 <!ENTITY advFeaturesSectionHdr.label  "Προηγμένες λειτουργίες">

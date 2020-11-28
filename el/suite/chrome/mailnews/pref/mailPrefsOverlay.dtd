@@ -4,9 +4,11 @@
 
 <!-- These are added to the Advanced - Scripts & Plugins panel -->
 <!ENTITY enbPluginCheckMailNews.label     "Αλληλογραφία &amp; ομάδες συζήτησης">
+<!ENTITY enbPluginCheckMailNews.accesskey "λ">
 
 <!-- These are added to the Window menu -->
 <!ENTITY mail.label                       "Αλληλογραφία &amp; ομάδες συζήτησης">
+<!ENTITY mail.accesskey                   "Α">
 <!ENTITY addressbook.label                "Ευρετήριο διευθύνσεων">
 <!ENTITY addressbook.accesskey            "Ε">
 
@@ -14,7 +16,10 @@
 <!ENTITY viewingMessages.label            "Προβολή μηνύματος">
 <!ENTITY notifications.label              "Ειδοποιήσεις">
 <!ENTITY composingMessages.label          "Σύνθεση">
+<!ENTITY format.label                     "Μορφή αποστολής">
 <!ENTITY address.label                    "Διευθυνσιοδότηση">
+<!ENTITY junk.label                       "Ανεπιθύμητα &amp; ύποπτα email">
 <!ENTITY tags.label                       "Ετικέτες">
 <!ENTITY return.label                     "Αποδεικτικά ανάγνωσης">
 <!ENTITY characterEncoding2.label         "Κωδικοποίηση κειμένου">
+<!ENTITY networkStorage.label             "Δίκτυο &amp; αποθήκευση">

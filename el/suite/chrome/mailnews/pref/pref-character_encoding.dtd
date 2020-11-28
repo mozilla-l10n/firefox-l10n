@@ -6,6 +6,7 @@
 <!ENTITY messageDisplay.caption          "Προβολή μηνύματος">
 <!ENTITY viewFallbackCharset2.label      "Εφεδρική κωδικοποίηση κειμένου:">
 <!ENTITY viewFallbackCharset2.accesskey  "Ε">
+<!ENTITY viewFallbackCharset.desc        "(Για παλαιό περιεχόμενο που δεν δηλώνει την κωδικοποίησή του.)">
 
 <!ENTITY composingMessages.caption       "Σύνθεση μηνυμάτων">
 <!ENTITY sendDefaultCharset2.label       "Προεπιλεγμένη κωδικοποίηση κειμένου:">
