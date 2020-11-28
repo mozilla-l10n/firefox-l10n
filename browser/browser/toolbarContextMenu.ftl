@@ -62,3 +62,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Tylko w nowej karcie
     .accesskey = T
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Wyświetlaj pozostałe zakładki
+    .accesskey = W

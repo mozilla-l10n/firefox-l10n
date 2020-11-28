@@ -197,6 +197,13 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [few] Czy usunąć { $count } dane logowania ze wszystkich urządzeń?
        *[many] Czy usunąć { $count } danych logowania ze wszystkich urządzeń?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [one] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [few] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[many] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+    }
 about-logins-confirm-export-dialog-title = Eksport danych logowania i haseł
 about-logins-confirm-export-dialog-message = Twoje hasła zostaną zapisane jako zwykły tekst (np. SłabeH@s1o), więc każdy, kto może otworzyć wyeksportowany plik, będzie mógł je zobaczyć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
