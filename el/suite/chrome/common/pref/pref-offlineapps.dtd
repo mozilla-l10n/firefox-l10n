@@ -4,11 +4,14 @@
 <!-- extracted from content/pref-offlineapps.xul -->
 
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
+<!ENTITY pref.offlineapps.title             "Εφαρμογές ιστού εκτός σύνδεσης">
+<!ENTITY pref.offlineCache.caption          "Περιεχόμενο ιστού και δεδομένα χρήστη εκτός σύνδεσης">
 
 <!ENTITY clearOfflineAppCache.label         "Απαλοιφή">
 <!ENTITY clearOfflineAppCache.accesskey     "Α">
 
 <!ENTITY offlineNotifyPermissions.label     "Διαχείριση δικαιωμάτων">
+<!ENTITY offlineNotifyPermissions.accesskey "Δ">
 
 <!ENTITY offlineAppsUsage.label             "Οι ακόλουθες ιστοσελίδες χρησιμοποιούν χώρο εκτός σύνδεσης:">
 <!ENTITY offlineAppsListRemove.label        "Απαλοιφή δεδομένων…">
