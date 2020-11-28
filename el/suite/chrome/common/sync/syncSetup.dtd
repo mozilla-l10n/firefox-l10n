@@ -59,8 +59,11 @@
 
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 <!ENTITY addDevice.title.label              "Προσθήκη συσκευής">
+<!ENTITY addDevice.showMeHow.label          "Εμφάνιση οδηγιών.">
 <!ENTITY addDevice.dontHaveDevice.label     "Δεν έχω τη συσκευή μαζί μου">
+<!ENTITY addDevice.setup.description.label  "Για ενεργοποίηση, μεταβείτε στις Επιλογές/Προτιμήσεις του &syncBrand.shortName.label; στην άλλη σας συσκευή και επιλέξτε &#x0022;Προσθήκη συσκευής&#x0022;.">
 <!ENTITY addDevice.setup.enterCode.label    "Έπειτα, εισάγετε αυτό τον κωδικό:">
+<!ENTITY addDevice.dialog.description.label "Για ενεργοποίηση της νέας σας συσκευής, μεταβείτε στις Επιλογές/Προτιμήσεις του &syncBrand.shortName.label; της και επιλέξτε &#x0022;Σύνδεση&#x0022;.">
 <!ENTITY addDevice.dialog.enterCode.label   "Εισάγετε τον κωδικό που παρέχει η συσκευή:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλούμε προσπαθήστε ξανά.">
 <!ENTITY addDevice.dialog.successful.label  "Η συσκευή προστέθηκε με επιτυχία. Ο αρχικός συγχρονισμός μπορεί να διαρκέσει μερικά λεπτά και θα ολοκληρωθεί στο παρασκήνιο.">
@@ -94,9 +97,11 @@
 <!ENTITY choice2.merge.main.label      "Συγχώνευση δεδομένων υπολογιστή με τα δεδομένα του &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "(προτείνεται)">
 <!ENTITY choice2.client.main.label     "Αντικατάσταση όλων των δεδομένων υπολογιστή με τα δεδομένα του &syncBrand.shortName.label;">
+<!ENTITY choice2.server.main.label     "Αντικατάσταση δεδομένων άλλων συσκευών με αυτού του υπολογιστή">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
+<!ENTITY confirm.merge.label    "Το &syncBrand.fullName.label; θα συγχωνεύσει τώρα όλα τα δεδομένα περιήγησης αυτής της συσκευής με τον λογαριασμό Sync σας.">
 <!ENTITY confirm.client2.label         "Προειδοποίηση: Θα διαγραφούν τα εξής δεδομένα του &brandShortName; σε αυτό τον υπολογιστή:">
 <!ENTITY confirm.server2.label         "Προειδοποίηση: Οι εξής συσκευές θα αντικατασταθούν με τα τοπικά σας δεδομένα:">
 

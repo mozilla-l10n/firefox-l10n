@@ -17,5 +17,10 @@
 <!ENTITY CopyNameAndEmailAddress.accesskey "ο">
 <!ENTITY CreateFilterFrom.label            "Δημιουργία φίλτρου από…">
 <!ENTITY CreateFilterFrom.accesskey        "φ">
+<!ENTITY openInBrowser.label               "Άνοιγμα στο πρόγραμμα περιήγησης">
+<!ENTITY openInBrowser.accesskey           "Ά">
 <!ENTITY copyLinkCmd.label                 "Αντιγραφή τοποθεσίας συνδέσμου">
 <!ENTITY copyLinkCmd.accesskey             "Α">
+<!ENTITY CopyMessageId.label               "Αντιγραφή ID μηνύματος">
+<!ENTITY OpenMessageForMsgId.label         "Άνοιγμα μηνύματος για ID">
+<!ENTITY OpenMessageForMsgId.accesskey     "Ά">
