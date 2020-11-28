@@ -32,6 +32,7 @@
 <!ENTITY tab.forget.label "Διαγραφή">
 
 <!-- cookies -->
+<!ENTITY cookies.description "Αυτός ο τομέας έχει αποθηκεύσει τα εξής cookies στον υπολογιστή σας:">
 
 <!ENTITY cookies.tree.host.label "Ιστοσελίδα">
 <!ENTITY cookies.tree.name.label "Όνομα cookie">

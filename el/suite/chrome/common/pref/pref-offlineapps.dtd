@@ -10,5 +10,6 @@
 
 <!ENTITY offlineNotifyPermissions.label     "Διαχείριση δικαιωμάτων">
 
+<!ENTITY offlineAppsUsage.label             "Οι ακόλουθες ιστοσελίδες χρησιμοποιούν χώρο εκτός σύνδεσης:">
 <!ENTITY offlineAppsListRemove.label        "Απαλοιφή δεδομένων…">
 <!ENTITY offlineAppsListRemove.accesskey    "δ">

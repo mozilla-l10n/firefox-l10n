@@ -20,6 +20,8 @@
 <!ENTITY responsiveDesignTool.label      "Λειτουργία αποκρίσιμου σχεδιασμού">
 <!ENTITY responsiveDesignTool.accesskey  "α">
 
+<!ENTITY eyedropper.label                "Σταγονόμετρο χρωμάτων">
+<!ENTITY eyedropper.accesskey            "γ">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -31,6 +33,8 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+<!ENTITY scratchpad.label                "Σημειωματάριο">
+<!ENTITY scratchpad.accesskey            "Σ">
 <!ENTITY scratchpad.keycode              "VK_F4">
 <!ENTITY scratchpad.keytext              "F4">
 

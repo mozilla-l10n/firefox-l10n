@@ -17,5 +17,6 @@
 <!ENTITY checkOncePerSession.label       "Μία φορά ανά συνεδρία">
 <!ENTITY checkEveryTime.label            "Κάθε φορά που βλέπω τη σελίδα">
 <!ENTITY checkNever.label                "Ποτέ">
+<!ENTITY checkAutomatically.label        "Όταν η σελίδα δεν είναι ενημερωμένη">
 
 <!ENTITY prefetchTitle.label             "Προ-φόρτωση συνδέσμου">

@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
+<!ENTITY popupWindowAllowCmd.label      "Αποδοχή αναδυόμενων από την ιστοσελίδα">
+<!ENTITY popupWindowAllowCmd.accesskey  "ο">
 <!ENTITY openLinkCmdInTab.label       "Άνοιγμα συνδέσμου σε νέα καρτέλα">
 <!ENTITY openLinkCmdInTab.accesskey   "κ">
 <!ENTITY openLinkCmd.label            "Άνοιγμα συνδέσμου σε νέο παράθυρο">

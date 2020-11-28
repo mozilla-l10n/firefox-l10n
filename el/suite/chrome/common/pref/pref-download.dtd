@@ -9,6 +9,8 @@
 <!ENTITY openProgressDialog.accesskey   "Ά">
 <!ENTITY openDM.label                   "Άνοιγμα διαχείρισης λήψεων">
 <!ENTITY openDM.accesskey               "μ">
+<!ENTITY flashWhenOpen.label            "Ανάδειξη διαχείρισης λήψεων αν είναι ήδη ανοικτή">
+<!ENTITY flashWhenOpen.accesskey        "δ">
 
 <!ENTITY downloadLocation.label         "Κατά την αποθήκευση ενός αρχείου">
 <!ENTITY saveTo.label                   "Αποθήκευση αρχείων σε">

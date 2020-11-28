@@ -13,6 +13,7 @@
 <!ENTITY warnTrackContent.accesskey       "Π">
 
 <!ENTITY geoLocation.label                "Περιήγηση βάσει τοποθεσίας">
+<!ENTITY geoIntro.label                   "Οι ιστοσελίδες ενδέχεται να ζητήσουν περαιτέρω πληροφορίες σχετικά με την τρέχουσα τοποθεσία σας.">
 
 <!ENTITY geoDisabled.label                "Απενεργοποίηση λειτουργίας και απόρριψη όλων των αιτημάτων">
 <!ENTITY geoDisabled.accesskey            "Α">
@@ -26,4 +27,8 @@
 <!ENTITY safeBrowsing.label               "Ασφαλής περιήγηση">
 <!ENTITY safeBrowsingIntro.label          "Το &brandShortName; μπορεί να αποκλείσει ιστοσελίδες που έχουν αναφερθεί για κακόβουλο περιεχόμενο.">
 
+<!ENTITY blockAttackSites.label           "Φραγή ιστοσελίδων με αναφορές για επιθέσεις (κακόβουλο λογισμικό, ιοί)">
+<!ENTITY blockAttackSites.accesskey       "Φ">
 
+<!ENTITY blockWebForgeries.label          "Φραγή σελίδων με αναφορές για πλαστογραφία (Ηλεκτρονικό ψάρεμα)">
+<!ENTITY blockWebForgeries.accesskey      "Η">
