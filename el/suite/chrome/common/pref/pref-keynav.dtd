@@ -6,7 +6,12 @@
 <!ENTITY tabNavigationBehavior.label "Πλοήγηση με πλήκτρο Tab">
 <!ENTITY tabNavigationLinks.label "Σύνδεσμοι">
 <!ENTITY tabNavigationLinks.accesskey "Σ">
+<!ENTITY tabNavigationForms.label "Κουμπιά, κουμπιά επιλογής, πλαίσια ελέγχου και λίστες επιλογών">
+<!ENTITY tabNavigationForms.accesskey "Κ">
+<!ENTITY tabNavigationTextboxes.label "Σημείωση: τα πλαίσια κειμένου και οι περιοχές με δυνατότητα κύλισης αποτελούν πάντα μέρος της σειράς καρτελών.">
+<!ENTITY tabNavigationDesc.label "Όταν πατήσετε το Tab ή το Shift+Tab, μετακίνηση μεταξύ:">
 <!ENTITY accessibilityBrowseWithCaret.label "Περιήγηση με κέρσορα">
+<!ENTITY browseWithCaretDesc.label "Η περιήγηση με κέρσορα σας επιτρέπει να πλοηγηθείτε και να κάνετε επιλογή μέσα σε σελίδες με τα πλήκτρα του δρομέα για να μετακινήσετε έναν ορατό δείκτη.">
 <!ENTITY browseWithCaretUse.label "Χρήση περιήγησης με κέρσορα">
 <!ENTITY browseWithCaretUse.accesskey "Χ">
 <!ENTITY browseWithCaretShortCut.label "Χρήση της συντόμευσης F7 για εναλλαγή περιήγησης με κέρσορα">
