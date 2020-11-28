@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Pobierz z Google Play
 login-app-promo-apple =
     .alt = Pobierz z App Store
-
 login-filter =
     .placeholder = Szukaj danych logowania
-
 create-login-button = Utwórz nowe dane logowania
-
 fxaccounts-sign-in-text = Korzystaj ze swoich haseł na innych urządzeniach
 fxaccounts-sign-in-button = Zaloguj się do { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 fxaccounts-avatar-button =
@@ -32,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importuj z innej przeglądarki…
 about-logins-menu-menuitem-import-from-a-file = Importuj z pliku…
 about-logins-menu-menuitem-export-logins = Eksportuj dane logowania…
+about-logins-menu-menuitem-remove-all-logins = Usuń wszystkie dane logowania…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcje
@@ -72,7 +70,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Szukasz swoich zachowanych haseł? Skonfiguruj { -sync-brand-short-name(case: "acc", capitalization: "lower") }.
-
 about-logins-login-intro-heading-logged-out = Szukasz swoich zachowanych haseł? Skonfiguruj { -sync-brand-short-name(case: "acc", capitalization: "lower") } lub je zaimportuj.
 about-logins-login-intro-heading-logged-in = Brak synchronizowanych danych logowania.
 login-intro-description = Aby przenieść tutaj dane logowania zachowane w przeglądarce { -brand-product-name } na innym urządzeniu:
@@ -80,7 +77,6 @@ login-intro-instruction-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand
 login-intro-instruction-fxa-settings = Upewnij się, że opcja „Dane logowania” jest zaznaczona w ustawieniach { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 about-logins-intro-instruction-help = <a data-l10n-name="help-link">Pomoc usługi { -lockwise-brand-short-name }</a> zawiera więcej informacji
 about-logins-intro-import = Jeśli dane logowania są zachowane w innej przeglądarce, możesz <a data-l10n-name="import-link">zaimportować je do usługi { -lockwise-brand-short-name }</a>
-
 about-logins-intro-import2 = Jeśli dane logowania są zachowane poza przeglądarką { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">zaimportować je z innej przeglądarki</a> lub <a data-l10n-name="import-file-link">z pliku</a>
 
 ## Login
@@ -121,13 +117,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Aby zmienić dane logowania
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = zmiana zachowanych danych logowania
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Aby wyświetlić hasło, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = wyświetlenie zachowanego hasła
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Aby skopiować hasło, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
 # This message can be seen when attempting to copy a password in about:logins
@@ -137,7 +131,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = skopiowanie zachowane
 ## Master Password notification
 
 master-password-notification-message = Proszę podać hasło główne, aby wyświetlić zachowane dane logowania i hasła
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Aby wyeksportować dane logowania witryn, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
 # This message can be seen when attempting to export a password in about:logins
@@ -174,16 +167,40 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Anuluj
 confirmation-dialog-dismiss-button =
     .title = Anuluj
-
-about-logins-confirm-remove-dialog-title = Usunąć te dane logowania?
+about-logins-confirm-remove-dialog-title = Czy usunąć te dane logowania?
 confirm-delete-dialog-message = Tej czynności nie można cofnąć.
 about-logins-confirm-remove-dialog-confirm-button = Usuń
-
+about-logins-confirm-remove-all-dialog-confirm-button = Usuń wszystkie
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Tak, usuń te dane logowania
+        [one] Tak, usuń te dane logowania
+        [few] Tak, usuń te dane logowania
+       *[many] Tak, usuń te dane logowania
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Czy usunąć { $count } dane logowania?
+        [few] Czy usunąć { $count } dane logowania?
+       *[many] Czy usunąć { $count } danych logowania?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [one] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [few] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[many] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Czy usunąć { $count } dane logowania ze wszystkich urządzeń?
+        [few] Czy usunąć { $count } dane logowania ze wszystkich urządzeń?
+       *[many] Czy usunąć { $count } danych logowania ze wszystkich urządzeń?
+    }
 about-logins-confirm-export-dialog-title = Eksport danych logowania i haseł
 about-logins-confirm-export-dialog-message = Twoje hasła zostaną zapisane jako zwykły tekst (np. SłabeH@s1o), więc każdy, kto może otworzyć wyeksportowany plik, będzie mógł je zobaczyć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
-
-confirm-discard-changes-dialog-title = Odrzucić niezachowane zmiany?
+confirm-discard-changes-dialog-title = Czy odrzucić niezachowane zmiany?
 confirm-discard-changes-dialog-message = Wszystkie niezachowane zmiany zostaną utracone.
 confirm-discard-changes-dialog-confirm-button = Odrzuć
 
@@ -213,10 +230,8 @@ about-logins-vulnerable-alert-learn-more-link = Więcej informacji
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Dane logowania dla witryny „{ $loginTitle }” z tą nazwą użytkownika już istnieją. <a data-l10n-name="duplicate-link">Przejść do istniejących danych?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Wystąpił błąd podczas zapisywania tego hasła.
-
 
 ## Login Export Dialog
 
