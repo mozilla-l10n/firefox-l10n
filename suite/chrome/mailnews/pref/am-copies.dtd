@@ -11,10 +11,15 @@
 <!ENTITY fccReplyFollowsParent.label "Τοποθέτηση απαντήσεων στον ίδιο φάκελο με το αρχικό μήνυμα">
 <!ENTITY fccReplyFollowsParent.accesskey "Τ">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
+<!ENTITY ccAddress.label "Κοινοποίηση στις διευθύνσεις email:">
+<!ENTITY ccAddress.accesskey "Κ">
 <!ENTITY ccAddressList.placeholder "Διαχωρισμός διευθύνσεων με κόμματα">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
+<!ENTITY bccAddress.label "Κρυφή κοινοποίηση στις διευθύνσεις email:">
+<!ENTITY bccAddress.accesskey "Κ">
 <!ENTITY bccAddressList.placeholder "Διαχωρισμός διευθύνσεων με κόμματα">
 <!ENTITY saveMessageDlg.label "Εμφάνιση παραθύρου επιβεβαίωσης κατά την αποθήκευση μηνυμάτων">
+<!ENTITY saveMessageDlg.accesskey "φ">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Στο φάκελο &quot;Απεσταλμένα&quot; του:">
 <!ENTITY sentFolderOn.accesskey "Α">

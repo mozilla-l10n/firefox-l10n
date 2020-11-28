@@ -5,6 +5,8 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
 <!ENTITY MsgSynchronize.label "Λήψη και συγχρονισμός μηνυμάτων">
+<!ENTITY MsgSelect.label "Στοιχεία για χρήση εκτός σύνδεσης">
+<!ENTITY MsgSyncDirections.label "Λήψη ή/και συγχρονισμός των εξής:">
 <!ENTITY syncTypeMail.label "Μηνύματα email">
 <!ENTITY syncTypeMail.accesskey "Μ">
 <!ENTITY syncTypeNews.label "Μηνύματα ομάδων συζήτησης">

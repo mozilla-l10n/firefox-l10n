@@ -10,6 +10,7 @@
 <!ENTITY  language.label                          "Γραμματοσειρές για:">
 <!ENTITY  language.accesskey                      "ρ">
 
+<!ENTITY  typefaces.label                         "Οικογένεια γραμματοσειρών">
 <!ENTITY  sizes.label                             "Μέγεθος (pixels)">
 
 
@@ -66,4 +67,5 @@
 <!-- leaving this stuff in for now -->
 
 <!ENTITY  header2                                 "Όταν μια ιστοσελίδα επιλέγει τις δικές της γραμματοσειρές">
+<!ENTITY  useDefaultFont.label                    "Χρήση προεπιλεγμένων γραμματοσειρών, αγνοώντας τις γραμματοσειρές της σελίδας">
 <!ENTITY  useDefaultFont.accesskey                "Χ">

@@ -13,4 +13,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Μόνο σύνδεσμοι">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "Μ">
 
+<!ENTITY findAsYouTypeFindbarEnable.label "Εμφάνιση γραμμής εύρεσης όταν γίνεται εύρεση κατά την πληκτρολόγηση">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "Ε">
 <!ENTITY findAsYouTypeFindbarEnableTip.label "Σημείωση: Η εύρεση κατά την πληκτρολόγηση χωρίς εμφάνιση γραμμής εύρεσης δεν επιτρέπει διεθνή εισαγωγή κειμένου.">
