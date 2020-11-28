@@ -29,6 +29,8 @@
 
 <!ENTITY folderSynchronizationTab.label          "Συγχρονισμός">
 
+<!ENTITY offlineFolder.check.label               "Επιλογή αυτού του φακέλου για χρήση εκτός σύνδεσης">
+<!ENTITY offlineFolder.check.accesskey           "Ε">
 <!ENTITY offlineFolder.button.label              "Λήψη τώρα">
 <!ENTITY offlineFolder.button.accesskey          "Λ">
 
