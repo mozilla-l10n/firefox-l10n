@@ -13,7 +13,7 @@ opensearch-error-duplicate-desc = { -brand-short-name } n'hall ket staliañ an e
 opensearch-error-format-title = Mentrezh didalvoudek
 opensearch-error-format-desc = { -brand-short-name } n'hall ket staliañ al lusker enklask eus: { $location-url }
 opensearch-error-download-title = Fazi e-pad ar pellgargadur
-opensearch-error-download-desc = { -brand-short-name } n'hall ket pellgargañ an enlugellad enklask diouzh : { $location-url }
+opensearch-error-download-desc = { -brand-short-name } n'hall ket pellgargañ an enlugellad enklask diouzh: { $location-url }
 
 ##
 

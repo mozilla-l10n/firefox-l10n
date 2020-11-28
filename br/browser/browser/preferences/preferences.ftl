@@ -29,6 +29,8 @@ search-input-box =
            *[other] Klask er gwellvezioù
         }
 managed-notice = Ardoet eo ho merdeer gant hoc'h aozadur.
+category-list =
+    .aria-label = Rummadoù
 pane-general-title = Hollek
 category-general =
     .tooltiptext = { pane-general-title }
@@ -45,6 +47,9 @@ pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
 pane-experimental-subtitle = Kendalc'hit gant evezh
+pane-experimental-reset =
+    .label = Assav an arventennoù dre ziouer
+    .accesskey = A
 help-button-label = Skor { -brand-short-name }
 addons-button-label = Askouezhioù & Neuzioù
 focus-search =
@@ -416,6 +421,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Gweredekaat ar reoliadurioù video skeudenn-war-skeudenn
     .accesskey = G
 browsing-picture-in-picture-learn-more = Gouzout hiroc'h
+browsing-media-control-learn-more = Gouzout hiroc'h
 browsing-cfr-recommendations =
     .label = Erbediñ askouezhioù p'emaoc'h o merdeiñ
     .accesskey = R
@@ -551,6 +557,7 @@ search-show-suggestions-private-windows =
     .label = Diskouez ar c'hinnigoù enklask er prenestroù prevez
 search-suggestions-cant-show = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
 search-one-click-header = Luskerioù enklask ur-c'hlik
+search-one-click-header2 = Berradennoù enklask
 search-one-click-desc = Dibabit al luskerioù enklask all diskouezet dindan ar varrenn chomlec'hioù hag ar varrenn glask pa grogit da skrivañ ur ger.
 search-choose-engine-column =
     .label = Keflusker enklask
@@ -928,6 +935,7 @@ content-blocking-etp-standard-desc = Kempouez etre gwarez ha digonusted. Ar paje
 content-blocking-etp-strict-desc = Gwarez kreñvoc'h, met gallout a ra lakaat lec'hiennoù 'zo da derriñ.
 content-blocking-etp-custom-desc = Dibabit pe heulier pe skript herzel.
 content-blocking-private-windows = Heulierien er prenestroù prevez
+content-blocking-cross-site-cookies = Toupinoù etrelec'hienn
 content-blocking-cross-site-tracking-cookies = Toupinoù heuliañ etre-lec'hienn
 content-blocking-social-media-trackers = Heulierien media kevredadel
 content-blocking-all-cookies = An holl doupinoù
@@ -1109,6 +1117,7 @@ space-alert-under-5gb-message = Ne chom ket kalz a blas war ar gantenn evit { -b
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Mod HTTPS hepken
 httpsonly-learn-more = Gouzout hiroc'h
 
 ## The following strings are used in the Download section of settings

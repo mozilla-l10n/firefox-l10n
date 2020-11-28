@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Skramm a-bezh">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Kuzhat an afell skeudenn-ouzh-skeudenn">
 <!ENTITY pictureInPictureHideToggle.accesskey "K">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Arventennoù &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Kennaskañ un trevnad all…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Kennaskañ ouzh &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Gweredekaat &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Gwazerezhioù &brandProductName;">
@@ -218,17 +216,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Enrollañ ar bajenn etrezek Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Gwelout roll Pocket">
 
 <!ENTITY emailPageCmd.label           "Kas an ere dre bostel…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zoum">
 
@@ -255,7 +248,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ouzhpennañ geriadurioù…">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Ivinelloù merdeer">
@@ -268,8 +260,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY uiTour.infoPanel.close "Serriñ">
 
 <!ENTITY panicButton.thankyou.msg1                "Skarzhet eo ho roll istor nevesañ.">
-<!ENTITY panicButton.thankyou.msg2                "Merdeiñ diogel !">
-<!ENTITY panicButton.thankyou.buttonlabel         "Trugarez !">
+<!ENTITY panicButton.thankyou.msg2                "Merdeiñ diogel!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Trugarez!">
 
 <!ENTITY updateAvailable.panelUI.label "Pellgargañ hizivadenn &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "Pellgargañ un eilad nevez eus &brandShorterName;">

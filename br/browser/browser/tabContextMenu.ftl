@@ -83,3 +83,25 @@ move-tabs =
 move-tab =
     .label = Dilec'hiañ an ivinell
     .accesskey = l
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Serriñ an ivinell
+            [one] Serriñ an ivinelloù
+            [two] Serriñ an ivinelloù
+            [few] Serriñ an ivinelloù
+            [many] Serriñ an ivinelloù
+           *[other] Serriñ an ivinelloù
+        }
+    .accesskey = S
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Dilec'hiañ an ivinell
+            [one] Dilec'hiañ an ivinelloù
+            [two] Dilec'hiañ an ivinelloù
+            [few] Dilec'hiañ an ivinelloù
+            [many] Dilec'hiañ an ivinelloù
+           *[other] Dilec'hiañ an ivinelloù
+        }
+    .accesskey = D

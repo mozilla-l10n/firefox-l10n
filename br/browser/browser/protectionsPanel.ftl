@@ -3,9 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = C'hoarvezet ez eus bet ur fazi en ur gas an danevell. Klaskit adarre diwezhatoc'h mar plij.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Lec'hienn ratreet ? Kasit an danevell
+protections-panel-sitefixedsendreport-label = Lec'hienn ratreet? Kasit an danevell
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Skoueriek
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Titouroù ouzhpenn war ar gwarez heuliañ araokaet.
-
 protections-panel-etp-on-header = Gweredekaet eo ar gwarez heuliañ araokaet war al lec'hienn-mañ.
 protections-panel-etp-off-header = Diweredekaet eo ar gwarez heuliañ araokaet war al lec'hienn-mañ.
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = N'a ket en-dro al lec'hienn?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = N'a ket en-dro al lec'hienn?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Karget eo bet holl heulieri
 ##
 
 protections-panel-no-trackers-found = N'eus bet dinoet heulier ebet anavezet gant { -brand-short-name } war ar bajenn-mañ.
-
 protections-panel-content-blocking-tracking-protection = Endalc'had heuliañ
-
 protections-panel-content-blocking-socialblock = Heulierien Media kevredadel
 protections-panel-content-blocking-cryptominers-label = Kriptogleuzerien
 protections-panel-content-blocking-fingerprinters-label = Dinoerien roudoù niverel
@@ -69,14 +63,12 @@ protections-panel-settings-label = Arventennoù gwarez
 
 # The header of the list
 protections-panel-site-not-working-view-header = Diweredekait ar gwarezioù ma vez kudennoù gant:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Maeziennoù kennaskañ
 protections-panel-site-not-working-view-issue-list-forms = Furmskridoù
 protections-panel-site-not-working-view-issue-list-payments = Paeamantoù
 protections-panel-site-not-working-view-issue-list-comments = Evezhiadennoù
 protections-panel-site-not-working-view-issue-list-videos = Videoioù
-
 protections-panel-site-not-working-view-send-report = Kas un danevell
 
 ##
@@ -86,11 +78,9 @@ protections-panel-cryptominers = Gant ar c'hriptogleuzerien e vez implijet gallo
 protections-panel-fingerprinters = An dinoerien roudoù niverel a zastum arventennoù ho merdeer hag hoc'h urzhiataer evit sevel un aelad diwar ho penn. En ur implij ar roudoù-se e c'hall heuliañ ac'hanoc'h war veur a lec'hienn.
 protections-panel-tracking-content = Gallout a ra al lec'hiennoù kargañ bruderezh, videoioù pe traoù diavaez all gant ur boneg heuliañ. Stankañ an endalc'hadoù heuliañ a c'hall herrekaat al lec'hiennoù met gallout a ra lod eus an afelloù, furmskridoù pe maeziennoù kennaskañ chom hep mont en-dro.
 protections-panel-social-media-trackers = Gant ar rouedadoù kevredadel e vez lakaet heulierien evit gallout gwelet war al lec'hiennoù all ar pezh a sellit hag a rit enlinenn. Evel-se e c'hall an embregerezhioù media kevredadel deskiñ hiroc'h diwar ar pezh a rannit war hoc'h aeladoù media kevredadel.
-
 protections-panel-content-blocking-manage-settings =
     .label = Merañ an arventennoù gwarez
     .accesskey = M
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Danevelliñ ul lec'hienn torret
 protections-panel-content-blocking-breakage-report-view-description = Stankañ heulierien 'zo a c'hall degas kudennoù gant lec'hiennoù 'zo. Danevelliñ ar c'hudennoù-se a sikour da lakaat { -brand-short-name } gwelloc'h evit an holl. Kas an danevell-mañ da vMozilla a kaso un URL ha titouroù diwar-benn arventennoù ho merdeer. <label data-l10n-name="learn-more">Gouzout hiroc'h</label>
