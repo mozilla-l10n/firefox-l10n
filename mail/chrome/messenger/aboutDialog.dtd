@@ -31,7 +31,7 @@
 <!ENTITY community.exp.middle       " ir ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globāla kopiena">
-<!ENTITY community.exp.end          "strādā kopā, lai tīmeklis būtu atvērts, publisks un pieejams visiem.">
+<!ENTITY community.exp.end          ", kas kopīgi strādā, lai tīmeklis būtu atvērts, publisks un pieejams visiem.">
 
 <!ENTITY community.start2           "&brandShortName; izstrādā">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
@@ -39,7 +39,7 @@
 <!ENTITY community.middle2          ", kura">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globālā kopiena">
-<!ENTITY community.end3             "strādā kopā, lai tīmeklis būtu atvērts, publisks un pieejams visiem.">
+<!ENTITY community.end3             ", kas kopīgi strādā, lai tīmeklis būtu atvērts, publisks un pieejams visiem.">
 
 <!ENTITY helpus.start               "Vēlaties palīdzēt? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
