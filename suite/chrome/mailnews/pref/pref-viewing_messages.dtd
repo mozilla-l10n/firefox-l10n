@@ -19,7 +19,11 @@
 <!ENTITY fontPlainText.label              "Γραμματοσειρά:">
 <!ENTITY fontPlainText.accesskey          "Γ">
 <!ENTITY displayQuoted.label              "Ρυθμίσεις μηνυμάτων σε παράθεση:">
+<!ENTITY wrapInMsg.label                  "Αναδίπλωση κειμένου για προσαρμογή στο πλάτος του παραθύρου">
+<!ENTITY wrapInMsg.accesskey              "Α">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label           "Εμφάνιση emoticons ως γραφικών στοιχείων">
+<!ENTITY convertEmoticons.accesskey       "Ε">
 <!ENTITY generalMessageDisplay.caption    "Γενικά">
 <!ENTITY autoMarkAsRead.label             "Αυτόματη επισήμανση μηνυμάτων ως αναγνωσμένων">
 <!ENTITY autoMarkAsRead.accesskey         "Α">
@@ -35,3 +39,9 @@
 <!ENTITY newWindowRadio.accesskey         "ν">
 <!ENTITY existingWindowRadio.label        "Υπάρχον παράθυρο μηνύματος">
 <!ENTITY existingWindowRadio.accesskey    "χ">
+<!ENTITY disableContent.label             "Φραγή εικόνων και άλλου περιεχομένου από απομακρυσμένες πηγές">
+<!ENTITY disableContent.accesskey         "Φ">
+<!ENTITY showCondensedAddresses.label     "Προβολή μόνο του εμφανιζόμενου ονόματος για άτομα του ευρετηρίου μου">
+<!ENTITY showCondensedAddresses.accesskey "ο">
+<!ENTITY closeMsgWindowOnDelete.label     "Κλείσιμο παραθύρου μηνυμάτων κατά τη διαγραφή του μηνύματος">
+<!ENTITY closeMsgWindowOnDelete.accesskey "λ">
