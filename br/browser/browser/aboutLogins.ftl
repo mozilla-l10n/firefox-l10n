@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Enporzhiañ eus ur merdeer all...
 about-logins-menu-menuitem-import-from-a-file = Enporzhiañ adalek ur restr…
 about-logins-menu-menuitem-export-logins = Ezporzhiañ an titouroù kennaskañ…
+about-logins-menu-menuitem-remove-all-logins = Dilemel an holl ditouroù kennaskañ…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Dibarzhioù
@@ -172,6 +173,15 @@ about-logins-confirm-remove-dialog-title = Dilemel an titour kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
 about-logins-confirm-remove-dialog-confirm-button = Dilemel
 about-logins-confirm-remove-all-dialog-confirm-button = Dilemel pep tra
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ya, dilemel an titour kennaskañ-mañ
+        [one] Ya, dilemel an titouroù kennaskañ-mañ
+        [two] Ya, dilemel an titouroù kennaskañ-mañ
+        [few] Ya, dilemel an titouroù kennaskañ-mañ
+        [many] Ya, dilemel an titouroù kennaskañ-mañ
+       *[other] Ya, dilemel an titouroù kennaskañ-mañ
+    }
 about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
 about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c'hallo bezañ lennet gant an holl a c'hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
