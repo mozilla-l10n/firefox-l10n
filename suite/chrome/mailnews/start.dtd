@@ -16,5 +16,13 @@
 <!ENTITY dict.title "Λεξικά">
 <!ENTITY dict_intro.label "Τα λεξικά χρησιμοποιούνται για τον ορθογραφικό έλεγχο των μηνυμάτων σας.">
 <!--# LOCALIZATION NOTE (dict_info.label): the URL for <a id="dictURL"> is fetched from brand.properties -->
+<!ENTITY dict_info.label2
+'Μπορείτε να εγκαταστήσετε ακόμη περισσότερες γλώσσες από την
+ενότητα <a id="dictURL" href="">λεξικών</a> στα
+<a href="https://addons.thunderbird.net/seamonkey/">Πρόσθετα SeaMonkey και Thunderbird</a>.'>
 <!ENTITY info.title "Περισσότερες πληροφορίες">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
+<!ENTITY info_bugs.label
+'<a href="https://developer.mozilla.org/docs/Mozilla/Projects/MailNews">Δεχόμαστε</a> αναφορές σφαλμάτων και αιτήματα
+λειτουργιών, αλλά παρακαλούμε διαβάστε τις <a id="releaseNotesURL" href="">σημειώσεις έκδοσης</a> και ανατρέξτε
+πρώτα στο <a href="https://bugzilla.mozilla.org/query.cgi">Bugzilla</a>.'>

@@ -16,3 +16,5 @@
 <!ENTITY  certs.label              "Πιστοποιητικά">
 
 <!ENTITY validation.ocsp.caption                  "OCSP">
+<!ENTITY validation.requireOCSP.description       "Όταν αποτύχει μια σύνδεση διακομιστή OCSP, αντιμετώπιση πιστοποιητικού ως μη έγκυρου">
+<!ENTITY validation.requireOCSP.accesskey         "Ό">
