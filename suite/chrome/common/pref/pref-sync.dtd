@@ -5,6 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Ρύθμιση &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "Ρ">
+<!ENTITY weaveDesc.label            "Το &syncBrand.fullName.label; σάς παρέχει πρόσβαση στο ιστορικό, τους σελιδοδείκτες, τους κωδικούς πρόσβασης και τις ανοικτές σας καρτέλες σε όλες τις συσκευές σας.">
 
 <!-- The page shown when logged in... -->
 <!ENTITY accountGroupboxCaption.label "Λογαριασμός &syncBrand.fullName.label;">
