@@ -47,6 +47,8 @@ experimental-features-web-api-beforeinput-description = Globalus <a data-l10n-na
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets (konstruojami stilių aprašai)
 experimental-features-css-constructable-stylesheets-description = Konstruktoriaus pridėjimas į <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> sąsają, kartu su įvairiais susijusiais pakeitimais, leidžia tiesiogiai kurti naujus stilių aprašus nepridedant jų į HTML. Tai leidžia žymiai paprasčiau kurti daugkartinio naudojimo stilių aprašus, skirtus naudojimui su <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Sužinoti daugiau galite skaitydami apie <a data-l10n-name="bugzilla">klaidą 1520690</a>.
+experimental-features-devtools-color-scheme-simulation =
+    .label = Programuotojų priemonės: spalvų schemų simuliacija
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Slapukai: SameSite=Lax (numatyta)
