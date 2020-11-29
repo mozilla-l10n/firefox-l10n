@@ -69,3 +69,11 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Slapuk
 experimental-features-abouthome-startup-cache =
     .label = „about:home“ paleisties podėlis
 experimental-features-abouthome-startup-cache-description = Podėlis, skirtas pirminiam „about:home“ dokumentui, kuris yra numatytasis pradžios tinklalapis. Šio podėlio paskirtis yra pagerinti paleisties našumą.
+experimental-features-print-preview-tab-modal =
+    .label = Spausdinio peržiūros atnaujinimas
+experimental-features-print-preview-tab-modal-description = Naudoja perdarytą spausdinio peržiūrą, ir padaro ją pasiekiamą per „macOS“. Tai gali sukelti veikimo sutrikimų, ir neturi visų su spausdinimu susijusių nuostatų. Norėdami pasiekti visas susijusias nuostatas, iš spausdinimo polangio pasirinkite „Spausdinti naudojant sistemos dialogą…“.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Slapukai: Schemeful SameSite
+experimental-features-cookie-samesite-schemeful-description = Laikyti slapukus iš to pačio domeno, tačiau su skirtingomis schemomis (pvz., http://example.com ir https://example.com), kaip tarp svetainių veikiančius (cross-site), o ne tos pačios svetainės (same-site).
