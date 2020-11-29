@@ -4,13 +4,13 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Σύνταξη"> 
+<!ENTITY editorWindow.titlemodifier "Σύνθεση">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Γραμμή εργαλείων σύνταξης">
+<!ENTITY compositionToolbar.tooltip "Γραμμή εργαλείων σύνθεσης">
 <!ENTITY previewToolbarCmd.label "Περιήγηση">
 <!ENTITY previewToolbarCmd.tooltip "Φόρτωση σελίδας στο πρόγραμμα περιήγησης">
 
