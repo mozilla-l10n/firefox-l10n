@@ -4,9 +4,9 @@
 
 <!-- File menu items -->
 <!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
-<!ENTITY openFileCmd.accesskey "ο">
+<!ENTITY openFileCmd.accesskey "Ά">
 <!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Άνοιγμα διαδικτυακής τοποθεσίας…">
+<!ENTITY openRemoteCmd.label "Άνοιγμα διεύθυνσης ιστού…">
 <!ENTITY openRemoteCmd.accesskey "θ">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Πρόσφατες σελίδες">
