@@ -93,3 +93,8 @@ experimental-features-js-warp-description = Įjungti „Warp“, projektą, kuri
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (svetainių izoliavimas)
+experimental-features-fission-description = „Fission“ (svetainių izoliavimas) yra eksperimentinis „{ -brand-short-name }“ funkcionalumas, skirtas suteikti papildomą apsaugos sluoksnį nuo saugumo spragų. Izoliuodamas kiekvieną svetainę į atskirą procesą, „Fission“ apsunkina kenkėjiškų svetainių bandymus pasiekti informaciją iš kitų jūsų lankomų svetainių. Tai yra didelis architektūrinis „{ -brand-short-name }“ pokytis, ir mes vertiname jūsų testavimą bei pranešimus apie iškilusias problemas. Norėdami sužinoti daugiau, aplankykite <a data-l10n-name="wiki">vikį</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Keleto vaizdų-vaizde palaikymas
+experimental-features-multi-pip-description = Eksperimentinis keleto vaizdo-vaizde langų, atvertų tuo pačiu metu, palaikymas.
