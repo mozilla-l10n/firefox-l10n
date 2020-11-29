@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY settings.caption "Ρυθμίσεις">
-<!ENTITY security.caption "Ασφάλεια και πιστοποίηση">
+<!ENTITY security.caption "Ασφάλεια και ταυτοποίηση">
 <!ENTITY serverName.label "Όνομα διακομιστή:">
 <!ENTITY serverName.accesskey "δ">
 <!ENTITY serverDescription.label "Περιγραφή:">
@@ -20,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Διακομιστής SMTP">
 <!ENTITY serverPortDefault.label "Προεπιλογή:">
-<!ENTITY authMethod.label "Μέθοδος πιστοποίησης:">
+<!ENTITY authMethod.label "Μέθοδος ταυτοποίησης:">
 <!ENTITY authMethod.accesskey "δ">

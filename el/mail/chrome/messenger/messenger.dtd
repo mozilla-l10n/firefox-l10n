@@ -565,7 +565,7 @@
 <!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
-<!ENTITY advancedButton.tooltip "Προηγμένη αναζήτηση μηνυμάτων">
+<!ENTITY advancedButton.tooltip "Σύνθετη αναζήτηση μηνυμάτων">
 <!ENTITY getMsgButton.tooltip "Λήψη νέων μηνυμάτων">
 <!ENTITY getAllNewMsgCmd.label "Λήψη όλων των νέων μηνυμάτων">
 <!ENTITY getAllNewMsgCmd.accesskey "Λ">

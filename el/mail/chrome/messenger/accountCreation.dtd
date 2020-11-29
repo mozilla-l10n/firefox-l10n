@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailWizard.title               "Ρύθμιση της υπάρχουσας διεύθυνσης email">
-<!ENTITY emailWizard.caption             "Χρήση της τρέχουσας διεύθυνσης email">
+<!ENTITY emailWizard.title               "Ρύθμιση υπάρχουσας διεύθυνσης email">
+<!ENTITY emailWizard.caption             "Χρήση τρέχουσας διεύθυνσης email">
 <!ENTITY name.label                      "Το όνομά σας:">
 <!ENTITY name.accesskey                  "ν">
 <!ENTITY fullname.placeholder            "Το πλήρες όνομά σας">
@@ -41,7 +41,7 @@
 <!ENTITY serverRow.label                 "Διακομιστής:">
 <!ENTITY portRow.label                   "Θύρα:">
 <!ENTITY sslRow.label                    "SSL:">
-<!ENTITY auth.label                      "Πιστοποίηση">
+<!ENTITY auth.label                      "Ταυτοποίηση">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
@@ -57,8 +57,8 @@
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY exchange-hostname.label         "Διακομιστής Exchange:">
 
-<!ENTITY advancedSetup.label             "Ρυθμίσεις για προχωρημένους">
-<!ENTITY advancedSetup.accesskey         "χ">
+<!ENTITY advancedSetup.label             "Σύνθετες ρυθμίσεις">
+<!ENTITY advancedSetup.accesskey         "Σ">
 <!ENTITY cancel.label                    "Ακύρωση">
 <!ENTITY cancel.accesskey                "κ">
 <!ENTITY continue.label                  "Συνέχεια">
