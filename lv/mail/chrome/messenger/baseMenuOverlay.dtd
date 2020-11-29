@@ -4,21 +4,21 @@
 
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "Palīdzība">
-<!ENTITY helpMenu.accesskey "H">
+<!ENTITY helpMenu.accesskey "P">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Palīdzība">
-<!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY helpMenuWin.accesskey "P">
 <!ENTITY aboutProduct2.label "Par &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey "A">
+<!ENTITY aboutProduct2.accesskey "a">
 <!ENTITY helpTroubleshootingInfo.label     "Problēmu novēršanas informācija">
-<!ENTITY helpTroubleshootingInfo.accesskey "T">
+<!ENTITY helpTroubleshootingInfo.accesskey "P">
 <!ENTITY helpSafeMode.label     "Pārstartēt ar atslēgtiem papildinājumiem…">
-<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY helpSafeMode.stop.label     "Pārstartēt ar ieslēgtiem papildinājumiem">
-<!ENTITY helpSafeMode.stop.accesskey "R">
+<!ENTITY helpSafeMode.stop.accesskey "r">
 <!ENTITY productHelp.label "&brandShortName; palīdzība">
-<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.accesskey "P">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">
