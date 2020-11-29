@@ -27,6 +27,7 @@ inactive-css-not-display-block-on-floated = <strong>ցուցադրման</strong
 inactive-css-property-is-impossible-to-override-in-visited = <strong>․այցելուած</strong> սահմանափակման պատճառով անհնար է վերագրել <strong>{ $property }</strong>։
 inactive-css-position-property-on-unpositioned-box = <strong> { $property } </strong> չունի որեւէ ազդեցութիւն այս տարրի վրայ, քանի որ այն դիրքաւորուած տարր չէ:
 inactive-text-overflow-when-no-overflow = <strong> { $property } </strong> չունի որեւէ պատկերում այս տարրի վրայ, քանի որ <strong> ընդարձակել։թաքցնել </strong> այն դրուած չէ:
+inactive-outline-radius-when-outline-style-auto-or-none = <strong> { $property } </strong> ազդեցութիւն չունի այս տարրի վրայ, քանի որ դրա <strong> ուրուագծային ոճը </strong> ինքանաշխատ <strong> է</strong> կամ <strong> չկայ </strong>:
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -45,6 +46,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Փորձ�
 inactive-css-not-display-block-on-floated-fix = Փորձէք հեռացնել <strong>լողանցումը</strong> կամ աւելացնել <strong>ցուցադրման․արգելափակումը</strong>։ { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Փործէք  strong> position </strong> յատկութիւնը սահմանել <strong> static </strong>֊ից տարբեր: { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Փորձէք աւելացնել <strong> overflow:hidden </strong>: { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Փորձէք դրա <strong> ուրուագծային ոճ </strong> յատկութիւնը դնել այլ բանի վրայ, փոխանակ <strong> ինքնաշխատ </ strong> կամ <strong> չկայ </ strong>: { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
