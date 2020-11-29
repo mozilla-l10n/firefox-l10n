@@ -527,7 +527,7 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Iegūt vēstules">
+<!ENTITY getMsgButton1.label "Saņemt vēstules">
 <!ENTITY newMsgButton.label "Rakstīt">
 <!ENTITY replyButton.label "Atbildēt">
 <!ENTITY replyAllButton.label "Atbildēt visiem">
@@ -566,8 +566,8 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Izvērstā vēstuļu meklēšana">
-<!ENTITY getMsgButton.tooltip "Iegūt jaunas vēstules">
-<!ENTITY getAllNewMsgCmd.label "Iegūt visas vēstules">
+<!ENTITY getMsgButton.tooltip "Saņemt jaunās vēstules">
+<!ENTITY getAllNewMsgCmd.label "Saņemt visas vēstules">
 <!ENTITY getAllNewMsgCmd.accesskey "I">
 <!ENTITY newMsgButton.tooltip "Izveidot jaunu vēstuli">
 <!ENTITY replyButton.tooltip "Atbildēt uz vēstuli">
@@ -640,7 +640,7 @@
 <!ENTITY folderSizeColumn.label "Izmērs">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Iegūt vēstules">
+<!ENTITY folderContextGetMessages.label "Saņemt vēstules">
 <!ENTITY folderContextGetMessages.accesskey "g">
 <!ENTITY folderContextMarkAllFoldersRead.label "Atzīmēt visas mapes kā lasītas">
 <!ENTITY folderContextPauseAllUpdates.label "Pārtraukt visus atjaunojumus">
