@@ -40,6 +40,9 @@ printui-scale = มาตราส่วน
 printui-scale-fit-to-page-width = พอดีกับความกว้างของหน้า
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = มาตราส่วน
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = การพิมพ์สองด้าน
+printui-duplex-checkbox = พิมพ์ทั้งสองด้าน
 # Section title for miscellaneous print options
 printui-options = ตัวเลือก
 printui-headers-footers-checkbox = พิมพ์หัวกระดาษและท้ายกระดาษ

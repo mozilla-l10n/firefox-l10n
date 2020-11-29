@@ -82,10 +82,10 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = เครื่องมือนักพัฒนา: การดีบั๊ก Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = เปิดใช้งานการสนับสนุนแบบทดลองสำหรับ Service Worker ในแผง "ตัวดีบั๊ก" คุณลักษณะนี้อาจทำให้เครื่องมือนักพัฒนาทำงานช้าลงและเพิ่มการใช้หน่วยความจำ
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = กราฟิก: การซูมโดยการหุบ/กางนิ้วแบบลื่นไหล
-experimental-features-graphics-desktop-zooming-description = เปิดใช้งานการรองรับการซูมโดยการหุบ/กางนิ้วแบบลื่นไหลบนหน้าจอสัมผัสและแผงสัมผัสที่แม่นยำ
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = WebRTC Global Mute Toggles
+experimental-features-webrtc-global-mute-toggles-description = เพิ่มตัวควบคุมลงในตัวบ่งชี้การใช้ร่วมกันส่วนกลางของ WebRTC ซึ่งทำให้ผู้ใช้สามารถปิดเสียงไมโครโฟนและฟีดกล้องแบบส่วนกลางได้
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
@@ -94,3 +94,7 @@ experimental-features-js-warp-description = เปิดใช้งาน Warp 
 experimental-features-fission =
     .label = Fission (การแยกไซต์)
 experimental-features-fission-description = Fission (การแยกไซต์) เป็นคุณลักษณะทดลองใน { -brand-short-name } เพื่อเพิ่มการป้องกันอีกชั้นจากบั๊กความปลอดภัย Fission จะทำให้เว็บไซต์ที่เป็นอันตรายสามารถเข้าถึงข้อมูลจากหน้าอื่น ๆ ที่คุณเยี่ยมชมอยู่ได้ยากขึ้นโดยการแยกไซต์แต่ละไซต์เป็นกระบวนการที่แยกต่างหาก คุณลักษณะนี้ถือเป็นการเปลี่ยนแปลงด้านสถาปัตยกรรมครั้งใหญ่ใน { -brand-short-name } และเราขอบคุณที่ทดสอบและรายงานปัญหาที่คุณพบ สำหรับรายละเอียด ดูที่<a data-l10n-name="wiki">วิกิ</a>
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = การรองรับภาพที่เล่นควบคู่หลายภาพ
+experimental-features-multi-pip-description = การรองรับแบบทดลองสำหรับอนุญาตให้เปิดหน้าต่างภาพที่เล่นควบคู่ได้พร้อมกันหลายภาพ
