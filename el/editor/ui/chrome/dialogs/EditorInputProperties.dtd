@@ -41,7 +41,7 @@
 <!ENTITY TextSize.accesskey "θ">
 <!ENTITY TextLength.label "Μέγιστο μήκος:">
 <!ENTITY TextLength.accesskey "Μ">
-<!ENTITY AccessKey.label "Κλειδί πρόσβασης:">
+<!ENTITY AccessKey.label "Πλήκτρο συντόμευσης:">
 <!ENTITY AccessKey.accesskey "Κ">
 <!ENTITY Accept.label "Αποδεκτοί τύποι:">
 <!ENTITY Accept.accesskey "Α">

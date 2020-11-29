@@ -82,7 +82,7 @@
 <!ENTITY browseNewsrc.accesskey "ε">
 
 <!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
-<!ENTITY accountSettingsDesc.label "Το παρακάτω είναι ειδικός λογαριασμός. Δεν υπάρχουν ταυτότητες που να έχουν συσχετιστεί με αυτόν.">
+<!ENTITY accountSettingsDesc.label "Ο ακόλουθος λογαριασμός είναι ειδικός. Δεν υπάρχουν ταυτότητες που να σχετίζονται με αυτόν.">
 <!ENTITY storeType.label "Τρόπος αποθήκευσης μηνυμάτων:">
 <!ENTITY storeType.accesskey "τ">
 <!ENTITY mboxStore2.label "Αρχείο ανά φάκελο (mbox)">
