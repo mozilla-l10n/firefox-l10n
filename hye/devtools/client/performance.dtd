@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
-<!ENTITY performanceUI.bufferStatusTooltip "Հաշուետէրը պահում է նմուշները շրջանաձեւ պահնակում, իսկ պահնակը հասնում է ձայնագրութեան սահմանին, նոր նմուշները սկսում են վերագրել նմուշները ձայնագրութեան սկզբում:">
+<!ENTITY performanceUI.bufferStatusTooltip "Հաշուետէրը պահում է նմուշները շրջանաձեւ պահնակում, իսկ պահնակը հասնում է ձայնագրութեան սահմանին, նոր նմուշները սկսում են վրագրել նմուշները ձայնագրութեան սկզբում:">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
