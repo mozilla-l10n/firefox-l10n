@@ -41,9 +41,34 @@ about-processes-gmp-plugin-process-name = Gecko Media Plugins (գործընթա�
 about-processes-gpu-process-name = GPU (գործընթաց { $pid })
 about-processes-vr-process-name = VR (գործընթաց { $pid })
 about-processes-rdd-process-name = Տուեալների վերծանիչ (մշակել { $pid })
+about-processes-socket-process-name = Ցանց (գործընթաց { $pid })
+about-processes-remote-sandbox-broker-process-name = Հեռակայ Աւազատւփի միջնորդ (գործընթաց { $pid })
+about-processes-fork-server-process-name = Fork -ի սպասարկիչ (գործընթաց { $pid })
+about-processes-preallocated-process-name = Նախաբաշխուած (գործընթաց { $pid })
+about-processes-unknown-process-name = Մեկ այլ ({ $type }, գործընթաց { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Գործընթաց { $pid }. { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Շղթաներ ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Շղթայ { $tid }. { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Ներդիր. { $name }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
