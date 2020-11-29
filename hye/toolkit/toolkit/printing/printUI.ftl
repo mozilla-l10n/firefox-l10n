@@ -41,6 +41,9 @@ printui-scale = Սանդղակ
 printui-scale-fit-to-page-width = Յարմարեցնել էջի լայնութեանը
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Սանդղակ
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Երկկողմանի տպագրութիւն
+printui-duplex-checkbox = Տպէք երկու կողմերից
 # Section title for miscellaneous print options
 printui-options = Ընտրանքներ
 printui-headers-footers-checkbox = Տպել գլխագիրները եւ էջոտները

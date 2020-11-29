@@ -18,13 +18,21 @@ handler-dialog-host = <strong>{ $host }</strong>֊ն ուզում է բացել 
 ##  $appName - Name of the application that will be opened.
 
 permission-dialog-description = Թոյլատրե՞լ այս կայքին բացել { $scheme } յղումը:
+permission-dialog-description-file = Թոյլատրել, որ այս նիշը բացի { $scheme } յղումը:
 permission-dialog-description-host = Թոյլատրե՞լ { $host } -ին բացել { $scheme } յղումը:
 permission-dialog-description-app = Թոյլատրե՞լ այս կայքին բացել { $scheme } յղումը { $appName } -ի հետ:
 permission-dialog-description-host-app = Թոյլատրե՞լ { $host } -ին բացել { $scheme } յղումը { $appName } -ի հետ:
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
+permission-dialog-description-file-app = Թոյլատրե՞լ, որ այս նիշը բացի { $scheme } յղումը { $appName }֊ով։
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
 permission-dialog-remember = Միշտ թոլատրել <strong> { $host } </strong> -ին բացել <strong> { $scheme } { $scheme } </strong> -ի յղումները
+permission-dialog-remember-file = Մշտապէս թոյլատրել, որ այս նիշը բացի <strong> { $scheme } </strong> յղումները
+
+##
+
 permission-dialog-btn-open-link =
     .label = Բացել յղումը
     .accessKey = Բ

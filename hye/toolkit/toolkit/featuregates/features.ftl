@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Մշակման գործիքներ. Ծառայութեան աշխատողի վրիպազերծում
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Հնարաւորութիւն է տալիս փորձնական աջակցութիւն Ծառայութեան աշխատողների համար վրիպազերծման վահանակում: Այս յատկութիւնը կարող է դանդաղեցնել մշակման գործիքները եւ մեծացնել յիշողութեան սպառումը:
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Գծապատկերներ. երկու մատով վերաչափում
-experimental-features-graphics-desktop-zooming-description = Միացնել հպէկրանների եւ ճշգրիտ հպահարթակի համար երկու մատով վերաչափելու աջակցումը;
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Ընդհանուր լռեցումը փոխարկում է WebRTC -ն
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Միացնել Warp-ը JavaScript-ի
 experimental-features-fission =
     .label = Բաժանում (անապահով կայք)
 experimental-features-fission-description = Բաժանումը (կայքի մեկուսացումը) փորձնական յատկութիւն է { -brand-short-name } -ում ՝ անվտանգութեան սխալներից պաշտպանուելու լրացուցիչ շերտ ապահովելու համար: Իւրաքանչիւր կայք առանձնացնելով առանձին գործընթացի մէջ՝ Fission- ը վնասակար կայքերի համար դժուարացնում է Ձեր այցելած այլ էջերից տեղեկատուութեան հասանելիութիւնը: Սա { -brand-short-name } -ում ճարտարապետական մեծ փոփոխութիւն է, եւ մենք գնահատում ենք, որ փորձարկում եւ արձագանքում էք ցանկացած խնդիր, որին կարող էք հանդիպել: Լրացուցիչ մանրամասների համար տե՛ս <a data-l10n-name="wiki">վիքի</a>:
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Բազմակի նկար-նկարի աջակցութիւն
+experimental-features-multi-pip-description = Փորձնական աջակցութիւն միաժամանակ նկարում պատկերուած բազմաթիւ պատուհաններ բացելու համար:
