@@ -39,6 +39,13 @@ experimental-features-css-focus-visible-description = Leidžia „focus“ stili
 # by various online articles and is technical in nature.
 experimental-features-web-api-beforeinput =
     .label = Web API: „beforeinput“ įvykis
+# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
+# and shouldn't be translated.
+experimental-features-web-api-beforeinput-description = Globalus <a data-l10n-name="mdn-beforeinput">beforeinput</a> įvykis gali būti sukeliamas <a data-l10n-name="mdn-input">&lt;input&gt;</a> ir <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> elementų, arba bet kurio elemento, kurio atributas <a data-l10n-name="mdn-contenteditable">contenteditable</a> yra įjungtas, iškart prieš pasikeičiant elemento reikšmei. Šis įvykis leidžia svetainėms pakeisti numatytąjį naršyklės naudotojo veiksmų apdorojimą, pvz., svetainės gali atmesti tik tam tikrų simbolių įvedimą, arba gali pakeisti įklijuojamą stilizuotą tekstą, leidžiant tik patvirtintus stilius.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheets (konstruojami stilių aprašai)
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Slapukai: SameSite=Lax (numatyta)
