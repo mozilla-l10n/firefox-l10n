@@ -17,6 +17,22 @@ handler-dialog-host = <strong>{ $host }</strong> nori atverti <strong>{ $scheme 
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Leisti šiai svetainei atverti { $scheme } saitą?
+permission-dialog-description-file = Leisti šiam failui atverti { $scheme } saitą?
+permission-dialog-description-host = Leisti { $host } atverti { $scheme } saitą?
+permission-dialog-description-app = Leisti šiai svetainei atverti { $scheme } saitą su „{ $appName }“?
+permission-dialog-description-host-app = Leisti { $host } atverti { $scheme } saitą su „{ $appName }“?
+permission-dialog-description-file-app = Leisti šiam failui atverti { $scheme } saitą su „{ $appName }“?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+permission-dialog-remember = Visada leisti <strong>{ $host }</strong> atverti <strong>{ $scheme }</strong> saitus
+permission-dialog-remember-file = Visada leisti šiam failui atverti <strong>{ $scheme }</strong> saitus
+
+##
+
 
 ## Chooser dialog
 ## Variables:
