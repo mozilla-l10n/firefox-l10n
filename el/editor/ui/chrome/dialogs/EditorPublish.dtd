@@ -32,7 +32,7 @@
 <!ENTITY pageTitle.accesskey          "μ">
 <!ENTITY pageTitle.tooltip            "Εισάγετε ένα τίτλο για να ονομάσετε τη σελίδα στο παράθυρο και τους σελιδοδείκτες.">
 <!ENTITY pageTitleExample.label       "π.χ.: &quot;Η σελίδα μου&quot;">
-<!ENTITY filename.label               "Όνομα αρχείου::">
+<!ENTITY filename.label               "Όνομα αρχείου:">
 <!ENTITY filename.accesskey           "χ">
 <!ENTITY filename.tooltip             "Εισάγετε ένα όνομα για αυτό το αρχείο συμπεριλαμβάνοντας και το  '.html'  για την ιστοσελίδα">
 <!ENTITY filenameExample.label        "π.χ.: &quot;ησελίδαμου.html&quot;">
