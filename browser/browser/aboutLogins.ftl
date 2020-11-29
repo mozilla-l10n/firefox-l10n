@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = استورِد من متصفح آخر…
 about-logins-menu-menuitem-import-from-a-file = استورِد من ملف…
 about-logins-menu-menuitem-export-logins = صدّر جلسات الولوج…
+about-logins-menu-menuitem-remove-all-logins = أزِل كل جلسات الولوج…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] الخيارات
@@ -172,6 +173,26 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = أنُزيل هذا الولوج؟
 confirm-delete-dialog-message = هذا إجراء لا عودة فيه.
 about-logins-confirm-remove-dialog-confirm-button = أزِل
+about-logins-confirm-remove-all-dialog-confirm-button = أزِل الكل
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] نعم، احذف هذا الولوج
+        [zero] نعم، احذف هذا الولوج
+        [one] نعم، احذف هذا الولوج
+        [two] نعم، احذف جلستي الولوج هتين
+        [few] نعم، احذف جلسات الولوج هذه
+        [many] نعم، احذف جلسات الولوج هذه
+       *[other] نعم، احذف جلسات الولوج هذه
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [zero] أنُزيل { $count } جلسة ولوج؟
+        [one] أنُزيل جلسة الولوج؟
+        [two] أنُزيل جلستا الولوج؟
+        [few] أنُزيل { $count } جلسات ولوج؟
+        [many] أنُزيل { $count } جلسة ولوج؟
+       *[other] أنُزيل { $count } جلسة ولوج؟
+    }
 about-logins-confirm-export-dialog-title = صدّر جلسات الولوج وكلمات السر
 about-logins-confirm-export-dialog-message = ستُحفظ جلسات الولوج على هيئة نص مقروء (مثلا 12345 أو BadP@ssw0rd) وبهذا يستطيع أيّ شخص معاينتها لو فتح الملف المصدّر.
 about-logins-confirm-export-dialog-confirm-button = صدّر…
