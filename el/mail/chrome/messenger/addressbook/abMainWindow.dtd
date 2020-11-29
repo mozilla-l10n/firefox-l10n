@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title                        "Ευρετήριο διευθύνσεων">
-<!ENTITY blankResultsPaneMessage.label                  "Αυτό το βιβλίο διευθύνσεων εμφανίζει επαφές μόνο μετά από μια αναζήτηση">
-<!ENTITY localResultsOnlyMessage.label                  "Επαφές από απομακρυσμένα βιβλία διευθύνσεων δεν εμφανίζονται μέχρι να γίνει αναζήτηση">
+<!ENTITY addressbookWindow.title                        "Ευρετήριο">
+<!ENTITY blankResultsPaneMessage.label                  "Αυτό το ευρετήριο εμφανίζει επαφές μόνο μετά από μια αναζήτηση">
+<!ENTITY localResultsOnlyMessage.label                  "Επαφές από απομακρυσμένα ευρετήρια δεν εμφανίζονται μέχρι να γίνει αναζήτηση">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Αρχείο">
@@ -16,9 +16,9 @@
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Λίστα αλληλογραφίας…">
 <!ENTITY newListCmd.accesskey                           "Λ">
-<!ENTITY newAddressBookCmd.label                        "Ευρετήριο διευθύνσεων…">
+<!ENTITY newAddressBookCmd.label                        "Ευρετήριο…">
 <!ENTITY newAddressBookCmd.accesskey                    "ρ">
-<!ENTITY newCardDAVBookCmd.label                        "Ευρετήριο διευθύνσεων CardDAV…">
+<!ENTITY newCardDAVBookCmd.label                        "Ευρετήριο CardDAV…">
 <!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "Κ">
@@ -57,7 +57,7 @@
 <!ENTITY propertiesMenu.label                           "Ιδιότητες">
 <!ENTITY propertiesMenu.accesskey                       "ι">
 <!ENTITY propertiesCmd.key                              "i">
-<!ENTITY abPropertiesMenu.label                         "Ιδιότητες ευρετηρίου διευθύνσεων">
+<!ENTITY abPropertiesMenu.label                         "Ιδιότητες ευρετηρίου">
 <!ENTITY abPropertiesMenu.accesskey                     "ι">
 <!ENTITY contactPropertiesMenu.label                    "Ιδιότητες επαφής">
 <!ENTITY contactPropertiesMenu.accesskey                "ι">

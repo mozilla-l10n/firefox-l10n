@@ -5,7 +5,7 @@
 <!ENTITY propertiesMenu.label               "Ιδιότητες">
 <!ENTITY propertiesMenu.accesskey           "ι">
 <!ENTITY propertiesCmd.key                  "i">
-<!ENTITY abPropertiesMenu.label             "Ιδιότητες ευρετηρίου διευθύνσεων">
+<!ENTITY abPropertiesMenu.label             "Ιδιότητες ευρετηρίου">
 <!ENTITY abPropertiesMenu.accesskey         "ι">
 <!ENTITY contactPropertiesMenu.label        "Ιδιότητες Επαφής">
 <!ENTITY contactPropertiesMenu.accesskey    "ι">
@@ -13,7 +13,7 @@
 <!ENTITY mailingListPropertiesMenu.accesskey "ι">
 
 <!ENTITY abContextMenuButton.tooltip        "Προβολή μενού επιλογών ευρετηρίου διευθύνσεων">
-<!ENTITY addressbookPicker.label            "Ευρετήριο διευθύνσεων:">
+<!ENTITY addressbookPicker.label            "Ευρετήριο:">
 <!ENTITY addressbookPicker.accesskey        "υ">
 <!ENTITY searchContacts.label               "Αναζήτηση επαφών:">
 <!ENTITY searchContacts.accesskey           "ν">
