@@ -17,14 +17,19 @@ handler-dialog-host = <strong>{ $host }</strong> ต้องการเปิ�
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
-permission-dialog-description = อนุญาตให้ไซต์นี้เปิดลิงก์ { $scheme } ไหม?
-permission-dialog-description-file = อนุญาตให้ไฟล์นี้เปิดลิงก์ { $scheme } ไหม?
-permission-dialog-description-host = อนุญาตให้ { $host } เปิดลิงก์ { $scheme } ไหม?
+permission-dialog-description = อนุญาตให้ไซต์นี้เปิดลิงก์ { $scheme } หรือไม่
+permission-dialog-description-file = อนุญาตให้ไฟล์นี้เปิดลิงก์ { $scheme } หรือไม่
+permission-dialog-description-host = อนุญาตให้ { $host } เปิดลิงก์ { $scheme } หรือไม่
+permission-dialog-description-app = อนุญาตให้ไซต์นี้เปิดลิงก์ { $scheme } ด้วย { $appName } หรือไม่
+permission-dialog-description-host-app = อนุญาตให้ { $host } เปิดลิงก์ { $scheme } ด้วย { $appName } หรือไม่
+permission-dialog-description-file-app = อนุญาตให้ไฟล์นี้เปิดลิงก์ { $scheme } ด้วย { $appName } หรือไม่
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+permission-dialog-remember = อนุญาตให้ <strong>{ $host }</strong> เปิดลิงก์ <strong>{ $scheme }</strong> เสมอ
+permission-dialog-remember-file = อนุญาตให้ไฟล์นี้เปิดลิงก์ <strong>{ $scheme }</strong> เสมอ
 
 ##
 
@@ -48,6 +53,13 @@ chooser-dialog =
     .buttonlabelaccept = เปิดลิงก์
     .buttonaccesskeyaccept = O
 chooser-dialog-description = เลือกแอปพลิเคชันเพื่อเปิดลิงก์ { $scheme }
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = ใช้แอปพลิเคชันนี้เพื่อเปิดลิงก์ <strong>{ $scheme }</strong> เสมอ
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในตัวเลือกของ { -brand-short-name }
+       *[other] คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในค่ากำหนดของ { -brand-short-name }
+    }
 choose-other-app-description = เลือกแอปพลิเคชันอื่น
 choose-app-btn =
     .label = เลือก…
