@@ -12,3 +12,5 @@ calendar-ics-file-accept-button-ok-label = Լաւ
 calendar-ics-file-dialog-message-2 = Ներմուծել նիշից
 calendar-ics-file-dialog-calendar-menu-label = Ներմուծել աւրացոյցի մէջ․
 calendar-ics-file-import-success = Յաջողութեամբ ներմուծուեց։
+calendar-ics-file-import-error = Սխալ տեղի ունեցաւ եւ ներմուծումը ձախողուեց։
+calendar-ics-file-dialog-no-calendars = Չկան աւրացոյցներ, որոնք կարող են ներմուծել իրադարձութիւններ կամ առաջադրանքներ։
