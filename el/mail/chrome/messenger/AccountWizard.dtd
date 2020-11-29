@@ -104,7 +104,7 @@
 
 <!-- Entities for Account name page -->
 
-<!ENTITY accnameTitle.label "Όνομα Λογαριασμού">
+<!ENTITY accnameTitle.label "Όνομα λογαριασμού">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Εισάγετε το όνομα με το οποίο θα αναγνωρίζετε αυτό το λογαριασμό (για παράδειγμα, &quot;Λογαριασμός εργασίας&quot;, &quot;Λογαριασμός οικίας&quot; ή &quot;Λογαριασμός ειδήσεων&quot;).">
 <!ENTITY accnameLabel.label "Όνομα λογαριασμού:">
