@@ -59,12 +59,16 @@ app-basics-enabled-plugins = Įjungti priedai
 app-basics-build-config = Darinio konfigūracija
 app-basics-user-agent = Naršyklės identifikacinė eilutė
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Interpretuota su „Rosetta“
 app-basics-memory-use = Atminties naudojimas
 app-basics-performance = Našumas
 app-basics-service-workers = Registruoti aptarnavimo scenarijai
 app-basics-profiles = Profiliai
 app-basics-launcher-process-status = Paleidimo procesas
 app-basics-multi-process-support = Daugiaprocesiai langai
+app-basics-fission-support = „Fission“ langai
 app-basics-remote-processes-count = Nuotoliniai procesai
 app-basics-enterprise-policies = Įmonės strategijos
 app-basics-location-service-key-google = „Google“ buvimo vietos nustatymo paslaugos raktas
@@ -331,6 +335,20 @@ multi-process-status-6 = Išjungta dėl nepalaikomos tekstinės įvesties
 multi-process-status-7 = Išjungta dėl priedų
 multi-process-status-8 = Išjungta priverstinai
 multi-process-status-unknown = Nežinoma būsena
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Išjungta dėl tyrimo
+fission-status-experiment-treatment = Įjungta dėl tyrimo
+fission-status-disabled-by-e10s-env = Išjungta dėl aplinkos
+fission-status-enabled-by-env = Įjungta dėl aplinkos
+fission-status-disabled-by-safe-mode = Išjungta dėl ribotosios veiksenos
+fission-status-enabled-by-default = Įjungta pagal numatymą
+fission-status-disabled-by-default = išjungta pagal numatymą
+fission-status-enabled-by-user-pref = Įjungta naudotojo
+fission-status-disabled-by-user-pref = išjungta naudotojo
+fission-status-disabled-by-e10s-other = E10s išjungta
 async-pan-zoom = Asinchroninis apžvelgimas/priartinimas
 apz-none = nėra
 wheel-enabled = įjungta įvestis ratuku
@@ -351,3 +369,12 @@ touch-warning = asinchroninė įvestis lietimu išjungta dėl nepalaikomos parin
 policies-inactive = Neaktyvūs
 policies-active = Aktyvūs
 policies-error = Klaida
+
+## Printing section
+
+support-printing-title = Spausdinimas
+support-printing-troubleshoot = Problemų sprendimas
+support-printing-clear-settings-button = Išvalyti įrašytas spausdinimo nuostatas
+support-printing-modified-settings = Pakeistos spausdinimo nuostatos
+support-printing-prefs-name = Pavadinimas
+support-printing-prefs-value = Reikšmė
