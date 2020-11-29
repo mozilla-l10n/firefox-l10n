@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Ներմուծել մեկ այլ զննարկիչից…
 about-logins-menu-menuitem-import-from-a-file = Ներմուծել նիշից…
 about-logins-menu-menuitem-export-logins = Դուրս բերել մուտքանունները
+about-logins-menu-menuitem-remove-all-logins = Հեռացնել բոլոր մտից անունները…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ընտրանքներ
@@ -168,6 +169,18 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողութիւնը չի կարող ետարկուել։
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
+about-logins-confirm-remove-all-dialog-confirm-button = Հեռացնել բոլորը
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Այո, հեռացնել այս մտից անունը
+        [one] Այո, հեռացնել այս մտից անունները
+       *[other] Այո, հեռացնել այս մտից անունները
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Հեռացնե՞լ { $count } մտից անունը:
+       *[other] Հեռացնե՞լ բոլոր { $count } մտից անունները:
+    }
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանուններն ու գաղտնաբառերը
 about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել ձեր նիշքերը, կը տեսնեն գաղտնաբառերը։
 about-logins-confirm-export-dialog-confirm-button = Արտահանել
