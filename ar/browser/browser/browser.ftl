@@ -309,6 +309,7 @@ identity-https-only-info-turn-off2 = إن شككت أن في الصفحة عطب
 identity-https-only-info-no-upgrade = تعذرت ترقية الاتصال من HTTP.
 identity-permissions =
     .value = التصاريح
+identity-permissions-storage-access-header = الكعكات بين المواقع
 identity-permissions-reload-hint = قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.
 identity-permissions-empty = لم تمنح هذا الموقع أي صلاحيات خاصة.
 identity-clear-site-data =
