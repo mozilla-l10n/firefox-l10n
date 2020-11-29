@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = มีการอัปเดต { -brand-shorter-name } ใหม่
+    .label = มีการอัปเดต { -brand-shorter-name } ใหม่ที่พร้อมให้ใช้งาน
     .buttonlabel = ดาวน์โหลดการอัปเดต
     .buttonaccesskey = ด
     .secondarybuttonlabel = ไม่ใช่ตอนนี้
@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = จัดการส่วนเสริ�
 appmenu-addon-post-install-incognito-checkbox =
     .label = อนุญาตให้ส่วนขยายนี้ทำงานในหน้าต่างส่วนตัว
     .accesskey = อ
-    
 appmenu-new-tab-controlled =
     .label = แท็บใหม่ของคุณมีการเปลี่ยนแปลง
     .buttonlabel = เก็บการเปลี่ยนแปลง
@@ -52,6 +51,18 @@ appmenu-homepage-controlled =
     .buttonaccesskey = ก
     .secondarybuttonlabel = ปิดใช้งานส่วนขยาย
     .secondarybuttonaccesskey = ป
+appmenu-new-tab-controlled-changes =
+    .label = แท็บใหม่ของคุณมีการเปลี่ยนแปลง
+    .buttonlabel = เก็บการเปลี่ยนแปลง
+    .buttonaccesskey = ก
+    .secondarybuttonlabel = จัดการแท็บใหม่
+    .secondarybuttonaccesskey = จ
+appmenu-homepage-controlled-changes =
+    .label = หน้าแรกของคุณมีการเปลี่ยนแปลง
+    .buttonlabel = เก็บการเปลี่ยนแปลง
+    .buttonaccesskey = ก
+    .secondarybuttonlabel = จัดการหน้าแรก
+    .secondarybuttonaccesskey = จ
 appmenu-tab-hide-controlled =
     .label = เข้าถึงแท็บที่ซ่อนอยู่ของคุณ
     .buttonlabel = ซ่อนแท็บต่อไป
