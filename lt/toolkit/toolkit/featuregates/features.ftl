@@ -35,6 +35,10 @@ experimental-features-web-api-link-preload-description = <a data-l10n-name="rel"
 experimental-features-css-focus-visible =
     .label = CSS: pseudoklasė: :focus-visible
 experimental-features-css-focus-visible-description = Leidžia „focus“ stiliams būtų taikomiems tokiems elementams, kaip mygtukai ir formų elementai tik tada, kai jie aktyvuojami naudojantis klaviatūra (pvz., pereinant tarp elementų su „Tab“), ir ne tada, kad jie aktyvuojami naudojantis pele ar kitu rodymo įrenginiu. Sužinoti daugiau galite skaitydami apie <a data-l10n-name="bugzilla">klaidą 1617600</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: „beforeinput“ įvykis
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Slapukai: SameSite=Lax (numatyta)

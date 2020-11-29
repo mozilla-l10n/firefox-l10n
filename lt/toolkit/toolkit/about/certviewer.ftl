@@ -81,8 +81,7 @@ certificate-viewer-authority-info-aia = Įstaigos informacija (AIA)
 certificate-viewer-certificate-policies = Liudijimo nuostatai
 certificate-viewer-embedded-scts = Įterptieji SCT
 certificate-viewer-crl-endpoints = CRL galiniai taškai
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Parsiųsti
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,12 +100,16 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Šis plėtinys buvo pažymėtas kaip kritinis, kas reiškia, kad klientai privalo atmesti liudijimą, jeigu jo nesupranta.
 certificate-viewer-export = Eksportuoti
     .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (nežinoma)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
