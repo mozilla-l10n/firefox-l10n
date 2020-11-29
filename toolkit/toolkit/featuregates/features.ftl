@@ -77,3 +77,11 @@ experimental-features-print-preview-tab-modal-description = Naudoja perdarytą s
 experimental-features-cookie-samesite-schemeful =
     .label = Slapukai: Schemeful SameSite
 experimental-features-cookie-samesite-schemeful-description = Laikyti slapukus iš to pačio domeno, tačiau su skirtingomis schemomis (pvz., http://example.com ir https://example.com), kaip tarp svetainių veikiančius (cross-site), o ne tos pačios svetainės (same-site).
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Programuotojų priemonės: aptarnavimo scenarijų (Service Worker) derinimas
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support-description = Įjungia eksperimentinį aptarnavimo scenarijų palaikymą derinimo polangyje. Šis funkcionalumas gali sulėtinti programuotojų priemonių veikimą ir padidinti atminties sunaudojimą.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = „WebRTC“ globalaus užtildymo valdymas
