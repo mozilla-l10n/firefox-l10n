@@ -2,6 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+calendar-title = Աւրացոյց
+calendar-title-reminder = Յիշեցումներ
+calendar-title-category = Անուանակարգեր
+dateformat-label =
+    .value = Ամսաթուի գրոյթի ձեւաչափ
+    .accesskey = D
+#   $date (String) - the formatted example date
+dateformat-long =
+    .label = Երկար{ $date }
+#   $date (String) - the formatted example date
+dateformat-short =
+    .label = Կարճ{ $date }
 timezone-label =
     .value = Ժամային գոտի
 day-1-name =
@@ -41,3 +53,23 @@ day-6-checkbox =
 day-7-checkbox =
     .label = Շաբ
     .accesskey = a
+dayweek-legend = Աւրերի եւ շաբաթների տեսք
+visible-hours-end-label =
+    .value = ժամերը միաժամանակ
+day-start-label =
+    .value = Աւրը սկսուում է
+    .accesskey =
+        Աւ
+        D
+        D
+day-end-label =
+    .value = Աւրն ւարտուում է
+    .accesskey = ն
+midnight-label =
+    .label = Կէսգիշեր
+noon-label =
+    .label = Կէսաւր
+location-checkbox =
+    .label = Ցուցադրել հասցէն
+    .accesskey = Հ
+multiweek-legend = Բազմաշաբաթեայ տեսք
