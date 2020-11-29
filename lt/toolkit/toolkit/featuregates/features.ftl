@@ -49,6 +49,13 @@ experimental-features-css-constructable-stylesheets =
 experimental-features-css-constructable-stylesheets-description = Konstruktoriaus pridėjimas į <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> sąsają, kartu su įvairiais susijusiais pakeitimais, leidžia tiesiogiai kurti naujus stilių aprašus nepridedant jų į HTML. Tai leidžia žymiai paprasčiau kurti daugkartinio naudojimo stilių aprašus, skirtus naudojimui su <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Sužinoti daugiau galite skaitydami apie <a data-l10n-name="bugzilla">klaidą 1520690</a>.
 experimental-features-devtools-color-scheme-simulation =
     .label = Programuotojų priemonės: spalvų schemų simuliacija
+experimental-features-devtools-color-scheme-simulation-description = Prideda galimybę simuliuoti skirtingas spalvų schemas, leidžiančią išbandyti <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> @media taisykles. Naudojant šią @media taisyklę, stilių aprašai gali reaguoti į naudotojo pasirinkimą dėl šviesios ar tamsios sąsajos. Tai leidžia testuoti jūsų kodą nedarant pakeitimų naršyklėje (arba operacinėje sistemoje, jei naršyklė atsižvelgia į sistemos spalvinės schemos nuostatas). Sužinoti daugiau galite skaitydami apie <a data-l10n-name="bugzilla1">klaidą 1550804</a>, ir <a data-l10n-name="bugzilla2">klaidą 1137699</a>.
+experimental-features-devtools-execution-context-selector =
+    .label = Programuotojų priemonės: vykdymo konteksto pasirinkimas
+experimental-features-devtools-execution-context-selector-description = Ši funkcija rodo mygtuką naršyklės pulto komandinėje eilutėje, kuris leidžia pakeisti rašomos išraiškos vykdymo kontekstą. Sužinoti daugiau galite skaitydami apie <a data-l10n-name="bugzilla1">klaidą 1605154</a>, ir <a data-l10n-name="bugzilla2">klaidą 1605153</a>.
+experimental-features-devtools-compatibility-panel =
+    .label = Programuotojų priemonės: suderinamumo polangis
+experimental-features-devtools-compatibility-panel-description = Šoninis polangis tinklalapio tyrikliui, kuris rodo detalią informaciją apie svetainės suderinamumą su įvairiomis naršyklėmis. Sužinoti daugiau galite skaidydami apie <a data-l10n-name="bugzilla">klaidą 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Slapukai: SameSite=Lax (numatyta)
