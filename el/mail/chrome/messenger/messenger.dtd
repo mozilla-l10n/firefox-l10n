@@ -642,7 +642,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Λήψη μηνυμάτων">
 <!ENTITY folderContextGetMessages.accesskey "Λ">
-<!ENTITY folderContextMarkAllFoldersRead.label "Να σημειωθούν όλοι οι φάκελοι ως αναγνωσμένοι">
+<!ENTITY folderContextMarkAllFoldersRead.label "Επισήμανση όλων των φακέλων ως αναγνωσμένων">
 <!ENTITY folderContextPauseAllUpdates.label "Παύση όλων των ενημερώσεων">
 <!ENTITY folderContextPauseUpdates.label "Παύση ενημερώσεων">
 <!ENTITY folderContextPauseUpdates.accesskey "Ε">
