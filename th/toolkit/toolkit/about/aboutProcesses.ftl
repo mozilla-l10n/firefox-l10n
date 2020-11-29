@@ -2,9 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = ตัวจัดการกระบวนการ
+# The Actions column
+about-processes-column-action =
+    .title = การกระทำ
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = เลิกโหลดแท็บและหยุดการทำงานของกระบวนการ
+about-processes-shutdown-tab =
+    .title = ปิดแท็บ
 
 ## Column headers
 
@@ -18,6 +27,21 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (กระบวนการ { $pid })
+about-processes-web-process-name = เว็บ (กระบวนการ { $pid }, ใช้ร่วมกัน)
+about-processes-web-isolated-process-name = เว็บ (กระบวนการ { $pid }) สำหรับ { $origin }
+about-processes-web-large-allocation = เว็บ (กระบวนการ { $pid }, ขนาดใหญ่) สำหรับ { $origin }
+about-processes-with-coop-coep-process-name = เว็บ (กระบวนการ { $pid }, แยกแบบข้ามที่มา) สำหรับ { $origin }
+about-processes-file-process-name = ไฟล์ (กระบวนการ { $pid })
+about-processes-extension-process-name = ส่วนขยาย (กระบวนการ { $pid })
+about-processes-privilegedabout-process-name = เกี่ยวกับ (กระบวนการ { $pid })
+about-processes-plugin-process-name = ปลั๊กอิน (กระบวนการ { $pid })
+about-processes-privilegedmozilla-process-name = เว็บ (กระบวนการ { $pid }) สำหรับไซต์ { -vendor-short-name }
+about-processes-gmp-plugin-process-name = ปลั๊กอินสื่อของ Gecko (กระบวนการ { $pid })
+about-processes-gpu-process-name = GPU (กระบวนการ { $pid })
+about-processes-vr-process-name = VR (กระบวนการ { $pid })
+about-processes-rdd-process-name = ตัวถอดรหัสข้อมูล (กระบวนการ { $pid })
+about-processes-socket-process-name = เครือข่าย (กระบวนการ { $pid })
 
 ## Details within processes
 
