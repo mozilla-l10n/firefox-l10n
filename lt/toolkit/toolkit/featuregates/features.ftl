@@ -85,3 +85,11 @@ experimental-features-devtools-serviceworker-debugger-support-description = Įju
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = „WebRTC“ globalaus užtildymo valdymas
+experimental-features-webrtc-global-mute-toggles-description = Pridėti valdymo mygtukus į „WebRTC“ globalaus dalinimosi indikatorių, kuris leidžia naudotojui globaliai užtildyti savo mikrofoną ir kamerą.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Įjungti „Warp“, projektą, kuris pagerina „JavaScript“ našumą ir atminties sunaudojimą.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (svetainių izoliavimas)
