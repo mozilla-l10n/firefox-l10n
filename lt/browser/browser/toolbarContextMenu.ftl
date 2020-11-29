@@ -62,3 +62,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Tik naujoje kortelėje
     .accesskey = o
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Rodyti kitus adresyno įrašus
+    .accesskey = d
