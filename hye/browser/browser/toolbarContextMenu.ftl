@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Միայն նոր ներդիրում
     .accesskey = Մ
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Ցուցադրել այլ էջանիշեր
+    .accesskey = ո

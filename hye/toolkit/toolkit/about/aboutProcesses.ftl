@@ -115,6 +115,7 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 ## Duration units
 
 duration-unit-ns = նվ
+duration-unit-us = մկվ
 duration-unit-ms = մվ
 duration-unit-s = վ
 duration-unit-m = ր
