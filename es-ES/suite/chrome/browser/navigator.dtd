@@ -39,7 +39,6 @@
 <!ENTITY goButton.tooltip "Escriba una dirección en el campo de la izquierda, y pulse Ir">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
-<!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
 <!ENTITY locationBar.tooltip "Introduzca el término, palabra clave o página web que desea buscar">
 <!ENTITY locationBar.accesskey "d">
 <!ENTITY locationBar.title "Dirección">

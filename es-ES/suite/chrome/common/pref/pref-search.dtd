@@ -12,5 +12,3 @@
 <!ENTITY openInTab.accesskey "A">
 <!ENTITY openContextSearchTab.label "Abrir una pestaña en lugar de una ventana al buscar con el menú contextual">
 <!ENTITY openContextSearchTab.accesskey "b">
-<!ENTITY openSidebarSearchPanel.label "Abrir la pestaña Búsqueda en el panel lateral cuando se realiza una búsqueda">
-<!ENTITY openSidebarSearchPanel.accesskey "e">

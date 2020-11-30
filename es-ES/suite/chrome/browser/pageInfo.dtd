@@ -55,8 +55,6 @@
 <!ENTITY linkAccessKey "Tecla de acceso rápido">
 <!ENTITY mediaTab "Medios">
 <!ENTITY mediaTab.accesskey "M">
-<!ENTITY mediaURL "Dirección:">
-<!ENTITY mediaAlt "Texto alternativo:">
 <!ENTITY mediaLocation "Dirección:">
 <!ENTITY mediaText "Texto asociado:">
 <!ENTITY mediaAltHeader "Texto alternativo">
@@ -64,9 +62,6 @@
 <!ENTITY mediaType "Tipo">
 <!ENTITY mediaSize "Tamaño">
 <!ENTITY mediaCount "Cuenta">
-<!ENTITY mediaDimensions "Dimensiones especificadas:">
-<!ENTITY mediaPhysDimensions "Dimensiones reales:">
-<!ENTITY mediaTitle "Título:">
 <!ENTITY mediaDimension "Dimensiones:">
 <!ENTITY mediaLongdesc "Descripción larga:">
 <!ENTITY mediaBlockImage.accesskey "B">
@@ -80,18 +75,7 @@
 <!ENTITY feedSubscribe.accesskey "u">
 <!ENTITY permTab "Permisos">
 <!ENTITY permTab.accesskey "P">
-<!ENTITY permUseDefault "Usar valores preterminados">
-<!ENTITY permAskAlways "Preguntar siempre">
-<!ENTITY permAllow "Permitir">
-<!ENTITY permAllowSession "Permitir durante la sesión">
-<!ENTITY permBlock "Bloquear">
 <!ENTITY permissionsFor "Permisos para:">
-<!ENTITY permImage "Cargar imágenes">
-<!ENTITY permPopup "Abrir ventanas emergentes">
-<!ENTITY permCookie "Establecer cookies">
-<!ENTITY permNotifications "Mostrar notificaciones">
-<!ENTITY permInstall "Instalar extensiones o temas">
-<!ENTITY permGeo "Compartir ubicación">
 <!ENTITY securityTab "Seguridad">
 <!ENTITY securityTab.accesskey "S">
 <!ENTITY securityHeader "Información de seguridad para esta página">

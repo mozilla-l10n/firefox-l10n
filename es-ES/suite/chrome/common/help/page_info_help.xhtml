@@ -27,7 +27,7 @@
   corresponde con la información que desea ver.</p>
 
   <p>La mayor parte de la información mostrada por las pestañas
-  General, Formularios, Enlaces y Medios está tomada del código
+  General, Medios, Formularios y Enlaces está tomada del código
   de la página HTML. Esta información normalmente es de
   interés únicamente para desarrolladores de páginas web y
   otros especialistas.</p>
@@ -40,10 +40,9 @@
   <div class="contentsBox">En esta sección:
     <ul>
       <li><a href="#general_tab">pestaña General</a></li>
+      <li><a href="#media_tab">pestaña Medios</a></li>
       <li><a href="#forms_tab">pestaña Formularios</a></li>
       <li><a href="#links_tab">pestaña Enlaces</a></li>
-      <li><a href="#media_tab">pestaña Medios</a></li>
-      <li><a href="#privacy_tab">pestaña Privacidad</a></li>
       <li><a href="#security_tab">pestaña Seguridad</a></li>
     </ul>
   </div>
@@ -55,15 +54,17 @@
   pestaña General muestra información básica sobre la
   página que está viendo en el navegador.</p>
 
-  <p>En la parte superior se muestra el nombre de la página (si lo
-  tiene) y la siguiente información:</p>
+  <p>En la parte superior se muestra la siguiente información:</p>
 
   <ul>
-    <li><strong>URL</strong>: la <a href=
+    <li><strong>Title</strong>: el nombre de la página (si tiene uno).</li>
+    <li><strong>Dirección</strong>: la <a href=
     "glossary.xhtml#url">URL (Uniform Resource
     Locator)</a> de la página&mdash;esto es, la dirección
     estándar que aparece en la barra de dirección en la parte
     superior de la ventana de navegación.</li>
+    <li><strong>Tipo</strong>: el tipo de documento de la página (normalmente
+    text/html para las páginas web).</li>
     <li><strong>Modo de representación</strong>: indica si el navegador
     está usando el <strong>modo compatible</strong> o el<strong>modo
     ajustado al estándar</strong> para componer la página. El
@@ -74,23 +75,54 @@
     las especificaciones estándar. Su navegador elige el modo de
     representación automáticamente de acuerdo a la
     información contenida en la propia página web.</li>
-    <li><strong>Origen</strong>: indica si el código fuente de esta
-    página ha sido almacenado en caché.</li>
     <li><strong>Codificación de texto</strong>: la codificación de
     texto usada en el documento HTML.</li>
     <li><strong>Tamaño</strong>: el tamaño del fichero, si
     está disponible.</li>
+    <li><strong>URL de procedencia</strong>: la dirección desde la cual
+    se ha llegado a la página actual, si está disponible.</li>
     <li><strong>Modificado</strong>: la fecha de la última
     modificación de la página, si está disponible.</li>
-    <li><strong>Caduca</strong>: la fecha en la que caduca la
-    información mostrada por la página.</li>
   </ul>
 
-  <p>La parte inferior muestra las meta-etiquetas especificadas por la
+  <p>La parte <i>Meta</i> muestra las meta-etiquetas especificadas por la
   página. Las meta-etiquetas proveen de información sobre el
   contenido mostrado por una página, como una descripción general
   de la página, palabras clave para motores de búsqueda,
   información de copyright, y otras.</p>
+
+  <p>La parte <i>Información de seguridad para esta página</i> contiene
+  información de seguridad concerniente a la propiedad y el cifrado. Hay
+  más detalles disponibles en la <a href="#security_tab">Pestaña
+  Seguridad</a>.</p>
+
+  <h2 id="media_tab">Medios (pestaña de información de
+  página)</h2>
+
+  <p>Cuando elige Información de página del menú Ver, y
+  pulsa la pestaña Medios usted ve una lista de todas las
+  imágenes y otros medios mostrados en la página.</p>
+
+  <p>La parte superior muestra información sobre cada elemento,
+  incluyendo su dirección (<a href=
+  "glossary.xhtml#url">URL</a>) y tipo.</p>
+
+  <p>Cuando selecciona un elemento mostrado en la parte superior de la
+  pestaña Medios, la parte central muestra información sobre ese
+  elemento, como la descripción, tamaño o dimensiones.</p>
+
+  <p>También puede ver el elemento seleccionado en la parte inferior del
+  cuadro de diálogo. Para ver imágenes más grandes,
+  necesita pulsar sobre la esquina inferior derecha del recuadro de
+  diálogo de Información de página y arrastrar.</p>
+
+  <p>Para grabar un medio como un fichero separado:</p>
+
+  <ul>
+    <li><strong>Guardar como</strong>: seleccione el elemento que desea
+    guardar, pulse guardar como, y navegue hasta el lugar donde desea
+    guardarlo.</li>
+  </ul>
 
   <h2 id="forms_tab">Formularios (pestaña de información de
   página)</h2>
@@ -151,76 +183,6 @@
       en un sitio específico de un documento HTML) o envío de
       formulario.</li>
   </ul>
-
-  <h2 id="media_tab">Medios (pestaña de información de
-  página)</h2>
-
-  <p>Cuando elige Información de página del menú Ver, y
-  pulsa la pestaña Medios usted ve una lista de todas las
-  imágenes y otros medios mostrados en la página.</p>
-
-  <p>La parte superior muestra información sobre cada elemento,
-  incluyendo su dirección (<a href=
-  "glossary.xhtml#url">URL</a>) y tipo.</p>
-
-  <p>Cuando selecciona un elemento mostrado en la parte superior de la
-  pestaña Medios, la parte central muestra información sobre ese
-  elemento, como la descripción, tamaño o dimensiones.</p>
-
-  <p>También puede ver el elemento seleccionado en la parte inferior del
-  cuadro de diálogo. Para ver imágenes más grandes,
-  necesita pulsar sobre la esquina inferior derecha del recuadro de
-  diálogo de Información de página y arrastrar.</p>
-
-  <p>Para grabar un medio como un fichero separado:</p>
-
-  <ul>
-    <li><strong>Guardar como</strong>: seleccione el elemento que desea
-    guardar, pulse guardar como, y navegue hasta el lugar donde desea
-    guardarlo.</li>
-  </ul>
-
-<h2 id="privacy_tab">Privacidad (pestaña de información de
-  página)</h2>
-
-<p>Cuando escoge Información de página del menú Ver y
-  pulsa la pestaña Privacidad, ve una lista de todos los elementos
-  especiales que son parte de la página.</p>
-
-<ul>
-  <li><strong>Componentes de la página</strong>: bajo la URL de la
-    página, hay muchas categorías. Para ver una lista de
-    elementos en cualquier categoría, haga doble clic en el nombre:
-    <ul>
-      <li><strong>Enlaces</strong>: muestra todos los enlaces.</li>
-      <li><strong>Applets de Java</strong>: lista todos los applets
-        (subprogramas) de Java (si hay alguno).</li>
-      <li><strong>Mapas de imágenes</strong>: muestra todos los mapas
-        de imagen.</li>
-      <li><strong>Envíos de formularios</strong>: lista los nombres de
-        script usados para transmitir los datos usados en la página.</li>
-      <li><strong>Marcos</strong>: muestra los marcos que componen la
-        página.</li>
-      <li><strong>Imágenes</strong>: muestra todas las imágenes usadas en la
-        página.</li>
-      <li><strong>Documentos cargados externamente</strong>: contiene la lista
-        de los documentos externos cargados para mostrar la página (tales como
-        archivos CSS o imágenes).</li>
-      <li><strong>Objetos genéricos</strong>: muestra una lista de
-        objetos genéricos.</li>
-      <li><strong>Scripts</strong>: lista todos los scripts (pequeños
-        subprogramas, generalmente en JavaScript) de la página.</li>
-    </ul>
-  </li>
-  <li><strong>Política</strong>: este botón intentará abrir el archivo de
-    política del sitio web cuya página se está mostrando en este momento.</li>
-  <li><strong>Sumario</strong>: seleccione esto si quiere acceder al visor de
-    política de privacidad, que muestra datos concisos sobre la política de
-    privacidad del sitio web por el que está navegando.</li>
-  <li><strong>Opciones</strong>: esto intentará abrir la página del sitio web
-    remoto que permite al usuario modificar sus datos personales guardados en
-    ese sitio web.</li>
-</ul>
 
 <h2 id="security_tab">Seguridad (pestaña de información de
   página)</h2>
