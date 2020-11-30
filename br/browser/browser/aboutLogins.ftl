@@ -182,6 +182,14 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [many] Ya, dilemel an titouroù kennaskañ-mañ
        *[other] Ya, dilemel an titouroù kennaskañ-mañ
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Dilemel { $count } titour kennaskañ?
+        [two] Dilemel { $count } ditour kennaskañ?
+        [few] Dilemel { $count } zitour kennaskañ?
+        [many] Dilemel { $count } a ditouroù kennaskañ?
+       *[other] Dilemel { $count } titour kennaskañ?
+    }
 about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
 about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c'hallo bezañ lennet gant an holl a c'hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…

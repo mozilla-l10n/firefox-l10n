@@ -455,6 +455,7 @@ urlbar-result-action-search-in-private = Klask en ur prenestr prevez
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Klask gant { $engine }
+urlbar-result-action-sponsored = Paeronet
 urlbar-result-action-switch-tab = Mont d'an ivinell
 urlbar-result-action-visit = Gweladenniñ
 

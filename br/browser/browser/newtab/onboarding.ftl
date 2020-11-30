@@ -89,10 +89,19 @@ onboarding-benefit-lockwise-text = Merit gerioù-tremen gwarezet hag hezoug.
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Dispar, { -brand-short-name } a zo ganeoc’h
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Staliomp <img data-l10n-name="icon"/> <b>{ $addon-name }</b> bremañ.
 return-to-amo-add-extension-label = Ouzhpennañ an askouezh
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Degemer mat e <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-label = Kennaskañ
 onboarding-multistage-welcome-secondary-button-text = Ur gont a zo ganeoc'h?
 onboarding-multistage-import-secondary-button-label = Ket bremañ
