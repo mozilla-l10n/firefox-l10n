@@ -12,45 +12,55 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = Ka trôk neuteuka bak { -brand-short-name }
-
 onboarding-start-browsing-button-label = Mulai Seumeulop
-
 onboarding-cards-dismiss =
     .title = Peudong
     .aria-label = Peudong
 
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
 ## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name } Kajeuet Neuba Sajan
 onboarding-sync-welcome-content = Neucôk bookmark droen, history, lageum rahsia dan neuatô laén nibak mandum peukakah droen.
 onboarding-sync-welcome-learn-more-link = Meurunoë lom bhah Akun Firefox
-
 onboarding-sync-form-input =
     .placeholder = Surel
-
 onboarding-sync-form-continue-button = Cahdan
 onboarding-sync-form-skip-login-button = Pinah ilé
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Neupasoe email droen
-onboarding-sync-form-sub-header = sambông nibak Peuakô Firefox
-
+onboarding-sync-form-sub-header = lanjut u { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
+
+
+## Custom Return To AMO onboarding strings
+
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
 
 
 ## These strings belong to the individual onboarding messages.
