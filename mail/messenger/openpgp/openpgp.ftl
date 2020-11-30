@@ -106,10 +106,49 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = 공개 키를 클립 보드로 복사
     .accesskey = C
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+           *[other] 키 ID를 클립 보드로 복사
+        }
+    .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+           *[other] 지문을 클립 보드로 복사
+        }
+    .accesskey = F
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+           *[other] 공개키를 클립 보드로 복사
+        }
+    .accesskey = P
 openpgp-key-man-ctx-expor-to-file-label =
     .label = 파일로 키 내보내기
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = 공개 키를 클립 보드로 복사
+openpgp-key-man-ctx-copy =
+    .label = 복사
+    .accesskey = C
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+           *[other] 지문
+        }
+    .accesskey = F
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+           *[other] 키 ID
+        }
+    .accesskey = K
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+           *[other] 공개키
+        }
+    .accesskey = P
 openpgp-key-man-close =
     .label = 닫기
 openpgp-key-man-reload =
@@ -495,7 +534,9 @@ key-man-button-generate-key = 키 생성
 key-abort = 키 생성을 중단 하시겠습니까?
 key-man-button-generate-key-abort = 키 생성 중단
 key-man-button-generate-key-continue = 키 생성 계속
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = 오류- 복호화 실패
 fix-broken-exchange-msg-failed = 메시지를 복구하지 못했습니다.
 attachment-no-match-from-signature = 서명 파일 '{ $attachment }'를 첨부 파일과 일치시킬 수 없음
