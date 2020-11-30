@@ -80,7 +80,6 @@
 <!ENTITY newIM.tooltip "Enviar un mensaje o conversación instantáneos">
 <!ENTITY printButton.tooltip "Imprimir elemento seleccionado">
 <!ENTITY deleteItemButton.tooltip "Eliminar elemento seleccionado">
-<!ENTITY throbber.tooltip "Ir a la página principal de &vendorShortName;">
 <!ENTITY advancedButton.tooltip "Búsqueda avanzada de direcciones">
 <!ENTITY dirTreeHeader.label "Libretas de direcciones">
 <!ENTITY contact.heading "Contacto">

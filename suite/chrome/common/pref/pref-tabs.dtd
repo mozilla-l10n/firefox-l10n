@@ -12,11 +12,6 @@
 <!ENTITY warnOnClose.accesskey "c">
 <!ENTITY relatedAfterCurrent.label "Abrir pestañas relacionadas tras la pestaña actual">
 <!ENTITY relatedAfterCurrent.accesskey "b">
-<!ENTITY loadGroup.label "Al abrir un grupo de pestañas">
-<!ENTITY loadGroupAppend.label "Añadir pestañas">
-<!ENTITY loadGroupAppend.accesskey "A">
-<!ENTITY loadGroupReplace.label "Reemplazar pestañas existentes">
-<!ENTITY loadGroupReplace.accesskey "R">
 <!ENTITY openTabs.label "Abrir pestañas en vez de ventanas cuando:">
 <!ENTITY middleClick.label "Clic con el botón central, Ctrl+clic o Ctrl+Enter en enlaces en una página web">
 <!ENTITY middleClick.accesskey "n">

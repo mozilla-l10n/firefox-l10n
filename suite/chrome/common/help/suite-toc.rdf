@@ -126,11 +126,11 @@
   <rdf:Description about="#nav-page-info">
     <nc:subheadings>
       <rdf:Seq>
-        <rdf:li> <rdf:Description ID="pageinfo_general" nc:name="General (pestaña de información de  página)" nc:link="page_info_help.xhtml#general_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="pageinfo_forms" nc:name="Formularios (pestaña de información de  página)" nc:link="page_info_help.xhtml#forms_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="pageinfo_links" nc:name="Enlaces (pestaña de información de  página)" nc:link="page_info_help.xhtml#links_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="pageinfo_media" nc:name="Medios (pestaña de información de  página)" nc:link="page_info_help.xhtml#media_tab"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="pageinfo_security" nc:name="Seguridad (pestaña de información de  página)" nc:link="page_info_help.xhtml#security_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_general" nc:name="General (pestaña de información de página)" nc:link="page_info_help.xhtml#general_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_media" nc:name="Medios (pestaña de información de página)" nc:link="page_info_help.xhtml#media_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_forms" nc:name="Formularios (pestaña de información de página)" nc:link="page_info_help.xhtml#forms_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_links" nc:name="Enlaces (pestaña de información de página)" nc:link="page_info_help.xhtml#links_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="pageinfo_security" nc:name="Seguridad (pestaña de información de página)" nc:link="page_info_help.xhtml#security_tab"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>

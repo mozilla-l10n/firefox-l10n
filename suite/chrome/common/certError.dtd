@@ -4,8 +4,6 @@
 
 <!ENTITY certerror.pagetitle "Conexión no confiable">
 <!ENTITY certerror.longpagetitle "No se confía en esta conexión">
-<!ENTITY certerror.introPara1 "Ha pedido a &brandShortName; que se conecte de manera segura a
-<b>#1</b>, pero no podemos confirmar que su conexión sea segura.">
 <!ENTITY certerror.introPara1a "Ha pedido a &brandShortName; que se conecte de manera segura a <span class='hostname' />, pero no podemos confirmar que su conexión sea segura.">
 <!ENTITY certerror.introPara2 "Normalmente, cuando intenta conectar de manera segura, los sitios web
 presentarán una identificación confiable para demostrar que está visitando

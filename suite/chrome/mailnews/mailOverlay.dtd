@@ -7,5 +7,3 @@
 <!ENTITY newMessageCmd.accesskey "m">
 <!ENTITY newContactCmd.label "Contacto…">
 <!ENTITY newContactCmd.accesskey "C">
-<!ENTITY printButton.label "Imprimir">
-<!ENTITY printButton.tooltip "Imprimir este mensaje">
