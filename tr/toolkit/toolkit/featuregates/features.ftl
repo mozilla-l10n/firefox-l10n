@@ -14,6 +14,7 @@ experimental-features-web-gpu2 =
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+experimental-features-media-avif-description = Bu özellik etkinleştirildiğinde { -brand-short-name } AV1 Görüntü Dosyası (AVIF) biçimini destekler. AVIF, görüntü boyutunu küçültmek için AV1 video sıkıştırma algoritmalarının yeteneklerinden yararlanan hareketsiz bir görüntü dosyası biçimidir. Ayrıntılar için <a data-l10n-name="bugzilla">bug 1443863</a>'e bakabilirsiniz.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-inputmode =
@@ -75,3 +76,4 @@ experimental-features-fission =
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Çoklu Görüntü İçinde Görüntü Desteği
+experimental-features-multi-pip-description = Birden çok görüntü içinde görüntü penceresinin aynı anda açılmasını sağlamak için deneysel destek.
