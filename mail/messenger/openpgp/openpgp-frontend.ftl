@@ -27,6 +27,7 @@ openpgp-missing-signature-key = 이 메시지는 아직 가지고 있지 않은 
 openpgp-search-signature-key =
     .label = 찾기…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = MS-Exchange에 의해 손상되었지만 로컬 파일에서 열려서 복구 할 수 없어 보이는 OpenPGP 메시지 입니다. 메일 폴더에 메시지를 복사해 넣어서 자동 복구를 시도하세요.
 openpgp-broken-exchange-info = MS-Exchange에 의해 손상된 것으로 보이는 OpenPGP 메시지입니다. 메시지 내용이 예상대로 표시되지 않으면 자동 복구를 시도 할 수 있습니다.
 openpgp-broken-exchange-repair =
     .label = 메시지 복구
