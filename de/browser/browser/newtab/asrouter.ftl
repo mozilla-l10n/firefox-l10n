@@ -276,3 +276,8 @@ cfr-whatsnew-clear-cookies-image-alt = Illustration für blockierten Cookie
 cfr-whatsnew-media-keys-header = Mehr Mediensteuerung
 cfr-whatsnew-media-keys-body = Spielen Sie Audio oder Video direkt von Ihrer Tastatur oder Ihrem Headset ab und halten Sie sie an. So können Sie Medien ganz einfach aus einem anderen Tab, einem anderen Programm oder sogar bei gesperrtem Computer steuern. Sie können auch mit der Vorwärts- und der Rückwärts-Taste zwischen den Liedern wechseln.
 cfr-whatsnew-media-keys-button = Weitere Informationen
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Suchmaschinen-Schlüsselwörter in der Adressleiste
+cfr-whatsnew-search-shortcuts-body = Wenn Sie nun eine Suchmaschine oder eine bestimmte Website in die Adressleiste eingeben, wird in den Suchvorschlägen unten ein blaues Schlüsselwort angezeigt. Wählen Sie dieses Schlüsselwort aus, um Ihre Suche direkt in der Adressleiste abzuschließen.
