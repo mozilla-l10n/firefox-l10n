@@ -167,6 +167,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = 常用网站
 newtab-section-header-highlights = 集锦
+newtab-section-header-recent-activity = 近期动态
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } 推荐
