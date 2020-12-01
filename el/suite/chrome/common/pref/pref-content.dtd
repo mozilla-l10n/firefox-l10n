@@ -28,6 +28,9 @@
 <!ENTITY maxZoom.accesskey                      "ω">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "Προεπιλεγμένο ζουμ">
+<!ENTITY defaultZoom.accesskey                  "Π">
+
 
 <!ENTITY allowHWAccel.label                     "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey                 "ρ">
