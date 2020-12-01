@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = 상위 사이트
 newtab-section-header-highlights = 하이라이트
+newtab-section-header-recent-activity = 최근 활동
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } 추천
