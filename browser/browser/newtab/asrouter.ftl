@@ -262,8 +262,6 @@ cfr-doorhanger-fission-primary-button = Rendben, értem
     .accesskey = R
 cfr-doorhanger-fission-secondary-button = További tudnivalók
     .accesskey = T
-# Deprecated
-cfr-doorhanger-fission-body = A { -brand-short-name } engedélyezte Önnek a Fission (oldalak elkülönítése) kísérleti funkció használatát. Azáltal, hogy az egyes webhelyeket külön folyamatba különíti el, a Fission további biztonsági réteget nyújt Önnek és a felkeresett webhelyeknek.
 
 ## What's new: Cookies message
 
@@ -276,3 +274,7 @@ cfr-whatsnew-clear-cookies-image-alt = Sütiblokkolási illusztráció
 cfr-whatsnew-media-keys-header = További médiavezérlők
 cfr-whatsnew-media-keys-body = Lejátszhatja és szüneteltetheti a hangot vagy a videót közvetlenül a billentyűzetről vagy a fejhallgatóról, megkönnyítve ezzel a média vezérlését egy másik lapról, programból vagy akár akkor is, ha a számítógép zárolt. A számok között az előre és a vissza gombokkal válthat.
 cfr-whatsnew-media-keys-button = Tudja meg, hogyan
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Gyors keresések a címsávban
