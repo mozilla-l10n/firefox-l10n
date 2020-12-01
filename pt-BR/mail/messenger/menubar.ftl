@@ -8,3 +8,12 @@
 menu-view-charset =
     .label = Codificação de texto
     .accesskey = C
+
+## Mail Toolbar
+
+toolbar-delete-button =
+    .label = Excluir
+    .tooltiptext = Excluir pasta ou mensagens selecionadas
+toolbar-undelete-button =
+    .label = Restaurar
+    .tooltiptext = Restaurar mensagens selecionadas
