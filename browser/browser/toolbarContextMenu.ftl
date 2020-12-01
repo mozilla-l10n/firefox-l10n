@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Nur bei neuem Tab
     .accesskey = u
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Weitere Lesezeichen anzeigen
+    .accesskey = e

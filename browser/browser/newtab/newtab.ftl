@@ -171,7 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Wichtige Seiten
 newtab-section-header-highlights = Überblick
-newtab-section-header-recent-activity = Jüngste Aktivität
+newtab-section-header-recent-activity = Neueste Aktivität
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Empfohlen von { $provider }
