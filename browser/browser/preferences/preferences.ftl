@@ -647,6 +647,8 @@ home-prefs-recommended-by-option-sponsored-stories =
 
 home-prefs-highlights-header =
     .label = In evidenza
+home-prefs-recent-activity-header =
+    .label = Attività recente
 home-prefs-highlights-description = Una selezione di siti che hai salvato o visitato in precedenza
 home-prefs-highlights-option-visited-pages =
     .label = Pagine visitate
