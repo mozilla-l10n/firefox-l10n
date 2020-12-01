@@ -13,10 +13,10 @@ menu-view-charset =
 
 toolbar-junk-button =
     .label = Sbwriel
-    .tooltiptext = Nodi'r negeseuon hyn fel sbwriel
+    .tooltiptext = Marcio'r negeseuon hyn fel sbwriel
 toolbar-not-junk-button =
     .label = Nid Sbwriel
-    .tooltiptext = Nodi'r negeseuon hyn fel nid sbwriel
+    .tooltiptext = Marcio'r negeseuon hyn fel nid sbwriel
 toolbar-delete-button =
     .label = Dileu
     .tooltiptext = Dileu'r negeseuon neu ffolderi hyn
