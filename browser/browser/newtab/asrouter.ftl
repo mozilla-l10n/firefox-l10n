@@ -265,3 +265,8 @@ cfr-whatsnew-clear-cookies-image-alt = 拦截 Cookie 图示
 cfr-whatsnew-media-keys-header = 更多媒体控制
 cfr-whatsnew-media-keys-body = 直接用键盘或耳机播放/暂停音视频，从而可以轻松地在其他标签页及别的程序，甚至在计算机锁定时控制媒体。您也可以使用前进和后退键调整进度条。
 cfr-whatsnew-media-keys-button = 了解如何操作
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = 在地址栏搜索快捷方式
+cfr-whatsnew-search-shortcuts-body = 现在起，当您在地址栏输入搜索引擎或特定网址时，下方搜索建议中将会显示一个蓝色快捷方式。选择它即可直接从地址栏完成搜索。
