@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Skoazeller Enporzhiañ">
 
-<!ENTITY importFrom.label               "Enporzhiañ an dibarzhioù, sinedoù, roll istor, gerioù-tremen ha roadennoù all adalek :">
-<!ENTITY importFromUnix.label           "Enporzhiañ an dibaboù gwellañ, sinedoù, roll istor, gerioù-tremen ha roadennoù all diouzh :">
+<!ENTITY importFrom.label               "Enporzhiañ an dibarzhioù, sinedoù, roll istor, gerioù-tremen ha roadennoù all adalek:">
+<!ENTITY importFromUnix.label           "Enporzhiañ an dibaboù gwellañ, sinedoù, roll istor, gerioù-tremen ha roadennoù all diouzh:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -39,15 +39,15 @@
 
 <!ENTITY importSource.title             "Enporzhiañ arventennoù ha roadennoù diouzh …">
 <!ENTITY importItems.title              "Ergorennoù da enporzhiañ">
-<!ENTITY importItems.label              "Diuz pe elfennoù da enporzhiañ :">
+<!ENTITY importItems.label              "Diuz pe elfennoù da enporzhiañ:">
 
 <!ENTITY migrating.title                "Oc'h enporzhiañ …">
 <!ENTITY migrating.label                "Emañ an ergorennoù da heul o vezañ enporzhiet…">
 
 <!ENTITY selectProfile.title            "Diuz an aelad">
-<!ENTITY selectProfile.label            "An aeladoù da heul a c'hell bezañ enporzhiet diouzh :">
+<!ENTITY selectProfile.label            "An aeladoù da heul a c'hell bezañ enporzhiet diouzh:">
 
 <!ENTITY done.title                     "Echu eo an enporzhiañ">
-<!ENTITY done.label                     "Enporzhiet eo bet an ergorennoù da heul gant berzh :">
+<!ENTITY done.label                     "Enporzhiet eo bet an ergorennoù da heul gant berzh:">
 
 <!ENTITY closeSourceBrowser.label       "Gwiriekait eo serret ar merdeer diuzet a-raok kenderc'hel.">
