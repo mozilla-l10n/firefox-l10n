@@ -300,4 +300,4 @@ cfr-whatsnew-media-keys-button = Dysgu sut
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Llwybrau byr chwilio yn y bar cyfeiriadau
-cfr-whatsnew-search-shortcuts-body = Nawr, pan fyddwch yn teipio gwefan neu beiriant chwilio penodol yn y bar cyfeiriad, bydd llwybr byr glas yn ymddangos yn yr awgrymiadau chwilio isod. Dewiswch y llwybr byr hwnnw i gwblhau eich chwilio'n uniongyrchol o'r bar cyfeiriad.
+cfr-whatsnew-search-shortcuts-body = Nawr, pan fyddwch yn teipio manylion gwefan neu beiriant chwilio penodol yn y bar cyfeiriad, bydd llwybr byr glas yn ymddangos yn yr awgrymiadau chwilio isod. Dewiswch y llwybr byr hwnnw i gwblhau eich chwilio'n uniongyrchol o'r bar cyfeiriad.

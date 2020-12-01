@@ -172,6 +172,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Hoff Wefannau
 newtab-section-header-highlights = Goreuon
+newtab-section-header-recent-activity = Gweithgaredd diweddar
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Argymhellwyd gan { $provider }
