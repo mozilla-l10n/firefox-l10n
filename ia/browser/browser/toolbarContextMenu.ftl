@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Solo sur un nove scheda
     .accesskey = s
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Monstrar altere marcapaginas
+    .accesskey = n
