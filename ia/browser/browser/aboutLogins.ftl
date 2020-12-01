@@ -180,10 +180,20 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Remover { $count } credential?
        *[other] Remover tote le { $count } credentiales?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Isto removera le credential salvate pro { -brand-short-name } e cata alerta de violation que appare hic. Tu non potera disfacer iste action.
+       *[other] Isto removera le credentiales salvate pro { -brand-short-name } e cata alerta de violation que appare hic. Tu non potera disfacer iste action.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Remover { $count } credential ex tote le apparatos?
        *[other] Remover tote le { $count } credentiales ex tote le apparatos?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Isto removera le credential salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu { -fxaccount-brand-name }. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
+       *[other] Isto removera le credentiales salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu { -fxaccount-brand-name }. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
     }
 about-logins-confirm-export-dialog-title = Exportar credentiales e contrasignos
 about-logins-confirm-export-dialog-message = Tu contrasignos sera salvate como texto legibile (e.g., "P@ssw0rd123"), assi quicunque pote aperir le file exportate, pote vider los.
