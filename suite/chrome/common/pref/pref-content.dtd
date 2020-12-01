@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "t">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "Standaard zoom">
+<!ENTITY defaultZoom.accesskey                  "z">
+
 <!ENTITY siteSpecific.label                     "Zoomniveau op paginabasis onthouden">
 <!ENTITY siteSpecific.accesskey                 "o">
 <!ENTITY textZoomOnly.label                     "Alleen tekst zoomen in plaats van hele pagina’s">
