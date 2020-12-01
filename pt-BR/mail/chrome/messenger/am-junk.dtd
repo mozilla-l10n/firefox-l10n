@@ -9,7 +9,7 @@
 
 <!ENTITY move.label "Mover novas mensagens de spam para:">
 <!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "Pasta “Spam” da conta:">
+<!ENTITY junkFolderOn.label "Pasta &quot;Spam&quot; em:">
 <!ENTITY junkFolderOn.accesskey "P">
 <!ENTITY otherFolder.label "Outra:">
 <!ENTITY otherFolder.accesskey "O">
