@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "o">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "預設縮放比例">
+<!ENTITY defaultZoom.accesskey                  "D">
+
 <!ENTITY siteSpecific.label                     "針對每個不同的網站記憶縮放等級">
 <!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY textZoomOnly.label                     "只縮放文字，而不是整個頁面">
