@@ -8,3 +8,18 @@
 menu-view-charset =
     .label = Tekstcodering
     .accesskey = c
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Ongewenst
+    .tooltiptext = De geselecteerde berichten als ongewenst markeren
+toolbar-not-junk-button =
+    .label = Niet ongewenst
+    .tooltiptext = De geselecteerde berichten als niet ongewenst markeren
+toolbar-delete-button =
+    .label = Verwijderen
+    .tooltiptext = Geselecteerde berichten of map verwijderen
+toolbar-undelete-button =
+    .label = Verwijderen ongedaan maken
+    .tooltiptext = Verwijdering van geselecteerde berichten ongedaan maken
