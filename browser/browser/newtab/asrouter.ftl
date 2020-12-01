@@ -229,7 +229,6 @@ cfr-doorhanger-doh-secondary-button = השבתה
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body = ‏{ -brand-short-name } הפעיל עבורך תכונה ניסיונית בשם Fission (בידוד אתרים). על־ידי בידוד כל אתר לתהליך נפרד, Fission מספקת שכבת אבטחה נוספת בשבילך ובשביל אתרי האינטרנט שמבקרים בהם.
 cfr-doorhanger-fission-header = בידוד אתרים
 cfr-doorhanger-fission-primary-button = בסדר, הבנתי
     .accesskey = ב
@@ -246,3 +245,8 @@ cfr-whatsnew-clear-cookies-body = ישנם רכיבי מעקב המפנים או
 cfr-whatsnew-media-keys-header = יותר פקדי מדיה
 cfr-whatsnew-media-keys-body = ניתן להפעיל ולהשהות שמע או וידאו ישירות מהמקלדת או מהאוזניות שלך, מה שמקל על השליטה במדיה מלשונית או תוכנית אחרת, או אפילו כשהמחשב שלך נעול. אפשר גם לעבור בין רצועות שמע באמצעות המקשים קדימה ואחורה.
 cfr-whatsnew-media-keys-button = מידע נוסף
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = קיצורי דרך לחיפוש בשורת הכתובת
+cfr-whatsnew-search-shortcuts-body = כעת, בעת הקלדת מנוע חיפוש או אתר מסוים בשורת הכתובת, קיצור דרך כחול יופיע בהצעות החיפוש שמתחת. יש לבחור קיצור דרך זה כדי להשלים את החיפוש שלך ישירות משורת הכתובת.
