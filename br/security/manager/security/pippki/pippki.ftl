@@ -8,13 +8,12 @@ password-quality-meter = Perzhded ar ger-tremen
 
 change-password-window =
     .title = Kemmañ ar ger-tremen mestr
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Trevnad diogelroez: { $tokenName }
-change-password-old = Ger-tremen war arver :
-change-password-new = Ger-tremen nevez :
-change-password-reenter = Ger-tremen nevez (c'hoazh) :
+change-password-old = Ger-tremen war arver:
+change-password-new = Ger-tremen nevez:
+change-password-reenter = Ger-tremen nevez (c'hoazh):
 
 ## Reset Password dialog
 
@@ -26,7 +25,7 @@ reset-password-window =
 
 reset-password-button-label =
     .label = Adderaouekaat
-reset-password-text = Mar adderaouekait ho ker-tremen mestr e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho roadennoù furmskridoù, ho testenioù personel hag hoc'h alc'hwezioù prevez. Fellout a ra deoc'h dilemel ho ker-tremen mestr ?
+reset-password-text = Mar adderaouekait ho ker-tremen mestr e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho roadennoù furmskridoù, ho testenioù personel hag hoc'h alc'hwezioù prevez. Fellout a ra deoc'h dilemel ho ker-tremen mestr?
 
 ## Downloading cert dialog
 
@@ -47,8 +46,8 @@ download-cert-view-text = Sellout ouzh testeni an aotrouniezh testeniañ
 
 client-auth-window =
     .title = Azgoulenn anaoudadur an arveriad
-client-auth-site-description = Azgoulennet eo bet gant al lec'hienn-mañ e vefec'h hennadet gant un testeni :
-client-auth-choose-cert = Dibabit un testeni evit kinnig evel anaoudadur :
+client-auth-site-description = Azgoulennet eo bet gant al lec'hienn-mañ e vefec'h hennadet gant un testeni:
+client-auth-choose-cert = Dibabit un testeni evit kinnig evel anaoudadur:
 client-auth-cert-details = Munudoù an testeni bet diuzet:
 
 ## Set password (p12) dialog
@@ -57,14 +56,14 @@ set-password-window =
     .title = Dibab ur ger-tremen evit an testeni atoriñ
 set-password-message = Ger-tremen atoriñ an testeni emaoc'h o kefluniañ amañ a warez ar restroù atoriñ a vo krouet ganeoc'h. Ret eo deoc'h kefluniañ ar ger-tremen-mañ evit arverañ an atoriñ.
 set-password-backup-pw =
-    .value = Ger-tremen an testeni gwarediñ :
+    .value = Ger-tremen an testeni gwarediñ:
 set-password-repeat-backup-pw =
-    .value = Ger-tremen an testeni atoriñ (c'hoazh) :
-set-password-reminder = Pouezus : mar bez ankouaet ger-tremen ho testeni atoriñ ne viot ket evit assav an atoradenn diwezhatoc'h. Enrollit ho ker-tremen en ul lec'h diarvar.
+    .value = Ger-tremen an testeni atoriñ (c'hoazh):
+set-password-reminder = Pouezus: Mar bez ankouaet ger-tremen ho testeni atoriñ ne viot ket evit assav an atoradenn diwezhatoc'h. Enrollit ho ker-tremen en ul lec'h diarvar.
 
 ## Protected Auth dialog
 
 protected-auth-window =
     .title = Dilesa ar reveziadenn gwarezet
 protected-auth-msg = Mar plij, dilesait ouzh ar reveziadenn. Hentenn dilesa a vo hervez rizh ho reveziadenn.
-protected-auth-token = Reveziadenn :
+protected-auth-token = Reveziadenn:
