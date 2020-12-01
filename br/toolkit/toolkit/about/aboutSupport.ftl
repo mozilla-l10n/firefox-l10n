@@ -89,7 +89,7 @@ graphics-decision-log-title = Kerzhlevr divizoù
 graphics-crash-guards-title = Keweriusterioù diweredekaet gant ar gwarez e-enep d'ar sac'hadennoù
 graphics-workarounds-title = Tremen e-biou
 # Windowing system in use on Linux (e.g. X11, Wayland).
-graphics-window-protocol = Protokol ar prenestrañ
+graphics-window-protocol = Komenad ar prenestrañ
 place-database-title = Stlennvon "Places"
 place-database-integrity = Kevanded
 place-database-verify-integrity = Gwiriañ ar gevanded

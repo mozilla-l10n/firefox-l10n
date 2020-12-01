@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-processes-title = Merer prosesus
+about-processes-title = Merer argerzhoù
 # The Actions column
 about-processes-column-action =
     .title = Oberezhioù
@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Diskargañ an ivinelloù ha lazhañ ar prosesus
+    .title = Diskargañ an ivinelloù ha lazhañ an argerzh
 about-processes-shutdown-tab =
     .title = Serriñ an ivinell
 
@@ -19,7 +19,7 @@ about-processes-shutdown-tab =
 
 about-processes-column-name = Anv
 about-processes-column-memory-resident = Memor
-about-processes-column-cpu-total = Prosesor
+about-processes-column-cpu-total = Kewerier
 
 ## Process names
 ## Variables:
@@ -56,10 +56,10 @@ about-processes-browser-process-name = { -brand-short-name } (prosesus { $pid })
 
 ## Duration units
 
-duration-unit-ns = ns
-duration-unit-us = µs
-duration-unit-ms = ms
-duration-unit-s = s
+duration-unit-ns = neil
+duration-unit-us = µeil
+duration-unit-ms = meil
+duration-unit-s = eil
 duration-unit-m = m
 duration-unit-h = e
 duration-unit-d = d
