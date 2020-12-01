@@ -11,6 +11,12 @@ menu-view-charset =
 
 ## Mail Toolbar
 
+toolbar-junk-button =
+    .label = Spam
+    .tooltiptext = Marcar as mensagens selecionadas como spam
+toolbar-not-junk-button =
+    .label = Não é spam
+    .tooltiptext = Marcar as mensagens selecionadas como não spam
 toolbar-delete-button =
     .label = Excluir
     .tooltiptext = Excluir pasta ou mensagens selecionadas
