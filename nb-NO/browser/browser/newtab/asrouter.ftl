@@ -279,3 +279,4 @@ cfr-whatsnew-media-keys-button = Finn ut hvordan
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Søk snarveier i adresselinjen
+cfr-whatsnew-search-shortcuts-body = Når nå du skriver inn en søkemotor eller et spesifikt nettsted i adresselinjen, vises en blå snarvei i søkeforslagene nedenfor. Velg snarveien for å fullføre søket direkte fra adresselinjen.
