@@ -264,8 +264,6 @@ cfr-doorhanger-fission-primary-button = OK, begrepen
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Meer info
     .accesskey = M
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } heeft een experimentele functie Fission (website-isolatie) voor u ingeschakeld. Door elke website in een apart proces te isoleren, biedt Fission een extra beveiligingslaag voor u en de door u bezochte websites.
 
 ## What's new: Cookies message
 
@@ -278,3 +276,8 @@ cfr-whatsnew-clear-cookies-image-alt = Afbeelding Cookie geblokkeerd
 cfr-whatsnew-media-keys-header = Meer mediabediening
 cfr-whatsnew-media-keys-body = Speel of pauzeer audio of video rechtstreeks vanaf uw toetsenbord of headset, waardoor het eenvoudig wordt om media vanuit een ander tabblad, programma of zelfs wanneer uw computer is vergrendeld te bedienen. U kunt met de toetsen voor vooruit en achteruit tussen tracks verspringen.
 cfr-whatsnew-media-keys-button = Meer info
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Zoeksnelkoppelingen in de adresbalk
+cfr-whatsnew-search-shortcuts-body = Wanneer u voortaan een zoekmachine of specifieke website in de adresbalk typt, verschijnt een blauwe snelkoppeling in de zoeksuggesties eronder. Selecteer die snelkoppeling om uw zoekopdracht rechtstreeks vanuit de zoekbalk te voltooien.
