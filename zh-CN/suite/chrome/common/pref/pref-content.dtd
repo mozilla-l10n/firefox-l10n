@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "o">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "默认缩放">
+<!ENTITY defaultZoom.accesskey                  "D">
+
 <!ENTITY siteSpecific.label                     "记住每个站点上的缩放等级">
 <!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY textZoomOnly.label                     "仅放大文本而不是放大整个页面">
