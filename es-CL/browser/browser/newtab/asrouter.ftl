@@ -271,3 +271,8 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustración de cookie bloqueada
 cfr-whatsnew-media-keys-header = Más controles multimedia
 cfr-whatsnew-media-keys-body = Reproduce y pausa audio o video directamente desde tu teclado o auriculares, facilitando el control de archivos multimedia desde otra pestaña, programa e incluso cuando tu computador está bloqueado. También puedes moverte entre pistas utilizando las teclas de avance y retroceso.
 cfr-whatsnew-media-keys-button = Aprender cómo
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Atajos de búsqueda en la barra de direcciones
+cfr-whatsnew-search-shortcuts-body = Ahora, cuando escribas un motor de búsqueda o un sitio específico en la barra de direcciones, aparecerá un atajo azul en las sugerencias de búsqueda. Selecciona ese acceso directo para completar tu búsqueda directamente desde la barra de direcciones.
