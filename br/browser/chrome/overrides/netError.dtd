@@ -109,7 +109,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc2 "Titouroù kempleshoc'h : SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc2 "Titouroù kempleshoc'h: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Diwallit: ur riskl surentez bennak 'zo">
 <!ENTITY certerror.sts.pagetitle  "N'eo ket kennasket: kudenn diogelroez posupl">
