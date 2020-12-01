@@ -264,8 +264,6 @@ cfr-doorhanger-fission-primary-button = OK, begrepen
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Mear ynfo
     .accesskey = M
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } hat in eksperimintele funksje Fission (website-isolaasje) foar jo ynskeakele. Troch elke website yn in apart proses te isolearjen, biedt Fission in ekstra befeiligingslaach foar jo en de troch jo besochte websites.
 
 ## What's new: Cookies message
 
@@ -278,3 +276,8 @@ cfr-whatsnew-clear-cookies-image-alt = Ofbylding Cookie blokkearre
 cfr-whatsnew-media-keys-header = Mear mediabetsjinning
 cfr-whatsnew-media-keys-body = Spylje of pauzearje audio of fideo streekrjocht fan jo toetseboerd of headset ôf, wêrtroch it ienfâldich wurdt om media fan in oar ljepblêd út, programma of sels wannear't jo kompjûter beskoattele is te betsjinjen. Jo kinne mei de toetsen foar foarút en efterút tusken nûmers ferspringe.
 cfr-whatsnew-media-keys-button = Mear ynfo
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Sykfluchkeppelingen yn de adresbalke
+cfr-whatsnew-search-shortcuts-body = Wannear't jo yn it ferfolch in sykmasine of spesifike website yn de adresbalke type, ferskynt in blauwe fluchkeppeling yn de syksuggestjes dêrûnder. Selektearje dy fluchkeppeling om jo sykopdracht streekrjocht fan de sykbalke út te foltôgjen.
