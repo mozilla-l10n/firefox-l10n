@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "i">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "Standardskalering">
+<!ENTITY defaultZoom.accesskey                  "S">
+
 <!ENTITY siteSpecific.label                     "Husk zoom-nivåer for hvert nettsted">
 <!ENTITY siteSpecific.accesskey                 "H">
 <!ENTITY textZoomOnly.label                     "Forstørr/forminsk tekst istedenfor hele nettsider">
