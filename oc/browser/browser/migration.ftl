@@ -55,7 +55,7 @@ import-items-page-title = Elements d'importar
 import-items-description = Seleccionatz los elements d'importar :
 import-permissions-page-title = Mercés de donar las autorizacions a { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS requerís qu’autorizetz explicitament { -brand-short-name } a accedir als marcapaginas de Sagari. Clicatz sus « Contunhar » e causissètz lo fichièr « Bookmarks.plist » dins la panèl de dobertura de fichièr qu’apreissarà.
+import-permissions-description = macOS requerís qu’autorizetz explicitament { -brand-short-name } a accedir als marcapaginas de Sagari. Clicatz sus « Contunhar » e causissètz lo fichièr « Bookmarks.plist » dins la panèl de dobertura de fichièr qu’apareisserà.
 import-migrating-page-title = Importacion…
 import-migrating-description = Los elements seguents son a s'importar…
 import-select-profile-page-title = Causissètz un perfil
