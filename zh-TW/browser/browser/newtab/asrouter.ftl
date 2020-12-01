@@ -265,3 +265,8 @@ cfr-whatsnew-clear-cookies-image-alt = 封鎖 Cookie 的插圖
 cfr-whatsnew-media-keys-header = 更多媒體控制元件
 cfr-whatsnew-media-keys-body = 使用鍵盤或耳機直接播放或暫停播放影音內容，讓您更簡單就能從另一個分頁、另一套軟體，甚至是在電腦鎖定時就控制媒體播放。您也可以使用「上一首」或「下一首」按鍵直接切換曲目。
 cfr-whatsnew-media-keys-button = 了解要怎麼做
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = 在網址列搜尋捷徑
+cfr-whatsnew-search-shortcuts-body = 現在起，當您在網址列輸入搜尋引擎名稱或特定網址時，將於搜尋建議的下方顯示藍色捷徑。選擇該捷徑即可直接從網址列完成搜尋。
