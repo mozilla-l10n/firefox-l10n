@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Папулярныя сайты
 newtab-section-header-highlights = Выбранае
+newtab-section-header-recent-activity = Апошняя актыўнасць
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Рэкамендавана { $provider }
