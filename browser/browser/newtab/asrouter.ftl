@@ -284,8 +284,6 @@ cfr-doorhanger-fission-primary-button = Iawn, Wedi deall!
     .accesskey = I
 cfr-doorhanger-fission-secondary-button = Dysgu rhagor
     .accesskey = D
-# Deprecated
-cfr-doorhanger-fission-body = Mae { -brand-short-name } wedi galluogi nodwedd arbrofol Fission (ynysu safle) ar eich cyfer. Trwy ynysu pob gwefan i broses ar wahân, mae Fission yn darparu haen ychwanegol o ddiogelwch i chi a'r gwefannau rydych yn ymweld â nhw.
 
 ## What's new: Cookies message
 
@@ -298,3 +296,8 @@ cfr-whatsnew-clear-cookies-image-alt = Llun wedi'i rwystro gan gwci
 cfr-whatsnew-media-keys-header = Rhagor o reoli cyfryngau
 cfr-whatsnew-media-keys-body = Chwarae ac oedi sain neu fideo yn syth o'ch bysellfwrdd neu'ch clustffon, gan ei gwneud hi'n hawdd rheoli cyfryngau o dab, rhaglen arall, neu hyd yn oed pan fydd eich cyfrifiadur wedi'i gloi. Gallwch hefyd symud rhwng traciau gan ddefnyddio'r bysellau ymlaen ac yn ôl.
 cfr-whatsnew-media-keys-button = Dysgu sut
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Llwybrau byr chwilio yn y bar cyfeiriadau
+cfr-whatsnew-search-shortcuts-body = Nawr, pan fyddwch yn teipio gwefan neu beiriant chwilio penodol yn y bar cyfeiriad, bydd llwybr byr glas yn ymddangos yn yr awgrymiadau chwilio isod. Dewiswch y llwybr byr hwnnw i gwblhau eich chwilio'n uniongyrchol o'r bar cyfeiriad.
