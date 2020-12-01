@@ -280,3 +280,4 @@ cfr-whatsnew-media-keys-button = M’ensenhar cossí far
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Acorchis de recèrca dins la barra d’adreça
+cfr-whatsnew-search-shortcuts-body = Ara quand picatz lo nom d’un motor de recèrcas o un site especific dins la barra d’adreça, un acorchi blau apareisserà en dejós de las suggestions de recèrca. Causissètz aquel acorchi per acabar vòstra recèrca dirèctament de la barra d’adreça estant.
