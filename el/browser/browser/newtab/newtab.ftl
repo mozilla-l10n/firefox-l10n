@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Κορυφαίες ιστοσελίδες
 newtab-section-header-highlights = Κορυφαίες στιγμές
+newtab-section-header-recent-activity = Πρόσφατη δραστηριότητα
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Προτάσεις του { $provider }
