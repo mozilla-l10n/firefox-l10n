@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "i">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "Standardzoom">
+<!ENTITY defaultZoom.accesskey                  "d">
+
 <!ENTITY siteSpecific.label                     "Kom ihåg vald zoomnivå för varje webbplats separat">
 <!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY textZoomOnly.label                     "Zooma bara text i stället för hela sidor">
