@@ -273,3 +273,4 @@ cfr-whatsnew-media-keys-button = Apprender como
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Vias breve de recerca in le barra del adresses
+cfr-whatsnew-search-shortcuts-body = Quando tu insere un motor de recerca o un sito specific in le barra del adresses, un via breve blau apparera in le suggestiones infra. Selige ille via breve pro completar tu recerca directemente del barra del adresses.
