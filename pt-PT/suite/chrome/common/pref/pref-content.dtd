@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "r">
 <!ENTITY percent.label                          "&#037;">
 
+<!ENTITY defaultZoom.label                      "Zoom predefinido">
+<!ENTITY defaultZoom.accesskey                  "d">
+
 <!ENTITY siteSpecific.label                     "Memorizar níveis de zoom numa base por site">
 <!ENTITY siteSpecific.accesskey                 "m">
 <!ENTITY textZoomOnly.label                     "Ampliar apenas texto em vez de toda a página">
