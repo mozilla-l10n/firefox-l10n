@@ -269,3 +269,4 @@ cfr-whatsnew-media-keys-button = 방법 알아보기
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = 주소 표시줄의 검색 바로 가기
+cfr-whatsnew-search-shortcuts-body = 이제, 검색 엔진이나 특정 사이트를 주소 표시줄에 입력하면 아래의 검색 제안에 파란색 바로 가기가 나타납니다. 주소 표시줄에서 바로 검색을 완료하려면 해당 바로 가기를 선택하세요.
