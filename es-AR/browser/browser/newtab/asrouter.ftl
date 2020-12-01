@@ -263,8 +263,6 @@ cfr-doorhanger-fission-primary-button = ¡Listo, entendido!
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Conocer más
     .accesskey = L
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } activó una función experimental Fission (aislamiento de sitios) para usted. Al aislar cada sitio en un proceso separado, Fission proporciona una capa adicional de seguridad para usted y los sitios web que visita.
 
 ## What's new: Cookies message
 
@@ -277,3 +275,8 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustración de cookie bloqueada
 cfr-whatsnew-media-keys-header = Más controles de medios
 cfr-whatsnew-media-keys-body = Reproducir y pausar audio o video directamente desde su teclado o auriculares facilita el control de medios desde otra pestaña, programa o incluso cuando su computadora está bloqueada. También puede moverse entre pistas usando las teclas de avance y retroceso.
 cfr-whatsnew-media-keys-button = Aprender como
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Buscar atajos en la barra de direcciones
+cfr-whatsnew-search-shortcuts-body = Ahora, cuando ingrese un motor de búsqueda o un sitio específico en la barra de direcciones, aparecerá un acceso  directo azul en las sugerencias de búsqueda debajo. Seleccione ese acceso directo para completar su búsqueda directamente desde la barra de direcciones.
