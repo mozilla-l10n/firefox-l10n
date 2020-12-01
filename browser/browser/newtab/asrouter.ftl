@@ -286,3 +286,8 @@ cfr-whatsnew-clear-cookies-image-alt = Illustrazione cookie bloccati
 cfr-whatsnew-media-keys-header = Più controlli multimediali
 cfr-whatsnew-media-keys-body = Riproduci o metti in pausa audio e video usando direttamente la tastiera o le cuffie. In questo modo è facile gestire contenuti multimediali da un’altra scheda, un altro programma, o perfino quando il computer è bloccato. Puoi anche spostarti da una traccia all’altra usando i tasti avanti e indietro.
 cfr-whatsnew-media-keys-button = Scopri come
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Scorciatoie di ricerca nella barra degli indirizzi
+cfr-whatsnew-search-shortcuts-body = Quando digiti il nome di un motore di ricerca o di un sito specifico nella barra degli indirizzi, verrà visualizzata una scorciatoia di colore blu tra i suggerimenti di ricerca. Seleziona questa scorciatoia per completare la ricerca direttamente dalla barra degli indirizzi.
