@@ -264,8 +264,6 @@ cfr-doorhanger-fission-primary-button = ÜTZ, Wetaman chik
     .accesskey = Ü
 cfr-doorhanger-fission-secondary-button = Tetamäx ch'aqa' chik
     .accesskey = e
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } xutzïj jun tojtob'enel rub'anikil Fission (rujech'unik ruxaq). Toq nijech'üx jujun ruxaq pa kiyonil, Fission nuküch rik'in jun rutz'aqat jikomal chuqa' ronojel ri ajk'amaya'l taq ruxaq ye'atz'ët.
 
 ## What's new: Cookies message
 
@@ -278,3 +276,8 @@ cfr-whatsnew-clear-cookies-image-alt = Ruwachib'al q'aton cookie
 cfr-whatsnew-media-keys-header = Ch'aqa' chik kechajinik k'ïy k'oxom
 cfr-whatsnew-media-keys-body = Nitzij o niq'at k'oxom o silowäch rik'in ri pitz'b'äl o ak'axab'äl man k'ayew ta nub'än ye'achajij ri k'ïy taq k'oxom rik'in jun chik ruwi', cholkema' o toq q'aton ri akematz'ib'. Chuqa' k'o rub'eyal nib'yaj chi kikojol ri taq retal k'oxom rik'in ri b'inel chi rij o chuwäch pitz'b'äl.
 cfr-whatsnew-media-keys-button = Tetamäx achike rub'eyal
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Kekanöx chojokem pa kikatz'ik ochochib'äl
+cfr-whatsnew-search-shortcuts-body = Wakami toq natz'ib'aj jun kanob'äl o jun ruxaq pa ri kikajtz'ik ochochib'äl, xtiwachin pe jun xar chojokem pa ri rutzilab'exik ikim kanoxïk. Tacha' ri chojokem ri' richin natz'ët ri nakanoj pa ri kikajtz'ik ochochib'äl.
