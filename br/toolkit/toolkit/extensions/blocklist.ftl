@@ -8,14 +8,12 @@ blocklist-window =
 blocklist-accept =
     .label = Adloc'hañ { -brand-short-name }
     .accesskey = A
-
-blocklist-label-summary = Didemernet en deus { -brand-short-name } ez eo anavezet an askouezhioù da-heul evit degas kudennoù e-keñver stabilded pe diogelroez :
+blocklist-label-summary = Didemernet en deus { -brand-short-name } ez eo anavezet an askouezhioù da-heul evit degas kudennoù e-keñver stabilded pe diogelroez:
 blocklist-soft-and-hard = Harzet eo bet an askouezhioù ez eus ur riskl bras degas kudennoù e-keñver stabilded pe diogelroez ganto. Nebeutoc'h a riskloù zo gant ar re all met erbedet groñs eo deoc'h adloc'hañ gant an askouezhioù-mañ diweredekaet.
 blocklist-hard-blocked = Ur riskl bras zo gant an askouezhioù-mañ degas kudennoù e-keñver stabilded pe diogelroez ha harzet int bet, met ret eo adloc'hañ evit diweredekaat anezho da vat.
 blocklist-soft-blocked = Evit ho kwarez, ez eo erbedet groñs deoc'h diweredekaat an askouezhioù-mañ hag adloc'hañ.
 blocklist-more-information =
     .value = Muioc'h a ditouroù
-
 blocklist-blocked =
     .label = Harzet
 blocklist-checkbox =

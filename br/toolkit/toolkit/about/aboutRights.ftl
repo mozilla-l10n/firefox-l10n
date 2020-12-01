@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rights-title = A-zivout ho kwirioù
-rights-intro = { -brand-full-name } zo ur meziant digoust ha digor e darzh, savet gant miliadoù a dud dre ar bed a-bezh. Gwell eo deoc'h gouzout un toulladig traoù :
+rights-intro = { -brand-full-name } zo ur meziant digoust ha digor e darzh, savet gant miliadoù a dud dre ar bed a-bezh. Gwell eo deoc'h gouzout un toulladig traoù:
 rights-intro-point-1 = Reiñ a reer tro deoc'h d'ober gant { -brand-short-name } dindan an termenoù eus <a data-l10n-name="mozilla-public-license-link">Lañvaz Foran Mozilla</a>. An dra-mañ a dalv e c'hallit arverañ, eilañ ha skignañ { -brand-short-name } da dud all. Aotreet oc'h da zaskemmañ boneg tarzh { -brand-short-name } diouzh hoc'h ezhommoù. Aotreet oc'h, gant Lañvaz Foran Mozilla, da zasparzhañ ho handelvoù daskemmet.
 rights-intro-point-2 = N'eus tamm gwir ebet grataet deoc'h e-keñver gwirioù ar merkoù marilhet pe al lañvazioù eus Diazezadenn Mozilla pe un trede stal, en o zouez (hep bevenn ebet) anv Firefox hag e siell. Titouroù ouzhpenn diwar-benn ar merkoù marilhet e vez kavet <a data-l10n-name="mozilla-trademarks-link">amañ</a>.
 rights-intro-point-3 = Molladoù zo e { -brand-short-name }, evel Danevell ar Sac'hadennoù, a ro tro deoc'h da reiñ ho meno da { -vendor-short-name }. Mar dibabot reiñ ho meno e roiot hoc'h aotre da  { -vendor-short-name } da arverañ ar meno a-benn gwellaat e genderc'hadoù, da embann ar meno war e lec'hienn internet ha da zasparzhañ ar meno.
@@ -14,14 +14,14 @@ rights-intro-point-5-unbranded = Mar bez enkorfet gwazerezhioù web er c'henderc
 rights-intro-point-6 = Evit gallout lenn mentrezhoù endalc'hadoù video 'zo e pellgarg { -brand-short-name } molladoù dienrinegañ adalek perzhidi trede.
 rights-webservices-header = Gwazerezhioù kelaouiñ diazezet war ar genrouedad { -brand-full-name }
 rights-webservices = { -brand-full-name } a ra gant gwazerezhioù diazezet war ar genrouedad ("Gwazerezhioù") evit pourchas un darn eus ar c'heweriusterioù pourchaset evit hoc'h arver gant an handelv daouredel-mañ eus { -brand-short-name } dindan an termenoù deskrivet amañ dindan. Ma ne fell ket deoc'h ober gant unan pe veur a wazerezh pe ma ne fell ket deoc'h degemer an termenoù e c'hallit diweredekaat ar c'heweriuster pe ar gwazerezh(ioù). Kavet e vez an ditouroù a-benn diweredekaat ur c'heweriuster pe ur gwazerezh dibar <a data-l10n-name="mozilla-disable-service-link">amañ</a>. Ar c'heweriusterioù pe ar gwazerezhioù all a c'hell bezañ diweredekaet e-barzh gwellvezioù an arload.
-rights-safebrowsing = <strong>Merdeiñ Diarvar : </strong>Diweredekaat mollad ar Merdeiñ diarvar n'eo ket erbedet rak da lec'hiennoù arvarus ez eot marteze. Mar fell deoc'h diweredekaat ar mollad-mañ penn-da-benn, grit evel-henn :
+rights-safebrowsing = <strong>Merdeiñ Diarvar: </strong>Diweredekaat mollad ar Merdeiñ diarvar n'eo ket erbedet rak da lec'hiennoù arvarus ez eot marteze. Mar fell deoc'h diweredekaat ar mollad-mañ penn-da-benn, grit evel-henn:
 rights-safebrowsing-term-1 = Digeriñ gwellvezioù an arload
 rights-safebrowsing-term-2 = Diuzit an diuzad a-fet diogelroez
 rights-safebrowsing-term-3 = Digevaskit an dibarzh evit "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Stankañ endalc'hadoù arvarus pe touellus
 rights-safebrowsing-term-4 = Diweredekaet eo ar merdeiñ diarvar bremañ
-rights-locationawarebrowsing = <strong>Merdeiñ gant kelaouiñ ho lec'hiadur : </strong>a vez asantet a-ratozh bepred. Ne vo ket kaset titouroù a-zivout ho lec'hiadur hep hoc'h aotre. Mar fell deoc'h diweredekaat ar mollad-mañ da vat, grit evel ma 'z eo displeget :
-rights-locationawarebrowsing-term-1 = War barrenn an URL, biziatait <code>a-zivout : kefluniañ</code>
+rights-locationawarebrowsing = <strong>Merdeiñ gant kelaouiñ ho lec'hiadur: </strong>a vez asantet a-ratozh bepred. Ne vo ket kaset titouroù a-zivout ho lec'hiadur hep hoc'h aotre. Mar fell deoc'h diweredekaat ar mollad-mañ da vat, grit evel ma 'z eo displeget:
+rights-locationawarebrowsing-term-1 = War barrenn an URL, biziatait <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Biziata geo.enabled
 rights-locationawarebrowsing-term-3 = Daouglikañ war gwellvez geo.enabled
 rights-locationawarebrowsing-term-4 = Diweredekaet eo ar merdeiñ gant kelaouiñ ho lec'hiadur

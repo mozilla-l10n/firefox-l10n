@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-ping-data-source = Mammenn roadennoù ping :
+about-telemetry-ping-data-source = Mammenn roadennoù ping:
 about-telemetry-show-archived-ping-data = Roadennoù ping diellet
 about-telemetry-show-subsession-data = Diskouez ar roadennoù iz-estez
-about-telemetry-choose-ping = Dibabit ar ping :
+about-telemetry-choose-ping = Dibabit ar ping:
 about-telemetry-archive-ping-type = Rizh ar ping
 about-telemetry-archive-ping-header = Ping
 about-telemetry-option-group-today = Hiziv
@@ -36,7 +36,7 @@ about-telemetry-captured-stacks-section = Bernioù euvret
 about-telemetry-late-writes-section = Skrivadurioù diwezhat
 about-telemetry-raw-payload-section = Karg diaoz
 about-telemetry-raw = JSON diaoz
-about-telemetry-full-sql-warning = NOTENN : Gweredekaet eo diveugañ an azgoulennoù SQL gorrek. Azgoulennoù SQL klok a c'hell bezañ diskouezet amañ dindan met ne vint ket kaset da Delemetry.
+about-telemetry-full-sql-warning = NOTENN: Gweredekaet eo diveugañ an azgoulennoù SQL gorrek. Azgoulennoù SQL klok a c'hell bezañ diskouezet amañ dindan met ne vint ket kaset da Delemetry.
 about-telemetry-fetch-stack-symbols = Atoriñ an anvioù arc'hwel evit an tornioù
 about-telemetry-hide-stack-symbols = Diskouez ar roadennoù tornioù diaoz
 # Selects the correct release version
@@ -126,7 +126,7 @@ about-telemetry-captured-stacks-title = { $stackKey } (niver a dapadennoù: { $c
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = Skrivadur diwezhat #{ $lateWriteCount }
-about-telemetry-stack-title = Torn :
+about-telemetry-stack-title = Torn:
 about-telemetry-memory-map-title = Kartenn ar vemor:
 about-telemetry-error-fetching-symbols = Degouezhet ez eus bet ur fazi e-pad atoriñ an arouezioù. Gwiriit ez oc'h kennasket ouzh ar genrouedad ha klaskit en-dro.
 about-telemetry-time-stamp-header = Merk-amzer

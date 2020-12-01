@@ -20,7 +20,7 @@ printpreview-landscape =
     .label = Gweledva
     .accesskey = w
 printpreview-scale =
-    .value = Skeul :
+    .value = Skeul:
     .accesskey = S
 printpreview-shrink-to-fit =
     .label = Strishaat evit kenglotañ
@@ -36,7 +36,7 @@ printpreview-page-setup =
     .label = Pajennaozañ…
     .accesskey = P
 printpreview-page =
-    .value = Pajennad :
+    .value = Pajennad:
     .accesskey = a
 
 ## Variables
@@ -57,4 +57,3 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Pajennad diwezhañ
-
