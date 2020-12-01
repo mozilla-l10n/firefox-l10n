@@ -170,6 +170,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Mest besøkte nettsteder
 newtab-section-header-highlights = Høydepunkter
+newtab-section-header-recent-activity = Nylig aktivitet
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Anbefalt av { $provider }
