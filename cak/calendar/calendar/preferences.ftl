@@ -4,6 +4,12 @@
 
 calendar-title = Cholb'äl q'ij
 calendar-title-category = Taq ruwäch
+#   $date (String) - the formatted example date
+dateformat-long =
+    .label = Raqän: { $date }
+#   $date (String) - the formatted example date
+dateformat-short =
+    .label = Kut: { $date }
 timezone-label =
     .value = Ruq'ijul Saqaset:
 day-1-name =
