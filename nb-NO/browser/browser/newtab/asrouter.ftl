@@ -263,8 +263,6 @@ cfr-doorhanger-fission-primary-button = OK, jeg skjønner
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Les mer
     .accesskey = L
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } har aktivert en eksperimentell funksjon Fission (nettstedsisolering) for deg. Ved å isolere hvert nettsted i en egen prosess, gir Fission et ekstra sikkerhetslag for deg og nettstedene du besøker.
 
 ## What's new: Cookies message
 
@@ -277,3 +275,7 @@ cfr-whatsnew-clear-cookies-image-alt = Illustrasjon for blokkert infokapsel
 cfr-whatsnew-media-keys-header = Flere mediekontroller
 cfr-whatsnew-media-keys-body = Spill av og pause lyd eller video direkte fra tastaturet eller hodesettet, noe som gjør det enkelt å kontrollere media fra en annen fane, program eller til og med når datamaskinen er låst. Du kan også bruke tastene fremover og bakover for å bytte mellom sanger.
 cfr-whatsnew-media-keys-button = Finn ut hvordan
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Søk snarveier i adresselinjen
