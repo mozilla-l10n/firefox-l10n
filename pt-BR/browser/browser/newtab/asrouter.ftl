@@ -275,3 +275,4 @@ cfr-whatsnew-media-keys-button = Saiba como
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Atalhos de pesquisa na barra de endereços
+cfr-whatsnew-search-shortcuts-body = Agora, quando você digita um mecanismo de pesquisa ou site específico na barra de endereços, um atalho azul aparece nas sugestões de pesquisa abaixo. Selecione esse atalho para concluir a pesquisa diretamente na barra de endereços.
