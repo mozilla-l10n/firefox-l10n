@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "ზ">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "ნაგულისხმევი ზომა">
+<!ENTITY defaultZoom.accesskey                  "გ">
+
 <!ENTITY siteSpecific.label                     "მასშტაბების დამახსოვრება ცალკეული საიტებისათვის">
 <!ENTITY siteSpecific.accesskey                 "მ">
 <!ENTITY textZoomOnly.label                     "მხოლოდ ტექსტის მასშტაბირება ნაცვლად გვერდისა">
