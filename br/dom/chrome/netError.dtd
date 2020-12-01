@@ -8,16 +8,16 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ne c'haller ket kennaskañ">
-<!ENTITY connectionFailure.longDesc "<p>Al lec'hienn a hañval bezañ talvoudek, koulskoude n'eo ket ar merdeer evit kennaskañ.</p><ul><li>Ha dihegerz e vefe al lec'hienn evit un nebeud amzer ? Klaskit en-dro diwezhatoc'h.</li><li>N'oc'h ket gouest da verdeiñ war lec'hiennoù all ? Gwiriit kennaskañ hoc'h urzhiataer ouzh ar rouedad.</li><li>Gwaredet eo hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi ? Arventennoù direizh a rouestl ar merdeiñ marteze.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Al lec'hienn a hañval bezañ talvoudek, koulskoude n'eo ket ar merdeer evit kennaskañ.</p><ul><li>Ha dihegerz e vefe al lec'hienn evit un nebeud amzer? Klaskit en-dro diwezhatoc'h.</li><li>N'oc'h ket gouest da verdeiñ war lec'hiennoù all? Gwiriit kennaskañ hoc'h urzhiataer ouzh ar rouedad.</li><li>Gwaredet eo hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi? Arventennoù direizh a rouestl ar merdeiñ marteze.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Dindan strishadurioù emañ ar porzh-mañ">
 <!ENTITY deniedPortAccess.longDesc "<p>Gant ar chomlec'h goulennet ez eus bet erspizet ur porzh (d.l.e. <q>mozilla.org:80</q> evit ar porzh 80 war mozilla.org) arveret dre voaz evit palioù <em>all</em> eget ar merdeiñ war internet. Dilezet eo bet an azgoulenn gant ar merdeer evit ho kwarez hag ho tiogelroez.</p>">
 
 <!ENTITY dnsNotFound.title "N'eo ket bet kavet ar chomlec'h">
-<!ENTITY dnsNotFound.longDesc " <p>Ar merdeer n'eo ket evit kavout an dafariad ostiz evit ar chomlec'h roet.</p><ul><li>Ur fazi hoc'h eus graet en ur skrivañ anv an domani ? (d.l.e. <q><strong>ww</strong>.mozilla.org</q> e-lec'h <q><strong>www</strong>.mozilla.org</q>)</li><li>Ha sur oc'h emañ bev ar chomlec'h-mañ ? E varilhadur zo diamzeret marteze.</li><li>Ha barrek oc'h da welout lec'hiennoù all ? Gwiriit kennask ho rouedad hag arventennoù an dafariad DNS.</li><li>Gwarezet eo hoc'h urzhiataer gant un tanvoger pe ur proksi ? Arventennoù direizh a grou trubuilhoù gant ar merdeiñ war Internet.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Ar merdeer n'eo ket evit kavout an dafariad ostiz evit ar chomlec'h roet.</p><ul><li>Ur fazi hoc'h eus graet en ur skrivañ anv an domani? (d.l.e. <q><strong>ww</strong>.mozilla.org</q> e-lec'h <q><strong>www</strong>.mozilla.org</q>)</li><li>Ha sur oc'h emañ bev ar chomlec'h-mañ? E varilhadur zo diamzeret marteze.</li><li>Ha barrek oc'h da welout lec'hiennoù all? Gwiriit kennask ho rouedad hag arventennoù an dafariad DNS.</li><li>Gwarezet eo hoc'h urzhiataer gant un tanvoger pe ur proksi ? Arventennoù direizh a grou trubuilhoù gant ar merdeiñ war Internet.</li></ul>">
 
 <!ENTITY fileNotFound.title "Restr dianav ">
-<!ENTITY fileNotFound.longDesc "<ul><li>Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li><li>Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li><li>Hag an aotreoù hoc'h eus evit haeziñ an ergorenn goulennet ?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li><li>Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li><li>Hag an aotreoù hoc'h eus evit haeziñ an ergorenn goulennet?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Nac'het eo bet haeziñ d'ar restr">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Gallout a ra bezañ dilamet, dilec'hiet, pe n'eus ket ar gwirioù a-zere evit an haeziñ.</li></ul>">
@@ -29,13 +29,13 @@
 <!ENTITY malformedURI.longDesc " <p>N'eo ket anavezet mentrezh ar chomlec'h pourvezet. Gwiriit barrenn al lec'hiadur evit kavout ur fazi ha klaskit en-dro.</p>">
 
 <!ENTITY netInterrupt.title "Harzet eo bet treuzkas ar roadennoù">
-<!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlennoù. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdeiñ war lec'hiennoù all ? Gwiriit kennask rouedad hoc'h urzhiataer.</li><li>Trubuilhoù c'hoazh ? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
+<!ENTITY netInterrupt.longDesc "<p>Kennasket mat e oa ar merdeer met troc'het eo bet ar c'hennask e-pad ma oa o treuzkas stlennoù. Klaskit en-dro, mar plij.</p><ul><li>N'oc'h ket evit merdeiñ war lec'hiennoù all? Gwiriit kennask rouedad hoc'h urzhiataer.</li><li>Trubuilhoù c'hoazh? Goulennit digant ardoer ar rouedad pe ho pourchaser Internet evit kaout skoazell.</li></ul> ">
 
 <!ENTITY notCached.title "Diamzeret eo an teul">
 <!ENTITY notCached.longDesc "<p>N'eo ket hegerz an teul goulennet e-barzh krubuilh ar merdeer.</p><ul><li>Ar merdeer ne c'houlenn ket en-dro teulioù kizidik ent emgefreek evit ho tiogelroez.</li><li>Klikit war Klask en-dro a-benn goulenn an teul digant al lec'hienn en-dro.</li></ul>">
 
 <!ENTITY netOffline.title "Mod ezlinenn">
-<!ENTITY netOffline.longDesc2 "<p>Emañ ar merdeer o labourat gant e vod ezlinenn ha n&apos;hall ket kennaskañ ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant ?</li><li>Pouezit war &quot;Klask en-dro&quot; evit trec&apos;haoliñ etrezek ar mod enlinenn hag adkargañ ar bajennad.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Emañ ar merdeer o labourat gant e vod ezlinenn ha n'hall ket kennaskañ ouzh an ergorenn bet goulennet.</p><ul><li>Ha kennasket eo an urzhiataer ouzh ur rouedad oberiant?</li><li>Pouezit war &quot;Klask en-dro&quot; evit trec'haoliñ etrezek ar mod enlinenn hag adkargañ ar bajennad.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fazi enrinegañ an endalc'had">
 <!ENTITY contentEncodingError.longDesc "<p>Ar bajennad emaoc'h o klask gwelout n'hall ket bezañ diskouezet rak un doare koazhañ anskor pe didalvoudek zo arveret ganti.</p><ul><li>Kit e darempred gant perc'henned al lec'hienn evit kas keloù dezho a-zivout ar gudenn-mañ.</li></ul>">
