@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Apenas num novo separador
     .accesskey = A
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Mostrar outros marcadores
+    .accesskey = r
