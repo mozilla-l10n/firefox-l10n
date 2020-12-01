@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Népszerű oldalak
 newtab-section-header-highlights = Kiemelések
+newtab-section-header-recent-activity = Legutóbbi tevékenység
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = A(z) { $provider } ajánlásával
