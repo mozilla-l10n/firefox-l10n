@@ -285,3 +285,4 @@ cfr-whatsnew-media-keys-button = Навчитися
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Ярлики пошуку в панелі адреси
+cfr-whatsnew-search-shortcuts-body = Тепер, коли ви вводите назву пошукової системи або певний сайт до панелі адрес, синій ярлик з’явиться серед пропозицій пошуку внизу. Виберіть цей ярлик, щоб завершити пошук безпосередньо з панелі адрес.
