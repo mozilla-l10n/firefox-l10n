@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Укуцајте мање, пронађите више: претражујте { $engineName } директно из ваше адресне траке.
 urlbar-search-tips-redirect-2 = Започните вашу претрагу у адресној траци да бисте видели { $engineName } предлоге и вашу историју прегледања.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Изаберите ову пречицу за бржу претраживање.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -295,8 +298,13 @@ identity-https-only-dropdown-off =
     .label = Искљ.
 identity-https-only-dropdown-off-temporarily =
     .label = Привремено искључено
+identity-https-only-info-turn-on2 = Укључите HTTPS-Only режим за ову страницу ако желите да { -brand-short-name } надогради везу кад је то могуће.
+identity-https-only-info-turn-off2 = Ако страница делује неисправно, можете искључити HTTPS-Only режим и поново учитати страницу преко несигурног HTTP-а.
+identity-https-only-info-no-upgrade = Није могуће надоградити HTTP везу.
 identity-permissions =
     .value = Дозволе
+identity-permissions-storage-access-header = Вишестранични колачићи
+identity-permissions-storage-access-hint = Ове стране могу користити вишестраничне колачиће и страничне податке током ваше посете страници.
 identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
 identity-permissions-empty = Овом сајту нису додељене никакве посебне дозволе.
 identity-clear-site-data =
@@ -342,6 +350,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Увези обележиваче…
+    .tooltiptext = Увези обележиваче из другог прегледача у { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
