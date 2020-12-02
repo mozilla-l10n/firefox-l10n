@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = რჩეული საიტები
 newtab-section-header-highlights = მნიშვნელოვანი
+newtab-section-header-recent-activity = ბოლო მოქმედებები
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } გირჩევთ

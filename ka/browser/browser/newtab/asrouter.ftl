@@ -264,8 +264,6 @@ cfr-doorhanger-fission-primary-button = კარგი, გასაგებ�
     .accesskey = კ
 cfr-doorhanger-fission-secondary-button = ვრცლად
     .accesskey = ც
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } უკვე აღჭურვილია ახალი საცდელი შესაძლებლობით Fission (საიტის გამიჯვნა). თითოეული საიტი განცალკევებით ეშვება საკუთარ პროცესებად, Fission უზრუნველყოფს უსაფრთხოების დამატებით ფენას თქვენთვის და თქვენ მიერ მონახულებული ვებსაიტებისთვის.
 
 ## What's new: Cookies message
 
@@ -278,3 +276,8 @@ cfr-whatsnew-clear-cookies-image-alt = შეზღუდული ფუნთ�
 cfr-whatsnew-media-keys-header = გაფართოებული სამართავი
 cfr-whatsnew-media-keys-body = გაუშვით ან შეაჩერეთ ხმოვანი და ვიდეოფაილები პირდაპირ კლავიატურიდან ან ყურსასმენიდან, რაც მეტად გაამარტივებს ფაილების მართვას სხვა ჩანართიდან ან თუნდაც პროგრამიდან, ჩაკეტილ ეკრანზეც კი. აგრეთვე შესაძლებელია ჩანაწერებზე გადასვლა, წინა და მომდევნო ღილაკებით.
 cfr-whatsnew-media-keys-button = იხილეთ, როგორ
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = საძიებოს მალსახმობები მისამართების ველში
+cfr-whatsnew-search-shortcuts-body = ამიერიდან, როცა აკრეფთ საძიებო სისტემის ან შესაბამისი საიტის სახელს მისამართების ველში, გამოჩნდება ლურჯი მალსახმობი ქვემოთ, ძიების შემოთავაზებებში. აირჩიეთ მალსახმობი  საძიებოს პირდაპირ მისამართების ველიდან გამოსაყენებლად.
