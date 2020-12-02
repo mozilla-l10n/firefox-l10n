@@ -18,6 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Contas">
 <!ENTITY subscribeImapFolders.label   "Xestión de subscricións a cartafoles">
 <!ENTITY settingsLink.label           "Ver configuración desta conta">
+<!ENTITY setupNewAcct.label           "Configurar unha conta:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Funcionalidades avanzadas">
 <!ENTITY searchMsgsLink.label         "Buscar mensaxes">
