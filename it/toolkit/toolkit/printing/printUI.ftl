@@ -89,6 +89,7 @@ printui-loading = Preparazione anteprima
 printui-preview-label =
     .aria-label = Anteprima di stampa
 
+printui-pages-per-sheet = Pagine per foglio
 ## Paper sizes that may be supported by the Save to PDF destination:
 
 printui-paper-a5 = A5
