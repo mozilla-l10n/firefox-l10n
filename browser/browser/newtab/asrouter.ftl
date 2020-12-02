@@ -271,3 +271,8 @@ cfr-whatsnew-clear-cookies-image-alt = Minh họa về cookie bị chặn
 cfr-whatsnew-media-keys-header = Điều khiển phương tiện khác
 cfr-whatsnew-media-keys-body = Phát và tạm dừng âm thanh hoặc video ngay từ bàn phím hoặc tai nghe của bạn, giúp bạn dễ dàng điều khiển phương tiện từ thẻ, chương trình khác hoặc ngay cả khi máy tính của bạn bị khóa. Bạn cũng có thể di chuyển giữa các bản nhạc bằng cách sử dụng các phím tiến và lùi.
 cfr-whatsnew-media-keys-button = Tìm hiểu cách thức
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Tìm kiếm các phím tắt trong thanh địa chỉ
+cfr-whatsnew-search-shortcuts-body = Bây giờ, khi bạn nhập công cụ tìm kiếm hoặc trang web cụ thể vào thanh địa chỉ, một phím tắt màu xanh lam sẽ xuất hiện trong các đề xuất tìm kiếm bên dưới. Chọn lối tắt đó để hoàn tất tìm kiếm của bạn trực tiếp từ thanh địa chỉ.

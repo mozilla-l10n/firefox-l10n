@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Trang web hàng đầu
 newtab-section-header-highlights = Nổi bật
+newtab-section-header-recent-activity = Hoạt động gần đây
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Được đề xuất bởi { $provider }
