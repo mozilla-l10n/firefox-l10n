@@ -167,13 +167,14 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Լաւագոյն կայքեր
 newtab-section-header-highlights = Գունանշումներ
+newtab-section-header-recent-activity = Վերջին գործողութիւնը
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Առաջարկուում է { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Սկսեք դիտարկել եւ մենք կցուցադրենք հիանալի հոդուածներ, տեսանիւթեր եւ այլ էջեր, որոնք այցելել եք վերջերս կամ էջանշել եք դրանք։
+newtab-empty-section-highlights = Սկսէք զննարկել եւ մենք կը ցուցադրենք հիանալի յաւդուածներ, տեսանիւթեր եւ այլ էջեր, որ այցելել կամ էջանշել էք վերջերս։
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".

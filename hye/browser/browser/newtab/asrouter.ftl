@@ -274,3 +274,4 @@ cfr-whatsnew-media-keys-button = Իմանալ՝ ինչպէս
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Փնտրէք դիւրանցումներն հասցէգաւտում
+cfr-whatsnew-search-shortcuts-body = Այժմ, երբ գրէք որեւէ որոնիչ կամ կայքի հասցէ հասցէգաւտում, կապոյտ դիւրանցում կը յայտնուի ներքեւում՝  առաջարկելով տարբերակներ։ Ընտրէք այդ դիւրանցումը, որպէսզի որոնումն աւարտէք անմիջապէս հասցէգաւտուց։
