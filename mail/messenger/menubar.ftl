@@ -8,3 +8,18 @@
 menu-view-charset =
     .label = Teksta kodējums
     .accesskey = k
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Draza
+    .tooltiptext = Atzīmēt atlasītās vēstules kā drazu
+toolbar-not-junk-button =
+    .label = Nedraza
+    .tooltiptext = Atzīmēt atlasītās vēstules kā nedrazu
+toolbar-delete-button =
+    .label = Dzēst
+    .tooltiptext = Dzēst mapē atlasītās vēstules
+toolbar-undelete-button =
+    .label = Atdzēst
+    .tooltiptext = Atdzēst atlasītās vēstules
