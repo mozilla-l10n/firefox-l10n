@@ -113,6 +113,13 @@ openpgp-key-man-copy-key-ids =
            *[other] Copiar le IDs clave al area de transferentia
         }
     .accesskey = C
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Copiar impression digital al area de transferentia
+           *[other] Copiar impressiones digital al area de transferentia
+        }
+    .accesskey = C
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->

@@ -20,3 +20,6 @@ toolbar-not-junk-button =
 toolbar-delete-button =
     .label = Deler
     .tooltiptext = Deler le messages o le plicas seligite
+toolbar-undelete-button =
+    .label = Restabilir
+    .tooltiptext = Restabilir le messages seligite
