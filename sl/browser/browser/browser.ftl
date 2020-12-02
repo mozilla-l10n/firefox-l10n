@@ -344,9 +344,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Uvozi zaznamke …
-    .tooltiptext = Skopirajte zaznamke iz drugega brskalnika v { -brand-short-name }.
+    .tooltiptext = Uvozite zaznamke v { -brand-short-name } iz drugega brskalnika.
 
 ## WebRTC Pop-up notifications
 
@@ -451,6 +451,7 @@ urlbar-result-action-search-in-private = Išči v zasebnem oknu
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Išči z iskalnikom { $engine }
+urlbar-result-action-sponsored = Sponzorirano
 urlbar-result-action-switch-tab = Preklopi na zavihek
 urlbar-result-action-visit = Obišči
 # Directs a user to press the Tab key to perform a search with the specified
@@ -459,10 +460,20 @@ urlbar-result-action-visit = Obišči
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-before-tabtosearch-web = Pritisnite Tab za iskanje z iskalnikom { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Pritisnite Tab za iskanje z iskalnikom { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = Iščite z iskalnikom { $engine } neposredno iz naslovne vrstice
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Iščite z iskalnikom { $engine } neposredno iz naslovne vrstice
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
