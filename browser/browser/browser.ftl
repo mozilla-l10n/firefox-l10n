@@ -353,6 +353,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Увези обележиваче…
     .tooltiptext = Увези обележиваче из другог прегледача у { -brand-short-name }.
+bookmarks-toolbar-empty-message = Брзо приступите обележивачима тако што ћете их поставити овде на траку обележивача. <a data-l10n-name="manage-bookmarks">Управљајте обележивачима…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -457,8 +458,29 @@ urlbar-result-action-search-in-private = Претражите у приватн�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Претражи са { $engine }
+urlbar-result-action-sponsored = Спонзорисано
 urlbar-result-action-switch-tab = Пребаци на језичак
 urlbar-result-action-visit = Посети
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Притисните Tab за претраживање { $engine }-ом
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Притисните Tab за претрагу { $engine }-а
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Претражите помоћу { $engine }-а директно из адресне траке
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Претражите { $engine } директно из адресне траке
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
