@@ -176,6 +176,11 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] Héẽ, emboguete ko tembiapo ñepyrũ
        *[other] Héẽ, emboguete ko’ã tembiapo ñepyrũ
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] ¿Emboguete { $count } terachaukaha?
+       *[other] ¿Emboguete opaite { $count } terachaukaha?
+    }
 about-logins-confirm-export-dialog-title = Emba’egueraha tembiapo ñepyrũ ha ñe’ẽñemi
 about-logins-confirm-export-dialog-message = Ñe’ẽñemi oñeñongatúta moñe’ẽrãrõ (techapyrã, BadP@ssw0rd) oimeraẽva ombojurujakuaáva marandurenda guerahaukapyre ikatu ohecha.
 about-logins-confirm-export-dialog-confirm-button = Emba’egueraha…
