@@ -348,9 +348,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Techaukaha jegueru…
-    .tooltiptext = Emonguatia techaukaha ambue kundaháragui { -brand-short-name }-pe.
+    .tooltiptext = Egueru techaukaha ambue kundaháragui { -brand-short-name }-pe.
 
 ## WebRTC Pop-up notifications
 

@@ -271,3 +271,7 @@ cfr-whatsnew-clear-cookies-image-alt = Kookie jokopyre ñemoha’ãnga
 cfr-whatsnew-media-keys-header = Hekoetáva ñema’ẽag̃uive
 cfr-whatsnew-media-keys-body = Emboheta ha emombyta mba’epu térã ta’ãngamýi tairenda térã ñehenduha guive ema’ẽag̃ui hag̃ua ambue tendayke guive, apopyrã térã ne mohendaha ojejokóramo jepe. Oku’ekuaa jeguataha mbytépe oipurúvo jehaiha tenonde ha jeguevigua.
 cfr-whatsnew-media-keys-button = Jekuaa pyahu
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Eheka mbopya’eha kundaharape rendápe
