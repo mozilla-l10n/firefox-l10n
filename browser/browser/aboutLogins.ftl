@@ -183,14 +183,20 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Suprimirà l’identificant qu’enregistretz dins { -brand-short-name } e tota alèrta de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
-        [one] Suprimirà l’identificant qu’enregistretz dins { -brand-short-name } e tota alèrta de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
-       *[other] Suprimirà los identificants qu’enregistretz dins { -brand-short-name } e tota alèrta de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
+        [1] Suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } e tota alèrta de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
+        [one] Suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } e tota alèrta de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
+       *[other] Suprimirà los identificants qu’enregistrèretz dins { -brand-short-name } e tota alèrta de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Suprimir { $count } identificant de totes los periferics ?
        *[other] Suprimir los{ $count } identificants de totes los periferics ?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } de totes los periferics sincronizats a vòstre { -fxaccount-brand-name }. Aquò suprimirà tanben las alèrtas de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
+        [one] Suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } de totes los periferics sincronizats a vòstre { -fxaccount-brand-name }. Aquò suprimirà tanben las alèrtas de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
+       *[other] Suprimirà totes los identificants qu’enregistrèretz dins { -brand-short-name } de totes los periferics sincronizats a vòstre { -fxaccount-brand-name }. Aquò suprimirà tanben las alèrtas de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
     }
 about-logins-confirm-export-dialog-title = Exportacion dels identificants e senhals
 about-logins-confirm-export-dialog-message = Vòstres senhals seràn salvats jos la forma de tèxt legible (per exemple, « senh4l-f3bl3 ») ; atal qual que siá que pòt dobrir lo fichièr poirà los consultar.
