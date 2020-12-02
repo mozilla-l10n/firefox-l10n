@@ -167,6 +167,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Ismal ifazen
 newtab-section-header-highlights = Asebrureq
+newtab-section-header-recent-activity = Armud n melmi kan
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Iwelleh-it-id { $provider }

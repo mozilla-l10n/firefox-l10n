@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Iccer kan amaynut
     .accesskey = O
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Sken ticraḍ n yisebtar tiyaḍ
+    .accesskey = h
