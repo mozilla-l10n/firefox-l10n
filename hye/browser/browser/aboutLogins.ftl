@@ -237,7 +237,7 @@ about-logins-error-message-default = Գաղտնաբառի պահպանման ժ�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Արտահանել Մուտքանունների նիշք
+about-logins-export-file-picker-title = Արտահանել Մտից անունների նիշը
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = գրանցումներ.csv
