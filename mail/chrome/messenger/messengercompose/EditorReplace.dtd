@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from EdReplace.xul -->
-
 <!-- extracted from EdReplace.xhtml -->
 
 <!ENTITY replaceDialog.title "Localizar e substituír">
@@ -20,9 +18,10 @@
 <!ENTITY findNextButton.label "Localizar seguinte">
 <!ENTITY findNextButton.accesskey "s">
 <!ENTITY replaceButton.label "Substituír">
-<!ENTITY replaceButton.accesskey "S">
+<!ENTITY replaceButton.accesskey "R">
 <!ENTITY replaceAndFindButton.label "Substituír e localizar">
 <!ENTITY replaceAndFindButton.accesskey "u">
 <!ENTITY replaceAllButton.label "Substituír todo">
 <!ENTITY replaceAllButton.accesskey "t">
 <!ENTITY closeButton.label "Pechar">
+<!ENTITY closeButton.accesskey "C">
