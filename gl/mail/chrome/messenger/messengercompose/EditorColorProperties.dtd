@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Imaxe de fondo:">
 <!ENTITY backgroundImage.accessKey "m">
 <!ENTITY backgroundImage.tooltip "Utilice un ficheiro de imaxe como fondo da súa páxina">
+<!ENTITY backgroundImage.shortenedDataURI "URI de datos acurtado (ao copiar colocará o URI completo no portapapeis)">
