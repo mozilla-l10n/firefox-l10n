@@ -301,6 +301,8 @@ identity-https-only-info-turn-off2 = Si el sitio no funciona correctamente, es p
 identity-https-only-info-no-upgrade = No se puede actualizar la conexión desde HTTP.
 identity-permissions =
     .value = Permisos
+identity-permissions-storage-access-header = Cookies entre sitios
+identity-permissions-storage-access-hint = Estas partes pueden usar cookies de sitios cruzados y datos del sitio mientras está en este sitio.
 identity-permissions-reload-hint = Puede que tengas que recargar la página para que se apliquen los cambios.
 identity-permissions-empty = No tienes permitido en este sitio web ningún permiso especial.
 identity-clear-site-data =
@@ -346,6 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importar marcadores…
+    .tooltiptext = Importar marcadores desde otro navegador a { -brand-short-name }.
+bookmarks-toolbar-empty-message = Para un acceso rápido, ubica tus marcadores aquí en la barra de herramientas de marcadores. <a data-l10n-name="manage-bookmarks">Administrar marcadores…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -450,13 +456,37 @@ urlbar-result-action-search-in-private = Buscar en una ventana privada
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Buscar con { $engine }
+urlbar-result-action-sponsored = Patrocinado
 urlbar-result-action-switch-tab = Cambiar a la pestaña
 urlbar-result-action-visit = Visitar
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Presiona Tab para buscar con { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Presione Tab para buscar con { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Buscar con { $engine } directamente desde la barra de direcciones
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Buscar con { $engine } directamente desde la barra de direcciones
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Buscar marcadores
+urlbar-result-action-search-history = Buscar Historial
+urlbar-result-action-search-tabs = Buscar pestañas
 
 ## Full Screen and Pointer Lock UI
 
