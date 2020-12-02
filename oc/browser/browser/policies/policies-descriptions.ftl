@@ -79,8 +79,8 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Bascular lo compòrtam
 ##
 
 policy-LocalFileLinks = Autorizar los sites web a utilizar los ligams locals.
-policy-MasterPassword = Requerir o empachar l’utilizacion d’un senhal principal.
 policy-ManagedBookmarks = Configura una lista de marcapaginas gerits per l’administrator que pòdon pas èsser modificats per l’utilizaire.
+policy-MasterPassword = Requerir o empachar l’utilizacion d’un senhal principal.
 policy-PrimaryPassword = Requerir o empachar l’utilizacion d’un senhal principal.
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
@@ -94,7 +94,7 @@ policy-PasswordManagerEnabled = Activar lo salvament dels senhals al gestionari 
 policy-PDFjs = Desactivar o configurar PDF.js, lo visionador integrat de PDF dins { -brand-short-name }.
 policy-Permissions2 = Configurar las autorizacions per la camèra, lo microfòn, la localizacion, las notificacions e la lectura automatica.
 policy-PictureInPicture = Activar o desactivar l’incrustacion vidèo.
-policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
+policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras sorgissentas per defaut.
 policy-Preferences = Definir e verrolhar la valor d’un jos-ensemble de preferéncias.
 policy-PromptForDownloadLocation = Demandar ont enregistrar los fichièrs pendent lo telecargament.
 policy-Proxy = Configura los paramètres del servidor mandatari.
