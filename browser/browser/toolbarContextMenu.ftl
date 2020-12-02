@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = მხოლოდ ახალ ჩანართში
     .accesskey = მ
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = სხვა სანიშნების ჩვენება
+    .accesskey = ჩ
