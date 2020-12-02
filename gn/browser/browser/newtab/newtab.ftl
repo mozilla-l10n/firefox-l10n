@@ -170,6 +170,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Tenda Ojehechavéva
 newtab-section-header-highlights = Mba’eporãitéva
+newtab-section-header-recent-activity = Tembiapo ramovegua
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } he’i ndéve reike hag̃ua
