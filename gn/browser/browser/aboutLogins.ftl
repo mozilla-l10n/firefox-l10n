@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Emboguejy Google Play guive
 login-app-promo-apple =
     .alt = Emboguejy App Store guive
-
 login-filter =
     .placeholder = Tembiapo ñepyrũ jeheka
-
 create-login-button = Tembiapo ñepyrũ moheñói
-
 fxaccounts-sign-in-text = Egueru umi ne ñe’ẽñemi ne ambue mba’e’okágui
 fxaccounts-sign-in-button = Eñemboheraguapy { -sync-brand-short-name }-pe
 fxaccounts-avatar-button =
@@ -32,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Egueru ambue kundahára guive…
 about-logins-menu-menuitem-import-from-a-file = Marandurendágui jegueru…
 about-logins-menu-menuitem-export-logins = Emba’egueraha tembiapo ñepyrũ…
+about-logins-menu-menuitem-remove-all-logins = Emboguepaite tembiapo ñepyrũ…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Jeporavorã
@@ -71,7 +69,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = ¿Eheka ne ñe’ẽñemi ñongatupyre? Emboheko { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out = ¿Eheka tembiapo ñepyrũ ñongatupyre? Emboheko { -sync-brand-short-name } térã emba’egueru.
 about-logins-login-intro-heading-logged-in = Ndaipóri tembiapo ñepyrũ mbojuehepyre.
 login-intro-description = Eñongatúvo nde jeike { -brand-product-name }-pe ambue mba’e’okápe.
@@ -79,7 +76,6 @@ login-intro-instruction-fxa = Emoheñói térã eike nde { -fxaccount-brand-name
 login-intro-instruction-fxa-settings = Eiporavokuaáke nde jeike { -sync-brand-short-name } ñemoĩporãme
 about-logins-intro-instruction-help = Eho <a data-l10n-name="help-link">-pe { -lockwise-brand-short-name } Pytyvõ</a> eñepytyvõve hag̃ua
 about-logins-intro-import = Ne rembiapo ñepyrũ oñeñongatúramo ambue kundahárape, ikatu <a data-l10n-name="import-link">ogueru { -lockwise-brand-short-name }pe</a>
-
 about-logins-intro-import2 = Ne rembiapo ñepyrũ oñeñongatu { -brand-product-name }-gui okápe, ikatu <a data-l10n-name="import-browser-link">egueru ambue kundaháragui</a> térã <a data-l10n-name="import-file-link">maranduredágui</a>
 
 ## Login
@@ -120,13 +116,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Embosako’ívo tembiapo ñ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = embosako’i tembiapo ñepyrũ ñongatupyre
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ehecha hag̃ua ñe’ẽñemi, emoinge nde reraite tembiapo ñepyrũ pegua. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = embosako’i ñe’ẽñemi ñongatupyre
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Emonguatia hag̃ua ñe’ẽñemi, emoinge nde reraite Windows rembiapo ñepyrũme. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to copy a password in about:logins
@@ -136,7 +130,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = embokuatia ñe’ẽ�
 ## Master Password notification
 
 master-password-notification-message = Emoinge ne ñe’ẽñemi ha’evéva ehecha hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñongatupyre
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Eguerahaukávo ne rembiapo ñepyrũ, emoĩ nde reraite Windows rembiapópe. Oipytyvõta emo’ãvo ne mba’ete rekorosã.
 # This message can be seen when attempting to export a password in about:logins
@@ -173,15 +166,19 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Heja
 confirmation-dialog-dismiss-button =
     .title = Heja
-
 about-logins-confirm-remove-dialog-title = ¿Emboguete ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
 about-logins-confirm-remove-dialog-confirm-button = Mboguete
-
+about-logins-confirm-remove-all-dialog-confirm-button = Emboguepaite
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Héẽ, emboguete ko tembiapo ñepyrũ
+        [one] Héẽ, emboguete ko tembiapo ñepyrũ
+       *[other] Héẽ, emboguete ko’ã tembiapo ñepyrũ
+    }
 about-logins-confirm-export-dialog-title = Emba’egueraha tembiapo ñepyrũ ha ñe’ẽñemi
 about-logins-confirm-export-dialog-message = Ñe’ẽñemi oñeñongatúta moñe’ẽrãrõ (techapyrã, BadP@ssw0rd) oimeraẽva ombojurujakuaáva marandurenda guerahaukapyre ikatu ohecha.
 about-logins-confirm-export-dialog-confirm-button = Emba’egueraha…
-
 confirm-discard-changes-dialog-title = ¿Emboyke moambue eñongatu’ỹva?
 confirm-discard-changes-dialog-message = Opaite ñemoambue oñeñongatu’ỹva oguepáta.
 confirm-discard-changes-dialog-confirm-button = Hejarei
@@ -212,10 +209,8 @@ about-logins-vulnerable-alert-learn-more-link = Kuaave
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Eikekuaáma { $loginTitle } ko puruhára réra reheve. <a data-l10n-name="duplicate-link">¿Ehosépa pe jeikehápe?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Oiko jejavy eñongatukuévo ñe’ẽñemi.
-
 
 ## Login Export Dialog
 
