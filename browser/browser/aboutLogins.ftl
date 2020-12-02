@@ -172,6 +172,14 @@ about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
 about-logins-confirm-remove-all-dialog-confirm-button = Odstrani vse
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Da, odstrani to prijavo
+        [one] Da, odstrani to prijavo
+        [two] Da, odstrani ti prijavi
+        [few] Da, odstrani te prijave
+       *[other] Da, odstrani te prijave
+    }
 about-logins-confirm-export-dialog-title = Izvozite prijave in gesla
 about-logins-confirm-export-dialog-message = Vaša gesla bodo shranjena kot berljivo besedilo (npr. Sl@boG3slo), zato bodo vidna vsakomur, ki bo lahko odprl izvoženo datoteko.
 about-logins-confirm-export-dialog-confirm-button = Izvozi …
