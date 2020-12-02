@@ -5,6 +5,7 @@
 <!ENTITY toField4.label "Para">
 <!ENTITY fromField4.label "De">
 <!ENTITY senderField4.label "Remitente">
+<!ENTITY author.label "Autor">
 <!ENTITY organizationField4.label "Organización">
 <!ENTITY replyToField4.label "Responder a">
 
@@ -91,6 +92,10 @@
 
 <!ENTITY openAttachment.tooltip "Abrir o ficheiro anexado">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Abrir o cartafol contedor">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "F">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Amosar no Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Gardar">
