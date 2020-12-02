@@ -27,12 +27,16 @@
 
 
 
+<!ENTITY netReset.title "پەیوەندی بچڕا">
+
+<!ENTITY netTimeout.title "ڕایەڵە کاتی بەسەرچوو">
+
+<!ENTITY unknownProtocolFound.title "پرۆتۆکۆڵی نەناسراو">
 
 
 
 
-
-
+<!ENTITY unknownSocketType.title "وەڵامی هەڵە">
 
 <!ENTITY nssFailure2.title "پەیوەندی پارێزراو سەرکەوتوو نەبوو">
 
