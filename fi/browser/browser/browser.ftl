@@ -296,6 +296,7 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-no-upgrade = Yhteyden päivittäminen HTTP:stä epäonnistui.
 identity-permissions =
     .value = Käyttöoikeudet
+identity-permissions-storage-access-header = Sivustorajat ylittävät evästeet
 identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
 identity-permissions-empty = Sivustolle ei ole myönnetty mitään erityisoikeuksia.
 identity-clear-site-data =
