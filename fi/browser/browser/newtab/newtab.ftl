@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Ykkössivustot
 newtab-section-header-highlights = Nostot
+newtab-section-header-recent-activity = Viimeisin toiminta
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Suositukset lähteestä { $provider }
