@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Նախորդը
     .accesskey = Ն
-
 wizard-macos-button-next =
     .label = Շարունակել
     .accesskey = Շ
@@ -21,14 +20,12 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Յաջորդը >
     .accesskey = Յ
-
 wizard-macos-button-finish =
-    .label = Պատրաստ է
+    .label = Արուած
 wizard-linux-button-finish =
     .label = Պատրաստ է
 wizard-win-button-finish =
     .label = Աւարտել
-
 wizard-macos-button-cancel =
     .label = Չեղարկել
 wizard-linux-button-cancel =
