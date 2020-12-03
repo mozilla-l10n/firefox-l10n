@@ -292,7 +292,7 @@
 <!ENTITY cutToolbarCmd.tooltip "Izgriezt">
 <!ENTITY copyToolbarCmd.tooltip "Kopēt">
 <!ENTITY pasteToolbarCmd.tooltip "Ielīmēt">
-<!ENTITY findToolbarCmd.label "Atrast">
+<!ENTITY findToolbarCmd.label "Meklēt">
 <!ENTITY findToolbarCmd.tooltip "Meklēt tekstu lapā">
 <!ENTITY spellToolbarCmd.label "Rakstība">
 <!ENTITY spellToolbarCmd.tooltip "Pārbaudīt atlases vai visas lapas pareizrakstību">

@@ -533,7 +533,7 @@
 <!ENTITY replyAllButton.label "Atbildēt visiem">
 <!ENTITY replyListButton.label "Atbildēt sarakstam">
 <!ENTITY forwardButton.label "Pārsūtīt">
-<!ENTITY fileButton.label "Datne">
+<!ENTITY fileButton.label "Fails">
 <!ENTITY archiveButton.label "Arhivēt">
 <!ENTITY openConversationButton.label "Saruna">
 <!ENTITY nextButton.label "Nākošais">

@@ -8,13 +8,13 @@
 <!ENTITY Legend.accesskey "L">
 
 <!ENTITY EditLegendText.label "Rediģēt leģendu:">
-<!ENTITY EditLegendText.accesskey "T">
+<!ENTITY EditLegendText.accesskey "R">
 <!ENTITY LegendAlign.label "Izlīdzināt leģendu:">
-<!ENTITY LegendAlign.accesskey "A">
+<!ENTITY LegendAlign.accesskey "I">
 <!ENTITY AlignDefault.label "Noklusētā">
 <!ENTITY AlignLeft.label "Pa kreisi">
 <!ENTITY AlignCenter.label "Centrā">
 <!ENTITY AlignRight.label "Pa labi">
 
 <!ENTITY RemoveFieldSet.label "Noņemt lauku kopu">
-<!ENTITY RemoveFieldSet.accesskey "R">
+<!ENTITY RemoveFieldSet.accesskey "N">

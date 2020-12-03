@@ -5,8 +5,8 @@
 <!ENTITY windowTitle.label "Formas lauka īpašības">
 <!ENTITY windowTitleImage.label "Formas attēla īpašības">
 
-<!ENTITY InputType.label "Lauka tips">
-<!ENTITY InputType.accesskey "t">
+<!ENTITY InputType.label "Lauka veids">
+<!ENTITY InputType.accesskey "v">
 <!ENTITY text.value "Teksts">
 <!ENTITY password.value "Parole">
 <!ENTITY checkbox.value "Atzīmes rūtiņa">
@@ -20,31 +20,31 @@
 
 <!ENTITY InputSettings.label "Lauka iestatījumi">
 <!ENTITY InputName.label "Lauka nosaukums:">
-<!ENTITY InputName.accesskey "n">
+<!ENTITY InputName.accesskey "L">
 <!ENTITY GroupName.label "Grupas nosaukums:">
-<!ENTITY GroupName.accesskey "n">
+<!ENTITY GroupName.accesskey "G">
 <!ENTITY InputValue.label "Lauka vērtība:">
 <!ENTITY InputValue.accesskey "v">
 <!ENTITY InitialValue.label "Sākotnējā vērtība:">
-<!ENTITY InitialValue.accesskey "v">
+<!ENTITY InitialValue.accesskey "S">
 <!ENTITY InputChecked.label "Sākotnēji pārbaudīts">
-<!ENTITY InputChecked.accesskey "C">
+<!ENTITY InputChecked.accesskey "p">
 <!ENTITY InputSelected.label "Sākotnēji atlasīts">
-<!ENTITY InputSelected.accesskey "S">
+<!ENTITY InputSelected.accesskey "a">
 <!ENTITY InputReadOnly.label "Tikai lasāms">
-<!ENTITY InputReadOnly.accesskey "R">
+<!ENTITY InputReadOnly.accesskey "l">
 <!ENTITY InputDisabled.label "Atslēgts">
-<!ENTITY InputDisabled.accesskey "D">
+<!ENTITY InputDisabled.accesskey "A">
 <!ENTITY tabIndex.label "Cilnes indekss:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "i">
 <!ENTITY TextSize.label "Lauka izmērs:">
-<!ENTITY TextSize.accesskey "L">
+<!ENTITY TextSize.accesskey "z">
 <!ENTITY TextLength.label "Maksimālais garums:">
 <!ENTITY TextLength.accesskey "g">
 <!ENTITY AccessKey.label "Piekļuves atslēga:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "a">
 <!ENTITY Accept.label "Pieņemt veidus:">
-<!ENTITY Accept.accesskey "A">
+<!ENTITY Accept.accesskey "P">
 
 <!ENTITY ImageProperties.label "Attēla īpašības…">
-<!ENTITY ImageProperties.accesskey "E">
+<!ENTITY ImageProperties.accesskey "t">

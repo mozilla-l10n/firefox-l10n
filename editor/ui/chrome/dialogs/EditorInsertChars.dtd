@@ -7,7 +7,7 @@
 <!ENTITY windowTitle.label "Ievietot rakstzīmi">
 <!ENTITY category.label "Kategorija">
 <!ENTITY letter.label "Vēstule:">
-<!ENTITY letter.accessKey "L">
+<!ENTITY letter.accessKey "V">
 <!ENTITY character.label "Rakstzīme:">
 <!ENTITY character.accessKey "R">
 <!ENTITY accentUpper.label "Akcentēti lielie burti">

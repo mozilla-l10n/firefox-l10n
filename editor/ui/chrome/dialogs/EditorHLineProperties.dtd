@@ -8,20 +8,20 @@
 
 <!ENTITY dimensionsBox.label "Izmēri">
 <!ENTITY heightEditField.label "Augstums:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "A">
 <!ENTITY widthEditField.label "Platums:">
-<!ENTITY widthEditField.accessKey "W">
+<!ENTITY widthEditField.accessKey "P">
 <!ENTITY pixelsPopup.value "punkti">
 <!ENTITY alignmentBox.label "Līdzināšana">
 <!ENTITY leftRadio.label "Pa kreisi">
-<!ENTITY leftRadio.accessKey "L">
+<!ENTITY leftRadio.accessKey "k">
 <!ENTITY centerRadio.label "Centrā">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "Pa labi">
-<!ENTITY rightRadio.accessKey "R">
+<!ENTITY rightRadio.accessKey "l">
 
 <!ENTITY threeDShading.label "3-D ēnojums">
-<!ENTITY threeDShading.accessKey "S">
+<!ENTITY threeDShading.accessKey "D">
 <!ENTITY saveSettings.label "Lietot kā noklusēto">
-<!ENTITY saveSettings.accessKey "D">
+<!ENTITY saveSettings.accessKey "N">
 <!ENTITY saveSettings.tooltip "Saglabājiet šos iestatījumus, lai tos izmantotu, ievietojot jaunas horizontālas līnijas">
