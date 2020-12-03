@@ -64,7 +64,7 @@ app-basics-user-agent = Agente de usuario
 app-basics-os = SO
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
-app-basics-rosetta = Rosetta traducida
+app-basics-rosetta = Traducido por Rosetta
 app-basics-memory-use = Uso de memoria
 app-basics-performance = Rendimiento
 app-basics-service-workers = ServiceWorkers registrados
