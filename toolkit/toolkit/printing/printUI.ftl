@@ -41,6 +41,9 @@ printui-scale = Koko
 printui-scale-fit-to-page-width = Sovita sivun leveyteen
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Koko
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Kaksipuolinen tulostus
+printui-duplex-checkbox = Tulosta molemmille puolille
 # Section title for miscellaneous print options
 printui-options = Valinnat
 printui-headers-footers-checkbox = Tulosta ylä- ja alatunnisteet

@@ -64,6 +64,7 @@ app-basics-service-workers = Rekisteröidyt Service Workers -apukomentosarjat
 app-basics-profiles = Profiilit
 app-basics-launcher-process-status = Käynnistysprosessi
 app-basics-multi-process-support = Useaa prosessia hyödyntäviä ikkunoita
+app-basics-fission-support = Fission-ikkunoita
 app-basics-remote-processes-count = Etäprosessit
 app-basics-enterprise-policies = Yrityskäytännöt
 app-basics-location-service-key-google = Google Location Service -avain
@@ -329,6 +330,7 @@ multi-process-status-unknown = Tuntematon tila
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-disabled-by-e10s-other = E10s poistettu käytöstä
 async-pan-zoom = Asynkroninen siirto/lähennys
 apz-none = ei mitään
 wheel-enabled = rullaliittymä käytössä
