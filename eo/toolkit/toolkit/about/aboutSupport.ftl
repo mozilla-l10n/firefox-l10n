@@ -59,6 +59,9 @@ app-basics-enabled-plugins = Aktivaj kromprogramoj
 app-basics-build-config = Agordoj de konstruado
 app-basics-user-agent = Agento de uzanto
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Tradukita de Rosetta
 app-basics-memory-use = Uzado de memoro
 app-basics-performance = Efikeco
 app-basics-service-workers = Registritaj Service Workers
