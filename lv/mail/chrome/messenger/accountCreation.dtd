@@ -5,7 +5,7 @@
 <!ENTITY emailWizard.title               "Jūsu esošās epasta adreses iestatīšana">
 <!ENTITY emailWizard.caption             "Izmantojiet jūsu pašreizējo epasta adresi">
 <!ENTITY name.label                      "Jūsu vārds:">
-<!ENTITY name.accesskey                  "n">
+<!ENTITY name.accesskey                  "v">
 <!ENTITY fullname.placeholder            "Jūsu pilnais vārds">
 <!ENTITY name.text                       "Jūsu citiem rādāmais vārds">
 <!ENTITY name.error                      "Lūdzu, ievadiet savu vārdu">
@@ -20,9 +20,9 @@
 <!ENTITY password.text                   "Neobligāts, bet var tikt izmantots lietotājvārda validēšanai">
 <!ENTITY password.toggle                 "Rādīt/slēpt paroli">
 <!ENTITY rememberPassword.label          "Atcerēties paroli">
-<!ENTITY rememberPassword.accesskey      "m">
+<!ENTITY rememberPassword.accesskey      "A">
 <!ENTITY usernameEx.label                "Jūsu pieteikšanās:">
-<!ENTITY usernameEx.accesskey            "l">
+<!ENTITY usernameEx.accesskey            "p">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!ENTITY usernameEx.placeholder          "JUSUDOMENS\jusulietotajvards">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
@@ -58,25 +58,25 @@
 <!ENTITY exchange-hostname.label         "Exchange serveris:">
 
 <!ENTITY advancedSetup.label             "Papildu iestatījumi">
-<!ENTITY advancedSetup.accesskey         "A">
+<!ENTITY advancedSetup.accesskey         "P">
 <!ENTITY cancel.label                    "Atcelt">
-<!ENTITY cancel.accesskey                "a">
+<!ENTITY cancel.accesskey                "t">
 <!ENTITY continue.label                  "Turpināt">
-<!ENTITY continue.accesskey              "C">
+<!ENTITY continue.accesskey              "T">
 <!ENTITY stop.label                      "Apturēt">
-<!ENTITY stop.accesskey                  "S">
+<!ENTITY stop.accesskey                  "p">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Pārbaudīt vēlreiz">
-<!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY half-manual-test.accesskey      "P">
 <!ENTITY manual-config.label             "Iestatīt manuāli…">
-<!ENTITY manual-config.accesskey         "M">
+<!ENTITY manual-config.accesskey         "m">
 <!ENTITY open-provisioner.label          "Iegūt jaunu epasta adresi…">
-<!ENTITY open-provisioner.accesskey      "g">
+<!ENTITY open-provisioner.accesskey      "j">
 <!ENTITY get-help.label                  "Iegūt palīdzību">
-<!ENTITY get-help.accesskey              "H">
+<!ENTITY get-help.accesskey              "p">
 
 
 <!ENTITY warning.label                   "Brīdinājums!">
@@ -87,18 +87,18 @@
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Es apzinos riskus.">
-<!ENTITY confirmWarning.accesskey        "u">
+<!ENTITY confirmWarning.accesskey        "a">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY doneAccount.label               "Gatavs">
-<!ENTITY doneAccount.accesskey           "D">
+<!ENTITY doneAccount.accesskey           "G">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
 <!ENTITY changeSettings.label            "Mainīt iestatījumus">
-<!ENTITY changeSettings.accesskey        "S">
+<!ENTITY changeSettings.accesskey        "M">
 
 <!ENTITY contactYourProvider.description "&brandShortName; var ļaut piekļūt jūsu pastam, izmantojot sniegtos iestatījumus. Par šiem savienojumiem jums jāsazinās ar administratoru vai epasta pakalpojumu sniedzēju. Plašāku informāciju skatiet Thunderbird bieži uzdotajos jautājumos.">
 

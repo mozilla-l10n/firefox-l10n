@@ -4,11 +4,11 @@
 
 <!ENTITY identitiesListManageDesc.label "Pārvaldiet šī konta identitātes. Pēc noklusējuma tiek izmantota pirmā identitāte.">
 <!ENTITY identitiesListAdd.label  "Pievienot…">
-<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListAdd.accesskey  "P">
 <!ENTITY identitiesListEdit.label "Rediģēt...">
-<!ENTITY identitiesListEdit.accesskey "e">
+<!ENTITY identitiesListEdit.accesskey "R">
 <!ENTITY identitiesListDefault.label "Iestatīt noklusēto">
-<!ENTITY identitiesListDefault.accesskey "S">
+<!ENTITY identitiesListDefault.accesskey "I">
 <!ENTITY identitiesListDelete.label "Dzēst">
 <!ENTITY identitiesListDelete.accesskey "D">
 <!ENTITY identitiesListClose.label "Aizvērt">

@@ -14,9 +14,9 @@
 <!ENTITY accountTypeDesc2.label "Šis vednis apkopos nepieciešamo informāciju, lai izveidotu kontu. Ja nezināt pieprasīto informāciju, lūdzu, sazinieties ar sistēmas administratoru vai interneta pakalpojumu sniedzēju.">
 <!ENTITY accountTypeDirections.label "Izvēlieties konta veidu, kādu vēlaties izveidot:">
 <!ENTITY accountTypeMail.label "Epasta konts">
-<!ENTITY accountTypeMail.accesskey "m">
+<!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Ziņu grupas konts">
-<!ENTITY accountTypeNews.accesskey "w">
+<!ENTITY accountTypeNews.accesskey "Z">
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
 <!ENTITY accountTypeMovemail.accesskey "U">
@@ -34,7 +34,7 @@
 -->
 <!ENTITY fullnameExample.label "(piemēram, &quot;Džons Smits&quot;).">
 <!ENTITY fullnameLabel.label "Jūsu vārds:">
-<!ENTITY fullnameLabel.accesskey "Y">
+<!ENTITY fullnameLabel.accesskey "v">
 
 <!ENTITY emailLabel.label "Epasta adrese:">
 <!ENTITY emailLabel.accesskey "E">
@@ -50,7 +50,7 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 <!ENTITY leaveMsgsOnSrvr.label "Atstāt vēstules serverī">
-<!ENTITY leaveMsgsOnSrvr.accesskey "L">
+<!ENTITY leaveMsgsOnSrvr.accesskey "S">
 <!ENTITY portNum.label "Ports:">
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Noklusētais:">
@@ -58,15 +58,15 @@
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Ievadiet ienākošā servera nosaukumu (piemēram, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Ienākošais serveris:">
-<!ENTITY incomingServer.accesskey "S">
+<!ENTITY incomingServer.accesskey "I">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Ievadiet ienākošo lietotāja vārdu, ko jums ir devis jūsu epasta pakalpojumu sniedzējs (piemēram, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Lietotājvārds:">
-<!ENTITY incomingUsername.accesskey "U">
+<!ENTITY incomingUsername.accesskey "L">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Ievadiet jūsu ziņu servera (NNTP) nosaukumu (piemēram, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Ziņu grupas serveris:">
-<!ENTITY newsServerLabel.accesskey "S">
+<!ENTITY newsServerLabel.accesskey "Z">
 
 <!-- Entities for Outgoing Server page -->
 
@@ -74,10 +74,10 @@
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
 <!ENTITY outgoingServer.description "Ievadiet izejošā servera (SMTP) nosaukumu (piemēram, &quot;smtp.example.net&quot;).">
 <!ENTITY outgoingServer.label "Izejošais serveris:">
-<!ENTITY outgoingServer.accesskey "S">
+<!ENTITY outgoingServer.accesskey "I">
 <!ENTITY outgoingUsername.description "Ievadiet izejošo lietotāja vārdu, ko jums ir devis jūsu epasta pakalpojumu sniedzējs (tas parasti ir tāds pats kā jūsu ienākošā lietotāja vārds).">
 <!ENTITY outgoingUsername.label "Izejošais lietotāja vārds:">
-<!ENTITY outgoingUsername.accesskey "U">
+<!ENTITY outgoingUsername.accesskey "l">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
@@ -108,7 +108,7 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Ievadiet nosaukumu, ar kuru vēlaties atsaukties uz šo kontu (piemēram, &quot;Darba konts&quot;, &quot;Mājas konts&quot; &quot;Ziņu konts&quot;).">
 <!ENTITY accnameLabel.label "Konta nosaukums:">
-<!ENTITY accnameLabel.accesskey "A">
+<!ENTITY accnameLabel.accesskey "K">
 
 <!-- Entities for Done (Congratulations) page -->
 
@@ -119,9 +119,9 @@
 <!ENTITY smtpServerNamePrefix.label "Izejošā servera nosaukums (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Ziņu servera nosaukums (NNTP):">
 <!ENTITY downloadOnLogin.label "Lejuplādēt vēstules tagad">
-<!ENTITY downloadOnLogin.accesskey "D">
+<!ENTITY downloadOnLogin.accesskey "L">
 <!ENTITY deferStorageDesc.label "Noņemiet atzīmi no šīs izvēles rūtiņas, lai šī konta vēstules glabātu savā mapē. Tad šis konts tiks parādīts kā augstākā līmeņa konts. Pretējā gadījumā tas būs globālās iesūtnes lokālo mapju daļa.">
 <!ENTITY deferStorage.label "Izmantot globālo iesūtni (saglabāt pastu lokālās mapēs)">
-<!ENTITY deferStorage.accesskey "G">
+<!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Klikšķiniet uz Pabeigt, lai saglabātu šos iestatījumus un izietu no konta vedņa.">
 <!ENTITY clickFinish.labelMac "Noklikšķiniet uz Gatavs, lai saglabātu šos iestatījumus un izietu no Konta vedņa.">

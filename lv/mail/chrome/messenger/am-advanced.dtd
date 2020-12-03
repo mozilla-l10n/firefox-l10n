@@ -11,13 +11,13 @@
 <!ENTITY smtpDescription.label "Pārvaldot identitātes, varat izmantot serveri no šī saraksta, izvēloties to kā izejošo serveri (SMTP), vai arī varat izmantot noklusējuma serveri no šī saraksta, izvēloties &quot;Izmantot noklusēto serveri&quot;.">
 
 <!ENTITY smtpListAdd.label  "Pievienot…">
-<!ENTITY smtpListAdd.accesskey  "d">
+<!ENTITY smtpListAdd.accesskey  "P">
 <!ENTITY smtpListEdit.label "Rediģēt...">
-<!ENTITY smtpListEdit.accesskey "e">
+<!ENTITY smtpListEdit.accesskey "R">
 <!ENTITY smtpListDelete.label "Noņemt">
-<!ENTITY smtpListDelete.accesskey "m">
+<!ENTITY smtpListDelete.accesskey "N">
 <!ENTITY smtpListSetDefault.label "Iestatīt noklusēto">
-<!ENTITY smtpListSetDefault.accesskey "t">
+<!ENTITY smtpListSetDefault.accesskey "I">
 
 <!ENTITY serverDetails.label "Izvēlētā servera informācija:">
 <!ENTITY serverDescription.label "Apraksts:">

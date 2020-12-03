@@ -10,15 +10,15 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                            "Atvērt mapi">
-<!ENTITY cmd.show.accesskey                        "F">
+<!ENTITY cmd.show.accesskey                        "m">
 <!ENTITY cmd.showMac.label                         "Rādīt meklētājā">
-<!ENTITY cmd.showMac.accesskey                     "F">
+<!ENTITY cmd.showMac.accesskey                     "R">
 <!ENTITY cmd.open.label                            "Atvērt">
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Noņemt no vēstures">
-<!ENTITY cmd.removeFromHistory.accesskey           "e">
+<!ENTITY cmd.removeFromHistory.accesskey           "N">
 <!ENTITY cmd.clearList.label                       "Notīrīt sarakstu">
-<!ENTITY cmd.clearList.accesskey                   "C">
+<!ENTITY cmd.clearList.accesskey                   "s">
 <!ENTITY cmd.clearList.tooltip                     "Noņemt visus ierakstus no saglabāto failu saraksta, izņemot notiekošās lejuplādes.">
 <!ENTITY cmd.searchDownloads.label                 "Meklēt...">
 <!ENTITY cmd.searchDownloads.key                   "F">

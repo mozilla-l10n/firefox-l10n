@@ -12,6 +12,6 @@
 <!ENTITY addDirectory.label        "Pievienot">
 <!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "Rediģēt">
-<!ENTITY editDirectory.accesskey   "e">
+<!ENTITY editDirectory.accesskey   "R">
 <!ENTITY deleteDirectory.label     "Dzēst">
 <!ENTITY deleteDirectory.accesskey "D">

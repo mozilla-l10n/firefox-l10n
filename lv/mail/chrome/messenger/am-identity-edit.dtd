@@ -14,4 +14,4 @@
 <!ENTITY publicData.label        "Publiskie dati">
 <!ENTITY privateData.label       "Privātie dati">
 <!ENTITY identityAlias.label     "Identitātes etiķete:">
-<!ENTITY identityAlias.accesskey "b">
+<!ENTITY identityAlias.accesskey "I">

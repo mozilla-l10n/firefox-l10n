@@ -9,12 +9,12 @@
 <!ENTITY addressingText.label      "Meklējot adreses:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Šim kontam izmantot jūsu globālos LDAP servera iestatījumus">
-<!ENTITY useGlobal.accesskey       "U">
+<!ENTITY useGlobal.accesskey       "g">
 <!ENTITY editDirectories.label     "Rediģēt katalogus…">
-<!ENTITY editDirectories.accesskey "E">
+<!ENTITY editDirectories.accesskey "R">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Izmantot citu LDAP serveri:">
-<!ENTITY directories.accesskey     "d">
+<!ENTITY directories.accesskey     "I">
 <!ENTITY directoriesNone.label     "Nekas">
 
 <!-- am-addressing.xhtml -->
@@ -22,12 +22,12 @@
 <!ENTITY compositionGroupTitle.label          "Kompozīcija">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Salikt vēstules HTML formātā">
-<!ENTITY useHtml.accesskey                    "C">
+<!ENTITY useHtml.accesskey                    "S">
 <!ENTITY autoQuote.label                      "Atbildot, automātiski citēt sākotnējo vēstuli">
-<!ENTITY autoQuote.accesskey                  "m">
+<!ENTITY autoQuote.accesskey                  "a">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Citējot,">
-<!ENTITY quoting.accesskey                    "q">
+<!ENTITY quoting.accesskey                    "c">
 <!ENTITY aboveQuote.label                     "sākt jūsu atbildi virs citāta">
 <!ENTITY belowQuote.label                     "sākt jūsu atbildi zem citāta">
 <!ENTITY selectAndQuote.label                 "izvēlieties citātu">
@@ -36,9 +36,9 @@
 <!ENTITY belowText.label                      "zem citāta (ieteicams)">
 <!ENTITY aboveText.label                      "zem manas atbildes (virs citāta)">
 <!ENTITY includeSigOnReply.label              "Atbildēs iekļaut parakstu">
-<!ENTITY includeSigOnReply.accesskey          "I">
+<!ENTITY includeSigOnReply.accesskey          "p">
 <!ENTITY includeSigOnForward.label            "Pārsūtot iekļaut parakstu">
-<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY includeSigOnForward.accesskey        "p">
 
 <!ENTITY globalComposingPrefs.label           "Globālie salikšanas iestatījumi…">
 <!ENTITY globalComposingPrefs.accesskey       "G">

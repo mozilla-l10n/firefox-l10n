@@ -8,19 +8,19 @@
 <!ENTITY  accountManagerCloseButton.label "Aizvērt">
 
 <!ENTITY accountActionsButton.label "Konta darbības">
-<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY accountActionsButton.accesskey "K">
 <!ENTITY addMailAccountButton.label "Pievienot pasta kontu…">
-<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addMailAccountButton.accesskey "P">
 <!ENTITY addIMAccountButton.label "Pievienot tērzēšanas kontu…">
-<!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addIMAccountButton.accesskey "t">
 <!ENTITY addFeedAccountButton.label "Pievienot plūsmas kontu…">
-<!ENTITY addFeedAccountButton.accesskey "F">
+<!ENTITY addFeedAccountButton.accesskey "p">
 <!ENTITY addOtherAccountButton.label "Pievienot citu kontu…">
-<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY addOtherAccountButton.accesskey "c">
 <!ENTITY setDefaultButton.label "Iestatīt kā noklusēto">
-<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY setDefaultButton.accesskey "n">
 <!ENTITY removeButton.label "Noņemt kontu">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "N">
 
 <!ENTITY addonsButton.label "Paplašinājumi &amp; Tēmas">
 
