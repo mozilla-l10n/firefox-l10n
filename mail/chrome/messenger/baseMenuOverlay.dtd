@@ -24,16 +24,16 @@
 <!ENTITY productHelpMac.modifiers "accel">
 
 <!ENTITY helpKeyboardShortcuts.label "Īsinājumtaustiņi">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
+<!ENTITY helpKeyboardShortcuts.accesskey "s">
 
 <!ENTITY helpFeedbackPage.label "Iesniegt atsauksmi…">
-<!ENTITY helpFeedbackPage.accesskey "S">
+<!ENTITY helpFeedbackPage.accesskey "I">
 
 <!ENTITY helpShowTour2.label "&brandShorterName; ekskursija">
-<!ENTITY helpShowTour2.accesskey "o">
+<!ENTITY helpShowTour2.accesskey "e">
 
 <!ENTITY helpGetInvolvedPage.label "Iesaistieties">
 <!ENTITY helpGetInvolvedPage.accesskey "I">
 
 <!ENTITY helpDonationsPage.label "Ziedojiet">
-<!ENTITY helpDonationsPage.accesskey "M">
+<!ENTITY helpDonationsPage.accesskey "Z">

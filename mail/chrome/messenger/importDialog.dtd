@@ -12,15 +12,15 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY importDialog.windowTitle "Importēt">
 <!ENTITY importAll.label          "Importēt visu">
-<!ENTITY importAll.accesskey      "E">
+<!ENTITY importAll.accesskey      "I">
 <!ENTITY importMail.label         "Pasts">
-<!ENTITY importMail.accesskey     "M">
+<!ENTITY importMail.accesskey     "P">
 <!ENTITY importFeeds.label        "Plūsmas abonementi">
-<!ENTITY importFeeds.accesskey    "d">
+<!ENTITY importFeeds.accesskey    "P">
 <!ENTITY importAddressbook.label  "Adrešu grāmatas">
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Iestatījumi">
-<!ENTITY importSettings.accesskey "S">
+<!ENTITY importSettings.accesskey "I">
 <!ENTITY importFilters.label      "Filtri">
 <!ENTITY importFilters.accesskey  "F">
 
@@ -35,7 +35,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY selectDescription.label  "Lūdzu, atlasiet faila veidu, kuru vēlaties importēt:">
 <!ENTITY selectDescriptionB.label "Lūdzu, izvēlieties esošu kontu vai izveidojiet jaunu kontu:">
-<!ENTITY selectDescription.accesskey "P">
+<!ENTITY selectDescription.accesskey "I">
 <!ENTITY acctName.label           "Nosaukums:">
 <!ENTITY acctName.accesskey       "N">
 <!ENTITY noModulesFound.label     "Netika atrasta neviena lietotne vai fails, no kā importēt datus.">

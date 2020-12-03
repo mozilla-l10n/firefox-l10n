@@ -7,4 +7,4 @@
 <!ENTITY optional.label                 "(neobligāts)">
 <!ENTITY account.label                  "Konts">
 <!ENTITY autojoin.label                 "Pievienoties šai tērzēšanas istabai automātiski">
-<!ENTITY autojoin.accesskey             "A">
+<!ENTITY autojoin.accesskey             "P">

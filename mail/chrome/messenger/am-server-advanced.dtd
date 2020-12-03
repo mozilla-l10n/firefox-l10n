@@ -5,11 +5,11 @@
 <!ENTITY serverAdvanced.label "Papildu konta iestatījumi">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP servera katalogs:">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.accesskey "k">
 <!ENTITY usingSubscription.label "Rādīt tikai abonētās mapes">
-<!ENTITY usingSubscription.accesskey "w">
+<!ENTITY usingSubscription.accesskey "R">
 <!ENTITY dualUseFolders.label "Serveris atbalsta mapes, kas satur apakšmapes un vēstules">
-<!ENTITY dualUseFolders.accesskey "f">
+<!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY maximumConnectionsNumber.label "Maksimālais kešoto servera savienojumu skaits">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -19,13 +19,13 @@
 <!ENTITY publicNamespace.label "Publiskā (koplietota):">
 <!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "Citi lietotāji:">
-<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY otherUsersNamespace.accesskey "C">
 <!ENTITY overrideNamespaces.label "Ļaut serverim ignorēt šīs nosaukumvietas">
-<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY overrideNamespaces.accesskey "a">
 <!ENTITY pop3DeferringDesc.label "Lejuplādējot epastu no šī konta servera, jaunu vēstuļu glabāšanai izmantot šo mapi:">
 <!ENTITY accountInbox.label "Šī konta iesūtne">
-<!ENTITY accountInbox.accesskey "s">
+<!ENTITY accountInbox.accesskey "k">
 <!ENTITY deferToServer.label "Cita konta iesūtne">
-<!ENTITY deferToServer.accesskey "d">
+<!ENTITY deferToServer.accesskey "c">
 <!ENTITY deferGetNewMail.label "Saņemot jaunu pastu, iekļaut šo serveri">
-<!ENTITY deferGetNewMail.accesskey "I">
+<!ENTITY deferGetNewMail.accesskey "s">

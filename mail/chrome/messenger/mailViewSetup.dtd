@@ -6,5 +6,5 @@
 
 <!ENTITY mailViewSetupTitle.label "Vēstules skata iestatīšana">
 <!ENTITY mailViewHeading.label "Vēstules skata nosaukums:">
-<!ENTITY mailViewHeading.accesskey "e">
+<!ENTITY mailViewHeading.accesskey "V">
 <!ENTITY searchTermCaption.label "Kad izvēlēts šis skats, parādīt tikai tās vēstules, kas:">

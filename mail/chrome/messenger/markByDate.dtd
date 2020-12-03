@@ -4,6 +4,6 @@
 
 <!ENTITY messageMarkByDate.label "Atzīmēt vēstules kā izlasītas pēc datuma">
 <!ENTITY markByDateLower.label "Atzīmēt vēstules kā lasītas no:">
-<!ENTITY markByDateLower.accesskey "F">
+<!ENTITY markByDateLower.accesskey "n">
 <!ENTITY markByDateUpper.label "Kam:">
-<!ENTITY markByDateUpper.accesskey "T">
+<!ENTITY markByDateUpper.accesskey "k">

@@ -25,7 +25,7 @@
 <!ENTITY accountAliasInfo.label       "Tas tiks parādīts jūsu sarunās tikai tad, kad runājat, attālie kontakti to neredzēs.">
 <!ENTITY accountProxySettings.caption "Starpnieka iestatījumi">
 <!ENTITY accountProxySettings.change.label     "Mainīt…">
-<!ENTITY accountProxySettings.change.accessKey "C">
+<!ENTITY accountProxySettings.change.accessKey "M">
 
 <!ENTITY accountSummaryTitle.label   "Kopsavilkums">
 <!ENTITY accountSummaryInfo.label    "Ievadītās informācijas kopsavilkums ir parādīts zemāk. Pirms konta izveides, lūdzu, to pārbaudiet.">

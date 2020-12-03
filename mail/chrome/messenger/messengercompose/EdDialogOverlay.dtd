@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY AdvancedEditButton.label "Papildu rediģēšana…">
-<!ENTITY AdvancedEditButton.accessKey "R">
+<!ENTITY AdvancedEditButton.accessKey "P">
 <!ENTITY AdvancedEditButton.tooltip "Pievienot vai mainīt HTML atribūtus, stila atribūtus un JavaScript">
 <!ENTITY chooseFileButton.label "Izvēlieties datni...">
-<!ENTITY chooseFileButton.accessKey "d">
+<!ENTITY chooseFileButton.accessKey "I">
 <!ENTITY chooseFileLinkButton.label "Izvēlieties failu...">
 <!ENTITY chooseFileLinkButton.accessKey "f">
 <!ENTITY makeUrlRelative.label "URL ir relatīvs lapas vietai">
-<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Pārslēgt starp relatīvo un absolūto URL. Lai to mainītu, vispirms jāsaglabā lapa.">
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField2.label "Ievadiet tīmekļa lapas atrašanās vietu, vietējo failu, vai izvēlieties nosauktu enkuru vai virsrakstu no lauka konteksta izvēlnes:">
-<!ENTITY LinkURLEditField2.accessKey "w">
+<!ENTITY LinkURLEditField2.accessKey "t">

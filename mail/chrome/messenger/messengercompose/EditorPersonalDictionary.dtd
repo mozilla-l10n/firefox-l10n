@@ -12,7 +12,7 @@
 <!ENTITY DictionaryList.label "Vārdi vārdnīcā:">
 <!ENTITY DictionaryList.accessKey "V">
 <!ENTITY RemoveButton.label "Noņemt">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY RemoveButton.accessKey "N">
 
 <!ENTITY CloseButton.label "Aizvērt">
 <!ENTITY CloseButton.accessKey "A">

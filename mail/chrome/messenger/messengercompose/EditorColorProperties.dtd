@@ -6,10 +6,10 @@
 <!ENTITY windowTitle.label "Lapas krāsas un fons">
 <!ENTITY pageColors.label "Lapas krāsas">
 <!ENTITY defaultColorsRadio.label "Lasītāja noklusētās krāsas (lapā krāsas neiestatīt)">
-<!ENTITY defaultColorsRadio.accessKey "N">
+<!ENTITY defaultColorsRadio.accessKey "L">
 <!ENTITY defaultColorsRadio.tooltip "Izmantot krāsas iestatījumus tikai no skatītāja (lasītāja) pārlūka krāsām">
 <!ENTITY customColorsRadio.label "Lietot pielāgotas krāsas:">
-<!ENTITY customColorsRadio.accessKey "P">
+<!ENTITY customColorsRadio.accessKey "p">
 <!ENTITY customColorsRadio.tooltip "Šie krāsu iestatījumi ignorē skatītāja pārlūka iestatījumus">
 
 <!ENTITY normalText.label "Parasts teksts">
@@ -19,7 +19,7 @@
 <!ENTITY activeLinkText.label "Aktīvās saites teksts">
 <!ENTITY activeLinkText.accessKey "A">
 <!ENTITY visitedLinkText.label "Apmeklētās saites teksts">
-<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY visitedLinkText.accessKey "p">
 <!ENTITY background.label "Fons:">
 <!ENTITY background.accessKey "F">
 <!ENTITY colon.character ":">

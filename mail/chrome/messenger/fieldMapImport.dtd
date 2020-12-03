@@ -8,13 +8,13 @@
 <!ENTITY fieldMapImport.next.label "Nākamais">
 <!ENTITY fieldMapImport.next.accesskey "N">
 <!ENTITY fieldMapImport.previous.label "Iepriekšējais">
-<!ENTITY fieldMapImport.previous.accesskey "P">
+<!ENTITY fieldMapImport.previous.accesskey "I">
 <!ENTITY fieldMapImport.text "Izmantojiet Pārvietot uz augšu un Pārvietot uz leju, lai adreses grāmatas lauki kreisajā pusē atbilstu pareizajiem importēšanas datiem labajā pusē. Noņemiet atzīmi no vienumiem, kurus nevēlaties importēt.">
 <!ENTITY fieldMapImport.up.label "Pārvietot augšup">
-<!ENTITY fieldMapImport.up.accesskey "U">
+<!ENTITY fieldMapImport.up.accesskey "A">
 <!ENTITY fieldMapImport.down.label "Pārvietot lejup">
-<!ENTITY fieldMapImport.down.accesskey "D">
+<!ENTITY fieldMapImport.down.accesskey "L">
 <!ENTITY fieldMapImport.fieldListTitle "Adrešu grāmatas lauki">
 <!ENTITY fieldMapImport.dataTitle "Importējamo datu ieraksti">
 <!ENTITY fieldMapImport.skipFirstRecord.label "Pirmajā ierakstā ir lauku nosaukumi">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "P">
