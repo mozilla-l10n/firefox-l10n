@@ -7,11 +7,11 @@
 <!ENTITY location.label "Vieta:">
 <!ENTITY lastModified.label "Pēdējo reizi mainīts:">
 <!ENTITY titleInput.label "Virsraksts:">
-<!ENTITY titleInput.accessKey "T">
+<!ENTITY titleInput.accessKey "V">
 <!ENTITY authorInput.label "Autors:">
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Apraksts:">
-<!ENTITY descriptionInput.accessKey "D">
+<!ENTITY descriptionInput.accessKey "p">
 <!ENTITY locationNewPage.label "[Jauna lapa, vēl nav saglabāta]">
 <!ENTITY EditHEADSource1.label "Pieredzējuši lietotāji:">
 <!ENTITY EditHEADSource2.label "Lai rediģētu citu &lt;head&gt; saturu reģionā, izmantojiet &quot;HTML avotu&quot; izvēlnē Skats vai rīkjoslā Rediģēšanas režīms.">

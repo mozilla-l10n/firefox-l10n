@@ -6,15 +6,15 @@
 <!ENTITY windowTitle.label "Personīgā vārdnīca">
 
 <!ENTITY wordEditField.label "Jauns vārds:">
-<!ENTITY wordEditField.accessKey "N">
+<!ENTITY wordEditField.accessKey "J">
 <!ENTITY AddButton.label "Pievienot">
-<!ENTITY AddButton.accessKey "A">
+<!ENTITY AddButton.accessKey "P">
 <!ENTITY DictionaryList.label "Vārdi vārdnīcā:">
-<!ENTITY DictionaryList.accessKey "W">
+<!ENTITY DictionaryList.accessKey "V">
 <!ENTITY ReplaceButton.label "Aizstāt">
-<!ENTITY ReplaceButton.accessKey "R">
+<!ENTITY ReplaceButton.accessKey "A">
 <!ENTITY RemoveButton.label "Noņemt">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY RemoveButton.accessKey "N">
 
 <!ENTITY CloseButton.label "Aizvērt">
-<!ENTITY CloseButton.accessKey "A">
+<!ENTITY CloseButton.accessKey "z">

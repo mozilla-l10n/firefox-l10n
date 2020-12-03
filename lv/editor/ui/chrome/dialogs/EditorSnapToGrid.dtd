@@ -7,9 +7,9 @@
 <!ENTITY windowTitle.label "Piestiprināt pie režģa">
 
 <!ENTITY enableSnapToGrid.label "ieslēgt piestiprināšanu pie režģa">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.accessKey "s">
 
 <!ENTITY sizeEditField.label "Izmērs:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.accessKey "I">
 
 <!ENTITY pixelsLabel.value "punkti">
