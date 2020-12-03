@@ -11,6 +11,12 @@ menu-view-charset =
 
 ## Mail Toolbar
 
+toolbar-junk-button =
+    .label = Indesiderata
+    .tooltiptext = Segna i messaggi selezionati come posta indesiderata
+toolbar-not-junk-button =
+    .label = Non indesiderata
+    .tooltiptext = Segna i messaggi selezionati come posta non indesiderata
 toolbar-delete-button =
     .label = Elimina
     .tooltiptext = Elimina i messaggi o la cartella selezionata
