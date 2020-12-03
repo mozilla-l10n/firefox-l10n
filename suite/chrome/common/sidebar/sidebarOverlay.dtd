@@ -35,4 +35,4 @@
 <!ENTITY sidebar.search.label         "Αναζήτηση">
 <!ENTITY sidebar.client-bookmarks.label     "Σελιδοδείκτες">
 <!ENTITY sidebar.client-history.label       "Ιστορικό">
-<!ENTITY sidebar.client-addressbook.label   "Ευρετήριο διευθύνσεων">
+<!ENTITY sidebar.client-addressbook.label   "Ευρετήριο">
