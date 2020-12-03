@@ -59,6 +59,9 @@ app-basics-enabled-plugins = Mba’ejoajurã myendypyre
 app-basics-build-config = Mbyatypy ñemboheko
 app-basics-user-agent = Puruhára pytyvõha
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta omoñe’ẽasapyre
 app-basics-memory-use = Mandu’arenda jepuru
 app-basics-performance = Mba’eaporã
 app-basics-service-workers = Mba’apohára mba’epytyvõrã mboguapyréva
