@@ -5,14 +5,14 @@
 <!ENTITY windowTitle.label "Etiķetes īpašības">
 
 <!ENTITY Settings.label "Iestatījumi">
-<!ENTITY Settings.accesskey "s">
+<!ENTITY Settings.accesskey "I">
 
 <!ENTITY EditLabelText.label "Rediģēt tekstu:">
-<!ENTITY EditLabelText.accesskey "t">
+<!ENTITY EditLabelText.accesskey "R">
 <!ENTITY LabelFor.label "Vadībai:">
-<!ENTITY LabelFor.accesskey "F">
+<!ENTITY LabelFor.accesskey "V">
 <!ENTITY AccessKey.label "Piekļuves taustiņš:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "P">
 
 <!ENTITY RemoveLabel.label "Noņemt birku">
-<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.accesskey "N">

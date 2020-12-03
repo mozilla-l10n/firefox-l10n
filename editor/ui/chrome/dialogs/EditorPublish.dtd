@@ -11,25 +11,25 @@
 
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Vietnes nosaukums:">
-<!ENTITY siteList.accesskey           "e">
+<!ENTITY siteList.accesskey           "V">
 <!ENTITY siteList.tooltip             "Izvēlieties vietni, kurā vēlaties publicēt">
 <!ENTITY newSiteButton.label          "Jauna vietne">
-<!ENTITY newSiteButton.accesskey      "n">
+<!ENTITY newSiteButton.accesskey      "J">
 <!ENTITY docDirList.label             "Šīs lapas vietas apakšmape:">
-<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.accesskey         "a">
 <!ENTITY docDirList.tooltip           "Izvēlieties vai ievadiet šīs lapas attālās apakšmapes nosaukumu">
 <!ENTITY publishImgCheckbox.label     "Iekļaut attēlus un citus failus">
-<!ENTITY publishImgCheckbox.accesskey "o">
+<!ENTITY publishImgCheckbox.accesskey "I">
 <!ENTITY publishImgCheckbox.tooltip   "Publicēt attēlus un citus failus, uz kuriem norāda šī lapa">
 <!ENTITY sameLocationRadio.label      "Izmantot to pašu vietu kā lapai">
-<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.accesskey  "z">
 <!ENTITY sameLocationRadio.tooltip    "Publicēt failus tajā pašā vietā, kur lapa">
 <!ENTITY useSubdirRadio.label         "Izmantot šo vietnes apakšmapi:">
-<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.accesskey     "a">
 <!ENTITY useSubdirRadio.tooltip       "Publicēt failus atlasītajā attālajā apakšmapē">
 <!ENTITY otherDirList.tooltip         "Izvēlieties vai ievadiet attālās apakšmapes nosaukumu, kurā tiks publicēti faili">
 <!ENTITY pageTitle.label              "Lapas virsraksts:">
-<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.accesskey          "v">
 <!ENTITY pageTitle.tooltip            "Ievadiet virsrakstu, lai noteiktu lapu logā un grāmatzīmēs">
 <!ENTITY pageTitleExample.label       "piem.: &quot;Mana lapa&quot;">
 <!ENTITY filename.label               "Faila nosaukums:">
@@ -37,28 +37,28 @@
 <!ENTITY filename.tooltip             "Ievadiet šī faila nosaukumu, tīmekļa lapai ieskaitot '.html'">
 <!ENTITY filenameExample.label        "piem.: &quot;manalapa.html&quot;">
 <!ENTITY setDefaultButton.label       "Iestatīt kā noklusēto">
-<!ENTITY setDefaultButton.accesskey   "D">
+<!ENTITY setDefaultButton.accesskey   "n">
 <!ENTITY removeButton.label           "Noņemt vietni">
-<!ENTITY removeButton.accesskey       "R">
+<!ENTITY removeButton.accesskey       "N">
 
 <!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Publicēšanas vietnes">
 <!ENTITY serverInfo.label             "Servera informācija">
 <!ENTITY loginInfo.label              "Pieteikšanās informācija">
 <!ENTITY siteName.label               "Vietnes nosaukums:">
-<!ENTITY siteName.accesskey           "e">
+<!ENTITY siteName.accesskey           "n">
 <!ENTITY siteName.tooltip             "Segvārds, kas identificē šo izdevēju vietni (piem.: 'Mana vietne')">
 <!ENTITY siteUrl.label                "Publicētāja adrese (piem.: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "FTP:// vai HTTP:// adrese ko piedāvā jūsu tīmekļa mitināšanas pakalpojums">
 <!ENTITY browseUrl.label              "Jūsu mājas lapas HTTP adrese (piem.: 'http://www.myisp.com/myusername'):">
-<!ENTITY browseUrl.accesskey          "T">
+<!ENTITY browseUrl.accesskey          "m">
 <!ENTITY browseUrl.tooltip            "Jūsu mājas mapes HTTP:// adrese (neiekļaujiet faila nosaukumu)">
 <!ENTITY username.label               "Lietotājvārds:">
-<!ENTITY username.accesskey           "U">
+<!ENTITY username.accesskey           "L">
 <!ENTITY username.tooltip             "Lietotājvārds, kuru izmantojat piesakoties savā ISP vai tīmekļa mitināšanas pakalpojumā">
 <!ENTITY password.label               "Parole:">
-<!ENTITY password.accesskey           "w">
+<!ENTITY password.accesskey           "P">
 <!ENTITY password.tooltip             "Ar jūsu lietotājvārdu saistītā parole">
 <!ENTITY savePassword.label           "Saglabāt paroli">
 <!ENTITY savePassword.accesskey       "S">
