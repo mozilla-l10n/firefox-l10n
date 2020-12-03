@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Ievietot rakstzīmi">
+<!ENTITY windowTitle.label "Lapas krāsas un fons">
 <!ENTITY pageColors.label "Lapas krāsas">
 <!ENTITY defaultColorsRadio.label "Lasītāja noklusētās krāsas (neiestatīt krāsas lapā)">
 <!ENTITY defaultColorsRadio.accessKey "n">
