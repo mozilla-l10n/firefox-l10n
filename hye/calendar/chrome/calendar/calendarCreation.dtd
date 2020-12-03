@@ -10,7 +10,13 @@
 <!ENTITY initialpage.computer.label  "Իմ համակարգչում">
 <!ENTITY initialpage.network.label  "Ցանցահիւսում">
 
+<!ENTITY locationpage.description         "Տրամադրել տեղեկութիւն, թե ինչպէս մուտք գործել Ձեր հեռակայ աւրացոյց" >
+<!ENTITY locationpage.login.description   "Ընտրովի․ գրել աւգտանուն եւ գաղտաբառ" >
+<!ENTITY locationpage.username.label      "Աւգտանուն․" >
+<!ENTITY locationpage.password.label      "Գաղտնաբառ․" >
 
+<!ENTITY custompage.shortdescription  "Յարմարացրէք ձեր աւրացոյցը" >
+<!ENTITY custompage.longdescription   "Դուք կարող էք անուանել եւ գունաւորել իրադարձութիւններն աւրացոյցում" >
 
 
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
