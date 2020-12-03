@@ -23,10 +23,20 @@
 <!ENTITY calendar.events.filter.next7Days.label "Իրադարձութիւններն յաջորդ 7 աւրում">
 <!ENTITY calendar.events.filter.next14Days.label "Իրադարձութիւններ յաջորդ 14 աւրում">
 <!ENTITY calendar.events.filter.next31Days.label "Իրադարձութիւններ յաջորդ 31 աւրում">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Տուեալ ամսի իրադարձութիւնները">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
+<!ENTITY calendar.unifinder.tree.done.label                "Աւարտ">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Խմբաւորել ըստ կատարուելիքի">
+<!ENTITY calendar.unifinder.tree.priority.label            "Առաջնահերթութիւն">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Խմբաւորել ըստ առաջնահերթութեան">
+<!ENTITY calendar.unifinder.tree.title.label               "Վերնագիր">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Խմբաւորել ըստ վերնագրի">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; Կատարեալ">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Խմբաւորել ըստ &#37; աւարտի">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Սկսել">
 
 
 
