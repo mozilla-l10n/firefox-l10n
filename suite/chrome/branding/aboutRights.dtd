@@ -17,6 +17,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "Το &brandShortName; είναι διαθέσιμο σε εσάς υπό τους όρους της ">
+<!ENTITY rights.intro-point1b "άδειας Mozilla Public License">
 
 <!ENTITY rights.intro-point2b "εδώ">
 <!ENTITY rights.intro-point2c ".">
