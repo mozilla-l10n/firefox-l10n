@@ -176,6 +176,11 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] Ih, kkes inekcam-a
        *[other] Ih, kkes inekcamen-a
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Kkes anekcum { $count }?
+       *[other] Kkes inekcumen { $count }?
+    }
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…
