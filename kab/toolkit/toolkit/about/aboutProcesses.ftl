@@ -24,8 +24,13 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (akala { $pid })
+about-processes-extension-process-name = Isiɣzaf (akala { $pid })
+about-processes-privilegedabout-process-name = Ɣef (ukala { $pid })
+about-processes-plugin-process-name = Izegrar (akala { $pid })
+about-processes-privilegedmozilla-process-name = Web (akala { $pid }) i yismal n  { -vendor-short-name }
 about-processes-gpu-process-name = GPU (akala { $pid })
 about-processes-vr-process-name = VR (akala { $pid })
+about-processes-socket-process-name = Azeṭṭa (akala { $pid })
 about-processes-unknown-process-name = ({ $type }, akala { $pid }) wayeḍ
 # Process
 # Variables:
