@@ -66,6 +66,7 @@ experimental-features-devtools-serviceworker-debugger-support-description = Hata
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Ses Kapatma Düğmeleri
+experimental-features-webrtc-global-mute-toggles-description = WebRTC genel paylaşım göstergesine kullanıcıların mikrofonlarını ve kameralarını her yerde sessize almalarını sağlayan düğmeleri ekler.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

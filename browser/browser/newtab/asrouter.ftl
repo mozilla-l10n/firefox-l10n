@@ -270,3 +270,8 @@ cfr-whatsnew-clear-cookies-image-alt = Çerez engellendi çizimi
 cfr-whatsnew-media-keys-header = Daha fazla medya kontrolü
 cfr-whatsnew-media-keys-body = Ses ve videoları doğrudan klavyenizden veya kulaklığınızdan oynatıp duraklatabilirsiniz. Böylece medyayı başka bir sekmeden, programdan ve hatta bilgisayarınız kilitliyken bile yönetmek kolaylaşıyor. İleri ve geri tuşlarını kullanarak da parçalar arasında gezinebilirsiniz.
 cfr-whatsnew-media-keys-button = Nasıl yapıldığını öğren
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Adres çubuğunda arama kısayolları
+cfr-whatsnew-search-shortcuts-body = Adres çubuğuna bir arama motorunun veya belirli bir sitenin adını yazdığınızda açılan arama önerilerinde mavi bir kısayol görünecek. Adres çubuğu üzerinden hemen arama yapmak için bu kısayolu seçebilirsiniz.
