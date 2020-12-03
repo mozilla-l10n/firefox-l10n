@@ -6,7 +6,7 @@
 <!ENTITY  from.label                  "աղբյուրը.">
 <!ENTITY  actionQuestion.label        "Ի՞նչ պիտի &brandShortName;­ն անի այս ֆայլի հետ:">
 
-<!ENTITY  openWith.label              "Բացել սրանով՝">
+<!ENTITY  openWith.label              "Բացել հետևյալով՝">
 <!ENTITY  openWith.accesskey          "Բ">
 <!ENTITY  other.label                 "Այլ…">
 
