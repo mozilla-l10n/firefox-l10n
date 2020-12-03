@@ -18,11 +18,14 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "Το &brandShortName; είναι διαθέσιμο σε εσάς υπό τους όρους της ">
 <!ENTITY rights.intro-point1b "άδειας Mozilla Public License">
+<!ENTITY rights.intro-point1c ". Δηλαδή, μπορείτε να χρησιμοποιήσετε, να αντιγράψετε και να διανείμετε το &brandShortName; σε τρίτους. Είστε ευπρόσδεκτοι να τροποποιήσετε τον πηγαίο κώδικα του &brandShortName; ώστε να ταιριάζει στις ανάγκες σας. Η άδεια Mozilla Public License σάς δίνει επίσης το δικαίωμα να διανείμετε τις τροποποιημένες εκδόσεις σας.">
 
+<!ENTITY rights.intro-point2aa "Η &vendorShortName; δεν σας παραχωρεί κανένα δικαίωμα για τα εμπορικά σήματα ή τα λογότυπα του &quot;&brandFullName;&quot;. Περισσότερες πληροφορίες σχετικά με τα εμπορικά σήματα μπορείτε να βρείτε ">
 <!ENTITY rights.intro-point2b "εδώ">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2da is technically point 3. in the list -->
+<!ENTITY rights.intro-point2da "Ορισμένες λειτουργίες στο &brandShortName;, όπως η Αναφορά καταρρεύσεων, σας παρέχουν την επιλογή για αποστολή σχολείων στη &vendorShortName;. Επιλέγοντας την υποβολή σχολίων, παραχωρείτε στη &vendorShortName; το δικαίωμα χρήσης των σχολίων για βελτίωση των εφαρμογών της, τη δημοσίευση των σχολίων στις ιστοσελίδες της, καθώς και τη διανομή των σχολίων.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Μπορείτε να βρείτε τις πολιτικές απορρήτου για τα προϊόντα της &vendorShortName;">
@@ -50,7 +53,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Ασφαλής περιήγηση:">
-<!ENTITY rights.safebrowsing-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
+<!ENTITY rights.safebrowsing-term1 "Ανοίξτε τις προτιμήσεις της εφαρμογής">
 <!ENTITY rights.safebrowsing-term4 "Η ασφαλής περιήγηση είναι πλέον ανενεργή">
 
 <!-- location aware browsing points for branded builds -->
