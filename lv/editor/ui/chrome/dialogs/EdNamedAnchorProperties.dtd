@@ -4,5 +4,5 @@
 
 <!ENTITY windowTitle.label "Nosauktā enkura īpašības">
 <!ENTITY anchorNameEditField.label "Enkura nosaukums:">
-<!ENTITY anchorNameEditField.accessKey "n">
+<!ENTITY anchorNameEditField.accessKey "N">
 <!ENTITY nameInput.tooltip "Ievadiet šim enkuram (mērķim) unikālu nosaukumu">

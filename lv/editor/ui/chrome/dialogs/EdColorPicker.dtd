@@ -4,19 +4,19 @@
 
 <!ENTITY windowTitle.label "Krāsa">
 <!ENTITY lastPickedColor.label "Pēdējā izvēlētā krāsa">
-<!ENTITY lastPickedColor.accessKey "L">
+<!ENTITY lastPickedColor.accessKey "P">
 <!ENTITY chooseColor1.label "Izvēlieties krāsu:">
 <!ENTITY chooseColor2.label "Ievadiet HTML krāsu virkni">
-<!ENTITY chooseColor2.accessKey "H">
+<!ENTITY chooseColor2.accessKey "I">
 <!ENTITY setColorExample.label "(piem.: &quot;#0000ff&quot; vai &quot;blue&quot;):">
 <!ENTITY default.label "Noklusētā">
-<!ENTITY default.accessKey "D">
+<!ENTITY default.accessKey "N">
 <!ENTITY palette.label "Palete:">
 <!ENTITY standardPalette.label "Standarta">
 <!ENTITY webPalette.label "Visas tīmekļa krāsas">
 <!ENTITY background.label "Fons:">
-<!ENTITY background.accessKey "B">
+<!ENTITY background.accessKey "F">
 <!ENTITY table.label "Tabula">
 <!ENTITY table.accessKey "T">
 <!ENTITY cell.label "Šūna(s)">
-<!ENTITY cell.accessKey "C">
+<!ENTITY cell.accessKey "n">

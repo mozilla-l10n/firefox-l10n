@@ -3,27 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Lapas krāsas un fons">
+<!ENTITY windowTitle.label "Ievietot rakstzīmi">
 <!ENTITY pageColors.label "Lapas krāsas">
 <!ENTITY defaultColorsRadio.label "Lasītāja noklusētās krāsas (neiestatīt krāsas lapā)">
-<!ENTITY defaultColorsRadio.accessKey "D">
+<!ENTITY defaultColorsRadio.accessKey "n">
 <!ENTITY defaultColorsRadio.tooltip "Izmantot krāsas iestatījumus tikai no skatītāja (lasītāja) pārlūka krāsām">
 <!ENTITY customColorsRadio.label "Lietot pielāgotas krāsas:">
-<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.accessKey "p">
 <!ENTITY customColorsRadio.tooltip "Šie krāsu iestatījumi ignorē skatītāja pārlūka iestatījumus">
 
 <!ENTITY normalText.label "Normāls teksts">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Saites teksts">
-<!ENTITY linkText.accessKey "L">
+<!ENTITY linkText.accessKey "S">
 <!ENTITY activeLinkText.label "Aktīvās saites teksts">
 <!ENTITY activeLinkText.accessKey "A">
 <!ENTITY visitedLinkText.label "Apmeklētās saites teksts">
-<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY visitedLinkText.accessKey "p">
 <!ENTITY background.label "Fons:">
-<!ENTITY background.accessKey "B">
+<!ENTITY background.accessKey "F">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Fona attēls:">
-<!ENTITY backgroundImage.accessKey "m">
+<!ENTITY backgroundImage.accessKey "a">
 <!ENTITY backgroundImage.tooltip "Izmantot attēla failu kā fonu jūsu lapai">
 <!ENTITY backgroundImage.shortenedDataURI "Saīsināts datu URI (kopēšana ievietos pilnu URI starpliktuvē)">

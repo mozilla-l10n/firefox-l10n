@@ -6,8 +6,8 @@
 
 <!ENTITY Settings.label "Iestatījumi">
 
-<!ENTITY ButtonType.label "Tips">
-<!ENTITY ButtonType.accesskey "T">
+<!ENTITY ButtonType.label "Veids">
+<!ENTITY ButtonType.accesskey "V">
 <!ENTITY submit.value "Iesniegt">
 <!ENTITY reset.value "Atstatīt">
 <!ENTITY button.value "Poga">
@@ -17,11 +17,11 @@
 <!ENTITY ButtonValue.label "Vērtība:">
 <!ENTITY ButtonValue.accesskey "V">
 <!ENTITY tabIndex.label "Cilnes indekss:">
-<!ENTITY tabIndex.accesskey "I">
+<!ENTITY tabIndex.accesskey "C">
 <!ENTITY ButtonDisabled.label "Atslēgts">
-<!ENTITY ButtonDisabled.accesskey "D">
+<!ENTITY ButtonDisabled.accesskey "A">
 <!ENTITY AccessKey.label "Piekļuves atslēga:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY AccessKey.accesskey "k">
 
 <!ENTITY RemoveButton.label "Noņemt pogu">
-<!ENTITY RemoveButton.accesskey "R">
+<!ENTITY RemoveButton.accesskey "N">

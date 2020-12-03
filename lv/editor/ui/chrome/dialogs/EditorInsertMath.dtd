@@ -9,13 +9,13 @@
 
 <!ENTITY options.label "Opcijas">
 <!ENTITY optionInline.label "Iekļautais režīms">
-<!ENTITY optionInline.accesskey "N">
+<!ENTITY optionInline.accesskey "I">
 <!ENTITY optionDisplay.label "Rādīšanas režīms">
-<!ENTITY optionDisplay.accesskey "D">
+<!ENTITY optionDisplay.accesskey "R">
 <!ENTITY optionLTR.label "Virzienā no kreisās uz labo">
-<!ENTITY optionLTR.accesskey "L">
+<!ENTITY optionLTR.accesskey "k">
 <!ENTITY optionRTL.label "Virzienā no labās uz kreiso">
-<!ENTITY optionRTL.accesskey "R">
+<!ENTITY optionRTL.accesskey "l">
 
 <!ENTITY insertButton.label "Ievietot">
 <!ENTITY insertButton.accesskey "I">
