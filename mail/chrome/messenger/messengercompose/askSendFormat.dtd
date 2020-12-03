@@ -10,9 +10,9 @@
 <!ENTITY question.label "Vai vēlaties pārvērst ziņojumu par vienkāršu tekstu vai tomēr nosūtīt to HTML formātā?">
 
 <!ENTITY plainTextAndHtml.label "Sūtīt vienkāršā tekstā un HTML">
-<!ENTITY plainTextAndHtml.accesskey "a">
+<!ENTITY plainTextAndHtml.accesskey "S">
 <!ENTITY plainTextOnly.label "Sūtīt tikai teksta veidā">
-<!ENTITY plainTextOnly.accesskey "P">
+<!ENTITY plainTextOnly.accesskey "t">
 <!ENTITY htmlOnly.label "Sūtīt tikai HTML">
 <!ENTITY htmlOnly.accesskey "H">
 

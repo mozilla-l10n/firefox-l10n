@@ -6,10 +6,10 @@
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Ievietot bez formatēšanas">
-<!ENTITY pasteNoFormatting.accesskey "b">
+<!ENTITY pasteNoFormatting.accesskey "I">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAsQuotationCmd.label "Ievietot kā citātu">
-<!ENTITY pasteAsQuotationCmd.accesskey "C">
+<!ENTITY pasteAsQuotationCmd.accesskey "c">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Ievietot">
@@ -18,7 +18,7 @@
 <!ENTITY insertLinkCmd2.accesskey "S">
 <!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Nosaukts enkurs…">
-<!ENTITY insertAnchorCmd.accesskey "E">
+<!ENTITY insertAnchorCmd.accesskey "N">
 <!ENTITY insertImageCmd.label "Attēls…">
 <!ENTITY insertImageCmd.accesskey "A">
 <!ENTITY insertHLineCmd.label "Horizontāla līnija">
@@ -36,9 +36,9 @@
 
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Izveidot saiti…">
-<!ENTITY createLinkCmd.accesskey "s">
+<!ENTITY createLinkCmd.accesskey "I">
 <!ENTITY editLinkCmd.label "Rediģēt saiti Jaunā salicējā">
-<!ENTITY editLinkCmd.accesskey "s">
+<!ENTITY editLinkCmd.accesskey "R">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Izvēlieties fontu">
@@ -47,8 +47,8 @@
 <!ENTITY fontVarWidth.label "Dažāds platums">
 <!ENTITY fontVarWidth.accesskey "D">
 <!ENTITY fontFixedWidth.label "Vienāds platums">
-<!ENTITY fontFixedWidth.accesskey "v">
-<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontFixedWidth.accesskey "V">
+<!ENTITY fontFixedWidth.key "V">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "h">
 <!ENTITY fontTimes.label "Times">
@@ -99,7 +99,7 @@
 <!ENTITY styleSuperscriptCmd.label "Augšraksts">
 <!ENTITY styleSuperscriptCmd.accesskey "g">
 <!ENTITY styleSubscriptCmd.label "Apakšraksts">
-<!ENTITY styleSubscriptCmd.accesskey "P">
+<!ENTITY styleSubscriptCmd.accesskey "p">
 <!ENTITY styleNonbreakingCmd.label "Nepārtraukts">
 <!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Izcēlums">
@@ -120,9 +120,9 @@
 <!ENTITY styleVar.accesskey "D">
 
 <!ENTITY formatFontColor.label "Teksta krāsa…">
-<!ENTITY formatFontColor.accesskey "K">
+<!ENTITY formatFontColor.accesskey "T">
 <!ENTITY tableOrCellColor.label "Tabulas vai šūnas fona krāsa…">
-<!ENTITY tableOrCellColor.accesskey "F">
+<!ENTITY tableOrCellColor.accesskey "T">
 
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
@@ -176,13 +176,13 @@
 <!ENTITY alignMenu.label "Līdzināt">
 <!ENTITY alignMenu.accesskey "L">
 <!ENTITY alignLeft.label "Pa kreisi">
-<!ENTITY alignLeft.accesskey "K">
+<!ENTITY alignLeft.accesskey "k">
 <!ENTITY alignLeft.tooltip "Līdzināt pa kreisi">
 <!ENTITY alignCenter.label "Centrēt">
 <!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "Līdzināt ap centru">
 <!ENTITY alignRight.label "Pa labi">
-<!ENTITY alignRight.accesskey "L">
+<!ENTITY alignRight.accesskey "l">
 <!ENTITY alignRight.tooltip "Līdzināt pa labi">
 <!ENTITY alignJustify.label "Taisnot">
 <!ENTITY alignJustify.accesskey "T">
@@ -196,11 +196,11 @@
 <!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.label "Lapas krāsas un fons…">
-<!ENTITY colorsAndBackground.accesskey "u">
+<!ENTITY colorsAndBackground.accesskey "k">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabula">
-<!ENTITY tableMenu.accesskey "b">
+<!ENTITY tableMenu.accesskey "T">
 
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Atlasīt">
@@ -231,7 +231,7 @@
 <!ENTITY tableColumnBefore.label "Kolonna pirms">
 <!ENTITY tableColumnBefore.accesskey "p">
 <!ENTITY tableColumnAfter.label "Kolonna pēc">
-<!ENTITY tableColumnAfter.accesskey "P">
+<!ENTITY tableColumnAfter.accesskey "c">
 <!ENTITY tableCell.label "Šūna">
 <!ENTITY tableCells.label "Šūna(s)">
 <!ENTITY tableCell.accesskey "n">
@@ -240,9 +240,9 @@
 <!ENTITY tableAllCells.label "Visas šūnas">
 <!ENTITY tableAllCells.accesskey "V">
 <!ENTITY tableCellBefore.label "Šūna pirms">
-<!ENTITY tableCellBefore.accesskey "S">
+<!ENTITY tableCellBefore.accesskey "p">
 <!ENTITY tableCellAfter.label "Šūna pēc">
-<!ENTITY tableCellAfter.accesskey "p">
+<!ENTITY tableCellAfter.accesskey "c">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Dzēst">
 <!ENTITY tableDeleteMenu.accesskey "D">
@@ -255,11 +255,11 @@
 <!ENTITY tableJoinCells.label "s">
 <!ENTITY tableJoinCells.accesskey "s">
 <!ENTITY tableSplitCell.label "Sadalīt šūnu">
-<!ENTITY tableSplitCell.accesskey "C">
+<!ENTITY tableSplitCell.accesskey "S">
 <!ENTITY convertToTable.label "Izveidot tabulu no atlases">
-<!ENTITY convertToTable.accesskey "r">
+<!ENTITY convertToTable.accesskey "I">
 <!ENTITY tableProperties.label "Tabulas īpašības…">
-<!ENTITY tableProperties.accesskey "o">
+<!ENTITY tableProperties.accesskey "T">
 
 <!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Attēls">
@@ -297,8 +297,8 @@
 <!ENTITY insertTOC.label          "Ievietot">
 <!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Atjaunot">
-<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY updateTOC.accesskey      "A">
 <!ENTITY removeTOC.label          "Noņemt">
-<!ENTITY removeTOC.accesskey      "n">
+<!ENTITY removeTOC.accesskey      "N">
 <!ENTITY tocMenu.label            "Satura rādītājs…">
-<!ENTITY tocMenu.accesskey        "b">
+<!ENTITY tocMenu.accesskey        "S">

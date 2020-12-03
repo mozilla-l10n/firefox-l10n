@@ -9,7 +9,7 @@
 <!ENTITY removeAccount.accesskey      "i">
 <!ENTITY removeAccount.desc           "Noņem tikai &brandShortName; zināšanas par šo kontu. Neietekmē pašu kontu serverī.">
 <!ENTITY removeData.label             "Noņemt vēstuļu datus">
-<!ENTITY removeData.accesskey         "n">
+<!ENTITY removeData.accesskey         "d">
 <!ENTITY removeDataChat.label         "Noņemt sarunu datus">
 <!ENTITY removeDataChat.accesskey     "s">
 <!ENTITY removeDataLocalAccount.desc  "No jūsu vietējā diska tiks noņemtas visas ar šo kontu saistītās vēstules, mapes un filtri. Tas neietekmē dažas vēstules, kuras joprojām var glabāt serverī. Neizvēlieties to, ja plānojat arhivēt vietējos datus vai vēlāk tos atkārtoti izmantot &brandShortName;.">

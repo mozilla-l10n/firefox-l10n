@@ -9,27 +9,27 @@
 <!ENTITY fileMenu.label "Fails">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Jauns">
-<!ENTITY newMenu.accesskey "n">
+<!ENTITY newMenu.accesskey "J">
 <!ENTITY newMessage.label "Vēstule">
-<!ENTITY newMessage.key "M">
+<!ENTITY newMessage.key "V">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "V">
 <!ENTITY newContact.label "Adrešu grāmatas kontakts...">
-<!ENTITY newContact.accesskey "k">
+<!ENTITY newContact.accesskey "g">
 <!ENTITY attachMenu.label "Pievienot">
-<!ENTITY attachMenu.accesskey "h">
+<!ENTITY attachMenu.accesskey "P">
 <!ENTITY attachFileCmd.label "Fails(-i)…">
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Failsaite">
-<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachCloudCmd.accesskey "s">
 <!ENTITY attachPageCmd.label "Tīmekļa lapa…">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachPageCmd.accesskey "T">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Personīgā karte (vCard)">
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY remindLater.label "Atgādināt vēlāk">
-<!ENTITY remindLater.accesskey "L">
+<!ENTITY remindLater.accesskey "v">
 <!ENTITY closeCmd.label "Aizvērt">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "A">
@@ -37,33 +37,33 @@
 <!ENTITY saveCmd.key "S">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Saglabāt kā">
-<!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsFileCmd.label "Datne...">
-<!ENTITY saveAsFileCmd.accesskey "D">
+<!ENTITY saveAsCmd.accesskey "k">
+<!ENTITY saveAsFileCmd.label "Fails...">
+<!ENTITY saveAsFileCmd.accesskey "F">
 <!ENTITY saveAsDraftCmd.label "Melnraksts">
 <!ENTITY saveAsDraftCmd.accesskey "M">
 <!ENTITY saveAsTemplateCmd.label "Veidne">
 <!ENTITY saveAsTemplateCmd.accesskey "V">
 <!ENTITY sendNowCmd.label "Sūtīt tagad">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendNowCmd.accesskey "t">
 <!ENTITY sendLaterCmd.label "Sūtīt vēlāk">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY sendLaterCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Lapas iestatījumi…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printPreviewCmd.label "Drukas priekšskats">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "D">
 <!ENTITY printCmd.label "Drukāt…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "D">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Rediģēt">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Atsaukt">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "A">
 <!ENTITY redoCmd.label "Atcelt atsaukšanu">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "t">
@@ -76,27 +76,27 @@
 <!ENTITY deleteCmd.label "Dzēst">
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY editRewrapCmd.label "Pārtīt">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.key "P">
 <!ENTITY renameAttachmentCmd.label "Pārsaukt pielikumu…">
-<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.accesskey "P">
 <!ENTITY reorderAttachmentsCmd.label "Pārkārtot pielikumus…">
-<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.accesskey "r">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Pielikumu rūts">
-<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
+<!ENTITY toggleAttachmentPaneCmd.accesskey "r">
 <!ENTITY selectAllCmd.accesskey "v">
 <!ENTITY findBarCmd.label "Meklēt…">
-<!ENTITY findBarCmd.accesskey "F">
+<!ENTITY findBarCmd.accesskey "M">
 <!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Meklēt un aizstāt…">
-<!ENTITY findReplaceCmd.accesskey "l">
+<!ENTITY findReplaceCmd.accesskey "a">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Meklēt vēlreiz">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "v">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Meklēt iepriekšējo">
-<!ENTITY findPrevCmd.accesskey "v">
+<!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
@@ -126,88 +126,88 @@
 <!ENTITY viewToolbarsMenuNew.label "Rīkjoslas">
 <!ENTITY viewToolbarsMenuNew.accesskey "R">
 <!ENTITY menubarCmd.label "Izvēlnes josla">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.accesskey "I">
 <!ENTITY showCompositionToolbarCmd.label "Salikšanas rīkjosla">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showCompositionToolbarCmd.accesskey "S">
 <!ENTITY showFormattingBarCmd.label "Formatēšanas josla">
 <!ENTITY showFormattingBarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "Statusa josla">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Pielāgot…">
-<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY customizeToolbar.accesskey "P">
 
 <!ENTITY addressSidebar.label "Kontaktu sānjosla">
-<!ENTITY addressSidebar.accesskey "o">
+<!ENTITY addressSidebar.accesskey "K">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatēt">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "F">
 
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Iestatījumi">
 <!ENTITY optionsMenu.accesskey "I">
 <!ENTITY checkSpellingCmd2.label "Pārbaudīt rakstību…">
-<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key "P">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.accesskey "P">
 <!ENTITY enableInlineSpellChecker.label "Pārbaudīt pareizrakstību, rakstot">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
+<!ENTITY enableInlineSpellChecker.accesskey "r">
 <!ENTITY quoteCmd.label "Citēt vēstuli">
-<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY quoteCmd.accesskey "C">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Pievienot personisko karti (vCard)">
-<!ENTITY attachVCard.accesskey "v">
+<!ENTITY attachVCard.accesskey "P">
 
 <!ENTITY returnReceiptMenu.label "Saņemšanas apliecinājums">
-<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY returnReceiptMenu.accesskey "S">
 <!ENTITY dsnMenu.label "Piegādes statusa paziņojums">
-<!ENTITY dsnMenu.accesskey "N">
+<!ENTITY dsnMenu.accesskey "P">
 <!ENTITY deliveryFormatMenu.label "Piegādes formāts">
 <!ENTITY deliveryFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "Noteikt automātiski">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Tikai teksts">
-<!ENTITY plainTextFormatCmd.accesskey "p">
+<!ENTITY plainTextFormatCmd.accesskey "t">
 <!ENTITY htmlFormatCmd.label "Tikai bagāts teksts (HTML)">
-<!ENTITY htmlFormatCmd.accesskey "r">
+<!ENTITY htmlFormatCmd.accesskey "b">
 <!ENTITY bothFormatCmd.label "Vienkāršs un bagāts (HTML) teksts">
-<!ENTITY bothFormatCmd.accesskey "l">
+<!ENTITY bothFormatCmd.accesskey "h">
 <!ENTITY priorityMenu.label "Prioritāte">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY priorityButton.title "Prioritāte">
 <!ENTITY priorityButton.tooltiptext "Mainīt vēstules prioritāti">
 <!ENTITY priorityButton.label "Prioritāte:">
 <!ENTITY lowestPriorityCmd.label "Viszemākā">
-<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowestPriorityCmd.accesskey "v">
 <!ENTITY lowPriorityCmd.label "Zema">
-<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY lowPriorityCmd.accesskey "Z">
 <!ENTITY normalPriorityCmd.label "Normāls">
 <!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "Augsta">
-<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Augstākā">
-<!ENTITY highestPriorityCmd.accesskey "H">
+<!ENTITY highestPriorityCmd.accesskey "g">
 <!ENTITY fileCarbonCopyCmd.label "Sūtīt kopiju uz">
-<!ENTITY fileCarbonCopyCmd.accesskey "d">
+<!ENTITY fileCarbonCopyCmd.accesskey "S">
 <!ENTITY fileHereMenu.label "Fails šeit">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Rīki">
 <!ENTITY tasksMenu.accesskey "R">
 <!ENTITY messengerCmd.label "Pasts &amp; Ziņu grupas">
-<!ENTITY messengerCmd.accesskey "p">
+<!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Adrešu grāmata">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Konta iestatījumi">
-<!ENTITY accountManagerCmd2.accesskey "S">
-<!ENTITY accountManagerCmdUnix2.accesskey "S">
+<!ENTITY accountManagerCmd2.accesskey "K">
+<!ENTITY accountManagerCmdUnix2.accesskey "K">
 <!ENTITY preferencesCmd2.label "Iestatījumi">
 <!ENTITY preferencesCmd2.accesskey "I">
 <!ENTITY preferencesCmdUnix.label "Iestatījumi">
-<!ENTITY preferencesCmdUnix.accesskey "u">
+<!ENTITY preferencesCmdUnix.accesskey "I">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -244,7 +244,7 @@
 <!ENTITY headersSpace2.style "width: 8em;">
 <!ENTITY extraRecipients.tooltip "Citi adresācijas lauku veidi">
 <!ENTITY fromAddr2.label "No">
-<!ENTITY fromAddr.accesskey "r">
+<!ENTITY fromAddr.accesskey "N">
 <!ENTITY toAddr2.label "Uz">
 <!ENTITY ccAddr2.label "Kopija">
 <!ENTITY bccAddr2.label "Slēpta kopija">
@@ -279,17 +279,17 @@
 <!ENTITY spellCheckIgnoreWord.label "Ignorēt vārdu">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Pievienot vārdnīcai">
-<!ENTITY spellCheckAddToDictionary.accesskey "p">
+<!ENTITY spellCheckAddToDictionary.accesskey "P">
 <!ENTITY undo.label "Atsaukt">
-<!ENTITY undo.accesskey "u">
+<!ENTITY undo.accesskey "A">
 <!ENTITY cut.label "Izgriezt">
-<!ENTITY cut.accesskey "t">
+<!ENTITY cut.accesskey "I">
 <!ENTITY copy.label "Kopēt">
 <!ENTITY copy.accesskey "K">
 <!ENTITY paste.label "Ielīmēt">
-<!ENTITY paste.accesskey "I">
+<!ENTITY paste.accesskey "l">
 <!ENTITY pasteQuote.label "Ievietot kā citātu">
-<!ENTITY pasteQuote.accesskey "C">
+<!ENTITY pasteQuote.accesskey "c">
 
 <!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Atvērt">
@@ -297,27 +297,27 @@
 <!ENTITY delete.label "Dzēst">
 <!ENTITY delete.accesskey "D">
 <!ENTITY removeAttachment.label "Noņemt pielikumu">
-<!ENTITY removeAttachment.accesskey "M">
+<!ENTITY removeAttachment.accesskey "N">
 <!ENTITY renameAttachment.label "Pārsaukt…">
-<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY renameAttachment.accesskey "P">
 <!ENTITY reorderAttachments.label "Pārkārtot pielikumus…">
-<!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY reorderAttachments.accesskey "r">
 <!ENTITY removeAllAttachments.label "Noņemt visus pielikumus">
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Atlasīt visus">
 <!ENTITY selectAll.accesskey "v">
 <!ENTITY attachFile.label "Pievienot failu(-us)…">
-<!ENTITY attachFile.accesskey "F">
+<!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Failsaite…">
-<!ENTITY attachCloud.accesskey "i">
+<!ENTITY attachCloud.accesskey "s">
 <!ENTITY convertCloud.label "Pārveidot uz…">
-<!ENTITY convertCloud.accesskey "C">
+<!ENTITY convertCloud.accesskey "P">
 <!ENTITY cancelUpload.label "Atcelt augšuplādi">
-<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY cancelUpload.accesskey "t">
 <!ENTITY convertRegularAttachment.label "Parasts pielikums">
-<!ENTITY convertRegularAttachment.accesskey "A">
+<!ENTITY convertRegularAttachment.accesskey "p">
 <!ENTITY attachPage.label "Pievienot tīmekļa lapu…">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY attachPage.accesskey "l">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
@@ -328,14 +328,14 @@
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Pievienot vārdnīcas…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.accesskey "P">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Kontakti">
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Pielāgot no adreses…">
-<!ENTITY customizeFromAddress.accesskey "A">
+<!ENTITY customizeFromAddress.accesskey "P">
 
 <!-- Accessibility name for the document -->
 <!ENTITY aria.message.bodyName "Vēstules pamatteksts">

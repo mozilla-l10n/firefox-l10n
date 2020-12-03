@@ -12,7 +12,7 @@
 <!ENTITY disableAddons.accesskey          "A">
 
 <!ENTITY resetToolbars.label              "Atstatīt rīkjoslas un vadīklas">
-<!ENTITY resetToolbars.accesskey          "A">
+<!ENTITY resetToolbars.accesskey          "At">
 
 <!ENTITY changeAndRestartButton.label     "Veikt izmaiņas un pārstartēt">
 <!ENTITY changeAndRestartButton.accesskey "V">

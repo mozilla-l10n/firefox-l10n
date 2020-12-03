@@ -5,18 +5,18 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY viewPicker.label "Skats:">
-<!ENTITY viewPicker.accesskey "i">
+<!ENTITY viewPicker.accesskey "S">
 <!ENTITY viewAll.label "Visu">
 <!ENTITY viewAll.accesskey "V">
 <!ENTITY viewUnread.label "Nelasīti">
-<!ENTITY viewUnread.accesskey "N">
+<!ENTITY viewUnread.accesskey "l">
 <!ENTITY viewNotDeleted.label "Nedzēsta">
-<!ENTITY viewNotDeleted.accesskey "N">
+<!ENTITY viewNotDeleted.accesskey "d">
 <!ENTITY viewTags.label "Birkas">
 <!ENTITY viewTags.accesskey "B">
 <!ENTITY viewCustomViews.label "Pielāgoti skati">
-<!ENTITY viewCustomViews.accesskey "S">
+<!ENTITY viewCustomViews.accesskey "s">
 <!ENTITY viewVirtualFolder.label "Saglabāt skatu kā mapi…">
-<!ENTITY viewVirtualFolder.accesskey "S">
+<!ENTITY viewVirtualFolder.accesskey "g">
 <!ENTITY viewCustomizeView.label "Pielāgot…">
 <!ENTITY viewCustomizeView.accesskey "P">

@@ -8,7 +8,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Notīrāmais laika diapazons:">
-<!ENTITY clearTimeDuration.accesskey      "L">
+<!ENTITY clearTimeDuration.accesskey      "N">
 <!ENTITY clearTimeDuration.lastHour       "Pēdējā stunda">
 <!ENTITY clearTimeDuration.last2Hours     "Pēdējās divas stundas">
 <!ENTITY clearTimeDuration.last4Hours     "Pēdējās četras stundas">
@@ -22,7 +22,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Sīkāk">
-<!ENTITY detailsProgressiveDisclosure.accesskey "s">
+<!ENTITY detailsProgressiveDisclosure.accesskey "S">
 
 
 <!ENTITY historyGroup.label                "Vēsture">
