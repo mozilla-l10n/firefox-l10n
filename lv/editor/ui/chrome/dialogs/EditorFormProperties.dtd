@@ -7,15 +7,15 @@
 <!ENTITY Settings.label "Iestatījumi">
 
 <!ENTITY FormName.label "Formas nosaukums:">
-<!ENTITY FormName.accesskey "N">
+<!ENTITY FormName.accesskey "F">
 <!ENTITY FormAction.label "Darbības URL:">
-<!ENTITY FormAction.accesskey "A">
+<!ENTITY FormAction.accesskey "D">
 <!ENTITY FormMethod.label "Metode:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Kodējums:">
-<!ENTITY FormEncType.accesskey "c">
+<!ENTITY FormEncType.accesskey "K">
 <!ENTITY FormTarget.label "Mērķa rāmis:">
-<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormTarget.accesskey "r">
 
 <!ENTITY RemoveForm.label "Noņemt formu">
-<!ENTITY RemoveForm.accesskey "R">
+<!ENTITY RemoveForm.accesskey "N">

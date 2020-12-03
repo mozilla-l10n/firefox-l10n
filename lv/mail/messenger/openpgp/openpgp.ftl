@@ -561,7 +561,7 @@ signature-verify-failed = Neizdevās pārbaudīt parakstu pielikumam { $attachme
 decrypt-ok-no-sig =
     Brīdinājums!
     Atšifrēšana bija veiksmīga, taču parakstu neizdevās pareizi pārbaudīt
-msg-ovl-button-cont-anyway = &Turpināt jebkurā gadījumā
+msg-ovl-button-cont-anyway = &Turpināt tik un tā
 enig-content-note = *Pielikumi šai vēstulei nav parakstīti un šifrēti*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Sūtīt vēstuli

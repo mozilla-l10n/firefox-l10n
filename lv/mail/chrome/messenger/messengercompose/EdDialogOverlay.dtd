@@ -5,7 +5,7 @@
 <!ENTITY AdvancedEditButton.label "Papildu rediģēšana…">
 <!ENTITY AdvancedEditButton.accessKey "P">
 <!ENTITY AdvancedEditButton.tooltip "Pievienot vai mainīt HTML atribūtus, stila atribūtus un JavaScript">
-<!ENTITY chooseFileButton.label "Izvēlieties datni...">
+<!ENTITY chooseFileButton.label "Izvēlieties failu...">
 <!ENTITY chooseFileButton.accessKey "I">
 <!ENTITY chooseFileLinkButton.label "Izvēlieties failu...">
 <!ENTITY chooseFileLinkButton.accessKey "f">
