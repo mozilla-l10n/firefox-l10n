@@ -5,7 +5,7 @@
 <!ENTITY window.title "Filtrēšanas likumi">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Filtra nosaukums:">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.accesskey "F">
 
 <!ENTITY junk.label "Draza">
 <!ENTITY notJunk.label "Nedraza">
@@ -18,19 +18,19 @@
 
 <!ENTITY contextDesc.label "Lietot filtru, kad:">
 <!ENTITY contextIncomingMail.label "Saņem jauna pastu:">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.accesskey "S">
 <!ENTITY contextManual.label "Palaist manuāli">
-<!ENTITY contextManual.accesskey "R">
+<!ENTITY contextManual.accesskey "P">
 <!ENTITY contextBeforeCls.label "Filtrēt pirms mēstuļu noteikšanas">
 <!ENTITY contextAfterCls.label "Filtrēt pēc mēstuļu noteikšanas">
 <!ENTITY contextOutgoing.label "Pēc nosūtīšanas">
-<!ENTITY contextOutgoing.accesskey "S">
+<!ENTITY contextOutgoing.accesskey "s">
 <!ENTITY contextArchive.label "Arhivēšana">
 <!ENTITY contextArchive.accesskey "A">
-<!ENTITY contextPeriodic.accesskey "e">
+<!ENTITY contextPeriodic.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Veikt šīs darbības:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY filterActionDesc.accesskey "V">
 
 <!ENTITY filterActionOrderWarning.label "Piezīme: Filtrēšanas darbības tiks izpildītas citā secībā.">
 <!ENTITY filterActionOrder.label "Skatīt izpildīšanas secību">

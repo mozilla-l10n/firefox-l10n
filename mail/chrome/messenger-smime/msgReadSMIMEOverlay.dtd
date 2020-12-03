@@ -5,4 +5,4 @@
 <!--LOCALIZATION NOTE msgReadSMIMEOverlay.dtd UI for s/mime hooks in message reading -->
 
 <!ENTITY menu_securityStatus.label "Vēstules drošība">
-<!ENTITY menu_securityStatus.accesskey "I">
+<!ENTITY menu_securityStatus.accesskey "V">

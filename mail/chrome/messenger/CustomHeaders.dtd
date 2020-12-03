@@ -4,8 +4,8 @@
 
 <!ENTITY window.title "Pielāgot galvenes">
 <!ENTITY addButton.label "Pievienot">
-<!ENTITY addButton.accesskey "A">
+<!ENTITY addButton.accesskey "P">
 <!ENTITY removeButton.label "Noņemt">
-<!ENTITY removeButton.accesskey "R">
+<!ENTITY removeButton.accesskey "N">
 <!ENTITY newMsgHeader.label "Jauna vēstules galvene:">
-<!ENTITY newMsgHeader.accesskey "N">
+<!ENTITY newMsgHeader.accesskey "J">

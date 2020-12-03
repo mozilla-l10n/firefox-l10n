@@ -5,7 +5,7 @@
 <!ENTITY directoryName.label               "Nosaukums:">
 <!ENTITY directoryName.accesskey           "n">
 <!ENTITY directoryHostname.label           "Mītnes nosaukums:">
-<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryHostname.accesskey       "m">
 <!ENTITY directoryBaseDN.label             "Bāzes DN:">
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Meklēt">
@@ -22,13 +22,13 @@
 <!ENTITY searchFilter.label                "Meklēšanas filtrs:">
 <!ENTITY searchFilter.accesskey            "f">
 <!ENTITY scope.label                       "Tvērums:">
-<!ENTITY scope.accesskey                   "c">
+<!ENTITY scope.accesskey                   "v">
 <!ENTITY scopeOneLevel.label               "Viens līmenis">
-<!ENTITY scopeOneLevel.accesskey           "L">
+<!ENTITY scopeOneLevel.accesskey           "v">
 <!ENTITY scopeSubtree.label                "Apakškoks">
-<!ENTITY scopeSubtree.accesskey            "S">
+<!ENTITY scopeSubtree.accesskey            "A">
 <!ENTITY return.label                      "Neatgriezt vairāk par">
-<!ENTITY return.accesskey                  "r">
+<!ENTITY return.accesskey                  "n">
 <!ENTITY results.label                     "rezultāti">
 <!ENTITY offlineText.label                 "Varat lejuplādēt šīs mapes lokālu kopiju, lai tā būtu pieejama, strādājot nesaistē.">
 <!ENTITY saslMechanism.label               "Pieteikšanās veids:">

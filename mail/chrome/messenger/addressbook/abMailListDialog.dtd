@@ -7,15 +7,15 @@
 
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Pievienot kam:">
-<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY addToAddressBook.accesskey     "P">
 <!ENTITY ListName.label                 "Saraksta nosaukums:">
-<!ENTITY ListName.accesskey             "L">
+<!ENTITY ListName.accesskey             "n">
 <!ENTITY ListNickName.label             "Saraksta segvārds:">
-<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListNickName.accesskey         "s">
 <!ENTITY ListDescription.label          "Apraksts:">
-<!ENTITY ListDescription.accesskey      "D">
+<!ENTITY ListDescription.accesskey      "A">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Lai pievienotu epastus adresātu sarakstam, ierakstiet tās:">
-<!ENTITY AddressTitle.accesskey         "m">
+<!ENTITY AddressTitle.accesskey         "L">
 <!ENTITY UpButton.label                 "Pārvietot augšup">
 <!ENTITY DownButton.label               "Pārvietot lejup">

@@ -7,24 +7,24 @@
 <!ENTITY Settings.label "Iestatījumi">
 
 <!ENTITY TextAreaName.label "Lauka nosaukums:">
-<!ENTITY TextAreaName.accessKey "N">
+<!ENTITY TextAreaName.accessKey "L">
 <!ENTITY TextAreaRows.label "Rindas:">
 <!ENTITY TextAreaRows.accessKey "R">
 <!ENTITY TextAreaCols.label "Kolonnas:">
-<!ENTITY TextAreaCols.accessKey "C">
+<!ENTITY TextAreaCols.accessKey "K">
 <!ENTITY TextAreaReadOnly.label "Tikai lasāms">
-<!ENTITY TextAreaReadOnly.accessKey "O">
+<!ENTITY TextAreaReadOnly.accessKey "l">
 <!ENTITY TextAreaDisabled.label "Atslēgts">
-<!ENTITY TextAreaDisabled.accessKey "D">
+<!ENTITY TextAreaDisabled.accessKey "A">
 <!ENTITY TextAreaTabIndex.label "Cilnes indekss:">
-<!ENTITY TextAreaTabIndex.accessKey "I">
+<!ENTITY TextAreaTabIndex.accessKey "C">
 <!ENTITY TextAreaAccessKey.label "Piekļuves taustiņš:">
-<!ENTITY TextAreaAccessKey.accessKey "K">
+<!ENTITY TextAreaAccessKey.accessKey "P">
 <!ENTITY InitialText.label "Sākotnējais teksts:">
-<!ENTITY InitialText.accessKey "T">
+<!ENTITY InitialText.accessKey "S">
 
 <!ENTITY TextAreaWrap.label "Aplaušanas režīms:">
-<!ENTITY TextAreaWrap.accessKey "W">
+<!ENTITY TextAreaWrap.accessKey "p">
 <!ENTITY WrapDefault.value "Noklusētais">
 <!ENTITY WrapOff.value "Izslēgts">
 <!ENTITY WrapHard.value "Stingrs">

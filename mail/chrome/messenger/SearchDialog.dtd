@@ -4,11 +4,11 @@
 
 <!-- for SearchDialog.xhtml -->
 <!ENTITY searchHeading.label         "Meklēt vēstules iekš:">
-<!ENTITY searchHeading.accesskey     "h">
+<!ENTITY searchHeading.accesskey     "M">
 <!ENTITY searchSubfolders.label      "Meklēt apakšmapēs">
-<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchSubfolders.accesskey  "m">
 <!ENTITY searchOnServer.label        "Laist meklēšanu serverī">
-<!ENTITY searchOnServer.accesskey    "u">
+<!ENTITY searchOnServer.accesskey    "s">
 <!ENTITY resetButton.label           "Notīrīt">
 <!ENTITY resetButton.accesskey       "N">
 <!ENTITY openButton.label            "Atvērt">
@@ -18,18 +18,18 @@
 <!ENTITY searchDialogTitle.label     "Meklēt vēstules">
 <!ENTITY results.label               "Rezultāti">
 <!ENTITY moveButton.label            "Pārvietot uz">
-<!ENTITY moveButton.accesskey        "T">
+<!ENTITY moveButton.accesskey        "P">
 <!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Atvērt mapē">
-<!ENTITY openInFolder.accesskey      "o">
+<!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Saglabāt kā meklēšanas mapi">
-<!ENTITY saveAsVFButton.accesskey    "v">
+<!ENTITY saveAsVFButton.accesskey    "S">
 
 <!-- for abSearchDialog.xhtml -->
 <!ENTITY abSearchHeading.label       "Meklēt:">
-<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY abSearchHeading.accesskey   "M">
 <!ENTITY propertiesButton.label      "Īpašības">
-<!ENTITY propertiesButton.accesskey  "Ī">
+<!ENTITY propertiesButton.accesskey  "p">
 <!ENTITY composeButton.label         "Rakstīt">
 <!ENTITY composeButton.accesskey     "R">
 <!ENTITY deleteCardButton.label      "Dzēst">

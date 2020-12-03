@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityDoNotEncrypt.label "Nešifrēt">
-<!ENTITY menu_securityDoNotEncrypt.accesskey "s">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "N">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">

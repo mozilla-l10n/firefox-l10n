@@ -14,9 +14,9 @@
 # the about dialog.
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Pārbaudīt atjaunojumus">
-<!ENTITY update.checkForUpdatesButton.accesskey   "a">
+<!ENTITY update.checkForUpdatesButton.accesskey   "P">
 <!ENTITY update.updateButton.label3               "Pārstartēt, lai atjaunotu &brandShorterName;">
-<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.updateButton.accesskey            "r">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->

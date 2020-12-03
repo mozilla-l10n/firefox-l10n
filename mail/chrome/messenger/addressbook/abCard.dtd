@@ -24,39 +24,39 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Pirmais:">
-<!ENTITY NameField1.accesskey           "F">
+<!ENTITY NameField1.accesskey           "P">
 <!ENTITY NameField2.label               "Pēdējais:">
-<!ENTITY NameField2.accesskey           "L">
+<!ENTITY NameField2.accesskey           "d">
 <!ENTITY PhoneticField1.label           "Fonētiski:">
 <!ENTITY PhoneticField2.label           "Fonētiski:">
 <!ENTITY DisplayName.label              "Rādīt:">
-<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY DisplayName.accesskey          "R">
 <!ENTITY preferDisplayName.label        "Vienmēr dot priekšroku rādītajam vārdam, nevis vēstules galvenei">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY preferDisplayName.accesskey    "V">
 <!ENTITY NickName.label                 "Segvārds:">
-<!ENTITY NickName.accesskey             "N">
+<!ENTITY NickName.accesskey             "S">
 
 <!ENTITY PrimaryEmail.label             "Epasts:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Papildu epasts:">
-<!ENTITY SecondEmail.accesskey          "i">
+<!ENTITY SecondEmail.accesskey          "P">
 <!ENTITY PreferMailFormat.label         "Dod priekšroku vēstulēm, kas noformētas šādi:">
-<!ENTITY PreferMailFormat.accesskey     "v">
+<!ENTITY PreferMailFormat.accesskey     "p">
 <!ENTITY PlainText.label                "Vienkāršs teksts">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Nezināms">
 <!ENTITY chatName.label                 "Tērzēšanas segvārds:">
 
 <!ENTITY WorkPhone.label                "Darbs:">
-<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY WorkPhone.accesskey            "D">
 <!ENTITY HomePhone.label                "Mājas:">
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Fakss:">
-<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Peidžeris:">
-<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY PagerNumber.accesskey          "P">
 <!ENTITY CellularNumber.label           "Mobilais:">
-<!ENTITY CellularNumber.accesskey       "b">
+<!ENTITY CellularNumber.accesskey       "M">
 
 <!ENTITY Home.tab                       "Privāts">
 <!ENTITY Home.accesskey                 "P">
@@ -65,17 +65,17 @@
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Pilsēta:">
-<!ENTITY HomeCity.accesskey             "y">
+<!ENTITY HomeCity.accesskey             "P">
 <!ENTITY HomeState.label                "Valsts/rajons:">
-<!ENTITY HomeState.accesskey            "S">
+<!ENTITY HomeState.accesskey            "V">
 <!ENTITY HomeZipCode.label              "Pasta indekss:">
-<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeZipCode.accesskey          "i">
 <!ENTITY HomeCountry.label              "Valsts:">
-<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeCountry.accesskey          "V">
 <!ENTITY HomeWebPage.label              "Tīmekļa lapa:">
-<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY HomeWebPage.accesskey          "T">
 <!ENTITY Birthday.label                 "Dzimšanas diena:">
-<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Birthday.accesskey             "D">
 <!ENTITY Month.placeholder              "Mēnesis">
 <!ENTITY Day.placeholder                "Diena">
 <!ENTITY Year.placeholder               "Gads">
@@ -83,30 +83,30 @@
 <!ENTITY Age.placeholder                "Vecums">
 
 <!ENTITY Work.tab                       "Darbs">
-<!ENTITY Work.accesskey                 "W">
+<!ENTITY Work.accesskey                 "D">
 <!ENTITY JobTitle.label                 "Virsraksts:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "V">
 <!ENTITY Department.label               "Nodaļa:">
-<!ENTITY Department.accesskey           "m">
+<!ENTITY Department.accesskey           "N">
 <!ENTITY Company.label                  "Organizācija:">
-<!ENTITY Company.accesskey              "n">
+<!ENTITY Company.accesskey              "O">
 <!ENTITY WorkAddress.label              "Adrese:">
-<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress.accesskey          "A">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Pilsēta:">
-<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkCity.accesskey             "P">
 <!ENTITY WorkState.label                "Valsts/rajons:">
-<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkState.accesskey            "V">
 <!ENTITY WorkZipCode.label              "Pasta indekss:">
-<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkZipCode.accesskey          "i">
 <!ENTITY WorkCountry.label              "Valsts:">
-<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkCountry.accesskey          "V">
 <!ENTITY WorkWebPage.label              "Tīmekļa lapa:">
-<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkWebPage.accesskey          "T">
 
 <!ENTITY Other.tab                      "Cits">
-<!ENTITY Other.accesskey                "h">
+<!ENTITY Other.accesskey                "C">
 <!ENTITY Custom1.label                  "Pielāgots 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Pielāgots 2:">
@@ -119,7 +119,7 @@
 <!ENTITY Notes.accesskey                "N">
 
 <!ENTITY Chat.tab                       "Tērzēšana">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "T">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
@@ -140,17 +140,17 @@
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
-<!ENTITY Photo.accesskey                "o">
+<!ENTITY Photo.accesskey                "F">
 <!ENTITY GenericPhoto.label             "Vispārīgs foto">
-<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY GenericPhoto.accesskey         "V">
 <!ENTITY DefaultPhoto.label             "Noklusētais">
 <!ENTITY PhotoFile.label                "Šajā datorā">
-<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY PhotoFile.accesskey            "d">
 <!ENTITY BrowsePhoto.label              "Pārlūkot">
-<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY BrowsePhoto.accesskey          "P">
 <!ENTITY PhotoURL.label                 "Tīmeklī">
-<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.accesskey             "t">
 <!ENTITY PhotoURL.placeholder           "Ievietojiet vai ierakstiet fotoattēla tīmekļa adresi">
 <!ENTITY UpdatePhoto.label              "Atjaunot">
-<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY UpdatePhoto.accesskey          "A">
 <!ENTITY PhotoDropTarget.label          "Ievelciet jaunu fotoattēlu šeit">

@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Addrbook.label                        "Adrešu grāmata">
-<!ENTITY Addrbook.accesskey                    "B">
+<!ENTITY Addrbook.accesskey                    "G">
 <!ENTITY GeneratedName.label                   "Vārds">
-<!ENTITY GeneratedName.accesskey               "N">
+<!ENTITY GeneratedName.accesskey               "V">
 <!ENTITY PrimaryEmail.label                    "Epasts">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organizācija">
-<!ENTITY Company.accesskey                     "z">
+<!ENTITY Company.accesskey                     "O">
 <!ENTITY _PhoneticName.label                   "Fonētiskais vārds">
-<!ENTITY _PhoneticName.accesskey               "o">
+<!ENTITY _PhoneticName.accesskey               "F">
 <!ENTITY NickName.label                        "Segvārds">
-<!ENTITY NickName.accesskey                    "i">
+<!ENTITY NickName.accesskey                    "S">
 <!ENTITY SecondEmail.label                     "Papildu epasts">
-<!ENTITY SecondEmail.accesskey                 "l">
+<!ENTITY SecondEmail.accesskey                 "P">
 <!ENTITY Department.label                      "Nodaļa">
-<!ENTITY Department.accesskey                  "r">
+<!ENTITY Department.accesskey                  "P">
 <!ENTITY JobTitle.label                        "Virsraksts">
-<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY JobTitle.accesskey                    "V">
 <!ENTITY CellularNumber.label                  "Mobilais">
 <!ENTITY CellularNumber.accesskey              "M">
 <!ENTITY PagerNumber.label                     "Peidžeris">
@@ -27,11 +27,11 @@
 <!ENTITY FaxNumber.label                       "Fakss">
 <!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Mājas telefons">
-<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY HomePhone.accesskey                   "M">
 <!ENTITY WorkPhone.label                       "Darba telefons">
-<!ENTITY WorkPhone.accesskey                   "W">
+<!ENTITY WorkPhone.accesskey                   "D">
 <!ENTITY ChatName.label                        "Tērzēšanas segvārds">
-<!ENTITY ChatName.accesskey                    "C">
+<!ENTITY ChatName.accesskey                    "T">
 <!ENTITY sortAscending.label                   "Augoši">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "Dilstoši">
