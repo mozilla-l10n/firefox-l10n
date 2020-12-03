@@ -10,20 +10,20 @@
 <!ENTITY  pref.composer.title           "Salicējs">
 <!ENTITY  recentFiles.title             "Neseno lapu izvēlne">
 <!ENTITY  documentsInMenu.label         "Maksimālais uzskaitīto lapu skaits:">
-<!ENTITY  documentsInMenu.accesskey     "n">
+<!ENTITY  documentsInMenu.accesskey     "M">
 <!ENTITY  savingFiles.title             "Saglabājot vai publicējot lapas">
 <!ENTITY  preserveExisting.label        "Saglabāt pirmavota formatējumu">
-<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.accesskey    "p">
 <!ENTITY  preserveExisting.tooltip      "Saglabā rindu pārtraukumus un lapas sākotnējo formatējumu">
 <!ENTITY  saveAssociatedFiles.label     "Saglabājot lapu, saglabāt attēlus un saistītos failus">
-<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  saveAssociatedFiles.accesskey "p">
 <!ENTITY  showPublishDialog.label       "Publicējot lapas, vienmēr rādīt publicēšanas dialoglogu">
-<!ENTITY  showPublishDialog.accesskey   "A">
+<!ENTITY  showPublishDialog.accesskey   "P">
 <!ENTITY  composerEditing.label         "Rediģēšana">
 <!ENTITY  maintainStructure.label       "Ievietojot vai dzēšot šūnas, saglabāt tabulas izklājumu">
 <!ENTITY  maintainStructure.tooltip     "Saglabā tabulas taisnstūra formu, automātiski pievienojot šūnas pēc šūnu ievietošanas vai dzēšanas">
-<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  maintainStructure.accesskey   "S">
 <!ENTITY  useCSS.label                  "HTML elementu un atribūtu vietā izmantot CSS stilus">
-<!ENTITY  useCSS.accesskey              "U">
+<!ENTITY  useCSS.accesskey              "C">
 <!ENTITY  crInPCreatesNewP.label        "Rindkopas pabeigšana vienmēr rada jaunu rindkopu">
 <!ENTITY  crInPCreatesNewP.accesskey    "R">
