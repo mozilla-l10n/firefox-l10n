@@ -10,7 +10,7 @@
 <!ENTITY newGroupsTab.label           "Ziņu grupas">
 <!ENTITY newGroupsTab.accesskey       "Z">
 <!ENTITY refreshButton.label          "Pārlādēt">
-<!ENTITY refreshButton.accesskey      "P">
+<!ENTITY refreshButton.accesskey      "r">
 <!ENTITY stopButton.label             "Apturēt">
 <!ENTITY stopButton.accesskey         "A">
 <!ENTITY server.label                 "Konts:">
@@ -19,4 +19,4 @@
 <!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Rādīt vienumus, kas satur:">
-<!ENTITY namefield.accesskey          "O">
+<!ENTITY namefield.accesskey          "v">

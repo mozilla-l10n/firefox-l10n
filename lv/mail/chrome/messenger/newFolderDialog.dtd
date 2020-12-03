@@ -7,7 +7,7 @@
 <!ENTITY name.label                 "Nosaukums:">
 <!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "Izveidot kā apakšmapi iekš:">
-<!ENTITY description.accesskey      "c">
+<!ENTITY description.accesskey      "I">
 <!ENTITY folderRestriction1.label   "Šis serveris atļauj divu īpašu mapju veidus.">
 <!ENTITY folderRestriction2.label   "Ļaut jaunajai mapei saturēt:">
 <!ENTITY foldersOnly.label          "Tikai mapes">

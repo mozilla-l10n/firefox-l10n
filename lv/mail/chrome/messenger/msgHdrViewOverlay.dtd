@@ -41,36 +41,36 @@
 <!ENTITY hdrTrashButton1.tooltip "Dzēst šo vēstuli">
 
 <!ENTITY hdrViewToolbarShowFull.label "Rādīt ikonas un tekstu">
-<!ENTITY hdrViewToolbarShowFull.accesskey "a">
+<!ENTITY hdrViewToolbarShowFull.accesskey "u">
 <!ENTITY hdrViewToolbarShowIcons.label "Rādīt tikai ikonas">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "i">
 <!ENTITY hdrViewToolbarShowText.label "Rādīt tikai tekstu">
-<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Vienmēr rādīt atbildi sūtītājam">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "a">
 
 <!ENTITY otherActionsButton2.label "Vairāk">
 <!ENTITY otherActionsButton.tooltip "Vairāk darbību">
 <!ENTITY otherActionsOpenConversation1.label "Atvērt sarunā">
-<!ENTITY otherActionsOpenConversation1.accesskey "S">
+<!ENTITY otherActionsOpenConversation1.accesskey "s">
 <!ENTITY otherActionsOpenInNewWindow1.label "Atvērt jaunā logā">
-<!ENTITY otherActionsOpenInNewWindow1.accesskey "L">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "l">
 <!ENTITY otherActionsOpenInNewTab1.label "Atvērt jaunā cilnē">
-<!ENTITY otherActionsOpenInNewTab1.accesskey "C">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "c">
 <!ENTITY markAsReadMenuItem1.label "Atzīmēt kā lasītu">
-<!ENTITY markAsReadMenuItem1.accesskey "L">
+<!ENTITY markAsReadMenuItem1.accesskey "l">
 <!ENTITY markAsUnreadMenuItem1.label "Atzīmēt kā nelasītu">
 <!ENTITY markAsUnreadMenuItem1.accesskey "n">
 <!ENTITY saveAsMenuItem1.label "Saglabāt kā…">
 <!ENTITY saveAsMenuItem1.accesskey "S">
 <!ENTITY viewSourceMenuItem1.label "Skatīt avotu">
-<!ENTITY viewSourceMenuItem1.accesskey "S">
+<!ENTITY viewSourceMenuItem1.accesskey "a">
 <!ENTITY otherActionsPrint1.label "Drukāt…">
-<!ENTITY otherActionsPrint1.accesskey "P">
+<!ENTITY otherActionsPrint1.accesskey "D">
 
 <!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Sākotnēji rādīt pielikumu rūti">
-<!ENTITY startExpandedCmd.accesskey    "R">
+<!ENTITY startExpandedCmd.accesskey    "r">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Atvērt">
@@ -82,20 +82,20 @@
 <!ENTITY deleteAttachmentCmd.label    "Dzēst">
 <!ENTITY deleteAttachmentCmd.accesskey    "D">
 <!ENTITY openAllAttachmentsCmd.label    "Atvērt visus…">
-<!ENTITY openAllAttachmentsCmd.accesskey    "A">
+<!ENTITY openAllAttachmentsCmd.accesskey    "v">
 <!ENTITY saveAllAttachmentsCmd.label    "Saglabāt kā…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "S">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "k">
 <!ENTITY detachAllAttachmentsCmd.label    "Atdalīt visus…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "A">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "t">
 <!ENTITY deleteAllAttachmentsCmd.label    "Dzēst visus…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "d">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "D">
 
 <!ENTITY openAttachment.tooltip "Atvērt pievienoto failu">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Atvērt saturošo mapi">
-<!ENTITY detachedAttachmentFolder.show.accesskey    "M">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "A">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Rādīt meklētājā">
-<!ENTITY detachedAttachmentFolder.showMac.accesskey "M">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "R">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Saglabāt">
@@ -111,4 +111,4 @@
 <!ENTITY OpenMessageForMsgId.label "Atvērt vēstuli ar ID">
 <!ENTITY OpenMessageForMsgId.accesskey "A">
 <!ENTITY OpenBrowserWithMsgId.label "Atvērt pārlūku ar vēstules ID">
-<!ENTITY OpenBrowserWithMsgId.accesskey "P">
+<!ENTITY OpenBrowserWithMsgId.accesskey "p">

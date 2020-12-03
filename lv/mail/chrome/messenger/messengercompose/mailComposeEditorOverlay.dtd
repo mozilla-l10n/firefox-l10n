@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachImageSource.label         "Pievienot šo attēlu vēstulei">
-<!ENTITY attachImageSource.accesskey     "s">
+<!ENTITY attachImageSource.accesskey     "a">
 
 <!ENTITY attachLinkSource.label          "Pievienot šīs saites avotu vēstulei">
 <!ENTITY attachLinkSource.accesskey      "s">

@@ -6,17 +6,17 @@
 <!ENTITY name.label                 "Nosaukums:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Izveidot kā apakšmapi iekš:">
-<!ENTITY description.accesskey      "C">
+<!ENTITY description.accesskey      "I">
 
 <!ENTITY searchTermCaption.label "Iestatiet šajā saglabātajā meklēšanas mapē izmantotos meklēšanas kritērijus:">
 
 <!ENTITY folderSelectionCaption.label "Atlasiet mapes meklēšanai:">
 <!ENTITY chooseFoldersButton.label "Izvēlieties…">
-<!ENTITY chooseFoldersButton.accesskey "h">
+<!ENTITY chooseFoldersButton.accesskey "z">
 
 <!ENTITY searchOnline.label "Meklēt tiešsaistē (sniedz jaunākos rezultātus IMAP un News mapēm, bet palielina mapes atvēršanas laiku)">
-<!ENTITY searchOnline.accesskey "S">
+<!ENTITY searchOnline.accesskey "M">
 <!ENTITY newFolderButton.label       "Izveidot">
-<!ENTITY newFolderButton.accesskey   "z">
+<!ENTITY newFolderButton.accesskey   "I">
 <!ENTITY editFolderButton.label      "Atjaunot">
 <!ENTITY editFolderButton.accesskey  "A">

@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY matchAll.label     "Atbilst visiem šiem noteikumiem">
-<!ENTITY matchAll.accesskey "a">
+<!ENTITY matchAll.accesskey "v">
 <!ENTITY matchAny.label     "Atbilst jebkuram no šiem">
-<!ENTITY matchAny.accesskey "a">
+<!ENTITY matchAny.accesskey "j">
 <!ENTITY matchAllMsgs.label     "Atbilst visām vēstulēm">
 <!ENTITY matchAllMsgs.accesskey "a">
 
