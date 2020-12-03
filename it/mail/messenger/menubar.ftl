@@ -11,3 +11,9 @@ menu-view-charset =
 
 ## Mail Toolbar
 
+toolbar-delete-button =
+    .label = Elimina
+    .tooltiptext = Elimina i messaggi o la cartella selezionata
+toolbar-undelete-button =
+    .label = Annulla eliminazione
+    .tooltiptext = Annulla eliminazione dei messaggi selezionati
