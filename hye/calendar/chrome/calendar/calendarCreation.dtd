@@ -18,14 +18,34 @@
 <!ENTITY custompage.shortdescription  "Յարմարացրէք ձեր աւրացոյցը" >
 <!ENTITY custompage.longdescription   "Դուք կարող էք անուանել եւ գունաւորել իրադարձութիւններն աւրացոյցում" >
 
+<!ENTITY finishpage.shortdescription  "Աւրացոյցը ստեղծուած է" >
+<!ENTITY finishpage.longdescription   "Ձեր աւրացոյցը ստեղծուած է։" >
 
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
 
+<!ENTITY sourcetabs.other.label  "Այղ">
 
+<!ENTITY buttons.create.label "Ստեղծել աւրացոյց">
+<!ENTITY buttons.create.accesskey "r">
 
+<!ENTITY buttons.find.label "Գտնել աւրացոյցեր">
+<!ENTITY buttons.find.accesskey "F">
 
+<!ENTITY buttons.back.label "Հետ">
+<!ENTITY buttons.back.accesskey "B">
 
+<!ENTITY buttons.subscribe.label "Բաժանորդագրուել">
+<!ENTITY buttons.subscribe.accesskey "S">
 
+<!ENTITY calendartype.label "Աւրացոյցի տեսակը">
+<!ENTITY location.label "Հասցէ։">
+<!ENTITY location.placeholder "Աւրացոյցի սպասարկչի ցանցամիջոցների համընդհանուր տեղորոշիչ կամ խնամորդի անուն">
 
+<!ENTITY network.nocredentials.label "Այս հասցէն չի պահանջում հաւատարմագրեր">
+<!ENTITY network.loading.description "Խնդրում եմ սպասէք մինչ ձեր աւրացոյցները կը գտնուեն:">
+<!ENTITY network.notfound.description "Այդտեղ աւրացոյց չգտնուեց։ Խնդրում ենք ստուգել կարգաւորումները։">
+<!ENTITY network.authfail.description "Ձեր գրանցած տուեալները չեն ընդունուել։ Խնդրում եմ ստուգել կարգաւորումները։">
 
+<!ENTITY network.subscribe.single.description "Ընտրէք աւրացոյցներ, որոնց ցանկանում էք բաժանորդագրուել։">
+<!ENTITY network.subscribe.multiple.description "Աւրացոյցների բազմաթիւ տարբերակներ հասանելի են այստեղ։ Ընտրէք աւրացոյցի տեսակը, ինչից յետոյ նշէք աւրացոյցներ, որոնց կը ցանկանաք բաժանորդագրուել։">
