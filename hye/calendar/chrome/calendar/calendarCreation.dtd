@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY wizard.title             "Ստեղծել նոր աւրացոյց" >
+<!ENTITY wizard.label             "Ստեղծել նոր աւրացոյց" >
+<!ENTITY wizard.description       "Տեղորոշել ձեր աւրացոյցը" >
+
+<!ENTITY initialpage.description    "Ձեր աւրացոյցը կարող է պահպանուել Ձեր համակարգչում կամ սպասարկչում, հեռակայ միանալու, Ձեր ընկերների կամ գործընկերների հետ կիսուելու համար։" >
+<!ENTITY initialpage.computer.label  "Իմ համակարգչում">
+<!ENTITY initialpage.network.label  "Ցանցահիւսում">
+
+
+
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+
+
+
+
+
+
