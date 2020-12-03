@@ -8,3 +8,6 @@
 menu-view-charset =
     .label = Codifica del testo
     .accesskey = c
+
+## Mail Toolbar
+
