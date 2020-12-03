@@ -181,6 +181,17 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Kkes anekcum { $count }?
        *[other] Kkes inekcumen { $count }?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } akked yal alɣu ɣef trewla n yisefka ara d-ibanen da. Ur tettizmireḍ ara ad tesfesxeḍ tigawt-a.
+        [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } akked yal alɣu ɣef trewla n yisefka ara d-ibanen da. Ur tettizmireḍ ara ad tesfesxeḍ tigawt-a.
+       *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } akked yal alɣu ɣef trewla n yisefka ara d-ibanen da. Ur tettizmireḍ ara ad tesfesxeḍ tigawt-a.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Kkes anekcum { $count } seg meṛṛa ibenkan?
+       *[other] Kkes inekcumen { $count } seg meṛṛa ibenkan?
+    }
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…
