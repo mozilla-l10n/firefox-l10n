@@ -16,40 +16,40 @@
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Eksportēt uz tekstu…">
-<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY exportToTextCmd.accesskey "E">
 <!ENTITY previewCmd.label "Pārlūkot lapu">
-<!ENTITY previewCmd.accesskey "w">
+<!ENTITY previewCmd.accesskey "P">
 <!ENTITY sendPageCmd.label "Sūtīt lapu…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY sendPageCmd.accesskey "S">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Sastādīšanas rīkjosla">
-<!ENTITY compositionToolbarCmd.accesskey "C">
+<!ENTITY compositionToolbarCmd.accesskey "S">
 <!ENTITY formattingToolbarCmd.label "Formatēšanas rīkjosla">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Rediģēšanas režīma rīkjosla">
-<!ENTITY editmodeToolbarCmd.accesskey "e">
+<!ENTITY editmodeToolbarCmd.accesskey "R">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatēt">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "F">
 <!ENTITY grid.label "Novietošanas režģis">
-<!ENTITY grid.accesskey "t">
+<!ENTITY grid.accesskey "N">
 <!ENTITY pageProperties.label "Lapas nosaukums un īpašības…">
-<!ENTITY pageProperties.accesskey "g">
+<!ENTITY pageProperties.accesskey "L">
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label "Pārbaudīt HTML">
-<!ENTITY validateCmd.accesskey "V">
+<!ENTITY validateCmd.accesskey "P">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Parasts">
 <!ENTITY NormalMode.label "Parastais rediģēšanas režīms">
-<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.accesskey "P">
 <!ENTITY NormalMode.tooltip "Parādīt galda apmali un nosauktos enkurus">
 <!ENTITY AllTagsModeTab.label "HTML birkas">
 <!ENTITY AllTagsMode.label "HTML birkas">
-<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.accesskey "h">
 <!ENTITY AllTagsMode.tooltip "Attēlot ikonas visām HTML birkām">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if

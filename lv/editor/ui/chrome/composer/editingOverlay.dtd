@@ -7,27 +7,27 @@
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.key "A">
 <!ENTITY openRemoteCmd.label "Atvērt tīmekļa vietu…">
-<!ENTITY openRemoteCmd.accesskey "L">
+<!ENTITY openRemoteCmd.accesskey "t">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Nesenās lapas">
 <!ENTITY fileRecentMenu.accesskey "N">
 <!ENTITY saveCmd.label "Saglabāt">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Saglabāt kā…">
-<!ENTITY saveAsCmd.accesskey "a">
+<!ENTITY saveAsCmd.accesskey "k">
 <!ENTITY saveAsChangeEncodingCmd2.label "Saglabāt un mainīt teksta kodējumu">
-<!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "m">
 <!ENTITY publishCmd.label "Publicēt">
-<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "Publicēt kā…">
-<!ENTITY publishAsCmd.accesskey "t">
+<!ENTITY publishAsCmd.accesskey "k">
 <!ENTITY fileRevert.label "Atgriezt">
-<!ENTITY fileRevert.accesskey "t">
+<!ENTITY fileRevert.accesskey "r">
 
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Publicē vietnes iestatījumus…">
-<!ENTITY publishSettings.accesskey "b">
+<!ENTITY publishSettings.accesskey "P">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Jauns">
