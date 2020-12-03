@@ -5,7 +5,7 @@
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 <!ENTITY editorCheck.label "Salicējs">
-<!ENTITY editorCheck.accesskey "C">
+<!ENTITY editorCheck.accesskey "S">
 
 <!ENTITY compose.label "Salicējs">
 <!ENTITY editing.label "Jaunas lapas iestatījumi">
