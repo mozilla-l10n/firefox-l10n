@@ -6,7 +6,7 @@
 
 <!ENTITY generalInfo.label                       "Galvenā informācija">
 <!ENTITY folderCharsetFallback2.label            "Atkāpšanās teksta kodējums:">
-<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetFallback2.accesskey        "A">
 <!ENTITY folderCharsetEnforce2.label             "Lietot kodējumu visām mapē esošajām vēstulēm (tiks ignorēti atsevišķu vēstuļu teksta kodējumi un automātiskā kodējuma noteikšana)">
 <!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Pārbūvēt kopsavilkuma failu rādītāju">
@@ -18,34 +18,34 @@
 
 <!ENTITY retention.label "Saglabāšanas politika">
 <!ENTITY retentionUseAccount.label  "Izmantot mana konta iestatījumus">
-<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY retentionUseAccount.accesskey "m">
 <!ENTITY daysOld.label "dienu vecas">
 <!ENTITY message.label "vēstules">
 <!ENTITY retentionCleanup.label "Lai atgūtu diska vietu, vecās vēstules var izdzēst neatgriezeniski.">
 <!ENTITY retentionCleanupImap.label "Lai atgūtu diska vietu, vēstules var izdzēst neatgriezeniski: gan lokālās kopijas, gan oriģinālus attālajā serverī.">
 <!ENTITY retentionCleanupPop.label "Lai atgūtu diska vietu, vecās vēstules var izdzēst neatgriezeniski, ieskaitot oriģinālus attālajā serverī.">
 <!ENTITY retentionDeleteMsg.label "Dzēst vēstules vairāk par">
-<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionDeleteMsg.accesskey "D">
 <!ENTITY retentionKeepAll.label "Nedzēst nevienu vēstuli">
-<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "Dzēst visas, izņemot pašas nesenākās">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepRecent.accesskey "v">
 <!ENTITY retentionApplyToFlagged.label "Vienmēr saglabāt zvaigžņotās vēstules">
-<!ENTITY retentionApplyToFlagged.accesskey "e">
+<!ENTITY retentionApplyToFlagged.accesskey "s">
 
 <!ENTITY folderSynchronizationTab.label          "Sinhronizācija">
 <!ENTITY folderCheckForNewMessages2.label         "Saņemot jaunas vēstules šajā kontā, vienmēr pārbaudīt šo mapi">
-<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+<!ENTITY folderCheckForNewMessages2.accesskey     "S">
 
 <!ENTITY offlineFolder.check.label               "Izvēlēties šo mapi lietošanai nesaistē">
-<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.check.accesskey           "I">
 <!ENTITY offlineFolder.button.label              "Lejuplādēt tagad">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.button.accesskey          "L">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Izvēlēties šo ziņu grupu lietošanai nesaistē">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "g">
 <!ENTITY offlineNewsgroup.button.label           "Lejuplādēt tagad">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY offlineNewsgroup.button.accesskey       "L">
 
 <!ENTITY folderProps.name.label                  "Nosaukums:">
 <!ENTITY folderProps.name.accesskey              "N">
@@ -53,11 +53,11 @@
 <!ENTITY folderProps.color.accesskey             "I">
 <!ENTITY folderProps.reset.tooltip               "Atjaunot noklusēto krāsu">
 <!ENTITY folderProps.location.label              "Vieta:">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.accesskey          "V">
 
 <!ENTITY folderSharingTab.label                  "Koplietošana">
 <!ENTITY privileges.button.label                 "Atļaujas…">
-<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY privileges.button.accesskey             "A">
 <!ENTITY permissionsDesc.label                   "Jums ir šādas atļaujas:">
 <!ENTITY folderOtherUsers.label                  "Citi ar piekļuvi šai mapei:">
 <!ENTITY folderType.label                        "Mapes veids:">

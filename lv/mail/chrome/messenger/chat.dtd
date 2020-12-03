@@ -21,13 +21,13 @@
 <!ENTITY chat.ongoingConversation      "Notiekošā saruna">
 
 <!ENTITY openConversationCmd.label     "Sākt sarunu">
-<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.accesskey "S">
 <!ENTITY closeConversationCmd.label    "Aizvērt sarunu">
-<!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY closeConversationCmd.accesskey "A">
 <!ENTITY aliasCmd.label                "Pārsaukt">
-<!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY aliasCmd.accesskey            "P">
 <!ENTITY deleteCmd.label               "Noņemt kontaktu">
-<!ENTITY deleteCmd.accesskey           "v">
+<!ENTITY deleteCmd.accesskey           "N">
 
 <!ENTITY openConversationButton.tooltip  "Sākt sarunu">
 <!ENTITY closeConversationButton.tooltip "Aizvērt sarunu">
@@ -41,4 +41,4 @@
 <!ENTITY status.offline            "Nesaistē">
 
 <!ENTITY openLinkCmd.label            "Atvērt saiti…">
-<!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkCmd.accesskey        "A">

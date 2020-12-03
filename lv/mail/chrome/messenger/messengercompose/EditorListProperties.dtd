@@ -15,6 +15,6 @@
 <!ENTITY numberList.value "Numurēts saraksts">
 <!ENTITY definitionList.value "Definīciju saraksts">
 <!ENTITY changeEntireListRadio.label "Mainīt visu sarakstu">
-<!ENTITY changeEntireListRadio.accessKey "M">
+<!ENTITY changeEntireListRadio.accessKey "v">
 <!ENTITY changeSelectedRadio.label "Mainīt tikai atlasītos vienumus">
-<!ENTITY changeSelectedRadio.accessKey "A">
+<!ENTITY changeSelectedRadio.accessKey "a">

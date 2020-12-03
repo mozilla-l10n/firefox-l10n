@@ -9,7 +9,7 @@
 <!ENTITY serverName.label "Servera nosaukums:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Lietotājvārds:">
-<!ENTITY userName.accesskey "N">
+<!ENTITY userName.accesskey "L">
 <!ENTITY port.label "Ports:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Noklusētais:">
@@ -19,24 +19,24 @@
                 biffEnd.label   "minutes for new messages Check"
 -->
 <!ENTITY biffStart.label "Pārbaudīt jaunas vēstules katru">
-<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffStart.accesskey "P">
 <!ENTITY biffEnd.label "minūti">
 <!ENTITY useIdleNotifications.label "Kad pienāk jauna vēstule, ļaut tūlītēju servera paziņojumu">
-<!ENTITY useIdleNotifications.accesskey "w">
+<!ENTITY useIdleNotifications.accesskey "K">
 <!ENTITY connectionSecurity.label "Savienojuma drošība:">
-<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurity.accesskey "d">
 <!ENTITY connectionSecurityType-0.label "Nav">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, ja pieejams">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Autentifikācijas veids:">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.accesskey "a">
 <!ENTITY leaveOnServer.label "Atstāt vēstules serverī">
-<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY leaveOnServer.accesskey "s">
 <!ENTITY headersOnly.label "Ielādēt tikai galvenes">
-<!ENTITY headersOnly.accesskey "e">
+<!ENTITY headersOnly.accesskey "g">
 <!ENTITY deleteByAgeFromServer.label "Par maksimums">
-<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY deleteByAgeFromServer.accesskey "m">
 <!ENTITY daysEnd.label "dienas">
 <!ENTITY deleteOnServer2.label "Līdz tās izdzēšat">
 <!ENTITY deleteOnServer2.accesskey "d">
@@ -44,46 +44,46 @@
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY deleteMessagePrefix.label "Kad dzēšat vēstuli:">
 <!ENTITY modelMoveToTrash.label "Pārvietot to uz šo mapi:">
-<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMoveToTrash.accesskey "P">
 <!ENTITY modelMarkDeleted.label "Vienkārši atzīmēt to kā dzēstu">
-<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelMarkDeleted.accesskey "V">
 <!ENTITY modelDeleteImmediately.label "Dzēst nekavējoties">
-<!ENTITY modelDeleteImmediately.accesskey "d">
+<!ENTITY modelDeleteImmediately.accesskey "D">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Izejot iztīrīt (&quot;izdzēst&quot;) iesūtni">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "I">
 <!ENTITY emptyTrashOnExit.label "Izejot iztukšot atkritni">
-<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY emptyTrashOnExit.accesskey "a">
 <!ENTITY loginAtStartup.label "Pārbaudīt jaunas vēstules palaižot">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY loginAtStartup.accesskey "j">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Jautāt, pirms lejuplādēt vairāk nekā">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart.accesskey "J">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "vēstules">
 <!ENTITY alwaysAuthenticate.label "Pieslēdzoties šim serverim, vienmēr pieprasīt autentifikāciju">
-<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY alwaysAuthenticate.accesskey "P">
 <!ENTITY newsrcFilePath1.label "News.rc fails:">
 <!ENTITY newsrcPicker1.label "Izvēlieties News.rc failu">
 <!ENTITY abbreviate.label "Rādīt ziņu grupu nosaukumus Pasta mape rūtī kā:">
 <!ENTITY abbreviateOn.label "Pilni nosaukumi (piemēram, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Saīsināt nosaukumus (piemēram, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Papildu…">
-<!ENTITY advancedButton.accesskey "v">
+<!ENTITY advancedButton.accesskey "P">
 <!ENTITY serverDefaultCharset2.label "Noklusētais teksta kodējums:">
 <!ENTITY localPath1.label "Lokālā mape:">
 <!ENTITY localFolderPicker.label "Izvēlieties lokālo mapi">
 <!ENTITY browseFolder.label "Pārlūkot...">
 <!ENTITY browseFolder.accesskey "P">
 <!ENTITY browseNewsrc.label "Pārlūkot…">
-<!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY browseNewsrc.accesskey "r">
 
 <!ENTITY accountTitle.label "Konta iestatījumi">
 <!ENTITY accountSettingsDesc.label "Šis ir īpašs konts.  Tam nav saistītas identitātes.">
 <!ENTITY storeType.label "Vēstuļu krātuves veids:">
-<!ENTITY storeType.accesskey "T">
+<!ENTITY storeType.accesskey "v">
 <!ENTITY mboxStore2.label "Fails vienai mapei (mbox)">
 <!ENTITY maildirStore.label "Fails vienai vēstulei (maildir)">

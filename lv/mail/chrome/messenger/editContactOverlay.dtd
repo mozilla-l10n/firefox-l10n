@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editContactPanelDeleteContact.label "Dzēst">
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
+<!ENTITY editContactPanelDeleteContact.accesskey "D">
 
 <!ENTITY editContactName.label "Vārds:">
-<!ENTITY editContactName.accesskey "N">
+<!ENTITY editContactName.accesskey "V">
 
 <!ENTITY editContactEmail.label "Epasts:">
 <!ENTITY editContactEmail.accesskey "E">
@@ -15,6 +15,6 @@
 <!ENTITY editContactAddressBook.accesskey "A">
 
 <!ENTITY editContactPanelDone.label "Gatavs">
-<!ENTITY editContactPanelDone.accesskey "D">
+<!ENTITY editContactPanelDone.accesskey "G">
 
 <!ENTITY contactMoveDisabledWarning.description "Jūs nevarat mainīt adrešu grāmatu, jo kontaktpersona ir adresātu sarakstā.">

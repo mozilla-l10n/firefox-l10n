@@ -14,14 +14,14 @@
 <!ENTITY pixelsPopup.value "punkti">
 <!ENTITY alignmentBox.label "Līdzināšana">
 <!ENTITY leftRadio.label "Pa kreisi">
-<!ENTITY leftRadio.accessKey "K">
+<!ENTITY leftRadio.accessKey "k">
 <!ENTITY centerRadio.label "Centrēts">
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "Pa labi">
-<!ENTITY rightRadio.accessKey "L">
+<!ENTITY rightRadio.accessKey "l">
 
 <!ENTITY threeDShading.label "3-D ēnojums">
-<!ENTITY threeDShading.accessKey "Ē">
+<!ENTITY threeDShading.accessKey "d">
 <!ENTITY saveSettings.label "Lietot kā noklusēto">
-<!ENTITY saveSettings.accessKey "N">
+<!ENTITY saveSettings.accessKey "n">
 <!ENTITY saveSettings.tooltip "Saglabājiet šos iestatījumus, lai tos izmantotu, ievietojot jaunas horizontālas līnijas">

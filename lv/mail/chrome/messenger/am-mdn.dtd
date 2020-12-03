@@ -4,30 +4,30 @@
 
 <!ENTITY pane.title                   "Apliecināt saņemšanu">
 <!ENTITY useGlobalPrefs.label         "Šajā kontā izmantot globālos saņemšanas apliecināšanas iestatījumus">
-<!ENTITY useGlobalPrefs.accesskey     "U">
+<!ENTITY useGlobalPrefs.accesskey     "k">
 <!ENTITY globalReceipts.label         "Globālie iestatījumi…">
 <!ENTITY globalReceipts.accesskey     "G">
 <!ENTITY useCustomPrefs.label         "Pielāgot šī konta saņemšanas apliecinājumus">
-<!ENTITY useCustomPrefs.accesskey     "C">
+<!ENTITY useCustomPrefs.accesskey     "P">
 <!ENTITY requestReceipt.label         "Sūtot vēstules, vienmēr pieprasīt saņemšanas apliecinājumu">
-<!ENTITY requestReceipt.accesskey     "W">
+<!ENTITY requestReceipt.accesskey     "s">
 <!ENTITY receiptArrive.label          "Kad pienāk apliecinājums:">
 <!ENTITY leaveIt.label                "Atstāt to jūsu iesūtnē">
-<!ENTITY leaveIt.accesskey            "I">
+<!ENTITY leaveIt.accesskey            "A">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Pārvietot tos uz &quot;Nosūtīts&quot; mapi">
-<!ENTITY moveToSent.accesskey         "M">
+<!ENTITY moveToSent.accesskey         "P">
 <!ENTITY requestMDN.label             "Kad saņemat saņemšanas apliecināšanas pieprasījumu:">
 <!ENTITY returnSome.label             "Ļaut tos dažām vēstulēm">
-<!ENTITY returnSome.accesskey         "e">
+<!ENTITY returnSome.accesskey         "d">
 <!ENTITY never.label                  "Nekad nesūtīt apliecinājumu">
 <!ENTITY never.accesskey              "N">
 <!ENTITY notInToCc.label              "Ja neesat vēstules vai kopijas saņēmējs:">
 <!ENTITY notInToCc.accesskey          "T">
 <!ENTITY outsideDomain.label          "Ja sūtītājs atrodas ārpus jūsu domēna:">
-<!ENTITY outsideDomain.accesskey      "s">
+<!ENTITY outsideDomain.accesskey      "d">
 <!ENTITY otherCases.label             "Visos citos gadījumos:">
-<!ENTITY otherCases.accesskey         "o">
+<!ENTITY otherCases.accesskey         "c">
 <!ENTITY askMe.label                  "Jautāt">
 <!ENTITY alwaysSend.label             "Sūtīt vienmēr">
 <!ENTITY neverSend.label              "Nesūtīt nekad">

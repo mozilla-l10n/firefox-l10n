@@ -5,6 +5,6 @@
 <!ENTITY adaptiveJunkLog.title "Pielāgojams mēstuļu žurnāls">
 <!ENTITY adaptiveJunkLogInfo.label "Žurnalēt pielāgojamo mēstuļu kontroles darbības.">
 <!ENTITY clearLog.label "Notīrīt žurnālu">
-<!ENTITY clearLog.accesskey "C">
+<!ENTITY clearLog.accesskey "N">
 <!ENTITY closeLog.label "Aizvērt">
-<!ENTITY closeLog.accesskey "o">
+<!ENTITY closeLog.accesskey "A">

@@ -4,7 +4,7 @@
 
 <!ENTITY tableWindow.title                "Tabulas īpašības">
 <!ENTITY applyButton.label                "Pielietot">
-<!ENTITY applyButton.accesskey            "A">
+<!ENTITY applyButton.accesskey            "P">
 <!ENTITY closeButton.label                "Aizvērt">
 <!ENTITY tableTab.label                   "Tabula">
 <!ENTITY cellTab.label                    "Šūnas">
@@ -18,9 +18,9 @@
 <!ENTITY tableWidth.accessKey             "P">
 <!ENTITY tableBorderSpacing.label         "Apmales un atstatumi">
 <!ENTITY tableBorderWidth.label           "Apmale:">
-<!ENTITY tableBorderWidth.accessKey       "A">
+<!ENTITY tableBorderWidth.accessKey       "p">
 <!ENTITY tableSpacing.label               "Atstatums:">
-<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tableSpacing.accessKey           "t">
 <!ENTITY tablePadding.label               "Polsteris:">
 <!ENTITY tablePadding.accessKey           "P">
 <!ENTITY tablePxBetwCells.label           "punkti starp šūnām">
@@ -28,7 +28,7 @@
 <!ENTITY tableAlignment.label             "Tabulas izlīdzināšana:">
 <!ENTITY tableAlignment.accessKey         "T">
 <!ENTITY tableCaption.label               "Paraksts:">
-<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaption.accessKey           "r">
 <!ENTITY tableCaptionAbove.label          "Virs tabulas">
 <!ENTITY tableCaptionBelow.label          "Zem tabulas">
 <!ENTITY tableCaptionLeft.label           "Pa kreisi no tabulas">

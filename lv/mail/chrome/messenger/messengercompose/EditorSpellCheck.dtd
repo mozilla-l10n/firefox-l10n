@@ -7,32 +7,32 @@
 
 <!ENTITY misspelledWord.label "Nepareizs vārds:">
 <!ENTITY wordEditField.label "Aizstāt ar:">
-<!ENTITY wordEditField.accessKey "v">
+<!ENTITY wordEditField.accessKey "A">
 <!ENTITY checkwordButton.label "Pārbaudīt vārdu">
-<!ENTITY checkwordButton.accessKey "p">
+<!ENTITY checkwordButton.accessKey "P">
 <!ENTITY suggestions.label "Ieteikumi:">
-<!ENTITY suggestions.accessKey "u">
+<!ENTITY suggestions.accessKey "t">
 <!ENTITY ignoreButton.label "Ignorēt">
 <!ENTITY ignoreButton.accessKey "I">
 <!ENTITY ignoreAllButton.label "Ignorēt visus">
-<!ENTITY ignoreAllButton.accessKey "n">
+<!ENTITY ignoreAllButton.accessKey "v">
 <!ENTITY replaceButton.label "Aizstāt">
-<!ENTITY replaceButton.accessKey "R">
+<!ENTITY replaceButton.accessKey "A">
 <!ENTITY replaceAllButton.label "Aizstāt visu">
-<!ENTITY replaceAllButton.accessKey "A">
+<!ENTITY replaceAllButton.accessKey "v">
 <!ENTITY stopButton.label "Apturēt">
-<!ENTITY stopButton.accessKey "o">
+<!ENTITY stopButton.accessKey "A">
 <!ENTITY userDictionary.label "Personīgā vārdnīca:">
 <!ENTITY moreDictionaries.label "Lejuplādēt citas vārdnīcas…">
 <!ENTITY addToUserDictionaryButton.label "Pievienot vārdu">
-<!ENTITY addToUserDictionaryButton.accessKey "d">
+<!ENTITY addToUserDictionaryButton.accessKey "P">
 <!ENTITY editUserDictionaryButton.label "Rediģēt...">
-<!ENTITY editUserDictionaryButton.accessKey "e">
+<!ENTITY editUserDictionaryButton.accessKey "R">
 <!ENTITY recheckButton2.label "Pārbaudīt tekstu">
-<!ENTITY recheckButton2.accessKey "T">
+<!ENTITY recheckButton2.accessKey "r">
 <!ENTITY closeButton.label "Aizvērt">
 <!ENTITY closeButton.accessKey "A">
 <!ENTITY sendButton.label "Sūtīt">
 <!ENTITY sendButton.accessKey "S">
 <!ENTITY languagePopup.label "Valoda:">
-<!ENTITY languagePopup.accessKey "l">
+<!ENTITY languagePopup.accessKey "V">

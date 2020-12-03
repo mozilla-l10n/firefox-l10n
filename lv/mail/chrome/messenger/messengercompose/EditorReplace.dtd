@@ -6,22 +6,22 @@
 
 <!ENTITY replaceDialog.title "Meklēt un aizstāt">
 <!ENTITY findField.label "Meklēt tekstu:">
-<!ENTITY findField.accesskey "n">
+<!ENTITY findField.accesskey "M">
 <!ENTITY replaceField.label "Aizstāt ar:">
-<!ENTITY replaceField.accesskey "e">
+<!ENTITY replaceField.accesskey "A">
 <!ENTITY caseSensitiveCheckbox.label "Atbilst precīzi">
-<!ENTITY caseSensitiveCheckbox.accesskey "M">
+<!ENTITY caseSensitiveCheckbox.accesskey "p">
 <!ENTITY wrapCheckbox.label "Aptīt">
-<!ENTITY wrapCheckbox.accesskey "T">
+<!ENTITY wrapCheckbox.accesskey "t">
 <!ENTITY backwardsCheckbox.label "Meklēt atpakaļ">
 <!ENTITY backwardsCheckbox.accesskey "a">
 <!ENTITY findNextButton.label "Meklēt nākamo">
-<!ENTITY findNextButton.accesskey "N">
+<!ENTITY findNextButton.accesskey "n">
 <!ENTITY replaceButton.label "Aizstāt">
 <!ENTITY replaceButton.accesskey "A">
 <!ENTITY replaceAndFindButton.label "Aizstāt un meklēt">
-<!ENTITY replaceAndFindButton.accesskey "d">
+<!ENTITY replaceAndFindButton.accesskey "m">
 <!ENTITY replaceAllButton.label "Aizstāt visu">
-<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY replaceAllButton.accesskey "v">
 <!ENTITY closeButton.label "Aizvērt">
-<!ENTITY closeButton.accesskey "V">
+<!ENTITY closeButton.accesskey "z">

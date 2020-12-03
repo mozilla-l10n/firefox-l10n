@@ -13,4 +13,4 @@
 <!ENTITY account.autojoin              "Automātiski apvienoti kanāli:">
 <!ENTITY account.proxySettings.caption "Starpnieka iestatījumi:">
 <!ENTITY account.proxySettings.change.label     "Mainīt…">
-<!ENTITY account.proxySettings.change.accessKey "C">
+<!ENTITY account.proxySettings.change.accessKey "M">

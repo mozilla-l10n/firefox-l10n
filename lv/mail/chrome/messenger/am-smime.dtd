@@ -14,19 +14,19 @@
 <!ENTITY doNotEncrypt.label "Nelietot šifrēšanu pēc noklusēšanas">
 <!ENTITY doNotEncrypt.accesskey "N">
 <!ENTITY requireEncryptMessage.label "Lietot šifrēšanu pēc noklusēšanas">
-<!ENTITY requireEncryptMessage.accesskey "u">
+<!ENTITY requireEncryptMessage.accesskey "L">
 <!ENTITY encryptionCert2.message "Personīgais sertifikāts šifrēšanai:">
 <!ENTITY digitalSign.certificate.button "Izvēlieties…">
-<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate.accesskey "I">
 <!ENTITY digitalSign.certificate_clear.button "Attīrīt">
-<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY digitalSign.certificate_clear.accesskey "A">
 <!ENTITY encryption.certificate.button "Izvēlieties…">
-<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate.accesskey "z">
 <!ENTITY encryption.certificate_clear.button "Attīrīt">
-<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY encryption.certificate_clear.accesskey "t">
 <!ENTITY signingGroupTitle.label "Digitālā parakstīšana">
 <!ENTITY signMessage2.label "Pēc noklusējuma pievienot jūsu digitālo parakstu">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signMessage.accesskey "n">
 <!ENTITY signingCert2.message "Personīgais sertifikāts digitālajai parakstīšanai:">
 
 <!ENTITY sendingDefaults.label "Noklusētie iestatījumi vēstuļu sūtīšanai">
@@ -35,9 +35,9 @@
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Pārvaldīt S/MIME sertifikātus">
-<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageCerts3.accesskey "P">
 <!ENTITY manageDevices2.label "S/MIME drošības ierīces">
-<!ENTITY manageDevices2.accesskey "y">
+<!ENTITY manageDevices2.accesskey "i">
 
 <!ENTITY technologySMIME.label "Dot priekšroku S/MIME">
 <!ENTITY technologyOpenPGP.label "Dot priekšroku OpenPGP">
@@ -51,4 +51,4 @@
 
 <!ENTITY openpgpKey.message "Personiskā atslēga šifrēšanai un digitālajai parakstīšanai:">
 <!ENTITY openpgpKey.button "Iestatīt personisko atslēgu…">
-<!ENTITY openpgpKey.accesskey "o">
+<!ENTITY openpgpKey.accesskey "I">

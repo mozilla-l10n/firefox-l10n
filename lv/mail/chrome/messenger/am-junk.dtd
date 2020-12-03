@@ -5,24 +5,24 @@
 <!ENTITY junkSettings.label "Mēstuļu iestatījumi">
 <!ENTITY trainingDescription.label "Ja tas ieslēgts, vispirms jāapmāca &brandShortName; lai noteiktu nevēlamo pastu, izmantojot rīkjoslas pogu Mēstules, lai atzīmētu ziņojumus kā mēstules vai ne. Jums jāatzīmē gan nevēlami, gan vēlami ziņojumi. Pēc tam &brandShortName; varēs automātiski atzīmēt nevēlamo saturu.">
 <!ENTITY level.label "Ieslēgt adaptīvu mēstuļu vadīklu šim kontam">
-<!ENTITY level.accesskey "E">
+<!ENTITY level.accesskey "I">
 
 <!ENTITY move.label "Pārvietot jaunus mēstules uz:">
-<!ENTITY move.accesskey "M">
+<!ENTITY move.accesskey "P">
 <!ENTITY junkFolderOn.label "&quot;Mēstules&quot; mape:">
-<!ENTITY junkFolderOn.accesskey "J">
+<!ENTITY junkFolderOn.accesskey "M">
 <!ENTITY otherFolder.label "Cits:">
-<!ENTITY otherFolder.accesskey "O">
+<!ENTITY otherFolder.accesskey "C">
 <!ENTITY purge1.label "Automātiski izdzēst mēstules, kas vecākas par">
-<!ENTITY purge1.accesskey "u">
+<!ENTITY purge1.accesskey "A">
 <!ENTITY purge2.label "dienas">
 
 <!ENTITY whitelistHeader.label "Neatzīmēt pastu automātiski kā mēstuli, ja sūtītājs ir:">
-<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY whitelistHeader.accesskey "N">
 
 <!ENTITY ispHeadersWarning.label "Ja tas ieslēgts, &brandShortName; automātiski uzskatīs par mēstulēm vēstules, kurus par mēstulēm atzīs ārējs klasifikators.">
 <!ENTITY ispHeaders.label "Atzīt mēstuļu galvenes, kuras ir iestatījis:">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeaders.accesskey "A">
 
 <!ENTITY junkClassification.label "Atlase">
 <!ENTITY junkActions.label "Mērķis un aizturēšana">
