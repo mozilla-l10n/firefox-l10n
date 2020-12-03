@@ -104,6 +104,7 @@
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
      and messengercompose.dtd and findOnCmd.label found in navigatorOverlay.dtd -->
+<!ENTITY findBarCmd.accesskey "Γ">
 <!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findReplaceCmdMac.key "F">
@@ -161,6 +162,8 @@
 <!ENTITY manual.accesskey                         "Χ">
 <!ENTITY pac.label                                "Σε σύνδεση (Διακομιστής μεσολάβησης: Αυτόματο URL)">
 <!ENTITY pac.accesskey                            "Α">
+<!ENTITY wpad.label                               "Σε σύνδεση (Διακομιστής μεσολάβησης: Αυτόματη ανακάλυψη)">
+<!ENTITY wpad.accesskey                           "ψ">
 <!ENTITY system.label                             "Σε σύνδεση (Διακομιστής μεσολάβησης: Συστήματος)">
 <!ENTITY system.accesskey                         "Σ">
 
@@ -193,8 +196,11 @@
 <!ENTITY customizeToolbar.useDefault.accesskey    "Χ">
 
 <!-- Popup Blocked notification menu -->
+<!ENTITY allowPopups.accesskey        "δ">
 <!ENTITY showPopupManager.label       "Διαχείριση αναδυόμενων παραθύρων">
 <!ENTITY showPopupManager.accesskey   "Δ">
+<!ENTITY dontShowMessage.label        "Να μην εμφανίζεται αυτό το μήνυμα όταν γίνεται φραγή αναδυόμενων">
+<!ENTITY dontShowMessage.accesskey    "Ν">
 
 <!ENTITY throbber.title "Κινούμενο εικονίδιο φόρτωσης">
 <!ENTITY throbber.tooltip2 "Μετάβαση στην αρχική σελίδα του &brandShortName;">
