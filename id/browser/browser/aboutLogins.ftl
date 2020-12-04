@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Impor dari Peramban Lain…
 about-logins-menu-menuitem-import-from-a-file = Impor dari Berkas…
 about-logins-menu-menuitem-export-logins = Ekspor Info Masuk…
+about-logins-menu-menuitem-remove-all-logins = Hapus Semua Log Masuk…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Pengaturan
@@ -167,6 +168,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Hapus info masuk ini?
 confirm-delete-dialog-message = Tindakan ini tidak dapat diurungkan.
 about-logins-confirm-remove-dialog-confirm-button = Hapus
+about-logins-confirm-remove-all-dialog-confirm-button = Hapus Seluruhnya
+about-logins-confirm-remove-all-dialog-checkbox-label = Ya, hapus log masuk ini
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+       *[other] Hapus seluruh { $count } log masuk?
+    }
 about-logins-confirm-export-dialog-title = Ekspor info masuk dan sandi
 about-logins-confirm-export-dialog-message = Kata sandi Anda akan disimpan sebagai teks biasa yang bisa dibaca (contoh: P@sw0rd) sehingga siapa pun yang dapat membuka berkas yang Anda ekspor akan bisa membacanya.
 about-logins-confirm-export-dialog-confirm-button = Ekspor…
