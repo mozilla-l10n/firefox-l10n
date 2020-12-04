@@ -40,9 +40,45 @@ about-processes-privilegedmozilla-process-name = Web (processo { $pid }) para si
 about-processes-gmp-plugin-process-name = Plug-ins de media Gecko (processo { $pid })
 about-processes-gpu-process-name = GPU (processo { $pid })
 about-processes-vr-process-name = VR (processo { $pid })
+about-processes-rdd-process-name = Descodificador de dados (processo { $pid })
+about-processes-socket-process-name = Rede (processo { $pid })
+about-processes-remote-sandbox-broker-process-name = Agente de isolamento remoto (processo { $pid })
+about-processes-fork-server-process-name = Servidor de fork (processo { $pid })
+about-processes-preallocated-process-name = Pré-alocado (processo { $pid })
+about-processes-unknown-process-name = Outro ({ $type }, processo { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Processo { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Threads ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Thread { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Separador: { $name }
+about-processes-preloaded-tab = Novo separador pré-carregado
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Sub-frame: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Sub-frames ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -53,6 +89,12 @@ about-processes-vr-process-name = VR (processo { $pid })
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (a calcular)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = inativo ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -65,6 +107,10 @@ about-processes-vr-process-name = VR (processo { $pid })
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
