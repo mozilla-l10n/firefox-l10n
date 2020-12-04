@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = Çökmə Hesabatları
+submit-all-button-label = Hamısını göndər
 delete-button-label = Hamısını təmizlə
 delete-confirm-title = Əminsiniz?
 delete-unsubmitted-description = Bu bütün göndərilməmiş çökmə hesabatlarını siləcək və geri qaytarmaq mümkün olmayacaq.
