@@ -635,7 +635,7 @@
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nosaukums">
-<!ENTITY folderUnreadColumn.label "Nelasīti">
+<!ENTITY folderUnreadColumn.label "Nelasītas">
 <!ENTITY folderTotalColumn.label "Kopā">
 <!ENTITY folderSizeColumn.label "Izmērs">
 
@@ -711,7 +711,7 @@
 <!ENTITY statusColumn.label "Statuss">
 <!ENTITY sizeColumn.label "Izmērs">
 <!ENTITY junkStatusColumn.label "Drazas statuss">
-<!ENTITY unreadColumn.label "Nelasīti">
+<!ENTITY unreadColumn.label "Nelasītas">
 <!ENTITY totalColumn.label "Kopā">
 <!ENTITY readColumn.label "Lasīt">
 <!ENTITY receivedColumn.label "Saņemts">

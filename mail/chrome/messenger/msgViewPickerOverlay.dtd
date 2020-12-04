@@ -8,7 +8,7 @@
 <!ENTITY viewPicker.accesskey "S">
 <!ENTITY viewAll.label "Visu">
 <!ENTITY viewAll.accesskey "V">
-<!ENTITY viewUnread.label "Nelasīti">
+<!ENTITY viewUnread.label "Nelasītas">
 <!ENTITY viewUnread.accesskey "l">
 <!ENTITY viewNotDeleted.label "Nedzēsta">
 <!ENTITY viewNotDeleted.accesskey "d">

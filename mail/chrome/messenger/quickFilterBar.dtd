@@ -52,7 +52,7 @@
      include unread messages.
      -->
 <!ENTITY quickFilterBar.unread.label
-         "Nelasīti">
+         "Nelasītas">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
