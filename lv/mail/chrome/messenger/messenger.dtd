@@ -715,7 +715,7 @@
 <!ENTITY totalColumn.label "Kopā">
 <!ENTITY readColumn.label "Lasīt">
 <!ENTITY receivedColumn.label "Saņemts">
-<!ENTITY starredColumn.label "Zvaigžņota">
+<!ENTITY starredColumn.label "Zvaigžņotas">
 <!ENTITY locationColumn.label "Atrašanās vieta">
 <!ENTITY idColumn.label "Pieprasījums saņemts">
 <!ENTITY attachmentColumn.label "Pielikumi">
