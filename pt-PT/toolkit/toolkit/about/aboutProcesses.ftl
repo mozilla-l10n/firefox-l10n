@@ -30,6 +30,16 @@ about-processes-column-cpu-total = CPU
 about-processes-browser-process-name = { -brand-short-name } (processo{ $pid })
 about-processes-web-process-name = Web (processo { $pid }, partilhado)
 about-processes-web-isolated-process-name = Web (processo { $pid }) para { $origin }
+about-processes-web-large-allocation = Web (processo { $pid }, grande) para { $origin }
+about-processes-with-coop-coep-process-name = Web (processo { $pid }, origem cruzada isolada) para { $origin }
+about-processes-file-process-name = Ficheiros (processo { $pid })
+about-processes-extension-process-name = Extensões (processo { $pid })
+about-processes-privilegedabout-process-name = Sobre (processo { $pid })
+about-processes-plugin-process-name = Plug-ins (processo { $pid })
+about-processes-privilegedmozilla-process-name = Web (processo { $pid }) para sites de { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Plug-ins de media Gecko (processo { $pid })
+about-processes-gpu-process-name = GPU (processo { $pid })
+about-processes-vr-process-name = VR (processo { $pid })
 
 ## Details within processes
 
