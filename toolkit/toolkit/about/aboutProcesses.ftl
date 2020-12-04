@@ -56,6 +56,15 @@ about-processes-process-name = Processus { $pid } : { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Onglet : { $name }
 about-processes-preloaded-tab = Nouvel onglet préchargé
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Iframe imbriqué : { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Iframes imbriqués ({ $number }) : { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
