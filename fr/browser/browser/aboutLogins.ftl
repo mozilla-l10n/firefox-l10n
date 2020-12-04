@@ -170,6 +170,21 @@ about-logins-confirm-remove-dialog-title = Supprimer cet identifiant ?
 confirm-delete-dialog-message = Cette action est irréversible.
 about-logins-confirm-remove-dialog-confirm-button = Supprimer
 about-logins-confirm-remove-all-dialog-confirm-button = Tout supprimer
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Oui, supprimer cet identifiant
+       *[other] Oui, supprimer ces identifiants
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Supprimer cet identifiant de connexion de tous les appareils ?
+       *[other] Supprimer les { $count } identifiants de connexion de tous les appareils ?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Cette action supprimera l’identifiant enregistré pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
+       *[other] Cette action supprimera tous les identifiants enregistrés pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
+    }
 about-logins-confirm-export-dialog-title = Exporter les identifiants et les mots de passe
 about-logins-confirm-export-dialog-message = Vos mots de passe seront enregistrés sous forme de texte lisible (par exemple, « m0t2passeFaible ») ; ainsi toute personne pouvant ouvrir le fichier exporté pourra les consulter.
 about-logins-confirm-export-dialog-confirm-button = Exporter…
