@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = ไซต์เด่น
 newtab-section-header-highlights = รายการเด่น
+newtab-section-header-recent-activity = กิจกรรมล่าสุด
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = แนะนำโดย { $provider }
