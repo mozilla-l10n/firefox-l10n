@@ -439,7 +439,7 @@ browsing-cfr-recommendations =
     .label = Recommendar extensiones durante que tu naviga
     .accesskey = R
 browsing-cfr-features =
-    .label = Recommendar functiones durante que tu naviga
+    .label = Recommendar functionalitates durante que tu naviga
     .accesskey = f
 browsing-cfr-recommendations-learn-more = Saper plus
 
