@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = O evento global <a data-
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Para além de um construtor para o interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, bem como várias alterações relacionadas, tornam possível a criação direta de novas folhas de estilos sem ter de adicionar a folha ao HTML. Isto faz com que seja muito mais fácil criar folhas de estilo reutilizáveis para utilização no <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consulte o <a data-l10n-name="bugzilla">bug 1520690</a> para mais detalhes.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = API da Web: Media Session API
-experimental-features-media-session-api-description = Atualmente, toda a implementação do { -brand-short-name } da Media Session API é experimental. Esta API é utilizada para personalizar o tratamento de notificações relacionadas com media, gerir eventos e dados úteis para apresentar uma interface de utilizador para gerir a reprodução de media e obter metadados de ficheiros de media. Consulte o <a data-l10n-name="bugzilla">bug 1112032</a> para mais detalhes.
 experimental-features-devtools-color-scheme-simulation =
     .label = Ferramentas de programação: Simulação de esquema de cores
 experimental-features-devtools-color-scheme-simulation-description = Adiciona uma opção para simular diferentes esquemas de cores, permitindo testar media queries <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. A utilização desta consulta de media permite que a folha de estilo indique se o utilizador prefere uma interface de utilizador clara ou escura. Este recurso permite que você teste o seu código sem precisar de alterar as configurações do seu navegador (ou sistema operativo, se o navegador seguir uma configuração de esquema de cores global do sistema). Consulte o <a data-l10n-name="bugzilla1">bug 1550804</a> e o <a data-l10n-name="bugzilla2">bug 1137699</a> para obter mais detalhes.
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Ferramentas de programação: Depuração de service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Ativa o suporte experimental para Service Workers no painel Depurador. Este recurso pode diminuir a velocidade das Ferramentas de programação e aumentar o consumo de memória.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Gráficos: Zoom suave com os dedos
-experimental-features-graphics-desktop-zooming-description = Ativar o suporte para um zoom suave ao beliscar em ecrãs sensíveis ao toque e em touchpads de precisão.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
@@ -103,3 +94,7 @@ experimental-features-js-warp-description = Ativa o Warp, um projeto para melhor
 experimental-features-fission =
     .label = Fission (isolamento de sites)
 experimental-features-fission-description = O Fission (isolamento de sites) é um recurso experimental do { -brand-short-name } para fornecer uma camada adicional de defesa contra problemas de segurança. Ao isolar cada site num processo independente, o Fission torna mais difícil aos sites maliciosos obter acesso às informações de outras páginas que você esteja a visitar. Esta é uma grande mudança da arquitetura do { -brand-short-name } e agradecemos que teste e reporte quaisquer problemas que possa encontrar. Para obter mais detalhes, consulte <a data-l10n-name="wiki">a wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Suporte a múltiplos vídeos em janelas flutuantes
+experimental-features-multi-pip-description = Suporte experimental para permitir que múltiplos vídeos possam ser abertos em várias janelas flutuantes em simultâneo.
