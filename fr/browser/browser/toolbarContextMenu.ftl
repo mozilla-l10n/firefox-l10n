@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Seulement pour les nouveaux onglets
     .accesskey = S
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Afficher les autres marque-pages
+    .accesskey = m
