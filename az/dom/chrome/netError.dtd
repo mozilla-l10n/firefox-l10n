@@ -76,6 +76,9 @@
 <!ENTITY cspBlocked.title "Məzmun təhlükəsizlik qaydaları xəbərdar etdiyi üçün bloklandı">
 <!ENTITY cspBlocked.longDesc "<p>Səyyah bu səhifənin bu üsulla yüklənməsinin qarşısını aldı, çünki, səhifədə olan fayllardan birinin təhlükəsizlik siyasəti bunu qadağan edir.</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options siyasəti tərəfindən əngəllənib">
+<!ENTITY xfoBlocked.longDesc "<p>Səyyah bu səhifənin bu məzmunda yüklənməsinin qarşısını aldı, çünki, səhifədə bunu qadağan edən X-Frame-Options siyasəti var.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Zədəli Məzmun Xətası">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Baxmaq istədiyiniz səhifə açıla bilmir, çünki fayl ötürülməsi zamanı bir xəta baş verdi.</p><ul><li>Lütfən sayt sahibləri ilə əlaqə yaradıb bu problemi onlara bildirin.</li></ul>">
 
