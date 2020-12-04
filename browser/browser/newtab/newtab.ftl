@@ -8,6 +8,9 @@
 newtab-page-title = Nuova scheda
 newtab-settings-button =
     .title = Personalizza la pagina Nuova scheda
+newtab-personalize-button-label = Personalizza
+    .title = Personalizza nuova Scheda
+    .aria-label = Personalizza nuova Scheda
 
 ## Search box component.
 
