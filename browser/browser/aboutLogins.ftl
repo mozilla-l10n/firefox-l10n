@@ -175,6 +175,16 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [1] Oui, supprimer cet identifiant
        *[other] Oui, supprimer ces identifiants
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Supprimer { $count } identifiant ?
+       *[other] Supprimer les { $count } identifiants ?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Vous allez supprimer l’identifiant de connexion que vous avez enregistré dans { -brand-short-name } et toute alerte de fuite de données qui apparaît ici. Cette action est irréversible.
+       *[other] Vous allez supprimer tous les identifiants de connexion que vous avez enregistrés dans { -brand-short-name } et toute alerte de fuite de données qui apparaît ici. Cette action est irréversible.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Supprimer cet identifiant de connexion de tous les appareils ?
