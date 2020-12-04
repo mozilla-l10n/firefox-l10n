@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = บนแท็บใหม่เท่านั้น
     .accesskey = บ
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = แสดงที่คั่นหน้าอื่น ๆ
+    .accesskey = h
