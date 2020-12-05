@@ -180,6 +180,21 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Fjerne { $count } innlogging?
        *[other] Fjerne alle { $count } innloggingar?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Dette fjernar innlogginga du har lagra i { -brand-short-name } og eventuelle varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
+       *[other] Dette fjernar innloggingane du har lagra i { -brand-short-name } og eventuelle varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Fjerne { $count } innlogging frå alle einingane?
+       *[other] Fjerne alle { $count } innloggingar frå alle einingane?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Dette fjernar innlogginga du har lagra i { -brand-short-name } på alle einingar som er synkroniserte med { -fxaccount-brand-name }. Dette vil også fjerne varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
+       *[other] Dette fjernar alle innloggingar du har lagra i { -brand-short-name } på alle einingar som er synkroniserte med { -fxaccount-brand-name }. Dette vil også fjerne varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlinga.
+    }
 about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
 about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
