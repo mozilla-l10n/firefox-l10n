@@ -8,3 +8,18 @@
 menu-view-charset =
     .label = Кодировка текста
     .accesskey = о
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Спам
+    .tooltiptext = Отметить выбранные сообщения как спам
+toolbar-not-junk-button =
+    .label = Не спам
+    .tooltiptext = Отметить выбранные сообщение как не спам
+toolbar-delete-button =
+    .label = Удалить
+    .tooltiptext = Удалить выбранные сообщения или папку
+toolbar-undelete-button =
+    .label = Восстановить
+    .tooltiptext = Отменить удаление выбранных сообщений
