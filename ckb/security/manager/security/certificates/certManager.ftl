@@ -138,12 +138,36 @@ delete-user-cert-impact = ئەگەر یەکێک لە بڕوانامەکان بس
 
 ## Cert Viewer
 
+not-present =
+    .value = <بەشێک نیە لە بڕوانامە>
+# Cert verification
+cert-verified = ئەم بڕوانامەیە پەسەند کرا بۆ ئەم کارانە:
+# Add usage
+verify-ssl-client =
+    .value = یروانامەی SSL کڕیار
+verify-ssl-server =
+    .value = یروانامەی SSL ڕاژە
+verify-ssl-ca =
+    .value = دەسەڵاتی بڕوانامەی SSL
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (هەڵنەگیراوە )
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = هەمیشەیی
+temporary-override = کاتی
 
 ## Add Security Exception dialog
 
+add-exception-domain-mismatch-short = ماڵپەڕی هەڵە
+add-exception-expired-short = زانیاری بەسەرچوو
+add-exception-unverified-or-bad-signature-short = پێناسی نەناسراو
+add-exception-valid-short = بڕوانامەی گونجاو
+add-exception-checking-short = چێکردنی زانیارییەکان
+add-exception-checking-long = هەوڵدان بۆ ناسینەوەی ئەم ماڵپەرە...
+add-exception-no-cert-short = هیچ زانیارییەک بەردەست نیە
 
 ## Certificate export "Save as" and error dialogs
 
+save-cert-as = بڕوانامە پاشەکەوت بکە بۆ پەڕگەیەک
+cert-format-base64 = بڕوانامەی (PEM) X.509
