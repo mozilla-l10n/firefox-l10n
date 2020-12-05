@@ -934,6 +934,7 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 content-blocking-enhanced-tracking-protection = Ammesten yettwaseǧhed mgal aḍfaṛ
 content-blocking-section-top-level-description = Ineḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
 content-blocking-learn-more = Issin ugar
+content-blocking-fpi-incompatibility-warning = Aql-ak·akem tseqdaceḍ First Party Isolation (FPI), i yuɣalen deg wadeg n kra n yiɣewwaren n yinagan n tuqqna n { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
