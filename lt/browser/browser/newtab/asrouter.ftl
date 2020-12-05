@@ -281,3 +281,8 @@ cfr-whatsnew-clear-cookies-image-alt = Užblokuoto slapuko iliustracija
 cfr-whatsnew-media-keys-header = Daugiau medijos valdymo
 cfr-whatsnew-media-keys-body = Leiskite ir pristabdykite garso bei vaizdo įrašus naudodamiesi savo klaviatūra ar ausinėmis, taip patogiau valdydami mediją iš kitos kortelės, programos, ar net kai kompiuteris užrakintas. Galite net pereiti tarp dainų, naudodamiesi mygtukais pirmyn ir atgal.
 cfr-whatsnew-media-keys-button = Sužinokite kaip
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Paieškos leistukai adreso lauke
+cfr-whatsnew-search-shortcuts-body = Dabar jums renkant ieškyklės ar tam tikros svetainės pavadinimą adreso lauke, žemiau esančiuose paieškos siūlymuose pasirodys mėlynas leistukas. Pasirinkę šį leistuką, paiešką įvykdysite tiesiai iš adreso lauko.
