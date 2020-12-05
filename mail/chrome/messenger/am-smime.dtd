@@ -5,10 +5,17 @@
 <!ENTITY e2eTitle.label "End-To-End šifrovanie">
 <!ENTITY e2eLearnMore.label "Ďalšie informácie">
 
+<!ENTITY e2eEnc.description "Bez šifrovania end-to-end bude obsah správ ľahko vystavený vášmu poskytovateľovi e-mailov a hromadnému sledovaniu.">
+<!ENTITY e2eeReqWarning.description "Ak požadujete šifrovanie, na odoslanie správy musíte mať verejný kľúč alebo certifikát každého príjemcu.">
 
+<!ENTITY e2eSigning.description "Digitálny podpis umožňuje príjemcom overiť, že ste správu poslali vy a či nedošlo k zmene obsahu.">
+<!ENTITY e2eTechPref.description "Uprednostnená technológia šifrovania:">
 
+<!ENTITY doNotEncrypt.label "V predvolenom nastavení nevyžadovať šifrovanie">
+<!ENTITY doNotEncrypt.accesskey "N">
 <!ENTITY requireEncryptMessage.label "V predvolenom nastavení vyžadovať šifrovanie">
 <!ENTITY requireEncryptMessage.accesskey "r">
+<!ENTITY encryptionCert2.message "Osobný certifikát na šifrovanie:">
 <!ENTITY digitalSign.certificate.button "Vybrať…">
 <!ENTITY digitalSign.certificate.accesskey "b">
 <!ENTITY digitalSign.certificate_clear.button "Vymazať">
@@ -20,10 +27,17 @@
 <!ENTITY signingGroupTitle.label "Digitálne podpisovanie">
 <!ENTITY signMessage2.label "V predvolenom nastavení pridávať môj digitálny podpis">
 <!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert2.message "Osobný certifikát pre digitálne podpisovanie:">
 
+<!ENTITY sendingDefaults.label "Predvolené nastavenie pre odosielanie správ">
 
+<!ENTITY technologyAutomatic.label "Vybrať automaticky na základe dostupných kľúčov alebo certifikátov">
 
 <!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Spravovať S/MIME certifikáty">
+<!ENTITY manageCerts3.accesskey "S">
+<!ENTITY manageDevices2.label "S/MIME bezpečnostné zariadenia">
+<!ENTITY manageDevices2.accesskey "b">
 
 <!ENTITY technologySMIME.label "Preferovať S/MIME">
 <!ENTITY technologyOpenPGP.label "Preferovať OpenPGP">
@@ -35,3 +49,6 @@
 <!ENTITY certPicker.info  "Certifikát:">
 <!ENTITY certPicker.detailsLabel "Podrobnosti vybraného certifikátu:">
 
+<!ENTITY openpgpKey.message "Osobný kľúč na šifrovanie a digitálne podpisovanie:">
+<!ENTITY openpgpKey.button "Nastaviť osobný kľúč…">
+<!ENTITY openpgpKey.accesskey "o">
