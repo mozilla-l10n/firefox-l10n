@@ -33,11 +33,33 @@ permission-dialog-remember-file = Visada leisti šiam failui atverti <strong>{ $
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = Atverti saitą
+    .accessKey = A
+permission-dialog-btn-choose-app =
+    .label = Pasirinkti programą
+    .accessKey = p
+permission-dialog-unset-description = Turėsite pasirinkti programą
+permission-dialog-set-change-app-link = Pasirinkite kitą programą.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Programos parinkimas
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Atverti saitą
+    .buttonaccesskeyaccept = A
+chooser-dialog-description = Pasirinkite programą { $scheme } saito atvėrimui.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Visada naudoti šią programą atveriant <strong>{ $scheme }</strong> saitus
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Tai galima pakeisti „{ -brand-short-name }“ nuostatose.
+       *[other] Tai galima pakeisti „{ -brand-short-name }“ nuostatose.
+    }
 choose-other-app-description = Pasirinkite kitą programą
 choose-app-btn =
     .label = Parinkti…
