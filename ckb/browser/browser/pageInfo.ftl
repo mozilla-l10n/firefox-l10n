@@ -98,6 +98,8 @@ security-view-privacy-passwords-value = ئایا هیچ وشەی تێپەڕبو�
 security-view-privacy-viewpasswords =
     .label = بینینی ووشە نهێنییە هەڵگیراوەکان
     .accesskey = ب
+security-view-technical =
+    .value = وردەکاری تەکنیکی
 help-button =
     .label = یارمەتی
 
@@ -107,6 +109,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = بەڵێ، شەکرۆکەکان و { $value }{ $unit } لە زانیاری ماڵپەڕ
+security-site-data-only = بەڵێ، { $value }{ $unit } لە زانیاری ماڵپەڕ
+security-site-data-cookies-only = بەڵێ، شەکرۆکەکان
 security-site-data-no = نەخێر
 image-size-unknown = نەزانراو
 page-info-not-specified =
@@ -114,20 +119,65 @@ page-info-not-specified =
 not-set-alternative-text = دیاری نەکراو
 not-set-date = دیاری نەکراو
 media-img = وێنە
+media-bg-img = پاشبنەما
+media-border-img = سنوور
+media-list-img = خاڵ
+media-cursor = جێنیشاندەر
+media-object = تەن
+media-embed = تێهەڵکێش
 media-link = وێنۆچکە
+media-input = تێخستە
 media-video = ڤیدیۆ
 media-audio = دەنگ
 saved-passwords-yes = بەڵێ
 saved-passwords-no = نەخێر
 no-page-title =
     .value = لاپەڕەی بێ ناو:
+permissions-use-default =
+    .label = بنەڕەت بەکاربەرە
 security-no-visits = نەخێر
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] مێتا (1 تاگ)
+           *[other] مێتا ({ $tags } تاگ)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] نەخێر
+        [one] بەڵێ، یەکجار
+       *[other] بەڵێ، { $visits } جار
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } کب ({ $bytes } بایت)
+           *[other] { $kb } کب ({ $bytes } بایت)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = وێنەی جۆری { $type }
+# This string is used to display the size of an image in pixels
+# Variables:
+#   $dimx (number) - The horizontal size of an image
+#   $dimy (number) - The vertical size of an image
+media-dimensions =
+    .value = { $dimx }پک × { $dimy }پک
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -140,3 +190,11 @@ media-file-size = { $size } ک.ب
 media-block-image =
     .label = وێنە بلۆک بکە لە { $website }
     .accesskey = B
+# This string is used to display the URL of the website on top of the
+# pageInfo dialog box
+# Variables:
+#   $website (string) — The url of the website pageInfo is getting info for
+page-info-page =
+    .title = زانیاری پەڕە —{ $website }
+page-info-frame =
+    .title = زانیاری چوارچێوە —{ $website }
