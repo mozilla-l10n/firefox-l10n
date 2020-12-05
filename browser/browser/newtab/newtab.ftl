@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Lankomiausios svetainės
 newtab-section-header-highlights = Akcentai
+newtab-section-header-recent-activity = Paskiausia veikla
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Rekomendavo „{ $provider }“
