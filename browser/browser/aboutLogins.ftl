@@ -170,6 +170,16 @@ about-logins-confirm-remove-dialog-title = Fjerne denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
 about-logins-confirm-remove-all-dialog-confirm-button = Fjern alle
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ja, fjern denne innlogginga
+       *[other] Ja, fjern desse innloggingane
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Fjerne { $count } innlogging?
+       *[other] Fjerne alle { $count } innloggingar?
+    }
 about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
 about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
