@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "d">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "Predvolená veľkosť">
+<!ENTITY defaultZoom.accesskey                  "d">
+
 <!ENTITY siteSpecific.label                     "Pamätať si nastavenie lupy pre každú stránku zvlášť">
 <!ENTITY siteSpecific.accesskey                 "n">
 <!ENTITY textZoomOnly.label                     "Meniť veľkosť textu namiesto celého obsahu stránok">
