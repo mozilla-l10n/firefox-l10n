@@ -181,6 +181,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Ĉu forigi tiun ĉi legitimilon?
        *[other] Ĉu forigi ĉiujn { $count } legitimilojn?
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Ĉu forigi { $count } legitimilon el ĉiuj aparatoj?
+       *[other] Ĉu forigi { $count } legitimilojn el ĉiuj aparatoj?
+    }
 about-logins-confirm-export-dialog-title = Elporti legitimilojn kaj pasvortojn
 about-logins-confirm-export-dialog-message = Viaj pasvortoj estos konservitaj kiel legebla teksto (ekzemple: Aĉ@pasvorto) tiel ke iu ajn kun aliro al la dosiero povos vidi ilin.
 about-logins-confirm-export-dialog-confirm-button = Elporti…
