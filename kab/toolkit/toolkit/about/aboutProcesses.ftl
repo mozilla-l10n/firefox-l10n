@@ -39,6 +39,7 @@ about-processes-privilegedmozilla-process-name = Web (akala { $pid }) i yismal n
 about-processes-gpu-process-name = GPU (akala { $pid })
 about-processes-vr-process-name = VR (akala { $pid })
 about-processes-socket-process-name = Azeṭṭa (akala { $pid })
+about-processes-preallocated-process-name = Adeg uzwir (akala { $pid })
 about-processes-unknown-process-name = ({ $type }, akala { $pid }) wayeḍ
 # Process
 # Variables:
@@ -48,6 +49,12 @@ about-processes-process-name = Akala { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Isqerdicen ({ $number })
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
