@@ -91,3 +91,7 @@ printui-paper-tabloid = Bulvarinis
 
 printui-error-invalid-scale = Mastelis turi būti skaičius tarp 10 ir 200.
 printui-error-invalid-margin = Įveskite tinkamą paraštę pasirinktam popieriaus dydžiui.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Intervalas turi būti skaičius tarp 1 ir { $numPages }.
+printui-error-invalid-start-overflow = Puslapio skaičius „nuo“ turi būti mažesnis negu puslapio skaičius „iki“.
