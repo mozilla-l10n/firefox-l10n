@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Inportatu beste nabigatzaile batetik…
 about-logins-menu-menuitem-import-from-a-file = Inportatu fitxategitik…
 about-logins-menu-menuitem-export-logins = Esportatu saio-hasierak…
+about-logins-menu-menuitem-remove-all-logins = Kendu saio-hasiera guztiak…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Aukerak
@@ -168,6 +169,18 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
+about-logins-confirm-remove-all-dialog-confirm-button = Kendu denak
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Bai, kendu saio-hasiera hau
+        [one] Bai, kendu saio-hasiera hau
+       *[other] Bai, kendu saio-hasiera hauek
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Kendu saio-hasiera bat?
+       *[other] Kendu { $count } saio-hasiera?
+    }
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…
