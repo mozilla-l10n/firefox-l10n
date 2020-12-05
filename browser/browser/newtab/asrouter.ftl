@@ -269,3 +269,8 @@ cfr-whatsnew-clear-cookies-image-alt = Blokeatutako cookiearen ilustrazioa
 cfr-whatsnew-media-keys-header = Multimedia-kontrol gehiago
 cfr-whatsnew-media-keys-body = Erreproduzitu eta pausatu audioa edo bideoa zure teklatu edo kaskoetatik zuzenean, errazagoa eginez beste fitxa edo programetako multimedia kontrolatzea, zure ordenagailua blokeatuta izanda ere. Pisten artean ere mugi zaitezke atzera eta aurrerako botoiak erabiliz.
 cfr-whatsnew-media-keys-button = Ikasi nola
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Bilatu lasterbideak helbide-barran
+cfr-whatsnew-search-shortcuts-body = Orain, bilaketa-motor edo gune zehatz bat helbide-barran idaztean, lasterbide urdin bat agertuko da azpiko bilaketa-iradokizunetan. Hautatu lasterbidea bilaketa zuzenean helbide-barratik burutzeko.
