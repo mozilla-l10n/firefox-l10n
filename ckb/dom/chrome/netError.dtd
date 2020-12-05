@@ -35,6 +35,7 @@
 <!ENTITY unknownProtocolFound.title "پرۆتۆکۆڵی نەناسراو">
 
 
+<!ENTITY proxyResolveFailure.title "ڕاژەخوازی پرۆکسی نەدۆزرایەوە">
 
 
 <!ENTITY unknownSocketType.title "وەڵامی هەڵە">
@@ -46,6 +47,7 @@
 
 
 
+<!ENTITY corruptedContentErrorv2.title "هەڵەی ناوەڕۆکی تێکشکاو">
 
 <!ENTITY remoteXUL.title "دوور XUL">
 
