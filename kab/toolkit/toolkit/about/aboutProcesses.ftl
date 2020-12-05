@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Sefsex asali n waccaren, rnu neɣ akala
 about-processes-shutdown-tab =
     .title = Mdel iccer
 
@@ -26,6 +28,10 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (akala { $pid })
+about-processes-web-process-name = Web (akala { $pid }, yettwabḍa)
+about-processes-web-isolated-process-name = Web (akala { $pid }) i { $origin }
+about-processes-web-large-allocation = Web (akala { $pid }, meqqer) i { $origin }
+about-processes-file-process-name = Ifuyla (akala { $pid })
 about-processes-extension-process-name = Isiɣzaf (akala { $pid })
 about-processes-privilegedabout-process-name = Ɣef (ukala { $pid })
 about-processes-plugin-process-name = Izegrar (akala { $pid })
