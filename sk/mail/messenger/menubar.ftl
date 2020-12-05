@@ -8,3 +8,15 @@
 menu-view-charset =
     .label = Kódovanie textu
     .accesskey = K
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Spam
+    .tooltiptext = Označiť vybrané správy ako nevyžiadané (SPAM)
+toolbar-delete-button =
+    .label = Odstrániť
+    .tooltiptext = Odstrániť vybrané správy alebo priečinok
+toolbar-undelete-button =
+    .label = Obnoviť
+    .tooltiptext = Obnoviť odstránené správy

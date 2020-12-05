@@ -11,6 +11,8 @@ key-wizard-learn-more = Ďalšie informácie
 
 openpgp-keygen-type-rsa =
     .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (Eliptická krivka)
 openpgp-keygen-confirm =
     .label = Potvrdiť
 openpgp-keygen-dismiss =
