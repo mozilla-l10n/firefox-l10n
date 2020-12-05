@@ -274,3 +274,4 @@ cfr-whatsnew-media-keys-button = Issn amek
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Nadi inegzumen deg ufeggag n tansiwin
+cfr-whatsnew-search-shortcuts-body = Akka ura, mi ara taruḍ amsedday n unadi neɣ n kra n usmel deg ufeggag n tansiwin, anegzum amidadi ad d-iban deg yisumar n unadi ddaw. Fren anegzum-nni i wakken ad tfakkeḍ anadi-inek·inem srid seg ufeggag n tansiwin.
