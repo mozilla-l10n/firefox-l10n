@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = چوونەژوورەوە و وشەی تێپەڕەکان
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = بەدەستهێنانی لە کۆگای گووگڵ
 login-app-promo-apple =
     .alt = داگرتن لە کۆگای ئەپڵ
-
 login-filter =
     .placeholder = گەڕان بۆ چوونەژوورەوەکان
-
 create-login-button = چوونەژوورەوە دروست بکە
-
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
 fxaccounts-sign-in-button = بچۆ ژوورەوە بۆ { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +27,9 @@ menu =
     .title = پێڕست بکەرەوە
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = هێنان لە وێبگەڕی ترەوە...
+about-logins-menu-menuitem-import-from-a-file = هێنان لە پەڕگەوە...
+about-logins-menu-menuitem-export-logins = چوونەژوورەوەکان بنێرە...
+about-logins-menu-menuitem-remove-all-logins = هەموو چوونەژوورەوەکان بسڕەوە...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] هەڵبژاردەکان
@@ -73,7 +69,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = دەگەڕێیت بۆ چوونەژوورە پاشەکەوت کراوەکانت؟ { -sync-brand-short-name } ڕێک بخە.
-
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
 login-intro-instruction-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
@@ -117,11 +112,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
-
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو لەبەربگرەوە
@@ -138,6 +131,13 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] هەڵبژاردنەکانی { -sync-brand-short-name } ببینە
+           *[other] هەڵبژاردەکانی { -sync-brand-short-name } ببینە
+        }
+    .accesskey = ب
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = جارێکی تر ئەم پرسیارە مەکەرەوە
     .accesskey = ج
@@ -147,11 +147,28 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = پاشگەزبوونەوە
 confirmation-dialog-dismiss-button =
     .title = پاشگەزبوونەوە
-
 about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
-
+about-logins-confirm-remove-all-dialog-confirm-button = هەمووی بسڕەوە
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] بەڵی، ئەم چوونەژورەوەیە بسڕەوە
+        [one] بەڵی، ئەم چوونەژورەوانە بسڕەوە
+       *[other] بەڵی، ئەم چوونەژورەوانە بسڕەوە
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count } چوونەژوورەوە دەسڕیتەوە؟
+       *[other] { $count } چوونەژوورەوە دەسڕیتەوە؟
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
+       *[other] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
+    }
+about-logins-confirm-export-dialog-title = چوونەژوورەوە و وشەی تێپەڕەکان دەربهێنە
+about-logins-confirm-export-dialog-confirm-button = هەناردەکردن...
 confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
 confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
 confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
@@ -178,8 +195,21 @@ about-logins-vulnerable-alert-learn-more-link = زیاتر بزانە
 # This is a generic error message.
 about-logins-error-message-default = هەڵەیەک ڕوویدا لە کاتی پاشەکەوتکردنی ئەم وشەی تێپەڕبوونە
 
-
 ## Login Export Dialog
+
+# Title of the file picker dialog
+about-logins-export-file-picker-title = پەڕگەی چوونەژوورەوەکان هەناردەبکە
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = هەناردەکردن
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] بەڵگەنامەی CSV
+       *[other] پەڕگەی CSV
+    }
 
 ## Login Import Dialog
 
