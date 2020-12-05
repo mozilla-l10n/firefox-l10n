@@ -75,6 +75,10 @@ show-dir-label =
     }
 environment-variables-title = گۆڕاوەکانی ژینگە
 environment-variables-name = ناو
+environment-variables-value = نرخ
+experimental-features-title = تایبەتمەندی تاقیکاری
+experimental-features-name = ناو
+experimental-features-value = نرخ
 modified-prefs-name = ناو
 modified-prefs-value = نرخ
 locked-prefs-name = ناو
@@ -85,9 +89,17 @@ graphics-failure-log-title = تۆماری کێشەکان
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = تۆماری بڕیارەکان
+a11y-activated = چالاک کراوە
+sandbox-sys-call-index = #
+sandbox-sys-call-age = چرکە پێش ئێستا
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
+sandbox-sys-call-proc-type = جۆری کردار
+restart-button-label = پێکردنەوە
 
 ## Media titles
 
+media-device-name = ناو
 
 ##
 
