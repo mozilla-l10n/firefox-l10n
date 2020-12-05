@@ -301,6 +301,8 @@ identity-https-only-info-turn-off2 = Dersom nettsida verkar øydelagd, kan det v
 identity-https-only-info-no-upgrade = Klarte ikkje å oppgradere kopling frå HTTP.
 identity-permissions =
     .value = Løyve
+identity-permissions-storage-access-header = Infokapslar på tvers av nettstadar
+identity-permissions-storage-access-hint = Desse partane kan bruke infokapslar på tvers av nettstadar og nettstaddata medan du er på denne nettstaden.
 identity-permissions-reload-hint = Du må kanskje laste sida på nytt for at endringane skal gjelde.
 identity-permissions-empty = Du har ikkje gjeve denne nettstaden spesielle løyve.
 identity-clear-site-data =
@@ -346,9 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
+browser-import-button2 =
     .label = Importer bokmerke…
-    .tooltiptext = Kopier bokmerke frå ein annan nettlesar til { -brand-short-name }.
+    .tooltiptext = Importer bokmerke frå ein annean nettlesar til { -brand-short-name }.
+bookmarks-toolbar-empty-message = Plasser bokmerka dine her på bokmerkeverktøylinja for rask tilgang. <a data-l10n-name="manage-bookmarks">Handter bokmerke…</a>
 
 ## WebRTC Pop-up notifications
 
