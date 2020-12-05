@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = زانیاری گەڕان بۆ کیشەکان
-
 crashes-title = ڕاپۆرتی داخستنی لەناکاو
 crashes-id = ناسنامەی ڕاپۆرت
 crashes-send-date = نێردرا
@@ -14,7 +13,10 @@ extensions-name = ناو
 extensions-enabled = چالاکە
 extensions-version = وەشان
 extensions-id = ناسنامە
+support-addons-title = پێوەکراوەکان
 support-addons-name = ناو
+support-addons-type = جۆر
+support-addons-enabled = چالاکە
 support-addons-version = وەشان
 support-addons-id = ناسنامە
 security-software-title = نەرمەکاڵای پاراستن
@@ -27,11 +29,14 @@ features-title = تایبەتمەندییەکانی { -brand-short-name }
 features-name = ناو
 features-version = وەشان
 features-id = ناسنامە
+processes-title = کرداری لە دوورەوە
 processes-type = جۆر
 processes-count = وڵات
 app-basics-title = بنەماکانی داوانامە
 app-basics-name = ناو
 app-basics-version = وەشان
+app-basics-build-id = پێناسی درووستکراو
+app-basics-distribution-id = پێناسی دابەشکراو
 app-basics-update-channel = کەناڵی نوێکردنەوە
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -68,6 +73,8 @@ show-dir-label =
         [windows] بوخچە بکەرەوە
        *[other] پێڕست بکەرەوە
     }
+environment-variables-title = گۆڕاوەکانی ژینگە
+environment-variables-name = ناو
 modified-prefs-name = ناو
 modified-prefs-value = نرخ
 locked-prefs-name = ناو
@@ -111,4 +118,7 @@ graphics-decision-log-title = تۆماری بڕیارەکان
 
 
 ## Strings representing the status of the Enterprise Policies engine.
+
+
+## Printing section
 

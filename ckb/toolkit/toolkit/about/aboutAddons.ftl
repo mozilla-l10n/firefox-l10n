@@ -210,6 +210,28 @@ addon-open-about-debugging = هەڵەدۆزی پێوەکراوە
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = بەڕێوەبردنی قەدبڕەکانی پێوەکراوە
     .accesskey = ب
+shortcuts-no-addons = هیچ پێوەکراوێکی چالاکت نیە.
+shortcuts-no-commands = ئەم پێوەکراوانە قەدبڕیان نیە:
+shortcuts-input =
+    .placeholder = قەدبڕێک بنووسە
+shortcuts-browserAction2 = دوگمەی شریتی ئامرازەکان چالاک بکە
+shortcuts-sidebarAction = پێشاندان/شاردنەوەی لاتەنیشت
+shortcuts-modifier-mac = Ctrl, Alt, یان ⌘ تێبکە
+shortcuts-modifier-other = Ctrl یان Alt تێبکە
+shortcuts-invalid = ڕێکخستنی هەڵە
+shortcuts-letter = پیتێک بنووسە
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = { $addon } بەکاریدێنێت
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] { $numberToShow } زیاتر پیشان بدە
+       *[other] { $numberToShow } زیاتر پیشان بدە
+    }
+shortcuts-card-collapse-button = کەمتر پیشانبدە
+header-back-button =
+    .title = بڕۆ دواوە
 
 ## Recommended add-ons page
 
@@ -274,6 +296,7 @@ addon-detail-version-label = وەشان
 addon-detail-last-updated-label = دووا نوێکردنەوە
 addon-detail-homepage-label = پەڕەی سەرەکی
 addon-detail-rating-label = پلەبەندی
+install-postponed-button = ئێستا نوێیبکەرەوە
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -313,10 +336,19 @@ addon-detail-private-browsing-disallow = ڕێگە مەدە
 available-updates-heading = نوێکاری بەردەست
 recent-updates-heading = دووا نوێکاری
 release-notes-loading = باردەکرێت...
+addon-permissions-learnmore = زیاتر بزانە دەربارەی دەسەڵاتەکان
+recommended-extensions-heading = پێوەکراوی پێشنیازکراو
+recommended-themes-heading = ڕووکاری پێشنیازکراو
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = هەستە دەکەیت داهێنەریت؟ <a data-l10n-name="link">ڕووکارێکی تایبەت بە خۆت درووست بکە لەگەڵ Firefox Color. </a>
 
 ## Page headings
 
 extension-heading = نەڕێوەبردنی پێوەکراوەکان
+theme-heading = بەڕێوەبردنی ڕووکار
+plugin-heading = بەڕێوەبردنی پێوەکراوەکان
+dictionary-heading = بەڕێوەبردنی فەرهەنگەکان
 locale-heading = بەڕێوەبردنی زمانەکان
 updates-heading = بەڕێوەبردنی نوێکارییەکان
 discover-heading = چاککردن بەدڵی خۆت { -brand-short-name }
