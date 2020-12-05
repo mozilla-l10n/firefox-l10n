@@ -30,6 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "д">
 <!ENTITY percent.label                          "&#037;">
 
+<!ENTITY defaultZoom.label                      "Масштаб по умолчанию">
+<!ENTITY defaultZoom.accesskey                  "м">
+
 <!ENTITY siteSpecific.label                     "Запоминать масштаб для каждого сайта">
 <!ENTITY siteSpecific.accesskey                 "п">
 <!ENTITY textZoomOnly.label                     "Масштабировать только текст (не страницу целиком)">
