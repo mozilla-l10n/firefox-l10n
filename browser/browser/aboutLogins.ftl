@@ -13,12 +13,9 @@ login-app-promo-android =
     .alt = Prevziať z Obchodu Play
 login-app-promo-apple =
     .alt = Prevziať z App Store
-
 login-filter =
     .placeholder = Hľadať
-
 create-login-button = Nové prihlasovacie údaje
-
 fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
 fxaccounts-sign-in-button = Prihlásiť sa do služby { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -32,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importovať z iného prehliadača…
 about-logins-menu-menuitem-import-from-a-file = Importovať zo súboru…
 about-logins-menu-menuitem-export-logins = Exportovať prihlasovacie údaje…
+about-logins-menu-menuitem-remove-all-logins = Odstrániť všetky prihlasovacie údaje…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -72,7 +70,6 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name }.
-
 about-logins-login-intro-heading-logged-out = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name } alebo si ich importujte.
 about-logins-login-intro-heading-logged-in = Neboli nájdené žiadne synchronizované prihlasovacie údaje.
 login-intro-description = Ak ste si uložili prihlasovacie údaje do aplikácie { -brand-product-name } na inom zariadení, môžete ich získať takto:
@@ -80,7 +77,6 @@ login-intro-instruction-fxa = Vytvorte si { -fxaccount-brand-name } alebo sa do�
 login-intro-instruction-fxa-settings = Uistite sa, že máte v nastaveniach služby { -sync-brand-short-name } na danom zariadení zaškrtnutú možnosť synchronizácie prihlasovacích údajov
 about-logins-intro-instruction-help = Ak potrebujete ďalšiu pomoc, navštívte <a data-l10n-name="help-link">pomocníka { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Ak máte prihlasovacie údaje uložené v inom prehliadači, môžete ich <a data-l10n-name="import-link">do { -lockwise-brand-short-name } importovať</a>
-
 about-logins-intro-import2 = Ak máte prihlasovacie údaje uložené mimo aplikácie { -brand-product-name }, môžete ich <a data-l10n-name="import-browser-link">importovať z iného prehliadača</a> alebo <a data-l10n-name="import-file-link">zo súboru</a>
 
 ## Login
@@ -121,13 +117,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Ak chcete zobraziť svoje p
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upraviť uložené prihlasovacie údaje
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ak chcete zobraziť svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = zobraziť uložené heslo
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Ak chcete skopírovať svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
 # This message can be seen when attempting to copy a password in about:logins
@@ -137,7 +131,6 @@ about-logins-copy-password-os-auth-dialog-message-macosx = skopírovať uložen�
 ## Master Password notification
 
 master-password-notification-message = Ak chcete zobraziť uložené prihlasovacie údaje, zadajte svoje hlavné heslo
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Ak chcete exportovať svoje prihlasovacie údaje, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
 # This message can be seen when attempting to export a password in about:logins
@@ -174,15 +167,20 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Zrušiť
 confirmation-dialog-dismiss-button =
     .title = Zrušiť
-
 about-logins-confirm-remove-dialog-title = Chcete odstrániť tento prihlasovací údaj?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 about-logins-confirm-remove-dialog-confirm-button = Odstrániť
-
+about-logins-confirm-remove-all-dialog-confirm-button = Odstrániť všetky
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Áno, odstrániť tieto prihlasovacie údaje
+        [one] Áno, odstrániť tieto prihlasovacie údaje
+        [few] Áno, odstrániť tieto prihlasovacie údaje
+       *[other] Áno, odstrániť tieto prihlasovacie údaje
+    }
 about-logins-confirm-export-dialog-title = Exportovať prihlasovacie údaje
 about-logins-confirm-export-dialog-message = Vaše heslá budú uložené v čitateľnom formáte (napr. h3slo) takže ktokoľvek, kto bude môcť otvoriť tento súbor, bude môcť zistiť vaše heslá.
 about-logins-confirm-export-dialog-confirm-button = Exportovať…
-
 confirm-discard-changes-dialog-title = Chcete zahodiť neuložené zmeny?
 confirm-discard-changes-dialog-message = Všetky neuložené zmeny budú stratené.
 confirm-discard-changes-dialog-confirm-button = Zahodiť
@@ -213,10 +211,8 @@ about-logins-vulnerable-alert-learn-more-link = Ďalšie informácie
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Prihlasovacie údaje pre { $loginTitle } s rovnakým používateľským menom už existujú. <a data-l10n-name="duplicate-link">Prejsť na existujúce prihlasovacie údaje.</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Pri pokuse o uloženie tohto hesla nastala chyba.
-
 
 ## Login Export Dialog
 

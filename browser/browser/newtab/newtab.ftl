@@ -167,6 +167,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Top stránky
 newtab-section-header-highlights = Vybrané stránky
+newtab-section-header-recent-activity = Posledná aktivita
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Odporúča { $provider }

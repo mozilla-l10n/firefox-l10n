@@ -72,7 +72,8 @@ lockwise-app-links = { -lockwise-brand-name } pre <a data-l10n-name="lockwise-an
 # $count (Number) - Number of passwords stored in Lockwise.
 lockwise-scanned-text-no-breached-logins =
     { $count ->
-        [one] Jedno heslo je bezpečne uložené.
+        [one] 1 heslo je bezpečne uložené.
+        [few] Vaše heslá sú bezpečne uložené.
        *[other] Vaše heslá sú bezpečne uložené.
     }
 lockwise-how-it-works-link = Ako to funguje

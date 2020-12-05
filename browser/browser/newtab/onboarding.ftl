@@ -109,7 +109,7 @@ onboarding-multistage-welcome-secondary-button-text = Už máte účet?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importujte svoje heslá, záložky a <span data-l10n-name="zap">mnoho ďalšieho</span>
-onboarding-multistage-import-subtitle = Prechádzate z iného prehliadača? Všetko si môžete jednoducho preniesť.
+onboarding-multistage-import-subtitle = Prechádzate z iného prehliadača? Všetko si môžete do { -brand-short-name(case: "gen") } jednoducho preniesť.
 onboarding-multistage-import-primary-button-label = Importovať
 onboarding-multistage-import-secondary-button-label = Teraz nie
 # Info displayed in the footer of import settings screen during onboarding flow.

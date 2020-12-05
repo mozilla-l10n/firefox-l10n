@@ -62,3 +62,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Iba na novej karte
     .accesskey = o
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Zobraziť ostatné záložky
+    .accesskey = r
