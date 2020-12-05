@@ -258,8 +258,6 @@ cfr-doorhanger-fission-primary-button = IH, awi-t
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Issin ugar
     .accesskey = L
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } yermed-ak·am tamahilt tarmitant Fission (aɛzal n usmel). S uɛzal n yal asmel deg ukala yettwaɛezlen, Fission ad tmudd tissi-nniḍen n tɣellist i kečč·kemm d yismal web wuɣur i trezzuḍ.
 
 ## What's new: Cookies message
 
@@ -272,3 +270,7 @@ cfr-whatsnew-clear-cookies-image-alt = Unuɣen n yinagan n tuqqna ttusweḥlen
 cfr-whatsnew-media-keys-header = Ugar n yisenqaden n umidya
 cfr-whatsnew-media-keys-body = Urar syen seḥbes ameslaw neɣ tavdyut srd seg unasiw neɣ seg ukask inek·inem, ayen yessishlen asenqed n umidya seg yiccer-nniḍen, seg wahil neɣ ula mi ara sekker uselkim-ik·im. Tzemreḍ daɣen ad tedrurmeḍ gar tezlatin s useqdec n tqeffaln sdat d deffir.
 cfr-whatsnew-media-keys-button = Issn amek
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Nadi inegzumen deg ufeggag n tansiwin
