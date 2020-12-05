@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -102,6 +102,9 @@ urlbar-tip-icon-description =
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = دڵخوازەکان
+urlbar-search-mode-tabs = بازدەرەکان
+urlbar-search-mode-history = مێژوو
 
 ##
 
@@ -117,6 +120,12 @@ urlbar-microphone-blocked =
     .tooltiptext = تۆ مایکرۆفۆنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.
 urlbar-screen-blocked =
     .tooltiptext = تۆ بڵاوکردنەوەی کامێرات بۆ ئەم ماڵپەڕە بلۆک کرد.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = تۆ بیرگەی هەمیشەییت بۆ ئەم ماڵپەڕە بلۆک کردووە.
+urlbar-popup-blocked =
+    .tooltiptext = تۆ دەرپڕاندنەکانت بۆ ئەم ماڵپەڕە بلۆک کرد.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = تۆ پێکردنی خۆکاری دەنگیت بۆ ئەم ماڵپەڕە بلۆک کرد.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -213,6 +222,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = بزوێنەری سەرەکی گەڕان دابنێ بۆ پەنجەرەی تایبەت
     .accesskey = پ
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -221,6 +236,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = دڵخوازکردنی ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = بازدەرکانی ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = مێژوو ({ $restrict })
 
 ## Bookmark Panel
 
@@ -248,6 +269,7 @@ identity-passive-loaded = بەشێک لەم پەڕەیە پارێزراو نیە
 identity-active-loaded = تۆ پارێزگاریت ناچالاک کرد بۆ ئەم پەڕەیە.
 identity-weak-encryption = ئەم پەڕە شێوازی پارێزگاری لاواز بەکاردێنێت.
 identity-insecure-login-forms = چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.
+identity-https-only-connection-upgraded = (بەرزکرایەوە بۆ https)
 identity-permissions =
     .value = ڕێگەپێدانەکان
 identity-permissions-reload-hint = لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.
@@ -281,6 +303,9 @@ browser-window-restore-down-button =
     .tooltiptext = بیهێنەرەوە خوارەوە
 browser-window-close-button =
     .tooltiptext = داخستن
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
