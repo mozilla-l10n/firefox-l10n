@@ -25,14 +25,14 @@ sidebar-help-button-title =
     .title = Podpora doplnkov
 preferences =
     { PLATFORM() ->
-        [windows] Možnosti aplikácie
-       *[other] Možnosti aplikácie
+        [windows] Možnosti aplikácie { -brand-short-name }
+       *[other] Možnosti aplikácie { -brand-short-name }
     }
 sidebar-preferences-button-title =
     .title =
         { PLATFORM() ->
-            [windows] Možnosti aplikácie
-           *[other] Možnosti aplikácie
+            [windows] Možnosti aplikácie { -brand-short-name }
+           *[other] Možnosti aplikácie { -brand-short-name }
         }
 show-unsigned-extensions-button =
     .label = Niektoré rozšírenia nemohli byť overené
