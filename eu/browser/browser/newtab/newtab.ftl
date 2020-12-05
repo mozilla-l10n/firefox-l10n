@@ -170,6 +170,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Gune erabilienak
 newtab-section-header-highlights = Nabarmendutakoak
+newtab-section-header-recent-activity = Azken jarduera
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } hornitzaileak gomendatuta
