@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Nur en nova langeto
     .accesskey = e
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Montri aliajn legosignojn
+    .accesskey = l
