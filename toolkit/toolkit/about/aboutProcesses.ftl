@@ -37,6 +37,15 @@ about-processes-process-name = Prosessi { $pid }: { $name }
 ## Details within processes
 
 about-processes-preloaded-tab = Esiladattu uusi välilehti
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Alikehys: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Alikehykset ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
