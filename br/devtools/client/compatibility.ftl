@@ -40,6 +40,9 @@ compatibility-target-browsers-header = Target Browsers
 compatibility-issue-occurrences =
     { $number ->
         [one] { $number } occurrence
+        [two] { $number } occurrences
+        [few] { $number } occurrences
+        [many] { $number } occurrences
        *[other] { $number } occurrences
     }
 compatibility-no-issues-found = No compatibility issues found.
