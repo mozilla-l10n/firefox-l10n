@@ -76,7 +76,10 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Web-työkalut: Service Worker -vianjäljitys
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Ottaa käyttöön kokeellisen Service Worker -tuen Debugger-paneelissa. Tämä voi hidastaa web-työkaluja ja lisätä muistinkulutusta.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafiikka: Sulava nipistyszoomaus
-experimental-features-graphics-desktop-zooming-description = Ota käyttöön tuki zoomaamiseen nipistämällä, kun käytetään kosketusnäyttöä tai tarkkuuskosketuslevyä.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Ota käyttöön Warp, projekti javaScript-kielen suorituskyvyn ja muistinkäytön parantamiseksi.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (sivustojen eristäminen)
