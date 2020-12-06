@@ -69,7 +69,7 @@ abuse-report-deceptive-reason-v2 = Lavarout a ra eo un dra bennak n'eo ket anezh
 abuse-report-deceptive-example = Skouer: deskrivadur pe skeudennoù touellus
 abuse-report-broken-reason-extension-v2 = N'ez a ket en-dro, terriñ a ra al lec'hiennoù web pe gorrekaat a ra { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = N'ez a ket en-dro pe terriñ a ra diskweladur ar merdeer
-abuse-report-broken-example = Skouer: Gorrek, diaes da implijout pe n'ez eont ket en-dro an arc'hweladurioù ; lodennoù al lec'hiennoù web n'int ket karget pe a seblant divoutin
+abuse-report-broken-example = Skouer: Gorrek, diaes da implijout pe n’ez eont ket en-dro an arc’hweladurioù; lodennoù al lec’hiennoù web n’int ket karget pe a seblant divoutin
 abuse-report-broken-suggestions-extension =
     Ur gudenn ho peus kavet sur a-walc'h. Ouzhpenn kas un danevell a zo evit diskoulmañ 
     ur gudenn arc'hweladur, an hent gwellañ a zo mont e darempred ouzh diorroer an astennad.

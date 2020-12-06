@@ -8,8 +8,10 @@ profiles-create = Krouiñ un aelad nevez
 profiles-restart-title = Adloc'hañ
 profiles-restart-in-safe-mode = Adloc'hañ gant an askouezhioù diweredekaet…
 profiles-restart-normal = Adloc'hañ ordinal...
+profiles-conflict = Un eilenn all eus { -brand-product-name } en deus kemmet an aeladoù. Dav eo deoc’h adloc’hañ { -brand-short-name } a-raok ober kemmoù all.
 profiles-flush-fail-title = N'eo ket enrollet ar c'hemmoù
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Degouezhet ez eus bet ur fazi dic’hortoz o deus miret ar c’hemmoù da vezañ enrollet.
 profiles-flush-restart-button = Adloc'hañ { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile

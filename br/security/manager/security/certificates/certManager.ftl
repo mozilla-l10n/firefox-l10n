@@ -49,6 +49,8 @@ certmgr-edit-cert-trust-email =
 certmgr-delete-cert =
     .title = Dilemel an testeni
     .style = width: 48em; height: 24em;
+certmgr-cert-host =
+    .label = Ostiz
 certmgr-cert-name =
     .label = Anv an testeni
 certmgr-cert-server =
@@ -156,6 +158,10 @@ delete-ssl-cert-title =
     .title = Dilemel nemedennoù testenioù an dafariad
 delete-ssl-cert-confirm = Ha fellout a ra deoc'h dilemel an nemedennoù evit an dafariad-mañ?
 delete-ssl-cert-impact = Mar bez dilamet un nemedenn dafariad e vo assavet ganeoc'h ar gwiriadurioù boaz evit an dafariad-mañ ha goulenn a ra e vo arveret un testeni talvoudek gantañ.
+delete-ssl-override-title =
+    .title = Dilemel nemedennoù testenioù an dafariad
+delete-ssl-override-confirm = Ha fellout a ra deoc’h dilemel an nemedenn evit an dafariad-mañ?
+delete-ssl-override-impact = Mar bez dilamet un nemedenn dafariad e vo assavet ganeoc’h ar gwiriadurioù boaz evit an dafariad-mañ ha goulenn a ra e vo arveret un testeni talvoudek gantañ.
 delete-ca-cert-title =
     .title = Dilemel pe Disfiziañ testenioù an aotrouniezh testeniañ
 delete-ca-cert-confirm = Azgoulennet hoc'h eus dilemel testenioù an aotrouniezh testeniañ-mañ. Evit an testenioù enframmet, ne vo fiziañs ebet ken enno, ar pezh a zo heñvel. Ha sur oc'h e fell deoc'h dilemel pe disfiziout anezho?
@@ -203,9 +209,13 @@ cert-not-verified-issuer-unknown = Ne oa ket evit gwiriañ an testeni-mañ rak d
 cert-not-verified-ca-invalid = Ne oa ket evit gwiriañ an testeni-mañ rak didalvoudek eo testeni an aotrouniezh testeniañ.
 cert-not-verified_algorithm-disabled = Ne oa ket evit gwiriañ an testeni-mañ rak sinet eo bet gant un treol sinañ a zo bet diweredekaet rak an treol-mañ n'eo ket diogel.
 cert-not-verified-unknown = Ne oa ket evit gwiriañ an testeni-mañ rak meur a abeg dianav.
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (N’eo ket gwaredet)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Peurzalc’hus
+temporary-override = Padennek
 
 ## Add Security Exception dialog
 

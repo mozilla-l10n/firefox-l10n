@@ -8,6 +8,8 @@ password-quality-meter = Perzhded ar ger-tremen
 
 change-password-window =
     .title = Kemmañ ar ger-tremen mestr
+change-device-password-window =
+    .title = Kemmañ ar ger-tremen
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Trevnad diogelroez: { $tokenName }
@@ -20,12 +22,24 @@ change-password-reenter = Ger-tremen nevez (c'hoazh):
 reset-password-window =
     .title = Adderaouekaat ger-tremen mestr
     .style = width: 40em
+pippki-failed-pw-change = N’haller ket kemmañ ar ger-tremen.
+pippki-incorrect-pw = N’ho peus ket enanket ar ger-tremen reizh. Klaskit en-dro mar plij.
+pippki-pw-change-ok = Ger-tremen kemmet gant berzh.
+pippki-pw-erased-ok = Dilamet ho peus ho ker-tremen. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Diwall! Dibabet ho peus na ober gant ur ger-tremen. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = E mod FIPS emaoc’h bremañ. Azgoulenn a ra FIPS ur ger-tremen bet roet.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window =
+    .title = Adderaouekaat ar ger-tremen pennañ
+    .style = width: 40em
 reset-password-button-label =
     .label = Adderaouekaat
 reset-password-text = Mar adderaouekait ho ker-tremen mestr e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho roadennoù furmskridoù, ho testenioù personel hag hoc'h alc'hwezioù prevez. Fellout a ra deoc'h dilemel ho ker-tremen mestr?
+reset-primary-password-text = Mar adderaouekait ho ker-tremen pennañ e vo ankouaet ho kerioù-tremen evit internet, ho posteloù, ho testenioù personel hag hoc’h alc’hwezioù prevez. Fellout a ra deoc’h dilemel ho ker-tremen pennañ?
+pippki-reset-password-confirmation-title = Adderaouekaat ar ger-tremen pennañ
+pippki-reset-password-confirmation-message = Diweredekaet eo bet ho ker-tremen pennañ.
 
 ## Downloading cert dialog
 
