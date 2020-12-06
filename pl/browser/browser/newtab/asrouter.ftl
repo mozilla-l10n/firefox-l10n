@@ -271,8 +271,6 @@ cfr-doorhanger-fission-primary-button = OK
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Więcej informacji
     .accesskey = W
-# Deprecated
-cfr-doorhanger-fission-body = { -brand-short-name } włączył dla Ciebie eksperymentalną funkcję Fission (izolacja witryn). Izolując każdą witrynę w oddzielnym procesie, Fission zapewnia dodatkową warstwę zabezpieczeń dla Ciebie i odwiedzanych przez Ciebie witryn.
 
 ## What's new: Cookies message
 
@@ -285,3 +283,8 @@ cfr-whatsnew-clear-cookies-image-alt = Rysunek zablokowanego ciasteczka
 cfr-whatsnew-media-keys-header = Więcej możliwości sterowania odtwarzaniem
 cfr-whatsnew-media-keys-body = Odtwarzaj i wstrzymuj dźwięk lub film prosto z klawiatury lub zestawu słuchawkowego, dzięki czemu możesz sterować multimediami podczas korzystania z innej karty, programu lub nawet wtedy, gdy ekran komputera jest zablokowany. Możesz także przechodzić między utworami za pomocą odpowiednich klawiszy.
 cfr-whatsnew-media-keys-button = Więcej informacji
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Skróty wyszukiwania na pasku adresu
+cfr-whatsnew-search-shortcuts-body = Od teraz kiedy na pasku adresu wpiszesz nazwę wyszukiwarki lub konkretnej witryny, w podpowiedziach wyszukiwania poniżej pojawi się niebieski skrót. Kliknij ten skrót, aby dokończyć wyszukiwanie bezpośrednio z paska adresu.
