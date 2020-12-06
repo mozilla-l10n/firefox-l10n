@@ -60,3 +60,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Vain uudessa välilehdessä
     .accesskey = V
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Näytä muut kirjanmerkit
+    .accesskey = N
