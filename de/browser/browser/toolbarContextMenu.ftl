@@ -62,4 +62,4 @@ toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .accesskey = u
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Weitere Lesezeichen anzeigen
-    .accesskey = e
+    .accesskey = W
