@@ -257,6 +257,7 @@ cfr-doorhanger-doh-secondary-button = Poista käytöstä
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Yksityisyydelläsi on merkitystä. { -brand-short-name } eristää, tai asettaa ”hiekkalaatikkoon”, sivustot toisistaan. Eristämisen myötä salasanojen, luottokorttitietojen ja muun arkaluonteisen tiedon varastaminen on aiempaa vaikeampaa.
 cfr-doorhanger-fission-header = Sivustojen eristäminen
 cfr-doorhanger-fission-primary-button = Selvä
     .accesskey = S
@@ -274,3 +275,6 @@ cfr-whatsnew-clear-cookies-image-alt = Kuvituskuva evästeen estämisestä
 cfr-whatsnew-media-keys-header = Enemmän mediaohjaimia
 cfr-whatsnew-media-keys-body = Toista ja keskeytä ääni tai video suoraan näppäimistöltä tai kuulokkeista. Tämä helpottaa median hallintaa toisessa välilehdessä, ohjelmassa tai jopa silloin, kun tietokoneesi on lukittu. Voit siirtyä kappaleiden välillä myös eteen- ja taakse -näppäimillä.
 cfr-whatsnew-media-keys-button = Lue miten
+
+## What's new: Search shortcuts
+
