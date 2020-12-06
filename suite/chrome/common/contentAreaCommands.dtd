@@ -84,7 +84,7 @@
 <!ENTITY saveImageCmd.accesskey		"v">
 <!ENTITY saveVideoCmd.label		"名前を付けて動画を保存...">
 <!ENTITY saveVideoCmd.accesskey		"v">
-<!ENTITY saveAudioCmd.label		"名前を付けてオーディオを保存...">
+<!ENTITY saveAudioCmd.label		"名前を付けて音声を保存...">
 <!ENTITY saveAudioCmd.accesskey		"v">
 <!ENTITY copyLinkCmd.label		"リンクの URL をコピー">
 <!ENTITY copyLinkCmd.accesskey		"L">
