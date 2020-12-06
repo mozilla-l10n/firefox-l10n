@@ -59,6 +59,9 @@ app-basics-enabled-plugins = Izegrar iremden
 app-basics-build-config = Aswel n usefsu
 app-basics-user-agent = Ameggi aseqdac
 app-basics-os = NGR.MMD
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Yettusuqel sɣur Rosetta
 app-basics-memory-use = Aseqdec n tkatut
 app-basics-performance = Tamellit
 app-basics-service-workers = Tanfa Workers iţwaklesen
