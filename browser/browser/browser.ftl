@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Kirjoita vähemmän, löydä enemmän: Hae hakukoneella { $engineName } suoraan osoitepalkista.
 urlbar-search-tips-redirect-2 = Aloita hakeminen osoitepalkista, niin näet ehdotukset palvelusta { $engineName } ja selaushistoriastasi.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Valitse tämä, niin löydät etsimäsi nopeammin.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -348,6 +351,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Tuo kirjanmerkit…
     .tooltiptext = Tuo kirjanmerkit toisesta selaimsta { -brand-short-name }iin.
+bookmarks-toolbar-empty-message = Laita kirjanmerkkisi tänne kirjanmerkkipalkkiin, niin pääset niihin nopeasti. <a data-l10n-name="manage-bookmarks">Järjestele kirjanmerkkejä…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -455,6 +459,18 @@ urlbar-result-action-search-w-engine = { $engine }-haku
 urlbar-result-action-sponsored = Sponsoroitu
 urlbar-result-action-switch-tab = Siirry välilehteen
 urlbar-result-action-visit = Avaa
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Hae hakukoneella { $engine } painamalla sarkainta
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Hae sivustosta { $engine } painamalla sarkainta
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
