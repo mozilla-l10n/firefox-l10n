@@ -934,6 +934,7 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 content-blocking-enhanced-tracking-protection = Tehostettu seurannan suojaus
 content-blocking-section-top-level-description = Seuraimet seuraavat sinua verkossa ja keräävät tietoja selaustapoihisi ja kiinnostuksen kohteisiisi liittyen. { -brand-short-name } estää monet näistä seuraimista ja muita haitallisia komentosarjoja.
 content-blocking-learn-more = Lue lisää
+content-blocking-fpi-incompatibility-warning = Käytät ensimmäisen osapuolen eristämistä (FPI), joka korvaa joitain { -brand-short-name }in evästeasetuksista.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

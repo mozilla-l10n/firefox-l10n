@@ -279,3 +279,4 @@ cfr-whatsnew-media-keys-button = Lue miten
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Hakuoikotiet osoitepalkissa
+cfr-whatsnew-search-shortcuts-body = Nyt kun kirjoitat hakukoneen ta tietyn sivuston osoitepalkkiin, sininen oikotie ilmestyy alapuolelle hakuehdotuksiin. Valitsemalla sen voit kirjoittaa haun suoraan osoitepalkkiin.
