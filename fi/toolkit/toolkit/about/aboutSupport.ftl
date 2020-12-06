@@ -58,6 +58,9 @@ app-basics-enabled-plugins = Käytössä olevat liitännäiset
 app-basics-build-config = Koostamisasetukset
 app-basics-user-agent = Selaintunniste
 app-basics-os = Käyttöjärjestelmä
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta-muunnettu
 app-basics-memory-use = Muistin käyttö
 app-basics-performance = Suorituskyky
 app-basics-service-workers = Rekisteröidyt Service Workers -apukomentosarjat
@@ -330,6 +333,15 @@ multi-process-status-unknown = Tuntematon tila
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Kokeilun käytöstä poistama
+fission-status-experiment-treatment = Kokeilun käyttöön ottama
+fission-status-disabled-by-e10s-env = Ympäristön käytöstä poistama
+fission-status-enabled-by-env = Ympäristön käyttöön ottama
+fission-status-disabled-by-safe-mode = Vikasietotilan käytöstä poistama
+fission-status-enabled-by-default = Käytössä oletuksena
+fission-status-disabled-by-default = Poistettu käytöstä oletuksena
+fission-status-enabled-by-user-pref = Käyttäjän käyttöön ottama
+fission-status-disabled-by-user-pref = Käyttäjän käytöstä poistama
 fission-status-disabled-by-e10s-other = E10s poistettu käytöstä
 async-pan-zoom = Asynkroninen siirto/lähennys
 apz-none = ei mitään
@@ -354,5 +366,9 @@ policies-error = Virhe
 
 ## Printing section
 
+support-printing-title = Tulostaminen
+support-printing-troubleshoot = Ongelmanmääritys
+support-printing-clear-settings-button = Tyhjennä tallennetut tulostusasetukset
+support-printing-modified-settings = Muokatut tulostusasetukset
 support-printing-prefs-name = Nimi
 support-printing-prefs-value = Arvo

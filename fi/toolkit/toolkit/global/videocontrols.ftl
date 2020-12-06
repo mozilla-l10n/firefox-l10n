@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Ladataan:
 videocontrols-volume-control =
     .aria-label = Äänenvoimakkuus
+videocontrols-closed-caption-button =
+    .aria-label = Tekstitys
