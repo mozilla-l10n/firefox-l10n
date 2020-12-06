@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Poliças
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Poliças per
     .accesskey = P
-
 fonts-langgroup-arabic =
     .label = Arabi
 fonts-langgroup-armenian =
@@ -77,35 +75,26 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionala
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Talha
     .accesskey = T
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sens-serif
     .accesskey = n
-
 fonts-monospace = Largor fixa
     .accesskey = F
-
 fonts-monospace-size = Talha
     .accesskey = l
-
 fonts-minsize = Talha minimala de la poliça
-    .accesskey = o
-
+    .accesskey = T
 fonts-minsize-none =
     .label = Pas cap
-
 fonts-allow-own =
-    .label = Autorizar las paginas de causir lors poliças, puslèu que las seleccions precedentas
+    .label = Permetre a las paginas de causir lors poliças, puslèu que las seleccions precedentas
     .accesskey = A
 
 ## Text Encodings
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Encodatge del tèxte pel contengut obsolèt
 fonts-languages-fallback-desc = Aqueste encodatge del tèxte es utilizat pel contengut obsolèt que declara pas corrèctament son encodatge.
-
 fonts-languages-fallback-label = Encodatge de tèxte de remplaçament
     .accesskey = T
-
 fonts-languages-fallback-name-auto =
     .label = Valor per defaut per la lenga correnta
 fonts-languages-fallback-name-arabic =
@@ -151,7 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamian
 fonts-languages-fallback-name-other =
     .label = Autra (inclusa Euròpa occidentala)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
