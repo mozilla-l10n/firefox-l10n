@@ -10,6 +10,8 @@ about-processes-column-action =
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Sulje välilehdet ja tapa prosessi
 about-processes-shutdown-tab =
     .title = Sulje välilehti
 
@@ -40,6 +42,8 @@ about-processes-gpu-process-name = GPU (prosessi { $pid })
 about-processes-vr-process-name = VR (prosessi { $pid })
 about-processes-rdd-process-name = Datan purku (prosessi { $pid })
 about-processes-socket-process-name = Verkko (prosessi { $pid })
+about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (prosessi { $pid })
+about-processes-fork-server-process-name = Fork Server (prosessi { $pid })
 about-processes-preallocated-process-name = Esijaettu (prosessi { $pid })
 about-processes-unknown-process-name = Muu ({ $type }, prosessi { $pid })
 # Process
@@ -85,6 +89,12 @@ about-processes-frame-name-many = Alikehykset ({ $number }): { $shortUrl }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (mittaus kesken)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = jouten ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
