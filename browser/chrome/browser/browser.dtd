@@ -106,7 +106,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY bookmarksSubview.label             "Yer imleri">
 <!ENTITY bookmarksMenuButton2.label         "Yer imleri menüsü">
-<!ENTITY bookmarksMenuButton.other.label    "Diğer Yer İmleri">
+<!ENTITY bookmarksMenuButton.other.label    "Diğer yer imleri">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mobil yer imleri">
 <!ENTITY viewBookmarksSidebar2.label        "Yer imleri kenar çubuğunu göster">
 <!ENTITY hideBookmarksSidebar.label         "Yer imleri kenar çubuğunu gizle">
