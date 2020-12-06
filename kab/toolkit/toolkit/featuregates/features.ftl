@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Ifecka n uneflay: Tamseɣtayt n unmahal n umeẓlu
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Yermed tallalt tarmitant i yimahalen n umeẓlu deg ugalis n temseɣtit. Tamahilt-a yezmer ad terr ifecka n tneflit ẓẓayit, tessalay daɣen asadur n tkatut.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Udlifen: Asemɣer/Asemẓi n tuṭṭfa talggaɣt
-experimental-features-graphics-desktop-zooming-description = Rmed tallelt n tuṭṭfa n usemɣer/asemẓi talggaɣt deg ugdil analan akked telqayt n ugertil analan.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Rmed/Sens imesli amatu n WebRTC
@@ -98,3 +94,6 @@ experimental-features-js-warp-description = Rmed Wrap, d asenfar i usnerni n tme
 experimental-features-fission =
     .label = Fission (aɛzal n usmel)
 experimental-features-fission-description = Fission (aɛzal n usmel) d tamahilt tarmitant deg { -brand-short-name } i umuddu n tissi-nniḍen n uḥareb mgal abugen n tɣellist. S uɛzal n yal asmel deg ukala i yettwaɛezlen, Fission tettarra anekcum ɣer yisebtar-nniḍen wuɣur i trezzuḍ yewɛer aṭas i yir ismal web. Wagi d asenfel agejdan asegdan deg { -brand-short-name }, nekkni ad ak·akem-nesnemmer ɣef usekyed d tuzna n wuguren i tzemreḍ ad d-temlileḍ. I wugar n telqayt, wali <a data-l10n-name="wiki">awiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Tallalt n tugna deg tugna yeggten

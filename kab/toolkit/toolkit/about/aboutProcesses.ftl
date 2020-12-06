@@ -39,6 +39,8 @@ about-processes-privilegedmozilla-process-name = Web (akala { $pid }) i yismal n
 about-processes-gpu-process-name = GPU (akala { $pid })
 about-processes-vr-process-name = VR (akala { $pid })
 about-processes-socket-process-name = Azeṭṭa (akala { $pid })
+about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (akala { $pid })
+about-processes-fork-server-process-name = Aqeddac Fork (akala { $pid })
 about-processes-preallocated-process-name = Adeg uzwir (akala { $pid })
 about-processes-unknown-process-name = ({ $type }, akala { $pid }) wayeḍ
 # Process
