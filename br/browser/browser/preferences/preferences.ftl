@@ -485,6 +485,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Lec'hiennoù gwellañ
 home-prefs-topsites-description = Al lec'hiennoù a weladennit ar muiañ
+home-prefs-topsites-by-option-sponsored =
+    .label = Lec'hiennoù gwellañ paeroniet
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -499,6 +501,8 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Istorioù kevelet
 home-prefs-highlights-header =
     .label = Mareoù pouezus
+home-prefs-recent-activity-header =
+    .label = Oberiantiz a-nevez
 home-prefs-highlights-description = Un dibab a lec'hiennoù ho peus enrollet pe gweladennet
 home-prefs-highlights-option-visited-pages =
     .label = Pajennoù gweladennet
@@ -555,6 +559,7 @@ search-show-suggestions-above-history-option =
     .label = Diskouez an alioù klask a-us d'ar roll istor e disoc'hoù ar varrenn chomlec'h
 search-show-suggestions-private-windows =
     .label = Diskouez ar c'hinnigoù enklask er prenestroù prevez
+suggestions-addressbar-settings-generic = Kemmañ ar gwellvezioù evit ar c’hinnigoù barenn chomlec’h all
 search-suggestions-cant-show = Ne vo ket skrammet ar c'hinnigoù enklask e disoc'hoù ar varrenn chomlec'hioù dre m'ho peus kefluniet { -brand-short-name }  evit ma ne zalc'hfe ket soñj eus ho roll istor.
 search-one-click-header = Luskerioù enklask ur-c'hlik
 search-one-click-header2 = Berradennoù enklask
@@ -945,6 +950,7 @@ content-blocking-all-third-party-cookies = Holl doupinoù an tredeoù
 content-blocking-cryptominers = Kriptogleuzerien
 content-blocking-fingerprinters = Dinoerien roudoù niverel
 content-blocking-warning-title = Diwallit!
+content-blocking-and-isolating-etp-warning-description = Stankañ an heulierien ha difuiñ an toupinoù a c'hallfe kaout un efed war implij lec'hiennoù 'zo. Adkargit ur bajenn gant an heulierien evit kargañ pep tra.
 content-blocking-warning-learn-how = Deskit penaos
 content-blocking-reload-description = Ezhomm ho po da adkargañ hoc'h ivinelloù evit arloañ ar c'hemmoù.
 content-blocking-reload-tabs-button =

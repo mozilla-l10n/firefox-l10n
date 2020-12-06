@@ -240,7 +240,7 @@ cfr-whatsnew-passwords-icon-alt = arlun ger-tremen arvarus
 
 ## Picture-in-Picture fullscreen message
 
-cfr-whatsnew-pip-fullscreen-header = Tremen e mod skramm a-bezh
+cfr-whatsnew-pip-fullscreen-header = Tremen skeudenn-ouzh-skeudenn e mod skramm a-bezh
 cfr-whatsnew-pip-fullscreen-body = Pa lakait ur video da vezañ en ur prenestr distag e c'hallit bremañ daouglikañ war ar prenestr-mañ evit mont er skramm a-bezh.
 cfr-whatsnew-pip-fullscreen-icon-alt = Arlun skeudenn-ouzh-skeudenn
 
@@ -276,3 +276,6 @@ cfr-doorhanger-fission-secondary-button = Gouzout hiroc'h
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-button = Gouzout penaos
+
+## What's new: Search shortcuts
+

@@ -167,6 +167,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Lec'hiennoù pennañ
 newtab-section-header-highlights = Mareoù pouezus
+newtab-section-header-recent-activity = Oberiantiz a-nevez
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Erbedet gant { $provider }

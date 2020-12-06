@@ -104,6 +104,7 @@ return-to-amo-add-extension-label = Ouzhpennañ an askouezh
 onboarding-multistage-welcome-header = Degemer mat e <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-secondary-button-label = Kennaskañ
 onboarding-multistage-welcome-secondary-button-text = Ur gont a zo ganeoc'h?
+onboarding-multistage-import-primary-button-label = Loc'hañ an enporzhiadur
 onboarding-multistage-import-secondary-button-label = Ket bremañ
 onboarding-multistage-theme-secondary-button-label = Ket bremañ
 # Automatic theme uses operating system color settings
