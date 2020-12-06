@@ -303,6 +303,8 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Lazhet e-pad nebeud amzer
 identity-https-only-info-turn-on2 = Gweredekait ar mod HTTPS-hepken evit al lec’hienn-mañ ma fell deoc’h vefe hizivaet ar c‘hennask gant { -brand-short-name } p'eo posupl.
+identity-https-only-info-turn-off2 = Ma seblant bezañ torret ar bajenn e c'hallit diweredekaat ar mod HTTPS-hepken evit ma vefe adkarget al lec'hienn gant HTTP diziogel.
+identity-https-only-info-no-upgrade = N'haller ket gwellaat ar c'hennask HTTP.
 identity-permissions =
     .value = Aotreoù
 identity-permissions-storage-access-header = Toupinoù etrelec'hienn
@@ -351,6 +353,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Enporzhiañ ar sinedoù…
+    .tooltiptext = Enporzhiañ ar sinedoù adalek ur merdeer all betek { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
