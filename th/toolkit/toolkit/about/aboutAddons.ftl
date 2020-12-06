@@ -386,6 +386,12 @@ addon-badge-line =
 addon-badge-verified =
     .title = ส่วนขยายนี้ผ่านการตรวจทานรหัสเพื่อความปลอดภัยแล้ว
     .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = นี่คือส่วนขยายอย่างเป็นทางการที่สร้างโดยผู้สร้าง { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = ส่วนขยายนี้ได้รับการตรวจสอบว่าเป็นไปตามมาตรฐานด้านความปลอดภัยและประสิทธิภาพของเรา
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
