@@ -182,6 +182,11 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] Poistetaanko { $count } kirjautumistieto kaikilta laitteilta?
        *[other] Poistetaanko kaikki { $count } kirjautumistietoa kaikilta laitteilta?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Tämä poistaa kirjautumistiedon, jonka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu { -fxaccount-brand-name(case: "allative") }. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
+       *[other] Tämä poistaa kaikki kirjautumistiedot, jotka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu { -fxaccount-brand-name(case: "allative") }. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
+    }
 about-logins-confirm-export-dialog-title = Vie kirjautumistiedot ja salasanat
 about-logins-confirm-export-dialog-message = Salasanasi tallennetaan luettavaan muotoon (esim. hu0n0s4l4s4n4), joten kuka tahansa viedyn tiedoston avaamiseen kykenevä voi nähdä salasanat.
 about-logins-confirm-export-dialog-confirm-button = Vie…
