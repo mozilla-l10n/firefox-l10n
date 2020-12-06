@@ -293,10 +293,12 @@ identity-https-only-dropdown-off =
     .label = Ei käytössä
 identity-https-only-dropdown-off-temporarily =
     .label = Ei käytössä väliaikaisesti
+identity-https-only-info-turn-off2 = Jos sivu näyttää rikkinäiseltä, saatat haluta poistaa Vain HTTPS -tilan käytöstä ja näin ladata sivun uudestaan käyttäen suojaamatonta HTTP:tä.
 identity-https-only-info-no-upgrade = Yhteyden päivittäminen HTTP:stä epäonnistui.
 identity-permissions =
     .value = Käyttöoikeudet
 identity-permissions-storage-access-header = Sivustorajat ylittävät evästeet
+identity-permissions-storage-access-hint = Nämä osapuolet voivat käyttää sivustorajat ylittäviä evästeitä ja sivustotietoja, kun olet tällä sivustolla.
 identity-permissions-reload-hint = Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.
 identity-permissions-empty = Sivustolle ei ole myönnetty mitään erityisoikeuksia.
 identity-clear-site-data =
@@ -342,6 +344,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Tuo kirjanmerkit…
+    .tooltiptext = Tuo kirjanmerkit toisesta selaimsta { -brand-short-name }iin.
 
 ## WebRTC Pop-up notifications
 
