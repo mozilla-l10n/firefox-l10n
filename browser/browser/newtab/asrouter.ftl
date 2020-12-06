@@ -278,3 +278,4 @@ cfr-whatsnew-media-keys-button = Lue miten
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Hakuoikotiet osoitepalkissa
