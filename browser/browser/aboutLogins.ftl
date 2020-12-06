@@ -172,6 +172,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Poistetaanko { $count } kirjautumistieto?
        *[other] Poistetaanko kaikki { $count } kirjautumistietoa?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Tämä poistaa { -brand-short-name }iin tallentamasi kirjautumistiedon ja kaikki hälytykset, jotka näkyvät täällä. Et voi kumota tätä toimintoa.
+       *[other] Tämä poistaa { -brand-short-name }iin tallentamasi kirjautumistiedot ja kaikki hälytykset, jotka näkyvät täällä. Et voi kumota tätä toimintoa.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Poistetaanko { $count } kirjautumistieto kaikilta laitteilta?
