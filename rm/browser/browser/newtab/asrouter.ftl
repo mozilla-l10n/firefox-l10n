@@ -270,3 +270,8 @@ cfr-whatsnew-clear-cookies-image-alt = Illustraziun dad in cookie bloccà
 cfr-whatsnew-media-keys-header = Dapli controllas per multimedia
 cfr-whatsnew-media-keys-body = Fa ir e fa pussar audio u video directamain cun la tastatura u cun ils uregliers. Quai ta pussibilitescha da controllar multimedia era sche ti ta chattas en in auter tab, program u perfin sch'il computer è bloccà. Ti pos era midar il toc cun agid da las tastas «enavant» ed «enavos».
 cfr-whatsnew-media-keys-button = Vegnir a savair co
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Scursanidas da tschertga en la trav d'adressas
+cfr-whatsnew-search-shortcuts-body = Da nov cumpara ina scursanida blaua en las propostas da tschertgar sche ti tippas il num dad ina maschina da tschertgar u in'adressa specifica en la trav d'adressas. Tscherna questa scursanida per tschertgar directamain en la trav d'adressas.
