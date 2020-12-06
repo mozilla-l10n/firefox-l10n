@@ -302,6 +302,7 @@ identity-https-only-info-no-upgrade = Aleqqem n tuggna seg HTTP d awezɣi.
 identity-permissions =
     .value = Tisirag
 identity-permissions-storage-access-header = Inagan n tuqqna gar yismal
+identity-permissions-storage-access-hint = Imdanen-a zemren ad sxedmen inagan n tuqqna n gar yismal d yisefka n usmel mi ara tiliḍ deg usmel-a.
 identity-permissions-reload-hint = Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.
 identity-permissions-empty = Ur tefkiḍ ara kra n tsiregt i usmel-a.
 identity-clear-site-data =
@@ -350,6 +351,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Kter ticraḍ n yisebtar…
     .tooltiptext = Kter ticraḍ n yisebtar seg yiminig-nniḍen ɣer { -brand-short-name }.
+bookmarks-toolbar-empty-message = I unekcum s zzerb, err ticraḍ-inek·inem n yisebtar da, ɣef ufeggag n tecraḍ n yisebtar. <a data-l10n-name="manage-bookmarks">Sefrek ticraḍ n yisebtar…</a>
 
 ## WebRTC Pop-up notifications
 
