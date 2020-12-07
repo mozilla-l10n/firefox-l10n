@@ -393,6 +393,7 @@ recent-updates-heading = Nedavne dopune
 release-notes-loading = Učitavanje…
 release-notes-error = Došlo je do greške pri učitavanju napomena o izdanju.
 addon-permissions-empty = Ovaj dodatak ne zahtjeva nikakve dozvole.
+addon-permissions-learnmore = Saznaj više o dozvolama
 recommended-extensions-heading = Preporučeni dodatci
 recommended-themes-heading = Preporučeni motivi
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

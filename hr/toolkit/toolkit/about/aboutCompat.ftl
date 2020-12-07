@@ -8,4 +8,6 @@ label-interventions = Intervencije
 label-more-information = Daljnje informacije: Greška { $bug }
 label-overrides = Poništavanja korisničkog agenta
 text-disabled-in-about-config = Ova funkcija je deaktivirana u about:config
+text-no-interventions = Ne koriste se nikakve intervencije
+text-no-overrides = Ne koriste se nikakva nadjačavanja UA-a
 text-title = about:compat
