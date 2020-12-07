@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਹੀ
     .accesskey = O
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
+    .accesskey = h
