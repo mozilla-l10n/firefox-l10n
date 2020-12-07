@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Outils de développement : débogage de Service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Active la prise en charge expérimentale des Service workers dans le panneau Débogueur. Cette fonctionnalité peut ralentir les outils de développement et augmenter la consommation de mémoire.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Affichage : zoom fluide par pincement
-experimental-features-graphics-desktop-zooming-description = Active la prise en charge d’un zoom fluide par pincement sur les écrans tactiles et les pavés tactiles de précision.
 experimental-features-webrtc-global-mute-toggles-description = Ajoute des commandes à l’indicateur de partage global WebRTC qui permettent aux utilisateurs de désactiver globalement leur microphone et leurs flux de caméra.
 # JS JIT Warp project
 experimental-features-js-warp =
@@ -95,3 +91,7 @@ experimental-features-js-warp-description = Active Warp, un projet pour amélior
 experimental-features-fission =
     .label = Fission (isolement des sites)
 experimental-features-fission-description = Fission (isolement des sites) est une fonctionnalité expérimentale de { -brand-short-name } qui fournit un niveau supplémentaire de défense contre des problèmes de sécurité. En isolant chaque site dans un processus séparé, Fission rend plus compliqué pour des sites malveillants l’accès aux informations d’autres pages que vous visitez. Il s’agit d’un changement d’architecture majeur de { -brand-short-name } et nous apprécions que vous le testiez et signaliez tous les problèmes que vous pourriez rencontrer. Pour davantage de détails, consultez <a data-l10n-name="wiki">le wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Prise en charge de plusieurs incrustations vidéo
+experimental-features-multi-pip-description = Prise en charge expérimentale de l’ouverture simultanée de plusieurs incrustations vidéo.
