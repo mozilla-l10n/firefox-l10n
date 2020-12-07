@@ -60,13 +60,40 @@ certificate-viewer-timestamp = مۆری کات
 certificate-viewer-value = نرخ
 certificate-viewer-version = وەشان
 certificate-viewer-business-category = هاوپۆلی بازرگانی
+certificate-viewer-subject-name = ناوی بابەت
+certificate-viewer-issuer-name = ناوی نێرەر
+certificate-viewer-validity = ڕەوایەتی
+certificate-viewer-subject-alt-names = ناوی تری بابەت
+certificate-viewer-public-key-info = زانیاری کلیلی گشتی
+certificate-viewer-miscellaneous = جۆراوجۆر
+certificate-viewer-fingerprints = پەنجەمۆرەکان
+# This message is used as a row header in the Miscellaneous section.
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = داگرتن
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] بەڵێ
+       *[false] نەخێر
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-export = هەناردەکردن
+    .download = { $fileName }.pem
 
 ##
 
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (نەزانراو)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = بڕوانامەکانت
+certificate-viewer-tab-people = خەڵک
+certificate-viewer-tab-servers = ڕاژەکان
+certificate-viewer-tab-ca = دەسەڵاتەکان
+certificate-viewer-tab-unkonwn = نەزانراو
