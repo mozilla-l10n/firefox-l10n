@@ -371,6 +371,10 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە بازدەرەکان
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = بگەڕێ بەهۆی { $name } یان ناونیشان بنووسە
 urlbar-switch-to-tab =
     .value = بچۆ بۆ بازدەری:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -399,13 +403,29 @@ urlbar-result-action-search-in-private = بگەڕێ لە پەنجەرەی تای
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = بگەڕێ لەگەڵ{ $engine }
+urlbar-result-action-sponsored = پاڵپشتیکراو
 urlbar-result-action-switch-tab = بچۆ بۆ بازدەر
 urlbar-result-action-visit = سەردانیبکە
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = پەنجە بنێ بە بازدەر بۆ گەڕان لەگەڵ { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = پەنجە بنێ بە بازدەر بۆ گەڕان { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = گەڕان لە دڵخوازەکان
+urlbar-result-action-search-history = گەڕان لە ناو مێژووی کاردا
+urlbar-result-action-search-tabs = گەڕان لە بازدەرەکان
 
 ## Full Screen and Pointer Lock UI
 
