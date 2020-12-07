@@ -181,6 +181,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Kendu saio-hasiera bat?
        *[other] Kendu { $count } saio-hasiera?
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Kendu saio-hasiera gailu guztietatik?
+       *[other] Kendu { $count } saio-hasiera gailu guztietatik?
+    }
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…

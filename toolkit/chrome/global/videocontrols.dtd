@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY % brandDTD
+    SYSTEM "chrome://branding/locale/brand.dtd">
+  %brandDTD;
+
 <!ENTITY playButton.playLabel "Erreproduzitu">
 <!ENTITY playButton.pauseLabel "Pausatu">
 <!ENTITY muteButton.muteLabel "Mututu">
@@ -17,6 +21,15 @@
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Bideoa beste leiho batean">
+
+<!-- LOCALIZATION NOTE (pictureInPictureToggle.label): This string is used as the
+label for a variation of the Picture-in-Picture video toggle button when the mouse is
+hovering over the video. -->
+<!ENTITY pictureInPictureToggle.label "Ikusi bideoa beste leiho batean">
+<!-- LOCALIZATION NOTE (pictureInPictureExplainer): This string is used as part of
+a variation of the Picture-in-Picture video toggle button. When using this variation,
+this string appears below the toggle when the mouse hovers the toggle. -->
+<!ENTITY pictureInPictureExplainer "Erreproduzitu bideoak aurreko planoan &brandShortName;(e)n beste gauza batzuk egin bitartean">
 
 <!ENTITY error.aborted "Bideoa kargatzea geldituta.">
 <!ENTITY error.network "Bideoaren erreprodukzioa abortatuta sareko errore batengatik.">

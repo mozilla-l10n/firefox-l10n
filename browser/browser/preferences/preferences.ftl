@@ -1131,6 +1131,7 @@ space-alert-under-5gb-message = { -brand-short-name } leku erabilgarririk gabe g
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = HTTPS-Only modua
 httpsonly-learn-more = Argibide gehiago
 httpsonly-radio-enabled =
     .label = Gaitu HTTPS-Only modua leiho guztietan
