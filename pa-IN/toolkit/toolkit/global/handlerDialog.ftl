@@ -28,14 +28,38 @@ permission-dialog-description-file-app = ਇਸ ਫ਼ਾਈਲ ਨੂੰ { $sch
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+permission-dialog-remember = <strong>{ $host }</strong> ਨੂੰ  <strong>{ $scheme }</strong> ਲਿੰਕ ਹਮੇਸ਼ਾਂ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
+permission-dialog-remember-file = ਇਸ ਫ਼ਾਈਲ ਨੂੰ <strong>{ $scheme }</strong> ਲਿੰਕ ਹਮੇਸ਼ਾਂ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ
+    .accessKey = A
+permission-dialog-unset-description = ਤੁਹਾਨੂੰ ਐਪਲੀਕੇਸ਼ਨ ਚੁਣਨੀ ਹੋਵੇਗੀ।
+permission-dialog-set-change-app-link = ਵੱਖਰੀ ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ।
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹੋ
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = { $scheme } ਲਿੰਕ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ।
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ <strong>{ $scheme }</strong> ਲਿੰਕ ਹਮੇਸ਼ਾਂ ਖੋਲ੍ਹਣ ਲਈ ਵਰਤੋਂ
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] ਇਸ ਨੂੰ { -brand-short-name } ਦੀਆਂ ਚੋਣਾਂ ਵਿੱਚ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+       *[other] ਇਸ ਨੂੰ { -brand-short-name } ਦੀਆਂ ਮੇਰੀਆਂ ਪਸੰਦਾਂ ਵਿੱਚ ਬਦਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+    }
 choose-other-app-description = ਹੋਰ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਚੁਣੋ
 choose-app-btn =
     .label = ...ਚੁਣੋ
