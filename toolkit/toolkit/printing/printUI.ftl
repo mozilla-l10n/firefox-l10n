@@ -41,6 +41,9 @@ printui-scale = ਸਕੇਲ
 printui-scale-fit-to-page-width = ਸਫ਼ੇ ਦੀ ਚੌੜਾਈ 'ਤੇ ਫਿੱਟ
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = ਸਕੇਲ
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = ਦੋ ਪਾਸੀ ਪਰਿੰਟ ਕਰਨਾ
+printui-duplex-checkbox = ਦੋਵੇਂ ਪਾਸਿਆਂ ਉੱਤੇ ਪਰਿੰਟ ਕਰੋ
 # Section title for miscellaneous print options
 printui-options = ਚੋਣਾਂ
 printui-headers-footers-checkbox = ਸਿਰਲੇਖ ਅਤੇ ਫੁੱਟਰ ਨੂੰ ਪਰਿੰਟ ਕਰੋ

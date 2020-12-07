@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ:
 videocontrols-volume-control =
     .aria-label = ਆਵਾਜ਼
+videocontrols-closed-caption-button =
+    .aria-label = ਸੀਮਿਤ ਸੁਰਖੀਆਂ
