@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = <image data-l10n-name='addon-install-icon'>
 appmenu-addon-post-install-incognito-checkbox =
     .label = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਜ਼ ਵਿੱਚ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = ਤੁਹਾਡੀ ਨਵੀਂ ਟੈਬ ਬਦਲੀ ਜਾ ਚੁੱਕੀ ਹੈ।
     .buttonlabel = ਤਬਦੀਲੀਆਂ ਨੂੰ ਰੱਖੋ
@@ -52,6 +51,18 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = ਇਕਟੈਨਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ
     .secondarybuttonaccesskey = D
+appmenu-new-tab-controlled-changes =
+    .label = ਤੁਹਾਡੀ ਨਵੀਂ ਟੈਬ ਬਦਲੀ ਗਈ ਹੈ।
+    .buttonlabel = ਤਬਦੀਲੀਆਂ ਰੱਖੋ
+    .buttonaccesskey = K
+    .secondarybuttonlabel = ਨਵੀਆਂ ਟੈਬਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .secondarybuttonaccesskey = M
+appmenu-homepage-controlled-changes =
+    .label = ਤੁਹਾਡਾ ਮੁੱਖ-ਸਫ਼ਾ ਬਦਲਿਆ ਗਿਆ ਹੈ।
+    .buttonlabel = ਤਬਦੀਲੀਆਂ ਰੱਖੋ
+    .buttonaccesskey = K
+    .secondarybuttonlabel = ਮੁੱਖ-ਸਫ਼ੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
     .label = ਤੁਹਾਡੀਆਂ ਲੁਕਵੀਆਂ ਟੈਬਾਂ ਲਈ ਪਹੁੰਚ
     .buttonlabel = ਟੈਬਾਂ ਨੂੰ ਲੁਕਾ ਕੇ ਰੱਖੋ

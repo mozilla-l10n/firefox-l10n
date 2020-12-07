@@ -170,6 +170,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ
 newtab-section-header-highlights = ਸੁਰਖੀਆਂ
+newtab-section-header-recent-activity = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
