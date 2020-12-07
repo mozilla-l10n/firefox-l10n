@@ -277,3 +277,7 @@ cfr-whatsnew-clear-cookies-image-alt = ਕੂਕੀਜ਼ ਨੇ ਦਿਖਾਉ
 
 cfr-whatsnew-media-keys-header = ਹੋਰ ਮੀਡੀਆ ਕੰਟਰੋਲ
 cfr-whatsnew-media-keys-button = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਖੋਜ ਸ਼ਾਰਟਕੱਟ
