@@ -329,6 +329,11 @@ multi-process-status-6 = ਗ਼ੈਰ-ਸਹਾਇਕ ਟੈਕਸਟ ਇਨਪ�
 multi-process-status-7 = ਐਡ-ਆਨ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤਾ
 multi-process-status-8 = ਧੱਕੇ ਨਾਲ ਅਸਮਰੱਥ ਕੀਤਾ
 multi-process-status-unknown = ਅਣਜਾਣ ਹਾਲਤ
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-disabled-by-user-pref = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਅਸਮਰੱਥ ਹੈ
 async-pan-zoom = ਅਸਮਕਾਲੀ ਪੈਨ/ਜ਼ੂਮ
 apz-none = ਕੋਈ ਨਹੀਂ
 wheel-enabled = ਵ੍ਹੀਲ ਇਨਪੁਟ ਸਮਰੱਥ ਹੈ
@@ -349,3 +354,6 @@ touch-warning = ਗ਼ੈਰ-ਸਹਾਇਕ ਪਸੰਦ ਕਰਕੇ ਅਸਿ
 policies-inactive = ਨਾ-ਸਰਗਰਮ
 policies-active = ਸਰਗਰਮ
 policies-error = ਗ਼ਲਤੀ
+
+## Printing section
+

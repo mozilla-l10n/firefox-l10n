@@ -17,6 +17,20 @@ handler-dialog-host = <strong>{ $host }</strong> <strong>{ $scheme }</strong> �
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = ਇਸ ਸਾਈਟ ਨੂੰ { $scheme } ਲਿੰਕ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
+permission-dialog-description-file = ਇਸ ਫ਼ਾਈਲ ਨੂੰ { $scheme } ਲਿੰਕ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
+permission-dialog-description-host = { $host } ਨੂੰ { $scheme } ਲਿੰਕ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
+permission-dialog-description-app = ਇਸ ਸਾਈਟ ਨੂੰ { $scheme } ਲਿੰਕ { $appName } ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
+permission-dialog-description-host-app = { $host } ਨੂੰ { $scheme } ਲਿੰਕ { $appName } ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
+permission-dialog-description-file-app = ਇਸ ਫ਼ਾਈਲ ਨੂੰ { $scheme } ਲਿੰਕ { $appName } ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
 
 ## Chooser dialog
 ## Variables:

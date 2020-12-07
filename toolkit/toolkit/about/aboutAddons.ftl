@@ -371,16 +371,36 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = ਜਦੋਂ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਵੀ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 addon-detail-private-browsing-allow = ਮਨਜ਼ੂਰ
 addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } ਉਹ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦਾ ਹੈ, ਜੋ ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰ ਪੂਰੇ ਕਰਦੇ ਹਨ।
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ { -brand-product-name } ਦੇ ਨਿਰਮਾਤਾ ਵਲੋਂ ਬਣਾਇਆ ਗਿਆ ਸੀ।
+    .aria-label = { addon-badge-line.title }
+addon-badge-verified =
+    .title = ਸੁਰੱਖਿਆ ਲਈ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੇ ਕੋਡ ਦੀ ਪੜਤਾਲ ਹੋ ਚੁੱਕੀ ਹੈ
+    .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = ਇਹ ਅਧਿਕਾਰਿਤ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ { -brand-product-name } ਦੇ ਨਿਰਮਾਤਾ ਵਲੋਂ ਬਣਾਇਆ ਗਿਆ ਹੈ।
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਸਾਡੇ ਮਿਆਰਾਂ ਉੱਤੇ ਖ਼ਰ੍ਹਾ ਉਤਰਨ ਲਈ ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ
+    .aria-label = { addon-badge-verified2.title }
+
+##
+
 available-updates-heading = ਉਪਲੱਬਧ ਅੱਪਡੇਟ
 recent-updates-heading = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
 release-notes-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 release-notes-error = ਅਫਸੋਸ, ਪਰ ਰੀਲਿਜ਼ ਨੋਟਿਸ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ।
 addon-permissions-empty = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਲਈ ਕਿਸੇ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ
+addon-permissions-required = ਮੂਲ ਕੰਮਾਂ ਲਈ ਚਾਹੀਦੀਆਂ ਇਜਾਜ਼ਤਾਂ:
+addon-permissions-optional = ਵਾਧੂ ਕੰਮਾਂ ਲਈ ਚੋਣਵੀਆਂ ਇਜਾਜ਼ਤਾਂ:
+addon-permissions-learnmore = ਇਜਾਜ਼ਤਾਂ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 recommended-extensions-heading = ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
 recommended-themes-heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
