@@ -322,6 +322,9 @@ addon-detail-version-label = Bertsioa
 addon-detail-last-updated-label = Azken eguneraketa
 addon-detail-homepage-label = Hasiera-orria
 addon-detail-rating-label = Balorazioa
+# Message for add-ons with a staged pending update.
+install-postponed-message = Hedapen hau { -brand-short-name } berrabiaraztean eguneratuko da.
+install-postponed-button = Eguneratu orain
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
@@ -367,6 +370,9 @@ addon-detail-private-browsing-disallow = Ez baimendu
 addon-badge-recommended2 =
     .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line =
+    .title = Hedapen hau { -brand-product-name } egiten dutenek sortu dute
+    .aria-label = { addon-badge-line.title }
 
 ##
 
