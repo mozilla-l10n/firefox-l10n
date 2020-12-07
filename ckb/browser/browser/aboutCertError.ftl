@@ -12,6 +12,8 @@ cert-error-trust-unknown-issuer-intro = تۆ پێویستە بەردەوام ن�
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = ماڵپەڕەکان خۆیان ئەناسێنن بە بڕوانامە. { -brand-short-name } متمانەی بە { $hostname } نیە لەبەر ئەوەی لایەنی بڕوانامەپێدەرەکەی نەناسراوە، بڕوانامەکە خۆی بۆخۆی ئیمزای کردوە، یان ڕاژەکارێک بڕوانامە دروستە نێوەندگیرەکە نانێرێت.
+cert-error-trust-cert-invalid = بڕوانامە باوەڕپێنەکراوە لەبەرئەوەی بڵاوکراوەتەوە لە لایەن بڕوانامایەکەی CA نەگونجاەوەوە.
+cert-error-trust-untrusted-issuer = بڕوانامە باوەڕپێنەکراوە لەبەرئەوەی بڕوانامەی بڵاوکەرەوە باوەڕپێنەکراوە.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = کۆدی هەڵە: <a data-l10n-name="error-code-link">{ $error }</a>
