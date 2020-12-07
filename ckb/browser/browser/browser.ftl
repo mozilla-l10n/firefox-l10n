@@ -270,6 +270,10 @@ identity-active-loaded = تۆ پارێزگاریت ناچالاک کرد بۆ ئ
 identity-weak-encryption = ئەم پەڕە شێوازی پارێزگاری لاواز بەکاردێنێت.
 identity-insecure-login-forms = چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.
 identity-https-only-connection-upgraded = (بەرزکرایەوە بۆ https)
+identity-https-only-dropdown-on =
+    .label = کارا
+identity-https-only-dropdown-off =
+    .label = ناکارا
 identity-permissions =
     .value = ڕێگەپێدانەکان
 identity-permissions-reload-hint = لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.
@@ -325,6 +329,8 @@ popup-screen-sharing-never =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = بڕۆ بۆ بازدەر
 
 ## DevTools F12 popup
 
@@ -337,6 +343,34 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = بگەڕێ یان ناونیشان بنووسە
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = بە وێبدا بگەڕێ
+    .aria-label = بگەڕێ لەگەڵ { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = دەقی گەڕان بنووسە
+    .aria-label = بگەڕێ لە { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = دەقی گەڕان بنووسە
+    .aria-label = بگەڕێ لە دڵخوازەکان
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = دەقی گەڕان بنووسە
+    .aria-label = بگەڕێ لە مێژوو
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = دەقی گەڕان بنووسە
+    .aria-label = بگەڕێ لە بازدەرەکان
 urlbar-switch-to-tab =
     .value = بچۆ بۆ بازدەری:
 # Used to indicate that a selected autocomplete entry is provided by an extension.

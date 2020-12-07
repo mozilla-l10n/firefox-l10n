@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = نوێکاری { -brand-shorter-name } دادەگیرێت
 appmenuitem-protection-dashboard-title = بۆردی پارێزگاری
 appmenuitem-customize-mode =
     .label = دڵخوازکردن…
@@ -24,7 +26,6 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = چی نوێ هەیە
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
