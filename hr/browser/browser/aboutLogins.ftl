@@ -197,6 +197,13 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [few] Ukloniti { $count } prijave sa svih uređaja?
        *[other] Ukloniti { $count } prijava sa svih uređaja?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Ovo će ukloniti prijavu spremljenu u { -brand-short-name }u na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
+        [one] Ovo će ukloniti prijavu spremljenu u { -brand-short-name }u na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
+        [few] Ovo će ukloniti prijave spremljene u { -brand-short-name }u na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
+       *[other] Ovo će ukloniti prijave spremljene u { -brand-short-name }u na svim uređajima sinkroniziranim s tvojim { -fxaccount-brand-name }. Ovo će ukloniti i upozorenja o curenju podataka koja se nalaze ovdje. Ovu radnju nije moguće poništiti.
+    }
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-message = Vaše lozinke bit će spremljene kao čitljivi tekst (npr. Loš@L0zinka) pa će ih moći vidjeti svi koji mogu otvoriti izvezenu datoteku.
 about-logins-confirm-export-dialog-confirm-button = Izvoz…

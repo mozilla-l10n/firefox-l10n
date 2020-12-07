@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Najbolje stranice
 newtab-section-header-highlights = Istaknuto
+newtab-section-header-recent-activity = Nedavna aktivnost
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Preporučeno od { $provider }
