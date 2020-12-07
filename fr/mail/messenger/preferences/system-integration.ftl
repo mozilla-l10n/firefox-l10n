@@ -4,16 +4,12 @@
 
 system-integration-title =
     .title = Intégration système
-
 system-integration-dialog =
     .buttonlabelaccept = Définir par défaut
     .buttonlabelcancel = Ignorer l’intégration
     .buttonlabelcancel2 = Annuler
-
 default-client-intro = Utiliser { -brand-short-name } comme client par défaut pour :
-
 unset-default-tooltip = Il n’est pas possible de faire en sorte que { -brand-short-name } ne soit plus le client par défaut au sein de { -brand-short-name }. Pour définir une autre application comme client par défaut vous devez utiliser son dialogue « Définir par défaut ».
-
 checkbox-email-label =
     .label = le courrier électronique
     .tooltiptext = { unset-default-tooltip }
@@ -23,7 +19,9 @@ checkbox-newsgroups-label =
 checkbox-feeds-label =
     .label = les flux
     .tooltiptext = { unset-default-tooltip }
-
+checkbox-calendar-label =
+    .label = Agenda
+    .tooltiptext = { unset-default-tooltip }
 # Note: This is the search engine name for all the different platforms.
 # Platforms that don't support it should be left blank.
 system-search-engine-name =
@@ -32,11 +30,9 @@ system-search-engine-name =
         [windows] Recherche Windows
        *[other] { "" }
     }
-
 system-search-integration-label =
     .label = Autoriser { system-search-engine-name } à rechercher dans les messages
     .accesskey = A
-
 check-on-startup-label =
     .label = Toujours effectuer cette vérification au démarrage de { -brand-short-name }.
     .accesskey = T
