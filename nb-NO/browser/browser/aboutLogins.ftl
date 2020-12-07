@@ -177,8 +177,8 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
-        [one] Fjern { $count } innlogging?
-       *[other] Fjern alle { $count } innlogginger?
+        [one] Fjerne { $count } innlogging?
+       *[other] Fjerne alle { $count } innlogginger?
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
