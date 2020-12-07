@@ -4,5 +4,6 @@
 
 about-httpsonly-insecure-title = Konexio segurua ez dago erabilgarri
 about-httpsonly-button-make-exception = Onartu arriskua eta jarraitu gunera
+about-httpsonly-button-continue-to-site = Jarraitu HTTP gunera
 about-httpsonly-button-go-back = Joan atzera
 about-httpsonly-link-learn-more = Argibide gehiago…

@@ -59,6 +59,9 @@ app-basics-enabled-plugins = Gaitutako pluginak
 app-basics-build-config = Eraikitze-konfigurazioa
 app-basics-user-agent = Erabiltzaile-agentea
 app-basics-os = SEa
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Memoriaren erabilpena
 app-basics-performance = Errendimendua
 app-basics-service-workers = Erregistratutako zerbitzu-langileak
@@ -127,6 +130,7 @@ sandbox-sys-call-number = Sistema-deia
 sandbox-sys-call-args = Argumentuak
 safe-mode-title = Probatu modu segurua
 restart-in-safe-mode-label = Berrabiarazi gehigarriak desgaituta…
+restart-button-label = Berrabiarazi
 
 ## Media titles
 
