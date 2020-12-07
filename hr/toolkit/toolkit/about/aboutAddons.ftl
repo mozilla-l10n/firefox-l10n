@@ -377,7 +377,7 @@ addon-detail-private-browsing-disallow = Nemoj dozvoliti
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } preporuča samo proširenja, koja udovoljavaju našim standardima za sigurnost i performanse
+    .title = { -brand-product-name } preporučuje samo proširenja koja udovoljavaju našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-recommended2.title }
 addon-badge-line =
     .title = Ovo proširenje stvorili su tvorci { -brand-product-name }a
