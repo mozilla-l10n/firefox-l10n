@@ -186,6 +186,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Ĉu forigi tiun ĉi legitimilon?
        *[other] Ĉu forigi ĉiujn { $count } legitimilojn?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Tio ĉi forigos la legitimilon konservitan de vi en { -brand-short-name } kaj ĉiujn atentigojn, kiuj aperas ĉi tie. Tiu ĉi ago ne estas malfarebla.
+       *[other] Tio ĉi forigos la legitimilojn konservitajn de vi en { -brand-short-name } kaj ĉiujn atentigojn, kiuj aperas ĉi tie. Tiu ĉi ago ne estas malfarebla.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Ĉu forigi { $count } legitimilon el ĉiuj aparatoj?
