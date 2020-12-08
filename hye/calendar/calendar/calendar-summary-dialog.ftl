@@ -10,3 +10,6 @@ calendar-summary-dialog-edit-menu-button =
 edit-button-context-menu-this-occurrence =
     .label = խմբագրել
     .accesskey = լ
+edit-button-context-menu-all-occurrences =
+    .label = Խմբագրել բոլոր դէպքերը
+    .accesskey = ր
