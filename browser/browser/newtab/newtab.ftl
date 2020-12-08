@@ -8,6 +8,9 @@
 newtab-page-title = Νέα καρτέλα
 newtab-settings-button =
     .title = Προσαρμογή της σελίδας Νέας Καρτέλας
+newtab-personalize-button-label = Εξατομίκευση
+    .title = Εξατομίκευση νέας καρτέλας
+    .aria-label = Εξατομίκευση νέας καρτέλας
 
 ## Search box component.
 

@@ -169,7 +169,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Αφαίρεση αυτής της σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
-about-logins-confirm-remove-all-dialog-confirm-button = Αφαίρεση όλων
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Αφαίρεση
+       *[other] Αφαίρεση όλων
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ναι, αφαίρεση σύνδεσης
