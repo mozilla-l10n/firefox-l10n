@@ -8,6 +8,9 @@
 newtab-page-title = Nova aba
 newtab-settings-button =
     .title = Personalizar sua página de nova aba
+newtab-personalize-button-label = Personalizar
+    .title = Personalizar nova aba
+    .aria-label = Personalizar nova aba
 
 ## Search box component.
 
