@@ -42,7 +42,7 @@
 <!ENTITY offlineFolder.button.label              "Last ned nå">
 <!ENTITY offlineFolder.button.accesskey          "L">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Velg denne nyhetsgruppen for frakoblet bruk">
+<!ENTITY selectofflineNewsgroup.check.label      "Velg denne temagruppen for frakoblet bruk">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "V">
 <!ENTITY offlineNewsgroup.button.label           "Last ned nå">
 <!ENTITY offlineNewsgroup.button.accesskey       "L">
@@ -59,7 +59,6 @@
 <!ENTITY folderType.label                        "Mappetype:">
 
 <!ENTITY folderQuotaTab.label                    "Kvote">
-<!ENTITY folderQuotaRoot.label                   "Kvoterot:">
 <!ENTITY folderQuotaUsage.label                  "Bruk:">
 <!ENTITY folderQuotaStatus.label                 "Status:">
 

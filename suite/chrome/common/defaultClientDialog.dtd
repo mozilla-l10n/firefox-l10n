@@ -7,7 +7,7 @@
 
 <!ENTITY browser.label "Nettleser">
 <!ENTITY email.label "E-post">
-<!ENTITY newsgroups.label "Nyhetsgrupper">
+<!ENTITY newsgroups.label "Temagrupper">
 <!ENTITY feeds.label "Nyhetskilder">
 
 <!ENTITY checkOnStartup.label "Alltid kontroller standardprogrammer når &brandShortName; starter">
