@@ -37,6 +37,7 @@
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; Կատարեալ">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Խմբաւորել ըստ &#37; աւարտի">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Սկսել">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Տեսակաւորել ըստ սկսման ամսաթուի">
 
 
 
