@@ -18,16 +18,28 @@ policy-Bookmarks = Crea adreces d'interès a la barra d'adreces d'interès, al m
 policy-Cookies = Permet o denega que els llocs web defineixin galetes.
 policy-DefaultDownloadDirectory = Defineix el directori de baixades per defecte.
 policy-DisableAppUpdate = Evita que el navegador s’actualitzi.
+policy-DisableBuiltinPDFViewer = Desactiva el PDF.js, el visor de PDF incorporat en el { -brand-short-name }.
 policy-DisableDeveloperTools = Bloca l'accés a les eines per a desenvolupadors.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Desactiva la funció de captures de pantalla del Firefox Screenshots.
 policy-DisableForgetButton = Evita l'accés al botó Oblida.
+policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
+policy-DisablePocket = Desactiva la funció de desar llocs web al Pocket.
+policy-DisablePrivateBrowsing = Desactiva la navegació privada.
+policy-DisableTelemetry = Desactiva la telemetria.
+policy-DNSOverHTTPS = Configura DNS sobre HTTPS.
 policy-FirefoxHome = Configura el Firefox Home.
+policy-FlashPlugin = Permet o denega l'ús del connector Flash.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-Proxy = Configura els paràmetres del servidor intermediari.
 policy-SearchSuggestEnabled = Activa o desactiva els suggeriments de cerca.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instal·la mòduls PKCS #11.
 policy-SSLVersionMax = Defineix la versió màxima de SSL.
 policy-SSLVersionMin = Defineix la versió mínima de SSL.
