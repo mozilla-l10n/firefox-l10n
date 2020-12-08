@@ -8,6 +8,9 @@
 newtab-page-title = Nauja kortelė
 newtab-settings-button =
     .title = Tinkinkite savo naujos kortelės puslapį
+newtab-personalize-button-label = Tinkinti
+    .title = Tinkinti naują kortelę
+    .aria-label = Tinkinti naują kortelę
 
 ## Search box component.
 

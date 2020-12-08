@@ -170,7 +170,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Pašalinti šį prisijungimą?
 confirm-delete-dialog-message = Atlikus šį veiksmą, jo atšaukti neįmanoma.
 about-logins-confirm-remove-dialog-confirm-button = Pašalinti
-about-logins-confirm-remove-all-dialog-confirm-button = Pašalinti visus
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Pašalinti
+        [one] Pašalinti
+        [few] Pašalinti visus
+       *[other] Pašalinti visus
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Taip, pašalinti šį prisijungimą
