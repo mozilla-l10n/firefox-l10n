@@ -188,13 +188,18 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Tio ĉi forigos la legitimilon konservitan de vi en { -brand-short-name } kaj ĉiujn atentigojn, kiuj aperas ĉi tie. Tiu ĉi ago ne estas malfarebla.
-       *[other] Tio ĉi forigos la legitimilojn konservitajn de vi en { -brand-short-name } kaj ĉiujn atentigojn, kiuj aperas ĉi tie. Tiu ĉi ago ne estas malfarebla.
+        [1] Tio ĉi forigos la legitimilon konservitan de vi en { -brand-short-name } kaj ĉiujn datumfuĝajn atentigojn, kiuj aperas ĉi tie. Tiu ĉi ago ne estas malfarebla.
+       *[other] Tio ĉi forigos la legitimilojn konservitajn de vi en { -brand-short-name } kaj ĉiujn datumfuĝajn atentigojn, kiuj aperas ĉi tie. Tiu ĉi ago ne estas malfarebla.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Ĉu forigi { $count } legitimilon el ĉiuj aparatoj?
        *[other] Ĉu forigi { $count } legitimilojn el ĉiuj aparatoj?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Tio ĉi forigos la legitimilon konservitan de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via { -fxaccount-brand-name }. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
+       *[other] Tio ĉi forigos la legitimilojn konservitajn de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via { -fxaccount-brand-name }. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
     }
 about-logins-confirm-export-dialog-title = Elporti legitimilojn kaj pasvortojn
 about-logins-confirm-export-dialog-message = Viaj pasvortoj estos konservitaj kiel legebla teksto (ekzemple: Aĉ@pasvorto) tiel ke iu ajn kun aliro al la dosiero povos vidi ilin.
