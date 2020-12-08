@@ -8,6 +8,9 @@
 newtab-page-title = Tab Newydd
 newtab-settings-button =
     .title = Cyfaddasu eich tudalen Tab Newydd
+newtab-personalize-button-label = Personoli
+    .title = Personoli tab newydd
+    .aria-label = Personoli tab newydd
 
 ## Search box component.
 

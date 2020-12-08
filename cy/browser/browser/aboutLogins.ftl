@@ -173,7 +173,16 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Tynnu'r mewngofnod?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
 about-logins-confirm-remove-dialog-confirm-button = Tynnu
-about-logins-confirm-remove-all-dialog-confirm-button = Tynnu Popeth
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Tynnu
+        [zero] Tynnu
+        [one] Tynnu
+        [two] Tynnu
+        [few] Tynnu
+        [many] Tynnu
+       *[other] Tynnu'r Cyfan
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ie, tynnu'r mewngofnod
