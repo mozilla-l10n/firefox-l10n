@@ -116,13 +116,32 @@
 <!ENTITY calendar.task.filter.next7days.accesskey   "N">
 <!ENTITY calendar.task.filter.notstarted.label      "Չսկսուած առաջադրանքներ">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
+<!ENTITY calendar.task.filter.overdue.label         "Ուշացած առաջադրանքներ">
+<!ENTITY calendar.task.filter.overdue.accesskey     "O">
+<!ENTITY calendar.task.filter.completed.label       "Կատարուած առաջադրանքներ">
+<!ENTITY calendar.task.filter.completed.accesskey   "C">
+<!ENTITY calendar.task.filter.open.label            "Անաւարտ առաջադրանքներ">
+<!ENTITY calendar.task.filter.open.accesskey        "m">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
+<!ENTITY calendar.task.filter.current.label         "Ընթացիկ առաջադրանքներ">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
 
+<!ENTITY calendar.task-details.title.label           "վերնագիր">
+<!ENTITY calendar.task-details.organizer.label       "ից">
+<!ENTITY calendar.task-details.priority.label        "առաջնահերթութիւն">
+<!ENTITY calendar.task-details.priority.low.label    "Ցածր">
+<!ENTITY calendar.task-details.priority.normal.label "Միջին">
+<!ENTITY calendar.task-details.priority.high.label   "Բարձր">
+<!ENTITY calendar.task-details.status.label          "Կարգավիճակ">
+<!ENTITY calendar.task-details.category.label        "անուանակարգ">
+<!ENTITY calendar.task-details.repeat.label          "կրկնել">
+<!ENTITY calendar.task-details.attachments.label     "կցորդներ">
+<!ENTITY calendar.task-details.start.label           "մեկնարկի ամսաթիւ">
 
 
 
