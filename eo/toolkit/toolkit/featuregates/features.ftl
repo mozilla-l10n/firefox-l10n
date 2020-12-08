@@ -82,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Iloj por programistoj: senerarigo de Service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Tio ĉi aktivigas eksperimentan subtenon de Service workers en la erarserĉila panelo. Tiu ĉi trajto povas malrapidigi la ilojn por programistoj kaj uzi pli da memoro.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Grafiko: flua skalo per pinĉo
-experimental-features-graphics-desktop-zooming-description = Tio ĉi aktivigas fluan skalon per pinĉo en tuŝekranoj kaj precizaj tuŝmatoj.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Ŝalti/malŝalti sonon WebRTC ĉie
@@ -98,3 +94,7 @@ experimental-features-js-warp-description = Aktivigi Warp, kiu estas projekto po
 experimental-features-fission =
     .label = Fission (reteja izolado)
 experimental-features-fission-description = Fission (reteja izolado) estas eksperimenta trajto en { -brand-short-name } kiu provizas aldonan defendan tavolon kontraŭ sekurecaj problemoj. Fission izolas ĉiun retejon, kaj do malicaj paĝoj ne povas aliri informojn de aliaj vizitataj paĝoj. Tiu ĉi estas tre grava kerna arĥitektura ŝanĝo en { -brand-short-name } kaj ni dankas vian testadon kaj la raporton de iu ajn problemo, kiun vi renkontos. Por havi pli da informo, vizitu <a data-l10n-name="wiki">la vikion</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Subteno por pluraj inkrustitaj filmetoj
+experimental-features-multi-pip-description = Eksperimenta subteno por permesi la samtempan malfermon de pluraj inkrustitaj filmetoj.
