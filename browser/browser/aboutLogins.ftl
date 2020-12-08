@@ -168,7 +168,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
-about-logins-confirm-remove-all-dialog-confirm-button = 모두 삭제
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] 삭제
+       *[other] 모두 삭제
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] 예, 이 로그인을 삭제합니다
