@@ -13,12 +13,20 @@
 <!ENTITY  typefaces.label                         "Οικογένεια γραμματοσειρών">
 <!ENTITY  sizes.label                             "Μέγεθος (pixels)">
 
+<!ENTITY  proportional.label                      "Μεταβλητού πλάτους:">
+<!ENTITY  proportional.accesskey                  "Μ">
 
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Σταθερού πλάτους:">
+<!ENTITY  monospace.accesskey                     "Σ">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY  fantasy.label                           "Διακόσμησης:">
+<!ENTITY  fantasy.accesskey                       "Δ">
+<!ENTITY  cursive.label                           "Καλλιγραφίας:">
+<!ENTITY  cursive.accesskey                       "Κ">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of
