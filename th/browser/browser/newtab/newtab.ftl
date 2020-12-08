@@ -8,6 +8,9 @@
 newtab-page-title = แท็บใหม่
 newtab-settings-button =
     .title = ปรับแต่งหน้าแท็บใหม่ของคุณ
+newtab-personalize-button-label = ปรับให้เป็นแบบส่วนตัว
+    .title = ปรับแท็บใหม่ให้เป็นส่วนตัว
+    .aria-label = ปรับแท็บใหม่ให้เป็นส่วนตัว
 
 ## Search box component.
 
