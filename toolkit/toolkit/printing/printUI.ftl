@@ -68,11 +68,13 @@ printui-system-dialog-link = Argraffu gan ddefnyddio deialog y system ...
 printui-primary-button = Argraffu
 printui-primary-button-save = Cadw
 printui-cancel-button = Diddymu
+printui-close-button = Cau
 printui-loading = Paratoi Rhagolwg
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Rhagolwg Argraffu
+printui-pages-per-sheet = Tudalennau fesul dalen
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
