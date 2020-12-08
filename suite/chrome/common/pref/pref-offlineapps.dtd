@@ -10,6 +10,12 @@
 <!ENTITY clearOfflineAppCache.label         "Απαλοιφή">
 <!ENTITY clearOfflineAppCache.accesskey     "Α">
 
+<!ENTITY offlineAlwaysAllow.label           "Αποδοχή δεδομένων για χρήση εκτός σύνδεσης από όλες τις ιστοσελίδες">
+<!ENTITY offlineAlwaysAllow.accesskey       "Α">
+<!ENTITY offlineExplicit.label              "Να επιτρέπεται μόνο σε ιστοσελίδες με ρητά δικαιώματα">
+<!ENTITY offlineExplicit.accesskey          "Ν">
+<!ENTITY offlineNotifyAsk.label             "Ειδοποίηση όταν οι ιστοσελίδες θέλουν να αποθηκεύουν δεδομένα για χρήση εκτός σύνδεσης">
+<!ENTITY offlineNotifyAsk.accesskey         "Ε">
 <!ENTITY offlineNotifyPermissions.label     "Διαχείριση δικαιωμάτων">
 <!ENTITY offlineNotifyPermissions.accesskey "Δ">
 
