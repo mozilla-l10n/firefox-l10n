@@ -8,6 +8,9 @@
 newtab-page-title = 新分頁
 newtab-settings-button =
     .title = 自訂您的新分頁頁面
+newtab-personalize-button-label = 個人化
+    .title = 個人化新分頁
+    .aria-label = 個人化新分頁
 
 ## Search box component.
 
