@@ -302,6 +302,7 @@ identity-https-only-info-no-upgrade = Ne eblas ŝanĝi la konekton HTTP.
 identity-permissions =
     .value = Permesoj
 identity-permissions-storage-access-header = Interretejaj kuketoj
+identity-permissions-storage-access-hint = Tiuj ĉi aliaj partoprenantoj povas uzi interretejajn kuketojn kaj retejajn datumojn dum vi estas en tiu ĉi retejo,
 identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
 identity-permissions-empty = Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.
 identity-clear-site-data =
@@ -350,6 +351,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Enporti legosignojn…
     .tooltiptext = Enporti legosignojn de alia retumilo en { -brand-short-name }.
+bookmarks-toolbar-empty-message = Por rapida aliro, metu viajn legosignojn ĉi tien, en la strion de legosignoj. <a data-l10n-name="manage-bookmarks">Administri legosignojn…</a>
 
 ## WebRTC Pop-up notifications
 

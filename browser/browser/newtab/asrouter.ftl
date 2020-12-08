@@ -275,3 +275,8 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustraĵo de blokita kuketo
 cfr-whatsnew-media-keys-header = Pli da regiloj aŭdvidaj
 cfr-whatsnew-media-keys-body = Ludi kaj paŭzigi sonon aŭ videon senpere el via klavaro aŭ kapaŭskultiloj. Tio simpligas la taskon regi aŭdvidaĵojn el alia langeto, programo aŭ eĉ dum via komputilo estas blokita. Vi ankaŭ povas moviĝi inter kantoj aŭ filmetoj per la sagoklavoj, antaŭen kaj malantaŭen.
 cfr-whatsnew-media-keys-button = Lernu kiel fari
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Serĉi ŝparvojojn en la adresa strio
+cfr-whatsnew-search-shortcuts-body = Ekde nun, kiam vi tajpas serĉilon aŭ specifan retejon en la adresa strio, blua ŝparvojo aperos en la subaj serĉaj sugestoj. Elektu tiun ŝparvojon por serĉi rekte el la adresa strio.
