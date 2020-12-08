@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Išči sporočila v:">
+<!ENTITY searchSubfolders.label      "Išči v podmapah">
+<!ENTITY searchOnRemote.label        "Oddaljeni strežnik">
+<!ENTITY resetButton.label           "Počisti">
+<!ENTITY openButton.label            "Odpri">
+<!ENTITY openButton.accesskey        "O">
+<!ENTITY deleteButton.label          "Izbriši">
+<!ENTITY searchDialogTitle.label     "Išči po sporočilih">
+<!ENTITY results.label               "Rezultati">
+<!ENTITY moveButton.label            "Premakni v">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Išči v:">
+<!ENTITY propertiesButton.label      "Lastnosti">
+<!ENTITY composeButton.label         "Sestavi">
+<!ENTITY abSearchDialogTitle.label   "Napredno iskanje po imeniku">
