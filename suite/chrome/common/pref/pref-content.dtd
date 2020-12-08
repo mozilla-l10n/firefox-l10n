@@ -31,6 +31,10 @@
 <!ENTITY defaultZoom.label                      "Προεπιλεγμένο ζουμ">
 <!ENTITY defaultZoom.accesskey                  "Π">
 
+<!ENTITY siteSpecific.label                     "Αποθήκευση επιπέδων ζουμ για κάθε ιστοσελίδα">
+<!ENTITY siteSpecific.accesskey                 "μ">
+<!ENTITY textZoomOnly.label                     "Ζουμ μόνο στο κείμενο αντί για την πλήρη σελίδα">
+<!ENTITY textZoomOnly.accesskey                 "Ζ">
 
 <!ENTITY allowHWAccel.label                     "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey                 "ρ">
