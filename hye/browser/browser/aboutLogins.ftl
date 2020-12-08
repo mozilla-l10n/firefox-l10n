@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողութիւնը չի կարող ետարկուել։
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
-about-logins-confirm-remove-all-dialog-confirm-button = Հեռացնել բոլորը
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Հեռացնել
+        [one] Հեռացնել բոլորը
+       *[other] Հեռացնել բոլորը
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Այո, հեռացնել այս մտից անունը
