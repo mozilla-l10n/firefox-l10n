@@ -88,6 +88,8 @@ left instead of right. -->
 <!ENTITY addCurPageAsCmd.label "Σελιδοδείκτης αρχείου…">
 <!ENTITY addCurPageAsCmd.accesskey "α">
 <!ENTITY addCurPageAsCmd.commandkey "d">
+<!ENTITY addCurTabsAsCmd.label "Προσθήκη σελιδοδείκτη για την ομάδα καρτελών…">
+<!ENTITY addCurTabsAsCmd.accesskey "ο">
 <!ENTITY manBookmarksCmd.label "Διαχείριση σελιδοδεικτών…">
 <!ENTITY manBookmarksCmd.accesskey "Δ">
 <!ENTITY manBookmarksCmd.commandkey "b">
@@ -105,9 +107,12 @@ left instead of right. -->
 <!ENTITY cookieAllowCookiesCmd.label "Αποδοχή cookies από την ιστοσελίδα">
 <!ENTITY cookieAllowCookiesCmd.accesskey "Α">
 <!ENTITY cookieAllowCookiesMsg.label "Τα cookies από αυτή την ιστοσελίδα θα επιτρέπονται πάντα.">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Αποδοχή cookies συνεδρίας από αυτή την ιστοσελίδα">
+<!ENTITY cookieAllowSessionCookiesCmd.accesskey "σ">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Αυτή η ιστοσελίδα θα μπορεί να τοποθετεί cookies μόνο στην τρέχουσα συνεδρία.">
 <!ENTITY cookieCookiesDefaultCmd.label "Χρήση προεπιλεγμένων δικαιωμάτων cookie">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "Χ">
+<!ENTITY cookieCookiesDefaultMsg.label "Τα cookies της ιστοσελίδας θα επιτρέπονται ή θα απορρίπτονται σύμφωνα με τις προεπιλεγμένες ρυθμίσεις.">
 <!ENTITY cookieBlockCookiesCmd.label "Φραγή cookies από την ιστοσελίδα">
 <!ENTITY cookieBlockCookiesCmd.accesskey "Φ">
 <!ENTITY cookieBlockCookiesMsg.label "Τα cookies από αυτή την ιστοσελίδα θα απορρίπτονται πάντα.">

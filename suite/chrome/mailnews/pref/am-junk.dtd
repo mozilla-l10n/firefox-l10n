@@ -17,6 +17,7 @@
 <!ENTITY purge2.label "ημέρες">
 
 
+<!ENTITY ispHeadersWarning.label "Αν ενεργοποιηθεί, το &brandShortName; θα θεωρεί αυτομάτως ανεπιθύμητα τα μηνύματα που επισημαίνονται από αυτή την εξωτερική υπηρεσία ταξινόμησης.">
 
 <!ENTITY junkClassification.label "Επιλογή">
 <!ENTITY junkActions.label "Προορισμός και διατήρηση">
