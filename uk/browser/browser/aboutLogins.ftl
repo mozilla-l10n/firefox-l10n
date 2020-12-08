@@ -170,7 +170,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Вилучити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
 about-logins-confirm-remove-dialog-confirm-button = Вилучити
-about-logins-confirm-remove-all-dialog-confirm-button = Вилучити всі
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [one] Вилучити
+        [few] Вилучити { $count }
+        [many] Вилучити { $count }
+       *[other] Вилучити все
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Так, вилучити цей пароль

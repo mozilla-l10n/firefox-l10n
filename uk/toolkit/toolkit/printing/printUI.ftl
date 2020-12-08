@@ -65,11 +65,13 @@ printui-system-dialog-link = Друк за допомогою засобу си�
 printui-primary-button = Надрукувати
 printui-primary-button-save = Зберегти
 printui-cancel-button = Скасувати
+printui-close-button = Закрити
 printui-loading = Підготовка до попереднього перегляду
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Попередній перегляд
+printui-pages-per-sheet = Сторінок на аркуші
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
