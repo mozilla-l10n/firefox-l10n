@@ -37,7 +37,17 @@
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; Կատարեալ">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Խմբաւորել ըստ &#37; աւարտի">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Սկսել">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Տեսակաւորել ըստ սկսման ամսաթուի">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Խմբաւորել ըստ մեկնարկի աւրուայ">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Աւարտ">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Սկզբնաւորել ըստ վերջին աւրուայ">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Ժամկէտ">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Խմբաւորել ըստ ժամկէտի">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Աւարտուած">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Տեսակաւորել ըստ կատարման ամսաթուի">
+<!ENTITY calendar.unifinder.tree.categories.label          "Շարակարգ">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Տեսակաւորել ըստ շարակարգի">
+<!ENTITY calendar.unifinder.tree.location.label            "Տեղ">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Տեսակաւորել ըստ տեղի">
 
 
 
