@@ -63,11 +63,13 @@ printui-system-dialog-link = 使用系统对话框打印...
 printui-primary-button = 打印
 printui-primary-button-save = 保存
 printui-cancel-button = 取消
+printui-close-button = 关闭
 printui-loading = 正在准备预览
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = 打印预览
+printui-pages-per-sheet = 每张纸打印的页数
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

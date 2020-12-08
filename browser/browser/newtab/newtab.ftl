@@ -8,6 +8,9 @@
 newtab-page-title = 新标签页
 newtab-settings-button =
     .title = 定制您的新标签页
+newtab-personalize-button-label = 个性化
+    .title = 个性化标签页
+    .aria-label = 个性化标签页
 
 ## Search box component.
 
