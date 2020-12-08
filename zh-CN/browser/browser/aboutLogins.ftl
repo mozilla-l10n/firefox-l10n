@@ -168,7 +168,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 about-logins-confirm-remove-dialog-confirm-button = 移除
-about-logins-confirm-remove-all-dialog-confirm-button = 移除全部
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] 移除
+       *[other] 全部移除
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] 是的，移除此登录信息
