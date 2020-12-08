@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Ĉu forigi tiun ĉi legitimilon?
 confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
 about-logins-confirm-remove-dialog-confirm-button = Forigi
-about-logins-confirm-remove-all-dialog-confirm-button = Forigi ĉiujn
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Forigi
+        [one] Forigi
+       *[other] Forigi ĉiujn
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Jes, forigi tiun ĉi legitimilon
