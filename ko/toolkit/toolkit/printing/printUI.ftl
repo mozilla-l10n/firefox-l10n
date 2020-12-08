@@ -63,11 +63,13 @@ printui-system-dialog-link = 시스템 대화 상자를 사용하여 인쇄…
 printui-primary-button = 인쇄
 printui-primary-button-save = 저장
 printui-cancel-button = 취소
+printui-close-button = 닫기
 printui-loading = 미리보기 준비 중
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = 인쇄 미리보기
+printui-pages-per-sheet = 용지 당 페이지
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
