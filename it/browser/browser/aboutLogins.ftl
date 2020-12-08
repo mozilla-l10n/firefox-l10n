@@ -179,7 +179,6 @@ about-logins-confirm-remove-dialog-title = Rimuovere queste credenziali?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
 about-logins-confirm-remove-dialog-confirm-button = Rimuovi
 
-about-logins-confirm-remove-all-dialog-confirm-button = Rimuovi tutte
 about-logins-confirm-remove-all-dialog-confirm-button-label =
   { $count ->
      [1] Rimuovi

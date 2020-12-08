@@ -434,12 +434,6 @@ addon-badge-recommended2 =
     .title = Vengono consigliate solo estensioni che soddisfano i requisiti di sicurezza e prestazioni di { -brand-product-name }
     .aria-label = { addon-badge-recommended2.title }
 
-addon-badge-line =
-  .title = Questa estensione è stata realizzata dagli autori di { -brand-product-name }
-  .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-  .title = Il codice di questa estensione è stato verificato per garantirne la sicurezza
-  .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
   .title = Questa è un’estensione ufficiale sviluppata dagli autori di { -brand-product-name }
   .aria-label = { addon-badge-line2.title }
