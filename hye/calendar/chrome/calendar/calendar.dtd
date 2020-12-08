@@ -74,13 +74,48 @@
 <!ENTITY calendar.prevweek.accesskey            "s" >
 <!ENTITY calendar.nextmonth.label               "Յաջորդ ամիս" >
 <!ENTITY calendar.prevmonth.label               "Նախորդ ամիս" >
+<!ENTITY calendar.nextmonth.accesskey           "x" >
+<!ENTITY calendar.prevmonth.accesskey           "s" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "Մեկ աւր առաջ" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Մեկ աւր յետոյ" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Մեկ շաբաթ առաջ" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Մեկ շաբաթ յետոյ" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Մեկ ամիս առաջ" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Մեկ ամիս յետ" >
 
+<!ENTITY calendar.newevent.button.label         "Նոր իրադարձութիւն" >
+<!ENTITY calendar.newtask.button.label          "Նոր առաջադրանք" >
+<!ENTITY calendar.print.button.label            "Տպել" >
+<!ENTITY calendar.print.button.accesskey        "P">
 
+<!ENTITY calendar.day.button.label              "Աւր" >
+<!ENTITY calendar.week.button.label             "Շաբաթ" >
+<!ENTITY calendar.month.button.label            "Ամիս" >
+<!ENTITY calendar.multiweek.button.label        "Բազմաշաբաթ" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Միայն աշխատանքային աւրեր" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "r" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Առաջադրանքների դիտում" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "k" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Ցուցադրել կատարուած առաջադրանքները" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
+<!ENTITY calendar.orientation.label "Շրջել տեսքը" >
+<!ENTITY calendar.orientation.accesskey "o" >
 
+<!ENTITY calendar.search.options.searchfor "Պարունակի">
 
+<!ENTITY calendar.list.header.label                 "Աւրացոյց">
 
+<!ENTITY calendar.task.filter.title.label           "Ցուցադրել">
+<!ENTITY calendar.task.filter.all.label             "Բոլորը">
+<!ENTITY calendar.task.filter.all.accesskey         "A">
+<!ENTITY calendar.task.filter.today.label           "Այսաւր">
+<!ENTITY calendar.task.filter.today.accesskey       "T">
+<!ENTITY calendar.task.filter.next7days.label       "Յաջորդ եւթ աւրերը">
+<!ENTITY calendar.task.filter.next7days.accesskey   "N">
+<!ENTITY calendar.task.filter.notstarted.label      "Չսկսուած առաջադրանքներ">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "a">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
