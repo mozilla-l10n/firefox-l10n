@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Remover esta conta?
 confirm-delete-dialog-message = Esta ação não pode ser desfeita.
 about-logins-confirm-remove-dialog-confirm-button = Remover
-about-logins-confirm-remove-all-dialog-confirm-button = Remover tudo
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Remover
+        [one] Remover
+       *[other] Remover tudo
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Sim, remover esta conta
