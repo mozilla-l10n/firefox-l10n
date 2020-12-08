@@ -66,11 +66,13 @@ printui-system-dialog-link = Z pomocu systemoweho dialoga ćišćeć…
 printui-primary-button = Ćišćeć
 printui-primary-button-save = Składować
 printui-cancel-button = Přetorhnyć
+printui-close-button = Začinić
 printui-loading = Ćišćerski přehlad přihotować
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Ćišćerski přehlad
+printui-pages-per-sheet = Strony na łopjeno
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
