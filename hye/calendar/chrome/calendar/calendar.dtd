@@ -52,9 +52,28 @@
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Տեսակաւորել ըստ կարգավիճակի">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Աւրացոյցի անուն">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Տեսակաւորել ըստ աւրացոյցի անուան">
+<!ENTITY calendar.unifinder.tree.duration.label            "Վերջինը">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Տեսակաւորել ըստ ժամանակի մինչ լրանալը">
+<!ENTITY calendar.unifinder.close.tooltip                  "Փակել իրադարձութիւնների որոնումը եւ իրադարձութիւնների ցուցակը">
 
+<!ENTITY calendar.today.button.tooltip          "Տեղափոխուել այսաւր" >
+<!ENTITY calendar.todaypane.button.tooltip      "Ցուցադրել այսաւրուայ վահանակը" >
 
+<!ENTITY calendar.day.button.tooltip            "Փոխել աւրուայ տեսքին" >
+<!ENTITY calendar.week.button.tooltip           "Փոխել շաբաթուայ տեսքին" >
+<!ENTITY calendar.month.button.tooltip          "Փոխել ամսուայ տեսքին" >
+<!ENTITY calendar.multiweek.button.tooltip      "Փոխել բազմաշաբաթ տեսքին" >
 
+<!ENTITY calendar.nextday.label                 "Յաջորդ աւրը" >
+<!ENTITY calendar.prevday.label                 "Նախորդ աւրը" >
+<!ENTITY calendar.nextday.accesskey             "x" >
+<!ENTITY calendar.prevday.accesskey             "s" >
+<!ENTITY calendar.nextweek.label                "Յաջորդ շաբաթ" >
+<!ENTITY calendar.prevweek.label                "Նախորդ շաբաթ" >
+<!ENTITY calendar.nextweek.accesskey            "x" >
+<!ENTITY calendar.prevweek.accesskey            "s" >
+<!ENTITY calendar.nextmonth.label               "Յաջորդ ամիս" >
+<!ENTITY calendar.prevmonth.label               "Նախորդ ամիս" >
 
 
 
