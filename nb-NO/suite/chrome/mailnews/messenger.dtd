@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerWindow.title "E-post og nyhetsgrupper">
+<!ENTITY messengerWindow.title "E-post og temagrupper">
 <!ENTITY titleModifier.label "&brandShortName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -98,7 +98,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "m">
 <!ENTITY folderPropsCmd.label "Egenskaper …">
 <!ENTITY folderPropsFolderCmd.label "Mappeegenskaper …">
-<!ENTITY folderPropsNewsgroupCmd.label "Innstillinger for nyhetsgrupper">
+<!ENTITY folderPropsNewsgroupCmd.label "Innstillinger for temagrupper…">
 <!ENTITY folderPropsCmd.accesskey "E">
 <!ENTITY accountManagerCmd.label "Kontoinnstillinger for e-post og nyhetsgrupper …">
 <!ENTITY accountManagerCmd.accesskey "t">
@@ -135,7 +135,6 @@
 <!ENTITY showThreadPaneCmd.accesskey "T">
 <!ENTITY showFolderPaneCmd.label "Mappevisning">
 <!ENTITY showFolderPaneCmd.accesskey "a">
-
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleFolderPaneCmd.key "S">
@@ -295,14 +294,14 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Svar til listen">
 <!ENTITY replyListCmd.accesskey "s">
-<!ENTITY replyNewsgroupCmd.label "Svar til nyhetsgruppe">
+<!ENTITY replyNewsgroupCmd.label "Svar til temagruppe">
 <!ENTITY replyNewsgroupCmd.accesskey "y">
 <!ENTITY replySenderCmd.label "Svar bare til avsender">
 <!ENTITY replySenderCmd.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Svar til alle">
 <!ENTITY replyToAllMsgCmd.accesskey "a">
 <!ENTITY replyToAllMsgCmd.key "r">
-<!ENTITY replyToSenderAndNewsgroupCmd.label "Svar til avsender og nyhetsgruppe">
+<!ENTITY replyToSenderAndNewsgroupCmd.label "Svar til avsender og temagruppe">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Svar til alle mottakere">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
@@ -440,7 +439,7 @@
 <!ENTITY newMsgButton.tooltip "Skriv ny melding">
 <!ENTITY replyButton.tooltip "Svar til avsender">
 <!ENTITY replyAllButton.tooltip "Svar til avsender og alle mottakere">
-<!ENTITY replyAllButtonNews.tooltip "Svar til avsender og nyhetsgruppe">
+<!ENTITY replyAllButtonNews.tooltip "Svar til avsender og temagruppe">
 <!ENTITY forwardButton.tooltip "Videresend valgt melding">
 <!ENTITY fileButton.tooltip "Arkiver valgt melding">
 <!ENTITY nextButton.tooltip "Flytt til neste uleste melding">
@@ -451,8 +450,6 @@
 <!ENTITY markButton.tooltip "Merk meldinger">
 <!ENTITY printButton.tooltip "Skriv ut denne meldingen">
 <!ENTITY stopButton.tooltip "Stopp denne overføringen">
-<!ENTITY throbber.tooltip "Gå til hjemmesiden til &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Gå til hjemmesiden til &brandShortName;">
 <!ENTITY junkButton.tooltip "Merk de valgte meldingene som uønskede">
 <!ENTITY notJunkButton.tooltip "Merk valgt melding som ønskede">
 
@@ -476,11 +473,11 @@
 <!ENTITY contextReplySender.accesskey "r">
 <!ENTITY contextReplyList.label "Svar til liste">
 <!ENTITY contextReplyList.accesskey "v">
-<!ENTITY contextReplyNewsgroup.label "Svar til nyhetsgruppe">
+<!ENTITY contextReplyNewsgroup.label "Svar til temagruppe">
 <!ENTITY contextReplyNewsgroup.accesskey "y">
 <!ENTITY contextReplyAll.label "Svar til alle">
 <!ENTITY contextReplyAll.accesskey "A">
-<!ENTITY contextReplySenderAndNewsgroup.label "Svar til avsender og nyhetsgruppe">
+<!ENTITY contextReplySenderAndNewsgroup.label "Svar til avsender og temagruppe">
 <!ENTITY contextReplySenderAndNewsgroup.accesskey "v">
 <!ENTITY contextForward.label "Videresend">
 <!ENTITY contextForward.accesskey "V">
@@ -526,7 +523,7 @@
 <!ENTITY folderContextSendUnsentMessages.accesskey "u">
 <!ENTITY folderContextUnsubscribe.label "Meld ut">
 <!ENTITY folderContextUnsubscribe.accesskey "u">
-<!ENTITY folderContextMarkNewsgroupRead.label "Merk nyhetsgruppe som lest">
+<!ENTITY folderContextMarkNewsgroupRead.label "Merk temagruppe som lest">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "r">
 <!ENTITY folderContextMarkMailFolderRead.label "Merk mappe som lest">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "M">

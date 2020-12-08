@@ -9,7 +9,7 @@
 <!ENTITY dontCheckSpelling.label              "Aldri">
 <!ENTITY multilineCheckSpelling.label         "I bokser med flere linjer">
 <!ENTITY alwaysCheckSpelling.label            "Alle bokser">
-<!ENTITY spellForMailAndNews.label            "E-post og nyhetsgrupper">
+<!ENTITY spellForMailAndNews.label            "E-post og temagrupper">
 <!ENTITY checkSpellingBeforeSend.label        "Kontroller staving før sending">
 <!ENTITY checkSpellingBeforeSend.accesskey    "K">
 <!ENTITY spellCheckInline.label               "Kontroller staving mens du skriver">

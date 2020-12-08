@@ -4,14 +4,14 @@
 
 
 <!-- LOCALIZATION NOTE (messengerCmd.label): DONT_TRANSLATE -->
-<!ENTITY messengerCmd.label					"E-post og nyhetsgrupper">
-<!ENTITY messengerCmd.accesskey				"E">
-<!ENTITY messengerCmd.commandkey			"2">
-<!ENTITY addressBookCmd.label				"Adressebok">  
-<!ENTITY addressBookCmd.accesskey			"A">
-<!ENTITY addressBookCmd.commandkey			"5">
+<!ENTITY messengerCmd.label                             "E-post og temagrupper">
+<!ENTITY messengerCmd.accesskey                         "E">
+<!ENTITY messengerCmd.commandkey                        "2">
+<!ENTITY addressBookCmd.label                           "Adressebok">
+<!ENTITY addressBookCmd.accesskey                       "A">
+<!ENTITY addressBookCmd.commandkey                      "5">
 
-<!ENTITY taskMessenger.tooltip  "E-post og nyhetsgrupper">
+<!ENTITY taskMessenger.tooltip  "E-post og temagrupper">
 <!ENTITY taskAddressBook.tooltip  "Adressebok">
 
 <!-- searchAddressesCmd is also used by addressbook -->

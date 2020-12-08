@@ -11,7 +11,7 @@
 <!ENTITY ccAddr.label "Kopi til:">
 <!ENTITY bccAddr.label "Blind kopi til:">
 <!ENTITY replyAddr.label "Svar til:">
-<!ENTITY newsgroupsAddr.label "Nyhetsgruppe:">
+<!ENTITY newsgroupsAddr.label "Temagruppe:">
 <!ENTITY followupAddr.label "Oppfølging til:">
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "E">
@@ -51,7 +51,7 @@
 <!ENTITY editRewrapCmd.label "Tekstbrytning">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "B">
-<!ENTITY accountManagerCmd.label "Kontoinnstillinger …">
+<!ENTITY accountManagerCmd.label "Kontoinnstillinger for e-post og temagrupper…">
 <!ENTITY accountManagerCmd.accesskey "K">
 
 <!-- View menu items -->
@@ -120,12 +120,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Adresselinje">
 <!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
-<!ENTITY sendButton.tooltip "Send denne meldingen nå"> 
-<!ENTITY sendlaterButton.tooltip "Send denne meldingen senere"> 
-<!ENTITY addressButton.tooltip "Velg en mottaker fra adresseboken"> 
-<!ENTITY attachButton.tooltip "Inkluder et vedlegg"> 
-<!ENTITY saveButton.tooltip "Lagre denne meldingen"> 
-<!ENTITY stopButton.tooltip "Stopp denne overføringen"> 
+<!ENTITY sendButton.tooltip "Send denne meldingen nå">
+<!ENTITY sendlaterButton.tooltip "Send denne meldingen senere">
+<!ENTITY addressButton.tooltip "Velg en mottaker fra adresseboken">
+<!ENTITY attachButton.tooltip "Inkluder et vedlegg">
+<!ENTITY saveButton.tooltip "Lagre denne meldingen">
+<!ENTITY stopButton.tooltip "Stopp denne overføringen">
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Åpne">
