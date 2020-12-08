@@ -8,6 +8,9 @@
 newtab-page-title = Nowy rejtarik
 newtab-settings-button =
     .title = Bok wašogo nowego rejtarika pśiměriś
+newtab-personalize-button-label = Personalizěrowaś
+    .title = Nowy rejtarik personalizěrowaś
+    .aria-label = Nowy rejtarik personalizěrowaś
 
 ## Search box component.
 
