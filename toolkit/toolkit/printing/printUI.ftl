@@ -65,6 +65,7 @@ printui-system-dialog-link = Spausdinti naudojant sistemos dialogą…
 printui-primary-button = Spausdinti
 printui-primary-button-save = Įrašyti
 printui-cancel-button = Atsisakyti
+printui-close-button = Užverti
 printui-loading = Ruošiama peržiūra
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
