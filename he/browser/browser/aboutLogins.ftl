@@ -166,7 +166,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
-about-logins-confirm-remove-all-dialog-confirm-button = הסרת הכל
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] הסרה
+        [one] הסרה
+       *[other] הסרת הכל
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] כן, להסיר כניסה זו
