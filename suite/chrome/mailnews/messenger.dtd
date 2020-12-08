@@ -369,6 +369,8 @@
 <!ENTITY markAsShowRemoteCmd.label "Εμφάνιση απομακρυσμένου περιεχομένου">
 <!ENTITY markAsShowRemoteCmd.accesskey "μ">
 <!ENTITY markAsShowRemoteCmd.key "r">
+<!ENTITY markAsNotPhishCmd.label "Ως μη απάτης">
+<!ENTITY markAsNotPhishCmd.accesskey "Ω">
 <!ENTITY markAsNotPhishCmd.key "p">
 <!ENTITY openFeedMessage.label "Άνοιγμα μηνύματος ροής">
 <!ENTITY openFeedMessage.accesskey "Ά">
@@ -376,6 +378,8 @@
 <!ENTITY openFeedWebPageInWindow.accesskey "Ι">
 <!ENTITY openFeedSummaryInWindow.label "Περίληψη σε νέο παράθυρο">
 <!ENTITY openFeedSummaryInWindow.accesskey "Π">
+<!ENTITY openFeedWebPageInMP.label "Εναλλαγή ιστοσελίδας και περίληψης στο πεδίο μηνυμάτων">
+<!ENTITY openFeedWebPageInMP.accesskey "Ε">
 
 <!-- Tools Menu -->
 <!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων…">
@@ -391,6 +395,8 @@
 <!ENTITY filtersApplyToSelection.accesskey "λ">
 <!ENTITY filtersApplyToMessage.label "Εκτέλεση φίλτρων στο μήνυμα">
 <!ENTITY filtersApplyToMessage.accesskey "ρ">
+<!ENTITY runJunkControls.label "Εκτέλεση ελέγχων ανεπιθύμητων email στον φάκελο">
+<!ENTITY runJunkControls.accesskey "κ">
 <!ENTITY deleteJunk.label "Διαγραφή επισημασμένου email ως ανεπιθύμητου στον φάκελο">
 <!ENTITY deleteJunk.accesskey "γ">
 <!ENTITY importCmd.label "Εισαγωγή…">

@@ -5,6 +5,8 @@
 <!ENTITY pref.download.title            "Λήψεις">
 
 <!ENTITY downloadBehavior.label         "Κατά την έναρξη μιας λήψης">
+<!ENTITY doNothing.label                "Να μην ανοίξει τίποτα">
+<!ENTITY doNothing.accesskey            "Ν">
 <!ENTITY openProgressDialog.label       "Άνοιγμα παραθύρου προόδου">
 <!ENTITY openProgressDialog.accesskey   "Ά">
 <!ENTITY openDM.label                   "Άνοιγμα διαχείρισης λήψεων">
@@ -18,6 +20,7 @@
 <!ENTITY chooseDownloadFolder.label     "Επιλογή φακέλου…">
 <!ENTITY chooseDownloadFolder.accesskey "Ε">
 <!ENTITY alwaysAsk.label                "Πάντα ερώτηση για την τοποθεσία αποθήκευσης αρχείων">
+<!ENTITY alwaysAsk.accesskey            "Π">
 
 <!ENTITY finishedBehavior.label         "Όταν ολοκληρώνεται μια λήψη">
 <!ENTITY playSound.label                "Αναπαραγωγή ήχου">

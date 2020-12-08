@@ -18,6 +18,8 @@
 
 <!ENTITY domain.tree.domain.label "Τομέας">
 
+<!ENTITY domain.ctx.forgetdomain.label "Διαγραφή στοιχείων τομέα">
+<!ENTITY domain.ctx.forgetdomain.accesskey "Δ">
 <!ENTITY domain.ctx.forgetglobal.label "Διαγραφή γενικών δεδομένων">
 <!ENTITY domain.ctx.forgetglobal.accesskey "Δ">
 
@@ -67,6 +69,7 @@
 <!ENTITY perm.AllowSession "Αποδοχή για τη συνεδρία">
 <!ENTITY perm.Block "Φραγή">
 
+<!ENTITY perm.host.placeholder "Εισάγετε όνομα συστήματος">
 <!ENTITY perm.button.add.label "Προσθήκη">
 <!ENTITY perm.button.add.accesskey "Π">
 

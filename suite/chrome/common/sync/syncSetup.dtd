@@ -45,9 +45,11 @@
 
 <!-- New Account Page 2: Recovery Key -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "Το &brandShortName; νοιάζεται για το απόρρητό σας">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Για την εξασφάλιση του απορρήτου σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφόρτωση. Δεν μεταφορτώνεται το κλειδί ανάκτησής σας, το οποίο είναι απαραίτητο για την αποκρυπτογράφηση των δεδομένων σας.">
 <!ENTITY recoveryKeyEntry.label        "Το κλειδί ανάκτησής σας">
 <!ENTITY recoveryKeyEntry.accesskey    "κ">
 <!ENTITY recoveryGenerateNewKey.label  "Δημιουργία νέου κλειδιού">
+<!ENTITY recoveryKeyBackup.description "Το κλειδί ανάκτησής σας απαιτείται για την πρόσβαση στο &syncBrand.fullName.label; από άλλες συσκευές. Παρακαλώ δημιουργήστε ένα αντίγραφο ασφαλείας. Δεν μπορούμε να σας βοηθήσουμε να ανακτήσετε το κλειδί ανάκτησής σας.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Εκτύπωση…">
 <!ENTITY button.syncKeyBackup.print.accesskey "Ε">
@@ -67,10 +69,12 @@
 <!ENTITY addDevice.dialog.enterCode.label   "Εισάγετε τον κωδικό που παρέχει η συσκευή:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Παρακαλούμε προσπαθήστε ξανά.">
 <!ENTITY addDevice.dialog.successful.label  "Η συσκευή προστέθηκε με επιτυχία. Ο αρχικός συγχρονισμός μπορεί να διαρκέσει μερικά λεπτά και θα ολοκληρωθεί στο παρασκήνιο.">
+<!ENTITY addDevice.dialog.recoveryKey.label "Για να ενεργοποιήσετε τη συσκευή σας, θα πρέπει να εισάγετε το κλειδί ανάκτησης σας. Παρακαλώ εκτυπώστε ή αποθηκεύστε αυτό το κλειδί και έχετέ το μαζί σας.">
 <!ENTITY addDevice.dialog.connected.label   "Η συσκευή συνδέθηκε">
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Σύνδεση">
+<!ENTITY existingRecoveryKey.description "Μπορείτε να λάβετε ένα αντίγραφο του κλειδιού ανάκτησης, μεταβαίνοντας στις Επιλογές/Προτιμήσεις του &syncBrand.shortName.label; στην άλλη σας συσκευή και επιλέγοντας &#x0022;Το κλειδί ανάκτησής μου&#x0022; στην ενότητα &#x0022;Διαχείριση λογαριασμού&#x0022;.">
 <!ENTITY verifying.label              "Επαλήθευση…">
 <!ENTITY resetPassword.label          "Επαναφορά κωδικού πρόσβασης">
 <!ENTITY resetSyncKey.label           "Έχω χάσει την άλλη μου συσκευή.">
@@ -103,6 +107,7 @@
 <!ENTITY setup.optionsConfirmPage.title "Επιβεβαίωση">
 <!ENTITY confirm.merge.label    "Το &syncBrand.fullName.label; θα συγχωνεύσει τώρα όλα τα δεδομένα περιήγησης αυτής της συσκευής με τον λογαριασμό Sync σας.">
 <!ENTITY confirm.client2.label         "Προειδοποίηση: Θα διαγραφούν τα εξής δεδομένα του &brandShortName; σε αυτό τον υπολογιστή:">
+<!ENTITY confirm.client.moreinfo.label "Το &brandShortName; θα αντιγράψει τα δεδομένα του &syncBrand.fullName.label; σας σε αυτό τον υπολογιστή.">
 <!ENTITY confirm.server2.label         "Προειδοποίηση: Οι εξής συσκευές θα αντικατασταθούν με τα τοπικά σας δεδομένα:">
 
 <!-- New & Existing Account: Setup Complete -->

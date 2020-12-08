@@ -19,8 +19,13 @@
 <!ENTITY CreateFilterFrom.accesskey        "φ">
 <!ENTITY openInBrowser.label               "Άνοιγμα στο πρόγραμμα περιήγησης">
 <!ENTITY openInBrowser.accesskey           "Ά">
+<!ENTITY bookmarkLinkCmd.label             "Προσθήκη σελιδοδείκτη συνδέσμου…">
+<!ENTITY bookmarkLinkCmd.accesskey         "Π">
 <!ENTITY copyLinkCmd.label                 "Αντιγραφή τοποθεσίας συνδέσμου">
 <!ENTITY copyLinkCmd.accesskey             "Α">
 <!ENTITY CopyMessageId.label               "Αντιγραφή ID μηνύματος">
+<!ENTITY CopyMessageId.accesskey           "Α">
 <!ENTITY OpenMessageForMsgId.label         "Άνοιγμα μηνύματος για ID">
 <!ENTITY OpenMessageForMsgId.accesskey     "Ά">
+<!ENTITY OpenBrowserWithMsgId.label        "Άνοιγμα προγράμματος περιήγησης με ID μηνύματος">
+<!ENTITY OpenBrowserWithMsgId.accesskey    "π">
