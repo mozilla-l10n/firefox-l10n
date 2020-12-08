@@ -8,6 +8,9 @@
 newtab-page-title = Nowy rajtark
 newtab-settings-button =
     .title = Stronu wašeho noweho rajtarka přiměrić
+newtab-personalize-button-label = Personalizować
+    .title = Nowy rajtark personalizować
+    .aria-label = Nowy rajtark personalizować
 
 ## Search box component.
 

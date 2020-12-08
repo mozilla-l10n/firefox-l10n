@@ -171,7 +171,14 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Tute přizjewjenje wotstronić?
 confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
 about-logins-confirm-remove-dialog-confirm-button = Wotstronić
-about-logins-confirm-remove-all-dialog-confirm-button = Wšě wotstronić
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Wotstronić
+        [one] Wotstronić
+        [two] Wšě wotstronić
+        [few] Wšě wotstronić
+       *[other] Wšě wotstronić
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Haj, tute přizjewjenje wotstronić
