@@ -171,7 +171,14 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Toś to pśizjawjenje wótwónoźeś?
 confirm-delete-dialog-message = Toś ta akcija njedajo se anulěrowaś.
 about-logins-confirm-remove-dialog-confirm-button = Wótwónoźeś
-about-logins-confirm-remove-all-dialog-confirm-button = Wše wótwónoźeś
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Wótwónoźeś
+        [one] Wótwónoźeś
+        [two] Wše wótwónoźeś
+        [few] Wše wótwónoźeś
+       *[other] Wše wótwónoźeś
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Jo, toś to pśizjawjenje wótwónoźeś
