@@ -64,11 +64,13 @@ printui-system-dialog-link = Skriv ut ved hjelp av systemdialogvinduet…
 printui-primary-button = Skriv ut
 printui-primary-button-save = Lagre
 printui-cancel-button = Avbryt
+printui-close-button = Lukk
 printui-loading = Forbereder forhåndsvisning
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Forhåndsvisning
+printui-pages-per-sheet = Sider per ark
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
