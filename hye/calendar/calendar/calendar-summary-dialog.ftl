@@ -7,3 +7,6 @@ calendar-summary-dialog-edit-button =
     .accesskey = Խ
 calendar-summary-dialog-edit-menu-button =
     .label = Խմբագրել
+edit-button-context-menu-this-occurrence =
+    .label = խմբագրել
+    .accesskey = լ
