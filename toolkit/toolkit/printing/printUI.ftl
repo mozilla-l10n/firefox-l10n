@@ -64,6 +64,7 @@ printui-system-dialog-link = Sistem iletişim kutusuyla yazdır…
 printui-primary-button = Yazdır
 printui-primary-button-save = Kaydet
 printui-cancel-button = Vazgeç
+printui-close-button = Kapat
 printui-loading = Ön izleme hazırlanıyor
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.

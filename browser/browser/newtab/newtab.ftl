@@ -8,6 +8,9 @@
 newtab-page-title = Yeni Sekme
 newtab-settings-button =
     .title = Yeni Sekme sayfanızı özelleştirin
+newtab-personalize-button-label = Kişiselleştir
+    .title = Yeni sekmeyi kişiselleştir
+    .aria-label = Yeni sekmeyi kişiselleştir
 
 ## Search box component.
 
