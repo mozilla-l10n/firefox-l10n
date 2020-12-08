@@ -11,20 +11,18 @@
 ## in the documentation section in about:policies.
 
 policy-BlockAboutAddons = Bloca l'accés al gestor de complements (about:addons).
-
 policy-BlockAboutConfig = Bloca l'accés a la pàgina about:config.
-
 policy-BlockAboutProfiles = Bloca l'accés a la pàgina about:profiles.
-
 policy-BlockAboutSupport = Bloca l'accés a la pàgina about:support.
-
 policy-DisableDeveloperTools = Bloca l'accés a les eines per a desenvolupadors.
+policy-DisableForgetButton = Evita l'accés al botó Oblida.
+policy-FirefoxHome = Configura el Firefox Home.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+
 ##
 
+policy-SearchSuggestEnabled = Activa o desactiva els suggeriments de cerca.
 policy-SSLVersionMax = Defineix la versió màxima de SSL.
-
 policy-SSLVersionMin = Defineix la versió mínima de SSL.
-
