@@ -8,6 +8,9 @@
 newtab-page-title = Ny flik
 newtab-settings-button =
     .title = Anpassa sidan för Ny flik
+newtab-personalize-button-label = Anpassa
+    .title = Anpassa ny flik
+    .aria-label = Anpassa ny flik
 
 ## Search box component.
 

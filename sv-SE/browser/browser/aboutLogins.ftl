@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Ta bort denna inloggning?
 confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
 about-logins-confirm-remove-dialog-confirm-button = Ta bort
-about-logins-confirm-remove-all-dialog-confirm-button = Ta bort alla
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Ta bort
+        [one] Ta bort
+       *[other] Ta bort alla
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, ta bort den här inloggningen
