@@ -169,7 +169,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = მოცილდეს ეს მონაცემები?
 confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
 about-logins-confirm-remove-dialog-confirm-button = მოცილება
-about-logins-confirm-remove-all-dialog-confirm-button = ყველას მოცილება
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] მოცილება
+       *[other] ყველას მოცილება
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] დიახ, წაიშალოს ეს ანგარიში

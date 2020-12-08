@@ -8,6 +8,9 @@
 newtab-page-title = ახალი ჩანართი
 newtab-settings-button =
     .title = მოირგეთ ახალი ჩანართის გვერდი
+newtab-personalize-button-label = მორგება
+    .title = ახალი ჩანართის მორგება
+    .aria-label = ახალი ჩანართის მორგება
 
 ## Search box component.
 
