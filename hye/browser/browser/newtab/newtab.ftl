@@ -8,6 +8,9 @@
 newtab-page-title = Նոր ներդիր
 newtab-settings-button =
     .title = Հարմարեցրեք Ձեր նոր ներդիր էջը
+newtab-personalize-button-label = Անհատականացնել
+    .title = Անհատականացնել նոր ներդիրը
+    .aria-label = Անհատականացնել նոր ներդիրը
 
 ## Search box component.
 
