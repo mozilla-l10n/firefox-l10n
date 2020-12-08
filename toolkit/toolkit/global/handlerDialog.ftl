@@ -26,15 +26,6 @@ permission-dialog-description-file-app =
 permission-dialog-description-host-app =
   Consentire a { $host } di aprire un link di tipo { $scheme } con { $appName }?
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> sta cercando di aprire un link di tipo <strong>{ $scheme }</strong>.
-
 permission-dialog-remember =
   Consenti sempre a <strong>{ $host }</strong> di aprire link di tipo <strong>{ $scheme }</strong>
 
