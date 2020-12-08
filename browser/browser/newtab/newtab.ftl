@@ -8,6 +8,9 @@
 newtab-page-title = Nueva pestaña
 newtab-settings-button =
     .title = Personalizar la página nueva pestaña
+newtab-personalize-button-label = Personalizar
+    .title = Personalizar la nueva pestaña
+    .aria-label = Personalizar la nueva pestaña
 
 ## Search box component.
 

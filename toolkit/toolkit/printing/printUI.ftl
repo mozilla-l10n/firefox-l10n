@@ -64,11 +64,13 @@ printui-system-dialog-link = Imprimir usando la ventana del sistema…
 printui-primary-button = Imprimir
 printui-primary-button-save = Guardar
 printui-cancel-button = Cancelar
+printui-close-button = Cerrar
 printui-loading = Preparando vista previa
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Vista previa
+printui-pages-per-sheet = Páginas por hoja
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
