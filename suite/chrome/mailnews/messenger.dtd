@@ -364,6 +364,8 @@
 <!ENTITY markAsNotJunkCmd.label "Ως επιθυμητό">
 <!ENTITY markAsNotJunkCmd.accesskey "θ">
 <!ENTITY markAsNotJunkCmd.key "j">
+<!ENTITY recalculateJunkScoreCmd.label "Εκτέλεση ελέγχων ανεπιθύμητων email">
+<!ENTITY recalculateJunkScoreCmd.accesskey "Ε">
 <!ENTITY markAsShowRemoteCmd.label "Εμφάνιση απομακρυσμένου περιεχομένου">
 <!ENTITY markAsShowRemoteCmd.accesskey "μ">
 <!ENTITY markAsShowRemoteCmd.key "r">
@@ -389,6 +391,8 @@
 <!ENTITY filtersApplyToSelection.accesskey "λ">
 <!ENTITY filtersApplyToMessage.label "Εκτέλεση φίλτρων στο μήνυμα">
 <!ENTITY filtersApplyToMessage.accesskey "ρ">
+<!ENTITY deleteJunk.label "Διαγραφή επισημασμένου email ως ανεπιθύμητου στον φάκελο">
+<!ENTITY deleteJunk.accesskey "γ">
 <!ENTITY importCmd.label "Εισαγωγή…">
 <!ENTITY importCmd.accesskey "Ε">
 
