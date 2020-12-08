@@ -8,6 +8,9 @@
 newtab-page-title = Nova langeto
 newtab-settings-button =
     .title = Personecigi la paĝon por novaj langetoj
+newtab-personalize-button-label = Personcecigi
+    .title = Personecigi novan langeton
+    .aria-label = Personecigi novan langeton
 
 ## Search box component.
 
