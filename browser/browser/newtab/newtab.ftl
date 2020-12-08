@@ -8,6 +8,9 @@
 newtab-page-title = לשונית חדשה
 newtab-settings-button =
     .title = התאמה אישית של דף הלשונית החדשה שלך
+newtab-personalize-button-label = התאמה אישית
+    .title = התאמה אישית של דף הלשונית החדשה
+    .aria-label = התאמה אישית של דף הלשונית החדשה
 
 ## Search box component.
 
