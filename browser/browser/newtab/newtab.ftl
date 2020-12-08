@@ -8,6 +8,9 @@
 newtab-page-title = Нова вкладка
 newtab-settings-button =
     .title = Налаштуйте свою сторінку нової вкладки
+newtab-personalize-button-label = Персоналізувати
+    .title = Персоналізувати нову вкладку
+    .aria-label = Персоналізувати нову вкладку
 
 ## Search box component.
 
