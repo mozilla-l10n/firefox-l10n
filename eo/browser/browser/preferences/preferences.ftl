@@ -934,6 +934,7 @@ addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 content-blocking-enhanced-tracking-protection = Plibonigita protekto kontraŭ spurado
 content-blocking-section-top-level-description = Spuriloj sekvas vin en la reto por kolekti informon pri via kutima retumo kaj pri viaj interesoj. { -brand-short-name } blokas plurajn el tiuj spuriloj kaj aliajn malicajn skriptojn.
 content-blocking-learn-more = Pli da informo
+content-blocking-fpi-incompatibility-warning = Vi uzas nomregnan izoladon (First Party Isolation - FPI), kiu superregas kelkajn el la agordoj de { -brand-short-name } por kuketoj.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
