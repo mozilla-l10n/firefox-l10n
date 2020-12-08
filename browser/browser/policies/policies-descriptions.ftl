@@ -14,8 +14,13 @@ policy-BlockAboutAddons = Bloca l'accés al gestor de complements (about:addons)
 policy-BlockAboutConfig = Bloca l'accés a la pàgina about:config.
 policy-BlockAboutProfiles = Bloca l'accés a la pàgina about:profiles.
 policy-BlockAboutSupport = Bloca l'accés a la pàgina about:support.
+policy-Bookmarks = Crea adreces d'interès a la barra d'adreces d'interès, al menú d'adreces d'interès o a la carpeta especificada.
+policy-Cookies = Permet o denega que els llocs web defineixin galetes.
+policy-DefaultDownloadDirectory = Defineix el directori de baixades per defecte.
+policy-DisableAppUpdate = Evita que el navegador s’actualitzi.
 policy-DisableDeveloperTools = Bloca l'accés a les eines per a desenvolupadors.
 policy-DisableForgetButton = Evita l'accés al botó Oblida.
+policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
 policy-FirefoxHome = Configura el Firefox Home.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
