@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
-about-logins-confirm-remove-all-dialog-confirm-button = Tümünü kaldır
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Kaldır
+        [one] Kaldır
+       *[other] Tümünü kaldır
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Evet, bu hesabı kaldır
