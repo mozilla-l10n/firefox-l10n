@@ -8,6 +8,9 @@
 newtab-page-title = Neuer Tab
 newtab-settings-button =
     .title = Einstellungen für neue Tabs anpassen
+newtab-personalize-button-label = Anpassen
+    .title = Neuen Tab anpassen
+    .aria-label = Neuen Tab anpassen
 
 ## Search box component.
 

@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Diese Zugangsdaten entfernen?
 confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
 about-logins-confirm-remove-dialog-confirm-button = Entfernen
-about-logins-confirm-remove-all-dialog-confirm-button = Alle entfernen
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Entfernen
+        [one] Entfernen
+       *[other] Alle entfernen
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, diese Zugangsdaten entfernen
