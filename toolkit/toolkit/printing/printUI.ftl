@@ -64,11 +64,13 @@ printui-system-dialog-link = Presi per la sistema dialogo…
 printui-primary-button = Presi
 printui-primary-button-save = Konservi
 printui-cancel-button = Nuligi
+printui-close-button = Fermi
 printui-loading = Antaŭvido preparata
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Antaŭvidi presadon
+printui-pages-per-sheet = Paĝoj en ĉiu folio
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
