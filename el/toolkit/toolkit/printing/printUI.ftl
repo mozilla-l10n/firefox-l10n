@@ -64,11 +64,13 @@ printui-system-dialog-link = Εκτύπωση μέσω διαλόγου συστ
 printui-primary-button = Εκτύπωση
 printui-primary-button-save = Αποθήκευση
 printui-cancel-button = Ακύρωση
+printui-close-button = Κλείσιμο
 printui-loading = Προετοιμασία προεπισκόπησης
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Προεπισκόπηση εκτύπωσης
+printui-pages-per-sheet = Σελίδες ανά φύλλο
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
