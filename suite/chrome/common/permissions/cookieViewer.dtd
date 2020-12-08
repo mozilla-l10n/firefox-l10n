@@ -4,6 +4,8 @@
 
 <!ENTITY     tab.cookiesonsystem.label      "Αποθηκευμένα cookies">
 <!ENTITY     tab.bannedservers.label        "Ιστοσελίδες cookie">
+<!ENTITY     div.bannedservers.label        "Διαχειριστείτε ιστοσελίδες που μπορούν ή όχι, να αποθηκεύσουν cookies στον υπολογιστή σας.">
+<!ENTITY     div.cookiesonsystem.label      "Δείτε και αφαιρέστε cookies που είναι αποθηκευμένα στον υπολογιστή σας.">
 <!ENTITY     treehead.cookiename.label      "Όνομα cookie">
 <!ENTITY     treehead.cookiedomain.label    "Ιστοσελίδα">
 <!ENTITY     treehead.cookieexpires.label   "Λήξη">
@@ -40,3 +42,5 @@
 <!ENTITY     removeallpermissions.label     "Αφαίρεση όλων των ιστοσελίδων">
 <!ENTITY     removeallpermissions.accesskey "φ">
 
+<!ENTITY     futureCookies.label            "Απόρριψη μελλοντικών cookies από ιστοσελίδες με διαγραμμένα cookies">
+<!ENTITY     futureCookies.accesskey        "Α">
