@@ -168,7 +168,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 about-logins-confirm-remove-dialog-confirm-button = ลบ
-about-logins-confirm-remove-all-dialog-confirm-button = เอาทั้งหมดออก
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] เอาออก
+       *[other] เอาออกทั้งหมด
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] ใช่ ลบการเข้าสู่ระบบนี้

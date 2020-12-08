@@ -63,6 +63,7 @@ printui-system-dialog-link = พิมพ์โดยใช้กล่องโ
 printui-primary-button = พิมพ์
 printui-primary-button-save = บันทึก
 printui-cancel-button = ยกเลิก
+printui-close-button = ปิด
 printui-loading = กำลังเตรียมตัวอย่าง
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
