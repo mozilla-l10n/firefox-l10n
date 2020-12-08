@@ -48,6 +48,10 @@
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Տեսակաւորել ըստ շարակարգի">
 <!ENTITY calendar.unifinder.tree.location.label            "Տեղ">
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "Տեսակաւորել ըստ տեղի">
+<!ENTITY calendar.unifinder.tree.status.label              "Կարգավիճակ">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Տեսակաւորել ըստ կարգավիճակի">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Աւրացոյցի անուն">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Տեսակաւորել ըստ աւրացոյցի անուան">
 
 
 
