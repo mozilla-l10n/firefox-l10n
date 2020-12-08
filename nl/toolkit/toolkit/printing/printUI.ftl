@@ -64,11 +64,13 @@ printui-system-dialog-link = Afdrukken via het systeemdialoogvenster…
 printui-primary-button = Afdrukken
 printui-primary-button-save = Opslaan
 printui-cancel-button = Annuleren
+printui-close-button = Sluiten
 printui-loading = Voorbeeld voorbereiden
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Afdrukvoorbeeld
+printui-pages-per-sheet = Pagina’s per vel
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
