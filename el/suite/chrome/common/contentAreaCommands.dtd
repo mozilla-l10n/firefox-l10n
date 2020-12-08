@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Context Menu -->
+<!ENTITY popupWindowRejectCmd.label     "Απόρριψη αναδυόμενων παραθύρων από αυτή την ιστοσελίδα">
+<!ENTITY popupWindowRejectCmd.accesskey "ο">
 <!ENTITY popupWindowAllowCmd.label      "Αποδοχή αναδυόμενων από την ιστοσελίδα">
 <!ENTITY popupWindowAllowCmd.accesskey  "ο">
 <!ENTITY openLinkCmdInTab.label       "Άνοιγμα συνδέσμου σε νέα καρτέλα">
@@ -135,6 +137,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey     "σ">
 <!ENTITY videoHideStats.label         "Απόκρυψη στατιστικών">
 <!ENTITY videoHideStats.accesskey     "σ">
+<!ENTITY search.accesskey             "ζ">
 <!ENTITY bidiSwitchPageDirectionItem.label        "Αλλαγή κατεύθυνσης σελίδας">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "σ">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Αλλαγή κατεύθυνσης κειμένου">
