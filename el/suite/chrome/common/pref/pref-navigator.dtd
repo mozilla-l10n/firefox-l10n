@@ -31,6 +31,7 @@
 <!ENTITY restoreDeferred.label          "Επαναφορά καρτελών μόνο όταν τις χρειάζομαι">
 <!ENTITY restoreDeferred.accesskey      "μ">
 
+<!ENTITY homePageIntro.label            'Μετάβαση σε αυτή την ομάδα σελίδων με κλικ στο κουμπί "Αρχική σελίδα":'>
 <!ENTITY useCurrent.label               "Χρήση τρέχουσας σελίδας">
 <!ENTITY useCurrent.accesskey           "Χ">
 <!ENTITY useCurrentGroup.label          "Χρήση τρέχουσας ομάδας">
@@ -46,3 +47,4 @@
 <!ENTITY alreadyDefaultText             "Το &brandShortName; είναι ήδη το προεπιλεγμένο πρόγραμμα περιήγησής σας.">
 <!ENTITY defaultPendingText             'Το $BrandShortName; θα οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας όταν κάνετε κλικ στο "OK".'>
 <!ENTITY wasMadeDefaultText             "Το &brandShortName; έχει οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας.">
+<!ENTITY makeDefaultText                "Ορισμός του &brandShortName; ως προεπιλογής.">
