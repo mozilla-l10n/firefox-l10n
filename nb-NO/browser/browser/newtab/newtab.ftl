@@ -8,6 +8,9 @@
 newtab-page-title = Ny fane
 newtab-settings-button =
     .title = Tilpass siden for Ny fane
+newtab-personalize-button-label = Tilpass
+    .title = Tilpass ny fane-side
+    .aria-label = Tilpass ny fane-side
 
 ## Search box component.
 
