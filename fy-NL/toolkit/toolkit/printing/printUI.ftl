@@ -64,11 +64,13 @@ printui-system-dialog-link = Ofdrukke fia it systeemdialoochfienster…
 printui-primary-button = Ofdrukke
 printui-primary-button-save = Bewarje
 printui-cancel-button = Annulearje
+printui-close-button = Slute
 printui-loading = Foarbyld tariede
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Ofdrukfoarbyld
+printui-pages-per-sheet = Siden per blêd
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

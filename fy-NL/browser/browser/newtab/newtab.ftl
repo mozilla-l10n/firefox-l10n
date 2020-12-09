@@ -8,6 +8,9 @@
 newtab-page-title = Nij ljepblêd
 newtab-settings-button =
     .title = Jo side foar nije ljepblêden oanpasse
+newtab-personalize-button-label = Personalisearje
+    .title = Nij ljepblêd personalisearje
+    .aria-label = Nij ljepblêd personalisearje
 
 ## Search box component.
 

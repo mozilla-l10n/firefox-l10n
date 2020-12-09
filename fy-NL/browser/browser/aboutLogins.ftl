@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Dizze oanmelding fuortsmite?
 confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
 about-logins-confirm-remove-dialog-confirm-button = Fuortsmite
-about-logins-confirm-remove-all-dialog-confirm-button = Alle fuortsmite
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Fuortsmite
+        [one] Fuortsmite
+       *[other] Alle fuortsmite
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, dizze oanmelding fuortsmite
