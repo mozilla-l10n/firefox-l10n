@@ -243,4 +243,8 @@ cfr-whatsnew-clear-cookies-header = ట్రాకింగ్ జిత్త�
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = మరిన్ని మాధ్యమ నియంత్రణలు
 cfr-whatsnew-media-keys-button = ఎలానో తెలుసుకోండి
+
+## What's new: Search shortcuts
+
