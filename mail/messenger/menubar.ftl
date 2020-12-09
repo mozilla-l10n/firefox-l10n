@@ -8,3 +8,18 @@
 menu-view-charset =
     .label = Codaziun dal text
     .accesskey = C
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Nungiavischà
+    .tooltiptext = Marcar ils messadis tschernids sco nungiavischads
+toolbar-not-junk-button =
+    .label = Betg nungiavischà
+    .tooltiptext = Betg marcar ils messadis tschernids sco nungiavischads
+toolbar-delete-button =
+    .label = Stizzar
+    .tooltiptext = Stizzar ils messadis tschernids u l'ordinatur
+toolbar-undelete-button =
+    .label = Revocar il stizzar
+    .tooltiptext = Revocar l'eliminaziun dals messadis tschernids
