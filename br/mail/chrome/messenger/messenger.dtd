@@ -568,7 +568,7 @@
 <!ENTITY newMsgButton.tooltip "Sevel ur gemennadenn nevez">
 <!ENTITY replyButton.tooltip "Respont d'ar gemennadenn-mañ">
 <!ENTITY replyAllButton.tooltip "Respont d'ar c'haser ha d'an holl zegemererien">
-<!ENTITY replyListButton.tooltip "Respont d'ar roll skignañ">
+<!ENTITY replyListButton.tooltip "Respont d'ar roll posteloù">
 <!ENTITY forwardButton.tooltip "Treuzkas ar gemennadenn diuzet">
 <!ENTITY forwardAsInline.tooltip "Treuzkas ar gemennadenn diuzet evel testenn enkorfet">
 <!ENTITY forwardAsAttachment.tooltip "Treuzkas ar gemennadenn diuzet evel kenstagadur">
@@ -960,4 +960,3 @@
 <!ENTITY openAddressBookDock.label      "Digeriñ karned ar chomlec'hioù">
 
 <!-- Content tab Navigation buttons -->
-

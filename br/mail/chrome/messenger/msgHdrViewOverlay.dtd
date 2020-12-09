@@ -30,7 +30,7 @@
 <!ENTITY hdrReplyAllButton1.label "Respont d'an holl">
 <!ENTITY hdrReplyAllButton1.tooltip "Respont d'ar c'haser ha d'an holl zegemererien">
 <!ENTITY hdrReplyListButton1.label "Respont d'ar roll">
-<!ENTITY hdrReplyListButton1.tooltip "Respont d'ar roll skignañ">
+<!ENTITY hdrReplyListButton1.tooltip "Respont d'ar roll posteloù">
 <!ENTITY hdrFollowupButton1.label "Respont d'ar strollad-keleier">
 <!ENTITY hdrFollowupButton1.tooltip "Kas ur respont d'ar strollad-keleier-mañ">
 <!ENTITY hdrForwardButton1.label "Treuzkas">
