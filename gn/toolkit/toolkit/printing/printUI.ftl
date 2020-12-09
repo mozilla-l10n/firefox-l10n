@@ -64,11 +64,13 @@ printui-system-dialog-link = Emonguatia eipurúvo apopyvusu rovetã…
 printui-primary-button = Ñemonguatia
 printui-primary-button-save = Ñongatu
 printui-cancel-button = Heja
+printui-close-button = Mboty
 printui-loading = Ehecháta jehechaha ñepyrũ
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Jehecha ypy ñemonguatia
+printui-pages-per-sheet = Kuatiarogue kuatiápe
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
