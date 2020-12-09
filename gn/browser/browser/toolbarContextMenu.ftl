@@ -61,3 +61,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Tendayke pyahúpe año
     .accesskey = O
+toolbar-context-menu-bookmarks-toolbar-always-show-2 =
+    .label = Ehechauka tapiaite
+    .accesskey = A

@@ -8,6 +8,9 @@
 newtab-page-title = Tendayke Pyahu
 newtab-settings-button =
     .title = Eñemomba’e ne Tendayke Pyahu roguére
+newtab-personalize-button-label = Ñemomba’e
+    .title = Eñemomba’e tendayke pyahúre
+    .aria-label = Eñemomba’e tendayke pyahúre
 
 ## Search box component.
 
