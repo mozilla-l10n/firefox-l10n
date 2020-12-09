@@ -192,6 +192,11 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Això eliminarà l'inici de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
        *[other] Això eliminarà els inicis de sessió que heu desat al { -brand-short-name } i les alertes de filtracions que es mostren aquí. Aquesta acció no es pot desfer.
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Voleu eliminar { $count } inici de sessió de tots els dispositius?
+       *[other] Voleu eliminar tots els { $count } inicis de sessió de tots els dispositius?
+    }
 about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contrasenyes
 about-logins-confirm-export-dialog-message = Les contrasenyes es desaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que pugui obrir el fitxer exportat les podrà veure.
 about-logins-confirm-export-dialog-confirm-button = Exporta…

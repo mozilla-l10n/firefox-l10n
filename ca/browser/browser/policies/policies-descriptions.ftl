@@ -35,14 +35,23 @@ policy-DisablePocket = Desactiva la funció de desar llocs web al Pocket.
 policy-DisablePrivateBrowsing = Desactiva la navegació privada.
 policy-DisableTelemetry = Desactiva la telemetria.
 policy-DNSOverHTTPS = Configura DNS sobre HTTPS.
+policy-DownloadDirectory = Defineix i bloca el directori de baixades.
+policy-ExtensionUpdate = Activa o desactiva les actualitzacions automàtiques de les extensions.
 policy-FirefoxHome = Configura el Firefox Home.
 policy-FlashPlugin = Permet o denega l'ús del connector Flash.
+policy-HardwareAcceleration = Si és fals, desactiva l'acceleració de maquinari.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Defineix i, opcionalment, bloca la pàgina d'inici.
+policy-InstallAddonsPermission = Permet que determinats llocs web instal·lin complements.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-LocalFileLinks = Permetre que llocs web específics enllacin a fitxers locals.
+policy-MasterPassword = Requerir o impedir l'ús d'una contrasenya mestra.
+policy-PrimaryPassword = Requerir o impedir l'ús d'una contrasenya principal.
 policy-Proxy = Configura els paràmetres del servidor intermediari.
 policy-SearchSuggestEnabled = Activa o desactiva els suggeriments de cerca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
