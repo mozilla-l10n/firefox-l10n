@@ -46,6 +46,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Eñeha’
 inactive-css-not-display-block-on-floated-fix = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Eñeha’ã emboheko <strong>rendatee</strong> mba’éva tuichavéva <strong>opytáva</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Eñeha’ã embojuaju <strong>overflow:hidden</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Eñeha’ã emoambue <strong>outline-style</strong> mba’etee <strong>auto</strong> iñambuéva térã <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

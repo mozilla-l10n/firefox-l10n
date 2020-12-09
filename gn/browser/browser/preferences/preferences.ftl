@@ -934,6 +934,7 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre 
 content-blocking-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva
 content-blocking-section-top-level-description = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
 content-blocking-learn-more = Eikuaave
+content-blocking-fpi-incompatibility-warning = Eipuruhína First Party Isolation (FPI), oipe’áva ndahetái kookie ñemboheko { -brand-short-name } mba’éva.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
