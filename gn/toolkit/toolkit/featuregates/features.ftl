@@ -94,3 +94,6 @@ experimental-features-js-warp-description = Embojuruja Warp, apopyrã oiko ha oj
 experimental-features-fission =
     .label = Fission (Tenda moha’eño)
 experimental-features-fission-description = Fission (tenda momombyry) ha’e tembiapo pyahu { -brand-short-name } pegua ome’ẽkuaáva ape anambusu ñemo’ãrã apañuãi tekorosãgua. Emomombyrývo peteĩteĩva tenda tapereko ipa’ũvape, Fission ombohasy umi ñanduti renda imarãva oikévo marandu ambue kuatiarogue eikeha pegua. Kóva ha’e tekoambue tuicháva { -brand-short-name }-pe ha roaguyjeme’ẽta emombe’úramo oimeraẽva apañuãi ejuhúva rehegua. Eikuaave hag̃ua, eporandu <a data-l10n-name="wiki">el wiki</a>-pe.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Ojokupytýva heta Picture-in-Picture ndive
