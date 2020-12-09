@@ -64,11 +64,13 @@ printui-system-dialog-link = Nyomtatás a rendszer párbeszédablakával…
 printui-primary-button = Nyomtatás
 printui-primary-button-save = Mentés
 printui-cancel-button = Mégse
+printui-close-button = Bezárás
 printui-loading = Előnézet előkészítése
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Nyomtatási kép
+printui-pages-per-sheet = Oldalak száma laponként
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

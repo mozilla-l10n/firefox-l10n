@@ -8,6 +8,9 @@
 newtab-page-title = Új lap
 newtab-settings-button =
     .title = Az Új lap oldal személyre szabása
+newtab-personalize-button-label = Testreszabás
+    .title = Új lap testreszabása
+    .aria-label = Új lap testreszabása
 
 ## Search box component.
 
