@@ -29,6 +29,8 @@ search-input-box =
            *[other] ప్రాధాన్యతలు తెరువు
         }
 managed-notice = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
+category-list =
+    .aria-label = వర్గాలు
 pane-general-title = సాధారణం
 category-general =
     .tooltiptext = { pane-general-title }

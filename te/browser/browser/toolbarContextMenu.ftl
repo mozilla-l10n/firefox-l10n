@@ -11,11 +11,9 @@ toolbar-context-menu-reload-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = అన్ని ట్యాబులను ఎంచుకో
     .accesskey = S
-
 toolbar-context-menu-manage-extension =
     .label = పొడగింత నిర్వహణ
     .accesskey = E
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -28,3 +26,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = అభిమతీకరించు…
     .accesskey = C
+toolbar-context-menu-bookmarks-toolbar-always-show =
+    .label = ఎల్లప్పుడూ
+    .accesskey = A

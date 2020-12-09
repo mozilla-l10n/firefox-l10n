@@ -166,6 +166,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = మేటి సైట్లు
 newtab-section-header-highlights = విశేషాలు
+newtab-section-header-recent-activity = ఇటీవలి కార్యకలాపం
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider }చే సిఫార్సు చేయబడినది
