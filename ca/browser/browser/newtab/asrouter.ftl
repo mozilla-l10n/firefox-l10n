@@ -251,6 +251,7 @@ cfr-doorhanger-doh-secondary-button = Inhabilita
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Aïllament de llocs
 cfr-doorhanger-fission-primary-button = Entesos
     .accesskey = E
 cfr-doorhanger-fission-secondary-button = Més informació
@@ -266,3 +267,6 @@ cfr-whatsnew-clear-cookies-image-alt = Il·lustració d'una galeta blocada
 
 cfr-whatsnew-media-keys-header = Més controls multimèdia
 cfr-whatsnew-media-keys-button = Vegeu com fer-ho
+
+## What's new: Search shortcuts
+
