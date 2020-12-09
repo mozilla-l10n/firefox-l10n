@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
-about-logins-confirm-remove-all-dialog-confirm-button = Alle verwijderen
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Verwijderen
+        [one] Verwijderen
+       *[other] Alle verwijderen
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja, deze aanmelding verwijderen
