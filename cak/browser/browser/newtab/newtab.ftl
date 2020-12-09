@@ -8,6 +8,9 @@
 newtab-page-title = K'ak'a' Ruwi'
 newtab-settings-button =
     .title = Tawichinaj ri ruxaq richin K'ak'a' Ruwi'
+newtab-personalize-button-label = Tichinäx
+    .title = Tichinäx k'ak'a' ruwi'
+    .aria-label = Tichinäx k'ak'a' ruwi'
 
 ## Search box component.
 

@@ -64,11 +64,13 @@ printui-system-dialog-link = Titz'jb'äl rik'in ri rutzijonem q'inoj…
 printui-primary-button = Titz'ajb'äx
 printui-primary-button-save = Tiyak
 printui-cancel-button = Tiq'at
+printui-close-button = Titz'apïx
 printui-loading = Runuk'ik Nab'ey Tz'etoj
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Nab'ey Tz'etoj
+printui-pages-per-sheet = Taq ruxaq chi ruxaq
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

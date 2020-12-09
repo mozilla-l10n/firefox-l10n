@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ¿La niyuj el rutikirib'al re moloj re'?
 confirm-delete-dialog-message = Man tikirel ta nitzolïx re b'anïk.
 about-logins-confirm-remove-dialog-confirm-button = Tiyuj
-about-logins-confirm-remove-all-dialog-confirm-button = Keyuj Ronojel
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Tiyuj
+        [one] Tiyuj
+       *[other] Keyuj Ronojel
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ja', tiyuj re molojri'ïl
