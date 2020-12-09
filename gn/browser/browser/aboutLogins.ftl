@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ¿Emboguete ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
 about-logins-confirm-remove-dialog-confirm-button = Mboguete
-about-logins-confirm-remove-all-dialog-confirm-button = Emboguepaite
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Mboguete
+        [one] Mboguepaite
+       *[other] Mboguepaite
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Héẽ, emboguete ko tembiapo ñepyrũ
