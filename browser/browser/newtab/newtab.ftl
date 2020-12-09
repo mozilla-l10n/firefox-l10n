@@ -8,6 +8,9 @@
 newtab-page-title = Nieuw tabblad
 newtab-settings-button =
     .title = Uw Nieuw-tabbladpagina aanpassen
+newtab-personalize-button-label = Personaliseren
+    .title = Nieuw tabblad personaliseren
+    .aria-label = Nieuw tabblad personaliseren
 
 ## Search box component.
 
