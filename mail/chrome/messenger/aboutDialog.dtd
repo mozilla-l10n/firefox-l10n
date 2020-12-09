@@ -31,7 +31,7 @@
 <!ENTITY community.exp.middle       "는 인터넷을 개선하기 위해">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "글로벌 커뮤니티">
-<!ENTITY community.exp.end          "가 하나로 모여 만들고 있습니다. 우리는 인터넷이 공개되어 공공의 이익을 위해 사람들이 아무런 제한없이 접근할 수있는 것이라고 믿고 있습니다. ">
+<!ENTITY community.exp.end          " 개방되고 공공재로서 모두에게 접근 가능한 웹을 만들기 위해 함께 노력합니다.">
 
 <!ENTITY community.start2           "&brandShortName;는 ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
