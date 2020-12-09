@@ -186,6 +186,17 @@ about-logins-confirm-remove-all-dialog-title =
         [one] ¿Emboguete { $count } terachaukaha?
        *[other] ¿Emboguete opaite { $count } terachaukaha?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Kóva omboguetéta tembiapo ñepyrũ oñongatúva { -brand-short-name } ha oimeraẽva mboguaha kyhyjerã osẽva ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+        [one] Kóva omboguetéta tembiapo ñepyrũ oñongatúva { -brand-short-name } ha oimeraẽva mboguaha kyhyjerã osẽva ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+       *[other] Kóva omboguetéta umi tembiapo ñepyrũ oñongatúva { -brand-short-name } ha oimeraẽva mboguaha kyhyjerã osẽva ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] ¿Emboguete { $count } rembiapo ñepyrũ opaite mba’e’okágui?
+       *[other] ¿Emboguete umi { $count } rembiapo ñepyrũ opaite mba’e’okágui?
+    }
 about-logins-confirm-export-dialog-title = Emba’egueraha tembiapo ñepyrũ ha ñe’ẽñemi
 about-logins-confirm-export-dialog-message = Ñe’ẽñemi oñeñongatúta moñe’ẽrãrõ (techapyrã, BadP@ssw0rd) oimeraẽva ombojurujakuaáva marandurenda guerahaukapyre ikatu ohecha.
 about-logins-confirm-export-dialog-confirm-button = Emba’egueraha…
