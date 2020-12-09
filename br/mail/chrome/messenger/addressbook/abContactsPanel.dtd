@@ -9,7 +9,7 @@
 <!ENTITY abPropertiesMenu.accesskey         "P">
 <!ENTITY contactPropertiesMenu.label        "Perzhioù an darempred">
 <!ENTITY contactPropertiesMenu.accesskey    "d">
-<!ENTITY mailingListPropertiesMenu.label    "Perzhioù ar roll skignañ">
+<!ENTITY mailingListPropertiesMenu.label    "Perzhioù ar roll posteloù">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY abContextMenuButton.tooltip        "Diskouez lañser kemperzhel ar c'harned chomlec'hioù">

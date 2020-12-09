@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindowAdd.title        "Roll skignañ nevez">
+<!ENTITY mailListWindowAdd.title        "Roll posteloù nevez">
 
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Ouzhpennañ da :">
@@ -15,8 +15,7 @@
 <!ENTITY ListDescription.label          "Deskrivadur:">
 <!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Roit posteloù da ouzhpennañ er roll-skignañ:">
+<!ENTITY AddressTitle.label             "Skrivit posteloù evit o ouzhpennañ er roll posteloù:">
 <!ENTITY AddressTitle.accesskey         "R">
 <!ENTITY UpButton.label                 "Dilec'hiañ d'ar c'hrec'h">
 <!ENTITY DownButton.label               "Dilec'hiañ d'an diaz">
-

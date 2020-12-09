@@ -14,7 +14,7 @@
 <!ENTITY newContact.label                               "Darempred…">
 <!ENTITY newContact.accesskey                           "e">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Roll-skignañ…">
+<!ENTITY newListCmd.label                               "Roll posteloù…">
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Karned chomlec'hioù…">
 <!ENTITY newAddressBookCmd.accesskey                    "c">
@@ -52,7 +52,6 @@
 <!ENTITY deleteListsCmd.label                           "Dilemel ar rolloù">
 <!ENTITY deleteItemsCmd.label                           "Dilemel an elfennoù">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Perzhioù">
 <!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">
@@ -60,7 +59,7 @@
 <!ENTITY abPropertiesMenu.accesskey                     "P">
 <!ENTITY contactPropertiesMenu.label                    "Perzhioù an darempred">
 <!ENTITY contactPropertiesMenu.accesskey                "d">
-<!ENTITY mailingListPropertiesMenu.label                "Perzhioù ar roll skignañ">
+<!ENTITY mailingListPropertiesMenu.label                "Perzhioù ar roll posteloù">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
@@ -101,9 +100,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Posteloù ha strolladoù-keleier">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Karned chomlec'hioù">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Klask posteloù…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
 <!ENTITY importCmd.label                                "Enporzhiañ…">
