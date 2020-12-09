@@ -97,3 +97,4 @@ experimental-features-fission-description = Fission (tenda momombyry) ha’e tem
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Ojokupytýva heta Picture-in-Picture ndive
+experimental-features-multi-pip-description = Tembiapoite oñeha’ãva omoneĩ hag̃ua heta ovetã ijurujáva Picture-in-Picture oñondivepa.
