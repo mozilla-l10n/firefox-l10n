@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Eltávolítja ezt a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
 about-logins-confirm-remove-dialog-confirm-button = Eltávolítás
-about-logins-confirm-remove-all-dialog-confirm-button = Összes eltávolítása
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Eltávolítás
+        [one] Eltávolítás
+       *[other] Összes eltávolítása
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Igen, a bejelentkezés eltávolítása
