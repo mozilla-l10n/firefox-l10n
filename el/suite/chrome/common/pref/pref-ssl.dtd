@@ -24,8 +24,12 @@
 
 <!ENTITY warn.mixedactivecontent            "Προειδοποίηση όταν κρυπτογραφημένες σελίδες περιέχουν επισφαλές περιεχόμενο">
 <!ENTITY warn.mixedactivecontent.accesskey  "Π">
+<!ENTITY block.activecontent                "Να μην φορτώνεται επισφαλές περιεχόμενο σε κρυπτογραφημένες σελίδες">
+<!ENTITY block.activecontent.accesskey      "Ν">
 <!ENTITY warn.mixeddisplaycontent           "Προειδοποίηση όταν κρυπτογραφημένες σελίδες περιέχουν άλλους τύπους μικτού περιεχομένου">
-<!ENTITY warn.mixeddisplaycontent.accesskey "π">
+<!ENTITY warn.mixeddisplaycontent.accesskey "δ">
+<!ENTITY block.displaycontent               "Να μην φορτώνονται άλλοι τύποι μεικτού περιεχομένου σε κρυπτογραφημένες σελίδες">
+<!ENTITY block.displaycontent.accesskey     "μ">
 
 <!ENTITY certselect.description             "Αποφασίστε τον τρόπο επιλογής ασφαλούς πιστοποιητικού στο &brandShortName; για παρουσίαση σε ιστοσελίδες που το απαιτούν:">
 <!ENTITY certselect.auto                    "Αυτόματη επιλογή">

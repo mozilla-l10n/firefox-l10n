@@ -11,6 +11,7 @@
 <!ENTITY subjectField.label "Θέμα: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
 <!ENTITY ccField.label "Cc: ">
+<!ENTITY bccField.label "Κρ. Κοιν:">
 <!ENTITY newsgroupsField.label "Ομάδες συζήτησης: ">
 <!ENTITY followupToField.label "Συνέχεια-σε:">
 
