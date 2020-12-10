@@ -45,6 +45,6 @@
 <!ENTITY defaultBrowserButton.label     "Ορισμός προεπιλεγμένου προγράμματος περιήγησης">
 <!ENTITY defaultBrowserButton.accesskey "π">
 <!ENTITY alreadyDefaultText             "Το &brandShortName; είναι ήδη το προεπιλεγμένο πρόγραμμα περιήγησής σας.">
-<!ENTITY defaultPendingText             'Το $BrandShortName; θα οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας όταν κάνετε κλικ στο "OK".'>
+<!ENTITY defaultPendingText             'Το &brandShortName; θα οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας όταν κάνετε κλικ στο "OK".'>
 <!ENTITY wasMadeDefaultText             "Το &brandShortName; έχει οριστεί ως το προεπιλεγμένο πρόγραμμα περιήγησής σας.">
 <!ENTITY makeDefaultText                "Ορισμός του &brandShortName; ως προεπιλογής.">
