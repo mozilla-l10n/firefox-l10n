@@ -10,6 +10,7 @@
 <!ENTITY popupBlock.accesskey           "Φ">
 
 <!ENTITY viewPermissions.label          "Διαχείριση δικαιωμάτων">
+<!ENTITY viewPermissions.accesskey      "Δ">
 
 <!ENTITY whenBlock.description          "Όταν ένα αναδυόμενο παράθυρο έχει αποκλειστεί:">
 <!ENTITY playSound.label                "Αναπαραγωγή ήχου:">
@@ -20,6 +21,7 @@
 <!ENTITY customSound.accesskey          "Π">
 
 <!ENTITY selectSound.label              "Περιήγηση…">
+<!ENTITY selectSound.accesskey          "ρ">
 <!ENTITY playSoundButton.label          "Αναπαραγωγή">
 <!ENTITY playSoundButton.accesskey      "π">
 
