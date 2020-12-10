@@ -23,6 +23,7 @@ printui-page-range-picker =
 printui-page-custom-range =
   .aria-label = Inserire un intervallo di pagine personalizzato
 printui-page-custom-range-input =
+  .aria-label = Inserire un intervallo di pagine personalizzato
   .placeholder = ad es. 2-6, 9, 12-16
 # This label is displayed before the first input field indicating
 # the start of the range to print.
