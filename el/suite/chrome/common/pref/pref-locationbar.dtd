@@ -14,6 +14,8 @@
 <!ENTITY autoCompleteAutoFill.accesskey        "υ">
 <!ENTITY autoCompleteShowPopup.label           "Εμφάνιση λίστας αποτελεσμάτων">
 <!ENTITY autoCompleteShowPopup.accesskey       "Ε">
+<!ENTITY autoCompleteMatchOnlyTyped.label      "Αντιστοίχιση μόνο των ιστοσελίδων που έχετε πληκτρολογήσει στο παρελθόν">
+<!ENTITY autoCompleteMatchOnlyTyped.accesskey  "χ">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
