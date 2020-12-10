@@ -631,7 +631,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = I siti più visitati
 home-prefs-topsites-by-option-sponsored =
     .label = Siti principali sponsorizzati
-
+home-prefs-shortcuts-header =
+    .label = Scorciatoie
+home-prefs-shortcuts-description = Siti che hai salvato oppure visitato
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Scorciatoie sponsorizzate
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -639,6 +643,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Consigliati da { $provider }
 home-prefs-recommended-by-description-update = Contenuti eccezionali da tutto il Web, a cura di { $provider }
+home-prefs-recommended-by-description-new = Contenuti eccezionali a cura di { $provider }, un membro della famiglia { -brand-product-name }
 ##
 
 home-prefs-recommended-by-learn-more = Come funziona
@@ -647,8 +652,6 @@ home-prefs-recommended-by-option-sponsored-stories =
 
 home-prefs-highlights-header =
     .label = In evidenza
-home-prefs-recent-activity-header =
-    .label = Attività recente
 home-prefs-highlights-description = Una selezione di siti che hai salvato o visitato in precedenza
 home-prefs-highlights-option-visited-pages =
     .label = Pagine visitate
@@ -659,6 +662,10 @@ home-prefs-highlights-option-most-recent-download =
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pagine salvate in { -pocket-brand-name }
 
+home-prefs-recent-activity-header =
+    .label = Attività recente
+home-prefs-recent-activity-description = Una selezione di siti e contenuti visualizzati di recente
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -666,6 +673,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snippet
 home-prefs-snippets-description = Aggiornamenti da { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description-new = Consigli e notizie da { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
