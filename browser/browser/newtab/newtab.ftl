@@ -148,7 +148,7 @@ newtab-label-sponsored-by = { $sponsor } sponsorluğunda
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Bölümü sil
+newtab-section-menu-remove-section = Bölümü kaldır
 newtab-section-menu-collapse-section = Bölümü daralt
 newtab-section-menu-expand-section = Bölümü genişlet
 newtab-section-menu-manage-section = Bölümü yönet
