@@ -5,7 +5,7 @@
 password-not-set =
     .value = (não definida)
 failed-pw-change = Não foi possível alterar a senha mestra.
-incorrect-pw = Você não digitou corretamente a senha mestra atual. Tente novamente.
+incorrect-pw = Você não digitou corretamente a senha principal atual. Tente novamente.
 pw-change-ok = A senha mestra foi alterada com sucesso.
 pw-empty-warning = Suas senhas da web e de e-mail, dados de formulários e chaves privadas não serão protegidos.
 pw-erased-ok = Você excluiu sua senha mestra.  { pw-empty-warning }
