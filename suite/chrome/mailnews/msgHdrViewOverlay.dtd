@@ -6,16 +6,20 @@
 <!ENTITY fromField.label "Από: ">
 <!ENTITY senderField.label "Αποστολέας: ">
 <!ENTITY organizationField.label "Οργανισμός: ">
+<!ENTITY replyToField.label "Απάντηση-σε:">
 
 <!ENTITY subjectField.label "Θέμα: ">
 <!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
+<!ENTITY ccField.label "Cc: ">
 <!ENTITY newsgroupsField.label "Ομάδες συζήτησης: ">
+<!ENTITY followupToField.label "Συνέχεια-σε:">
 
 <!ENTITY tagsHdr.label "Ετικέτες: ">
 <!ENTITY dateField.label "Ημερομηνία: ">
 <!ENTITY userAgentField.label "Πλατφόρμα-χρήστη: ">
 <!ENTITY referencesField.label "Αναφορές: ">
 <!ENTITY messageIdField.label "ID-μηνύματος:">
+<!ENTITY inReplyToField.label "Σε-απάντηση-σε:">
 <!ENTITY originalWebsite.label "Ιστοσελίδα: ">
 
 <!ENTITY editMessage.label                 "Επεξεργασία προσχεδίου…">

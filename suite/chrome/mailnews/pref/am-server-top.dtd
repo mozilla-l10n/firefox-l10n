@@ -21,6 +21,8 @@
 <!ENTITY biffStart.label "Έλεγχος για νέα μηνύματα κάθε ">
 <!ENTITY biffStart.accesskey "ν">
 <!ENTITY biffEnd.label "λεπτά">
+<!ENTITY useIdleNotifications.label "Αποδοχή άμεσων ειδοποιήσεων διακομιστή όταν έρχονται νέα μηνύματα">
+<!ENTITY useIdleNotifications.accesskey "χ">
 <!ENTITY connectionSecurity.label "Ασφάλεια σύνδεσης:">
 <!ENTITY connectionSecurity.accesskey "σ">
 <!ENTITY connectionSecurityType-0.label "Καμία">
