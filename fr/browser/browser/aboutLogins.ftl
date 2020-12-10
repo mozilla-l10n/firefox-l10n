@@ -169,7 +169,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Supprimer cet identifiant ?
 confirm-delete-dialog-message = Cette action est irréversible.
 about-logins-confirm-remove-dialog-confirm-button = Supprimer
-about-logins-confirm-remove-all-dialog-confirm-button = Tout supprimer
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Supprimer
+       *[other] Tout supprimer
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Oui, supprimer cet identifiant
