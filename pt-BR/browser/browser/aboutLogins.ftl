@@ -129,7 +129,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = copiar a senha salva
 
 ## Master Password notification
 
-master-password-notification-message = Digite sua senha mestra para ver contas e senhas salvas
+master-password-notification-message = Digite sua senha principal para ver contas e senhas salvas
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Para exportar suas contas, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
 # This message can be seen when attempting to export a password in about:logins
