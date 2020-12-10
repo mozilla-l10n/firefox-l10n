@@ -21,6 +21,7 @@
 <!ENTITY autoCompleteMatch.label               "Αντιστοίχιση">
 <!ENTITY autoCompleteMatch.accesskey           "Α">
 <!ENTITY autoCompleteMatchAnywhere             "Οπουδήποτε στη διεύθυνση ή τον τίτλο">
+<!ENTITY autoCompleteMatchWordsFirst           "Οπουδήποτε, αλλά προτιμώντας τα όρια λέξεων">
 <!ENTITY autoCompleteMatchWords                "Μόνο στα όρια των λέξεων">
 <!ENTITY autoCompleteMatchStart                "Μόνο στην αρχή της διεύθυνσης ή του τίτλου">
 <!ENTITY showInternetSearch.label              "Εμφάνιση προεπιλεγμένης μηχανής αναζήτησης διαδικτύου">
