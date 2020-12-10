@@ -10,6 +10,7 @@
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Αυτή η ιστοσελίδα στο <span id='malware_sitename'/> έχει αναφερθεί ως ιστοσελίδα επιθέσεων και έχει αποκλειστεί σύμφωνα με τις προτιμήσεις ασφαλείας σας.">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Αναφέρθηκε σελίδα ανεπιθύμητου λογισμικού!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Αυτή η ιστοσελίδα στο <span id='unwanted_sitename'/> έχει αναφερθεί ότι περιέχει ανεπιθύμητο λογισμικό και έχει αποκλειστεί σύμφωνα με τις προτιμήσεις ασφαλείας σας.">
 

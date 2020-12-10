@@ -5,6 +5,7 @@
 <!ENTITY linksHeader.label "Συμπεριφορά συνδέσμου">
 <!ENTITY newWindow.label "Συμπεριφορά ανοίγματος συνδέσμου">
 <!ENTITY newWindowDescription.label "Άνοιγμα συνδέσμων που σκοπεύουν να ανοίξουν νέο παράθυρο σε:">
+<!ENTITY newWindowRestriction.label "Όταν τα σενάρια θέλουν να ανοίξουν νέο παράθυρο:">
 <!ENTITY external.label "Σύνδεσμοι από άλλες εφαρμογές">
 <!ENTITY externalDescription.label "Άνοιγμα συνδέσμων από άλλες εφαρμογές:">
 
