@@ -8,6 +8,9 @@
 newtab-page-title = Onglet novèl
 newtab-settings-button =
     .title = Personalizar la pagina Onglet novèl
+newtab-personalize-button-label = Personalizar
+    .title = Personalizacion de la pagina onglet novèl
+    .aria-label = Personalizacion de la pagina onglet novèl
 
 ## Search box component.
 
