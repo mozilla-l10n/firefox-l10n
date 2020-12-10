@@ -12,6 +12,9 @@
 
 <!ENTITY enableDrmMedia.label           "Ενεργοποίηση διαχείρισης ψηφιακών δικαιωμάτων για">
 
+<!ENTITY animLoopingTitle.label         "Επανάληψη κινούμενων εικόνων">
+<!ENTITY animLoopAsSpecified.label      "Όσες φορές ορίζει η εικόνα">
+<!ENTITY animLoopAsSpecified.accesskey  "σ">
 <!ENTITY animLoopOnce.label             "Μία φορά">
 <!ENTITY animLoopOnce.accesskey         "Μ">
 <!ENTITY animLoopNever.label            "Ποτέ">
