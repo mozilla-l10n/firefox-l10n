@@ -122,6 +122,7 @@
 
 <!ENTITY fdata.tree.fieldname.label "Όνομα πεδίου">
 <!ENTITY fdata.tree.value.label "Εισηγμένη τιμή">
+<!ENTITY fdata.tree.usecount.label "Αριθμός χρήσεων">
 <!ENTITY fdata.tree.firstused.label "Πρώτη χρήση">
 <!ENTITY fdata.tree.lastused.label "Τελευταία χρήση">
 
