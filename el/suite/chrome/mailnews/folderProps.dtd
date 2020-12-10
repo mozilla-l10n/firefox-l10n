@@ -10,6 +10,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Εκ νέου δημιουργία ευρετηρίου αρχείων περίληψης">
 <!ENTITY folderRebuildSummaryFile2.label         "Επιδιόρθωση φακέλου">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "Ε">
+<!ENTITY folderRebuildSummaryFile.explanation    "Μερικές φορές, το αρχείο ευρετηρίου φακέλων (.msf) καταστρέφεται και φαίνεται ότι λείπουν μηνύματα ή εμφανίζονται διαγραμμένα μηνύματα· η επιδιόρθωση του φακέλου ενδέχεται να λύσει αυτά τα ζητήματα.">
 
 <!ENTITY retention.label "Πολιτική διατήρησης">
 <!ENTITY retentionUseAccount.label "Χρήση ρυθμίσεων λογαριασμού">
