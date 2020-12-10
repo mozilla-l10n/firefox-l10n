@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> ønskjer å opne ei <strong>{ $scheme }</strong>-lenke.
 
 ## Permission Dialog
 ## Variables:
@@ -18,10 +10,22 @@ handler-dialog-host = <strong>{ $host }</strong> ønskjer å opne ei <strong>{ $
 ##  $appName - Name of the application that will be opened.
 
 
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
+
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-dialog =
+    .buttonlabelaccept = Opne lenke
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = Vel eit program for å opne { $scheme }-lenka.
 choose-other-app-description = Vel eit anna program
 choose-app-btn =
     .label = Vel…

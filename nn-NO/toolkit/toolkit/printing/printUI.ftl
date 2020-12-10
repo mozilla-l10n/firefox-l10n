@@ -61,6 +61,7 @@ printui-system-dialog-link = Skriv ut ved hjelp av systemdialogvindauget…
 printui-primary-button = Skriv ut
 printui-primary-button-save = Lagre
 printui-cancel-button = Avbryt
+printui-close-button = Lat att
 printui-loading = Førebur førehandsvising
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
