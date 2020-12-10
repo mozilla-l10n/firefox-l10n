@@ -90,7 +90,7 @@ about-processes-frame-name-many = Is-fframiau ({ $number }): { $shortUrl }
 ##                   of `duration-unit-*`.
 
 # Common case.
-about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, arddull: "canran") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (yn mesur)
 # Special case: process or thread is currently idle.
