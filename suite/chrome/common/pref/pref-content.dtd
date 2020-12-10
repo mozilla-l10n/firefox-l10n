@@ -35,6 +35,8 @@
 <!ENTITY siteSpecific.accesskey                 "μ">
 <!ENTITY textZoomOnly.label                     "Ζουμ μόνο στο κείμενο αντί για την πλήρη σελίδα">
 <!ENTITY textZoomOnly.accesskey                 "Ζ">
+<!ENTITY enableAutomaticImageResizing.label     "Προσαρμογή μεγέθους μεγάλων εικόνων στο παράθυρο προγράμματος περιήγησης">
+<!ENTITY enableAutomaticImageResizing.accesskey "Π">
 
 <!ENTITY allowHWAccel.label                     "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey                 "ρ">
