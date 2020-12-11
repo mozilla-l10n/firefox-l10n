@@ -200,3 +200,24 @@ newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-br
 
 newtab-error-fallback-info = אופס, משהו השתבש בעת טעינת התוכן הזה.
 newtab-error-fallback-refresh-link = נא לרענן את הדף כדי לנסות שוב.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = קיצורי דרך
+newtab-custom-shortcuts-subtitle = אתרים ששמרת או ביקרת בהם
+newtab-custom-row-selector =
+    { $num ->
+        [one] שורה אחת
+       *[other] { $num } שורות
+    }
+newtab-custom-sponsored-sites = קיצורי דרך ממומנים
+newtab-custom-pocket-title = מומלץ על־ידי { -pocket-brand-name }
+newtab-custom-pocket-sponsored = סיפורים ממומנים
+newtab-custom-recent-title = פעילות אחרונה
+newtab-custom-close-button = סגירה
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = פתקיות
+newtab-custom-settings = ניהול הגדרות נוספות
