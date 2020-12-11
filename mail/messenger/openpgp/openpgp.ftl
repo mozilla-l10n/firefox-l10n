@@ -19,6 +19,7 @@ openpgp-manager-description = Користите OpenPGP управника кљ
 openpgp-manager-button =
     .label = OpenPGP управник кључева
     .accesskey = O
+expiry-open-key-manager = Отвори OpenPGP управника кључева
 
 ## Account settings export output
 
