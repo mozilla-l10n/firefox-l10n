@@ -25,6 +25,9 @@ printui-range-start = Από
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = έως
+printui-page-custom-range-input =
+    .aria-label = Εισάγετε προσαρμοσμένο εύρος σελίδων
+    .placeholder = π.χ. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Αντίγραφα
 printui-orientation = Προσανατολισμός
