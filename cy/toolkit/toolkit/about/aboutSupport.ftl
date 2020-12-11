@@ -185,6 +185,11 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Modiwlau Trydydd Parti
+support-third-party-modules-module = Ffeil Modiwlau
+support-third-party-modules-version = Fersiwn Ffeil
+support-third-party-modules-vendor = Manylion y Gwerthwr
+support-third-party-modules-occurrence = Amlder
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
