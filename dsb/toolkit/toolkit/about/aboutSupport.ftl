@@ -185,6 +185,32 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Module tśeśich póbitowarjow
+support-third-party-modules-module = Modulowa dataja
+support-third-party-modules-version = Datajowa wersija
+support-third-party-modules-vendor = Informacije zgótowjarja
+support-third-party-modules-occurrence = Wustupowanje
+support-third-party-modules-process = Procesowy typ a ID
+support-third-party-modules-thread = Nitka
+support-third-party-modules-base = Adresa Imagebase
+support-third-party-modules-uptime = Procesowy źěłowy cas (ms)
+support-third-party-modules-duration = Zacytański cas (ms)
+support-third-party-modules-empty = Module tśeśich póbitowarjow njejsu se zacytali.
+support-third-party-modules-no-value = (Žedna gódnota)
+support-third-party-modules-button-open =
+    .title = Datajowe městno wócyniś…
+support-third-party-modules-expand =
+    .title = Nadrobne informacije pokazaś
+support-third-party-modules-collapse =
+    .title = Nadrobne informacije schowaś
+support-third-party-modules-unsigned-icon =
+    .title = Toś ten modul njejo signěrowany
+support-third-party-modules-folder-icon =
+    .title = Datajowe městno wócyniś…
+support-third-party-modules-down-icon =
+    .title = Nadrobne informacije pokazaś
+support-third-party-modules-up-icon =
+    .title = Nadrobne informacije schowaś
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

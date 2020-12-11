@@ -506,6 +506,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Sedła, ku kótarymž se nejcesćej woglědujośo
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsorowane nejlubše sedła
+home-prefs-shortcuts-header =
+    .label = Zwězanja
+home-prefs-shortcuts-description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsorowane zwězanja
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -513,6 +518,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Wót { $provider } dopórucony
 home-prefs-recommended-by-description-update = Wurědne wopśimjeśe z cełego weba, wubrane wót { $provider }
+home-prefs-recommended-by-description-new = Wósebne wopśimjeśe, wubrane pśez { $provider }, źěla swójźby { -brand-product-name }
 
 ##
 
@@ -521,8 +527,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorowane tšojenja pokazaś
 home-prefs-highlights-header =
     .label = Wjerški
-home-prefs-recent-activity-header =
-    .label = Najnowša aktiwita
 home-prefs-highlights-description = Wuběrk websedłow, kótarež sćo składował abo se woglědał
 home-prefs-highlights-option-visited-pages =
     .label = Woglědane boki
@@ -532,6 +536,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Nejnowše ześěgnjenje
 home-prefs-highlights-option-saved-to-pocket =
     .label = Boki skłaźone do { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Najnowša aktiwita
+home-prefs-recent-activity-description = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -539,6 +546,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Kuski
 home-prefs-snippets-description = Aktualizacije wót { -vendor-short-name } a { -brand-product-name }
+home-prefs-snippets-description-new = Pokazki a nowosći wót { -vendor-short-name } a { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->

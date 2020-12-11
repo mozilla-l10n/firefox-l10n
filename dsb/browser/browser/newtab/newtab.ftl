@@ -224,6 +224,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Sponsorowane zwězanja
 newtab-custom-pocket-title = Wót { -pocket-brand-name } dopórucone
+newtab-custom-pocket-subtitle = Wósebne wopśimjeśe, wubrane pśez { -pocket-brand-name }, źěla swójźby { -brand-product-name }
 newtab-custom-pocket-sponsored = Sponsorowane tšojeńka
 newtab-custom-recent-title = Nejnowša aktiwita
 newtab-custom-recent-subtitle = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
