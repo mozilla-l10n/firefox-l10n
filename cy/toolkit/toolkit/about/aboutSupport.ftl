@@ -190,6 +190,27 @@ support-third-party-modules-module = Ffeil Modiwlau
 support-third-party-modules-version = Fersiwn Ffeil
 support-third-party-modules-vendor = Manylion y Gwerthwr
 support-third-party-modules-occurrence = Amlder
+support-third-party-modules-process = Math o Broses ac ID
+support-third-party-modules-thread = Trywydd
+support-third-party-modules-base = Cyfeiriad Imagebase
+support-third-party-modules-uptime = Cyfnod Proses (me)
+support-third-party-modules-duration = Cyfnod Llwytho (me)
+support-third-party-modules-empty = Heb lwytho unrhyw fodiwlau trydydd parti.
+support-third-party-modules-no-value = (Dim gwerth)
+support-third-party-modules-button-open =
+    .title = Lleoliad ffeil agored...
+support-third-party-modules-expand =
+    .title = Dangos gwybodaeth fanwl
+support-third-party-modules-collapse =
+    .title = Cau gwybodaeth fanwl
+support-third-party-modules-unsigned-icon =
+    .title = Nid yw'r modiwl hwn wedi'i lofnodi
+support-third-party-modules-folder-icon =
+    .title = Lleoliad ffeil agored...
+support-third-party-modules-down-icon =
+    .title = Dangos gwybodaeth fanwl
+support-third-party-modules-up-icon =
+    .title = Cau gwybodaeth fanwl
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
