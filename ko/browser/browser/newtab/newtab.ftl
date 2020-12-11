@@ -210,3 +210,19 @@ newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저
 
 newtab-error-fallback-info = 이런! 이 콘텐츠를 불러오는데 오류가 발생하였습니다.
 newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시도하세요.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = 바로 가기
+newtab-custom-shortcuts-subtitle = 저장 또는 방문 사이트
+newtab-custom-row-selector =
+    { $num ->
+       *[other] { $num } 행
+    }
+newtab-custom-close-button = 닫기
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = 짧은 소식
+newtab-custom-settings = 더 많은 설정 관리
