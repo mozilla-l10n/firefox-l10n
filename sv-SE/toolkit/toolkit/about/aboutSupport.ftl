@@ -185,6 +185,11 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Tredjepartsmoduler
+support-third-party-modules-module = Modulfil
+support-third-party-modules-version = Filversion
+support-third-party-modules-vendor = Leverantörsinformation
+support-third-party-modules-occurrence = Förekomst
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

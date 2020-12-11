@@ -210,3 +210,27 @@ newtab-pocket-cta-text = Spara de nyheter som du tycker är intressant i { -pock
 
 newtab-error-fallback-info = Oj, något gick fel när innehållet skulle laddas.
 newtab-error-fallback-refresh-link = Uppdatera sidan för att försöka igen.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Genvägar
+newtab-custom-shortcuts-subtitle = Webbplatser du sparar eller besöker
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rad
+       *[other] { $num } rader
+    }
+newtab-custom-sponsored-sites = Sponsrade genvägar
+newtab-custom-pocket-title = Rekommenderas av { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Särskilt innehåll valt av { -pocket-brand-name }, en del av familjen { -brand-product-name }
+newtab-custom-pocket-sponsored = Sponsrade nyheter
+newtab-custom-recent-title = Senaste aktivitet
+newtab-custom-recent-subtitle = Ett urval av senaste webbplatser och innehåll
+newtab-custom-close-button = Stäng
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Kort information
+newtab-custom-snippets-subtitle = Tips och nyheter från { -vendor-short-name } och { -brand-product-name }
+newtab-custom-settings = Hantera fler inställningar
