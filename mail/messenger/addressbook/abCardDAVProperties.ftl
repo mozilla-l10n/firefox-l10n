@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] hver time
            *[other] hver { $hours }. time
         }
+carddav-readonly-label =
+    .label = Skrivebeskyttet
+    .accesskey = S
