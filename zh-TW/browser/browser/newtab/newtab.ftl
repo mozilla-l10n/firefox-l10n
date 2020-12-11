@@ -206,3 +206,12 @@ newtab-pocket-cta-text = 將您喜愛的故事儲存到 { -pocket-brand-name }�
 
 newtab-error-fallback-info = 唉唷，載入內容時發生錯誤。
 newtab-error-fallback-refresh-link = 請重新整理頁面再試一次。
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = 捷徑
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = 隻字片語
