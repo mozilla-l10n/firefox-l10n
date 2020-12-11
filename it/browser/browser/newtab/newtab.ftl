@@ -220,3 +220,28 @@ newtab-pocket-cta-text = Salva le storie che ami in { -pocket-brand-name } e nut
 
 newtab-error-fallback-info = Oops, qualcosa è andato storto durante il tentativo di caricare questo contenuto.
 newtab-error-fallback-refresh-link = Aggiornare la pagina per riprovare.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Scorciatoie
+newtab-custom-shortcuts-subtitle = Siti che hai salvato oppure visitato
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } riga
+       *[other] { $num } righe
+    }
+newtab-custom-sponsored-sites = Scorciatoie sponsorizzate
+newtab-custom-pocket-title = Consigliati da { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Contenuti eccezionali a cura di { -pocket-brand-name }, un membro della famiglia { -brand-product-name }
+newtab-custom-pocket-sponsored = Storie sponsorizzate
+newtab-custom-recent-title = Attività recente
+newtab-custom-recent-subtitle = Una selezione di siti e contenuti visualizzati di recente
+newtab-custom-close-button = Chiudi
+
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Snippet
+newtab-custom-snippets-subtitle = Consigli e notizie da { -vendor-short-name } e { -brand-product-name }
+newtab-custom-settings = Gestisci altre impostazioni
