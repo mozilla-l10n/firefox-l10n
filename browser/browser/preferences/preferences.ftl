@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = De websites die u het vaakst bezoekt
 home-prefs-topsites-by-option-sponsored =
     .label = Gesponsorde topwebsites
+home-prefs-shortcuts-header =
+    .label = Snelkoppelingen
+home-prefs-shortcuts-description = Opgeslagen of bezochte websites
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Gesponsorde snelkoppelingen
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -515,8 +520,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Gesponsorde verhalen
 home-prefs-highlights-header =
     .label = Highlights
-home-prefs-recent-activity-header =
-    .label = Recente activiteit
 home-prefs-highlights-description = Een selectie van websites die u hebt opgeslagen of bezocht
 home-prefs-highlights-option-visited-pages =
     .label = Bezochte pagina’s
@@ -526,6 +529,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Meest recent gedownload
 home-prefs-highlights-option-saved-to-pocket =
     .label = Naar { -pocket-brand-name } opgeslagen pagina’s
+home-prefs-recent-activity-header =
+    .label = Recente activiteit
+home-prefs-recent-activity-description = Een selectie van recente websites en inhoud
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +539,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description = Updates van { -vendor-short-name } en { -brand-product-name }
+home-prefs-snippets-description-new = Tips en nieuws van { -vendor-short-name } en { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->

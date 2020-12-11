@@ -210,3 +210,26 @@ newtab-pocket-cta-text = Bewaar de verhalen die u interessant vindt in { -pocket
 
 newtab-error-fallback-info = Oeps, er is iets misgegaan bij het laden van deze inhoud.
 newtab-error-fallback-refresh-link = Vernieuw de pagina om het opnieuw te proberen.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Snelkoppelingen
+newtab-custom-shortcuts-subtitle = Opgeslagen of bezochte websites
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rij
+       *[other] { $num } rijen
+    }
+newtab-custom-sponsored-sites = Gesponsorde snelkoppelingen
+newtab-custom-pocket-title = Aanbevolen door { -pocket-brand-name }
+newtab-custom-pocket-sponsored = Gesponsorde verhalen
+newtab-custom-recent-title = Recente activiteit
+newtab-custom-recent-subtitle = Een selectie van recente websites en inhoud
+newtab-custom-close-button = Sluiten
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Snippets
+newtab-custom-snippets-subtitle = Tips en nieuws van { -vendor-short-name } en { -brand-product-name }
+newtab-custom-settings = Meer instellingen beheren
