@@ -508,6 +508,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } 推荐
 home-prefs-recommended-by-description-update = 由 { $provider } 整理提供的网络精选内容
+home-prefs-recommended-by-description-new = 由 { -brand-product-name } 旗下 { $provider } 策划的特别内容
 
 ##
 
@@ -527,6 +528,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = 保存在 { -pocket-brand-name } 的页面
 home-prefs-recent-activity-header =
     .label = 近期动态
+home-prefs-recent-activity-description = 近期访问的网站与内容精选
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -534,6 +536,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = 只言片语
 home-prefs-snippets-description = 来自 { -vendor-short-name } 和 { -brand-product-name } 的快讯
+home-prefs-snippets-description-new = 来自 { -vendor-short-name } 和 { -brand-product-name } 的使用窍门与快讯
 home-prefs-sections-rows-option =
     .label = { $num } 行
 
