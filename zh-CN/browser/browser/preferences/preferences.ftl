@@ -496,7 +496,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = 您经常访问的网站
 home-prefs-topsites-by-option-sponsored =
     .label = 赞助商网站
+home-prefs-shortcuts-header =
+    .label = 快捷方式
 home-prefs-shortcuts-description = 您保存或访问的网站
+home-prefs-shortcuts-by-option-sponsored =
+    .label = 赞助商网站
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
