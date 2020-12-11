@@ -24,6 +24,9 @@ printui-range-start = 시작:
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = 끝:
+printui-page-custom-range-input =
+    .aria-label = 사용자 지정 페이지 범위 입력
+    .placeholder = 예: 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = 매수
 printui-orientation = 방향

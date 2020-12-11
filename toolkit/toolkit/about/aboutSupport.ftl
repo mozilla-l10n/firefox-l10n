@@ -195,12 +195,21 @@ support-third-party-modules-thread = 스레드
 support-third-party-modules-base = Imagebase 주소
 support-third-party-modules-uptime = 프로세스 작동 시간 (ms)
 support-third-party-modules-duration = 로딩 시간 (ms)
+support-third-party-modules-empty = 제3자 모듈이 로드되지 않았습니다.
 support-third-party-modules-no-value = (값 없음)
 support-third-party-modules-button-open =
     .title = 파일 위치 열기…
 support-third-party-modules-expand =
     .title = 자세한 정보 표시
 support-third-party-modules-collapse =
+    .title = 자세한 정보 접기
+support-third-party-modules-unsigned-icon =
+    .title = 이 모듈은 서명되지 않음
+support-third-party-modules-folder-icon =
+    .title = 파일 위치 열기…
+support-third-party-modules-down-icon =
+    .title = 자세한 정보 표시
+support-third-party-modules-up-icon =
     .title = 자세한 정보 접기
 # Variables
 # $days (Integer) - Number of days of crashes to log
