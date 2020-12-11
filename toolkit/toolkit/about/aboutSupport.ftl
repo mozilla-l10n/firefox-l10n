@@ -206,6 +206,14 @@ support-third-party-modules-expand =
     .title = Detaillierte Informationen anzeigen
 support-third-party-modules-collapse =
     .title = Detaillierte Informationen einklappen
+support-third-party-modules-unsigned-icon =
+    .title = Dieses Modul wurde nicht signiert
+support-third-party-modules-folder-icon =
+    .title = Dateipfad öffnen…
+support-third-party-modules-down-icon =
+    .title = Detaillierte Informationen anzeigen
+support-third-party-modules-up-icon =
+    .title = Detaillierte Informationen einklappen
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
