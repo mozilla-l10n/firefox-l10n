@@ -64,6 +64,7 @@ printui-system-dialog-link = Stampa per le fenestra de dialogo del systema…
 printui-primary-button = Imprimer
 printui-primary-button-save = Salvar
 printui-cancel-button = Cancellar
+printui-close-button = Clauder
 printui-loading = Preparation del vista preliminar
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
