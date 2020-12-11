@@ -210,3 +210,13 @@ newtab-pocket-cta-text = Speichern Sie Ihre Lieblingstexte in { -pocket-brand-na
 
 newtab-error-fallback-info = Beim Laden dieses Inhalts ist ein Fehler aufgetreten.
 newtab-error-fallback-refresh-link = Aktualisieren Sie die Seite, um es erneut zu versuchen.
+
+## Customization Menu
+
+newtab-custom-shortcuts-subtitle = Websites, die Sie speichern oder besuchen
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } Zeile
+       *[other] { $num } Zeilen
+    }
+newtab-custom-pocket-title = Empfohlen von { -pocket-brand-name }
