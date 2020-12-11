@@ -170,7 +170,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
 about-logins-confirm-remove-dialog-confirm-button = Выдаліць
-about-logins-confirm-remove-all-dialog-confirm-button = Выдаліць усе
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Выдаліць
+        [one] Выдаліць
+        [few] Выдаліць усе
+       *[many] Выдаліць усе
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Так, выдаліць гэты лагін

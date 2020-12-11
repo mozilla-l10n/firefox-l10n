@@ -26,6 +26,9 @@ printui-range-start = Ад
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = да
+printui-page-custom-range-input =
+    .aria-label = Увядзіце ўласны дыяпазон старонак
+    .placeholder = напрыклад, 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Копіі
 printui-orientation = Арыентацыя
@@ -65,6 +68,7 @@ printui-system-dialog-link = Друк з дапамогай сістэмнага
 printui-primary-button = Друкаваць
 printui-primary-button-save = Захаваць
 printui-cancel-button = Адмена
+printui-close-button = Закрыць
 printui-loading = Рыхтуецца папярэдні прагляд
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
