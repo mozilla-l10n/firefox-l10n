@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "添加账户">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getAllNewMsgCmd.label "获取所有新消息">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "获取后 500 条新闻消息">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -135,7 +134,6 @@
 <!ENTITY showThreadPaneCmd.accesskey "T">
 <!ENTITY showFolderPaneCmd.label "文件夹窗格">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleFolderPaneCmd.key "S">
@@ -410,6 +408,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "获取邮件">
+<!ENTITY getAllNewMsgCmd.label "获取所有新消息">
+<!ENTITY getAllNewMsgCmd.accesskey "G">
 <!ENTITY newMsgButton.label "编写">
 <!ENTITY newHTMLMessageCmd.label "用HTML编写">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -451,8 +451,6 @@
 <!ENTITY markButton.tooltip "标记消息">
 <!ENTITY printButton.tooltip "打印此消息">
 <!ENTITY stopButton.tooltip "停止当前的传输">
-<!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
-<!ENTITY throbber.tooltip2 "前往 &brandShortName; 主页">
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
 <!ENTITY notJunkButton.tooltip "将所选消息标记为非垃圾邮件">
 
