@@ -188,6 +188,32 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Πρόσθετα module τρίτων
+support-third-party-modules-module = Αρχείο module
+support-third-party-modules-version = Έκδοση αρχείου
+support-third-party-modules-vendor = Πληροφορίες κατασκευαστή
+support-third-party-modules-occurrence = Εμφάνιση
+support-third-party-modules-process = Τύπος & ID διεργασίας
+support-third-party-modules-thread = Νήμα
+support-third-party-modules-base = Διεύθυνση Imagebase
+support-third-party-modules-uptime = Χρόνος διεργασίας (ms)
+support-third-party-modules-duration = Διάρκεια φόρτωσης (ms)
+support-third-party-modules-empty = Δεν φορτώθηκαν πρόσθετα module τρίτων.
+support-third-party-modules-no-value = (Καμία τιμή)
+support-third-party-modules-button-open =
+    .title = Άνοιγμα τοποθεσίας αρχείου…
+support-third-party-modules-expand =
+    .title = Εμφάνιση λεπτομερών πληροφοριών
+support-third-party-modules-collapse =
+    .title = Σύμπτυξη λεπτομερών πληροφοριών
+support-third-party-modules-unsigned-icon =
+    .title = Αυτό το module δεν έχει υπογραφεί
+support-third-party-modules-folder-icon =
+    .title = Άνοιγμα τοποθεσίας αρχείου…
+support-third-party-modules-down-icon =
+    .title = Εμφάνιση λεπτομερών πληροφοριών
+support-third-party-modules-up-icon =
+    .title = Σύμπτυξη λεπτομερών πληροφοριών
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
