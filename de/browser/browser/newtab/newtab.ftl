@@ -213,6 +213,7 @@ newtab-error-fallback-refresh-link = Aktualisieren Sie die Seite, um es erneut z
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Verknüpfungen
 newtab-custom-shortcuts-subtitle = Websites, die Sie speichern oder besuchen
 newtab-custom-row-selector =
     { $num ->
@@ -232,3 +233,4 @@ newtab-custom-close-button = Schließen
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Kurzinformationen
 newtab-custom-snippets-subtitle = Tipps und Neuigkeiten von { -vendor-short-name } und { -brand-product-name }
+newtab-custom-settings = Weitere Einstellungen verwalten

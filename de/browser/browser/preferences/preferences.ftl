@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Die von Ihnen am meisten besuchten Websites
 home-prefs-topsites-by-option-sponsored =
     .label = Gesponserte wichtige Seiten
+home-prefs-shortcuts-header =
+    .label = Verknüpfungen
+home-prefs-shortcuts-description = Websites, die Sie speichern oder besuchen
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Gesponserte Verknüpfungen
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description-update = Besondere Inhalte aus dem ganzen Internet, ausgewählt von { $provider }
+home-prefs-recommended-by-description-new = Besondere Inhalte, ausgewählt von { $provider }, Teil der { -brand-product-name }-Familie
 
 ##
 
@@ -515,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Gesponserte Inhalte
 home-prefs-highlights-header =
     .label = Überblick
-home-prefs-recent-activity-header =
-    .label = Neueste Aktivität
 home-prefs-highlights-description = Eine Auswahl von Websites, die Sie gespeichert oder besucht haben
 home-prefs-highlights-option-visited-pages =
     .label = Besuchte Seiten
@@ -526,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Neueste Downloads
 home-prefs-highlights-option-saved-to-pocket =
     .label = Bei { -pocket-brand-name } gespeicherte Seiten
+home-prefs-recent-activity-header =
+    .label = Neueste Aktivität
+home-prefs-recent-activity-description = Eine Auswahl kürzlicher Websites und Inhalte
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Kurzinformationen
 home-prefs-snippets-description = Neuigkeiten von { -vendor-short-name } und { -brand-product-name }
+home-prefs-snippets-description-new = Tipps und Neuigkeiten von { -vendor-short-name } und { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
