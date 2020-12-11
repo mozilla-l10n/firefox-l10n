@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] κάθε ώρα
            *[other] κάθε { $hours } ώρες
         }
+carddav-readonly-label =
+    .label = Μόνο για ανάγνωση
+    .accesskey = Μ
