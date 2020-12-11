@@ -10,6 +10,7 @@
 <!-- Entities for Account Type page -->
 
 <!ENTITY accountTypeTitle.label "Ρύθμιση νέου λογαριασμού">
+<!ENTITY accountTypeDirections.label "Επιλέξτε τον τύπο λογαριασμού που θέλετε να ρυθμίσετε:">
 <!ENTITY accountTypeMail.label "Λογαριασμός email">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Λογαριασμός ομάδας συζήτησης">
@@ -49,6 +50,7 @@
 <!ENTITY defaultPortLabel.label "Προεπιλογή:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Εισάγετε το όνομα διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Διακομιστής εισερχομένων:">
 <!ENTITY incomingServer.accesskey "Δ">
 <!ENTITY leaveMsgsOnSrvr.label "Φύλαξη μηνυμάτων στον διακομιστή">
