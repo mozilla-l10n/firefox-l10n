@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = עמוד:
     .accesskey = ע
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } מתוך { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = דף אחרון
-
+printpreview-homearrow-button =
+    .title = העמוד הראשון
+printpreview-previousarrow-button =
+    .title = העמוד הקודם
+printpreview-nextarrow-button =
+    .title = העמוד הבא
+printpreview-endarrow-button =
+    .title = העמוד האחרון
