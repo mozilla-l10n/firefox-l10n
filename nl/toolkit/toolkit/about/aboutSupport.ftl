@@ -188,6 +188,18 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Modules van derden
+support-third-party-modules-module = Modulebestand
+support-third-party-modules-version = Bestandsversie
+support-third-party-modules-vendor = Leveranciersinfo
+support-third-party-modules-empty = Er zijn geen modules van derden geladen.
+support-third-party-modules-no-value = (Geen waarde)
+support-third-party-modules-button-open =
+    .title = Bestandslocatie openen…
+support-third-party-modules-unsigned-icon =
+    .title = Deze module is niet ondertekend
+support-third-party-modules-folder-icon =
+    .title = Bestandslocatie openen…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

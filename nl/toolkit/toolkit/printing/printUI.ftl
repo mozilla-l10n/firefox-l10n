@@ -25,6 +25,9 @@ printui-range-start = Van
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = tot
+printui-page-custom-range-input =
+    .aria-label = Aangepast paginabereik invoeren
+    .placeholder = b.v. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopieën
 printui-orientation = Oriëntatie
