@@ -226,7 +226,7 @@ full-screen-autohide =
     .label = Cuddio Barrau Offer
     .accesskey = u
 full-screen-exit =
-    .label = Gadael Modd Sgrin Lawn
+    .label = Gadael y Modd Sgrin Lawn
     .accesskey = L
 
 ## Search Engine selection buttons (one-offs)
