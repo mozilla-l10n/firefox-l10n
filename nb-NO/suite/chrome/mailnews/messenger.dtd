@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alle kontoer">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getAllNewMsgCmd.label "Hent alle nye meldinger">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Hent neste 500 meldinger i nyhetsgruppen">
 <!ENTITY getNextNMsgCmd.accesskey "N">
@@ -409,6 +408,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Hent nye">
+<!ENTITY getAllNewMsgCmd.label "Hent alle nye meldinger">
+<!ENTITY getAllNewMsgCmd.accesskey "H">
 <!ENTITY newMsgButton.label "Skriv">
 <!ENTITY newHTMLMessageCmd.label "Skriv med HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "S">
