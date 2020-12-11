@@ -7,6 +7,7 @@
 <!--LOCALIZATION NOTE : FILE Cache prefs dialog -->
 <!ENTITY pref.cache.title                "Προσωρινή μνήμη">
 <!ENTITY pref.cache.caption              "Ορισμός επιλογών προσωρινής μνήμης">
+<!ENTITY cachePara                       'Η προσωρινή μνήμη διατηρεί αντίγραφα των ιστοσελίδων που επισκέπτεστε συχνά στον σκληρό σας δίσκο. (Κάνοντας κλικ στο "Ανανέωση" εμφανίζεται πάντα η τελευταία έκδοση μιας σελίδας.)'>
 <!ENTITY cacheCheck.label                "Να επιτρέπεται στο &brandShortName; η διαχείριση του μεγέθους της προσωρινής μνήμης μου">
 <!ENTITY cacheCheck.accesskey            "Ν">
 <!ENTITY diskCacheUpTo.label             "Χρήση έως">
@@ -17,6 +18,7 @@
 <!ENTITY clearDiskCache.accesskey        "Α">
 <!ENTITY chooseDiskCacheFolder.label     "Επιλογή φακέλου…">
 <!ENTITY chooseDiskCacheFolder.accesskey "Ε">
+<!ENTITY diskCacheFolderExplanation      "Τα αρχεία προσωρινής μνήμης θα αποθηκευτούν σε έναν υποφάκελο με το όνομα &quot;Cache&quot; στον κατάλογο που καθορίσατε. Επανεκκινήστε το &brandShortName; για να εφαρμοστούν οι αλλαγές.">
 <!ENTITY docCache.label                  "Σύγκριση της σελίδας στην προσωρινή μνήμη με τη σελίδα στο δίκτυο:">
 <!ENTITY docCache.accesskey              "γ">
 <!ENTITY checkOncePerSession.label       "Μία φορά ανά συνεδρία">
