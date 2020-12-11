@@ -210,8 +210,22 @@ newtab-error-fallback-refresh-link = 請重新整理頁面再試一次。
 ## Customization Menu
 
 newtab-custom-shortcuts-title = 捷徑
+newtab-custom-shortcuts-subtitle = 您儲存或造訪過的網站
+newtab-custom-row-selector =
+    { $num ->
+       *[other] { $num } 行
+    }
+newtab-custom-sponsored-sites = 贊助捷徑
+newtab-custom-pocket-title = 由 { -pocket-brand-name } 推薦
+newtab-custom-pocket-subtitle = 由 { -brand-product-name } 的姊妹作 { -pocket-brand-name } 精心策展的內容
+newtab-custom-pocket-sponsored = 贊助內容
+newtab-custom-recent-title = 近期動態
+newtab-custom-recent-subtitle = 近期造訪過的網站與內容精選
+newtab-custom-close-button = 關閉
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = 隻字片語
+newtab-custom-snippets-subtitle = 來自 { -vendor-short-name } 及 { -brand-product-name } 的使用秘訣與新聞
+newtab-custom-settings = 管理更多設定

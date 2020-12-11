@@ -488,6 +488,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = 最常造訪的網站
 home-prefs-topsites-by-option-sponsored =
     .label = 贊助的熱門網站
+home-prefs-shortcuts-header =
+    .label = 捷徑
+home-prefs-shortcuts-description = 您儲存或造訪過的網站
+home-prefs-shortcuts-by-option-sponsored =
+    .label = 贊助捷徑
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -495,6 +500,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } 推薦
 home-prefs-recommended-by-description-update = 由 { $provider } 整理提供的網路精選內容
+home-prefs-recommended-by-description-new = 由 { -brand-product-name } 的姊妹作 { $provider } 精心策展的內容
 
 ##
 
@@ -503,8 +509,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = 贊助內容
 home-prefs-highlights-header =
     .label = 精選網站
-home-prefs-recent-activity-header =
-    .label = 近期動態
 home-prefs-highlights-description = 您儲存或造訪過的網站精選
 home-prefs-highlights-option-visited-pages =
     .label = 造訪過的頁面
@@ -514,6 +518,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = 最新下載
 home-prefs-highlights-option-saved-to-pocket =
     .label = 儲存至 { -pocket-brand-name } 的頁面
+home-prefs-recent-activity-header =
+    .label = 近期動態
+home-prefs-recent-activity-description = 近期造訪過的網站與內容精選
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -521,6 +528,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = 隻字片語
 home-prefs-snippets-description = 來自 { -vendor-short-name } 及 { -brand-product-name } 的大小事
+home-prefs-snippets-description-new = 來自 { -vendor-short-name } 及 { -brand-product-name } 的使用秘訣與新聞
 home-prefs-sections-rows-option =
     .label = { $num } 行
 

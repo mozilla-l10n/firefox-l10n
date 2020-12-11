@@ -188,6 +188,32 @@ remote-debugging-url = 網址
 
 ##
 
+support-third-party-modules-title = 第三方模組
+support-third-party-modules-module = 模組檔案
+support-third-party-modules-version = 檔案版本
+support-third-party-modules-vendor = 供應商資訊
+support-third-party-modules-occurrence = 項目
+support-third-party-modules-process = 程序類型與 ID
+support-third-party-modules-thread = 執行緒
+support-third-party-modules-base = Imagebase 位置
+support-third-party-modules-uptime = 程序執行時間（ms）
+support-third-party-modules-duration = 載入時間長度（ms）
+support-third-party-modules-empty = 並未載入任何第三方模組。
+support-third-party-modules-no-value = （沒有值）
+support-third-party-modules-button-open =
+    .title = 開啟檔案位置…
+support-third-party-modules-expand =
+    .title = 顯示詳細資訊
+support-third-party-modules-collapse =
+    .title = 摺疊詳細資訊
+support-third-party-modules-unsigned-icon =
+    .title = 此模組未經簽署
+support-third-party-modules-folder-icon =
+    .title = 開啟檔案位置…
+support-third-party-modules-down-icon =
+    .title = 顯示詳細資訊
+support-third-party-modules-up-icon =
+    .title = 摺疊詳細資訊
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 最近 { $days } 天內的錯誤資訊報表
