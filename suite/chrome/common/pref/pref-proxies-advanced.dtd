@@ -4,6 +4,7 @@
 
 <!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
 <!ENTITY  pref.proxies.advanced.title "Προηγμένες προτιμήσεις διακομιστή μεσολάβησης">
+<!ENTITY  protocols.caption           "Ειδικοί διακομιστές μεσολάβησης πρωτοκόλλου">
 <!ENTITY  http.label                  "Διακομιστής μεσολάβησης HTTP:">
 <!ENTITY  http.accesskey              "μ">
 <!ENTITY  ssl.label                   "Διακομιστής μεσολάβησης SSL:">
