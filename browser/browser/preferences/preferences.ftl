@@ -500,6 +500,7 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = A leggyakrabban látogatott oldalak
 home-prefs-topsites-by-option-sponsored =
     .label = Szponzorált legjobb oldalak
+home-prefs-shortcuts-description = Mentett vagy felkeresett webhelyek
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

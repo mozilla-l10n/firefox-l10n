@@ -185,6 +185,13 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Harmadik féltől származó modulok
+support-third-party-modules-module = Modulfájl
+support-third-party-modules-version = Fájlverzió
+support-third-party-modules-vendor = Szállítói információk
+support-third-party-modules-occurrence = Előfordulás
+support-third-party-modules-process = Folyamattípus és azonosító
+support-third-party-modules-thread = Szál
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
