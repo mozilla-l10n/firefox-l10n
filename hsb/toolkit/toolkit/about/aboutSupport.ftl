@@ -185,6 +185,29 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Module třećich poskićowarjow
+support-third-party-modules-module = Modulowa dataja
+support-third-party-modules-version = Datajowa wersija
+support-third-party-modules-vendor = Informacije zhotowjerja
+support-third-party-modules-occurrence = Wustupowanje
+support-third-party-modules-process = Procesowy typ a ID
+support-third-party-modules-thread = Nitka
+support-third-party-modules-base = Adresa Imagebase
+support-third-party-modules-no-value = (Žana hódnota)
+support-third-party-modules-button-open =
+    .title = Datajowe městno wočinić…
+support-third-party-modules-expand =
+    .title = Nadrobne informacije pokazać
+support-third-party-modules-collapse =
+    .title = Nadrobne informacije schować
+support-third-party-modules-unsigned-icon =
+    .title = Tutón modul njeje signowany
+support-third-party-modules-folder-icon =
+    .title = Datajowe městno wočinić…
+support-third-party-modules-down-icon =
+    .title = Nadrobne informacije pokazać
+support-third-party-modules-up-icon =
+    .title = Nadrobne informacije schować
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
