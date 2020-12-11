@@ -217,12 +217,15 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = 赞助商网站
 newtab-custom-pocket-title = 由 { -pocket-brand-name } 推荐
+newtab-custom-pocket-subtitle = 由 { -brand-product-name } 旗下 { -pocket-brand-name } 策划的特别内容
 newtab-custom-pocket-sponsored = 赞助内容
 newtab-custom-recent-title = 近期动态
+newtab-custom-recent-subtitle = 近期访问的网站与内容精选
 newtab-custom-close-button = 关闭
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = 只言片语
+newtab-custom-snippets-subtitle = 来自 { -vendor-short-name } 和 { -brand-product-name } 的使用窍门与快讯
 newtab-custom-settings = 管理更多设置
