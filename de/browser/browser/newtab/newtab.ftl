@@ -219,4 +219,16 @@ newtab-custom-row-selector =
         [one] { $num } Zeile
        *[other] { $num } Zeilen
     }
+newtab-custom-sponsored-sites = Gesponserte Verknüpfungen
 newtab-custom-pocket-title = Empfohlen von { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Besondere Inhalte, ausgewählt von { -pocket-brand-name }, Teil der { -brand-product-name }-Familie
+newtab-custom-pocket-sponsored = Gesponserte Inhalte
+newtab-custom-recent-title = Jüngste Aktivität
+newtab-custom-recent-subtitle = Eine Auswahl kürzlicher Websites und Inhalte
+newtab-custom-close-button = Schließen
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Kurzinformationen
+newtab-custom-snippets-subtitle = Tipps und Neuigkeiten von { -vendor-short-name } und { -brand-product-name }
