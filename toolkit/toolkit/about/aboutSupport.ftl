@@ -194,6 +194,7 @@ support-third-party-modules-version = 文件版本
 support-third-party-modules-vendor = 厂商信息
 support-third-party-modules-process = 进程类型与 ID
 support-third-party-modules-thread = 线程
+support-third-party-modules-base = 映像基址
 support-third-party-modules-uptime = 进程运行时间（毫秒）
 support-third-party-modules-duration = 加载持续时间（毫秒）
 support-third-party-modules-empty = 未加载第三方模块。
