@@ -222,3 +222,16 @@ newtab-custom-row-selector =
         [few] { $num } smužki
        *[other] { $num } smužkow
     }
+newtab-custom-sponsored-sites = Sponsorowane zwězanja
+newtab-custom-pocket-title = Wót { -pocket-brand-name } dopórucone
+newtab-custom-pocket-sponsored = Sponsorowane tšojeńka
+newtab-custom-recent-title = Nejnowša aktiwita
+newtab-custom-recent-subtitle = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
+newtab-custom-close-button = Zacyniś
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Kuski
+newtab-custom-snippets-subtitle = Pokazki a nowosći wót { -vendor-short-name } a { -brand-product-name }
+newtab-custom-settings = Dalšne nastajenja zastojaś
