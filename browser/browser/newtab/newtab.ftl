@@ -210,3 +210,23 @@ newtab-pocket-cta-text = Mentse az Ön által kedvelt történeteket a { -pocket
 
 newtab-error-fallback-info = Hoppá, valami hiba történt a tartalom betöltésekor.
 newtab-error-fallback-refresh-link = Az újrapróbálkozáshoz frissítse az oldalt.
+
+## Customization Menu
+
+newtab-custom-shortcuts-subtitle = Mentett vagy felkeresett webhelyek
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } sor
+       *[other] { $num } sor
+    }
+newtab-custom-pocket-title = A { -pocket-brand-name } által ajánlott
+newtab-custom-pocket-sponsored = Szponzorált történetek
+newtab-custom-recent-title = Legutóbbi tevékenység
+newtab-custom-recent-subtitle = Válogatás a legutóbbi webhelyekből és tartalmakból
+newtab-custom-close-button = Bezárás
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Töredékek
+newtab-custom-settings = További beállítások kezelése
