@@ -210,3 +210,26 @@ newtab-pocket-cta-text = Składujće stawizny, kotrež so wam spodobuja, w { -po
 
 newtab-error-fallback-info = Hopla, při čitanju tutoho wobsaha je so něšto nimokuliło.
 newtab-error-fallback-refresh-link = Aktualizujće stronu, zo byšće hišće raz spytał.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Zwjazanja
+newtab-custom-shortcuts-subtitle = Sydła, kotrež składujeće abo wopytujeće
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } linka
+        [two] { $num } lince
+        [few] { $num } linki
+       *[other] { $num } linkow
+    }
+newtab-custom-sponsored-sites = Sponsorowane zwjazanja
+newtab-custom-pocket-title = Wot { -pocket-brand-name } doporučene
+newtab-custom-pocket-sponsored = Sponsorowane stawizny
+newtab-custom-recent-title = Najnowša aktiwita
+newtab-custom-close-button = Začinić
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Šlipki
+newtab-custom-settings = Dlaše nastajenja rjadować
