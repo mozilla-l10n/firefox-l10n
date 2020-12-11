@@ -28,9 +28,13 @@
 <!ENTITY recommendedUnits.label      "Ο εκδότης προτείνει:">
 
 <!ENTITY quickMode.label             "Εμφάνιση σύνοψης άρθρου αντί για φόρτωση της ιστοσελίδας">
+<!ENTITY quickMode.accesskey         "μ">
 
 <!ENTITY autotagEnable.label         "Αυτόματη δημιουργία ετικετών από τα ονόματα &lt;κατηγοριών&gt; ροής">
 <!ENTITY autotagEnable.accesskey     "τ">
+<!ENTITY autotagUsePrefix.label      "Πρόθεμα ετικετών:">
+<!ENTITY autotagUsePrefix.accesskey  "Π">
+<!ENTITY autoTagPrefix.placeholder   "Εισάγετε πρόθεμα ετικέτας">
 
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Προσθήκη">
@@ -45,6 +49,7 @@
 <!ENTITY button.importOPML.accesskey "Ε">
 <!ENTITY button.exportOPML.label     "Εξαγωγή">
 <!ENTITY button.exportOPML.accesskey "ξ">
+<!ENTITY button.exportOPML.tooltip   "Εξαγωγή ροών με δομή φακέλου· κάντε Ctrl+κλικ ή πατήστε Ctrl+Enter για εξαγωγή ροών σε λίστα">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Κλείσιμο">

@@ -11,7 +11,11 @@
 <!ENTITY disableCookies.label           "Φραγή cookies">
 <!ENTITY disableCookies.accesskey       "Φ">
 
+<!ENTITY accNo3rdPartyCookies.label     "Αποδοχή cookies μόνο για την ιστοσελίδα προέλευσης (χωρίς cookies τρίτων)">
+<!ENTITY accNo3rdPartyCookies.accesskey "ο">
 
+<!ENTITY acc3rdPartyVisited.label       "Αποδοχή cookies τρίτων μόνο για ιστοσελίδες που έχετε επισκεφθεί">
+<!ENTITY acc3rdPartyVisited.accesskey   "δ">
 
 <!ENTITY accAllCookies.label            "Αποδοχή όλων των cookies">
 <!ENTITY accAllCookies.accesskey        "c">
