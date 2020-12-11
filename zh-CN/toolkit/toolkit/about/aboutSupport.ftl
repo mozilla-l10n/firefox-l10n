@@ -188,6 +188,14 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = 第三方模块
+support-third-party-modules-module = 模块文件
+support-third-party-modules-version = 文件版本
+support-third-party-modules-vendor = 厂商信息
+support-third-party-modules-process = 进程类型与 ID
+support-third-party-modules-thread = 线程
+support-third-party-modules-up-icon =
+    .title = 收起详细信息
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 近 { $days } 天的崩溃报告

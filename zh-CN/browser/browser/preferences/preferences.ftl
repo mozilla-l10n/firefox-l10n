@@ -496,6 +496,7 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = 您经常访问的网站
 home-prefs-topsites-by-option-sponsored =
     .label = 赞助商网站
+home-prefs-shortcuts-description = 您保存或访问的网站
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -511,8 +512,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = 赞助内容
 home-prefs-highlights-header =
     .label = 集锦
-home-prefs-recent-activity-header =
-    .label = 近期动态
 home-prefs-highlights-description = 您访问过或保存过的网站精选
 home-prefs-highlights-option-visited-pages =
     .label = 访问过的页面
@@ -522,6 +521,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = 最近下载
 home-prefs-highlights-option-saved-to-pocket =
     .label = 保存在 { -pocket-brand-name } 的页面
+home-prefs-recent-activity-header =
+    .label = 近期动态
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
