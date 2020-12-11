@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Mest besøkte nettsteder
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsede toppsider
+home-prefs-shortcuts-header =
+    .label = Snarveier
+home-prefs-shortcuts-description = Nettsteder du lagrer eller besøker
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsede snarveier
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Anbefalt av { $provider }
 home-prefs-recommended-by-description-update = Enestående innhold fra hele nettet, satt sammen av { $provider }
+home-prefs-recommended-by-description-new = Eksepsjonelt innhold satt sammen av { $provider }, en del av { -brand-product-name }-familien
 
 ##
 
@@ -515,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsede historier
 home-prefs-highlights-header =
     .label = Høydepunkter
-home-prefs-recent-activity-header =
-    .label = Nylig aktivitet
 home-prefs-highlights-description = Et utvalg av nettsteder som du har lagret eller besøkt
 home-prefs-highlights-option-visited-pages =
     .label = Besøkte nettsider
@@ -526,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Siste nedlasting
 home-prefs-highlights-option-saved-to-pocket =
     .label = Side lagret til { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Nylig aktivitet
+home-prefs-recent-activity-description = Et utvalg av nylige nettsteder og innhold
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snutter
 home-prefs-snippets-description = Nyheter fra { -vendor-short-name } og { -brand-product-name }
+home-prefs-snippets-description-new = Tips og nyheter fra { -vendor-short-name } og { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
