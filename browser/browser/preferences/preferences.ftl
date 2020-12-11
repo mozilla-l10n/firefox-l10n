@@ -515,8 +515,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Szponzorált történetek
 home-prefs-highlights-header =
     .label = Kiemelések
-home-prefs-recent-activity-header =
-    .label = Legutóbbi tevékenység
 home-prefs-highlights-description = Válogatás azon oldalakból, amelyeket elmentett vagy felkeresett
 home-prefs-highlights-option-visited-pages =
     .label = Látogatott oldalak
@@ -526,6 +524,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Legutóbbi letöltés
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }be mentett lapok
+home-prefs-recent-activity-header =
+    .label = Legutóbbi tevékenység
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
