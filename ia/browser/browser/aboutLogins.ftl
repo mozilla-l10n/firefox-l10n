@@ -169,7 +169,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Remover iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
 about-logins-confirm-remove-dialog-confirm-button = Remover
-about-logins-confirm-remove-all-dialog-confirm-button = Remover toto
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Remover
+       *[other] Remover toto
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Si, remover iste credential

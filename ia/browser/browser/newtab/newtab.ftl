@@ -8,6 +8,9 @@
 newtab-page-title = Nove scheda
 newtab-settings-button =
     .title = Personalisar tu pagina de nove scheda
+newtab-personalize-button-label = Personalisar
+    .title = Personalisar nove scheda
+    .aria-label = Personalisar nove scheda
 
 ## Search box component.
 
@@ -203,3 +206,7 @@ newtab-pocket-cta-text = Salva le articulos que tu ama in { -pocket-brand-name }
 
 newtab-error-fallback-info = Un error ha occurrite durante le cargamento de iste contento.
 newtab-error-fallback-refresh-link = Refresca le pagina pro tentar de novo.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Vias breve
