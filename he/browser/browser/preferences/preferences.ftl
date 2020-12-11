@@ -500,12 +500,19 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = האתרים בהם ביקרת הכי הרבה
 home-prefs-topsites-by-option-sponsored =
     .label = אתרים מובילים ממומנים
+home-prefs-shortcuts-header =
+    .label = קיצורי דרך
+home-prefs-shortcuts-description = אתרים ששמרת או ביקרת בהם
+home-prefs-shortcuts-by-option-sponsored =
+    .label = קיצורי דרך ממומנים
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
     .label = מומלץ על־ידי { $provider }
+home-prefs-recommended-by-description-update = תוכן יוצא דופן מרחבי רשת, שנבחר בקפידה על־ידי { $provider }
+home-prefs-recommended-by-description-new = תוכן יוצא דופן שנבחר בקפידה על־ידי { $provider }, חלק ממשפחת { -brand-product-name }
 
 ##
 
@@ -514,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = סיפורים ממומנים
 home-prefs-highlights-header =
     .label = מומלצים
-home-prefs-recent-activity-header =
-    .label = פעילות אחרונה
 home-prefs-highlights-description = מבחר של אתרים ששמרת או ביקרת בהם
 home-prefs-highlights-option-visited-pages =
     .label = עמודים בהם ביקרת
@@ -525,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = ההורדות האחרונות
 home-prefs-highlights-option-saved-to-pocket =
     .label = עמודים שנשמרו ל־{ -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = פעילות אחרונה
+home-prefs-recent-activity-description = מבחר של אתרים ותכנים אחרונים
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -532,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = פתקיות
 home-prefs-snippets-description = עדכונים מ־{ -vendor-short-name } ו־{ -brand-product-name }
+home-prefs-snippets-description-new = עצות וחדשות מ־{ -vendor-short-name } ו־{ -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->

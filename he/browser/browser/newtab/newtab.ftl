@@ -212,12 +212,15 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = קיצורי דרך ממומנים
 newtab-custom-pocket-title = מומלץ על־ידי { -pocket-brand-name }
+newtab-custom-pocket-subtitle = תוכן יוצא דופן שנבחר בקפידה על־ידי { -pocket-brand-name }, חלק ממשפחת { -brand-product-name }
 newtab-custom-pocket-sponsored = סיפורים ממומנים
 newtab-custom-recent-title = פעילות אחרונה
+newtab-custom-recent-subtitle = מבחר של אתרים ותכנים אחרונים
 newtab-custom-close-button = סגירה
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = פתקיות
+newtab-custom-snippets-subtitle = עצות וחדשות מ־{ -vendor-short-name } ו־{ -brand-product-name }
 newtab-custom-settings = ניהול הגדרות נוספות
