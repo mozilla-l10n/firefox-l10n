@@ -215,6 +215,7 @@ newtab-custom-row-selector =
     { $num ->
        *[other] { $num } 行
     }
+newtab-custom-sponsored-sites = 赞助商网站
 newtab-custom-pocket-title = 由 { -pocket-brand-name } 推荐
 newtab-custom-recent-title = 近期动态
 newtab-custom-close-button = 关闭
