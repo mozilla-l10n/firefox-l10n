@@ -28,3 +28,6 @@ carddav-refreshinterval-hours-value =
             [few] kóžde { $hours } hodźiny
            *[other] kóžde { $hours } hodźin
         }
+carddav-readonly-label =
+    .label = Jenož čitajomny
+    .accesskey = J
