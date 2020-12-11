@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Tudalen:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } o { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Tudalen olaf
-
+printpreview-homearrow-button =
+    .title = Tudalen gyntaf
+printpreview-previousarrow-button =
+    .title = Tudalen flaenorol
+printpreview-nextarrow-button =
+    .title = Tudalen nesaf
+printpreview-endarrow-button =
+    .title = Tudalen olaf

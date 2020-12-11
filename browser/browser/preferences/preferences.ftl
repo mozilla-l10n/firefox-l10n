@@ -524,7 +524,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Argymhellwyd gan { $provider }
 home-prefs-recommended-by-description-update = Cynnwys eithriadol o bob rhan o'r we, wedi'i guradu gan { $provider }
-home-prefs-recommended-by-description-new = Cynnwys eithriadol wedi'i guradu gan { $provider }, rhan o deulu { -brand-product-name }
+home-prefs-recommended-by-description-new = Cynnwys eithriadol wedi'u curadu gan { $provider }, rhan o deulu { -brand-product-name }
 
 ##
 
