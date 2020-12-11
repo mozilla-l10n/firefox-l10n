@@ -25,6 +25,9 @@ printui-range-start = Från
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = till
+printui-page-custom-range-input =
+    .aria-label = Ange anpassat sidintervall
+    .placeholder = t.ex. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopior
 printui-orientation = Orientering
