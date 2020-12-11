@@ -488,6 +488,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = 가장 많이 방문한 사이트
 home-prefs-topsites-by-option-sponsored =
     .label = 스폰서 상위 사이트
+home-prefs-shortcuts-header =
+    .label = 바로 가기
+home-prefs-shortcuts-description = 저장 또는 방문 사이트
+home-prefs-shortcuts-by-option-sponsored =
+    .label = 스폰서 바로 가기
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -495,6 +500,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } 추천
 home-prefs-recommended-by-description-update = { $provider }에 의해 큐레이션된 웹의 뛰어난 콘텐츠
+home-prefs-recommended-by-description-new = { -brand-product-name } 제품군의 일부인 { $provider }에서 선별한 뛰어난 콘텐츠
 
 ##
 
@@ -503,8 +509,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = 스폰서 소식
 home-prefs-highlights-header =
     .label = 하이라이트
-home-prefs-recent-activity-header =
-    .label = 최근 활동
 home-prefs-highlights-description = 저장하거나 방문한 사이트 모음
 home-prefs-highlights-option-visited-pages =
     .label = 방문한 페이지
@@ -514,6 +518,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = 가장 최근 다운로드
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }에 저장된 페이지
+home-prefs-recent-activity-header =
+    .label = 최근 활동
+home-prefs-recent-activity-description = 최근 사이트 및 콘텐츠 선택
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -521,6 +528,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = 짧은 소식
 home-prefs-snippets-description = { -vendor-short-name }와 { -brand-product-name }에 대한 업데이트
+home-prefs-snippets-description-new = { -vendor-short-name }와 { -brand-product-name }의 팁 및 뉴스
 home-prefs-sections-rows-option =
     .label = { $num } 행
 

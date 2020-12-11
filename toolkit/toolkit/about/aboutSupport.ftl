@@ -185,6 +185,10 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = 제3자 모듈
+support-third-party-modules-module = 모듈 파일
+support-third-party-modules-version = 파일 버전
+support-third-party-modules-vendor = 공급업체 정보
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 지난 { $days }일간의 충돌 보고서
