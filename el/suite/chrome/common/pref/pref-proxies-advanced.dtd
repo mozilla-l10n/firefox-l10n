@@ -24,4 +24,6 @@
 <!ENTITY  socks4.accesskey            "C">
 <!ENTITY  socks5.label                "SOCKS v5">
 <!ENTITY  socks5.accesskey            "K">
+<!ENTITY  socksRemoteDNS.label        "Χρήση για επίλυση ονομάτων κεντρικών υπολογιστών (προτείνεται για SOCKS v5)">
+<!ENTITY  socksRemoteDNS.accesskey    "η">
 <!ENTITY  SOCKSport.accesskey         "ρ">

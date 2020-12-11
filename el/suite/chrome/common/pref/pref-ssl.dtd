@@ -21,6 +21,10 @@
 <!ENTITY warn.description2                  "Το &brandShortName; μπορεί να σας ειδοποιήσει για την κατάσταση ασφαλείας της ιστοσελίδας που βλέπετε. Ρυθμίστε το &brandShortName; ώστε να εμφανίζει προειδοποίηση όταν γίνεται:">
 <!ENTITY warn.enteringsecure                "Φόρτωση σελίδας που υποστηρίζει κρυπτογράφηση">
 <!ENTITY warn.enteringsecure.accesskey      "Φ">
+<!ENTITY warn.insecurepost                  "Αποστολή δεδομένων φόρμας από μη κρυπτογραφημένη σελίδα σε μη κρυπτογραφημένη σελίδα">
+<!ENTITY warn.insecurepost.accesskey        "Α">
+<!ENTITY warn.leavingsecure                 "Αποχώρηση από σελίδα που υποστηρίζει κρυπτογράφηση">
+<!ENTITY warn.leavingsecure.accesskey       "ώ">
 
 <!ENTITY warn.mixedactivecontent            "Προειδοποίηση όταν κρυπτογραφημένες σελίδες περιέχουν επισφαλές περιεχόμενο">
 <!ENTITY warn.mixedactivecontent.accesskey  "Π">
