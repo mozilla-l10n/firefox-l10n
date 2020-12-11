@@ -56,6 +56,7 @@
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Ασφαλής περιήγηση:">
 <!ENTITY rights.safebrowsing-term1 "Ανοίξτε τις προτιμήσεις της εφαρμογής">
+<!ENTITY rights.safebrowsing-term2 "Επιλέξτε την κύρια καρτέλα &security.label;">
 <!ENTITY rights.safebrowsing-term4 "Η ασφαλής περιήγηση είναι πλέον ανενεργή">
 
 <!-- location aware browsing points for branded builds -->
