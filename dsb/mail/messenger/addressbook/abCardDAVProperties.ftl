@@ -28,3 +28,6 @@ carddav-refreshinterval-hours-value =
             [few] kužde { $hours } góźiny
            *[other] kužde { $hours } góźin
         }
+carddav-readonly-label =
+    .label = Jano cytajobny
+    .accesskey = J
