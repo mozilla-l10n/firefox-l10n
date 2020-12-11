@@ -188,6 +188,24 @@ remote-debugging-url = Adresse
 
 ##
 
+support-third-party-modules-title = Module von Drittanbietern
+support-third-party-modules-module = Modul-Datei
+support-third-party-modules-version = Dateiversion
+support-third-party-modules-vendor = Herstellerinformationen
+support-third-party-modules-occurrence = Vorkommen
+support-third-party-modules-process = Prozesstyp & ID
+support-third-party-modules-thread = Thread
+support-third-party-modules-base = Imagebase-Adresse
+support-third-party-modules-uptime = Prozesslaufzeit (ms)
+support-third-party-modules-duration = Ladedauer (ms)
+support-third-party-modules-empty = Es wurden keine Module von Drittanbietern geladen.
+support-third-party-modules-no-value = (Kein Wert)
+support-third-party-modules-button-open =
+    .title = Dateipfad öffnen…
+support-third-party-modules-expand =
+    .title = Detaillierte Informationen anzeigen
+support-third-party-modules-collapse =
+    .title = Detaillierte Informationen einklappen
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
