@@ -74,6 +74,7 @@ printui-loading = Рыхтуецца папярэдні прагляд
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Перадпрагляд друку
+printui-pages-per-sheet = Старонак на аркушы
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
