@@ -209,3 +209,7 @@ newtab-pocket-cta-text = Lagre artiklene du synes er interessante i { -pocket-br
 
 newtab-error-fallback-info = Ups, noe gikk galt når innholdet skulle lastes inn.
 newtab-error-fallback-refresh-link = Oppdater siden for å prøve igjen.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Snarveier
