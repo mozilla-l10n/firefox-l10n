@@ -206,3 +206,14 @@ newtab-pocket-cta-text = Enregistratz vòstres articles preferits dins { -pocket
 
 newtab-error-fallback-info = Ops, una error s’es producha en cargant aqueste contengut.
 newtab-error-fallback-refresh-link = Actualizatz la pagina per tornar ensajar.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Acorchis
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } linha
+       *[other] { $num } linhas
+    }
+newtab-custom-recent-title = Activitat recenta
+newtab-custom-close-button = Tampar
