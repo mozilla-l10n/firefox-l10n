@@ -182,6 +182,7 @@ support-third-party-modules-process = סוג ומזהה התהליך
 support-third-party-modules-base = כתובת תמונת בסיס
 support-third-party-modules-uptime = זמן פעילות של התהליך (מ״ש)
 support-third-party-modules-duration = משך טעינה (מ״ש)
+support-third-party-modules-empty = לא נטענו מודולים מצד־שלישי.
 support-third-party-modules-no-value = (אין ערך)
 support-third-party-modules-button-open =
     .title = פתיחת מיקום הקובץ…
