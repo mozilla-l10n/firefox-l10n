@@ -25,6 +25,9 @@ printui-range-start = Fra
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = til
+printui-page-custom-range-input =
+    .aria-label = Angi tilpassset sideområde
+    .placeholder = f.eks. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Eksemplarer
 printui-orientation = Papirretning
