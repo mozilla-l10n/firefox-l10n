@@ -211,3 +211,31 @@ newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-nam
 
 newtab-error-fallback-info = Wps, aeth rhywbeth o'i le wrth llwytho'r cynnwys hwn.
 newtab-error-fallback-refresh-link = Adnewyddu'r dudalen i geisio eto.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Llwybrau Byr
+newtab-custom-shortcuts-subtitle = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
+newtab-custom-row-selector =
+    { $num ->
+        [zero] { $num } rhesi
+        [one] { $num } rhes
+        [two] { $num } res
+        [few] { $num } rhes
+        [many] { $num } rhes
+       *[other] { $num } rhes
+    }
+newtab-custom-sponsored-sites = Llwybrau byr wedi'u noddi
+newtab-custom-pocket-title = Argymhellir gan  { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Cynnwys eithriadol wedi'i guradu gan { -pocket-brand-name }, rhan o deulu { -brand-product-name }
+newtab-custom-pocket-sponsored = Straeon wedi'u noddi
+newtab-custom-recent-title = Gweithgaredd diweddar
+newtab-custom-recent-subtitle = Detholiad o wefannau a chynnwys diweddar
+newtab-custom-close-button = Cau
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Pytiau
+newtab-custom-snippets-subtitle = Awgrymiadau a newyddion gan { -vendor-short-name } a { -brand-product-name }
+newtab-custom-settings = Rheoli rhagor o osodiadau
