@@ -174,6 +174,29 @@ remote-debugging-url = כתובת
 
 ##
 
+support-third-party-modules-title = מודולים מצד־שלישי
+support-third-party-modules-module = קובץ המודול
+support-third-party-modules-version = גרסת קובץ
+support-third-party-modules-vendor = מידע על הספק
+support-third-party-modules-process = סוג ומזהה התהליך
+support-third-party-modules-base = כתובת תמונת בסיס
+support-third-party-modules-uptime = זמן פעילות של התהליך (מ״ש)
+support-third-party-modules-duration = משך טעינה (מ״ש)
+support-third-party-modules-no-value = (אין ערך)
+support-third-party-modules-button-open =
+    .title = פתיחת מיקום הקובץ…
+support-third-party-modules-expand =
+    .title = הצגת מידע מפורט
+support-third-party-modules-collapse =
+    .title = צמצום מידע מפורט
+support-third-party-modules-unsigned-icon =
+    .title = מודול זה אינו חתום
+support-third-party-modules-folder-icon =
+    .title = פתיחת מיקום הקובץ…
+support-third-party-modules-down-icon =
+    .title = הצגת מידע מפורט
+support-third-party-modules-up-icon =
+    .title = צמצום מידע מפורט
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
