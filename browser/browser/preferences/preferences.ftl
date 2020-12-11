@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Sidorna du besöker mest
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsrade toppwebbplatser
+home-prefs-shortcuts-header =
+    .label = Genvägar
+home-prefs-shortcuts-description = Webbplatser du sparar eller besöker
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsrade genvägar
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Rekommenderas av { $provider }
 home-prefs-recommended-by-description-update = Exceptionellt innehåll från hela internet, sammanställt av { $provider }
+home-prefs-recommended-by-description-new = Särskilt innehåll valt av { $provider }, en del av familjen { -brand-product-name }
 
 ##
 
@@ -515,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsrade nyheter
 home-prefs-highlights-header =
     .label = Höjdpunkter
-home-prefs-recent-activity-header =
-    .label = Senaste aktivitet
 home-prefs-highlights-description = Ett urval av sidor du har sparat eller besökt
 home-prefs-highlights-option-visited-pages =
     .label = Besökta sidor
@@ -526,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Senaste nedladdning
 home-prefs-highlights-option-saved-to-pocket =
     .label = Sidor sparade till { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Senaste aktivitet
+home-prefs-recent-activity-description = Ett urval av senaste webbplatser och innehåll
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Kort information
 home-prefs-snippets-description = Uppdateringar från { -vendor-short-name } och { -brand-product-name }
+home-prefs-snippets-description-new = Tips och nyheter från { -vendor-short-name } och { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
