@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = 頁:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = 第 { $sheetNum } 頁，共 { $sheetCount } 頁
 
 ## Variables
 ## $percent (integer) - menuitem percent label
