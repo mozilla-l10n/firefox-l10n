@@ -206,3 +206,21 @@ newtab-pocket-cta-text = 将您喜爱的故事保存到 { -pocket-brand-name }�
 
 newtab-error-fallback-info = 哎呀，载入内容时发生错误。
 newtab-error-fallback-refresh-link = 刷新页面以重试。
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = 快捷方式
+newtab-custom-shortcuts-subtitle = 您保存或访问的网站
+newtab-custom-row-selector =
+    { $num ->
+       *[other] { $num } 行
+    }
+newtab-custom-pocket-title = 由 { -pocket-brand-name } 推荐
+newtab-custom-recent-title = 近期动态
+newtab-custom-close-button = 关闭
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = 只言片语
+newtab-custom-settings = 管理更多设置
