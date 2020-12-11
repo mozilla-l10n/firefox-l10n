@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] 每小时
            *[other] 每 { $hours } 小时
         }
+carddav-readonly-label =
+    .label = 只读
+    .accesskey = R
