@@ -219,10 +219,16 @@ newtab-custom-row-selector =
     { $num ->
        *[other] { $num } 행
     }
+newtab-custom-sponsored-sites = 스폰서 바로 가기
+newtab-custom-pocket-title = { -pocket-brand-name } 추천
+newtab-custom-pocket-sponsored = 스폰서 소식
+newtab-custom-recent-title = 최근 활동
+newtab-custom-recent-subtitle = 최근 사이트 및 콘텐츠 선택
 newtab-custom-close-button = 닫기
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = 짧은 소식
+newtab-custom-snippets-subtitle = { -vendor-short-name }와 { -brand-product-name }의 팁 및 뉴스
 newtab-custom-settings = 더 많은 설정 관리
