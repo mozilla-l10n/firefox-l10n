@@ -217,6 +217,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = 赞助商网站
 newtab-custom-pocket-title = 由 { -pocket-brand-name } 推荐
+newtab-custom-pocket-sponsored = 赞助内容
 newtab-custom-recent-title = 近期动态
 newtab-custom-close-button = 关闭
 # For the "Snippets" feature traditionally on about:home.
