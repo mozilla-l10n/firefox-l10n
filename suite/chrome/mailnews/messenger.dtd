@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "f">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Alla konton">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getAllNewMsgCmd.label "Hämta alla nya meddelanden">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Hämta nästa 500 gruppinlägg">
 <!ENTITY getNextNMsgCmd.accesskey "g">
@@ -135,7 +134,6 @@
 <!ENTITY showThreadPaneCmd.accesskey "T">
 <!ENTITY showFolderPaneCmd.label "Mappyta">
 <!ENTITY showFolderPaneCmd.accesskey "a">
-
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleFolderPaneCmd.key "S">
@@ -410,6 +408,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Hämta ">
+<!ENTITY getAllNewMsgCmd.label "Hämta alla nya meddelanden">
+<!ENTITY getAllNewMsgCmd.accesskey "H">
 <!ENTITY newMsgButton.label " Skriv nytt">
 <!ENTITY newHTMLMessageCmd.label "Skriv nytt med HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -451,8 +451,6 @@
 <!ENTITY markButton.tooltip "Märk meddelanden">
 <!ENTITY printButton.tooltip "Skriv ut detta meddelande">
 <!ENTITY stopButton.tooltip "Avbryt pågående överföring">
-<!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
-<!ENTITY throbber.tooltip2 "Gå till &brandShortName;s webbplats">
 <!ENTITY junkButton.tooltip "Märk de markerade meddelandena som skräppost">
 <!ENTITY notJunkButton.tooltip "Märk de markerade meddelandena som Ej skräppost">
 
