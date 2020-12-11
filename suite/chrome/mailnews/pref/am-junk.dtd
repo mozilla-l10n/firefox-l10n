@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Ρυθμίσεις ανεπιθύμητων">
+<!ENTITY trainingDescription.label "Αν ενεργοποιηθεί, θα πρέπει πρώτα να εκπαιδεύσετε το &brandShortName; ώστε να αναγνωρίζει τα ανεπιθύμητα email, επισημαίνοντας τα μηνύματα ως ανεπιθύμητα ή μη, με το κουμπί ανεπιθύμητων στη γραμμή εργαλείων. Έπειτα, το &brandShortName; θα επισημαίνει αυτόματα τα email ως ανεπιθύμητα.">
 <!ENTITY level.label "Ενεργοποίηση προσαρμοστικών ελέγχων ανεπιθύμητης αλληλογραφίας για αυτό τον λογαριασμό">
 <!ENTITY level.accesskey "Ε">
 
