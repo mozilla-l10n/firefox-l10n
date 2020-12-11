@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "ω">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Όλους τους λογαριασμούς">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "Ό">
-<!ENTITY getAllNewMsgCmd.label "Λήψη όλων των νέων μηνυμάτων">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Λήψη των επόμενων 500 μηνυμάτων">
 <!ENTITY getNextNMsgCmd.accesskey "τ">
@@ -409,6 +408,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Λήψη μηνυμάτων">
+<!ENTITY getAllNewMsgCmd.label "Λήψη όλων των νέων μηνυμάτων">
+<!ENTITY getAllNewMsgCmd.accesskey "Λ">
 <!ENTITY newMsgButton.label "Σύνθεση">
 <!ENTITY newHTMLMessageCmd.label "Σύνθεση σε HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
