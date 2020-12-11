@@ -206,3 +206,22 @@ newtab-pocket-cta-text = Salve as histórias que você gosta no { -pocket-brand-
 
 newtab-error-fallback-info = Opa, algo deu errado ao carregar esse conteúdo.
 newtab-error-fallback-refresh-link = Atualize a página para tentar novamente.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Atalhos
+newtab-custom-shortcuts-subtitle = Sites que você salva ou visita
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } linha
+       *[other] { $num } linhas
+    }
+newtab-custom-sponsored-sites = Atalhos patrocinados
+newtab-custom-pocket-title = Recomendado pelo { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Conteúdo excepcional selecionado pelo { -pocket-brand-name }, parte da família { -brand-product-name }
+newtab-custom-pocket-sponsored = Histórias patrocinadas
+newtab-custom-recent-title = Atividade recente
+newtab-custom-recent-subtitle = Uma seleção de sites e conteúdos recentes
+newtab-custom-close-button = Fechar
+newtab-custom-snippets-subtitle = Dicas e novidades da { -vendor-short-name } e do { -brand-product-name }
+newtab-custom-settings = Gerenciar mais configurações
