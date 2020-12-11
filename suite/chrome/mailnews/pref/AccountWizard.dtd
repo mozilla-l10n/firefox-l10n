@@ -9,6 +9,7 @@
 
 <!-- Entities for Account Type page -->
 
+<!ENTITY accountSetupInfo2.label "Για να λαμβάνετε μηνύματα, θα πρέπει πρώτα να ρυθμίσετε έναν λογαριασμό.">
 <!ENTITY accountTypeTitle.label "Ρύθμιση νέου λογαριασμού">
 <!ENTITY accountTypeDirections.label "Επιλέξτε τον τύπο λογαριασμού που θέλετε να ρυθμίσετε:">
 <!ENTITY accountTypeMail.label "Λογαριασμός email">

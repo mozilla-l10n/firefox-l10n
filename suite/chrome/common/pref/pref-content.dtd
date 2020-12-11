@@ -40,5 +40,6 @@
 
 <!ENTITY allowHWAccel.label                     "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey                 "ρ">
+<!ENTITY blockAutoRefresh.accesskey             "Π">
 
 <!ENTITY showZoomStatusPanel.label              "Εμφάνιση κουμπιών ζουμ στη γραμμή κατάστασης">
