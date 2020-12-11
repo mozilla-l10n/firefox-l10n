@@ -57,4 +57,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = 最後一頁
-
+printpreview-homearrow-button =
+    .title = 第一頁
+printpreview-previousarrow-button =
+    .title = 上一頁
+printpreview-nextarrow-button =
+    .title = 下一頁
+printpreview-endarrow-button =
+    .title = 最後一頁
