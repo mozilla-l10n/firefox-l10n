@@ -25,6 +25,9 @@ printui-range-start = De
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = até
+printui-page-custom-range-input =
+    .aria-label = Digite um intervalo de páginas personalizado
+    .placeholder = exemplo: 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Cópias
 printui-orientation = Orientação

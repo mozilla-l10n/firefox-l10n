@@ -223,5 +223,10 @@ newtab-custom-pocket-sponsored = Histórias patrocinadas
 newtab-custom-recent-title = Atividade recente
 newtab-custom-recent-subtitle = Uma seleção de sites e conteúdos recentes
 newtab-custom-close-button = Fechar
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Snippets
 newtab-custom-snippets-subtitle = Dicas e novidades da { -vendor-short-name } e do { -brand-product-name }
 newtab-custom-settings = Gerenciar mais configurações
