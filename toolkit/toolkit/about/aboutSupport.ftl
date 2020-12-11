@@ -190,6 +190,27 @@ support-third-party-modules-module = Modulfil
 support-third-party-modules-version = Filversion
 support-third-party-modules-vendor = Leverantörsinformation
 support-third-party-modules-occurrence = Förekomst
+support-third-party-modules-process = Processtyp & ID
+support-third-party-modules-thread = Tråd
+support-third-party-modules-base = Bildbaserad adress
+support-third-party-modules-uptime = Processdrifttid (ms)
+support-third-party-modules-duration = Laddningstid (ms)
+support-third-party-modules-empty = Inga tredjepartsmoduler laddades.
+support-third-party-modules-no-value = (Inget värde)
+support-third-party-modules-button-open =
+    .title = Öppna filplats…
+support-third-party-modules-expand =
+    .title = Visa detaljerad information
+support-third-party-modules-collapse =
+    .title = Dölj detaljerad information
+support-third-party-modules-unsigned-icon =
+    .title = Denna modul är inte signerad
+support-third-party-modules-folder-icon =
+    .title = Öppna filplats…
+support-third-party-modules-down-icon =
+    .title = Visa detaljerad information
+support-third-party-modules-up-icon =
+    .title = Dölj detaljerad information
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
