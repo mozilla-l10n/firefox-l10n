@@ -213,3 +213,13 @@ newtab-error-fallback-refresh-link = Oppdater siden for å prøve igjen.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Snarveier
+newtab-custom-shortcuts-subtitle = Nettsteder du lagrer eller besøker
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rad
+       *[other] { $num } rader
+    }
+newtab-custom-sponsored-sites = Sponsede snarveier
+newtab-custom-pocket-title = Anbefalt av { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Eksepsjonelt innhold satt sammen av { -pocket-brand-name }, en del av { -brand-product-name }-familien
+newtab-custom-pocket-sponsored = Sponsede historier
