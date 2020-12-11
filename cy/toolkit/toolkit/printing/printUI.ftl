@@ -17,7 +17,7 @@ printui-sheets-count =
        *[other] { $sheetCount } dalen o bapur
     }
 printui-page-range-all = Y Cyfan
-printui-page-range-custom = Cyfaddas
+printui-page-range-custom = Cyfaddasu
 printui-page-range-label = Tudalen
 printui-page-range-picker =
     .aria-label = Dewis yr ystod tudalen
@@ -62,7 +62,7 @@ printui-margins = Ymylon
 printui-margins-default = Rhagosodiad
 printui-margins-min = Lleiafswm
 printui-margins-none = Dim
-printui-margins-custom = Cyfaddas
+printui-margins-custom = Cyfaddasu
 printui-margins-custom-top = Brig
 printui-margins-custom-bottom = Gwaelod
 printui-margins-custom-left = Chwith

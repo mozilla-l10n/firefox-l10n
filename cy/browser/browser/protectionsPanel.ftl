@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Bu gwall wrth anfon yr adroddiad. Rhowch gynnig arall arni'n hwyrach.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Gwefan wedi'i thrwsio? Anfon adroddiad
 
@@ -12,8 +11,8 @@ protections-panel-sitefixedsendreport-label = Gwefan wedi'i thrwsio? Anfon adrod
 
 protections-popup-footer-protection-label-strict = Llym
     .label = Llym
-protections-popup-footer-protection-label-custom = Cyfaddas
-    .label = Cyfaddas
+protections-popup-footer-protection-label-custom = Cyfaddasu
+    .label = Cyfaddasu
 protections-popup-footer-protection-label-standard = Safonol
     .label = Safonol
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Safonol
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Rhagor o wybodaeth am Ddiogelwch Rhag Tracio Uwch
-
 protections-panel-etp-on-header = Mae Diogelwch Uwch Rhag Tracio YMLAEN ar y wefan hon
 protections-panel-etp-off-header = Mae Diogelwch Uwch Rhag Tracio I FFWRDD ar y wefan hon
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Gwefan ddim yn gweithio?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Gwefan Ddim yn Gweithio?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Mae'r holl dracwyr ar y wef
 ##
 
 protections-panel-no-trackers-found = Dim tracwyr hysbys i { -brand-short-name } wedi eu canfod ar y dudalen hon.
-
 protections-panel-content-blocking-tracking-protection = Cynnwys Tracio
-
 protections-panel-content-blocking-socialblock = Tracwyr Cyfryngau Cymdeithasol
 protections-panel-content-blocking-cryptominers-label = Cryptogloddwyr
 protections-panel-content-blocking-fingerprinters-label = Bysbrintwyr
@@ -63,7 +57,6 @@ protections-panel-not-found-label = Heb Ganfod Dim
 ##
 
 protections-panel-settings-label = Gosodiadau Diogelu
-
 # This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Bwrdd Gwaith Diogelwch
 
@@ -72,14 +65,12 @@ protections-panel-protectionsdashboard-label = Bwrdd Gwaith Diogelwch
 
 # The header of the list
 protections-panel-site-not-working-view-header = Diffoddwch ddiogelu os rydych yn cael problemau gyda:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Meysydd mewngofnodi
 protections-panel-site-not-working-view-issue-list-forms = Ffurflenni
 protections-panel-site-not-working-view-issue-list-payments = Taliadau
 protections-panel-site-not-working-view-issue-list-comments = Sylwadau
 protections-panel-site-not-working-view-issue-list-videos = Fideos
-
 protections-panel-site-not-working-view-send-report = Anfon adroddiad
 
 ##
@@ -89,11 +80,9 @@ protections-panel-cryptominers = Mae cryptogloddwyr yn defnyddio pŵer cyfrifiad
 protections-panel-fingerprinters = Mae bysbrintwyr yn casglu gosodiadau o'ch porwr a'ch cyfrifiadur i greu proffil ohonoch. Gan ddefnyddio'r olion bys digidol hwn, mae nhw'n gallu'ch tracio ar draws gwahanol wefannau.
 protections-panel-tracking-content = Gall gwefannau lwytho hysbysebion allanol, fideos a chynnwys eraill sy'n cynnwys cod tracio. Gall rhwystro cynnwys tracio helpu gwefannau i lwytho'n gynt, ond efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi'n gweithio.
 protections-panel-social-media-trackers = Mae rhwydweithiau cymdeithasol yn gosod tracwyr ar wefannau eraill i ddilyn yr hyn rydych chi'n ei wneud, ei weld, a'i wylio ar-lein. Mae hyn yn caniatáu i gwmnïau cyfryngau cymdeithasol ddysgu mwy amdanoch chi y tu hwnt i'r hyn rydych chi'n ei rannu ar eich proffiliau cyfryngau cymdeithasol.
-
 protections-panel-content-blocking-manage-settings =
     .label = Rheoli Gosodiadau Diogelu
     .accesskey = M
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Adrodd ar Wefan wedi Torri
 protections-panel-content-blocking-breakage-report-view-description = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla. <label data-l10n-name="learn-more">Dysgu rhagor</label>
