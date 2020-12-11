@@ -210,3 +210,15 @@ newtab-pocket-cta-text = Składujśo tšojeńka, kótarež se wam spódobuju, w 
 
 newtab-error-fallback-info = Hopla, pśi cytanju toś togo wopśimjeśa njejo se něco raźiło.
 newtab-error-fallback-refresh-link = Aktualizěrujśo bok, aby hyšći raz wopytał.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Zwězanja
+newtab-custom-shortcuts-subtitle = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } smužka
+        [two] { $num } smužce
+        [few] { $num } smužki
+       *[other] { $num } smužkow
+    }
