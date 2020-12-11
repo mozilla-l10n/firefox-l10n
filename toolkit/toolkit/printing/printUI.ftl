@@ -24,6 +24,9 @@ printui-range-start = 从
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = 到
+printui-page-custom-range-input =
+    .aria-label = 输入自定义页面范围
+    .placeholder = 如：2-6、9、12-16
 # Section title for the number of copies to print
 printui-copies-label = 份数
 printui-orientation = 方向
