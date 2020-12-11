@@ -226,10 +226,12 @@ newtab-custom-sponsored-sites = Sponsorowane zwjazanja
 newtab-custom-pocket-title = Wot { -pocket-brand-name } doporučene
 newtab-custom-pocket-sponsored = Sponsorowane stawizny
 newtab-custom-recent-title = Najnowša aktiwita
+newtab-custom-recent-subtitle = Wuběr najnowšich sydłow a najnowšeho wobsaha
 newtab-custom-close-button = Začinić
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Šlipki
+newtab-custom-snippets-subtitle = Pokiwy a nowinki wot { -vendor-short-name } a { -brand-product-name }
 newtab-custom-settings = Dlaše nastajenja rjadować
