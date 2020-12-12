@@ -9,7 +9,7 @@
 <!ENTITY importMail.accesskey     "Α">
 <!ENTITY importFeeds.label        "Συνδρομές ροών">
 <!ENTITY importFeeds.accesskey    "ρ">
-<!ENTITY importAddressbook.label  "Ευρετήρια διευθύνσεων">
+<!ENTITY importAddressbook.label  "Ευρετήρια">
 <!ENTITY importAddressbook.accesskey "Ε">
 <!ENTITY importSettings.label     "Ρυθμίσεις">
 <!ENTITY importSettings.accesskey "Ρ">
