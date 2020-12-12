@@ -31,7 +31,7 @@ openpgp-broken-exchange-opened = Αυτό είναι ένα μήνυμα OpenPGP
 openpgp-broken-exchange-info = Αυτό είναι ένα μήνυμα OpenPGP που φαίνεται να έχει αλλοιώσει το MS-Exchange. Αν το περιεχόμενο του μηνύματος δεν εμφανίζεται όπως θα περιμένατε, μπορείτε να δοκιμάσετε μια αυτόματη επιδιόρθωση.
 openpgp-broken-exchange-repair =
     .label = Επιδιόρθωση μηνύματος
-openpgp-broken-exchange-wait = Παρακαλούμε περιμένετε…
+openpgp-broken-exchange-wait = Παρακαλώ περιμένετε…
 openpgp-cannot-decrypt-because-mdc =
     Αυτό είναι ένα κρυπτογραφημένο μήνυμα που χρησιμοποιεί ένα παλιό και ευάλωτο μηχανισμό.
     Ενδέχεται να έχει τροποποιηθεί κατά τη μεταφορά του, με την πρόθεση να υποκλαπεί το περιεχόμενό του.

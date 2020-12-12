@@ -4,7 +4,7 @@
 
 <!ENTITY messageStorage.label "Αποθήκευση μηνυμάτων">
 <!ENTITY securitySettings.label "Ρυθμίσεις ασφαλείας">
-<!ENTITY serverSettings.label "Ρυθμίσεις">
+<!ENTITY serverSettings.label "Ρυθμίσεις διακομιστή">
 <!ENTITY serverType.label "Τύπος διακομιστή:">
 <!ENTITY serverName.label "Όνομα διακομιστή:">
 <!ENTITY serverName.accesskey "δ">

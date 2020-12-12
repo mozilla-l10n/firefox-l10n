@@ -19,7 +19,7 @@
 
 <!ENTITY accountAdvancedTitle.label   "Σύνθετες επιλογές">
 <!ENTITY accountAdvancedInfo.label    "Μπορείτε, αν θέλετε, να παρακάμψετε αυτό το βήμα.">
-<!ENTITY accountAdvanced.newMailNotification.label   "Ειδοποίηση σε νέα Mail">
+<!ENTITY accountAdvanced.newMailNotification.label   "Ειδοποίηση για νέα email">
 <!ENTITY accountAliasGroupbox.caption "Τοπικό Alias">
 <!ENTITY accountAliasField.label      "Ψευδώνυμο:">
 <!ENTITY accountAliasInfo.label       "Αυτό θα εμφανίζεται μόνο στις συνομιλίες σας που συμμετέχετε, οι απομακρυσμένες επαφές σας δεν θα το βλέπουν.">
