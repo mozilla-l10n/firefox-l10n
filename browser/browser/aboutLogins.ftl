@@ -170,7 +170,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja je nepovratna.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
-about-logins-confirm-remove-all-dialog-confirm-button = Ukloni sve
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Ukloni
+        [one] Ukloni
+        [few] Ukloni sve
+       *[other] Ukloni sve
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Da, ukloni ovu prijavu
