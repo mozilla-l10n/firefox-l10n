@@ -60,6 +60,7 @@
 <!ENTITY leaveMsgsOnSrvr.label "Φύλαξη μηνυμάτων στον διακομιστή">
 <!ENTITY leaveMsgsOnSrvr.accesskey "Φ">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.description "Εισάγετε το όνομα χρήστη εισερχομένων που σας παραχώρησε ο πάροχος email σας (για παράδειγμα, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Όνομα χρήστη:">
 <!ENTITY incomingUsername.accesskey "χ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
