@@ -20,6 +20,7 @@
 <!ENTITY  FTPPort.accesskey           "ρ">
 
 <!ENTITY  socks.caption               "Γενικός διακομιστής μεσολάβησης">
+<!ENTITY  socks.description           "Ένας διακομιστής SOCKS είναι ένας γενικός διακομιστής μεσολάβησης που χρησιμοποιείται μερικές φορές σε εταιρικά ή παρόμοια περιβάλλοντα.">
 <!ENTITY  socks.label                 "Διακομιστής μεσολάβησης SOCKS:">
 <!ENTITY  socks.accesskey             "S">
 <!ENTITY  socks4.label                "SOCKS v4">

@@ -6,6 +6,9 @@
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
 <!ENTITY headline.label
 'Καλώς ορίσατε στην ενότητα "Αλληλογραφία &amp; ομάδες συζητήσεων" του <a id="vendorURL" href="">&brandShortName;</a>!'>
+<!ENTITY description.label
+"Το &brandShortName; είναι μια ισχυρή εφαρμογή email και συζητήσεων ανοικτού κώδικα,
+με προηγμένη ανίχνευση ανεπιθύμητων email και άλλες χρήσιμες λειτουργίες.">
 <!ENTITY features.title "Χαρακτηριστικά">
 <!ENTITY feat_multiacc.label "Υποστήριξη πολλαπλών λογαριασμών">
 <!ENTITY feat_junk.label "Ανίχνευση ανεπιθύμητων email">
