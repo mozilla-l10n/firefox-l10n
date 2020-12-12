@@ -3,10 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pane.title                   "Αποδεικτικά ανάγνωσης">
+<!ENTITY useGlobalPrefs.label         "Χρήση γενικών προτιμήσεων αποδεικτικών παράδοσης για αυτό τον λογαριασμό">
+<!ENTITY useGlobalPrefs.accesskey     "Χ">
 <!ENTITY globalReceipts.label         "Γενικές προτιμήσεις…">
 <!ENTITY globalReceipts.accesskey     "Γ">
 <!ENTITY useCustomPrefs.label         "Προσαρμογή αποδεικτικών ανάγνωσης για αυτό τον λογαριασμό">
 <!ENTITY useCustomPrefs.accesskey     "Π">
+<!ENTITY requestReceipt.label         "Κατά την αποστολή μηνυμάτων, να ζητείται πάντα αποδεικτικό παράδοσης">
+<!ENTITY requestReceipt.accesskey     "Κ">
 <!ENTITY receiptArrive.label          "Όταν φτάνει αποδεικτικό:">
 <!ENTITY leaveIt.label                "Να παραμένει στα εισερχόμενά μου">
 <!ENTITY leaveIt.accesskey            "ε">
