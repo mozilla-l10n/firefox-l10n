@@ -87,7 +87,7 @@
 <!ENTITY highestPriorityCmd.label "Πολύ υψηλή">
 <!ENTITY highestPriorityCmd.accesskey "Π">
 
-<!ENTITY returnReceiptMenu.label "Αποδεικτικό ανάγνωσης">
+<!ENTITY returnReceiptMenu.label "Αποδεικτικό παραλαβής">
 <!ENTITY returnReceiptMenu.accesskey "δ">
 <!ENTITY dsnMenu.label "Ειδοποίηση κατάστασης παράδοσης">
 <!ENTITY dsnMenu.accesskey "Ε">

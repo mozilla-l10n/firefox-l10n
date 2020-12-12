@@ -8,6 +8,7 @@
 <!ENTITY SSLClientAuthMethod.caption        "Επιλογή πιστοποιητικού προγράμματος">
 
 <!ENTITY pref.ssltls.title                  "Transport Layer Security (SSL/TLS)">
+<!ENTITY limit.description                  "Μπορείτε να περιορίσετε ποια πρωτόκολλα κρυπτογράφησης χρησιμοποιούνται για ασφαλείς συνδέσεις. Επιλέξτε μία ή ένα συνεχόμενο εύρος εκδόσεων.">
 <!ENTITY limit.enable.label                 "Ενεργοποίηση:">
 <!ENTITY limit.tls10.label                  "TLS 1.0">
 <!ENTITY limit.tls10.accesskey              "T">
@@ -26,6 +27,7 @@
 <!ENTITY warn.leavingsecure                 "Αποχώρηση από σελίδα που υποστηρίζει κρυπτογράφηση">
 <!ENTITY warn.leavingsecure.accesskey       "ώ">
 
+<!ENTITY mixed.description                  "Οι κρυπτογραφημένες σελίδες ενδέχεται να περιέχουν μη κρυπτογραφημένο περιεχόμενο που είναι ευάλωτο σε υποκλοπές ή πλαστογράφηση. Το &brandShortName; μπορεί να το εντοπίσει και να το αποκλείσει:">
 <!ENTITY warn.mixedactivecontent            "Προειδοποίηση όταν κρυπτογραφημένες σελίδες περιέχουν επισφαλές περιεχόμενο">
 <!ENTITY warn.mixedactivecontent.accesskey  "Π">
 <!ENTITY block.activecontent                "Να μην φορτώνεται επισφαλές περιεχόμενο σε κρυπτογραφημένες σελίδες">
