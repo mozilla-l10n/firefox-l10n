@@ -30,6 +30,10 @@
 <!ENTITY showInternetSearch.accesskey          "φ">
 
 <!ENTITY formatting.label                      "Μορφοποίηση">
+<!ENTITY domainFormatting.label                "Επισήμανση αποδοτικού τομέα για ιστοσελίδες και διακομιστές FTP">
+<!ENTITY domainFormatting.accesskey            "τ">
+<!ENTITY highlightSecure.label                 "Επισήμανση ιστοσελίδων με υψηλό επίπεδο ασφάλειας σύνδεσης">
+<!ENTITY highlightSecure.accesskey             "σ">
 
 <!ENTITY unknownLocations.label                "Άγνωστες διευθύνσεις">
 <!ENTITY domainGuessing.label                  "Προσθέστε &quot;www.&quot; και &quot;.com&quot; στη διεύθυνση αν δεν βρεθεί η ιστοσελίδα">
