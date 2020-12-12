@@ -17,6 +17,8 @@
 <!ENTITY message.label "μηνυμάτων">
 <!ENTITY nntpNotDownloadRead.label "Ανάγνωση μηνυμάτων">
 <!ENTITY nntpNotDownloadRead.accesskey "γ">
+<!ENTITY nntpDownloadMsg.label "Μηνύματα πάνω από">
+<!ENTITY nntpDownloadMsg.accesskey "η">
 <!ENTITY retentionCleanup.label "Για την ανάκτηση χώρου, μπορείτε να διαγράψετε οριστικά τα παλιά μηνύματα.">
 <!ENTITY retentionCleanupImap.label "Για ανάκτηση χώρου στο δίσκο, μπορείτε να διαγράψετε οριστικά τα παλιά σας μηνύματα από τους τοπικούς φακέλους σας και τον διακομιστή.">
 <!ENTITY retentionCleanupPop.label "Για ανάκτηση χώρου στο δίσκο, μπορείτε να διαγράψετε οριστικά τα παλιά σας μηνύματα, καθώς και τα πρωτότυπά τους από τον διακομιστή.">
@@ -28,6 +30,8 @@
 <!ENTITY retentionKeepRecent.accesskey "φ">
 <!ENTITY retentionApplyToFlagged.label "Πάντα διατήρηση των μηνυμάτων με σημαία">
 <!ENTITY retentionApplyToFlagged.accesskey "δ">
+<!ENTITY nntpRemoveMsgBody.label "Αφαίρεση κυρίως μερών από μηνύματα, πάνω από">
+<!ENTITY nntpRemoveMsgBody.accesskey "φ">
 <!ENTITY offlineSelectNntp.label "Επιλογή ομάδων συζήτησης για χρήση εκτός σύνδεσης…">
 <!ENTITY offlineSelectNntp.accesskey "Ε">
 <!ENTITY offlineImapAdvancedOffline.label "Για προχωρημένους…">

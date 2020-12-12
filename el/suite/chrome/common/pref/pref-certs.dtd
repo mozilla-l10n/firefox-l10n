@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  managecerts.caption      "Διαχείριση πιστοποιητικών">
+<!ENTITY  managecerts.text         "Χρησιμοποιήστε τη Διαχείριση πιστοποιητικών για να διαχειριστείτε τα προσωπικά σας πιστοποιητικά, καθώς και τα πιστοποιητικά άλλων ατόμων και αρχών.">
 <!ENTITY  managecerts.button       "Διαχείριση πιστοποιητικών…">
 <!ENTITY  managecerts.accesskey    "Δ">
 <!ENTITY  managedevices.caption    "Διαχείριση συσκευών ασφαλείας">
