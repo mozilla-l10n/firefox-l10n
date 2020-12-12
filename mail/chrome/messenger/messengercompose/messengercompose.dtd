@@ -198,7 +198,7 @@
 <!ENTITY messengerCmd.label "Αλληλογραφία &amp; ομάδες ειδήσεων">
 <!ENTITY messengerCmd.accesskey "γ">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Ευρετήριο διευθύνσεων">
+<!ENTITY addressBookCmd.label "Ευρετήριο">
 <!ENTITY addressBookCmd.accesskey "ρ">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Ρυθμίσεις λογαριασμού">
