@@ -168,7 +168,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Xoá thông tin đăng nhập này?
 confirm-delete-dialog-message = Thao tác này không thể hoàn tác được.
 about-logins-confirm-remove-dialog-confirm-button = Xóa
-about-logins-confirm-remove-all-dialog-confirm-button = Xóa tất cả
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Xóa
+       *[other] Xóa tất cả
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Có, xóa thông tin đăng nhập này

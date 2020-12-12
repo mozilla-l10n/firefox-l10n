@@ -24,6 +24,9 @@ printui-range-start = Từ
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = đến
+printui-page-custom-range-input =
+    .aria-label = Nhập phạm vi trang tùy chỉnh
+    .placeholder = ví dụ: 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Bản sao
 printui-orientation = Hướng
@@ -63,11 +66,13 @@ printui-system-dialog-link = In bằng hộp thoại hệ thống…
 printui-primary-button = In
 printui-primary-button-save = Lưu
 printui-cancel-button = Hủy bỏ
+printui-close-button = Đóng
 printui-loading = Đang chuẩn bị xem trước
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Xem trước trang in
+printui-pages-per-sheet = Số trang trên mỗi tờ
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
