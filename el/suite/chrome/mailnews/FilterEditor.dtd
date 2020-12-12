@@ -23,6 +23,8 @@
 <!ENTITY contextIncomingMail.accesskey "Κ">
 <!ENTITY contextManual.label "Χειροκίνητη εκτέλεση">
 <!ENTITY contextManual.accesskey "Χ">
+<!ENTITY contextBeforeCls.label "Φιλτράρισμα πριν την ταξινόμηση ανεπιθύμητων">
+<!ENTITY contextAfterCls.label "Φιλτράρισμα μετά την ταξινόμηση ανεπιθύμητων">
 <!ENTITY contextOutgoing.label "Μετά την αποστολή">
 <!ENTITY contextOutgoing.accesskey "Μ">
 <!ENTITY contextArchive.label "Κατά την αρχειοθέτηση">
