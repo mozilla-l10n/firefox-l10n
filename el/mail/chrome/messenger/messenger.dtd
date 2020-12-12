@@ -465,7 +465,7 @@
 <!ENTITY tasksMenu.accesskey "γ">
 <!ENTITY messengerCmd.label "Αλληλογραφία &amp; ομάδες ειδήσεων">
 <!ENTITY messengerCmd.accesskey "Α">
-<!ENTITY addressBookCmd.label "Ευρετήριο διευθύνσεων">
+<!ENTITY addressBookCmd.label "Ευρετήριο">
 <!ENTITY addressBookCmd.accesskey "ρ">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Πρόσθετα">
@@ -554,7 +554,7 @@
 <!ENTITY junkItem.title "Ανεπιθύμητα">
 <!ENTITY junkButton.label "Ανεπιθύμητο">
 <!ENTITY notJunkButton.label "Επιθυμητά">
-<!ENTITY addressBookButton.label "Ευρετήριο διευθύνσεων">
+<!ENTITY addressBookButton.label "Ευρετήριο">
 <!ENTITY chatButton.label "Συνομιλία">
 <!ENTITY glodaSearch.title "Γενική αναζήτηση">
 <!ENTITY searchItem.title "Γρήγορη αναζήτηση">

@@ -160,7 +160,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Γρήγορη αναζήτηση">
 
 <!-- Results Pane -->
-<!ENTITY Addrbook.label                                 "Ευρετήριο διευθύνσεων">
+<!ENTITY Addrbook.label                                 "Ευρετήριο">
 <!ENTITY Addrbook.accesskey                             "ρ">
 <!ENTITY GeneratedName.label                            "Όνομα">
 <!ENTITY GeneratedName.accesskey                        "ν">
