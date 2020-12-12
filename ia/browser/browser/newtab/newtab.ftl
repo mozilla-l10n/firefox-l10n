@@ -210,3 +210,9 @@ newtab-error-fallback-refresh-link = Refresca le pagina pro tentar de novo.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Vias breve
+newtab-custom-close-button = Clauder
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Breve novas
