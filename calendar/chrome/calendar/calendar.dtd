@@ -31,7 +31,7 @@
 <!ENTITY calendar.unifinder.tree.done.label                "Τέλος">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Ταξινόμηση με βάση το αν έχει ολοκληρωθεί ή όχι">
 <!ENTITY calendar.unifinder.tree.priority.label            "Προτεραιότητα">
-<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ταξινόμηση κατά σειρά προτεραιότητας">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ταξινόμηση κατά προτεραιότητα">
 <!ENTITY calendar.unifinder.tree.title.label               "Τίτλος">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Ταξινόμηση με βάση τον τίτλο">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; ολοκλήρωσης">
@@ -49,7 +49,7 @@
 <!ENTITY calendar.unifinder.tree.location.label            "Τοποθεσία">
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "Ταξινόμηση κατά τοποθεσία">
 <!ENTITY calendar.unifinder.tree.status.label              "Κατάσταση">
-<!ENTITY calendar.unifinder.tree.status.tooltip2           "Ταξινόμηση κατά σειρά κατάστασης">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Ταξινόμηση κατά κατάσταση">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Όνομα ημερολογίου">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Ταξινόμηση κατά όνομα ημερολογίου">
 <!ENTITY calendar.unifinder.tree.duration.label            "Υπολειπόμενος χρόνος">
