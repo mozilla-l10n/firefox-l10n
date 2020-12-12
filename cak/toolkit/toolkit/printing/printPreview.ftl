@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Ruxaq:
     .accesskey = x
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } richin { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Ruk'isib'äl ruxaq
-
+printpreview-homearrow-button =
+    .title = Nab'ey ruxaq
+printpreview-previousarrow-button =
+    .title = Jun kan ruxaq
+printpreview-nextarrow-button =
+    .title = Jun chik ruxaq
+printpreview-endarrow-button =
+    .title = Ruk'isib'äl ruxaq

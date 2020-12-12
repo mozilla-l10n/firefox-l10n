@@ -25,6 +25,9 @@ printui-range-start = Richin
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = chi re
+printui-page-custom-range-input =
+    .aria-label = Titz'ib'äx rupalem ichinan ruxaq
+    .placeholder = e.g. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Taq wachib'äl
 printui-orientation = Rucholajem

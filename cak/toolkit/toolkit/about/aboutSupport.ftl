@@ -185,6 +185,8 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-process = Ruwa tajinïk & ID
+support-third-party-modules-thread = Tzijonem
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
