@@ -22,3 +22,6 @@ carddav-refreshinterval-hours-value =
         { $hours ->
            *[other] mỗi { $hours } giờ
         }
+carddav-readonly-label =
+    .label = Chỉ đọc
+    .accesskey = R
