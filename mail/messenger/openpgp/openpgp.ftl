@@ -106,6 +106,20 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Copiar chave(s) pública(s) para a área de transferência
     .accesskey = C
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Copiar o ID da chave para a área de transferências
+           *[other] Copiar os ID das chaves para a área de transferência
+        }
+    .accesskey = C
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Copiar chave pública para a área de transferência
+           *[other] Copiar chaves públicas para a área de transferência
+        }
+    .accesskey = P
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportar chaves para um ficheiro
 openpgp-key-man-ctx-copy-to-clipbrd-label =
