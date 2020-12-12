@@ -500,6 +500,8 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Le sitos que tu visita le plus
 home-prefs-topsites-by-option-sponsored =
     .label = Sitos principal sponsorisate
+home-prefs-shortcuts-header =
+    .label = Vias breve
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -515,8 +517,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Articulos sponsorisate
 home-prefs-highlights-header =
     .label = In evidentia
-home-prefs-recent-activity-header =
-    .label = Recente activitate
 home-prefs-highlights-description = Un selection de sitos que tu ha salvate o visitate
 home-prefs-highlights-option-visited-pages =
     .label = Paginas visitate
@@ -526,6 +526,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Ultime discargamento
 home-prefs-highlights-option-saved-to-pocket =
     .label = Paginas salvate in { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Recente activitate
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

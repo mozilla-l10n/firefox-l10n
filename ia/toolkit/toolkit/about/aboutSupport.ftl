@@ -188,6 +188,12 @@ remote-debugging-url = Adresse URL
 
 ##
 
+support-third-party-modules-version = Version de file
+support-third-party-modules-thread = Argumento
+support-third-party-modules-button-open =
+    .title = Aperir position del file…
+support-third-party-modules-expand =
+    .title = Monstrar informationes detaliate
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
