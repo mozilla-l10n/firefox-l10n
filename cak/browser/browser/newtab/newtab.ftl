@@ -209,3 +209,22 @@ newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-bran
 
 newtab-error-fallback-info = Uy, k'o jun itzel xel toq nisamajib'ëx re rupam re'.
 newtab-error-fallback-refresh-link = Titzolïx ruxaq richin nitojtob'ëx chik.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Chojmin Okem
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } cholaj
+       *[other] { $num } taq cholaj
+    }
+newtab-custom-sponsored-sites = Xto' chojmin okem
+newtab-custom-pocket-title = Chilab'en ruma { -pocket-brand-name }
+newtab-custom-pocket-sponsored = To'on taq b'anob'äl
+newtab-custom-recent-title = K'ak'a' samaj
+newtab-custom-close-button = Titz'apïx
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Taq pir
