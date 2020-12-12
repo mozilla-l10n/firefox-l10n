@@ -203,3 +203,7 @@ newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-
 
 newtab-error-fallback-info = Ihuh, yella wayen yeḍran deg usali n ugbur-a.
 newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Inegzumen
