@@ -64,11 +64,13 @@ printui-system-dialog-link = Tulosta käyttäen järjestelmän tulostusikkunaa�
 printui-primary-button = Tulosta
 printui-primary-button-save = Tallenna
 printui-cancel-button = Peruuta
+printui-close-button = Sulje
 printui-loading = Valmistellaan esikatselua
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Tulostuksen esikatselu
+printui-pages-per-sheet = Sivuja per arkki
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
