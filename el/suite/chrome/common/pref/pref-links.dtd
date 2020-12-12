@@ -23,5 +23,7 @@
 
 <!ENTITY divertAll.label "Πάντα εκτροπή παραθύρων σε καρτέλες">
 <!ENTITY divertAll.accesskey "ε">
+<!ENTITY divertNoFeatures.label "Να μην γίνεται εκτροπή παραθύρων σε καρτέλες">
+<!ENTITY divertNoFeatures.accesskey "μ">
 <!ENTITY dontDivert.label "Πάντα άνοιγμα νέων παραθύρων">
 <!ENTITY dontDivert.accesskey "ν">

@@ -8,10 +8,13 @@
 <!ENTITY accountName.label "Όνομα λογαριασμού:">
 <!ENTITY accountName.accesskey "Ό">
 <!ENTITY identityTitle.label "Προεπιλεγμένη ταυτότητα">
+<!ENTITY identityDesc.label "Κάθε λογαριασμός έχει μια ταυτότητα, που αποτελεί τις πληροφορίες που βλέπουν οι αναγνώστες των μηνυμάτων σας.">
 <!ENTITY name.label "Το όνομά σας:">
 <!ENTITY name.accesskey "Τ">
 <!ENTITY email.label "Διεύθυνση email:">
 <!ENTITY email.accesskey "e">
+<!ENTITY catchAll.label "Απάντηση από αυτή την ταυτότητα όταν ταιριάζουν οι κεφαλίδες παράδοσης:">
+<!ENTITY catchAll.accesskey "τ">
 <!ENTITY replyTo.label "Διεύθυνση απάντησης:">
 <!ENTITY replyTo.accesskey "ν">
 <!ENTITY replyTo.placeholder "Οι παραλήπτες θα απαντούν στην εναλλακτική διεύθυνση">
@@ -21,6 +24,8 @@
 <!ENTITY signatureText.accesskey "μ">
 <!ENTITY signatureHtml.label "Χρήση HTML">
 <!ENTITY signatureHtml.accesskey "L">
+<!ENTITY signatureFile.label "Επισύναψη υπογραφής από αρχείο:">
+<!ENTITY signatureFile.accesskey "ψ">
 <!ENTITY choose.label "Επιλογή…">
 <!ENTITY choose.accesskey "Ε">
 <!ENTITY editVCard.label "Επεξεργασία κάρτας…">
