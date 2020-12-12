@@ -57,4 +57,7 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Asebter aneggaru
-
+printpreview-homearrow-button =
+    .title = Asebter amezwaru
+printpreview-previousarrow-button =
+    .title = Asebter izrin
