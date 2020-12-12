@@ -52,7 +52,7 @@
 <!ENTITY folderProps.color.label                 "Χρώμα εικονιδίου:">
 <!ENTITY folderProps.color.accesskey             "Χ">
 <!ENTITY folderProps.reset.tooltip               "Επαναφορά προεπιλεγμένου χρώματος">
-<!ENTITY folderProps.location.label              "Τοποθεσία">
+<!ENTITY folderProps.location.label              "Τοποθεσία:">
 <!ENTITY folderProps.location.accesskey          "θ">
 
 <!ENTITY folderSharingTab.label                  "Κοινή χρήση">
