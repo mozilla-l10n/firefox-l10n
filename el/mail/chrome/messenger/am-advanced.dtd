@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-advanced.xul -->
-
 <!-- extracted from am-advanced.xhtml -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
@@ -18,7 +16,7 @@
 <!ENTITY smtpListEdit.accesskey "Ε">
 <!ENTITY smtpListDelete.label "Αφαίρεση">
 <!ENTITY smtpListDelete.accesskey "φ">
-<!ENTITY smtpListSetDefault.label "Ορισμός ως προεπιλογή">
+<!ENTITY smtpListSetDefault.label "Ορισμός προεπιλογής">
 <!ENTITY smtpListSetDefault.accesskey "π">
 
 <!ENTITY serverDetails.label "Λεπτομέρειες επιλεγμένου διακομιστή:">

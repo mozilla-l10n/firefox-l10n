@@ -74,7 +74,7 @@
 <!ENTITY compactFolders.accesskey "φ">
 <!ENTITY emptyTrashCmd.label "Άδειασμα απορριμμάτων">
 <!ENTITY emptyTrashCmd.accesskey "δ">
-<!ENTITY offlineMenu.label "Λειτουργία εκτός σύνδεσης">
+<!ENTITY offlineMenu.label "Εκτός σύνδεσης">
 <!ENTITY offlineMenu.accesskey "κ">
 <!ENTITY offlineGoOfflineCmd.label "Εργασία εκτός σύνδεσης">
 <!ENTITY offlineGoOfflineCmd.accesskey "ρ">
@@ -463,7 +463,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Εργαλεία">
 <!ENTITY tasksMenu.accesskey "γ">
-<!ENTITY messengerCmd.label "Αλληλογραφία &amp; ομάδες ειδήσεων">
+<!ENTITY messengerCmd.label "Αλληλογραφία &amp; ομάδες συζήτησης">
 <!ENTITY messengerCmd.accesskey "Α">
 <!ENTITY addressBookCmd.label "Ευρετήριο">
 <!ENTITY addressBookCmd.accesskey "ρ">
