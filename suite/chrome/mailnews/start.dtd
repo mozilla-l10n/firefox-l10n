@@ -15,7 +15,7 @@
 <!ENTITY feat_feeds.label "Ανάγνωση ροών">
 <!ENTITY feat_filters.label "Φίλτρα μηνυμάτων">
 <!ENTITY feat_htmlmsg.label "Υποστήριξη μηνυμάτων HTML">
-<!ENTITY feat_abook.label "Ευρετήριο διευθύνσεων">
+<!ENTITY feat_abook.label "Ευρετήριο">
 <!ENTITY feat_tags.label "Προσαρμόσιμες ετικέτες και προβολές email">
 <!ENTITY feat_integration.label
 "Βαθιά ενσωμάτωση με τη σουίτα εφαρμογών &brandShortName;">

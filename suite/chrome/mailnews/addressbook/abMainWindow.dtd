@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY addressbookWindow.title                        "Ευρετήριο διευθύνσεων">
+<!ENTITY addressbookWindow.title                        "Ευρετήριο">
 <!ENTITY blankResultsPaneMessage.label                  "Αυτό το ευρετήριο εμφανίζει επαφές μόνο μετά από αναζήτηση">
 <!ENTITY localResultsOnlyMessage.label                  "Οι επαφές από απομακρυσμένα ευρετήρια δεν εμφανίζονται μέχρι να κάνετε αναζήτηση">
 <!-- File Menu -->
