@@ -48,6 +48,7 @@
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Υπηρεσίες προσθέτων:">
+<!ENTITY rights.addons-b "Από προεπιλογή, το &brandShortName; θα προτείνει πρόσθετα στη σελίδα &view.discover.label; και θα κάνει έλεγχο για ενημερώσεις σε τακτά χρονικά διαστήματα. Αν θέλετε να απενεργοποιήσετε αυτές τις λειτουργίες για να εμποδίσετε την κοινοποίηση στοιχείων για τα εγκατεστημένα πρόσθετα στον διακομιστή, ακολουθήστε αυτά τα βήματα:">
 <!ENTITY rights.addons-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
 <!ENTITY rights.addons-term2 "Επιλέξτε την καρτέλα &smart.label; στην κατηγορία &advance.label;">
 <!ENTITY rights.addons-term3 "Καταργήστε τις επιλογές &quot;&autoAddOnsUpdates.label;&quot; και &quot;&enablePersonalized.label;&quot;">
@@ -57,6 +58,7 @@
 <!ENTITY rights.safebrowsing-a "Ασφαλής περιήγηση:">
 <!ENTITY rights.safebrowsing-term1 "Ανοίξτε τις προτιμήσεις της εφαρμογής">
 <!ENTITY rights.safebrowsing-term2 "Επιλέξτε την κύρια καρτέλα &security.label;">
+<!ENTITY rights.safebrowsing-term3 "Καταργήστε τις επιλογές &quot;&blockAttackSites.label;&quot; και &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Η ασφαλής περιήγηση είναι πλέον ανενεργή">
 
 <!-- location aware browsing points for branded builds -->

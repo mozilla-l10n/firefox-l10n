@@ -13,10 +13,10 @@
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Να μετακινείται στο φάκελο &quot;Απεσταλμένα&quot;">
 <!ENTITY moveToSent.accesskey         "Ν">
-<!ENTITY requestMDN.label             "Κατά τη λήψη αιτήματος για αποδεικτικό ανάγνωσης:">
+<!ENTITY requestMDN.label             "Κατά τη λήψη αιτήματος για αποδεικτικό παραλαβής:">
 <!ENTITY returnSome.label             "Αποδοχή αποδεικτικών ανάγνωσης για ορισμένα μηνύματα">
 <!ENTITY returnSome.accesskey         "δ">
-<!ENTITY never.label                  "Να μην αποστέλλεται ποτέ αποδεικτικό ανάγνωσης">
+<!ENTITY never.label                  "Να μην αποστέλλεται ποτέ αποδεικτικό παραλαβής">
 <!ENTITY never.accesskey              "Ν">
 <!ENTITY notInToCc.label              'Αν δεν είμαι στα πεδία "Προς" ή "Κοιν." του μηνύματος:
 '>

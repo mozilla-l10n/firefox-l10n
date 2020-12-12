@@ -5,17 +5,17 @@
 <!-- LOCALIZATION NOTE pref-receipts.dtd: UI for Mail/News Return Receipts prefs -->
 <!ENTITY pref.receipts.title          "Αποδεικτικά ανάγνωσης">
 <!ENTITY prefReceipts.caption         "Αποδεικτικά ανάγνωσης">
-<!ENTITY requestReceipt.label         "Κατά την αποστολή μηνυμάτων, να απαιτείται πάντα αποδεικτικό ανάγνωσης">
+<!ENTITY requestReceipt.label         "Κατά την αποστολή μηνυμάτων, να απαιτείται πάντα αποδεικτικό παραλαβής">
 <!ENTITY requestReceipt.accesskey     "Κ">
 <!ENTITY receiptArrive.label          "Κατά την παραλαβή αποδεικτού:">
 <!ENTITY leaveIt.label                "Να παραμένει στα εισερχόμενά μου">
 <!ENTITY leaveIt.accesskey            "Ν">
 <!ENTITY moveToSent.label             "Να μεταφέρεται στον φάκελο &quot;Απεσταλμένα&quot;">
 <!ENTITY moveToSent.accesskey         "μ">
-<!ENTITY requestMDN.label             "Κατά τη λήψη αιτήματος για αποδεικτικό ανάγνωσης:">
+<!ENTITY requestMDN.label             "Κατά τη λήψη αιτήματος για αποδεικτικό παραλαβής:">
 <!ENTITY returnSome.label             "Να επιτρέπονται αποδεικτικά ανάγνωσης για ορισμένα μηνύματα">
 <!ENTITY returnSome.accesskey         "Ν">
-<!ENTITY never.label                  "Να μην αποστέλλεται ποτέ αποδεικτικό ανάγνωσης">
+<!ENTITY never.label                  "Να μην αποστέλλεται ποτέ αποδεικτικό παραλαβής">
 <!ENTITY never.accesskey              "π">
 <!ENTITY notInToCc.label              "Αν δεν είμαι στα πεδία Προς ή Κοιν. του μηνύματος:">
 <!ENTITY notInToCc.accesskey          "Π">
