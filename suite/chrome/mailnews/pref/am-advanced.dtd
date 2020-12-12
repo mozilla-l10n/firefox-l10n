@@ -17,7 +17,7 @@
 <!ENTITY smtpListSetDefault.accesskey "μ">
 
 <!ENTITY serverDetails.label "Λεπτομέρειες επιλεγμένου διακομιστή:">
-<!ENTITY serverDescription.label "Περιγραφή: ">
+<!ENTITY serverDescription.label "Περιγραφή:">
 <!ENTITY serverName.label "Όνομα διακομιστή: ">
 <!ENTITY serverPort.label "Θύρα: ">
 <!ENTITY userName.label   "Όνομα χρήστη: ">
