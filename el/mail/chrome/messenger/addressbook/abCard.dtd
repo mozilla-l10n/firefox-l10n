@@ -146,7 +146,7 @@
 <!ENTITY DefaultPhoto.label             "Προεπιλογή">
 <!ENTITY PhotoFile.label                "Από αυτό τον υπολογιστή">
 <!ENTITY PhotoFile.accesskey            "υ">
-<!ENTITY BrowsePhoto.label              "Αναζήτηση">
+<!ENTITY BrowsePhoto.label              "Περιήγηση">
 <!ENTITY BrowsePhoto.accesskey          "ζ">
 <!ENTITY PhotoURL.label                 "Από το διαδίκτυο">
 <!ENTITY PhotoURL.accesskey             "κ">

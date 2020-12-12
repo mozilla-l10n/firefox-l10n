@@ -4,7 +4,7 @@
 
 <!-- extracted from am-copies.xhtml -->
 
-<!ENTITY copyAndFolderTitle.label "Αντίγραφα και φάκελοι">
+<!ENTITY copyAndFolderTitle.label "Αντίγραφα &amp; φάκελοι">
 <!ENTITY sendingPrefix.label "Κατά την αποστολή μηνυμάτων, αυτόματη: ">
 <!ENTITY fccMailFolder.label "Τοποθέτηση αντιγράφου:">
 <!ENTITY fccMailFolder.accesskey "ν">

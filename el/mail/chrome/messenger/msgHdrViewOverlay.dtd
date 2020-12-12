@@ -9,13 +9,13 @@
 <!ENTITY organizationField4.label "Οργανισμός ">
 <!ENTITY replyToField4.label "Απάντηση σε">
 
-<!ENTITY subjectField4.label "Θέμα ">
+<!ENTITY subjectField4.label "Θέμα">
 <!ENTITY ccField4.label "Κοιν ">
 <!ENTITY bccField4.label "Κρ.κοιν ">
 <!ENTITY newsgroupsField4.label "Ομάδες συζήτησης">
 <!ENTITY followupToField4.label "Σε συνέχεια του">
-<!ENTITY tagsHdr4.label "Ετικέτες ">
-<!ENTITY dateField4.label "Ημερομηνία ">
+<!ENTITY tagsHdr4.label "Ετικέτες">
+<!ENTITY dateField4.label "Ημερομηνία">
 <!ENTITY userAgentField4.label "User agent ">
 <!ENTITY referencesField4.label "Παραπομπές ">
 <!ENTITY messageIdField4.label "ID μηνύματος ">
