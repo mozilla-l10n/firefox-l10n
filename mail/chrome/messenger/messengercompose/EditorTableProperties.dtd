@@ -68,7 +68,7 @@
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Μέγεθος">
 <!ENTITY pixels.label                     "εικονοστοιχεία">
-<!ENTITY backgroundColor.label            "Χρώμα Φόντου:">
+<!ENTITY backgroundColor.label            "Χρώμα παρασκηνίου:">
 <!ENTITY backgroundColor.accessKey        "χ">
 <!ENTITY AlignLeft.label                  "Αριστερά">
 <!ENTITY AlignCenter.label                "Μέσο">

@@ -5,18 +5,14 @@
 otr-finger =
     .buttonlabelaccept = Κλείσιμο
     .title = Προηγούμενα αποτυπώματα OTR
-
 finger-intro = Αποτυπώματα κλειδιού OTR από προηγούμενες συζητήσεις με κρυπτογράφηση από άκρη σε άκρη.
-
 finger-screenName =
-    .label = Επικοινωνία
+    .label = Επαφή
 finger-verified =
     .label = Κατάσταση επαλήθευσης
 finger-fingerprint =
     .label = Δακτυλικό αποτύπωμα
-
 finger-remove =
     .label = Αφαίρεση επιλεγμένων
-
 finger-remove-all =
     .label = Αφαίρεση όλων
