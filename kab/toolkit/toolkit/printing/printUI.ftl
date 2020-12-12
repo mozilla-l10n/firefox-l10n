@@ -25,6 +25,9 @@ printui-range-start = Seg
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = Ɣer
+printui-page-custom-range-input =
+    .aria-label = Skcem ailal udmawan n yisebtar
+    .placeholder = m.d. 2-6, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Anɣalen
 printui-orientation = Taɣda
@@ -61,6 +64,7 @@ printui-system-dialog-link = Siggez s useqdec n udiwenni anagraw…
 printui-primary-button = Siggez
 printui-primary-button-save = Sekles
 printui-cancel-button = Sefsex
+printui-close-button = Mdel
 printui-loading = Aheyyi n teskant
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.

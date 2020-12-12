@@ -61,3 +61,7 @@ printpreview-homearrow-button =
     .title = Asebter amezwaru
 printpreview-previousarrow-button =
     .title = Asebter izrin
+printpreview-nextarrow-button =
+    .title = Asebter d-iteddun
+printpreview-endarrow-button =
+    .title = Asebter aneggaru
