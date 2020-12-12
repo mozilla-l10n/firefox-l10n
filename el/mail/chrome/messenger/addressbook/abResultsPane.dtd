@@ -14,7 +14,7 @@
 <!ENTITY _PhoneticName.accesskey               "ω">
 <!ENTITY NickName.label                        "Ψευδώνυμο">
 <!ENTITY NickName.accesskey                    "δ">
-<!ENTITY SecondEmail.label                     "Επιπρόσθετο Email">
+<!ENTITY SecondEmail.label                     "Επιπρόσθετο email">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Τμήμα">
 <!ENTITY Department.accesskey                  "μ">

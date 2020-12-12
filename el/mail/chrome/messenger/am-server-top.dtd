@@ -29,7 +29,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, αν είναι διαθέσιμη">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Μέθοδος πιστοποίησης:">
+<!ENTITY authMethod.label "Μέθοδος ταυτοποίησης:">
 <!ENTITY authMethod.accesskey "θ">
 <!ENTITY leaveOnServer.label "Φύλαξη μηνυμάτων στον διακομιστή">
 <!ENTITY leaveOnServer.accesskey "Φ">

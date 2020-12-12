@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY WindowTitle.label              "Επεξεργασία προηγμένων ιδιοτήτων">
-<!ENTITY AttName.label                  "Όνομα: ">
+<!ENTITY AttName.label                  "Όνομα:">
 <!ENTITY AttValue.label                 "Τιμή: ">
 <!ENTITY PropertyName.label             "Ιδιότητα:">
 <!ENTITY currentattributesfor.label     "Τρέχουσες ιδιότητες για: ">
