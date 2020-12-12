@@ -120,7 +120,7 @@ use-fixed-width-plain-checkbox =
 
 ## Language settings
 
-text-encoding-legend = Κωδικοποίηση χαρακτήρων
+text-encoding-legend = Κωδικοποίηση κειμένου
 text-encoding-description = Ρύθμιση της προεπιλεγμένης κωδικοποίησης χαρακτήρων για την αποστολή και λήψη αλληλογραφίας
 font-outgoing-email-label =
     .value = Εξερχόμενα:

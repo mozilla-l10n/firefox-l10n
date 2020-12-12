@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY toField4.label "Προς">
-<!ENTITY fromField4.label "Από ">
+<!ENTITY fromField4.label "Από">
 <!ENTITY senderField4.label "Αποστολέας">
 <!ENTITY author.label "Συντάκτης">
 <!ENTITY organizationField4.label "Οργανισμός ">
