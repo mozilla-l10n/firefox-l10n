@@ -498,7 +498,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = 赞助商网站
 home-prefs-shortcuts-header =
     .label = 快捷方式
-home-prefs-shortcuts-description = 您保存或访问的网站
+home-prefs-shortcuts-description = 您保存或访问过的网站
 home-prefs-shortcuts-by-option-sponsored =
     .label = 赞助商网站
 
