@@ -26,6 +26,9 @@ printui-range-start = З
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = по
+printui-page-custom-range-input =
+    .aria-label = Введіть власний діапазон сторінок
+    .placeholder = наприклад, 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Копії
 printui-orientation = Орієнтація
