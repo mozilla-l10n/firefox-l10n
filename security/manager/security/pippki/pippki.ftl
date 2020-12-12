@@ -7,7 +7,7 @@ password-quality-meter = Μέτρηση ποιότητας πιστοποιητ�
 ## Change Password dialog
 
 change-password-window =
-    .title = Αλλαγή κύριου κωδικού
+    .title = Αλλαγή κύριου κωδικού πρόσβασης
 change-device-password-window =
     .title = Αλλαγή κωδικού πρόσβασης
 # Variables:
