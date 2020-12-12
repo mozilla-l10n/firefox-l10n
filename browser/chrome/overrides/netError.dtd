@@ -52,7 +52,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Άνοιγμα σελίδας σύνδεσης δικτύου">
 
-<!ENTITY malformedURI.pageTitle "Άκυρο URL">
+<!ENTITY malformedURI.pageTitle "Μη έγκυρο URL">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 

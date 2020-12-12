@@ -26,7 +26,7 @@ config-focus-search-2 =
 ## These strings are used for column headers
 
 config-pref-column =
-    .label = Προτιμήσεις
+    .label = Όνομα προτίμησης
 config-lock-column =
     .label = Κατάσταση
 config-type-column =
@@ -37,7 +37,7 @@ config-value-column =
 ## These strings are used for tooltips
 
 config-pref-column-header =
-    .tooltip = Πατήστε για ταξινόμηση
+    .tooltip = Κάντε κλικ για ταξινόμηση
 config-column-chooser =
     .tooltip = Πατήστε να επιλέξετε τις προς εμφάνιση στήλες
 
