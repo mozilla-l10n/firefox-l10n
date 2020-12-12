@@ -13,7 +13,7 @@
 <!ENTITY locationpage.description         "Συμπληρώστε τα στοιχεία που χρειάζονται για πρόσβαση στο απομακρυσμένο ημερολόγιό σας" >
 <!ENTITY locationpage.login.description   "Προαιρετικά: εισαγάγετε όνομα χρήστη και κωδικό πρόσβασης" >
 <!ENTITY locationpage.username.label      "Όνομα χρήστη:" >
-<!ENTITY locationpage.password.label      "Συνθηματικό:" >
+<!ENTITY locationpage.password.label      "Κωδικός πρόσβασης:" >
 
 <!ENTITY custompage.shortdescription  "Προσαρμόστε το ημερολόγιό σας" >
 <!ENTITY custompage.longdescription   "Μπορείτε να δώσετε στο ημερολόγιο σας ένα ψευδώνυμο και να χρωματίσετε τα γεγονότα από αυτό το ημερολόγιο." >
