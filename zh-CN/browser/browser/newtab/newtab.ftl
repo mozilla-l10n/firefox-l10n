@@ -210,7 +210,7 @@ newtab-error-fallback-refresh-link = 刷新页面以重试。
 ## Customization Menu
 
 newtab-custom-shortcuts-title = 快捷方式
-newtab-custom-shortcuts-subtitle = 您保存或访问的网站
+newtab-custom-shortcuts-subtitle = 您保存或访问过的网站
 newtab-custom-row-selector =
     { $num ->
        *[other] { $num } 行
