@@ -207,3 +207,7 @@ newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }ii
 
 newtab-error-fallback-info = Hups, jotain meni vikaan tätä sisältöä ladattaessa.
 newtab-error-fallback-refresh-link = Yritä uudestaan päivittämällä sivu.
+
+## Customization Menu
+
+newtab-custom-close-button = Sulje
