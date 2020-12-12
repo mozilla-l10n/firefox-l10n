@@ -210,3 +210,28 @@ newtab-pocket-cta-text = Зберігайте улюблені статті в {
 
 newtab-error-fallback-info = Йой, під час завантаження цього вмісту щось пішло не так.
 newtab-error-fallback-refresh-link = Оновіть сторінку, щоб спробувати знову.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Ярлики
+newtab-custom-shortcuts-subtitle = Сайти, які ви зберігаєте чи відвідуєте
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } рядок
+        [few] { $num } рядки
+       *[many] { $num } рядків
+    }
+newtab-custom-sponsored-sites = Спонсоровані ярлики
+newtab-custom-pocket-title = Рекомендовано { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Добірні матеріали від { -pocket-brand-name }, що входить до родини { -brand-product-name }
+newtab-custom-pocket-sponsored = Матеріали від спонсорів
+newtab-custom-recent-title = Недавня активність
+newtab-custom-recent-subtitle = Добірка недавніх сайтів та вмісту
+newtab-custom-close-button = Закрити
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Фрагменти
+newtab-custom-snippets-subtitle = Поради та новини від { -vendor-short-name } та { -brand-product-name }
+newtab-custom-settings = Керувати іншими налаштуваннями
