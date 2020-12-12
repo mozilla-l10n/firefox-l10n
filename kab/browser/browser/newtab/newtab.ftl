@@ -207,3 +207,10 @@ newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Inegzumen
+newtab-custom-close-button = Mdel
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Tiwzillin
+newtab-custom-settings = Sefrek ugar n yiɣewwaṛen

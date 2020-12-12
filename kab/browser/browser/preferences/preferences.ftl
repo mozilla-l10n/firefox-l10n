@@ -500,6 +500,8 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Ismal i tettwaliḍ aṭas
 home-prefs-topsites-by-option-sponsored =
     .label = Ismal ifellay yettwarefden
+home-prefs-shortcuts-header =
+    .label = Inegzumen
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -515,8 +517,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Tiqṣidin yettwarefden
 home-prefs-highlights-header =
     .label = Asebrureq
-home-prefs-recent-activity-header =
-    .label = Armud n melmi kan
 home-prefs-highlights-description = Tafrant n yismal i teskelseḍ neɣ i twalaḍ
 home-prefs-highlights-option-visited-pages =
     .label = isebtar yettwarzan
@@ -526,6 +526,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Isadaren imaynuten
 home-prefs-highlights-option-saved-to-pocket =
     .label = Isebtar yettwaḥerzen ar { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Armud n melmi kan
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
