@@ -18,7 +18,7 @@
 <!ENTITY TextAreaDisabled.accessKey "π">
 <!ENTITY TextAreaTabIndex.label "Ευρετήριο καρτέλας:">
 <!ENTITY TextAreaTabIndex.accessKey "λ">
-<!ENTITY TextAreaAccessKey.label "Κλειδί πρόσβασης:">
+<!ENTITY TextAreaAccessKey.label "Πλήκτρο συντόμευσης:">
 <!ENTITY TextAreaAccessKey.accessKey "β">
 <!ENTITY InitialText.label "Αρχικό κείμενο:">
 <!ENTITY InitialText.accessKey "χ">

@@ -4,7 +4,7 @@
 
 <!-- extracted from AccountManager.xhtml -->
 
-<!ENTITY accountManagerTitle.label "Ρυθμίσεις λογαριασμών αλληλογραφίας">
+<!ENTITY accountManagerTitle.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY  accountManagerCloseButton.label "Κλείσιμο">
 
 <!ENTITY accountActionsButton.label "Ενέργειες λογαριασμού">
