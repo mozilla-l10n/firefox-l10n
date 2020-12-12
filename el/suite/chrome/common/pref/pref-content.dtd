@@ -10,6 +10,8 @@
 <!ENTITY siteIcons.label                        "Εικονίδια ιστοσελίδων">
 <!ENTITY useSiteIcons.label                     "Εμφάνιση εικονιδίων ιστοσελίδων">
 <!ENTITY useSiteIcons.accesskey                 "Ε">
+<!ENTITY useFavIcons2.label                     "Απόπειρα χρήσης εικονιδίων διακομιστών όταν η σελίδα δεν ορίζει εικονίδιο">
+<!ENTITY useFavIcons2.accesskey                 "χ">
 
 <!ENTITY scrolling.label                        "Κύλιση">
 <!ENTITY useAutoScroll.label                    "Χρήση αυτόματης κύλισης">
@@ -40,6 +42,7 @@
 
 <!ENTITY allowHWAccel.label                     "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey                 "ρ">
+<!ENTITY blockAutoRefresh.label                 "Προειδοποίηση όταν οι ιστοσελίδες προσπαθούν να ανακατευθύνουν ή να φορτώσουν ξανά τη σελίδα">
 <!ENTITY blockAutoRefresh.accesskey             "Π">
 
 <!ENTITY showZoomStatusPanel.label              "Εμφάνιση κουμπιών ζουμ στη γραμμή κατάστασης">
