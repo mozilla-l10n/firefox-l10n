@@ -138,7 +138,7 @@
 <!ENTITY  event.menu.options.priority.normal.accesskey        "Κ">
 <!ENTITY  event.menu.options.priority.high.label              "Υψηλή">
 <!ENTITY  event.menu.options.priority.high.accesskey          "Υ">
-<!ENTITY  event.menu.options.privacy.label                    "Ιδιωτικότητα">
+<!ENTITY  event.menu.options.privacy.label                    "Απόρρητο">
 <!ENTITY  event.menu.options.privacy.accesskey                "Ι">
 <!ENTITY  event.menu.options.privacy.public.label             "Δημόσιο συμβάν">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "Δ">
@@ -169,7 +169,7 @@
 <!ENTITY  event.toolbar.saveandclose.label                "Αποθήκευση και κλείσιμο">
 <!ENTITY  event.toolbar.delete.label                      "Διαγραφή">
 <!ENTITY  event.toolbar.attendees.label                   "Πρόσκληση συμμετεχόντων">
-<!ENTITY  event.toolbar.privacy.label                     "Ιδιωτικότητα">
+<!ENTITY  event.toolbar.privacy.label                     "Απόρρητο">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "Αποθήκευση">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Αποθήκευση και κλείσιμο">

@@ -5,7 +5,7 @@
 <!ENTITY reminderdialog.title                              "Ορισμός υπενθυμίσεων">
 <!ENTITY reminder.add.label                                "Προσθήκη">
 <!ENTITY reminder.add.accesskey                            "Π">
-<!ENTITY reminder.remove.label                             "Κατάργηση">
+<!ENTITY reminder.remove.label                             "Αφαίρεση">
 <!ENTITY reminder.remove.accesskey                         "Κ">
 
 <!ENTITY reminder.reminderDetails.label                    "Λεπτομέρειες υπενθύμισης">
