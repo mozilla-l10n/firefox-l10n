@@ -97,7 +97,7 @@
 <!ENTITY advancedButton.tooltip                         "Σύνθετη αναζήτηση διεύθυνσης">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Ευρετήρια διευθύνσεων">
+<!ENTITY dirTreeHeader.label                            "Ευρετήρια">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
