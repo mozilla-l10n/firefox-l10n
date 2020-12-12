@@ -17,7 +17,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "θ">
 
 <!ENTITY retention.label "Πολιτική διατήρησης">
-<!ENTITY retentionUseAccount.label  "Χρήση των ρυθμίσεων του λογαριασμού μου">
+<!ENTITY retentionUseAccount.label  "Χρήση ρυθμίσεων λογαριασμού">
 <!ENTITY retentionUseAccount.accesskey "ρ">
 <!ENTITY daysOld.label "ημέρες παλιά">
 <!ENTITY message.label "μηνύματα">
@@ -58,7 +58,7 @@
 <!ENTITY folderSharingTab.label                  "Κοινή χρήση">
 <!ENTITY privileges.button.label                 "Προνόμια...">
 <!ENTITY privileges.button.accesskey             "ν">
-<!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα προνόμια:">
+<!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα δικαιώματα:">
 <!ENTITY folderOtherUsers.label                  "Άλλα άτομα με πρόσβαση σε αυτό το φάκελο:">
 <!ENTITY folderType.label                        "Τύπος φακέλου:">
 

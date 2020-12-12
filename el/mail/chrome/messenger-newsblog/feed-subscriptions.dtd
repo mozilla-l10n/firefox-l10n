@@ -12,7 +12,7 @@
 <!ENTITY feedLocation.label          "URL ροής:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation2.placeholder   "Εισάγετε ένα έγκυρο URL ροής">
-<!ENTITY locationValidate.label      "Επαλήθευση">
+<!ENTITY locationValidate.label      "Επικύρωση">
 <!ENTITY validateText.label          "Έλεγχος επαλήθευσης και ανάκτηση έγκυρου url.">
 
 <!ENTITY feedFolder.label            "Αποθήκευση άρθρων σε:">
