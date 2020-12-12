@@ -64,6 +64,7 @@
 <!ENTITY incomingUsername.label "Όνομα χρήστη:">
 <!ENTITY incomingUsername.accesskey "χ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του διακομιστή συζητήσεων (NNTP) σας (για παράδειγμα, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Διακομιστής ομάδας συζήτησης:">
 <!ENTITY newsServerLabel.accesskey "Δ">
 
@@ -105,6 +106,7 @@
 
 <!ENTITY accnameTitle.label "Όνομα λογαριασμού">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Εισάγετε το όνομα με το οποίο θέλετε να αναφέρεστε σε αυτό τον λογαριασμό (για παράδειγμα, &quot;Εργασιακός λογαριασμός&quot;, &quot;Οικιακός λογαριασμός&quot; ή &quot;Λογαριασμός συζητήσεων&quot;).">
 <!ENTITY accnameLabel.label "Όνομα λογαριασμού:">
 <!ENTITY accnameLabel.accesskey "Ό">
 
@@ -118,6 +120,7 @@
 <!ENTITY newsServerNamePrefix.label "Όνομα διακομιστή ειδήσεων (NNTP):">
 <!ENTITY downloadOnLogin.label "Λήψη μηνυμάτων τώρα">
 <!ENTITY downloadOnLogin.accesskey "Λ">
+<!ENTITY deferStorageDesc.label "Ενεργοποιήστε αυτή την επιλογή για αποθήκευση email για αυτό τον λογαριασμό στα Γενικά εισερχόμενα των τοπικών φακέλων. Διαφορετικά, ο λογαριασμός εμφανίζεται ως λογαριασμός ανώτερου επιπέδου και τα email του αποθηκεύονται στον δικό τους κατάλογο.">
 <!ENTITY deferStorage.label "Χρήση γενικών εισερχομένων (αποθήκευση email σε τοπικούς φακέλους)">
 <!ENTITY deferStorage.accesskey "γ">
 <!ENTITY clickFinish.label 'Κάντε κλικ στο "Τέλος" για αποθήκευση ρυθμίσεων και κλείσιμο του Βοηθού λογαριασμών.'>
