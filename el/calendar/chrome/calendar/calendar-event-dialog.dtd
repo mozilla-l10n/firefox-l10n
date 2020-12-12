@@ -10,7 +10,7 @@
 <!ENTITY newevent.from.label                "Από" >
 <!ENTITY newevent.to.label                  "Έως" >
 
-<!ENTITY newevent.status.label                    "Κατάσταση" >
+<!ENTITY newevent.status.label                    "Κατάσταση" >
 <!ENTITY newevent.status.accesskey                "Κ" >
 <!ENTITY newevent.eventStatus.none.label          "Μη καθορισμένη" >
 <!ENTITY newevent.eventStatus.none.accesskey      "Μ" >
@@ -217,7 +217,7 @@
 <!ENTITY event.to.accesskey                               "ξ">
 <!ENTITY task.to.label                                    "Προθεσμία:" >
 <!ENTITY task.to.accesskey                                "Π">
-<!ENTITY task.status.label                                "Κατάσταση:" >
+<!ENTITY task.status.label                                "Κατάσταση:" >
 <!ENTITY task.status.accesskey                            "Κ">
 <!ENTITY event.repeat.label                               "Επανάληψη:" >
 <!ENTITY event.repeat.accesskey                           "ψ">
