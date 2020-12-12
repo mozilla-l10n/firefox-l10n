@@ -25,7 +25,7 @@
 <!ENTITY tablePadding.accessKey           "Γ">
 <!ENTITY tablePxBetwCells.label           "εικονοστοιχεία μεταξύ κελιών">
 <!ENTITY tablePxBetwBrdrCellContent.label "εικονοστοιχεία μεταξύ  πλαισίου κελιών και περιεχομένου">
-<!ENTITY tableAlignment.label             "Στοίχιση Πίνακα">
+<!ENTITY tableAlignment.label             "Στοίχιση πίνακα:">
 <!ENTITY tableAlignment.accessKey         "ο">
 <!ENTITY tableCaption.label               "Λεζάντα:">
 <!ENTITY tableCaption.accessKey           "ζ">

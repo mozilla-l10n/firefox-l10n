@@ -6,7 +6,7 @@
 
 <!ENTITY Settings.label "Ρυθμίσεις">
 
-<!ENTITY TextAreaName.label "Όνομα Πεδίου:">
+<!ENTITY TextAreaName.label "Όνομα πεδίου:">
 <!ENTITY TextAreaName.accessKey "δ">
 <!ENTITY TextAreaRows.label "Γραμμές:">
 <!ENTITY TextAreaRows.accessKey "μ">

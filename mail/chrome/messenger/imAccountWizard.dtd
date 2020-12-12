@@ -27,6 +27,6 @@
 <!ENTITY accountProxySettings.change.label     "Αλλαγή…">
 <!ENTITY accountProxySettings.change.accessKey "γ">
 
-<!ENTITY accountSummaryTitle.label   "Σύνοψη">
+<!ENTITY accountSummaryTitle.label   "Περίληψη">
 <!ENTITY accountSummaryInfo.label    "Μια σύνοψη των πληροφοριών που έχετε εισάγει εμφανίζεται παρακάτω. Ελέγξτε τις πληροφορίες πριν να δημιουργηθεί ο λογαριασμός.">
 <!ENTITY accountSummary.connectNow.label "Σύνδεση τώρα σε αυτόν το λογαριασμό.">
