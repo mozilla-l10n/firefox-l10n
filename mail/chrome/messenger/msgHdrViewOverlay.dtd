@@ -20,7 +20,7 @@
 <!ENTITY referencesField4.label "Παραπομπές ">
 <!ENTITY messageIdField4.label "ID μηνύματος ">
 <!ENTITY inReplyToField4.label "Σε απάντηση στο">
-<!ENTITY originalWebsite4.label "Ιστοσελίδα ">
+<!ENTITY originalWebsite4.label "Ιστοσελίδα">
 
 <!ENTITY hdrArchiveButton1.label "Αρχειοθέτηση">
 <!ENTITY hdrArchiveButton1.tooltip "Αρχειοθέτηση μηνύματος">

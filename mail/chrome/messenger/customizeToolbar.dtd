@@ -10,7 +10,7 @@
 <!ENTITY icons.label              "Εικονίδια">
 <!ENTITY text.label               "Κείμενο">
 <!ENTITY iconsBesideText.label    "Εικονίδια δίπλα στο κείμενο">
-<!ENTITY useSmallIcons.label      "Χρήση Μικρών Εικονιδίων">
+<!ENTITY useSmallIcons.label      "Χρήση μικρών εικονιδίων">
 <!ENTITY restoreDefaultSet.label  "Επαναφορά προεπιλεγμένου σετ">
 <!ENTITY showTitlebar2.label      "Γραμμή τίτλου">
 <!ENTITY extraDragSpace2.label    "Χώρος μεταφοράς">
