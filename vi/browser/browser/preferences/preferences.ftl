@@ -488,6 +488,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Những trang bạn truy cập nhiều nhất
 home-prefs-topsites-by-option-sponsored =
     .label = Các trang hàng đầu được tài trợ
+home-prefs-shortcuts-header =
+    .label = Lối tắt
+home-prefs-shortcuts-description = Các trang web bạn lưu hoặc truy cập
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Các lối tắt được tài trợ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -495,6 +500,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Được đề xuất bởi { $provider }
 home-prefs-recommended-by-description-update = Nội dung đặc biệt trên web, được quản lý bởi { $provider }
+home-prefs-recommended-by-description-new = Nội dung đặc biệt do { $provider }, một phần của { -brand-product-name }, quản lý
 
 ##
 
@@ -503,8 +509,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Bài viết quảng cáo
 home-prefs-highlights-header =
     .label = Nổi bật
-home-prefs-recent-activity-header =
-    .label = Hoạt động gần đây
 home-prefs-highlights-description = Một lựa chọn các trang web mà bạn đã lưu hoặc truy cập
 home-prefs-highlights-option-visited-pages =
     .label = Trang đã truy cập
@@ -514,13 +518,17 @@ home-prefs-highlights-option-most-recent-download =
     .label = Tải xuống gần đây nhất
 home-prefs-highlights-option-saved-to-pocket =
     .label = Trang đã được lưu vào { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Hoạt động gần đây
+home-prefs-recent-activity-description = Tuyển chọn các trang và nội dung gần đây
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
-    .label = Đoạn
+    .label = Ghi chú nhỏ
 home-prefs-snippets-description = Cập nhật từ { -vendor-short-name } và { -brand-product-name }
+home-prefs-snippets-description-new = Mẹo và tin tức từ { -vendor-short-name } và { -brand-product-name }
 home-prefs-sections-rows-option =
     .label = { $num } hàng
 

@@ -8,6 +8,9 @@
 newtab-page-title = Thẻ mới
 newtab-settings-button =
     .title = Tùy biến trang thẻ mới
+newtab-personalize-button-label = Cá nhân hóa
+    .title = Cá nhân hóa thẻ mới
+    .aria-label = Cá nhân hóa thẻ mới
 
 ## Search box component.
 
@@ -207,3 +210,26 @@ newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -p
 
 newtab-error-fallback-info = Rất tiếc, đã xảy ra lỗi khi tải nội dung này.
 newtab-error-fallback-refresh-link = Thử làm mới lại trang.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Lối tắt
+newtab-custom-shortcuts-subtitle = Các trang web bạn lưu hoặc truy cập
+newtab-custom-row-selector =
+    { $num ->
+       *[other] { $num } hàng
+    }
+newtab-custom-sponsored-sites = Các lối tắt được tài trợ
+newtab-custom-pocket-title = Được đề xuất bởi { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Nội dung đặc biệt do { -pocket-brand-name }, một phần của { -brand-product-name }, quản lý
+newtab-custom-pocket-sponsored = Câu chuyện được tài trợ
+newtab-custom-recent-title = Hoạt động gần đây
+newtab-custom-recent-subtitle = Tuyển chọn các trang và nội dung gần đây
+newtab-custom-close-button = Đóng
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Ghi chú nhỏ
+newtab-custom-snippets-subtitle = Mẹo và tin tức từ { -vendor-short-name } và { -brand-product-name }
+newtab-custom-settings = Quản lý các cài đặt khác

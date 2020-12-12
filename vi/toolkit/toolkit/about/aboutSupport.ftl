@@ -185,6 +185,32 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Module của bên thứ ba
+support-third-party-modules-module = Tập tin module
+support-third-party-modules-version = Phiên bản tập tin
+support-third-party-modules-vendor = Thông tin nhà cung cấp
+support-third-party-modules-occurrence = Tần suất xảy ra
+support-third-party-modules-process = Loại tiến trình & ID
+support-third-party-modules-thread = Luồng
+support-third-party-modules-base = Địa chỉ Imagebase
+support-third-party-modules-uptime = Thời gian hoạt động của tiến trình (mili giây)
+support-third-party-modules-duration = Thời lượng tải (mili giây)
+support-third-party-modules-empty = Không có module của bên thứ ba được tải.
+support-third-party-modules-no-value = (Không có giá trị)
+support-third-party-modules-button-open =
+    .title = Mở vị trí tập tin…
+support-third-party-modules-expand =
+    .title = Hiển thị thông tin chi tiết
+support-third-party-modules-collapse =
+    .title = Thu gọn thông tin chi tiết
+support-third-party-modules-unsigned-icon =
+    .title = Module này chưa được ký
+support-third-party-modules-folder-icon =
+    .title = Mở vị trí tập tin…
+support-third-party-modules-down-icon =
+    .title = Hiển thị thông tin chi tiết
+support-third-party-modules-up-icon =
+    .title = Thu gọn thông tin chi tiết
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Báo cáo lỗi trong { $days } ngày gần đây
