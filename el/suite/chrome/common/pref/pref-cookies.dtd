@@ -33,6 +33,7 @@
 <!ENTITY days.label                     "ημέρες">
 
 <!ENTITY manageCookies.label            "Διαχείριση cookies και ιστοσελίδων">
+<!ENTITY manageCookiesDescription.label "Σας επιτρέπει να δείτε και να διαχειριστείτε αποθηκευμένα cookies και ρυθμίσεις ανά ιστοσελίδα για αποδοχή και απόρριψη cookies. Οι ρυθμίσεις ανά ιστοσελίδα θα αντικαταστήσουν τις παραπάνω ρυθμίσεις.">
 
 <!ENTITY viewCookies.label              "Διαχείριση cookies">
 <!ENTITY viewCookies.accesskey          "Δ">
