@@ -8,6 +8,9 @@
 newtab-page-title = Novo separador
 newtab-settings-button =
     .title = Personalizar a sua página de novo separador
+newtab-personalize-button-label = Personalizar
+    .title = Personalizar novo separador
+    .aria-label = Personalizar novo separador
 
 ## Search box component.
 
@@ -207,3 +210,6 @@ newtab-pocket-cta-text = Guarde as histórias que adora no { -pocket-brand-name 
 
 newtab-error-fallback-info = Oops, algo correu mal ao carregar este conteúdo.
 newtab-error-fallback-refresh-link = Atualize a página para tentar novamente.
+
+## Customization Menu
+
