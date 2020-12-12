@@ -14,7 +14,7 @@
 
 <!ENTITY accountPasswordTitle.label   "Κωδικός">
 <!ENTITY accountPasswordInfo.label    "Παρακαλώ εισάγετε τον κωδικό σας στο παρακάτω πλαίσιο.">
-<!ENTITY accountPasswordField.label   "Κωδικός:">
+<!ENTITY accountPasswordField.label   "Κωδικός πρόσβασης:">
 <!ENTITY accountPasswordManager.label "Ο κωδικός που εισαγάγατε εδώ θα αποθηκευτεί στη Διαχείριση κωδικών. Αφήστε αυτό το πλαίσιο κενό αν θέλετε να εισάγετε τον κωδικό σας κάθε φορά που θα συνδέεστε σε αυτόν τον λογαριασμό.">
 
 <!ENTITY accountAdvancedTitle.label   "Σύνθετες επιλογές">

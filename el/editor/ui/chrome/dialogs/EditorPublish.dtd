@@ -57,9 +57,9 @@
 <!ENTITY username.label               "Όνομα χρήστη:">
 <!ENTITY username.accesskey           "μ">
 <!ENTITY username.tooltip             "Το όνομα χρήστη με το οποίο συνδέεστε με τον ISP σας ή την υπηρεσία φιλοξενίας ιστοσελίδων">
-<!ENTITY password.label               "Κωδικός:">
+<!ENTITY password.label               "Κωδικός πρόσβασης:">
 <!ENTITY password.accesskey           "δ">
 <!ENTITY password.tooltip             "Τον κωδικό που σχετίζεται με το όνομα χρήστη">
-<!ENTITY savePassword.label           "Αποθήκευση κωδικού">
+<!ENTITY savePassword.label           "Αποθήκευση κωδικού πρόσβασης">
 <!ENTITY savePassword.accesskey       "σ">
 <!ENTITY savePassword.tooltip         "Επιλέξτε αυτό για την ασφαλή αποθήκευση του κωδικού σας με τη χρήση της διαχείρισης κωδικών.">
