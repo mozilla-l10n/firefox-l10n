@@ -232,3 +232,5 @@ newtab-custom-close-button = Slute
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Snippets
+newtab-custom-snippets-subtitle = Tips en nijs fan { -vendor-short-name } en { -brand-product-name }
+newtab-custom-settings = Mear ynstellingen beheare
