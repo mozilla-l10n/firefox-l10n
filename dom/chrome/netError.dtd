@@ -16,7 +16,7 @@
 <!ENTITY dnsNotFound.title "Σφάλμα εύρεσης διεύθυνσης">
 <!ENTITY dnsNotFound.longDesc " Η διεύθυνση (URL) δεν αντιστοιχεί σε κάποια γνωστή σελίδα και δεν μπορεί να φορτωθεί.">
 
-<!ENTITY fileNotFound.title "Σφάλμα εύρεσης αρχείου">
+<!ENTITY fileNotFound.title "Το αρχείο δεν βρέθηκε">
 <!ENTITY fileNotFound.longDesc "Το αρχείο που καθορίζεται από τη διεύθυνση (URL) δεν βρέθηκε. Ελέγξτε ότι το αρχείο υπάρχει και ότι έχετε τα απαραίτητα δικαιώματα να το εμφανίσετε.">
 
 <!ENTITY fileAccessDenied.title "Άρνηση πρόσβασης στο αρχείο">

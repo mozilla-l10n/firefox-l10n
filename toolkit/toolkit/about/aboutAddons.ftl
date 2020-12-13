@@ -221,8 +221,8 @@ addon-install-from-file = Εγκατάσταση πρόσθετου από αρ�
     .accesskey = γ
 addon-install-from-file-dialog-title = Επιλέξτε πρόσθετο για εγκατάσταση
 addon-install-from-file-filter-name = Πρόσθετα
-addon-open-about-debugging = Αποσφαλμάτωση πρόσθετων
-    .accesskey = θ
+addon-open-about-debugging = Εντοπισμός σφαλμάτων προσθέτων
+    .accesskey = π
 
 ## Extension shortcut management
 
@@ -382,12 +382,6 @@ addon-detail-private-browsing-disallow = Απόρριψη
 addon-badge-recommended2 =
     .title = Το { -brand-product-name } προτείνει μόνο επεκτάσεις που πληρούν τα πρότυπα ασφαλείας και επιδόσεών μας
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Αυτή η επέκταση αναπτύχθηκε από τους δημιουργούς του { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Ο κώδικας αυτής της επέκτασης έχει ελεγχθεί για ασφάλεια
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Αυτή είναι μια επίσημη επέκταση που αναπτύχθηκε από τους δημιουργούς του { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
