@@ -1141,6 +1141,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Siti principali
     .accesskey = a
+addressbar-locbar-engines-option =
+    .label = Motori di ricerca
+    .accesskey = M
 
 addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
 
