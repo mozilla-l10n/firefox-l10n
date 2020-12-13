@@ -210,3 +210,25 @@ newtab-pocket-cta-text = Bewarje de ferhalen dy't jo ynteressant fine yn { -pock
 
 newtab-error-fallback-info = Oeps, der is wat misgien by it laden fan dizze ynhâld.
 newtab-error-fallback-refresh-link = Fernij de side om it opnij te probearjen.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Fluchkeppelingen
+newtab-custom-shortcuts-subtitle = Bewarre of besochte websites
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rige
+       *[other] { $num } rigen
+    }
+newtab-custom-sponsored-sites = Sponsore fluchkeppelingen
+newtab-custom-pocket-title = Oanrekommandearre troch { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Utsûnderlike ynhâld, gearstald troch { -pocket-brand-name }, ûnderdiel fan de { -brand-product-name }-famylje
+newtab-custom-pocket-sponsored = Sponsore ferhalen
+newtab-custom-recent-title = Resinte aktiviteit
+newtab-custom-recent-subtitle = In seleksje fan resinte websites en ynhâld
+newtab-custom-close-button = Slute
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Snippets
