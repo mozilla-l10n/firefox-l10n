@@ -139,7 +139,7 @@
 <!ENTITY  event.menu.options.priority.high.label              "Υψηλή">
 <!ENTITY  event.menu.options.priority.high.accesskey          "Υ">
 <!ENTITY  event.menu.options.privacy.label                    "Απόρρητο">
-<!ENTITY  event.menu.options.privacy.accesskey                "Ι">
+<!ENTITY  event.menu.options.privacy.accesskey                "Α">
 <!ENTITY  event.menu.options.privacy.public.label             "Δημόσιο συμβάν">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "Δ">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Αποκάλυψη μόνο ώρας και ημερομηνίας">
