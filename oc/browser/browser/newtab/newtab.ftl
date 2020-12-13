@@ -210,6 +210,7 @@ newtab-error-fallback-refresh-link = Actualizatz la pagina per tornar ensajar.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Acorchis
+newtab-custom-shortcuts-subtitle = Los sites qu’enregistratz o consultatz
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } linha
@@ -217,3 +218,4 @@ newtab-custom-row-selector =
     }
 newtab-custom-recent-title = Activitat recenta
 newtab-custom-close-button = Tampar
+newtab-custom-settings = Gerir mai de paramètres
