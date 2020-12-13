@@ -26,3 +26,6 @@ carddav-refreshinterval-hours-value =
             [few] каждые { $hours } часа
            *[many] каждые { $hours } часов
         }
+carddav-readonly-label =
+    .label = Только для чтения
+    .accesskey = е
