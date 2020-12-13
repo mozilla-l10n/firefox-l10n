@@ -57,4 +57,5 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Última página
-
+printpreview-endarrow-button =
+    .title = Última página

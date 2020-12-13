@@ -8,6 +8,9 @@
 newtab-page-title = Nueva pestaña
 newtab-settings-button =
     .title = Personalizar la página Nueva pestaña
+newtab-personalize-button-label = Personalizar
+    .title = Personalizar la nueva pestaña
+    .aria-label = Personalizar la nueva pestaña
 
 ## Search box component.
 
@@ -203,3 +206,21 @@ newtab-pocket-cta-text = Guarde en { -pocket-brand-name } las historias que le g
 
 newtab-error-fallback-info = Lo sentimos, algo salió mal al cargar el contenido.
 newtab-error-fallback-refresh-link = Recargue la página e inténtelo de nuevo.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Accesos directos
+newtab-custom-shortcuts-subtitle = Sitios que guarda o visita
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } fila
+       *[other] { $num } filas
+    }
+newtab-custom-sponsored-sites = Accesos directos patrocinados
+newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Contenido excepcional seleccionado por { -pocket-brand-name }, parte de la familia { -brand-product-name }
+newtab-custom-recent-title = Actividad reciente
+newtab-custom-recent-subtitle = Una selección de sitios y contenidos recientes
+newtab-custom-close-button = Cerrar
+newtab-custom-snippets-subtitle = Consejos y noticias de { -vendor-short-name } y { -brand-product-name }
+newtab-custom-settings = Administrar más ajustes
