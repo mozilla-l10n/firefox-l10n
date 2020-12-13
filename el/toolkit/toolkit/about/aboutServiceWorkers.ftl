@@ -6,10 +6,9 @@
 ### The term "Service Workers" and "Workers" should not be translated
 
 about-service-workers-title = Σχετικά με τα Service Workers
-about-service-workers-main-title = Εγγεγραμμένα Service Workers
+about-service-workers-main-title = Εγγεγραμμένα service worker
 about-service-workers-warning-not-enabled = Τα Service Workers δεν είναι ενεργοποιημένα.
 about-service-workers-warning-no-service-workers = Κανένα εγγεγραμμένο Service Worker.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Όνομα ενεργής προσωρινής μν�
 waiting-cache-name = <strong>Όνομα προσωρινής μνήμης σε αναμονή:</strong> { $name }
 push-end-point-waiting = <strong>Σημείο τερματισμού:</strong> { waiting }
 push-end-point-result = <strong>Σημείο τερματισμού:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Ενημέρωση
-
 unregister-button = Διαγραφή
-
 unregister-error = Απέτυχε η κατάργηση αυτού του Service Worker.
-
 waiting = Σε αναμονή…
