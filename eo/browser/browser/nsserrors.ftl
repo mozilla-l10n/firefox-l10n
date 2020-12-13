@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Okazis eraro dum la konekto al { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Erarkodo: { $error }
-
 psmerr-ssl-disabled = Ne eblas konektiĝi sekure ĉar la protokolo SSL estis malaktivigita.
 psmerr-ssl2-disabled = Ne eblas konektiĝi sekure ĉar la retejo uzas malnovan, nesekuran version de la protokolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Vi ricevis nevalidan atestilon.  Bonvolu kontakti la administranton de la servilo aŭ la sendinton de la retpoŝto kaj doni al ili la jenan informon:
     
     Via atestilo enhavas la saman serian numeron de alia atestilo eldonita de la atestila aŭtoritato.  Bonvolu akiri novan atestilon kiu enhavas unikan serian numeron.
-
 ssl-error-export-only-server = Ne eblas komunikiĝi sekure.  La paro ne kapablas uzi altgradan ĉifradon.
 ssl-error-us-only-server = Ne eblas komunikiĝi sekure.  La paro postulas altgradan ĉifradon kiu ne estas subtenata.
 ssl-error-no-cypher-overlap = Ne eblas komunikiĝi sekure kun la paro: neniu komuna ĉifra algoritmo.
@@ -267,10 +264,10 @@ sec-error-retry-old-password = Old password entered incorrectly.  Please try aga
 sec-error-bad-nickname = Certificate nickname already in use.
 sec-error-not-fortezza-issuer = Peer FORTEZZA chain has a non-FORTEZZA Certificate.
 sec-error-cannot-move-sensitive-key = A sensitive key cannot be moved to the slot where it is needed.
-sec-error-js-invalid-module-name = Nevalida nomo de programono.
+sec-error-js-invalid-module-name = Nevalida nomo de modulo.
 sec-error-js-invalid-dll = Invalid module path/filename
-sec-error-js-add-mod-failure = Ne eblas aldoni la programonon
-sec-error-js-del-mod-failure = Ne eblas forigi programonon
+sec-error-js-add-mod-failure = Ne eblas aldoni la modulom
+sec-error-js-del-mod-failure = Ne eblas forigi modulon
 sec-error-old-krl = New KRL is not later than the current one.
 sec-error-ckl-conflict = New CKL has different issuer than current CKL.  Delete current CKL.
 sec-error-cert-not-in-name-space = The Certifying Authority for this certificate is not permitted to issue a certificate with this name.

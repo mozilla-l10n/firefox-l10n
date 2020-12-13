@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Viaj plej vizititaj retejoj
 home-prefs-topsites-by-option-sponsored =
     .label = Patronitaj ĉefaj retejoj
+home-prefs-shortcuts-header =
+    .label = Ŝparvojoj
+home-prefs-shortcuts-description = Retejoj konservitaj aŭ vizititaj de vi
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Patronitaj ŝparvojoj
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Rekomendita de { $provider }
 home-prefs-recommended-by-description-update = Eksterordinara enhavo el la reto, reviziita de { $provider }
+home-prefs-recommended-by-description-new = Eksterordinara  enhavo reviziita de { $provider }, parto de la familio { -brand-product-name }
 
 ##
 
@@ -515,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Patronitaj artikoloj
 home-prefs-highlights-header =
     .label = Elstaraĵoj
-home-prefs-recent-activity-header =
-    .label = Ĵusa agado
 home-prefs-highlights-description = Retejoj elektitaj inter tiuj, kiun vi vizitis aŭ konservis
 home-prefs-highlights-option-visited-pages =
     .label = Vizititaj paĝoj
@@ -526,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Lasta elŝuto
 home-prefs-highlights-option-saved-to-pocket =
     .label = Paĝoj konservitaj en { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Ĵusa agado
+home-prefs-recent-activity-description = Elekto de ĵusaj retejoj kaj enhavoj
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Fragmentoj
 home-prefs-snippets-description = Ĝisdatigoj de { -vendor-short-name } kaj { -brand-product-name }
+home-prefs-snippets-description-new = Konsiletoj kaj novaĵoj de { -vendor-short-name } kaj { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
