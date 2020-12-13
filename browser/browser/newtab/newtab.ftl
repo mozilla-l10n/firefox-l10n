@@ -210,3 +210,15 @@ newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-
 
 newtab-error-fallback-info = Ups, įkeliant šį turinį įvyko klaida.
 newtab-error-fallback-refresh-link = Pabandykite iš naujo įkelti tinklalapį.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Leistukai
+newtab-custom-shortcuts-subtitle = Jūsų įrašytos arba lankomos svetainės
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } eilutė
+        [few] { $num } eilutės
+       *[other] { $num } eilučių
+    }
+newtab-custom-sponsored-sites = Rėmėjų leistukai
