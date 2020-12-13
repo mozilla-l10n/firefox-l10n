@@ -188,12 +188,32 @@ remote-debugging-url = Adresse URL
 
 ##
 
+support-third-party-modules-title = Modulos de tertios
+support-third-party-modules-module = File del modulo
 support-third-party-modules-version = Version de file
+support-third-party-modules-vendor = Info del venditor
+support-third-party-modules-occurrence = Occurrentia
+support-third-party-modules-process = Typo e ID del processo
 support-third-party-modules-thread = Argumento
+support-third-party-modules-base = Adresse imagebase
+support-third-party-modules-uptime = Tempore de activitate del processo (ms)
+support-third-party-modules-duration = Duration del cargamento (ms)
+support-third-party-modules-empty = Nulle modulo de tertios ha essite cargate.
+support-third-party-modules-no-value = (Sin valor)
 support-third-party-modules-button-open =
     .title = Aperir position del file…
 support-third-party-modules-expand =
     .title = Monstrar informationes detaliate
+support-third-party-modules-collapse =
+    .title = Collaber informationes detaliate
+support-third-party-modules-unsigned-icon =
+    .title = Iste modulo non es signate
+support-third-party-modules-folder-icon =
+    .title = Aperir position del file…
+support-third-party-modules-down-icon =
+    .title = Monstrar informationes detaliate
+support-third-party-modules-up-icon =
+    .title = Collaber informationes detaliate
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

@@ -217,9 +217,16 @@ newtab-custom-row-selector =
        *[other] { $num } lineas
     }
 newtab-custom-sponsored-sites = Accessos directe sponsorisate
+newtab-custom-pocket-title = Recommendate per { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Contento exceptional a cura de { -pocket-brand-name }, parte del familia { -brand-product-name }
+newtab-custom-pocket-sponsored = Articulos sponsorisate
+newtab-custom-recent-title = Activitate recente
+newtab-custom-recent-subtitle = Un selection de sitos e contento recente
 newtab-custom-close-button = Clauder
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Breve novas
+newtab-custom-snippets-subtitle = Consilios e notitias de { -vendor-short-name } e { -brand-product-name }
+newtab-custom-settings = Gerer altere parametros

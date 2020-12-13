@@ -512,6 +512,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recommendate per { $provider }
 home-prefs-recommended-by-description-update = Contentos exceptional de tote le Web, curate per { $provider }
+home-prefs-recommended-by-description-new = Contento exceptional a cura de { $provider }, parte del familia { -brand-product-name }
 
 ##
 
@@ -531,6 +532,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Paginas salvate in { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Recente activitate
+home-prefs-recent-activity-description = Un selection de sitos e contento recente
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -538,6 +540,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Breve novas
 home-prefs-snippets-description = Actualitates de { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description-new = Consilios e notitias de { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
