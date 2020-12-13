@@ -8,6 +8,9 @@
 newtab-page-title = Новая вкладка
 newtab-settings-button =
     .title = Настроить свою страницу новой вкладки
+newtab-personalize-button-label = Персонализировать
+    .title = Персонализировать новую вкладку
+    .aria-label = Персонализировать новую вкладку
 
 ## Search box component.
 
@@ -207,3 +210,28 @@ newtab-pocket-cta-text = Сохраняйте интересные статьи 
 
 newtab-error-fallback-info = К сожалению что-то пошло не так при загрузке этого содержимого.
 newtab-error-fallback-refresh-link = Обновить страницу, чтобы попробовать ещё раз.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Ярлыки
+newtab-custom-shortcuts-subtitle = Сайты, которые вы сохраняете или посещаете
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } строка
+        [few] { $num } строки
+       *[many] { $num } строк
+    }
+newtab-custom-sponsored-sites = Спонсируемые ярлыки
+newtab-custom-pocket-title = Рекомендуемые { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Особый контент, курируемый { -pocket-brand-name }, частью семейства { -brand-product-name }
+newtab-custom-pocket-sponsored = Статьи спонсоров
+newtab-custom-recent-title = Последние действия
+newtab-custom-recent-subtitle = Подборка недавних сайтов и контента
+newtab-custom-close-button = Закрыть
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Заметки
+newtab-custom-snippets-subtitle = Советы и новости от { -vendor-short-name } и { -brand-product-name }
+newtab-custom-settings = Управление дополнительными настройками

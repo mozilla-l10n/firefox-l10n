@@ -185,6 +185,24 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Сторонние модули
+support-third-party-modules-module = Файл модуля
+support-third-party-modules-version = Версия файла
+support-third-party-modules-vendor = Информация производителя
+support-third-party-modules-process = Тип и идентификатор процесса
+support-third-party-modules-thread = Поток
+support-third-party-modules-uptime = Время работы процесса (мс)
+support-third-party-modules-duration = Продолжительность загрузки (мс)
+support-third-party-modules-empty = Сторонние модули не загружались.
+support-third-party-modules-no-value = (Нет значения)
+support-third-party-modules-button-open =
+    .title = Откройте расположение файла…
+support-third-party-modules-expand =
+    .title = Показать подробную информацию
+support-third-party-modules-collapse =
+    .title = Свернуть подробную информацию
+support-third-party-modules-unsigned-icon =
+    .title = Этот модуль не подписан
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
