@@ -194,6 +194,7 @@ support-third-party-modules-version = Bestandsversie
 support-third-party-modules-vendor = Leveranciersinfo
 support-third-party-modules-occurrence = Aantal
 support-third-party-modules-process = Procestype & ID
+support-third-party-modules-thread = Thread
 support-third-party-modules-base = Imagebase-adres
 support-third-party-modules-uptime = Proces-uptime (ms)
 support-third-party-modules-duration = Laadduur (ms)
