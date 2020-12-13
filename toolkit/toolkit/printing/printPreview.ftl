@@ -41,7 +41,7 @@ printpreview-page =
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print
-printpreview-sheet-of-sheets = 第{ $sheetNum } 张，共 { $sheetCount } 张
+printpreview-sheet-of-sheets = 第 { $sheetNum } 页，共 { $sheetCount } 页
 
 ## Variables
 ## $percent (integer) - menuitem percent label
