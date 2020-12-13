@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] elk oer
            *[other] elke { $hours } oer
         }
+carddav-readonly-label =
+    .label = Allinnich-lêze
+    .accesskey = A
