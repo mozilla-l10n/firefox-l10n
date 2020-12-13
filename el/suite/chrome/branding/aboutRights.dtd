@@ -64,7 +64,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Περιήγηση βάσει τοποθεσίας:">
-<!ENTITY rights.locationawarebrowsing-term1 "Άνοιγμα προτιμήσεων εφαρμογής">
+<!ENTITY rights.locationawarebrowsing-term1 "Ανοίξτε τις προτιμήσεις της εφαρμογής">
 <!ENTITY rights.locationawarebrowsing-term2 "Επιλέξτε την κύρια καρτέλα &security.label;">
 <!ENTITY rights.locationawarebrowsing-term3 "Επιλέξτε &quot;&geoDisabled.label;&quot;">
 <!ENTITY rights.locationawarebrowsing-term4 "Η περιήγηση βάσει τοποθεσίας είναι πλέον ανενεργή">
@@ -72,3 +72,4 @@
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "Η &vendorShortName; διατηρεί το δικαίωμα να διακόψει ή να αλλάξει τις υπηρεσίες κατά βούληση.">
 <!ENTITY rights.webservices-term5 "Η &vendorShortName; μπορεί να ενημερώνει περιοδικά αυτούς τους όρους αν κριθεί απαραίτητο. Δεν είναι δυνατή η τροποποίηση ή η ακύρωση αυτών των όρων χωρίς την έγγραφη συναίνεση της &vendorShortName;.">
+<!ENTITY rights.webservices-term6a "Αυτοί οι όροι διέπονται και ερμηνεύονται σύμφωνα με τους νόμους της Γερμανίας και όλες οι διαφορές που προκύπτουν σε σχέση με αυτούς τους όρους υποβάλλονται στην αποκλειστική δικαιοδοσία του αρμόδιου δικαστηρίου στη Γερμανία. Εάν οποιοδήποτε τμήμα αυτών των όρων θεωρείται άκυρο ή μη εφαρμόσιμο, τα υπόλοιπα τμήματα θα παραμείνουν σε πλήρη ισχύ και πρακτική εφαρμογή. Σε περίπτωση διένεξης μεταξύ μιας μεταφρασμένης έκδοσης αυτών των όρων και της έκδοσης στην αγγλική γλώσσα, θα υπερισχύει η έκδοση της αγγλικής γλώσσας.">
