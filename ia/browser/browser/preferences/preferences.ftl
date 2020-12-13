@@ -501,7 +501,10 @@ home-prefs-topsites-description = Le sitos que tu visita le plus
 home-prefs-topsites-by-option-sponsored =
     .label = Sitos principal sponsorisate
 home-prefs-shortcuts-header =
-    .label = Vias breve
+    .label = Accessos directe
+home-prefs-shortcuts-description = Sitos que tu salva o visita
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Accessos directe sponsorisate
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -575,7 +578,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Cambiar preferentias pro altere suggestiones in le barra de adresse
 search-suggestions-cant-show = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
 search-one-click-header = Motores de recerca a un sol clic
-search-one-click-header2 = Vias breve pro le recerca
+search-one-click-header2 = Accessos directe pro le recerca
 search-one-click-desc = Elige le motores de recerca alternative que appare infra le barra de adresse o le de recerca quando tu comencia a scriber un parola clave.
 search-choose-engine-column =
     .label = Motor de recerca

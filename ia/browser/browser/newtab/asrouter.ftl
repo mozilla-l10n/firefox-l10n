@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Obtener le application
 
 cfr-whatsnew-searchbar-title = Scribe minus, trova plus con le barra de adresse
 cfr-whatsnew-searchbar-body-topsites = Ora, selige le barra de adresse, e un quadro apparera con un lista de ligamines a tu sitos principal.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Icone de lupa
 
 ## Picture-in-Picture
@@ -272,5 +275,5 @@ cfr-whatsnew-media-keys-button = Apprender como
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Vias breve de recerca in le barra del adresses
-cfr-whatsnew-search-shortcuts-body = Quando tu insere un motor de recerca o un sito specific in le barra del adresses, un via breve blau apparera in le suggestiones infra. Selige ille via breve pro completar tu recerca directemente del barra del adresses.
+cfr-whatsnew-search-shortcuts-header = Accessos directe de recerca in le barra de adresses
+cfr-whatsnew-search-shortcuts-body = Quando tu insere un motor de recerca o un sito specific in le barra de adresses, un accesso directe blau apparera in le suggestiones de recerca sub le barra. Selige iste accesso directe pro completar tu recerca directemente ab le barra del adresses.

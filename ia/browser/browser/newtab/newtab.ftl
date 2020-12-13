@@ -209,7 +209,14 @@ newtab-error-fallback-refresh-link = Refresca le pagina pro tentar de novo.
 
 ## Customization Menu
 
-newtab-custom-shortcuts-title = Vias breve
+newtab-custom-shortcuts-title = Accessos directe
+newtab-custom-shortcuts-subtitle = Sitos que tu salva o visita
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } linea
+       *[other] { $num } lineas
+    }
+newtab-custom-sponsored-sites = Accessos directe sponsorisate
 newtab-custom-close-button = Clauder
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
