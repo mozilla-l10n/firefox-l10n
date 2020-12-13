@@ -177,7 +177,7 @@ newtab-section-header-highlights = Akcentai
 newtab-section-header-recent-activity = Paskiausia veikla
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = Rekomendavo „{ $provider }“
+newtab-section-header-pocket = Rekomenduoja „{ $provider }“
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -222,3 +222,16 @@ newtab-custom-row-selector =
        *[other] { $num } eilučių
     }
 newtab-custom-sponsored-sites = Rėmėjų leistukai
+newtab-custom-pocket-title = Rekomenduoja „{ -pocket-brand-name }“
+newtab-custom-pocket-subtitle = Išskirtinis turinys, kuruojamas „{ -pocket-brand-name }“, kuri yra „{ -brand-product-name }“ šeimos dalis
+newtab-custom-pocket-sponsored = Rėmėjų straipsniai
+newtab-custom-recent-title = Paskiausia veikla
+newtab-custom-recent-subtitle = Paskiausiai lankytos svetainės ir žiūrėtas turinys
+newtab-custom-close-button = Užverti
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Iškarpos
+newtab-custom-snippets-subtitle = Patarimai ir naujienos iš „{ -vendor-short-name }“ ir „{ -brand-product-name }“
+newtab-custom-settings = Keisti daugiau nuostatų
