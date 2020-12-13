@@ -25,6 +25,9 @@ printui-range-start = Fan
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = oant
+printui-page-custom-range-input =
+    .aria-label = Oanpast sideberik ynfiere
+    .placeholder = byg. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopyen
 printui-orientation = Oriïntaasje
