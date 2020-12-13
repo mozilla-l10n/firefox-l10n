@@ -26,6 +26,9 @@ printui-range-start = С
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = по
+printui-page-custom-range-input =
+    .aria-label = Введите свой диапазон страниц
+    .placeholder = например 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Число копий
 printui-orientation = Ориентация
@@ -65,11 +68,13 @@ printui-system-dialog-link = Печатать, используя системн
 printui-primary-button = Печать
 printui-primary-button-save = Сохранить
 printui-cancel-button = Отмена
+printui-close-button = Закрыть
 printui-loading = Подготовка к предпросмотру
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Предварительный просмотр
+printui-pages-per-sheet = Страниц на одном листе
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
