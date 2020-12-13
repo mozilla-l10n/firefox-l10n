@@ -196,8 +196,14 @@ support-third-party-modules-button-open =
     .title = Ldi adeg n ufaylu…
 support-third-party-modules-expand =
     .title = Sken Talɣut n usmel
+support-third-party-modules-collapse =
+    .title = Fneẓ  talɣut leqqayen
+support-third-party-modules-folder-icon =
+    .title = Ldi adeg n ufaylu…
 support-third-party-modules-down-icon =
     .title = Sken Talɣut leqqayen
+support-third-party-modules-up-icon =
+    .title = Fneẓ talɣut leqqayen
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
