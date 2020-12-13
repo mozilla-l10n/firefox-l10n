@@ -185,6 +185,29 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Trečiųjų šalių moduliai
+support-third-party-modules-module = Modulio failas
+support-third-party-modules-version = Failo versija
+support-third-party-modules-vendor = Gamintojo informacija
+support-third-party-modules-process = Proceso tipas ir ID
+support-third-party-modules-uptime = Proceso veikimo laikas (ms)
+support-third-party-modules-duration = Įkėlimo trukmė (ms)
+support-third-party-modules-empty = Nėra įkeltų trečiųjų šalių modulių.
+support-third-party-modules-no-value = (reikšmės nėra)
+support-third-party-modules-button-open =
+    .title = Atverti failą…
+support-third-party-modules-expand =
+    .title = Rodyti detalią informaciją
+support-third-party-modules-collapse =
+    .title = Suskleisti detalią informaciją
+support-third-party-modules-unsigned-icon =
+    .title = Šis modulis nėra pasirašytas
+support-third-party-modules-folder-icon =
+    .title = Atverti failą…
+support-third-party-modules-down-icon =
+    .title = Rodyti detalią informaciją
+support-third-party-modules-up-icon =
+    .title = Suskleisti detalią informaciją
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

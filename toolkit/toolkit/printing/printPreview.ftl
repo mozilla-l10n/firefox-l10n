@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Puslapis:
     .accesskey = P
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } iš { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Paskutinis puslapis
-
+printpreview-homearrow-button =
+    .title = Pirmas puslapis
+printpreview-previousarrow-button =
+    .title = Ankstesnis puslapis
+printpreview-nextarrow-button =
+    .title = Kitas puslapis
+printpreview-endarrow-button =
+    .title = Paskutinis puslapis
