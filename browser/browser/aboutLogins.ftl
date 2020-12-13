@@ -170,7 +170,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие нельзя отменить.
 about-logins-confirm-remove-dialog-confirm-button = Удалить
-about-logins-confirm-remove-all-dialog-confirm-button = Удалить все
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Удалить
+        [one] Удалить все
+        [few] Удалить все
+       *[many] Удалить все
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Да, удалить этот логин
