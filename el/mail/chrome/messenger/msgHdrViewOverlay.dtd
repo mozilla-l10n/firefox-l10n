@@ -6,7 +6,7 @@
 <!ENTITY fromField4.label "Από">
 <!ENTITY senderField4.label "Αποστολέας">
 <!ENTITY author.label "Συντάκτης">
-<!ENTITY organizationField4.label "Οργανισμός ">
+<!ENTITY organizationField4.label "Εταιρεία">
 <!ENTITY replyToField4.label "Απάντηση σε">
 
 <!ENTITY subjectField4.label "Θέμα">
