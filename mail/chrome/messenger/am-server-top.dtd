@@ -31,7 +31,7 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Μέθοδος ταυτοποίησης:">
 <!ENTITY authMethod.accesskey "θ">
-<!ENTITY leaveOnServer.label "Φύλαξη μηνυμάτων στον διακομιστή">
+<!ENTITY leaveOnServer.label "Διατήρηση μηνυμάτων στον διακομιστή">
 <!ENTITY leaveOnServer.accesskey "Φ">
 <!ENTITY headersOnly.label "Λήψη κεφαλίδων μόνο">
 <!ENTITY headersOnly.accesskey "φ">

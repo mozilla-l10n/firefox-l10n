@@ -17,7 +17,7 @@
 <!ENTITY tagsHdr4.label "Ετικέτες">
 <!ENTITY dateField4.label "Ημερομηνία">
 <!ENTITY userAgentField4.label "User agent ">
-<!ENTITY referencesField4.label "Παραπομπές ">
+<!ENTITY referencesField4.label "Αναφορές">
 <!ENTITY messageIdField4.label "ID μηνύματος ">
 <!ENTITY inReplyToField4.label "Σε απάντηση στο">
 <!ENTITY originalWebsite4.label "Ιστοσελίδα">
@@ -50,7 +50,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "β">
 
 <!ENTITY otherActionsButton2.label "Περισσότερα">
-<!ENTITY otherActionsButton.tooltip "Άλλες ενέργειες">
+<!ENTITY otherActionsButton.tooltip "Περισσότερες ενέργειες">
 <!ENTITY otherActionsOpenConversation1.label "Άνοιγμα σε λειτουργία συζήτησης">
 <!ENTITY otherActionsOpenConversation1.accesskey "ζ">
 <!ENTITY otherActionsOpenInNewWindow1.label "Άνοιγμα σε νέο παράθυρο">
