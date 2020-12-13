@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Página:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } de { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,5 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Última página
+printpreview-homearrow-button =
+    .title = Primera página
+printpreview-previousarrow-button =
+    .title = Página anterior
+printpreview-nextarrow-button =
+    .title = Página siguiente
 printpreview-endarrow-button =
     .title = Última página
