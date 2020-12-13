@@ -206,3 +206,27 @@ newtab-pocket-cta-text = Konservu viajn ŝatatajn artikolojn en { -pocket-brand-
 
 newtab-error-fallback-info = Fuŝ', io malbona okazis dum ŝargo de tiu ĉi enhavo.
 newtab-error-fallback-refresh-link = Refreŝigi paĝon por klopodi denove.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Ŝparvojoj
+newtab-custom-shortcuts-subtitle = Retejoj konservitaj aŭ vizititaj de vi
+newtab-custom-row-selector =
+    { $num ->
+        [one] unu vico
+       *[other] { $num } vicoj
+    }
+newtab-custom-sponsored-sites = Patronitaj ŝparvojoj
+newtab-custom-pocket-title = Rekomendita de { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Eksterordinara  enhavo reviziita de  { -pocket-brand-name }, parto de la familio { -brand-product-name }
+newtab-custom-pocket-sponsored = Patronitaj artikoloj
+newtab-custom-recent-title = Ĵusa agado
+newtab-custom-recent-subtitle = Elekto de ĵusaj retejoj kaj enhavoj
+newtab-custom-close-button = Fermi
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Fragmentoj
+newtab-custom-snippets-subtitle = Konsiletoj kaj novaĵoj de { -vendor-short-name } kaj { -brand-product-name }
+newtab-custom-settings = Administri aliajn agordojn
