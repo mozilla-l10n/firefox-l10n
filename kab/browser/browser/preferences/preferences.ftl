@@ -502,6 +502,9 @@ home-prefs-topsites-by-option-sponsored =
     .label = Ismal ifellay yettwarefden
 home-prefs-shortcuts-header =
     .label = Inegzumen
+home-prefs-shortcuts-description = Ismal i teskelseḍ neɣ wuɣur terziḍ
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Inegzumen yettwarefden
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

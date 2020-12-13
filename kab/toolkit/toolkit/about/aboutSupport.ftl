@@ -185,6 +185,14 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-module = Isem n uzegrir
+support-third-party-modules-version = Lqem n ufaylu
+support-third-party-modules-vendor = Talɣut n umsenzi
+support-third-party-modules-process = Anaw & usulay n ukala
+support-third-party-modules-thread = Asqerdec
+support-third-party-modules-base = Tansa n taffa n tugniwin
+support-third-party-modules-down-icon =
+    .title = Sken Talɣut leqqayen
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

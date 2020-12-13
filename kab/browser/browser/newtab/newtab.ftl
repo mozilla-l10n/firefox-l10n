@@ -210,6 +210,7 @@ newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Inegzumen
+newtab-custom-shortcuts-subtitle = Ismal i teskelseḍ neɣ wuɣur terziḍ
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } yizirig
@@ -217,6 +218,9 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Inegzumen yettwarefden
 newtab-custom-pocket-title = yettuwelleh-d sɣur { -pocket-brand-name }
+newtab-custom-pocket-sponsored = Tiqṣidin yettwarefden
+newtab-custom-recent-title = Armud n melmi kan
+newtab-custom-recent-subtitle = Tafrant n yismal d ugbur n melmi kan
 newtab-custom-close-button = Mdel
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
