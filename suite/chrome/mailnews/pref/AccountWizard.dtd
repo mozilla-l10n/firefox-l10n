@@ -58,7 +58,7 @@
 <!ENTITY incomingServer.label "Διακομιστής εισερχομένων:">
 <!ENTITY incomingServer.accesskey "Δ">
 <!ENTITY leaveMsgsOnSrvr.label "Διατήρηση μηνυμάτων στον διακομιστή">
-<!ENTITY leaveMsgsOnSrvr.accesskey "Φ">
+<!ENTITY leaveMsgsOnSrvr.accesskey "Δ">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Εισάγετε το όνομα χρήστη εισερχομένων που σας παραχώρησε ο πάροχος email σας (για παράδειγμα, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Όνομα χρήστη:">
