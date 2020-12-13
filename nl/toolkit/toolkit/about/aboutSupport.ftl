@@ -192,16 +192,27 @@ support-third-party-modules-title = Modules van derden
 support-third-party-modules-module = Modulebestand
 support-third-party-modules-version = Bestandsversie
 support-third-party-modules-vendor = Leveranciersinfo
+support-third-party-modules-occurrence = Aantal
 support-third-party-modules-process = Procestype & ID
+support-third-party-modules-base = Imagebase-adres
 support-third-party-modules-uptime = Proces-uptime (ms)
+support-third-party-modules-duration = Laadduur (ms)
 support-third-party-modules-empty = Er zijn geen modules van derden geladen.
 support-third-party-modules-no-value = (Geen waarde)
 support-third-party-modules-button-open =
     .title = Bestandslocatie openen…
+support-third-party-modules-expand =
+    .title = Detailinformatie tonen
+support-third-party-modules-collapse =
+    .title = Detailinformatie samenvouwen
 support-third-party-modules-unsigned-icon =
     .title = Deze module is niet ondertekend
 support-third-party-modules-folder-icon =
     .title = Bestandslocatie openen…
+support-third-party-modules-down-icon =
+    .title = Detailinformatie tonen
+support-third-party-modules-up-icon =
+    .title = Detailinformatie samenvouwen
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

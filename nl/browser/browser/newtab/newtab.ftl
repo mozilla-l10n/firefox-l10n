@@ -222,6 +222,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Gesponsorde snelkoppelingen
 newtab-custom-pocket-title = Aanbevolen door { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Uitzonderlijke inhoud, samengesteld door { -pocket-brand-name }, onderdeel van de { -brand-product-name }-familie
 newtab-custom-pocket-sponsored = Gesponsorde verhalen
 newtab-custom-recent-title = Recente activiteit
 newtab-custom-recent-subtitle = Een selectie van recente websites en inhoud
