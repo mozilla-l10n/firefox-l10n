@@ -411,8 +411,8 @@ auto-save-end = minutas
 ##
 
 warn-on-send-accel-key =
-    .label = Confirmar per le via breve de claviero quando inviar message
-    .accesskey = C
+    .label = Demandar confirmation quando se usa un clave de accesso directe pro inviar un message
+    .accesskey = c
 spellcheck-label =
     .label = Controlar orthographia ante inviar
     .accesskey = C

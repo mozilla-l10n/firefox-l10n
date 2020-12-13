@@ -23,7 +23,7 @@
 <!ENTITY productHelpMac.commandkey "?">
 <!ENTITY productHelpMac.modifiers "accel">
 
-<!ENTITY helpKeyboardShortcuts.label "Vias breve de claviero">
+<!ENTITY helpKeyboardShortcuts.label "Claves de accesso directe">
 <!ENTITY helpKeyboardShortcuts.accesskey "c">
 
 <!ENTITY helpFeedbackPage.label "Inviar opinion…">
