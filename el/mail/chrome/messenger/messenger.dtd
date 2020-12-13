@@ -194,7 +194,7 @@
 <!ENTITY sortByStatusCmd.accesskey "τ">
 <!ENTITY sortByTagsCmd.label "Ετικέτες">
 <!ENTITY sortByTagsCmd.accesskey "κ">
-<!ENTITY sortByJunkStatusCmd.label "Κατάσταση ανεπιθύμητης αλληλογραφίας">
+<!ENTITY sortByJunkStatusCmd.label "Κατάσταση ανεπιθύμητων">
 <!ENTITY sortByJunkStatusCmd.accesskey "θ">
 <!ENTITY sortBySubjectCmd.label "Θέμα">
 <!ENTITY sortBySubjectCmd.accesskey "μ">
@@ -710,7 +710,7 @@
 <!ENTITY accountColumn.label "Λογαριασμός">
 <!ENTITY statusColumn.label "Κατάσταση">
 <!ENTITY sizeColumn.label "Μέγεθος">
-<!ENTITY junkStatusColumn.label "Κατάσταση ανεπιθυμήτων">
+<!ENTITY junkStatusColumn.label "Κατάσταση ανεπιθύμητων">
 <!ENTITY unreadColumn.label "Μη αναγνωσμένα">
 <!ENTITY totalColumn.label "Σύνολο">
 <!ENTITY readColumn.label "Αναγνωσμένα">
@@ -943,7 +943,7 @@
 <!ENTITY statusText.label "Τέλος">
 
 <!-- Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "Ελαχιστοποίηση παραθύρου">
+<!ENTITY minimizeWindow.label "Ελαχιστοποίηση">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Μεταφορά όλων μπροστά">
 <!ENTITY zoomWindow.label "Ζουμ">
