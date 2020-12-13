@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
-about-logins-confirm-remove-all-dialog-confirm-button = Kkes kullec
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Kkes
+        [one] Kkes
+       *[other] Kkes kullec
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ih, kkes inekcam-a

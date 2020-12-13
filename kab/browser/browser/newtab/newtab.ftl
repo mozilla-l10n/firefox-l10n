@@ -8,6 +8,9 @@
 newtab-page-title = Iccer amaynut
 newtab-settings-button =
     .title = Sagen asebter n yiccer-ik amaynut
+newtab-personalize-button-label = Sagen
+    .title = Sagen iccer amaynut
+    .aria-label = Sagen iccer amaynut
 
 ## Search box component.
 
@@ -207,6 +210,13 @@ newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Inegzumen
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } yizirig
+       *[other] { $num } yizirigen
+    }
+newtab-custom-sponsored-sites = Inegzumen yettwarefden
+newtab-custom-pocket-title = yettuwelleh-d sɣur { -pocket-brand-name }
 newtab-custom-close-button = Mdel
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
