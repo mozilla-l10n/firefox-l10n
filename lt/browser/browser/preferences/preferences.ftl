@@ -543,6 +543,7 @@ home-prefs-recent-activity-description = Paskiausiai lankytos svetainės ir ži�
 home-prefs-snippets-header =
     .label = Iškarpos
 home-prefs-snippets-description = „{ -vendor-short-name }“ ir „{ -brand-product-name }“ naujienos
+home-prefs-snippets-description-new = Patarimai ir naujienos iš „{ -vendor-short-name }“ ir „{ -brand-product-name }“
 home-prefs-sections-rows-option =
     .label =
         { $num ->
