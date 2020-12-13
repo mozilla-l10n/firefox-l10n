@@ -57,4 +57,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Lasta paĝo
-
+printpreview-homearrow-button =
+    .title = Unua paĝo
+printpreview-previousarrow-button =
+    .title = Antaŭa paĝo
+printpreview-nextarrow-button =
+    .title = Venonta paĝo
+printpreview-endarrow-button =
+    .title = Lasta paĝo
