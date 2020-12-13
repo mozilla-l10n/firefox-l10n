@@ -125,6 +125,9 @@ cfr-whatsnew-lockwise-take-link-text = Загрузить приложение
 
 cfr-whatsnew-searchbar-title = С новой строкой адреса можно печатать меньше и находить больше
 cfr-whatsnew-searchbar-body-topsites = Теперь щёлкните по адресной строке и она расширится списком ваших популярных сайтов.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Значок увеличительного стекла
 
 ## Picture-in-Picture
@@ -277,3 +280,7 @@ cfr-whatsnew-clear-cookies-image-alt = Иллюстрация заблокиро
 cfr-whatsnew-media-keys-header = Больше средств управления медиа
 cfr-whatsnew-media-keys-body = Начинайте и останавливайте воспроизведение аудио или видео при помощи вашей клавиатуры или наушников, делая удобным контроль воспроизведения из другой вкладки, программы, или даже экрана блокировки компьютера. Кроме того, вы можете переключаться между треками, используя клавиши вперед и назад.
 cfr-whatsnew-media-keys-button = Узнайте как
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Быстрые клавиши для поиска в адресной строке
