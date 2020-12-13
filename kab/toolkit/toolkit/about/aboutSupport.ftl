@@ -191,6 +191,11 @@ support-third-party-modules-vendor = Talɣut n umsenzi
 support-third-party-modules-process = Anaw & usulay n ukala
 support-third-party-modules-thread = Asqerdec
 support-third-party-modules-base = Tansa n taffa n tugniwin
+support-third-party-modules-no-value = (Ulac azal)
+support-third-party-modules-button-open =
+    .title = Ldi adeg n ufaylu…
+support-third-party-modules-expand =
+    .title = Sken Talɣut n usmel
 support-third-party-modules-down-icon =
     .title = Sken Talɣut leqqayen
 # Variables

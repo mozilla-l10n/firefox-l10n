@@ -218,6 +218,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Inegzumen yettwarefden
 newtab-custom-pocket-title = yettuwelleh-d sɣur { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Agbur ufrin i s-yettusuddsen sɣur { -pocket-brand-name }, d aḥric seg twacult { -brand-product-name }
 newtab-custom-pocket-sponsored = Tiqṣidin yettwarefden
 newtab-custom-recent-title = Armud n melmi kan
 newtab-custom-recent-subtitle = Tafrant n yismal d ugbur n melmi kan
@@ -227,4 +228,5 @@ newtab-custom-close-button = Mdel
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Tiwzillin
+newtab-custom-snippets-subtitle = Iwellihen d yisallen sɣur { -vendor-short-name } akked { -brand-product-name }
 newtab-custom-settings = Sefrek ugar n yiɣewwaṛen

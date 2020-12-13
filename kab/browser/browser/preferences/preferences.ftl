@@ -512,6 +512,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }
 home-prefs-recommended-by-description-update = Agbur yelhan i yettwafen deg Web sɣur { $provider }
+home-prefs-recommended-by-description-new = Agbur ufrin i s-yettusuddsen sɣur { $provider }, d aḥric seg twacult { -brand-product-name }
 
 ##
 
@@ -531,6 +532,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Isebtar yettwaḥerzen ar { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Armud n melmi kan
+home-prefs-recent-activity-description = Tafrant n yismal d ugbur n melmi kan
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -538,6 +540,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Tiwzillin
 home-prefs-snippets-description = Ileqman seg { -vendor-short-name } d { -brand-product-name }
+home-prefs-snippets-description-new = Iwellihen d yisallen sɣur { -vendor-short-name } akked { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
