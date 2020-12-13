@@ -25,6 +25,9 @@ printui-range-start = De
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = para
+printui-page-custom-range-input =
+    .aria-label = Introduzca un rango de páginas personalizado
+    .placeholder = p.ej. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Copias
 printui-orientation = Orientación
@@ -64,11 +67,13 @@ printui-system-dialog-link = Imprimir usando el diálogo del sistema…
 printui-primary-button = Imprimir
 printui-primary-button-save = Guardar
 printui-cancel-button = Cancelar
+printui-close-button = Cerrar
 printui-loading = Preparando vista previa
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Vista previa de impresión
+printui-pages-per-sheet = Páginas por hoja
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
