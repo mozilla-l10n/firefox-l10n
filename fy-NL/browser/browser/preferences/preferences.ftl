@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = De troch jo meast besochte websites
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsore topwebsites
+home-prefs-shortcuts-header =
+    .label = Fluchkeppelingen
+home-prefs-shortcuts-description = Bewarre of besochte websites
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsore fluchkeppelingen
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Oanrekommandearre troch { $provider }
 home-prefs-recommended-by-description-update = Utsûnderlike ynhâld fan it hiele ynternet, gearstald troch { $provider }
+home-prefs-recommended-by-description-new = Utsûnderlike ynhâld, gearstald troch { $provider }, ûnderdiel fan de { -brand-product-name }-famylje
 
 ##
 
@@ -515,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsore ferhalen
 home-prefs-highlights-header =
     .label = Hichtepunten
-home-prefs-recent-activity-header =
-    .label = Resinte aktiviteit
 home-prefs-highlights-description = In seleksje fan websites dy't jo bewarre of besocht hawwe
 home-prefs-highlights-option-visited-pages =
     .label = Besochte siden
@@ -526,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Meast resinte download
 home-prefs-highlights-option-saved-to-pocket =
     .label = Siden bewarre nei { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Resinte aktiviteit
+home-prefs-recent-activity-description = In seleksje fan resinte websites en ynhâld
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Koarte ynformaasje
 home-prefs-snippets-description = Fernijingen fan { -vendor-short-name } en { -brand-product-name }
+home-prefs-snippets-description-new = Tips en nijs fan { -vendor-short-name } en { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->

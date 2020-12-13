@@ -188,6 +188,16 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Modulen fan tredden
+support-third-party-modules-module = Modulebestân
+support-third-party-modules-version = Bestânsferzje
+support-third-party-modules-vendor = Leveransiersynfo
+support-third-party-modules-occurrence = Oantal
+support-third-party-modules-process = Prosestype & ID
+support-third-party-modules-thread = Thread
+support-third-party-modules-base = Imagebase-adres
+support-third-party-modules-uptime = Proses-uptime (ms)
+support-third-party-modules-duration = Laadtiid (ms)
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
