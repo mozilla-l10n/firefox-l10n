@@ -26,6 +26,9 @@ printui-range-start = Nuo
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = iki
+printui-page-custom-range-input =
+    .aria-label = Įveskite norimą puslapių intervalą
+    .placeholder = pvz., 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopijos
 printui-orientation = Orientacija
@@ -71,6 +74,7 @@ printui-loading = Ruošiama peržiūra
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Spaudinio peržiūra
+printui-pages-per-sheet = Puslapiai per lapą
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
