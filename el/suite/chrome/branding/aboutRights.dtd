@@ -57,6 +57,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Ασφαλής περιήγηση:">
+<!ENTITY rights.safebrowsing-b "Η απενεργοποίηση της ασφαλούς περιήγησης δεν προτείνεται, καθώς μπορεί να οδηγηθείτε σε επικίνδυνες ιστοσελίδες. Αν επιθυμείτε να απενεργοποιήσετε πλήρως τη λειτουργία, ακολουθήστε αυτά τα βήματα:">
 <!ENTITY rights.safebrowsing-term1 "Ανοίξτε τις προτιμήσεις της εφαρμογής">
 <!ENTITY rights.safebrowsing-term2 "Επιλέξτε την κύρια καρτέλα &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Καταργήστε τις επιλογές &quot;&blockAttackSites.label;&quot; και &quot;&blockWebForgeries.label;&quot;">
