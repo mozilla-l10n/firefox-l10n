@@ -60,7 +60,7 @@ containers-color-toolbar =
 containers-icon-fence =
     .label = Περίφραξη
 containers-icon-fingerprint =
-    .label = Δακτυλικό αποτύπωμα
+    .label = Αποτύπωμα
 containers-icon-briefcase =
     .label = Χαρτοφύλακας
 # String represents a money sign but currently uses a dollar sign
