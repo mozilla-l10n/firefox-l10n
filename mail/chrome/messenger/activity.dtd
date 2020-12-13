@@ -21,7 +21,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.recover.label                "Ανάκτηση">
 <!ENTITY cmd.recover.accesskey            "κ">
 <!ENTITY cmd.retry.label                  "Επανάληψη">
-<!ENTITY cmd.retry.accesskey              "ξ">
+<!ENTITY cmd.retry.accesskey              "Ε">
 <!ENTITY cmd.removeFromList.label         "Αφαίρεση από τη λίστα">
 <!ENTITY cmd.removeFromList.accesskey     "τ">
 
