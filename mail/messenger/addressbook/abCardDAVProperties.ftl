@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] elk uur
            *[other] elke { $hours } uur
         }
+carddav-readonly-label =
+    .label = Alleen-lezen
+    .accesskey = A
