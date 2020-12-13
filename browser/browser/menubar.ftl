@@ -116,7 +116,7 @@ menu-view-page-basic-style =
     .label = Estilo de página básico
     .accesskey = b
 menu-view-charset =
-    .label = Codif. de caracteres
+    .label = Codificación de texto
     .accesskey = C
 
 ## These should match what Safari and other Apple applications
