@@ -147,7 +147,7 @@
 <!ENTITY PhotoFile.label                "Από αυτό τον υπολογιστή">
 <!ENTITY PhotoFile.accesskey            "υ">
 <!ENTITY BrowsePhoto.label              "Περιήγηση">
-<!ENTITY BrowsePhoto.accesskey          "ζ">
+<!ENTITY BrowsePhoto.accesskey          "γ">
 <!ENTITY PhotoURL.label                 "Από το διαδίκτυο">
 <!ENTITY PhotoURL.accesskey             "κ">
 <!ENTITY PhotoURL.placeholder           "Επικολλήστε ή εισάγετε τη διαδικτυακή διεύθυνση μιας φωτογραφίας">

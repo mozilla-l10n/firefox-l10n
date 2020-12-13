@@ -18,7 +18,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFeeds.label        "Συνδρομές ροών">
 <!ENTITY importFeeds.accesskey    "ρ">
 <!ENTITY importAddressbook.label  "Ευρετήρια">
-<!ENTITY importAddressbook.accesskey "δ">
+<!ENTITY importAddressbook.accesskey "Ε">
 <!ENTITY importSettings.label     "Ρυθμίσεις">
 <!ENTITY importSettings.accesskey "θ">
 <!ENTITY importFilters.label      "Φίλτρα">
