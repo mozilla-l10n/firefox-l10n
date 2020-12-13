@@ -206,3 +206,11 @@ newtab-pocket-cta-text = Enregistrez les articles que vous aimez dans { -pocket-
 
 newtab-error-fallback-info = Oups, une erreur s’est produite lors du chargement du contenu.
 newtab-error-fallback-refresh-link = Actualisez la page pour réessayer.
+
+## Customization Menu
+
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Brèves
