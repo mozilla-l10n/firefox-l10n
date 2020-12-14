@@ -209,3 +209,7 @@ newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-nam
 
 newtab-error-fallback-info = Ema’ẽ, mba’épa osẽvai henyhẽnguévo ko tetepy.
 newtab-error-fallback-refresh-link = Kuatiarogue mbopiro’y eñepyrũjey hag̃ua
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Jeike pya’eha
