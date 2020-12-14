@@ -935,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Topwebsites
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Zoekmachines
+    .accesskey = o
 addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 
 ## Privacy Section - Content Blocking
