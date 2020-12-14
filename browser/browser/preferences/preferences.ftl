@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = En çok ziyaret ettiğiniz siteler
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsorlu sık kullanılanlar
+home-prefs-shortcuts-header =
+    .label = Kısayollar
+home-prefs-shortcuts-description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsorlu kısayollar
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -515,8 +520,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorlu haberler
 home-prefs-highlights-header =
     .label = Öne çıkanlar
-home-prefs-recent-activity-header =
-    .label = Son etkinlikler
 home-prefs-highlights-description = Kaydettiğiniz ve ziyaret ettiğiniz sitelerin bir seçkisi
 home-prefs-highlights-option-visited-pages =
     .label = Ziyaret ettiğim sayfalar
@@ -526,6 +529,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Son indirme
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }’a kaydettiğim sayfalar
+home-prefs-recent-activity-header =
+    .label = Son etkinlikler
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +538,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Duyurular
 home-prefs-snippets-description = { -vendor-short-name } ve { -brand-product-name }’tan haberler
+home-prefs-snippets-description-new = { -vendor-short-name } ve { -brand-product-name }’tan ipuçları ve haberler
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -927,6 +933,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Sık kullanılanlar
     .accesskey = S
+addressbar-locbar-engines-option =
+    .label = Arama motorları
+    .accesskey = m
 addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 
 ## Privacy Section - Content Blocking
