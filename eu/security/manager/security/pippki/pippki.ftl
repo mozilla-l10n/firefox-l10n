@@ -8,7 +8,8 @@ password-quality-meter = Pasahitz kalitatearen neurgailua
 
 change-password-window =
     .title = Aldatu pasahitz nagusia
-
+change-device-password-window =
+    .title = Aldatu pasahitza
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Segurtasun-gailua: { $tokenName }
@@ -21,6 +22,8 @@ change-password-reenter = Pasahitz berria (berriro):
 reset-password-window =
     .title = Berrezarri pasahitz nagusia
     .style = width: 40em
+pippki-failed-pw-change = Ezin da pasahitza aldatu.
+pippki-pw-change-ok = Pasahitza ondo aldatu da.
 
 ## Reset Primary Password dialog
 

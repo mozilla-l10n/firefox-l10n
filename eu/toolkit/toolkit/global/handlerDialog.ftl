@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> ostalariak <strong>{ $scheme }</strong> lotura bat ireki nahi du.
 
 ## Permission Dialog
 ## Variables:
@@ -17,6 +9,10 @@ handler-dialog-host = <strong>{ $host }</strong> ostalariak <strong>{ $scheme }<
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Baimendu gune honi { $scheme } lotura irekitzen?
+permission-dialog-description-file = Baimendu fitxategi honi { $scheme } lotura irekitzen?
+permission-dialog-description-host = Baimendu { $host } ostalariari { $scheme } lotura irekitzen?
+permission-dialog-description-app = Baimendu gune honi { $scheme } lotura { $appName } erabiliz irekitzen?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
