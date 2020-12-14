@@ -153,6 +153,14 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
+<!ENTITY calendar.context.modifyorviewitem.label      "Բացել">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "Բ">
+<!ENTITY calendar.context.modifyorviewtask.label      "Բացել առաջադրանքը…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "Բ">
+<!ENTITY calendar.context.newevent.label              "Նոր իրադարձութիւն…">
+<!ENTITY calendar.context.newevent.accesskey          "Ն">
+<!ENTITY calendar.context.newtodo.label               "Նոր առաջադրանք…">
+<!ENTITY calendar.context.newtodo.accesskey           "ք">
 
 
 
