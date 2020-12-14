@@ -931,6 +931,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = אתרים מובילים
     .accesskey = מ
+addressbar-locbar-engines-option =
+    .label = מנועי חיפוש
+    .accesskey = מ
 addressbar-suggestions-settings = שינוי העדפות של הצעות מנועי חיפוש
 
 ## Privacy Section - Content Blocking
