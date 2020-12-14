@@ -27,6 +27,7 @@ inactive-css-not-display-block-on-floated = ค่า <strong>display</strong> �
 inactive-css-property-is-impossible-to-override-in-visited = ไม่สามารถเขียนทับ <strong>{ $property }</strong> เนื่องจากข้อจำกัดของ <strong>:visited</strong>
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจากไม่ใช่องค์ประกอบที่ถูกจัดตำแหน่ง
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจากไม่ได้ตั้งค่า <strong>overflow:hidden</strong>
+inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจาก <strong>outline-style</strong> เป็น <strong>auto</strong> or <strong>none</strong>
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -45,6 +46,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = ลอง
 inactive-css-not-display-block-on-floated-fix = ลองเอา <strong>float</strong> ออกหรือเพิ่ม <strong>display:block</strong> { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = ลองตั้งค่าคุณสมบัติ <strong>position</strong> เป็นอย่างอื่นนอกจาก <strong>static</strong> { learn-more }
 inactive-text-overflow-when-no-overflow-fix = ลองเพิ่ม <strong>overflow:hidden</strong> { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = ลองตั้งค่าคุณสมบัติ <strong>outline-style</strong> เป็นอย่างอื่นนอกจาก <strong>auto</strong> หรือ <strong>none</strong> { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
