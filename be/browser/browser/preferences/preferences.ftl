@@ -503,6 +503,7 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Сайты, якія вы наведваеце найчасцей
 home-prefs-topsites-by-option-sponsored =
     .label = Папулярныя сайты ад спонсараў
+home-prefs-shortcuts-description = Сайты, якія вы захоўваеце або наведваеце
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -518,8 +519,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Артыкулы ад спонсараў
 home-prefs-highlights-header =
     .label = Выбранае
-home-prefs-recent-activity-header =
-    .label = Апошняя актыўнасць
 home-prefs-highlights-description = Выбраныя сайты, якія вы захавалі ці наведалі
 home-prefs-highlights-option-visited-pages =
     .label = Наведаныя старонкі
@@ -529,6 +528,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Нядаўнія сцягванні
 home-prefs-highlights-option-saved-to-pocket =
     .label = Захаваныя ў { -pocket-brand-name } старонкі
+home-prefs-recent-activity-header =
+    .label = Апошняя актыўнасць
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -930,6 +931,9 @@ addressbar-locbar-openpage-option =
     .accesskey = А
 addressbar-locbar-topsites-option =
     .label = Папулярныя сайты
+    .accesskey = П
+addressbar-locbar-engines-option =
+    .label = Пошукавыя сістэмы
     .accesskey = П
 addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
 
