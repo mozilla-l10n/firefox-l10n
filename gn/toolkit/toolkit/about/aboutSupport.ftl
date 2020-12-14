@@ -185,6 +185,14 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Mbohapyháva ra’ãha
+support-third-party-modules-module = Ha’ãha Marandurenda
+support-third-party-modules-version = Peteĩchagua marandurenda
+support-third-party-modules-vendor = Mba’eapoha marandu
+support-third-party-modules-occurrence = Mba’eaporei
+support-third-party-modules-process = Peteĩva tapereko ha ID
+support-third-party-modules-thread = Inimbo
+support-third-party-modules-base = Imagebase Kundaharape
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
