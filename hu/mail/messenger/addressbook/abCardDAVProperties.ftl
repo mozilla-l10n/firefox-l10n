@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] óránként
            *[other] { $hours } óránként
         }
+carddav-readonly-label =
+    .label = Írásvédett
+    .accesskey = r
