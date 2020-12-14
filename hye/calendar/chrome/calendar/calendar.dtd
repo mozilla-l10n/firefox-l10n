@@ -282,23 +282,49 @@
 <!ENTITY calendar.context.publish.label                "Հրապարակել աւրացոյցը…">
 <!ENTITY calendar.context.publish.accesskey            "b">
 <!ENTITY calendar.context.export.label                 "Արտածել աւրացոյցը…">
+<!ENTITY calendar.context.export.accesskey             "E">
+<!ENTITY calendar.context.properties.label             "Յատկութիւններ">
+<!ENTITY calendar.context.properties.accesskey         "P">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "h">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "H">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "O">
+<!ENTITY calendar.context.showall.label                "Ցուցադրել բոլոր աւրացոյցները">
+<!ENTITY calendar.context.showall.accesskey            "A">
 
+<!ENTITY calendar.context.convertmenu.label              "Փոխակերպել">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.event.label        "Իրադարձութիւն…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "E">
+<!ENTITY calendar.context.convertmenu.message.label      "Հաղորդագրութիւն…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "M">
+<!ENTITY calendar.context.convertmenu.task.label         "Առաջադրանք…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "Փոքր֊ամիս">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
+<!ENTITY calendar.tasks.view.calendarlist.label        "Աւրացոյցի ցուցակ">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
 
+<!ENTITY calendar.tasks.view.filtertasks.label           "Զտել առաջադրանքները">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
 
 <!-- Calendar Alarm Dialog -->
 
+<!ENTITY calendar.alarm.location.label              "Դիրք․" >
+<!ENTITY calendar.alarm.details.label               "Մանրամասներ…" >
 
+<!ENTITY calendar.alarm.snoozefor.label             "Ննջեցնել" >
 
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
