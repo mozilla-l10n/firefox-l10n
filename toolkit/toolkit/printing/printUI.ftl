@@ -58,10 +58,15 @@ printui-margins-default = 默认
 printui-margins-min = 最小
 printui-margins-none = 无
 printui-margins-custom = 自定义
+printui-margins-custom-inches = 自定义（英寸）
 printui-margins-custom-top = 上
+printui-margins-custom-top-inches = 上（英寸）
 printui-margins-custom-bottom = 下
+printui-margins-custom-bottom-inches = 下（英寸）
 printui-margins-custom-left = 左
+printui-margins-custom-left-inches = 左（英寸）
 printui-margins-custom-right = 右
+printui-margins-custom-right-inches = 右（英寸）
 printui-system-dialog-link = 使用系统对话框打印...
 printui-primary-button = 打印
 printui-primary-button-save = 保存
@@ -73,6 +78,9 @@ printui-loading = 正在准备预览
 printui-preview-label =
     .aria-label = 打印预览
 printui-pages-per-sheet = 每张纸打印的页数
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = 正在打印...
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

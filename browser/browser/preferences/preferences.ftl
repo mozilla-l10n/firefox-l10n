@@ -927,6 +927,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = 常用网站
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = 搜索引擎
+    .accesskey = a
 addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 
 ## Privacy Section - Content Blocking
