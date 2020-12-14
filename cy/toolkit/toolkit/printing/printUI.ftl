@@ -63,10 +63,15 @@ printui-margins-default = Rhagosodiad
 printui-margins-min = Lleiafswm
 printui-margins-none = Dim
 printui-margins-custom = Cyfaddasu
+printui-margins-custom-inches = Cyfaddas (modfeddi)
 printui-margins-custom-top = Brig
+printui-margins-custom-top-inches = Brig (modfeddi)
 printui-margins-custom-bottom = Gwaelod
+printui-margins-custom-bottom-inches = Gwaelod (modfeddi)
 printui-margins-custom-left = Chwith
+printui-margins-custom-left-inches = Chwith (modfeddi)
 printui-margins-custom-right = De
+printui-margins-custom-right-inches = De (modfeddi)
 printui-system-dialog-link = Argraffu gan ddefnyddio deialog y system ...
 printui-primary-button = Argraffu
 printui-primary-button-save = Cadw
@@ -78,6 +83,9 @@ printui-loading = Paratoi Rhagolwg
 printui-preview-label =
     .aria-label = Rhagolwg Argraffu
 printui-pages-per-sheet = Tudalennau fesul dalen
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Argraffu…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

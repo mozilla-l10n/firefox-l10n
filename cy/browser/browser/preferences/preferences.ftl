@@ -951,6 +951,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Hoff wefannau
     .accesskey = H
+addressbar-locbar-engines-option =
+    .label = Peiriannau chwilio
+    .accesskey = P
 addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
 
 ## Privacy Section - Content Blocking
