@@ -35,29 +35,29 @@ aboutdebugging-sidebar-runtime-connection-status-connected = Conectado
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = Desconectado
 # Text displayed in the about:debugging sidebar when no device was found.
-about-debugging-sidebar-no-devices = No devices discovered
+about-debugging-sidebar-no-devices = Nenhum dispositivo encontrado
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
-about-debugging-sidebar-item-connect-button = Connect
+about-debugging-sidebar-item-connect-button = Conectar
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
-about-debugging-sidebar-item-connect-button-connecting = Connecting…
+about-debugging-sidebar-item-connect-button-connecting = Conectando…
 # Text displayed in buttons found in sidebar items when the connection failed.
-about-debugging-sidebar-item-connect-button-connection-failed = Connection failed
+about-debugging-sidebar-item-connect-button-connection-failed = Falha na conexão
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
-about-debugging-sidebar-item-connect-button-connection-not-responding = Connection still pending, check for messages on the target browser
+about-debugging-sidebar-item-connect-button-connection-not-responding = Conexão ainda pendente, verifique se há mensagens no navegador alvo
 # Text displayed as connection error in sidebar item when the connection has timed out.
-about-debugging-sidebar-item-connect-button-connection-timeout = Connection timed out
+about-debugging-sidebar-item-connect-button-connection-timeout = Atingido o tempo limite de conexão
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
-about-debugging-sidebar-item-connected-label = Connected
+about-debugging-sidebar-item-connected-label = Conectado
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-browser = Waiting for browser…
+about-debugging-sidebar-runtime-item-waiting-for-browser = Aguardando o navegador…
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
-about-debugging-sidebar-runtime-item-unplugged = Unplugged
+about-debugging-sidebar-runtime-item-unplugged = Não conectado
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -67,25 +67,25 @@ about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
 # Text to show in the footer of the sidebar that links to a help page
 # (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
-about-debugging-sidebar-support = Debugging Support
+about-debugging-sidebar-support = Suporte para depuração
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
-    .alt = Help icon
+    .alt = Ícone de ajuda
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
-about-debugging-refresh-usb-devices-button = Refresh devices
+about-debugging-refresh-usb-devices-button = Atualizar dispositivos
 
 # Setup Page strings
 
 # Title of the Setup page.
-about-debugging-setup-title = Setup
+about-debugging-setup-title = Configuração
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Configure the connection method you wish to remotely debug your device with.
+about-debugging-setup-intro = Configure o método de conexão que quer usar para depurar remotamente seu dispositivo.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Use <a>{ about-debugging-this-firefox-runtime-name }</a> to debug extensions and service workers on this version of { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = Usar <a>{ about-debugging-this-firefox-runtime-name }</a> para depurar extensões e service workers nesta versão do { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
-about-debugging-setup-connect-heading = Connect a Device
+about-debugging-setup-connect-heading = Conectar um dispositivo
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
