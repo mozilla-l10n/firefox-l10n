@@ -935,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Ismal ufrinen
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Nadi imseddayen n unadi
+    .accesskey = a
 addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 
 ## Privacy Section - Content Blocking

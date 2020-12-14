@@ -56,10 +56,15 @@ printui-margins-default = Amezwer
 printui-margins-min = Adday
 printui-margins-none = Ulac
 printui-margins-custom = Sagen
+printui-margins-custom-inches = Sagen (idebbuzen)
 printui-margins-custom-top = Afellay
+printui-margins-custom-top-inches = Afellay (idebbuzen)
 printui-margins-custom-bottom = Adday
+printui-margins-custom-bottom-inches = Adday (idebbuzen)
 printui-margins-custom-left = Azelmaḍ
+printui-margins-custom-left-inches = Azelmaḍ (idebbuzen)
 printui-margins-custom-right = Ayeffus
+printui-margins-custom-right-inches = Ayeffus (idebbuzen)
 printui-system-dialog-link = Siggez s useqdec n udiwenni anagraw…
 printui-primary-button = Siggez
 printui-primary-button-save = Sekles
@@ -70,6 +75,10 @@ printui-loading = Aheyyi n teskant
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Taskant send asiggez
+printui-pages-per-sheet = Asebter i yal tawerqet
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Asiggez…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
