@@ -127,6 +127,9 @@ cfr-whatsnew-lockwise-take-link-text = Preuzmi aplikaciju
 
 cfr-whatsnew-searchbar-title = Tipkaj manje, pronađi više s adresnom trakom
 cfr-whatsnew-searchbar-body-topsites = Sada, jednostavno odaberi adresnu traku i rasklopit će se jedan okvir s poveznicama tvojih najkorištenijih stranica.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ikona za povećalo
 
 ## Picture-in-Picture
@@ -279,3 +282,8 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustracija blokiranog kolačića
 cfr-whatsnew-media-keys-header = Više medijskih kontrola
 cfr-whatsnew-media-keys-body = Reproduciraj i zaustavi audio ili videosnimku pomoću tipkovnice ili slušalica, što olakšava upravljanje medijima iz jedne druge kartice, programa ili čak kad je računalo zaključano. Između snimaka se možeš kretati i pomoću tipki za naprijed i natrag.
 cfr-whatsnew-media-keys-button = Saznaj kako
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Prečaci za pretraživanje u adresnoj traci
+cfr-whatsnew-search-shortcuts-body = Sada, kada u adresnu traku upišeš tražilicu ili određenu stranica, plavi prečac će se pojaviti u prijedlozima za pretraživanje ispod. Odaberi taj prečac za dovršavanje pretraživanja direktno u adresnoj traci.

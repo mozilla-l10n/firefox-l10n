@@ -12,6 +12,7 @@ compatibility-all-elements-header = Svi problemi
 
 compatibility-issue-deprecated = (obustavljeno)
 compatibility-issue-experimental = (eksperimentalno)
+compatibility-issue-prefixneeded = (potreban je prefiks)
 compatibility-issue-deprecated-experimental = (obustavljeno, eksperimentalno)
 
 ## Messages used as labels and titles for buttons in the footer
@@ -39,7 +40,6 @@ compatibility-issue-occurrences =
         [few] { $number } pojavljivanja
        *[other] { $number } pojavljivanja
     }
-
 compatibility-no-issues-found = Nema problema s kompatibilnošću.
 compatibility-close-settings-button =
     .title = Zatvori postavke

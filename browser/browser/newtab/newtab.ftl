@@ -8,6 +8,9 @@
 newtab-page-title = Nova kartica
 newtab-settings-button =
     .title = Prilagodi stranicu za nove kartice
+newtab-personalize-button-label = Personaliziraj
+    .title = Personaliziraj novu karticu
+    .aria-label = Personaliziraj novu karticu
 
 ## Search box component.
 
@@ -207,3 +210,27 @@ newtab-pocket-cta-text = Spremi priče koje ti se sviđaju u { -pocket-brand-nam
 
 newtab-error-fallback-info = Došlo je do greške prilikom učitavanja ovog sadržaja.
 newtab-error-fallback-refresh-link = Osvježi stranicu za ponovni pokušaj.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Prečaci
+newtab-custom-shortcuts-subtitle = Stranice koje spremiš ili posjetiš
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } red
+        [few] { $num } reda
+       *[other] { $num } redova
+    }
+newtab-custom-sponsored-sites = Sponzorirani prečaci
+newtab-custom-pocket-title = Preporuke iz { -pocket-brand-name }a
+newtab-custom-pocket-subtitle = Izuzetan sadržaj kojeg odabire { -pocket-brand-name }, dio obitelji { -brand-product-name }
+newtab-custom-pocket-sponsored = Sponzorirane priče
+newtab-custom-recent-title = Nedavna aktivnost
+newtab-custom-recent-subtitle = Izbor nedavnih stranica i sadržaja
+newtab-custom-close-button = Zatvori
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Isječci
+newtab-custom-settings = Upravljaj dodatnim postavkama
