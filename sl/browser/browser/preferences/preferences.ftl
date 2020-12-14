@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Nadaljujte previdno
 pane-experimental-search-results-header = { -brand-short-name }ovi poskusi: nadaljujte previdno
 pane-experimental-description = Spreminjanje naprednih nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name }a.
+pane-experimental-reset =
+    .label = Ponastavi privzeto
+    .accesskey = P
 help-button-label = Podpora za { -brand-short-name }
 addons-button-label = Razširitve in teme
 focus-search =
@@ -501,6 +504,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Glavne strani
 home-prefs-topsites-description = Strani, ki jih največkrat obiščete
+home-prefs-shortcuts-header =
+    .label = Bližnjice
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -525,6 +530,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Najnovejši prenos
 home-prefs-highlights-option-saved-to-pocket =
     .label = Strani, shranjene v { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Nedavna dejavnost
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
