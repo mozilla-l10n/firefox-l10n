@@ -142,8 +142,14 @@
 <!ENTITY calendar.task-details.repeat.label          "կրկնել">
 <!ENTITY calendar.task-details.attachments.label     "կցորդներ">
 <!ENTITY calendar.task-details.start.label           "մեկնարկի ամսաթիւ">
+<!ENTITY calendar.task-details.due.label             "վերջնաժամկէտ">
 
+<!ENTITY calendar.task.category.button.tooltip  "Անուանակարգել առաջադրանքերը">
+<!ENTITY calendar.task.complete.button.tooltip  "Նշել ընտրուած առաջադրանքները՝ որպէս աւարտուած">
+<!ENTITY calendar.task.priority.button.tooltip  "Փոխել առաջնահերթութիւնը">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Զտել առաջադրանքերը #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 
 <!-- Context Menu -->
 
