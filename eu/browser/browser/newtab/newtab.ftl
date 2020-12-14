@@ -206,3 +206,17 @@ newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-e
 
 newtab-error-fallback-info = Kontxo, zerbait gaizki joan da edukia kargatzerakoan.
 newtab-error-fallback-refresh-link = Berritu orria berriro saiatzeko.
+
+## Customization Menu
+
+newtab-custom-sponsored-sites = Babesleen lasterbideak
+newtab-custom-pocket-title = { -pocket-brand-name }-ek gomendatua
+newtab-custom-pocket-sponsored = Babesleen istorioak
+newtab-custom-recent-title = Azken jarduera
+newtab-custom-close-button = Itxi
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Mezu-zatiak
+newtab-custom-settings = Kudeatu ezarpen gehiago
