@@ -61,10 +61,15 @@ printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Žana
 printui-margins-custom = Swójske
+printui-margins-custom-inches = Swójske (cóle)
 printui-margins-custom-top = Horjeka
+printui-margins-custom-top-inches = Horjeka (cóle)
 printui-margins-custom-bottom = Deleka
+printui-margins-custom-bottom-inches = Deleka (cóle)
 printui-margins-custom-left = Nalěwo
+printui-margins-custom-left-inches = Nalěwo (cóle)
 printui-margins-custom-right = Naprawo
+printui-margins-custom-right-inches = Baprawo (cóle)
 printui-system-dialog-link = Z pomocu systemoweho dialoga ćišćeć…
 printui-primary-button = Ćišćeć
 printui-primary-button-save = Składować
@@ -76,6 +81,9 @@ printui-loading = Ćišćerski přehlad přihotować
 printui-preview-label =
     .aria-label = Ćišćerski přehlad
 printui-pages-per-sheet = Strony na łopjeno
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Ćišći so…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
