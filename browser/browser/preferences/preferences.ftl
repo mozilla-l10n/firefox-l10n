@@ -919,6 +919,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = 상위 사이트
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = 검색 엔진
+    .accesskey = a
 addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 
 ## Privacy Section - Content Blocking
