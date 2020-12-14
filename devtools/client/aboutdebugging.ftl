@@ -201,55 +201,55 @@ about-debugging-connection-prompt-enable-button = Pedido de ativar conexão
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = Pedido de desativar conexão
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
-about-debugging-profiler-dialog-title2 = Profiler
+about-debugging-profiler-dialog-title2 = Analisador de desempenho
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
-about-debugging-collapse-expand-debug-targets = Collapse / expand
+about-debugging-collapse-expand-debug-targets = Recolher / expandir
 
 # Debug Targets strings
 
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
-about-debugging-debug-target-list-empty = Nothing yet.
+about-debugging-debug-target-list-empty = Nada ainda.
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
-about-debugging-debug-target-inspect-button = Inspect
+about-debugging-debug-target-inspect-button = Inspecionar
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
-about-debugging-tmp-extension-install-button = Load Temporary Add-on…
+about-debugging-tmp-extension-install-button = Carregar extensão temporária…
 # Text displayed when trying to install a temporary extension in the "This Firefox" page.
-about-debugging-tmp-extension-install-error = There was an error during the temporary add-on installation.
+about-debugging-tmp-extension-install-error = Houve um erro ao instalar a extensão temporária.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
-about-debugging-tmp-extension-reload-button = Reload
+about-debugging-tmp-extension-reload-button = Recarregar
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
-about-debugging-tmp-extension-remove-button = Remove
+about-debugging-tmp-extension-remove-button = Remover
 # Message displayed in the file picker that opens to select a temporary extension to load
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
-about-debugging-tmp-extension-install-message = Select manifest.json file or .xpi/.zip archive
+about-debugging-tmp-extension-install-message = Selecionar arquivo manifest.json ou pacote compactado .xpi/.zip
 # This string is displayed as a message about the add-on having a temporaryID.
-about-debugging-tmp-extension-temporary-id = This WebExtension has a temporary ID. <a>Learn more</a>
+about-debugging-tmp-extension-temporary-id = Esta WebExtension tem um ID temporário. <a>Saiba mais</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
-    .label = Manifest URL
+    .label = URL do manifesto
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
-    .label = Internal UUID
+    .label = UUID interno
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
-    .label = Location
+    .label = Localização
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
-    .label = Extension ID
+    .label = ID da extensão
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Note this relates to the "Push" API, which is normally not localized so it is
