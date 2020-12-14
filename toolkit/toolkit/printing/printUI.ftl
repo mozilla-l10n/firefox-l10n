@@ -58,10 +58,15 @@ printui-margins-default = 기본값
 printui-margins-min = 최소값
 printui-margins-none = 없음
 printui-margins-custom = 사용자 지정
+printui-margins-custom-inches = 사용자 정의 (인치)
 printui-margins-custom-top = 위쪽
+printui-margins-custom-top-inches = 위쪽 (인치)
 printui-margins-custom-bottom = 아래쪽
+printui-margins-custom-bottom-inches = 아래쪽 (인치)
 printui-margins-custom-left = 왼쪽
+printui-margins-custom-left-inches = 왼쪽 (인치)
 printui-margins-custom-right = 오른쪽
+printui-margins-custom-right-inches = 오른쪽 (인치)
 printui-system-dialog-link = 시스템 대화 상자를 사용하여 인쇄…
 printui-primary-button = 인쇄
 printui-primary-button-save = 저장
@@ -73,6 +78,9 @@ printui-loading = 미리보기 준비 중
 printui-preview-label =
     .aria-label = 인쇄 미리보기
 printui-pages-per-sheet = 용지 당 페이지
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = 인쇄 중…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
