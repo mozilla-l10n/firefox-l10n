@@ -171,7 +171,6 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
-about-logins-confirm-remove-all-dialog-confirm-button = Odstrani vse
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Da, odstrani to prijavo
@@ -179,6 +178,28 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [two] Da, odstrani ti prijavi
         [few] Da, odstrani te prijave
        *[other] Da, odstrani te prijave
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Odstranim { $count } prijavo?
+        [two] Odstranim { $count } prijavi?
+        [few] Odstranim { $count } prijave?
+       *[other] Odstranim { $count } prijav?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] S tem boste odstranili prijavo, ki ste jo shranili v { -brand-short-name }, in vsa morebitna prikazana opozorila o krajah. Dejanja ne boste mogli razveljaviti.
+        [one] S tem boste odstranili prijavo, ki ste jo shranili v { -brand-short-name }, in vsa morebitna prikazana opozorila o krajah. Dejanja ne boste mogli razveljaviti.
+        [two] S tem boste odstranili prijavi, ki ste ju shranili v { -brand-short-name }, in vsa morebitna prikazana opozorila o krajah. Dejanja ne boste mogli razveljaviti.
+        [few] S tem boste odstranili prijave, ki ste jih shranili v { -brand-short-name }, in vsa morebitna prikazana opozorila o krajah. Dejanja ne boste mogli razveljaviti.
+       *[other] S tem boste odstranili prijave, ki ste jih shranili v { -brand-short-name }, in vsa morebitna prikazana opozorila o krajah. Dejanja ne boste mogli razveljaviti.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Odstrani { $count } prijavo z vseh naprav?
+        [two] Odstrani { $count } prijavi z vseh naprav?
+        [few] Odstrani { $count } prijave z vseh naprav?
+       *[other] Odstrani { $count } prijav z vseh naprav?
     }
 about-logins-confirm-export-dialog-title = Izvozite prijave in gesla
 about-logins-confirm-export-dialog-message = Vaša gesla bodo shranjena kot berljivo besedilo (npr. Sl@boG3slo), zato bodo vidna vsakomur, ki bo lahko odprl izvoženo datoteko.
