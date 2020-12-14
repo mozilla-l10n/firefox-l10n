@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Oldal:
     .accesskey = l
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } / { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Utolsó oldal
-
+printpreview-homearrow-button =
+    .title = Első oldal
+printpreview-previousarrow-button =
+    .title = Előző oldal
+printpreview-nextarrow-button =
+    .title = Következő oldal
+printpreview-endarrow-button =
+    .title = Utolsó oldal
