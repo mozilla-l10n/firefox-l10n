@@ -232,3 +232,4 @@ newtab-custom-close-button = Mboty
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Mba’epehẽ
 newtab-custom-snippets-subtitle = Ñemoñe’ẽ ha marandu { -vendor-short-name } ha { -brand-product-name } rehegua
+newtab-custom-settings = Eñangareko hetave ñembohekóre

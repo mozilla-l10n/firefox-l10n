@@ -500,6 +500,8 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Umi tenda ojeikeveha
 home-prefs-topsites-by-option-sponsored =
     .label = Tenda tuicha ojehepyme’ẽva
+home-prefs-shortcuts-header =
+    .label = Jeike pya’eha
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -515,8 +517,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Tembiasakue jehepyme’ẽguáva
 home-prefs-highlights-header =
     .label = Mba’erechapyrã
-home-prefs-recent-activity-header =
-    .label = Tembiapo ramovegua
 home-prefs-highlights-description = Tenda jeporavopy eñongatu térã eike hague
 home-prefs-highlights-option-visited-pages =
     .label = Tenda jeikepyre
@@ -526,6 +526,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Oñemboguejy ramovéva
 home-prefs-highlights-option-saved-to-pocket =
     .label = Kuatiarogue ñongatupyre { -pocket-brand-name }-pe
+home-prefs-recent-activity-header =
+    .label = Tembiapo ramovegua
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
