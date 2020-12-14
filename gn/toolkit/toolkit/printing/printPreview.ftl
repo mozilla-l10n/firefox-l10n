@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Kuatiarogue:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } { $sheetCount } rehegua
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Kuatiarogue paha
-
+printpreview-homearrow-button =
+    .title = Kuatiarogue peteĩha
+printpreview-previousarrow-button =
+    .title = Kuatiarogue mboyvegua
+printpreview-nextarrow-button =
+    .title = Kuatiarogue upeigua
+printpreview-endarrow-button =
+    .title = Kuatiarogue paha

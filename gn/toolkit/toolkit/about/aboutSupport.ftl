@@ -200,6 +200,8 @@ support-third-party-modules-expand =
     .title = Eike marandurenda hesa’ỹijopyrévape
 support-third-party-modules-collapse =
     .title = Eike marandurenda hesa’ỹijopyrévape
+support-third-party-modules-unsigned-icon =
+    .title = Ko ha’ãha noñemboheraguapýi
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

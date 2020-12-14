@@ -56,6 +56,7 @@ printui-margins-default = Ijypykue
 printui-margins-min = Michĩvéva
 printui-margins-none = Avave
 printui-margins-custom = Ñemomba’epyre
+printui-margins-custom-inches = Momba’epyre (pulgada)
 printui-margins-custom-top = Yvatevéva
 printui-margins-custom-bottom = Michĩvéva
 printui-margins-custom-left = Asugua
@@ -71,6 +72,9 @@ printui-loading = Ehecháta jehechaha ñepyrũ
 printui-preview-label =
     .aria-label = Jehecha ypy ñemonguatia
 printui-pages-per-sheet = Kuatiarogue kuatiápe
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Ñemonguatia…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
