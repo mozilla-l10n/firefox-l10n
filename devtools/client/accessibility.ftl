@@ -38,16 +38,16 @@ accessibility-text-label-issue-heading-content = Cabeçalhos devem ter conteúdo
 accessibility-text-label-issue-iframe = Use o atributo <code>title</code> para descrever conteúdo <span>iframe</span>. <a>Saiba mais</a>
 accessibility-text-label-issue-image = Imagens de conteúdo devem ser rotuladas. <a>Saiba mais</a>
 accessibility-text-label-issue-interactive = Elementos interativos devem ser rotulados. <a>Saiba mais</a>
-accessibility-text-label-issue-optgroup-label2 = Use a <code>label</code> attribute to label an <span>optgroup</span>. <a>Learn more</a>
-accessibility-text-label-issue-toolbar = Toolbars must be labeled when there is more than one toolbar. <a>Learn more</a>
+accessibility-text-label-issue-optgroup-label2 = Use um atributo <code>label</code> para rotular um <span>optgroup</span>. <a>Saiba mais</a>
+accessibility-text-label-issue-toolbar = Barras de ferramentas devem ser rotuladas quando há mais de uma barra de ferramentas. <a>Saiba mais</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
-accessibility-keyboard-issue-semantics = Focusable elements should have interactive semantics. <a>Learn more</a>
-accessibility-keyboard-issue-tabindex = Avoid using <code>tabindex</code> attribute greater than zero. <a>Learn more</a>
-accessibility-keyboard-issue-action = Interactive elements must be able to be activated using a keyboard. <a>Learn more</a>
-accessibility-keyboard-issue-focusable = Interactive elements must be focusable. <a>Learn more</a>
-accessibility-keyboard-issue-focus-visible = Focusable element may be missing focus styling. <a>Learn more</a>
-accessibility-keyboard-issue-mouse-only = Clickable elements must be focusable and should have interactive semantics. <a>Learn more</a>
+accessibility-keyboard-issue-semantics = Elementos que podem receber foco devem ter semânticas interativas. <a>Saiba mais</a>
+accessibility-keyboard-issue-tabindex = Evite usar o atributo <code>tabindex</code> maior que zero. <a>Saiba mais</a>
+accessibility-keyboard-issue-action = Elementos interativos devem poder ser ativados através do teclado. <a>Saiba mais</a>
+accessibility-keyboard-issue-focusable = Elementos interativos devem poder receber foco. <a>Saiba mais</a>
+accessibility-keyboard-issue-focus-visible = Pode estar faltando estilo de foco em elementos que podem receber foco. <a>Saiba mais</a>
+accessibility-keyboard-issue-mouse-only = Elementos cicláveis devem poder receber foco e ter semânticas interativas. <a>Saiba mais</a>
