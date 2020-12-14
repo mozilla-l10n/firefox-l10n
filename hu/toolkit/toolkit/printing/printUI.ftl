@@ -25,6 +25,9 @@ printui-range-start = Ettől:
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = eddig:
+printui-page-custom-range-input =
+    .aria-label = Egyéni oldaltartomány megadása
+    .placeholder = például 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Példányszám
 printui-orientation = Tájolás

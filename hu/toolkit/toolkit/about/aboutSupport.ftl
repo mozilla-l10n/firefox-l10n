@@ -192,6 +192,25 @@ support-third-party-modules-vendor = Szállítói információk
 support-third-party-modules-occurrence = Előfordulás
 support-third-party-modules-process = Folyamattípus és azonosító
 support-third-party-modules-thread = Szál
+support-third-party-modules-base = Imagebase cím
+support-third-party-modules-uptime = Folyamat üzemideje (ms)
+support-third-party-modules-duration = Betöltés időtartama (ms)
+support-third-party-modules-empty = Nincs harmadik féltől származó modul betöltve.
+support-third-party-modules-no-value = (Nincs érték)
+support-third-party-modules-button-open =
+    .title = A fájl helyének megnyitása…
+support-third-party-modules-expand =
+    .title = Részletes információk megjelenítése
+support-third-party-modules-collapse =
+    .title = Részletes információk összecsukása
+support-third-party-modules-unsigned-icon =
+    .title = Ez a modul nincs aláírva
+support-third-party-modules-folder-icon =
+    .title = A fájl helyének megnyitása…
+support-third-party-modules-down-icon =
+    .title = Részletes információk megjelenítése
+support-third-party-modules-up-icon =
+    .title = Részletes információk összecsukása
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
