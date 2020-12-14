@@ -63,3 +63,6 @@ toolbar-context-menu-bookmarks-toolbar-never-show =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .label = Samo na novih zavihkih
     .accesskey = S
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Prikaži druge zaznamke
+    .accesskey = d

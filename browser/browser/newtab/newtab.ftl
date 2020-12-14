@@ -170,6 +170,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Glavne strani
 newtab-section-header-highlights = Poudarki
+newtab-section-header-recent-activity = Nedavna dejavnost
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Priporoča { $provider }
@@ -205,3 +206,22 @@ newtab-pocket-cta-text = Shranite zgodbe, ki jih imate radi, v { -pocket-brand-n
 
 newtab-error-fallback-info = Ojoj, pri nalaganju te vsebine je šlo nekaj narobe.
 newtab-error-fallback-refresh-link = Osvežite stran za ponoven poskus.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Bližnjice
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } vrstica
+        [two] { $num } vrstici
+        [few] { $num } vrstice
+       *[other] { $num } vrstic
+    }
+newtab-custom-pocket-title = Priporoča { -pocket-brand-name }
+newtab-custom-pocket-sponsored = Zgodbe oglaševalcev
+newtab-custom-close-button = Zapri
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Izrezki
