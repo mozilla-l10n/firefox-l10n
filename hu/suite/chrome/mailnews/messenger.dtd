@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "k">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Minden postafiók">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "M">
-<!ENTITY getAllNewMsgCmd.label "Összes új üzenet letöltése">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "A következő 500 üzenet letöltése">
 <!ENTITY getNextNMsgCmd.accesskey "v">
@@ -409,6 +408,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Letöltés">
+<!ENTITY getAllNewMsgCmd.label "Összes új üzenet letöltése">
+<!ENTITY getAllNewMsgCmd.accesskey "G">
 <!ENTITY newMsgButton.label "Új üzenet">
 <!ENTITY newHTMLMessageCmd.label "Új HTML szöveg üzenet">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
