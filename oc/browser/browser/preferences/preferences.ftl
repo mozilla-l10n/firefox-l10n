@@ -931,6 +931,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Mai visitats
     .accesskey = M
+addressbar-locbar-engines-option =
+    .label = Motors de recèrca
+    .accesskey = a
 addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions del motor de recèrca
 
 ## Privacy Section - Content Blocking
