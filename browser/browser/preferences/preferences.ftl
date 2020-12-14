@@ -935,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Κορυφαίων ιστοσελίδων
     .accesskey = Κ
+addressbar-locbar-engines-option =
+    .label = Μηχανές αναζήτησης
+    .accesskey = α
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 
 ## Privacy Section - Content Blocking
