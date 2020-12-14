@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] tunnin välein
            *[other] { $hours } tunnin välein
         }
+carddav-readonly-label =
+    .label = Vain luku
+    .accesskey = V
