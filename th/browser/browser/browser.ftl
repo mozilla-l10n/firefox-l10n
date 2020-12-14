@@ -294,6 +294,7 @@ identity-https-only-info-no-upgrade = ไม่สามารถอัปเก
 identity-permissions =
     .value = สิทธิอนุญาต
 identity-permissions-storage-access-header = คุกกี้ข้ามไซต์
+identity-permissions-storage-access-hint = บุคคลเหล่านี้สามารถใช้คุกกี้ข้ามไซต์และข้อมูลไซต์ในขณะที่คุณอยู่บนไซต์นี้ได้
 identity-permissions-reload-hint = คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล
 identity-permissions-empty = คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิอนุญาตพิเศษใด ๆ
 identity-clear-site-data =
@@ -342,6 +343,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = นำเข้าที่คั่นหน้า…
     .tooltiptext = นำเข้าที่คั่นหน้าจากเบราว์เซอร์อื่นมายัง { -brand-short-name }
+bookmarks-toolbar-empty-message = วางที่คั่นหน้าของคุณไว้ที่นี่บนแถบเครื่องมือที่คั่นหน้าเพื่อให้เข้าถึงได้อย่างรวดเร็ว <a data-l10n-name="manage-bookmarks">จัดการที่คั่นหน้า…</a>
 
 ## WebRTC Pop-up notifications
 
