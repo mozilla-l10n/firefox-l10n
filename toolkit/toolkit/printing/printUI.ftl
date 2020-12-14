@@ -63,10 +63,11 @@ printui-margins-custom-inches = Egyéni (hüvelyk)
 printui-margins-custom-top = Felső
 printui-margins-custom-top-inches = Felső (hüvelyk)
 printui-margins-custom-bottom = Alsó
-printui-margins-custom-bottom-inches = Alul (hüvelyk)
+printui-margins-custom-bottom-inches = Alsó (hüvelyk)
 printui-margins-custom-left = Bal
 printui-margins-custom-left-inches = Bal (hüvelyk)
 printui-margins-custom-right = Jobb
+printui-margins-custom-right-inches = Jobb (hüvelyk)
 printui-system-dialog-link = Nyomtatás a rendszer párbeszédablakával…
 printui-primary-button = Nyomtatás
 printui-primary-button-save = Mentés
@@ -78,6 +79,9 @@ printui-loading = Előnézet előkészítése
 printui-preview-label =
     .aria-label = Nyomtatási kép
 printui-pages-per-sheet = Oldalak száma laponként
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Nyomtatás…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
