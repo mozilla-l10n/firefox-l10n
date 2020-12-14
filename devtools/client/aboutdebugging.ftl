@@ -167,39 +167,39 @@ about-debugging-runtime-processes =
     .name = Processos
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button2 = Desempenho do perfil
+about-debugging-runtime-profile-button2 = Analisar desempenho
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
-about-debugging-runtime-service-workers-not-compatible = Your browser configuration is not compatible with Service Workers. <a>Learn more</a>
+about-debugging-runtime-service-workers-not-compatible = A configuração do seu navegador não é compatível com Service Workers. <a>Saiba mais</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = The connected browser has an old version ({ $runtimeVersion }). The minimum supported version is ({ $minVersion }). This is an unsupported setup and may cause DevTools to fail. Please update the connected browser. <a>Troubleshooting</a>
+about-debugging-browser-version-too-old = O navegador conectado está numa versão antiga ({ $runtimeVersion }). A versão mínima suportada é ({ $minVersion }). Esta é uma configuração não suportada e pode causar falhas no DevTools. Atualize o navegador conectado. <a>Soluções de problemas</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
-about-debugging-browser-version-too-old-fennec = This version of Firefox cannot debug Firefox for Android (68). We recommend installing Firefox for Android Nightly on your phone for testing. <a>More details</a>
+about-debugging-browser-version-too-old-fennec = Esta versão do Firefox não pode depurar o Firefox para Android (68). Recomendamos instalar o Firefox para Android Nightly em seu celular para testes. <a>Mais detalhes</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = The connected browser is more recent ({ $runtimeVersion }, buildID { $runtimeID }) than your { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). This is an unsupported setup and may cause DevTools to fail. Please update Firefox. <a>Troubleshooting</a>
+about-debugging-browser-version-too-recent = O navegador conectado é mais recente ({ $runtimeVersion }, buildID { $runtimeID }) do que seu { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Esta é uma configuração não suportada e pode causar falhas no DevTools. Atualize o Firefox. <a>Soluções de problemas</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
-about-debugging-runtime-disconnect-button = Disconnect
+about-debugging-runtime-disconnect-button = Deconectar
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is false on the target runtime.
-about-debugging-connection-prompt-enable-button = Enable connection prompt
+about-debugging-connection-prompt-enable-button = Pedido de ativar conexão
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
-about-debugging-connection-prompt-disable-button = Disable connection prompt
+about-debugging-connection-prompt-disable-button = Pedido de desativar conexão
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = Profiler
 # Clicking on the header of a debug target category will expand or collapse the debug
