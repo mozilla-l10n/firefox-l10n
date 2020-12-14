@@ -216,6 +216,7 @@ newtab-custom-row-selector =
         [one] { $num } linha
        *[other] { $num } linhas
     }
+newtab-custom-pocket-title = Recomandat per { -pocket-brand-name }
 newtab-custom-recent-title = Activitat recenta
 newtab-custom-close-button = Tampar
 newtab-custom-settings = Gerir mai de paramètres

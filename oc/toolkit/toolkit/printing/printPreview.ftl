@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Pagina :
     .accesskey = P
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } sus { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
