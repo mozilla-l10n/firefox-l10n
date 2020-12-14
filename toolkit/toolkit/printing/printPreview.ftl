@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Sayfa:
     .accesskey = f
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } / { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Son sayfa
-
+printpreview-homearrow-button =
+    .title = İlk sayfa
+printpreview-previousarrow-button =
+    .title = Önceki sayfa
+printpreview-nextarrow-button =
+    .title = Sonraki sayfa
+printpreview-endarrow-button =
+    .title = Son sayfa

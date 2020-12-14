@@ -56,10 +56,15 @@ printui-margins-default = Varsayılan
 printui-margins-min = Minimum
 printui-margins-none = Yok
 printui-margins-custom = Özel
+printui-margins-custom-inches = Özel (inç)
 printui-margins-custom-top = Üst
+printui-margins-custom-top-inches = Üst (inç)
 printui-margins-custom-bottom = Alt
+printui-margins-custom-bottom-inches = Alt (inç)
 printui-margins-custom-left = Sol
+printui-margins-custom-left-inches = Sol (inç)
 printui-margins-custom-right = Sağ
+printui-margins-custom-right-inches = Sağ (inç)
 printui-system-dialog-link = Sistem iletişim kutusuyla yazdır…
 printui-primary-button = Yazdır
 printui-primary-button-save = Kaydet
@@ -70,6 +75,9 @@ printui-loading = Ön izleme hazırlanıyor
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Yazdırma ön izleme
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Yazdırılıyor…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
