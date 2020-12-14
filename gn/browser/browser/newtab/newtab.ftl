@@ -221,3 +221,14 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Jeike pya’eha jehepyme’ẽpyre
 newtab-custom-pocket-title = { -pocket-brand-name } oñe’ẽporãha
+newtab-custom-pocket-subtitle = Tetepy iporãva { -pocket-brand-name } oiporavopyre, { -brand-product-name } mba’éva pegua
+newtab-custom-pocket-sponsored = Tembiasakue jehepyme’ẽguáva
+newtab-custom-recent-title = Tembiapo ramovegua
+newtab-custom-recent-subtitle = Tenda jeporavo ha tetepy ramovegua
+newtab-custom-close-button = Mboty
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Mba’epehẽ
+newtab-custom-snippets-subtitle = Ñemoñe’ẽ ha marandu { -vendor-short-name } ha { -brand-product-name } rehegua
