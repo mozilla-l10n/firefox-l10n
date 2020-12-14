@@ -59,10 +59,15 @@ printui-margins-default = ברירת מחדל
 printui-margins-min = מינימום
 printui-margins-none = ללא
 printui-margins-custom = התאמה אישית
+printui-margins-custom-inches = התאמה אישית (אינצ'ים)
 printui-margins-custom-top = מלמעלה
+printui-margins-custom-top-inches = מלמעלה (אינצ'ים)
 printui-margins-custom-bottom = מלמטה
+printui-margins-custom-bottom-inches = מלמטה (אינצ'ים)
 printui-margins-custom-left = משמאל
+printui-margins-custom-left-inches = משמאל (אינצ'ים)
 printui-margins-custom-right = מימין
+printui-margins-custom-right-inches = מימין (אינצ'ים)
 printui-system-dialog-link = הדפסה באמצעות תיבת הדו־שיח של המערכת…
 printui-primary-button = הדפסה
 printui-primary-button-save = שמירה
@@ -74,6 +79,9 @@ printui-loading = בתהליך הכנת תצוגה מקדימה
 printui-preview-label =
     .aria-label = תצוגה לפני הדפסה
 printui-pages-per-sheet = עמודים בכל גיליון
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = בהדפסה…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
