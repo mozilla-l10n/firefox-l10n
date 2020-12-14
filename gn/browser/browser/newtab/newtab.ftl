@@ -213,3 +213,11 @@ newtab-error-fallback-refresh-link = Kuatiarogue mbopiro’y eñepyrũjey hag̃u
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Jeike pya’eha
+newtab-custom-shortcuts-subtitle = Tenda eñongatúva térã eikeha
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } Mba’erysýi
+       *[other] { $num } Mba’erysyikuéra
+    }
+newtab-custom-sponsored-sites = Jeike pya’eha jehepyme’ẽpyre
+newtab-custom-pocket-title = { -pocket-brand-name } oñe’ẽporãha
