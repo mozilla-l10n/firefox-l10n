@@ -508,6 +508,7 @@ home-prefs-shortcuts-description = Mentett vagy felkeresett webhelyek
 home-prefs-recommended-by-header =
     .label = A(z) { $provider } ajánlásával
 home-prefs-recommended-by-description-update = Kivételes tartalom szerte az internetről, a { $provider } válogatásában
+home-prefs-recommended-by-description-new = Kivételes tartalmak a { $provider } válogatásában, amely a { -brand-product-name } család része
 
 ##
 
@@ -527,6 +528,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }be mentett lapok
 home-prefs-recent-activity-header =
     .label = Legutóbbi tevékenység
+home-prefs-recent-activity-description = Válogatás a legutóbbi webhelyekből és tartalmakból
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -534,6 +536,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Töredékek
 home-prefs-snippets-description = Hírek a { -vendor-short-name } és a { -brand-product-name } felől
+home-prefs-snippets-description-new = Tippek és hírek a { -vendor-short-name } és a { -brand-product-name } felől
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -927,6 +930,9 @@ addressbar-locbar-openpage-option =
     .accesskey = N
 addressbar-locbar-topsites-option =
     .label = Kedvenc oldalak
+    .accesskey = K
+addressbar-locbar-engines-option =
+    .label = Keresőszolgáltatások
     .accesskey = K
 addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
 
