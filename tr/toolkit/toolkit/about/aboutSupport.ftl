@@ -185,6 +185,28 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-module = Modül dosyası
+support-third-party-modules-version = Dosya sürümü
+support-third-party-modules-process = İşlem türü ve kimliği
+support-third-party-modules-thread = İş parçacığı
+support-third-party-modules-uptime = İşlemin çalışma süresi (ms)
+support-third-party-modules-duration = Yükleme süresi (ms)
+support-third-party-modules-empty = Hiçbir üçüncü taraf modülü yüklenmedi.
+support-third-party-modules-no-value = (Değer yok)
+support-third-party-modules-button-open =
+    .title = Dosya konumunu aç…
+support-third-party-modules-expand =
+    .title = Ayrıntılı bilgileri göster
+support-third-party-modules-collapse =
+    .title = Ayrıntılı bilgileri gizle
+support-third-party-modules-unsigned-icon =
+    .title = Bu modül imzalanmamış
+support-third-party-modules-folder-icon =
+    .title = Dosya konumunu aç…
+support-third-party-modules-down-icon =
+    .title = Ayrıntılı bilgileri göster
+support-third-party-modules-up-icon =
+    .title = Ayrıntılı bilgileri gizle
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
