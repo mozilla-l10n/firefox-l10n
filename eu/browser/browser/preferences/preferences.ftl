@@ -496,6 +496,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Gehien bisitatzen dituzun guneak
 home-prefs-topsites-by-option-sponsored =
     .label = Babesleek hornitutako guneak
+home-prefs-shortcuts-header =
+    .label = Lasterbideak
+home-prefs-shortcuts-description = Gordetzen edo bisitatzen dituzun guneak
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Babesleen lasterbideak
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
