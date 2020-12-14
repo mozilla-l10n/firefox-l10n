@@ -206,3 +206,22 @@ newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kayde
 
 newtab-error-fallback-info = Bu içerik yüklenirken bir hata oluştu.
 newtab-error-fallback-refresh-link = Yeniden denemek için sayfayı tazeleyin.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Kısayollar
+newtab-custom-shortcuts-subtitle = Kaydettiğiniz veya ziyaret ettiğiniz siteler
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } satır
+       *[other] { $num } satır
+    }
+newtab-custom-sponsored-sites = Sponsorlu kısayollar
+newtab-custom-pocket-title = { -pocket-brand-name } önerileri
+newtab-custom-close-button = Kapat
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Duyurular
+newtab-custom-snippets-subtitle = { -vendor-short-name } ve { -brand-product-name }’tan ipuçları ve haberler
