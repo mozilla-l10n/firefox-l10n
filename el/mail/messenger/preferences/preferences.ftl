@@ -489,8 +489,8 @@ cloud-account-description = Προσθήκη νέας υπηρεσίας απο�
 
 mail-content = Περιεχόμενο email
 remote-content-label =
-    .label = Να επιτρέπεται το απομακρυσμένο περιεχόμενο στα μηνύματα
-    .accesskey = π
+    .label = Αποδοχή απομακρυσμένου περιεχομένου στα μηνύματα
+    .accesskey = μ
 exceptions-button =
     .label = Εξαιρέσεις…
     .accesskey = Ε
