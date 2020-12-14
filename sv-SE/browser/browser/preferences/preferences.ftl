@@ -935,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Mest besökta
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Sökmotorer
+    .accesskey = m
 addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
 
 ## Privacy Section - Content Blocking
