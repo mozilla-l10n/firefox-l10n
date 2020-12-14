@@ -130,6 +130,9 @@ sandbox-sys-call-number = Sistema-deia
 sandbox-sys-call-args = Argumentuak
 safe-mode-title = Probatu modu segurua
 restart-in-safe-mode-label = Berrabiarazi gehigarriak desgaituta…
+clear-startup-cache-title = Saiatu abioko cachea garbitzen
+clear-startup-cache-label = Garbitu abioko cachea…
+startup-cache-dialog-title = Garbitu abioko cachea
 restart-button-label = Berrabiarazi
 
 ## Media titles
@@ -180,6 +183,14 @@ remote-debugging-url = URLa
 
 ##
 
+support-third-party-modules-button-open =
+    .title = Ireki fitxategi-kokalekua…
+support-third-party-modules-expand =
+    .title = Erakutsi informazio xehatua
+support-third-party-modules-folder-icon =
+    .title = Ireki fitxategi-kokalekua…
+support-third-party-modules-down-icon =
+    .title = Erakutsi informazio xehatua
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
