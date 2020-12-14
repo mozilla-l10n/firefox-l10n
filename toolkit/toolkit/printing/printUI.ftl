@@ -59,10 +59,15 @@ printui-margins-default = Standert
 printui-margins-min = Minimum
 printui-margins-none = Gjin
 printui-margins-custom = Oanpast
+printui-margins-custom-inches = Oanpast (inches)
 printui-margins-custom-top = Boppe
+printui-margins-custom-top-inches = Boppeside (inches)
 printui-margins-custom-bottom = Under
+printui-margins-custom-bottom-inches = Underside (inches)
 printui-margins-custom-left = Links
+printui-margins-custom-left-inches = Links (inches)
 printui-margins-custom-right = Rjochts
+printui-margins-custom-right-inches = Rjochts (inches)
 printui-system-dialog-link = Ofdrukke fia it systeemdialoochfienster…
 printui-primary-button = Ofdrukke
 printui-primary-button-save = Bewarje
@@ -74,6 +79,9 @@ printui-loading = Foarbyld tariede
 printui-preview-label =
     .aria-label = Ofdrukfoarbyld
 printui-pages-per-sheet = Siden per blêd
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Ofdrukke…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

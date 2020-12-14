@@ -935,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Topwebsites
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Sykmasinen
+    .accesskey = y
 addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 
 ## Privacy Section - Content Blocking
