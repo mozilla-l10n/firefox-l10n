@@ -161,6 +161,18 @@
 <!ENTITY calendar.context.newevent.accesskey          "Ն">
 <!ENTITY calendar.context.newtodo.label               "Նոր առաջադրանք…">
 <!ENTITY calendar.context.newtodo.accesskey           "ք">
+<!ENTITY calendar.context.deletetask.label            "Ջնջել առաջադրանքը">
+<!ENTITY calendar.context.deletetask.accesskey        "l">
+<!ENTITY calendar.context.deleteevent.label           "Ջնջել իրադարձութիւնը">
+<!ENTITY calendar.context.deleteevent.accesskey       "l">
+<!ENTITY calendar.context.cutevent.label              "Կտրել">
+<!ENTITY calendar.context.cutevent.accesskey          "t">
+<!ENTITY calendar.context.copyevent.label             "Պատճէնել">
+<!ENTITY calendar.context.copyevent.accesskey         "C">
+<!ENTITY calendar.context.pasteevent.label            "Դնել">
+<!ENTITY calendar.context.pasteevent.accesskey        "Դ">
+<!ENTITY calendar.context.button.label                "Այսաւրուայ փեղկ">
+<!ENTITY calendar.context.button.accesskey            "T">
 
 
 
