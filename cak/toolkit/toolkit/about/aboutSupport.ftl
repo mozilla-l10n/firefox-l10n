@@ -185,8 +185,16 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-version = Ruwäch Yakb'äl
+support-third-party-modules-vendor = Retamab'al B'anonel
+support-third-party-modules-occurrence = Taq ch'ob'oj
 support-third-party-modules-process = Ruwa tajinïk & ID
 support-third-party-modules-thread = Tzijonem
+support-third-party-modules-base = Rochochib'al imagebase
+support-third-party-modules-button-open =
+    .title = Tijaq ri ruk'ojlemal yakb'äl…
+support-third-party-modules-folder-icon =
+    .title = Tijaq ri ruk'ojlemal yakb'äl…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

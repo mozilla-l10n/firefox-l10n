@@ -74,6 +74,9 @@ printui-loading = Runuk'ik Nab'ey Tz'etoj
 printui-preview-label =
     .aria-label = Nab'ey Tz'etoj
 printui-pages-per-sheet = Taq ruxaq chi ruxaq
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Nitz'ajb'äx…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
