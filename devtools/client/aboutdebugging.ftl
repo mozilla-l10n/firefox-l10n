@@ -9,10 +9,10 @@
 # Page Title strings
 
 # Page title (ie tab title) for the Setup page
-about-debugging-page-title-setup-page = Debugging - Configuração
+about-debugging-page-title-setup-page = Depuração - Configuração
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
-about-debugging-page-title-runtime-page = Debugging - Tempo de execução / { $selectedRuntimeId }
+about-debugging-page-title-runtime-page = Depuração - Tempo de execução / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -89,56 +89,56 @@ about-debugging-setup-connect-heading = Conectar um dispositivo
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = Enabling this will download and add the required Android USB debugging components to { -brand-shorter-name }.
+about-debugging-setup-usb-disabled = Ativar isso irá baixar e adicionar os componentes de depuração USB Android necessários ao { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
-about-debugging-setup-usb-enable-button = Enable USB Devices
+about-debugging-setup-usb-enable-button = Ativar dispositivos USB
 # Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
-about-debugging-setup-usb-disable-button = Disable USB Devices
+about-debugging-setup-usb-disable-button = Desativar dispositivos USB
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
-about-debugging-setup-usb-updating-button = Updating…
+about-debugging-setup-usb-updating-button = Atualizando…
 # USB section of the Setup page (USB status)
-about-debugging-setup-usb-status-enabled = Enabled
-about-debugging-setup-usb-status-disabled = Disabled
-about-debugging-setup-usb-status-updating = Updating…
+about-debugging-setup-usb-status-enabled = Ativado
+about-debugging-setup-usb-status-disabled = Desativado
+about-debugging-setup-usb-status-updating = Atualizando…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu2 = Enable Developer menu on your Android device.
+about-debugging-setup-usb-step-enable-dev-menu2 = Ativar menu de desenvolvimento no seu dispositivo Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug2 = Enable USB Debugging in the Android Developer Menu.
+about-debugging-setup-usb-step-enable-debug2 = Ativar depuração USB no menu de desenvolvimento do Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = Enable USB Debugging in Firefox on the Android device.
+about-debugging-setup-usb-step-enable-debug-firefox2 = Ativar depuração USB no Firefox no dispositivo Android.
 # USB section step by step guide
-about-debugging-setup-usb-step-plug-device = Connect the Android device to your computer.
+about-debugging-setup-usb-step-plug-device = Conectar o dispositivo Android ao seu computador.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
-about-debugging-setup-usb-troubleshoot = Problems connecting to the USB device? <a>Troubleshoot</a>
+about-debugging-setup-usb-troubleshoot = Problemas na conexão com o dispositivo USB? <a>Soluções de problemas</a>
 # Network section of the Setup page
 about-debugging-setup-network =
-    .title = Network Location
+    .title = Localização de rede
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
-about-debugging-setup-network-troubleshoot = Problems connecting via network location? <a>Troubleshoot</a>
+about-debugging-setup-network-troubleshoot = Problemas na conexão via localização de rede? <a>Soluções de problemas</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
-about-debugging-network-locations-add-button = Add
+about-debugging-network-locations-add-button = Adicionar
 # Text to display when there are no locations to show.
-about-debugging-network-locations-empty-text = No network locations have been added yet.
+about-debugging-network-locations-empty-text = Nenhum local de rede foi adicionado ainda.
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
-about-debugging-network-locations-host-input-label = Host
+about-debugging-network-locations-host-input-label = Servidor
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
-about-debugging-network-locations-remove-button = Remove
+about-debugging-network-locations-remove-button = Remover
 # Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
-about-debugging-network-location-form-invalid = Invalid host “{ $host-value }”. The expected format is “hostname:portnumber”.
+about-debugging-network-location-form-invalid = Servidor “{ $host-value }” inválido. O formato esperado é “hostname:portnumber”.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
-about-debugging-network-location-form-duplicate = The host “{ $host-value }” is already registered
+about-debugging-network-location-form-duplicate = O servidor “{ $host-value }” já está registrado
 
 # Runtime Page strings
 
@@ -146,28 +146,28 @@ about-debugging-network-location-form-duplicate = The host “{ $host-value }”
 # on "runtime" pages of about:debugging.
 # Title of the temporary extensions category (only available for "This Firefox" runtime).
 about-debugging-runtime-temporary-extensions =
-    .name = Temporary Extensions
+    .name = Extensões temporárias
 # Title of the extensions category.
 about-debugging-runtime-extensions =
-    .name = Extensions
+    .name = Extensões
 # Title of the tabs category.
 about-debugging-runtime-tabs =
-    .name = Tabs
+    .name = Abas
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
     .name = Service Workers
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Shared Workers
+    .name = Workers compartilhados
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = Other Workers
+    .name = Outros Workers
 # Title of the processes category.
 about-debugging-runtime-processes =
-    .name = Processes
+    .name = Processos
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button2 = Profile performance
+about-debugging-runtime-profile-button2 = Desempenho do perfil
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
