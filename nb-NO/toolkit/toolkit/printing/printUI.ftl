@@ -59,10 +59,15 @@ printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Ingen
 printui-margins-custom = Tilpasset
+printui-margins-custom-inches = Egendefinert (tommer)
 printui-margins-custom-top = Topp
+printui-margins-custom-top-inches = Topp (tommer)
 printui-margins-custom-bottom = Bunn
+printui-margins-custom-bottom-inches = Bunn (tommer)
 printui-margins-custom-left = Venstre
+printui-margins-custom-left-inches = Venstre (tommer)
 printui-margins-custom-right = Høyre
+printui-margins-custom-right-inches = Høyre (tommer)
 printui-system-dialog-link = Skriv ut ved hjelp av systemdialogvinduet…
 printui-primary-button = Skriv ut
 printui-primary-button-save = Lagre
@@ -74,6 +79,9 @@ printui-loading = Forbereder forhåndsvisning
 printui-preview-label =
     .aria-label = Forhåndsvisning
 printui-pages-per-sheet = Sider per ark
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Skriver ut …
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
