@@ -943,6 +943,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Nejcesćej woglědane sedła
     .accesskey = N
+addressbar-locbar-engines-option =
+    .label = Pytnice
+    .accesskey = P
 addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 
 ## Privacy Section - Content Blocking
