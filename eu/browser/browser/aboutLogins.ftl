@@ -169,7 +169,6 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
-about-logins-confirm-remove-all-dialog-confirm-button = Kendu denak
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Bai, kendu saio-hasiera hau
@@ -185,6 +184,11 @@ about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kendu saio-hasiera gailu guztietatik?
        *[other] Kendu { $count } saio-hasiera gailu guztietatik?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera { -fxaccount-brand-name } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
+       *[other] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera guztiak { -fxaccount-brand-name } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
     }
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
