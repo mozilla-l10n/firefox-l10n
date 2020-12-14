@@ -193,6 +193,8 @@ support-third-party-modules-occurrence = Mba’eaporei
 support-third-party-modules-process = Peteĩva tapereko ha ID
 support-third-party-modules-thread = Inimbo
 support-third-party-modules-base = Imagebase Kundaharape
+support-third-party-modules-uptime = Tapereko rembiapo arekue (ms)
+support-third-party-modules-duration = Ñemyanyhẽ arekue (ms)
 support-third-party-modules-no-value = (Hepy’ỹva)
 support-third-party-modules-button-open =
     .title = Eike marandurenda rendaitépe…
@@ -202,6 +204,12 @@ support-third-party-modules-collapse =
     .title = Eike marandurenda hesa’ỹijopyrévape
 support-third-party-modules-unsigned-icon =
     .title = Ko ha’ãha noñemboheraguapýi
+support-third-party-modules-folder-icon =
+    .title = Embojuruja marandurenda rendaite…
+support-third-party-modules-down-icon =
+    .title = Eike marandurenda hesa’ỹijopyrévape
+support-third-party-modules-up-icon =
+    .title = Emokañy marandurenda hesa’ỹijopyrévape
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
