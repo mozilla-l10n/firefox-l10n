@@ -255,57 +255,57 @@ about-debugging-extension-id =
 # Note this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
 about-debugging-worker-action-push2 = Push
-    .disabledTitle = Service Worker push is currently disabled for multiprocess { -brand-shorter-name }
+    .disabledTitle = Push de service worker no momento está desativado para multiprocessamento do { -brand-shorter-name }
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Start
-    .disabledTitle = Service Worker start is currently disabled for multiprocess { -brand-shorter-name }
+    .disabledTitle = Start de service worker no momento está desativado para multiprocessamento do { -brand-shorter-name }
 # This string is displayed as a label of the button that unregisters a service worker.
-about-debugging-worker-action-unregister = Unregister
+about-debugging-worker-action-unregister = Cancelar registro
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = Fetch
-    .value = Listening for fetch events
+    .value = Ouvindo eventos de fetch
 # Displayed for service workers in runtime pages that do not listen to Fetch events.
 about-debugging-worker-fetch-not-listening =
     .label = Fetch
-    .value = Not listening for fetch events
+    .value = Não ouvindo eventos de fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
-about-debugging-worker-status-running = Running
+about-debugging-worker-status-running = Executando
 # Displayed for service workers in runtime pages that are registered but stopped.
-about-debugging-worker-status-stopped = Stopped
+about-debugging-worker-status-stopped = Parado
 # Displayed for service workers in runtime pages that are registering.
-about-debugging-worker-status-registering = Registering
+about-debugging-worker-status-registering = Registrando
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
-    .label = Scope
+    .label = Escopo
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
-    .label = Push Service
+    .label = Serviço Push
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = Service Worker inspection is currently disabled for multiprocess { -brand-shorter-name }
+    .title = Inspeção de service worker no momento está desativada para multiprocessamento do { -brand-shorter-name }
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
-    .title = Tab is not fully loaded and cannot be inspected
+    .title = A aba não foi carregada totalmente e não pode ser inspecionada
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = Main Process
+about-debugging-main-process-name = Processo principal
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = Main Process for the target browser
+about-debugging-main-process-description2 = Processo principal do navegador de destino
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
-about-debugging-multiprocess-toolbox-name = Multiprocess Toolbox
+about-debugging-multiprocess-toolbox-name = Caixa de ferramentas de multiprocessamento
 # Description for the Multiprocess Toolbox target.
-about-debugging-multiprocess-toolbox-description = Main Process and Content Processes for the target browser
+about-debugging-multiprocess-toolbox-description = Processo principal e processos de conteúdo do navegador de destino
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
-    .alt = Close message
+    .alt = Fechar mensagem
 # Label text used for the error details of message component.
-about-debugging-message-details-label-error = Error details
+about-debugging-message-details-label-error = Detalhes do erro
 # Label text used for the warning details of message component.
-about-debugging-message-details-label-warning = Warning details
+about-debugging-message-details-label-warning = Detalhes do aviso
 # Label text used for default state of details of message component.
-about-debugging-message-details-label = Details
+about-debugging-message-details-label = Detalhes
