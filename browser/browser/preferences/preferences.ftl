@@ -511,8 +511,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Babesleen istorioak
 home-prefs-highlights-header =
     .label = Nabarmendutakoak
-home-prefs-recent-activity-header =
-    .label = Azken jarduera
 home-prefs-highlights-description = Gorde edo bisitatu dituzun guneen hautapena
 home-prefs-highlights-option-visited-pages =
     .label = Bisitatutako orriak
@@ -522,6 +520,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Azken deskarga
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-en gordetako orriak
+home-prefs-recent-activity-header =
+    .label = Azken jarduera
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -789,6 +789,10 @@ forms-master-pw-fips-title = Une honetan FIPS moduan zaude. FIPS moduak pasahitz
 forms-primary-pw-change =
     .label = Aldatu pasahitz nagusia…
     .accesskey = d
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Une honetan FIPS moduan zaude. FIPS moduak pasahitz nagusia ezartzea eskatzen du.
 forms-master-pw-fips-desc = Pasahitz aldaketak huts egin du
 
