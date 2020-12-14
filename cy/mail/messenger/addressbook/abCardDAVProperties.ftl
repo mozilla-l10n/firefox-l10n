@@ -32,3 +32,6 @@ carddav-refreshinterval-hours-value =
             [many] pob { $hours } awr
            *[other] pob { $hours } awr
         }
+carddav-readonly-label =
+    .label = Darllen yn unig
+    .accesskey = D
