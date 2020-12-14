@@ -174,10 +174,50 @@
 <!ENTITY calendar.context.button.label                "Այսաւրուայ փեղկ">
 <!ENTITY calendar.context.button.accesskey            "T">
 
+<!ENTITY calendar.context.attendance.menu.label                 "Մասնակցութիւն">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "Այս դէպքը">
+<!ENTITY calendar.context.attendance.all2.label                 "Աւարտել շարքերը">
+<!ENTITY calendar.context.attendance.send.label                 "Ուղարկել ծանուցում հիմա">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Չուղարկել ծանուցում">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "D">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Ընդունուած">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Նախնական ընդունուած է">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Մերժուած">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Պատուիրակուած">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Գործողութեան սպասելիս">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Ընթացքում">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Կատարուած">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Ընդունուած">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Նախնական ընտրուած է">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "Մերժուած">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Պատուիրակուած">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Գործողութեան սպասելիս">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Ընթացքում">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "Կատարուած">
 
 <!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Առաջընթաց">
+<!ENTITY calendar.context.progress.accesskey          "P">
+<!ENTITY calendar.context.priority.label              "Առաջնահերթութիւն">
+<!ENTITY calendar.context.priority.accesskey          "r">
 
 <!--=percent sign-->
 
