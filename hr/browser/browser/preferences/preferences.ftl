@@ -503,6 +503,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Stranice koje najviše posjećujete
 home-prefs-topsites-by-option-sponsored =
     .label = Sponzorirane najpopularnije stranice
+home-prefs-shortcuts-header =
+    .label = Prečaci
+home-prefs-shortcuts-description = Stranice koje spremiš ili posjetiš
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponzorirani prečaci
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -510,6 +515,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Preporučeno od { $provider }
 home-prefs-recommended-by-description-update = Izniman sadržaj sa svih strana weba, kojeg izabire { $provider }
+home-prefs-recommended-by-description-new = Izuzetan sadržaj kojeg odabire { $provider }, dio obitelji { -brand-product-name }
 
 ##
 
@@ -518,8 +524,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponzorirane priče
 home-prefs-highlights-header =
     .label = Istaknuto
-home-prefs-recent-activity-header =
-    .label = Nedavna aktivnost
 home-prefs-highlights-description = Izbor stranica koje ste spremili ili posjetili
 home-prefs-highlights-option-visited-pages =
     .label = Posjećene stranice
@@ -529,6 +533,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Najnovije preuzimanje
 home-prefs-highlights-option-saved-to-pocket =
     .label = Stranice spremljene u { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Nedavna aktivnost
+home-prefs-recent-activity-description = Izbor nedavnih stranica i sadržaja
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -927,6 +934,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Najbolje stranice
     .accesskey = N
+addressbar-locbar-engines-option =
+    .label = Tražilice
+    .accesskey = a
 addressbar-suggestions-settings = Promijeni postavke za prijedloge tražilica
 
 ## Privacy Section - Content Blocking
