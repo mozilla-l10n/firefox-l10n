@@ -218,24 +218,70 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Առաջնահերթութիւն">
 <!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Յետաձգել առաջադրանքը">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
-<!--=percent sign-->
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
+<!ENTITY calendar.context.markcompleted.label     "Նշել կատարուած">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
 
+<!ENTITY progress.level.0             "0 &percnt; Կատարուած">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25 &percnt; Կատարուած">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50 &percnt; Կատարուած">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75&percnt; Կատարուած">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100&percnt; Կատարուած">
+<!ENTITY progress.level.100.accesskey  "1">
 
+<!ENTITY priority.level.none                "Յատկորոշուած չէ">
+<!ENTITY priority.level.none.accesskey      "յ">
+<!ENTITY priority.level.low                 "Ցածր">
+<!ENTITY priority.level.low.accesskey       "L">
+<!ENTITY priority.level.normal              "Միջին">
+<!ENTITY priority.level.normal.accesskey    "Մ">
+<!ENTITY priority.level.high                "Բարձր">
+<!ENTITY priority.level.high.accesskey      "Բ">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 Ժամ">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "Բ">
+<!ENTITY calendar.context.postpone.1day.label       "1 Աւր">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Շաբաթ">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
+<!ENTITY calendar.copylink.label       "Պատճէնել յղման հասցէն">
+<!ENTITY calendar.copylink.accesskey   "C">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Ջնջել">
 
 <!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Նոր աւրացոյց…">
+<!ENTITY calendar.context.newserver.accesskey          "N">
+<!ENTITY calendar.context.findcalendar.label           "Գտնել աւրացոյց…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "F" >
+<!ENTITY calendar.context.deleteserver2.label          "Ջնջել աւրացոյցը…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "D">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "Հեռացնել աւրացոյցը…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.unsubscribeserver.label      "Ապաբաժանորդագրուել աւրացոյցից…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "U">
+<!ENTITY calendar.context.synccalendars.label          "Համաժամեցնել աւրացոյցերը">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
+<!ENTITY calendar.context.publish.label                "Հրապարակել աւրացոյցը…">
+<!ENTITY calendar.context.publish.accesskey            "b">
+<!ENTITY calendar.context.export.label                 "Արտածել աւրացոյցը…">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
