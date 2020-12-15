@@ -728,7 +728,7 @@
 <!ENTITY fromColumn2.tooltip "Сортувати за відправником">
 <!ENTITY recipientColumn2.tooltip "Сортувати за отримувачем">
 <!ENTITY correspondentColumn2.tooltip "Сортувати за кореспондентами">
-<!ENTITY subjectColumn2.tooltip "Сотртувати за темою">
+<!ENTITY subjectColumn2.tooltip "Сортувати за темою">
 <!ENTITY dateColumn2.tooltip "Сортувати за датою">
 <!ENTITY priorityColumn2.tooltip "Сортувати за пріоритетом">
 <!ENTITY tagsColumn2.tooltip "Сортувати за мітками">
