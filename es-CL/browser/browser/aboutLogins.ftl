@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ¿Eliminar esta credencial?
 confirm-delete-dialog-message = Esta acción no puede revertirse.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
-about-logins-confirm-remove-all-dialog-confirm-button = Eliminar todas
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Eliminar
+        [one] Eliminar
+       *[other] Eliminar todas
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Sí, eliminar esta credencial
