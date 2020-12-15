@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Allontanar questas infurmaziuns d'annunzia?
 confirm-delete-dialog-message = Questa acziun na po betg vegnir revocada.
 about-logins-confirm-remove-dialog-confirm-button = Allontanar
-about-logins-confirm-remove-all-dialog-confirm-button = Allontanar tut
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Allontanar
+        [one] Allontanar tut
+       *[other] Allontanar tut
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Gea, allontanar questa data d'annunzia
