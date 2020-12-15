@@ -60,10 +60,15 @@ printui-margins-default = Типово
 printui-margins-min = Якнайменше
 printui-margins-none = Немає
 printui-margins-custom = Власні
+printui-margins-custom-inches = Власне (дюймів)
 printui-margins-custom-top = Вгорі
+printui-margins-custom-top-inches = Вгорі (дюймів)
 printui-margins-custom-bottom = Внизу
+printui-margins-custom-bottom-inches = Внизу (дюймів)
 printui-margins-custom-left = Ліворуч
+printui-margins-custom-left-inches = Зліва (дюймів)
 printui-margins-custom-right = Праворуч
+printui-margins-custom-right-inches = Справа (дюймів)
 printui-system-dialog-link = Друк за допомогою засобу системи…
 printui-primary-button = Надрукувати
 printui-primary-button-save = Зберегти
@@ -75,6 +80,9 @@ printui-loading = Підготовка до попереднього перег�
 printui-preview-label =
     .aria-label = Попередній перегляд
 printui-pages-per-sheet = Сторінок на аркуші
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Друк…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

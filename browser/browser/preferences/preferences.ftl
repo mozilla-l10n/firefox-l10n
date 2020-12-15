@@ -939,6 +939,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Популярні сайти
     .accesskey = с
+addressbar-locbar-engines-option =
+    .label = Засоби пошуку
+    .accesskey = ш
 addressbar-suggestions-settings = Змінити налаштування пропозицій засобів пошуку
 
 ## Privacy Section - Content Blocking
