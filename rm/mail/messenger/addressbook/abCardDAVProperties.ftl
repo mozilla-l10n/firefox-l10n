@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] mintga ura
            *[other] mintga { $hours } uras
         }
+carddav-readonly-label =
+    .label = Mo per lectura
+    .accesskey = r
