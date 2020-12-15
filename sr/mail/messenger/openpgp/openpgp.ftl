@@ -21,9 +21,16 @@ openpgp-manager-button =
     .label = OpenPGP управник кључева
     .accesskey = O
 expiry-open-key-manager = Отвори OpenPGP управника кључева
+import-info-no-keys = Ниједан кључ није увезен.
 
 ## Account settings export output
 
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Нисмо могли наћи кључ који се подудара са датим параметрима претраге.
 
 # Strings used in enigmailMessengerOverlay.js
 
+# Strings used in decryption.jsm
+do-import-multiple =
+    Извршити увоз следећих кључева?
+    { $key }
