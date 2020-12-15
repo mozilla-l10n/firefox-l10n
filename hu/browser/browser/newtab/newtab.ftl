@@ -220,6 +220,7 @@ newtab-custom-row-selector =
        *[other] { $num } sor
     }
 newtab-custom-pocket-title = A { -pocket-brand-name } által ajánlott
+newtab-custom-pocket-subtitle = Kivételes tartalmak a { -pocket-brand-name } válogatásában, amely a { -brand-product-name } család része
 newtab-custom-pocket-sponsored = Szponzorált történetek
 newtab-custom-recent-title = Legutóbbi tevékenység
 newtab-custom-recent-subtitle = Válogatás a legutóbbi webhelyekből és tartalmakból
