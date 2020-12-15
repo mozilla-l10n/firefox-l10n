@@ -188,6 +188,20 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Módulos de terceros
+support-third-party-modules-module = Archivo de módulo
+support-third-party-modules-version = Versión del archivo
+support-third-party-modules-vendor = Info del fabricante
+support-third-party-modules-occurrence = Ocurrencias
+support-third-party-modules-process = ID y tipo de proceso
+support-third-party-modules-thread = Hilo
+support-third-party-modules-no-value = (Sin valor)
+support-third-party-modules-button-open =
+    .title = Abrir ubicación del archivo…
+support-third-party-modules-expand =
+    .title = Mostrar información detallada
+support-third-party-modules-collapse =
+    .title = Contraer información detallada
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
