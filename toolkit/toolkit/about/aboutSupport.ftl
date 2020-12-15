@@ -192,6 +192,14 @@ support-third-party-modules-vendor = Informo de provizanto
 support-third-party-modules-process = Tipo kaj identigilo de procezo
 support-third-party-modules-thread = Fadeno
 support-third-party-modules-no-value = (sen valoro)
+support-third-party-modules-expand =
+    .title = Montri detalan informon
+support-third-party-modules-collapse =
+    .title = Kaŝi detalan informon
+support-third-party-modules-down-icon =
+    .title = Montri detalan informon
+support-third-party-modules-up-icon =
+    .title = Kaŝi detalan informon
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
