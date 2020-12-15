@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "All Accounts">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
-<!ENTITY getAllNewMsgCmd.label "Get All New Messages">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Get Next 500 News Messages">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -135,7 +134,6 @@
 <!ENTITY showThreadPaneCmd.accesskey "T">
 <!ENTITY showFolderPaneCmd.label "Folder Pane">
 <!ENTITY showFolderPaneCmd.accesskey "F">
-
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleFolderPaneCmd.key "S">
@@ -410,6 +408,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Get Msgs">
+<!ENTITY getAllNewMsgCmd.label "Get All New Messages">
+<!ENTITY getAllNewMsgCmd.accesskey "G">
 <!ENTITY newMsgButton.label "Compose">
 <!ENTITY newHTMLMessageCmd.label "Compose in HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -451,8 +451,6 @@
 <!ENTITY markButton.tooltip "Mark messages">
 <!ENTITY printButton.tooltip "Print this message">
 <!ENTITY stopButton.tooltip "Stop the current transfer">
-<!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
-<!ENTITY throbber.tooltip2 "Go to the &brandShortName; home page">
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
 <!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
 
