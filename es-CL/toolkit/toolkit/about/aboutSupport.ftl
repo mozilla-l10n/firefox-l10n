@@ -195,12 +195,24 @@ support-third-party-modules-vendor = Info del fabricante
 support-third-party-modules-occurrence = Ocurrencias
 support-third-party-modules-process = ID y tipo de proceso
 support-third-party-modules-thread = Hilo
+support-third-party-modules-base = Dirección de imagebase
+support-third-party-modules-uptime = Tiempo de actividad del proceso (ms)
+support-third-party-modules-duration = Duración de carga (ms)
+support-third-party-modules-empty = No se cargaron módulos de terceros.
 support-third-party-modules-no-value = (Sin valor)
 support-third-party-modules-button-open =
     .title = Abrir ubicación del archivo…
 support-third-party-modules-expand =
     .title = Mostrar información detallada
 support-third-party-modules-collapse =
+    .title = Contraer información detallada
+support-third-party-modules-unsigned-icon =
+    .title = Este módulo no está firmado
+support-third-party-modules-folder-icon =
+    .title = Abrir ubicación del archivo…
+support-third-party-modules-down-icon =
+    .title = Mostrar información detallada
+support-third-party-modules-up-icon =
     .title = Contraer información detallada
 # Variables
 # $days (Integer) - Number of days of crashes to log
