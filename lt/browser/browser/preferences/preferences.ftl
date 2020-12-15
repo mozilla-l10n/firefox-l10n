@@ -939,6 +939,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Lankomiausios svetainės
     .accesskey = L
+addressbar-locbar-engines-option =
+    .label = Ieškyklės
+    .accesskey = e
 addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 
 ## Privacy Section - Content Blocking
