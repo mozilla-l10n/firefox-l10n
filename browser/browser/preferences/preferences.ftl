@@ -919,6 +919,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Trang web hàng đầu
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Công cụ tìm kiếm
+    .accesskey = t
 addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 
 ## Privacy Section - Content Blocking
