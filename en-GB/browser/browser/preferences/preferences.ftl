@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = The sites you visit most
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsored Top Sites
+home-prefs-shortcuts-header =
+    .label = Shortcuts
+home-prefs-shortcuts-description = Sites you save or visit
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsored shortcuts
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
 home-prefs-recommended-by-description-update = Exceptional content from across the web, curated by { $provider }
+home-prefs-recommended-by-description-new = Exceptional content curated by { $provider }, part of the { -brand-product-name } family
 
 ##
 
@@ -515,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsored Stories
 home-prefs-highlights-header =
     .label = Highlights
-home-prefs-recent-activity-header =
-    .label = Recent activity
 home-prefs-highlights-description = A selection of sites that you’ve saved or visited
 home-prefs-highlights-option-visited-pages =
     .label = Visited Pages
@@ -526,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Most Recent Download
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pages Saved to { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Recent activity
+home-prefs-recent-activity-description = A selection of recent sites and content
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description = Updates from { -vendor-short-name } and { -brand-product-name }
+home-prefs-snippets-description-new = Tips and news from { -vendor-short-name } and { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -927,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Top sites
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Search engines
+    .accesskey = a
 addressbar-suggestions-settings = Change preferences for search engine suggestions
 
 ## Privacy Section - Content Blocking
