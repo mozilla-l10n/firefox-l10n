@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "b">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "todas las cuentas">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
-<!ENTITY getAllNewMsgCmd.label "Recibir todos los mensajes nuevos">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Obtener 500 nuevos mensajes">
 <!ENTITY getNextNMsgCmd.accesskey "t">
@@ -135,7 +134,6 @@
 <!ENTITY showThreadPaneCmd.accesskey "t">
 <!ENTITY showFolderPaneCmd.label "Panel carpetas">
 <!ENTITY showFolderPaneCmd.accesskey "P">
-
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleFolderPaneCmd.key "S">
@@ -410,6 +408,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "Recibir mensajes">
+<!ENTITY getAllNewMsgCmd.label "Recibir todos los mensajes nuevos">
+<!ENTITY getAllNewMsgCmd.accesskey "G">
 <!ENTITY newMsgButton.label "Redactar">
 <!ENTITY newHTMLMessageCmd.label "Redactar en HTML">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -451,8 +451,6 @@
 <!ENTITY markButton.tooltip "Marcar mensajes">
 <!ENTITY printButton.tooltip "Imprimir este mensaje">
 <!ENTITY stopButton.tooltip "Detener la transferencia actual">
-<!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Ir a la página de inicio de &brandShortName;">
 <!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como correo basura">
 <!ENTITY notJunkButton.tooltip "Marcar los mensajes seleccionados como correo normal">
 
