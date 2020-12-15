@@ -60,10 +60,15 @@ printui-margins-default = Numatytos
 printui-margins-min = Mažiausios
 printui-margins-none = Jokių
 printui-margins-custom = Pasirinktinės
+printui-margins-custom-inches = Pasirinktinės (coliai)
 printui-margins-custom-top = Viršutinė
+printui-margins-custom-top-inches = Viršutinė (coliai)
 printui-margins-custom-bottom = Apatinė
+printui-margins-custom-bottom-inches = Apatinė (coliai)
 printui-margins-custom-left = Kairė
+printui-margins-custom-left-inches = Kairė (coliai)
 printui-margins-custom-right = Dešinė
+printui-margins-custom-right-inches = Dešinė (coliai)
 printui-system-dialog-link = Spausdinti naudojant sistemos dialogą…
 printui-primary-button = Spausdinti
 printui-primary-button-save = Įrašyti
@@ -75,6 +80,9 @@ printui-loading = Ruošiama peržiūra
 printui-preview-label =
     .aria-label = Spaudinio peržiūra
 printui-pages-per-sheet = Puslapiai per lapą
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Spausdinama…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
