@@ -47,6 +47,7 @@ experimental-features-cookie-samesite-lax-by-default2 =
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Çerezler: SameSite=None, secure özniteliği gerektirsin
+experimental-features-cookie-samesite-none-requires-secure2-description = “SameSite=None” özniteliğine sahip çerezler secure özniteliği gerektirir. Bu özellik “Çerezler: Varsayılan olarak SameSite=Lax” deneyini gerektirir.
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
