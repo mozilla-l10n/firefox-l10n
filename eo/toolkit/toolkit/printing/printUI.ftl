@@ -25,6 +25,9 @@ printui-range-start = Ekde
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = ĝis
+printui-page-custom-range-input =
+    .aria-label = Difinu intervalon de paĝoj
+    .placeholder = ekzemple 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopioj
 printui-orientation = Orientiĝo
@@ -56,10 +59,15 @@ printui-margins-default = Normo
 printui-margins-min = Minimuma
 printui-margins-none = Neniu
 printui-margins-custom = Personecigita
+printui-margins-custom-inches = Personecitiga (coloj)
 printui-margins-custom-top = Supre
+printui-margins-custom-top-inches = Supre (coloj)
 printui-margins-custom-bottom = Malsupre
+printui-margins-custom-bottom-inches = Malsupre (coloj)
 printui-margins-custom-left = Maldekstre
+printui-margins-custom-left-inches = Maldekstre (coloj)
 printui-margins-custom-right = Dekstre
+printui-margins-custom-right-inches = Dekstre (coloj)
 printui-system-dialog-link = Presi per la sistema dialogo…
 printui-primary-button = Presi
 printui-primary-button-save = Konservi
@@ -71,6 +79,9 @@ printui-loading = Antaŭvido preparata
 printui-preview-label =
     .aria-label = Antaŭvidi presadon
 printui-pages-per-sheet = Paĝoj en ĉiu folio
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Preso…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
