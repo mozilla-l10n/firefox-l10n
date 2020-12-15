@@ -8,6 +8,9 @@
 newtab-page-title = Nov tab
 newtab-settings-button =
     .title = Persunalisar tia pagina per novs tabs
+newtab-personalize-button-label = Persunalisar
+    .title = Persunalisar novs tabs
+    .aria-label = Persunalisar novs tabs
 
 ## Search box component.
 
@@ -207,3 +210,8 @@ newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket
 
 newtab-error-fallback-info = Oha, igl è succedì in sbagl cun chargiar il cuntegn.
 newtab-error-fallback-refresh-link = Rechargia la pagina per reempruvar.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Scursanidas
+newtab-custom-shortcuts-subtitle = Websites che ti memoriseschas u visitas
