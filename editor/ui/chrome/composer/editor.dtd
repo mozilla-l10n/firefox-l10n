@@ -44,13 +44,13 @@
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Нормальний">
-<!ENTITY NormalMode.label "Нормальний режим редагування">
+<!ENTITY NormalMode.label "Звичайний режим редагування">
 <!ENTITY NormalMode.accesskey "Н">
 <!ENTITY NormalMode.tooltip "Показати границі таблиці та іменовані якоря">
 <!ENTITY AllTagsModeTab.label "HTML теги">
 <!ENTITY AllTagsMode.label "HTML теги">
 <!ENTITY AllTagsMode.accesskey "г">
-<!ENTITY AllTagsMode.tooltip "Показувати іконки для всіх тегів HTML tags">
+<!ENTITY AllTagsMode.tooltip "Показувати піктограми для всіх тегів HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
@@ -58,9 +58,9 @@
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Документ">
-<!ENTITY HTMLSourceMode.label "HTML документ">
+<!ENTITY HTMLSourceMode.label "Документ HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Редагувати HTML документ">
+<!ENTITY HTMLSourceMode.tooltip "Редагувати документ HTML">
 <!ENTITY PreviewModeTab.label "Попередній перегляд">
 <!ENTITY PreviewMode.label "Попередній перегляд">
 <!ENTITY PreviewMode.accesskey "п">
