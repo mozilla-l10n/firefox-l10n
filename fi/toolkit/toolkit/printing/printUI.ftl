@@ -71,6 +71,9 @@ printui-loading = Valmistellaan esikatselua
 printui-preview-label =
     .aria-label = Tulostuksen esikatselu
 printui-pages-per-sheet = Sivuja per arkki
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Tulostetaan…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
