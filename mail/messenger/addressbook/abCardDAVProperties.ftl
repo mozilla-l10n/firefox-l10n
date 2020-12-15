@@ -14,8 +14,8 @@ carddav-refreshinterval-minutes-value =
     .label =
         { $minutes ->
             [one] щохвилини
-            [few] кожних { $minutes } хвилини
-           *[many] кожних { $minutes } хвилин
+            [few] кожні { $minutes } хвилини
+           *[many] кожні { $minutes } хвилин
         }
 # Variables:
 #   $hours (integer) - Number of hours between address book synchronizations
@@ -23,8 +23,8 @@ carddav-refreshinterval-hours-value =
     .label =
         { $hours ->
             [one] щогодини
-            [few] кожних { $hours } години
-           *[many] кожних { $hours } годин
+            [few] кожні { $hours } години
+           *[many] кожні { $hours } годин
         }
 carddav-readonly-label =
     .label = Лише для читання
