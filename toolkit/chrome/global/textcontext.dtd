@@ -17,7 +17,7 @@
 <!ENTITY fillLoginMenu.label          "Doplniť prihlasovacie údaje">
 <!ENTITY fillLoginMenu.accesskey      "V">
 <!ENTITY fillPasswordMenu.label       "Doplniť heslo">
-<!ENTITY fillPasswordMenu.accesskey   "V">
+<!ENTITY fillPasswordMenu.accesskey   "D">
 <!ENTITY fillUsernameMenu.label       "Doplniť používateľské meno">
 <!ENTITY fillUsernameMenu.accesskey   "V">
 <!ENTITY noLoginSuggestions.label     "(žiadne návrhy prihlasovacích údajov)">
