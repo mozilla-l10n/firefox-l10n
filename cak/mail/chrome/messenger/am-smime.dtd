@@ -19,6 +19,11 @@
 
 
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Kenuk'samajïx S/MIME taq Iqitzijib'äl">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "S/MIME taq Rokisab'al Jikomal…">
+<!ENTITY manageDevices2.accesskey "y">
 
 
 <!ENTITY openpgpKeys.label "OpenPGP">

@@ -2,12 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from AccountManager.xul -->
-
 <!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Kinuk'ulem Rub'i' Taqoya'l">
-
 <!ENTITY  accountManagerCloseButton.label "Titz'apïx">
 
 <!ENTITY accountActionsButton.label "Kisamaj Rub'i' Taqoya'l">
@@ -25,7 +22,7 @@
 <!ENTITY removeButton.label "Tiyuj Rub'i' Taqoya'l">
 <!ENTITY removeButton.accesskey "y">
 
-<!-- AccountManager.xul -->
+<!ENTITY addonsButton.label "Taq k'amal &amp; taq Wachinel">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
