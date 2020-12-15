@@ -30,7 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "Майстер імпорту пошти &brandShortName;">
 <!ENTITY importShortDesc.label    "Імпорт повідомлень, адресних книг, налаштувань і фільтрів з інших програм">
 
-<!ENTITY importDescription1.label "Цей майстер імпортує повідомлення, адресні книги, налаштування чи/та фільтри з інших поштових програм та поширених форматів адресних книг до &brandShortName;.">
+<!ENTITY importDescription1.label "Цей майстер імпортує повідомлення, адресні книги, налаштування та/або фільтри з інших поштових програм та поширених форматів адресних книг до &brandShortName;.">
 <!ENTITY importDescription2.label "Імпортована одного разу, ця інформація буде доступна для вас з поштового клієнта &brandShortName; і/або адресної книги.">
 
 <!ENTITY selectDescription.label  "Виберіть програму, з якої хочете провести імпорт:">
