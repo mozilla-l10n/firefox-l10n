@@ -499,7 +499,7 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = { $provider } 推薦
-home-prefs-recommended-by-description-update = 由 { $provider } 整理提供的網路精選內容
+home-prefs-recommended-by-description-update = { $provider } 整理提供的網路精選內容
 home-prefs-recommended-by-description-new = 由 { -brand-product-name } 的姊妹作 { $provider } 精心策展的內容
 
 ##
