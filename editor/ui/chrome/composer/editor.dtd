@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "Редактор"> 
+<!ENTITY editorWindow.titlemodifier "Редактор">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
@@ -12,7 +12,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Панель написання">
 <!ENTITY previewToolbarCmd.label "Переглянути">
-<!ENTITY previewToolbarCmd.tooltip "Завантажити цю сторінку в браузер">
+<!ENTITY previewToolbarCmd.tooltip "Завантажити цю сторінку в браузері">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Експорт в текст…">
@@ -39,7 +39,7 @@
 <!ENTITY pageProperties.accesskey "р">
 
 <!-- Tools menu items -->
-<!ENTITY validateCmd.label "Затвердження коду HTML">
+<!ENTITY validateCmd.label "Перевірка коду HTML">
 <!ENTITY validateCmd.accesskey "З">
 
 <!-- Display Mode toolbar and View menu items -->
