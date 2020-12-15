@@ -21,7 +21,7 @@
 <!ENTITY whitelistHeader.accesskey "і">
 
 <!ENTITY ispHeadersWarning.label "Якщо увімкнено, &brandShortName; вважатиме позначені цим зовнішнім класифікатором повідомлення спамом автоматично.">
-<!ENTITY ispHeaders.label "Довіряти заголовкам небажаної пошти, встановлених:">
+<!ENTITY ispHeaders.label "Довіряти заголовкам небажаної пошти, встановленим: ">
 <!ENTITY ispHeaders.accesskey "р">
 
 <!ENTITY junkClassification.label "Вибірка">
