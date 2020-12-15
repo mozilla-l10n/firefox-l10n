@@ -531,6 +531,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }’a kaydettiğim sayfalar
 home-prefs-recent-activity-header =
     .label = Son etkinlikler
+home-prefs-recent-activity-description = Son kullanılan siteler ve içeriklerden bir seçki
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

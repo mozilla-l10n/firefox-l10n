@@ -218,6 +218,9 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Sponsorlu kısayollar
 newtab-custom-pocket-title = { -pocket-brand-name } önerileri
+newtab-custom-pocket-sponsored = Sponsorlu haberler
+newtab-custom-recent-title = Son etkinlikler
+newtab-custom-recent-subtitle = Son kullanılan siteler ve içeriklerden bir seçki
 newtab-custom-close-button = Kapat
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
@@ -225,3 +228,4 @@ newtab-custom-close-button = Kapat
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Duyurular
 newtab-custom-snippets-subtitle = { -vendor-short-name } ve { -brand-product-name }’tan ipuçları ve haberler
+newtab-custom-settings = Diğer ayarları yönet

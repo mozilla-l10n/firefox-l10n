@@ -185,6 +185,7 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Üçüncü taraf modülleri
 support-third-party-modules-module = Modül dosyası
 support-third-party-modules-version = Dosya sürümü
 support-third-party-modules-process = İşlem türü ve kimliği

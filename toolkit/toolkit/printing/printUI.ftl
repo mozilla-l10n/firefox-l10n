@@ -25,6 +25,9 @@ printui-range-start = Başlangıç
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = Bitiş
+printui-page-custom-range-input =
+    .aria-label = Özel sayfa aralığını yazın
+    .placeholder = örn. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopya sayısı
 printui-orientation = Yönlendirme
