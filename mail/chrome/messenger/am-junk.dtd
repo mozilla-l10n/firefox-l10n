@@ -4,7 +4,7 @@
 
 <!ENTITY junkSettings.label "Налаштування спаму">
 <!ENTITY trainingDescription.label "Якщо увімкнено, вам спершу необхідно навчити &brandShortName; розпізнавати небажану пошту, натискаючи кнопку Спам на панелі інструментів стосовно небажаних повідомлень. Вам потрібно визначати як небажану, так і звичайну пошту. Після цього &brandShortName; зможе визначати небажану пошту автоматично.">
-<!ENTITY level.label "Ввімкнути контроль спаму для цього облікового запису">
+<!ENTITY level.label "Ввімкнути для цього облікового запису контроль спаму">
 <!ENTITY level.accesskey "В">
 
 <!ENTITY move.label "Переміщати спам в:">
@@ -25,7 +25,7 @@
 <!ENTITY ispHeaders.accesskey "р">
 
 <!ENTITY junkClassification.label "Вибірка">
-<!ENTITY junkActions.label "Призначення і затримка">
+<!ENTITY junkActions.label "Спрямування і збереження">
 
 <!ENTITY globalJunkPrefs.label "Глобальні налаштування спаму…">
 <!ENTITY globalJunkPrefs.accesskey "Г">

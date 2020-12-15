@@ -14,5 +14,5 @@
 <!ENTITY widthEditField.accessKey "Ш">
 <!ENTITY borderEditField.label "Рамка:">
 <!ENTITY borderEditField.accessKey "Р">
-<!ENTITY borderEditField.tooltip "Введіть ширину рамки або нуль (0), якщо бажаєте зробити рамку невидимою">
+<!ENTITY borderEditField.tooltip "Введіть ширину рамки, або, якщо бажаєте зробити рамку невидимою, нуль (0)">
 <!ENTITY pixels.label "пікселів">
