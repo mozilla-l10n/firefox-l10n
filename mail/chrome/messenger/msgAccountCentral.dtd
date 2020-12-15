@@ -7,7 +7,7 @@
 <!ENTITY composeMsgLink.label         "Написати повідомлення">
 
 <!ENTITY newsSectionHdr.label         "Групи новин">
-<!ENTITY subscribeNewsLink.label      "Упорядкувати групи новин">
+<!ENTITY subscribeNewsLink.label      "Впорядкувати підписки на групи новин">
 
 <!ENTITY feedsSectionHdr.label        "Стрічки">
 <!ENTITY subscribeFeeds.label         "Упорядкувати підписки">
@@ -22,6 +22,6 @@
 
 <!ENTITY advFeaturesSectionHdr.label  "Додаткові властивості">
 <!ENTITY searchMsgsLink.label         "Пошук повідомлень">
-<!ENTITY filtersLink.label            "Створити фільтри повідомлень">
+<!ENTITY filtersLink.label            "Керувати фільтрами повідомлень">
 <!ENTITY junkSettings.label           "Параметри анти-спам фільтрів">
 <!ENTITY offlineLink.label            "Параметри автономної роботи">
