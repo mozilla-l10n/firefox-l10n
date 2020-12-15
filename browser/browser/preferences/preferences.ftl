@@ -935,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Plej vizititaj
     .accesskey = v
+addressbar-locbar-engines-option =
+    .label = Serĉiloj
+    .accesskey = S
 addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 
 ## Privacy Section - Content Blocking
