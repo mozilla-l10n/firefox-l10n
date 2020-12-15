@@ -77,7 +77,7 @@ printui-loading = 미리보기 준비 중
 # the print preview has focus.
 printui-preview-label =
     .aria-label = 인쇄 미리보기
-printui-pages-per-sheet = 용지 당 페이지
+printui-pages-per-sheet = 용지당 페이지
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = 인쇄 중…
