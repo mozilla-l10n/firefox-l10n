@@ -58,10 +58,15 @@ printui-margins-default = Mặc định
 printui-margins-min = Tối thiểu
 printui-margins-none = Không có
 printui-margins-custom = Tùy chọn
+printui-margins-custom-inches = Tùy chỉnh (inch)
 printui-margins-custom-top = Trên
+printui-margins-custom-top-inches = Trên (inch)
 printui-margins-custom-bottom = Dưới
+printui-margins-custom-bottom-inches = Dưới (inch)
 printui-margins-custom-left = Trái
+printui-margins-custom-left-inches = Trái (inch)
 printui-margins-custom-right = Phải
+printui-margins-custom-right-inches = Phải (inch)
 printui-system-dialog-link = In bằng hộp thoại hệ thống…
 printui-primary-button = In
 printui-primary-button-save = Lưu
@@ -73,6 +78,9 @@ printui-loading = Đang chuẩn bị xem trước
 printui-preview-label =
     .aria-label = Xem trước trang in
 printui-pages-per-sheet = Số trang trên mỗi tờ
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Đang in...
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
