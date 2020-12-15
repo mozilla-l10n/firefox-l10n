@@ -140,5 +140,5 @@ icon-warning =
     .title = Aviso
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
-    .alt = Error icon
-    .title = Error
+    .alt = Ícone de erro
+    .title = Erro
