@@ -195,6 +195,7 @@ support-third-party-modules-thread = Inimbo
 support-third-party-modules-base = Imagebase Kundaharape
 support-third-party-modules-uptime = Tapereko rembiapo arekue (ms)
 support-third-party-modules-duration = Ñemyanyhẽ arekue (ms)
+support-third-party-modules-empty = Noñemyanyhẽi mbohapyháva ayvu.
 support-third-party-modules-no-value = (Hepy’ỹva)
 support-third-party-modules-button-open =
     .title = Eike marandurenda rendaitépe…
