@@ -59,10 +59,15 @@ printui-margins-default = Predefinite
 printui-margins-min = Minimo
 printui-margins-none = Necun
 printui-margins-custom = Personalisate
+printui-margins-custom-inches = Personalisate (pollices)
 printui-margins-custom-top = Alto
+printui-margins-custom-top-inches = Superior (pollices)
 printui-margins-custom-bottom = Basso
+printui-margins-custom-bottom-inches = Inferior (pollices)
 printui-margins-custom-left = Sinistra
+printui-margins-custom-left-inches = Sinistre (pollices)
 printui-margins-custom-right = Dextera
+printui-margins-custom-right-inches = Dextere (pollices)
 printui-system-dialog-link = Stampa per le fenestra de dialogo del systema…
 printui-primary-button = Imprimer
 printui-primary-button-save = Salvar
@@ -74,6 +79,9 @@ printui-loading = Preparation del vista preliminar
 printui-preview-label =
     .aria-label = Vista preliminar del impression
 printui-pages-per-sheet = Paginas per folio
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Impression…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
