@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Baixa l'aplicació
 
 cfr-whatsnew-searchbar-title = Escriviu menys i trobeu més amb la barra d'adreces
 cfr-whatsnew-searchbar-body-topsites = Ara, podeu seleccionar la barra d'adreces i es desplegarà un quadre amb enllaços als vostres llocs principals.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Icona de lupa
 
 ## Picture-in-Picture
@@ -251,6 +254,7 @@ cfr-doorhanger-doh-secondary-button = Inhabilita
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = La vostra privadesa és important. Ara el { -brand-short-name } aïlla els llocs web els uns dels altres, perquè sigui més difícil per als furoners robar contrasenyes, números de targetes de crèdit i altra informació confidencial.
 cfr-doorhanger-fission-header = Aïllament de llocs
 cfr-doorhanger-fission-primary-button = Entesos
     .accesskey = E
@@ -266,7 +270,10 @@ cfr-whatsnew-clear-cookies-image-alt = Il·lustració d'una galeta blocada
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Més controls multimèdia
+cfr-whatsnew-media-keys-body = Reproduïu i poseu en pausa l'àudio o el vídeo directament des del teclat o auriculars. D'aquesta manera, és més fàcil controlar el contingut multimèdia des d'una altra pestanya, programa o fins i tot quan l'ordinador està blocat. També podeu desplaçar-vos entre les pistes amb les tecles d'avançar i retrocedir.
 cfr-whatsnew-media-keys-button = Vegeu com fer-ho
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Dreceres de cerca a la barra d'adreces
+cfr-whatsnew-search-shortcuts-body = Ara, quan escriviu el nom d'un motor de cerca o un lloc específic a la barra d'adreces, apareixerà una drecera blava als suggeriments de cerca de sota. Seleccioneu aquesta drecera per fer la cerca directament des de la barra d'adreces.
