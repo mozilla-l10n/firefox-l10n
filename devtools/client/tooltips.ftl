@@ -27,6 +27,7 @@ inactive-css-not-display-block-on-floated = O valor de <strong>display</strong> 
 inactive-css-property-is-impossible-to-override-in-visited = É imposible anular <strong>{ $property }</strong> debido á restricción <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que non é un elemento posicionado.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que <strongoverflow:hidden</strong> non está definido.
+inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> non ten ningún efecto sobre este elemento xa que <strong>outline-style</strong> está definido como <strong>auto</strong> ou <strong>none</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -45,6 +46,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Probe a e
 inactive-css-not-display-block-on-floated-fix = Probe a eliminar <strong>float</strong> ou engadir <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Probe a establecer a súa propiedade <strong>position</strong> nalgo diferente a <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Probe a engadir <strong>overflow:hidden</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Probe a establecer a súa propiedade <strong>outline-style</strong> nalgo diferente a <strong>auto</strong> ou <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
