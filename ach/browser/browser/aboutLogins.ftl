@@ -124,6 +124,27 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Kwany donyo iyie man?
 confirm-delete-dialog-message = Pe ki twero gonyo tic man.
 about-logins-confirm-remove-dialog-confirm-button = Kwany
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Kwany
+       *[other] Kwany Weng
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Eyo, kwany donyo iyie man
+       *[other] Eyo, kwany donyo iyie magi
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Kwany donyo iyie { $count }?
+       *[other] Kwany donyo iyie { $count } weng?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Kwany donyo iyie { $count } ki i nyonyo weng?
+       *[other] Kwany donyo iyie { $count } weng ki i nyonyo weng?
+    }
+about-logins-confirm-export-dialog-message = Kibigwoko mung me donyo mamegi calo coc ma kwane (labolle, BadP@ssw0rd) pi meno ngat ma twero yabo pwail ma kicwalo woko ni twero neno gi.
 about-logins-confirm-export-dialog-confirm-button = Cwal woko...
 confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny woko.
 
