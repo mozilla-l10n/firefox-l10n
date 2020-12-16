@@ -502,6 +502,9 @@ home-prefs-topsites-by-option-sponsored =
     .label = Tenda tuicha ojehepyme’ẽva
 home-prefs-shortcuts-header =
     .label = Jeike pya’eha
+home-prefs-shortcuts-description = Tenda eñongatúva térã eikeha
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Jeike pya’eha jehepyme’ẽpyre
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -509,6 +512,7 @@ home-prefs-shortcuts-header =
 home-prefs-recommended-by-header =
     .label = { $provider } he’i ndéve reike hag̃ua
 home-prefs-recommended-by-description-update = Tetepy oikoitéva ñanduti tuichakuépe, ohepyme’ẽva { $provider }
+home-prefs-recommended-by-description-new = Tetepy iporãva { $provider } oiporavopyre, { -brand-product-name } mba’éva pegua
 
 ##
 
@@ -528,6 +532,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Kuatiarogue ñongatupyre { -pocket-brand-name }-pe
 home-prefs-recent-activity-header =
     .label = Tembiapo ramovegua
+home-prefs-recent-activity-description = Tenda jeporavo ha tetepy ramovegua
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -535,6 +540,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Mba’epehẽ
 home-prefs-snippets-description = { -vendor-short-name } ha { -brand-product-name } ñembohekopyahu
+home-prefs-snippets-description-new = Ñemoñe’ẽ ha marandu { -vendor-short-name } ha { -brand-product-name } rehegua
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -929,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Tenda jehayhuvéva
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Hekaha mongu’eha
+    .accesskey = a
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 
 ## Privacy Section - Content Blocking
