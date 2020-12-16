@@ -215,3 +215,9 @@ newtab-error-fallback-refresh-link = Rechargia la pagina per reempruvar.
 
 newtab-custom-shortcuts-title = Scursanidas
 newtab-custom-shortcuts-subtitle = Websites che ti memoriseschas u visitas
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } lingia
+       *[other] { $num } lingias
+    }
+newtab-custom-sponsored-sites = Scursanidas sponsuradas
