@@ -356,7 +356,7 @@ applications-use-os-default-label =
 
 drm-content-header = Wopśimjeśe Digital Right Management (DRM)
 play-drm-content =
-    .label = Wopśimjeśe wóźony pśez DRM wótgraś
+    .label = Wopśimjeśe wóźone pśez DRM wótgraś
     .accesskey = m
 play-drm-content-learn-more = Dalšne informacije
 update-application-title = Aktualizacije { -brand-short-name }
