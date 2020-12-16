@@ -14,6 +14,7 @@ crashed-request-help = តើ​អ្នក​នឹង​ជួយ​ពួក
 crashed-request-help-message = របាយការណ៍​គាំង​គឺ​ជួយ​យើង​រក​ឲ្យ​ឃើញ​បញ្ហា ហើយ​ធ្វើឲ្យ { -brand-short-name } ប្រសើរ​ឡើង។
 crashed-request-report-title = រាយការណ៍​ផ្ទាំង​នេះ
 crashed-send-report = ផ្ញើរបាយការណ៍គាំងដោយស្វ័យប្រវត្តិដើម្បីឱ្យយើងអាចដោះស្រាយបញ្ហាដូចនេះបាន។
+crashed-send-report-2 = ផ្ញើរបាយការណ៍គាំងដោយស្វ័យប្រវត្តិ ដូច្នេះយើងអាចដោះស្រាយបញ្ហាដូចនេះ
 crashed-comment =
     .placeholder = មតិយោបល់​ជា​ជម្រើស (មតិយោបល់​អាច​មើល​ឃើញ​ជា​សាធារណៈ)
 crashed-include-URL = រួមបញ្ចូល URL របស់ទំព័រ​ដែលអ្នកកំពុងចូល​មើល​នៅពេល { -brand-short-name } គាំង។

@@ -10,7 +10,8 @@ about-private-browsing-info-myths = ប្រវត្តិ​ទូទៅ​�
 about-private-browsing =
     .title = ស្វែងរក​ទំព័រ​បណ្ដាញ
 about-private-browsing-not-private = បច្ចុប្បន្ន​អ្នក​មិន​នៅ​ក្នុង​បង្អួច​ឯកជន​ទេ។
-
+about-private-browsing-need-more-privacy = ត្រូវការឯកជនភាព​បន្ថែមទៀត?
+about-private-browsing-turn-on-vpn = សាកល្បង { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
