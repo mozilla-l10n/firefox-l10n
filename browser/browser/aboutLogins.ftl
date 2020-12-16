@@ -108,13 +108,28 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = ដើម្បីកែសម្រួលការចូលរបស់អ្នកសូមបញ្ចូលលិខិតសម្គាល់ផ្ទាំងចូលរបស់អ្នក។ វាជួយការពារសុវត្ថិភាពគណនីរបស់អ្នក។
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = កែសម្រួលការចូលដែលបានរក្សាទុក
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = បង្ហាញពាក្យសម្ងាត់ដែលបានរក្សាទុក
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = ចម្លងពាក្យសម្ងាត់ដែលបានរក្សាទុក
 
 ## Master Password notification
 
 master-password-notification-message = សូម​បញ្ចូល​ពាក្យសម្ងាត់​មេ​របស់​អ្នក ដើម្បី​មើល​ការចូល និង​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សាទុក
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = នាំចេញការចូលនិងពាក្យសម្ងាត់ដែលបានរក្សាទុក
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = សូមបញ្ចូលពាក្យសម្ងាត់ចម្បង​របស់អ្នក ដើម្បីមើលការចូល ព្រមទាំង​ពាក្យសម្ងាត់ដែលបានរក្សាទុក
 master-password-reload-button =
     .label = ចូល
     .accesskey = ច
@@ -142,23 +157,62 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = បោះបង់
 confirmation-dialog-dismiss-button =
     .title = បោះបង់
+about-logins-confirm-remove-dialog-title = លុបការចូលនេះចេញ?
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
+about-logins-confirm-remove-dialog-confirm-button = លុប​ចេញ
+about-logins-confirm-export-dialog-title = នាំចេញការចូលនិងពាក្យសម្ងាត់
+about-logins-confirm-export-dialog-confirm-button = នាំចេញ…
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
 confirm-discard-changes-dialog-message = ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក​ទាំងអស់​នឹង​បាត់។
 confirm-discard-changes-dialog-confirm-button = បោះបង់
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ការបំពានគេហទំព័រ
 breach-alert-text = ពាក្យ​សម្ងាត់​ត្រូវបាន​បែកធ្លាយ ឬ​លួច​ពី​គេហទំព័រ​នេះ ចាប់តាំង​ពី​អ្នក​បាន​ធ្វើបច្ចុប្បន្នភាព​​ព័ត៌មាន​លម្អិត​ការចូល​របស់​អ្នក​ចុងក្រោយ។ សូម​ប្ដូរ​ពាក្យ​សម្ងាត់​របស់​អ្នក ដើម្បី​ការពារ​គណនី​របស់​អ្នក។
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = ទៅកាន់ { $hostname }
+about-logins-breach-alert-learn-more-link = ស្វែងយល់​បន្ថែម
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = ពាក្យ​ស្ងាត់​ងាយរងគ្រោះ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = ទៅកាន់ { $hostname }
+about-logins-vulnerable-alert-learn-more-link = ស្វែងយល់​បន្ថែម
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = បញ្ហា​មួយបានកើតឡើងខណៈពេលព្យាយាមរក្សាទុកពាក្យសម្ងាត់នេះ។
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = នាំចេញឯកសារចូល
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = logins.csv
+about-logins-export-file-picker-export-button = នាំចេញ
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV Document
+       *[other] CSV File
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = នាំចូលឯកសារចូល
+about-logins-import-file-picker-import-button = នាំចូល
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] ឯកសារ CSV
+       *[other] CSV File
+    }
