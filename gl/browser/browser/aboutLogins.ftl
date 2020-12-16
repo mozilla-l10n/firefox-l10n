@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importar desde outro navegador…
 about-logins-menu-menuitem-import-from-a-file = Importar dun ficheiro ...
 about-logins-menu-menuitem-export-logins = Exportar sesións ...
+about-logins-menu-menuitem-remove-all-logins = Eliminar todos os inicios de sesión ...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcións
@@ -168,6 +169,40 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Eliminar esta identificación?
 confirm-delete-dialog-message = Non é posíbel desfacer esta acción.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Retirar
+        [one] Retirar
+       *[other] Retirar todo
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Si, retirar este inicio de sesión
+        [one] Si, retirar este inicio de sesión
+       *[other] Si, retirar estes inicios de sesión
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Retirar { $count } inicio de sesión?
+       *[other] Retirar { $count } inicios de sesión?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Isto eliminará o inicio de sesión que gardou en { -brand-short-name } e as alertas de ataques que aparezan aquí. Non poderá desfacer esta acción.
+        [one] Isto eliminará o inicio de sesión que gardou en { -brand-short-name } e as alertas de ataques que aparezan aquí. Non poderá desfacer esta acción.
+       *[other] Isto eliminará os inicios de sesión que gardou en { -brand-short-name } e as alertas de ataques que aparezan aquí. Non poderá desfacer esta acción.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Retirar { $count } inicio de sesión de todos os dispositivos?
+       *[other] Retirar { $count } inicios de sesión de todos os dispositivos?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Isto elimina o inicio de sesión que gardou en { -brand-short-name } en todos os dispositivos sincronizados co seu { -fxaccount-brand-name }. Isto tamén elimina as alertas de ataques que aparecen aquí. Non poderá desfacer esta acción.
+        [one] Isto elimina todos os inicios  de sesión que gardou en { -brand-short-name } en todos os dispositivos sincronizados co seu { -fxaccount-brand-name }. Isto tamén elimina as alertas de ataques que aparecen aquí. Non poderá desfacer esta acción.
+       *[other] Isto elimina todos os inicios de sesión que gardou en { -brand-short-name } en todos os dispositivos sincronizados co seu { -fxaccount-brand-name }. Isto tamén elimina as alertas de ataques que aparecen aquí. Non poderá desfacer esta acción.
+    }
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión e contrasinais
 about-logins-confirm-export-dialog-message = Os seus contrasinais gardaranse como texto lexible (por exemplo, ConTR@sinaLmaL0) para que calquera que poida abrir o ficheiro exportado poida velos.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
