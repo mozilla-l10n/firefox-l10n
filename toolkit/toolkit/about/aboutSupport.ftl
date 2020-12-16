@@ -59,6 +59,9 @@ app-basics-enabled-plugins = Engadidos activados
 app-basics-build-config = Configuración da compilación
 app-basics-user-agent = User Agent
 app-basics-os = SO
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Traducido con Rosetta
 app-basics-memory-use = Uso de memoria
 app-basics-performance = Rendemento
 app-basics-service-workers = Service Workers rexistrados
@@ -181,6 +184,29 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Módulos de terceiros
+support-third-party-modules-module = Ficheiro de módulo
+support-third-party-modules-version = Versión do ficheiro
+support-third-party-modules-process = Tipo de proceso e identificador
+support-third-party-modules-thread = Fío
+support-third-party-modules-uptime = Tempo de actividade do proceso (ms)
+support-third-party-modules-duration = Duración de carga (ms)
+support-third-party-modules-empty = Non se cargaron módulos de terceiros.
+support-third-party-modules-no-value = (Sen valor)
+support-third-party-modules-button-open =
+    .title = Abrir a localización do ficheiro ...
+support-third-party-modules-expand =
+    .title = Mostrar información detallada
+support-third-party-modules-collapse =
+    .title = Contraer información detallada
+support-third-party-modules-unsigned-icon =
+    .title = Este módulo non está asinado
+support-third-party-modules-folder-icon =
+    .title = Abrir a localización do ficheiro ...
+support-third-party-modules-down-icon =
+    .title = Mostrar información detallada
+support-third-party-modules-up-icon =
+    .title = Contraer información detallada
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

@@ -25,6 +25,9 @@ printui-range-start = Desde
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = até
+printui-page-custom-range-input =
+    .aria-label = Introduza o intervalo de páxinas personalizado
+    .placeholder = p.ex. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Copias
 printui-orientation = Orientación
@@ -41,6 +44,9 @@ printui-scale = Escala
 printui-scale-fit-to-page-width = Axustar á largura da páxina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Impresión a dúas caras
+printui-duplex-checkbox = Imprimir polos dous lados
 # Section title for miscellaneous print options
 printui-options = Opcións
 printui-headers-footers-checkbox = Imprimir cabeceiras e rodapés
@@ -53,19 +59,29 @@ printui-margins-default = Predeterminado
 printui-margins-min = Mínimo
 printui-margins-none = Ningunha
 printui-margins-custom = Personalizadas
+printui-margins-custom-inches = Personalizado (polgadas)
 printui-margins-custom-top = Superior
+printui-margins-custom-top-inches = Parte superior (polgadas)
 printui-margins-custom-bottom = Inferior
+printui-margins-custom-bottom-inches = Parte inferior (polgadas)
 printui-margins-custom-left = Esquerda
+printui-margins-custom-left-inches = Esquerda (polgadas)
 printui-margins-custom-right = Dereita
+printui-margins-custom-right-inches = Dereita (polgadas)
 printui-system-dialog-link = Imprimir empregando o diálogo do sistema ...
 printui-primary-button = Imprimir
 printui-primary-button-save = Gardar
 printui-cancel-button = Cancelar
+printui-close-button = Pechar
 printui-loading = A preparar a previsualización
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Vista previa da impresión
+printui-pages-per-sheet = Páxinas por folla
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Imprimindo…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

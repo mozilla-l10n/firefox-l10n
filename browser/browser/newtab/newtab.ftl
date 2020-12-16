@@ -8,6 +8,9 @@
 newtab-page-title = Nova lapela
 newtab-settings-button =
     .title = Personalice a páxina de nova lapela
+newtab-personalize-button-label = Personalizar
+    .title = personalizar lapela nova
+    .aria-label = personalizar lapela nova
 
 ## Search box component.
 
@@ -171,6 +174,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Sitios favoritos
 newtab-section-header-highlights = Destacados
+newtab-section-header-recent-activity = Actividade recente
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Recomendado por { $provider }
@@ -206,3 +210,27 @@ newtab-pocket-cta-text = Garde no { -pocket-brand-name } as historias que lle gu
 
 newtab-error-fallback-info = Vaites, produciuse un erro ao cargar este contido.
 newtab-error-fallback-refresh-link = Actualice a páxina para tentalo de novo.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Atallos
+newtab-custom-shortcuts-subtitle = Sitios gardados ou visitados
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } fila
+       *[other] { $num } filas
+    }
+newtab-custom-sponsored-sites = Atallos patrocinados
+newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Contido excepcional patrocinado por { -pocket-brand-name }, parte da familia { -brand-product-name }
+newtab-custom-pocket-sponsored = Historias patrocinadas
+newtab-custom-recent-title = Actividade recente
+newtab-custom-recent-subtitle = Unha selección de sitios e contido recentes
+newtab-custom-close-button = Pechar
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Fragmentos
+newtab-custom-snippets-subtitle = Consellos e novas de { -vendor-short-name } e { -brand-product-name }
+newtab-custom-settings = Xestionar máis axustes
