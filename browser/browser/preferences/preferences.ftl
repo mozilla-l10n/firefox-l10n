@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Las paginas che ti visitas il pli savens
 home-prefs-topsites-by-option-sponsored =
     .label = Websites principalas sponsurisadas
+home-prefs-shortcuts-header =
+    .label = Scursanidas
+home-prefs-shortcuts-description = Websites che ti memoriseschas u visitas
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Scursanidas sponsuradas
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }
 home-prefs-recommended-by-description-update = Cuntegn excepziunal ord il web, tschernì da { $provider }
+home-prefs-recommended-by-description-new = Cuntegn spezial, tschernì da { $provider } che fa part da { -brand-product-name }
 
 ##
 
@@ -515,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Artitgels sponsurads
 home-prefs-highlights-header =
     .label = Accents
-home-prefs-recent-activity-header =
-    .label = Activitad recenta
 home-prefs-highlights-description = Ina selecziun da paginas che ti has memorisà u visità
 home-prefs-highlights-option-visited-pages =
     .label = Paginas visitadas
@@ -526,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = L'ultima telechargiada
 home-prefs-highlights-option-saved-to-pocket =
     .label = Paginas memorisadas en { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Activitad recenta
+home-prefs-recent-activity-description = Ina selecziun da websites e cuntegn visità dacurt
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Zinslas
 home-prefs-snippets-description = Novitads da { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description-new = Tips e novitads da { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -927,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Paginas preferidas
     .accesskey = P
+addressbar-locbar-engines-option =
+    .label = Maschinas da tschertgar
+    .accesskey = a
 addressbar-suggestions-settings = Midar las preferenzas per propostas da maschinas da tschertgar
 
 ## Privacy Section - Content Blocking
