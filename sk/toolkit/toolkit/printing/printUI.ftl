@@ -64,6 +64,9 @@ printui-loading = Pripravuje sa ukážka pred tlačou
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Ukážka pred tlačou
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Prebieha tlač…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
