@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> vole aperir un ligamine <strong>{ $scheme }</strong>.
 
 ## Permission Dialog
 ## Variables:
@@ -17,19 +9,19 @@ handler-dialog-host = <strong>{ $host }</strong> vole aperir un ligamine <strong
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
-permission-dialog-description = Consentir a iste sito aperir le ligamine { $scheme }?
-permission-dialog-description-file = Consentir a iste file aperir le ligamine { $scheme }?
-permission-dialog-description-host = Consentir  a { $host } aperir le ligamine { $scheme }?
-permission-dialog-description-app = Consentir a iste sito aperir le ligamine { $scheme } con { $appName }?
-permission-dialog-description-host-app = Consentir a { $host } aperir le ligamine { $scheme } con { $appName }?
-permission-dialog-description-file-app = Consentir a iste file aperir le ligamine { $scheme } con { $appName }?
+permission-dialog-description = Permitter que iste sito aperi le ligamine { $scheme }?
+permission-dialog-description-file = Permitter que iste file aperi le ligamine { $scheme }?
+permission-dialog-description-host = Permitter que { $host } aperi le ligamine { $scheme }?
+permission-dialog-description-app = Permitter que iste sito aperi le ligamine { $scheme } con { $appName }?
+permission-dialog-description-host-app = Permitter que { $host } aperi le ligamine { $scheme } con { $appName }?
+permission-dialog-description-file-app = Permitter que iste file aperi le ligamine { $scheme } con { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
-permission-dialog-remember = Sempre consentir a <strong>{ $host }</strong> aperir <strong>{ $scheme }</strong> ligamines
-permission-dialog-remember-file = Sempre consentir a iste file aperir ligamines <strong>{ $scheme }</strong>
+permission-dialog-remember = Sempre permitter que <strong>{ $host }</strong> aperi ligamines <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Sempre permitter que iste file aperi ligamines <strong>{ $scheme }</strong>
 
 ##
 
@@ -40,7 +32,7 @@ permission-dialog-btn-choose-app =
     .label = Eliger un application
     .accessKey = a
 permission-dialog-unset-description = Tu debera eliger un application.
-permission-dialog-set-change-app-link = Eliger un differente application.
+permission-dialog-set-change-app-link = Elige un altere application.
 
 ## Chooser dialog
 ## Variables:
