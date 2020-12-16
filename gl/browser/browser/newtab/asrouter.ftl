@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = Obter a aplicación
 
 cfr-whatsnew-searchbar-title = Escriba menos, atope máis coa barra de enderezos
 cfr-whatsnew-searchbar-body-topsites = Agora, só ten que seleccionar a barra de enderezos e unha caixa expandirase con ligazóns aos seus sitios máis importantes.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Icona da lupa
 
 ## Picture-in-Picture
@@ -258,6 +261,8 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = A súa privacidade importa. { -brand-short-name } agora illa ou probas de sitios web entre si, o que dificulta que os piratas informáticos rouben contrasinais, números de tarxetas de crédito e outra información confidencial.
+cfr-doorhanger-fission-header = Illamento do sitio
 cfr-doorhanger-fission-primary-button = Entendín
     .accesskey = E
 cfr-doorhanger-fission-secondary-button = Máis información
@@ -272,4 +277,10 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustración de bloqueo de cookies
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Máis controis multimedia
+cfr-whatsnew-media-keys-body = Reproduza e poña en pausa o son ou o vídeo desde o teclado ou os auriculares, o que facilita o control de medios desde outra lapela, programa ou mesmo cando o ordenador está bloqueado. Tamén pode moverse entre pistas usando as teclas de avance e atrás.
 cfr-whatsnew-media-keys-button = Saiba como
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Buscar accesos directos na barra de enderezos
+cfr-whatsnew-search-shortcuts-body = Agora, cando escribir un motor de busca ou un sitio específico na barra de enderezos, aparecerá un atallo azul nas suxestións de busca debaixo. Seleccione ese atallo para completar a busca directamente na barra de enderezos.
