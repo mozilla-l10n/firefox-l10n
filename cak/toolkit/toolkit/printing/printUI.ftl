@@ -59,6 +59,7 @@ printui-margins-default = K'o wi
 printui-margins-min = Ko'öl
 printui-margins-none = Majun
 printui-margins-custom = Ichinan
+printui-margins-custom-inches = B'anon runuk'ulem (taq pulwata')
 printui-margins-custom-top = Ajsik
 printui-margins-custom-bottom = Ikim
 printui-margins-custom-left = Xokon
