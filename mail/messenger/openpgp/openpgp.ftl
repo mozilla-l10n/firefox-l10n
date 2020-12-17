@@ -113,6 +113,13 @@ openpgp-key-man-copy-key-ids =
            *[other] Copiar os ID das chaves para a área de transferência
         }
     .accesskey = C
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Copiar impressão digital para a área de transferência
+           *[other] Copiar impressões digitais para a área de transferência
+        }
+    .accesskey = d
 openpgp-key-man-copy-to-clipboard =
     .label =
         { $count ->
@@ -127,6 +134,27 @@ openpgp-key-man-ctx-copy-to-clipbrd-label =
 openpgp-key-man-ctx-copy =
     .label = Copiar
     .accesskey = C
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Impressão digital
+           *[other] Impressões digitais
+        }
+    .accesskey = g
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Identificador da chave
+           *[other] Identificadores das chaves
+        }
+    .accesskey = h
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Chave pública
+           *[other] Chaves públicas
+        }
+    .accesskey = p
 openpgp-key-man-close =
     .label = Fechar
 openpgp-key-man-reload =
