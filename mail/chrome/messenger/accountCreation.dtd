@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailWizard.title               "Налаштуйте свою існуючу електронну адресу">
+<!ENTITY emailWizard.title               "Налаштуйте свою наявну електронну адресу">
 <!ENTITY emailWizard.caption             "Використовуйте вашу поточну електронну адресу">
 <!ENTITY name.label                      "Ваше ім’я:">
 <!ENTITY name.accesskey                  "і">
@@ -75,8 +75,6 @@
 <!ENTITY manual-config.accesskey         "Н">
 <!ENTITY open-provisioner.label          "Отримати нову адресу електронної пошти…">
 <!ENTITY open-provisioner.accesskey      "О">
-
-
 <!ENTITY get-help.label                  "Отримати допомогу">
 <!ENTITY get-help.accesskey              "д">
 
