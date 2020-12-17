@@ -59,6 +59,7 @@ printui-margins-default = Standard
 printui-margins-min = Minimal
 printui-margins-none = Keine
 printui-margins-custom = Benutzerdefiniert
+printui-margins-custom-inches = Benutzerdefiniert (Zoll)
 printui-margins-custom-top = Oben
 printui-margins-custom-bottom = Unten
 printui-margins-custom-left = Links
