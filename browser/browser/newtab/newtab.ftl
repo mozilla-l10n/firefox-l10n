@@ -222,7 +222,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Atalhos patrocinados
 newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Conteúdo excepcional com curadoria de { -pocket-brand-name }, parte da família { -brand-product-name }
+newtab-custom-pocket-subtitle = Conteúdo excecional com curadoria de { -pocket-brand-name }, parte da família { -brand-product-name }
 newtab-custom-pocket-sponsored = Histórias patrocinadas
 newtab-custom-recent-title = Atividade recente
 newtab-custom-recent-subtitle = Uma seleção de sites e conteúdos recentes
@@ -232,3 +232,5 @@ newtab-custom-close-button = Fechar
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Excertos
+newtab-custom-snippets-subtitle = Dicas e notícias da { -vendor-short-name } e { -brand-product-name }
+newtab-custom-settings = Gerir mais configurações
