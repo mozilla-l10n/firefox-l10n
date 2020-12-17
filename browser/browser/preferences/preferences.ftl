@@ -940,8 +940,8 @@ addressbar-locbar-topsites-option =
     .label = из топа сайтов
     .accesskey = й
 addressbar-locbar-engines-option =
-    .label = Поисковые системы
-    .accesskey = и
+    .label = из поисковых систем
+    .accesskey = ы
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 
 ## Privacy Section - Content Blocking
