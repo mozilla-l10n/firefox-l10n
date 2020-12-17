@@ -60,10 +60,15 @@ printui-margins-default = По умолчанию
 printui-margins-min = Минимальные
 printui-margins-none = Нет
 printui-margins-custom = Настраиваемые
+printui-margins-custom-inches = Настраиваемые (дюймы)
 printui-margins-custom-top = Верхнее
+printui-margins-custom-top-inches = Верхнее (дюймы)
 printui-margins-custom-bottom = Нижнее
+printui-margins-custom-bottom-inches = Нижнее (дюймы)
 printui-margins-custom-left = Левое
+printui-margins-custom-left-inches = Левое (дюймы)
 printui-margins-custom-right = Правое
+printui-margins-custom-right-inches = Правое (дюймы)
 printui-system-dialog-link = Печатать, используя системный диалог…
 printui-primary-button = Печать
 printui-primary-button-save = Сохранить
@@ -75,6 +80,9 @@ printui-loading = Подготовка к предпросмотру
 printui-preview-label =
     .aria-label = Предварительный просмотр
 printui-pages-per-sheet = Страниц на одном листе
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Печать…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

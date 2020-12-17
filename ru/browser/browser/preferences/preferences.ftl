@@ -939,6 +939,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = из топа сайтов
     .accesskey = й
+addressbar-locbar-engines-option =
+    .label = Поисковые системы
+    .accesskey = и
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 
 ## Privacy Section - Content Blocking
