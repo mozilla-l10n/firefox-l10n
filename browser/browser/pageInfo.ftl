@@ -143,7 +143,7 @@ page-info-security-no-owner =
     .value = Diese Website stellt keine Informationen über den Besitzer zur Verfügung.
 media-select-folder = Wählen Sie einen Ordner, um die Grafiken zu speichern
 media-unknown-not-cached =
-    .value = Unbekannt (nicht gecacht)
+    .value = Unbekannt (nicht im Cache)
 permissions-use-default =
     .label = Standard verwenden
 security-no-visits = Nein
@@ -224,7 +224,7 @@ media-block-image =
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
+#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Seiteninformationen - { $website }
 page-info-frame =
