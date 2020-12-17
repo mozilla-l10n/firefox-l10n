@@ -935,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Wichtige Seiten
     .accesskey = W
+addressbar-locbar-engines-option =
+    .label = Suchmaschinen
+    .accesskey = a
 addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 
 ## Privacy Section - Content Blocking
