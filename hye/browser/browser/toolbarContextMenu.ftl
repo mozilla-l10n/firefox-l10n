@@ -4,45 +4,45 @@
 
 toolbar-context-menu-reload-selected-tab =
     .label = Վերբեռնել ընտրուած ներդիրը
-    .accesskey = R
+    .accesskey = Վ
 toolbar-context-menu-reload-selected-tabs =
     .label = Վերբեռնել ընտրուած ներդիրները
-    .accesskey = R
+    .accesskey = Վ
 toolbar-context-menu-bookmark-selected-tab =
     .label = Էջանշել ընտրուած ներդիրը…
-    .accesskey = T
+    .accesskey = ն
 toolbar-context-menu-bookmark-selected-tabs =
     .label = Էջանշել ընտրուած ներդիրները…
-    .accesskey = T
+    .accesskey = ե
 toolbar-context-menu-select-all-tabs =
     .label = Ընտրել բոլոր ներդիրները
-    .accesskey = S
+    .accesskey = Ը
 toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Յետարկել ներդիրների փակելը
-            [one] Յետարկել ներդիրների փակելը
-           *[other] Յետարկել ներդիրների փակելը
+            [1] Յետարկել ներդիրները փակելը
+            [one] Յետարկել ներդիրները փակելը
+           *[other] Յետարկել ներդիրները փակելը
         }
     .accesskey = Յ
 toolbar-context-menu-manage-extension =
-    .label = Կառաւարել ընդլայնումը
-    .accesskey = E
+    .label = Կառավարել ընդլայնումը
+    .accesskey = ը
 toolbar-context-menu-remove-extension =
     .label = Հեռացնել ընդլայնումը
-    .accesskey = v
+    .accesskey = Հ
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Զեկուցել ընդլայնման մասին
-    .accesskey = o
+    .accesskey = ո
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Ամրացնել գերլցուած ցանկում
-    .accesskey = P
+    .accesskey = ա
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Ինքնուրոյն թաքցուող գործիքագաւտի
     .accesskey = A
@@ -63,4 +63,4 @@ toolbar-context-menu-bookmarks-toolbar-on-new-tab =
     .accesskey = Մ
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Ցուցադրել այլ էջանիշեր
-    .accesskey = ո
+    .accesskey = ե
