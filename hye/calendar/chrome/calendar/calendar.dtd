@@ -325,16 +325,35 @@
 <!ENTITY calendar.alarm.details.label               "Մանրամասներ…" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "Ննջեցնել" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Ննջեցնել բոլորը" >
+<!ENTITY calendar.alarm.title.label                 "Աւրացոյցի յիշեցումներ" >
+<!ENTITY calendar.alarm.dismiss.label               "Բաց թողնել" >
+<!ENTITY calendar.alarm.dismissall.label            "Բաց թողնել բոլորը" >
 
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Րոպէ" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Րոպէ" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Րոպէ" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Րոպէ" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Րոպէ" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 Ժամ" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Ժամ" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 Աւր" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Չեղարկել ննջեցումը">
 
 <!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Խմբագրել Աւրացոյցը">
+<!ENTITY calendar.server.dialog.name.label          "Աւրացոյցի Անունը՝">
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Գոյն՝">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.format.label                   "Ձեւաչափ՝">
 
 <!-- Calendar Publish Dialog -->
 
