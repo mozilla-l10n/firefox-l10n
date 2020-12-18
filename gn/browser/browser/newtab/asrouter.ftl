@@ -122,6 +122,9 @@ cfr-whatsnew-lockwise-take-link-text = Eguereko tembipuru’i
 
 cfr-whatsnew-searchbar-title = Ehai sa’ive, ejuhuve kundaharape renda ndive
 cfr-whatsnew-searchbar-body-topsites = Ko’ág̃a, eiporavo kundaharape renda ha okakuaáta kora juajuha ndive ne renda eipuruvévape.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Mbotuichaha ra’ãnga’i
 
 ## Picture-in-Picture
@@ -275,3 +278,4 @@ cfr-whatsnew-media-keys-button = Jekuaa pyahu
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Eheka mbopya’eha kundaharape rendápe
+cfr-whatsnew-search-shortcuts-body = Ko’ág̃a, ehaívo peteĩ jeheka mongu’eha térã tenda ha’etéva kundaharape rendápe, osẽta peteĩ mbopya’eha hovýva pe jehekaha je’epyrépe. Eiporavo pe mbopya’eha emohu’ã hag̃ua nde jeheka pe kundaharape renda guive.
