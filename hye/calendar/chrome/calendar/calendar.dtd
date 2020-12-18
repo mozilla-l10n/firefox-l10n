@@ -386,7 +386,17 @@
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Նշուած իրադարձութիւններ/առաջադրանքներ">
 <!ENTITY calendar.print.tasks.label "Առաջադրանքներ">
 <!ENTITY calendar.print.events.label "Իրադարձութիւններ">
+<!ENTITY calendar.print.custom.label "Ընտրել տուեալային ընդգրկոյթ՝">
+<!ENTITY calendar.print.from.label "Որտեղից՝">
+<!ENTITY calendar.print.to.label "Դէպի՝">
+<!ENTITY calendar.print.settingsGroup.label "Պատճենման կարգաւորումներ">
+<!ENTITY calendar.print.optionsGroup.label "Ընտրանքներ">
+<!ENTITY calendar.print.taskswithnoduedate.label "Առաջադրանքներ առանց վերջնաժամկէտի">
+<!ENTITY calendar.print.completedtasks.label "Կատարուած առաջադրանքներ">
 
 <!-- Error reporting -->
+<!ENTITY calendar.error.detail "Մանրամասներ…">
+<!ENTITY calendar.error.code "Սխալի այլագիր՝">
+<!ENTITY calendar.error.description "Նկարագրութիւն">
 
 <!-- Extract buttons in message header -->
