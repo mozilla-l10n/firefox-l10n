@@ -398,5 +398,10 @@
 <!ENTITY calendar.error.detail "Մանրամասներ…">
 <!ENTITY calendar.error.code "Սխալի այլագիր՝">
 <!ENTITY calendar.error.description "Նկարագրութիւն">
+<!ENTITY calendar.error.title "Սխալ յայտնուեց">
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Աւելացնել որպէս իրադարձութիւն">
+<!ENTITY calendar.extract.task.button          "Աւելացնել որպէս առաջադրանք">
+<!ENTITY calendar.extract.event.button.tooltip "Հանէ՛ք աւրացոյցի տեղեկութիւնը հաղորդագրութիւնից եւ աւելացրէ՛ք այն ձեր աւրացոյցում`որպէս իրադարձութիւն">
+<!ENTITY calendar.extract.task.button.tooltip  "Հանէ՛ք աւրացոյցի տեղեկութիւնը հաղորդագրութիւնից եւ աւելացրէ՛ք այն ձեր աւրացոյցում որպէս առաջադրանք">
