@@ -380,6 +380,12 @@
 <!-- Calendar Printing -->
 <!ENTITY calendar.print.window.title "Պատճենել Աւրացոյցը">
 <!ENTITY calendar.print.title.label "Վերնագիր՝">
+<!ENTITY calendar.print.layout.label "Շարակարգ">
+<!ENTITY calendar.print.range.label "Ինչ Տպել">
+<!ENTITY calendar.print.currentView2.label "Ընթացիկ տեսք">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Նշուած իրադարձութիւններ/առաջադրանքներ">
+<!ENTITY calendar.print.tasks.label "Առաջադրանքներ">
+<!ENTITY calendar.print.events.label "Իրադարձութիւններ">
 
 <!-- Error reporting -->
 
