@@ -157,9 +157,28 @@
 <!ENTITY event.invite.attendees.accesskey                 "Հ">
 <!ENTITY event.email.attendees.label                      "Գրել ել․նամակ բոլոր մասնակիցներին…">
 <!ENTITY event.email.attendees.accesskey                  "Մ">
+<!ENTITY event.email.tentative.attendees.label            "Գրել ել․նամակ երկմտող մասնակիցներին…">
+<!ENTITY event.email.tentative.attendees.accesskey        "Ե">
+<!ENTITY event.remove.attendees.label2                    "Հեռացնել բոլոր մասնակիցներին">
+<!ENTITY event.remove.attendees.accesskey                 "հ">
+<!ENTITY event.remove.attendee.label                      "Հեռացնել մասնակցին">
+<!ENTITY event.remove.attendee.accesskey                  "ե">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Պահել">
+<!ENTITY  event.toolbar.saveandclose.label                "Պահել եւ փակել">
+<!ENTITY  event.toolbar.delete.label                      "Ջնջել">
+<!ENTITY  event.toolbar.attendees.label                   "Հրաւիրել մասնակիցների">
+<!ENTITY  event.toolbar.privacy.label                     "Գաղտնիութիւն">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Պահել">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Պահել եւ փակել">
+<!ENTITY  event.toolbar.delete.tooltip                    "Ջնջել">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Հրաւիրել մասնակիցների">
+<!ENTITY  event.toolbar.attachments.tooltip               "Աւելացնել յաւելուածներ">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Գաղտնիութեան փոփոխութիւն">
+<!ENTITY  event.toolbar.priority.tooltip                  "Փոխել առաջնահերթութիւնը">
+<!ENTITY  event.toolbar.status.tooltip                    "Փոխել վիճակը">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
