@@ -139,7 +139,24 @@
 <!ENTITY  event.menu.options.priority.high.label              "Բարձր">
 <!ENTITY  event.menu.options.priority.high.accesskey          "H">
 <!ENTITY  event.menu.options.privacy.label                    "Գաղտնիութիւն">
+<!ENTITY  event.menu.options.privacy.accesskey                "Գ">
+<!ENTITY  event.menu.options.privacy.public.label             "Հանրային իրադարձութիւն">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "ա">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Ցուցադրել միայն ժամը եւ ամսաթիւը">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "Ց">
+<!ENTITY  event.menu.options.privacy.private.label            "Անձնական իրադարձութիւն">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "ն">
+<!ENTITY  event.menu.options.show.time.label                  "Ցուցադրել ժամը որպէս">
+<!ENTITY  event.menu.options.show.time.accesskey              "Ժ">
+<!ENTITY  event.menu.options.show.time.busy.label             "Զբաղուած">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "Զ">
+<!ENTITY  event.menu.options.show.time.free.label             "Ազատ">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "Ա">
 
+<!ENTITY event.invite.attendees.label                     "Հրաւիրել մասնակիցների…">
+<!ENTITY event.invite.attendees.accesskey                 "Հ">
+<!ENTITY event.email.attendees.label                      "Գրել ել․նամակ բոլոր մասնակիցներին…">
+<!ENTITY event.email.attendees.accesskey                  "Մ">
 
 <!-- Toolbar -->
 
