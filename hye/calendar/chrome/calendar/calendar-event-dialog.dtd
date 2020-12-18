@@ -179,6 +179,7 @@
 <!ENTITY  event.toolbar.privacy.tooltip                   "Գաղտնիութեան փոփոխութիւն">
 <!ENTITY  event.toolbar.priority.tooltip                  "Փոխել առաջնահերթութիւնը">
 <!ENTITY  event.toolbar.status.tooltip                    "Փոխել վիճակը">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Փոխել ազատ/զբաղուած ժամանակը">
 
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
@@ -187,6 +188,7 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Ընդունել առաջարկը">
 
 <!-- Main page -->
 
