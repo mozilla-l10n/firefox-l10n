@@ -354,13 +354,32 @@
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
 <!ENTITY calendarproperties.format.label                   "Ձեւաչափ՝">
+<!ENTITY calendarproperties.location.label                 "Տեղ՝">
+<!ENTITY calendarproperties.refreshInterval.label          "Թարմացնել Աւրացոյցը">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Ձեռքով">
+<!ENTITY calendarproperties.name.label                     "Անուն՝">
+<!ENTITY calendarproperties.readonly.label                 "Read Only">
+<!ENTITY calendarproperties.firealarms.label               "Ցուցադրել յիշեցումները">
+<!ENTITY calendarproperties.cache3.label                   "Անցանց աջակցութիւն">
+<!ENTITY calendarproperties.enabled2.label                 "Միացնել այս աւրացոյցը">
+<!ENTITY calendarproperties.forceDisabled.label            "Այս աւրացոյցի համար մատակարար չի գտնուել։ Սա պատահում է, երբ Դուք անջատել կամ ապատեղակայել էք որոշ յաւելուածներ։">
+<!ENTITY calendarproperties.unsubscribe.label              "Ապաբաժանորդագրուել">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "Ա">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Հրապարակել Աւրացոյցը">
+<!ENTITY calendar.publish.url.label                 "Հրապարակել ցանցամիջոցների համընդհանուր տեղորոշիչը">
+<!ENTITY calendar.publish.publish.button      "Հրապարակել">
+<!ENTITY calendar.publish.close.button      "Փակել">
 
+<!ENTITY calendar.publish.example.url.description   "Նմանատիպ http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Ընտրել Աւրացոյցը">
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Պատճենել Աւրացոյցը">
+<!ENTITY calendar.print.title.label "Վերնագիր՝">
 
 <!-- Error reporting -->
 
