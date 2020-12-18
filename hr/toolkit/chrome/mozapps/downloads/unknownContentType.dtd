@@ -13,7 +13,7 @@
 <!ENTITY  saveFile.label              "Spremi datoteku">
 <!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY  rememberChoice.label        "Od sada učini to automatski za datoteke poput ove.">
+<!ENTITY  rememberChoice.label        "Ubuduće primijeni ovu radnju za ovu vrstu datoteka.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIs.label              "koja je:">
