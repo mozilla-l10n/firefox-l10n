@@ -30,6 +30,8 @@
 <!ENTITY maxZoom.accesskey                      "j">
 <!ENTITY percent.label                          "&#37;">
 
+<!ENTITY defaultZoom.label                      "Oletussuurennus">
+<!ENTITY defaultZoom.accesskey                  "O">
 
 <!ENTITY siteSpecific.label                     "Muista sivunsuurennustasot sivustokohtaisesti">
 <!ENTITY siteSpecific.accesskey                 "u">
