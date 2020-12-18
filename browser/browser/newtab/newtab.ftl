@@ -218,6 +218,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Sponsorlu kısayollar
 newtab-custom-pocket-title = { -pocket-brand-name } önerileri
+newtab-custom-pocket-subtitle = { -brand-product-name } ailesinin bir parçası olan { -pocket-brand-name }’ın seçtiği harika içerikler
 newtab-custom-pocket-sponsored = Sponsorlu haberler
 newtab-custom-recent-title = Son etkinlikler
 newtab-custom-recent-subtitle = Son kullanılan siteler ve içeriklerden bir seçki
