@@ -351,6 +351,7 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Techaukaha jegueru…
     .tooltiptext = Egueru techaukaha ambue kundaháragui { -brand-short-name }-pe.
+bookmarks-toolbar-empty-message = Eike pya’e hag̃ua, emoĩ nde rechaukaha techaukaha rembipuru rendápe. <a data-l10n-name="manage-bookmarks">Eñangareko techaukaháre…</a>
 
 ## WebRTC Pop-up notifications
 
