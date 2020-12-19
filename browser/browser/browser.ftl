@@ -506,6 +506,12 @@ pointerlock-warning-no-domain = Aquest document té el control del punter. Preme
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Mostra totes les adreces d'interès
+bookmarks-toolbar-chevron =
+    .tooltiptext = Mostra més adreces d'interès
+bookmarks-sidebar-content =
+    .aria-label = Adreces d'interès
 bookmarks-toolbar-menu =
     .label = Barra de les adreces d'interès
 bookmarks-toolbar-placeholder =
@@ -515,6 +521,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Edita aquesta adreça d'interès
 
 ## More items
 
