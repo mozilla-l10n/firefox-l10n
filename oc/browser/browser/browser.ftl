@@ -542,6 +542,15 @@ bookmarks-search =
     .label = Recercar dins los marcapaginas
 bookmarks-tools =
     .label = Aisinas dels marcapaginas
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barra personala
+    .accesskey = B
+    .aria-label = Marcapaginas
+bookmarks-toolbar-menu =
+    .label = Barra personala
 bookmarks-toolbar-placeholder =
     .title = Elements de la barra personala
 bookmarks-toolbar-placeholder-button =
@@ -553,6 +562,11 @@ library-bookmarks-menu =
     .label = Marcapaginas
 library-bookmarks-bookmark-this-page =
     .label = Marcar aquesta pagina
+library-bookmarks-bookmark-edit =
+    .label = Modificar aqueste marcapagina
 
 ## More items
 
+more-menu-go-offline =
+    .label = Trabalhar fòra connexion
+    .accesskey = T
