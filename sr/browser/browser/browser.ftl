@@ -510,6 +510,8 @@ pointerlock-warning-no-domain = Овај документ управља са в
 
 bookmarks-show-all-bookmarks =
     .label = Прикажи све забелешке
+bookmarks-recent-bookmarks =
+    .value = Недавно забележене
 bookmarks-toolbar-chevron =
     .tooltiptext = Прикажи још забелешки
 bookmarks-sidebar-content =
