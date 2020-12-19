@@ -367,6 +367,22 @@ pointerlock-warning-no-domain = આ દસ્તાવેજ આપના પો
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = બધા બુકમાર્ક્સને બતાવો
+bookmarks-recent-bookmarks =
+    .value = તાજેતરમાં કરેલ બુકમાર્ક
+bookmarks-toolbar-chevron =
+    .tooltiptext = વધુ બુકમાર્ક્સ બતાવો
+bookmarks-sidebar-content =
+    .aria-label = બુકમાર્ક્સ
+bookmarks-mobile-bookmarks-menu =
+    .label = મોબાઇલ બુકમાર્ક્સ
+bookmarks-search =
+    .label = બુકમાર્ક્સ શોધો
+bookmarks-toolbar-placeholder =
+    .title = બુકમાર્ક્સ સાધનપટ્ટી વસ્તુઓ
+bookmarks-toolbar-placeholder-button =
+    .label = બુકમાર્ક્સ સાધનપટ્ટી વસ્તુઓ
 
 ## Library Panel items
 
