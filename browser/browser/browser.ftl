@@ -25,10 +25,14 @@ browser-main-window-title = { -brand-full-name }
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 
 ## Page Action Context Menu
+
+
+## Page Action menu
 
 
 ## Auto-hide Context Menu
@@ -44,6 +48,7 @@ browser-main-window-title = { -brand-full-name }
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 
@@ -54,6 +59,9 @@ browser-main-window-title = { -brand-full-name }
 
 browser-window-minimize-button =
     .tooltiptext = Kugabanya ingano
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -68,3 +76,35 @@ browser-window-minimize-button =
 
 urlbar-go-button =
     .tooltiptext = Kujya kuri aderesi mu Mwanya w'Indangahantu
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Utumenyetso
+bookmarks-toolbar-menu =
+    .label = Umwanyabikoresho w'Utumenyetso
+bookmarks-toolbar-placeholder =
+    .title = Ibigize Umwanyabikoresho w'Utumenyetso
+bookmarks-toolbar-placeholder-button =
+    .label = Ibigize Umwanyabikoresho w'Utumenyetso
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Gukora Hatariho Interineti
+    .accesskey = I
