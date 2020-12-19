@@ -508,10 +508,16 @@ pointerlock-warning-no-domain = Šis dokumentas valdo jūsų žymeklį. Spustel�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Rodyti visą adresyną
+bookmarks-recent-bookmarks =
+    .value = Paskiausiai įtraukti į adresyną
 bookmarks-toolbar-chevron =
     .tooltiptext = Kiti adresai
 bookmarks-sidebar-content =
     .aria-label = Adresynas
+bookmarks-search =
+    .label = Ieškoti adresyne
 bookmarks-toolbar-menu =
     .label = Adresyno juosta
 bookmarks-toolbar-placeholder =
@@ -521,6 +527,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Įrašyti į adresyną
+library-bookmarks-bookmark-edit =
+    .label = Taisyti adresyno įrašą
 
 ## More items
 
