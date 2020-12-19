@@ -505,3 +505,25 @@ fullscreen-exit-mac-button = Volledig scherm verlaten (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> heeft de controle over uw aanwijzer. Druk op Esc om de controle weer over te nemen.
 pointerlock-warning-no-domain = Dit document heeft de controle over uw aanwijzer. Druk op Esc om de controle weer over te nemen.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Bladwijzers
+bookmarks-toolbar-menu =
+    .label = Bladwijzerwerkbalk
+bookmarks-toolbar-placeholder =
+    .title = Bladwijzerwerkbalkitems
+bookmarks-toolbar-placeholder-button =
+    .label = Bladwijzerwerkbalkitems
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Bladwijzer voor deze pagina maken
+
+## More items
+
+more-menu-go-offline =
+    .label = Offline werken
+    .accesskey = f
