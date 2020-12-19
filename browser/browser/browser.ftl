@@ -246,6 +246,8 @@ bookmarks-show-all-bookmarks =
     .label = सभटा पुस्तकचिह्न केँ देखाउ
 bookmarks-toolbar-chevron =
     .tooltiptext = बेसी पुस्तकचिह्न देखाउ
+bookmarks-sidebar-content =
+    .aria-label = पुस्तकचिह्न
 bookmarks-toolbar-menu =
     .label = पुस्तकचिह्नित अओजारपट्टी
 bookmarks-toolbar-placeholder =
@@ -258,3 +260,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
+more-menu-go-offline =
+    .label = ऑफ़लाइन काम करू (k)
+    .accesskey = k
