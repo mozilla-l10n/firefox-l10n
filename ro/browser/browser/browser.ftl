@@ -461,3 +461,19 @@ fullscreen-exit-mac-button = Ieși din modul ecran complet (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> controlează acum cursorul. Apasă Esc pentru a prelua controlul.
 pointerlock-warning-no-domain = Documentul controlează acum cursorul. Apasă Esc pentru a prelua controlul.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Afișează toate marcajele
+bookmarks-sidebar-content =
+    .aria-label = Marcaje
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Lucrează offline
+    .accesskey = k
