@@ -498,6 +498,8 @@ pointerlock-warning-no-domain = マウスポインターは現在、このペー
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = 残りのブックマークを表示します
 bookmarks-toolbar-menu =
     .label = ブックマークツールバー
 bookmarks-toolbar-placeholder =
