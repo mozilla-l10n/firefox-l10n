@@ -272,6 +272,8 @@ pointerlock-warning-no-domain = Овој документ ви ја презем
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Покажува уште обележувачи
 bookmarks-toolbar-menu =
     .label = Алатник со обележувачи
 bookmarks-toolbar-placeholder =
