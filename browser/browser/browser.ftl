@@ -372,6 +372,11 @@ pointerlock-warning-no-domain = આ દસ્તાવેજ આપના પો
 
 library-bookmarks-bookmark-this-page =
     .label = આ પાનાંને બુકમાર્ક કરો
+library-bookmarks-bookmark-edit =
+    .label = આ બુકમાર્કમાં ફેરફાર કરો
 
 ## More items
 
+more-menu-go-offline =
+    .label = ઓફલાઈન કામ કરો
+    .accesskey = k
