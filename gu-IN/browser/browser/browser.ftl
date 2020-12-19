@@ -375,10 +375,32 @@ bookmarks-toolbar-chevron =
     .tooltiptext = વધુ બુકમાર્ક્સ બતાવો
 bookmarks-sidebar-content =
     .aria-label = બુકમાર્ક્સ
+bookmarks-other-bookmarks-menu =
+    .label = અન્ય બુકમાર્ક્સ
 bookmarks-mobile-bookmarks-menu =
     .label = મોબાઇલ બુકમાર્ક્સ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] બુકમાર્ક્સ સાઇડબાર છુપાવો
+           *[other] બુકમાર્ક બાજુપટ્ટીને જુઓ
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] બુકમાર્ક્સ ટૂલબાર છુપાવો
+           *[other] બુકમાર્ક સાધનપટ્ટીને દર્શાવો
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ટૂલબારમાંથી બુકમાર્ક મેનુને દૂર કરો
+           *[other] ટૂલબારમાં બુકમાર્ક્સ મેનૂ ઉમેરો
+        }
 bookmarks-search =
     .label = બુકમાર્ક્સ શોધો
+bookmarks-tools =
+    .label = બુકમાર્કિંગ સાધનો
 bookmarks-toolbar-placeholder =
     .title = બુકમાર્ક્સ સાધનપટ્ટી વસ્તુઓ
 bookmarks-toolbar-placeholder-button =
