@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Цей документ отримав конт�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-sidebar-content =
+    .aria-label = Закладки
 bookmarks-toolbar-menu =
     .label = Панель закладок
 bookmarks-toolbar-placeholder =
@@ -517,6 +519,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Закласти цю сторінку
+library-bookmarks-bookmark-edit =
+    .label = Редагувати цю закладку
 
 ## More items
 
