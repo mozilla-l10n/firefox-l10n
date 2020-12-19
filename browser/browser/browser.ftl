@@ -415,6 +415,10 @@ bookmarks-sidebar-content =
     .aria-label = পত্ৰচিহ্নসমূহ
 bookmarks-toolbar-menu =
     .label = পত্ৰচিহ্ন টুলবাৰ
+bookmarks-toolbar-placeholder =
+    .title = পত্ৰচিহ্ন টুলবাৰৰ বস্তুবোৰ
+bookmarks-toolbar-placeholder-button =
+    .label = পত্ৰচিহ্ন টুলবাৰৰ বস্তুবোৰ
 
 ## Library Panel items
 
@@ -423,3 +427,6 @@ library-bookmarks-bookmark-this-page =
 
 ## More items
 
+more-menu-go-offline =
+    .label = অফলাইন কাম কৰক
+    .accesskey = k
