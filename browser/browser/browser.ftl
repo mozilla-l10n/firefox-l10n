@@ -407,6 +407,12 @@ bookmarks-tools-sidebar-visibility =
             [true] Suuɗ Palal Sawndo Maantore
            *[other] Hollu Palal Maantore
         }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Suuɗ Palal Maantore
+           *[other] Hollu Palal Maantore
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -426,6 +432,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Maantore
 library-bookmarks-bookmark-this-page =
     .label = Maantoro Ngoo Hello
 library-bookmarks-bookmark-edit =
