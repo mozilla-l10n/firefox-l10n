@@ -242,6 +242,10 @@ pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> �
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = सभटा पुस्तकचिह्न केँ देखाउ
+bookmarks-toolbar-chevron =
+    .tooltiptext = बेसी पुस्तकचिह्न देखाउ
 bookmarks-toolbar-menu =
     .label = पुस्तकचिह्नित अओजारपट्टी
 bookmarks-toolbar-placeholder =
