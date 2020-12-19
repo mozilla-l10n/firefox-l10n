@@ -383,3 +383,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = முடக்க நிலை
+    .accesskey = k
