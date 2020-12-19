@@ -106,7 +106,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Scrivi di meno e trova più risultati: cerca con { $engineName } direttamente dalla barra degli indirizzi.
 urlbar-search-tips-redirect-2 = Inizia le tue ricerche dalla barra degli indirizzi per visualizzare suggerimenti da { $engineName } e dalla cronologia di navigazione.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Seleziona questa scorciatoia per trovare ciò che ti serve più rapidamente.
@@ -286,7 +285,6 @@ identity-passive-loaded = Alcuni elementi di questa pagina non sono sicuri (ad e
 identity-active-loaded = La protezione è disattivata per questa pagina.
 identity-weak-encryption = Questa pagina utilizza una crittografia debole.
 identity-insecure-login-forms = Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.
-
 identity-https-only-connection-upgraded = (aggiornato a HTTPS)
 identity-https-only-label = Modalità solo HTTPS
 identity-https-only-dropdown-on =
@@ -298,7 +296,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Attivare la modalità solo HTTPS per fare in modo che { -brand-short-name } aggiorni la connessione quando possibile.
 identity-https-only-info-turn-off2 = Se la pagina non funziona correttamente, provare a disattivare per questo sito la modalità solo HTTPS per ricaricare utilizzando una connessione non sicura HTTP.
 identity-https-only-info-no-upgrade = Impossibile aggiornare la connessione da HTTP.
-
 identity-permissions =
     .value = Permessi
 identity-permissions-storage-access-header = Cookie intersito
@@ -351,7 +348,6 @@ browser-window-close-button =
 browser-import-button2 =
     .label = Importa segnalibri…
     .tooltiptext = Importa i segnalibri di un altro browser in { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Salva i tuoi segnalibri qui, nella Barra dei segnalibri, per accedervi più rapidamente. <a data-l10n-name="manage-bookmarks">Gestisci i segnalibri…</a>
 
 ## WebRTC Pop-up notifications
@@ -470,15 +466,6 @@ urlbar-result-action-before-tabtosearch-web = Premi il tasto di tabulazione (TAB
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Premi il tasto di tabulazione (TAB) per cercare in { $engine }
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Cerca nei segnalibri
-urlbar-result-action-search-history = Cerca nella cronologia
-urlbar-result-action-search-tabs = Cerca nelle schede
-
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -487,6 +474,14 @@ urlbar-result-action-tabtosearch-web = Cerca con { $engine } direttamente dalla 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cerca in { $engine } direttamente dalla barra degli indirizzi
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Cerca nei segnalibri
+urlbar-result-action-search-history = Cerca nella cronologia
+urlbar-result-action-search-tabs = Cerca nelle schede
 
 ## Full Screen and Pointer Lock UI
 
@@ -503,3 +498,70 @@ fullscreen-exit-mac-button = Esci da schermo intero (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.
 pointerlock-warning-no-domain = Questo documento sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Visualizza tutti i segnalibri
+bookmarks-recent-bookmarks =
+    .value = Aggiunti di recente
+bookmarks-toolbar-chevron =
+    .tooltiptext = Visualizza altri segnalibri
+bookmarks-sidebar-content =
+    .aria-label = Segnalibri
+bookmarks-menu-button =
+    .label = Menu segnalibri
+bookmarks-other-bookmarks-menu =
+    .label = Altri segnalibri
+bookmarks-mobile-bookmarks-menu =
+    .label = Segnalibri da dispositivi mobile
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Nascondi la barra laterale dei segnalibri
+           *[other] Visualizza la barra laterale dei segnalibri
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Nascondi la barra dei segnalibri
+           *[other] Visualizza la barra dei segnalibri
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Rimuovi Segnalibri dalla barra degli strumenti
+           *[other] Aggiungi Segnalibri alla barra degli strumenti
+        }
+bookmarks-search =
+    .label = Cerca nei segnalibri
+bookmarks-tools =
+    .label = Strumenti per i segnalibri
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barra dei segnalibri
+    .accesskey = s
+    .aria-label = Segnalibri
+bookmarks-toolbar-menu =
+    .label = Barra dei segnalibri
+bookmarks-toolbar-placeholder =
+    .title = Elementi della barra dei segnalibri
+bookmarks-toolbar-placeholder-button =
+    .label = Elementi della barra dei segnalibri
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Segnalibri
+library-bookmarks-bookmark-this-page =
+    .label = Aggiungi pagina ai segnalibri
+library-bookmarks-bookmark-edit =
+    .label = Modifica segnalibro
+
+## More items
+
+more-menu-go-offline =
+    .label = Lavora non in linea
+    .accesskey = L
