@@ -508,10 +508,14 @@ pointerlock-warning-no-domain = Ez a dokumentum vezérli az egérmutatóját. Ny
 
 bookmarks-show-all-bookmarks =
     .label = Minden könyvjelző megjelenítése
+bookmarks-recent-bookmarks =
+    .value = Nemrég könyvjelzőzött
 bookmarks-toolbar-chevron =
     .tooltiptext = További könyvjelzők megjelenítése
 bookmarks-sidebar-content =
     .aria-label = Könyvjelzők
+bookmarks-search =
+    .label = Könyvjelzők keresése
 bookmarks-toolbar-menu =
     .label = Könyvjelző eszköztár
 bookmarks-toolbar-placeholder =
