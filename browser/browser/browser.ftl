@@ -115,6 +115,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = சுருக்குக
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -141,5 +144,38 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = அனைத்துப் புத்தகக்குறிகளையும் காட்டுக
+bookmarks-toolbar-chevron =
+    .tooltiptext = இன்னும் புத்தகக்குறிகளைக் காட்டுக
+bookmarks-sidebar-content =
+    .aria-label = புத்தகக்குறிகள்
+bookmarks-toolbar-menu =
+    .label = புத்தகக்குறிகளின் கருவிப்பட்டை
+bookmarks-toolbar-placeholder =
+    .title = புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்
+bookmarks-toolbar-placeholder-button =
+    .label = புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = இணைப்பில்லா நிலையில் இயங்குக
+    .accesskey = k
