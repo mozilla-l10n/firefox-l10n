@@ -520,6 +520,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = أظهِر المزيد من العلامات
 bookmarks-sidebar-content =
     .aria-label = العلامات
+bookmarks-menu-button =
+    .label = قائمة العلامات
 bookmarks-other-bookmarks-menu =
     .label = العلامات الأخرى
 bookmarks-mobile-bookmarks-menu =
@@ -562,6 +564,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = العلامات
 library-bookmarks-bookmark-this-page =
     .label = علّم هذه الصفحة
 library-bookmarks-bookmark-edit =
