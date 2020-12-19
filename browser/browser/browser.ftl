@@ -521,6 +521,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Agregar esta página a marcadores
+library-bookmarks-bookmark-edit =
+    .label = Modificar este marcador
 
 ## More items
 
