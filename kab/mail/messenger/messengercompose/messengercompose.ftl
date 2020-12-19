@@ -7,11 +7,9 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Kkes urti { $type }
-
 #   $type (String) - the type of the addressing row
 remove-address-row-type-label =
     .tooltiptext = Kkes urti { $type }
-
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -20,7 +18,6 @@ address-input-type-aria-label =
         [one] { $type } s yiwet n tansa, seqdec taqeffalt s uneccab s azelmaḍ akken ad yesrifeg fell-as.
        *[other] { $type } s { $count } n tansiwin, seqdec taqeffalt s uneccab s azelmaḍ akken ad yesrifeg fell-asen.
     }
-
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -28,23 +25,22 @@ pill-aria-label =
         [one] { $email }: senned Kcem akken ad tẓergeḍ-t, Kkes akken ad tekkseḍ-t.
        *[other] { $email }, 1 seg { $count }: senned Kcem akken ad tẓergeḍ-t, Kkes akken ad tekkseḍ-t.
     }
-
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } mačči d tansa imayl tameɣtut
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email } mačči d amedlis-ik.im n tansa
 pill-action-edit =
     .label = Ẓreg tansa
     .accesskey = r
-
 pill-action-move-to =
     .label = Awi ɣer
     .accesskey = A
-
 pill-action-move-cc =
     .label = Awi ɣer unɣal
     .accesskey = w
-
 pill-action-move-bcc =
     .label = Awi ɣer unɣal uffir
     .accesskey = ɣ
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -54,7 +50,6 @@ attachment-bucket-count =
            *[other] Ticeqqufin yeddan { $count }
         }
     .accesskey = m
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -63,11 +58,9 @@ attachments-placeholder-tooltip =
             [one] Taceqquft yeddan { $count }
            *[other] Taceqqufin yeddan { $count }
         }
-
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
-
 button-return-receipt =
     .label = Awwaḍ
     .tooltiptext = Suter anagi n wawwaḍ i yizen-a
