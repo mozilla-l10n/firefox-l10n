@@ -516,6 +516,8 @@ pointerlock-warning-no-domain = Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pw
 
 bookmarks-show-all-bookmarks =
     .label = Dangos Pob Nod Tudalen
+bookmarks-recent-bookmarks =
+    .value = Wedi gosod Nod Tudalen yn Ddiweddar
 bookmarks-toolbar-chevron =
     .tooltiptext = Dangos pob ffolder nod tudalen
 bookmarks-sidebar-content =
@@ -531,6 +533,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Gosod Nod Tudalen i'r Dudalen
+library-bookmarks-bookmark-edit =
+    .label = Golygu'r Nod Tudalen
 
 ## More items
 
