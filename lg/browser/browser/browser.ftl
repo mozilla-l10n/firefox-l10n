@@ -164,3 +164,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Kola nga toli ku Mutimbagano
+    .accesskey = K
