@@ -516,6 +516,10 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Прикажи још забелешки
 bookmarks-sidebar-content =
     .aria-label = Забелешке
+bookmarks-menu-button =
+    .label = Мени са забелешкама
+bookmarks-search =
+    .label = Претражи забелешке
 bookmarks-toolbar-menu =
     .label = Трака са забелешкама
 bookmarks-toolbar-placeholder =
@@ -525,6 +529,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Забелешке
 library-bookmarks-bookmark-this-page =
     .label = Забележи ову страницу
 library-bookmarks-bookmark-edit =
