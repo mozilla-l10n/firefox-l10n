@@ -502,6 +502,8 @@ pointerlock-warning-no-domain = Ta dokument ima nadzor nad vašim kazalcem. Prit
 
 bookmarks-show-all-bookmarks =
     .label = Prikaži vse zaznamke
+bookmarks-recent-bookmarks =
+    .value = Nedavni zaznamki
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži več zaznamkov
 bookmarks-sidebar-content =
