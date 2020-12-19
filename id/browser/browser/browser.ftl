@@ -476,6 +476,8 @@ pointerlock-warning-no-domain = Dokumen ini memiliki kendali atas pointer Anda. 
 
 bookmarks-show-all-bookmarks =
     .label = Tampilkan Semua Markah…
+bookmarks-recent-bookmarks =
+    .value = Baru Saja Dibuat Markah
 bookmarks-toolbar-chevron =
     .tooltiptext = Tampilkan markah lainnya
 bookmarks-sidebar-content =
@@ -498,6 +500,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Markahi Laman ini
+library-bookmarks-bookmark-edit =
+    .label = Edit Markah Ini
 
 ## More items
 
