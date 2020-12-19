@@ -453,6 +453,13 @@ bookmarks-search =
     .label = Էջանիշերի որոնում
 bookmarks-tools =
     .label = Էջանշելու գործիքներ
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Էջանիշերի Վահանակ
+    .accesskey = Է
+    .aria-label = Էջանիշեր
 bookmarks-toolbar-menu =
     .label = Էջանիշերի Վահանակ
 bookmarks-toolbar-placeholder =
