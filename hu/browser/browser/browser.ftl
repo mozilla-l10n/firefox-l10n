@@ -523,6 +523,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Oldal hozzáadása a könyvjelzőkhöz
+library-bookmarks-bookmark-edit =
+    .label = Könyvjelző szerkesztése
 
 ## More items
 
