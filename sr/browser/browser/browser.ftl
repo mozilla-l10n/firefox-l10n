@@ -525,6 +525,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Забележи ову страницу
+library-bookmarks-bookmark-edit =
+    .label = Уреди ову забелешку
 
 ## More items
 
