@@ -511,3 +511,18 @@ fullscreen-exit-mac-button = Gadael y Sgrin Lawn (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> reolaeth o'ch pwyntydd. Pwyswch Esc i adennill rheolaeth.
 pointerlock-warning-no-domain = Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pwyswch Esc i adennill rheolaeth.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Bar Offer Nodau Tudalen
+bookmarks-toolbar-placeholder =
+    .title = Eitemau Bar Offer Nodau Tudalen
+bookmarks-toolbar-placeholder-button =
+    .label = Eitemau Bar Offer Nodau Tudalen
+
+## Library Panel items
+
+
+## More items
+
