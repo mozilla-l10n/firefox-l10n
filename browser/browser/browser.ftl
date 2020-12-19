@@ -291,10 +291,14 @@ pointerlock-warning-no-domain = Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc uk
 
 bookmarks-show-all-bookmarks =
     .label = Bonisa zonke iibhukhmakhi
+bookmarks-recent-bookmarks =
+    .value = Okufakwe Ibhukmakhi Kutshanje
 bookmarks-toolbar-chevron =
     .tooltiptext = Bonisa iibhukhmakhi ezininzi
 bookmarks-sidebar-content =
     .aria-label = Iibhukhmakhi
+bookmarks-search =
+    .label = Khangela iiBhukhmakhi
 bookmarks-toolbar-menu =
     .label = Ithulbha yebhukhmakhi
 bookmarks-toolbar-placeholder =
@@ -304,6 +308,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Faka ibhukhmakhi kweli khasi
+library-bookmarks-bookmark-edit =
+    .label = Hlela Le Bhukhmakhi
 
 ## More items
 
