@@ -71,3 +71,6 @@ experimental-features-fission-description = ‏Fission (בידוד אתרים) �
 experimental-features-multi-pip =
     .label = תמיכה בהצגת חלונות מרובים של תמונה בתוך תמונה
 experimental-features-multi-pip-description = תמיכה ניסיונית המאפשרת לחלונות מרובים של מצב תמונה בתוך תמונה להיות פתוחים בו זמנית.
+experimental-features-http3 =
+    .label = פרוטוקול HTTP/3
+experimental-features-http3-description = תמיכה ניסיונית עבור הפרוטוקול HTTP/3.

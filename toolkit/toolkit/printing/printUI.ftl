@@ -51,6 +51,7 @@ printui-duplex-checkbox = הדפסה בשני הצדדים
 printui-options = אפשרויות
 printui-headers-footers-checkbox = הדפסת כותרות עיליות ותחתיות
 printui-backgrounds-checkbox = הדפסת רקעים
+printui-selection-checkbox = הדפסת הקטע הנבחר בלבד
 printui-color-mode-label = מצב צבע
 printui-color-mode-color = צבע
 printui-color-mode-bw = שחור ולבן
