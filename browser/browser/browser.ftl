@@ -514,6 +514,12 @@ pointerlock-warning-no-domain = ਇਹ ਦਸਤਾਵੇਜ਼ ਤੁਹਾਡੇ 
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
+bookmarks-recent-bookmarks =
+    .value = ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤੇ
+bookmarks-toolbar-chevron =
+    .tooltiptext = ਹੋਰ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
 bookmarks-sidebar-content =
     .aria-label = ਬੁੱਕਮਾਰਕ
 bookmarks-toolbar-menu =
@@ -525,6 +531,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
+library-bookmarks-bookmark-edit =
+    .label = ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
 
 ## More items
 
