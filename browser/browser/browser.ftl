@@ -218,6 +218,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Vala
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -283,3 +286,25 @@ fullscreen-exit-mac-button = Phuma KwiSkrini Esipheleleyo (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ilawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.
 pointerlock-warning-no-domain = Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Bonisa zonke iibhukhmakhi
+bookmarks-toolbar-chevron =
+    .tooltiptext = Bonisa iibhukhmakhi ezininzi
+bookmarks-toolbar-menu =
+    .label = Ithulbha yebhukhmakhi
+bookmarks-toolbar-placeholder =
+    .title = Iiayithem zethulbha yeebhukhmakhi
+bookmarks-toolbar-placeholder-button =
+    .label = Iiayithem zethulbha yeebhukhmakhi
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Sebenza ngaphandle kweIntanethi
+    .accesskey = e
