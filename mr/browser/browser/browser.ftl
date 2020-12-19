@@ -350,9 +350,29 @@ pointerlock-warning-no-domain = ह्या दस्तऐवजाकडे �
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = सर्व वाचणखूणा दाखवा
+bookmarks-recent-bookmarks =
+    .value = अलिकडील वाचनखूणा
+bookmarks-toolbar-chevron =
+    .tooltiptext = आणखी वाचनखूणा दर्शवा
+bookmarks-sidebar-content =
+    .aria-label = वाचनखूणा
+bookmarks-search =
+    .label = वाचनखुणा शोधा
+bookmarks-toolbar-menu =
+    .label = वाचनखूणा साधनपट्टी
+bookmarks-toolbar-placeholder =
+    .title = साधनपट्टीतील घटकांना वाचनखूण लावा
+bookmarks-toolbar-placeholder-button =
+    .label = साधनपट्टीतील घटकांना वाचनखूण लावा
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = या पृष्ठास वाचनखूण लावा
+library-bookmarks-bookmark-edit =
+    .label = ही वाचनखूण संपादीत करा
 
 ## More items
 
