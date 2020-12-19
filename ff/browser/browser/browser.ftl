@@ -395,8 +395,28 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Hollu maantore goɗɗe
 bookmarks-sidebar-content =
     .aria-label = Maantore
+bookmarks-menu-button =
+    .label = Dosol Maantore
+bookmarks-other-bookmarks-menu =
+    .label = Maantore Goɗɗe
+bookmarks-mobile-bookmarks-menu =
+    .label = Maantore Cinndel
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Suuɗ Palal Sawndo Maantore
+           *[other] Hollu Palal Maantore
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ittu Dosol Maantore e Palal Kuutorɗe
+           *[other] Ɓeydu Dosol Maantore to Palal Kuutorɗe
+        }
 bookmarks-search =
     .label = Yiylo Maantore
+bookmarks-tools =
+    .label = Kuutorɗe Maantorgol
 bookmarks-toolbar-menu =
     .label = Palal Maantore
 bookmarks-toolbar-placeholder =
