@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (izolowanje websydłow) je e
 experimental-features-multi-pip =
     .label = Wjacora podpěra za wobraz-we-wobrazu
 experimental-features-multi-pip-description = Eksperimentelna podpěra za runočasne wočinjenje wjacorych woknow wobraz-we-wobrazu.
+experimental-features-http3 =
+    .label = Protokol HTTP/3
+experimental-features-http3-description = Eksperimentelna podpěra za protokol HTTP/3.

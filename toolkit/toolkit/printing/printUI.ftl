@@ -53,6 +53,7 @@ printui-duplex-checkbox = Na woběmaj bokomaj šišćeć
 printui-options = Nastajenja
 printui-headers-footers-checkbox = Hłowy a nohi ćišćeć
 printui-backgrounds-checkbox = Pozadki ćišćeć
+printui-selection-checkbox = Jenož wuběr ćišćeć
 printui-color-mode-label = Barbny modus
 printui-color-mode-color = Barba
 printui-color-mode-bw = Čorny a běły
