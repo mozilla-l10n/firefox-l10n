@@ -505,3 +505,15 @@ fullscreen-exit-mac-button = Выйсці з поўнаэкраннага рэж
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> кіруе вашым указальнікам. Націсніце Esc, каб узяць кіраванне.
 pointerlock-warning-no-domain = Гэты дакумент кіруе вашым указальнікам. Націсніце Esc, каб узяць кіраванне.
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Праца па-за сеткаю
+    .accesskey = з
