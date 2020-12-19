@@ -395,6 +395,8 @@ bookmarks-sidebar-content =
 
 library-bookmarks-bookmark-this-page =
     .label = Azonzi questa pagina a-i segnalibbri
+library-bookmarks-bookmark-edit =
+    .label = Cangia segnalibbro
 
 ## More items
 
