@@ -51,6 +51,7 @@ printui-duplex-checkbox = Skriv ut på båda sidor
 printui-options = Alternativ
 printui-headers-footers-checkbox = Skriv ut sidhuvud och sidfot
 printui-backgrounds-checkbox = Skriv ut bakgrunder
+printui-selection-checkbox = Skriv endast ut markering
 printui-color-mode-label = Färgläge
 printui-color-mode-color = Färg
 printui-color-mode-bw = Svartvit
