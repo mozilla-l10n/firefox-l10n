@@ -560,6 +560,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Favoritos
+library-bookmarks-bookmark-this-page =
+    .label = Adicionar página aos favoritos
 library-bookmarks-bookmark-edit =
     .label = Editar este favorito
 
