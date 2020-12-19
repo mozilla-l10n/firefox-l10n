@@ -417,10 +417,14 @@ pointerlock-warning-no-domain = این سند کنترل مکان‌نما شم�
 
 bookmarks-show-all-bookmarks =
     .label = نمایش همهٔ نشانک‌ها
+bookmarks-recent-bookmarks =
+    .value = به تازگی نشانک‌گذاری شده
 bookmarks-toolbar-chevron =
     .tooltiptext = نشانک‌های بیشتری نمایش داده شود
 bookmarks-sidebar-content =
     .aria-label = نشانک‌ها
+bookmarks-search =
+    .label = جست‌وجوی نشانک‌ها
 bookmarks-toolbar-menu =
     .label = نوار ابزار نشانک‌ها
 bookmarks-toolbar-placeholder =
@@ -430,6 +434,13 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = نشانک‌گذاری این صفحه
+library-bookmarks-bookmark-edit =
+    .label = ویرایش این نشانک
 
 ## More items
 
+more-menu-go-offline =
+    .label = آفلاین کار کن
+    .accesskey = ک
