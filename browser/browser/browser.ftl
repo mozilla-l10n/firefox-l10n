@@ -277,6 +277,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Aizvērt
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -346,3 +349,33 @@ fullscreen-exit-mac-button = Iziet no pilnā ekrāna (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolē kursoru. Nospiediet taustiņu Esc, lai atgūtu kontroli.
 pointerlock-warning-no-domain = Šis dokuments kontrolē kursoru. Nospiediet taustiņu Esc, lai atgūtu kontroli.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Rādīt visas grāmatzīmes
+bookmarks-recent-bookmarks =
+    .value = Nesen saglabātās
+bookmarks-toolbar-chevron =
+    .tooltiptext = Rādīt vairāk grāmatzīmju
+bookmarks-sidebar-content =
+    .aria-label = Grāmatzīmes
+bookmarks-toolbar-menu =
+    .label = Grāmatzīmju rīkjosla
+bookmarks-toolbar-placeholder =
+    .title = Grāmatzīmju rīkjoslas elementi
+bookmarks-toolbar-placeholder-button =
+    .label = Grāmatzīmju rīkjoslas elementi
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Saglabāt šo lapu grāmatzīmēs
+library-bookmarks-bookmark-edit =
+    .label = Rediģēt šo grāmatzīmi
+
+## More items
+
+more-menu-go-offline =
+    .label = Strādāt nesaistē
+    .accesskey = r
