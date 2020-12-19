@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. D
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Mear blêdwizers toane
 bookmarks-sidebar-content =
     .aria-label = Blêdwizers
 bookmarks-toolbar-menu =
@@ -517,6 +519,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Dizze blêdwizer bewurkje
 
 ## More items
 
