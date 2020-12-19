@@ -337,8 +337,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = இன்னும் காண்பி
 bookmarks-sidebar-content =
     .aria-label = புத்தகக்குறிகள்
+bookmarks-menu-button =
+    .label = புத்தகக்குறிகள் பட்டி
+bookmarks-other-bookmarks-menu =
+    .label = பிற புத்தகக்குறிகள்
+bookmarks-mobile-bookmarks-menu =
+    .label = கைகப்பேசி புத்தகக்குறிகள்
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] புத்தகக்குறிகள் பக்கப்பட்டையை மறை
+           *[other] புத்தகக்குறிகள் பக்கப்பட்டையைக் காட்டு
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] புத்தகக்குறிகள் கருவிப்பட்டையை மறை
+           *[other] புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] கருவிப்பட்டையிலிருந்து புத்தகக்குறிகள் பட்டியை நீக்கவும்
+           *[other] புத்தகக்குறி பட்டியைக் கருவிப்பட்டையில் சேர்க்கவும்
+        }
 bookmarks-search =
     .label = புத்தகக்குறிகளைத் தேடு
+bookmarks-tools =
+    .label = புத்தக்குறியிடும் கருவிகள்
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறி கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
@@ -348,6 +374,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = புத்தகக்குறிகள்
 library-bookmarks-bookmark-this-page =
     .label = புத்தகக்குறியிடு
 library-bookmarks-bookmark-edit =
