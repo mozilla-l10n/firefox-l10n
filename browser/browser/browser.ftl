@@ -514,6 +514,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Visa fler bokmärken
 bookmarks-sidebar-content =
     .aria-label = Bokmärken
+bookmarks-menu-button =
+    .label = Bokmärkesmeny
+bookmarks-other-bookmarks-menu =
+    .label = Andra bokmärken
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobila bokmärken
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Dölj sidofältet Bokmärken
+           *[other] Visa sidofältet Bokmärken
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Dölj bokmärkesfältet
+           *[other] Visa bokmärkesfältet
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ta bort bokmärkesmeny från verktygsfältet
+           *[other] Lägg till bokmärkesmeny till verktygsfältet
+        }
+bookmarks-search =
+    .label = Sök bokmärken
+bookmarks-tools =
+    .label = Verktyg för bokmärken
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bokmärkesfältet
+    .accesskey = B
+    .aria-label = Bokmärken
 bookmarks-toolbar-menu =
     .label = Bokmärkesfältet
 bookmarks-toolbar-placeholder =
@@ -523,6 +558,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Bokmärken
 library-bookmarks-bookmark-this-page =
     .label = Bokmärk denna sida
 library-bookmarks-bookmark-edit =
