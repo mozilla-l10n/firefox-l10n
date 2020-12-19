@@ -508,11 +508,15 @@ pointerlock-warning-no-domain = Dokument kontroluje teraz kursor. Naciśnij klaw
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-recent-bookmarks =
+    .value = Ostatnio dodane
 bookmarks-sidebar-content =
     .aria-label = Zakładki
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Edytuj zakładkę
 
 ## More items
 
