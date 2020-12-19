@@ -505,6 +505,8 @@ bookmarks-sidebar-content =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = 이 북마크 편집
 
 ## More items
 
