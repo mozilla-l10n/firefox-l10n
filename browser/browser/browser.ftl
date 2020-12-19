@@ -482,8 +482,26 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Tampilkan markah lainnya
 bookmarks-sidebar-content =
     .aria-label = Markah
+bookmarks-other-bookmarks-menu =
+    .label = Markah Lain
+bookmarks-mobile-bookmarks-menu =
+    .label = Markah Seluler
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Sembunyikan Bilah Samping Markah
+           *[other] Tampilkan Bilah Samping Markah
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Sembunyikan Bilah Alat Markah
+           *[other] Tampilkan Bilah Alat Markah
+        }
 bookmarks-search =
     .label = Cari Markah
+bookmarks-tools =
+    .label = Alat Pemarkahan
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
