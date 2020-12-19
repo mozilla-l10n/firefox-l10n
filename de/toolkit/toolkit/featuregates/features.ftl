@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (Seitenisolierung) ist eine 
 experimental-features-multi-pip =
     .label = Unterstützung für mehrfaches Bild-im-Bild (PiP)
 experimental-features-multi-pip-description = Experimentelle Unterstützung für das gleichzeitige Öffnen mehrerer Bild-im-Bild-Fenster (PiP).
+experimental-features-http3 =
+    .label = HTTP/3-Protokoll
+experimental-features-http3-description = Experimentelle Unterstützung für das HTTP/3-Protokoll.

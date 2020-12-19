@@ -51,6 +51,7 @@ printui-duplex-checkbox = Beidseitig bedrucken
 printui-options = Einstellungen
 printui-headers-footers-checkbox = Kopf- und Fußzeilen drucken
 printui-backgrounds-checkbox = Hintergrund drucken
+printui-selection-checkbox = Nur Auswahl drucken
 printui-color-mode-label = Farbmodus
 printui-color-mode-color = Farbe
 printui-color-mode-bw = Schwarz-weiß
