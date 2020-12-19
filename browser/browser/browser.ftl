@@ -368,6 +368,8 @@ bookmarks-tools-menu-button-visibility =
             [true] ដក​ម៉ឺនុយចំណាំចេញពីរបារឧបករណ៍
            *[other] បញ្ចូល​ម៉ឺនុយចំណាំទៅកាន់របារឧបករណ៍
         }
+bookmarks-search =
+    .label = ស្វែងរក​ចំណាំ
 bookmarks-tools =
     .label = ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-menu =
@@ -388,3 +390,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = ធ្វើ​ការដោយ​គ្មាន​អ៊ីនធឺណិត
+    .accesskey = k
