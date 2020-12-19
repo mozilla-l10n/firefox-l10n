@@ -423,8 +423,32 @@ bookmarks-toolbar-chevron =
     .tooltiptext = نشانک‌های بیشتری نمایش داده شود
 bookmarks-sidebar-content =
     .aria-label = نشانک‌ها
+bookmarks-other-bookmarks-menu =
+    .label = نشانک‌‌های دیگر
+bookmarks-mobile-bookmarks-menu =
+    .label = نشانک‌های همراه
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] مخفی کردن نوار کناری نشانک‌ها
+           *[other] نمایش نوار ابزار نشانک‌ها
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] مخفی کردن نوار ابزار نشانک‌ها
+           *[other] نمایش نوار ابزار نشانک‌ها
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] حذف منوی نشانک‌ها از نوار ابزار
+           *[other] افزودن منوی نشانک‌ها را به نوار ابزار
+        }
 bookmarks-search =
     .label = جست‌وجوی نشانک‌ها
+bookmarks-tools =
+    .label = ابزار نشانک‌گذاری
 bookmarks-toolbar-menu =
     .label = نوار ابزار نشانک‌ها
 bookmarks-toolbar-placeholder =
