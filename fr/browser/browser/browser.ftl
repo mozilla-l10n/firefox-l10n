@@ -514,6 +514,26 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Afficher plus de marque-pages
 bookmarks-sidebar-content =
     .aria-label = Marque-pages
+bookmarks-menu-button =
+    .label = Menu des marque-pages
+bookmarks-other-bookmarks-menu =
+    .label = Autres marque-pages
+bookmarks-mobile-bookmarks-menu =
+    .label = Marque-pages des appareils mobiles
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Masquer le panneau des marque-pages
+           *[other] Afficher le panneau des marque-pages
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Masquer la barre personnelle
+           *[other] Afficher la barre personnelle
+        }
+bookmarks-search =
+    .label = Rechercher dans les marque-pages
 bookmarks-toolbar-menu =
     .label = Barre personnelle
 bookmarks-toolbar-placeholder =
@@ -523,6 +543,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Marque-pages
 library-bookmarks-bookmark-this-page =
     .label = Marquer cette page
 library-bookmarks-bookmark-edit =
