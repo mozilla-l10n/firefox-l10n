@@ -359,6 +359,8 @@ pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýtt
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Sýna fleiri bókamerki
 bookmarks-toolbar-menu =
     .label = Bókamerkjaslá
 bookmarks-toolbar-placeholder =
@@ -370,6 +372,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Setja síðu í bókamerki
+library-bookmarks-bookmark-edit =
+    .label = Breyta bókamerki
 
 ## More items
 
