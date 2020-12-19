@@ -506,10 +506,40 @@ pointerlock-warning-no-domain = Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc a
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Sken akk ticraḍ n yisebtar
 bookmarks-recent-bookmarks =
     .value = Wid ittwacerḍen melmi kan
+bookmarks-toolbar-chevron =
+    .tooltiptext = Sken ugar n tecraḍ n yisebtar
+bookmarks-sidebar-content =
+    .aria-label = Ticraḍ n yisebtar
+bookmarks-menu-button =
+    .label = Umuɣ n tecraḍ n yisebtar
 bookmarks-other-bookmarks-menu =
     .label = Ticraḍ-nniḍen
+bookmarks-mobile-bookmarks-menu =
+    .label = Ticraḍ n yisebtar n uziraz
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ffer ticraḍ n yisebtar
+           *[other] Sken agalis n tecraḍ n yisebtar
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ffer afeggag n tecraḍ
+           *[other] Sken afeggag n tecraḍ
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Kkes umuγ n tecraḍ n yisebtar seg ufeggag
+           *[other] Rnu umuγ n tecraḍ n yisebtar ɣer ufeggag
+        }
+bookmarks-search =
+    .label = Nadi ticraḍ n yisebtar
 bookmarks-tools =
     .label = Ifecka n tecraḍ
 bookmarks-toolbar-menu =
@@ -521,6 +551,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Ticraḍ n yisebtar
 library-bookmarks-bookmark-this-page =
     .label = Creḍ asebter-a
 library-bookmarks-bookmark-edit =
@@ -528,3 +560,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Xdem war tuqqna
+    .accesskey = q
