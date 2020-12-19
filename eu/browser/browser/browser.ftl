@@ -514,8 +514,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Erakutsi laster-marka gehiago
 bookmarks-sidebar-content =
     .aria-label = Laster-markak
+bookmarks-menu-button =
+    .label = Laster-marken menua
+bookmarks-other-bookmarks-menu =
+    .label = Beste laster-markak
+bookmarks-mobile-bookmarks-menu =
+    .label = Mugikorreko laster-markak
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ezkutatu laster-marken alboko barra
+           *[other] Ikusi laster-marken tresna-barra
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ezkutatu laster-marken tresna-barra
+           *[other] Ikusi laster-marken tresna-barra
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Kendu laster-marken menua tresna-barratik
+           *[other] Gehitu laster-marken menua tresna-barran
+        }
 bookmarks-search =
     .label = Bilatu laster-markak
+bookmarks-tools =
+    .label = Laster-marken tresnak
 bookmarks-toolbar-menu =
     .label = Laster-marken tresna-barra
 bookmarks-toolbar-placeholder =
@@ -525,6 +551,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Laster-markak
 library-bookmarks-bookmark-this-page =
     .label = Egin orriaren laster-marka
 library-bookmarks-bookmark-edit =
