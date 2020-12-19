@@ -200,6 +200,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Tób kùe loo ndó~làz=ná
 library-bookmarks-bookmark-edit =
     .label = Tùs kùe Ndó~làz=ná
 
