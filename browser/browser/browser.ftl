@@ -522,8 +522,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Dangos pob ffolder nod tudalen
 bookmarks-sidebar-content =
     .aria-label = Nodau Tudalen
+bookmarks-menu-button =
+    .label = Dewislen Nodau Tudalen
+bookmarks-other-bookmarks-menu =
+    .label = Nodau Tudalen Eraill
+bookmarks-mobile-bookmarks-menu =
+    .label = Nodau Tudalen Symudol
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Cuddio'r Bar Ochr Nodau Tudalen
+           *[other] Gweld Bar Offer Nodau Tudalen
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Cuddio'r Bar Offer Nodau Tudalen
+           *[other] Gweld Bar Offer Nodau Tudalen
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Tynnu Dewislen Nodau Tudalen o'r Bar Offer
+           *[other] Ychwanegu Dewislen Nodau Tudalen i'r Bar Offer
+        }
 bookmarks-search =
     .label = Chwilio'r Nodau Tudalen
+bookmarks-tools =
+    .label = Offer Nodau Tudalen
 bookmarks-toolbar-menu =
     .label = Bar Offer Nodau Tudalen
 bookmarks-toolbar-placeholder =
@@ -533,6 +559,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Nodau Tudalen
 library-bookmarks-bookmark-this-page =
     .label = Gosod Nod Tudalen i'r Dudalen
 library-bookmarks-bookmark-edit =
