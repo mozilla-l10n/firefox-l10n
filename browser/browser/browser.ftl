@@ -466,10 +466,14 @@ pointerlock-warning-no-domain = Documentul controlează acum cursorul. Apasă Es
 
 bookmarks-show-all-bookmarks =
     .label = Afișează toate marcajele
+bookmarks-recent-bookmarks =
+    .value = Marcate recent
 bookmarks-toolbar-chevron =
     .tooltiptext = Afișează mai multe marcaje
 bookmarks-sidebar-content =
     .aria-label = Marcaje
+bookmarks-menu-button =
+    .label = Meniu de marcaje
 bookmarks-other-bookmarks-menu =
     .label = Alte marcaje
 bookmarks-mobile-bookmarks-menu =
@@ -480,10 +484,29 @@ bookmarks-tools-sidebar-visibility =
             [true] Ascunde bara laterală de marcaje
            *[other] Vezi bara laterală de marcaje
         }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ascunde bara de marcaje
+           *[other] Vezi bara de marcaje
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Elimină meniul de marcaje din bara de unelte
+           *[other] Adaugă meniul de marcaje în bara de unelte
+        }
 bookmarks-search =
     .label = Caută marcaje
 bookmarks-tools =
     .label = Instrumente pentru marcaje
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bară de marcaje
+    .accesskey = B
+    .aria-label = Marcaje
 bookmarks-toolbar-menu =
     .label = Bară de marcaje
 bookmarks-toolbar-placeholder =
@@ -495,6 +518,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Marcaje
+library-bookmarks-bookmark-this-page =
+    .label = Marchează pagina
 library-bookmarks-bookmark-edit =
     .label = Editează acest marcaj
 
