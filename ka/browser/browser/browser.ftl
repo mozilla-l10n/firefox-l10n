@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = ეს დოკუმენტი მართ�
 
 bookmarks-show-all-bookmarks =
     .label = ყველა სანიშნის ჩვენება
+bookmarks-recent-bookmarks =
+    .value = ბოლოს ჩანიშნული
 bookmarks-toolbar-chevron =
     .tooltiptext = სხვა სანიშნების გამოჩენაც
 bookmarks-sidebar-content =
@@ -540,6 +542,13 @@ bookmarks-search =
     .label = სანიშნების ძიება
 bookmarks-tools =
     .label = სანიშნების ხელსაწყოები
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = სანიშნების ხელსაწყოთა ზოლი
+    .accesskey = ს
+    .aria-label = სანიშნები
 bookmarks-toolbar-menu =
     .label = სანიშნების ხელსაწყოთა ზოლი
 bookmarks-toolbar-placeholder =
@@ -558,3 +567,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = კავშირგარეშე რეჟიმი
+    .accesskey = კ
