@@ -415,6 +415,8 @@ pointerlock-warning-no-domain = این سند کنترل مکان‌نما شم�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = نمایش همهٔ نشانک‌ها
 bookmarks-toolbar-chevron =
     .tooltiptext = نشانک‌های بیشتری نمایش داده شود
 bookmarks-sidebar-content =
