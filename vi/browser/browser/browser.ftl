@@ -510,3 +510,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Làm việc ngoại tuyến
+    .accesskey = k
