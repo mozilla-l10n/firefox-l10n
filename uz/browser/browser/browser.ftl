@@ -426,10 +426,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Ko‘proq xatcho‘plarni ko‘rsatish
 bookmarks-sidebar-content =
     .aria-label = Xatcho‘plar
+bookmarks-menu-button =
+    .label = Xatcho‘plar menyusi
 bookmarks-other-bookmarks-menu =
     .label = Boshqa xatcho‘plar
 bookmarks-mobile-bookmarks-menu =
     .label = Mobil xatcho‘plar
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Xatcho‘plar yon panelini berkitish
+           *[other] Xatcho‘plarni yon panelda ko‘rsatish
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Xatcho‘plar panelini berkitish
+           *[other] Xatcho‘plar panelini ko‘rsatish
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Xatcho‘plar menyusini paneldan olib tashlash
+           *[other] Xatcho‘plar menyusini panelga qo‘shish
+        }
+bookmarks-search =
+    .label = Xatcho‘plarni qidirish
+bookmarks-tools =
+    .label = Xatcho‘p vositalari
 bookmarks-toolbar-placeholder =
     .title = Xatcho‘plar paneli bandlari
 bookmarks-toolbar-placeholder-button =
@@ -437,6 +461,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Xatcho‘plar
 library-bookmarks-bookmark-this-page =
     .label = Sahifani xatcho‘plarga qo‘shish
 library-bookmarks-bookmark-edit =
