@@ -51,6 +51,7 @@ printui-duplex-checkbox = Εκτύπωση και στις δυο πλευρές
 printui-options = Επιλογές
 printui-headers-footers-checkbox = Εκτύπωση κεφαλίδων και υποσέλιδων
 printui-backgrounds-checkbox = Εκτύπωση παρασκηνίου
+printui-selection-checkbox = Εκτύπωση επιλογής μόνο
 printui-color-mode-label = Λειτουργία χρώματος
 printui-color-mode-color = Έγχρωμο
 printui-color-mode-bw = Ασπρόμαυρο
