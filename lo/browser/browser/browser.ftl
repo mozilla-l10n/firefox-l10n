@@ -278,8 +278,42 @@ pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບ
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = ສະແດງບຸກມາກທັງຫມົດ
+bookmarks-recent-bookmarks =
+    .value = ຫາກໍບຸກມາກມື້ກີ້ນີ້
+bookmarks-toolbar-chevron =
+    .tooltiptext = ສະແດງບຸກມາກເພີ່ມເຕີມ
 bookmarks-sidebar-content =
     .aria-label = ບຸກມາກ
+bookmarks-menu-button =
+    .label = ເມນູບຸກມາກ
+bookmarks-other-bookmarks-menu =
+    .label = ບຸກມາກອື່ນໆ
+bookmarks-mobile-bookmarks-menu =
+    .label = ບຸກມາກມືຖື
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ເຊື່ອງແຖບຂ້າງບຸກມາກ
+           *[other] ເບິງແຖບຂ້າງບຸກມາກ
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ເຊື່ອງແຖບເຄື່ອງມືບຸກມາກ
+           *[other] ເບິງແຖບເຄື່ອງມືບຸກມາກ
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ເອົາເມນູບຸກມາກອອກຈາກແຖບເຄື່ອງມື
+           *[other] ເພີ່ມເມນູບຸກມາກລົງໃນແຖບເຄື່ອງມື
+        }
+bookmarks-search =
+    .label = ຊອກຫາບຸກມາກ
+bookmarks-tools =
+    .label = ເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-menu =
     .label = ແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder =
@@ -289,6 +323,15 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = ບຸກມາກ
+library-bookmarks-bookmark-this-page =
+    .label = ບຸກມາກໜ້ານີ້
+library-bookmarks-bookmark-edit =
+    .label = ແກ້ໄຂບຸກມາກນີ້
 
 ## More items
 
+more-menu-go-offline =
+    .label = ເຮັດວຽກອອບໄລນ໌
+    .accesskey = k
