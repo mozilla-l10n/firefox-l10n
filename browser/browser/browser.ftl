@@ -307,6 +307,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = Uddu
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -381,3 +384,35 @@ fullscreen-exit-mac-button = Yaltu njaajeendi yaynirde (Ech)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = Tamde <span data-l10n-name="domain">{ $domain }</span> nana ɗowa doborde maa. Ñoƴƴu Ech ngam ɓamtude ɗowgol.
 pointerlock-warning-no-domain = Ndee fiilannde nana ɗowa doborde maa. Ñoƴƴu Ech ngam ɓamtude ɗowgol.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Hollu Maantore Fof
+bookmarks-recent-bookmarks =
+    .value = Maantoraaɗe ko Ɓooyaani
+bookmarks-toolbar-chevron =
+    .tooltiptext = Hollu maantore goɗɗe
+bookmarks-sidebar-content =
+    .aria-label = Maantore
+bookmarks-search =
+    .label = Yiylo Maantore
+bookmarks-toolbar-menu =
+    .label = Palal Maantore
+bookmarks-toolbar-placeholder =
+    .title = Maantorto Teme Palal Kuutorɗe
+bookmarks-toolbar-placeholder-button =
+    .label = Maantorto Teme Palal Kuutorɗe
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Maantoro Ngoo Hello
+library-bookmarks-bookmark-edit =
+    .label = Taƴto Ngol Maantorol
+
+## More items
+
+more-menu-go-offline =
+    .label = Golle e Ceŋtol
+    .accesskey = l
