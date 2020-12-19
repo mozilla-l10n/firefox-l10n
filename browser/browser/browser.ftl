@@ -356,6 +356,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zavřít
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -485,3 +488,20 @@ fullscreen-exit-mac-button = Ukončit režim celé obrazovky (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> má kontrolu nad vaším kurzorem. Pro odebrání kontroly stiskněte klávesu Esc.
 pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorem. Pro odebrání kontroly stiskněte klávesu Esc.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Lišta záložek
+bookmarks-toolbar-placeholder =
+    .title = Záložky nástrojové lišty
+bookmarks-toolbar-placeholder-button =
+    .label = Záložky nástrojové lišty
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Přidat stránku do záložek
+
+## More items
+
