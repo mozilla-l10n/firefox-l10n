@@ -540,6 +540,8 @@ bookmarks-tools-menu-button-visibility =
             [true] Удалить меню закладок с панели
            *[other] Добавить меню закладок в панель
         }
+bookmarks-search =
+    .label = Поиск закладок
 bookmarks-tools =
     .label = Инструменты закладок
 bookmarks-toolbar-menu =
