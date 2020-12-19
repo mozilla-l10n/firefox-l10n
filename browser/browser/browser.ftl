@@ -495,3 +495,14 @@ fullscreen-exit-mac-button = Thoát toàn màn hình (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> có quyền điều khiển con trỏ của bạn. Ấn Esc để lấy lại quyền điều khiển.
 pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ của bạn. Ấn Esc để lấy lại quyền điều khiển.
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Đánh dấu trang này
+
+## More items
+
