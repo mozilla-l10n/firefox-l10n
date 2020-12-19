@@ -482,14 +482,55 @@ pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong poin
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Ipakita Lahat ng mga Bookmark
+bookmarks-recent-bookmarks =
+    .value = Mga Na-bookmark Kamakailan
 bookmarks-toolbar-chevron =
     .tooltiptext = Magpakita ng karagdagang mga bookmark
 bookmarks-sidebar-content =
     .aria-label = Mga bookmark
+bookmarks-menu-button =
+    .label = Menu ng mga Bookmark
+bookmarks-other-bookmarks-menu =
+    .label = Iba pang mga Bookmark
 bookmarks-mobile-bookmarks-menu =
     .label = Mga Mobile Bookmark
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Itago ang Bookmark Sidebar
+           *[other] Ipakita ang Bookmark Sidebar
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Itago ang Bookmark Toolbar
+           *[other] Ipakita ang Bookmark Sidebar
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Alisin ang Bookmark Menu mula sa Toolbar
+           *[other] Idagdag ang Bookmark Menu sa Toolbar
+        }
 bookmarks-search =
     .label = Hanapin sa mga Bookmark
+bookmarks-tools =
+    .label = Mga Gamit sa Pag-bookmark
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bookmark Toolbar
+    .accesskey = B
+    .aria-label = Mga bookmark
+bookmarks-toolbar-menu =
+    .label = Bookmark Toolbar
+bookmarks-toolbar-placeholder =
+    .title = Mga nakalagay sa Bookmark Toolbar
+bookmarks-toolbar-placeholder-button =
+    .label = Mga nakalagay sa Bookmark Toolbar
 
 ## Library Panel items
 
