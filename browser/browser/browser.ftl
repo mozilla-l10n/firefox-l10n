@@ -516,11 +516,59 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Wyświetl więcej zakładek
 bookmarks-sidebar-content =
     .aria-label = Zakładki
+bookmarks-menu-button =
+    .label = Menu zakładki
+bookmarks-other-bookmarks-menu =
+    .label = Pozostałe zakładki
+bookmarks-mobile-bookmarks-menu =
+    .label = Zakładki z telefonu
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ukryj panel zakładek
+           *[other] Wyświetl panel zakładek
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ukryj pasek zakładek
+           *[other] Wyświetl pasek zakładek
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Usuń menu Zakładki z paska narzędzi
+           *[other] Dodaj menu Zakładki do paska narzędzi
+        }
+bookmarks-search =
+    .label = Szukaj w zakładkach
+bookmarks-tools =
+    .label = Narzędzia zakładek
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Pasek zakładek
+    .accesskey = z
+    .aria-label = Zakładki
+bookmarks-toolbar-menu =
+    .label = Pasek zakładek
+bookmarks-toolbar-placeholder =
+    .title = Elementy paska zakładek
+bookmarks-toolbar-placeholder-button =
+    .label = Elementy paska zakładek
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Zakładki
+library-bookmarks-bookmark-this-page =
+    .label = Dodaj zakładkę
 library-bookmarks-bookmark-edit =
     .label = Edytuj zakładkę
 
 ## More items
 
+more-menu-go-offline =
+    .label = Pracuj w trybie offline
+    .accesskey = c
