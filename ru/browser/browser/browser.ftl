@@ -514,12 +514,26 @@ bookmarks-recent-bookmarks =
     .value = Недавно добавленные закладки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показать больше закладок
+bookmarks-sidebar-content =
+    .aria-label = Закладки
 bookmarks-menu-button =
     .label = Меню закладок
 bookmarks-other-bookmarks-menu =
     .label = Другие закладки
 bookmarks-mobile-bookmarks-menu =
     .label = Мобильные закладки
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Скрыть боковую панель закладок
+           *[other] Показать боковую панель закладок
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Скрыть панель закладок
+           *[other] Показать панель закладок
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
