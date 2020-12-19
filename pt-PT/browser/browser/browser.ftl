@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Este documento tem controlo do seu apontador. Pr
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Mostrar todos os marcadores
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar mais marcadores
 
