@@ -434,3 +434,14 @@ fullscreen-exit-mac-button = నిండు తెరను వదలివె�
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = మీ పాయింటర్ <span data-l10n-name="domain">{ $domain }</span> నియంత్రణలో ఉంది. తిరిగి మీ ఆధీనం లోనికి తెచ్చుకోడానికి Esc నొక్కండి.
 pointerlock-warning-no-domain = మీ పాయింటర్ ఈ పత్రపు నియంత్రణలో ఉంది. తిరిగి మీ ఆధీనం లోనికి తెచ్చుకోడానికి Esc నొక్కండి.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = ఇష్టాంశాలు
+
+## Library Panel items
+
+
+## More items
+
