@@ -506,6 +506,10 @@ pointerlock-warning-no-domain = Detta dokument har kontroll över pekaren. Tryck
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Visa alla bokmärken
+bookmarks-toolbar-chevron =
+    .tooltiptext = Visa fler bokmärken
 bookmarks-sidebar-content =
     .aria-label = Bokmärken
 bookmarks-toolbar-menu =
@@ -517,6 +521,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Redigera bokmärket
 
 ## More items
 
