@@ -518,8 +518,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Dalšne cytańske znamjenja pokazaś
 bookmarks-sidebar-content =
     .aria-label = Cytańske znamjenja
+bookmarks-menu-button =
+    .label = Meni cytańskich znamjenjow
+bookmarks-other-bookmarks-menu =
+    .label = Druge cytańske znamjenja
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobilne cytańske znamjenja
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Bocnicu cytańskich znamjenjow schowaś
+           *[other] Bocnicu cytańskich znamjenjow pokazaś
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Rědku cytańskich znamjenjow schowaś
+           *[other] Rědku cytańskich znamjenjow pokazaś
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Meni cytańskich znamjenjow ze symboloweje rědki wótwónoźeś
+           *[other] Symbolowej rědce meni cytańskich znamjenjow pśidaś
+        }
 bookmarks-search =
     .label = Cytańske znamjenja pytaś
+bookmarks-tools =
+    .label = Rědy za cytańske znamjenja
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Rědka cytańskich znamjenjow
+    .accesskey = c
+    .aria-label = Cytańske znamjenja
 bookmarks-toolbar-menu =
     .label = Rědka cytańskich znamjenjow
 bookmarks-toolbar-placeholder =
@@ -529,6 +562,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Cytańske znamjenja
 library-bookmarks-bookmark-this-page =
     .label = Toś ten bok ako cytańske znamje składowaś
 library-bookmarks-bookmark-edit =
@@ -536,3 +571,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Offline źěłaś
+    .accesskey = O
