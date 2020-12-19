@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepeikaren.
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Vis alle bokmerke
 bookmarks-recent-bookmarks =
     .value = Nyleg bokmerkt
 bookmarks-toolbar-chevron =
@@ -540,6 +542,13 @@ bookmarks-search =
     .label = Søk i bokmerke
 bookmarks-tools =
     .label = Verktøy for bokmerke
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bokmerke
+    .accesskey = B
+    .aria-label = Bokmerke
 bookmarks-toolbar-menu =
     .label = Bokmerke
 bookmarks-toolbar-placeholder =
