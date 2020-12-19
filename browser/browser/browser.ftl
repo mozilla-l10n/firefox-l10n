@@ -173,6 +173,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக
 
 ## More items
 
