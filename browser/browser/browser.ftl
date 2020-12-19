@@ -542,6 +542,13 @@ bookmarks-search =
     .label = Pesquisar marcadores
 bookmarks-tools =
     .label = Ferramentas de marcadores
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barra de ferramentas de marcadores
+    .accesskey = B
+    .aria-label = Marcadores
 bookmarks-toolbar-menu =
     .label = Barra de ferramentas de marcadores
 bookmarks-toolbar-placeholder =
