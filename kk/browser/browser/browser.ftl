@@ -474,3 +474,27 @@ fullscreen-exit-mac-button = Толық экраннан шығу (Esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.
 pointerlock-warning-no-domain = Бұл құжат курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Барлық бетбелгілерді көрсету
+bookmarks-toolbar-chevron =
+    .tooltiptext = Көбірек бетбелгілерді көрсету
+bookmarks-sidebar-content =
+    .aria-label = Бетбелгілер
+bookmarks-toolbar-menu =
+    .label = Бетбелгілер панелі
+bookmarks-toolbar-placeholder =
+    .title = Бетбелгілер панелінің элементтері
+bookmarks-toolbar-placeholder-button =
+    .label = Бетбелгілер панелінің элементтері
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Дербес жұмыс істеу
+    .accesskey = Д
