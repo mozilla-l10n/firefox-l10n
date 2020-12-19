@@ -297,3 +297,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Werk vanlyn
+    .accesskey = k
