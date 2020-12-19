@@ -519,6 +519,12 @@ bookmarks-other-bookmarks-menu =
     .label = Faqerojtës të Tjerë
 bookmarks-mobile-bookmarks-menu =
     .label = Faqerojtës Celulari
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Fshihe Anështyllën e Faqerojtësve
+           *[other] Shihni Anështyllë Faqerojtësish
+        }
 bookmarks-tools-toolbar-visibility =
     .label =
         { $isVisible ->
