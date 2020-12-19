@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. D
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Alle blêdwizers toane
 bookmarks-recent-bookmarks =
     .value = Resint oanmakke blêdwizers
 bookmarks-toolbar-chevron =
@@ -521,6 +523,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Blêdwizer foar dizze side meitsje
 library-bookmarks-bookmark-edit =
     .label = Dizze blêdwizer bewurkje
 
