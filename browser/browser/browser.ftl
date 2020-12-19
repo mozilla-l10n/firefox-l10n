@@ -503,3 +503,40 @@ fullscreen-exit-mac-button = Eliri el plenekrana reĝimo (esk)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> regas vian musmontrilon. Premu Esk por repreni la regadon.
 pointerlock-warning-no-domain = Tiu ĉi dokumento regas vian musmontrilon. Premu Esk por repreni la regadon.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Montri ĉiujn legosignojn
+bookmarks-recent-bookmarks =
+    .value = Ĵusaj legosignoj
+bookmarks-toolbar-chevron =
+    .tooltiptext = Montri pliajn legosignojn
+bookmarks-sidebar-content =
+    .aria-label = Legosignoj
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Ilaro de legosignoj
+    .accesskey = e
+    .aria-label = Legosignoj
+bookmarks-toolbar-menu =
+    .label = Ilaro de legosignoj
+bookmarks-toolbar-placeholder =
+    .title = Elementoj de ilaro de legosignoj
+bookmarks-toolbar-placeholder-button =
+    .label = Elementoj de ilaro de legosignoj
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Aldoni legosignon por tiu ĉi paĝo
+library-bookmarks-bookmark-edit =
+    .label = Redakti tiun ĉi legosignon
+
+## More items
+
+more-menu-go-offline =
+    .label = Labori malkonektite
+    .accesskey = L
