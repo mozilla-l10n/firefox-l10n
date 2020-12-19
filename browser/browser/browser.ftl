@@ -170,6 +170,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Tswala
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -221,3 +224,31 @@ fullscreen-warning-no-domain = Tokumente e, e mo sekerini se se tletseng
 fullscreen-exit-button = Tswaya mo sekerini se se tletseng (Tswaya)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tswaya mo sekerini se se tletseng (tswaya)
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Supa Matshwaotsebe Otlhe
+bookmarks-toolbar-chevron =
+    .tooltiptext = Supa matshwaotsebe a le mantsi
+bookmarks-sidebar-content =
+    .aria-label = Matshwaotsebe
+bookmarks-toolbar-menu =
+    .label = Bara ya Didirisiwa Matshwaotsebe
+bookmarks-toolbar-placeholder =
+    .title = Bara ya Didirisiwa Matshwaotsebe le Dilwana
+bookmarks-toolbar-placeholder-button =
+    .label = Bara ya Didirisiwa Matshwaotsebe le Dilwana
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Tshwaya Tsebe e
+library-bookmarks-bookmark-edit =
+    .label = Tseleganya letshwaotsebe le
+
+## More items
+
+more-menu-go-offline =
+    .label = Dira o sa golagana
+    .accesskey = D
