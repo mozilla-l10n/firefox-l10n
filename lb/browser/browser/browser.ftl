@@ -168,6 +168,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Zoumaachen
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 
@@ -214,3 +217,40 @@ fullscreen-exit-mac-button = Vollbild zoumaachen (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolléiert de Maus. Esc drécken fir d'Kontroll z'iwwerhuelen.
 pointerlock-warning-no-domain = Dëst Dokument huet d'Kontroll iwwert d'Maus. Dréck Esc fir d'Kontroll z'iwwerhuelen.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = All Lieszeeche weisen
+bookmarks-recent-bookmarks =
+    .value = Rezent Lieszeechen
+bookmarks-toolbar-chevron =
+    .tooltiptext = Méi Lieszeeche weisen
+bookmarks-sidebar-content =
+    .aria-label = Lieszeechen
+bookmarks-menu-button =
+    .label = Lieszeeche Menü
+bookmarks-other-bookmarks-menu =
+    .label = Aner Lieszeechen
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobil Lieszeechen
+bookmarks-search =
+    .label = An de Lieszeeche sichen
+bookmarks-toolbar-menu =
+    .label = Lieszeechensymbolleescht
+bookmarks-toolbar-placeholder =
+    .title = Lieszeechensymbolleeschtelementer
+bookmarks-toolbar-placeholder-button =
+    .label = Lieszeechensymbolleeschtelementer
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Lieszeechen
+library-bookmarks-bookmark-this-page =
+    .label = E Lieszeechen fir des Säit dobäisetzen
+library-bookmarks-bookmark-edit =
+    .label = Dëst Lieszeechen änneren
+
+## More items
+
