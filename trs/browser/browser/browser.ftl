@@ -415,6 +415,13 @@ bookmarks-search =
     .label = Nana'ui' sa raj sun nichrò' doj
 bookmarks-tools =
     .label = Si rasun markadores
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Riñan man sa gara sun'
+    .accesskey = B
+    .aria-label = Sa raj sun nichrò' doj
 bookmarks-toolbar-menu =
     .label = Riñan man sa gara sun'
 bookmarks-toolbar-placeholder =
