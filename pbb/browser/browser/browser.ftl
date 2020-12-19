@@ -174,6 +174,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Apnah
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -226,3 +229,31 @@ fullscreen-warning-no-domain = Naa eç pejxinxi' ãçxa'h jxukate ũsa'
 fullscreen-exit-button = Kasehn txãa jxuka thegnxisate (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kasehn txãa jxuka thegnxisate (Esc)
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Kthẽgun jxuka ki'pnxisatx
+bookmarks-toolbar-chevron =
+    .tooltiptext = Txi'pupnxitxi wejx thegna
+bookmarks-sidebar-content =
+    .aria-label = Ki'phwa'ja's
+bookmarks-toolbar-menu =
+    .label = Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa
+bookmarks-toolbar-placeholder =
+    .title = Mjiçx kaja'nxisa txi'pupnxita'
+bookmarks-toolbar-placeholder-button =
+    .label = Mjiçx kaja'nxisa txi'pupnxita'
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Kãjãhn na's txhuden ki'phwa'ja's.
+library-bookmarks-bookmark-edit =
+    .label = Ki'phni kase'k
+
+## More items
+
+more-menu-go-offline =
+    .label = Mjinxi' çxkitxanxime' & ũ'sa
+    .accesskey = k
