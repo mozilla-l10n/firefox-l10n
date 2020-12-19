@@ -522,6 +522,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = ਹੋਰ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
 bookmarks-sidebar-content =
     .aria-label = ਬੁੱਕਮਾਰਕ
+bookmarks-menu-button =
+    .label = ਬੁੱਕਮਾਰਕ ਮੇਨੂ
+bookmarks-other-bookmarks-menu =
+    .label = ਹੋਰ ਬੁੱਕਮਾਰਕ
+bookmarks-mobile-bookmarks-menu =
+    .label = ਮੋਬਾਈਲ ਬੁੱਕਮਾਰਕ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਓਹਲੇ ਕਰੋ
+           *[other] ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਵੇਖੋ
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਓਹਲੇ ਕਰੋ
+           *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਆਪਣੇ ਟੂਲਬਾਰ 'ਚੋਂ ਹਟਾਓ
+           *[other] ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਆਪਣੇ ਟੂਲਬਾਰ 'ਚ ਜੋੜੋ
+        }
+bookmarks-search =
+    .label = ਬੁੱਕਮਾਰਕ ਲੱਭੋ
+bookmarks-tools =
+    .label = ਬੁੱਕਮਾਰਕ ਬਣਾਉਣ ਵਾਲਾ ਟੂਲ
 bookmarks-toolbar-menu =
     .label = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ
 bookmarks-toolbar-placeholder =
@@ -531,6 +559,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = ਬੁੱਕਮਾਰਕ
 library-bookmarks-bookmark-this-page =
     .label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 library-bookmarks-bookmark-edit =
