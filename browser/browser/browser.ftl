@@ -508,9 +508,53 @@ pointerlock-warning-no-domain = ეს დოკუმენტი მართ�
 
 bookmarks-show-all-bookmarks =
     .label = ყველა სანიშნის ჩვენება
+bookmarks-toolbar-chevron =
+    .tooltiptext = სხვა სანიშნების გამოჩენაც
+bookmarks-sidebar-content =
+    .aria-label = სანიშნები
+bookmarks-menu-button =
+    .label = სანიშნების მენიუ
+bookmarks-other-bookmarks-menu =
+    .label = სხვა სანიშნები
+bookmarks-mobile-bookmarks-menu =
+    .label = მობილურის სანიშნები
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] სანიშნების გვერდითი ზოლის დამალვა
+           *[other] სანიშნების გვერდითი ზოლის ჩვენება
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] სანიშნების ხელსაწყოთა ზოლის დამალვა
+           *[other] სანიშნების ხელსაწყოთა ზოლის ჩვენება
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] სანიშნების მენიუს მოცილება ხელსაწყოთა ზოლიდან
+           *[other] სანიშნების მენიუს დამატება ხელსაწყოთა ზოლზე
+        }
+bookmarks-search =
+    .label = სანიშნების ძიება
+bookmarks-tools =
+    .label = სანიშნების ხელსაწყოები
+bookmarks-toolbar-menu =
+    .label = სანიშნების ხელსაწყოთა ზოლი
+bookmarks-toolbar-placeholder =
+    .title = სანიშნების ზოლის ხელსაწყოები
+bookmarks-toolbar-placeholder-button =
+    .label = სანიშნების ზოლის ხელსაწყოები
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = სანიშნები
+library-bookmarks-bookmark-this-page =
+    .label = გვერდის ჩანიშვნა
+library-bookmarks-bookmark-edit =
+    .label = სანიშნის ჩასწორება
 
 ## More items
 
