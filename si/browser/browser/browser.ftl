@@ -323,6 +323,8 @@ bookmarks-show-all-bookmarks =
     .label = සියළු පිටුසලකුණු පෙන්වන්න…
 bookmarks-toolbar-chevron =
     .tooltiptext = තවත් පිටුසලකුණු පෙන්වන්න
+bookmarks-sidebar-content =
+    .aria-label = පිටු සලකුණු
 bookmarks-toolbar-menu =
     .label = පිටු සලකුණු මෙවලම් තීරුව
 bookmarks-toolbar-placeholder =
@@ -332,6 +334,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = මෙම පිටුව සලකුණු කරගන්න
+library-bookmarks-bookmark-edit =
+    .label = මෙම පිටු සලකුණ සකසන්න
 
 ## More items
 
