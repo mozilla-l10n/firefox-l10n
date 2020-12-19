@@ -216,3 +216,6 @@ library-bookmarks-menu =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Aq'on kuxhtu' tul ye'l Internet ati
+    .accesskey = n
