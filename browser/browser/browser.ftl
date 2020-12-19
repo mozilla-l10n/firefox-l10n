@@ -273,6 +273,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बंद करा
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -344,3 +347,15 @@ fullscreen-exit-mac-button = पूर्ण स्क्रीनमधून �
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> कडे आपल्या पॉईंटरचे नियंत्रण आहे. नियंत्रण परत घेण्यासाठी Esc दाबा.
 pointerlock-warning-no-domain = ह्या दस्तऐवजाकडे आपल्या पॉईंटरचे नियंत्रण आहे. नियंत्रण परत घेण्यासाठी Esc दाबा.
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = ऑफलाईन काम करा
+    .accesskey = k
