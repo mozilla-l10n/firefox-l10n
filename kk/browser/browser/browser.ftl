@@ -479,10 +479,14 @@ pointerlock-warning-no-domain = Бұл құжат курсорыңызды ба�
 
 bookmarks-show-all-bookmarks =
     .label = Барлық бетбелгілерді көрсету
+bookmarks-recent-bookmarks =
+    .value = Соңынан қосылғандар
 bookmarks-toolbar-chevron =
     .tooltiptext = Көбірек бетбелгілерді көрсету
 bookmarks-sidebar-content =
     .aria-label = Бетбелгілер
+bookmarks-search =
+    .label = Бетбелгілер ішінен іздеу
 bookmarks-toolbar-menu =
     .label = Бетбелгілер панелі
 bookmarks-toolbar-placeholder =
@@ -492,6 +496,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Бұл бетті бетбелгілерге қосу
+library-bookmarks-bookmark-edit =
+    .label = Бетбелгіні түзету
 
 ## More items
 
