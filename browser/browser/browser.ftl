@@ -321,6 +321,25 @@ pointerlock-warning-no-domain = Tá an cháipéis seo i gceannas ar do chúrsói
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Taispeáin Gach Leabharmharc
+bookmarks-toolbar-chevron =
+    .tooltiptext = Tuilleadh leabharmharcanna
+bookmarks-menu-button =
+    .label = Roghchlár na Leabharmharcanna
+bookmarks-other-bookmarks-menu =
+    .label = Leabharmharcanna Eile
+bookmarks-mobile-bookmarks-menu =
+    .label = Leabharmharcanna Soghluaiste
+bookmarks-tools =
+    .label = Uirlisí Leabharmharcála
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barra Leabharmharc
+    .accesskey = B
+    .aria-label = Leabharmharcanna
 bookmarks-toolbar-menu =
     .label = Barra Leabharmharc
 bookmarks-toolbar-placeholder =
@@ -330,8 +349,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Leabharmharcanna
 library-bookmarks-bookmark-this-page =
     .label = Cruthaigh Leabharmharc don Leathanach Seo
+library-bookmarks-bookmark-edit =
+    .label = Cuir an Leabharmharc Seo in Eagar
 
 ## More items
 
