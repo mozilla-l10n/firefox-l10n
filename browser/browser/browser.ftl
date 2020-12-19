@@ -505,3 +505,26 @@ fullscreen-exit-mac-button = Изађи из приказа преко цело�
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> управља са вашим показивачем. Притисните Esc да преузмете контролу.
 pointerlock-warning-no-domain = Овај документ управља са вашим показивачем. Притисните Esc да преузмете контролу.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Прикажи све забелешке
+bookmarks-toolbar-chevron =
+    .tooltiptext = Прикажи још забелешки
+bookmarks-sidebar-content =
+    .aria-label = Забелешке
+bookmarks-toolbar-menu =
+    .label = Трака са забелешкама
+bookmarks-toolbar-placeholder =
+    .title = Забележи ставке из алатне траке
+bookmarks-toolbar-placeholder-button =
+    .label = Забележи ставке из алатне траке
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Забележи ову страницу
+
+## More items
+
