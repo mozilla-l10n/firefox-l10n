@@ -380,6 +380,8 @@ pointerlock-warning-no-domain = Bu sənəd kursorunuzu idarə edir. İdarəni ge
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Daha çox əlfəcin göstər
 bookmarks-sidebar-content =
     .aria-label = Əlfəcinlər
 bookmarks-toolbar-placeholder =
