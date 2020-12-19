@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Ce document contrôle votre pointeur. Appuyez su
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Afficher plus de marque-pages
 bookmarks-toolbar-menu =
     .label = Barre personnelle
 bookmarks-toolbar-placeholder =
