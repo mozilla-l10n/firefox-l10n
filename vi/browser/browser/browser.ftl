@@ -498,11 +498,60 @@ pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Xem tất cả dấu trang
+bookmarks-recent-bookmarks =
+    .value = Dấu trang gần đây
+bookmarks-toolbar-chevron =
+    .tooltiptext = Hiện thêm các dấu trang
+bookmarks-sidebar-content =
+    .aria-label = Dấu trang
+bookmarks-menu-button =
+    .label = Trình đơn dấu trang
+bookmarks-other-bookmarks-menu =
+    .label = Dấu trang khác
+bookmarks-mobile-bookmarks-menu =
+    .label = Dấu trang trên di động
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ẩn thanh lề dấu trang
+           *[other] Hiển thị thanh lề dấu trang
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ẩn thanh công cụ dấu trang
+           *[other] Hiển thị thanh công cụ dấu trang
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Xóa bảng chọn dấu trang từ thanh công cụ
+           *[other] Thêm bảng chọn dấu trang vào thanh công cụ
+        }
+bookmarks-search =
+    .label = Tìm kiếm dấu trang
 bookmarks-tools =
     .label = Công cụ đánh dấu trang
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Thanh dấu trang
+    .accesskey = B
+    .aria-label = Dấu trang
+bookmarks-toolbar-menu =
+    .label = Thanh dấu trang
+bookmarks-toolbar-placeholder =
+    .title = Các mục của thanh dấu trang
+bookmarks-toolbar-placeholder-button =
+    .label = Các mục của thanh dấu trang
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Dấu trang
 library-bookmarks-bookmark-this-page =
     .label = Đánh dấu trang này
 library-bookmarks-bookmark-edit =
