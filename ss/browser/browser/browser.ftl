@@ -25,10 +25,14 @@ browser-main-window-title = { -brand-full-name }
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 
 ## Page Action Context Menu
+
+
+## Page Action menu
 
 
 ## Auto-hide Context Menu
@@ -44,6 +48,7 @@ browser-main-window-title = { -brand-full-name }
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 
@@ -55,6 +60,9 @@ browser-main-window-title = { -brand-full-name }
 browser-window-minimize-button =
     .tooltiptext = Nciphisa
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 
@@ -65,4 +73,31 @@ browser-window-minimize-button =
 
 
 ## URL Bar
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = LiIthulusi-bha Letibekiso
+bookmarks-toolbar-placeholder =
+    .title = Emaphuzu Etibekiso Telithulu-bha
+bookmarks-toolbar-placeholder-button =
+    .label = Emaphuzu Etibekiso Telithulu-bha
+
+## Library Panel items
+
+
+## More items
 
