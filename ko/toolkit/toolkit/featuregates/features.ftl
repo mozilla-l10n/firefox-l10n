@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (사이트 격리)은 { -bra
 experimental-features-multi-pip =
     .label = 다중 화면 속 화면 지원
 experimental-features-multi-pip-description = 여러 화면 속 화면 창을 동시에 열 수 있는 기능을 실험적으로 지원합니다.
+experimental-features-http3 =
+    .label = HTTP/3 프로토콜
+experimental-features-http3-description = HTTP/3 프로토콜을 실험적으로 지원합니다.
