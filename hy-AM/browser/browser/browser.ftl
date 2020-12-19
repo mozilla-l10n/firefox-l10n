@@ -417,6 +417,14 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Ցուցադրել բոլոր էջանիշերը
+bookmarks-toolbar-menu =
+    .label = Էջանիշերի Վահանակ
+bookmarks-toolbar-placeholder =
+    .title = Էջանիշերի Վահանակի տարրերը
+bookmarks-toolbar-placeholder-button =
+    .label = Էջանիշերի Վահանակի տարրերը
 
 ## Library Panel items
 
