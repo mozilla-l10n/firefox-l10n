@@ -491,6 +491,8 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorem
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Zobrazí více záložek
 bookmarks-toolbar-menu =
     .label = Lišta záložek
 bookmarks-toolbar-placeholder =
