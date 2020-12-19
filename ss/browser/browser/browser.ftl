@@ -89,6 +89,8 @@ browser-window-minimize-button =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-sidebar-content =
+    .aria-label = Tibekiso
 bookmarks-toolbar-menu =
     .label = LiIthulusi-bha Letibekiso
 bookmarks-toolbar-placeholder =
