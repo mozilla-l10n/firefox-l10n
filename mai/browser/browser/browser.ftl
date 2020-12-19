@@ -180,6 +180,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बन्न करू
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -236,3 +239,18 @@ fullscreen-exit-mac-button = पूर्ण पटल स बाहर आउ (
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> अपन सूचक पर नियंत्रण अछि. नियंत्रण फिनु सँ वापस आनै कलेल Esc बटन दाबू.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = पुस्तकचिह्नित अओजारपट्टी
+bookmarks-toolbar-placeholder =
+    .title = अओजारपट्टी मद पुस्तकचिह्नित करैता अछि
+bookmarks-toolbar-placeholder-button =
+    .label = अओजारपट्टी मद पुस्तकचिह्नित करैता अछि
+
+## Library Panel items
+
+
+## More items
+
