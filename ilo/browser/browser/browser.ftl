@@ -131,6 +131,8 @@ urlbar-go-button =
 
 bookmarks-show-all-bookmarks =
     .label = Show All Bookmarks
+bookmarks-recent-bookmarks =
+    .value = Nabiit a Napannanda
 bookmarks-toolbar-chevron =
     .tooltiptext = Show more bookmarks
 bookmarks-sidebar-content =
