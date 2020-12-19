@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc a
 
 bookmarks-recent-bookmarks =
     .value = Wid ittwacerḍen melmi kan
+bookmarks-tools =
+    .label = Ifecka n tecraḍ
 
 ## Library Panel items
 
