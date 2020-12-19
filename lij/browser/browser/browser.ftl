@@ -392,6 +392,10 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Fanni vedde ciù segnalibbri
 bookmarks-sidebar-content =
     .aria-label = Segnalibbri
+bookmarks-menu-button =
+    .label = Menû di segnalibbri
+bookmarks-other-bookmarks-menu =
+    .label = Atri segnalibbri
 bookmarks-mobile-bookmarks-menu =
     .label = Segnalibbri mòbili
 bookmarks-tools-sidebar-visibility =
@@ -400,8 +404,28 @@ bookmarks-tools-sidebar-visibility =
             [true] Ascondi bara di segnalibbri
            *[other] Veddi a bara de scianco segnalibbri
         }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ascondi bara di segnalibbri
+           *[other] Fanni vedde a bara di segnalibbri
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Scancella menû di segnalibbri a-a bara di atressi
+           *[other] Azonzi o menû di segnalibbri a-a bara di atressi
+        }
 bookmarks-search =
     .label = Çerca segnalibbri
+bookmarks-tools =
+    .label = Atressi di segnalibbri
+bookmarks-toolbar-menu =
+    .label = Bara di segnalibbri
+bookmarks-toolbar-placeholder =
+    .title = Ògetti da bara di segnalibbri
+bookmarks-toolbar-placeholder-button =
+    .label = Ògetti da bara di segnalibbri
 
 ## Library Panel items
 
@@ -414,3 +438,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Lòua feua linia
+    .accesskey = L
