@@ -514,8 +514,22 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Techaukaha jehechaukave
 bookmarks-sidebar-content =
     .aria-label = Techaukaha
+bookmarks-menu-button =
+    .label = Techaukaha Rysýi
+bookmarks-other-bookmarks-menu =
+    .label = Ambue Techaukahakuéra
+bookmarks-mobile-bookmarks-menu =
+    .label = Pumbyry Rechaukaha
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Eñomi Techaukaha Rembipuru Renda
+           *[other] Techaukaha renda jehecha
+        }
 bookmarks-search =
     .label = Techaukaha jeheka
+bookmarks-tools =
+    .label = Techaukaha Rembipuru
 bookmarks-toolbar-menu =
     .label = Techaukaha rembipuru renda
 bookmarks-toolbar-placeholder =
@@ -525,6 +539,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Techaukaha
 library-bookmarks-bookmark-this-page =
     .label = Kuatiarogue mbojoapy
 
