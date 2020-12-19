@@ -392,9 +392,21 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Fanni vedde ciù segnalibbri
 bookmarks-sidebar-content =
     .aria-label = Segnalibbri
+bookmarks-mobile-bookmarks-menu =
+    .label = Segnalibbri mòbili
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ascondi bara di segnalibbri
+           *[other] Veddi a bara de scianco segnalibbri
+        }
+bookmarks-search =
+    .label = Çerca segnalibbri
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Segnalibbri
 library-bookmarks-bookmark-this-page =
     .label = Azonzi questa pagina a-i segnalibbri
 library-bookmarks-bookmark-edit =
