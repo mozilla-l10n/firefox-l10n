@@ -529,6 +529,11 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Gosod Nod Tudalen i'r Dudalen
 
 ## More items
 
+more-menu-go-offline =
+    .label = Gweithio All-lein
+    .accesskey = w
