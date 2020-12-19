@@ -508,8 +508,42 @@ pointerlock-warning-no-domain = Цей документ отримав конт�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Показати всі закладки
+bookmarks-recent-bookmarks =
+    .value = Останні закладки
+bookmarks-toolbar-chevron =
+    .tooltiptext = Показати інші закладки
 bookmarks-sidebar-content =
     .aria-label = Закладки
+bookmarks-menu-button =
+    .label = Меню закладок
+bookmarks-other-bookmarks-menu =
+    .label = Інші закладки
+bookmarks-mobile-bookmarks-menu =
+    .label = Мобільні закладки
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Приховати бічну панель закладок
+           *[other] Показати панель закладок
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Приховати панель закладок
+           *[other] Показати панель закладок
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Вилучити меню закладок з панелі інструментів
+           *[other] Додати меню закладок до панелі інструментів
+        }
+bookmarks-search =
+    .label = Пошук закладок
+bookmarks-tools =
+    .label = Інструменти закладок
 bookmarks-toolbar-menu =
     .label = Панель закладок
 bookmarks-toolbar-placeholder =
@@ -519,6 +553,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Закладки
 library-bookmarks-bookmark-this-page =
     .label = Закласти цю сторінку
 library-bookmarks-bookmark-edit =
