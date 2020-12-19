@@ -404,6 +404,8 @@ bookmarks-show-all-bookmarks =
     .label = সব বুকমার্ক প্রদর্শন
 bookmarks-toolbar-chevron =
     .tooltiptext = আরও বুকমার্ক প্রদর্শন
+bookmarks-sidebar-content =
+    .aria-label = বুকমার্ক
 bookmarks-toolbar-placeholder =
     .title = বুকমার্ক টুলবারের আইটেম
 bookmarks-toolbar-placeholder-button =
@@ -414,3 +416,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
+more-menu-go-offline =
+    .label = অফলাইন অবস্থায় কাজ k
+    .accesskey = k
