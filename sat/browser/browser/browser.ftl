@@ -128,6 +128,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बोंद मे
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -170,4 +173,23 @@ urlbar-result-action-search-w-engine = { $engine } सांव पानते
 
 
 ## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = जोतो पुथी चिनहा़ को उदुगा मे.
+bookmarks-toolbar-chevron =
+    .tooltiptext = ढेर पुथी चिनहा़ को उदुग मे.
+bookmarks-toolbar-placeholder =
+    .title = टुलबार जिनिस को पुथी चिनहा़ को.
+bookmarks-toolbar-placeholder-button =
+    .label = टुलबार जिनिस को पुथी चिनहा़ को.
+
+## Library Panel items
+
+library-bookmarks-bookmark-edit =
+    .label = नोवा पुथी चिनहा़ सासापड़ाव में.
+
+## More items
 
