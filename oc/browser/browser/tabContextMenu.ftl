@@ -83,7 +83,7 @@ move-tab =
 tab-context-close-tabs =
     .label =
         { $tabCount ->
-            [1] Tampadura d’onglet
+            [1] Tampar l’onglet
             [one] Tampar l’onglet
            *[other] Tampar los onglets
         }
