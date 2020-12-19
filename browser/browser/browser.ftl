@@ -369,3 +369,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = නොබැඳිව ක්‍රියා කරන්න
+    .accesskey = k
