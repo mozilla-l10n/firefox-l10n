@@ -310,6 +310,8 @@ pointerlock-warning-no-domain = ಈ ದಸ್ತಾವೇಜು ನಿಮ್ಮ 
 
 bookmarks-show-all-bookmarks =
     .label = ಎಲ್ಲಾ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು
+bookmarks-recent-bookmarks =
+    .value = ಇತ್ತೀಚಿಗೆ ಮಾಡಲಾದ ಪುಟಗುರುತುಗಳು
 bookmarks-toolbar-chevron =
     .tooltiptext = ಇನ್ನಷ್ಟು ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು
 bookmarks-sidebar-content =
@@ -325,6 +327,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು
+library-bookmarks-bookmark-edit =
+    .label = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು
 
 ## More items
 
