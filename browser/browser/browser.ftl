@@ -536,6 +536,8 @@ bookmarks-tools-menu-button-visibility =
             [true] הסרת תפריט הסימניות מסרגל הכלים
            *[other] הוספת תפריט הסימניות לסרגל הכלים
         }
+bookmarks-search =
+    .label = חיפוש בסימניות
 bookmarks-tools =
     .label = כלי סימניות
 # The aria-label is a spoken label that should not include the word "toolbar" or
