@@ -152,6 +152,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Laga obulambe obulala
 bookmarks-sidebar-content =
     .aria-label = Obulambe
+bookmarks-search =
+    .label = Noonya Obulambe
 bookmarks-toolbar-menu =
     .label = Akabawo Kobulambe
 bookmarks-toolbar-placeholder =
@@ -161,6 +163,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Longoosa Akalambe Kano
 
 ## More items
 
