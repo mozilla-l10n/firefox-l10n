@@ -487,3 +487,31 @@ fullscreen-exit-mac-button = Kuitaat ar mod skramm a-bezh (Esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> a c'hall reoliñ ho logodenn. Pouezit war Achap evit bezañ mestr outi en-dro.
 pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit war Achap evit bezañ mestr outi en-dro.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Diskouez an holl sinedoù
+bookmarks-toolbar-chevron =
+    .tooltiptext = Diskouez meur a sined
+bookmarks-sidebar-content =
+    .aria-label = Sinedoù
+bookmarks-toolbar-menu =
+    .label = Barrenn ostilhoù ar sinedoù
+bookmarks-toolbar-placeholder =
+    .title = Ergorennoù barrenn ostilhoù ar sinedoù
+bookmarks-toolbar-placeholder-button =
+    .label = Ergorennoù barrenn ostilhoù ar sinedoù
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Lakaat ur sined war ar bajenn-mañ
+library-bookmarks-bookmark-edit =
+    .label = Embann ar sined-mañ
+
+## More items
+
+more-menu-go-offline =
+    .label = Labourat ezlinenn
+    .accesskey = z
