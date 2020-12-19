@@ -505,3 +505,21 @@ fullscreen-exit-mac-button = Вийти з повноекранного режи
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> отримав контроль над вашим вказівником. Натисніть Esc для повернення контролю.
 pointerlock-warning-no-domain = Цей документ отримав контроль над вашим вказівником. Натисніть Esc для повернення контролю.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Панель закладок
+bookmarks-toolbar-placeholder =
+    .title = Елементи панелі закладок
+bookmarks-toolbar-placeholder-button =
+    .label = Елементи панелі закладок
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Працювати автономно
+    .accesskey = ю
