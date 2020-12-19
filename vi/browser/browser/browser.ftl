@@ -498,6 +498,8 @@ pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-tools =
+    .label = Công cụ đánh dấu trang
 
 ## Library Panel items
 
