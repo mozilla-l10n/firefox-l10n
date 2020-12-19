@@ -506,11 +506,17 @@ pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ott
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Näytä kaikki kirjanmerkit
+bookmarks-toolbar-chevron =
+    .tooltiptext = Näytä lisää kirjanmerkkejä
 
 ## Library Panel items
 
 library-bookmarks-bookmark-this-page =
     .label = Lisää sivu kirjanmerkkeihin
+library-bookmarks-bookmark-edit =
+    .label = Muokkaa kirjanmerkkiä
 
 ## More items
 
