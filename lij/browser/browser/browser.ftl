@@ -299,6 +299,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Særa
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -378,3 +381,20 @@ fullscreen-exit-mac-button = Sciòrti da sa tutto schermo (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> o l'à o contròllo do teu pontatô. Sciacca ESC pe pigiâ torna o controllo.
 pointerlock-warning-no-domain = Sto documento o l'à o contròllo do teu pontatô. Sciacca ESC pe pigiâ torna o controllo.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Fanni vedde tutti i segnalibbri
+bookmarks-toolbar-chevron =
+    .tooltiptext = Fanni vedde ciù segnalibbri
+bookmarks-sidebar-content =
+    .aria-label = Segnalibbri
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Azonzi questa pagina a-i segnalibbri
+
+## More items
+
