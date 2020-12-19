@@ -513,6 +513,8 @@ bookmarks-toolbar-chevron =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Editar este marcador
 
 ## More items
 
