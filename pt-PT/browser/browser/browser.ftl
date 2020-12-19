@@ -514,11 +514,47 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar mais marcadores
 bookmarks-sidebar-content =
     .aria-label = Marcadores
+bookmarks-menu-button =
+    .label = Menu de marcadores
+bookmarks-other-bookmarks-menu =
+    .label = Outros marcadores
+bookmarks-mobile-bookmarks-menu =
+    .label = Marcadores de dispositivo móvel
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ocultar barra lateral de marcadores
+           *[other] Ver barra lateral de marcadores
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ocultar barra de ferramentas de marcadores
+           *[other] Ver barra de ferramentas de marcadores
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Remover menu de marcadores da barra de ferramentas
+           *[other] Adicionar menu de marcadores à barra de ferramentas
+        }
 bookmarks-search =
     .label = Pesquisar marcadores
+bookmarks-tools =
+    .label = Ferramentas de marcadores
+bookmarks-toolbar-menu =
+    .label = Barra de ferramentas de marcadores
+bookmarks-toolbar-placeholder =
+    .title = Itens da barra de ferramentas marcadores
+bookmarks-toolbar-placeholder-button =
+    .label = Itens da barra de ferramentas marcadores
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Marcadores
+library-bookmarks-bookmark-this-page =
+    .label = Adicionar esta página aos marcadores
 library-bookmarks-bookmark-edit =
     .label = Editar este marcador
 
