@@ -547,6 +547,8 @@ library-bookmarks-menu =
     .label = Yer imleri
 library-bookmarks-bookmark-this-page =
     .label = Bu sayfayı yer imlerine ekle
+library-bookmarks-bookmark-edit =
+    .label = Bu yer imini düzenle
 
 ## More items
 
