@@ -493,6 +493,8 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorem
 
 bookmarks-show-all-bookmarks =
     .label = Zobrazit všechny záložky
+bookmarks-recent-bookmarks =
+    .value = Naposledy přidané
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobrazí více záložek
 bookmarks-sidebar-content =
