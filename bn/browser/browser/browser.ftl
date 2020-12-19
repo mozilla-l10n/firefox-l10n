@@ -426,8 +426,16 @@ bookmarks-tools-toolbar-visibility =
             [true] বুকমার্ক টুলবার লুকাও
            *[other] বুকমার্ক টুলবার প্রদর্শন
         }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] টুলবার থেকে বুকমার্ক মেনু অপসারণ
+           *[other] টুলবারে বুকমার্ক মেনু যোগ করুন
+        }
 bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান
+bookmarks-tools =
+    .label = বুকমার্ক টুলসমূহ
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
