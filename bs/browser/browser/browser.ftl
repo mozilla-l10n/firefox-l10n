@@ -353,6 +353,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
 bookmarks-sidebar-content =
     .aria-label = Zabilješke
+bookmarks-menu-button =
+    .label = Meni sa zabilješkama
+bookmarks-other-bookmarks-menu =
+    .label = Druge zabilješke
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobilne zabilješke
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Sakrij bočnu traku sa zabilješkama
+           *[other] Prikaži traku sa zabilješkama
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Sakrij traku sa zabilješkama
+           *[other] Prikaži traku sa zabilješkama
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ukloni meni Zabilješke iz alatne trake
+           *[other] Dodaj meni Zabilješke u alatnu traku
+        }
+bookmarks-search =
+    .label = Pretraži zabilješke
+bookmarks-tools =
+    .label = Alati za zabilježavanje
 bookmarks-toolbar-menu =
     .label = Traka sa zabilješkama
 bookmarks-toolbar-placeholder =
@@ -362,6 +390,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Zabilješke
 library-bookmarks-bookmark-this-page =
     .label = Zabilježi ovu stranicu
 library-bookmarks-bookmark-edit =
