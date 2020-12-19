@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = আন এটা ব্ৰাউজাৰৰ পৰা আমদানি কৰক…
 about-logins-menu-menuitem-import-from-a-file = ফাইলৰ পৰা আমদানি কৰক…
 about-logins-menu-menuitem-export-logins = লগিন ৰপ্তানি কৰক…
+about-logins-menu-menuitem-remove-all-logins = সকলো লগিন আঁতৰাওক…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] বিকল্পবোৰ
@@ -168,6 +169,28 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = এই লগিন আঁতৰাবনে?
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
 about-logins-confirm-remove-dialog-confirm-button = আঁতৰাওক
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] আঁতৰাওক
+        [one] সকলো আঁতৰাওক
+       *[other] সকলো আঁতৰাওক
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] হয়, এই লগিন আঁতৰাওক
+        [one] হয়, এইকেইটা লগিন আঁতৰাওক
+       *[other] হয়, এইকেইটা লগিন আঁতৰাওক
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] { $count }টা লগিন আঁতৰাবনে?
+       *[other] আটাই { $count }টা লগিন আঁতৰাবনে?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] সকলো ডিভাইচৰ পৰা { $count }টা লগিন আঁতৰাবনে?
+       *[other] সকলো ডিভাইচৰ পৰা আটাই { $count }টা লগিন আঁতৰাবনে?
+    }
 about-logins-confirm-export-dialog-title = লগিন আৰু পাছৱৰ্ড ৰপ্তানি কৰক
 about-logins-confirm-export-dialog-message = আপোনাৰ পাছৱৰ্ডসমূহ পঢ়াযোগ্য পাঠ (যেনে- BadP@ssw0rd) হিচাপে সঞ্চয় কৰা হ'ব গতিকে ৰপ্তানি ফাইলটো খুলিব পৰা যিকোনো ব্যক্তিয়ে সেয়া চাব পাৰে।
 about-logins-confirm-export-dialog-confirm-button = ৰপ্তানি কৰক…
