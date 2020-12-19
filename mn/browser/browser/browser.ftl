@@ -19,7 +19,6 @@ browser-main-window =
     .data-title-private = { -brand-full-name } (Хувийн зорчилт)
     .data-content-title-default = { $content-title } - { -brand-full-name }
     .data-content-title-private = { $content-title } - { -brand-full-name } (Хувийн зорчилт)
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,7 +38,6 @@ browser-main-window-mac =
     .data-title-private = { -brand-full-name } - (Хувийн зорчилт)
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } - (Хувийн зорчилт)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -60,10 +58,14 @@ browser-main-window-title = { -brand-full-name }
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 
 ## Page Action Context Menu
+
+
+## Page Action menu
 
 
 ## Auto-hide Context Menu
@@ -85,6 +87,7 @@ full-screen-exit =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 
@@ -92,6 +95,9 @@ full-screen-exit =
 
 
 ## Window controls
+
+
+## Bookmarks toolbar items
 
 
 ## WebRTC Pop-up notifications
@@ -107,3 +113,32 @@ full-screen-exit =
 
 urlbar-go-button =
     .tooltiptext = Хаягийн самбарын хаяг бичих газар очно
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-chevron =
+    .tooltiptext = Нэмэлт хаягнуудыг харуул
+bookmarks-toolbar-menu =
+    .label = Хаягийн Багажит самбар
+bookmarks-toolbar-placeholder =
+    .title = Хаягийн багажит самбарын зүйлс
+bookmarks-toolbar-placeholder-button =
+    .label = Хаягийн багажит самбарын зүйлс
+
+## Library Panel items
+
+
+## More items
+
