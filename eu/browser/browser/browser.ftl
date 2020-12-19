@@ -506,11 +506,28 @@ pointerlock-warning-no-domain = Dokumentu honek zure erakuslearen kontrola dauka
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Erakutsi laster-marka guztiak
+bookmarks-toolbar-chevron =
+    .tooltiptext = Erakutsi laster-marka gehiago
+bookmarks-sidebar-content =
+    .aria-label = Laster-markak
+bookmarks-toolbar-menu =
+    .label = Laster-marken tresna-barra
+bookmarks-toolbar-placeholder =
+    .title = Laster-marken tresna-barraren osagaiak
+bookmarks-toolbar-placeholder-button =
+    .label = Laster-marken tresna-barraren osagaiak
 
 ## Library Panel items
 
 library-bookmarks-bookmark-this-page =
     .label = Egin orriaren laster-marka
+library-bookmarks-bookmark-edit =
+    .label = Editatu laster-marka
 
 ## More items
 
+more-menu-go-offline =
+    .label = Lan egin lineaz kanpo
+    .accesskey = o
