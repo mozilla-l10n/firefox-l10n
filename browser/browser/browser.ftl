@@ -542,6 +542,13 @@ bookmarks-search =
     .label = Lesezeichen durchsuchen
 bookmarks-tools =
     .label = Lesezeichen-Werkzeuge
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Lesezeichen-Symbolleiste
+    .accesskey = L
+    .aria-label = Lesezeichen
 bookmarks-toolbar-menu =
     .label = Lesezeichen-Symbolleiste
 bookmarks-toolbar-placeholder =
