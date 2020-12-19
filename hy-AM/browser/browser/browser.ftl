@@ -425,6 +425,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Ցուցադրել ավելի շատ էջանիշեր
 bookmarks-sidebar-content =
     .aria-label = Էջանիշեր
+bookmarks-menu-button =
+    .label = Էջանիշերի ցանկ
+bookmarks-other-bookmarks-menu =
+    .label = Այլ Էջանիշեր
+bookmarks-mobile-bookmarks-menu =
+    .label = Բջջային էջանիշեր
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Թաքցնել Էջանիշերի Կողագոտին
+           *[other] Դիտել էջանիշերի վահանակը
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Թաքցնել Էջանիշերի Գործիքագոտին
+           *[other] Դիտել էջանիշերի վահանակը
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ՀԵռացնել Էջանիշերի ցանկը Գործիքագոտուց
+           *[other] Ավելացնել Էջանիշերի ցանկ Գործիքագոտիում
+        }
+bookmarks-search =
+    .label = Էջանիշերի որոնում
+bookmarks-tools =
+    .label = Էջանշելու գործիքներ
 bookmarks-toolbar-menu =
     .label = Էջանիշերի Վահանակ
 bookmarks-toolbar-placeholder =
@@ -434,6 +462,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Էջանիշեր
 library-bookmarks-bookmark-this-page =
     .label = Էջանշել Այս Էջը
 library-bookmarks-bookmark-edit =
