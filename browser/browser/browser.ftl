@@ -474,6 +474,12 @@ bookmarks-other-bookmarks-menu =
     .label = Alte marcaje
 bookmarks-mobile-bookmarks-menu =
     .label = Marcaje mobile
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ascunde bara laterală de marcaje
+           *[other] Vezi bara laterală de marcaje
+        }
 bookmarks-search =
     .label = Caută marcaje
 bookmarks-tools =
