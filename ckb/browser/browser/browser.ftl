@@ -442,3 +442,70 @@ fullscreen-exit-mac-button = لە پڕاوپڕی شاشە دەرچۆ (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC  بۆ بەدەستهێنانەوەی جڵەوگیری.
 pointerlock-warning-no-domain = ئەم بەڵگەنامەیە جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC بۆ بەدەستهێنانەوەی جڵەوگیری.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = هەموو دڵخوازەکان پیشان بدە
+bookmarks-recent-bookmarks =
+    .value = دووا دڵخوازکراو
+bookmarks-toolbar-chevron =
+    .tooltiptext = دڵخوازی زیاتر پیشان بدە
+bookmarks-sidebar-content =
+    .aria-label = دڵخوازەکان
+bookmarks-menu-button =
+    .label = پێڕستی دڵخوازەکان
+bookmarks-other-bookmarks-menu =
+    .label = دڵخوازی تر
+bookmarks-mobile-bookmarks-menu =
+    .label = دڵخوازەکانی مۆبایل
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] لاتەنیشتی دڵخوازەکان بشارەوە
+           *[other] لاتەنیشتی دڵخوازەکان ببینە
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] توڵامرازی دڵخوازەکان بشارەوە
+           *[other] توڵامرازی دڵخوازەکان ببینە
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] پێڕستی دڵخوازەکان بسڕەوە لە توڵامراز
+           *[other] پێڕستی دڵخوازەکان زیادبکە بۆ توڵامراز
+        }
+bookmarks-search =
+    .label = گەڕان لە دڵخوازەکان
+bookmarks-tools =
+    .label = ئامرازەکانی دڵخوازکردن
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = توڵامرازی دڵخوازەکان
+    .accesskey = B
+    .aria-label = دڵخوازەکان
+bookmarks-toolbar-menu =
+    .label = توڵامرازی دڵخوازەکان
+bookmarks-toolbar-placeholder =
+    .title = بڕگەکانی توڵامرازی دڵخوازەکان
+bookmarks-toolbar-placeholder-button =
+    .label = بڕگەکانی توڵامرازی دڵخوازەکان
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = دڵخوازەکان
+library-bookmarks-bookmark-this-page =
+    .label = ئەم پەرەیە دڵخواز بکە
+library-bookmarks-bookmark-edit =
+    .label = ئەم دڵخوازە دەستکاریبکە
+
+## More items
+
+more-menu-go-offline =
+    .label = بەدەرهێڵ کاربکە
+    .accesskey = ک
