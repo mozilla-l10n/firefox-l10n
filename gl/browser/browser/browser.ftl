@@ -502,10 +502,40 @@ pointerlock-warning-no-domain = Este documento ten o control do punteiro. Prema 
 
 bookmarks-show-all-bookmarks =
     .label = Amosar todos os marcadores
+bookmarks-recent-bookmarks =
+    .value = Marcadores máis recentes
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar máis marcadores
 bookmarks-sidebar-content =
     .aria-label = Marcadores
+bookmarks-menu-button =
+    .label = Menú dos marcadores
+bookmarks-other-bookmarks-menu =
+    .label = Outros marcadores
+bookmarks-mobile-bookmarks-menu =
+    .label = Marcadores do móbil
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Agochar o panel dos marcadores
+           *[other] Ver o panel de marcadores
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Agochar a barra dos marcadores
+           *[other] Ver a barra de marcadores
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Retirar o menú dos marcadores da barra de ferramentas
+           *[other] Engadir o menú dos marcadores á barra de ferramentas
+        }
+bookmarks-search =
+    .label = Buscar nos marcadores
+bookmarks-tools =
+    .label = Ferramentas dos marcadores
 bookmarks-toolbar-menu =
     .label = Barra de marcadores
 bookmarks-toolbar-placeholder =
@@ -515,6 +545,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Marcadores
 library-bookmarks-bookmark-this-page =
     .label = Marcar esta páxina
 library-bookmarks-bookmark-edit =
