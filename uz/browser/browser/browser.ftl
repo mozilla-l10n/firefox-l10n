@@ -315,6 +315,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Yopish
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -412,3 +415,27 @@ fullscreen-exit-mac-button = "Butun ekranda" usulidan chiqish (Esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ko‘rsatkichingiz ustidan nazorat o‘rnatgan. Nazoratni qo‘lga olish uchun Esc tugmasini bosing.
 pointerlock-warning-no-domain = Bu hujat ko‘rsatkichingiz ustidan nazorat o‘rnatgan. Nazoratni qo‘lga olish uchun Esc tugmasini bosing.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Barcha xatcho‘plarni ko‘rsatish
+bookmarks-toolbar-chevron =
+    .tooltiptext = Ko‘proq xatcho‘plarni ko‘rsatish
+bookmarks-sidebar-content =
+    .aria-label = Xatcho‘plar
+bookmarks-toolbar-placeholder =
+    .title = Xatcho‘plar paneli bandlari
+bookmarks-toolbar-placeholder-button =
+    .label = Xatcho‘plar paneli bandlari
+
+## Library Panel items
+
+library-bookmarks-bookmark-edit =
+    .label = Ushbu xatcho‘pni o‘zgartirish
+
+## More items
+
+more-menu-go-offline =
+    .label = Oflayn ishlash
+    .accesskey = i
