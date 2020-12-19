@@ -254,3 +254,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Offline schaffen
+    .accesskey = k
