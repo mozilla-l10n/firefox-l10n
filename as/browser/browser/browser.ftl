@@ -407,11 +407,19 @@ urlbar-result-action-visit = দৰ্শন কৰক
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = সকলো পত্ৰচিহ্ন দেখুৱাওক
+bookmarks-toolbar-chevron =
+    .tooltiptext = অধিক পত্ৰচিহ্ন দেখুৱাওক
 bookmarks-sidebar-content =
     .aria-label = পত্ৰচিহ্নসমূহ
+bookmarks-toolbar-menu =
+    .label = পত্ৰচিহ্ন টুলবাৰ
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = এই পৃষ্ঠা পত্ৰচিহ্নিত কৰক
 
 ## More items
 
