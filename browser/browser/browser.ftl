@@ -321,10 +321,36 @@ pointerlock-warning-no-domain = මෙම ලේඛනය හට ඔබගේ �
 
 bookmarks-show-all-bookmarks =
     .label = සියළු පිටුසලකුණු පෙන්වන්න…
+bookmarks-recent-bookmarks =
+    .value = මෑතදී පිටුසලකුණු කළ
 bookmarks-toolbar-chevron =
     .tooltiptext = තවත් පිටුසලකුණු පෙන්වන්න
 bookmarks-sidebar-content =
     .aria-label = පිටු සලකුණු
+bookmarks-menu-button =
+    .label = පිටු සලකුණු මෙනුව
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] පිටු සලකුණු පැති තීරුව සඟවන්න
+           *[other] පිටුලකුණු පැති තීරුව පෙන්වන්න
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] පිටු සලකුණු මෙවලම් තීරුව සඟවන්න
+           *[other] පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] මෙවලම් තීරුවෙන් පිටු සලකුණු මෙනුව ඉවත් කරන්න
+           *[other] මෙවලම් තීරුවට පිටුසලකුණු මෙනුව එක් කරන්න
+        }
+bookmarks-search =
+    .label = පිටුසලකුණු සොයන්න
+bookmarks-tools =
+    .label = පිටු සලකුණු මෙවලම්
 bookmarks-toolbar-menu =
     .label = පිටු සලකුණු මෙවලම් තීරුව
 bookmarks-toolbar-placeholder =
@@ -334,6 +360,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = පිටු සලකුණු
 library-bookmarks-bookmark-this-page =
     .label = මෙම පිටුව සලකුණු කරගන්න
 library-bookmarks-bookmark-edit =
