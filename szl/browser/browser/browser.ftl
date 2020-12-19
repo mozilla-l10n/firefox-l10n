@@ -332,6 +332,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zawrzij
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -458,3 +461,70 @@ fullscreen-exit-mac-button = Wylyź z trybu cołkigo ekranu (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.
 pointerlock-warning-no-domain = Tyn dokumynt kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Pokoż wszyskie zokłodki
+bookmarks-recent-bookmarks =
+    .value = Niydowno przidane
+bookmarks-toolbar-chevron =
+    .tooltiptext = Pokoż wiyncyj zokłodek
+bookmarks-sidebar-content =
+    .aria-label = Zokłodki
+bookmarks-menu-button =
+    .label = Myni zokłodek
+bookmarks-other-bookmarks-menu =
+    .label = Inksze zokłodki
+bookmarks-mobile-bookmarks-menu =
+    .label = Zokłodki z mobilnioka
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skryj posek ze zokłodkami na rancie
+           *[other] Pokoż posek ze zokłodkami na rancie
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skryj posek ze zokłodkami
+           *[other] Pokoż posek ze zokłodkami
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Wyciep myni zokłodek z poska z noczyniami
+           *[other] Przidej myni zokłodek do poska z noczyniami
+        }
+bookmarks-search =
+    .label = Szukej we zokłodkach
+bookmarks-tools =
+    .label = Noczynia przidowanio do zokłodek
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Posek z zokłodkami
+    .accesskey = Z
+    .aria-label = Zokłodki
+bookmarks-toolbar-menu =
+    .label = Posek z zokłodkami
+bookmarks-toolbar-placeholder =
+    .title = Elymynty ze poska z zokłodkami
+bookmarks-toolbar-placeholder-button =
+    .label = Elymynty ze poska z zokłodkami
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Zokłodki
+library-bookmarks-bookmark-this-page =
+    .label = Przidej ta strōna do zokłodek
+library-bookmarks-bookmark-edit =
+    .label = Edytuj ta zokłodka
+
+## More items
+
+more-menu-go-offline =
+    .label = Rōb offline
+    .accesskey = f
