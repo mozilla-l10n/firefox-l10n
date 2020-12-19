@@ -512,6 +512,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar mais favoritos
 bookmarks-sidebar-content =
     .aria-label = Favoritos
+bookmarks-menu-button =
+    .label = Menu de favoritos
 bookmarks-other-bookmarks-menu =
     .label = Outros favoritos
 bookmarks-mobile-bookmarks-menu =
@@ -547,6 +549,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Favoritos
 library-bookmarks-bookmark-edit =
     .label = Editar este favorito
 
