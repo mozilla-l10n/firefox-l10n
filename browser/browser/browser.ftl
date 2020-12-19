@@ -274,10 +274,40 @@ pointerlock-warning-no-domain = Овој документ ви ја презем
 
 bookmarks-show-all-bookmarks =
     .label = Прикажи ги сите обележувачи
+bookmarks-recent-bookmarks =
+    .value = Неодамна обележани
 bookmarks-toolbar-chevron =
     .tooltiptext = Покажува уште обележувачи
 bookmarks-sidebar-content =
     .aria-label = Обележувачи
+bookmarks-menu-button =
+    .label = Мени за обележувачи
+bookmarks-other-bookmarks-menu =
+    .label = Други обележувачи
+bookmarks-mobile-bookmarks-menu =
+    .label = Мобилни обележувачи
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Скриј странична лента со обележувачи
+           *[other] Прикажи странична лента со обележувачи
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Скриј алатник со обележувачи
+           *[other] Прикажи алатник со обележувачи
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Отстрани мени за обележувачи од алатник
+           *[other] Додај мени за обележувачи во алатник
+        }
+bookmarks-search =
+    .label = Барај во обележувачите
+bookmarks-tools =
+    .label = Алатки за обележување
 bookmarks-toolbar-menu =
     .label = Алатник со обележувачи
 bookmarks-toolbar-placeholder =
@@ -287,8 +317,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Обележувачи
 library-bookmarks-bookmark-this-page =
     .label = Обележи ја оваа страница
+library-bookmarks-bookmark-edit =
+    .label = Уреди го овој обележувач
 
 ## More items
 
