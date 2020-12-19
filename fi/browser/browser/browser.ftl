@@ -503,3 +503,14 @@ fullscreen-exit-mac-button = Poistu kokoruututilasta (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = Sivusto <span data-l10n-name="domain">{ $domain }</span> hallitsee hiiren osoitinta. Voit ottaa osoittimen hallintaasi painamalla Esc.
 pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ottaa osoittimen hallintaasi painamalla Esc.
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Lisää sivu kirjanmerkkeihin
+
+## More items
+
