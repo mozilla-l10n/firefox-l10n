@@ -361,8 +361,14 @@ pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýtt
 
 bookmarks-show-all-bookmarks =
     .label = Sýna öll bókamerki
+bookmarks-recent-bookmarks =
+    .value = Nýlega sett í bókamerki
 bookmarks-toolbar-chevron =
     .tooltiptext = Sýna fleiri bókamerki
+bookmarks-sidebar-content =
+    .aria-label = Bókamerki
+bookmarks-search =
+    .label = Leita í bókamerkjum
 bookmarks-toolbar-menu =
     .label = Bókamerkjaslá
 bookmarks-toolbar-placeholder =
