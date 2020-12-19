@@ -181,6 +181,8 @@ bookmarks-show-all-bookmarks =
     .label = जोतो पुथी चिनहा़ को उदुगा मे.
 bookmarks-toolbar-chevron =
     .tooltiptext = ढेर पुथी चिनहा़ को उदुग मे.
+bookmarks-toolbar-menu =
+    .label = टुलबार पुथी चिनहा़ को
 bookmarks-toolbar-placeholder =
     .title = टुलबार जिनिस को पुथी चिनहा़ को.
 bookmarks-toolbar-placeholder-button =
@@ -193,3 +195,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = ऑफलाइन
+    .accesskey = k
