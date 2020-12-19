@@ -404,3 +404,14 @@ urlbar-result-action-visit = দৰ্শন কৰক
 
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = পত্ৰচিহ্নসমূহ
+
+## Library Panel items
+
+
+## More items
+
