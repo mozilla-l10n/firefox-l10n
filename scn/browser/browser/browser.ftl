@@ -266,6 +266,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Chiuji
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni.
@@ -327,3 +330,70 @@ fullscreen-exit-mac-button = Nesci di tuttu schirmu (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> pigghiau cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.
 pointerlock-warning-no-domain = Sta pàggini teni cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Mustra tutti i nzingalibbri
+bookmarks-recent-bookmarks =
+    .value = Nzingati di picca
+bookmarks-toolbar-chevron =
+    .tooltiptext = Mustra cchiù nzingalibbri
+bookmarks-sidebar-content =
+    .aria-label = Nzingalibbri
+bookmarks-menu-button =
+    .label = Minù nzingalibbri
+bookmarks-other-bookmarks-menu =
+    .label = Autri nzingalibbri
+bookmarks-mobile-bookmarks-menu =
+    .label = Nzingalibbri dû cillulari
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ammuccia a sbarra di ciancu dî nzingalibbri
+           *[other] Talìa a sbarra di ciancu dî nzingalibbri
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ammuccia a sbarra dî nzingalibbri
+           *[other] Talìa sbarra dî nzingalibbri
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Leva u minù dî nzingalibbri dâ sbarra dî strumenti
+           *[other] Agghiunci u minù dî nzingalibbri â sbarra dî strumenti
+        }
+bookmarks-search =
+    .label = Cerca nnê nzingalibbri
+bookmarks-tools =
+    .label = Strumenti pî nzingalibbri
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Sbarra dî nzingalibbri
+    .accesskey = n
+    .aria-label = Nzingalibbri
+bookmarks-toolbar-menu =
+    .label = Sbarra dî nzingalibbri
+bookmarks-toolbar-placeholder =
+    .title = Strumenti dî nzingalibbri
+bookmarks-toolbar-placeholder-button =
+    .label = Strumenti dî nzingalibbri
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Nzingalibbri
+library-bookmarks-bookmark-this-page =
+    .label = Agghiunci sta pàggina ê nzingalibbri
+library-bookmarks-bookmark-edit =
+    .label = Cancia stu nzingalibbru
+
+## More items
+
+more-menu-go-offline =
+    .label = Travagghia sculligatu
+    .accesskey = s
