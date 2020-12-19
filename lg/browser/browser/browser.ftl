@@ -107,6 +107,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Funza
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -129,5 +132,35 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = Genda ku Ndagiriro eri mu Kabawo Akalagirira
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Laga Obulambe Bwonna
+bookmarks-toolbar-chevron =
+    .tooltiptext = Laga obulambe obulala
+bookmarks-sidebar-content =
+    .aria-label = Obulambe
+bookmarks-toolbar-menu =
+    .label = Akabawo Kobulambe
+bookmarks-toolbar-placeholder =
+    .title = Obulambe bw'Akabawo kebikozesa Ebintu
+bookmarks-toolbar-placeholder-button =
+    .label = Obulambe bw'Akabawo kebikozesa Ebintu
+
+## Library Panel items
+
+
+## More items
 
