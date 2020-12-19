@@ -387,6 +387,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = ဒီစာမျက်နှာကို မှတ်သားပါ
+library-bookmarks-bookmark-edit =
+    .label = ဒီစာမှတ်ကို ပြင်ဆင်မည်
 
 ## More items
 
