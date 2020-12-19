@@ -419,6 +419,10 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 
 bookmarks-show-all-bookmarks =
     .label = Ցուցադրել բոլոր էջանիշերը
+bookmarks-toolbar-chevron =
+    .tooltiptext = Ցուցադրել ավելի շատ էջանիշեր
+bookmarks-sidebar-content =
+    .aria-label = Էջանիշեր
 bookmarks-toolbar-menu =
     .label = Էջանիշերի Վահանակ
 bookmarks-toolbar-placeholder =
