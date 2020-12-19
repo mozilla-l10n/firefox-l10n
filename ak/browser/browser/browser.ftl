@@ -160,8 +160,12 @@ urlbar-go-button =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Kyerɛ mbukmaake nyinara
 bookmarks-toolbar-chevron =
     .tooltiptext = Kyerɛ mbukmaak bebree
+bookmarks-sidebar-content =
+    .aria-label = Mbukmaak
 bookmarks-toolbar-menu =
     .label = TuulBaa A Wɔde Sie Mbukmaak
 bookmarks-toolbar-placeholder =
