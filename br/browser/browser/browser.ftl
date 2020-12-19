@@ -526,6 +526,13 @@ bookmarks-search =
     .label = Klask er sinedoù
 bookmarks-tools =
     .label = Ostilhoù ar sinedoù
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barrenn ostilhoù ar sinedoù
+    .accesskey = s
+    .aria-label = Sinedoù
 bookmarks-toolbar-menu =
     .label = Barrenn ostilhoù ar sinedoù
 bookmarks-toolbar-placeholder =
