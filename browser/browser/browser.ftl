@@ -367,8 +367,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Sýna fleiri bókamerki
 bookmarks-sidebar-content =
     .aria-label = Bókamerki
+bookmarks-menu-button =
+    .label = Bókarmerkja valmynd
+bookmarks-other-bookmarks-menu =
+    .label = Önnur bókamerki
+bookmarks-mobile-bookmarks-menu =
+    .label = Bókamerki farsíma
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Fela bókamerki í hliðslá
+           *[other] Birta bókamerki í hliðslá
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Fela bókamerkjaslá
+           *[other] Skoða bókamerkjaslá
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Fjarlægja bókamerkjavalmynd úr verkfæraslá
+           *[other] Bæta bókamerkjavalmynd við verkfæraslá
+        }
 bookmarks-search =
     .label = Leita í bókamerkjum
+bookmarks-tools =
+    .label = Verkfæri fyrir bókamerki
 bookmarks-toolbar-menu =
     .label = Bókamerkjaslá
 bookmarks-toolbar-placeholder =
@@ -378,6 +404,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Bókamerki
 library-bookmarks-bookmark-this-page =
     .label = Setja síðu í bókamerki
 library-bookmarks-bookmark-edit =
