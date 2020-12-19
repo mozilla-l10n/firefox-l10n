@@ -420,6 +420,8 @@ pointerlock-warning-no-domain = Bu hujat ko‘rsatkichingiz ustidan nazorat o‘
 
 bookmarks-show-all-bookmarks =
     .label = Barcha xatcho‘plarni ko‘rsatish
+bookmarks-recent-bookmarks =
+    .value = Soʻnggi xatchoʻpga qoʻshilgan saytlar
 bookmarks-toolbar-chevron =
     .tooltiptext = Ko‘proq xatcho‘plarni ko‘rsatish
 bookmarks-sidebar-content =
@@ -431,6 +433,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Sahifani xatcho‘plarga qo‘shish
 library-bookmarks-bookmark-edit =
     .label = Ushbu xatcho‘pni o‘zgartirish
 
