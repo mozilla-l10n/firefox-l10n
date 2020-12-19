@@ -500,6 +500,8 @@ pointerlock-warning-no-domain = เอกสารชิ้นนี้ได้
 
 bookmarks-show-all-bookmarks =
     .label = แสดงที่คั่นหน้าทั้งหมด
+bookmarks-sidebar-content =
+    .aria-label = ที่คั่นหน้า
 bookmarks-toolbar-menu =
     .label = แถบเครื่องมือที่คั่นหน้า
 
