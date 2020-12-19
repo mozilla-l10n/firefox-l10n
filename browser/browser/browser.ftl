@@ -503,3 +503,20 @@ fullscreen-exit-mac-button = Folslein skerm ferlitte (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> hat de kontrôle oer jo oanwizer. Druk op Esc om de kontrôle wer oer te nimmen.
 pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. Druk op Esc om de kontrôle wer oer te nimmen.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Blêdwizers
+bookmarks-toolbar-menu =
+    .label = Blêdwizerarkbalke
+bookmarks-toolbar-placeholder =
+    .title = Blêdwizerarkbalke-ûnderdiel
+bookmarks-toolbar-placeholder-button =
+    .label = Blêdwizerarkbalke-ûnderdiel
+
+## Library Panel items
+
+
+## More items
+
