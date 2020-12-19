@@ -362,6 +362,36 @@ bookmarks-recent-bookmarks =
     .value = Demin İmlengen
 bookmarks-toolbar-chevron =
     .tooltiptext = Daa çoq saife-imi köster
+bookmarks-sidebar-content =
+    .aria-label = Saife-imleri
+bookmarks-menu-button =
+    .label = Saife-imleri Menüsi
+bookmarks-other-bookmarks-menu =
+    .label = Diger Saifeimleri
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobil Saifeimleri
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Saife-imleri Yan-çubuğını Gizle
+           *[other] Saifeimleri Alet Çubuğını Köster
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Saife-imleri Alet-çubuğını Gizle
+           *[other] Saife-imleri Alet Çubuğını Köster
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Alet Çubuğından Saife-imleri Menüsini Çetleştir
+           *[other] Alet Çubuğına Saife-imleri Menüsini Ekle
+        }
+bookmarks-search =
+    .label = Saife-imlerini Qıdır
+bookmarks-tools =
+    .label = Saife-imleme Aletleri
 bookmarks-toolbar-menu =
     .label = Saife-imleri Alet Çubuğı
 bookmarks-toolbar-placeholder =
@@ -371,6 +401,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Saife-imleri
 library-bookmarks-bookmark-this-page =
     .label = Bu Saifeni İmle
 library-bookmarks-bookmark-edit =
