@@ -166,6 +166,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Kyerɛ mbukmaak bebree
 bookmarks-sidebar-content =
     .aria-label = Mbukmaak
+bookmarks-search =
+    .label = Hwewhɛ Mbukmaak
 bookmarks-toolbar-menu =
     .label = TuulBaa A Wɔde Sie Mbukmaak
 bookmarks-toolbar-placeholder =
@@ -175,6 +177,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Sesa Bukmaak Yi
 
 ## More items
 
