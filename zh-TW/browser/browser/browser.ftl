@@ -498,6 +498,10 @@ pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc �
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = 顯示所有書籤
+bookmarks-recent-bookmarks =
+    .value = 最近加入的書籤
 bookmarks-toolbar-chevron =
     .tooltiptext = 顯示更多書籤
 bookmarks-sidebar-content =
@@ -511,6 +515,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = 將本頁加入書籤
+library-bookmarks-bookmark-edit =
+    .label = 編輯此書籤
 
 ## More items
 
