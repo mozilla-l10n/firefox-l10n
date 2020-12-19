@@ -326,6 +326,28 @@ bookmarks-other-bookmarks-menu =
     .label = മറ്റു് അടയാളക്കുറിപ്പുകള്‍
 bookmarks-mobile-bookmarks-menu =
     .label = മൊബൈൽ അടയാളകുറിപ്പുകള്‍
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ബുക്ക്മാർക്ക് സൈഡ്ബാർ മറയ്ക്കുക
+           *[other] അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ബുക്ക്മാർക്ക് ടൂൾ ബാർ മറയ്ക്കുക
+           *[other] അടയാളക്കുറിപ്പുകള്‍ക്കുള്ള ടൂള്‍ബാര്‍ കാണുക
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ടൂൾബാറിൽ നിന്ന് ബൂക്കമാർക്ക് മെനു നീക്കം ചെയ്യുക
+           *[other] ബൂക്കമാർക്ക് മെനു ടൂൾ ബാർലേക്ക് ചേർക്കുക
+        }
+bookmarks-search =
+    .label = ബുക്ക്മാർക്ക് തിരയുക
+bookmarks-tools =
+    .label = ബുക്ക്‌മാർക്കിങ് ഉപകരണങ്ങൾ
 bookmarks-toolbar-menu =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍
 bookmarks-toolbar-placeholder =
