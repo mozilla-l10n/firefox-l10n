@@ -518,8 +518,32 @@ bookmarks-sidebar-content =
     .aria-label = Забелешке
 bookmarks-menu-button =
     .label = Мени са забелешкама
+bookmarks-other-bookmarks-menu =
+    .label = Остале забелешке
+bookmarks-mobile-bookmarks-menu =
+    .label = Мобилне забелешке
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Сакриј палету са забелешкама
+           *[other] Прикажи у бочној палети
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Сакриј траку са забелешкама
+           *[other] Прикажи траку са забелешкама
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Уклони мени са забелешкама са алатне траке
+           *[other] Додај мени са забелешкама на траку са алатима
+        }
 bookmarks-search =
     .label = Претражи забелешке
+bookmarks-tools =
+    .label = Алатке за забелешке
 bookmarks-toolbar-menu =
     .label = Трака са забелешкама
 bookmarks-toolbar-placeholder =
