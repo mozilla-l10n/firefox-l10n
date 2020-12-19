@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Aqueste document a lo contraròtle sul vòstre g
 
 bookmarks-show-all-bookmarks =
     .label = Afichar totes los marcapaginas
+bookmarks-toolbar-chevron =
+    .tooltiptext = Afichar mai de marcapaginas
 bookmarks-sidebar-content =
     .aria-label = Marcapaginas
 bookmarks-toolbar-placeholder =
