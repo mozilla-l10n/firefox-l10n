@@ -514,8 +514,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = További könyvjelzők megjelenítése
 bookmarks-sidebar-content =
     .aria-label = Könyvjelzők
+bookmarks-menu-button =
+    .label = Könyvjelzők menü
+bookmarks-other-bookmarks-menu =
+    .label = Más könyvjelzők
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobil könyvjelzők
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Könyvjelzők oldalsáv elrejtése
+           *[other] Könyvjelzők oldalsáv megjelenítése
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Könyvjelző eszköztár elrejtése
+           *[other] Könyvjelző eszköztár megjelenítése
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Könyvjelzők menü eltávolítása az eszköztárról
+           *[other] Könyvjelzők menü hozzáadása az eszköztárhoz
+        }
 bookmarks-search =
     .label = Könyvjelzők keresése
+bookmarks-tools =
+    .label = Könyvjelzőzési eszközök
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Könyvjelző eszköztár
+    .accesskey = K
+    .aria-label = Könyvjelzők
 bookmarks-toolbar-menu =
     .label = Könyvjelző eszköztár
 bookmarks-toolbar-placeholder =
@@ -525,6 +558,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Könyvjelzők
 library-bookmarks-bookmark-this-page =
     .label = Oldal hozzáadása a könyvjelzőkhöz
 library-bookmarks-bookmark-edit =
