@@ -500,10 +500,40 @@ pointerlock-warning-no-domain = เอกสารชิ้นนี้ได้
 
 bookmarks-show-all-bookmarks =
     .label = แสดงที่คั่นหน้าทั้งหมด
+bookmarks-recent-bookmarks =
+    .value = ที่คั่นหน้าที่เพิ่มล่าสุด
 bookmarks-toolbar-chevron =
     .tooltiptext = แสดงที่คั่นหน้าเพิ่มเติม
 bookmarks-sidebar-content =
     .aria-label = ที่คั่นหน้า
+bookmarks-menu-button =
+    .label = เมนูที่คั่นหน้า
+bookmarks-other-bookmarks-menu =
+    .label = ที่คั่นหน้าอื่น ๆ
+bookmarks-mobile-bookmarks-menu =
+    .label = ที่คั่นหน้าในมือถือ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ซ่อนแถบข้างที่คั่นหน้า
+           *[other] ดูแถบข้างที่คั่นหน้า
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ซ่อนแถบเครื่องมือที่คั่นหน้า
+           *[other] ดูแถบเครื่องมือที่คั่นหน้า
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] เอาเมนูที่คั่นหน้าออกจากแถบเครื่องมือ
+           *[other] เพิ่มเมนูที่คั่นหน้าไปยังแถบเครื่องมือ
+        }
+bookmarks-search =
+    .label = ค้นหาที่คั่นหน้า
+bookmarks-tools =
+    .label = เครื่องมือที่คั่นหน้า
 bookmarks-toolbar-menu =
     .label = แถบเครื่องมือที่คั่นหน้า
 bookmarks-toolbar-placeholder =
@@ -513,8 +543,15 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = ที่คั่นหน้า
+library-bookmarks-bookmark-this-page =
+    .label = เพิ่มที่คั่นหน้าสำหรับหน้านี้
 library-bookmarks-bookmark-edit =
     .label = แก้ไขที่คั่นหน้านี้
 
 ## More items
 
+more-menu-go-offline =
+    .label = ทำงานออฟไลน์
+    .accesskey = ฟ
