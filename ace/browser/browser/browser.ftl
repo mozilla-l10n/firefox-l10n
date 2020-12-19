@@ -130,6 +130,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Tôp
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jibulong.
@@ -143,6 +146,15 @@ popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jib
 ## URL Bar
 
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -152,3 +164,20 @@ fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jin
 fullscreen-exit-button = Teubiet Layeue Peunoh (ESC)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Teubiet Peunoh Layeu (esc)
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Peutanda
+bookmarks-menu-button =
+    .label = Menu Peutanda
+bookmarks-other-bookmarks-menu =
+    .label = Peutanda Laén
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Peutanda
+
+## More items
+
