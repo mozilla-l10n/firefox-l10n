@@ -560,6 +560,10 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Էջանիշեր
+library-bookmarks-bookmark-this-page =
+    .label = Էջանշել այս էջը
+library-bookmarks-bookmark-edit =
+    .label = Խմբագրել այս էջանիշը
 
 ## More items
 
