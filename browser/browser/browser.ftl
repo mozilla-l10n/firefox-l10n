@@ -497,6 +497,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Zobrazí více záložek
 bookmarks-sidebar-content =
     .aria-label = Záložky
+bookmarks-menu-button =
+    .label = Nabídka záložek
+bookmarks-other-bookmarks-menu =
+    .label = Ostatní záložky
+bookmarks-mobile-bookmarks-menu =
+    .label = Záložky z mobilu
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skrýt postranní lištu záložek
+           *[other] Zobrazit v postranní liště
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skrýt lištu záložek
+           *[other] Zobrazit lištu záložek
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Odebrat nabídku záložek z lišty
+           *[other] Přidat nabídku záložek na lištu
+        }
+bookmarks-search =
+    .label = Hledat v záložkách
+bookmarks-tools =
+    .label = Nástroje pro práci se záložkami
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Lišta záložek
+    .accesskey = z
+    .aria-label = Záložky
 bookmarks-toolbar-menu =
     .label = Lišta záložek
 bookmarks-toolbar-placeholder =
@@ -506,8 +541,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Záložky
 library-bookmarks-bookmark-this-page =
     .label = Přidat stránku do záložek
+library-bookmarks-bookmark-edit =
+    .label = Upravit záložku
 
 ## More items
 
