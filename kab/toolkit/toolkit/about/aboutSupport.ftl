@@ -185,6 +185,7 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Izegrar n wis kraḍ
 support-third-party-modules-module = Isem n uzegrir
 support-third-party-modules-version = Lqem n ufaylu
 support-third-party-modules-vendor = Talɣut n umsenzi
