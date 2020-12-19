@@ -293,6 +293,8 @@ pointerlock-warning-no-domain = Esti documentu tien el control del to punteru. P
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Amosar tolos marcadores
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar más marcadores
 bookmarks-toolbar-menu =
@@ -304,6 +306,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Amestar esta páxina a marcadores
 
 ## More items
 
