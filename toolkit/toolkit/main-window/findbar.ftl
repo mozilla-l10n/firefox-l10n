@@ -11,7 +11,7 @@ findbar-previous =
     .tooltiptext = Find the previous occurrence of the phrase
 
 findbar-find-button-close =
-    .tooltiptext = Close Find bar
+    .tooltiptext = Close find bar
 
 findbar-highlight-all2 =
     .label = Highlight All
