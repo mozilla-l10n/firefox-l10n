@@ -550,6 +550,13 @@ bookmarks-search =
     .label = Chwilio'r Nodau Tudalen
 bookmarks-tools =
     .label = Offer Nodau Tudalen
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bar Offer Nodau Tudalen
+    .accesskey = N
+    .aria-label = Nodau Tudalen
 bookmarks-toolbar-menu =
     .label = Bar Offer Nodau Tudalen
 bookmarks-toolbar-placeholder =
