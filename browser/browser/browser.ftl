@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Šis dokumentas valdo jūsų žymeklį. Spustel�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Kiti adresai
 bookmarks-sidebar-content =
     .aria-label = Adresynas
 bookmarks-toolbar-menu =
