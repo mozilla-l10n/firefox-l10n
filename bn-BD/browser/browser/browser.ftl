@@ -382,8 +382,16 @@ bookmarks-tools-toolbar-visibility =
             [true] বুকমার্ক টুলবার লুকাও
            *[other] বুকমার্ক টুলবার প্রদর্শন
         }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] টুলবার থেকে বুকমার্ক মেনু অপসারণ
+           *[other] টুলবারে বুকমার্ক মেনু যোগ করুন
+        }
 bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান
+bookmarks-tools =
+    .label = বুকমার্ক টুলসমূহ
 bookmarks-toolbar-menu =
     .label = বুকমার্ক টুলবার B
 bookmarks-toolbar-placeholder =
