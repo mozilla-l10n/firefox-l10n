@@ -518,8 +518,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Dalše zapołožki pokazać
 bookmarks-sidebar-content =
     .aria-label = Zapołožki
+bookmarks-menu-button =
+    .label = Meni zapołožkow
+bookmarks-other-bookmarks-menu =
+    .label = Druhe zapołožki
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobilne zapołožki
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Bóčnicu zapołožkow schować
+           *[other] Bóčnicu zapołožkow pokazać
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Lajstu zapołožkow schować
+           *[other] Lajstu zapołožkow pokazać
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Meni zapołožkow ze symboloweje lajsty wotstronić
+           *[other] Symbolowej lajsće meni zapołožkow přidać
+        }
 bookmarks-search =
     .label = Zapołožki pytać
+bookmarks-tools =
+    .label = Nastroje za zapołožki
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Lajsta zapołožkow
+    .accesskey = L
+    .aria-label = Zapołožki
 bookmarks-toolbar-menu =
     .label = Lajsta zapołožkow
 bookmarks-toolbar-placeholder =
@@ -529,6 +562,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Zapołožki
 library-bookmarks-bookmark-this-page =
     .label = Tutu stronu jako zapołožku składować
 library-bookmarks-bookmark-edit =
@@ -536,3 +571,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Offline dźěłać
+    .accesskey = O
