@@ -125,6 +125,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Bigire
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -151,5 +154,32 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = Here navnîşana di Darikê Cihî de
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Darikê Amûran a Bijareyan
+bookmarks-toolbar-placeholder =
+    .title = Nîşaneyên Bijareyan
+bookmarks-toolbar-placeholder-button =
+    .label = Nîşaneyên Bijareyan
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Negirêdayî Bixebite
+    .accesskey = x
