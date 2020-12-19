@@ -364,6 +364,18 @@ bookmarks-toolbar-chevron =
     .tooltiptext = আরও বুকমার্ক প্রদর্শন
 bookmarks-sidebar-content =
     .aria-label = বুকমার্ক
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক সাইডবার লুকাও
+           *[other] বুকমার্ক সাইডবার প্রদর্শন
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক টুলবার লুকাও
+           *[other] বুকমার্ক টুলবার প্রদর্শন
+        }
 bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান
 bookmarks-toolbar-menu =
