@@ -516,6 +516,8 @@ pointerlock-warning-no-domain = Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pw
 
 bookmarks-toolbar-chevron =
     .tooltiptext = Dangos pob ffolder nod tudalen
+bookmarks-sidebar-content =
+    .aria-label = Nodau Tudalen
 bookmarks-toolbar-menu =
     .label = Bar Offer Nodau Tudalen
 bookmarks-toolbar-placeholder =
