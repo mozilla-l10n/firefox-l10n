@@ -207,6 +207,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बन्द खालाम
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -258,3 +261,25 @@ urlbar-result-action-visit = थां
 fullscreen-exit-button = आबुं स्क्रिन निफ्राय ओंखार लां (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = आबुं स्क्रिन निफ्राय ओंखार लां (esc)
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-chevron =
+    .tooltiptext = गोबां बुकमार्कखौ दिन्थि
+bookmarks-sidebar-content =
+    .aria-label = बुकमार्क
+bookmarks-toolbar-placeholder =
+    .title = बुकमार्क टुलबार आइटेमफोर
+bookmarks-toolbar-placeholder-button =
+    .label = बुकमार्क टुलबार आइटेमफोर
+
+## Library Panel items
+
+library-bookmarks-bookmark-edit =
+    .label = बे बुकमार्कखौ सुजु
+
+## More items
+
+more-menu-go-offline =
+    .label = खामानि अफलाइन
+    .accesskey = k
