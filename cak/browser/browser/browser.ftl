@@ -506,9 +506,25 @@ pointerlock-warning-no-domain = Re ruxaq wuj re' chajin ruma ri retal ch'oy. Tap
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Kek'ut konojel ri taq yaketal
+bookmarks-recent-bookmarks =
+    .value = K'a nimakol tiya' ketal
+bookmarks-toolbar-chevron =
+    .tooltiptext = Kek'ut pe ch'aqa' chik taq yaketal
+bookmarks-toolbar-menu =
+    .label = Kicholob'al taq kisamajib'al taq yaketal
+bookmarks-toolbar-placeholder =
+    .title = Ruch'akulal taq kiyaketal cholsamajib'äl
+bookmarks-toolbar-placeholder-button =
+    .label = Ruch'akulal taq kiyaketal cholsamajib'äl
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Titz'aqatisäx re ruxaq re' pa taq yaketal
+library-bookmarks-bookmark-edit =
+    .label = Tinuk' re yaketal re'
 
 ## More items
 
