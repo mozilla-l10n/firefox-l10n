@@ -264,9 +264,22 @@ fullscreen-exit-mac-button = आबुं स्क्रिन निफ्र�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = गासै बुकमार्कखौ दिन्थि
 bookmarks-toolbar-chevron =
     .tooltiptext = गोबां बुकमार्कखौ दिन्थि
 bookmarks-sidebar-content =
+    .aria-label = बुकमार्क
+bookmarks-mobile-bookmarks-menu =
+    .label = मबाइल बुकमार्कफोर
+bookmarks-search =
+    .label = बुकमार्कफोरखौ नागिर
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = बुकमार्क टुलबार
+    .accesskey = B
     .aria-label = बुकमार्क
 bookmarks-toolbar-menu =
     .label = बुकमार्क टुलबार
@@ -277,6 +290,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = बुकमाकॅफोर
 library-bookmarks-bookmark-this-page =
     .label = बे बिलाइखौ बुकमार्क हो...
 library-bookmarks-bookmark-edit =
