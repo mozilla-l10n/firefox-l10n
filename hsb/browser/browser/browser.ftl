@@ -507,3 +507,32 @@ fullscreen-exit-mac-button = Połnu wobrazowku (esc) skónčić
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ma kontrolu nad wašim pokazowakom. Tłóčće Esc, zo byšće kontrolu wróćo dóstał.
 pointerlock-warning-no-domain = Tutón dokument ma kontrolu nad wašim pokazowakom. Tłóčće Esc, zo byšće kontrolu wróćo dóstał.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Wšě zapołožki pokazać
+bookmarks-recent-bookmarks =
+    .value = Njedawno jako zapołožka wotpołoženy
+bookmarks-toolbar-chevron =
+    .tooltiptext = Dalše zapołožki pokazać
+bookmarks-sidebar-content =
+    .aria-label = Zapołožki
+bookmarks-search =
+    .label = Zapołožki pytać
+bookmarks-toolbar-menu =
+    .label = Lajsta zapołožkow
+bookmarks-toolbar-placeholder =
+    .title = Zapiski lajsty zapołožkow
+bookmarks-toolbar-placeholder-button =
+    .label = Zapiski lajsty zapołožkow
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Tutu stronu jako zapołožku składować
+library-bookmarks-bookmark-edit =
+    .label = Tutu zapołožku wobdźěłać
+
+## More items
+
