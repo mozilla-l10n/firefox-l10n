@@ -203,6 +203,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Затвора
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -266,3 +269,23 @@ fullscreen-exit-mac-button = Излези од приказ на цел екра
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> го контролира вашиот покажувач. Притиснете Esc за да ја преземете контролата.
 pointerlock-warning-no-domain = Овој документ ви ја презема контролата врз покажувачот. Притиснете Esc за да си ја вратите.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Алатник со обележувачи
+bookmarks-toolbar-placeholder =
+    .title = Ставки во алатникот со обележувачи
+bookmarks-toolbar-placeholder-button =
+    .label = Ставки во алатникот со обележувачи
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Обележи ја оваа страница
+
+## More items
+
+more-menu-go-offline =
+    .label = Работи локално
+    .accesskey = Р
