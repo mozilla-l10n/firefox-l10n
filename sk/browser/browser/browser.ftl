@@ -430,6 +430,10 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Zobraziť všetky záložky
+bookmarks-toolbar-chevron =
+    .tooltiptext = Zobraziť ďalšie záložky
 bookmarks-toolbar-menu =
     .label = Panel záložiek
 bookmarks-toolbar-placeholder =
