@@ -516,6 +516,10 @@ bookmarks-sidebar-content =
     .aria-label = Lesezeichen
 bookmarks-menu-button =
     .label = Lesezeichen-Menü
+bookmarks-other-bookmarks-menu =
+    .label = Weitere Lesezeichen
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobile Lesezeichen
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
