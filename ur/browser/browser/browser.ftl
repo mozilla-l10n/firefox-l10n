@@ -421,11 +421,67 @@ pointerlock-warning-no-domain = اس دستاویز کہ پاس آپ کہ نشا
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = تمام بک مارک دکھائیں
+bookmarks-recent-bookmarks =
+    .value = حالیہ بک مارک کردہ
+bookmarks-toolbar-chevron =
+    .tooltiptext = مزید بک مارک دکھائیں
+bookmarks-sidebar-content =
+    .aria-label = بک مارک
+bookmarks-menu-button =
+    .label = بک مارک مینیو
+bookmarks-other-bookmarks-menu =
+    .label = دیگر بک مارک
+bookmarks-mobile-bookmarks-menu =
+    .label = موبائل بک مارک
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] بک مارک سائڈبار چھپائیں
+           *[other] بغلی بار میں بک مارک دیکھیں
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] بک مارک ٹولبار چھپائیں
+           *[other] بک مارک ٹولبار دیکھیں
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] بک مارک مینو کو ٹولبار سے ہٹائے
+           *[other] بک مارک مینو کو ٹولبار میں شامل کریں
+        }
+bookmarks-search =
+    .label = بک مارک تلاش کریں
+bookmarks-tools =
+    .label = بک مارک ٹول
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = بک مارک ٹولبار
+    .accesskey = B
+    .aria-label = بک مارکس
+bookmarks-toolbar-menu =
+    .label = بک مارک ٹولبار
+bookmarks-toolbar-placeholder =
+    .title = ٹولبار اشیاہ کو بک مارک کگاتا ہے
+bookmarks-toolbar-placeholder-button =
+    .label = ٹولبار اشیاہ کو بک مارک کگاتا ہے
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = بک مارک
 library-bookmarks-bookmark-this-page =
     .label = یہ صفحہ نشان زد کریں
+library-bookmarks-bookmark-edit =
+    .label = اس بک مارک کی تدوین کریں
 
 ## More items
 
+more-menu-go-offline =
+    .label = آف لائن کام کریں
+    .accesskey = k
