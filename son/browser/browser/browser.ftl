@@ -284,6 +284,8 @@ pointerlock-warning-no-domain = Takaddaa woo ga war cebejiyoo juwal. Esc naagu k
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Doo-šilbawey kul cebe
 bookmarks-toolbar-chevron =
     .tooltiptext = Doo-šilbay tontoney cebe
 bookmarks-toolbar-menu =
