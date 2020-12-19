@@ -288,6 +288,8 @@ bookmarks-show-all-bookmarks =
     .label = Doo-šilbawey kul cebe
 bookmarks-toolbar-chevron =
     .tooltiptext = Doo-šilbay tontoney cebe
+bookmarks-sidebar-content =
+    .aria-label = Doo-šilbawey
 bookmarks-toolbar-menu =
     .label = Doo-šilbawey goyjinay žeeri
 bookmarks-toolbar-placeholder =
@@ -302,3 +304,6 @@ library-bookmarks-bookmark-this-page =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Goy bila nda cinari
+    .accesskey = G
