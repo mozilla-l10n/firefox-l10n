@@ -503,3 +503,43 @@ fullscreen-exit-mac-button = Bandunar il modus da maletg entir (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> controllescha il punctader. Smatga ESC per reacquistar la controlla.
 pointerlock-warning-no-domain = Quest document controllescha il punctader. Smatga ESC per reacquistar la controlla.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Mussar tut ils segnapaginas
+bookmarks-recent-bookmarks =
+    .value = Tschernì dacurt sco segnapagina
+bookmarks-toolbar-chevron =
+    .tooltiptext = Mussar dapli segnapaginas
+bookmarks-menu-button =
+    .label = Menu da segnapaginas
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Zuppentar la trav laterala da segnapaginas
+           *[other] Mussar la trav laterala da segnapaginas
+        }
+bookmarks-search =
+    .label = Tschertgar en ils segnapaginas
+bookmarks-toolbar-menu =
+    .label = Trav d'utensils dals segnapaginas
+bookmarks-toolbar-placeholder =
+    .title = Simbols dals segnapaginas
+bookmarks-toolbar-placeholder-button =
+    .label = Simbols dals segnapaginas
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Segnapaginas
+library-bookmarks-bookmark-this-page =
+    .label = Agiuntar in segnapagina…
+library-bookmarks-bookmark-edit =
+    .label = Modifitgar quest segnapagina
+
+## More items
+
+more-menu-go-offline =
+    .label = Lavurar offline
+    .accesskey = o
