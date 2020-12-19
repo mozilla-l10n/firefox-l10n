@@ -471,3 +471,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Աշխատել անցանց
+    .accesskey = տ
