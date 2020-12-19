@@ -502,3 +502,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Magtrabaho nang Offline
+    .accesskey = k
