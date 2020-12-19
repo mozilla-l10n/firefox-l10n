@@ -143,6 +143,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Serra
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 
@@ -164,6 +167,15 @@ urlbar-switch-to-tab =
 urlbar-extension =
     .value = Agiunta:
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -174,3 +186,34 @@ fullscreen-warning-no-domain = Custu documentu s'ammustrat como in mannària pre
 fullscreen-exit-button = Essi dae sa mannària prena (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Ammustra totu sos signa-libros
+bookmarks-recent-bookmarks =
+    .value = Postu de reghente in sos signa-libros
+bookmarks-toolbar-chevron =
+    .tooltiptext = Ammustra àteros signa-libros
+bookmarks-sidebar-content =
+    .aria-label = Signa-libros
+bookmarks-other-bookmarks-menu =
+    .label = Àteros signa-libros
+bookmarks-mobile-bookmarks-menu =
+    .label = Signa-libros mòbiles
+bookmarks-toolbar-menu =
+    .label = Barra de signa-libros
+bookmarks-toolbar-placeholder =
+    .title = Elementos de sa barra de signa-libros
+bookmarks-toolbar-placeholder-button =
+    .label = Elementos de sa barra de signa-libros
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Pone custa pàgina in sos signa-libros
+library-bookmarks-bookmark-edit =
+    .label = Modìfica custu signa-libru
+
+## More items
+
