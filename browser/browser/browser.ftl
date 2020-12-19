@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Bu belge işaretçinizi kontrol ediyor. Kontrol�
 
 bookmarks-show-all-bookmarks =
     .label = Tüm yer imlerini göster
+bookmarks-recent-bookmarks =
+    .value = Yer imlerine yeni eklenenler
 bookmarks-toolbar-chevron =
     .tooltiptext = Daha fazla yer imi göster
 bookmarks-sidebar-content =
@@ -540,6 +542,19 @@ bookmarks-search =
     .label = Yer imlerinde ara
 bookmarks-tools =
     .label = Yer imi araçları
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Yer imleri araç çubuğu
+    .accesskey = Y
+    .aria-label = Yer imleri
+bookmarks-toolbar-menu =
+    .label = Yer imleri araç çubuğu
+bookmarks-toolbar-placeholder =
+    .title = Yer imleri araç çubuğu öğeleri
+bookmarks-toolbar-placeholder-button =
+    .label = Yer imleri araç çubuğu öğeleri
 
 ## Library Panel items
 
@@ -552,3 +567,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Çevrimdışı çalış
+    .accesskey = d
