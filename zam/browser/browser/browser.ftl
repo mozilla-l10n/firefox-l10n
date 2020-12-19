@@ -131,6 +131,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = TòɁw
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -177,3 +180,31 @@ fullscreen-warning-no-domain = Yêtz ré de loo lo narú
 fullscreen-exit-button = Mb-ròɁ lô (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Mb-lòɁ ré tá kó ndó~làz=ná
+bookmarks-recent-bookmarks =
+    .value = Ko pénta tón ná loo ndó~làz=ná
+bookmarks-toolbar-chevron =
+    .tooltiptext = Mb-lòɁ kó ndó~làz=ná
+bookmarks-sidebar-content =
+    .aria-label = Ndó~làz=ná
+bookmarks-toolbar-menu =
+    .label = Té tak güin ko ndó~làz=ná
+bookmarks-toolbar-placeholder =
+    .title = Té tak güin ko ndó~làz=ná
+bookmarks-toolbar-placeholder-button =
+    .label = Té tak güin ko ndó~làz=ná
+
+## Library Panel items
+
+library-bookmarks-bookmark-edit =
+    .label = Tùs kùe Ndó~làz=ná
+
+## More items
+
+more-menu-go-offline =
+    .label = Kee xhin sin Internet
+    .accesskey = x
