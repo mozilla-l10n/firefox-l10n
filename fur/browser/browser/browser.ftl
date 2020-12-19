@@ -125,6 +125,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Siere
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -151,5 +154,44 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = Va al indiriç specificât inte sbare dai indiriçs
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Mostre ducj i segnelibris
+bookmarks-toolbar-chevron =
+    .tooltiptext = Fâs viodi altris segnelibris
+bookmarks-sidebar-content =
+    .aria-label = Segnelibris
+bookmarks-search =
+    .label = Cîr tai segnelibris
+bookmarks-toolbar-menu =
+    .label = Bande dai Segnelibris
+bookmarks-toolbar-placeholder =
+    .title = Elements de bande dai Segnelibris
+bookmarks-toolbar-placeholder-button =
+    .label = Elements de bande dai Segnelibris
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Zonte cheste pagjine ai segnelibris
+library-bookmarks-bookmark-edit =
+    .label = Modifiche chest segnelibri
+
+## More items
+
+more-menu-go-offline =
+    .label = Lavore fur linie
+    .accesskey = v
