@@ -50,6 +50,7 @@ printui-duplex-checkbox = 양쪽 면에 인쇄
 printui-options = 옵션
 printui-headers-footers-checkbox = 머리글 및 바닥글 인쇄
 printui-backgrounds-checkbox = 배경 인쇄
+printui-selection-checkbox = 선택 영역만 인쇄
 printui-color-mode-label = 색상 모드
 printui-color-mode-color = 컬러
 printui-color-mode-bw = 흑백
