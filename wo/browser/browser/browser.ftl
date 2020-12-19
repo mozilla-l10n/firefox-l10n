@@ -165,6 +165,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Soppali mandarga xët wile
 
 ## More items
 
