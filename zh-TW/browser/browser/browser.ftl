@@ -495,3 +495,18 @@ fullscreen-exit-mac-button = 離開全螢幕模式（Esc）
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 可控制您的滑鼠游標，按 Esc 取回控制權。
 pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc 取回控制權。
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = 書籤工具列
+bookmarks-toolbar-placeholder =
+    .title = 書籤工具列項目
+bookmarks-toolbar-placeholder-button =
+    .label = 書籤工具列項目
+
+## Library Panel items
+
+
+## More items
+
