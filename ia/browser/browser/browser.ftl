@@ -503,3 +503,63 @@ fullscreen-exit-mac-button = Exir del plen schermo (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> controla tu punctator. Preme Esc pro reprender le controlo.
 pointerlock-warning-no-domain = Iste documento controla tu punctator. Preme Esc pro reprender le controlo.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Monstrar tote le marcapaginas
+bookmarks-recent-bookmarks =
+    .value = Marcapaginas recente
+bookmarks-toolbar-chevron =
+    .tooltiptext = Monstrar plus marcapaginas
+bookmarks-sidebar-content =
+    .aria-label = Marcapaginas
+bookmarks-menu-button =
+    .label = Menu de marcapaginas
+bookmarks-other-bookmarks-menu =
+    .label = Altere marcapaginas
+bookmarks-mobile-bookmarks-menu =
+    .label = Marcapaginas del apparatos mobile
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Celar le barra lateral de marcapaginas
+           *[other] Vider le barra lateral de marcapaginas
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Celar le barra de marcapaginas
+           *[other] Vider le barra de marcapaginas
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Remover le menu de marcapaginas del barra
+           *[other] Adder le menu de marcapaginas al barra
+        }
+bookmarks-search =
+    .label = Cercar in le marcapaginas
+bookmarks-tools =
+    .label = Instrumentos de marcapaginas
+bookmarks-toolbar-menu =
+    .label = Barra de marcapaginas
+bookmarks-toolbar-placeholder =
+    .title = Elementos del barra de marcapaginas
+bookmarks-toolbar-placeholder-button =
+    .label = Elementos del barra de marcapaginas
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Marcapaginas
+library-bookmarks-bookmark-this-page =
+    .label = Adder un marcapaginas
+library-bookmarks-bookmark-edit =
+    .label = Modificar iste marcapaginas
+
+## More items
+
+more-menu-go-offline =
+    .label = Travaliar disconnectite
+    .accesskey = T
