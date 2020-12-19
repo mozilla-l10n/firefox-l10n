@@ -505,6 +505,43 @@ pointerlock-warning-no-domain = Kursori është nën kontrollin e kursorit tuaj.
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Shfaqni Krejt Faqerojtësit
+bookmarks-recent-bookmarks =
+    .value = Faqeruajtur Së Fundi
+bookmarks-toolbar-chevron =
+    .tooltiptext = Shfaqni më tepër faqerojtës
+bookmarks-sidebar-content =
+    .aria-label = Faqerojtës
+bookmarks-menu-button =
+    .label = Menu Faqerojtësish
+bookmarks-other-bookmarks-menu =
+    .label = Faqerojtës të Tjerë
+bookmarks-mobile-bookmarks-menu =
+    .label = Faqerojtës Celulari
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Fshihe Panelin e Faqerojtësve
+           *[other] Shihni Panel Faqerojtësish
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Hiqe Menunë e Faqerojtësve nga Paneli
+           *[other] Shtoje Menunë e Faqerojtësve te Paneli
+        }
+bookmarks-search =
+    .label = Kërkoni Te Faqerojtësit
+bookmarks-tools =
+    .label = Mjete Faqeruajtjeje
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Panel Faqerojtësish
+    .accesskey = F
+    .aria-label = Faqerojtës
 bookmarks-toolbar-menu =
     .label = Panel Faqerojtësish
 bookmarks-toolbar-placeholder =
@@ -514,6 +551,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Faqerojtës
+library-bookmarks-bookmark-this-page =
+    .label = Faqeruaje Këtë Faqe
+library-bookmarks-bookmark-edit =
+    .label = Përpunojeni Këtë Faqerojtës
 
 ## More items
 
