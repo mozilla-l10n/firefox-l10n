@@ -182,3 +182,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Di dwuma ɔflaen
+    .accesskey = l
