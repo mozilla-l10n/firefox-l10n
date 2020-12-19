@@ -330,6 +330,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zarrar
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -456,3 +459,31 @@ fullscreen-exit-mac-button = Salir d'a pantalla completa (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tien lo control d'o puntero. Prete Esc pa recuperar-ne lo control
 pointerlock-warning-no-domain = Iste documento tien lo control d'o puntero. Prete Esc pa recuperar-ne lo control.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Amostrar totz os marcapachinas
+bookmarks-toolbar-chevron =
+    .tooltiptext = Amostrar mas marcapachinas
+bookmarks-sidebar-content =
+    .aria-label = Marcapachinas
+bookmarks-toolbar-menu =
+    .label = Barra de ferramientas de marcapachinas
+bookmarks-toolbar-placeholder =
+    .title = Elementos d'a barra de ferramientas de marcapachinas
+bookmarks-toolbar-placeholder-button =
+    .label = Elementos d'a barra de ferramientas de marcapachinas
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Marcar ista pachina con marcapachinas
+library-bookmarks-bookmark-edit =
+    .label = Editar iste marcapachinas
+
+## More items
+
+more-menu-go-offline =
+    .label = Treballar difuera de linia
+    .accesskey = d
