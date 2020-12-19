@@ -517,20 +517,20 @@ bookmarks-sidebar-content =
 bookmarks-menu-button =
     .label = Umuɣ n tecraḍ n yisebtar
 bookmarks-other-bookmarks-menu =
-    .label = Ticraḍ-nniḍen
+    .label = Ticrad-nniḍen n yisebtar
 bookmarks-mobile-bookmarks-menu =
     .label = Ticraḍ n yisebtar n uziraz
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Ffer ticraḍ n yisebtar
+            [true] Ffer agalis n tecraḍ n yisebtar
            *[other] Sken agalis n tecraḍ n yisebtar
         }
 bookmarks-tools-toolbar-visibility =
     .label =
         { $isVisible ->
-            [true] Ffer afeggag n tecraḍ
-           *[other] Sken afeggag n tecraḍ
+            [true] Ffer afeggag n tecraḍ n yisebtar
+           *[other] Sken afeggag n tecraḍ n yisebtar
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -541,20 +541,20 @@ bookmarks-tools-menu-button-visibility =
 bookmarks-search =
     .label = Nadi ticraḍ n yisebtar
 bookmarks-tools =
-    .label = Ifecka n tecraḍ
+    .label = Ifecka n tecraḍ n yisebtar
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Afeggag n tecraḍ
-    .accesskey = d
-    .aria-label = Ticraḍ n isebtar
+    .toolbarname = Afeggag n tecraḍ n yisebtar
+    .accesskey = B
+    .aria-label = Ticraḍ n yisebtar
 bookmarks-toolbar-menu =
-    .label = Afeggag n tecraḍ
+    .label = Afeggag n tecraḍ n yisebtar
 bookmarks-toolbar-placeholder =
-    .title = Iferdisen n ufeggag n tecraḍ
+    .title = Iferdisen n ufeggag n tecraḍ n yisebtar
 bookmarks-toolbar-placeholder-button =
-    .label = Iferdisen n ufeggag n tecraḍ
+    .label = Iferdisen n ufeggag n tecraḍ n yisebtar
 
 ## Library Panel items
 
@@ -568,5 +568,5 @@ library-bookmarks-bookmark-edit =
 ## More items
 
 more-menu-go-offline =
-    .label = Xdem war tuqqna
-    .accesskey = q
+    .label = Mahel war tuqqna
+    .accesskey = k
