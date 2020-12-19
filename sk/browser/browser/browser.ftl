@@ -427,3 +427,21 @@ fullscreen-exit-mac-button = Ukončiť režim celej obrazovky (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> má kontrolu nad vaším kurzorom. Ovládanie kurzora prevezmete stlačením klávesu Esc.
 pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom. Ovládanie kurzora prevezmete stlačením klávesu Esc.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Panel záložiek
+bookmarks-toolbar-placeholder =
+    .title = Položky panela záložiek
+bookmarks-toolbar-placeholder-button =
+    .label = Položky panela záložiek
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Pracovať offline
+    .accesskey = f
