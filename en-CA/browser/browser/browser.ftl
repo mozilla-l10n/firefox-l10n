@@ -500,6 +500,10 @@ pointerlock-warning-no-domain = This document has control of your pointer. Press
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Show All Bookmarks
+bookmarks-toolbar-chevron =
+    .tooltiptext = Show more bookmarks
 bookmarks-sidebar-content =
     .aria-label = Bookmarks
 bookmarks-toolbar-menu =
