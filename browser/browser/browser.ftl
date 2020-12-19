@@ -506,6 +506,10 @@ pointerlock-warning-no-domain = Aqueste document a lo contraròtle sul vòstre g
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Afichar totes los marcapaginas
+bookmarks-sidebar-content =
+    .aria-label = Marcapaginas
 bookmarks-toolbar-placeholder =
     .title = Elements de la barra personala
 bookmarks-toolbar-placeholder-button =
