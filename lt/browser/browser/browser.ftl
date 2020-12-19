@@ -505,3 +505,23 @@ fullscreen-exit-mac-button = Grįžti iš viso ekrano (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.
 pointerlock-warning-no-domain = Šis dokumentas valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Adresynas
+bookmarks-toolbar-menu =
+    .label = Adresyno juosta
+bookmarks-toolbar-placeholder =
+    .title = Adresyno juostos elementai
+bookmarks-toolbar-placeholder-button =
+    .label = Adresyno juostos elementai
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Atsijungti nuo tinklo
+    .accesskey = t
