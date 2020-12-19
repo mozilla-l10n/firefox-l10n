@@ -313,6 +313,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Dùin
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -384,3 +387,27 @@ fullscreen-exit-mac-button = Fàg an làn-sgrìn (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = Tha smachd aig <span data-l10n-name="domain">{ $domain }</span> air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.
 pointerlock-warning-no-domain = Tha smachd aig an sgrìobhainn seo air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Seall a h-uile comharra-lìn
+bookmarks-toolbar-chevron =
+    .tooltiptext = Tuilleadh chomharran-lìn
+bookmarks-sidebar-content =
+    .aria-label = Comharran-lìn
+bookmarks-toolbar-menu =
+    .label = Bàr nan comharra-lìn
+bookmarks-toolbar-placeholder =
+    .title = Rudan air bàr nan comharra-lìn
+bookmarks-toolbar-placeholder-button =
+    .label = Rudan air bàr nan comharra-lìn
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Obraich far loidhne
+    .accesskey = O
