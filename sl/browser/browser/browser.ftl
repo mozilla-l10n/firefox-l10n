@@ -497,3 +497,28 @@ fullscreen-exit-mac-button = Izhod iz celozaslonskega načina (Esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ima nadzor nad vašim kazalcem. Pritisnite Esc za ponovni prevzem nadzora.
 pointerlock-warning-no-domain = Ta dokument ima nadzor nad vašim kazalcem. Pritisnite Esc za ponovni prevzem nadzora.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Prikaži vse zaznamke
+bookmarks-toolbar-chevron =
+    .tooltiptext = Prikaži več zaznamkov
+bookmarks-sidebar-content =
+    .aria-label = Zaznamki
+bookmarks-toolbar-menu =
+    .label = Vrstica zaznamkov
+bookmarks-toolbar-placeholder =
+    .title = Predmeti orodne vrstice z zaznamki
+bookmarks-toolbar-placeholder-button =
+    .label = Predmeti orodne vrstice z zaznamki
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Dodaj stran med zaznamke
+library-bookmarks-bookmark-edit =
+    .label = Uredi ta zaznamek
+
+## More items
+
