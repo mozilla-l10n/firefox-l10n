@@ -293,6 +293,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Sulge
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -366,3 +369,30 @@ fullscreen-exit-mac-button = Välju täisekraanirežiimist (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = Sait <span data-l10n-name="domain">{ $domain }</span> kontrollib sinu kursori tegevust. Kontrolli tagasivõtmiseks vajuta klahvile Esc.
 pointerlock-warning-no-domain = See dokument kontrollib sinu kursori tegevust. Kontrolli tagasivõtmiseks vajuta klahvile Esc.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-menu-button =
+    .label = Järjehoidjate menüü
+bookmarks-other-bookmarks-menu =
+    .label = Muud järjehoidjad
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobiilsed järjehoidjad
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Eemalda järjehoidjate menüü tööriistaribalt
+           *[other] Lisa järjehoidjate menüü tööriistaribale
+        }
+bookmarks-search =
+    .label = Otsi järjehoidjatest
+bookmarks-tools =
+    .label = Järjehoidjate tööriistad
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Järjehoidjad
+
+## More items
+
