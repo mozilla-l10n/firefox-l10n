@@ -447,11 +447,27 @@ bookmarks-sidebar-content =
     .aria-label = ఇష్టాంశాలు
 bookmarks-menu-button =
     .label = ఇష్టాంశాల మెనూ
+bookmarks-other-bookmarks-menu =
+    .label = ఇతర ఇష్టాంశాలు
+bookmarks-mobile-bookmarks-menu =
+    .label = మొబైలు ఇష్టాంశాలు
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] ఇష్టాంశాల ప్రక్కపట్టీని దాచు
            *[other] ఇష్టాంశాల ప్రక్కపట్టీని చూడండి
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ఇష్టాంశాల పనిముట్లపట్టీని దాచు
+           *[other] ఇష్టాంశాల పట్టీని చూడండి
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ఉపకరణపట్టీ నుండి ఇష్టాంశాల మెనుని తీసివేయండి
+           *[other] ఉపకరణపట్టీకి ఇష్టాంశాల మెనూని జోడించండి
         }
 bookmarks-search =
     .label = ఇష్టాంశాలను వెతకండి
