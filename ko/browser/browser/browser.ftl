@@ -500,11 +500,29 @@ pointerlock-warning-no-domain = 이 문서가 포인터를 제어하려 합니�
 
 bookmarks-show-all-bookmarks =
     .label = 모든 북마크 보기
+bookmarks-recent-bookmarks =
+    .value = 최근 북마크됨
 bookmarks-sidebar-content =
     .aria-label = 북마크
+bookmarks-menu-button =
+    .label = 북마크 메뉴
+bookmarks-other-bookmarks-menu =
+    .label = 다른 북마크
+bookmarks-mobile-bookmarks-menu =
+    .label = 모바일 북마크
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] 도구 모음에서 북마크 메뉴 제거
+           *[other] 도구 모음에 북마크 메뉴 추가
+        }
+bookmarks-tools =
+    .label = 북마크 도구
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = 북마크
 library-bookmarks-bookmark-edit =
     .label = 이 북마크 편집
 
