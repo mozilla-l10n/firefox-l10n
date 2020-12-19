@@ -512,6 +512,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Vis fleire bokmerke
 bookmarks-sidebar-content =
     .aria-label = Bokmerke
+bookmarks-menu-button =
+    .label = Bokmerkemeny
+bookmarks-other-bookmarks-menu =
+    .label = Andre bokmerke
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobile bokmerke
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Gøym bokmerkesidestolpen
+           *[other] Vis sidestolpe for bokmerke
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Gøym bokmerkeverktøylinja
+           *[other] Vis verktøylinje for bokmerke
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Fjern bokmerkemeny frå verktøylinja
+           *[other] Legg til bokmerkemeny i verktøylinja
+        }
+bookmarks-search =
+    .label = Søk i bokmerke
+bookmarks-tools =
+    .label = Verktøy for bokmerke
 bookmarks-toolbar-menu =
     .label = Bokmerke
 bookmarks-toolbar-placeholder =
@@ -521,6 +549,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Bokmerke
 library-bookmarks-bookmark-this-page =
     .label = Bokmerk denne sida
 library-bookmarks-bookmark-edit =
