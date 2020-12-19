@@ -424,6 +424,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = এই পৃষ্ঠা পত্ৰচিহ্নিত কৰক
+library-bookmarks-bookmark-edit =
+    .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
 
 ## More items
 
