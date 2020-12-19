@@ -508,9 +508,15 @@ pointerlock-warning-no-domain = Гэты дакумент кіруе вашым 
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Паказаць усе закладкі
+bookmarks-toolbar-chevron =
+    .tooltiptext = Паказаць больш закладак
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Правіць гэтую закладку
 
 ## More items
 
