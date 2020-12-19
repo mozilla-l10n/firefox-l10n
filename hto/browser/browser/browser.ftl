@@ -87,6 +87,9 @@ identity-more-info-link-text =
 browser-window-close-button =
     .tooltiptext = Ɨ́baide
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -126,4 +129,15 @@ urlbar-result-action-search-w-engine = Biedo jéno { $engine }
 
 
 ## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Rɨgɨnoga
+
+## Library Panel items
+
+
+## More items
 
