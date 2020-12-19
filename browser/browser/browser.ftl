@@ -544,6 +544,13 @@ bookmarks-search =
     .label = Претражи забелешке
 bookmarks-tools =
     .label = Алатке за забелешке
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Трака са забелешкама
+    .accesskey = з
+    .aria-label = Ознаке
 bookmarks-toolbar-menu =
     .label = Трака са забелешкама
 bookmarks-toolbar-placeholder =
