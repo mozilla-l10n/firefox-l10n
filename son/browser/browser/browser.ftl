@@ -286,10 +286,18 @@ pointerlock-warning-no-domain = Takaddaa woo ga war cebejiyoo juwal. Esc naagu k
 
 bookmarks-show-all-bookmarks =
     .label = Doo-šilbawey kul cebe
+bookmarks-recent-bookmarks =
+    .value = Kokor doo-šilbantey
 bookmarks-toolbar-chevron =
     .tooltiptext = Doo-šilbay tontoney cebe
 bookmarks-sidebar-content =
     .aria-label = Doo-šilbawey
+bookmarks-other-bookmarks-menu =
+    .label = Doo-šilbay taaney
+bookmarks-mobile-bookmarks-menu =
+    .label = Doo-šilbay dirantey
+bookmarks-search =
+    .label = Doo-šilbawey ceeci
 bookmarks-toolbar-menu =
     .label = Doo-šilbawey goyjinay žeeri
 bookmarks-toolbar-placeholder =
@@ -301,6 +309,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Moɲoo woo šilbay
+library-bookmarks-bookmark-edit =
+    .label = Doo-šilbaa woo fasal
 
 ## More items
 
