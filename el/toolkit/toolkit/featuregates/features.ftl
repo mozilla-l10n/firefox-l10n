@@ -98,3 +98,6 @@ experimental-features-fission-description = Το Fission (απομόνωση ι�
 experimental-features-multi-pip =
     .label = Υποστήριξη πολλαπλών παραθύρων εικόνας-εντός-εικόνας
 experimental-features-multi-pip-description = Πειραματική υποστήριξη για άνοιγμα πολλαπλών παραθύρων εικόνας-εντός-εικόνας ταυτόχρονα.
+experimental-features-http3 =
+    .label = Πρωτόκολλο HTTP/3
+experimental-features-http3-description = Πειραματική υποστήριξη για το πρωτόκολλο HTTP/3.
