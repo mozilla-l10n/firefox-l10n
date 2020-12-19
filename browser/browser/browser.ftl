@@ -504,6 +504,12 @@ pointerlock-warning-no-domain = למסמך זה יש שליטה על הסמן ש
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = הצגת כל הסימניות
+bookmarks-toolbar-chevron =
+    .tooltiptext = הצגת סימניות נוספות
+bookmarks-sidebar-content =
+    .aria-label = סימניות
 bookmarks-toolbar-menu =
     .label = סרגל כלים סימניות
 bookmarks-toolbar-placeholder =
@@ -513,6 +519,11 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = עריכת סימנייה זו
 
 ## More items
 
+more-menu-go-offline =
+    .label = עבודה לא־מקוונת
+    .accesskey = ל
