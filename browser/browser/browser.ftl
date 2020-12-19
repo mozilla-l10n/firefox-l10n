@@ -502,6 +502,8 @@ bookmarks-show-all-bookmarks =
     .label = 모든 북마크 보기
 bookmarks-recent-bookmarks =
     .value = 최근 북마크됨
+bookmarks-toolbar-chevron =
+    .tooltiptext = 북마크 더보기
 bookmarks-sidebar-content =
     .aria-label = 북마크
 bookmarks-menu-button =
@@ -510,19 +512,48 @@ bookmarks-other-bookmarks-menu =
     .label = 다른 북마크
 bookmarks-mobile-bookmarks-menu =
     .label = 모바일 북마크
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] 북마크 탐색창 숨기기
+           *[other] 북마크 탐색창 보기
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] 북마크 도구 모음 숨기기
+           *[other] 북마크 도구 모음 표시
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
             [true] 도구 모음에서 북마크 메뉴 제거
            *[other] 도구 모음에 북마크 메뉴 추가
         }
+bookmarks-search =
+    .label = 북마크 검색
 bookmarks-tools =
     .label = 북마크 도구
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = 북마크 도구 모음
+    .accesskey = B
+    .aria-label = 북마크
+bookmarks-toolbar-menu =
+    .label = 북마크 도구 모음
+bookmarks-toolbar-placeholder =
+    .title = 북마크 도구 모음 항목
+bookmarks-toolbar-placeholder-button =
+    .label = 북마크 도구 모음 항목
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = 북마크
+library-bookmarks-bookmark-this-page =
+    .label = 이 페이지 북마크
 library-bookmarks-bookmark-edit =
     .label = 이 북마크 편집
 
