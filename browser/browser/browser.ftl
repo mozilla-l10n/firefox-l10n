@@ -503,3 +503,14 @@ fullscreen-exit-mac-button = Sair da tela inteira (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tem controle de seu ponteiro. Pressione Esc para retomar o controle.
 pointerlock-warning-no-domain = Este documento tem o controle do seu ponteiro. Pressionar Esc para retomar o controle.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Favoritos
+
+## Library Panel items
+
+
+## More items
+
