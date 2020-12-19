@@ -338,8 +338,14 @@ pointerlock-warning-no-domain = ឯកសារនេះ​មាន​សិទ
 
 bookmarks-show-all-bookmarks =
     .label = បង្ហាញ​ចំណាំ​ទាំងអស់
+bookmarks-recent-bookmarks =
+    .value = ដែល​បាន​ចំណាំ​ថ្មីៗ
+bookmarks-toolbar-chevron =
+    .tooltiptext = បង្ហាញ​ចំណាំ​​ថែមទៀត
 bookmarks-sidebar-content =
     .aria-label = ចំណាំ
+bookmarks-toolbar-menu =
+    .label = របារ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-placeholder =
     .title = ធាតុ​របារ​ឧបករណ៍​​ចំណាំ
 bookmarks-toolbar-placeholder-button =
@@ -349,6 +355,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = ចំណាំ​ទំព័រ​នេះ
+library-bookmarks-bookmark-edit =
+    .label = កែ​សម្រួល​ចំណាំ​នេះ
 
 ## More items
 
