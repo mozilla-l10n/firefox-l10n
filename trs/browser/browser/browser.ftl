@@ -298,6 +298,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Narán
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -373,3 +376,22 @@ fullscreen-exit-mac-button = Nagi'iaj lij riña aga' sikà' ràa (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> hua a'ngo sa nikaj ñu'unj si punterôt. Ga'ui' Esc da' narit.
 pointerlock-warning-no-domain = Ñaj na nikaj ñu'unj si punterôt. Ga'ui' Esc da' narit.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Sa raj sun nichrò' doj
+bookmarks-menu-button =
+    .label = Menu raj sun nichrò doj
+bookmarks-other-bookmarks-menu =
+    .label = A'ngo sa raj sun nichrò' doj
+bookmarks-mobile-bookmarks-menu =
+    .label = Nej marcador aché
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Sa raj sun nichrò' doj
+
+## More items
+
