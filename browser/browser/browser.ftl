@@ -464,6 +464,8 @@ pointerlock-warning-no-domain = Iste documento tien lo control d'o puntero. Pret
 
 bookmarks-show-all-bookmarks =
     .label = Amostrar totz os marcapachinas
+bookmarks-recent-bookmarks =
+    .value = Pachinas marcadas recientment
 bookmarks-toolbar-chevron =
     .tooltiptext = Amostrar mas marcapachinas
 bookmarks-sidebar-content =
