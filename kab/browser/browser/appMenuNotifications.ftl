@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = Mačči tura
     .secondarybuttonaccesskey = N
+appmenu-update-other-instance-message = Yella lqem amaynut n { -brand-shorter-name }, maca ur yezmir ara ad yettusebded acku yella nɣel-nniḍen n { -brand-shorter-name } la iteddu. Mdel-it i wakken ad tkemmleḍ lqem, neɣ fren ɣas akken leqqem (nɣel-nni-nniḍen yezmer ur iteddu ara akken iwata alamma tulseḍ-as asenker).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ih, awi-t-id
     .buttonaccesskey = O
