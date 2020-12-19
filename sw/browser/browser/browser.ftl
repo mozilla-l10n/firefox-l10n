@@ -162,6 +162,8 @@ bookmarks-show-all-bookmarks =
     .label = Onyesha Alamisho Zote
 bookmarks-toolbar-chevron =
     .tooltiptext = Onyesha alamisho zaidi
+bookmarks-sidebar-content =
+    .aria-label = Vialamisho
 bookmarks-toolbar-menu =
     .label = Mwamba zana wa Alamisho
 bookmarks-toolbar-placeholder =
@@ -174,3 +176,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Fanya kazi Nje ya Mtandao
+    .accesskey = F
