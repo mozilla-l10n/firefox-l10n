@@ -50,6 +50,7 @@ printui-duplex-checkbox = 印在紙張的兩面
 printui-options = 選項
 printui-headers-footers-checkbox = 列印頁首與頁尾
 printui-backgrounds-checkbox = 列印背景
+printui-selection-checkbox = 只印選取範圍
 printui-color-mode-label = 色彩模式
 printui-color-mode-color = 彩色
 printui-color-mode-bw = 黑白

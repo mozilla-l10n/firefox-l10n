@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission（網站隔離）是 { -bran
 experimental-features-multi-pip =
     .label = 支援多組子母畫面
 experimental-features-multi-pip-description = 實驗性支援同時開啟多組子母畫面。
+experimental-features-http3 =
+    .label = HTTP/3 protocol
+experimental-features-http3-description = 實驗性支援 HTTP/3 通訊協定。
