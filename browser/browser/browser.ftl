@@ -360,6 +360,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Rādīt vairāk grāmatzīmju
 bookmarks-sidebar-content =
     .aria-label = Grāmatzīmes
+bookmarks-menu-button =
+    .label = Grāmatzīmju izvēlne
+bookmarks-other-bookmarks-menu =
+    .label = Citas grāmatzīmes
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobilās grāmatzīmes
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Paslēpt grāmatzīmju sānjoslu
+           *[other] Atvērt grāmatzīmes sānjoslā
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Paslēpt grāmatzīmju sānjoslu
+           *[other] Attēlo grāmatzīmes sānu joslā
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Aizvākt grāmatzīmju izvēlni no rīkjoslas
+           *[other] Pievienot grāmatzīmju izvēlni rīkjoslai
+        }
+bookmarks-search =
+    .label = Meklēt grāmatzīmes
+bookmarks-tools =
+    .label = Grāmatzīmju rīki
 bookmarks-toolbar-menu =
     .label = Grāmatzīmju rīkjosla
 bookmarks-toolbar-placeholder =
@@ -369,6 +397,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Grāmatzīmes
 library-bookmarks-bookmark-this-page =
     .label = Saglabāt šo lapu grāmatzīmēs
 library-bookmarks-bookmark-edit =
