@@ -500,6 +500,8 @@ pointerlock-warning-no-domain = マウスポインターは現在、このペー
 
 bookmarks-show-all-bookmarks =
     .label = すべてのブックマークを表示
+bookmarks-recent-bookmarks =
+    .value = 最近のブックマーク
 bookmarks-toolbar-chevron =
     .tooltiptext = 残りのブックマークを表示します
 bookmarks-sidebar-content =
@@ -532,6 +534,13 @@ bookmarks-search =
     .label = ブックマークを検索
 bookmarks-tools =
     .label = ブックマークツール
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = ブックマークツールバー
+    .accesskey = B
+    .aria-label = ブックマーク
 bookmarks-toolbar-menu =
     .label = ブックマークツールバー
 bookmarks-toolbar-placeholder =
