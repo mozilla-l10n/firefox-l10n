@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepeikaren.
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-recent-bookmarks =
+    .value = Nyleg bokmerkt
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis fleire bokmerke
 bookmarks-sidebar-content =
