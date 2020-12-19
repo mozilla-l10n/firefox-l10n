@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepekeren d
 
 bookmarks-show-all-bookmarks =
     .label = Vis alle bokmerker
+bookmarks-recent-bookmarks =
+    .value = Nylig bokmerket
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis flere bokmerker
 bookmarks-sidebar-content =
