@@ -503,3 +503,66 @@ fullscreen-exit-mac-button = Ելնել լիեկրանից (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ղեկավարում է Ձեր ցուցիչը: Սեղմէք Esc՝ ղեկավարումը յետ վերադարձնելու համար։
 pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարում է Ձեր ցուցիչը։ Սեղմէք Esc՝ ղեկավարումը յետ վերադարձնելու համար։
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Ցուցադրել բոլոր էջանիշերը
+bookmarks-recent-bookmarks =
+    .value = Վերջերս էջանշուած
+bookmarks-toolbar-chevron =
+    .tooltiptext = Ցուցադրել աւելի շատ էջանիշեր
+bookmarks-sidebar-content =
+    .aria-label = Էջանիշեր
+bookmarks-menu-button =
+    .label = Էջանիշերի ցանկ
+bookmarks-other-bookmarks-menu =
+    .label = Այլ Էջանիշեր
+bookmarks-mobile-bookmarks-menu =
+    .label = Բջջային էջանիշեր
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Թաքցնել էջանիշերի կողագաւտին
+           *[other] Դիտել էջանիշերի վահանակը
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Թաքցնել էջանիշերի գործիքագաւտին
+           *[other] Դիտել էջանիշերի վահանակը
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Հեռացնել էջանիշերի ցանկը գործիքագաւտուց
+           *[other] Աւելացնել էջանիշերի ցանկ գործիքագաւտիում
+        }
+bookmarks-search =
+    .label = Էջանիշերի որոնում
+bookmarks-tools =
+    .label = Էջանշելու գործիքներ
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Էջանիշերի վահանակ
+    .accesskey = B
+    .aria-label = Էջանիշեր
+bookmarks-toolbar-menu =
+    .label = Էջանիշերի վահանակ
+bookmarks-toolbar-placeholder =
+    .title = Էջանիշերի վահանակի տարրերը
+bookmarks-toolbar-placeholder-button =
+    .label = Էջանիշերի վահանակի տարրերը
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Էջանիշեր
+
+## More items
+
+more-menu-go-offline =
+    .label = Աշխատել անցանց
+    .accesskey = k
