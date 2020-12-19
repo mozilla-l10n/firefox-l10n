@@ -25,6 +25,10 @@ pill-aria-label =
         [one] { $email }: tecle Enter para editar, Del para remover.
        *[other] { $email }, 1 de { $count }: tecle Enter para editar, Del para remover.
     }
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } não é um endereço de email válido
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email } não está no seu catálogo de endereços
 pill-action-edit =
     .label = Editar endereço
     .accesskey = e
