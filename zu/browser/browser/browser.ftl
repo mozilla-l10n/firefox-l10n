@@ -115,6 +115,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Nciphisa
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -141,5 +144,35 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Bonisa wonke amaphawu wokubekisa
+bookmarks-toolbar-chevron =
+    .tooltiptext = Bonisa ukuphawulwa kokubonisa okungaphezulu
+bookmarks-sidebar-content =
+    .aria-label = Izimpawu zokubekisa
+bookmarks-toolbar-menu =
+    .label = Ibha yamathuluzi ezimpawu zokubekisa
+bookmarks-toolbar-placeholder =
+    .title = Izinto zebha yamathuluzi okuphawula
+bookmarks-toolbar-placeholder-button =
+    .label = Izinto zebha yamathuluzi okuphawula
+
+## Library Panel items
+
+
+## More items
 
