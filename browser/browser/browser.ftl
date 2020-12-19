@@ -508,8 +508,12 @@ pointerlock-warning-no-domain = Dokument kontroluje teraz kursor. Naciśnij klaw
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Wyświetl wszystkie zakładki
 bookmarks-recent-bookmarks =
     .value = Ostatnio dodane
+bookmarks-toolbar-chevron =
+    .tooltiptext = Wyświetl więcej zakładek
 bookmarks-sidebar-content =
     .aria-label = Zakładki
 
