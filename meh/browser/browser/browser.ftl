@@ -330,6 +330,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Kasɨ
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -435,14 +438,6 @@ urlbar-result-action-search-in-private = Nánuku nuu iin ventana yu´u
 urlbar-result-action-search-w-engine = Nánuku ji { $engine }
 urlbar-result-action-switch-tab = Sama su̱ku̱a
 urlbar-result-action-visit = Ne'en kune'ya
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Nánuku a ta´a ini noo´o
-urlbar-result-action-search-history = Nánuku historial
-urlbar-result-action-search-tabs = Nánuku sukua
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -451,6 +446,14 @@ urlbar-result-action-tabtosearch-web = Nánuku ji { $engine } barra nuu
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Nánuku ji { $engine } barra nuu
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Nánuku a ta´a ini noo´o
+urlbar-result-action-search-history = Nánuku historial
+urlbar-result-action-search-tabs = Nánuku sukua
 
 ## Full Screen and Pointer Lock UI
 
@@ -467,3 +470,66 @@ fullscreen-exit-mac-button = Kene nuu pantalla ka'nu (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tetiñu puntero noo'o. Kuaxin Esc sa kuvi nake'enuma.
 pointerlock-warning-no-domain = Documento ya'a kumi control puntero noo'o. Kuaxin Esc sa kuvi nake'enuma.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Xituvi kuaiyo a ta´a ini noo´o
+bookmarks-recent-bookmarks =
+    .value = A ta´a ini noo´o skuata ntee
+bookmarks-toolbar-chevron =
+    .tooltiptext = Xituvi kuaiyo a ta´a ini noo´o
+bookmarks-other-bookmarks-menu =
+    .label = Inka a ta´a ini noo´o
+bookmarks-mobile-bookmarks-menu =
+    .label = A ta´a ini noo´o móviles
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Chiyu'u barra kuá´á marcadores
+           *[other] Síne barra kuá´á marcadores
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Chiyu'u barra a ta´a ini noo´o
+           *[other] Kune'ya barra a ta´a ini noo´o
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Xita menú ta'an ini noo'o nu barra ka̱a̱
+           *[other] Tee menú ta'an ini noo'o nu barra ka̱a̱
+        }
+bookmarks-search =
+    .label = Nánuku a ta´a ini noo´o
+bookmarks-tools =
+    .label = Da ka̱a̱ ta'a ini noo'o
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = A ta´a ini noo´o
+    .accesskey = B
+    .aria-label = A ta´a ini noo´o
+bookmarks-toolbar-menu =
+    .label = A ta´a ini noo´o
+bookmarks-toolbar-placeholder =
+    .title = Nantiñu da barra marcadores
+bookmarks-toolbar-placeholder-button =
+    .label = Nantiñu da barra marcadores
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = A ta´a ini noo´o
+library-bookmarks-bookmark-this-page =
+    .label = Tee página ya´a nuu a ta´an ini noo´o
+library-bookmarks-bookmark-edit =
+    .label = Sama a ta´an ini noo´o ya´a
+
+## More items
+
+more-menu-go-offline =
+    .label = Satiñu nko conexión
+    .accesskey = S
