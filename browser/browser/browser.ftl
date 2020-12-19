@@ -360,6 +360,32 @@ bookmarks-toolbar-chevron =
     .tooltiptext = অতিরিক্ত বুকমার্ক প্রদর্শন করা হবে
 bookmarks-sidebar-content =
     .aria-label = বুকমার্ক
+bookmarks-other-bookmarks-menu =
+    .label = অন্যান্য বুকমার্ক
+bookmarks-mobile-bookmarks-menu =
+    .label = মোবাইলের বুকমার্কগুলি
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক সাইডবার লুকান
+           *[other] বুকমার্ক টুল-বার প্রদর্শন করা হবে
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক টুলবার লুকান
+           *[other] বুকমার্ক টুল-বার প্রদর্শন করা হবে
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক মেনুকে টুলবার থেকে সরান
+           *[other] বুকমার্ক মেনুকে টুলবারে যোগ করুন
+        }
+bookmarks-search =
+    .label = বুকমার্ক অনুসন্ধান করুন
+bookmarks-tools =
+    .label = বুকমার্ক করার টুল
 bookmarks-toolbar-menu =
     .label = বুকমার্কের টুলবার
 bookmarks-toolbar-placeholder =
