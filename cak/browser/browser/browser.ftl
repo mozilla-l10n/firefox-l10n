@@ -503,3 +503,15 @@ fullscreen-exit-mac-button = Tel pa chijun ruwa kematz'ib' (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.
 pointerlock-warning-no-domain = Re ruxaq wuj re' chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Chupül rusamaj
+    .accesskey = m
