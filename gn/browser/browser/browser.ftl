@@ -503,3 +503,30 @@ fullscreen-exit-mac-button = Esẽ mba’erechaha tuichavévagui (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> eñangarekópa nde hekaha rehe. Eikutu Esc eguerujey hag̃ua hekaha.
 pointerlock-warning-no-domain = Ko kuatia oñangareko nde hekaha rehe. Eikutu Esc eguerujey hag̃ua hekaha.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Opaite techaukaha jehechauka
+bookmarks-recent-bookmarks =
+    .value = Oñembokurusu ramóva
+bookmarks-toolbar-chevron =
+    .tooltiptext = Techaukaha jehechaukave
+bookmarks-sidebar-content =
+    .aria-label = Techaukaha
+bookmarks-search =
+    .label = Techaukaha jeheka
+bookmarks-toolbar-menu =
+    .label = Techaukaha rembipuru renda
+bookmarks-toolbar-placeholder =
+    .title = Techaukaha rembipuru renda remimoĩ
+bookmarks-toolbar-placeholder-button =
+    .label = Techaukaha rembipuru renda remimoĩ
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Kuatiarogue mbojoapy
+
+## More items
+
