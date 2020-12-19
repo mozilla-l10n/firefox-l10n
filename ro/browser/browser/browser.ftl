@@ -487,6 +487,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Marcaje
 library-bookmarks-bookmark-edit =
     .label = Editează acest marcaj
 
