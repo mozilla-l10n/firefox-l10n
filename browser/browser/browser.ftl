@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = למסמך זה יש שליטה על הסמן ש
 
 bookmarks-show-all-bookmarks =
     .label = הצגת כל הסימניות
+bookmarks-recent-bookmarks =
+    .value = סימניות שנוספו לאחרונה
 bookmarks-toolbar-chevron =
     .tooltiptext = הצגת סימניות נוספות
 bookmarks-sidebar-content =
