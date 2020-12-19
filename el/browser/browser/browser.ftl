@@ -514,9 +514,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Προβολή περισσότερων σελιδοδεικτών
 bookmarks-sidebar-content =
     .aria-label = Σελιδοδείκτες
+bookmarks-menu-button =
+    .label = Μενού σελιδοδεικτών
+bookmarks-other-bookmarks-menu =
+    .label = Άλλοι σελιδοδείκτες
+bookmarks-mobile-bookmarks-menu =
+    .label = Σελιδοδείκτες κινητού
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Απόκρυψη γραμμής σελιδοδεικτών
+           *[other] Προβολή γραμμής σελιδοδεικτών
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Αφαίρεση μενού σελιδοδεικτών από τη γραμμή εργαλείων
+           *[other] Προσθήκη μενού σελιδοδεικτών στη γραμμή εργαλείων
+        }
+bookmarks-search =
+    .label = Αναζήτηση σελιδοδεικτών
+bookmarks-tools =
+    .label = Εργαλεία σελιδοδεικτών
+bookmarks-toolbar-menu =
+    .label = Γραμμή σελιδοδεικτών
+bookmarks-toolbar-placeholder =
+    .title = Στοιχεία γραμμής σελιδοδεικτών
+bookmarks-toolbar-placeholder-button =
+    .label = Στοιχεία γραμμής σελιδοδεικτών
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Σελιδοδείκτες
+library-bookmarks-bookmark-edit =
+    .label = Επεξεργασία σελιδοδείκτη
 
 ## More items
 
