@@ -432,9 +432,46 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom
 
 bookmarks-show-all-bookmarks =
     .label = Zobraziť všetky záložky
+bookmarks-recent-bookmarks =
+    .value = Nedávno pridané medzi záložky
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobraziť ďalšie záložky
 bookmarks-sidebar-content =
+    .aria-label = Záložky
+bookmarks-menu-button =
+    .label = Ponuka záložiek
+bookmarks-other-bookmarks-menu =
+    .label = Ostatné záložky
+bookmarks-mobile-bookmarks-menu =
+    .label = Záložky mobilného Firefoxu
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skryť bočný panel Záložky
+           *[other] Zobraziť bočný panel Záložky
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skryť panel nástrojov Záložky
+           *[other] Zobraziť panel nástrojov Záložky
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Odstrániť ponuku záložiek z panela nástrojov
+           *[other] Pridať ponuku záložiek do panela nástrojov
+        }
+bookmarks-search =
+    .label = Hľadať v záložkách
+bookmarks-tools =
+    .label = Nástroje pre prácu so záložkami
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Panel záložiek
+    .accesskey = z
     .aria-label = Záložky
 bookmarks-toolbar-menu =
     .label = Panel záložiek
@@ -445,6 +482,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Záložky
+library-bookmarks-bookmark-this-page =
+    .label = Pridať stránku medzi záložky
 library-bookmarks-bookmark-edit =
     .label = Upraviť túto záložku
 
