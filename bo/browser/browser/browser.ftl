@@ -269,6 +269,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = ཁ་རྒྱག
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -338,3 +341,63 @@ fullscreen-exit-mac-button = འཆར་ངོས་ཡོངས་ནས་ཕ
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> has control of your pointer. Press Esc to take back control.
 pointerlock-warning-no-domain = This document has control of your pointer. Press Esc to take back control.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ
+bookmarks-recent-bookmarks =
+    .value = ཉེ་ཆར་བཞག་པའི་ཡིག་རྟགས
+bookmarks-toolbar-chevron =
+    .tooltiptext = ཡིག་རྟགས་དེ་ལས་མང་བ་སྟོན་པ
+bookmarks-sidebar-content =
+    .aria-label = ཡིག་རྟགས
+bookmarks-menu-button =
+    .label = ཡིག་རྟགས་གདམ་ཐོ
+bookmarks-other-bookmarks-menu =
+    .label = གདམ་ཐོ་གཞན
+bookmarks-mobile-bookmarks-menu =
+    .label = ཁ་པར་གདམ་ཐོ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ཟུར་ངོས་ཡིག་རྟགས་སྐུང་པ
+           *[other] ཟུར་ངོས་ཡིག་རྟགས་ལ་ལྟ་བ
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ཡིག་རྟགས་ལག་ཆའི་ངོས་སྐུང་པ
+           *[other] ཡིག་རྟགས་ལག་ཆའི་ངོས་ལྟ་བ
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ལག་ཆའི་ངོས་ནས་ཡིག་རྟགས་གདམ་ཐོ་བསུབ་པ
+           *[other] ལག་ཆའི་ངོས་སུ་ཡིག་རྟགས་གདམ་ཐོ་ཁ་སྣོན
+        }
+bookmarks-search =
+    .label = ཡིག་རྟགས་འཚོལ་བ
+bookmarks-tools =
+    .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ
+bookmarks-toolbar-menu =
+    .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ་ངོས
+bookmarks-toolbar-placeholder =
+    .title = ཡིག་རྟགས་ལག་ཆ་ངོས་ཀྱི་ནང་ཚན
+bookmarks-toolbar-placeholder-button =
+    .label = ཡིག་རྟགས་ལག་ཆ་ངོས་ཀྱི་ནང་ཚན
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = ཡིག་རྟགས
+library-bookmarks-bookmark-this-page =
+    .label = དྲ་ངོས་འདི་ལ་ཡིག་རྟགས་འཇོག་པ
+library-bookmarks-bookmark-edit =
+    .label = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
+
+## More items
+
+more-menu-go-offline =
+    .label = Work Offline
+    .accesskey = k
