@@ -267,6 +267,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Tutup
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -336,3 +339,63 @@ fullscreen-exit-mac-button = Keluar dari Skrin Penuh (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.
 pointerlock-warning-no-domain = Dokumen ini mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Papar Semua Tandabuku
+bookmarks-recent-bookmarks =
+    .value = Tandabuku Terkini
+bookmarks-toolbar-chevron =
+    .tooltiptext = Papar tandabuku selanjutnya
+bookmarks-sidebar-content =
+    .aria-label = Tandabuku
+bookmarks-menu-button =
+    .label = Menu Tandabuku
+bookmarks-other-bookmarks-menu =
+    .label = Tandabuku Lain
+bookmarks-mobile-bookmarks-menu =
+    .label = Tandabuku Telefon
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Sorok Bar sisi Tandabuku
+           *[other] Papar Tandabuku Bar Sisi
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Sorok Bar alat Tandabuku
+           *[other] Papar Bar alat Tandabuku
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Buang Menu Tandabuku daripada Bar alatan
+           *[other] Tambah Menu Tandabuku dalam Bar alatan
+        }
+bookmarks-search =
+    .label = Cari Tandabuku
+bookmarks-tools =
+    .label = Alatan Tandabuku
+bookmarks-toolbar-menu =
+    .label = Bar alatan Tandabuku
+bookmarks-toolbar-placeholder =
+    .title = Item Bar alatan Tandabuku
+bookmarks-toolbar-placeholder-button =
+    .label = Item Bar alatan Tandabuku
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Tandabuku
+library-bookmarks-bookmark-this-page =
+    .label = Tandabuku Halaman Ini
+library-bookmarks-bookmark-edit =
+    .label = Edit Tandabuku Ini
+
+## More items
+
+more-menu-go-offline =
+    .label = Kerja Luar Talian
+    .accesskey = K
