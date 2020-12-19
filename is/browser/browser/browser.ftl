@@ -282,6 +282,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Loka
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -353,3 +356,20 @@ fullscreen-exit-mac-button = Hætta í fullum skjá (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> hefur stjórn á bendi. Ýttu á Esc til að taka aftur yfir stjórn.
 pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýttu á Esc til að taka aftur yfir stjórn.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Bókamerkjaslá
+bookmarks-toolbar-placeholder =
+    .title = Hlutir í bókamerkjaslá
+bookmarks-toolbar-placeholder-button =
+    .label = Hlutir í bókamerkjaslá
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Setja síðu í bókamerki
+
+## More items
+
