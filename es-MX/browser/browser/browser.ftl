@@ -514,6 +514,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar más marcadores
 bookmarks-sidebar-content =
     .aria-label = Marcadores
+bookmarks-menu-button =
+    .label = Menú Marcadores
 bookmarks-other-bookmarks-menu =
     .label = Otros Marcadores
 bookmarks-mobile-bookmarks-menu =
@@ -536,6 +538,8 @@ bookmarks-tools-menu-button-visibility =
             [true] Eliminar menú de marcadores de la barra de herramientas
            *[other] Agregar menú de marcadores a la barra de herramientas
         }
+bookmarks-search =
+    .label = Buscar Marcadores
 bookmarks-tools =
     .label = Herramientas de marcadores
 # The aria-label is a spoken label that should not include the word "toolbar" or
@@ -554,6 +558,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Marcadores
 library-bookmarks-bookmark-this-page =
     .label = Agregar esta página a marcadores
 library-bookmarks-bookmark-edit =
