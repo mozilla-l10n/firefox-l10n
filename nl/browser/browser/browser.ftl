@@ -510,10 +510,36 @@ pointerlock-warning-no-domain = Dit document heeft de controle over uw aanwijzer
 
 bookmarks-show-all-bookmarks =
     .label = Alle bladwijzers tonen
+bookmarks-recent-bookmarks =
+    .value = Recent aangemaakte bladwijzers
 bookmarks-toolbar-chevron =
     .tooltiptext = Meer bladwijzers tonen
 bookmarks-sidebar-content =
     .aria-label = Bladwijzers
+bookmarks-menu-button =
+    .label = Bladwijzermenu
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Bladwijzerzijbalk verbergen
+           *[other] Bladwijzerzijbalk weergeven
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Bladwijzerwerkbalk verbergen
+           *[other] Bladwijzerwerkbalk weergeven
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Bladwijzermenu verwijderen van werkbalk
+           *[other] Bladwijzermenu toevoegen aan werkbalk
+        }
+bookmarks-search =
+    .label = Bladwijzers doorzoeken
+bookmarks-tools =
+    .label = Bladwijzerhulpmiddelen
 bookmarks-toolbar-menu =
     .label = Bladwijzerwerkbalk
 bookmarks-toolbar-placeholder =
@@ -523,6 +549,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Bladwijzers
 library-bookmarks-bookmark-this-page =
     .label = Bladwijzer voor deze pagina maken
 library-bookmarks-bookmark-edit =
