@@ -181,3 +181,6 @@ library-bookmarks-menu =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Mubuet Maté Lèn
+    .accesskey = k
