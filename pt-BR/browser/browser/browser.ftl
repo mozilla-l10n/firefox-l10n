@@ -511,6 +511,8 @@ bookmarks-sidebar-content =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Editar este favorito
 
 ## More items
 
