@@ -505,6 +505,8 @@ bookmarks-tools =
 
 library-bookmarks-bookmark-this-page =
     .label = Đánh dấu trang này
+library-bookmarks-bookmark-edit =
+    .label = Chỉnh sửa dấu trang này
 
 ## More items
 
