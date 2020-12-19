@@ -238,6 +238,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बन्द गर्नुहोस्
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -307,3 +310,33 @@ fullscreen-exit-mac-button = पुरा स्क्रिनबाट नि�
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> तपाईँको सूचक नियन्त्रण बाहिर छ। नियन्त्रण आफ्नो नियन्त्रणमा ल्याउन Esc थिच्नुहोस्।
 pointerlock-warning-no-domain = तपाईँको पोइन्टर यो डकुमेन्टको नियन्त्रणमा छ। नियन्त्रण फिर्ता लिन Esc थिच्नुहोस्।
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = सबै पुस्तकचिनोहरू देखाउनुहोस्
+bookmarks-recent-bookmarks =
+    .value = हालसालै थपिएको पुस्तकचिनो
+bookmarks-toolbar-chevron =
+    .tooltiptext = अरू पुस्तकचिनोहरू देखाउनुहोस्
+bookmarks-sidebar-content =
+    .aria-label = पुस्तकचिनोहरू
+bookmarks-toolbar-menu =
+    .label = पुस्तकचिनो उपकरणपट्टि
+bookmarks-toolbar-placeholder =
+    .title = उपकरणपट्टि मा वस्तुहरू पुस्तकचिनो लगाउनुहोस्
+bookmarks-toolbar-placeholder-button =
+    .label = उपकरणपट्टि मा वस्तुहरू पुस्तकचिनो लगाउनुहोस्
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्
+library-bookmarks-bookmark-edit =
+    .label = यो पुस्तकचिनोलाई सम्पादन गर्नुहोस्
+
+## More items
+
+more-menu-go-offline =
+    .label = अफलाइन कार्य गर्नुहोस्
+    .accesskey = k
