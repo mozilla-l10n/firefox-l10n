@@ -130,6 +130,8 @@ urlbar-go-button =
 
 bookmarks-toolbar-chevron =
     .tooltiptext = Нэмэлт хаягнуудыг харуул
+bookmarks-search =
+    .label = Хадгалсан хаяганд хайх
 bookmarks-toolbar-menu =
     .label = Хаягийн Багажит самбар
 bookmarks-toolbar-placeholder =
@@ -139,6 +141,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Хадгалсан хаяганд засвар хийх
 
 ## More items
 
