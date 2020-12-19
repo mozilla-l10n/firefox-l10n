@@ -516,14 +516,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Паказаць больш закладак
 bookmarks-sidebar-content =
     .aria-label = Закладкі
+bookmarks-menu-button =
+    .label = Меню закладак
+bookmarks-other-bookmarks-menu =
+    .label = Іншыя закладкі
+bookmarks-mobile-bookmarks-menu =
+    .label = Мабільныя закладкі
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Схаваць бакавую панэль закладак
+           *[other] Паказаць бакавую панэль закладак
+        }
 bookmarks-tools-toolbar-visibility =
     .label =
         { $isVisible ->
             [true] Схаваць паліцу закладак
            *[other] Паказаць паліцу закладак
         }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Прыбраць меню закладак з паліцы прылад
+           *[other] Дадаць меню закладак на паліцу прылад
+        }
 bookmarks-search =
     .label = Шукаць у закладках
+bookmarks-tools =
+    .label = Прылады закладак
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -540,6 +560,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Закладкі
 library-bookmarks-bookmark-this-page =
     .label = Дадаць закладку на старонку
 library-bookmarks-bookmark-edit =
