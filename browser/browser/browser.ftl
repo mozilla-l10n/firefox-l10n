@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Detta dokument har kontroll över pekaren. Tryck
 
 bookmarks-show-all-bookmarks =
     .label = Visa alla bokmärken
+bookmarks-recent-bookmarks =
+    .value = Nyligen bokmärkt
 bookmarks-toolbar-chevron =
     .tooltiptext = Visa fler bokmärken
 bookmarks-sidebar-content =
@@ -521,6 +523,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Bokmärk denna sida
 library-bookmarks-bookmark-edit =
     .label = Redigera bokmärket
 
