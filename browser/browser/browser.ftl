@@ -503,3 +503,21 @@ fullscreen-exit-mac-button = Surt de la pantalla completa (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> té el control del punter. Premeu Esc per recuperar el control.
 pointerlock-warning-no-domain = Aquest document té el control del punter. Premeu Esc per recuperar el control.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Barra de les adreces d'interès
+bookmarks-toolbar-placeholder =
+    .title = Elements de la barra de les adreces d'interès
+bookmarks-toolbar-placeholder-button =
+    .label = Elements de la barra de les adreces d'interès
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Treballa fora de línia
+    .accesskey = b
