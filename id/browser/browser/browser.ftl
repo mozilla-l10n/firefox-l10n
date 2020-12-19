@@ -474,9 +474,31 @@ pointerlock-warning-no-domain = Dokumen ini memiliki kendali atas pointer Anda. 
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Tampilkan Semua Markah…
+bookmarks-toolbar-chevron =
+    .tooltiptext = Tampilkan markah lainnya
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bilah Alat Markah
+    .accesskey = B
+    .aria-label = Markah
+bookmarks-toolbar-menu =
+    .label = Bilah Alat Markah
+bookmarks-toolbar-placeholder =
+    .title = Nama Markah
+bookmarks-toolbar-placeholder-button =
+    .label = Nama Markah
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Markahi Laman ini
 
 ## More items
 
+more-menu-go-offline =
+    .label = Bekerja Luring
+    .accesskey = L
