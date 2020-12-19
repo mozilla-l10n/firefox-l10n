@@ -508,10 +508,14 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad pokazivačem. Pri
 
 bookmarks-show-all-bookmarks =
     .label = Prikaži sve zabilješke
+bookmarks-recent-bookmarks =
+    .value = Nedavno zabilježeno
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
 bookmarks-sidebar-content =
     .aria-label = Zabilješke
+bookmarks-search =
+    .label = Pretraži zabilješke
 bookmarks-toolbar-menu =
     .label = Alatna traka zabilješki
 bookmarks-toolbar-placeholder =
@@ -521,6 +525,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Zabilježi ovu stranicu
+library-bookmarks-bookmark-edit =
+    .label = Uredi ovu zabilješku
 
 ## More items
 
