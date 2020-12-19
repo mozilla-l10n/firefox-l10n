@@ -323,6 +323,8 @@ pointerlock-warning-no-domain = Tá an cháipéis seo i gceannas ar do chúrsói
 
 bookmarks-show-all-bookmarks =
     .label = Taispeáin Gach Leabharmharc
+bookmarks-recent-bookmarks =
+    .value = Leabharmharc leo le déanaí
 bookmarks-toolbar-chevron =
     .tooltiptext = Tuilleadh leabharmharcanna
 bookmarks-sidebar-content =
@@ -333,6 +335,8 @@ bookmarks-other-bookmarks-menu =
     .label = Leabharmharcanna Eile
 bookmarks-mobile-bookmarks-menu =
     .label = Leabharmharcanna Soghluaiste
+bookmarks-search =
+    .label = Cuardaigh Leabharmharcanna
 bookmarks-tools =
     .label = Uirlisí Leabharmharcála
 # The aria-label is a spoken label that should not include the word "toolbar" or
