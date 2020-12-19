@@ -521,6 +521,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Afegeix la pàgina a les adreces d'interès
 library-bookmarks-bookmark-edit =
     .label = Edita aquesta adreça d'interès
 
