@@ -132,6 +132,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बंद
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -159,5 +162,42 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = थळ पट्टेन नाम्यान वचात
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = सगळे बूकमार्क दाखोवचे
+bookmarks-toolbar-chevron =
+    .tooltiptext = अदीक बूकमार्क दाखोवचे
+bookmarks-sidebar-content =
+    .aria-label = बुकमार्क
+bookmarks-toolbar-menu =
+    .label = पुस्तकखूण साधनपट्टी
+bookmarks-toolbar-placeholder =
+    .title = पुस्तकखूण उपकरणपट्टी  वस्ती
+bookmarks-toolbar-placeholder-button =
+    .label = पुस्तकखूण उपकरणपट्टी  वस्ती
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = ह्या पानाक बूकमार्क करचें
+library-bookmarks-bookmark-edit =
+    .label = हो बूकमार्क संपादीत करचो
+
+## More items
+
+more-menu-go-offline =
+    .label = ऑफलायन काम करात
+    .accesskey = k
