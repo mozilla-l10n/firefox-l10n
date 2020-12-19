@@ -25,10 +25,14 @@ browser-main-window-title = { -brand-full-name }
 
 ## Local search mode indicator labels in the urlbar
 
+
 ##
 
 
 ## Page Action Context Menu
+
+
+## Page Action menu
 
 
 ## Auto-hide Context Menu
@@ -44,6 +48,7 @@ browser-main-window-title = { -brand-full-name }
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 
@@ -56,6 +61,9 @@ browser-window-minimize-button =
     .tooltiptext = Nciphisa
 browser-window-close-button =
     .tooltiptext = Vala
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -70,3 +78,35 @@ browser-window-close-button =
 
 urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Amatshwayo weencwadi
+bookmarks-toolbar-menu =
+    .label = Isivalo sethulusi lamatshwayo weencwadi
+bookmarks-toolbar-placeholder =
+    .title = Iinhlokwana zesivalo samathulusi wamatshwayo weencadi
+bookmarks-toolbar-placeholder-button =
+    .label = Iinhlokwana zesivalo samathulusi wamatshwayo weencadi
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Sebenza Ngaphandle
+    .accesskey = s
