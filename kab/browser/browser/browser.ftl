@@ -510,9 +510,17 @@ bookmarks-recent-bookmarks =
     .value = Wid ittwacerḍen melmi kan
 bookmarks-tools =
     .label = Ifecka n tecraḍ
+bookmarks-toolbar-menu =
+    .label = Afeggag n tecraḍ
+bookmarks-toolbar-placeholder =
+    .title = Iferdisen n ufeggag n tecraḍ
+bookmarks-toolbar-placeholder-button =
+    .label = Iferdisen n ufeggag n tecraḍ
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Creḍ asebter-a
 
 ## More items
 
