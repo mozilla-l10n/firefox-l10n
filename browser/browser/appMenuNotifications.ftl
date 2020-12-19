@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = 나중에
     .secondarybuttonaccesskey = N
+appmenu-update-other-instance-message = 새 { -brand-shorter-name } 업데이트를 사용할 수 있지만 { -brand-shorter-name }의 다른 복사본이 실행 중이므로 설치할 수 없습니다. 업데이트를 계속하려면 복사본을 닫거나 업데이트를 선택하세요 (다른 복사본은 다시 시작할 때까지 제대로 작동하지 않을 수 있음).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = 확인
     .buttonaccesskey = O
