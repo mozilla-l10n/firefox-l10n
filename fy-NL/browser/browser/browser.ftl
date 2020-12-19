@@ -514,6 +514,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Mear blêdwizers toane
 bookmarks-sidebar-content =
     .aria-label = Blêdwizers
+bookmarks-menu-button =
+    .label = Blêdwizermenu
+bookmarks-other-bookmarks-menu =
+    .label = Oare blêdwizers
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobyl-blêdwizers
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Blêdwizersydbalke ferstopje
+           *[other] Blêdwizersydbalke werjaan
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Blêdwizerarkbalke ferstopje
+           *[other] Blêdwizerarkbalke werjaan
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Blêdwizers fan arkbalke fuortsmite
+           *[other] Blêdwizers oan arkbalke tafoegje
+        }
+bookmarks-search =
+    .label = Blêdwizers trochsykje
+bookmarks-tools =
+    .label = Blêdwizerark
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Blêdwizerarkbalke
+    .accesskey = B
+    .aria-label = Blêdwizers
 bookmarks-toolbar-menu =
     .label = Blêdwizerarkbalke
 bookmarks-toolbar-placeholder =
@@ -523,6 +558,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Blêdwizers
 library-bookmarks-bookmark-this-page =
     .label = Blêdwizer foar dizze side meitsje
 library-bookmarks-bookmark-edit =
@@ -530,3 +567,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Offline wurkje
+    .accesskey = w
