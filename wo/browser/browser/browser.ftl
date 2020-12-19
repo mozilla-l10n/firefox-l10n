@@ -117,6 +117,9 @@ bookmark-panel-done-button =
 browser-window-minimize-button =
     .tooltiptext = Wàññi
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 
@@ -133,5 +136,38 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = Dem ci xët wi ñu joxoñ ci banqaasu makkaan
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Wone mandarga xët yépp
+bookmarks-toolbar-chevron =
+    .tooltiptext = Wone mandarga xët yu gën bari
+bookmarks-sidebar-content =
+    .aria-label = Mandarga xët yi
+bookmarks-toolbar-menu =
+    .label = Sa banqaasu bopp
+bookmarks-toolbar-placeholder =
+    .title = Mbiri banqaasu bopp
+bookmarks-toolbar-placeholder-button =
+    .label = Mbiri banqaasu bopp
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Liggéey bul andul jokkoo
+    .accesskey = i
