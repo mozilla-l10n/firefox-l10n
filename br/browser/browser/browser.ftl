@@ -498,6 +498,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Diskouez meur a sined
 bookmarks-sidebar-content =
     .aria-label = Sinedoù
+bookmarks-menu-button =
+    .label = Lañser ar sinedoù
+bookmarks-other-bookmarks-menu =
+    .label = Sinedoù all
+bookmarks-mobile-bookmarks-menu =
+    .label = Sinedoù hezoug
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Kuzhat barrenn gostez ar sinedoù
+           *[other] Gwelout barrenn gostez ar sinedoù
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Kuzhat barrenn ostilhoù ar sinedoù
+           *[other] Gwelout barrenn ostilhoù ar sinedoù
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Lemel kuit lañser ar sinedoù diouzh ar varrenn ostilhoù
+           *[other] Ouzhpennañ lañser ar sinedoù er varrenn ostilhoù
+        }
+bookmarks-search =
+    .label = Klask er sinedoù
+bookmarks-tools =
+    .label = Ostilhoù ar sinedoù
 bookmarks-toolbar-menu =
     .label = Barrenn ostilhoù ar sinedoù
 bookmarks-toolbar-placeholder =
@@ -507,6 +535,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Sinedoù
 library-bookmarks-bookmark-this-page =
     .label = Lakaat ur sined war ar bajenn-mañ
 library-bookmarks-bookmark-edit =
