@@ -459,6 +459,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Показване на повече отметки
 bookmarks-sidebar-content =
     .aria-label = Отметки
+bookmarks-menu-button =
+    .label = Меню с отметки
+bookmarks-other-bookmarks-menu =
+    .label = Други отметки
+bookmarks-mobile-bookmarks-menu =
+    .label = Мобилни отметки
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Скриване на лентата с отметки
+           *[other] Странична лента с отметки
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Скриване на страничната лента с отметки
+           *[other] Показване на лентата с отметки
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Премахване на меню Oтметки от лентата с инструменти
+           *[other] Добавяне на меню Отметки към лентата с инструменти
+        }
+bookmarks-search =
+    .label = Търсене в отметките
+bookmarks-tools =
+    .label = Инструменти за отметки
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Лента с отметки
+    .accesskey = о
+    .aria-label = Отметки
 bookmarks-toolbar-menu =
     .label = Лента с отметки
 bookmarks-toolbar-placeholder =
@@ -468,8 +503,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Отметки
 library-bookmarks-bookmark-this-page =
     .label = Отмятане на страницата
+library-bookmarks-bookmark-edit =
+    .label = Промяна на отметка
 
 ## More items
 
