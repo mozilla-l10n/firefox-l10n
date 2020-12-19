@@ -516,6 +516,18 @@ bookmarks-other-bookmarks-menu =
     .label = Outros favoritos
 bookmarks-mobile-bookmarks-menu =
     .label = Favoritos do celular
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ocultar Painel de Favoritos
+           *[other] Ver painel de favoritos
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ocultar Barra de Favoritos
+           *[other] Ver barra de favoritos
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
