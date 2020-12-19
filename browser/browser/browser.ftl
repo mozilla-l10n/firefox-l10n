@@ -164,6 +164,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Bontšha dipukutshwayo tše oketšegilego
 bookmarks-sidebar-content =
     .aria-label = Dipukutshwayo
+bookmarks-search =
+    .label = Nyaka dipukutshwayo
 bookmarks-toolbar-menu =
     .label = Thulupaa ya dipukutshwayo
 bookmarks-toolbar-placeholder =
@@ -173,6 +175,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Lokiša pukutshwayo ye
 
 ## More items
 
