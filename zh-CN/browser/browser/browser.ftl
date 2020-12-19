@@ -502,6 +502,8 @@ bookmarks-show-all-bookmarks =
     .label = 管理所有书签
 bookmarks-toolbar-chevron =
     .tooltiptext = 显示更多书签
+bookmarks-sidebar-content =
+    .aria-label = 书签
 bookmarks-other-bookmarks-menu =
     .label = 其他书签
 bookmarks-mobile-bookmarks-menu =
@@ -511,6 +513,12 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] 隐藏书签侧栏
            *[other] 显示书签侧栏
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] 隐藏书签工具栏
+           *[other] 查看书签工具栏
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -522,6 +530,12 @@ bookmarks-search =
     .label = 在书签中搜索
 bookmarks-tools =
     .label = 书签工具
+bookmarks-toolbar-menu =
+    .label = 书签工具栏
+bookmarks-toolbar-placeholder =
+    .title = 书签工具栏项目
+bookmarks-toolbar-placeholder-button =
+    .label = 书签工具栏项目
 
 ## Library Panel items
 
