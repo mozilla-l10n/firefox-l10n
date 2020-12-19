@@ -375,6 +375,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = વધુ બુકમાર્ક્સ બતાવો
 bookmarks-sidebar-content =
     .aria-label = બુકમાર્ક્સ
+bookmarks-menu-button =
+    .label = બુકમાર્ક્સ મેનૂ
 bookmarks-other-bookmarks-menu =
     .label = અન્ય બુકમાર્ક્સ
 bookmarks-mobile-bookmarks-menu =
@@ -410,6 +412,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = બુકમાર્ક્સ
 library-bookmarks-bookmark-this-page =
     .label = આ પાનાંને બુકમાર્ક કરો
 library-bookmarks-bookmark-edit =
