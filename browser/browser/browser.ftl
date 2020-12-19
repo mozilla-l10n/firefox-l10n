@@ -295,6 +295,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Qapat
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -374,3 +377,18 @@ fullscreen-exit-mac-button = Tam erkandan çıx (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kursorunuzu idarə edir. İdarəni geri almaq üçün Esc düyməsinə basın.
 pointerlock-warning-no-domain = Bu sənəd kursorunuzu idarə edir. İdarəni geri almaq üçün Esc düyməsinə basın.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Əlfəcinlər
+bookmarks-toolbar-placeholder =
+    .title = Əlfəcin alət sətri obyektləri
+bookmarks-toolbar-placeholder-button =
+    .label = Əlfəcin alət sətri obyektləri
+
+## Library Panel items
+
+
+## More items
+
