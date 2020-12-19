@@ -97,3 +97,5 @@ experimental-features-fission-description = Fission (aɛzal n usmel) d tamahilt 
 # Support for having multiple Picture-in-Picture windows open simultaneously
 experimental-features-multi-pip =
     .label = Tallalt n tugna deg tugna yeggten
+experimental-features-http3 =
+    .label = Aneggaf n HTTP/3
