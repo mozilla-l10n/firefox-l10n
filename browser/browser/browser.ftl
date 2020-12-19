@@ -503,3 +503,14 @@ fullscreen-exit-mac-button = Irten pantaila osotik (esk)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> (e)k zure erakuslearen kontrola dauka. Kontrola berreskuratzeko, sakatu eskape tekla.
 pointerlock-warning-no-domain = Dokumentu honek zure erakuslearen kontrola dauka. Kontrola berreskuratzeko, sakatu eskape tekla.
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Egin orriaren laster-marka
+
+## More items
+
