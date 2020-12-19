@@ -508,11 +508,51 @@ pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ott
 
 bookmarks-show-all-bookmarks =
     .label = Näytä kaikki kirjanmerkit
+bookmarks-recent-bookmarks =
+    .value = Viimeksi lisätyt
 bookmarks-toolbar-chevron =
     .tooltiptext = Näytä lisää kirjanmerkkejä
+bookmarks-sidebar-content =
+    .aria-label = Kirjanmerkit
+bookmarks-menu-button =
+    .label = Kirjanmerkit-valikko
+bookmarks-other-bookmarks-menu =
+    .label = Muut kirjanmerkit
+bookmarks-mobile-bookmarks-menu =
+    .label = Kannettavan laitteen kirjanmerkit
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Piilota kirjanmerkkien sivupaneeli
+           *[other] Näytä kirjanmerkkien sivupaneeli
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Piilota kirjanmerkkipalkki
+           *[other] Näytä kirjanmerkkipalkki
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Poista Kirjanmerkit-valikko työkalupalkista
+           *[other] Lisää Kirjanmerkit-valikko työkalupalkkiin
+        }
+bookmarks-search =
+    .label = Etsi kirjanmerkeistä
+bookmarks-tools =
+    .label = Kirjanmerkkityökalut
+bookmarks-toolbar-menu =
+    .label = Kirjanmerkkipalkki
+bookmarks-toolbar-placeholder =
+    .title = Kirjanmerkkipalkin linkit
+bookmarks-toolbar-placeholder-button =
+    .label = Kirjanmerkkipalkin linkit
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Kirjanmerkit
 library-bookmarks-bookmark-this-page =
     .label = Lisää sivu kirjanmerkkeihin
 library-bookmarks-bookmark-edit =
@@ -520,3 +560,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Työskentele yhteydettömässä tilassa
+    .accesskey = y
