@@ -191,6 +191,12 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Mb-lòɁ kó ndó~làz=ná
 bookmarks-sidebar-content =
     .aria-label = Ndó~làz=ná
+bookmarks-other-bookmarks-menu =
+    .label = Tá thíb ko ndó~làz=ná
+bookmarks-mobile-bookmarks-menu =
+    .label = Ndó~làz=ná xó lent yib
+bookmarks-search =
+    .label = KwàɁn ndó~làz=ná
 bookmarks-toolbar-menu =
     .label = Té tak güin ko ndó~làz=ná
 bookmarks-toolbar-placeholder =
