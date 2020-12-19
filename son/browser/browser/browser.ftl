@@ -213,6 +213,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Daabu
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -278,3 +281,22 @@ fullscreen-exit-mac-button = Fatta dijikul ra (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.
 pointerlock-warning-no-domain = Takaddaa woo ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-chevron =
+    .tooltiptext = Doo-šilbay tontoney cebe
+bookmarks-toolbar-menu =
+    .label = Doo-šilbawey goyjinay žeeri
+bookmarks-toolbar-placeholder =
+    .title = Doo-šilbawey goyjinay žeeri hayiizey
+bookmarks-toolbar-placeholder-button =
+    .label = Doo-šilbawey goyjinay žeeri hayiizey
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Moɲoo woo šilbay
+
+## More items
+
