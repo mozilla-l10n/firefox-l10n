@@ -503,3 +503,25 @@ fullscreen-exit-mac-button = Vollbild beenden (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolliert den Mauszeiger. Drücken Sie die Esc-Taste, wenn Sie wieder die Kontrolle übernehmen wollen.
 pointerlock-warning-no-domain = Dieses Dokument kontrolliert den Mauszeiger. Drücken Sie die Esc-Taste, wenn Sie wieder die Kontrolle übernehmen wollen.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Lesezeichen
+bookmarks-toolbar-menu =
+    .label = Lesezeichen-Symbolleiste
+bookmarks-toolbar-placeholder =
+    .title = Lesezeichen-Symbole
+bookmarks-toolbar-placeholder-button =
+    .label = Lesezeichen-Symbole
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Lesezeichen hinzufügen
+
+## More items
+
+more-menu-go-offline =
+    .label = Offline arbeiten
+    .accesskey = O
