@@ -508,8 +508,26 @@ pointerlock-warning-no-domain = Этот документ контролируе
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Показать все закладки
+bookmarks-recent-bookmarks =
+    .value = Недавно добавленные закладки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показать больше закладок
+bookmarks-menu-button =
+    .label = Меню закладок
+bookmarks-other-bookmarks-menu =
+    .label = Другие закладки
+bookmarks-mobile-bookmarks-menu =
+    .label = Мобильные закладки
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Удалить меню закладок с панели
+           *[other] Добавить меню закладок в панель
+        }
+bookmarks-tools =
+    .label = Инструменты закладок
 bookmarks-toolbar-menu =
     .label = Панель закладок
 bookmarks-toolbar-placeholder =
@@ -519,6 +537,15 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Закладки
+library-bookmarks-bookmark-this-page =
+    .label = Добавить страницу
+library-bookmarks-bookmark-edit =
+    .label = Редактировать эту закладку
 
 ## More items
 
+more-menu-go-offline =
+    .label = Работать автономно
+    .accesskey = б
