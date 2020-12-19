@@ -352,11 +352,30 @@ pointerlock-warning-no-domain = এই ডকুমেন্টের আপন�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = সকল বুকমার্ক প্রদর্শন
+bookmarks-recent-bookmarks =
+    .value = সম্প্রতি বুকমার্ক করা
+bookmarks-toolbar-chevron =
+    .tooltiptext = অতিরিক্ত বুকমার্ক প্রদর্শন করা হবে
 bookmarks-sidebar-content =
     .aria-label = বুকমার্ক
+bookmarks-toolbar-menu =
+    .label = বুকমার্কের টুলবার
+bookmarks-toolbar-placeholder =
+    .title = বুকমার্ক টুলবারের বিষয়-বস্তু
+bookmarks-toolbar-placeholder-button =
+    .label = বুকমার্ক টুলবারের বিষয়-বস্তু
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = চিহ্নিত পৃষ্ঠা বুকমার্ক করুন
+library-bookmarks-bookmark-edit =
+    .label = চিহ্নিত বুকমার্ক পরিবর্তন করুন
 
 ## More items
 
+more-menu-go-offline =
+    .label = অফলাইন অবস্থায় কর্ম
+    .accesskey = k
