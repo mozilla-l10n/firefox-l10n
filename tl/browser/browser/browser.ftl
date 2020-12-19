@@ -487,6 +487,10 @@ bookmarks-toolbar-chevron =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = i-Bookmark ang Pahinang Ito
+library-bookmarks-bookmark-edit =
+    .label = i-Edit ang bookmark na ito
 
 ## More items
 
