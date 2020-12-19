@@ -183,6 +183,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Vê bijareyê serast bike
 
 ## More items
 
