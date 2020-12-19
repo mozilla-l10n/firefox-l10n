@@ -268,6 +268,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = गोबां बुकमार्कखौ दिन्थि
 bookmarks-sidebar-content =
     .aria-label = बुकमार्क
+bookmarks-toolbar-menu =
+    .label = बुकमार्क टुलबार
 bookmarks-toolbar-placeholder =
     .title = बुकमार्क टुलबार आइटेमफोर
 bookmarks-toolbar-placeholder-button =
@@ -275,6 +277,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = बे बिलाइखौ बुकमार्क हो...
 library-bookmarks-bookmark-edit =
     .label = बे बुकमार्कखौ सुजु
 
