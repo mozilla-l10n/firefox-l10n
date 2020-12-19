@@ -520,8 +520,39 @@ bookmarks-toolbar-chevron =
     .tooltiptext = أظهِر المزيد من العلامات
 bookmarks-sidebar-content =
     .aria-label = العلامات
+bookmarks-other-bookmarks-menu =
+    .label = العلامات الأخرى
+bookmarks-mobile-bookmarks-menu =
+    .label = علامات المحمول
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] أخفِ شريط العلامات الجانبي
+           *[other] أظهِر شريط العلامات الجانبي
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] أخفِ شريط أدوات العلامات
+           *[other] أظهِر شريط أدوات العلامات
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] أزِل قائمة العلامات من شريط الأدوات
+           *[other] أضِف قائمة العلامات إلى شريط الأدوات
+        }
 bookmarks-search =
     .label = ابحث في العلامات
+bookmarks-tools =
+    .label = أدوات العلامات
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = شريط العلامات
+    .accesskey = ش
+    .aria-label = العلامات
 bookmarks-toolbar-menu =
     .label = شريط العلامات
 bookmarks-toolbar-placeholder =
