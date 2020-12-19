@@ -346,9 +346,6 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
-browser-import-button =
-    .label = Importar marcadores…
-    .tooltiptext = Copiar marcadores desde outro navegador ao { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -500,3 +497,25 @@ fullscreen-exit-mac-button = Saír de pantalla completa (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ten o control do punteiro. Prema Esc para recuperar o control.
 pointerlock-warning-no-domain = Este documento ten o control do punteiro. Prema Esc para recuperar o control.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Marcadores
+bookmarks-toolbar-menu =
+    .label = Barra de marcadores
+bookmarks-toolbar-placeholder =
+    .title = Elementos da barra de marcadores
+bookmarks-toolbar-placeholder-button =
+    .label = Elementos da barra de marcadores
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Marcar esta páxina
+
+## More items
+
+more-menu-go-offline =
+    .label = Traballar sen conexión
+    .accesskey = T
