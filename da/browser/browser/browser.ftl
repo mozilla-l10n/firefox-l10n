@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Dette dokument kontrollerer din markør. Tryk Es
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Vis flere bogmærker
 bookmarks-sidebar-content =
     .aria-label = Bogmærker
 bookmarks-toolbar-menu =
