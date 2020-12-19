@@ -514,10 +514,14 @@ pointerlock-warning-no-domain = يتحكم هذا المستند في مؤشرك
 
 bookmarks-show-all-bookmarks =
     .label = أظهِر كل العلامات
+bookmarks-recent-bookmarks =
+    .value = المعلّم حديثا
 bookmarks-toolbar-chevron =
     .tooltiptext = أظهِر المزيد من العلامات
 bookmarks-sidebar-content =
     .aria-label = العلامات
+bookmarks-search =
+    .label = ابحث في العلامات
 bookmarks-toolbar-menu =
     .label = شريط العلامات
 bookmarks-toolbar-placeholder =
@@ -529,6 +533,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = علّم هذه الصفحة
+library-bookmarks-bookmark-edit =
+    .label = حرّر هذه العلامة
 
 ## More items
 
