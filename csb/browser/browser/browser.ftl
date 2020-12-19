@@ -119,6 +119,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Zamkni
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -145,5 +148,40 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = Biéj do stronë z pòdónym adresã
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Wëskrzëni wszëtczé załóżczi
+bookmarks-toolbar-chevron =
+    .tooltiptext = Wëskrzëni wicy załóżków
+bookmarks-sidebar-content =
+    .aria-label = Załóżczi
+bookmarks-toolbar-menu =
+    .label = Lëstew załóżków
+bookmarks-toolbar-placeholder =
+    .title = Elementë lëstwë załóżków
+bookmarks-toolbar-placeholder-button =
+    .label = Elementë lëstwë załóżków
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Dodôj do załóżków
+
+## More items
+
+more-menu-go-offline =
+    .label = Robi offline
+    .accesskey = R
