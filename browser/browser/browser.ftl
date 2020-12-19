@@ -514,6 +514,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Montri pliajn legosignojn
 bookmarks-sidebar-content =
     .aria-label = Legosignoj
+bookmarks-menu-button =
+    .label = Menuo de legosignoj
+bookmarks-other-bookmarks-menu =
+    .label = Aliaj legosignoj
+bookmarks-mobile-bookmarks-menu =
+    .label = Poŝaparataj legosignoj
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Kaŝi flankan strion de legosignoj
+           *[other] Montri flankan strion de legosignoj
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Kaŝi ilaron de legosignoj
+           *[other] Montri ilaron de legosignoj
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Forigi la menuon de legosignojn el la ilaro
+           *[other] Aldoni la menuon de legosignoj al la ilaro
+        }
+bookmarks-search =
+    .label = Serĉi legosignojn
+bookmarks-tools =
+    .label = Iloj por legosignoj
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -530,6 +558,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Legosignoj
 library-bookmarks-bookmark-this-page =
     .label = Aldoni legosignon por tiu ĉi paĝo
 library-bookmarks-bookmark-edit =
