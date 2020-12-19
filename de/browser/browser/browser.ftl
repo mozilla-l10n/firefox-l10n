@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Dieses Dokument kontrolliert den Mauszeiger. Dr√
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Weitere Lesezeichen anzeigen
 bookmarks-sidebar-content =
     .aria-label = Lesezeichen
 bookmarks-toolbar-menu =
