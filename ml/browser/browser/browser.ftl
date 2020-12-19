@@ -316,6 +316,8 @@ pointerlock-warning-no-domain = ഈ രേഖ നിങ്ങളുടെ പോ
 
 bookmarks-show-all-bookmarks =
     .label = എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക
+bookmarks-recent-bookmarks =
+    .value = ഏറ്റവും ഒടുവില്‍ അടയാളക്കുറിപ്പാക്കിയതു്
 bookmarks-toolbar-chevron =
     .tooltiptext = കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക
 bookmarks-toolbar-menu =
@@ -327,6 +329,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = ഈ താള്‍ അടയാളപ്പെടുത്തുക
+library-bookmarks-bookmark-edit =
+    .label = ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക
 
 ## More items
 
