@@ -279,6 +279,8 @@ pointerlock-warning-no-domain = Dié dokument beheer tans die wyser. Druk Esc om
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Wys meer boekmerke
 bookmarks-toolbar-menu =
     .label = Boekmerknutsbalk
 bookmarks-toolbar-placeholder =
