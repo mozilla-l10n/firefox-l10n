@@ -508,6 +508,12 @@ pointerlock-warning-no-domain = Este documento tem o controle do seu ponteiro. P
 
 bookmarks-sidebar-content =
     .aria-label = Favoritos
+bookmarks-toolbar-menu =
+    .label = Barra de favoritos
+bookmarks-toolbar-placeholder =
+    .title = Itens da barra de favoritos
+bookmarks-toolbar-placeholder-button =
+    .label = Itens da barra de favoritos
 
 ## Library Panel items
 
