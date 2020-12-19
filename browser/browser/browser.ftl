@@ -508,8 +508,14 @@ pointerlock-warning-no-domain = Este documento tem controlo do seu apontador. Pr
 
 bookmarks-show-all-bookmarks =
     .label = Mostrar todos os marcadores
+bookmarks-recent-bookmarks =
+    .value = Marcadores recentes
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar mais marcadores
+bookmarks-sidebar-content =
+    .aria-label = Marcadores
+bookmarks-search =
+    .label = Pesquisar marcadores
 
 ## Library Panel items
 
@@ -518,3 +524,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Trabalhar offline
+    .accesskey = o
