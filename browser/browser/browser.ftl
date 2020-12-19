@@ -503,3 +503,18 @@ fullscreen-exit-mac-button = Sortir del mòde ecran complet (Esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> a lo contra-ròtle sus la vòstra mirga. Quichatz sus Esc per tornar recuperar lo contra-ròtle.
 pointerlock-warning-no-domain = Aqueste document a lo contraròtle sul vòstre gredon. Quichatz Esc per tornar prendre lo contra-ròtle.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-placeholder =
+    .title = Elements de la barra personala
+bookmarks-toolbar-placeholder-button =
+    .label = Elements de la barra personala
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Marcar aquesta pagina
+
+## More items
+
