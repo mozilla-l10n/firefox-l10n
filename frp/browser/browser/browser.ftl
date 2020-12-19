@@ -141,6 +141,18 @@ identity-remove-cert-exception =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Recondre la barra latèrala de marca-pâge
+           *[other] &Bârra de mârca pâges
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Recondre la barra d’otils de mârca pâges
+           *[other] &Bârra de mârca pâges
+        }
 bookmarks-toolbar-menu =
     .label = Bârra de mârca pâges
 
