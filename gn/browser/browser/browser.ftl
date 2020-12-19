@@ -520,16 +520,35 @@ bookmarks-other-bookmarks-menu =
     .label = Ambue Techaukahakuéra
 bookmarks-mobile-bookmarks-menu =
     .label = Pumbyry Rechaukaha
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Eñomi Techaukaha Renda Yke
+           *[other] Techaukaha ra’ãngarupa yke recha
+        }
 bookmarks-tools-toolbar-visibility =
     .label =
         { $isVisible ->
             [true] Eñomi Techaukaha Rembipuru Renda
            *[other] Techaukaha renda jehecha
         }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Eipe’a Techaukaharysýi Tembipuru rendágui
+           *[other] Embojoapy Techaukaharysýi Tembipuru rendápe
+        }
 bookmarks-search =
     .label = Techaukaha jeheka
 bookmarks-tools =
     .label = Techaukaha Rembipuru
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Techaukaha rembipuru renda
+    .accesskey = B
+    .aria-label = Techaukaha
 bookmarks-toolbar-menu =
     .label = Techaukaha rembipuru renda
 bookmarks-toolbar-placeholder =
@@ -543,6 +562,11 @@ library-bookmarks-menu =
     .label = Techaukaha
 library-bookmarks-bookmark-this-page =
     .label = Kuatiarogue mbojoapy
+library-bookmarks-bookmark-edit =
+    .label = Ko techaukaha mbosako’i
 
 ## More items
 
+more-menu-go-offline =
+    .label = Mba’apo ñanduti’ỹre
+    .accesskey = k
