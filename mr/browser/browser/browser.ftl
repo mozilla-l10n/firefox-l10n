@@ -376,8 +376,16 @@ bookmarks-tools-toolbar-visibility =
             [true] वाचनखूणांची साधनपट्टी दृष्टीआड ठेवा
            *[other] वाचनखूणा साधनपट्टी दृष्य
         }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] साधनपट्टीवरील वाचनखुणा मेनू काढा
+           *[other] साधनपट्टी मध्ये वाचनखुणा मेनू जोडा
+        }
 bookmarks-search =
     .label = वाचनखुणा शोधा
+bookmarks-tools =
+    .label = वाचनखुणा साधने
 bookmarks-toolbar-menu =
     .label = वाचनखूणा साधनपट्टी
 bookmarks-toolbar-placeholder =
