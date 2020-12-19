@@ -372,12 +372,32 @@ pointerlock-warning-no-domain = See dokument kontrollib sinu kursori tegevust. K
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Kuva kõiki järjehoidjaid
+bookmarks-recent-bookmarks =
+    .value = Viimati järjehoidjatesse lisatud
+bookmarks-toolbar-chevron =
+    .tooltiptext = Veel järjehoidjaid
+bookmarks-sidebar-content =
+    .aria-label = Järjehoidjad
 bookmarks-menu-button =
     .label = Järjehoidjate menüü
 bookmarks-other-bookmarks-menu =
     .label = Muud järjehoidjad
 bookmarks-mobile-bookmarks-menu =
     .label = Mobiilsed järjehoidjad
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Peida järjehoidjate külgriba
+           *[other] Kuva järjehoidjate külgriba
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Peida järjehoidjariba
+           *[other] Kuva järjehoidjariba
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -388,11 +408,31 @@ bookmarks-search =
     .label = Otsi järjehoidjatest
 bookmarks-tools =
     .label = Järjehoidjate tööriistad
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Järjehoidjariba
+    .accesskey = J
+    .aria-label = Järjehoidjad
+bookmarks-toolbar-menu =
+    .label = Järjehoidjariba
+bookmarks-toolbar-placeholder =
+    .title = Järjehoidjariba elemendid
+bookmarks-toolbar-placeholder-button =
+    .label = Järjehoidjariba elemendid
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Järjehoidjad
+library-bookmarks-bookmark-this-page =
+    .label = Lisa see veebileht järjehoidjatesse
+library-bookmarks-bookmark-edit =
+    .label = Muuda seda järjehoidjat
 
 ## More items
 
+more-menu-go-offline =
+    .label = Tööta võrguta
+    .accesskey = T
