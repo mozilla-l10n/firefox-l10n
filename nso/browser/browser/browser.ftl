@@ -162,6 +162,8 @@ bookmarks-show-all-bookmarks =
     .label = Laetša dipukutshwayo tšohle
 bookmarks-toolbar-chevron =
     .tooltiptext = Bontšha dipukutshwayo tše oketšegilego
+bookmarks-sidebar-content =
+    .aria-label = Dipukutshwayo
 bookmarks-toolbar-menu =
     .label = Thulupaa ya dipukutshwayo
 bookmarks-toolbar-placeholder =
@@ -174,3 +176,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Šoma o se inthaneteng
+    .accesskey = a
