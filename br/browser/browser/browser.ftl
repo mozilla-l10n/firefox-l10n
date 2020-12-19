@@ -492,6 +492,8 @@ pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit 
 
 bookmarks-show-all-bookmarks =
     .label = Diskouez an holl sinedoù
+bookmarks-recent-bookmarks =
+    .value = Lakaet war ur sined nevez zo
 bookmarks-toolbar-chevron =
     .tooltiptext = Diskouez meur a sined
 bookmarks-sidebar-content =
