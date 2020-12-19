@@ -437,11 +437,51 @@ pointerlock-warning-no-domain = మీ పాయింటర్ ఈ పత్ర
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = ఇష్టాంశాలన్నింటినీ చూపించు
+bookmarks-recent-bookmarks =
+    .value = ఇటీవల ఇష్టాంశాలుగా చేసినవి
+bookmarks-toolbar-chevron =
+    .tooltiptext = మరిన్ని ఇష్టాంశాలను చూపించు
 bookmarks-sidebar-content =
     .aria-label = ఇష్టాంశాలు
+bookmarks-menu-button =
+    .label = ఇష్టాంశాల మెనూ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ఇష్టాంశాల ప్రక్కపట్టీని దాచు
+           *[other] ఇష్టాంశాల ప్రక్కపట్టీని చూడండి
+        }
+bookmarks-search =
+    .label = ఇష్టాంశాలను వెతకండి
+bookmarks-tools =
+    .label = ఇష్టాంశాల పనిముట్లు
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = ఇష్టాంశాల పట్టీ
+    .accesskey = B
+    .aria-label = ఇష్టాంశాలు
+bookmarks-toolbar-menu =
+    .label = ఇష్టాంశాల పట్టీ
+bookmarks-toolbar-placeholder =
+    .title = ఇష్టాంశాల పట్టీ అంశాలు
+bookmarks-toolbar-placeholder-button =
+    .label = ఇష్టాంశాల పట్టీ అంశాలు
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = ఇష్టాంశాలు
+library-bookmarks-bookmark-this-page =
+    .label = ఈ పేజీని ఇష్టాంశంగా చేయి
+library-bookmarks-bookmark-edit =
+    .label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
 
 ## More items
 
+more-menu-go-offline =
+    .label = ఆఫ్‌లైన్‌లో పనిచేయి
+    .accesskey = k
