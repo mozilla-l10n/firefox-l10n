@@ -334,6 +334,12 @@ bookmarks-tools-toolbar-visibility =
             [true] ‍ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ಅಡಗಿಸು
            *[other] ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು
         }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ‍ಪುಟಗುರುತುಗಳ ಮೆನುವನ್ನು ಉಪಕರಣಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ
+           *[other] ‍ಪುಟಗುರುತುಗಳ ಮೆನುವನ್ನು ಉಪಕರಣಪಟ್ಟಿಗೆ ಸೇರಿಸಿ
+        }
 bookmarks-search =
     .label = ಬುಕ್‌ಮಾರ್ಕುಗಳಿಗಾಗಿ ಹುಡುಕು
 bookmarks-tools =
