@@ -395,3 +395,35 @@ fullscreen-exit-mac-button = Kat woko ki i wang kio ma opong (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> Tye ki twero i kom lacim ma megi. Dii Esc me dwoko twero cen bot in.
 pointerlock-warning-no-domain = Jami eni Tye ki twero i kom lacim ma megi. Dii Esc me dwoko twero cen bot in.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Nyut alamabuk weng
+bookmarks-recent-bookmarks =
+    .value = Ma kiketo Alamabuk cokki
+bookmarks-toolbar-chevron =
+    .tooltiptext = Nyut alama buk mukene
+bookmarks-sidebar-content =
+    .aria-label = Alama buk
+bookmarks-search =
+    .label = Yeny Alamabuk
+bookmarks-toolbar-menu =
+    .label = Gintic me alama buk
+bookmarks-toolbar-placeholder =
+    .title = Jami me gintic me alama buk
+bookmarks-toolbar-placeholder-button =
+    .label = Jami me gintic me alama buk
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Ket alama buk i pot buk man
+library-bookmarks-bookmark-edit =
+    .label = Yub alama buk man
+
+## More items
+
+more-menu-go-offline =
+    .label = Ti ma pe ikube iyamo
+    .accesskey = T
