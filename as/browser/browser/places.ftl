@@ -60,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = বৈশিষ্ট্যসমূহ
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = পৰিচালিত বুকমাৰ্কসমূহ
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = উপফ'ল্ডাৰ
