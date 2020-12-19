@@ -368,6 +368,8 @@ pointerlock-warning-no-domain = ဒီစာတမ်းသည် သင့်�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = မှတ်သားချက်များအားလုံးကို ပြသပါ
 bookmarks-sidebar-content =
     .aria-label = မှတ်သားချက်များ
 
