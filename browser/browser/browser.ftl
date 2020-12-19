@@ -506,6 +506,10 @@ pointerlock-warning-no-domain = Ez a dokumentum vezérli az egérmutatóját. Ny
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Minden könyvjelző megjelenítése
+bookmarks-toolbar-chevron =
+    .tooltiptext = További könyvjelzők megjelenítése
 bookmarks-sidebar-content =
     .aria-label = Könyvjelzők
 bookmarks-toolbar-menu =
