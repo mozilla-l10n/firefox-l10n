@@ -206,6 +206,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = ປິດ
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -272,3 +275,20 @@ fullscreen-exit-mac-button = ອອກຈາກໂຫມດເຕັມຫນ້
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ໄດ້ຄວບຄຸມຄົວຊີ້ຂອງທ່ານ. ກົດ Esc ເພື່ອເອົາການຄວບຄຸມກັບຄືນມາ.
 pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບຄຸມຕົວຊີ້ຂອງທ່ານ. ກົດ Esc ເພື່ອເອົາການຄວບຄຸມກັບຄືນມາ.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = ບຸກມາກ
+bookmarks-toolbar-menu =
+    .label = ແຖບເຄື່ອງມືບຸກມາກ
+bookmarks-toolbar-placeholder =
+    .title = ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ
+bookmarks-toolbar-placeholder-button =
+    .label = ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ
+
+## Library Panel items
+
+
+## More items
+
