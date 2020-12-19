@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = 暂时不要
     .secondarybuttonaccesskey = N
+appmenu-update-other-instance-message = { -brand-shorter-name } 有更新可用，由于 { -brand-shorter-name } 的另一副本还在运行，因此无法安装。您可以将其关闭以继续更新，或选择仍要更新（其他副本在重新启动之前可能无法正常工作）。
 appmenu-addon-private-browsing-installed =
     .buttonlabel = 好的，明白了
     .buttonaccesskey = O
