@@ -295,6 +295,8 @@ pointerlock-warning-no-domain = Esti documentu tien el control del to punteru. P
 
 bookmarks-show-all-bookmarks =
     .label = Amosar tolos marcadores
+bookmarks-recent-bookmarks =
+    .value = Amestao apocayá a marcadores
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar más marcadores
 bookmarks-sidebar-content =
@@ -325,3 +327,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Trabayar ensin conexón
+    .accesskey = y
