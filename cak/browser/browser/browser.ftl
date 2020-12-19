@@ -512,6 +512,30 @@ bookmarks-recent-bookmarks =
     .value = K'a nimakol tiya' ketal
 bookmarks-toolbar-chevron =
     .tooltiptext = Kek'ut pe ch'aqa' chik taq yaketal
+bookmarks-other-bookmarks-menu =
+    .label = Ch'aqa' chik taq Yaketal
+bookmarks-mobile-bookmarks-menu =
+    .label = Taq ruyaketal oyonib'äl
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Tewüx ri Ajxikin Kipas taq Yaketal
+           *[other] Titz'et ri ajxikin kipas taq yaketal
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Tewüx ri Kikajtz'ik taq Yaketal
+           *[other] Titz'et rukatz'ik taq yaketal
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Tiyuj el Kik'utsamaj taq Yaketal pa Molsamajib'äl
+           *[other] Titz'aqatisäx Kik'utsamaj taq Yaketal pa Molsamajib'äl
+        }
+bookmarks-tools =
+    .label = Taq kisamajib'al ri yakoj etal
 bookmarks-toolbar-menu =
     .label = Kicholob'al taq kisamajib'al taq yaketal
 bookmarks-toolbar-placeholder =
