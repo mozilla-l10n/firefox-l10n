@@ -508,6 +508,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži več zaznamkov
 bookmarks-sidebar-content =
     .aria-label = Zaznamki
+bookmarks-menu-button =
+    .label = Meni zaznamkov
+bookmarks-other-bookmarks-menu =
+    .label = Drugi zaznamki
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobilni zaznamki
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skrij stransko vrstico zaznamkov
+           *[other] Prikaži stransko vrstico zaznamkov
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skrij orodno vrstico zaznamkov
+           *[other] Prikaži orodno vrstico zaznamkov
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Odstrani meni zaznamkov iz orodne vrstice
+           *[other] Dodaj meni zaznamkov v orodno vrstico
+        }
+bookmarks-search =
+    .label = Iskanje po zaznamkih
+bookmarks-tools =
+    .label = Orodja zaznamkov
 bookmarks-toolbar-menu =
     .label = Vrstica zaznamkov
 bookmarks-toolbar-placeholder =
@@ -517,6 +545,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Zaznamki
 library-bookmarks-bookmark-this-page =
     .label = Dodaj stran med zaznamke
 library-bookmarks-bookmark-edit =
