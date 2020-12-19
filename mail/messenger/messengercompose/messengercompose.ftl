@@ -25,6 +25,10 @@ pill-aria-label =
         [one] { $email }: πατήστε Enter για επεξεργασία, Delete για αφαίρεση.
        *[other] { $email }, 1 από { $count }: πατήστε Enter για επεξεργασία, Delete για αφαίρεση.
     }
+#   $email (String) - the email address
+pill-tooltip-invalid-address = Το { $email } δεν είναι έγκυρη διεύθυνση email
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = Το { $email } δεν βρίσκεται στο ευρετήριό σας
 pill-action-edit =
     .label = Επεξεργασία διεύθυνσης
     .accesskey = ε
