@@ -512,6 +512,36 @@ bookmarks-recent-bookmarks =
     .value = Añadidos recientemente
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar más marcadores
+bookmarks-sidebar-content =
+    .aria-label = Marcadores
+bookmarks-menu-button =
+    .label = Menú de marcadores
+bookmarks-other-bookmarks-menu =
+    .label = Otros marcadores
+bookmarks-mobile-bookmarks-menu =
+    .label = Marcadores del móvil
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ocultar panel lateral de marcadores
+           *[other] Ver el panel lateral de marcadores
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ocultar barra de herramientas de marcadores
+           *[other] Ver la barra de marcadores
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Eliminar menú de marcadores de la barra de herramientas
+           *[other] Añadir el menú Marcadores a la barra de herramientas
+        }
+bookmarks-search =
+    .label = Buscar marcadores
+bookmarks-tools =
+    .label = Herramientas de marcadores
 bookmarks-toolbar-menu =
     .label = Barra de herramientas de marcadores
 bookmarks-toolbar-placeholder =
@@ -521,6 +551,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Marcadores
 library-bookmarks-bookmark-this-page =
     .label = Añadir esta página a marcadores
 library-bookmarks-bookmark-edit =
