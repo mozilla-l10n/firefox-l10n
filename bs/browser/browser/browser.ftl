@@ -347,6 +347,8 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad vašim pointerom.
 
 bookmarks-show-all-bookmarks =
     .label = Prikaži sve zabilješke
+bookmarks-recent-bookmarks =
+    .value = Nedavno zabilježeno
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
 bookmarks-sidebar-content =
@@ -362,6 +364,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Zabilježi ovu stranicu
+library-bookmarks-bookmark-edit =
+    .label = Uredi ovu Zabilješku
 
 ## More items
 
