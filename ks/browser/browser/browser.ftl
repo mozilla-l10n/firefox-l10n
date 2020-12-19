@@ -132,6 +132,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = بند
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -175,3 +178,31 @@ urlbar-result-action-search-w-engine = سْیت کْریو تلاش
 
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = سٲری نشانزد ہٲویو
+bookmarks-toolbar-chevron =
+    .tooltiptext = مزید نشان زد ہٲویو
+bookmarks-sidebar-content =
+    .aria-label = نشان زَد
+bookmarks-toolbar-menu =
+    .label = نشان زد ٹول بار
+bookmarks-toolbar-placeholder =
+    .title = ٹولبار آیٹمن تھٲویو نشان
+bookmarks-toolbar-placeholder-button =
+    .label = ٹولبار آیٹمن تھٲویو نشان
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = یتھ صفحس تھٲویو نشان زد
+library-bookmarks-bookmark-edit =
+    .label = یئ نشان زَد كریو ایڈيٹ
+
+## More items
+
+more-menu-go-offline =
+    .label = آف  لائن  كریو كئم&
+    .accesskey = k
