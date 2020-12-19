@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Этот документ контролируе
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Показать больше закладок
 bookmarks-toolbar-menu =
     .label = Панель закладок
 bookmarks-toolbar-placeholder =
