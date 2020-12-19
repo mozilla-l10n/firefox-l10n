@@ -516,8 +516,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Kiti adresai
 bookmarks-sidebar-content =
     .aria-label = Adresynas
+bookmarks-menu-button =
+    .label = Adresyno meniu
+bookmarks-other-bookmarks-menu =
+    .label = Kiti adresai
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobilusis adresynas
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Nerodyti adresyno parankinėje
+           *[other] Rodyti adresyną parankinėje
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Slėpti adresyno juostą
+           *[other] Rodyti adresyno juostą
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Išimti adresyno meniu iš priemonių juostos
+           *[other] Pridėti adresyno meniu į priemonių juostą
+        }
 bookmarks-search =
     .label = Ieškoti adresyne
+bookmarks-tools =
+    .label = Adresyno priemonės
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Adresyno juosta
+    .accesskey = A
+    .aria-label = Adresynas
 bookmarks-toolbar-menu =
     .label = Adresyno juosta
 bookmarks-toolbar-placeholder =
@@ -527,6 +560,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Adresynas
 library-bookmarks-bookmark-this-page =
     .label = Įrašyti į adresyną
 library-bookmarks-bookmark-edit =
