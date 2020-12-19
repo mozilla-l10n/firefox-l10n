@@ -51,6 +51,7 @@ printui-duplex-checkbox = Imprimir los dos costats
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprimir las entèstas e los pè de pagina
 printui-backgrounds-checkbox = Imprimir los rèireplans
+printui-selection-checkbox = Sonque imprimir la seleccion
 printui-color-mode-label = Mòde color
 printui-color-mode-color = Color
 printui-color-mode-bw = Blanc e negre

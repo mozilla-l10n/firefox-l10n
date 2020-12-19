@@ -187,7 +187,9 @@ remote-debugging-url = URL
 
 support-third-party-modules-module = Fichièr del modul
 support-third-party-modules-version = Version del fichièr
+support-third-party-modules-vendor = ID del vendeire
 support-third-party-modules-occurrence = Occuréncia
+support-third-party-modules-thread = Fil d’execucion
 support-third-party-modules-duration = Durada de cargament (ms)
 support-third-party-modules-no-value = (Cap de valor)
 support-third-party-modules-button-open =
@@ -196,6 +198,8 @@ support-third-party-modules-expand =
     .title = Mostrar las informacions detalhadas
 support-third-party-modules-unsigned-icon =
     .title = Aqueste modul es pas signat
+support-third-party-modules-folder-icon =
+    .title = Dobrir l’emplaçament del fichièr…
 support-third-party-modules-down-icon =
     .title = Mostrar las informacions detalhadas
 # Variables
