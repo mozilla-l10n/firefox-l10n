@@ -502,10 +502,40 @@ pointerlock-warning-no-domain = This document has control of your pointer. Press
 
 bookmarks-show-all-bookmarks =
     .label = Show All Bookmarks
+bookmarks-recent-bookmarks =
+    .value = Recently Bookmarked
 bookmarks-toolbar-chevron =
     .tooltiptext = Show more bookmarks
 bookmarks-sidebar-content =
     .aria-label = Bookmarks
+bookmarks-menu-button =
+    .label = Bookmarks Menu
+bookmarks-other-bookmarks-menu =
+    .label = Other Bookmarks
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobile Bookmarks
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Hide Bookmarks Sidebar
+           *[other] View Bookmarks Sidebar
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Hide Bookmarks Toolbar
+           *[other] View Bookmarks Toolbar
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Remove Bookmarks Menu from Toolbar
+           *[other] Add Bookmarks Menu to Toolbar
+        }
+bookmarks-search =
+    .label = Search Bookmarks
+bookmarks-tools =
+    .label = Bookmarking Tools
 bookmarks-toolbar-menu =
     .label = Bookmarks Toolbar
 bookmarks-toolbar-placeholder =
@@ -515,8 +545,15 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Bookmarks
 library-bookmarks-bookmark-this-page =
     .label = Bookmark This Page
+library-bookmarks-bookmark-edit =
+    .label = Edit This Bookmark
 
 ## More items
 
+more-menu-go-offline =
+    .label = Work Offline
+    .accesskey = k
