@@ -506,10 +506,38 @@ pointerlock-warning-no-domain = Dieses Dokument kontrolliert den Mauszeiger. Dr�
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Lesezeichen verwalten
+bookmarks-recent-bookmarks =
+    .value = Kürzlich als Lesezeichen gesetzt
 bookmarks-toolbar-chevron =
     .tooltiptext = Weitere Lesezeichen anzeigen
 bookmarks-sidebar-content =
     .aria-label = Lesezeichen
+bookmarks-menu-button =
+    .label = Lesezeichen-Menü
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Lesezeichen-Sidebar schließen
+           *[other] Lesezeichen-Sidebar anzeigen
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Lesezeichen-Symbolleiste ausblenden
+           *[other] Lesezeichen-Symbolleiste anzeigen
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Lesezeichen-Menü aus Symbolleiste entfernen
+           *[other] Lesezeichen-Menü zur Symbolleiste hinzufügen
+        }
+bookmarks-search =
+    .label = Lesezeichen durchsuchen
+bookmarks-tools =
+    .label = Lesezeichen-Werkzeuge
 bookmarks-toolbar-menu =
     .label = Lesezeichen-Symbolleiste
 bookmarks-toolbar-placeholder =
@@ -519,8 +547,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Lesezeichen
 library-bookmarks-bookmark-this-page =
     .label = Lesezeichen hinzufügen
+library-bookmarks-bookmark-edit =
+    .label = Lesezeichen bearbeiten
 
 ## More items
 
