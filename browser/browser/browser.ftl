@@ -508,9 +508,41 @@ pointerlock-warning-no-domain = Bu belge işaretçinizi kontrol ediyor. Kontrol�
 
 bookmarks-toolbar-chevron =
     .tooltiptext = Daha fazla yer imi göster
+bookmarks-sidebar-content =
+    .aria-label = Yer imleri
+bookmarks-menu-button =
+    .label = Yer imleri menüsü
+bookmarks-other-bookmarks-menu =
+    .label = Diğer yer imleri
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobil yer imleri
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Yer imleri kenar çubuğunu gizle
+           *[other] Yer imleri kenar çubuğunu göster
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Yer imleri kenar çubuğunu gizle
+           *[other] Yer imleri araç çubuğunu göster
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Yer imleri menüsünü araç çubuğundan çıkar
+           *[other] Yer imleri menüsünü araç çubuğuna ekle
+        }
+bookmarks-search =
+    .label = Yer imlerinde ara
+bookmarks-tools =
+    .label = Yer imi araçları
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Yer imleri
 library-bookmarks-bookmark-this-page =
     .label = Bu sayfayı yer imlerine ekle
 
