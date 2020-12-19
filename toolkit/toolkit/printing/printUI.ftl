@@ -63,6 +63,7 @@ printui-duplex-checkbox = Stampa su entrambi i lati
 printui-options = Opzioni
 printui-headers-footers-checkbox = Stampa intestazioni e piè di pagina
 printui-backgrounds-checkbox = Stampa sfondi
+printui-selection-checkbox = Stampa solo la selezione
 
 printui-color-mode-label = Modalità colore
 printui-color-mode-color = Colori
