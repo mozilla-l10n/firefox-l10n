@@ -244,6 +244,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = වසන්න
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -313,3 +316,22 @@ fullscreen-exit-mac-button = පූර්ණ තිරයෙන් පිටව�
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> හට ඔබගේ දක්වනයේ පාලනය පවතී. පාලනය නැවත ලැබීමට Esc ඔබන්න.
 pointerlock-warning-no-domain = මෙම ලේඛනය හට ඔබගේ දක්වනයේ පාලනය පවතී. පාලනය නැවත ලැබීමට Esc ඔබන්න.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = සියළු පිටුසලකුණු පෙන්වන්න…
+bookmarks-toolbar-chevron =
+    .tooltiptext = තවත් පිටුසලකුණු පෙන්වන්න
+bookmarks-toolbar-menu =
+    .label = පිටු සලකුණු මෙවලම් තීරුව
+bookmarks-toolbar-placeholder =
+    .title = පිටු සලකුණු මෙවලම් තීරුවේ අයිතමයන්
+bookmarks-toolbar-placeholder-button =
+    .label = පිටු සලකුණු මෙවලම් තීරුවේ අයිතමයන්
+
+## Library Panel items
+
+
+## More items
+
