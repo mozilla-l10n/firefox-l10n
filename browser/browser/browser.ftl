@@ -423,6 +423,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = نشانک‌های بیشتری نمایش داده شود
 bookmarks-sidebar-content =
     .aria-label = نشانک‌ها
+bookmarks-menu-button =
+    .label = نشانک‌ها فهرست
 bookmarks-other-bookmarks-menu =
     .label = نشانک‌‌های دیگر
 bookmarks-mobile-bookmarks-menu =
@@ -458,6 +460,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = نشانک ها
 library-bookmarks-bookmark-this-page =
     .label = نشانک‌گذاری این صفحه
 library-bookmarks-bookmark-edit =
