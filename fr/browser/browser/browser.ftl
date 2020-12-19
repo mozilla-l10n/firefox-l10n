@@ -532,6 +532,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Masquer la barre personnelle
            *[other] Afficher la barre personnelle
         }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Retirer le menu de la barre personnelle
+           *[other] Ajouter le menu à la barre d’outils
+        }
 bookmarks-search =
     .label = Rechercher dans les marque-pages
 bookmarks-tools =
