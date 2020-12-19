@@ -168,6 +168,10 @@ urlbar-go-button =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Hemû bijareyan nîşan bide
+bookmarks-toolbar-chevron =
+    .tooltiptext = Zêdetir bijare nîşan bide
 bookmarks-toolbar-menu =
     .label = Darikê Amûran a Bijareyan
 bookmarks-toolbar-placeholder =
