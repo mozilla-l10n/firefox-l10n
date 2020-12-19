@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Este documento tiene el control del puntero. Pul
 
 bookmarks-show-all-bookmarks =
     .label = Mostrar todos los marcadores
+bookmarks-recent-bookmarks =
+    .value = Añadidos recientemente
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar más marcadores
 bookmarks-toolbar-menu =
@@ -521,6 +523,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Añadir esta página a marcadores
+library-bookmarks-bookmark-edit =
+    .label = Editar este marcador
 
 ## More items
 
