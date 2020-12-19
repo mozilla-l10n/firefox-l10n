@@ -360,6 +360,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = অতিরিক্ত বুকমার্ক প্রদর্শন করা হবে
 bookmarks-sidebar-content =
     .aria-label = বুকমার্ক
+bookmarks-menu-button =
+    .label = বুকমার্কস মেনু
 bookmarks-other-bookmarks-menu =
     .label = অন্যান্য বুকমার্ক
 bookmarks-mobile-bookmarks-menu =
@@ -395,6 +397,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = বুকমার্কগুলি
 library-bookmarks-bookmark-this-page =
     .label = চিহ্নিত পৃষ্ঠা বুকমার্ক করুন
 library-bookmarks-bookmark-edit =
