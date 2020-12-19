@@ -512,6 +512,8 @@ bookmarks-show-all-bookmarks =
     .label = Паказаць усе закладкі
 bookmarks-toolbar-chevron =
     .tooltiptext = Паказаць больш закладак
+bookmarks-sidebar-content =
+    .aria-label = Закладкі
 
 ## Library Panel items
 
