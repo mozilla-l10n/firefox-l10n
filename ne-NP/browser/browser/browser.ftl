@@ -321,6 +321,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = अरू पुस्तकचिनोहरू देखाउनुहोस्
 bookmarks-sidebar-content =
     .aria-label = पुस्तकचिनोहरू
+bookmarks-menu-button =
+    .label = पुस्तकचिनोहरूको मेनु
+bookmarks-other-bookmarks-menu =
+    .label = अन्य पुस्तकचिनोहरू
+bookmarks-mobile-bookmarks-menu =
+    .label = मोबाइल पुस्तकचिनोहरू
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] पुस्तकचिनो साइडबार लुकाउनुहोस्
+           *[other] पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] पुस्तकचिनो उपकरणपट्टि लुकाउनुहोस्
+           *[other] पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] पुस्तकचिनो मेनु उपकरणपट्टिबाट हटाउनुहोस्
+           *[other] पुस्तकचिनो मेनु उपकरणपट्टिमा थप्नुहोस्
+        }
+bookmarks-search =
+    .label = पुस्तकचिनोहरू खोज्नुहोस्
+bookmarks-tools =
+    .label = पुस्तकचिनो लगाउने उपकरणहरू
 bookmarks-toolbar-menu =
     .label = पुस्तकचिनो उपकरणपट्टि
 bookmarks-toolbar-placeholder =
@@ -330,6 +358,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = पुस्तकचिनोहरू
 library-bookmarks-bookmark-this-page =
     .label = यस पृष्ठमा पुस्तकचिनो लगाउनुहोस्
 library-bookmarks-bookmark-edit =
