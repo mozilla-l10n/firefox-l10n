@@ -115,6 +115,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Sapinharhitani
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 
@@ -131,5 +134,38 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = Arhistatsperakuecharhu motsi
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Xarhatani iámenduecha kuirunharitarakuecha
+bookmarks-toolbar-chevron =
+    .tooltiptext = Xarhatani sánderu kuirunharitarakuecha
+bookmarks-sidebar-content =
+    .aria-label = Kuirunharitarakuecha
+bookmarks-toolbar-menu =
+    .label = T'antsïratarakuaecha
+bookmarks-toolbar-placeholder =
+    .title = T'antsïratarakuaechari t'antsïratarakua
+bookmarks-toolbar-placeholder-button =
+    .label = T'antsïratarakuaechari t'antsïratarakua
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Áxï kuparhakutini ánchikúrhi
+    .accesskey = Á
