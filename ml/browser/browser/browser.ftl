@@ -320,6 +320,10 @@ bookmarks-recent-bookmarks =
     .value = ഏറ്റവും ഒടുവില്‍ അടയാളക്കുറിപ്പാക്കിയതു്
 bookmarks-toolbar-chevron =
     .tooltiptext = കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക
+bookmarks-menu-button =
+    .label = അടയാളക്കുറിപ്പുകളുടെ പട്ടിക
+bookmarks-other-bookmarks-menu =
+    .label = മറ്റു് അടയാളക്കുറിപ്പുകള്‍
 bookmarks-toolbar-menu =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍
 bookmarks-toolbar-placeholder =
@@ -329,6 +333,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = അടയാളക്കുറിപ്പുകൾ
 library-bookmarks-bookmark-this-page =
     .label = ഈ താള്‍ അടയാളപ്പെടുത്തുക
 library-bookmarks-bookmark-edit =
