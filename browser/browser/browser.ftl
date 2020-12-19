@@ -507,3 +507,26 @@ fullscreen-exit-mac-button = Połnu wobrazowku (esc) skóńcyś
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ma kontrolu nad wašeju špěrku. Tłocćo Esc, aby kontrolu slědk dostał.
 pointerlock-warning-no-domain = Toś ten dokument ma kontrolu nad wašeju špěrku. Tłocćo Esc, aby kontrolu slědk dostał.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-chevron =
+    .tooltiptext = Dalšne cytańske znamjenja pokazaś
+bookmarks-sidebar-content =
+    .aria-label = Cytańske znamjenja
+bookmarks-toolbar-menu =
+    .label = Rědka cytańskich znamjenjow
+bookmarks-toolbar-placeholder =
+    .title = Zapiski rědki cytańskich znamjenjow
+bookmarks-toolbar-placeholder-button =
+    .label = Zapiski rědki cytańskich znamjenjow
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Toś ten bok ako cytańske znamje składowaś
+library-bookmarks-bookmark-edit =
+    .label = Toś to cytańske znamje wobźěłaś
+
+## More items
+
