@@ -173,6 +173,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Alamisho
 library-bookmarks-bookmark-edit =
     .label = Hariri Alamisho Hili
 
