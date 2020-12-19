@@ -376,6 +376,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = မှတ်သားချက်များကို ပိုမို ဖေါ်ပြသပါ
 bookmarks-sidebar-content =
     .aria-label = မှတ်သားချက်များ
+bookmarks-menu-button =
+    .label = စာမှတ်များစာရင်း
+bookmarks-other-bookmarks-menu =
+    .label = အခြား စာမှတ်များ
+bookmarks-mobile-bookmarks-menu =
+    .label = မိုဘိုင်းလ် စာအမှတ်များ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] စာမှတ်များဘေးတန်းကို ပိတ်ရန်
+           *[other] စာမှတ်များ ဘေးတန်းကို ပြပါ
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] စာမှတ်များအတန်းကို ပိတ်ရန်
+           *[other] စာမှတ်များ ကိရိယာအတန်းကို ပြပါ
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] စာမှတ်များစာရင်းကို တန်ဆာပလာအတန်းမှ ဖယ်ရှားပါ
+           *[other] စာမှတ်များစာရင်းကို တန်ဆာပလာအတန်းတွင် ပြပါ
+        }
+bookmarks-search =
+    .label = စာမှတ်များကို ရှာရန်
+bookmarks-tools =
+    .label = စာမှတ်ဆိုင်ရာ တန်ဆာပလာများ
 bookmarks-toolbar-menu =
     .label = စာမှတ်များကိရိယာအတန်း
 bookmarks-toolbar-placeholder =
@@ -385,6 +413,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = စာမှတ်များ
 library-bookmarks-bookmark-this-page =
     .label = ဒီစာမျက်နှာကို မှတ်သားပါ
 library-bookmarks-bookmark-edit =
