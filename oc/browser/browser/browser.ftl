@@ -514,8 +514,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Afichar mai de marcapaginas
 bookmarks-sidebar-content =
     .aria-label = Marcapaginas
+bookmarks-menu-button =
+    .label = Menú dels marcapaginas
+bookmarks-other-bookmarks-menu =
+    .label = Autres marcapaginas
+bookmarks-mobile-bookmarks-menu =
+    .label = Marcapaginas del mobile
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Amagar la barra laterala d'onglets
+           *[other] Afichar la barra laterala d'onglets
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Amagar la barra personala
+           *[other] Afichar la barra personala
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Levar lo menú personalizat dels marcapaginas
+           *[other] Apondre lo menú personalizat als marcapaginas
+        }
 bookmarks-search =
     .label = Recercar dins los marcapaginas
+bookmarks-tools =
+    .label = Aisinas dels marcapaginas
 bookmarks-toolbar-placeholder =
     .title = Elements de la barra personala
 bookmarks-toolbar-placeholder-button =
@@ -523,6 +549,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Marcapaginas
 library-bookmarks-bookmark-this-page =
     .label = Marcar aquesta pagina
 
