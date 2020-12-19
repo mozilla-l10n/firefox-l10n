@@ -512,11 +512,17 @@ bookmarks-sidebar-content =
     .aria-label = Bokmerke
 bookmarks-toolbar-menu =
     .label = Bokmerke
+bookmarks-toolbar-placeholder =
+    .title = Element i bokmerkelinja
+bookmarks-toolbar-placeholder-button =
+    .label = Element i bokmerkelinja
 
 ## Library Panel items
 
 library-bookmarks-bookmark-this-page =
     .label = Bokmerk denne sida
+library-bookmarks-bookmark-edit =
+    .label = Rediger dette bokmerket
 
 ## More items
 
