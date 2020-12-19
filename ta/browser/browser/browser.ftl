@@ -329,6 +329,8 @@ pointerlock-warning-no-domain = இந்த ஆவணம் உங்கள் 
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-sidebar-content =
+    .aria-label = புத்தகக்குறிகள்
 bookmarks-toolbar-placeholder =
     .title = புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்
 bookmarks-toolbar-placeholder-button =
