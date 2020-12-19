@@ -503,3 +503,18 @@ fullscreen-exit-mac-button = Έξοδος από πλήρη οθόνη (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = Το <span data-l10n-name="domain">{ $domain }</span> ελέγχει τον κέρσορα. Πατήστε Esc για ανάκτηση ελέγχου.
 pointerlock-warning-no-domain = Αυτό το έγγραφο ελέγχει τον κέρσορα. Πατήστε Esc για ανάκτηση ελέγχου.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Προβολή όλων των σελιδοδεικτών
+bookmarks-toolbar-chevron =
+    .tooltiptext = Προβολή περισσότερων σελιδοδεικτών
+bookmarks-sidebar-content =
+    .aria-label = Σελιδοδείκτες
+
+## Library Panel items
+
+
+## More items
+
