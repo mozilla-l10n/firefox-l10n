@@ -544,6 +544,13 @@ bookmarks-search =
     .label = Пошук закладок
 bookmarks-tools =
     .label = Інструменти закладок
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Панель закладок
+    .accesskey = к
+    .aria-label = Закладки
 bookmarks-toolbar-menu =
     .label = Панель закладок
 bookmarks-toolbar-placeholder =
