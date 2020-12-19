@@ -506,8 +506,26 @@ pointerlock-warning-no-domain = Este documento tem o controle do seu ponteiro. P
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-recent-bookmarks =
+    .value = Favoritos recentes
+bookmarks-toolbar-chevron =
+    .tooltiptext = Mostrar mais favoritos
 bookmarks-sidebar-content =
     .aria-label = Favoritos
+bookmarks-other-bookmarks-menu =
+    .label = Outros favoritos
+bookmarks-mobile-bookmarks-menu =
+    .label = Favoritos do celular
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Remover menu de favoritos da barra de ferramentas
+           *[other] Adicionar menu de favoritos à barra de ferramentas
+        }
+bookmarks-search =
+    .label = Pesquisar nos favoritos
+bookmarks-tools =
+    .label = Ferramentas de favoritos
 bookmarks-toolbar-menu =
     .label = Barra de favoritos
 bookmarks-toolbar-placeholder =
