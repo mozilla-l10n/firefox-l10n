@@ -408,6 +408,12 @@ bookmarks-toolbar-chevron =
     .tooltiptext = আরও বুকমার্ক প্রদর্শন
 bookmarks-sidebar-content =
     .aria-label = বুকমার্ক
+bookmarks-menu-button =
+    .label = বুকমার্ক মেনু
+bookmarks-other-bookmarks-menu =
+    .label = অন্যান্য বুকমার্ক
+bookmarks-mobile-bookmarks-menu =
+    .label = মোবাইলের বুকমার্ক
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
@@ -438,6 +444,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = বুকমার্ক
 library-bookmarks-bookmark-this-page =
     .label = এই পাতা বুকমার্ক করুন
 library-bookmarks-bookmark-edit =
