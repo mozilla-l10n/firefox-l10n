@@ -272,6 +272,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Zatvori
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -339,3 +342,29 @@ fullscreen-exit-mac-button = Izađite iz cijelog ekrana (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.
 pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Prikaži sve zabilješke
+bookmarks-toolbar-chevron =
+    .tooltiptext = Prikaži više zabilješki
+bookmarks-sidebar-content =
+    .aria-label = Zabilješke
+bookmarks-toolbar-menu =
+    .label = Traka sa zabilješkama
+bookmarks-toolbar-placeholder =
+    .title = Stavke trake sa zabilješkama
+bookmarks-toolbar-placeholder-button =
+    .label = Stavke trake sa zabilješkama
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Zabilježi ovu stranicu
+
+## More items
+
+more-menu-go-offline =
+    .label = Radi offline
+    .accesskey = R
