@@ -516,6 +516,21 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Паказаць больш закладак
 bookmarks-sidebar-content =
     .aria-label = Закладкі
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Схаваць паліцу закладак
+           *[other] Паказаць паліцу закладак
+        }
+bookmarks-search =
+    .label = Шукаць у закладках
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Паліца закладак
+    .accesskey = з
+    .aria-label = Закладкі
 bookmarks-toolbar-menu =
     .label = Паліца закладак
 bookmarks-toolbar-placeholder =
