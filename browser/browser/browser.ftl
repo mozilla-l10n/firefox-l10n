@@ -500,10 +500,14 @@ pointerlock-warning-no-domain = 此文档已控制您的鼠标指针。按 Esc �
 
 bookmarks-show-all-bookmarks =
     .label = 管理所有书签
+bookmarks-recent-bookmarks =
+    .value = 最近的书签
 bookmarks-toolbar-chevron =
     .tooltiptext = 显示更多书签
 bookmarks-sidebar-content =
     .aria-label = 书签
+bookmarks-menu-button =
+    .label = 书签菜单
 bookmarks-other-bookmarks-menu =
     .label = 其他书签
 bookmarks-mobile-bookmarks-menu =
@@ -539,6 +543,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = 书签
 library-bookmarks-bookmark-this-page =
     .label = 为此页添加书签
 library-bookmarks-bookmark-edit =
