@@ -482,6 +482,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Tampilkan markah lainnya
 bookmarks-sidebar-content =
     .aria-label = Markah
+bookmarks-menu-button =
+    .label = Menu Markah
 bookmarks-other-bookmarks-menu =
     .label = Markah Lain
 bookmarks-mobile-bookmarks-menu =
@@ -497,6 +499,12 @@ bookmarks-tools-toolbar-visibility =
         { $isVisible ->
             [true] Sembunyikan Bilah Alat Markah
            *[other] Tampilkan Bilah Alat Markah
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Hapus Menu Markah dari Bilah Alat
+           *[other] Tambahkan Menu Markah ke Bilah Alat
         }
 bookmarks-search =
     .label = Cari Markah
@@ -518,6 +526,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Markah
 library-bookmarks-bookmark-this-page =
     .label = Markahi Laman ini
 library-bookmarks-bookmark-edit =
