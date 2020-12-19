@@ -484,9 +484,17 @@ pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong poin
 
 bookmarks-toolbar-chevron =
     .tooltiptext = Magpakita ng karagdagang mga bookmark
+bookmarks-sidebar-content =
+    .aria-label = Mga bookmark
+bookmarks-mobile-bookmarks-menu =
+    .label = Mga Mobile Bookmark
+bookmarks-search =
+    .label = Hanapin sa mga Bookmark
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Mga bookmark
 library-bookmarks-bookmark-this-page =
     .label = i-Bookmark ang Pahinang Ito
 library-bookmarks-bookmark-edit =
