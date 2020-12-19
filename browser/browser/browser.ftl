@@ -506,6 +506,10 @@ pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepekeren d
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Vis alle bokmerker
+bookmarks-toolbar-chevron =
+    .tooltiptext = Vis flere bokmerker
 bookmarks-sidebar-content =
     .aria-label = Bokmerker
 bookmarks-toolbar-menu =
@@ -517,6 +521,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Bokmerk denne siden
+library-bookmarks-bookmark-edit =
+    .label = Rediger dette bokmerket
 
 ## More items
 
