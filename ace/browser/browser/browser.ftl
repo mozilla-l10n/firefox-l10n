@@ -173,6 +173,12 @@ bookmarks-menu-button =
     .label = Menu Peutanda
 bookmarks-other-bookmarks-menu =
     .label = Peutanda Laén
+bookmarks-toolbar-menu =
+    .label = Bar Alat Peutanda
+bookmarks-toolbar-placeholder =
+    .title = Beunda Bar Alat Peutanda
+bookmarks-toolbar-placeholder-button =
+    .label = Beunda Bar Alat Peutanda
 
 ## Library Panel items
 
