@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Este documento tiene el control del puntero. Pul
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = Mostrar más marcadores
 bookmarks-toolbar-menu =
     .label = Barra de herramientas de marcadores
 bookmarks-toolbar-placeholder =
