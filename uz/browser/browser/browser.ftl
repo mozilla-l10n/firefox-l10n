@@ -454,6 +454,15 @@ bookmarks-search =
     .label = Xatcho‘plarni qidirish
 bookmarks-tools =
     .label = Xatcho‘p vositalari
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Xatchoʻplar paneli
+    .accesskey = X
+    .aria-label = Xatchoʻplar
+bookmarks-toolbar-menu =
+    .label = Xatchoʻplar paneli
 bookmarks-toolbar-placeholder =
     .title = Xatcho‘plar paneli bandlari
 bookmarks-toolbar-placeholder-button =
