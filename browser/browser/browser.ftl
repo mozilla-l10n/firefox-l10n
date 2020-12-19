@@ -398,8 +398,34 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Tuilleadh chomharran-lìn
 bookmarks-sidebar-content =
     .aria-label = Comharran-lìn
+bookmarks-menu-button =
+    .label = Clàr-taice nan comharra-lìn
+bookmarks-other-bookmarks-menu =
+    .label = Comharran-lìn eile
+bookmarks-mobile-bookmarks-menu =
+    .label = Comharran-lìn mobile
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Falaich bàr-taoibh nan comharra-lìn
+           *[other] Seall bàr-taoibh nan comharra-lìn
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Falaich bàr-inneal nan comharra-lìn
+           *[other] Seall bàr nan comharra-lìn
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Thoir air falbh clàr-taice nan comharra-lìn on bhàr-inneal
+           *[other] Cuir clàr-taice nan comharra-lìn ris a’ bhàr-inneal
+        }
 bookmarks-search =
     .label = Lorg sna comharran-lìn
+bookmarks-tools =
+    .label = Innealan nan comharra-lìn
 bookmarks-toolbar-menu =
     .label = Bàr nan comharra-lìn
 bookmarks-toolbar-placeholder =
@@ -409,6 +435,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Comharran-lìn
 library-bookmarks-bookmark-this-page =
     .label = Cruthaich comharra-lìn dhan duilleag seo
 library-bookmarks-bookmark-edit =
