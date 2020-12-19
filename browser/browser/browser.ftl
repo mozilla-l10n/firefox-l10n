@@ -495,3 +495,19 @@ fullscreen-exit-mac-button = 전체 화면 종료 (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 사이트가 포인터를 제어하려 합니다. 다시 제어하려면 ESC 키를 누르세요.
 pointerlock-warning-no-domain = 이 문서가 포인터를 제어하려 합니다. 다시 제어하려면 ESC 키를 누르세요.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = 모든 북마크 보기
+bookmarks-sidebar-content =
+    .aria-label = 북마크
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = 오프라인으로 작업
+    .accesskey = w
