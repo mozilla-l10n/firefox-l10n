@@ -523,6 +523,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Дадаць закладку на старонку
 library-bookmarks-bookmark-edit =
     .label = Правіць гэтую закладку
 
