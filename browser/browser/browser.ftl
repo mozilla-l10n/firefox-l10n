@@ -281,10 +281,16 @@ pointerlock-warning-no-domain = Dié dokument beheer tans die wyser. Druk Esc om
 
 bookmarks-show-all-bookmarks =
     .label = Wys alle boekmerke
+bookmarks-recent-bookmarks =
+    .value = Onlangs geboekmerk
 bookmarks-toolbar-chevron =
     .tooltiptext = Wys meer boekmerke
 bookmarks-sidebar-content =
     .aria-label = Boekmerke
+bookmarks-other-bookmarks-menu =
+    .label = Ander boekmerke
+bookmarks-search =
+    .label = Deursoek boekmerke
 bookmarks-toolbar-menu =
     .label = Boekmerknutsbalk
 bookmarks-toolbar-placeholder =
@@ -294,6 +300,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Boekmerk hierdie bladsy
+library-bookmarks-bookmark-edit =
+    .label = Redigeer hierdie boekmerk
 
 ## More items
 
