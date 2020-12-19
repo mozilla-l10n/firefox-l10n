@@ -466,11 +466,29 @@ pointerlock-warning-no-domain = Documentul controlează acum cursorul. Apasă Es
 
 bookmarks-show-all-bookmarks =
     .label = Afișează toate marcajele
+bookmarks-toolbar-chevron =
+    .tooltiptext = Afișează mai multe marcaje
 bookmarks-sidebar-content =
     .aria-label = Marcaje
+bookmarks-other-bookmarks-menu =
+    .label = Alte marcaje
+bookmarks-mobile-bookmarks-menu =
+    .label = Marcaje mobile
+bookmarks-search =
+    .label = Caută marcaje
+bookmarks-tools =
+    .label = Instrumente pentru marcaje
+bookmarks-toolbar-menu =
+    .label = Bară de marcaje
+bookmarks-toolbar-placeholder =
+    .title = Elemente pe bara de marcaje
+bookmarks-toolbar-placeholder-button =
+    .label = Elemente pe bara de marcaje
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Editează acest marcaj
 
 ## More items
 
