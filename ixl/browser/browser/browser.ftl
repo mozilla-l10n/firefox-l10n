@@ -203,3 +203,16 @@ browser-window-close-button =
 
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Aq'ol texhlal
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Aq'ol texhlal
+
+## More items
+
