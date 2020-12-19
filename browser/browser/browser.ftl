@@ -316,6 +316,28 @@ bookmarks-toolbar-chevron =
     .tooltiptext = ಇನ್ನಷ್ಟು ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು
 bookmarks-sidebar-content =
     .aria-label = ಪುಟಗುರುತುಗಳು
+bookmarks-menu-button =
+    .label = ಪುಟಗುರುತುಗಳ ಪರಿವಿಡಿ
+bookmarks-other-bookmarks-menu =
+    .label = ಇತರೆ ಪುಟಗುರುತುಗಳು
+bookmarks-mobile-bookmarks-menu =
+    .label = ಮೊಬೈಲ್ ಬುಕ್‌ಮಾರ್ಕುಗಳು
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ಪುಟಗುರುತುಗಳ ಬದಿಪಟ್ಟಿಯನ್ನು ಅಡಗಿಸು
+           *[other] ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ‍ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ಅಡಗಿಸು
+           *[other] ಪುಟಗುರುತುಗಳ ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನೋಡು
+        }
+bookmarks-search =
+    .label = ಬುಕ್‌ಮಾರ್ಕುಗಳಿಗಾಗಿ ಹುಡುಕು
+bookmarks-tools =
+    .label = ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಗಳು
 bookmarks-toolbar-menu =
     .label = ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ
 bookmarks-toolbar-placeholder =
@@ -325,6 +347,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = ಪುಟಗುರುತುಗಳು
 library-bookmarks-bookmark-this-page =
     .label = ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು
 library-bookmarks-bookmark-edit =
