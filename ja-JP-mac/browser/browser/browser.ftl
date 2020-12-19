@@ -550,3 +550,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = オフライン作業
+    .accesskey = k
