@@ -386,6 +386,8 @@ pointerlock-warning-no-domain = Sto documento o l'à o contròllo do teu pontat�
 
 bookmarks-show-all-bookmarks =
     .label = Fanni vedde tutti i segnalibbri
+bookmarks-recent-bookmarks =
+    .value = Segnalibbri reçenti
 bookmarks-toolbar-chevron =
     .tooltiptext = Fanni vedde ciù segnalibbri
 bookmarks-sidebar-content =
