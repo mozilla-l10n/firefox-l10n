@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Ce document contrôle votre pointeur. Appuyez su
 
 bookmarks-show-all-bookmarks =
     .label = Afficher tous les marque-pages
+bookmarks-recent-bookmarks =
+    .value = Marqués récemment
 bookmarks-toolbar-chevron =
     .tooltiptext = Afficher plus de marque-pages
 bookmarks-toolbar-menu =
@@ -521,6 +523,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Marquer cette page
+library-bookmarks-bookmark-edit =
+    .label = Modifier ce marque-page
 
 ## More items
 
