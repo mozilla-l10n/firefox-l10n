@@ -542,6 +542,13 @@ bookmarks-search =
     .label = Tschertgar en ils segnapaginas
 bookmarks-tools =
     .label = Utensils da segnapaginas
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Trav d'utensils dals segnapaginas
+    .accesskey = u
+    .aria-label = Segnapaginas
 bookmarks-toolbar-menu =
     .label = Trav d'utensils dals segnapaginas
 bookmarks-toolbar-placeholder =
