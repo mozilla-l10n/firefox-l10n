@@ -506,9 +506,48 @@ pointerlock-warning-no-domain = Dette dokument kontrollerer din markør. Tryk Es
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Vis alle bogmærker
+bookmarks-recent-bookmarks =
+    .value = Seneste bogmærker
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis flere bogmærker
 bookmarks-sidebar-content =
+    .aria-label = Bogmærker
+bookmarks-menu-button =
+    .label = Bogmærke-menuen
+bookmarks-other-bookmarks-menu =
+    .label = Andre bogmærker
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobil-bogmærker
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skjul bogmærker i sidepanel
+           *[other] Vis bogmærker i sidepanel
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skjul bogmærkelinjen
+           *[other] Vis bogmærkelinjen
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Fjern bogmærke-menuen fra værktøjslinjen
+           *[other] Føj bogmærke-menuen til værktøjslinjen
+        }
+bookmarks-search =
+    .label = Søg i bogmærker
+bookmarks-tools =
+    .label = Bogmærke-værktøjer
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bogmærkelinje
+    .accesskey = B
     .aria-label = Bogmærker
 bookmarks-toolbar-menu =
     .label = Bogmærkelinje
@@ -519,8 +558,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Bogmærker
 library-bookmarks-bookmark-this-page =
     .label = Bogmærk denne side
+library-bookmarks-bookmark-edit =
+    .label = Rediger bogmærke
 
 ## More items
 
