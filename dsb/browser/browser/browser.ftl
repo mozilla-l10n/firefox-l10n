@@ -510,10 +510,16 @@ pointerlock-warning-no-domain = Toś ten dokument ma kontrolu nad wašeju špěr
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Wše cytańske znamjenja pokazaś
+bookmarks-recent-bookmarks =
+    .value = Tuchylu ako cytańske znamje składowane
 bookmarks-toolbar-chevron =
     .tooltiptext = Dalšne cytańske znamjenja pokazaś
 bookmarks-sidebar-content =
     .aria-label = Cytańske znamjenja
+bookmarks-search =
+    .label = Cytańske znamjenja pytaś
 bookmarks-toolbar-menu =
     .label = Rědka cytańskich znamjenjow
 bookmarks-toolbar-placeholder =
