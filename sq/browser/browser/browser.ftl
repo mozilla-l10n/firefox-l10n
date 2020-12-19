@@ -502,3 +502,21 @@ fullscreen-exit-mac-button = Dilni Nga Sa Krejt Ekrani (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> është në kontroll të kursorit tuaj. Shtypni Esc që të rimerrni kontrollin.
 pointerlock-warning-no-domain = Kursori është nën kontrollin e kursorit tuaj. Shtypni Esc që të rimerrni kontrollin.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Panel Faqerojtësish
+bookmarks-toolbar-placeholder =
+    .title = Objekte Paneli Faqerojtësish
+bookmarks-toolbar-placeholder-button =
+    .label = Objekte Paneli Faqerojtësish
+
+## Library Panel items
+
+
+## More items
+
+more-menu-go-offline =
+    .label = Puno i Palidhur
+    .accesskey = o
