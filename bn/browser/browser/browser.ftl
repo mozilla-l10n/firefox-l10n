@@ -408,8 +408,27 @@ bookmarks-toolbar-chevron =
     .tooltiptext = আরও বুকমার্ক প্রদর্শন
 bookmarks-sidebar-content =
     .aria-label = বুকমার্ক
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক সাইডবার লুকাও
+           *[other] বুকমার্ক সাইডবার প্রদর্শন
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক টুলবার লুকাও
+           *[other] বুকমার্ক টুলবার প্রদর্শন
+        }
 bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = বুকমার্ক টুলবার B
+    .accesskey = B
+    .aria-label = বুকমার্ক
 bookmarks-toolbar-menu =
     .label = বুকমার্ক টুলবার B
 bookmarks-toolbar-placeholder =
