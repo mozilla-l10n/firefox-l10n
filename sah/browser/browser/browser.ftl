@@ -181,6 +181,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Бэлиэни уларытыы
 
 ## More items
 
