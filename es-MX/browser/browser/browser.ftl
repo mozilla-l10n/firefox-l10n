@@ -508,9 +508,42 @@ pointerlock-warning-no-domain = Este documento tiene el control de tu puntero. P
 
 bookmarks-show-all-bookmarks =
     .label = Mostrar todos los marcadores
+bookmarks-recent-bookmarks =
+    .value = Agregados recientemente a Marcadores
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar más marcadores
 bookmarks-sidebar-content =
+    .aria-label = Marcadores
+bookmarks-other-bookmarks-menu =
+    .label = Otros Marcadores
+bookmarks-mobile-bookmarks-menu =
+    .label = Marcadores móviles
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ocultar barra lateral de marcadores
+           *[other] Ver el panel lateral de marcadores
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ocultar barra de marcadores
+           *[other] Ver la barra de marcadores
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Eliminar menú de marcadores de la barra de herramientas
+           *[other] Agregar menú de marcadores a la barra de herramientas
+        }
+bookmarks-tools =
+    .label = Herramientas de marcadores
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Marcadores
+    .accesskey = M
     .aria-label = Marcadores
 bookmarks-toolbar-menu =
     .label = Marcadores
