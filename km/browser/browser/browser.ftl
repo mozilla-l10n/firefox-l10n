@@ -344,6 +344,32 @@ bookmarks-toolbar-chevron =
     .tooltiptext = បង្ហាញ​ចំណាំ​​ថែមទៀត
 bookmarks-sidebar-content =
     .aria-label = ចំណាំ
+bookmarks-menu-button =
+    .label = ម៉ឺនុយ​ចំណាំ
+bookmarks-other-bookmarks-menu =
+    .label = ចំណាំ​ផ្សេងៗ
+bookmarks-mobile-bookmarks-menu =
+    .label = ចំណាំ​ចល័ត
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] លាក់​របារ​ឧបករណ៍​ចំណាំ
+           *[other] មើល​របារ​ឧបករណ៍​ចំណាំ
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] លាក់របារឧបករណ៍ចំណាំ
+           *[other] មើល​របារ​ឧបករណ៍​ចំណាំ
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ដក​ម៉ឺនុយចំណាំចេញពីរបារឧបករណ៍
+           *[other] បញ្ចូល​ម៉ឺនុយចំណាំទៅកាន់របារឧបករណ៍
+        }
+bookmarks-tools =
+    .label = ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-menu =
     .label = របារ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-placeholder =
@@ -353,6 +379,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = ចំណាំ
 library-bookmarks-bookmark-this-page =
     .label = ចំណាំ​ទំព័រ​នេះ
 library-bookmarks-bookmark-edit =
