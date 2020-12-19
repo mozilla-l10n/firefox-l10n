@@ -358,6 +358,24 @@ bookmarks-toolbar-chevron =
     .tooltiptext = आणखी वाचनखूणा दर्शवा
 bookmarks-sidebar-content =
     .aria-label = वाचनखूणा
+bookmarks-menu-button =
+    .label = वाचनखूणा यादी
+bookmarks-other-bookmarks-menu =
+    .label = इतर वाचनखूणा
+bookmarks-mobile-bookmarks-menu =
+    .label = मोबाईल वाचनखूणा
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] वाचनखूणांची बाजूपट्टी दृष्टीआड ठेवा
+           *[other] वाचनखूणा साधनपट्टी दृष्य
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] वाचनखूणांची साधनपट्टी दृष्टीआड ठेवा
+           *[other] वाचनखूणा साधनपट्टी दृष्य
+        }
 bookmarks-search =
     .label = वाचनखुणा शोधा
 bookmarks-toolbar-menu =
@@ -369,6 +387,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = वाचनखूणा
 library-bookmarks-bookmark-this-page =
     .label = या पृष्ठास वाचनखूण लावा
 library-bookmarks-bookmark-edit =
