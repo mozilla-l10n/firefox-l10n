@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. D
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-recent-bookmarks =
+    .value = Resint oanmakke blêdwizers
 bookmarks-toolbar-chevron =
     .tooltiptext = Mear blêdwizers toane
 bookmarks-sidebar-content =
