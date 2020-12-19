@@ -261,6 +261,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = បិទ
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -330,3 +333,18 @@ fullscreen-exit-mac-button = បិទ​ពេញ​អេក្រង់ (គ�
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> មាន​ការ​គ្រប់គ្រង​លើ​ព្រួញ​ចង្អុល​របស់​អ្នក។ ចុច Esc ដើម្បី​ទទួល​បាន​ការ​គ្រប់គ្រង​មកវិញ។
 pointerlock-warning-no-domain = ឯកសារនេះ​មាន​សិទ្ធ​គ្រប់គ្រង​លើ​ព្រួញ​ចង្អុល​របស់​អ្នក។ ចុច Esc ដើម្បី​ទទួល​បាន​ការ​គ្រប់គ្រង​មក​វិញ។
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-placeholder =
+    .title = ធាតុ​របារ​ឧបករណ៍​​ចំណាំ
+bookmarks-toolbar-placeholder-button =
+    .label = ធាតុ​របារ​ឧបករណ៍​​ចំណាំ
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = ចំណាំ​ទំព័រ​នេះ
+
+## More items
+
