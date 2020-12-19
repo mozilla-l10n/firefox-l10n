@@ -98,3 +98,5 @@ experimental-features-fission-description = FIssion (isolacion de sites) es una 
 experimental-features-multi-pip =
     .label = Presa en carga de vidèos incrustadas multiplas
 experimental-features-multi-pip-description = Presa en carga experimentala de la compatibilitat de vidèos incrustadas multiplas per aver mantunas fenèstras dubèrtas.
+experimental-features-http3 =
+    .label = Protocòl HTTP/3
