@@ -243,10 +243,14 @@ fullscreen-exit-mac-button = Exit Full Screen (esc)
 
 bookmarks-show-all-bookmarks =
     .label = Show All Bookmarks
+bookmarks-recent-bookmarks =
+    .value = Recently Bookmarked
 bookmarks-toolbar-chevron =
     .tooltiptext = Show more bookmarks
 bookmarks-sidebar-content =
     .aria-label = Bookmarks
+bookmarks-other-bookmarks-menu =
+    .label = Other Bookmarks
 bookmarks-toolbar-menu =
     .label = Bookmarks Toolbar
 bookmarks-toolbar-placeholder =
@@ -258,6 +262,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Bookmark This Page
+library-bookmarks-bookmark-edit =
+    .label = Edit This Bookmark
 
 ## More items
 
