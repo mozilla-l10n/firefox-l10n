@@ -514,6 +514,41 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Vis flere bokmerker
 bookmarks-sidebar-content =
     .aria-label = Bokmerker
+bookmarks-menu-button =
+    .label = Bokmerkemeny
+bookmarks-other-bookmarks-menu =
+    .label = Andre bokmerker
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobile bokmerker
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skjul bokmerkesidestolpen
+           *[other] Vis bokmerkesidestolpen
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Skjul bokmerkeverktøylinje
+           *[other] Vis bokmerkeverktøylinje
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Fjern bokmerkemeny fra verktøylinjen
+           *[other] Legg til bokmerkemeny til verktøylinjen
+        }
+bookmarks-search =
+    .label = Søk i bokmerker
+bookmarks-tools =
+    .label = Verktøy for bokmerker
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Bokmerker
+    .accesskey = B
+    .aria-label = Bokmerker
 bookmarks-toolbar-menu =
     .label = Bokmerker
 bookmarks-toolbar-placeholder =
@@ -523,6 +558,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Bokmerker
 library-bookmarks-bookmark-this-page =
     .label = Bokmerk denne siden
 library-bookmarks-bookmark-edit =
