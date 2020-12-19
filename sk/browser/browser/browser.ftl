@@ -434,6 +434,8 @@ bookmarks-show-all-bookmarks =
     .label = Zobraziť všetky záložky
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobraziť ďalšie záložky
+bookmarks-sidebar-content =
+    .aria-label = Záložky
 bookmarks-toolbar-menu =
     .label = Panel záložiek
 bookmarks-toolbar-placeholder =
@@ -443,6 +445,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-edit =
+    .label = Upraviť túto záložku
 
 ## More items
 
