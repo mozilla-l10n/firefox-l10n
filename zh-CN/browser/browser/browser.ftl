@@ -500,6 +500,8 @@ pointerlock-warning-no-domain = 此文档已控制您的鼠标指针。按 Esc �
 
 bookmarks-show-all-bookmarks =
     .label = 管理所有书签
+bookmarks-toolbar-chevron =
+    .tooltiptext = 显示更多书签
 
 ## Library Panel items
 
