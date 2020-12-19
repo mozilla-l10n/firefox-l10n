@@ -386,6 +386,13 @@ bookmarks-search =
     .label = वाचनखुणा शोधा
 bookmarks-tools =
     .label = वाचनखुणा साधने
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = वाचनखूणा साधनपट्टी
+    .accesskey = B
+    .aria-label = वाचनखूणा
 bookmarks-toolbar-menu =
     .label = वाचनखूणा साधनपट्टी
 bookmarks-toolbar-placeholder =
