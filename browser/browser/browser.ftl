@@ -392,10 +392,14 @@ pointerlock-warning-no-domain = Tha smachd aig an sgrìobhainn seo air an tomhai
 
 bookmarks-show-all-bookmarks =
     .label = Seall a h-uile comharra-lìn
+bookmarks-recent-bookmarks =
+    .value = Comharran-lìn a rinn thu o chionn goirid
 bookmarks-toolbar-chevron =
     .tooltiptext = Tuilleadh chomharran-lìn
 bookmarks-sidebar-content =
     .aria-label = Comharran-lìn
+bookmarks-search =
+    .label = Lorg sna comharran-lìn
 bookmarks-toolbar-menu =
     .label = Bàr nan comharra-lìn
 bookmarks-toolbar-placeholder =
@@ -405,6 +409,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Cruthaich comharra-lìn dhan duilleag seo
+library-bookmarks-bookmark-edit =
+    .label = Deasaich an comharra-lìn seo
 
 ## More items
 
