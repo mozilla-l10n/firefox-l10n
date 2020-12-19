@@ -244,6 +244,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Dún
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -315,3 +318,23 @@ fullscreen-exit-mac-button = Fág Mód Lánscáileáin (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = Tá <span data-l10n-name="domain">{ $domain }</span> i gceannas ar do chúrsóir faoi láthair. Brúigh Esc chun dul i gceannas air arís.
 pointerlock-warning-no-domain = Tá an cháipéis seo i gceannas ar do chúrsóir faoi láthair. Brúigh Esc chun dul i gceannas air arís.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-menu =
+    .label = Barra Leabharmharc
+bookmarks-toolbar-placeholder =
+    .title = Rudaí ar an Bharra Leabharmharc
+bookmarks-toolbar-placeholder-button =
+    .label = Rudaí ar an Bharra Leabharmharc
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Cruthaigh Leabharmharc don Leathanach Seo
+
+## More items
+
+more-menu-go-offline =
+    .label = Oibrigh As Líne
+    .accesskey = b
