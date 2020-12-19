@@ -506,6 +506,8 @@ pointerlock-warning-no-domain = Este documento tem o controle do seu ponteiro. P
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Mostrar todos os favoritos
 bookmarks-recent-bookmarks =
     .value = Favoritos recentes
 bookmarks-toolbar-chevron =
@@ -540,6 +542,13 @@ bookmarks-search =
     .label = Pesquisar nos favoritos
 bookmarks-tools =
     .label = Ferramentas de favoritos
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barra de favoritos
+    .accesskey = r
+    .aria-label = Favoritos
 bookmarks-toolbar-menu =
     .label = Barra de favoritos
 bookmarks-toolbar-placeholder =
@@ -556,3 +565,6 @@ library-bookmarks-bookmark-edit =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Trabalhar offline
+    .accesskey = o
