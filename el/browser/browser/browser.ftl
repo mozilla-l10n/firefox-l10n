@@ -520,6 +520,12 @@ bookmarks-other-bookmarks-menu =
     .label = Άλλοι σελιδοδείκτες
 bookmarks-mobile-bookmarks-menu =
     .label = Σελιδοδείκτες κινητού
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Απόκρυψη στήλης σελιδοδεικτών
+           *[other] Προβολή στήλης σελιδοδεικτών
+        }
 bookmarks-tools-toolbar-visibility =
     .label =
         { $isVisible ->
@@ -536,6 +542,13 @@ bookmarks-search =
     .label = Αναζήτηση σελιδοδεικτών
 bookmarks-tools =
     .label = Εργαλεία σελιδοδεικτών
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Γραμμή σελιδοδεικτών
+    .accesskey = γ
+    .aria-label = Σελιδοδείκτες
 bookmarks-toolbar-menu =
     .label = Γραμμή σελιδοδεικτών
 bookmarks-toolbar-placeholder =
@@ -547,6 +560,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Σελιδοδείκτες
+library-bookmarks-bookmark-this-page =
+    .label = Δημιουργία σελιδοδείκτη
 library-bookmarks-bookmark-edit =
     .label = Επεξεργασία σελιδοδείκτη
 
