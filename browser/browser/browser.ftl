@@ -491,6 +491,8 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorem
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Zobrazit všechny záložky
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobrazí více záložek
 bookmarks-toolbar-menu =
@@ -507,3 +509,6 @@ library-bookmarks-bookmark-this-page =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Pracovat offline
+    .accesskey = l
