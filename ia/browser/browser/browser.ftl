@@ -542,6 +542,13 @@ bookmarks-search =
     .label = Cercar in le marcapaginas
 bookmarks-tools =
     .label = Instrumentos de marcapaginas
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barra de marcapaginas
+    .accesskey = m
+    .aria-label = Marcapaginas
 bookmarks-toolbar-menu =
     .label = Barra de marcapaginas
 bookmarks-toolbar-placeholder =
