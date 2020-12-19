@@ -48,6 +48,7 @@ printui-scale-pcent = Sellum
 printui-options = Iɣewwaren
 printui-headers-footers-checkbox = Siggez iqerra d yiḍarren n usebter
 printui-backgrounds-checkbox = Siggez agilal
+printui-selection-checkbox = Siggez kan tafrant
 printui-color-mode-label = Askar n yiniten
 printui-color-mode-color = Initen
 printui-color-mode-bw = Aberkan d ucebḥan
