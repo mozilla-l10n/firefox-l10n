@@ -117,6 +117,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = To-mu
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -143,5 +146,31 @@ urlbar-switch-to-tab =
 urlbar-go-button =
     .tooltiptext = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-chevron =
+    .tooltiptext = Kyerɛ mbukmaak bebree
+bookmarks-toolbar-menu =
+    .label = TuulBaa A Wɔde Sie Mbukmaak
+bookmarks-toolbar-placeholder =
+    .title = Tuulbaa Ndeɛma A Wɔde Sie Mbukmaak
+bookmarks-toolbar-placeholder-button =
+    .label = Tuulbaa Ndeɛma A Wɔde Sie Mbukmaak
+
+## Library Panel items
+
+
+## More items
 
