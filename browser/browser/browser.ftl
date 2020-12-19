@@ -415,6 +415,16 @@ pointerlock-warning-no-domain = इस दस्तेवाज को आपक
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-mobile-bookmarks-menu =
+    .label = मोबाइल बुकमार्क
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] टूलबार से बुकमार्क मेनू हटायें
+           *[other] टूलबार पर बुकमार्क मेनू डालें
+        }
+bookmarks-tools =
+    .label = बुकमार्क के उपकरण
 
 ## Library Panel items
 
