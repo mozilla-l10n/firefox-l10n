@@ -508,6 +508,10 @@ pointerlock-warning-no-domain = Dit document heeft de controle over uw aanwijzer
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Alle bladwijzers tonen
+bookmarks-toolbar-chevron =
+    .tooltiptext = Meer bladwijzers tonen
 bookmarks-sidebar-content =
     .aria-label = Bladwijzers
 bookmarks-toolbar-menu =
@@ -521,6 +525,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Bladwijzer voor deze pagina maken
+library-bookmarks-bookmark-edit =
+    .label = Deze bladwijzer bewerken
 
 ## More items
 
