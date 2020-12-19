@@ -516,14 +516,32 @@ bookmarks-sidebar-content =
     .aria-label = Segnapaginas
 bookmarks-menu-button =
     .label = Menu da segnapaginas
+bookmarks-other-bookmarks-menu =
+    .label = Auters segnapaginas
+bookmarks-mobile-bookmarks-menu =
+    .label = Segnapaginas mobils
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] Zuppentar la trav laterala da segnapaginas
            *[other] Mussar la trav laterala da segnapaginas
         }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Zuppentar la trav d'utensils da segnapaginas
+           *[other] Mussar la trav d'utensils da segnapaginas
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Allontanar il menu da segnapaginas da la trav d'utensils
+           *[other] Agiuntar il menu da segnapaginas a la trav d'utensils
+        }
 bookmarks-search =
     .label = Tschertgar en ils segnapaginas
+bookmarks-tools =
+    .label = Utensils da segnapaginas
 bookmarks-toolbar-menu =
     .label = Trav d'utensils dals segnapaginas
 bookmarks-toolbar-placeholder =
