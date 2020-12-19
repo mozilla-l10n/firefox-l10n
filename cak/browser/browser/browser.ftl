@@ -512,6 +512,10 @@ bookmarks-recent-bookmarks =
     .value = K'a nimakol tiya' ketal
 bookmarks-toolbar-chevron =
     .tooltiptext = Kek'ut pe ch'aqa' chik taq yaketal
+bookmarks-sidebar-content =
+    .aria-label = Taq yaketal
+bookmarks-menu-button =
+    .label = Kik'utsamaj taq Yaketal
 bookmarks-other-bookmarks-menu =
     .label = Ch'aqa' chik taq Yaketal
 bookmarks-mobile-bookmarks-menu =
@@ -534,8 +538,17 @@ bookmarks-tools-menu-button-visibility =
             [true] Tiyuj el Kik'utsamaj taq Yaketal pa Molsamajib'äl
            *[other] Titz'aqatisäx Kik'utsamaj taq Yaketal pa Molsamajib'äl
         }
+bookmarks-search =
+    .label = Kekanöx Yaketal
 bookmarks-tools =
     .label = Taq kisamajib'al ri yakoj etal
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Kicholob'al taq kisamajib'al taq yaketal
+    .accesskey = K
+    .aria-label = Yaketal
 bookmarks-toolbar-menu =
     .label = Kicholob'al taq kisamajib'al taq yaketal
 bookmarks-toolbar-placeholder =
@@ -545,6 +558,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Taq yaketal
 library-bookmarks-bookmark-this-page =
     .label = Titz'aqatisäx re ruxaq re' pa taq yaketal
 library-bookmarks-bookmark-edit =
