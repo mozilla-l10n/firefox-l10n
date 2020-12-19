@@ -170,6 +170,8 @@ bookmarks-show-all-bookmarks =
     .label = Бэлиэтэммити барытын көрдөр
 bookmarks-toolbar-chevron =
     .tooltiptext = Өссө бэлиэлэр
+bookmarks-sidebar-content =
+    .aria-label = Бэлиэлэр
 bookmarks-toolbar-menu =
     .label = Бэлиэтиир үстүрүмүөн
 bookmarks-toolbar-placeholder =
@@ -182,3 +184,6 @@ bookmarks-toolbar-placeholder-button =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Холбоммокко үлэ
+    .accesskey = л
