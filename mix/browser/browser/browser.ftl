@@ -120,6 +120,9 @@ bookmark-panel =
 browser-window-close-button =
     .tooltiptext = Kasi
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 
@@ -132,5 +135,28 @@ browser-window-close-button =
 ## URL Bar
 
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
 ## Full Screen and Pointer Lock UI
 
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Kaii
+
+## More items
+
+more-menu-go-offline =
+    .label = Sachu'un ta koo conexión
+    .accesskey = x
