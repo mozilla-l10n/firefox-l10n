@@ -508,10 +508,14 @@ pointerlock-warning-no-domain = Dokumentu honek zure erakuslearen kontrola dauka
 
 bookmarks-show-all-bookmarks =
     .label = Erakutsi laster-marka guztiak
+bookmarks-recent-bookmarks =
+    .value = Azken laster-markak
 bookmarks-toolbar-chevron =
     .tooltiptext = Erakutsi laster-marka gehiago
 bookmarks-sidebar-content =
     .aria-label = Laster-markak
+bookmarks-search =
+    .label = Bilatu laster-markak
 bookmarks-toolbar-menu =
     .label = Laster-marken tresna-barra
 bookmarks-toolbar-placeholder =
