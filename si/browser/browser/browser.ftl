@@ -329,6 +329,10 @@ bookmarks-sidebar-content =
     .aria-label = පිටු සලකුණු
 bookmarks-menu-button =
     .label = පිටු සලකුණු මෙනුව
+bookmarks-other-bookmarks-menu =
+    .label = වෙනත් පිටුසලකුණු
+bookmarks-mobile-bookmarks-menu =
+    .label = ජංගම පිටු සළකුණු
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
