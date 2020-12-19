@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Αυτό το έγγραφο ελέγχει το
 
 bookmarks-show-all-bookmarks =
     .label = Προβολή όλων των σελιδοδεικτών
+bookmarks-recent-bookmarks =
+    .value = Πρόσφατοι σελιδοδείκτες
 bookmarks-toolbar-chevron =
     .tooltiptext = Προβολή περισσότερων σελιδοδεικτών
 bookmarks-sidebar-content =
@@ -518,3 +520,6 @@ bookmarks-sidebar-content =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Εργασία χωρίς σύνδεση
+    .accesskey = χ
