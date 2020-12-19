@@ -498,8 +498,40 @@ pointerlock-warning-no-domain = マウスポインターは現在、このペー
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = すべてのブックマークを表示
 bookmarks-toolbar-chevron =
     .tooltiptext = 残りのブックマークを表示します
+bookmarks-sidebar-content =
+    .aria-label = ブックマーク
+bookmarks-menu-button =
+    .label = ブックマークメニュー
+bookmarks-other-bookmarks-menu =
+    .label = 他のブックマーク
+bookmarks-mobile-bookmarks-menu =
+    .label = モバイルのブックマーク
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ブックマークサイドバーを隠す
+           *[other] ブックマークサイドバーを表示
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ブックマークツールバーを隠す
+           *[other] ブックマークツールバーを表示
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] ブックマークメニューをツールバーから削除
+           *[other] ブックマークメニューをツールバーに追加
+        }
+bookmarks-search =
+    .label = ブックマークを検索
+bookmarks-tools =
+    .label = ブックマークツール
 bookmarks-toolbar-menu =
     .label = ブックマークツールバー
 bookmarks-toolbar-placeholder =
@@ -509,6 +541,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = ブックマーク
+library-bookmarks-bookmark-this-page =
+    .label = このページをブックマーク
+library-bookmarks-bookmark-edit =
+    .label = このブックマークを編集
 
 ## More items
 
