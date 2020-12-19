@@ -285,8 +285,6 @@ identity-https-only-dropdown-off =
     .label = Nonaktif
 identity-https-only-dropdown-off-temporarily =
     .label = Nonaktif sementara
-identity-https-only-info-turn-on = Aktifkan jika Anda ingin { -brand-short-name } untuk meningkatkan ke koneksi aman jika memungkinkan.
-identity-https-only-info-turn-off = Jika situs terlihat bermasalah, Anda mungkin ingin menonaktifkan Mode Hanya HTTPS lalu memuat ulang dengan HTTP yang tidak aman.
 identity-https-only-info-no-upgrade = Tidak dapat meningkatkan koneksi dari HTTP.
 identity-permissions =
     .value = Izin
@@ -332,6 +330,9 @@ browser-window-restore-down-button =
     .tooltiptext = Kembali ke Bawah
 browser-window-close-button =
     .tooltiptext = Tutup
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
@@ -438,14 +439,6 @@ urlbar-result-action-search-in-private = Cari di Jendela Pribadi
 urlbar-result-action-search-w-engine = Cari lewat { $engine }
 urlbar-result-action-switch-tab = Pindah ke Tab
 urlbar-result-action-visit = Kunjungi
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-urlbar-result-action-search-bookmarks = Cari Markah
-urlbar-result-action-search-history = Cari di Riwayat
-urlbar-result-action-search-tabs = Cari Tab
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
@@ -454,6 +447,14 @@ urlbar-result-action-tabtosearch-web = Cari dengan { $engine } langsung dari bil
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Cari dengan { $engine } langsung dari bilah alamat
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+urlbar-result-action-search-bookmarks = Cari Markah
+urlbar-result-action-search-history = Cari di Riwayat
+urlbar-result-action-search-tabs = Cari Tab
 
 ## Full Screen and Pointer Lock UI
 
@@ -470,3 +471,12 @@ fullscreen-exit-mac-button = Keluar dari Layar Penuh (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> memiliki kendali atas penunjuk Anda. Tekan Esc untuk mengembalikan kendali.
 pointerlock-warning-no-domain = Dokumen ini memiliki kendali atas pointer Anda. Tekan Esc untuk mengambil kembali kendali.
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+
+## More items
+
