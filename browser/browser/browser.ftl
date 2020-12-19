@@ -257,6 +257,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = ई पृष्ठ पुस्तकचिह्नित करू
 
 ## More items
 
