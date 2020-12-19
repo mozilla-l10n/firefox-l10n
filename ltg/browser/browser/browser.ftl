@@ -263,6 +263,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Aiztaiseit
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -332,3 +335,63 @@ fullscreen-exit-mac-button = Izīt nu pynlekrana (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.
 pointerlock-warning-no-domain = Itys dokuments kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Ruodeit vysys gruomotzeimes
+bookmarks-recent-bookmarks =
+    .value = Naseņ saglobuotuos
+bookmarks-toolbar-chevron =
+    .tooltiptext = Ruodeit vairuok gruomotzeimju
+bookmarks-sidebar-content =
+    .aria-label = Gruomotzeimes
+bookmarks-menu-button =
+    .label = Gruomotzeimju izvielne
+bookmarks-other-bookmarks-menu =
+    .label = Cytys gruomotzeimes
+bookmarks-mobile-bookmarks-menu =
+    .label = Mobiluos gruomotzeimes
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Paslēpt gruomotzeimju suonjūsla
+           *[other] Attaiseit gruomotzeimes suonjūslā
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Paslēpt gruomotzeimju suonjūsla
+           *[other] Attāloj gruomotzeimes suonu juslā
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Aizvuokt gruomotzeimju izvēlni/izvielni nu reikjūslys
+           *[other] Pīvīnuot gruomotzeimju izvēlni/izvielni reikjūslai
+        }
+bookmarks-search =
+    .label = Mekleit gruomotzeimes
+bookmarks-tools =
+    .label = Gruomotzeimju reiki
+bookmarks-toolbar-menu =
+    .label = Gruomotzeimju reikjūsla
+bookmarks-toolbar-placeholder =
+    .title = Gruomotzeimju reikjūslys elementi
+bookmarks-toolbar-placeholder-button =
+    .label = Gruomotzeimju reikjūslys elementi
+
+## Library Panel items
+
+library-bookmarks-menu =
+    .label = Gruomotzeimes
+library-bookmarks-bookmark-this-page =
+    .label = Saglobuot itū lopu gruomotzeimēs
+library-bookmarks-bookmark-edit =
+    .label = Redigeit itū gruomotzeimi
+
+## More items
+
+more-menu-go-offline =
+    .label = Struoduot nasaistī
+    .accesskey = r
