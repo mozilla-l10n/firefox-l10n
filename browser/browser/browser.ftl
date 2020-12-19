@@ -419,6 +419,8 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 
 bookmarks-show-all-bookmarks =
     .label = Ցուցադրել բոլոր էջանիշերը
+bookmarks-recent-bookmarks =
+    .value = Վերջերս էջանշված
 bookmarks-toolbar-chevron =
     .tooltiptext = Ցուցադրել ավելի շատ էջանիշեր
 bookmarks-sidebar-content =
@@ -434,6 +436,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Էջանշել Այս Էջը
+library-bookmarks-bookmark-edit =
+    .label = Խմբագրել այս էջանիշը
 
 ## More items
 
