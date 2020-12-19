@@ -542,6 +542,13 @@ bookmarks-search =
     .label = Etsi kirjanmerkeistä
 bookmarks-tools =
     .label = Kirjanmerkkityökalut
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Kirjanmerkkipalkki
+    .accesskey = K
+    .aria-label = Kirjanmerkit
 bookmarks-toolbar-menu =
     .label = Kirjanmerkkipalkki
 bookmarks-toolbar-placeholder =
