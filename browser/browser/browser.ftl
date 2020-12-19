@@ -297,6 +297,16 @@ bookmarks-show-all-bookmarks =
     .label = Amosar tolos marcadores
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar más marcadores
+bookmarks-sidebar-content =
+    .aria-label = Marcadores
+bookmarks-menu-button =
+    .label = Menú de marcadores
+bookmarks-mobile-bookmarks-menu =
+    .label = Marcadores del móvil
+bookmarks-search =
+    .label = Guetar marcadores
+bookmarks-tools =
+    .label = Ferramientes de marcadores
 bookmarks-toolbar-menu =
     .label = Barra de ferramientes de marcadores
 bookmarks-toolbar-placeholder =
@@ -306,8 +316,12 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Marcadores
 library-bookmarks-bookmark-this-page =
     .label = Amestar esta páxina a marcadores
+library-bookmarks-bookmark-edit =
+    .label = Editar esti marcador
 
 ## More items
 
