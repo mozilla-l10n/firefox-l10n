@@ -500,6 +500,10 @@ pointerlock-warning-no-domain = Este documento ten o control do punteiro. Prema 
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Amosar todos os marcadores
+bookmarks-toolbar-chevron =
+    .tooltiptext = Amosar máis marcadores
 bookmarks-sidebar-content =
     .aria-label = Marcadores
 bookmarks-toolbar-menu =
@@ -513,6 +517,8 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-bookmark-this-page =
     .label = Marcar esta páxina
+library-bookmarks-bookmark-edit =
+    .label = Editar este marcador
 
 ## More items
 
