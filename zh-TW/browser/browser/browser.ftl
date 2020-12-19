@@ -498,6 +498,10 @@ pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc �
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-toolbar-chevron =
+    .tooltiptext = 顯示更多書籤
+bookmarks-sidebar-content =
+    .aria-label = 書籤
 bookmarks-toolbar-menu =
     .label = 書籤工具列
 bookmarks-toolbar-placeholder =
