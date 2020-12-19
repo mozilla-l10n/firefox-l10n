@@ -512,6 +512,12 @@ pointerlock-warning-no-domain = يتحكم هذا المستند في مؤشرك
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = أظهِر كل العلامات
+bookmarks-toolbar-chevron =
+    .tooltiptext = أظهِر المزيد من العلامات
+bookmarks-sidebar-content =
+    .aria-label = العلامات
 bookmarks-toolbar-menu =
     .label = شريط العلامات
 bookmarks-toolbar-placeholder =
@@ -526,3 +532,6 @@ library-bookmarks-bookmark-this-page =
 
 ## More items
 
+more-menu-go-offline =
+    .label = اعمل دون اتصال
+    .accesskey = ع
