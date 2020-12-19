@@ -503,3 +503,25 @@ fullscreen-exit-mac-button = Kilépés a teljes képernyőből (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = A következő irányítja az egérmutatót: <span data-l10n-name="domain">{ $domain }</span> . Nyomja meg az Esc gombot az irányítás visszavételéhez.
 pointerlock-warning-no-domain = Ez a dokumentum vezérli az egérmutatóját. Nyomja meg az Esc gombot az irányítás visszavételéhez.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-sidebar-content =
+    .aria-label = Könyvjelzők
+bookmarks-toolbar-menu =
+    .label = Könyvjelző eszköztár
+bookmarks-toolbar-placeholder =
+    .title = Könyvjelző eszköztár elemei
+bookmarks-toolbar-placeholder-button =
+    .label = Könyvjelző eszköztár elemei
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Oldal hozzáadása a könyvjelzőkhöz
+
+## More items
+
+more-menu-go-offline =
+    .label = Kapcsolat nélküli munka
+    .accesskey = p
