@@ -7,11 +7,9 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Remove the { $type } field
-
 #   $type (String) - the type of the addressing row
 remove-address-row-type-label =
     .tooltiptext = Remove the { $type } field
-
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -20,7 +18,6 @@ address-input-type-aria-label =
         [one] { $type } with one address, use left arrow key to focus on it.
        *[other] { $type } with { $count } addresses, use left arrow key to focus on them.
     }
-
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -28,23 +25,22 @@ pill-aria-label =
         [one] { $email }: press Enter to edit, Delete to remove.
        *[other] { $email }, 1 of { $count }: press Enter to edit, Delete to remove.
     }
-
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } is not a valid e-mail address
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email } is not in your address book
 pill-action-edit =
     .label = Edit Address
     .accesskey = E
-
 pill-action-move-to =
     .label = Move to To
     .accesskey = t
-
 pill-action-move-cc =
     .label = Move to Cc
     .accesskey = C
-
 pill-action-move-bcc =
     .label = Move to Bcc
     .accesskey = B
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -53,7 +49,6 @@ attachment-bucket-count =
            *[other] { $count } Attachments
         }
     .accesskey = m
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -61,11 +56,9 @@ attachments-placeholder-tooltip =
             [1] { $count } Attachment
            *[other] { $count } Attachments
         }
-
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
-
 button-return-receipt =
     .label = Receipt
     .tooltiptext = Request a return receipt for this message
