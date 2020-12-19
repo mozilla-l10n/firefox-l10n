@@ -550,6 +550,13 @@ bookmarks-search =
     .label = ਬੁੱਕਮਾਰਕ ਲੱਭੋ
 bookmarks-tools =
     .label = ਬੁੱਕਮਾਰਕ ਬਣਾਉਣ ਵਾਲਾ ਟੂਲ
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ
+    .accesskey = B
+    .aria-label = ਬੁੱਕਮਾਰਕ
 bookmarks-toolbar-menu =
     .label = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ
 bookmarks-toolbar-placeholder =
