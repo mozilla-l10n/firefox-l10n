@@ -336,6 +336,10 @@ pointerlock-warning-no-domain = ឯកសារនេះ​មាន​សិទ
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = បង្ហាញ​ចំណាំ​ទាំងអស់
+bookmarks-sidebar-content =
+    .aria-label = ចំណាំ
 bookmarks-toolbar-placeholder =
     .title = ធាតុ​របារ​ឧបករណ៍​​ចំណាំ
 bookmarks-toolbar-placeholder-button =
