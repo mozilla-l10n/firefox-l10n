@@ -329,8 +329,18 @@ pointerlock-warning-no-domain = இந்த ஆவணம் உங்கள் 
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = அனைத்தையும் காண்பி
+bookmarks-recent-bookmarks =
+    .value = சமீபத்திய புத்தகக்குறிகள்
+bookmarks-toolbar-chevron =
+    .tooltiptext = இன்னும் காண்பி
 bookmarks-sidebar-content =
     .aria-label = புத்தகக்குறிகள்
+bookmarks-search =
+    .label = புத்தகக்குறிகளைத் தேடு
+bookmarks-toolbar-menu =
+    .label = புத்தகக்குறி கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
     .title = புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்
 bookmarks-toolbar-placeholder-button =
@@ -338,6 +348,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = புத்தகக்குறியிடு
+library-bookmarks-bookmark-edit =
+    .label = புத்தகக்குறியைத் திருத்து
 
 ## More items
 
