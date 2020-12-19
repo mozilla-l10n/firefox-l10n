@@ -502,9 +502,31 @@ bookmarks-show-all-bookmarks =
     .label = 管理所有书签
 bookmarks-toolbar-chevron =
     .tooltiptext = 显示更多书签
+bookmarks-other-bookmarks-menu =
+    .label = 其他书签
+bookmarks-mobile-bookmarks-menu =
+    .label = 移动设备上的书签
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] 隐藏书签侧栏
+           *[other] 显示书签侧栏
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] 从工具栏移除书签菜单
+           *[other] 添加书签菜单到工具栏
+        }
+bookmarks-search =
+    .label = 在书签中搜索
+bookmarks-tools =
+    .label = 书签工具
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = 为此页添加书签
 library-bookmarks-bookmark-edit =
     .label = 编辑此书签
 
