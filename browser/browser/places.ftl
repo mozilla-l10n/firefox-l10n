@@ -66,3 +66,6 @@ managed-bookmarks =
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = 子文件夹
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = 其他书签

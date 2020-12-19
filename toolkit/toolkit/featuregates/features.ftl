@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission（网站隔离）是 { -bran
 experimental-features-multi-pip =
     .label = 画中画支持多开
 experimental-features-multi-pip-description = 允许同时打开多个画中画窗口的实验性支持。
+experimental-features-http3 =
+    .label = HTTP/3 协议
+experimental-features-http3-description = 对 HTTP/3 协议的实验性支持。

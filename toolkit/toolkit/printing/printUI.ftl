@@ -50,6 +50,7 @@ printui-duplex-checkbox = 正反面打印
 printui-options = 选项
 printui-headers-footers-checkbox = 打印页眉和页脚
 printui-backgrounds-checkbox = 打印背景
+printui-selection-checkbox = 仅打印选中内容
 printui-color-mode-label = 色彩模式
 printui-color-mode-color = 彩色
 printui-color-mode-bw = 黑白
