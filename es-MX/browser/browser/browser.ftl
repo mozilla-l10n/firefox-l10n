@@ -508,6 +508,8 @@ pointerlock-warning-no-domain = Este documento tiene el control de tu puntero. P
 
 bookmarks-show-all-bookmarks =
     .label = Mostrar todos los marcadores
+bookmarks-toolbar-chevron =
+    .tooltiptext = Mostrar más marcadores
 bookmarks-toolbar-menu =
     .label = Marcadores
 bookmarks-toolbar-placeholder =
