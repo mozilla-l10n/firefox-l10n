@@ -534,6 +534,15 @@ bookmarks-tools-toolbar-visibility =
         }
 bookmarks-search =
     .label = Rechercher dans les marque-pages
+bookmarks-tools =
+    .label = Outils de marque-pages
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barre personnelle
+    .accesskey = B
+    .aria-label = Marque-pages
 bookmarks-toolbar-menu =
     .label = Barre personnelle
 bookmarks-toolbar-placeholder =
