@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (webbplatsisolering) är en 
 experimental-features-multi-pip =
     .label = Stöd för flera bild-i-bild
 experimental-features-multi-pip-description = Experimentellt stöd för att låta flera bild-i-bild-fönster vara öppna samtidigt.
+experimental-features-http3 =
+    .label = HTTP/3-protokoll
+experimental-features-http3-description = Experimentellt stöd för HTTP/3-protokollet.
