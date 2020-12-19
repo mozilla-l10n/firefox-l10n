@@ -358,10 +358,16 @@ pointerlock-warning-no-domain = এই নথিতে পয়েন্টা�
 
 bookmarks-show-all-bookmarks =
     .label = সব বুকমার্ক প্রদর্শন
+bookmarks-recent-bookmarks =
+    .value = সম্প্রতি বুকমার্ক করা
 bookmarks-toolbar-chevron =
     .tooltiptext = আরও বুকমার্ক প্রদর্শন
 bookmarks-sidebar-content =
     .aria-label = বুকমার্ক
+bookmarks-search =
+    .label = বুকমার্ক অনুসন্ধান
+bookmarks-toolbar-menu =
+    .label = বুকমার্ক টুলবার B
 bookmarks-toolbar-placeholder =
     .title = বুকমার্ক টুলবারের আইটেম
 bookmarks-toolbar-placeholder-button =
@@ -369,6 +375,10 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = এই পাতা বুকমার্ক করুন
+library-bookmarks-bookmark-edit =
+    .label = বুকমার্ক সম্পাদনা
 
 ## More items
 
