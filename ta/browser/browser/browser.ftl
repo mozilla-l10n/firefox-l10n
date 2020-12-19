@@ -258,6 +258,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = மூடுக
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -323,3 +326,16 @@ fullscreen-exit-mac-button = முழுத்திரையிலிருந
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> உங்கள் சுட்டியைக் கட்டுப்படுத்துகிறது. கட்டுப்பாட்டை எடுக்க Esc விசையை அழுத்தவும்.
 pointerlock-warning-no-domain = இந்த ஆவணம் உங்கள் சுட்டியைக் கட்டுப்பாட்டில் வைத்திருக்கிறது. கட்டுப்பாட்டைத் திரும்ப எடுக்க Esc விசையை அழுத்தவும்.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-placeholder =
+    .title = புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்
+bookmarks-toolbar-placeholder-button =
+    .label = புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்
+
+## Library Panel items
+
+
+## More items
+
