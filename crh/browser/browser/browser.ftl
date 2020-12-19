@@ -279,6 +279,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Qapat
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -350,3 +353,31 @@ fullscreen-exit-mac-button = Tam-Ekrandan Çıq (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.
 pointerlock-warning-no-domain = Bu vesiqa ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Saife-imleriniñ Episini Köster
+bookmarks-recent-bookmarks =
+    .value = Demin İmlengen
+bookmarks-toolbar-chevron =
+    .tooltiptext = Daa çoq saife-imi köster
+bookmarks-toolbar-menu =
+    .label = Saife-imleri Alet Çubuğı
+bookmarks-toolbar-placeholder =
+    .title = Saife-imleri Alet Çubuğı Unsurları
+bookmarks-toolbar-placeholder-button =
+    .label = Saife-imleri Alet Çubuğı Unsurları
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Bu Saifeni İmle
+library-bookmarks-bookmark-edit =
+    .label = Bu Saifeimini Tarir Et
+
+## More items
+
+more-menu-go-offline =
+    .label = Devre-tışı Çalış
+    .accesskey = v
