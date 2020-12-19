@@ -313,6 +313,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = بستن
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -409,3 +412,22 @@ fullscreen-exit-mac-button = خروج از حالت تمام‌صفحه (Esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> کنترل مکان‌نما شما را در دست دارد. برای پس گرفتن کنترل، Esc را فشار دهید.
 pointerlock-warning-no-domain = این سند کنترل مکان‌نما شما را در دست گرفته است. برای پس گرفتن کنترل، Esc را فشار دهید.
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-chevron =
+    .tooltiptext = نشانک‌های بیشتری نمایش داده شود
+bookmarks-sidebar-content =
+    .aria-label = نشانک‌ها
+bookmarks-toolbar-menu =
+    .label = نوار ابزار نشانک‌ها
+bookmarks-toolbar-placeholder =
+    .title = موارد نوار ابزار نشانک‌ها
+bookmarks-toolbar-placeholder-button =
+    .label = موارد نوار ابزار نشانک‌ها
+
+## Library Panel items
+
+
+## More items
+
