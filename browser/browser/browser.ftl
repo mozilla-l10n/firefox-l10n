@@ -515,6 +515,13 @@ bookmarks-toolbar-menu =
 
 ## Library Panel items
 
+library-bookmarks-bookmark-this-page =
+    .label = Guardar esta página en marcadores
+library-bookmarks-bookmark-edit =
+    .label = Editar este marcador
 
 ## More items
 
+more-menu-go-offline =
+    .label = Trabajar desconectado
+    .accesskey = j
