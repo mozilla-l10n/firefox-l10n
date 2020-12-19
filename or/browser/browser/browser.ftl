@@ -223,6 +223,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = ବନ୍ଦକରନ୍ତୁ
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -265,4 +268,23 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 
 
 ## Full Screen and Pointer Lock UI
+
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-toolbar-chevron =
+    .tooltiptext = ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ
+bookmarks-sidebar-content =
+    .aria-label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
+bookmarks-toolbar-menu =
+    .label = ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
+bookmarks-toolbar-placeholder =
+    .title = ସାଧନପଟି ବସ୍ତୁଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
+bookmarks-toolbar-placeholder-button =
+    .label = ସାଧନପଟି ବସ୍ତୁଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
+
+## Library Panel items
+
+
+## More items
 
