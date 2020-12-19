@@ -51,6 +51,7 @@ printui-duplex-checkbox = Kâğıdın iki yüzüne yazdır
 printui-options = Seçenekler
 printui-headers-footers-checkbox = Üst bilgi ve alt bilgileri yazdır
 printui-backgrounds-checkbox = Arka planları yazdır
+printui-selection-checkbox = Yalnızca seçimi yazdır
 printui-color-mode-label = Renk modu
 printui-color-mode-color = Renkli
 printui-color-mode-bw = Siyah beyaz
