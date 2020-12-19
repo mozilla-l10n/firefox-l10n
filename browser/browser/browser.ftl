@@ -182,6 +182,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Close
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera =
@@ -235,3 +238,29 @@ fullscreen-warning-no-domain = This document is now full screen
 fullscreen-exit-button = Exit Full Screen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Exit Full Screen (esc)
+
+## Bookmarks panels, menus and toolbar
+
+bookmarks-show-all-bookmarks =
+    .label = Show All Bookmarks
+bookmarks-toolbar-chevron =
+    .tooltiptext = Show more bookmarks
+bookmarks-sidebar-content =
+    .aria-label = Bookmarks
+bookmarks-toolbar-menu =
+    .label = Bookmarks Toolbar
+bookmarks-toolbar-placeholder =
+    .title = Bookmarks Toolbar Items
+bookmarks-toolbar-placeholder-button =
+    .label = Bookmarks Toolbar Items
+
+## Library Panel items
+
+library-bookmarks-bookmark-this-page =
+    .label = Bookmark This Page
+
+## More items
+
+more-menu-go-offline =
+    .label = Work Offline
+    .accesskey = k
