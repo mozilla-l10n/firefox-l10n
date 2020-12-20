@@ -51,6 +51,7 @@ printui-duplex-checkbox = Nyomtatás mindkét oldalra
 printui-options = Beállítások
 printui-headers-footers-checkbox = Fejlécek és láblécek nyomtatása
 printui-backgrounds-checkbox = Hátterek nyomtatása
+printui-selection-checkbox = Csak a kijelölés nyomtatása
 printui-color-mode-label = Színmód
 printui-color-mode-color = Színes
 printui-color-mode-bw = Fekete-fehér
