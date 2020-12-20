@@ -26,6 +26,8 @@ pill-aria-label =
        *[other] { $email }, 1 di { $count }: premi Invio per modificare, Canc per eliminare.
     }
 #   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } non è un indirizzo email valido
+#   $email (String) - the email address
 pill-tooltip-not-in-address-book = { $email } non è presente nella rubrica
 pill-action-edit =
     .label = Modifica indirizzo
