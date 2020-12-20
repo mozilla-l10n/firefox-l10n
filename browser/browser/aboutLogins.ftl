@@ -169,7 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ਇਹ ਲਾਗਇਨ ਹਟਾਉਣਾ ਹੈ?
 confirm-delete-dialog-message = ਇਹ ਕਾਰਵਾਈ ਵਾਪਸ ਨਹੀਂ ਲਈ ਜਾ ਸਕਦੀ ਹੈ।
 about-logins-confirm-remove-dialog-confirm-button = ਹਟਾਓ
-about-logins-confirm-remove-all-dialog-confirm-button = ਸਾਰੇ ਹਟਾਓ
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] ਹਟਾਓ
+        [one] ਸਾਰੇ ਹਟਾਓ
+       *[other] ਸਾਰੇ ਹਟਾਓ
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] ਹਾਂ, ਇਹ ਲਾਗਇਨ ਹਟਾਓ
