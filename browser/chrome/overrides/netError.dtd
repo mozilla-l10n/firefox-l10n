@@ -133,8 +133,15 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "ਇਸ ਬਾਰੇ ਤੁਸੀਂ ਕੀ ਕਰ ਸਕਦੇ ਹੋ?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>ਮਸਲਾ ਬਹੁਤੀ ਉਮੀਦ ਹੈ ਕਿ ਵੈੱਬਸਾਈਟ ਨਾਲ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਠੀਕ ਕਰਨ ਲਈ ਤੁਸੀਂ ਕੁਝ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।</p>
+<p>ਜੇ ਤੁਸੀਂ ਕਾਰਪੋਰੇਟ ਨੈੱਟਵਰਕ ਵਰਤ ਰਹੇ ਹੋ ਜਾਂ ਕੋਈ ਐਂਟੀ-ਵਾਈਰਸ ਸਾਫਟਵੇਅਰ ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਸਹਾਇਤਾ ਲਈ ਸਹਾਇਕ ਟੀਮਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰ ਸਕਦੇ ਹੋ। ਤੁਸੀਂ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਪਰਸ਼ਾਸ਼ਕ ਨੂੰ ਵੀ ਸੂਚਿਤ ਕਰ ਸਕਦੇ ਹੋ।</p>
+">
 
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>ਮਸਲਾ ਬਹੁਤੀ ਉਮੀਦ ਹੈ ਕਿ ਵੈੱਬਸਾਈਟ ਨਾਲ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਠੀਕ ਕਰਨ ਲਈ ਤੁਸੀਂ ਕੁਝ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ। ਤੁਸੀਂ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਪਰਸ਼ਾਸਕ ਨੂੰ ਸੂਚਿਤ ਕਰ ਸਕਦੇ ਹੋ।</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -175,6 +182,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "ਜੇ ਤੁਸੀਂ ਕਾਰਪੋਰੇਟ ਨੈੱਟਵਰਕ ‘ਤੇ ਹੋ ਤਾਂ ਆਪਣੇ ਆਈ.ਟੀ. ਵਿਭਾਗ ਨਾਲ ਸੰਪਰਕ ਕਰ ਸਕਦੇ ਹੋ।">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "ਜੇ ਤੁਸੀਂ <span class='mitm-name'/> ਨੂੰ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਤਦ ਇਹ ਹਮਲਾ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਸਾਈਟ ਨਾਲ ਜਾਰੀ ਨਹੀਂ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ।">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "ਜੇ ਤੁਸੀਂ <span class='mitm-name'/> ਨੂੰ ਜਾਣਦੇ ਨਹੀਂ ਹੋ ਤਾਂ ਤਦ ਇਹ ਹਮਲਾ ਹੋ ਸਕਦਾ ਹੈ ਅਤੇ ਇਹ ਸਾਈਟ ਵਰਤਣ ਲਈ ਤੁਸੀਂ ਕੁਝ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।">
+
 
 <!ENTITY prefReset.longDesc "ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY prefReset.label "ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
