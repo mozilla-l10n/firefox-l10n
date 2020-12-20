@@ -53,6 +53,7 @@ printui-duplex-checkbox = Na woběma bokoma šišćaś
 printui-options = Nastajenja
 printui-headers-footers-checkbox = Głowy a nogi śišćaś
 printui-backgrounds-checkbox = Slězyny śišćaś
+printui-selection-checkbox = Jano wuběrk śišćas
 printui-color-mode-label = Barwowy modus
 printui-color-mode-color = Barwa
 printui-color-mode-bw = Carny a běły
