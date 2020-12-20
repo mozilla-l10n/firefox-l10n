@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (ізаляцыя сайта
 experimental-features-multi-pip =
     .label = Падтрымка некалькiх вокнаў «Выява ў выяве»
 experimental-features-multi-pip-description = Эксперыментальная падтрымка, што дазваляе некалькім вокнам «Выява ў выяве» быць адкрытымі адначасова.
+experimental-features-http3 =
+    .label = Пратакол HTTP/3
+experimental-features-http3-description = Эксперыментальная падтрымка пратакола HTTP/3.
