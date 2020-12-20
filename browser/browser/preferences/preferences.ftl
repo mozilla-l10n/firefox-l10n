@@ -351,7 +351,7 @@ applications-use-os-default-label =
 
 ##
 
-drm-content-header = Digital Rights Management (DRM) sadržaj
+drm-content-header = Sadržaj kontroliran DRM-om (Digital Rights Management)
 play-drm-content =
     .label = Reproduciraj DRM-kontrolirani sadržaj
     .accesskey = p
