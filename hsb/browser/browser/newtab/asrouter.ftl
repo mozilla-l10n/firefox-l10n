@@ -128,6 +128,9 @@ cfr-whatsnew-lockwise-take-link-text = Wobstarajće sej nałoženje
 
 cfr-whatsnew-searchbar-title = Pisajće mjenje a namakajće wjace z adresowym polom
 cfr-whatsnew-searchbar-body-topsites = Wubjerće nětko prosće adresowe polo a  kašćik z wotkazami na waše najlubše sydła so wočini.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Lupowy symbol
 
 ## Picture-in-Picture
@@ -286,3 +289,4 @@ cfr-whatsnew-media-keys-button = Zhońće kak
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Pytanske skrótšenki w adresowym polu
+cfr-whatsnew-search-shortcuts-body = Nětko, hdyž pytawu abo wěste sydło do adresoweho pola zapodawaće, so módre zwjazanje deleka w pytanskich namjetach zjewi. Wubjerće tute zwjazanje, zo byšće swoje pytanje direktnje z adresoweho pola dokónčił.
