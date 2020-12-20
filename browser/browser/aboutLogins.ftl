@@ -172,7 +172,7 @@ about-logins-confirm-remove-dialog-confirm-button = ਹਟਾਓ
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] ਹਟਾਓ
-        [one] ਸਾਰੇ ਹਟਾਓ
+        [one] ਹਟਾਓ
        *[other] ਸਾਰੇ ਹਟਾਓ
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
