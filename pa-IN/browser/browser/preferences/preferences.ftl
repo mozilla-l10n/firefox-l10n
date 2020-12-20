@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਭ ਤੋਂ ਵੱਧ ਵੇਖੀਆਂ ਸਾਈਟਾਂ
 home-prefs-topsites-by-option-sponsored =
     .label = ਸਪਾਂਸਰ ਕੀਤੀਆਂ ਸਾਈਟਾਂ
+home-prefs-shortcuts-header =
+    .label = ਸ਼ਾਰਟਕੱਟ
+home-prefs-shortcuts-description = ਸਾਈਟਾਂ, ਜੋ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
+home-prefs-shortcuts-by-option-sponsored =
+    .label = ਸਪਾਂਸਰ ਕੀਤੇ ਸ਼ਾਰਟਕੱਟ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -515,8 +520,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = ਸਪਾਂਸਰ ਕੀਤੀਆਂ ਕਹਾਣੀਆਂ
 home-prefs-highlights-header =
     .label = ਹਾਈਲਾਈਟ
-home-prefs-recent-activity-header =
-    .label = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
 home-prefs-highlights-description = ਉਹਨਾਂ ਸਾਈਟਾਂ ਦੀ ਚੋਣ ਕਰੋ ਜੋ ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਜਾਂ ਵਿਜ਼ਿਟ ਕੀਤੀ ਹੈ
 home-prefs-highlights-option-visited-pages =
     .label = ਵੇਖੇ ਗਏ ਸਫੇ
@@ -526,6 +529,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਕੀਤੇ ਡਾਊਨਲੋਡ
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੇ ਗਏ ਸਫ਼ੇ
+home-prefs-recent-activity-header =
+    .label = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
+home-prefs-recent-activity-description = ਤਾਜ਼ਾ ਸਾਈਟਾਂ ਤੇ ਸਮੱਗਰੀ ਦੀ ਚੋਣ
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +539,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = ਛੋਟੇ ਟੋਟੇ
 home-prefs-snippets-description = { -vendor-short-name } ਅਤੇ { -brand-product-name } ਤੋਂ ਅੱਪਡੇਟ
+home-prefs-snippets-description-new = { -vendor-short-name } ਅਤੇ { -brand-product-name } ਵਲੋਂ ਟੋਟਕੇ ਤੇ ਖ਼ਬਰਾਂ
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -927,6 +934,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = ਖੋਜ ਇੰਜਣ
+    .accesskey = a
 addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
 
 ## Privacy Section - Content Blocking
