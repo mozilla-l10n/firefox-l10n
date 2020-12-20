@@ -98,3 +98,6 @@ experimental-features-fission-description = „Fission“ (svetainių izoliavima
 experimental-features-multi-pip =
     .label = Keleto vaizdų-vaizde palaikymas
 experimental-features-multi-pip-description = Eksperimentinis keleto vaizdo-vaizde langų, atvertų tuo pačiu metu, palaikymas.
+experimental-features-http3 =
+    .label = HTTP/3 protokolas
+experimental-features-http3-description = Eksperimentinis HTTP/3 protokolo palaikymas.
