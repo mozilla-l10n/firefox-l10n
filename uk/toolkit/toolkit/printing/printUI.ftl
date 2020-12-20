@@ -52,6 +52,7 @@ printui-duplex-checkbox = Друк з обох сторін
 printui-options = Параметри
 printui-headers-footers-checkbox = Друкувати колонтитули
 printui-backgrounds-checkbox = Друкувати тло
+printui-selection-checkbox = Друкувати тільки вибране
 printui-color-mode-label = Кольоровий режим
 printui-color-mode-color = Кольоровий
 printui-color-mode-bw = Чорно-білий
