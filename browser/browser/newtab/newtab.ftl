@@ -207,3 +207,8 @@ newtab-pocket-cta-text = Захоўвайце ўлюбёныя гісторыі 
 
 newtab-error-fallback-info = Ох, нешта пайшло не так пры загрузцы гэтага змесціва.
 newtab-error-fallback-refresh-link = Абнавіць старонку, каб паўтарыць спробу.
+
+## Customization Menu
+
+newtab-custom-close-button = Закрыць
+newtab-custom-settings = Кіраваць дадатковымі наладамі
