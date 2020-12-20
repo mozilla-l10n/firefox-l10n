@@ -935,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Sitios populares
     .accesskey = t
+addressbar-locbar-engines-option =
+    .label = Buscadores
+    .accesskey = a
 addressbar-suggestions-settings = Cambiar preferencias de sugerencias de buscadores
 
 ## Privacy Section - Content Blocking
