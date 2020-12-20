@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = k
     .secondarybuttonlabel = Nic nětko
     .secondarybuttonaccesskey = N
+appmenu-update-other-instance-message = Nowa aktualizacija { -brand-shorter-name } je k dispoziciji, ale njeda so instalować, dokelž druha kopija { -brand-shorter-name } běži. Začińće ju, zo byšće z aktualizaciju pokročował, abo aktualizujće najebać to (druha kopija potom snano korektnje njefunguje, doniž ju njestartujeće).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = W porjadku, sym zrozumił
     .buttonaccesskey = z
