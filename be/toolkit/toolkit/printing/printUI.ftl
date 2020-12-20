@@ -81,6 +81,9 @@ printui-loading = Рыхтуецца папярэдні прагляд
 printui-preview-label =
     .aria-label = Перадпрагляд друку
 printui-pages-per-sheet = Старонак на аркушы
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Друк…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
