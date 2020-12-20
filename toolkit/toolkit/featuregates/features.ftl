@@ -98,3 +98,6 @@ experimental-features-fission-description = A Fission (oldalelszigetelés) a { -
 experimental-features-multi-pip =
     .label = Több kép a képben megjelenítés támogatása
 experimental-features-multi-pip-description = Kísérleti támogatás több „kép a képben” ablak egyidejű használatához.
+experimental-features-http3 =
+    .label = HTTP/3 protokoll
+experimental-features-http3-description = A HTTP/3 protokoll kísérleti támogatása.

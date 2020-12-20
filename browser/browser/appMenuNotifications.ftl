@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = f
     .secondarybuttonlabel = Most nem
     .secondarybuttonaccesskey = n
+appmenu-update-other-instance-message = Egy új { -brand-shorter-name } frissítés érhető el, de nem telepíthető, mert a { -brand-shorter-name } egy másik példánya fut. Zárja be a frissítés folytatásához, vagy válassza azt, hogy mindenképp frissíti (a másik példány lehet hogy az újraindításáig nem fog megfelelően működni).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Rendben, értem
     .buttonaccesskey = R
