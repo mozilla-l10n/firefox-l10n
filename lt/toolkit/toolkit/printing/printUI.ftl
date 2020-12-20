@@ -52,6 +52,7 @@ printui-duplex-checkbox = Spausdinti ant abiejų pusių
 printui-options = Nuostatos
 printui-headers-footers-checkbox = Spausdinti antraštes ir poraštes
 printui-backgrounds-checkbox = Spausdinti foną
+printui-selection-checkbox = Spausdinti tik pažymėtą sritį
 printui-color-mode-label = Spalvotas spausdinimas
 printui-color-mode-color = Spalvotai
 printui-color-mode-bw = Juodai ir baltai
