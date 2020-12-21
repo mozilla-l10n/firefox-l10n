@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] saatte bir
            *[other] { $hours } saatte bir
         }
+carddav-readonly-label =
+    .label = Salt okunur
+    .accesskey = S

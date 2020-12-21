@@ -7,11 +7,9 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = { $type } alanını kaldır
-
 #   $type (String) - the type of the addressing row
 remove-address-row-type-label =
     .tooltiptext = { $type } alanını kaldır
-
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -20,7 +18,6 @@ address-input-type-aria-label =
         [one] Tek adresli { $type } satırına odaklanmak için sol ok tuşunu kullanın.
        *[other] { $count } adresli { $type } satırlarına odaklanmak için sol ok tuşunu kullanın.
     }
-
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -28,23 +25,22 @@ pill-aria-label =
         [one] { $email }: Düzenlemek için Enter'a, silmek için Delete'e basın.
        *[other] { $email }, 1/{ $count }: Düzenlemek için Enter'a, silmek için Delete'e basın.
     }
-
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } geçerli bir e-posta adresi değil
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email } adres defterinizde yok
 pill-action-edit =
     .label = Adresi düzenle
     .accesskey = d
-
 pill-action-move-to =
     .label = Kime alanına taşı
     .accesskey = m
-
 pill-action-move-cc =
     .label = Cc alanına taşı
     .accesskey = C
-
 pill-action-move-bcc =
     .label = Bcc alanına taşı
     .accesskey = B
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -54,7 +50,6 @@ attachment-bucket-count =
            *[other] { $count } ek
         }
     .accesskey = e
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -63,11 +58,9 @@ attachments-placeholder-tooltip =
             [one] { $count } ek
            *[other] { $count } ek
         }
-
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
-
 button-return-receipt =
     .label = Alındı onayı
     .tooltiptext = Bu ileti için alındı onayı iste
