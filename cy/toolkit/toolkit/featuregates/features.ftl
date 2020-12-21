@@ -98,3 +98,6 @@ experimental-features-fission-description = Mae Fission (ynysu gwefan) yn nodwed
 experimental-features-multi-pip =
     .label = Cefnogaeth Llun-mewn-Llun Lluosog
 experimental-features-multi-pip-description = Cefnogaeth arbrofol i ganiatáu i nifer o ffenestri Llun-mewn-Llun fod ar agor ar yr un pryd.
+experimental-features-http3 =
+    .label = Protocol HTTP/3
+experimental-features-http3-description = Cefnogaeth arbrofol i brotocol HTTP/3.
