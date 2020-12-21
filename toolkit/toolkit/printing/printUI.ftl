@@ -25,6 +25,9 @@ printui-range-start = De
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = para
+printui-page-custom-range-input =
+    .aria-label = Ingresar rango de página personalizado
+    .placeholder = ej. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Copias
 printui-orientation = Orientación
@@ -48,6 +51,7 @@ printui-duplex-checkbox = Imprimir de ambos lados
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprimir encabezados y pies de página
 printui-backgrounds-checkbox = Imprimir fondos
+printui-selection-checkbox = Imprimir selección
 printui-color-mode-label = Modo color
 printui-color-mode-color = Color
 printui-color-mode-bw = Blanco y negro
@@ -56,10 +60,15 @@ printui-margins-default = Predeterminado
 printui-margins-min = Mínimo
 printui-margins-none = Ninguno
 printui-margins-custom = Personalizado
+printui-margins-custom-inches = Personalizado (pulgadas)
 printui-margins-custom-top = Arriba
+printui-margins-custom-top-inches = Superior (pulgadas)
 printui-margins-custom-bottom = Abajo
+printui-margins-custom-bottom-inches = Inferior (pulgadas)
 printui-margins-custom-left = Izquierda
+printui-margins-custom-left-inches = Izquierdo (pulgadas)
 printui-margins-custom-right = Derecha
+printui-margins-custom-right-inches = Derecho (pulgadas)
 printui-system-dialog-link = Imprimir usando la ventana del sistema…
 printui-primary-button = Imprimir
 printui-primary-button-save = Guardar
@@ -71,6 +80,9 @@ printui-loading = Preparando vista previa
 printui-preview-label =
     .aria-label = Vista previa
 printui-pages-per-sheet = Páginas por hoja
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Imprimiendo…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

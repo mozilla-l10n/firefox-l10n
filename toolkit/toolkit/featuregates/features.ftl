@@ -98,3 +98,6 @@ experimental-features-fission-description = La fisión (aislamiento del sitio) e
 experimental-features-multi-pip =
     .label = Compatibilidad para Picture-in-Picture
 experimental-features-multi-pip-description = Ayuda experimental para permitir que se abran varias ventanas Picture-in-Picture al mismo tiempo.
+experimental-features-http3 =
+    .label = Protocolo HTTP/3
+experimental-features-http3-description = Soporte experimental para el protocolo HTTP/3.
