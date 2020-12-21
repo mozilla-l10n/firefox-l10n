@@ -606,6 +606,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Top stránky
 home-prefs-topsites-description = Nejnavštěvovanější stránky
+home-prefs-topsites-by-option-sponsored =
+    .label = Sponzorované top stránky
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

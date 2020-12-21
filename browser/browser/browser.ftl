@@ -300,6 +300,7 @@ identity-active-loaded = Na této stránce jste ochranu zakázali.
 identity-weak-encryption = Tento server používá slabé šifrování.
 identity-insecure-login-forms = Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.
 identity-https-only-label = Režim „pouze HTTPS“
+identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
 identity-permissions =
     .value = Oprávnění
 identity-permissions-reload-hint = Pro provedení změn může být potřeba stránku znovu načíst.
