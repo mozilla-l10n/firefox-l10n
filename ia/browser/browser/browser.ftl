@@ -519,7 +519,7 @@ bookmarks-menu-button =
 bookmarks-other-bookmarks-menu =
     .label = Altere marcapaginas
 bookmarks-mobile-bookmarks-menu =
-    .label = Marcapaginas del apparatos mobile
+    .label = Marcapaginas mobile
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->

@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (isolamento de sitos) es un 
 experimental-features-multi-pip =
     .label = Plure fenestras imagine-in-imagine
 experimental-features-multi-pip-description = Function experimental que permitte aperir plure fenestras imagine-in-imagine al mesme tempore.
+experimental-features-http3 =
+    .label = Protocollo HTTP/3
+experimental-features-http3-description = Supporto experimental pro le protocollo HTTP/3.

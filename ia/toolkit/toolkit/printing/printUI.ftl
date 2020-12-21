@@ -51,6 +51,7 @@ printui-duplex-checkbox = Imprimer sur recto e verso
 printui-options = Optiones
 printui-headers-footers-checkbox = Imprimer capites e pedes de pagina
 printui-backgrounds-checkbox = Imprimer le fundos
+printui-selection-checkbox = Imprimer solmente le selection
 printui-color-mode-label = Modo color
 printui-color-mode-color = Color
 printui-color-mode-bw = Nigre e blanc

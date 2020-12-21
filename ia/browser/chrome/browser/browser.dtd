@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Plen schermo">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Celar le commutator imagine-in-imagine">
 <!ENTITY pictureInPictureHideToggle.accesskey "C">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Parametros de &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connecter un altere apparato…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Aperir session in &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
@@ -109,7 +107,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksSubview.label             "Marcapaginas">
 <!ENTITY bookmarksMenuButton2.label         "Menu de marcapaginas">
 <!ENTITY bookmarksMenuButton.other.label    "Altere marcapaginas">
-<!ENTITY bookmarksMenuButton.mobile.label   "Marcapaginas del apparatos mobile">
+<!ENTITY bookmarksMenuButton.mobile.label   "Marcapaginas mobile">
 <!ENTITY viewBookmarksSidebar2.label        "Vider le barra lateral de marcapaginas">
 <!ENTITY hideBookmarksSidebar.label         "Celar le barra lateral de marcapaginas">
 <!ENTITY viewBookmarksToolbar.label         "Vider le barra de marcapaginas">
@@ -218,17 +216,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salvar le pagina in Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Vider le lista de Pocket">
 
 <!ENTITY emailPageCmd.label           "Inviar le ligamine per email…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zoom">
 
@@ -254,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Adder dictionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
