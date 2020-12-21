@@ -209,3 +209,15 @@ newtab-pocket-cta-text = Guarde las historias que quiera en { -pocket-brand-name
 
 newtab-error-fallback-info = Epa, algo salió mal al cargar este contenido.
 newtab-error-fallback-refresh-link = Refrescar la página para reintentar.
+
+## Customization Menu
+
+newtab-custom-shortcuts-subtitle = Sitios guardados o visitados
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } fila
+       *[other] { $num } filas
+    }
+newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
+newtab-custom-pocket-sponsored = Historias patrocinadas
+newtab-custom-recent-title = Actividad reciente
