@@ -308,6 +308,7 @@ addon-detail-private-browsing-disallow = اجازت مت دیں
 available-updates-heading = دستیاب تازہ کاریاں
 recent-updates-heading = حالیہ تازہ کاریاں
 release-notes-loading = لوڈ ہو رہا ہے…
+addon-permissions-learnmore = اجازتوں کے بارے میں مزید سیکھیں
 recommended-extensions-heading = تجویز شدہ ایکسٹنشن
 recommended-themes-heading = تجویز شدہ تھیمز
 

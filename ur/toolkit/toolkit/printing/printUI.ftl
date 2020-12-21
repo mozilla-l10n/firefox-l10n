@@ -29,7 +29,6 @@ printui-less-settings = کم ترتیبات
 printui-paper-size-label = کاغذ کا ماپ:
 # Section title (noun) for the print scaling options
 printui-scale = اسکیل
-printui-scale-fit-to-page = صفحے پر فٹ
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = اسکیل
 # Section title for miscellaneous print options
@@ -44,6 +43,7 @@ printui-margins-none = کوئی نہیں
 printui-primary-button = چھاپیں
 printui-primary-button-save = محفوظ کریں
 printui-cancel-button = منسوخ کریں
+printui-close-button = بند کریں
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
