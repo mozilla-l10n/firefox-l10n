@@ -39,7 +39,6 @@ printui-less-settings = Skrýt další nastavení
 printui-paper-size-label = Velikost papíru
 # Section title (noun) for the print scaling options
 printui-scale = Měřítko
-printui-scale-fit-to-page = Přizpůsobit na stránku
 printui-scale-fit-to-page-width = Přizpůsobit šířce stránky
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Měřítko
@@ -63,6 +62,7 @@ printui-loading = Příprava náhledu
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Náhled tisku
+printui-pages-per-sheet = Stránek na list papíru
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
