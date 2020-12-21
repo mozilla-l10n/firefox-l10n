@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (изоляция сайта
 experimental-features-multi-pip =
     .label = Поддержка нескольких окон «Картинка-в-картинке»
 experimental-features-multi-pip-description = Экспериментальная поддержка, позволяющая одновременно открывать несколько окон «Картинка-в-картинке».
+experimental-features-http3 =
+    .label = Протокол HTTP/3
+experimental-features-http3-description = Экспериментальная поддержка протокола HTTP/3.
