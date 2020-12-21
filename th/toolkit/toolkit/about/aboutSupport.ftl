@@ -185,6 +185,14 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-button-open =
+    .title = เปิดตำแหน่งที่ตั้งไฟล์…
+support-third-party-modules-expand =
+    .title = แสดงข้อมูลโดยละเอียด
+support-third-party-modules-folder-icon =
+    .title = เปิดตำแหน่งที่ตั้งไฟล์…
+support-third-party-modules-down-icon =
+    .title = แสดงข้อมูลโดยละเอียด
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = รายงานข้อขัดข้องของ { $days } วันที่ผ่านมา
