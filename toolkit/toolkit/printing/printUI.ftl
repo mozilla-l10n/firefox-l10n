@@ -55,6 +55,7 @@ printui-duplex-checkbox = Argraffu ar y ddwy ochr
 printui-options = Dewisiadau
 printui-headers-footers-checkbox = Argraffu penynnau a throedynnau
 printui-backgrounds-checkbox = Argraffu cefndiroedd
+printui-selection-checkbox = Argraffu'r dewis yn unig
 printui-color-mode-label = Modd lliw
 printui-color-mode-color = Lliw
 printui-color-mode-bw = Du a gwyn
