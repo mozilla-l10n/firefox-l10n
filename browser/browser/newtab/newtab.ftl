@@ -210,3 +210,15 @@ newtab-pocket-cta-text = บันทึกเรื่องราวที่�
 
 newtab-error-fallback-info = อุปส์ มีบางอย่างผิดพลาดในการโหลดเนื้อหานี้
 newtab-error-fallback-refresh-link = เรียกหน้าใหม่เพื่อลองอีกครั้ง
+
+## Customization Menu
+
+newtab-custom-pocket-sponsored = เรื่องราวที่ได้รับการสนับสนุน
+newtab-custom-recent-title = กิจกรรมล่าสุด
+newtab-custom-close-button = ปิด
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = ส่วนย่อย
+newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม

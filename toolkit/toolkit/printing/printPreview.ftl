@@ -57,4 +57,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = หน้าสุดท้าย
-
+printpreview-homearrow-button =
+    .title = หน้าแรก
+printpreview-previousarrow-button =
+    .title = หน้าก่อนหน้า
+printpreview-nextarrow-button =
+    .title = หน้าถัดไป
+printpreview-endarrow-button =
+    .title = หน้าสุดท้าย
