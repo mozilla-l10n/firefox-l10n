@@ -14,7 +14,7 @@ about-httpsonly-title-connection-not-available = Connexion segura pas disponibla
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Avètz activat lo mòde HTTPS solament e cap de version HTTPS de <em>{ $websiteUrl } es pas disponibla.
-about-httpsonly-explanation-question = Qué poiriá èsser la causa ?
+about-httpsonly-explanation-question = Quina poiriá èsser la causa ?
 about-httpsonly-explanation-nosupport = Fòrt probablament lo site web pren simplament pas en carga lo HTTPS.
 about-httpsonly-explanation-risk = Es tanben possible qu’un malfactor siá implicat, se decidissètz de visitar lo site web, val mai evitar de dintrar d’informacions sensiblas coma de senhals, adreças electronicas o de cartas bancàrias.
 about-httpsonly-explanation-continue = Se contunhatz, lo mòde HTTPS solament serà desactivat temporàriament per aqueste site.
