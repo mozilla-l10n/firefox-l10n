@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -299,6 +299,7 @@ identity-passive-loaded = Části této stránky nejsou zabezpečené (napříkl
 identity-active-loaded = Na této stránce jste ochranu zakázali.
 identity-weak-encryption = Tento server používá slabé šifrování.
 identity-insecure-login-forms = Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.
+identity-https-only-label = Režim „pouze HTTPS“
 identity-permissions =
     .value = Oprávnění
 identity-permissions-reload-hint = Pro provedení změn může být potřeba stránku znovu načíst.
