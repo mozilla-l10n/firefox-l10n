@@ -353,7 +353,7 @@ applications-use-os-default-label =
 
 drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
 play-drm-content =
-    .label = Воспроизводить контролируемое DRM содержимое
+    .label = Воспроизводить защищённое DRM содержимое
     .accesskey = п
 play-drm-content-learn-more = Подробнее
 update-application-title = Обновления { -brand-short-name }
