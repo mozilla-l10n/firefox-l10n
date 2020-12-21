@@ -168,7 +168,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
 about-logins-confirm-remove-dialog-confirm-button = Өшіру
-about-logins-confirm-remove-all-dialog-confirm-button = Барлығын өшіру
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Өшіру
+       *[other] Барлығын өшіру
+    }
 about-logins-confirm-export-dialog-title = Логиндер және парольдерді экспорттау
 about-logins-confirm-export-dialog-message = Парольдеріңіз ашық, оқуға келетін мәтін ретінде сақталатын болады (мыс., BadP@ssw0rd) сондықтан экспортталған файлды аша алатын адам оларды көре алады.
 about-logins-confirm-export-dialog-confirm-button = Экспорттау…
