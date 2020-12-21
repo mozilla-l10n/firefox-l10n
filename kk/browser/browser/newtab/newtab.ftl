@@ -8,6 +8,9 @@
 newtab-page-title = Жаңа бет
 newtab-settings-button =
     .title = Жаңа бетті баптаңыз
+newtab-personalize-button-label = Жекелендіру
+    .title = Жаңа бетті жекелендіру
+    .aria-label = Жаңа бетті жекелендіру
 
 ## Search box component.
 
@@ -171,6 +174,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Үздік сайттар
 newtab-section-header-highlights = Ерекше жаңалықтар
+newtab-section-header-recent-activity = Соңғы белсенділігі
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Ұсынушы { $provider }
@@ -206,3 +210,18 @@ newtab-pocket-cta-text = Өзіңіз ұнатқан хикаяларды { -poc
 
 newtab-error-fallback-info = Қап, бұл құраманы жүктеу кезінде бірнәрсе қате кетті.
 newtab-error-fallback-refresh-link = Қайталап көру үшін, бетті жаңартыңыз.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Жарлықтар
+newtab-custom-row-selector =
+    { $num ->
+       *[other] { $num } жол
+    }
+newtab-custom-sponsored-sites = Демеушілік жарлықтары
+newtab-custom-close-button = Жабу
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Үзінділер
