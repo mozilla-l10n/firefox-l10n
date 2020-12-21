@@ -500,6 +500,8 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Les sites que vous visitez le plus
 home-prefs-topsites-by-option-sponsored =
     .label = Sites populaires sponsorisés
+home-prefs-shortcuts-header =
+    .label = Raccourcis
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -515,8 +517,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles sponsorisés
 home-prefs-highlights-header =
     .label = Éléments-clés
-home-prefs-recent-activity-header =
-    .label = Activité récente
 home-prefs-highlights-description = Une sélection de sites que vous avez sauvegardés ou visités
 home-prefs-highlights-option-visited-pages =
     .label = Pages visitées
@@ -526,6 +526,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Dernier téléchargement
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pages enregistrées dans { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Activité récente
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -927,6 +929,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Les sites les plus visités
     .accesskey = v
+addressbar-locbar-engines-option =
+    .label = Les moteurs de recherche
+    .accesskey = r
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 
 ## Privacy Section - Content Blocking
