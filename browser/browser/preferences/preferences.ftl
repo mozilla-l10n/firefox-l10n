@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Абайлап жалғастырыңыз
 pane-experimental-search-results-header = { -brand-short-name } тәжірибелері: Абайлап жалғастырыңыз
 pane-experimental-description = Кеңейтілген баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
+pane-experimental-reset =
+    .label = Бастапқы мәндерін қайтару
+    .accesskey = р
 help-button-label = { -brand-short-name } қолдауы
 addons-button-label = Кеңейтулер және темалар
 focus-search =
@@ -494,6 +497,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Сіз жиі шолатын сайттар
 home-prefs-topsites-by-option-sponsored =
     .label = Демеуленген үздік сайттар
+home-prefs-shortcuts-header =
+    .label = Жарлықтар
+home-prefs-shortcuts-description = Сіз сақтайтын немесе шолатын сайттар
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Демеушілік жарлықтары
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -518,6 +526,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Ең соңғы жүктеме
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ке сақталған беттер
+home-prefs-recent-activity-header =
+    .label = Соңғы белсенділігі
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -915,6 +925,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Үздік сайттар
     .accesskey = з
+addressbar-locbar-engines-option =
+    .label = Іздеу жүйелері
+    .accesskey = д
 addressbar-suggestions-settings = Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту
 
 ## Privacy Section - Content Blocking
