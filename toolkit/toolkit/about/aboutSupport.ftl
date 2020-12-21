@@ -190,6 +190,7 @@ support-third-party-modules-module = Modül dosyası
 support-third-party-modules-version = Dosya sürümü
 support-third-party-modules-process = İşlem türü ve kimliği
 support-third-party-modules-thread = İş parçacığı
+support-third-party-modules-base = Imagebase adresi
 support-third-party-modules-uptime = İşlemin çalışma süresi (ms)
 support-third-party-modules-duration = Yükleme süresi (ms)
 support-third-party-modules-empty = Hiçbir üçüncü taraf modülü yüklenmedi.
