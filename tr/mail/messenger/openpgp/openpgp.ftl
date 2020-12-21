@@ -395,6 +395,7 @@ import-rev-file = OpenPGP iptal dosyasını içe aktar
 gnupg-file = GnuPG dosyaları
 import-keys-failed = Anahtarlar içe aktarılamadı
 passphrase-prompt = Lütfen şu anahtarın kilidini açan parolayı girin: { $key }
+file-to-big-to-import = Bu dosya çok büyük. Lütfen büyük anahtar kümelerini aynı anda içe aktarmayın.
 revoke-cert-failed = İptal sertifikası oluşturulamadı.
 gen-going = Anahtar üretimi devam ediyor!
 expiry-too-short = Anahtarınız en az bir gün geçerli olmalıdır.
