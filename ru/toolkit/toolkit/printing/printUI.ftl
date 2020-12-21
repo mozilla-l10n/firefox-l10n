@@ -52,6 +52,7 @@ printui-duplex-checkbox = Печатать на обоих сторонах
 printui-options = Настройки
 printui-headers-footers-checkbox = Печатать колонтитулы
 printui-backgrounds-checkbox = Печатать фон
+printui-selection-checkbox = Печатать только выделенную область
 printui-color-mode-label = Цветовой режим
 printui-color-mode-color = Цветной
 printui-color-mode-bw = Чёрно-белый
