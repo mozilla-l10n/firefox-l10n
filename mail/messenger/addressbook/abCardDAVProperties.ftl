@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] cada hora
            *[other] cada { $hours } horas
         }
+carddav-readonly-label =
+    .label = Solo-lectura
+    .accesskey = r
