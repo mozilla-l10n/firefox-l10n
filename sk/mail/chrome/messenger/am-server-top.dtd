@@ -73,6 +73,7 @@
 <!ENTITY advancedButton.label "Pokročilé…">
 <!ENTITY advancedButton.accesskey "i">
 <!ENTITY serverDefaultCharset2.label "Štandardné kódovanie textu:">
+<!ENTITY localPath1.label "Lokálny priečinok:">
 <!ENTITY localFolderPicker.label "Výber lokálneho priečinka">
 <!ENTITY browseFolder.label "Prehľadávať…">
 <!ENTITY browseFolder.accesskey "h">

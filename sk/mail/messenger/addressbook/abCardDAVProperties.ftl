@@ -26,3 +26,6 @@ carddav-refreshinterval-hours-value =
             [few] každé { $hours } hodiny
            *[other] každých { $hours } hodín
         }
+carddav-readonly-label =
+    .label = Iba na čítanie
+    .accesskey = I
