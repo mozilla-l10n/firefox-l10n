@@ -209,6 +209,19 @@ newtab-error-fallback-refresh-link = Actualisez la page pour réessayer.
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Raccourcis
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } ligne
+       *[other] { $num } lignes
+    }
+newtab-custom-sponsored-sites = Raccourcis sponsorisés
+newtab-custom-pocket-title = Recommandé par { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Contenu exceptionnel sélectionné par { -pocket-brand-name }, membre de la famille { -brand-product-name }
+newtab-custom-pocket-sponsored = Articles sponsorisés
+newtab-custom-recent-title = Activité récente
+newtab-custom-recent-subtitle = Une sélection de sites et de contenus récents
+newtab-custom-close-button = Fermer
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
