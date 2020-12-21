@@ -426,18 +426,6 @@ addon-detail-private-browsing-disallow = Nepovolit
 addon-badge-recommended2 =
     .title = { -brand-product-name } doporučuje jen rozšíření, která splňují naše standardy pro bezpečnost a výkon
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title =
-        Toto rozšíření bylo vytvořeno autory { -brand-product-name.gender ->
-            [masculine] { -brand-product-name(case: "gen") }
-            [feminine] { -brand-product-name(case: "gen") }
-            [neuter] { -brand-product-name(case: "gen") }
-           *[other] aplikace { -brand-product-name }
-        }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Toto rozšíření prošlo bezpečnostní kontrolou
-    .aria-label = { addon-badge-verified.title }
 
 ##
 
@@ -446,6 +434,8 @@ recent-updates-heading = Aktualizováno
 release-notes-loading = Načítání…
 release-notes-error = Omlouváme se, ale při načítání poznámek k vydání nastala chyba.
 addon-permissions-empty = Toto rozšíření nevyžaduje žádná oprávnění.
+addon-permissions-required = Vyžadovaná oprávnění pro základní funkce:
+addon-permissions-optional = Volitelná oprávnění pro dodatečné funkce:
 recommended-extensions-heading = Doporučená rozšíření
 recommended-themes-heading = Doporučené vzhledy
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
