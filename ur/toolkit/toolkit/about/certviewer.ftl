@@ -55,8 +55,7 @@ certificate-viewer-fingerprints = انگلیوں کے نشان
 certificate-viewer-basic-constraints = بنیادی رکاوٹیں
 certificate-viewer-key-usages = کلیدی استعمال
 certificate-viewer-certificate-policies = تصدیق نامہ پالیسیاں
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ڈاؤن لوڈ
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -71,5 +70,14 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+
+##
+
+
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = آپ کے تصدیق نامے
+certificate-viewer-tab-people = لوگ
+certificate-viewer-tab-servers = سرورز
+certificate-viewer-tab-ca = حکام
+certificate-viewer-tab-unkonwn = نامعلوم
