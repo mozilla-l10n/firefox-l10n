@@ -257,6 +257,8 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Geçerli yapılandırmanızda süresi dolmuş <b>{ $key }</b> anahtarı kullanılıyor.
 openpgp-add-key-button =
     .label = Anahtar ekle…
     .accesskey = e
@@ -297,6 +299,7 @@ key-expiry-never = hiçbir zaman
 key-usage-encrypt = Şifrele
 key-usage-sign = İmzala
 key-usage-certify = Onayla
+key-usage-authentication = Yetkilendirme
 key-expired-date = Anahtarın süresi { $keyExpiry } tarihinde doldu
 key-expired-simple = Anahtarın süresi doldu
 key-revoked-simple = Anahtar iptal edildi
@@ -339,6 +342,7 @@ copy-to-clipbrd-failed = Seçilen anahtar(lar) panoya kopyalanamadı.
 copy-to-clipbrd-ok = Anahtar(lar) panoya kopyalandı
 delete-selected-pub-key = Ortak anahtarları silmek istiyor musunuz?
 key-man-loading-keys = Anahtarlar yükleniyor, lütfen bekleyin…
+export-to-file = Ortak anahtarı dosyaya aktar
 export-secret-key = Gizli anahtarı kaydedilmiş OpenPGP anahtar dosyasına eklemek istiyor musunuz?
 save-keys-ok = Anahtarlar başarıyla kaydedildi
 save-keys-failed = Anahtarların kaydedilmesi başarısız oldu
@@ -348,6 +352,7 @@ dlg-button-delete = &Sil
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Ortak anahtar başarıyla dışa aktarıldı.</b>
 openpgp-export-public-fail = <b>Seçilen ortak anahtar dışa aktarılamadı.</b>
 openpgp-export-secret-success = <b>Gizli anahtar başarıyla dışa aktarıldı.</b>
 openpgp-export-secret-fail = <b>Seçilen gizli anahtar dışa aktarılamadı.</b>
@@ -400,6 +405,7 @@ key-abort = Anahtar üretimi iptal edilsin mi?
 # Strings used in enigmailMessengerOverlay.js
 
 failed-decrypt = Hata - şifre çözme başarısız oldu
+fix-broken-exchange-msg-failed = Bu ileti onarılamadı.
 signature-verified-ok = { $attachment } ekinin imzası başarıyla doğrulandı
 signature-verify-failed = { $attachment } ekinin imzası doğrulanamadı
 msg-ovl-button-cont-anyway = &Yine de devam et
