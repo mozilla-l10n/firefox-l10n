@@ -10,8 +10,13 @@ about-httpsonly-insecure-explanation-reasons = Pravděpodobně tento server HTTP
 about-httpsonly-insecure-explanation-exception = Ač je bezpečnostní riziko relativně nízké, pokud se rozhodnete navštívit nezabezpečenou verzi této stránky přes HTTP, doporučujeme na ní nezadávat žádné citlivé informace jako jsou hesla, e-mailové adresy nebo platební údaje.
 about-httpsonly-button-make-exception = Beru na vědomí a chci pokračovat
 about-httpsonly-title-alert = Upozornění režimu „pouze HTTPS“
+about-httpsonly-title-connection-not-available = Zabezpečené spojení není dostupné
+# Variables:
+#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
+about-httpsonly-explanation-unavailable2 = Máte zapnutý režim „pouze HTTPS“ zajišťující vyšší míru zabezpečení, ale zabezpečená verze webu <em>{ $websiteUrl }</em> není dostupná.
 about-httpsonly-explanation-question = Co by mohlo být příčinou?
 about-httpsonly-explanation-nosupport = Nejspíš tento web jednoduše HTTPS nepodporuje.
 about-httpsonly-explanation-risk = Je také možné, že v tom má prsty útočník. Pokud se rozhodnete tuto stránku navštívit, doporučujeme na ní nezadávat žádné citlivé informace jako jsou hesla, e-mailové adresy nebo platební údaje.
+about-httpsonly-button-continue-to-site = Pokračovat přes nezabezpečené spojení
 about-httpsonly-button-go-back = Zpátky
 about-httpsonly-link-learn-more = Zjistit více…

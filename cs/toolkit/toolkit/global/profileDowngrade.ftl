@@ -11,12 +11,31 @@ profiledowngrade-window =
            *[other] aplikace { -brand-product-name }
         }
     .style = width: 490px;
-
 profiledowngrade-window-create =
     .label = Vytvořit nový profil
-
-profiledowngrade-sync = Spuštěním starší verze { -brand-product-name }u může dojít k poškození záložek a historie prohlížení uložených v jeho stávajícím profilu. Pro ochranu vašich dat si prosím pro tuto instalaci aplikace { -brand-short-name } vytvořte profil nový. Pro synchronizaci dat mezi oběma profily můžete použít { -fxaccount-brand-name }.
-profiledowngrade-nosync = Spuštěním starší verze { -brand-product-name }u může dojít k poškození záložek a historie prohlížení uložených v jeho stávajícím profilu. Pro ochranu vašich dat si prosím pro tuto instalaci aplikace { -brand-short-name } vytvořte profil nový.
-
+profiledowngrade-sync =
+    Spuštěním starší verze { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    } může dojít k poškození záložek a historie prohlížení uložených v jeho stávajícím profilu. Pro ochranu vašich dat si prosím pro tuto instalaci { -brand-product-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } vytvořte profil nový. Pro synchronizaci dat mezi oběma profily můžete použít { -fxaccount-brand-name(case: "acc", capitalization: "lower") }.
+profiledowngrade-nosync =
+    Spuštěním starší verze { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    } může dojít k poškození záložek a historie prohlížení uložených v jeho stávajícím profilu. Pro ochranu vašich dat si prosím pro tuto instalaci { -brand-product-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } vytvořte profil nový.
 profiledowngrade-quit =
     .label = Ukončit
