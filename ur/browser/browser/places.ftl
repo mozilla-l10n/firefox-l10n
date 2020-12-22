@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = ربط نئے نجی دریچے میں کھولیں
     .accesskey = P
-
 places-new-bookmark =
     .label = نئی بک مارک…
     .accesskey = ن
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = نیا جداکار
     .accesskey = ج
-
 places-view =
     .label = نظارہ
     .accesskey = ن
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = حسب تاریخ اور سائٹ
     .accesskey = ت
-
 places-history-search =
     .placeholder = سابقات تلاش کریں
 places-bookmarks-search =
     .placeholder = بک مارک تلاش کریں
-
 places-delete-domain-data =
     .label = اس سائٹ کے بارے میں بھول جائیں
     .accesskey = ب
@@ -64,3 +60,9 @@ places-sortby-name =
 places-properties =
     .label = خواص
     .accesskey = خ
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = ذيلى پوشہ
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = دیگر بک مارک

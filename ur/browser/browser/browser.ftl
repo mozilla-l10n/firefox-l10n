@@ -270,6 +270,12 @@ identity-passive-loaded = اس صفحے کے حصے قابل بھروسا نہی
 identity-active-loaded = آپ نے اس صفحے پر حفاظت نا اہل بنا دی ہے۔
 identity-weak-encryption = یہ صفحہ کمزور خفیہ کاری استعمال کرتا ہے۔
 identity-insecure-login-forms = اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔
+identity-https-only-dropdown-on =
+    .label = چالو
+identity-https-only-dropdown-off =
+    .label = بند
+identity-https-only-dropdown-off-temporarily =
+    .label = عارضی طور پر بندکریں
 identity-permissions =
     .value = اجازتیں
 identity-permissions-reload-hint = تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔
@@ -395,6 +401,7 @@ urlbar-result-action-search-in-private = نجی ونڈو میں تلاش کری�
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } سے تلاش کریں
+urlbar-result-action-sponsored = سپانسر شدہ
 urlbar-result-action-switch-tab = ٹیب پر جائیں
 urlbar-result-action-visit = دورہ
 

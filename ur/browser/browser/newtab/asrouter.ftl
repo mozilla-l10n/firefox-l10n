@@ -236,6 +236,8 @@ cfr-doorhanger-doh-secondary-button = غیر فعال بنایے
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = ٹھیک ہے مجھے سمجھ آگئی ہے
+    .accesskey = O
 cfr-doorhanger-fission-secondary-button = مزید سیکھیں
     .accesskey = L
 
@@ -244,6 +246,7 @@ cfr-doorhanger-fission-secondary-button = مزید سیکھیں
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-button = کیسے سیکھیں
 
 ## What's new: Search shortcuts
 

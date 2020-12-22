@@ -36,6 +36,10 @@ about-processes-preloaded-tab = پہلے سے لوڈ شدہ نیا ٹیب
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel =
+    { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+    COMMENT Common case.
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (پیمائش)
 
@@ -50,6 +54,8 @@ about-processes-cpu-user-and-kernel-not-ready = (پیمائش)
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

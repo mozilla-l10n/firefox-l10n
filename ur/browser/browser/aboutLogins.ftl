@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = دوسرے براؤزر سے درآمد کریں…
 about-logins-menu-menuitem-import-from-a-file = فائل سے درآمد کریں...
 about-logins-menu-menuitem-export-logins = لاگ انس برآمد کریں…
+about-logins-menu-menuitem-remove-all-logins = تمام لاگ انز کو ہٹائیں…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] اختیارات
@@ -153,6 +154,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = اس لاگ ان کو ہٹائیں؟
 confirm-delete-dialog-message = یہ عمل کلعدم نہیں ہو سکتا۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹائیں
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] ہٹائیں
+        [one] تمام ہٹائیں
+       *[other] تمام ہٹائیں
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] ہاں ، یہ لاگ ان ہٹائیں

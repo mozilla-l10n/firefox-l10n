@@ -74,3 +74,11 @@ tab-context-close-tabs =
            *[other] ٹیبز بند کریں
         }
     .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] ٹیب منتقل کریں
+            [one] ٹیب منتقل کریں
+           *[other] ٹیب منتقل کریں
+        }
+    .accesskey = v

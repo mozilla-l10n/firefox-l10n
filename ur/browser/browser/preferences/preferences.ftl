@@ -27,6 +27,8 @@ search-input-box =
            *[other] ترجیحات میں تلاش کریں
         }
 managed-notice = آپ کا براؤزر آپ کی تنظیم کے زیر انتظام ہے۔
+category-list =
+    .aria-label = زمرہ جات
 pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
@@ -454,6 +456,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = حالیہ ڈاؤن لوڈ شدہ
 home-prefs-highlights-option-saved-to-pocket =
     .label = صفحات { -pocket-brand-name } میں محفوظ کر دیئے گئے ہیں
+home-prefs-recent-activity-header =
+    .label = حالیہ سرگرمی
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

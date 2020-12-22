@@ -53,6 +53,7 @@ newtab-confirm-delete-history-p2 = یہ عمل کلعدم نہیں ہو سکتا
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = سپانسر شدہ
 
 ## Context Menu - Action Tooltips.
 
@@ -194,4 +195,5 @@ newtab-error-fallback-refresh-link = دوبارہ کوشش کرنے کے لئے 
 
 ## Customization Menu
 
+newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-close-button = بند کریں

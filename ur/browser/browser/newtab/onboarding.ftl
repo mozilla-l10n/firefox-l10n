@@ -43,6 +43,7 @@ onboarding-join-form-signin-label = کیا پہلے سے ہی ایک اکاؤن�
 # Text for link to submit the sign in form
 onboarding-join-form-signin = سائن ان کریں
 onboarding-start-browsing-button-label = براؤزنگ شروع کریں
+onboarding-not-now-button-label = ابھی نہیں
 onboarding-cards-dismiss =
     .title = برخاست کریں
     .aria-label = برخاست کریں
