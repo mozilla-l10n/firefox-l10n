@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> želi otvoriti <strong>{ $scheme }</strong> poveznicu.
 
 ## Permission Dialog
 ## Variables:
@@ -17,11 +9,41 @@ handler-dialog-host = <strong>{ $host }</strong> želi otvoriti <strong>{ $schem
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Dopustiti ovoj stranici otvaranje poveznice { $scheme }?
+permission-dialog-description-file = Dopustiti ovoj datoteci otvaranje poveznice { $scheme }?
+permission-dialog-description-host = Dopustiti { $host } otvaranje poveznice { $scheme }?
+permission-dialog-description-app = Dopustiti ovoj stranici otvaranje poveznice { $scheme } aplikacijom { $appName }?
+permission-dialog-description-host-app = Dopustiti { $host } otvaranje poveznice { $scheme } aplikacijom { $appName }?
+permission-dialog-description-file-app = Dopustiti ovoj datoteci otvaranje poveznice { $scheme } aplikacijom { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+permission-dialog-remember = Uvijek dopusti <strong>{ $host }</strong> otvaranje poveznica <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Uvijek dopusti ovoj datoteci otvaranje poveznica <strong>{ $scheme }</strong>
+
+##
+
+permission-dialog-btn-open-link =
+    .label = Otvori poveznicu
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Odaberi aplikaciju
+    .accessKey = a
+permission-dialog-unset-description = Moraš odabrati aplikaciju.
+permission-dialog-set-change-app-link = Odaberi drugu aplikaciju.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Odaberi aplikaciju
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Otvori poveznicu
+    .buttonaccesskeyaccept = O
 choose-other-app-description = Odaberi jedan drugi program
 choose-app-btn =
     .label = Odabir…
