@@ -17,6 +17,7 @@ certificate-viewer-email-address = ای میل پتہ
 certificate-viewer-country = ‏‏ملک
 certificate-viewer-curve = خم
 certificate-viewer-distribution-point = تقسیمی  نقتہ
+certificate-viewer-ip-address = آئی پی پتہ
 certificate-viewer-other-name = دوسرا نام
 certificate-viewer-exponent = قوت
 certificate-viewer-key-exchange-group = کلیدی تبادلہ وا؛ا گروہ

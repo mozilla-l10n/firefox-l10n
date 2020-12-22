@@ -14,6 +14,7 @@ extensions-name = نام
 extensions-enabled = اہل بنایا گیا
 extensions-version = ورژن
 extensions-id = ID
+support-addons-title = ایڈ اون
 support-addons-name = نام
 support-addons-type = قسم
 support-addons-enabled = اہل بنایا گیا
