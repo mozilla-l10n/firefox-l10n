@@ -45,9 +45,41 @@ openpgp-keygen-type-rsa =
     .label = RSA
 openpgp-keygen-type-ecc =
     .label = ECC (eliptična krivulja)
+openpgp-import-success = Ključi OpenPGP so uspešno uvoženi!
+openpgp-import-success-title = Dokončanje postopka uvoza
+openpgp-keygen-confirm =
+    .label = Potrdi
+openpgp-keygen-dismiss =
+    .label = Prekliči
+openpgp-keygen-import-complete =
+    .label = Zapri
+    .accesskey = Z
+openpgp-keygen-missing-username = Za trenutni račun ni določenega imena. V nastavitvah računa vpišite ime v polje "Vaše ime".
+openpgp-keygen-long-expiry = Ne morete ustvariti ključa, ki preteče čez več kot 100 let.
+openpgp-keygen-short-expiry = Ključ mora biti veljaven vsaj en dan.
 
 ## Import Key section
 
+openpgp-import-key-button =
+    .label = Izberite datoteko za uvoz …
+    .accesskey = I
+import-key-file = Uvozi datoteko ključa OpenPGP
+import-key-personal-checkbox =
+    .label = Obravnavaj ta ključ kot osebni ključ
+gnupg-file = Datoteke GnuPG
+import-error-file-size = <b>Napaka!</b> Datoteke, večje od 5 MB, niso podprte.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Napaka!</b> Datoteke ni bilo mogoče uvoziti. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Napaka!</b> Ključev ni bilo mogoče uvoziti. { $error }
+openpgp-import-identity-label = Identiteta
+openpgp-import-fingerprint-label = Prstni odtis
+openpgp-import-created-label = Ustvarjen
+openpgp-import-bits-label = Bitov
+openpgp-import-key-props =
+    .label = Lastnosti ključa
+    .accesskey = L
 
 ## External Key section
 
+openpgp-external-key-title = Zunanji ključ GnuPG
