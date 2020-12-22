@@ -31,6 +31,9 @@ printui-paper-size-label = کاغذ کا ماپ:
 printui-scale = اسکیل
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = اسکیل
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = دو طرفہ چھپائی
+printui-duplex-checkbox = دونوں طرف چھاپیں
 # Section title for miscellaneous print options
 printui-options = اختیارات
 printui-backgrounds-checkbox = پس منظر چھاپیں
@@ -40,10 +43,18 @@ printui-margins = حاشيے
 printui-margins-default = طے شدہ
 printui-margins-min = کم سے کم
 printui-margins-none = کوئی نہیں
+printui-margins-custom-left = بایاں
+printui-margins-custom-left-inches = بائیں (انچ)
+printui-margins-custom-right = دایاں
+printui-margins-custom-right-inches = بائیں (انچ)
 printui-primary-button = چھاپیں
 printui-primary-button-save = محفوظ کریں
 printui-cancel-button = منسوخ کریں
 printui-close-button = بند کریں
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = چھپائی کا  پیش نظارہ
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -57,6 +68,7 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
+printui-paper-tabloid = ٹیبلوئڈ
 
 ## Error messages shown when a user has an invalid input
 

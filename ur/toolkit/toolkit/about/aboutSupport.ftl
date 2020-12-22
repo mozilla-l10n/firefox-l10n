@@ -294,6 +294,10 @@ multi-process-status-6 = غیر تعاون یافتہ متن کی ان پٹ کے
 multi-process-status-7 = add-ons کی طرف سے غیر فعال
 multi-process-status-8 = زبردستی نا اہل بنائیں
 multi-process-status-unknown = نامعلوم اسٹیٹس
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = غیر ہم آہنگ پین / زوم
 apz-none = کوئی نہیں
 wheel-enabled = وہیل کی ان پٹ کا فعال
@@ -316,3 +320,6 @@ policies-error = نقص
 
 ## Printing section
 
+support-printing-title = چھاپ رہا ہے
+support-printing-prefs-name = نام
+support-printing-prefs-value = قدر
