@@ -104,3 +104,8 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Mjerilo mora biti broj između 10 i 200.
+printui-error-invalid-margin = Unesi valjanu marginu za odabranu veličinu papira.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Raspon mora biti broj između 1 i { $numPages }.
+printui-error-invalid-start-overflow = Broj stranice “od” mora biti manji od broja stranice “do”.
