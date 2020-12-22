@@ -70,9 +70,13 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-export = برآمد کریں
+    .download = { $fileName }.pem
 
 ##
 
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (نامعلوم)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 

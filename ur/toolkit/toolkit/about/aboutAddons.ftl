@@ -286,6 +286,7 @@ addon-detail-version-label = ورژن
 addon-detail-last-updated-label = آخری تازہ کاری
 addon-detail-homepage-label = ابتدائی صفحہ
 addon-detail-rating-label = شرح کاری
+install-postponed-button = ابھی تازہ کاری کریں
 
 ## Pending uninstall message bar
 

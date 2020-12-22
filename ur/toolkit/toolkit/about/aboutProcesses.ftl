@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The Actions column
+about-processes-column-action =
+    .title = اعمال
 
 ## Tooltips
 
@@ -22,6 +25,7 @@ about-processes-column-memory-resident = میموری
 
 ## Details within processes
 
+about-processes-preloaded-tab = پہلے سے لوڈ شدہ نیا ٹیب
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -32,6 +36,8 @@ about-processes-column-memory-resident = میموری
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (پیمائش)
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -44,6 +50,8 @@ about-processes-column-memory-resident = میموری
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 

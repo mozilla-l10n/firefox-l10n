@@ -20,11 +20,19 @@
 permission-dialog-btn-open-link =
     .label = ربط کھولیں
     .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = ایپلیکیشن منتخب کریں
+    .accessKey = A
+permission-dialog-unset-description = آپ کو ایک ایپلیکیشن منتخب کرنے کی ضرورت ہوگی۔
+permission-dialog-set-change-app-link = ایک مختلف  ایپلیکیشن منتخب کریں۔
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = ایپلی کیشن منتخب کریں
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = ربط کھولیں
     .buttonaccesskeyaccept = O
