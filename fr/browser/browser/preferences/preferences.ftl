@@ -509,6 +509,7 @@ home-prefs-shortcuts-header =
 home-prefs-recommended-by-header =
     .label = Recommandations par { $provider }
 home-prefs-recommended-by-description-update = Contenu exceptionnel déniché sur le Web par { $provider }
+home-prefs-recommended-by-description-new = Contenu exceptionnel sélectionné par { $provider }, membre de la famille { -brand-product-name }
 
 ##
 
