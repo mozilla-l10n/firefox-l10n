@@ -28,3 +28,6 @@ carddav-refreshinterval-hours-value =
             [few] vsake { $hours } ure
            *[other] vsakih { $hours } ur
         }
+carddav-readonly-label =
+    .label = Samo za branje
+    .accesskey = b
