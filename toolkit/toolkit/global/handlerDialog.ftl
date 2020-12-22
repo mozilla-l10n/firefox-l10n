@@ -44,6 +44,14 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Otvori poveznicu
     .buttonaccesskeyaccept = O
+chooser-dialog-description = Odaberi aplikaciju za otvaranje poveznice { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Uvijek koristi ovu aplikaciju za otvaranje poveznica <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Ovo se može promijeniti u mogućnostima { -brand-short-name }a.
+       *[other] Ovo se može promijeniti u postavkama { -brand-short-name }a.
+    }
 choose-other-app-description = Odaberi jedan drugi program
 choose-app-btn =
     .label = Odabir…
