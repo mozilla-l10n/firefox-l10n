@@ -8,6 +8,9 @@ certmgr-title =
 certmgr-tab-mine =
     .label = Els vostres certificats
 
+certmgr-tab-remembered =
+    .label = Decisions d'autenticació
+
 certmgr-tab-people =
     .label = D'altri
 
@@ -18,6 +21,7 @@ certmgr-tab-ca =
     .label = Entitats
 
 certmgr-mine = Teniu certificats d'estes organitzacions que vos identifiquen
+certmgr-remembered = Estos certificats s'utilitzen per identificar-vos en els llocs web
 certmgr-people = Teniu certificats al fitxer que identifiquen esta gent
 certmgr-servers = Teniu certificats al fitxer que identifiquen estos servidors
 certmgr-ca = Teniu certificats al fitxer que identifiquen estes entitats certificadores
@@ -73,6 +77,9 @@ certmgr-edit-cert-trust-email =
 certmgr-delete-cert =
     .title = Suprimeix el certificat
     .style = width: 48em; height: 24em;
+
+certmgr-cert-host =
+    .label = Amfitrió
 
 certmgr-cert-name =
     .label = Nom del certificat
@@ -271,6 +278,9 @@ cert-not-verified-issuer-unknown = No s'ha pogut comprovar el certificat perquè
 cert-not-verified-ca-invalid = No s'ha pogut comprovar el certificat perquè el certificat de la CA no és vàlid.
 cert-not-verified_algorithm-disabled = No s'ha pogut verificar el certificat perquè ha estat signat amb un algorisme de signatura que va ser inhabilitat per no ser segur.
 cert-not-verified-unknown = No s'ha pogut comprovar el certificat per raons desconegudes.
+
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = No envies cap certificat de client
 
 ## Add Security Exception dialog
 

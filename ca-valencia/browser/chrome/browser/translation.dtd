@@ -61,7 +61,6 @@
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -69,4 +68,3 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
-

@@ -4,7 +4,6 @@
 
 page-title = Informació de resolució de problemes
 page-subtitle = Esta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents del { -brand-short-name }, visiteu el nostre <a data-l10n-name="support-link">lloc web d'assistència</a>.
-
 crashes-title = Informes de fallada
 crashes-id = Identificador de l'informe
 crashes-send-date = Data d'enviament
@@ -15,7 +14,10 @@ extensions-name = Nom
 extensions-enabled = Habilitada
 extensions-version = Versió
 extensions-id = ID
+support-addons-title = Complements
 support-addons-name = Nom
+support-addons-type = Tipus
+support-addons-enabled = Activat
 support-addons-version = Versió
 support-addons-id = ID
 security-software-title = Programari de seguretat
@@ -35,6 +37,7 @@ app-basics-title = Paràmetres bàsics de l'aplicació
 app-basics-name = Nom
 app-basics-version = Versió
 app-basics-build-id = Identificador del muntatge
+app-basics-distribution-id = ID de distribució
 app-basics-update-channel = Canal d'actualitzacions
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -74,6 +77,12 @@ show-dir-label =
         [windows] Obre la carpeta
        *[other] Obre el directori
     }
+environment-variables-title = Variables d'entorn
+environment-variables-name = Nom
+environment-variables-value = Valor
+experimental-features-title = Funcions experimentals
+experimental-features-name = Nom
+experimental-features-value = Valor
 modified-key-prefs-title = Preferències modificades importants
 modified-prefs-name = Nom
 modified-prefs-value = Valor
@@ -93,6 +102,8 @@ graphics-crash-guards-title = Característiques del protector de fallades desact
 graphics-workarounds-title = Solucions temporals
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocol de finestres
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Entorn d'escriptori
 place-database-title = Base de dades de llocs
 place-database-integrity = Integritat
 place-database-verify-integrity = Verifica la integritat
@@ -115,12 +126,18 @@ sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
 safe-mode-title = Proveu el mode segur
 restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
+clear-startup-cache-title = Proveu d'esborrar la memòria cau d'inici
+clear-startup-cache-label = Esborra la memòria cau d'inici…
+startup-cache-dialog-title = Esborra la memòria cau d’inici
+startup-cache-dialog-body = Reinicieu el { -brand-short-name } per esborrar la memòria cau d'inici. Això no canviarà els vostres paràmetres ni eliminarà cap extensió que hàgeu afegit al { -brand-short-name }.
+restart-button-label = Reinicia
 
 ## Media titles
 
 audio-backend = Sistema de fons d'àudio
 max-audio-channels = Nombre màxim de canals
 sample-rate = Freqüència de mostratge preferida
+roundtrip-latency = Latència d'anada i tornada (desviació estàndard)
 media-title = Multimèdia
 media-output-devices-title = Dispositius d'eixida
 media-input-devices-title = Dispositius d'entrada
@@ -167,7 +184,6 @@ report-crash-for-days =
         [one] Informes de fallada de l'últim dia
        *[other] Informes de fallada dels últims { $days } dies
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -175,7 +191,6 @@ crashes-time-minutes =
         [one] Fa un minut
        *[other] Fa { $minutes } minuts
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -183,7 +198,6 @@ crashes-time-hours =
         [one] Fa una hora
        *[other] Fa { $hours } hores
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -191,7 +205,6 @@ crashes-time-days =
         [one] Fa un dia
        *[other] Fa { $days } dies
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -199,7 +212,6 @@ pending-reports =
         [one] Tots els informes de fallada (inclosa { $reports } fallada pendent dins el període de temps indicat)
        *[other] Tots els informes de fallada (incloses { $reports } fallades pendents dins el període de temps indicat)
     }
-
 raw-data-copied = Les dades sense processar s'han copiat al porta-retalls
 text-copied = S'ha copiat el text al porta-retalls
 
@@ -212,11 +224,9 @@ blocked-mismatched-version = Blocat per què no coincideixen les versions del co
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blocat pel controlador gràfic. Proveu d'actualitzar-lo a la versió { $driverVersion } o posterior.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paràmetres ClearType
-
 compositing = Composició
 hardware-h264 = Descodificació H264 per maquinari
 main-thread-no-omtc = fil principal, sense OMTC
@@ -231,7 +241,6 @@ virtual-monitor-disp = Pantalla de monitor virtual
 
 found = S'ha trobat
 missing = Falta
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripció
@@ -247,26 +256,20 @@ gpu-active = Activa
 webgl1-extensions = Extensions WebGL 1
 webgl2-extensions = Extensions WebGL 2
 blocklisted-bug = És a la llista de bloquejos per problemes coneguts
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = error { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = És a la llista de bloquejos; codi d'error { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de vídeo D3D11
 d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Reinicialitza als valors per defecte en el proper reinici
 gpu-process-kill-button = Finalitza el procés de GPU
-
 min-lib-versions = Versió mínima esperada
 loaded-lib-versions = Versió en ús
-
 has-seccomp-bpf = Seccomp-BPF (filtratge de crides del sistema)
 has-seccomp-tsync = Sincronització de fils Seccomp
 has-user-namespaces = Espais de noms de l'usuari
@@ -277,10 +280,9 @@ content-sandbox-level = Nivell de l'entorn de proves de processos de contingut
 effective-content-sandbox-level = Nivell de l'entorn de proves de processos de contingut efectiu
 sandbox-proc-type-content = contingut
 sandbox-proc-type-media-plugin = connector multimèdia
-
 launcher-process-status-0 = Activat
 launcher-process-status-1 = Desactivat a causa d'un error
-
+launcher-process-status-unknown = Estat desconegut
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -293,7 +295,6 @@ multi-process-status-6 = Inhabilitat perquè l'entrada de text és incompatible
 multi-process-status-7 = Inhabilitat per part dels complements
 multi-process-status-8 = Inhabilitat de forma forçada
 multi-process-status-unknown = Estat desconegut
-
 async-pan-zoom = Pan/Zoom asíncrons
 apz-none = cap
 wheel-enabled = entrada amb roda activada

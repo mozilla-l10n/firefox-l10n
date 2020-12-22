@@ -11,7 +11,6 @@
 <!ENTITY returnToPreviousPage1.label "Vés arrere (recomanat)">
 <!ENTITY advanced2.label "Avançat…">
 <!ENTITY viewCertificate.label "Mostra el certificat">
-
 <!-- Specific error messages -->
 
 
@@ -60,7 +59,6 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Assegureu-vos que el vostre sistema té un gestor de seguretat personal instal·lat.</li> <li>Això podria ser a causa d'una configuració no estàndard del servidor.</li> </ul>">
 
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La pàgina que esteu intentant veure no es pot mostrar perquè no s'ha pogut verificar l'autenticitat de les dades rebudes.</li> <li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> </ul>">
-
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -94,7 +92,6 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Més informació…">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul></p>">
-
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
@@ -104,7 +101,6 @@ was trying to connect. -->
 <!ENTITY certerror.sts.pagetitle  "No s'ha connectat: Problema potencial de seguretat">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> té una política de seguretat anomenada «HTTP Strict Transport Security» (Seguretat estricta de transport HTTP, o HSTS), que vol dir que el &brandShortName; només pot connectar-s'hi de forma segura. No podeu afegir cap excepció per visitar este lloc.">
 <!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

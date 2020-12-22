@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,9 +109,15 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engineName } directament des de la barra d'adreces.
 urlbar-search-tips-redirect-2 = Comenceu la vostra cerca en la barra d'adreces per veure suggeriments de { $engineName } i del vostre historial de navegació.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Seleccioneu esta drecera per trobar el que necessiteu més ràpidament.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Adreces d'interés
+urlbar-search-mode-tabs = Pestanyes
+urlbar-search-mode-history = Historial
 
 ##
 
@@ -217,7 +223,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Esta vegada, cerca amb:
 # This string won't wrap, so if the translated string is longer,
@@ -235,6 +241,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Defineix com a motor de cerca per defecte per a les finestres privades
     .accesskey = D
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -243,6 +255,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Adreces d'interés ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Pestanyes ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historial ({ $restrict })
 
 ## Bookmark Panel
 
@@ -270,8 +288,21 @@ identity-passive-loaded = Parts d'esta pàgina no són segures (com les imatges)
 identity-active-loaded = Heu desactivat la protecció en esta pàgina.
 identity-weak-encryption = Esta pàgina utilitza xifratge feble.
 identity-insecure-login-forms = Les dades d'inici de sessió que introduïu en esta pàgina podrien estar en risc.
+identity-https-only-connection-upgraded = (actualitzat a HTTPS)
+identity-https-only-label = Mode només HTTPS
+identity-https-only-dropdown-on =
+    .label = Activat
+identity-https-only-dropdown-off =
+    .label = Desactivat
+identity-https-only-dropdown-off-temporarily =
+    .label = Desactivat temporalment
+identity-https-only-info-turn-on2 = Activeu el mode només HTTPS per a este lloc si voleu que el { -brand-short-name } canvie a una connexió segura quan siga possible.
+identity-https-only-info-turn-off2 = Si pareix que la pàgina no funciona bé, podeu provar de desactivar el mode només HTTPS per a este lloc per tornar-lo a carregar amb HTTP insegur.
+identity-https-only-info-no-upgrade = No s'ha pogut actualitzar la connexió des d'HTTP.
 identity-permissions =
     .value = Permisos
+identity-permissions-storage-access-header = Galetes entre llocs
+identity-permissions-storage-access-hint = Estos subjectes poden utilitzar galetes entre llocs i dades del lloc mentre esteu en este lloc.
 identity-permissions-reload-hint = Potser cal que actualitzeu la pàgina per aplicar els canvis.
 identity-permissions-empty = No heu donat cap permís especial a este lloc.
 identity-clear-site-data =
@@ -317,6 +348,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importa les adreces d'interés…
+    .tooltiptext = Importa les adreces d'interés d'un altre navegador al { -brand-short-name }.
+bookmarks-toolbar-empty-message = Col·loqueu les adreces d'interés ací, a la barra de les adreces d'interés, per accedir-hi ràpidament. <a data-l10n-name="manage-bookmarks">Gestiona les adreces d'interés…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -353,8 +388,38 @@ enable-devtools-popup-description = Per a usar la drecera F12, primer obriu DevT
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Escriviu una cerca o adreça
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Escriviu una cerca o adreça
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Cerca al web
+    .aria-label = Cerca amb { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Escriviu els termes de la cerca
+    .aria-label = Cerca en { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Escriviu els termes de la cerca
+    .aria-label = Cerca en les adreces d'interés
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Escriviu els termes de la cerca
+    .aria-label = Cerca en l'historial
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Escriviu els termes de la cerca
+    .aria-label = Cerca en les pestanyes
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -391,13 +456,37 @@ urlbar-result-action-search-in-private = Cerca en una finestra privada
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Cerca amb { $engine }
+urlbar-result-action-sponsored = Patrocinat
 urlbar-result-action-switch-tab = Canvia a la pestanya
 urlbar-result-action-visit = Visita
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Premeu Tab per cercar amb { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Premeu Tab per cercar en { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Cerca amb { $engine } directament des de la barra d'adreces
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Cerca en { $engine } directament des de la barra d'adreces
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Cerca en les adreces d'interés
+urlbar-result-action-search-history = Cerca en l'historial
+urlbar-result-action-search-tabs = Cerca en les pestanyes
 
 ## Full Screen and Pointer Lock UI
 

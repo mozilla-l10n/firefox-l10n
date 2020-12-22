@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Cerca
     .aria-label = Cerca
-
 newtab-search-box-search-the-web-text = Cerca al web
 newtab-search-box-search-the-web-input =
     .placeholder = Cerca al web
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Edita el lloc principal
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Escriviu el títol
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escriviu o apegueu un URL
 newtab-topsites-url-validation = Es necessita un URL vàlid
-
 newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
@@ -54,18 +51,20 @@ newtab-confirm-delete-history-p1 = Segur que voleu suprimir de l'historial totes
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Esta acció no es pot desfer.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Patrocinat
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Obri el menú
     .aria-label = Obri el menú
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Elimina
     .aria-label = Elimina
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -138,12 +137,10 @@ newtab-label-removed-bookmark = S'ha eliminat l'adreça d'interés
 newtab-label-recommended = Tendència
 newtab-label-saved = Guardat al { -pocket-brand-name }
 newtab-label-download = Baixat
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrocinat
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -174,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Llocs principals
 newtab-section-header-highlights = Destacats
+newtab-section-header-recent-activity = Activitat recent
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Recomanat per { $provider }
@@ -181,12 +179,10 @@ newtab-section-header-pocket = Recomanat per { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Comenceu a navegar i ací vos mostrarem els millors articles, vídeos i altres pàgines que hàgeu visitat o afegit a les adreces d'interés recentment.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ja esteu al dia. Torneu més tard per veure més articles populars de { $provider }. No podeu esperar? Trieu un tema popular per descobrir els articles més interessants de tot el web.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

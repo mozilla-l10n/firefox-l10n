@@ -29,3 +29,8 @@ process-type-webisolated = Contingut web aïllat
 # graphics acceleration
 process-type-gpu = GPU
 
+# process used to perform network operations
+process-type-socket = Sòcol
+
+# process preallocated; may change to other types
+process-type-prealloc = Preassignat
