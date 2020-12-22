@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "Β">
 <!ENTITY aboutProduct2.label "Σχετικά με το &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "Σ">
-<!ENTITY helpTroubleshootingInfo.label     "Πληροφορίες αντιμετώπισης προβλημάτων">
+<!ENTITY helpTroubleshootingInfo.label     "Πληροφορίες επίλυσης προβλημάτων">
 <!ENTITY helpTroubleshootingInfo.accesskey "μ">
 <!ENTITY helpSafeMode.label     "Επανεκκίνηση με ανενεργά πρόσθετα…">
 <!ENTITY helpSafeMode.accesskey "π">
