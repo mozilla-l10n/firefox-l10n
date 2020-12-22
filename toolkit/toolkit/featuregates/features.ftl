@@ -95,3 +95,6 @@ experimental-features-fission-description = Fission (isolement des sites) est un
 experimental-features-multi-pip =
     .label = Prise en charge de plusieurs incrustations vidéo
 experimental-features-multi-pip-description = Prise en charge expérimentale de l’ouverture simultanée de plusieurs incrustations vidéo.
+experimental-features-http3 =
+    .label = Protocole HTTP/3
+experimental-features-http3-description = Prise en charge expérimentale du protocole HTTP/3.
