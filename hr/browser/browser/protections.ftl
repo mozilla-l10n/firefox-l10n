@@ -26,9 +26,14 @@ graph-private-window = { -brand-short-name } nastavlja blokirati programe za pra
 graph-week-summary-private-window = Programi za praćenje, koje je { -brand-short-name } blokirao ovaj tjedan
 protection-report-webpage-title = Nadzorna ploča zaštite
 protection-report-page-content-title = Nadzorna ploča zaštite
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } može zaštititi tvoju privatnost iza scene dok surfaš. Ovo je personalizirani sažetak te zaštite, uključujući alate za preuzimanje kontrole nad vlastitom sigurnošću na webu.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } štiti tvoju privatnost iza scene dok surfaš. Ovo je personalizirani sažetak te zaštite, uključujući alate za preuzimanje kontrole nad vlastitom sigurnošću na webu.
 protection-report-settings-link = Upravljaj svojim postavkama za privatnost i sigurnost
 etp-card-title-always = Poboljšana zaštita od praćenja: uvijek uključeno
 etp-card-title-custom-not-blocking = Poboljšana zaštita od praćenja: ISKLJUČENO
+etp-card-content-description = { -brand-short-name } automatski sprječava tvrtke da te potajno prate širom weba.
 protection-report-etp-card-content-custom-not-blocking = Sve zaštite su trenutačno isključene. Upravljaj programima za praćenje koje želiš blokirati u { -brand-short-name } postavkama zaštite.
 protection-report-manage-protections = Upravljaj postavkama
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
