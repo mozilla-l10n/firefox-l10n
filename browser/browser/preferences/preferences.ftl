@@ -515,8 +515,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsoroidut tarinat
 home-prefs-highlights-header =
     .label = Nostot
-home-prefs-recent-activity-header =
-    .label = Viimeisin toiminta
 home-prefs-highlights-description = Valikoima sivustoja, joilla olet käynyt tai jotka olet tallentanut
 home-prefs-highlights-option-visited-pages =
     .label = Vieraillut sivustot
@@ -526,6 +524,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Viimeisimmät lataukset
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }iin tallennetut sivut
+home-prefs-recent-activity-header =
+    .label = Viimeisin toiminta
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -1142,14 +1142,14 @@ space-alert-under-5gb-message = { -brand-short-name(case: "ablative") } loppuu k
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Vain HTTPS -tila
-httpsonly-description = HTTPS:n avulla { -brand-short-name } muodostaa suojatun ja salatun yhteyden vierailemiisi sivustoihin. Useimmat sivustot tukevat HTTPS:ää, ja jos ”Vain HTTPS” -tila on käytössä, { -brand-short-name } muuntaa kaikki yhteydet käyttämään HTTPS:ää.
+httpsonly-description = HTTPS:n avulla { -brand-short-name } muodostaa suojatun ja salatun yhteyden vierailemiisi sivustoihin. Useimmat sivustot tukevat HTTPS:ää, ja jos ”Vain HTTPS”-tila on käytössä, { -brand-short-name } muuntaa kaikki yhteydet käyttämään HTTPS:ää.
 httpsonly-learn-more = Lue lisää
 httpsonly-radio-enabled =
-    .label = Käytä ”Vain HTTPS” -tilaa kaikissa ikkunoissa
+    .label = Käytä ”Vain HTTPS”-tilaa kaikissa ikkunoissa
 httpsonly-radio-enabled-pbm =
-    .label = Käytä ”Vain HTTPS” -tilaa vain yksityisissä ikkunoissa
+    .label = Käytä ”Vain HTTPS”-tilaa vain yksityisissä ikkunoissa
 httpsonly-radio-disabled =
-    .label = Älä käytä ”Vain HTTPS” -tilaa
+    .label = Älä käytä ”Vain HTTPS”-tilaa
 
 ## The following strings are used in the Download section of settings
 
