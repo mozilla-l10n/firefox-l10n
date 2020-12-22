@@ -503,6 +503,8 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-shortcuts-header =
     .label = Acorchis
 home-prefs-shortcuts-description = Los sites qu’enregistratz o consultatz
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Acorchis pairinejats
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -537,6 +539,7 @@ home-prefs-recent-activity-description = Una seleccion de sites e contenguts rec
 home-prefs-snippets-header =
     .label = Extraches
 home-prefs-snippets-description = Actualitat de { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description-new = Astúcias e novetats de { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->

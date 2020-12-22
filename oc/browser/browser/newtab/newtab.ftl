@@ -227,4 +227,5 @@ newtab-custom-close-button = Tampar
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Nòtas cortas
+newtab-custom-snippets-subtitle = Astúcias e novetats de { -vendor-short-name } e { -brand-product-name }
 newtab-custom-settings = Gerir mai de paramètres
