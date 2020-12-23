@@ -4,9 +4,6 @@
 
 <!-- Title -->
 <!ENTITY addressbookWindow.title                        "Kontakty">
-
-<!-- Menus:  the . means that the menu item isn't implemented yet -->
-
 <!ENTITY blankResultsPaneMessage.label                  "Tato složka kontaktů zobrazuje kontakty pouze po vyhledání">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakty ze vzdálených složek kontaktů se nezobrazují dokud je nevyhledáváte">
 <!-- File Menu -->
@@ -45,7 +42,7 @@
 
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "Lišta kontaktů">
-<!ENTITY showAbToolbarCmd.accesskey                     "d">
+<!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY layoutMenu.label                               "Rozložení">
 <!ENTITY layoutMenu.accesskey                           "R">
 <!ENTITY showDirectoryPane.label                        "Panel kontaktů">
@@ -60,7 +57,6 @@
 <!ENTITY lastFirstCmd.accesskey                         "p">
 <!ENTITY displayNameCmd.label                           "Zobrazované jméno">
 <!ENTITY displayNameCmd.accesskey                       "z">
-
 <!-- LOCALIZATION NOTE (toggleDirectoryPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleDirectoryPaneCmd.key                     "S">
@@ -98,8 +94,6 @@
 <!ENTITY newIM.tooltip                                  "Pošle krátkou zprávu nebo začne rozhovor">
 <!ENTITY printButton.tooltip                            "Tisk vybrané položky">
 <!ENTITY deleteItemButton.tooltip                       "Smaže označenou položku">
-<!ENTITY throbber.tooltip                               "Přejde na domovskou stránku aplikace &vendorShortName;">
-<!ENTITY throbber.tooltip2                              "Přejde na domovskou stránku aplikace &brandShortName;">
 <!ENTITY advancedButton.tooltip                         "Rozšířené hledání adres">
 
 <!-- Dir Tree header -->
