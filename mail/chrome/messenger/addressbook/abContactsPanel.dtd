@@ -14,7 +14,7 @@
 
 <!ENTITY abContextMenuButton.tooltip        "Zobrazit kontextovou nabídku složky kontaktů">
 <!ENTITY addressbookPicker.label            "Kontakty:">
-<!ENTITY addressbookPicker.accesskey        "S">
+<!ENTITY addressbookPicker.accesskey        "K">
 <!ENTITY searchContacts.label               "Hledat v kontaktech:">
 <!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Jméno nebo e-mail">
