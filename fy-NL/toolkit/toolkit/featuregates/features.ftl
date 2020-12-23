@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (website-isolaasje) is in ek
 experimental-features-multi-pip =
     .label = Stipe foar mear Picture-in-picture
 experimental-features-multi-pip-description = Eksperimintele stipe foar lyktidich iepenjen fan mear Picture-in-Picturefinsters.
+experimental-features-http3 =
+    .label = HTTP/3-protokol
+experimental-features-http3-description = Eksperimintele stipe foar it HTTP/3-protokol.

@@ -51,6 +51,7 @@ printui-duplex-checkbox = Op beide siden ôfdrukke
 printui-options = Opsjes
 printui-headers-footers-checkbox = Kop- en foetteksten ôfdrukke
 printui-backgrounds-checkbox = Eftergrûnen ôfdrukke
+printui-selection-checkbox = Allinnich seleksje ôfdrukke
 printui-color-mode-label = Kleurmodus
 printui-color-mode-color = Kleur
 printui-color-mode-bw = Swart-wyt
