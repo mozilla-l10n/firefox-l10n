@@ -50,6 +50,7 @@ printui-duplex-checkbox = In trên cả hai mặt của giấy
 printui-options = Tùy chọn
 printui-headers-footers-checkbox = In đầu trang và chân trang
 printui-backgrounds-checkbox = In phần nền
+printui-selection-checkbox = Chỉ in phần được chọn
 printui-color-mode-label = Chế độ màu
 printui-color-mode-color = Màu
 printui-color-mode-bw = Đen và trắng
