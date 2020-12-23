@@ -13,7 +13,7 @@
 -->
 
 <!ENTITY menu_securityEncryptRequire2.label "Vyžadovať šifrovanie">
-<!ENTITY menu_securityEncryptRequire.accesskey "Z">
+<!ENTITY menu_securityEncryptRequire.accesskey "V">
 
 <!ENTITY menu_securitySign.label "Digitálne podpísať túto správu">
 <!ENTITY menu_securitySign.accesskey "D">
