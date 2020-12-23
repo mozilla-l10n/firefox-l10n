@@ -79,9 +79,9 @@
 <!ENTITY customizeToolbar.accesskey                     "A">
 <!ENTITY layoutMenu.label                               "Vormgeving">
 <!ENTITY layoutMenu.accesskey                           "V">
-<!ENTITY showDirectoryPane.label                        "Directoryvenster">
-<!ENTITY showDirectoryPane.accesskey                    "r">
-<!ENTITY showContactPane2.label                         "Contactvenster">
+<!ENTITY showDirectoryPane.label                        "Mappenpaneel">
+<!ENTITY showDirectoryPane.accesskey                    "M">
+<!ENTITY showContactPane2.label                         "Contactpaneel">
 <!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Naam tonen als">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
