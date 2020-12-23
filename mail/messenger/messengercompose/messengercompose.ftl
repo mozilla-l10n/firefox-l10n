@@ -10,6 +10,14 @@ remove-address-row-type = Odstrániť pole { $type }
 #   $type (String) - the type of the addressing row
 remove-address-row-type-label =
     .tooltiptext = Odstrániť pole { $type }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } obsahuje jednu adresu, označíte ju použitím šípky doľava.
+       *[other] { $type } obsahuje niekoľko adries ({ $count }), označíte ich použitím šípky doľava.
+    }
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } nie je platnou e-mailovou adresou
 #   $email (String) - the email address
@@ -48,3 +56,6 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+button-return-receipt =
+    .label = Potvrdenka
+    .tooltiptext = Požiadať o potvrdenie o prijatí tejto správy
