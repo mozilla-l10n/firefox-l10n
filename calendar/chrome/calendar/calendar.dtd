@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Een nieuwe gebeurtenis maken" >
 <!ENTITY calendar.newtask.button.tooltip          "Een nieuwe taak maken" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Taken" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Voltooide taken tonen">
 
 <!ENTITY calendar.today.button.label          "Vandaag">
@@ -59,7 +57,7 @@
 <!ENTITY calendar.unifinder.close.tooltip                  "Gebeurtenissen zoeken en gebeurtenissenlijst sluiten">
 
 <!ENTITY calendar.today.button.tooltip          "Naar vandaag gaan" >
-<!ENTITY calendar.todaypane.button.tooltip      "Venster Vandaag tonen" >
+<!ENTITY calendar.todaypane.button.tooltip      "Paneel Vandaag tonen" >
 
 <!ENTITY calendar.day.button.tooltip            "Wisselen naar dagoverzicht" >
 <!ENTITY calendar.week.button.tooltip           "Wisselen naar weekoverzicht" >
@@ -173,7 +171,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Plakken">
 <!ENTITY calendar.context.pasteevent.accesskey        "P">
-<!ENTITY calendar.context.button.label                "Venster Vandaag">
+<!ENTITY calendar.context.button.label                "Paneel Vandaag">
 <!ENTITY calendar.context.button.accesskey            "d">
 
 <!ENTITY calendar.context.attendance.menu.label                 "Aanwezigheid">
@@ -313,7 +311,7 @@
 <!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Minimaand">
-<!ENTITY calendar.tasks.view.minimonth.accesskey       "m">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Agendalijst">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "A">
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Kleur:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Indeling:">
 <!ENTITY calendarproperties.location.label                 "Locatie:">
 <!ENTITY calendarproperties.refreshInterval.label          "Agenda verversen:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Alleen-lezen">
 <!ENTITY calendarproperties.firealarms.label               "Herinneringen tonen">
 <!ENTITY calendarproperties.cache3.label                   "Offlineondersteuning">
-<!ENTITY calendarproperties.enabled.label                  "Deze agenda inschakelen">
 <!ENTITY calendarproperties.enabled2.label                 "Deze agenda inschakelen">
 <!ENTITY calendarproperties.forceDisabled.label            "De provider voor deze agenda kon niet worden gevonden. Dit gebeurt vaak als u bepaalde add-ons hebt uitgeschakeld of gede-installeerd.">
 <!ENTITY calendarproperties.unsubscribe.label              "Afmelden">
