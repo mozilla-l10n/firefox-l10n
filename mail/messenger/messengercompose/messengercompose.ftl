@@ -16,7 +16,16 @@ address-input-type-aria-label =
     { $count ->
         [0] { $type }
         [one] { $type } obsahuje jednu adresu, označíte ju použitím šípky doľava.
-       *[other] { $type } obsahuje niekoľko adries ({ $count }), označíte ich použitím šípky doľava.
+        [few] { $type } obsahuje { $count } adresy, označíte ich použitím šípky doľava.
+       *[other] { $type } obsahuje { $count } adries, označíte ich použitím šípky doľava.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: stlačte Enter pre úpravu, Delete pre vymazanie.
+        [few] { $email }, 1 z { $count }: stlačte Enter pre úpravu, Delete pre vymazanie.
+       *[other] { $email }, 1 z { $count }: stlačte Enter pre úpravu, Delete pre vymazanie.
     }
 #   $email (String) - the email address
 pill-tooltip-invalid-address = { $email } nie je platnou e-mailovou adresou
