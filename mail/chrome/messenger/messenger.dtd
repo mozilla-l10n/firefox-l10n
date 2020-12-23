@@ -39,7 +39,7 @@
 <!ENTITY  newMessageCmd2.key "N">
 <!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Zpráva">
-<!ENTITY  newMessageCmd.accesskey "n">
+<!ENTITY  newMessageCmd.accesskey "Z">
 <!ENTITY  newContactCmd.label "Kontakt…">
 <!ENTITY  newContactCmd.accesskey "K">
 <!ENTITY openMenuCmd.label "Otevřít">
