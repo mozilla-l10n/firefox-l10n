@@ -9,7 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Vytvoří novou událost" >
 <!ENTITY calendar.newtask.button.tooltip          "Vytvoří nový úkol" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Úkoly" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Zobrazit dokončené úkoly">
 
 <!ENTITY calendar.today.button.label          "Dnes">
@@ -178,8 +177,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Účast">
 <!ENTITY calendar.context.attendance.menu.accesskey             "a">
 <!ENTITY calendar.context.attendance.occurrence.label           "tento výskyt">
-<!ENTITY calendar.context.attendance.all.label        "Všechny výskyty" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Celá série">
 <!ENTITY calendar.context.attendance.send.label                 "Poslat oznámení">
 <!ENTITY calendar.context.attendance.send.accesskey             "s">
@@ -192,7 +189,7 @@
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Předběžně přijato">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "O">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Odmítnuto">
-<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "v">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "e">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Předáno">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Stále vyžaduje akci">
@@ -356,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Barva:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formát:">
 <!ENTITY calendarproperties.location.label                 "Adresa:">
 <!ENTITY calendarproperties.refreshInterval.label          "Aktualizovat kalendář:">
@@ -365,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Pouze pro čtení">
 <!ENTITY calendarproperties.firealarms.label               "Zobrazovat upozornění">
 <!ENTITY calendarproperties.cache3.label                   "Podpora režimu offline">
-<!ENTITY calendarproperties.enabled.label                  "Zapnout kalendář">
 <!ENTITY calendarproperties.forceDisabled.label            "Poskytovatel tohoto kalendáře nemohl být nalezen. To často nastává tehdy, pokud jste zakázali nebo odinstalovali některé konkrétní doplňky.">
 <!ENTITY calendarproperties.unsubscribe.label              "Zrušit odběr">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "Z">
