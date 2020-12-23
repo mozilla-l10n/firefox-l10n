@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (cách ly trang web) là m�
 experimental-features-multi-pip =
     .label = Hỗ trợ nhiều cửa sổ Hình-trong-hình
 experimental-features-multi-pip-description = Thử nghiệm cho phép hỗ trợ mở nhiều cửa sổ Hình-trong-hình cùng lúc.
+experimental-features-http3 =
+    .label = Giao thức HTTP/3
+experimental-features-http3-description = Hỗ trợ thử nghiệm cho giao thức HTTP/3.
