@@ -138,7 +138,7 @@ mail-play-sound-label =
     .accesskey =
         { PLATFORM() ->
             [macos] v
-           *[other] P
+           *[other] v
         }
 mail-play-button =
     .label = Přehrát
@@ -184,7 +184,7 @@ autoscroll-label =
     .accesskey = a
 smooth-scrolling-label =
     .label = Použít plynulé posouvání
-    .accesskey = e
+    .accesskey = l
 system-integration-legend = Nastavení systému
 always-check-default =
     .label =
@@ -386,7 +386,7 @@ mark-read-no-delay =
 
 mark-read-delay =
     .label = Až po
-    .accesskey = z
+    .accesskey = p
 seconds-label = sekundách od zobrazení
 
 ##
@@ -455,7 +455,7 @@ font-size-label =
     .accesskey = s
 default-colors-label =
     .label = Použít výchozí barvy čtečky
-    .accesskey = d
+    .accesskey = v
 font-color-label =
     .value = Text:
     .accesskey = T

@@ -70,7 +70,7 @@
 <!ENTITY menubarCmd.label                               "Lišta nabídky">
 <!ENTITY menubarCmd.accesskey                           "n">
 <!ENTITY showAbToolbarCmd.label                         "Lišta kontaktů">
-<!ENTITY showAbToolbarCmd.accesskey                     "d">
+<!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Stavový řádek">
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Přizpůsobit…">
