@@ -67,6 +67,7 @@
 <!ENTITY alwaysAuthenticate.label "Pri pripájaní sa na tento server vždy vyžadovať overenie">
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath1.label "Súbor News.rc:">
+<!ENTITY newsrcPicker1.label "Vybrať súbor News.rc">
 <!ENTITY abbreviate.label "Zobraziť názvy diskusných skupín ako :">
 <!ENTITY abbreviateOn.label "Úplný názov (napr. 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skratky (napr. 'n.p.m.mail-news')">
