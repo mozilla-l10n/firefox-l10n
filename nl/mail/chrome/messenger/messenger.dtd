@@ -155,7 +155,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "M">
 <!ENTITY showFolderPaneColsCmd.label "Mappenvensterkolommen">
 <!ENTITY showFolderPaneColsCmd.accesskey "o">
-<!ENTITY showMessageCmd.label "Berichtvenster">
+<!ENTITY showMessageCmd.label "Berichtpaneel">
 <!ENTITY showMessageCmd.accesskey "e">
 
 <!ENTITY folderView.label "Mappen">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Locatie">
 <!ENTITY idColumn.label "Volgorde van ontvangst">
 <!ENTITY attachmentColumn.label "Bijlagen">
-
 <!ENTITY deleteColumn.label "Verwijderen">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Sorteren op locatie">
 <!ENTITY idColumn2.tooltip "Sorteren op volgorde van ontvangst">
 <!ENTITY attachmentColumn2.tooltip "Sorteren op bijlagen">
-
 <!ENTITY deleteColumn.tooltip "Een bericht verwijderen">
 
 <!-- Thread Pane Context Menu -->
