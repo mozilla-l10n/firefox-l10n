@@ -35,7 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Gebeurtenissen zoeken">
 <!ENTITY showUnifinderCmd.accesskey             "z">
-<!ENTITY showUnifinderCmd.tooltip               "Het zoekvenster voor gebeurtenissen in-/uitschakelen">
+<!ENTITY showUnifinderCmd.tooltip               "Het paneel Gebeurtenissen zoeken in-/uitschakelen">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Taken in agenda tonen">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">

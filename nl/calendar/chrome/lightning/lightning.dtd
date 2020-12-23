@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "d">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Openen">
-<!ENTITY lightning.menupopup.open.accesskey           "O">
-<!ENTITY lightning.menupopup.open.message.label       "Opgeslagen bericht…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "b">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Agendabestand…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "A">
 
@@ -111,6 +105,6 @@
 <!ENTITY todaypane.showMiniday.accesskey  "d">
 <!ENTITY todaypane.showNone.label "Niets tonen">
 <!ENTITY todaypane.showNone.accesskey "N">
-<!ENTITY todaypane.showTodayPane.label "Venster Vandaag tonen">
-<!ENTITY todaypane.showTodayPane.accesskey "o">
-<!ENTITY todaypane.statusButton.label "Venster Vandaag">
+<!ENTITY todaypane.showTodayPane.label "Paneel Vandaag tonen">
+<!ENTITY todaypane.showTodayPane.accesskey "P">
+<!ENTITY todaypane.statusButton.label "Paneel Vandaag">
