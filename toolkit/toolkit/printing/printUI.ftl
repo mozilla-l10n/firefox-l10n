@@ -51,6 +51,7 @@ printui-duplex-checkbox = Op beide zijden afdrukken
 printui-options = Opties
 printui-headers-footers-checkbox = Kop- en voetteksten afdrukken
 printui-backgrounds-checkbox = Achtergronden afdrukken
+printui-selection-checkbox = Alleen selectie afdrukken
 printui-color-mode-label = Kleurmodus
 printui-color-mode-color = Kleur
 printui-color-mode-bw = Zwart-wit
