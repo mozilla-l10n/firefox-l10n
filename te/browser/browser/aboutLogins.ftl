@@ -151,6 +151,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-message = ఈ చర్యను రద్దు చేయలేరు.
 about-logins-confirm-remove-dialog-confirm-button = తొలగించు
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] తొలగించు
+        [one] తొలగించు
+       *[other] అన్నీ తొలగించు
+    }
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?

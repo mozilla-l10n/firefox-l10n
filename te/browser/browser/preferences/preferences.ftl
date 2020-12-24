@@ -466,6 +466,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = ఇటీవలి దింపుకోలు
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }లో భద్రపరచిన పేజీలు
+home-prefs-recent-activity-header =
+    .label = ఇటీవలి కార్యకలాపం
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
