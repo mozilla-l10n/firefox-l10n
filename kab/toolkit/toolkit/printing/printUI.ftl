@@ -44,6 +44,7 @@ printui-scale = Sellum
 printui-scale-fit-to-page-width = Ṣeggem almend n tehri n tferkit
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Sellum
+printui-duplex-checkbox = Siggez ɣef sin wudmawen
 # Section title for miscellaneous print options
 printui-options = Iɣewwaren
 printui-headers-footers-checkbox = Siggez iqerra d yiḍarren n usebter
