@@ -7,7 +7,7 @@
  revision number of a given Firefox channel". These terms are not synonymous.
 -->
 
-<!ENTITY window.title "Notiçie inportanti">
+<!ENTITY window.title "Notiçie inportante">
 <!ENTITY window.style "width: 490px">
 <!ENTITY sync "Pe scincronizâ e informaçioin za sarvæ in Firefox con sta instalaçion de &brandShortName;, intra co-o teu &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Continoa">
