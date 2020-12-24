@@ -418,6 +418,8 @@ urlbar-result-action-visit = చూడండి
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = ఇష్టాంశాలను వెతకండి
+urlbar-result-action-search-history = చరిత్రలో వెతకండి
+urlbar-result-action-search-tabs = ట్యాబులలో వెతకండి
 
 ## Full Screen and Pointer Lock UI
 

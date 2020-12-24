@@ -199,3 +199,7 @@ newtab-pocket-cta-button = { -pocket-brand-name } పొందండి
 
 newtab-error-fallback-info = అయ్యో, ఈ విషయం తేవడంలో ఏదో తప్పు దొర్లింది.
 newtab-error-fallback-refresh-link = మళ్ళీ ప్రయత్నించడానికి పేజీని రీఫ్రెష్ చెయ్యండి.
+
+## Customization Menu
+
+newtab-custom-close-button = మూసివేయి
