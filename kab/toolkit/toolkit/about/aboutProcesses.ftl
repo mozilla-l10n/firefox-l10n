@@ -31,6 +31,7 @@ about-processes-browser-process-name = { -brand-short-name } (akala { $pid })
 about-processes-web-process-name = Web (akala { $pid }, yettwabḍa)
 about-processes-web-isolated-process-name = Web (akala { $pid }) i { $origin }
 about-processes-web-large-allocation = Web (akala { $pid }, meqqer) i { $origin }
+about-processes-with-coop-coep-process-name = Web (akala { $pid }, cross-origin yettuɛzel) i { $origin }
 about-processes-file-process-name = Ifuyla (akala { $pid })
 about-processes-extension-process-name = Isiɣzaf (akala { $pid })
 about-processes-privilegedabout-process-name = Ɣef (ukala { $pid })

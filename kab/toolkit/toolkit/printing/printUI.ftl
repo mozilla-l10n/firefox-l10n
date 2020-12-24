@@ -44,6 +44,8 @@ printui-scale = Sellum
 printui-scale-fit-to-page-width = Ṣeggem almend n tehri n tferkit
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Sellum
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Asiggez ɣef sin wudmawen
 printui-duplex-checkbox = Siggez ɣef sin wudmawen
 # Section title for miscellaneous print options
 printui-options = Iɣewwaren

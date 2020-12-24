@@ -99,3 +99,4 @@ experimental-features-multi-pip =
     .label = Tallalt n tugna deg tugna yeggten
 experimental-features-http3 =
     .label = Aneggaf n HTTP/3
+experimental-features-http3-description = Tallalt tarmitant i uneggaf HTTP/3

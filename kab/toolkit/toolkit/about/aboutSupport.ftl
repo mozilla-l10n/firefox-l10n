@@ -193,6 +193,7 @@ support-third-party-modules-occurrence = Timeḍriwt
 support-third-party-modules-process = Anaw & usulay n ukala
 support-third-party-modules-thread = Asqerdec
 support-third-party-modules-base = Tansa n taffa n tugniwin
+support-third-party-modules-uptime = Akud n useddu n ukala (ms)
 support-third-party-modules-duration = Tanzagt n usali (ms)
 support-third-party-modules-empty = Ulac izegrar n wis kraḍ i d-yettwasulin.
 support-third-party-modules-no-value = (Ulac azal)
