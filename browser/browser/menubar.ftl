@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
+
+
 ## File Menu
 
 menu-file =
@@ -12,7 +18,7 @@ menu-file-new-tab =
     .label = Neuvo feuggio
     .accesskey = N
 menu-file-new-container-tab =
-    .label = Neuvo feuggio contenitô
+    .label = Neuvo feuggio contegnitô
     .accesskey = c
 menu-file-new-window =
     .label = Neuvo barcon
