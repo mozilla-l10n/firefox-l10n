@@ -455,7 +455,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novas janelas e abas
-home-new-windows-tabs-description2 = Escolha o que ver quando abrir a página inicial, novas janelas e novas abas.
+home-new-windows-tabs-description2 = Escolha o que aparece quando você abre sua página inicial, novas janelas e novas abas.
 
 ## Home Section - Home Page Customization
 
