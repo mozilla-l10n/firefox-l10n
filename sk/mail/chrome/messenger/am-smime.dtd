@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY e2eTitle.label "End-To-End šifrovanie">
+<!ENTITY e2eTitle.label "Obojstranné šifrovanie">
 <!ENTITY e2eLearnMore.label "Ďalšie informácie">
 
 <!ENTITY e2eEnc.description "Bez šifrovania end-to-end bude obsah správ ľahko vystavený vášmu poskytovateľovi e-mailov a hromadnému sledovaniu.">
