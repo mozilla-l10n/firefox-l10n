@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
+carddav-refreshinterval-label =
+    .label = Mtawi:
+    .accesskey = M
 # Variables:
 #   $minutes (integer) - Number of minutes between address book synchronizations
 carddav-refreshinterval-minutes-value =
@@ -18,3 +21,6 @@ carddav-refreshinterval-hours-value =
             [one] yal asrag
            *[other] yal { $hours } n yisragen
         }
+carddav-readonly-label =
+    .label = Taɣuṛi kan
+    .accesskey = ɣ

@@ -8,3 +8,12 @@
 menu-view-charset =
     .label = Asettengel n uḍris
     .accesskey = s
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Aspam
+    .tooltiptext = Creḍ iznan yettwafernen d ispamen
+toolbar-not-junk-button =
+    .label = Mačči d aspam
+    .tooltiptext = Creḍ iznan yettwafernen mačči d ispamen
