@@ -71,6 +71,8 @@ openpgp-keygen-short-expiry = Váš kľúč musí byť platný najmenej jeden de
 openpgp-keygen-ongoing = Generovanie kľúčov už prebieha!
 openpgp-keygen-error-core = Nepodarilo sa inicializovať základnú službu OpenPGP
 openpgp-keygen-error-failed = Generovanie kľúča OpenPGP neočakávane zlyhalo
+#   $identity (String) - the newly generate OpenPGP Key
+openpgp-keygen-error-revocation = Kľúč OpenPGP bol úspešne vytvorený, ale nepodarilo sa získať zrušenie pre kľúč { $key }
 openpgp-keygen-abort-title = Prerušiť generovanie kľúča?
 openpgp-keygen-abort = Momentálne prebieha vytváranie kľúča OpenPGP. Naozaj ho chcete zrušiť?
 #   $identity (String) - the name and email address of the currently selected identity
@@ -89,6 +91,8 @@ openpgp-import-key-list-amount =
         [few] Thunderbird našiel { $count } kľúče, ktoré je možné importovať.
        *[other] Thunderbird našiel { $count } kľúčov, ktoré je možné importovať.
     }
+openpgp-import-key-list-description = Potvrďte, ktoré kľúče môžu byť považované za vaše osobné kľúče. Ako osobné kľúče by sa mali používať iba kľúče, ktoré ste vytvorili sami a ktoré preukazujú vašu vlastnú identitu. Túto možnosť môžete neskôr zmeniť v dialógovom okne Vlastnosti kľúča.
+openpgp-import-key-list-caption = Kľúče označené ako osobné kľúče budú uvedené v sekcii Obojstranné šifrovanie. Ostatné budú k dispozícii vo vnútri Správcu kľúčov.
 openpgp-passphrase-prompt-title = Vyžaduje sa prístupová fráza
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Zadajte prístupovú frázu a odomknite nasledujúci kľúč: { $key }
@@ -107,9 +111,18 @@ openpgp-import-keys-failed = <b>Chyba!</b> Kľúče sa nepodarilo importovať. {
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Odtlačok prsta
 openpgp-import-created-label = Vytvorený
+openpgp-import-bits-label = bitov
+openpgp-import-key-props =
+    .label = Vlastnosti kľúča
+    .accesskey = V
 
 ## External Key section
 
 openpgp-external-key-title = Externý kľúč GnuPG
+openpgp-external-key-description = Nakonfigurujte externý kľúč GnuPG zadaním ID kľúča
+openpgp-external-key-info = Okrem toho musíte pomocou Správcu kľúčov importovať a prijať zodpovedajúci verejný kľúč.
+openpgp-external-key-warning = <b>Môžete nakonfigurovať iba jeden externý kľúč GnuPG.</b> Váš predchádzajúci záznam bude nahradený.
+openpgp-save-external-button = Uložiť ID kľúča
+openpgp-external-key-label = ID tajného kľúča:
 openpgp-external-key-input =
     .placeholder = 123456789341298340
