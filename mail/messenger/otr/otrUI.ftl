@@ -20,4 +20,19 @@ buddycontextmenu-label = Pridať odtlačok kľúča OTR
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-start = Pokus o zahájenie šifrovanej konverzácie s používateľom { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Pokus o obnovenie šifrovanej konverzácie s používateľom { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-gone_insecure = Šifrovaná konverzácia s používateľom { $name } bola ukončená.
+verify-title = Overiť totožnosť kontaktu
 error-title = Chyba
+success-title = Obojstranné šifrovanie
+successThem-title = Overiť totožnosť kontaktu
+fail-title = Overenie sa nepodarilo
+waiting-title = Požiadavka na overenie bola odoslaná
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $error (String) - contains an error message that describes the cause of the failure
+otr-genkey-failed = Generovanie súkromného kľúča OTR zlyhalo: { $error }
