@@ -63,9 +63,19 @@ protections-panel-protectionsdashboard-label = সুৰক্ষা ডেশ�
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = যদি আপুনি এইবোৰত সমস্যা পাই আছে তেনেহ'লে সুৰক্ষা বন্ধ কৰক:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = লগিন ক্ষেত্ৰ
+protections-panel-site-not-working-view-issue-list-forms = প্ৰ-পত্ৰ
+protections-panel-site-not-working-view-issue-list-payments = পৰিশোধ
+protections-panel-site-not-working-view-issue-list-comments = মন্তব্য
+protections-panel-site-not-working-view-issue-list-videos = ভিডিঅ'
+protections-panel-site-not-working-view-send-report = প্ৰতিবেদন পঠিয়াওক
 
 ##
 
+protections-panel-social-media-trackers = আপুনি অনলাইন কি কৰে আৰু চায় সেয়া অনুসৰণ কৰিবলৈ ছ'চিয়েল নেটৱৰ্কসমূহে অন্য ৱেবছাইটত ট্ৰেকাৰ লগায়। ই ছ'চিয়েল মিডিয়া কোম্পানীসমূহক আপুনি আপোনাৰ ছ'চিয়েল মিডিয়া প্ৰ'ফাইলত ভাগ-বতৰা কৰাখিনিৰ উপৰিও আপোনাৰ বিষয়ে অধিক জানিবলৈ দিয়ে।
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
