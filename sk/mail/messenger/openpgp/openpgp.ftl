@@ -379,13 +379,26 @@ expiry-key-expires-soon =
 expiry-keys-expire-soon =
     Platnosť vašich nasledujúcich kľúčov vyprší o menej ako { $days } dní: { $desc }.
     Odporúčame vám vytvoriť nové kľúče a nastaviť príslušné účty tak, aby ich mohli používať.
+expiry-key-missing-owner-trust =
+    Vášmu tajnému kľúču { $desc } chýba dôveryhodnosť.
+    Odporúčame vám, aby ste vo vlastnostiach kľúča nastavili možnosť „Spoľahnutie sa na certifikácie“ na „úplné“.
+expiry-keys-missing-owner-trust =
+    Nasledujúcim tajným kľúčom chýba dôveryhodnosť.
+    { $desc }.
+    Odporúčame vám, aby ste vo vlastnostiach kľúča nastavili možnosť „Spoľahnutie sa na certifikácie“ na „úplné“.
 expiry-open-key-manager = Otvoriť správcu kľúčov OpenPGP
 expiry-open-key-properties = Otvoriť vlastnosti kľúča
 # Strings filters.jsm
 filter-folder-required = Musíte vybrať cieľový priečinok.
+filter-decrypt-move-warn-experimental =
+    Upozornenie - akcia filtra „Dešifrovať natrvalo“ môže viesť k zničeniu správ.
+    Dôrazne odporúčame, aby ste najskôr vyskúšali filter „Vytvoriť dešifrovanú kópiu“, výsledok starostlivo otestovali a tento filter začali používať až potom, ak budete s výsledkom spokojní.
 filter-term-pgpencrypted-label = Šifrované pomocou OpenPGP
 filter-key-required = Musíte zvoliť kľúč príjemcu.
 filter-key-not-found = Nepodarilo sa nájsť šifrovací kľúč pre '{ $desc }'.
+filter-warn-key-not-secret =
+    Upozornenie - akcia filtra „Šifrovať kľúčom“ nahradí príjemcov.
+    Ak nemáte tajný kľúč pre '{ $desc }', nebudete si už môcť prečítať e-maily.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dešifrovať natrvalo (OpenPGP)
 filter-decrypt-copy-label = Vytvoriť dešifrovanú kópiu (OpenPGP)
@@ -448,6 +461,7 @@ key-ring-pub-key-revoked = Kľúč { $userId } (ID kľúča { $keyId }) je znepl
 key-ring-pub-key-expired = Platnosť kľúča { $userId } (ID kľúča { $keyId }) vypršala.
 key-ring-key-disabled = Kľúč { $userId } (ID kľúča { $keyId }) je zakázaný; nedá sa použiť.
 key-ring-key-invalid = Kľúč { $userId } (ID kľúča { $keyId }) nie je platný. Zvážte jeho správne overenie.
+key-ring-key-not-trusted = Kľúč { $userId } (ID kľúča { $keyId }) nie je dostatočne dôveryhodný. Ak ho chcete použiť na podpisovanie, nastavte úroveň dôveryhodnosti kľúča na „úplnú“.
 key-ring-no-secret-key = Vyzerá to tak, že na zväzku kľúčov nemáte tajný kľúč pre { $userId } (ID kľúča { $keyId }); nemôžete použiť kľúč na podpisovanie.
 key-ring-pub-key-not-for-signing = Kľúč { $userId } (ID kľúča { $keyId }) nie je možné použiť na podpisovanie.
 key-ring-pub-key-not-for-encryption = Kľúč { $userId } (ID kľúča { $keyId }) nie je možné použiť na šifrovanie.
