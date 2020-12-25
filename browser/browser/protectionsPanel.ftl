@@ -69,3 +69,7 @@ protections-panel-protectionsdashboard-label = সুৰক্ষা ডেশ�
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = বাতিল কৰক
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = প্ৰতিবেদন পঠিয়াওক
