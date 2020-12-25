@@ -34,6 +34,7 @@ auth-sharedSecret-label =
 auth-manualInstruction = Kontaktujte svojho zamýšľaného partnera pre konverzáciu prostredníctvom iného overeného kanála, napríklad e-mailovou správou šifrovanou pomocou OpenPGP alebo cez telefón. Mali by ste si navzájom povedať svoje odtlačky prstov (odtlačok prsta je kontrolný súčet, ktorý identifikuje šifrovací kľúč). Ak sa odtlačok prsta zhoduje, mali by ste v dialógovom okne nižšie uviesť, že ste odtlačok prsta overili.
 auth-how = Ako chcete overiť totožnosť svojho kontaktu?
 auth-qaInstruction = Popremýšľajte o otázke, na ktorú viete odpoveď iba vy a váš kontakt. Zadajte otázku a odpoveď a potom počkajte, kým odpoveď zadá váš kontakt. Ak sa odpovede nezhodujú, komunikačný kanál, ktorý používate, môže byť pod dohľadom.
+auth-secretInstruction = Popremýšľajte o tajomstve, na ktoré poznáte iba ty a tvoj kontakt. Na výmenu tajomstva nepoužívajte rovnaké pripojenie na internet. Zadajte tajomstvo a potom počkajte, kým ho zadá váš kontakt. Ak sa tajomstvá nezhodujú, komunikačný kanál, ktorý používate, môže byť pod dohľadom.
 auth-question = Zadajte otázku:
 auth-answer = Zadajte odpoveď (rozlišujú sa veľké a malé písmená):
 auth-secret = Zadajte tajomstvo:
