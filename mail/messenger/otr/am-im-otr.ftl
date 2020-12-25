@@ -4,3 +4,15 @@
 
 account-encryption =
     .label = Obojstranné šifrovanie
+otr-fingerprint-label = Váš odtlačok:
+view-fingerprint-button =
+    .label = Spravovať odtlačky kontaktov
+    .accesskey = S
+otr-settings-title = Nastavenia OTR
+otr-log =
+    .label = Zahnúť šifrované OTR správy v protokoloch konverzácií
+otr-requireEncryption =
+    .label = Vyžadovať obojstranné šifrovanie pre individuálne konverzácie
+otr-verifyNudge =
+    .label = Vždy ma upozorniť, aby som overil zatiaľ neoverený kontakt
+otr-notYetAvailable = zatiaľ nedostupné
