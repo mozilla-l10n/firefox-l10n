@@ -9,9 +9,20 @@ protections-panel-sitefixedsendreport-label = ছাইট ঠিক হ'লন�
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = কঠোৰ
+    .label = কঠোৰ
+protections-popup-footer-protection-label-custom = নিজৰ হিচাপে
+    .label = নিজৰ হিচাপে
+protections-popup-footer-protection-label-standard = মানক
+    .label = মানক
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = বৰ্ধিত ট্ৰেকিং সুৰক্ষাৰ বিষয়ে অধিক তথ্য
+protections-panel-etp-on-header = এই ছাইটৰ বাবে বৰ্ধিত ট্ৰেকিং সুৰক্ষা চালু আছে
+protections-panel-etp-off-header = এই ছাইটৰ বাবে বৰ্ধিত ট্ৰেকিং সুৰক্ষা বন্ধ আছে
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
