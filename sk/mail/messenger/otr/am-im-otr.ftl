@@ -4,6 +4,10 @@
 
 account-encryption =
     .label = Obojstranné šifrovanie
+account-otr-label = Šifrované konverzácie (OTR)
+account-otr-description = { -brand-short-name } podporuje obojstranné šifrovanie individuálnych konverzácií. Toto znemožňuje tretím stranám odpočúvať konverzáciu. Obojstranné šifrovanie je možné použiť iba v prípade, že druhá osoba používa softvér, ktorý podporuje OTR.
+otr-encryption-title = Overené šifrovanie
+otr-encryption-caption = Ak chcete ostatným umožniť overenie vašej identity v konverzáciách OTR, zdieľajte svoj vlastný odtlačok prsta OTR použitím iného komunikačného kanála.
 otr-fingerprint-label = Váš odtlačok:
 view-fingerprint-button =
     .label = Spravovať odtlačky kontaktov
@@ -13,6 +17,10 @@ otr-log =
     .label = Zahnúť šifrované OTR správy v protokoloch konverzácií
 otr-requireEncryption =
     .label = Vyžadovať obojstranné šifrovanie pre individuálne konverzácie
+otr-require-encryption-info =
+    Ak sa vyžaduje obojstranné šifrovanie, správy v individuálnych konverzáciách
+    nebudú odoslané, pokiaľ ich nebude možné zašifrovať. Prijímané nezašifrované správy
+    sa nebudú zobrazovať ako súčasť bežnej konverzácie a ani nebudú ani zaznamenané.
 otr-verifyNudge =
     .label = Vždy ma upozorniť, aby som overil zatiaľ neoverený kontakt
 otr-notYetAvailable = zatiaľ nedostupné
