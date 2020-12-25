@@ -19,13 +19,13 @@ finger-verify-accessKey = O
 buddycontextmenu-label = Pridať odtlačok kľúča OTR
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-alert-start = Pokus o zahájenie šifrovanej konverzácie s používateľom { $name }.
+alert-start = Pokus o zahájenie šifrovanej konverzácie s kontaktom { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-alert-refresh = Pokus o obnovenie šifrovanej konverzácie s používateľom { $name }.
+alert-refresh = Pokus o obnovenie šifrovanej konverzácie s kontaktom { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
-alert-gone_insecure = Šifrovaná konverzácia s používateľom { $name } bola ukončená.
+alert-gone_insecure = Šifrovaná konverzácia s kontaktom { $name } bola ukončená.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 finger-unseen = Totožnosť kontaktu { $name } ešte nebola overená. Príležitostné odpočúvanie nie je možné, ale s určitým úsilím by niekto mohol počúvať. Predchádzajte sledovaniu overením totožnosti tohto kontaktu.

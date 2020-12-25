@@ -41,3 +41,19 @@ msgevent-rcvdmsg_general_err = Pri pokuse o ochranu konverzácie pomocou OTR sa 
 #   $name (String) - the screen name of a chat contact person
 #   $msg (string) - the message that was received.
 msgevent-rcvdmsg_unencrypted = Nasledujúca správa prijatá od { $name } nebola šifrovaná: { $msg }
+# Do not translate 'OTR' (name of an encryption protocol)
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_unrecognized = Od kontaktu { $name } ste dostali nerozoznateľnú šifrovanú správu.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+msgevent-rcvdmsg_for_other_instance = Kontakt { $name } odoslal správu určenú pre inú reláciu. Ak ste prihlásení viackrát, správu mohla dostať iná relácia.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_private = Súkromná konverzácia s kontaktom { $name } bola zahájená.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Začala sa šifrovaná, ale neoverená konverzácia s kontaktom { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+context-still_secure = Šifrovaná konverzácia s kontaktom { $name } bola úspešne obnovená.
