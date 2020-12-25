@@ -475,6 +475,11 @@ revoke-key-not-present =
 revoke-key-already-revoked = Kľúč 0x{ $keyId } bol už zneplatnený.
 key-man-button-revoke-key = &Zneplatniť kľúč
 openpgp-key-revoke-success = Kľúč bol úspešne zneplatnený.
+after-revoke-info =
+    Kľúč bol zneplatnený.
+    Dajte tento verejný kľúč zdieľať opäť jeho odoslaním e-mailom alebo jeho odovzdaním na servery s kľúčmi, aby ostatní vedeli, že ste kľúč zneplatnili.
+    Akonáhle sa softvér používaný inými ľuďmi dozvie o zneplatnení, prestane používať váš starý kľúč.
+    Ak používate nový kľúč pre rovnakú e-mailovú adresu a k odosielaným e-mailom pripájate nový verejný kľúč, automaticky sa zahrnú informácie o vašom zneplatnenom starom kľúči.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importovať
 delete-key-title = Odstrániť kľúč OpenPGP
@@ -485,6 +490,10 @@ delete-key-in-use-description = Nie je možné pokračovať! Kľúč, ktorý ste
 revoke-key-in-use-description = Nie je možné pokračovať! Kľúč, ktorý ste vybrali na zneplatnenie, je momentálne používaný touto identitou. Vyberte iný kľúč alebo voľbu Žiadny a skúste to znova.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = E-mailová adresa „{ $keySpec }“ sa nezhoduje s kľúčom na vašom zväzku kľúčov.
+key-error-key-id-not-found = Nastavené ID kľúča '{ $keySpec }' sa nenachádza na vašom zväzku kľúčov.
+key-error-not-accepted-as-personal = Nepotvrdili ste, že kľúč s ID '{ $keySpec }' je vašim osobným kľúčom.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Vybraná funkcia nie je k dispozícii v režime offline. Prejdite online a skúste to znova.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Nenašli sme žiadny kľúč zodpovedajúci zadaným kritériám vyhľadávania.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
@@ -495,6 +504,7 @@ not-first-block = Chyba - prvý blok OpenPGP nie je blokom verejného kľúča
 import-key-confirm = Importovať verejné kľúče vložené v správe?
 fail-key-import = Chyba - import kľúča zlyhal
 file-write-failed = Nepodarilo sa zapísať do súboru { $output }
+no-pgp-block = Chyba - nenašiel sa platný šifrovaný dátový blok OpenPGP
 confirm-permissive-import = Import zlyhal. Kľúč, ktorý sa pokúšate importovať, môže byť poškodený alebo má neznáme atribúty. Chcete sa pokúsiť o importovanie častí, ktoré sú správne? Môže to mať za následok import neúplných a nepoužiteľných kľúčov.
 # Strings used in trust.jsm
 key-valid-unknown = neznámy
@@ -516,6 +526,7 @@ passphrase-prompt = Zadajte prístupovú frázu, ktorá odomkne nasledujúci kľ
 file-to-big-to-import = Tento súbor je príliš veľký. Neimportujte naraz veľkú sadu kľúčov.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Vytvoriť a uložiť certifikát zneplatnenia
+revoke-cert-ok = Certifikát o zneplatnený bol úspešne vytvorený. Môžete ho použiť na zneplatnenie vášho verejného kľúča, napríklad v prípade, že by ste stratili tajný kľúč.
 revoke-cert-failed = Certifikát zneplatnenia nemohol byť vytvorený.
 gen-going = Generovanie kľúčov už prebieha!
 keygen-missing-user-name = Pre vybraný účet/identitu nie je zadané žiadne meno. Zadajte hodnotu do poľa „Vaše meno“ v nastaveniach účtu.
@@ -556,6 +567,9 @@ msg-compose-partially-encrypted-inlinePGP =
     Zvážte odstránenie všetkého citovaného textu z vašej odpovede tomuto odosielateľovi.
 msg-compose-cannot-save-draft = Chyba pri ukladaní konceptu
 msg-compose-partially-encrypted-short = Pozor na únik citlivých informácií - čiastočne šifrovaný e-mail.
+quoted-printable-warn =
+    Pre odosielanie správ ste povolili kódovanie 'quoted-printable'. Môže to mať za následok nesprávne dešifrovanie a / alebo overenie vašej správy.
+    Prajete si teraz vypnúť odosielanie správ určených pre tlač?
 minimal-line-wrapping =
     Nastavili ste zalamovanie riadkov na šírku { $width } znakov. Pre správne šifrovanie a / alebo podpisovanie musí byť táto hodnota minimálne 68.
     Prajete si teraz zmeniť zalamovanie riadkov na 68 znakov?
