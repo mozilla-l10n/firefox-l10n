@@ -9,8 +9,8 @@ reauth-label = Opäť overiť totožnosť kontaktu
 auth-cancel = Zrušiť
 auth-cancelAccessKey = Z
 auth-error = Pri overovaní totožnosti vášho kontaktu sa vyskytla chyba.
-auth-success = Overenie identity vášho kontaktu bolo úspešne dokončené.
-auth-successThem = Váš kontakt úspešne overil vašu identitu. Vy si môžete overiť totožnosť vášho kontaktu položením vlastnej otázky.
+auth-success = Overenie totožnosti vášho kontaktu bolo úspešne dokončené.
+auth-successThem = Váš kontakt úspešne overil vašu totožnosť. Vy si môžete overiť totožnosť vášho kontaktu položením vlastnej otázky.
 auth-fail = Nepodarilo sa overiť totožnosť vášho kontaktu.
 auth-waiting = Čaká sa na váš kontakt, kým dokončí overenie...
 finger-verify = Overiť
@@ -26,6 +26,22 @@ alert-refresh = Pokus o obnovenie šifrovanej konverzácie s používateľom { $
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Šifrovaná konverzácia s používateľom { $name } bola ukončená.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Totožnosť kontaktu { $name } ešte nebola overená. Príležitostné odpočúvanie nie je možné, ale s určitým úsilím by niekto mohol počúvať. Predchádzajte sledovaniu overením totožnosti tohto kontaktu.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } vás kontaktuje z nerozpoznaného počítača. Príležitostné odpočúvanie nie je možné, ale s určitým úsilím by niekto mohol počúvať. Predchádzajte sledovaniu overením totožnosti tohto kontaktu.
+state-not_private = Aktuálna konverzácia nie je súkromná.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-unverified = Aktuálna konverzácia je šifrovaná, ale nie súkromná, pretože totožnosť kontaktu { $name } ešte nebola overená.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-private = Totožnosť kontaktu { $name } bola overená. Aktuálna konverzácia je šifrovaná a súkromná.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = { $name } s vami ukončil šifrovaný rozhovor; mali by ste urobiť to isté.
 verify-title = Overiť totožnosť kontaktu
 error-title = Chyba
 success-title = Obojstranné šifrovanie
