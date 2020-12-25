@@ -55,6 +55,7 @@ openpgp-keygen-progress-title = Generuje sa váš nový kľúč OpenPGP...
 openpgp-keygen-import-progress-title = Importujú sa vaše kľúče OpenPGP...
 openpgp-import-success = Kľúče OpenPGP sa úspešne importovali.
 openpgp-import-success-title = Dokončenie procesu importu
+openpgp-import-success-description = Ak chcete začať používať svoj importovaný kľúč OpenPGP na šifrovanie e-mailov, zavrite toto dialógové okno a vyberte ho v nastaveniach účtu.
 openpgp-keygen-confirm =
     .label = Potvrdiť
 openpgp-keygen-dismiss =
@@ -64,6 +65,16 @@ openpgp-keygen-cancel =
 openpgp-keygen-import-complete =
     .label = Zavrieť
     .accesskey = Z
+openpgp-keygen-missing-username = Pre aktuálny účet nie je zadané žiadne meno. Zadajte hodnotu do poľa „Vaše meno“ v nastaveniach účtu.
+openpgp-keygen-long-expiry = Nemôžete vytvoriť kľúč, ktorého platnosť vyprší o viac ako 100 rokov.
+openpgp-keygen-short-expiry = Váš kľúč musí byť platný najmenej jeden deň.
+openpgp-keygen-ongoing = Generovanie kľúčov už prebieha!
+openpgp-keygen-error-core = Nepodarilo sa inicializovať základnú službu OpenPGP
+openpgp-keygen-error-failed = Generovanie kľúča OpenPGP neočakávane zlyhalo
+openpgp-keygen-abort-title = Prerušiť generovanie kľúča?
+openpgp-keygen-abort = Momentálne prebieha vytváranie kľúča OpenPGP. Naozaj ho chcete zrušiť?
+#   $identity (String) - the name and email address of the currently selected identity
+openpgp-key-confirm = Generovať verejný a tajný kľúč pre { $identity }?
 
 ## Import Key section
 
@@ -71,16 +82,31 @@ openpgp-import-key-title = Importovať existujúci osobný kľúč OpenPGP
 openpgp-import-key-legend = Zvoľte súbor so zálohou.
 openpgp-import-key-description = Môžete importovať osobné kľúče, ktoré boli vytvorené pomocou iného softvéru OpenPGP.
 openpgp-import-key-info = Iný softvér môže popisovať osobný kľúč pomocou alternatívnych výrazov, ako je napríklad váš vlastný kľúč, tajný kľúč, súkromný kľúč alebo pár kľúčov.
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird našiel { $count } kľúč, ktorý je možné importovať.
+        [few] Thunderbird našiel { $count } kľúče, ktoré je možné importovať.
+       *[other] Thunderbird našiel { $count } kľúčov, ktoré je možné importovať.
+    }
 openpgp-import-key-button =
     .label = Zvoľte súbor, ktorý chcete importovať ...
     .accesskey = Z
 import-key-file = Importovať kľúč OpenPGP
 import-key-personal-checkbox =
     .label = Považovať tento kľúč za osobný kľúč
+gnupg-file = Súbory GnuPG
+import-error-file-size = <b>Chyba!</b> Súbory väčšie ako 5 MB nie sú podporované.
+#   $error (String) - the reported error from the failed key import method
+import-error-failed = <b>Chyba!</b> Nepodarilo sa importovať súbor. { $error }
+#   $error (String) - the reported error from the failed key import method
+openpgp-import-keys-failed = <b>Chyba!</b> Kľúče sa nepodarilo importovať. { $error }
 openpgp-import-identity-label = Identita
 openpgp-import-fingerprint-label = Odtlačok prsta
+openpgp-import-created-label = Vytvorený
 
 ## External Key section
 
+openpgp-external-key-title = Externý kľúč GnuPG
 openpgp-external-key-input =
     .placeholder = 123456789341298340
