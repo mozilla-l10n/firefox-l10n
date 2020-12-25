@@ -11,7 +11,7 @@ openpgp-cancel-key =
     .label = Zrušiť
     .tooltiptext = Zrušiť vytváranie kľúča
 openpgp-key-gen-expiry-title =
-    .label = Doba platnosti kľúča
+    .label = Vypršanie platnosti kľúča
 openpgp-key-gen-expire-label = Platnosť kľúča vyprší o
 openpgp-key-gen-days-label =
     .label = dní
@@ -448,7 +448,9 @@ key-ring-pub-key-revoked = Kľúč { $userId } (ID kľúča { $keyId }) je znepl
 key-ring-pub-key-expired = Platnosť kľúča { $userId } (ID kľúča { $keyId }) vypršala.
 key-ring-key-disabled = Kľúč { $userId } (ID kľúča { $keyId }) je zakázaný; nedá sa použiť.
 key-ring-key-invalid = Kľúč { $userId } (ID kľúča { $keyId }) nie je platný. Zvážte jeho správne overenie.
+key-ring-no-secret-key = Vyzerá to tak, že na zväzku kľúčov nemáte tajný kľúč pre { $userId } (ID kľúča { $keyId }); nemôžete použiť kľúč na podpisovanie.
 key-ring-pub-key-not-for-signing = Kľúč { $userId } (ID kľúča { $keyId }) nie je možné použiť na podpisovanie.
+key-ring-pub-key-not-for-encryption = Kľúč { $userId } (ID kľúča { $keyId }) nie je možné použiť na šifrovanie.
 key-ring-sign-sub-keys-revoked = Všetky podpisové podkľúče kľúča { $userId } (ID kľúča { $keyId }) sú zneplatnené.
 key-ring-sign-sub-keys-expired = Platnosť všetkých podpisových podkľúčov kľúča { $userId } (ID kľúča { $keyId }) vypršala.
 key-ring-sign-sub-keys-unusable = Všetky podpisové podkľúče kľúča { $userId } (ID kľúča { $keyId }) sú zneplatnené, vypršala ich platnosť alebo sú inak nepoužiteľné.
@@ -540,7 +542,16 @@ msg-compose-internal-error = Vyskytla sa vnútorná chyba.
 keys-to-export = Vyberte kľúče OpenPGP, ktoré chcete vložiť
 msg-compose-cannot-save-draft = Chyba pri ukladaní konceptu
 msg-compose-partially-encrypted-short = Pozor na únik citlivých informácií - čiastočne šifrovaný e-mail.
+sending-news =
+    Operácia šifrovaného odoslania bola prerušená.
+    Túto správu nie je možné zašifrovať, pretože medzi príjemcami sa nachádzajú aj diskusné skupiny. Správu odošlite znova bez šifrovania.
 save-attachment-header = Uložiť dešifrovanú prílohu
+no-temp-dir =
+    Nepodarilo sa nájsť dočasný adresár, do ktorého je možné zapisovať.
+    Prosím, nastavte premennú prostredia TEMP.
+possibly-pgp-mime = Správa je možno šifrovaná alebo podpísaná pomocou PGP/MIME; na overenie použite funkciu „Dešifrovať/Overiť“
+cannot-send-sig-because-no-own-key = Túto správu nie je možné digitálne podpísať, pretože ste ešte nenastavili obojstranné šifrovanie pre <{ $key }>
+cannot-send-enc-because-no-own-key = Túto správu nie je možné odoslať zašifrovanú, pretože ste ešte nenastavili obojstranné šifrovanie pre <{ $key }>
 # Strings used in decryption.jsm
 do-import-multiple =
     Importovať nasledujúce kľúče?
@@ -548,9 +559,15 @@ do-import-multiple =
 do-import-one = Importovať { $name } ({ $id })?
 cant-import = Chyba pri importovaní verejného kľúča
 unverified-reply = Odsadená časť správy (odpoveď) bola pravdepodobne upravená
+key-in-message-body = V tele správy sa našiel kľúč. Kliknutím na tlačidlo "Importovať kľúč" ho naimportujete
 sig-mismatch = Chyba - nesúlad podpisov
 invalid-email = Chyba - neplatná e-mailová adresa (adresy)
+attachment-pgp-key =
+    Príloha '{ $name }', ktorú otvárate, sa javí ako súbor kľúča OpenPGP.
+    Kliknutím na tlačidlo „Importovať“ importujete obsiahnuté kľúče alebo kliknutím na tlačidlo „Zobraziť“ zobrazíte obsah súboru v okne prehliadača
 dlg-button-view = &Zobraziť
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dešifrovaná správa (obnovený nefunkčný formát e-mailu PGP pravdepodobne spôsobený starým serverom Exchange, takže výsledok nemusí byť dokonalý na prečítanie)
 # Strings used in encryption.jsm
 not-required = Chyba - nevyžaduje sa šifrovanie
 # Strings used in windows.jsm

@@ -5,7 +5,7 @@
 <!ENTITY e2eTitle.label "Obojstranné šifrovanie">
 <!ENTITY e2eLearnMore.label "Ďalšie informácie">
 
-<!ENTITY e2eEnc.description "Bez šifrovania end-to-end bude obsah správ ľahko vystavený vášmu poskytovateľovi e-mailov a hromadnému sledovaniu.">
+<!ENTITY e2eEnc.description "Bez obojstranného šifrovania bude obsah správ ľahko vystavený vášmu poskytovateľovi e-mailov a hromadnému sledovaniu.">
 <!ENTITY e2eeReqWarning.description "Ak požadujete šifrovanie, na odoslanie správy musíte mať verejný kľúč alebo certifikát každého príjemcu.">
 
 <!ENTITY e2eSigning.description "Digitálny podpis umožňuje príjemcom overiť, že ste správu poslali vy a či nedošlo k zmene obsahu.">
