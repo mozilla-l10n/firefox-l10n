@@ -42,6 +42,19 @@ state-private = Totožnosť kontaktu { $name } bola overená. Aktuálna konverz�
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-finished = { $name } s vami ukončil šifrovaný rozhovor; mali by ste urobiť to isté.
+state-not_private-label = Nezabezpečená
+state-unverified-label = Neoverená
+state-private-label = Súkromná
+state-finished-label = Ukončená
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+verify-request = { $name } požiadal o overenie vašej totožnosti.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-private = Overili ste totožnosť kontaktu { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+afterauth-unverified = Totožnosť kontaktu { $name } nebola overená.
 verify-title = Overiť totožnosť kontaktu
 error-title = Chyba
 success-title = Obojstranné šifrovanie
