@@ -55,4 +55,4 @@ search = Hľadať v správach
 filter = Spravovať filtre správ
 nntp-subscription = Spravovať odbery diskusných skupín
 rss-subscription = Spravovať odbery kanálov
-e2e = End-to-end šifrovanie
+e2e = Obojstranné šifrovanie
