@@ -23,13 +23,26 @@ protections-panel-etp-more-info =
     .aria-label = বৰ্ধিত ট্ৰেকিং সুৰক্ষাৰ বিষয়ে অধিক তথ্য
 protections-panel-etp-on-header = এই ছাইটৰ বাবে বৰ্ধিত ট্ৰেকিং সুৰক্ষা চালু আছে
 protections-panel-etp-off-header = এই ছাইটৰ বাবে বৰ্ধিত ট্ৰেকিং সুৰক্ষা বন্ধ আছে
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ছাইট কাম কৰি থকা নাইনে?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ছাইট কাম কৰি থকা নাইনে?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = কিয়?
+protections-panel-not-blocking-why-etp-on-tooltip = এইবোৰ অৱৰুদ্ধ কৰিলে কিছুমান ৱেবছাইটৰ উপাদান ভাঙিব পাৰে। ট্ৰেকাৰ অবিহনে কিছুমান বুটাম, প্ৰ-পত্ৰ আৰু লগিন ক্ষেত্ৰ কাম নকৰিবও পাৰে।
+protections-panel-not-blocking-why-etp-off-tooltip = সুৰক্ষা বন্ধ থকাৰ বাবে এই ছাইটৰ সকলো ট্ৰেকাৰ ল'ড কৰা হৈছে।
 
 ##
 
+protections-panel-no-trackers-found = এই পৃষ্ঠাত { -brand-short-name }-এ চিনি পোৱা কোনো ট্ৰেকাৰ ধৰা পৰা নাই।
+protections-panel-content-blocking-tracking-protection = ট্ৰেকিং সমল
+protections-panel-content-blocking-socialblock = ছ'চিয়েল মিডিয়া ট্ৰেকাৰ
+protections-panel-content-blocking-cryptominers-label = ক্ৰীপ্ট'মাইনাৰ
+protections-panel-content-blocking-fingerprinters-label = ফিংগাৰপ্ৰিণ্টাৰ
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -37,9 +50,15 @@ protections-panel-etp-off-header = এই ছাইটৰ বাবে বৰ্
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = অৱৰুদ্ধ
+protections-panel-not-blocking-label = অনুমোদিত
+protections-panel-not-found-label = একো ধৰা পৰা নাই
 
 ##
 
+protections-panel-settings-label = সুৰক্ষা ছেটিংছ
+# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
+protections-panel-protectionsdashboard-label = সুৰক্ষা ডেশ্বব'ৰ্ড
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
@@ -47,3 +66,6 @@ protections-panel-etp-off-header = এই ছাইটৰ বাবে বৰ্
 
 ##
 
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
