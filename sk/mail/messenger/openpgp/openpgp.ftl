@@ -327,6 +327,7 @@ key-type-pair = pár kľúčov (tajný kľúč a verejný kľúč)
 key-expiry-never = nikdy
 key-usage-encrypt = Šifrovať
 key-usage-sign = Podpísať
+key-usage-certify = Potvrdiť
 key-usage-authentication = Overenie
 key-does-not-expire = Platnosť kľúča nevyprší
 key-expired-date = Platnosť kľúča vypršala { $keyExpiry }
