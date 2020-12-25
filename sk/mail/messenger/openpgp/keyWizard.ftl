@@ -89,6 +89,9 @@ openpgp-import-key-list-amount =
         [few] Thunderbird našiel { $count } kľúče, ktoré je možné importovať.
        *[other] Thunderbird našiel { $count } kľúčov, ktoré je možné importovať.
     }
+openpgp-passphrase-prompt-title = Vyžaduje sa prístupová fráza
+#   $identity (String) - the id of the key being imported
+openpgp-passphrase-prompt = Zadajte prístupovú frázu a odomknite nasledujúci kľúč: { $key }
 openpgp-import-key-button =
     .label = Zvoľte súbor, ktorý chcete importovať ...
     .accesskey = Z

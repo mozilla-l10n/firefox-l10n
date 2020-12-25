@@ -12,7 +12,7 @@ openpgp-cancel-key =
     .tooltiptext = Zrušiť vytváranie kľúča
 openpgp-key-gen-expiry-title =
     .label = Doba platnosti kľúča
-openpgp-key-gen-expire-label = Kľúč vyprší za
+openpgp-key-gen-expire-label = Platnosť kľúča vyprší o
 openpgp-key-gen-days-label =
     .label = dní
 openpgp-key-gen-months-label =
@@ -85,7 +85,7 @@ openpgp-key-man-send-keys =
     .accesskey = P
 openpgp-key-man-backup-secret-keys =
     .label = Zálohovať tajné kľúče do súboru
-    .accesskey = Z
+    .accesskey = h
 openpgp-key-man-discover-cmd =
     .label = Vyhľadať kľúče online
     .accesskey = V
@@ -99,7 +99,7 @@ openpgp-key-export-key =
     .accesskey = E
 openpgp-key-backup-key =
     .label = Zálohovať tajný kľúč do súboru
-    .accesskey = Z
+    .accesskey = h
 openpgp-key-send-key =
     .label = Poslať verejný kľúč e-mailom
     .accesskey = P
@@ -224,13 +224,15 @@ openpgp-key-details-user-id2-label = Údajný vlastník kľúča
 openpgp-key-details-id-label =
     .label = ID
 openpgp-key-details-key-type-label = Typ
+openpgp-key-details-key-part-label =
+    .label = Časť kľúča
 openpgp-key-details-algorithm-label =
     .label = Algoritmus
 openpgp-key-details-size-label =
     .label = Veľkosť
 openpgp-key-details-created-label =
-    .label = Vytvorené
-openpgp-key-details-created-header = Vytvorené
+    .label = Vytvorený
+openpgp-key-details-created-header = Vytvorený
 openpgp-key-details-expiry-label =
     .label = Vypršanie platnosti
 openpgp-key-details-expiry-header = Vypršanie platnosti
@@ -294,12 +296,12 @@ openpgp-keygen-external-success = ID externého kľúča GnuPG bolo uložené!
 ## OpenPGP Key selection area
 
 openpgp-radio-none =
-    .label = Žiadne
+    .label = Žiadny
 openpgp-radio-none-desc = Pre túto identitu nepoužívať OpenPGP.
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expires = Platnosť vyprší: { $date }
 openpgp-key-expires-image =
-    .tooltiptext = Platnosť kľúča vyprší za menej ako 6 mesiacov
+    .tooltiptext = Platnosť kľúča vyprší o menej ako 6 mesiacov
 #   $key (String) - the expiration date of the OpenPGP key
 openpgp-radio-key-expired = Platnosť vypršala: { $date }
 openpgp-key-expired-image =
@@ -340,6 +342,13 @@ keyserver-error-unavailable = Kľúčový server nie je k dispozícii.
 keyserver-error-security-error = Kľúčový server nepodporuje šifrovaný prístup.
 keyserver-error-certificate-error = Certifikát kľúčového servera nie je platný.
 keyserver-error-unsupported = Kľúčový server nie je podporovaný.
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Platnosť vášho kľúča { $desc } vyprší o menej ako { $days } dní.
+    Odporúčame vám vytvoriť nový pár kľúčov a nastaviť príslušné účty tak, aby ho mohli používať.
+expiry-keys-expire-soon =
+    Platnosť vašich nasledujúcich kľúčov vyprší o menej ako { $days } dní: { $desc }.
+    Odporúčame vám vytvoriť nové kľúče a nastaviť príslušné účty tak, aby ich mohli používať.
 expiry-open-key-manager = Otvoriť správcu kľúčov OpenPGP
 expiry-open-key-properties = Otvoriť vlastnosti kľúča
 # Strings filters.jsm
@@ -353,7 +362,7 @@ filter-encrypt-label = Šifrovať na kľúč (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Importovanie bolo úspešné!
-import-info-created = Vytvorené
+import-info-created = Vytvorený
 import-info-fpr = Odtlačok
 import-info-details = Zobraziť podrobnosti a spravovať prijatie kľúča
 import-info-no-keys = Žiadne kľúče neboli importované.
