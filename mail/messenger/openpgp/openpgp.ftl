@@ -360,6 +360,15 @@ keyserver-error-unsupported = Kľúčový server nie je podporovaný.
 wkd-message-body-req =
     Váš poskytovateľ e-mailu spracoval žiadosť o nahranie vášho verejného kľúča do webového adresára kľúčov OpenPGP.
     Prosím, potvrďte zverejnenie verejného kľúča.
+wkd-message-body-process =
+    Toto je e-mail súvisiaci s automatickým spracovaním na nahranie vášho verejného kľúča do webového adresára kľúčov OpenPGP.
+    V tomto kroku nemusíte robiť nič.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Správu s týmto predmetom
+    { $subject }
+    sa nepodarilo dešifrovať.
+    Chcete to skúsiť s iným prístupovým heslom alebo chcete správu preskočiť?
 # Strings in gpg.jsm
 unknown-signing-alg = Neznámy podpisový algoritmus (ID: { $id })
 unknown-hash-alg = Neznámy kryptografický hash (ID: { $id })
@@ -376,6 +385,7 @@ expiry-open-key-properties = Otvoriť vlastnosti kľúča
 filter-folder-required = Musíte vybrať cieľový priečinok.
 filter-term-pgpencrypted-label = Šifrované pomocou OpenPGP
 filter-key-required = Musíte zvoliť kľúč príjemcu.
+filter-key-not-found = Nepodarilo sa nájsť šifrovací kľúč pre '{ $desc }'.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dešifrovať natrvalo (OpenPGP)
 filter-decrypt-copy-label = Vytvoriť dešifrovanú kópiu (OpenPGP)
@@ -383,6 +393,7 @@ filter-encrypt-label = Šifrovať na kľúč (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Importovanie bolo úspešné!
+import-info-bits = bitov
 import-info-created = Vytvorený
 import-info-fpr = Odtlačok
 import-info-details = Zobraziť podrobnosti a spravovať prijatie kľúča
@@ -399,6 +410,10 @@ delete-secret-key =
     
     Naozaj chcete vymazať OBA, tajný kľúč aj verejný kľúč
     '{ $userId }'?
+delete-mix =
+    UPOZORNENIE: Chystáte sa vymazať tajné kľúče!
+    Ak odstránite svoj tajný kľúč, nebudete už môcť dešifrovať žiadne správy šifrované pre tento kľúč.
+    Naozaj chcete vymazať OBA, zvolený tajný aj verejný kľúč?
 delete-pub-key =
     Chcete vymazať verejný kľúč
     '{ $userId }'?
@@ -433,17 +448,41 @@ key-ring-pub-key-revoked = Kľúč { $userId } (ID kľúča { $keyId }) je znepl
 key-ring-pub-key-expired = Platnosť kľúča { $userId } (ID kľúča { $keyId }) vypršala.
 key-ring-key-disabled = Kľúč { $userId } (ID kľúča { $keyId }) je zakázaný; nedá sa použiť.
 key-ring-key-invalid = Kľúč { $userId } (ID kľúča { $keyId }) nie je platný. Zvážte jeho správne overenie.
+key-ring-pub-key-not-for-signing = Kľúč { $userId } (ID kľúča { $keyId }) nie je možné použiť na podpisovanie.
+key-ring-sign-sub-keys-revoked = Všetky podpisové podkľúče kľúča { $userId } (ID kľúča { $keyId }) sú zneplatnené.
+key-ring-sign-sub-keys-expired = Platnosť všetkých podpisových podkľúčov kľúča { $userId } (ID kľúča { $keyId }) vypršala.
+key-ring-sign-sub-keys-unusable = Všetky podpisové podkľúče kľúča { $userId } (ID kľúča { $keyId }) sú zneplatnené, vypršala ich platnosť alebo sú inak nepoužiteľné.
+key-ring-enc-sub-keys-revoked = Všetky šifrovacie podkľúče kľúča { $userId } (ID kľúča { $keyId }) sú zneplatnené.
+key-ring-enc-sub-keys-expired = Platnosť všetkých šifrovacích podkľúčov kľúča { $userId } (ID kľúča { $keyId }) vypršala.
+key-ring-enc-sub-keys-unusable = Všetky šifrovacie podkľúče kľúča { $userId } (ID kľúča { $keyId }) sú zneplatnené, vypršala ich platnosť alebo sú inak nepoužiteľné.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Fotografia
+user-att-photo = Atribút používateľa (obrázok JPEG)
+# Strings in key.jsm
+already-revoked = Tento kľúč už bol zneplatnený.
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Chystáte sa zneplatniť kľúč '{ $identity }'.
     Pomocou tohto kľúča už nebudete môcť podpisovať, a po jeho ďalšom rozšírení ostatní už nebudú môcť pomocou tohto kľúča šifrovať. Stále budete môcť použiť kľúč na dešifrovanie starých správ.
     Chcete pokračovať?
+#   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Nemáte žiadny kľúč (0x{ $keyId }), ktorý by zodpovedal tomuto certifikátu o zneplatnení!
+    Ak ste kľúč stratili, musíte ho importovať (napr. z kľúčového servera) pred importom certifikátu o zneplatnení!
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Kľúč 0x{ $keyId } bol už zneplatnený.
 key-man-button-revoke-key = &Zneplatniť kľúč
 openpgp-key-revoke-success = Kľúč bol úspešne zneplatnený.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importovať
+delete-key-title = Odstrániť kľúč OpenPGP
+delete-external-key-title = Odstrániť externý kľúč GnuPG
+delete-external-key-description = Naozaj chcete odstrániť toto ID externého GnuPG kľúča?
+key-in-use-title = Kľúč OpenPGP sa momentálne používa
 delete-key-in-use-description = Nie je možné pokračovať! Kľúč, ktorý ste vybrali na odstránenie, je momentálne používaný touto identitou. Vyberte iný kľúč alebo voľbu Žiadny a skúste to znova.
 revoke-key-in-use-description = Nie je možné pokračovať! Kľúč, ktorý ste vybrali na zneplatnenie, je momentálne používaný touto identitou. Vyberte iný kľúč alebo voľbu Žiadny a skúste to znova.
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = E-mailová adresa „{ $keySpec }“ sa nezhoduje s kľúčom na vašom zväzku kľúčov.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Nenašli sme žiadny kľúč zodpovedajúci zadaným kritériám vyhľadávania.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
@@ -514,6 +553,16 @@ invalid-email = Chyba - neplatná e-mailová adresa (adresy)
 dlg-button-view = &Zobraziť
 # Strings used in encryption.jsm
 not-required = Chyba - nevyžaduje sa šifrovanie
+# Strings used in windows.jsm
+no-photo-available = Nie je k dispozícii žiadna fotografia
+error-photo-path-not-readable = Cesta k fotografii „{ $photo }“ nie je čitateľná
+debug-log-title = Záznam ladenia OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix = Toto upozornenie sa bude opakovať { $count }
+repeat-suffix-singular = krát.
+repeat-suffix-plural = krát.
+no-repeat = Toto upozornenie sa už nebude zobrazovať.
+dlg-keep-setting = Zapamätať si moju odpoveď a už sa ma nepýtať
 dlg-button-ok = &OK
 dlg-button-close = &Zavrieť
 dlg-button-cancel = &Zrušiť
