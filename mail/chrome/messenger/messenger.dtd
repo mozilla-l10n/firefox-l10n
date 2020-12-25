@@ -477,7 +477,7 @@
 <!ENTITY addonNoPrefs.label "Neboli nájdené žiadne nastavenia doplnku.">
 <!ENTITY activitymanager.label "Správca činností">
 <!ENTITY activitymanager.accesskey "v">
-<!ENTITY imAccountsStatus.label "Stav pre konverzácie">
+<!ENTITY imAccountsStatus.label "Stav konverzácií">
 <!ENTITY imAccountsStatus.accesskey "z">
 <!ENTITY imStatus.available          "Prítomný">
 <!ENTITY imStatus.unavailable        "Neprítomný">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Umiestnenie">
 <!ENTITY idColumn.label "Poradie prijatia">
 <!ENTITY attachmentColumn.label "Prílohy">
-
 <!ENTITY deleteColumn.label "Odstrániť">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Usporiadať podľa umiestnenia">
 <!ENTITY idColumn2.tooltip "Usporiadať podľa poradia, v akom boli správy prijaté">
 <!ENTITY attachmentColumn2.tooltip "Zoskupiť správy s prílohou">
-
 <!ENTITY deleteColumn.tooltip "Odstrániť správu">
 
 <!-- Thread Pane Context Menu -->

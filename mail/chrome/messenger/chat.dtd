@@ -13,8 +13,8 @@
 <!ENTITY chat.noAccount.description       "&brandShortName; vás prevedie procesom nastavenia diskusného účtu.">
 <!ENTITY chat.accountWizard.button       "Začíname">
 <!ENTITY chat.noConnectedAccount.title             "Vaše diskusné účty nie sú pripojené.">
-<!ENTITY chat.noConnectedAccount.description       "Pripojiť sa môžete použitím dialógového okna 'Stav konverzácie':">
-<!ENTITY chat.showAccountManager.button       "Zobraziť stav konverzácie">
+<!ENTITY chat.noConnectedAccount.description       "Pripojiť sa môžete použitím dialógového okna 'Stav konverzácií':">
+<!ENTITY chat.showAccountManager.button       "Zobraziť okno Stav konverzácií">
 
 <!ENTITY chat.participants             "Účastníci:">
 <!ENTITY chat.previousConversations    "Predchádzajúce konverzácie:">
