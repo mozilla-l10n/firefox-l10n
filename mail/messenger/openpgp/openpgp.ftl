@@ -495,6 +495,7 @@ not-first-block = Chyba - prvý blok OpenPGP nie je blokom verejného kľúča
 import-key-confirm = Importovať verejné kľúče vložené v správe?
 fail-key-import = Chyba - import kľúča zlyhal
 file-write-failed = Nepodarilo sa zapísať do súboru { $output }
+confirm-permissive-import = Import zlyhal. Kľúč, ktorý sa pokúšate importovať, môže byť poškodený alebo má neznáme atribúty. Chcete sa pokúsiť o importovanie častí, ktoré sú správne? Môže to mať za následok import neúplných a nepoužiteľných kľúčov.
 # Strings used in trust.jsm
 key-valid-unknown = neznámy
 key-valid-invalid = neplatný
@@ -511,10 +512,13 @@ import-key-file = Importovať súbor kľúča OpenPGP
 import-rev-file = Importovať súbor zneplatnenia OpenPGP
 gnupg-file = Súbory GnuPG
 import-keys-failed = Importovanie kľúčov zlyhalo
+passphrase-prompt = Zadajte prístupovú frázu, ktorá odomkne nasledujúci kľúč: { $key }
 file-to-big-to-import = Tento súbor je príliš veľký. Neimportujte naraz veľkú sadu kľúčov.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Vytvoriť a uložiť certifikát zneplatnenia
+revoke-cert-failed = Certifikát zneplatnenia nemohol byť vytvorený.
 gen-going = Generovanie kľúčov už prebieha!
+keygen-missing-user-name = Pre vybraný účet/identitu nie je zadané žiadne meno. Zadajte hodnotu do poľa „Vaše meno“ v nastaveniach účtu.
 expiry-too-short = Váš kľúč musí byť platný aspoň jeden deň.
 expiry-too-long = Nemôžete vytvoriť kľúč, ktorého platnosť vyprší o viac ako 100 rokov.
 key-confirm = Generovať verejný a tajný kľúč pre '{ $id }'?
@@ -527,6 +531,13 @@ key-man-button-generate-key-continue = &Pokračovať v generovaní kľúča
 
 failed-decrypt = Chyba - dešifrovanie zlyhalo
 fix-broken-exchange-msg-failed = Túto správu nie je možné opraviť.
+attachment-no-match-from-signature = Podpisový súbor '{ $attachment }' sa nezhoduje s prílohou
+attachment-no-match-to-signature = Príloha '{ $attachment }' sa nezhoduje s podpisovým súborom
+signature-verified-ok = Podpis prílohy { $attachment } bol úspešne overený
+signature-verify-failed = Podpis prílohy { $attachment } sa nepodarilo overiť
+decrypt-ok-no-sig =
+    Upozornenie
+    Dešifrovanie bolo úspešné, ale podpis nebolo možné správne overiť
 msg-ovl-button-cont-anyway = &Aj tak pokračovať
 enig-content-note = *Prílohy k tejto správe nie sú podpísané ani šifrované*
 # Strings used in enigmailMsgComposeOverlay.js
@@ -540,11 +551,22 @@ key-revoked = Kľúč '{ $key }' bol zneplatnený
 key-expired = Platnosť kľúča '{ $key }' vypršala
 msg-compose-internal-error = Vyskytla sa vnútorná chyba.
 keys-to-export = Vyberte kľúče OpenPGP, ktoré chcete vložiť
+msg-compose-partially-encrypted-inlinePGP =
+    Správa, na ktorú odpovedáte, obsahovala nešifrované aj šifrované časti. Ak odosielateľ pôvodne nebol schopný dešifrovať niektoré časti správy, možno mu poskytnete dôverné informácie, ktoré odosielateľ sám nedokázal dešifrovať.
+    Zvážte odstránenie všetkého citovaného textu z vašej odpovede tomuto odosielateľovi.
 msg-compose-cannot-save-draft = Chyba pri ukladaní konceptu
 msg-compose-partially-encrypted-short = Pozor na únik citlivých informácií - čiastočne šifrovaný e-mail.
+minimal-line-wrapping =
+    Nastavili ste zalamovanie riadkov na šírku { $width } znakov. Pre správne šifrovanie a / alebo podpisovanie musí byť táto hodnota minimálne 68.
+    Prajete si teraz zmeniť zalamovanie riadkov na 68 znakov?
+sending-hidden-rcpt = Pri odosielaní šifrovanej správy nie je možné použiť príjemcov v poli Skrytá kópia. Ak chcete odoslať túto zašifrovanú správu, buď odstráňte príjemcov z poľa Skrytá kópia, alebo ich presuňte do poľa Kópia.
 sending-news =
     Operácia šifrovaného odoslania bola prerušená.
     Túto správu nie je možné zašifrovať, pretože medzi príjemcami sa nachádzajú aj diskusné skupiny. Správu odošlite znova bez šifrovania.
+send-to-news-warning =
+    Upozornenie: Chystáte sa odoslať zašifrovaný e-mail do diskusnej skupiny.
+    To sa neodporúča, pretože to má zmysel, iba ak správu môžu dešifrovať všetci členovia skupiny, t. j. správa musí byť zašifrovaná kľúčmi všetkých účastníkov skupiny. Túto správu odošlite, iba ak presne viete, čo robíte.
+    Pokračovať?
 save-attachment-header = Uložiť dešifrovanú prílohu
 no-temp-dir =
     Nepodarilo sa nájsť dočasný adresár, do ktorého je možné zapisovať.
