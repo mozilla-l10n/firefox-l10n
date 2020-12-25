@@ -297,6 +297,7 @@ identity-https-only-dropdown-off =
 identity-https-only-info-turn-off2 = যদি পৃষ্ঠাখন নষ্ট যেন লাগে তেন্তে আপুনি অসুৰক্ষিত HTTP ব্যৱহাৰ কৰি পুনৰ ল'ড কৰিবলৈ এই ছাইটৰ বাবে কেৱল-HTTPS ম'ড বন্ধ কৰিব বিচাৰিব পাৰে।
 identity-permissions =
     .value = অনুমতিসমূহ
+identity-permissions-storage-access-header = ক্ৰ'ছ-ছাইট কুকিজ
 identity-permissions-reload-hint = সাল-সলনি প্ৰয়োগ কৰিবলৈ আপুনি পৃষ্ঠাখন ৰিল'ড কৰিব লাগিব পাৰে।
 identity-permissions-empty = আপুনি এই ছাইটটোক কোনো বিশেষ অনুমতি প্ৰদান কৰা নাই।
 identity-clear-site-data =
