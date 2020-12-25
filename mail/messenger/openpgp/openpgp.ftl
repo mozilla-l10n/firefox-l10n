@@ -127,9 +127,9 @@ openpgp-key-man-copy-to-clipboard =
         { $count ->
             [one] Kopírovať verejný kľúč do schránky
             [few] Kopírovať verejné kľúče do schránky
-           *[other] Kopírovať verejných kľúčov do schránky
+           *[other] Kopírovať verejné kľúče do schránky
         }
-    .accesskey = p
+    .accesskey = e
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportovať kľúče do súboru
 openpgp-key-man-ctx-copy-to-clipbrd-label =
@@ -165,13 +165,13 @@ openpgp-key-man-close =
     .label = Zavrieť
 openpgp-key-man-reload =
     .label = Znova načítať vyrovnávaciu pamäť kľúčov
-    .accesskey = Z
+    .accesskey = n
 openpgp-key-man-change-expiry =
     .label = Zmeniť dátum vypršania platnosti
     .accesskey = Z
 openpgp-key-man-del-key =
-    .label = Odstrániť kľúče
-    .accesskey = V
+    .label = Odstrániť kľúč
+    .accesskey = d
 openpgp-delete-key =
     .label = Odstrániť kľúč
     .accesskey = V
