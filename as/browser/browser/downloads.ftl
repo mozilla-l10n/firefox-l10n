@@ -36,6 +36,12 @@ downloads-cmd-show-menuitem =
 downloads-cmd-show-menuitem-mac =
     .label = সন্ধানকাৰীত দেখুৱাওক
     .accesskey = F
+downloads-cmd-use-system-default =
+    .label = ছিষ্টেম ভিউৱাৰত খোলক
+    .accesskey = V
+downloads-cmd-always-use-system-default =
+    .label = সদায়ে ছিষ্টেম ভিউৱাৰত খুলিব
+    .accesskey = w
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
