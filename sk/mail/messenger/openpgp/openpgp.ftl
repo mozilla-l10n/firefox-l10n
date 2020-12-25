@@ -260,7 +260,7 @@ openpgp-acceptance-verified-label =
 key-accept-personal =
     Pre tento kľúč máte aj verejnú aj tajnú časť. Môžete ho použiť ako osobný kľúč.
     Ak vám tento kľúč dal niekto iný, nepoužívajte ho ako osobný kľúč.
-key-personal-warning = Tento kľúč ste si vytvorili sami a zobrazené vlastníctvo kľúča sa týka vás samotnýh?
+key-personal-warning = Vytvorili ste tento kľúč sami a zobrazené vlastníctvo kľúča sa týka vás samotných?
 openpgp-personal-no-label =
     .label = Nie, nepoužívať ho ako môj osobný kľúč.
 openpgp-personal-yes-label =
@@ -360,6 +360,9 @@ keyserver-error-unsupported = Kľúčový server nie je podporovaný.
 wkd-message-body-req =
     Váš poskytovateľ e-mailu spracoval žiadosť o nahranie vášho verejného kľúča do webového adresára kľúčov OpenPGP.
     Prosím, potvrďte zverejnenie verejného kľúča.
+# Strings in gpg.jsm
+unknown-signing-alg = Neznámy podpisový algoritmus (ID: { $id })
+unknown-hash-alg = Neznámy kryptografický hash (ID: { $id })
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     Platnosť vášho kľúča { $desc } vyprší o menej ako { $days } dní.
@@ -483,20 +486,34 @@ key-man-button-generate-key-continue = &Pokračovať v generovaní kľúča
 
 failed-decrypt = Chyba - dešifrovanie zlyhalo
 fix-broken-exchange-msg-failed = Túto správu nie je možné opraviť.
+msg-ovl-button-cont-anyway = &Aj tak pokračovať
+enig-content-note = *Prílohy k tejto správe nie sú podpísané ani šifrované*
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Odoslať správu
 msg-compose-details-button-label = Podrobnosti…
 msg-compose-details-button-access-key = d
 send-aborted = Operácia odoslania bola prerušená.
+key-not-trusted = Nedostatočná dôveryhodnosť pre kľúč '{ $key }'
 key-not-found = Kľúč '{ $key }' sa nenašiel
 key-revoked = Kľúč '{ $key }' bol zneplatnený
 key-expired = Platnosť kľúča '{ $key }' vypršala
 msg-compose-internal-error = Vyskytla sa vnútorná chyba.
 keys-to-export = Vyberte kľúče OpenPGP, ktoré chcete vložiť
+msg-compose-cannot-save-draft = Chyba pri ukladaní konceptu
+msg-compose-partially-encrypted-short = Pozor na únik citlivých informácií - čiastočne šifrovaný e-mail.
+save-attachment-header = Uložiť dešifrovanú prílohu
+# Strings used in decryption.jsm
+do-import-multiple =
+    Importovať nasledujúce kľúče?
+    { $key }
 do-import-one = Importovať { $name } ({ $id })?
 cant-import = Chyba pri importovaní verejného kľúča
+unverified-reply = Odsadená časť správy (odpoveď) bola pravdepodobne upravená
 sig-mismatch = Chyba - nesúlad podpisov
+invalid-email = Chyba - neplatná e-mailová adresa (adresy)
 dlg-button-view = &Zobraziť
+# Strings used in encryption.jsm
+not-required = Chyba - nevyžaduje sa šifrovanie
 dlg-button-ok = &OK
 dlg-button-close = &Zavrieť
 dlg-button-cancel = &Zrušiť
