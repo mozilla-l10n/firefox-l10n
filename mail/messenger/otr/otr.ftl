@@ -57,3 +57,18 @@ context-gone_secure_unverified = Začala sa šifrovaná, ale neoverená konverz�
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 context-still_secure = Šifrovaná konverzácia s kontaktom { $name } bola úspešne obnovená.
+error-enc = Pri šifrovaní správy sa vyskytla chyba.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+error-not_priv = Odoslali ste zašifrované údaje kontaktu { $name }, ktorý to však nečakal.
+error-unreadable = Odoslali ste nečitateľnú šifrovanú správu.
+error-malformed = Odoslali ste správu s chybnými dátami.
+resent = [znova odoslaná]
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+tlv-disconnected = { $name } s vami ukončil šifrovaný rozhovor; mali by ste urobiť to isté.
+# Do not translate "Off-the-Record" and "OTR" which is the name of an encryption protocol
+# Make sure that this string does NOT contain any numbers, e.g. like "3".
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+query-msg = Kontakt { $name } požaduje šifrovanú konverzáciu (OTR). Nemáte však doplnok, ktorý by to podporoval. Ďalšie informácie nájdete na stránke https://en.wikipedia.org/wiki/Off-the-Record_Messaging.
