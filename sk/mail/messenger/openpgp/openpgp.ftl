@@ -187,6 +187,8 @@ openpgp-key-man-key-more =
 openpgp-key-man-view-photo =
     .label = Foto ID
     .accesskey = F
+openpgp-key-man-ctx-view-photo-label =
+    .label = Zobraziť Foto ID
 openpgp-key-man-show-invalid-keys =
     .label = Zobraziť neplatné kľúče
     .accesskey = Z
@@ -239,6 +241,9 @@ openpgp-key-details-expiry-header = Vypršanie platnosti
 openpgp-key-details-usage-label =
     .label = Využitie
 openpgp-key-details-fingerprint-label = Odtlačok
+openpgp-key-details-sel-action =
+    .label = Vybrať akciu...
+    .accesskey = V
 openpgp-key-details-also-known-label = Údajné alternatívne identity vlastníka klúča:
 openpgp-card-details-close-window-label =
     .buttonlabelaccept = Zavrieť
@@ -334,9 +339,14 @@ key-expired-date = Platnosť kľúča vypršala { $keyExpiry }
 key-expired-simple = Platnosť kľúča vypršala
 key-revoked-simple = Kľúč bol zneplatnený
 key-do-you-accept = Prijímate tento kľúč na overovanie digitálnych podpisov a na šifrovanie správ?
+key-accept-warning = Vyvarujte sa prijatiu neovereného kľúča. Na overenie odtlačku kľúča korešpondenta použite iný komunikačný kanál ako e-mail.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Správu sa nepodarilo odoslať, pretože sa vyskytol problém s vašim osobným kľúčom. { $problem }
 cannot-encrypt-because-missing = Túto správu nie je možné odoslať s obojstranným šifrovaním, pretože sa vyskytli problémy s kľúčmi nasledujúcich príjemcov: { $problem }
+window-locked = Okno na napísanie správy je zamknuté; odoslanie zrušené
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Časť zašifrovanej správy
+mime-decrypt-encrypted-part-concealed-data = Toto je šifrovaná časť správy. Musíte ju otvoriť v samostatnom okne kliknutím na prílohu.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Prerušené
 keyserver-error-unknown = Vyskytla sa neznáma chyba
@@ -346,6 +356,10 @@ keyserver-error-unavailable = Kľúčový server nie je k dispozícii.
 keyserver-error-security-error = Kľúčový server nepodporuje šifrovaný prístup.
 keyserver-error-certificate-error = Certifikát kľúčového servera nie je platný.
 keyserver-error-unsupported = Kľúčový server nie je podporovaný.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Váš poskytovateľ e-mailu spracoval žiadosť o nahranie vášho verejného kľúča do webového adresára kľúčov OpenPGP.
+    Prosím, potvrďte zverejnenie verejného kľúča.
 # Strings in keyUsability.jsm
 expiry-key-expires-soon =
     Platnosť vášho kľúča { $desc } vyprší o menej ako { $days } dní.
@@ -382,17 +396,39 @@ delete-secret-key =
     
     Naozaj chcete vymazať OBA, tajný kľúč aj verejný kľúč
     '{ $userId }'?
+delete-pub-key =
+    Chcete vymazať verejný kľúč
+    '{ $userId }'?
+delete-selected-pub-key = Chcete vymazať verejné kľúče?
+refresh-all-question = Nevybrali ste žiadny kľúč. Prajete si obnoviť VŠETKY kľúče?
 key-man-button-export-sec-key = Exportovať &tajné kľúče
 key-man-button-export-pub-key = Exportovať iba &verejné kľúče
 key-man-button-refresh-all = &Obnoviť všetky kľúče
 key-man-loading-keys = Načítavanie kľúčov, prosím čakajte…
+no-key-selected = Na vykonanie zvolenej operácie by ste mali zvoliť aspoň jeden kľúč
+export-to-file = Exportovať verejný kľúč do súboru
+export-keypair-to-file = Exportovať tajný a verejný kľúč do súboru
+export-secret-key = Chcete zahrnúť tajný kľúč do uloženého súboru kľúča OpenPGP?
 save-keys-ok = Kľúče boli úspešne uložené
 save-keys-failed = Uloženie kľúčov zlyhalo
+default-pub-key-filename = Exportovane-verejne-kluce
+default-pub-sec-key-filename = Zaloha-tajnych-klucov
+refresh-key-warn = Upozornenie: V závislosti od počtu kľúčov a rýchlosti pripojenia môže byť obnovenie všetkých kľúčov dosť zdĺhavý proces!
+preview-failed = Súbor verejného kľúča sa nedá prečítať.
 general-error = Chyba: { $reason }
 dlg-button-delete = &Vymazať
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Verejný kľúč bol úspešne exportovaný!</b>
+openpgp-export-public-fail = <b>Nie je možné exportovať vybratý verejný kľúč!</b>
+openpgp-export-secret-success = <b>Tajný kľúč bol úspešne exportovaný!</b>
+openpgp-export-secret-fail = <b>Nie je možné exportovať vybratý tajný kľúč!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Kľúč { $userId } (ID kľúča { $keyId }) je zneplatnený.
+key-ring-pub-key-expired = Platnosť kľúča { $userId } (ID kľúča { $keyId }) vypršala.
+key-ring-key-disabled = Kľúč { $userId } (ID kľúča { $keyId }) je zakázaný; nedá sa použiť.
+key-ring-key-invalid = Kľúč { $userId } (ID kľúča { $keyId }) nie je platný. Zvážte jeho správne overenie.
 #   $identity (String) - the id and associated user identity of the key being revoked
 revoke-key-question =
     Chystáte sa zneplatniť kľúč '{ $identity }'.
@@ -406,18 +442,67 @@ delete-key-in-use-description = Nie je možné pokračovať! Kľúč, ktorý ste
 revoke-key-in-use-description = Nie je možné pokračovať! Kľúč, ktorý ste vybrali na zneplatnenie, je momentálne používaný touto identitou. Vyberte iný kľúč alebo voľbu Žiadny a skúste to znova.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Nenašli sme žiadny kľúč zodpovedajúci zadaným kritériám vyhľadávania.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Chyba - príkaz na extrakciu kľúča zlyhal
+# Strings used in keyRing.jsm
+fail-cancel = Chyba - príjem kľúča zrušený používateľom
+not-first-block = Chyba - prvý blok OpenPGP nie je blokom verejného kľúča
+import-key-confirm = Importovať verejné kľúče vložené v správe?
+fail-key-import = Chyba - import kľúča zlyhal
+file-write-failed = Nepodarilo sa zapísať do súboru { $output }
+# Strings used in trust.jsm
+key-valid-unknown = neznámy
+key-valid-invalid = neplatný
+key-valid-disabled = zakázaný
+key-valid-revoked = zneplatnený
+key-valid-expired = skončená platnosť
+key-trust-untrusted = nedôveryhodný
+key-trust-marginal = čiastočný
+key-trust-full = dôveryhodný
+key-trust-ultimate = úplný
+key-trust-group = (skupina)
+# Strings used in commonWorkflows.js
+import-key-file = Importovať súbor kľúča OpenPGP
 import-rev-file = Importovať súbor zneplatnenia OpenPGP
+gnupg-file = Súbory GnuPG
+import-keys-failed = Importovanie kľúčov zlyhalo
+file-to-big-to-import = Tento súbor je príliš veľký. Neimportujte naraz veľkú sadu kľúčov.
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Vytvoriť a uložiť certifikát zneplatnenia
+gen-going = Generovanie kľúčov už prebieha!
+expiry-too-short = Váš kľúč musí byť platný aspoň jeden deň.
+expiry-too-long = Nemôžete vytvoriť kľúč, ktorého platnosť vyprší o viac ako 100 rokov.
+key-confirm = Generovať verejný a tajný kľúč pre '{ $id }'?
+key-man-button-generate-key = &Generovať kľúč
+key-abort = Prerušiť generovanie kľúča?
+key-man-button-generate-key-abort = &Prerušiť generovanie kľúča
+key-man-button-generate-key-continue = &Pokračovať v generovaní kľúča
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Chyba - dešifrovanie zlyhalo
+fix-broken-exchange-msg-failed = Túto správu nie je možné opraviť.
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Odoslať správu
 msg-compose-details-button-label = Podrobnosti…
 msg-compose-details-button-access-key = d
+send-aborted = Operácia odoslania bola prerušená.
+key-not-found = Kľúč '{ $key }' sa nenašiel
+key-revoked = Kľúč '{ $key }' bol zneplatnený
+key-expired = Platnosť kľúča '{ $key }' vypršala
+msg-compose-internal-error = Vyskytla sa vnútorná chyba.
+keys-to-export = Vyberte kľúče OpenPGP, ktoré chcete vložiť
+do-import-one = Importovať { $name } ({ $id })?
+cant-import = Chyba pri importovaní verejného kľúča
+sig-mismatch = Chyba - nesúlad podpisov
 dlg-button-view = &Zobraziť
 dlg-button-ok = &OK
 dlg-button-close = &Zavrieť
 dlg-button-cancel = &Zrušiť
+enig-prompt = Výzva OpenPGP
+enig-confirm = Potvrdenie OpenPGP
+enig-alert = Upozornenie OpenPGP
+enig-info = Informácie OpenPGP
 # Strings used in persistentCrypto.jsm
 dlg-button-retry = &Znova
 dlg-button-skip = &Preskočiť
