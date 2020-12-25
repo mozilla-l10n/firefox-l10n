@@ -40,7 +40,7 @@ openpgp-key-id-label =
     .label = ID kľúča
 openpgp-cannot-change-expiry = Toto je kľúč so zložitou štruktúrou, zmena jeho dátumu platnosti nie je podporovaná.
 openpgp-key-man-title =
-    .title = Správca OpenPGP kľúča
+    .title = Správca kľúčov OpenPGP
 openpgp-key-man-generate =
     .label = Nový pár kľúčov
     .accesskey = N
@@ -334,6 +334,9 @@ key-expired-date = Platnosť kľúča vypršala { $keyExpiry }
 key-expired-simple = Platnosť kľúča vypršala
 key-revoked-simple = Kľúč bol zneplatnený
 key-do-you-accept = Prijímate tento kľúč na overovanie digitálnych podpisov a na šifrovanie správ?
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Správu sa nepodarilo odoslať, pretože sa vyskytol problém s vašim osobným kľúčom. { $problem }
+cannot-encrypt-because-missing = Túto správu nie je možné odoslať s obojstranným šifrovaním, pretože sa vyskytli problémy s kľúčmi nasledujúcich príjemcov: { $problem }
 # Strings in keyserver.jsm
 keyserver-error-aborted = Prerušené
 keyserver-error-unknown = Vyskytla sa neznáma chyba
@@ -399,6 +402,10 @@ key-man-button-revoke-key = &Zneplatniť kľúč
 openpgp-key-revoke-success = Kľúč bol úspešne zneplatnený.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importovať
+delete-key-in-use-description = Nie je možné pokračovať! Kľúč, ktorý ste vybrali na odstránenie, je momentálne používaný touto identitou. Vyberte iný kľúč alebo voľbu Žiadny a skúste to znova.
+revoke-key-in-use-description = Nie je možné pokračovať! Kľúč, ktorý ste vybrali na zneplatnenie, je momentálne používaný touto identitou. Vyberte iný kľúč alebo voľbu Žiadny a skúste to znova.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Nenašli sme žiadny kľúč zodpovedajúci zadaným kritériám vyhľadávania.
 import-rev-file = Importovať súbor zneplatnenia OpenPGP
 # Strings used in enigmailKeygen.js
 save-revoke-cert-as = Vytvoriť a uložiť certifikát zneplatnenia
