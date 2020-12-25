@@ -423,6 +423,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = বুকমাৰ্কসমূহ
 library-bookmarks-bookmark-this-page =
     .label = এই পৃষ্ঠা পত্ৰচিহ্নিত কৰক
 library-bookmarks-bookmark-edit =

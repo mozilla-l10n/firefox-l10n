@@ -19,6 +19,7 @@
 <!ENTITY fileNotFound.title "ফাইল পোৱা নগল">
 <!ENTITY fileNotFound.longDesc "<ul><li>বস্তুটোক পুনৰ নামকৰণ, আঁতৰুৱা, বা পুনৰ স্থাপিত কৰা হৈছে নেকি ?</li><li>ঠিকনাত বানান, ডাঙৰ হাতৰ আখৰ, বা অান্য কোনো লিখাৰ ত্ৰুটি হৈছে নেকি ?</li><li>অনুৰোধ কৰা বস্তৰ বাবে আপোনাৰ অভিগমৰ পৰ্যাপ্ত অনুমতি আছে নে ?</li></ul>">
 
+<!ENTITY fileAccessDenied.title "অজ্ঞাত সময় বাকী">
 
 <!ENTITY generic.title "অনুৰোধ সম্পূৰ্ণ কৰিব নোৱাৰি">
 <!ENTITY generic.longDesc "<p>এই সমস্যা বা ত্ৰুটিৰ অতিৰিক্ত তথ্য এতিয়া পোৱা নাযায়।</p>">
@@ -72,6 +73,7 @@
 <!ENTITY cspBlocked.title "সমল সুৰক্ষা নীতিৰ দ্বাৰা প্ৰতিৰোধিত">
 <!ENTITY cspBlocked.longDesc "<p>ব্ৰাউছাৰে পৃষ্ঠাটোক এইধৰণে ল'ড হোৱাৰ পৰা বাধা দিছে কাৰণ পৃষ্ঠাটোৰ এটা সমল সুৰক্ষা নীতি আছে যোনে ইয়াৰ অনুমতি নিদিয়ে।</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options নীতি দ্বাৰা অৱৰুদ্ধ কৰা হৈছে">
 
 <!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্ৰস্থ সমল ত্ৰুটি">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব পৰা নাযাব কাৰণ তথ্য পৰিৱহনত এটা ত্ৰুটি দেখা দিছিল।</p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক যোগাযোগ কৰক।</li></ul>">
@@ -79,7 +81,11 @@
 <!ENTITY remoteXUL.title "দুৰৱৰ্তী XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলক যোগাযোগ কৰক।</li></ul></p>">
 
+<!ENTITY inadequateSecurityError.title "আপোনাৰ সংযোগ নিৰাপদ নহয়">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY blockedByPolicy.title "অৱৰুদ্ধ পৃষ্ঠা">
 
+<!ENTITY networkProtocolError.title "নেটৱৰ্ক প্ৰ'ট'ক'ল ত্ৰুটি">
+<!ENTITY networkProtocolError.longDesc "<p>আপুনি চাবলৈ চেষ্টা কৰি থকা পৃষ্ঠাখন দেখুৱাব পৰা নাযাব কাৰণ নেটৱৰ্ক প্ৰ'ট'ক'লত এটা ত্ৰুটি ধৰা পৰিছে।</p><ul><li>এই সমস্যাটোৰ বিষয়ে জনাবলৈ অনুগ্ৰহ কৰি ৱেবছাইটৰ গৰাকীসকলৰ সৈতে যোগাযোগ কৰক।</li></ul>">
