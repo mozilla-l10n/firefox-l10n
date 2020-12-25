@@ -42,8 +42,8 @@ openpgp-cannot-change-expiry = Toto je kľúč so zložitou štruktúrou, zmena 
 openpgp-key-man-title =
     .title = Správca OpenPGP kľúča
 openpgp-key-man-generate =
-    .label = Nový párovací kľúč
-    .accesskey = p
+    .label = Nový pár kľúčov
+    .accesskey = N
 openpgp-key-man-gen-revoke =
     .label = Certifikát zneplatnenia
     .accesskey = C
@@ -325,9 +325,9 @@ key-type-primary = primárny kľúč
 key-type-subkey = podkľúč
 key-type-pair = pár kľúčov (tajný kľúč a verejný kľúč)
 key-expiry-never = nikdy
-key-usage-encrypt = Šifrovať
-key-usage-sign = Podpísať
-key-usage-certify = Potvrdiť
+key-usage-encrypt = Šifrovanie
+key-usage-sign = Podpísanie
+key-usage-certify = Potvrdenie
 key-usage-authentication = Overenie
 key-does-not-expire = Platnosť kľúča nevyprší
 key-expired-date = Platnosť kľúča vypršala { $keyExpiry }
@@ -372,6 +372,13 @@ import-from-clip = Chcete importovať nejaké kľúče zo schránky?
 import-from-url = Prevziať verejný kľúč z tejto URL adresy:
 copy-to-clipbrd-failed = Vybraté kľúče sa nepodarilo skopírovať do schránky.
 copy-to-clipbrd-ok = Kľúče boli skopírované do schránky
+delete-secret-key =
+    UPOZORNENIE: Chystáte sa vymazať tajný kľúč!
+    
+    Ak vymažete svoj tajný kľúč, nebudete už môcť dešifrovať žiadne správy šifrované pre tento kľúč a nebudete ho môcť ani zneplatniť.
+    
+    Naozaj chcete vymazať OBA, tajný kľúč aj verejný kľúč
+    '{ $userId }'?
 key-man-button-export-sec-key = Exportovať &tajné kľúče
 key-man-button-export-pub-key = Exportovať iba &verejné kľúče
 key-man-button-refresh-all = &Obnoviť všetky kľúče
@@ -383,6 +390,11 @@ dlg-button-delete = &Vymazať
 
 ## Account settings export output
 
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Chystáte sa zneplatniť kľúč '{ $identity }'.
+    Pomocou tohto kľúča už nebudete môcť podpisovať, a po jeho ďalšom rozšírení ostatní už nebudú môcť pomocou tohto kľúča šifrovať. Stále budete môcť použiť kľúč na dešifrovanie starých správ.
+    Chcete pokračovať?
 key-man-button-revoke-key = &Zneplatniť kľúč
 openpgp-key-revoke-success = Kľúč bol úspešne zneplatnený.
 # Strings in keyRing.jsm & decryption.jsm
