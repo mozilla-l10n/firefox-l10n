@@ -5,28 +5,20 @@
 cookies-window-dialog =
     .title = Cookies
     .style = width: 36em;
-
 window-close-key =
     .key = w
-
 window-focus-search-key =
     .key = f
-
 window-focus-search-alt-key =
     .key = k
-
 filter-search-label =
     .value = Cercar:
     .accesskey = C
-
 cookies-on-system-label = Le cookies sequente es immagazinate in tu computator:
-
 treecol-site-header =
     .label = Sito
-
 treecol-name-header =
     .label = Nomine del cookie
-
 props-name-label =
     .value = Nomine:
 props-value-label =
@@ -34,22 +26,19 @@ props-value-label =
 props-domain-label =
     .value = Hoste:
 props-path-label =
-    .value = Percurso:
+    .value = Route:
 props-secure-label =
     .value = Inviar a:
 props-expires-label =
     .value = Expira:
 props-container-label =
     .value = Continitor:
-
 remove-cookie-button =
     .label = Remover cookie
     .accesskey = R
-
 remove-all-cookies-button =
     .label = Remover tote le cookies
     .accesskey = t
-
 cookie-close-button =
     .label = Clauder
     .accesskey = C
