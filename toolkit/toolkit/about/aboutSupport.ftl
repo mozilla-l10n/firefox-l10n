@@ -188,6 +188,28 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Moduls da terzas partidas
+support-third-party-modules-module = Datoteca dal modul
+support-third-party-modules-version = Versiun da la datoteca
+support-third-party-modules-vendor = Infurmaziuns dal vendider
+support-third-party-modules-occurrence = Occurrenzas
+support-third-party-modules-process = Tip da process & ID
+support-third-party-modules-thread = Thread
+support-third-party-modules-base = Adressa imagebase
+support-third-party-modules-uptime = Temp d'activitad dal process (ms)
+support-third-party-modules-duration = Temp per chargiar (ms)
+support-third-party-modules-empty = Na chargià nagin modul da terzas partidas.
+support-third-party-modules-no-value = (nagina valur)
+support-third-party-modules-expand =
+    .title = Mussar infurmaziuns detagliadas
+support-third-party-modules-collapse =
+    .title = Reducir las infurmaziuns detagliadas
+support-third-party-modules-unsigned-icon =
+    .title = Quest modul n'è betg signà
+support-third-party-modules-down-icon =
+    .title = Mussar infurmaziuns detagliadas
+support-third-party-modules-up-icon =
+    .title = Reducir las infurmaziuns detagliadas
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

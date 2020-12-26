@@ -25,6 +25,9 @@ printui-range-start = Da
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = enfin
+printui-page-custom-range-input =
+    .aria-label = Endatar in interval da paginas persunalisà
+    .placeholder = p.ex. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Copias
 printui-orientation = Orientaziun
@@ -48,6 +51,7 @@ printui-duplex-checkbox = Stampar d'omaduas varts
 printui-options = Opziuns
 printui-headers-footers-checkbox = Stampar ils chaus-pagina ed ils pes-pagina
 printui-backgrounds-checkbox = Stampar ils funds davos
+printui-selection-checkbox = Mo stampar la selecziun
 printui-color-mode-label = Modus da colur
 printui-color-mode-color = Colur
 printui-color-mode-bw = Nair ed alv
@@ -64,11 +68,16 @@ printui-system-dialog-link = Stampar cun agid dal dialog dal sistem…
 printui-primary-button = Stampar
 printui-primary-button-save = Memorisar
 printui-cancel-button = Interrumper
+printui-close-button = Serrar
 printui-loading = Preparar la prevista
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Prevista da stampa
+printui-pages-per-sheet = Paginas per fegl
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Stampar…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
