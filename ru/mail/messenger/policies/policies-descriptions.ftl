@@ -52,11 +52,11 @@ policy-ExtensionSettings = Управляет всеми аспектами ус
 policy-ExtensionUpdate = Включает или отключает автоматические обновления расширений.
 policy-HardwareAcceleration = Отключает аппаратное ускорение, если установлена в false.
 policy-InstallAddonsPermission = Разрешает некоторым веб-сайтам устанавливать дополнения.
-policy-LegacyProfiles = Отключает функцию для принудительного создания отдельного профиля для каждой установки.
+policy-LegacyProfiles = Отключает функцию, которая принудительно создаёт отдельный профиль для каждой установки.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
-policy-LegacySameSiteCookieBehaviorEnabled = Использовать настройку устаревшего поведения куки SameSite по умолчанию.
+policy-LegacySameSiteCookieBehaviorEnabled = Использовать устаревшее поведение атрибута SameSite куки по умолчанию.
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Переключиться на устаревшее поведение SameSite для кук на выбранных сайтах.
 
 ##
