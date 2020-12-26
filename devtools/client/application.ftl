@@ -106,7 +106,7 @@ manifest-view-header = App Manifest
 
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = You need to add a web app Manifest to inspect it here. <a>Learn more</a>
+manifest-empty-intro = You need to add a web app manifest to inspect it here. <a>Learn more</a>
 
 # Header for the Manifest page when there's no manifest to inspect
 manifest-empty-intro2 = No web app manifest detected
