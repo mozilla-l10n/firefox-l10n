@@ -500,6 +500,8 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Sidene du besøkjer mest
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsa toppsider
+home-prefs-shortcuts-header =
+    .label = Snarvegar
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -515,8 +517,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsa historiar
 home-prefs-highlights-header =
     .label = Høgdepunkt
-home-prefs-recent-activity-header =
-    .label = Nyleg aktivitet
 home-prefs-highlights-description = Eit utval av nettsider som du har lagra eller besøkt
 home-prefs-highlights-option-visited-pages =
     .label = Besøkte sider
@@ -526,6 +526,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Siste nedlasting
 home-prefs-highlights-option-saved-to-pocket =
     .label = Sider lagra til { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Nyleg aktivitet
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

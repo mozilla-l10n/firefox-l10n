@@ -209,3 +209,13 @@ newtab-pocket-cta-text = Lagre artiklane du synest er interessante i { -pocket-b
 
 newtab-error-fallback-info = Ops, noko gjekk gale då innhaldet skulle lastast inn.
 newtab-error-fallback-refresh-link = Oppdater sida for å prøve på nytt.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Snarvegar
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rad
+       *[other] { $num } rader
+    }
+newtab-custom-close-button = Lat att
