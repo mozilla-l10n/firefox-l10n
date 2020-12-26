@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (isolaziun da websites) è i
 experimental-features-multi-pip =
     .label = Sustegn per pliras fanestras maletg-en-maletg
 experimental-features-multi-pip-description = Sustegn experimental per permetter pliras fanestras maletg-en-maletg avertas il medem mument.
+experimental-features-http3 =
+    .label = Protocol HTTP/3
+experimental-features-http3-description = Sustegn experimental per il protocol HTTP/3.
