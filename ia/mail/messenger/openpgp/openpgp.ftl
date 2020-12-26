@@ -617,7 +617,7 @@ decrypted-msg-with-format-error = Message decryptate (restaurate formato de emai
 not-required = Error - nulle cryptation requirite
 # Strings used in windows.jsm
 no-photo-available = Nulle photos disponibile
-error-photo-path-not-readable = Le percurso de photo '{ $photo }' non es legibile
+error-photo-path-not-readable = Le route del photo '{ $photo }' non es legibile
 debug-log-title = Registro de depuration OpenPGP
 # Strings used in dialog.jsm
 repeat-prefix = Iste aviso se repetera { $count }
