@@ -72,11 +72,9 @@
 <!ENTITY half-manual-test.label          "Znova otestovať nastavenie">
 <!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-config.label             "Nastaviť manuálne…">
-<!ENTITY manual-config.accesskey         "m">
+<!ENTITY manual-config.accesskey         "N">
 <!ENTITY open-provisioner.label          "Získať novú e-mailovú adresu…">
-<!ENTITY open-provisioner.accesskey      "v">
-
-
+<!ENTITY open-provisioner.accesskey      "s">
 <!ENTITY get-help.label                  "Získať pomoc">
 <!ENTITY get-help.accesskey              "p">
 
