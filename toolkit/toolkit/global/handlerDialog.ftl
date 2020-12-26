@@ -17,6 +17,9 @@
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = Opne lenke
+    .accessKey = p
 
 ## Chooser dialog
 ## Variables:
