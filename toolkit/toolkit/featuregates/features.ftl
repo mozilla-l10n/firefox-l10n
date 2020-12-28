@@ -100,3 +100,4 @@ experimental-features-multi-pip =
 experimental-features-multi-pip-description = Presa en carga experimentala de la compatibilitat de vidèos incrustadas multiplas per aver mantunas fenèstras dubèrtas.
 experimental-features-http3 =
     .label = Protocòl HTTP/3
+experimental-features-http3-description = Presa en carga experimentala del protocòl HTTP/3.
