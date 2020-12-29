@@ -22,3 +22,6 @@ carddav-refreshinterval-hours-value =
         { $hours ->
            *[other] әр { $hours } сағат сайын
         }
+carddav-readonly-label =
+    .label = Тек оқу үшін
+    .accesskey = о
