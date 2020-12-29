@@ -188,25 +188,41 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut ei saa tagasi võtta.
-        [one] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut ei saa tagasi võtta.
-       *[other] See tegevus eemaldab kasutajakontod { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut ei saa tagasi võtta.
+        [1] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingu pole võimalik tagasi võtta.
+        [one] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut pole võimalik tagasi võtta.
+       *[other] See tegevus eemaldab kasutajakontod { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut pole võimalik tagasi võtta.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kas soovid eemaldada selle kasutajakonto kõigist seadmetest?
        *[other] Kas soovid eemaldada kõik { $count } kasutajakontot kõigist seadmetest?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] See tegevus eemaldab selle { -brand-short-name }i salvestadud kasutajakonto kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
+        [one] See tegevus eemaldab selle { -brand-short-name }i salvestadud kasutajakonto kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
+       *[other] See tegevus eemaldab kõik { -brand-short-name }i salvestadud kasutajakontod kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
+    }
+about-logins-confirm-export-dialog-title = Kasutajanimede ja paroolide eksportimine
+about-logins-confirm-export-dialog-message = Sinu paroolid salvestatakse loetava tekstina (nt HalbP@r00l), nii et kõik, kes saavad eksporditud faili avada, saavad neid vaadata.
+about-logins-confirm-export-dialog-confirm-button = Ekspordi...
 confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
 confirm-discard-changes-dialog-message = Kõik salvestamata muudatused lähevad kaduma.
 confirm-discard-changes-dialog-confirm-button = Unusta
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Veebisaidi rünne
 breach-alert-text = Sellelt saidilt lekitati või varastati kasutajatunnused pärast seda, kui sa viimati enda omi uuendasid. Oma konto kaitsmiseks muuda selle parool.
+about-logins-breach-alert-date = See rünne toimus { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Mine saidile { $hostname }
+about-logins-breach-alert-learn-more-link = Rohkem teavet
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Nõrk parool
 
 ## Error Messages
 
