@@ -115,14 +115,30 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 about-logins-edit-login-os-auth-dialog-message-win = Kasutajakonto muutmiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = muuda salvestatud kasutajakontot
+about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Parooli vaatamiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = reveal the saved password
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Parooli kopeerimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copy the saved password
 
 ## Master Password notification
 
 master-password-notification-message = Salvestatud kasutajatunnuste ja paroolide nägemiseks sisesta ülemparool
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Kasutajakontode eksportimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = export saved logins and passwords
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Salvestatud kasutajatunnuste ja paroolide nägemiseks sisesta ülemparool
 master-password-reload-button =
     .label = Logi sisse
     .accesskey = L
@@ -141,13 +157,46 @@ enable-password-sync-preferences-button =
            *[other] Vaata { -sync-brand-short-name }i eelistusi
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Rohkem ei küsita
+    .accesskey = R
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Loobu
 confirmation-dialog-dismiss-button =
     .title = Loobu
+about-logins-confirm-remove-dialog-title = Kas eemaldada see kasutajakonto?
 confirm-delete-dialog-message = Seda tegevust pole võimalik tagasi võtta.
+about-logins-confirm-remove-dialog-confirm-button = Eemalda
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Eemalda
+        [one] Eemalda
+       *[other] Eemalda kõik
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Jah, eemalda see konto
+        [one] Jah, eemalda see konto
+       *[other] Jah, eemalda need kontod
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Kas eemaldada see konto?
+       *[other] Kas eemaldada kõik { $count } kontot?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut ei saa tagasi võtta.
+        [one] See tegevus eemaldab selle kasutajakonto { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut ei saa tagasi võtta.
+       *[other] See tegevus eemaldab kasutajakontod { -brand-short-name }ist ja kõik siin kuvatavad murdmishoiatused. Seda toimingut ei saa tagasi võtta.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Kas soovid eemaldada selle kasutajakonto kõigist seadmetest?
+       *[other] Kas soovid eemaldada kõik { $count } kasutajakontot kõigist seadmetest?
+    }
 confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
 confirm-discard-changes-dialog-message = Kõik salvestamata muudatused lähevad kaduma.
 confirm-discard-changes-dialog-confirm-button = Unusta
