@@ -223,6 +223,11 @@ about-logins-breach-alert-learn-more-link = Rohkem teavet
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Nõrk parool
+about-logins-vulnerable-alert-text2 = Seda parooli on kasutatud mõnel teisel kontol, mille andmed tõenäoliselt lekkisid. Parooli uuesti kasutamine seab kõik sinu kontod ohtu. Muuda see parool.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ava { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Rohkem teavet
 
 ## Error Messages
 
@@ -236,6 +241,29 @@ about-logins-error-message-default = Parooli salvestamisel esines viga.
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Kasutajanimede ja paroolide faili eksportimine
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = kasutajatunnused.csv
+about-logins-export-file-picker-export-button = Ekspordi
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-fail
+       *[other] CSV-fail
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Kasutajatunnuste failist importimine
+about-logins-import-file-picker-import-button = Impordi
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV-fail
+       *[other] CSV-fail
+    }
