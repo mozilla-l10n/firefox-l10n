@@ -63,11 +63,52 @@ openpgp-key-man-import-public-from-file =
     .accesskey = l
 openpgp-key-man-import-secret-from-file =
     .label = Kter tasarut(tisura) tuffirt(tuffirin) seg ufaylu
+openpgp-key-man-import-from-clipbrd =
+    .label = Kter tasarut(tisura) seg ɣef wafus
+    .accesskey = K
+openpgp-key-man-import-from-url =
+    .label = Kter tasarut(tisura) seg URL
+    .accesskey = U
+openpgp-key-man-export-to-file =
+    .label = Sifeḍ tasarut(tisura) tazayezt(tizuyaz) ɣer ufaylu
+    .accesskey = S
+openpgp-key-man-send-keys =
+    .label = Azen tasarut(tisura) s yimayl
+    .accesskey = A
 openpgp-key-man-discover-progress = Anadi…
+openpgp-key-copy-key =
+    .label = Nɣel tasarut tazayazt
+    .accesskey = N
+openpgp-key-export-key =
+    .label = Sifeḍ tasarut tazayezt ɣer ufaylu
+    .accesskey = S
+openpgp-key-send-key =
+    .label = Azen tasarut s yimayl
+    .accesskey = A
+openpgp-key-man-copy-to-clipbrd =
+    .label = Nɣel tasarut(tisura) tazayezt(tizuyaz) ɣer afus
+    .accesskey = N
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Nɣel asulay n tsarut ɣeṛ "ɣef affus"
+           *[other] Nɣel isulayen n tsarut ɣeṛ "ɣef affus"
+        }
+    .accesskey = S
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Kter tisura ɣer ufaylu
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Nɣel tisura tizuyaz ɣer afus
+openpgp-key-man-ctx-copy =
+    .label = Nɣel
+    .accesskey = N
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Adsil umḍin
+           *[other] Idsilen umḍinen
+        }
+    .accesskey = A
 openpgp-key-man-close =
     .label = Mdel
 openpgp-key-man-ctx-view-photo-label =
@@ -148,4 +189,7 @@ keyserver-error-aborted = Yettwaseḥbes
 keyserver-error-unknown = Taḍra-d tuccda tarussint
 
 ## Account settings export output
+
+
+# Strings used in enigmailMessengerOverlay.js
 
