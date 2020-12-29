@@ -109,24 +109,65 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] Idsilen umḍinen
         }
     .accesskey = A
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Asulay n tsarut
+           *[other] Isulayen n tsura
+        }
+    .accesskey = S
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Tasarut tazayazt
+           *[other] Tisura tizayazin
+        }
+    .accesskey = S
 openpgp-key-man-close =
     .label = Mdel
+openpgp-key-man-reload =
+    .label = Ales asali n tuffirt n tsura
+    .accesskey = L
+openpgp-key-man-del-key =
+    .label = Kkes tasarut(tisura)
+    .accesskey = K
+openpgp-delete-key =
+    .label = Kkes tasarut
+    .accesskey = K
+openpgp-key-man-revoke-key =
+    .label = Ḥwi tasarut
+    .accesskey = Ḥ
+openpgp-key-man-key-props =
+    .label = Iraten n tsarut
+    .accesskey = S
+openpgp-key-man-key-more =
+    .label = Ugar
+    .accesskey = U
+openpgp-key-man-view-photo =
+    .label = Asulay n tewlaft
+    .accesskey = W
 openpgp-key-man-ctx-view-photo-label =
     .label = Sker asulay n tewlaft
 openpgp-key-man-user-id-label =
     .label = Isem
 openpgp-key-man-fingerprint-label =
     .label = Adsil umḍin
+openpgp-key-man-nothing-found-tooltip =
+    .label = Ulac tisura yemṣadan d wawalen-inek·inem n unadi
 openpgp-key-man-filter-label =
     .placeholder = Anadi ɣef tsura
 openpgp-key-man-select-all-key =
     .key = A
+openpgp-key-man-key-details-key =
+    .key = I
 openpgp-key-details-title =
     .title = Iraten n tsarut
 openpgp-key-details-signatures-tab =
     .label = Isleknen
 openpgp-key-details-structure-tab =
     .label = Taɣessa
+openpgp-key-details-uid-certified-col =
+    .label = Asulay n useqdac / Yettuselken s
 openpgp-key-details-id-label =
     .label = Asulay
 openpgp-key-details-key-type-label = Anaw
@@ -153,6 +194,10 @@ openpgp-acceptance-rejected-label =
     .label = Uhu, agi tasarut-a.
 openpgp-acceptance-undecided-label =
     .label = Mazal, ahat ticki.
+openpgp-acceptance-unverified-label =
+    .label = Ih, maca ur sneqdeɣ ara ma yella d tasarut tameɣtut.
+openpgp-acceptance-verified-label =
+    .label = Ih, sneqdeɣ akken iwata belli tasarut-a ɣer-s adsil umḍin ameɣtu.
 openpgp-personal-no-label =
     .label = Uhu, ur tt-seqdaceɣ ara am tsarut-iw tudmawant.
 openpgp-personal-yes-label =
