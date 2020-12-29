@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Kasutajatunnused ja paroolid
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Hangi see Google Play poest
 login-app-promo-apple =
     .alt = Laadi alla App Store'ist
-
 login-filter =
     .placeholder = Otsi kasutajakontosid
-
 create-login-button = Loo uus kasutajakonto
-
 fxaccounts-sign-in-text = Tee paroolid kättesaadavaks ka oma teistes seadmetes
 fxaccounts-sign-in-button = Logi { -sync-brand-short-name }i sisse
 fxaccounts-avatar-button =
@@ -32,6 +25,11 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Ava menüü
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Impordi teisest brauserist…
+about-logins-menu-menuitem-import-from-a-file = Impordi failist…
+about-logins-menu-menuitem-export-logins = Ekspordi kasutajatunnused...
+about-logins-menu-menuitem-remove-all-logins = Eemalda kõik kasutajatunnused…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Sätted
@@ -52,6 +50,8 @@ login-list-count =
     }
 login-list-sort-label-text = Sortimine:
 login-list-name-option = nimi  (A-Y)
+login-list-name-reverse-option = nimi (Y-A)
+about-logins-login-list-alerts-option = Hoiatused
 login-list-last-changed-option = viimati muudetud
 login-list-last-used-option = viimati kasutatud
 login-list-intro-title = Kasutajakontosid ei leitud
@@ -63,11 +63,13 @@ login-list-item-subtitle-new-login = Sisesta oma kasutajatunnused
 login-list-item-subtitle-missing-username = (kasutajanime pole)
 about-logins-list-item-breach-icon =
     .title = Kasutajatunnused lekitanud sait
+about-logins-list-item-vulnerable-password-icon =
+    .title = Nõrk parool
 
 ## Introduction screen
 
 login-intro-heading = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name }.
-
+about-logins-login-intro-heading-logged-out = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name } või impordi need.
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
 login-intro-instruction-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
 login-intro-instruction-fxa-settings = Veendu, et { -sync-brand-short-name }i sätetes oleks Kasutajakontod ees linnuke
@@ -97,9 +99,11 @@ login-item-time-used = Viimati kasutatud: { DATETIME($timeUsed, day: "numeric", 
 
 ## OS Authentication dialog
 
+
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -131,9 +135,7 @@ enable-password-sync-preferences-button =
 confirmation-dialog-cancel-button = Loobu
 confirmation-dialog-dismiss-button =
     .title = Loobu
-
 confirm-delete-dialog-message = Seda tegevust pole võimalik tagasi võtta.
-
 confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
 confirm-discard-changes-dialog-message = Kõik salvestamata muudatused lähevad kaduma.
 confirm-discard-changes-dialog-confirm-button = Unusta
@@ -144,6 +146,7 @@ breach-alert-text = Sellelt saidilt lekitati või varastati kasutajatunnused pä
 
 ## Vulnerable Password notification
 
+
 ## Error Messages
 
 # This is an error message that appears when a user attempts to save
@@ -151,12 +154,11 @@ breach-alert-text = Sellelt saidilt lekitati või varastati kasutajatunnused pä
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Selle kasutajanimega kanne { $loginTitle } on juba olemas. <a data-l10n-name="duplicate-link">Kas soovid minna olemasoleva kande juurde?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Parooli salvestamisel esines viga.
 
-
 ## Login Export Dialog
+
 
 ## Login Import Dialog
 
