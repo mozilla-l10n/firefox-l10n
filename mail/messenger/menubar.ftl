@@ -8,3 +8,12 @@
 menu-view-charset =
     .label = Мәтін кодталуы
     .accesskey = к
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Спам
+    .tooltiptext = Таңдалған хабарламаларды спам ретінде белгілеу
+toolbar-not-junk-button =
+    .label = Спам емес
+    .tooltiptext = Таңдалған хабарламаларды спам емес ретінде белгілеу
