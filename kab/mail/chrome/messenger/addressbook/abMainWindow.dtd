@@ -126,6 +126,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY abPropertiesContext.label                      "Timeẓliyin">
 <!ENTITY abPropertiesContext.accesskey                  "T">
 <!ENTITY syncContext.label                              "Mtawi">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Ẓreg anermis">
 <!ENTITY editContactContext.accesskey                   "Ẓ">
 <!ENTITY editMailingListContext.label                   "Ẓreg tabdart">
