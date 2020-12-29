@@ -70,15 +70,19 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name } või impordi need.
+about-logins-login-intro-heading-logged-in = Sünkrooniseeritud kasutajakontosid ei leitud.
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
 login-intro-instruction-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
 login-intro-instruction-fxa-settings = Veendu, et { -sync-brand-short-name }i sätetes oleks Kasutajakontod ees linnuke
 about-logins-intro-instruction-help = Rohkema teabe saamiseks külasta <a data-l10n-name="help-link">{ -lockwise-brand-short-name }'i tugikeskkonda</a>
+about-logins-intro-import = Kui sinu kasutajakontod on salvestatud teise brauserisse, siis saad need <a data-l10n-name="import-link">importida { -lockwise-brand-short-name }'i</a>
+about-logins-intro-import2 = Kui sinu kasutajakontod on salvestatud mujale kui { -brand-product-name }i, siis saad need <a data-l10n-name="import-browser-link">importida teisest brauserist</a> või <a data-l10n-name="import-file-link">failist</a>
 
 ## Login
 
 login-item-new-login-title = Uue kasutajakonto loomine
 login-item-edit-button = Muuda
+about-logins-login-item-remove-button = Eemalda
 login-item-origin-label = Saidi aadress
 login-item-origin =
     .placeholder = https://www.example.com
@@ -88,6 +92,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopeeri
 login-item-copied-username-button-text = Kopeeritud!
 login-item-password-label = Parool
+login-item-password-reveal-checkbox =
+    .aria-label = Kuva parooli
 login-item-copy-password-button-text = Kopeeri
 login-item-copied-password-button-text = Kopeeritud!
 login-item-save-changes-button = Salvesta muudatused
@@ -99,11 +105,17 @@ login-item-time-used = Viimati kasutatud: { DATETIME($timeUsed, day: "numeric", 
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Kasutajakonto muutmiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = muuda salvestatud kasutajakontot
 
 ## Master Password notification
 
