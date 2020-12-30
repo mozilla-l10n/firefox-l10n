@@ -229,6 +229,7 @@ shortcuts-no-addons = Nemaš aktiviranih proširenja.
 shortcuts-no-commands = Sljedeći dodaci nemaju prečace:
 shortcuts-input =
     .placeholder = Upišite prečac
+shortcuts-browserAction2 = Aktiviraj tipku na alatnoj traci
 shortcuts-pageAction = Aktiviraj radnju stranice
 shortcuts-sidebarAction = Prikaži/sakrij bočnu traku
 shortcuts-modifier-mac = Uključi Ctrl, Alt ili ⌘
@@ -379,12 +380,12 @@ addon-detail-private-browsing-disallow = Nemoj dozvoliti
 addon-badge-recommended2 =
     .title = { -brand-product-name } preporučuje samo proširenja koja udovoljavaju našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Ovo proširenje stvorili su tvorci { -brand-product-name }a
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Izvršen je sigurnosni pregled kôda ovog proširenja
-    .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Ovo je službena ekstenzija kojeg su stvorili tvorci { -brand-product-name }a
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Na ovoj ekstenziji izvršen je pregled udovoljava li našim standardima za sigurnost i performansu
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -393,6 +394,8 @@ recent-updates-heading = Nedavne dopune
 release-notes-loading = Učitavanje…
 release-notes-error = Došlo je do greške pri učitavanju napomena o izdanju.
 addon-permissions-empty = Ovaj dodatak ne zahtjeva nikakve dozvole.
+addon-permissions-required = Dozvole potrebne za osnovnu funkcionalnost:
+addon-permissions-optional = Opcionalne dozvole za dodatnu funkcionalnost:
 addon-permissions-learnmore = Saznaj više o dozvolama
 recommended-extensions-heading = Preporučeni dodatci
 recommended-themes-heading = Preporučeni motivi
