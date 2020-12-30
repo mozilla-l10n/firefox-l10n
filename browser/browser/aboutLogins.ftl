@@ -157,6 +157,22 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] తొలగించు
        *[other] అన్నీ తొలగించు
     }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] అవును, ఈ ప్రవేశాన్ని తొలగించు
+        [one] అవును, ఈ ప్రవేశాన్ని తొలగించు
+       *[other] అవును, ఈ ప్రవేశాలను తొలగించు
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] ఒక { $count } ప్రవేశాన్ని తొలగించాలా?
+       *[other] { $count } ప్రవేశాలనూ తొలగించాలా?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] { $count } ప్రవేశాన్ని అన్ని పరికరాల నుండి తొలగించాలా?
+       *[other] { $count } ప్రవేశాలనూ అన్ని పరికరాల నుండి తొలగించాలా?
+    }
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?

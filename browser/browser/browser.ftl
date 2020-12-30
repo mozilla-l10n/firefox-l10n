@@ -163,6 +163,15 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [1] ట్యాబును పరికరానికి పంపించు
+            [one] { $tabCount } ట్యాబును పరికరానికి పంపించు
+           *[other] { $tabCount } ట్యాబులను పరికరానికి పంపించు
+        }
 page-action-copy-url-panel =
     .label = లంకెను కాపీచెయ్యి
 page-action-copy-url-urlbar =
@@ -277,6 +286,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = తాత్కాలికంగా అచేతనం
 identity-permissions =
     .value = అనుమతులు
+identity-permissions-storage-access-header = క్రాస్-సైటు కుకీలు
 identity-permissions-reload-hint = మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.
 identity-permissions-empty = ఈ సైటుకి మీరు ఎటువంటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.
 identity-clear-site-data =
