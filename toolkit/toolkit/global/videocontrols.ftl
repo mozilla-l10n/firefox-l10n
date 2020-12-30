@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Načítání:
 videocontrols-volume-control =
     .aria-label = Hlasitost
+videocontrols-closed-caption-button =
+    .aria-label = Skryté titulky
