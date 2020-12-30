@@ -59,6 +59,9 @@ app-basics-enabled-plugins = Aktivirani priključci
 app-basics-build-config = Konfiguracija gradnje
 app-basics-user-agent = Korisnički agent
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Prevedeno Rosettom
 app-basics-memory-use = Upotreba memorije
 app-basics-performance = Performansa
 app-basics-service-workers = Registrirani radni procesi usluge
@@ -77,8 +80,11 @@ show-dir-label =
         [windows] Otvori mapu
        *[other] Otvori direktorij
     }
+environment-variables-title = Varijable okruženja
+environment-variables-name = Naziv
+environment-variables-value = Vrijednost
 experimental-features-title = Eksperimentalne funkcije
-experimental-features-name = Ime
+experimental-features-name = Naziv
 experimental-features-value = Vrijednost
 modified-key-prefs-title = Važne izmijenjene postavke
 modified-prefs-name = Naziv
@@ -177,6 +183,25 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-module = Datoteka modula
+support-third-party-modules-version = Verzija datoteke
+support-third-party-modules-process = Vrsta procesa i ID
+support-third-party-modules-uptime = Vrijeme rada procesa (ms)
+support-third-party-modules-no-value = (bez vrijednosti)
+support-third-party-modules-button-open =
+    .title = Otvori lokaciju datoteke…
+support-third-party-modules-expand =
+    .title = Prikaži detaljne informacije
+support-third-party-modules-collapse =
+    .title = Sakrij detaljne informacije
+support-third-party-modules-unsigned-icon =
+    .title = Ovaj modul nije potpisan
+support-third-party-modules-folder-icon =
+    .title = Otvori lokaciju datoteke…
+support-third-party-modules-down-icon =
+    .title = Prikaži detaljne informacije
+support-third-party-modules-up-icon =
+    .title = Sakrij detaljne informacije
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -324,6 +349,14 @@ multi-process-status-6 = Onemogućio nepodržani unos teksta
 multi-process-status-7 = Onemogućili dodaci
 multi-process-status-8 = Prisilno onemogućeno
 multi-process-status-unknown = Nepoznato stanje
+fission-status-experiment-control = Onemogućio eksperiment
+fission-status-experiment-treatment = Omogućio eksperiment
+fission-status-disabled-by-e10s-env = Onemogućilo okruženje
+fission-status-enabled-by-env = Omogućilo okruženje
+fission-status-enabled-by-default = Omogućeno prema zadanim postavkama
+fission-status-disabled-by-default = Onemogućeno prema zadanim postavkama
+fission-status-enabled-by-user-pref = Omogućio korisnik
+fission-status-disabled-by-user-pref = Onemogućio korisnik
 async-pan-zoom = Asinkrono pomicanje/zumiranje
 apz-none = ništa
 wheel-enabled = unos kotačićem aktiviran
@@ -344,3 +377,12 @@ touch-warning = asinkroni unos dodirom isključen, zbog nepodržane postavke: { 
 policies-inactive = Neaktivno
 policies-active = Aktivno
 policies-error = Greška
+
+## Printing section
+
+support-printing-title = Ispisivanje
+support-printing-troubleshoot = Otklanjanje grešaka
+support-printing-clear-settings-button = Očisti spremljene postavke ispisa
+support-printing-modified-settings = Izmijenjene postavke ispisa
+support-printing-prefs-name = Naziv
+support-printing-prefs-value = Vrijednost
