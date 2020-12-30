@@ -199,6 +199,32 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
        *[other] Odstranit vše
     }
 about-logins-confirm-remove-all-dialog-checkbox-label = Ano, odstranit tyto přihlašovací údaje
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Odstranit jedny přihlašovací údaje
+        [few] Odstranit { $count } přihlašovací údaje
+       *[other] Odstranit { $count } přihlašovacích údajů
+    }
+about-logins-confirm-remove-all-dialog-message =
+    Tímto odstraníte všechny přihlašovací údaje uložené { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Odstranit jedny přihlašovací údaje ze všech zařízení
+        [few] Odstranit { $count } přihlašovací údaje ze všech zařízení
+       *[other] Odstranit { $count } přihlašovacích údajů ze všech zařízení
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    Tímto odstraníte všechny přihlašovací údaje uložené { -brand-short-name.gender ->
+        [masculine] ve { -brand-short-name(case: "loc") }
+        [feminine] v { -brand-short-name(case: "loc") }
+        [neuter] v { -brand-short-name(case: "loc") }
+       *[other] v aplikaci { -brand-short-name }
+    } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
 about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
 about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
 about-logins-confirm-export-dialog-confirm-button = Exportovat…
