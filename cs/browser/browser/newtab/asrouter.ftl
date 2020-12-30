@@ -307,8 +307,10 @@ cfr-whatsnew-clear-cookies-image-alt = Ukázka zablokovaných cookies
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Více možností ovládání médií
+cfr-whatsnew-media-keys-body = Přehrávejte a pozastavujte zvuk nebo video přímo z klávesnice nebo náhlavní soupravy, což usnadňuje ovládání médií z jiného panelu, programu nebo dokonce i když je počítač uzamčen. Také můžete přecházet mezi skladbami pomocí kláves vpřed a vzad.
 cfr-whatsnew-media-keys-button = Jak na to
 
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Zkratky vyhledávání v adresním řádku
+cfr-whatsnew-search-shortcuts-body = Nyní když do adresního řádku zadáte vyhledávač nebo konkrétní web, se níže v našeptávači zobrazí modrá zkratka. Klepněte na tuto zkratku a dokončete vyhledávání přímo z adresního řádku.
