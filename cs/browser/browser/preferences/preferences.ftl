@@ -617,6 +617,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Nejnavštěvovanější stránky
 home-prefs-topsites-by-option-sponsored =
     .label = Sponzorované top stránky
+home-prefs-shortcuts-header =
+    .label = Zkratky vyhledávání
+home-prefs-shortcuts-description = Stránky, které si uložíte nebo navštívíte
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponzorované zkratky
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -624,6 +629,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Doporučení ze služby { $provider }
 home-prefs-recommended-by-description-update = Výjimečný obsah z celého internetu, vybraný službou { $provider }
+home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společností { $provider }, která je součástí { -brand-product-name(case: "gen") }
 
 ##
 
@@ -643,6 +649,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Stránky uložené do { -pocket-brand-name(case: "gen") }
 home-prefs-recent-activity-header =
     .label = Nedávná aktivita
+home-prefs-recent-activity-description = Výběr z aktuálních stránek a obsahu
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -661,6 +668,7 @@ home-prefs-snippets-description =
         [neuter] { -brand-product-name(case: "gen") }
        *[other] aplikace { -brand-product-name }
     }
+home-prefs-snippets-description-new = Tipy a novinky od společnosti { -vendor-short-name } a aplikace { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -1042,6 +1050,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Sledovací prvky
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Sledovací cookies, např. sociálních sítí
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Sledovací cookies třetích stran včetně sociálních sítí
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cookies třetích stran včetně sociálních sítí
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Sledovací cookies třetích stran a sociálních sítí, ostatní izolovat
 sitedata-option-block-unvisited =

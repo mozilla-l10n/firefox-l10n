@@ -113,6 +113,12 @@ onboarding-benefit-lockwise-text = Spravujte hesla bezpečně i na cestách.
 
 ## Custom Return To AMO onboarding strings
 
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Teď zpět k doplňku <img data-l10n-name="icon"/> </icon><b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Přidat rozšíření
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
