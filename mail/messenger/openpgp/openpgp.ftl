@@ -110,6 +110,30 @@ openpgp-key-man-ctx-expor-to-file-label =
     .label = Esportatu gakoak fitxategira
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Kopiatu gako publikoak arbelera
+openpgp-key-man-ctx-copy =
+    .label = Kopiatu
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Hatz-marka
+           *[other] Hatz-markak
+        }
+    .accesskey = H
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Gako IDa
+           *[other] Gako IDak
+        }
+    .accesskey = G
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Gako publikoa
+           *[other] Gako publikoak
+        }
+    .accesskey = p
 openpgp-key-man-close =
     .label = Itxi
 openpgp-key-man-reload =
@@ -499,7 +523,9 @@ key-man-button-generate-key = Sortu &gakoa
 key-abort = Bertan behera utzi gako sorrera?
 key-man-button-generate-key-abort = Bertan behera &utzi gako sorrera?
 key-man-button-generate-key-continue = &Jarraitu gako sorrera
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Errorea - deszifratzeak huts egin du
 fix-broken-exchange-msg-failed = Ez da lortu mezua konpontzea.
 attachment-no-match-from-signature = '{ $attachment }' sinadura fitxategia ez dator bat eranskin batekin
