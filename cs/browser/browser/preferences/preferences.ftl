@@ -29,6 +29,8 @@ search-input-box =
            *[other] Najít v předvolbách
         }
 managed-notice = Tento prohlížeč je spravován vaší organizací.
+category-list =
+    .aria-label = Kategorie
 pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
@@ -50,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Tady pozor!
 pane-experimental-search-results-header = Experimenty { -brand-short-name(case: "gen") }: Postupujte obezřetně!
 pane-experimental-description = Změny v pokročilé konfiguraci mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
+pane-experimental-reset =
+    .label = Obnovit výchozí nastavení
+    .accesskey = O
 help-button-label =
     { -brand-short-name.gender ->
         [masculine] Nápověda { -brand-short-name(case: "gen") }
@@ -537,6 +542,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Zobrazovat přepínač do režimu obrazu v obraze
     .accesskey = E
 browsing-picture-in-picture-learn-more = Zjistit více
+browsing-media-control =
+    .label = Ovládat média pomocí klávesnice, sluchátek nebo virtuálního rozhraní
+    .accesskey = v
+browsing-media-control-learn-more = Zjistit více
 browsing-cfr-recommendations =
     .label = Doporučovat vhodná rozšíření pro navštívené stránky
     .accesskey = r
@@ -632,6 +641,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Nedávná stahování
 home-prefs-highlights-option-saved-to-pocket =
     .label = Stránky uložené do { -pocket-brand-name(case: "gen") }
+home-prefs-recent-activity-header =
+    .label = Nedávná aktivita
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
