@@ -17,6 +17,7 @@ about-httpsonly-explanation-unavailable2 = Máte zapnutý režim „pouze HTTPS�
 about-httpsonly-explanation-question = Co by mohlo být příčinou?
 about-httpsonly-explanation-nosupport = Nejspíš tento web jednoduše HTTPS nepodporuje.
 about-httpsonly-explanation-risk = Je také možné, že v tom má prsty útočník. Pokud se rozhodnete tuto stránku navštívit, doporučujeme na ní nezadávat žádné citlivé informace jako jsou hesla, e-mailové adresy nebo platební údaje.
+about-httpsonly-explanation-continue = Pokud se rozhodnete pokračovat, bude pro tento server režim „pouze HTTPS“ dočasně vypnut.
 about-httpsonly-button-continue-to-site = Pokračovat přes nezabezpečené spojení
 about-httpsonly-button-go-back = Zpátky
 about-httpsonly-link-learn-more = Zjistit více…
