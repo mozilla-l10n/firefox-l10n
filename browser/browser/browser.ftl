@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -69,6 +69,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Ava teavituse paneel
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Ava asukohataotluse paneel
+urlbar-xr-notification-anchor =
+    .tooltiptext = Ava virtuaalreaalsuse õiguste paneel
 urlbar-storage-access-anchor =
     .tooltiptext = Ava veebilehitsemise jälitamise õiguste paneel
 urlbar-translate-notification-anchor =
@@ -91,6 +93,14 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Salvesta andmeid püsivalt
 urlbar-addons-notification-anchor =
     .tooltiptext = Ava lisa paigaldamise teavituspaneel
+urlbar-tip-help-icon =
+    .title = Hangi abi
+urlbar-search-tips-confirm = Olgu, sain aru
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Nipp:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -98,6 +108,10 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Sisesta vähem, leia rohkem: otsi otsingumootoriga { $engineName } otse oma aadressiribalt.
+urlbar-search-tips-redirect-2 = Alusta oma otsingut aadressiribalt, et näha soovitusi otsingumootorilt { $engineName } ning oma lehitsemise ajaloost.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Kiiremaks otsimiseks vali see otsetee.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -202,7 +216,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Seekord soorita otsing järgneva otsingumootoriga:
 # This string won't wrap, so if the translated string is longer,
@@ -316,6 +330,8 @@ popup-all-windows-shared = Jagatakse kõiki nähtavaid aknaid sinu ekraanil.
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Otsi või sisesta aadress
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Otsi või sisesta aadress
 # Variables
