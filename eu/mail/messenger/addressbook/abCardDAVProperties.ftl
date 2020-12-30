@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] Orduero
            *[other] { $hours } ordutik behin
         }
+carddav-readonly-label =
+    .label = irakurtzeko soilik
+    .accesskey = i
