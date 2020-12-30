@@ -65,12 +65,16 @@ app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Nastavení sestavení
 app-basics-user-agent = User agent
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Přeloženo pro Apple pomocí Rosetta
 app-basics-memory-use = Spotřeba paměti
 app-basics-performance = Výkon
 app-basics-service-workers = Registrovaní Service Workers
 app-basics-profiles = Profily
 app-basics-launcher-process-status = Spouštěcí proces
 app-basics-multi-process-support = Multiprocesová okna
+app-basics-fission-support = Okna používající Fission
 app-basics-remote-processes-count = Vzdálené procesy
 app-basics-enterprise-policies = Podniková pravidla
 app-basics-location-service-key-google = Klíč služby Google Location Service
@@ -192,6 +196,30 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Moduly třetích stran
+support-third-party-modules-module = Soubor modulu
+support-third-party-modules-version = Verze souboru
+support-third-party-modules-vendor = Informace poskytovatele
+support-third-party-modules-occurrence = Výskyt
+support-third-party-modules-process = Typ a ID procesu
+support-third-party-modules-thread = Vlákno
+support-third-party-modules-uptime = Doba běhu procesu (ms)
+support-third-party-modules-duration = Doba načítání (ms)
+support-third-party-modules-empty = Nebyly načteny žádné moduly třetích stran.
+support-third-party-modules-button-open =
+    .title = Otevřít umístění souboru…
+support-third-party-modules-expand =
+    .title = Zobrazit podrobnosti
+support-third-party-modules-collapse =
+    .title = Skrýt podrobnosti
+support-third-party-modules-unsigned-icon =
+    .title = Tento modul není podepsán
+support-third-party-modules-folder-icon =
+    .title = Otevřít umístění souboru…
+support-third-party-modules-down-icon =
+    .title = Zobrazit podrobnosti
+support-third-party-modules-up-icon =
+    .title = Skrýt podrobnosti
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -342,6 +370,20 @@ multi-process-status-6 = Zakázáno pro nepodporovaný textový vstup
 multi-process-status-7 = Zakázáno doplňky
 multi-process-status-8 = Násilně zakázáno
 multi-process-status-unknown = Neznámý stav
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Zakázáno experimentem
+fission-status-experiment-treatment = Povoleno experimentem
+fission-status-disabled-by-e10s-env = Zakázáno prostředím
+fission-status-enabled-by-env = Povoleno prostředím
+fission-status-disabled-by-safe-mode = Zakázáno v nouzovém režimu
+fission-status-enabled-by-default = Povoleno ve výchozím nastavení
+fission-status-disabled-by-default = Zakázáno ve výchozím nastavení
+fission-status-enabled-by-user-pref = Povoleno uživatelem
+fission-status-disabled-by-user-pref = Zakázáno uživatelem
+fission-status-disabled-by-e10s-other = Zakázáno kvůli E10S
 async-pan-zoom = Asynchronní lupa/panning
 apz-none = nic
 wheel-enabled = vstup kolečka povolen
@@ -362,3 +404,11 @@ touch-warning = asynchronní dotykový vstup zakázán vzhledem k nepodporované
 policies-inactive = Neaktivní
 policies-active = Aktivní
 policies-error = Chyba
+
+## Printing section
+
+support-printing-title = Tisk
+support-printing-troubleshoot = Řešení problémů
+support-printing-modified-settings = Upravená nastavení tisku
+support-printing-prefs-name = Název
+support-printing-prefs-value = Hodnota
