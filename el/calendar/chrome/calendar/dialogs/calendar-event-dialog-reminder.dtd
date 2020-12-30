@@ -12,7 +12,7 @@
 <!ENTITY reminder.action.label                             "Επιλογή ενέργειας υπενθύμισης">
 
 <!ENTITY reminder.action.alert.label                       "Εμφάνιση αναδυόμενης ειδοποίησης">
-<!ENTITY reminder.action.email.label                       "Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου">
+<!ENTITY reminder.action.email.label                       "Αποστολή email">
 
 <!ENTITY alarm.units.minutes                               "λεπτά" >
 <!ENTITY alarm.units.hours                                 "ώρες" >
