@@ -18,6 +18,7 @@ certmgr-mine = Pro vaši osobní identifikaci jsou dostupné tyto certifikáty
 certmgr-remembered = Tyto certifikáty slouží k vaší identifikaci na webových stránkách
 certmgr-people = Pro identifikaci ostatních lidí jsou dostupné tyto certifikáty
 certmgr-servers = Pro identifikaci serverů jsou dostupné tyto certifikáty
+certmgr-server = Tento seznam obsahuje výjimky pro chyby serverových certifikátů
 certmgr-ca = Pro identifikaci certifikačních autorit jsou dostupné tyto certifikáty
 certmgr-detail-general-tab-title =
     .label = Obecné
@@ -59,7 +60,7 @@ certmgr-cert-name =
 certmgr-cert-server =
     .label = Server
 certmgr-override-lifetime =
-    .label = Životnost
+    .label = Platnost
 certmgr-token-name =
     .label = Bezpečnostní zařízení
 certmgr-begins-on = Vydáno dne
@@ -161,6 +162,10 @@ delete-ssl-cert-title =
     .title = Smazání výjimek pro certifikáty serverů
 delete-ssl-cert-confirm = Opravdu chcete smazat výjimky pro tyto servery?
 delete-ssl-cert-impact = Pokud odstraníte výjimku, obnovíte pro daný server obvyklé bezpečnostní kontroly a vyžadování platného certifikátu.
+delete-ssl-override-title =
+    .title = Smazání výjimky pro certifikát serveru
+delete-ssl-override-confirm = Opravdu chcete smazat výjimku pro tento server?
+delete-ssl-override-impact = Pokud smažete výjimku pro server, obnovíte pro daný server obvyklé bezpečnostní kontroly a server pak bude požadovat platný certifikát.
 delete-ca-cert-title =
     .title = Smazání nebo nedůvěra certifikátů CA
 delete-ca-cert-confirm = Požádali jste o smazání certifikátů CA. V případě vestavěných certifikátů jim bude odebrána důvěra, což má stejný efekt jako jejich smazání. Opravdu je chcete smazat nebo jim přestat důvěřovat?
@@ -210,6 +215,11 @@ cert-not-verified_algorithm-disabled = Certifikát nemohl být ověřen, protož
 cert-not-verified-unknown = Certifikát nemohl být z neznámého důvodu ověřen.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Neposílat klientský certifikát
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Trvale
+temporary-override = Dočasně
 
 ## Add Security Exception dialog
 
