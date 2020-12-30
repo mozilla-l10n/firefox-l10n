@@ -26,6 +26,9 @@ printui-range-start = Od
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = do
+printui-page-custom-range-input =
+    .aria-label = Zadejte vlastní rozsah stránek
+    .placeholder = např. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Počet kopií
 printui-orientation = Orientace
@@ -42,10 +45,14 @@ printui-scale = Měřítko
 printui-scale-fit-to-page-width = Přizpůsobit šířce stránky
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Měřítko
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Oboustranný tisk
+printui-duplex-checkbox = Vytisknout na obě strany
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Vytisknout záhlaví a zápatí
 printui-backgrounds-checkbox = Vytisknout pozadí
+printui-selection-checkbox = Vytisknout pouze výběr
 printui-color-mode-label = Barevný režim
 printui-color-mode-color = Barevně
 printui-color-mode-bw = Černobíle
@@ -53,16 +60,30 @@ printui-margins = Okraje
 printui-margins-default = Výchozí
 printui-margins-min = Minimální
 printui-margins-none = Žádné
+printui-margins-custom = Vlastní
+printui-margins-custom-inches = Vlastní (palce)
+printui-margins-custom-top = Nahoře
+printui-margins-custom-top-inches = Nahoře (palce)
+printui-margins-custom-bottom = Dole
+printui-margins-custom-bottom-inches = Dole (palce)
+printui-margins-custom-left = Vlevo
+printui-margins-custom-left-inches = Vlevo (palce)
+printui-margins-custom-right = Vpravo
+printui-margins-custom-right-inches = Vpravo (palce)
 printui-system-dialog-link = Vytisknout pomocí systémového dialogu…
 printui-primary-button = Tisk
 printui-primary-button-save = Uložit
 printui-cancel-button = Zrušit
+printui-close-button = Zavřít
 printui-loading = Příprava náhledu
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Náhled tisku
 printui-pages-per-sheet = Stránek na list papíru
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Probíhá tisk…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -83,6 +104,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Měřítko musí být číslo mezi 10 a 200.
+printui-error-invalid-margin = Zadejte platný okraj pro vybranou velikost papíru.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rozsah stránek musí být číslo mezi 1 a { $numPages }.

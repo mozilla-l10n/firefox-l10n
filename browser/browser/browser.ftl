@@ -360,6 +360,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importovat záložky…
+    .tooltiptext = Importovat záložky z jiného prohlížeče do { -brand-short-name(case: "gen") }.
+bookmarks-toolbar-empty-message = Chcete-li mít ke svým záložkám rychlý přístup, umístěte je sem na lištu záložek. <a data-l10n-name="manage-bookmarks">Spravovat záložky…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -464,6 +468,7 @@ urlbar-result-action-search-in-private = Vyhledat v anonymním okně
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Vyhledat pomocí { $engine }
+urlbar-result-action-sponsored = Sponzorováno
 urlbar-result-action-switch-tab = Přepnout na panel
 urlbar-result-action-visit = Navštívit
 
