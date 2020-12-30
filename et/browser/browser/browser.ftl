@@ -115,11 +115,16 @@ urlbar-tabtosearch-onboard = Kiiremaks otsimiseks vali see otsetee.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Järjehoidjad
+urlbar-search-mode-tabs = Kaardid
+urlbar-search-mode-history = Ajalugu
 
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = Oled sellel lehel keelanud asukohateabe kasutamise.
+urlbar-xr-blocked =
+    .tooltiptext = Oled blokkinud sellel saidil ligipääsu virtuaalreaalsuse seadmetele.
 urlbar-web-notifications-blocked =
     .tooltiptext = Oled sellel lehel teavitused keelanud.
 urlbar-camera-blocked =
@@ -157,6 +162,8 @@ page-action-manage-extension =
     .label = Halda laiendust…
 page-action-remove-from-urlbar =
     .label = Eemalda aadressiribalt
+page-action-remove-extension =
+    .label = Eemalda laiendus
 
 ## Page Action menu
 
@@ -231,6 +238,15 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Määra vaikeotsingumootoriks
     .accesskey = M
+search-one-offs-context-set-as-default-private =
+    .label = Määra privaatsete akende vaikeotsingumootoriks
+    .accesskey = M
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -239,6 +255,12 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Järjehoidjad ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Kaardid ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Ajalugu ({ $restrict })
 
 ## Bookmark Panel
 
@@ -266,6 +288,14 @@ identity-passive-loaded = Mõned selle lehe osad on ebaturvalised (nt pildid).
 identity-active-loaded = Kaitse sellel lehel on keelatud.
 identity-weak-encryption = See leht kasutab nõrka krüpteeringut.
 identity-insecure-login-forms = Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.
+identity-https-only-connection-upgraded = (uuendati HTTPSile)
+identity-https-only-label = Ainult HTTPS-režiim
+identity-https-only-dropdown-on =
+    .label = sees
+identity-https-only-dropdown-off =
+    .label = väljas
+identity-https-only-dropdown-off-temporarily =
+    .label = ajutiselt väljas
 identity-permissions =
     .value = Õigused
 identity-permissions-reload-hint = Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.
