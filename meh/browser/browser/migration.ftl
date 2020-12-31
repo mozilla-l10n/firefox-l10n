@@ -53,6 +53,7 @@ no-migration-sources = Ntu nnani´i ka̱a̱ kumi marcadores, da nnánuku a xíí
 import-source-page-title = Nasia´a configuraciones ji datos
 import-items-page-title = Elementos a importar
 import-items-description = Kaji da elementos kuvi nasia´a:
+import-permissions-page-title = Kua'a permisos nu { -brand-short-name }
 import-migrating-page-title = Nasia´a…
 import-migrating-description = A nnasia´a da elementos..
 import-select-profile-page-title = Kaji perfil

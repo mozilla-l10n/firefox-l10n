@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tee mati´i, nani´i kue´e: Nánuku { $engineName } nee barra direccion.
 urlbar-search-tips-redirect-2 = Kajie´e nánuku nuu ya´a je kuni tu'un kuvi { $engineName } je da nnánukunu.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Kaji acceso directo ya´a sa nani´inu ñama da a jiniñu´unu.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -287,6 +290,7 @@ identity-weak-encryption = Nuu ya´a ni´i encriptación ntu nakui.
 identity-insecure-login-forms = Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.
 identity-https-only-connection-upgraded = (actualizado a HTTPS)
 identity-https-only-label = Ntu xini HTTPS
+identity-https-only-info-turn-off2 = De ntu íyo tiñu, sana kuvinu xitanu HTTPS je nachu'unu tuku je ni'inu iin conexión HTTP ntu vatu.
 identity-https-only-info-no-upgrade = Nkuvi sa actualizar conexión ji HTTP.
 identity-permissions =
     .value = Permisos
@@ -336,6 +340,10 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Kuiso da marcadores...
+    .tooltiptext = Kuiso da marcadores vaji nu inka ka̱a̱ nánuku { -brand-short-name }.
+bookmarks-toolbar-empty-message = Sa síne ñama, kune'ya da marcadores nu barra da ka̱a̱ marcadores.  <a data-l10n-name="manage-bookmarks"> Tetiñu da marcadores...</a>
 
 ## WebRTC Pop-up notifications
 
@@ -440,6 +448,7 @@ urlbar-result-action-search-in-private = Nánuku nuu iin ventana yu´u
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Nánuku ji { $engine }
+urlbar-result-action-sponsored = Patrocinado
 urlbar-result-action-switch-tab = Sama su̱ku̱a
 urlbar-result-action-visit = Ne'en kune'ya
 # Directs a user to press the Tab key to perform a search with the specified
