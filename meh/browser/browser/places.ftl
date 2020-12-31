@@ -57,3 +57,9 @@ places-delete-domain-data =
 places-properties =
     .label = Propiedades
     .accesskey = a
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Tetiñu da marcadores
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Da inka marcadores

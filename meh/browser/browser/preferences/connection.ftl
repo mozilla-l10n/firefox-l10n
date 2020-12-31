@@ -53,6 +53,9 @@ connection-proxy-noproxy = Nko proxy nuu
 connection-proxy-noproxy-desc = Kua: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
 connection-proxy-noproxy-localhost-desc = Da conexiones nuu localhost, 127.0.0.1 ji ::1 ni'in ichi chu'un nuu proxy.
+connection-proxy-autotype =
+    .label = URL de configuración automática de proxy
+    .accesskey = A
 connection-proxy-reload =
     .label = Nachu'un tuku
     .accesskey = e

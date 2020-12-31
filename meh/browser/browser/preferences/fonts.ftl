@@ -102,6 +102,9 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Codificación de caracteres para contenido heredado
+fonts-languages-fallback-label = Codificación de texto de respaldo
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Koo kua vaji ji tu'un a íyo
 fonts-languages-fallback-name-arabic =

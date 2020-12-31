@@ -26,6 +26,8 @@ search-input-box =
            *[other] Nani´i nuu  configuraciones
         }
 managed-notice = Vetiñunu tetiñu ka̱a̱ nánuku.
+category-list =
+    .aria-label = Categories
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -41,7 +43,11 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Experimentos de { -brand-short-name }
+category-experimental =
+    .tooltiptext = Experimentos de { -brand-short-name }
 pane-experimental-subtitle = Kaka ji precaución
+pane-experimental-search-results-header = Experimentos de { -brand-short-name }: kaka ji precaución
 help-button-label = Soporte { -brand-short-name }
 addons-button-label = Complementos ji temas
 focus-search =
@@ -126,6 +132,9 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = Xita extensión
 tabs-group-header = Pestañas
+open-new-link-as-tabs =
+    .label = Síne enlaces nu da sukua je ntu ventanas
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Kachí nuu nuu´u saa nakasɨni kue´e pestaña
     .accesskey = k
@@ -322,6 +331,9 @@ performance-use-recommended-settings-checkbox =
     .label = Ni'i da ke'i rendimiento recomendadas
     .accesskey = U
 performance-settings-learn-more = Ka´vi jiee ya´a
+performance-allow-hw-accel =
+    .label = Ni´i aceleración hardware de ntu íyo disponible
+    .accesskey = r
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -329,6 +341,16 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Navegación
+browsing-use-autoscroll =
+    .label = Ni'i desplazamiento automatico
+    .accesskey = d
+browsing-use-smooth-scrolling =
+    .label = Ni'i desplazamiento suave
+    .accesskey = s
+browsing-use-onscreen-keyboard =
+    .label = Xituvi teclado táctil ntaka nejika ni´inuma
+    .accesskey = t
 browsing-use-cursor-navigation =
     .label = Ni'in ntaka ichí teclas cursor sa nánuku ini da paáginas
     .accesskey = c

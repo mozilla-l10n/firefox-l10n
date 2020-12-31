@@ -66,6 +66,7 @@ permissions-invalid-uri-label = Nejika chu´unu iin nuu vatu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-desc = Nxitanu a kumi noo´o nu da sitio ya´a.
 
 ## Exceptions - Cookies
 
