@@ -203,3 +203,9 @@ newtab-error-fallback-refresh-link = Nachu´un página je nakajie´e tuku.
 ## Customization Menu
 
 newtab-custom-close-button = Nakasɨ
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Snippets
+newtab-custom-settings = Tetiñu kue´e da kei´i
