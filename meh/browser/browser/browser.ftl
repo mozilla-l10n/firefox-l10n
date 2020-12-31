@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -285,6 +285,8 @@ identity-passive-loaded = Sava página ya´a ntu iyo vatu (kua da tutu nátava).
 identity-active-loaded = Nnakasɨnɨ a kumi noo´o nuu página ya´a.
 identity-weak-encryption = Nuu ya´a ni´i encriptación ntu nakui.
 identity-insecure-login-forms = Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.
+identity-https-only-connection-upgraded = (actualizado a HTTPS)
+identity-https-only-label = Ntu xini HTTPS
 identity-permissions =
     .value = Permisos
 identity-permissions-reload-hint = Sana nejika nakivɨ tuku página saa kuvi sama nke´inu
