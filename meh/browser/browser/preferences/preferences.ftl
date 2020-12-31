@@ -357,7 +357,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nánuku tu'un sa kajie'enu teenu
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Tee controles video picture-in-picture
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Ka´vi kue´eka
+browsing-media-control-learn-more = Ka´vi kue´eka
 browsing-cfr-recommendations =
     .label = Kachi da ka̱a̱ chunta'an sa jikanu
     .accesskey = R
@@ -421,6 +425,7 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Da sitio vii
 home-prefs-topsites-description = Da nuu ni´inu kue´e
+home-prefs-shortcuts-description = Da nuu chuva´anu a xíín ne´yanu
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -698,6 +703,10 @@ forms-master-pw-fips-title = Ntañu'u yɨ'ɨnu ji FIPS. FIPS jiniñu'u iin contr
 forms-primary-pw-change =
     .label = Sama contraseña primaria
     .accesskey = P
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Ichi yata jinidama kua contraseña maestra
 forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 
 ## OS Authentication dialog
@@ -924,6 +933,9 @@ collection-backlogged-crash-reports-link = Ka´vi kue´eka
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Kumiji noo´o
+security-enable-safe-browsing =
+    .label = Nakasɨ tu'un ntu vii je tuvi ntu va'a
+    .accesskey = B
 security-enable-safe-browsing-link = Ka´vi kue´eka
 security-block-downloads =
     .label = Kasɨ nxinuu ntu vatu
@@ -936,6 +948,9 @@ security-block-uncommon-software =
 
 certs-header = Certificados
 certs-personal-label = Sa íyo iin servidor jikan certificado personal
+certs-select-auto-option =
+    .label = Kaji iin automáticamente
+    .accesskey = S
 certs-select-ask-option =
     .label = Kakama ntaka ichí
     .accesskey = A

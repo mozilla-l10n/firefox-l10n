@@ -59,6 +59,7 @@ monitor-title = Kumi nkene fugas da datos
 monitor-link = Naja satiñu
 monitor-sign-up-link = Chu'un sivɨnɨ sa kachi de íyo alertas da filtraciones
     .title = Chu'un sivɨnɨ sa kachi de íyo alertas da filtraciones nu { -monitor-brand-name }
+auto-scan = Nne´ya automáticamente vitan
 monitor-emails-tooltip =
     .title = Kune'ya direcciones de correo electrónico tuvi nu { -monitor-brand-short-name }
 monitor-breaches-tooltip =
@@ -78,12 +79,14 @@ monitor-view-report-link = Kune´ya reporte
 monitor-breaches-unresolved-title = Nasá'á da filtraciones
 monitor-manage-breaches-link = Tetiñu da filtraciones
     .title = Tetiñu da filtraciones nuu { -monitor-brand-short-name }
+monitor-breaches-resolved-description = De correo noo´o kene nu iin filtración, kachidani nu noo'o.
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % nsá´á
 monitor-partial-breaches-motivation-title-start = ¡Va'a nkajie'enu!
 monitor-partial-breaches-motivation-title-middle = ¡Kaka sukuan!
 monitor-partial-breaches-motivation-title-end = ¡Sani nɨ'ɨo! Kaka sukuan.
+monitor-partial-breaches-motivation-description = Nasa'a da inka filtraciones nu { -monitor-brand-short-name }.
 monitor-resolve-breaches-link = Nasá'á da filtraciones
     .title = Nasá'á da filtraciones ji { -monitor-brand-short-name }
 
