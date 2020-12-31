@@ -52,8 +52,8 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Сжимать при выходе папку «Входящие»">
 <!ENTITY expungeOnExit.accesskey "ж">
-<!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
-<!ENTITY emptyTrashOnExit.accesskey "ч">
+<!ENTITY emptyTrashOnExit.label "Опустошить при выходе папку «Удалённые»">
+<!ENTITY emptyTrashOnExit.accesskey "ш">
 <!ENTITY loginAtStartup.label "Проверять почту при запуске">
 <!ENTITY loginAtStartup.accesskey "в">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
