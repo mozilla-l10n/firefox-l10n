@@ -177,6 +177,14 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [1] Kuvi, xina nu kajie´e sesión ya´a
        *[other] Kuvi, xina nu kajie´e sesión ya´a
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+       *[other] ¿Xina nu kajie´e sesión { $count }?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] ¿Xina { $count } nu kajie´e sesión ntaka da ka̱a̱?
+    }
 about-logins-confirm-export-dialog-title = Kuiso da nuu kajie'e sesión ji contraseñas
 about-logins-confirm-export-dialog-confirm-button = Exportar…
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
