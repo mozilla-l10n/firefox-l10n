@@ -58,8 +58,8 @@
 <!ENTITY renameFolder.accesskey "и">
 <!ENTITY compactFolders.label "Сжать папки">
 <!ENTITY compactFolders.accesskey "ж">
-<!ENTITY emptyTrashCmd.label "Очистить «Удалённые»">
-<!ENTITY emptyTrashCmd.accesskey "ч">
+<!ENTITY emptyTrashCmd.label "Опустошить папку «Удалённые»">
+<!ENTITY emptyTrashCmd.accesskey "ш">
 <!ENTITY offlineMenu.label "Автономная работа">
 <!ENTITY offlineMenu.accesskey "А">
 <!ENTITY synchronizeOfflineCmd.label "Загрузить/синхронизировать сейчас…">
@@ -516,10 +516,10 @@
 <!ENTITY folderContextRemove.accesskey "У">
 <!ENTITY folderContextCompact.label "Сжать эту папку">
 <!ENTITY folderContextCompact.accesskey "ж">
-<!ENTITY folderContextEmptyTrash.label "Очистить «Удалённые»">
-<!ENTITY folderContextEmptyTrash.accesskey "ч">
-<!ENTITY folderContextEmptyJunk.label "Удалить спам">
-<!ENTITY folderContextEmptyJunk.accesskey "с">
+<!ENTITY folderContextEmptyTrash.label "Опустошить папку «Удалённые»">
+<!ENTITY folderContextEmptyTrash.accesskey "ш">
+<!ENTITY folderContextEmptyJunk.label "Опустошить папку «Спам»">
+<!ENTITY folderContextEmptyJunk.accesskey "и">
 <!ENTITY folderContextSendUnsentMessages.label "Отправить неотправленные сообщения">
 <!ENTITY folderContextSendUnsentMessages.accesskey "ь">
 <!ENTITY folderContextUnsubscribe.label "Отписаться">

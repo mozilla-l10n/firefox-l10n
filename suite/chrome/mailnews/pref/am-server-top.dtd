@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Хранилище сообщений">
 <!ENTITY securitySettings.label "Настройки защиты">
 <!ENTITY serverSettings.label "Параметры сервера">
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "у">
 <!ENTITY downloadOnBiff.label "Автоматически загружать новые сообщения">
 <!ENTITY downloadOnBiff.accesskey "а">
-<!ENTITY username.label "Ваше регистрационное имя">
 <!ENTITY deleteMessagePrefix.label "При удалении сообщения:">
 <!ENTITY modelMoveToTrash.label "Переместить его в папку:">
 <!ENTITY modelMoveToTrash.accesskey "и">
@@ -55,13 +52,13 @@
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Сжимать при выходе папку «Входящие»">
 <!ENTITY expungeOnExit.accesskey "ж">
-<!ENTITY emptyTrashOnExit.label "Очищать при выходе папку «Удалённые»">
-<!ENTITY emptyTrashOnExit.accesskey "ч">
+<!ENTITY emptyTrashOnExit.label "Опустошить при выходе папку «Удалённые»">
+<!ENTITY emptyTrashOnExit.accesskey "ш">
 <!ENTITY loginAtStartup.label "Проверять почту при запуске">
 <!ENTITY loginAtStartup.accesskey "в">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
-    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-	 of messages between them
+     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+     of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Спрашивать перед загрузкой более чем">
 <!ENTITY maxMessagesStart.accesskey "ш">
