@@ -167,6 +167,16 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 about-logins-confirm-remove-dialog-confirm-button = Xita
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Xita
+       *[other] Xita kuaiyo
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Kuvi, xina nu kajie´e sesión ya´a
+       *[other] Kuvi, xina nu kajie´e sesión ya´a
+    }
 about-logins-confirm-export-dialog-title = Kuiso da nuu kajie'e sesión ji contraseñas
 about-logins-confirm-export-dialog-confirm-button = Exportar…
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
