@@ -72,8 +72,8 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Сжать папки">
 <!ENTITY compactFolders.accesskey "ж">
-<!ENTITY emptyTrashCmd.label "Очистить «Удалённые»">
-<!ENTITY emptyTrashCmd.accesskey "ч">
+<!ENTITY emptyTrashCmd.label "Опустошить папку «Удалённые»">
+<!ENTITY emptyTrashCmd.accesskey "ш">
 <!ENTITY offlineMenu.label "Автономная работа">
 <!ENTITY offlineMenu.accesskey "А">
 <!ENTITY offlineGoOfflineCmd.label "Работать автономно">
@@ -658,10 +658,10 @@
 <!ENTITY folderContextRemove.accesskey "У">
 <!ENTITY folderContextCompact.label "Сжать">
 <!ENTITY folderContextCompact.accesskey "ж">
-<!ENTITY folderContextEmptyTrash.label "Очистить «Удалённые»">
-<!ENTITY folderContextEmptyTrash.accesskey "ч">
-<!ENTITY folderContextEmptyJunk.label "Удалить спам">
-<!ENTITY folderContextEmptyJunk.accesskey "с">
+<!ENTITY folderContextEmptyTrash.label "Опустошить папку «Удалённые»">
+<!ENTITY folderContextEmptyTrash.accesskey "ш">
+<!ENTITY folderContextEmptyJunk.label "Опустошить папку «Спам»">
+<!ENTITY folderContextEmptyJunk.accesskey "и">
 <!ENTITY folderContextSendUnsentMessages.label "Отправить неотправленные сообщения">
 <!ENTITY folderContextSendUnsentMessages.accesskey "ь">
 <!ENTITY folderContextUnsubscribe.label "Отписаться">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Расположение">
 <!ENTITY idColumn.label "Порядок получения">
 <!ENTITY attachmentColumn.label "Вложения">
-
 <!ENTITY deleteColumn.label "Удалить">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Сортировать по расположению">
 <!ENTITY idColumn2.tooltip "Сортировать по порядку получения">
 <!ENTITY attachmentColumn2.tooltip "Сортировать по наличию вложений">
-
 <!ENTITY deleteColumn.tooltip "Удалить сообщение">
 
 <!-- Thread Pane Context Menu -->
