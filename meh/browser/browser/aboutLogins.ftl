@@ -74,6 +74,7 @@ login-intro-instruction-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount
 login-intro-instruction-fxa-settings = Kune´ya nkajinu nuu kajie´e sesión nuu da ke´i { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kivu <a data-l10n-name="help-link">{ -lockwise-brand-short-name }  </a> nuu kuvi chineidani noo´o
 about-logins-intro-import = De nuu kajie´e sesión chuva´a nuu inka ka̱a̱ nánuku, noo´o <a data-l10n-name="import-link">  chu´unuma { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = De credenciales noo'o nchuva'a chike'i { -brand-product-name }, kuvi <a data-l10n-name="import-browser-link"> kuisonuma ne nu inka ka̱a̱ nánuku </a> a xíín <a data-l10n-name="import-file-link"> inka archivo </a>
 
 ## Login
 
