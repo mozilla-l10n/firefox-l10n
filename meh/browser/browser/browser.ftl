@@ -457,7 +457,7 @@ urlbar-result-action-before-tabtosearch-other = Kuaxín Tab sa nánuku ji { $eng
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Nánuku ji { $engine } barra nuu
+urlbar-result-action-tabtosearch-web = Nánuku ji { $engine } barra da nuu
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).

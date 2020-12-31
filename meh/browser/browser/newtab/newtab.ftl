@@ -51,6 +51,9 @@ newtab-confirm-delete-history-p1 = ¿A mana kuvinu xino da nchu'un nuu página y
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ya´a nkuvi tanɨ.
 
+## Top Sites - Sponsored label
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -196,3 +199,7 @@ newtab-pocket-cta-text = Chuva'a da tu'un jiniñu'unu { -pocket-brand-name } je 
 
 newtab-error-fallback-info = Ups, iyo iin ntu nkene vii saa kuvi síne yaa´a.
 newtab-error-fallback-refresh-link = Nachu´un página je nakajie´e tuku.
+
+## Customization Menu
+
+newtab-custom-close-button = Nakasɨ

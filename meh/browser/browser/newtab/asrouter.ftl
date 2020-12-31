@@ -123,6 +123,9 @@ cfr-whatsnew-lockwise-take-link-text = Ni'i App
 
 cfr-whatsnew-searchbar-title = Tee mati'i, nani'i kue'e jii barra direcciones
 cfr-whatsnew-searchbar-body-topsites = Vitan, ntu xini kaji barra da direcciones je ku ka'nu iin cuadro ji enlaces kumi da nuu xinañu'u.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ícono de lupa
 
 ## Picture-in-Picture
@@ -190,6 +193,13 @@ cfr-doorhanger-cryptominers-heading = { -brand-short-name } nnakasɨ  iin cripto
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] ¡{ -brand-short-name } nnakasɨ kue´e <b>{ $blockedCount }</b> rastreadores vaji { $date }!
+    }
 cfr-doorhanger-milestone-ok-button = Kune´ya kuaíyo
     .accesskey = K
 cfr-doorhanger-milestone-close-button = Nakasɨ
@@ -231,9 +241,19 @@ cfr-doorhanger-doh-primary-button = OK, Kaka!
 cfr-doorhanger-doh-secondary-button = Chiyu´u
     .accesskey = D
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-primary-button = OK, vatu!
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Ka´vi kue´eka
+    .accesskey = L
+
 ## What's new: Cookies message
 
 
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-button = Sikua´a naja
+
+## What's new: Search shortcuts
+
