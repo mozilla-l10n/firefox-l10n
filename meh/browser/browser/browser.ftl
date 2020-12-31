@@ -287,8 +287,10 @@ identity-weak-encryption = Nuu ya´a ni´i encriptación ntu nakui.
 identity-insecure-login-forms = Da nuu kajie´e sesión nuu página ya´a sana kuvi sá´á xeen.
 identity-https-only-connection-upgraded = (actualizado a HTTPS)
 identity-https-only-label = Ntu xini HTTPS
+identity-https-only-info-no-upgrade = Nkuvi sa actualizar conexión ji HTTP.
 identity-permissions =
     .value = Permisos
+identity-permissions-storage-access-header = Cookies ji da sitios
 identity-permissions-reload-hint = Sana nejika nakivɨ tuku página saa kuvi sama nke´inu
 identity-permissions-empty = Ntu kuminu ni´i permiso nuu web ya´a
 identity-clear-site-data =
@@ -440,6 +442,18 @@ urlbar-result-action-search-in-private = Nánuku nuu iin ventana yu´u
 urlbar-result-action-search-w-engine = Nánuku ji { $engine }
 urlbar-result-action-switch-tab = Sama su̱ku̱a
 urlbar-result-action-visit = Ne'en kune'ya
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Kuaxín Tab sa nánuku ji { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Kuaxín Tab sa nánuku ji { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
