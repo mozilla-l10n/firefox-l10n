@@ -25,10 +25,16 @@
 <!ENTITY manageDevices2.label "Uidheaman tèarainteachd S/MIME">
 <!ENTITY manageDevices2.accesskey "y">
 
+<!ENTITY technologySMIME.label "S/MIME a b’ fheàrr">
+<!ENTITY technologyOpenPGP.label "’S e OpenPGP a b’ fheàrr">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Tagh teisteanas">
 <!ENTITY certPicker.info  "Teisteanas:">
 <!ENTITY certPicker.detailsLabel "Mion-fhiosrachadh an teisteanais a thagh thu:">
 
+<!ENTITY openpgpKey.message "Iuchair phearsanta airson crioptachadh is soidhneadh digiteach:">
+<!ENTITY openpgpKey.button "Suidhich an iuchair phearsanta…">
+<!ENTITY openpgpKey.accesskey "o">
