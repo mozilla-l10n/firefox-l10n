@@ -928,6 +928,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Gune erabilienak
     .accesskey = r
+addressbar-locbar-engines-option =
+    .label = Bilaketa-motorrak
+    .accesskey = k
 addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
 
 ## Privacy Section - Content Blocking

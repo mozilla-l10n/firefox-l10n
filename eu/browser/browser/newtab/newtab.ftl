@@ -8,6 +8,9 @@
 newtab-page-title = Fitxa berria
 newtab-settings-button =
     .title = Pertsonalizatu fitxa berriaren orria
+newtab-personalize-button-label = Pertsonalizatu
+    .title = Pertsonalizatu fitxa berria
+    .aria-label = Pertsonalizatu fitxa berria
 
 ## Search box component.
 
@@ -209,6 +212,13 @@ newtab-error-fallback-refresh-link = Berritu orria berriro saiatzeko.
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Lasterbideak
+newtab-custom-shortcuts-subtitle = Gordetzen edo bisitatzen dituzun guneak
+newtab-custom-row-selector =
+    { $num ->
+        [one] Errenkada bat
+       *[other] { $num } errenkada
+    }
 newtab-custom-sponsored-sites = Babesleen lasterbideak
 newtab-custom-pocket-title = { -pocket-brand-name }-ek gomendatua
 newtab-custom-pocket-sponsored = Babesleen istorioak
