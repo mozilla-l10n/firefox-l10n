@@ -4,7 +4,6 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-
 <!ENTITY fileMenu.label          "Faidhle">
 <!ENTITY fileMenu.accesskey        "F">
 <!ENTITY newMenu.label            "Ùr">
@@ -22,6 +21,8 @@
 <!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label       "Roghainnean">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY customizeCmd.label "Gnàthaich">
+<!ENTITY customizeCmd.accesskey "t">
 
 <!ENTITY viewMenu.label          "Sealladh">
 <!ENTITY viewMenu.accesskey        "S">

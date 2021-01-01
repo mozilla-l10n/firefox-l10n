@@ -2,16 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY emailWizard.title               "Suidhich seòladh puist-d a tha agad mu thràth">
+<!ENTITY emailWizard.caption             "Cleachd an seòladh puist-d làithreach agad">
 <!ENTITY name.label                      "D' ainm:">
 <!ENTITY name.accesskey                  "n">
+<!ENTITY fullname.placeholder            "D’ ainm slàn">
 <!ENTITY name.text                       "D' ainm, mar a chì daoine eile e">
+<!ENTITY name.error                      "Cuir a-steach d’ ainm">
 <!ENTITY email.label                     "Seòladh a' phuist-dhealain:">
 <!ENTITY email.accesskey                 "l">
+<!ENTITY email3.placeholder              "An seòladh puist-d agad">
 <!ENTITY email.text                      "An seòladh puist-d a th’ agad">
+<!ENTITY email.error                     "Seòladh puist-d mì-dhligheach">
 <!ENTITY password.label                  "Facal-faire:">
 <!ENTITY password.accesskey              "F">
 <!ENTITY password.placeholder            "Facal-faire">
 <!ENTITY password.text                   "Roghainneil, cha dèid a chleachdadh ach a chum dearbhadh an ainm-chleachdaiche">
+<!ENTITY password.toggle                 "Seall/falaich am facal-faire">
 <!ENTITY rememberPassword.label          "Cum am facal-faire an cuimhne">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "An clàradh a-steach agad:">
@@ -21,12 +28,19 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Clàradh a-steach àrainn">
 
+<!ENTITY protocol.label                  "Pròtacal:">
 <!ENTITY imapLong.label                  "IMAP (pasgain chèin)">
 <!ENTITY pop3Long.label                  "POP 3 (cum teachdaireachdan air a' choimpiutair agad)">
 
+<!ENTITY manualConfigTable.summary       "Roghainnean an fhrithealaiche">
 <!ENTITY incoming.label                  "A-steach:">
+<!ENTITY incomingColumn.label            "A-steach">
 <!ENTITY outgoing.label                  "A-mach:">
+<!ENTITY outgoingColumn.label            "A-mach">
 <!ENTITY username.label                  "Ainm-cleachdaiche:">
+<!ENTITY serverRow.label                 "Am frithealaiche:">
+<!ENTITY portRow.label                   "Port:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Dearbhachadh">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -52,13 +66,17 @@
 <!ENTITY stop.label                      "Sguir dheth">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Ath-dheuchainn">
 <!ENTITY half-manual-test.accesskey      "t">
+<!ENTITY manual-config.label             "Rèitich de làimh…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Faigh seòladh puist-d ùr…">
 <!ENTITY open-provisioner.accesskey      "g">
+<!ENTITY get-help.label                  "Faigh cobhair">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "Rabhadh!">
