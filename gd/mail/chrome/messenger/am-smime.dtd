@@ -2,6 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY e2eTitle.label "Crioptachadh ceann ri cheann">
+<!ENTITY e2eLearnMore.label "Barrachd fiosrachaidh">
+
+
+
 <!ENTITY digitalSign.certificate.button "Tagh…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Falamhaich">
@@ -13,8 +18,16 @@
 <!ENTITY signingGroupTitle.label "Soidhneadh digiteach">
 <!ENTITY signMessage.accesskey "d">
 
-<!-- Strings for the cert picker dialog -->
 
+
+<!ENTITY manageCerts3.label "Stiùirich na teisteanasan S/MIME">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "Uidheaman tèarainteachd S/MIME">
+<!ENTITY manageDevices2.accesskey "y">
+
+
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Tagh teisteanas">
 <!ENTITY certPicker.info  "Teisteanas:">
 <!ENTITY certPicker.detailsLabel "Mion-fhiosrachadh an teisteanais a thagh thu:">

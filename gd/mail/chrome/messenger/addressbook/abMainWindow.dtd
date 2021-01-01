@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Leabhar nan seòladh…">
 <!ENTITY newAddressBookCmd.accesskey                    "b">
+<!ENTITY newCardDAVBookCmd.label                        "Leabhar-sheòlaidhean CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Pasgan LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Teachdaireachd">
@@ -52,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Sguab às liostaichean">
 <!ENTITY deleteItemsCmd.label                           "Sguab às rudan">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Roghainnean">
 <!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
@@ -101,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Post ⁊ buidhnean-naidheachd">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Leabhar nan seòladh">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Lorg sna seòlaidhean…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
 <!ENTITY importCmd.label                                "Ion-phortaich…">
@@ -127,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "i">
 <!ENTITY abPropertiesContext.label                      "Roghainnean">
 <!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY syncContext.label                              "Sioncronaich">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Deasaich an neach-aithne">
 <!ENTITY editContactContext.accesskey                   "e">
 <!ENTITY editMailingListContext.label                   "Deasaich an liosta">
@@ -141,6 +141,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "S">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Tagh na colbhan a thèid a thaisbeanadh">
 <!ENTITY newContactButton.tooltip                       "Cruthaich neach-aithne ùr ann an leabhar nan seòladh">
 <!ENTITY newlistButton.tooltip                          "Cruthaich liosta ùr">
 <!ENTITY editPropertiesButton.tooltip                   "Deasaich an rud a thagh thu">
