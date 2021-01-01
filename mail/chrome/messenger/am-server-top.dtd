@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Stòras theachdaireachdan">
 <!ENTITY securitySettings.label "Roghainnean tèarainteachd">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Bunaiteach:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "T">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Faighnich dhìom mus luchdaich mi a-nuas barrachd air">
 <!ENTITY maxMessagesStart.accesskey "m">
@@ -68,12 +66,15 @@
 <!ENTITY maxMessagesEnd.label "teachdaireachdan">
 <!ENTITY alwaysAuthenticate.label "Iarr dearbhachadh gach turas a thèid ceangal a dhèanamh ris an fhrithealaiche seo">
 <!ENTITY alwaysAuthenticate.accesskey "I">
+<!ENTITY newsrcFilePath1.label "Faidhle news.rc:">
+<!ENTITY newsrcPicker1.label "Tagh faidhle news.rc">
 <!ENTITY abbreviate.label "Seall ainmean nam buidhnean-naidheachd ann an leòs pasgan a' phuist mar:">
 <!ENTITY abbreviateOn.label "Ainmean slàna (Mar eisimpleir, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Ainmean goirid (Mar eisimpleir, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Adhartach…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "An còdachadh teacsa bunaiteach:">
+<!ENTITY localPath1.label "Am pasgan ionadail:">
 <!ENTITY localFolderPicker.label "Tagh am pasgan ionadail">
 <!ENTITY browseFolder.label "Brabhsaich…">
 <!ENTITY browseFolder.accesskey "B">
