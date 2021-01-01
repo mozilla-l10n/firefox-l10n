@@ -111,7 +111,7 @@ urlbar-search-tips-onboard = Méně psaní, více výsledků: používejte { $en
 urlbar-search-tips-redirect-2 = Zadejte do adresního řádku vyhledávaný text a uvidíte návrhy z vyhledávače { $engineName } a vaší historie prohlížení.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
-urlbar-tabtosearch-onboard = Vyberte tuto zkratku, abyste rychleji našli, co potřebujete.
+urlbar-tabtosearch-onboard = Klepněte na tuto zkratku, abyste rychleji našli, co potřebujete.
 
 ## Local search mode indicator labels in the urlbar
 
