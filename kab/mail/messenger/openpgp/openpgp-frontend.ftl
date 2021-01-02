@@ -32,6 +32,9 @@ openpgp-broken-exchange-info = Wagi d izen OpenPGP ara yettbanen isexser-it MS-E
 openpgp-broken-exchange-repair =
     .label = Izen n useggem
 openpgp-broken-exchange-wait = Ttxil rǧu…
+openpgp-cannot-decrypt-because-mdc =
+    Wagi d izen awgelhan i isseqdacen tarrayt taqburt ur neǧhid ara.
+    Izmer ahat ibeddel akken ad yettwaker ugbur-is. Akken ur  d-iḍerru wayen n diri, agbur ur d-yettwaskan ara.
 openpgp-cannot-decrypt-because-missing-key = Tasarut tuffirt i yettusran i uwgelhen n yizen-a ulac-itt.
 openpgp-reminder-partial-display = Asmekti: Izen i d-yettbanen ddaw d tagrumma kan tasnawant n yizen agejdan.
 openpgp-partial-verify-button = Senqed
