@@ -185,6 +185,7 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-no-value = (ไม่มีค่า)
 support-third-party-modules-button-open =
     .title = เปิดตำแหน่งที่ตั้งไฟล์…
 support-third-party-modules-expand =
