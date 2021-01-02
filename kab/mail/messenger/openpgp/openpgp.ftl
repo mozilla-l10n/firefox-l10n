@@ -339,6 +339,13 @@ import-from-clip = Tebɣiḍ ad tketreḍ kra n tsura yellan ɣef afus?
 
 ## Account settings export output
 
+# Strings used in trust.jsm
+key-valid-unknown = arussin
+key-valid-invalid = arameɣtu
+key-valid-disabled = yensa
+key-valid-revoked = yettwaḥwi
+key-valid-expired = yemmut
+key-trust-untrusted = ur yettwaman ara
 
 # Strings used in enigmailMessengerOverlay.js
 
