@@ -48,7 +48,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Postavke">
+<!ENTITY fxa.menu.syncSettings2.label "Postavke za &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži novi uređaj…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 <!ENTITY fxa.menu.signin.label "Prijavi se u &brandProductName;">
@@ -216,6 +216,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Spremi stranicu u Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Prikaži Pocket popis">
 
 <!ENTITY emailPageCmd.label           "Pošalji poveznicu e-poštom…">
