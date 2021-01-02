@@ -272,8 +272,38 @@ e2e-learn-more = Issin ugar
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Ula yiwen
+openpgp-radio-none-desc = Ur seqdac ara OpenPGP i tmagit-a.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Azemz n taggara: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Tasarut ad temmet sya ɣer 6 n wayyuren
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Temmut deg: { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Tasarut temmut
+openpgp-key-expand-section =
+    .tooltiptext = Ugar n telɣut
+openpgp-key-revoke-title = Ḥwi tasarut
+openpgp-key-edit-title = Beddel tasarut OpenPGP
+openpgp-key-edit-date-title = Degger azemz n taggara
+openpgp-manager-button =
+    .label = Amsefrak n tsarut OpenPGP
+    .accesskey = m
+openpgp-key-remove-external =
+    .label = Kkes asulay n tsarut tazɣarayt
+    .accesskey = K
+key-external-label = Tasarut GnuPG taẓɣarayt
+# Strings in keyDetailsDlg.xhtml
+key-type-public = tasarut tazayat
+key-type-primary = tasarut tagejdant
+key-type-subkey = tsarut tasnawant
+key-type-pair = Tayuga n tsura (tasarut tabaḍnit akked tsarut tazayazt)
 key-expiry-never = weṛǧin
 key-usage-encrypt = Wgelhen
+key-usage-sign = Zmel
+key-usage-certify = Selken
 key-usage-authentication = Asesteb
 key-does-not-expire = Tasarut ur tettmettat ara
 key-expired-date = Tasarut temmut deg { $keyExpiry }
@@ -282,6 +312,30 @@ key-revoked-simple = Tasarut ettwasefsex
 # Strings in keyserver.jsm
 keyserver-error-aborted = Yettwaseḥbes
 keyserver-error-unknown = Taḍra-d tuccda tarussint
+# Strings in gpg.jsm
+unknown-signing-alg = Alguritm n uzmel arussin (asulay : { $id })
+unknown-hash-alg = Adṣil umḍil arussin (Asulay : { $id })
+expiry-open-key-manager = Ldi amsefrak n tsarut OpenPGP
+expiry-open-key-properties = Ldi timeẓliyin n tsarut
+# Strings filters.jsm
+filter-folder-required = Yessefk ad tferneḍ akaram asaḍas.
+filter-term-pgpencrypted-label = Iwgelhen s OpenPGP
+filter-key-required = Issefk ad tferneḍ tasarut n unermis.
+filter-key-not-found = Ulac tasarut n uwgelhen yettwafen i '{ $desc }'.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Tukksa timezgit n uwgelhen (OpenPGP)
+filter-decrypt-copy-label = Rnu anɣel n tukksa n uwgelhan (OpenPGP)
+filter-encrypt-label = Yewgelhen s tsarut (OpenPGP)
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Tisura ttwaketrent akken iwata
+import-info-bits = Ibiten
+import-info-created = Yettwarna
+import-info-fpr = Adsil umḍin
+import-info-details = Sken talqayt daɣen sefrek aqbayl n tsura
+import-info-no-keys = Ulac tisura i d-yettwaketren.
+# Strings in enigmailKeyManager.js
+import-from-clip = Tebɣiḍ ad tketreḍ kra n tsura yellan ɣef afus?
 
 ## Account settings export output
 
