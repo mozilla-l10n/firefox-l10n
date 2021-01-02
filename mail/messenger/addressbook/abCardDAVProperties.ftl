@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] çdo orë
            *[other] çdo { $hours } orë
         }
+carddav-readonly-label =
+    .label = Vetëm-lexim
+    .accesskey = V
