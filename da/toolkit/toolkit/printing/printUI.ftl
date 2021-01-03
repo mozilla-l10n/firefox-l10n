@@ -51,6 +51,7 @@ printui-duplex-checkbox = Udskriv på begge sider
 printui-options = Indstillinger
 printui-headers-footers-checkbox = Print sidehoveder og sidefødder
 printui-backgrounds-checkbox = Udskriv baggrunde
+printui-selection-checkbox = Udskriv kun det markerede
 printui-color-mode-label = Farvetilstand
 printui-color-mode-color = Farve
 printui-color-mode-bw = Sort-hvid
