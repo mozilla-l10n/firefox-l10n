@@ -25,6 +25,9 @@ printui-range-start = Nga
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = në
+printui-page-custom-range-input =
+    .aria-label = Jepni interval vetjak faqesh
+    .placeholder = p.sh., 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopje
 printui-orientation = Orientim
@@ -48,6 +51,7 @@ printui-duplex-checkbox = Shtyp në të dy faqet
 printui-options = Mundësi
 printui-headers-footers-checkbox = Shtyp kryefaqe dhe fundfaqe
 printui-backgrounds-checkbox = Shtyp sfonde
+printui-selection-checkbox = Shtyp vetëm përzgjedhjen
 printui-color-mode-label = Mënyrë ngjyrash
 printui-color-mode-color = Ngjyrë
 printui-color-mode-bw = Bardhezi
@@ -56,19 +60,29 @@ printui-margins-default = Parazgjedhje
 printui-margins-min = Minimum
 printui-margins-none = Asnjë
 printui-margins-custom = Vetjake
+printui-margins-custom-inches = Vetjake (inç)
 printui-margins-custom-top = Në Krye
+printui-margins-custom-top-inches = Krye (inç)
 printui-margins-custom-bottom = Në fund
+printui-margins-custom-bottom-inches = Fund (inç)
 printui-margins-custom-left = Majtas
+printui-margins-custom-left-inches = Majtas (inç)
 printui-margins-custom-right = Djathtas
+printui-margins-custom-right-inches = Djathtas (inç)
 printui-system-dialog-link = Shtyp duke përdorur dialogun e sistemit…
 printui-primary-button = Shtype
 printui-primary-button-save = Ruaje
 printui-cancel-button = Anuloje
+printui-close-button = Mbylle
 printui-loading = Po Përgatitet Paraparje
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Paraparje e Shtypjes
+printui-pages-per-sheet = Faqe për fletë
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Po shtypet…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
