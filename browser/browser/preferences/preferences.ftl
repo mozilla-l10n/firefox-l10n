@@ -5,7 +5,7 @@
 do-not-track-description = Enviar a los sitios web una señal "No rastrear" para que sepan que no quieres ser rastreado
 do-not-track-learn-more = Aprender más
 do-not-track-option-default-content-blocking-known =
-    .label = Solo cuando { -brand-short-name } está configurado para bloquear a los rastreadores conocidos
+    .label = Solo cuando { -brand-short-name } esté configurado para bloquear los rastreadores conocidos
 do-not-track-option-always =
     .label = Siempre
 pref-page-title =
@@ -554,7 +554,7 @@ search-bar-header = Barra de búsqueda
 search-bar-hidden =
     .label = Usar la barra de direcciones para buscar y navegar
 search-bar-shown =
-    .label = Añadir barra de búsqueda a la barra de herramientas
+    .label = Añadir una barra de búsqueda a la barra de herramientas
 search-engine-default-header = Motor de búsqueda predeterminado
 search-engine-default-desc-2 = Este es tu motor de búsqueda predeterminado en la barra de direcciones y en la barra de búsqueda. Puedes cambiarlo en cualquier momento.
 search-engine-default-private-desc-2 = Elije un motor de búsqueda predeterminado diferente para usar solo en ventanas privadas.

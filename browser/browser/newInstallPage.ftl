@@ -9,20 +9,15 @@
 
 title = Noticias importantes
 heading = Cambios a tu perfil de { -brand-short-name }
-
-changed-title = ¿Qué cambio?
+changed-title = ¿Qué cambió?
 changed-desc-profiles = La instalación de { -brand-short-name } tiene un nuevo perfil. Un perfil es un conjunto de archivos en los que Firefox guarda información como por ejemplo marcadores, contraseñas y preferencias de usuario.
 changed-desc-dedicated = Con la finalidad de hacer más fácil y seguro el cambio entre instalaciones de Firefox (Incluyendo Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition y Firefox Nightly), esta instalación ahora tiene un perfil dedicado. No comparte de forma automáticamente tu información guardada con otras instalaciones de Firefox.
-
 lost = <b>No has perdido ningún dato personal o personalización.</b> Si ya habías guardado información en Firefox en este computador, esta se encuentra todavía disponible en otra instalación de Firefox.
-
-options-title = ¿Cuales son mis opciones?
+options-title = ¿Cuáles son mis opciones?
 options-do-nothing = Si no haces nada, tus datos de perfil en { -brand-short-name } serán diferentes a los datos de perfil en otras instalaciones de Firefox.
 options-use-sync = Si quieres que todos tus datos de perfiles sean los mismos en todas las instalaciones de Firefox, puedes usar una { -fxaccount-brand-name } para mantenerlos sincronizados.
-
 resources = Recursos:
 support-link = Usando el administrador de perfiles - Artículo de soporte
-
 sync-header = Conéctate o crea una { -fxaccount-brand-name }
 sync-label = Ingresa tu correo
 sync-input =
