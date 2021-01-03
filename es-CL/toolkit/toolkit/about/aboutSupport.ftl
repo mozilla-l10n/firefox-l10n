@@ -7,11 +7,11 @@ page-subtitle =
     Esta página contiene información técnica que puede serle útil cuando
     intente resolver un problema. Si está buscando respuestas a preguntas comunes
     acerca de { -brand-short-name }, mire en nuestro <a data-l10n-name="support-link">sitio web de soporte</a>.
-crashes-title = Informes de fallos
-crashes-id = ID del informe
+crashes-title = Reportes de fallos
+crashes-id = ID del reporte
 crashes-send-date = Enviado
-crashes-all-reports = Todos los informes de fallos
-crashes-no-config = Esta aplicación no ha sido configurada para mostrar informes de fallos.
+crashes-all-reports = Todos los reportes de fallos
+crashes-no-config = Esta aplicación no ha sido configurada para mostrar reportes de fallos.
 extensions-title = Extensiones
 extensions-name = Nombre
 extensions-enabled = Habilitada
@@ -218,8 +218,8 @@ support-third-party-modules-up-icon =
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Informes de fallos para el último { $days } día
-       *[other] Informes de fallos para los últimos { $days } días
+        [one] Reportes de fallos para el último día
+       *[other] Reportes de fallos para los últimos { $days } días
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -246,8 +246,8 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Todos los informes de fallos (incluyendo { $reports } fallo pendiente dentro del rango de tiempo dado)
-       *[other] Todos los informes de fallos (incluyendo { $reports } fallos pendientes dentro del rango de tiempo dado)
+        [one] Todos los reportes de fallos (incluyendo { $reports } pendiente dentro del rango de tiempo dado)
+       *[other] Todos los reportes de fallos (incluyendo { $reports } pendientes dentro del rango de tiempo dado)
     }
 raw-data-copied = Datos en bruto copiados al portapapeles
 text-copied = Texto copiado al portapapeles
