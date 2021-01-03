@@ -51,6 +51,7 @@ printui-duplex-checkbox = Titz'ajb'äx pa ka'i'-ruwa
 printui-options = Taq cha'oj
 printui-headers-footers-checkbox = Titz'ajb'äl taq nab'ey chuqa' ruxe' rub'i' ruxaq
 printui-backgrounds-checkbox = Ketz'ajb'äx taq rupam
+printui-selection-checkbox = Titz'ajb'äx xa xe ri cha'oj
 printui-color-mode-label = B'onil b'anikil
 printui-color-mode-color = B'onil
 printui-color-mode-bw = Q'ëq chuqa' säq
