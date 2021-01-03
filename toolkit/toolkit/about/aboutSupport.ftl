@@ -188,6 +188,14 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-version = Версія файла
+support-third-party-modules-vendor = Інфармацыя пра вытворцу
+support-third-party-modules-folder-icon =
+    .title = Адкрыць месцазнаходжанне файла…
+support-third-party-modules-down-icon =
+    .title = Паказаць падрабязную інфармацыю
+support-third-party-modules-up-icon =
+    .title = Згарнуць падрабязную інфармацыю
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

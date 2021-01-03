@@ -8,6 +8,9 @@
 newtab-page-title = Новая картка
 newtab-settings-button =
     .title = Наладзіць вашу старонку новай карткі
+newtab-personalize-button-label = Персаналізаваць
+    .title = Персаналізаваць новую картку
+    .aria-label = Персаналізаваць новую картку
 
 ## Search box component.
 
@@ -210,5 +213,17 @@ newtab-error-fallback-refresh-link = Абнавіць старонку, каб �
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Цэтлікі
+newtab-custom-shortcuts-subtitle = Сайты, якія вы захоўваеце або наведваеце
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } радок
+        [few] { $num } радкі
+       *[many] { $num } радкоў
+    }
+newtab-custom-sponsored-sites = Спонсарскія цэтлікі
+newtab-custom-pocket-title = Рэкамендавана { -pocket-brand-name }
+newtab-custom-pocket-sponsored = Артыкулы ад спонсараў
+newtab-custom-recent-title = Апошняя актыўнасць
 newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
