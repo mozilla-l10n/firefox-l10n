@@ -104,7 +104,7 @@ return-to-amo-add-extension-label = Añadir la extensión
 onboarding-multistage-welcome-header = Te damos la bienvenida a <span data-l10n-name = "zap">{ -brand-short-name }</span>
 onboarding-multistage-welcome-subtitle = El navegador rápido, seguro y privado que es respaldado por una organización sin fines de lucro.
 onboarding-multistage-welcome-primary-button-label = Iniciar configuración
-onboarding-multistage-welcome-secondary-button-label = Conectarse
+onboarding-multistage-welcome-secondary-button-label = Conéctate
 onboarding-multistage-welcome-secondary-button-text = ¿Tienes una cuenta?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
