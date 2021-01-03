@@ -512,7 +512,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description-update = Besondere Inhalte aus dem ganzen Internet, ausgewählt von { $provider }
-home-prefs-recommended-by-description-new = Besondere Inhalte, ausgewählt von { $provider }, Teil der { -brand-product-name }-Familie
+home-prefs-recommended-by-description-new = Besondere Inhalte ausgewählt von { $provider }, Teil der { -brand-product-name }-Familie
 
 ##
 
@@ -532,7 +532,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Bei { -pocket-brand-name } gespeicherte Seiten
 home-prefs-recent-activity-header =
     .label = Neueste Aktivität
-home-prefs-recent-activity-description = Eine Auswahl kürzlicher Websites und Inhalte
+home-prefs-recent-activity-description = Eine Auswahl kürzlich besuchter Websites und Inhalte
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
