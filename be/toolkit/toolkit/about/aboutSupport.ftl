@@ -190,6 +190,15 @@ remote-debugging-url = URL
 
 support-third-party-modules-version = Версія файла
 support-third-party-modules-vendor = Інфармацыя пра вытворцу
+support-third-party-modules-no-value = (Няма значэння)
+support-third-party-modules-button-open =
+    .title = Адкрыць месцазнаходжанне файла…
+support-third-party-modules-expand =
+    .title = Паказаць падрабязную інфармацыю
+support-third-party-modules-collapse =
+    .title = Згарнуць падрабязную інфармацыю
+support-third-party-modules-unsigned-icon =
+    .title = Гэты модуль не падпісаны
 support-third-party-modules-folder-icon =
     .title = Адкрыць месцазнаходжанне файла…
 support-third-party-modules-down-icon =
