@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission-i (izolim sajti) është nj�
 experimental-features-multi-pip =
     .label = Mbulim për “Picture-in-Picture”  të Shumta
 experimental-features-multi-pip-description = Mbulim eksperimental për lejim hapjeje të shumë dritareve “Picture-in-Picture”  në të njëjtën kohë.
+experimental-features-http3 =
+    .label = Protokoll HTTP/3
+experimental-features-http3-description = Mbulim eksperimental për protokollin HTTP/3.
