@@ -503,7 +503,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Сайты, якія вы наведваеце найчасцей
 home-prefs-topsites-by-option-sponsored =
     .label = Папулярныя сайты ад спонсараў
+home-prefs-shortcuts-header =
+    .label = Цэтлікі
 home-prefs-shortcuts-description = Сайты, якія вы захоўваеце або наведваеце
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Спонсарскія цэтлікі
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
