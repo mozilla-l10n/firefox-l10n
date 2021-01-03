@@ -534,6 +534,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Захаваныя ў { -pocket-brand-name } старонкі
 home-prefs-recent-activity-header =
     .label = Апошняя актыўнасць
+home-prefs-recent-activity-description = Падборка нядаўніх сайтаў і змесціва
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -541,6 +542,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Урыўкі
 home-prefs-snippets-description = Абнаўленні ад { -vendor-short-name } і { -brand-product-name }
+home-prefs-snippets-description-new = Парады і навіны ад { -vendor-short-name } і { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
