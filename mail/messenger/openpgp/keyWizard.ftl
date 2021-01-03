@@ -22,6 +22,7 @@ radio-gnupg-key =
 
 ## Generate key section
 
+openpgp-keygen-expiry-title = Pretek ključa
 radio-keygen-expiry =
     .label = Ključ preteče čez
     .accesskey = t
@@ -51,6 +52,8 @@ openpgp-keygen-confirm =
     .label = Potrdi
 openpgp-keygen-dismiss =
     .label = Prekliči
+openpgp-keygen-cancel =
+    .label = Prekliči postopek …
 openpgp-keygen-import-complete =
     .label = Zapri
     .accesskey = Z
@@ -60,6 +63,14 @@ openpgp-keygen-short-expiry = Ključ mora biti veljaven vsaj en dan.
 
 ## Import Key section
 
+#   $count (Number) - the number of keys found in the selected files
+openpgp-import-key-list-amount =
+    { $count ->
+        [one] Thunderbird je našel en ključ, ki ga lahko uvozi.
+        [two] Thunderbird je našel { $count } ključa, ki ju lahko uvozi.
+        [few] Thunderbird je našel { $count } ključe, ki jih lahko uvozi.
+       *[other] Thunderbird je našel { $count } ključev, ki jih lahko uvozi.
+    }
 openpgp-import-key-button =
     .label = Izberite datoteko za uvoz …
     .accesskey = I
@@ -83,3 +94,7 @@ openpgp-import-key-props =
 ## External Key section
 
 openpgp-external-key-title = Zunanji ključ GnuPG
+openpgp-save-external-button = Shrani ID ključa
+openpgp-external-key-label = ID tajnega ključa:
+openpgp-external-key-input =
+    .placeholder = 123456789341298340

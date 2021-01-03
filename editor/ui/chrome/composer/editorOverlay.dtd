@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Prilepi brez oblikovanja">
 <!ENTITY pasteNoFormatting.accesskey "a">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Prilepi kot">
-<!ENTITY pasteAs.accesskey "k">
 <!ENTITY pasteAsQuotationCmd.label "Prilepi kot navedek">
 <!ENTITY pasteAsQuotationCmd.accesskey "d">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -208,6 +206,7 @@
 <!ENTITY alignJustify.tooltip "Poravnaj obojestransko">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Določanje položaja">
 <!ENTITY layer.tooltip "Plast">
 <!ENTITY decreaseZIndex.label "Prestavi v ozadje">
 <!ENTITY layerSendToBack.tooltip "Prestavi v ozadje">
@@ -293,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Izreži">
 <!ENTITY copyToolbarCmd.tooltip "Kopiraj">
 <!ENTITY pasteToolbarCmd.tooltip "Prilepi">
-<!ENTITY printToolbarCmd.label "Natisni">
-<!ENTITY printToolbarCmd.tooltip "Natisni to stran">
 <!ENTITY findToolbarCmd.label "Najdi">
 <!ENTITY findToolbarCmd.tooltip "Poišči besedilo v strani">
 <!ENTITY spellToolbarCmd.label "Črkuj">
@@ -312,8 +309,6 @@
 <!ENTITY colorButtons.title "Barve">
 <!ENTITY TextColorButton.tooltip "Izberi barvo besedila">
 <!ENTITY BackgroundColorButton.tooltip "Izberi barvo ozadja">
-<!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Pojdi na domačo stran &brandShortName;a">
 <!ENTITY HighlightColorButton.label "Označevalnik">
 <!ENTITY HighlightColorButton.tooltip "Izberi označevalno barvo besedila">
 
