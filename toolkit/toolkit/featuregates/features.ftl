@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (isolation af websteder) er 
 experimental-features-multi-pip =
     .label = Understøttelse af flere billede-i-billede
 experimental-features-multi-pip-description = Eksperimentel understøttelse for, at flere videoer kan vises som billede-i-billede på samme tid.
+experimental-features-http3 =
+    .label = HTTP/3-protokol
+experimental-features-http3-description = Eksperimentel understøttelse for HTTP/3-protokollen.
