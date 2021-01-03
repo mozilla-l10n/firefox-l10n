@@ -222,7 +222,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Gesponserte Verknüpfungen
 newtab-custom-pocket-title = Empfohlen von { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Besondere Inhalte, ausgewählt von { -pocket-brand-name }, Teil der { -brand-product-name }-Familie
+newtab-custom-pocket-subtitle = Besondere Inhalte ausgewählt von { -pocket-brand-name }, Teil der { -brand-product-name }-Familie
 newtab-custom-pocket-sponsored = Gesponserte Inhalte
 newtab-custom-recent-title = Jüngste Aktivität
 newtab-custom-recent-subtitle = Eine Auswahl kürzlicher Websites und Inhalte
