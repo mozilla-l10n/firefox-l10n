@@ -62,6 +62,9 @@ app-basics-enabled-plugins = Aktive plugins
 app-basics-build-config = Byggekonfiguration
 app-basics-user-agent = User Agent
 app-basics-os = Styresystem
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Hukommelsesforbrug
 app-basics-performance = Ydelse
 app-basics-service-workers = Registrerede Service Workers
@@ -185,6 +188,27 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Tredjeparts-moduler
+support-third-party-modules-module = Modulfil
+support-third-party-modules-version = Filversion
+support-third-party-modules-vendor = Information om leverandør
+support-third-party-modules-process = Proces-type og -ID
+support-third-party-modules-thread = Tråd
+support-third-party-modules-base = Imagebase-adresse
+support-third-party-modules-uptime = Oppetid for proces (ms)
+support-third-party-modules-duration = Indlæsningstid (ms)
+support-third-party-modules-empty = Ingen tredjeparts-moduler blev indlæst.
+support-third-party-modules-no-value = (Ingen værdi)
+support-third-party-modules-button-open =
+    .title = Åbn filplacering…
+support-third-party-modules-expand =
+    .title = Vis detaljeret information
+support-third-party-modules-collapse =
+    .title = Skjul detaljeret information
+support-third-party-modules-unsigned-icon =
+    .title = Dette modul er ikke signeret
+support-third-party-modules-folder-icon =
+    .title = Åbn filplacering…
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
