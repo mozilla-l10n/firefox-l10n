@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Proceda con precaución
 pane-experimental-search-results-header = { -brand-short-name } Experimentos: siga con precaución
 pane-experimental-description = O cambio de preferencias avanzadas de configuración pode afectar ao rendemento ou á seguridade de { -brand-short-name }.
+pane-experimental-reset =
+    .label = Restaurar predeterminados
+    .accesskey = R
 help-button-label = Asistencia do { -brand-short-name }
 addons-button-label = Extensións e temas
 focus-search =
@@ -497,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Os sitios que máis visita
 home-prefs-topsites-by-option-sponsored =
     .label = Principais sitios patrocinados
+home-prefs-shortcuts-header =
+    .label = Atallos
+home-prefs-shortcuts-description = Sitios gardados ou visitados
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Atallos patrocinados
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -504,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-update = Contido excepcional de toda a web, inspeccionado por { $provider }
+home-prefs-recommended-by-description-new = Contido excepcional patrocinado por { $provider }, parte da familia { -brand-product-name }
 
 ##
 
@@ -521,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = A descarga máis recente
 home-prefs-highlights-option-saved-to-pocket =
     .label = Páxinas gardadas en { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Actividade recente
+home-prefs-recent-activity-description = Unha selección de sitios e contido recentes
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -528,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Fragmentos
 home-prefs-snippets-description = Actualizacións de { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description-new = Consellos e novas de { -vendor-short-name } e { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -881,6 +894,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Rastrexadores entre sitios
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Rastreadores entre sitios e de redes sociais
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Cookies de rastrexo entre sitios — inclúe cookies de medios sociais
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cookies entre sitios — inclúe cookies de medios sociais
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Rastrexadores entre sitios e redes sociais e illar as cookies restantes
 sitedata-option-block-unvisited =
@@ -918,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Sitios favoritos
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Motores de busca
+    .accesskey = M
 addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 
 ## Privacy Section - Content Blocking
@@ -925,6 +945,7 @@ addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxe
 content-blocking-enhanced-tracking-protection = Protección avanzada de rastreo
 content-blocking-section-top-level-description = Os rastrexadores seguen a súa presenza para recoller información sobre os seus hábitos e intereses de navegación. { -brand-short-name } bloquea moitos destes rastrexadores e outros scripts maliciosos.
 content-blocking-learn-more = Máis información
+content-blocking-fpi-incompatibility-warning = Está a usar Illamento de Primeiras Partes (First Party Isolation, FPI), que anula algúns dos axustes de cookies de { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -946,6 +967,7 @@ content-blocking-etp-standard-desc = Equilibrado para a protección e o rendemen
 content-blocking-etp-strict-desc = Unha protección máis forte, pero pode atrapallar algúns sitios ou contido.
 content-blocking-etp-custom-desc = Escolla os rastreadores e scripts que bloquear.
 content-blocking-private-windows = Tracexamento de contido en xanelas privadas
+content-blocking-cross-site-cookies = Rastrexadores entre sitios
 content-blocking-cross-site-tracking-cookies = Cookies de seguimento entre sitios
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de rastrexo entre sitios e illar as cookies restantes
 content-blocking-social-media-trackers = Rastrexadores de redes sociais

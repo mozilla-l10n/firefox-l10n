@@ -51,6 +51,7 @@ printui-duplex-checkbox = Imprimir polos dous lados
 printui-options = Opcións
 printui-headers-footers-checkbox = Imprimir cabeceiras e rodapés
 printui-backgrounds-checkbox = Imprimir fondos
+printui-selection-checkbox = Imprimir só selección
 printui-color-mode-label = Modo de cores
 printui-color-mode-color = Cor
 printui-color-mode-bw = Branco e negro

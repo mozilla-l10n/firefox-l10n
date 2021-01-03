@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = O evento global <a data-
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = A adición dun construtor á interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, así como a unha variedade de cambios relacionados, fai posible crear directamente novas follas de estilo sen ter que engadir a folla ao HTML. Isto fai moito máis sinxelo crear follas de estilo reutilizables para o seu uso con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consulte <a data-l10n-name="bugzilla">erro 1520690</a> para máis detalles.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = API Web: Media Session API
-experimental-features-media-session-api-description = Toda a implementación { -brand-short-name } da Media Session API é actualmente experimental. Esta API úsase para personalizar o manexo de notificacións relacionadas con soportes, para xestionar eventos e datos útiles para presentar unha interface de usuario para xestionar a reprodución de medios e para obter metadatos de ficheiros multimedia. Consulte <a data-l10n-name="bugzilla">erro 1112032</a> para máis detalles.
 experimental-features-devtools-color-scheme-simulation =
     .label = Ferramentas para desenvolvedores: Simulación de esquemas de cores
 experimental-features-devtools-color-scheme-simulation-description = Engade unha opción para simular diferentes esquemas de cores que permiten probar <a data-l10n-name="mdn-preferscolorscheme">@ prefers-color-scheme</a> consultas de medios. Usar esta consulta multimedia permite que a súa folla de estilo responda a se o usuario prefire unha interface de usuario clara ou escura. Esta característica permítelle probar o seu código sen ter que cambiar a configuración no seu navegador (ou no sistema operativo, se o explorador segue unha configuración de esquemas de cores para todo o sistema). Vexa <a data-l10n-name="bugzilla1">erro 1550804</a> e <a data-l10n-name="bugzilla2">erro 1137699</a> para máis detalles.
@@ -87,7 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Ferramentas para desenvolvedores: depuración de traballadores
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Habilita soporte experimental para os traballadores de servizo no panel Depurador. Esta característica pode retardar as ferramentas para desenvolvedores e aumentar o consumo de memoria.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Imaxes: Ampliación con belisco suave
-experimental-features-graphics-desktop-zooming-description = Activar que se poida ampliar beliscando suavemente as pantallas táctiles e as áreas táctiles.
+experimental-features-http3 =
+    .label = Protocolo HTTP/3
+experimental-features-http3-description = Compatibilidade experimental para o protocolo HTTP/3.

@@ -187,6 +187,7 @@ remote-debugging-url = URL
 support-third-party-modules-title = Módulos de terceiros
 support-third-party-modules-module = Ficheiro de módulo
 support-third-party-modules-version = Versión do ficheiro
+support-third-party-modules-occurrence = Aparicións
 support-third-party-modules-process = Tipo de proceso e identificador
 support-third-party-modules-thread = Fío
 support-third-party-modules-uptime = Tempo de actividade do proceso (ms)
