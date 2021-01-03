@@ -62,6 +62,9 @@ app-basics-enabled-plugins = Shtojca të Aktivizuara
 app-basics-build-config = Formësim Montimi
 app-basics-user-agent = Agjent Përdoruesi
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Përdorim Kujtese
 app-basics-performance = Punim
 app-basics-service-workers = Service Workers të Regjistruar
@@ -182,6 +185,30 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Module Palësh të Treta
+support-third-party-modules-module = Kartelë Moduli
+support-third-party-modules-version = Version Kartele
+support-third-party-modules-vendor = Të dhëna Tregtuesi
+support-third-party-modules-occurrence = Përsëritje
+support-third-party-modules-process = Lloj & ID Procesi
+support-third-party-modules-thread = Rrjedhë
+support-third-party-modules-duration = Kohëzgjatje Ngarkese (ms)
+support-third-party-modules-empty = S’u ngarkuan module palësh të treta.
+support-third-party-modules-no-value = (S’ka vlerë)
+support-third-party-modules-button-open =
+    .title = Hapni vendndodhje kartele…
+support-third-party-modules-expand =
+    .title = Shfaq të dhëna të hollësishme
+support-third-party-modules-collapse =
+    .title = Tkurri të dhënat e hollësishme
+support-third-party-modules-unsigned-icon =
+    .title = Ky modul s’është i nënshkruar
+support-third-party-modules-folder-icon =
+    .title = Hapni vendndodhje kartele…
+support-third-party-modules-down-icon =
+    .title = Shfaq të dhëna të hollësishme
+support-third-party-modules-up-icon =
+    .title = Tkurri të dhënat e hollësishme
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

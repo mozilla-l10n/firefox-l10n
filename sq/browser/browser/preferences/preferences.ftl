@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Sajtet që vizitoni më tepër
 home-prefs-topsites-by-option-sponsored =
     .label = Sajte Kryesorë të Sponsorizuar
+home-prefs-shortcuts-header =
+    .label = Shkurtore
+home-prefs-shortcuts-description = Sajte që ruani ose vizitoni
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Shkurtore të sponsorizuara
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Rekomanduar nga { $provider }
 home-prefs-recommended-by-description-update = Lëndë e jashtëzakonshme nga anembanë intereti, nën përkujdesjen e { $provider }
+home-prefs-recommended-by-description-new = Lëndë e jashtëzakonshme, në kujdesin e { $provider }, pjesë e familjes { -brand-product-name }
 
 ##
 
@@ -524,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Shkarkimet Më të Reja
 home-prefs-highlights-option-saved-to-pocket =
     .label = Faqe të Ruajtura te { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Veprimtari së fundi
+home-prefs-recent-activity-description = Një përzgjedhje sajtesh dhe lënde së fundi
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -531,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Copëza
 home-prefs-snippets-description = Përditësime nga { -vendor-short-name } dhe { -brand-product-name }-i
+home-prefs-snippets-description-new = Ndihmëza dhe lajme nga { -vendor-short-name } dhe { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -925,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Sajte Kryesues
     .accesskey = K
+addressbar-locbar-engines-option =
+    .label = Motorë kërkimesh
+    .accesskey = k
 addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga motorë kërkimi
 
 ## Privacy Section - Content Blocking
