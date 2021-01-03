@@ -209,6 +209,10 @@ support-third-party-modules-unsigned-icon =
     .title = Dette modul er ikke signeret
 support-third-party-modules-folder-icon =
     .title = Åbn filplacering…
+support-third-party-modules-down-icon =
+    .title = Vis detaljeret information
+support-third-party-modules-up-icon =
+    .title = Skjul detaljeret information
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
