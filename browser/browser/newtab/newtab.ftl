@@ -224,3 +224,14 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsorerede genveje
 newtab-custom-pocket-title = Anbefalet af { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Interessant indhold udvalgt af { -pocket-brand-name }, en del af { -brand-product-name }-familien
+newtab-custom-pocket-sponsored = Sponsorerede historier
+newtab-custom-recent-title = Seneste aktivitet
+newtab-custom-recent-subtitle = Et udvalg af seneste websteder og indhold
+newtab-custom-close-button = Luk
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Notitser
+newtab-custom-snippets-subtitle = Tips og nyheder fra { -vendor-short-name } og { -brand-product-name }
+newtab-custom-settings = Håndter flere indstillinger
