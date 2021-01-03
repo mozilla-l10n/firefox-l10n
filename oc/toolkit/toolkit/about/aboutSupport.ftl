@@ -185,10 +185,12 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Moduls tèrces
 support-third-party-modules-module = Fichièr del modul
 support-third-party-modules-version = Version del fichièr
 support-third-party-modules-vendor = ID del vendeire
 support-third-party-modules-occurrence = Occuréncia
+support-third-party-modules-process = Tipe et ID de procediment
 support-third-party-modules-thread = Fil d’execucion
 support-third-party-modules-duration = Durada de cargament (ms)
 support-third-party-modules-no-value = (Cap de valor)

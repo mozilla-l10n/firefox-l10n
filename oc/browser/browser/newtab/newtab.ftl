@@ -218,6 +218,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Acorchis pairinejats
 newtab-custom-pocket-title = Recomandat per { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Contengut excepcional seleccionat per { -pocket-brand-name }, membre de la familha { -brand-product-name }
 newtab-custom-pocket-sponsored = Istòrias pairinejadas
 newtab-custom-recent-title = Activitat recenta
 newtab-custom-recent-subtitle = Una seleccion de sites e contenguts recents
