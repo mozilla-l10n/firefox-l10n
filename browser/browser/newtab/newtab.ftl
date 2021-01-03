@@ -225,5 +225,12 @@ newtab-custom-sponsored-sites = Спонсарскія цэтлікі
 newtab-custom-pocket-title = Рэкамендавана { -pocket-brand-name }
 newtab-custom-pocket-sponsored = Артыкулы ад спонсараў
 newtab-custom-recent-title = Апошняя актыўнасць
+newtab-custom-recent-subtitle = Падборка нядаўніх сайтаў і змесціва
 newtab-custom-close-button = Закрыць
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Урыўкі
+newtab-custom-snippets-subtitle = Парады і навіны ад { -vendor-short-name } і { -brand-product-name }
 newtab-custom-settings = Кіраваць дадатковымі наладамі
