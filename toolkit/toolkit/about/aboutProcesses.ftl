@@ -2,11 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Správca procesov
+# The Actions column
+about-processes-column-action =
+    .title = Akcie
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Zavrieť karty a zrušiť proces
 about-processes-shutdown-tab =
-    .title = Zatvoriť kartu
+    .title = Zavrieť kartu
 
 ## Column headers
 
@@ -20,6 +27,7 @@ about-processes-column-cpu-total = Procesor
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
 
 ## Details within processes
 
