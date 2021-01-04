@@ -44,6 +44,7 @@ about-processes-rdd-process-name = Dekodér údajov (proces { $pid })
 about-processes-socket-process-name = Sieť (proces { $pid })
 about-processes-remote-sandbox-broker-process-name = Broker vzdialeného sandboxu (proces { $pid })
 about-processes-fork-server-process-name = Fork Server (proces { $pid })
+about-processes-preallocated-process-name = Vopred pridelený (proces { $pid })
 about-processes-unknown-process-name = Iný ({ $type }, proces { $pid })
 # Process
 # Variables:
