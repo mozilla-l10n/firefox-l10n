@@ -502,6 +502,8 @@ home-prefs-topsites-by-option-sponsored =
     .label = Sites populaires sponsorisés
 home-prefs-shortcuts-header =
     .label = Raccourcis
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Raccourcis sponsorisés
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -529,6 +531,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Pages enregistrées dans { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Activité récente
+home-prefs-recent-activity-description = Une sélection de sites et de contenus récents
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -536,6 +539,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Brèves
 home-prefs-snippets-description = Actualité de { -vendor-short-name } et { -brand-product-name }
+home-prefs-snippets-description-new = Astuces et actualité de { -vendor-short-name } et { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
