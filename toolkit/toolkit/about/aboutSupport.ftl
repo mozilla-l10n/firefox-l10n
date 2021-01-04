@@ -188,8 +188,11 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Модулі іншых вытворцаў
+support-third-party-modules-module = Файл модуля
 support-third-party-modules-version = Версія файла
 support-third-party-modules-vendor = Інфармацыя пра вытворцу
+support-third-party-modules-occurrence = Копіі
 support-third-party-modules-no-value = (Няма значэння)
 support-third-party-modules-button-open =
     .title = Адкрыць месцазнаходжанне файла…
