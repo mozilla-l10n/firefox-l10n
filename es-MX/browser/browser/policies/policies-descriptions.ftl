@@ -79,6 +79,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Volver al comportamien
 ##
 
 policy-LocalFileLinks = Permitir a sitios web específicos para enlazar a archivos locales.
+policy-ManagedBookmarks = Configura una lista de marcadores administrada por un administrador que el usuario no puede cambiar.
 policy-MasterPassword = Requerir o  bloquear el uso de una contraseña maestra.
 policy-PrimaryPassword = Requerir o evitar el uso de una contraseña maestra.
 policy-NetworkPrediction = Habilitar o deshabilitar predicción de red (búsqueda previa de DNS).
