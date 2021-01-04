@@ -28,9 +28,42 @@ about-processes-column-cpu-total = Procesor
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
+about-processes-web-process-name = Webová stránka (proces { $pid }, zdieľaný)
+about-processes-web-isolated-process-name = Webová stránka (proces { $pid }) z { $origin }
+about-processes-web-large-allocation = Webová stránka (proces { $pid }, veľký) z { $origin }
+about-processes-with-coop-coep-process-name = Webová stránka (process { $pid }, izolovaný kvôli cross-origin) z { $origin }
+about-processes-file-process-name = Súbory (proces { $pid })
+about-processes-extension-process-name = Rozšírenia (proces { $pid })
+about-processes-privilegedabout-process-name = Čo je (proces { $pid })
+about-processes-plugin-process-name = Zásuvné moduly (proces { $pid })
+about-processes-privilegedmozilla-process-name = Webová stránka (process { $pid }) pre stránky { -vendor-short-name }
+about-processes-vr-process-name = VR (proces { $pid })
+about-processes-socket-process-name = Sieť (proces { $pid })
+about-processes-unknown-process-name = Iný ({ $type }, proces { $pid })
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Proces { $pid }: { $name }
 
 ## Details within processes
 
+# Single-line summary of threads
+# Variables:
+#    $number (Number) The number of threads in the process. Typically larger
+#                     than 30. We don't expect to ever have processes with less
+#                     than 5 threads.
+about-processes-thread-summary = Vlákien: ({ $number })
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name = Vlákno { $tid }: { $name }
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = Karta: { $name }
+about-processes-preloaded-tab = Prednačítaná Nová karta
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -53,6 +86,10 @@ about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) } { $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) } { $totalUnit }
 
 ## Duration units
 
