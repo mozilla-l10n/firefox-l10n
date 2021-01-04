@@ -227,4 +227,5 @@ newtab-custom-close-button = Fermer
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Brèves
+newtab-custom-snippets-subtitle = Astuces et actualité de { -vendor-short-name } et { -brand-product-name }
 newtab-custom-settings = Gérer plus de paramètres
