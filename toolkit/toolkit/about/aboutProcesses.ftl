@@ -37,8 +37,13 @@ about-processes-extension-process-name = Rozšírenia (proces { $pid })
 about-processes-privilegedabout-process-name = Čo je (proces { $pid })
 about-processes-plugin-process-name = Zásuvné moduly (proces { $pid })
 about-processes-privilegedmozilla-process-name = Webová stránka (process { $pid }) pre stránky { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Zásuvné moduly Gecko Media (proces { $pid })
+about-processes-gpu-process-name = Grafický procesor (proces { $pid })
 about-processes-vr-process-name = VR (proces { $pid })
+about-processes-rdd-process-name = Dekodér údajov (proces { $pid })
 about-processes-socket-process-name = Sieť (proces { $pid })
+about-processes-remote-sandbox-broker-process-name = Broker vzdialeného sandboxu (proces { $pid })
+about-processes-fork-server-process-name = Fork Server (proces { $pid })
 about-processes-unknown-process-name = Iný ({ $type }, proces { $pid })
 # Process
 # Variables:
@@ -64,6 +69,15 @@ about-processes-thread-name = Vlákno { $tid }: { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Karta: { $name }
 about-processes-preloaded-tab = Prednačítaná Nová karta
+# Single subframe
+# Variables:
+#   $url (String) The full url of this subframe.
+about-processes-frame-name-one = Podrámec: { $url }
+# Group of subframes
+# Variables:
+#   $number (Number) The number of subframes in this group. Always ≥ 1.
+#   $shortUrl (String) The shared prefix for the subframes in the group.
+about-processes-frame-name-many = Podrámce ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -74,6 +88,12 @@ about-processes-preloaded-tab = Prednačítaná Nová karta
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) } { $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (prebieha meranie)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = nečinný ({ NUMBER($total, maximumFractionDigits: 2) } { $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
