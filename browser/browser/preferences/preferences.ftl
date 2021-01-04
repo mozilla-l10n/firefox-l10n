@@ -29,6 +29,8 @@ search-input-box =
            *[other] Encontrar en configuraciones
         }
 managed-notice = Tu organización gestiona el navegador.
+category-list =
+    .aria-label = Categorías
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -50,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Continuar con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: proceder con precaución
 pane-experimental-description = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
+pane-experimental-reset =
+    .label = Restaurar predeterminados
+    .accesskey = R
 help-button-label = Soporte de { -brand-short-name }
 addons-button-label = Complementos y temas
 focus-search =
@@ -426,6 +431,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Habilitar controles de video picture-in-picture
     .accesskey = A
 browsing-picture-in-picture-learn-more = Saber más
+browsing-media-control =
+    .label = Controla los medios con el teclado, los auriculares o la interfaz virtual
+    .accesskey = v
+browsing-media-control-learn-more = Saber más
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
     .accesskey = R
@@ -489,6 +498,13 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Sitios populares
 home-prefs-topsites-description = Los sitios que más visitas
+home-prefs-topsites-by-option-sponsored =
+    .label = Sitios principales patrocinados
+home-prefs-shortcuts-header =
+    .label = Atajos
+home-prefs-shortcuts-description = Sitios que guardas o visitas
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Atajos patrocinados
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
