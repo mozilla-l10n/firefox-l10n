@@ -218,4 +218,6 @@ newtab-custom-row-selector =
         [one] { $num } rad
        *[other] { $num } rader
     }
+newtab-custom-sponsored-sites = Sponsa snarvegar
+newtab-custom-pocket-title = Tilrådd av { -pocket-brand-name }
 newtab-custom-close-button = Lat att
