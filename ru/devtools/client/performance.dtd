@@ -43,7 +43,7 @@
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показывает, как была распределена память во время записи.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Пламенный График JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Показывает стек вызовов JavaScript во время записи.">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "Пламенный График Аллокаций">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Пламенный График Выделений">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
