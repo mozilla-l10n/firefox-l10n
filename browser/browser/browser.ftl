@@ -229,7 +229,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = В этот раз искать с помощью:
+search-one-offs-with-title = В этот раз искать в:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -260,11 +260,11 @@ search-one-offs-engine-with-alias =
 ##    bookmarks).
 
 search-one-offs-bookmarks =
-    .tooltiptext = Закладки ({ $restrict })
+    .tooltiptext = Закладках ({ $restrict })
 search-one-offs-tabs =
-    .tooltiptext = Вкладки ({ $restrict })
+    .tooltiptext = Вкладках ({ $restrict })
 search-one-offs-history =
-    .tooltiptext = Журнал ({ $restrict })
+    .tooltiptext = Журнале ({ $restrict })
 
 ## Bookmark Panel
 
