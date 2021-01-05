@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Problèma al moment de cargar la pagina">
+<!ENTITY loadError.label "Problèma al cargament de la pagina">
 <!ENTITY retry.label "Tornar ensajar">
 <!ENTITY returnToPreviousPage.label "Tornar en arrièr">
 <!ENTITY returnToPreviousPage1.label "Tornar (recomandat)">
