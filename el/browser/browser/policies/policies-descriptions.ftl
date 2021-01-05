@@ -49,7 +49,7 @@ policy-DisableSystemAddonUpdate = Αποτροπή εγκατάστασης κα
 policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
 policy-DisplayBookmarksToolbar = Προβολή της γραμμής σελιδοδεικτών από προεπιλογή.
 policy-DisplayMenuBar = Προβολή γραμμής μενού από προεπιλογή.
-policy-DNSOverHTTPS = Ρύθμιση DNS αντί HTTPS.
+policy-DNSOverHTTPS = Ρύθμιση παραμέτρων DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Απενεργοποίηση ελέγχου για το προεπιλεγμένο πρόγραμμα περιήγησης κατά την εκκίνηση.
 policy-DownloadDirectory = Ορισμός και κλείδωμα καταλόγου λήψης.
 # “lock” means that the user won’t be able to change this setting
@@ -79,8 +79,8 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά σ�
 ##
 
 policy-LocalFileLinks = Να επιτρέπεται σε συγκεκριμένες ιστοσελίδες η σύνδεση με τοπικά αρχεία.
-policy-MasterPassword = Απαίτηση ή αποτροπή χρήσης κύριου κωδικού πρόσβασης.
 policy-ManagedBookmarks = Ρυθμίζει μια λίστα σελιδοδεικτών που διαχειρίζεται ένας διαχειριστής και δεν μπορεί να τροποποιηθεί από το χρήστη.
+policy-MasterPassword = Απαίτηση ή αποτροπή χρήσης κύριου κωδικού πρόσβασης.
 policy-PrimaryPassword = Απαίτηση ή αποτροπή χρήσης κύριου κωδικού πρόσβασης.
 policy-NetworkPrediction = Ενεργοποίηση ή απενεργοποίηση πρόβλεψης δικτύου (προφόρτωση DNS).
 policy-NewTabPage = Ενεργοποίηση ή απενεργοποίηση της σελίδας νέας καρτέλας.
