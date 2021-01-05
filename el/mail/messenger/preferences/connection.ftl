@@ -81,5 +81,5 @@ proxy-remote-dns =
     .label = Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5
     .accesskey = d
 proxy-enable-doh =
-    .label = Ενεργοποίηση DNS αντί HTTPS
+    .label = Ενεργοποίηση DNS over HTTPS
     .accesskey = γ
