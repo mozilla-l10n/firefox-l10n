@@ -220,4 +220,5 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Sponsa snarvegar
 newtab-custom-pocket-title = Tilrådd av { -pocket-brand-name }
+newtab-custom-recent-title = Nyleg aktivitet
 newtab-custom-close-button = Lat att
