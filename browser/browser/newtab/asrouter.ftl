@@ -129,6 +129,9 @@ cfr-whatsnew-lockwise-take-link-text = Преузмите апликацију
 
 cfr-whatsnew-searchbar-title = Куцајте мање, нађите више помоћу адресне траке
 cfr-whatsnew-searchbar-body-topsites = Сада само одаберите адресну траку и оквир ће се проширити са везама до ваших најпосећенијих страница.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Иконица лупе
 
 ## Picture-in-Picture
@@ -263,6 +266,7 @@ cfr-doorhanger-doh-secondary-button = Онемогући
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Ваша приватност је битна. { -brand-short-name } сада изолује веб странице, што хакерима отежава крађу лозинки, бројева кредитних картица и других осетљивих података.
 cfr-doorhanger-fission-primary-button = У реду, разумем
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Сазнајте више
@@ -277,3 +281,6 @@ cfr-whatsnew-clear-cookies-image-alt = Колачић је блокирао ил
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-button = Сазнајте како
+
+## What's new: Search shortcuts
+
