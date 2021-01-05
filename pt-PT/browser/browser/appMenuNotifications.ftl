@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = u
     .secondarybuttonlabel = Agora não
     .secondarybuttonaccesskey = n
+appmenu-update-other-instance-message = Está disponível uma nova atualização para o { -brand-shorter-name }, mas a mesma não pode ser instalada porque está em execução uma outra cópia do { -brand-shorter-name }. Encerre a mesma para continuar a atualização ou opte por atualizar mesmo assim (a outra cópia pode não funcionar corretamente até que a reinicie).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, entendi
     .buttonaccesskey = O
