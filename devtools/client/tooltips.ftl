@@ -27,7 +27,7 @@ inactive-css-not-display-block-on-floated = Значение свойства <s
 inactive-css-property-is-impossible-to-override-in-visited = Нельзя переопределить <strong>{ $property }</strong> из-за ограничений псевдокласса <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> не сработает для элемента, так как он не является позиционированным элементом.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> не сработает для элемента, так как <strong>overflow:hidden</strong> не установлено.
-inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> не сработает для элемента, так как его <strong>outline-style</strong> установлен в <strong>auto</strong> или <strong>none</strong>.
+inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> не сработает для элемента, так как его <strong>outline-style</strong> установлено в <strong>auto</strong> или <strong>none</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -44,9 +44,9 @@ inactive-css-not-inline-or-tablecell-fix = Попробуйте добавить
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Попробуйте добавить <strong>display:inline-block</strong> или <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Попробуйте добавить <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Попробуйте удалить свойство <strong>float</strong> или добавить <strong>display:block</strong>. { learn-more }
-inactive-css-position-property-on-unpositioned-box-fix = Попробуйте установить для его свойства <strong>position</strong> значение, отличное от <strong>static</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Попробуйте установить для свойства <strong>position</strong> значение, отличное от <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Попробуйте добавить <strong>overflow:hidden</strong>. { learn-more }
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Попробуйте установить для его свойства <strong>outline-style</strong> значение, отличное от <strong>auto</strong> или <strong>none</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Попробуйте установить для свойства <strong>outline-style</strong> значение, отличное от <strong>auto</strong> или <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

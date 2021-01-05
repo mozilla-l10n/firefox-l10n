@@ -5,11 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = О Service Workers
-about-service-workers-main-title = Зарегистрированные Service Workers
-about-service-workers-warning-not-enabled = Service Workers не включены.
+about-service-workers-title = О Service Worker'ах
+about-service-workers-main-title = Зарегистрированные Service Worker'ы
+about-service-workers-warning-not-enabled = Нет включённых Service Worker'ов.
 about-service-workers-warning-no-service-workers = Ни одного Service Worker не зарегистрировано.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Имя активного кэша:</strong> { $name
 waiting-cache-name = <strong>Имя кэша ожидания:</strong> { $name }
 push-end-point-waiting = <strong>Конечная точка Push:</strong> { waiting }
 push-end-point-result = <strong>Конечная точка Push:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Обновить
-
 unregister-button = Разрегистрировать
-
 unregister-error = Не удалось разрегистрировать этот Service Worker.
-
 waiting = Ожидание…

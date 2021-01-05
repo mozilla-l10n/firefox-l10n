@@ -29,7 +29,7 @@ experimental-features-web-api-link-preload =
     .label = Web API: <link rel="preload">
 # Do not translate "rel", "preload" or "link" here, as they are all HTML spec
 # values that do not get translated.
-experimental-features-web-api-link-preload-description = Атрибут <a data-l10n-name="rel">rel</a> со значением <code>"preload"</code> в элементе <a data-l10n-name="link">&lt;link&gt;</a> предназначен для повышения производительности, позволяя вам загружать ресурсы на более ранних этапах жизненного цикла страницы, гарантируя, что они доступны раньше и с меньшей вероятностью блокируя рендеринг страниц. Для получения дополнительной информации прочитайте <a data-l10n-name="readmore">“Предзагрузка содержимого с помощью <code>rel="preload"</code>”</a> или прочитайте  <a data-l10n-name="bugzilla">баг 1583604</a>.
+experimental-features-web-api-link-preload-description = Атрибут <a data-l10n-name="rel">rel</a> со значением <code>"preload"</code> в элементе <a data-l10n-name="link">&lt;link&gt;</a> предназначен для повышения производительности, позволяя вам загружать ресурсы на более ранних этапах жизненного цикла страницы, гарантируя, что они будут доступны раньше и с меньшей вероятностью будут блокировать рендеринг страниц. Для получения дополнительной информации прочитайте <a data-l10n-name="readmore">“Предзагрузка содержимого с помощью <code>rel="preload"</code>”</a> или прочитайте <a data-l10n-name="bugzilla">баг 1583604</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-focus-visible =
@@ -55,7 +55,7 @@ experimental-features-devtools-execution-context-selector =
 experimental-features-devtools-execution-context-selector-description = Эта функция отображает кнопку в командной строке консоли, позволяющую изменить контекст, в котором будет выполняться введённое вами выражение. Для получения дополнительной информации прочитайте <a data-l10n-name="bugzilla1">баг 1605154</a> и <a data-l10n-name="bugzilla2">баг 1605153</a>.
 experimental-features-devtools-compatibility-panel =
     .label = Инструменты разработчика: Панель совместимости
-experimental-features-devtools-compatibility-panel-description = Боковая панель для Инспектора страниц, отображающая информацию о состоянии кросс-браузерной совместимости  вашего приложения. Для получения дополнительной информации прочитайте <a data-l10n-name="bugzilla">баг 1584464</a>.
+experimental-features-devtools-compatibility-panel-description = Боковая панель для Инспектора страниц, отображающая информацию о состоянии кроссбраузерной совместимости вашего приложения. Для получения дополнительной информации прочитайте <a data-l10n-name="bugzilla">баг 1584464</a>.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Куки: SameSite = Lax по умолчанию
@@ -76,12 +76,12 @@ experimental-features-print-preview-tab-modal-description = Активирует
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Куки: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Рассматривать куки из одинакового домена, но с отличающимися схемами (например, http://example.com и https://example.com) как кросс-сайтовые, а не относящиеся к одному сайту. Повышает безопасность, но потенциально может привести к нарушению работы.
+experimental-features-cookie-samesite-schemeful-description = Рассматривать куки из одинакового домена, но с отличающимися схемами (например, http://example.com и https://example.com) как межсайтовые, а не относящиеся к одному сайту. Повышает безопасность, но потенциально может привести к нарушению работы.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Инструменты разработчика: Отладка Service Worker
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Включает экспериментальную поддержку для Service Workers на Панели отладчика. Это функция может замедлять работу Инструментов разработчика и увеличить потребление памяти.
+experimental-features-devtools-serviceworker-debugger-support-description = Добавляет экспериментальную поддержку Service Workers'ов на Панель отладчика. Это функция может замедлять работу Инструментов разработчика и увеличить потребление памяти.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Переключатель глобального отключения звука WebRTC

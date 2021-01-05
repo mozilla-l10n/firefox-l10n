@@ -64,7 +64,7 @@ app-basics-os = ОС
 app-basics-rosetta = Бинарная трансляция Rosetta
 app-basics-memory-use = Использование памяти
 app-basics-performance = Производительность
-app-basics-service-workers = Зарегистрированные Service Workers
+app-basics-service-workers = Зарегистрированные Service Worker'ы
 app-basics-profiles = Профили
 app-basics-launcher-process-status = Запускающий процесс
 app-basics-multi-process-support = Многопроцессные окна
@@ -308,7 +308,7 @@ blocklisted-bug = Заблокировано из-за известных про
 bug-link = проблема { $bugNumber }
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
-support-blocklisted-bug = Занесено в чёрный список из-за известных проблем: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+support-blocklisted-bug = Занесено в чёрный список из-за известных проблем: <a data-l10n-name="bug-link">баг { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Заблокировано; код ошибки { $failureCode }
