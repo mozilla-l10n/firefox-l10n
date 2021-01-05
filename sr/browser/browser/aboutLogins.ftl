@@ -170,7 +170,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
 confirm-delete-dialog-message = Ова радња се не може опозвати.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
-about-logins-confirm-remove-all-dialog-confirm-button = Уклони све
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Уклони
+        [one] Уклони
+        [few] Уклони све
+       *[other] Уклони све
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Да, уклони ову пријаву
