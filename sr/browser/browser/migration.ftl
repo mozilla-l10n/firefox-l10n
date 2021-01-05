@@ -54,6 +54,8 @@ import-source-page-title = Увези подешавања и податке
 import-items-page-title = Ставке за увоз
 import-items-description = Изаберите ставке за увоз:
 import-permissions-page-title = Одобрите дозволе за { -brand-short-name }
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS захтева да дозволите { -brand-short-name }-у изричит приступ Safari обележивачима. Кликните “Настави” и на приказаном File Open панелу одаберите “Bookmarks.plist” датотеку.
 import-migrating-page-title = Увоз…
 import-migrating-description = Наредне ставке се тренутно увозе…
 import-select-profile-page-title = Избор профила
