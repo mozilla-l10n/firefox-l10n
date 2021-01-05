@@ -282,6 +282,7 @@ cfr-whatsnew-clear-cookies-image-alt = Колачић је блокирао ил
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Више медијских контрола
+cfr-whatsnew-media-keys-body = Репродукујте и паузирајте звук или видео преко тастатуре или слушалица, олакшавајући тако управљање медијима из другог језичка, програма или док је рачунар закључан. Такође се можете користити тастерима напред и назад за кретање између нумера.
 cfr-whatsnew-media-keys-button = Сазнајте како
 
 ## What's new: Search shortcuts
