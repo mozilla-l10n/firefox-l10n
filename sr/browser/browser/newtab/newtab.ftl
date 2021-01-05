@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Омиљени сајтови
 newtab-section-header-highlights = Истакнуто
+newtab-section-header-recent-activity = Недавна активност
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Предложио { $provider }
@@ -206,3 +207,28 @@ newtab-pocket-cta-text = Сачувајте приче које волите у 
 
 newtab-error-fallback-info = Упс, дошло је до грешке приликом учитавања овог садржаја.
 newtab-error-fallback-refresh-link = Освежите страницу да покушате поново.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Пречице
+newtab-custom-shortcuts-subtitle = Сајтови које чувате или посећујете
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } ред
+        [few] { $num } реда
+       *[other] { $num } редова
+    }
+newtab-custom-sponsored-sites = Спонзорисане пречице
+newtab-custom-pocket-title = Препоручио { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Изузетан садржај који је уредио { -pocket-brand-name }, део { -brand-product-name } породице
+newtab-custom-pocket-sponsored = Спонзорисане приче
+newtab-custom-recent-title = Недавна активност
+newtab-custom-recent-subtitle = Избор недавних сајтова и садржаја
+newtab-custom-close-button = Затвори
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Исечци
+newtab-custom-snippets-subtitle = Савети и новости од { -vendor-short-name }-а и { -brand-product-name }-а
+newtab-custom-settings = Управљај подешавањима

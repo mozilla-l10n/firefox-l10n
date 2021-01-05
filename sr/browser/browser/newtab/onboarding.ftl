@@ -95,6 +95,7 @@ return-to-amo-subtitle = Одлично, имате { -brand-short-name }
 # Variables:
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Сада преузмите и <img data-l10n-name="icon"/> { $addon-name }</b>.
+return-to-amo-add-extension-label = Додајте проширење
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 

@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Отвори у новом приватном прозору
     .accesskey = P
-
 places-new-bookmark =
     .label = Нова забелешка…
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Нови сепаратор
     .accesskey = S
-
 places-view =
     .label = Преглед
     .accesskey = w
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = По датуму и сајту
     .accesskey = t
-
 places-history-search =
     .placeholder = Претражите историју
 places-bookmarks-search =
     .placeholder = Претражите забелешке
-
 places-delete-domain-data =
     .label = Заборави на овај сајт
     .accesskey = F
@@ -64,3 +60,12 @@ places-sortby-name =
 places-properties =
     .label = Својства
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Управљај обележивачима
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Подфасцикла
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Остали обележивачи
