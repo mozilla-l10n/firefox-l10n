@@ -81,8 +81,7 @@ certificate-viewer-authority-info-aia = Подаци сертификацион�
 certificate-viewer-certificate-policies = Сертификационе политике
 certificate-viewer-embedded-scts = Уграђени SCTs
 certificate-viewer-crl-endpoints = Крајње тачке CRL-а
-
-# This message is used as a row header in the Miscellaneous section. 
+# This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Преузми
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
@@ -101,12 +100,16 @@ certificate-viewer-download-pem = PEM (сертификат)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ланац)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Ово проширење је означено као критично, што значи да би купци требало да одбаце сертификат ако га не разумеју.
 certificate-viewer-export = Извоз
     .download = { $fileName }.pem
+
+##
+
+# Label for a tab where we haven't found a better label:
+certificate-viewer-unknown-group-label = (непознато)
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
