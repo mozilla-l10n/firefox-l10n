@@ -8,6 +8,9 @@
 newtab-page-title = Нови језичак
 newtab-settings-button =
     .title = Прилагодите страницу новог језичка
+newtab-personalize-button-label = Персонализуј
+    .title = Персонализуј нови језичак
+    .aria-label = Персонализуј нови језичак
 
 ## Search box component.
 
