@@ -267,6 +267,7 @@ cfr-doorhanger-doh-secondary-button = Онемогући
 ## Fission Experiment Message
 
 cfr-doorhanger-fission-body-approved = Ваша приватност је битна. { -brand-short-name } сада изолује веб странице, што хакерима отежава крађу лозинки, бројева кредитних картица и других осетљивих података.
+cfr-doorhanger-fission-header = Изолација сајта
 cfr-doorhanger-fission-primary-button = У реду, разумем
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Сазнајте више
@@ -280,6 +281,7 @@ cfr-whatsnew-clear-cookies-image-alt = Колачић је блокирао ил
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Више медијских контрола
 cfr-whatsnew-media-keys-button = Сазнајте како
 
 ## What's new: Search shortcuts
