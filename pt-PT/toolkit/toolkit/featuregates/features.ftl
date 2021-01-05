@@ -98,3 +98,6 @@ experimental-features-fission-description = O Fission (isolamento de sites) é u
 experimental-features-multi-pip =
     .label = Suporte a múltiplos vídeos em janelas flutuantes
 experimental-features-multi-pip-description = Suporte experimental para permitir que múltiplos vídeos possam ser abertos em várias janelas flutuantes em simultâneo.
+experimental-features-http3 =
+    .label = Protocolo HTTP/3
+experimental-features-http3-description = Suporte experimental para o protocolo HTTP/3.
