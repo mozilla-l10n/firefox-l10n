@@ -28,7 +28,7 @@ printui-range-start = С
 printui-range-end = по
 printui-page-custom-range-input =
     .aria-label = Введите свой диапазон страниц
-    .placeholder = например 2-6, 9, 12-16
+    .placeholder = например, 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Число копий
 printui-orientation = Ориентация

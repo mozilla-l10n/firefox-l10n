@@ -22,6 +22,8 @@
     { $case ->
        *[nominative] Аккаунт Firefox
         [genitive] Аккаунта Firefox
+        [dative] Аккаунту Firefox
+        [accusative] Аккаунт Firefox
         [instrumental] Аккаунтом Firefox
         [prepositional] Аккаунте Firefox
     }

@@ -83,7 +83,7 @@ about-debugging-setup-title = Настройка
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Выберите метод подключения, с помощью которого вы хотите удалённо отлаживать ваше устройство.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Используйте <a>{ about-debugging-this-firefox-runtime-name }</a> для отладки расширений и service workers на этой версии { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = Используйте <a>{ about-debugging-this-firefox-runtime-name }</a> для отладки расширений и service worker'ов в этой версии { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Подключить устройство
 # USB section of the Setup page
@@ -155,7 +155,7 @@ about-debugging-runtime-tabs =
     .name = Вкладки
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Service Workers
+    .name = Service Worker'ы
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
     .name = Shared Workers
@@ -171,7 +171,7 @@ about-debugging-runtime-profile-button2 = Профилировать произ�
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
-about-debugging-runtime-service-workers-not-compatible = Конфигурация вашего браузера не совместима с Service Workers. <a>Узнайте больше</a>
+about-debugging-runtime-service-workers-not-compatible = Конфигурация вашего браузера не совместима с Service Worker'ами. <a>Узнайте больше</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
