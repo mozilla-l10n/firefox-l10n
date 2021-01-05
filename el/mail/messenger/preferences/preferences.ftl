@@ -380,7 +380,7 @@ close-move-delete =
 display-name-label =
     .value = Εμφανιζόμενο όνομα:
 condensed-addresses-label =
-    .label = Εμφάνιση μόνο του ονόματος εμφάνισης για τα άτομα στο ευρετήριο διευθύνσεών μου
+    .label = Προβολή μόνο του εμφανιζόμενου ονόματος για άτομα του ευρετηρίου μου
     .accesskey = ε
 
 ## Compose Tab
