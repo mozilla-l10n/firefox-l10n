@@ -63,7 +63,7 @@ tab-context-close-multiple-tabs =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Deshacer cierre de pestañas
+            [1] Deshacer cierre de pestaña
             [one] Deshacer cierre de pestaña
            *[other] Deshacer cierre de pestañas
         }
