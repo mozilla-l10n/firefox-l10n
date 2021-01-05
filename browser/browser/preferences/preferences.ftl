@@ -501,6 +501,13 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Омиљени сајтови
 home-prefs-topsites-description = Сајтови које највише посећујете
+home-prefs-topsites-by-option-sponsored =
+    .label = Спонзорисани популарни сајтови
+home-prefs-shortcuts-header =
+    .label = Пречице
+home-prefs-shortcuts-description = Сајтови које чувате или посећујете
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Спонзорисане пречице
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -508,6 +515,7 @@ home-prefs-topsites-description = Сајтови које највише пос�
 home-prefs-recommended-by-header =
     .label = Предложио { $provider }
 home-prefs-recommended-by-description-update = Истакнути садржај са интернета, који обезбеђује { $provider }
+home-prefs-recommended-by-description-new = Изузетан садржај који је уредио { $provider }, део { -brand-product-name } породице
 
 ##
 
@@ -525,6 +533,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Најновије преузимање
 home-prefs-highlights-option-saved-to-pocket =
     .label = Странице сачуване у { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Недавна активност
+home-prefs-recent-activity-description = Избор недавних сајтова и садржаја
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -532,6 +543,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Исечци
 home-prefs-snippets-description = Новости од { -vendor-short-name }-е и { -brand-product-name }-а
+home-prefs-snippets-description-new = Савети и новости од { -vendor-short-name }-а и { -brand-product-name }-а
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -573,6 +585,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic = Измените посдешавања предлога претраживања
 search-suggestions-cant-show = Предлози претраге неће бити приказани у траци за локацију зато што сте подесили да { -brand-short-name } никада не памти историју.
 search-one-click-header = One-click претраживачи
+search-one-click-header2 = Претражи пречице
 search-one-click-desc = Изаберите алтернативне претраживаче који ће се појављивати испод адресне траке и траке за претрагу приликом уноса кључне речи.
 search-choose-engine-column =
     .label = Претраживач
