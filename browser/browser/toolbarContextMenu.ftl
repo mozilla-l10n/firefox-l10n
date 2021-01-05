@@ -26,21 +26,18 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Врати затворених језичака
         }
     .accesskey = U
-
 toolbar-context-menu-manage-extension =
     .label = Управљај екстензијама
     .accesskey = е
 toolbar-context-menu-remove-extension =
     .label = Обриши екстензију
     .accesskey = ш
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Пријави проширење
     .accesskey = о
-
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
@@ -56,3 +53,24 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Прилагоди…
     .accesskey = ш
+toolbar-context-menu-bookmarks-toolbar-always-show =
+    .label = Увек
+    .accesskey = A
+toolbar-context-menu-bookmarks-toolbar-never-show =
+    .label = Никад
+    .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab =
+    .label = Само у новом језичку
+    .accesskey = O
+toolbar-context-menu-bookmarks-toolbar-always-show-2 =
+    .label = Увек прикажи
+    .accesskey = A
+toolbar-context-menu-bookmarks-toolbar-never-show-2 =
+    .label = Никад не приказуј
+    .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
+    .label = Прикажи само у новом језичку
+    .accesskey = O
+toolbar-context-menu-bookmarks-show-other-bookmarks =
+    .label = Прикажи остале обележиваче
+    .accesskey = h
