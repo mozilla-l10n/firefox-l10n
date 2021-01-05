@@ -172,6 +172,7 @@ page-action-remove-extension =
 page-action-send-tabs-panel =
     .label =
         { $tabCount ->
+            [1] Отправить вкладку на устройство
             [one] Отправить { $tabCount } вкладку на устройство
             [few] Отправить { $tabCount } вкладки на устройство
            *[many] Отправить { $tabCount } вкладок на устройство
@@ -179,6 +180,7 @@ page-action-send-tabs-panel =
 page-action-send-tabs-urlbar =
     .tooltiptext =
         { $tabCount ->
+            [1] Отправить вкладку на устройство
             [one] Отправить { $tabCount } вкладку на устройство
             [few] Отправить { $tabCount } вкладки на устройство
            *[many] Отправить { $tabCount } вкладок на устройство
@@ -370,7 +372,7 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Никогда не разрешать
     .accesskey = и
-popup-silence-notifications-checkbox = Отключить уведомления от { -brand-short-name } если к нему предоставлен доступ
+popup-silence-notifications-checkbox = Отключить уведомления { -brand-short-name }, когда к нему предоставлен доступ
 popup-silence-notifications-checkbox-warning = { -brand-short-name } не будет отображать уведомления, пока к нему предоставлен доступ.
 
 ## WebRTC window or screen share tab switch warning
@@ -476,11 +478,11 @@ urlbar-result-action-before-tabtosearch-other = Нажмите Tab для пои
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Найдите в { $engine } прямо из адресной строки
+urlbar-result-action-tabtosearch-web = Ищите в { $engine } прямо в адресной строке
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-tabtosearch-other-engine = Найдите в { $engine } прямо из адресной строки
+urlbar-result-action-tabtosearch-other-engine = Ищите на { $engine } прямо в адресной строке
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -503,8 +505,8 @@ fullscreen-exit-mac-button = Выйти из полноэкранного реж
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
-pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.
-pointerlock-warning-no-domain = Этот документ контролирует ваш указатель мыши. Нажмите Esc, чтобы вернуть себе контроль.
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> контролирует ваш курсор. Нажмите Esc, чтобы вернуть себе контроль.
+pointerlock-warning-no-domain = Этот документ контролирует ваш курсор. Нажмите Esc, чтобы вернуть себе контроль.
 
 ## Bookmarks panels, menus and toolbar
 
@@ -538,7 +540,7 @@ bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
             [true] Удалить меню закладок с панели
-           *[other] Добавить меню закладок в панель
+           *[other] Добавить меню закладок на панель
         }
 bookmarks-search =
     .label = Поиск закладок
