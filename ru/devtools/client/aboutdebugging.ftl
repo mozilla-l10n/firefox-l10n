@@ -158,10 +158,10 @@ about-debugging-runtime-service-workers =
     .name = Service Worker'ы
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Shared Workers
+    .name = Shared Worker'ы
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = Другие Workers
+    .name = Другие Worker'ы
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Процессы
