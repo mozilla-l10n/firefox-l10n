@@ -5,6 +5,8 @@
 aboutDialog-title =
     .title = Дар бораи { -brand-full-name }
 releaseNotes-link = Чӣ нав аст
+update-applying = Дар ҳоли татбиқи навсозӣ…
+bottomLinks-rights = Ҳуқуқҳои корбари ниҳоӣ
 bottomLinks-privacy = Сиёсати махфият
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:

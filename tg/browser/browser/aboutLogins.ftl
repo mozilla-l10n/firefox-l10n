@@ -7,9 +7,24 @@ about-logins-page-title = Воридшавиҳо ва ниҳонвожаҳо
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Ниҳонвожаҳои худро аз ҷойи дилхоҳ ба даст оред
+login-app-promo-subtitle = Барномаи ройгони { -lockwise-brand-name }-ро гиред
+login-app-promo-android =
+    .alt = Барномаро аз Google Play гиред
+login-app-promo-apple =
+    .alt = Барномаро аз App Store боргирӣ намоед
+login-filter =
+    .placeholder = Ҷустуҷӯи воридшавиҳо
+create-login-button = Эҷод кардани воридшавии нав
+fxaccounts-sign-in-text = Ниҳонвожаҳои худро дар дастгоҳҳои дигари худ ба даст оред
+fxaccounts-sign-in-button = Ба { -sync-brand-short-name } ворид шавед
+fxaccounts-avatar-button =
+    .title = Идоракунии ҳисобҳо
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Кушодани меню
 about-logins-menu-menuitem-help = Кумак
 menu-menuitem-android-app = { -lockwise-brand-short-name } барои Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } барои iPhone ва iPad
