@@ -28,6 +28,11 @@ login-item-origin-label = Нишонии сомона
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Номи корбар
+login-item-copy-username-button-text = Нусха бардоштан
+login-item-password-label = Ниҳонвожа
+login-item-copy-password-button-text = Нусха бардоштан
+login-item-save-changes-button = Нигоҳ доштани тағйирот
+login-item-save-new-button = Нигоҳ доштан
 
 ## OS Authentication dialog
 
@@ -42,12 +47,31 @@ login-item-username-label = Номи корбар
 
 ## Primary Password notification
 
+master-password-reload-button =
+    .label = Ворид шдуан
+    .accesskey = В
 
 ## Password Sync notification
 
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Бекор кардан
+confirmation-dialog-dismiss-button =
+    .title = Бекор кардан
+about-logins-confirm-remove-dialog-title = Ин воридшавиро тоза мекунед?
+confirm-delete-dialog-message = Ин амал бекор карда намешавад.
+about-logins-confirm-remove-dialog-confirm-button = Тоза кардан
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Тоза кардан
+       *[other] Ҳамаро тоза кардан
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ҳа, ин воридшавиро тоза намоед
+       *[other] Ҳа, ин воридшавиҳоро тоза намоед
+    }
 
 ## Breach Alert notification
 

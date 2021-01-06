@@ -16,3 +16,5 @@ fileNotFound-title = Файл ёфт нашуд
 fileAccessDenied-title = Дастрасӣ ба файл манъ карда шуд
 captivePortal-title = Даромад ба шабака
 netOffline-title = Реҷаи офлайн
+csp-xfo-error-title = { -brand-short-name } ин саҳифаро кушода наметавонад
+remoteXUL-title = XUL-и дурдаст
