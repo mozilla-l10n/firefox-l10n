@@ -25,6 +25,16 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Кушодани меню
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Аз браузери дигар ворид кардан…
+about-logins-menu-menuitem-import-from-a-file = Аз файл ворид кардан…
+about-logins-menu-menuitem-export-logins = Содиркунии воридшавиҳо…
+about-logins-menu-menuitem-remove-all-logins = Ҳамаи воридшавиҳоро нест кардан…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Имконот
+       *[other] Хусусиятҳо
+    }
 about-logins-menu-menuitem-help = Кумак
 menu-menuitem-android-app = { -lockwise-brand-short-name } барои Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } барои iPhone ва iPad
