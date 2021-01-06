@@ -142,32 +142,32 @@ onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 # Tooltip displayed on hover of automatic theme
 onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
-        Наследует внешний вид вашей операционной
+        Использует тему вашей операционной
         системы для кнопок, меню и окон.
 # Input description for automatic theme
 onboarding-multistage-theme-description-automatic-2 =
     .aria-description =
-        Наследует внешний вид вашей операционной
+        Использует тему вашей операционной
         системы для кнопок, меню и окон.
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
-        Использует светлый внешний вид для кнопок,
+        Использует светлую тему для кнопок,
         меню и окон.
 # Input description for light theme
 onboarding-multistage-theme-description-light =
     .aria-description =
-        Использует светлый внешний вид для кнопок,
+        Использует светлую тему для кнопок,
         меню и окон.
 # Tooltip displayed on hover of dark theme
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
-        Использует тёмный внешний вид для кнопок,
+        Использует тёмную тему для кнопок,
         меню и окон.
 # Input description for dark theme
 onboarding-multistage-theme-description-dark =
     .aria-description =
-        Использует тёмный внешний вид для кнопок,
+        Использует тёмную тему для кнопок,
         меню и окон.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
