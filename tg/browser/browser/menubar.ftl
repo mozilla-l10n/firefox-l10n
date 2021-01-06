@@ -22,6 +22,9 @@ menu-file-open-file =
 
 ## Edit Menu
 
+menu-edit =
+    .label = Таҳрир кардан
+    .accesskey = Т
 
 ## View Menu
 

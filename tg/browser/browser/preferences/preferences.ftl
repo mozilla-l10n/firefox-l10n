@@ -23,6 +23,7 @@ cancel-no-restart-button = Бекор кардан
 
 ## General Section
 
+containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошта шавад
 
 ## General Section - Language & Appearance
 

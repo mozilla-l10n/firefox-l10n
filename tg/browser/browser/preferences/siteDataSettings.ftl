@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-button-cancel =
+    .label = Бекор кардан
+    .accesskey = Б
 site-data-remove-all =
     .label = Ҳамаро тоза кардан
     .accesskey = Ҳ
