@@ -8,6 +8,9 @@ permissions-remove =
 permissions-remove-all =
     .label = Тоза кардани ҳамаи сомонаҳо
     .accesskey = Т
+permissions-button-cancel =
+    .label = Бекор кардан
+    .accesskey = Б
 
 ## Invalid Hostname Dialog
 

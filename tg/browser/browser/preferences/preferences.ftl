@@ -5,6 +5,7 @@
 
 ## Browser Restart Dialog
 
+cancel-no-restart-button = Бекор кардан
 
 ## Extension Control Notifications
 ##
@@ -36,6 +37,9 @@
 
 ##
 
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Идома додан
 
 ## General Section - Performance
 
@@ -94,6 +98,9 @@ sync-remove-account =
 
 ## The device name controls.
 
+sync-device-name-cancel =
+    .label = Бекор кардан
+    .accesskey = Б
 
 ## Privacy Section
 

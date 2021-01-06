@@ -14,6 +14,7 @@
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Бекор кардан
 
 ## Top Sites - Delete history confirmation dialog.
 

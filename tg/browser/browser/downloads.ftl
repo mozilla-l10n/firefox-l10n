@@ -9,6 +9,10 @@
 
 ##
 
+downloads-cmd-cancel =
+    .tooltiptext = Бекор кардан
+downloads-cmd-cancel-panel =
+    .aria-label = Бекор кардан
 downloads-cmd-remove-from-history =
     .label = Аз таърих тоза кардан
     .accesskey = А
@@ -28,3 +32,10 @@ downloads-cmd-choose-open-panel =
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Кушодани файл
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Бекор кардани боргирӣ
+downloads-clear-downloads-button =
+    .label = Пок кардани боргириҳо
+    .tooltiptext = Боргириҳои иҷрошуда, бекоркардашуда ё қатъшударо пок мекунад
