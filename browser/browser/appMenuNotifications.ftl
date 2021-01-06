@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = н
     .secondarybuttonlabel = Не сейчас
     .secondarybuttonaccesskey = е
+appmenu-update-other-instance-message = Доступно новое обновление { -brand-shorter-name }, но его нельзя установить, так как запущена другая копия { -brand-shorter-name }. Закройте её, чтобы продолжить обновление, или выберите обновление в любом случае (другая копия может работать неправильно, пока вы её не перезапустите).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ок, понятно
     .buttonaccesskey = я

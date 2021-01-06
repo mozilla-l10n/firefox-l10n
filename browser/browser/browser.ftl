@@ -565,7 +565,7 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Закладки
 library-bookmarks-bookmark-this-page =
-    .label = Добавить страницу
+    .label = Добавить страницу в закладки
 library-bookmarks-bookmark-edit =
     .label = Редактировать эту закладку
 

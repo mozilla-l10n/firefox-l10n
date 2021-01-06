@@ -107,5 +107,5 @@ printui-error-invalid-scale = Масштаб должен быть числом 
 printui-error-invalid-margin = Пожалуйста, введите допустимые значения полей для выбранного размера бумаги.
 # Variables
 # $numPages (integer) - Number of pages
-printui-error-invalid-range = Диапазон должен быть числом от 1 до { $numPages }.
+printui-error-invalid-range = Диапазон должен содержать числа от 1 до { $numPages }.
 printui-error-invalid-start-overflow = Номер страницы «С» должен быть меньше, чем номер страницы «по».
