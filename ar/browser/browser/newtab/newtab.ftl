@@ -51,6 +51,9 @@ newtab-confirm-delete-history-p1 = هل أنت متأكد أنك تريد حذف
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = لا يمكن التراجع عن هذا الإجراء.
 
+## Top Sites - Sponsored label
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -198,3 +201,15 @@ newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocke
 
 newtab-error-fallback-info = أخ! حدث خطب ما أثناء تحميل المحتوى.
 newtab-error-fallback-refresh-link = أنعِش الصفحة لإعادة المحاولة.
+
+## Customization Menu
+
+newtab-custom-row-selector =
+    { $num ->
+        [zero] ما من صفوف
+        [one] صف واحد
+        [two] صفّان اثنان
+        [few] { $num } صفوف
+        [many] { $num } صفًا
+       *[other] { $num } صف
+    }

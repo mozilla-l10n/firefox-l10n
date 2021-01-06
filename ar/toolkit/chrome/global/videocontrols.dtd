@@ -13,7 +13,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "ملء الشاشة">
 <!ENTITY fullscreenButton.exitfullscreenlabel "غادر ملء الشاشة">
 <!ENTITY castingButton.castingLabel "اعرض على الشاشة">
-<!ENTITY closedCaption.off "لا">
+<!ENTITY closedCaption.off "بدون">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "شريط مستوى الصوت">
