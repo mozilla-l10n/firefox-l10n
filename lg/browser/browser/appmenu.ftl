@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Eddirisa Epya
+appmenuitem-new-private-window =
+    .label = Akadirisa Akakusike
 
 ## Zoom and Fullscreen Controls
 
