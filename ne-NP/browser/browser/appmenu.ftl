@@ -10,6 +10,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = नयाँ सञ्झ्याल
+appmenuitem-new-private-window =
+    .label = नयाँ निजी सञ्झ्याल
 
 ## Zoom and Fullscreen Controls
 
@@ -20,6 +24,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = अहिले सिङ्क गर्नुहोस्
+appmenuitem-save-page =
+    .label = यस रूपमा पृष्ठ सङ्ग्रह गर्नुहोस्...
 
 ## What's New panel in App menu.
 
