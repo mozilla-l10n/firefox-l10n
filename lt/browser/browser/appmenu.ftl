@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Naujas langas
+appmenuitem-new-private-window =
+    .label = Naujas privataus naršymo langas
 
 ## Zoom and Fullscreen Controls
 
