@@ -5,6 +5,10 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } гувоҳиномаи амниятии нодурустро истифода мебарад.
+cert-error-mitm-intro = Сомонаҳо эътибори худро ба воситаи гувоҳиномаҳое, ки аз тарафи макомотҳои гувоҳиномадиҳӣ бароварда мешаванд, тасдиқ мекунанд.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Рамзи хато: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-details-cert-chain-label = Занҷири гувоҳинома:
 open-in-new-window-for-csp-or-xfo-error = Кушодани сомона дар равзанаи нав
 
