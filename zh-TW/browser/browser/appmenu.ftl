@@ -13,6 +13,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = 開新視窗
 
 ## Zoom and Fullscreen Controls
 
@@ -27,6 +29,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 立刻同步
+appmenuitem-save-page =
+    .label = 另存新檔…
 
 ## What's New panel in App menu.
 
