@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Tixim Wakami
+appmenuitem-save-page =
+    .label = Tiyak Ruxaq Achi'el…
 
 ## What's New panel in App menu.
 
