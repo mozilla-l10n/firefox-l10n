@@ -28,6 +28,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sioncronaich an-dràsta
+appmenuitem-save-page =
+    .label = Sàbhail an duilleag mar…
 
 ## What's New panel in App menu.
 
