@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Zanfun taaga
+appmenuitem-new-private-window =
+    .label = Sutura zanfun taaga
 
 ## Zoom and Fullscreen Controls
 
