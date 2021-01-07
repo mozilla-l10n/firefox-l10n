@@ -13,10 +13,19 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Prenestr nevez
+appmenuitem-new-private-window =
+    .label = Prenestr merdeiñ prevez nevez
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Zoumañ
 appmenuitem-zoom-reduce =
     .label = Dizoumañ
+appmenuitem-fullscreen =
+    .label = Skramm a-bezh
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -26,7 +35,6 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Petra nevez
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
