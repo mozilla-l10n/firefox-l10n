@@ -29,6 +29,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Συγχρονισμός τώρα
+appmenuitem-save-page =
+    .label = Αποθήκευση σελίδας ως…
 
 ## What's New panel in App menu.
 
