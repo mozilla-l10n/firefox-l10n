@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = गोदान उइन्ड'
 appmenuitem-new-private-window =
     .label = गोदान प्राइभेट उइन्ड'
 
@@ -19,11 +21,15 @@ appmenuitem-zoom-enlarge =
     .label = गेदेरै जुम खालाम
 appmenuitem-zoom-reduce =
     .label = फिसायै जुम खालाम
+appmenuitem-fullscreen =
+    .label = आबुं स्क्रिन
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = दानो सिनक खालाम
+appmenuitem-save-page =
+    .label = ..बादि बिलाइखौ थिना दोन...
 
 ## What's New panel in App menu.
 
