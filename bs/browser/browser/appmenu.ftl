@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhronizuj sada
+appmenuitem-save-page =
+    .label = Spasi stranicu kao…
 
 ## What's New panel in App menu.
 
