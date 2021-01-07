@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-private-window =
+    .label = Yeni Məxfi Pəncərə
 
 ## Zoom and Fullscreen Controls
 
