@@ -13,20 +13,30 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Ventana nakàa
+appmenuitem-new-private-window =
+    .label = Nànin' 'ngo ventana huìi
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Nāgi’iaj nichrùn’
 appmenuitem-zoom-reduce =
     .label = Nāgi’iaj gùn’
+appmenuitem-fullscreen =
+    .label = Nagi'iaj gachrò' riña aga' sikà' ràa
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Gi'iaj sun nugua'ān ma
+appmenuitem-save-page =
+    .label = Na'nïnj sà' Pâjina Gù'na…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nù huin sa nakà hua
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
