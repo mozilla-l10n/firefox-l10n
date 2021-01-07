@@ -10,6 +10,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Tokura foforo
+appmenuitem-new-private-window =
+    .label = Tokura praevet foforo ma wo nko ara
 
 ## Zoom and Fullscreen Controls
 
