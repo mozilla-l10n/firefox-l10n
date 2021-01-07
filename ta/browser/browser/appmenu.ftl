@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = புதிய சாளரம்
+appmenuitem-new-private-window =
+    .label = புதிய கமுக்க சாளரம்
 
 ## Zoom and Fullscreen Controls
 
