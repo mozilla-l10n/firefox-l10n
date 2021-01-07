@@ -24,6 +24,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhronizeit
+appmenuitem-save-page =
+    .label = Saglobōt lopu kai…
 
 ## What's New panel in App menu.
 
