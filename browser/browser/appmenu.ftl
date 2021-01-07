@@ -10,11 +10,20 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Ifasitela elisha
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Iskrini esigcwele
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sync manje
+appmenuitem-save-page =
+    .label = Gcina ikhasi ngokuthi…
 
 ## What's New panel in App menu.
 
