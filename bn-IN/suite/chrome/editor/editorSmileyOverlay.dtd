@@ -1,0 +1,58 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "হাসিমুখ">
+<!ENTITY insertSmiley.accesskey "S">
+
+<!ENTITY smiley1Cmd.label "হাসি">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "হাসিমুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley2Cmd.label "গোমড়া মুখ">
+<!ENTITY smiley2Cmd.accesskey "F">
+<!ENTITY smiley2Cmd.tooltip "গোমড়া মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley3Cmd.label "চোখ টেপা">
+<!ENTITY smiley3Cmd.accesskey "W">
+<!ENTITY smiley3Cmd.tooltip "চোখ টেপা  মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley4Cmd.label "জিভ ভেংচি">
+<!ENTITY smiley4Cmd.accesskey "T">
+<!ENTITY smiley4Cmd.tooltip "জিভ ভেংচি কাটা  মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley5Cmd.label "হাস্যরত">
+<!ENTITY smiley5Cmd.accesskey "L">
+<!ENTITY smiley5Cmd.tooltip "হাস্যরত মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley6Cmd.label "লজ্জিত">
+<!ENTITY smiley6Cmd.accesskey "E">
+<!ENTITY smiley6Cmd.tooltip "লজ্জিত মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley7Cmd.label "দ্বিধান্বিত">
+<!ENTITY smiley7Cmd.accesskey "U">
+<!ENTITY smiley7Cmd.tooltip "দ্বিধান্বিত মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley8Cmd.label "চমকিত">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "চমকিত মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley9Cmd.label "চুম্বনরত">
+<!ENTITY smiley9Cmd.accesskey "K">
+<!ENTITY smiley9Cmd.tooltip "চুম্বনরত মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley10Cmd.label "চিৎকার">
+<!ENTITY smiley10Cmd.accesskey "Y">
+<!ENTITY smiley10Cmd.tooltip "চিৎকার করা মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley11Cmd.accesskey "C">
+<!ENTITY smiley11Cmd.tooltip "Insert a cool face">
+<!ENTITY smiley12Cmd.label "Money-Mouth">
+<!ENTITY smiley12Cmd.accesskey "M">
+<!ENTITY smiley12Cmd.tooltip "Insert a money-mouth face">
+<!ENTITY smiley13Cmd.label "Foot-in-Mouth">
+<!ENTITY smiley13Cmd.accesskey "o">
+<!ENTITY smiley13Cmd.tooltip "Insert a foot-in-mouth face">
+<!ENTITY smiley14Cmd.label "নিষ্পাপ চেহারা">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "নিষ্পাপ মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley15Cmd.label "ক্রন্দনরত">
+<!ENTITY smiley15Cmd.accesskey "r">
+<!ENTITY smiley15Cmd.tooltip "ক্রন্দনরত মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY smiley16Cmd.label "মুখে কুলুপ">
+<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.tooltip "মুখে কুলুপ আঁটা মুখের ছবি অন্তর্ভুক্ত করুন">
+<!ENTITY SmileButton.tooltip "একটি মুখভঙ্গির ছবি অন্তর্ভুক্ত করুন">
+

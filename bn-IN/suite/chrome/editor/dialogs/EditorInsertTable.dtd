@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "টেবিল সন্নিবেশ করুন">
+
+<!ENTITY size.label "মাপ">
+<!ENTITY numRowsEditField.label "সারি:">
+<!ENTITY numRowsEditField.accessKey "R">
+<!ENTITY numColumnsEditField.label "কলাম:">
+<!ENTITY numColumnsEditField.accessKey "C">
+<!ENTITY widthEditField.label "প্রস্থ:">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY borderEditField.label "প্রান্তরেখা:">
+<!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.tooltip "টেবিলের প্রান্তরেখা নির্ধারণের জন্য সংখ্যা উল্লেখ করুন অথবা প্রান্তরেখা উপেক্ষা করতে শূণ্য (0) লিখুন">
+<!ENTITY pixels.label "পিক্সেল">

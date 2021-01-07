@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY Window.title        "সূচিপত্র">
+<!ENTITY buildToc.label      "সূচিপত্র নির্মাণের জন্য ব্যবহৃত হবে:">
+<!ENTITY style.label         "বিন্যাস:">
+<!ENTITY tag.label           "ট্যাগ:">
+<!ENTITY class.label         "শ্রেণী:">
+<!ENTITY header1.label       "১ম স্তর">
+<!ENTITY header2.label       "২য় স্তর">
+<!ENTITY header3.label       "৩য় স্তর">
+<!ENTITY header4.label       "৪র্থ স্তর">
+<!ENTITY header5.label       "৫ম স্তর">
+<!ENTITY header6.label       "৬ষ্ট স্তর">
+<!ENTITY makeReadOnly.label  "সূচিপত্র শুধুমাত্র পাঠযোগ্য">
+<!ENTITY orderedList.label   "সূচিপত্রের সমস্ত বিষয়বস্তু সংখ্যা দ্বারা চিহ্নিত হবে">
+

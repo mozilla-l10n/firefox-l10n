@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "পৃষ্ঠার বৈশিষ্ট্য">
+<!ENTITY location.label "অবস্থান:">
+<!ENTITY lastModified.label "সর্বশেষ পরিবর্তন:">
+<!ENTITY titleInput.label "শিরোনাম:">
+<!ENTITY titleInput.accessKey "T">
+<!ENTITY authorInput.label "লেখক:">
+<!ENTITY authorInput.accessKey "A">
+<!ENTITY descriptionInput.label "বিবরণ:">
+<!ENTITY descriptionInput.accessKey "D">
+<!ENTITY locationNewPage.label "[নতুন পৃষ্ঠা, সংরক্ষিত হয়নি]">
+<!ENTITY EditHEADSource1.label "অভিজ্ঞ ব্যবহারকারীদের জন্য:">
+<!ENTITY EditHEADSource2.label "&lt;head&gt; অংশের অন্যান্য বিষয়বস্তু পরিবর্তনের জন্য প্রদর্শন মেনু অথবা এডিট মোড টুল-বার থেকে &quot;HTML Source&quot; ব্যবহার করুন.">
