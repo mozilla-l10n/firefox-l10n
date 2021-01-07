@@ -35,6 +35,19 @@
 <!ENTITY insertFormCmd.label "Definiera formulär…">
 <!ENTITY insertFormCmd.accesskey "D">
 <!ENTITY insertInputTagCmd.label "Formulärfält…">
+<!ENTITY insertInputTagCmd.accesskey "o">
+<!ENTITY insertInputImageCmd.label "Formulärbild…">
+<!ENTITY insertInputImageCmd.accesskey "b">
+<!ENTITY insertTextAreaCmd.label "Textområde…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Urvalslista…">
+<!ENTITY insertSelectCmd.accesskey "U">
+<!ENTITY insertButtonCmd.label "Definiera knapp…">
+<!ENTITY insertButtonCmd.accesskey "k">
+<!ENTITY insertLabelCmd.label "Definiera etikett">
+<!ENTITY insertLabelCmd.accesskey "e">
+<!ENTITY insertFieldSetCmd.label "Definiera fältuppsättning…">
+<!ENTITY insertFieldSetCmd.accesskey "f">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Ny">
