@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Ffenestr Newydd
+appmenuitem-new-private-window =
+    .label = Ffenestr Breifat Newydd
 
 ## Zoom and Fullscreen Controls
 
