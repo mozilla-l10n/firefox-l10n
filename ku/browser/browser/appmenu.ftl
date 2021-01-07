@@ -20,6 +20,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Niha senkronîze bike
+appmenuitem-save-page =
+    .label = Cuda Tomar Bike...
 
 ## What's New panel in App menu.
 
