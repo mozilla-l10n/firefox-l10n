@@ -5,9 +5,15 @@
 aboutDialog-title =
     .title = Дар бораи { -brand-full-name }
 releaseNotes-link = Чӣ нав аст
+update-checkForUpdatesButton =
+    .label = Санҷиши навсозиҳо
+    .accesskey = С
+update-checkingForUpdates = Дар ҳоли санҷиши навсозиҳо…
+update-downloading = <img data-l10n-name="icon"/>Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status"/>
 update-applying = Дар ҳоли татбиқи навсозӣ…
 update-noUpdatesFound = { -brand-short-name } нав аст
 update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд
+bottomLinks-license = Маълумот дар бораи гувоҳинома
 bottomLinks-rights = Ҳуқуқҳои корбари ниҳоӣ
 bottomLinks-privacy = Сиёсати махфият
 # Example of resulting string: 66.0.1 (64-bit)

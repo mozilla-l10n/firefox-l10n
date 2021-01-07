@@ -41,6 +41,21 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } барои iPhone ва
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } воридшавӣ
+       *[other] { $count } воридшавӣ
+    }
+login-list-sort-label-text = Мураттаб аз рӯи:
+login-list-name-option = Ном (А-Я)
+login-list-name-reverse-option = Ном (Я-А)
+about-logins-login-list-alerts-option = Огоҳиҳо
+login-list-last-changed-option = Санаи тағйири охирин
+login-list-last-used-option = Санаи истифодаи охирин
+login-list-intro-title = Ягон воридшавӣ ёфт нашуд
+about-logins-login-list-empty-search-title = Ягон воридшавӣ ёфт нашуд
+login-list-item-title-new-login = Воридшавии нав
+login-list-item-subtitle-missing-username = (номи корбар нест)
 
 ## Introduction screen
 
@@ -115,9 +130,19 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Воридшавии { $count }-ро тоза мекунед?
        *[other] Воридшавиҳои { $count }-ро тоза мекунед?
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Воридшавии { $count }-ро аз ҳамаи дастгоҳҳо тоза мекунед?
+       *[other] Воридшавиҳои { $count }-ро аз ҳамаи дастгоҳҳо тоза мекунед?
+    }
+about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
+about-logins-confirm-export-dialog-confirm-button = Содирот…
 
 ## Breach Alert notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Ба { $hostname } гузаред
 
 ## Vulnerable Password notification
 
