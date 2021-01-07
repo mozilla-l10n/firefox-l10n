@@ -27,6 +27,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovať teraz
+appmenuitem-save-page =
+    .label = Uložiť stránku ako…
 
 ## What's New panel in App menu.
 
