@@ -15,6 +15,8 @@ appmenuitem-new-private-window =
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-fullscreen =
+    .label = Layeue Peunoh
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
