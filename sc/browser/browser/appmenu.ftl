@@ -10,6 +10,15 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Ventana noa
+appmenuitem-new-private-window =
+    .label = Ventana privada noa
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Mannària prena
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
