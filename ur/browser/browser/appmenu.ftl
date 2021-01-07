@@ -13,6 +13,9 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = اندر زوم کریں
 appmenuitem-zoom-reduce =
@@ -22,11 +25,12 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = ابھی Sync کریں
+appmenuitem-save-page =
+    .label = صفحہ محفوظ کریں بطور…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = نیا کیا ہے
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
