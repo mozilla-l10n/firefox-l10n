@@ -15,6 +15,8 @@ appmenuitem-new-window =
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-fullscreen =
+    .label = Sekirini seo se tletšego
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
