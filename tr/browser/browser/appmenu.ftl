@@ -13,6 +13,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Yeni pencere
 
 ## Zoom and Fullscreen Controls
 
