@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = ନୂତନ ୱିଣ୍ଡୋ
+appmenuitem-new-private-window =
+    .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ
 
 ## Zoom and Fullscreen Controls
 
