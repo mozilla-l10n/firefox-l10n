@@ -16,6 +16,8 @@ appmenuitem-new-window =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenuitem-save-page =
+    .label = Хуудсанд нэр өгч хадгал…
 
 ## What's New panel in App menu.
 
