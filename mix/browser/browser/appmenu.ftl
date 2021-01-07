@@ -10,6 +10,11 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Ventana tsaá
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Saa kanu
 appmenuitem-zoom-reduce =
@@ -23,4 +28,3 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nchi yee ña tsaa
-
