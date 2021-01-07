@@ -13,6 +13,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nueva ventana
 appmenuitem-new-private-window =
     .label = Nueva ventana privada
 
