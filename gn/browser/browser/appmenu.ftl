@@ -24,6 +24,8 @@ appmenuitem-zoom-enlarge =
     .label = Moag̃ui
 appmenuitem-zoom-reduce =
     .label = Momombyry
+appmenuitem-fullscreen =
+    .label = Mba’erechaha tuichavéva
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
