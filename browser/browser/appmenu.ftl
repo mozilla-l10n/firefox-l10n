@@ -29,6 +29,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 今すぐ同期
+appmenuitem-save-page =
+    .label = 名前を付けてページを保存...
 
 ## What's New panel in App menu.
 
