@@ -29,6 +29,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ara
+appmenuitem-save-page =
+    .label = Enregistrar jos…
 
 ## What's New panel in App menu.
 
