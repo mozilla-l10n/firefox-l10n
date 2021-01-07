@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkroniser no
+appmenuitem-save-page =
+    .label = Lagre sida som…
 
 ## What's New panel in App menu.
 
