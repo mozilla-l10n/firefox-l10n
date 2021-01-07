@@ -13,6 +13,11 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = కొత్త విండో
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = పెద్దగించు
 appmenuitem-zoom-reduce =
@@ -26,7 +31,6 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = కొత్తవి ఏమిటి
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
