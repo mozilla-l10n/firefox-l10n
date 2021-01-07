@@ -10,6 +10,9 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Jetz' tzan
 appmenuitem-zoom-reduce =
@@ -19,6 +22,8 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Ik'ultib' skaajayil
+appmenuitem-save-page =
+    .label = Jup u U'uje' Eche' uva'…
 
 ## What's New panel in App menu.
 
