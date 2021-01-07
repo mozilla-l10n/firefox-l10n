@@ -11,6 +11,11 @@ appmenuitem-customize-mode =
 ## Zoom Controls
 
 
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = முழுத்திரை
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
@@ -19,4 +24,3 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = புதியவை என்ன
-
