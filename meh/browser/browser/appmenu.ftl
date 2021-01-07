@@ -13,6 +13,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Ventana jíía
+appmenuitem-new-private-window =
+    .label = Ventana jíía yu´u
 
 ## Zoom and Fullscreen Controls
 
@@ -27,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ntañu´u
+appmenuitem-save-page =
+    .label = Chuva´a kua...
 
 ## What's New panel in App menu.
 
