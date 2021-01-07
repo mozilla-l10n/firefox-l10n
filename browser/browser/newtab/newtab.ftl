@@ -220,5 +220,11 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Sponsa snarvegar
 newtab-custom-pocket-title = Tilrådd av { -pocket-brand-name }
+newtab-custom-pocket-sponsored = Sponsa historier
 newtab-custom-recent-title = Nyleg aktivitet
 newtab-custom-close-button = Lat att
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Snuttar
