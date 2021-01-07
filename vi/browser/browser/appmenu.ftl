@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Đồng bộ ngay
+appmenuitem-save-page =
+    .label = Lưu trang dưới dạng…
 
 ## What's New panel in App menu.
 
