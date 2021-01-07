@@ -10,6 +10,13 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nuwe venster
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Volskerm
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
