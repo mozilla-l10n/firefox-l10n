@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = 新規ウインドウ
+appmenuitem-new-private-window =
+    .label = 新規プライベートウインドウ
 
 ## Zoom and Fullscreen Controls
 
