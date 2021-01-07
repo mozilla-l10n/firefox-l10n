@@ -10,17 +10,25 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Neuvo barcon
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Aomenta zoom
 appmenuitem-zoom-reduce =
     .label = Riduci zoom
+appmenuitem-fullscreen =
+    .label = A tutto schermo
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Scincronizza òua
+appmenuitem-save-page =
+    .label = Sarva pagina co-o nomme…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Cöse gh'é de neuvo
-
