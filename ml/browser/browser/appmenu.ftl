@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-private-window =
+    .label = പുതിയ സ്വകാര്യ ജാലകം
 
 ## Zoom and Fullscreen Controls
 
