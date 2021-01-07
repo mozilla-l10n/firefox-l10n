@@ -13,6 +13,13 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Asfaylu amaynut
+appmenuitem-new-private-window =
+    .label = Asfaylu amaynut n tunigin tusligt
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Semɣeṛ
 appmenuitem-zoom-reduce =
@@ -22,6 +29,8 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Mtawi tura
+appmenuitem-save-page =
+    .label = Sekles asebter di...
 
 ## What's New panel in App menu.
 
