@@ -10,9 +10,20 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Eraatarakua jimpani
+appmenuitem-new-private-window =
+    .label = Juchiiti eraatarakua jimpani
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Uininharhitantsï
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenuitem-save-page =
+    .label = Patsani esïka…
 
 ## What's New panel in App menu.
 
