@@ -13,6 +13,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Uusi ikkuna
 appmenuitem-new-private-window =
     .label = Uusi yksityinen ikkuna
 
@@ -22,11 +24,15 @@ appmenuitem-zoom-enlarge =
     .label = Lähennä
 appmenuitem-zoom-reduce =
     .label = Loitonna
+appmenuitem-fullscreen =
+    .label = Kokoruututila
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Synkronoi
+appmenuitem-save-page =
+    .label = Tallenna sivu nimellä…
 
 ## What's New panel in App menu.
 
