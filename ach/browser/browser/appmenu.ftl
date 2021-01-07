@@ -12,15 +12,26 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Dirica manyen
+appmenuitem-new-private-window =
+    .label = Dirica manyen me mung
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Kwot madit
 appmenuitem-zoom-reduce =
     .label = Jwik matidi
+appmenuitem-fullscreen =
+    .label = Wang komputa ma opong
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Rib Kombedi
+appmenuitem-save-page =
+    .label = Gwok pot buk calo…
 
 ## What's New panel in App menu.
 
