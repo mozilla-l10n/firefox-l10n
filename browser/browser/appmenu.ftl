@@ -13,10 +13,19 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Жаңа терезе
+appmenuitem-new-private-window =
+    .label = Жаңа жекелік терезе
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Кішірейту
 appmenuitem-zoom-reduce =
     .label = Кішірейту
+appmenuitem-fullscreen =
+    .label = Толық экран режимі
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -26,7 +35,6 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Не жаңалық
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
