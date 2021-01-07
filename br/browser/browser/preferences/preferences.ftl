@@ -487,6 +487,8 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Al lec'hiennoù a weladennit ar muiañ
 home-prefs-topsites-by-option-sponsored =
     .label = Lec'hiennoù gwellañ paeroniet
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Berradurioù paeroniet
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -498,11 +500,9 @@ home-prefs-recommended-by-header =
 
 home-prefs-recommended-by-learn-more = Penaos ez a en-dro
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Istorioù kevelet
+    .label = Istorioù paeroniet
 home-prefs-highlights-header =
     .label = Mareoù pouezus
-home-prefs-recent-activity-header =
-    .label = Oberiantiz a-nevez
 home-prefs-highlights-description = Un dibab a lec'hiennoù ho peus enrollet pe gweladennet
 home-prefs-highlights-option-visited-pages =
     .label = Pajennoù gweladennet
@@ -512,6 +512,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Pellgargadurioù nevez
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pajennoù enrollet e { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Oberiantiz a-nevez
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,

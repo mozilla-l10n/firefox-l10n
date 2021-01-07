@@ -93,9 +93,9 @@ newtab-menu-show-privacy-info = Hor c'hevelerien hag ho puhez prevez
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Graet
-newtab-privacy-modal-button-manage = Merañ an arventennoù endalc'had kevelet
+newtab-privacy-modal-button-manage = Merañ an arventennoù endalc’had paeroniet
 newtab-privacy-modal-header = Pouezus eo ho puhez prevez
-newtab-privacy-modal-paragraph-2 = Kinnig a reomp deoc'h istorioù dedennus, met ivez danvezioù dibabet gant aked eus hor c'hevelerien. Bezit dinec'het: <strong>morse ne vo kaset ho roadennoù merdeiñ e diavaez ho eilenn hiniennel { -brand-product-name }</strong> — ne welont ket anezho hag hor c'hevelerien kennebeut.
+newtab-privacy-modal-paragraph-2 = Kinnig a reomp deoc'h istorioù dedennus, met ivez danvezioù dibabet gant aked gant hor paeroned. Bezit dinec'het: <strong>morse ne vo kaset ho roadennoù merdeiñ e diavaez ho eilenn hiniennel { -brand-product-name }</strong> — ne welont ket anezho hag hor paeroned kennebeut.
 newtab-privacy-modal-link = Deskit penaos ec'h a en-dro ar prevezded war an ivinell nevez
 
 ##
@@ -136,11 +136,11 @@ newtab-label-download = Pellgarget
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } · kevellet
+newtab-label-sponsored = { $sponsorOrSource } · paeroniet
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
-newtab-label-sponsored-by = Kevelet gant { $sponsor }
+newtab-label-sponsored-by = Paeroniet gant { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -203,3 +203,8 @@ newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha 
 
 newtab-error-fallback-info = Chaous, un dra bennak a zo a-dreuz en ur gargañ an endalc'had.
 newtab-error-fallback-refresh-link = Adkargit ar bajenn evit klask en-dro.
+
+## Customization Menu
+
+newtab-custom-sponsored-sites = Berradurioù paeroniet
+newtab-custom-pocket-sponsored = Istorioù paeroniet
