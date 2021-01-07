@@ -24,11 +24,15 @@ appmenuitem-zoom-enlarge =
     .label = పెద్దగించు
 appmenuitem-zoom-reduce =
     .label = చిన్నగించు
+appmenuitem-fullscreen =
+    .label = నిండు తెర
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
+appmenuitem-save-page =
+    .label = పేజీని ఇలా భద్రపరచు…
 
 ## What's New panel in App menu.
 
