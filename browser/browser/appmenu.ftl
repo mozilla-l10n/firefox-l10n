@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = 새 창
+appmenuitem-new-private-window =
+    .label = 새 사생활 보호 창
 
 ## Zoom and Fullscreen Controls
 
