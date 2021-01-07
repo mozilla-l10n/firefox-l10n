@@ -163,9 +163,9 @@ addon-category-dictionary-title =
 addon-category-locale = Hizkuntzak
 addon-category-locale-title =
     .title = Hizkuntzak
-addon-category-available-updates = Eguneraketak eskura
+addon-category-available-updates = Eguneraketa erabilgarriak
 addon-category-available-updates-title =
-    .title = Eguneraketak eskura
+    .title = Eguneraketa erabilgarriak
 addon-category-recent-updates = Azken eguneraketak
 addon-category-recent-updates-title =
     .title = Azken eguneraketak
@@ -209,7 +209,7 @@ addon-updates-reset-updates-to-manual = Berrezarri gehigarri guztiak eskuz egune
 addon-updates-updating = Gehigarriak eguneratzen
 addon-updates-installed = Gehigarriak eguneratu egin dira.
 addon-updates-none-found = Ez da eguneraketarik aurkitu
-addon-updates-manual-updates-found = Ikusi eskura dauden eguneraketak
+addon-updates-manual-updates-found = Ikusi eguneraketa erabilgarriak
 
 ## Add-on install/debug strings for page options menu
 
@@ -370,9 +370,6 @@ addon-detail-private-browsing-disallow = Ez baimendu
 addon-badge-recommended2 =
     .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Hedapen hau { -brand-product-name } egiten dutenek sortu dute
-    .aria-label = { addon-badge-line.title }
 
 ##
 
