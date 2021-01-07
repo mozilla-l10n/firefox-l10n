@@ -8,10 +8,20 @@
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Baro a Tawa
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Dagup a Pantalia
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Ipatulad Ita
+appmenuitem-save-page =
+    .label = Save Page As…
 
 ## What's New panel in App menu.
 
