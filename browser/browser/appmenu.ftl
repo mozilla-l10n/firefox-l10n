@@ -10,17 +10,27 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Henorde Hesere
+appmenuitem-new-private-window =
+    .label = Henorde Suturo Hesere
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Lonngo ara
 appmenuitem-zoom-reduce =
     .label = Lonngo woɗɗa
+appmenuitem-fullscreen =
+    .label = Njaajeendi Yaynirde
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sanngoɗin Jooni
+appmenuitem-save-page =
+    .label = Danndu Hello e Innde…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ko Hesɗi
-
