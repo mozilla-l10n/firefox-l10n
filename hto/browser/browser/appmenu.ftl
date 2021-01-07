@@ -10,11 +10,20 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Kómue eroirafo
+appmenuitem-new-private-window =
+    .label = Dáma kúe kómue eroirafo
+
+## Zoom and Fullscreen Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Bírui dáamakɨ
+appmenuitem-save-page =
+    .label = Jóne bénomo...
 
 ## What's New panel in App menu.
 
