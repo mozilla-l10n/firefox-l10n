@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronitza ara
+appmenuitem-save-page =
+    .label = Anomena i desa la pàgina…
 
 ## What's New panel in App menu.
 
