@@ -24,11 +24,15 @@ appmenuitem-zoom-enlarge =
     .label = Uvećaj
 appmenuitem-zoom-reduce =
     .label = Umanji
+appmenuitem-fullscreen =
+    .label = Cjeloekranski prikaz
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sinkroniziraj sada
+appmenuitem-save-page =
+    .label = Spremi stranicu kao …
 
 ## What's New panel in App menu.
 
