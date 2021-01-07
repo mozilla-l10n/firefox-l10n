@@ -10,11 +10,22 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Gnûf barcon
+appmenuitem-new-private-window =
+    .label = Gnûf barcon privât
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Dut il visôr
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sincronize cumò
+appmenuitem-save-page =
+    .label = Salve la pagjine cul non…
 
 ## What's New panel in App menu.
 
