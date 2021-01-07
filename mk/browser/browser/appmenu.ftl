@@ -24,6 +24,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизирај сега
+appmenuitem-save-page =
+    .label = Сними страница како…
 
 ## What's New panel in App menu.
 
