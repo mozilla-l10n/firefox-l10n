@@ -122,6 +122,9 @@ cfr-whatsnew-lockwise-take-link-text = Instalar o aplicativo
 
 cfr-whatsnew-searchbar-title = Digite menos, encontre mais usando a barra de endereços
 cfr-whatsnew-searchbar-body-topsites = Agora basta selecionar a barra de endereços e aparecem links para seus sites preferidos.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ícone da lente de aumento
 
 ## Picture-in-Picture
@@ -191,9 +194,9 @@ cfr-doorhanger-socialtracking-dont-show-again = Não mostrar mais mensagens como
 cfr-doorhanger-socialtracking-heading = O { -brand-short-name } impediu que uma rede social rastreasse você aqui
 cfr-doorhanger-socialtracking-description = Sua privacidade é importante. Agora o { -brand-short-name } bloqueia rastreadores comuns de mídias sociais, limitando quantos dados conseguem coletar sobre o que você faz online.
 cfr-doorhanger-fingerprinters-heading = O { -brand-short-name } bloqueou um fingerprinter nesta página
-cfr-doorhanger-fingerprinters-description = Sua privacidade é importante. Agora o { -brand-short-name } bloqueia fingerprinters, que coletam elementos de informação unicamente identificáveis sobre seu dispositivo para rastrear você.
+cfr-doorhanger-fingerprinters-description = Sua privacidade é importante. Agora o { -brand-short-name } bloqueia fingerprinters (rastreadores de identidade digital), que tentam coletar elementos de informação unicamente identificáveis sobre seu dispositivo para rastrear você.
 cfr-doorhanger-cryptominers-heading = O { -brand-short-name } bloqueou um criptominerador nesta página
-cfr-doorhanger-cryptominers-description = Sua privacidade é importante. Agora o { -brand-short-name } bloqueia criptomineradores, que usam o poder computacional do seu sistema para minerar moedas digitais.
+cfr-doorhanger-cryptominers-description = Sua privacidade é importante. Agora o { -brand-short-name } bloqueia criptomineradores, que tentam usar o poder computacional do seu sistema para minerar moedas digitais.
 
 ## Enhanced Tracking Protection Milestones
 
