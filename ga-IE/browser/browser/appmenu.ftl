@@ -10,6 +10,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Fuinneog Nua
+appmenuitem-new-private-window =
+    .label = Fuinneog Nua Phríobháideach
 
 ## Zoom and Fullscreen Controls
 
@@ -24,6 +28,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sioncronaigh Anois
+appmenuitem-save-page =
+    .label = Sábháil an Leathanach Mar…
 
 ## What's New panel in App menu.
 
