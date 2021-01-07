@@ -13,10 +13,15 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = জুম ইন কৰক
 appmenuitem-zoom-reduce =
     .label = জুম আউট কৰক
+appmenuitem-fullscreen =
+    .label = পূৰ্ণপৰ্দা
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
