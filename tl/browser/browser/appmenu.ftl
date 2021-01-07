@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Bagong Window
+appmenuitem-new-private-window =
+    .label = Bagong Private Window
 
 ## Zoom and Fullscreen Controls
 
