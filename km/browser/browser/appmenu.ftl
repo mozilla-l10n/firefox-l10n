@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = បង្អួច​​​ថ្មី
 appmenuitem-new-private-window =
     .label = បង្អួច​ឯកជន​ថ្មី
 
