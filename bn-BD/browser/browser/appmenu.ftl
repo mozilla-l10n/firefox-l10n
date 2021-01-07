@@ -10,16 +10,22 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = নতুন উইন্ডো
 appmenuitem-new-private-window =
     .label = নতুন ব্যক্তিগত উইন্ডো
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-fullscreen =
+    .label = পূর্ণ পর্দাজুড়ে প্রদর্শন
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = এখন সিঙ্ক
+appmenuitem-save-page =
+    .label = পাতা নতুনভাবে সংরক্ষণ…
 
 ## What's New panel in App menu.
 
