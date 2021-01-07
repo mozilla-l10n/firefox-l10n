@@ -10,6 +10,11 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-private-window =
+    .label = បង្អួច​ឯកជន​ថ្មី
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = ពង្រីក
 appmenuitem-zoom-reduce =
