@@ -79,6 +79,7 @@ printui-loading = Ön izleme hazırlanıyor
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Yazdırma ön izleme
+printui-pages-per-sheet = Yaprak başına sayfa
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Yazdırılıyor…
