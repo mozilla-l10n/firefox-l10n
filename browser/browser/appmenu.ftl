@@ -13,6 +13,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nowe okno
 appmenuitem-new-private-window =
     .label = Nowe okno prywatne
 
@@ -22,11 +24,15 @@ appmenuitem-zoom-enlarge =
     .label = Powiększ
 appmenuitem-zoom-reduce =
     .label = Pomniejsz
+appmenuitem-fullscreen =
+    .label = Tryb pełnoekranowy
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Synchronizuj teraz
+appmenuitem-save-page =
+    .label = Zapisz stronę jako…
 
 ## What's New panel in App menu.
 
