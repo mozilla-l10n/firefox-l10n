@@ -29,6 +29,8 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Սինք
+appmenuitem-save-page =
+    .label = Պահպանել Էջը որպես…
 
 ## What's New panel in App menu.
 
