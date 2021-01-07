@@ -10,6 +10,11 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-private-window =
+    .label = নতুন ব্যক্তিগত উইন্ডো
+
+## Zoom and Fullscreen Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
