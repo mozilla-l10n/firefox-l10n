@@ -11,6 +11,11 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = ဝင်းဒိုးအသစ်
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = ချဲ့ ကြည့်ရန်
 appmenuitem-zoom-reduce =
