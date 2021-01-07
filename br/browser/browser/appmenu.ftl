@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Goubredañ bremañ
+appmenuitem-save-page =
+    .label = Enrollañ ar bajenn evel…
 
 ## What's New panel in App menu.
 
