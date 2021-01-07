@@ -29,6 +29,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
+appmenuitem-save-page =
+    .label = Guardar como…
 
 ## What's New panel in App menu.
 
