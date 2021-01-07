@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Ifasitela elisha
+appmenuitem-new-private-window =
+    .label = Iwindi elisha langasese
 
 ## Zoom and Fullscreen Controls
 
