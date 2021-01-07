@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Neuvo barcon
+appmenuitem-new-private-window =
+    .label = Neuvo barcon privòu
 
 ## Zoom and Fullscreen Controls
 
