@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = కొత్త విండో
+appmenuitem-new-private-window =
+    .label = కొత్త ఆంతరంగిక విండో
 
 ## Zoom and Fullscreen Controls
 
