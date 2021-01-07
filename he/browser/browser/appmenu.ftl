@@ -13,6 +13,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = חלון חדש
+appmenuitem-new-private-window =
+    .label = חלון פרטי חדש
 
 ## Zoom and Fullscreen Controls
 
@@ -27,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = סנכרון כעת
+appmenuitem-save-page =
+    .label = שמירת דף בשם…
 
 ## What's New panel in App menu.
 
