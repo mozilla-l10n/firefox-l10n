@@ -10,9 +10,15 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = ວິນໂດໃໝ່
+appmenuitem-new-private-window =
+    .label = ວິນໂດສ່ວນຕົວໃໝ່
 
 ## Zoom and Fullscreen Controls
 
+appmenuitem-fullscreen =
+    .label = ໂຫມດເຕັມຫນ້າຈໍ
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
