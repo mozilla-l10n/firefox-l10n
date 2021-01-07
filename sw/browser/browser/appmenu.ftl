@@ -10,6 +10,13 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Dirisha Mpya
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Skrini Nzima
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
