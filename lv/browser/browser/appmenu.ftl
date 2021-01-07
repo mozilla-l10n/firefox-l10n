@@ -10,13 +10,23 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Jauns logs
+appmenuitem-new-private-window =
+    .label = Jauns privātais logs
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Pa visu ekrānu
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sinhronizēt
+appmenuitem-save-page =
+    .label = Saglabāt lapu kā…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Kas jauns?
-
