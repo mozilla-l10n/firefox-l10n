@@ -10,9 +10,18 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Fasitere Rintshwa
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Xikirini xo helela
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenuitem-save-page =
+    .label = Hlayisa pheji tani hi...
 
 ## What's New panel in App menu.
 
