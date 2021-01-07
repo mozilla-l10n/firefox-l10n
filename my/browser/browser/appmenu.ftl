@@ -13,6 +13,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = ဝင်းဒိုးအသစ်
+appmenuitem-new-private-window =
+    .label = သီးသန့်ဝင်းဒိုးအသစ်
 
 ## Zoom and Fullscreen Controls
 
@@ -20,11 +22,15 @@ appmenuitem-zoom-enlarge =
     .label = ချဲ့ ကြည့်ရန်
 appmenuitem-zoom-reduce =
     .label = ချုံ့ကြည့်ရန်
+appmenuitem-fullscreen =
+    .label = အပြည့်ကြည့်ရန်
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = ယခုပင် Sync ကို အသုံးပြုပါ
+appmenuitem-save-page =
+    .label = စာမျက်နှာကို သိမ်းမည်…
 
 ## What's New panel in App menu.
 
