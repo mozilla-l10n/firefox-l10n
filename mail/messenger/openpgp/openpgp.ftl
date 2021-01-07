@@ -17,3 +17,12 @@ openpgp-add-key-button =
 
 ## Account settings export output
 
+# Strings used in trust.jsm
+key-valid-unknown = není známo
+key-valid-invalid = vadný
+key-valid-disabled = zakázaný
+key-valid-revoked = zneplatněný
+key-valid-expired = platnost vypršela
+
+# Strings used in enigmailMessengerOverlay.js
+
