@@ -24,6 +24,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = आब तुल्यकालित करू
+appmenuitem-save-page =
+    .label = पृष्ठ एहिना सहेजू…
 
 ## What's New panel in App menu.
 
