@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Palanteer bu bees
+appmenuitem-new-private-window =
+    .label = Panlanteeru biir bu bees
 
 ## Zoom and Fullscreen Controls
 
