@@ -24,6 +24,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sync Sasa
+appmenuitem-save-page =
+    .label = Hifadhi Ukurasa Kama…
 
 ## What's New panel in App menu.
 
