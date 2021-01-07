@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Саҥа түннүк
+appmenuitem-new-private-window =
+    .label = Бүөмнээн көрүү саҥа түннүгэ
 
 ## Zoom and Fullscreen Controls
 
