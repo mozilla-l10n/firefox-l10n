@@ -10,6 +10,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Yañı Pencere
+appmenuitem-new-private-window =
+    .label = Yañı Hususiy Pencere
 
 ## Zoom and Fullscreen Controls
 
@@ -20,6 +24,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Şimdi Aynılaştır
+appmenuitem-save-page =
+    .label = Saifeni Şöyle Saqla…
 
 ## What's New panel in App menu.
 
