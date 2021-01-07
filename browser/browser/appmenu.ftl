@@ -10,6 +10,11 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-private-window =
+    .label = নতুন ব্যক্তিগত উইন্ডো
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = বড় করুন
 appmenuitem-zoom-reduce =
@@ -23,4 +28,3 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = নতুন কি আছে
-
