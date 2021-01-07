@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkronizatu orain
+appmenuitem-save-page =
+    .label = Gorde orria honela…
 
 ## What's New panel in App menu.
 
