@@ -13,6 +13,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Jendela Baru
+appmenuitem-new-private-window =
+    .label = Jendela Mode Pribadi Baru
 
 ## Zoom and Fullscreen Controls
 
