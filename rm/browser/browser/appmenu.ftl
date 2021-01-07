@@ -13,20 +13,30 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nova fanestra
+appmenuitem-new-private-window =
+    .label = Nova fanestra privata
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Engrondir
 appmenuitem-zoom-reduce =
     .label = Empitschnir
+appmenuitem-fullscreen =
+    .label = Maletg entir
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sincronisar ussa
+appmenuitem-save-page =
+    .label = Memorisar la pagina sut…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novaziuns
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
