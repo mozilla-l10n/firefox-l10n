@@ -10,6 +10,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nýr gluggi
+appmenuitem-new-private-window =
+    .label = Nýr huliðsgluggi
 
 ## Zoom and Fullscreen Controls
 
@@ -20,6 +24,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Samstilla núna
+appmenuitem-save-page =
+    .label = Vista síðu sem…
 
 ## What's New panel in App menu.
 
