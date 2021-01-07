@@ -13,6 +13,11 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nyt vindue
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Zoom ind
 appmenuitem-zoom-reduce =
@@ -22,11 +27,12 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Synkroniser nu
+appmenuitem-save-page =
+    .label = Gem side som…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nyheder
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
