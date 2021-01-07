@@ -24,6 +24,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Ngqamanisa ngoku
+appmenuitem-save-page =
+    .label = Gcina iphepha njenge…
 
 ## What's New panel in App menu.
 
