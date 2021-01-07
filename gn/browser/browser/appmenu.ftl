@@ -13,6 +13,13 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Ovetã pyahu
+appmenuitem-new-private-window =
+    .label = Ovetã ñemi pyahu
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Moag̃ui
 appmenuitem-zoom-reduce =
@@ -22,11 +29,12 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Embojuehe ko’ág̃a
+appmenuitem-save-page =
+    .label = Ñongatu pyahu…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Oĩpa mba’e pyahu
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
