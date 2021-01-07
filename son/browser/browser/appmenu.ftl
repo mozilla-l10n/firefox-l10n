@@ -10,6 +10,8 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Zanfun taaga
 
 ## Zoom and Fullscreen Controls
 
