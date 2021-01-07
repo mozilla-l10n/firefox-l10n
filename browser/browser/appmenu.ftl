@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Nytt vindauge
+appmenuitem-new-private-window =
+    .label = Nytt privat vindauge
 
 ## Zoom and Fullscreen Controls
 
