@@ -13,6 +13,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = نیا ونڈوں
+appmenuitem-new-private-window =
+    .label = نیا نجی ونڈوں
 
 ## Zoom and Fullscreen Controls
 
