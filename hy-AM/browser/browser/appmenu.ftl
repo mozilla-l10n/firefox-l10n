@@ -24,6 +24,8 @@ appmenuitem-zoom-enlarge =
     .label = Խոշորացնել
 appmenuitem-zoom-reduce =
     .label = Փոքրացնել
+appmenuitem-fullscreen =
+    .label = Լիաէկրան
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
