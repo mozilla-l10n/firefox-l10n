@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Lefasetere le leswa
+appmenuitem-new-private-window =
+    .label = Lefasetere le leswa la praebete
 
 ## Zoom and Fullscreen Controls
 
