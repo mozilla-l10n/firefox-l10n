@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "সম্পাদন ক্ষেত্রে পরিবর্তন নির্বাচন">
+<!ENTITY conflictWarning.label "এই পেজটি অন্য একটি প্রোগ্রামের দ্বারা পরিবর্তিত হয়েছে, কিন্তু আপনার করা কিছু পরিবর্তন কম্পোজারের মধ্যে উপস্থিত রয়েছে।">
+<!ENTITY conflictResolve.label "সংরক্ষণের জন্য পরিবর্তিত মানের সংস্করণ নির্বাচন করুন:">
+<!ENTITY keepCurrentPageButton.label "বর্তমান পৃষ্ঠার পরিবর্তন গ্রহণ করা হবে">
+<!ENTITY useOtherPageButton.label "বর্তমান পৃষ্ঠায় করা অন্যান্য পরিবর্তন গ্রহণ করা হবে">

@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "স্ন্যাপ-টু-গ্রিড">
+
+<!ENTITY enableSnapToGrid.label "স্ন্যাপ-টু-গ্রিড বৈশিষ্ট্য সক্রিয় করুন">
+<!ENTITY enableSnapToGrid.accessKey "e">
+
+<!ENTITY sizeEditField.label "মাপ:">
+<!ENTITY sizeEditField.accessKey "S">
+
+<!ENTITY pixelsLabel.value "পিক্সেল">

@@ -1,0 +1,44 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/pref-composer.xul -->
+
+<!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
+
+<!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
+<!ENTITY  pref.composer.title           "Composer">
+
+
+<!ENTITY  saving                    "সংরক্ষণ">
+<!ENTITY  AutoSaveCheck             "স্বয়ংক্রিয়ভাবে সংরক্ষণ করা হবে প্রতি">
+<!ENTITY  minText                   "মিনিট">
+
+<!ENTITY  exterLegend.label         "বহিস্থিত এডিটর">
+<!ENTITY  htmlSource                "HTML উৎস:">
+<!ENTITY  imageeditor               "ছবি:">
+<!ENTITY  chooseButton.label        "নির্বাচন করুন">
+
+<!ENTITY  recentFiles.title         "সম্প্রতি ব্যবহৃত পৃষ্ঠার মেনু">
+<!ENTITY  documentsInMenu.label     "তালিকাভুক্ত পৃষ্ঠার সর্বমোট সংখ্যা:">
+<!ENTITY  documentsInMenu.accesskey "n">
+
+<!ENTITY  savingFiles.title             "পৃষ্ঠা প্রকাশনা অথবা সংরক্ষণের সময়">
+<!ENTITY  preserveExisting.label        "মূল উৎসের মধ্যে ব্যবহৃত বিন্যাস অপরিবর্তি রাখা হবে">
+<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.tooltip      "মূল পৃষ্ঠার বিন্যাস ও পংক্তি বিভাজন অপরিবর্তিত রাখা হবে">
+<!ENTITY  saveAssociatedFiles.label     "পৃষ্ঠা সংরক্ষণ করার সময় ছবি ও অন্যান্য সংযুক্ত ফাইল সংরক্ষণ করা হবে">
+<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  showPublishDialog.label       "পৃষ্ঠা প্রকাশনার সময় সর্বদা প্রকাশনার ডায়লগ প্রদর্শন করা হবে">
+<!ENTITY  showPublishDialog.accesskey   "A">
+
+<!ENTITY  composerEditing.label         "সম্পাদনা">
+<!ENTITY  spellCheckInline.label        "টাইপ করার সময় বানান পরীক্ষা করা হবে">
+<!ENTITY  spellCheckInline.accesskey    "C">
+<!ENTITY  maintainStructure.label       "সেল যোগ অথবা অপসারণ করার সময় টেবিলের বিন্যাস অপরিবর্তিত রাখা হবে">
+<!ENTITY  maintainStructure.tooltip     "সেল যোগ অথবা অপসারণ করার পরে স্বয়ংক্রিয়ভাবে টেবিলের চতুর্ভুজাকার অপরিবর্তিত রাখা হবে">
+<!ENTITY  maintainStructure.accesskey   "M">
+<!ENTITY  useCSS.label                  "HTML'র বিভিন্ন স্বত্তা ও বৈশিষ্ট্যের পরিবর্তে CSS বিন্যাস প্রয়োগ করা হবে">
+<!ENTITY  useCSS.accesskey              "U">
+<!ENTITY  crInPCreatesNewP.label        "অনুচ্ছেদের মধ্যে এন্টার/রিটার্ন-কি টেপা হলে নতুন অনুচ্ছেদ আরম্ভ করা হবে">
+<!ENTITY  crInPCreatesNewP.accesskey    "R">

@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY AdvancedEditButton.label "উন্নত সম্পাদন ব্যবস্থা...">
+<!ENTITY AdvancedEditButton.accessKey "E">
+<!ENTITY AdvancedEditButton.tooltip "HTML বৈশিষ্ট্য, বিন্যাসের বৈশিষ্ট্য ও JavaScript যোগ অথবা পরিবর্তন করুন">
+<!ENTITY chooseButton.label "ফাইল নির্বাচন করুন...">
+<!ENTITY chooseFile.accessKey "F">
+<!ENTITY chooseFileLink.accessKey "o">
+<!ENTITY makeUrlRelative.label "পেজের অবস্থানের অপেক্ষায় URL">
+<!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.tooltip "স্থায়ী ও আপেক্ষিক URL'র মধ্যে পরিবর্তন। এটি পরিবর্তনের জন্য প্রথমে পেজ সংরক্ষণ করা আবশ্যক।">
+
+<!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField.label "ওয়েব পেজের অবস্থান, স্থানীয় ফাইল অথবা পপ-আপ লিস্ট থেকে একটি নেমড অ্যাঞ্চর অথবা শিরোনাম নির্বাচন করুন:">
+<!ENTITY LinkURLEditField.accessKey "L">

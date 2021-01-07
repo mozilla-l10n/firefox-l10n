@@ -1,0 +1,83 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tableWindow.title                "টেবিলের বৈশিষ্ট্য">
+<!ENTITY applyButton.label                "প্রয়োগ করুন">
+<!ENTITY applyButton.accesskey            "A">
+<!ENTITY closeButton.label                "বন্ধ করুন">
+<!ENTITY tableTab.label                   "টেবিল">
+<!ENTITY cellTab.label                    "সেল">
+<!ENTITY tableRows.label                  "সারি:">
+<!ENTITY tableRows.accessKey              "R">
+<!ENTITY tableColumns.label               "ক্ষেত্র:">
+<!ENTITY tableColumns.accessKey           "C">
+<!ENTITY tableHeight.label                "উচ্চতা:">
+<!ENTITY tableHeight.accessKey            "G">
+<!ENTITY tableWidth.label                 "প্রস্থ:">
+<!ENTITY tableWidth.accessKey             "W">
+<!ENTITY tableBorderSpacing.label         "প্রান্তরেখা ও অন্তর্বর্তী শূণ্যস্থান">
+<!ENTITY tableBorderWidth.label           "প্রান্তরেখা:">
+<!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableSpacing.label               "অন্তর্বর্তী শূণ্যস্থান:">
+<!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePadding.label               "পার্শবর্তী স্থান:">
+<!ENTITY tablePadding.accessKey           "P">
+<!ENTITY tablePxBetwCells.label           "আন্ত সেল ব্যবধান, পিক্সেল">
+<!ENTITY tablePxBetwBrdrCellContent.label "সেলের প্রান্তরেখা ও অন্তর্ভুক্ত বিষয়বস্তুর মধ্যে ব্যবধান, পিক্সেল">
+<!ENTITY tableAlignment.label             "টেবিলের দিশা:">
+<!ENTITY tableAlignment.accessKey         "T">
+<!ENTITY tableCaption.label               "শিরোনাম:">
+<!ENTITY tableCaption.accessKey           "N">
+<!ENTITY tableCaptionAbove.label          "টেবিলের উপরে">
+<!ENTITY tableCaptionBelow.label          "টেবিলের নীচে">
+<!ENTITY tableCaptionLeft.label           "টেবিলের বাঁদিকে">
+<!ENTITY tableCaptionRight.label          "টেবিলের ডানদিকে">
+<!ENTITY tableCaptionNone.label           "শূণ্য">
+<!ENTITY tableInheritColor.label           "(পৃষ্ঠার রং প্রদর্শনযোগ্য হবে)">
+
+<!ENTITY cellPercent.label                "টেবিলের মাপের শতাংশ">
+<!ENTITY cellSelection.label              "নির্বাচিত অংশ">
+<!ENTITY cellSelectCell.label             "সেল">
+<!ENTITY cellSelectRow.label              "সারি">
+<!ENTITY cellSelectColumn.label           "ক্ষেত্র">
+<!ENTITY cellSelectNext.label             "পরবর্তী">
+<!ENTITY cellSelectNext.accessKey         "N">
+<!ENTITY cellSelectPrevious.label         "পূর্ববর্তী">
+<!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellApplyBeforeMove.label        "নির্বাচিত বস্তু পরিবর্তনের পূর্বে অন্যান্য পরিবর্তন প্রয়োগ করা হবে">
+<!ENTITY cellKeepCurrentData.label        "বর্তমান বৈশিষ্ট্য অপরিবর্তিত রাখা হবে">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label         "নির্বাচিত বিষয়বস্তু পরিবর্তনের পূর্বে">
+<!ENTITY applyBeforeChange2.label         "বর্তমান পরিবর্তন প্রয়োগ করা হবে।">
+<!ENTITY cellRowSpan.label                "সারির বিস্তার:">
+<!ENTITY cellColSpan.label                "ক্ষেত্রের বিস্তার:">
+<!ENTITY cellContentAlignment.label       "বিষয়বস্তুর দিশা">
+<!ENTITY cellHorizontal.label             "অনুভূমিক:">
+<!ENTITY cellHorizontal.accessKey         "Z">
+<!ENTITY cellVertical.label               "উলম্ব:">
+<!ENTITY cellVertical.accessKey           "V">
+<!ENTITY cellStyle.label                  "সেলের বিন্যাস:">
+<!ENTITY cellStyle.accessKey              "C">
+<!ENTITY cellNormal.label                 "স্বাভাবিক">
+<!ENTITY cellHeader.label                 "হেডার">
+<!ENTITY cellTextWrap.label               "টেক্সটের বিভাজন:">
+<!ENTITY cellTextWrap.accessKey           "T">
+<!ENTITY cellWrap.label                   "বিভাজন করা হবে">
+<!ENTITY cellNoWrap.label                 "বিভাজন করা হবে না">
+<!ENTITY cellAlignTop.label               "উপরে">
+<!ENTITY cellAlignMiddle.label            "মাঝখানে">
+<!ENTITY cellAlignBottom.label            "নীচে">
+<!ENTITY cellAlignJustify.label           "সমপ্রান্তিক">
+<!ENTITY cellAlignAtChar.label            "চিহ্নিত অক্ষরে:">
+<!ENTITY cellInheritColor.label           "(টেবিলের রং প্রদর্শনযোগ্য হবে)">
+<!ENTITY cellUseCheckboxHelp.label        "সমস্ত নির্বাচিত সেলের মধ্যে  প্রয়োগ করার যোগ্য বৈশিষ্ট্য চেকবক্স দ্বারা নির্ধারণ করুন">
+
+<!-- Used in both Table and Cell panels  -->
+<!ENTITY size.label                       "মাপ">
+<!ENTITY pixels.label                     "পিক্সেল">
+<!ENTITY backgroundColor.label            "পটভূমির রং:">
+<!ENTITY backgroundColor.accessKey        "B">
+<!ENTITY AlignLeft.label                  "বাঁদিকে">
+<!ENTITY AlignCenter.label                "কেন্দ্রস্থিত">
+<!ENTITY AlignRight.label                 "ডানদিকে">

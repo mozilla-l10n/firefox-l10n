@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pref.editing.title        "নতুন পৃষ্ঠার বৈশিষ্ট্য">
+
+<!ENTITY  authorName.label          "লেখক:">
+<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  pageColorHeader           "পৃষ্ঠার ডিফল্ট চেহারাছবি">
+
+<!ENTITY defaultColorsRadio.label   "পাঠকের দ্বারা ব্যবহৃত ডিফল্ট রং (পৃষ্ঠার জন্য রং নির্ধারণ করা হবে না)">
+<!ENTITY defaultColors.accesskey    "d">
+<!ENTITY customColorsRadio.label    "পছন্দসই রং ব্যবহার করুন:">
+<!ENTITY customColors.accesskey     "c">
+
+<!ENTITY normalText.label           "স্বাভাবিক টেক্সট">
+<!ENTITY normalText.accesskey       "N">
+<!ENTITY linkText.label             "লিঙ্কের টেক্সট">
+<!ENTITY linkText.accesskey         "L">
+<!ENTITY activeLinkText.label       "সক্রিয় লিঙ্কের টেক্সট">
+<!ENTITY activeLinkText.accesskey   "A">
+<!ENTITY visitedLinkText.label      "প্রদর্শিত লিঙ্কের টেক্সট">
+<!ENTITY visitedLinkText.accesskey  "V">
+<!ENTITY background.label           "পটভূমি:">
+<!ENTITY background.accesskey       "B">
+<!ENTITY colon.character            ":">
+
+<!ENTITY backgroundImage.label      "পটভূমির ছবি:">
+<!ENTITY backgroundImage.accesskey  "m">
+<!ENTITY chooseFile.label           "ফাইল নির্বাচন...">
+<!ENTITY chooseFile.accesskey       "o">
+
