@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Новае акно
+appmenuitem-new-private-window =
+    .label = Новае прыватнае акно
 
 ## Zoom and Fullscreen Controls
 
