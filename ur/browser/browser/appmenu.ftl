@@ -24,6 +24,8 @@ appmenuitem-zoom-enlarge =
     .label = اندر زوم کریں
 appmenuitem-zoom-reduce =
     .label = باہر زوم کریں
+appmenuitem-fullscreen =
+    .label = پوری اسکرین
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
