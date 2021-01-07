@@ -10,6 +10,15 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Jauns lūgs
+appmenuitem-new-private-window =
+    .label = Jauns privatais lūgs
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Pa vysu ekranu
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
