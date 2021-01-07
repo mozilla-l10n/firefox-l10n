@@ -10,6 +10,11 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-private-window =
+    .label = गोदान प्राइभेट उइन्ड'
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = गेदेरै जुम खालाम
 appmenuitem-zoom-reduce =
@@ -23,4 +28,3 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = मा गोदान
-
