@@ -44,23 +44,36 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } барои iPhone ва
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-in = Ягон воридшавии ҳамоҳангшуда ёфт нашуд.
 
 ## Login
 
+login-item-new-login-title = Эҷод кардани воридшавии нав
 login-item-edit-button = Таҳрир кардан
 about-logins-login-item-remove-button = Тоза кардан
 login-item-origin-label = Нишонии сомона
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Номи корбар
+about-logins-login-item-username =
+    .placeholder = (номи корбар нест)
 login-item-copy-username-button-text = Нусха бардоштан
+login-item-copied-username-button-text = Нусха бардошта шуд!
 login-item-password-label = Ниҳонвожа
+login-item-password-reveal-checkbox =
+    .aria-label = Намоиши ниҳонвожа
 login-item-copy-password-button-text = Нусха бардоштан
+login-item-copied-password-button-text = Нусха бардошта шуд!
 login-item-save-changes-button = Нигоҳ доштани тағйирот
 login-item-save-new-button = Нигоҳ доштан
+login-item-cancel-button = Бекор кардан
+login-item-time-changed = Санаи тағйири охирин: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Санаи эҷод: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Санаи истифодаи охирин: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -96,6 +109,11 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ҳа, ин воридшавиро тоза намоед
        *[other] Ҳа, ин воридшавиҳоро тоза намоед
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Воридшавии { $count }-ро тоза мекунед?
+       *[other] Воридшавиҳои { $count }-ро тоза мекунед?
     }
 
 ## Breach Alert notification
