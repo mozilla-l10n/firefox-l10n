@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Fereastră nouă
+appmenuitem-new-private-window =
+    .label = Fereastră privată nouă
 
 ## Zoom and Fullscreen Controls
 
@@ -22,11 +24,15 @@ appmenuitem-zoom-enlarge =
     .label = Mărește
 appmenuitem-zoom-reduce =
     .label = Micșorează
+appmenuitem-fullscreen =
+    .label = Ecran complet
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sincronizează acum
+appmenuitem-save-page =
+    .label = Salvează pagina ca…
 
 ## What's New panel in App menu.
 
