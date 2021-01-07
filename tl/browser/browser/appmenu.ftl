@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Mag-sync Na
+appmenuitem-save-page =
+    .label = I-save ang Pahina Bilang…
 
 ## What's New panel in App menu.
 
