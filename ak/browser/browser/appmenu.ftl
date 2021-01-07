@@ -11,6 +11,11 @@ appmenuitem-customize-mode =
 ## Zoom Controls
 
 
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Skreen Tɛtrɛtɛɛ
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
