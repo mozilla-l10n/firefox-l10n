@@ -28,6 +28,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinxronlash
+appmenuitem-save-page =
+    .label = Sahifani saqlash…
 
 ## What's New panel in App menu.
 
