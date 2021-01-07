@@ -10,11 +10,20 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Eddirisa Epya
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Sikulini mu Bujjuvu
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Kwanaganya kati
+appmenuitem-save-page =
+    .label = Tereka Omuko Nga…
 
 ## What's New panel in App menu.
 
