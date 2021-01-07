@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Νέο παράθυρο
+appmenuitem-new-private-window =
+    .label = Νέο ιδιωτικό παράθυρο
 
 ## Zoom and Fullscreen Controls
 
