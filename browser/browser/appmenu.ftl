@@ -12,10 +12,15 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Yaxınlaşdır
 appmenuitem-zoom-reduce =
     .label = Uzaqlaşdır
+appmenuitem-fullscreen =
+    .label = Tam ekran
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
