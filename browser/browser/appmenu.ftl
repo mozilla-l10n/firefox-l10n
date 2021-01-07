@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinchronizuoti dabar
+appmenuitem-save-page =
+    .label = Įrašyti kaip…
 
 ## What's New panel in App menu.
 
