@@ -29,6 +29,26 @@
 <!ENTITY publishSettings.label "Közzététel helyének beállításai…">
 <!ENTITY publishSettings.accesskey "z">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Űrlap">
+<!ENTITY insertFormMenu.accesskey "r">
+<!ENTITY insertFormCmd.label "Űrlap megadása…">
+<!ENTITY insertFormCmd.accesskey "m">
+<!ENTITY insertInputTagCmd.label "Űrlapmező…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Űrlapkép…">
+<!ENTITY insertInputImageCmd.accesskey "k">
+<!ENTITY insertTextAreaCmd.label "Szövegterület…">
+<!ENTITY insertTextAreaCmd.accesskey "t">
+<!ENTITY insertSelectCmd.label "Választólista…">
+<!ENTITY insertSelectCmd.accesskey "V">
+<!ENTITY insertButtonCmd.label "Gomb megadása…">
+<!ENTITY insertButtonCmd.accesskey "G">
+<!ENTITY insertLabelCmd.label "Címke megadása">
+<!ENTITY insertLabelCmd.accesskey "C">
+<!ENTITY insertFieldSetCmd.label "Mezőcsoport megadása…">
+<!ENTITY insertFieldSetCmd.accesskey "o">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Új">
 <!ENTITY newToolbarCmd.tooltip "Új HTML-szerkesztő oldal létrehozása">

@@ -11,11 +11,12 @@
 <!ENTITY pasteNoFormatting.label "Beillesztés formázás nélkül">
 <!ENTITY pasteNoFormatting.accesskey "f">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Irányított beillesztés">
-<!ENTITY pasteAs.accesskey "I">
 <!ENTITY pasteAsQuotationCmd.label "Beillesztés idézetként">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Újratördelés">
+<!ENTITY editRewrapCmd.key "j">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY findBarCmd.label "Keresés…">
 <!ENTITY findReplaceCmd.label "Keresés és csere…">
 <!ENTITY enableInlineSpellChecker.label "Helyesírás-ellenőrzés írás közben">
@@ -294,8 +295,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Kivágás">
 <!ENTITY copyToolbarCmd.tooltip "Másolás">
 <!ENTITY pasteToolbarCmd.tooltip "Beillesztés">
-<!ENTITY printToolbarCmd.label "Nyomtatás">
-<!ENTITY printToolbarCmd.tooltip "Oldal kinyomtatása">
 <!ENTITY findToolbarCmd.label "Keresés">
 <!ENTITY findToolbarCmd.tooltip "Szöveg keresése az oldalon">
 <!ENTITY spellToolbarCmd.label "Helyesírás">
@@ -313,8 +312,6 @@
 <!ENTITY colorButtons.title "Színek">
 <!ENTITY TextColorButton.tooltip "A szöveg színének beállítása">
 <!ENTITY BackgroundColorButton.tooltip "A háttér színének beállítása">
-<!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
-<!ENTITY throbber.tooltip2 "Ugrás a &brandShortName; honlapjára">
 <!ENTITY HighlightColorButton.label "Kiemelő">
 <!ENTITY HighlightColorButton.tooltip "Szövegkiemelésre használt szín kiválasztása">
 
