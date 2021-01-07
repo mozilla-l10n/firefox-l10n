@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Nyt vindue
+appmenuitem-new-private-window =
+    .label = Nyt privat vindue
 
 ## Zoom and Fullscreen Controls
 
@@ -22,6 +24,8 @@ appmenuitem-zoom-enlarge =
     .label = Zoom ind
 appmenuitem-zoom-reduce =
     .label = Zoom ud
+appmenuitem-fullscreen =
+    .label = Fuld skærm
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
