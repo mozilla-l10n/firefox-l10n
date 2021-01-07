@@ -10,6 +10,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = ಹೊಸ ಕಿಟಕಿ
+appmenuitem-new-private-window =
+    .label = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ
 
 ## Zoom and Fullscreen Controls
 
