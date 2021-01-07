@@ -202,4 +202,16 @@ newtab-error-fallback-refresh-link = మళ్ళీ ప్రయత్నిం
 
 ## Customization Menu
 
+newtab-custom-shortcuts-subtitle = మీరు భద్రపరచుకున్న లేదా చూసిన సైట్లు
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } వరుస
+       *[other] { $num } వరుసలు
+    }
+newtab-custom-recent-title = ఇటీవలి కార్యకలాపం
 newtab-custom-close-button = మూసివేయి
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = సంగతులు

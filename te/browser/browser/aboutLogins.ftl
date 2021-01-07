@@ -121,6 +121,7 @@ about-logins-copy-password-os-auth-dialog-message-macosx = భద్రపరచ
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = భద్రపరచిన ప్రవేశాలను, సంకేతపదాలను చూడటానికి దయచేసి మీ ప్రధాన సంకేతపదాన్ని ఇవ్వండి.
 master-password-reload-button =
     .label = ప్రవేశించండి
     .accesskey = L
