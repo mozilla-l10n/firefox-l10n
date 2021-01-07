@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Uinneag ùr
+appmenuitem-new-private-window =
+    .label = Uinneag phrìobhaideach ùr
 
 ## Zoom and Fullscreen Controls
 
