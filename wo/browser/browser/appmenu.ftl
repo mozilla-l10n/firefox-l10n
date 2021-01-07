@@ -10,11 +10,20 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Palanteer bu bees
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Seetukaay bu yambalaŋ
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Jàppanteel léegi
+appmenuitem-save-page =
+    .label = Aar ci…
 
 ## What's New panel in App menu.
 
