@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkronkan Sekarang
+appmenuitem-save-page =
+    .label = Simpan Laman dengan Nama…
 
 ## What's New panel in App menu.
 
