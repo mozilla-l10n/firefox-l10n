@@ -28,6 +28,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = હમણાં સમન્વયિત કરો
+appmenuitem-save-page =
+    .label = આ રીતે પૃષ્ઠ સાચવો ...
 
 ## What's New panel in App menu.
 
