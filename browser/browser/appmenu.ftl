@@ -10,11 +10,22 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = புதிய சாளரம்
+appmenuitem-new-private-window =
+    .label = புதிய பிரத்தியேக சாளரம்
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = முழுத்திரை
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = இப்போது ஒத்திசை
+appmenuitem-save-page =
+    .label = பக்கத்தை இப்படிச் சேமி…
 
 ## What's New panel in App menu.
 
