@@ -24,6 +24,8 @@ appmenuitem-zoom-enlarge =
     .label = Povečaj
 appmenuitem-zoom-reduce =
     .label = Pomanjšaj
+appmenuitem-fullscreen =
+    .label = Celoten zaslon
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
