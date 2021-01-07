@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Dirisha Mpya
+appmenuitem-new-private-window =
+    .label = Window Mpya ya Kibinafsi
 
 ## Zoom and Fullscreen Controls
 
