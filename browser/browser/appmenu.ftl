@@ -10,10 +10,17 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = નવી વિન્ડો
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = મોટું કરો
 appmenuitem-zoom-reduce =
     .label = નાનુ કરો
+appmenuitem-fullscreen =
+    .label = પૂર્ણ સ્ક્રીન
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -23,4 +30,3 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = નવું શું છે
-
