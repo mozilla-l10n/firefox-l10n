@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = نافذة جديدة
+appmenuitem-new-private-window =
+    .label = نافذة خاصة جديدة
 
 ## Zoom and Fullscreen Controls
 
