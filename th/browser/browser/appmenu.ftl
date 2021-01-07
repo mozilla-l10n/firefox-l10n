@@ -24,11 +24,15 @@ appmenuitem-zoom-enlarge =
     .label = ขยายเข้า
 appmenuitem-zoom-reduce =
     .label = ขยายออก
+appmenuitem-fullscreen =
+    .label = เต็มหน้าจอ
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = ซิงค์ตอนนี้
+appmenuitem-save-page =
+    .label = บันทึกหน้าเป็น…
 
 ## What's New panel in App menu.
 
