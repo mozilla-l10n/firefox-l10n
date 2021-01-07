@@ -21,6 +21,8 @@ appmenuitem-zoom-enlarge =
     .label = ពង្រីក
 appmenuitem-zoom-reduce =
     .label = បង្រួម
+appmenuitem-fullscreen =
+    .label = អេក្រង់​ពេញ
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
