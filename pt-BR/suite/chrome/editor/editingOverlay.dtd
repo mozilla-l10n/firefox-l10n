@@ -29,6 +29,10 @@
 <!ENTITY publishSettings.label "Configurações de publicação do site…">
 <!ENTITY publishSettings.accesskey "n">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Formulário">
+<!ENTITY insertFormMenu.accesskey "F">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Novo">
 <!ENTITY newToolbarCmd.tooltip "Criar uma nova página do Composer">
