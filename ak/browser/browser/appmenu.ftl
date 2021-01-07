@@ -20,6 +20,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synk seisei ara
+appmenuitem-save-page =
+    .label = Sie Krataafa Sɛ…
 
 ## What's New panel in App menu.
 
