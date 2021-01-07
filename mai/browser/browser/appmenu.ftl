@@ -12,6 +12,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = नव विंडो
+appmenuitem-new-private-window =
+    .label = नया निज विंडो (W)
 
 ## Zoom and Fullscreen Controls
 
