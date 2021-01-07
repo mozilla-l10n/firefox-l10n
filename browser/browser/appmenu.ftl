@@ -13,15 +13,22 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Inzoomen
 appmenuitem-zoom-reduce =
     .label = Uitzoomen
+appmenuitem-fullscreen =
+    .label = Volledig scherm
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Nu synchroniseren
+appmenuitem-save-page =
+    .label = Pagina opslaan als…
 
 ## What's New panel in App menu.
 
