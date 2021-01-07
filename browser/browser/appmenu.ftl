@@ -13,6 +13,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nueva ventana
+appmenuitem-new-private-window =
+    .label = Nueva ventana privada
 
 ## Zoom and Fullscreen Controls
 
@@ -27,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
+appmenuitem-save-page =
+    .label = Guardar como…
 
 ## What's New panel in App menu.
 
