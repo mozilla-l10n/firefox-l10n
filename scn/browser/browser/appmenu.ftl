@@ -10,17 +10,27 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nova finestra
+appmenuitem-new-private-window =
+    .label = Nova finestra privata
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Cchiù granni
 appmenuitem-zoom-reduce =
     .label = Cchiù nicu
+appmenuitem-fullscreen =
+    .label = Tuttu schirmu
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Sincrunizza ora
+appmenuitem-save-page =
+    .label = Sarba pàggina comu…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Nuvità
-
