@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Нови прозор
+appmenuitem-new-private-window =
+    .label = Нови приватан прозор
 
 ## Zoom and Fullscreen Controls
 
@@ -29,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизуј сада
+appmenuitem-save-page =
+    .label = Сачувај страницу као…
 
 ## What's New panel in App menu.
 
