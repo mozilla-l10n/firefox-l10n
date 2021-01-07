@@ -10,11 +10,18 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Lefasetere le leswa
+
+## Zoom and Fullscreen Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Nyalantšha gona bjale
+appmenuitem-save-page =
+    .label = Boloka letlakala e le…
 
 ## What's New panel in App menu.
 
