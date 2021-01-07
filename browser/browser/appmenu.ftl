@@ -10,6 +10,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Pencereya Nû
+appmenuitem-new-private-window =
+    .label = Pencereyeke Nepen ya nû
 
 ## Zoom and Fullscreen Controls
 
