@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Қазір синхрондау
+appmenuitem-save-page =
+    .label = Парақты қалайша сақтау…
 
 ## What's New panel in App menu.
 
