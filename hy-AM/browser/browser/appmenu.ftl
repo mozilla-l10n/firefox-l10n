@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Նոր Պատուհան
+appmenuitem-new-private-window =
+    .label = Սկսել Գաղտնի դիտարկում
 
 ## Zoom and Fullscreen Controls
 
