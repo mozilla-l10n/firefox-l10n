@@ -10,11 +10,20 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nowé òkno
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Fùlekranowi trib
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Synchronizëjë terô
+appmenuitem-save-page =
+    .label = Zapiszë stronã jakno…
 
 ## What's New panel in App menu.
 
