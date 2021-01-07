@@ -13,6 +13,10 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Nij finster
+appmenuitem-new-private-window =
+    .label = Nij priveefinster
 
 ## Zoom and Fullscreen Controls
 
@@ -27,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = No syngronisearje
+appmenuitem-save-page =
+    .label = Side bewarje as…
 
 ## What's New panel in App menu.
 
