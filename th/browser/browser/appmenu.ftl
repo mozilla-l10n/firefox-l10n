@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = หน้าต่างใหม่
+appmenuitem-new-private-window =
+    .label = หน้าต่างส่วนตัวใหม่
 
 ## Zoom and Fullscreen Controls
 
