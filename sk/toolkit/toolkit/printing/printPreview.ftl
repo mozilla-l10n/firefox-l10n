@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Strana:
     .accesskey = S
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } z { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Posledná stránka
-
+printpreview-homearrow-button =
+    .title = Prvá stránka
+printpreview-previousarrow-button =
+    .title = Predchádzajúca stránka
+printpreview-nextarrow-button =
+    .title = Ďalšia stránka
+printpreview-endarrow-button =
+    .title = Posledná stránka
