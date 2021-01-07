@@ -13,15 +13,26 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = پەنجەرەی نوێ
+appmenuitem-new-private-window =
+    .label = پەنجەرەی تایبەتی نوێ
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = هێنانەپێش
 appmenuitem-zoom-reduce =
     .label = ڕۆچوونی
+appmenuitem-fullscreen =
+    .label = پڕاوپڕ
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = هاوکاتگەری بکە ئێستا
+appmenuitem-save-page =
+    .label = پەرە پاشەکەوت بکە وەک...
 
 ## What's New panel in App menu.
 
