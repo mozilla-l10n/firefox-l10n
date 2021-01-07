@@ -13,6 +13,13 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Novo okno
+appmenuitem-new-private-window =
+    .label = Novo zasebno okno
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Povečaj
 appmenuitem-zoom-reduce =
@@ -22,11 +29,12 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sinhroniziraj
+appmenuitem-save-page =
+    .label = Shrani stran kot …
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novosti
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
