@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Cydweddu Nawr
+appmenuitem-save-page =
+    .label = Cadw Tudalen Fel…
 
 ## What's New panel in App menu.
 
