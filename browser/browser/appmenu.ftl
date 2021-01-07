@@ -13,10 +13,15 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Zoom avant
 appmenuitem-zoom-reduce =
     .label = Zoom arrièr
+appmenuitem-fullscreen =
+    .label = Ecran complet
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
@@ -26,7 +31,6 @@ fxa-toolbar-sync-now =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Qué de nòu
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
