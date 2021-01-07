@@ -10,6 +10,15 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Ifestile entsha
+appmenuitem-new-private-window =
+    .label = Ifestile yangasese entsha
+
+## Zoom and Fullscreen Controls
+
+appmenuitem-fullscreen =
+    .label = Isikrini esiZeleyo
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
