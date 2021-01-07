@@ -31,6 +31,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = დასინქრონება ახლავე
+appmenuitem-save-page =
+    .label = გვერდის შენახვა როგორც…
 
 ## What's New panel in App menu.
 
