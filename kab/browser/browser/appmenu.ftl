@@ -24,6 +24,8 @@ appmenuitem-zoom-enlarge =
     .label = Semɣeṛ
 appmenuitem-zoom-reduce =
     .label = Semẓi
+appmenuitem-fullscreen =
+    .label = Agdil Ačaran
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
