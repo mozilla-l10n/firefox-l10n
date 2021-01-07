@@ -13,10 +13,19 @@ appmenuitem-customize-mode =
 
 ## Zoom Controls
 
+appmenuitem-new-window =
+    .label = Նոր պատուհան
+appmenuitem-new-private-window =
+    .label = Սկսել գաղտնի դիտարկում
+
+## Zoom and Fullscreen Controls
+
 appmenuitem-zoom-enlarge =
     .label = Խոշորացնել
 appmenuitem-zoom-reduce =
     .label = Փոքրացնել
+appmenuitem-fullscreen =
+    .label = Լիեկրան
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
