@@ -11,11 +11,12 @@
 <!ENTITY pasteNoFormatting.label "Paste Without Formatting">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Paste As">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Rewrap">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY findBarCmd.label "Find…">
 <!ENTITY findReplaceCmd.label "Find and Replace…">
 <!ENTITY enableInlineSpellChecker.label "Spellcheck As You Type">
@@ -294,8 +295,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Cut">
 <!ENTITY copyToolbarCmd.tooltip "Copy">
 <!ENTITY pasteToolbarCmd.tooltip "Paste">
-<!ENTITY printToolbarCmd.label "Print">
-<!ENTITY printToolbarCmd.tooltip "Print this page">
 <!ENTITY findToolbarCmd.label "Find">
 <!ENTITY findToolbarCmd.tooltip "Find text in page">
 <!ENTITY spellToolbarCmd.label "Spell">
@@ -313,8 +312,6 @@
 <!ENTITY colorButtons.title "Colours">
 <!ENTITY TextColorButton.tooltip "Choose colour for text">
 <!ENTITY BackgroundColorButton.tooltip "Choose colour for background">
-<!ENTITY throbber.tooltip "Go to the &vendorShortName; home page">
-<!ENTITY throbber.tooltip2 "Go to the &brandShortName; home page">
 <!ENTITY HighlightColorButton.label "Highlighter">
 <!ENTITY HighlightColorButton.tooltip "Choose highlight colour for text">
 
