@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Novi prozor
+appmenuitem-new-private-window =
+    .label = Novi privatni prozor
 
 ## Zoom and Fullscreen Controls
 
