@@ -11,10 +11,15 @@ appmenuitem-customize-mode =
 ## Zoom Controls
 
 
+## Zoom and Fullscreen Controls
+
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
+appmenuitem-save-page =
+    .label = ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...
 
 ## What's New panel in App menu.
 
