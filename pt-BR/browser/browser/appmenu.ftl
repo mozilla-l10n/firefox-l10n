@@ -15,6 +15,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Nova janela
+appmenuitem-new-private-window =
+    .label = Nova janela privativa
 
 ## Zoom and Fullscreen Controls
 
