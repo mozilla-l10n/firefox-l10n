@@ -18,6 +18,8 @@ appmenuitem-new-window =
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
+appmenuitem-save-page =
+    .label = Kubika Paji Muri...
 
 ## What's New panel in App menu.
 
