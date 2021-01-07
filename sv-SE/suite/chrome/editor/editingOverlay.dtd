@@ -29,6 +29,13 @@
 <!ENTITY publishSettings.label "Publiceringsinställningar…">
 <!ENTITY publishSettings.accesskey "P">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Formulär">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertFormCmd.label "Definiera formulär…">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Formulärfält…">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Ny">
 <!ENTITY newToolbarCmd.tooltip "Skapa en ny sida i Composer">
