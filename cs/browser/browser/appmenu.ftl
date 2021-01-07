@@ -21,6 +21,8 @@ appmenuitem-customize-mode =
 
 appmenuitem-new-window =
     .label = Nové okno
+appmenuitem-new-private-window =
+    .label = Nové anonymní okno
 
 ## Zoom and Fullscreen Controls
 
@@ -35,6 +37,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovat
+appmenuitem-save-page =
+    .label = Uložit stránku jako…
 
 ## What's New panel in App menu.
 
