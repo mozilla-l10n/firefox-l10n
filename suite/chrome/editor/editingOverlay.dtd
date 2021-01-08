@@ -45,6 +45,9 @@
 <!ENTITY insertButtonCmd.label "Создать кнопку…">
 <!ENTITY insertButtonCmd.accesskey "к">
 <!ENTITY insertLabelCmd.label "Создать метку">
+<!ENTITY insertLabelCmd.accesskey "м">
+<!ENTITY insertFieldSetCmd.label "Создать набор полей…">
+<!ENTITY insertFieldSetCmd.accesskey "н">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Создать">
