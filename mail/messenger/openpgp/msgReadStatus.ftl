@@ -6,6 +6,13 @@
 ## Message Header Encryption Button
 
 message-header-show-security-info-key = S
+#   $type (String) - the shortcut key defined in the message-header-show-security-info-key
+message-security-button =
+    .title =
+        { PLATFORM() ->
+            [macos] 顯示訊息安全性資訊（⌘ ⌥ { message-header-show-security-info-key }）
+           *[other] 顯示訊息安全性資訊（Ctrl+Alt+{ message-header-show-security-info-key }）
+        }
 openpgp-view-signer-key =
     .label = 檢視簽署者金鑰
 openpgp-view-your-encryption-key =
