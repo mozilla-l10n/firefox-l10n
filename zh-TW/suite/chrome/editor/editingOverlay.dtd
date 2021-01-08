@@ -41,6 +41,13 @@
 <!ENTITY insertTextAreaCmd.label "文字區域…">
 <!ENTITY insertTextAreaCmd.accesskey "T">
 <!ENTITY insertSelectCmd.label "選擇項目清單…">
+<!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.label "定義按鈕…">
+<!ENTITY insertButtonCmd.accesskey "B">
+<!ENTITY insertLabelCmd.label "定義標籤">
+<!ENTITY insertLabelCmd.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "定義表單集合…">
+<!ENTITY insertFieldSetCmd.accesskey "F">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "開新視窗">
