@@ -69,12 +69,14 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = دەگەڕێیت بۆ چوونەژوورە پاشەکەوت کراوەکانت؟ { -sync-brand-short-name } ڕێک بخە.
+about-logins-login-intro-heading-logged-out = بۆ چوونەژوورە پاشەکەوت کراوەکانت دەگەڕێیت؟ { -sync-brand-short-name } ڕێک بخە یان بیانهێنە.
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
 login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
 login-intro-instruction-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
 login-intro-instruction-fxa-settings = دڵنیابە لەوەی کە بۆکسی دیاریکردنی هەڵبژاردوە بۆ چوونەژوورەوەکان لە ڕێکخستنەکانی { -sync-brand-short-name }
 about-logins-intro-instruction-help = سەردانی <a data-l10n-name="help-link">{ -lockwise-brand-short-name } پشتگیری</a> بکە بۆ زانیاری زیاتر
 about-logins-intro-import = ئەگەر چوونەژوورەوەکانت لە وێبگەڕێکی تر پاشەکەوت کراوە، دەتوانیت <a data-l10n-name="import-link">هاوردەیان بکەیت بۆ { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = ئەگەر چوونەژوورەوەکانت لە دەرەوەی { -brand-product-name }ـە، ئەتوانی <a data-l10n-name="import-browser-link">بیانهێنیت لە وێبگەڕێکی ترەوە</a> یان <a data-l10n-name="import-file-link"> لە پەڕگەیەکەوە</a>
 
 ## Login
 
@@ -109,12 +111,18 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = بۆ دەستکاریکردنی چوونەژوورەکانت، وشەنهێنی ویندۆز لێ بدە. ئەمە یارمەتی ئەدات بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = بۆ بینینی وشەنهێنیەکانت، وشەنهێنی ویندۆزەکەت بنوسە. ئەمە یارمەتی ئەدات بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = بۆ کۆپیکردنی وشەنهێنیەکەت، زانیاری چوونەژووری ویندۆزەکەت بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو لەبەربگرەوە
@@ -122,15 +130,26 @@ about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی
 ## Master Password notification
 
 master-password-notification-message = وشەی تێپەڕبوونی سەرەکی لێبدە بۆ ئەوەی بتوانی چوونەژوورەوە و وشەی تێپەڕەکان ببینی.
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = بۆ دەرهێنانی چوونەژوورەکانت، زانیاریەکانی چوونەژووری ویندۆز بنوسە. ئەمە یارمەتیدەرە بۆ پاراستنی هەژمارەکانت.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = دەرهێنانی چوونەژوور و وشەنهێنیە پاشەکەوتکراوەکانت
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = تکایە وشەنهێنی سەرەکی بنوسە بۆ بینینی وشەی بەکارهێنەر و نهێنیە پاشەکەوتکراوەکانت
 master-password-reload-button =
     .label = بچۆژوورەوە
     .accesskey = ب
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ئەتەوێ چوونەژوورەکانت لە هەموو جێگایەک بێ‌ بە بەکارهێنانی { -brand-product-name }؟ بڕۆ بۆ بژاردەکانی { -sync-brand-short-name } و چوارگۆشەی چوونەژوور کارا بکە.
+       *[other] ئەتەوێ چوونەژوورەکانت لە هەموو جێگایەک بێ‌ بە بەکارهێنانی { -brand-product-name }؟ بڕۆ بۆ بژاردەکانی { -sync-brand-short-name } و چوارگۆشەی چوونەژوور کارا بکە.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -150,7 +169,6 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
-about-logins-confirm-remove-all-dialog-confirm-button = هەمووی بسڕەوە
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] بەڵی، ئەم چوونەژورەوەیە بسڕەوە
@@ -168,6 +186,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
        *[other] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
     }
 about-logins-confirm-export-dialog-title = چوونەژوورەوە و وشەی تێپەڕەکان دەربهێنە
+about-logins-confirm-export-dialog-message = وشەنهێنیەکانت پاشەکەوت ئەکرێن وەک دەقێکی خوێنراوە (نمونە BadP@ssw0rd) بەشێوەیەک هەموو کەسێک پەڕگە دەرکراوەکە بکاتەوە و بیان بینێت.
 about-logins-confirm-export-dialog-confirm-button = هەناردەکردن...
 confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
 confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
@@ -213,3 +232,13 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = هێنانی پەڕگەی چوونەژوور
+about-logins-import-file-picker-import-button = هێنان
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] پەڕگەی CSV
+       *[other] پەڕگەی CSV
+    }

@@ -14,6 +14,8 @@ page-title = گۆرت! کلاتو بارادانیکتۆ!
 error-title-text = بەخێربێن مرۆڤەکان!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ئێمە هاتوین تۆ ببەین بۆ ئاشتی و خراپی ئێوەمان ناوێت!
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = ڕۆبۆتەکان ئەکرێ مرۆڤ بریندار نەکەن، یان بە بێ-کرداریان، ڕێگا بدەن مرۆڤێک دووچاری برینداری بێت.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = رۆبۆتەکان شتی وایان بینیوە ئێوەی خەڵك باوەر ناکەن.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.

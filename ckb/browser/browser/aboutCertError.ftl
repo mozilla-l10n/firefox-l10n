@@ -20,10 +20,45 @@ cert-error-trust-self-signed = بڕوانامەکە بڕواپێکراو نیە 
 cert-error-trust-symantec = بڕوانامەی دەرکراو لەلایەن GeoTrust، RapidSSL، Symantec، Thwate و VeriSign چیتر بە پارێزراو دانانرێن چونکە ئەم دەسەڵاتانەی بڕوانامەپێدان سەرنەکەوتوو بون لە کرداری پاراستندا لە ڕابردوودا.
 cert-error-untrusted-default = ئەم بڕوانامەیە لە سەرچاوەیەکی متمانەپێکراوەوە نەهاتوە.
 # Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = ماڵپەڕەکە پێویستە ناسنامەی خۆی بسەلمێنێ بە بڕوانامە. { -brand-short-name } بڕوا بەم ماڵەپەڕە ناکات چونکە بڕوانامەیەک بەکار ئەهێنێ کە بەکار نیە بۆ { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = ماڵپەڕ ناسنامەی خۆی بە بڕوانامە ئەسەلمێنێت. { -brand-short-name } متمانە بەم ماڵپەڕە ناکات چونکە بڕوانامەکەی بەکار نیە بۆ { $hostname }. بڕوانامەکە تەنها بۆ <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> ئەبێت.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = ماڵپەڕ ناسنامەی خۆی بە بڕوانامە ئەسەلمێنێت. { -brand-short-name } متمانە بەم ماڵپەڕە ناکات چونکە بڕوانامەکەی بەکار نیە بۆ { $hostname }. بڕوانامەکە تەنها بۆ { $alt-name } بەکارە.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = ماڵپەڕ ناسنامەی خۆی بە بڕوانامە ئەسەلمێنێت. { -brand-short-name } متمانە بەم ماڵپەڕە ناکات چونکە بڕوانامەکەی بەکار نیە بۆ { $hostname }. بڕوانامەکە تەنها بۆ ئەم ناوانەی خوارەوە بەکارە: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = ماڵپەڕەکان ناسنامەی خۆیان بە بڕوانامە ئەسەلمێنن کە تەنها بەکار بۆ ماوەیەکی دیاری کراو. بڕوانامەی { $hostname } لە { $not-after-local-time } بەسەر چوە.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = ماڵپەڕەکان ناسنامەی خۆیان بە بڕوانامە ئەسەلمێنن کە تەنها بەکار بۆ ماوەیەکی دیاری کراو. بڕوانامەی { $hostname } تا ڕێکەوتی { $not-after-local-time } بەکار نیە.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = کۆدی هەڵە: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = ماڵپەڕەکان ناسنامەی خۆیان بە بڕوانامە ئەسەلمێنن کە لەلایەن دەسەڵاتە بڕوانامەپێدەرەکانەوە دەر ئەکرێن. زۆرینەی وێبگەڕەکان چیتر بڕوانامەی دەرکراوە لەلایەن GeoTrust، RapidSSL، Symantec، Thwate، و VeriSign بە متمانەپێکراو نازانن. { $hostname } بڕوانامەیەکی بەکارهێناوە لەلایەن یەکێ لەم دەسەڵاتانەوە و بۆیەش ناکرێ ناسنامەی ماڵپەڕەکە بسەلمێنرێت.
+cert-error-symantec-distrust-admin = تۆ ئەکرێ بەڕێوەبەرەکانی ئەم ماڵەپەڕە ئاگادار بکەیتەوە لەم کێشەیە.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = پرۆکۆلی پاراستنی توندی گواستنەوە: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = پرۆتۆکۆلی دەستنیشانکردنی کلیلی گشتی: { $hasHPKP }
 cert-error-details-cert-chain-label = زنجیرەی بڕوانامە:
 open-in-new-window-for-csp-or-xfo-error = لە پەنجەرەیەکی نوێ بیکەرەوە
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = بۆ پاراستنی سەلامەتیت، { $hostname } ڕێگە نادات { -brand-short-name } ئەو پەڕەیە نیشان بدات ئەگەر ماڵەپەڕێکی تر لەناو خۆی دانابێت. بۆ بینینی ئەم پەڕەیە، تۆ پێویستە لە پەنجەرەیەکی تازەدا بیکەیتەوە.
 
 ## Messages used for certificate error titles
 
@@ -53,6 +88,7 @@ redirectLoop-title = پەڕە بەشێوەیەکی ڕاست دووبارە نا�
 unknownSocketType-title = وەڵامێکی چاوەڕواننەکراو لە ڕاژەوە
 nssFailure2-title = پەیوەندی پارێزراو سەرکەوتوو نەبوو
 csp-xfo-error-title = { -brand-short-name } ئەم پەڕەیە ناتوانرێت بکرێتەوە
+corruptedContentError-title = هەڵەی شێواوی ناوەڕۆک ڕوویدا.
 remoteXUL-title = کۆنتڕۆڵ XUL
 sslv3Used-title = نەتوانرا بە پارێزراوی پەیوەندی بگریت
 inadequateSecurityError-title = پەیوەندی پارێزراو نیە
@@ -61,3 +97,4 @@ clockSkewError-title = کاتی کۆمپیوتەرەکەت تەواو نیە
 networkProtocolError-title = هەڵەی پرۆتۆکۆڵی ڕایەڵە
 nssBadCert-title = ئاگاداربە: کێشەیەکی مەترسیدار لە پێشە
 nssBadCert-sts-title = پەیوەندی مەبەستە: کێشەی مەترسیداری پاراستن هەیە
+certerror-mitm-title = نەرمەکاڵا ڕێگا نادات { -brand-short-name } بە سەلامەتی پەیوەندی بەم ماڵپەڕەوە بکەیت.
