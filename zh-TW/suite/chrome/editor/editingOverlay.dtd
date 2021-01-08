@@ -29,6 +29,19 @@
 <!ENTITY publishSettings.label "網站發佈設定…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "表單">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertFormCmd.label "定義表單…">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "表單欄位…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "表單圖片…">
+<!ENTITY insertInputImageCmd.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "文字區域…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "選擇項目清單…">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "開新視窗">
 <!ENTITY newToolbarCmd.tooltip "建立新編輯頁面">
