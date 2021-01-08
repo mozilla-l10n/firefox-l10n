@@ -40,6 +40,14 @@
 <!ENTITY insertInputImageCmd.accesskey "I">
 <!ENTITY insertTextAreaCmd.label "Área de texto ...">
 <!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Lista de selección...">
+<!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.label "Definir el botón...">
+<!ENTITY insertButtonCmd.accesskey "B">
+<!ENTITY insertLabelCmd.label "Definir la etiqueta">
+<!ENTITY insertLabelCmd.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "Definir el conjunto de campos...">
+<!ENTITY insertFieldSetCmd.accesskey "F">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nueva">

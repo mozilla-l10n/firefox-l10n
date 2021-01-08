@@ -14,6 +14,9 @@
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "g">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Reajuste de línea">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY findBarCmd.label "Buscar…">
 <!ENTITY findReplaceCmd.label "Buscar y reemplazar…">
 <!ENTITY enableInlineSpellChecker.label "Ortografía mientras tipea">
