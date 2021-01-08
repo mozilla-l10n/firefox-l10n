@@ -25,6 +25,9 @@ printui-range-start = საწყისი
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = საბოლოო
+printui-page-custom-range-input =
+    .aria-label = მიუთითეთ გვერდების შუალედი
+    .placeholder = მაგ 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = ასლები
 printui-orientation = განლაგება
@@ -48,6 +51,7 @@ printui-duplex-checkbox = ამობეჭდვა ორივე მხა�
 printui-options = პარამეტრები
 printui-headers-footers-checkbox = თავსართისა და ბოლოსართის ამობეჭდვა
 printui-backgrounds-checkbox = ფონის ამობეჭდვა
+printui-selection-checkbox = მხოლოდ შერჩეულის ამობეჭდვა
 printui-color-mode-label = ფერის რეჟიმი
 printui-color-mode-color = ფერადი
 printui-color-mode-bw = შავ-თეთრი
@@ -56,10 +60,15 @@ printui-margins-default = ნაგულისხმევი
 printui-margins-min = უმცირესი
 printui-margins-none = არცერთი
 printui-margins-custom = მორგებული
+printui-margins-custom-inches = მორგებული (დუიმი)
 printui-margins-custom-top = ზედა
+printui-margins-custom-top-inches = ზედა (დუიმი)
 printui-margins-custom-bottom = ქვედა
+printui-margins-custom-bottom-inches = ქვედა (დუიმი)
 printui-margins-custom-left = მარცხენა
+printui-margins-custom-left-inches = მარცხენა (დუიმი)
 printui-margins-custom-right = მარჯვენა
+printui-margins-custom-right-inches = მარჯვენა (დუიმი)
 printui-system-dialog-link = ამობეჭდვა სისტემის ფანჯრიდან…
 printui-primary-button = ამობეჭდვა
 printui-primary-button-save = შენახვა
@@ -71,6 +80,9 @@ printui-loading = შეთვალიერების მომზადე�
 printui-preview-label =
     .aria-label = ამოსაბეჭდის შეთვალიერება
 printui-pages-per-sheet = გვერდი თითო ფურცელზე
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = იბეჭდება…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

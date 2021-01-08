@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = გვერდი:
     .accesskey = გ
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } გვერდი { $sheetCount }-იდან
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = ბოლო გვერდი
-
+printpreview-homearrow-button =
+    .title = პირველი გვერდი
+printpreview-previousarrow-button =
+    .title = წინა გვერდი
+printpreview-nextarrow-button =
+    .title = მომდევნო გვერდი
+printpreview-endarrow-button =
+    .title = ბოლო გვერდი

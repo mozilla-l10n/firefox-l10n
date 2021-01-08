@@ -185,6 +185,32 @@ remote-debugging-url = URL-ბმული
 
 ##
 
+support-third-party-modules-title = გარეშე მოდულები
+support-third-party-modules-module = მოდულის ფაილი
+support-third-party-modules-version = ფაილის ვერსია
+support-third-party-modules-vendor = მწარმოებლის შესახებ
+support-third-party-modules-occurrence = სიხშირე
+support-third-party-modules-process = პროცესის სახეობა და ID
+support-third-party-modules-thread = ნაკადი
+support-third-party-modules-base = გამოსახულების კრებულთა მისამართი
+support-third-party-modules-uptime = პროცესის მუშაობის დრო (მწმ)
+support-third-party-modules-duration = ჩატვირთვის ხანგრძლივობა (მწმ)
+support-third-party-modules-empty = გარეშე მოდულები არ ჩატვირთულა.
+support-third-party-modules-no-value = (მნიშვნელობის გარეშე)
+support-third-party-modules-button-open =
+    .title = მდებარეობის გახსნა...
+support-third-party-modules-expand =
+    .title = ვრცელი მონაცემების ჩვენება
+support-third-party-modules-collapse =
+    .title = ვრცელი მონაცემები დამალვა
+support-third-party-modules-unsigned-icon =
+    .title = ეს მოდული ხელმოუწერელია
+support-third-party-modules-folder-icon =
+    .title = მდებარეობის გახსნა...
+support-third-party-modules-down-icon =
+    .title = ვრცელი მონაცემების ჩვენება
+support-third-party-modules-up-icon =
+    .title = ვრცელი მონაცემები დამალვა
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
