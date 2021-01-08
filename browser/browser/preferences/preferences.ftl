@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = ხშირად მონახულებული საიტები
 home-prefs-topsites-by-option-sponsored =
     .label = დაფინანსებული რჩეული საიტები
+home-prefs-shortcuts-header =
+    .label = მალსახმობები
+home-prefs-shortcuts-description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
+home-prefs-shortcuts-by-option-sponsored =
+    .label = დაფინანსებული მალსახმობები
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } გირჩევთ
 home-prefs-recommended-by-description-update = გამორჩეული მასალები ინტერნეტში, უზრუნველყოფს { $provider }
+home-prefs-recommended-by-description-new = გამორჩეული მასალები, რომელსაც { $provider } გთავაზობთ, { -brand-product-name }-ოჯახის ნაწილი.
 
 ##
 
@@ -515,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = დაფინანსებული სტატიები
 home-prefs-highlights-header =
     .label = მნიშვნელოვანი საიტები
-home-prefs-recent-activity-header =
-    .label = ბოლო მოქმედებები
 home-prefs-highlights-description = თქვენ მიერ შენახული ან ბოლოს მონახულებული საიტები
 home-prefs-highlights-option-visited-pages =
     .label = მონახულებული გვერდები
@@ -526,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = ბოლო ჩამოტვირთვები
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ში შენახული გვერდები
+home-prefs-recent-activity-header =
+    .label = ბოლო მოქმედებები
+home-prefs-recent-activity-description = შერჩეული ბოლოს ნანახი საიტებისა და მასალებიდან
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = ცნობები
 home-prefs-snippets-description = სიახლეები, რომელთაც გთავაზობთ { -vendor-short-name } და { -brand-product-name }
+home-prefs-snippets-description-new = რჩევები და სიახლეები, რომელთაც გთავაზობთ { -vendor-short-name } და { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -927,6 +935,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = რჩეული საიტები
     .accesskey = ჩ
+addressbar-locbar-engines-option =
+    .label = საძიებო სისტემები
+    .accesskey = ე
 addressbar-suggestions-settings = საძიებო სისტემის შემოთავაზებების პარამეტრები
 
 ## Privacy Section - Content Blocking
