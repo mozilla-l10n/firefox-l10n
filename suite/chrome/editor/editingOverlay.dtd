@@ -29,6 +29,21 @@
 <!ENTITY publishSettings.label "发布站点设置…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "表单">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "表单字段…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "文本区域…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "选择列表…">
+<!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.accesskey "B">
+<!ENTITY insertLabelCmd.accesskey "L">
+<!ENTITY insertFieldSetCmd.accesskey "F">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "新建">
 <!ENTITY newToolbarCmd.tooltip "创建一个新编写窗口">
