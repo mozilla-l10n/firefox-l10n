@@ -143,15 +143,44 @@ about-logins-confirm-export-dialog-confirm-button = Содирот…
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Ба { $hostname } гузаред
+about-logins-breach-alert-learn-more-link = Маълумоти бештар
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Ниҳонвожаи камқувват
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ба { $hostname } гузаред
+about-logins-vulnerable-alert-learn-more-link = Маълумоти бештар
 
 ## Error Messages
 
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Содир кардани файли воридшавиҳо
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = воридшавиҳо.csv
+about-logins-export-file-picker-export-button = Содир кардан
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Ҳуҷҷати CSV
+       *[other] Файли CSV
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Ворид кардани файли воридшавиҳо
+about-logins-import-file-picker-import-button = Ворид кардан
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Ҳуҷҷати CSV
+       *[other] Файли CSV
+    }
