@@ -219,6 +219,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-pocket-title = Priporoča { -pocket-brand-name }
 newtab-custom-pocket-sponsored = Zgodbe oglaševalcev
+newtab-custom-recent-title = Nedavna dejavnost
 newtab-custom-close-button = Zapri
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that

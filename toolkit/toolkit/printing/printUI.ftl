@@ -27,6 +27,9 @@ printui-range-start = Od
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = do
+printui-page-custom-range-input =
+    .aria-label = Vnesite obseg strani po meri
+    .placeholder = npr. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopije
 printui-orientation = Usmerjenost
@@ -50,6 +53,7 @@ printui-duplex-checkbox = Natisni obojestransko
 printui-options = Možnosti
 printui-headers-footers-checkbox = Natisni glave in noge
 printui-backgrounds-checkbox = Natisni ozadja
+printui-selection-checkbox = Natisni samo izbor
 printui-color-mode-label = Barvni način
 printui-color-mode-color = Barva
 printui-color-mode-bw = Črno-belo
@@ -58,19 +62,29 @@ printui-margins-default = Privzeto
 printui-margins-min = Najmanj
 printui-margins-none = Brez
 printui-margins-custom = Po meri
+printui-margins-custom-inches = Po meri (palci)
 printui-margins-custom-top = Zgoraj
+printui-margins-custom-top-inches = Vrh (palci)
 printui-margins-custom-bottom = Spodaj
+printui-margins-custom-bottom-inches = Dno (palci)
 printui-margins-custom-left = Levo
+printui-margins-custom-left-inches = Levo (palci)
 printui-margins-custom-right = Desno
+printui-margins-custom-right-inches = Desno (palci)
 printui-system-dialog-link = Natisni s pomočjo pogovornega okna sistema …
 printui-primary-button = Natisni
 printui-primary-button-save = Shrani
 printui-cancel-button = Prekliči
+printui-close-button = Zapri
 printui-loading = Priprava predogleda
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Predogled tiskanja
+printui-pages-per-sheet = Strani na list
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Tiskanje …
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
