@@ -30,6 +30,21 @@
 <!ENTITY publishSettings.accesskey "б">
 
 <!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Формы">
+<!ENTITY insertFormMenu.accesskey "Ф">
+<!ENTITY insertFormCmd.label "Создать форму…">
+<!ENTITY insertFormCmd.accesskey "С">
+<!ENTITY insertInputTagCmd.label "Поле формы…">
+<!ENTITY insertInputTagCmd.accesskey "о">
+<!ENTITY insertInputImageCmd.label "Изображение формы…">
+<!ENTITY insertInputImageCmd.accesskey "И">
+<!ENTITY insertTextAreaCmd.label "Текстовая область…">
+<!ENTITY insertTextAreaCmd.accesskey "Т">
+<!ENTITY insertSelectCmd.label "Список выборов…">
+<!ENTITY insertSelectCmd.accesskey "в">
+<!ENTITY insertButtonCmd.label "Создать кнопку…">
+<!ENTITY insertButtonCmd.accesskey "к">
+<!ENTITY insertLabelCmd.label "Создать метку">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Создать">
