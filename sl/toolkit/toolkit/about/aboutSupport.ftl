@@ -62,6 +62,9 @@ app-basics-enabled-plugins = Omogočeni vtičniki
 app-basics-build-config = Nastavitev graditve
 app-basics-user-agent = Uporabniški agent
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Prevedeno z Rosetto
 app-basics-memory-use = Poraba pomnilnika
 app-basics-performance = Učinkovitost
 app-basics-service-workers = Registrirani Service Workerji
@@ -147,7 +150,7 @@ media-output-devices-title = Izhodne naprave
 media-input-devices-title = Vhodne naprave
 media-device-name = Ime
 media-device-group = Skupina
-media-device-vendor = Ponudnik
+media-device-vendor = Izdelovalec
 media-device-state = Stanje
 media-device-preferred = Prednostno
 media-device-format = Oblika
@@ -185,6 +188,26 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Moduli drugih ponudnikov
+support-third-party-modules-module = Datoteka modula
+support-third-party-modules-version = Različica datoteke
+support-third-party-modules-vendor = Podatki o izdelovalcu
+support-third-party-modules-process = Vrsta in ID procesa
+support-third-party-modules-thread = Nit
+support-third-party-modules-button-open =
+    .title = Odpri mesto datoteke …
+support-third-party-modules-expand =
+    .title = Prikaži podrobne informacije
+support-third-party-modules-collapse =
+    .title = Skrij podrobne informacije
+support-third-party-modules-unsigned-icon =
+    .title = Ta modul ni podpisan
+support-third-party-modules-folder-icon =
+    .title = Odpri mesto datoteke …
+support-third-party-modules-down-icon =
+    .title = Prikaži podrobne informacije
+support-third-party-modules-up-icon =
+    .title = Skrij podrobne informacije
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -267,7 +290,7 @@ gpu-device-id = ID naprave
 gpu-subsys-id = ID podsistema
 gpu-drivers = Gonilniki
 gpu-ram = RAM
-gpu-driver-vendor = Ponudnik gonilnika
+gpu-driver-vendor = Izdelovalec gonilnika
 gpu-driver-version = Različica gonilnika
 gpu-driver-date = Datum gonilnika
 gpu-active = Dejaven
@@ -344,6 +367,9 @@ multi-process-status-unknown = Neznano stanje
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Onemogočeno zaradi poskusa
+fission-status-experiment-treatment = Omogočeno zaradi poskusa
+fission-status-disabled-by-safe-mode = Onemogočeno zaradi varnega načina
 fission-status-enabled-by-default = Privzeto omogočeno
 fission-status-disabled-by-default = Privzeto onemogočeno
 fission-status-enabled-by-user-pref = Omogočil uporabnik
