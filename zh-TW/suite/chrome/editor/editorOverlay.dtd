@@ -14,6 +14,7 @@
 <!ENTITY pasteAsQuotationCmd.label "以引言方式貼上">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "重新斷行">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY findBarCmd.label "尋找…">
