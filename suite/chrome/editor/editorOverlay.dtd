@@ -11,11 +11,12 @@
 <!ENTITY pasteNoFormatting.label "Вставить без форматирования">
 <!ENTITY pasteNoFormatting.accesskey "б">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Вставить как">
-<!ENTITY pasteAs.accesskey "к">
 <!ENTITY pasteAsQuotationCmd.label "Вставить как цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Переформатировать">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "ф">
 <!ENTITY findBarCmd.label "Найти…">
 <!ENTITY findReplaceCmd.label "Найти и заменить…">
 <!ENTITY enableInlineSpellChecker.label "Проверка орфографии при наборе текста">
@@ -294,8 +295,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Вырезать">
 <!ENTITY copyToolbarCmd.tooltip "Копировать">
 <!ENTITY pasteToolbarCmd.tooltip "Вставить">
-<!ENTITY printToolbarCmd.label "Печать">
-<!ENTITY printToolbarCmd.tooltip "Распечатать эту страницу">
 <!ENTITY findToolbarCmd.label "Найти">
 <!ENTITY findToolbarCmd.tooltip "Найти текст на странице">
 <!ENTITY spellToolbarCmd.label "Орфография">
@@ -313,8 +312,6 @@
 <!ENTITY colorButtons.title "Цвета">
 <!ENTITY TextColorButton.tooltip "Выбор цвета для текста">
 <!ENTITY BackgroundColorButton.tooltip "Выбор цвета для фона">
-<!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Перейти на домашнюю страницу &brandShortName;">
 <!ENTITY HighlightColorButton.label "Подсветка">
 <!ENTITY HighlightColorButton.tooltip "Выберите цвет подсветки текста">
 
