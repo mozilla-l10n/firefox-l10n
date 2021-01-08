@@ -103,10 +103,71 @@ main-context-menu-media-play-speed-normal =
 main-context-menu-media-play-speed-fast =
     .label = Тез (1.25×)
     .accesskey = Т
+main-context-menu-media-play-speed-faster =
+    .label = Тезтар (1.5×)
+    .accesskey = Т
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Хандаовар (2×)
+    .accesskey = Х
+main-context-menu-media-loop =
+    .label = Ҳалқа сохтан
+    .accesskey = Ҳ
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Нишон додани унсурҳои идоракунӣ
+    .accesskey = Н
+main-context-menu-media-hide-controls =
+    .label = Пинҳон кардани унсурҳои идоракунӣ
+    .accesskey = П
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Экрани пурра
+    .accesskey = Э
+main-context-menu-media-video-leave-fullscreen =
+    .label = Баромад аз экрани пурра
+    .accesskey = Б
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Расм-дар-расм
+    .accesskey = Р
+main-context-menu-image-reload =
+    .label = Аз нав бор кардани тасвир
+    .accesskey = А
+main-context-menu-image-view =
+    .label = Дидани тасвир
+    .accesskey = Д
+main-context-menu-video-view =
+    .label = Дидани видео
+    .accesskey = Д
+main-context-menu-image-copy =
+    .label = Нусха бардоштани тасвир
+    .accesskey = Н
+main-context-menu-image-copy-location =
+    .label = Нусха бардоштани ҷойгиршавии тасвир
+    .accesskey = Н
+main-context-menu-video-copy-location =
+    .label = Нусха бардоштани ҷойгиршавии видео
+    .accesskey = Н
+main-context-menu-audio-copy-location =
+    .label = Нусха бардоштани ҷойгиршавии аудио
+    .accesskey = Н
+main-context-menu-image-save-as =
+    .label = Нигоҳ доштани тасвир ҳамчун…
+    .accesskey = Н
+main-context-menu-video-save-as =
+    .label = Нигоҳ доштани видео ҳамчун…
+    .accesskey = Н
+main-context-menu-audio-save-as =
+    .label = Нигоҳ доштани аудио ҳамчун…
+    .accesskey = Н
+main-context-menu-video-image-save-as =
+    .label = Нигоҳ доштани акси экран ҳамчун…
+    .accesskey = Н
