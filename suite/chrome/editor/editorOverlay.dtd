@@ -11,11 +11,11 @@
 <!ENTITY pasteNoFormatting.label "不重新格式化並貼上">
 <!ENTITY pasteNoFormatting.accesskey "n">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "貼上為">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "以引言方式貼上">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY findBarCmd.label "尋找…">
 <!ENTITY findReplaceCmd.label "尋找及取代…">
 <!ENTITY enableInlineSpellChecker.label "即時拼字檢查">
@@ -294,8 +294,6 @@
 <!ENTITY cutToolbarCmd.tooltip "剪下">
 <!ENTITY copyToolbarCmd.tooltip "複製">
 <!ENTITY pasteToolbarCmd.tooltip "貼上">
-<!ENTITY printToolbarCmd.label "列印">
-<!ENTITY printToolbarCmd.tooltip "列印此頁">
 <!ENTITY findToolbarCmd.label "尋找">
 <!ENTITY findToolbarCmd.tooltip "在此頁面中尋找">
 <!ENTITY spellToolbarCmd.label "拼字">
@@ -313,8 +311,6 @@
 <!ENTITY colorButtons.title "色彩">
 <!ENTITY TextColorButton.tooltip "選擇文字色彩">
 <!ENTITY BackgroundColorButton.tooltip "選擇背景色彩">
-<!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
-<!ENTITY throbber.tooltip2 "前往 &brandShortName; 首頁">
 <!ENTITY HighlightColorButton.label "螢光筆">
 <!ENTITY HighlightColorButton.tooltip "選擇強調文字的色彩">
 
