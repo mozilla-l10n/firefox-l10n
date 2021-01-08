@@ -35,6 +35,7 @@
 <!ENTITY insertFormCmd.accesskey "D">
 <!ENTITY insertInputTagCmd.label "表单字段…">
 <!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "表单图片…">
 <!ENTITY insertInputImageCmd.accesskey "I">
 <!ENTITY insertTextAreaCmd.label "文本区域…">
 <!ENTITY insertTextAreaCmd.accesskey "T">
