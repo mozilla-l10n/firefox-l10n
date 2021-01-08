@@ -29,6 +29,8 @@
 <!ENTITY publishSettings.label "Параметры сайта публикации…">
 <!ENTITY publishSettings.accesskey "б">
 
+<!-- Insert menu items -->
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Создать">
 <!ENTITY newToolbarCmd.tooltip "Создать новую страницу Компоновщика">
