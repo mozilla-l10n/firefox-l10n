@@ -32,6 +32,7 @@
 <!-- Insert menu items -->
 <!ENTITY insertFormMenu.label "表单">
 <!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertFormCmd.label "定义表单…">
 <!ENTITY insertFormCmd.accesskey "D">
 <!ENTITY insertInputTagCmd.label "表单字段…">
 <!ENTITY insertInputTagCmd.accesskey "e">
@@ -41,8 +42,11 @@
 <!ENTITY insertTextAreaCmd.accesskey "T">
 <!ENTITY insertSelectCmd.label "选择列表…">
 <!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.label "定义按钮…">
 <!ENTITY insertButtonCmd.accesskey "B">
+<!ENTITY insertLabelCmd.label "定义标签">
 <!ENTITY insertLabelCmd.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "定义字段集…">
 <!ENTITY insertFieldSetCmd.accesskey "F">
 
 <!-- Toolbar buttons/items -->
