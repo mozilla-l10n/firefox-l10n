@@ -8,9 +8,13 @@ releaseNotes-link = Чӣ нав аст
 update-checkForUpdatesButton =
     .label = Санҷиши навсозиҳо
     .accesskey = С
+update-updateButton =
+    .label = Барои навсозӣ кардани { -brand-shorter-name } бозоғозӣ кунед
+    .accesskey = Б
 update-checkingForUpdates = Дар ҳоли санҷиши навсозиҳо…
 update-downloading = <img data-l10n-name="icon"/>Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status"/>
 update-applying = Дар ҳоли татбиқи навсозӣ…
+update-failed = Навсозӣ иҷро нашуд. <label data-l10n-name="failed-link">Версияи охиринро боргирӣ намоед</label>
 update-noUpdatesFound = { -brand-short-name } нав аст
 update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд
 bottomLinks-license = Маълумот дар бораи гувоҳинома
