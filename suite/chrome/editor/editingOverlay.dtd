@@ -29,6 +29,26 @@
 <!ENTITY publishSettings.label "Publicatiewebsite-instellingen…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Formulier">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertFormCmd.label "Formulier definiëren…">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Formulierveld…">
+<!ENTITY insertInputTagCmd.accesskey "v">
+<!ENTITY insertInputImageCmd.label "Formulierafbeelding…">
+<!ENTITY insertInputImageCmd.accesskey "a">
+<!ENTITY insertTextAreaCmd.label "Tekstgebied…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Selectielijst…">
+<!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.label "Knop definiëren…">
+<!ENTITY insertButtonCmd.accesskey "K">
+<!ENTITY insertLabelCmd.label "Label definiëren">
+<!ENTITY insertLabelCmd.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "Veldverzameling definiëren…">
+<!ENTITY insertFieldSetCmd.accesskey "z">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nieuw">
 <!ENTITY newToolbarCmd.tooltip "Een nieuwe Composer-pagina creëren">
