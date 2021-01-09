@@ -100,3 +100,4 @@ experimental-features-multi-pip =
 experimental-features-multi-pip-description = Tojtob'enel chi to'ïk richin niya' q'ij chi yejaq k'ïy taq rutzub'al Picture-in-Picture pa jub'ey.
 experimental-features-http3 =
     .label = HTTP/3 protokolo'
+experimental-features-http3-description = Tojtob'enel Rutob'al ri HTTP/3 protokolo'.
