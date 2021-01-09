@@ -205,6 +205,9 @@ about-logins-confirm-export-dialog-title = Esportazione credenziali e password
 about-logins-confirm-export-dialog-message = Le password verranno salvate come testo leggibile (ad esempio “Password123”). Chiunque abbia accesso al file esportato potrà vederle.
 about-logins-confirm-export-dialog-confirm-button = Esporta…
 
+about-logins-alert-import-title = Importazione completata
+about-logins-alert-import-message = Visualizza il rapporto dettagliato dell’importazione
+
 confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
 confirm-discard-changes-dialog-message = Tutte le modifiche non salvate andranno perse.
 confirm-discard-changes-dialog-confirm-button = Ignora
@@ -269,3 +272,14 @@ about-logins-import-file-picker-csv-filter-title =
       [macos] Documento CSV
      *[other] File CSV
   }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importazione completata
+about-logins-import-dialog-items-added = <span>Nuove credenziali aggiunte:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-modified = <span>Credenziali esistenti aggiornate:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-no-change = <span>Credenziali duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
+about-logins-import-dialog-items-error = <span>Errori:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
+about-logins-import-dialog-done = Fatto
