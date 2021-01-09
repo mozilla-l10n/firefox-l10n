@@ -29,6 +29,26 @@
 <!ENTITY publishSettings.label "Ρυθμίσεις ιστοσελίδας δημοσίευσης…">
 <!ENTITY publishSettings.accesskey "θ">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Φόρμα">
+<!ENTITY insertFormMenu.accesskey "Φ">
+<!ENTITY insertFormCmd.label "Ορισμός φόρμας…">
+<!ENTITY insertFormCmd.accesskey "Ο">
+<!ENTITY insertInputTagCmd.label "Πεδίο φόρμας…">
+<!ENTITY insertInputTagCmd.accesskey "ε">
+<!ENTITY insertInputImageCmd.label "Εικόνα φόρμας…">
+<!ENTITY insertInputImageCmd.accesskey "ι">
+<!ENTITY insertTextAreaCmd.label "Πεδίο κειμένου…">
+<!ENTITY insertTextAreaCmd.accesskey "κ">
+<!ENTITY insertSelectCmd.label "Λίστα επιλογής…">
+<!ENTITY insertSelectCmd.accesskey "Λ">
+<!ENTITY insertButtonCmd.label "Ορισμός κουμπιού…">
+<!ENTITY insertButtonCmd.accesskey "μ">
+<!ENTITY insertLabelCmd.label "Ορισμός ετικέτας">
+<!ENTITY insertLabelCmd.accesskey "τ">
+<!ENTITY insertFieldSetCmd.label "Ορισμός συνόλου πεδίων…">
+<!ENTITY insertFieldSetCmd.accesskey "σ">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Νέα">
 <!ENTITY newToolbarCmd.tooltip "Δημιουργία νέας σελίδας σύνταξης">
