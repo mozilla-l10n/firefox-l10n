@@ -29,7 +29,7 @@
 <!ENTITY personalbar.accessibleLabel "Segnalibri">
 <!ENTITY bookmarksToolbarItem.label "Elementi della barra dei segnalibri">
 
-<!ENTITY fullScreenCmd.label "Schermo intero&#173;">
+<!ENTITY fullScreenCmd.label "Schermo intero">
 
 <!ENTITY pictureInPictureHideToggle.label "Nascondi selettore Picture-in-Picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "N">
@@ -69,7 +69,7 @@
 
 <!ENTITY searchItem.title "Cerca">
 
-<!ENTITY homeButton.label "Pagina iniziale&#173;">
+<!ENTITY homeButton.label "Pagina iniziale">
 <!ENTITY homeButton.defaultPage.tooltip "Pagina iniziale di &brandShortName;">
 
 <!ENTITY bookmarksButton.label "Segnalibri">
@@ -95,7 +95,7 @@
 
 <!ENTITY webDeveloperMenu.label "Sviluppo web">
 
-<!ENTITY newNavigatorCmd.label "Nuova finestra&#173;">
+<!ENTITY newNavigatorCmd.label "Nuova finestra">
 <!ENTITY newPrivateWindow.label "Nuova finestra anonima">
 
 <!ENTITY editMenu.label "Modifica">

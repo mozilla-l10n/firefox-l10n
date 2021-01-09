@@ -14,7 +14,7 @@ appmenuitem-customize-mode =
 ## Zoom Controls
 
 appmenuitem-new-window =
-    .label = Nuova finestra­
+    .label = Nuova finestra
 appmenuitem-new-private-window =
     .label = Nuova finestra anonima
 
@@ -25,7 +25,7 @@ appmenuitem-zoom-enlarge =
 appmenuitem-zoom-reduce =
     .label = Riduci zoom
 appmenuitem-fullscreen =
-    .label = Schermo intero­
+    .label = Schermo intero
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
