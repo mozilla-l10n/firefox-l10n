@@ -46,6 +46,8 @@
 <!ENTITY insertButtonCmd.accesskey "k">
 <!ENTITY insertLabelCmd.label "Definer etikett">
 <!ENTITY insertLabelCmd.accesskey "e">
+<!ENTITY insertFieldSetCmd.label "Definer feltgruppe …">
+<!ENTITY insertFieldSetCmd.accesskey "f">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Ny">

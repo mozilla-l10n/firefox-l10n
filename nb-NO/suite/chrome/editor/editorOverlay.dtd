@@ -11,11 +11,12 @@
 <!ENTITY pasteNoFormatting.label "Lim inn uten formatering">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Lim inn som">
-<!ENTITY pasteAs.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.label "Lim inn som sitat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Tekstbrytning">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "e">
 <!ENTITY findBarCmd.label "Finn …">
 <!ENTITY findReplaceCmd.label "Finn og erstatt …">
 <!ENTITY enableInlineSpellChecker.label "Stavekontroller mens du skriver">
@@ -294,8 +295,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Klipp ut">
 <!ENTITY copyToolbarCmd.tooltip "Kopier">
 <!ENTITY pasteToolbarCmd.tooltip "Lim inn">
-<!ENTITY printToolbarCmd.label "Skriv ut">
-<!ENTITY printToolbarCmd.tooltip "Skriv ut denne siden">
 <!ENTITY findToolbarCmd.label "Søk">
 <!ENTITY findToolbarCmd.tooltip "Finn tekst på siden">
 <!ENTITY spellToolbarCmd.label "Stavekontroll">
@@ -313,8 +312,6 @@
 <!ENTITY colorButtons.title "Farger">
 <!ENTITY TextColorButton.tooltip "Velg tekstfarge">
 <!ENTITY BackgroundColorButton.tooltip "Velg bakgrunnsfarge">
-<!ENTITY throbber.tooltip "Gå til hjemmesiden til &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Gå til hjemmesiden til &brandShortName;">
 <!ENTITY HighlightColorButton.label "Merkepenn">
 <!ENTITY HighlightColorButton.tooltip "Velg uthevingsfarge for tekst">
 
