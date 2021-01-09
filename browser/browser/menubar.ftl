@@ -15,7 +15,7 @@ menu-file-new-container-tab =
     .label = Nuova scheda contenitore
     .accesskey = c
 menu-file-new-window =
-    .label = Nuova finestra­
+    .label = Nuova finestra
     .accesskey = f
 menu-file-new-private-window =
     .label = Nuova finestra anonima
@@ -129,7 +129,7 @@ menu-view-exit-full-screen =
     .label = Esci da schermo intero
     .accesskey = h
 menu-view-full-screen =
-    .label = Schermo intero­
+    .label = Schermo intero
     .accesskey = S
 
 ##
