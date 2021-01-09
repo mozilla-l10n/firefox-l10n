@@ -29,6 +29,24 @@
 <!ENTITY publishSettings.label "Publiseringsinnstillinger …">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Skjema">
+<!ENTITY insertFormMenu.accesskey "S">
+<!ENTITY insertFormCmd.label "Definer skjema …">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Skjemafelt …">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Skjemabilde …">
+<!ENTITY insertInputImageCmd.accesskey "k">
+<!ENTITY insertTextAreaCmd.label "Tekstområde …">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Alternativliste …">
+<!ENTITY insertSelectCmd.accesskey "s">
+<!ENTITY insertButtonCmd.label "Definer knapp …">
+<!ENTITY insertButtonCmd.accesskey "k">
+<!ENTITY insertLabelCmd.label "Definer etikett">
+<!ENTITY insertLabelCmd.accesskey "e">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Ny">
 <!ENTITY newToolbarCmd.tooltip "Lag en ny nettsideutvikler-side">
