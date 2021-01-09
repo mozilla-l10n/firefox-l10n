@@ -93,6 +93,11 @@ experimental-features-js-warp-description = Activar Warp, un proxecto para mello
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Illamento de sitios)
+experimental-features-fission-description = Fission (illamento de sitos) é unha funcionalidade experimental en { -brand-short-name } que fornece unha capa adicional de defensa contra fallos de seguranza. Isolando cada sitio nun proceso separado, Fission failles máis difícil aos sitios web maliciosos acceder a informacións das outras páxinas que visite. Isto é un gran cambio de arquitectura en { -brand-short-name } e apreciamos a súa axuda para probalo e informar de calquera problema que atope. Para saber máis, véxase <a data-l10n-name="wiki">o wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Capacidade de múltiplas Picture-in-Picture
+experimental-features-multi-pip-description = Capacidade experimental que permite abrir múltiplas xanelas Picture-in-Picture á vez.
 experimental-features-http3 =
     .label = Protocolo HTTP/3
 experimental-features-http3-description = Compatibilidade experimental para o protocolo HTTP/3.
