@@ -898,6 +898,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Виешстранични пратиоци
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Вишестранични пратиоци и пратиоци са друштвених мрежа
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Вишестранични колачићи — укључују колачиће друштвених мрежа
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Вишестранични колачићи — укључују колачиће друштвених мрежа
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Пратиоци с унакрсних страница и друштвених мрежа, те изолација преосталих колачића
 sitedata-option-block-unvisited =
@@ -935,6 +939,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Популарне странице
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Претраживачи
+    .accesskey = a
 addressbar-suggestions-settings = Измени поставке предлога претраживања
 
 ## Privacy Section - Content Blocking
@@ -942,6 +949,7 @@ addressbar-suggestions-settings = Измени поставке предлога
 content-blocking-enhanced-tracking-protection = Побољшана заштита од праћења
 content-blocking-section-top-level-description = Софтвери за праћење прате ваше мрежне активности и сакупљају ваше навике и интересовања. { -brand-short-name } блокира многе ове софтвере и друге злонамерне скрипте.
 content-blocking-learn-more = Сазнајте више
+content-blocking-fpi-incompatibility-warning = Користите First Party Isolation (FPI), која замењује нека { -brand-short-name } подешавања колачића.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -963,6 +971,7 @@ content-blocking-etp-standard-desc = Уравнотежена заштита и 
 content-blocking-etp-strict-desc = Заштита је моћнија, али може проузроковати да се неке веб странице или садржај не учитају.
 content-blocking-etp-custom-desc = Изаберите које пратиоце и скрипте треба блокирати.
 content-blocking-private-windows = Садржај који прати у приватним прозорима
+content-blocking-cross-site-cookies = Вишестранични колачићи
 content-blocking-cross-site-tracking-cookies = Вишестранични колачићи-пратиоци
 content-blocking-cross-site-tracking-cookies-plus-isolate = Пратиоци с унакрсних страница и изолација преосталих колачића
 content-blocking-social-media-trackers = Пратиоци с друштвених мрежа
@@ -974,6 +983,7 @@ content-blocking-cryptominers = Крипто-рударе
 content-blocking-fingerprinters = Хватаче отиска
 content-blocking-warning-title = Напомена!
 content-blocking-and-isolating-etp-warning-description = Блокирање пратилаца и изолација колачића може утицати на функционалност неких страница. Поново учитајте страницу с пратиоцима да бисте учитали сав садржај.
+content-blocking-and-isolating-etp-warning-description-2 = Ово подешавање може довести до тога да неки сајтови не приказују садржај или не раде исправно. Ако се чини да неки сајт не ради исправно, покушајте да онемогућите заштиту од праћења да би онда учитао сав садржај.
 content-blocking-warning-learn-how = Научите како
 content-blocking-reload-description = Да бисте применили ове измене, морате поново учитати своје језичке.
 content-blocking-reload-tabs-button =
