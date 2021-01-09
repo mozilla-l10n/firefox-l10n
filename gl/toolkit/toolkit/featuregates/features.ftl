@@ -82,6 +82,17 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Ferramentas para desenvolvedores: depuración de traballadores
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Habilita soporte experimental para os traballadores de servizo no panel Depurador. Esta característica pode retardar as ferramentas para desenvolvedores e aumentar o consumo de memoria.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Interruptores globais do son WebRTC
+experimental-features-webrtc-global-mute-toggles-description = Engadir controis ao indicador de compartición global WebRTC que lles permite aos usuarios silenciar globalmente os fluxos do micrófono e da cámara.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Activar Warp, un proxecto para mellorar o rendemento JavaScript e o uso de memoria.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Illamento de sitios)
 experimental-features-http3 =
     .label = Protocolo HTTP/3
 experimental-features-http3-description = Compatibilidade experimental para o protocolo HTTP/3.
