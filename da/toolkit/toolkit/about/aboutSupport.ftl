@@ -192,6 +192,7 @@ support-third-party-modules-title = Tredjeparts-moduler
 support-third-party-modules-module = Modulfil
 support-third-party-modules-version = Filversion
 support-third-party-modules-vendor = Information om leverandør
+support-third-party-modules-occurrence = Forekomster
 support-third-party-modules-process = Proces-type og -ID
 support-third-party-modules-thread = Tråd
 support-third-party-modules-base = Imagebase-adresse

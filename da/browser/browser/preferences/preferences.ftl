@@ -801,6 +801,10 @@ forms-master-pw-fips-title = Du er pt. i FIPS tilstand. FIPS kræver en ikke-tom
 forms-primary-pw-change =
     .label = Skift hovedadgangskode…
     .accesskey = h
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = Du er i øjeblikket i FIPS-tilstand. FIPS kræver, at du bruger en hovedadgangskode.
 forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
 

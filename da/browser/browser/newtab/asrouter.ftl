@@ -282,3 +282,4 @@ cfr-whatsnew-media-keys-button = Mere information
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Søge-genveje i adressefeltet
+cfr-whatsnew-search-shortcuts-body = Når du indtaster navnet eller adressen på en søgetjeneste, så vil der nu blive vist en blå genvej i søgeforslagene nedenunder. Vælg denne genvej for at fuldføre din søgning direkte fra adressefeltet.

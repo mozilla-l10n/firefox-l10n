@@ -27,6 +27,7 @@ inactive-css-not-display-block-on-floated = Værdien <strong>display</strong> er
 inactive-css-property-is-impossible-to-override-in-visited = Det er umuligt at tilsidesætte <strong>{ $property }</strong> på grund af begrænsning for <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et placeret element.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> har ingen effekt på dette element, fordi <strong>overflow:hidden</strong> ikke er sat.
+inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> har ingen effekt på dette element, fordi elementets <strong>outline-style</strong> er <strong>auto</strong> eller <strong>none</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
