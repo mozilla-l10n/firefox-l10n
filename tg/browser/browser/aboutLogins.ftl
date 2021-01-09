@@ -53,7 +53,9 @@ about-logins-login-list-alerts-option = Огоҳиҳо
 login-list-last-changed-option = Санаи тағйири охирин
 login-list-last-used-option = Санаи истифодаи охирин
 login-list-intro-title = Ягон воридшавӣ ёфт нашуд
+login-list-intro-description = Вақте ки шумо ниҳонвожаеро дар { -brand-product-name } нигоҳ медоред, он дар ин ҷо нишон дода мешавад.
 about-logins-login-list-empty-search-title = Ягон воридшавӣ ёфт нашуд
+about-logins-login-list-empty-search-description = Ягон натиҷа мувофиқи ҷустуҷӯи шумо ёфт нашуд.
 login-list-item-title-new-login = Воридшавии нав
 login-list-item-subtitle-missing-username = (номи корбар нест)
 

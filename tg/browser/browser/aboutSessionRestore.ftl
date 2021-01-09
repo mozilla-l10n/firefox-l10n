@@ -9,9 +9,23 @@ restore-page-tab-title = Барқарор кардани ҷаласа
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Равзанаи { $windowNumber }
+restore-page-restore-header =
+    .label = Барқарор кардан
+restore-page-list-header =
+    .label = Равзанаҳо ва варақаҳо
 restore-page-try-again-button =
     .label = Барқарор кардани ҷаласа
     .accesskey = Б
+restore-page-close-button =
+    .label = Оғози ҷаласаи нав
+    .accesskey = О
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Тайёр!
+welcome-back-page-title = Тайёр!
+welcome-back-page-info = { -brand-short-name } барои кор омода аст.
+welcome-back-restore-button =
+    .label = Ба пеш!
+    .accesskey = Б
+welcome-back-restore-all-label = Барқарор кардани ҳамаи равзанаҳо ва варақаҳо

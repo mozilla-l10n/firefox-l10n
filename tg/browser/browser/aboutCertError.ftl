@@ -22,3 +22,4 @@ captivePortal-title = Даромад ба шабака
 netOffline-title = Реҷаи офлайн
 csp-xfo-error-title = { -brand-short-name } ин саҳифаро кушода наметавонад
 remoteXUL-title = XUL-и дурдаст
+networkProtocolError-title = Хатои протоколи шабака
