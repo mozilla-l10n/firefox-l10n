@@ -29,6 +29,13 @@
 <!ENTITY publishSettings.label "გამოსაქვეყნებელი საიტის პარამეტრები…">
 <!ENTITY publishSettings.accesskey "ყ">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "ანკეტა">
+<!ENTITY insertFormMenu.accesskey "კ">
+<!ENTITY insertFormCmd.label "ანკეტის განსაზღვრა…">
+<!ENTITY insertFormCmd.accesskey "ზ">
+<!ENTITY insertInputTagCmd.label "ანკეტის ველი…">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "ახალი">
 <!ENTITY newToolbarCmd.tooltip "ახალი გვერდის შექმნა">
