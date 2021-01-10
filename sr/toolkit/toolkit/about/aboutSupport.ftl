@@ -195,6 +195,7 @@ support-third-party-modules-vendor = Информације о добављач�
 support-third-party-modules-occurrence = Учесталост
 support-third-party-modules-process = Тип процеса и ID
 support-third-party-modules-thread = Нит
+support-third-party-modules-base = Imagebase адреса
 support-third-party-modules-uptime = Трајање процеса (ms)
 support-third-party-modules-duration = Трајање учитавања (ms)
 support-third-party-modules-empty = Нису учитани модули независних произвођача.
