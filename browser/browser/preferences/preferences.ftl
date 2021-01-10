@@ -515,6 +515,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Рэкамендавана { $provider }
 home-prefs-recommended-by-description-update = Выключнае змесціва з усяго інтэрнэту, падабранае { $provider }
+home-prefs-recommended-by-description-new = Выключнае змесціва, куратарам якога з'яўляецца { $provider }, частка сям'і { -brand-product-name }
 
 ##
 
