@@ -68,6 +68,30 @@ appmenu-update-restart =
     .secondarybuttonlabel = Teď ne
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Po rychlém restartu obnoví { -brand-shorter-name } všechny otevřené panely a okna, která nejsou v režimu anonymního prohlížení.
+appmenu-update-other-instance =
+    .label = { -brand-shorter-name } se nedokáže automaticky aktualizovat na nejnovější verzi.
+    .buttonlabel =
+        Přesto aktualizaci { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] aplikace { -brand-shorter-name }
+        } spustit
+    .buttonaccesskey = s
+    .secondarybuttonlabel = Teď ne
+    .secondarybuttonaccesskey = n
+appmenu-update-other-instance-message =
+    Je k dispozici nová aktualizace { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    }, ale její instalaci nelze spustit, protože je spuštěna další kopie { -brand-shorter-name.gender ->
+        [masculine] { -brand-shorter-name(case: "gen") }
+        [feminine] { -brand-shorter-name(case: "gen") }
+        [neuter] { -brand-shorter-name(case: "gen") }
+       *[other] aplikace { -brand-shorter-name }
+    }. Pro spuštění aktualizace tuto kopii ukončete, nebo spuštění vynuťte (běžící aplikace pak může přestat správně fungovat, dokud ji nerestartujete).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, rozumím
     .buttonaccesskey = O

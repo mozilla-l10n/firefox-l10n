@@ -236,3 +236,4 @@ newtab-custom-close-button = Zavřít
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Útržky
 newtab-custom-snippets-subtitle = Tipy a novinky od společnosti { -vendor-short-name } a aplikace { -brand-product-name }
+newtab-custom-settings = Další nastavení
