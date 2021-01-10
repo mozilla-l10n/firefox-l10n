@@ -47,7 +47,6 @@
 <!ENTITY getNewMsgForCmd.accesskey "წ">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "ყველა ანგარიში">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "ყ">
-<!ENTITY getAllNewMsgCmd.label "ყველა ახალი წერილის მიღება">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "ჯგუფის შემდეგი 500 წერილის მიღება">
 <!ENTITY getNextNMsgCmd.accesskey "შ">
@@ -135,7 +134,6 @@
 <!ENTITY showThreadPaneCmd.accesskey "ს">
 <!ENTITY showFolderPaneCmd.label "საქაღალდის არე">
 <!ENTITY showFolderPaneCmd.accesskey "ქ">
-
 <!-- LOCALIZATION NOTE (toggleFolderPaneCmd.key): This is only used on the
      mac platform, other platforms use VK_F9. -->
 <!ENTITY toggleFolderPaneCmd.key "S">
@@ -410,6 +408,8 @@
 
 <!-- Toolbar items -->
 <!ENTITY getMsgButton.label "ფოსტის მიღება">
+<!ENTITY getAllNewMsgCmd.label "ყველა ახალი წერილის მიღება">
+<!ENTITY getAllNewMsgCmd.accesskey "ი">
 <!ENTITY newMsgButton.label "შედგენა">
 <!ENTITY newHTMLMessageCmd.label "შედგენა HTML-კოდებით">
 <!ENTITY newHTMLMessageCmd.accesskey "H">
@@ -451,8 +451,6 @@
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
 <!ENTITY printButton.tooltip "ამ წერილის ამობეჭდვა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
-<!ENTITY throbber.tooltip "&vendorShortName; – საწყის გვერდზე გადასვლა">
-<!ENTITY throbber.tooltip2 "&brandShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების გამოსადეგად ჩათვლა">
 
