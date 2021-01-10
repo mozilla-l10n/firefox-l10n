@@ -35,6 +35,19 @@
 <!ENTITY insertFormCmd.label "ანკეტის განსაზღვრა…">
 <!ENTITY insertFormCmd.accesskey "ზ">
 <!ENTITY insertInputTagCmd.label "ანკეტის ველი…">
+<!ENTITY insertInputTagCmd.accesskey "ვ">
+<!ENTITY insertInputImageCmd.label "ანკეტის გამოსახულება…">
+<!ENTITY insertInputImageCmd.accesskey "ო">
+<!ENTITY insertTextAreaCmd.label "ტექსტის არე…">
+<!ENTITY insertTextAreaCmd.accesskey "ტ">
+<!ENTITY insertSelectCmd.label "ასარჩევი სია…">
+<!ENTITY insertSelectCmd.accesskey "ჩ">
+<!ENTITY insertButtonCmd.label "ღილაკის განსაზღვრა…">
+<!ENTITY insertButtonCmd.accesskey "ღ">
+<!ENTITY insertLabelCmd.label "წარწერის განსაზღვრა">
+<!ENTITY insertLabelCmd.accesskey "წ">
+<!ENTITY insertFieldSetCmd.label "ველების განსაზღვრა…">
+<!ENTITY insertFieldSetCmd.accesskey "ლ">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "ახალი">
