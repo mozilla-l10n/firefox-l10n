@@ -1091,6 +1091,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Top stránky
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Vyhledávače
+    .accesskey = a
 addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 
 ## Privacy Section - Content Blocking
@@ -1374,7 +1377,7 @@ httpsonly-description =
         [feminine] { -brand-short-name(case: "ins") }
         [neuter] { -brand-short-name(case: "ins") }
        *[other] aplikací { -brand-short-name }
-    } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení pouze skrze protokol HTTPS.
+    } a navštěvovanými webovými stránkami. Většina webů protokol HTTPS podporuje, a pokud je zapnut režim „pouze HTTPS“, bude { -brand-short-name } navazovat spojení jen skrze protokol HTTPS.
 httpsonly-learn-more = Zjistit více
 httpsonly-radio-enabled =
     .label = Zapnout režim „pouze HTTPS“ ve všech oknech
