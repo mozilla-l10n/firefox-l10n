@@ -195,6 +195,24 @@ support-third-party-modules-vendor = Информације о добављач�
 support-third-party-modules-occurrence = Учесталост
 support-third-party-modules-process = Тип процеса и ID
 support-third-party-modules-thread = Нит
+support-third-party-modules-uptime = Трајање процеса (ms)
+support-third-party-modules-duration = Трајање учитавања (ms)
+support-third-party-modules-empty = Нису учитани модули независних произвођача.
+support-third-party-modules-no-value = (Без вредности)
+support-third-party-modules-button-open =
+    .title = Отвори локацију датотеке…
+support-third-party-modules-expand =
+    .title = Прикажи детаљне информације
+support-third-party-modules-collapse =
+    .title = Сакриј детаљне информације
+support-third-party-modules-unsigned-icon =
+    .title = Овај модул није потписан
+support-third-party-modules-folder-icon =
+    .title = Отвори локацију датотеке…
+support-third-party-modules-down-icon =
+    .title = Прикажи детаљне информације
+support-third-party-modules-up-icon =
+    .title = Сакриј детаљне информације
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -345,6 +363,20 @@ multi-process-status-6 = Онемогућено од стране неподрж
 multi-process-status-7 = Онемогућено од стране додатака
 multi-process-status-8 = Присилно онемогућено
 multi-process-status-unknown = Непознат статус
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Онемогућио експеримент
+fission-status-experiment-treatment = Омогућио експеримент
+fission-status-disabled-by-e10s-env = Онемогућило окружење
+fission-status-enabled-by-env = Омогућило окружење
+fission-status-disabled-by-safe-mode = Онемогућио сигурни режим
+fission-status-enabled-by-default = Подразумевано омогућено
+fission-status-disabled-by-default = Подразумевано онемогућено
+fission-status-enabled-by-user-pref = Омогућио корисник
+fission-status-disabled-by-user-pref = Онемогућио корисник
+fission-status-disabled-by-e10s-other = E10s онемогућен
 async-pan-zoom = Асинхроно кретање/увеличавање
 apz-none = нема
 wheel-enabled = унос точкића омогућен
@@ -368,3 +400,9 @@ policies-error = Грешка
 
 ## Printing section
 
+support-printing-title = Штампање
+support-printing-troubleshoot = Отклањање грешака
+support-printing-clear-settings-button = Обриши сачувана подешавања штампања
+support-printing-modified-settings = Измењена подешавања штампања
+support-printing-prefs-name = Назив
+support-printing-prefs-value = Вредност
