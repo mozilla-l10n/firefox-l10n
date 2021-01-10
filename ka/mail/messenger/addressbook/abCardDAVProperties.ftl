@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] ყოველ საათში
            *[other] ყოველ { $hours } საათში
         }
+carddav-readonly-label =
+    .label = მხოლოდ წასაკითხი
+    .accesskey = ხ
