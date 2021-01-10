@@ -113,6 +113,7 @@ onboarding-benefit-lockwise-text = Spravujte hesla bezpečně i na cestách.
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Skvěle, nyní máte aplikaci { -brand-short-name }
 # <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
 #
 # Variables:
