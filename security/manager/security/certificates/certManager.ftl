@@ -215,6 +215,8 @@ cert-not-verified_algorithm-disabled = Certifikát nemohl být ověřen, protož
 cert-not-verified-unknown = Certifikát nemohl být z neznámého důvodu ověřen.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = Neposílat klientský certifikát
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (neuloženo)
 
 ## Used to show whether an override is temporary or permanent
 
