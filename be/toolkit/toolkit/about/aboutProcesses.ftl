@@ -29,6 +29,7 @@ about-processes-column-cpu-total = ЦП
 
 about-processes-browser-process-name = { -brand-short-name } (працэс { $pid })
 about-processes-file-process-name = Файлы (працэс { $pid })
+about-processes-extension-process-name = Пашырэнні (працэс { $pid })
 about-processes-plugin-process-name = Плагіны (працэс { $pid })
 about-processes-socket-process-name = Сетка (працэс { $pid })
 # Process

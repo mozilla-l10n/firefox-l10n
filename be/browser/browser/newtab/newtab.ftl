@@ -223,6 +223,7 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Спонсарскія цэтлікі
 newtab-custom-pocket-title = Рэкамендавана { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Выключнае змесціва, куратарам якога з'яўляецца { -pocket-brand-name }, частка сям'і { -brand-product-name }
 newtab-custom-pocket-sponsored = Артыкулы ад спонсараў
 newtab-custom-recent-title = Апошняя актыўнасць
 newtab-custom-recent-subtitle = Падборка нядаўніх сайтаў і змесціва
