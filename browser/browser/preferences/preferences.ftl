@@ -1101,6 +1101,7 @@ addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 content-blocking-enhanced-tracking-protection = Rozšířená ochrana proti sledování
 content-blocking-section-top-level-description = Sledovací prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
 content-blocking-learn-more = Zjistit více
+content-blocking-fpi-incompatibility-warning = Používáte izolaci prvních stran (FPI), která potlačí některá nastavení cookies ve { -brand-short-name(case: "loc") }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
