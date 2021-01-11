@@ -121,15 +121,15 @@ search-results-empty-message =
         [windows] Արդիւնքներ չկան Ընտրանքներում “<span data-l10n-name="query"></span>”-ի համար:
        *[other] Կարգաւորումներում այլ արդիւնքներ չկան “<span data-l10n-name="query"></span>”-ի համար:
     }
-search-results-help-link = Աւգնութիւ՞ն է պէտք: Այցելեք <a data-l10n-name="url">{ -brand-short-name } աջակցում</a>
+search-results-help-link = Աւգնութիւ՞ն է պէտք: Այցելէք <a data-l10n-name="url">{ -brand-short-name } Աջակցում</a>
 
 ## General Section
 
-startup-header = Մեկնարկը
+startup-header = Մեկնարկ
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Թոյլատրել, որ { -brand-short-name }-ը և Firefox-ը մեկնարկեն միաժամանակ
+    .label = Թոյլատրել, որ { -brand-short-name }-ը եւ Firefox-ը մեկնարկեն միաժամանակ
 use-firefox-sync = Խորհուրդ․ Աւգտագործում է առանձին հաշիւներ։ Աւգտագործէք { -sync-brand-short-name }-ը տուեալների փոխանակման համար։
 get-started-not-logged-in = Մուտք գործել { -sync-brand-short-name }...
 get-started-configured = Բացել { -sync-brand-short-name }-ի նախընտրանքները
@@ -177,13 +177,13 @@ browser-containers-settings =
 containers-disable-alert-title = Փակե՞լ պարունակի բոլոր ներդիրները:
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Եթե անջատեք Պարունակի ներդիրները՝ { $tabCount } պարունակի ներդիրը կփակվի: Համոզվա՞ծ եք, որ ցանկանում եք անջատել Պարունակի ներդիրը
-       *[other] Եթե անջատեք Պարունակի ներդիրները՝ { $tabCount } պարունակի ներդիրը կփակվի: Համոզվա՞ծ եք, որ ցանկանում եք անջատել Պարունակի ներդիրները:
+        [one] Եթե անջատէք պարունակի ներդիրները, { $tabCount } պարունակի ներդիրը կը փակուի: Վստահ էք, որ ցանկանում էք անջատել պարունակի ներդիրը։
+       *[other] Եթե անջատէք պարունակի ներդիրները՝ { $tabCount } պարունակի ներդիրը կը փակուի: Վստա՞հ էք, որ ցանկանում էք անջատել պարունակի ներդիրները:
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Փակել { $tabCount } Պարունակի ներդիրը
-       *[other] { $tabCount } Պարունակի ներդիրները
+        [one] Փակել { $tabCount } պարունակի ներդիրը
+       *[other] { $tabCount } պարունակի ներդիրները
     }
 containers-disable-alert-cancel-button = Պահել միացուած
 containers-remove-alert-title = Հեռացնե՞լ այս պարունակը:
@@ -212,9 +212,9 @@ colors-settings =
     .label = Գոյներ…
     .accesskey = Գ
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Խոշորացնել
-preferences-default-zoom = Սկզբնադիր խոշորացում
-    .accesskey = z
+preferences-zoom-header = Դիտափոխել
+preferences-default-zoom = Սկզբնադիր դիտափոխում
+    .accesskey = դ
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
