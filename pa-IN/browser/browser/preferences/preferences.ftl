@@ -512,6 +512,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
 home-prefs-recommended-by-description-update = { $provider } ਦੀ ਮੇਹਰ ਸਕਦਾ ਵੈੱਬ ਭਰ ਤੋਂ ਖ਼ਾਸ ਸਮੱਗਰੀ
+home-prefs-recommended-by-description-new = { -brand-product-name } ਦੇ ਹਿੱਸੇ ਵਜੋਂ { $provider } ਵਲੋਂ ਖਾਸ ਇਕੱਤਰ ਕੀਤੀ ਸਮੱਗਰੀ
 
 ##
 

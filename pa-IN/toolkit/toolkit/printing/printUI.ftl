@@ -25,6 +25,9 @@ printui-range-start = ਤੋਂ
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = ਤੱਕ
+printui-page-custom-range-input =
+    .aria-label = ਪਸੰਦੀਦਾ ਸਫ਼ਾ ਹੱਦ ਦਿਓ
+    .placeholder = ਜਿਵੇਂ 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = ਕਾਪੀਆਂ
 printui-orientation = ਸਥਿਤੀ
@@ -48,6 +51,7 @@ printui-duplex-checkbox = ਦੋਵੇਂ ਪਾਸਿਆਂ ਉੱਤੇ ਪਰ
 printui-options = ਚੋਣਾਂ
 printui-headers-footers-checkbox = ਸਿਰਲੇਖ ਅਤੇ ਫੁੱਟਰ ਨੂੰ ਪਰਿੰਟ ਕਰੋ
 printui-backgrounds-checkbox = ਬੈਕਗਰਾਊਂਡ ਪਰਿੰਟ ਕਰੋ
+printui-selection-checkbox = ਚੋਣ ਨੂੰ ਹੀ ਛਾਪੋ
 printui-color-mode-label = ਰੰਗ ਮੋਡ
 printui-color-mode-color = ਰੰਗ
 printui-color-mode-bw = ਕਾਲਾ ਅਤੇ ਚਿੱਟਾ
@@ -56,19 +60,29 @@ printui-margins-default = ਡਿਫਾਲਟ
 printui-margins-min = ਘੱਟੋ-ਘੱਟ
 printui-margins-none = ਕੋਈ ਨਹੀਂ
 printui-margins-custom = ਕਸਟਮ
+printui-margins-custom-inches = ਪਸੰਦੀਦਾ (ਇੰਚ)
 printui-margins-custom-top = ਸਿਖਰ
+printui-margins-custom-top-inches = ਉੱਤੇ (ਇੰਚ)
 printui-margins-custom-bottom = ਥੱਲਾ
+printui-margins-custom-bottom-inches = ਹੇਠਾਂ (ਇੰਚ)
 printui-margins-custom-left = ਖੱਬੇ
+printui-margins-custom-left-inches = ਖੱਬੇ (ਇੰਚ)
 printui-margins-custom-right = ਸੱਜੇ
+printui-margins-custom-right-inches = ਸੱਜੇ (ਇੰਚ)
 printui-system-dialog-link = …ਸਿਸਟਮ ਡਾਈਲਾਗ ਨੂੰ ਵਰਤ ਕੇ ਪਰਿੰਟ ਕਰੋ
 printui-primary-button = ਪਰਿੰਟ ਕਰੋ
 printui-primary-button-save = ਸੰਭਾਲੋ
 printui-cancel-button = ਰੱਦ ਕਰੋ
+printui-close-button = ਬੰਦ ਕਰੋ
 printui-loading = ਝਲਕ ਤਿਆਰ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = ਪਰਿੰਟ ਝਲਕ
+printui-pages-per-sheet = ਹਰ ਸ਼ੀਟ ਲਈ ਸਫ਼ੇ
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = …ਪਰਿੰਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

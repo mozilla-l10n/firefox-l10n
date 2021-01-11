@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = ਸਫ਼ਾ:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetCount } ਚੋਂ { $sheetNum }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = ਆਖਰੀ ਸਫ਼ਾ
-
+printpreview-homearrow-button =
+    .title = ਪਹਿਲਾਂ ਸਫ਼ਾ
+printpreview-previousarrow-button =
+    .title = ਪਿਛਲਾ ਸਫ਼ਾ
+printpreview-nextarrow-button =
+    .title = ਅਗਲਾ ਸਫ਼ਾ
+printpreview-endarrow-button =
+    .title = ਆਖਰੀ ਸਫ਼ਾ
