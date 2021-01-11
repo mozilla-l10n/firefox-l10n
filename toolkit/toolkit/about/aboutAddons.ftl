@@ -374,16 +374,30 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que haces mientras navegas de forma privada. <a data-l10n-name="learn-more">Saber más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
-# This is the tooltip text for the recommended badge for an extension in about:addons. The
-# badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
 addon-badge-recommended2 =
     .title = { -brand-product-name } solo recomienda extensiones que cumplan con nuestros estándares de seguridad y rendimiento
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line2 =
+    .title = Esta es extensión oficial desarrollada por los creadores de { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+addon-badge-verified2 =
+    .title = Esta extensión ha sido revisada para cumplir con nuestros estándares de seguridad y rendimiento.
+    .aria-label = { addon-badge-verified2.title }
+
+##
+
 available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
 release-notes-error = Lo sentimos, pero ha sucedido un error al cargar las notas de versión.
 addon-permissions-empty = Esta extensión no requiere ningún permiso
+addon-permissions-required = Permisos necesarios para la funcionalidad principal:
+addon-permissions-optional = Permisos opcionales para funciones adicionales:
+addon-permissions-learnmore = Conocer más sobre permisos
 recommended-extensions-heading = Complementos recomendados
 recommended-themes-heading = Temas recomendados
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
