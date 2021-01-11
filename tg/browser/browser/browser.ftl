@@ -20,6 +20,9 @@
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Хатбаракҳо
+urlbar-search-mode-tabs = Варақаҳо
+urlbar-search-mode-history = Таърих
 
 ##
 
@@ -29,6 +32,16 @@
 
 ## Page Action menu
 
+page-action-copy-url-panel =
+    .label = Нусха бардоштани пайванд
+page-action-copy-url-urlbar =
+    .tooltiptext = Нусха бардоштани пайванд
+page-action-share-url-panel =
+    .label = Мубодила кардан
+page-action-share-url-urlbar =
+    .tooltiptext = Мубодила кардан
+page-action-share-more-panel =
+    .label = Бештар…
 
 ## Auto-hide Context Menu
 

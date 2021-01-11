@@ -11,6 +11,18 @@
 
 ## File Menu
 
+menu-file =
+    .label = Файл
+    .accesskey = Ф
+menu-file-new-tab =
+    .label = Варақаи нав
+    .accesskey = В
+menu-file-new-window =
+    .label = Равзанаи нав
+    .accesskey = Р
+menu-file-new-private-window =
+    .label = Равзанаи махфии нав
+    .accesskey = Р
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
@@ -19,6 +31,15 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Кушодани файл…
     .accesskey = К
+menu-file-close =
+    .label = Пӯшидан
+    .accesskey = П
+menu-file-print-preview =
+    .label = Пешнамоиши чоп
+    .accesskey = П
+menu-file-print =
+    .label = Чоп кардан ...
+    .accesskey = Ч
 
 ## Edit Menu
 
