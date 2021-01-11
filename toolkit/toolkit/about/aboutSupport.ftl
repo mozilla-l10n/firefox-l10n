@@ -192,6 +192,7 @@ support-third-party-modules-vendor = ID del vendeire
 support-third-party-modules-occurrence = Occuréncia
 support-third-party-modules-process = Tipe et ID de procediment
 support-third-party-modules-thread = Fil d’execucion
+support-third-party-modules-base = Adreça imagebase
 support-third-party-modules-uptime = Durada de foncionament del processús (ms)
 support-third-party-modules-duration = Durada de cargament (ms)
 support-third-party-modules-empty = Cap de module tèrç pas cargat.
