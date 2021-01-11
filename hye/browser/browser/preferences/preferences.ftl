@@ -946,7 +946,7 @@ enhanced-tracking-protection-setting-standard =
     .accesskey = d
 enhanced-tracking-protection-setting-strict =
     .label = Ստոյգ
-    .accesskey = r
+    .accesskey = ս
 enhanced-tracking-protection-setting-custom =
     .label = Հարմարեցուած
     .accesskey = C
@@ -954,7 +954,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-standard-desc = Հաւասարակշռուած է պաշտպանութեան եւ կատարման համար։Էջերը կը բեռնուեն կանոնակարգուած կերպով։
-content-blocking-etp-strict-desc = Ավելի ուժեղ պաշտպանութիւն, բայց կարող է որոշ կայքերի կամ բովանդակութիւնների կոտրման պատճառ դառնալ։
+content-blocking-etp-strict-desc = Աւելի ուժեղ պաշտպանութիւն, բայց կարող է որոշ կայքերի կամ բովանդակութեան համար խնդրահարոյց լինել։
 content-blocking-etp-custom-desc = Ընտրեք, որ հետեւումները եւ գրուածքները արգելափակել։
 content-blocking-private-windows = Անձնական պատուհաններում բովանդակութեան հետեւում
 content-blocking-cross-site-cookies = Միջկայքային նշոցիկներ
