@@ -314,7 +314,7 @@ preferences-addon-button =
        *[other] Preferências
     }
 details-addon-button = Detalhes
-release-notes-addon-button = Notas da versão
+release-notes-addon-button = Notas de atualização
 permissions-addon-button = Permissões
 extension-enabled-heading = Ativado
 extension-disabled-heading = Desativado
@@ -394,7 +394,7 @@ addon-badge-verified2 =
 available-updates-heading = Atualizações disponíveis
 recent-updates-heading = Atualizações recentes
 release-notes-loading = Carregando…
-release-notes-error = Desculpe, houve um erro ao carregar as notas de lançamento.
+release-notes-error = Desculpe, houve um erro ao carregar as notas de atualização.
 addon-permissions-empty = Esta extensão não exige nenhum permissão
 addon-permissions-required = Permissões necessárias para a funcionalidade principal:
 addon-permissions-optional = Permissões opcionais para funcionalidades adicionais:
