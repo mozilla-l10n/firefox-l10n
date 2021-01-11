@@ -765,7 +765,7 @@ pane-privacy-logins-and-passwords-header = Credenciales y contraseñas
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Preguntar para guardar credenciales y contraseñas para sitios web
+    .label = Preguntar si guardar credenciales y contraseñas webs
     .accesskey = r
 forms-exceptions =
     .label = Excepciones…
