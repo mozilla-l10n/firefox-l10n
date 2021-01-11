@@ -130,7 +130,7 @@ startup-header = Մեկնարկը
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Թոյլատրել, որ { -brand-short-name }-ը և Firefox-ը մեկնարկեն միաժամանակ
-use-firefox-sync = Խորհուրդ․ Աւգտագործում են առանձին հատկագրեր։ Աւգտագործեք { -sync-brand-short-name }-ը տվեալները դրանց մէջ տարծելու համար։
+use-firefox-sync = Խորհուրդ․ Աւգտագործում է առանձին հաշիւներ։ Աւգտագործէք { -sync-brand-short-name }-ը տուեալների փոխանակման համար։
 get-started-not-logged-in = Մուտք գործել { -sync-brand-short-name }...
 get-started-configured = Բացել { -sync-brand-short-name }-ի կարգաւորումները
 always-check-default =
@@ -914,8 +914,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = Հասցէագոտի
-addressbar-suggest = Հասցէագոտին աւգտագործելիս առաջարկել
+addressbar-header = Հասցէգաւտի
+addressbar-suggest = Հասցէգաւտին աւգտագործելիս առաջարկել
 addressbar-locbar-history-option =
     .label = Դիտարկման պատմութիւն
     .accesskey = H
