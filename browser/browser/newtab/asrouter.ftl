@@ -63,7 +63,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } wužywarje
        *[other] { $total } wužywarjow
     }
-cfr-doorhanger-pintab-description = Mějśo lažki pśistup k swójim nejwěcej wužywane sedła. Źaržćo sedła w rejtariku wócynjone (samo gaž znowego startujośo)
+cfr-doorhanger-pintab-description = Mějśo lažki pśistup k swójim nejcesćej wužywane sedła. Źaržćo sedła w rejtariku wócynjone (samo gaž znowego startujośo)
 
 ## These messages are steps on how to use the feature and are shown together.
 
