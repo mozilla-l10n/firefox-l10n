@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծուել
+do-not-track-description = Ուղարկէք կայքերին “Չհետագծել“ ազդանշանը, եթե չէք ցանկանում, որ ձեզ հետեւեն
 do-not-track-learn-more = Իմանալ աւելին
 do-not-track-option-default-content-blocking-known =
-    .label = Միայն երբ { -brand-short-name }-ը արգելափակում է յայտնի հետագծիչները։
+    .label = Միայն երբ { -brand-short-name }-ն արգելափակում է յայտնի հետագծիչները
 do-not-track-option-always =
     .label = Միշտ
 pref-page-title =
@@ -40,7 +40,7 @@ category-home =
 pane-search-title = Որոնում
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Գաղտնիութեան եւ անվտանգութեան
+pane-privacy-title = Գաղտնիութիւն եւ անվտանգութիւն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title2 = { -sync-brand-short-name }

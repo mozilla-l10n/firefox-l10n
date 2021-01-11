@@ -33,7 +33,7 @@ about-logins-menu-menuitem-remove-all-logins = Հեռացնել բոլոր մտ�
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ընտրանքներ
-       *[other] Նախընտրութիւններ
+       *[other] Նախընտրանքներ
     }
 about-logins-menu-menuitem-help = Աւգնութիւն
 menu-menuitem-android-app = { -lockwise-brand-short-name }-ը Android-ի համար

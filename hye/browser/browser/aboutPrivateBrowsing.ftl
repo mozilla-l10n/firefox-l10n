@@ -20,8 +20,8 @@ about-private-browsing-turn-on-vpn = Փորձէք { -mozilla-vpn-brand-name }
 about-private-browsing-search-banner-title = Անձնական պատուհաններում { $engineName }-ը Ձեր որոնման լռելեայն միջոցն է
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Տարբեր որոնման միջոցներ ընտրելու համար գնացեք դէպի <a data-l10n-name="link-options">Ընտրանքներ</a>
-       *[other] Տարբեր որոնման միջոցներ ընտրելու համար գնացեք դէպի <a data-l10n-name="link-options"> Նախընտրութիւններ</a>
+        [windows] Տարբեր որոնման միջոցներ ընտրելու համար գնացէք դէպի <a data-l10n-name="link-options">Ընտրանքներ</a>
+       *[other] Տարբեր որոնման միջոցներ ընտրելու համար գնացէք դէպի <a data-l10n-name="link-options"> Նախընտրանքներ</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Փակել

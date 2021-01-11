@@ -2,24 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Շարունակեք զգուշութեամբ
 about-config-intro-warning-text = Կազմաձեւի առաջատար նախընտրանքերի փոփոխութիւնը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգութեան վրաj:
-about-config-intro-warning-checkbox = Զգուշացրեք ինձ, երբ ես փորձում եմ մուտք գործել այս նախընտրութիւններ
+about-config-intro-warning-checkbox = Զգուշացրէք ինձ, երբ ես փորձում եմ մտնել այս նախընտրանքներ
 about-config-intro-warning-button = Ընդունել վտանգը եւ շարունակել
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Այս նախընտրանքների փոփոխութիւնը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգութեան վրայ:
-
-about-config-page-title = Ընդլայնուած նախընտրութիւններ
-
+about-config-page-title = Ընդլայնուած նախընտրանքներ
 about-config-search-input1 =
     .placeholder = Որոնել նախընտրանքի անուն
 about-config-show-all = Ցուցադրել բոլորը
-
 about-config-pref-add-button =
     .title = Աւելացնել
 about-config-pref-toggle-button =
@@ -36,7 +34,7 @@ about-config-pref-delete-button =
 ## Labels for the type selection radio buttons shown when adding preferences.
 
 about-config-pref-add-type-boolean = Տրամաբանական
-about-config-pref-add-type-number = Արտոնաթիւ
+about-config-pref-add-type-number = Համար
 about-config-pref-add-type-string = Տող
 
 ## Preferences with a non-default value are differentiated visually, and at the
