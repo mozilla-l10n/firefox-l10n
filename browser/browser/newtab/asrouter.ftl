@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = ਐਪ ਲਵੋ
 
 cfr-whatsnew-searchbar-title = ਘੱਟ ਟਾਈਪ ਕਰੋ, ਐਡਰੈਸ ਬਾਰ ਨਾਲ ਹੋਰ ਲੱਭੋ
 cfr-whatsnew-searchbar-body-topsites = ਹੁਣ ਸਿਰਫ਼ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਚੁਣੋ ਅਤੇ ਡੱਬਾ ਤੁਹਾਡੀਆਂ ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ ਦੇ ਲਿੰਕਾਂ ਨਾਲ ਭਰ ਜਾਵੇਗਾ।
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = ਵੱਡਦਰਸ਼ੀ ਸ਼ੀਸ਼ਾ ਆਈਕਾਨ
 
 ## Picture-in-Picture
@@ -276,6 +279,7 @@ cfr-whatsnew-clear-cookies-image-alt = ਕੂਕੀਜ਼ ਨੇ ਦਿਖਾਉ
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = ਹੋਰ ਮੀਡੀਆ ਕੰਟਰੋਲ
+cfr-whatsnew-media-keys-body = ਆਪਣੇ ਕੀਬੋਰਡ ਜਾਂ ਹੈੱਡ-ਸੈੱਟ ਤੋਂ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ ਨੂੰ ਚਲਾਓ ਜਾਂ ਰੋਕੋ, ਇਸ ਨਾਲ ਹੋਰ ਟੈਬ, ਪ੍ਰੋਗਰਾਮ ਜਾਂ ਜਦੋਂ ਵੀ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਲਾਕ ਕੀਤਾ ਹੋਵੇ ਤਾਂ ਵੀ ਮੀਡੀਏ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨਾ ਸੌਖਾ ਹੋ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਅੱਗੇ ਜਾਂ ਪਿੱਛੇ ਦੀਆਂ ਸਵਿੱਚਾਂ ਨਾਲ ਆਪਣੇ ਟਰੈਕਾਂ ਵਿੱਚ ਅੱਗੇ ਪਿੱਛੇ ਵੀ ਜਾ ਸਕਦੇ ਹੋ।
 cfr-whatsnew-media-keys-button = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 
 ## What's new: Search shortcuts

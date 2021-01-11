@@ -62,6 +62,9 @@ app-basics-enabled-plugins = ਚਾਲੂ ਪਲੱਗਇਨ
 app-basics-build-config = ਬਿਲਡ ਸੰਰਚਨਾ
 app-basics-user-agent = ਯੂਜ਼ਰ ਏਜੰਟ
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta ਉਲੱਥਾ
 app-basics-memory-use = ਮੈਮੋਰੀ ਵਰਤੋਂ
 app-basics-performance = ਕਾਰਗੁਜ਼ਾਰੀ
 app-basics-service-workers = ਰਜਿਸਟਰ ਕੀਤੇ Service Workers
@@ -184,6 +187,18 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = ਤੀਜੀ ਧਿਰ ਮੋਡੀਊਲ
+support-third-party-modules-module = ਮੋਡੀਊਲ ਫਾਇਲ
+support-third-party-modules-version = ਫਾਇਲ ਦਾ ਵਰਜ਼ਨ
+support-third-party-modules-vendor = ਵੇਂਡਰ ਦੀ ਜਾਣਕਾਰੀ
+support-third-party-modules-occurrence = ਮੌਜੂਦਗੀ
+support-third-party-modules-process = ਪ੍ਰੋਸੈਸ ਦੀ ਕਿਸਮ ਤੇ ਆਈਡੀ
+support-third-party-modules-thread = ਥਰਿੱਡ
+support-third-party-modules-no-value = (ਕੋਈ ਮੁੱਲ ਨਹੀਂ)
+support-third-party-modules-button-open =
+    .title = …ਫਾਇਲ ਟਿਕਾਣੇ ਨੂੰ ਖੋਲ੍ਹੋ
+support-third-party-modules-expand =
+    .title = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -333,7 +348,9 @@ multi-process-status-unknown = ਅਣਜਾਣ ਹਾਲਤ
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-enabled-by-user-pref = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਸਮਰੱਥ ਕੀਤਾ
 fission-status-disabled-by-user-pref = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਅਸਮਰੱਥ ਹੈ
+fission-status-disabled-by-e10s-other = E10s ਅਸਮਰੱਥ ਹੈ
 async-pan-zoom = ਅਸਮਕਾਲੀ ਪੈਨ/ਜ਼ੂਮ
 apz-none = ਕੋਈ ਨਹੀਂ
 wheel-enabled = ਵ੍ਹੀਲ ਇਨਪੁਟ ਸਮਰੱਥ ਹੈ
@@ -357,3 +374,7 @@ policies-error = ਗ਼ਲਤੀ
 
 ## Printing section
 
+support-printing-title = ਪਰਿੰਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+support-printing-troubleshoot = ਸਮੱਸਿਆ ਨਿਵਾਰਨ
+support-printing-prefs-name = ਨਾਂ
+support-printing-prefs-value = ਮੁੱਲ
