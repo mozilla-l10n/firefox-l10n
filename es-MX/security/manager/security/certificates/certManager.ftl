@@ -165,6 +165,7 @@ delete-ssl-cert-impact = Si elimina una excepción de servidor, restaurará los 
 delete-ssl-override-title =
     .title = Eliminar la excepción del certificado del servidor
 delete-ssl-override-confirm = ¿Seguro que quieres eliminar esta excepción de servidor?
+delete-ssl-override-impact = Si eliminas una excepción de servidor, restaurará los controles de seguridad habituales para ese servidor y se requerirá que use un certificado válido.
 delete-ca-cert-title =
     .title = Eliminar o desconfiar de los certificados de CA
 delete-ca-cert-confirm = Has solicitado eliminar estos certificados de CA. En el caso de los incluidos de serie, en lugar de borrarlos se les retira la confianza, lo que tiene el mismo efecto. ¿Estás seguro de que quieres hacer esto?
@@ -214,9 +215,13 @@ cert-not-verified_algorithm-disabled = No se ha podido verificar este certificad
 cert-not-verified-unknown = No se pudo verificar este certificado por razones desconocidas.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = No se envió certificado de cliente
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (No guardado)
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Permanente
+temporary-override = Temporal
 
 ## Add Security Exception dialog
 
