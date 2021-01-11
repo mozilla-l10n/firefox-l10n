@@ -51,7 +51,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } Փորձարկումներ
 pane-experimental-subtitle = Շարունակէք զգուշաւորութեամբ
 pane-experimental-search-results-header = { -brand-short-name } Փորձարկումներ․ շարունակէք զգուշութեամբ
-pane-experimental-description = Կազմաձեւի առաջատար նախընտրանքերի փոփոխութիւնը կարող է ազդել { -brand-short-name }֊ի կատարման կամ անվտանգութեան վրաj:
+pane-experimental-description = Կազմաձեւի առաջատար նախընտրանքերի փոփոխութիւնը կարող է ազդել { -brand-short-name }֊ի կատարողականութեան կամ անվտանգութեան վրաj:
 pane-experimental-reset =
     .label = Վերականգնել սկբնադիր կարգաբերումները
     .accesskey = Վ
@@ -65,7 +65,7 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = Այս հնարաւորութիւնը գործարկելու համար վերամեկնարկել { -brand-short-name }-ը:
-feature-disable-requires-restart = Այս հնարաւորութիւնը անջատելու համար վերաբացեք { -brand-short-name }-ը:
+feature-disable-requires-restart = Այս հնարաւորութիւնը անջատելու համար վերամեկնարկէք { -brand-short-name }-ը:
 should-restart-title = Վերամեկնարկել { -brand-short-name }-ը
 should-restart-ok = Վերամեկնարկել { -brand-short-name }-ը
 cancel-no-restart-button = Չեղարկել
@@ -83,13 +83,13 @@ restart-later = Վերամեկնարկել յետոյ
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկաւարում է ձեր տնային էջը:
+extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } ընդլայնումը կառավարում է ձեր տնէջը:
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկաւարում է ձեր նոր ներդիր էջը:
+extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } ընդլայնումը կառավարում է ձեր նոր ներդիր էջը:
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlled-password-saving = Ընդլայնում <img data-l10n-name="icon"/> { $name }֊ը վերահսկում է այս կարգաւորումը։
+extension-controlled-password-saving = Ընդլայնում <img data-l10n-name="icon"/> { $name }֊ը կառավարում է այս կարգաւորումը։
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name } ընդլայնումը կառավարում է այս կարգաւորումը:
@@ -98,7 +98,7 @@ extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name } �
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } ընդլայնումը կայել է ձեր հիմնական որոնիչը:
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Ընդլայնում, <img data-l10n-name="icon"/> { $name }-ը, պահանջում է Պարունակի ներդիրներ:
+extension-controlled-privacy-containers = Ընդլայնում, <img data-l10n-name="icon"/> { $name }-ը, պահանջում է պարունակի ներդիրներ:
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name }-ի ընդլայնումը կառավարում է այս կարգաւորումը։
