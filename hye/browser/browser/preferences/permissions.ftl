@@ -88,9 +88,9 @@ permissions-exceptions-popup-desc = Դուք կարող էք նշել, թե որ
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Բացառութիւններ՝ պահուած մուտքագրումներ
+    .title = Բացառութիւններ՝ պահուած մտից անուններում
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Հետեւեալ կայքերի մուտքագրումները չեն պահպանուի
+permissions-exceptions-saved-logins-desc = Հետեւեալ կայքերի համար մտից անունները չեն պահպանուի
 
 ## Exceptions - Add-ons
 

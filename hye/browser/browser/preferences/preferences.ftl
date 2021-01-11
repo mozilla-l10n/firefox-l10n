@@ -10,8 +10,8 @@ do-not-track-option-always =
     .label = Միշտ
 pref-page-title =
     { PLATFORM() ->
-        [windows] Բնութագրումներ
-       *[other] նախընտրութիւններ
+        [windows] Ընտրանքներ
+       *[other] Նախընտրանքներ
     }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -26,7 +26,7 @@ search-input-box =
     .placeholder =
         { PLATFORM() ->
             [windows] Գտնել Ընտրանքներում
-           *[other] Գտնել Նախընտրութիւններում
+           *[other] Գտնել Նախընտրանքներում
         }
 managed-notice = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
 category-list =
@@ -932,7 +932,7 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 
 ## Privacy Section - Content Blocking
 
-content-blocking-enhanced-tracking-protection = Կատարելագործում է Հետեւման պաշտպանութիւնը
+content-blocking-enhanced-tracking-protection = Կատարելագործուած պաշտպանութիւն հետեւումից
 content-blocking-section-top-level-description = Հետեւողները հետեւում են Ձեզ առցանց Ձեր զննարկման հատկութիւնների եւ հետաքրքրութիւնների մասին տեղեկութիւն հաւաքելու համար։ { -brand-short-name }-ը արգելափակում է այս հետեւումներից եւ այլ վնասարար գրուածքներից շատերը։
 content-blocking-learn-more = Իմանալ աւելին
 content-blocking-fpi-incompatibility-warning = Դուք աւգտագործում էք First Party Isolation (FPI), որը վրագրում է { -brand-short-name }֊ի որոշ նշոցիկների կարգաւորումները։
