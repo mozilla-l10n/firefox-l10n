@@ -18,6 +18,7 @@ certmgr-mine = Tienes certificados de estas organizaciones que te identifican
 certmgr-remembered = Estos certificados se utilizan para identificarlo en los sitios web
 certmgr-people = Tienes certificados en el archivo que identifican a estas personas
 certmgr-servers = Tienes certificados en el archivo que identifican estos servidores
+certmgr-server = Estas entradas identifican las excepciones de error del certificado del servidor
 certmgr-ca = Tienes certificados en el archivo que identifican a las siguientes autoridades de certificación
 certmgr-detail-general-tab-title =
     .label = General
@@ -161,6 +162,9 @@ delete-ssl-cert-title =
     .title = Eliminar excepciones de certificados de servidor
 delete-ssl-cert-confirm = ¿Realmente quieres eliminar estas excepciones de servidor?
 delete-ssl-cert-impact = Si elimina una excepción de servidor, restaurará los controles de seguridad habituales para ese servidor y se requerirá que use un certificado válido.
+delete-ssl-override-title =
+    .title = Eliminar la excepción del certificado del servidor
+delete-ssl-override-confirm = ¿Seguro que quieres eliminar esta excepción de servidor?
 delete-ca-cert-title =
     .title = Eliminar o desconfiar de los certificados de CA
 delete-ca-cert-confirm = Has solicitado eliminar estos certificados de CA. En el caso de los incluidos de serie, en lugar de borrarlos se les retira la confianza, lo que tiene el mismo efecto. ¿Estás seguro de que quieres hacer esto?
@@ -210,6 +214,9 @@ cert-not-verified_algorithm-disabled = No se ha podido verificar este certificad
 cert-not-verified-unknown = No se pudo verificar este certificado por razones desconocidas.
 # Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
 send-no-client-certificate = No se envió certificado de cliente
+
+## Used to show whether an override is temporary or permanent
+
 
 ## Add Security Exception dialog
 
