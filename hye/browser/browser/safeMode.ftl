@@ -10,7 +10,7 @@ start-safe-mode =
 refresh-profile =
     .label = Թարմացնել { -brand-short-name }-ը
 safe-mode-description = Ապահով կերպը { -brand-short-name }-ի յատուկ եղանակ է, որը կարող է աւգտագործուել շտկելու համար խնդիրները։
-safe-mode-description-details = Ձեր լրացումները եւ հարմարեցուած կարգաւորումները ժամանակաւորապէս կփակուեն, եւ { -brand-short-name } գործառոյթները կարող են չկատարուել այնպէս, ինչպէս հիմա են կատարուում։
+safe-mode-description-details = Ձեր յաւելումները եւ յարմարեցուած կարգաւորումները ժամանակաւորապէս կը փակուեն, եւ { -brand-short-name } գործառոյթները կարող են չաշխատել այնպէս, ինչպէս հիմա են աշխատում։
 refresh-profile-instead = Կարող եք բաց թողնել խափանաշտկումը եւ թարմացնել { -brand-short-name }-ը։
-# Shown on the safe mode dialog after multiple startup crashes. 
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name }-ը անսպասելիաւրէն փակուեց։ Խնդիրը կարող է կապուած լինել որեւէ հաւելման հետ։ Փորձէք ուղղել խնդիրը՝ խափանաշտկելով ապահով կերպով։

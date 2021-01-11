@@ -7,7 +7,7 @@
 
 newtab-page-title = Նոր ներդիր
 newtab-settings-button =
-    .title = Հարմարեցրեք Ձեր նոր ներդիր էջը
+    .title = Յարմարեցրէք Ձեր նոր ներդիր էջը
 newtab-personalize-button-label = Անհատականացնել
     .title = Անհատականացնել նոր ներդիրը
     .aria-label = Անհատականացնել նոր ներդիրը
@@ -206,3 +206,7 @@ newtab-pocket-cta-text = Խնայեք Ձեր սիրած պատմութիւննե
 
 newtab-error-fallback-info = Վայ, ինչ-որ սխալ է տեղի ունեցել այս բովանդակութիւնը բեռնելու համար։
 newtab-error-fallback-refresh-link = Թարմացրեք էջը՝ կրկին փորձելու համար։
+
+## Customization Menu
+
+newtab-custom-settings = Կառավարէք աւելի շատ կարգաւորումներ
