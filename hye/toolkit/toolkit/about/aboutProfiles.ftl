@@ -2,9 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 profiles-title = Հատկագիրների մասին
-profiles-subtitle = Այս էջը աւգնում է ձեզ կառաւարել ձեր հատկագրերը: Յուրաքանչիւր հատկագիր առանձին աշխարհ է, որը պարունակում է առանձին պատմութիւն, էջանիշեր, կարգաւորումներ եւ յաւելումներ:
+profiles-subtitle = Այս էջն աւգնում է կառավարել ձեր հաշիւը: Իւրաքանչիւր հաշիւ առանձին աշխարհ է, որը պարունակում է առանձին պատմութիւն, էջանիշեր, կարգաւորումներ եւ յաւելումներ:
 profiles-create = Ստեղծել նոր հատկագիր
 profiles-restart-title = Վերամեկնարկել
 profiles-restart-in-safe-mode = Վերամեկնարկել՝ յաւելումներն անջատուած...
@@ -14,13 +13,11 @@ profiles-flush-fail-title = Փոփոխութիւնները պահպանուած 
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Անսպասելի սխալը կանխել է ձեր փոփոխութիւնների պահպանումը։
 profiles-flush-restart-button = Վերագործարկել { -brand-short-name }֊ը
-
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Հատկագիր. { $name }
 profiles-is-default = Լռելեյայն հատկագիր
 profiles-rootdir = Արմատական գրացուցակ
-
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -30,28 +27,22 @@ profiles-rootdir = Արմատական գրացուցակ
 profiles-localdir = Տեղային գրացուցակ
 profiles-current-profile = Այս հատկագիրը աւգտագործուում է եւ չի կարող ջնջուել:
 profiles-in-use-profile = Այս հատկագիրը կիրառման մէջ է, եւ այն հնարաւոր չէ ջնջել։
-
 profiles-rename = Վերանուանում
 profiles-remove = Հեռացնել
 profiles-set-as-default = Կայել որպես լռելեյայն հատկագիր
 profiles-launch-profile = Բացել հատկագիրը այլ դիտարկիչում
-
 profiles-cannot-set-as-default-title = Հնարաւոր չէ կայել պատկերը
 profiles-cannot-set-as-default-message = Լռելեյայն հատկագիրը հնարաւոր չէ փոխել { -brand-short-name }
-
 profiles-yes = Այո
 profiles-no = Ոչ
-
 profiles-rename-profile-title = Հատկագիրը Վերանուանել
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Վերանուանել { $name } հատկագիրը
-
 profiles-invalid-profile-name-title = Հատկագրի անվաւեր անուանում
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Հաշուի "{ $name }" անուանումն անթոյլատրելի է:
-
 profiles-delete-profile-title = Ջնջել հատկագիրը
 # Variables:
 #   $dir (String) - Path to be displayed
@@ -61,11 +52,8 @@ profiles-delete-profile-confirm =
     Ջնջե՞լ հատկագրի տուեալները:
 profiles-delete-files = Ջնջել նիշքերը
 profiles-dont-delete-files = Նիշքերը Չը ջնջել
-
 profiles-delete-profile-failed-title = Սխալ
 profiles-delete-profile-failed-message = Այս հատկագիրը ջնջելու ընթացքում սխալ տեղի ունեցաւ։
-
-
 profiles-opendir =
     { PLATFORM() ->
         [macos] Ցուցադրել Finder-ում

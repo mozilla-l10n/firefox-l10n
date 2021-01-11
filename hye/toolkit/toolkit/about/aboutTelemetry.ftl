@@ -19,7 +19,7 @@ about-telemetry-current-store = Ընթացիկ խանութ.
 about-telemetry-more-information = Լրացուցիչ տեղեկութիւննե՞ր են պէտք:
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link"> Firefox-ի տուեալների փաստաթղթաւորումը</a> պարունակում է ուղղորդներ` մեր տուեալների գործիքների հետ աշխատելու համար։
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox-ի հեռուսաչափութեան սպասառուի փաստաթղթաւորումը</a> ներառում է հակացուցումների սահմանումներ , API փաստաթղթաւորում եւ տուեալների յղումներ։
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Հեռուսաչափութեան կառաւահանակը</a> թոյլատրում է հեռուսաչափութեան միջոցով տեսնել Mozilla֊ի ստացուած տուեալները։
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Հեռաչափութեան կառավահանակը</a> թոյլատրում է հեռաչափութեան միջոցով տեսնել Mozilla֊ի ստացուած տուեալները։
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Զննութեան բառարանը</a> մատակարարում է մանրամասնութիւններ եւ նկարագրութիւններ զննութիւնների համար, որոնք հավաքուել են հեռուսաչափութեան կողմից։
 about-telemetry-show-in-Firefox-json-viewer = Բացել JSON դիտումում
 about-telemetry-home-section = Տուն

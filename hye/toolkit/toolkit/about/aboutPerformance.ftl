@@ -53,8 +53,7 @@ size-GB = { $value } GB
 close-tab =
     .title = Փակել ներդիրը
 show-addon =
-    .title = Ցուցադրել  յաւելումների կառաւարչում
-
+    .title = Ցուցադրել յաւելումների կառավարչում
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
