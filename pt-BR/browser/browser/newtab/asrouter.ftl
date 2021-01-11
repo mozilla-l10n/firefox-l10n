@@ -93,7 +93,7 @@ cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
 cfr-whatsnew-panel-header = Novidades
-cfr-whatsnew-release-notes-link-text = Ler as notas da versão
+cfr-whatsnew-release-notes-link-text = Ler as notas de atualização
 cfr-whatsnew-fx70-title = O { -brand-short-name } agora luta mais intensamente por sua privacidade
 cfr-whatsnew-fx70-body =
     A última atualização aprimora o recurso de proteção contra rastreamento
