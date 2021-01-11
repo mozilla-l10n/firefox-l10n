@@ -227,7 +227,7 @@ addon-open-about-debugging = Վրիպազերծել յաւելումները
 ## Extension shortcut management
 
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Կառաւարել ընդլայնումների դիւրանցումը
+addon-manage-extensions-shortcuts = Կառավարել ընդլայնումների դիւրանցումը
     .accesskey = S
 shortcuts-no-addons = Որեւէ ընդյալնում միացուած չէ:
 shortcuts-no-commands = Հետեւեալ ընդլայնումները դիւրանցումներ չունեն։
@@ -377,12 +377,6 @@ addon-detail-private-browsing-disallow = Չթոյլատրել
 addon-badge-recommended2 =
     .title = { -brand-product-name }-ը առաջարկում է միայն այն ընդլայնումները, որոնք համապատասխանում են անվտանգութեան և արդիւնաւէտութեան մեր չափաւրինակներին
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Այս ընդլայնումը ստեղծուել է { -brand-product-name } -ի պատրաստողների կողմից:
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Այս ընդլայնումը վերանայուել է ծածկագրով՝ անվտանգութեան համար
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Սա պաշտաւնական ընդլայնում է, որը կառուցուել է { -brand-product-name } -ի ստեղծողների կողմից
     .aria-label = { addon-badge-line2.title }
@@ -409,7 +403,7 @@ recommended-theme-1 = Ուզո՞ւմ էք ստեղծագործել: <a data-l10n
 ## Page headings
 
 extension-heading = Կառավարել Ձեր ընդլայնումները
-theme-heading = Կառաւարել հիմնապատկերները
+theme-heading = Կառավարել հիմնապատկերները
 plugin-heading = Կառավարել ներդիրները
 dictionary-heading = Կառավարել բառարանները
 locale-heading = Կառավարել լեզուները
