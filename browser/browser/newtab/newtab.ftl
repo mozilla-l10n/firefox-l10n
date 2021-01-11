@@ -210,6 +210,7 @@ newtab-error-fallback-refresh-link = Actualisez la page pour réessayer.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Raccourcis
+newtab-custom-shortcuts-subtitle = Sites que vous enregistrez ou visitez
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } ligne

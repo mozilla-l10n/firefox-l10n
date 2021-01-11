@@ -502,6 +502,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = Sites populaires sponsorisés
 home-prefs-shortcuts-header =
     .label = Raccourcis
+home-prefs-shortcuts-description = Sites que vous enregistrez ou visitez
 home-prefs-shortcuts-by-option-sponsored =
     .label = Raccourcis sponsorisés
 
