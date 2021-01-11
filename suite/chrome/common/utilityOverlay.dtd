@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "Ajuda">
 <!ENTITY helpMenu.accesskey               "u">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Ajuda">
@@ -144,9 +143,10 @@
 
 <!ENTITY helpForIEUsers.label               "Para usuários do Internet Explorer">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
-<!ENTITY releaseCmd.label                   "Notas de lançamento">
+<!ENTITY releaseCmd.label                   "Notas de atualização">
 <!ENTITY releaseCmd.accesskey               "n">
 <!ENTITY helpSafeMode.label                 "Reiniciar com complementos desabilitados">
 <!ENTITY helpSafeMode.accesskey             "R">
