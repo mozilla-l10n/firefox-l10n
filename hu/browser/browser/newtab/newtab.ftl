@@ -213,12 +213,14 @@ newtab-error-fallback-refresh-link = Az újrapróbálkozáshoz frissítse az old
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Gyorskeresők
 newtab-custom-shortcuts-subtitle = Mentett vagy felkeresett webhelyek
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } sor
        *[other] { $num } sor
     }
+newtab-custom-sponsored-sites = Szponzorált gyorskeresők
 newtab-custom-pocket-title = A { -pocket-brand-name } által ajánlott
 newtab-custom-pocket-subtitle = Kivételes tartalmak a { -pocket-brand-name } válogatásában, amely a { -brand-product-name } család része
 newtab-custom-pocket-sponsored = Szponzorált történetek
