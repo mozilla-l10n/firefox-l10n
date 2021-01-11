@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Լիեկրան">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Թաքցնել նկարը նկարի փոխարկիչում">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -52,14 +51,13 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label;֊ի ընտրանքները">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Կապակցել այլ սարք…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Մուտք գործել &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Միացնել &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Ծառայութիւններ">
 <!ENTITY fxa.menu.account.label "Հաշիւ">
 <!ENTITY fxa.menu.settings.label "Կարգաւորումներ">
 <!ENTITY fxa.menu.accountSettings.label "Հաշուի կարգաւորումներ">
-<!ENTITY fxa.menu.manageAccount2.label "Հաշուի կառաւարում">
+<!ENTITY fxa.menu.manageAccount2.label "Հաշուի կառավարում">
 <!ENTITY fxa.menu.signOut.label "Դուրս գալ…">
 <!ENTITY fxa.menu.setupSync.label "Տեղակայել &syncBrand.shortName.label;…">
 
@@ -177,7 +175,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.unverified.label "Ձեր հաշիւը պէտք է ստուգուի։">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Մուտք գործել &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Միացնել &syncBrand.shortName.label;…">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Կառաւարել սարքերը…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Կառավարել սարքերը…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցուած ներդիրների կողագաւտին">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Թաքցնել համաժամեցուած ներդիրների կողագաւտին">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Կապակցել այլ սարքի">
@@ -218,17 +216,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Պահպանել էջը Pocket-ում">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Դիտել Pocket ցուցակը">
 
 <!ENTITY emailPageCmd.label           "Յղումը ուղարկել էլ֊փոստով…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Մասշտաբը">
 
@@ -254,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Աւելացնել բառարաններ…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

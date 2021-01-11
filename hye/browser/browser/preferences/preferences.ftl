@@ -28,7 +28,7 @@ search-input-box =
             [windows] Գտնել Ընտրանքներում
            *[other] Գտնել Նախընտրութիւններում
         }
-managed-notice = Ձեր զննիչը կառաւարում է ձեր կազմակերպութիւնը։
+managed-notice = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
 category-list =
     .aria-label = Անուանակարգեր
 pane-general-title = Գլխաւոր
@@ -92,7 +92,7 @@ extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } ընդ
 extension-controlled-password-saving = Ընդլայնում <img data-l10n-name="icon"/> { $name }֊ը վերահսկում է այս կարգաւորումը։
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name } ընդլայնումը կառաւարում է այս կարգաւորումը:
+extension-controlled-web-notifications = <img data-l10n-name="icon"/>{ $name } ընդլայնումը կառավարում է այս կարգաւորումը:
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } ընդլայնումը կայել է ձեր հիմնական որոնիչը:
@@ -101,7 +101,7 @@ extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } ը�
 extension-controlled-privacy-containers = Ընդլայնում, <img data-l10n-name="icon"/> { $name }-ը, պահանջում է Պարունակի ներդիրներ:
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name }-ի ընդլայնումը կառաւարում է այս կարգաւորումը։
+extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name }-ի ընդլայնումը կառավարում է այս կարգաւորումը։
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } ընդլայնումը ղեկավարում է, թե ինչպէս { -brand-short-name }-ը կապակցուի համացանցին:
@@ -348,7 +348,7 @@ applications-use-os-default-label =
 
 ##
 
-drm-content-header = Թուային իրավունքների կառաւարման (DRM) բովանդակութիւն
+drm-content-header = Թուային իրաւունքների կառավարման (DRM) բովանդակութիւն
 play-drm-content =
     .label = Նվագարկել DRM-ղեկաւարուող բովանդակութիւնը
     .accesskey = P
@@ -428,7 +428,7 @@ browsing-search-on-start-typing =
     .label = Տեքստ մուտքագրելու դէպքում փնտրել այն
     .accesskey = ք
 browsing-picture-in-picture-toggle-enabled =
-    .label = Միացնում է նկարում-պատկերուած տեսանիւթի կառաւարները
+    .label = Միացնում է նկարում-պատկերուած տեսանիւթի կառավարները
     .accesskey = E
 browsing-picture-in-picture-learn-more = Իմանալ աւելին
 browsing-media-control =
@@ -516,8 +516,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Հովանաւորուած կայքեր
 home-prefs-highlights-header =
     .label = Գունանշումներ
-home-prefs-recent-activity-header =
-    .label = Վերջին գործողութիւնը
 home-prefs-highlights-description = Ձեր պահպանած կամ այցելած կայքերի ընտրութիւնը
 home-prefs-highlights-option-visited-pages =
     .label = Այցելած էջեր
@@ -527,6 +525,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Ամենավերջին ներբեռնումը
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ում պահուած էջեր
+home-prefs-recent-activity-header =
+    .label = Վերջին գործողութիւնը
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -643,7 +643,7 @@ sync-profile-picture =
 sync-sign-out =
     .label = Դուրս գալ…
     .accesskey = g
-sync-manage-account = Կառաւարել հաշիւը
+sync-manage-account = Կառավարել հաշիւը
     .accesskey = o
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
@@ -903,10 +903,10 @@ sitedata-clear =
     .label = Մաքրել տուեալները…
     .accesskey = l
 sitedata-settings =
-    .label = Կառաւարել տուեալները…
+    .label = Կառավարել տուեալները…
     .accesskey = M
 sitedata-cookies-permissions =
-    .label = Կառաւարել թոյլատրութիւնները…
+    .label = Կառավարել թոյլատրութիւնները…
     .accesskey = P
 sitedata-cookies-exceptions =
     .label = Կառավարել բացառութիւնները
@@ -1003,7 +1003,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Կառաւարել ընդլայնումները...
+    .label = Կառավարել ընդլայնումները...
     .accesskey = x
 
 ## Privacy Section - Permissions

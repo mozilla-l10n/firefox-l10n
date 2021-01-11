@@ -76,7 +76,7 @@ permissions-exceptions-etp-desc = Դուք անջատել եք այս կայքե
 permissions-exceptions-cookie-window =
     .title = Բացառութիւններ՝ Cookie-ներ եւ կայքի տուեալներ
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Կարող եք հատկորոշել, թե որ կայքերին է թոյլատրուում միշտ կամ երբեք աւգտագործել cookie-ներ եւ կայքի տուեալները:  Մուտքագրեք կայքի հստակ հասցե, որը ցանկանում եք կառաւարել եւ սեղմեք Արգելափակել, Թոյլատրել աշխատաշրջանի համար կամ Թոյլատրել:
+permissions-exceptions-cookie-desc = Կարող էք յատկորոշել, թե որ կայքերին է թոյլատրուում միշտ կամ երբեք աւգտագործել նշոցիկեր եւ կայքի տուեալները:  Մուտքագրէք կայքի յստակ հասցէ, որը ցանկանում էք կառավարել եւ սեղմէք Արգելափակել, Թոյլատրել աշխատաշրջանի համար կամ Թոյլատրել:
 
 ## Exceptions - Pop-ups
 
@@ -104,7 +104,7 @@ permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վ
 permissions-site-autoplay-window =
     .title = Կարգաւորումներ - Ինքնանուագարկում
     .style = { permissions-window.style }
-permissions-site-autoplay-desc = Կարող եք կառաւարել էջերը, որոնք չեն հետեւում ձեր լռելեայն ինքնանուագարկման կարգաւորումներին։
+permissions-site-autoplay-desc = Կարող էք կառավարել էջերը, որոնք չեն հետեւում ձեր լռելեայն ինքնանուագարկման կարգաւորումներին։
 
 ## Site Permissions - Notifications
 
