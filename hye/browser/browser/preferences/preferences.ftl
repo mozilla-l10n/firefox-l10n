@@ -214,11 +214,11 @@ colors-settings =
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Դիտափոխել
 preferences-default-zoom = Սկզբնադիր դիտափոխում
-    .accesskey = դ
+    .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
-    .label = մեծացնել միայն գրոյթը
+    .label = Դիտափոխել միայն գրոյթը
     .accesskey = գ
 language-header = Լեզուն
 choose-language-description = Ընտրէք ձեր նախընտրելի լեզուն էջերը ցուցադրելու համար
