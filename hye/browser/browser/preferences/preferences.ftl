@@ -831,10 +831,10 @@ history-header = Պատմութիւն
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }-ը կսկսի`
+history-remember-label = { -brand-short-name }-ը կը սկսի
     .accesskey = կ
 history-remember-option-all =
-    .label = Հիշել պատմութիւնը
+    .label = Յիշել պատմութիւնը
 history-remember-option-never =
     .label = Երբեք չյիշել այցելութիւնները
 history-remember-option-custom =
