@@ -137,7 +137,7 @@ always-check-default =
     .label = Միշտ ստուգել, թե արդեւք { -brand-short-name }-ը ձեր հիմնական դիտարկիչն է
     .accesskey = շ
 is-default = { -brand-short-name }-ն այժմ ձեր հիմնական դիտարկիչն է
-is-not-default = { -brand-short-name }-ն այժմ ձեր հիմնական դիտարկիչը չէ
+is-not-default = { -brand-short-name }-ն ձեր հիմնական դիտարկիչը չէ
 set-as-my-default-browser =
     .label = Դարձնել հիմնական...
     .accesskey = հ
@@ -170,7 +170,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Միացնել պարունակ ներդիրները
     .accesskey = ի
-browser-containers-learn-more = Իմանալ ավելին
+browser-containers-learn-more = Իմանալ աւելին
 browser-containers-settings =
     .label = Կարգաւորումներ...
     .accesskey = ր
@@ -212,20 +212,20 @@ colors-settings =
     .label = Գոյներ…
     .accesskey = Գ
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Դիտափոխել
-preferences-default-zoom = Սկզբնադիր դիտափոխում
+preferences-zoom-header = Վերաչափել
+preferences-default-zoom = Սկզբնադիր վերաչափում
     .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
-    .label = Դիտափոխել միայն գրոյթը
+    .label = Վերաչափել միայն գրոյթը
     .accesskey = գ
-language-header = Լեզուն
+language-header = Լեզու
 choose-language-description = Ընտրէք ձեր նախընտրելի լեզուն էջերը ցուցադրելու համար
 choose-button =
     .label = Ընտրել…
     .accesskey = տ
-choose-browser-language-description = Ընտրէք նամակները եւ ծանուցումները { -brand-short-name }-ից ցուցադրելու համար աւգտագործուած լեզուները ցանկերը։
+choose-browser-language-description = Ընտրէք նամակները եւ ծանուցումները { -brand-short-name }-ից ցուցադրելու համար աւգտագործուած լեզուները։
 manage-browser-languages-button =
     .label = Կայել այլընտրանքներ...
     .accesskey = l
@@ -243,17 +243,17 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Աւգտագործէք Ձեր գործառնական համակարգի { $localeName }–ի կարգաւորումները եւ հաստատէք ամսաթուերը, ժամերը, թուերը եւ չափման միաւորները:
+    .label = Աւգտագործէք Ձեր գործառնական համակարգի կարգաւորումները { $localeName }–ի համար եւ հաստատէք ամսաթուերը, ժամերը, թուերը եւ չափման միաւորները:
 check-user-spelling =
-    .label = Տեքստ մուտքագրելիս ստուգել ուղղագրութիւնը
+    .label = Գրելիս ստուգել ուղղագրութիւնը
     .accesskey = մ
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Ֆայլեր եւ յաւելուածներ
+files-and-applications-title = Նիշեր եւ յաւելուածներ
 download-header = Ներբեռնումներ
 download-save-to =
-    .label = Ֆայլերը պահպանել`
+    .label = Նիշերը պահել
     .accesskey = ե
 download-choose-folder =
     .label =
