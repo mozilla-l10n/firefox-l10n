@@ -192,6 +192,7 @@ support-third-party-modules-title = Modules tiers
 support-third-party-modules-module = Fichier de module
 support-third-party-modules-version = Version du fichier
 support-third-party-modules-occurrence = Occurrences
+support-third-party-modules-empty = Aucun module tiers n’a été chargé.
 support-third-party-modules-no-value = (Aucune valeur)
 support-third-party-modules-button-open =
     .title = Ouvrir l’emplacement du fichier…
