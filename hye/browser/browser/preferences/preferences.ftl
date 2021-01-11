@@ -259,7 +259,7 @@ download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] Ընտրել…
-           *[other] Ընտրել…
+           *[other] Դիտարկել…
         }
     .accesskey =
         { PLATFORM() ->
@@ -267,7 +267,7 @@ download-choose-folder =
            *[other] տ
         }
 download-always-ask-where =
-    .label = Միշտ հարցնել ֆայլերը պահպանելու տեղը
+    .label = Միշտ հարցնել, թե նիշերը որտեղ պահել
     .accesskey = Մ
 applications-header = Ծրագրեր
 applications-description = Ընտրել, թե ինչպէս { -brand-short-name }-ը վարուի Ձեր ներբեռնած նիշերի կամ դիտարկումների ժամանակ Ձեր կողմից օգտագործուող յաւելուածների հետ:
@@ -281,9 +281,9 @@ applications-action-column =
     .accesskey = Գ
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
-applications-file-ending = { $extension } ֆայլ
+applications-file-ending = { $extension } նիշ
 applications-action-save =
-    .label = Պահպանել Ֆայլը
+    .label = Պահել նիշը
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -291,12 +291,12 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Աւգտագործել { $app-name }-ը (լռելեայն)
+    .label = Աւգտագործել { $app-name }-ը (սկզբնադիր)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
             [macos] Աւգտագործել macOS սկզբնադիր յաւելուածը
-            [windows] Աւգտագործել Windows- ի սկզբնադիր յաւելուածը
+            [windows] Աւգտագործել Windows-ի սկզբնադիր յաւելուածը
            *[other] Աւգտագործել համակարգի սկզբնադիր յաւելուածը
         }
 applications-use-other =
