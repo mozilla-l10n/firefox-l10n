@@ -186,16 +186,16 @@ containers-disable-alert-ok-button =
        *[other] { $tabCount } Պարունակի ներդիրները
     }
 containers-disable-alert-cancel-button = Պահել միացուած
-containers-remove-alert-title = Հեռացնե՞լ այս Պարունակը:
+containers-remove-alert-title = Հեռացնե՞լ այս պարունակը:
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Եթե հեռացնեք Պարունակը հիմա՝ { $count } պարունակի ներդիր կփակվի: Համոզվա՞ծ եք:
-       *[other] Եթե հեռացնեք Պարունակը հիմա՝ { $count } պարունակի ներդիրներ կփակվեն: Համոզվա՞ծ եք:
+        [one] Եթե հեռացնէք այս պարունակը հիմա, { $count } պարունակի ներդիրը կը փակուի: Վստա՞հ էք, որ ուզում էք փակել այն:
+       *[other] Եթե հեռացնէք այս պարունակը հիմա՝ { $count } պարունակի ներդիրները կը փակուեն: Վստա՞հ էք, որ ուզում էք փակել այն:
     }
-containers-remove-ok-button = Հեռացնել այս Պարունակը
-containers-remove-cancel-button = Չհեռացնել այս Պարունակը
+containers-remove-ok-button = Հեռացնել այս պարունակը
+containers-remove-cancel-button = Չհեռացնել այս պարունակը
 
 ## General Section - Language & Appearance
 
