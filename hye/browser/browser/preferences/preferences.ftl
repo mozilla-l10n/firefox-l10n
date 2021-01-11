@@ -469,7 +469,7 @@ home-restore-defaults =
 home-mode-choice-default =
     .label = Firefox-ի Տնային էջը
 home-mode-choice-custom =
-    .label = Հարմարեցուած URL-ներ...
+    .label = Յարմարեցուած URL-ներ...
 home-mode-choice-blank =
     .label = Դատարկ էջ
 home-homepage-custom-url =
@@ -948,8 +948,8 @@ enhanced-tracking-protection-setting-strict =
     .label = Ստոյգ
     .accesskey = ս
 enhanced-tracking-protection-setting-custom =
-    .label = Հարմարեցուած
-    .accesskey = C
+    .label = Յարմարեցուած
+    .accesskey = ե
 
 ##
 
