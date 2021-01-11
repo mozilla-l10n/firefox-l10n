@@ -124,6 +124,9 @@ cfr-whatsnew-lockwise-take-link-text = Alkalmazás beszerzése
 
 cfr-whatsnew-searchbar-title = Gépeljen kevesebbet, találjon meg több mindent a címsorban
 cfr-whatsnew-searchbar-body-topsites = Most válassza ki a címsort, és a doboz kibővül a legnépszerűbb webhelyeire mutató hivatkozásokkal.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Nagyító ikon
 
 ## Picture-in-Picture
@@ -278,3 +281,4 @@ cfr-whatsnew-media-keys-button = Tudja meg, hogyan
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Gyors keresések a címsávban
+cfr-whatsnew-search-shortcuts-body = Ha most beír egy keresőszolgáltatás vagy egy konkrét oldal nevét a címsávba, akkor egy kék ikon fog alatta megjelenni a keresési javaslatoknál. Válassza ki a gyorskeresőt, hogy befejezze a keresést közvetlenül a címsávból.
