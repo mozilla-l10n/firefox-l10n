@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein positioniertes Element ist.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil <strong>overflow:hidden</strong> nicht gesetzt ist.
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil sein <strong>outline-style</strong> den Wert <strong>auto</strong> oder <strong>none</strong> hat.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> hat keine Wirkung auf interne Tabellenelemente.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> hat keine Wirkung auf interne Tabellenelemente außer Tabellenzellen.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -46,6 +48,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Versuchen
 inactive-css-not-display-block-on-floated-fix = Versuchen Sie, <strong>float</strong> zu entfernen oder <strong>display:block</strong> hinzuzufügen. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Versuchen Sie, die <strong>position</strong>-Eigenschaft auf etwas anderes als <strong>static</strong> zu setzen. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Versuchen Sie, <strong>overflow:hidden</strong> hinzuzufügen. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Versuchen Sie, die <strong>display</strong>-Eigenschaft auf etwas anderes als <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> oder <strong>table-footer-group</strong> zu setzen. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Versuchen Sie, die <strong>display</strong>-Eigenschaft auf etwas anderes als <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> oder <strong>table-footer-group</strong> zu setzen. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Versuchen Sie, die <strong>outline-style</strong>-Eigenschaft auf etwas anderes als <strong>auto</strong> oder<strong>none</strong> zu setzen. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
