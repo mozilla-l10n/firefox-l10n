@@ -202,6 +202,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Εξαγωγή συνδέσεων και κωδικών πρόσβασης
 about-logins-confirm-export-dialog-message = Οι κωδικοί πρόσβασής σας θα αποθηκευτούν ως αναγνώσιμο κείμενο (π.χ. BadP@ssw0rd), επομένως όποιος ανοίξει το αρχείο θα μπορέσει να τους δει.
 about-logins-confirm-export-dialog-confirm-button = Εξαγωγή…
+about-logins-alert-import-title = Η εισαγωγή ολοκληρώθηκε
+about-logins-alert-import-message = Προβολή λεπτομερούς περίληψης εισαγωγής
 confirm-discard-changes-dialog-title = Απόρριψη μη αποθηκευμένων αλλαγών;
 confirm-discard-changes-dialog-message = Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.
 confirm-discard-changes-dialog-confirm-button = Απόρριψη
@@ -263,3 +265,26 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Έγγραφο CSV
        *[other] Αρχείο CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Η εισαγωγή ολοκληρώθηκε
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Προστέθηκαν νέες συνδέσεις:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Ενημερώθηκαν υπάρχουσες συνδέσεις:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Βρέθηκαν διπλές συνδέσεις:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(δεν έγινε εισαγωγή)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Σφάλματα:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(δεν έγινε εισαγωγή)</span>
+    }
+about-logins-import-dialog-done = Τέλος
