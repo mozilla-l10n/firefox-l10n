@@ -234,6 +234,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Allforio mewngofnodion a chyfrineiriau
 about-logins-confirm-export-dialog-message = Bydd eich cyfrineiriau'n cael eu cadw fel testun darllenadwy (e.e. BadP@ssw0rd) fel y gall unrhyw un sy'n gallu agor y ffeil a allforiwyd eu gweld.
 about-logins-confirm-export-dialog-confirm-button = Allforio…
+about-logins-alert-import-title = Wedi Cwblhau Mewnforio
+about-logins-alert-import-message = Gweld crynodeb mewnforio manwl
 confirm-discard-changes-dialog-title = Hepgor newidiadau heb eu cadw?
 confirm-discard-changes-dialog-message = Bydd yr holl newidiadau sydd heb eu cadw'n cael eu colli.
 confirm-discard-changes-dialog-confirm-button = Dileu
@@ -295,3 +297,9 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dogfen CSV
        *[other] Ffeil CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Wedi Cwblhau Mewnforio
