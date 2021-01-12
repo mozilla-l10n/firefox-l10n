@@ -223,7 +223,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Յղումը ուղարկել էլ֊փոստով…">
 
-<!ENTITY fullZoom.label                 "Մասշտաբը">
+<!ENTITY fullZoom.label                 "Չափափոխում">
 
 <!ENTITY sidebarCloseButton.tooltip     "Փակել կողավահանակը">
 
