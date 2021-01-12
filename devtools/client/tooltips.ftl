@@ -28,6 +28,7 @@ inactive-css-property-is-impossible-to-override-in-visited = 由于 <strong>:vis
 inactive-css-position-property-on-unpositioned-box = 由于不是定位元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-text-overflow-when-no-overflow = 由于未设置 <strong>overflow:hidden</strong>，<strong>{ $property }</strong> 对此元素无效。
 inactive-outline-radius-when-outline-style-auto-or-none = 由于此元素的 <strong>outline-style</strong> 是 <strong>auto</strong> 或 <strong>none</strong>，<strong>{ $property }</strong> 对此元素没有影响。
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 对内部表格元素无影响。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
