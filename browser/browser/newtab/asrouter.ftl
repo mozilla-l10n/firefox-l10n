@@ -300,4 +300,4 @@ cfr-whatsnew-supercookies-body = I siti web possono associare al tuo browser un 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Migliore gestione dei segnalibri
-cfr-whatsnew-bookmarking-body = Tenere traccia dei tuoi siti preferiti è diventato ancora più semplice. { -brand-short-name } ora ricorda la tua posizione preferita per salvare i segnalibri, visualizza automaticamente la barra dei segnalibri quando apri una nuova scheda e fornisce rapido accesso agli altri segnalibri attraverso una cartella nella barra degli strumenti.
+cfr-whatsnew-bookmarking-body = Tenere traccia dei tuoi siti preferiti è ancora più semplice. { -brand-short-name } ora ricorda la tua posizione preferita per salvare i segnalibri, visualizza automaticamente la barra dei segnalibri quando apri una nuova scheda e fornisce rapido accesso agli altri segnalibri attraverso una cartella nella barra degli strumenti.
