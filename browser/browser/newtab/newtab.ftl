@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Vyhledat na webu
     .title = Vyhledat na webu
     .aria-label = Vyhledat na webu
+newtab-search-box-text = Vyhledat na webu
+newtab-search-box-input =
+    .placeholder = Vyhledat na webu
+    .aria-label = Vyhledat na webu
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Přidat vyhledávač
 newtab-topsites-add-topsites-header = Nová top stránka
+newtab-topsites-add-shortcut-header = Nová zkratka
 newtab-topsites-edit-topsites-header = Upravit top stránku
+newtab-topsites-edit-shortcut-header = Upravit zkratku
 newtab-topsites-title-label = Název stránky
 newtab-topsites-title-input =
     .placeholder = Zadejte název
