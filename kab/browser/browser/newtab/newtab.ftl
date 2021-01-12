@@ -23,12 +23,15 @@ newtab-search-box-search-the-web-input =
     .placeholder = Nadi di Web
     .title = Nadi di Web
     .aria-label = Nadi di Web
+newtab-search-box-text = Nadi di web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Rnu amsedday n unadi
 newtab-topsites-add-topsites-header = Asmel ifazen amaynut
+newtab-topsites-add-shortcut-header = Anegzum amaynut
 newtab-topsites-edit-topsites-header = Ẓreg asmel ifazen
+newtab-topsites-edit-shortcut-header = Ẓreg anegzum
 newtab-topsites-title-label = Azwel
 newtab-topsites-title-input =
     .placeholder = Sekcem azwel

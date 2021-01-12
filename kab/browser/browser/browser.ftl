@@ -564,6 +564,7 @@ library-bookmarks-bookmark-this-page =
     .label = Creḍ asebter-a
 library-bookmarks-bookmark-edit =
     .label = Ẓreg tacreḍṭ n usebter-a
+library-recent-activity-label = Armud n melmi kan
 
 ## More items
 
