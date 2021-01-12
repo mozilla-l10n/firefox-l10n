@@ -171,6 +171,14 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Odstrani
+        [one] Odstrani
+        [two] Odstrani obe
+        [few] Odstrani vse
+       *[other] Odstrani vse
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Da, odstrani to prijavo
@@ -204,6 +212,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = Izvozite prijave in gesla
 about-logins-confirm-export-dialog-message = Vaša gesla bodo shranjena kot berljivo besedilo (npr. Sl@boG3slo), zato bodo vidna vsakomur, ki bo lahko odprl izvoženo datoteko.
 about-logins-confirm-export-dialog-confirm-button = Izvozi …
+about-logins-alert-import-title = Uvoz dokončan
+about-logins-alert-import-message = Prikaži podroben povzetek uvoza
 confirm-discard-changes-dialog-title = Zavržem neshranjene spremembe?
 confirm-discard-changes-dialog-message = Vse neshranjene spremembe bodo izgubljene.
 confirm-discard-changes-dialog-confirm-button = Prezri
@@ -265,3 +275,10 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokument CSV
        *[other] Datoteka CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Uvoz dokončan
+about-logins-import-dialog-done = Končano
