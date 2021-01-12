@@ -275,4 +275,24 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import slutförd
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span><span>ny inloggning tillagd</span>
+       *[other] <span data-l10n-name="count">{ $count }</span><span>nya inloggningar tillagda</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span><span>befintlig inloggning uppdaterad</span>
+       *[other] <span data-l10n-name="count">{ $count }</span><span>befintliga inloggningar uppdaterade</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span><span>duplicerad inloggning hittades</span><span data-l10n-name="meta">(ej importerad)</span>
+       *[other] <span data-l10n-name="count">{ $count }</span><span>duplicerad inloggningar hittades</span><span data-l10n-name="meta">(ej importerade)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span><span>fel</span><span data-l10n-name="meta">(ej importerad)</span>
+       *[other] <span data-l10n-name="count">{ $count }</span><span>fel</span><span data-l10n-name="meta">(ej importerade)</span>
+    }
 about-logins-import-dialog-done = Klar
