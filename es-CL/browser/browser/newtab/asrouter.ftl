@@ -122,6 +122,9 @@ cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 
 cfr-whatsnew-searchbar-title = Escribe menos, encuentra más con la barra de direcciones
 cfr-whatsnew-searchbar-body-topsites = Ahora, solo selecciona la barra de direcciones y una caja se expandirá con los enlaces a tus sitios frecuentes.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ícono de lupa
 
 ## Picture-in-Picture
@@ -276,3 +279,11 @@ cfr-whatsnew-media-keys-button = Aprender cómo
 
 cfr-whatsnew-search-shortcuts-header = Atajos de búsqueda en la barra de direcciones
 cfr-whatsnew-search-shortcuts-body = Ahora, cuando escribas un motor de búsqueda o un sitio específico en la barra de direcciones, aparecerá un atajo azul en las sugerencias de búsqueda. Selecciona ese acceso directo para completar tu búsqueda directamente desde la barra de direcciones.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protección contra supercookies maliciosas
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Mejores marcadores
