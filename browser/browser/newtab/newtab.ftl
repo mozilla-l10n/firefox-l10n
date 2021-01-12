@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = 웹 검색
     .title = 웹 검색
     .aria-label = 웹 검색
+newtab-search-box-text = 웹 검색
+newtab-search-box-input =
+    .placeholder = 웹 검색
+    .aria-label = 웹 검색
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = 검색 엔진 추가
 newtab-topsites-add-topsites-header = 새 상위 사이트
+newtab-topsites-add-shortcut-header = 새 바로 가기
 newtab-topsites-edit-topsites-header = 상위 사이트 편집
+newtab-topsites-edit-shortcut-header = 바로 가기 편집
 newtab-topsites-title-label = 제목
 newtab-topsites-title-input =
     .placeholder = 제목 입력
