@@ -206,6 +206,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportacion dels identificants e senhals
 about-logins-confirm-export-dialog-message = Vòstres senhals seràn salvats jos la forma de tèxt legible (per exemple, « senh4l-f3bl3 ») ; atal qual que siá que pòt dobrir lo fichièr poirà los consultar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-alert-import-title = Importacion acabada
 confirm-discard-changes-dialog-title = Ignorar las modificacions pas enregistradas ?
 confirm-discard-changes-dialog-message = Totas las modificacions pas enregistradas seràn perdudas.
 confirm-discard-changes-dialog-confirm-button = Ignorar
@@ -267,3 +268,14 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] Fichièr CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importacion acabada
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Errors :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(pas importats)</span>
+    }
+about-logins-import-dialog-done = Acabat
