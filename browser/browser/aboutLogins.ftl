@@ -275,4 +275,24 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importieren abgeschlossen
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Neue Zugangsdaten hinzugefügt:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Neue Zugangsdaten hinzugefügt:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Bestehende Zugangsdaten aktualisiert:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Bestehende Zugangsdaten aktualisiert:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Doppelte Zugangsdaten gefunden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
+       *[other] <span>Doppelte Zugangsdaten gefunden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Fehler:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
+       *[other] <span>Fehler:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
+    }
 about-logins-import-dialog-done = Fertig
