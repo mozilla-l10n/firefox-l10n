@@ -292,3 +292,4 @@ cfr-whatsnew-supercookies-header = Skydd mot skadliga superkakor
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Bättre bokmärkning
+cfr-whatsnew-bookmarking-body = Det är lättare att hålla koll på dina favoritsidor. { -brand-short-name } kommer nu ihåg din önskade plats för sparade bokmärken, visar bokmärkesverktygsfältet som standard på nya flikar och ger dig enkel åtkomst till resten av dina bokmärken via en verktygsfältmapp.
