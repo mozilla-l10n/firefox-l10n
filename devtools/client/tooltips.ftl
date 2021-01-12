@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = Είναι αδύν
 inactive-css-position-property-on-unpositioned-box = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι τοποθετημένο στοιχείο.
 inactive-text-overflow-when-no-overflow = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο αφού το  <strong>overflow:hidden</strong> δεν έχει οριστεί.
 inactive-outline-radius-when-outline-style-auto-or-none = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο επειδή το <strong>outline-style</strong> του είναι <strong>auto</strong> ή <strong>none</strong>.
+inactive-css-not-for-internal-table-elements = Το <strong>{ $property }</strong> δεν επηρεάζει τα εσωτερικά στοιχεία πίνακα.
+inactive-css-not-for-internal-table-elements-except-table-cells = Το <strong>{ $property }</strong> δεν επηρεάζει τα εσωτερικά στοιχεία πίνακα, εκτός από τα κελιά πίνακα.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -46,6 +48,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Δοκι�
 inactive-css-not-display-block-on-floated-fix = Δοκιμάστε να αφαιρέσετε το <strong>float</strong> ή να προσθέσετε το <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Δοκιμάστε να ορίσετε τη ιδιότητα <strong>position</strong> του σε κάτι άλλο εκτός από <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Δοκιμάστε να προσθέσετε το <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Δοκιμάστε να ορίσετε την ιδιότητα <strong>display</strong> του σε κάτι άλλο εκτός από <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ή <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Δοκιμάστε να ορίσετε την ιδιότητα <strong>display</strong> του σε κάτι άλλο εκτός από <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ή <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Δοκιμάστε να ορίσετε την ιδιότητα <strong>outline-style</strong> σε κάτι άλλο εκτός από <strong>auto</strong> ή <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
