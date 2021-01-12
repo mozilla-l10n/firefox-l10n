@@ -32,7 +32,9 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Suchmaschine hinzufügen
 newtab-topsites-add-topsites-header = Neue wichtige Seite
+newtab-topsites-add-shortcut-header = Neue Verknüpfung
 newtab-topsites-edit-topsites-header = Wichtige Seite bearbeiten
+newtab-topsites-edit-shortcut-header = Verknüpfung bearbeiten
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Name eingeben
