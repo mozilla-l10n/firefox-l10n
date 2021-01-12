@@ -267,4 +267,16 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = 导入完成
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>现有登录信息更新：</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>重复的登录信息：</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">（未导入）</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>错误：</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未导入）</span>
+    }
 about-logins-import-dialog-done = 完成
