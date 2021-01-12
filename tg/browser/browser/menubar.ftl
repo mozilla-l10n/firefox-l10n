@@ -59,6 +59,8 @@ menu-edit =
 
 ## History Menu
 
+menu-history-show-all-history =
+    .label = Намоиш додани таърихи пурра
 
 ## Bookmarks Menu
 

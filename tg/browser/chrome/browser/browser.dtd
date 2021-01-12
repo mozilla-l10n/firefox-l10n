@@ -17,6 +17,7 @@ can reach it easily. -->
 
 
 
+<!ENTITY menubarCmd.label "Навори меню">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -67,6 +68,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 
+<!ENTITY appMenuHistory.showAll.label "Намоиш додани таърихи пурра">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
