@@ -287,3 +287,5 @@ cfr-whatsnew-supercookies-body = Alguns sites podem anexar secretamente ao seu n
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Melhora nos favoritos
+cfr-whatsnew-bookmarking-body = É mais fácil acompanhar seus sites preferidos. Agora o { -brand-short-name } memoriza seu local preferido de salvar favoritos, mostra por padrão a barra de ferramentas de favoritos em novas abas e oferece acesso fácil ao restante de seus favoritos por meio de uma pasta na barra de ferramentas.
