@@ -292,3 +292,5 @@ cfr-whatsnew-supercookies-body = Websites können Ihrem Browser heimlich einen "
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Bessere Lesezeichen-Verwaltung
+cfr-whatsnew-bookmarking-body = Es ist einfacher, Ihre Lieblingsseiten im Auge zu behalten. { -brand-short-name } merkt sich jetzt Ihren bevorzugten Ort für gespeicherte Lesezeichen, zeigt die Lesezeichen-Symbolleiste standardmäßig in neuen Tabs an und verschafft Ihnen über einen Symbolleisten-Ordner einfachen Zugang zu Ihren übrigen Lesezeichen.
