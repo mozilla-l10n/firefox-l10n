@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Zoeken op het web
     .title = Zoeken op het web
     .aria-label = Zoeken op het web
+newtab-search-box-text = Zoeken op het web
+newtab-search-box-input =
+    .placeholder = Zoeken op het web
+    .aria-label = Zoeken op het web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Zoekmachine toevoegen
 newtab-topsites-add-topsites-header = Nieuwe topwebsite
+newtab-topsites-add-shortcut-header = Nieuwe snelkoppeling
 newtab-topsites-edit-topsites-header = Topwebsite bewerken
+newtab-topsites-edit-shortcut-header = Snelkoppeling bewerken
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Voer een titel in
