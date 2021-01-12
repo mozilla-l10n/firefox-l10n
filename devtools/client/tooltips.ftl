@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = A(z) <strong>{ $pro
 inactive-css-position-property-on-unpositioned-box = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem pozicionált elem.
 inactive-text-overflow-when-no-overflow = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem megadva az <strong>overflow:hidden</strong>.
 inactive-outline-radius-when-outline-style-auto-or-none = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mert az <strong>outline-style</strong> értéke <strong>auto</strong> vagy <strong>none</strong>.
+inactive-css-not-for-internal-table-elements = A(z) <strong>{ $property }</strong> nincs hatással a belső táblázatelemekre.
+inactive-css-not-for-internal-table-elements-except-table-cells = A(z) <strong>{ $property }</strong> nincs hatással a belső táblázatelemekre, kivéve a táblázatcellákat.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
