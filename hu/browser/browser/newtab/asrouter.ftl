@@ -282,3 +282,11 @@ cfr-whatsnew-media-keys-button = Tudja meg, hogyan
 
 cfr-whatsnew-search-shortcuts-header = Gyors keresések a címsávban
 cfr-whatsnew-search-shortcuts-body = Ha most beír egy keresőszolgáltatás vagy egy konkrét oldal nevét a címsávba, akkor egy kék ikon fog alatta megjelenni a keresési javaslatoknál. Válassza ki a gyorskeresőt, hogy befejezze a keresést közvetlenül a címsávból.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Védelem a rosszindulatú szupersütik ellen
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Jobb könyvjelzőkezelés

@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Keresés a weben
     .title = Keresés a weben
     .aria-label = Keresés a weben
+newtab-search-box-text = Keresés a weben
+newtab-search-box-input =
+    .placeholder = Keresés a weben
+    .aria-label = Keresés a weben
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Keresőszolgáltatás hozzáadása
 newtab-topsites-add-topsites-header = Új népszerű oldal
+newtab-topsites-add-shortcut-header = Új gyorskereső
 newtab-topsites-edit-topsites-header = Népszerű oldal szerkesztése
+newtab-topsites-edit-shortcut-header = Gyorskereső szerkesztése
 newtab-topsites-title-label = Cím
 newtab-topsites-title-input =
     .placeholder = Cím megadása

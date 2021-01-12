@@ -932,6 +932,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Nyitott lapok
     .accesskey = N
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Gyorskeresők
+    .accesskey = G
 addressbar-locbar-topsites-option =
     .label = Kedvenc oldalak
     .accesskey = K
