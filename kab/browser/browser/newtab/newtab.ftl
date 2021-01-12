@@ -24,6 +24,9 @@ newtab-search-box-search-the-web-input =
     .title = Nadi di Web
     .aria-label = Nadi di Web
 newtab-search-box-text = Nadi di web
+newtab-search-box-input =
+    .placeholder = Nadi di web
+    .aria-label = Nadi di web
 
 ## Top Sites - General form dialog.
 
