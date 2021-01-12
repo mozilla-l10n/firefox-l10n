@@ -556,6 +556,7 @@ library-bookmarks-bookmark-this-page =
     .label = 为此页添加书签
 library-bookmarks-bookmark-edit =
     .label = 编辑此书签
+library-recent-activity-label = 近期动态
 
 ## More items
 

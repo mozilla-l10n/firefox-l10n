@@ -198,6 +198,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
 about-logins-confirm-export-dialog-confirm-button = 导出…
+about-logins-alert-import-title = 导入完成
+about-logins-alert-import-message = 查看详细的导入摘要
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
 confirm-discard-changes-dialog-message = 将失去所有未保存的更改。
 confirm-discard-changes-dialog-confirm-button = 丢弃
@@ -259,3 +261,10 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV 文档
        *[other] CSV 文件
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = 导入完成
+about-logins-import-dialog-done = 完成
