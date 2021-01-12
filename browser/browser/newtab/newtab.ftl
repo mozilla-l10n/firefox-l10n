@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Sök på webben
     .title = Sök på webben
     .aria-label = Sök på webben
+newtab-search-box-text = Sök på webben
+newtab-search-box-input =
+    .placeholder = Sök på webben
+    .aria-label = Sök på webben
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Lägg till sökmotor
 newtab-topsites-add-topsites-header = Ny mest besökt
+newtab-topsites-add-shortcut-header = Ny genväg
 newtab-topsites-edit-topsites-header = Redigera mest besökta
+newtab-topsites-edit-shortcut-header = Redigera genväg
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Ange en titel

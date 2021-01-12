@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = Hämta appen
 
 cfr-whatsnew-searchbar-title = Skriv mindre, hitta mer med adressfältet
 cfr-whatsnew-searchbar-body-topsites = Välj adressfältet och en ruta kommer att utvidgas med länkar till dina mest besökta webbplatser.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Förstoringsglasikonen
 
 ## Picture-in-Picture
@@ -281,3 +284,11 @@ cfr-whatsnew-media-keys-button = Lär dig hur
 
 cfr-whatsnew-search-shortcuts-header = Sökgenvägar i adressfältet
 cfr-whatsnew-search-shortcuts-body = När du nu skriver en sökmotor eller specifik webbplats i adressfältet visas en blå genväg i sökförslagen nedan. Välj den genvägen för att slutföra din sökning direkt från adressfältet.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Skydd mot skadliga superkakor
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Bättre bokmärkning
