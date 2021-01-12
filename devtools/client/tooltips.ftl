@@ -49,6 +49,7 @@ inactive-css-not-display-block-on-floated-fix = Ceisiwch dynnu <strong>float</st
 inactive-css-position-property-on-unpositioned-box-fix = Ceisiwch osod priodwedd ei <strong>leoliad</strong> i rywbeth arall heblaw <strong>statig</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Ceisiwch ychwanegu <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>cell-tabl</strong>, <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>cell-tabl</strong>, <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Ceisiwch osod ei briodwedd <strong>amlinellol</strong> i rywbeth heblaw'n <strong>awto</strong> neu'n <strong>ddim</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers

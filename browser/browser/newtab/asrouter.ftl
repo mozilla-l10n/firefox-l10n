@@ -307,7 +307,7 @@ cfr-whatsnew-search-shortcuts-body = Nawr, pan fyddwch yn teipio manylion gwefan
 
 ## What's new: Cookies protection
 
-cfr-whatsnew-supercookies-header = Diogelwch rhag archgwcis maleisus
+cfr-whatsnew-supercookies-header = Diogelwch rhag archcwcis maleisus
 cfr-whatsnew-supercookies-body = Gall gwefannau atodi “archcwci” yn gyfrinachol i'ch porwr a all eich dilyn o amgylch y we, hyd yn oed ar ôl i chi glirio'ch cwcis. Mae { -brand-short-name } bellach yn darparu amddiffyniad cryf yn erbyn archcwcis fel nad oes modd eu defnyddio i dracio'ch gweithgareddau ar-lein o un gwefan i'r llall.
 
 ## What's new: Better bookmarking
