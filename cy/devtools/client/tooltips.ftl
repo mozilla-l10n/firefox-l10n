@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = Mae'n amhosib diyst
 inactive-css-position-property-on-unpositioned-box = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem wedi'i lleoli.
 inactive-text-overflow-when-no-overflow = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw <strong>overflow:hidden</strong> wedi'i osod.
 inactive-outline-radius-when-outline-style-auto-or-none = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon oherwydd bod ei <strong>arddull amlinellol</strong> yn <strong>awto</strong> neu'n <strong>ddim</strong>.
+inactive-css-not-for-internal-table-elements = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar elfennau tablau mewnol.
+inactive-css-not-for-internal-table-elements-except-table-cells = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar elfennau bwrdd mewnol ac eithrio celloedd bwrdd.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

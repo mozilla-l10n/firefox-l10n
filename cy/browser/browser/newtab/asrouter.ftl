@@ -138,6 +138,9 @@ cfr-whatsnew-lockwise-take-link-text = Estyn yr ap
 
 cfr-whatsnew-searchbar-title = Teipio llai, darganfod mwy gyda'r bar cyfeiriad
 cfr-whatsnew-searchbar-body-topsites = Nawr, dewiswch y bar cyfeiriadau, a bydd blwch yn ehangu gyda dolenni i'ch prif wefannau.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Eicon chwyddwydr
 
 ## Picture-in-Picture
@@ -301,3 +304,13 @@ cfr-whatsnew-media-keys-button = Dysgu sut
 
 cfr-whatsnew-search-shortcuts-header = Llwybrau byr chwilio yn y bar cyfeiriadau
 cfr-whatsnew-search-shortcuts-body = Nawr, pan fyddwch yn teipio manylion gwefan neu beiriant chwilio penodol yn y bar cyfeiriad, bydd llwybr byr glas yn ymddangos yn yr awgrymiadau chwilio isod. Dewiswch y llwybr byr hwnnw i gwblhau eich chwilio'n uniongyrchol o'r bar cyfeiriad.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Diogelwch rhag archgwcis maleisus
+cfr-whatsnew-supercookies-body = Gall gwefannau atodi “archcwci” yn gyfrinachol i'ch porwr a all eich dilyn o amgylch y we, hyd yn oed ar ôl i chi glirio'ch cwcis. Mae { -brand-short-name } bellach yn darparu amddiffyniad cryf yn erbyn archcwcis fel nad oes modd eu defnyddio i dracio'ch gweithgareddau ar-lein o un gwefan i'r llall.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Nodi tudalen gwell
+cfr-whatsnew-bookmarking-body = Mae'n haws cadw golwg ar eich hoff wefannau. Mae { -brand-short-name } bellach yn cofio'ch hoff leoliad ar gyfer nodau tudalen wedi'u cadw, yn dangos y bar offer nodau tudalen yn ragosodedig ar dabiau newydd, ac yn rhoi mynediad hawdd i weddill eich nodau tudalen trwy ffolder bar offer.

@@ -948,6 +948,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tabiau agored
     .accesskey = T
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Llwybrau Byr
+    .accesskey = L
 addressbar-locbar-topsites-option =
     .label = Hoff wefannau
     .accesskey = H
