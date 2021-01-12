@@ -117,6 +117,9 @@ cfr-whatsnew-lockwise-take-link-text = 下載 App
 
 cfr-whatsnew-searchbar-title = 使用網址列，打得更少，找得更多
 cfr-whatsnew-searchbar-body-topsites = 現在只要選擇網址列，就會顯示包含熱門網站連結的方框。
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = 放大鏡圖示
 
 ## Picture-in-Picture
@@ -270,3 +273,13 @@ cfr-whatsnew-media-keys-button = 了解要怎麼做
 
 cfr-whatsnew-search-shortcuts-header = 在網址列搜尋捷徑
 cfr-whatsnew-search-shortcuts-body = 現在起，當您在網址列輸入搜尋引擎名稱或特定網址時，將於搜尋建議的下方顯示藍色捷徑。選擇該捷徑即可直接從網址列完成搜尋。
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = 防止有害的超級 Cookie 追蹤
+cfr-whatsnew-supercookies-body = 某些網站會偷偷將「超級 Cookie」插入到瀏覽器，在網路上到處跟著您，就算清理掉一般 Cookie 後也無法清除。{ -brand-short-name } 現在起會針對超級 Cookie 加強保護，不讓它們被用來追蹤您的線上活動。
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = 書籤功能更完善
+cfr-whatsnew-bookmarking-body = 很簡單就能追蹤您最愛的網站。{ -brand-short-name } 現在起會記住您儲存書籤的偏好位置、在新分頁預設顯示書籤工具列，並且讓您透過工具列中的資料夾快速開啟其他書籤。

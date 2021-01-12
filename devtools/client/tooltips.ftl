@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = 由於 <strong>:vis
 inactive-css-position-property-on-unpositioned-box = 由於元素未置入，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-text-overflow-when-no-overflow = 由於未設定 <strong>overflow:hidden</strong>，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-outline-radius-when-outline-style-auto-or-none = 由於此元素的 <strong>outline-style</strong> 是 <strong>auto</strong> 或 <strong>none</strong>，<strong>{ $property }</strong> 對此元素沒有影響。
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 對內部表格元素沒有影響。
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> 對表格欄位之外的內部表格元素沒有影響。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -46,6 +48,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = 請嘗試
 inactive-css-not-display-block-on-floated-fix = 可試著移除 <strong>float</strong> 或加入 <strong>display:block</strong>。{ learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = 請試著將 <strong>position</strong> 屬性設定為 <strong>static</strong> 以外的值。{ learn-more }
 inactive-text-overflow-when-no-overflow-fix = 請嘗試加入 <strong>overflow:hidden</strong>。{ learn-more }
+inactive-css-not-for-internal-table-elements-fix = 請嘗試將其 <strong>display</strong> 設定成 <strong>table-cell</strong>、<strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或<strong>table-footer-group</strong> 以外的值。{ learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = 請嘗試將其 <strong>display</strong> 設定成 <strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或<strong>table-footer-group</strong> 以外的值。{ learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = 請試著將 <strong>outline-style</strong> 屬性設定為 <strong>auto</strong> 或 <strong>none</strong> 以外的值。{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers

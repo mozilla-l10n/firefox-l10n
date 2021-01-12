@@ -275,3 +275,12 @@ about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>更新的現有登入資訊:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>重複的登入資訊:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">（未匯入）</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>錯誤:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未匯入）</span>
+    }
+about-logins-import-dialog-done = 完成
