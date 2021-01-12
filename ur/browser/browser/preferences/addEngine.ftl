@@ -8,3 +8,6 @@ add-engine-window =
 add-engine-button = مخصوص انجن شامل کریں
 add-engine-name = تلاش انجن کا نام
 add-engine-alias = عرف
+add-engine-dialog =
+    .buttonlabelaccept = انجن شامل کریں
+    .buttonaccesskeyaccept = A
