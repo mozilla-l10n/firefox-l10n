@@ -221,7 +221,7 @@ this container is a toolbar. This avoids double-speaking. -->
   "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Ver lista do Pocket">
 
-<!ENTITY emailPageCmd.label           "Enviar link por e-mail…">
+<!ENTITY emailPageCmd.label           "Enviar link por email…">
 
 <!ENTITY fullZoom.label                 "Zoom">
 
