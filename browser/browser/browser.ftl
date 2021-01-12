@@ -566,6 +566,7 @@ library-bookmarks-bookmark-this-page =
     .label = Закласти цю сторінку
 library-bookmarks-bookmark-edit =
     .label = Редагувати цю закладку
+library-recent-activity-label = Нещодавня активність
 
 ## More items
 

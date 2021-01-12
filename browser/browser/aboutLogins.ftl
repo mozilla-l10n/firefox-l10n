@@ -213,6 +213,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Експортувати паролі
 about-logins-confirm-export-dialog-message = Ваші паролі буде збережено у вигляді звичайного тексту (наприклад, BadP@ssw0rd), тож кожен, хто може відкрити експортований файл, зможе їх переглянути.
 about-logins-confirm-export-dialog-confirm-button = Експорт…
+about-logins-alert-import-title = Імпорт завершено
+about-logins-alert-import-message = Переглянути детальний підсумок імпорту
 confirm-discard-changes-dialog-title = Відхилити незбережені зміни?
 confirm-discard-changes-dialog-message = Всі незбережені зміни будуть втрачені.
 confirm-discard-changes-dialog-confirm-button = Відхилити
@@ -274,3 +276,26 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Документ CSV
        *[other] Файл CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Імпорт завершено
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Додано нових записів:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Оновлено наявних записів:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Знайдено дублікатів:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Помилки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
+about-logins-import-dialog-done = Готово
