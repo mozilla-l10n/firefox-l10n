@@ -277,6 +277,9 @@ cfr-whatsnew-search-shortcuts-body = 이제, 검색 엔진이나 특정 사이�
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = 악성 슈퍼쿠키로부터 보호
+cfr-whatsnew-supercookies-body = 웹 사이트는 사용자가 쿠키를 지운 후에도 웹에서 사용자를 추적할 수 있는 "슈퍼쿠키"를 브라우저에 몰래 첨부할 수 있습니다. { -brand-short-name }는 이제 슈퍼쿠키에 대한 강력한 보호 기능을 제공하므로 한 사이트에서 다음 사이트로 온라인 활동을 추적하는 데 사용할 수 없습니다.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = 더 나은 북마크
+cfr-whatsnew-bookmarking-body = 즐겨찾는 사이트를 더 쉽게 추적할 수 있습니다. 이제 { -brand-short-name }는 저장된 북마크의 선호 위치를 기억하고, 새 탭에 북마크 도구 모음을 기본적으로 표시하며, 도구 모음 폴더를 통해 나머지 북마크에 쉽게 액세스할 수 있습니다.
