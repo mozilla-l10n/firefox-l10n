@@ -513,6 +513,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Առաջարկուում է { $provider }
 home-prefs-recommended-by-description-update = Բացառիկ բովանդակութիւն համացանցից՝ կազմակերպուած { $provider }֊ի կողմից
+home-prefs-recommended-by-description-new = Բացառիկ բովանդակութիւն, որը համակարգում է { -brand-product-name }-ի ընտանիքի մաս կազմող { $provider }-ը
 
 ##
 
@@ -532,6 +533,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-ում պահուած էջեր
 home-prefs-recent-activity-header =
     .label = Վերջին գործողութիւնը
+home-prefs-recent-activity-description = Վերջին կայքերի եւ բովանդակութեան ընտրութիւն
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -539,6 +541,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Հատուածներ
 home-prefs-snippets-description = Թարմացումներ { -vendor-short-name }-ից եւ { -brand-product-name }-ից
+home-prefs-snippets-description-new = Խորհուրդներ եւ նորութիւններ՝ { -vendor-short-name } եւ { -brand-product-name } -ից
 home-prefs-sections-rows-option =
     .label =
         { $num ->
