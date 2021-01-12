@@ -566,6 +566,7 @@ library-bookmarks-bookmark-this-page =
     .label = Bladwijzer voor deze pagina maken
 library-bookmarks-bookmark-edit =
     .label = Deze bladwijzer bewerken
+library-recent-activity-label = Recente activiteit
 
 ## More items
 
