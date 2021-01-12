@@ -257,6 +257,9 @@ cfr-whatsnew-search-shortcuts-body = כעת, בעת הקלדת מנוע חיפו
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = הגנה מפני עוגיות־על זדוניות
+cfr-whatsnew-supercookies-body = אתרים יכולים לצרף בסתר ״עוגיית־על״ לדפדפן שלך, שיכול לעקוב אחריך ברשת, גם לאחר ניקוי עוגיות. { -brand-short-name } כעת מספק הגנה חזקה מפני עוגיות־על כדי שלא יהיה ניתן להשתמש בהן כדי לעקוב אחר הפעילויות המקוונות שלך מאתר אחד למשנהו.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = שמירת סימניות טובה יותר
+cfr-whatsnew-bookmarking-body = קל יותר לעקוב אחר האתרים המועדפים עליך. { -brand-short-name } כעת זוכר את המיקום המועדף שלך לסימניות שמורות, מציג כברירת מחדל את סרגל הסימניות בלשוניות חדשות ומעניק לך גישה נוחה לשאר הסימניות שלך באמצעות תיקייה בסרגל הכלים.
