@@ -117,6 +117,9 @@ cfr-whatsnew-lockwise-take-link-text = 获取应用
 
 cfr-whatsnew-searchbar-title = 使用地址栏，输入寥寥，搜遍万千
 cfr-whatsnew-searchbar-body-topsites = 现在只需选择地址栏，就会显示包含常用网站链接的下拉框。
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = 放大镜图标
 
 ## Picture-in-Picture
@@ -270,3 +273,11 @@ cfr-whatsnew-media-keys-button = 了解如何操作
 
 cfr-whatsnew-search-shortcuts-header = 在地址栏搜索快捷方式
 cfr-whatsnew-search-shortcuts-body = 现在起，当您在地址栏输入搜索引擎或特定网址时，下方搜索建议中将会显示一个蓝色快捷方式。选择它即可直接从地址栏完成搜索。
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = 阻止有害的超级 Cookie 跟踪
+cfr-whatsnew-supercookies-body = 某些网站会偷偷将“超级 Cookie”置入浏览器，在网上肆无忌惮地跟踪您，即使清理掉常规 Cookie 也无法消除。{ -brand-short-name } 现在起可提供应对超级 Cookie 的强大保护，阻止其跟踪您的网上活动。
+
+## What's new: Better bookmarking
+
