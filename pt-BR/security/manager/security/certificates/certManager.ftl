@@ -49,7 +49,7 @@ certmgr-edit-cert-edit-trust = Editar as configurações de confiança:
 certmgr-edit-cert-trust-ssl =
     .label = Este certificado pode identificar sites.
 certmgr-edit-cert-trust-email =
-    .label = Este certificado pode identificar usuários de e-mail.
+    .label = Este certificado pode identificar usuários de email.
 certmgr-delete-cert =
     .title = Excluir certificados
     .style = width: 48em; height: 24em;
@@ -70,7 +70,7 @@ certmgr-expires-on = Fim
 certmgr-expires-label =
     .label = Fim
 certmgr-email =
-    .label = Endereço de e-mail
+    .label = Endereço de email
 certmgr-serial =
     .label = Número de série
 certmgr-view =
@@ -144,7 +144,7 @@ choose-p12-restore-file-dialog = Importar arquivo de certificado
 
 file-browse-certificate-spec = Arquivos de certificados
 import-ca-certs-prompt = Selecionar arquivo contendo os certificados de CA a importar
-import-email-cert-prompt = Selecionar arquivo contendo o certificado de e-mail de alguém a importar
+import-email-cert-prompt = Selecione um arquivo contendo o certificado de email de alguém a importar
 
 ## For editing certificates trust
 
@@ -171,9 +171,9 @@ delete-ca-cert-title =
 delete-ca-cert-confirm = Você solicitou excluir estes certificados de CA. Certificados internos passarão a ser rejeitados em vez de ser excluídos, o que produz o mesmo efeito. Tem certeza que deseja excluir ou deixar de confiar?
 delete-ca-cert-impact = Se você excluir ou deixar de confiar em um certificado de uma autoridade certificadora (CA), este aplicativo rejeitará qualquer certificado emitido pela CA.
 delete-email-cert-title =
-    .title = Excluir certificados de e-mail
-delete-email-cert-confirm = Deseja realmente excluir os certificados de e-mail dessas pessoas?
-delete-email-cert-impact = Se você excluir o certificado de e-mail de alguém, não poderá mais enviar e-mails criptografados a esta pessoa.
+    .title = Excluir certificados de email
+delete-email-cert-confirm = Tem certeza que quer excluir os certificados de email dessas pessoas?
+delete-email-cert-impact = Se você excluir o certificado de email de alguém, não poderá mais enviar emails criptografados a esta pessoa.
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -201,9 +201,9 @@ verify-ssl-server =
 verify-ssl-ca =
     .value = Autoridade certificadora de SSL
 verify-email-signer =
-    .value = Certificado de assinante de e-mail
+    .value = Certificado de assinante de email
 verify-email-recip =
-    .value = Certificado de destinatário de e-mail
+    .value = Certificado de destinatário de email
 # Cert verification
 cert-not-verified-cert-revoked = Não foi possível verificar este certificado porque ele foi revogado.
 cert-not-verified-cert-expired = Não foi possível verificar este certificado porque ele expirou.
