@@ -228,6 +228,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
 about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
 about-logins-confirm-export-dialog-confirm-button = Exportovat…
+about-logins-alert-import-title = Import byl dokončen
+about-logins-alert-import-message = Zobrazit podrobné shrnutí importu
 confirm-discard-changes-dialog-title = Zahodit neuložené změny?
 confirm-discard-changes-dialog-message = Všechny neuložené změny budou ztraceny.
 confirm-discard-changes-dialog-confirm-button = Zahodit
@@ -289,3 +291,10 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokument CSV
        *[other] Soubor CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Import byl dokončen
+about-logins-import-dialog-done = Hotovo

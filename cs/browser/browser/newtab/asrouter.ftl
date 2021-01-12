@@ -314,3 +314,11 @@ cfr-whatsnew-media-keys-button = Jak na to
 
 cfr-whatsnew-search-shortcuts-header = Zkratky vyhledávání v adresním řádku
 cfr-whatsnew-search-shortcuts-body = Nyní když do adresního řádku zadáte vyhledávač nebo konkrétní web, se níže v našeptávači zobrazí modrá zkratka. Klepněte na tuto zkratku a dokončete vyhledávání přímo z adresního řádku.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Ochrana před škodlivými supercookies
+cfr-whatsnew-supercookies-body = Některé servery tajně posílají vašemu prohlížeči tzv. „supercookies“, pomocí kterých vás mohou na internetu sledovat i po smazání cookies. { -brand-short-name } poskytuje silnou ochranu proti supercookies, aby nemohly sloužit ke sledování vašeho brouzdání napříč různými webovými stránkami.
+
+## What's new: Better bookmarking
+
