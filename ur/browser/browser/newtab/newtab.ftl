@@ -20,6 +20,10 @@ newtab-search-box-search-the-web-input =
     .placeholder = ويب پر تلاش کريں
     .title = ويب پر تلاش کريں
     .aria-label = ويب پر تلاش کريں
+newtab-search-box-text = ويب پر تلاش کريں
+newtab-search-box-input =
+    .placeholder = ويب پر تلاش کريں
+    .aria-label = ويب پر تلاش کريں
 
 ## Top Sites - General form dialog.
 
@@ -195,5 +199,11 @@ newtab-error-fallback-refresh-link = دوبارہ کوشش کرنے کے لئے 
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = تیز راہ
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-close-button = بند کریں
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = سنپیٹ

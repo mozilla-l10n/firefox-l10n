@@ -15,6 +15,7 @@ about-processes-shutdown-tab =
 
 about-processes-column-name = نام
 about-processes-column-memory-resident = میموری
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -25,6 +26,10 @@ about-processes-column-memory-resident = میموری
 
 ## Details within processes
 
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = ٹیب : { $name }
 about-processes-preloaded-tab = پہلے سے لوڈ شدہ نیا ٹیب
 
 ## Displaying CPU (percentage and total)
