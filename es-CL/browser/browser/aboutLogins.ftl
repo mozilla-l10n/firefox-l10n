@@ -206,6 +206,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportar credenciales y contraseñas
 about-logins-confirm-export-dialog-message = Tus contraseñas serán guardadas como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-alert-import-title = Importación terminada
+about-logins-alert-import-message = Ver resumen de importación detallado
 confirm-discard-changes-dialog-title = ¿Descartar cambios sin guardar?
 confirm-discard-changes-dialog-message = Todos los cambios sin guardar se perderán.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -267,3 +269,30 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Archivo CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importación terminada
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Nueva credencial añadida:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nuevas credenciales añadidas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Credencial existente actualizada:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Credenciales existentes actualizadas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Credencial duplicada encontrada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importada)</span>
+       *[other] <span>Credenciales duplicadas encontradas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importadas)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Error:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importada)</span>
+       *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importadas)</span>
+    }
+about-logins-import-dialog-done = Hecho
