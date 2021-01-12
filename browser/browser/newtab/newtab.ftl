@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Chwilio'r We
     .title = Chwilio'r We
     .aria-label = Chwilio'r We
+newtab-search-box-text = Chwilio'r we
+newtab-search-box-input =
+    .placeholder = Chwilio'r we
+    .aria-label = Chwilio'r we
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Ychwanegu Peiriant Chwilio
 newtab-topsites-add-topsites-header = Hoff Wefan Newydd
+newtab-topsites-add-shortcut-header = Llwybr Byr Newydd
 newtab-topsites-edit-topsites-header = Golygu'r Hoff Wefan
+newtab-topsites-edit-shortcut-header = Golygu Llwybr Byr
 newtab-topsites-title-label = Teitl
 newtab-topsites-title-input =
     .placeholder = Rhoi teitl
