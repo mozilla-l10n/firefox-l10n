@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
+
+
 ## File Menu
 
 menu-file =
@@ -38,7 +44,7 @@ menu-file-save-page =
     .label = Salvar página como…
     .accesskey = v
 menu-file-email-link =
-    .label = Enviar link por e-mail…
+    .label = Enviar link por email…
     .accesskey = E
 menu-file-print-setup =
     .label = Configurar página…

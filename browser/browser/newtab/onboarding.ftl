@@ -33,10 +33,10 @@ onboarding-welcome-modal-supercharge-body = Potencialize sua proteção de priva
 onboarding-welcome-modal-privacy-body = Você instalou o navegador. Vamos adicionar mais proteção de privacidade.
 onboarding-welcome-modal-family-learn-more = Saiba mais sobre a família de produtos  { -brand-product-name }.
 onboarding-welcome-form-header = Início
-onboarding-join-form-body = Digite seu endereço de e-mail para começar.
+onboarding-join-form-body = Digite seu endereço de email para começar.
 onboarding-join-form-email =
-    .placeholder = Digite seu e-mail
-onboarding-join-form-email-error = É necessário um e-mail válido
+    .placeholder = Digite seu email
+onboarding-join-form-email-error = É necessário um email válido
 onboarding-join-form-legal = Ao continuar, você concorda com os <a data-l10n-name="terms">Termos do serviço</a> e o <a data-l10n-name="privacy">Aviso de privacidade</a>.
 onboarding-join-form-continue = Continuar
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
@@ -53,7 +53,7 @@ onboarding-cards-dismiss =
 
 onboarding-fullpage-welcome-subheader = Vamos descobrir tudo o que você pode fazer.
 onboarding-fullpage-form-email =
-    .placeholder = Seu endereço de e-mail…
+    .placeholder = Seu endereço de email…
 
 ## Firefox Sync modal dialog strings.
 
@@ -61,7 +61,7 @@ onboarding-sync-welcome-header = Leve o { -brand-product-name } com você
 onboarding-sync-welcome-content = Tenha seus favoritos, histórico, senhas e outras configurações em todos os seus dispositivos.
 onboarding-sync-welcome-learn-more-link = Saiba mais sobre a Conta Firefox
 onboarding-sync-form-input =
-    .placeholder = E-mail
+    .placeholder = Email
 onboarding-sync-form-continue-button = Continuar
 onboarding-sync-form-skip-login-button = Pular essa etapa
 
@@ -179,7 +179,7 @@ onboarding-data-sync-title = Leve suas configurações com você
 onboarding-data-sync-text2 = Sincronize favoritos, senhas e outras coisas em todo lugar que usar o { -brand-product-name }.
 onboarding-data-sync-button2 = Entre no { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Fique atento a vazamentos de dados
-onboarding-firefox-monitor-text2 = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados conhecido e envia um alerta caso apareça em um novo vazamento.
+onboarding-firefox-monitor-text2 = O { -monitor-brand-name } verifica se seu email apareceu em um vazamento de dados conhecido e envia um alerta caso apareça em um novo vazamento.
 onboarding-firefox-monitor-button = Cadastre-se para receber alertas
 onboarding-browse-privately-title = Navegue com privacidade
 onboarding-browse-privately-text = A navegação privativa limpa seu histórico de pesquisa e navegação para manter em segredo de qualquer um que use o computador.
