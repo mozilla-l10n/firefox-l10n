@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = חיפוש ברשת
     .title = חיפוש ברשת
     .aria-label = חיפוש ברשת
+newtab-search-box-text = חיפוש ברשת
+newtab-search-box-input =
+    .placeholder = חיפוש ברשת
+    .aria-label = חיפוש ברשת
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = הוספת מנוע חיפוש
 newtab-topsites-add-topsites-header = אתר מוביל חדש
+newtab-topsites-add-shortcut-header = קיצור דרך חדש
 newtab-topsites-edit-topsites-header = עריכת אתר מוביל
+newtab-topsites-edit-shortcut-header = עריכת קיצור דרך
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
     .placeholder = נא להזין כותרת

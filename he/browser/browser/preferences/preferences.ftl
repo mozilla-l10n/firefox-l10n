@@ -928,6 +928,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = לשוניות פתוחות
     .accesskey = ל
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = קיצורי דרך
+    .accesskey = ק
 addressbar-locbar-topsites-option =
     .label = אתרים מובילים
     .accesskey = מ
