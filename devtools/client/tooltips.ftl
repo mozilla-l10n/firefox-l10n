@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</s
 inactive-css-position-property-on-unpositioned-box = 위치가 지정된 요소가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-text-overflow-when-no-overflow = <strong>overflow:hidden</strong>이 설정되어 있지 않으므로 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>outline-style</strong> 속성이 <strong>auto</strong> 또는 <strong>none</strong>이기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 속성이 내부 테이블 요소에 영향을 미치지 않습니다.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> 속성이 테이블 셀을 제외하고 내부 테이블 요소에 영향을 미치지 않습니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
