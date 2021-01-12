@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Message Header Encryption Button
+
+message-header-show-security-info-key = t
+#   $type (String) - the shortcut key defined in the message-header-show-security-info-key
+message-security-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Berjochtbefeiliging toane (⌘ ⌥ { message-header-show-security-info-key })
+           *[other] Berjochtbefeiliging toane (Ctrl+Alt+{ message-header-show-security-info-key })
+        }
 openpgp-view-signer-key =
     .label = Kaai ûndertekener besjen
 openpgp-view-your-encryption-key =
