@@ -291,3 +291,13 @@ cfr-whatsnew-media-keys-button = Scopri come
 
 cfr-whatsnew-search-shortcuts-header = Scorciatoie di ricerca nella barra degli indirizzi
 cfr-whatsnew-search-shortcuts-body = Quando digiti il nome di un motore di ricerca o di un sito specifico nella barra degli indirizzi, verrà visualizzata una scorciatoia di colore blu tra i suggerimenti di ricerca. Seleziona questa scorciatoia per completare la ricerca direttamente dalla barra degli indirizzi.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protezione contro i supercookie
+cfr-whatsnew-supercookies-body = I siti web possono associare al tuo browser un “supercookie” in grado di seguirti in lungo e in largo per il Web, anche dopo che hai cancellato i normali cookie. Adesso { -brand-short-name } offre un’efficace protezione contro i supercookie, impedendogli di seguire le tue attività online da un sito all’altro.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Migliore gestione dei segnalibri
+cfr-whatsnew-bookmarking-body = Tenere traccia dei tuoi siti preferiti è diventato ancora più semplice. { -brand-short-name } ora ricorda la tua posizione preferita per salvare i segnalibri, visualizza automaticamente la barra dei segnalibri quando apri una nuova scheda e fornisce rapido accesso agli altri segnalibri attraverso una cartella nella barra degli strumenti.
