@@ -25,6 +25,12 @@ serviceworker-worker-debug = ٹھیک کریں
 # are in multi e10s mode, which effectively disables this link.
 serviceworker-worker-debug-forbidden = ڈیبگ
     .title = ہوخدمت کارکنان کو ڈیبگ کر سکتا ہے اگرmulti e10s غیر فعال
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = معائنہ کریں
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = شروع کریں
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = تذکاری <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
