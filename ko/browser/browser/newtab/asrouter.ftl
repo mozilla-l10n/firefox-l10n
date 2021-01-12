@@ -117,6 +117,9 @@ cfr-whatsnew-lockwise-take-link-text = 앱 받기
 
 cfr-whatsnew-searchbar-title = 주소 표시줄에 더 적게 입력하고 더 많이 찾기
 cfr-whatsnew-searchbar-body-topsites = 이제 주소 표시줄을 선택하면, 상자가 확장되어 상위 사이트에 대한 링크가 표시됩니다.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = 돋보기 아이콘
 
 ## Picture-in-Picture
@@ -270,3 +273,10 @@ cfr-whatsnew-media-keys-button = 방법 알아보기
 
 cfr-whatsnew-search-shortcuts-header = 주소 표시줄의 검색 바로 가기
 cfr-whatsnew-search-shortcuts-body = 이제, 검색 엔진이나 특정 사이트를 주소 표시줄에 입력하면 아래의 검색 제안에 파란색 바로 가기가 나타납니다. 주소 표시줄에서 바로 검색을 완료하려면 해당 바로 가기를 선택하세요.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = 악성 슈퍼쿠키로부터 보호
+
+## What's new: Better bookmarking
+
