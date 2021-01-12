@@ -287,7 +287,9 @@ cfr-whatsnew-search-shortcuts-body = Ara quand picatz lo nom d’un motor de rec
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Proteccion contra los supercookies malvolents
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = De melhors marcapaginas
+cfr-whatsnew-bookmarking-body = Es mai simple de gardar vòstres sites preferits. { -brand-short-name } remembra ara vòstre lòc favorit per enregistrar los marcapaginas, mòstra la barra d’aisinas dels marcapaginas per defaut suls onglets novèls, e vos dòna accès a la rèsta de vòstres marcapaginas via una icòna de dossièr per la barra d’aisinas.
