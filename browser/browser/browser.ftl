@@ -564,6 +564,7 @@ library-bookmarks-bookmark-this-page =
     .label = Agiuntar in segnapagina…
 library-bookmarks-bookmark-edit =
     .label = Modifitgar quest segnapagina
+library-recent-activity-label = Activitad recenta
 
 ## More items
 
