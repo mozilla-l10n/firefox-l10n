@@ -246,7 +246,14 @@ cfr-doorhanger-fission-secondary-button = مزید سیکھیں
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = مزید میڈیا کنٹرول
 cfr-whatsnew-media-keys-button = کیسے سیکھیں
 
 ## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
 

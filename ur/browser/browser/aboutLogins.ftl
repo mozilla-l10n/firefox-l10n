@@ -168,6 +168,8 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
     }
 about-logins-confirm-export-dialog-title = لاگ ان اور پاس ورڈ برآمد کریں
 about-logins-confirm-export-dialog-confirm-button = برآمد کریں…
+about-logins-alert-import-title = درآمد مکمل ہوئی
+about-logins-alert-import-message = درآمد کا تفصیلی خلاصہ دیکھیں
 confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ہٹاییں؟
 confirm-discard-changes-dialog-message = سبھی غیر محفوظ شدہ تبدیلیاں ختم ہوجائیں گی۔
 confirm-discard-changes-dialog-confirm-button = رد کريں
@@ -223,3 +225,10 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV دستاویز
        *[other] CSV فائل
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = درآمد مکمل ہوئی
+about-logins-import-dialog-done = ہوگیا
