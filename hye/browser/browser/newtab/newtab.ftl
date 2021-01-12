@@ -209,4 +209,18 @@ newtab-error-fallback-refresh-link = Թարմացրեք էջը՝ կրկին փո
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Դիւրանցումներ
+newtab-custom-shortcuts-subtitle = Կայքեր, որոնք Դուք պահում էք կամ այցելում
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } տող
+       *[other] { $num } տողեր
+    }
+newtab-custom-sponsored-sites = Հովանաւորուած դիւրանցումներ
+newtab-custom-pocket-title = Առաջարկուում է { -pocket-brand-name } -ի կողմից
+newtab-custom-pocket-subtitle = Բացառիկ բովանդակութիւն, որը համադրել է { -brand-product-name }-ի ընտանիքի մաս կազմող { -pocket-brand-name }-ը
+newtab-custom-pocket-sponsored = Հովանաւորուած պատմութիւններ
+newtab-custom-recent-title = Վերջին գործողութիւնը
+newtab-custom-recent-subtitle = Վերջին կայքերի եւ բովանդակութեան ընտրութիւն
+newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարէք աւելի շատ կարգաւորումներ
