@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = 搜尋 Web
     .title = 搜尋 Web
     .aria-label = 搜尋 Web
+newtab-search-box-text = 搜尋 Web
+newtab-search-box-input =
+    .placeholder = 搜尋 Web
+    .aria-label = 搜尋 Web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = 新增搜尋引擎
 newtab-topsites-add-topsites-header = 新增熱門網站
+newtab-topsites-add-shortcut-header = 新增捷徑
 newtab-topsites-edit-topsites-header = 編輯熱門網站
+newtab-topsites-edit-shortcut-header = 編輯捷徑
 newtab-topsites-title-label = 標題
 newtab-topsites-title-input =
     .placeholder = 輸入標題
