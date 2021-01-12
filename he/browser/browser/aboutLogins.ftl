@@ -203,6 +203,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
 about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
 about-logins-confirm-export-dialog-confirm-button = ייצוא…
+about-logins-alert-import-title = הייבוא הושלם
+about-logins-alert-import-message = הצגת סיכום מפורט על הייבוא
 confirm-discard-changes-dialog-title = האם להתעלם מהשינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
 confirm-discard-changes-dialog-confirm-button = התעלמות
@@ -264,3 +266,30 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] מסמך CSV
        *[other] קובץ CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = הייבוא הושלם
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>כניסות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>כניסות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>כניסות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>כניסות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>שגיאות:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
+       *[other] <span>שגיאות:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
+    }
+about-logins-import-dialog-done = סיום

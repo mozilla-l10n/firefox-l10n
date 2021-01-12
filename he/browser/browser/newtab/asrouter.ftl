@@ -118,6 +118,9 @@ cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
 
 cfr-whatsnew-searchbar-title = להקליד פחות ולמצוא יותר עם שורת הכתובת
 cfr-whatsnew-searchbar-body-topsites = מעכשיו, אפשר ללחוץ על שורת הכתובת והיא תתרחב עם קישורים לאתרים המובילים שלך.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = סמל זכוכית מגדלת
 
 ## Picture-in-Picture
@@ -250,3 +253,10 @@ cfr-whatsnew-media-keys-button = מידע נוסף
 
 cfr-whatsnew-search-shortcuts-header = קיצורי דרך לחיפוש בשורת הכתובת
 cfr-whatsnew-search-shortcuts-body = כעת, בעת הקלדת מנוע חיפוש או אתר מסוים בשורת הכתובת, קיצור דרך כחול יופיע בהצעות החיפוש שמתחת. יש לבחור קיצור דרך זה כדי להשלים את החיפוש שלך ישירות משורת הכתובת.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = הגנה מפני עוגיות־על זדוניות
+
+## What's new: Better bookmarking
+
