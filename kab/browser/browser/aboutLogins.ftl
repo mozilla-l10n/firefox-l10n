@@ -275,3 +275,4 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Akter yemmed
+about-logins-import-dialog-done = Immed
