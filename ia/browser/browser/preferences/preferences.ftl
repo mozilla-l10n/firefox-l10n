@@ -932,6 +932,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Schedas aperite
     .accesskey = S
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Vias breve
+    .accesskey = b
 addressbar-locbar-topsites-option =
     .label = Sitos popular
     .accesskey = p

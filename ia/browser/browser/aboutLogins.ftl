@@ -202,6 +202,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportar credentiales e contrasignos
 about-logins-confirm-export-dialog-message = Tu contrasignos sera salvate como texto legibile (e.g., "P@ssw0rd123"), assi quicunque pote aperir le file exportate, pote vider los.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-alert-import-title = Importation complete
+about-logins-alert-import-message = Vider reporto de importation detaliate
 confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
 confirm-discard-changes-dialog-message = Tote le modificationes non salvate essera perdite.
 confirm-discard-changes-dialog-confirm-button = Abandonar
@@ -263,3 +265,26 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] File CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importation complete
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Nove credential addite:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nove credentiales addite:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Credential existente actualisate:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Credentiales existente actualisate:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Credential duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
+       *[other] <span>Credentiales duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
+    }
+about-logins-import-dialog-items-error = <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
+about-logins-import-dialog-done = Facite

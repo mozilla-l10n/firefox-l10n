@@ -277,3 +277,10 @@ cfr-whatsnew-media-keys-button = Apprender como
 
 cfr-whatsnew-search-shortcuts-header = Accessos directe de recerca in le barra de adresses
 cfr-whatsnew-search-shortcuts-body = Quando tu insere un motor de recerca o un sito specific in le barra de adresses, un accesso directe blau apparera in le suggestiones de recerca sub le barra. Selige iste accesso directe pro completar tu recerca directemente ab le barra del adresses.
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Melior marcapagina
