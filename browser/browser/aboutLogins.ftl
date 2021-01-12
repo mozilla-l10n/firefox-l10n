@@ -206,6 +206,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Bejelentkezések és jelszavak exportálása
 about-logins-confirm-export-dialog-message = A jelszavai olvasható szövegként lesznek mentve (például R0sszJel$zó), így bárki megtekintheti, aki meg tudja nyitni az exportált fájlt.
 about-logins-confirm-export-dialog-confirm-button = Exportálás…
+about-logins-alert-import-title = Importálás kész
+about-logins-alert-import-message = Részletes importálási összefoglaló megtekintése
 confirm-discard-changes-dialog-title = Elveti a mentetlen módosításokat?
 confirm-discard-changes-dialog-message = Minden nem mentett változás elvész.
 confirm-discard-changes-dialog-confirm-button = Elvetés
@@ -267,3 +269,30 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokumentum
        *[other] CSV-fájl
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importálás kész
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Új bejelentkezés hozzáadva:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Új bejelentkezések hozzáadva:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Meglévő bejelentkezés frissítve:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Meglévő bejelentkezések frissítve:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Ismétlődő bejelentkezés található:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
+       *[other] <span>Ismétlődő bejelentkezések találhatók:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Hiba:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
+       *[other] <span>Hibák:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
+    }
+about-logins-import-dialog-done = Kész
