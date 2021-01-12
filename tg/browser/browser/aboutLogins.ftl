@@ -139,6 +139,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
 about-logins-confirm-export-dialog-confirm-button = Содирот…
+confirm-discard-changes-dialog-message = Ҳамаи тағироти захиранашуда гум мешаванд.
+confirm-discard-changes-dialog-confirm-button = Рад кардан
 
 ## Breach Alert notification
 
@@ -157,6 +159,8 @@ about-logins-vulnerable-alert-learn-more-link = Маълумоти бештар
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = Ҳангоми кӯшиши нигоҳ доштани ин ниҳонвожа хато ба миён омад.
 
 ## Login Export Dialog
 

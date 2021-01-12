@@ -5,7 +5,9 @@
 privatebrowsingpage-open-private-window-label = Кушодани равзанаи махфӣ
     .accesskey = К
 about-private-browsing-search-placeholder = Ҷустуҷӯ дар Интернет
+about-private-browsing-info-title = Шумо дар равзанаи махфӣ қарор доред
 about-private-browsing =
     .title = Ҷустуҷӯ дар Интернет
+about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name }-ро озмоед
 about-private-browsing-search-banner-close-button =
     .aria-label = Пӯшидан

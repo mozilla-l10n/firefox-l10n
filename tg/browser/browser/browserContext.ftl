@@ -52,6 +52,28 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-change =
+    .aria-label = Таҳрир кардани ин хатбарак
+    .accesskey = х
+    .tooltiptext = Таҳрир кардани ин хатбарак
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Таҳрир кардани ин хатбарак
+    .accesskey = х
+    .tooltiptext = Таҳрир кардани ин хатбарак ({ $shortcut })
+main-context-menu-open-link =
+    .label = Кушодани пайванд
+    .accesskey = К
+main-context-menu-open-link-new-tab =
+    .label = Кушодани пайванд дар варақаи нав
+    .accesskey = К
+main-context-menu-open-link-new-window =
+    .label = Кушодани пайванд дар равзанаи нав
+    .accesskey = К
+main-context-menu-open-link-new-private-window =
+    .label = Кушодани пайванд дар равзанаи махфии нав
+    .accesskey = К
 main-context-menu-save-link =
     .label = Нигоҳ доштани пайванд ҳамчун…
     .accesskey = Н
