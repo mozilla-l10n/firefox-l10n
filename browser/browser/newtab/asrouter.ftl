@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
 cfr-whatsnew-searchbar-title = Πληκτρολογήστε λιγότερο, βρείτε περισσότερα με τη γραμμή διευθύνσεων
 cfr-whatsnew-searchbar-body-topsites = Τώρα, απλώς επιλέξτε τη γραμμή διευθύνσεων και θα εμφανιστεί ένα πλαίσιο με συνδέσμους για τις κορυφαίες ιστοσελίδες σας.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Εικονίδιο μεγεθυντικού φακού
 
 ## Picture-in-Picture
@@ -280,3 +283,11 @@ cfr-whatsnew-media-keys-button = Μάθετε πώς
 
 cfr-whatsnew-search-shortcuts-header = Αναζήτηση συντομεύσεων στη γραμμή διευθύνσεων
 cfr-whatsnew-search-shortcuts-body = Πλέον, όταν πληκτρολογείτε μια μηχανή αναζήτησης ή μια συγκεκριμένη ιστοσελίδα στη γραμμή διευθύνσεων, θα εμφανίζεται μια μπλε συντόμευση στις προτάσεις αναζήτησης. Επιλέξτε τη συντόμευση για να ολοκληρώσετε την αναζήτησή σας απευθείας από τη γραμμή διευθύνσεων.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Προστασία από κακόβουλα supercookies
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Καλύτεροι σελιδοδείκτες

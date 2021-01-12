@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Αναζήτηση στο διαδίκτυο
     .title = Αναζήτηση στο διαδίκτυο
     .aria-label = Αναζήτηση στο διαδίκτυο
+newtab-search-box-text = Αναζήτηση στο διαδίκτυο
+newtab-search-box-input =
+    .placeholder = Αναζήτηση στο διαδίκτυο
+    .aria-label = Αναζήτηση στο διαδίκτυο
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Προσθήκη μηχανής αναζήτησης
 newtab-topsites-add-topsites-header = Νέα κορυφαία ιστοσελίδα
+newtab-topsites-add-shortcut-header = Νέα συντόμευση
 newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίας ιστοσελίδας
+newtab-topsites-edit-shortcut-header = Επεξεργασία συντόμευσης
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
     .placeholder = Εισάγετε έναν τίτλο

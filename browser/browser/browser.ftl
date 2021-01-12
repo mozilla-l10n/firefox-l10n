@@ -564,6 +564,7 @@ library-bookmarks-bookmark-this-page =
     .label = Δημιουργία σελιδοδείκτη
 library-bookmarks-bookmark-edit =
     .label = Επεξεργασία σελιδοδείκτη
+library-recent-activity-label = Πρόσφατη δραστηριότητα
 
 ## More items
 
