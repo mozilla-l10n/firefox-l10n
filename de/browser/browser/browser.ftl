@@ -564,6 +564,7 @@ library-bookmarks-bookmark-this-page =
     .label = Lesezeichen hinzufügen
 library-bookmarks-bookmark-edit =
     .label = Lesezeichen bearbeiten
+library-recent-activity-label = Jüngste Aktivität
 
 ## More items
 
