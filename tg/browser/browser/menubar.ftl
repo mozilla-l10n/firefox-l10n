@@ -64,9 +64,22 @@ menu-history-show-all-history =
 
 ## Bookmarks Menu
 
+menu-bookmarks-other =
+    .label = Хатбаракҳои дигар
+menu-bookmarks-mobile =
+    .label = Хатбаракҳои мобилӣ
 
 ## Tools Menu
 
+menu-tools =
+    .label = Абзорҳо
+    .accesskey = А
+menu-tools-downloads =
+    .label = Боргириҳо
+    .accesskey = Б
+menu-tools-addons =
+    .label = Ҷузъҳои иловагӣ
+    .accesskey = Ҷ
 
 ## Window Menu
 
