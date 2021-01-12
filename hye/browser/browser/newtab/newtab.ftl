@@ -223,4 +223,10 @@ newtab-custom-pocket-sponsored = Հովանաւորուած պատմութիւն
 newtab-custom-recent-title = Վերջին գործողութիւնը
 newtab-custom-recent-subtitle = Վերջին կայքերի եւ բովանդակութեան ընտրութիւն
 newtab-custom-close-button = Փակել
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Հատուածներ
+newtab-custom-snippets-subtitle = Խորհուրդներ եւ նորութիւններ՝ { -vendor-short-name } եւ { -brand-product-name } -ից
 newtab-custom-settings = Կառավարէք աւելի շատ կարգաւորումներ

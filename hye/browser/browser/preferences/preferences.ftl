@@ -501,6 +501,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Ամենաշատ այցելած կայքեր
 home-prefs-topsites-by-option-sponsored =
     .label = Հովանաւորուած լաւագոյն կայքերը
+home-prefs-shortcuts-header =
+    .label = Դիւրանցումներ
+home-prefs-shortcuts-description = Կայքեր, որոնք դուք պահում էք կամ այցելում
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Հովանաւորուած դիւրանցումներ
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
