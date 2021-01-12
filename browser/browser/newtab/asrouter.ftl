@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = Hol dir die App
 
 cfr-whatsnew-searchbar-title = Weniger Tippen und mehr Finden mit der Adressleiste
 cfr-whatsnew-searchbar-body-topsites = Klicken Sie einfach in die Adressleiste, um ein Auswahlmenü mit Ihren „Wichtigen Seiten“ anzuzeigen.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Lupensymbol
 
 ## Picture-in-Picture
@@ -281,3 +284,11 @@ cfr-whatsnew-media-keys-button = Weitere Informationen
 
 cfr-whatsnew-search-shortcuts-header = Suchmaschinen-Schlüsselwörter in der Adressleiste
 cfr-whatsnew-search-shortcuts-body = Wenn Sie nun eine Suchmaschine oder eine bestimmte Website in die Adressleiste eingeben, wird in den Suchvorschlägen unten ein blaues Schlüsselwort angezeigt. Wählen Sie dieses Schlüsselwort aus, um Ihre Suche direkt in der Adressleiste abzuschließen.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Schutz vor böswilligen Supercookies
+cfr-whatsnew-supercookies-body = Websites können Ihrem Browser heimlich einen "Supercookie" hinzufügen, der Sie im Internet verfolgen kann, selbst nachdem Sie Ihre Cookies gelöscht haben. { -brand-short-name } bietet jetzt einen starken Schutz vor Supercookies, damit diese nicht verwendet werden können, um Ihre Online-Aktivitäten von einer Website zur nächsten zu verfolgen.
+
+## What's new: Better bookmarking
+

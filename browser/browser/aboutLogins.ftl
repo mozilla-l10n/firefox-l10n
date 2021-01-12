@@ -206,6 +206,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Zugangsdaten und Passwörter exportieren
 about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z.B. P@ssw0rt). Dadurch hat jede Person, welche die exportierte Datei öffnen kann, Zugriff auf das unverschlüsselte Passwort.
 about-logins-confirm-export-dialog-confirm-button = Exportieren…
+about-logins-alert-import-title = Importieren abgeschlossen
+about-logins-alert-import-message = Detaillierte Import-Zusammenfassung anzeigen
 confirm-discard-changes-dialog-title = Nicht gespeicherte Änderungen verwerfen?
 confirm-discard-changes-dialog-message = Alle nicht gespeicherten Änderungen gehen verloren.
 confirm-discard-changes-dialog-confirm-button = Verwerfen
@@ -267,3 +269,10 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-Dokument
        *[other] CSV-Datei
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importieren abgeschlossen
+about-logins-import-dialog-done = Fertig
