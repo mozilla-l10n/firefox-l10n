@@ -199,6 +199,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = 로그인과 비밀번호 내보내기
 about-logins-confirm-export-dialog-message = 비밀번호는 읽을 수 있는 텍스트 (예: BadP@ssw0rd)로 저장되므로, 내보낸 파일을 열 수 있는 사람은 누구나 볼 수 있습니다.
 about-logins-confirm-export-dialog-confirm-button = 내보내기…
+about-logins-alert-import-title = 가져오기 완료
+about-logins-alert-import-message = 자세한 가져오기 요약 보기
 confirm-discard-changes-dialog-title = 저장되지 않은 변경 내용을 버리시겠습니까?
 confirm-discard-changes-dialog-message = 저장되지 않은 모든 변경 내용을 잃게 됩니다.
 confirm-discard-changes-dialog-confirm-button = 버리기
@@ -260,3 +262,26 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV 문서
        *[other] CSV 파일
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = 가져오기 완료
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>추가된 새 로그인:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>업데이트된 기존 로그인:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>찾은 중복 로그인:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(가져오지 않음)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>오류:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(가져오지 않음)</span>
+    }
+about-logins-import-dialog-done = 완료
