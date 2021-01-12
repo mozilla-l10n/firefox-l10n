@@ -1013,7 +1013,7 @@ permissions-location = Տեղադրութիւն
 permissions-location-settings =
     .label = Կարգաւորումներ...
     .accesskey = t
-permissions-xr = Թվացեալ իրականութիւն
+permissions-xr = Թուացեալ իրականութիւն
 permissions-xr-settings =
     .label = Կարգաւորումներ…
     .accesskey = t
@@ -1057,7 +1057,7 @@ permissions-a11y-privacy-link = Իմանալ աւելին
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name }-ի տուեալների հաւաքում եւ աւգտագործում
-collection-description = Մենք փորձում ենք տրամադրել Ձեզ ընտրութիւն եւ հաւաքել միայն այն ժամանակ, երբ մեզ պէտք է տրամադրել եւ լաւարկել { -brand-short-name }-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թոյլտուութիւն՝ մինչեւ անձնական տեղեկութիւններ ստանալը:
+collection-description = Մենք փորձում ենք տրամադրել Ձեզ ընտրութիւն եւ հաւաքել միայն այն, ինչ մեզ պէտք է բարելաւուած { -brand-short-name }-ը բոլորին տրամադրելու համար: Մենք միշտ հարցնում ենք թոյլտուութիւն՝ մինչեւ անձնական տեղեկութիւններ ստանալը:
 collection-privacy-notice = Գաղտնիութեան ծանուցում
 collection-health-report-telemetry-disabled = Դուք այլեւս թոյլ չեք տալիս՝{ -vendor-short-name }֊ին գրաւել տեխնիկական եւ միջազգային միջնորդութեան տուեալները։ Անցեալ բոլոր տուեալները կը ջնջուեն 30 աւրուայ ընթացքում։
 collection-health-report-telemetry-disabled-link = Իմանալ աւելին
