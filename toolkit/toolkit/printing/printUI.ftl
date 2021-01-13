@@ -49,7 +49,7 @@ printui-two-sided-printing = Imprimir rècto verso
 printui-duplex-checkbox = Imprimir los dos costats
 # Section title for miscellaneous print options
 printui-options = Opcions
-printui-headers-footers-checkbox = Imprimir las entèstas e los pè de pagina
+printui-headers-footers-checkbox = Imprimir las entèstas e los pès de pagina
 printui-backgrounds-checkbox = Imprimir los rèireplans
 printui-selection-checkbox = Sonque imprimir la seleccion
 printui-color-mode-label = Mòde color
@@ -60,7 +60,7 @@ printui-margins-default = Per defaut
 printui-margins-min = Minimum
 printui-margins-none = Pas cap
 printui-margins-custom = Personalizats
-printui-margins-custom-inches = Personalizada (poces)
+printui-margins-custom-inches = Personalizats (poces)
 printui-margins-custom-top = Naut
 printui-margins-custom-top-inches = Naut (poces)
 printui-margins-custom-bottom = Bas
