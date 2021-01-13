@@ -288,6 +288,9 @@ cfr-whatsnew-search-shortcuts-body = Agora, quando digita um motor de pesquisa o
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Proteção contra super-cookies maliciosos
+cfr-whatsnew-supercookies-body = Os sites podem, secretamente, anexar uma “super-cookie” ao seu navegador que pode seguir o que faz na Internet, mesmo depois de limpar os cookies. O { -brand-short-name } fornece agora uma forte proteção contra super-cookies, de modo a que estas não possam ser utilizadas para monitorizar as suas atividades online de um site para outro.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Marcadores melhorados
+cfr-whatsnew-bookmarking-body = É mais fácil seguir os seus sites favoritos. O { -brand-short-name } agora lembra-se da sua localização preferida para os favoritos guardados, mostra a barra de ferramentas de favoritos por predefinição em novos separadores e oferece um acesso fácil ao resto dos seus favoritos através de uma pasta na barra de ferramentas.
