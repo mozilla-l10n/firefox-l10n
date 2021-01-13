@@ -282,6 +282,11 @@ about-logins-import-dialog-items-modified =
         [one] <span>כניסות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>כניסות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
+       *[other] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>שגיאות:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
