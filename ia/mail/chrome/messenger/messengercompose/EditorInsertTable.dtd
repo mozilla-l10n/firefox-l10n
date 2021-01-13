@@ -10,7 +10,7 @@
 <!ENTITY numRowsEditField.accessKey "R">
 <!ENTITY numColumnsEditField.label "Columnas:">
 <!ENTITY numColumnsEditField.accessKey "C">
-<!ENTITY widthEditField.label "Largessa:">
+<!ENTITY widthEditField.label "Largor:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY borderEditField.label "Bordo:">
 <!ENTITY borderEditField.accessKey "B">

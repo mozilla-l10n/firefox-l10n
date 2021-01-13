@@ -14,7 +14,7 @@
 <!ENTITY tableColumns.accessKey           "C">
 <!ENTITY tableHeight.label                "Altor:">
 <!ENTITY tableHeight.accessKey            "t">
-<!ENTITY tableWidth.label                 "Largessa:">
+<!ENTITY tableWidth.label                 "Largor:">
 <!ENTITY tableWidth.accessKey             "L">
 <!ENTITY tableBorderSpacing.label         "Bordos e spatiamento">
 <!ENTITY tableBorderWidth.label           "Bordo:">

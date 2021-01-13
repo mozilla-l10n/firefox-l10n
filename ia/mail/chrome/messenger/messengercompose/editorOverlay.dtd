@@ -44,9 +44,9 @@
 <!ENTITY FontFaceSelect.tooltip "Elige un typo de litteras">
 <!ENTITY fontfaceMenu.label "Typo de litteras">
 <!ENTITY fontfaceMenu.accesskey "C">
-<!ENTITY fontVarWidth.label "Largessa variabile">
+<!ENTITY fontVarWidth.label "Largor variabile">
 <!ENTITY fontVarWidth.accesskey "v">
-<!ENTITY fontFixedWidth.label "Largessa fixe">
+<!ENTITY fontFixedWidth.label "Largor fixe">
 <!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
@@ -261,6 +261,7 @@
 <!ENTITY tableProperties.label "Proprietates del tabella…">
 <!ENTITY tableProperties.accesskey "o">
 
+<!-- Toolbar-only items -->
 <!ENTITY imageToolbarCmd.label "Imagine">
 <!ENTITY imageToolbarCmd.tooltip "Inserer un nove imagine o modificar le proprietates del imagine seligite">
 <!ENTITY hruleToolbarCmd.label "Linea horizontal">

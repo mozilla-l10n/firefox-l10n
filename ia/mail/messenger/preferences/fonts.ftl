@@ -115,7 +115,7 @@ use-document-fonts-checkbox =
     .label = Permitter que le messages usa altere typos de litteras
     .accesskey = o
 use-fixed-width-plain-checkbox =
-    .label = Usar un typo de litteras a largessa fixe pro messages de texto simple
+    .label = Usar un typo de litteras a largor fixe pro messages de texto simple
     .accesskey = x
 
 ## Language settings

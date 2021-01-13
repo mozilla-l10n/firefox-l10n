@@ -36,7 +36,7 @@
 <!ENTITY customSizeRadio.tooltip "Cambia le dimension del imagine como monstrate in iste pagina">
 <!ENTITY heightEditField.label "Altor:">
 <!ENTITY heightEditField.accessKey "A">
-<!ENTITY widthEditField.label "Largessa:">
+<!ENTITY widthEditField.label "Largor:">
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Restringer">
 <!ENTITY constrainCheckbox.accessKey "R">
