@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Tschertgar en il Web
     .title = Tschertgar en il Web
     .aria-label = Tschertgar en il Web
+newtab-search-box-text = Tschertgar en il web
+newtab-search-box-input =
+    .placeholder = Tschertgar en il web
+    .aria-label = Tschertgar en il web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Agiuntar maschina da tschertgar
 newtab-topsites-add-topsites-header = Nova pagina principala
+newtab-topsites-add-shortcut-header = Nova scursanida
 newtab-topsites-edit-topsites-header = Modifitgar la pagina principala
+newtab-topsites-edit-shortcut-header = Modifitgar la scursanida
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Endatar in titel
