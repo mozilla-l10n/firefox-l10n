@@ -272,7 +272,7 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustração de cookie bloqueado
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Mais controles de mídia
-cfr-whatsnew-media-keys-body = Reproduza e pause áudio ou vídeo diretamente do teclado ou do fone de ouvido, facilitando controlar mídias a partir de outra aba, outro programa ou mesmo quando o computador estiver bloqueado. Você também pode mudar de faixa usando as teclas de avançar e voltar.
+cfr-whatsnew-media-keys-body = Reproduza e interrompa áudio ou vídeo, usando diretamente o teclado ou fone de ouvido, o que facilita controlar mídias a partir de outra aba, outro programa ou mesmo quando o computador estiver bloqueado. Você também pode mudar de faixa usando as teclas de avançar e voltar.
 cfr-whatsnew-media-keys-button = Saiba como
 
 ## What's new: Search shortcuts
