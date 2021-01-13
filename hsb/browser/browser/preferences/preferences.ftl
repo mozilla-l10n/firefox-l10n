@@ -940,6 +940,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Wočinjene rajtarki
     .accesskey = o
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Zwjazanja
+    .accesskey = Z
 addressbar-locbar-topsites-option =
     .label = Najhusćišo wopytane sydła
     .accesskey = N
