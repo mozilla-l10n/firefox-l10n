@@ -288,6 +288,7 @@ cfr-whatsnew-search-shortcuts-body = När du nu skriver en sökmotor eller speci
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Skydd mot skadliga superkakor
+cfr-whatsnew-supercookies-body = Webbplatser kan i hemlighet lägga till en "superkaka" i din webbläsare som kan följa dig runt på nätet, även efter att du har rensat dina kakor. { -brand-short-name } ger nu starkt skydd mot superkakor så att de inte kan användas för att spåra dina onlineaktiviteter från en webbplats till en annan.
 
 ## What's new: Better bookmarking
 
