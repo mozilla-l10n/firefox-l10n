@@ -49,6 +49,7 @@ inactive-css-not-display-block-on-floated-fix = Intente eliminar <strong>flotant
 inactive-css-position-property-on-unpositioned-box-fix = Intente establecer la propiedad de<strong> posición </strong> en algo más que <strong>la estática </strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Intente agregar <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Pruebe configurar su propiedad <strong>mostrar</strong> a algo distinto de <strong>table-cell</strong>, <strong>tabla-celda</strong>, <strong>tabla-columna</strong>, <strong>tabla-fila>, <strong>table-grupo-tabla-pie de página</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pruebe establecer su propiedad <strong>mostrar</strong> a algo diferente de<strong>tabla-columna</strong>, <strong>table-fila</strong>, <strong>table-de gupo de-columnas</strong>, <strong>tabla-de grupo de-filas</strong> o <strong>tabla de grupo de pies de página</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Intenté cambiar la propiedad <strong>outline-style</strong> a algo diferente a <strong>auto</strong> o <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
