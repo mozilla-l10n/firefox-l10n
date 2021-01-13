@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = Tak'ulu' ri chokoy
 
 cfr-whatsnew-searchbar-title = Katz'ib'an jub'a', tawila' k'ïy rik'in ri rukajtz'ik ochochib'äl
 cfr-whatsnew-searchbar-body-topsites = Wakami xa xe tacha' ri rukajtz'ik ochochib'äl richin nirik'itäj jun kajtz'ik rik'in riruximik kik'in nima'q taq ruxaq.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ruwachib'al tzub'äl
 
 ## Picture-in-Picture
@@ -281,3 +284,10 @@ cfr-whatsnew-media-keys-button = Tetamäx achike rub'eyal
 
 cfr-whatsnew-search-shortcuts-header = Kekanöx chojokem pa kikatz'ik ochochib'äl
 cfr-whatsnew-search-shortcuts-body = Wakami toq natz'ib'aj jun kanob'äl o jun ruxaq pa ri kikajtz'ik ochochib'äl, xtiwachin pe jun xar chojokem pa ri rutzilab'exik ikim kanoxïk. Tacha' ri chojokem ri' richin natz'ët ri nakanoj pa ri kikajtz'ik ochochib'äl.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Chajinïk chuwäch itzel taq supercookie
+
+## What's new: Better bookmarking
+
