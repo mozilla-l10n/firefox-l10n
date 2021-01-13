@@ -28,7 +28,9 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Tilføj søgetjeneste
 newtab-topsites-add-topsites-header = Ny webside
+newtab-topsites-add-shortcut-header = Ny genvej
 newtab-topsites-edit-topsites-header = Rediger mest besøgte webside
+newtab-topsites-edit-shortcut-header = Rediger genvej
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Indtast en titel
