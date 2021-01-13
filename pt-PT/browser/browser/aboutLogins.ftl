@@ -284,3 +284,4 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Foram encontradas credenciais duplicadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importadas)</span>
     }
+about-logins-import-dialog-done = Concluído
