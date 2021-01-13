@@ -23,6 +23,10 @@ newtab-search-box-search-the-web-input =
     .placeholder = Tikanöx pan Ajk'amaya'l
     .title = Tikanöx pan Ajk'amaya'l
     .aria-label = Tikanöx pan Ajk'amaya'l
+newtab-search-box-text = Tikanöx pan ajk'amaya'l
+newtab-search-box-input =
+    .placeholder = Tikanöx pan ajk'amaya'l
+    .aria-label = Tikanöx pan ajk'amaya'l
 
 ## Top Sites - General form dialog.
 
