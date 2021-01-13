@@ -292,3 +292,4 @@ cfr-whatsnew-supercookies-body = Websteder kan i hemmelighed føje en "super-coo
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Bedre bogmærker
+cfr-whatsnew-bookmarking-body = Det er blevet nemmere at holde styr på dine yndings-websteder. { -brand-short-name } husker nu din foretrukne placering for gemte bogmærker, viser som standard bogmærkelinjen på nye faneblade og giver dig nem adgang til resten af dine bogmærker med en bogmærkemappe.
