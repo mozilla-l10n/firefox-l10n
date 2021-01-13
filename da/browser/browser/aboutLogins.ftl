@@ -205,6 +205,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Eksporter logins og adgangskoder
 about-logins-confirm-export-dialog-message = Dine adgangskoder bliver gemt som læsbar tekst (fx dåRligAdg@ngsk0de), så alle der kan åbne den eksportede fil kan se dine adgangskoder.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
+about-logins-alert-import-title = Import fuldført
+about-logins-alert-import-message = Se detaljeret oversigt over import
 confirm-discard-changes-dialog-title = Annuller ikke-gemte ændringer?
 confirm-discard-changes-dialog-message = Alle ikke-gemte ændringer vil gå tabt.
 confirm-discard-changes-dialog-confirm-button = Annuller
@@ -266,3 +268,10 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-fil
        *[other] CSV-fil
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Import fuldført
+about-logins-import-dialog-done = Færdig
