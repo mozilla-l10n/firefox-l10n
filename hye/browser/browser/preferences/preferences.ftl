@@ -936,6 +936,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Գլխաւոր կայքերը
     .accesskey = Գ
+addressbar-locbar-engines-option =
+    .label = Որոնման ծրագիր
+    .accesskey = ո
 addressbar-suggestions-settings = Փոխել որոնիչների նախապատուութիւնները
 
 ## Privacy Section - Content Blocking
