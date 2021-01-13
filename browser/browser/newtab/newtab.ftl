@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Web přepytać
     .title = Web přepytać
     .aria-label = Web přepytać
+newtab-search-box-text = Web přepytać
+newtab-search-box-input =
+    .placeholder = Web přepytać
+    .aria-label = Web přepytać
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Pytawu přidać
 newtab-topsites-add-topsites-header = Nowe najhusćišo wopytane sydło
+newtab-topsites-add-shortcut-header = Nowe zwjazanje
 newtab-topsites-edit-topsites-header = Najhusćišo wopytane sydło wobdźěłać
+newtab-topsites-edit-shortcut-header = Zwjazanje wobdźěłać
 newtab-topsites-title-label = Titul
 newtab-topsites-title-input =
     .placeholder = Titul zapodać
