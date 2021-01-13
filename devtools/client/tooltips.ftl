@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = Es imposible anular
 inactive-css-position-property-on-unpositioned-box = <strong> { $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> no tiene efecto en este elemento porque <strong>overflow:hidden</strong> no está establecido.
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> no tiene efecto en este elemento porque su <strong>esquema-style</strong> es <strong>auto</strong> o <strong>none</strong>.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> no tiene efecto en elementos internos de la tabla.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> no tiene efecto en elementos internos de la tabla excepto en celdas de la tabla.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -46,6 +48,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pruebe a 
 inactive-css-not-display-block-on-floated-fix = Intente eliminar <strong>flotante</strong> o agregue<strong> display:block </strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Intente establecer la propiedad de<strong> posición </strong> en algo más que <strong>la estática </strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Intente agregar <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Pruebe configurar su propiedad <strong>mostrar</strong> a algo distinto de <strong>table-cell</strong>, <strong>tabla-celda</strong>, <strong>tabla-columna</strong>, <strong>tabla-fila>, <strong>table-grupo-tabla-pie de página</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Intenté cambiar la propiedad <strong>outline-style</strong> a algo diferente a <strong>auto</strong> o <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
