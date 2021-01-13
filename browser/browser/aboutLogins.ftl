@@ -274,14 +274,22 @@ about-logins-import-file-picker-csv-filter-title =
 about-logins-import-dialog-title = Importação concluída
 about-logins-import-dialog-items-added =
     { $count ->
+        [one] <span>Nova credencial adicionada:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Novas credenciais adicionadas:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
+        [one] <span>Credencial existente atualizada:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Credenciais existentes atualizadas:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
+        [one] <span>Foi encontrada uma credencial duplicada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importada)</span>
        *[other] <span>Foram encontradas credenciais duplicadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importadas)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Erro:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importada)</span>
+       *[other] <span>Erros:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importadas)</span>
     }
 about-logins-import-dialog-done = Concluído
