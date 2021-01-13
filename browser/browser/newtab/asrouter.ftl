@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Ir per l'app
 
 cfr-whatsnew-searchbar-title = Tippar main e chattar dapli cun la trav d'adressas
 cfr-whatsnew-searchbar-body-topsites = Ussa tanschi da tscherner la trav d'adressas ed ina chascha cun colliaziuns a tias paginas principalas s'avra.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Icona da marella
 
 ## Picture-in-Picture
@@ -275,3 +278,13 @@ cfr-whatsnew-media-keys-button = Vegnir a savair co
 
 cfr-whatsnew-search-shortcuts-header = Scursanidas da tschertga en la trav d'adressas
 cfr-whatsnew-search-shortcuts-body = Da nov cumpara ina scursanida blaua en las propostas da tschertgar sche ti tippas il num dad ina maschina da tschertgar u in'adressa specifica en la trav d'adressas. Tscherna questa scursanida per tschertgar directamain en la trav d'adressas.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protecziun cunter supercookies malvulents
+cfr-whatsnew-supercookies-body = Websites pon deponer a la zuppada in «supercookie» en tes navigatur che ta persequitescha en il web – perfin suenter avair stizzà tes cookies. { -brand-short-name } porscha ussa ina ferma protecziun cunter supercookies per ch'els na possian betg servir per ta fastizar dad ina website a la proxima.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Administraziun da segnapaginas optimada
+cfr-whatsnew-bookmarking-body = Igl è pli simpel da tegnair en egl tias websites preferidas. { -brand-short-name } tegna ussa endament tes ordinatur preferì per segnapaginas memorisads, mussa gia en la configuraziun da standard la trav da segnapaginas en novs tabs e ta porscha in access simpel al rest da tes segnapaginas via in ordinatur en la trav d'utensils.
