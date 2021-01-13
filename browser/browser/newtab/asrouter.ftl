@@ -283,3 +283,12 @@ cfr-whatsnew-media-keys-button = Mere information
 
 cfr-whatsnew-search-shortcuts-header = Søge-genveje i adressefeltet
 cfr-whatsnew-search-shortcuts-body = Når du indtaster navnet eller adressen på en søgetjeneste, så vil der nu blive vist en blå genvej i søgeforslagene nedenunder. Vælg denne genvej for at fuldføre din søgning direkte fra adressefeltet.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Beskyttelse mod skadelige super-cookies
+cfr-whatsnew-supercookies-body = Websteder kan i hemmelighed føje en "super-cookie" til din browser, der kan følge dig rundt på nettet - selv efter at du har slettet dine cookies. { -brand-short-name } beskytter dig nu mod super-cookies, så de ikke kan bruges til at spore din online aktivitet på tværs af websteder.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Bedre bogmærker

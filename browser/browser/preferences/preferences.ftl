@@ -932,6 +932,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Åbne faneblade
     .accesskey = f
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Genveje
+    .accesskey = G
 addressbar-locbar-topsites-option =
     .label = Mest besøgte websider
     .accesskey = M
