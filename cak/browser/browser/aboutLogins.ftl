@@ -206,6 +206,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Kek'wäx el kitikirisaxik molojri'ïl chuqa' ewan taq tzij
 about-logins-confirm-export-dialog-message = Xkeyak ri ewan taq atzij achi'el tz'etel tz'ib'anïk (achi'el, BadP@ssw0rd) richin chi xab'achike xtijaqon ri yakb'äl k'wa'an, nitikïr nutz'ët.
 about-logins-confirm-export-dialog-confirm-button = Tik'wäx el…
+about-logins-alert-import-title = Xtz'aqät Ruk'amik
+about-logins-alert-import-message = Titz'et rub'anikil ruk'amik
 confirm-discard-changes-dialog-title = ¿La yech'aqïx ri taq jaloj man eyakon ta?
 confirm-discard-changes-dialog-message = Xkesach ronojel ri jaloj man eyakon ta.
 confirm-discard-changes-dialog-confirm-button = Tich'aqïx
@@ -266,4 +268,25 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV Wuj
        *[other] CSV Yakb'äl
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Xtz'aqät Ruk'amik
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Xtz'aqatisäx k'ak'a' rutikirib'al molojri'ïl:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Xetz'aqatisäx k'ak'a' kitikirib'al molojri'ïl:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Xk'ëx rutikirib'al molojri'ïl:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Xek'ex kitikirib'al molojri'ïl:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Xilitäj kamulun rutikirib'al molojri'ïl:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(man xk'am ta pe)</span>
+       *[other] <span>Xe'ilitäj kamulun kitikirib'al molojri'ïl:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(man xek'am ta pe)</span>
     }
