@@ -288,6 +288,8 @@ cfr-whatsnew-search-shortcuts-body = Wakami toq natz'ib'aj jun kanob'äl o jun r
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Chajinïk chuwäch itzel taq supercookie
+cfr-whatsnew-supercookies-body = Ri taq ajk'amaya'l ruxaq pan ewäl yetikïr nikitz'aqatisaj jun “supercookie” pa rokik'amaya'l, ri nitikïr yatrojqaj pan ajk'amaya'l, estape' ye'ajosq'ij ri taq cookie. { -brand-short-name } wakami nuya' jun nïm chajinïk chi kiwa ri taq supercookie richin chi man ke'okisäx richin nikojqaj ri taq asamaj pa k'amab'ey pa jun ruxaq o jun chik.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Utziläj taq yaketal
