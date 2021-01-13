@@ -203,6 +203,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportar credenciais e palavras-passe
 about-logins-confirm-export-dialog-message = As suas palavras-passe serão guardadas como texto legível (por exemplo, BadP@ssw0rd) para que qualquer pessoa que possa abrir o ficheiro exportado as possa visualizar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-alert-import-title = Importação concluída
+about-logins-alert-import-message = Ver resumo detalhado da importação
 confirm-discard-changes-dialog-title = Descartar alterações não guardadas?
 confirm-discard-changes-dialog-message = Todas as alterações não guardadas irão ser perdidas.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -263,4 +265,22 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] Ficheiro CSV
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importação concluída
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Novas credenciais adicionadas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Credenciais existentes atualizadas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Foram encontradas credenciais duplicadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importadas)</span>
     }
