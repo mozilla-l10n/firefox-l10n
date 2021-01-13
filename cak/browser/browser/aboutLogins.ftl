@@ -290,3 +290,9 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Xilitäj kamulun rutikirib'al molojri'ïl:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(man xk'am ta pe)</span>
        *[other] <span>Xe'ilitäj kamulun kitikirib'al molojri'ïl:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(man xek'am ta pe)</span>
     }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Sachoj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(man xk'am ta pe)</span>
+       *[other] <span>Taq sachoj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(man xek'am ta pe)</span>
+    }
+about-logins-import-dialog-done = Xk'is
