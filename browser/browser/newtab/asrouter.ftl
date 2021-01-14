@@ -294,6 +294,7 @@ cfr-whatsnew-search-shortcuts-body = Nětko, hdyž pytawu abo wěste sydło do a
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Škit před złóstnymi superplackami
+cfr-whatsnew-supercookies-body = Websydła móža skradźu wašemu wobhladowakej „superplack“ přidać, kotryž móžeće wam po webje slědować, samo po tym zo sće swoje placki zhašał. { -brand-short-name } nětko sylny škit přećiwo superplackam skići, zo njebychu dali so wužiwać, wašim aktiwitam online wot jednoho sydła k přichodnemu sydłu slědować.
 
 ## What's new: Better bookmarking
 
