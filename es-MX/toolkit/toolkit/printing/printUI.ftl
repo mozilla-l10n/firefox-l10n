@@ -25,6 +25,9 @@ printui-range-start = De
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = para
+printui-page-custom-range-input =
+    .aria-label = Ingresa un rango de páginas personalizado
+    .placeholder = Por ej. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Copias
 printui-orientation = Orientación
@@ -38,14 +41,17 @@ printui-less-settings = Menos opciones
 printui-paper-size-label = Tamaño de papel
 # Section title (noun) for the print scaling options
 printui-scale = Escala
-printui-scale-fit-to-page = Ajustar a la página
 printui-scale-fit-to-page-width = Ajustar al ancho de página
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Impresión a doble cara
+printui-duplex-checkbox = Imprimir en ambos lados
 # Section title for miscellaneous print options
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprimir encabezados y pies de página
 printui-backgrounds-checkbox = Imprimir fondos
+printui-selection-checkbox = Imprimir solo la selección
 printui-color-mode-label = Modo color
 printui-color-mode-color = Color
 printui-color-mode-bw = Blanco y negro
@@ -53,15 +59,30 @@ printui-margins = Márgenes
 printui-margins-default = Predeterminado
 printui-margins-min = Mínimo
 printui-margins-none = Ninguno
+printui-margins-custom = Personalizado
+printui-margins-custom-inches = Personalizado (pulgadas)
+printui-margins-custom-top = Superior
+printui-margins-custom-top-inches = Superior (pulgadas)
+printui-margins-custom-bottom = Inferior
+printui-margins-custom-bottom-inches = Inferior (pulgadas)
+printui-margins-custom-left = Izquierda
+printui-margins-custom-left-inches = Izquierda (pulgadas)
+printui-margins-custom-right = Derecha
+printui-margins-custom-right-inches = Derecha (pulgadas)
 printui-system-dialog-link = Imprimir usando el diálogo del sistema…
 printui-primary-button = Imprimir
 printui-primary-button-save = Guardar
 printui-cancel-button = Cancelar
+printui-close-button = Cerrar
 printui-loading = Preparando vista previa
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Imprimir vista previa
+printui-pages-per-sheet = Páginas por hoja
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Imprimiendo…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -82,6 +103,7 @@ printui-paper-tabloid = Tabloide
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = La escala debe ser un número entre 10 y 200.
+printui-error-invalid-margin = Por favor, introduce un margen válido para el tamaño de papel seleccionado.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = El rango debe ser un número entre 1 y { $numPages }.
