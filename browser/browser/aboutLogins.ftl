@@ -283,6 +283,10 @@ about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Identificants existents actualizats :</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Identificants en doble trobats :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(pas importats)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Errors :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(pas importats)</span>
