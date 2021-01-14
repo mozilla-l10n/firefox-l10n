@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
 
 cfr-whatsnew-searchbar-title = Adres çubuğuna daha az yazın, daha çok bulun
 cfr-whatsnew-searchbar-body-topsites = Şimdi adres çubuğunu seçin. Sık kullandığınız bağlantıları gösteren bir kutu açılacak.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Büyüteç simgesi
 
 ## Picture-in-Picture
@@ -275,3 +278,10 @@ cfr-whatsnew-media-keys-button = Nasıl yapıldığını öğren
 
 cfr-whatsnew-search-shortcuts-header = Adres çubuğunda arama kısayolları
 cfr-whatsnew-search-shortcuts-body = Adres çubuğuna bir arama motorunun veya belirli bir sitenin adını yazdığınızda açılan arama önerilerinde mavi bir kısayol görünecek. Adres çubuğu üzerinden hemen arama yapmak için bu kısayolu seçebilirsiniz.
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Daha iyi yer imleri
