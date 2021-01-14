@@ -206,6 +206,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa aktarma
 about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
 about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
+about-logins-alert-import-title = İçe aktarma tamamlandı
+about-logins-alert-import-message = Ayrıntılı içe aktarma özetini görüntüle
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
 confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
 confirm-discard-changes-dialog-confirm-button = Vazgeç
@@ -267,3 +269,25 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV belgesi
        *[other] CSV dosyası
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = İçe aktarma tamamlandı
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Eklenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Eklenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Güncellenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Güncellenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Hata:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılamadı)</span>
+       *[other] <span>Hata:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılamadı)</span>
+    }
+about-logins-import-dialog-done = Tamam
