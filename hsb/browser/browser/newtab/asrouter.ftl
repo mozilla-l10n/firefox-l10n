@@ -299,3 +299,4 @@ cfr-whatsnew-supercookies-body = Websydła móža skradźu wašemu wobhladowakej
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Lěpše rjadowanje zapołožkow
+cfr-whatsnew-bookmarking-body = Je lóšo, přehlad nad wašimi najlubšimi sydłami wobchować. { -brand-short-name } sej nětko waše preferowane městno za składowane zapołožki spomjatkuje, pokazuje symbolowu lajstu zapołožkow po standardźe na nowych rajtarkach a da wam lochki přistup k zbytkej wašich zapołožkow přez rjadowak symboloweje lajsty.
