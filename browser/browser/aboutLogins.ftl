@@ -290,9 +290,4 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Dûbele oanmelding fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
        *[other] <span>Dûbele oanmeldingen fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
     }
-about-logins-import-dialog-items-error =
-    { $count ->
-        [one] <span>Flater:</span> <span data-l10n-name="count"></span> <span data-l10n-name="meta">(net ymportearre)</span>
-       *[other] <span>Flaters:</span> <span data-l10n-name="count"></span> <span data-l10n-name="meta">(net ymportearre)</span>
-    }
 about-logins-import-dialog-done = Dien
