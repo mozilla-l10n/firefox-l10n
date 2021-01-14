@@ -8,6 +8,6 @@ unknowncontenttype-handleinternally =
 unknowncontenttype-settingschange =
     .value =
         { PLATFORM() ->
-            [windows] Mae modd newid gosodiadau yn Optiynnau { -brand-short-name }.
+            [windows] Mae modd newid gosodiadau yn Opsiynau { -brand-short-name }.
            *[other] Mae modd newid gosodiadau yn Dewisiadau { -brand-short-name }.
         }

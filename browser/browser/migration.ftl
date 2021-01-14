@@ -6,7 +6,7 @@ migration-wizard =
     .title = Dewin Mewnforio
 import-from =
     { PLATFORM() ->
-        [windows] Mewnforio Dewisiadau, Nodau Tudalen, Hanes, Cyfrineiriau, a data arall o:
+        [windows] Mewnforio Opsiynau, Nodau Tudalen, Hanes, Cyfrineiriau, a data arall o:
        *[other] Mewnforio Dewisiadau, Nodau Tudalen, Hanes, Cyfrineiriau a data arall o:
     }
 import-from-bookmarks = Mewnforio Nodau Tudalen o:
