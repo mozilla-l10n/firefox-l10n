@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = ინტერნეტში ძიება
     .title = ინტერნეტში ძიება
     .aria-label = ინტერნეტში ძიება
+newtab-search-box-text = ინტერნეტში ძიება
+newtab-search-box-input =
+    .placeholder = ინტერნეტში ძიება
+    .aria-label = ინტერნეტში ძიება
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = საძიებო სისტემის დამატება
 newtab-topsites-add-topsites-header = ახალი საიტი რჩეულებში
+newtab-topsites-add-shortcut-header = ახალი მალსახმობი
 newtab-topsites-edit-topsites-header = რჩეული საიტის ჩასწორება
+newtab-topsites-edit-shortcut-header = მალსახმობის ჩასწორება
 newtab-topsites-title-label = დასახელება
 newtab-topsites-title-input =
     .placeholder = სათაურის შეყვანა
