@@ -274,4 +274,16 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import fuldført
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Nye logins tilføjet:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Eksisterende logins opdateret:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Fejl:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importeret)</span>
+    }
 about-logins-import-dialog-done = Færdig
