@@ -293,6 +293,7 @@ cfr-whatsnew-search-shortcuts-body = Něnto, gaž pytnicu abo wěste sedło do a
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Šćit pśed złosnymi supercookiejami
 
 ## What's new: Better bookmarking
 
