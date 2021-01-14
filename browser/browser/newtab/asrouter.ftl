@@ -283,3 +283,13 @@ cfr-whatsnew-media-keys-button = Saber cómo
 
 cfr-whatsnew-search-shortcuts-header = Atajos de búsqueda en la barra de direcciones
 cfr-whatsnew-search-shortcuts-body = Ahora, cuando escribas un motor de búsqueda o un sitio específico en la barra de direcciones, aparecerá un atajo azul en las sugerencias de búsqueda. Selecciona ese acceso directo para completar tu búsqueda directamente desde la barra de direcciones.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protección contra supercookies maliciosas
+cfr-whatsnew-supercookies-body = Los sitios web pueden adjuntar en secreto una "supercookie" a tu navegador que puede seguirte por la web, incluso después de limpiar tus cookies. { -brand-short-name } ahora proporciona una fuerte protección contra las supercookies para que no puedan usarse para rastrear tus actividades en línea de un sitio a otro.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Mejores marcadores
+cfr-whatsnew-bookmarking-body = Es más fácil realizar un seguimiento de tus sitios favoritos. { -brand-short-name } ahora recuerda tu ubicación preferida para los marcadores guardados, muestra la barra de herramientas de marcadores de forma predeterminada en las pestañas nuevas y te brinda fácil acceso al resto de tus marcadores a través de una carpeta de la barra de herramientas.
