@@ -280,6 +280,8 @@ cfr-whatsnew-search-shortcuts-body = Quando tu insere un motor de recerca o un s
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Protection contra le supercookies malevolente
+cfr-whatsnew-supercookies-body = Sitos web pote secretemente attachar a tu navigator un "supercookie" que pote sequer te per le web, mesmo post que tu ha radite le cookies. { -brand-short-name } ora forni un protection forte contra le supercookies de maniera que illos non pote esser usate pro traciar tu activitates de sito a sito.
 
 ## What's new: Better bookmarking
 
