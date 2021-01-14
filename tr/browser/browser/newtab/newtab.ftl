@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Web’de ara
     .title = Web’de ara
     .aria-label = Web’de ara
+newtab-search-box-text = Web’de ara
+newtab-search-box-input =
+    .placeholder = Web’de ara
+    .aria-label = Web’de ara
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Arama motoru ekle
 newtab-topsites-add-topsites-header = Yeni sık kullanılan site
+newtab-topsites-add-shortcut-header = Yeni kısayol
 newtab-topsites-edit-topsites-header = Sık kullanılan siteyi düzenle
+newtab-topsites-edit-shortcut-header = Kısayolu düzenle
 newtab-topsites-title-label = Başlık
 newtab-topsites-title-input =
     .placeholder = Başlık yazın
