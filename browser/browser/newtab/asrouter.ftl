@@ -290,3 +290,10 @@ cfr-whatsnew-media-keys-button = Zgóńśo kak
 
 cfr-whatsnew-search-shortcuts-header = Pytańske skrotconki w adresowem pólu
 cfr-whatsnew-search-shortcuts-body = Něnto, gaž pytnicu abo wěste sedło do adresowego póla zapodawaśo, se módre zwězanje dołojce w pytańskich naraźenjach zjewijo. Wubjeŕśo toś to zwězanje, aby swójo pytanje direktnje z adresowego póla dokóńcył.
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Lěpše zastojanje cytańskich zmanjenjow

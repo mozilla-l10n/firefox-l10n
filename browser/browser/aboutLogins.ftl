@@ -220,6 +220,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Pśizjawjenja a gronidła eksportěrowaś
 about-logins-confirm-export-dialog-message = Wašo gronidła budu se ako cytajobny tekst składowaś (na pś. BadP@ass0rd), togodla móžo kuždy, kótaryž móžo eksportěrowanu dataju wócyniś, je wiźeś.
 about-logins-confirm-export-dialog-confirm-button = Eksportěrowaś…
+about-logins-alert-import-title = Importěrowanje dokóńćone
 confirm-discard-changes-dialog-title = Njeskłaźone změny zachyśiś?
 confirm-discard-changes-dialog-message = Wšykne njeskłaźone změny se zgubiju.
 confirm-discard-changes-dialog-confirm-button = Zachyśiś
@@ -281,3 +282,10 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokument
        *[other] CSV-dataja
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importěrowanje dokóńćone
+about-logins-import-dialog-done = Dokóńcone
