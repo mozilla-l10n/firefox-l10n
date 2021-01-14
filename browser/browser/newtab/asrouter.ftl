@@ -290,3 +290,11 @@ cfr-whatsnew-media-keys-button = Zhońće kak
 
 cfr-whatsnew-search-shortcuts-header = Pytanske skrótšenki w adresowym polu
 cfr-whatsnew-search-shortcuts-body = Nětko, hdyž pytawu abo wěste sydło do adresoweho pola zapodawaće, so módre zwjazanje deleka w pytanskich namjetach zjewi. Wubjerće tute zwjazanje, zo byšće swoje pytanje direktnje z adresoweho pola dokónčił.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Škit před złóstnymi superplackami
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Lěpše rjadowanje zapołožkow

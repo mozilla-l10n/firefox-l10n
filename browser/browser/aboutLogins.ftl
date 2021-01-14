@@ -310,4 +310,11 @@ about-logins-import-dialog-items-no-change =
         [few] <span>Dwójne přizjewjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
        *[other] <span>Dwójne přizjewjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
     }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Zmylk:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowany)</span>
+        [two] <span>Zmylkaj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowanej)</span>
+        [few] <span>Zmylki:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+       *[other] <span>Zmylki:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+    }
 about-logins-import-dialog-done = Dokónčene
