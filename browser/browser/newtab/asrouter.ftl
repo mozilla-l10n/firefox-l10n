@@ -293,3 +293,4 @@ cfr-whatsnew-supercookies-body = Websites kinne stikem in ‘supercookie’ oan 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Better blêdwizers meitsje
+cfr-whatsnew-bookmarking-body = It is makliker om jo favorite websites by te hâlden. { -brand-short-name } ûnthâldt no jo foarkarslokaasje foar bewarre blêdwizers, toant de blêdwizerarkbalke standert op nije ljepblêden en jout jo ienfâldige tagong ta de rest fan jo blêdwizers fia in arkbalkemap.

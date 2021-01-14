@@ -932,6 +932,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Iepen ljepblêden
     .accesskey = I
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Fluchkeppelingen
+    .accesskey = F
 addressbar-locbar-topsites-option =
     .label = Topwebsites
     .accesskey = T

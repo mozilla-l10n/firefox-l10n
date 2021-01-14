@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Sykje op it web
     .title = Sykje op it web
     .aria-label = Sykje op it web
+newtab-search-box-text = Sykje op it web
+newtab-search-box-input =
+    .placeholder = Sykje op it web
+    .aria-label = Sykje op it web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Sykmasine tafoegje
 newtab-topsites-add-topsites-header = Nije topwebsite
+newtab-topsites-add-shortcut-header = Nije fluchkeppeling
 newtab-topsites-edit-topsites-header = Topwebsite tafoegje
+newtab-topsites-edit-shortcut-header = Fluchkeppeling bewurkje
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Titel ynfiere
