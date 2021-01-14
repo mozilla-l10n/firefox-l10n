@@ -24,6 +24,9 @@ newtab-search-box-search-the-web-input =
     .title = Cercar in le Web
     .aria-label = Cercar in le Web
 newtab-search-box-text = Cercar in le Web
+newtab-search-box-input =
+    .placeholder = Cercar sur le Web
+    .aria-label = Cercar sur le Web
 
 ## Top Sites - General form dialog.
 

@@ -286,3 +286,4 @@ cfr-whatsnew-supercookies-body = Sitos web pote secretemente attachar a tu navig
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Melior marcapagina
+cfr-whatsnew-bookmarking-body = Es plus facile sequer tu sitos favorite. { -brand-short-name } ora recorda tu loco preferite pro salvar marcapaginas, monstra per predefinition le barra de marcapaginas sur nove schedas, e te da accesso facile al resto de tu marcapaginas per medio de un dossier sur le barra de instrumentos.
