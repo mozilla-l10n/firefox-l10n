@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = Wobmjezowanja <stro
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> na tutón element efekt nima, dokelž pozicionowany element njeje.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> na tutón element efekt nima, dokelž hódnota <strong>overflow:hidden</strong> nastajena njeje.
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> so na tutón element njewuskutkuje, dokelž jeho <strong>outline-style</strong> je <strong>auto</strong> abo <strong>none</strong>.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> žadyn efekt na interne tabelowe elementy nima.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> žadyn efekt na interne tabelowe elementy mimo tabelowych celow nima.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
