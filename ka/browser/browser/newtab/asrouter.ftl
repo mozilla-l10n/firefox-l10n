@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = გადმოწერა
 
 cfr-whatsnew-searchbar-title = აკრიფეთ ნაკლები, მოიძიეთ მეტი მისამართების ველიდან
 cfr-whatsnew-searchbar-body-topsites = ახლა, უბრალოდ გადადით მისამართების ველში და გამოჩნდება თქვენი რჩეული საიტების ბმულები.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = გამადიდებელი შუშის ხატულა
 
 ## Picture-in-Picture
@@ -281,3 +284,10 @@ cfr-whatsnew-media-keys-button = იხილეთ, როგორ
 
 cfr-whatsnew-search-shortcuts-header = საძიებოს მალსახმობები მისამართების ველში
 cfr-whatsnew-search-shortcuts-body = ამიერიდან, როცა აკრეფთ საძიებო სისტემის ან შესაბამისი საიტის სახელს მისამართების ველში, გამოჩნდება ლურჯი მალსახმობი ქვემოთ, ძიების შემოთავაზებებში. აირჩიეთ მალსახმობი  საძიებოს პირდაპირ მისამართების ველიდან გამოსაყენებლად.
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = გაუმჯობესებული სანიშნები

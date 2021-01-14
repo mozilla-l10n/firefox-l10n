@@ -205,6 +205,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = მონაცემებისა და პაროლების გატანა
 about-logins-confirm-export-dialog-message = თქვენი პაროლები შეინახება წასაკითხ ტექსტად (მაგ. BadP@ssw0rd) ასე რომ, ნებისმიერს შეეძლება მათი ნახვა, თუ გატანილ ფაილს გახსნის.
 about-logins-confirm-export-dialog-confirm-button = გატანა…
+about-logins-alert-import-title = გადმოტანა დასრულდა
+about-logins-alert-import-message = იხილეთ სრულად გადმოტანის შესახებ
 confirm-discard-changes-dialog-title = გაუქმდეს შეუნახავი ცვლილებები?
 confirm-discard-changes-dialog-message = ყველა შეუნახავი ცვლილება დაიკარგება.
 confirm-discard-changes-dialog-confirm-button = გაუქმება
@@ -266,3 +268,30 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-დოკუმენტი
        *[other] CSV-ფაილი
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = გადმოტანა დასრულდა
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>ახალი ანგარიშები დაემატა:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ახალი ანგარიშები დაემატა:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>არსებული ანგარიშები განახლდა:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>არსებული ანგარიშები განახლდა:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>აღმოჩენილია იგივე ანგარიშები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
+       *[other] <span>აღმოჩენილია იგივე ანგარიშები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>შეცდომები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოვიდა)</span>
+       *[other] <span>შეცდომები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოვიდა)</span>
+    }
+about-logins-import-dialog-done = მზადაა
