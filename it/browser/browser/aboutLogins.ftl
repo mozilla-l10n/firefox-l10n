@@ -89,6 +89,7 @@ login-item-new-login-title = Inserisci nuove credenziali
 login-item-edit-button = Modifica
 about-logins-login-item-remove-button = Rimuovi
 login-item-origin-label = Indirizzo web
+login-item-tooltip-message = Assicursi che corrisponda esattamente all’indirizzo del sito web a cui si accede.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome utente
