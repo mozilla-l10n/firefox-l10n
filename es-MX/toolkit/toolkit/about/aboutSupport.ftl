@@ -363,6 +363,13 @@ fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-experiment-control = Deshabilitado por el experimento
 fission-status-experiment-treatment = Habilitado por el experimento
 fission-status-disabled-by-e10s-env = Deshabilitado por el entorno
+fission-status-enabled-by-env = Habilitado por el entorno
+fission-status-disabled-by-safe-mode = Deshabilitado por el modo seguro
+fission-status-enabled-by-default = Habilitado de forma predeterminada
+fission-status-disabled-by-default = Deshabilitado de forma predeterminada
+fission-status-enabled-by-user-pref = Habilitado por el usuario
+fission-status-disabled-by-user-pref = Deshabilitado por el usuario
+fission-status-disabled-by-e10s-other = E10s deshabilitado
 async-pan-zoom = Encuadro/zoom asíncrono
 apz-none = ninguno
 wheel-enabled = entrada de rueda de ratón activada
@@ -386,3 +393,9 @@ policies-error = Error
 
 ## Printing section
 
+support-printing-title = Imprimir
+support-printing-troubleshoot = Solución de problemas
+support-printing-clear-settings-button = Eliminar los ajustes de impresión guardados
+support-printing-modified-settings = Ajustes de impresión modificados
+support-printing-prefs-name = Nombre
+support-printing-prefs-value = Valor

@@ -47,11 +47,6 @@ experimental-features-web-api-beforeinput-description = El evento global <a data
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = La adición de un constructor a la interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> así como una variedad de cambios relacionados hace posible crear directamente nuevas hojas de estilo sin tener que agregar la hoja al HTML. Esto hace más fácil crear hojas de estilo reutilizables para usar con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Ver <a data-l10n-name="bugzilla">bug 1520690</a> para más detalles.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = La implementación completa de { -brand-short-name } de Media Session API es actualmente experimental. Esta API se usa para personalizar el manejo de notificaciones relacionadas con los medios, para manejar eventos y datos útiles para presentar una interface de usuario para manejar reproducción de medios y para obtener metadatos de los archivos. Ver <a data-l10n-name="bugzilla">bug 1112032</a> para más detalles.
 experimental-features-devtools-color-scheme-simulation =
     .label = Herramientas para desarrolladores: simulación de esquemas de color
 experimental-features-devtools-color-scheme-simulation-description = Agrega una opción para simular diferentes esquemas de color que te permiten probar las consultas de medios <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. El uso de esta función permite que tu hoja de estilo responda si el usuario prefiere una interfaz de usuario clara u oscura. Esto te permite probar el código sin tener que cambiar la configuración del navegador (o sistema operativo, si el navegador sigue una configuración de esquema de color establecida para todo el sistema). Consulta el <a data-l10n-name="bugzilla1">bug 1550804</a> y el <a data-l10n-name="bugzilla2">bug 1137699</a> para obtener más detalles.
@@ -87,7 +82,22 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Herramientas de desarrollado: Depuración de Service Worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Habilita el soporte experimental para Service Workers en el panel del Depurador. Esta función puede ralentizar las Herramientas de desarrolladores y aumentar el consumo de memoria.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Graphics: Smooth Pinch Zoom
-experimental-features-graphics-desktop-zooming-description = Habilita el soporte para un hacer zoom con suavidad al pellizcar en las pantallas táctiles y los touch pads de precisión con suavidad.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Alternar sonido WebRTC globalmente
+experimental-features-webrtc-global-mute-toggles-description = Agregar controles al indicador de intercambio global WebRTC que permita a los usuarios interrumpir globalmente la compartición de tu micrófono y cámara.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Activar Warp, un proyecto para mejorar el rendimiento y el uso de la memoria de JavaScript.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (aislamiento de sitios)
+experimental-features-fission-description = Fission (aislamiento de sitios) es una característica experimental en { -brand-short-name } para proporcionar una capa adicional de defensa contra los problemas de seguridad. Al aislar cada sitio en un proceso separado, Fission hace que sea más difícil para los sitios web maliciosos tener acceso a información de otras páginas que estás visitando. Éste es un cambio arquitectónico importante en { -brand-short-name } y te agradecemos probar e informar de cualquier problema que encuentres. Para obtener más detalles, consulta <a data-l10n-name="wiki">el wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Compatibilidad con múltiples Picture-in-Picture
+experimental-features-multi-pip-description = Función experimental para permitir que se abran varias ventanas Picture-in-Picture al mismo tiempo.
+experimental-features-http3 =
+    .label = Protocolo HTTP/3
+experimental-features-http3-description = Soporte experimental para el protocolo HTTP/3.
