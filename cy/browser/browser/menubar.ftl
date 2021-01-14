@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
+
+
 ## File Menu
 
 menu-file =
@@ -216,12 +222,12 @@ menu-tools-page-info =
 menu-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Dewisiadau
+            [windows] Opsiynau
            *[other] Dewisiadau
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] e
+            [windows] O
            *[other] w
         }
 menu-tools-layout-debugger =

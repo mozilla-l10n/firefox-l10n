@@ -20,7 +20,7 @@ about-private-browsing-turn-on-vpn = Rhowch gynnig ar { -mozilla-vpn-brand-name 
 about-private-browsing-search-banner-title = { $engineName } yw eich peiriant chwilio rhagosodedig mewn Ffenestri Preifat
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] I ddewis peiriant chwilio gwahanol ewch i <a data-l10n-name="link-options">Dewisiadau</a>
+        [windows] I ddewis peiriant chwilio gwahanol ewch i <a data-l10n-name="link-options">Opsiynau</a>
        *[other] I ddewis peiriant chwilio gwahanol ewch i <a data-l10n-name="link-options">Dewisiadau</a>
     }
 about-private-browsing-search-banner-close-button =

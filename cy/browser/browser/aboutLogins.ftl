@@ -32,7 +32,7 @@ about-logins-menu-menuitem-export-logins = Allforio Mewngofnodion…
 about-logins-menu-menuitem-remove-all-logins = Tynnu Pob Mewngofnod…
 menu-menuitem-preferences =
     { PLATFORM() ->
-        [windows] Dewisiadau
+        [windows] Opsiynau
        *[other] Dewisiadau
     }
 about-logins-menu-menuitem-help = Cymorth
@@ -54,7 +54,7 @@ login-list-count =
     }
 login-list-sort-label-text = Trefnu yn ôl
 login-list-name-option = Enw (A-Z)
-login-list-name-reverse-option = Enw (A-Z)
+login-list-name-reverse-option = Enw (Z-A)
 about-logins-login-list-alerts-option = Rhybuddion
 login-list-last-changed-option = Newidiwyd Diwethaf
 login-list-last-used-option = Defnyddiwyd Diwethaf
@@ -151,7 +151,7 @@ master-password-reload-button =
 
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Eisiau eich mewngofnodion ym mhobman rydych chi'n defnyddio { -brand-product-name }? Ewch i Ddewisiadau { -sync-brand-short-name } a dewiswch y blwch gwirio Mewngofnodi.
+        [windows] Eisiau eich mewngofnodion ym mhobman rydych chi'n defnyddio { -brand-product-name }? Ewch i Opsiynau { -sync-brand-short-name } a dewiswch y blwch gwirio Mewngofnodi.
        *[other] Eisiau eich mewngofnodion ym mhobman rydych chi'n defnyddio { -brand-product-name }? Ewch i Ddewisiadau { -sync-brand-short-name } a dewiswch y blwch gwirio Mewngofnodi.
     }
 enable-password-sync-preferences-button =

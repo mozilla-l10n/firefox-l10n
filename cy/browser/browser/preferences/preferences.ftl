@@ -10,7 +10,7 @@ do-not-track-option-always =
     .label = Bob tro
 pref-page-title =
     { PLATFORM() ->
-        [windows] Dewisiadau
+        [windows] Opsiynau
        *[other] Dewisiadau
     }
 # This is used to determine the width of the search field in about:preferences,
@@ -25,7 +25,7 @@ search-input-box =
     .style = width: 15.4em
     .placeholder =
         { PLATFORM() ->
-            [windows] Canfod yn Dewisiadau
+            [windows] Canfod yn Opsiynau
            *[other] Canfod yn Dewisiadau
         }
 managed-notice = Mae eich porwr yn cael ei reoli gan eich sefydliad.
@@ -118,7 +118,7 @@ search-results-header = Canlyniadau Chwilio
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Ymddiheuriadau! Nid oes canlyniadau yn y Dewisiadau ar gyfer “<span data-l10n-name="query"></span>”.
+        [windows] Ymddiheuriadau! Nid oes canlyniadau yn yr Opsiynau ar gyfer “<span data-l10n-name="query"></span>”.
        *[other] Ymddiheuriadau! Nid os canlyniadau yn y Dewisiada.u ar gyfer “<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Angen help? Ewch i <a data-l10n-name="url">Cefnogaeth { -brand-short-name }</a>
@@ -550,7 +550,7 @@ home-prefs-recent-activity-description = Detholiad o wefannau a chynnwys diwedda
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
-    .label = Tameidiau
+    .label = Pytiau
 home-prefs-snippets-description = Diweddariadau gan { -vendor-short-name } a { -brand-product-name }
 home-prefs-snippets-description-new = Awgrymiadau a newyddion gan { -vendor-short-name } a { -brand-product-name }
 home-prefs-sections-rows-option =
@@ -626,7 +626,7 @@ search-keyword-warning-bookmark = Rydych wedi defnyddio allweddair sy'n cael ei 
 containers-back-button =
     .aria-label =
         { PLATFORM() ->
-            [windows] Nôl i Dewisiadau
+            [windows] Nôl i Opsiynau
            *[other] Nol i Dewisiadau
         }
 containers-header = Tabiau Cynwysyddion
@@ -705,7 +705,7 @@ sync-currently-syncing-creditcards = Cardiau Credyd
 sync-currently-syncing-addons = Ychwanegion
 sync-currently-syncing-prefs =
     { PLATFORM() ->
-        [windows] Dewisiadau
+        [windows] Opsiynau
        *[other] Dewisiadau
     }
 sync-change-options =
@@ -750,11 +750,11 @@ sync-engine-addons =
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
-            [windows] Dewisiadau
+            [windows] Opsiynau
            *[other] Dewisiadau
         }
     .tooltiptext = Gosodiadau Cyffredinol, Preifatrwydd a Diogelwch rydych wedi eu newid
-    .accesskey = D
+    .accesskey = O
 
 ## The device name controls.
 
@@ -1152,17 +1152,17 @@ space-alert-learn-more-button =
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
-            [windows] Dewisiadau Agor
-           *[other] Dewisiadau Agored
+            [windows] Agor Opsiynau
+           *[other] Agor Dewisiadau
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] g
-           *[other] A
+            [windows] O
+           *[other] D
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] Mae { -brand-short-name } yn brin o le ar ddisg. Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Mae modd i chi glirio data wedi ei storio yn Dewisiadau > Preifatrwydd a Diogelwch > Cwcis a Data Gwefan.
+        [windows] Mae { -brand-short-name } yn brin o le ar ddisg. Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Mae modd i chi glirio data wedi ei storio yn Opsiynau> Preifatrwydd a Diogelwch > Cwcis a Data Gwefan.
        *[other] Mae { -brand-short-name } yn brin o le ar ddisg. Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Mae modd i chi glirio data wedi ei storio yn Dewisiadau > Preifatrwydd a Diogelwch > Cwcis a Data Gwefan.
     }
 space-alert-under-5gb-ok-button =
