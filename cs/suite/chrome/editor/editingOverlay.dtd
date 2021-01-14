@@ -29,6 +29,12 @@
 <!ENTITY publishSettings.label "Nastavení pro publikování…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Formulář">
+<!ENTITY insertFormCmd.label "Definovat formulář…">
+<!ENTITY insertInputTagCmd.label "Pole formuláře…">
+<!ENTITY insertSelectCmd.label "Výběr ze seznamu…">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nová">
 <!ENTITY newToolbarCmd.tooltip "Vytvoří novou stránku">
