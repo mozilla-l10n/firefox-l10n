@@ -288,6 +288,7 @@ cfr-whatsnew-search-shortcuts-body = Ara quand picatz lo nom d’un motor de rec
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Proteccion contra los supercookies malvolents
+cfr-whatsnew-supercookies-body = D’unes sites web pòdon estacar un « supercookie » a vòstre navegador que vos pòt seguir sul Web, encara qu’ajatz escafat los cookies. { -brand-short-name } provesís ara una proteccion robusta contra los supercookies per que sián pas utilizats per pistar vòstra activitat en linha d’un site a l’autre.
 
 ## What's new: Better bookmarking
 
