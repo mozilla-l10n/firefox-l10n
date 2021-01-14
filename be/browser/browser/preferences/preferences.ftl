@@ -936,6 +936,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Адкрытыя карткі
     .accesskey = А
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Цэтлікі
+    .accesskey = Ц
 addressbar-locbar-topsites-option =
     .label = Папулярныя сайты
     .accesskey = П
