@@ -206,6 +206,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Oanmeldingen en wachtwurden eksportearje
 about-logins-confirm-export-dialog-message = Jo wachtwurden wurde bewarre as lêsbere tekst (bygelyks BadP@ssw0rd), dus elkenien dy't it eksportearre bestân iepenje kin, kin se besjen.
 about-logins-confirm-export-dialog-confirm-button = Eksportearje…
+about-logins-alert-import-title = Ymportearjen foltôge
+about-logins-alert-import-message = Detaillearre ymportgearfetting besjen
 confirm-discard-changes-dialog-title = Dizze wizigingen ferwerpe?
 confirm-discard-changes-dialog-message = Alle net-bewarre wizigingen gean ferlern.
 confirm-discard-changes-dialog-confirm-button = Ferwerpe
@@ -267,3 +269,30 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokumint
        *[other] CSV-bestân
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Ymportearjen foltôge
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Nije oanmelding tafoege:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nije oanmeldingen tafoege:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Besteande oanmelding bywurke:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Besteande oanmeldingen bywurke:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Dûbele oanmelding fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
+       *[other] <span>Dûbele oanmeldingen fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Flater:</span> <span data-l10n-name="count"></span> <span data-l10n-name="meta">(net ymportearre)</span>
+       *[other] <span>Flaters:</span> <span data-l10n-name="count"></span> <span data-l10n-name="meta">(net ymportearre)</span>
+    }
+about-logins-import-dialog-done = Dien
