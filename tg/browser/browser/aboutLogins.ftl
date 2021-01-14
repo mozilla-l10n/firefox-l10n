@@ -58,6 +58,8 @@ about-logins-login-list-empty-search-title = Ягон воридшавӣ ёфт 
 about-logins-login-list-empty-search-description = Ягон натиҷа мувофиқи ҷустуҷӯи шумо ёфт нашуд.
 login-list-item-title-new-login = Воридшавии нав
 login-list-item-subtitle-missing-username = (номи корбар нест)
+about-logins-list-item-vulnerable-password-icon =
+    .title = Ниҳонвожаи камқувват
 
 ## Introduction screen
 
@@ -139,6 +141,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
 about-logins-confirm-export-dialog-confirm-button = Содирот…
+confirm-discard-changes-dialog-title = Тағйироти захиранашударо бекор мекунед?
 confirm-discard-changes-dialog-message = Ҳамаи тағироти захиранашуда гум мешаванд.
 confirm-discard-changes-dialog-confirm-button = Рад кардан
 
@@ -189,4 +192,13 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Ҳуҷҷати CSV
        *[other] Файли CSV
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Воридшавиҳои нав илова шуданд:</span> <span data-l10n-name="count">{ $count }</span>
     }
