@@ -33,7 +33,10 @@
 <!ENTITY insertFormMenu.label "Formulář">
 <!ENTITY insertFormCmd.label "Definovat formulář…">
 <!ENTITY insertInputTagCmd.label "Pole formuláře…">
+<!ENTITY insertInputImageCmd.label "Obrázek formuláře...">
+<!ENTITY insertTextAreaCmd.label "Oblast textu...">
 <!ENTITY insertSelectCmd.label "Výběr ze seznamu…">
+<!ENTITY insertButtonCmd.label "Definovat tlačítko...">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nová">
