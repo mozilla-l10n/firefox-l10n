@@ -5,3 +5,5 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Ҷустуҷӯи варақаҳо
+all-tabs-menu-hidden-tabs =
+    .label = Варақаҳои пинҳоншуда

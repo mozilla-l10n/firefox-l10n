@@ -138,6 +138,8 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Хатбаракҳо ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Варақаҳо ({ $restrict })
 search-one-offs-history =
@@ -145,6 +147,9 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Нишон додани муҳаррир ҳангоми нигоҳдорӣ
+    .accesskey = Н
 bookmark-panel-done-button =
     .label = Тайёр
 # Width of the bookmark panel.
@@ -155,6 +160,8 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-https-only-connection-upgraded = (ба HTTPS такмил ёфт)
+identity-https-only-label = Реҷаи ТАНҲО-HTTPS
 identity-https-only-dropdown-on =
     .label = Фаъол
 identity-https-only-dropdown-off =
@@ -249,10 +256,25 @@ urlbar-extension =
     .value = Васеъшавӣ:
 urlbar-page-action-button =
     .tooltiptext = Амалҳо дар саҳифа
+urlbar-pocket-button =
+    .tooltiptext = Нигоҳ доштан ба { -pocket-brand-name }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Ҷустуҷӯ тавассути { $engine } дар равзанаи махфӣ
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Ҷустуҷӯ дар равзанаи махфӣ
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
