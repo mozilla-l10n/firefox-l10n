@@ -46,6 +46,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Essayez d
 inactive-css-not-display-block-on-floated-fix = Essayez de retirer <strong>float</strong> ou d’ajouter <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Essayez de définir sa propriété <strong>position</strong> avec une valeur différente de <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Essayez d’ajouter <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Essayez de définir sa propriété <strong>outline-style</strong> à une valeur autre qu’<strong>auto</strong> ou <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers

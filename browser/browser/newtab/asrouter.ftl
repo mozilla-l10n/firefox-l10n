@@ -122,6 +122,9 @@ cfr-whatsnew-lockwise-take-link-text = Obtenir l’application
 
 cfr-whatsnew-searchbar-title = Tapez moins, trouvez plus avec la barre d’adresse
 cfr-whatsnew-searchbar-body-topsites = Désormais, sélectionnez simplement la barre d’adresse et un cadre s’agrandira pour vous présenter des liens vers vos sites les plus visités.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Icône de loupe
 
 ## Picture-in-Picture
@@ -273,3 +276,13 @@ cfr-whatsnew-media-keys-button = Découvrez comment
 
 cfr-whatsnew-search-shortcuts-header = Raccourcis de recherche dans la barre d’adresse
 cfr-whatsnew-search-shortcuts-body = Désormais, lorsque vous saisissez l’adresse d’un moteur de recherche ou d’un site spécifique dans la barre d’adresse, un raccourci bleu apparaît parmi les suggestions de recherche au-dessous. Sélectionnez ce raccourci pour terminer votre recherche directement depuis la barre d’adresse.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protection contre les supercookies malveillants
+cfr-whatsnew-supercookies-body = Des sites web peuvent attacher secrètement un « supercookie » à votre navigateur qui peut vous suivre sur le Web, même après que vous avez effacé les cookies. { -brand-short-name } fournit désormais une protection robuste contre les supercookies pour qu’ils ne soient pas utilisés pour pister vos activités en ligne d’un site à un autre.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = De meilleurs marque-pages
+cfr-whatsnew-bookmarking-body = Il est plus facile de garder trace de vos sites préférés. { -brand-short-name } se souvient désormais de votre emplacement préféré pour les marque-pages enregistrés, affiche la barre personnelle sur les nouveaux onglets par défaut et vous offre un accès facile à vos autres marque-pages grâce à un dossier dans la barre personnelle.
