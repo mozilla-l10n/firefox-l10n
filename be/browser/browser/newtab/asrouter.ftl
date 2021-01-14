@@ -129,6 +129,9 @@ cfr-whatsnew-lockwise-take-link-text = Атрымаць праграму
 
 cfr-whatsnew-searchbar-title = Уводзьце менш, знаходзьце больш з адрасным радком
 cfr-whatsnew-searchbar-body-topsites = Цяпер проста выберыце адрасны радок, і ён разгорнецца спасылкамі на вашы папулярныя сайты.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Значок павелічальнага шкла
 
 ## Picture-in-Picture
@@ -286,3 +289,11 @@ cfr-whatsnew-media-keys-button = Даведацца, як
 
 cfr-whatsnew-search-shortcuts-header = Ярлыкi пошуку ў адрасным радку
 cfr-whatsnew-search-shortcuts-body = Цяпер, калі вы ўводзіце пошукавую сістэму альбо пэўны сайт у адрасны радок, у прапановах пошуку ніжэй з'явіцца сіні ярлык. Выберыце гэты ярлык, каб завяршыць пошук непасрэдна з адраснага радка.
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Лепшая праца з закладкамі
+cfr-whatsnew-bookmarking-body = Стала прасцей асочваць вашы ўлюбёныя сайты. { -brand-short-name } цяпер запамінае ваша пераважнае месца для захавання закладак, прадвызначана паказвае панэль закладак на новых картках і дае просты доступ да астатніх вашых закладак праз папку на паліцы прылад.
