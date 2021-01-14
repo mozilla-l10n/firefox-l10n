@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = App downloaden
 
 cfr-whatsnew-searchbar-title = Typ minder, vind meer met de adresbalk
 cfr-whatsnew-searchbar-body-topsites = Selecteer nu eenvoudigweg de adresbalk en een vak zal uitbreiden met snelkoppelingen naar uw topwebsites.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Vergrootglaspictogram
 
 ## Picture-in-Picture
@@ -281,3 +284,13 @@ cfr-whatsnew-media-keys-button = Meer info
 
 cfr-whatsnew-search-shortcuts-header = Zoeksnelkoppelingen in de adresbalk
 cfr-whatsnew-search-shortcuts-body = Wanneer u voortaan een zoekmachine of specifieke website in de adresbalk typt, verschijnt een blauwe snelkoppeling in de zoeksuggesties eronder. Selecteer die snelkoppeling om uw zoekopdracht rechtstreeks vanuit de zoekbalk te voltooien.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Bescherming tegen kwaadaardige supercookies
+cfr-whatsnew-supercookies-body = Websites kunnen stiekem een ‘supercookie’ aan uw browser koppelen, dat u op het internet kan volgen, zelfs nadat u uw cookies hebt gewist. { -brand-short-name } biedt nu krachtige bescherming tegen supercookies, zodat ze niet kunnen worden gebruikt om uw online activiteiten op verschillende websites te volgen.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Beter bladwijzers maken
+cfr-whatsnew-bookmarking-body = Het is gemakkelijker om uw favoriete websites bij te houden. { -brand-short-name } onthoudt nu uw voorkeurslocatie voor opgeslagen bladwijzers, toont de bladwijzerwerkbalk standaard op nieuwe tabbladen en geeft u eenvoudige toegang tot de rest van uw bladwijzers via een werkbalkmap.
