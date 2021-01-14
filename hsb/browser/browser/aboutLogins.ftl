@@ -221,6 +221,7 @@ about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
 about-logins-confirm-export-dialog-message = Waše hesła budu so jako čitajomny tekst składować (na př. BadP@ass0rd), tohodla móže kóždy, kotryž móže eksportowanu dataju wočinić, je widźeć.
 about-logins-confirm-export-dialog-confirm-button = Eksportować…
 about-logins-alert-import-title = Importowanje dokónčene
+about-logins-alert-import-message = Nadrobne importowe zjeće pokazać
 confirm-discard-changes-dialog-title = Njeskładowane změny zaćisnyć?
 confirm-discard-changes-dialog-message = Wšě njeskładowane změny so zhubja.
 confirm-discard-changes-dialog-confirm-button = Zaćisnyć
@@ -288,4 +289,25 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importowanje dokónčene
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Nowe přizjewjenje přidate:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Nowej přizjewjeni přidatej:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Nowe přizjewjenja přidate:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nowe přizjewjenja přidate:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Eksistowace přizjewjenje zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Eksistowacej přizjewjeni zaktualizowanej:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Eksistowace přizjewjenja zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Eksistowace přizjewjenja zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Dwójne přizjewjenje namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+        [two] <span>Dwójnej přizjewjeni namakanej:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowanej)</span>
+        [few] <span>Dwójne přizjewjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+       *[other] <span>Dwójne přizjewjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+    }
 about-logins-import-dialog-done = Dokónčene
