@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = App downloade
 
 cfr-whatsnew-searchbar-title = Typ minder, fyn mear mei de adresbalke
 cfr-whatsnew-searchbar-body-topsites = Selektearje no ienfâldichwei de adresbalke en in fek sil útwreidzje mei fluchkeppelingen nei jo topwebsites.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Fergrutglêspiktogram
 
 ## Picture-in-Picture
@@ -281,3 +284,12 @@ cfr-whatsnew-media-keys-button = Mear ynfo
 
 cfr-whatsnew-search-shortcuts-header = Sykfluchkeppelingen yn de adresbalke
 cfr-whatsnew-search-shortcuts-body = Wannear't jo yn it ferfolch in sykmasine of spesifike website yn de adresbalke type, ferskynt in blauwe fluchkeppeling yn de syksuggestjes dêrûnder. Selektearje dy fluchkeppeling om jo sykopdracht streekrjocht fan de sykbalke út te foltôgjen.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Beskerming tsjin kwea-aardige supercookies
+cfr-whatsnew-supercookies-body = Websites kinne stikem in ‘supercookie’ oan jo browser keppelje, dat jo op it ynternet folgje kin, sels neidat jo jo cookies wiske hawwe. { -brand-short-name } biedt no krêftige beskerming tsjin supercookies, sadat se net brûkt wurde kinne om jo online aktiviteiten op ferskate websites te folgjen.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Better blêdwizers meitsje
