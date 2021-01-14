@@ -37,6 +37,8 @@
 <!ENTITY insertTextAreaCmd.label "Oblast textu...">
 <!ENTITY insertSelectCmd.label "Výběr ze seznamu…">
 <!ENTITY insertButtonCmd.label "Definovat tlačítko...">
+<!ENTITY insertLabelCmd.label "Definovat popisek">
+<!ENTITY insertFieldSetCmd.label "Definovat skupinu polí ...">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nová">
