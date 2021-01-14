@@ -57,6 +57,19 @@ urlbar-eme-notification-anchor =
     .tooltiptext = Идоракунии истифодаи нармафзори DRM
 urlbar-web-authn-anchor =
     .tooltiptext = Кушодани лавҳаи санҷиши ҳаққоният дар сомона
+urlbar-default-notification-anchor =
+    .tooltiptext = Кушодани лавҳаи паёмҳо
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Кушодани лавҳаи дархости маконҳо
+urlbar-translate-notification-anchor =
+    .tooltiptext = Тарҷума кардани саҳифаи ҷорӣ
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Кушодани лавҳаи пахши худкор
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Маслиҳат:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -75,6 +88,14 @@ urlbar-search-mode-history = Таърих
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Илова кардан ба навори нишонӣ
+page-action-manage-extension =
+    .label = Идоракунии васеъшавӣ…
+page-action-remove-from-urlbar =
+    .label = Тоза кардан аз навори нишонӣ
+page-action-remove-extension =
+    .label = Тоза кардани васеъшавӣ
 
 ## Page Action menu
 
@@ -94,6 +115,21 @@ page-action-share-more-panel =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Тағйир додани танзимоти ҷустуҷӯ
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Тағйир додани танзимоти ҷустуҷӯ
+search-one-offs-context-open-new-tab =
+    .label = Ҷустуҷӯ дар варақаи нав
+    .accesskey = Ҷ
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -102,9 +138,15 @@ page-action-share-more-panel =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-tabs =
+    .tooltiptext = Варақаҳо ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Таърих ({ $restrict })
 
 ## Bookmark Panel
 
+bookmark-panel-done-button =
+    .label = Тайёр
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -113,15 +155,48 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-https-only-dropdown-on =
+    .label = Фаъол
+identity-https-only-dropdown-off =
+    .label = Ғайрифаъол
+identity-https-only-dropdown-off-temporarily =
+    .label = Муваққатан ғайрифаъол
+identity-permissions =
+    .value = Иҷозатҳо
+identity-learn-more =
+    .value = Маълумоти бештар
+identity-disable-mixed-content-blocking =
+    .label = Ғайрифаъол кардани муҳофизат
+    .accesskey = Ғ
+identity-enable-mixed-content-blocking =
+    .label = Фаъол кардани муҳофизат
+    .accesskey = Ф
+identity-more-info-link-text =
+    .label = Маълумоти бештар
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Ҳадди ақал сохтан
+browser-window-maximize-button =
+    .tooltiptext = Ҳадди аксар сохтан
+browser-window-close-button =
+    .tooltiptext = Пӯшидан
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Ворид кардани хатбаракҳо…
+    .tooltiptext = Ворид кардани хатбаракҳо аз браузери дигар ба { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
+popup-screen-sharing-not-now =
+    .label = Ҳоло не
+    .accesskey = Ҳ
+popup-screen-sharing-never =
+    .label = Ҳеҷ гоҳ бе иҷозат
+    .accesskey = Ҳ
 
 ## WebRTC window or screen share tab switch warning
 
@@ -131,6 +206,49 @@ bookmark-panel =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
+urlbar-placeholder =
+    .placeholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Ҷустуҷӯ дар Интернет
+    .aria-label = Ҷустуҷӯ тавассути { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
+    .aria-label = Ҷустуҷӯи { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
+    .aria-label = Ҷустуҷӯ дар хатбаракҳо
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
+    .aria-label = Ҷустуҷӯ дар таърих
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
+    .aria-label = Ҷустуҷӯ дар варақаҳо
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Нишониеро тавассути { $name } ҷустуҷӯ кунед ё ворид намоед
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Васеъшавӣ:
+urlbar-page-action-button =
+    .tooltiptext = Амалҳо дар саҳифа
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
