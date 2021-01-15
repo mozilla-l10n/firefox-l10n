@@ -62,8 +62,8 @@ csp-xfo-blocked-long-desc = Par parâ la tô sigurece, { $hostname } nol permeta
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = No si pues conetisi
-deniedPortAccess-title = Cheste direzion e je restrizude
+connectionFailure-title = Impussibil conetisi
+deniedPortAccess-title = Cheste direzion e je sometude a restrizions
 fileNotFound-title = File no cjatât
 generic-title = Orpo.
 netInterrupt-title = La conession e je stade interote
