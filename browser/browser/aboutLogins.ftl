@@ -193,6 +193,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…
+about-logins-alert-import-title = Inportazioa burutu da
+about-logins-alert-import-message = Ikusi inportazioaren laburpen xehetua
 confirm-discard-changes-dialog-title = Baztertu gorde gabeko aldaketak?
 confirm-discard-changes-dialog-message = Gorde gabeko aldaketa guztiak galdu egingo dira.
 confirm-discard-changes-dialog-confirm-button = Baztertu
@@ -254,3 +256,10 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV dokumentua
        *[other] CSV fitxategia
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Inportazioa burutu da
+about-logins-import-dialog-done = Eginda

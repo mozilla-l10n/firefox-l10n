@@ -925,6 +925,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Irekitako fitxak
     .accesskey = I
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Lasterbideak
+    .accesskey = s
 addressbar-locbar-topsites-option =
     .label = Gune erabilienak
     .accesskey = r
