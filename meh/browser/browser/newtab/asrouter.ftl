@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ñivɨ
        *[other] { $total } da ñivɨ
     }
-cfr-doorhanger-pintab-description = Kivu ñama nuu da sitios jikanuka. Kua´a da sitios nune nuu nuu iin pestaña (de nakajie´enu)
+cfr-doorhanger-pintab-description = Kivu ñama nuu da sitios jikanuka. Kua´a a da sitios nune nuu iin pestaña (nakuvi de nakajie´enu)
 
 ## These messages are steps on how to use the feature and are shown together.
 
@@ -256,4 +256,10 @@ cfr-doorhanger-fission-secondary-button = Ka´vi kue´eka
 cfr-whatsnew-media-keys-button = Sikua´a naja
 
 ## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
 
