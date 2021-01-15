@@ -61,8 +61,8 @@
 <!ENTITY advancedSetup.accesskey         "Р">
 <!ENTITY cancel.label                    "Скасувати">
 <!ENTITY cancel.accesskey                "к">
-<!ENTITY continue.label                  "Далі">
-<!ENTITY continue.accesskey              "Д">
+<!ENTITY continue.label                  "Продовжити">
+<!ENTITY continue.accesskey              "П">
 <!ENTITY stop.label                      "Зупинити">
 <!ENTITY stop.accesskey                  "З">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is

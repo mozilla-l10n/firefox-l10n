@@ -37,7 +37,7 @@
 </ul>
 ">
 
-<!ENTITY fileAccessDenied.title "Доступ до файлу було заборонено">
+<!ENTITY fileAccessDenied.title "Доступ до файлу заборонено">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Він міг бути вилучений, переміщений, або дозволи файлу забороняють доступ.</li>
@@ -164,18 +164,18 @@
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Блоковано політикою безпеки вмісту">
+<!ENTITY cspBlocked.title "Заблоковано політикою безпеки вмісту">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці бути завантаженою таким чином, через те що її політика безпеки вмісту не дозволяє зробити це.</p>">
 
 <!ENTITY xfoBlocked.title "Блокується політикою X-Frame-Options">
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись в даному контексті, тому що політикою X-Frame-Options це заборонено.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Помилка зіпсованого вмісту">
+<!ENTITY corruptedContentErrorv2.title "Помилка пошкодженого вмісту">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Сторінка, яку ви намагаєтесь переглянути, не може бути показана через те, що в передачі даних виявлено помилку.</p><ul><li>Будь ласка, зв'яжіться з власниками вебсайту та повідомте їх про цю проблему.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Або ви можете зробити виняток…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Заберіть мене звідси">
-<!ENTITY securityOverride.exceptionButtonLabel "Зробити виняток">
+<!ENTITY securityOverride.exceptionButtonLabel "Додати виняток…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
@@ -190,12 +190,12 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "Віддалений XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Будь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Зв’яжіться з власниками сайту та повідомте їх про цю проблему.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Ваше з'єднання незахищене">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує технологію безпеки, яка є застарілою і вразливою до атак. Нападник може з легкістю розкрити інформацію, яка, на вашу думку, знаходиться в безпеці. Перед тим, як ви зможете відвідати сайт, його адміністратор повинен виправити це на сервері.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує технологію безпеки, яка є застарілою і вразливою до атак. Нападник може з легкістю розкрити інформацію, яка, на вашу думку, є захищеною. Перш ніж ви зможете відвідати сайт, його адміністратор повинен виправити це на сервері.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Заблокована сторінка">
 
