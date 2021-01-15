@@ -56,6 +56,9 @@ cert-error-details-hsts-label = Sigurece rigorose di traspuart HTTP: { $hasHSTS 
 cert-error-details-key-pinning-label = Fissaç de clâf publiche HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cjadene dai certificâts:
 open-in-new-window-for-csp-or-xfo-error = Vierç sît intun gnûf barcon
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Par parâ la tô sigurece, { $hostname } nol permetarà a { -brand-short-name } di visualizâ la pagjine se un altri sît le à incorporade. Par viodi cheste pagjine tu âs di vierzile intun gnûf barcon.
 
 ## Messages used for certificate error titles
 
