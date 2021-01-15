@@ -48,6 +48,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Ɛreḍ t
 inactive-css-not-display-block-on-floated-fix = Ɛreḍ tukksa n <strong>float</strong> neɣ timerna n <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Ɛreḍ ad tesbaduḍ timeẓli-ines<strong>position</strong> s wazal-nniḍen ur nelli d <strong>statitc</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Ɛreḍ ad ternuḍ <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Ɛreḍ asbadu n tmeẓli-ines <strong>display</strong> ɣef wayeḍ-nniḍen yemgaraden ɣef <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> neɣ <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ɛreḍ asbadu n tmeẓli-ines <strong>display</strong> ɣef wayeḍ-nniḍen yemgaraden ɣef <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> neɣ <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Ɛreḍ ad tesbaduḍ timeẓli-ines <strong>outline-style</strong> s wazal-nniḍen ur nelli d <strong>auto</strong> neɣ <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
