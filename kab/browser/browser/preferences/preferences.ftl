@@ -932,6 +932,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Iccaren yeldin
     .accesskey = I
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Inegzumen
+    .accesskey = Z
 addressbar-locbar-topsites-option =
     .label = Ismal ufrinen
     .accesskey = T
