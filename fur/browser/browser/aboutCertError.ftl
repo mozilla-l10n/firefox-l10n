@@ -9,8 +9,12 @@ cert-error-mitm-intro = I sîts web a dimostrin la lôr identitât par mieç di 
 cert-error-mitm-mozilla = { -brand-short-name } al è supuartât de organizazion cence fins di vuadagn Mozilla, che e aministre un archivi di autoritâts di certificazion (CA) dal dut viert. L'archivi CA al jude a garantî che lis autoritâts di certificazion a ledin daûr des miôrs pratichis  pe sigurece dal utent.
 cert-error-mitm-connection = { -brand-short-name } al dopre l'archivi CA di Mozilla par verificâ che une conession e sedi sigure, invezit che i certificâts furnîts dal sisteme operatîf dal utent. Cussì, se un program antivirus o une rêt e sta intercetant une conession cuntun certificât di sigurece mandât fûr di une CA che no je tal archivi CA di Mozilla, la conession e ven considerade no sigure.
 cert-error-trust-unknown-issuer-intro = Cualchidun al podarès cirî di impersonâ il sît e no tu varessis di continuâ.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di { $hostname } parcè che il so emitent nol è cognossût, il certificât al è auto-firmât opûr il servidôr nol sta inviant i certificâts intermedis juscj.
 cert-error-trust-cert-invalid = Il certificât nol è afidabil parcè che al è stât emetût di une CA no valide.
 cert-error-trust-untrusted-issuer = Il certificât nol è afidabil parcè che l'emitent dal certificât nol è afidabil.
+cert-error-trust-signature-algorithm-disabled = Il certificât nol è atendibil parcè che al è stât firmât doprant un algoritmi di firme che al jere stât disabilitât, chest par vie che chel algoritmi nol è sigûr.
 cert-error-trust-expired-issuer = Il certificât nol è afidabil parcè che il certificât dal emitent al è scjadût.
 cert-error-trust-self-signed = Il certificât nol è afidabil parcè che al è auto firmât.
 cert-error-untrusted-default = Il certificât nol ven di une risultive afidabile.
