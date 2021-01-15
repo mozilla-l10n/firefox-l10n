@@ -64,11 +64,19 @@ csp-xfo-blocked-long-desc = Par parâ la tô sigurece, { $hostname } nol permeta
 
 connectionFailure-title = Impussibil conetisi
 deniedPortAccess-title = Cheste direzion e je sometude a restrizions
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm... No rivìn a cjatâ chel sît.
 fileNotFound-title = File no cjatât
+fileAccessDenied-title = Al è stât dineât l'acès al file
 generic-title = Orpo.
+captivePortal-title = Jentre te rêt
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm... Chê direzion no somee juste.
 netInterrupt-title = La conession e je stade interote
 notCached-title = Document scjadût
-netOffline-title = Mût fûr linie
+netOffline-title = Modalitât fûr rêt
 contentEncodingError-title = Erôr te codifiche dal contignût
 unsafeContentType-title = Gjenar di file no sigûr
 netReset-title = La conession e je stade reiniziade
