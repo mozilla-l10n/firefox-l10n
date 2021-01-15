@@ -395,7 +395,7 @@ touch-warning = асинхронне сенсорне введення вимк�
 
 ## Strings representing the status of the Enterprise Policies engine.
 
-policies-inactive = Неактивно
+policies-inactive = Неактивні
 policies-active = Активні
 policies-error = Помилка
 
