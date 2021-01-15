@@ -44,6 +44,18 @@ cert-error-not-yet-valid-now = I sîts web a dimostrin la lôr identitât par mi
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Codiç di erôr: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = I sîts web a dimostrin la lôr identitât par mieç di certificâts, che a son emetûts di autoritâts di certificazion. La plui part dai navigadôrs no si fide plui dai certificâts mandâts fûr di GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } al dopre un certificât che al rive di une di chestis autoritâts e duncje la identitât dal sît web no pues vignî comprovade.
+cert-error-symantec-distrust-admin = Tu puedis notificâ al aministradôr dal sît web chest probleme.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Sigurece rigorose di traspuart HTTP: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Fissaç de clâf publiche HTTP: { $hasHPKP }
+cert-error-details-cert-chain-label = Cjadene dai certificâts:
+open-in-new-window-for-csp-or-xfo-error = Vierç sît intun gnûf barcon
 
 ## Messages used for certificate error titles
 
