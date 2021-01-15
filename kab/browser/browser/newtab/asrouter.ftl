@@ -282,7 +282,9 @@ cfr-whatsnew-search-shortcuts-body = Akka ura, mi ara taruḍ amsedday n unadi n
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Ammesten mgal yir inagan n tuqqna iǧehden
+cfr-whatsnew-supercookies-body = Ismal web zemren s tuffra ad seddun “supercookie” deg yiminig-ik·im ara yizmiren ad ak·akem-yeḍfer deg web, ula mi ara tsefḍeḍ inagan n tuqqna. { -brand-short-name } tura yettmuddu ammesten iǧehden aṭas mgal n yinagan n tuqqna uḥricen i wakken ur ttuseqdacen ara deg uḍfar n tigawin-ik·im srid seg usmel ɣer wayeḍ.
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Acraḍ n yisebter ifazen
+cfr-whatsnew-bookmarking-body = Yeshel maḍi ad teǧǧeḍ lateṛ n yismal-ik·im ufrinen. { -brand-short-name } tura yecfa ɣef adig-inek·inem yettwafernen i ticraḍ n yisebtar yettuskelsen, yeskan afeggag n yifecka n tecraḍ n yisebtar s wudem amezwer deg waccaren imaynuten, yerna ad ak·am-imudd anekcum fessusen ɣer ticraḍ n yisebtar-ik·im srid seg ukaram n ufeggag n yifecka.
