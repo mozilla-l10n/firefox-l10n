@@ -213,6 +213,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Экспарт лагінаў і пароляў
 about-logins-confirm-export-dialog-message = Вашы паролі будуць захаваны як звычайны тэкст (напр., BadP@ssw0rd), таму кожны, хто можа адкрыць экспартаваны файл, можа ўбачыць іх.
 about-logins-confirm-export-dialog-confirm-button = Экспартаваць…
+about-logins-alert-import-title = Імпарт завершаны
+about-logins-alert-import-message = Паглядзець падрабязную зводку імпарту
 confirm-discard-changes-dialog-title = Адхіліць незахаваныя змены?
 confirm-discard-changes-dialog-message = Усе незапісаныя змены будуць страчаны.
 confirm-discard-changes-dialog-confirm-button = Адхіліць
@@ -274,3 +276,22 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Дакумент CSV
        *[other] Файл CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Імпарт завершаны
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Дададзены новы лагін:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Дададзены новыя лагіны:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Дададзена новых лагінаў:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Абноўлены наяўны лагін:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Абноўлены наяўныя лагіны:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Абноўлена наяўных лагінаў:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-done = Гатова

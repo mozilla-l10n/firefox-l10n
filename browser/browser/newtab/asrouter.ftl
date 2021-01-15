@@ -292,6 +292,7 @@ cfr-whatsnew-search-shortcuts-body = Цяпер, калі вы ўводзіце 
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Абарона ад зламысных суперкукі
 
 ## What's new: Better bookmarking
 
