@@ -270,7 +270,7 @@ download-always-ask-where =
     .label = Sempre perguntar onde salvar arquivos
     .accesskey = a
 applications-header = Aplicativos
-applications-description = Escolha o que o { -brand-short-name } faz com os arquivos que você baixa e os aplicativos que você usa enquanto navega.
+applications-description = Escolha o que o { -brand-short-name } deve fazer com os arquivos que você baixa e aplicativos que você usa ao navegar.
 applications-filter =
     .placeholder = Pesquisar tipos de arquivos ou aplicativos
 applications-type-column =
@@ -348,7 +348,7 @@ applications-use-os-default-label =
 
 ##
 
-drm-content-header = Conteúdo DRM (Gerenciamento de Direitos Digitais)
+drm-content-header = Conteúdo DRM (gerenciamento de direitos digitais)
 play-drm-content =
     .label = Reproduzir conteúdo controlado por DRM
     .accesskey = R
