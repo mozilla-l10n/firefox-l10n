@@ -194,6 +194,7 @@ support-third-party-modules-version = Version du fichier
 support-third-party-modules-vendor = Informations sur l’éditeur
 support-third-party-modules-occurrence = Occurrences
 support-third-party-modules-process = Type et identifiant du processus
+support-third-party-modules-thread = Fil d’exécution
 support-third-party-modules-duration = Durée de chargement (ms)
 support-third-party-modules-empty = Aucun module tiers n’a été chargé.
 support-third-party-modules-no-value = (Aucune valeur)
