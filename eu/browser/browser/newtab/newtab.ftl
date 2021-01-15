@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Bilatu webean
     .title = Bilatu webean
     .aria-label = Bilatu webean
+newtab-search-box-text = Bilatu webean
+newtab-search-box-input =
+    .placeholder = Bilatu webean
+    .aria-label = Bilatu webean
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Gehitu bilaketa-motorra
 newtab-topsites-add-topsites-header = Maiz erabilitako gune berria
+newtab-topsites-add-shortcut-header = Lasterbide berria
 newtab-topsites-edit-topsites-header = Editatu maiz erabilitako gunea
+newtab-topsites-edit-shortcut-header = Editatu lasterbidea
 newtab-topsites-title-label = Izenburua
 newtab-topsites-title-input =
     .placeholder = Idatzi izenburua
