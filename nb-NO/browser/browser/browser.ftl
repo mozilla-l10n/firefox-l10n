@@ -564,6 +564,7 @@ library-bookmarks-bookmark-this-page =
     .label = Bokmerk denne siden
 library-bookmarks-bookmark-edit =
     .label = Rediger dette bokmerket
+library-recent-activity-label = Nylig aktivitet
 
 ## More items
 

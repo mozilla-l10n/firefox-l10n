@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = Last ned appen
 
 cfr-whatsnew-searchbar-title = Skriv mindre, finn mer med adressefeltet
 cfr-whatsnew-searchbar-body-topsites = Velg adresselinjen, og en boks med lenker til dine mest besøkte nettsteder vil bli vist.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Forstørrelsesglassikon
 
 ## Picture-in-Picture
@@ -280,3 +283,10 @@ cfr-whatsnew-media-keys-button = Finn ut hvordan
 
 cfr-whatsnew-search-shortcuts-header = Søk snarveier i adresselinjen
 cfr-whatsnew-search-shortcuts-body = Når nå du skriver inn en søkemotor eller et spesifikt nettsted i adresselinjen, vises en blå snarvei i søkeforslagene nedenfor. Velg snarveien for å fullføre søket direkte fra adresselinjen.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Beskyttelse mot ondsinnede super-infokapsler
+
+## What's new: Better bookmarking
+
