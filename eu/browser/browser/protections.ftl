@@ -126,6 +126,7 @@ monitor-no-breaches-title = Berri onak!
 monitor-no-breaches-description = Ez zaude datu-urratze ezagunetan. Hau aldatuko balitz, jakinarazi egingo dizugu.
 monitor-view-report-link = Ikusi txostena
     .title = Argitu urratzeak { -monitor-brand-short-name }(e)n
+monitor-breaches-unresolved-title = Ebatzi zure datu-urratzeak
 monitor-manage-breaches-link = Kudeatu datu-urratzeak
     .title = Kudeatu datu-urratzeak { -monitor-brand-short-name }(e)n
 monitor-breaches-resolved-description = Zure helbide elektronikoa datu-urratze berriren batean agertuko balitz, jakinarazi egingo dizugu.
