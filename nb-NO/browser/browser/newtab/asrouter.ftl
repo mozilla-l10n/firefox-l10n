@@ -290,3 +290,4 @@ cfr-whatsnew-supercookies-header = Beskyttelse mot ondsinnede super-infokapsler
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Bedre bokmerking
