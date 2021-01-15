@@ -95,7 +95,7 @@ return-to-amo-subtitle = Чудово, ви отримали { -brand-short-name
 # Variables:
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-title = Тепер перейдімо до <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
-return-to-amo-add-extension-label = Встановити розширення
+return-to-amo-add-extension-label = Додати розширення
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
@@ -221,7 +221,7 @@ onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } створ�
 onboarding-lockwise-strong-passwords-button = Керуйте своїми паролями
 onboarding-facebook-container-title = Встановіть обмеження для Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } обмежує ваш соціальний профіль від доступу до всього іншого, ускладнюючи для Facebook можливість стежити за вами з метою показу реклами.
-onboarding-facebook-container-button = Встановити розширення
+onboarding-facebook-container-button = Додати розширення
 onboarding-import-browser-settings-title = Імпортуйте свої закладки, паролі та іншу інформацію
 onboarding-import-browser-settings-text = Швидке занурення — легко перенесіть свої сайти й налаштування з Chrome.
 onboarding-import-browser-settings-button = Імпорт даних Chrome

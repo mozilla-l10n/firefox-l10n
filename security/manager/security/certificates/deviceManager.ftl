@@ -50,8 +50,8 @@ load-device-filename =
     .value = Назва файлу модуля
     .accesskey = в
 load-device-browse =
-    .label = Перегляд…
-    .accesskey = я
+    .label = Огляд…
+    .accesskey = г
 
 ## Token Manager
 

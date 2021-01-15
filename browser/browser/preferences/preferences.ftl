@@ -89,10 +89,10 @@ extension-controlled-homepage-override = Розширення <img data-l10n-nam
 extension-controlled-new-tab-url = Розширення <img data-l10n-name="icon"/> { $name } контролює вашу сторінку нової вкладки.
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlled-password-saving = Розширення <img data-l10n-name="icon"/> { $name } контролює ці налаштування.
+extension-controlled-password-saving = Розширення <img data-l10n-name="icon"/> { $name } контролює цей параметр.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Розширення <img data-l10n-name="icon"/> { $name } контролює це налаштування.
+extension-controlled-web-notifications = Розширення <img data-l10n-name="icon"/> { $name } контролює цей параметр.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Розширення <img data-l10n-name="icon"/> { $name } встановило ваш типовий засіб пошуку.
@@ -101,7 +101,7 @@ extension-controlled-default-search = Розширення <img data-l10n-name="
 extension-controlled-privacy-containers = Для роботи розширення <img data-l10n-name="icon"/> { $name } необхідні вкладки в контейнері.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Розширення <img data-l10n-name="icon"/> { $name } контролює ці налаштування.
+extension-controlled-websites-content-blocking-all-trackers = Розширення <img data-l10n-name="icon"/> { $name } контролює цей параметр.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Розширення <img data-l10n-name="icon"/> { $name } контролює спосіб з'єднання { -brand-short-name } з Інтернетом.
@@ -928,7 +928,7 @@ sitedata-cookies-exceptions =
 addressbar-header = Панель адреси
 addressbar-suggest = При використанні панелі адреси, пропонувати
 addressbar-locbar-history-option =
-    .label = Історію переглядів
+    .label = Історію перегляду
     .accesskey = т
 addressbar-locbar-bookmarks-option =
     .label = Закладки
