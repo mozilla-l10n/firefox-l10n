@@ -9,8 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Створити нову подію" >
 <!ENTITY calendar.newtask.button.tooltip          "Створити нове завдання" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Завдання" >
-
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показати завершені завдання">
 
 <!ENTITY calendar.today.button.label          "Сьогодні">
@@ -44,7 +42,7 @@
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Сортувати за датою завершення">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Термін">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Сортувати за терміном">
-<!ENTITY calendar.unifinder.tree.completeddate.label       "Виконано">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Завершено">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Сортувати за датою виконання">
 <!ENTITY calendar.unifinder.tree.categories.label          "Категорія">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Сортувати за категорією">
@@ -355,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Колір:">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Формат:">
 <!ENTITY calendarproperties.location.label                 "Місце:">
 <!ENTITY calendarproperties.refreshInterval.label          "Оновлювати календар:">
@@ -364,7 +361,6 @@
 <!ENTITY calendarproperties.readonly.label                 "Тільки для читання">
 <!ENTITY calendarproperties.firealarms.label               "Показати сповіщення">
 <!ENTITY calendarproperties.cache3.label                   "Робота поза мережею">
-<!ENTITY calendarproperties.enabled.label                  "Перемкнути цей календар на">
 <!ENTITY calendarproperties.enabled2.label                 "Увімкнути цей календар">
 <!ENTITY calendarproperties.forceDisabled.label            "Не знайдено постачальника для цього календаря. Іноді це може настати після вимикання або вилучення спеціальних додатків.">
 <!ENTITY calendarproperties.unsubscribe.label              "Відписатись">
