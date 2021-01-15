@@ -17,7 +17,33 @@ cert-error-trust-untrusted-issuer = Il certificât nol è atendibil parcè che i
 cert-error-trust-signature-algorithm-disabled = Il certificât nol è atendibil parcè che al è stât firmât doprant un algoritmi di firme che al jere stât disabilitât, chest par vie che chel algoritmi nol è sigûr.
 cert-error-trust-expired-issuer = Il certificât nol è atendibil parcè che il certificât dal emitent al è scjadût.
 cert-error-trust-self-signed = Il certificât nol è atendbil parcè che al è auto firmât.
-cert-error-untrusted-default = Il certificât nol ven di une risultive afidabile.
+cert-error-trust-symantec = I certificâts mandâts fûr di GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign no son plui considerâts sigûrs parcè timp indaûr che chestis autoritâts di certificazion no son rivadis a lâ daûr des pratichis di sigurece.
+cert-error-untrusted-default = Il certificât nol ven di une font afidabile.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di chest sît parcè che al dopre un certificât che nol è valit par { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di chest sît parcè che al dopre un certificât che nol è valit par { $hostname }. Il certificât al è valit dome par <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di chest sît parcè che al dopre un certificât che nol è valit par { $hostname }. Il certificât al è valit dome par { $alt-name }.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = I sîts web a dimostrin la lôr identitât par mieç di certificâts. { -brand-short-name } no si fide di chest sît parcè che al dopre un certificât che nol è valit par { $hostname }. Il certificât al è valit dome par chescj nons: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = I sîts web a dimostrin la lôr identitât par mieç di certificâts, che a son valits par un ciert periodi di timp. Il certificât par { $hostname } al è scjadût ai { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = I sîts web a dimostrin la lôr identitât par mieç di certificâts., che a son valits par un ciert periodi di timp. Il certificât par { $hostname } nol sarà valit fin ai { $not-before-local-time }.
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Codiç di erôr: <a data-l10n-name="error-code-link">{ $error }</a>
 
 ## Messages used for certificate error titles
 
