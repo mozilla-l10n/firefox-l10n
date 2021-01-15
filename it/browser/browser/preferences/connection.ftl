@@ -66,6 +66,7 @@ connection-proxy-noproxy = Nessun proxy per
 connection-proxy-noproxy-desc = Esempio: .mozilla.org, .net.nz, 192.168.1.0/24
 
 connection-proxy-noproxy-localhost-desc = Le connessioni verso localhost, 127.0.0.1 e ::1 non usano mai proxy.
+connection-proxy-noproxy-localhost-desc-2 = Le connessioni verso localhost, 127.0.0.1/8 e ::1 non usano mai proxy.
 
 connection-proxy-autotype =
     .label = Configurazione automatica dei proxy (URL)
