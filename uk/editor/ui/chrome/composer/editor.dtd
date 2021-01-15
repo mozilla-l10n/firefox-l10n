@@ -40,7 +40,7 @@
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label "Перевірка коду HTML">
-<!ENTITY validateCmd.accesskey "З">
+<!ENTITY validateCmd.accesskey "П">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Нормальний">

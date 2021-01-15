@@ -146,7 +146,7 @@ mail-play-sound-label =
     .accesskey =
         { PLATFORM() ->
             [macos] з
-           *[other] з
+           *[other] к
         }
 mail-play-button =
     .label = Відтворити
