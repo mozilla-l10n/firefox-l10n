@@ -17,40 +17,35 @@
 <!ENTITY  generalSize           "Velikost:">
 <!ENTITY  generalSource         "Vir predpomnilnika:">
 <!ENTITY  generalModified       "Spremenjeno:">
+<!ENTITY  generalEncoding2      "Kodiranje besedila:">
 <!ENTITY  generalMetaName       "Ime">
 <!ENTITY  generalMetaContent    "Vsebina">
 <!ENTITY  generalSecurityDetails           "Podrobnosti">
 
 <!ENTITY  formsTab              "Obrazci">
 <!ENTITY  formName              "Ime">
+<!ENTITY  formEncoding          "Kodiranje:">
+<!ENTITY  formTarget            "Cilj:">
 <!ENTITY  formFields            "Polja:">
 <!ENTITY  formLabel             "Oznaka">
 <!ENTITY  formFName             "Ime polja">
+<!ENTITY  formType              "Vrsta">
 <!ENTITY  formCValue            "Trenutna vrednost">
 
 <!ENTITY  linksTab              "Povezave">
 <!ENTITY  linkName              "Ime">
+<!ENTITY  linkAccessKey         "Ključ za dostop">
 
-<!ENTITY  mediaAlt              "Nadomestno besedilo:">
 <!ENTITY  mediaAltHeader        "Nadomestno besedilo">
 <!ENTITY  mediaType             "Vrsta">
 <!ENTITY  mediaSize             "Velikost">
-<!ENTITY  mediaTitle            "Naslov:">
 <!ENTITY  mediaLongdesc         "Dolg opis:">
 <!ENTITY  mediaSaveAs           "Shrani kot …">
 
 <!ENTITY  feedSubscribe         "Naroči se">
 
 <!ENTITY  permTab               "Dovoljenja">
-<!ENTITY  permUseDefault        "Uporabi privzeto">
-<!ENTITY  permAskAlways         "Vedno vprašaj">
-<!ENTITY  permAllow             "Dovoli">
 <!ENTITY  permissionsFor        "Dovoljenja za:">
-<!ENTITY  permImage             "Naloži slike">
-<!ENTITY  permPopup             "Odpri pojavna okna">
-<!ENTITY  permCookie            "Nastavi piškotke">
-<!ENTITY  permNotifications     "Prikaži obvestila">
-<!ENTITY  permInstall           "Namesti razširitve ali teme">
 
 <!ENTITY  securityTab           "Varnost">
 <!ENTITY  securityHeader        "Varnostni podatki za to stran">
@@ -62,7 +57,6 @@
 <!ENTITY  securityView.identity.owner    "Lastnik:">
 <!ENTITY  securityView.identity.domain   "Spletno mesto:">
 <!ENTITY  securityView.identity.verifier "Overil:">
-
 <!ENTITY  securityView.identity.validity "Poteče:">
 
 <!ENTITY  securityView.privacy.header                   "Zasebnost in zgodovina">
