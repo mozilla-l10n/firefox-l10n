@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Ieškokite saityne
     .title = Ieškokite saityne
     .aria-label = Ieškokite saityne
+newtab-search-box-text = Ieškokite saityne
+newtab-search-box-input =
+    .placeholder = Ieškokite saityne
+    .aria-label = Ieškokite saityne
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Pridėti ieškyklę
 newtab-topsites-add-topsites-header = Nauja mėgstama svetainė
+newtab-topsites-add-shortcut-header = Naujas leistukas
 newtab-topsites-edit-topsites-header = Redaguoti mėgstamą svetainę
+newtab-topsites-edit-shortcut-header = Keisti leistuką
 newtab-topsites-title-label = Pavadinimas
 newtab-topsites-title-input =
     .placeholder = Įveskite pavadinimą

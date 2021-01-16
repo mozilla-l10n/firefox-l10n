@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = Neįmanoma pakeisti
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi jis nėra pozicionuotas elementas.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi nėra nustatyta <strong>overflow:hidden</strong> savybė.
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> nedaro poveikio šiam elementui, kadangi jo savybė <strong>outline-style</strong> turi reikšmę <strong>auto</strong> arba <strong>none</strong>.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> neturi jokios įtakos vidiniams lentelės elementams.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> neturi jokios įtakos vidiniams lentelės elementams, išskyrus langelius.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
