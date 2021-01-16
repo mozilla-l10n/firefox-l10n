@@ -294,4 +294,16 @@ about-logins-import-dialog-items-modified =
         [few] <span>Абноўлены наяўныя лагіны:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Абноўлена наяўных лагінаў:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Знойдзены дублікатны лагін:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
+        [few] <span>Знойдзены дублікатныя лагіны:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
+       *[many] <span>Знойдзена дублікатных лагінаў:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартавана)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Памылка:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
+        [few] <span>Памылкі:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
+       *[many] <span>Памылак:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
+    }
 about-logins-import-dialog-done = Гатова
