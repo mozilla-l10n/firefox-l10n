@@ -68,6 +68,7 @@ policy-LegacyProfiles = Vypnutí funkce vynucující samostatný profil pro kaž
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Povoluje staré výchozí nastavení chování SameSite cookies.
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Nastaví staré výchozí chování SameSite cookies z uvedených serverů.
 
 ##
@@ -81,11 +82,13 @@ policy-OfferToSaveLogins =
         [neuter] { -brand-short-name(case: "loc") }
        *[other] aplikaci { -brand-short-name }
     }. Lze použít hodnoty true i false.
+policy-OfferToSaveLoginsDefault = Nastavení výchozí hodnoty pro to, zda má { -brand-short-name } nabízet ukládání přihlašovacích údajů. Platné hodnoty jsou true a false.
 policy-OverrideFirstRunPage = Nastavení vlastní stránky při prvním spuštění. Pokud nechcete při prvním spuštění zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pokud nechcete po aktualizaci zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-PasswordManagerEnabled = Povolení ukládat přihlašovací údaje do správce hesel.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Zablokování nebo nastavení PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
+policy-Permissions2 = Nastavení oprávnění pro kameru, mikrofon, zjišťování polohy, oznámení a automatické přehrávání.
 policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.
 policy-PromptForDownloadLocation = Zeptat se na adresář před stažením souboru.
 policy-Proxy = Nastavení proxy.
