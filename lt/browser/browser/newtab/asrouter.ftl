@@ -129,6 +129,9 @@ cfr-whatsnew-lockwise-take-link-text = Parsisiųskite programą
 
 cfr-whatsnew-searchbar-title = Rašykite mažiau, raskite daugiau su adreso juosta
 cfr-whatsnew-searchbar-body-topsites = Dabar jums spustelėjus ant adreso juostos, pasirodys jūsų lankomiausių svetainių sąrašas.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Didinamojo stiklo piktograma
 
 ## Picture-in-Picture
@@ -286,3 +289,10 @@ cfr-whatsnew-media-keys-button = Sužinokite kaip
 
 cfr-whatsnew-search-shortcuts-header = Paieškos leistukai adreso lauke
 cfr-whatsnew-search-shortcuts-body = Dabar jums renkant ieškyklės ar tam tikros svetainės pavadinimą adreso lauke, žemiau esančiuose paieškos siūlymuose pasirodys mėlynas leistukas. Pasirinkę šį leistuką, paiešką įvykdysite tiesiai iš adreso lauko.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Apsauga nuo kenkėjiškų „super“ slapukų
+
+## What's new: Better bookmarking
+

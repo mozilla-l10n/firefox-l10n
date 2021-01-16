@@ -566,6 +566,7 @@ library-bookmarks-bookmark-this-page =
     .label = Įrašyti į adresyną
 library-bookmarks-bookmark-edit =
     .label = Taisyti adresyno įrašą
+library-recent-activity-label = Paskiausia veikla
 
 ## More items
 
