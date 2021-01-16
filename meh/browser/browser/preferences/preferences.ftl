@@ -48,6 +48,9 @@ category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
 pane-experimental-subtitle = Kaka ji precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: kaka ji precaución
+pane-experimental-reset =
+    .label = Natee tuku predeterminados
+    .accesskey = R
 help-button-label = Soporte { -brand-short-name }
 addons-button-label = Complementos ji temas
 focus-search =
@@ -426,6 +429,8 @@ home-prefs-topsites-header =
     .label = Da sitio vii
 home-prefs-topsites-description = Da nuu ni´inu kue´e
 home-prefs-shortcuts-description = Da nuu chuva´anu a xíín ne´yanu
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Da atajo íyo patrocinado
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -449,6 +454,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = Nxinuun Ntañu´u
 home-prefs-highlights-option-saved-to-pocket =
     .label = Páginas nchuva´a { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Da a skuata nsá´á
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -493,6 +500,7 @@ search-show-suggestions-private-windows =
     .label = Xituvi sugerencias nánuku nuu da ventana yu'u
 suggestions-addressbar-settings-generic = Sama preferencias nuu sugerencias ka̱a̱ nánuku
 search-one-click-header = Da nánuku ji iin clic
+search-one-click-header2 = Atajos nánuku
 search-choose-engine-column =
     .label = Ka̱a̱ nánuku
 search-choose-keyword-column =
@@ -816,6 +824,9 @@ addressbar-locbar-openpage-option =
 addressbar-locbar-topsites-option =
     .label = Da sitio vii
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Da ka̱a̱ nánuku
+    .accesskey = a
 addressbar-suggestions-settings = Sama preferencias nuu sugerencias ka̱a̱ nánuku
 
 ## Privacy Section - Content Blocking
@@ -838,6 +849,8 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-cross-site-cookies = Cookies ji da sitios
+content-blocking-cross-site-tracking-cookies = Cookies de rastreo multisitio
 content-blocking-all-cookies = Kuaiyo da cookies
 content-blocking-unvisited-cookies = Cookies nuu web ntu nne'ya
 content-blocking-all-third-party-cookies = Kuaiyo Cookies da inka

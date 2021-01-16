@@ -51,6 +51,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Chu´un inka ka̱a̱…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 <!ENTITY fxa.menu.signin.label "Kajie'e sesión &brandProductName;">
+<!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
 <!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.settings.label "Ke´i">
 <!ENTITY fxa.menu.accountSettings.label "Da nu ke'i cuenta">

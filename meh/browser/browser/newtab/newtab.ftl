@@ -171,6 +171,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Da sitio vii
 newtab-section-header-highlights = A xinañu'u
+newtab-section-header-recent-activity = Da a skuata nsá´á
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = A kachi { $provider }
@@ -209,6 +210,14 @@ newtab-error-fallback-refresh-link = Nachu´un página je nakajie´e tuku.
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Da acceso ñama
+newtab-custom-shortcuts-subtitle = Da nuu chuva´anu a xíín ne´yanu
+newtab-custom-row-selector =
+    { $num ->
+       *[other] { $num } filas
+    }
+newtab-custom-sponsored-sites = Da acceso íyo patrocinado
+newtab-custom-recent-title = Da a skuata nsá´á
 newtab-custom-close-button = Nakasɨ
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
