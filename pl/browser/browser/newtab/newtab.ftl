@@ -220,7 +220,7 @@ newtab-error-fallback-refresh-link = Odśwież stronę, by spróbować ponownie
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Skróty
-newtab-custom-shortcuts-subtitle = Zachowywane i odwiedzane strony.
+newtab-custom-shortcuts-subtitle = Zachowane i odwiedzane strony.
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } wiersz
