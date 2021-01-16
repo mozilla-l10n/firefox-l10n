@@ -124,8 +124,8 @@ openpgp-delete-key =
     .label = Smazat klíč
     .accesskey = S
 openpgp-key-man-revoke-key =
-    .label = Revokovat klíč
-    .accesskey = R
+    .label = Zneplatnit klíč
+    .accesskey = Z
 openpgp-key-man-key-props =
     .label = Vlastnosti klíče
     .accesskey = V
@@ -163,7 +163,7 @@ openpgp-key-man-key-details-key =
 openpgp-key-details-title =
     .title = Vlastnosti klíče
 openpgp-key-details-signatures-tab =
-    .label = Potvrzení pravosti
+    .label = Potvrzení
 openpgp-key-details-structure-tab =
     .label = Struktura
 openpgp-key-details-uid-certified-col =
@@ -191,15 +191,57 @@ openpgp-key-details-sel-action =
     .label = Vybrat akci…
     .accesskey = V
 openpgp-key-details-also-known-label = Údajné alternativní identity vlastníka klíče:
+openpgp-card-details-close-window-label =
+    .buttonlabelaccept = Zavřít
+openpgp-acceptance-label =
+    .label = Vaše přijetí
+openpgp-acceptance-rejected-label =
+    .label = Ne, odmítnout tento klíč.
+openpgp-acceptance-undecided-label =
+    .label = Ještě ne, možná později.
+openpgp-acceptance-unverified-label =
+    .label = Ano, ale neověřil(a) jsem, že se jedná o správný klíč.
+openpgp-acceptance-verified-label =
+    .label = Ano, osobně jsem ověřil(a), že má tento klíč správný otisk.
+key-accept-personal =
+    U tohoto klíče máte veřejnou i tajnou část. Můžete ho používat jako osobní klíč.
+    Pokud vám tento klíč dal někdo jiný, nepoužívejte ho jako osobní klíč.
+key-personal-warning = Vytvořili jste tento klíč vy a odkazuje zobrazené vlastnictví klíče na vás?
+openpgp-personal-no-label =
+    .label = Ne, nepoužívat ho jako můj osobní klíč.
+openpgp-personal-yes-label =
+    .label = Ano, považovat tento klíč za osobní klíč.
+openpgp-copy-cmd-label =
+    .label = Kopírovat
 
 ## e2e encryption settings
 
 openpgp-add-key-button =
     .label = Přidat klíč…
     .accesskey = a
+e2e-learn-more = Zjistit více
+openpgp-keygen-success = Klíč OpenPGP byl úspěšně vytvořen!
+openpgp-keygen-import-success = Klíče OpenPGP byly úspěšně naimportovány!
+openpgp-keygen-external-success = ID externího klíče v GnuPG bylo uloženo!
 
 ## OpenPGP Key selection area
 
+openpgp-radio-none =
+    .label = Žádný
+openpgp-radio-none-desc = Pro tuto identitu OpenPGP nepoužívat.
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expires = Datum konce platnosti: { $date }
+openpgp-key-expires-image =
+    .tooltiptext = Platnost klíče skončí za méně než 6 měsíců
+#   $key (String) - the expiration date of the OpenPGP key
+openpgp-radio-key-expired = Platnost skončila dne { $date }
+openpgp-key-expired-image =
+    .tooltiptext = Platnost klíče skončila
+openpgp-key-expand-section =
+    .tooltiptext = Více informací
+openpgp-key-revoke-title = Zneplatnit klíč
+openpgp-key-edit-title = Změnit klíč OpenPGP
+openpgp-key-edit-date-title = Prodloužit dobu platnosti
 
 ## Account settings export output
 
