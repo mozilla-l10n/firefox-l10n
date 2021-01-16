@@ -116,13 +116,13 @@ policy-OfferToSaveLogins =
         [neuter] v { -brand-short-name(case: "loc") }
        *[other] v aplikaci { -brand-short-name }
     }. Lze použít hodnoty true i false.
-policy-OfferToSaveLoginsDefault = Nastavení výchozí hodnoty, zda má { -brand-short-name } nabízet ukládání přihlašovacích údajů. Platné hodnoty jsou true a false.
+policy-OfferToSaveLoginsDefault = Nastavení výchozí hodnoty pro to, zda má { -brand-short-name } nabízet ukládání přihlašovacích údajů. Platné hodnoty jsou true a false.
 policy-OverrideFirstRunPage = Nastavení vlastní stránky při prvním spuštění. Pokud nechcete při prvním spuštění zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pokud nechcete po aktualizaci zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-PasswordManagerEnabled = Povolení ukládat přihlašovací údaje do správce hesel.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Zablokování nebo nastavení PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
-policy-Permissions2 = Nastavení oprávnění pro kameru, mikrofon, polohu, oznámení a automatické přehrávání.
+policy-Permissions2 = Nastavení oprávnění pro kameru, mikrofon, zjišťování polohy, oznámení a automatické přehrávání.
 policy-PictureInPicture = Povolení nebo zakázání režimu obraz v obraze.
 policy-PopupBlocking = Povolení zobrazování vyskakovacích oken ve výchozím stavu.
 policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.
