@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
+carddav-url-label =
+    .value = URL adresa CardDAV:
+    .accesskey = V
 carddav-refreshinterval-label =
     .label = Synchronizovat:
     .accesskey = y
@@ -23,3 +26,6 @@ carddav-refreshinterval-hours-value =
             [few] každé { $hours } hodiny
            *[other] každých { $hours } hodin
         }
+carddav-readonly-label =
+    .label = Pouze pro čtení
+    .accesskey = r

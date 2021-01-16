@@ -4,6 +4,12 @@
 
 saved-logins =
     .title = Uložené přihlašovací údaje
+window-close =
+    .key = w
+focus-search-shortcut =
+    .key = f
+focus-search-altshortcut =
+    .key = k
 copy-provider-url-cmd =
     .label = Kopírovat URL
     .accesskey = p
