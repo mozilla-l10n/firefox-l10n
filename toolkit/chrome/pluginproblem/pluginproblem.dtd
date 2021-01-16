@@ -4,7 +4,7 @@
 
 <!ENTITY tapToPlayPlugin "Toccare qui per attivare il plugin.">
 <!ENTITY clickToActivatePlugin "Attiva plugin.">
-<!ENTITY checkForUpdates "Ricerca aggiornamenti…">
+<!ENTITY checkForUpdates "Controlla aggiornamenti…">
 <!ENTITY blockedPlugin.label "Questo plugin è stato bloccato per motivi di sicurezza.">
 <!ENTITY hidePluginBtn.label "Nascondi plugin">
 <!ENTITY managePlugins "Gestione plugin…">
