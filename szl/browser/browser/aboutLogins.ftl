@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importuj z inkszyj przeglōndarki…
 about-logins-menu-menuitem-import-from-a-file = Importuj ze zbioru…
 about-logins-menu-menuitem-export-logins = Eksportuj loginy…
+about-logins-menu-menuitem-remove-all-logins = Wyciep wszyskie dane logowanio
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ôpcyje
@@ -169,9 +170,28 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Skasować te dane logowanio?
 confirm-delete-dialog-message = Tyj akcyje niy idzie cofnōńć.
 about-logins-confirm-remove-dialog-confirm-button = Skasuj
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Skasuj
+       *[other] Skasuj wszyskie
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ja, skasuj te dane logowanio
+        [one] Ja, skasuj te dane logowanio
+        [few] Ja, skasuj te dane logowanio
+       *[many] Ja, skasuj te dane logowanio
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Skasować { $count } dane logowanio?
+        [few] Skasować { $count } danych logowanio?
+       *[many] Skasować { $count } danych logowanio?
+    }
 about-logins-confirm-export-dialog-title = Eksportuj dane logowanio i hasła
 about-logins-confirm-export-dialog-message = Twoje hasła bydōm spamiyntane za czytelny tekst (bp. Złeh@sł0), tōż kożdy, fto bydzie mōg ôtworzić eksportowany zbiōr, bydzie je widzieć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
+about-logins-alert-import-title = Import je skōńczōny
 confirm-discard-changes-dialog-title = Ôdciepnōńć niyspamiyntane umiany?
 confirm-discard-changes-dialog-message = Wszyjske niyspamiyntane umiany bydōm stracōne.
 confirm-discard-changes-dialog-confirm-button = Ôdciep
@@ -233,3 +253,9 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokumynt CSV
        *[other] Zbiōr CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-done = Fertich
