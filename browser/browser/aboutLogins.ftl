@@ -175,7 +175,12 @@ about-logins-confirm-remove-dialog-title = このログイン情報を消去し�
 confirm-delete-dialog-message = この操作は元に戻せません。
 about-logins-confirm-remove-dialog-confirm-button = 消去
 
-about-logins-confirm-remove-all-dialog-confirm-button = すべて消去
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+  { $count ->
+     [1] 消去
+    *[other] すべて消去
+  }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
   { $count ->
      [1] はい、このログイン情報を消去します
@@ -203,6 +208,9 @@ about-logins-confirm-remove-all-sync-dialog-message=
 about-logins-confirm-export-dialog-title = ログイン情報とパスワードをエクスポート
 about-logins-confirm-export-dialog-message = あなたのパスワードは可読テキストとして保存されます。(例: BadP@ssw0rd) エクスポートされたファイルを開ける人なら誰でも内容を読み取ることが可能になります。
 about-logins-confirm-export-dialog-confirm-button = エクスポート...
+
+about-logins-alert-import-title = インポート完了
+about-logins-alert-import-message = インポート結果を表示
 
 confirm-discard-changes-dialog-title = 未保存の変更を破棄しますか？
 confirm-discard-changes-dialog-message = 変更内容はすべて失われます。
@@ -259,3 +267,28 @@ about-logins-import-file-picker-import-button = インポート
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title = CSV ファイル
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = インポート完了
+about-logins-import-dialog-items-added =
+  { $count ->
+     *[other] <span>新しいログイン情報の追加:</span> <span data-l10n-name="count">{ $count }</span>
+  }
+
+about-logins-import-dialog-items-modified =
+  { $count ->
+     *[other] <span>既存のログイン情報の更新:</span> <span data-l10n-name="count">{ $count }</span>
+  }
+
+about-logins-import-dialog-items-no-change =
+  { $count ->
+     *[other] <span>ログイン情報の重複:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(インポートされませんでした)</span>
+  }
+about-logins-import-dialog-items-error =
+  { $count ->
+      *[other] <span>エラー:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(インポートされませんでした)</span>
+  }
+about-logins-import-dialog-done = 完了
