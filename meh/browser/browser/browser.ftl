@@ -556,6 +556,7 @@ library-bookmarks-bookmark-this-page =
     .label = Tee página ya´a nuu a ta´an ini noo´o
 library-bookmarks-bookmark-edit =
     .label = Sama a ta´an ini noo´o ya´a
+library-recent-activity-label = Da a skuata nsá´á
 
 ## More items
 

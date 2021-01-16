@@ -20,12 +20,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Nánuku nuu Web
     .title = Nánuku nuu Web
     .aria-label = Nánuku nuu Web
+newtab-search-box-text = Nánuku nuu Web
+newtab-search-box-input =
+    .placeholder = Nánuku nuu Web
+    .aria-label = Nánuku nuu Web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Chisó ka̱a̱ nánuku
 newtab-topsites-add-topsites-header = Da sitio xinañu'u
+newtab-topsites-add-shortcut-header = A jíía acceso ñama
 newtab-topsites-edit-topsites-header = Natee sitio xinañu´u
+newtab-topsites-edit-shortcut-header = Natee acceso ñama
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Chu´un iin título
@@ -53,6 +59,7 @@ newtab-confirm-delete-history-p2 = Ya´a nkuvi tanɨ.
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Patrocinado
 
 ## Context Menu - Action Tooltips.
 

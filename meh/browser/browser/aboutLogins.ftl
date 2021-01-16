@@ -189,6 +189,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = Kuiso da nuu kajie'e sesión ji contraseñas
 about-logins-confirm-export-dialog-message = Da contraseñas noo´o nchuva´a kua tu'un (kua,  BadP@ssw0rd) je de íyo neva síne archvio kuvi kutuvi.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-alert-import-message = Kune'ya resumen da a nnasia'a
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
 confirm-discard-changes-dialog-message = Kuaiyo da nsama je ntu nchuva´a naa.
 confirm-discard-changes-dialog-confirm-button = Xita
@@ -250,3 +251,14 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Archivo CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Nnɨ'ɨ nasia´a
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Ntee a jíía nuu kajie'e sesión:</span><span-data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-done = Nsá´á
