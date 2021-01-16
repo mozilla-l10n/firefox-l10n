@@ -48,7 +48,9 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pabandyki
 inactive-css-not-display-block-on-floated-fix = Pabandykite nuimti <strong>float</strong> arba pridėti <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Pabandykite nustatyti jo <strong>position</strong> savybės reikšmę į kitą negu <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Pabandykite pridėti <strong>overflow:hidden</strong>. { learn-more }
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Pabandykite nustatyti jo <strong>outline-style</strong> savynės reikšmę į kitą negu <strong>auto</strong> ar <strong>none</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Pabandykite nustatyti jo <strong>display</strong> savybės reikšmę į kitą negu <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, arba <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pabandykite nustatyti jo <strong>display</strong> savybės reikšmę į kitą negu <strong>table-column</strong>, <strong>table-column</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, arba <strong>table-footer-group</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Pabandykite nustatyti jo <strong>outline-style</strong> savybės reikšmę į kitą negu <strong>auto</strong> ar <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
