@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Pretraži web
     .title = Pretraži web
     .aria-label = Pretraži web
+newtab-search-box-text = Pretraži web
+newtab-search-box-input =
+    .placeholder = Pretraži web
+    .aria-label = Pretraži web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Dodaj tražilicu
 newtab-topsites-add-topsites-header = Nova najbolja stranica
+newtab-topsites-add-shortcut-header = Novi prečac
 newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
+newtab-topsites-edit-shortcut-header = Uredi prečac
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Upiši naslov
