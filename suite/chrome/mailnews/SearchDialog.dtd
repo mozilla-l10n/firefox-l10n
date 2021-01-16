@@ -12,6 +12,7 @@
 <!ENTITY deleteButton.label          "Izbriši">
 <!ENTITY searchDialogTitle.label     "Išči po sporočilih">
 <!ENTITY results.label               "Rezultati">
+<!ENTITY moveHereMenu.label          "Premakni se sem">
 <!ENTITY moveButton.label            "Premakni v">
 
 <!-- for ABSearchDialog.xul -->
