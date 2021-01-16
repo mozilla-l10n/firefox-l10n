@@ -936,6 +936,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = atvertų kortelių
     .accesskey = v
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Leistukai
+    .accesskey = L
 addressbar-locbar-topsites-option =
     .label = Lankomiausios svetainės
     .accesskey = L
