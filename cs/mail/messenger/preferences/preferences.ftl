@@ -52,11 +52,36 @@ collection-header =
     }
 collection-description = S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování aplikace { -brand-short-name }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
 collection-privacy-notice = Zásady ochrany osobních údajů
+collection-health-report-telemetry-disabled =
+    Odesílat { -vendor-short-name.gender ->
+        [masculine] { -vendor-short-name(case: "dat") }
+        [feminine] { -vendor-short-name(case: "dat") }
+        [neuter] { -vendor-short-name(case: "dat") }
+       *[other] společnosti { -vendor-short-name }
+    } technická data a data o interakcích není nadále povoleno. Všechna historická data budou smazána během 30 dnů.
 collection-health-report-telemetry-disabled-link = Zjistit více
+collection-health-report =
+    .label =
+        { -vendor-short-name.gender ->
+            [masculine] Odesílat { -vendor-short-name(case: "dat") }
+            [feminine] Odesílat { -vendor-short-name(case: "dat") }
+            [neuter] Odesílat { -vendor-short-name(case: "dat") }
+           *[other] Odesílat
+        } technická data a data o interakcích
+    .accesskey = r
 collection-health-report-link = Zjistit více
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
+collection-backlogged-crash-reports =
+    .label =
+        Odesílat nevyřízená hlášení o pádech { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace
+        } za vás
+    .accesskey = c
 collection-backlogged-crash-reports-link = Zjistit více
 privacy-security-header = Zabezpečení
 privacy-scam-detection-title = Detekce podvodů
@@ -155,6 +180,15 @@ add-search-engine =
 remove-search-engine =
     .label = Odebrat
     .accesskey = r
+minimize-to-tray-label =
+    .label =
+        Při minimalizaci { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") } ho
+            [feminine] { -brand-short-name(case: "gen") } ji
+            [neuter] { -brand-short-name(case: "gen") } ho
+           *[other] aplikace jo
+        } přesunout do oznamovací oblasti
+    .accesskey = o
 new-message-arrival = Při přijetí nové zprávy:
 mail-play-sound-label =
     .label =
@@ -184,6 +218,9 @@ customize-alert-label =
 tray-icon-label =
     .label = Zobrazit ikonu v oznamovací oblasti
     .accesskey = t
+mail-system-sound-label =
+    .label = Zvuk nové pošty v systému
+    .accesskey = u
 mail-custom-sound-label =
     .label = Vlastní zvukový soubor
     .accesskey = V
@@ -602,6 +639,12 @@ master-password-button =
     .label = Změnit hlavní heslo…
     .accesskey = m
 primary-password-description = Hlavní heslo, je-li nastaveno, chrání všechna vaše ostatní hesla. Jeho vložení je ale vyžadováno jednou během relace.
+primary-password-label =
+    .label = Použít hlavní heslo
+    .accesskey = P
+primary-password-button =
+    .label = Změnit hlavní heslo…
+    .accesskey = m
 forms-primary-pw-fips-title = Momentálně jste v režimu FIPS, který vyžaduje neprázdné hlavní heslo.
 forms-master-pw-fips-desc = Neúspěšná změna hesla
 junk-description = Další nastavení nevyžádané pošty lze provést v dialogu Nastavení účtu.
@@ -644,6 +687,12 @@ certificate-ask =
 ocsp-label =
     .label = Aktuální platnost certifikátů ověřovat na serverech OCSP
     .accesskey = p
+certificate-button =
+    .label = Spravovat certifikáty…
+    .accesskey = c
+security-devices-button =
+    .label = Bezpečnostní zařízení…
+    .accesskey = B
 
 ## Chat Tab
 
@@ -738,7 +787,35 @@ chat-variant-label =
 chat-header-label =
     .label = Zobrazit hlavičku
     .accesskey = h
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Najít v možnostech
+           *[other] Najít v předvolbách
+        }
 
 ## Preferences UI Search Results
 
 search-results-header = Výsledky vyhledávání
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v možnostech nic nenašli.
+       *[other] Je nám líto, pro „<span data-l10n-name="query"></span>“ jsme v předvolbách nic nenašli.
+    }
+search-results-help-link =
+    Potřebujete pomoc? Navštivte <a data-l10n-name="url">Podporu { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }</a>
