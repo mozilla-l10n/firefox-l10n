@@ -88,6 +88,7 @@ onboarding-benefit-lockwise-text = Tetiñu da contraseña noo´o kumima va´a ji
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Va´a, nchu'unu { -brand-short-name }
 return-to-amo-add-extension-label = Tee extensión
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)

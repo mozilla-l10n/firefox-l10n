@@ -226,6 +226,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Protecciones a la vista
 cfr-whatsnew-protections-cta-link = Kune'ya panel de protecciones
 cfr-whatsnew-protections-icon-alt = Icono de escudo
 
@@ -243,6 +244,7 @@ cfr-doorhanger-doh-secondary-button = Chiyu´u
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Aislamiento del sitio
 cfr-doorhanger-fission-primary-button = OK, vatu!
     .accesskey = O
 cfr-doorhanger-fission-secondary-button = Ka´vi kue´eka
@@ -250,9 +252,11 @@ cfr-doorhanger-fission-secondary-button = Ka´vi kue´eka
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-image-alt = Ilustración de cookie nñasɨ
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Kue'eka da controles multimedia
 cfr-whatsnew-media-keys-button = Sikua´a naja
 
 ## What's new: Search shortcuts

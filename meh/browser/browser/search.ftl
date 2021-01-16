@@ -9,6 +9,7 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-format-title = Formato ntu vatu
+opensearch-error-download-title = Nkene iin error sa nxinuu
 
 ##
 

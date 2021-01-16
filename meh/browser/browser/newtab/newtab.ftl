@@ -99,6 +99,7 @@ newtab-menu-show-privacy-info = Da patrocinadores da nuu'u ji privacidad
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Nsá´á
+newtab-privacy-modal-button-manage = Tetiñu da ke'i contenido íyo patrocinado
 newtab-privacy-modal-header = Privacidad jituinidani
 newtab-privacy-modal-link = Kuni kua privacidad satiñu ji pestaña jíía
 
@@ -217,6 +218,7 @@ newtab-custom-row-selector =
        *[other] { $num } filas
     }
 newtab-custom-sponsored-sites = Da acceso íyo patrocinado
+newtab-custom-pocket-sponsored = Da historias patrocinadas
 newtab-custom-recent-title = Da a skuata nsá´á
 newtab-custom-close-button = Nakasɨ
 # For the "Snippets" feature traditionally on about:home.
