@@ -93,5 +93,5 @@ blockedByPolicy-title = Página nasɨ
 clockSkewError-title = Ka̱a̱ taji hora ka̱a̱ tee nɨnuu ntu íyo vatu
 networkProtocolError-title = Ntivɨ protocolo de red
 nssBadCert-title = Advertencia: Riesgo potencial de seguridad a continuación
-nssBadCert-sts-title = Ntu nkivɨ: Sanan íyo tixi seguridad
+nssBadCert-sts-title = Ntu nkivɨ: Sana íyo tixi seguridad
 certerror-mitm-title = Iyo software sa´a { -brand-short-name } ntu kuvi kivɨ nuu sitio
