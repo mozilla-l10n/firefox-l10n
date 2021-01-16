@@ -32,6 +32,7 @@ about-processes-web-large-allocation = Вэб (працэс { $pid }, буйны
 about-processes-file-process-name = Файлы (працэс { $pid })
 about-processes-extension-process-name = Пашырэнні (працэс { $pid })
 about-processes-plugin-process-name = Плагіны (працэс { $pid })
+about-processes-privilegedmozilla-process-name = Вэб (працэс { $pid }) для сайтаў { -vendor-short-name }
 about-processes-socket-process-name = Сетка (працэс { $pid })
 # Process
 # Variables:
