@@ -32,7 +32,7 @@ policy-DisableBuiltinPDFViewer =
         [neuter] v { -brand-short-name(case: "loc") }
        *[other] v aplikaci { -brand-short-name }
     }.
-policy-DisableDefaultBrowserAgent = Zabraňte „výchozímu agentovi prohlížeče“ provádět jakékoliv akce. Dostupné pouze pro Windows, ostatní platformy agenty nemají.
+policy-DisableDefaultBrowserAgent = Zabraňuje „výchozímu agentovi prohlížeče“ provádět jakékoliv akce. Dostupné pouze pro Windows, ostatní platformy agenty nemají.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableFeedbackCommands = Blokování odeslání zpětné vazby z nabídky Nápověda (volby Odeslat zpětnou vazbu a Nahlásit klamavou stránku).
 policy-DisableFirefoxAccounts = Vypnutí služeb používajících { -fxaccount-brand-name(case: "acc", capitalization: "lower") }, včetně Syncu.
@@ -49,7 +49,7 @@ policy-DisableForgetButton = Zablokování tlačítka Zapomenout.
 policy-DisableFormHistory = Vypnutí ukládání historie vyhledávání a formulářů.
 policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
-policy-DisablePasswordReveal = Zablokovat zobrazování hesel ve správci přihlašovacích údajů.
+policy-DisablePasswordReveal = Zakázání možnosti zobrazit hesla ve správci přihlašovacích údajů.
 policy-DisablePocket = Vypnutí funkce pro ukládání stránek do služby Pocket.
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
 policy-DisableProfileImport = Blokování importu dat z jiných prohlížečů.
@@ -87,18 +87,18 @@ policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelera
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastavení a případné uzamčení domovské stránky.
 policy-InstallAddonsPermission = Povolení instalace doplňků z vybraných webových stránek.
-policy-LegacyProfiles = Vypnout funkci vynucující samostatný profil pro každou instalaci aplikace
+policy-LegacyProfiles = Vypnutí funkce vynucující samostatný profil pro každou instalaci aplikace.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
-policy-LegacySameSiteCookieBehaviorEnabled = Nastavit staré výchozí chování SameSite cookies.
+policy-LegacySameSiteCookieBehaviorEnabled = Povoluje staré výchozí nastavení chování SameSite cookies.
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Nastaví staré výchozí chování SameSite cookies z uvedených serverů.
 
 ##
 
 policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
-policy-MasterPassword = Vyžadovat nebo zabránit používání hlavního hesla.
 policy-ManagedBookmarks = Nastavení seznamu záložek spravovaných správcem. Takové záložky uživatel nemůže měnit.
+policy-MasterPassword = Vyžadovat nebo zabránit používání hlavního hesla.
 policy-PrimaryPassword = Vyžadovat nebo zabránit používání hlavního hesla.
 policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.
 policy-NewTabPage = Povolení nebo zákaz stránky nového panelu.
