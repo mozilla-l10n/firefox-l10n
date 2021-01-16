@@ -556,6 +556,7 @@ library-bookmarks-bookmark-this-page =
     .label = เพิ่มที่คั่นหน้าสำหรับหน้านี้
 library-bookmarks-bookmark-edit =
     .label = แก้ไขที่คั่นหน้านี้
+library-recent-activity-label = กิจกรรมล่าสุด
 
 ## More items
 
