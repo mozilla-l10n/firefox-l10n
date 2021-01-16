@@ -17,7 +17,7 @@ about-title =
         [neuter] { -brand-full-name(case: "loc") }
        *[other] aplikaci { -brand-full-name }
     }
-resources-title = Zdroje
+resources-title = Užitečné odkazy
 release-notes =
     .title =
         O { -brand-full-name.gender ->
@@ -41,9 +41,16 @@ filelink-description = { -brand-short-name } vám umožňuje nastavit si pohodln
 addressbook-label = Kontakty
     .aria-label = Vytvoření nové složky kontaktů
 addressbook-description = { -brand-short-name } vám umožňuje uspořádat si všechny své kontakty do složek. Můžete se také připojit ke vzdálenému adresáři kontaktů a udržovat tak všechny své kontakty synchronizované.
+feeds-label = Účet kanálů
+    .aria-label = Připojení k informačním kanálům
+feeds-description = { -brand-short-name } se umí připojit a získávat zprávy a novinky pomocí kanálů RSS či Atom.
 newsgroups-label = Diskusní skupiny
     .aria-label = Připojení k diskuzní skupině
+newsgroups-description = { -brand-short-name } vám umožní připojit se do jakékoliv diskusní skupiny budete chtít.
 import-title = Import z jiného programu
+import-paragraph = { -brand-short-name } umí importovat e-mailové zprávy, kontakty, odebírané kanály, předvolby i filtry zpráv z jiných poštovních programů a běžných formátů.
+import-label = Importovat
+    .aria-label = Importovat data z jiného programu
 about-paragraph = Thunderbird je hlavní otevřený a multiplatformní e-mailový klient, který je zdarma pro osobní použití i pro firmy. Chceme, aby zůstal i nadále bezpečný a stále se zlepšoval. I díky vašim příspěvkům máme na platy vývojářů, údržbu infrastruktury a další vylepšování.
 about-paragraph-2 = <b>Thunderbird je financován uživateli, jako jste vy! Pokud se vám Thunderbird líbí, zvažte prosím možnost poskytnutí daru.</b> Nejlepší způsob, jak můžete zajistit, aby byl Thunderbird stále k dispozici, je
 about-donation = věnování peněžního daru

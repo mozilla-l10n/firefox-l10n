@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY emailWizard.title               "Nastavit existující e-mailový účet">
-<!ENTITY emailWizard.caption             "Použít existující e-mailovou adresu">
+<!ENTITY emailWizard.caption             "Použít stávající e-mailovou adresu">
 <!ENTITY name.label                      "Vaše jméno:">
 <!ENTITY name.accesskey                  "V">
 <!ENTITY fullname.placeholder            "Vaše celé jméno">
@@ -100,7 +100,7 @@
 <!ENTITY changeSettings.label            "Změnit nastavení">
 <!ENTITY changeSettings.accesskey        "m">
 
-<!ENTITY contactYourProvider.description "&brandShortName; vám umožní pracovat s poštou dle zadaného nastavení, ale bylo by vhodné kontaktovat svého administrátora či poskytovatele pošty ohledně řádného připojení. Pro více informací vizte časté otázky aplikace Thunderbird.">
+<!ENTITY contactYourProvider.description "&brandShortName; vám umožní pracovat s poštou dle zadaného nastavení, ale je vhodné kontaktovat správce nebo poskytovatele vaší e-mailové schránky ohledně řádného připojení. Pro více informací si přečtěte často kladené dotazy k Thunderbirdu.">
 
 <!ENTITY insecureServer.tooltip.title    "Upozornění! Toto je nezabezpečený server.">
 <!ENTITY insecureServer.tooltip.details  "Klepněte na kroužek pro více informací.">
