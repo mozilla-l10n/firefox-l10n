@@ -10,6 +10,8 @@ preferences-title =
             [windows] Možnosti
            *[other] Předvolby
         }
+category-list =
+    .aria-label = Kategorie
 pane-general-title = Obecné
 category-general =
     .tooltiptext = { pane-general-title }
@@ -48,6 +50,14 @@ collection-header =
         [neuter] { -brand-short-name(case: "loc") }
        *[other] aplikaci { -brand-short-name }
     }
+collection-description = S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování aplikace { -brand-short-name }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
+collection-privacy-notice = Zásady ochrany osobních údajů
+collection-health-report-telemetry-disabled-link = Zjistit více
+collection-health-report-link = Zjistit více
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
+collection-backlogged-crash-reports-link = Zjistit více
 privacy-security-header = Zabezpečení
 privacy-scam-detection-title = Detekce podvodů
 privacy-anti-virus-title = Antivir
@@ -88,6 +98,7 @@ update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
+account-button = Nastavení účtu
 addons-button = Rozšíření a vzhledy
 
 ## OS Authentication dialog
