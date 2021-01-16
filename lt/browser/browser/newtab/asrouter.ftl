@@ -293,6 +293,8 @@ cfr-whatsnew-search-shortcuts-body = Dabar jums renkant ieškyklės ar tam tikro
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Apsauga nuo kenkėjiškų „super“ slapukų
+cfr-whatsnew-supercookies-body = Svetainės gali slapta prieš jūsų naršyklės pridėti „super“ slapuką, kuris seks jus naršant, net kai išvalote slapukus. „{ -brand-short-name }“ dabar suteikia stiprią apsaugą nuo „super“ slapukų, tad jie nebegali būtų naudojami sekti jūsų naršymo veiksmus tarp svetainių.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Geresnis adresynas
