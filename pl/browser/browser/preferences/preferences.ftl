@@ -505,7 +505,7 @@ home-prefs-topsites-by-option-sponsored =
     .label = Sponsorowane popularne witryny
 home-prefs-shortcuts-header =
     .label = Skróty
-home-prefs-shortcuts-description = Zachowywane i odwiedzane strony.
+home-prefs-shortcuts-description = Zachowane i odwiedzane strony.
 home-prefs-shortcuts-by-option-sponsored =
     .label = Sponsorowane skróty
 
