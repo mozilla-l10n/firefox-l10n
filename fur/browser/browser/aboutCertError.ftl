@@ -94,3 +94,7 @@ sslv3Used-title = Impussibil conetisi in maniere sigure
 inadequateSecurityError-title = La conession no je sigure
 blockedByPolicy-title = Pagjine blocade
 clockSkewError-title = La ore dal computer no je juste
+networkProtocolError-title = Erôr di protocol di rêt
+nssBadCert-title = Atenzion: potenziâl pericul pe sigurece se si continue
+nssBadCert-sts-title = No si è conetût: potenziâl probleme di sigurece
+certerror-mitm-title = Un software al impedìs a { -brand-short-name } di conetisi in maniere sigure a chest sît
