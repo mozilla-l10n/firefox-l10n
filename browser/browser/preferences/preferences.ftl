@@ -936,8 +936,15 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = otwartych kartach
     .accesskey = k
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = skrótach
+    .accesskey = s
 addressbar-locbar-topsites-option =
     .label = popularnych witrynach
+    .accesskey = w
+addressbar-locbar-engines-option =
+    .label = wyszukiwarkach
     .accesskey = w
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
 
