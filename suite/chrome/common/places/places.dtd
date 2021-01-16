@@ -3,21 +3,51 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Organiziraj">
+<!ENTITY organize.accesskey    "O">
 
+<!ENTITY file.close.label               "Zapri">
+<!ENTITY views.label                    "Pogledi">
+<!ENTITY view.columns.label             "Pokaži stolpce">
+<!ENTITY view.sort.label                "Razvrsti">
+<!ENTITY view.unsorted.label            "Nerazvrščeno">
+<!ENTITY view.sortAscending.label       "Razvrsti A > Ž">
+<!ENTITY view.sortDescending.label      "Razvrsti Ž > A">
 
 <!ENTITY importBookmarksFromHTML.label     "Uvozi zaznamke iz HTML …">
 <!ENTITY importBookmarksFromHTML.accesskey "U">
 <!ENTITY importOtherBrowser.label          "Uvozi podatke drugega brskalnika …">
 <!ENTITY importOtherBrowser.accesskey      "d">
 
+<!ENTITY cmd.restore2.label             "Obnovi">
+
+
+<!ENTITY cmd.open.label                  "Odpri">
+<!ENTITY cmd.open_window.label           "Odpri v novem oknu">
+<!ENTITY cmd.open_private_window.label     "Odpri v novem zasebnem oknu">
+<!ENTITY cmd.open_tab.label              "Odpri v novem zavihku">
+<!ENTITY cmd.open_all_in_tabs.label      "Odpri vse v zavihkih">
+
+<!ENTITY cmd.properties.label      "Lastnosti">
+
+<!ENTITY cmd.sortby_name.label              "Uredi po imenu">
 
 
 
+<!ENTITY col.name.label          "Ime">
+<!ENTITY col.tags.label          "Oznake">
+<!ENTITY col.mostrecentvisit.label "Zadnji ogled">
+<!ENTITY col.visitcount.label    "Števec ogledov">
+<!ENTITY col.description.label   "Opis">
+<!ENTITY col.dateadded.label     "Dodano">
+<!ENTITY col.lastmodified.label  "Zadnja sprememba">
 
 
 
+<!ENTITY detailsPane.more.label "Več">
+<!ENTITY detailsPane.less.label "Manj">
 
-
-
-
-
+<!ENTITY view.label               "Pogled">
+<!ENTITY byDate.label             "Po datumu">

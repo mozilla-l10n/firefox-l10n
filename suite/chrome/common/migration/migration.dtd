@@ -18,6 +18,7 @@
 <!ENTITY importItems.title               "Možnosti uvoza">
 <!ENTITY importItems.label               "Izberite, kaj želite uvoziti:">
 
+<!ENTITY selectProfile.title             "Izberite profil">
 <!ENTITY selectProfile.label             "Uvoz je možen iz naslednjih profilov:">
 
 <!ENTITY migrating.title                 "Uvažanje …">
