@@ -154,8 +154,8 @@ enable-password-sync-notification-message =
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
-            [windows] Posjeti { -sync-brand-short-name } mogućnosti
-           *[other] Posjeti { -sync-brand-short-name } postavke
+            [windows] Posjeti mogućnosti za { -sync-brand-short-name }
+           *[other] Posjeti postavke za { -sync-brand-short-name }
         }
     .accesskey = P
 about-logins-enable-password-sync-dont-ask-again-button =
@@ -213,6 +213,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-message = Vaše lozinke bit će spremljene kao čitljivi tekst (npr. Loš@L0zinka) pa će ih moći vidjeti svi koji mogu otvoriti izvezenu datoteku.
 about-logins-confirm-export-dialog-confirm-button = Izvoz…
+about-logins-alert-import-title = Uvoz je dovršen
+about-logins-alert-import-message = Pogledaj detaljni sažetak uvoza
 confirm-discard-changes-dialog-title = Odbaciti nespremljene promjene?
 confirm-discard-changes-dialog-message = Sve nespremljene promjene će se izgubiti.
 confirm-discard-changes-dialog-confirm-button = Odbaci
@@ -274,3 +276,34 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV dokument
        *[other] CSV datoteka
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Uvoz je dovršen
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Dodano novih prijava:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Dodano novih prijava:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Dodano novih prijava:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Ažurirano postojećih prijava:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Ažurirano postojećih prijava:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ažurirano postojećih prijava:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+        [few] Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+       *[other] Pronađeno dvostrukih prijava:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Greške:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+        [few] <span>Greške:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+       *[other] <span>Greške:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
+    }
+about-logins-import-dialog-done = Gotovo
