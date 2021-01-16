@@ -15,3 +15,4 @@ expire-never-label =
     .label = Platnost klíče nikdy neskončí
 expire-in-label =
     .label = Platnost klíče skončí za:
+expire-in-months = měsíců

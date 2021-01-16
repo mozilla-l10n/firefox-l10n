@@ -11,6 +11,7 @@ rights-intro-point-1 =
         [neuter] { -brand-short-name } je dostupné
        *[other] Aplikace { -brand-short-name } je dostupná
     } za podmínek stanovených licencí <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a> (MPL). Ta vám umožňuje aplikaci { -brand-short-name } používat, kopírovat a šířit. Pokud potřebujete, můžete také pozměnit zdrojový kód aplikace { -brand-short-name } podle vašich potřeb. MPL vám dává také právo šířit vámi pozměněné verze.
+rights-intro-point-2 = Nejsou vám však podstoupena žádná práva ani licence k ochranným známkám Mozilla Foundation, či třetích stran, a to zejména k logu a názvu Thunderbird. Podrobnější informace o ochranných známkách jsou dostupné <a data-l10n-name="mozilla-trademarks-link">zde</a>.
 rights-intro-point-3 =
     Některé funkce aplikace { -brand-short-name }, jako např. hlášení pádů, vám umožní odeslat zpětnou vazbu { -vendor-short-name.gender ->
         [masculine] { -vendor-short-name(case: "dat") }
@@ -30,6 +31,7 @@ rights-intro-point-4 =
         [neuter] { -vendor-short-name(case: "dat") }
        *[other] organizaci { -vendor-short-name }
     } pomocí aplikace { -brand-short-name } jsou popsány v <a data-l10n-name="mozilla-privacy-policy-link">zásadách aplikace { -brand-short-name } pro ochranu osobních údajů</a>.
+rights-intro-point-4-unbranded = Zásady ochrany osobních údajů nejsou pro neznačkové verze produktů k dispozici.
 rights-intro-point-5 = Některé funkce aplikace { -brand-short-name } využívají webové informační služby. U těchto služeb nelze garantovat jejich 100% správnost a bezchybnost. Více podrobností, včetně informací jak tyto služby zakázat, lze nalézt v <a data-l10n-name="mozilla-service-terms-link">podmínkách služeb</a>.
 rights-intro-point-5-unbranded = Pokud tato neznačková verze produktu začleňuje některé služby webových serverů, měly by být jejich podmínky k nalezení v <a data-l10n-name="mozilla-website-services-link">podmínkách služeb</a>.
 rights-intro-point-6 = Pro přehrání některých typů video obsahu { -brand-short-name } stáhne odpovídající dešifrovací moduly třetích stran.
