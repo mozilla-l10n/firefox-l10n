@@ -60,6 +60,7 @@ left instead of right. -->
 <!ENTITY cookieBlockCookiesCmd.label "Blokiraj piškotke s tega spletnega mesta">
 <!ENTITY cookieBlockCookiesMsg.label "Piškotki s tega spletnega mesta bodo vedno zavrnjeni.">
 
+<!ENTITY cookieImageMessageTitle.label "Dovoljenja slike so spremenjena">
 <!ENTITY cookieDisplayImagesCmd.label "Upravljaj dovoljenja slik">
 <!ENTITY cookieAllowImagesCmd.label "Dovoli slike s tega spletnega mesta">
 <!ENTITY cookieAllowImagesMsg.label "Slike s tega spletnega mesta bodo vedno naložene.">
