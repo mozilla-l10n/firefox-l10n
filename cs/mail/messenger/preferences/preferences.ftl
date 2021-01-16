@@ -103,6 +103,22 @@ addons-button = Rozšíření a vzhledy
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Pro nastavení hlavního hesla prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = vytvořit hlavní heslo
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pro nastavení hlavního hesla prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = vytvořit hlavní heslo
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## General Tab
 
@@ -585,6 +601,9 @@ master-password-label =
 master-password-button =
     .label = Změnit hlavní heslo…
     .accesskey = m
+primary-password-description = Hlavní heslo, je-li nastaveno, chrání všechna vaše ostatní hesla. Jeho vložení je ale vyžadováno jednou během relace.
+forms-primary-pw-fips-title = Momentálně jste v režimu FIPS, který vyžaduje neprázdné hlavní heslo.
+forms-master-pw-fips-desc = Neúspěšná změna hesla
 junk-description = Další nastavení nevyžádané pošty lze provést v dialogu Nastavení účtu.
 junk-label =
     .label = Pokud ručně označím zprávy jako nevyžádané:
@@ -722,3 +741,4 @@ chat-header-label =
 
 ## Preferences UI Search Results
 
+search-results-header = Výsledky vyhledávání
