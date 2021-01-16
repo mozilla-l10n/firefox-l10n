@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (izolacja witryn) to ekspery
 experimental-features-multi-pip =
     .label = Obsługa wielu okien „Obraz w obrazie”
 experimental-features-multi-pip-description = Eksperymentalna obsługa otwierania wielu okien „Obraz w obrazie” jednocześnie.
+experimental-features-http3 =
+    .label = Protokół HTTP/3
+experimental-features-http3-description = Eksperymentalna obsługa protokołu HTTP/3.
