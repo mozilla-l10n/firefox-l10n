@@ -295,6 +295,9 @@ cfr-whatsnew-search-shortcuts-body = Od teraz kiedy na pasku adresu wpiszesz naz
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Ochrona przed złośliwymi superciasteczkami
+cfr-whatsnew-supercookies-body = Strony internetowe mogą potajemnie dołączyć do przeglądarki „superciasteczko”, które jest w stanie śledzić Cię w Internecie nawet po wyczyszczeniu ciasteczek. { -brand-short-name } zapewnia teraz silną ochronę przed superciasteczkami, uniemożliwiając używanie ich do śledzenia Twoich ruchów w sieci z jednej witryny na drugą.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Lepsza obsługa zakładek
+cfr-whatsnew-bookmarking-body = Zarządzanie ulubionymi stronami jest łatwiejsze. { -brand-short-name } pamięta teraz preferowane miejsce zachowywania zakładek, domyślnie wyświetla pasek zakładek w nowych kartach i zapewnia łatwy dostęp do pozostałych zakładek za pomocą folderu na pasku zakładek.
