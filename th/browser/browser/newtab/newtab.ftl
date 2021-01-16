@@ -23,6 +23,10 @@ newtab-search-box-search-the-web-input =
     .placeholder = ค้นหาเว็บ
     .title = ค้นหาเว็บ
     .aria-label = ค้นหาเว็บ
+newtab-search-box-text = ค้นหาเว็บ
+newtab-search-box-input =
+    .placeholder = ค้นหาเว็บ
+    .aria-label = ค้นหาเว็บ
 
 ## Top Sites - General form dialog.
 
@@ -213,6 +217,11 @@ newtab-error-fallback-refresh-link = เรียกหน้าใหม่เ�
 
 ## Customization Menu
 
+newtab-custom-row-selector =
+    { $num ->
+       *[other] { $num } แถว
+    }
+newtab-custom-pocket-title = แนะนำโดย { -pocket-brand-name }
 newtab-custom-pocket-sponsored = เรื่องราวที่ได้รับการสนับสนุน
 newtab-custom-recent-title = กิจกรรมล่าสุด
 newtab-custom-close-button = ปิด
