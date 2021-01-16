@@ -32,6 +32,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = Teraz nie
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Po rýchlom reštarte obnoví { -brand-shorter-name } všetky vaše otvorené karty okná, ktoré nie sú otvorené v súkromnom prehliadaní.
+appmenu-update-other-instance-message = K dispozícii je nová aktualizácia aplikácie { -brand-shorter-name }, ale nemôže byť nainštalovaná, pretože je spustená ďalšia kópia aplikácie { -brand-shorter-name }. Pre spustenie aktualizácie túto kópiu ukončite alebo spustenie aktualizácie vynúťte (spustená aplikácia môže prestať správne fungovať, dokým ju nereštartujete).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, rozumiem
     .buttonaccesskey = O
