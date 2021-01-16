@@ -8,6 +8,9 @@
 newtab-page-title = Nowa karta
 newtab-settings-button =
     .title = Dostosuj stronę nowej karty
+newtab-personalize-button-label = Personalizuj
+    .title = Personalizuj nową kartę
+    .aria-label = Personalizuj nową kartę
 
 ## Search box component.
 
@@ -20,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Szukaj w Internecie
     .title = Szukaj w Internecie
     .aria-label = Szukaj w Internecie
+newtab-search-box-text = Szukaj w Internecie
+newtab-search-box-input =
+    .placeholder = Szukaj w Internecie
+    .aria-label = Szukaj w Internecie
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Dodaj wyszukiwarkę
 newtab-topsites-add-topsites-header = Dodawanie strony do sekcji Popularne
+newtab-topsites-add-shortcut-header = Nowy skrót
 newtab-topsites-edit-topsites-header = Edycja strony z sekcji Popularne
+newtab-topsites-edit-shortcut-header = Edycja skrótu
 newtab-topsites-title-label = Tytuł
 newtab-topsites-title-input =
     .placeholder = Wpisz tytuł
@@ -207,3 +216,28 @@ newtab-pocket-cta-text = Zachowuj artykuły w { -pocket-brand-name }, aby wróc
 
 newtab-error-fallback-info = Coś się nie powiodło podczas wczytywania tej treści
 newtab-error-fallback-refresh-link = Odśwież stronę, by spróbować ponownie
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Skróty
+newtab-custom-shortcuts-subtitle = Zachowywane i odwiedzane strony.
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } wiersz
+        [few] { $num } wiersze
+       *[many] { $num } wierszy
+    }
+newtab-custom-sponsored-sites = Sponsorowane skróty
+newtab-custom-pocket-title = Polecane przez { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Wyjątkowe rzeczy wybrane przez { -pocket-brand-name }, część rodziny produktów { -brand-product-name }.
+newtab-custom-pocket-sponsored = Sponsorowane artykuły
+newtab-custom-recent-title = Ostatnia aktywność
+newtab-custom-recent-subtitle = Wybierane z ostatnio odwiedzanych stron i treści.
+newtab-custom-close-button = Zamknij
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Od Mozilli
+newtab-custom-snippets-subtitle = Wskazówki i aktualności od organizacji { -vendor-short-name } i przeglądarki { -brand-product-name }.
+newtab-custom-settings = Więcej ustawień
