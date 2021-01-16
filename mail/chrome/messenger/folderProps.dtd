@@ -59,6 +59,7 @@
 <!ENTITY privileges.button.label                 "Oprávnění…">
 <!ENTITY privileges.button.accesskey             "p">
 <!ENTITY permissionsDesc.label                   "Máte následující oprávnění:">
+<!ENTITY folderOtherUsers.label                  "Do této složky mají přístup:">
 <!ENTITY folderType.label                        "Typ složky:">
 
 <!ENTITY folderQuotaTab.label                    "Kvóta">
