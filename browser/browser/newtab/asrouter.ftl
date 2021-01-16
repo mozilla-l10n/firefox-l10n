@@ -293,6 +293,7 @@ cfr-whatsnew-search-shortcuts-body = Цяпер, калі вы ўводзіце 
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Абарона ад зламысных суперкукі
+cfr-whatsnew-supercookies-body = Вэб-сайты могуць таемна прымацоўваць да вашага браўзера "суперкукі", якія могуць сачыць за вамі ў Інтэрнэце, нават пасля таго, як вы выдаліце файлы cookie. { -brand-short-name } цяпер забяспечвае надзейную ахову ад суперкукі, таму іх не ўдасца выкарыстаць для асочвання вашай Інтэрнэт-актыўнасці паміж сайтамі.
 
 ## What's new: Better bookmarking
 
