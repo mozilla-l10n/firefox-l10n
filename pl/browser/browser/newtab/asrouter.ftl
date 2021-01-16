@@ -131,6 +131,9 @@ cfr-whatsnew-lockwise-take-link-text = Pobierz aplikację
 
 cfr-whatsnew-searchbar-title = Pisz mniej, znajdź więcej za pomocą paska adresu
 cfr-whatsnew-searchbar-body-topsites = Teraz wystarczy kliknąć pasek adresu, a pojawią się odnośniki do najczęściej odwiedzanych stron.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
 
 ## Picture-in-Picture
@@ -288,3 +291,10 @@ cfr-whatsnew-media-keys-button = Więcej informacji
 
 cfr-whatsnew-search-shortcuts-header = Skróty wyszukiwania na pasku adresu
 cfr-whatsnew-search-shortcuts-body = Od teraz kiedy na pasku adresu wpiszesz nazwę wyszukiwarki lub konkretnej witryny, w podpowiedziach wyszukiwania poniżej pojawi się niebieski skrót. Kliknij ten skrót, aby dokończyć wyszukiwanie bezpośrednio z paska adresu.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Ochrona przed złośliwymi superciasteczkami
+
+## What's new: Better bookmarking
+
