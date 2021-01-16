@@ -26,6 +26,8 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Tato zpráva byla podepsána klíčem, který ještě nemáte.
 openpgp-search-signature-key =
     .label = Najít…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Tato zpráva zašifrovaná pomocí OpenPGP byla zřejmě poškozena protokolem MS-Exchange a nelze ji opravit, protože byla otevřena z místního souboru. Zkopírujte ji do složky s poštou a můžete zkusit automatickou opravu.
 openpgp-broken-exchange-info = Tato zpráva zašifrovaná pomocí OpenPGP byla zřejmě poškozena protokolem MS-Exchange. Pokud se obsah zprávy nezobrazuje podle očekávání, můžete zkusit automatickou opravu.
 openpgp-broken-exchange-repair =
     .label = Opravit zprávu
