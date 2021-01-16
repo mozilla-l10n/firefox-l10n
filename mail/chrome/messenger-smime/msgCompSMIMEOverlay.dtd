@@ -5,6 +5,7 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 <!ENTITY menu_securityDoNotEncrypt.label "Nešifrovat">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "N">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
@@ -18,11 +19,15 @@
 <!ENTITY menu_securitySign.accesskey "E">
 
 <!ENTITY menu_securityAttachMyKey.label "Přiložit můj veřejný klíč">
+<!ENTITY menu_securityAttachMyKey.accesskey "P">
 
 <!ENTITY menu_securityTech.label "Technologie šifrování">
+<!ENTITY menu_securityTech.accesskey "T">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
 <!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Zobrazit informace o zabezpečení">
 <!ENTITY menu_securityStatus.accesskey "o">
