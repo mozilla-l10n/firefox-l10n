@@ -26,11 +26,16 @@ printui-range-start = Od
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = do
+printui-page-custom-range-input =
+    .aria-label = Zadajte vlastný rozsah strán
+    .placeholder = napr. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kópie
 printui-orientation = Orientácia
 printui-landscape = Na šírku
 printui-portrait = Na výšku
+# Section title for the printer or destination device to target
+printui-destination-label = Zariadenie pre tlač
 printui-destination-pdf-label = Uložiť ako PDF
 printui-more-settings = Ďalšie nastavenia
 printui-less-settings = Menej nastavení
@@ -47,6 +52,7 @@ printui-duplex-checkbox = Vytlačiť na obe strany
 printui-options = Možnosti
 printui-headers-footers-checkbox = Vytlačiť hlavičku a pätu
 printui-backgrounds-checkbox = Vytlačiť pozadie
+printui-selection-checkbox = Vytlačiť len výber
 printui-color-mode-label = Nastavenia farby
 printui-color-mode-color = Farebne
 printui-color-mode-bw = Čiernobielo
@@ -55,15 +61,26 @@ printui-margins-default = Predvolené
 printui-margins-min = Minimálne
 printui-margins-none = Žiadne
 printui-margins-custom = Vlastné
+printui-margins-custom-inches = Vlastné (palce)
+printui-margins-custom-top = Hore
+printui-margins-custom-top-inches = Hore (palce)
+printui-margins-custom-bottom = Dole
+printui-margins-custom-bottom-inches = Dole (palce)
+printui-margins-custom-left = Vľavo
+printui-margins-custom-left-inches = Vľavo (palce)
+printui-margins-custom-right = Vpravo
+printui-margins-custom-right-inches = Vpravo (palce)
 printui-system-dialog-link = Vytlačiť pomocou systémového dialógu…
 printui-primary-button = Tlačiť
 printui-primary-button-save = Uložiť
 printui-cancel-button = Zrušiť
+printui-close-button = Zavrieť
 printui-loading = Pripravuje sa ukážka pred tlačou
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Ukážka pred tlačou
+printui-pages-per-sheet = Stránok na list papiera
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Prebieha tlač…
@@ -80,7 +97,15 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = US Letter
+printui-paper-legal = US Legal
+printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Mierka musí byť číslo medzi 10 a 200.
+printui-error-invalid-margin = Zadajte platné okraje pre vybranú veľkosť papiera.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Rozsah strán musí byť číslo medzi 1 a { $numPages }.
+printui-error-invalid-start-overflow = Číslo strany „od“ musí byť menšie ako číslo strany „do“.

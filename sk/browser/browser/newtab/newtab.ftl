@@ -8,6 +8,9 @@
 newtab-page-title = Nová karta
 newtab-settings-button =
     .title = Prispôsobte si svoju stránku Nová karta
+newtab-personalize-button-label = Prispôsobiť
+    .title = Prispôsobiť stránku novej karty
+    .aria-label = Prispôsobiť stránku novej karty
 
 ## Search box component.
 
@@ -20,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Vyhľadávanie na webe
     .title = Vyhľadávanie na webe
     .aria-label = Vyhľadávanie na webe
+newtab-search-box-text = Vyhľadávanie na webe
+newtab-search-box-input =
+    .placeholder = Vyhľadávanie na webe
+    .aria-label = Vyhľadávanie na webe
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Pridať vyhľadávací modul
 newtab-topsites-add-topsites-header = Nová top stránka
+newtab-topsites-add-shortcut-header = Nová skratka
 newtab-topsites-edit-topsites-header = Upraviť top stránku
+newtab-topsites-edit-shortcut-header = Upraviť skratku
 newtab-topsites-title-label = Názov
 newtab-topsites-title-input =
     .placeholder = Zadajte názov
@@ -203,3 +212,28 @@ newtab-pocket-cta-text = Ukladajte si články do služby { -pocket-brand-name }
 
 newtab-error-fallback-info = Hups, pri načítavaní tohto obsahu sa niečo pokazilo.
 newtab-error-fallback-refresh-link = Obnovením stránky to skúsite znova.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Skratky
+newtab-custom-shortcuts-subtitle = Stránky, ktoré si uložíte alebo navštívite
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } riadok
+        [few] { $num } riadky
+       *[other] { $num } riadkov
+    }
+newtab-custom-sponsored-sites = Sponzorované skratky
+newtab-custom-pocket-title = Odporúčané službou { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Výnimočný obsah vybraný službou { -pocket-brand-name }, ktorá je súčasťou { -brand-product-name(case: "gen") }
+newtab-custom-pocket-sponsored = Sponzorované príbehy
+newtab-custom-recent-title = Nedávna aktivita
+newtab-custom-recent-subtitle = Výber z nedávno navštívených stránok a obsahu
+newtab-custom-close-button = Zavrieť
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Úryvky
+newtab-custom-snippets-subtitle = Tipy a novinky od spoločnosti { -vendor-short-name } a aplikácie { -brand-product-name }
+newtab-custom-settings = Ďalšie nastavenia
