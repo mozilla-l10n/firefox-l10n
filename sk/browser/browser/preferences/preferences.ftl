@@ -503,6 +503,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Najnavštevovanejšie stránky
 home-prefs-topsites-by-option-sponsored =
     .label = Sponzorované top stránky
+home-prefs-shortcuts-header =
+    .label = Skratky
+home-prefs-shortcuts-description = Stránky, ktoré si uložíte alebo navštívite
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponzorované skratky
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -510,6 +515,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Odporúča { $provider }
 home-prefs-recommended-by-description-update = Výnimočný obsah z celého internetu, vybraný službou { $provider }
+home-prefs-recommended-by-description-new = Výnimočný obsah vybraný službou { $provider }, ktorá je súčasťou { -brand-product-name(case: "gen") }
 
 ##
 
@@ -518,8 +524,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponzorované stránky
 home-prefs-highlights-header =
     .label = Vybrané stránky
-home-prefs-recent-activity-header =
-    .label = Posledná aktivita
 home-prefs-highlights-description = Výber stránok, ktoré ste si uložili alebo ste ich navštívili
 home-prefs-highlights-option-visited-pages =
     .label = Navštívené stránky
@@ -529,6 +533,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Nedávne prevzatia
 home-prefs-highlights-option-saved-to-pocket =
     .label = Stránky uložené do služby { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Posledná aktivita
+home-prefs-recent-activity-description = Výber z nedávno navštívených stránok a obsahu
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -536,6 +543,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snippety
 home-prefs-snippets-description = Informácie od spoločnosti { -vendor-short-name } a aplikácie { -brand-product-name }
+home-prefs-snippets-description-new = Tipy a novinky od spoločnosti { -vendor-short-name } a aplikácie { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -924,9 +932,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = otvorené karty
     .accesskey = e
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Skratky
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = Top stránky
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Vyhľadávacie moduly
+    .accesskey = V
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 
 ## Privacy Section - Content Blocking
