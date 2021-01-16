@@ -21,7 +21,8 @@
 <!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label       "Předvolby">
 <!ENTITY preferencesCmdUnix.accesskey     "e">
-<!ENTITY customizeCmd.label "Přizpůsobení">
+<!ENTITY customizeCmd.label "Přizpůsobit">
+<!ENTITY customizeCmd.accesskey "t">
 
 <!ENTITY viewMenu.label          "Zobrazení">
 <!ENTITY viewMenu.accesskey        "Z">
