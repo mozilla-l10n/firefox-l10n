@@ -213,6 +213,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Eksportuoti prisijungimus ir slaptažodžius
 about-logins-confirm-export-dialog-message = Jūsų slaptažodžiai bus įrašyti kaip perskaitomas tekstas (pvz., BlogasSl@ptaz0dis), tad bet kas galintis atverti eksportuotą failą galės juos peržiūrėti.
 about-logins-confirm-export-dialog-confirm-button = Eksportuoti…
+about-logins-alert-import-title = Importas baigtas
+about-logins-alert-import-message = Rodyti išsamią importo suvestinę
 confirm-discard-changes-dialog-title = Atsisakyti neįrašytų pakeitimų?
 confirm-discard-changes-dialog-message = Visi neįrašyti pakeitimai bus prarasti.
 confirm-discard-changes-dialog-confirm-button = Atsisakyti
@@ -274,3 +276,34 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV failas
        *[other] CSV failas
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importas baigtas
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Pridėtas naujas prisijungimas:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Pridėti nauji prisijungimai:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Pridėta naujų prisijungimų:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Atnaujintas esamas prisijungimas:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Atnaujinti esami prisijungimai:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Atnaujinta esamų prisijungimų:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Rastas pasikartojantis prisijungimas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
+        [few] <span>Rasti pasikartojantys prisijungimai:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
+       *[other] <span>Rasta pasikartojančių prisijungimų:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Klaida:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
+        [few] <span>Klaidos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
+       *[other] <span>Klaidų:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
+    }
+about-logins-import-dialog-done = Atlikta
