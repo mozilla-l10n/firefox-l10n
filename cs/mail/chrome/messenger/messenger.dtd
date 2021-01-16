@@ -572,7 +572,7 @@
 <!ENTITY newMsgButton.tooltip "Vytvoří novou zprávu">
 <!ENTITY replyButton.tooltip "Odpoví na zprávu">
 <!ENTITY replyAllButton.tooltip "Odpoví na zprávu odesílateli a všem příjemcům">
-<!ENTITY replyListButton.tooltip "Odpoví na zprávu do e-mailové konference">
+<!ENTITY replyListButton.tooltip "Odpoví na zprávu do skupiny">
 <!ENTITY forwardButton.tooltip "Přepošle označenou zprávu">
 <!ENTITY forwardAsInline.tooltip "Přepošle označenou zprávu jako vložený text">
 <!ENTITY forwardAsAttachment.tooltip "Přepošle označenou zprávu jako přílohu">
