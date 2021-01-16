@@ -298,3 +298,4 @@ cfr-whatsnew-supercookies-body = Svetainės gali slapta prieš jūsų naršyklė
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Geresnis adresynas
+cfr-whatsnew-bookmarking-body = Dabar dar lengviau sekti savo mėgstamas svetaines. „{ -brand-short-name }“ nuo šiol įsimena jūsų adresyno įrašų vietą, rodo adresyno juostą naujose kortelėse, ir suteikia jums lengvą priėjimą prie likusio adresyno per priemonių juostos aplanką.
