@@ -17,6 +17,7 @@ update-updateButton =
 
 update-checkingForUpdates = Ricerca aggiornamenti…
 update-downloading = <img data-l10n-name="icon"/>Download aggiornamento — <label data-l10n-name="download-status"/>
+update-downloading-message = Download aggiornamento — <label data-l10n-name="download-status"/>
 update-applying = Installazione aggiornamento…
 
 update-failed = Aggiornamento non riuscito. <label data-l10n-name="failed-link">Scarica l’ultima versione</label>
@@ -35,6 +36,9 @@ update-restarting = Riavvio…
 channel-description = Canale di aggiornamento attuale: <label data-l10n-name="current-channel"></label>.
 
 warningDesc-version = { -brand-short-name } è una versione sperimentale e potrebbe risultare instabile.
+
+aboutdialog-help-user = Supporto per { -brand-product-name }
+aboutdialog-submit-feedback = Invia feedback
 
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> è una <label data-l10n-name="community-exp-creditsLink">comunità mondiale</label> che lavora per mantenere il Web aperto, pubblico e accessibile a tutti.
 
