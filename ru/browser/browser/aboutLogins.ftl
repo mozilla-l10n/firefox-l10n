@@ -213,6 +213,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Экспорт логинов и паролей
 about-logins-confirm-export-dialog-message = Ваши пароли будут сохранены в виде читаемого текста (например, BadP@ssw0rd), поэтому любой, кто может открыть файл с ними, сможет их просмотреть.
 about-logins-confirm-export-dialog-confirm-button = Экспортировать…
+about-logins-alert-import-title = Импорт завершён
+about-logins-alert-import-message = Посмотреть подробную сводку импорта
 confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
 confirm-discard-changes-dialog-message = Все несохранённые изменения будут потеряны.
 confirm-discard-changes-dialog-confirm-button = Отменить
@@ -274,3 +276,34 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Документ CSV
        *[other] CSV-файл
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Импорт завершён
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирован)</span>
+        [few] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
+       *[many] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Ошибки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирован)</span>
+        [few] <span>Ошибки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
+       *[many] <span>Ошибки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
+    }
+about-logins-import-dialog-done = Готово

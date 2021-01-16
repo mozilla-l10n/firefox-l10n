@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Искать в Интернете
     .title = Искать в Интернете
     .aria-label = Искать в Интернете
+newtab-search-box-text = Поиск в Интернете
+newtab-search-box-input =
+    .placeholder = Поиск в Интернете
+    .aria-label = Поиск в Интернете
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Добавить поисковую систему
 newtab-topsites-add-topsites-header = Новый сайт в топе
+newtab-topsites-add-shortcut-header = Новый ярлык
 newtab-topsites-edit-topsites-header = Изменить сайт из топа
+newtab-topsites-edit-shortcut-header = Изменить ярлык
 newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введите название

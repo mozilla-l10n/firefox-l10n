@@ -568,6 +568,7 @@ library-bookmarks-bookmark-this-page =
     .label = Добавить страницу в закладки
 library-bookmarks-bookmark-edit =
     .label = Редактировать эту закладку
+library-recent-activity-label = Последние действия
 
 ## More items
 
