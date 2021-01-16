@@ -26,6 +26,9 @@ printui-range-start = Od
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = do
+printui-page-custom-range-input =
+    .aria-label = Wprowadź inny zakres stron
+    .placeholder = np. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopie
 printui-orientation = Orientacja
@@ -49,6 +52,7 @@ printui-duplex-checkbox = Drukuj na obu stronach
 printui-options = Opcje
 printui-headers-footers-checkbox = Drukuj nagłówki i stopki
 printui-backgrounds-checkbox = Drukuj tła
+printui-selection-checkbox = Drukuj tylko zaznaczenie
 printui-color-mode-label = Tryb kolorów
 printui-color-mode-color = Kolorowy
 printui-color-mode-bw = Czarno-biały
@@ -57,19 +61,29 @@ printui-margins-default = Domyślne
 printui-margins-min = Minimalne
 printui-margins-none = Bez
 printui-margins-custom = Niestandardowe
+printui-margins-custom-inches = Niestandardowe (w calach)
 printui-margins-custom-top = Górny
+printui-margins-custom-top-inches = Górny (w calach)
 printui-margins-custom-bottom = Dolny
+printui-margins-custom-bottom-inches = Dolny (w calach)
 printui-margins-custom-left = Lewy
+printui-margins-custom-left-inches = Lewy (w calach)
 printui-margins-custom-right = Prawy
+printui-margins-custom-right-inches = Prawy (w calach)
 printui-system-dialog-link = Drukuj za pomocą okna systemowego…
 printui-primary-button = Drukuj
 printui-primary-button-save = Zapisz
 printui-cancel-button = Anuluj
+printui-close-button = Zamknij
 printui-loading = Przygotowywanie podglądu
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Podgląd wydruku
+printui-pages-per-sheet = Strony na kartkę
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Drukowanie…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

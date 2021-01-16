@@ -170,7 +170,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Czy usunąć te dane logowania?
 confirm-delete-dialog-message = Tej czynności nie można cofnąć.
 about-logins-confirm-remove-dialog-confirm-button = Usuń
-about-logins-confirm-remove-all-dialog-confirm-button = Usuń wszystkie
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Usuń
+       *[other] Usuń wszystkie
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Tak, usuń te dane logowania
@@ -207,6 +211,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Eksport danych logowania i haseł
 about-logins-confirm-export-dialog-message = Twoje hasła zostaną zapisane jako zwykły tekst (np. SłabeH@s1o), więc każdy, kto może otworzyć wyeksportowany plik, będzie mógł je zobaczyć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
+about-logins-alert-import-title = Ukończono importowanie
+about-logins-alert-import-message = Wyświetl szczegółowe podsumowanie importowania
 confirm-discard-changes-dialog-title = Czy odrzucić niezachowane zmiany?
 confirm-discard-changes-dialog-message = Wszystkie niezachowane zmiany zostaną utracone.
 confirm-discard-changes-dialog-confirm-button = Odrzuć
@@ -268,3 +274,26 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokument CSV
        *[other] Plik CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Ukończono importowanie
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Dodano nowe dane logowania:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Zaktualizowano istniejące dane logowania:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Odnaleziono podwójne dane logowania:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nie zaimportowano)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Błędy:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nie zaimportowano)</span>
+    }
+about-logins-import-dialog-done = Gotowe
