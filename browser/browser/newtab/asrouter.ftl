@@ -292,3 +292,4 @@ cfr-whatsnew-supercookies-body = Sivustot voivat salaa kiinnittää selaimeesi �
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Paremmat kirjanmerkit
+cfr-whatsnew-bookmarking-body = Suosikkisivustojesi seuranta on helpompaa. { -brand-short-name } muistaa nyt haluamasi sijainnin tallennetuille kirjanmerkeille, näyttää kirjanmerkkipalkin oletusarvoisesti uusilla välilehdillä ja antaa sinulle helpon pääsyn muihin kirjanmerkkeihisi työkalupalkin kansion kautta.

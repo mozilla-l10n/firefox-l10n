@@ -25,6 +25,9 @@ printui-range-start = Sivulta
 # This label is displayed between the input fields indicating
 # the start and end page of the range to print.
 printui-range-end = sivulle
+printui-page-custom-range-input =
+    .aria-label = Anna mukautettu sivualue
+    .placeholder = esim. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopioita
 printui-orientation = Suunta
@@ -48,6 +51,7 @@ printui-duplex-checkbox = Tulosta molemmille puolille
 printui-options = Valinnat
 printui-headers-footers-checkbox = Tulosta ylä- ja alatunnisteet
 printui-backgrounds-checkbox = Tulosta taustat
+printui-selection-checkbox = Tulosta vain valinta
 printui-color-mode-label = Väritila
 printui-color-mode-color = Väri
 printui-color-mode-bw = Mustavalkoinen
@@ -56,10 +60,15 @@ printui-margins-default = Oletus
 printui-margins-min = Pienimmät
 printui-margins-none = Ei reunuksia
 printui-margins-custom = Mukautettu
+printui-margins-custom-inches = Mukautettuna (tuumina)
 printui-margins-custom-top = Ylä
+printui-margins-custom-top-inches = Ylä (tuumina)
 printui-margins-custom-bottom = Ala
+printui-margins-custom-bottom-inches = Ala (tuumina)
 printui-margins-custom-left = Vasen
+printui-margins-custom-left-inches = Vasen (tuumina)
 printui-margins-custom-right = Oikea
+printui-margins-custom-right-inches = Oikea (tuumina)
 printui-system-dialog-link = Tulosta käyttäen järjestelmän tulostusikkunaa…
 printui-primary-button = Tulosta
 printui-primary-button-save = Tallenna
