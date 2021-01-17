@@ -206,6 +206,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y contraseñas
 about-logins-confirm-export-dialog-message = Sus contraseñas se guardarán como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-alert-import-title = Importación completa
+about-logins-alert-import-message = Ver resumen detallado de la importación
 confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
 confirm-discard-changes-dialog-message = Todos los cambios no guardados se perderán.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -267,3 +269,30 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Archivo CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importación completa
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Nuevo inicio de sesión añadido:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nuevos inicios de sesión añadidos:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Inicio de sesión actualizado:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Inicios de sesión actualizados:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Se han encontrado inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
+       *[other] <span>Se han encontrado inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
+       *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
+    }
+about-logins-import-dialog-done = Hecho
