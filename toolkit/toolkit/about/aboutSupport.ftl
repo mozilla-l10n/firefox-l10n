@@ -184,6 +184,16 @@ remote-debugging-url = URL-osoite
 
 ##
 
+support-third-party-modules-title = Kolmannen osapuolen moduulit
+support-third-party-modules-module = Moduulitiedosto
+support-third-party-modules-version = Tiedoston versio
+support-third-party-modules-vendor = Valmistajan tiedot
+support-third-party-modules-occurrence = Esiintymä
+support-third-party-modules-process = Prosessin tyyppi ja tunnus
+support-third-party-modules-thread = Säie
+support-third-party-modules-base = Imagebase-osoite
+support-third-party-modules-uptime = Prosessin käynnissäoloaika (ms)
+support-third-party-modules-duration = Latausaika (ms)
 support-third-party-modules-empty = Kolmansien osapuolten moduuleja ei ladattu.
 support-third-party-modules-no-value = (Ei arvoa)
 support-third-party-modules-button-open =

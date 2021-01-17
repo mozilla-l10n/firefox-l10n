@@ -500,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Useimmin vierailemasi sivustot
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsoroidut ykkössivustot
+home-prefs-shortcuts-header =
+    .label = Oikotiet
+home-prefs-shortcuts-description = Tallentamasi tai vierailemasi sivustot
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsoroidut oikotiet
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -507,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Suositukset lähteestä { $provider }
 home-prefs-recommended-by-description-update = Poikkeuksellista sisältöä ympäri internetiä, valikoijana { $provider }
+home-prefs-recommended-by-description-new = Poikkeuksellista, valikoitua sisältöä { $provider }-palvelulta, osana { -brand-product-name }-perhettä
 
 ##
 
@@ -526,6 +532,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }iin tallennetut sivut
 home-prefs-recent-activity-header =
     .label = Viimeisin toiminta
+home-prefs-recent-activity-description = Valikoima viimeisimpiä sivustoja ja sisältöä
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -533,6 +540,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Tiedonmuruset
 home-prefs-snippets-description = Päivitykset { -vendor-short-name }lta ja { -brand-product-name }ilta
+home-prefs-snippets-description-new = Vinkit ja uutiset { -vendor-short-name }lta ja { -brand-product-name }ilta
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -924,9 +932,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = avoimista välilehdistä
     .accesskey = a
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Oikotiet
+    .accesskey = O
 addressbar-locbar-topsites-option =
     .label = ykkössivustoista
     .accesskey = y
+addressbar-locbar-engines-option =
+    .label = Hakukoneet
+    .accesskey = H
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 
 ## Privacy Section - Content Blocking
