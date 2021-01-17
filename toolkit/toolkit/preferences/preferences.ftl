@@ -14,6 +14,7 @@ pw-change2empty-in-fips-mode = Trenutačno si u FIPS modu. FIPS ne dopušta praz
 failed-pp-change = Nije moguće promijeniti primarnu lozinku.
 incorrect-pp = Nije unešena točna trenutna primarna lozinka. Pokušaj ponovno.
 pp-change-ok = Primarna lozinka uspješno je promijenjena.
+pp-empty-warning = Tvoje spremljene lozinke i privatni ključevi neće biti zaštićeni.
 pp-erased-ok = Izbrisana je primarna lozinka. { pp-empty-warning }
 pp-not-wanted = Upozorenje! Odabrano je da se ne koristi primarna lozinka. { pp-empty-warning }
 pp-change2empty-in-fips-mode = Trenutno si u načinu rada FIPS. FIPS ne dopušta praznu primarnu lozinku.
