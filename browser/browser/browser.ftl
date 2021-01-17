@@ -564,6 +564,7 @@ library-bookmarks-bookmark-this-page =
     .label = Lisää sivu kirjanmerkkeihin
 library-bookmarks-bookmark-edit =
     .label = Muokkaa kirjanmerkkiä
+library-recent-activity-label = Viimeisin toiminta
 
 ## More items
 
