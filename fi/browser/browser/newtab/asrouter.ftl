@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = Hanki sovellus
 
 cfr-whatsnew-searchbar-title = Kirjoita vähemmän, löydä enemmän osoitepalkilla
 cfr-whatsnew-searchbar-body-topsites = Nyt vain valitse osoitepalkki, niin se näyttää linkkejä ykkössivustoihin.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Suurennuslasin kuvake
 
 ## Picture-in-Picture
@@ -280,3 +283,12 @@ cfr-whatsnew-media-keys-button = Lue miten
 
 cfr-whatsnew-search-shortcuts-header = Hakuoikotiet osoitepalkissa
 cfr-whatsnew-search-shortcuts-body = Nyt kun kirjoitat hakukoneen ta tietyn sivuston osoitepalkkiin, sininen oikotie ilmestyy alapuolelle hakuehdotuksiin. Valitsemalla sen voit kirjoittaa haun suoraan osoitepalkkiin.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Suojaus haitallisilta superevästeiltä
+cfr-whatsnew-supercookies-body = Sivustot voivat salaa kiinnittää selaimeesi ”superevästeen”, joka voi seurata sinua ympäri verkkoa, vaikka olisit poistanut evästeet. { -brand-short-name } sisältää nyt vahvan suojauksen superevästeitä vastaan, jotta niitä ei voida hyödyntää verkkotoimintasi seuraamiseen sivustolta toiselle.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Paremmat kirjanmerkit
