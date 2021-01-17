@@ -161,7 +161,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
 about-logins-confirm-remove-dialog-confirm-button = Poista
-about-logins-confirm-remove-all-dialog-confirm-button = Poista kaikki
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Poista
+       *[other] Poista kaikki
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Kyllä, poista tämä kirjautumistieto
@@ -190,6 +194,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Vie kirjautumistiedot ja salasanat
 about-logins-confirm-export-dialog-message = Salasanasi tallennetaan luettavaan muotoon (esim. hu0n0s4l4s4n4), joten kuka tahansa viedyn tiedoston avaamiseen kykenevä voi nähdä salasanat.
 about-logins-confirm-export-dialog-confirm-button = Vie…
+about-logins-alert-import-title = Tuonti valmis
+about-logins-alert-import-message = Näytä tuonnin yksityiskohtainen erittely
 confirm-discard-changes-dialog-title = Hylätäänkö tallentamattomat muutokset?
 confirm-discard-changes-dialog-message = Kaikki tallentamattomat muutokset menetetään.
 confirm-discard-changes-dialog-confirm-button = Hylkää
@@ -251,3 +257,26 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-tiedosto
        *[other] CSV-tiedosto
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Tuonti valmis
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Lisättiin uusia kirjautumistietoja:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Päivitettiin nykyisiä kirjautumistietoja:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Löydettiin päällekkäisiä kirjautumistietoja:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Virheitä:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
+    }
+about-logins-import-dialog-done = Valmis
