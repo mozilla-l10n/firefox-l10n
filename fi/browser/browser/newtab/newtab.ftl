@@ -8,6 +8,9 @@
 newtab-page-title = Uusi välilehti
 newtab-settings-button =
     .title = Muokkaa Uusi välilehti -sivua
+newtab-personalize-button-label = Muokkaa
+    .title = Muokkaa uutta välilehteä
+    .aria-label = Muokkaa uutta välilehteä
 
 ## Search box component.
 
@@ -20,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Verkkohaku
     .title = Verkkohaku
     .aria-label = Verkkohaku
+newtab-search-box-text = Verkkohaku
+newtab-search-box-input =
+    .placeholder = Verkkohaku
+    .aria-label = Verkkohaku
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Lisää hakukone
 newtab-topsites-add-topsites-header = Uusi ykkössivusto
+newtab-topsites-add-shortcut-header = Uusi oikotie
 newtab-topsites-edit-topsites-header = Muokkaa ykkössivustoa
+newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
@@ -210,4 +219,24 @@ newtab-error-fallback-refresh-link = Yritä uudestaan päivittämällä sivu.
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Oikotiet
+newtab-custom-shortcuts-subtitle = Tallentamasi tai vierailemasi sivustot
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rivi
+       *[other] { $num } riviä
+    }
+newtab-custom-sponsored-sites = Sponsoroidut oikotiet
+newtab-custom-pocket-title = { -pocket-brand-name } suosittelee
+newtab-custom-pocket-subtitle = Poikkeuksellista, valikoitua sisältöä { -pocket-brand-name }-palvelulta, osana { -brand-product-name }-perhettä
+newtab-custom-pocket-sponsored = Sponsoroidut tarinat
+newtab-custom-recent-title = Viimeisin toiminta
+newtab-custom-recent-subtitle = Valikoima viimeisimpiä sivustoja ja sisältöä
 newtab-custom-close-button = Sulje
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Tiedonmuruset
+newtab-custom-snippets-subtitle = Vinkit ja uutiset { -vendor-short-name }lta ja { -brand-product-name }ilta
+newtab-custom-settings = Muokkaa lisää asetuksia
