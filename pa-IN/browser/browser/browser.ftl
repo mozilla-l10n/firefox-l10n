@@ -572,6 +572,7 @@ library-bookmarks-bookmark-this-page =
     .label = ਇਹ ਸਫ਼ੇ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 library-bookmarks-bookmark-edit =
     .label = ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
+library-recent-activity-label = ਹਾਲੀਆ ਸਰਗਰਮੀ
 
 ## More items
 

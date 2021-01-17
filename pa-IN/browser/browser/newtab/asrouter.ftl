@@ -285,3 +285,11 @@ cfr-whatsnew-media-keys-button = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਖੋਜ ਸ਼ਾਰਟਕੱਟ
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = ਦੋਖੀ ਸੁਪਰ-ਕੂਕੀਜ਼ ਤੋਂ ਸੁਰੱਖਿਆ
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = ਵਧੀਆ ਬੁੱਕਮਾਰਕ ਬਣਾਉਣੇ
