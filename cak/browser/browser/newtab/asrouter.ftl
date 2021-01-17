@@ -293,3 +293,4 @@ cfr-whatsnew-supercookies-body = Ri taq ajk'amaya'l ruxaq pan ewäl yetikïr nik
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Utziläj taq yaketal
+cfr-whatsnew-bookmarking-body = Man k'ayew ta ye'oqäx ri jeb'ël taq ruxaq. { -brand-short-name } nunataj wakami ri jeb'ël kik'ojlib'al ri yakon taq ayaketal, yeruk'üt ri kikajtz'ik kisamajib'al yaketal pa ri k'ak'a' ruwi' chuqa' anin yatok pa ri ch'aqa' chik taq ayaketal rik'in jun rumolwuj rukajtz'ik samajib'äl.

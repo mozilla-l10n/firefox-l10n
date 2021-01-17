@@ -32,7 +32,9 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Titz'aqatisäx Kanob'äl
 newtab-topsites-add-topsites-header = K'ak'a' Utziläj Ruxaq K'amaya'l
+newtab-topsites-add-shortcut-header = K'ak'a' Chojokem
 newtab-topsites-edit-topsites-header = Tinuk' re Utziläj Ruxaq K'amaya'l re'
+newtab-topsites-edit-shortcut-header = Tinuk' Chojokem
 newtab-topsites-title-label = B'i'aj
 newtab-topsites-title-input =
     .placeholder = Tatz'ib'aj jun b'i'aj

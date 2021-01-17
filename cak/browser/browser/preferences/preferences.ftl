@@ -932,6 +932,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Kejaq ruwi'
     .accesskey = K
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Taq chojokem
+    .accesskey = c
 addressbar-locbar-topsites-option =
     .label = Jeb'ël taq ruxaq
     .accesskey = J
