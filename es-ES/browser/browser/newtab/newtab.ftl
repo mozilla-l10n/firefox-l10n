@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Buscar en la Web
     .title = Buscar en la Web
     .aria-label = Buscar en la Web
+newtab-search-box-text = Buscar en la web
+newtab-search-box-input =
+    .placeholder = Buscar en la web
+    .aria-label = Buscar en la web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Añadir motor de búsqueda
 newtab-topsites-add-topsites-header = Nuevo sitio popular
+newtab-topsites-add-shortcut-header = Nuevo acceso directo
 newtab-topsites-edit-topsites-header = Editar sitio popular
+newtab-topsites-edit-shortcut-header = Editar acceso directo
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Introducir título
