@@ -543,6 +543,7 @@ home-prefs-recent-activity-description = Izbor nedavnih stranica i sadržaja
 home-prefs-snippets-header =
     .label = Isječci
 home-prefs-snippets-description = Aktualiziranje od { -vendor-short-name } i { -brand-product-name }a
+home-prefs-snippets-description-new = Savjeti i vijesti od { -vendor-short-name } i { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
