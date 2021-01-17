@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = Tikirel niyuj <stro
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> majun nub'än pa re ch'akulal re' ruma chi majun ta ch'akulal ya'on ruk'ojlem.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> majun nub'än pa re ch'akulal re' ruma chi ri <strong>overflow:hidden</strong> man jikib'an ta.
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> majun achike nub'än chi re re ch'akulal re', ruma chi ri <strong>ruchib'al-b'anikil</strong> ja ri <strong>auto</strong> o <strong>none</strong>.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> majun nub'än pa ri taq rupam ri kajtz'ik.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> majun nub'än pa ri taq rupam ri kajtz'ik we man e ruselta' ri kajtz'ik.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
