@@ -83,3 +83,10 @@ experimental-features-js-warp-description = Ota käyttöön Warp, projekti javaS
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (sivustojen eristäminen)
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Useita kuvia kuvassa -tuki
+experimental-features-multi-pip-description = Kokeellinen tuki, jonka ansiosta useita Kuva kuvassa -ikkunoita voi olla auki samaan aikaan.
+experimental-features-http3 =
+    .label = HTTP/3-yhteyskäytäntö
+experimental-features-http3-description = Kokeellinen tuki HTTP/3-yhteyskäytännölle.
