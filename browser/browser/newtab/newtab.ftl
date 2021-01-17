@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = ਵੈੱਬ ਨੂੰ ਖੋਜੋ
     .title = ਵੈੱਬ ਨੂੰ ਖੋਜੋ
     .aria-label = ਵੈੱਬ ਨੂੰ ਖੋਜੋ
+newtab-search-box-text = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
+newtab-search-box-input =
+    .placeholder = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
+    .aria-label = ਵੈੱਬ ‘ਤੇ ਖੋਜੋ
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = ਖੋਜ ਇੰਜਣ ਜੋੜੋ
 newtab-topsites-add-topsites-header = ਨਵੀਂ ਉਪਰਲੀ ਸਾਈਟ
+newtab-topsites-add-shortcut-header = ਨਵਾਂ ਸ਼ਾਰਟਕੱਟ
 newtab-topsites-edit-topsites-header = ਉਪਰਲੀ ਸਾਈਟ ਸੋਧੋ
+newtab-topsites-edit-shortcut-header = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਸੋਧੋ
 newtab-topsites-title-label = ਸਿਰਲੇਖ
 newtab-topsites-title-input =
     .placeholder = ਸਿਰਲੇਖ ਦਿਓ
