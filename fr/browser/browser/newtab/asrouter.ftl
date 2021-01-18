@@ -280,7 +280,7 @@ cfr-whatsnew-search-shortcuts-body = Désormais, lorsque vous saisissez l’adre
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Protection contre les supercookies malveillants
-cfr-whatsnew-supercookies-body = Des sites web peuvent attacher secrètement un « supercookie » à votre navigateur qui peut vous suivre sur le Web, même après que vous avez effacé les cookies. { -brand-short-name } fournit désormais une protection robuste contre les supercookies pour qu’ils ne soient pas utilisés pour pister vos activités en ligne d’un site à un autre.
+cfr-whatsnew-supercookies-body = Des sites web peuvent attacher secrètement à votre navigateur un « supercookie » qui peut vous suivre sur le Web, même après l’effacement des cookies. { -brand-short-name } fournit désormais une protection robuste contre les supercookies pour qu’ils ne soient pas utilisés pour pister vos activités en ligne d’un site à un autre.
 
 ## What's new: Better bookmarking
 
