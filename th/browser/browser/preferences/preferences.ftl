@@ -488,6 +488,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = ไซต์ที่คุณเยี่ยมชมมากที่สุด
 home-prefs-topsites-by-option-sponsored =
     .label = ไซต์เด่นที่ได้รับการสนับสนุน
+home-prefs-shortcuts-header =
+    .label = ทางลัด
+home-prefs-shortcuts-description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
+home-prefs-shortcuts-by-option-sponsored =
+    .label = ทางลัดที่ได้รับการสนับสนุน
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -495,6 +500,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = แนะนำโดย { $provider }
 home-prefs-recommended-by-description-update = เนื้อหาสุดพิเศษจากเว็บทั่วโลกที่คัดสรรมาโดย { $provider }
+home-prefs-recommended-by-description-new = เนื้อหาสุดพิเศษที่คัดสรรโดย { $provider } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
 
 ##
 
@@ -514,6 +520,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = หน้าที่บันทึกไว้ใน { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = กิจกรรมล่าสุด
+home-prefs-recent-activity-description = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -521,6 +528,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = ส่วนย่อย
 home-prefs-snippets-description = การอัปเดตจาก { -vendor-short-name } และ { -brand-product-name }
+home-prefs-snippets-description-new = เคล็ดลับและข่าวสารจาก { -vendor-short-name } และ { -brand-product-name }
 home-prefs-sections-rows-option =
     .label = { $num } แถว
 
@@ -908,6 +916,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = แท็บที่เปิดอยู่
     .accesskey = บ
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = ทางลัด
+    .accesskey = ท
 addressbar-locbar-topsites-option =
     .label = ไซต์เด่น
     .accesskey = ด
