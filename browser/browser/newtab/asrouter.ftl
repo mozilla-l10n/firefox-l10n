@@ -286,7 +286,9 @@ cfr-whatsnew-search-shortcuts-body = Ha most beír egy keresőszolgáltatás vag
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Védelem a rosszindulatú szupersütik ellen
+cfr-whatsnew-supercookies-body = A webhelyek titkon „szupersütit” csatolhatnak böngészőjéhez, amely nyomon követheti Önt az interneten, még a sütik törlése után is. A { -brand-short-name } most már erős védelmet nyújt a szupersütikkel szemben, így azokat nem lehet a webhelyek közti online tevékenysége nyomon követésére használni.
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Jobb könyvjelzőkezelés
+cfr-whatsnew-bookmarking-body = Könnyebb nyomon követni kedvenc webhelyeit. A { -brand-short-name } most megjegyzi az elmentett könyvjelzői kedvelt helyét, alapértelmezés szerint megjeleníti a könyvjelzők eszköztárat az új lapokon, s az eszköztármappán keresztül könnyen hozzáférhet a többi könyvjelzőhöz.

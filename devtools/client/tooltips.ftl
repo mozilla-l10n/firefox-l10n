@@ -48,6 +48,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Próbálj
 inactive-css-not-display-block-on-floated-fix = Próbálja meg eltávolítani a <strong>float</strong> tulajdonságot, vagy hozzáadni a <strong>display:block</strong> tulajdonságot. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Próbálja meg a <strong>position</strong> tulajdonságot <strong>static</strong> helyett valami másra beállítani. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Próbálja meg ezt hozzáadni: <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Próbálja meg a <strong>display</strong> tulajdonságot másra állítani, mint a <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> vagy <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Próbálja meg a <strong>display</strong> tulajdonságot másra állítani, mint a <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> vagy <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Próbálja meg a <strong>outline-style</strong> tulajdonságot <strong>auto</strong> vagy <strong>none</strong> helyett valami másra beállítani. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
