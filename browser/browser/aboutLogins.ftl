@@ -281,3 +281,14 @@ about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Jamaj legitimiloj ĝisdatigitaj:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
+       *[other] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportitaj)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Eraro:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
+       *[other] <span>Eraroj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportitaj)</span>
+    }
+about-logins-import-dialog-done = Farita

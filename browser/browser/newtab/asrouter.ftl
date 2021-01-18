@@ -126,6 +126,9 @@ cfr-whatsnew-lockwise-take-link-text = Ricevi la programon
 
 cfr-whatsnew-searchbar-title = Tajpu malpli, trovu pli per la adresa strio
 cfr-whatsnew-searchbar-body-topsites = Ekde nun, simple iru al la adresa strio kaj aperos kadro kun ligiloj al viaj plej vizititaj retejoj.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Emblemo de lupeo
 
 ## Picture-in-Picture
@@ -280,3 +283,12 @@ cfr-whatsnew-media-keys-button = Lernu kiel fari
 
 cfr-whatsnew-search-shortcuts-header = Serĉi ŝparvojojn en la adresa strio
 cfr-whatsnew-search-shortcuts-body = Ekde nun, kiam vi tajpas serĉilon aŭ specifan retejon en la adresa strio, blua ŝparvojo aperos en la subaj serĉaj sugestoj. Elektu tiun ŝparvojon por serĉi rekte el la adresa strio.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protekto kontraŭ malicaj superkuketoj
+cfr-whatsnew-supercookies-body = Retejoj povas sekrete alkroĉi "superkuketon" al via retumilo, kiu sekvos vin tra la reto, eĉ post viŝo de kuketoj. { -brand-short-name } nun provizas fortan protekton kontraŭ superkuketoj, tiel ke ili ne povas esti uzataj por spuri vian retumon inter retejoj.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Plibonigitaj legosignoj
