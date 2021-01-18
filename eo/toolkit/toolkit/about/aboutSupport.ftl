@@ -189,6 +189,7 @@ support-third-party-modules-title = Moduloj de aliaj
 support-third-party-modules-module = Dosiero de modulo
 support-third-party-modules-version = Versio de dosiero
 support-third-party-modules-vendor = Informo de provizanto
+support-third-party-modules-occurrence = Ŝargadoj
 support-third-party-modules-process = Tipo kaj identigilo de procezo
 support-third-party-modules-thread = Fadeno
 support-third-party-modules-uptime = Daŭro de procezo (ms)
