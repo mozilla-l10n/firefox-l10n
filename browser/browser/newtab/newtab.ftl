@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Serĉi en la teksaĵo
     .title = Serĉi en la teksaĵo
     .aria-label = Serĉi en la teksaĵo
+newtab-search-box-text = Serĉi en la reto
+newtab-search-box-input =
+    .placeholder = Serĉi en la reto
+    .aria-label = Serĉi en la reto
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Aldoni serĉilon
 newtab-topsites-add-topsites-header = Nova ofta retejo
+newtab-topsites-add-shortcut-header = Nova ŝparvojo
 newtab-topsites-edit-topsites-header = Redakti oftan retejon
+newtab-topsites-edit-shortcut-header = Redakti ŝparvojon
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Tajpu titolon
