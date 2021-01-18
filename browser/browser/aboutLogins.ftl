@@ -204,6 +204,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Elporti legitimilojn kaj pasvortojn
 about-logins-confirm-export-dialog-message = Viaj pasvortoj estos konservitaj kiel legebla teksto (ekzemple: Aĉ@pasvorto) tiel ke iu ajn kun aliro al la dosiero povos vidi ilin.
 about-logins-confirm-export-dialog-confirm-button = Elporti…
+about-logins-alert-import-title = Enportado finita
+about-logins-alert-import-message = Vidi detalan raporton pri enportado
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
 confirm-discard-changes-dialog-message = Ĉiuj nekonservitaj ŝanĝoj estos perditaj.
 confirm-discard-changes-dialog-confirm-button = Ignori
@@ -264,4 +266,18 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Dosiero CSV
        *[other] Dosiero CSV
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Enportado finita
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Novaj legitimiloj aldonitaj:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Jamaj legitimiloj ĝisdatigitaj:</span> <span data-l10n-name="count">{ $count }</span>
     }
