@@ -20,17 +20,9 @@ printui-page-range-custom = Personalizzato
 printui-page-range-label = Pagine
 printui-page-range-picker =
   .aria-label = Selezionare un intervallo di pagine
-printui-page-custom-range =
-  .aria-label = Inserire un intervallo di pagine personalizzato
 printui-page-custom-range-input =
   .aria-label = Inserire un intervallo di pagine personalizzato
   .placeholder = ad es. 2-6, 9, 12-16
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Da
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = a
 
 # Section title for the number of copies to print
 printui-copies-label = Copie
@@ -73,7 +65,6 @@ printui-margins = Margini
 printui-margins-default = Predefiniti
 printui-margins-min = Minimi
 printui-margins-none = Nessuno
-printui-margins-custom = Personalizzati
 printui-margins-custom-inches = Personalizzati (pollici)
 printui-margins-custom-top = Superiore
 printui-margins-custom-bottom = Inferiore
