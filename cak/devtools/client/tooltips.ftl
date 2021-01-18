@@ -48,6 +48,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Titojtob'
 inactive-css-not-display-block-on-floated-fix = Tatojtob'ej nayüj <strong>jun k'o wi</strong> o tatz'aqatisaj <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Tatojtob'ej najikib'a' runuk'ulem <strong>k'ojlemal</strong> chuwäch <strong>jun k'o wi</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Tatojtob'ej natz'aqatisaj <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Tatojtob'ej nab'än runuk'ulem richinil <strong>tik'ut</strong> junwi chuwäch <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, o <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Tatojtob'ej nab'än runuk'ulem richinil <strong>tik'ut</strong> junwi chuwäch <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, o <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Tatojtob'ej najäl ri rub'anikil <strong>outline-style</strong> rik'in jun chik chuwa ri <strong>auto</strong> o <strong>none</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
