@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (reteja izolado) estas ekspe
 experimental-features-multi-pip =
     .label = Subteno por pluraj inkrustitaj filmetoj
 experimental-features-multi-pip-description = Eksperimenta subteno por permesi la samtempan malfermon de pluraj inkrustitaj filmetoj.
+experimental-features-http3 =
+    .label = Protokolo HTTP/3
+experimental-features-http3-description = Eksperimenta subteno de la protokolo HTTP/3.

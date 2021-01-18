@@ -51,6 +51,7 @@ printui-duplex-checkbox = Presi ambaŭflanke
 printui-options = Ebloj
 printui-headers-footers-checkbox = Presi paĝokapojn kaj paĝopiedojn
 printui-backgrounds-checkbox = Presi fonojn
+printui-selection-checkbox = Presi elektaĵon
 printui-color-mode-label = Kolora reĝimo
 printui-color-mode-color = Koloro
 printui-color-mode-bw = Nigra kaj blanka
