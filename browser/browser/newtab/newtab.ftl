@@ -32,7 +32,9 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = เพิ่มเครื่องมือค้นหา
 newtab-topsites-add-topsites-header = ไซต์เด่นใหม่
+newtab-topsites-add-shortcut-header = ทางลัดใหม่
 newtab-topsites-edit-topsites-header = แก้ไขไซต์เด่น
+newtab-topsites-edit-shortcut-header = แก้ไขทางลัด
 newtab-topsites-title-label = ชื่อเรื่อง
 newtab-topsites-title-input =
     .placeholder = ป้อนชื่อเรื่อง
@@ -217,17 +219,23 @@ newtab-error-fallback-refresh-link = เรียกหน้าใหม่เ�
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = ทางลัด
+newtab-custom-shortcuts-subtitle = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
 newtab-custom-row-selector =
     { $num ->
        *[other] { $num } แถว
     }
+newtab-custom-sponsored-sites = ทางลัดที่ได้รับการสนับสนุน
 newtab-custom-pocket-title = แนะนำโดย { -pocket-brand-name }
+newtab-custom-pocket-subtitle = เนื้อหาสุดพิเศษที่คัดสรรโดย { -pocket-brand-name } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
 newtab-custom-pocket-sponsored = เรื่องราวที่ได้รับการสนับสนุน
 newtab-custom-recent-title = กิจกรรมล่าสุด
+newtab-custom-recent-subtitle = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
 newtab-custom-close-button = ปิด
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = ส่วนย่อย
+newtab-custom-snippets-subtitle = เคล็ดลับและข่าวสารจาก { -vendor-short-name } และ { -brand-product-name }
 newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม
