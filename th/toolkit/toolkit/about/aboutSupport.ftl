@@ -185,15 +185,32 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = โมดูลบุคคลที่สาม
+support-third-party-modules-module = ไฟล์โมดูล
+support-third-party-modules-version = รุ่นไฟล์
+support-third-party-modules-vendor = ข้อมูลผู้จำหน่าย
+support-third-party-modules-occurrence = จำนวนเหตุการณ์
+support-third-party-modules-process = ชนิดและ ID โปรเซส
+support-third-party-modules-thread = เธรด
+support-third-party-modules-base = ที่อยู่ Imagebase
+support-third-party-modules-uptime = ระยะเวลาทำงานของกระบวนการ (ms)
+support-third-party-modules-duration = ระยะเวลาในการโหลด (ms)
+support-third-party-modules-empty = ไม่ได้โหลดโมดูลบุคคลที่สามใด
 support-third-party-modules-no-value = (ไม่มีค่า)
 support-third-party-modules-button-open =
     .title = เปิดตำแหน่งที่ตั้งไฟล์…
 support-third-party-modules-expand =
     .title = แสดงข้อมูลโดยละเอียด
+support-third-party-modules-collapse =
+    .title = ยุบข้อมูลโดยละเอียด
+support-third-party-modules-unsigned-icon =
+    .title = โมดูลนี้ไม่มีการลงลายเซ็น
 support-third-party-modules-folder-icon =
     .title = เปิดตำแหน่งที่ตั้งไฟล์…
 support-third-party-modules-down-icon =
     .title = แสดงข้อมูลโดยละเอียด
+support-third-party-modules-up-icon =
+    .title = ยุบข้อมูลโดยละเอียด
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = รายงานข้อขัดข้องของ { $days } วันที่ผ่านมา
