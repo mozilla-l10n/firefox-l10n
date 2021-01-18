@@ -225,7 +225,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Wakami tikanöx pa:
+search-one-offs-with-title = Wakami takanoj pa:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -399,7 +399,7 @@ urlbar-placeholder =
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Tikanöx pa Web
-    .aria-label = Tikanöx rik'in { $name }
+    .aria-label = Tikanöx pa { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -423,7 +423,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Tikanöx rik'in { $name }  o titz'ib'äx ochochib'äl
+    .placeholder = Takanoj pa { $name } o tatz'ib'aj ri rochochib'al
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk
 urlbar-permissions-granted =
@@ -448,7 +448,7 @@ urlbar-pocket-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Tikanöx rik'in { $engine } pa jun Ichinan Tzuwäch
+urlbar-result-action-search-in-private-w-engine = Tikanöx pa { $engine } pa jun Ichinan Tzuwäch
 # Used when the private browsing engine is the same as the default engine.
 urlbar-result-action-search-in-private = Tikanöx pa jun Ichinan Tzuwäch
 # The "with" format was chosen because the search engine name can end with
@@ -474,7 +474,7 @@ urlbar-result-action-before-tabtosearch-other = Tapitz'a' Tab richin nakanoj { $
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Tikanöx rik'in { $engine } pa kikajtz'ik ochochib'äl
+urlbar-result-action-tabtosearch-web = Tikanöx pa { $engine } pa kikajtz'ik ochochib'äl
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
