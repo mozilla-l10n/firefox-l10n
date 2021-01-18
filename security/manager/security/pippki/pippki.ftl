@@ -8,7 +8,8 @@ password-quality-meter = Ниво квалитета лозинке
 
 change-password-window =
     .title = Промена главне лозинке
-
+change-device-password-window =
+    .title = Промени лозинку
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Безбедносни уређај: { $tokenName }
@@ -21,6 +22,7 @@ change-password-reenter = Нова лозинка (још једном):
 reset-password-window =
     .title = Ресетуј главну лозинку
     .style = width: 40em
+pippki-failed-pw-change = Није могуће променити лозинку.
 
 ## Reset Primary Password dialog
 
