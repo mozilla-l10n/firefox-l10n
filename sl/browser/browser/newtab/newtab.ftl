@@ -25,7 +25,9 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Dodaj iskalnik
 newtab-topsites-add-topsites-header = Nova glavna stran
+newtab-topsites-add-shortcut-header = Nova bližnjica
 newtab-topsites-edit-topsites-header = Uredi glavno stran
+newtab-topsites-edit-shortcut-header = Uredi bližnjico
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Vnesite ime
@@ -210,6 +212,7 @@ newtab-error-fallback-refresh-link = Osvežite stran za ponoven poskus.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Bližnjice
+newtab-custom-shortcuts-subtitle = Strani, ki jih shranite ali obiščete
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } vrstica
@@ -226,3 +229,4 @@ newtab-custom-close-button = Zapri
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Izrezki
+newtab-custom-snippets-subtitle = Nasveti in novice organizacije { -vendor-short-name } in { -brand-product-name }a

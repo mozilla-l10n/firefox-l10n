@@ -192,6 +192,7 @@ support-third-party-modules-title = Moduli drugih ponudnikov
 support-third-party-modules-module = Datoteka modula
 support-third-party-modules-version = Različica datoteke
 support-third-party-modules-vendor = Podatki o izdelovalcu
+support-third-party-modules-occurrence = Ponovitev
 support-third-party-modules-process = Vrsta in ID procesa
 support-third-party-modules-thread = Nit
 support-third-party-modules-empty = Ni naloženih modulov drugih ponudnikov.

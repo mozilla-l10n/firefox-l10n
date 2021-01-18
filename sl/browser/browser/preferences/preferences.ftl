@@ -928,9 +928,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = odprte zavihke
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = bližnjice
+    .accesskey = b
 addressbar-locbar-topsites-option =
     .label = glavne strani
     .accesskey = g
+addressbar-locbar-engines-option =
+    .label = iskalnike
+    .accesskey = i
 addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 
 ## Privacy Section - Content Blocking
