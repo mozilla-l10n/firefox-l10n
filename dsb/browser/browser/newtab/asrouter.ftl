@@ -294,7 +294,9 @@ cfr-whatsnew-search-shortcuts-body = Něnto, gaž pytnicu abo wěste sedło do a
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Šćit pśed złosnymi supercookiejami
+cfr-whatsnew-supercookies-body = Websedła mógu kšajźu wašomu wobglědowakoju „supercookie“ pśidaś, kótaryž móžośo wam pó webje slědowaś, samo za tym až sćo swóje cookieje wulašował. { -brand-short-name } něnto mócny šćit pśeśiwo supercookiejam bitujo, až njeby dali se wužywaś, wašym aktiwitam online wót jadnogo sedła k pśiducemu sedłu slědowaś.
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Lěpše zastojanje cytańskich zmanjenjow
+cfr-whatsnew-bookmarking-body = Jo lažčej, pśeglěd nad wašymi nejlubšymi sedłami wobchowaś. { -brand-short-name } se něnto wašo nejlubše městno za skłaźone cytańske znamjenja markujo, pokazujo symbolowu rědku cytańskich znamjenjow pó standarźe na nowych rejtarikach a dajo wam lažki pśistup k zbytkoju wašych cytańskich znamjenjow pśez zarědnik symboloweje rědki.
