@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (การแยกไซต
 experimental-features-multi-pip =
     .label = การรองรับภาพที่เล่นควบคู่หลายภาพ
 experimental-features-multi-pip-description = การรองรับแบบทดลองสำหรับอนุญาตให้เปิดหน้าต่างภาพที่เล่นควบคู่ได้พร้อมกันหลายภาพ
+experimental-features-http3 =
+    .label = โปรโตคอล HTTP/3
+experimental-features-http3-description = การรองรับแบบทดลองสำหรับโปรโตคอล HTTP/3
