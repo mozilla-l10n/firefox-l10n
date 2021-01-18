@@ -558,6 +558,7 @@ library-bookmarks-bookmark-this-page =
     .label = Dodaj stran med zaznamke
 library-bookmarks-bookmark-edit =
     .label = Uredi ta zaznamek
+library-recent-activity-label = Nedavne dejavnosti
 
 ## More items
 

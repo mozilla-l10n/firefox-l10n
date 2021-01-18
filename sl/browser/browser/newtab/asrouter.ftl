@@ -290,3 +290,11 @@ cfr-whatsnew-media-keys-button = Poglejte, kako
 
 ## What's new: Search shortcuts
 
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Zaščita pred zlonamernimi superpiškotki
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Boljše upravljanje zaznamkov
