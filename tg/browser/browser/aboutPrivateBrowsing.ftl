@@ -8,6 +8,7 @@ about-private-browsing-search-placeholder = Ҷустуҷӯ дар Интерне
 about-private-browsing-info-title = Шумо дар равзанаи махфӣ қарор доред
 about-private-browsing =
     .title = Ҷустуҷӯ дар Интернет
+about-private-browsing-need-more-privacy = Ба махфияти бештар ниёз доред?
 about-private-browsing-turn-on-vpn = { -mozilla-vpn-brand-name }-ро озмоед
 about-private-browsing-search-banner-close-button =
     .aria-label = Пӯшидан

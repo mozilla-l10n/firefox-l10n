@@ -4,3 +4,4 @@
 
 crashed-close-tab-button = Пӯшидани варақа
 crashed-restore-tab-button = Барқарор кардани ин варақа
+crashed-restore-all-button = Барқарор кардани ҳамаи варақаҳои вайроншуда

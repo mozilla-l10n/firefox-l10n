@@ -57,6 +57,7 @@ login-list-intro-description = Вақте ки шумо ниҳонвожаеро
 about-logins-login-list-empty-search-title = Ягон воридшавӣ ёфт нашуд
 about-logins-login-list-empty-search-description = Ягон натиҷа мувофиқи ҷустуҷӯи шумо ёфт нашуд.
 login-list-item-title-new-login = Воридшавии нав
+login-list-item-subtitle-new-login = Маълумоти воридшавии худро ворид намоед
 login-list-item-subtitle-missing-username = (номи корбар нест)
 about-logins-list-item-vulnerable-password-icon =
     .title = Ниҳонвожаи камқувват
@@ -198,6 +199,7 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Воридот анҷом ёфт
 about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Воридшавиҳои нав илова шуданд:</span> <span data-l10n-name="count">{ $count }</span>
