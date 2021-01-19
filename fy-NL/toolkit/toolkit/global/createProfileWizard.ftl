@@ -14,7 +14,7 @@ create-profile-first-page-header =
        *[other] Wolkom by de { create-profile-window.title }
     }
 profile-creation-explanation-1 = { -brand-short-name } bewarret ynformaasje oer jo ynstellingen en foarkarren yn jo persoanlike profyl.
-profile-creation-explanation-2 = As jo dizze kopy fan { -brand-short-name } diele mei oare brûkers, kinne jo profilen brûke om de ynformaasje fan alle brûkers skieden te hâlden. Om dit te berikjen moat elke brûker syn of har eigen profyl oanmeitsje.
+profile-creation-explanation-2 = As jo dizze kopy fan { -brand-short-name } diele mei oare brûkers, kinne jo profilen brûke om de ynformaasje fan alle brûkers skieden te hâlden. Om dit te berikken moat elke brûker syn of har eigen profyl oanmeitsje.
 profile-creation-explanation-3 = As jo de iennichste binne dy't dizze kopy fan { -brand-short-name } brûke, moatte jo op syn minst ien profyl hawwe. Jo kinne, as jo wolle, mear as ien profyl oanmeitsje foar josels om ferskate sets fan ynstellingen en foarkarren te bewarjen. Bygelyks, jo wolle miskien aparte profilen ha foar saaklik en persoanlik gebrûk.
 profile-creation-explanation-4 =
     { PLATFORM() ->
