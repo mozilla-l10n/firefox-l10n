@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Nalaganje:
 videocontrols-volume-control =
     .aria-label = Glasnost
+videocontrols-closed-caption-button =
+    .aria-label = Podnapisi
