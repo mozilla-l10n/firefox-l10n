@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -217,7 +217,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Այս անգամ որոնել հետևյալի հետ.
 # This string won't wrap, so if the translated string is longer,
@@ -283,7 +283,7 @@ identity-description-custom-root = Mozilla֊ն չի ճանաչում այս վկ
 identity-remove-cert-exception =
     .label = Հեռացնել բացառությունը
     .accesskey = Հ
-identity-description-insecure = Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղկարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
+identity-description-insecure = Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
 identity-description-insecure-login-forms = Մուտքգործման տեղեկությունը, որ մուտքագրել եք այս էջում, անվտանգ չէ և կարող է վտանգվել:
 identity-description-weak-cipher-intro = Ձեր կապակցումը այս կայքին օգտագործում է աղքատ գաղտնագրում և այն գաղտնի չէ:
 identity-description-weak-cipher-risk = Այլ անձինք կարող են դիտել ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին:
@@ -353,6 +353,8 @@ enable-devtools-popup-description = F12 դյուրանցումը օգտագոր�
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Մուտքագրեք կայքի հասցե կամ որոնում
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Մուտքագրեք կայքի հասցե կամ որոնում
 # Variables
