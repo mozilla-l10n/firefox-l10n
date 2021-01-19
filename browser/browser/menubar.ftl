@@ -26,16 +26,8 @@ menu-application-touch-bar =
 
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
-    .label =
-        { PLATFORM() ->
-            [windows] Esci
-           *[other] Esci
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] E
-        }
+    .label = Esci
+    .accesskey = E
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Esci da { -brand-shorter-name }
