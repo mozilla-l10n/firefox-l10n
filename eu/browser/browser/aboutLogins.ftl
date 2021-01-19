@@ -169,6 +169,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Kendu
+        [one] Kendu
+       *[other] Kendu denak
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Bai, kendu saio-hasiera hau
