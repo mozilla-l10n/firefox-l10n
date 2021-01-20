@@ -314,3 +314,4 @@ menu-help-not-deceptive =
     .accesskey = e
 menu-help-check-for-update =
     .label = Controlla aggiornamenti…
+    .accesskey = C
