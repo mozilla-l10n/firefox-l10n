@@ -12,7 +12,7 @@
 <!ENTITY archiveYearly.accesskey "w">
 <!ENTITY archiveMonthly.label "Yiwen n ukaram n uḥraz deg aggur">
 <!ENTITY archiveMonthly.accesskey "w">
-<!ENTITY keepFolderStructure.label "Eǧǧ taɣessa n ukaram yellan n yeznan n yettwaɣebren">
+<!ENTITY keepFolderStructure.label "Eǧǧ taɣessa n ukaram yellan n yiznan yettwaɣebren">
 <!ENTITY keepFolderStructure.accesskey "ǧ">
 <!ENTITY archiveExample.label "Amedya">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
