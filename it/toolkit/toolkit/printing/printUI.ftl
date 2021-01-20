@@ -92,6 +92,7 @@ printui-preview-label =
 printui-pages-per-sheet = Pagine per foglio
 
 printui-print-progress-indicator = Stampa in corso…
+printui-print-progress-indicator-saving = Salvataggio in corso…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
