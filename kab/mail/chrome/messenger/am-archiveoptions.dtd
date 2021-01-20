@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-archiveoptions.xul -->
-
-
 <!-- extracted from am-archiveoptions.xhtml -->
 
 <!ENTITY dialogTitle.label "Iɣewwaṛen n u&amp;ḥraz">
@@ -15,7 +12,7 @@
 <!ENTITY archiveYearly.accesskey "w">
 <!ENTITY archiveMonthly.label "Yiwen n ukaram n uḥraz deg aggur">
 <!ENTITY archiveMonthly.accesskey "w">
-<!ENTITY keepFolderStructure.label "Eǧǧ taɣessa n ukaram yella n yeznan n yettwaḥ€rzen">
+<!ENTITY keepFolderStructure.label "Eǧǧ taɣessa n ukaram yellan n yeznan n yettwaɣebren">
 <!ENTITY keepFolderStructure.accesskey "ǧ">
 <!ENTITY archiveExample.label "Amedya">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
