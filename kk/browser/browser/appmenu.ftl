@@ -45,6 +45,15 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } туралы
+    .accesskey = а
+appmenu-help-product =
+    .label = { -brand-shorter-name } көмегі
+    .accesskey = к
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } ішіне cаяхат
+    .accesskey = я
 appmenu-help-troubleshooting-info =
     .label = Техникалық ақпарат
     .accesskey = а
@@ -59,6 +68,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Фишингті сайт туралы хабарлау…
+    .accesskey = Ф
+appmenu-help-not-deceptive =
+    .label = Бұл фишингті сайт емес…
+    .accesskey = ш
 
 ##
 
