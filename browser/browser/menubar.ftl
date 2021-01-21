@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Dienste
+menu-application-hide-this =
+    .label = Verskuil { -brand-shorter-name }
 menu-application-hide-other =
     .label = Verskuil ander
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Afsluit
+           *[other] Afsluit
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] A
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Sluit { -brand-shorter-name } af
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Sluit { -brand-shorter-name } af
+menu-about =
+    .label = Aangaande { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
