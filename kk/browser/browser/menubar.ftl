@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Басқаларын жасыру
 menu-application-show-all =
     .label = Барлығын көрсету
+menu-application-touch-bar =
+    .label = Сенсорлық панельді баптау…
 
 ##
 
