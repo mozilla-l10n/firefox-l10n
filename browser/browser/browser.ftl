@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Poistu kokoruututilasta (esc)
 pointerlock-warning-domain = Sivusto <span data-l10n-name="domain">{ $domain }</span> hallitsee hiiren osoitinta. Voit ottaa osoittimen hallintaasi painamalla Esc.
 pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ottaa osoittimen hallintaasi painamalla Esc.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Lisää sivu kirjanmerkkeihin
 library-bookmarks-bookmark-edit =
     .label = Muokkaa kirjanmerkkiä
-library-recent-activity-label = Viimeisin toiminta
+library-recent-activity-title =
+    .value = Viimeisin toiminta
 
 ## More items
 
