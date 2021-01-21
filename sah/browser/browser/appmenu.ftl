@@ -32,6 +32,12 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-help-product =
+    .label = { -brand-shorter-name } Көмө
+    .accesskey = К
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } Көмө
+    .accesskey = К
 appmenu-help-troubleshooting-info =
     .label = Кыһалҕаны быһаарар туһунан
     .accesskey = К
