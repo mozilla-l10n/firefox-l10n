@@ -45,9 +45,24 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Jie'e { -brand-shorter-name }
+    .accesskey = J
+appmenu-help-product =
+    .label = { -brand-shorter-name } Chinei
+    .accesskey = C
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } Tour
+    .accesskey = o
 appmenu-help-import-from-another-browser =
     .label = Nake'ema ji inka ka̱a̱ nánuku
     .accesskey = I
+appmenu-help-keyboard-shortcuts =
+    .label = Sa´a ñama Ka̱a̱ tee
+    .accesskey = S
+appmenu-help-troubleshooting-info =
+    .label = Tu'un saa kuvi nasa'anu ya'a de ntivu
+    .accesskey = T
 appmenu-help-feedback-page =
     .label = Chu'un ichí a jíaníninu...
     .accesskey = C
@@ -56,6 +71,9 @@ appmenu-help-feedback-page =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-safe-mode-without-addons =
+    .label = Nakaji´e ji da nachisó-kúmani na´va...
+    .accesskey = N
+appmenu-help-safe-mode-with-addons =
     .label = Nakaji´e ji da nachisó-kúmani na´va...
     .accesskey = N
 
