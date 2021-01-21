@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = სრული ეკრანიდან გა�
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> მართავს თქვენს მაჩვენებელს. მართვის დასაბრუნებლად დააჭირეთ Esc ღილაკს.
 pointerlock-warning-no-domain = ეს დოკუმენტი მართავს თქვენს მაჩვენებელს. მართვის დასაბრუნებლად დააჭირეთ Esc ღილაკს.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = გვერდის ჩანიშვნა
 library-bookmarks-bookmark-edit =
     .label = სანიშნის ჩასწორება
-library-recent-activity-label = ბოლო მოქმედებები
 
 ## More items
 
