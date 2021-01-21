@@ -15,6 +15,8 @@ menu-application-services =
     .label = Ծառայություններ
 menu-application-hide-other =
     .label = Թաքցնել Մնացածը
+menu-application-show-all =
+    .label = Ցուցադրել բոլորը
 
 ##
 
