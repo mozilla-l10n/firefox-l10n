@@ -13,12 +13,21 @@
 
 menu-application-services =
     .label = ၀န်ဆောင်မှုများ
+menu-application-hide-this =
+    .label = { -brand-shorter-name } ကို ဖျောက်ထားပါ
+menu-application-hide-other =
+    .label = အခြားအရာများကို ဖျောက်ထားပါ
+menu-application-show-all =
+    .label = အားလုံးကို ပြပါ
 
 ##
 
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = { -brand-shorter-name } အကြောင်း
+    .accesskey = A
 
 ## File Menu
 
