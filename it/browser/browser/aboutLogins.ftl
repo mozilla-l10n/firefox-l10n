@@ -261,6 +261,14 @@ about-logins-export-file-picker-csv-filter-title =
      *[other] File CSV
   }
 
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+  { PLATFORM() ->
+      [macos] Documento TSV
+     *[other] File TSV
+  }
+
 ## Login Import Dialog
 
 # Title of the file picker dialog
@@ -284,3 +292,17 @@ about-logins-import-dialog-items-modified = <span>Credenziali esistenti aggiorna
 about-logins-import-dialog-items-no-change = <span>Credenziali duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-items-error = <span>Errori:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-done = Fatto
+
+about-logins-import-dialog-error-title = Errore in fase di importazione
+about-logins-import-dialog-error-conflicting-values-title = Valori multipli in conflitto per una credenziale
+about-logins-import-dialog-error-conflicting-values-description = Ad esempio: diversi nome utente, password, URL ecc. per una credenziale.
+about-logins-import-dialog-error-file-format-title = Errore nel formato del file
+about-logins-import-dialog-error-file-format-description = Intestazioni di colonna errate o assenti. Assicurarsi che il file includa colonne per nome utente, password e URL.
+about-logins-import-dialog-error-file-permission-title = Impossibile leggere il file
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } non è in grado di leggere il file. Provare a modificare i permessi del file.
+about-logins-import-dialog-error-unable-to-read-title = Impossibile elaborare il file
+about-logins-import-dialog-error-unable-to-read-description = Assicurarsi di aver selezionato un file CSV o TSV.
+about-logins-import-dialog-error-no-logins-imported = Non è stata importata alcuna credenziale
+about-logins-import-dialog-error-learn-more = Ulteriori informazioni
+about-logins-import-dialog-error-try-again = Riprova…
+about-logins-import-dialog-error-cancel = Annulla
