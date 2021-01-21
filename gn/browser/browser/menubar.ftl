@@ -11,12 +11,40 @@
 
 ## Application Menu (macOS only)
 
+menu-application-hide-this =
+    .label = { -brand-shorter-name } moñemi
+menu-application-hide-other =
+    .label = Ambuéva moñemi
+menu-application-show-all =
+    .label = Techaukapaite
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Ñesẽ
+           *[other] Ñesẽ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] x
+           *[other] Q
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name }-gui ñesẽ
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name }-gui ñesẽ
+menu-about =
+    .label = { -brand-shorter-name } rehegua
+    .accesskey = A
 
 ## File Menu
 
