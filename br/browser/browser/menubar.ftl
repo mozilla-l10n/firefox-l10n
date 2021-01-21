@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Kuzhat ar re all
 menu-application-show-all =
     .label = Diskouez pep tra
+menu-application-touch-bar =
+    .label = Personelaat ar varrenn-stok…
 
 ##
 
