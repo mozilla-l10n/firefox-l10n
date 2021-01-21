@@ -51,6 +51,9 @@ appmenu-about =
 appmenu-help-product =
     .label = { -brand-shorter-name } Help
     .accesskey = H
+appmenu-help-troubleshooting-info =
+    .label = Probleemoplossingsinformatie
+    .accesskey = P
 appmenu-help-feedback-page =
     .label = Feedback verzenden…
     .accesskey = v
@@ -58,6 +61,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Herstarten met uitgeschakelde add-ons…
+    .accesskey = r
 appmenu-help-safe-mode-with-addons =
     .label = Herstarten met ingeschakelde add-ons
     .accesskey = r
