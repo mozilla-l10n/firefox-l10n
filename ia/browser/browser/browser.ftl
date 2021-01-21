@@ -567,6 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Adder un marcapaginas
 library-bookmarks-bookmark-edit =
     .label = Modificar iste marcapaginas
+library-recent-activity-title =
+    .value = Recente activitate
 
 ## More items
 
