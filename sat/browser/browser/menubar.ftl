@@ -3,6 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't re-use these strings outside of the menubar.
+
+
+## Application Menu (macOS only)
+
+menu-application-services =
+    .label = का़मी को
+menu-application-hide-other =
+    .label = एटागाक् को उकुय मे.
+menu-application-show-all =
+    .label = जोतो उदुग मे.
+
+##
+
+# This menu-quit-button string is only used on Linux.
+menu-quit-button =
+    .label = { menu-quit.label }
+
 ## File Menu
 
 menu-file =
@@ -187,6 +208,15 @@ menu-window-bring-all-to-front =
     .label = जोतो सामाङ रे आ़गु.
 
 ## Help Menu
+
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-help-product
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
 
 menu-help-keyboard-shortcuts =
     .label = का़ठी बोर्ड काटो तेयार
