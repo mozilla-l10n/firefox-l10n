@@ -567,6 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = გვერდის ჩანიშვნა
 library-bookmarks-bookmark-edit =
     .label = სანიშნის ჩასწორება
+library-recent-activity-title =
+    .value = ბოლო მოქმედებები
 
 ## More items
 
