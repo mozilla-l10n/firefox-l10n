@@ -83,6 +83,7 @@ login-item-new-login-title = 新建登录信息
 login-item-edit-button = 编辑
 about-logins-login-item-remove-button = 移除
 login-item-origin-label = 网址
+login-item-tooltip-message = 请确保其与您所登录的网站地址精确匹配。
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 用户名
@@ -261,6 +262,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV 文档
        *[other] CSV 文件
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV 文件
+       *[other] TSV 文件
+    }
 
 ##
 ## Variables:
@@ -284,3 +292,14 @@ about-logins-import-dialog-items-error =
        *[other] <span>错误：</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未导入）</span>
     }
 about-logins-import-dialog-done = 完成
+about-logins-import-dialog-error-title = 导入出错
+about-logins-import-dialog-error-file-format-title = 文件格式问题
+about-logins-import-dialog-error-file-format-description = 列标题不正确或缺失。请确保文件包含用户名、密码和网址列。
+about-logins-import-dialog-error-file-permission-title = 无法读取文件
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } 无权读取文件。请尝试更改文件权限。
+about-logins-import-dialog-error-unable-to-read-title = 无法解析文件
+about-logins-import-dialog-error-unable-to-read-description = 请确保已选择 CSV 或 TSV 文件。
+about-logins-import-dialog-error-no-logins-imported = 未导入任何登录信息
+about-logins-import-dialog-error-learn-more = 详细了解
+about-logins-import-dialog-error-try-again = 重试…
+about-logins-import-dialog-error-cancel = 取消
