@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = सेवा
+menu-application-hide-this =
+    .label = { -brand-shorter-name } ला लपवा
 menu-application-hide-other =
     .label = इतरांना लपवा
 menu-application-show-all =
@@ -20,9 +22,19 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } मधून बाहेर पडा
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } मधून बाहेर पडा
+menu-about =
+    .label = { -brand-shorter-name } विषयी
+    .accesskey = A
 
 ## File Menu
 
