@@ -567,6 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Aldoni legosignon por tiu ĉi paĝo
 library-bookmarks-bookmark-edit =
     .label = Redakti tiun ĉi legosignon
+library-recent-activity-title =
+    .value = Ĵusa agado
 
 ## More items
 
