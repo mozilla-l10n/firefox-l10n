@@ -27,3 +27,29 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = का़ठी बोर्ड काटो तेयार
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = दिगधा़ हुयुगाक् ला़य सोदोर
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = फिडबैक जोमा एम …
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
