@@ -26,6 +26,9 @@ appmenuitem-fullscreen =
 
 ## Help panel
 
+appmenu-about =
+    .label = Bhaih { -brand-shorter-name }
+    .accesskey = A
 appmenu-help-product =
     .label = Beunantu { -brand-shorter-name }
     .accesskey = H
