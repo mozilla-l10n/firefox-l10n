@@ -29,3 +29,47 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name } সম্পর্কে
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } সহায়তা
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } ট্যুর
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = এবং কিবোর্ড শর্টকাট সমূহ
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = সমস্যা সমাধান সংক্রান্ত তথ্য
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = মতামত জানান…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ করুন…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = প্রতারণামূলক সাইট রিপোর্ট করুন…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = এটা একটি প্রতারক সাইট নয়…
+    .accesskey = d
+
+##
+
