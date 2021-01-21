@@ -9,6 +9,47 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+## Application Menu (macOS only)
+
+menu-application-services =
+    .label = Ծառայութիւններ
+menu-application-hide-this =
+    .label = Թաքցել { -brand-shorter-name }-ը
+menu-application-hide-other =
+    .label = Թաքցնել մնացածը
+menu-application-show-all =
+    .label = Ցուցադրել բոլորը
+menu-application-touch-bar =
+    .label = Յարմարեցնել հպման փեղկը…
+
+##
+
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Փակել
+           *[other] Փակել
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] x
+           *[other] Q
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Փակել { -brand-shorter-name }-ը
+# This menu-quit-button string is only used on Linux.
+menu-quit-button =
+    .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Փակել { -brand-shorter-name }
+menu-about =
+    .label = { -brand-shorter-name }-ի մասին
+    .accesskey = A
+
 ## File Menu
 
 menu-file =
@@ -242,6 +283,15 @@ menu-window-bring-all-to-front =
     .label = Բոլորն առաջ բերել
 
 ## Help Menu
+
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-help-product
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
 
 menu-help =
     .label = Աւգնութիւն
