@@ -42,3 +42,47 @@ whatsnew-panel-header = Novaĵoj
 whatsnew-panel-footer-checkbox =
     .label = Sciigi pri novaj trajtoj
     .accesskey = S
+
+## Help panel
+
+appmenu-about =
+    .label = Pri { -brand-shorter-name }
+    .accesskey = P
+appmenu-help-product =
+    .label = Helpo por { -brand-shorter-name }
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = Prezento de { -brand-shorter-name }
+    .accesskey = r
+appmenu-help-keyboard-shortcuts =
+    .label = Alirklavoj
+    .accesskey = A
+appmenu-help-troubleshooting-info =
+    .label = Informoj por solvado de problemoj
+    .accesskey = I
+appmenu-help-feedback-page =
+    .label = Sendi opiniojn…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Rekomenci kun aldonaĵoj malaktivaj…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Restartigi kun aldonaĵoj aktivaj
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Denunci trompan retejon…
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = Tiu ĉi ne estas trompa retejo…
+    .accesskey = t
+
+##
+
