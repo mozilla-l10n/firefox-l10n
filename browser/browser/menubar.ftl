@@ -13,6 +13,10 @@
 
 menu-application-services =
     .label = Tenester
+menu-application-hide-this =
+    .label = Gøym { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Gøym andre
 menu-application-show-all =
     .label = Vis alle
 
@@ -21,6 +25,9 @@ menu-application-show-all =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = Om { -brand-shorter-name }
+    .accesskey = O
 
 ## File Menu
 
