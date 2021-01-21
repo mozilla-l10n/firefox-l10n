@@ -15,6 +15,8 @@ menu-application-services =
     .label = পরিসেবা
 menu-application-hide-this =
     .label = { -brand-shorter-name } আড়াল করুন
+menu-application-hide-other =
+    .label = অন্যান্যগুলি আড়াল করুন
 menu-application-show-all =
     .label = সমস্ত প্রদর্শন করা হবে
 
