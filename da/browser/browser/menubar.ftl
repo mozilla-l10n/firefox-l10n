@@ -13,16 +13,42 @@
 
 menu-application-services =
     .label = Tjenester
+menu-application-hide-this =
+    .label = Skjul { -brand-shorter-name }
 menu-application-hide-other =
     .label = Skjul andre
 menu-application-show-all =
     .label = Vis alle
+menu-application-touch-bar =
+    .label = Tilpas Touch Bar…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Afslut
+           *[other] Afslut
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Afslut { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Afslut { -brand-shorter-name }
+menu-about =
+    .label = Om { -brand-shorter-name }
+    .accesskey = O
 
 ## File Menu
 
