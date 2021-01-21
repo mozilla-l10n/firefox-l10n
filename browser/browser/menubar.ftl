@@ -13,13 +13,29 @@
 
 menu-application-services =
     .label = Služby
+menu-application-hide-this =
+    .label = Skryť { -brand-shorter-name }
 menu-application-hide-other =
     .label = Skryť ostatné
 menu-application-show-all =
     .label = Zobraziť všetko
+menu-application-touch-bar =
+    .label = Prispôsobiť touch bar…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Ukončiť prehliadač
+           *[other] Ukončiť prehliadač
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] k
+           *[other] k
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ukončiť { -brand-shorter-name }
@@ -30,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Ukončiť prehliadač { -brand-shorter-name }
+menu-about =
+    .label = O aplikácii { -brand-shorter-name }
+    .accesskey = O
 
 ## File Menu
 
