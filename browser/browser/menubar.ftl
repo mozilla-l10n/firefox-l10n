@@ -19,9 +19,23 @@ menu-application-hide-other =
     .label = 隱藏其他視窗
 menu-application-show-all =
     .label = 全部顯示
+menu-application-touch-bar =
+    .label = 自訂觸控列…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] 結束
+           *[other] 離開
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] x
+           *[other] Q
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 離開 { -brand-shorter-name }
