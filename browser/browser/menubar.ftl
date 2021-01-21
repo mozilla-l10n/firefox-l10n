@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Zuppentar il rest
 menu-application-show-all =
     .label = Mussar tut
+menu-application-touch-bar =
+    .label = Persunalisar la trav da tutgar…
 
 ##
 
