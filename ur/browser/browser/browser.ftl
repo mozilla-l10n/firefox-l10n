@@ -491,6 +491,8 @@ library-bookmarks-bookmark-this-page =
     .label = یہ صفحہ نشان زد کریں
 library-bookmarks-bookmark-edit =
     .label = اس بک مارک کی تدوین کریں
+library-recent-activity-title =
+    .value = حالیہ سرگرمی
 
 ## More items
 
