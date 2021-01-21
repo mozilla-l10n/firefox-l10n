@@ -310,3 +310,7 @@ about-logins-import-dialog-error-file-permission-title = לא ניתן לקרו�
 about-logins-import-dialog-error-file-permission-description = ל־{ -brand-short-name } אין הרשאה לקרוא את הקובץ. נא לנסות לשנות את הרשאות הקובץ.
 about-logins-import-dialog-error-unable-to-read-title = לא ניתן לפענח את הקובץ
 about-logins-import-dialog-error-unable-to-read-description = יש לוודא שבחרת בקובץ CSV או TSV.
+about-logins-import-dialog-error-no-logins-imported = לא יובאו כניסות
+about-logins-import-dialog-error-learn-more = מידע נוסף
+about-logins-import-dialog-error-try-again = ניסיון חוזר…
+about-logins-import-dialog-error-cancel = ביטול
