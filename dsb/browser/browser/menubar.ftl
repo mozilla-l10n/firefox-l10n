@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Słužby
+menu-application-hide-this =
+    .label = { -brand-shorter-name }Name; schowaś
 menu-application-hide-other =
     .label = Druge schowaś
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Skóńcyś
+           *[other] Spušćiś
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] k
+           *[other] S
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } skóńcyś
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } skóńcyś
+menu-about =
+    .label = Wó { -brand-shorter-name }
+    .accesskey = W
 
 ## File Menu
 
