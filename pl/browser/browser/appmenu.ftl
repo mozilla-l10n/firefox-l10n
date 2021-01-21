@@ -57,6 +57,9 @@ appmenu-help-show-tour =
 appmenu-help-import-from-another-browser =
     .label = Importuj z innej przeglądarki…
     .accesskey = I
+appmenu-help-keyboard-shortcuts =
+    .label = Skróty klawiaturowe
+    .accesskey = S
 appmenu-help-troubleshooting-info =
     .label = Informacje dla pomocy technicznej
     .accesskey = n
@@ -67,6 +70,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Uruchom ponownie z wyłączonymi dodatkami…
+    .accesskey = U
 appmenu-help-safe-mode-with-addons =
     .label = Uruchom ponownie z włączonymi dodatkami
     .accesskey = U
@@ -74,6 +80,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Zgłoś oszustwo internetowe…
+    .accesskey = Z
 
 ##
 
