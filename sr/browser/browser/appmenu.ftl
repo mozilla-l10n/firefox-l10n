@@ -48,14 +48,44 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = О програму { -brand-shorter-name }
     .accesskey = О
+appmenu-help-product =
+    .label = Помоћ за { -brand-shorter-name }
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } водич
+    .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = Увезите из другог прегледача…
+    .accesskey = I
+appmenu-help-keyboard-shortcuts =
+    .label = Пречице на тастатури
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = Подаци о решавању проблема
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Пошаљи повратне информације
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Рестартуј са онемогућеним додацима
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Рестартуј са омогућеним додацима
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Пријави обманљив сајт…
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = Ово није обманљив сајт…
+    .accesskey = d
 
 ##
 
