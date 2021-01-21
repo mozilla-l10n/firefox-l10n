@@ -17,6 +17,8 @@ menu-application-hide-other =
     .label = Andere ausblenden
 menu-application-show-all =
     .label = Alle einblenden
+menu-application-touch-bar =
+    .label = Touch Bar anpassen…
 
 ##
 
