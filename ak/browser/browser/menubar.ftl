@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Asom
+menu-application-hide-other =
+    .label = Suma Nkaa No
+menu-application-show-all =
+    .label = Kyerɛ No Nyinara
 
 ##
 
