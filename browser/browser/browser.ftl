@@ -506,6 +506,12 @@ pointerlock-warning-no-domain = Aqueste document a lo contraròtle sul vòstre g
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Ne saber mai
+    .accesskey = N
+crashed-subframe-submit =
+    .label = Enviar un rapòrt
+    .accesskey = E
 
 ## Bookmarks panels, menus and toolbar
 

@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Es pas un site malvolent…
     .accesskey = m
+menu-help-check-for-update =
+    .label = Recercar las mesas a jorn…
+    .accesskey = R
