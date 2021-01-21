@@ -42,3 +42,23 @@ whatsnew-panel-header = نیا کیا ہے
 whatsnew-panel-footer-checkbox =
     .label = نئی خصوصیات کے بارے میں مطلع کریں
     .accesskey = f
+
+## Help panel
+
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = پر فریب سایٹ کی رپورٹ کریں…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = یہ فریبی سائٹ نہیں ہے…
+    .accesskey = ف
+
+##
+
