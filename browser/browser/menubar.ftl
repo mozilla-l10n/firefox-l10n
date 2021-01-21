@@ -11,6 +11,10 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servicis
+menu-application-hide-other =
+    .label = Amagar los autres
 
 ##
 
