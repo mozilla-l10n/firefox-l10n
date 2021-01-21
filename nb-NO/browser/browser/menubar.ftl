@@ -19,9 +19,23 @@ menu-application-hide-other =
     .label = Skjul andre
 menu-application-show-all =
     .label = Vis alle
+menu-application-touch-bar =
+    .label = Tilpass Touch Bar…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Avslutt
+           *[other] Avslutt
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] t
+           *[other] t
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Avslutt { -brand-shorter-name }
