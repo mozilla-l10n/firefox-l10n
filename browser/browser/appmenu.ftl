@@ -58,6 +58,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បិទ​ដំណើរការកម្មវិធី​បន្ថែម…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បើកដំណើរការ​​កម្មវិធី​បន្ថែម
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
