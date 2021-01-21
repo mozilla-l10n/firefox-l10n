@@ -54,6 +54,9 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } bemutató
     .accesskey = u
+appmenu-help-keyboard-shortcuts =
+    .label = Gyorsbillentyűk
+    .accesskey = G
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
