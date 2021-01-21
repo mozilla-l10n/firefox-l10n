@@ -11,6 +11,10 @@
 
 ## Application Menu (macOS only)
 
+menu-application-hide-other =
+    .label = Verberg andere
+menu-application-show-all =
+    .label = Toon alles
 
 ##
 
