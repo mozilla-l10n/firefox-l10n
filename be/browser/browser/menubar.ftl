@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Службы
+menu-application-hide-other =
+    .label = Схаваць іншыя
+menu-application-show-all =
+    .label = Паказаць усе
 
 ##
 
