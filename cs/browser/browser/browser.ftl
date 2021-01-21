@@ -527,6 +527,9 @@ fullscreen-exit-mac-button = Ukončit režim celé obrazovky (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> má kontrolu nad vaším kurzorem. Pro odebrání kontroly stiskněte klávesu Esc.
 pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorem. Pro odebrání kontroly stiskněte klávesu Esc.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -587,7 +590,6 @@ library-bookmarks-bookmark-this-page =
     .label = Přidat stránku do záložek
 library-bookmarks-bookmark-edit =
     .label = Upravit záložku
-library-recent-activity-label = Nedávná aktivita
 
 ## More items
 
