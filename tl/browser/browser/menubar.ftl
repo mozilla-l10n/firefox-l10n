@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Mga Serbisyo
+menu-application-hide-this =
+    .label = Itago ang { -brand-shorter-name }
 menu-application-hide-other =
     .label = Itago ang Iba
 menu-application-show-all =
@@ -20,6 +22,9 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Isara ang { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
