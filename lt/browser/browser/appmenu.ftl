@@ -42,3 +42,23 @@ whatsnew-panel-header = Kas naujo
 whatsnew-panel-footer-checkbox =
     .label = Pranešti apie naujas funkcijas
     .accesskey = f
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = Spartieji klavišai
+    .accesskey = k
+appmenu-help-troubleshooting-info =
+    .label = Informacija problemų sprendimui
+    .accesskey = r
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
