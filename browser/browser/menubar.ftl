@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Druge schowaś
 menu-application-show-all =
     .label = Wšykne pokazaś
+menu-application-touch-bar =
+    .label = Dotyknjeńsku rědku pśiměriś…
 
 ##
 
