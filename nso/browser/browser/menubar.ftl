@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Ditirelo
+menu-application-hide-other =
+    .label = Uta tše dingwe
+menu-application-show-all =
+    .label = Bontšha tšohle
 
 ##
 
