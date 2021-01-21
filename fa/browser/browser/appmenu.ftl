@@ -54,10 +54,25 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = تور معرفی { -brand-shorter-name }
     .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = میانبرهای صفحه کلید
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = اطلاعات رفع اشکال
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = ارسال نظر…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -65,6 +80,9 @@ appmenu-help-show-tour =
 appmenu-help-report-deceptive-site =
     .label = گزارشِ سایت گمراه‌کننده…
     .accesskey = گ
+appmenu-help-not-deceptive =
+    .label = این یک سایت گمراه‌کننده نیست…
+    .accesskey = d
 
 ##
 
