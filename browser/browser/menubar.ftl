@@ -11,6 +11,14 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = サービス
+menu-application-hide-this =
+    .label = { -brand-shorter-name } を隠す
+menu-application-hide-other =
+    .label = ほかを隠す
+menu-application-show-all =
+    .label = すべてを表示
 
 ##
 
@@ -36,6 +44,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } を終了します
+menu-about =
+    .label = { -brand-shorter-name } について
+    .accesskey = A
 
 ## File Menu
 
