@@ -37,3 +37,38 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Какво е новото
+
+## Help panel
+
+appmenu-about =
+    .label = Относно { -brand-shorter-name }
+    .accesskey = О
+appmenu-help-product =
+    .label = Помощ за { -brand-shorter-name }
+    .accesskey = П
+appmenu-help-show-tour =
+    .label = Обиколка на { -brand-shorter-name }
+    .accesskey = б
+appmenu-help-keyboard-shortcuts =
+    .label = Клавишни комбинации
+    .accesskey = К
+appmenu-help-feedback-page =
+    .label = Обратна връзка…
+    .accesskey = в
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Рестартиране с изключени добавки…
+    .accesskey = д
+appmenu-help-safe-mode-with-addons =
+    .label = Рестартиране с включени добавки
+    .accesskey = д
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
