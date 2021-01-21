@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = ซ่อนอื่น ๆ
 menu-application-show-all =
     .label = แสดงทั้งหมด
+menu-application-touch-bar =
+    .label = ปรับแต่งแถบสัมผัส…
 
 ##
 
