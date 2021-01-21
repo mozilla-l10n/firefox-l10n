@@ -54,6 +54,9 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } ツアー
     .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = 他のブラウザーから読み込む...
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
     .label = キーボードショートカット
     .accesskey = K
@@ -80,6 +83,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = 詐欺サイトを報告...
     .accesskey = D
+appmenu-help-not-deceptive =
+    .label = 詐欺サイトの誤報告を指摘...
+    .accesskey = d
 
 ##
 
