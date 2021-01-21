@@ -42,3 +42,23 @@ whatsnew-panel-header = Не жаңалық
 whatsnew-panel-footer-checkbox =
     .label = Жаңа мүмкіндіктер туралы хабарлау
     .accesskey = м
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = Техникалық ақпарат
+    .accesskey = а
+appmenu-help-feedback-page =
+    .label = Кері байланыс хабарламасын жіберу…
+    .accesskey = е
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
