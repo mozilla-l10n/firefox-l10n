@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Sair de ecrã completo (Esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tem controlo do seu apontador. Pressione Esc para retomar o controlo.
 pointerlock-warning-no-domain = Este documento tem controlo do seu apontador. Pressione Esc para retomar o controlo.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Adicionar esta página aos marcadores
 library-bookmarks-bookmark-edit =
     .label = Editar este marcador
-library-recent-activity-label = Atividade recente
 
 ## More items
 
