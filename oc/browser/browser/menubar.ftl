@@ -15,6 +15,8 @@ menu-application-services =
     .label = Servicis
 menu-application-hide-other =
     .label = Amagar los autres
+menu-application-show-all =
+    .label = Afichar tot
 
 ##
 
