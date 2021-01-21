@@ -101,6 +101,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Nahlásit klamavou stránku…
     .accesskey = l
+appmenu-help-not-deceptive =
+    .label = Tato stránka není klamavá…
+    .accesskey = l
 
 ##
 
