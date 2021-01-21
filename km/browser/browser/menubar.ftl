@@ -11,14 +11,27 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = សេវាកម្ម
+menu-application-hide-this =
+    .label = លាក់ { -brand-shorter-name }
+menu-application-hide-other =
+    .label = លាក់​ផ្សេងទៀត
 menu-application-show-all =
     .label = បង្ហាញ​ទាំងអស់
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = បិទ { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = បិទ { -brand-shorter-name }
 
 ## File Menu
 
