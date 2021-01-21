@@ -45,6 +45,12 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-help-product =
+    .label = עזרה עבור { -brand-shorter-name }
+    .accesskey = ע
+appmenu-help-show-tour =
+    .label = סיור ב־{ -brand-shorter-name }
+    .accesskey = ס
 appmenu-help-keyboard-shortcuts =
     .label = קיצורי מקלדת
     .accesskey = ק
@@ -58,10 +64,19 @@ appmenu-help-troubleshooting-info =
 appmenu-help-safe-mode-without-addons =
     .label = הפעלה מחדש עם תוספות מנוטרלות…
     .accesskey = מ
+appmenu-help-safe-mode-with-addons =
+    .label = הפעלה מחדש עם תוספות פעילות
+    .accesskey = ח
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = דיווח על אתר מטעה…
+    .accesskey = ד
+appmenu-help-not-deceptive =
+    .label = אתר זה אינו אתר מטעה…
+    .accesskey = א
 
 ##
 
