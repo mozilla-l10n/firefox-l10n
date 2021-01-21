@@ -57,6 +57,12 @@ appmenu-help-show-tour =
 appmenu-help-keyboard-shortcuts =
     .label = Keyboard Shortcuts
     .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = Troubleshooting Information
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Submit Feedback…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
