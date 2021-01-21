@@ -276,6 +276,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Документ CSV
        *[other] CSV-файл
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Документ TSV
+       *[other] TSV-файл
+    }
 
 ##
 ## Variables:
@@ -307,3 +314,7 @@ about-logins-import-dialog-items-error =
        *[many] <span>Ошибки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
     }
 about-logins-import-dialog-done = Готово
+about-logins-import-dialog-error-title = Ошибка импорта
+about-logins-import-dialog-error-learn-more = Подробнее
+about-logins-import-dialog-error-try-again = Попробовать снова…
+about-logins-import-dialog-error-cancel = Отмена

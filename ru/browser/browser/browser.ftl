@@ -510,6 +510,12 @@ pointerlock-warning-no-domain = Этот документ контролируе
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Подробнее
+    .accesskey = о
+crashed-subframe-submit =
+    .label = Отправить сообщение
+    .accesskey = п
 
 ## Bookmarks panels, menus and toolbar
 
