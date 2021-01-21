@@ -46,10 +46,22 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } ଜାଣିବା
     .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = କିବୋର୍ଡ ସକ୍ଷିପ୍ତପଥ (K)
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = ତ୍ରୁଟିନିବାରଣ ସୂଚନା
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = ମତାମତ ଦାଖଲ କରନ୍ତୁ…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
