@@ -42,3 +42,26 @@ whatsnew-panel-header = Nowe funkcije a změny
 whatsnew-panel-footer-checkbox =
     .label = Wo nowych funkcijach informěrowaś
     .accesskey = f
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = Tastowe skrotconki
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Pósudk pósłaś…
+    .accesskey = P
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Ze znjemóžnjonymi dodankami znowego startowaś…
+    .accesskey = Z
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
