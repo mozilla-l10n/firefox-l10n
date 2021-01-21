@@ -58,6 +58,9 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Pārstartēt ar deaktivētiem papildinājumiem…
     .accesskey = r
+appmenu-help-safe-mode-with-addons =
+    .label = Pārstartēt ar aktivētiem papildinājumiem
+    .accesskey = r
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
