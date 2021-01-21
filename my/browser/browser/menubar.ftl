@@ -22,9 +22,28 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] ထွက်ရန်
+           *[other] ထွက်ရန်
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] x
+           *[other] Q
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } မှ ထွက်ရန်
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } မှ ထွက်ရန်
 menu-about =
     .label = { -brand-shorter-name } အကြောင်း
     .accesskey = A
