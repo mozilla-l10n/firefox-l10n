@@ -42,3 +42,26 @@ whatsnew-panel-header = కొత్తవి ఏమిటి
 whatsnew-panel-footer-checkbox =
     .label = కొత్త సౌలభ్యాల గురించి తెలియజేయి
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name } గురించి
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } సహాయం
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } పర్యటన
+    .accesskey = o
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
