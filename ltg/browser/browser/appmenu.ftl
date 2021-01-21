@@ -29,3 +29,41 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-about =
+    .label = Par { -brand-shorter-name }
+    .accesskey = a
+appmenu-help-product =
+    .label = { -brand-shorter-name } paleidzeiba
+    .accesskey = l
+appmenu-help-keyboard-shortcuts =
+    .label = Tausteņu kombinacejis
+    .accesskey = k
+appmenu-help-troubleshooting-info =
+    .label = Problemu nūvieršonys informaceja
+    .accesskey = P
+appmenu-help-feedback-page =
+    .label = Nūsyuteit atsauksmi…
+    .accesskey = s
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Puorstarteit ar deaktiveitim papyldynuojumym…
+    .accesskey = r
+appmenu-help-safe-mode-with-addons =
+    .label = Puorstarteit ar deaktiveitim papyldynuojumym
+    .accesskey = r
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-not-deceptive =
+    .label = This isn’t a deceptive site…
+    .accesskey = d
+
+##
+
