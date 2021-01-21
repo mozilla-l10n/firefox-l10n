@@ -13,14 +13,28 @@
 
 menu-application-services =
     .label = Xizmatlar
+menu-application-hide-this =
+    .label = { -brand-shorter-name }ni yashirish
 menu-application-hide-other =
     .label = Boshqalarini yashirish
+menu-application-show-all =
+    .label = Barchasini ko‘rsatish
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name }dan chiqish
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name }dan chiqish
+menu-about =
+    .label = { -brand-shorter-name } haqida
+    .accesskey = h
 
 ## File Menu
 
