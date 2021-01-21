@@ -45,6 +45,18 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } 정보
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } 도움말
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } 둘러보기
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = 키보드 단축키
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = 문제 해결 정보…
     .accesskey = T
