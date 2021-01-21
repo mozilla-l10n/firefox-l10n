@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Agochar outros
 menu-application-show-all =
     .label = Amosar todo
+menu-application-touch-bar =
+    .label = Personalizar a barra táctil…
 
 ##
 
