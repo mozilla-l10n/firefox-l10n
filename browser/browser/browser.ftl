@@ -559,6 +559,8 @@ library-bookmarks-bookmark-this-page =
     .label = Đánh dấu trang này
 library-bookmarks-bookmark-edit =
     .label = Chỉnh sửa dấu trang này
+library-recent-activity-title =
+    .value = Hoạt động gần đây
 
 ## More items
 
