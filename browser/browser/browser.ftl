@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Έξοδος από πλήρη οθόνη (esc)
 pointerlock-warning-domain = Το <span data-l10n-name="domain">{ $domain }</span> ελέγχει τον κέρσορα. Πατήστε Esc για ανάκτηση ελέγχου.
 pointerlock-warning-no-domain = Αυτό το έγγραφο ελέγχει τον κέρσορα. Πατήστε Esc για ανάκτηση ελέγχου.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Δημιουργία σελιδοδείκτη
 library-bookmarks-bookmark-edit =
     .label = Επεξεργασία σελιδοδείκτη
-library-recent-activity-label = Πρόσφατη δραστηριότητα
 
 ## More items
 
