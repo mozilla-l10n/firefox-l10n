@@ -70,6 +70,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Restartuj sa onemogućenim add-onima…
+    .accesskey = R
 appmenu-help-safe-mode-with-addons =
     .label = Restartuj sa omogućenim add-onima
     .accesskey = R
