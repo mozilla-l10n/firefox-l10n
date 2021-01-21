@@ -54,16 +54,28 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } 둘러보기
     .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = 다른 브라우저에서 가져오기…
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
     .label = 키보드 단축키
     .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = 문제 해결 정보…
     .accesskey = T
+appmenu-help-feedback-page =
+    .label = 사용자 의견 보내기…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = 부가 기능을 끄고 다시 시작…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = 부가 기능을 켜고 다시 시작
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
