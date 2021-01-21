@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Nagi'iaj hùi a'ngô da'aj man
 menu-application-show-all =
     .label = Nadigân daran'anj
+menu-application-touch-bar =
+    .label = Nadunā sa huā riña barrâ tâktil…
 
 ##
 
