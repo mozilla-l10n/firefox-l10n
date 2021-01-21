@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-touch-bar =
+    .label = Saincheap an Barra Tadhaill…
 
 ##
 
