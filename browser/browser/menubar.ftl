@@ -20,6 +20,18 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Sciòrti
+           *[other] Sciòrti
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] S
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sciòrti da { -brand-shorter-name }
