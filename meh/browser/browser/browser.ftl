@@ -505,6 +505,9 @@ pointerlock-warning-no-domain = Documento ya'a kumi control puntero noo'o. Kuaxi
 crashed-subframe-learnmore =
     .label = Ka´vi kue´eka
     .accesskey = L
+crashed-subframe-submit =
+    .label = Chu´un íchi reporte
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
