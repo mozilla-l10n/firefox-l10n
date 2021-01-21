@@ -42,3 +42,26 @@ whatsnew-panel-header = Qué hay de nuevo
 whatsnew-panel-footer-checkbox =
     .label = Notificar sobre nuevas funciones
     .accesskey = f
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = Información para resolver problemas
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Enviar comentarios…
+    .accesskey = s
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Reiniciar con los complementos deshabilitados…
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
