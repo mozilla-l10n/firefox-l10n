@@ -17,6 +17,10 @@ menu-application-hide-this =
     .label = Tewäx { -brand-shorter-name }
 menu-application-hide-other =
     .label = Kewaxik ch'aqa' chikKe
+menu-application-show-all =
+    .label = Tik'ut Ronojel
+menu-application-touch-bar =
+    .label = Tichinäx ri Na'onel Kajtz'ik…
 
 ##
 
