@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Exir del plen schermo (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> controla tu punctator. Preme Esc pro reprender le controlo.
 pointerlock-warning-no-domain = Iste documento controla tu punctator. Preme Esc pro reprender le controlo.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Adder un marcapaginas
 library-bookmarks-bookmark-edit =
     .label = Modificar iste marcapaginas
-library-recent-activity-label = Recente activitate
 
 ## More items
 
