@@ -13,7 +13,8 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Comprobando actualizacións…
 update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status"/>
-update-applying = Aplicando actualización…
+update-downloading-message = Descargando a actualización — <label data-l10n-name="download-status"/>
+update-applying = Aplicando a …actualización…
 update-failed = Fallou a actualización. <label data-l10n-name="failed-link">Descargar a última versión</label>
 update-failed-main = Fallou a actualización. <a data-l10n-name="failed-link-main">Descargar a última versión</a>
 update-adminDisabled = O administrador do sistema desactivou as actualizacións
@@ -24,6 +25,7 @@ update-unsupported = Non é posíbel efectuar máis actualizacións neste sistem
 update-restarting = Reiniciando…
 channel-description = Actualmente está usando a canle de actualización <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } é experimental e pode ser inestábel.
+aboutdialog-help-user = Axuda do { -brand-product-name }
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> é unha <label data-l10n-name="community-exp-creditsLink">comunidade global</label> traballando unida para manter a Web aberta, pública e accesíbel para todos.
 community-2 = { -brand-short-name } está deseñado por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, unha <label data-l10n-name="community-creditsLink">comunidade global</label> traballando unida para manter a Web aberta, pública e accesíbel para todos.
 helpus = Quere axudar?<label data-l10n-name="helpus-donateLink">Faga unha doazón</label> ou<label data-l10n-name="helpus-getInvolvedLink">involúcrese!</label>
