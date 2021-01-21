@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Servîs
+menu-application-hide-this =
+    .label = { -brand-shorter-name } 'ê veşêre
 menu-application-hide-other =
     .label = Yên Din Veşêre
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Derkeve
+           *[other] Derkeve
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] k
+           *[other] k
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Ji { -brand-shorter-name }ê derkeve
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Ji { -brand-shorter-name }ê derkeve
+menu-about =
+    .label = Derbarê &brandShortName;ê de
+    .accesskey = D
 
 ## File Menu
 
