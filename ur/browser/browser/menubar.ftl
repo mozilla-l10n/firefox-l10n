@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = خدمات
+menu-application-hide-this =
+    .label = چھپائیں { -brand-shorter-name }
 menu-application-hide-other =
     .label = دیگر چھپائیں
 menu-application-show-all =
@@ -20,6 +22,9 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } برخاست کریں
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
