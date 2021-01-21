@@ -84,6 +84,7 @@ login-item-new-login-title = Crear novo inicio de sesión
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Enderezo do sitio web
+login-item-tooltip-message = Asegúrese de que isto coincide co enderezo exacto do sitio web onde iniciou a sesión.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome de usuario
@@ -206,6 +207,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión e contrasinais
 about-logins-confirm-export-dialog-message = Os seus contrasinais gardaranse como texto lexible (por exemplo, ConTR@sinaLmaL0) para que calquera que poida abrir o ficheiro exportado poida velos.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-alert-import-title = Importación completada
+about-logins-alert-import-message = Ver o resumo detallado da importación
 confirm-discard-changes-dialog-title = Descartar os cambios non gardados?
 confirm-discard-changes-dialog-message = Perderanse todos os cambios non gardados.
 confirm-discard-changes-dialog-confirm-button = Descartar
@@ -242,7 +245,7 @@ about-logins-error-message-default = Produciuse un erro ao intentar gardar este 
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Exportar ficheiro de inicios de sesión
+about-logins-export-file-picker-title = Exportar ficheiro de identificacións
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -258,7 +261,7 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Importar ficheiro de inicios de sesión
+about-logins-import-file-picker-title = Importar ficheiro de identificacións
 about-logins-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -266,4 +269,22 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Documento CSV
        *[other] Ficheiro CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento TSV
+       *[other] Ficheiro TSV
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Importación completada
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Engadiuse unha nova identificación:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Engadíronse novas identificacións:</span> <span data-l10n-name="count">{ $count }</span>
     }
