@@ -42,3 +42,29 @@ whatsnew-panel-header = Amaynut
 whatsnew-panel-footer-checkbox =
     .label = Lɣu ɣef tmahilin timaynutin
     .accesskey = f
+
+## Help panel
+
+appmenu-help-show-tour =
+    .label = Tirza fessusen ɣer { -brand-shorter-name }
+    .accesskey = r
+appmenu-help-keyboard-shortcuts =
+    .label = Inegzumen n unasiw
+    .accesskey = I
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Mmel-aɣ-d asmel ur nemɛin ara…
+    .accesskey = m
+appmenu-help-not-deceptive =
+    .label = Mačči d asmel web n ukellex…
+    .accesskey = d
+
+##
+
