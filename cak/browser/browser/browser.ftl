@@ -567,6 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Titz'aqatisäx re ruxaq re' pa taq yaketal
 library-bookmarks-bookmark-edit =
     .label = Tinuk' re yaketal re'
+library-recent-activity-title =
+    .value = K'ak'a' Samaj
 
 ## More items
 
