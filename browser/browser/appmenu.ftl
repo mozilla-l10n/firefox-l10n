@@ -42,3 +42,38 @@ whatsnew-panel-header = Beth sy'n Newydd
 whatsnew-panel-footer-checkbox =
     .label = Hysbysu am nodweddion newydd
     .accesskey = H
+
+## Help panel
+
+appmenu-about =
+    .label = Ynghylch { -brand-shorter-name }
+    .accesskey = n
+appmenu-help-product =
+    .label = Cymorth { -brand-shorter-name }
+    .accesskey = m
+appmenu-help-show-tour =
+    .label = Cyflwyno { -brand-shorter-name }
+    .accesskey = C
+appmenu-help-keyboard-shortcuts =
+    .label = Llwybrau Byr Bysellfwrdd
+    .accesskey = B
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-with-addons =
+    .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi
+    .accesskey = A
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Adroddwch ar wefan twyllodrus…
+    .accesskey = t
+appmenu-help-not-deceptive =
+    .label = Nid yw hon yn wefan twyllodrus…
+    .accesskey = t
+
+##
+
