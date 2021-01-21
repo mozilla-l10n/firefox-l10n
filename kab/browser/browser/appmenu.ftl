@@ -45,6 +45,9 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Ɣef { -brand-shorter-name }
+    .accesskey = Γ
 appmenu-help-product =
     .label = Tallelt { -brand-shorter-name }
     .accesskey = a
