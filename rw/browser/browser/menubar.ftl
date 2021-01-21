@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Ibikorwa
+menu-application-hide-other =
+    .label = Guhisha Ibindi
+menu-application-show-all =
+    .label = Kwerekana Byose
 
 ##
 
