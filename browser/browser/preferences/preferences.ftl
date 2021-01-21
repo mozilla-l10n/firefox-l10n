@@ -916,6 +916,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Các thẻ đang mở
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Lối tắt
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = Trang web hàng đầu
     .accesskey = T
