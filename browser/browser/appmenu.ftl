@@ -54,6 +54,9 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = Visite guidée de { -brand-shorter-name }
     .accesskey = V
+appmenu-help-keyboard-shortcuts =
+    .label = Raccourcis clavier
+    .accesskey = o
 appmenu-help-troubleshooting-info =
     .label = Informations de dépannage
     .accesskey = I
@@ -71,6 +74,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Signaler un site trompeur…
+    .accesskey = t
+appmenu-help-not-deceptive =
+    .label = Ce site n’est pas trompeur…
+    .accesskey = C
 
 ##
 
