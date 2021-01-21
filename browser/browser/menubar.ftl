@@ -11,12 +11,42 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Ditirelo
+menu-application-hide-this =
+    .label = Fitlha { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Fitlha tse Dingwe
+menu-application-show-all =
+    .label = BontshaTsotlhe
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Tswaya
+           *[other] Tlogela
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] T
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Tlogela { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Tswaya { -brand-shorter-name }
+menu-about =
+    .label = Ka ga { -brand-shorter-name }
+    .accesskey = K
 
 ## File Menu
 
