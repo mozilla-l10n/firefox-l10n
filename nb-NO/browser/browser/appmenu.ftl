@@ -51,6 +51,9 @@ appmenu-about =
 appmenu-help-show-tour =
     .label = Omvisning i { -brand-shorter-name }
     .accesskey = m
+appmenu-help-import-from-another-browser =
+    .label = Importer fra en annen nettleser…
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
     .label = Tastatursnarveier
     .accesskey = T
@@ -64,6 +67,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Start på nytt med utvidelser avslått …
+    .accesskey = r
 appmenu-help-safe-mode-with-addons =
     .label = Start på nytt med utvidelser påslått
     .accesskey = S
