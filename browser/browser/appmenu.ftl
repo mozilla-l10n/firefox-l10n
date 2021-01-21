@@ -45,17 +45,41 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = 關於 { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } 說明
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } 導覽
+    .accesskey = o
 appmenu-help-troubleshooting-info =
     .label = 疑難排解資訊
     .accesskey = T
+appmenu-help-feedback-page =
+    .label = 送出意見回饋…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = 重新啟動但停用附加元件…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = 重新啟動並啟用附加元件
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = 回報詐騙網站…
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = 這不是詐騙網站…
+    .accesskey = d
 
 ##
 
