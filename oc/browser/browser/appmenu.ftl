@@ -45,6 +45,9 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-help-show-tour =
+    .label = Visita guidada de { -brand-shorter-name }
+    .accesskey = V
 appmenu-help-feedback-page =
     .label = Balhar vòstre vejaire…
     .accesskey = B
@@ -54,6 +57,9 @@ appmenu-help-feedback-page =
 
 appmenu-help-safe-mode-without-addons =
     .label = Reaviar amb los moduls desactivats…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Reaviar, moduls activats…
     .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
