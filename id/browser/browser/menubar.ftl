@@ -11,6 +11,14 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Layanan
+menu-application-hide-other =
+    .label = Sembunyikan Lainnya
+menu-application-show-all =
+    .label = Tampilkan Semua
+menu-application-touch-bar =
+    .label = Ubahsuai Touch Bar…
 
 ##
 
