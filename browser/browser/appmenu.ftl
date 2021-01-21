@@ -34,3 +34,23 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = പുതിയതെന്താണ്
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരങ്ങള്‍
+    .accesskey = T
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ…
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
