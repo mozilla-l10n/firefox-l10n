@@ -22,6 +22,18 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Chiqish
+           *[other] Chiqish
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] h
+           *[other] C
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }dan chiqish
