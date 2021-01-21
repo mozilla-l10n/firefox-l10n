@@ -13,14 +13,28 @@
 
 menu-application-services =
     .label = Servicii
+menu-application-hide-this =
+    .label = Ascunde { -brand-shorter-name }
 menu-application-hide-other =
     .label = Ascunde-le pe celelalte
+menu-application-show-all =
+    .label = Afișează toate
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Ieși din { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Ieși din { -brand-shorter-name }
+menu-about =
+    .label = Despre { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
