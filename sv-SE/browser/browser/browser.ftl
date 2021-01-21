@@ -506,6 +506,7 @@ pointerlock-warning-no-domain = Detta dokument har kontroll över pekaren. Tryck
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>En del av den här sidan kraschade.</strong> Skicka en rapport om du vill meddela { -brand-product-name } om problemet och få det åtgärdat snabbare.
 crashed-subframe-learnmore =
     .label = Läs mer
     .accesskey = L

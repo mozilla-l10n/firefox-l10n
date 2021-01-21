@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Detta är inte en vilseledande webbplats…
     .accesskey = v
+menu-help-check-for-update =
+    .label = Sök efter uppdateringar…
+    .accesskey = S
