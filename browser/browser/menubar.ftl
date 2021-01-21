@@ -36,6 +36,9 @@ menu-quit =
             [windows] D
            *[other] l
         }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Dilni prej { -brand-shorter-name }-it
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
