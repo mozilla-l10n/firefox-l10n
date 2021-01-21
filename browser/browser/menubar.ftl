@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Serviççi
+menu-application-hide-this =
+    .label = Ascondi { -brand-shorter-name }
 menu-application-hide-other =
     .label = Ascondi i atri
 menu-application-show-all =
@@ -42,6 +44,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Særa { -brand-shorter-name }
+menu-about =
+    .label = Informaçioin in sce { -brand-shorter-name }
+    .accesskey = I
 
 ## File Menu
 
