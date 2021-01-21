@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Ծառայություններ
+menu-application-hide-this =
+    .label = Թաքցնել { -brand-shorter-name }-ը
 menu-application-hide-other =
     .label = Թաքցնել Մնացածը
 menu-application-show-all =
@@ -20,9 +22,19 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Փակել { -brand-shorter-name }-ը
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Փակել { -brand-shorter-name }-ը
+menu-about =
+    .label = { -brand-shorter-name }-ի մասին
+    .accesskey = մ
 
 ## File Menu
 
