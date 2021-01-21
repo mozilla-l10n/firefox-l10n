@@ -42,3 +42,20 @@ whatsnew-panel-header = 有什麼新鮮事
 whatsnew-panel-footer-checkbox =
     .label = 有新功能推出時通知我
     .accesskey = f
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = 疑難排解資訊
+    .accesskey = T
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
