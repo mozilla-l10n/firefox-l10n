@@ -35,3 +35,23 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = Qısa Düymələr
+    .accesskey = Q
+appmenu-help-troubleshooting-info =
+    .label = Problemlərin aradan qaldırılması üzrə məlumatlar
+    .accesskey = P
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
