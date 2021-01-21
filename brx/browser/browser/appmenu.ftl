@@ -56,6 +56,9 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = लोरबां खालामनाय Add-ons जों जागाय
     .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = मावथि खालामनाय Add-ons जों जागाय
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
