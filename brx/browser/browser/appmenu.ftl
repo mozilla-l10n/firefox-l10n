@@ -43,10 +43,19 @@ appmenu-about =
 appmenu-help-keyboard-shortcuts =
     .label = गाहाय सोदोब शर्टकाट
     .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = जेंना बोस्रांनाय फोरमायथिहोग्रा
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = फिनथाइखौ गथाय...
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = लोरबां खालामनाय Add-ons जों जागाय
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
