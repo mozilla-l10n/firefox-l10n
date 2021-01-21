@@ -498,6 +498,9 @@ fullscreen-exit-mac-button = Izhod iz celozaslonskega načina (Esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ima nadzor nad vašim kazalcem. Pritisnite Esc za ponovni prevzem nadzora.
 pointerlock-warning-no-domain = Ta dokument ima nadzor nad vašim kazalcem. Pritisnite Esc za ponovni prevzem nadzora.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -558,7 +561,6 @@ library-bookmarks-bookmark-this-page =
     .label = Dodaj stran med zaznamke
 library-bookmarks-bookmark-edit =
     .label = Uredi ta zaznamek
-library-recent-activity-label = Nedavne dejavnosti
 
 ## More items
 
