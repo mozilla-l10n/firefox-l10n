@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = მომსახურებები
 
 ##
 
