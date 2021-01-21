@@ -504,6 +504,13 @@ pointerlock-warning-no-domain = למסמך זה יש שליטה על הסמן ש
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>חלק מדף זה קרס.</strong> כדי ליידע את { -brand-product-name } על בעיה זו ולתקן אותה מהר יותר, נא לשלוח דיווח.
+crashed-subframe-learnmore =
+    .label = מידע נוסף
+    .accesskey = מ
+crashed-subframe-submit =
+    .label = שליחת דיווח
+    .accesskey = ש
 
 ## Bookmarks panels, menus and toolbar
 
