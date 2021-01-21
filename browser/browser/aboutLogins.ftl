@@ -83,6 +83,7 @@ login-item-new-login-title = 새 로그인 만들기
 login-item-edit-button = 편집
 about-logins-login-item-remove-button = 삭제
 login-item-origin-label = 웹 사이트 주소
+login-item-tooltip-message = 로그인 한 웹 사이트의 정확한 주소와 일치하는지 확인하세요.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 사용자 이름
@@ -293,3 +294,4 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = 완료
 about-logins-import-dialog-error-title = 가져오기 오류
+about-logins-import-dialog-error-conflicting-values-title = 하나의 로그인에 대해 여러 충돌 값
