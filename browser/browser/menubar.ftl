@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Zerbitzuak
+menu-application-hide-other =
+    .label = Ezkutatu besteak
+menu-application-show-all =
+    .label = Erakutsi denak
 
 ##
 
