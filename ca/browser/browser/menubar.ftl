@@ -19,9 +19,23 @@ menu-application-hide-other =
     .label = Amaga altres
 menu-application-show-all =
     .label = Mostra-ho tot
+menu-application-touch-bar =
+    .label = Personalitza la Touch Bar…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Surt
+           *[other] Surt
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] u
+           *[other] u
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Surt del { -brand-shorter-name }
