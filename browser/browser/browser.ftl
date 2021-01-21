@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Folslein skerm ferlitte (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> hat de kontrôle oer jo oanwizer. Druk op Esc om de kontrôle wer oer te nimmen.
 pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. Druk op Esc om de kontrôle wer oer te nimmen.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Blêdwizer foar dizze side meitsje
 library-bookmarks-bookmark-edit =
     .label = Dizze blêdwizer bewurkje
-library-recent-activity-label = Resinte aktiviteit
 
 ## More items
 
