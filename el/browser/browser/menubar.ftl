@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Απόκρυψη άλλων
 menu-application-show-all =
     .label = Εμφάνιση όλων
+menu-application-touch-bar =
+    .label = Προσαρμογή γραμμής αφής…
 
 ##
 
