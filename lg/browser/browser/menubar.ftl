@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Enkola
+menu-application-hide-other =
+    .label = Kweeka Ebilala
+menu-application-show-all =
+    .label = Laga Byonna
 
 ##
 
