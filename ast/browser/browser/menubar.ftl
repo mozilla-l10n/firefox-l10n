@@ -15,6 +15,8 @@ menu-application-services =
     .label = Servicios
 menu-application-hide-other =
     .label = Anubrir otros
+menu-application-show-all =
+    .label = Amosar too
 
 ##
 
