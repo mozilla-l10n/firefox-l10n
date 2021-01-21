@@ -42,3 +42,20 @@ whatsnew-panel-header = Achike natzijoj
 whatsnew-panel-footer-checkbox =
     .label = Tiya' rutzijol chi kij ch'aqa' chik taq samaj
     .accesskey = s
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = Ruq'a' rub'ey Keyboard
+    .accesskey = K
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
