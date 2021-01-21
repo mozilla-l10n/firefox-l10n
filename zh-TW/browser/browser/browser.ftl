@@ -496,6 +496,9 @@ fullscreen-exit-mac-button = 離開全螢幕模式（Esc）
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 可控制您的滑鼠游標，按 Esc 取回控制權。
 pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc 取回控制權。
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -556,7 +559,6 @@ library-bookmarks-bookmark-this-page =
     .label = 將本頁加入書籤
 library-bookmarks-bookmark-edit =
     .label = 編輯此書籤
-library-recent-activity-label = 近期動態
 
 ## More items
 
