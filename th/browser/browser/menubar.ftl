@@ -22,6 +22,18 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] ออก
+           *[other] ออก
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] อ
+           *[other] อ
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ออกจาก { -brand-shorter-name }
@@ -32,6 +44,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = ออกจาก { -brand-shorter-name }
+menu-about =
+    .label = เกี่ยวกับ { -brand-shorter-name }
+    .accesskey = ก
 
 ## File Menu
 
