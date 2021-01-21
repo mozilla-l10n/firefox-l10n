@@ -35,3 +35,44 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ဘာတွေ အသစ် ပါလဲ
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name } အကြောင်း
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } အကူအညီ
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } အလည်အပတ်
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = ကီးဘုတ်အမြန်သုံးခလုတ်များ
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = အခက်အခဲဆိုင်ရာ ဖြေရှင်းခြင်းနည်းလမ်းများ
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = အကြုံပြုချက်ကို ပေးပို့ရန်…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-with-addons =
+    .label = အတ်အွန်များဖွင့်ပြီး ပြန်စတင်ပါ
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = အတုအယောင်ဝဘ်ဆိုက်ကို သတင်းပို့ပါ…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = အတုအယောင်ဝဘ်ဆိုက် မဟုတ်ပါ…
+    .accesskey = d
+
+##
+
