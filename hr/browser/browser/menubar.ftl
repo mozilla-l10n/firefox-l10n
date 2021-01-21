@@ -17,6 +17,8 @@ menu-application-hide-other =
     .label = Sakrij ostale
 menu-application-show-all =
     .label = Prikaži sve
+menu-application-touch-bar =
+    .label = Prilagodi traku dodira…
 
 ##
 
