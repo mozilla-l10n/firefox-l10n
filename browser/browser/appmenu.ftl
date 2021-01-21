@@ -34,3 +34,23 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Cöse gh'é de neuvo
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = Informaçioin in sciâ soluçion di problemi
+    .accesskey = I
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Arvi torna co-i conponenti azonti dizabilitæ
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
