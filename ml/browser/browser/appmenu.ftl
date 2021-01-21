@@ -37,6 +37,15 @@ whatsnew-panel-header = പുതിയതെന്താണ്
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } സംബന്ധിച്ചു്
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } സഹായം
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } പര്യടനം
+    .accesskey = o
 appmenu-help-troubleshooting-info =
     .label = ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരങ്ങള്‍
     .accesskey = T
@@ -46,6 +55,9 @@ appmenu-help-troubleshooting-info =
 
 appmenu-help-safe-mode-without-addons =
     .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ
     .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
