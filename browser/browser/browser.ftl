@@ -567,6 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Adicionar esta página aos marcadores
 library-bookmarks-bookmark-edit =
     .label = Editar este marcador
+library-recent-activity-title =
+    .value = Atividade recente
 
 ## More items
 
