@@ -510,6 +510,13 @@ pointerlock-warning-no-domain = Toś ten dokument ma kontrolu nad wašeju špěr
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Źěl toś togo boka jo wowalił.</strong> Aby { -brand-product-name } wó toś tom problemje informěrował a jen malsnjej rozwězował, pósćelśo pšosyym wowaleńsku rozpšawu.
+crashed-subframe-learnmore =
+    .label = Dalšne informacije
+    .accesskey = D
+crashed-subframe-submit =
+    .label = Rozpšawu wótpósłaś
+    .accesskey = R
 
 ## Bookmarks panels, menus and toolbar
 
