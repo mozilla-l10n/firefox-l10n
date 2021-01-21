@@ -45,17 +45,38 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Chi rij ri { -brand-shorter-name }
+    .accesskey = C
+appmenu-help-product =
+    .label = { -brand-shorter-name } To'ïk
+    .accesskey = T
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } B'enam
+    .accesskey = n
 appmenu-help-keyboard-shortcuts =
     .label = Ruq'a' rub'ey Keyboard
     .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = Etamab'äl richin yesol taq k'ayewal
+    .accesskey = E
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Titikirisäx chik kik'in ri chupül taq tz'aqat…
+    .accesskey = T
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Rutzijol q'olonel ruxaq k'amaya'l…
+    .accesskey = q
+appmenu-help-not-deceptive =
+    .label = Re re' man q'olonel ta chi ruxaq k'amaya'l…
+    .accesskey = q
 
 ##
 
