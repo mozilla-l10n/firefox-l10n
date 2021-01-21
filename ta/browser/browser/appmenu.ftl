@@ -33,17 +33,44 @@ whatsnew-panel-header = புதியவை என்ன
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } பற்றி
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } உதவி
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } செயல்முறை விளக்கம்
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = விசைப்பலகை குறுக்கு வழிகள்
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = பிழைத்திருத்தல் தகவல்
     .accesskey = T
+appmenu-help-feedback-page =
+    .label = கருத்துக்களைச் சமர்ப்பி…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = நிரலை நீக்கியபின் மீட்துவக்கு…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = நிரலை நீக்கியபின் மீட்துவக்கு…
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = ஏமாற்று தளத்தைப் புகார் செய்…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = இது ஓர் ஏமாற்று தளம் அல்ல
+    .accesskey = d
 
 ##
 
