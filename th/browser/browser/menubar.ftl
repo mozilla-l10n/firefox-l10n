@@ -13,14 +13,25 @@
 
 menu-application-services =
     .label = บริการ
+menu-application-hide-this =
+    .label = ซ่อน { -brand-shorter-name }
+menu-application-hide-other =
+    .label = ซ่อนอื่น ๆ
 menu-application-show-all =
     .label = แสดงทั้งหมด
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = ออกจาก { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = ออกจาก { -brand-shorter-name }
 
 ## File Menu
 
