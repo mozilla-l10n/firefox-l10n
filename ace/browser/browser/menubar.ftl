@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Peuhirö
+menu-application-hide-this =
+    .label = Sôm { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Sôm nyang laén
 menu-application-show-all =
     .label = Peuleumah Bandum
 
