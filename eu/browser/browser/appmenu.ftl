@@ -42,3 +42,29 @@ whatsnew-panel-header = Nobedadeak
 whatsnew-panel-footer-checkbox =
     .label = Jakinarazi eginbide berriei buruz
     .accesskey = k
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = Laster-teklak
+    .accesskey = s
+appmenu-help-troubleshooting-info =
+    .label = Arazoak konpontzeko informazioa…
+    .accesskey = A
+appmenu-help-feedback-page =
+    .label = Bidali iritzia…
+    .accesskey = d
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Berrabiarazi gehigarriak desgaituta…
+    .accesskey = r
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
