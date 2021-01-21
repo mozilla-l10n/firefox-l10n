@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = 이 사이트는 가짜 사이트가 아닙니다…
     .accesskey = d
+menu-help-check-for-update =
+    .label = 업데이트 확인…
+    .accesskey = C
