@@ -42,3 +42,41 @@ whatsnew-panel-header = Novas
 whatsnew-panel-footer-checkbox =
     .label = Notificar me sur nove functiones
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = A proposito de { -brand-shorter-name }
+    .accesskey = p
+appmenu-help-product =
+    .label = Adjuta de { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-keyboard-shortcuts =
+    .label = Claves de accesso directe
+    .accesskey = C
+appmenu-help-troubleshooting-info =
+    .label = Informationes de diagnostico
+    .accesskey = I
+appmenu-help-feedback-page =
+    .label = Submitter tu opinion…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Reinitiar con le additivos inactive…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Reinitiar con le additivos active
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Denunciar un sito fraudulente…
+    .accesskey = D
+
+##
+
