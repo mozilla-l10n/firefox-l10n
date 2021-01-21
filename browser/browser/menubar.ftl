@@ -44,6 +44,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Έξοδος από το { -brand-shorter-name }
+menu-about =
+    .label = Σχετικά με το { -brand-shorter-name }
+    .accesskey = τ
 
 ## File Menu
 
