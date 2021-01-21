@@ -11,12 +11,23 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Storitve
+menu-application-hide-this =
+    .label = Skrij { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Skrij ostale
+menu-application-show-all =
+    .label = Prikaži vse
 
 ##
 
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = O { -brand-shorter-name }u
+    .accesskey = O
 
 ## File Menu
 
