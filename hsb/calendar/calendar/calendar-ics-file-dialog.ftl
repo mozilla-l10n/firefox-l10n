@@ -25,4 +25,11 @@ calendar-ics-file-import-duplicates =
         [few] { $duplicatesCount } zapiski suso ignorowali, dokelž hižo w cilowej protyce eksistuja.
        *[other] { $duplicatesCount } zapiskow je so ignorowało, dokelž hižo w cilowej protyce eksistuje.
     }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] { $errorsCount } zapisk njeda so importować. Hladajće do zmylkoweje konsole za podrobnosće.
+        [two] { $errorsCount } zapiskaj njedatej so importować. Hladajće do zmylkoweje konsole za podrobnosće.
+        [few] { $errorsCount } zapiski njedadźa so importować. Hladajće do zmylkoweje konsole za podrobnosće.
+       *[other] { $errorsCount } zapiskow njeda so importować. Hladajće do zmylkoweje konsole za podrobnosće.
+    }
 calendar-ics-file-dialog-no-calendars = Njejsu protyki, kotrež móža podawki abo nadawki importować.
