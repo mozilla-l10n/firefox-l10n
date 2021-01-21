@@ -29,3 +29,35 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-about =
+    .label = Tocante a { -brand-shorter-name }
+    .accesskey = T
+appmenu-help-show-tour =
+    .label = Percorríu per { -brand-shorter-name }
+    .accesskey = P
+appmenu-help-keyboard-shortcuts =
+    .label = Atayos de tecláu
+    .accesskey = t
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Reaniciar colos complementos desactivaos…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Reaniciar colos complementos activaos
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Reportar sitiu fraudulentu…
+    .accesskey = R
+
+##
+
