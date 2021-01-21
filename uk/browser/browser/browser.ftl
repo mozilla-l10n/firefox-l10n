@@ -508,6 +508,13 @@ pointerlock-warning-no-domain = Цей документ отримав конт�
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Збій частини цієї сторінки.</strong> Надішліть звіт, щоб повідомити { -brand-product-name } про цю проблему для швидшого її розв'язання.
+crashed-subframe-learnmore =
+    .label = Дізнатися більше
+    .accesskey = Д
+crashed-subframe-submit =
+    .label = Надіслати звіт
+    .accesskey = Н
 
 ## Bookmarks panels, menus and toolbar
 
