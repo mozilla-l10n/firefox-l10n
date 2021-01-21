@@ -45,6 +45,9 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-help-show-tour =
+    .label = Знайомство з { -brand-shorter-name }
+    .accesskey = й
 appmenu-help-troubleshooting-info =
     .label = Вирішення проблем
     .accesskey = В
