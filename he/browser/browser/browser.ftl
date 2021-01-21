@@ -502,6 +502,9 @@ fullscreen-exit-mac-button = יציאה ממסך מלא (Esc)
 pointerlock-warning-domain = לאתר בכתובת <span data-l10n-name="domain">{ $domain }</span> יש שליטה על הסמן שלך. לחיצה על ESC תחזיר את השליטה אליך.
 pointerlock-warning-no-domain = למסמך זה יש שליטה על הסמן שלך. לחיצה על ESC תחזיר את השליטה אליך.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -562,7 +565,6 @@ library-bookmarks-bookmark-this-page =
     .label = יצירת סימנייה לדף זה
 library-bookmarks-bookmark-edit =
     .label = עריכת סימנייה זו
-library-recent-activity-label = פעילות אחרונה
 
 ## More items
 
