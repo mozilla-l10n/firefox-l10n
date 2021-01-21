@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Служби
+menu-application-hide-this =
+    .label = Приховати { -brand-shorter-name }
 menu-application-hide-other =
     .label = Приховати інші
 menu-application-show-all =
