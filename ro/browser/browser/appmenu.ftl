@@ -51,6 +51,12 @@ appmenu-about =
 appmenu-help-product =
     .label = Ajutor { -brand-shorter-name }
     .accesskey = H
+appmenu-help-import-from-another-browser =
+    .label = Importă din alt browser…
+    .accesskey = I
+appmenu-help-troubleshooting-info =
+    .label = Informații pentru depanare
+    .accesskey = T
 appmenu-help-feedback-page =
     .label = Trimite feedback…
     .accesskey = S
@@ -62,6 +68,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Raportează site-uri înșelătoare…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = Nu este un site înșelător…
+    .accesskey = d
 
 ##
 
