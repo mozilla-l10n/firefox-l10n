@@ -11,12 +11,24 @@
 
 ## Application Menu (macOS only)
 
+menu-application-hide-this =
+    .label = Skrýt { -brand-shorter-name }
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Ukončit { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Ukončí { -brand-shorter-name }
+menu-about =
+    .label = O aplikaci { -brand-shorter-name }
+    .accesskey = O
 
 ## File Menu
 
