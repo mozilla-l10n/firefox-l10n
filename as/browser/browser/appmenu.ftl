@@ -42,3 +42,26 @@ whatsnew-panel-header = নতুন কি আছে
 whatsnew-panel-footer-checkbox =
     .label = নতুন সুবিধাৰ বিষয়ে জনাব
     .accesskey = f
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = কিবৰ্ড চৰ্টকাটসমূহ
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = সমস্যামুক্তিৰ তথ্য
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = সঁহাৰি জমা দিয়ক…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
