@@ -57,6 +57,12 @@ appmenu-help-show-tour =
 appmenu-help-import-from-another-browser =
     .label = Importovať z iného prehliadača…
     .accesskey = I
+appmenu-help-keyboard-shortcuts =
+    .label = Klávesové skratky
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = Informácie pre riešenie problémov
+    .accesskey = n
 appmenu-help-feedback-page =
     .label = Odoslať spätnú väzbu…
     .accesskey = d
@@ -64,6 +70,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Reštartovať a zakázať doplnky…
+    .accesskey = R
 appmenu-help-safe-mode-with-addons =
     .label = Reštartovať a povoliť doplnky…
     .accesskey = R
