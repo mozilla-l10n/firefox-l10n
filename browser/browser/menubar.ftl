@@ -11,12 +11,16 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Services
 menu-application-hide-this =
     .label = Verberg { -brand-shorter-name }
 menu-application-hide-other =
     .label = Verberg andere
 menu-application-show-all =
     .label = Toon alles
+menu-application-touch-bar =
+    .label = Aanraakbalk aanpassen…
 
 ##
 
@@ -42,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } afsluiten
+menu-about =
+    .label = Over { -brand-shorter-name }
+    .accesskey = O
 
 ## File Menu
 
