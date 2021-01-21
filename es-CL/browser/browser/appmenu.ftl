@@ -51,6 +51,9 @@ appmenu-about =
 appmenu-help-product =
     .label = Ayuda de { -brand-shorter-name }
     .accesskey = H
+appmenu-help-import-from-another-browser =
+    .label = Importar desde otro navegador…
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
     .label = Atajos del teclado
     .accesskey = K
@@ -67,6 +70,9 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Reiniciar con los complementos deshabilitados…
     .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Reiniciar con los complementos habilitados…
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -74,6 +80,9 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-report-deceptive-site =
     .label = Reportar sitio fraudulento…
     .accesskey = F
+appmenu-help-not-deceptive =
+    .label = Este no es un sitio fraudulento…
+    .accesskey = d
 
 ##
 
