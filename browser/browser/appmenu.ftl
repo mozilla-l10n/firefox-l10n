@@ -83,6 +83,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Zgłoś oszustwo internetowe…
     .accesskey = Z
+appmenu-help-not-deceptive =
+    .label = To nie jest oszustwo…
+    .accesskey = n
 
 ##
 
