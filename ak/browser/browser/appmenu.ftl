@@ -32,6 +32,9 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-help-keyboard-shortcuts =
+    .label = Kibɔd kwantia
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Hawyi ho infɔmehyɛn
     .accesskey = H
