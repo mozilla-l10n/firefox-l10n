@@ -498,6 +498,12 @@ pointerlock-warning-no-domain = 此文档已控制您的鼠标指针。按 Esc �
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = 详细了解
+    .accesskey = L
+crashed-subframe-submit =
+    .label = 提交报告
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 

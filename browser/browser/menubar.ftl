@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = 这不是诈骗网站…
     .accesskey = d
+menu-help-check-for-update =
+    .label = 检查更新…
+    .accesskey = C
