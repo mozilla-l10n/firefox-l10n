@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servîs
+menu-application-hide-other =
+    .label = Yên Din Veşêre
+menu-application-show-all =
+    .label = Hemûyan Nîşan Bide
 
 ##
 
