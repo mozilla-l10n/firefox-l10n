@@ -23,6 +23,9 @@ menu-application-show-all =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = Пра { -brand-shorter-name }
+    .accesskey = П
 
 ## File Menu
 
