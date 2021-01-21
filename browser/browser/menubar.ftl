@@ -14,7 +14,13 @@
 menu-application-services =
     .label = Služby
 menu-application-hide-this =
-    .label = Skrýt { -brand-shorter-name }
+    .label =
+        Skrýt { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] aplikaci { -brand-shorter-name }
+        }
 menu-application-hide-other =
     .label = Skrýt ostatní
 menu-application-show-all =
@@ -26,28 +32,38 @@ menu-application-touch-bar =
 
 # These menu-quit strings are only used on Windows and Linux.
 menu-quit =
-    .label =
-        { PLATFORM() ->
-            [windows] Ukončit
-           *[other] Ukončit
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [windows] k
-           *[other] k
-        }
+    .label = Ukončit
+    .accesskey = k
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
-    .label = Ukončit { -brand-shorter-name }
+    .label =
+        Ukončit { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] aplikaci { -brand-shorter-name }
+        }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
 # This menu-quit-button-win string is only used on Windows.
 menu-quit-button-win =
     .label = { menu-quit.label }
-    .tooltip = Ukončí { -brand-shorter-name }
+    .tooltip =
+        Ukončí { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "acc") }
+            [feminine] { -brand-shorter-name(case: "acc") }
+            [neuter] { -brand-shorter-name(case: "acc") }
+           *[other] aplikaci { -brand-shorter-name }
+        }
 menu-about =
-    .label = O aplikaci { -brand-shorter-name }
+    .label =
+        O { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "loc") }
+            [feminine] { -brand-shorter-name(case: "loc") }
+            [neuter] { -brand-shorter-name(case: "loc") }
+           *[other] aplikaci { -brand-shorter-name }
+        }
     .accesskey = O
 
 ## File Menu
@@ -352,3 +368,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Tato stránka není klamavá…
     .accesskey = l
+menu-help-check-for-update =
+    .label = Zkontrolovat aktualizace…
+    .accesskey = Z
