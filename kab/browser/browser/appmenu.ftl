@@ -45,6 +45,9 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-help-product =
+    .label = Tallelt { -brand-shorter-name }
+    .accesskey = a
 appmenu-help-show-tour =
     .label = Tirza fessusen ɣer { -brand-shorter-name }
     .accesskey = r
