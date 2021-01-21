@@ -45,6 +45,15 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name }(r)i buruz
+    .accesskey = b
+appmenu-help-product =
+    .label = { -brand-shorter-name }(r)en laguntza
+    .accesskey = l
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name }(r)en itzulia
+    .accesskey = u
 appmenu-help-keyboard-shortcuts =
     .label = Laster-teklak
     .accesskey = s
@@ -61,10 +70,19 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Berrabiarazi gehigarriak desgaituta…
     .accesskey = r
+appmenu-help-safe-mode-with-addons =
+    .label = Berrabiarazi gehigarriak gaituta
+    .accesskey = r
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Eman gune iruzurtiaren berri…
+    .accesskey = i
+appmenu-help-not-deceptive =
+    .label = Hau ez da gune iruzurtia…
+    .accesskey = i
 
 ##
 
