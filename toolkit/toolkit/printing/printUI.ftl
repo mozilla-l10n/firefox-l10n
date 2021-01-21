@@ -16,14 +16,6 @@ printui-page-range-custom = 사용자 지정
 printui-page-range-label = 페이지
 printui-page-range-picker =
     .aria-label = 페이지 범위 선택
-printui-page-custom-range =
-    .aria-label = 사용자 지정 페이지 범위 입력
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = 시작:
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = 끝:
 printui-page-custom-range-input =
     .aria-label = 사용자 지정 페이지 범위 입력
     .placeholder = 예: 2-6, 9, 12-16
@@ -58,7 +50,6 @@ printui-margins = 여백
 printui-margins-default = 기본값
 printui-margins-min = 최소값
 printui-margins-none = 없음
-printui-margins-custom = 사용자 지정
 printui-margins-custom-inches = 사용자 정의 (인치)
 printui-margins-custom-top = 위쪽
 printui-margins-custom-top-inches = 위쪽 (인치)
@@ -82,6 +73,7 @@ printui-pages-per-sheet = 용지당 페이지
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = 인쇄 중…
+printui-print-progress-indicator-saving = 저장 중…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

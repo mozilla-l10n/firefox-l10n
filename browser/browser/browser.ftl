@@ -498,6 +498,13 @@ pointerlock-warning-no-domain = 이 문서가 포인터를 제어하려 합니�
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>이 페이지의 일부가 손상되었습니다.</strong> { -brand-product-name }에게 이 문제를 알리고 더 빨리 해결하려면 보고서를 제출하세요.
+crashed-subframe-learnmore =
+    .label = 더 알아보기
+    .accesskey = L
+crashed-subframe-submit =
+    .label = 보고서 제출
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
