@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Layanan
+menu-application-hide-this =
+    .label = Sembunyikan { -brand-shorter-name }
 menu-application-hide-other =
     .label = Sembunyikan Lainnya
 menu-application-show-all =
@@ -22,9 +24,19 @@ menu-application-touch-bar =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Keluar dari { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Keluar dari { -brand-shorter-name }
+menu-about =
+    .label = Tentang { -brand-shorter-name }
+    .accesskey = T
 
 ## File Menu
 
