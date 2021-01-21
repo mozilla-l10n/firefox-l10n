@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ez nem félrevezető oldal…
     .accesskey = n
+menu-help-check-for-update =
+    .label = Frissítések keresése…
+    .accesskey = F

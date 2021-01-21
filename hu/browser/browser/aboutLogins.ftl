@@ -84,6 +84,7 @@ login-item-new-login-title = Új bejelentkezés létrehozása
 login-item-edit-button = Szerkesztés
 about-logins-login-item-remove-button = Eltávolítás
 login-item-origin-label = Honlap címe
+login-item-tooltip-message = Győződjön meg róla, hogy ez megegyezik annak a webhelynek a pontos címével, ahová bejelentkezik.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Felhasználónév
@@ -269,6 +270,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokumentum
        *[other] CSV-fájl
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokumentum
+       *[other] TSV-fájl
+    }
 
 ##
 ## Variables:
@@ -296,3 +304,5 @@ about-logins-import-dialog-items-error =
        *[other] <span>Hibák:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
     }
 about-logins-import-dialog-done = Kész
+about-logins-import-dialog-error-title = Importálási hiba
+about-logins-import-dialog-error-conflicting-values-title = Több ütköző érték egy bejelentkezéshez

@@ -17,14 +17,6 @@ printui-page-range-custom = Egyéni
 printui-page-range-label = Oldalak
 printui-page-range-picker =
     .aria-label = Válassza ki az oldaltartományt
-printui-page-custom-range =
-    .aria-label = Adjon meg egyéni oldaltartományt
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Ettől:
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = eddig:
 printui-page-custom-range-input =
     .aria-label = Egyéni oldaltartomány megadása
     .placeholder = például 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = Margók
 printui-margins-default = Alapértelmezett
 printui-margins-min = Minimális
 printui-margins-none = Egyik sem
-printui-margins-custom = Egyéni
 printui-margins-custom-inches = Egyéni (hüvelyk)
 printui-margins-custom-top = Felső
 printui-margins-custom-top-inches = Felső (hüvelyk)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Oldalak száma laponként
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Nyomtatás…
+printui-print-progress-indicator-saving = Mentés…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
