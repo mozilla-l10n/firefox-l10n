@@ -45,20 +45,44 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Apie „{ -brand-shorter-name }“
+    .accesskey = A
+appmenu-help-product =
+    .label = „{ -brand-shorter-name }“ žinynas
+    .accesskey = ž
+appmenu-help-show-tour =
+    .label = Įvadas į „{ -brand-shorter-name }“
+    .accesskey = v
 appmenu-help-keyboard-shortcuts =
     .label = Spartieji klavišai
     .accesskey = k
 appmenu-help-troubleshooting-info =
     .label = Informacija problemų sprendimui
     .accesskey = r
+appmenu-help-feedback-page =
+    .label = Siųsti atsiliepimą…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Perleisti programą, išjungus priedus…
+    .accesskey = r
+appmenu-help-safe-mode-with-addons =
+    .label = Perleisti programą su išjungtais priedais
+    .accesskey = r
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Pranešti apie apgaulingą svetainę…
+    .accesskey = a
+appmenu-help-not-deceptive =
+    .label = Tai nėra apgaulinga svetainė…
+    .accesskey = g
 
 ##
 
