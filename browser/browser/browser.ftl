@@ -590,6 +590,8 @@ library-bookmarks-bookmark-this-page =
     .label = Přidat stránku do záložek
 library-bookmarks-bookmark-edit =
     .label = Upravit záložku
+library-recent-activity-title =
+    .value = Nedávná aktivita
 
 ## More items
 
