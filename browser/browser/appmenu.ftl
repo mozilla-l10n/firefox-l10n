@@ -71,6 +71,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = 举报诈骗网站…
+    .accesskey = D
 
 ##
 
