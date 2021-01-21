@@ -11,11 +11,31 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Služby
 menu-application-hide-this =
     .label = Skrýt { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Skrýt ostatní
+menu-application-show-all =
+    .label = Zobrazit vše
+menu-application-touch-bar =
+    .label = Nastavit Touch Bar…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Ukončit
+           *[other] Ukončit
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] k
+           *[other] k
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ukončit { -brand-shorter-name }
