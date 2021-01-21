@@ -9,6 +9,45 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+## Application Menu (macOS only)
+
+menu-application-services =
+    .label = Servicios
+menu-application-hide-this =
+    .label = Celar { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Celar le alteres
+menu-application-show-all =
+    .label = Monstrar toto
+
+##
+
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Exir
+           *[other] Quitar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] Q
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Quitar { -brand-shorter-name }
+# This menu-quit-button string is only used on Linux.
+menu-quit-button =
+    .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Exir de { -brand-shorter-name }
+menu-about =
+    .label = A proposito de { -brand-shorter-name }
+    .accesskey = p
+
 ## File Menu
 
 menu-file =
@@ -242,6 +281,15 @@ menu-window-bring-all-to-front =
     .label = Traher toto al avante
 
 ## Help Menu
+
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-help-product
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
 
 menu-help =
     .label = Adjuta
