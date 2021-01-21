@@ -45,6 +45,15 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Über { -brand-shorter-name }
+    .accesskey = e
+appmenu-help-product =
+    .label = { -brand-shorter-name }-Hilfe
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = Tour durch { -brand-shorter-name }
+    .accesskey = o
 appmenu-help-keyboard-shortcuts =
     .label = Tastenkombinationen
     .accesskey = T
