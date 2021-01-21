@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Kilépés a teljes képernyőből (esc)
 pointerlock-warning-domain = A következő irányítja az egérmutatót: <span data-l10n-name="domain">{ $domain }</span> . Nyomja meg az Esc gombot az irányítás visszavételéhez.
 pointerlock-warning-no-domain = Ez a dokumentum vezérli az egérmutatóját. Nyomja meg az Esc gombot az irányítás visszavételéhez.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Oldal hozzáadása a könyvjelzőkhöz
 library-bookmarks-bookmark-edit =
     .label = Könyvjelző szerkesztése
-library-recent-activity-label = Friss tevékenység
 
 ## More items
 
