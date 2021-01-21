@@ -80,6 +80,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Laporkan Situs Tipuan…
     .accesskey = s
+appmenu-help-not-deceptive =
+    .label = Ini bukan situs tipuan…
+    .accesskey = d
 
 ##
 
