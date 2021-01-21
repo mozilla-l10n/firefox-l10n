@@ -42,3 +42,26 @@ whatsnew-panel-header = ما الجديد
 whatsnew-panel-footer-checkbox =
     .label = أعلِمني بالميزات الجديدة
     .accesskey = ع
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = معلومات مواجهة الأعطال
+    .accesskey = ط
+appmenu-help-feedback-page =
+    .label = أرسِل تعليقًا…
+    .accesskey = ر
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = أعِد التشغيل مع تعطيل الإضافات…
+    .accesskey = ش
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
