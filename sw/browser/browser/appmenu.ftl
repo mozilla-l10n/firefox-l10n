@@ -32,6 +32,9 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-help-keyboard-shortcuts =
+    .label = Njiamkato za Kibodi
+    .accesskey = N
 appmenu-help-troubleshooting-info =
     .label = Kusuluhisha Maelezo
     .accesskey = K
