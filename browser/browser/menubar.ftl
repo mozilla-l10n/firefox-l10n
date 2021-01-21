@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Usluge
 menu-application-hide-this =
     .label = Sakrij { -brand-shorter-name }
 menu-application-hide-other =
@@ -44,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Zatvori { -brand-shorter-name }
+menu-about =
+    .label = O { -brand-shorter-name }u
+    .accesskey = O
 
 ## File Menu
 
