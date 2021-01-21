@@ -42,3 +42,23 @@ whatsnew-panel-header = Yang Baru
 whatsnew-panel-footer-checkbox =
     .label = Beri tahu tentang fitur baru
     .accesskey = f
+
+## Help panel
+
+appmenu-help-feedback-page =
+    .label = Kirim Saran…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Mulai Ulang dengan Pengaya Dinonaktifkan…
+    .accesskey = n
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
