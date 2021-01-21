@@ -13,10 +13,14 @@
 
 menu-application-services =
     .label = მომსახურებები
+menu-application-hide-this =
+    .label = ჩაიკეცოს { -brand-shorter-name }
 menu-application-hide-other =
     .label = სხვების ჩაკეცვა
 menu-application-show-all =
     .label = ყველას გამოჩენა
+menu-application-touch-bar =
+    .label = შეხების ზოლის მორგება…
 
 ##
 
@@ -32,9 +36,19 @@ menu-quit =
             [windows] ლ
            *[other] გ
         }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = დაიხუროს { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = დატოვეთ { -brand-shorter-name }
+menu-about =
+    .label = { -brand-shorter-name } შესახებ
+    .accesskey = შ
 
 ## File Menu
 
