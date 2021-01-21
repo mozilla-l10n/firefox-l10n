@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Goyey
+menu-application-hide-other =
+    .label = Tanawey tugu
+menu-application-show-all =
+    .label = Kul cebe
 
 ##
 
