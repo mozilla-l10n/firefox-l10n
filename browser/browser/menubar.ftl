@@ -15,6 +15,8 @@ menu-application-services =
     .label = Tjenester
 menu-application-hide-other =
     .label = Skjul andre
+menu-application-show-all =
+    .label = Vis alle
 
 ##
 
