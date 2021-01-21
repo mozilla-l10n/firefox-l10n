@@ -11,12 +11,23 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servisi
+menu-application-hide-this =
+    .label = Paslēpt { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Paslēpt cytus
+menu-application-show-all =
+    .label = Paruodeit vysus
 
 ##
 
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = Par { -brand-shorter-name }
+    .accesskey = a
 
 ## File Menu
 
