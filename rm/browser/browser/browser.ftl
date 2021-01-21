@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Bandunar il modus da maletg entir (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> controllescha il punctader. Smatga ESC per reacquistar la controlla.
 pointerlock-warning-no-domain = Quest document controllescha il punctader. Smatga ESC per reacquistar la controlla.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Agiuntar in segnapagina…
 library-bookmarks-bookmark-edit =
     .label = Modifitgar quest segnapagina
-library-recent-activity-label = Activitad recenta
 
 ## More items
 
