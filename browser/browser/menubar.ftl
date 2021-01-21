@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Gwasanaethau
+menu-application-hide-other =
+    .label = Cuddio Eraill
+menu-application-show-all =
+    .label = Dangos Popeth
 
 ##
 
