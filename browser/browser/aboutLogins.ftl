@@ -283,6 +283,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokument
        *[other] CSV-dataja
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokument
+       *[other] TSV-dataja
+    }
 
 ##
 ## Variables:
@@ -318,3 +325,4 @@ about-logins-import-dialog-items-error =
        *[other] <span>Zmylki:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
     }
 about-logins-import-dialog-done = Dokónčene
+about-logins-import-dialog-error-title = Importowy zmylk
