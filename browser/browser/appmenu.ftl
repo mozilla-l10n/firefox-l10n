@@ -45,9 +45,15 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } შესახებ
+    .accesskey = შ
 appmenu-help-product =
     .label = { -brand-shorter-name } დახმარება
     .accesskey = დ
+appmenu-help-import-from-another-browser =
+    .label = გადმოტანა სხვა ბრაუზერიდან…
+    .accesskey = ტ
 appmenu-help-keyboard-shortcuts =
     .label = კლავიატურის მალსახმობები
     .accesskey = კ
