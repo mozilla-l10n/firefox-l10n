@@ -78,6 +78,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Käynnistä uudelleen ilman lisäosia…
+    .accesskey = K
 appmenu-help-safe-mode-with-addons =
     .label = Käynnistä uudelleen lisäosat päällä
     .accesskey = K
@@ -85,6 +88,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Ilmoita petollinen sivusto…
+    .accesskey = p
+appmenu-help-not-deceptive =
+    .label = Tämä ei ole petollinen sivusto…
+    .accesskey = p
 
 ##
 
