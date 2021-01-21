@@ -508,6 +508,9 @@ fullscreen-exit-mac-button = Выйти из полноэкранного реж
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> контролирует ваш курсор. Нажмите Esc, чтобы вернуть себе контроль.
 pointerlock-warning-no-domain = Этот документ контролирует ваш курсор. Нажмите Esc, чтобы вернуть себе контроль.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -568,7 +571,6 @@ library-bookmarks-bookmark-this-page =
     .label = Добавить страницу в закладки
 library-bookmarks-bookmark-edit =
     .label = Редактировать эту закладку
-library-recent-activity-label = Последние действия
 
 ## More items
 
