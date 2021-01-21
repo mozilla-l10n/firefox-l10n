@@ -45,12 +45,24 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Acerca de { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = Ayuda de { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-show-tour =
+    .label = Paseo por { -brand-shorter-name }
+    .accesskey = o
 appmenu-help-keyboard-shortcuts =
     .label = Atajos de teclado
     .accesskey = t
 appmenu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = I
+appmenu-help-feedback-page =
+    .label = Enviar comentarios...
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -58,10 +70,16 @@ appmenu-help-troubleshooting-info =
 appmenu-help-safe-mode-without-addons =
     .label = Reiniciar con complementos deshabilitados
     .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Reiniciar con complementos habilitados
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Reportar sitio fraudulento…
+    .accesskey = f
 
 ##
 
