@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Сакриј остале
 menu-application-show-all =
     .label = Прикажи све
+menu-application-touch-bar =
+    .label = Прилагодите додирну траку…
 
 ##
 
