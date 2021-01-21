@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = الخدمات
+menu-application-hide-other =
+    .label = أخفِ الآخرين
 menu-application-show-all =
     .label = أظهر الكل
 
