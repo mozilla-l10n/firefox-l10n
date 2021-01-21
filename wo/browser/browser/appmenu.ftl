@@ -29,3 +29,41 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-about =
+    .label = Ñeel { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = Ndimbal ci { -brand-shorter-name }
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = Wëraalu ci { -brand-shorter-name }
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Ñalli arafukaay bi
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = Xibaari dëng-dëng
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Joxe sa xalaat…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Tambaliwaat te doxadil yokkéef yi …
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Tambaliwaat te doxal yokkéef yi…
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
