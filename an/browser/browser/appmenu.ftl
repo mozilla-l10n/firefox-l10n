@@ -42,3 +42,35 @@ whatsnew-panel-header = Novedatz
 whatsnew-panel-footer-checkbox =
     .label = Informar-me d'as nuevas funcionalidatz
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = Arredol d'o { -brand-shorter-name }
+    .accesskey = d
+appmenu-help-product =
+    .label = Aduya d'o { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-show-tour =
+    .label = Vesita guiada por { -brand-shorter-name }
+    .accesskey = s
+appmenu-help-keyboard-shortcuts =
+    .label = Alcorces de teclau
+    .accesskey = t
+appmenu-help-feedback-page =
+    .label = Ninviar una opinión…
+    .accesskey = v
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Reiniciar con os complementos desactivaus…
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
