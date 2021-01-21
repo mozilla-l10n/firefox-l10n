@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Sortir del mòde ecran complet (Esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> a lo contra-ròtle sus la vòstra mirga. Quichatz sus Esc per tornar recuperar lo contra-ròtle.
 pointerlock-warning-no-domain = Aqueste document a lo contraròtle sul vòstre gredon. Quichatz Esc per tornar prendre lo contra-ròtle.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Marcar aquesta pagina
 library-bookmarks-bookmark-edit =
     .label = Modificar aqueste marcapagina
-library-recent-activity-label = Activitat recenta
+library-recent-activity-title =
+    .value = Activitat recenta
 
 ## More items
 
