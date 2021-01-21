@@ -37,6 +37,15 @@ whatsnew-panel-header = Na tha ùr
 
 ## Help panel
 
+appmenu-about =
+    .label = Mu { -brand-shorter-name }
+    .accesskey = M
+appmenu-help-product =
+    .label = Cobhair { -brand-shorter-name }
+    .accesskey = h
+appmenu-help-show-tour =
+    .label = Turas { -brand-shorter-name }
+    .accesskey = u
 appmenu-help-troubleshooting-info =
     .label = Taic le duilgheadasan
     .accesskey = T
@@ -50,10 +59,19 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Ath-thòisich leis na tuilleadan air an cur à comas…
     .accesskey = r
+appmenu-help-safe-mode-with-addons =
+    .label = Ath-thòisich leis na tuilleadan an comas
+    .accesskey = t
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Dèan aithris air làrach ionnsaighe…
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = Chan e làrach foill a tha seo…
+    .accesskey = d
 
 ##
 
