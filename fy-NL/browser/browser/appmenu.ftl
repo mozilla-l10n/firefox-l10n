@@ -57,6 +57,12 @@ appmenu-help-show-tour =
 appmenu-help-import-from-another-browser =
     .label = Ymportearje fan in oare browser út…
     .accesskey = Y
+appmenu-help-keyboard-shortcuts =
+    .label = Fluchtoetsen
+    .accesskey = t
+appmenu-help-troubleshooting-info =
+    .label = Probleemoplossingsynformaasje
+    .accesskey = P
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
