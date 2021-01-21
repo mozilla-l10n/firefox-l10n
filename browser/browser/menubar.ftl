@@ -15,6 +15,10 @@ menu-application-services =
     .label = సేవలు
 menu-application-hide-this =
     .label = { -brand-shorter-name }ను దాచు
+menu-application-hide-other =
+    .label = వేరేవి దాచు
+menu-application-show-all =
+    .label = అన్నీ చూపించు
 
 ##
 
