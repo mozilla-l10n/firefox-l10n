@@ -559,6 +559,8 @@ library-bookmarks-bookmark-this-page =
     .label = 이 페이지 북마크
 library-bookmarks-bookmark-edit =
     .label = 이 북마크 편집
+library-recent-activity-title =
+    .value = 최근 활동
 
 ## More items
 
