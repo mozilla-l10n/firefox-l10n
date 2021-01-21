@@ -45,10 +45,25 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Về { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-import-from-another-browser =
+    .label = Nhập dữ liệu từ trình duyệt khác…
+    .accesskey = I
+appmenu-help-troubleshooting-info =
+    .label = Thông tin xử lý sự cố
+    .accesskey = T
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Khởi động lại và vô hiệu hóa các tiện ích…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Khởi động lại và kích hoạt các tiện ích
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
