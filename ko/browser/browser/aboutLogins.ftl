@@ -262,6 +262,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV 문서
        *[other] CSV 파일
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV 문서
+       *[other] TSV 파일
+    }
 
 ##
 ## Variables:
@@ -285,3 +292,4 @@ about-logins-import-dialog-items-error =
        *[other] <span>오류:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(가져오지 않음)</span>
     }
 about-logins-import-dialog-done = 완료
+about-logins-import-dialog-error-title = 가져오기 오류
