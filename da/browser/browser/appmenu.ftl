@@ -60,10 +60,16 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Tastaturgenveje
     .accesskey = u
+appmenu-help-feedback-page =
+    .label = Indsend feedback…
+    .accesskey = f
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Genstart med tilføjelser deaktiveret…
+    .accesskey = G
 appmenu-help-safe-mode-with-addons =
     .label = Genstart med tilføjelser aktiveret
     .accesskey = G
