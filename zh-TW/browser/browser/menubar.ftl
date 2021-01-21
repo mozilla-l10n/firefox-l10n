@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = 這不是詐騙網站…
     .accesskey = d
+menu-help-check-for-update =
+    .label = 檢查更新…
+    .accesskey = C

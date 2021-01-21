@@ -83,6 +83,7 @@ login-item-new-login-title = 新增登入資訊
 login-item-edit-button = 編輯
 about-logins-login-item-remove-button = 移除
 login-item-origin-label = 網站網址
+login-item-tooltip-message = 請確定此欄位與您登入網站的網址完全相符。
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 使用者名稱
@@ -261,6 +262,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV 文件
        *[other] CSV 檔案
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV 文件
+       *[other] TSV 檔案
+    }
 
 ##
 ## Variables:
@@ -284,3 +292,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>錯誤:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未匯入）</span>
     }
 about-logins-import-dialog-done = 完成
+about-logins-import-dialog-error-title = 匯入錯誤
+about-logins-import-dialog-error-conflicting-values-title = 單筆登入資訊當中有多筆衝突的值
+about-logins-import-dialog-error-conflicting-values-description = 例如: 單一筆登入資訊中出現了多組使用者名稱、密碼、網址等等。
+about-logins-import-dialog-error-file-format-title = 檔案格式問題
+about-logins-import-dialog-error-file-format-description = 欄位標題不正確或有缺。請確定檔案中包含正確的使用者名稱、密碼、網址欄位。
+about-logins-import-dialog-error-file-permission-title = 無法讀取檔案
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } 沒有權限讀取檔案，請調整檔案的存取權限。
+about-logins-import-dialog-error-unable-to-read-title = 無法解析檔案
+about-logins-import-dialog-error-unable-to-read-description = 請確定您選擇了正確的 CSV 或 TSV 檔案。
+about-logins-import-dialog-error-no-logins-imported = 未匯入任何登入資訊
+about-logins-import-dialog-error-learn-more = 了解更多
+about-logins-import-dialog-error-try-again = 再試一次…
+about-logins-import-dialog-error-cancel = 取消

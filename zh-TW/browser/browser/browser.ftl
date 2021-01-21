@@ -498,6 +498,13 @@ pointerlock-warning-no-domain = 此文件可控制您的滑鼠游標，按 Esc �
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>此頁面中的部分內容發生錯誤。</strong>您同意的話，可將此問題回報給 { -brand-product-name }，讓我們更快修正。
+crashed-subframe-learnmore =
+    .label = 了解更多
+    .accesskey = L
+crashed-subframe-submit =
+    .label = 送出報告
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
