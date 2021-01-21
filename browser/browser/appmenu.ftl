@@ -54,6 +54,9 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } 导览
     .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = 从其他浏览器导入…
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
     .label = 键盘快捷键
     .accesskey = K
@@ -67,6 +70,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = 以安全模式重启浏览器…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = 重启浏览器并启用附加组件
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
