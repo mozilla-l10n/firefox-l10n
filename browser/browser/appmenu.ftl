@@ -83,6 +83,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Informar sobre sitio engañoso…
     .accesskey = f
+appmenu-help-not-deceptive =
+    .label = Este sitio no es engañoso…
+    .accesskey = e
 
 ##
 
