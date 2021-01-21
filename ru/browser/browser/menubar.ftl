@@ -11,12 +11,42 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Службы
+menu-application-hide-this =
+    .label = Скрыть { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Скрыть остальные
+menu-application-show-all =
+    .label = Показать все
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Выход
+           *[other] Выход
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] х
+           *[other] ы
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Завершить { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Выход из { -brand-shorter-name }
+menu-about =
+    .label = О { -brand-shorter-name }
+    .accesskey = О
 
 ## File Menu
 
