@@ -42,3 +42,41 @@ whatsnew-panel-header = ਨਵਾਂ ਕੀ ਹੈ
 whatsnew-panel-footer-checkbox =
     .label = ਨਵੇਂ ਫ਼ੀਚਰਾਂ ਬਾਰੇ ਸੂਚਿਤ ਕਰੋ
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name } ਬਾਰੇ
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } ਮਦਦ
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } ਟੂਰ
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
+    .accesskey = K
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = …ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = ਐਡ-ਆਨ ਸਮਰੱਥ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = …ਭਰਮਪੂਰਕ ਸਾਈਟ ਨੂੰ ਰਿਪੋਰਟ
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = ਇਹ ਭਰਮਪੂਰਨ ਸਾਈਟ ਨਹੀਂ ਹੈ…
+    .accesskey = d
+
+##
+
