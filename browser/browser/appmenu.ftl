@@ -48,6 +48,9 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
+appmenu-help-troubleshooting-info =
+    .label = Odpravljanje težav
+    .accesskey = R
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
