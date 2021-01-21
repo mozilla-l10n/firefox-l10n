@@ -15,6 +15,12 @@ menu-application-services =
     .label = Dịch vụ
 menu-application-hide-this =
     .label = Ẩn { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Ẩn các mục khác
+menu-application-show-all =
+    .label = Hiển thị tất cả
+menu-application-touch-bar =
+    .label = Tùy chỉnh Touch Bar…
 
 ##
 
@@ -40,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Thoát { -brand-shorter-name }
+menu-about =
+    .label = Về { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
