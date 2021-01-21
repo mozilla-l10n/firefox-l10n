@@ -68,6 +68,9 @@ appmenu-help-troubleshooting-info =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-not-deceptive =
+    .label = 이 사이트는 가짜 사이트가 아닙니다…
+    .accesskey = d
 
 ##
 
