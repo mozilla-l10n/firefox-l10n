@@ -565,6 +565,8 @@ library-bookmarks-bookmark-this-page =
     .label = יצירת סימנייה לדף זה
 library-bookmarks-bookmark-edit =
     .label = עריכת סימנייה זו
+library-recent-activity-title =
+    .value = פעילות אחרונה
 
 ## More items
 
