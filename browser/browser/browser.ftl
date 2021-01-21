@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Avslutt fullskjerm (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> har kontroll over musepekeren din. Trykk Esc for å ta tilbake kontrollen.
 pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepekeren din. Trykk på Esc for å ta tilbake kontrollen.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Bokmerk denne siden
 library-bookmarks-bookmark-edit =
     .label = Rediger dette bokmerket
-library-recent-activity-label = Nylig aktivitet
+library-recent-activity-title =
+    .value = Nylig aktivitet
 
 ## More items
 
