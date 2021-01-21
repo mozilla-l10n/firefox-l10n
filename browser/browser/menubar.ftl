@@ -13,6 +13,10 @@
 
 menu-application-services =
     .label = Serveis
+menu-application-hide-other =
+    .label = Amaga altres
+menu-application-show-all =
+    .label = Mostra-ho tot
 
 ##
 
