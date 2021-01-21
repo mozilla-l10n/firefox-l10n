@@ -11,6 +11,10 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = บริการ
+menu-application-show-all =
+    .label = แสดงทั้งหมด
 
 ##
 
