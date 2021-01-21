@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Cuddio Eraill
 menu-application-show-all =
     .label = Dangos Popeth
+menu-application-touch-bar =
+    .label = Cyfaddasu'r Bar Cyffwrdd…
 
 ##
 
