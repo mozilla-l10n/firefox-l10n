@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Toto nie je podvodná stránka…
     .accesskey = T
+menu-help-check-for-update =
+    .label = Vyhľadať aktualizácie…
+    .accesskey = V
