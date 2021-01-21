@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Servicis
+menu-application-hide-this =
+    .label = Amagar { -brand-shorter-name }
 menu-application-hide-other =
     .label = Amagar los autres
 menu-application-show-all =
@@ -20,9 +22,16 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Sortir de { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Sortir de { -brand-shorter-name }
 
 ## File Menu
 
