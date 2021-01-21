@@ -42,3 +42,41 @@ whatsnew-panel-header = Nù huin sa nakà hua
 whatsnew-panel-footer-checkbox =
     .label = Gātāj na’ānj si huā sa nakà doj
     .accesskey = ā
+
+## Help panel
+
+appmenu-about =
+    .label = rayi'î { -brand-shorter-name }
+    .accesskey = r
+appmenu-help-product =
+    .label = Sa ruguñu'unj un { -brand-shorter-name }
+    .accesskey = S
+appmenu-help-show-tour =
+    .label = gache nu' riña { -brand-shorter-name }
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Sa hìo doj gà' da' si garasun' teklâdo
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = Nuguan' garasun' dàj nagi'iô' sa hua a'nan'an
+    .accesskey = N
+appmenu-help-feedback-page =
+    .label = Ga'nïnj 'ngo si nuguàn't
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Nayi'ì ñû' ngà nej sa ga'ue nutò' giyichin'
+    .accesskey = N
+appmenu-help-safe-mode-with-addons =
+    .label = Nayi'ì ñû' ngà nej sa ga'ue nutò' hua yugui
+    .accesskey = N
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
