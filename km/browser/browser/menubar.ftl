@@ -44,6 +44,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = បិទ { -brand-shorter-name }
+menu-about =
+    .label = អំពី { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
