@@ -13,6 +13,10 @@
 
 menu-application-services =
     .label = সেৱাসমূহ
+menu-application-hide-other =
+    .label = অন্য লুকাওক
+menu-application-show-all =
+    .label = সকলো দেখুৱাওক
 
 ##
 
