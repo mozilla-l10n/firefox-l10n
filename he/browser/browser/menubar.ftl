@@ -13,14 +13,23 @@
 
 menu-application-services =
     .label = שירותים
+menu-application-hide-this =
+    .label = הסתרת { -brand-shorter-name }
 menu-application-hide-other =
     .label = הסתרת אחרים
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = יציאה מ־{ -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = יציאה מ־{ -brand-shorter-name }
 
 ## File Menu
 
