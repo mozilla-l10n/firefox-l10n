@@ -15,6 +15,8 @@ menu-application-services =
     .label = Tanfiwin
 menu-application-hide-this =
     .label = Ffer { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Ffer Wiyaḍ
 
 ##
 
