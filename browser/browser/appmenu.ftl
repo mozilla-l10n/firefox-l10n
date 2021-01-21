@@ -32,6 +32,9 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-about =
+    .label = Mayelana ne-{ -brand-shorter-name }
+    .accesskey = M
 appmenu-help-troubleshooting-info =
     .label = Imininingwane yokufuna isisombululo senkinga
     .accesskey = I
