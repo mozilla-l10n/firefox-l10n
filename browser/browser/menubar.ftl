@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Қызметтер
+menu-application-hide-this =
+    .label = { -brand-shorter-name } жасыру
 menu-application-hide-other =
     .label = Басқаларын жасыру
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Шығу
+           *[other] Шығу
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ы
+           *[other] Ш
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } жұмысын аяқтау
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } жұмысын аяқтау
+menu-about =
+    .label = { -brand-shorter-name } туралы
+    .accesskey = а
 
 ## File Menu
 
