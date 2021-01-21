@@ -15,6 +15,8 @@ menu-application-services =
     .label = සේවා
 menu-application-hide-other =
     .label = අනෙක්වා සඟවන්න
+menu-application-show-all =
+    .label = සියල්ල ම පෙන්වන්න
 
 ##
 
