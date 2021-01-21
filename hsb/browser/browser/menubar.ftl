@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Druhe schować
 menu-application-show-all =
     .label = Wšitke pokazać
+menu-application-touch-bar =
+    .label = Dótknjensku lajstu přiměrić…
 
 ##
 
