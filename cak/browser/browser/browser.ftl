@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Tel pa chijun ruwa kematz'ib' (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.
 pointerlock-warning-no-domain = Re ruxaq wuj re' chajin ruma ri retal ch'oy. Tapitz'a' Esc richin nachajij chik el.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Titz'aqatisäx re ruxaq re' pa taq yaketal
 library-bookmarks-bookmark-edit =
     .label = Tinuk' re yaketal re'
-library-recent-activity-label = K'ak'a' Samaj
 
 ## More items
 
