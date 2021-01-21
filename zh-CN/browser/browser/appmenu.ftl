@@ -42,3 +42,35 @@ whatsnew-panel-header = 新版变化
 whatsnew-panel-footer-checkbox =
     .label = 有新功能推出时通知我
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = 关于 { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } 帮助
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } 导览
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = 键盘快捷键
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = 故障排除信息
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = 提交反馈…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
