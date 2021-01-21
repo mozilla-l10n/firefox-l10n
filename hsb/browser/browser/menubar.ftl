@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = To wobšudne sydło njeje…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Za aktualizacijemi pruwować…
+    .accesskey = Z
