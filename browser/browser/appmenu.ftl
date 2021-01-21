@@ -42,3 +42,32 @@ whatsnew-panel-header = Wat is der nij
 whatsnew-panel-footer-checkbox =
     .label = Berjochten oer nije funksjes
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = Oer { -brand-shorter-name }
+    .accesskey = O
+appmenu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name }-toer
+    .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = Ymportearje fan in oare browser út…
+    .accesskey = Y
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-with-addons =
+    .label = Opnij starte mei ynskeakele add-ons
+    .accesskey = r
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
