@@ -42,3 +42,23 @@ whatsnew-panel-header = რა სიახლეებია
 whatsnew-panel-footer-checkbox =
     .label = ცნობები, ახალ შესაძლებლობებზე
     .accesskey = ც
+
+## Help panel
+
+appmenu-help-product =
+    .label = { -brand-shorter-name } დახმარება
+    .accesskey = დ
+appmenu-help-keyboard-shortcuts =
+    .label = კლავიატურის მალსახმობები
+    .accesskey = კ
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
