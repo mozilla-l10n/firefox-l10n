@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Приховати інші
 menu-application-show-all =
     .label = Показати все
+menu-application-touch-bar =
+    .label = Налаштувати сенсорну панель…
 
 ##
 
