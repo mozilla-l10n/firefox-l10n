@@ -500,6 +500,9 @@ fullscreen-exit-mac-button = Kene nuu pantalla ka'nu (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tetiñu puntero noo'o. Kuaxin Esc sa kuvi nake'enuma.
 pointerlock-warning-no-domain = Documento ya'a kumi control puntero noo'o. Kuaxin Esc sa kuvi nake'enuma.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -560,7 +563,8 @@ library-bookmarks-bookmark-this-page =
     .label = Tee página ya´a nuu a ta´an ini noo´o
 library-bookmarks-bookmark-edit =
     .label = Sama a ta´an ini noo´o ya´a
-library-recent-activity-label = Da a skuata nsá´á
+library-recent-activity-title =
+    .value = Da a skuata nsá´á
 
 ## More items
 
