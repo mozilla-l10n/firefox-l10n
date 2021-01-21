@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = 隐藏其他
 menu-application-show-all =
     .label = 显示全部
+menu-application-touch-bar =
+    .label = 自定义触控栏…
 
 ##
 
