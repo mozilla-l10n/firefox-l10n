@@ -559,6 +559,8 @@ library-bookmarks-bookmark-this-page =
     .label = 將本頁加入書籤
 library-bookmarks-bookmark-edit =
     .label = 編輯此書籤
+library-recent-activity-title =
+    .value = 近期動態
 
 ## More items
 
