@@ -17,9 +17,25 @@ menu-application-hide-this =
     .label = הסתרת { -brand-shorter-name }
 menu-application-hide-other =
     .label = הסתרת אחרים
+menu-application-show-all =
+    .label = הצגת הכל
+menu-application-touch-bar =
+    .label = התאמה אישית של סרגל המגע…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] יציאה
+           *[other] יציאה
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] צ
+           *[other] צ
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = יציאה מ־{ -brand-shorter-name }
