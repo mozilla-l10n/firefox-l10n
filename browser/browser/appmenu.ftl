@@ -34,3 +34,26 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Na tha ùr
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = Taic le duilgheadasan
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Cuir thugainn do bheachdan…
+    .accesskey = C
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Ath-thòisich leis na tuilleadan air an cur à comas…
+    .accesskey = r
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
