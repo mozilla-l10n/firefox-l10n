@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = সেবা
+menu-application-hide-this =
+    .label = { -brand-shorter-name } আড়াল কর
 menu-application-hide-other =
     .label = অন্যান্য উইন্ডো আড়াল করা হবে
 menu-application-show-all =
@@ -20,9 +22,19 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } থেকে প্রস্থান
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } থেকে প্রস্থান
+menu-about =
+    .label = About { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
