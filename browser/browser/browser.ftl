@@ -506,6 +506,9 @@ fullscreen-exit-mac-button = Вийти з повноекранного режи
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> отримав контроль над вашим вказівником. Натисніть Esc для повернення контролю.
 pointerlock-warning-no-domain = Цей документ отримав контроль над вашим вказівником. Натисніть Esc для повернення контролю.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -566,7 +569,8 @@ library-bookmarks-bookmark-this-page =
     .label = Закласти цю сторінку
 library-bookmarks-bookmark-edit =
     .label = Редагувати цю закладку
-library-recent-activity-label = Нещодавня активність
+library-recent-activity-title =
+    .value = Нещодавня активність
 
 ## More items
 
