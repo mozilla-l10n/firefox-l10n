@@ -57,10 +57,16 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = ඇඩෝන දුබල කර යළි-අරඹන්න…
     .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = සක්‍රීය කළ ඇඩෝන සමඟ යළි අරඹන්න
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-not-deceptive =
+    .label = මෙය කූට අඩවියක් නොවේ
+    .accesskey = d
 
 ##
 
