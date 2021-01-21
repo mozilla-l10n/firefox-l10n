@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = ਹੋਰ ਓਹਲੇ
 menu-application-show-all =
     .label = ਸਭ ਵੇਖੋ
+menu-application-touch-bar =
+    .label = …ਟੱਚ ਪੱਟੀ ਨੂੰ ਪਸੰਦ ਮੁਤਾਬਕ ਢਾਲੋ
 
 ##
 
