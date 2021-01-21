@@ -496,6 +496,9 @@ fullscreen-exit-mac-button = Thoát toàn màn hình (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> có quyền điều khiển con trỏ của bạn. Ấn Esc để lấy lại quyền điều khiển.
 pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ của bạn. Ấn Esc để lấy lại quyền điều khiển.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -556,7 +559,6 @@ library-bookmarks-bookmark-this-page =
     .label = Đánh dấu trang này
 library-bookmarks-bookmark-edit =
     .label = Chỉnh sửa dấu trang này
-library-recent-activity-label = Hoạt động gần đây
 
 ## More items
 
