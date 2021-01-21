@@ -32,6 +32,15 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } क परिचय
+    .accesskey = क
+appmenu-help-product =
+    .label = { -brand-shorter-name } मददि
+    .accesskey = म
+appmenu-help-keyboard-shortcuts =
+    .label = कुँजीपटल शार्टकट
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = विघ्ननिवारण सूचना
     .accesskey = T
@@ -44,6 +53,9 @@ appmenu-help-feedback-page =
 
 appmenu-help-safe-mode-without-addons =
     .label = सहयुक्तिक सँग फेर आरंभ  कएनाइ  निष्क्रिय…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = ऐड-ऑन सक्षम केर सँग फेर आरंभ करू
     .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
