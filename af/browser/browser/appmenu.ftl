@@ -29,3 +29,26 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = Inligting vir probleemoplossing
+    .accesskey = p
+appmenu-help-feedback-page =
+    .label = Dien terugvoer in…
+    .accesskey = D
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Herbegin met byvoegings gedeaktiveer…
+    .accesskey = H
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
