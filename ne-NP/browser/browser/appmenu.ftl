@@ -54,6 +54,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = एडअनहरू अक्षम पारेर पुनःसुरु गर्नुहोस् …
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = एडअनहरू सक्षम पारेर पुनःसुरु गर्नुहोस्
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
