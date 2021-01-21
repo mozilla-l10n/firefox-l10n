@@ -51,9 +51,15 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = Ξενάγηση στο { -brand-shorter-name }
     .accesskey = Ξ
+appmenu-help-import-from-another-browser =
+    .label = Εισαγωγή από άλλο φυλλομετρητή…
+    .accesskey = Ε
 appmenu-help-keyboard-shortcuts =
     .label = Συντομεύσεις πληκτρολογίου
     .accesskey = υ
+appmenu-help-troubleshooting-info =
+    .label = Πληροφορίες επίλυσης προβλημάτων
+    .accesskey = Π
 appmenu-help-feedback-page =
     .label = Υποβολή σχολίων…
     .accesskey = λ
@@ -71,6 +77,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Αναφορά παραπλανητικής σελίδας…
     .accesskey = Α
+appmenu-help-not-deceptive =
+    .label = Αυτή δεν είναι παραπλανητική ιστοσελίδα…
+    .accesskey = δ
 
 ##
 
