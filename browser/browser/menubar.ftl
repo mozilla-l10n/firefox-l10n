@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = خدمات
+menu-application-hide-this =
+    .label = پنهان کردن { -brand-shorter-name }
 menu-application-hide-other =
     .label = دیگر برنامه‌ها را مخفی کن
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] خروج
+           *[other] ترک
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] خ
+           *[other] ت
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = ترک { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = خروج از { -brand-shorter-name }
+menu-about =
+    .label = دربارهٔ { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
