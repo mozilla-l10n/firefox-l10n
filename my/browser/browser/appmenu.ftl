@@ -60,6 +60,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = အတ်အွန်များကို ပိတ်ပြီး ပြန်စပါ…
+    .accesskey = R
 appmenu-help-safe-mode-with-addons =
     .label = အတ်အွန်များဖွင့်ပြီး ပြန်စတင်ပါ
     .accesskey = R
