@@ -42,3 +42,44 @@ whatsnew-panel-header = Nowe funkcije a změny
 whatsnew-panel-footer-checkbox =
     .label = Wo nowych funkcijach informować
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = Wo { -brand-shorter-name }
+    .accesskey = W
+appmenu-help-product =
+    .label = { -brand-shorter-name } - Pomoc
+    .accesskey = m
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } - Tura
+    .accesskey = u
+appmenu-help-keyboard-shortcuts =
+    .label = Tastowe skrótšenki
+    .accesskey = T
+appmenu-help-troubleshooting-info =
+    .label = Informacije za rozrisowanje problemow
+    .accesskey = I
+appmenu-help-feedback-page =
+    .label = Posudk pósłać…
+    .accesskey = P
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-with-addons =
+    .label = Ze zmóžnjenymi přidatkami znowa startować
+    .accesskey = Z
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Wobšudne sydło zdźělić…
+    .accesskey = b
+appmenu-help-not-deceptive =
+    .label = To wobšudne sydło njeje…
+    .accesskey = d
+
+##
+
