@@ -45,6 +45,12 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Пра { -brand-shorter-name }
+    .accesskey = П
+appmenu-help-product =
+    .label = Даведка { -brand-shorter-name }
+    .accesskey = Д
 appmenu-help-show-tour =
     .label = Знаёмства з { -brand-shorter-name }
     .accesskey = З
@@ -74,6 +80,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Паведаміць аб падробленым сайце…
+    .accesskey = П
+appmenu-help-not-deceptive =
+    .label = Гэта не падманлівы сайт…
+    .accesskey = в
 
 ##
 
