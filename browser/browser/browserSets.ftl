@@ -94,10 +94,10 @@ mute-toggle-shortcut =
     .key = M
 
 nav-back-shortcut-alt =
-    .key = ò
+    .key = à
 
 nav-fwd-shortcut-alt =
-    .key = à
+    .key = ù
 
 nav-reload-shortcut =
     .key = r
