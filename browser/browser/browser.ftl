@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Tam ekrandan çık (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> işaretçinizi kontrol ediyor. Kontrolü geri almak için Esc tuşuna basın.
 pointerlock-warning-no-domain = Bu belge işaretçinizi kontrol ediyor. Kontrolü geri almak için Esc tuşuna basın.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Bu sayfayı yer imlerine ekle
 library-bookmarks-bookmark-edit =
     .label = Bu yer imini düzenle
-library-recent-activity-label = Son etkinlikler
 
 ## More items
 
