@@ -57,9 +57,15 @@ appmenu-help-show-tour =
 appmenu-help-import-from-another-browser =
     .label = Başka bir tarayıcıdan içe aktar…
     .accesskey = B
+appmenu-help-keyboard-shortcuts =
+    .label = Klavye kısayolları
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
+appmenu-help-feedback-page =
+    .label = Geri bildirim gönder…
+    .accesskey = G
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
