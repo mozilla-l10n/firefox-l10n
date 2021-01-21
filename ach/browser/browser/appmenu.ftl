@@ -44,6 +44,21 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Ikom { -brand-shorter-name }
+    .accesskey = I
+appmenu-help-product =
+    .label = Kony me { -brand-shorter-name }
+    .accesskey = K
+appmenu-help-show-tour =
+    .label = Wot me { -brand-shorter-name }
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Yo macego me kadiyo coc
+    .accesskey = k
+appmenu-help-troubleshooting-info =
+    .label = Ngec me yubu bal
+    .accesskey = N
 appmenu-help-feedback-page =
     .label = Cwal adwogi ne…
     .accesskey = C
@@ -51,10 +66,22 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Cak odoco ki med-ikome gi ma kijuko woko…
+    .accesskey = C
+appmenu-help-safe-mode-with-addons =
+    .label = Cak odoco kun nongo kicako med-ikome
+    .accesskey = C
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Mi ripot i kom kakube me bwola…
+    .accesskey = b
+appmenu-help-not-deceptive =
+    .label = Man pe kakube me bwola…
+    .accesskey = b
 
 ##
 
