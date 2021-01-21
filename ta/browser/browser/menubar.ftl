@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = சேவைகள்
+menu-application-hide-this =
+    .label = { -brand-shorter-name } மறை
 menu-application-hide-other =
     .label = மற்றவற்றை மறை
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] வெளியேறு
+           *[other] வெளியேறு
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] x
+           *[other] Q
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } விட்டு வெளியேறு
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } உலாவியை விட்டு வெளியேறு
+menu-about =
+    .label = { -brand-shorter-name } பற்றி
+    .accesskey = A
 
 ## File Menu
 
