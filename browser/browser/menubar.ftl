@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = A több elrejtése
 menu-application-show-all =
     .label = Mindet mutat
+menu-application-touch-bar =
+    .label = Érintősár testreszabása…
 
 ##
 
