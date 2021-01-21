@@ -32,9 +32,21 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-about =
+    .label = Iwwer { -brand-shorter-name }
+    .accesskey = I
+appmenu-help-product =
+    .label = { -brand-shorter-name } Hëllef
+    .accesskey = H
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } Tour
     .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Tastekombinatiounen
+    .accesskey = T
+appmenu-help-troubleshooting-info =
+    .label = Informatiounen zur Feelerbehiewung
+    .accesskey = f
 appmenu-help-feedback-page =
     .label = Feedback schécken…
     .accesskey = S
@@ -42,6 +54,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Ouni Add-ons nei starten...
+    .accesskey = A
+appmenu-help-safe-mode-with-addons =
+    .label = Mat Add-ons nei starten
+    .accesskey = O
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
