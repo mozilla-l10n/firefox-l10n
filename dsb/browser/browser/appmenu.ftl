@@ -45,9 +45,21 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Wó { -brand-shorter-name }
+    .accesskey = W
+appmenu-help-product =
+    .label = { -brand-shorter-name } - Pomoc
+    .accesskey = m
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } - Tura
+    .accesskey = T
 appmenu-help-keyboard-shortcuts =
     .label = Tastowe skrotconki
     .accesskey = T
+appmenu-help-troubleshooting-info =
+    .label = Informacije za rozwězowanje problemow
+    .accesskey = I
 appmenu-help-feedback-page =
     .label = Pósudk pósłaś…
     .accesskey = P
@@ -58,10 +70,19 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Ze znjemóžnjonymi dodankami znowego startowaś…
     .accesskey = Z
+appmenu-help-safe-mode-with-addons =
+    .label = Ze zmóžnjonymi dodankami znowego startowaś
+    .accesskey = Z
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Wobšudnikojske sedło k wěsći daś…
+    .accesskey = b
+appmenu-help-not-deceptive =
+    .label = To njejo wobšudnikojske sedło…
+    .accesskey = d
 
 ##
 
