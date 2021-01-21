@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Це не шахрайський сайт…
     .accesskey = н
+menu-help-check-for-update =
+    .label = Перевірити наявність оновлень…
+    .accesskey = П
