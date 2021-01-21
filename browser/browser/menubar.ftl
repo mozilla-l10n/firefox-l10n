@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = সেবা
+menu-application-hide-other =
+    .label = অন্যান্য উইন্ডো আড়াল করা হবে
+menu-application-show-all =
+    .label = সব প্রদর্শন
 
 ##
 
