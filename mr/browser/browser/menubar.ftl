@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = इतरांना लपवा
 menu-application-show-all =
     .label = सर्व दर्शवा
+menu-application-touch-bar =
+    .label = टच बार सानुकूलित करा…
 
 ##
 
