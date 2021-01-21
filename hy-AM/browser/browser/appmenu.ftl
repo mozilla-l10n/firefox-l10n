@@ -63,6 +63,9 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = Անսարքության տեղեկատվություն
     .accesskey = Ա
+appmenu-help-feedback-page =
+    .label = Ուղարկել արձագանք…
+    .accesskey = Ո
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
