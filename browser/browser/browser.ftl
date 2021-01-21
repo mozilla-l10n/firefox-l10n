@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Eliri el plenekrana reĝimo (esk)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> regas vian musmontrilon. Premu Esk por repreni la regadon.
 pointerlock-warning-no-domain = Tiu ĉi dokumento regas vian musmontrilon. Premu Esk por repreni la regadon.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Aldoni legosignon por tiu ĉi paĝo
 library-bookmarks-bookmark-edit =
     .label = Redakti tiun ĉi legosignon
-library-recent-activity-label = Ĵusa agado
 
 ## More items
 
