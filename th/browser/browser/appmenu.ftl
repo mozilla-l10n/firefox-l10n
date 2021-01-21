@@ -42,3 +42,47 @@ whatsnew-panel-header = มีอะไรใหม่
 whatsnew-panel-footer-checkbox =
     .label = แจ้งเตือนเกี่ยวกับคุณลักษณะใหม่
     .accesskey = จ
+
+## Help panel
+
+appmenu-about =
+    .label = เกี่ยวกับ { -brand-shorter-name }
+    .accesskey = ก
+appmenu-help-product =
+    .label = ความช่วยเหลือของ { -brand-shorter-name }
+    .accesskey = ช
+appmenu-help-show-tour =
+    .label = เที่ยวชม { -brand-shorter-name }
+    .accesskey = ท
+appmenu-help-keyboard-shortcuts =
+    .label = แป้นพิมพ์ลัด
+    .accesskey = ล
+appmenu-help-troubleshooting-info =
+    .label = ข้อมูลการแก้ไขปัญหา
+    .accesskey = ป
+appmenu-help-feedback-page =
+    .label = ส่งข้อคิดเห็น…
+    .accesskey = ส
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
+    .accesskey = ร
+appmenu-help-safe-mode-with-addons =
+    .label = เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม
+    .accesskey = ร
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = รายงานไซต์หลอกลวง…
+    .accesskey = ห
+appmenu-help-not-deceptive =
+    .label = นี่ไม่ใช่ไซต์หลอกลวง…
+    .accesskey = ห
+
+##
+
