@@ -45,9 +45,21 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Про { -brand-shorter-name }
+    .accesskey = о
+appmenu-help-product =
+    .label = Довідка { -brand-shorter-name }
+    .accesskey = Д
 appmenu-help-show-tour =
     .label = Знайомство з { -brand-shorter-name }
     .accesskey = й
+appmenu-help-import-from-another-browser =
+    .label = Імпорт даних з іншого браузера…
+    .accesskey = м
+appmenu-help-keyboard-shortcuts =
+    .label = Комбінації клавіш
+    .accesskey = К
 appmenu-help-troubleshooting-info =
     .label = Вирішення проблем
     .accesskey = В
@@ -61,10 +73,19 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Перезапуск з вимкненими додатками…
     .accesskey = П
+appmenu-help-safe-mode-with-addons =
+    .label = Перезапуск з увімкненими додатками
+    .accesskey = у
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Повідомити про шахрайський сайт…
+    .accesskey = ш
+appmenu-help-not-deceptive =
+    .label = Це не шахрайський сайт…
+    .accesskey = н
 
 ##
 
