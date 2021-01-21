@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Servicios
+menu-application-hide-this =
+    .label = Anubrir { -brand-shorter-name }
 menu-application-hide-other =
     .label = Anubrir otros
 menu-application-show-all =
@@ -23,6 +25,9 @@ menu-application-show-all =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = Tocante a { -brand-shorter-name }
+    .accesskey = T
 
 ## File Menu
 
