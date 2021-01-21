@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = دیگر چھپائیں
 menu-application-show-all =
     .label = تمام دکھائیں
+menu-application-touch-bar =
+    .label = ٹچ بار کی تخصیص کریں…
 
 ##
 
