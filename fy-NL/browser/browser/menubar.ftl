@@ -13,13 +13,29 @@
 
 menu-application-services =
     .label = Tsjinsten
+menu-application-hide-this =
+    .label = { -brand-shorter-name } ferstopje
 menu-application-hide-other =
     .label = Oare ferstopje
 menu-application-show-all =
     .label = Alles toane
+menu-application-touch-bar =
+    .label = Oanraakbalke oanpasse…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Ofslute
+           *[other] Ofslute
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ôfslute
@@ -30,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } ôfslute
+menu-about =
+    .label = Oer { -brand-shorter-name }
+    .accesskey = O
 
 ## File Menu
 
