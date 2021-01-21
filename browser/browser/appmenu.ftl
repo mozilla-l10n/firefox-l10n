@@ -32,6 +32,15 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-about =
+    .label = Derbarê &brandShortName;ê de
+    .accesskey = D
+appmenu-help-product =
+    .label = Alîkariya { -brand-shorter-name }ê
+    .accesskey = A
+appmenu-help-show-tour =
+    .label = Tura { -brand-shorter-name }ê
+    .accesskey = T
 appmenu-help-troubleshooting-info =
     .label = Agahiyên tamîrkirinê
     .accesskey = t
