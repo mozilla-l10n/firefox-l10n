@@ -499,6 +499,9 @@ fullscreen-exit-mac-button = Esci da schermo intero (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.
 pointerlock-warning-no-domain = Questo documento sta controllando il puntatore del mouse. Premere Esc per riprenderne il controllo.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -559,7 +562,8 @@ library-bookmarks-bookmark-this-page =
     .label = Aggiungi pagina ai segnalibri
 library-bookmarks-bookmark-edit =
     .label = Modifica segnalibro
-library-recent-activity-label = Attività recente
+library-recent-activity-title =
+    .value = Attività recente
 
 ## More items
 
