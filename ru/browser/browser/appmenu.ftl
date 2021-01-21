@@ -80,6 +80,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Сообщить о поддельном сайте…
     .accesskey = о
+appmenu-help-not-deceptive =
+    .label = Это не поддельный сайт…
+    .accesskey = е
 
 ##
 
