@@ -54,6 +54,9 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } ішіне cаяхат
     .accesskey = я
+appmenu-help-import-from-another-browser =
+    .label = Басқа браузерден импорттау…
+    .accesskey = и
 appmenu-help-troubleshooting-info =
     .label = Техникалық ақпарат
     .accesskey = а
@@ -64,6 +67,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Сөндірілген қосымшалармен қайта қосу…
+    .accesskey = р
+appmenu-help-safe-mode-with-addons =
+    .label = Іске қосылған қосымшалармен қайта қосу
+    .accesskey = р
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
