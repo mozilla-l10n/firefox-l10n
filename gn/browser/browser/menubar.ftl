@@ -11,12 +11,16 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Mba’epytyvõrã
 menu-application-hide-this =
     .label = { -brand-shorter-name } moñemi
 menu-application-hide-other =
     .label = Ambuéva moñemi
 menu-application-show-all =
     .label = Techaukapaite
+menu-application-touch-bar =
+    .label = Eñemomba’e pokogua rendáre…
 
 ##
 
