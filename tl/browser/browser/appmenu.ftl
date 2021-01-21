@@ -48,6 +48,9 @@ whatsnew-panel-footer-checkbox =
 appmenu-help-troubleshooting-info =
     .label = Impormasyon para sa Troubleshooting
     .accesskey = T
+appmenu-help-feedback-page =
+    .label = Magbigay ng Katugunan...
+    .accesskey = s
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
