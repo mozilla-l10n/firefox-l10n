@@ -27,3 +27,29 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = Sóntku Anchitarakuaecha
+    .accesskey = S
+appmenu-help-troubleshooting-info =
+    .label = Arhintsï axu enkari no kurhankujka
+    .accesskey = A
+appmenu-help-feedback-page =
+    .label = Arhístatsperakua axá…
+    .accesskey = A
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = menteru uentani urani anchitarakuechani
+    .accesskey = m
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
