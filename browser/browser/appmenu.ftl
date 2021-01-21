@@ -54,10 +54,28 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } పర్యటన
     .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = మరో విహారిణి నుండి దిగుమతిచేయి…
+    .accesskey = I
+appmenu-help-keyboard-shortcuts =
+    .label = కీబోర్డు షార్టుకట్లు
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = సమస్యాపరిష్కారపు సమాచారం
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = ప్రతిస్పందనను తెలియజేయండి…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = యాడ్-ఆన్స్ అచేతనపరచి పునఃప్రారంభించు…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = యాడ్-ఆన్స్ చేతనపరచి పునఃప్రారంభించు
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
