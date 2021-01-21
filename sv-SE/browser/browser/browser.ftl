@@ -506,6 +506,12 @@ pointerlock-warning-no-domain = Detta dokument har kontroll över pekaren. Tryck
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Läs mer
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Skicka in rapport
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
