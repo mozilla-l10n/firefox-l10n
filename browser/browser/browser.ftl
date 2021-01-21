@@ -508,6 +508,13 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad pokazivačem. Pri
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Dio ove stranice se srušio.</strong> Da bi { -brand-product-name } znao za ovu grešku i ispravio je, pošalji izvješće.
+crashed-subframe-learnmore =
+    .label = Saznaj više
+    .accesskey = S
+crashed-subframe-submit =
+    .label = Pošalji izvješće
+    .accesskey = P
 
 ## Bookmarks panels, menus and toolbar
 
