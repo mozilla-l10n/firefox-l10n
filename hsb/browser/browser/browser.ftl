@@ -508,6 +508,9 @@ fullscreen-exit-mac-button = Połnu wobrazowku (esc) skónčić
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ma kontrolu nad wašim pokazowakom. Tłóčće Esc, zo byšće kontrolu wróćo dóstał.
 pointerlock-warning-no-domain = Tutón dokument ma kontrolu nad wašim pokazowakom. Tłóčće Esc, zo byšće kontrolu wróćo dóstał.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -568,7 +571,6 @@ library-bookmarks-bookmark-this-page =
     .label = Tutu stronu jako zapołožku składować
 library-bookmarks-bookmark-edit =
     .label = Tutu zapołožku wobdźěłać
-library-recent-activity-label = Najnowša aktiwita
 
 ## More items
 
