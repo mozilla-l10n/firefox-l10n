@@ -57,6 +57,12 @@ appmenu-help-show-tour =
 appmenu-help-import-from-another-browser =
     .label = Importuj z innej przeglądarki…
     .accesskey = I
+appmenu-help-troubleshooting-info =
+    .label = Informacje dla pomocy technicznej
+    .accesskey = n
+appmenu-help-feedback-page =
+    .label = Prześlij swoją opinię…
+    .accesskey = e
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
