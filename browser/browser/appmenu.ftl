@@ -46,6 +46,9 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } શોધ
     .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = કીબોર્ડ શૉર્ટકટ્સ
+    .accesskey = K
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
