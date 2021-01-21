@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = अन्य छिपा‌एँ
 menu-application-show-all =
     .label = सभी दिखाएँ
+menu-application-touch-bar =
+    .label = अनुकूलित स्पर्श पट्टी...
 
 ##
 
