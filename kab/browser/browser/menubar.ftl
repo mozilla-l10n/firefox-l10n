@@ -40,6 +40,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Anef { -brand-shorter-name }
+menu-about =
+    .label = Ɣef { -brand-shorter-name }
+    .accesskey = Γ
 
 ## File Menu
 
