@@ -83,6 +83,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = మోసపూరిత సైట్ ను నివేదించండి…
     .accesskey = D
+appmenu-help-not-deceptive =
+    .label = ఇది ఒక మోసపూరిత సైట్ కాదు...
+    .accesskey = d
 
 ##
 
