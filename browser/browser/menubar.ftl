@@ -22,6 +22,18 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] প্রস্থান
+           *[other] প্রস্থান
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] প
+           *[other] Q
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = প্রস্থান { -brand-shorter-name }
