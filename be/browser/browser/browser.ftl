@@ -506,6 +506,9 @@ fullscreen-exit-mac-button = Выйсці з поўнаэкраннага рэж
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> кіруе вашым указальнікам. Націсніце Esc, каб узяць кіраванне.
 pointerlock-warning-no-domain = Гэты дакумент кіруе вашым указальнікам. Націсніце Esc, каб узяць кіраванне.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -566,7 +569,6 @@ library-bookmarks-bookmark-this-page =
     .label = Дадаць закладку на старонку
 library-bookmarks-bookmark-edit =
     .label = Правіць гэтую закладку
-library-recent-activity-label = Апошняя актыўнасць
 
 ## More items
 
