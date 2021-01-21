@@ -45,6 +45,26 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Tietoja: { -brand-shorter-name }
+    .accesskey = T
+appmenu-help-product =
+    .label =
+        { -brand-shorter-name.case-status ->
+            [with-cases] { -brand-shorter-name(case: "genitive") } ohje
+           *[no-cases] Ohjelman ohje
+        }
+    .accesskey = o
+appmenu-help-show-tour =
+    .label =
+        { -brand-shorter-name.case-status ->
+            [with-cases] { -brand-shorter-name(case: "genitive") } esittely
+           *[no-cases] Ohjelman esittely
+        }
+    .accesskey = e
+appmenu-help-import-from-another-browser =
+    .label = Tuo toisesta selaimesta…
+    .accesskey = s
 appmenu-help-keyboard-shortcuts =
     .label = Näppäinkomennot
     .accesskey = N
