@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Goyey
+menu-application-hide-this =
+    .label = { -brand-shorter-name } tugu
 menu-application-hide-other =
     .label = Tanawey tugu
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Fatta
+           *[other] Fatta
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] F
+           *[other] F
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Fatta { -brand-shorter-name } ra
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Fatta { -brand-shorter-name } ra
+menu-about =
+    .label = { -brand-shorter-name } ga
+    .accesskey = a
 
 ## File Menu
 
