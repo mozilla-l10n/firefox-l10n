@@ -42,3 +42,44 @@ whatsnew-panel-header = 新着情報
 whatsnew-panel-footer-checkbox =
     .label = 新機能を通知する
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name } について
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } ヘルプ
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } ツアー
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = キーボードショートカット
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = トラブルシューティング情報...
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = フィードバックを送信...
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = アドオンを無効にして再起動...
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = アドオンを有効にして再起動
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = 詐欺サイトを報告...
+    .accesskey = D
+
+##
+
