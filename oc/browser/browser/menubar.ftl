@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Amagar los autres
 menu-application-show-all =
     .label = Afichar tot
+menu-application-touch-bar =
+    .label = Personalizar la Touch Bar…
 
 ##
 
@@ -44,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Sortir de { -brand-shorter-name }
+menu-about =
+    .label = A prepaus de { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
