@@ -34,3 +34,35 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Gnéithe Nua
+
+## Help panel
+
+appmenu-about =
+    .label = Maidir le { -brand-shorter-name }
+    .accesskey = M
+appmenu-help-product =
+    .label = Cabhair { -brand-shorter-name }
+    .accesskey = C
+appmenu-help-keyboard-shortcuts =
+    .label = Aicearraí Méarchláir
+    .accesskey = A
+appmenu-help-troubleshooting-info =
+    .label = Fabhtcheartú
+    .accesskey = t
+appmenu-help-feedback-page =
+    .label = Seol Aiseolas Chugainn…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Atosaigh gan aon bhreiseáin…
+    .accesskey = A
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
