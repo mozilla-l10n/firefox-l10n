@@ -42,3 +42,41 @@ whatsnew-panel-header = Novetats
 whatsnew-panel-footer-checkbox =
     .label = Informa'm de les característiques noves
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = Quant al { -brand-shorter-name }
+    .accesskey = Q
+appmenu-help-product =
+    .label = Ajuda del { -brand-shorter-name }
+    .accesskey = j
+appmenu-help-show-tour =
+    .label = Visita guiada del { -brand-shorter-name }
+    .accesskey = V
+appmenu-help-keyboard-shortcuts =
+    .label = Dreceres de teclat
+    .accesskey = D
+appmenu-help-troubleshooting-info =
+    .label = Informació de resolució de problemes
+    .accesskey = r
+appmenu-help-feedback-page =
+    .label = Envia comentaris…
+    .accesskey = E
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Reinicia amb els complements inhabilitats…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Reinicia amb els complements habilitats
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
