@@ -13,9 +13,25 @@
 
 menu-application-services =
     .label = მომსახურებები
+menu-application-hide-other =
+    .label = სხვების ჩაკეცვა
+menu-application-show-all =
+    .label = ყველას გამოჩენა
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] გასვლა
+           *[other] გამოსვლა
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ლ
+           *[other] გ
+        }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
