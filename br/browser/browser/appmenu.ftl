@@ -45,6 +45,15 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = A-zivout { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = Skoazell { -brand-shorter-name }
+    .accesskey = o
+appmenu-help-show-tour =
+    .label = Gweladenniñ { -brand-shorter-name }
+    .accesskey = G
 appmenu-help-keyboard-shortcuts =
     .label = Berradennoù klavier
     .accesskey = k
@@ -61,10 +70,19 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Adloc'hañ gant an askouezhioù diweredekaet…
     .accesskey = r
+appmenu-help-safe-mode-with-addons =
+    .label = Adloc'hañ gant an askouezhioù diweredekaet
+    .accesskey = r
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Danevelliñ al lec'hienn dagus…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = N'eo ket ul lec’hienn dagus…
+    .accesskey = d
 
 ##
 
