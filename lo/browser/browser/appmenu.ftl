@@ -54,10 +54,22 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມເປີດໃຊ້ງານໂປຣແກຣມເສີມ
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = ລາຍງາຍເວັບໄຊທ໌ປອມແປງ…
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = ນີ້ບໍ່ແມ່ນເວັບໄຊທ໌ປອມແປງ…
+    .accesskey = ປ
 
 ##
 
