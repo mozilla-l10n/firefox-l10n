@@ -17,6 +17,8 @@ menu-application-hide-this =
     .label = Ffer { -brand-shorter-name }
 menu-application-hide-other =
     .label = Ffer Wiyaḍ
+menu-application-show-all =
+    .label = Sken Kullec
 
 ##
 
