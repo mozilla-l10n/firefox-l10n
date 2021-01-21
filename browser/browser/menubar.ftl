@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Nerodyti kitų
 menu-application-show-all =
     .label = Rodyti viską
+menu-application-touch-bar =
+    .label = Tvarkyti lietimo juostą…
 
 ##
 
