@@ -29,3 +29,29 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-about =
+    .label = About { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } ວິທີໃຊ້
+    .accesskey = o
+appmenu-help-troubleshooting-info =
+    .label = ຂໍ້ມູນຂອງການແກ້ໄຂບັນຫາ
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = ສົ່ງຄຳຕຳນິຕິສົມ...
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
