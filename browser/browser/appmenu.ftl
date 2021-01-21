@@ -67,6 +67,9 @@ appmenu-help-troubleshooting-info =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Werstart mei útskeakele add-ons…
+    .accesskey = W
 appmenu-help-safe-mode-with-addons =
     .label = Opnij starte mei ynskeakele add-ons
     .accesskey = r
@@ -74,6 +77,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Misliedende website rapportearje…
+    .accesskey = M
+appmenu-help-not-deceptive =
+    .label = Dit is gjin misliedende website…
+    .accesskey = m
 
 ##
 
