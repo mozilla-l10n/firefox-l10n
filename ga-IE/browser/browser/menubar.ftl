@@ -11,14 +11,32 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Seirbhísí
+menu-application-hide-this =
+    .label = Folaigh { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Folaigh Cinn Eile
+menu-application-show-all =
+    .label = Taispeáin Gach
 menu-application-touch-bar =
     .label = Saincheap an Barra Tadhaill…
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Scoir { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Scoir { -brand-shorter-name }
+menu-about =
+    .label = Maidir le { -brand-shorter-name }
+    .accesskey = M
 
 ## File Menu
 
