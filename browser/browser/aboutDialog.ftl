@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Provjera dopuna…
 update-downloading = <img data-l10n-name="icon"/>Preuzimanje dopune — <label data-l10n-name="download-status"/>
+update-downloading-message = Preuzimanje dopune — <label data-l10n-name="download-status"/>
 update-applying = Primjena dopune…
 update-failed = Aktualiziranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmi najnoviju verziju</label>
 update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju verziju</a>
@@ -24,6 +25,8 @@ update-unsupported = Na ovom sustavu više ne možeš nadograđivati. <label dat
 update-restarting = Ponovno pokretanje…
 channel-description = Trenutačno si na <label data-l10n-name="current-channel"></label> kanalu nadogradnji.
 warningDesc-version = { -brand-short-name } je eksperimentalna verzija i može biti nestabilna.
+aboutdialog-help-user = Pomoć za { -brand-product-name }
+aboutdialog-submit-feedback = Pošalji povratne informacije
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">globalna zajednica</label> koja nastoji zadržati internet otvorenim, javnim i dostupnim svima.
 community-2 = { -brand-short-name } je dizajnirala <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">globalna zajednica</label> koja nastoji zadržati internet otvorenim, javnim i dostupnim svima.
 helpus = Želiš pomoći? <label data-l10n-name="helpus-donateLink">Doniraj</label> ili <label data-l10n-name="helpus-getInvolvedLink">uključi se u rad!</label>
