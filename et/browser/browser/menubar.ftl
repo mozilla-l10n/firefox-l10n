@@ -24,9 +24,28 @@ menu-application-touch-bar =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Välju
+           *[other] Välju
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] j
+           *[other] j
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Välju { -brand-shorter-name }ist
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Välju { -brand-shorter-name }ist
 menu-about =
     .label = { -brand-shorter-name }i teave
     .accesskey = e
