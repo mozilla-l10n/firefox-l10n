@@ -38,6 +38,9 @@ appmenu-about =
 appmenu-help-product =
     .label = { -brand-shorter-name } උදව්
     .accesskey = H
+appmenu-help-keyboard-shortcuts =
+    .label = යතුරු පුවරු කෙටිමං
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = දෝෂ සෙවීමේ තොරතුරු
     .accesskey = T
@@ -48,6 +51,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = ඇඩෝන දුබල කර යළි-අරඹන්න…
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
