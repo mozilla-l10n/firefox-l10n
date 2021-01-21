@@ -13,6 +13,10 @@
 
 menu-application-services =
     .label = Sèrviços
+menu-application-hide-this =
+    .label = Recondre { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Recondre los âtros
 
 ##
 
