@@ -37,17 +37,41 @@ whatsnew-panel-header = नवीन काय आहे
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } विषयी
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } मदत
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } फेरफटका
+    .accesskey = o
 appmenu-help-troubleshooting-info =
     .label = त्रुटीनिवारण माहिती
     .accesskey = T
+appmenu-help-feedback-page =
+    .label = अभिप्राय सादर करा…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = ॲड-ऑन्स् बंद असल्यावर पुनः सुरू करा…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = ॲड-ऑन्स् सक्रीय असल्यावर पुनः सुरू करा
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = फसवी साईट कळवा…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = ही साईट फसवी नाही…
+    .accesskey = d
 
 ##
 
