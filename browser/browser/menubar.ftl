@@ -11,6 +11,10 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = שירותים
+menu-application-hide-other =
+    .label = הסתרת אחרים
 
 ##
 
