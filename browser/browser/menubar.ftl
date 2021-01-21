@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Ezkutatu besteak
 menu-application-show-all =
     .label = Erakutsi denak
+menu-application-touch-bar =
+    .label = Pertsonalizatu Touch Bar-a…
 
 ##
 
