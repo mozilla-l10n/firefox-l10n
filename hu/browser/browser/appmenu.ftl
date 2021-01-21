@@ -42,3 +42,38 @@ whatsnew-panel-header = Újdonságok
 whatsnew-panel-footer-checkbox =
     .label = Értesítés az új funkciókról
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = A { -brand-shorter-name } névjegye
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } súgó
+    .accesskey = s
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } bemutató
+    .accesskey = u
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Újraindítás letiltott kiegészítőkkel…
+    .accesskey = r
+appmenu-help-safe-mode-with-addons =
+    .label = Újraindítás engedélyezett kiegészítőkkel
+    .accesskey = r
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Félrevezető oldal jelentése…
+    .accesskey = F
+appmenu-help-not-deceptive =
+    .label = Ez nem félrevezető oldal…
+    .accesskey = n
+
+##
+
