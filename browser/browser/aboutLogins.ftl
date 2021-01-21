@@ -293,6 +293,8 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = 完成
 about-logins-import-dialog-error-title = 导入出错
+about-logins-import-dialog-error-conflicting-values-title = 一登录信息中出现多个冲突值
+about-logins-import-dialog-error-conflicting-values-description = 例如：一登录信息中出现多个用户名、密码、网址等等。
 about-logins-import-dialog-error-file-format-title = 文件格式问题
 about-logins-import-dialog-error-file-format-description = 列标题不正确或缺失。请确保文件包含用户名、密码和网址列。
 about-logins-import-dialog-error-file-permission-title = 无法读取文件
