@@ -42,3 +42,52 @@ whatsnew-panel-header = Novità
 whatsnew-panel-footer-checkbox =
     .label = Notifica nuove funzionalità
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = Informazioni su { -brand-shorter-name }
+    .accesskey = I
+appmenu-help-product =
+    .label = Guida di { -brand-shorter-name }
+    .accesskey = G
+appmenu-help-show-tour =
+    .label = Panoramica di { -brand-shorter-name }
+    .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = Importa da un altro browser…
+    .accesskey = b
+appmenu-help-keyboard-shortcuts =
+    .label = Scorciatoie da tastiera
+    .accesskey = S
+appmenu-help-troubleshooting-info =
+    .label = Risoluzione dei problemi
+    .accesskey = R
+appmenu-help-feedback-page =
+    .label = Invia feedback…
+    .accesskey = k
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Riavvia disattivando i componenti aggiuntivi…
+    .accesskey = d
+appmenu-help-safe-mode-with-addons =
+    .label = Riavvia attivando i componenti aggiuntivi
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Segnala un sito ingannevole…
+    .accesskey = e
+appmenu-help-not-deceptive =
+    .label = Non è un sito ingannevole…
+    .accesskey = e
+
+##
+
+appmenu-help-check-for-update =
+    .label = Controlla aggiornamenti…
