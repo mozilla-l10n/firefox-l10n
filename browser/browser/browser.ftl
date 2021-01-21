@@ -567,6 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Oldal hozzáadása a könyvjelzőkhöz
 library-bookmarks-bookmark-edit =
     .label = Könyvjelző szerkesztése
+library-recent-activity-title =
+    .value = Friss tevékenység
 
 ## More items
 
