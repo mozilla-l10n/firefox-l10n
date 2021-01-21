@@ -28,6 +28,9 @@ menu-quit-mac =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = { -brand-shorter-name } کے بارے میں
+    .accesskey = A
 
 ## File Menu
 
