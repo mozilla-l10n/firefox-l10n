@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Ffer Wiyaḍ
 menu-application-show-all =
     .label = Sken Kullec
+menu-application-touch-bar =
+    .label = Mudd udem i Touch Bar…
 
 ##
 
