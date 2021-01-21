@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Serviççi
+menu-application-hide-other =
+    .label = Ascondi i atri
+menu-application-show-all =
+    .label = Fanni vedde tutto
 
 ##
 
