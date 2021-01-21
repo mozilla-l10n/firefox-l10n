@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ya´a ntu kuvi iin nuu kantu´un…
     .accesskey = D
+menu-help-check-for-update =
+    .label = Nánukú a jiia...
+    .accesskey = C

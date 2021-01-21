@@ -252,6 +252,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Archivo CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV Document
+       *[other] TSV File
+    }
 
 ##
 ## Variables:
@@ -262,4 +269,17 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Ntee a jíía nuu kajie'e sesión:</span><span-data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Ntee a jíía nuu kajie´e sesión:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ntee a jíía nuu kajie´e sesión: </span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
+       *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
+    }
 about-logins-import-dialog-done = Nsá´á
+about-logins-import-dialog-error-learn-more = Ka´vi kue´eka
+about-logins-import-dialog-error-try-again = Nasá´á tuku...
+about-logins-import-dialog-error-cancel = Nkuvi
