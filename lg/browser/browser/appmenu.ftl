@@ -29,3 +29,26 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = Amawulire ku kugonjoola obuzibu
+    .accesskey = A
+appmenu-help-feedback-page =
+    .label = Waayo endowooza yo…
+    .accesskey = W
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Tandika kompyuta buto nga ojjeko Ebyokwongerako…
+    .accesskey = T
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
