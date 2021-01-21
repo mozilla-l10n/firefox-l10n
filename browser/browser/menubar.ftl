@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Szolgáltatások
+menu-application-hide-this =
+    .label = A { -brand-shorter-name } elrejtése
 menu-application-hide-other =
     .label = A több elrejtése
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Kilépés
+           *[other] Kilépés
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] K
+           *[other] K
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Kilépés a { -brand-shorter-name }ból
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Kilépés a { -brand-shorter-name }ból
+menu-about =
+    .label = A { -brand-shorter-name } névjegye
+    .accesskey = A
 
 ## File Menu
 
