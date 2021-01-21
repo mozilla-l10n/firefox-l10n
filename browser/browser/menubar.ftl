@@ -22,9 +22,16 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Izhod iz { -brand-shorter-name }a
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Izhod iz { -brand-shorter-name }a
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
