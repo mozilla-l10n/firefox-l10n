@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = دیگر برنامه‌ها را مخفی کن
 menu-application-show-all =
     .label = نشان دادن همه
+menu-application-touch-bar =
+    .label = سفارشی‌سازی نوار لمسی…
 
 ##
 
