@@ -31,3 +31,6 @@ show-smart-folders-label =
 show-recent-folders-label =
     .label = 最近文件夹
     .accesskey = R
+folder-toolbar-toggle-folder-compact-view =
+    .label = 紧凑模式
+    .accesskey = C
