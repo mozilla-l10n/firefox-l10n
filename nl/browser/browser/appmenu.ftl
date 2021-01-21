@@ -48,14 +48,29 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = Over { -brand-shorter-name }
     .accesskey = O
+appmenu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
+appmenu-help-feedback-page =
+    .label = Feedback verzenden…
+    .accesskey = v
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-with-addons =
+    .label = Herstarten met ingeschakelde add-ons
+    .accesskey = r
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Misleidende website rapporteren…
+    .accesskey = M
+appmenu-help-not-deceptive =
+    .label = Dit is geen misleidende website…
+    .accesskey = m
 
 ##
 
