@@ -32,6 +32,9 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
 appmenu-help-keyboard-shortcuts =
     .label = Njiamkato za Kibodi
     .accesskey = N
