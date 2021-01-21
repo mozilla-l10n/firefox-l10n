@@ -567,6 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Blêdwizer foar dizze side meitsje
 library-bookmarks-bookmark-edit =
     .label = Dizze blêdwizer bewurkje
+library-recent-activity-title =
+    .value = Resinte aktiviteit
 
 ## More items
 
