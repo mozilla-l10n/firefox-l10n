@@ -54,6 +54,9 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = Paseo por { -brand-shorter-name }
     .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = Importar desde otro navegador…
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
     .label = Atajos de teclado
     .accesskey = t
@@ -80,6 +83,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Reportar sitio fraudulento…
     .accesskey = f
+appmenu-help-not-deceptive =
+    .label = Este no es un sitio engañoso…
+    .accesskey = d
 
 ##
 
