@@ -11,12 +11,20 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Perkhidmatan
+menu-application-hide-this =
+    .label = Sorok { -brand-shorter-name }
 
 ##
 
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Keluar { -brand-shorter-name }
 
 ## File Menu
 
