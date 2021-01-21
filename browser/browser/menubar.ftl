@@ -19,9 +19,23 @@ menu-application-hide-other =
     .label = Digərlərini gizlə
 menu-application-show-all =
     .label = Hamısını göstər
+menu-application-touch-bar =
+    .label = Touch Bar-ı fərdiləşdir…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Çıxış
+           *[other] Çıx
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ı
+           *[other] x
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } səyyahını tərk et
