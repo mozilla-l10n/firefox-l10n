@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Xidmətlər
 menu-application-hide-other =
     .label = Digərlərini gizlə
 menu-application-show-all =
