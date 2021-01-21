@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Ffeɣ seg ugdil ačuṛan (Esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> Ɣur-s asenqed n usewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.
 pointerlock-warning-no-domain = Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc akken ad teṭṭfeḍ asewwaṛ.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Creḍ asebter-a
 library-bookmarks-bookmark-edit =
     .label = Ẓreg tacreḍṭ n usebter-a
-library-recent-activity-label = Armud n melmi kan
 
 ## More items
 
