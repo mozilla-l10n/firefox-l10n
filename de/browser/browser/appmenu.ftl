@@ -70,6 +70,9 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Mit deaktivierten Add-ons neu starten…
     .accesskey = A
+appmenu-help-safe-mode-with-addons =
+    .label = Mit aktivierten Add-ons neu starten
+    .accesskey = A
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
