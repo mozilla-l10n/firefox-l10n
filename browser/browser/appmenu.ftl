@@ -64,6 +64,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-with-addons =
+    .label = Reštartovať a povoliť doplnky…
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -71,6 +74,9 @@ appmenu-help-feedback-page =
 appmenu-help-report-deceptive-site =
     .label = Nahlásenie podvodnej stránky…
     .accesskey = N
+appmenu-help-not-deceptive =
+    .label = Toto nie je podvodná stránka…
+    .accesskey = T
 
 ##
 
