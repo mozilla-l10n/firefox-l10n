@@ -20,6 +20,18 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Gusohoka
+           *[other] Kuvamo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] v
+        }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
