@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = ほかを隠す
 menu-application-show-all =
     .label = すべてを表示
+menu-application-touch-bar =
+    .label = タッチバーをカスタマイズ...
 
 ##
 
