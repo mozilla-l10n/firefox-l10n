@@ -54,10 +54,22 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name }-guide
     .accesskey = d
+appmenu-help-keyboard-shortcuts =
+    .label = Tangentbordskommandon
+    .accesskey = T
+appmenu-help-troubleshooting-info =
+    .label = Felsökningsinformation
+    .accesskey = F
+appmenu-help-feedback-page =
+    .label = Skicka in feedback…
+    .accesskey = k
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Starta om utan tillägg…
+    .accesskey = S
 appmenu-help-safe-mode-with-addons =
     .label = Starta om med tillägg aktiverade
     .accesskey = S
