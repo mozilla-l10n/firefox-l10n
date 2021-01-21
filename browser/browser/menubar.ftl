@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Үйлчилгээнүүд
+menu-application-hide-other =
+    .label = Бусдыг нь нуу
+menu-application-show-all =
+    .label = Бүгдийг харуул
 
 ##
 
