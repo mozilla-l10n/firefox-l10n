@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Gøym andre
 menu-application-show-all =
     .label = Vis alle
+menu-application-touch-bar =
+    .label = Tilpass Touch Bar…
 
 ##
 
