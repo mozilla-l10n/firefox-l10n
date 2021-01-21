@@ -29,3 +29,41 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name } को बारेमा
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } सहयोग
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } Tour
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = कुञ्जीपाटी सर्टकटहरू
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = समस्या समाधानको सूचना
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = प्रतिक्रिया दिनुहोस्…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = आक्रामक साइट भएको प्रतिवेदन दिनुहोस्…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = यो भ्रामक साइट होइन…
+    .accesskey = d
+
+##
+
