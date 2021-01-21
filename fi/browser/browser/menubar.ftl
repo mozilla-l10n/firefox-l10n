@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Kätke muut
 menu-application-show-all =
     .label = Näytä kaikki
+menu-application-touch-bar =
+    .label = Muokkaa Touch Baria…
 
 ##
 
@@ -44,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Sulje { -brand-shorter-name }
+menu-about =
+    .label = Tietoja: { -brand-shorter-name }
+    .accesskey = T
 
 ## File Menu
 
