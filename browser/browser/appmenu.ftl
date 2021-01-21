@@ -43,6 +43,9 @@ appmenu-about =
 appmenu-help-product =
     .label = Cabhair { -brand-shorter-name }
     .accesskey = C
+appmenu-help-show-tour =
+    .label = Turas ar { -brand-shorter-name }
+    .accesskey = u
 appmenu-help-keyboard-shortcuts =
     .label = Aicearraí Méarchláir
     .accesskey = A
@@ -59,10 +62,19 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Atosaigh gan aon bhreiseáin…
     .accesskey = A
+appmenu-help-safe-mode-with-addons =
+    .label = Atosaigh leis na Breiseáin ar siúl…
+    .accesskey = A
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Tuairiscigh suíomh cealgach…
+    .accesskey = c
+appmenu-help-not-deceptive =
+    .label = Ní suíomh cealgach é seo…
+    .accesskey = c
 
 ##
 
