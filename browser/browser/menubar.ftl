@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Servisler
+menu-application-hide-this =
+    .label = { -brand-shorter-name } uygulamasını gizle
 menu-application-hide-other =
     .label = Diğerlerini gizle
 menu-application-show-all =
@@ -22,9 +24,31 @@ menu-application-touch-bar =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Çık
+           *[other] Çık
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] k
+           *[other] k
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } uygulamasından çık
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } tarayıcısından çık
+menu-about =
+    .label = { -brand-shorter-name } hakkında
+    .accesskey = h
 
 ## File Menu
 
