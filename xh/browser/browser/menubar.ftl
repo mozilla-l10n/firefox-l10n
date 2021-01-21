@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Iinkonzo
+menu-application-hide-this =
+    .label = Fihla i-{ -brand-shorter-name }
 menu-application-hide-other =
     .label = Fihla ezinye
 menu-application-show-all =
@@ -20,9 +22,19 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Yeka i-{ -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Phuma kwi-{ -brand-shorter-name }
+menu-about =
+    .label = Malunga ne-{ -brand-shorter-name }
+    .accesskey = M
 
 ## File Menu
 
