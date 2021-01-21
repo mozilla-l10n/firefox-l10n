@@ -42,3 +42,41 @@ whatsnew-panel-header = Ինչն է նոր
 whatsnew-panel-footer-checkbox =
     .label = Ծանուցել նոր հնարավորությունների մասին
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name }-ի մասին
+    .accesskey = մ
+appmenu-help-product =
+    .label = { -brand-shorter-name }-ի Օգնությունը
+    .accesskey = Օ
+appmenu-help-show-tour =
+    .label = Շրջայց { -brand-shorter-name }-ի հետ
+    .accesskey = ջ
+appmenu-help-troubleshooting-info =
+    .label = Անսարքության տեղեկատվություն
+    .accesskey = Ա
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Վերամեկնարկել՝ անջատելով հավելումները…
+    .accesskey = Վ
+appmenu-help-safe-mode-with-addons =
+    .label = Վերամեկնարկել՝ միացնելով հավելումները
+    .accesskey = Վ
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Զեկուցել խաբուսիկ կայքի մասին...
+    .accesskey = խ
+appmenu-help-not-deceptive =
+    .label = Սա խաբուսիկ կայք չէ...
+    .accesskey = խ
+
+##
+
