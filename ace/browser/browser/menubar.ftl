@@ -35,6 +35,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Teubiët { -brand-shorter-name }
+menu-about =
+    .label = Bhaih { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
