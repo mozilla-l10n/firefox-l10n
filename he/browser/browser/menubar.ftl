@@ -46,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = יציאה מ־{ -brand-shorter-name }
+menu-about =
+    .label = על אודות { -brand-shorter-name }
+    .accesskey = א
 
 ## File Menu
 
