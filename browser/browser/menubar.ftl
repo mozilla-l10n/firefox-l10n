@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Servicios
+menu-application-hide-this =
+    .label = Ocultar { -brand-shorter-name }
 menu-application-hide-other =
     .label = Ocultar otros
 menu-application-show-all =
@@ -20,9 +22,19 @@ menu-application-show-all =
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Salir de { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Salir de { -brand-shorter-name }
+menu-about =
+    .label = Acerca de { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
