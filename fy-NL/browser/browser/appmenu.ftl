@@ -63,6 +63,9 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = Probleemoplossingsynformaasje
     .accesskey = P
+appmenu-help-feedback-page =
+    .label = Feedback ferstjoere…
+    .accesskey = f
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
