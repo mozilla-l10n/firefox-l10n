@@ -51,6 +51,9 @@ appmenu-about =
 appmenu-help-product =
     .label = Trợ giúp { -brand-shorter-name }
     .accesskey = H
+appmenu-help-show-tour =
+    .label = Các tính năng cơ bản của { -brand-shorter-name }
+    .accesskey = o
 appmenu-help-import-from-another-browser =
     .label = Nhập dữ liệu từ trình duyệt khác…
     .accesskey = I
@@ -60,6 +63,9 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = Thông tin xử lý sự cố
     .accesskey = T
+appmenu-help-feedback-page =
+    .label = Gửi phản hồi…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -77,6 +83,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Báo cáo trang lừa đảo…
     .accesskey = c
+appmenu-help-not-deceptive =
+    .label = Đây không phải là một trang lừa đảo…
+    .accesskey = d
 
 ##
 
