@@ -85,6 +85,7 @@ login-item-new-login-title = Stvori novu prijavu
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Ukloni
 login-item-origin-label = Adresa web stranice
+login-item-tooltip-message = Provjeri podudara li se adresa web stranice na kojoj se prijavljuješ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Korisničko ime
@@ -276,6 +277,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV dokument
        *[other] CSV datoteka
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV dokument
+       *[other] TSV datoteka
+    }
 
 ##
 ## Variables:
@@ -307,3 +315,8 @@ about-logins-import-dialog-items-error =
        *[other] <span>Greške:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nije uvezeno)</span>
     }
 about-logins-import-dialog-done = Gotovo
+about-logins-import-dialog-error-title = Greška uvoza
+about-logins-import-dialog-error-conflicting-values-title = Višestruke konfliktne vrijednosti za jednu prijavu
+about-logins-import-dialog-error-conflicting-values-description = Npr. više korisničkih imena, lozinki, URL-ova, itd. za jednu prijavu.
+about-logins-import-dialog-error-file-format-title = Greška formata datoteke
+about-logins-import-dialog-error-file-permission-title = Nije moguće pročitati datoteku
