@@ -45,9 +45,24 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = A prepaus de { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = Ajuda de { -brand-shorter-name }
+    .accesskey = u
 appmenu-help-show-tour =
     .label = Visita guidada de { -brand-shorter-name }
     .accesskey = V
+appmenu-help-import-from-another-browser =
+    .label = Importar d’un autre navegador…
+    .accesskey = I
+appmenu-help-keyboard-shortcuts =
+    .label = Acorchis de clavièr
+    .accesskey = c
+appmenu-help-troubleshooting-info =
+    .label = Informacions de depanatge
+    .accesskey = d
 appmenu-help-feedback-page =
     .label = Balhar vòstre vejaire…
     .accesskey = B
@@ -65,6 +80,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-not-deceptive =
+    .label = Es pas un site malvolent…
+    .accesskey = m
 
 ##
 
