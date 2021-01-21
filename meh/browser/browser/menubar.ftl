@@ -11,13 +11,31 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servicios
 menu-application-hide-this =
     .label = Chiyu´un { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Chiyu´u da inka
 menu-application-show-all =
     .label = Kune’yá kuaiyo
+menu-application-touch-bar =
+    .label = Sá´á vii barra táctil...
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Kene
+           *[other] Kene
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] S
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kene { -brand-shorter-name }
