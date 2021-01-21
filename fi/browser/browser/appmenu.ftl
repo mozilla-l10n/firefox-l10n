@@ -42,3 +42,29 @@ whatsnew-panel-header = Mitä uutta
 whatsnew-panel-footer-checkbox =
     .label = Ilmoita uusista ominaisuuksista
     .accesskey = m
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = Näppäinkomennot
+    .accesskey = N
+appmenu-help-troubleshooting-info =
+    .label = Tietoja ongelmatilanteisiin
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Anna palautetta…
+    .accesskey = A
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-with-addons =
+    .label = Käynnistä uudelleen lisäosat päällä
+    .accesskey = K
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
