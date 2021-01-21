@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = સેવાઓ
+menu-application-hide-other =
+    .label = અન્યને છુપાવો
 menu-application-show-all =
     .label = બધું બતાવો
 
