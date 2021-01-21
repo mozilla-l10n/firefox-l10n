@@ -32,6 +32,18 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-about =
+    .label = За { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = Помош за { -brand-shorter-name }
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = Тура на { -brand-shorter-name }
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Кратенки за тастатура
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Информации за проблеми
     .accesskey = И
@@ -42,6 +54,12 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Рестартирај со исклучени додатоци…
+    .accesskey = Р
+appmenu-help-safe-mode-with-addons =
+    .label = Рестрартирај со овозможени додатоци
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
