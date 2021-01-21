@@ -60,10 +60,16 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Llwybrau Byr Bysellfwrdd
     .accesskey = B
+appmenu-help-feedback-page =
+    .label = Cyflwyno Adborth…
+    .accesskey = A
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…
+    .accesskey = A
 appmenu-help-safe-mode-with-addons =
     .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi
     .accesskey = A
