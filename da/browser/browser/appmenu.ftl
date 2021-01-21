@@ -42,3 +42,41 @@ whatsnew-panel-header = Nyheder
 whatsnew-panel-footer-checkbox =
     .label = Giv besked om nye funktioner
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = Om { -brand-shorter-name }
+    .accesskey = O
+appmenu-help-product =
+    .label = Hjælp til { -brand-shorter-name }
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = Rundvisning i { -brand-shorter-name }
+    .accesskey = R
+appmenu-help-import-from-another-browser =
+    .label = Importer fra en anden browser…
+    .accesskey = I
+appmenu-help-keyboard-shortcuts =
+    .label = Tastaturgenveje
+    .accesskey = u
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-with-addons =
+    .label = Genstart med tilføjelser aktiveret
+    .accesskey = G
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Anmeld vildledende websted…
+    .accesskey = A
+appmenu-help-not-deceptive =
+    .label = Dette er ikke et vildledende websted…
+    .accesskey = v
+
+##
+
