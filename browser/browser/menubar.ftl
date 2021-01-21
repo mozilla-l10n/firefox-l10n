@@ -20,9 +20,24 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Phuma
+           *[other] Yeka
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] h
+           *[other] Y
+        }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = Mayelana ne-{ -brand-shorter-name }
+    .accesskey = M
 
 ## File Menu
 
