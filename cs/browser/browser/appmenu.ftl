@@ -51,9 +51,33 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = O aplikaci { -brand-shorter-name }
+    .accesskey = O
+appmenu-help-product =
+    .label =
+        Nápověda { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] aplikace { -brand-shorter-name }
+        }
+    .accesskey = N
+appmenu-help-show-tour =
+    .label =
+        Průvodce { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "ins") }
+            [feminine] { -brand-shorter-name(case: "ins") }
+            [neuter] { -brand-shorter-name(case: "ins") }
+           *[other] aplikací { -brand-shorter-name }
+        }
+    .accesskey = P
 appmenu-help-import-from-another-browser =
     .label = Importovat z jiného prohlížeče…
     .accesskey = I
+appmenu-help-keyboard-shortcuts =
+    .label = Klávesové zkratky
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Technické informace
     .accesskey = T
@@ -66,6 +90,9 @@ appmenu-help-feedback-page =
 
 appmenu-help-safe-mode-without-addons =
     .label = Restartovat se zakázanými doplňky…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Restartovat s povolenými doplňky
     .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
