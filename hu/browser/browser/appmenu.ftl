@@ -57,6 +57,9 @@ appmenu-help-show-tour =
 appmenu-help-keyboard-shortcuts =
     .label = Gyorsbillentyűk
     .accesskey = G
+appmenu-help-troubleshooting-info =
+    .label = Hibakeresési információ
+    .accesskey = H
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
