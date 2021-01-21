@@ -506,6 +506,9 @@ fullscreen-exit-mac-button = Grįžti iš viso ekrano (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.
 pointerlock-warning-no-domain = Šis dokumentas valdo jūsų žymeklį. Spustelėkite Esc, norėdami atgauti valdymą.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -566,7 +569,6 @@ library-bookmarks-bookmark-this-page =
     .label = Įrašyti į adresyną
 library-bookmarks-bookmark-edit =
     .label = Taisyti adresyno įrašą
-library-recent-activity-label = Paskiausia veikla
 
 ## More items
 
