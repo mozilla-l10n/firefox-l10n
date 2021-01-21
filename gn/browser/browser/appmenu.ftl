@@ -54,6 +54,12 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } rehe jeguata
     .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = Egueru ambue kundahára guive…
+    .accesskey = l
+appmenu-help-keyboard-shortcuts =
+    .label = Tairenda mbopya’eha
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Marandu apañuãi myatyrõrã
     .accesskey = T
@@ -74,6 +80,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Emombe’u ñandutirenda ivaiha…
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = Kóva ndaha’éi tenda ombotavyséva…
+    .accesskey = d
 
 ##
 
