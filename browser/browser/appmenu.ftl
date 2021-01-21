@@ -60,6 +60,9 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = Hibakeresési információ
     .accesskey = H
+appmenu-help-feedback-page =
+    .label = Visszajelzés beküldése…
+    .accesskey = V
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
