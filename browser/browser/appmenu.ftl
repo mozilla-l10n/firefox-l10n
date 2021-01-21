@@ -42,3 +42,38 @@ whatsnew-panel-header = क्या नया है
 whatsnew-panel-footer-checkbox =
     .label = नई सुविधाओं के बारे में सूचित करें
     .accesskey = f
+
+## Help panel
+
+appmenu-help-product =
+    .label = { -brand-shorter-name } मदद
+    .accesskey = H
+appmenu-help-troubleshooting-info =
+    .label = विघ्ननिवारण सूचना
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = प्रतिक्रिया जमा करें...
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = निष्क्रिय सहयुक्तियों के साथ फिर ‌आरंभ करें…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = सक्षम सहयुक्तियों के साथ फिर आरंभ करें
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = भ्रमकारी भुजाल प्रतिवेदन…
+    .accesskey = d
+appmenu-help-not-deceptive =
+    .label = यह एक भ्रमकारी भुजाल नहीं है…
+    .accesskey = d
+
+##
+
