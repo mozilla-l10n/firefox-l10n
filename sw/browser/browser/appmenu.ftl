@@ -32,6 +32,9 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-about =
+    .label = Kuhusu { -brand-shorter-name }
+    .accesskey = A
 appmenu-help-product =
     .label = { -brand-shorter-name } Help
     .accesskey = H
