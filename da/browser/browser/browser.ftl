@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Afslut fuld skærm (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrollerer din markør. Tryk Esc for at overtage kontrollen igen.
 pointerlock-warning-no-domain = Dette dokument kontrollerer din markør. Tryk Esc for at overtage kontrollen igen.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Bogmærk denne side
 library-bookmarks-bookmark-edit =
     .label = Rediger bogmærke
-library-recent-activity-label = Seneste aktivitet
 
 ## More items
 
