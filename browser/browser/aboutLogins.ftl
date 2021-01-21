@@ -84,6 +84,7 @@ login-item-new-login-title = Criar nova conta
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Endereço do site
+login-item-tooltip-message = Certifique-se de que corresponde ao endereço exato do site onde você acessou a conta.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome de usuário
@@ -269,6 +270,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Arquivo CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento TSV
+       *[other] Arquivo TSV
+    }
 
 ##
 ## Variables:
@@ -296,3 +304,15 @@ about-logins-import-dialog-items-error =
        *[other] <span>Erros:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importados)</span>
     }
 about-logins-import-dialog-done = Concluído
+about-logins-import-dialog-error-title = Erro de importação
+about-logins-import-dialog-error-conflicting-values-title = Vários valores conflitantes para uma mesma conta
+about-logins-import-dialog-error-conflicting-values-description = Por exemplo, vários nomes de usuário, senhas, endereços, etc. para uma mesma conta.
+about-logins-import-dialog-error-file-format-title = Problema no formato do arquivo
+about-logins-import-dialog-error-file-permission-title = Não foi possível ler o arquivo
+about-logins-import-dialog-error-file-permission-description = O { -brand-short-name } não tem permissão para ler o arquivo. Experimente alterar as permissões do arquivo.
+about-logins-import-dialog-error-unable-to-read-title = Não foi possível analisar o arquivo
+about-logins-import-dialog-error-unable-to-read-description = Certifique-se de selecionar um arquivo CSV ou TSV.
+about-logins-import-dialog-error-no-logins-imported = Nenhuma conta foi importada
+about-logins-import-dialog-error-learn-more = Saiba mais
+about-logins-import-dialog-error-try-again = Tentar novamente…
+about-logins-import-dialog-error-cancel = Cancelar
