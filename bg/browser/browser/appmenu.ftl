@@ -49,9 +49,15 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = Обиколка на { -brand-shorter-name }
     .accesskey = б
+appmenu-help-import-from-another-browser =
+    .label = Внасяне от друг мрежов четец…
+    .accesskey = В
 appmenu-help-keyboard-shortcuts =
     .label = Клавишни комбинации
     .accesskey = К
+appmenu-help-troubleshooting-info =
+    .label = Отстраняване на неизправности
+    .accesskey = И
 appmenu-help-feedback-page =
     .label = Обратна връзка…
     .accesskey = в
@@ -69,6 +75,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Докладване на измамническа страница…
+    .accesskey = з
+appmenu-help-not-deceptive =
+    .label = Това не е измамническа страница…
+    .accesskey = н
 
 ##
 
