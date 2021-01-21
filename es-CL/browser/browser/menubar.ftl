@@ -19,9 +19,23 @@ menu-application-hide-other =
     .label = Ocultar otros
 menu-application-show-all =
     .label = Mostrar todo
+menu-application-touch-bar =
+    .label = Personalizar Touch Bar…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Salir
+           *[other] Salir
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] S
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Salir de { -brand-shorter-name }
