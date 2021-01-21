@@ -11,12 +11,32 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servoj
+menu-application-hide-this =
+    .label = Kaŝi { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Kaŝi aliajn
+menu-application-show-all =
+    .label = Montri ĉion
+menu-application-touch-bar =
+    .label = Personecigi la tuŝan strion…
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Fini { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Fini { -brand-shorter-name }
+menu-about =
+    .label = Pri { -brand-shorter-name }
+    .accesskey = P
 
 ## File Menu
 
