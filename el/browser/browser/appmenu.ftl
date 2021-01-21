@@ -42,3 +42,29 @@ whatsnew-panel-header = Τι νέο υπάρχει
 whatsnew-panel-footer-checkbox =
     .label = Ειδοποίηση για νέες λειτουργίες
     .accesskey = λ
+
+## Help panel
+
+appmenu-help-product =
+    .label = Βοήθεια για το { -brand-shorter-name }
+    .accesskey = Β
+appmenu-help-show-tour =
+    .label = Ξενάγηση στο { -brand-shorter-name }
+    .accesskey = Ξ
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-with-addons =
+    .label = Επανεκκίνηση με ενεργά πρόσθετα
+    .accesskey = π
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Αναφορά παραπλανητικής σελίδας…
+    .accesskey = Α
+
+##
+
