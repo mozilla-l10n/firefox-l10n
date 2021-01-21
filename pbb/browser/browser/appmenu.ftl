@@ -29,3 +29,41 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-about =
+    .label = Txa u'txa txte { -brand-shorter-name }
+    .accesskey = T
+appmenu-help-product =
+    .label = Pu'çxna txte { -brand-shorter-name }
+    .accesskey = P
+appmenu-help-show-tour =
+    .label = Kasejçx u'jnxisa txkãa { -brand-shorter-name }
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Fxijnxi's txte aphsã
+    .accesskey = F
+appmenu-help-troubleshooting-info =
+    .label = Ptasxisxwah na' yu'wes pheu'jxa
+    .accesskey = P
+appmenu-help-feedback-page =
+    .label = Yatxnxi's kahwa'
+    .accesskey = Y
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Kãjanxisa'nxakh pu'txna fxiçxa'nxisanxakhjxa…
+    .accesskey = K
+appmenu-help-safe-mode-with-addons =
+    .label = Kçxãçxa'nxisanxakhjxa ta'khna kajãnxinxakh
+    .accesskey = K
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
