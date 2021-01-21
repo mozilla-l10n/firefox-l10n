@@ -42,3 +42,38 @@ whatsnew-panel-header = Oĩpa mba’e pyahu
 whatsnew-panel-footer-checkbox =
     .label = Eikuaauka tembiapoite pyahu
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name } rehegua
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } Oipytyvõ
+    .accesskey = O
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } rehe jeguata
+    .accesskey = o
+appmenu-help-troubleshooting-info =
+    .label = Marandu apañuãi myatyrõrã
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Temiandu mondo…
+    .accesskey = T
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Moĩmbaha oguepyréva moñepyrũjey…
+    .accesskey = M
+appmenu-help-safe-mode-with-addons =
+    .label = Moĩmbaha oguepyréva moñepyrũjey
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
