@@ -17,6 +17,8 @@ menu-application-hide-this =
     .label = { -brand-shorter-name } 숨기기
 menu-application-hide-other =
     .label = 모두 숨기기
+menu-application-touch-bar =
+    .label = 터치바 사용자 정의…
 
 ##
 
