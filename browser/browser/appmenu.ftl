@@ -42,3 +42,32 @@ whatsnew-panel-header = Čo je nové
 whatsnew-panel-footer-checkbox =
     .label = Informovať o nových funkciách
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = O aplikácii { -brand-shorter-name }
+    .accesskey = O
+appmenu-help-product =
+    .label = Pomocník prehliadača { -brand-shorter-name }
+    .accesskey = P
+appmenu-help-show-tour =
+    .label = Prehliadka prehliadača { -brand-shorter-name }
+    .accesskey = h
+appmenu-help-import-from-another-browser =
+    .label = Importovať z iného prehliadača…
+    .accesskey = I
+appmenu-help-feedback-page =
+    .label = Odoslať spätnú väzbu…
+    .accesskey = d
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
