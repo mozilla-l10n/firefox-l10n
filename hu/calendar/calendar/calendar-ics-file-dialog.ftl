@@ -23,4 +23,9 @@ calendar-ics-file-import-duplicates =
         [one] Egy elem figyelmen kívül lett hagyva, mert már létezett a célnaptárban.
        *[other] { $duplicatesCount } elem figyelmen kívül lett hagyva, mert már létezett a célnaptárban.
     }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Egy elem importálása sikertelen. A részletekért nézze meg a Hibakonzolt.
+       *[other] { $errorsCount } elem importálása sikertelen. A részletekért nézze meg a Hibakonzolt.
+    }
 calendar-ics-file-dialog-no-calendars = Nincs olyan naptár, amely eseményeket vagy feladatokat importálhat.
