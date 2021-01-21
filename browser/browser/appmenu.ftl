@@ -45,6 +45,9 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Σχετικά με το { -brand-shorter-name }
+    .accesskey = τ
 appmenu-help-product =
     .label = Βοήθεια για το { -brand-shorter-name }
     .accesskey = Β
@@ -67,6 +70,9 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Επανεκκίνηση με ανενεργά πρόσθετα…
+    .accesskey = π
 appmenu-help-safe-mode-with-addons =
     .label = Επανεκκίνηση με ενεργά πρόσθετα
     .accesskey = π
