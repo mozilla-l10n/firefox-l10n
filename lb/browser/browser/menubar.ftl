@@ -11,12 +11,24 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servicer
+menu-application-hide-this =
+    .label = { -brand-shorter-name } verstoppen
+menu-application-hide-other =
+    .label = Anerer verstoppen
+menu-application-show-all =
+    .label = All weisen
 
 ##
 
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } zoumaachen
 menu-about =
     .label = Iwwer { -brand-shorter-name }
     .accesskey = I
