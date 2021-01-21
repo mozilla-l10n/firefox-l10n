@@ -29,3 +29,41 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-about =
+    .label = Perihal { -brand-shorter-name }
+    .accesskey = P
+appmenu-help-product =
+    .label = Bantuan { -brand-shorter-name }
+    .accesskey = B
+appmenu-help-show-tour =
+    .label = Teroka { -brand-shorter-name }
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Pintasan Papan Kekunci
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = Maklumat Pencarisilapan
+    .accesskey = P
+appmenu-help-feedback-page =
+    .label = Hantar Maklum balas…
+    .accesskey = H
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Mula semula dengan Add-ons Dinyahdayakan…
+    .accesskey = M
+appmenu-help-safe-mode-with-addons =
+    .label = Mula semula dengan Add-ons Didayakan
+    .accesskey = M
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
