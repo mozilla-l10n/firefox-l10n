@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = ਸਰਵਿਸਾਂ
+menu-application-hide-other =
+    .label = ਹੋਰ ਓਹਲੇ
 menu-application-show-all =
     .label = ਸਭ ਵੇਖੋ
 
