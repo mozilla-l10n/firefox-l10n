@@ -24,6 +24,21 @@ menu-application-touch-bar =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Beenden
+           *[other] Beenden
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] B
+           *[other] B
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = { -brand-shorter-name } beenden
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
