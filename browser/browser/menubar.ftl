@@ -20,6 +20,18 @@ menu-application-hide-other =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] 退出
+           *[other] 退出
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] x
+           *[other] Q
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 退出 { -brand-shorter-name }
