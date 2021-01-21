@@ -19,9 +19,23 @@ menu-application-hide-other =
     .label = Скриване на другите
 menu-application-show-all =
     .label = Показване на всички
+menu-application-touch-bar =
+    .label = Настройки на лентата за докосване…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Изход
+           *[other] Изход
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] х
+           *[other] х
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Изход от { -brand-shorter-name }
