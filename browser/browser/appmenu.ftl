@@ -32,6 +32,12 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } පිළිබඳ
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } උදව්
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = දෝෂ සෙවීමේ තොරතුරු
     .accesskey = T
