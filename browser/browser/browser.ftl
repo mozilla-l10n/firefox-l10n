@@ -571,6 +571,8 @@ library-bookmarks-bookmark-this-page =
     .label = Tutu stronu jako zapołožku składować
 library-bookmarks-bookmark-edit =
     .label = Tutu zapołožku wobdźěłać
+library-recent-activity-title =
+    .value = Najnowša aktiwita
 
 ## More items
 
