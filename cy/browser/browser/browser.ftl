@@ -575,6 +575,8 @@ library-bookmarks-bookmark-this-page =
     .label = Gosod Nod Tudalen i'r Dudalen
 library-bookmarks-bookmark-edit =
     .label = Golygu'r Nod Tudalen
+library-recent-activity-title =
+    .value = Gweithgareddau Diweddar
 
 ## More items
 
