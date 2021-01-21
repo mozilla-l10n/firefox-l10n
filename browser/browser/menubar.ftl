@@ -13,11 +13,28 @@
 
 menu-application-services =
     .label = Serviços
+menu-application-hide-other =
+    .label = Ocultar Outros
 menu-application-show-all =
     .label = Mostrar tudo
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Sair
+           *[other] Sair
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] S
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Encerrar { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
@@ -25,6 +42,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Sair do { -brand-shorter-name }
+menu-about =
+    .label = Sobre o { -brand-shorter-name }
+    .accesskey = S
 
 ## File Menu
 
