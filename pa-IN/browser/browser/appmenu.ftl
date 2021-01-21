@@ -57,6 +57,12 @@ appmenu-help-show-tour =
 appmenu-help-keyboard-shortcuts =
     .label = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
     .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = …ਸੁਝਾਅ ਭੇਜੋ
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
