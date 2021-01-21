@@ -84,6 +84,7 @@ login-item-new-login-title = Skapa ny inloggning
 login-item-edit-button = Redigera
 about-logins-login-item-remove-button = Ta bort
 login-item-origin-label = Webbadress
+login-item-tooltip-message = Se till att detta matchar den exakta adressen till webbplatsen där du loggar in.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Användarnamn
@@ -269,6 +270,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokument
        *[other] CSV-fil
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokument
+       *[other] TSV-fil
+    }
 
 ##
 ## Variables:
@@ -296,3 +304,16 @@ about-logins-import-dialog-items-error =
        *[other] <span data-l10n-name="count">{ $count }</span><span>fel</span><span data-l10n-name="meta">(ej importerade)</span>
     }
 about-logins-import-dialog-done = Klar
+about-logins-import-dialog-error-title = Importfel
+about-logins-import-dialog-error-conflicting-values-title = Flera motstridiga värden för en inloggning
+about-logins-import-dialog-error-conflicting-values-description = Till exempel: flera användarnamn, lösenord, webbadresser etc. för en inloggning.
+about-logins-import-dialog-error-file-format-title = Problem med filformat
+about-logins-import-dialog-error-file-format-description = Felaktiga eller saknade kolumnrubriker. Se till att filen innehåller kolumner för användarnamn, lösenord och URL.
+about-logins-import-dialog-error-file-permission-title = Det gick inte att läsa filen
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } har inte behörighet att läsa filen. Försök att ändra filrättigheter.
+about-logins-import-dialog-error-unable-to-read-title = Det går inte att tolka filen
+about-logins-import-dialog-error-unable-to-read-description = Se till att du har valt en CSV- eller TSV-fil.
+about-logins-import-dialog-error-no-logins-imported = Inga inloggningar har importerats
+about-logins-import-dialog-error-learn-more = Läs mer
+about-logins-import-dialog-error-try-again = Försök igen…
+about-logins-import-dialog-error-cancel = Avbryt
