@@ -35,12 +35,21 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Tocante a { -brand-shorter-name }
     .accesskey = T
+appmenu-help-product =
+    .label = Ayuda de { -brand-shorter-name }
+    .accesskey = A
 appmenu-help-show-tour =
     .label = Percorríu per { -brand-shorter-name }
     .accesskey = P
 appmenu-help-keyboard-shortcuts =
     .label = Atayos de tecláu
     .accesskey = t
+appmenu-help-troubleshooting-info =
+    .label = Información d'igua de problemes
+    .accesskey = i
+appmenu-help-feedback-page =
+    .label = Unviar feedback…
+    .accesskey = U
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -58,6 +67,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Reportar sitiu fraudulentu…
     .accesskey = R
+appmenu-help-not-deceptive =
+    .label = Esti nun ye un sitiu fraudulentu…
+    .accesskey = f
 
 ##
 
