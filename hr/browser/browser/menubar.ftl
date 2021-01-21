@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ovo nije obmanjujuća stranica…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Provjeri dostupnost dopuna…
+    .accesskey = d
