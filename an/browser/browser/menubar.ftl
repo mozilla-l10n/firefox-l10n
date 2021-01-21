@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Amagar os atros
 menu-application-show-all =
     .label = Amostrar-lo tot
+menu-application-touch-bar =
+    .label = Personalizar la barra de toques…
 
 ##
 
