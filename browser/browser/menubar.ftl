@@ -17,6 +17,8 @@ menu-application-hide-this =
     .label = 隐藏 { -brand-shorter-name }
 menu-application-hide-other =
     .label = 隐藏其他
+menu-application-show-all =
+    .label = 显示全部
 
 ##
 
