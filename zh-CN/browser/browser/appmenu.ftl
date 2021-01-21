@@ -74,6 +74,9 @@ appmenu-help-feedback-page =
 appmenu-help-report-deceptive-site =
     .label = 举报诈骗网站…
     .accesskey = D
+appmenu-help-not-deceptive =
+    .label = 这不是诈骗网站…
+    .accesskey = d
 
 ##
 
