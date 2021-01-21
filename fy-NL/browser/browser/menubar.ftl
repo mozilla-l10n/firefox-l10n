@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Tsjinsten
+menu-application-hide-other =
+    .label = Oare ferstopje
 
 ##
 
