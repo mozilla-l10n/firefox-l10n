@@ -496,6 +496,9 @@ fullscreen-exit-mac-button = ออกจากภาพเต็มหน้า
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ได้ควบคุมตัวชี้ของคุณ กด Esc เพื่อดึงการควบคุมคืน
 pointerlock-warning-no-domain = เอกสารชิ้นนี้ได้ควบคุมตัวชี้ของคุณ กด Esc เพื่อดึงการควบคุมคืน
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -556,7 +559,6 @@ library-bookmarks-bookmark-this-page =
     .label = เพิ่มที่คั่นหน้าสำหรับหน้านี้
 library-bookmarks-bookmark-edit =
     .label = แก้ไขที่คั่นหน้านี้
-library-recent-activity-label = กิจกรรมล่าสุด
 
 ## More items
 
