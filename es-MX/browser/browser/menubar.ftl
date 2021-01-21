@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servicios
+menu-application-hide-other =
+    .label = Ocultar otros
+menu-application-show-all =
+    .label = Mostrar todo
 
 ##
 
