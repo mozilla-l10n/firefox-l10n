@@ -69,6 +69,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-not-deceptive =
+    .label = बे जायगाया गाजि् जानाय नंआ
+    .accesskey = ज
 
 ##
 
