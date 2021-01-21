@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Paslaugos
+menu-application-hide-this =
+    .label = Nerodyti „{ -brand-shorter-name }“
 menu-application-hide-other =
     .label = Nerodyti kitų
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Baigti darbą
+           *[other] Baigti darbą
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] B
+           *[other] B
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Baigti „{ -brand-shorter-name }“ darbą
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Baigti „{ -brand-shorter-name }“ darbą
+menu-about =
+    .label = Apie „{ -brand-shorter-name }“
+    .accesskey = A
 
 ## File Menu
 
