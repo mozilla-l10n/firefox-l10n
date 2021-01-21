@@ -22,6 +22,18 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Phuma
+           *[other] Yeka
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] h
+           *[other] Y
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Yeka i-{ -brand-shorter-name }
