@@ -42,3 +42,32 @@ whatsnew-panel-header = Nakuvi a jíía íyo
 whatsnew-panel-footer-checkbox =
     .label = Kachí de íyo a jía funciones
     .accesskey = f
+
+## Help panel
+
+appmenu-help-import-from-another-browser =
+    .label = Nake'ema ji inka ka̱a̱ nánuku
+    .accesskey = I
+appmenu-help-feedback-page =
+    .label = Chu'un ichí a jíaníninu...
+    .accesskey = C
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Nakaji´e ji da nachisó-kúmani na´va...
+    .accesskey = N
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Kachi de sitio ya´a kuvi sakui´ina...
+    .accesskey = K
+appmenu-help-not-deceptive =
+    .label = Ya´a ntu kuvi iin nuu kantu´un…
+    .accesskey = D
+
+##
+
