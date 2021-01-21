@@ -15,9 +15,16 @@ menu-application-services =
     .label = Perkhidmatan
 menu-application-hide-this =
     .label = Sorok { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Sorok yang Lain
+menu-application-show-all =
+    .label = Papar Semua
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Keluar { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
@@ -25,6 +32,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Keluar { -brand-shorter-name }
+menu-about =
+    .label = Perihal { -brand-shorter-name }
+    .accesskey = P
 
 ## File Menu
 
