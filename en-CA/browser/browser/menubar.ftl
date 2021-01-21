@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Hide Others
 menu-application-show-all =
     .label = Show All
+menu-application-touch-bar =
+    .label = Customize Touch Bar…
 
 ##
 
