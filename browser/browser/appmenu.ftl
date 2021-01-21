@@ -73,10 +73,19 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Reiniciar con os complementos desactivaus…
     .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Reiniciar con os complementos activaus
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Informar de puesto malicioso…
+    .accesskey = I
+appmenu-help-not-deceptive =
+    .label = Iste no ye un puesto malicioso…
+    .accesskey = m
 
 ##
 
