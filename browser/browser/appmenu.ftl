@@ -29,3 +29,26 @@ appmenuitem-save-page =
 
 ## What's New panel in App menu.
 
+
+## Help panel
+
+appmenu-help-troubleshooting-info =
+    .label = Agahiyên tamîrkirinê
+    .accesskey = t
+appmenu-help-feedback-page =
+    .label = Ramanan Bişîne…
+    .accesskey = R
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Dîsdestpêkirina bi Add-onan hate neçalakirin…
+    .accesskey = r
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
