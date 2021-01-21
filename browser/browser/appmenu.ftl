@@ -42,3 +42,20 @@ whatsnew-panel-header = Yeni neler var?
 whatsnew-panel-footer-checkbox =
     .label = Yeni özellikleri bana bildir
     .accesskey = ö
+
+## Help panel
+
+appmenu-help-import-from-another-browser =
+    .label = Başka bir tarayıcıdan içe aktar…
+    .accesskey = B
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
