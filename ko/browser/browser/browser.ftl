@@ -496,6 +496,9 @@ fullscreen-exit-mac-button = 전체 화면 종료 (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 사이트가 포인터를 제어하려 합니다. 다시 제어하려면 ESC 키를 누르세요.
 pointerlock-warning-no-domain = 이 문서가 포인터를 제어하려 합니다. 다시 제어하려면 ESC 키를 누르세요.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -556,7 +559,6 @@ library-bookmarks-bookmark-this-page =
     .label = 이 페이지 북마크
 library-bookmarks-bookmark-edit =
     .label = 이 북마크 편집
-library-recent-activity-label = 최근 활동
 
 ## More items
 
