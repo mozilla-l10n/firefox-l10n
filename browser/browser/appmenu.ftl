@@ -45,16 +45,31 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = O { -brand-shorter-name }u
+    .accesskey = O
 appmenu-help-import-from-another-browser =
     .label = Uvoz iz drugog preglednika…
     .accesskey = l
+appmenu-help-keyboard-shortcuts =
+    .label = Tipkovnički prečaci
+    .accesskey = k
 appmenu-help-troubleshooting-info =
     .label = Rješavanje problema
     .accesskey = R
+appmenu-help-feedback-page =
+    .label = Pošalji povratne informacije …
+    .accesskey = e
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Ponovo pokreni s deaktiviranim dodacima …
+    .accesskey = v
+appmenu-help-safe-mode-with-addons =
+    .label = Ponovo pokreni s aktiviranim dodacima
+    .accesskey = v
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
