@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Seirbheisean
+menu-application-hide-this =
+    .label = Cuir { -brand-shorter-name } am falach
 menu-application-hide-other =
     .label = Cuir càch am falach
 menu-application-show-all =
@@ -20,9 +22,31 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Fàg an-seo
+           *[other] Fàg an-seo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] F
+           *[other] F
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Fàg { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Fàg { -brand-shorter-name }
+menu-about =
+    .label = Mu { -brand-shorter-name }
+    .accesskey = M
 
 ## File Menu
 
