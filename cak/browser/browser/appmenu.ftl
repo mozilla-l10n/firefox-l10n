@@ -54,18 +54,27 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = { -brand-shorter-name } B'enam
     .accesskey = n
+appmenu-help-import-from-another-browser =
+    .label = Tijik' pa Jun Chik Okik'amaya'l…
+    .accesskey = j
 appmenu-help-keyboard-shortcuts =
     .label = Ruq'a' rub'ey Keyboard
     .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
+appmenu-help-feedback-page =
+    .label = Ketaq taq Rutzijol…
+    .accesskey = K
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-safe-mode-without-addons =
     .label = Titikirisäx chik kik'in ri chupül taq tz'aqat…
+    .accesskey = T
+appmenu-help-safe-mode-with-addons =
+    .label = Titikirisäx chik rik'in Tzijïl taq Tz'aqat
     .accesskey = T
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
