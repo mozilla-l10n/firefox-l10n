@@ -49,10 +49,19 @@ appmenu-help-show-tour =
 appmenu-help-keyboard-shortcuts =
     .label = કીબોર્ડ શૉર્ટકટ્સ
     .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = મુશ્કેલીનિવારણ જાણકારી
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = પ્રતિસાદને ઉમેરો…
+    .accesskey = S
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
+    .accesskey = R
 appmenu-help-safe-mode-with-addons =
     .label = અડ-ઓન્સ સક્ષમ કારી અને પુનઃ પ્રારંભ કરો
     .accesskey = R
