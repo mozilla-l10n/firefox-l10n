@@ -80,6 +80,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Teata veebivõltsingust…
     .accesskey = T
+appmenu-help-not-deceptive =
+    .label = See ei ole veebivõltsing…
+    .accesskey = b
 
 ##
 
