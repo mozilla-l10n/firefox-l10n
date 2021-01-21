@@ -45,6 +45,15 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-help-product =
+    .label = { -brand-shorter-name }-ৰ সহায়
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } ভ্ৰমণ
+    .accesskey = o
+appmenu-help-import-from-another-browser =
+    .label = আন এটা ব্ৰাউজাৰৰ পৰা আমদানি কৰক…
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
     .label = কিবৰ্ড চৰ্টকাটসমূহ
     .accesskey = K
@@ -58,10 +67,19 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-with-addons =
+    .label = এড-অনসমূহ সক্ৰিয় কৰি পুনৰাৰম্ভ কৰক
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = প্ৰবঞ্চক ছাইটৰ কথা সদৰি কৰক…
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = এইটো প্ৰবঞ্চক ছাইট নহয়…
+    .accesskey = d
 
 ##
 
