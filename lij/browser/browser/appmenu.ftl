@@ -75,6 +75,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Segnala scito mascarson…
     .accesskey = R
+appmenu-help-not-deceptive =
+    .label = Questo o no l'é 'n scito inganevole…
+    .accesskey = g
 
 ##
 
