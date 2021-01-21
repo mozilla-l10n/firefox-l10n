@@ -569,6 +569,8 @@ library-bookmarks-bookmark-this-page =
     .label = Zabilježi ovu stranicu
 library-bookmarks-bookmark-edit =
     .label = Uredi ovu zabilješku
+library-recent-activity-title =
+    .value = Nedavna aktivnost
 
 ## More items
 
