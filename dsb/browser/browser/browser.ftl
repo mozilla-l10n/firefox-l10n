@@ -508,6 +508,9 @@ fullscreen-exit-mac-button = Połnu wobrazowku (esc) skóńcyś
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ma kontrolu nad wašeju špěrku. Tłocćo Esc, aby kontrolu slědk dostał.
 pointerlock-warning-no-domain = Toś ten dokument ma kontrolu nad wašeju špěrku. Tłocćo Esc, aby kontrolu slědk dostał.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -568,7 +571,6 @@ library-bookmarks-bookmark-this-page =
     .label = Toś ten bok ako cytańske znamje składowaś
 library-bookmarks-bookmark-edit =
     .label = Toś to cytańske znamje wobźěłaś
-library-recent-activity-label = Nejnowša aktiwita
 
 ## More items
 
