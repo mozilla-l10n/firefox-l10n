@@ -42,3 +42,29 @@ whatsnew-panel-header = Petra nevez
 whatsnew-panel-footer-checkbox =
     .label = Kemenn eus ar c'heweriusterioù nevez
     .accesskey = K
+
+## Help panel
+
+appmenu-help-keyboard-shortcuts =
+    .label = Berradennoù klavier
+    .accesskey = k
+appmenu-help-troubleshooting-info =
+    .label = Titouroù disac'hañ
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Reiñ ho meno…
+    .accesskey = m
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Adloc'hañ gant an askouezhioù diweredekaet…
+    .accesskey = r
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
