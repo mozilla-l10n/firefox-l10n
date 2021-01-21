@@ -42,3 +42,20 @@ whatsnew-panel-header = Шта је ново
 whatsnew-panel-footer-checkbox =
     .label = Обавести о новим функцијама
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = О програму { -brand-shorter-name }
+    .accesskey = О
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
