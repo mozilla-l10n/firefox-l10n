@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = خدمات
+menu-application-hide-other =
+    .label = دیگر برنامه‌ها را مخفی کن
+menu-application-show-all =
+    .label = نشان دادن همه
 
 ##
 
