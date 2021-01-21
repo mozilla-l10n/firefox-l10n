@@ -55,6 +55,12 @@ appmenu-help-keyboard-shortcuts =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Ales asenker s yizegrar irurmiden…
+    .accesskey = A
+appmenu-help-safe-mode-with-addons =
+    .label = Ales asenker s yizegrar urmiden
+    .accesskey = A
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
