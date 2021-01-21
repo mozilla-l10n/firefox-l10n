@@ -35,6 +35,9 @@ menu-quit =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = Kuhusu { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
