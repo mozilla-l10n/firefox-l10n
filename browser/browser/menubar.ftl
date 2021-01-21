@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = 서비스
+menu-application-hide-this =
+    .label = { -brand-shorter-name } 숨기기
 menu-application-hide-other =
     .label = 모두 숨기기
 
@@ -21,6 +23,13 @@ menu-application-hide-other =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } 종료
+menu-about =
+    .label = { -brand-shorter-name } 정보
+    .accesskey = A
 
 ## File Menu
 
