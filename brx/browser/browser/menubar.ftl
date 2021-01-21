@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = खामानिफोर
+menu-application-hide-this =
+    .label = { -brand-shorter-name } दोनखोमा
 menu-application-hide-other =
     .label = गुबुनखौ दोनखोमा
 menu-application-show-all =
