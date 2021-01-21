@@ -32,6 +32,15 @@ appmenuitem-save-page =
 
 ## Help panel
 
+appmenu-about =
+    .label = About { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name } Help
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } Tour
+    .accesskey = o
 appmenu-help-keyboard-shortcuts =
     .label = Keyboard Shortcuts
     .accesskey = K
@@ -48,10 +57,16 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Restart with Add-ons Disabled…
     .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Restart with Add-ons Enabled
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-not-deceptive =
+    .label = This isn’t a deceptive site…
+    .accesskey = d
 
 ##
 
