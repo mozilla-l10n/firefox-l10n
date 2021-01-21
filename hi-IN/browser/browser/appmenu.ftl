@@ -45,9 +45,15 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } का परिचय
+    .accesskey = A
 appmenu-help-product =
     .label = { -brand-shorter-name } मदद
     .accesskey = H
+appmenu-help-keyboard-shortcuts =
+    .label = कीबोर्ड शॉर्टकट‌‌
+    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = विघ्ननिवारण सूचना
     .accesskey = T
