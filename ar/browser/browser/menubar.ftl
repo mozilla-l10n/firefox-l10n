@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = أخفِ الآخرين
 menu-application-show-all =
     .label = أظهر الكل
+menu-application-touch-bar =
+    .label = خصّص شريط اللمس…
 
 ##
 
