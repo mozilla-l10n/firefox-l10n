@@ -45,17 +45,41 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = { -brand-shorter-name } hakkında
+    .accesskey = h
+appmenu-help-product =
+    .label = { -brand-shorter-name } yardımı
+    .accesskey = m
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } turu
+    .accesskey = u
 appmenu-help-import-from-another-browser =
     .label = Başka bir tarayıcıdan içe aktar…
     .accesskey = B
+appmenu-help-troubleshooting-info =
+    .label = Sorun giderme bilgileri
+    .accesskey = b
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Eklentileri devre dışı bırakıp başlat…
+    .accesskey = E
+appmenu-help-safe-mode-with-addons =
+    .label = Eklentileri etkinleştirip yeniden başlat
+    .accesskey = E
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Aldatıcı siteyi ihbar et…
+    .accesskey = A
+appmenu-help-not-deceptive =
+    .label = Bu site aldatıcı değil…
+    .accesskey = d
 
 ##
 
