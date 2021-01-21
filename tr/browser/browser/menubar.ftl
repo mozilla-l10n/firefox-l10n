@@ -11,6 +11,14 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servisler
+menu-application-hide-other =
+    .label = Diğerlerini gizle
+menu-application-show-all =
+    .label = Tümünü göster
+menu-application-touch-bar =
+    .label = Touch Bar’ı özelleştir…
 
 ##
 
