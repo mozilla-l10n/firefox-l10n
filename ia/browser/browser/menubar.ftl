@@ -19,6 +19,8 @@ menu-application-hide-other =
     .label = Celar le alteres
 menu-application-show-all =
     .label = Monstrar toto
+menu-application-touch-bar =
+    .label = Personalisar le barra tactile…
 
 ##
 
