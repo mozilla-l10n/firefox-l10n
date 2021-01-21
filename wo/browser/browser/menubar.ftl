@@ -11,14 +11,23 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Liggéey
+menu-application-hide-this =
+    .label = Nëbb { -brand-shorter-name }
 menu-application-hide-other =
     .label = Nëbb yeneen yi
+menu-application-show-all =
+    .label = Wone lépp
 
 ##
 
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+menu-about =
+    .label = Ñeel { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
