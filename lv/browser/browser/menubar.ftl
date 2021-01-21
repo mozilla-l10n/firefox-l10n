@@ -11,12 +11,30 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servisi
+menu-application-hide-this =
+    .label = Paslēpt { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Paslēpt citus
+menu-application-show-all =
+    .label = Parādīt visus
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Iziet no { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Aizvērt { -brand-shorter-name }
+menu-about =
+    .label = Par { -brand-shorter-name }
+    .accesskey = a
 
 ## File Menu
 
