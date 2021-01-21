@@ -506,6 +506,13 @@ pointerlock-warning-no-domain = Ez a dokumentum vezérli az egérmutatóját. Ny
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Az oldal egy része összeomlott.</strong> Küldjön egy jelentést a { -brand-product-name } fejlesztőinek, hogy gyorsabban elháríthassák a problémát.
+crashed-subframe-learnmore =
+    .label = További tudnivalók
+    .accesskey = T
+crashed-subframe-submit =
+    .label = Jelentés beküldése
+    .accesskey = b
 
 ## Bookmarks panels, menus and toolbar
 
