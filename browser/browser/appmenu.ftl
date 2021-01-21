@@ -64,10 +64,19 @@ appmenu-help-troubleshooting-info =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Start på nytt med avslåtte tillegg…
+    .accesskey = S
+appmenu-help-safe-mode-with-addons =
+    .label = Start på nytt med påslåtte tillegg
+    .accesskey = S
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-not-deceptive =
+    .label = Dette er ikkje ein villeiande nettstad…
+    .accesskey = d
 
 ##
 
