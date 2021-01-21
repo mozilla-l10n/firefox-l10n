@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Сулууспалар
+menu-application-hide-this =
+    .label = Маны { -brand-shorter-name } кистээ
 menu-application-hide-other =
     .label = Атыны кистээ
 menu-application-show-all =
@@ -20,9 +22,28 @@ menu-application-show-all =
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Тахсыы
+           *[other] Таҕыс
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] с
+           *[other] Т
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Маны { -brand-shorter-name } бүтэр
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Маны { -brand-shorter-name } бүтэр
 
 ## File Menu
 
