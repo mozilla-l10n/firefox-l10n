@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Recèrca de mesas a jorn…
 update-downloading = <img data-l10n-name="icon"/>Telecargament de mesa a jorn — <label data-l10n-name="download-status"/>
+update-downloading-message = Telecargament de la mesa a jorn — <label data-l10n-name="download-status"/>
 update-applying = Aplicacion de la mesa a jorn…
 update-failed = La mesa a jorn a fracassat. <label data-l10n-name="failed-link">Telecargar la darrièra version</label>
 update-failed-main = La mesa a jorn a fracassat. <a data-l10n-name="failed-link-main">Telecargar la darrièra version</a>
