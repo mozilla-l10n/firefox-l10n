@@ -567,6 +567,8 @@ library-bookmarks-bookmark-this-page =
     .label = Egin orriaren laster-marka
 library-bookmarks-bookmark-edit =
     .label = Editatu laster-marka
+library-recent-activity-title =
+    .value = Azken jarduera
 
 ## More items
 
