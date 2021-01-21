@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = सेवा
+menu-application-hide-other =
+    .label = इतरांना लपवा
+menu-application-show-all =
+    .label = सर्व दर्शवा
 
 ##
 
