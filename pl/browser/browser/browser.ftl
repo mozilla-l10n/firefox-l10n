@@ -506,6 +506,9 @@ fullscreen-exit-mac-button = Opuść tryb pełnoekranowy (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontroluje teraz kursor. Naciśnij klawisz Esc, aby przejąć nad nim kontrolę.
 pointerlock-warning-no-domain = Dokument kontroluje teraz kursor. Naciśnij klawisz Esc, aby przejąć nad nim kontrolę.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -566,7 +569,8 @@ library-bookmarks-bookmark-this-page =
     .label = Dodaj zakładkę
 library-bookmarks-bookmark-edit =
     .label = Edytuj zakładkę
-library-recent-activity-label = Ostatnia aktywność
+library-recent-activity-title =
+    .value = Ostatnia aktywność
 
 ## More items
 
