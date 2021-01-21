@@ -428,6 +428,9 @@ fullscreen-exit-mac-button = پوری سکرین سے باہر نکلیں (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> آپ کے نشان کار کا کنٹرول ہے۔ Esc دبا کر کنٹرول واپس لیں
 pointerlock-warning-no-domain = اس دستاویز کہ پاس آپ کہ نشان کار کا کنٹرول ہے ۔ کنٹرول واپس حاصل کرنے کے لیے Esc دبائیں ۔
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -488,7 +491,6 @@ library-bookmarks-bookmark-this-page =
     .label = یہ صفحہ نشان زد کریں
 library-bookmarks-bookmark-edit =
     .label = اس بک مارک کی تدوین کریں
-library-recent-activity-label = حالیہ سرگرمی
 
 ## More items
 
