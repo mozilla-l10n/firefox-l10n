@@ -13,10 +13,14 @@
 
 menu-application-services =
     .label = Serviços
+menu-application-hide-this =
+    .label = Ocultar o { -brand-shorter-name }
 menu-application-hide-other =
     .label = Ocultar Outros
 menu-application-show-all =
     .label = Mostrar tudo
+menu-application-touch-bar =
+    .label = Personalizar barra de toque…
 
 ##
 
