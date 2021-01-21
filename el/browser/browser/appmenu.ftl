@@ -51,6 +51,12 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = Ξενάγηση στο { -brand-shorter-name }
     .accesskey = Ξ
+appmenu-help-keyboard-shortcuts =
+    .label = Συντομεύσεις πληκτρολογίου
+    .accesskey = υ
+appmenu-help-feedback-page =
+    .label = Υποβολή σχολίων…
+    .accesskey = λ
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
