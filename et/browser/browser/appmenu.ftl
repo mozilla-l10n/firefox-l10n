@@ -42,3 +42,44 @@ whatsnew-panel-header = Mis on uut?
 whatsnew-panel-footer-checkbox =
     .label = Uutest funktsioonidest antakse teada
     .accesskey = U
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name }i teave
+    .accesskey = e
+appmenu-help-product =
+    .label = { -brand-shorter-name }i käsiraamat
+    .accesskey = k
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name }i ringkäik
+    .accesskey = r
+appmenu-help-keyboard-shortcuts =
+    .label = Kiirklahvid
+    .accesskey = i
+appmenu-help-troubleshooting-info =
+    .label = Probleemide lahendamise teave
+    .accesskey = P
+appmenu-help-feedback-page =
+    .label = Anna tagasisidet…
+    .accesskey = A
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Taaskäivita koos lisade keelamisega…
+    .accesskey = T
+appmenu-help-safe-mode-with-addons =
+    .label = Taaskäivita koos lisade lubamisega
+    .accesskey = T
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Teata veebivõltsingust…
+    .accesskey = T
+
+##
+
