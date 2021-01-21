@@ -51,20 +51,41 @@ appmenu-about =
 appmenu-help-product =
     .label = { -brand-shorter-name } დახმარება
     .accesskey = დ
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } გზამკვლევი
+    .accesskey = ზ
 appmenu-help-import-from-another-browser =
     .label = გადმოტანა სხვა ბრაუზერიდან…
     .accesskey = ტ
 appmenu-help-keyboard-shortcuts =
     .label = კლავიატურის მალსახმობები
     .accesskey = კ
+appmenu-help-troubleshooting-info =
+    .label = გაუმართაობის აღმოფხვრა
+    .accesskey = ფ
+appmenu-help-feedback-page =
+    .label = გამოგვეხმაურეთ…
+    .accesskey = უ
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = გამორთული დამატებებით გაშვება...
+    .accesskey = გ
+appmenu-help-safe-mode-with-addons =
+    .label = ჩართული დამატებებით გაშვება
+    .accesskey = ჩ
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = მოხსენება თაღლითურ საიტზე…
+    .accesskey = თ
+appmenu-help-not-deceptive =
+    .label = ეს თაღლითური საიტი არაა…
+    .accesskey = ე
 
 ##
 
