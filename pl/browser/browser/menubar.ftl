@@ -13,16 +13,42 @@
 
 menu-application-services =
     .label = Usługi
+menu-application-hide-this =
+    .label = Ukryj program
 menu-application-hide-other =
     .label = Ukryj pozostałe
 menu-application-show-all =
     .label = Pokaż wszystkie
+menu-application-touch-bar =
+    .label = Dostosuj pasek Touch Bar…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Zakończ
+           *[other] Zakończ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] k
+           *[other] k
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Zakończ program { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Zakończ program { -brand-shorter-name }
+menu-about =
+    .label = O programie { -brand-shorter-name }
+    .accesskey = O
 
 ## File Menu
 
