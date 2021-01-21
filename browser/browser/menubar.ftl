@@ -11,6 +11,16 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Servicios
+menu-application-hide-this =
+    .label = Ocultar { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Ocultar otros
+menu-application-show-all =
+    .label = Mostrar todo
+menu-application-touch-bar =
+    .label = Personalizar la barra táctil…
 
 ##
 
@@ -36,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Salir de { -brand-shorter-name }
+menu-about =
+    .label = Acerca de { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
