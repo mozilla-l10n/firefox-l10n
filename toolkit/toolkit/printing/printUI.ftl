@@ -19,14 +19,6 @@ printui-page-range-custom = Swójski
 printui-page-range-label = Strony
 printui-page-range-picker =
     .aria-label = Wobwod stronow wubrać
-printui-page-custom-range =
-    .aria-label = Swójski wobwod stronow zapodać
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Wot
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = do
 printui-page-custom-range-input =
     .aria-label = Swójski wobwod stronow zapodać
     .placeholder = na př. 2-6, 9, 12-16
@@ -61,7 +53,6 @@ printui-margins = Kromy
 printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Žana
-printui-margins-custom = Swójske
 printui-margins-custom-inches = Swójske (cóle)
 printui-margins-custom-top = Horjeka
 printui-margins-custom-top-inches = Horjeka (cóle)
@@ -85,6 +76,7 @@ printui-pages-per-sheet = Strony na łopjeno
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Ćišći so…
+printui-print-progress-indicator-saving = Składuje so…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
