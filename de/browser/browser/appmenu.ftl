@@ -48,10 +48,19 @@ whatsnew-panel-footer-checkbox =
 appmenu-help-keyboard-shortcuts =
     .label = Tastenkombinationen
     .accesskey = T
+appmenu-help-troubleshooting-info =
+    .label = Informationen zur Fehlerbehebung
+    .accesskey = z
+appmenu-help-feedback-page =
+    .label = Feedback senden…
+    .accesskey = s
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Mit deaktivierten Add-ons neu starten…
+    .accesskey = A
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
