@@ -19,9 +19,23 @@ menu-application-hide-other =
     .label = Itago ang Iba
 menu-application-show-all =
     .label = Ipakita ang lahat
+menu-application-touch-bar =
+    .label = I-customize ang Touch Bar…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Lumabas
+           *[other] Lumabas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] x
+           *[other] Q
+        }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Isara ang { -brand-shorter-name }
@@ -32,6 +46,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = Lumabas { -brand-shorter-name }
+menu-about =
+    .label = Tungkol sa { -brand-shorter-name }
+    .accesskey = A
 
 ## File Menu
 
