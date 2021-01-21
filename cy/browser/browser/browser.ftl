@@ -512,6 +512,9 @@ fullscreen-exit-mac-button = Gadael y Sgrin Lawn (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> reolaeth o'ch pwyntydd. Pwyswch Esc i adennill rheolaeth.
 pointerlock-warning-no-domain = Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pwyswch Esc i adennill rheolaeth.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -572,7 +575,6 @@ library-bookmarks-bookmark-this-page =
     .label = Gosod Nod Tudalen i'r Dudalen
 library-bookmarks-bookmark-edit =
     .label = Golygu'r Nod Tudalen
-library-recent-activity-label = Gweithgareddau Diweddar
 
 ## More items
 
