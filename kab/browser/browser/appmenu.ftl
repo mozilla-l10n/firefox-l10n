@@ -51,6 +51,9 @@ appmenu-help-show-tour =
 appmenu-help-keyboard-shortcuts =
     .label = Inegzumen n unasiw
     .accesskey = I
+appmenu-help-feedback-page =
+    .label = Efk-d tamuɣli-ik…
+    .accesskey = M
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
