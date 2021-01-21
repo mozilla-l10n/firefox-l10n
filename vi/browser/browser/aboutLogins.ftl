@@ -199,6 +199,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Xuất thông tin đăng nhập và mật khẩu
 about-logins-confirm-export-dialog-message = Mật khẩu của bạn sẽ được lưu dưới dạng văn bản có thể đọc được (ví dụ: BadP@ssw0rd) để bất kỳ ai có thể mở tập tin được xuất đều có thể xem chúng.
 about-logins-confirm-export-dialog-confirm-button = Xuất…
+about-logins-alert-import-title = Hoàn thành nhập
+about-logins-alert-import-message = Xem tóm tắt chi tiết nhập
 confirm-discard-changes-dialog-title = Hủy bỏ những thay đổi chưa lưu?
 confirm-discard-changes-dialog-message = Tất cả các thay đổi chưa được lưu sẽ bị mất.
 confirm-discard-changes-dialog-confirm-button = Loại bỏ
@@ -260,3 +262,26 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Tài liệu CSV
        *[other] Tập tin CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Hoàn thành nhập
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Đã thêm thông tin đăng nhập mới:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Đã cập nhật thông tin đăng nhập đã có:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Tìm thấy thông tin đăng nhập bị trùng:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(không nhập)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Lỗi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(không nhập)</span>
+    }
+about-logins-import-dialog-done = Xong

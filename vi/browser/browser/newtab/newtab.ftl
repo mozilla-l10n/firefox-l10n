@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Tìm trên mạng
     .title = Tìm trên mạng
     .aria-label = Tìm trên mạng
+newtab-search-box-text = Tìm kiếm trên mạng
+newtab-search-box-input =
+    .placeholder = Tìm kiếm trên mạng
+    .aria-label = Tìm kiếm trên mạng
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Thêm công cụ tìm kiếm
 newtab-topsites-add-topsites-header = Thêm trang web hàng đầu
+newtab-topsites-add-shortcut-header = Lối tắt mới
 newtab-topsites-edit-topsites-header = Sửa trang web hàng đầu
+newtab-topsites-edit-shortcut-header = Chỉnh sửa lối tắt
 newtab-topsites-title-label = Tiêu đề
 newtab-topsites-title-input =
     .placeholder = Nhập tiêu đề

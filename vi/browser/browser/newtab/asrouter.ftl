@@ -123,6 +123,9 @@ cfr-whatsnew-lockwise-take-link-text = Tải ứng dụng
 
 cfr-whatsnew-searchbar-title = Nhập ít hơn, tìm nhiều hơn với thanh địa chỉ
 cfr-whatsnew-searchbar-body-topsites = Bây giờ, chỉ cần chọn thanh địa chỉ và một hộp sẽ mở rộng với các liên kết đến các trang web hàng đầu của bạn.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Biểu tượng kính lúp
 
 ## Picture-in-Picture
@@ -276,3 +279,10 @@ cfr-whatsnew-media-keys-button = Tìm hiểu cách thức
 
 cfr-whatsnew-search-shortcuts-header = Tìm kiếm các phím tắt trong thanh địa chỉ
 cfr-whatsnew-search-shortcuts-body = Bây giờ, khi bạn nhập công cụ tìm kiếm hoặc trang web cụ thể vào thanh địa chỉ, một phím tắt màu xanh lam sẽ xuất hiện trong các đề xuất tìm kiếm bên dưới. Chọn lối tắt đó để hoàn tất tìm kiếm của bạn trực tiếp từ thanh địa chỉ.
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Đánh dấu trang tốt hơn
