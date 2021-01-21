@@ -62,6 +62,9 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ…
     .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = ଏଡ-ଅନଗୁଡ଼ିକୁ ସକ୍ରିୟ କରି ପୁନଃଚାଳନ କରନ୍ତୁ
+    .accesskey = ର
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
