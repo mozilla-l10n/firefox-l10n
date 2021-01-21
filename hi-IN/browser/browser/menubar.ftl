@@ -44,6 +44,9 @@ menu-quit-button =
 menu-quit-button-win =
     .label = { menu-quit.label }
     .tooltip = { -brand-shorter-name } से निकास
+menu-about =
+    .label = { -brand-shorter-name } का परिचय
+    .accesskey = A
 
 ## File Menu
 
