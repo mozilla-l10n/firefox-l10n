@@ -13,14 +13,28 @@
 
 menu-application-services =
     .label = Tjänster
+menu-application-hide-this =
+    .label = Göm { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Göm övriga
 menu-application-show-all =
     .label = Visa alla
 
 ##
 
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Avsluta { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Avsluta { -brand-shorter-name }
+menu-about =
+    .label = Om { -brand-shorter-name }
+    .accesskey = O
 
 ## File Menu
 
