@@ -42,3 +42,26 @@ whatsnew-panel-header = Ce este nou
 whatsnew-panel-footer-checkbox =
     .label = Anunță-mă despre noi funcționalități
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = Despre { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = Ajutor { -brand-shorter-name }
+    .accesskey = H
+appmenu-help-feedback-page =
+    .label = Trimite feedback…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
