@@ -11,6 +11,8 @@
 
 ## Application Menu (macOS only)
 
+menu-application-show-all =
+    .label = Peuleumah Bandum
 
 ##
 
