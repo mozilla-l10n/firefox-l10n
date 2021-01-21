@@ -42,3 +42,47 @@ whatsnew-panel-header = Ինչն է նոր
 whatsnew-panel-footer-checkbox =
     .label = Տեղեկացնել նոր յատկութիւնների մասին
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = { -brand-shorter-name }-ի մասին
+    .accesskey = A
+appmenu-help-product =
+    .label = { -brand-shorter-name }-ի Աւգնութիւն
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = Շրջայց { -brand-shorter-name }-ի հետ
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Ստեղնաշարի պիտակներ
+    .accesskey = K
+appmenu-help-troubleshooting-info =
+    .label = Անսարքութեան տեղեկատուութիւն
+    .accesskey = T
+appmenu-help-feedback-page =
+    .label = Հաստատման արձագանք…
+    .accesskey = S
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Վերամեկնարկել՝ անջատելով հաւելումները…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Վերամեկնարկել՝ միացնելով հաւելումները
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = Զեկուցել խաբուսիկ կայքի մասին…
+    .accesskey = D
+appmenu-help-not-deceptive =
+    .label = Սա խաբուսիկ կայք չէ…
+    .accesskey = d
+
+##
+
