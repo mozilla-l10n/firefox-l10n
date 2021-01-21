@@ -571,6 +571,8 @@ library-bookmarks-bookmark-this-page =
     .label = Toś ten bok ako cytańske znamje składowaś
 library-bookmarks-bookmark-edit =
     .label = Toś to cytańske znamje wobźěłaś
+library-recent-activity-title =
+    .value = Nejnowša aktiwita
 
 ## More items
 
