@@ -11,6 +11,12 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = 服務
+menu-application-hide-other =
+    .label = 隱藏其他視窗
+menu-application-show-all =
+    .label = 全部顯示
 
 ##
 
