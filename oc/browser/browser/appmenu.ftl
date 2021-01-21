@@ -42,3 +42,23 @@ whatsnew-panel-header = Qué de nòu
 whatsnew-panel-footer-checkbox =
     .label = M’informar de las nòvas foncionalitats
     .accesskey = i
+
+## Help panel
+
+appmenu-help-feedback-page =
+    .label = Balhar vòstre vejaire…
+    .accesskey = B
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-safe-mode-without-addons =
+    .label = Reaviar amb los moduls desactivats…
+    .accesskey = R
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+##
+
