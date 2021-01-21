@@ -45,6 +45,18 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = O { -brand-shorter-name }u
+    .accesskey = O
+appmenu-help-product =
+    .label = { -brand-shorter-name } pomoć
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = { -brand-shorter-name } vodič
+    .accesskey = o
+appmenu-help-keyboard-shortcuts =
+    .label = Shortcuti na tastaturi
+    .accesskey = o
 appmenu-help-troubleshooting-info =
     .label = Informacije za rješavanje problema
     .accesskey = I
@@ -55,10 +67,19 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-with-addons =
+    .label = Restartuj sa omogućenim add-onima
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Prijavi obmanjujuću stranicu…
+    .accesskey = o
+appmenu-help-not-deceptive =
+    .label = Ovo nije obmanjujuća stranica…
+    .accesskey = o
 
 ##
 
