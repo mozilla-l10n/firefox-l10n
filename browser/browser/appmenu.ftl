@@ -42,3 +42,29 @@ whatsnew-panel-header = تازه‌ها
 whatsnew-panel-footer-checkbox =
     .label = آگاهی دربارهٔ ویژگی‌های جدید (f)
     .accesskey = f
+
+## Help panel
+
+appmenu-about =
+    .label = دربارهٔ { -brand-shorter-name }
+    .accesskey = A
+appmenu-help-product =
+    .label = راهنمای { -brand-shorter-name }
+    .accesskey = H
+appmenu-help-show-tour =
+    .label = تور معرفی { -brand-shorter-name }
+    .accesskey = o
+
+## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-report-deceptive-site =
+    .label = گزارشِ سایت گمراه‌کننده…
+    .accesskey = گ
+
+##
+
