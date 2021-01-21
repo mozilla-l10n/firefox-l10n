@@ -58,6 +58,9 @@ appmenu-help-show-tour =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Reinicia amb els complements inhabilitats…
+    .accesskey = R
 appmenu-help-safe-mode-with-addons =
     .label = Reinicia amb els complements habilitats
     .accesskey = R
