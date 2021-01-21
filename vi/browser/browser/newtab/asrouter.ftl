@@ -282,7 +282,10 @@ cfr-whatsnew-search-shortcuts-body = Bây giờ, khi bạn nhập công cụ tì
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Bảo vệ khỏi supercookie độc hại
+cfr-whatsnew-supercookies-body = Các trang web có thể bí mật đính kèm một “supercookie” vào trình duyệt của bạn để có thể theo dõi bạn trên khắp trang web, ngay cả sau khi bạn xóa cookie của mình. { -brand-short-name } hiện cung cấp khả năng bảo vệ mạnh mẽ chống lại các supercookie để chúng không thể được sử dụng để theo dõi các hoạt động trực tuyến của bạn từ trang web này sang trang web khác.
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Đánh dấu trang tốt hơn
+cfr-whatsnew-bookmarking-body = Theo dõi các trang web yêu thích của bạn dễ dàng hơn. Bây giờ { -brand-short-name } nhớ vị trí ưa thích của bạn cho các dấu trang đã lưu, hiển thị thanh công cụ dấu trang theo mặc định trên các thẻ mới và cho phép bạn dễ dàng truy cập vào phần còn lại của dấu trang thông qua thư mục thanh công cụ.
