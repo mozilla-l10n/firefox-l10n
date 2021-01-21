@@ -45,6 +45,12 @@ whatsnew-panel-footer-checkbox =
 
 ## Help panel
 
+appmenu-about =
+    .label = Sobre o { -brand-shorter-name }
+    .accesskey = S
+appmenu-help-product =
+    .label = Ajuda do { -brand-shorter-name }
+    .accesskey = u
 appmenu-help-show-tour =
     .label = Tutorial do { -brand-shorter-name }
     .accesskey = o
@@ -54,6 +60,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Atalhos de teclado
     .accesskey = h
+appmenu-help-troubleshooting-info =
+    .label = Informações para resolver problemas
+    .accesskey = I
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
