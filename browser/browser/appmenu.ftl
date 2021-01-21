@@ -80,6 +80,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Senhalar un site enganaire…
+    .accesskey = S
 appmenu-help-not-deceptive =
     .label = Es pas un site malvolent…
     .accesskey = m
