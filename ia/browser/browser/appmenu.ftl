@@ -54,6 +54,9 @@ appmenu-help-product =
 appmenu-help-show-tour =
     .label = Visita guidate de { -brand-shorter-name }
     .accesskey = V
+appmenu-help-import-from-another-browser =
+    .label = Importar ab un altere navigator…
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
     .label = Claves de accesso directe
     .accesskey = C
@@ -80,6 +83,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-report-deceptive-site =
     .label = Denunciar un sito fraudulente…
     .accesskey = D
+appmenu-help-not-deceptive =
+    .label = Iste sito non es fraudulente…
+    .accesskey = d
 
 ##
 
