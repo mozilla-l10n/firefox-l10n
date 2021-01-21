@@ -13,6 +13,8 @@
 
 menu-application-services =
     .label = Dienste
+menu-application-hide-this =
+    .label = { -brand-shorter-name } ausblenden
 menu-application-hide-other =
     .label = Andere ausblenden
 menu-application-show-all =
@@ -25,6 +27,13 @@ menu-application-touch-bar =
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = { -brand-shorter-name } beenden
+menu-about =
+    .label = Über { -brand-shorter-name }
+    .accesskey = e
 
 ## File Menu
 
