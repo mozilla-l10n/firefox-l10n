@@ -504,6 +504,9 @@ fullscreen-exit-mac-button = Vollbild beenden (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolliert den Mauszeiger. Drücken Sie die Esc-Taste, wenn Sie wieder die Kontrolle übernehmen wollen.
 pointerlock-warning-no-domain = Dieses Dokument kontrolliert den Mauszeiger. Drücken Sie die Esc-Taste, wenn Sie wieder die Kontrolle übernehmen wollen.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,7 +567,6 @@ library-bookmarks-bookmark-this-page =
     .label = Lesezeichen hinzufügen
 library-bookmarks-bookmark-edit =
     .label = Lesezeichen bearbeiten
-library-recent-activity-label = Jüngste Aktivität
 
 ## More items
 
