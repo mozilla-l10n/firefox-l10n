@@ -8,6 +8,7 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Profiler 設定
+perftools-intro-description = 記錄過程將在新分頁開啟 profiler.firefox.com。所有資料都儲存在您的本機上，但您可以決定是否要上傳分享。
 
 ## All of the headings for the various sections.
 
@@ -22,6 +23,8 @@ perftools-heading-local-build = 本機編譯版本
 
 ##
 
+perftools-description-intro = 記錄過程將在新分頁開啟 <a>profiler.firefox.com</a>。所有資料都儲存在您的本機上，但您可以決定是否要上傳分享。
+perftools-description-local-build = 若您使用這台電腦上自行編譯的版本進行測量，請將編譯出的目的碼路徑（objdir）放到下方清單，以用於查詢除錯符號資訊。
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -30,15 +33,36 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = 緩衝區大小:
+perftools-custom-threads-label = 依照名稱新增自訂執行緒:
+perftools-devtools-interval-label = 間隔:
+perftools-devtools-threads-label = 執行緒:
+perftools-devtools-settings-label = 設定
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    開啟隱私瀏覽視窗後，將停用 Profiler。
+    請關閉所有隱私瀏覽視窗，即可重新啟用 profiler
+perftools-status-recording-stopped-by-another-tool = 已被其他工具停止記錄。
+perftools-status-restart-required = 必須重新啟動瀏覽器才能啟用此功能。
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = 正在停止記錄
+perftools-request-to-get-profile-and-stop-profiler = 正在捕捉效能記錄
 
 ##
 
+perftools-button-start-recording = 開始記錄
+perftools-button-capture-recording = 正在捕捉記錄
+perftools-button-cancel-recording = 取消記錄
+perftools-button-save-settings = 儲存設定並返回
+perftools-button-restart = 重新啟動
+perftools-button-add-directory = 新增目錄
+perftools-button-remove-directory = 移除選擇項目
+perftools-button-edit-settings = 編輯設定值…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
