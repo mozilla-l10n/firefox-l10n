@@ -22,25 +22,44 @@ perftools-heading-threads = 线程
 
 ##
 
+perftools-description-intro = 记录过程将在新标签页中打开 <a>profiler.firefox.com</a>。所有数据都存储在本地，您可以手动选择上传以进行共享。
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = 采样间隔：
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = 缓冲区大小：
+perftools-custom-threads-label = 按名称添加自定义线程：
+perftools-devtools-interval-label = 间隔：
+perftools-devtools-threads-label = 线程：
+perftools-devtools-settings-label = 设置
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = 正在停止记录
+perftools-request-to-get-profile-and-stop-profiler = 正在捕捉性能
 
 ##
 
+perftools-button-start-recording = 开始记录
+perftools-button-capture-recording = 正在捕捉记录
+perftools-button-cancel-recording = 取消记录
+perftools-button-save-settings = 保存设置并返回
+perftools-button-add-directory = 新建目录
+perftools-button-remove-directory = 移除选中项
 perftools-button-edit-settings = 编辑设置…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = 父进程和内容进程等主进程
 perftools-thread-renderer =
     .title = 启用 WebRender 时，用于执行 OpenGL 调用的线程
 perftools-thread-render-backend =
