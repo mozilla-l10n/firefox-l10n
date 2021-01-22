@@ -43,6 +43,27 @@ whatsnew-panel-footer-checkbox =
     .label = Hysbysu am nodweddion newydd
     .accesskey = H
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Dangos rhagor o wybodaeth
+profiler-popup-description-title =
+    .value = Cofnodi, dadansoddi, rhannu
+profiler-popup-description = Cydweithiwch ar faterion perfformiad trwy gyhoeddi proffiliau i'w rhannu â'ch tîm.
+profiler-popup-learn-more = Dysgu rhagor
+profiler-popup-settings =
+    .value = Gosod­iadau
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Golygu Gosodiadau...
+profiler-popup-disabled =
+    Mae'r proffiliwr wedi'i analluogi ar hyn o bryd, yn fwyaf tebygol oherwydd fod ffenestr Pori Preifat
+    ar agor
+profiler-popup-recording-screen = Yn cofnodi…
+
 ## Help panel
 
 appmenu-about =
