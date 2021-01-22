@@ -65,9 +65,33 @@ perftools-request-to-get-profile-and-stop-profiler = Cipio proffil
 
 perftools-button-start-recording = Cychwyn cofnodi
 perftools-button-capture-recording = Cipio'r cofnod
+perftools-button-cancel-recording = Diddymu'r cofnodi
+perftools-button-save-settings = Cadw gosodiadau a mynd nôl
+perftools-button-restart = Ailgychwyn
+perftools-button-add-directory = Ychwanegwch gyfeiriadur
+perftools-button-remove-directory = Tynnwch y dewis
+perftools-button-edit-settings = Golygu Gosodiadau...
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Y prif brosesau ar gyfer y broses riant a phrosesau cynnwys
+perftools-thread-compositor =
+    .title = Cyfansoddion gyda'i gilydd gwahanol elfennau wedi'u paentio ar y dudalen
+perftools-thread-dom-worker =
+    .title = Dolen gweithwyr gwe a gweithwyr gwasanaeth
+perftools-thread-renderer =
+    .title = Pan fydd WebRender wedi'i alluogi, mae'r trywydd sy'n gweithredu OpenGL yn galw
+perftools-thread-render-backend =
+    .title = Trywydd WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Pan mae off-main-thread wedi'i alluogi, yr edefyn y mae paentio yn digwydd arno
+perftools-thread-style-thread =
+    .title = Mae cyfrifiant arddull yn cael ei rannu i drywyddion lluosog
+pref-thread-stream-trans =
+    .title = Cludiant llif rhwydwaith
+perftools-thread-socket-thread =
+    .title = Y trywydd lle mae cod rhwydweithio yn rhedeg unrhyw alwadau rhwystro socedi
 
 ##
 
