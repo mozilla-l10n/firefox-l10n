@@ -17,4 +17,23 @@ calendar-ics-file-dialog-items-loading-message =
 calendar-ics-file-dialog-progress-message = Mewnforio…
 calendar-ics-file-import-success = Wedi’i mewnforio’n llwyddiannus
 calendar-ics-file-import-error = Digwyddodd gwall a methodd y mewnforio.
+calendar-ics-file-import-complete = Mewnforio wedi'i gwblhau.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [zero] Anwybyddwyd dim eitemau.
+        [one] Anwybyddwyd un eitem gan ei bod eisoes yn bodoli yn y calendr cyrchfan.
+        [two] Anwybyddwyd { $duplicatesCount } eitem gan eu bod eisoes yn bodoli yn y calendr cyrchfan.
+        [few] Anwybyddwyd { $duplicatesCount } eitem gan eu bod eisoes yn bodoli yn y calendr cyrchfan.
+        [many] Anwybyddwyd { $duplicatesCount } eitem gan eu bod eisoes yn bodoli yn y calendr cyrchfan.
+       *[other] Anwybyddwyd { $duplicatesCount } eitem gan eu bod eisoes yn bodoli yn y calendr cyrchfan.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [zero] Methodd mewnforio dim eitemau.
+        [one] Methodd mewnforio un eitem. Gwiriwch y Consol Gwall am fanylion.
+        [two] Methodd mewnforio { $errorCount } eitem. Gwiriwch y Consol Gwall am fanylion.
+        [few] Methodd mewnforio { $errorCount } eitem. Gwiriwch y Consol Gwall am fanylion.
+        [many] Methodd mewnforio { $errorCount } eitem. Gwiriwch y Consol Gwall am fanylion.
+       *[other] Methodd mewnforio { $errorCount } eitem. Gwiriwch y Consol Gwall am fanylion.
+    }
 calendar-ics-file-dialog-no-calendars = Nid oes unrhyw galendrau sy'n gallu mewnforio digwyddiadau neu dasgau.
