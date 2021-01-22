@@ -49,8 +49,25 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = 展示更多信息
 profiler-popup-description-title =
     .value = 记录、分析、共享
+profiler-popup-learn-more = 详细了解
+profiler-popup-settings =
+    .value = 设置
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = 编辑设置…
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
