@@ -93,3 +93,6 @@ perftools-thread-js-helper =
 
 ##
 
+perftools-record-all-registered-threads = Ignorar as seleções acima e gravar todos os threads registrados
+perftools-tools-threads-input-label =
+    .title = Esses nomes de thread ficam numa lista separada por vírgulas, usada para ativar a gravação de profiles dos threads no profiler. O nome precisa ser apenas uma correspondência parcial do nome do thread a ser incluído. É sensível a espaços em branco.
