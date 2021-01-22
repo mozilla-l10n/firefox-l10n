@@ -296,4 +296,9 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Τέλος
 about-logins-import-dialog-error-title = Σφάλμα εισαγωγής
+about-logins-import-dialog-error-file-format-title = Πρόβλημα μορφής αρχείου
+about-logins-import-dialog-error-file-permission-title = Αδυναμία ανάγνωσης αρχείου
+about-logins-import-dialog-error-unable-to-read-title = Αδυναμία ανάλυσης αρχείου
+about-logins-import-dialog-error-learn-more = Μάθετε περισσότερα
+about-logins-import-dialog-error-try-again = Δοκιμή ξανά…
 about-logins-import-dialog-error-cancel = Ακύρωση
