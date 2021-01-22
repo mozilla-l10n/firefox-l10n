@@ -7,10 +7,14 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Ρυθμίσεις profiler
 
 ## All of the headings for the various sections.
 
-perftools-heading-features = Χαρακτηριστικά
+perftools-heading-settings = Πλήρεις ρυθμίσεις
+perftools-heading-buffer = Ρυθμίσεις buffer
+perftools-heading-features = Λειτουργίες
+perftools-heading-features-disabled = Ανενεργές λειτουργίες
 
 ##
 
@@ -31,6 +35,9 @@ perftools-devtools-settings-label = Ρυθμίσεις
 
 ##
 
+perftools-button-restart = Επανεκκίνηση
+perftools-button-add-directory = Προσθήκη καταλόγου
+perftools-button-edit-settings = Επεξεργασία ρυθμίσεων…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
