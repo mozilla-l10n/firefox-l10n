@@ -300,6 +300,7 @@ about-logins-import-dialog-error-title = Σφάλμα εισαγωγής
 about-logins-import-dialog-error-conflicting-values-title = Πολλές τιμές σε διένεξη για μια σύνδεση
 about-logins-import-dialog-error-conflicting-values-description = Για παράδειγμα: πολλαπλά ονόματα χρήστη, κωδικοί πρόσβασης, URL, κ.λπ. για μια σύνδεση.
 about-logins-import-dialog-error-file-format-title = Πρόβλημα μορφής αρχείου
+about-logins-import-dialog-error-file-format-description = Σφάλμα ή απουσία κεφαλίδων στήλης. Βεβαιωθείτε ότι το αρχείο περιλαμβάνει στήλες για όνομα χρήστη, κωδικό πρόσβασης και URL.
 about-logins-import-dialog-error-file-permission-title = Αδυναμία ανάγνωσης αρχείου
 about-logins-import-dialog-error-file-permission-description = Το { -brand-short-name } δεν έχει άδεια ανάγνωσης για το αρχείο. Δοκιμάστε να αλλάξετε τα δικαιώματα του αρχείου.
 about-logins-import-dialog-error-unable-to-read-title = Αδυναμία ανάλυσης αρχείου
