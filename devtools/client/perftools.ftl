@@ -32,10 +32,18 @@ perftools-button-edit-settings = 编辑设置…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-renderer =
+    .title = 启用 WebRender 时，用于执行 OpenGL 调用的线程
 perftools-thread-render-backend =
     .title = WebRender 的 RenderBackend 线程
 perftools-thread-paint-worker =
     .title = 启用非主线程绘制时，进行绘制的线程
+perftools-thread-style-thread =
+    .title = 样式计算会拆分在多个线程中进行
+pref-thread-stream-trans =
+    .title = 网络数据流传输
+perftools-thread-img-decoder =
+    .title = 图像解码线程
 perftools-thread-dns-resolver =
     .title = DNS 解析会发生在此线程
 perftools-thread-js-helper =
