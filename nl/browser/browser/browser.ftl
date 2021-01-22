@@ -348,6 +348,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Sluiten
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -508,6 +511,12 @@ pointerlock-warning-no-domain = Dit document heeft de controle over uw aanwijzer
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Meer info
+    .accesskey = M
+crashed-subframe-submit =
+    .label = Rapport verzenden
+    .accesskey = z
 
 ## Bookmarks panels, menus and toolbar
 

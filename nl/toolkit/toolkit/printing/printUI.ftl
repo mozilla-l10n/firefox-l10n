@@ -17,14 +17,6 @@ printui-page-range-custom = Aangepast
 printui-page-range-label = Pagina’s
 printui-page-range-picker =
     .aria-label = Paginabereik kiezen
-printui-page-custom-range =
-    .aria-label = Aangepast paginabereik invoeren
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Van
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = tot
 printui-page-custom-range-input =
     .aria-label = Aangepast paginabereik invoeren
     .placeholder = b.v. 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = Marges
 printui-margins-default = Standaard
 printui-margins-min = Minimum
 printui-margins-none = Geen
-printui-margins-custom = Aangepast
 printui-margins-custom-inches = Aangepast (inches)
 printui-margins-custom-top = Boven
 printui-margins-custom-top-inches = Bovenzijde (inches)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Pagina’s per vel
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Afdrukken…
+printui-print-progress-indicator-saving = Opslaan…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

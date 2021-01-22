@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Dit is geen misleidende website…
     .accesskey = m
+menu-help-check-for-update =
+    .label = Controleren op updates…
+    .accesskey = C

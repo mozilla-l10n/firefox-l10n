@@ -43,6 +43,11 @@ whatsnew-panel-footer-checkbox =
     .label = Berichten over nieuwe functies
     .accesskey = f
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
 ## Help panel
 
 appmenu-about =
@@ -89,3 +94,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Controleren op updates…
