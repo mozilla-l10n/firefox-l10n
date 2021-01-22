@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Αυτή δεν είναι παραπλανητική ιστοσελίδα…
     .accesskey = δ
+menu-help-check-for-update =
+    .label = Έλεγχος για ενημερώσεις…
+    .accesskey = Έ
