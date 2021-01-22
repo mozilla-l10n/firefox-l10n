@@ -17,14 +17,6 @@ printui-page-range-custom = Προσαρμογή
 printui-page-range-label = Σελίδες
 printui-page-range-picker =
     .aria-label = Επιλογή εύρους σελίδων
-printui-page-custom-range =
-    .aria-label = Εισαγάγετε προσαρμοσμένο εύρος σελίδων
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Από
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = έως
 printui-page-custom-range-input =
     .aria-label = Εισάγετε προσαρμοσμένο εύρος σελίδων
     .placeholder = π.χ. 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = Περιθώρια
 printui-margins-default = Προεπιλογή
 printui-margins-min = Ελάχιστα
 printui-margins-none = Χωρίς
-printui-margins-custom = Προσαρμοσμένο
 printui-margins-custom-inches = Προσαρμογή (ίντσες)
 printui-margins-custom-top = Πάνω
 printui-margins-custom-top-inches = Πάνω (ίντσες)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Σελίδες ανά φύλλο
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Εκτύπωση…
+printui-print-progress-indicator-saving = Αποθήκευση…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
