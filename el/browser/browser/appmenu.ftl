@@ -49,12 +49,23 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Αποκάλυψη περισσότερων πληροφοριών
+profiler-popup-description-title =
+    .value = Εγγραφή, ανάλυση, κοινοποίηση
 profiler-popup-learn-more = Μάθετε περισσότερα
 profiler-popup-settings =
     .value = Ρυθμίσεις
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Επεξεργασία ρυθμίσεων…
+profiler-popup-disabled =
+    Το profiler είναι ανενεργό αυτή τη στιγμή, πιθανότατα επειδή είναι ανοικτό ένα παράθυρο
+    ιδιωτικής περιήγησης.
 profiler-popup-recording-screen = Εγγραφή…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Προσαρμοσμένο
 profiler-popup-start-recording-button =
     .label = Έναρξη εγγραφής
 profiler-popup-discard-button =

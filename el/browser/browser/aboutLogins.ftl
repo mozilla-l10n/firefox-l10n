@@ -84,6 +84,7 @@ login-item-new-login-title = Δημιουργία νέας σύνδεσης
 login-item-edit-button = Επεξεργασία
 about-logins-login-item-remove-button = Αφαίρεση
 login-item-origin-label = Διεύθυνση ιστοσελίδας
+login-item-tooltip-message = Βεβαιωθείτε ότι ταιριάζει ακριβώς με τη διεύθυνση του ιστότοπου όπου συνδέεστε.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Όνομα χρήστη
@@ -296,6 +297,8 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Τέλος
 about-logins-import-dialog-error-title = Σφάλμα εισαγωγής
+about-logins-import-dialog-error-conflicting-values-title = Πολλές τιμές σε διένεξη για μια σύνδεση
+about-logins-import-dialog-error-conflicting-values-description = Για παράδειγμα: πολλαπλά ονόματα χρήστη, κωδικοί πρόσβασης, URL, κ.λπ. για μια σύνδεση.
 about-logins-import-dialog-error-file-format-title = Πρόβλημα μορφής αρχείου
 about-logins-import-dialog-error-file-permission-title = Αδυναμία ανάγνωσης αρχείου
 about-logins-import-dialog-error-file-permission-description = Το { -brand-short-name } δεν έχει άδεια ανάγνωσης για το αρχείο. Δοκιμάστε να αλλάξετε τα δικαιώματα του αρχείου.
