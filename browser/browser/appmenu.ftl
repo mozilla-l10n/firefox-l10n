@@ -43,6 +43,44 @@ whatsnew-panel-footer-checkbox =
     .label = הצגת התרעות על תכונות חדשות
     .accesskey = ה
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = הצגת מידע נוסף
+profiler-popup-description-title =
+    .value = הקלטה, ניתוח, שיתוף
+profiler-popup-learn-more = מידע נוסף
+profiler-popup-settings =
+    .value = הגדרות
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = עריכת הגדרות…
+profiler-popup-disabled = יוצר הפרופילים מושבת כעת, ככל הנראה בגלל חלון פתוח במצב גלישה פרטית.
+profiler-popup-recording-screen = בהקלטה…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = התאמה אישית
+profiler-popup-start-recording-button =
+    .label = התחלת ההקלטה
+profiler-popup-discard-button =
+    .label = השלכה
+profiler-popup-capture-button =
+    .label = לכידה
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
+
 ## Help panel
 
 appmenu-about =

@@ -345,6 +345,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = סגירה
 
+## Tab actions
+
+browser-tab-audio-playing = מנגן
+browser-tab-audio-muted = מושתק
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
