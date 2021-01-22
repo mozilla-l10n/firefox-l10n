@@ -49,6 +49,8 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = 더 많은 정보 보기
 profiler-popup-description-title =
     .value = 기록, 분석, 공유
 profiler-popup-description = 팀과 공유할 프로필을 게시하여 성능 문제에 대해 협업합니다.
@@ -57,6 +59,13 @@ profiler-popup-settings =
     .value = 설정
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = 설정 편집…
+profiler-popup-recording-screen = 기록 중…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = 사용자 지정
+profiler-popup-start-recording-button =
+    .label = 기록 시작
 
 ## Help panel
 
