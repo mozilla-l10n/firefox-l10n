@@ -59,6 +59,9 @@ profiler-popup-settings =
     .value = 설정
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = 설정 편집…
+profiler-popup-disabled =
+    프로파일러가 현재 비활성화되어 있습니다. 대부분의 경우 
+    사생활 보호 창이 열려 있기 때문입니다.
 profiler-popup-recording-screen = 기록 중…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -66,6 +69,20 @@ profiler-popup-presets-custom =
     .label = 사용자 지정
 profiler-popup-start-recording-button =
     .label = 기록 시작
+profiler-popup-discard-button =
+    .label = 취소
+profiler-popup-capture-button =
+    .label = 캡처
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
