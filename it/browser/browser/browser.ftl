@@ -506,6 +506,13 @@ pointerlock-warning-no-domain = Questo documento sta controllando il puntatore d
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Una parte di questa pagina si è bloccata.</strong> Invia una segnalazione a { -brand-product-name } per comunicare questo problema e fare in modo che venga risolto più rapidamente.
+crashed-subframe-learnmore =
+  .label = Ulteriori informazioni
+  .accesskey = U
+crashed-subframe-submit =
+  .label = Invia segnalazione
+  .accesskey = s
 
 ## Bookmarks panels, menus and toolbar
 
