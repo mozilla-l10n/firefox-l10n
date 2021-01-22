@@ -338,6 +338,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = 關閉
 
+## Tab actions
+
+browser-tab-audio-playing = 播放中
+browser-tab-audio-muted = 靜音
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
