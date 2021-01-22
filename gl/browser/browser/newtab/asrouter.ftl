@@ -293,3 +293,4 @@ cfr-whatsnew-supercookies-body = Os sitios web poden achegar un «superrastro» 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Mellores marcadores de páxina
+cfr-whatsnew-bookmarking-body = É máis doado facer o seguimento dos sitios favoritos. { -brand-short-name } agora lembra a súa localización preferente para os marcadores gardados, amosa a barra de ferramentas de marcadores de modo predeterminado nas novas lapelas e dálle acceso fácil ao resto dos marcadores cun cartafol na barra de ferramentas.
