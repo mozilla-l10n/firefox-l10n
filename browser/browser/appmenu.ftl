@@ -69,6 +69,8 @@ profiler-popup-start-recording-button =
     .label = 开始记录
 profiler-popup-discard-button =
     .label = 丢弃
+profiler-popup-capture-button =
+    .label = 捕捉
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
