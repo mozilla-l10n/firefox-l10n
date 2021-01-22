@@ -77,6 +77,14 @@ perftools-thread-gecko-main =
     .title = Huvudprocesserna för både överordnade och innehållsprocesser
 perftools-thread-compositor =
     .title = Sätter samman olika målade element på sidan
+perftools-thread-dom-worker =
+    .title = Detta hanterar både web workers och service workers
+perftools-thread-renderer =
+    .title = När WebRender är aktiverat, anropar tråden som kör OpenGL
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend-tråden
+perftools-thread-img-decoder =
+    .title = Bildavkodningstrådar
 
 ##
 
