@@ -53,6 +53,36 @@ profiler-popup-reveal-description-button =
     .aria-label = További információk felfedése
 profiler-popup-description-title =
     .value = Felvétel, elemzés, megosztás
+profiler-popup-description = Dolgozzon együtt a teljesítményproblémák kijavításán azáltal, hogy profilokat oszt meg a csapatával.
+profiler-popup-learn-more = További tudnivalók
+profiler-popup-settings =
+    .value = Beállítások
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Beállítások szerkesztése…
+profiler-popup-disabled =
+    A profilozó jelenleg le van tiltva, valószínűleg azért, mert nyitva van egy privát
+    böngészési ablak.
+profiler-popup-recording-screen = Felvétel…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Egyéni
+profiler-popup-start-recording-button =
+    .label = Felvétel indítása
+profiler-popup-discard-button =
+    .label = Elvetés
+profiler-popup-capture-button =
+    .label = Rögzítés
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 

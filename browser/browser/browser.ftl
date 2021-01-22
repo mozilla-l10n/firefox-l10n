@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Bezárás
 
+## Tab actions
+
+browser-tab-audio-playing = Lejátszás
+browser-tab-audio-muted = Némítva
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
