@@ -92,6 +92,15 @@ pref-thread-stream-trans =
     .title = Cludiant llif rhwydwaith
 perftools-thread-socket-thread =
     .title = Y trywydd lle mae cod rhwydweithio yn rhedeg unrhyw alwadau rhwystro socedi
+perftools-thread-img-decoder =
+    .title = Trywyddion datgodio delwedd
+perftools-thread-dns-resolver =
+    .title = Mae datrysiad DNS yn digwydd ar y trywydd hwn
+perftools-thread-js-helper =
+    .title = Gwaith cefndir injan JS fel crynhoadau oddi ar y prif drywydd
 
 ##
 
+perftools-record-all-registered-threads = Osgoi'r dewisiadau uchod a chofnodi'r holl drywyddion cofrestredig
+perftools-tools-threads-input-label =
+    .title = Mae'r enwau trywyddion hyn yn rhestr sydd wedi'i gwahanu â choma sy'n cael ei ddefnyddio i alluogi proffilio trywydd yn y proffiliwr. Mae angen i'r enw fod yn cyfateb yn unig â'r enw trywydd i'w gynnwys. Mae'n sensitif i ofod gwyn.

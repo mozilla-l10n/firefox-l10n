@@ -21,14 +21,6 @@ printui-page-range-custom = Cyfaddasu
 printui-page-range-label = Tudalen
 printui-page-range-picker =
     .aria-label = Dewis yr ystod tudalen
-printui-page-custom-range =
-    .aria-label = Rhowch ystod tudalen cyfaddas
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = O
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = at
 printui-page-custom-range-input =
     .aria-label = Rhowch ystod tudalen cyfaddas
     .placeholder = e.e. 2-6, 9, 12-16
@@ -63,7 +55,6 @@ printui-margins = Ymylon
 printui-margins-default = Rhagosodiad
 printui-margins-min = Lleiafswm
 printui-margins-none = Dim
-printui-margins-custom = Cyfaddasu
 printui-margins-custom-inches = Cyfaddas (modfeddi)
 printui-margins-custom-top = Brig
 printui-margins-custom-top-inches = Brig (modfeddi)
@@ -87,6 +78,7 @@ printui-pages-per-sheet = Tudalennau fesul dalen
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Argraffu…
+printui-print-progress-indicator-saving = Yn cadw…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
