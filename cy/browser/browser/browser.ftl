@@ -354,6 +354,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Cau
 
+## Tab actions
+
+browser-tab-audio-playing = Chwarae
+browser-tab-audio-muted = Tewi
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -514,6 +519,13 @@ pointerlock-warning-no-domain = Mae gan y ddogfen hon reolaeth o'ch pwyntydd. Pw
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Mae rhan o'r dudalen hon wedi chwalu.</strong> Er mwyn rhoi gwybod i { -brand-product-name } am y mater hwn a'i drwsio'n gynt, cyflwynwch adroddiad.
+crashed-subframe-learnmore =
+    .label = Dysgu rhagor
+    .accesskey = D
+crashed-subframe-submit =
+    .label = Cyflwyno Adroddiad
+    .accesskey = A
 
 ## Bookmarks panels, menus and toolbar
 
