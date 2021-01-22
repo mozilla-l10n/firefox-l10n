@@ -43,6 +43,20 @@ whatsnew-panel-footer-checkbox =
     .label = Жаңа мүмкіндіктер туралы хабарлау
     .accesskey = м
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Көбірек ақпаратты көрсету
+profiler-popup-description-title =
+    .value = Жазу, талдау, бөлісу
+profiler-popup-learn-more = Көбірек білу
+profiler-popup-settings =
+    .value = Баптаулар
+
 ## Help panel
 
 appmenu-about =
