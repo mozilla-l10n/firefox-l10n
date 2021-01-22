@@ -47,6 +47,34 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-learn-more = Meer info
+profiler-popup-settings =
+    .value = Instellingen
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Instellingen bewerken…
+profiler-popup-recording-screen = Opnemen…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Aangepast
+profiler-popup-start-recording-button =
+    .label = Opname starten
+profiler-popup-discard-button =
+    .label = Verwerpen
+profiler-popup-capture-button =
+    .label = Vastleggen
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
