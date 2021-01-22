@@ -350,6 +350,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Začinić
 
+## Tab actions
+
+browser-tab-audio-playing = Wothrawanje
+browser-tab-audio-muted = Zynk wupinany
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =

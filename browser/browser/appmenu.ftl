@@ -49,6 +49,10 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Dalše informacije pokazać
+profiler-popup-description-title =
+    .value = Natočić, analyzować, dźělić
 profiler-popup-learn-more = Dalše informacije
 profiler-popup-settings =
     .value = Nastajenja
