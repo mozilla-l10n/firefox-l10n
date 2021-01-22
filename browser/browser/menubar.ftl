@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Nid yw hon yn wefan twyllodrus…
     .accesskey = t
+menu-help-check-for-update =
+    .label = Gwirio am Ddiweddariadau…
+    .accesskey = G
