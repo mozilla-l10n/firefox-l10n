@@ -92,3 +92,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = 忽略上面選擇的項目，記錄所有註冊的執行緒
+perftools-tools-threads-input-label =
+    .title = 下列執行緒名稱是要在 Profiler 當中測量效能的清單（用逗號分隔）。名稱必須與要列入測量的執行緒名稱部分符合，是否有空白視為不同。
