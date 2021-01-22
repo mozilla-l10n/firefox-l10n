@@ -26,6 +26,8 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Μέγεθος buffer:
 perftools-devtools-settings-label = Ρυθμίσεις
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -33,6 +35,7 @@ perftools-devtools-settings-label = Ρυθμίσεις
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Διακοπή εγγραφής
 
 ##
 
@@ -44,6 +47,8 @@ perftools-button-edit-settings = Επεξεργασία ρυθμίσεων…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-dns-resolver =
+    .title = Η ανάλυση DNS συμβαίνει σε αυτό το thread
 
 ##
 

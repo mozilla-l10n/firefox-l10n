@@ -53,6 +53,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Αποκάλυψη περισσότερων πληροφοριών
 profiler-popup-description-title =
     .value = Εγγραφή, ανάλυση, κοινοποίηση
+profiler-popup-description = Αντιμετωπίστε ζητήματα επιδόσεων κάνοντας κοινή χρήση των προφίλ με την ομάδα σας.
 profiler-popup-learn-more = Μάθετε περισσότερα
 profiler-popup-settings =
     .value = Ρυθμίσεις
