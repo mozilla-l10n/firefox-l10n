@@ -269,6 +269,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-Dokument
        *[other] CSV-Datei
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-Dokument
+       *[other] TSV-Datei
+    }
 
 ##
 ## Variables:
@@ -296,3 +303,8 @@ about-logins-import-dialog-items-error =
        *[other] <span>Fehler:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
     }
 about-logins-import-dialog-done = Fertig
+about-logins-import-dialog-error-title = Fehler beim Import
+about-logins-import-dialog-error-no-logins-imported = Es wurden keine Zugangsdaten importiert
+about-logins-import-dialog-error-learn-more = Weitere Informationen
+about-logins-import-dialog-error-try-again = Erneut versuchen…
+about-logins-import-dialog-error-cancel = Abbrechen
