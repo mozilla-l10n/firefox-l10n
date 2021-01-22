@@ -269,6 +269,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Asemli CSV
        *[other] Afaylu CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Asemli TSV
+       *[other] Afaylu TSV
+    }
 
 ##
 ## Variables:
