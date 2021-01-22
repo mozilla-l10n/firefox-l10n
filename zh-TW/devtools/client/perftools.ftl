@@ -66,6 +66,16 @@ perftools-button-edit-settings = 編輯設定值…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = 父程序與內容程序等主要處理程序
+perftools-thread-compositor =
+    .title = 將頁面中各種已繪製好的元素合成在一起
+perftools-thread-dom-worker =
+    .title = 處理 web worker 與 service worker
+perftools-thread-renderer =
+    .title = 開啟 WebRender 時，用來執行 OpenGL 呼叫的執行緒
+perftools-thread-render-backend =
+    .title = WebRender 的 RenderBackend 執行緒
 
 ##
 
