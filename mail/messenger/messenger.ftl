@@ -10,3 +10,6 @@ folder-pane-header-label = Mappen
 
 ## Folder Toolbar Header Popup
 
+show-all-folders-label =
+    .label = Alle mappen
+    .accesskey = A
