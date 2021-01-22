@@ -26,7 +26,7 @@ update-restarting = Startuje so…
 channel-description = Sće tuchwilu na aktualizaciskim kanalu <label data-l10n-name="current-channel"></label>.{ " " }
 warningDesc-version = { -brand-short-name } je eksperimentalny a móhł njestabilny być.
 aboutdialog-help-user = { -brand-product-name } - Pomoc
-aboutdialog-submit-feedback = Komentar wotpósłać
+aboutdialog-submit-feedback = Posudk pósłać…
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">globalne zhromadźenstwo,</label> kotrež zhromadnje dźěła, zo by web wotewrjeny, zjawny a za wšěch přistupny wobchował.
 community-2 = { -brand-short-name } je so wot <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> wuwił, <label data-l10n-name="community-creditsLink">globalneho zhromadźenstwa,</label> kotrež zhromadnje dźěła, zo by web wotewrjeny, zjawny a za wšěch přistupny wobchował.
 helpus = Chceće pomhać? <label data-l10n-name="helpus-donateLink">Darće</label> abo <label data-l10n-name="helpus-getInvolvedLink">čińće sobu!</label>
