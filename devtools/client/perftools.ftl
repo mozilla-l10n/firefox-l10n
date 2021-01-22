@@ -40,6 +40,8 @@ perftools-devtools-settings-label = 设置
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = 已被其他工具停止记录。
+perftools-status-restart-required = 必须重启浏览器才能启用此功能。
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -60,6 +62,10 @@ perftools-button-edit-settings = 编辑设置…
 
 perftools-thread-gecko-main =
     .title = 父进程和内容进程等主进程
+perftools-thread-compositor =
+    .title = 将页面中各种绘制完成的元素进行合成
+perftools-thread-dom-worker =
+    .title = 处理 web worker 和 service worker
 perftools-thread-renderer =
     .title = 启用 WebRender 时，用于执行 OpenGL 调用的线程
 perftools-thread-render-backend =
@@ -81,3 +87,4 @@ perftools-thread-js-helper =
 
 ##
 
+perftools-record-all-registered-threads = 忽略上面选择的项目，记录所有注册的线程
