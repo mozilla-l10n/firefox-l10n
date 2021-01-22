@@ -14,24 +14,50 @@ perftools-intro-description = ההקלטות פותחות את profiler.firefox.
 
 perftools-heading-settings = הגדרות מלאות
 perftools-heading-buffer = הגדרות חוצץ
+perftools-heading-features = תכונות
+perftools-heading-features-default = תכונות (מומלץ שיהיו פעילות כברירת מחדל)
+perftools-heading-features-disabled = תכונות מושבתות
+perftools-heading-features-experimental = ניסיוני
+perftools-heading-threads = תהליכונים
+perftools-heading-local-build = בנייה מקומית
 
 ##
 
+perftools-description-intro = ההקלטות פותחות את <a>profiler.firefox.com</a> בלשונית חדשה. כל הנתונים מאוחסנים באופן מקומי, אך באפשרותך לבחור להעלות אותם לצורך שיתוף.
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = מרווח דגימה:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } מ״ש
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = גודל חוצץ:
+perftools-custom-threads-label = הוספת תהליכונים מותאמים אישית לפי שם:
+perftools-devtools-threads-label = תהליכונים
+perftools-devtools-settings-label = הגדרות
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    יוצר הפרופילים מושבת כאשר גלישה פרטית פעילה.
+    יש לסגור את כל החלונות הפרטיות כדי לאפשר מחדש את יוצר הפרופילים.
+perftools-status-recording-stopped-by-another-tool = ההקלטה הופסקה על־ידי כלי אחר.
+perftools-status-restart-required = יש להפעיל מחדש את הדפדפן כדי להפעיל תכונה זו.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = בתהליך הפסקת ההקלטה
+perftools-request-to-get-profile-and-stop-profiler = בתהליך לכידת הפרופיל
 
 ##
 
+perftools-button-start-recording = התחלת ההקלטה
+perftools-button-capture-recording = לכידת ההקלטה
+perftools-button-cancel-recording = ביטול ההקלטה
+perftools-button-save-settings = שמירת ההגדרות וחזרה אחורה
+perftools-button-restart = הפעלה מחדש
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
