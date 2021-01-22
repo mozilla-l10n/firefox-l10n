@@ -3,3 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-rights-notification-text = { -brand-short-name } is vrije en opensourcesoftware, gebouwd door een gemeenschap van duizenden mensen over de hele wereld.
+
+## Folder Pane
+
+folder-pane-header-label = Mappen
+
+## Folder Toolbar Header Popup
+
