@@ -338,6 +338,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = 닫기
 
+## Tab actions
+
+browser-tab-audio-playing = 재생 중
+browser-tab-audio-muted = 음소거됨
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
