@@ -49,6 +49,11 @@ perftools-devtools-settings-label = 설정
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    프로파일러는 사생활 보호 모드가 활성화되면 비활성화됩니다.
+    프로파일러를 다시 활성화하려면 모든 사생활 보호 창을 닫으세요.
+perftools-status-recording-stopped-by-another-tool = 다른 도구에 의해 기록이 중지되었습니다.
+perftools-status-restart-required = 이 기능을 사용하려면 브라우저를 다시 시작해야 합니다.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -60,11 +65,24 @@ perftools-request-to-get-profile-and-stop-profiler = 프로필 캡처
 perftools-button-start-recording = 기록 시작
 perftools-button-capture-recording = 기록 캡처
 perftools-button-cancel-recording = 기록 취소
+perftools-button-save-settings = 설정을 저장하고 뒤로 가기
 perftools-button-restart = 다시 시작
 perftools-button-add-directory = 디렉터리 추가
+perftools-button-remove-directory = 선택 항목 삭제
+perftools-button-edit-settings = 설정 편집…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = 부모 프로세스와 콘텐츠 프로세스 모두에 대한 메인 프로세스
+perftools-thread-compositor =
+    .title = 페이지에서 서로 다른 페인트 요소를 함께 합성
+pref-thread-stream-trans =
+    .title = 네트워크 스트림 전송
+perftools-thread-img-decoder =
+    .title = 이미지 디코딩 스레드
+perftools-thread-dns-resolver =
+    .title = 이 스레드에서 DNS 확인 발생
 
 ##
 
