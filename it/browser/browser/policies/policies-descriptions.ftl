@@ -72,7 +72,7 @@ policy-DisableProfileImport = Disattiva il menu per importare dati da un altro b
 
 policy-DisableProfileRefresh = Disattiva il pulsante “Ripristina { -brand-short-name }” nella pagina about:support.
 
-policy-DisableSafeMode = Disattiva la possibilità di riavviare in modalità provvisoria. Nota: l’utilizzo del pulsante Maiusc per avviare in modalità provvisoria può essere disattivato solo nei criteri di gruppo.
+policy-DisableSafeMode = Disattiva la possibilità di riavviare in modalità provvisoria. Nota: l’utilizzo del tasto Maiusc per avviare in modalità provvisoria può essere disattivato solo nei criteri di gruppo.
 
 policy-DisableSecurityBypass = Impedisci all’utente di ignorare alcuni avvisi di sicurezza.
 
