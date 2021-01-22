@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Fechar
 
+## Tab actions
+
+browser-tab-audio-playing = Reproduzindo
+browser-tab-audio-muted = Sem som
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
