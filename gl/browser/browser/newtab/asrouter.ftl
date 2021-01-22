@@ -284,3 +284,12 @@ cfr-whatsnew-media-keys-button = Saiba como
 
 cfr-whatsnew-search-shortcuts-header = Buscar accesos directos na barra de enderezos
 cfr-whatsnew-search-shortcuts-body = Agora, cando escribir un motor de busca ou un sitio específico na barra de enderezos, aparecerá un atallo azul nas suxestións de busca debaixo. Seleccione ese atallo para completar a busca directamente na barra de enderezos.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protección ante superrastros maliciosos
+cfr-whatsnew-supercookies-body = Os sitios web poden achegar un «superrastro» ao seu navegador que pode facerlle o seguimento polo Web, mesmo despois de limpar os seus rastros. { -brand-short-name } fornecer agora unha forte protección conta os superrastros de modo que non poidan utilizados para o rastrexar a súa actividade en liña de un sitio para o outro.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Mellores marcadores de páxina
