@@ -77,12 +77,29 @@ perftools-thread-gecko-main =
     .title = 부모 프로세스와 콘텐츠 프로세스 모두에 대한 메인 프로세스
 perftools-thread-compositor =
     .title = 페이지에서 서로 다른 페인트 요소를 함께 합성
+perftools-thread-dom-worker =
+    .title = web worker와 service worker를 모두 처리함
+perftools-thread-renderer =
+    .title = WebRender가 활성화되면 OpenGL 호출을 실행하는 스레드
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend 스레드
+perftools-thread-paint-worker =
+    .title = 오프 메인 스레드 페인팅이 활성화되면 페인팅이 발생하는 스레드
+perftools-thread-style-thread =
+    .title = 스타일 계산이 여러 스레드로 분할됨
 pref-thread-stream-trans =
     .title = 네트워크 스트림 전송
+perftools-thread-socket-thread =
+    .title = 네트워킹 코드가 차단 소켓 호출을 실행하는 스레드
 perftools-thread-img-decoder =
     .title = 이미지 디코딩 스레드
 perftools-thread-dns-resolver =
     .title = 이 스레드에서 DNS 확인 발생
+perftools-thread-js-helper =
+    .title = 오프 메인 스레드 컴파일과 같은 JS 엔진 백그라운드 작업
 
 ##
 
+perftools-record-all-registered-threads = 위의 선택 사항을 무시하고 등록된 모든 스레드를 기록
+perftools-tools-threads-input-label =
+    .title = 이러한 스레드 이름은 프로파일러에서 스레드의 프로파일링을 활성화하는데 사용되는 쉼표로 구분된 목록입니다. 이름은 포함할 스레드 이름과 부분적으로 일치해야 합니다. 공백에 민감합니다.
