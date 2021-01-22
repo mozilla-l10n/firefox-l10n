@@ -56,6 +56,8 @@ connection-proxy-noproxy = Χωρίς διαμεσολαβητή για
 connection-proxy-noproxy-desc = Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
 connection-proxy-noproxy-localhost-desc = Οι συνδέσεις στο localhost, το 127.0.0.1 και το ::1 δεν προωθούνται ποτέ μέσω διακομιστή μεσολάβησης.
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Οι συνδέσεις στο localhost, 127.0.0.1/8 και ::1, δεν γίνονται ποτέ μέσω διακομιστή μεσολάβησης.
 connection-proxy-autotype =
     .label = URL αυτόματης ρύθμισης διαμεσολαβητή
     .accesskey = α

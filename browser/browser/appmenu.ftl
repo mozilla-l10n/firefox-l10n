@@ -54,8 +54,23 @@ profiler-popup-settings =
     .value = Ρυθμίσεις
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Επεξεργασία ρυθμίσεων…
+profiler-popup-recording-screen = Εγγραφή…
+profiler-popup-start-recording-button =
+    .label = Έναρξη εγγραφής
 profiler-popup-discard-button =
     .label = Απόρριψη
+profiler-popup-capture-button =
+    .label = Καταγραφή
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -103,3 +118,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Έλεγχος για ενημερώσεις…
