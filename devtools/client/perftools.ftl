@@ -76,6 +76,12 @@ perftools-thread-renderer =
     .title = 開啟 WebRender 時，用來執行 OpenGL 呼叫的執行緒
 perftools-thread-render-backend =
     .title = WebRender 的 RenderBackend 執行緒
+perftools-thread-paint-worker =
+    .title = 開啟非主執行緒繪製（off-main-thread painting）時，進行繪製的執行緒
+perftools-thread-style-thread =
+    .title = 樣式計算會拆分於多個執行緒中進行
+pref-thread-stream-trans =
+    .title = 網路資料流傳輸
 
 ##
 
