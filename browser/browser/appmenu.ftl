@@ -63,6 +63,26 @@ profiler-popup-disabled =
     Mae'r proffiliwr wedi'i analluogi ar hyn o bryd, yn fwyaf tebygol oherwydd fod ffenestr Pori Preifat
     ar agor
 profiler-popup-recording-screen = Yn cofnodi…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Cyfaddas
+profiler-popup-start-recording-button =
+    .label = Cychwyn Cofnodi
+profiler-popup-discard-button =
+    .label = Dileu
+profiler-popup-capture-button =
+    .label = Cipio
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -110,3 +130,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Gwirio am Ddiweddariadau…
