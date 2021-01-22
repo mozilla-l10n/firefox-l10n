@@ -84,6 +84,7 @@ login-item-new-login-title = Lag ny innlogging
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettadresse
+login-item-tooltip-message = Forsikre deg om at dette samsvarer med den eksakte adressen til nettstedet der du logger inn.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brukernavn
@@ -265,6 +266,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokument
        *[other] CSV-fil
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokument
+       *[other] TSV-fil
+    }
 
 ##
 ## Variables:
@@ -288,3 +296,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Feil:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importert)</span>
     }
 about-logins-import-dialog-done = Ferdig
+about-logins-import-dialog-error-title = Importfeil
+about-logins-import-dialog-error-learn-more = Les mer
+about-logins-import-dialog-error-try-again = Prøv igjen …
+about-logins-import-dialog-error-cancel = Avbryt
