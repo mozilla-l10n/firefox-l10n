@@ -288,3 +288,32 @@ about-logins-import-dialog-items-added =
         [one] <span>Engadiuse unha nova identificación:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Engadíronse novas identificacións:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Actualizada a identificación existente:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Actualizadas as identificacións existentes:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Duplicar a identificación atopada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+       *[other] <span>Duplicar a identificacións atopadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Erro:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importada)</span>
+       *[other] <span>Erros:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importadas)</span>
+    }
+about-logins-import-dialog-done = Feito
+about-logins-import-dialog-error-title = Erro de importación
+about-logins-import-dialog-error-conflicting-values-title = Múltiplos valores en conflito para unha identificación
+about-logins-import-dialog-error-conflicting-values-description = Por exemplo: múltiplos nomes de usuario, contrasinais, URL, etc. para unha identificación.
+about-logins-import-dialog-error-file-format-title = Incidencia co formato do ficheiro
+about-logins-import-dialog-error-file-format-description = Faltan ou son incorrectas as cabeceiras de columna. Asegúrese de que o ficheiro inclúe columnas para nome de usuario, contrasinal ou URL.
+about-logins-import-dialog-error-file-permission-title = Foi imposíbel ler o ficheiro
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } non permiso para ler o ficheiro. Tente cambiar os permisos do ficheiro.
+about-logins-import-dialog-error-unable-to-read-title = Foi imposíbel procesar o ficheiro
+about-logins-import-dialog-error-unable-to-read-description = Asegúrese de que seleccionou un ficheiro CSV ou TSV.
+about-logins-import-dialog-error-no-logins-imported = Non se importaron identificadores
+about-logins-import-dialog-error-learn-more = Saber máis
+about-logins-import-dialog-error-try-again = Ténteo de novo ...
+about-logins-import-dialog-error-cancel = Cancelar
