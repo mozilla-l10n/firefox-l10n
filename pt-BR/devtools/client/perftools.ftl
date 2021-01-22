@@ -55,9 +55,41 @@ perftools-request-to-get-profile-and-stop-profiler = Capturando profile
 
 ##
 
+perftools-button-start-recording = Iniciar gravação
+perftools-button-capture-recording = Capturar gravação
+perftools-button-cancel-recording = Cancelar gravação
+perftools-button-save-settings = Salvar configurações e voltar
+perftools-button-restart = Reiniciar
+perftools-button-add-directory = Adicionar um diretório
+perftools-button-remove-directory = Remover selecionados
+perftools-button-edit-settings = Editar configurações…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Os processos principais, tanto do processo pai como dos processos de conteúdo
+perftools-thread-compositor =
+    .title = Compõe juntos diferentes elementos pintados na página
+perftools-thread-dom-worker =
+    .title = Isto lida tanto com web workers como service workers
+perftools-thread-renderer =
+    .title = Quando o WebRender está ativado, o thread que executa chamadas OpenGL
+perftools-thread-render-backend =
+    .title = O thread RenderBackend do WebRender
+perftools-thread-paint-worker =
+    .title = Quando a pintura fora do thread principal está ativada, o thread em que a pintura acontece
+perftools-thread-style-thread =
+    .title = A computação de estilo é dividida em vários threads
+pref-thread-stream-trans =
+    .title = Transporte de fluxo de rede
+perftools-thread-socket-thread =
+    .title = O thread em que o código de rede executa quaisquer chamadas de soquete de bloqueio
+perftools-thread-img-decoder =
+    .title = Threads de decodificação de imagens
+perftools-thread-dns-resolver =
+    .title = A resolução de DNS acontece neste thread
+perftools-thread-js-helper =
+    .title = Trabalho em segundo plano do mecanismo JavaScript, como compilações fora do thread principal
 
 ##
 
