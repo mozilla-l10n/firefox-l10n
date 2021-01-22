@@ -82,6 +82,13 @@ perftools-thread-style-thread =
     .title = 樣式計算會拆分於多個執行緒中進行
 pref-thread-stream-trans =
     .title = 網路資料流傳輸
+perftools-thread-img-decoder =
+    .title = 圖片解碼執行緒
+perftools-thread-dns-resolver =
+    .title = DNS 解析會發生在此執行緒
+perftools-thread-js-helper =
+    .title = JS 引擎的背景工作，例如非主執行緒編譯（off-main-thread compile）
 
 ##
 
+perftools-record-all-registered-threads = 忽略上面選擇的項目，記錄所有註冊的執行緒
