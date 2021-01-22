@@ -269,6 +269,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV belgesi
        *[other] CSV dosyası
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV belgesi
+       *[other] TSV dosyası
+    }
 
 ##
 ## Variables:
@@ -291,3 +298,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Hata:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılamadı)</span>
     }
 about-logins-import-dialog-done = Tamam
+about-logins-import-dialog-error-title = İçe Aktarma Hatası
+about-logins-import-dialog-error-unable-to-read-description = Bir CSV veya TSV dosyası seçtiğinizden emin olun.
+about-logins-import-dialog-error-try-again = Yeniden dene…
+about-logins-import-dialog-error-cancel = Vazgeç

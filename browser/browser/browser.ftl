@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Kapat
 
+## Tab actions
+
+browser-tab-audio-playing = Oynatılıyor
+browser-tab-audio-muted = Ses kapatıldı
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
