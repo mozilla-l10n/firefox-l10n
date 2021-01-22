@@ -18,4 +18,14 @@ calendar-ics-file-dialog-progress-message = Importeren…
 calendar-ics-file-import-success = Met succes geïmporteerd!
 calendar-ics-file-import-error = Er is een fout opgetreden en het importeren is mislukt.
 calendar-ics-file-import-complete = Importeren voltooid.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Een item werd genegeerd omdat dit al in de doelagenda bestaat.
+       *[other] { $duplicatesCount } items werden genegeerd omdat ze al in de doelagenda bestaan.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Een item kan niet worden geïmporteerd. Raadpleeg de foutconsole voor details.
+       *[other] { $errorsCount } items kunnen niet worden geïmporteerd. Raadpleeg de foutconsole voor details.
+    }
 calendar-ics-file-dialog-no-calendars = Er zijn geen agenda’s die afspraken of taken kunnen importeren.
