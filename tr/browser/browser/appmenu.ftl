@@ -119,3 +119,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Güncellemeleri denetle…

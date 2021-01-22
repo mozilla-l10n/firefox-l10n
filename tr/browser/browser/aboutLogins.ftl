@@ -299,6 +299,7 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Tamam
 about-logins-import-dialog-error-title = İçe Aktarma Hatası
+about-logins-import-dialog-error-file-permission-title = Dosya okunamıyor
 about-logins-import-dialog-error-unable-to-read-description = Bir CSV veya TSV dosyası seçtiğinizden emin olun.
 about-logins-import-dialog-error-try-again = Yeniden dene…
 about-logins-import-dialog-error-cancel = Vazgeç
