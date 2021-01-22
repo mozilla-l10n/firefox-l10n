@@ -346,6 +346,10 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Κλείσιμο
 
+## Tab actions
+
+browser-tab-audio-muted = Σε σίγαση
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +510,12 @@ pointerlock-warning-no-domain = Αυτό το έγγραφο ελέγχει το
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Μάθετε περισσότερα
+    .accesskey = Μ
+crashed-subframe-submit =
+    .label = Υποβολή αναφοράς
+    .accesskey = Υ
 
 ## Bookmarks panels, menus and toolbar
 

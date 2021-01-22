@@ -265,6 +265,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Έγγραφο CSV
        *[other] Αρχείο CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Έγγραφο TSV
+       *[other] Αρχείο TSV
+    }
 
 ##
 ## Variables:
@@ -288,3 +295,5 @@ about-logins-import-dialog-items-error =
        *[other] <span>Σφάλματα:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(δεν έγινε εισαγωγή)</span>
     }
 about-logins-import-dialog-done = Τέλος
+about-logins-import-dialog-error-title = Σφάλμα εισαγωγής
+about-logins-import-dialog-error-cancel = Ακύρωση
