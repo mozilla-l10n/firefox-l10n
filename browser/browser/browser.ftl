@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Lukk
 
+## Tab actions
+
+browser-tab-audio-playing = Spiller av
+browser-tab-audio-muted = Dempet
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +511,12 @@ pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepekeren d
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Les mer
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Send inn rapport
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
