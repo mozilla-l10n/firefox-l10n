@@ -58,9 +58,16 @@ perftools-button-capture-recording = לכידת ההקלטה
 perftools-button-cancel-recording = ביטול ההקלטה
 perftools-button-save-settings = שמירת ההגדרות וחזרה אחורה
 perftools-button-restart = הפעלה מחדש
+perftools-button-add-directory = הוספת ספרייה
+perftools-button-remove-directory = הסרת הפריט הנבחר
+perftools-button-edit-settings = עריכת הגדרות…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = התהליכים הראשיים עבור תהליך האב ועבור תהליכי התוכן
+perftools-thread-render-backend =
+    .title = תהליכון ה־WebRender RenderBackend
 
 ##
 
