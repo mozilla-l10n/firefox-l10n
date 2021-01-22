@@ -34,7 +34,7 @@
 <!ENTITY importOtherBrowser.label          "Kter isefka seg iminig-nniḍen...">
 <!ENTITY importOtherBrowser.accesskey      "i">
 
-<!ENTITY cmd.backup.label               "Kles…">
+<!ENTITY cmd.backup.label               "Ḥrez…">
 <!ENTITY cmd.backup.accesskey           "l">
 <!ENTITY cmd.restore2.label             "Err-d">
 <!ENTITY cmd.restore2.accesskey         "E">
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Ddu ɣer zdat">
 
 <!ENTITY detailsPane.selectAnItemText.description "Fren aferdis akken ad twaliḍ udiɣ ad tesnifleḍ taɣaṛa-yines">
-
