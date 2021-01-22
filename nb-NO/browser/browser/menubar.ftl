@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Dette er ikke et villedende nettsted …
     .accesskey = d
+menu-help-check-for-update =
+    .label = Søk etter oppdateringer …
+    .accesskey = S
