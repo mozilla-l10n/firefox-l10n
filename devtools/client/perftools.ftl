@@ -15,6 +15,7 @@ perftools-heading-settings = Πλήρεις ρυθμίσεις
 perftools-heading-buffer = Ρυθμίσεις buffer
 perftools-heading-features = Λειτουργίες
 perftools-heading-features-disabled = Ανενεργές λειτουργίες
+perftools-heading-threads = Threads
 
 ##
 
@@ -35,6 +36,8 @@ perftools-devtools-settings-label = Ρυθμίσεις
 
 ##
 
+perftools-button-start-recording = Έναρξη εγγραφής
+perftools-button-cancel-recording = Ακύρωση εγγραφής
 perftools-button-restart = Επανεκκίνηση
 perftools-button-add-directory = Προσθήκη καταλόγου
 perftools-button-edit-settings = Επεξεργασία ρυθμίσεων…

@@ -511,6 +511,7 @@ pointerlock-warning-no-domain = Αυτό το έγγραφο ελέγχει το
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Μέρος της σελίδας κατέρρευσε.</strong> Για να ενημερώσετε το { -brand-product-name } σχετικά με αυτό το ζήτημα, ώστε να διορθωθεί γρηγορότερα, παρακαλούμε υποβάλλετε μια αναφορά.
 crashed-subframe-learnmore =
     .label = Μάθετε περισσότερα
     .accesskey = Μ
