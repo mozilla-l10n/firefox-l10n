@@ -52,7 +52,25 @@ profiler-popup-title =
 profiler-popup-reveal-description-button =
     .aria-label = Revelar mais informações
 profiler-popup-description-title =
-    .value = Registre, analise, compartilhe
+    .value = Grave, analise, compartilhe
+profiler-popup-description = Colabore em questões de desempenho publicando profiles para compartilhar com sua equipe.
+profiler-popup-learn-more = Saiba mais
+profiler-popup-settings =
+    .value = Configurações
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Editar configurações…
+profiler-popup-disabled = O profiler está desativado no momento, provavelmente devido a estar aberta uma janela de navegação privativa.
+profiler-popup-recording-screen = Gravando…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personalizado
+profiler-popup-start-recording-button =
+    .label = Iniciar gravação
+profiler-popup-discard-button =
+    .label = Descartar
+profiler-popup-capture-button =
+    .label = Capturar
 
 ## Help panel
 
