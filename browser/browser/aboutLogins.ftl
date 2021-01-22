@@ -88,6 +88,7 @@ login-item-new-login-title = Creu Mewngofnod Newydd
 login-item-edit-button = Golygu
 about-logins-login-item-remove-button = Tynnu
 login-item-origin-label = Cyfeiriad Gwefan
+login-item-tooltip-message = Gwnewch yn siŵr fod hyn yn cyfateb i union gyfeiriad y wefan lle rydych chi'n mewngofnodi.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Enw Defnyddiwr
@@ -297,6 +298,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dogfen CSV
        *[other] Ffeil CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dogfen TSV
+       *[other] Ffeil TSV
+    }
 
 ##
 ## Variables:
@@ -340,3 +348,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>Gwallau:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(heb ei fewnforio)</span>
     }
 about-logins-import-dialog-done = Gorffen
+about-logins-import-dialog-error-title = Gwall Mewnforio
+about-logins-import-dialog-error-conflicting-values-title = Gwerthoedd Lluosog sy'n Gwrthdaro mewn Un Mewngofnod
+about-logins-import-dialog-error-conflicting-values-description = Er enghraifft: enwau defnyddwyr lluosog, cyfrineiriau, URLau, ac ati ar gyfer un mewngofnod.
+about-logins-import-dialog-error-file-format-title = Mater Fformat Ffeil
+about-logins-import-dialog-error-file-format-description = Penynnau colofnau anghywir neu coll. Gwnewch yn siŵr fod y ffeil yn cynnwys colofnau enw defnyddiwr, cyfrinair ac URL.
+about-logins-import-dialog-error-file-permission-title = Methu Darllen y Ffeil
+about-logins-import-dialog-error-file-permission-description = Nid oes gan { -brand-short-name } ganiatâd i ddarllen y ffeil. Ceisiwch newid caniatâd y ffeil.
+about-logins-import-dialog-error-unable-to-read-title = Methu Didoli'r Ffeil
+about-logins-import-dialog-error-unable-to-read-description = Gwnewch yn siŵr eich bod wedi dewis ffeil CSV neu TSV.
+about-logins-import-dialog-error-no-logins-imported = Heb fewnforio unrhyw fewngofnodion
+about-logins-import-dialog-error-learn-more = Dysgu rhagor
+about-logins-import-dialog-error-try-again = Ceisiwch eto…
+about-logins-import-dialog-error-cancel = Diddymu
