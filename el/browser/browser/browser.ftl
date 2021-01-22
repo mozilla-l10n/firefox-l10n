@@ -348,6 +348,7 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Σε αναπαραγωγή
 browser-tab-audio-muted = Σε σίγαση
 
 ## Bookmarks toolbar items
