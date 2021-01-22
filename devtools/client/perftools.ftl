@@ -27,6 +27,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffergrootte:
+perftools-devtools-interval-label = Interval:
 perftools-devtools-settings-label = Instellingen
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -34,9 +35,17 @@ perftools-devtools-settings-label = Instellingen
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Opname wordt gestopt
+perftools-request-to-get-profile-and-stop-profiler = Profiel wordt vastgelegd
 
 ##
 
+perftools-button-start-recording = Opname starten
+perftools-button-capture-recording = Opname vastleggen
+perftools-button-cancel-recording = Opname annuleren
+perftools-button-save-settings = Instellen opslaan en teruggaan
+perftools-button-restart = Herstarten
+perftools-button-edit-settings = Instellingen bewerken…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
