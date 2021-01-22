@@ -7,9 +7,18 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = 分析器设置
+perftools-intro-description = 记录过程将在新标签页中打开 profiler.firefox.com。所有数据都存储在本地，您可以手动选择上传以进行共享。
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = 完整设置
+perftools-heading-buffer = 缓冲区设置
+perftools-heading-features = 功能
+perftools-heading-features-default = 功能（默认推荐开启）
+perftools-heading-features-disabled = 已禁用的功能
+perftools-heading-features-experimental = 实验性
+perftools-heading-threads = 线程
 
 ##
 
