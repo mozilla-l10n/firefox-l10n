@@ -176,6 +176,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-export-dialog-title = ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
 about-logins-confirm-export-dialog-confirm-button = ఎగుమతించు…
+about-logins-alert-import-title = దిగుమతి పూర్తయింది
 confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 confirm-discard-changes-dialog-message = భద్రపరచని మార్పులన్నీ కోల్పోతారు.
 confirm-discard-changes-dialog-confirm-button = విస్మరించు
@@ -229,3 +230,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV పత్రం
        *[other] CSV దస్త్రం
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-done = పూర్తయింది
+about-logins-import-dialog-error-title = దిగుమతి లోపం
+about-logins-import-dialog-error-learn-more = ఇంకా తెలుసుకోండి
+about-logins-import-dialog-error-try-again = మళ్ళీ ప్రయత్నించండి…
+about-logins-import-dialog-error-cancel = రద్దుచేయి
