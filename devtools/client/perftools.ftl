@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Profilozó beállításai
+perftools-intro-description =
+    A rögzítések megnyitják a profiler.firefox.com oldalt egy új lapon. Minden adat
+    helyben lesz tárolva, de lehetősége lesz feltölteni, hogy megossza azt.
 
 ## All of the headings for the various sections.
 
@@ -25,6 +28,10 @@ perftools-heading-local-build = Helyi összeállítás
 perftools-description-intro =
     A rögzítések megnyitják a <a>profiler.firefox.com</a> oldalt egy új lapon. Minden adat
     helyben lesz tárolva, de lehetősége lesz feltölteni, hogy megossza azt.
+perftools-description-local-build =
+    Ha egy olyan összeállítást profiloz, amelyet saját maga fordított le,
+    ezen a gépen, akkor adja az összeállítás tárgykönyvtárát a lenti listához,
+    hogy használható legyen a szimbóluminformációk megkereséséhez.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -93,3 +100,4 @@ perftools-thread-js-helper =
 
 ##
 
+perftools-record-all-registered-threads = A fenti kiválasztások megkerülése, és az összes regisztrált szál rögzítése
