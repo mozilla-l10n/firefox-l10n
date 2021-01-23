@@ -63,6 +63,7 @@ protections-panel-site-not-working-view-issue-list-forms = ఫారాలు
 protections-panel-site-not-working-view-issue-list-payments = చెల్లింపులు
 protections-panel-site-not-working-view-issue-list-comments = వ్యాఖ్యలు
 protections-panel-site-not-working-view-issue-list-videos = వీడియోలు
+protections-panel-site-not-working-view-send-report = నివేదికను పంపించు
 
 ##
 
