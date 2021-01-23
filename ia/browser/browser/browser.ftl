@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Clauder
 
+## Tab actions
+
+browser-tab-audio-playing = In reproduction
+browser-tab-audio-muted = Silentiate
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +511,12 @@ pointerlock-warning-no-domain = Iste documento controla tu punctator. Preme Esc 
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Saper plus
+    .accesskey = p
+crashed-subframe-submit =
+    .label = Inviar reporto
+    .accesskey = I
 
 ## Bookmarks panels, menus and toolbar
 
