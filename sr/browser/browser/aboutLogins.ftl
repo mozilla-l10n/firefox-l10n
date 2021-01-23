@@ -316,3 +316,15 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Готово
 about-logins-import-dialog-error-title = Грешка при увозу
+about-logins-import-dialog-error-conflicting-values-title = Више конфликтних вредности за једну пријаву
+about-logins-import-dialog-error-conflicting-values-description = Нпр: више корисничких имена, лозинки, адреса, и др. за једну пријаву.
+about-logins-import-dialog-error-file-format-title = Грешка формата датотеке
+about-logins-import-dialog-error-file-format-description = Погрешна или недостају заглавља колона. Уверите се да датотека садржи колоне за корисничко име, лозинку и адресу.
+about-logins-import-dialog-error-file-permission-title = Није могуће прочитати датотеку
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } нема дозволу да прочита датотеку. Покушајте да промените дозволе датотеке.
+about-logins-import-dialog-error-unable-to-read-title = Није могуће обрадити датотеку
+about-logins-import-dialog-error-unable-to-read-description = Уверите се да сте одабрали CSV или TSV датотеку.
+about-logins-import-dialog-error-no-logins-imported = Ниједна пријава није увезена
+about-logins-import-dialog-error-learn-more = Сазнајте више
+about-logins-import-dialog-error-try-again = Покушај поново…
+about-logins-import-dialog-error-cancel = Откажи
