@@ -18,14 +18,6 @@ printui-page-range-custom = Прилагођено
 printui-page-range-label = Странице
 printui-page-range-picker =
     .aria-label = Изабери опсег страница
-printui-page-custom-range =
-    .aria-label = Унеси прилагођени опсег страница
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Од
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = до
 printui-page-custom-range-input =
     .aria-label = Унеси прилагођени опсег страница
     .placeholder = нпр. 2-6, 9, 12-16
@@ -60,7 +52,6 @@ printui-margins = Маргине
 printui-margins-default = Подразумевано
 printui-margins-min = Минимално
 printui-margins-none = Никако
-printui-margins-custom = Прилагођено
 printui-margins-custom-inches = Прилагођено (инчи)
 printui-margins-custom-top = Врх
 printui-margins-custom-top-inches = Врх (инчи)
@@ -84,6 +75,7 @@ printui-pages-per-sheet = Страница по листу
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Штампам…
+printui-print-progress-indicator-saving = Чувам…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
