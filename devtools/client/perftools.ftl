@@ -28,9 +28,13 @@ perftools-heading-local-build = Lokalna wersija
 perftools-description-intro =
     Natočenja <a>profiler.firefox.com</a> w nowym rajtarku wočinjeja. Wšě daty so lokalnje
     składuja, ale móžeće je nahrać, zo byšće je dźělił.
+perftools-description-local-build =
+    Jeli wersiju přepruwujeće, kotruž sće sam na tutym ličaku kompilował, přidajće prošu lišćinje deleka objdir swojeje wersije, zo by
+    so dał wužiwać, za symbolowymi informacijemi pytać.
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Wottasowanski interwal:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
@@ -44,6 +48,10 @@ perftools-devtools-settings-label = Nastajenja
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Profilowak je znjemóžnjeny, hdyž je priwatny modus zmóžnjeny.
+    Začińće wšě priwatne wokna, zo byšće profilowak zaso zmóžnił
+perftools-status-recording-stopped-by-another-tool = Natočenje je so přez druhi nastroj zastajił.
 perftools-status-restart-required = Wobhladowak dyrbi so znowa startować, zo by tutu funkciju zmóžnił.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
