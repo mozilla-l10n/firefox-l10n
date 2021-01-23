@@ -53,14 +53,14 @@ profiler-popup-reveal-description-button =
     .aria-label = Dalše informacije pokazać
 profiler-popup-description-title =
     .value = Natočić, analyzować, dźělić
-profiler-popup-description = Wozjewće profile a dźělće je ze swojim teamom, zo byšće na wukonowych problemach hromadźe dźěłali..
+profiler-popup-description = Wozjewće profile a dźělće je ze swojim teamom, zo byšće na wukonowych problemach hromadźe dźěłali.
 profiler-popup-learn-more = Dalše informacije
 profiler-popup-settings =
     .value = Nastajenja
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Nastajenja wobdźěłać…
 profiler-popup-disabled =
-    Profil je tuchwilu znjemóžnjeny, najskerje dokež priwatne wokno
+    Profilowak je tuchwilu znjemóžnjeny, najskerje dokelž priwatne wokno
     je wočinjene.
 profiler-popup-recording-screen = Natoča so…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
