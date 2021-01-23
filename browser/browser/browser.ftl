@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Schließen
 
+## Tab actions
+
+browser-tab-audio-playing = Wird abgespielt
+browser-tab-audio-muted = Stumm
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +511,13 @@ pointerlock-warning-no-domain = Dieses Dokument kontrolliert den Mauszeiger. Dr�
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Ein Teil der Seite ist abgestürzt.</strong> Übermitteln Sie bitte einen Bericht, um { -brand-product-name } über dieses Problem zu informieren und beim Beheben des Fehlers zu helfen.
+crashed-subframe-learnmore =
+    .label = Weitere Informationen
+    .accesskey = W
+crashed-subframe-submit =
+    .label = Bericht senden
+    .accesskey = B
 
 ## Bookmarks panels, menus and toolbar
 
