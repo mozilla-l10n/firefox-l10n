@@ -22,6 +22,7 @@ perftools-heading-features = Functionalitates
 
 ##
 
+perftools-devtools-interval-label = Intervallo:
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
