@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Cerrar
 
+## Tab actions
+
+browser-tab-audio-playing = Reproduciendo
+browser-tab-audio-muted = Mudo
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +511,13 @@ pointerlock-warning-no-domain = Este documento tiene el control de su puntero. P
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Parte de esta página falló.</strong> Para que { -brand-product-name } sepa sobre este problema y se arregle más rápido, enviá un informe.
+crashed-subframe-learnmore =
+    .label = Conocer más
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Enviar informe
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 

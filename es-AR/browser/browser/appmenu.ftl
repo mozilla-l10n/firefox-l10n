@@ -59,6 +59,30 @@ profiler-popup-settings =
     .value = Configuración
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar configuración…
+profiler-popup-disabled =
+    El perfilador está desactivado en este momento, muy probablemente debido a una ventana de navegación privada
+    que se está abriendo.
+profiler-popup-recording-screen = Grabando…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personalizado
+profiler-popup-start-recording-button =
+    .label = Iniciar grabación
+profiler-popup-discard-button =
+    .label = Descartar
+profiler-popup-capture-button =
+    .label = Captura
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Mayús+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Mayús+2
+    }
 
 ## Help panel
 
@@ -106,3 +130,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Verificar si hay actualizaciones...
