@@ -53,6 +53,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Avslør mer informasjon
 profiler-popup-description-title =
     .value = Registrer, analyser, del
+profiler-popup-description = Samarbeid om ytelsesproblemer ved å publisere profiler for å dele med teamet ditt.
 profiler-popup-learn-more = Les mer
 profiler-popup-settings =
     .value = Innstillinger

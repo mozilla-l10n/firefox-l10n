@@ -511,6 +511,7 @@ pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepekeren d
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>En del av denne siden krasjet.</strong> For å informere { -brand-product-name } om dette problemet og få det løst raskere, må du sende inn en rapport.
 crashed-subframe-learnmore =
     .label = Les mer
     .accesskey = L
