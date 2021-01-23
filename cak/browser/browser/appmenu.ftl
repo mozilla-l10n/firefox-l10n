@@ -43,6 +43,25 @@ whatsnew-panel-footer-checkbox =
     .label = Tiya' rutzijol chi kij ch'aqa' chik taq samaj
     .accesskey = s
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Ketz'et juley rutzijol
+profiler-popup-learn-more = Tetamäx juley
+profiler-popup-settings =
+    .value = Taq nuk'ulem
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Kenuk' taq Runuk'ulem…
+profiler-popup-recording-screen = Niyak…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Ichinan
+
 ## Help panel
 
 appmenu-about =

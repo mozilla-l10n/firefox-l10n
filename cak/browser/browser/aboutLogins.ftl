@@ -304,3 +304,6 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Xk'is
 about-logins-import-dialog-error-title = Tijik Sachoj
+about-logins-import-dialog-error-learn-more = Tetamäx juley
+about-logins-import-dialog-error-try-again = Titojtob'ëx Chik…
+about-logins-import-dialog-error-cancel = Tiq'at
