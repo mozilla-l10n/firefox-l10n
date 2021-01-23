@@ -21,12 +21,17 @@ permission-dialog-description-file-app = Tillate denne fila å opne lenka { $sch
 ## of the sentence as your language's grammar allows.
 
 permission-dialog-remember = Tillat alltid <strong>{ $host }</strong> å opne <strong>{ $scheme }</strong>-lenker
+permission-dialog-remember-file = Tillat alltid denne fila å opne <strong>{ $scheme }</strong>-lenker
 
 ##
 
 permission-dialog-btn-open-link =
     .label = Opne lenke
     .accessKey = p
+permission-dialog-btn-choose-app =
+    .label = Vel program
+    .accessKey = V
+permission-dialog-unset-description = Du må velje eit program.
 
 ## Chooser dialog
 ## Variables:
