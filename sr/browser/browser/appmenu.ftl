@@ -55,6 +55,34 @@ profiler-popup-description-title =
     .value = Снимите, анализирајте, делите
 profiler-popup-description = Сарађујте на решавању проблема са перформансама дељењем профила са својим тимом.
 profiler-popup-learn-more = Сазнајте више
+profiler-popup-settings =
+    .value = Подешавања
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Измени подешавања…
+profiler-popup-disabled =
+    Profiler је тренутно онемогућен, вероватно због отвореног прозора
+    за приватно прегледање.
+profiler-popup-recording-screen = Снимање…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Прилагођено
+profiler-popup-start-recording-button =
+    .label = Почни снимање
+profiler-popup-discard-button =
+    .label = Одбаци
+profiler-popup-capture-button =
+    .label = Capture
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -102,3 +130,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Провери ажурирања…

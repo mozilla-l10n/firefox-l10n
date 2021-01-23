@@ -348,6 +348,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Затвори
 
+## Tab actions
+
+browser-tab-audio-playing = Пушта се
+browser-tab-audio-muted = Утишано
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +511,16 @@ fullscreen-exit-mac-button = Изађи из приказа преко цело�
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> управља са вашим показивачем. Притисните Esc да преузмете контролу.
 pointerlock-warning-no-domain = Овај документ управља са вашим показивачем. Притисните Esc да преузмете контролу.
 
+## Subframe crash notification
+
+crashed-subframe-message = <strong>Део странице се срушио. </strong>Пошаљите извештај да би { -brand-product-name } сазнао за овај проблем и брже га решио.
+crashed-subframe-learnmore =
+    .label = Сазнајте више
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Поднесите извештај
+    .accesskey = S
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -566,6 +581,8 @@ library-bookmarks-bookmark-this-page =
     .label = Забележи ову страницу
 library-bookmarks-bookmark-edit =
     .label = Уреди ову забелешку
+library-recent-activity-title =
+    .value = Недавна активност
 
 ## More items
 
