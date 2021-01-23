@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Гэта не падманлівы сайт…
     .accesskey = в
+menu-help-check-for-update =
+    .label = Праверыць наяўнасць абнаўленняў…
+    .accesskey = с
