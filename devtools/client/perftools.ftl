@@ -79,6 +79,24 @@ perftools-thread-compositor =
     .title = Kombiniert verschiedene gezeichnete Elemente auf der Seite
 perftools-thread-dom-worker =
     .title = Dies behandelt sowohl Web-Worker als auch Service-Worker
+perftools-thread-renderer =
+    .title = Wenn WebRender aktiviert ist, der Thread, der OpenGL ausführt
+perftools-thread-render-backend =
+    .title = Der WebRender-RenderBackend-Thread
+perftools-thread-paint-worker =
+    .title = Wenn Zeichnen außerhalb des Hauptthreads aktiviert ist, der Thread, in dem gezeichnet wird
+perftools-thread-style-thread =
+    .title = Stilberechnung ist auf mehrere Threads aufgeteilt
+pref-thread-stream-trans =
+    .title = Netzwerk-Stream-Transport
+perftools-thread-socket-thread =
+    .title = Der Thread, in dem der Netzwerkcode blockierende Socket-Aufrufe ausführt
+perftools-thread-img-decoder =
+    .title = Bilddekodierungsthreads
+perftools-thread-dns-resolver =
+    .title = DNS-Auflösung erfolgt in diesem Thread
+perftools-thread-js-helper =
+    .title = Hintergrundarbeit der JS-Engine wie Kompilierungen außerhalb des Hauptthreads
 
 ##
 
