@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ово није обманљив сајт…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Проверите ажурирања…
+    .accesskey = C
