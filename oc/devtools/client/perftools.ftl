@@ -34,6 +34,7 @@ perftools-devtools-settings-label = Paramètres
 
 ##
 
+perftools-button-restart = Reaviar
 perftools-button-edit-settings = Modificar los paramètres…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.

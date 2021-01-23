@@ -59,6 +59,16 @@ profiler-popup-discard-button =
     .label = Ignorar
 profiler-popup-capture-button =
     .label = Capturar
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Maj.+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Maj.+2
+    }
 
 ## Help panel
 
