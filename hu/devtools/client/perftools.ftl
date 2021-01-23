@@ -22,6 +22,9 @@ perftools-heading-local-build = Helyi összeállítás
 
 ##
 
+perftools-description-intro =
+    A rögzítések megnyitják a <a>profiler.firefox.com</a> oldalt egy új lapon. Minden adat
+    helyben lesz tárolva, de lehetősége lesz feltölteni, hogy megossza azt.
 
 ## The controls for the interval at which the profiler samples the code.
 
