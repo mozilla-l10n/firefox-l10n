@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Nastajenja profilowaka
+perftools-intro-description =
+    Natočenja profiler.firefox.com w nowym rajtarku wočinjeja. Wšě daty so lokalnje
+    składuja, ale móžeće je nahrać, zo byšće je dźělił.
 
 ## All of the headings for the various sections.
 
@@ -22,6 +25,9 @@ perftools-heading-local-build = Lokalna wersija
 
 ##
 
+perftools-description-intro =
+    Natočenja <a>profiler.firefox.com</a> w nowym rajtarku wočinjeja. Wšě daty so lokalnje
+    składuja, ale móžeće je nahrać, zo byšće je dźělił.
 
 ## The controls for the interval at which the profiler samples the code.
 
