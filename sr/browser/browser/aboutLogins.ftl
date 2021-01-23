@@ -296,3 +296,23 @@ about-logins-import-dialog-items-added =
         [few] <span>Додане су нове пријаве:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Додано је нових пријава:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Ажурирана постојећа пријава:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Ажуриране постојеће пријаве:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ажурирано постојећих пријава:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Пронађен дупликат пријава:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
+        [few] <span>Пронађена дупликата пријава:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
+       *[other] <span>Пронађено дупликата пријава:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Грешке:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
+        [few] <span>Грешке:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
+       *[other] <span>Грешке:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(није увезено)</span>
+    }
+about-logins-import-dialog-done = Готово
+about-logins-import-dialog-error-title = Грешка при увозу
