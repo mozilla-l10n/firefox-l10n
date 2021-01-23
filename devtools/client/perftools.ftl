@@ -100,3 +100,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Wuběry horjeka wobeńć a wšě zregistrowane nitki natočić
+perftools-tools-threads-input-label =
+    .title = Tute nitkowe mjena su přez komu dźělena lisćina, kotraž so wužiwa, zo by přepytowanje nitkow w profilowaku zmóžnił. Mjeno trjeba so jenož zdźěla z mjenom nitki kryć, kotrež so ma zapřijeć. Na mjezery so dźiwa.
