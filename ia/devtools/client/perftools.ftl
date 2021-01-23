@@ -8,30 +8,66 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Parametros de profilator
+perftools-intro-description =
+    Le registrationes lancea profiler.firefox.com in un nove scheda. Tote le datos es
+    immagazinate localmente, ma tu pote eliger cargar los pro compartir los.
 
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Parametros complete
+perftools-heading-buffer = Parametros de buffer
 perftools-heading-features = Functionalitates
+perftools-heading-features-default = Functionalitates (Recommendate de ordinario)
+perftools-heading-features-disabled = Functionalitates disactivate
+perftools-heading-features-experimental = Experimental
+perftools-heading-threads = Argumentos
+perftools-heading-local-build = Construction local
 
 ##
 
+perftools-description-intro =
+    Le registrationes lancea <a>profiler.firefox.com</a> in un nove scheda. Tote le datos es 
+    immagazinate localmente, ma tu pote eliger cargar los pro compartir los.
+perftools-description-local-build =
+    Si tu profila un construction que tu mesme ha compilate, sur iste machina,
+     adde tu plica objdir del construction al lista infra de maniera que
+     illo pote esser usate pro cercar informationes de symbolo.
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Intervallo de monstra:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Dimension del buffer:
+perftools-custom-threads-label = Adder argumentos personalisate per nomine:
 perftools-devtools-interval-label = Intervallo:
+perftools-devtools-threads-label = Argumentos:
+perftools-devtools-settings-label = Parametros
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Le profilator es disactivate quando Navigation anonyme es activate.
+    Claude tote le Fenestras anonyme pro re-activar le profilator
+perftools-status-recording-stopped-by-another-tool = Le registration ha essite cessate per un altere instrumento.
+perftools-status-restart-required = Le navigator debe esser re-initiate pro activar iste functionalitate.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Cessation de registration
+perftools-request-to-get-profile-and-stop-profiler = Captura de profilo
 
 ##
 
+perftools-button-start-recording = Initiar a registrar
+perftools-button-capture-recording = Capturar registration
+perftools-button-cancel-recording = Cancellar registration
+perftools-button-save-settings = Salvar parametros e retornar
+perftools-button-restart = Reinitiar
+perftools-button-add-directory = Adder un directorio
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
