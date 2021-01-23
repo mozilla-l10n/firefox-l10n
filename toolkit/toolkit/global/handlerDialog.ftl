@@ -9,6 +9,8 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Tillate at denne nettstaden opnar lenka { $scheme }?
+permission-dialog-description-file = Tillate denne fila å opne lenka { $scheme }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -29,6 +31,11 @@ chooser-dialog =
     .buttonlabelaccept = Opne lenke
     .buttonaccesskeyaccept = O
 chooser-dialog-description = Vel eit program for å opne { $scheme }-lenka.
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Dette kan endrast i innstillingane for { -brand-short-name }.
+       *[other] Dette kan endres i innstillingane for { -brand-short-name }.
+    }
 choose-other-app-description = Vel eit anna program
 choose-app-btn =
     .label = Vel…
