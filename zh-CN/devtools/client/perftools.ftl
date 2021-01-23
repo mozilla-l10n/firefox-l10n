@@ -19,11 +19,12 @@ perftools-heading-features-default = 功能（默认推荐开启）
 perftools-heading-features-disabled = 已禁用的功能
 perftools-heading-features-experimental = 实验性
 perftools-heading-threads = 线程
-perftools-heading-local-build = 本地构建
+perftools-heading-local-build = 本地构建版本
 
 ##
 
 perftools-description-intro = 记录过程将在新标签页中打开 <a>profiler.firefox.com</a>。所有数据都存储在本地，您可以手动选择上传以进行共享。
+perftools-description-local-build = 若您要对本机自行编译的构建版本进行测量，请将其 objdir 路径添加至下方列表，以便查询调试符号信息。
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -41,6 +42,9 @@ perftools-devtools-settings-label = 设置
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    启用隐私浏览后，将禁用分析器。
+    请关闭所有隐私窗口，即可重新启用分析器
 perftools-status-recording-stopped-by-another-tool = 已被其他工具停止记录。
 perftools-status-restart-required = 必须重启浏览器才能启用此功能。
 
