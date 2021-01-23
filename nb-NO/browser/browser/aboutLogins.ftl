@@ -297,6 +297,10 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Ferdig
 about-logins-import-dialog-error-title = Importfeil
+about-logins-import-dialog-error-file-format-title = Problem med filformat
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } har ikke tillatelse til å lese filen. Prøv å endre filtillatelsene.
+about-logins-import-dialog-error-unable-to-read-description = Forsikre deg om at du valgte en CSV- eller en TSV-fil.
+about-logins-import-dialog-error-no-logins-imported = Ingen innlogginger er importert
 about-logins-import-dialog-error-learn-more = Les mer
 about-logins-import-dialog-error-try-again = Prøv igjen …
 about-logins-import-dialog-error-cancel = Avbryt
