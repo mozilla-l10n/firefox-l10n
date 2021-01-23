@@ -43,6 +43,47 @@ whatsnew-panel-footer-checkbox =
     .label = Wo nowych funkcijach informěrowaś
     .accesskey = f
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Dalšne informacije pokazaś
+profiler-popup-description-title =
+    .value = Nagraś, analyzěrować, źěliś
+profiler-popup-description = Wózjawśo profile a źělśo je ze swójim teamom, aby na wugbaśowych problemach gromadue źěłali.
+profiler-popup-learn-more = Dalšne informacije
+profiler-popup-settings =
+    .value = Nastajenja
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Nastajenja wobźěłaś…
+profiler-popup-disabled =
+    Profilowak jo tuchylu znjemóžnjony, nejskerjej dokulaž priwatne wokno
+    jo wócynjone.
+profiler-popup-recording-screen = Nagrawa se…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Swójski
+profiler-popup-start-recording-button =
+    .label = Nagraśe startowaś
+profiler-popup-discard-button =
+    .label = Zachyśiś
+profiler-popup-capture-button =
+    .label = Registrěrowanje
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Strg+Umsch+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Strg+Umsch+2
+    }
+
 ## Help panel
 
 appmenu-about =
