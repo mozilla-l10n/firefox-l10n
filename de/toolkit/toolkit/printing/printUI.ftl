@@ -17,14 +17,6 @@ printui-page-range-custom = Benutzerdefiniert
 printui-page-range-label = Seiten
 printui-page-range-picker =
     .aria-label = Seitenbereich auswählen
-printui-page-custom-range =
-    .aria-label = Benutzerdefinierten Seitenbereich eingeben
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Von
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = bis
 printui-page-custom-range-input =
     .aria-label = Benutzerdefinierten Seitenbereich eingeben
     .placeholder = z.B. 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = Ränder
 printui-margins-default = Standard
 printui-margins-min = Minimal
 printui-margins-none = Keine
-printui-margins-custom = Benutzerdefiniert
 printui-margins-custom-inches = Benutzerdefiniert (Zoll)
 printui-margins-custom-top = Oben
 printui-margins-custom-top-inches = Oberseite (Zoll)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Seiten pro Blatt
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Drucken…
+printui-print-progress-indicator-saving = Wird gespeichert…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

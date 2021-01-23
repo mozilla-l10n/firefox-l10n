@@ -101,3 +101,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Auswahl oben umgehen und alle registrierten Threads aufnehmen
+perftools-tools-threads-input-label =
+    .title = Diese Thread-Namen sind durch Kommas getrennte Listen, mit denen das Profiling der Threads im Profiler aktiviert wird. Der Name muss nur teilweise mit dem einzuschließenden Thread-Namen übereinstimmen. Leerraum wird beachtet.
