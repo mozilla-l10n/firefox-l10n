@@ -85,6 +85,7 @@ login-item-new-login-title = Направите нову пријаву
 login-item-edit-button = Уреди
 about-logins-login-item-remove-button = Уклони
 login-item-origin-label = Адреса веб странице
+login-item-tooltip-message = Проверите да ли се ово подудара са адресом веб странице где се пријављујете.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Корисничко име
@@ -213,6 +214,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Извезите пријаве и лозинке
 about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
 about-logins-confirm-export-dialog-confirm-button = Извоз…
+about-logins-alert-import-title = Увоз је завршен
+about-logins-alert-import-message = Погледајте детаљан резиме увоза
 confirm-discard-changes-dialog-title = Одбацити несачуване измене?
 confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
@@ -273,4 +276,23 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV документ
        *[other] CSV датотека
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV документ
+       *[other] TSV датотека
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Увоз је завршен
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Додана је нова пријава:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Додане су нове пријаве:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Додано је нових пријава:</span> <span data-l10n-name="count">{ $count }</span>
     }
