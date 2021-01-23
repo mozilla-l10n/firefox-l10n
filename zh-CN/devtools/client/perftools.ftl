@@ -19,6 +19,7 @@ perftools-heading-features-default = 功能（默认推荐开启）
 perftools-heading-features-disabled = 已禁用的功能
 perftools-heading-features-experimental = 实验性
 perftools-heading-threads = 线程
+perftools-heading-local-build = 本地构建
 
 ##
 
