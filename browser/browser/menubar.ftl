@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Бұл фишингті сайт емес…
     .accesskey = ш
+menu-help-check-for-update =
+    .label = Жаңартуларды тексеру…
+    .accesskey = с
