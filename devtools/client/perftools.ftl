@@ -94,3 +94,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = 忽略上面选择的项目，记录所有注册的线程
+perftools-tools-threads-input-label =
+    .title = 下方列表是要在分析器中测量性能的线程名称（以逗号分隔）。名称须与要测量的线程的名称部分匹配，且对空格敏感。
