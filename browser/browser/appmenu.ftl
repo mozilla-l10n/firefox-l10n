@@ -43,6 +43,47 @@ whatsnew-panel-footer-checkbox =
     .label = Сповіщати про нові функції
     .accesskey = в
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Розкрити більше інформації
+profiler-popup-description-title =
+    .value = Записуйте, аналізуйте, діліться
+profiler-popup-description = Співпрацюйте над проблемами швидкодії, оприлюднюючи профілі для своєї команди.
+profiler-popup-learn-more = Докладніше
+profiler-popup-settings =
+    .value = Налаштування
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Змінити налаштування…
+profiler-popup-disabled =
+    Профайлер зараз вимкнений, швидше за все, через відкрите вікно
+    приватного перегляду.
+profiler-popup-recording-screen = Запис…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Власне
+profiler-popup-start-recording-button =
+    .label = Почати запис
+profiler-popup-discard-button =
+    .label = Відхилити
+profiler-popup-capture-button =
+    .label = Захоплення
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
+
 ## Help panel
 
 appmenu-about =
