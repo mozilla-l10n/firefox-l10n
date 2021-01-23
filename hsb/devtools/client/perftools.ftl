@@ -57,10 +57,12 @@ perftools-status-restart-required = Wobhladowak dyrbi so znowa startować, zo by
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
 perftools-request-to-stop-profiler = Natočenje zastajić
+perftools-request-to-get-profile-and-stop-profiler = Profil so natoča
 
 ##
 
 perftools-button-start-recording = Natočenje startować
+perftools-button-capture-recording = Natočenje registrować
 perftools-button-cancel-recording = Zasonatočenje přetorhnyć
 perftools-button-save-settings = Nastajenja składować a so wróćić
 perftools-button-restart = Znowa startować
@@ -70,6 +72,10 @@ perftools-button-edit-settings = Nastajenja wobdźěłać…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Hłowne procesy za nadrjadowany proces a wobsahowe procesy
+perftools-thread-compositor =
+    .title = Kombinuje rozdźělne rysowane elementy na stronje
 perftools-thread-render-backend =
     .title = Nitka WebRender RenderBackend thread
 pref-thread-stream-trans =
