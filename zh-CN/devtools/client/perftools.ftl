@@ -60,7 +60,7 @@ perftools-button-capture-recording = 正在捕捉记录
 perftools-button-cancel-recording = 取消记录
 perftools-button-save-settings = 保存设置并返回
 perftools-button-restart = 重新启动
-perftools-button-add-directory = 新建目录
+perftools-button-add-directory = 添加路径
 perftools-button-remove-directory = 移除选中项
 perftools-button-edit-settings = 编辑设置…
 
