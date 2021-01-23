@@ -11,11 +11,16 @@
 
 permission-dialog-description = Tillate at denne nettstaden opnar lenka { $scheme }?
 permission-dialog-description-file = Tillate denne fila å opne lenka { $scheme }?
+permission-dialog-description-host = Tillate { $host } å opne lenka { $scheme }?
+permission-dialog-description-app = Tillate denne nettsaden å opne { $scheme } med { $appName }?
+permission-dialog-description-host-app = Tillate { $host } å opne lenka { $scheme } med { $appName }?
+permission-dialog-description-file-app = Tillate denne fila å opne lenka { $scheme } med { $appName }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+permission-dialog-remember = Tillat alltid <strong>{ $host }</strong> å opne <strong>{ $scheme }</strong>-lenker
 
 ##
 
