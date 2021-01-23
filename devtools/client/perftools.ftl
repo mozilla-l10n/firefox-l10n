@@ -28,6 +28,9 @@ perftools-heading-local-build = Lokalna wersija
 perftools-description-intro =
     Nagraśa <a>profiler.firefox.com</a> w nowem rejtariku wócynjaju. Wšykne daty se lokalnje
     składuju, ale móžośo je nagraś, aby je źělił.
+perftools-description-local-build =
+    Jolic wersiju pśespytujośo, kótaruž sćo sam kompilěrował na toś tom licadle, pśidajśo pšosym lišćinje dołojce objdir swójeje wersije, aby
+    se dał wužywas, za symbolowymi informacijami pytaś.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -97,3 +100,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Wuběrki górjejce wobejś a wšě zregistrěrowane nitki nagraś
+perftools-tools-threads-input-label =
+    .title = Toś te nitkowe mjenja su pśez komu źělona lisćina, kótaraž se wužywa, aby pśepytowanje nitkow w profilowaku zmóžnił. Mě trjeba se jano pó źělach z mjenim nitki makaś, kótarež se ma zapśimjeś. Na prozne znamjenja se źiwa.
