@@ -83,8 +83,23 @@ perftools-thread-renderer =
     .title = När WebRender är aktiverat, anropar tråden som kör OpenGL
 perftools-thread-render-backend =
     .title = WebRender RenderBackend-tråden
+perftools-thread-paint-worker =
+    .title = När målning utanför huvudtråden är aktiverad, den tråd som målningen sker på
+perftools-thread-style-thread =
+    .title = Stilberäkning är uppdelad i flera trådar
+pref-thread-stream-trans =
+    .title = Nätvärksströmstransport
+perftools-thread-socket-thread =
+    .title = Tråden där nätverkskoden kör alla blockerande socketanrop
 perftools-thread-img-decoder =
     .title = Bildavkodningstrådar
+perftools-thread-dns-resolver =
+    .title = DNS-upplösning sker på den här tråden
+perftools-thread-js-helper =
+    .title = JS-motorns bakgrundsarbete som kompileringar utanför huvudtråden
 
 ##
 
+perftools-record-all-registered-threads = Gå förbi val ovan och spela in alla registrerade trådar
+perftools-tools-threads-input-label =
+    .title = Dessa trådnamn är en kommaseparerad lista som används för att möjliggöra profilering av trådarna i profileraren. Namnet behöver bara vara en partiell matchning av trådnamnet som ska inkluderas. Den är känslig för mellanslag.
