@@ -61,6 +61,12 @@ profiler-popup-recording-screen = Niyak…
 # here only.
 profiler-popup-presets-custom =
     .label = Ichinan
+profiler-popup-start-recording-button =
+    .label = Titikïr Ruyakik
+profiler-popup-discard-button =
+    .label = Tich'aqïx
+profiler-popup-capture-button =
+    .label = Chapoj
 
 ## Help panel
 
