@@ -45,6 +45,9 @@ perftools-devtools-settings-label = Nastajenja
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Profilowak jo znjemóžnjony, gaž jo priwatny modus zmóžnjony.
+    Zacyńśo wšykne priwatne wokna, aby profilowak zasej zmóžnił
 perftools-status-recording-stopped-by-another-tool = Nagraśe jo se zastajiło pśez drugi rěd.
 perftools-status-restart-required = Wobglědowak musy se znowego startowaś, aby se toś ta funkcija zmóžniła.
 
