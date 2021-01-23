@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Претражи веб
     .title = Претражи веб
     .aria-label = Претражи веб
+newtab-search-box-text = Претражите интернет
+newtab-search-box-input =
+    .placeholder = Претражите интернет
+    .aria-label = Претражите интернет
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Додај претраживач
 newtab-topsites-add-topsites-header = Нови омиљени сајт
+newtab-topsites-add-shortcut-header = Нова пречица
 newtab-topsites-edit-topsites-header = Уреди популарне сајтове
+newtab-topsites-edit-shortcut-header = Измени пречицу
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Унесите наслов
