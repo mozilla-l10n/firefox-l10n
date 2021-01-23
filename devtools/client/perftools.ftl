@@ -35,21 +35,51 @@ perftools-description-local-build =
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Abtastintervall:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Puffergröße:
+perftools-custom-threads-label = Benutzerdefinierte Threads nach Namen hinzufügen:
+perftools-devtools-interval-label = Intervall:
+perftools-devtools-threads-label = Threads:
+perftools-devtools-settings-label = Einstellungen
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Der Profiler ist deaktivert, sobald der private Modus aktiviert ist.
+    Schließen Sie alle privaten Fenster, um den Profiler wieder zu aktivieren.
+perftools-status-recording-stopped-by-another-tool = Die Aufnahme wurde von einem anderen Werkzeug gestoppt.
+perftools-status-restart-required = Der Browser muss neugestartet werden, um diese Funktion zu aktivieren.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Aufnahme wird gestoppt
+perftools-request-to-get-profile-and-stop-profiler = Profil wird gespeichert
 
 ##
 
+perftools-button-start-recording = Aufnahme starten
+perftools-button-capture-recording = Aufnahme speichern
+perftools-button-cancel-recording = Aufnahme abbrechen
+perftools-button-save-settings = Einstellungen speichern und zurückgehen
+perftools-button-restart = Neu starten
+perftools-button-add-directory = Ein Verzeichnis hinzufügen
+perftools-button-remove-directory = Ausgewählte entfernen
+perftools-button-edit-settings = Einstellungen bearbeiten…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Die Hauptprozesse sowohl für den übergeordneten Prozess als auch für die Inhaltsprozesse
+perftools-thread-compositor =
+    .title = Kombiniert verschiedene gezeichnete Elemente auf der Seite
+perftools-thread-dom-worker =
+    .title = Dies behandelt sowohl Web-Worker als auch Service-Worker
 
 ##
 
+perftools-record-all-registered-threads = Auswahl oben umgehen und alle registrierten Threads aufnehmen
