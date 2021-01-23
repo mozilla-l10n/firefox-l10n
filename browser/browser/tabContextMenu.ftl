@@ -56,6 +56,7 @@ move-to-new-window =
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
     .label = ట్యాబుని మూసివేయి
     .accesskey = C
@@ -68,3 +69,11 @@ move-tabs =
 move-tab =
     .label = ట్యాబును తరలించండి
     .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] ట్యాబును మూసివేయి
+            [one] ట్యాబును మూసివేయి
+           *[other] ట్యాబులను మూసివేయి
+        }
+    .accesskey = C
