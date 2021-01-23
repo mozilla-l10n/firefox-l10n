@@ -88,8 +88,15 @@ perftools-thread-style-thread =
     .title = Stilowe wobličenje je do wjacorych nitkow rozdźělene
 pref-thread-stream-trans =
     .title = Syćowy prudowy transport
+perftools-thread-socket-thread =
+    .title = Nitka, hdźež syćowy kod blokowace soketowe wołanja wuwjedźe
+perftools-thread-img-decoder =
+    .title = Nitki dekodowanja wobrazow
 perftools-thread-dns-resolver =
     .title = Na tutej nitce so DNS-rozeznaće stawa
+perftools-thread-js-helper =
+    .title = Pozadkowe dźěło JS-ćěrjenja kaž na př. kompilowanja zwonka hłowneje nitki
 
 ##
 
+perftools-record-all-registered-threads = Wuběry horjeka wobeńć a wšě zregistrowane nitki natočić
