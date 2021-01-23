@@ -50,7 +50,7 @@ login-list-count =
        *[many] { $count } записів
     }
 login-list-sort-label-text = Сортувати:
-login-list-name-option = Ім'я (A-Z)
+login-list-name-option = Ім'я (А-Я)
 login-list-name-reverse-option = Назва (Z-A)
 about-logins-login-list-alerts-option = Попередження
 login-list-last-changed-option = Змінено
