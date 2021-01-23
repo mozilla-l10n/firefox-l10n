@@ -289,3 +289,10 @@ cfr-whatsnew-media-keys-button = Сазнајте како
 
 cfr-whatsnew-search-shortcuts-header = Пречице за претраживање у адресној траци
 cfr-whatsnew-search-shortcuts-body = Сада кад у адресну траку укуцате неки претраживач или одређени сајт, појавиће се плава пречица у предлозима за претраживање испод. Изаберите ту пречицу за довршавање претраживања дирекнто у адресној траци.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Заштита од злонамерних суперколачића
+
+## What's new: Better bookmarking
+
