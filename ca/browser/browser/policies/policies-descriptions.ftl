@@ -86,3 +86,6 @@ policy-SecurityDevices = Instal·la mòduls PKCS #11.
 policy-SSLVersionMax = Defineix la versió màxima de SSL.
 policy-SSLVersionMin = Defineix la versió mínima de SSL.
 policy-SupportMenu = Afegeix un element de menú d'assistència personalitzat en el menú d'ajuda.
+policy-UserMessaging = No mostra certs missatges a l'usuari.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloca les visites a pàgines web. Vegeu la documentació per a més detalls sobre el format.
