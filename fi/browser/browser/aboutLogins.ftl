@@ -280,3 +280,10 @@ about-logins-import-dialog-items-error =
        *[other] <span>Virheitä:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
     }
 about-logins-import-dialog-done = Valmis
+about-logins-import-dialog-error-title = Tuontivirhe
+about-logins-import-dialog-error-file-permission-title = Tiedostoa ei voida lukea
+about-logins-import-dialog-error-unable-to-read-title = Tiedostoa ei voida jäsentää
+about-logins-import-dialog-error-no-logins-imported = Kirjautumistietoja ei ole tuotu
+about-logins-import-dialog-error-learn-more = Lisätietoja
+about-logins-import-dialog-error-try-again = Yritä uudelleen…
+about-logins-import-dialog-error-cancel = Peruuta

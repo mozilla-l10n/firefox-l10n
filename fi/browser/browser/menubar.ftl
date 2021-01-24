@@ -336,3 +336,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Tämä ei ole petollinen sivusto…
     .accesskey = p
+menu-help-check-for-update =
+    .label = Tarkista päivitykset…
+    .accesskey = T
