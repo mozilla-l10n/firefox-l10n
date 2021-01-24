@@ -281,6 +281,9 @@ cfr-whatsnew-search-shortcuts-body = Ara, quan escriviu el nom d'un motor de cer
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Protecció contra supergaletes malicioses
+cfr-whatsnew-supercookies-body = De forma secreta, els llocs web poden adjuntar una «supergaleta» en el vostre navegador que us fa el seguiment mentre navegueu, fins i tot després d'esborrar les galetes. Ara el { -brand-short-name } ofereix una millor protecció contra les supergaletes perquè no puguin fer el seguiment de la vostra activitat a Internet d'un lloc a l'altre.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Millor gestió de les adreces d'interès
+cfr-whatsnew-bookmarking-body = És més fàcil fer un seguiment dels vostres llocs preferits. Ara el { -brand-short-name } recorda la vostra ubicació preferida per a les adreces d'interès desades, mostra per defecte la barra d'adreces d'interès en les pestanyes noves i us permet accedir fàcilment a la resta de les adreces d'interès mitjançant una carpeta en la barra d'eines.
