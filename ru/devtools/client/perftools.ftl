@@ -7,6 +7,10 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Настройки профайлера
+perftools-intro-description =
+    Запись запустит profiler.firefox.com в новой вкладке. Все данные хранятся
+    локально, но вы можете поделиться ими, выгрузив их.
 
 ## All of the headings for the various sections.
 
@@ -21,6 +25,9 @@ perftools-heading-local-build = Локальная сборка
 
 ##
 
+perftools-description-intro =
+    Запись запустит <a>profiler.firefox.com</a> в новой вкладке. Все данные хранятся
+    локально, но вы можете поделиться ими, выгрузив их.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -31,12 +38,16 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Размер буфера:
+perftools-custom-threads-label = Добавить собственные потоки по имени:
 perftools-devtools-interval-label = Интервал:
 perftools-devtools-threads-label = Потоки:
 perftools-devtools-settings-label = Настройки
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Профайлер отключается, когда включён приватный просмотр.
+    Закройте все приватные окна, чтобы заново включить профайлер
 perftools-status-recording-stopped-by-another-tool = Запись была остановлена другим инструментом.
 perftools-status-restart-required = Для включения этой функции необходимо перезапустить браузер.
 
