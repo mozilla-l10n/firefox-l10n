@@ -305,8 +305,12 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Fet
 about-logins-import-dialog-error-title = Error d'importació
+about-logins-import-dialog-error-conflicting-values-title = Un inici de sessió conté diversos valors conflictius
+about-logins-import-dialog-error-conflicting-values-description = Per exemple: diversos noms d'usuari, contrasenyes, URL, etc. per a un mateix inici de sessió.
 about-logins-import-dialog-error-file-format-title = Problema del format de fitxer
+about-logins-import-dialog-error-file-format-description = Falten les capçaleres de columna o són incorrectes. Assegureu-vos que el fitxer inclogui columnes per al nom d'usuari, la contrasenya i l'URL.
 about-logins-import-dialog-error-file-permission-title = No s’ha pogut llegir el fitxer
+about-logins-import-dialog-error-file-permission-description = El { -brand-short-name } no té permís per llegir el fitxer. Proveu de canviar els permisos del fitxer.
 about-logins-import-dialog-error-unable-to-read-title = No s’ha pogut analitzar el fitxer
 about-logins-import-dialog-error-unable-to-read-description = Assegureu-vos que heu triat un fitxer CSV (valors separats per comes) o TSV (valors separats per tabuladors).
 about-logins-import-dialog-error-no-logins-imported = No s'ha importat cap inici de sessió
