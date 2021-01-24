@@ -87,6 +87,14 @@ perftools-thread-paint-worker =
     .title = Երբ off-main-thread գունաւորումը միացած է, շղթան, որտեղ այն տեղին է ունենում
 perftools-thread-style-thread =
     .title = Ոճի հաշուարկը մասնատուում է բազմաթիւ շղթաների
+pref-thread-stream-trans =
+    .title = Ցանցային հոսքի տեղափոխում
+perftools-thread-socket-thread =
+    .title = Շղթան, որտեղ ցանցային այլագիրը աշխատեցնում է ցանկացած հանգուցային բնիկ, կոչուում է
+perftools-thread-img-decoder =
+    .title = Պատկերային այլագրման շղթաներ
+perftools-thread-dns-resolver =
+    .title = Այս շղթայում տեղի է ունենում DNS տարլուծում
 
 ##
 
