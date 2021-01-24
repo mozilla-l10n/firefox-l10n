@@ -49,6 +49,10 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Daha fazla bilgi göster
+profiler-popup-description-title =
+    .value = Kaydet, analiz et, paylaş
 profiler-popup-settings =
     .value = Ayarlar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
