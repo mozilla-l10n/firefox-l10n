@@ -84,6 +84,7 @@ login-item-new-login-title = Creescha ina nova infurmaziun d'annunzia
 login-item-edit-button = Modifitgar
 about-logins-login-item-remove-button = Allontanar
 login-item-origin-label = Adressa da la website
+login-item-tooltip-message = Controllescha che quai correspunda exact a l'adressa da la website a la quala ti t'annunzias.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Num d'utilisader
@@ -266,6 +267,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] Datoteca CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Document TSV
+       *[other] Datoteca TSV
+    }
 
 ##
 ## Variables:
@@ -289,3 +297,4 @@ about-logins-import-dialog-items-error =
        *[other] <span>Errurs:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(betg importà)</span>
     }
 about-logins-import-dialog-done = Finì
+about-logins-import-dialog-error-title = Errur d'import
