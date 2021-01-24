@@ -431,6 +431,9 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Activa els controls de vídeo d'imatge sobre imatge
     .accesskey = A
 browsing-picture-in-picture-learn-more = Més informació
+browsing-media-control =
+    .label = Controla el contingut multimèdia amb teclat, auriculars o interfície virtual
+    .accesskey = v
 browsing-media-control-learn-more = Més informació
 browsing-cfr-recommendations =
     .label = Recomana extensions durant la navegació
@@ -497,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Els llocs que visiteu més sovint
 home-prefs-topsites-by-option-sponsored =
     .label = Llocs principals patrocinats
+home-prefs-shortcuts-header =
+    .label = Dreceres
+home-prefs-shortcuts-description = Llocs que deseu o visiteu
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Dreceres patrocinades
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -504,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description-update = Contingut excepcional d'arreu del web, seleccionat per { $provider }
+home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
 
 ##
 
@@ -512,8 +521,6 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Articles patrocinats
 home-prefs-highlights-header =
     .label = Destacats
-home-prefs-recent-activity-header =
-    .label = Activitat recent
 home-prefs-highlights-description = Una selecció dels llocs que heu desat o visitat
 home-prefs-highlights-option-visited-pages =
     .label = Pàgines visitades
@@ -523,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Baixada més recent
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pàgines desades al { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Activitat recent
+home-prefs-recent-activity-description = Una selecció de continguts i llocs recents
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -530,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Retalls
 home-prefs-snippets-description = Actualitzacions de { -vendor-short-name } i del { -brand-product-name }
+home-prefs-snippets-description-new = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -921,9 +932,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Pestanyes obertes
     .accesskey = P
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Dreceres
+    .accesskey = D
 addressbar-locbar-topsites-option =
     .label = Llocs principals
     .accesskey = L
+addressbar-locbar-engines-option =
+    .label = Motors de cerca
+    .accesskey = M
 addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
 
 ## Privacy Section - Content Blocking
@@ -931,6 +949,7 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 content-blocking-enhanced-tracking-protection = Protecció contra el seguiment millorada
 content-blocking-section-top-level-description = Hi ha elements que us fan el seguiment mentre navegueu per recopilar informació sobre els vostres hàbits de navegació i interessos. El { -brand-short-name } bloca molts d'aquests elements de seguiment i altres scripts maliciosos.
 content-blocking-learn-more = Més informació
+content-blocking-fpi-incompatibility-warning = Esteu utilitzant FPI (First Party Isolation), que substitueix alguns paràmetres de galetes del { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
