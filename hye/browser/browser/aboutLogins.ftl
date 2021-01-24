@@ -84,6 +84,7 @@ login-item-new-login-title = Ստեղծել նոր մուտքանուն
 login-item-edit-button = Խմբագրել
 about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցէ
+login-item-tooltip-message = Սա պէտք է համընկնի կայքի հասցէի հետ, որտեղ գրանցուած էք։
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Աւգտանուն
@@ -206,6 +207,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանուններն ու գաղտնաբառերը
 about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել ձեր նիշքերը, կը տեսնեն գաղտնաբառերը։
 about-logins-confirm-export-dialog-confirm-button = Արտահանել
+about-logins-alert-import-title = Ներմուծումն աւարտուեց
+about-logins-alert-import-message = Նայէք մուտքագրուած մանրամասների ամփոփագիրը
 confirm-discard-changes-dialog-title = Անտեսե՞լ չպահպանուած փոփոխութիւնները։
 confirm-discard-changes-dialog-message = Բոլոր չպահպանուած փոփոխութիւնները կը կորչեն։
 confirm-discard-changes-dialog-confirm-button = Անտեսել
@@ -266,6 +269,13 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV Փաստաթուղթ
        *[other] CSV նիշ
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV փաստաթուղթ
+       *[other] TSV նիշ
     }
 
 ##
