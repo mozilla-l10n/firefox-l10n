@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Tai nėra apgaulinga svetainė…
     .accesskey = g
+menu-help-check-for-update =
+    .label = Ieškoti naujinimų…
+    .accesskey = I
