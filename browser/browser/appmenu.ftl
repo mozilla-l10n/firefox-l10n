@@ -66,6 +66,10 @@ profiler-popup-presets-custom =
     .label = მორგებული
 profiler-popup-start-recording-button =
     .label = ჩაწერის დაწყება
+profiler-popup-discard-button =
+    .label = გაუქმება
+profiler-popup-capture-button =
+    .label = აღება
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
