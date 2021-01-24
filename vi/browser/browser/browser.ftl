@@ -338,6 +338,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Đóng
 
+## Tab actions
+
+browser-tab-audio-playing = Đang phát
+browser-tab-audio-muted = Đã tắt tiếng
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -498,6 +503,13 @@ pointerlock-warning-no-domain = Trang này có quyền điều khiển con trỏ
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Một phần của trang này đã bị vớ.</strong> Để { -brand-product-name } biết về lỗi này và sửa nó nhanh hơn, vui lòng báo cáo nó.
+crashed-subframe-learnmore =
+    .label = Tìm hiểu thêm
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Gửi báo cáo
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
