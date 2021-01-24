@@ -15,6 +15,13 @@ perftools-intro-description =
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Ամբողջական կարգաւորումներ
+perftools-heading-buffer = Պահնակի կարգաւորումներ
+perftools-heading-features = Գործառոյթներ
+perftools-heading-features-default = Գործառոյթներ (սկզբնադիր առաջարկուող)
+perftools-heading-features-disabled = Անջատած գործառոյթներ
+perftools-heading-features-experimental = Փորձարարական
+perftools-heading-threads = Շղթաներ
+perftools-heading-local-build = Տեղային կառոյց
 
 ##
 
