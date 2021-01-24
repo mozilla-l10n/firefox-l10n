@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Որոնել առցանց
     .title = Որոնել առցանց
     .aria-label = Որոնել առցանց
+newtab-search-box-text = Որոնել առցանց
+newtab-search-box-input =
+    .placeholder = Որոնել առցանց
+    .aria-label = Որոնել առցանց
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Աւելացնել որոնիչ
 newtab-topsites-add-topsites-header = Նոր լաւագոյն կայքեր
+newtab-topsites-add-shortcut-header = Նոր դիւրանցում
 newtab-topsites-edit-topsites-header = Խմբագրել լաւագոյն կայքերը
+newtab-topsites-edit-shortcut-header = Խմբագրել դիւրանցումը
 newtab-topsites-title-label = Անուանում
 newtab-topsites-title-input =
     .placeholder = Մուտքագրեք անուանում
