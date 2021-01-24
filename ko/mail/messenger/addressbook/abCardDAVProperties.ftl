@@ -22,3 +22,6 @@ carddav-refreshinterval-hours-value =
         { $hours ->
            *[other] { $hours }시간마다
         }
+carddav-readonly-label =
+    .label = 읽기 전용
+    .accesskey = R
