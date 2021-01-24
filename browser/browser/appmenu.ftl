@@ -49,8 +49,11 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = მეტი ინფორმაციის გამოვლენა
 profiler-popup-description-title =
     .value = ჩაწერა, გამოკვლევა, გაზიარება
+profiler-popup-description = იმუშავეთ წარმადობის საკითხებზე მახასიათებლების გამოქვეყნებით, გუნდისთვის გასაზიარებლად.
 profiler-popup-learn-more = ვრცლად
 profiler-popup-settings =
     .value = პარამეტრები

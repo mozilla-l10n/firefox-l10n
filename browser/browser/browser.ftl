@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = დახურვა
 
+## Tab actions
+
+browser-tab-audio-playing = გაშვებულია
+browser-tab-audio-muted = დადუმებულია
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +511,13 @@ pointerlock-warning-no-domain = ეს დოკუმენტი მართ�
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>გვერდის ნაწილი უეცრად გაითიშა.</strong> თუ გსურთ { -brand-product-name } გაეცნოს ამ ხარვეზს მალე გამოსასწორებლად, გთხოვთ გაგზავნოთ მოხსენება.
+crashed-subframe-learnmore =
+    .label = ვრცლად
+    .accesskey = ლ
+crashed-subframe-submit =
+    .label = მოხსენების გაგზავნა
+    .accesskey = ო
 
 ## Bookmarks panels, menus and toolbar
 
