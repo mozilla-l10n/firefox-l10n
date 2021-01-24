@@ -189,6 +189,7 @@ support-third-party-modules-title = Üçüncü taraf modülleri
 support-third-party-modules-module = Modül dosyası
 support-third-party-modules-version = Dosya sürümü
 support-third-party-modules-vendor = Sağlayıcı bilgileri
+support-third-party-modules-occurrence = Tekrar
 support-third-party-modules-process = İşlem türü ve kimliği
 support-third-party-modules-thread = İş parçacığı
 support-third-party-modules-base = Imagebase adresi
