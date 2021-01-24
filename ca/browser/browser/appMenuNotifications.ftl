@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = u
     .secondarybuttonlabel = Ara no
     .secondarybuttonaccesskey = n
+appmenu-update-other-instance-message = Hi ha disponible una actualització del { -brand-shorter-name }, però no es pot instal·lar perquè hi ha una altra còpia del { -brand-shorter-name } en execució. Tanqueu-la per a continuar l'actualització, o trieu actualitzar-la igualment (és possible que l'altra còpia no funcioni correctament fins que no la reinicieu).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Entesos
     .buttonaccesskey = E
