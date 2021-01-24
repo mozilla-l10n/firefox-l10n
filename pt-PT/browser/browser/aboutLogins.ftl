@@ -84,6 +84,7 @@ login-item-new-login-title = Criar nova credencial
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Endereço do site
+login-item-tooltip-message = Certifique-se que isto corresponde ao endereço exato do site onde se autenticou.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome de utilizador
@@ -266,6 +267,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Documento CSV
        *[other] Ficheiro CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Documento TSV
+       *[other] Ficheiro TSV
+    }
 
 ##
 ## Variables:
@@ -293,3 +301,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Erros:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importadas)</span>
     }
 about-logins-import-dialog-done = Concluído
+about-logins-import-dialog-error-title = Erro de importação
+about-logins-import-dialog-error-conflicting-values-title = Múltiplos valores conflituantes para Credencial Única
+about-logins-import-dialog-error-conflicting-values-description = Por exemplo: vários nomes de utilizador, palavras-passe, endereços, etc. para uma credencial.
