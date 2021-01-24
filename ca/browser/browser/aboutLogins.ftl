@@ -84,6 +84,7 @@ login-item-new-login-title = Crea un inici de sessió
 login-item-edit-button = Edita
 about-logins-login-item-remove-button = Elimina
 login-item-origin-label = Adreça del lloc web
+login-item-tooltip-message = Assegureu-vos que coincideixi amb l'adreça exacta del lloc web on inicieu la sessió.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nom d'usuari
@@ -266,8 +267,15 @@ about-logins-import-file-picker-import-button = Importa
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
-        [macos] Document CSV
-       *[other] Fitxer CSV
+        [macos] Document CSV (valors separats per comes)
+       *[other] Fitxer CSV (valors separats per comes)
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Document TSV (valors separats per tabuladors)
+       *[other] Fitxer TSV (valors separats per tabuladors)
     }
 
 ##
@@ -296,3 +304,12 @@ about-logins-import-dialog-items-error =
        *[other] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'han importat)</span>
     }
 about-logins-import-dialog-done = Fet
+about-logins-import-dialog-error-title = Error d'importació
+about-logins-import-dialog-error-file-format-title = Problema del format de fitxer
+about-logins-import-dialog-error-file-permission-title = No s’ha pogut llegir el fitxer
+about-logins-import-dialog-error-unable-to-read-title = No s’ha pogut analitzar el fitxer
+about-logins-import-dialog-error-unable-to-read-description = Assegureu-vos que heu triat un fitxer CSV (valors separats per comes) o TSV (valors separats per tabuladors).
+about-logins-import-dialog-error-no-logins-imported = No s'ha importat cap inici de sessió
+about-logins-import-dialog-error-learn-more = Més informació
+about-logins-import-dialog-error-try-again = Torna-ho a provar…
+about-logins-import-dialog-error-cancel = Cancel·la
