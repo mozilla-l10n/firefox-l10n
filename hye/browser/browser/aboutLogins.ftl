@@ -267,3 +267,29 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV Փաստաթուղթ
        *[other] CSV նիշ
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Ներմուծումն աւարտուեց
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span> Նոր մտից անուններն աւելացուած են. </span> <span data-l10n-name="count"> { $count } </span>
+       *[other] <span> Նոր մտից անուններն աւելացուած են. </span> <span data-l10n-name="count"> { $count } </span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span> գոյութիւն ունեցեղ մտից անունները թարմացուել են. </span> <span data-l10n-name="count"> { $count } </span>
+       *[other] <span> գույութիւն ունեցող մտից անունները թարմացուում են. </span> <span data-l10n-name="count"> { $count } </span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span> Կրկնաւրինակէք յայտնաբերուած մտից անունները. </span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta"> (ներմուծուած չեն) </span>
+       *[other] <span> Կրկնաւրինակէք յայտնաբերաուած մտից անունները. </span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta"> (ներմուծուած չեն) </span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span> Սխալներ. </span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta"> (ներմուծուած չեն) </span>
+       *[other] <span> Սխալներ. </span> <span data-l10n-name="count"> { $count } </span> <span data-l10n-name="meta"> (ներմուծուած չեն) </span>
+    }
