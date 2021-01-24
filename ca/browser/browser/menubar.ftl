@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = No és cap lloc enganyós…
     .accesskey = N
+menu-help-check-for-update =
+    .label = Cerca actualitzacions…
+    .accesskey = C

@@ -67,6 +67,16 @@ profiler-popup-discard-button =
     .label = Descarta
 profiler-popup-capture-button =
     .label = Captura
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Maj+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Maj+2
+    }
 
 ## Help panel
 
@@ -114,3 +124,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Cerca actualitzacions…
