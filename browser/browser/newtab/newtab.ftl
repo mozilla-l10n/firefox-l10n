@@ -8,6 +8,9 @@
 newtab-page-title = Pestanya nova
 newtab-settings-button =
     .title = Personalitzeu la pàgina de pestanya nova
+newtab-personalize-button-label = Personalitza
+    .title = Personalitza la pestanya nova
+    .aria-label = Personalitza la pestanya nova
 
 ## Search box component.
 
@@ -20,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Cerca al web
     .title = Cerca al web
     .aria-label = Cerca al web
+newtab-search-box-text = Cerca al web
+newtab-search-box-input =
+    .placeholder = Cerca al web
+    .aria-label = Cerca al web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Afegeix un motor de cerca
 newtab-topsites-add-topsites-header = Lloc principal nou
+newtab-topsites-add-shortcut-header = Drecera nova
 newtab-topsites-edit-topsites-header = Edita el lloc principal
+newtab-topsites-edit-shortcut-header = Edita la drecera
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Escriviu el títol
@@ -207,3 +216,27 @@ newtab-pocket-cta-text = Deseu els vostres articles preferits al { -pocket-brand
 
 newtab-error-fallback-info = Vaja, s'ha produït un error en carregar aquest contingut.
 newtab-error-fallback-refresh-link = Actualitzeu la pàgina per tornar-ho a provar.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Dreceres
+newtab-custom-shortcuts-subtitle = Llocs que deseu o visiteu
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } fila
+       *[other] { $num } files
+    }
+newtab-custom-sponsored-sites = Dreceres patrocinades
+newtab-custom-pocket-title = Recomanat pel { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Contingut excepcional seleccionat per { -pocket-brand-name }, part de la família de { -brand-product-name }
+newtab-custom-pocket-sponsored = Articles patrocinats
+newtab-custom-recent-title = Activitat recent
+newtab-custom-recent-subtitle = Una selecció de llocs i continguts recents
+newtab-custom-close-button = Tanca
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Retalls
+newtab-custom-snippets-subtitle = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
+newtab-custom-settings = Gestiona més paràmetres
