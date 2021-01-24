@@ -58,12 +58,25 @@ perftools-status-restart-required = Դիտարկիչը պէտք է վերամե�
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
 perftools-request-to-stop-profiler = Ձայնագրութիւնն անջատել
+perftools-request-to-get-profile-and-stop-profiler = Նկարահանում է հաշիւը
 
 ##
 
+perftools-button-start-recording = Սկսել ձայնագրութիւնը
+perftools-button-capture-recording = Նկարահանել ձայնագրութիւնը
+perftools-button-cancel-recording = Չեղարկել ձայնագրութիւնը
+perftools-button-save-settings = Պահել կարգաւորումները եւ վերադառնալ
+perftools-button-restart = Վերամեկնարկել
+perftools-button-add-directory = Աւելացնել գրացուցակ
+perftools-button-remove-directory = Հեռացնել ընտրուածը
+perftools-button-edit-settings = Խմբագրել կարգաւորումները…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Հիմնական գործընթացները ծնողական եւ բովանդակութեան գործընթացների համար
+perftools-thread-compositor =
+    .title = Միաւորում է էջի վրայ տարբեր կերպ ներկուած տարրերը
 
 ##
 
