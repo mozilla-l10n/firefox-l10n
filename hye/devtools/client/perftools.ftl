@@ -95,6 +95,9 @@ perftools-thread-img-decoder =
     .title = Պատկերային այլագրման շղթաներ
 perftools-thread-dns-resolver =
     .title = Այս շղթայում տեղի է ունենում DNS տարլուծում
+perftools-thread-js-helper =
+    .title = JS սարքի յետնապատկերի աշխատանքը, աւրինակ, off-main-thread, կազմարկում է
 
 ##
 
+perftools-record-all-registered-threads = Շրջանցէք վերոնշեալ ընտրութիւնները եւ ձայնագրէք բոլոր գրանցուած շղթաները
