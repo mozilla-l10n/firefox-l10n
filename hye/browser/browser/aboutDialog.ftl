@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Ստուգուում է թարմացումները
 update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում — <label data-l10n-name="download-status"/>
+update-downloading-message = Բեռնում է թարմացումը — <label data-l10n-name="download-status"/>
 update-applying = Թարմացման կիրառում...
 update-failed = Թարմացումը չյաջողուեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չյաջողուեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
@@ -24,6 +25,8 @@ update-unsupported = Չեք կարող կատարել յետագայ թարմա�
 update-restarting = Վերամեկնարկում…
 channel-description = Այժմ գործում է <label data-l10n-name="current-channel"></label> թարմացումների աղբիւրը։
 warningDesc-version = { -brand-short-name }-ն փորձնական է եւ կայուն չի աշխատի։
+aboutdialog-help-user = { -brand-product-name } Աւգնութիւն
+aboutdialog-submit-feedback = Յետադարձ կապ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> հանդիսանում է <label data-l10n-name="community-exp-creditsLink">ընդհանուր համայնք</label>, որոնք աշխատում են միասին՝ ապահովելու համացանցի հասանելիութիւնը բոլորի համար։
 community-2 = { -brand-short-name }-ը ստեղծել է <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>-ը՝ <label data-l10n-name="community-creditsLink">ընդհանուր համայնք</label>, որոնք աշխատում են միասին՝ ապահովելու համացանցի հասանելիութիւնը բոլորի համար։
 helpus = Ցանկանու՞մ եք աւգնել։ <label data-l10n-name="helpus-donateLink">Կատարեք նուիրատվութիւն</label> կամ <label data-l10n-name="helpus-getInvolvedLink">միացեք մեր համայնքին։</label>
