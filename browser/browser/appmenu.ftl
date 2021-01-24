@@ -59,6 +59,28 @@ profiler-popup-settings =
     .value = Nuostatos
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Keisti nuostatas…
+profiler-popup-disabled = Profiliuoklė šiuo metu išjungta, greičiausiai dėl atverto privačiojo naršymo lango.
+profiler-popup-recording-screen = Įrašinėjama…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Pasirinktinės
+profiler-popup-start-recording-button =
+    .label = Pradėti įrašymą
+profiler-popup-discard-button =
+    .label = Atsisakyti
+profiler-popup-capture-button =
+    .label = Užfiksuoti
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -106,3 +128,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Ieškoti naujinimų…

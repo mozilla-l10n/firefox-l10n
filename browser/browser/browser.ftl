@@ -348,6 +348,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Užverti
 
+## Tab actions
+
+browser-tab-audio-playing = Groja
+browser-tab-audio-muted = Nutildyta
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -508,6 +513,13 @@ pointerlock-warning-no-domain = Šis dokumentas valdo jūsų žymeklį. Spustel�
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Dalis šio tinklalapio užstrigo.</strong> Norėdami pranešti apie šią problemą „{ -brand-product-name }“ ir greičiau ją išspręsti, nusiųskite pranešimą.
+crashed-subframe-learnmore =
+    .label = Sužinoti daugiau
+    .accesskey = S
+crashed-subframe-submit =
+    .label = Siųsti pranešimą
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
