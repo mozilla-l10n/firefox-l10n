@@ -77,8 +77,12 @@ policy-PictureInPicture = Activa o desactiva el mode d'Imatge sobre imatge.
 policy-PopupBlocking = Permet que determinats llocs web mostrin finestres emergents per defecte.
 policy-PromptForDownloadLocation = Demana on es desaran els fitxers en baixar-los.
 policy-Proxy = Configura els paràmetres del servidor intermediari.
+policy-RequestedLocales = Defineix la llista de llengües sol·licitades per a l'aplicació, en ordre de preferència.
+policy-SanitizeOnShutdown2 = Esborra les dades de navegació en sortir.
+policy-SearchBar = Defineix la ubicació per defecte de la barra de cerca. L'usuari encara la pot personalitzar.
 policy-SearchSuggestEnabled = Activa o desactiva els suggeriments de cerca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instal·la mòduls PKCS #11.
 policy-SSLVersionMax = Defineix la versió màxima de SSL.
 policy-SSLVersionMin = Defineix la versió mínima de SSL.
+policy-SupportMenu = Afegeix un element de menú d'assistència personalitzat en el menú d'ajuda.
