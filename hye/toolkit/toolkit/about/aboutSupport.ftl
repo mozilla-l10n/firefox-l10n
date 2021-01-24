@@ -185,6 +185,32 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Երրորդ կողմի հանգոյցներ
+support-third-party-modules-module = Հանգուցակի նիշը
+support-third-party-modules-version = Նիշի տարբերակը
+support-third-party-modules-vendor = Վաճառողի տեղեկատուութիւն
+support-third-party-modules-occurrence = Դէպք
+support-third-party-modules-process = Գործընթացի տեսակը եւ ID-ն
+support-third-party-modules-thread = Շղթայ
+support-third-party-modules-base = Պատկերի հիմնային բեռնման հասցէն
+support-third-party-modules-uptime = Գործընթացի սարքին վիճակի ժամանակ (մվ)
+support-third-party-modules-duration = Բեռնուում է տեւողութիւնը (մվ)
+support-third-party-modules-empty = Երրորդ կողմի հանգոյցներ չեն բեռնուել:
+support-third-party-modules-no-value = (Չկայ արժէք)
+support-third-party-modules-button-open =
+    .title = Բացել նիշի տեղադրութիւնը…
+support-third-party-modules-expand =
+    .title = Ցուցադրել մանրամասն տեղեկոյթ
+support-third-party-modules-collapse =
+    .title = Թաքցնել մանրամասն տեղեկոյթը
+support-third-party-modules-unsigned-icon =
+    .title = Այս հանգոյցը ստորագրուած չէ
+support-third-party-modules-folder-icon =
+    .title = Բացել նիշի տեղադրութիւնը…
+support-third-party-modules-down-icon =
+    .title = Ցուցադրել մանրամասն տեղեկոյթ
+support-third-party-modules-up-icon =
+    .title = Թաքցնել մանրամասն տեղեկոյթը
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
