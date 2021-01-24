@@ -85,6 +85,7 @@ login-item-new-login-title = Nowe dane logowanio
 login-item-edit-button = Edytuj
 about-logins-login-item-remove-button = Skasuj
 login-item-origin-label = Adresa ôd serwera
+login-item-tooltip-message = Dej pozōr, coby adres akuratnie sztimowoł z adresym, na kerym sie logujesz.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Miano ôd używocza
@@ -188,10 +189,31 @@ about-logins-confirm-remove-all-dialog-title =
         [few] Skasować { $count } danych logowanio?
        *[many] Skasować { $count } danych logowanio?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
+        [one] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
+        [few] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
+       *[many] Skasuje to dane logowanio spamiyntane w aplikacyji { -brand-short-name } i wszyske wycieki danych, co sam sōm pokozane. Niy pōdzie cofnōnć tyj akcyje.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Skasować { $count } dane logowanio ze wszyskich maszin?
+        [few] Skasować { $count } dane logowanio ze wszyskich maszin?
+       *[many] Skasować { $count } dane logowanio ze wszyskich maszin?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
+        [one] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
+        [few] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
+       *[many] Skasuje to wszyske dane logowanio spamiyntane w aplikacyji { -brand-short-name } na wszyskich maszinach synchrōnizowanych ze { -fxaccount-brand-name }. Skasuje to tyż wszyske wycieki danych, co sōm sam pokozane. Niy pōdzie cofnōć tyj akcyje.
+    }
 about-logins-confirm-export-dialog-title = Eksportuj dane logowanio i hasła
 about-logins-confirm-export-dialog-message = Twoje hasła bydōm spamiyntane za czytelny tekst (bp. Złeh@sł0), tōż kożdy, fto bydzie mōg ôtworzić eksportowany zbiōr, bydzie je widzieć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
 about-logins-alert-import-title = Import je skōńczōny
+about-logins-alert-import-message = Pokoż akuratne podsumowanie importu
 confirm-discard-changes-dialog-title = Ôdciepnōńć niyspamiyntane umiany?
 confirm-discard-changes-dialog-message = Wszyjske niyspamiyntane umiany bydōm stracōne.
 confirm-discard-changes-dialog-confirm-button = Ôdciep
@@ -253,9 +275,17 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokumynt CSV
        *[other] Zbiōr CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumynt TSV
+       *[other] Zbiōr TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Import je skōńczōny
 about-logins-import-dialog-done = Fertich
