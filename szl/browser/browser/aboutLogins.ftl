@@ -288,4 +288,32 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import je skōńczōny
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Nowe dane logowanio sōm przidane:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Nowe dane logowanio sōm przidane:</span><span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Nowe dane logowanio sōm przidane:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Nowe dane logowanio sōm aktualniynte:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Znodniynte sōm tuplowane dane logowanio:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
+        [few] <span>Znodniynte sōm tuplowane dane logowanio:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
+       *[many] <span>Znodniynte sōm tuplowane dane logowanio:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Felery:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
+        [few] <span>Felery:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
+       *[many] <span>Felery:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(niyzaimportowane)</span>
+    }
 about-logins-import-dialog-done = Fertich
+about-logins-import-dialog-error-title = Feler importu
+about-logins-import-dialog-error-conflicting-values-title = Pora spornych wertōw do tych samych danych logowanio
+about-logins-import-dialog-error-conflicting-values-description = Bez przikłod: pora mianōw użytkownika, haseł, adresōw URLs, itp do tych samych danych logowanio.
+about-logins-import-dialog-error-file-format-title = Problym z formatym zbioru
