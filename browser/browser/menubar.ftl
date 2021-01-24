@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Đây không phải là một trang lừa đảo…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Kiểm tra cập nhật…
+    .accesskey = C
