@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Փակել
 
+## Tab actions
+
+browser-tab-audio-playing = Նուագարկում
+browser-tab-audio-muted = Համրեցուած
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -503,6 +508,9 @@ fullscreen-exit-mac-button = Ելնել լիեկրանից (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ղեկավարում է Ձեր ցուցիչը: Սեղմէք Esc՝ ղեկավարումը յետ վերադարձնելու համար։
 pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարում է Ձեր ցուցիչը։ Սեղմէք Esc՝ ղեկավարումը յետ վերադարձնելու համար։
+
+## Subframe crash notification
+
 
 ## Bookmarks panels, menus and toolbar
 

@@ -71,6 +71,18 @@ profiler-popup-start-recording-button =
     .label = Սկսել գրանցումը
 profiler-popup-discard-button =
     .label = Անտեսել
+profiler-popup-capture-button =
+    .label = Նկարահանել
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -118,3 +130,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Ստուգէք թարմացումները…
