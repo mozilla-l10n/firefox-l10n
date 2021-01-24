@@ -259,14 +259,58 @@
 
 <!ENTITY event.reminder.multiple.label                    "Բազմակի յիշեցումներ…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Ժամանակը որպէս՝">
+<!ENTITY event.statusbarpanel.privacy.label               "Գաղտնիութիւն՝">
 
 <!-- Recurrence dialog -->
+<!ENTITY recurrence.title.label                         "Խմբագրել կրկնութիւնը">
 
+<!ENTITY event.repeat.does.not.repeat.label             "Չի կրկնուում">
+<!ENTITY event.repeat.daily.label                       "Աւրական">
+<!ENTITY event.repeat.weekly.label                      "Շաբաթական">
+<!ENTITY event.repeat.every.weekday.label               "Ամէն աշխատանքային աւր">
+<!ENTITY event.repeat.bi.weekly.label                   "Երկշաբաթական">
+<!ENTITY event.repeat.monthly.label                     "Ամսական">
+<!ENTITY event.repeat.yearly.label                      "Տարեկան">
+<!ENTITY event.repeat.custom.label                      "Ընտրել…">
 
+<!ENTITY event.recurrence.pattern.label                 "Սահմանել կրկնութիւն">
+<!ENTITY event.recurrence.occurs.label                  "Կրկնութիւն" >
+<!ENTITY event.recurrence.day.label                     "աւրական" >
+<!ENTITY event.recurrence.week.label                    "շաբաթական" >
+<!ENTITY event.recurrence.month.label                   "ամսական" >
+<!ENTITY event.recurrence.year.label                    "տարեկան" >
 
+<!ENTITY event.recurrence.pattern.every.label           "Ամէն" >
+<!ENTITY repeat.units.days.both                         "Աւր(եր)" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Ամէն աշխատանքային աւր" >
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Ամէն" >
+<!ENTITY repeat.units.weeks.both                        "Շաբաթ(ներ)" >
+<!ENTITY event.recurrence.on.label                      "Վրայ՝" >
 
+<!ENTITY event.recurrence.pattern.monthly.every.label   "Ամէն" >
+<!ENTITY repeat.units.months.both                       "Ամիս(ներ)" >
+<!ENTITY event.recurrence.monthly.every.label           "Ամէն" >
+<!ENTITY event.recurrence.monthly.first.label           "Առաջին">
+<!ENTITY event.recurrence.monthly.second.label          "Երկրորդ">
+<!ENTITY event.recurrence.monthly.third.label           "Երրորդ">
+<!ENTITY event.recurrence.monthly.fourth.label          "Չորրորդ">
+<!ENTITY event.recurrence.monthly.fifth.label           "Հինգերորդ">
+<!ENTITY event.recurrence.monthly.last.label            "Վերջին">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Կիրակի" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Երկուշաբթի" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Երեքշաբթի" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Չորեքշաբթի" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Հինգշաբթի" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Ուրբաթ" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Շաբաթ" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Ամսուայ աւրը">
+<!ENTITY event.recurrence.repeat.recur.label            "Կրկնել աւրուայ(երի) ընթացքում">
 
+<!ENTITY event.recurrence.every.label                        "Ամէն՝" >
+<!ENTITY repeat.units.years.both                             "Տարի(ներ)" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Ամէն" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -275,10 +319,59 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
+<!ENTITY event.recurrence.pattern.yearly.of.label            "ի" >
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Յունուար" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Փետրուար" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Մարտ" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Ապրիլ" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Մայիս" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Յունիս" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Յուլիս" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Աւգոստոս" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Սեպտեմբեր" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Հոկտեմբեր" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Նոյեմբեր" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Դեկտեմբեր" >
+<!ENTITY event.recurrence.yearly.every.label                 "Ամէն">
+<!ENTITY event.recurrence.yearly.first.label                 "Առաջին">
+<!ENTITY event.recurrence.yearly.second.label                "Երկրորդ">
+<!ENTITY event.recurrence.yearly.third.label                 "Երրորդ">
+<!ENTITY event.recurrence.yearly.fourth.label                "Չորրորդ">
+<!ENTITY event.recurrence.yearly.fifth.label                 "Հինգերորդ">
+<!ENTITY event.recurrence.yearly.last.label                  "Վերջին">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Կիրակի" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Երկուշաբթի" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Երեքշաբթի" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Չորեքշաբթի" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Հինգշաբթի" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Ուրբաթ" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Շաբաթ" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "աւր" >
+<!ENTITY event.recurrence.of.label                           "ի" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Յունուար" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Փետրուար" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Մարտ" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Ապրիլ" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Մայիս" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Յունիս" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Յունիս" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Աւգոստոս" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Սեպտեմբեր" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Հոկտեմբեր" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Նոյեմբեր" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Դեկտեմբեր" >
 
+<!ENTITY event.recurrence.range.label                   "Կրկնութեան միջակայք">
+<!ENTITY event.recurrence.forever.label                 "Վերջնաժամկէտ չկայ" >
+<!ENTITY event.recurrence.repeat.for.label              "Ստեղծել" >
+<!ENTITY event.recurrence.appointments.label            "Հանդիպում(ներ)" >
+<!ENTITY event.repeat.until.label                       "Կրկնել մինչեւ" >
+<!ENTITY event.recurrence.preview.label                 "Նախադիտում">
 
 <!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "Հրաւիրել այղ մասնակիցների">
+<!ENTITY event.organizer.label                  "Կազմակերպիչ">
 
 <!-- Timezone dialog -->
 
