@@ -47,11 +47,32 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Показать дополнительную информацию
+profiler-popup-description-title =
+    .value = Записывайте, анализируйте, делитесь
+profiler-popup-description = Совместная работа над производительностью с помощью публикации профилей, которыми можно поделиться со своей командой.
 profiler-popup-learn-more = Подробнее
 profiler-popup-settings =
     .value = Настройки
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Изменить настройки…
+profiler-popup-disabled =
+    Профайлер в настоящее время отключён, скорее всего, из-за того, что открыто
+    окно приватного просмотра.
+profiler-popup-recording-screen = Запись…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Пользовательские
+profiler-popup-start-recording-button =
+    .label = Начать запись
+profiler-popup-discard-button =
+    .label = Отменить
+profiler-popup-capture-button =
+    .label = Захватить
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
