@@ -8,6 +8,9 @@
 newtab-page-title = Nowo karta
 newtab-settings-button =
     .title = Napasuj strōna nowyj karty
+newtab-personalize-button-label = Napasuj
+    .title = Napasuj nowo karta
+    .aria-label = Napasuj nowo karta
 
 ## Search box component.
 
@@ -15,27 +18,30 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Szukej
     .aria-label = Szukej
-
 newtab-search-box-search-the-web-text = Szukej w internecie
 newtab-search-box-search-the-web-input =
     .placeholder = Szukej w internecie
     .title = Szukej w internecie
+    .aria-label = Szukej w internecie
+newtab-search-box-text = Szukej w internecie
+newtab-search-box-input =
+    .placeholder = Szukej w internecie
     .aria-label = Szukej w internecie
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Przidej wyszukowarka
 newtab-topsites-add-topsites-header = Nowo topowo strōna
+newtab-topsites-add-shortcut-header = Nowy skrōt
 newtab-topsites-edit-topsites-header = Edytuj topowo strōna
+newtab-topsites-edit-shortcut-header = Edytuj skrōt
 newtab-topsites-title-label = Tytuł
 newtab-topsites-title-input =
     .placeholder = Wkludź tytuł
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Wpisz abo wraź adresa URL
 newtab-topsites-url-validation = Potrzebno je dobro adresa URL
-
 newtab-topsites-image-url-label = Adresa URL ôd włosnego ôbrozka
 newtab-topsites-use-image-link = Użyj włosnego ôbrozka…
 newtab-topsites-image-validation = Niy podarziło sie zaladować ôbrozka. Sprōbuj inkszyj adresy URL.
@@ -54,18 +60,20 @@ newtab-confirm-delete-history-p1 = Na zicher skasować wszyskie wystōmpiynia ty
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tyj akcyje niy idzie cofnōńć.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Spōnsorowane
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Ôdewrzij myni
     .aria-label = Ôdewrzij myni
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Skasuj
     .aria-label = Skasuj
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -134,12 +142,10 @@ newtab-label-removed-bookmark = Zokłodka je wyciepano
 newtab-label-recommended = Popularne
 newtab-label-saved = Spamiyntane do { -pocket-brand-name(case: "gen") }
 newtab-label-download = Pobrane
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Spōnsorowane
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -170,6 +176,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Topowe strōny
 newtab-section-header-highlights = Szumne
+newtab-section-header-recent-activity = Niydowno aktywność
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Rekōmyndowane ôd { $provider }
@@ -177,12 +184,10 @@ newtab-section-header-pocket = Rekōmyndowane ôd { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Zacznij przeglōndać internet, a my pokożymy ci sam szumne artikle, filmy a inksze strōny niydowno nawiedzōne abo przidane do zokłodek.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = To tela. Wejrzij sam niyskorzij za nowymi artiklami ôd { $provider }. Niy umisz sie doczkać? Ôbier popularny tymat, coby znojś inkszo ciekawo zawartość z cołkigo neca.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -207,3 +212,28 @@ newtab-pocket-cta-text = Spamiyntuj we { -pocket-brand-name(case: "loc") } tekst
 
 newtab-error-fallback-info = Cosik sie niy podarziło przi wczytowaniu tyj zawartości.
 newtab-error-fallback-refresh-link = Ôdświyż strōna, coby sprōbować jeszcze roz.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Skrōty
+newtab-custom-shortcuts-subtitle = Spamiyntane i nawiydzane strōny
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } raja
+        [few] { $num } raje
+       *[many] { $num } raji
+    }
+newtab-custom-sponsored-sites = Spōnsorowane skrōty
+newtab-custom-pocket-title = Doradzōne ôd { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Ekstra zawartość ôbrano ôd { -pocket-brand-name }, co je we familiji { -brand-product-name }
+newtab-custom-pocket-sponsored = Spōnsorowane nowiny
+newtab-custom-recent-title = Niydowno aktywność
+newtab-custom-recent-subtitle = Wybōr z niydownych strōn i zawartości
+newtab-custom-close-button = Zawrzij
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Krōtkie informacyje
+newtab-custom-snippets-subtitle = Dorady i nowiny ze { -vendor-short-name } a aplikacyje { -brand-product-name }
+newtab-custom-settings = Inksze nasztalowania

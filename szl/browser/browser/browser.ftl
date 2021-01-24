@@ -478,11 +478,22 @@ urlbar-result-action-before-tabtosearch-web = Prziciś Tab, coby szukać ze { $e
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Prziciś Tab, coby szukać na { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Szukej ze { $engine } zaroz na posku z adresōm
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Szukej na { $engine } zaroz na posku z adresōm
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Szukej we zokłodkach
+urlbar-result-action-search-history = Szukej w historyji
+urlbar-result-action-search-tabs = Szukej po kartach
 
 ## Full Screen and Pointer Lock UI
 
@@ -502,6 +513,13 @@ pointerlock-warning-no-domain = Tyn dokumynt kōntroluje twōj kursor. Coby cofn
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Kōnsek tyj strōny mo awaryjo.</strong>. Poślij raport, coby { -brand-product-name } sie ô tym przewiedzioł i pryndzyj to naprawiōł.
+crashed-subframe-learnmore =
+    .label = Przewiydz sie wiyncyj
+    .accesskey = P
+crashed-subframe-submit =
+    .label = Poślij rapaort
+    .accesskey = R
 
 ## Bookmarks panels, menus and toolbar
 
@@ -563,6 +581,8 @@ library-bookmarks-bookmark-this-page =
     .label = Przidej ta strōna do zokłodek
 library-bookmarks-bookmark-edit =
     .label = Edytuj ta zokłodka
+library-recent-activity-title =
+    .value = Niydowno aktywność
 
 ## More items
 
