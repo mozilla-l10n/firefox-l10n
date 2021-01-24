@@ -49,6 +49,33 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-description-title =
+    .value = ჩაწერა, გამოკვლევა, გაზიარება
+profiler-popup-learn-more = ვრცლად
+profiler-popup-settings =
+    .value = პარამეტრები
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = პარამეტრების ჩასწორება…
+profiler-popup-disabled =
+    მახასიათებლების აღრიცხვა ამჟამად გამორთულია, უმეტესად პირადი ფანჯრის
+    გახსნის გამო.
+profiler-popup-recording-screen = იწერება…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = მორგებული
+profiler-popup-start-recording-button =
+    .label = ჩაწერის დაწყება
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -96,3 +123,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = შემოწმება განახლებებზე…
