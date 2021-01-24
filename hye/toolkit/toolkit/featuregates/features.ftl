@@ -98,3 +98,6 @@ experimental-features-fission-description = Բաժանումը (կայքի մե�
 experimental-features-multi-pip =
     .label = Բազմակի նկար-նկարի աջակցութիւն
 experimental-features-multi-pip-description = Փորձնական աջակցութիւն միաժամանակ նկարում պատկերուած բազմաթիւ պատուհաններ բացելու համար:
+experimental-features-http3 =
+    .label = HTTP/3 արձանագրութիւն
+experimental-features-http3-description = Փորձարարական սպասարկում HTTP/3 արձանագրութեան համար:

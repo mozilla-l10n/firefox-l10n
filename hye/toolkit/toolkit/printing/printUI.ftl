@@ -17,14 +17,9 @@ printui-page-range-custom = Յարմարեցուած
 printui-page-range-label = Էջեր
 printui-page-range-picker =
     .aria-label = Ընտրէք էջի ընդգրկոյթը
-printui-page-custom-range =
-    .aria-label = Ներածէք յարմարեցուած էջի ընգրկոյթը
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = ից
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = դէպի
+printui-page-custom-range-input =
+    .aria-label = Ներածէք կամայական էջի ընդգրկոյթը
+    .placeholder = e.g. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Պատճէններ
 printui-orientation = Դիրքաւորումը
@@ -48,6 +43,7 @@ printui-duplex-checkbox = Տպէք երկու կողմերից
 printui-options = Ընտրանքներ
 printui-headers-footers-checkbox = Տպել գլխագիրները եւ էջոտները
 printui-backgrounds-checkbox = Տպել յետնաշերտը
+printui-selection-checkbox = Տպել միայն ընտրուածը
 printui-color-mode-label = Գունային եղանակ
 printui-color-mode-color = Գոյն
 printui-color-mode-bw = Սեւ եւ սպիտակ
@@ -55,20 +51,30 @@ printui-margins = Լուսանցքներ
 printui-margins-default = Սկզբնադիր
 printui-margins-min = Նուազագոյնը
 printui-margins-none = Չկայ
-printui-margins-custom = Յարմարեցուած
+printui-margins-custom-inches = Յարմարեցուած (մատնաչափ)
 printui-margins-custom-top = Գագաթ
+printui-margins-custom-top-inches = Գագաթ (մատնաչափ)
 printui-margins-custom-bottom = Ներքեւ
+printui-margins-custom-bottom-inches = Ներքեւ (մատնաչափ)
 printui-margins-custom-left = Ձախ
+printui-margins-custom-left-inches = Ձախ (մատնաչափ)
 printui-margins-custom-right = Աջ
+printui-margins-custom-right-inches = Աջ (մատնաչափ)
 printui-system-dialog-link = Տպել աւգտագոծելով ծրագրի երկխաւսութիւնը…
 printui-primary-button = Տպել
 printui-primary-button-save = Պահպանել
 printui-cancel-button = Չեղարկել
+printui-close-button = Փակել
 printui-loading = Նախապատրաստել նախադիտումը
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Արտացոլել նախադիտումը
+printui-pages-per-sheet = Էջեր իւրաքանչիւր թերթիկի համար
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Տպում…
+printui-print-progress-indicator-saving = Պահպանում…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
