@@ -53,6 +53,24 @@ profiler-popup-reveal-description-button =
     .aria-label = Ցուցադրել առաւել շատ տեղեկոյթ
 profiler-popup-description-title =
     .value = Ձայնագրել, վերլուծել, կիսուել
+profiler-popup-description = Համագործակցէք կատարողականութեան բարձրացման շուրջ՝ հասանելի դարձնելով հաշիւները եւ կիսուելով ձեր խմբի հետ։
+profiler-popup-learn-more = Իմանալ աւելին
+profiler-popup-settings =
+    .value = Կարգաւորումներ
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Խմբագրել կարգաւորումները…
+profiler-popup-disabled =
+    Յատկագրողն անջատուած է, քանի որ, հաւանաբար, բացուած է 
+    Գաղտնի դիտարկման պատուհան։
+profiler-popup-recording-screen = Գրանցում…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = յարմարեցուած
+profiler-popup-start-recording-button =
+    .label = Սկսել գրանցումը
+profiler-popup-discard-button =
+    .label = Անտեսել
 
 ## Help panel
 
