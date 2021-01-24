@@ -349,6 +349,7 @@ browser-window-close-button =
 ## Tab actions
 
 browser-tab-audio-playing = Lectura
+browser-tab-audio-muted = Mut
 
 ## Bookmarks toolbar items
 
