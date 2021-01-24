@@ -372,9 +372,57 @@
 <!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Հրաւիրել այղ մասնակիցների">
 <!ENTITY event.organizer.label                  "Կազմակերպիչ">
+<!ENTITY event.freebusy.suggest.slot            "Առաջարկել ժամանակամիջոց">
+<!ENTITY event.freebusy.button.next.slot        "Յաջորդ ժամանակային միջոցը">
+<!ENTITY event.freebusy.button.previous.slot    "Նախորդ ժամանակային միջոցը">
+<!ENTITY event.freebusy.zoom                    "Չափափոխել՝">
+<!ENTITY event.freebusy.legend.free             "Անվճար" >
+<!ENTITY event.freebusy.legend.busy             "Զբաղուած" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Մաւտաւոր" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Բացակայ" >
+<!ENTITY event.freebusy.legend.unknown          "Տեղեկութիւն չկայ" >
+<!ENTITY event.attendee.role.required           "Պահանջուող մասնակից">
+<!ENTITY event.attendee.role.optional           "Կամընտրովի մասնակից">
+<!ENTITY event.attendee.role.chair              "Կազմակերպիչ">
+<!ENTITY event.attendee.role.nonparticipant     "Ոչ մասնակից">
+<!ENTITY event.attendee.usertype.individual     "Անհատական">
+<!ENTITY event.attendee.usertype.group          "Խմբային">
+<!ENTITY event.attendee.usertype.resource       "Աղբեւր">
+<!ENTITY event.attendee.usertype.room           "Սենեակ">
+<!ENTITY event.attendee.usertype.unknown        "Անյայտ">
 
 <!-- Timezone dialog -->
+<!ENTITY timezone.title.label            "Խնդրում ենք նշել ժամային գաւտին">
+<!ENTITY event.timezone.custom.label     "Յաւելեալ ժամային գաւտիներ">
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "Գլխաւոր">
+<!ENTITY read.only.title.label           "Վերնագիր">
+<!ENTITY read.only.calendar.label        "Աւրացոյց">
+<!ENTITY read.only.event.start.label     "Սկզբի ամսաթիւ՝">
+<!ENTITY read.only.task.start.label      "Սկզբի ամսաթիւ՝">
+<!ENTITY read.only.event.end.label       "Աւարտի ամսաթիւ՝">
+<!ENTITY read.only.task.due.label        "Վերջնաժամկէտ՝">
+<!ENTITY read.only.repeat.label          "Կրկնութիւն՝">
+<!ENTITY read.only.location.label        "Տեղ՝">
+<!ENTITY read.only.category.label        "Անուանակարգ՝">
+<!ENTITY read.only.organizer.label       "Կազմակերպիչ՝">
+<!ENTITY read.only.reminder.label        "Յիշեցում՝">
+<!ENTITY read.only.attachments.label     "Կցորդներ՝">
+<!ENTITY read.only.attendees.label       "Մասնակիցներ">
+<!ENTITY read.only.description.label     "Նկարագրութիւն">
+<!ENTITY read.only.link.label            "Առնչուող յղում">
 
 <!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "Պահել եւ փակել">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Պահպանել փոփոխութինները եւ փակել պատուհանը, առանց մասնակցի կարգավիճակի փոփոխութեան եւ պատասխան ուղարկելու">
+<!ENTITY summary.dialog.accept.label            "Ընդունել">
+<!ENTITY summary.dialog.accept.tooltiptext      "Ընդունել հրաւէրը">
+<!ENTITY summary.dialog.tentative.label         "Նախնական">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Նախնական ընդունել հրաւէրը">
+<!ENTITY summary.dialog.decline.label           "Մերժել">
+<!ENTITY summary.dialog.decline.tooltiptext     "Մերժել հրաւէրը">
+<!ENTITY summary.dialog.dontsend.label          "Չպատասխանել">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Փոխել Ձեր մասնակցութեան կարգավիճակը` առանց կազմակերպչին պատասխան ուղարկելու եւ փակել պատուհանը">
+<!ENTITY summary.dialog.send.label              "Պատասխանել հիմա">
+<!ENTITY summary.dialog.send.tooltiptext        "Պատասխանել կազմակերպչին   եւ փակել պատուհանը">
