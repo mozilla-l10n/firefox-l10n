@@ -277,3 +277,10 @@ cfr-whatsnew-media-keys-button = Vegeu com fer-ho
 
 cfr-whatsnew-search-shortcuts-header = Dreceres de cerca a la barra d'adreces
 cfr-whatsnew-search-shortcuts-body = Ara, quan escriviu el nom d'un motor de cerca o un lloc específic a la barra d'adreces, apareixerà una drecera blava als suggeriments de cerca de sota. Seleccioneu aquesta drecera per fer la cerca directament des de la barra d'adreces.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Protecció contra supergaletes malicioses
+
+## What's new: Better bookmarking
+
