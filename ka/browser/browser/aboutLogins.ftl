@@ -84,6 +84,7 @@ login-item-new-login-title = ანგარიშის ახალი მო�
 login-item-edit-button = ჩასწორება
 about-logins-login-item-remove-button = მოცილება
 login-item-origin-label = საიტის მისამართი
+login-item-tooltip-message = დარწმუნდით, რომ ზუსტად ემთხვევა იმ ვებსაიტის მისამართს, რომელზეც ხართ შესული.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = მომხმარებლის სახელი
@@ -295,3 +296,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>შეცდომები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოვიდა)</span>
     }
 about-logins-import-dialog-done = მზადაა
+about-logins-import-dialog-error-title = გადმოტანის შეცდომა
+about-logins-import-dialog-error-conflicting-values-title = რამდენიმე შეუსაბამო მნიშვნელობა ერთი ანგარიშისთვის
+about-logins-import-dialog-error-conflicting-values-description = მაგალითად: რამდენიმე სახელი, პაროლი, ბმული და სხვ. ერთი ანგარიშისთვის.
