@@ -77,6 +77,16 @@ perftools-thread-gecko-main =
     .title = Հիմնական գործընթացները ծնողական եւ բովանդակութեան գործընթացների համար
 perftools-thread-compositor =
     .title = Միաւորում է էջի վրայ տարբեր կերպ ներկուած տարրերը
+perftools-thread-dom-worker =
+    .title = Այն կարգաւորում է թե վեբ, թե սպասարկու աշխատողներին
+perftools-thread-renderer =
+    .title = Երբ WebRender֊ը միացուած է, շղթան, որն իրականացնում է OpenGL կանչերը
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend շղթան
+perftools-thread-paint-worker =
+    .title = Երբ off-main-thread գունաւորումը միացած է, շղթան, որտեղ այն տեղին է ունենում
+perftools-thread-style-thread =
+    .title = Ոճի հաշուարկը մասնատուում է բազմաթիւ շղթաների
 
 ##
 
