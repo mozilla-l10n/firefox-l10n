@@ -300,6 +300,9 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Acabat
 about-logins-import-dialog-error-title = Error d’importacion
+about-logins-import-dialog-error-file-format-title = Problèma de format de fichièr
+about-logins-import-dialog-error-file-permission-title = Lectura del fichièr impossibla
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } possedís pas la permission per legir aqueste fichièr. Ensajatz de cambiar las permissions del fichièr.
 about-logins-import-dialog-error-no-logins-imported = Cap d’identificant pas importat
 about-logins-import-dialog-error-learn-more = Ne saber mai
 about-logins-import-dialog-error-try-again = Tornar ensajar…
