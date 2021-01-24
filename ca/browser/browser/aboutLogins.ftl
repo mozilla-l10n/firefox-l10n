@@ -197,9 +197,17 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] Voleu eliminar { $count } inici de sessió de tots els dispositius?
        *[other] Voleu eliminar tots els { $count } inicis de sessió de tots els dispositius?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+        [one] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+       *[other] Això eliminarà tots els inicis de sessió desats pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+    }
 about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contrasenyes
 about-logins-confirm-export-dialog-message = Les contrasenyes es desaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que pugui obrir el fitxer exportat les podrà veure.
 about-logins-confirm-export-dialog-confirm-button = Exporta…
+about-logins-alert-import-title = Fi de la importació
+about-logins-alert-import-message = Mostra un resum detallat de la importació
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
 confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgiu desat.
 confirm-discard-changes-dialog-confirm-button = Descarta
@@ -261,3 +269,30 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] Fitxer CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Fi de la importació
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Inicis de sessió nous afegits:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Inicis de sessió nous afegits:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Inicis de sessió existents actualitzats:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Inicis de sessió existents actualitzats:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Inicis de sessió duplicats:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importat)</span>
+       *[other] <span>Inicis de sessió duplicats:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importats)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'ha importat)</span>
+       *[other] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'han importat)</span>
+    }
+about-logins-import-dialog-done = Fet
