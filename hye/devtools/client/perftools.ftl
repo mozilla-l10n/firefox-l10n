@@ -25,6 +25,13 @@ perftools-heading-local-build = Տեղային կառոյց
 
 ##
 
+perftools-description-intro =
+    Գրանցումները profiler.firefox.com֊ը բացում են նոր ներդիրում։ բոլոր տուեալները պահուած են
+    տեղում, բայց կարող էք բեռնել եւ կիսուել։
+perftools-description-local-build =
+    Եթե յատկագրում էք կառոյց, որ ինքներդ էք կազմարկել, այս 
+    սարքում, խնդրում ենք աւելացնել ձեր կառոյցի objdir֊ը ստորեւ ցանկում, որպէսզի 
+    այն կարողանայ որոնել նշանների տեղեկոյթը։
 
 ## The controls for the interval at which the profiler samples the code.
 
