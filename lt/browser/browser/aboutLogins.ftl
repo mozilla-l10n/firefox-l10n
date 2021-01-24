@@ -85,6 +85,7 @@ login-item-new-login-title = Sukurti naują prisijungimą
 login-item-edit-button = Taisyti
 about-logins-login-item-remove-button = Pašalinti
 login-item-origin-label = Svetainės adresas
+login-item-tooltip-message = Įsitikinkite, kad tai sutampa su tiksliu svetainės adresu, į kurią prisijungiate.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Naudotojo vardas
@@ -276,6 +277,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV failas
        *[other] CSV failas
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV dokumentas
+       *[other] TSV failas
+    }
 
 ##
 ## Variables:
@@ -307,3 +315,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>Klaidų:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportuota)</span>
     }
 about-logins-import-dialog-done = Atlikta
+about-logins-import-dialog-error-title = Importavimo klaida
+about-logins-import-dialog-error-conflicting-values-title = Kelios nederančios vieno prisijungimo reikšmės
+about-logins-import-dialog-error-conflicting-values-description = Pavyzdžiui: keli prisijungimo vardai, slaptažodžiai, URL adresai, ir t.t., tam pačiam prisijungimui.
+about-logins-import-dialog-error-file-format-title = Failo formato problema
+about-logins-import-dialog-error-file-format-description = Neteisingos arba trūkstamos stulpelių antraštės. Įsitikinkite, kad faile yra naudotojo vardo, slaptažodžio, ir URL stulpeliai.
+about-logins-import-dialog-error-file-permission-title = Nepavyko perskaityti failo
+about-logins-import-dialog-error-file-permission-description = „{ -brand-short-name }“ neturi leidimo skaityti failą. Pabandykite pakeisti failo leidimus.
+about-logins-import-dialog-error-unable-to-read-title = Nepavyko išanalizuoti failo
+about-logins-import-dialog-error-unable-to-read-description = Įsitikinkite, kad pasirinkote CSV arba TSV failą.
+about-logins-import-dialog-error-no-logins-imported = Neimportuoti jokie prisijungimai
+about-logins-import-dialog-error-learn-more = Sužinoti daugiau
+about-logins-import-dialog-error-try-again = Bandyti dar kartą…
+about-logins-import-dialog-error-cancel = Atsisakyti
