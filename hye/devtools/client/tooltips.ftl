@@ -28,6 +28,8 @@ inactive-css-property-is-impossible-to-override-in-visited = <strong>․այցե
 inactive-css-position-property-on-unpositioned-box = <strong> { $property } </strong> չունի որեւէ ազդեցութիւն այս տարրի վրայ, քանի որ այն դիրքաւորուած տարր չէ:
 inactive-text-overflow-when-no-overflow = <strong> { $property } </strong> չունի որեւէ պատկերում այս տարրի վրայ, քանի որ <strong> ընդարձակել։թաքցնել </strong> այն դրուած չէ:
 inactive-outline-radius-when-outline-style-auto-or-none = <strong> { $property } </strong> ազդեցութիւն չունի այս տարրի վրայ, քանի որ դրա <strong> ուրուագծային ոճը </strong> ինքանաշխատ <strong> է</strong> կամ <strong> չկայ </strong>:
+inactive-css-not-for-internal-table-elements = <strong> { $property } </strong>֊ն ազդեցութիւն չունի աղիւսակի ներքին տարրերի վրայ:
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong> { $property } </strong>֊ն որեւէ ազդեցութիւն չունի աղիւսակի ներքին տարրերի վրայ՝ բացառութեամբ աղիւսակի բջիջների:
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
