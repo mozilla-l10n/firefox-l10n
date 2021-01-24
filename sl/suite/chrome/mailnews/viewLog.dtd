@@ -4,5 +4,6 @@
 
 <!ENTITY viewLog.title "Dnevnik filtrov">
 <!ENTITY clearLog.label "Počisti dnevnik">
+<!ENTITY enableLog.label "Omogoči dnevnik filtrov">
 <!ENTITY closeLog.label "Zapri">
 <!ENTITY closeLog.accesskey "Z">
