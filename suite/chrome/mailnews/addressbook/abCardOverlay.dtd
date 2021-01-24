@@ -31,8 +31,7 @@
 <!ENTITY PhoneticField2.label           "Fonetično:">
 <!ENTITY DisplayName.label              "Prikaži:">
 <!ENTITY DisplayName.accesskey          "r">
-<!ENTITY preferDisplayName.label        "Vedno daj prednost prikaznemu imenu namesto glavi sporočila">
-<!ENTITY preferDisplayName.accesskey    "g">
+<!ENTITY preferDisplayName.label        "Vedno daj prednost prikaznemu imenu pred glavo sporočila">
 <!ENTITY preferDisplayName2.accesskey   "g">
 <!ENTITY NickName.label                 "Vzdevek:">
 <!ENTITY NickName.accesskey             "V">
@@ -46,9 +45,6 @@
 <!ENTITY PlainText.label                "Golo besedilo">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "vseeno">
-<!ENTITY ScreenName.label               "Zaslonsko ime:">
-<!ENTITY ScreenName.accesskey           "Z">
-
 <!ENTITY chatName.label                 "Ime za klepet:">
 
 <!ENTITY WorkPhone.label                "Službeni telefon:">
