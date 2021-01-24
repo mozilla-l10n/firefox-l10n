@@ -53,6 +53,12 @@ profiler-popup-reveal-description-button =
     .aria-label = Rodyti daugiau informacijos
 profiler-popup-description-title =
     .value = Įrašykite, analizuokite, dalinkitės
+profiler-popup-description = Bendraukite spręsdami našumo problemas, paskelbdami profilius pasidalinimui su savo komanda.
+profiler-popup-learn-more = Sužinoti daugiau
+profiler-popup-settings =
+    .value = Nuostatos
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Keisti nuostatas…
 
 ## Help panel
 
