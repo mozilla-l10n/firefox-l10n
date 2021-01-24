@@ -16,6 +16,12 @@ perftools-intro-description =
 
 perftools-heading-settings = Visos nuostatos
 perftools-heading-buffer = Buferio nuostatos
+perftools-heading-features = Savybės
+perftools-heading-features-default = Savybės (rekomenduojamos pagal numatymą)
+perftools-heading-features-disabled = Išjungtos savybės
+perftools-heading-features-experimental = Eksperimentinės
+perftools-heading-threads = Gijos
+perftools-heading-local-build = Vietinis darinys
 
 ##
 
