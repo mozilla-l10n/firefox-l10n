@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Tanca
 
+## Tab actions
+
+browser-tab-audio-playing = S'està reproduint
+browser-tab-audio-muted = Silenciat
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -504,6 +509,15 @@ fullscreen-exit-mac-button = Surt de la pantalla completa (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> té el control del punter. Premeu Esc per recuperar el control.
 pointerlock-warning-no-domain = Aquest document té el control del punter. Premeu Esc per recuperar el control.
 
+## Subframe crash notification
+
+crashed-subframe-learnmore =
+    .label = Més informació
+    .accesskey = M
+crashed-subframe-submit =
+    .label = Envia l'informe
+    .accesskey = E
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,6 +578,8 @@ library-bookmarks-bookmark-this-page =
     .label = Afegeix la pàgina a les adreces d'interès
 library-bookmarks-bookmark-edit =
     .label = Edita aquesta adreça d'interès
+library-recent-activity-title =
+    .value = Activitat recent
 
 ## More items
 
