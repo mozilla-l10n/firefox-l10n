@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,6 +109,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Mynij pisz, wiyncyj znojduj: szukej z { $engineName } drek z poska adresy.
 urlbar-search-tips-redirect-2 = Zacznij wkludzać na posku adresy, coby ôboczyć podpowiedzi z wyszukowarki { $engineName } i z historyje twojigo przeglōndanio.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Ôbier tyn skrōt, coby snadnij znojść to, czego potrzebujesz.
 
 ## Local search mode indicator labels in the urlbar
 
@@ -222,7 +225,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Poszukej we:
 # This string won't wrap, so if the translated string is longer,
@@ -287,8 +290,21 @@ identity-passive-loaded = Party tyj strōny sōm niyzabezpieczōne (bez przikło
 identity-active-loaded = Ôchrōna na tyj strōnie je zastawiōno ôd ciebie.
 identity-weak-encryption = Ta strōna używo słabego szyfrowanio.
 identity-insecure-login-forms = Dane logowanio wkludzōne na tyj strōnie mogōm być wyzdradzōne.
+identity-https-only-connection-upgraded = (sztajgniynte do HTTPS)
+identity-https-only-label = Tryb "ino HTTPS"
+identity-https-only-dropdown-on =
+    .label = Załōnczōne
+identity-https-only-dropdown-off =
+    .label = Wyłōnczōne
+identity-https-only-dropdown-off-temporarily =
+    .label = Czasowo wyłōnczōne
+identity-https-only-info-turn-on2 = Załōncz tryb "Ino HTTPS" do tyj strōny, jak chcesz, coby aplikacyjo { -brand-short-name } przełōnczała na niego, kej ino idzie.
+identity-https-only-info-turn-off2 = Jak strōna wyglōndo na felerno, może bydziesz chcieć wyłōnczyć tryb "Ino HTTPS" do tyj strōny, coby przeladować jōm we trybie niyzabezpieczōnego HTTP.
+identity-https-only-info-no-upgrade = Niy idzie sztajgnōńć połōnczynio ze HTTP.
 identity-permissions =
     .value = Zgody
+identity-permissions-storage-access-header = Cookies, co śledzōm miyndzy strōnami
+identity-permissions-storage-access-hint = Te strōny poradzōm używać cookies, co śledzōm cie miyndzy strōnami, i mieć dostymp do danych tyj strōny, jak żeś na nij je.
 identity-permissions-reload-hint = Możno bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.
 identity-permissions-empty = Ta strōna niy dostała ôd ciebie żodnych ekstra zgōd.
 identity-clear-site-data =
@@ -332,8 +348,17 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zawrzij
 
+## Tab actions
+
+browser-tab-audio-playing = Puszczōne
+browser-tab-audio-muted = Wyłōnczōny klang
+
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importuj zokłodki…
+    .tooltiptext = Importuj zokłodki z inkszyj przeglōndarki do aplikacyje { -brand-short-name }
+bookmarks-toolbar-empty-message = Dej swoje zokłodki na posek z zokłodkami, coby mieć doo nich snadny dostymp. <a data-l10n-name="manage-bookmarks">Regiyruj zokłodkami…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -438,8 +463,21 @@ urlbar-result-action-search-in-private = Szukej we prywatnym ôknie
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Szukej we { $engine }
+urlbar-result-action-sponsored = Spōnsorowane
 urlbar-result-action-switch-tab = Przełōncz na karta
 urlbar-result-action-visit = Nawiydź
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Prziciś Tab, coby szukać ze { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Prziciś Tab, coby szukać na { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -461,6 +499,9 @@ fullscreen-exit-mac-button = Wylyź z trybu cołkigo ekranu (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.
 pointerlock-warning-no-domain = Tyn dokumynt kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.
+
+## Subframe crash notification
+
 
 ## Bookmarks panels, menus and toolbar
 
