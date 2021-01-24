@@ -17,14 +17,6 @@ printui-page-range-custom = მითითებული
 printui-page-range-label = გვერდები
 printui-page-range-picker =
     .aria-label = გვერდების შუალედის არჩევა
-printui-page-custom-range =
-    .aria-label = მიუთითეთ გვერდების შუალედი
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = საწყისი
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = საბოლოო
 printui-page-custom-range-input =
     .aria-label = მიუთითეთ გვერდების შუალედი
     .placeholder = მაგ 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = მინდვრები
 printui-margins-default = ნაგულისხმევი
 printui-margins-min = უმცირესი
 printui-margins-none = არცერთი
-printui-margins-custom = მორგებული
 printui-margins-custom-inches = მორგებული (დუიმი)
 printui-margins-custom-top = ზედა
 printui-margins-custom-top-inches = ზედა (დუიმი)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = გვერდი თითო ფურცელზ�
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = იბეჭდება…
+printui-print-progress-indicator-saving = ინახება…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
