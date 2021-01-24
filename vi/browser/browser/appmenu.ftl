@@ -43,6 +43,47 @@ whatsnew-panel-footer-checkbox =
     .label = Thông báo về các tính năng mới
     .accesskey = f
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Hiện thêm thông tin
+profiler-popup-description-title =
+    .value = Ghi lại, phân tích, chia sẻ
+profiler-popup-description = Cộng tác về các vấn đề hiệu suất bằng cách xuất bản hồ sơ để chia sẻ với nhóm của bạn.
+profiler-popup-learn-more = Tìm hiểu thêm
+profiler-popup-settings =
+    .value = Cài đặt
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Chỉnh sửa cài đặt…
+profiler-popup-disabled =
+    Profiler hiện bị vô hiệu hóa, rất có thể do cửa sổ Duyệt web riêng tư
+    đang mở.
+profiler-popup-recording-screen = Đang ghi…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Tùy chỉnh
+profiler-popup-start-recording-button =
+    .label = Bắt đầu ghi
+profiler-popup-discard-button =
+    .label = Loại bỏ
+profiler-popup-capture-button =
+    .label = Ghi
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
+
 ## Help panel
 
 appmenu-about =
@@ -89,3 +130,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Kiểm tra cập nhật…

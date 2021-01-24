@@ -16,14 +16,6 @@ printui-page-range-custom = Tùy chọn
 printui-page-range-label = Trang
 printui-page-range-picker =
     .aria-label = Chọn phạm vi trang
-printui-page-custom-range =
-    .aria-label = Nhập phạm vi trang tùy chỉnh
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Từ
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = đến
 printui-page-custom-range-input =
     .aria-label = Nhập phạm vi trang tùy chỉnh
     .placeholder = ví dụ: 2-6, 9, 12-16
@@ -58,7 +50,6 @@ printui-margins = Lề
 printui-margins-default = Mặc định
 printui-margins-min = Tối thiểu
 printui-margins-none = Không có
-printui-margins-custom = Tùy chọn
 printui-margins-custom-inches = Tùy chỉnh (inch)
 printui-margins-custom-top = Trên
 printui-margins-custom-top-inches = Trên (inch)
@@ -82,6 +73,7 @@ printui-pages-per-sheet = Số trang trên mỗi tờ
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Đang in...
+printui-print-progress-indicator-saving = Đang lưu...
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
