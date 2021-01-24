@@ -49,9 +49,14 @@ policy-DisplayMenuBar = Mostra la barra de menú per defecte.
 policy-DNSOverHTTPS = Configura DNS sobre HTTPS.
 policy-DontCheckDefaultBrowser = Desactiva la comprovació de navegador per defecte en iniciar.
 policy-DownloadDirectory = Defineix i bloca el directori de baixades.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Activa o desactiva el Bloqueig de contingut i, opcionalment, el bloca.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Activa o desactiva les extensions de contingut multimèdia xifrat i, opcionalment, les bloca.
 policy-ExtensionUpdate = Activa o desactiva les actualitzacions automàtiques de les extensions.
 policy-FirefoxHome = Configura el Firefox Home.
 policy-FlashPlugin = Permet o denega l'ús del connector Flash.
+policy-Handlers = Configura els gestors d'aplicacions per defecte.
 policy-HardwareAcceleration = Si és fals, desactiva l'acceleració de maquinari.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Defineix i, opcionalment, bloca la pàgina d'inici.
@@ -65,6 +70,12 @@ policy-InstallAddonsPermission = Permet que determinats llocs web instal·lin co
 policy-LocalFileLinks = Permetre que llocs web específics enllacin a fitxers locals.
 policy-MasterPassword = Requerir o impedir l'ús d'una contrasenya mestra.
 policy-PrimaryPassword = Requerir o impedir l'ús d'una contrasenya principal.
+policy-NewTabPage = Activa o desactiva la pàgina de pestanya nova.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Desactiva o configura el PDF.js, el visor de PDF incorporat en el { -brand-short-name }.
+policy-PictureInPicture = Activa o desactiva el mode d'Imatge sobre imatge.
+policy-PopupBlocking = Permet que determinats llocs web mostrin finestres emergents per defecte.
+policy-PromptForDownloadLocation = Demana on es desaran els fitxers en baixar-los.
 policy-Proxy = Configura els paràmetres del servidor intermediari.
 policy-SearchSuggestEnabled = Activa o desactiva els suggeriments de cerca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
