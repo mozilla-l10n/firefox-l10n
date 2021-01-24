@@ -189,10 +189,75 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Ընդունել առաջարկը">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Իրադարձութեան դաշտերը լրացուում են հակադիր արժէքներն աւգտագործելիս, բոլոր մասնակիցները կը տեղեկացուեն միայն լրացուցիչ կամ առանց լրացուցիչ փոփոխութիւնները պահելու։">
+<!ENTITY counter.button.original.label                    "Կիրառել ելակէտային տուեալները">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "Դաշտերը կը ստեղծուեն նախնական իրադարձութեան արժէքներից ելնելով, նախքան հակադիր արժէքի ստեղծումը">
 
 <!-- Main page -->
+<!ENTITY event.title.textbox.label                        "Վերնագիր՝" >
+<!ENTITY event.title.textbox.accesskey                    "I">
+<!ENTITY event.location.label                             "Տեղ՝" >
+<!ENTITY event.location.accesskey                         "L">
+<!ENTITY event.categories.label                           "Անուանակարգ՝">
+<!ENTITY event.categories.accesskey                       "y">
+<!ENTITY event.categories.textbox.label                   "Աւելացնել նոր անուանակարգ" >
+<!ENTITY event.calendar.label                             "Աւրացոյց՝" >
+<!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.attendees.label                            "Մասնակիցներ՝" >
+<!ENTITY event.attendees.accesskey                        "n">
+<!ENTITY event.alldayevent.label                          "Շուրջաւրեայ իրադարձութիւն" >
+<!ENTITY event.alldayevent.accesskey                      "d">
+<!ENTITY event.from.label                                 "Սկսել՝" >
+<!ENTITY event.from.accesskey                             "S">
+<!ENTITY task.from.label                                  "Սկսել՝" >
+<!ENTITY task.from.accesskey                              "S">
+<!ENTITY event.to.label                                   "Աւարտ՝" >
+<!ENTITY event.to.accesskey                               "u">
+<!ENTITY task.to.label                                    "Վերջնաժամկէտ՝" >
+<!ENTITY task.to.accesskey                                "u">
+<!ENTITY task.status.label                                "Կարգավիճակ՝" >
+<!ENTITY task.status.accesskey                            "a">
+<!ENTITY event.repeat.label                               "Կրկնել՝" >
+<!ENTITY event.repeat.accesskey                           "R">
+<!ENTITY event.until.label                                "Մինչ՝">
+<!ENTITY event.until.accesskey                            "B">
+<!ENTITY event.reminder.label                             "Յիշեցում՝" >
+<!ENTITY event.reminder.accesskey                         "m">
+<!ENTITY event.description.label                          "Նկարագրութիւն՝" >
+<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.attachments.label                          "Կցորդներ՝" >
+<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.menubutton.label               "Կցել">
+<!ENTITY event.attachments.menubutton.accesskey           "A">
+<!ENTITY event.attachments.url.label                      "Վեբ էջ…">
+<!ENTITY event.attachments.url.accesskey                  "W">
+<!ENTITY event.attachments.popup.remove.label             "Հեռացնել" >
+<!ENTITY event.attachments.popup.remove.accesskey         "R" >
+<!ENTITY event.attachments.popup.open.label               "Բացել" >
+<!ENTITY event.attachments.popup.open.accesskey           "O" >
+<!ENTITY event.attachments.popup.removeAll.label          "Հեռացնել բոլորը" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
+<!ENTITY event.attachments.popup.attachPage.label         "Կցել վեբ էջ…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "g" >
+<!ENTITY event.url.label                                  "Կապուած յղումներ՝" >
+<!ENTITY event.priority2.label                            "Առաջնահերթութիւն՝">
 
+<!ENTITY event.reminder.none.label                        "Յիշեցում չկայ" >
+<!ENTITY event.reminder.0minutes.before.label             "0 րոպէ մինչ" >
+<!ENTITY event.reminder.5minutes.before.label             "5 րոպէ մինչ" >
+<!ENTITY event.reminder.15minutes.before.label            "15 րոպէ մինչ" >
+<!ENTITY event.reminder.30minutes.before.label            "30 րոպէ մինչ" >
+<!ENTITY event.reminder.1hour.before.label                "1 ժամ մինչ" >
+<!ENTITY event.reminder.2hours.before.label               "2 ժամ մինչ" >
+<!ENTITY event.reminder.12hours.before.label              "12 ժամ մինչ" >
+<!ENTITY event.reminder.1day.before.label                 "1 աւր մինչ" >
+<!ENTITY event.reminder.2days.before.label                "2 աւր մինչ" >
+<!ENTITY event.reminder.1week.before.label                "1 շաբաթ մինչ" >
+<!ENTITY event.reminder.custom.label                      "Ընտրել…" >
 
+<!ENTITY event.reminder.multiple.label                    "Բազմակի յիշեցումներ…" >
 
 
 <!-- Recurrence dialog -->
