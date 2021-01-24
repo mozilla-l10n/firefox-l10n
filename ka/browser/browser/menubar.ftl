@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ეს თაღლითური საიტი არაა…
     .accesskey = ე
+menu-help-check-for-update =
+    .label = შემოწმება განახლებებზე…
+    .accesskey = წ
