@@ -304,3 +304,4 @@ about-logins-import-dialog-done = Concluído
 about-logins-import-dialog-error-title = Erro de importação
 about-logins-import-dialog-error-conflicting-values-title = Múltiplos valores conflituantes para Credencial Única
 about-logins-import-dialog-error-conflicting-values-description = Por exemplo: vários nomes de utilizador, palavras-passe, endereços, etc. para uma credencial.
+about-logins-import-dialog-error-file-format-title = Problema com o formato do ficheiro
