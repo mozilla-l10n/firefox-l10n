@@ -35,15 +35,29 @@ perftools-description-local-build =
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Նմուշառման միջակայք;
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } մվ
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Պահնակի չափը՝
+perftools-custom-threads-label = Աւելացնել կամայական շղթաներ ըստ անուան՝
+perftools-devtools-interval-label = Միջակայք՝
+perftools-devtools-threads-label = Շղթաներ՝
+perftools-devtools-settings-label = Կարգաւորումներ
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Յատկագրիչն անջատուած է, երբ Գաղտնի դիտարկումը միացած է։ 
+    Փակէք բոլոր գաղտնի պատուհանները, որպէսզի յատկագրիչը միացուի։
+perftools-status-recording-stopped-by-another-tool = Ձայնագրումն ընդհատուեց այլ գործիքի կողմից։
+perftools-status-restart-required = Դիտարկիչը պէտք է վերամեկնարկի այս յատկութիւնը միացնելու համար։
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Ձայնագրութիւնն անջատել
 
 ##
 
