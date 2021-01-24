@@ -83,6 +83,7 @@ login-item-new-login-title = Tạo đăng nhập mới
 login-item-edit-button = Chỉnh sửa
 about-logins-login-item-remove-button = Xóa
 login-item-origin-label = Địa chỉ trang web
+login-item-tooltip-message = Đảm bảo rằng địa chỉ này khớp với địa chỉ chính xác của trang web mà bạn đăng nhập.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Tên đăng nhập
@@ -262,6 +263,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Tài liệu CSV
        *[other] Tập tin CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Tài liệu TSV
+       *[other] Tập tin TSV
+    }
 
 ##
 ## Variables:
@@ -285,3 +293,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>Lỗi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(không nhập)</span>
     }
 about-logins-import-dialog-done = Xong
+about-logins-import-dialog-error-title = Lỗi khi nhập
+about-logins-import-dialog-error-conflicting-values-title = Nhiều giá trị xung đột cho một thông tin đăng nhập
+about-logins-import-dialog-error-conflicting-values-description = Ví dụ: nhiều tên người dùng, mật khẩu, URL, v.v. cho một thông tin đăng nhập.
+about-logins-import-dialog-error-file-format-title = Vấn đề định dạng tập tin
+about-logins-import-dialog-error-file-format-description = Header cột không chính xác hoặc bị thiếu. Đảm bảo rằng tập tin bao gồm các cột cho tên người dùng, mật khẩu và URL.
+about-logins-import-dialog-error-file-permission-title = Không thể đọc tập tin
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } không có quyền đọc tập tin. Thử thay đổi quyền đối với tập tin.
+about-logins-import-dialog-error-unable-to-read-title = Không thể phân tích cú pháp tập tin
+about-logins-import-dialog-error-unable-to-read-description = Đảm bảo rằng bạn đã chọn đúng tập tin CSV hoặc TSV.
+about-logins-import-dialog-error-no-logins-imported = Không có thông tin đăng nhập nào được nhập
+about-logins-import-dialog-error-learn-more = Tìm hiểu thêm
+about-logins-import-dialog-error-try-again = Thử lại…
+about-logins-import-dialog-error-cancel = Hủy bỏ
