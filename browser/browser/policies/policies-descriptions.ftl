@@ -10,19 +10,24 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Defineix les polítiques a les quals WebExtensions pot accedir mitjançant chrome.storage.managed.
+policy-AppAutoUpdate = Activa o desactiva les actualitzacions automàtiques de l'aplicació.
 policy-AppUpdateURL = Defineix un URL personalitzat d'actualització de l'aplicació.
+policy-Authentication = Configura l'autenticació integrada per a les pàgines web que l'admeten.
 policy-BlockAboutAddons = Bloca l'accés al gestor de complements (about:addons).
 policy-BlockAboutConfig = Bloca l'accés a la pàgina about:config.
 policy-BlockAboutProfiles = Bloca l'accés a la pàgina about:profiles.
 policy-BlockAboutSupport = Bloca l'accés a la pàgina about:support.
 policy-Bookmarks = Crea adreces d'interès a la barra d'adreces d'interès, al menú d'adreces d'interès o a la carpeta especificada.
 policy-CaptivePortal = Activa o desactiva la funcionalitat de portal captiu.
+policy-CertificatesDescription = Afegeix certificats o utilitza certificats integrats.
 policy-Cookies = Permet o denega que els llocs web defineixin galetes.
 policy-DisabledCiphers = Desactiva els xifratges.
 policy-DefaultDownloadDirectory = Defineix el directori de baixades per defecte.
 policy-DisableAppUpdate = Evita que el navegador s’actualitzi.
 policy-DisableBuiltinPDFViewer = Desactiva el PDF.js, el visor de PDF incorporat en el { -brand-short-name }.
 policy-DisableDeveloperTools = Bloca l'accés a les eines per a desenvolupadors.
+policy-DisableFeedbackCommands = Desactiva les ordres per enviar comentaris del menú Ajuda («Envia comentaris» i «Informa que el lloc és enganyós»).
 policy-DisableFirefoxAccounts = Desactiva els serveis basats en el { -fxaccount-brand-name }, que inclou el Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactiva la funció de captures de pantalla del Firefox Screenshots.
@@ -31,6 +36,7 @@ policy-DisableForgetButton = Evita l'accés al botó Oblida.
 policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
 policy-DisableMasterPasswordCreation = Si és cert, no es pot crear una contrasenya mestra.
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
+policy-DisablePasswordReveal = No permet mostrar les contrasenyes dels inicis de sessió desats.
 policy-DisablePocket = Desactiva la funció de desar llocs web al Pocket.
 policy-DisablePrivateBrowsing = Desactiva la navegació privada.
 policy-DisableTelemetry = Desactiva la telemetria.
