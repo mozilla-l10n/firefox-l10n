@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Ստանալ հաւելուածը
 
 cfr-whatsnew-searchbar-title = Մուտքագրէք աւելի քիչ, աւելին կգտնէք հասցէի տողի հետ
 cfr-whatsnew-searchbar-body-topsites = Այժմ ընտրէք հասցէագաւտին, եւ սալիկը կընդլայնուի դէպի Ձեր գլխաւոր կայքեր յղումներով:
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Խոշորացնել ակնոցի մանրապատկերը
 
 ## Picture-in-Picture
@@ -275,3 +278,12 @@ cfr-whatsnew-media-keys-button = Իմանալ՝ ինչպէս
 
 cfr-whatsnew-search-shortcuts-header = Փնտրէք դիւրանցումներն հասցէգաւտում
 cfr-whatsnew-search-shortcuts-body = Այժմ, երբ գրէք որեւէ որոնիչ կամ կայքի հասցէ հասցէգաւտում, կապոյտ դիւրանցում կը յայտնուի ներքեւում՝  առաջարկելով տարբերակներ։ Ընտրէք այդ դիւրանցումը, որպէսզի որոնումն աւարտէք անմիջապէս հասցէգաւտուց։
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Պաշտպանութիւն վնասակար գերնշոցիկներից
+cfr-whatsnew-supercookies-body = Կայքէջերը կարող են ձեր դիտարկչին գաղտնի կցել «գերնշոցիկ», որը կարող է ձեզ հետեւել համացանցում՝ նոյնիսկ նշոցիկները մաքրելուց յետոյ: { -brand-short-name }-ն այժմ ապահովում է ուժեղ պաշտպանութիւն գերնշոցիկում, այնպէս, որ դրանք չեն կարող աւգտագործուել՝ ձեր առցանց գործողութիւններին հետեւելու համար:
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Նախընտրելի էջանշում

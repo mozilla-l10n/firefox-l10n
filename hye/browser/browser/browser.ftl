@@ -511,6 +511,13 @@ pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարու
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong> Այս էջի որոշ հատուած խափանուեց։ </strong> Խնդրի մասին { -brand-product-name }֊ին տեղեկացնելու եւ արագ լուծելու համար ուղարկէք զեկուցում։
+crashed-subframe-learnmore =
+    .label = Իմանալ աւելին
+    .accesskey = Ի
+crashed-subframe-submit =
+    .label = Ուղարկէք զեկուցում
+    .accesskey = Ո
 
 ## Bookmarks panels, menus and toolbar
 
@@ -572,6 +579,8 @@ library-bookmarks-bookmark-this-page =
     .label = Էջանշել այս էջը
 library-bookmarks-bookmark-edit =
     .label = Խմբագրել այս էջանիշը
+library-recent-activity-title =
+    .value = Վերջին գործողութիւնը
 
 ## More items
 

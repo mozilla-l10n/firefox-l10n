@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Սա խաբուսիկ կայք չէ…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Ստուգէք թարմացումները
+    .accesskey = Ս
