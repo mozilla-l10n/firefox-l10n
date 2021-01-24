@@ -5,7 +5,9 @@
 
 ## The main browser window's title
 
+
 ##
+
 
 ## Tooltips for images appearing in the address bar
 
@@ -15,11 +17,17 @@
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+
 ## Local search mode indicator labels in the urlbar
+
 
 ##
 
+
 ## Page Action Context Menu
+
+
+## Page Action menu
 
 
 ## Auto-hide Context Menu
@@ -35,19 +43,54 @@
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+
 ## Bookmark Panel
 
 
 ## Identity Panel
 
+
 ## Window controls
+
+
+## Tab actions
+
+
+## Bookmarks toolbar items
+
 
 ## WebRTC Pop-up notifications
 
+
 ## WebRTC window or screen share tab switch warning
+
 
 ## DevTools F12 popup
 
 
 ## URL Bar
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Full Screen and Pointer Lock UI
+
+
+## Subframe crash notification
+
+
+## Bookmarks panels, menus and toolbar
+
+
+## Library Panel items
+
+
+## More items
 
