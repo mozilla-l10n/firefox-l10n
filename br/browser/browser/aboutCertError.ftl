@@ -70,7 +70,7 @@ dnsNotFound-title = Hum. Diaes eo deomp kavout al lec’hienn-mañ.
 fileNotFound-title = Restr dianav
 fileAccessDenied-title = Nac’het eo bet haeziñ d’ar restr
 generic-title = N'haller ket echuiñ an azgoulenn-mañ.
-captivePortal-title = Kennaskañ d'ar rouedad
+captivePortal-title = Kennaskañ d’ar rouedad
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Ne seblant ket bezañ reizh ar chomlec’h-mañ.

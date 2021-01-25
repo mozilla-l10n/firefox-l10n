@@ -12,7 +12,7 @@ navbar-tooltip-instruction =
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Mont d'ar bajennad kent
+    .tooltiptext = Mont d’ar bajennad kent
     .aria-label = Kent
     .accesskey = K
 navbar-tooltip-back =
@@ -23,8 +23,8 @@ toolbar-button-back =
 ## Forward
 
 main-context-menu-forward =
-    .tooltiptext = Mont d'ar bajennad war-lerc'h
-    .aria-label = War-lerc'h
+    .tooltiptext = Mont d’ar bajennad war-lerc’h
+    .aria-label = War-lerc’h
     .accesskey = W
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
@@ -247,7 +247,7 @@ main-context-menu-save-to-pocket =
     .label = Enrollañ ar bajenn etrezek { -pocket-brand-name }
     .accesskey = k
 main-context-menu-send-to-device =
-    .label = Kas ar bajenn d'an trevnad
+    .label = Kas ar bajenn d’an trevnad
     .accesskey = t
 main-context-menu-view-background-image =
     .label = Gwelout ar skeudenn drekleur
@@ -259,7 +259,7 @@ main-context-menu-keyword =
     .label = Ouzhpennañ ur ger-alc'hwez evit ar c'hlask-mañ …
     .accesskey = k
 main-context-menu-link-send-to-device =
-    .label = Kas an ere d'an trevnad
+    .label = Kas an ere d’an trevnad
     .accesskey = t
 main-context-menu-frame =
     .label = Ar frammad-se

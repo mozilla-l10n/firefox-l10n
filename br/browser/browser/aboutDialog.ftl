@@ -26,8 +26,8 @@ channel-description = Oc’h arverañ ar sanell hizivaat <label data-l10n-name="
 warningDesc-version = Arnodel eo { -brand-short-name } ha distabil e c’hellfe bezañ.
 aboutdialog-help-user = Skoazell { -brand-product-name }
 aboutdialog-submit-feedback = Reiñ ho meno
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> zo ur <label data-l10n-name="community-exp-creditsLink">gumuniezh vedel</label> hag a labour a-gevret evit mirout ar Gwiad digor, foran ha haezadus d'an holl.
-community-2 = Ergrafet eo { -brand-short-name } gant <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ur <label data-l10n-name="community-creditsLink">gumuniezh vedel</label> hag a labour a-gevret evit mirout ar Gwiad digor, foran ha haezadus d'an holl.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> zo ur <label data-l10n-name="community-exp-creditsLink">gumuniezh vedel</label> hag a labour a-gevret evit mirout ar Gwiad digor, foran ha haezadus d’an holl.
+community-2 = Ergrafet eo { -brand-short-name } gant <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ur <label data-l10n-name="community-creditsLink">gumuniezh vedel</label> hag a labour a-gevret evit mirout ar Gwiad digor, foran ha haezadus d’an holl.
 helpus = Skoazellañ a fell deoc’h? <label data-l10n-name="helpus-donateLink">Roit gwenneien</label> pe <label data-l10n-name="helpus-getInvolvedLink">gemerit perzh enni!</label>
 bottomLinks-license = Titouroù lañvaz
 bottomLinks-rights = Gwirioù an arveriaded-dibenn

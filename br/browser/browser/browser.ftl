@@ -157,7 +157,7 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 page-action-add-to-urlbar =
-    .label = Ouzhpennañ d'ar varenn chomlec'h
+    .label = Ouzhpennañ da varenn ar chomlec’hioù
 page-action-manage-extension =
     .label = Merañ an askouezh...
 page-action-remove-from-urlbar =

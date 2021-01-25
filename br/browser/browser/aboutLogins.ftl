@@ -210,7 +210,7 @@ confirm-discard-changes-dialog-confirm-button = Dilezel
 
 about-logins-breach-alert-title = Fuadur el lec’hienn
 breach-alert-text = Gerioù-tremen a zo bet diskuilhet pe laeret abaoe ar wech ziwezhañ m’ho peus hizivaet ho titouroù kennaskañ. Cheñchit ho ker-tremen evit gwareziñ ho kont.
-about-logins-breach-alert-date = C’hoarvezet eo bet ar fuadur d'ar { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = C’hoarvezet eo bet ar fuadur d’ar { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Mont da { $hostname }
@@ -231,7 +231,7 @@ about-logins-vulnerable-alert-learn-more-link = Gouzout hiroc’h
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Un enankad evit { $loginTitle } gant an anv arveriad-mañ a zo dioutañ endeo. <a data-l10n-name="duplicate-link">Mont d'an enankad?</a>
+about-logins-error-message-duplicate-login-with-link = Un enankad evit { $loginTitle } gant an anv arveriad-mañ a zo dioutañ endeo. <a data-l10n-name="duplicate-link">Mont d’an enankad?</a>
 # This is a generic error message.
 about-logins-error-message-default = Degouezhet ez eus bet ur fazi en ur glask enrollañ ar ger-tremen-mañ
 
