@@ -91,6 +91,13 @@ pref-thread-stream-trans =
     .title = Netwerkstroomtransport
 perftools-thread-socket-thread =
     .title = De thread waarin netwerkcode alle blokkerende socket-aanroepen uitvoert
+perftools-thread-dns-resolver =
+    .title = Op deze thread vindt DNS-omzetting plaats
+perftools-thread-js-helper =
+    .title = Achtergrondwerk van de JS-engine, zoals off-main-threadcompilaties
 
 ##
 
+perftools-record-all-registered-threads = Bovenstaande selectie omzeilen en alle geregistreerde threads opnemen
+perftools-tools-threads-input-label =
+    .title = Deze threadnamen zijn een kommagescheiden lijst, die wordt gebruikt om het profileren van de threads in de profiler mogelijk te maken. De naam hoeft maar deels overeen te komen met de threadnaam om opgenomen te worden. Gevoelig voor witruimte.
