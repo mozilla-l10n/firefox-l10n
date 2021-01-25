@@ -9,7 +9,6 @@
 <!ENTITY calendar.newevent.button.tooltip         "Krouiñ un darvoud nevez" >
 <!ENTITY calendar.newtask.button.tooltip          "Krouiñ un drevell nevez" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Trevelloù" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Skrammañ an trevelloù echuet">
 
 <!ENTITY calendar.today.button.label          "Hiziv">
@@ -354,7 +353,6 @@
 <!ENTITY calendarproperties.color.label                    "Liv :">
 <!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
 <!ENTITY calendarproperties.caldav.label                   "CalDAV">
-<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Mentrezh :">
 <!ENTITY calendarproperties.location.label                 "Lec'hiadur :">
 <!ENTITY calendarproperties.refreshInterval.label          "Azgrenaat an deiziataer :">
@@ -363,8 +361,7 @@
 <!ENTITY calendarproperties.readonly.label                 "Lenn hepken">
 <!ENTITY calendarproperties.firealarms.label               "Skrammañ an adc'halvoù">
 <!ENTITY calendarproperties.cache3.label                   "Skor ezlinenn">
-<!ENTITY calendarproperties.enabled.label                  "Gweredekaat an deiziataer-mañ">
-<!ENTITY calendarproperties.forceDisabled.label            "N'eo ket bet kavet pourchaser an deiziataer-mañ. C'hoarvez a ra alies pa vez diweredekaet pe distaliet askouezhioù 'zo.">
+<!ENTITY calendarproperties.forceDisabled.label            "N'eo ket bet kavet pourchaser an deiziataer-mañ. C'hoarvez a ra alies pa vez diweredekaet pe distaliet askouezhioù ’zo.">
 <!ENTITY calendarproperties.unsubscribe.label              "Digoumanantiñ">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "D">
 
