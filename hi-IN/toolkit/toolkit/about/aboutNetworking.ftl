@@ -41,6 +41,7 @@ about-networking-dns-lookup = डीएनएस अवलोकन
 about-networking-dns-lookup-button = समाधान करें
 about-networking-dns-domain = डोमेन:
 about-networking-dns-lookup-table-column = IPs
+about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = RCWN आँकड़े
 about-networking-rcwn-status = RCWN स्थिति
 about-networking-rcwn-cache-won-count = कैश विजय गणना

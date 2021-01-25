@@ -5,6 +5,8 @@
 
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = टैब बंद करें
 
 ## Column headers
 
