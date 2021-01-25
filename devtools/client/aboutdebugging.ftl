@@ -83,7 +83,7 @@ about-debugging-setup-title = הקמה
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = הגדרת שיטת החיבור שתשמש אותך לניפוי שגיאות מרחוק מול המכשיר שלך.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = ניתן להשתמש ב<a>{ about-debugging-this-firefox-runtime-name }</a> כדי לנפות שגיאות בהרחבות ו־service workers בגרסה זו של { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = ניתן להשתמש ב־<a>{ about-debugging-this-firefox-runtime-name }</a> כדי לנפות שגיאות בהרחבות ו־service workers בגרסה זו של { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = חיבור מכשיר
 # USB section of the Setup page
