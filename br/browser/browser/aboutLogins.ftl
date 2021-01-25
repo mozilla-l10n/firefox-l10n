@@ -75,18 +75,18 @@ login-intro-heading = Klask a rit ho titouroù kennaskañ? Arventennit { -sync-b
 about-logins-login-intro-heading-logged-out = Klask a rit ho titouroù kennaskañ enroller? Arventennit { -sync-brand-short-name } pe enporzhit anezho.
 about-logins-login-intro-heading-logged-in = N'eus bet kavet titour kennaskañ ebet.
 login-intro-description = M'ho peus enrollet ho titouroù kennaskañ { -brand-product-name } war un trevnad all, setu penaos kaout anezho amañ:
-login-intro-instruction-fxa = Krouit pe kennaskit d'ho { -fxaccount-brand-name } war an trevnad lec'h m'eo enrollet ho titouroù kennaskañ
+login-intro-instruction-fxa = Krouit pe kennaskit d’ho { -fxaccount-brand-name } war an trevnad lec’h m’eo enrollet ho titouroù kennaskañ
 login-intro-instruction-fxa-settings = Gwiriekait ho peus diuzet ar boestoù kevaskañ Kennaskañ e arventennoù { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kit war <a data-l10n-name="help-link">skoazell { -lockwise-brand-short-name }</a> evit kaout sikour
-about-logins-intro-import = Mard eo enrollet ho titouroù kennaskañ en ur merdeer all e c'hallit <a data-l10n-name="import-link">enporzhiañ anezho e { -lockwise-brand-short-name }</a>
-about-logins-intro-import2 = Mard eo enrollet ho titouroù kennaskañ e diavaez { -brand-product-name } e c'hallit a data-l10n-name="import-browser-link">enporzhiañ anezho adalek ur merdeer all</a> pe <a data-l10n-name="import-file-link">adalek ur restr</a>
+about-logins-intro-import = Mard eo enrollet ho titouroù kennaskañ en ur merdeer all e c’hallit <a data-l10n-name="import-link">enporzhiañ anezho e { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Mard eo enrollet ho titouroù kennaskañ e diavaez { -brand-product-name } e c’hallit a data-l10n-name="import-browser-link">enporzhiañ anezho adalek ur merdeer all</a> pe <a data-l10n-name="import-file-link">adalek ur restr</a>
 
 ## Login
 
 login-item-new-login-title = Krouiñ un titour kennaskañ nevez
 login-item-edit-button = Embann
 about-logins-login-item-remove-button = Dilemel
-login-item-origin-label = Chomlec'h al lec'hienn
+login-item-origin-label = Chomlec’h al lec’hienn
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Anv arveriad
@@ -99,7 +99,7 @@ login-item-password-reveal-checkbox =
     .aria-label = Diskouez ar ger-tremen
 login-item-copy-password-button-text = Eilañ
 login-item-copied-password-button-text = Eilet!
-login-item-save-changes-button = Enrollañ ar c'hemmoù
+login-item-save-changes-button = Enrollañ ar c’hemmoù
 login-item-save-new-button = Enrollañ
 login-item-cancel-button = Nullañ
 login-item-time-changed = Kemmet da ziwezhañ: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
@@ -150,8 +150,8 @@ master-password-reload-button =
 
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Fellout a ra deoc'h kaout ho titouroù kennaskañ e pep lec'h ma arverit { -brand-product-name }? Kit e-barzh dibarzhioù { -sync-brand-short-name } ha diuzit ar voest kevaskañ Titouroù kennaskañ.
-       *[other] Fellout a ra deoc'h kaout ho titouroù kennaskañ e pep lec'h ma arverit { -brand-product-name }? Kit e-barzh gwellvezioù { -sync-brand-short-name } ha diuzit ar voest kevaskañ Titouroù kennaskañ.
+        [windows] Fellout a ra deoc’h kaout ho titouroù kennaskañ e pep lec’h ma arverit { -brand-product-name }? Kit e-barzh dibarzhioù { -sync-brand-short-name } ha diuzit ar voest kevaskañ Titouroù kennaskañ.
+       *[other] Fellout a ra deoc’h kaout ho titouroù kennaskañ e pep lec’h ma arverit { -brand-product-name }? Kit e-barzh gwellvezioù { -sync-brand-short-name } ha diuzit ar voest kevaskañ Titouroù kennaskañ.
     }
 enable-password-sync-preferences-button =
     .label =
@@ -161,7 +161,7 @@ enable-password-sync-preferences-button =
         }
     .accesskey = o
 about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Na c'houlennit en-dro
+    .label = Na c’houlennit en-dro
     .accesskey = N
 
 ## Dialogs
@@ -199,31 +199,31 @@ about-logins-confirm-remove-all-dialog-title =
        *[other] Dilemel { $count } titour kennaskañ?
     }
 about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
-about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c'hallo bezañ lennet gant an holl a c'hall digeriñ ar restr ezporzhiet.
+about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c’hallo bezañ lennet gant an holl a c’hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
 about-logins-alert-import-title = Echu eo gant an enporzhiañ
-confirm-discard-changes-dialog-title = Dilezel ar c'hemmoù n'int ket bet enrollet?
-confirm-discard-changes-dialog-message = An holl c'hemmoù n'int ket bet enrollet a vo kollet.
+confirm-discard-changes-dialog-title = Dilezel ar c’hemmoù n’int ket bet enrollet?
+confirm-discard-changes-dialog-message = An holl c’hemmoù n’int ket bet enrollet a vo kollet.
 confirm-discard-changes-dialog-confirm-button = Dilezel
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Fuadur el lec'hienn
+about-logins-breach-alert-title = Fuadur el lec’hienn
 breach-alert-text = Gerioù-tremen a zo bet diskuilhet pe laeret abaoe ar wech ziwezhañ m'ho peus hizivaet ho titouroù kennaskañ. Cheñchit ho ker-tremen evit gwareziñ ho kont.
-about-logins-breach-alert-date = C'hoarvezet eo bet ar fuadur d'ar { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = C’hoarvezet eo bet ar fuadur d'ar { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Mont da { $hostname }
-about-logins-breach-alert-learn-more-link = Gouzout hiroc'h
+about-logins-breach-alert-learn-more-link = Gouzout hiroc’h
 
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ger-tremen bresk
-about-logins-vulnerable-alert-text2 = Ar ger-tremen-mañ a zo bet implijet en ur gont-all ha marteze eo bet lakaet en arvar abalamour d'ur fuadur roadennoù. Implijout en-dro an titouroù-se a lak holl kontoù ac'hanoc'h en arvar. Cheñchit ar ger-tremen-mañ.
+about-logins-vulnerable-alert-text2 = Ar ger-tremen-mañ a zo bet implijet en ur gont-all ha marteze eo bet lakaet en arvar abalamour d’ur fuadur roadennoù. Implijout en-dro an titouroù-se a lak holl kontoù ac’hanoc’h en arvar. Cheñchit ar ger-tremen-mañ.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Mont da { $hostname }
-about-logins-vulnerable-alert-learn-more-link = Gouzout hiroc'h
+about-logins-vulnerable-alert-learn-more-link = Gouzout hiroc’h
 
 ## Error Messages
 

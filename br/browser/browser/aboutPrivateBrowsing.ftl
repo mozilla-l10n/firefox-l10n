@@ -5,13 +5,13 @@
 privatebrowsingpage-open-private-window-label = Digeriñ ur prenestr merdeiñ prevez
     .accesskey = p
 about-private-browsing-search-placeholder = Klask er web
-about-private-browsing-info-title = En ur prenestr merdeiñ prevez emaoc'h
+about-private-browsing-info-title = En ur prenestr merdeiñ prevez emaoc’h
 about-private-browsing-info-myths = Mojennoù a vez alies diwar-benn ar merdeiñ prevez
 about-private-browsing =
     .title = Klask er web
-about-private-browsing-not-private = N'emaoc'h ket e-barzh ur prenestr merdeiñ prevez.
-about-private-browsing-info-description = { -brand-short-name } a skarzh ho roll istor klask ha merdeiñ pa guitait an arload pe pa serrit an holl brenestroù hag ivinelloù merdeiñ prevez. Daoust ma ne lak ket ac'hanoc'h da vezañ dizanv evit al lec'hiennoù pe evit ho pourchaser kenrouedad e vo aesoc'h da zerc'hel prevez ar pezh a rit enlinenn evit an dud all a implij an urzhiataer-mañ.
-about-private-browsing-need-more-privacy = Ezhomm ho peus muioc'h a brevezded?
+about-private-browsing-not-private = N'emaoc’h ket e-barzh ur prenestr merdeiñ prevez.
+about-private-browsing-info-description = { -brand-short-name } a skarzh ho roll istor klask ha merdeiñ pa guitait an arload pe pa serrit an holl brenestroù hag ivinelloù merdeiñ prevez. Daoust ma ne lak ket ac’hanoc’h da vezañ dizanv evit al lec’hiennoù pe evit ho pourchaser kenrouedad e vo aesoc’h da zerc’hel prevez ar pezh a rit enlinenn evit an dud all a implij an urzhiataer-mañ.
+about-private-browsing-need-more-privacy = Ezhomm ho peus muioc’h a brevezded?
 about-private-browsing-turn-on-vpn = Esaeit { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
