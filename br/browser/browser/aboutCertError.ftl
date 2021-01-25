@@ -58,42 +58,42 @@ cert-error-details-cert-chain-label = Chadenn testeni:
 open-in-new-window-for-csp-or-xfo-error = Digeriñ al lec’hienn en ur prenestr nevez
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Evit gwareziñ ho surentez, { $hostname } na aotreo ket { -brand-short-name } da ziskouez ar bajenn ma vez ul lec'hienn all enkorfet enni. Evit gwelout ar bajenn-mañ ho peus ezhomm da zigeriñ anezhi en ur prenestr nevez.
+csp-xfo-blocked-long-desc = Evit gwareziñ ho surentez, { $hostname } na aotreo ket { -brand-short-name } da ziskouez ar bajenn ma vez ul lec’hienn all enkorfet enni. Evit gwelout ar bajenn-mañ ho peus ezhomm da zigeriñ anezhi en ur prenestr nevez.
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = Ne c'haller ket kennaskañ
+connectionFailure-title = Ne c’haller ket kennaskañ
 deniedPortAccess-title = Dindan strishadurioù emañ ar porzh-mañ
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = Hum. Diaes eo deomp kavout al lec'hienn-mañ.
+dnsNotFound-title = Hum. Diaes eo deomp kavout al lec’hienn-mañ.
 fileNotFound-title = Restr dianav
-fileAccessDenied-title = Nac'het eo bet haeziñ d'ar restr
+fileAccessDenied-title = Nac’het eo bet haeziñ d’ar restr
 generic-title = N'haller ket echuiñ an azgoulenn-mañ.
 captivePortal-title = Kennaskañ d'ar rouedad
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Hmm. Ne seblant ket bezañ reizh ar chomlec'h-mañ.
+malformedURI-title = Hmm. Ne seblant ket bezañ reizh ar chomlec’h-mañ.
 netInterrupt-title = Harzet eo bet treuzkas ar roadennoù
 notCached-title = Diamzeret eo an teul
 netOffline-title = Mod ezlinenn
-contentEncodingError-title = Fazi enrinegañ an endalc'had
+contentEncodingError-title = Fazi enrinegañ an endalc’had
 unsafeContentType-title = Rizh restr arvarus
-netReset-title = Ehanet eo bet ar c'hennaskañ
-netTimeout-title = Troc'het eo bet ar c'hennask rak re hir e oa
+netReset-title = Ehanet eo bet ar c’hennaskañ
+netTimeout-title = Troc’het eo bet ar c’hennask rak re hir e oa
 unknownProtocolFound-title = N'eo ket bet komprenet ar chomlec’h
-proxyConnectFailure-title = Dafariad ar proksi zo o nac'hañ ar c'hennaskañ
+proxyConnectFailure-title = Dafariad ar proksi zo o nac’hañ ar c’hennaskañ
 proxyResolveFailure-title = N'eo ket bet kavet an dafariad proksi
 redirectLoop-title = Adheñchañ ar bajenn n'eo ket dereat
 unknownSocketType-title = Respont direizh
-nssFailure2-title = C'hwitadenn war ar c'hennaskañ diarvar
+nssFailure2-title = C’hwitadenn war ar c’hennaskañ diarvar
 csp-xfo-error-title = { -brand-short-name } n'hall ket digeriñ ar bajenn
-corruptedContentError-title = Fazi a-fet endalc'had bet kontronet
+corruptedContentError-title = Fazi a-fet endalc’had bet kontronet
 remoteXUL-title = XUL a-bell
-sslv3Used-title = Ne c'haller ket kennaskañ outi ent diarvar
+sslv3Used-title = Ne c’haller ket kennaskañ outi ent diarvar
 inadequateSecurityError-title = N'eo ket diarvar ho kennask
 blockedByPolicy-title = Pajenn stanket
-clockSkewError-title = Direizh eo eurier hoc'h urzhiataer
+clockSkewError-title = Direizh eo eur hoc’h urzhiataer
 networkProtocolError-title = Fazi komenad rouedad
 nssBadCert-title = Diwallit: gallout a ra bezañ un arvar diogelroez
 nssBadCert-sts-title = N'eo ket kennasket: kudenn diogelroez posupl
