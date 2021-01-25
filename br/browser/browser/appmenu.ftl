@@ -47,6 +47,27 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Diskouez muioc'h a ditouroù
+profiler-popup-learn-more = Gouzout hiroc’h
+profiler-popup-settings =
+    .value = Arventennoù
+profiler-popup-recording-screen = Oc’h enrollañ…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personelaet
+profiler-popup-start-recording-button =
+    .label = Stagañ da enrollañ
+profiler-popup-discard-button =
+    .label = Dilezel
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -99,3 +120,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Klask hizivadurioù…
