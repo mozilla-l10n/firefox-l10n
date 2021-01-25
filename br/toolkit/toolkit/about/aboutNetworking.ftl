@@ -11,6 +11,7 @@ about-networking-refresh = Azbevaat
 about-networking-auto-refresh = Azbevaat ent emgefreek pep 3 eilenn
 about-networking-hostname = Anv ostiz
 about-networking-port = Porzh
+about-networking-http-version = Handelv HTTP
 about-networking-ssl = SSL
 about-networking-active = Oberiant
 about-networking-idle = Dioberiant
