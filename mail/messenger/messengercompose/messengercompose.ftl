@@ -23,6 +23,10 @@ pill-aria-label =
     { $count ->
        *[other] { $email }, 1 của { $count }: nhấn Enter để chỉnh sửa, Delete để xóa.
     }
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } không phải là địa chỉ e-mail hợp lệ
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email } không có trong sổ địa chỉ của bạn
 pill-action-edit =
     .label = Chỉnh sửa địa chỉ
     .accesskey = e
