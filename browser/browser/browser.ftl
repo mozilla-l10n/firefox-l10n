@@ -513,6 +513,7 @@ pointerlock-warning-no-domain = Dit document heeft de controle over uw aanwijzer
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Een deel van deze pagina is gecrasht.</strong> Dien een rapport in om { -brand-product-name } te informeren over dit probleem en het sneller opgelost te krijgen.
 crashed-subframe-learnmore =
     .label = Meer info
     .accesskey = M

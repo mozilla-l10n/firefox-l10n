@@ -84,6 +84,7 @@ login-item-new-login-title = Nieuwe aanmelding maken
 login-item-edit-button = Bewerken
 about-logins-login-item-remove-button = Verwijderen
 login-item-origin-label = Websiteadres
+login-item-tooltip-message = Zorg ervoor dat dit precies overeenkomt met het adres van de website waar u zich aanmeldt.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Gebruikersnaam
@@ -303,7 +304,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>Fouten:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niet geïmporteerd)</span>
     }
 about-logins-import-dialog-done = Gereed
+about-logins-import-dialog-error-title = Importeerfout
+about-logins-import-dialog-error-conflicting-values-title = Meerdere tegenstrijdige waarden voor één aanmelding
+about-logins-import-dialog-error-conflicting-values-description = Bijvoorbeeld: meerdere gebruikersnamen, wachtwoorden, URL’s enz. voor één aanmelding.
+about-logins-import-dialog-error-file-format-title = Probleem met bestandsindeling
+about-logins-import-dialog-error-file-format-description = Onjuiste of ontbrekende kolomheaders. Zorg ervoor dat het bestand kolommen voor gebruikersnaam, wachtwoord en URL bevat.
 about-logins-import-dialog-error-file-permission-title = Kan bestand niet lezen
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } heeft geen toestemming om het bestand te lezen. Probeer de bestandsrechten te wijzigen.
+about-logins-import-dialog-error-unable-to-read-title = Kan bestand niet ontleden
+about-logins-import-dialog-error-unable-to-read-description = Controleer of u een CSV- of TSV-bestand hebt geselecteerd.
+about-logins-import-dialog-error-no-logins-imported = Er zijn geen aanmeldingen geïmporteerd
 about-logins-import-dialog-error-learn-more = Meer info
 about-logins-import-dialog-error-try-again = Opnieuw proberen…
 about-logins-import-dialog-error-cancel = Annuleren
