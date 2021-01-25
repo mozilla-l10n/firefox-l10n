@@ -14,7 +14,12 @@ perftools-intro-description =
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Alle indstillinger
+perftools-heading-buffer = Buffer-indstillinger
+perftools-heading-features = Funktioner
+perftools-heading-features-default = Funktioner (anbefales som standard)
 perftools-heading-features-disabled = Deaktiverede funktioner
+perftools-heading-features-experimental = Eksperimentel
 perftools-heading-threads = Tråde
 perftools-heading-local-build = Lokalt build
 
