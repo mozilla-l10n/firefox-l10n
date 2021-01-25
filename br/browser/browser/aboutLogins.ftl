@@ -172,6 +172,15 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Dilemel an titour kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
 about-logins-confirm-remove-dialog-confirm-button = Dilemel
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Dilemel
+        [one] Dilemel
+        [two] Dilemel pep tra
+        [few] Dilemel pep tra
+        [many] Dilemel pep tra
+       *[other] Dilemel pep tra
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ya, dilemel an titour kennaskañ-mañ
@@ -192,6 +201,7 @@ about-logins-confirm-remove-all-dialog-title =
 about-logins-confirm-export-dialog-title = Ezporzhiañ an titouroù kennaskañ
 about-logins-confirm-export-dialog-message = Enrollet e vo ar gerioù-tremen dindan ur stumm lennus (sk: g3rTremenF4ll) neuze e c'hallo bezañ lennet gant an holl a c'hall digeriñ ar restr ezporzhiet.
 about-logins-confirm-export-dialog-confirm-button = Ezporzhiañ…
+about-logins-alert-import-title = Echu eo gant an enporzhiañ
 confirm-discard-changes-dialog-title = Dilezel ar c'hemmoù n'int ket bet enrollet?
 confirm-discard-changes-dialog-message = An holl c'hemmoù n'int ket bet enrollet a vo kollet.
 confirm-discard-changes-dialog-confirm-button = Dilezel
@@ -258,6 +268,7 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Echu eo gant an enporzhiañ
 about-logins-import-dialog-done = Graet
 about-logins-import-dialog-error-title = Fazi enporzhiañ
 about-logins-import-dialog-error-learn-more = Gouzout hiroc’h
