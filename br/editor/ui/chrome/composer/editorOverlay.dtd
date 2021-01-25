@@ -329,13 +329,21 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Arloañ pe zilemel ar roll dre badelligoù">
 <!ENTITY numbers.label "Niverennoù">
 <!ENTITY numberListToolbarCmd.tooltip "Arloañ pe lemel kuit ar roll niverennet">
+<!ENTITY outdent.label "Diendantañ">
 <!ENTITY outdentToolbarCmd.tooltip "Kilañ an destenn (dilec'hiañ a-gleiz)">
+<!ENTITY indent.label "Endantañ">
 <!ENTITY indentToolbarCmd.tooltip "Kilañ an destenn (dilec'hiañ a-zehou)">
+<!ENTITY AlignPopupButton.label "Steudadur">
 <!ENTITY AlignPopupButton.tooltip "Dibab steudadur an destenn">
+<!ENTITY InsertPopupButton.label "Enlakaat">
 <!ENTITY InsertPopupButton.tooltip "Enlakaat un ere, eor, skeudenn, linenn a-blaen pe un daolenn">
+<!ENTITY alignLeftButton.label "Desteudañ war an tu kleiz">
 <!ENTITY alignLeftButton.tooltip "Desteudañ an destenn ouzh ar marz gleiz">
+<!ENTITY alignCenterButton.label "Desteudañ e kreiz">
 <!ENTITY alignCenterButton.tooltip "Desteudañ an destenn e kreiz">
+<!ENTITY alignRightButton.label "Desteudañ war an tu dehou">
 <!ENTITY alignRightButton.tooltip "Desteudañ an destenn a-hed ar marz dehou">
+<!ENTITY alignJustifyButton.label "Desteudañ marzekaet">
 <!ENTITY alignJustifyButton.tooltip "Marzekaat an destenn a-hed ar marzoù kleiz ha dehou">
 
 <!-- Structure Toolbar Context Menu items -->

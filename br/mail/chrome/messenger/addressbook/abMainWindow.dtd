@@ -18,6 +18,8 @@
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Karned chomlec'hioù…">
 <!ENTITY newAddressBookCmd.accesskey                    "c">
+<!ENTITY newCardDAVBookCmd.label                        "Karned chomlec’hioù CardDAV…">
+<!ENTITY newCardDAVBookCmd.accesskey                    "V">
 <!ENTITY newLDAPDirectoryCmd.label                      "Kavlec'hiad LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Kemennadenn">
@@ -123,6 +125,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "P">
 <!ENTITY abPropertiesContext.label                      "Perzhioù">
 <!ENTITY abPropertiesContext.accesskey                  "P">
+<!ENTITY syncContext.label                              "Goubredañ">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Embann an darempred">
 <!ENTITY editContactContext.accesskey                   "E">
 <!ENTITY editMailingListContext.label                   "Embann ar roll">

@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Arventennoù kont">
@@ -15,6 +13,7 @@
 <!ENTITY name.accesskey "a">
 <!ENTITY email.label "Postel :">
 <!ENTITY email.accesskey "e">
+<!ENTITY catchAll.accesskey "d">
 <!ENTITY replyTo.label "Postel Respont-da :">
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY replyTo.placeholder "An degemererien a responto d'ar chomlec'h all-mañ">

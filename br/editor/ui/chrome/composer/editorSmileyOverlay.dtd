@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Fromlun">
 <!ENTITY insertSmiley.accesskey "m">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Diweuz serr">
 <!ENTITY smiley16Cmd.accesskey "D">
 <!ENTITY smiley16Cmd.tooltip "Enlakaat un dremm e ziweuz serr">
+<!ENTITY SmileButton.label "Enlakaat un emijo">
 <!ENTITY SmileButton.tooltip "Enlakaat ur fromarlun">
-

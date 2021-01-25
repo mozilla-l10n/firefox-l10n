@@ -2,12 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from AccountManager.xul -->
-
-
 <!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Arventennoù kont">
+<!ENTITY  accountManagerCloseButton.label "Serriñ">
 
 <!ENTITY accountActionsButton.label "Ardeiñ ar c'hontoù">
 <!ENTITY accountActionsButton.accesskey "A">
@@ -24,7 +22,9 @@
 <!ENTITY removeButton.label "Dilemel ar gont">
 <!ENTITY removeButton.accesskey "D">
 
-<!-- AccountManager.xul -->
+<!ENTITY addonsButton.label "Astennoù ha temoù">
+
+<!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
      Localizers ONLY can increase these widths if they are having difficulty getting
@@ -33,8 +33,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-
-<!-- AccountManager.xhtml -->
-<!-- AccountManager.xhtml -->
 <!ENTITY accountManager.size "width: 107ch; height: 49em;">
 <!ENTITY accountTree.width "width: 31ch;">
