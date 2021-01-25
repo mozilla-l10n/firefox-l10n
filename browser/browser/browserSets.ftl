@@ -119,8 +119,18 @@ bookmark-show-all-shortcut =
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
+bookmark-show-library-shortcut =
+    .key = O
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
 bookmark-show-sidebar-shortcut =
     .key = b
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-toolbar-shortcut =
+    .key = B
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,

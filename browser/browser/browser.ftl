@@ -341,6 +341,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Жабу
 
+## Tab actions
+
+browser-tab-audio-playing = Ойнатуда
+browser-tab-audio-muted = Дыбысы өшірілген
+
 ## Bookmarks toolbar items
 
 
@@ -475,6 +480,15 @@ fullscreen-exit-mac-button = Толық экраннан шығу (Esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.
 pointerlock-warning-no-domain = Бұл құжат курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.
 
+## Subframe crash notification
+
+crashed-subframe-learnmore =
+    .label = Көбірек білу
+    .accesskey = л
+crashed-subframe-submit =
+    .label = Есептемені жіберу
+    .accesskey = с
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -535,6 +549,8 @@ library-bookmarks-bookmark-this-page =
     .label = Бұл бетті бетбелгілерге қосу
 library-bookmarks-bookmark-edit =
     .label = Бетбелгіні түзету
+library-recent-activity-title =
+    .value = Соңғы белсенділік
 
 ## More items
 
