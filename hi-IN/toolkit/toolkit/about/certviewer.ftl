@@ -41,9 +41,9 @@ certificate-viewer-serial-number = सीरीयल नंबर
 certificate-viewer-version = संस्करण
 certificate-viewer-issuer-name = जारीकर्ता का नाम
 certificate-viewer-validity = वैधता
+certificate-viewer-fingerprints = फिंगरप्रिंट
 certificate-viewer-authority-info-aia = प्राधिकरण जानकारी (AIA)
 certificate-viewer-certificate-policies = प्रमाणपत्र नीतियां
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = डाउनलोड
@@ -58,6 +58,9 @@ certificate-viewer-boolean =
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+
+##
 
 
 ## Labels for tabs displayed in stand-alone about:certificate page

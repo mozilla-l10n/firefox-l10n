@@ -263,6 +263,7 @@ effective-content-sandbox-level = प्रभावी सामग्री �
 sandbox-proc-type-content = अंतर्वस्तु
 sandbox-proc-type-file = फ़ाइल सामग्री
 sandbox-proc-type-media-plugin = मीडिया प्लगइन
+sandbox-proc-type-data-decoder = डेटा डीकोडर
 launcher-process-status-0 = सक्रिय
 launcher-process-status-1 = विफलता के कारण निष्क्रिय
 launcher-process-status-2 = बलपूर्वक अक्षम किया गया
@@ -279,6 +280,10 @@ multi-process-status-6 = असमर्थित अवतरण निवे�
 multi-process-status-7 = ऐड-ऑन्स द्वारा निष्क्रिय किया गया
 multi-process-status-8 = जबरन अक्षम
 multi-process-status-unknown = अज्ञात अवस्था
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = असमन्वित पैन/Zoom
 apz-none = कोई नहीं
 wheel-enabled = पहिया इनपुट सक्षम
@@ -298,3 +303,7 @@ touch-warning = असमर्थित पसंद: { $preferenceKey } के
 policies-inactive = निष्क्रिय
 policies-active = सक्रिय
 policies-error = त्रुटि
+
+## Printing section
+
+support-printing-prefs-name = नाम
