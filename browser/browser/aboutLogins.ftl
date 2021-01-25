@@ -222,3 +222,11 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV दस्तावेज़
        *[other] CSV फ़ाइल
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-error-learn-more = अधिक जानें
+about-logins-import-dialog-error-try-again = फिर से कोशिश करें...
+about-logins-import-dialog-error-cancel = रद्द करें
