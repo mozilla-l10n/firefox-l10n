@@ -7,7 +7,7 @@ about-logins-page-title = Titouroù kennaskañ
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Kemerit ho kerioù-tremen e pep lec'h
+login-app-promo-title = Kemerit ho kerioù-tremen e pep lec’h
 login-app-promo-subtitle = Tapit an arload { -lockwise-brand-name } digoust
 login-app-promo-android =
     .alt = Tapit anezhañ war Google Play
@@ -42,7 +42,7 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } evit iPhone hag iPad
 ## Login List
 
 login-list =
-    .aria-label = Titouroù kennaskañ a glot gant ar c'hlask
+    .aria-label = Titouroù kennaskañ a glot gant ar c’hlask
 login-list-count =
     { $count ->
         [one] { $count } titour kennaskañ
@@ -60,12 +60,12 @@ login-list-last-used-option = Arveret da ziwezhañ
 login-list-intro-title = Titour kennaskañ ebet kavet
 login-list-intro-description = Pa enrollit ur ger-tremen e { -brand-product-name } e vo diskouezet amañ
 about-logins-login-list-empty-search-title = Titour kennaskañ ebet kavet
-about-logins-login-list-empty-search-description = N'eus disoc'h ebet a glot gant ho c'hlask
+about-logins-login-list-empty-search-description = N’eus disoc’h ebet a glot gant ho klask
 login-list-item-title-new-login = Titour kennaskañ nevez
 login-list-item-subtitle-new-login = Enankit ho titouroù kennaskañ
 login-list-item-subtitle-missing-username = (anv arveriad ebet)
 about-logins-list-item-breach-icon =
-    .title = Lec'hienn frailhet
+    .title = Lec’hienn frailhet
 about-logins-list-item-vulnerable-password-icon =
     .title = Ger-tremen bresk
 
