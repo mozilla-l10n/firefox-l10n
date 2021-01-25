@@ -25,6 +25,13 @@ perftools-heading-local-build = Lokalt build
 
 ##
 
+perftools-description-intro =
+    Optagelser starter <a>profiler.firefox.com</a> i et nyt faneblad. Alle data gemmes
+    lokalt, men du kan vælge at uploade og dele dem.
+perftools-description-local-build =
+    Hvis du profilerer et build, du selv har kompileret på denne maskine
+    så tilføj dit builds objdir på listen nedenfor, så det kan bruges til at
+    slå symbol-information op.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -49,9 +56,12 @@ perftools-status-restart-required = Browseren skal genstartes for at aktivere de
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-get-profile-and-stop-profiler = Indfanger profil
 
 ##
 
+perftools-button-start-recording = Start optagelse
+perftools-button-capture-recording = Indfang optagelse
 perftools-button-cancel-recording = Afbryd optagelse
 perftools-button-save-settings = Gem indstillinger og gå tilbage
 perftools-button-restart = Genstart
