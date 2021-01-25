@@ -2,6 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY e2eTitle.label "Enrinegañ penn-da-benn">
+<!ENTITY e2eLearnMore.label "Gouzout hiroc’h">
+
+
+
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY digitalSign.certificate.button "Diuzañ…">
 <!ENTITY digitalSign.certificate.accesskey "z">
 <!ENTITY digitalSign.certificate_clear.button "Skarzhañ">
@@ -13,9 +20,21 @@
 <!ENTITY signingGroupTitle.label "Sinañ niverel">
 <!ENTITY signMessage.accesskey "S">
 
-<!-- Strings for the cert picker dialog -->
 
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Ardeiñ an testenioù S/MIME">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.accesskey "y">
+
+<!ENTITY technologySMIME.label "Privilajiñ S/MIME">
+<!ENTITY technologyOpenPGP.label "Privilajiñ OpenPGP">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Diuzañ un testeni">
 <!ENTITY certPicker.info  "Testeni:">
 <!ENTITY certPicker.detailsLabel "Munudoù an testeni bet diuzet:">
 
+<!ENTITY openpgpKey.accesskey "o">

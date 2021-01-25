@@ -29,7 +29,10 @@
 <!ENTITY helpFeedbackPage.label "Roit ho meno…">
 <!ENTITY helpFeedbackPage.accesskey "R">
 
+<!ENTITY helpShowTour2.label "Gweladenniñ &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "o">
 
 <!ENTITY helpGetInvolvedPage.label "Kemer Perzh">
 <!ENTITY helpGetInvolvedPage.accesskey "K">
 
+<!ENTITY helpDonationsPage.accesskey "M">
