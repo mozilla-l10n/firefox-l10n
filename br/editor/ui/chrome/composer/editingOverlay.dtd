@@ -37,3 +37,4 @@
 <!ENTITY saveToolbarCmd.tooltip "Enrollañ ar restr en ul lec'hiadur lec'hel">
 <!ENTITY publishToolbarCmd.tooltip "Kargañ ar restr etrezek ul lec'hiadur a-bell">
 <!ENTITY printToolbarCmd.label "Moullañ">
+<!ENTITY printToolbarCmd.tooltip "Moullañ ar bajenn-mañ">

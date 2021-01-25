@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Pegañ hep furmaozañ">
 <!ENTITY pasteNoFormatting.accesskey "h">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Pegañ evel">
-<!ENTITY pasteAs.accesskey "P">
 <!ENTITY pasteAsQuotationCmd.label "Pegañ evel ur meneg">
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -208,6 +206,7 @@
 <!ENTITY alignJustify.tooltip "Desteudañ marzekaet">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "O lec’hiañ">
 <!ENTITY layer.tooltip "Gwiskad">
 <!ENTITY decreaseZIndex.label "Kas d'an drekleur">
 <!ENTITY layerSendToBack.tooltip "Kas d'an drekleur">
@@ -293,8 +292,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Troc'hañ">
 <!ENTITY copyToolbarCmd.tooltip "Eilañ">
 <!ENTITY pasteToolbarCmd.tooltip "Pegañ">
-<!ENTITY printToolbarCmd.label "Moullañ">
-<!ENTITY printToolbarCmd.tooltip "Moullañ ar bajennad-mañ">
 <!ENTITY findToolbarCmd.label "Kavout">
 <!ENTITY findToolbarCmd.tooltip "Kavout testenn war ar bajenn">
 <!ENTITY spellToolbarCmd.label "Reizhskrivañ">
@@ -312,7 +309,7 @@
 <!ENTITY colorButtons.title "Livioù">
 <!ENTITY TextColorButton.tooltip "Dibab ul liv evit an destenn">
 <!ENTITY BackgroundColorButton.tooltip "Dibab al liv evit an drekleur">
-<!ENTITY throbber.tooltip "Mont da bajenn &vendorShortName; ">
+<!ENTITY HighlightColorButton.label "Usskeder">
 <!ENTITY HighlightColorButton.tooltip "Dibab al liv sklêrijennañ evit an destenn">
 
 <!-- Editor toolbar -->
@@ -328,6 +325,7 @@
 <!ENTITY italicToolbarCmd.tooltip "Stouet">
 <!ENTITY underline.label "Islinennañ">
 <!ENTITY underlineToolbarCmd.tooltip "Islinennañ">
+<!ENTITY bullets.label "Padelligoù">
 <!ENTITY bulletListToolbarCmd.tooltip "Arloañ pe zilemel ar roll dre badelligoù">
 <!ENTITY numbers.label "Niverennoù">
 <!ENTITY numberListToolbarCmd.tooltip "Arloañ pe lemel kuit ar roll niverennet">
