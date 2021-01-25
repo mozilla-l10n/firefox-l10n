@@ -268,6 +268,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-fil
        *[other] CSV-fil
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokument
+       *[other] TSV-fil
+    }
 
 ##
 ## Variables:
@@ -291,3 +298,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>Fejl:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importeret)</span>
     }
 about-logins-import-dialog-done = Færdig
+about-logins-import-dialog-error-title = Fejl ved import
+about-logins-import-dialog-error-conflicting-values-title = Flere modstridende værdier for samme login
+about-logins-import-dialog-error-conflicting-values-description = For eksempel: Flere brugernavne, adgangskoder URL'er osv. for det samme login.
+about-logins-import-dialog-error-file-format-title = Problem med filformat
+about-logins-import-dialog-error-file-format-description = Ukorrekte eller manglende kolonne-overskrifter. Kontrollér at filen indeholder kolonner til brugernavn, adgangskode og URL.
+about-logins-import-dialog-error-file-permission-title = Kunne ikke læse fil
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } har ikke tilladelse til at læse filen. Prøv at ændre tilladelser for filen.
+about-logins-import-dialog-error-unable-to-read-title = Kunne ikke tolke filen
+about-logins-import-dialog-error-unable-to-read-description = Kontrollér at det er en CSV- eller TSV-fil.
+about-logins-import-dialog-error-no-logins-imported = Ingen logins er blevet importeret
+about-logins-import-dialog-error-learn-more = Læs mere
+about-logins-import-dialog-error-try-again = Prøv igen…
+about-logins-import-dialog-error-cancel = Annuller
