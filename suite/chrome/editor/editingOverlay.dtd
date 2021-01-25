@@ -29,6 +29,16 @@
 <!ENTITY publishSettings.label "Sivun julkaisun asetukset…">
 <!ENTITY publishSettings.accesskey "j">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Lomake">
+<!ENTITY insertFormMenu.accesskey "L">
+<!ENTITY insertInputTagCmd.label "Lomakekenttä…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Lomakekuva…">
+<!ENTITY insertInputImageCmd.accesskey "k">
+<!ENTITY insertTextAreaCmd.label "Tekstikenttä…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Uusi">
 <!ENTITY newToolbarCmd.tooltip "Luo uusi Composer-sivu">
