@@ -515,7 +515,7 @@
 <!ENTITY folderContextRemove.label "Poista">
 <!ENTITY folderContextRemove.accesskey "P">
 <!ENTITY folderContextCompact.label "Tiivistä kansio">
-<!ENTITY folderContextCompact.accesskey "T">
+<!ENTITY folderContextCompact.accesskey "v">
 <!ENTITY folderContextEmptyTrash.label "Tyhjennä roskakori">
 <!ENTITY folderContextEmptyTrash.accesskey "y">
 <!ENTITY folderContextEmptyJunk.label "Tyhjennä roskapostit">
@@ -531,7 +531,7 @@
 <!ENTITY folderContextNew.label "Uusi alikansio…">
 <!ENTITY folderContextNew.accesskey "n">
 <!ENTITY folderContextSubscribe.label "Tilaa…">
-<!ENTITY folderContextSubscribe.accesskey "T">
+<!ENTITY folderContextSubscribe.accesskey "i">
 <!ENTITY folderContextSearchMessages.label "Etsi viesteistä…">
 <!ENTITY folderContextSearchMessages.accesskey "s">
 <!ENTITY folderContextProperties.label "Ominaisuudet…">
