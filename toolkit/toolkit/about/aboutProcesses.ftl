@@ -8,6 +8,8 @@
 
 ## Column headers
 
+about-processes-column-name = नाम
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -18,6 +20,10 @@
 
 ## Details within processes
 
+# Tab
+# Variables:
+#   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
+about-processes-tab-name = टैब: { $name }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -28,6 +34,10 @@
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = निष्क्रिय ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
