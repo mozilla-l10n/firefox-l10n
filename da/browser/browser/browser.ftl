@@ -346,6 +346,10 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Luk
 
+## Tab actions
+
+browser-tab-audio-playing = Afspiller
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +510,13 @@ pointerlock-warning-no-domain = Dette dokument kontrollerer din markør. Tryk Es
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>En del af denne side gik ned</strong>. Indsend en rapport for at fortælle { -brand-product-name } om dette problem, så det hurtigere kan blive løst.
+crashed-subframe-learnmore =
+    .label = Læs mere
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Indsend rapport
+    .accesskey = I
 
 ## Bookmarks panels, menus and toolbar
 
