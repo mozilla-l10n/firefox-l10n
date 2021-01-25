@@ -25,7 +25,7 @@ update-unsupported = Auf diesem System können keine weiteren Updates installier
 update-restarting = Wird neu gestartet…
 channel-description = Sie sind derzeit auf dem Update-Kanal <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } ist experimentell und könnte instabil sein.
-aboutdialog-help-user = { -brand-product-name }-HIlfe
+aboutdialog-help-user = { -brand-product-name }-Hilfe
 aboutdialog-submit-feedback = Feedback senden
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ist eine <label data-l10n-name="community-exp-creditsLink">globale Community</label>, die daran arbeitet, dass das Internet frei, öffentlich und für jeden zugänglich bleibt.
 community-2 = { -brand-short-name } wird entwickelt und gestaltet von <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, einer <label data-l10n-name="community-creditsLink">globalen Community</label>, die daran arbeitet, dass das Internet frei, öffentlich und für jeden zugänglich bleibt.
