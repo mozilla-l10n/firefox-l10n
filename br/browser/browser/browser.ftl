@@ -302,7 +302,7 @@ identity-https-only-dropdown-off =
     .label = Lazhet
 identity-https-only-dropdown-off-temporarily =
     .label = Lazhet e-pad nebeud amzer
-identity-https-only-info-turn-on2 = Gweredekait ar mod HTTPS-hepken evit al lec’hienn-mañ ma fell deoc’h vefe hizivaet ar c‘hennask gant { -brand-short-name } p'eo posupl.
+identity-https-only-info-turn-on2 = Gweredekait ar mod HTTPS-hepken evit al lec’hienn-mañ ma fell deoc’h vefe hizivaet ar c‘hennask gant { -brand-short-name } p’eo posupl.
 identity-https-only-info-turn-off2 = Ma seblant bezañ torret ar bajenn e c'hallit diweredekaat ar mod HTTPS-hepken evit ma vefe adkarget al lec'hienn gant HTTP diziogel.
 identity-https-only-info-no-upgrade = N'haller ket gwellaat ar c'hennask HTTP.
 identity-permissions =
@@ -326,7 +326,7 @@ identity-description-weak-cipher-risk = Gallout a ra tud all sellet ouzh ho tito
 identity-description-active-blocked = Stanket eo bet gant { -brand-short-name } lodennoù arvarus er bajennad. <label data-l10n-name="link">Gouzout hiroc'h</label>
 identity-description-passive-loaded = N'eo ket prevez ho kennask ha galloud a ra an titouroù rannet gant al lec'hienn bezañ gwelet gant tud all.
 identity-description-passive-loaded-insecure = Endalc'hadoù el lec'hienn-mañ a zo arvarus (skeudennoù, da skouer). <label data-l10n-name="link">Gouzout hiroc'h</label>
-identity-description-passive-loaded-mixed = Daoust m'eo bet stanked endalc'hadoù gant { -brand-short-name } e chom endalc'hadoù arvarus er bajennad (skeudennoù, da skouer). <label data-l10n-name="link">Gouzout hiroc'h</label>
+identity-description-passive-loaded-mixed = Daoust m’eo bet stanked endalc’hadoù gant { -brand-short-name } e chom endalc’hadoù arvarus er bajennad (skeudennoù, da skouer). <label data-l10n-name="link">Gouzout hiroc’h</label>
 identity-description-active-loaded = Endalc'hadoù arvarus a zo el lec'hienn (skriptoù, da skouer) ha n'eo ket prevez ho kennask.
 identity-description-active-loaded-insecure = Gallout a ra an titouroù rannet gant al lec'hienn bezañ gwelet gant tud all (evel gerioù-tremen, kemennadennoù, kartennoù gred, hag all.).
 identity-learn-more =
@@ -378,7 +378,7 @@ popup-screen-sharing-never =
     .label = Na aotren biken
     .accesskey = N
 popup-silence-notifications-checkbox = Diweredekaat ar rebuziñ eus { -brand-short-name } e-pad ar rannadenn
-popup-silence-notifications-checkbox-warning = { -brand-short-name } na ziskouezo ket a rebuzadurioù p'emaoc'h o rannañ.
+popup-silence-notifications-checkbox-warning = { -brand-short-name } na ziskouezo ket a rebuzadurioù p’emaoc’h o rannañ.
 
 ## WebRTC window or screen share tab switch warning
 

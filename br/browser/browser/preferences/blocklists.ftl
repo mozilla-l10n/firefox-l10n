@@ -30,4 +30,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Roll stankañ a live 1 (Erbedet).
 blocklist-item-moz-std-description = Aotren ul lodenn eus an heulierien evit ma vefe torret nebeutoc'h a lec'hiennoù.
 blocklist-item-moz-full-listName = Roll stankañ a live 2.
-blocklist-item-moz-full-description = Stankañ an holl heulierien dinoet. Gallout a ra lec'hiennoù 'zo chom hep kargañ en un doare dereat.
+blocklist-item-moz-full-description = Stankañ an holl heulierien dinoet. Gallout a ra lec'hiennoù ’zo chom hep kargañ en un doare dereat.

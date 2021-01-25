@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Toupinoù ha roadennoù lec'hienn
     .accesskey = T
-clear-site-data-cookies-info = Gallout a rit bezañ digennasket eus lec'hiennoù m'int skarzhet
+clear-site-data-cookies-info = Gallout a rit bezañ digennasket eus lec’hiennoù m’int skarzhet
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:

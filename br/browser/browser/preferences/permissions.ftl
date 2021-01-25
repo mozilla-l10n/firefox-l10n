@@ -114,7 +114,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Goulennet eo bet gant al lec'hiennoù da-heul kas rebuzadurioù deoc'h. Gallout a rit despizañ peseurt lec'hienn a zo aotreet da gas rebuzadurioù deoc'h. Gallout a rit ivez stankañ goulennoù aotren ar rebuzadurioù nevez.
 permissions-site-notification-disable-label =
     .label = Stankañ ar goulennoù aotren ar rebuzadurioù nevez
-permissions-site-notification-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h an aotre da gas rebuzadurioù. Stankañ ar rebuzadurioù a c'hall terriñ keweriusterioù 'zo el lec'hiennoù.
+permissions-site-notification-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h an aotre da gas rebuzadurioù. Stankañ ar rebuzadurioù a c'hall terriñ keweriusterioù ’zo el lec'hiennoù.
 
 ## Site Permissions - Location
 
@@ -124,7 +124,7 @@ permissions-site-location-window =
 permissions-site-location-desc = Goulennet eo bet gant al lec'hiennoù da-heul gouzout ho lec'hiadur. Gallout a rit despizañ peseurt lec'hienn a zo aotreet da c'houzout ho lec'hiadur. Gallout a rit ivez stankañ goulennoù gouzout ho lec'hiadur nevez.
 permissions-site-location-disable-label =
     .label = Stankañ ar goulennoù gouzout ho lec'hiadur nevez
-permissions-site-location-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h gouzout ho lec'hiadur. Kement-se a c'hall terriñ keweriusterioù 'zo el lec'hiennoù.
+permissions-site-location-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h gouzout ho lec'hiadur. Kement-se a c'hall terriñ keweriusterioù ’zo el lec'hiennoù.
 
 ## Site Permissions - Virtual Reality
 
@@ -134,7 +134,7 @@ permissions-site-xr-window =
 permissions-site-xr-desc = Al lec'hiennoù da heul o deus goulennet haeziñ ho trevnadoù gwirvoud galloudel. Gallout a rit dibab pe lec'hiennoù a zo aotreet da haeziñ ho trevnadoù gwirvoud galloudel. Gallout a rit ivez stankañ ar goulennoù haeziñ nevez.
 permissions-site-xr-disable-label =
     .label = Stankañ ar goulennoù nevez evit haeziñ ho trevnadoù gwirvoud galloudel
-permissions-site-xr-disable-desc = Mirout a raio kement lec'hienn n'emañ ket er roll a-us da c'houlenn diganeoc'h haeziñ ho trevnadoù gwirvoud galloudel. Stankañ an haeziñ d'ar gwirvoud galloudel a c'hall lakaat lec'hiennoù 'zo da chom hep mont en-dro.
+permissions-site-xr-disable-desc = Mirout a raio kement lec'hienn n'emañ ket er roll a-us da c'houlenn diganeoc'h haeziñ ho trevnadoù gwirvoud galloudel. Stankañ an haeziñ d'ar gwirvoud galloudel a c'hall lakaat lec'hiennoù ’zo da chom hep mont en-dro.
 
 ## Site Permissions - Camera
 
@@ -144,7 +144,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = Goulennet eo bet gant al lec'hiennoù da-heul haeziñ ho kamera. Gallout a rit despizañ peseurt lec'hienn a zo aotreet da haeziñ ho kamera. Gallout a rit ivez stankañ goulennoù haeziñ ho kamera nevez.
 permissions-site-camera-disable-label =
     .label = Stankañ ar goulennoù haeziñ ho kamera nevez
-permissions-site-camera-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h haezi ho kamera. Kement-se a c'hall terriñ keweriusterioù 'zo el lec'hiennoù.
+permissions-site-camera-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h haezi ho kamera. Kement-se a c'hall terriñ keweriusterioù ’zo el lec'hiennoù.
 
 ## Site Permissions - Microphone
 
@@ -154,4 +154,4 @@ permissions-site-microphone-window =
 permissions-site-microphone-desc = Al lec'hiennoù da heul o deus goulennet haeziñ ho mikro. Gallout a rit despizañ pe lec'hienn a zo aotreet da haeziñ ho mikro. Gallout a rit ivez stankañ goulennoù nevez a c'houlenn haeziñ ho klevell.
 permissions-site-microphone-disable-label =
     .label = Stankañ ar goulennoù nevez haeziñ ho klevell
-permissions-site-microphone-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h haeziñ ho klevell. Kement-se a c'hall terriñ keweriusterioù 'zo el lec'hiennoù.
+permissions-site-microphone-disable-desc = Herzel a raio al lec'hiennoù ha n'int ket er roll a-us da c'houlenn diganeoc'h haeziñ ho klevell. Kement-se a c'hall terriñ keweriusterioù ’zo el lec'hiennoù.

@@ -74,7 +74,7 @@ about-logins-list-item-vulnerable-password-icon =
 login-intro-heading = Klask a rit ho titouroù kennaskañ? Arventennit { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-out = Klask a rit ho titouroù kennaskañ enroller? Arventennit { -sync-brand-short-name } pe enporzhit anezho.
 about-logins-login-intro-heading-logged-in = N'eus bet kavet titour kennaskañ ebet.
-login-intro-description = M'ho peus enrollet ho titouroù kennaskañ { -brand-product-name } war un trevnad all, setu penaos kaout anezho amañ:
+login-intro-description = M’ho peus enrollet ho titouroù kennaskañ { -brand-product-name } war un trevnad all, setu penaos kaout anezho amañ:
 login-intro-instruction-fxa = Krouit pe kennaskit d’ho { -fxaccount-brand-name } war an trevnad lec’h m’eo enrollet ho titouroù kennaskañ
 login-intro-instruction-fxa-settings = Gwiriekait ho peus diuzet ar boestoù kevaskañ Kennaskañ e arventennoù { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kit war <a data-l10n-name="help-link">skoazell { -lockwise-brand-short-name }</a> evit kaout sikour
@@ -209,7 +209,7 @@ confirm-discard-changes-dialog-confirm-button = Dilezel
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Fuadur el lec’hienn
-breach-alert-text = Gerioù-tremen a zo bet diskuilhet pe laeret abaoe ar wech ziwezhañ m'ho peus hizivaet ho titouroù kennaskañ. Cheñchit ho ker-tremen evit gwareziñ ho kont.
+breach-alert-text = Gerioù-tremen a zo bet diskuilhet pe laeret abaoe ar wech ziwezhañ m’ho peus hizivaet ho titouroù kennaskañ. Cheñchit ho ker-tremen evit gwareziñ ho kont.
 about-logins-breach-alert-date = C’hoarvezet eo bet ar fuadur d'ar { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

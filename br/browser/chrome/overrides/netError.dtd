@@ -19,11 +19,11 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Dafariad ebet kavet">
-<!ENTITY dnsNotFound.longDesc1 "<strong>Mard eo reizh ar chomlec'h-mañ, ez eus amañ tri zra all a c'hallfec'h klask ober:</strong>
+<!ENTITY dnsNotFound.longDesc1 "<strong>Mard eo reizh ar chomlec’h-mañ, ez eus amañ tri zra all a c’hallfec’h klask ober:</strong>
 <ul>
-  <li>Klaskit adarre diwezhatoc'h.</li>
+  <li>Klaskit adarre diwezhatoc’h.</li>
   <li>Gwiriit ho kennaskañ kenrouedadel.</li>
-  <li>M'emaoc'h kennasket met a-drek d'ur voger-dan, gwiriit hag en deus &brandShortName; an aotre da haeziñ ouzh ar Web.</li>
+  <li>M’emaoc’h kennasket met a-drek d'ur voger-dan, gwiriit hag en deus &brandShortName; an aotre da haeziñ ouzh ar Web.</li>
 </ul>">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Gwiriañ anv ar chomlec'h rak marteze ez eus fazioù pennlizherennoù pe fazioù skrivañ all.</li> <li>Gwiriañ ha dilec'hiet eo bet, adanvet pe dilamet an ergorenn.</li> </ul>">
@@ -85,8 +85,8 @@ was trying to connect. -->
 <p>Ma 'z oc'h war ur genrouedad kenlabourus pe e rit gant ur meziant enepviruz, gellout a rit mont e darempred gant ar skipailhoù skoazell evit kaout sikour. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Eurier hoc'h urzhiataer a zo lakaet da <span id='wrongSystemTime_systemDate2'/>. Gwiriekait ez eo lakaet hoc'h urzhiataer d'an deiziad, eur ha gwerzhid-eur dereat en hoc'h arventennoù reizhiad hag adkargit <span class='hostname'/>.</p>
-<p>M'eo lakaet hoc'h eurier en eur dereat endeo e c'hall al lec'hienn-mañ bezañ kefluniet fall ha n'hallit ober netra evit diskoulmañ ar gudenn. Gallout a rit mont e darempred gant ardoer al lec'hienn evit e gelaouiñ eus ar gudenn.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Eurier hoc’h urzhiataer a zo lakaet da <span id='wrongSystemTime_systemDate2'/>. Gwiriekait ez eo lakaet hoc’h urzhiataer d'an deiziad, eur ha gwerzhid-eur dereat en hoc’h arventennoù reizhiad hag adkargit <span class='hostname'/>.</p>
+<p>M’eo lakaet hoc’h eurier en eur dereat endeo e c’hall al lec’hienn-mañ bezañ kefluniet fall ha n’hallit ober netra evit diskoulmañ ar gudenn. Gallout a rit mont e darempred gant ardoer al lec’hienn evit e gelaouiñ eus ar gudenn.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Liammet eo ar gudenn gant al lec'hienn sur-mat, ha n'eus netra e c'hallfec'h ober evit dont a-benn anezhi. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.</p>
@@ -111,7 +111,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Titouroù kempleshoc'h: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY certerror.pagetitle2  "Diwallit: ur riskl surentez bennak 'zo">
+<!ENTITY certerror.pagetitle2  "Diwallit: ur riskl surentez bennak ’zo">
 <!ENTITY certerror.sts.pagetitle  "N'eo ket kennasket: kudenn diogelroez posupl">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> a zo gantañ ur politikerezh surentez anvet HTTP Strict Transport Security (HSTS), ar pezh a dalvez &brandShortName; a c'hall kennaskañ outañ en un doare sur. N'hallit ket ouzhpennañ un nemedenn ebet evit gweladenniñ al lec'hienn-mañ.">
 <!ENTITY certerror.copyToClipboard.label "Eilañ an destenn er golver">
@@ -123,8 +123,8 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Pajenn stanket">
 
 <!ENTITY certerror.mitm.longDesc "Ul lec'hienn diarvar eo <span class='hostname'></span> moarvat, met n'haller ket staliañ ur c'hennask diogel. Abalamour da <span class='mitm-name'/> zo eus ar fazi, ar pezh a zo ur meziant war hoc'h urzhiataer pe ho rouedad.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "M'eo enkorfet ur c'heweriuster a c'hwilerv ar c'hennaskoù enrineget (anvet eo “web scanning” pe “https scanning” peurvuiañ) en ho enepvirus e c'hallit e ziweredekaat. Ma n'ha ket en-dro e c'hallit dilemel hag adstaliañ ar meziant enepvirus. ">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "M'emaoc'h war ur rouedad embregerezh e c'hallit mont e darempred gant an departamant stlenneg.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "M’eo enkorfet ur c’heweriuster a c’hwilerv ar c'hennaskoù enrineget (anvet eo “web scanning” pe “https scanning” peurvuiañ) en ho enepvirus e c’hallit e ziweredekaat. Ma n’ha ket en-dro e c’hallit dilemel hag adstaliañ ar meziant enepvirus. ">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "M’emaoc’h war ur rouedad embregerezh e c’hallit mont e darempred gant an departamant stlenneg.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ma n'anavezit ket <span class='mitm-name'/> e c'hall bezañ un dagadenn ha rankout a rafec'h chom hep kenderc'hel war al lec'hienn-mañ.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ma n'anavezit ket <span class='mitm-name'/> e c'hall bezañ un dagadenn ha n'hallit ket haeziñ al lec'hienn.">
 
@@ -137,4 +137,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.note "Diweredekaet da vat e vo TLS 1.0 ha TLS 1.1 en un handelv da zont.">
 <!ENTITY enableTls10.label "Gweredekaat TLS 1.0 hag 1.1">
 
-<!ENTITY networkProtocolError.longDesc "<p>N'haller ket dikouez ar pajennoù a glaskit sellet abalamour m'eo bet dinoet ur fazi er c'homenad rouedad.</p><ul><li>Kit e darempred gant perc'henned al lec'hienn evit o zitouriñ eus ar gudenn-mañ.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>N’haller ket diskouez ar pajennoù a glaskit sellet abalamour m’eo bet dinoet ur fazi er c’homenad rouedad.</p><ul><li>Kit e darempred gant perc’henned al lec’hienn evit o zitouriñ eus ar gudenn-mañ.</li></ul>">

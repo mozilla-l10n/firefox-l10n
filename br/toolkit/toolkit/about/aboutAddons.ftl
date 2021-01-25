@@ -135,7 +135,7 @@ detail-rating =
 addon-restart-now =
     .label = Adloc'hañ bremañ
 disabled-unsigned-heading =
-    .value = Askouezhioù 'zo a zo bet diweredekaet
+    .value = Askouezhioù ’zo a zo bet diweredekaet
 disabled-unsigned-description = N'eo ket bet gwiriet arver an askouezhioù da zont evit { -brand-short-name }. Gallout a rit  <label data-l10n-name="find-addons">kavout eillec'hiadennoù</label> pe goulenn gant an diorroer gwiriekaat anezho
 disabled-unsigned-learn-more = Deskiñ hiroc'h a-zivout hor strivoù evit skoazell ac'hanoc'h da vezañ diarvar enlinenn.
 disabled-unsigned-devinfo = Diorroerien dedennet evit gwiriekaat o askouezhioù a c'hell kenderc'hel en ul lenn hor <label data-l10n-name="learn-more">dornlevr</label>.
