@@ -139,4 +139,4 @@ about-telemetry-origin-origin = orin
 about-telemetry-origin-count = niver
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> a enboneg ar roadennoù a-raok kas anezho evit ma c'hallfe { $telemetryServerOwner } kontañ an traoù met n'hallfe ket gouzout m'eo enkorfet { -brand-product-name } en niver hollek. (<a data-l10n-name="prio-blog-link">Gouzout hiroc'h</a>)
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> a enboneg ar roadennoù a-raok kas anezho evit ma c’hallfe { $telemetryServerOwner } kontañ an traoù met n’hallfe ket gouzout m’eo enkorfet { -brand-product-name } en niver hollek. (<a data-l10n-name="prio-blog-link">Gouzout hiroc'h</a>)
