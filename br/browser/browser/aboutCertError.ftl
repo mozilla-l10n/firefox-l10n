@@ -97,4 +97,4 @@ clockSkewError-title = Direizh eo eur hoc’h urzhiataer
 networkProtocolError-title = Fazi komenad rouedad
 nssBadCert-title = Diwallit: gallout a ra bezañ un arvar diogelroez
 nssBadCert-sts-title = N'eo ket kennasket: kudenn diogelroez posupl
-certerror-mitm-title = Ur meziant a vir { -brand-short-name } da gennaskañ ent diogel d'al lec'hienn-mañ
+certerror-mitm-title = Ur meziant a vir { -brand-short-name } da gennaskañ ent diogel d’al lec’hienn-mañ
