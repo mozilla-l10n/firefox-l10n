@@ -172,7 +172,6 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Dilemel an titour kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
 about-logins-confirm-remove-dialog-confirm-button = Dilemel
-about-logins-confirm-remove-all-dialog-confirm-button = Dilemel pep tra
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ya, dilemel an titour kennaskañ-mañ
@@ -254,3 +253,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Restr CSV
        *[other] Restr CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-done = Graet
+about-logins-import-dialog-error-title = Fazi enporzhiañ
+about-logins-import-dialog-error-learn-more = Gouzout hiroc’h
+about-logins-import-dialog-error-try-again = Klask en-dro…
+about-logins-import-dialog-error-cancel = Nullañ
