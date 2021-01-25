@@ -10,7 +10,7 @@
 <!ENTITY accountProtocolGetMore.label "Kaout muioc'h…">
 
 <!ENTITY accountUsernameTitle.label   "Anv arveriad">
-<!ENTITY accountUsernameDuplicate.label "Kefluniet eo ar gont-mañ endeo !">
+<!ENTITY accountUsernameDuplicate.label "Kefluniet eo ar gont-mañ endeo!">
 
 <!ENTITY accountPasswordTitle.label   "Ger-tremen">
 <!ENTITY accountPasswordInfo.label    "Mar plij, bizskrivit ho ker-tremen er voest amañ dindan.">

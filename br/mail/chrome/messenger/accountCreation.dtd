@@ -75,13 +75,11 @@
 <!ENTITY manual-config.accesskey         "K">
 <!ENTITY open-provisioner.label          "Kaout ur chomlec'h postel nevez…">
 <!ENTITY open-provisioner.accesskey      "u">
-
-
 <!ENTITY get-help.label                  "Kaout Skoazell">
 <!ENTITY get-help.accesskey              "S">
 
 
-<!ENTITY warning.label                   "Diwallit !">
+<!ENTITY warning.label                   "Diwallit!">
 <!ENTITY incomingSettings.label          "Arventennoù an dafariad degemer:">
 <!ENTITY outgoingSettings.label          "Arventennoù an dafariad kas:">
 <!ENTITY technicaldetails.label          "Munudoù kalvezel">

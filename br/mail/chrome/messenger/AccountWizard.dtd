@@ -17,7 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Kont ar strolladoù-keleier">
 <!ENTITY accountTypeNews.accesskey "s">
-
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
 <!ENTITY accountTypeMovemail.accesskey "U">
@@ -113,7 +112,7 @@
 
 <!-- Entities for Done (Congratulations) page -->
 
-<!ENTITY completionTitle.label "Gourc'hemennoù !">
+<!ENTITY completionTitle.label "Gourc'hemennoù!">
 <!ENTITY completionText.label "Gwiriit eo reizh an titouroù a heul.">
 <!ENTITY serverTypePrefix.label "Rizh an dafariad degemer :">
 <!ENTITY serverNamePrefix.label "Anv an dafariad degemer :">

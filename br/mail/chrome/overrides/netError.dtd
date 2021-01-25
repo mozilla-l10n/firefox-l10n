@@ -78,11 +78,12 @@
 <!ENTITY cspBlocked.title "Harzet gant ur reolenn diogelroez a-fet endalc'hadoù">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; en deus miret ar bajennad-mañ ouzh bezañ pellgarget gant an doare-mañ rak reolennoù a-fet diogelroez ez eus er bajennad o tisaotren d'hen ober.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Fazi a-fet endalc'had bet kontronet">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>An endalc'had emaoc'h o klask gwelout n'hall ket bezañ skrammet rak degouezhet ez eus bet ur fazi e-pad treuzkas ar roadennoù.</p><ul><li>Mar plij, kit e darempred gant ar berc'henned a-benn kelaouiñ anezho eus ar gudenn-mañ.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Pe un nemedenn a vez ouzhpennet ganeoc'h ">
-<!ENTITY securityOverride.getMeOutOfHereButton "Lamit kuit ac'hanon deus amañ !">
+<!ENTITY securityOverride.getMeOutOfHereButton "Lamit kuit ac'hanon deus amañ!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the

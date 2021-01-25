@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutDialog.title          "A-zivout &brandFullName;">
 
 <!-- LOCALIZATION NOTE (update.*):
@@ -42,7 +46,7 @@
 <!ENTITY helpus.donateLink          "Roit arc'hant">
 <!ENTITY helpus.middle              " pe ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
-<!ENTITY helpus.getInvolvedLink     "Kemerit perzh enni !">
+<!ENTITY helpus.getInvolvedLink     "Kemerit perzh enni!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Notennoù handelv">
@@ -101,7 +105,6 @@
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Oc'h arloañ an hizivadenn…">
-
 <!ENTITY update.restarting          "Oc'h adloc'hañ...">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
