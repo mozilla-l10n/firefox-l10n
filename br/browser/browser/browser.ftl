@@ -351,6 +351,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Serriñ
 
+## Tab actions
+
+browser-tab-audio-playing = O lenn
+browser-tab-audio-muted = Mudet
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -463,6 +468,18 @@ urlbar-result-action-search-w-engine = Klask gant { $engine }
 urlbar-result-action-sponsored = Paeroniet
 urlbar-result-action-switch-tab = Mont d'an ivinell
 urlbar-result-action-visit = Gweladenniñ
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Pouezañ Tab evit klask gant { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Pouezañ Tab evit klask war { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -487,6 +504,15 @@ fullscreen-exit-mac-button = Kuitaat ar mod skramm a-bezh (Esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> a c'hall reoliñ ho logodenn. Pouezit war Achap evit bezañ mestr outi en-dro.
 pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit war Achap evit bezañ mestr outi en-dro.
+
+## Subframe crash notification
+
+crashed-subframe-learnmore =
+    .label = Gouzout hiroc’h
+    .accesskey = G
+crashed-subframe-submit =
+    .label = Kas danevell
+    .accesskey = K
 
 ## Bookmarks panels, menus and toolbar
 
@@ -548,6 +574,8 @@ library-bookmarks-bookmark-this-page =
     .label = Lakaat ur sined war ar bajenn-mañ
 library-bookmarks-bookmark-edit =
     .label = Embann ar sined-mañ
+library-recent-activity-title =
+    .value = Oberiantiz a-nevez
 
 ## More items
 

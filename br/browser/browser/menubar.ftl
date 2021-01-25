@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = N'eo ket ul lec’hienn dagus…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Klask hizivadurioù…
+    .accesskey = K

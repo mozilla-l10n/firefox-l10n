@@ -8,6 +8,9 @@
 newtab-page-title = Ivinell nevez
 newtab-settings-button =
     .title = Personelait ho pajenn Ivinell Nevez
+newtab-personalize-button-label = Personelaat
+    .title = Personelaat un ivinell nevez
+    .aria-label = Personelaat un ivinell nevez
 
 ## Search box component.
 
@@ -206,5 +209,16 @@ newtab-error-fallback-refresh-link = Adkargit ar bajenn evit klask en-dro.
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Berradennoù
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } renk
+        [two] { $num } renk
+        [few] { $num } renk
+        [many] { $num } a renkoù
+       *[other] { $num } renk
+    }
 newtab-custom-sponsored-sites = Berradurioù paeroniet
 newtab-custom-pocket-sponsored = Istorioù paeroniet
+newtab-custom-recent-title = Oberiantiz nevesañ
+newtab-custom-close-button = Serriñ

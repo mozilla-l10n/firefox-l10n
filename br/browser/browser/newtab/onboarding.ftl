@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Ur gont a zo ganeoc'h endeo?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Kennaskañ
 onboarding-start-browsing-button-label = Stagañ da verdeiñ
-onboarding-not-now-button-label = Ket bremañ
 onboarding-cards-dismiss =
     .title = Argas
     .aria-label = Argas
@@ -86,39 +85,6 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Bezit kelaouet pa vez ho titouroù personel en ur frailh roadennoù anavezet.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Merit gerioù-tremen gwarezet hag hezoug.
-
-## Custom Return To AMO onboarding strings
-
-return-to-amo-subtitle = Dispar, { -brand-short-name } a zo ganeoc’h
-# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Staliomp <img data-l10n-name="icon"/> <b>{ $addon-name }</b> bremañ.
-return-to-amo-add-extension-label = Ouzhpennañ an askouezh
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Degemer mat e <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-secondary-button-label = Kennaskañ
-onboarding-multistage-welcome-secondary-button-text = Ur gont a zo ganeoc'h?
-onboarding-multistage-import-primary-button-label = Loc'hañ an enporzhiadur
-onboarding-multistage-import-secondary-button-label = Ket bremañ
-onboarding-multistage-theme-secondary-button-label = Ket bremañ
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = Emgefreek
-onboarding-multistage-theme-label-light = Sklaer
-onboarding-multistage-theme-label-dark = Teñval
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -179,3 +145,38 @@ return-to-amo-sub-header = Dispar, { -brand-short-name } a zo ganeoc'h
 return-to-amo-addon-header = Staliomp <icon></icon><b>{ $addon-name }</b> bremañ.
 return-to-amo-extension-button = Ouzhpennañ an askouezh
 return-to-amo-get-started-button = Krogit gant { -brand-short-name }
+onboarding-not-now-button-label = Ket bremañ
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Dispar, { -brand-short-name } a zo ganeoc’h
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Staliomp <img data-l10n-name="icon"/> <b>{ $addon-name }</b> bremañ.
+return-to-amo-add-extension-label = Ouzhpennañ an askouezh
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Degemer mat e <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-secondary-button-label = Kennaskañ
+onboarding-multistage-welcome-secondary-button-text = Ur gont a zo ganeoc'h?
+onboarding-multistage-import-primary-button-label = Loc'hañ an enporzhiadur
+onboarding-multistage-import-secondary-button-label = Ket bremañ
+onboarding-multistage-theme-subtitle = Personelait { -brand-short-name } gant an neuz.
+onboarding-multistage-theme-secondary-button-label = Ket bremañ
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Emgefreek
+onboarding-multistage-theme-label-light = Sklaer
+onboarding-multistage-theme-label-dark = Teñval
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
