@@ -56,6 +56,29 @@ profiler-popup-description-title =
 profiler-popup-learn-more = Көбірек білу
 profiler-popup-settings =
     .value = Баптаулар
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Баптауларды түзету…
+profiler-popup-recording-screen = Жазылуда…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Таңдауыңызша
+profiler-popup-start-recording-button =
+    .label = Жазуды бастау
+profiler-popup-discard-button =
+    .label = Тайдыру
+profiler-popup-capture-button =
+    .label = Ұстау
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 

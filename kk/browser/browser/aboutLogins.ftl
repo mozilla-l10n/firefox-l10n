@@ -260,6 +260,13 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Импорт аяқталды
+about-logins-import-dialog-done = Дайын
+about-logins-import-dialog-error-title = Импорттау қатесі
+about-logins-import-dialog-error-file-permission-title = Файлды оқу мүмкін емес
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } үшін файлды оқу рұқсаты жоқ. Файл рұқсаттарын өзгертіп көріңіз.
+about-logins-import-dialog-error-unable-to-read-title = Файлды талдау мүмкін емес
+about-logins-import-dialog-error-unable-to-read-description = CSV немесе TSV файлын таңдағаныңызға көз жеткізіңіз.
+about-logins-import-dialog-error-no-logins-imported = Логиндер импортталмады
 about-logins-import-dialog-error-learn-more = Көбірек білу
 about-logins-import-dialog-error-try-again = Қайталап көру…
 about-logins-import-dialog-error-cancel = Бас тарту
