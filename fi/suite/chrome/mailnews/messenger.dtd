@@ -507,9 +507,9 @@
 <!ENTITY folderContextMarkAllFoldersRead.label "Merkitse kaikki kansiot luetuiksi">
 <!ENTITY folderContextMarkAllFoldersRead.accesskey "M">
 <!ENTITY folderContextOpenNewWindow.label "Avaa uuteen ikkunaan">
-<!ENTITY folderContextOpenNewWindow.accesskey "A">
+<!ENTITY folderContextOpenNewWindow.accesskey "i">
 <!ENTITY folderContextOpenNewTab.label "Avaa uuteen välilehteen">
-<!ENTITY folderContextOpenNewTab.accesskey "v">
+<!ENTITY folderContextOpenNewTab.accesskey "A">
 <!ENTITY folderContextRename.label "Nimeä uudelleen">
 <!ENTITY folderContextRename.accesskey "N">
 <!ENTITY folderContextRemove.label "Poista">
@@ -531,7 +531,7 @@
 <!ENTITY folderContextNew.label "Uusi alikansio…">
 <!ENTITY folderContextNew.accesskey "n">
 <!ENTITY folderContextSubscribe.label "Tilaa…">
-<!ENTITY folderContextSubscribe.accesskey "i">
+<!ENTITY folderContextSubscribe.accesskey "l">
 <!ENTITY folderContextSearchMessages.label "Etsi viesteistä…">
 <!ENTITY folderContextSearchMessages.accesskey "s">
 <!ENTITY folderContextProperties.label "Ominaisuudet…">
