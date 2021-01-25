@@ -11,7 +11,7 @@
 <!ENTITY useCustomPrefs.accesskey     "t">
 <!ENTITY requestReceipt.label         "Atav goulenn un testeni-degemer pa gasan kemennadennoù">
 <!ENTITY requestReceipt.accesskey     "A">
-<!ENTITY receiptArrive.label          "P'en em gav un testeni-degemer :">
+<!ENTITY receiptArrive.label          "P’en em gav un testeni-degemer:">
 <!ENTITY leaveIt.label                "Leuskel anezhañ em boestad-lizheroù">
 <!ENTITY leaveIt.accesskey            "i">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
