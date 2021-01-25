@@ -38,7 +38,7 @@ protection-report-manage-protections = Håndter indstillinger
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = En graf, der viser det totale antal af hver type sporingstjeneste, der er blevet blokeret i denne uge
+graph-legend-description = En graf, der viser det totale antal af hver type sporings-teknologi, der er blevet blokeret i denne uge
 social-tab-title = Sporing via sociale medier
 social-tab-contant = Sociale medier placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier. <a data-l10n-name="learn-more-link">Læs mere</a>
 cookie-tab-title = Sporings-cookies på tværs af websteder
