@@ -49,11 +49,19 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Meer informatie onthullen
+profiler-popup-description-title =
+    .value = Opnemen, analyseren, delen
+profiler-popup-description = Werk samen aan prestatieproblemen door profielen te publiceren om met uw team te delen.
 profiler-popup-learn-more = Meer info
 profiler-popup-settings =
     .value = Instellingen
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Instellingen bewerken…
+profiler-popup-disabled =
+    De profiler is momenteel uitgeschakeld, waarschijnlijk omdat een privévenster
+    is geopend.
 profiler-popup-recording-screen = Opnemen…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
