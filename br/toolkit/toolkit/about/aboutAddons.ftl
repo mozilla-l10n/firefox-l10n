@@ -292,7 +292,7 @@ addon-options-button =
 report-addon-button = Danevelliñ
 remove-addon-button = Dilemel
 # The link will always be shown after the other text.
-remove-addon-disabled-button = Ne c'hall ket bezañ dilemet <a data-l10n-name="link">Perak ?</a>
+remove-addon-disabled-button = Ne c'hall ket bezañ dilemet <a data-l10n-name="link">Perak?</a>
 disable-addon-button = Diweredekaat
 enable-addon-button = Gweredekaat
 # This is used for the toggle on the extension card, it's a checkbox and this
