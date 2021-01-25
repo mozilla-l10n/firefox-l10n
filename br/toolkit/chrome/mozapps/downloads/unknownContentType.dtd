@@ -4,7 +4,7 @@
 
 <!ENTITY  intro2.label                "Dibabet ho peus da zigeriñ:">
 <!ENTITY  from.label                  "adalek:">
-<!ENTITY  actionQuestion.label        "Petra a zlefe ober &brandShortName; gant ar restr-mañ ?">
+<!ENTITY  actionQuestion.label        "Petra a zlefe ober &brandShortName; gant ar restr-mañ?">
 
 <!ENTITY  openWith.label              "Digeriñ gant">
 <!ENTITY  openWith.accesskey          "g">
@@ -23,4 +23,4 @@
 <!ENTITY  chooseHandler.label         "Furchal…">
 <!ENTITY  chooseHandler.accesskey     "F">
 
-<!ENTITY  unknownPromptText.label     "Ha fellout a ra deoc'h enrollañ ar restr-mañ ?">
+<!ENTITY  unknownPromptText.label     "Ha fellout a ra deoc'h enrollañ ar restr-mañ?">
