@@ -101,3 +101,4 @@ experimental-features-multi-pip-description = 實驗性支援同時開啟多組�
 experimental-features-http3 =
     .label = HTTP/3 protocol
 experimental-features-http3-description = 實驗性支援 HTTP/3 通訊協定。
+experimental-features-ime-search-description = 東亞與印度語系使用者須使用輸入法才能在標準鍵盤輸入各種文字。開啟此實驗功能後將在輸入字根的過程中保持開啟網址列面板，並根據使用者輸入內容顯示搜尋結果與建議。請注意: 某些輸入法可能會顯示輸入面板，蓋過網址列顯示的結果，因此建議您只在使用的輸入法不會顯示輸入面板時，開啟此設定。
