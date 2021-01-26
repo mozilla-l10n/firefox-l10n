@@ -79,6 +79,7 @@ policy-LegacyProfiles = השבתת התכונה האוכפת פרופיל נפר
 policy-LocalFileLinks = לאפשר לאתרים מסויימים לקשר לקבצים מקומיים.
 policy-ManagedBookmarks = הגדרת רשימה של סימניות המנוהלת על־ידי מנהל מערכת ושאינה ניתנת לשינוי על־ידי המשתמש.
 policy-MasterPassword = לדרוש או למנוע שימוש בססמה ראשית.
+policy-ManualAppUpdateOnly = לאפשר עדכונים באופן ידני בלבד ולא להודיע למשתמש על עדכונים.
 policy-PrimaryPassword = לדרוש או למנוע שימוש בססמה ראשית.
 policy-NetworkPrediction = הפעלה או השבתה של חיזוי רשתי (אחזור מוקדם באמצעות DNS).
 policy-NewTabPage = הפעלה או השבתה של דף הלשונית החדשה.
