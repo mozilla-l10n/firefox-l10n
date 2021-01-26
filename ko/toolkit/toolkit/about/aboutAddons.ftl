@@ -372,15 +372,14 @@ addon-detail-private-browsing-disallow = 허용 안 함
 addon-badge-recommended2 =
     .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장 기능만 추천합니다
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = 이 확장 기능은 { -brand-product-name }의 제작자가 만들었습니다
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = 이 확장 기능은 안전을 위해 코드 검토되었습니다
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = 이 확장 기능은 { -brand-product-name }의 제작자가 만든 공식 확장 기능입니다
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Mozilla에서 만든 공식 확장 기능. 보안 및 성능 표준 충족
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = 이 확장 기능은 보안 및 성능 표준을 충족하는 것으로 검토되었습니다
     .aria-label = { addon-badge-verified2.title }

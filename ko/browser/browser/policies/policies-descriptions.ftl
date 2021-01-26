@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 지정된 사이트의
 ##
 
 policy-LocalFileLinks = 특정 웹 사이트가 로컬 파일을 링크하도록 허용합니다.
-policy-MasterPassword = 기본 비밀번호 사용을 요구하거나 금지합니다.
 policy-ManagedBookmarks = 사용자가 변경할 수 없는 관리자가 관리하는 북마크 목록을 구성합니다.
+policy-MasterPassword = 기본 비밀번호 사용을 요구하거나 금지합니다.
+policy-ManualAppUpdateOnly = 수동 업데이트만 허용하고 사용자에게 업데이트에 대해 알리지 않습니다.
 policy-PrimaryPassword = 기본 비밀번호 사용을 요구하거나 금지합니다.
 policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용하거나 사용하지 않게 합니다.
 policy-NewTabPage = 새 탭 페이지를 사용하거나 사용하지 않게 합니다.
