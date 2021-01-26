@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjone zaźaržanj
 ##
 
 policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótkazaś.
-policy-MasterPassword = Głowne gronidło pominaś abo jogo wužywanjeju zajźowaś
 policy-ManagedBookmarks = Konfigurěrujo lisćinu cytańskich znamjenjow, kótarež administrator zastoj a kótarež wužywaŕ njamóžo změniś.
+policy-MasterPassword = Głowne gronidło pominaś abo jogo wužywanjeju zajźowaś
+policy-ManualAppUpdateOnly = Jano manuelne aktualizacije dowóliś a wužywarja wó aktualizacijach njeinforměrowaś.
 policy-PrimaryPassword = Głowne gronidło pominaś abo jogo wužywanjeju zajźowaś
 policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
 policy-NewTabPage = Bok nowego rejtarika zmóžniś abo znjemóžniś.
