@@ -386,15 +386,14 @@ addon-detail-private-browsing-disallow = Niet toestaan
 addon-badge-recommended2 =
     .title = { -brand-product-name } beveelt alleen extensies aan die voldoen aan onze normen voor beveiliging en prestaties
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Deze extensie is gemaakt door de makers van { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = De code van deze extensie is voor uw veiligheid beoordeeld
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Dit is een officiële extensie, gebouwd door de makers van { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Officiële door Mozilla Firefox gebouwde extensie. Voldoet aan beveiligings- en prestatienormen.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Deze extensie is beoordeeld en voldoet aan onze normen voor beveiliging en prestaties
     .aria-label = { addon-badge-verified2.title }
