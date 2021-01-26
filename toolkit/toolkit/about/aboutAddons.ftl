@@ -362,15 +362,14 @@ addon-detail-private-browsing-disallow = לא לאפשר
 addon-badge-recommended2 =
     .title = ‏{ -brand-product-name } ממליץ רק על הרחבות שעומדות בתקנים שלנו לאבטחה וביצועים
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = הרחבה זו נוצרה על־ידי היוצרים של { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = הקוד של הרחבה זו נסקר לטובת בטיחות
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = זוהי הרחבה רשמית מבית היוצר של { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = הרחבה רשמית שנבנתה על־ידי Mozilla ועומדת בתקני אבטחה וביצועים.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = הרחבה זו נסקרה לטובת עמידה בתקנים שלנו לאבטחה וביצועים
     .aria-label = { addon-badge-verified2.title }
