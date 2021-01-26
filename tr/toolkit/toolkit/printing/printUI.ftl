@@ -17,14 +17,6 @@ printui-page-range-custom = Özel
 printui-page-range-label = Sayfalar
 printui-page-range-picker =
     .aria-label = Sayfa aralığını seçin
-printui-page-custom-range =
-    .aria-label = Özel sayfa aralığı girin
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Başlangıç
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = Bitiş
 printui-page-custom-range-input =
     .aria-label = Özel sayfa aralığını yazın
     .placeholder = örn. 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = Kenar boşlukları
 printui-margins-default = Varsayılan
 printui-margins-min = Minimum
 printui-margins-none = Yok
-printui-margins-custom = Özel
 printui-margins-custom-inches = Özel (inç)
 printui-margins-custom-top = Üst
 printui-margins-custom-top-inches = Üst (inç)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Yaprak başına sayfa
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Yazdırılıyor…
+printui-print-progress-indicator-saving = Kaydediliyor…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

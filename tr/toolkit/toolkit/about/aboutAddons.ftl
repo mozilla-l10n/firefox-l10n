@@ -377,15 +377,14 @@ addon-detail-private-browsing-disallow = İzin verme
 addon-badge-recommended2 =
     .title = { -brand-product-name } yalnızca güvenlik ve performans standartlarımızı karşılayan eklentileri önerir
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Bu eklenti, { -brand-product-name } tarayıcısının yapımcıları tarafından oluşturuldu
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Bu eklenti, güvenlik amaçlı kod incelemesinden geçti
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Bu eklenti, { -brand-product-name } ekibi tarafından oluşturulan resmi bir eklentidir
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Resmi Mozilla eklentisi. Güvenlik ve performans standartlarını karşılar.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Bu eklenti incelendi, güvenlik ve performans standartlarımızı karşıladığı onaylandı
     .aria-label = { addon-badge-verified2.title }
