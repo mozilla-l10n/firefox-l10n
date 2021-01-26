@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Cefnogaeth arbrofol i ganiatáu i 
 experimental-features-http3 =
     .label = Protocol HTTP/3
 experimental-features-http3-description = Cefnogaeth arbrofol i brotocol HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Bar Cyfeiriadau: dangos canlyniadau wrth ddefnyddio'r IME
+experimental-features-ime-search-description = Offeryn yw IME (Golygydd Dull Mewnbwn) sy'n eich galluogi i nodi symbolau cymhleth, fel y rhai sy'n cael eu ddefnyddio mewn ieithoedd ysgrifenedig yn Nwyrain Asia neu India, gan ddefnyddio bysellfwrdd safonol. Bydd galluogi'r arbrawf hwn yn cadw'r panel bar cyfeiriadau ar agor, dangos canlyniadau chwilio ac awgrymiadau, tra'n defnyddio IME i fewnbynnu testun. Sylwch y gallai'r IME ddangos panel sy'n ymdrin â chanlyniadau'r bar cyfeiriad, felly mae'r dewis hwn yn cael ei awgrymu ar gyfer IME sydd ddim yn defnyddio'r math hwn o banel.
