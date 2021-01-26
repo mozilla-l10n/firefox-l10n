@@ -392,7 +392,7 @@ addon-badge-line2 =
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Estyniad swyddogol wedi'i adeiladu gan Mozilla. Yn cwrdd â safonau diogelwch a pherfformiad
+    .title = Estyniad swyddogol wedi'i adeiladu gan Mozilla. Mae'n cydfynd â safonau diogelwch a pherfformiad
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Mae'r estyniad hwn wedi'i adolygu i fodloni ein safonau ar gyfer diogelwch a pherfformiad
