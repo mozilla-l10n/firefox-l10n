@@ -14,6 +14,9 @@ compatibility-issue-deprecated = (obustavljeno)
 compatibility-issue-experimental = (eksperimentalno)
 compatibility-issue-prefixneeded = (potreban je prefiks)
 compatibility-issue-deprecated-experimental = (obustavljeno, eksperimentalno)
+compatibility-issue-deprecated-prefixneeded = (zastarjelo, potreban je prefiks)
+compatibility-issue-experimental-prefixneeded = (eksperimentalno, potreban je prefiks)
+compatibility-issue-deprecated-experimental-prefixneeded = (zastarjelo, eksperimentalno, potreban je prefiks)
 
 ## Messages used as labels and titles for buttons in the footer
 
