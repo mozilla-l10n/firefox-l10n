@@ -122,7 +122,7 @@ a11y-instantiator = Instanciador de Acessibilidade
 library-version-title = Versões de bibliotecas
 copy-text-to-clipboard-label = Copiar como texto
 copy-raw-data-to-clipboard-label = Copiar como estrutura de dados
-sandbox-title = Isolamento
+sandbox-title = Isolamento (sandbox)
 sandbox-sys-call-log-title = Chamadas do sistema rejeitadas
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Segundos atrás
@@ -248,8 +248,8 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Todos os relatórios de travamentos (incluindo { $reports } travamento pendente na faixa de tempo especificada)
-       *[other] Todos os relatórios de travamentos (incluindo { $reports } travamentos pendentes na faixa de tempo especificada)
+        [one] Todos os relatórios de travamento (incluindo { $reports } travamento pendente na faixa de tempo indicada)
+       *[other] Todos os relatórios de travamento (incluindo { $reports } travamentos pendentes na faixa de tempo indicada)
     }
 raw-data-copied = Dados copiados para a área de transferência
 text-copied = Texto copiado para a área de transferência
