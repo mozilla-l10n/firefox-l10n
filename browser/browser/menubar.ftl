@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ਇਹ ਭਰਮਪੂਰਨ ਸਾਈਟ ਨਹੀਂ ਹੈ…
     .accesskey = d
+menu-help-check-for-update =
+    .label = …ਅੱਪਡੇਟਾਂ ਲਈ ਜਾਂਚ ਕਰੋ
+    .accesskey = C
