@@ -43,6 +43,43 @@ whatsnew-panel-footer-checkbox =
     .label = Obavijesti o novim funkcijama
     .accesskey = f
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Otkrij više informacija
+profiler-popup-description-title =
+    .value = Snimi, analiziraj, dijeli
+profiler-popup-learn-more = Saznaj više
+profiler-popup-settings =
+    .value = Postavke
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Uredi postavke …
+profiler-popup-recording-screen = Snimanje…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Prilagođeno
+profiler-popup-start-recording-button =
+    .label = Počni snimati
+profiler-popup-discard-button =
+    .label = Odbaci
+profiler-popup-capture-button =
+    .label = Snimi
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] macos
+       *[other] ostalo
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] macos
+       *[other] ostalo
+    }
+
 ## Help panel
 
 appmenu-about =

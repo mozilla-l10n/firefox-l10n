@@ -348,6 +348,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zatvori
 
+## Tab actions
+
+browser-tab-audio-playing = Reprodukcija
+browser-tab-audio-muted = Isključen zvuk
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
