@@ -198,7 +198,7 @@ cfr-doorhanger-socialtracking-dont-show-again = Me mostrar pas mai de messatges 
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } a empachat un traçador de malhum social de vos pistar aquí
 cfr-doorhanger-socialtracking-description = Vòstra vida privada es importanta. Ara { -brand-short-name } bloca los elements de seguiment dels malhums socials mai populars, per limitar atal la quantitat de donadas que pòdon reculhir sus vòstra activitat en linha.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a blocat un traçador d’emprunta numerica sus aquesta pagina
-cfr-doorhanger-fingerprinters-description = Lo respècte de vòstra vida privada es important. Ara { -brand-short-name } bloca los generadors d’emprentas numericas, que reculhisson d’informacions unicas e identificablas de vòstre periferic per vos pistar.
+cfr-doorhanger-fingerprinters-description = Lo respècte de vòstra vida privada es importanta. Ara { -brand-short-name } bloca los generadors d’emprentas numericas, que reculhisson d’informacions unicas e identificablas de vòstre periferic per vos pistar.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } a blocat un minaire de criptomonedas sus aquesta pagina
 cfr-doorhanger-cryptominers-description = Vòstra vida privada es importanta. Ara { -brand-short-name } bloca los minaires de criptomonedas, qu’utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica.
 
@@ -261,7 +261,7 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Vòstra vida privada es important. Ara { -brand-short-name } estrema, o embarra dins un nauc de sabla, los sites web entre eles, çò que fa venir mai dificil als piratas los senhals, numèros de carta de crèdit e d’autras informacions sensiblas.
+cfr-doorhanger-fission-body-approved = Vòstra vida privada es importanta. Ara { -brand-short-name } estrema, o embarra dins un nauc de sabla, los sites web entre eles, çò que fa venir mai dificil als piratas los senhals, numèros de carta de crèdit e d’autras informacions sensiblas.
 cfr-doorhanger-fission-header = Isolacion de site
 cfr-doorhanger-fission-primary-button = Òc, plan comprés
     .accesskey = p
