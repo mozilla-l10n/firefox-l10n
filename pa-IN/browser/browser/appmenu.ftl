@@ -43,6 +43,45 @@ whatsnew-panel-footer-checkbox =
     .label = ਨਵੇਂ ਫ਼ੀਚਰਾਂ ਬਾਰੇ ਸੂਚਿਤ ਕਰੋ
     .accesskey = f
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = ਹੋਰ ਜਾਣਕਾਰੀ ਲਵੋ
+profiler-popup-description-title =
+    .value = ਰਿਕਾਰਡ ਕਰੋ, ਪੜਤਾਲ ਕਰੋ, ਸਾਂਝਾ ਕਰੋ
+profiler-popup-description = ਆਪਣੀ ਟੀਮ ਨਾਲ ਪਰੋਫਾਇਲ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰਕੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਸਲਿਆਂ ਉੱਤੇ ਸਾਂਝਾ ਪਾਓ।
+profiler-popup-learn-more = ਹੋਰ ਜਾਣੋ
+profiler-popup-settings =
+    .value = ਸੈਟਿੰਗਾਂ
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = …ਸੈਟਿਗਾਂ ਸੋਧੋ
+profiler-popup-disabled = ਪਰੋਫਾਇਲਰ ਇਸ ਵੇਲੇ ਅਸਮਰੱਥ ਹੈ, ਬਹੁਤੀ ਸੰਭਾਵਨਾ ਹੈ ਕਿ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਹੈ।
+profiler-popup-recording-screen = ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = ਕਸਟਮ
+profiler-popup-start-recording-button =
+    .label = ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰੋ
+profiler-popup-discard-button =
+    .label = ਖ਼ਾਰਜ ਕਰੋ
+profiler-popup-capture-button =
+    .label = ਕੈਪਚਰ
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
+
 ## Help panel
 
 appmenu-about =
@@ -89,3 +128,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = …ਅੱਪਡੇਟਾਂ ਲਈ ਚੈਕ ਕਰੋ
