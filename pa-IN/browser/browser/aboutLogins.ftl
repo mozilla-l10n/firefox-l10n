@@ -84,6 +84,7 @@ login-item-new-login-title = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
 login-item-edit-button = ਸੋਧੋ
 about-logins-login-item-remove-button = ਹਟਾਓ
 login-item-origin-label = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ
+login-item-tooltip-message = ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਉਸ ਵੈੱਬਸਾਈਟ ਦੇ ਸਿਰਨਾਵੇਂ ਨਾਲ ਪੂਰੀ ਤਰ੍ਹਾਂ ਮਿਲਦਾ ਹੈ, ਜਿੱਥੇ ਤੁਸੀਂ ਲਾਗਇਨ ਕਰਦੇ ਹੋ।
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ਵਰਤੋਂਕਾਰ ਨਾਂ
@@ -268,6 +269,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV ਦਸਤਾਵੇਜ਼
        *[other] CSV ਫ਼ਾਈਲ
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV ਡੌਕੂਮੈਂਟ
+       *[other] TSV ਫਾਇਲ
+    }
 
 ##
 ## Variables:
@@ -291,3 +299,9 @@ about-logins-import-dialog-items-error =
        *[other] <span>ਗ਼ਲਤੀ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੇ)</span>
     }
 about-logins-import-dialog-done = ਮੁਕੰਮਲ
+about-logins-import-dialog-error-title = ਦਰਾਮਦ ਗ਼ਲਤੀ
+about-logins-import-dialog-error-conflicting-values-title = ਇੱਕ ਲਾਗਇਨ ਲਈ ਕਈ ਆਪਾਂ-ਵਿਰੋਧੀ ਮੁੱਲ ਹਨ
+about-logins-import-dialog-error-conflicting-values-description = ਮਿਸਾਲ ਵਜੋਂ: ਇੱਕ ਲਾਗਇਨ ਲਈ ਕਈ ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਵਰਤੋਂਕਾਰ, URL ਆਦਿ।
+about-logins-import-dialog-error-file-format-title = ਫਾਇਲ ਫਾਰਮੈਟ ਦਾ ਮਸਲਾ
+about-logins-import-dialog-error-file-format-description = ਕਾਲਮ ਹੈੱਡਰ ਗ਼ਲਤ ਜਾਂ ਗੁੰਮ ਹਨ। ਪੱਕਾ ਕਰੋ ਕਿ ਫਾਇਲ ਵਿੱਚੋਂ ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਪਾਸਵਰਡ ਅਤੇ URL ਲਈ ਕਾਲਮ ਹਨ।
+about-logins-import-dialog-error-file-permission-title = ਫਾਇਲ ਪੜ੍ਹਨ ਲਈ ਅਸਮਰੱਥ
