@@ -370,15 +370,14 @@ addon-detail-private-browsing-disallow = 不允许
 addon-badge-recommended2 =
     .title = { -brand-product-name } 只推荐符合我们的安全和性能标准的扩展。
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = 此扩展由 { -brand-product-name } 开发商构建。
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = 此扩展的代码已通过安全审查
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = 这是由 { -brand-product-name } 开发商构建的官方扩展
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = 由 Mozilla 构建的官方扩展，符合安全和性能标准
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = 此扩展已通过审核，符合我们的安全和性能标准
     .aria-label = { addon-badge-verified2.title }
