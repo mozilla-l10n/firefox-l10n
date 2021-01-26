@@ -386,15 +386,14 @@ addon-detail-private-browsing-disallow = Peidio Caniatáu
 addon-badge-recommended2 =
     .title = Dim ond estyniadau sy'n cwrdd â'n safonau ar gyfer diogelwch a pherfformiad y mae { -brand-product-name } yn eu hargymell
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Crëwyd yr estyniad hwn gan wneuthurwyr { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Mae cod yr estyniad hwn wedi'i adolygu er diogelwch
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Crëwyd yr estyniad swyddogol hwn gan wneuthurwyr { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Estyniad swyddogol wedi'i adeiladu gan Mozilla. Yn cwrdd â safonau diogelwch a pherfformiad
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Mae'r estyniad hwn wedi'i adolygu i fodloni ein safonau ar gyfer diogelwch a pherfformiad
     .aria-label = { addon-badge-verified2.title }
