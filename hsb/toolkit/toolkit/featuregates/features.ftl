@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Eksperimentelna podpěra za runoč
 experimental-features-http3 =
     .label = Protokol HTTP/3
 experimental-features-http3-description = Eksperimentelna podpěra za protokol HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Adresowe polo: wuslědki za IME-kompoziciju pokazać
