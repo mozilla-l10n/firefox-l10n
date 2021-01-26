@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Dychwelyd at ymddygiad
 ##
 
 policy-LocalFileLinks = Caniatáu i wefannau penodol gysylltu i ffeiliau lleol.
-policy-MasterPassword = Ei gwneud yn ofynnol neu atal defnyddio prif gyfrinair.
 policy-ManagedBookmarks = Yn ffurfweddu rhestr o nodau tudalen sy'n cael eu rheoli gan weinyddwr nad yw'r defnyddiwr yn gallu eu newid.
+policy-MasterPassword = Ei gwneud yn ofynnol neu atal defnyddio prif gyfrinair.
+policy-ManualAppUpdateOnly = Caniatáu diweddariadau â llaw yn unig a pheidio â hysbysu'r defnyddiwr am ddiweddariadau.
 policy-PrimaryPassword = Ei gwneud yn ofynnol neu atal defnyddio Prif Gyfrinair.
 policy-NetworkPrediction = Galluogi neu analluoga rhagfynegiad rhwydwaith (rhagosod ymlaen DNS).
 policy-NewTabPage = Galluogi neu analluogi tudalen Tab Newydd.
