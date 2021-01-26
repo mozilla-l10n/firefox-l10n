@@ -104,3 +104,4 @@ experimental-features-http3-description = Suporte experimental ao protocolo HTTP
 # Search during IME
 experimental-features-ime-search =
     .label = Barra de endereços: Mostrar resultados durante a composição IME
+experimental-features-ime-search-description = Um IME (Input Method Editor, ou editor de método de entrada) é uma ferramenta que permite inserir símbolos complexos, como os usados em idiomas escritos do subcontinente indiano ou do leste asiático, usando um teclado padrão. Ativar este experimento faz com que o painel da barra de endereços se mantenha aberto, mostrando resultados e sugestões de pesquisa ao usar o IME para inserir texto. Note que o IME pode exibir um painel que cubra os resultados da barra de endereços, portanto essa preferência é sugerida apenas para IME que não usa esse tipo de painel.
