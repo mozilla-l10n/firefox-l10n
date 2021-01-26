@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reverter para o compor
 ##
 
 policy-LocalFileLinks = Permitir que sites específicos tenham links para arquivos locais.
-policy-MasterPassword = Exigir ou impedir o uso de uma senha mestra.
 policy-ManagedBookmarks = Configura uma lista de favoritos controlados por um administrador, que não podem ser alterados pelo usuário.
+policy-MasterPassword = Exigir ou impedir o uso de uma senha mestra.
+policy-ManualAppUpdateOnly = Permitir apenas atualizações manuais e não notificar o usuário sobre atualizações disponíveis.
 policy-PrimaryPassword = Exigir ou impedir usar uma senha principal.
 policy-NetworkPrediction = Ativar ou desativar predição de rede (carregamento antecipado de DNS).
 policy-NewTabPage = Ativar ou desativar a página de nova aba.
