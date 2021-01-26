@@ -39,7 +39,6 @@ appmenu-addon-post-install-message = Pindutin ang <image data-l10n-name='addon-i
 appmenu-addon-post-install-incognito-checkbox =
     .label = Payagan ang extension na ito upang tumakbo sa mga Pribadong Window
     .accesskey = A
-    
 appmenu-new-tab-controlled =
     .label = Ang iyong Bagong Tab ay nagbago.
     .buttonlabel = Panatilihin ang Mga Pagbabago
@@ -52,6 +51,18 @@ appmenu-homepage-controlled =
     .buttonaccesskey = K
     .secondarybuttonlabel = Disable Extension
     .secondarybuttonaccesskey = D
+appmenu-new-tab-controlled-changes =
+    .label = Nagbago ang iyong new tab.
+    .buttonlabel = Panatilihin ang mga Pagbabago
+    .buttonaccesskey = K
+    .secondarybuttonlabel = I-manage ang New Tabs
+    .secondarybuttonaccesskey = M
+appmenu-homepage-controlled-changes =
+    .label = Ang iyong homepage ay nagbago.
+    .buttonlabel = Panatilihin ang Pagbabago
+    .buttonaccesskey = K
+    .secondarybuttonlabel = I-manage ang Homepage
+    .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
     .label = Puntahan ang mga Nakatagong Tab
     .buttonlabel = Panatilihing nakatago ang mga Tab
