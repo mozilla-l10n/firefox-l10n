@@ -381,15 +381,14 @@ addon-detail-private-browsing-disallow = Không cho phép
 addon-badge-recommended2 =
     .title = { -brand-product-name } chỉ đề xuất các tiện ích mở rộng đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Tiện ích mở rộng này được tạo bởi những người sản xuất { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Tiện ích mở rộng này đã được xem xét mã để đảm bảo an toàn.
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Đây là tiện ích mở rộng chính thức do những người tạo ra { -brand-product-name } xây dựng
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Tiện ích mở rộng chính thức do Mozilla xây dựng. Đáp ứng các tiêu chuẩn về bảo mật và hiệu suất.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Tiện ích mở rộng này đã được xem xét để đáp ứng các tiêu chuẩn của chúng tôi về bảo mật và hiệu suất
     .aria-label = { addon-badge-verified2.title }
