@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjene zadźeržen
 ##
 
 policy-LocalFileLinks = Wěstym websydłam dowolić, na lokalne dataje wotkazać.
-policy-MasterPassword = Hłowne hesło požadać abo jeho wužiwanju zadźěwać
 policy-ManagedBookmarks = Konfiguruje lisćinu zapołožkow, kotrež administrator rjaduje a kotrež wužiwar njemóže změnić.
+policy-MasterPassword = Hłowne hesło požadać abo jeho wužiwanju zadźěwać
+policy-ManualAppUpdateOnly = Jenož manuelne aktualizacije dowolić a wužiwarja wo aktualizacijach njeinformować.
 policy-PrimaryPassword = Hłowne hesło požadać abo jeho wužiwanju zadźěwać
 policy-NetworkPrediction = Syćowe předzačitanje (DNS-předzačitanje) zmóžnić abo znjemóžnić.
 policy-NewTabPage = Stronu noweho rajtarka zmóžnić abo znjemóžnić.
