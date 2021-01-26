@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Thử nghiệm cho phép hỗ tr�
 experimental-features-http3 =
     .label = Giao thức HTTP/3
 experimental-features-http3-description = Hỗ trợ thử nghiệm cho giao thức HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Thanh địa chỉ: hiển thị kết quả trong quá trình thành phần IME
+experimental-features-ime-search-description = IME (Trình chỉnh sửa phương thức nhập) là một công cụ cho phép bạn nhập các ký hiệu phức tạp, chẳng hạn như các ký hiệu được sử dụng trong các ngôn ngữ viết Đông Á hoặc Ấn Độ, bằng bàn phím tiêu chuẩn. Bật thử nghiệm này sẽ giữ cho bảng thanh địa chỉ luôn mở, hiển thị kết quả tìm kiếm và đề xuất, trong khi sử dụng IME để nhập văn bản. Lưu ý rằng IME có thể hiển thị một bảng che các kết quả trên thanh địa chỉ, do đó tùy chọn này chỉ được đề xuất cho IME không sử dụng loại bảng này.
