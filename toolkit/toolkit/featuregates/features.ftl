@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = 여러 화면 속 화면 창을 �
 experimental-features-http3 =
     .label = HTTP/3 프로토콜
 experimental-features-http3-description = HTTP/3 프로토콜을 실험적으로 지원합니다.
+# Search during IME
+experimental-features-ime-search =
+    .label = 주소 표시줄: IME 입력 중 결과 표시
+experimental-features-ime-search-description = IME (Input Method Editor)는 표준 키보드를 사용하여 동아시아 또는 인도어에서 사용되는 것과 같은 복잡한 기호를 입력 할 수 있는 도구입니다. 이 실험을 활성화하면 IME를 사용하여 텍스트를 입력하는 동안 주소 표시줄 패널이 열려 검색 결과와 제안을 표시합니다. IME는 주소 표시줄 결과를 포함하는 패널을 표시할 수 있으므로, 이 설정은 이러한 유형의 패널을 사용하지 않는 IME에만 권장됩니다.
