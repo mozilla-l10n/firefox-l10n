@@ -378,15 +378,14 @@ addon-detail-private-browsing-disallow = Njedowóliś
 addon-badge-recommended2 =
     .title = { -brand-product-name } jano rozšyrjenja dopórucujo, kótarež našym standardam za wěstotu a wugbaśe wótpowěduju.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Toś to rozšyrjenje jo se napórało wót zgótowjarja { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Kod toś togo rozšyrjenja jo se pśeglědało z pśicynow wěstoty
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = To jo oficielne rozšyrjenje, kótarež jo se wuwiło wót wuwijarjow { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Oficielne rozšyrjenje, wuwite wót Mozilla. Docynja wěstotne a wugbaśowe standardy.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Toś to rozšyrjenje jo se pśeglědało, aby našym standardam za wěstotu a wugbaśe wótpowědował.
     .aria-label = { addon-badge-verified2.title }
