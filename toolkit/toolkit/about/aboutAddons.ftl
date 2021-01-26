@@ -385,6 +385,11 @@ addon-badge-recommended2 =
 addon-badge-line2 =
     .title = Це офіційне розширення, створене розробниками { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Офіційне розширення, створене Mozilla. Відповідає стандартам безпеки та продуктивності.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Це розширення перевірено на відповідність нашим стандартам безпеки та швидкодії.
     .aria-label = { addon-badge-verified2.title }
