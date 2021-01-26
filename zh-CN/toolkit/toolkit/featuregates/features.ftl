@@ -101,4 +101,4 @@ experimental-features-multi-pip-description = 允许同时打开多个画中画�
 experimental-features-http3 =
     .label = HTTP/3 协议
 experimental-features-http3-description = 对 HTTP/3 协议的实验性支持。
-experimental-features-ime-search-description = 东亚及印度语言使用者须使用输入法才能在标准键盘上输入各种字符。启用此实验后，地址栏面板将在文本输入过程中保持打开状态，并根据用户输入内容显示搜索结果与建议。请注意：某些输入法可能会显示输入面板，覆盖地址栏显示的结果，建议在确认所用输入法无上述行为后，开启此首选项。
+experimental-features-ime-search-description = 对于东亚及印度语言使用者，要在标准键盘上输入各种字符，输入法是不可或缺的工具。启用此实验后，地址栏面板将在文本输入过程中保持打开状态，并根据用户输入内容显示搜索结果与建议。请注意：某些输入法可能会显示输入面板，覆盖地址栏显示的结果，建议在确认所用输入法无上述行为后，开启此首选项。
