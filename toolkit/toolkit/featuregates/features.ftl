@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Experimentele ondersteuning voor g
 experimental-features-http3 =
     .label = HTTP/3-protocol
 experimental-features-http3-description = Experimentele ondersteuning voor het HTTP/3-protocol.
+# Search during IME
+experimental-features-ime-search =
+    .label = Adresbalk: resultaten tonen tijdens opstellen met IME
+experimental-features-ime-search-description = Een IME (Input Method Editor) is een hulpmiddel waarmee u complexe symbolen, zoals in Oost-Aziatische of Indische geschreven talen worden gebruikt, met een standaard toetsenbord kunt invoeren. Als u dit experiment inschakelt, blijft het adresbalkpaneel open, waarbij zoekresultaten en -suggesties worden getoond, terwijl u IME gebruikt om tekst in te voeren. Merk op dat de IME een paneel kan tonen dat de adresbalkresultaten afdekt; daarom wordt deze voorkeur alleen gesuggereerd voor IME waarbij dit type paneel niet wordt gebruikt.
