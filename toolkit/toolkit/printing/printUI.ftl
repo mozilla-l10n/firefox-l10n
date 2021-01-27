@@ -17,14 +17,6 @@ printui-page-range-custom = Oanpast
 printui-page-range-label = Siden
 printui-page-range-picker =
     .aria-label = Sideberik kieze
-printui-page-custom-range =
-    .aria-label = Oanpast sideberik ynfiere
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Fan
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = oant
 printui-page-custom-range-input =
     .aria-label = Oanpast sideberik ynfiere
     .placeholder = byg. 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = Marzjes
 printui-margins-default = Standert
 printui-margins-min = Minimum
 printui-margins-none = Gjin
-printui-margins-custom = Oanpast
 printui-margins-custom-inches = Oanpast (inches)
 printui-margins-custom-top = Boppe
 printui-margins-custom-top-inches = Boppeside (inches)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Siden per blêd
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Ofdrukke…
+printui-print-progress-indicator-saving = Bewarje…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

@@ -382,15 +382,14 @@ addon-detail-private-browsing-disallow = Net tastean
 addon-badge-recommended2 =
     .title = { -brand-product-name } rekommandearret allinnich útwreidingen oan dy't foldogge oan ús noarms foar feilichheid en prestaasjes.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Dizze útwreiding is makke troch de makkers fan { -brand-product-name }.
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = De koade fan dizze útwreiding is foar jo feilichheid beoardiele
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Dit is in offisjele útwreiding, boud troch de makkers fan { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Offisjele troch Mozilla Firefox boude útwreiding. Foldocht oan befeiligings- en prestaasjenoarmen.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Dizze útwreiding is beoardiele en foldocht oan ús noarms foar befeiliging en prestaasjes
     .aria-label = { addon-badge-verified2.title }
