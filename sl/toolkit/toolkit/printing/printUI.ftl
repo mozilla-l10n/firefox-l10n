@@ -19,14 +19,6 @@ printui-page-range-custom = Po meri
 printui-page-range-label = Strani
 printui-page-range-picker =
     .aria-label = Izberite obseg strani
-printui-page-custom-range =
-    .aria-label = Vnesite obseg strani po meri
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Od
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = do
 printui-page-custom-range-input =
     .aria-label = Vnesite obseg strani po meri
     .placeholder = npr. 2-6, 9, 12-16
@@ -61,7 +53,6 @@ printui-margins = Robovi
 printui-margins-default = Privzeto
 printui-margins-min = Najmanj
 printui-margins-none = Brez
-printui-margins-custom = Po meri
 printui-margins-custom-inches = Po meri (palci)
 printui-margins-custom-top = Zgoraj
 printui-margins-custom-top-inches = Vrh (palci)
@@ -85,6 +76,7 @@ printui-pages-per-sheet = Strani na list
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Tiskanje …
+printui-print-progress-indicator-saving = Shranjevanje ...
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
