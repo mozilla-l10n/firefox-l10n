@@ -378,15 +378,14 @@ addon-detail-private-browsing-disallow = Tillåt inte
 addon-badge-recommended2 =
     .title = { -brand-product-name } rekommenderar endast tillägg som uppfyller våra standarder för säkerhet och prestanda
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Detta tillägg skapades av tillverkarna av { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Detta tillägg har kodgranskats av säkerhetsskäl
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Detta är en officiell utökning byggd av skaparna av { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Officiellt tillägg byggt av Mozilla Firefox. Uppfyller säkerhets- och prestandastandarder
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Denna tillägg har granskats för att uppfylla våra standarder för säkerhet och prestanda
     .aria-label = { addon-badge-verified2.title }
