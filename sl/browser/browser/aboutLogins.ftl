@@ -293,3 +293,5 @@ about-logins-import-dialog-done = Končano
 about-logins-import-dialog-error-title = Napaka pri uvozu
 about-logins-import-dialog-error-conflicting-values-title = Več nasprotujočih si vrednosti za eno prijavo
 about-logins-import-dialog-error-conflicting-values-description = Npr. več uporabniških imen, gesel, spletnih naslovov … za eno prijavo.
+about-logins-import-dialog-error-file-format-title = Težava z obliko datoteke
+about-logins-import-dialog-error-file-format-description = Napačne ali manjkajoče glave stolpcev. Prepričajte se, da datoteka vsebuje stolpce za uporabniško ime, geslo in spletni naslov.
