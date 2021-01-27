@@ -384,15 +384,14 @@ addon-detail-private-browsing-disallow = Ne dovoli
 addon-badge-recommended2 =
     .title = { -brand-product-name } priporoča samo razširitve, ki ustrezajo našim standardom glede varnosti in učinkovitosti delovanja.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = To razširitev so razvili ustvarjalci { -brand-product-name }a
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Koda te razširitve je varnostno pregledana
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = To je uradna razširitev, ki so jo razvili ustvarjalci { -brand-product-name }a
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Uradna razširitev, katere avtor je Mozilla. Izpolnjuje standarde varnosti in učinkovitosti delovanja
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Ta razširitev preverjeno izpolnjuje naše standarde glede varnosti in učinkovitosti delovanja.
     .aria-label = { addon-badge-verified2.title }
