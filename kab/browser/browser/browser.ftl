@@ -346,6 +346,10 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Mdel
 
+## Tab actions
+
+browser-tab-audio-muted = Isusem
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +510,9 @@ pointerlock-warning-no-domain = Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc a
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Issin ugar
+    .accesskey = I
 
 ## Bookmarks panels, menus and toolbar
 

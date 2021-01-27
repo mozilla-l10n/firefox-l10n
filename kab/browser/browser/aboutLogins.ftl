@@ -299,3 +299,8 @@ about-logins-import-dialog-items-error =
        *[other] <span>Tuccḍiwin </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ur d-yettukter ara)</span>
     }
 about-logins-import-dialog-done = Immed
+about-logins-import-dialog-error-title = Tuccḍa deg uktar
+about-logins-import-dialog-error-file-format-title = Ugur deg umasal n ufaylu
+about-logins-import-dialog-error-learn-more = Issin ugar
+about-logins-import-dialog-error-try-again = Ɛreḍ tikkelt-nniḍen…
+about-logins-import-dialog-error-cancel = Sefsex
