@@ -86,6 +86,7 @@ login-item-new-login-title = Ustvari novo prijavo
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Odstrani
 login-item-origin-label = Naslov spletnega mesta
+login-item-tooltip-message = Prepričajte se, da se to ujema s točnim naslovom spletne strani, na katero se prijavljate.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Uporabniško ime
@@ -275,6 +276,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokument CSV
        *[other] Datoteka CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument TSV
+       *[other] Datoteka TSV
+    }
 
 ##
 ## Variables:
@@ -282,3 +290,6 @@ about-logins-import-file-picker-csv-filter-title =
 
 about-logins-import-dialog-title = Uvoz dokončan
 about-logins-import-dialog-done = Končano
+about-logins-import-dialog-error-title = Napaka pri uvozu
+about-logins-import-dialog-error-conflicting-values-title = Več nasprotujočih si vrednosti za eno prijavo
+about-logins-import-dialog-error-conflicting-values-description = Npr. več uporabniških imen, gesel, spletnih naslovov … za eno prijavo.
