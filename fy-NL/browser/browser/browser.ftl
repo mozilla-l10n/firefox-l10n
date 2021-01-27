@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Slute
 
+## Tab actions
+
+browser-tab-audio-playing = Wurdt ôfspile
+browser-tab-audio-muted = Lûd út
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +511,13 @@ pointerlock-warning-no-domain = Dit dokumint hat de kontrôle oer jo oanwizer. D
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>In part fan dizze side is ferûngelokke.</strong> Tsjinje in rapport yn om { -brand-product-name } te ynformearjen oer dit probleem en it rapper oplost te krijen.
+crashed-subframe-learnmore =
+    .label = Mear ynfo
+    .accesskey = M
+crashed-subframe-submit =
+    .label = Rapport ferstjoere
+    .accesskey = s
 
 ## Bookmarks panels, menus and toolbar
 

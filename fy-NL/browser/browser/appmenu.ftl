@@ -53,6 +53,36 @@ profiler-popup-reveal-description-button =
     .aria-label = Mear ynformaasje toane
 profiler-popup-description-title =
     .value = Opnimme, analysearje, diele
+profiler-popup-description = Wurkje tegearre oan prestaasjeproblemen troch profilen te publisearjen om mei jo team te dielen.
+profiler-popup-learn-more = Mear ynfo
+profiler-popup-settings =
+    .value = Ynstellingen
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Ynstellingen bewurkje…
+profiler-popup-disabled =
+    De profiler is op dit stuit útskeakele, wierskynlik omdat in priveefinster
+    iepene is.
+profiler-popup-recording-screen = Opnimme…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Oanpast
+profiler-popup-start-recording-button =
+    .label = Opname starte
+profiler-popup-discard-button =
+    .label = Ferwerpe
+profiler-popup-capture-button =
+    .label = Fêstlizze
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -100,3 +130,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Kontrolearje op fernijingen…

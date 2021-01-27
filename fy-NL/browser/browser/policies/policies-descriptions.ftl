@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op spesifike websites 
 ##
 
 policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale bestannen.
-policy-MasterPassword = In haadwachtwurd fereaskje of foarkomme.
 policy-ManagedBookmarks = Konfigurearret in list mei blêdwizers dy't beheard wurde troch in behearder en dy't net troch de brûker wizige wurde kin.
+policy-MasterPassword = In haadwachtwurd fereaskje of foarkomme.
+policy-ManualAppUpdateOnly = Allinnich hânmjittige fernijingen tastean en de brûker net oer fernijingen ynformearje.
 policy-PrimaryPassword = In haadwachtwurd fereaskje of foarkomme.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) ynskeakelje of útskeakelje.
 policy-NewTabPage = De nije-ljepblêdside ynskeakelje of útskeakelje.
