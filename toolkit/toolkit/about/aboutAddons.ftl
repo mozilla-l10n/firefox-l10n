@@ -384,15 +384,14 @@ addon-detail-private-browsing-disallow = Tiltás
 addon-badge-recommended2 =
     .title = A { -brand-product-name } csak olyan kiegészítőket ajánl, amelyek megfelelnek a biztonsági és a teljesítménybeli követelményeinknek.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Ezt a kiegészítőt a { -brand-product-name } készítői hozták létre.
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = A kiegészítő biztonsági okokból kódfelülvizsgálaton esett át
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Ez egy hivatalos kiegészítő, melyet a { -brand-product-name } készítői fejlesztettek
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Hivatalos, a Mozilla által készített kiegészítő. Megfelel a biztonsági és teljesítményi előírásoknak.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Megvizsgáltuk ezt a kiegészítőt, és megfelelt a biztonsági és a teljesítménybeli követelményeinknek.
     .aria-label = { addon-badge-verified2.title }

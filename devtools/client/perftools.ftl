@@ -101,3 +101,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = A fenti kiválasztások megkerülése, és az összes regisztrált szál rögzítése
+perftools-tools-threads-input-label =
+    .title = Az itt felsorolt szálnevek vesszővel elválasztott listája a profilozóban a szálak profilozásának engedélyezésére szolgál. A szál már nevének részleges egyezése esetén is hozzáadásra kerül. A mező szóközökre érzékeny.
