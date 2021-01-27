@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Փորձնական աջակցու�
 experimental-features-http3 =
     .label = HTTP/3 արձանագրութիւն
 experimental-features-http3-description = Փորձարարական սպասարկում HTTP/3 արձանագրութեան համար:
+# Search during IME
+experimental-features-ime-search =
+    .label = Հասցէագաւտի․ ցուցադրում է արդիւնքները IME շարադրութեան ընթացքում
