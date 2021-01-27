@@ -52,15 +52,37 @@ perftools-devtools-settings-label = Ynstellingen
 perftools-status-private-browsing-notice =
     De profiler is útskeakele as priveenavigaasje ynskeakele is.
     Slút alle priveefinsters om de profiler opnij yn te skeakeljen
+perftools-status-recording-stopped-by-another-tool = De opname is troch in oar helpmiddel stoppe.
+perftools-status-restart-required = De browser moat opnij start wurde om dizze funksje yn te skeakeljen.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Opname wurdt stoppe
+perftools-request-to-get-profile-and-stop-profiler = Profyl wurdt fêstlein
 
 ##
 
+perftools-button-start-recording = Opname starte
+perftools-button-capture-recording = Opname fêstlizze
+perftools-button-cancel-recording = Opname annulearje
+perftools-button-save-settings = Ynstellen bewarje en tebekgean
+perftools-button-restart = Opnij starte
+perftools-button-add-directory = In map tafoegje
+perftools-button-remove-directory = Selektearre fuortsmite
+perftools-button-edit-settings = Ynstellingen bewurkje…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = De haadprosessen foar sawol it boppelizzende proses as ynhâldprosessen
+perftools-thread-compositor =
+    .title = Stelt ferskate painted eleminten op de side gear
+perftools-thread-dom-worker =
+    .title = Dit ferwurket sawol webworkers as serviceworkers
+perftools-thread-renderer =
+    .title = As WebRender ynskeakele is, de thread dy't OpenGL-oanroppen útfiert
+perftools-thread-render-backend =
+    .title = De WebRender RenderBackend-thread
 
 ##
 
