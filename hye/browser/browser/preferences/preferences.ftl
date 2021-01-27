@@ -923,7 +923,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Հասցէգաւտի
-addressbar-suggest = Հասցէգաւտին աւգտագործելիս առաջարկել
+addressbar-suggest = Հասցէագաւտին աւգտագործելիս առաջարկել
 addressbar-locbar-history-option =
     .label = Դիտարկման պատմութիւն
     .accesskey = H
