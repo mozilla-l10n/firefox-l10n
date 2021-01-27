@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = To ni zavajajoča stran …
     .accesskey = z
+menu-help-check-for-update =
+    .label = Poišči posodobitve …
+    .accesskey = P
