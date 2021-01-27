@@ -989,6 +989,7 @@ content-blocking-cryptominers = Elymynty, co fedrujōm kryptopiniōndze
 content-blocking-fingerprinters = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
 content-blocking-warning-title = Pozōr!
 content-blocking-and-isolating-etp-warning-description = Skuli szperowanio zawartości niykere i izolowanio cookies strōny mogōm mieć gorszo funkcjōnalność. Przeladuj strōna ze załōnczōnymi śledzōncymi elymyntami, coby pokozać cołko zawartość.
+content-blocking-and-isolating-etp-warning-description-2 = Skuli tego sztalōnku niykere strōny mogōm sie dobrze niy pokazować abo działać felernie. Jak strōna zdo sie felerno, idzie wyłōnczyć ôchrōna ôd śledzynio na tyj strōnie, coby poradziyła zaladować cołko zawartość.
 content-blocking-warning-learn-how = Przewiydz sie, jak
 content-blocking-reload-description = Trza przeladować karty, coby wkludzić zmiany.
 content-blocking-reload-tabs-button =

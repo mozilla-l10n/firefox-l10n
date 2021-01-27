@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = To niy ma ôszydno strōna…
     .accesskey = c
+menu-help-check-for-update =
+    .label = Badnij za aktualizacyjami…
+    .accesskey = B

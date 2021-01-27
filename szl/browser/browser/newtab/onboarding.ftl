@@ -17,6 +17,14 @@ onboarding-button-label-get-started = Zaczynōmy
 
 ## Welcome modal dialog strings
 
+
+### UI strings for the simplified onboarding / multistage about:welcome
+### Various strings use a non-breaking space to avoid a single dangling /
+### widowed word, so test on various window sizes if you also want this.
+
+
+## Welcome page strings
+
 onboarding-welcome-header = { -brand-short-name } wito
 onboarding-welcome-body = Mosz już przeglōndarka. <br/>Poznej inksze aplikacyje z familije { -brand-product-name }.
 onboarding-welcome-learn-more = Przewiydz sie wiyncyj ô profitach.
@@ -39,97 +47,6 @@ onboarding-start-browsing-button-label = Zacznij przeglōndać internet
 onboarding-cards-dismiss =
     .title = Ôdkoż
     .aria-label = Ôdkoż
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Witej w aplikacyji <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = Gibko, bezpieczno i prywatno przeglōndarka rychtowano ôd ôrganizacyje non-profit.
-onboarding-multistage-welcome-primary-button-label = Zacznij sztalować
-onboarding-multistage-welcome-secondary-button-label = Wloguj sie
-onboarding-multistage-welcome-secondary-button-text = Mosz kōnto?
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Importuj swoje hasła, <br/>zokłodki a <span data-l10n-name="zap">wiyncyj</span>
-onboarding-multistage-import-subtitle = Przichodzisz z inkszyj przeglōndarki? Leko idzie przeniyść wszysko do aplikacyje { -brand-short-name }.
-onboarding-multistage-import-primary-button-label = Zacznij import
-onboarding-multistage-import-secondary-button-label = Niy teroz
-# Info displayed in the footer of import settings screen during onboarding flow.
-# This supports welcome screen showing top sites imported from the user's default browser.
-onboarding-import-sites-disclaimer = Strōny z wykazu sōm znodniynte na tyj maszinie. { -brand-short-name } niy spamiyntuje ani niy synchrōnizuje danych z inkszyj przeglōndarki, podwiela niy kożesz ich importnōnć.
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Piyrsze kroki: ekran { $current } ze { $total }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Ôbier se <span data-l10n-name="zap">wyglōnd</span>
-onboarding-multistage-theme-subtitle = Nastow se aplikacyjo { -brand-short-name } z motywym.
-onboarding-multistage-theme-primary-button-label = Spamiyntej motyw
-onboarding-multistage-theme-secondary-button-label = Niy teroz
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = Autōmatyczny
-# System refers to the operating system
-onboarding-multistage-theme-description-automatic = Użyj motywu systymu
-onboarding-multistage-theme-label-light = Jasny
-onboarding-multistage-theme-label-dark = Ćmawy
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic =
-    .title =
-        Erbnij wyglōnd ze swojigo ôperacyjnego systymu:
-        knefle, myni i ôkna.
-    .aria-label = { onboarding-multistage-theme-tooltip-automatic.title }
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light =
-    .title = Użyj jasnych knefli, myni i ôkiyn.
-    .aria-label = { onboarding-multistage-theme-tooltip-light.title }
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark =
-    .title = Użyj ćmawych knefli, myni i ôkiyn.
-    .aria-label = { onboarding-multistage-theme-tooltip-dark.title }
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow =
-    .title = Użyj bōntych knefli, myni i ôkiyn.
-    .aria-label = { onboarding-multistage-theme-tooltip-alpenglow.title }
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title =
-        Erbnij wyglōnd ze swojigo ôperacyjnego systymu:
-        knefle, myni i ôkna.
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description =
-        Erbnij wyglōnd ze swojigo ôperacyjnego systymu:
-        knefle, myni i ôkna.
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title = Użyj jasnych knefli, myni i ôkiyn.
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description = Użyj jasnych knefli, myni i ôkiyn.
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title = Użyj ćmawych knefli, myni i ôkiyn.
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description = Użyj ćmawych knefli, myni i ôkiyn.
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title = Użyj bōntych knefli, myni i ôkiyn.
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description = Użyj bōntych knefli, myni i ôkiyn.
 
 ## Welcome full page string
 
@@ -228,3 +145,85 @@ return-to-amo-sub-header = Super, mosz już przeglōndarka { -brand-short-name }
 return-to-amo-addon-header = Teroz pobier przidowka <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Przidej rozszyrzynie
 return-to-amo-get-started-button = Jako zacznōńć z aplikacyjōm { -brand-short-name }
+onboarding-not-now-button-label = Niy teroz
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Super, mosz już przeglōndarka { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Teroz pobier <img data-l10n-name="icon"/><b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Przidej rozszyrzynie
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Witej w aplikacyji <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Gibko, bezpieczno i prywatno przeglōndarka rychtowano ôd ôrganizacyje non-profit.
+onboarding-multistage-welcome-primary-button-label = Zacznij sztalować
+onboarding-multistage-welcome-secondary-button-label = Wloguj sie
+onboarding-multistage-welcome-secondary-button-text = Mosz kōnto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importuj swoje hasła, <br/>zokłodki a <span data-l10n-name="zap">wiyncyj</span>
+onboarding-multistage-import-subtitle = Przichodzisz z inkszyj przeglōndarki? Leko idzie przeniyść wszysko do aplikacyje { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Zacznij import
+onboarding-multistage-import-secondary-button-label = Niy teroz
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Strōny z wykazu sōm znodniynte na tyj maszinie. { -brand-short-name } niy spamiyntuje ani niy synchrōnizuje danych z inkszyj przeglōndarki, podwiela niy kożesz ich importnōnć.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Piyrsze kroki: ekran { $current } ze { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Ôbier se <span data-l10n-name="zap">wyglōnd</span>
+onboarding-multistage-theme-subtitle = Nastow se aplikacyjo { -brand-short-name } z motywym.
+onboarding-multistage-theme-primary-button-label = Spamiyntej motyw
+onboarding-multistage-theme-secondary-button-label = Niy teroz
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Autōmatyczny
+onboarding-multistage-theme-label-light = Jasny
+onboarding-multistage-theme-label-dark = Ćmawy
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Erbnij wyglōnd ze swojigo ôperacyjnego systymu:
+        knefle, myni i ôkna.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Erbnij wyglōnd ze swojigo ôperacyjnego systymu:
+        knefle, myni i ôkna.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title = Użyj jasnych knefli, myni i ôkiyn.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description = Użyj jasnych knefli, myni i ôkiyn.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title = Użyj ćmawych knefli, myni i ôkiyn.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description = Użyj ćmawych knefli, myni i ôkiyn.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title = Użyj bōntych knefli, myni i ôkiyn.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description = Użyj bōntych knefli, myni i ôkiyn.

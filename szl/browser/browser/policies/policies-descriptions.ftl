@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Nostowio przedowniōne
 ##
 
 policy-LocalFileLinks = Zgoda, coby niykere strōny linkowały do lokalnych zbiorōw.
-policy-MasterPassword = Żōndanie abo zakoz używanio głōwnego hasła.
 policy-ManagedBookmarks = Sztaluje wykoz z zokłodkami regiyrowanymi ôd administratora, kerych używocz niy poradzi zmiyniać.
+policy-MasterPassword = Żōndanie abo zakoz używanio głōwnego hasła.
+policy-ManualAppUpdateOnly = Przizwolej ino na rynczne aktualizacyje i niy dowej użytkownikowi znać ô aktualizacyjach.
 policy-PrimaryPassword = Żōndanie abo zakoz używanio głōwnego hasła.
 policy-NetworkPrediction = Załōnczanie abo zastawianie wstympnego wczytowanio DNS.
 policy-NewTabPage = Załōnczanie abo zastawianie strōny nowyj karty.
