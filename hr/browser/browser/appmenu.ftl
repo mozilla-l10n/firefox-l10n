@@ -69,16 +69,6 @@ profiler-popup-discard-button =
     .label = Odbaci
 profiler-popup-capture-button =
     .label = Snimi
-profiler-popup-start-shortcut =
-    { PLATFORM() ->
-        [macos] macos
-       *[other] ostalo
-    }
-profiler-popup-capture-shortcut =
-    { PLATFORM() ->
-        [macos] macos
-       *[other] ostalo
-    }
 
 ## Help panel
 
