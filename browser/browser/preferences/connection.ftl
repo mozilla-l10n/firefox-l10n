@@ -56,6 +56,8 @@ connection-proxy-noproxy = Gjin proxy foar
 connection-proxy-noproxy-desc = Foarbyld: .mozilla.org, .net.nl, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
 connection-proxy-noproxy-localhost-desc = Ferbiningen mei localhost, 127.0.0.1 en ::1 gean nea fia in proxy.
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Ferbiningen mei localhost, 127.0.0.1/8 en ::1 gean nea fia in proxy.
 connection-proxy-autotype =
     .label = URL foar automatyske proxykonfiguraasje
     .accesskey = U

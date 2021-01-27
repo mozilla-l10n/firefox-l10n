@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Dit is gjin misliedende website…
     .accesskey = m
+menu-help-check-for-update =
+    .label = Kontrolearje op fernijingen…
+    .accesskey = K
