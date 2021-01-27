@@ -276,12 +276,19 @@ cfr-whatsnew-clear-cookies-image-alt = Ôbroz zaszperowanego cookie
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Wiyncyj sztalōnkōw mydiōw
+cfr-whatsnew-media-keys-body = Puszczej i pauzuj klang i video zaroz ze swojij tastatury abo słuchawek, bez co snadnie idzie kōntrolować mydia z inkszyj karty, programu, abo tyż przi zaszperowanym kōmputrze. Idzie tyż skokać z kneflami miyndzy śpiywkami.
+cfr-whatsnew-media-keys-button = Przewiydz sie, jak
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Skrōty szukanio we posku z adresōm
+cfr-whatsnew-search-shortcuts-body = Teroz, jak we poosku z adresōm wkludzisz wyszukowarka abo jako strōna, to niżzyj, w doradach szukanio, pokoże sie modry skrōt. Ôbier tyn skrōt, coby dokōńczyć szukać zaroz z poska z adresōm.
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Ôchrōna ôd ôszydnych supecookies
+cfr-whatsnew-supercookies-body = Niykere serwery poradzōm skrycie przidać do twojij przeglōndarki "supercookie", co bydzie cie śledzić po necu, chocioż wypucujesz swoje cookies. { -brand-short-name } dowo teroz siylno ôchrōna ôd tych supercookies, tak co niy idzie ich użyć do śledzynio za twojimi aktywnościami w necu miyndzy strōnami.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Lepsze kludzynie zokłodek
