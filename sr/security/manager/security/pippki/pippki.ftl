@@ -38,7 +38,9 @@ reset-primary-password-window =
 reset-password-button-label =
     .label = Ресетуј
 reset-password-text = Ако ресетујете главну лозинку, све сачуване лозинке за интернет и е-пошту, садржаји формулара, лични сертификати и кључеви биће "изгубљени". Да ли заиста желите ресетовати своју главну лозинку?
+reset-primary-password-text = Ако ресетујете главну лозинку, изгубиће се све сачуване лозинке са веб страница и е-поште, подаци образаца, лични сертификати и кључеви. Да ли и даље желите да ресетујете главну лозинку?
 pippki-reset-password-confirmation-title = Ресетуј главну лозинку
+pippki-reset-password-confirmation-message = Ваша главна лозинка је ресетована.
 
 ## Downloading cert dialog
 
