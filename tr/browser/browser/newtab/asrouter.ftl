@@ -282,6 +282,7 @@ cfr-whatsnew-search-shortcuts-body = Adres çubuğuna bir arama motorunun veya b
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Kötücül süperçerezlere karşı koruma
+cfr-whatsnew-supercookies-body = Web siteleri, normal çerezleri temizledikten sonra bile sizi takip etmek için tarayıcınıza gizlice “süperçerez” yerleştirmeye çalışabilir. { -brand-short-name } artık süperçerezlere karşı etkili koruma sağlıyor. Böylece süperçerezler hangi sitelerde gezindiğinizi takip edemiyor.
 
 ## What's new: Better bookmarking
 
