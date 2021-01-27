@@ -378,15 +378,14 @@ addon-detail-private-browsing-disallow = Не дозволи
 addon-badge-recommended2 =
     .title = { -brand-product-name } препоручује само проширења која задовољавају наше стандарде сигурности и перформанси
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Ово проширење су направили творци { -brand-product-name }-а
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Код овог проширења је проверен ради безбедности
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Ово је званично проширење које су направили творци { -brand-product-name }-а
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Званично Mozilla проширење. Испуњава стандарде сигурности и перформанси
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Ово проширење је тестирано како би удовољило нашим стандардима безбедности и перформанси
     .aria-label = { addon-badge-verified2.title }
