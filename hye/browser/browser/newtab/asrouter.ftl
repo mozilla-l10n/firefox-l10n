@@ -81,7 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Զննարկել առանց հետեւուելու
-cfr-protections-panel-body = Ձեր տուեալները պահեք Ձեզ մոտ։ { -brand-short-name }-ը Ձեզ պաշտպանում է ամենատարածուած վնասներից, որոնք հետեւում են այն ամենին, ինչ դուք անում եք առցանց։
+cfr-protections-panel-body = Ձեր տուեալները պահէք Ձեզ մաւտ։ { -brand-short-name }-ը Ձեզ պաշտպանում է ամենատարածուած վնասներից, որոնք հետեւում են այն ամէնին, ինչ դուք անում էք առցանց։
 cfr-protections-panel-link-text = Իմանալ աւելին
 
 ## What's New toolbar button and panel
@@ -96,7 +96,7 @@ cfr-whatsnew-panel-header = Ինչն է նոր
 cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
 cfr-whatsnew-fx70-title = { -brand-short-name } այժմ աւելի է պայքարում Ձեր գաղտնիութեան համար
 cfr-whatsnew-fx70-body = Վերջին թարմացումը ուժեղացնում է պաշտպանումը վնասներից առանձնահատկութիւնը եւ դարձնում է այն աւելի հեշտ, քան երբեւէ բոլոր կայքերի համար անուտանգ գաղտնաբառեր ստեղծելը։
-cfr-whatsnew-tracking-protect-title = Պաշտպանեք Ձեզ հետագծումներից
+cfr-whatsnew-tracking-protect-title = Պաշտպանէք Ձեզ հետեւորղներից
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } արգելափակում է շատ տարածուած սոցիալական եւ խաչմերուկային վնասները, որոնք հետեւում են Ձեր առցանց գործողութիւններին։
 cfr-whatsnew-tracking-protect-link-text = Դիտել Ձեր զեկոյցը
 # This string is displayed before a large numeral that indicates the total
