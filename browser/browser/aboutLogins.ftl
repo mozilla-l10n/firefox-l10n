@@ -84,6 +84,7 @@ login-item-new-login-title = Nij oanmelding meitsje
 login-item-edit-button = Bewurkje
 about-logins-login-item-remove-button = Fuortsmite
 login-item-origin-label = Websiteadres
+login-item-tooltip-message = Soargje derfoar dat dit eksakt oerienkomt mei it adres fan de website wêr't jo jo oanmelde.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brûkersnamme
@@ -269,6 +270,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokumint
        *[other] CSV-bestân
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokumint
+       *[other] TSV-bestân
+    }
 
 ##
 ## Variables:
@@ -296,3 +304,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>Flaters:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
     }
 about-logins-import-dialog-done = Dien
+about-logins-import-dialog-error-title = Ymportearflater
+about-logins-import-dialog-error-conflicting-values-title = Meardere tsjinstridige wearden foar ien oanmelding
+about-logins-import-dialog-error-conflicting-values-description = Bygelyks: meardere brûkersnammen, wachtwurden, URL's, ensfh. foar ien oanmelding.
+about-logins-import-dialog-error-file-format-title = Probleem mei bestânsyndieling
+about-logins-import-dialog-error-file-format-description = Ferkearde of ûntbrekkende kolomkoppen. Soargje derfoar dat it bestân kolommen foar brûkersnamme, wachtwurd en URL befettet.
+about-logins-import-dialog-error-file-permission-title = Kin bestân net lêze
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } hat gjin tastimming om it bestân te lêzen. Probearje de bestânsrjochten te wizigjen.
+about-logins-import-dialog-error-unable-to-read-title = Kin bestân net analysearje
+about-logins-import-dialog-error-unable-to-read-description = Kontrolearje oft jo in CSV- of TSV-bestân selektearre hawwe.
+about-logins-import-dialog-error-no-logins-imported = Der binne gjin oanmeldingen ymportearre
+about-logins-import-dialog-error-learn-more = Mear ynfo
+about-logins-import-dialog-error-try-again = Opnij probearje…
+about-logins-import-dialog-error-cancel = Annulearje
