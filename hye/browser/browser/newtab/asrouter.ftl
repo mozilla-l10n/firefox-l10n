@@ -265,7 +265,7 @@ cfr-doorhanger-fission-secondary-button = Իմանալ աւելին
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Ինքնաշխատ պաշտպանութիւն գաղտնի հետագծման գործելակերպից
-cfr-whatsnew-clear-cookies-body = Որոշ հետագծիչներ ձեզ վերահասցէւորում են այլ կայքեր, որոնք գաղտնի տեղադրում են նշոցիկներ։ { -brand-short-name }֊ն այժմ ինքնաբար մաքրում է այս նշոցիկները, որպէսզի ձեզ չհետեւեն։
+cfr-whatsnew-clear-cookies-body = Որոշ հետագծիչներ ձեզ վերահասցէաւորում են այլ կայքեր, որոնք գաղտնի տեղադրում են նշոցիկներ։ { -brand-short-name }֊ն այժմ ինքնաբար մաքրում է այս նշոցիկները, որպէսզի ձեզ չհետեւեն։
 cfr-whatsnew-clear-cookies-image-alt = Նշոցիկն արգելափակեց պատկերը
 
 ## What's new: Media controls message
@@ -276,8 +276,8 @@ cfr-whatsnew-media-keys-button = Իմանալ՝ ինչպէս
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Փնտրէք դիւրանցումներն հասցէգաւտում
-cfr-whatsnew-search-shortcuts-body = Այժմ, երբ գրէք որեւէ որոնիչ կամ կայքի հասցէ հասցէգաւտում, կապոյտ դիւրանցում կը յայտնուի ներքեւում՝  առաջարկելով տարբերակներ։ Ընտրէք այդ դիւրանցումը, որպէսզի որոնումն աւարտէք անմիջապէս հասցէգաւտուց։
+cfr-whatsnew-search-shortcuts-header = Փնտրէք դիւրանցումներն հասցէագաւտում
+cfr-whatsnew-search-shortcuts-body = Այժմ, երբ գրէք որեւէ որոնիչ կամ կայքի հասցէ հասցէագաւտում, կապոյտ դիւրանցում կը յայտնուի ներքեւում՝  առաջարկելով տարբերակներ։ Ընտրէք այդ դիւրանցումը, որպէսզի որոնումն աւարտէք անմիջապէս հասցէագաւտուց։
 
 ## What's new: Cookies protection
 

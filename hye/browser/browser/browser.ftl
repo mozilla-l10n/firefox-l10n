@@ -479,7 +479,7 @@ urlbar-result-action-before-tabtosearch-other = Սեղմէք Tab, որպէսզի
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Փնտրել { $engine }֊ով անմիջապէս հասցէգաւտուց
+urlbar-result-action-tabtosearch-web = Փնտրել { $engine }֊ով անմիջապէս հասցէագաւտուց
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).

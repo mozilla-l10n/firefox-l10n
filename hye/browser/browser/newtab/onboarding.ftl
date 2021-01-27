@@ -33,7 +33,7 @@ onboarding-welcome-modal-supercharge-body = Գերազանցեք Ձեր գաղտ
 onboarding-welcome-modal-privacy-body = Դուք ունեք զննարկիչը։ Եկեք աւելացնենք աւելի շատ գաղտնիութեան պաշտպանութիւն։
 onboarding-welcome-modal-family-learn-more = Իմացեք { -brand-product-name } ապրանքների ընտանիքի մասին։
 onboarding-welcome-form-header = Սկսեք այստեղ
-onboarding-join-form-body = Սկսելու համար մուտքագրեք ձեր էլ֊փոստի հասցէն։
+onboarding-join-form-body = Սկսելու համար գրէք ձեր էլ֊փոստի հասցէն։
 onboarding-join-form-email =
     .placeholder = Մուտքագրեք էլ֊փոստ
 onboarding-join-form-email-error = Անհրաժեշտ է վաւեր էլ֊փոստ
@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Արդէն ունե՞ք հաշիւ։
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Մուտք գործել
 onboarding-start-browsing-button-label = Սկսել դիտարկումը
-onboarding-not-now-button-label = Ոչ հիմա
 onboarding-cards-dismiss =
     .title = Բաց թողնել
     .aria-label = Բաց թողնել
@@ -86,6 +85,67 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Տեղեկացեք, երբ Ձեր անձնական տեղեկութիւնները յայտնի տուեալների խախտման մէջ են։
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Կառավարեք գաղտնաբառերը, որոնք պաշտպանուած եւ շարժական են։
+
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Պաշտպանութիւն հետեւելուց
+onboarding-tracking-protection-text2 = { -brand-short-name }-ը աւգնում է դադարեցնել կայքերից Ձեզ առցանց հետեւելը, ինչը բարդեցնում է գովազդների հետապնդումը։
+onboarding-tracking-protection-button2 = Ինչպէս է դա աշխատում
+onboarding-data-sync-title = Վերցրեք Ձեր կարգաւորումները Ձեզ հետ
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Համաժամեցրեք Ձեր էջանիշները, գաղտնաբառերը եւ աւելին, որտեղ դուք աւգտագործում եք { -brand-product-name }։
+onboarding-data-sync-button2 = Մուտք գործել { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Զգուշացեք տուեալների խախտումների մասին
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } վերահսկում է, եթե Ձեր էլ֊փոտը յայտնուել է յայտնի տուեալների խախտմամբ եւ ահազանգում է Ձեզ, եթե այն յայտնուում է նոր խախտմամբ։
+onboarding-firefox-monitor-button = Գրանցուեք զգուշացման համար
+onboarding-browse-privately-title = Զննարկչի գաղտնիութիւն
+onboarding-browse-privately-text = Գաղտնի զննարկումը մաքրում է Ձեր որոնման եւ զննարկման պատմութիւնը` իւրաքանչիւր աւգտատիրոջից գաղտնի պահելու համար։
+onboarding-browse-privately-button = Բացել գաղտնի պատուհան
+onboarding-firefox-send-title = Ձեր տարածած նիշքերը պահեք գաղտնի։
+onboarding-firefox-send-text2 = Վերբեռնեք Ձեր նիշքերը { -send-brand-name } դրանք վերջապէս ծածկագրելու եւ ինքնաբերաբար աւարտուող յղման հետ համաւգտագործելու համար։
+onboarding-firefox-send-button = Փորձեք { -send-brand-name }
+onboarding-mobile-phone-title = Ունեցեք { -brand-product-name }-ը Ձեր հեռախաւսում
+onboarding-mobile-phone-text = Ներբեռնեք { -brand-product-name }-ը iOS- ի կամ Android- ի համար եւ համաժամեցրեք Ձեր տուեալները սարքերում։
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Ներբեռնել բջջային զննարկիչ
+onboarding-send-tabs-title = Անմիջապէս ինքներդ ուղարկեք Ձեզ ներդիրները
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Հեշտութեամբ տարածէք էջերը Ձեր սարքերի միջեւ առանց յղումները պատճէնելու կամ զննարկիչը լքելու։
+onboarding-send-tabs-button = Սկսեք աւգտագործել ներդիրների ուղարկումը
+onboarding-pocket-anywhere-title = Ամէն դէպքում կարդալ եւ լսել
+onboarding-pocket-anywhere-text2 = Պահպանեք Ձեր նախընտրած բովանդակութիւնն անցանց ռեժիմով՝ { -pocket-brand-name } ծրագրով եւ կարդացեք, լսեք եւ դիտեք, երբ դա ձեր համար հարմար է։
+onboarding-pocket-anywhere-button = Փորձեք { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Ստեղծէք եւ պահէք լաւ գաղտնաբառեր
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }-ը միանգամից ստեղծում է լաւ գաղտնաբառեր եւ պահում դրանք մեկ տեղում։
+onboarding-lockwise-strong-passwords-button = Ձեր մտից անունների կառավարում
+onboarding-facebook-container-title = Սահմանէք սահմաններ Facebook-ի հետ
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } Ձեր հաշիւը զերծ է պահում մնացած ամէն ինչից, աւելի դժուար է դարձնում Facebook-ի համար Ձեզ գովազդով թիրախաւորելը։
+onboarding-facebook-container-button = Աւելացնել ընդլայնում
+onboarding-import-browser-settings-title = Ներածէք Ձեր էջանիշերը, գաղտնաբառերը եւ աւելին
+onboarding-import-browser-settings-text = Մտէք անմիջապէս — եւ հեշտութեամբ վերցրէք Ձեր Chrome-ի կայքերը եւ կարգաւորումները:
+onboarding-import-browser-settings-button = Ներածէք Chrome-ի տուեալները
+onboarding-personal-data-promise-title = Նախագծուած է գաղտնիութիւնը պահպանելու համար
+onboarding-personal-data-promise-text = { -brand-product-name } -ը յարգանքով է վերաբերում Ձեր տուեալներին, աւգտագործում նուազագոյն չափով, պահպանում, եւ տեղեկացնում այն մասին, թե ինչպէս ենք աւգտուում դրանցից:
+onboarding-personal-data-promise-button = Կարդալ մեր խոստումը
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Հիանալի է, Դուք ստացել եք { -brand-short-name }-ը
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Այժմ ստացէք Ձեր <icon></icon><b>{ $addon-name }-ը։</b></b>
+return-to-amo-extension-button = Աւելացնել ընդլայնում
+return-to-amo-get-started-button = Սկսեք { -brand-short-name }-ից
+onboarding-not-now-button-label = Ոչ հիմա
 
 ## Custom Return To AMO onboarding strings
 
@@ -179,63 +239,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Աւգտագործէք ստեղների, 
         ցանկերի եւ պատուհանների գունաւոր տեսք։
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Պաշտպանութիւն հետեւելուց
-onboarding-tracking-protection-text2 = { -brand-short-name }-ը աւգնում է դադարեցնել կայքերից Ձեզ առցանց հետեւելը, ինչը բարդեցնում է գովազդների հետապնդումը։
-onboarding-tracking-protection-button2 = Ինչպէս է դա աշխատում
-onboarding-data-sync-title = Վերցրեք Ձեր կարգաւորումները Ձեզ հետ
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Համաժամեցրեք Ձեր էջանիշները, գաղտնաբառերը եւ աւելին, որտեղ դուք աւգտագործում եք { -brand-product-name }։
-onboarding-data-sync-button2 = Մուտք գործել { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Զգուշացեք տուեալների խախտումների մասին
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } վերահսկում է, եթե Ձեր էլ֊փոտը յայտնուել է յայտնի տուեալների խախտմամբ եւ ահազանգում է Ձեզ, եթե այն յայտնուում է նոր խախտմամբ։
-onboarding-firefox-monitor-button = Գրանցուեք զգուշացման համար
-onboarding-browse-privately-title = Զննարկչի գաղտնիութիւն
-onboarding-browse-privately-text = Գաղտնի զննարկումը մաքրում է Ձեր որոնման եւ զննարկման պատմութիւնը` իւրաքանչիւր աւգտատիրոջից գաղտնի պահելու համար։
-onboarding-browse-privately-button = Բացել գաղտնի պատուհան
-onboarding-firefox-send-title = Ձեր տարածած նիշքերը պահեք գաղտնի։
-onboarding-firefox-send-text2 = Վերբեռնեք Ձեր նիշքերը { -send-brand-name } դրանք վերջապէս ծածկագրելու եւ ինքնաբերաբար աւարտուող յղման հետ համաւգտագործելու համար։
-onboarding-firefox-send-button = Փորձեք { -send-brand-name }
-onboarding-mobile-phone-title = Ունեցեք { -brand-product-name }-ը Ձեր հեռախաւսում
-onboarding-mobile-phone-text = Ներբեռնեք { -brand-product-name }-ը iOS- ի կամ Android- ի համար եւ համաժամեցրեք Ձեր տուեալները սարքերում։
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Ներբեռնել բջջային զննարկիչ
-onboarding-send-tabs-title = Անմիջապէս ինքներդ ուղարկեք Ձեզ ներդիրները
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Հեշտութեամբ տարածէք էջերը Ձեր սարքերի միջեւ առանց յղումները պատճէնելու կամ զննարկիչը լքելու։
-onboarding-send-tabs-button = Սկսեք աւգտագործել ներդիրների ուղարկումը
-onboarding-pocket-anywhere-title = Ամէն դէպքում կարդալ եւ լսել
-onboarding-pocket-anywhere-text2 = Պահպանեք Ձեր նախընտրած բովանդակութիւնն անցանց ռեժիմով՝ { -pocket-brand-name } ծրագրով եւ կարդացեք, լսեք եւ դիտեք, երբ դա ձեր համար հարմար է։
-onboarding-pocket-anywhere-button = Փորձեք { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Ստեղծէք եւ պահէք լաւ գաղտնաբառեր
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }-ը միանգամից ստեղծում է լաւ գաղտնաբառեր եւ պահում դրանք մեկ տեղում։
-onboarding-lockwise-strong-passwords-button = Ձեր մտից անունների կառավարում
-onboarding-facebook-container-title = Սահմանէք սահմաններ Facebook-ի հետ
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } Ձեր հաշիւը զերծ է պահում մնացած ամէն ինչից, աւելի դժուար է դարձնում Facebook-ի համար Ձեզ գովազդով թիրախաւորելը։
-onboarding-facebook-container-button = Աւելացնել ընդլայնում
-onboarding-import-browser-settings-title = Ներածէք Ձեր էջանիշերը, գաղտնաբառերը եւ աւելին
-onboarding-import-browser-settings-text = Մտէք անմիջապէս — եւ հեշտութեամբ վերցրէք Ձեր Chrome-ի կայքերը եւ կարգաւորումները:
-onboarding-import-browser-settings-button = Ներածէք Chrome-ի տուեալները
-onboarding-personal-data-promise-title = Նախագծուած է գաղտնիութիւնը պահպանելու համար
-onboarding-personal-data-promise-text = { -brand-product-name } -ը յարգանքով է վերաբերում Ձեր տուեալներին, աւգտագործում նուազագոյն չափով, պահպանում, եւ տեղեկացնում այն մասին, թե ինչպէս ենք աւգտուում դրանցից:
-onboarding-personal-data-promise-button = Կարդալ մեր խոստումը
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Հիանալի է, Դուք ստացել եք { -brand-short-name }-ը
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Այժմ ստացէք Ձեր <icon></icon><b>{ $addon-name }-ը։</b></b>
-return-to-amo-extension-button = Աւելացնել ընդլայնում
-return-to-amo-get-started-button = Սկսեք { -brand-short-name }-ից
