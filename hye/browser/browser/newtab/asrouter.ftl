@@ -96,7 +96,7 @@ cfr-whatsnew-panel-header = Ինչն է նոր
 cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
 cfr-whatsnew-fx70-title = { -brand-short-name } այժմ աւելի է պայքարում Ձեր գաղտնիութեան համար
 cfr-whatsnew-fx70-body = Վերջին թարմացումը ուժեղացնում է պաշտպանումը վնասներից առանձնահատկութիւնը եւ դարձնում է այն աւելի հեշտ, քան երբեւէ բոլոր կայքերի համար անուտանգ գաղտնաբառեր ստեղծելը։
-cfr-whatsnew-tracking-protect-title = Պաշտպանէք Ձեզ հետեւորղներից
+cfr-whatsnew-tracking-protect-title = Պաշտպանէք Ձեզ հետեւողներից
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } արգելափակում է շատ տարածուած սոցիալական եւ խաչմերուկային վնասները, որոնք հետեւում են Ձեր առցանց գործողութիւններին։
 cfr-whatsnew-tracking-protect-link-text = Դիտել Ձեր զեկոյցը
 # This string is displayed before a large numeral that indicates the total
