@@ -281,7 +281,9 @@ cfr-whatsnew-search-shortcuts-body = Adres çubuğuna bir arama motorunun veya b
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Kötücül süperçerezlere karşı koruma
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Daha iyi yer imleri
+cfr-whatsnew-bookmarking-body = Sevdiğiniz siteleri kaydetmek kolaylaştı. { -brand-short-name } artık yer imlerini kaydettiğiniz son konumu hatırlıyor, yeni sekmelerde yer imi araç çubuğunu varsayılan olarak gösteriyor ve araç çubuğundaki bir klasörü aracılığıyla diğer yer imlerinize ulaşmayı kolaylaştırıyor.

@@ -511,6 +511,13 @@ pointerlock-warning-no-domain = Bu belge işaretçinizi kontrol ediyor. Kontrol�
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Bu sayfanın bir kısmı çöktü.</strong> Bize rapor göndererek sorunu bildirirseniz { -brand-product-name } tarayıcınızı daha hızlı düzeltebiliriz.
+crashed-subframe-learnmore =
+    .label = Daha fazla bilgi al
+    .accesskey = b
+crashed-subframe-submit =
+    .label = Rapor gönder
+    .accesskey = R
 
 ## Bookmarks panels, menus and toolbar
 
