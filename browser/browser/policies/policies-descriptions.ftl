@@ -81,6 +81,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Вратите се н
 policy-LocalFileLinks = Дозволи одређеним сајтовима везе ка локалним датотекама.
 policy-ManagedBookmarks = Конфигурише списак обележивача којима управља администратор, а које корисник не може мењати.
 policy-MasterPassword = Захтевајте или спречите употребу главне лозинке.
+policy-ManualAppUpdateOnly = Дозволи само ручна ажирирања и не обавештавај корисника о ажурирањима.
 policy-PrimaryPassword = Захтевајте или спречите употребу главне лозинке.
 policy-NetworkPrediction = Омогући или онемогући предвиђање мрежних захтева (превентивни DNS упити).
 policy-NewTabPage = Омогућите или онемогућите страницу новог језичка.
