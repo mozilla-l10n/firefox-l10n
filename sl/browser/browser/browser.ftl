@@ -342,11 +342,17 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zapri
 
+## Tab actions
+
+browser-tab-audio-playing = Predvajanje
+browser-tab-audio-muted = Nemo
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
     .label = Uvozi zaznamke …
     .tooltiptext = Uvozite zaznamke v { -brand-short-name } iz drugega brskalnika.
+bookmarks-toolbar-empty-message = Za hiter dostop postavite svoje zaznamke v to orodno vrstico. <a data-l10n-name="manage-bookmarks">Upravljanje zaznamkov …</a>
 
 ## WebRTC Pop-up notifications
 
@@ -481,6 +487,7 @@ urlbar-result-action-tabtosearch-other-engine = Iščite z iskalnikom { $engine 
 
 urlbar-result-action-search-bookmarks = Iskanje po zaznamkih
 urlbar-result-action-search-history = Iskanje po zgodovini
+urlbar-result-action-search-tabs = Išči zavihke
 
 ## Full Screen and Pointer Lock UI
 
@@ -500,6 +507,13 @@ pointerlock-warning-no-domain = Ta dokument ima nadzor nad vašim kazalcem. Prit
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Del te strani se je sesul.</strong> Pošljite { -brand-product-name }u poročilo, da ga obvestite  o težavi in mu jo pomagate hitreje odpraviti.
+crashed-subframe-learnmore =
+    .label = Več o tem
+    .accesskey = V
+crashed-subframe-submit =
+    .label = Pošlji poročilo
+    .accesskey = P
 
 ## Bookmarks panels, menus and toolbar
 

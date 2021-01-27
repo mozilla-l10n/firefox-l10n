@@ -506,6 +506,9 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = Strani, ki jih največkrat obiščete
 home-prefs-shortcuts-header =
     .label = Bližnjice
+home-prefs-shortcuts-description = Strani, ki jih shranite ali obiščete
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Bližnjice oglaševalcev
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -532,6 +535,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Strani, shranjene v { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Nedavna dejavnost
+home-prefs-recent-activity-description = Izbor nedavnih spletnih mest in vsebin
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
