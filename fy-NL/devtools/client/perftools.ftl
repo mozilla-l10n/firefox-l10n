@@ -28,15 +28,30 @@ perftools-heading-local-build = Lokale build
 perftools-description-intro =
     Opnamen starte <a>profiler.firefox.com</a> yn in nij ljepblêd. Alle gegevens wurde lokaal
     bewarre, mar jo kinne derfoar kieze se op te laden om se te dielen.
+perftools-description-local-build =
+    As jo in build profilearje dy't jo sels, op dizze masine, kompilearre hawwe,
+    foegje dan de objdir fan jo build oan de ûndersteande list ta, sadat
+    dizze brûkt wurde kin om symboalynformaasje op te sykjen.
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Stekproefynterfal:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Buffergrutte:
+perftools-custom-threads-label = Oanpaste threads op namme tafoegje:
+perftools-devtools-interval-label = Ynterfal:
+perftools-devtools-threads-label = Threads:
+perftools-devtools-settings-label = Ynstellingen
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    De profiler is útskeakele as priveenavigaasje ynskeakele is.
+    Slút alle priveefinsters om de profiler opnij yn te skeakeljen
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
