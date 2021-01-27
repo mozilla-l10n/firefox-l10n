@@ -232,8 +232,8 @@ manage-browser-languages-button =
 confirm-browser-language-change-description = Reiniciar o { -brand-short-name } para aplicar estas alterações
 confirm-browser-language-change-button = Aplicar e reiniciar
 translate-web-pages =
-    .label = Traduzir conteúdo da web
-    .accesskey = r
+    .label = Traduzir conteúdo web
+    .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traduções por <img data-l10n-name="logo"/>
