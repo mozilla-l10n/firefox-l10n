@@ -84,6 +84,7 @@ login-item-new-login-title = Lag ny innlogging
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettstadadresse
+login-item-tooltip-message = Forsikre deg om at dette samsvarar med den eksakte adressa til nettstaden der du logar inn.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brukarnamn
@@ -202,6 +203,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
 about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
+about-logins-alert-import-title = Import fullført
+about-logins-alert-import-message = Vis detaljert importoversikt
 confirm-discard-changes-dialog-title = Vil du forkaste endringar som ikkje er lagra?
 confirm-discard-changes-dialog-message = Alle ikkje-lagra endringar vil gå tapt.
 confirm-discard-changes-dialog-confirm-button = Ignorer
@@ -263,3 +266,20 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-dokument
        *[other] CSV-fil
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokument
+       *[other] TSV-fil
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Import fullført
+about-logins-import-dialog-done = Ferdig
+about-logins-import-dialog-error-title = Importfeil
+about-logins-import-dialog-error-learn-more = Les meir
+about-logins-import-dialog-error-cancel = Avbryt
