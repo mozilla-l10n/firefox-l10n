@@ -83,6 +83,23 @@ perftools-thread-renderer =
     .title = As WebRender ynskeakele is, de thread dy't OpenGL-oanroppen útfiert
 perftools-thread-render-backend =
     .title = De WebRender RenderBackend-thread
+perftools-thread-paint-worker =
+    .title = As off-main-threadpainting ynskeakele is, de thread wêrop painting útfierd wurdt
+perftools-thread-style-thread =
+    .title = Stylberekkening is opsplitst yn meardere threads
+pref-thread-stream-trans =
+    .title = Netwurkstreamtransport
+perftools-thread-socket-thread =
+    .title = De thread wêryn netwurkkoade alle blokkearrende socket-oanroppen útfiert
+perftools-thread-img-decoder =
+    .title = Ofbyldingsûntsiferingsthreads
+perftools-thread-dns-resolver =
+    .title = Op dizze thread fynt DNS-omsetting plak
+perftools-thread-js-helper =
+    .title = Eftergrûnwurk fan de JS-engine, lykas off-main-threadkompilaasjes
 
 ##
 
+perftools-record-all-registered-threads = Boppesteande seleksje pasearje en alle registrearre threads opnimme
+perftools-tools-threads-input-label =
+    .title = Dizze threadnammen binne in kommaskieden list, dy't brûkt wurdt om it profilearjen fan de threads yn de profiler mooglik te meitsjen. De namme hoecht mar in part oerien te kommen mei de threadnamme om opnommen te wurden. Gefoelich foar wytromte.
