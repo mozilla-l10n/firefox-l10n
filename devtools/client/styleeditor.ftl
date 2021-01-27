@@ -9,18 +9,18 @@ styleeditor-import-button =
     .tooltiptext = Importar e anexar uma folha de estilo existente ao documento
     .accesskey = I
 styleeditor-visibility-toggle =
-    .tooltiptext = Toggle style sheet visibility
+    .tooltiptext = Alternar visibilidade da folha de estilo
     .accesskey = S
-styleeditor-save-button = Save
-    .tooltiptext = Save this style sheet to a file
+styleeditor-save-button = Salvar
+    .tooltiptext = Salvar esta folha de estilo em um arquivo
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Opções do editor de estilos
-styleeditor-media-rules = @media rules
+styleeditor-media-rules = Regras @media
 styleeditor-editor-textbox =
-    .data-placeholder = Type CSS here.
-styleeditor-no-stylesheet = This page has no style sheet.
-styleeditor-no-stylesheet-tip = Perhaps you'd like to <a data-l10n-name="append-new-stylesheet">append a new style sheet</a>?
+    .data-placeholder = Digite CSS aqui.
+styleeditor-no-stylesheet = Esta página não tem folha de estilo.
+styleeditor-no-stylesheet-tip = Quer <a data-l10n-name="append-new-stylesheet">anexar uma nova folha de estilo</a>?
 styleeditor-open-link-new-tab =
     .label = Abrir link em nova aba
 styleeditor-copy-url =
