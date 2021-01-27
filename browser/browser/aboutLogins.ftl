@@ -207,7 +207,7 @@ about-logins-confirm-export-dialog-message = Le password verranno salvate come t
 about-logins-confirm-export-dialog-confirm-button = Esporta…
 
 about-logins-alert-import-title = Importazione completata
-about-logins-alert-import-message = Visualizza il rapporto dettagliato dell’importazione
+about-logins-alert-import-message = Visualizza riepilogo dettagliato dell’importazione
 
 confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
 confirm-discard-changes-dialog-message = Tutte le modifiche non salvate andranno perse.
@@ -306,3 +306,7 @@ about-logins-import-dialog-error-no-logins-imported = Non è stata importata alc
 about-logins-import-dialog-error-learn-more = Ulteriori informazioni
 about-logins-import-dialog-error-try-again = Riprova…
 about-logins-import-dialog-error-cancel = Annulla
+
+## Logins import report page
+
+about-logins-import-report-page-title = Riepilogo importazione
