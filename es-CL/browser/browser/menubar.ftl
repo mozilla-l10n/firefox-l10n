@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Este no es un sitio fraudulento…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Buscar actualizaciones…
+    .accesskey = C

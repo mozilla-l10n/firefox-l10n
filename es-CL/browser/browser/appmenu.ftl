@@ -53,11 +53,13 @@ profiler-popup-reveal-description-button =
     .aria-label = Revelar más información
 profiler-popup-description-title =
     .value = Grabar, analizar, compartir
+profiler-popup-description = Colabora en problemas de rendimiento publicando perfiles para compartir con tu equipo.
 profiler-popup-learn-more = Aprender más
 profiler-popup-settings =
     .value = Ajustes
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar ajustes…
+profiler-popup-disabled = El perfilador está actualmente deshabilitado, probablemente debido a una ventana de navegación privada que se encuentra abierta.
 profiler-popup-recording-screen = Grabando…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.

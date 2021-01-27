@@ -511,6 +511,13 @@ pointerlock-warning-no-domain = Este documento tiene el control de tu puntero. P
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong> Parte de esta página falló. </strong> Para informar a { -brand-product-name } sobre este problema y solucionarlo más rápido, por favor envía un reporte.
+crashed-subframe-learnmore =
+    .label = Aprender más
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Enviar reporte
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
