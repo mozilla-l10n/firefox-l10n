@@ -298,6 +298,7 @@ about-logins-import-dialog-error-file-format-description = Napačne ali manjkajo
 about-logins-import-dialog-error-file-permission-title = Datoteke ni mogoče prebrati
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nima dovoljenja za branje datoteke. Poskusite spremeniti dovoljenja datoteke.
 about-logins-import-dialog-error-unable-to-read-description = Prepričajte se, da ste izbrali datoteko CSV ali TSV.
+about-logins-import-dialog-error-no-logins-imported = Uvožena ni bila nobena prijava
 about-logins-import-dialog-error-learn-more = Več o tem
 about-logins-import-dialog-error-try-again = Poskusi znova …
 about-logins-import-dialog-error-cancel = Prekliči
