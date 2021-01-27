@@ -310,6 +310,7 @@ about-logins-import-dialog-error-conflicting-values-description = Por ejemplo: v
 about-logins-import-dialog-error-file-format-title = Problema de formato de archivo
 about-logins-import-dialog-error-file-format-description = Encabezados de columna incorrectos o faltantes. Asegúrese de que el archivo incluya columnas para nombre de usuario, contraseña y URL.
 about-logins-import-dialog-error-file-permission-title = No se pudo leer el archivo
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } no tiene permiso para leer el archivo. Intenta cambiar los permisos del archivo.
 about-logins-import-dialog-error-unable-to-read-title = No se pudo procesar el archivo
 about-logins-import-dialog-error-unable-to-read-description = Asegúrate de haber seleccionado un archivo CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = No se importaron credenciales
