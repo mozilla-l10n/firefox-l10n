@@ -380,6 +380,11 @@ addon-badge-recommended2 =
 addon-badge-line2 =
     .title = Սա պաշտաւնական ընդլայնում է, որը կառուցուել է { -brand-product-name } -ի ստեղծողների կողմից
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Պաշտաւնական ընդլայնման կառոյց Mozilla֊ի կողմից։ Համապատասխանում է անվտանգութեան եւ կատարողականութեան չափաւրինակներին։
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Այս ընդլայնումը վերանայուել է անվտանգութեան եւ գործադրութեան, մեր չափաւրինակներին համապատասխանելու համար
     .aria-label = { addon-badge-verified2.title }
