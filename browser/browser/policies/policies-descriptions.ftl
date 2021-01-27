@@ -81,6 +81,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Переключить
 policy-LocalFileLinks = Разрешает определённым веб-сайтам ссылаться на локальные файлы.
 policy-ManagedBookmarks = Настраивает список закладок, управляемых администратором и недоступных для изменения пользователем.
 policy-MasterPassword = Требовать или не давать использовать мастер-пароль.
+policy-ManualAppUpdateOnly = Разрешать только обновления вручную и не уведомлять пользователя об обновлениях.
 policy-PrimaryPassword = Требовать или не давать использовать мастер-пароль.
 policy-NetworkPrediction = Включает или отключает прогнозирование сети (предварительная выборка DNS).
 policy-NewTabPage = Включает или отключает страницу новой вкладки.
