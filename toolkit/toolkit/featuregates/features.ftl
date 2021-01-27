@@ -104,3 +104,4 @@ experimental-features-http3-description = Eksperimentelna podpěra za protokol H
 # Search during IME
 experimental-features-ime-search =
     .label = Adresowe polo: wuslědki za IME-kompoziciju pokazać
+experimental-features-ime-search-description = IME (Input Method Editor, editor zapodawanskeje metody)  je nastroj, kotryž wam zmóžnja, kompleksne symbole zapodać, kaž so na přikład we wuchodoaziskich abo indiskich rěčach wužiwaja, z pomocu standardneje tastatury. Hdyž tutón eksperiment zmóžnjeće, wostawa wokno adresoweho pola wočinjene, kotrež pytanske wuslědki a namjety pokazuje, mjeztym zo tekst z pomocu IME zapodawaće. Dźiwajće na to, zo móhł IME wokno pokazać, kotrež wuslědki adresoweho pola wobsahuje, tohodla so tute nastajenje jenož za IME namjetuje, kotryž tutón typ wokna njewužiwa.
