@@ -292,3 +292,4 @@ cfr-whatsnew-supercookies-body = Niykere serwery poradzōm skrycie przidać do t
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Lepsze kludzynie zokłodek
+cfr-whatsnew-bookmarking-body = Filowanie na swoje ulubiōne zokłodki je snadniyjsze. { -brand-short-name } terozki pamiynto twōj nojrodszy plac na zokłodki, bazowo pokazuje posek z zokłodkami w nowych kartach i dowo ci snadny dostymp do inkszych zokłodek bez katalog na posku z zokłodkami.

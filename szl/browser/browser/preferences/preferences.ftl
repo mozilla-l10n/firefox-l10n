@@ -29,6 +29,8 @@ search-input-box =
            *[other] Znojdź we preferyncyjach
         }
 managed-notice = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
+category-list =
+    .aria-label = Kategoryje
 pane-general-title = Ôgōlne
 category-general =
     .tooltiptext = { pane-general-title }
@@ -50,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Pozōr!
 pane-experimental-search-results-header = { -brand-short-name } - Eksperymynta: Dej pozōr
 pane-experimental-description = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
+pane-experimental-reset =
+    .label = Wrōć bazowe
+    .accesskey = W
 help-button-label = { -brand-short-name } - spōmōżka
 addons-button-label = Rozszyrzynia i motywy
 focus-search =
@@ -429,6 +434,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Pokazuj szalter trybu ôbraz w ôbrazie.
     .accesskey = P
 browsing-picture-in-picture-learn-more = Przewiydz sie wiyncyj
+browsing-media-control =
+    .label = Sztaluj mydia bez tastatura, słuchawki abo wirtualny interfejs
+    .accesskey = S
+browsing-media-control-learn-more = Przewiydz sie wiyncyj
 browsing-cfr-recommendations =
     .label = Doradzej rozszerzynia przi przeglōndaniu
     .accesskey = D
@@ -494,6 +503,13 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Topowe strōny
 home-prefs-topsites-description = Strōny, co je nojczyńścij nawiydzosz
+home-prefs-topsites-by-option-sponsored =
+    .label = Spōnsorowane topowe strōny
+home-prefs-shortcuts-header =
+    .label = Skrōty
+home-prefs-shortcuts-description = Spamiyntane i nawiydzane strōny
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Spōnsorowane skrōty
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -501,6 +517,7 @@ home-prefs-topsites-description = Strōny, co je nojczyńścij nawiydzosz
 home-prefs-recommended-by-header =
     .label = Rykōmyndowane ôd { $provider }
 home-prefs-recommended-by-description-update = Niyôbyczajno zawartość z cołkigo internetu, ôbrano ôd { $provider }
+home-prefs-recommended-by-description-new = Ekstra zawartość ôbrano ôd { $provider }, co je we familiji { -brand-product-name }
 
 ##
 
@@ -518,6 +535,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Niydowno pobrane
 home-prefs-highlights-option-saved-to-pocket =
     .label = Strōny spamiyntane w { -pocket-brand-name(case: "loc") }
+home-prefs-recent-activity-header =
+    .label = Niydowno aktywność
+home-prefs-recent-activity-description = Wybōr z niydownych strōn i zawartości
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -525,6 +545,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Krōtkie informacyje
 home-prefs-snippets-description = Nowiny ôd: { -vendor-short-name }, { -brand-product-name }
+home-prefs-snippets-description-new = Dorady i nowiny ze { -vendor-short-name } a aplikacyje { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -879,6 +900,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Elymynty śledzōnce miyndzy strōnami
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Elymynty śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Cookies elymyntōw, co śledzōm miyndzy strōnami — wroz ze cookies ze social mydiōw
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cookies elymyntōw miyndzy strōnami — wroz ze cookies ze social mydiōw
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Elymynty śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw, a tyż izolowanie inkszych cookies
 sitedata-option-block-unvisited =
@@ -913,9 +938,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Ôtwarte karty
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Skrōty
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = Topowe strōny
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Wyszukowarki
+    .accesskey = a
 addressbar-suggestions-settings = Zmiyń nasztalowania doradōw wyszukowarki
 
 ## Privacy Section - Content Blocking
@@ -923,6 +955,7 @@ addressbar-suggestions-settings = Zmiyń nasztalowania doradōw wyszukowarki
 content-blocking-enhanced-tracking-protection = Polepszōno ôchrōna ôd śledzynio
 content-blocking-section-top-level-description = Śledzōnce elymynty cichtujōm za tobōm w internecie i zbiyrajōm informacyje ô tym, jak przeglōndosz i co je do ciebie ciekawe. { -brand-short-name } szperuje mocka ś nich i inksze ôszydne skrypty.
 content-blocking-learn-more = Przewiydz sie wiyncyj
+content-blocking-fpi-incompatibility-warning = Używosz fōnkcyje First Party Isolation (FPI), co tupluje niykere sztalōnki cookie we { -brand-short-name(case: "loc") }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -944,6 +977,7 @@ content-blocking-etp-standard-desc = Zbalansowane podug ôchrōny i sprowności.
 content-blocking-etp-strict-desc = Lepszo ôchrōna, ale niykere strōny abo jako zawartość mogōm niy fungować dobrze.
 content-blocking-etp-custom-desc = Ôbier, jakie śledzōnce elymynty i skrypty szperować.
 content-blocking-private-windows = Śledzōnce elymynty w prywatnych ôknach
+content-blocking-cross-site-cookies = Cookies, co śledzōm miyndzy strōnami
 content-blocking-cross-site-tracking-cookies = Cookies elymyntōw, co śledzōm miyndzy strōnami
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies elymyntōw, co śledzōm miyndzy strōnami. Izoluj inksze cookies.
 content-blocking-social-media-trackers = Elymynty śledzōnce ôd społecznościowych serwisōw
