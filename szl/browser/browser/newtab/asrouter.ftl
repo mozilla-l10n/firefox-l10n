@@ -123,6 +123,9 @@ cfr-whatsnew-lockwise-take-link-text = Pobier aplikacyjo
 
 cfr-whatsnew-searchbar-title = Mynij pisz, wiyncyj znojduj - skuli poska z adresōm
 cfr-whatsnew-searchbar-body-topsites = Kliknij ino na posek z adresōm, coby ôboczyć linki do strōn, co je porzōnd ôdwiydzosz.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ikōna lupy
 
 ## Picture-in-Picture
@@ -255,8 +258,30 @@ cfr-doorhanger-doh-primary-button = OK
 cfr-doorhanger-doh-secondary-button = Zastow
     .accesskey = Z
 
+## Fission Experiment Message
+
+cfr-doorhanger-fission-body-approved = Twoja prywatność je ważno. { -brand-short-name } terozki izoluje strōny, skuli czego ciynżyj je hakrōm kraść hasła, numery kredytowych kart i inksze ôsobiste informacyje.
+cfr-doorhanger-fission-header = Izolacyjo strōn
+cfr-doorhanger-fission-primary-button = OK, rozumia
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = Przewiydz sie wiyncyj
+    .accesskey = P
+
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Autōmatyczno ôchrōna ôd chytrych taktyk śledzynio
 cfr-whatsnew-clear-cookies-body = Niykere śledzōnce elymynty przekerowujōm cie do inkszych strōn, co potajōmku sztalujōm cookies. { -brand-short-name } teroz autōmatycznie kasuje te cookies, tak co niy idzie cie śledzić.
 cfr-whatsnew-clear-cookies-image-alt = Ôbroz zaszperowanego cookie
+
+## What's new: Media controls message
+
+cfr-whatsnew-media-keys-header = Wiyncyj sztalōnkōw mydiōw
+
+## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
