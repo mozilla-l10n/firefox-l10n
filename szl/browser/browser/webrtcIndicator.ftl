@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Załōncz kamera
 webrtc-minimize =
     .title = Minimalizuj informacyje
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Udostympniosz kamera. Kliknij, coby regiyrować udostympnianiym.
+webrtc-microphone-system-menu =
+    .label = Udostympniosz mikrofōn. Kliknij, coby regiyrować udostympnianiym.
+webrtc-screen-system-menu =
+    .label = Udostympniosz ôkno abo ekran. Kliknij, coby regiyrować udostympnianiym.
