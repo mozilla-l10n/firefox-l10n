@@ -14,6 +14,10 @@ about-webrtc-document-title = WebRTC Internals
 
 ##
 
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -21,10 +25,18 @@ about-webrtc-document-title = WebRTC Internals
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = RTP Stats
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = ICE State
+about-webrtc-ice-pair-bytes-sent = Bytes na ipinadala:
+about-webrtc-ice-pair-bytes-received = Bytes na natanggap:
+about-webrtc-ice-component-id = Component ID
 
 ##
 
@@ -39,9 +51,14 @@ about-webrtc-document-title = WebRTC Internals
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-remote = Remote
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Napili
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
