@@ -31,7 +31,13 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Local SDP
+about-webrtc-local-sdp-heading-offer = Local SDP (Offer)
+about-webrtc-local-sdp-heading-answer = Local SDP (Answer)
 about-webrtc-remote-sdp-heading = Remote SDP
+about-webrtc-remote-sdp-heading-offer = Remote SDP (Offer)
+about-webrtc-remote-sdp-heading-answer = Remote SDP (Answer)
+about-webrtc-sdp-history-heading = SDP History
+about-webrtc-sdp-parsing-errors-heading = SDP Parsing Errors
 
 ##
 
@@ -50,6 +56,7 @@ about-webrtc-ice-restart-count-label = ICE restarts:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
 about-webrtc-ice-pair-bytes-sent = Bytes sent:
 about-webrtc-ice-pair-bytes-received = Bytes received:
+about-webrtc-ice-component-id = Component ID
 
 ##
 
@@ -103,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (closed)
 
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
+about-webrtc-raw-candidates-heading = All Raw Candidates
+about-webrtc-raw-local-candidate = Raw Local Candidate
+about-webrtc-raw-remote-candidate = Raw Remote Candidate
+about-webrtc-raw-cand-show-msg = show raw candidates
+    .title = click to expand this section
+about-webrtc-raw-cand-hide-msg = hide raw candidates
+    .title = click to collapse this section
 about-webrtc-priority = Priority
 about-webrtc-fold-show-msg = show details
     .title = click to expand this section
@@ -110,12 +124,48 @@ about-webrtc-fold-hide-msg = hide details
     .title = click to collapse this section
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
+about-webrtc-show-tab-label = Show tab
+about-webrtc-width-px = Width (px)
+about-webrtc-height-px = Height (px)
+about-webrtc-consecutive-frames = Consecutive Frames
+about-webrtc-time-elapsed = Time Elapsed (s)
+about-webrtc-estimated-framerate = Estimated Framerate
+about-webrtc-rotation-degrees = Rotation (degrees)
+about-webrtc-first-frame-timestamp = First Frame Reception Timestamp
+about-webrtc-last-frame-timestamp = Last Frame Reception Timestamp
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Local Receiving SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Remote Sending SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Provided
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Not Provided
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = User Set WebRTC Preferences
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Estimated Bandwidth
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Track Identifier
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Send Bandwidth (bytes/sec)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Receive Bandwidth (bytes/sec)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maximum Padding (bytes/sec)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Pacer Delay ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -134,10 +184,27 @@ about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickled candidates (arriving after answer) are highlighted in blue
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Set Local SDP at timestamp { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Set Remote SDP at timestamp { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
