@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = αποθήκευση about:webrtc ως
 about-webrtc-aec-logging-msg-label = Καταγραφή AEC
 about-webrtc-aec-logging-off-state-label = Έναρξη καταγραφής AEC
 about-webrtc-aec-logging-on-state-label = Διακοπή καταγραφής AEC
+about-webrtc-aec-logging-on-state-msg = Καταγραφή AEC ενεργή (μιλήστε με τον καλών για λίγα λεπτά και μετά σταματήστε την καταγραφή)
 
 ##
 
@@ -45,6 +46,8 @@ about-webrtc-rtp-stats-heading = Στατιστικά RTP
 about-webrtc-ice-state = Κατάσταση ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Στατιστικά ICE
+about-webrtc-ice-restart-count-label = Επανεκκινήσεις ICE:
+about-webrtc-ice-rollback-count-label = Ακυρώσεις ICE:
 about-webrtc-ice-pair-bytes-sent = Απεσταλμένα bytes:
 about-webrtc-ice-pair-bytes-received = Ληφθέντα bytes:
 
@@ -120,6 +123,9 @@ about-webrtc-encoder-label = Κωδικοποιητής
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = η σελίδα αποθηκεύτηκε στην διαδρομή: { $path }
+about-webrtc-debug-mode-off-state-msg = το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
+about-webrtc-debug-mode-on-state-msg = κατάσταση αποσφαλμάτωσης ενεργή, το αρχείο πληροφοριών είναι στο: { $path }
+about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής μπορούν να βρεθούν στο: { $path }
 
 ##
 
