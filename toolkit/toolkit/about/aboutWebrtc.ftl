@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = about:webrtc bewarje as
 about-webrtc-aec-logging-msg-label = AEC-registraasje
 about-webrtc-aec-logging-off-state-label = AEC-registraasje starte
 about-webrtc-aec-logging-on-state-label = AEC-registraasje stopje
+about-webrtc-aec-logging-on-state-msg = AEC-registraasje aktyf (sprek inkelde minuten mei de beller en stopje dêrnei it fêstlizzen)
 
 ##
 
@@ -30,7 +31,13 @@ about-webrtc-peerconnection-id-label = PeerConnection-ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokaal SDP
+about-webrtc-local-sdp-heading-offer = Lokaal SDP (Oanbod)
+about-webrtc-local-sdp-heading-answer = Lokaal SDP (Antwurd)
 about-webrtc-remote-sdp-heading = Ekstern SDP
+about-webrtc-remote-sdp-heading-offer = Ekstern SDP (Oanbod)
+about-webrtc-remote-sdp-heading-answer = Ekstern SDP (Antwurd)
+about-webrtc-sdp-history-heading = SDP-skiednis
+about-webrtc-sdp-parsing-errors-heading = SDP-parseflaters
 
 ##
 
@@ -45,6 +52,11 @@ about-webrtc-rtp-stats-heading = RTP-statistiken
 about-webrtc-ice-state = ICE-steat
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE-statistiken
+about-webrtc-ice-restart-count-label = ICE start opnij:
+about-webrtc-ice-rollback-count-label = ICE-rollbacks:
+about-webrtc-ice-pair-bytes-sent = Bytes ferstjoerd:
+about-webrtc-ice-pair-bytes-received = Bytes ûntfongen:
+about-webrtc-ice-component-id = Komponint-ID
 
 ##
 
@@ -72,8 +84,13 @@ about-webrtc-nominated = Beneamd
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selektearre
 about-webrtc-save-page-label = Side bewarre
+about-webrtc-debug-mode-msg-label = Debugmodus
+about-webrtc-debug-mode-off-state-label = Debugmodus starte
+about-webrtc-debug-mode-on-state-label = Debugmodus stopje
 about-webrtc-stats-heading = Sesjestatistiken
+about-webrtc-stats-clear = Skiednis wiskje
 about-webrtc-log-heading = Ferbiningslochboek
+about-webrtc-log-clear = Lochboek wiskje
 about-webrtc-log-show-msg = lochboek toane
     .title = klik om dizze seksje út te klappen
 about-webrtc-log-hide-msg = lochboek ferstopje
@@ -93,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (sluten)
 
 about-webrtc-local-candidate = Lokale kandidaat
 about-webrtc-remote-candidate = Eksterne kandidaat
+about-webrtc-raw-candidates-heading = Alle rûge kandidaten
+about-webrtc-raw-local-candidate = Rûge lokale kandidaat
+about-webrtc-raw-remote-candidate = Rûge eksterne kandidaat
+about-webrtc-raw-cand-show-msg = rûge kandidaten toane
+    .title = klik om dizze seksje út te klappen
+about-webrtc-raw-cand-hide-msg = rûge kandidaten ferstopje
+    .title = klik om dizze seksje yn te klappen
 about-webrtc-priority = Prioriteit
 about-webrtc-fold-show-msg = details toane
     .title = klik om dizze seksje út te klappen
@@ -100,12 +124,48 @@ about-webrtc-fold-hide-msg = details ferstopje
     .title = klik om dizze seksje yn te klappen
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
+about-webrtc-show-tab-label = Ljepblêd toane
+about-webrtc-width-px = Breedte (px)
+about-webrtc-height-px = Hichte (px)
+about-webrtc-consecutive-frames = Opfolgjende frames
+about-webrtc-time-elapsed = Ferstrutsen tiid (s)
+about-webrtc-estimated-framerate = Skatte framerate
+about-webrtc-rotation-degrees = Rotaasje (graden)
+about-webrtc-first-frame-timestamp = Tiidstimpel earste frame-ûntfangst
+about-webrtc-last-frame-timestamp = Tiidstimpel lêste frame-ûntfangst
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Lokale ûntfangende SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Op ôfstân ferstjoerende SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Opjûn
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Net opjûn
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Troch brûker ynstelde WebRTC-foarkarren
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Skatte bânbreedte
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Trackidentifikaasje
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Bânbreedte foar ferstjoeren (bytes/sek)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Bânbreedte foar ûntfangen (bytes/sek)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maksimale opfolling (bytes/sek)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Snelheidsfertraging ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -114,6 +174,7 @@ about-webrtc-encoder-label = Encoder
 
 about-webrtc-save-page-msg = side bewarre yn: { $path }
 about-webrtc-debug-mode-off-state-msg = trasearlochboek is te finen yn: { $path }
+about-webrtc-debug-mode-on-state-msg = debugmodus aktyf, trasearlochboek yn: { $path }
 about-webrtc-aec-logging-off-state-msg = fêstleine lochbestannen binne te finen yn: { $path }
 
 ##
@@ -123,10 +184,27 @@ about-webrtc-aec-logging-off-state-msg = fêstleine lochbestannen binne te finen
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = ‘Trickled’ kandidaten (ûntfongen nei antwurd) wurde markearre yn it blau
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Lokaal SDP op tiidstimpel { NUMBER($timestamp, useGrouping: "false") } ynstelle
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Ekstern SDP op tiidstimpel { NUMBER($timestamp, useGrouping: "false") } ynstelle
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Tiidstimpel { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
