@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = 本地 SDP (回答)
 about-webrtc-remote-sdp-heading = 远程 SDP
 about-webrtc-remote-sdp-heading-offer = 远程 SDP (提供)
 about-webrtc-remote-sdp-heading-answer = 远程 SDP (回答)
+about-webrtc-sdp-history-heading = SDP 历史
+about-webrtc-sdp-parsing-errors-heading = SDP 解析错误
 
 ##
 
@@ -122,12 +124,33 @@ about-webrtc-fold-hide-msg = 隐藏详细信息
     .title = 点击折叠此段
 about-webrtc-decoder-label = 解码器
 about-webrtc-encoder-label = 编码器
+about-webrtc-show-tab-label = 显示标签页
+about-webrtc-width-px = 宽度（像素）
+about-webrtc-height-px = 高度（像素）
+about-webrtc-consecutive-frames = 连续帧
+about-webrtc-time-elapsed = 已用时间（秒）
+about-webrtc-estimated-framerate = 估计帧率
+about-webrtc-rotation-degrees = 旋转（度）
+about-webrtc-first-frame-timestamp = 第一帧接收时间戳
+about-webrtc-last-frame-timestamp = 最后一帧接收时间戳
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = 本地接收 SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = 远程发送 SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = 提供
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = 不提供
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = WebRTC 用户设置项
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +177,19 @@ about-webrtc-trickle-caption-msg = Trickled 候选者（回答后到达）已用
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = 已将 本地 SDP 时间戳设为 { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = 已将 远程 SDP 时间戳设为 { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = 时间戳 { NUMBER($timestamp, useGrouping: "false") }（+ { $relative-timestamp } 毫秒）
 
 ##
 
