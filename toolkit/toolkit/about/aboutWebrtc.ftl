@@ -59,6 +59,8 @@ about-webrtc-ice-stats-heading = ICE-statistiken
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Lokaal
+about-webrtc-type-remote = Ekstern
 
 ##
 
@@ -70,6 +72,7 @@ about-webrtc-nominated = Beneamd
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selektearre
 about-webrtc-save-page-label = Side bewarre
+about-webrtc-stats-heading = Sesjestatistiken
 about-webrtc-log-heading = Ferbiningslochboek
 about-webrtc-log-show-msg = lochboek toane
     .title = klik om dizze seksje út te klappen
