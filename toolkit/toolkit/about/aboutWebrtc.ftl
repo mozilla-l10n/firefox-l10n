@@ -46,6 +46,10 @@ about-webrtc-rtp-stats-heading = RTP वस्तु स्थिती
 about-webrtc-ice-state = ICE वस्तु स्थिती
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE तथ्याङ्क
+about-webrtc-ice-restart-count-label = ICE पुनःसुरु हुन्छ:
+about-webrtc-ice-rollback-count-label = ICE रोलब्याक हुन्छ:
+about-webrtc-ice-pair-bytes-sent = Bytes पठाइयो:
+about-webrtc-ice-pair-bytes-received = Bytes प्राप्त भयो:
 
 ##
 
@@ -77,7 +81,9 @@ about-webrtc-debug-mode-msg-label = डिबग मोड
 about-webrtc-debug-mode-off-state-label = डिबग्गिङ मोड सुरु गर्नुहोस्
 about-webrtc-debug-mode-on-state-label = डिबग्गीङ मोड बन्दगर्नुहोस्
 about-webrtc-stats-heading = सत्र तथ्याङ्कहरू
+about-webrtc-stats-clear = इतिहास हटाउनुहोस्
 about-webrtc-log-heading = जडान लग
+about-webrtc-log-clear = लग खाली गर्नुहोस्
 about-webrtc-log-show-msg = लग देखाउनुहोस्
     .title = यो खण्ड विस्तार गर्न यहाँ क्लिक गर्नुहोस्
 about-webrtc-log-hide-msg = लग लुकाउनुहोस्
