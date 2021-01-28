@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP lleol (Ateb)
 about-webrtc-remote-sdp-heading = SDP pell
 about-webrtc-remote-sdp-heading-offer = SDP pell (Cynnig)
 about-webrtc-remote-sdp-heading-answer = SDP pell (Ateb)
+about-webrtc-sdp-history-heading = Hanes SDP
+about-webrtc-sdp-parsing-errors-heading = Gwallau Didoli SDP
 
 ##
 
@@ -122,12 +124,48 @@ about-webrtc-fold-hide-msg = cuddio manylion
     .title = cliciwch i gau'r adran
 about-webrtc-decoder-label = Datgodwyr
 about-webrtc-encoder-label = Amgodiwr
+about-webrtc-show-tab-label = Dangos tab
+about-webrtc-width-px = Lled (px)
+about-webrtc-height-px = Uchder (px)
+about-webrtc-consecutive-frames = Fframiau Olynol
+about-webrtc-time-elapsed = Amser wedi Pasio
+about-webrtc-estimated-framerate = Amcan o Raddfa Ffrâm
+about-webrtc-rotation-degrees = Cylchdroi (graddau)
+about-webrtc-first-frame-timestamp = Stamp Amser Derbyn y  Ffrâm Gyntaf
+about-webrtc-last-frame-timestamp = Stamp Amser Derbyn y  Ffrâm Olaf
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Derbyn SSRC  Lleol
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Anfon SSRC o Bell
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Wedi'i Ddarparu
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Heb ei Ddarparu
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Dewisiadau WebRTC Gosodedig y Defnyddiwr
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Amcangyfrif Lled Band
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Dynodwr tracio
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Lled Band Anfon (beit/eiliad)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Lled Band Derbyn (beit/eiliad)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Uchafswm Padio (beit/eiliad)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Oedi Pacer ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +192,19 @@ about-webrtc-trickle-caption-msg = Mae ymgeisydd diferu (yn cyrraedd ar ôl yr a
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Gosod SDP lleol ar y stamp amser { NUMBER($timestamp, useGrouping: "false") }.
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Gosod SDP pell ar y stamp amser { NUMBER($timestamp, useGrouping: "false") }.
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Stamp amser { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
