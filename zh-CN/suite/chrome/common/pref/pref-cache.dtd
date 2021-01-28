@@ -29,3 +29,9 @@
 <!ENTITY prefetchTitle.label             "链接预读数">
 <!ENTITY enablePrefetch.label            "在空闲时进行网页预读，以便为预读而设计的链接的页面可以更快地加载">
 <!ENTITY enablePrefetch.accesskey        "P">
+
+<!ENTITY debugCache.label                "调试">
+<!ENTITY debugEnableMemCache.label       "启用内存缓存">
+<!ENTITY debugEnableMemCache.accesskey   "E">
+<!ENTITY debugEnableDiskCache.label      "启用磁盘缓存">
+<!ENTITY debugEnableDiskCache.accesskey  "D">

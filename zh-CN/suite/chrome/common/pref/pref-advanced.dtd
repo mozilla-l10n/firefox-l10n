@@ -14,6 +14,11 @@
 <!ENTITY prefCheckDefaultClient.label     "启动时检查默认应用程序设置">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
 
+<!ENTITY printing.label                   "打印">
+<!ENTITY useNativePrintDialog.label       "使用原生的打印对话框（若支持）">
+<!ENTITY useNativePrintDialog.accesskey   "U">
+<!ENTITY useGlobalPrintSettings.label     "使用全局打印设置">
+<!ENTITY useGlobalPrintSettings.accesskey "G">
 
 <!ENTITY crashReports.caption             "崩溃报告程序">
 <!ENTITY submitCrashes.label              "提交崩溃报告">
