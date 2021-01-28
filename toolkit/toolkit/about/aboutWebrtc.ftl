@@ -32,8 +32,10 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokalni SDP
 about-webrtc-local-sdp-heading-offer = Lokalni SDP (Ponudba)
+about-webrtc-local-sdp-heading-answer = Lokalni SDP (Odgovor)
 about-webrtc-remote-sdp-heading = Oddaljeni SDP
 about-webrtc-remote-sdp-heading-offer = Oddaljeni SDP (Ponudba)
+about-webrtc-remote-sdp-heading-answer = Oddaljeni SDP (Odgovor)
 
 ##
 
@@ -51,6 +53,8 @@ about-webrtc-ice-stats-heading = Statistika ICE
 about-webrtc-ice-restart-count-label = Ponovi zagoni ICE:
 about-webrtc-ice-rollback-count-label = Povrnitve ICE:
 about-webrtc-ice-pair-bytes-sent = Poslano bajtov:
+about-webrtc-ice-pair-bytes-received = Prejetih bajtov:
+about-webrtc-ice-component-id = ID komponente
 
 ##
 
@@ -142,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = dnevniške datoteke zajema lahko najdet
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Tresenje { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Pricurljani kandidati (prispeli za odgovorom) so obarvani modro
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
