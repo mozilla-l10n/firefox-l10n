@@ -33,6 +33,9 @@ about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP Lokal
 about-webrtc-local-sdp-heading-offer = SDP Lokal (Tawaran)
 about-webrtc-local-sdp-heading-answer = SDP Lokal (Jawapan)
+about-webrtc-remote-sdp-heading = SDP Jauh
+about-webrtc-remote-sdp-heading-offer = SDP Jauh (Tawaran)
+about-webrtc-remote-sdp-heading-answer = SDP Jauh (Jawapan)
 
 ##
 
@@ -81,10 +84,13 @@ about-webrtc-selected = Dipilih
 about-webrtc-save-page-label = Simpan Halaman
 about-webrtc-debug-mode-msg-label = Mod Nyahpepijat
 about-webrtc-debug-mode-off-state-label = Mulakan Mod Nyahpepijat
+about-webrtc-debug-mode-on-state-label = Hentikan Mod Nyahpijat
 about-webrtc-stats-heading = Statistik Sesi
 about-webrtc-stats-clear = Buang Sejarah
 about-webrtc-log-heading = Log Sambungan
 about-webrtc-log-clear = Buang Log
+about-webrtc-log-show-msg = papar log
+    .title = klik untuk kembangkan bahagian ini
 about-webrtc-log-hide-msg = sorok log
     .title = klik untuk runtuhkan bahagian ini
 
@@ -105,9 +111,13 @@ about-webrtc-remote-candidate = Calon Jauh
 about-webrtc-raw-candidates-heading = Semua Calon Mentah
 about-webrtc-raw-local-candidate = Calon Lokal Mentah
 about-webrtc-raw-remote-candidate = Calon Jauh Mentah
+about-webrtc-raw-cand-show-msg = papar calon mentah
+    .title = klik untuk kembangkan bahagian ini
 about-webrtc-raw-cand-hide-msg = sorok calon mentah
     .title = klik untuk runtuhkan bahagian ini
 about-webrtc-priority = Prioriti
+about-webrtc-fold-show-msg = papar butiran
+    .title = klik untuk kembangkan bahagian ini
 about-webrtc-fold-hide-msg = sorok butiran
     .title = klik untuk runtuhkan bahagian ini
 about-webrtc-decoder-label = Penyahkod
@@ -131,6 +141,11 @@ about-webrtc-aec-logging-off-state-msg = tangkapan data fail log boleh ditemui d
 
 ##
 
+# Jitter is the variance in the arrival time of packets.
+# See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
+# Variables:
+#   $jitter (Number) - The jitter.
+about-webrtc-jitter-label = Ketaran { $jitter }
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
