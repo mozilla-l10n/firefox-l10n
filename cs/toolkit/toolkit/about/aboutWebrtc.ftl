@@ -14,6 +14,10 @@ about-webrtc-save-page-dialog-title = uložit about:webrtc jako
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-msg-label = Protokol AEC
+about-webrtc-aec-logging-off-state-label = Spustit protokol AEC
+about-webrtc-aec-logging-on-state-label = Zastavit protokol AEC
+about-webrtc-aec-logging-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
 
 ##
 
@@ -27,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Místní SDP
+about-webrtc-local-sdp-heading-offer = Místní SDP (Offer)
+about-webrtc-local-sdp-heading-answer = Místní SDP (Answer)
 about-webrtc-remote-sdp-heading = Vzdálené SDP
+about-webrtc-remote-sdp-heading-offer = Vzdálené SDP (Offer)
+about-webrtc-remote-sdp-heading-answer = Vzdálené SDP (Answer)
 
 ##
 
@@ -42,6 +50,10 @@ about-webrtc-rtp-stats-heading = Statistika RTP
 about-webrtc-ice-state = Stav ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Statistika ICE
+about-webrtc-ice-restart-count-label = Restarty ICE:
+about-webrtc-ice-rollback-count-label = Rollbacky ICE:
+about-webrtc-ice-pair-bytes-sent = Odesláno bajtů:
+about-webrtc-ice-pair-bytes-received = Staženo bajtů:
 
 ##
 
@@ -69,6 +81,16 @@ about-webrtc-nominated = Nominováno
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Vybráno
 about-webrtc-save-page-label = Uložit stránku
+about-webrtc-debug-mode-msg-label = Režim ladění
+about-webrtc-debug-mode-off-state-label = Spustit režim ladění
+about-webrtc-debug-mode-on-state-label = Zastavit režim ladění
+about-webrtc-stats-heading = Statistiky relace
+about-webrtc-log-heading = Protokol připojení
+about-webrtc-log-clear = Vymazat protokol
+about-webrtc-log-show-msg = zobrazit protokol
+    .title = klepněte pro rozbalení této sekce
+about-webrtc-log-hide-msg = skrýt protokol
+    .title = klepněte pro zabalení této sekce
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -84,12 +106,20 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (uzavře
 
 about-webrtc-local-candidate = Místní kandidát
 about-webrtc-remote-candidate = Vzdálený kandidát
+about-webrtc-raw-candidates-heading = All Raw Candidates
+about-webrtc-raw-local-candidate = Raw Local Candidate
+about-webrtc-raw-remote-candidate = Raw Remote Candidate
+about-webrtc-raw-cand-show-msg = zobrazit raw candidates
+    .title = klepněte pro rozbalení této sekce
+about-webrtc-raw-cand-hide-msg = skrýt raw candidates
+    .title = klepněte pro zabalení této sekce
 about-webrtc-priority = Priorita
 about-webrtc-fold-show-msg = zobrazit detaily
     .title = klepněte pro rozbalení této sekce
 about-webrtc-fold-hide-msg = skrýt detaily
     .title = klepněte pro zabalení této sekce
 about-webrtc-decoder-label = Dekodér
+about-webrtc-encoder-label = Kodér
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -103,6 +133,9 @@ about-webrtc-decoder-label = Dekodér
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = stránka uložena do: { $path }
+about-webrtc-debug-mode-off-state-msg = trasu protokolu lze nalézt na adrese: { $path }
+about-webrtc-debug-mode-on-state-msg = režim ladění aktivní, protokol v: { $path }
+about-webrtc-aec-logging-off-state-msg = soubory sběru protokolu můžete nalézt v: { $path }
 
 ##
 
@@ -111,6 +144,10 @@ about-webrtc-save-page-msg = stránka uložena do: { $path }
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickled candidates (doručené po odpovědi) jsou zvýrazněni modře
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
