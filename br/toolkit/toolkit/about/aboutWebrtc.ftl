@@ -36,6 +36,7 @@ about-webrtc-local-sdp-heading-answer = SDP Lec'hel (Respont)
 about-webrtc-remote-sdp-heading = SDP a-bell
 about-webrtc-remote-sdp-heading-offer = SDP a-bell (Kinnig)
 about-webrtc-remote-sdp-heading-answer = SDP a-bell (Respont)
+about-webrtc-sdp-history-heading = Roll istor SDP
 
 ##
 
@@ -122,6 +123,10 @@ about-webrtc-fold-hide-msg = kuzhat ar munudoù
     .title = Klikañ da ziskar ar gevrenn-mañ
 about-webrtc-decoder-label = Ezvoneger
 about-webrtc-encoder-label = Enboneger
+about-webrtc-width-px = Ledander (pks)
+about-webrtc-height-px = Uhelder (pks)
+about-webrtc-time-elapsed = Amzer aet e bioù (e)
+about-webrtc-rotation-degrees = Troiñ (derezioù)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -134,7 +139,9 @@ about-webrtc-encoder-label = Enboneger
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = pajenn enrollet e: { $path }
 about-webrtc-debug-mode-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
+about-webrtc-debug-mode-on-state-msg = mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
 about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall bezañ kavet e-barzh: { $path }
 
 ##
