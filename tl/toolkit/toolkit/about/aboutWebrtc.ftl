@@ -8,9 +8,16 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = i-save ang about:webrtc bilang
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-msg-label = AEC Logging
+about-webrtc-aec-logging-off-state-label = Simulan ang AEC Logging
+about-webrtc-aec-logging-on-state-label = Ihinto ang AEC Logging
+about-webrtc-aec-logging-on-state-msg = Aktib ang AEC Logging (makipag-usap sa tumawag mga ilang minuto at pagkatapos ay ihindi ang pag-capture)
 
 ##
 
@@ -24,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Local SDP
+about-webrtc-local-sdp-heading-offer = Local SDP (Alok)
+about-webrtc-local-sdp-heading-answer = Local SDP (Sagot)
 about-webrtc-remote-sdp-heading = Remote SDP
+about-webrtc-remote-sdp-heading-offer = Remote SDP (Alok)
+about-webrtc-remote-sdp-heading-answer = Remote SDP (Sagot)
 
 ##
 
@@ -58,14 +69,26 @@ about-webrtc-ice-component-id = Component ID
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Lokal
 about-webrtc-type-remote = Remote
 
 ##
 
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = Nakatalaga
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Napili
+about-webrtc-save-page-label = I-save ang Pahina
+about-webrtc-debug-mode-msg-label = Mode na Pag-debug
+about-webrtc-debug-mode-off-state-label = Simulan ang Debug Mode
+about-webrtc-debug-mode-on-state-label = Itigil ang Debug Mode
+about-webrtc-stats-heading = Istatika ng Sesyon
+about-webrtc-stats-clear = Linisin ang Kasasayan
+about-webrtc-log-heading = Koneksyon Log
+about-webrtc-log-clear = Linisin ang Log
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -75,9 +98,16 @@ about-webrtc-selected = Napili
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (nasara) { $now }
 
 ##
 
+about-webrtc-local-candidate = Lokal na Kandidato
+about-webrtc-remote-candidate = Remote na Kandidato
+about-webrtc-raw-candidates-heading = Lahat ng mga Sariwang Kandidato
+about-webrtc-raw-local-candidate = Sariwang Lokal na Kandidato
+about-webrtc-raw-remote-candidate = Sariwang Remote na Kandidato
+about-webrtc-priority = Prioridad
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
 
@@ -92,9 +122,22 @@ about-webrtc-encoder-label = Encoder
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = ang pahina ay inisave sa: { $path }
+about-webrtc-debug-mode-off-state-msg = ang trace log ay maaaring makita sa: { $path }
+about-webrtc-debug-mode-on-state-msg = aktib ang debug mode, ang trace log ay nasa: { $path }
+about-webrtc-aec-logging-off-state-msg = ang nakuhang mga log file ay makikita sa: { $path }
 
 ##
 
+# Jitter is the variance in the arrival time of packets.
+# See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
+# Variables:
+#   $jitter (Number) - The jitter.
+about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Pumatak na mga kandidato (nakarating pagkatapos ng sagot) ay naka-highlight sa asul
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
