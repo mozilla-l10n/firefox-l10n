@@ -54,6 +54,7 @@ about-webrtc-ice-restart-count-label = Ɛiwed sker ICE:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
 about-webrtc-ice-pair-bytes-sent = Iṭamḍanen iţwaceggɛen:
 about-webrtc-ice-pair-bytes-received = Itamḍanen iţwaremsen:
+about-webrtc-ice-component-id = ID n usuddis
 
 ##
 
@@ -83,6 +84,7 @@ about-webrtc-selected = Iţufren
 about-webrtc-save-page-label = Sekles asebter
 about-webrtc-debug-mode-msg-label = Askar n tseɣtit
 about-webrtc-debug-mode-off-state-label = Senker askar n tseɣtit
+about-webrtc-debug-mode-on-state-label = Seḥbes askar n tseɣtit
 about-webrtc-stats-heading = Tiddadanin n tɣimit
 about-webrtc-log-clear = Sfeḍ aɣmis
 
