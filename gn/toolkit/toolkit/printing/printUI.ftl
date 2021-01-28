@@ -17,14 +17,6 @@ printui-page-range-custom = Momba’epyre
 printui-page-range-label = Kuatiarogue
 printui-page-range-picker =
     .aria-label = Eiporavo kuatiarogue peteĩva
-printui-page-custom-range =
-    .aria-label = Emoinge kuatiarogue peteĩva momba’epyre
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Re
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = g̃uarã
 printui-page-custom-range-input =
     .aria-label = Emoinge kuatiarogue peteĩva momba’epyre
     .placeholder = p.ej. 2-6, 9, 12-16
@@ -58,7 +50,6 @@ printui-margins = Mbokoraha
 printui-margins-default = Ijypykue
 printui-margins-min = Michĩvéva
 printui-margins-none = Avave
-printui-margins-custom = Ñemomba’epyre
 printui-margins-custom-inches = Momba’epyre (pulgada)
 printui-margins-custom-top = Yvatevéva
 printui-margins-custom-top-inches = Tuichavéva (pulgada)
@@ -82,6 +73,7 @@ printui-pages-per-sheet = Kuatiarogue kuatiápe
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Ñemonguatia…
+printui-print-progress-indicator-saving = Oñongatuhína…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

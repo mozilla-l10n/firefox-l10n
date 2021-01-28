@@ -11,16 +11,25 @@
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Hekopyahupáma
+perftools-heading-buffer = Búfer ñemboheko
 perftools-heading-features = Tembiapoitegua
+perftools-heading-features-default = Búfer ñemboheko ijehegui reheguáva)
+perftools-heading-features-disabled = Tembiapoite pe’apyre
+perftools-heading-features-experimental = Mba’epyahu
+perftools-heading-threads = Inimbo
+perftools-heading-local-build = Ñembyaty pypeguáva
 
 ##
 
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Búfer tuichakue:
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
