@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
+about-webrtc-local-sdp-heading-offer = SDP local (Oferta)
+about-webrtc-local-sdp-heading-answer = SDP local (Respuesta)
 about-webrtc-remote-sdp-heading = SDP remoto
+about-webrtc-remote-sdp-heading-offer = SDP remoto (Oferta)
+about-webrtc-remote-sdp-heading-answer = SDP remoto (Respuesta)
 
 ##
 
@@ -46,6 +50,10 @@ about-webrtc-rtp-stats-heading = RTPStats
 about-webrtc-ice-state = Estado ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Estado ICE
+about-webrtc-ice-restart-count-label = Reinicios de ICE:
+about-webrtc-ice-rollback-count-label = Versiones anteriores de ICE:
+about-webrtc-ice-pair-bytes-sent = Bytes enviados:
+about-webrtc-ice-pair-bytes-received = Bytes recibidos:
 
 ##
 
@@ -77,7 +85,9 @@ about-webrtc-debug-mode-msg-label = Modo depuración
 about-webrtc-debug-mode-off-state-label = Iniciar modo depuración
 about-webrtc-debug-mode-on-state-label = Detener modo depuración
 about-webrtc-stats-heading = Estadísticas de sesión
+about-webrtc-stats-clear = Borrar Historial
 about-webrtc-log-heading = Registro de conexión
+about-webrtc-log-clear = Limpiar registro
 about-webrtc-log-show-msg = mostrar registro
     .title = clic para expandir esta sección
 about-webrtc-log-hide-msg = ocultar registro
