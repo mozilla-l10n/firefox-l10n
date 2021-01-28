@@ -45,6 +45,8 @@ about-webrtc-rtp-stats-heading = Statistik RTP
 about-webrtc-ice-state = Status ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Statistik ICE
+about-webrtc-ice-restart-count-label = ICE dimuat ulang:
+about-webrtc-ice-rollback-count-label = ICE diputar kembali:
 
 ##
 
