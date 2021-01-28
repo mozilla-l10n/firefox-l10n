@@ -22,9 +22,12 @@ update-noUpdatesFound = { -brand-short-name } al è inzornât
 update-otherInstanceHandlingUpdates = { -brand-short-name } al è daûr a jessi inzornât di une altre istance
 update-manual = Inzornaments disponibii su <label data-l10n-name="manual-link"/>
 update-unsupported = No tu puedis vê altris inzornaments su chest sisteme. <label data-l10n-name="unsupported-link">Par savê di plui</label>
+update-restarting = Daûr a tornâ a inviâ…
 channel-description = Tu sês par cumò tal canâl di inzornament <label data-l10n-name="current-channel"></label>inzornament cjanâl
-warningDesc-version = { -brand-short-name } al è sperimentâl e al pues no jessi stabil.
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> e je une <label data-l10n-name="community-exp-creditsLink">comunitât globâl</label>lavorant insiemi par tignî il Web viert, public e acessibil a ducj.
+warningDesc-version = { -brand-short-name } al è sperimentâl e al podarès jessi instabil.
+aboutdialog-help-user = Jutori di { -brand-product-name }
+aboutdialog-submit-feedback = Invie opinion
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> e je une <label data-l10n-name="community-exp-creditsLink">comunitât globâl</label> che e lavore adun par tignî il Web viert, public e acessibil a ducj.
 community-2 = { -brand-short-name } al è disegnât di <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, une <label data-l10n-name="community-creditsLink">comunitât globâl</label>lavorant insiemi par tignî il Web viert, public e acessibil a ducj.
 helpus = Covente jutôri?<label data-l10n-name="helpus-donateLink">Fâs une donazion</label> o <label data-l10n-name="helpus-getInvolvedLink">Unissiti a nô!</label>
 bottomLinks-license = Informazions su la licence
