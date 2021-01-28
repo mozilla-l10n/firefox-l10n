@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Lokaal SDP (Antwoord)
 about-webrtc-remote-sdp-heading = Extern SDP
 about-webrtc-remote-sdp-heading-offer = Extern SDP (Aanbod)
 about-webrtc-remote-sdp-heading-answer = Extern SDP (Antwoord)
+about-webrtc-sdp-history-heading = SDP-geschiedenis
+about-webrtc-sdp-parsing-errors-heading = SDP-parsefouten
 
 ##
 
@@ -122,12 +124,46 @@ about-webrtc-fold-hide-msg = details verbergen
     .title = klik om deze sectie samen te vouwen
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
+about-webrtc-show-tab-label = Tabblad tonen
+about-webrtc-width-px = Breedte (px)
+about-webrtc-height-px = Hoogte (px)
+about-webrtc-consecutive-frames = Opeenvolgende frames
+about-webrtc-time-elapsed = Verstreken tijd (s)
+about-webrtc-estimated-framerate = Geschatte framerate
+about-webrtc-rotation-degrees = Rotatie (graden)
+about-webrtc-first-frame-timestamp = Tijdstempel eerste frame-ontvangst
+about-webrtc-last-frame-timestamp = Tijdstempel laatste frame-ontvangst
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Lokale ontvangende SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Op afstand verzendende SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Voorzien
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Niet voorzien
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Geschatte bandbreedte
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Trackidentificatie
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Bandbreedte voor verzenden (bytes/sec)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Bandbreedte voor ontvangen (bytes/sec)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maximale opvulling (bytes/sec)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Snelheidsvertraging ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +190,14 @@ about-webrtc-trickle-caption-msg = ‘Trickled’ kandidaten (ontvangen na antwo
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Lokaal SDP op tijdstempel { NUMBER($timestamp, useGrouping: "false") } instellen
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Extern SDP op tijdstempel { NUMBER($timestamp, useGrouping: "false") } instellen
 
 ##
 
