@@ -31,7 +31,13 @@ about-webrtc-peerconnection-id-label = ID PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokalny SDP
+about-webrtc-local-sdp-heading-offer = Lokalny SDP (Poskitk)
+about-webrtc-local-sdp-heading-answer = Lokalny SDP (Wotmołwa)
 about-webrtc-remote-sdp-heading = Zdaleny SDP
+about-webrtc-remote-sdp-heading-offer = Zdaleny SDP (Poskitk)
+about-webrtc-remote-sdp-heading-answer = Zdaleny SDP (Wotmołwa)
+about-webrtc-sdp-history-heading = SDP-historija
+about-webrtc-sdp-parsing-errors-heading = Parsowanske zmylki SDP
 
 ##
 
@@ -50,6 +56,7 @@ about-webrtc-ice-restart-count-label = Znowastartowanja ICE:
 about-webrtc-ice-rollback-count-label = Wróćokulenja ICE:
 about-webrtc-ice-pair-bytes-sent = Pósłane bajty:
 about-webrtc-ice-pair-bytes-received = Přijate bajty:
+about-webrtc-ice-component-id = Komponentowy ID
 
 ##
 
@@ -103,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (začinj
 
 about-webrtc-local-candidate = Lokalny kandidat
 about-webrtc-remote-candidate = Zdaleny kandidat
+about-webrtc-raw-candidates-heading = Wšě njewobdźěłane kandidaty
+about-webrtc-raw-local-candidate = Njewobdźěłany lokalny kandidat
+about-webrtc-raw-remote-candidate = Njewobdźěłany zdaleny kandidat
+about-webrtc-raw-cand-show-msg = njewobdźěłane kandidaty pokazać
+    .title = klikńće, zo byšće tutón wotrězk pokazał
+about-webrtc-raw-cand-hide-msg = njewobdźěłane kandidaty schować
+    .title = klikńće, zo byšće tutón wotrězk schował
 about-webrtc-priority = Priorita
 about-webrtc-fold-show-msg = podrobnosće pokazać
     .title = klikńće, zo byšće tutón wotrězk pokazał
@@ -110,12 +124,48 @@ about-webrtc-fold-hide-msg = podrobnosće schować
     .title = klikńće, zo byšće tutón wotrězk schował
 about-webrtc-decoder-label = Dekodowak
 about-webrtc-encoder-label = Kodowak
+about-webrtc-show-tab-label = Rajtark pokazać
+about-webrtc-width-px = Šěrokosć (px)
+about-webrtc-height-px = Wysokosć (px)
+about-webrtc-consecutive-frames = Jedyn po druhim sćěhowace wobłuki
+about-webrtc-time-elapsed = Zańdźeny čas (s)
+about-webrtc-estimated-framerate = Trochowana wobrazowa frekwenca
+about-webrtc-rotation-degrees = Wjerćenje (stopnje)
+about-webrtc-first-frame-timestamp = Časowy kołk za přijeće prěnjeho wobłuka
+about-webrtc-last-frame-timestamp = Časowy kołk za přijeće poslednjeho wobłuka
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Lokalne přijimace SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Zdalene sćelace SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Podaty
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = NJepodaty
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = WebRTC-nastajenja wužiwarja
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Trochowana šěrokosć pasma
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identifikator ćěrje
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Słanska šěrokosć pasma (bajty/sek)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Přijimanska šěrokosć pasma (bajty/sek)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maksimalne wupjelnjenje (bajty/sek)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Dlijenje pacer ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -134,10 +184,27 @@ about-webrtc-aec-logging-off-state-msg = móžeće natočene protokolowe dataje 
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Kapnjene kandidaty (dochadźeja po wotmołwje) so módre wuzběhuja
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Lokalny SDP na časowy kołk { NUMBER($timestamp, useGrouping: "false") } stajić
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Zdaleny SDP na časowy kołk { NUMBER($timestamp, useGrouping: "false") } stajić
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Časowy kołk { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
