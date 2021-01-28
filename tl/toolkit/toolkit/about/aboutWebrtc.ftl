@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Local SDP (Sagot)
 about-webrtc-remote-sdp-heading = Remote SDP
 about-webrtc-remote-sdp-heading-offer = Remote SDP (Alok)
 about-webrtc-remote-sdp-heading-answer = Remote SDP (Sagot)
+about-webrtc-sdp-history-heading = SDP History
+about-webrtc-sdp-parsing-errors-heading = Mga SDP Parsing Error
 
 ##
 
@@ -89,6 +91,10 @@ about-webrtc-stats-heading = Istatika ng Sesyon
 about-webrtc-stats-clear = Linisin ang Kasasayan
 about-webrtc-log-heading = Koneksyon Log
 about-webrtc-log-clear = Linisin ang Log
+about-webrtc-log-show-msg = ipakita ang log
+    .title = pindutin para i-expand ang bahaging ito
+about-webrtc-log-hide-msg = itago ang log
+    .title = pindutin para i-collapse ang seksyong ito
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -107,12 +113,30 @@ about-webrtc-remote-candidate = Remote na Kandidato
 about-webrtc-raw-candidates-heading = Lahat ng mga Sariwang Kandidato
 about-webrtc-raw-local-candidate = Sariwang Lokal na Kandidato
 about-webrtc-raw-remote-candidate = Sariwang Remote na Kandidato
+about-webrtc-raw-cand-show-msg = ipakita ang mga sariwang kandidato
+    .title = pindutin para i-expand ang bahaging ito
+about-webrtc-raw-cand-hide-msg = itago ang mga bagong kandidato
+    .title = pindutin para i-collapse ang seksyong ito
 about-webrtc-priority = Prioridad
+about-webrtc-fold-show-msg = ipakita ang mga detalye
+    .title = pindutin para i-expand ang bahaging ito
+about-webrtc-fold-hide-msg = itago ang detalye
+    .title = pindutin para i-collapse ang seksyong ito
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
+about-webrtc-show-tab-label = Ipakita ang tab
+about-webrtc-width-px = Lapad (px)
+about-webrtc-height-px = Taas (px)
+about-webrtc-consecutive-frames = Magkakasunod na mga Frame
+about-webrtc-time-elapsed = Lumipas na Oras (s)
+about-webrtc-rotation-degrees = Pag-ikot (degree)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Local Receiving SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Remote Sending SSRC
 
 ##
 
@@ -142,6 +166,11 @@ about-webrtc-trickle-caption-msg = Pumatak na mga kandidato (nakarating pagkatap
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
