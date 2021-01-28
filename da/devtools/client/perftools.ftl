@@ -98,3 +98,4 @@ perftools-thread-js-helper =
 
 ##
 
+perftools-record-all-registered-threads = Ignorer valg ovenfor og optag alle registrerede tråde
