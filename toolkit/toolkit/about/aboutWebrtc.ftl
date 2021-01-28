@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = salvează about:webrtc ca
 about-webrtc-aec-logging-msg-label = Jurnalizare AEC
 about-webrtc-aec-logging-off-state-label = Pornește jurnalizarea AEC
 about-webrtc-aec-logging-on-state-label = Oprește jurnalizarea AEC
+about-webrtc-aec-logging-on-state-msg = Jurnalizare AEC activă (vorbește cu apelantul câteva minute și apoi oprește înregistrarea)
 
 ##
 
@@ -30,7 +31,11 @@ about-webrtc-peerconnection-id-label = Identificator PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
+about-webrtc-local-sdp-heading-offer = SDP local (Oferă)
+about-webrtc-local-sdp-heading-answer = SDP local (Răspunde)
 about-webrtc-remote-sdp-heading = SDP de la distanță
+about-webrtc-remote-sdp-heading-offer = SDP de la distanță (Oferă)
+about-webrtc-remote-sdp-heading-answer = SDP de la distanță (Răspunde)
 
 ##
 
@@ -47,6 +52,9 @@ about-webrtc-ice-state = Stare ICE
 about-webrtc-ice-stats-heading = Statistici ICE
 about-webrtc-ice-restart-count-label = ICE repornește:
 about-webrtc-ice-rollback-count-label = ICE revine:
+about-webrtc-ice-pair-bytes-sent = Byți trimiși:
+about-webrtc-ice-pair-bytes-received = Byți primiți:
+about-webrtc-ice-component-id = ID-ul componentei
 
 ##
 
@@ -78,7 +86,9 @@ about-webrtc-debug-mode-msg-label = Mod depanare
 about-webrtc-debug-mode-off-state-label = Pornește modul depanare
 about-webrtc-debug-mode-on-state-label = Oprește modul depanare
 about-webrtc-stats-heading = Statistici privind sesiunea
+about-webrtc-stats-clear = Șterge istoricul
 about-webrtc-log-heading = Jurnalul conexiunii
+about-webrtc-log-clear = Golește jurnalul
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -94,6 +104,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (închis
 
 about-webrtc-local-candidate = Candidat local
 about-webrtc-remote-candidate = Candidat la distanță
+about-webrtc-raw-candidates-heading = Toți candidații bruți
+about-webrtc-raw-local-candidate = Candidat local brut
+about-webrtc-raw-remote-candidate = Candidat la distanță brut
 about-webrtc-priority = Prioritate
 about-webrtc-decoder-label = Decodor
 about-webrtc-encoder-label = Codor
@@ -111,6 +124,7 @@ about-webrtc-encoder-label = Codor
 
 about-webrtc-save-page-msg = pagină salvată în: { $path }
 about-webrtc-debug-mode-off-state-msg = jurnalul de urmărire poate fi găsit la: { $path }
+about-webrtc-debug-mode-on-state-msg = mod de depanare activ, jurnalul de urmărire la: { $path }
 
 ##
 
