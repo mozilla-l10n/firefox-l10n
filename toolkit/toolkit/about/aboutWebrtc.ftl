@@ -31,6 +31,7 @@ about-webrtc-peerconnection-id-label = ID PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP Lokal
+about-webrtc-local-sdp-heading-offer = SDP Lokal (Penawaran)
 about-webrtc-local-sdp-heading-answer = SDP Lokal (Jawab)
 
 ##
@@ -101,6 +102,12 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ditutup
 ##
 
 about-webrtc-local-candidate = Kandidat Lokal
+about-webrtc-raw-candidates-heading = Semua Kandidat Mentah
+about-webrtc-raw-local-candidate = Kandidat Lokal Mentah
+about-webrtc-raw-cand-show-msg = tampilkan kandidat mentah
+    .title = klik untuk membentangkan bagian ini
+about-webrtc-raw-cand-hide-msg = sembunyikan kandidat mentah
+    .title = klik untuk menciutkan bagian ini
 about-webrtc-priority = Prioritas
 about-webrtc-fold-show-msg = tampilkan detail
     .title = klik untuk membentangkan bagian ini
@@ -132,6 +139,10 @@ about-webrtc-aec-logging-off-state-msg = berkas log tangkapan dapat ditemukan di
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Hamburan kandidat (datang setelah jawaban) disorot warna biru
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
