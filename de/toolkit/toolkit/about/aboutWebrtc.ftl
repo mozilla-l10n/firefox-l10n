@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Lokales SDP (Antwort)
 about-webrtc-remote-sdp-heading = Externes SDP
 about-webrtc-remote-sdp-heading-offer = Externes SDP (Offerte)
 about-webrtc-remote-sdp-heading-answer = Externes SDP (Antwort)
+about-webrtc-sdp-history-heading = SDP-Verlauf
+about-webrtc-sdp-parsing-errors-heading = SDP-Parsing-Fehler
 
 ##
 
@@ -122,12 +124,37 @@ about-webrtc-fold-hide-msg = Details ausblenden
     .title = Zum Minimieren des Abschnitts anklicken
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
+about-webrtc-show-tab-label = Tab anzeigen
+about-webrtc-width-px = Breite (px)
+about-webrtc-height-px = Höhe (px)
+about-webrtc-consecutive-frames = Aufeinanderfolgende Bilder
+about-webrtc-time-elapsed = Verstrichene Zeit (s)
+about-webrtc-estimated-framerate = Geschätzte Bildfrequenz
+about-webrtc-rotation-degrees = Rotation (Grad)
+about-webrtc-first-frame-timestamp = Zeitstempel für den Empfang des ersten Bilds
+about-webrtc-last-frame-timestamp = Zeitstempel für den Empfang des letzten Bilds
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Lokale empfangende SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Entfernte sendende SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Angegeben
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Nicht angegeben
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Vom Benutzer festgelegte WebRTC-Einstellungen
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Geschätzte Bandbreite
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Track-Identifikator
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +181,19 @@ about-webrtc-trickle-caption-msg = Eintrudelnde Kandidaten ("Trickled" - kamen n
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Lokales SDP wurde zum Zeitstempel { NUMBER($timestamp, useGrouping: "false") } gesetzt
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Externes SDP wurde zum Zeitstempel { NUMBER($timestamp, useGrouping: "false") } gesetzt
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Zeitstempel { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
