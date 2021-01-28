@@ -24,3 +24,4 @@
 <!ENTITY acceleratorKey.accesskey "A">
 <!ENTITY menuAccessKey.label "選單快捷鍵:">
 <!ENTITY menuAccessKey.accesskey "M">
+<!ENTITY modifiersDesc.label "註: 值為 0 的時候就會停用快捷鍵。">
