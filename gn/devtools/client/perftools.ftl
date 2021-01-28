@@ -30,12 +30,19 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Búfer tuichakue:
+perftools-custom-threads-label = Embojuaju inimbo momba’epyre héra rupi:
+perftools-devtools-interval-label = Mbojopyru:
+perftools-devtools-threads-label = Inimbo:
+perftools-devtools-settings-label = Ñemboheko
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = Ambue tembipuru ojoko ñeñongatu.
+perftools-status-restart-required = Emoñepyrũjey kundahára embojuruja hag̃ua tembiapoite.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Ejoko ñeñongatu
 
 ##
 
