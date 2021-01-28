@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nowe wokno
 appmenuitem-new-private-window =
     .label = Nowe priwatne wokno
+appmenuitem-passwords =
+    .label = Hesła
+appmenuitem-extensions-and-themes =
+    .label = Rozšěrjenja a drasty
+appmenuitem-find-in-page =
+    .label = Na stronje pytać…
+appmenuitem-more-tools =
+    .label = Dalše nastroje
+appmenuitem-exit =
+    .label = Skónčić
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Nastajenja
 
 ## Zoom and Fullscreen Controls
 
