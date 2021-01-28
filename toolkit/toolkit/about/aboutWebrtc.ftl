@@ -151,6 +151,19 @@ about-webrtc-configuration-element-provided = Fornecido
 about-webrtc-configuration-element-not-provided = Non fornecido
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencias de WebRTC configuradas polo usuario
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Largo de banda estimado
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identificador de tracexador
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Largo de banda de envío (bytes/sec)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Largo de banda de recepción (bytes/sec)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Recheo máximo (bytes/seg)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = Tempo de ida de volta (RTT, en ms)
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
