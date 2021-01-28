@@ -309,3 +309,7 @@ about-logins-import-dialog-error-no-logins-imported = Ingen innlogginger er impo
 about-logins-import-dialog-error-learn-more = Les mer
 about-logins-import-dialog-error-try-again = Prøv igjen …
 about-logins-import-dialog-error-cancel = Avbryt
+
+## Logins import report page
+
+about-logins-import-report-page-title = Sammendragsrapport for import
