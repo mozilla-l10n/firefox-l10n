@@ -53,6 +53,8 @@ perftools-button-cancel-recording = Eheja ñeñongatu
 perftools-button-save-settings = Eñongatu ñemboheko ha ejevy
 perftools-button-restart = Moñepyrũjey
 perftools-button-add-directory = Embojuaju marandurenda’aty
+perftools-button-remove-directory = Emboguete jeporavo
+perftools-button-edit-settings = Embosako’i ñemboheko…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 

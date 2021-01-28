@@ -43,6 +43,7 @@ printui-duplex-checkbox = Mokõive gotyo monguatia
 printui-options = Poravorã
 printui-headers-footers-checkbox = Emongutia myakãha ha kuatiarogue guy gotyo
 printui-backgrounds-checkbox = Tugua ñembokuatia
+printui-selection-checkbox = Embokuatia jeporavo
 printui-color-mode-label = Sa’y reko
 printui-color-mode-color = Sa’y
 printui-color-mode-bw = Morotĩ ha hũ
