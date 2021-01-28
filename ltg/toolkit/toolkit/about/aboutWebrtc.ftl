@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokalā SDP
+about-webrtc-local-sdp-heading-offer = Lokalā SDP (Pīdōvōjums)
+about-webrtc-local-sdp-heading-answer = Lokalā SDP (Atbiļde)
 about-webrtc-remote-sdp-heading = Attuolynuotuo SDP
+about-webrtc-remote-sdp-heading-offer = Attuolynuotuo SDP (Pīdōvōjums)
+about-webrtc-remote-sdp-heading-answer = Attuolynuotuo SDP (Atbiļde)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE puorstarteišonys:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
 about-webrtc-ice-pair-bytes-sent = Nūsyuteitī baiti:
 about-webrtc-ice-pair-bytes-received = Sajimtī baiti:
+about-webrtc-ice-component-id = Komponenta ID
 
 ##
 
@@ -76,6 +81,7 @@ about-webrtc-nominated = Nominated
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izavieleits
+about-webrtc-save-page-label = Saglobōt lopu
 about-webrtc-debug-mode-msg-label = Atklaiduošonys režyms
 about-webrtc-debug-mode-off-state-label = Suokt atklaiduošonys režymu
 about-webrtc-debug-mode-on-state-label = Apturēt atklaiduošonys režymu
@@ -102,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (closed)
 
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
+about-webrtc-raw-candidates-heading = Vysi naapstrōdōtī kandidati
+about-webrtc-raw-local-candidate = Naapstrōdōtī lokālī kandidati
+about-webrtc-raw-remote-candidate = Naapstrōdōtī attōlynōtī kandidati
+about-webrtc-raw-cand-show-msg = rōdēt naapstrōdōtūs kandidatus
+    .title = click to expand this section
+about-webrtc-raw-cand-hide-msg = slēpt naapstrōdōtūs kandidatus
+    .title = click to collapse this section
 about-webrtc-priority = Priority
 about-webrtc-fold-show-msg = Paruodeit seikuoku informaceju
     .title = click to expand this section
@@ -133,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Kavejušī kandidati (kuri īzarūdās pec atbiļdes) ir īkrōsōti ar zylu
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
