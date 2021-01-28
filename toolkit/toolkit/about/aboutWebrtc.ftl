@@ -36,6 +36,7 @@ about-webrtc-local-sdp-heading-answer = SDP local (Resposta)
 about-webrtc-remote-sdp-heading = SDP remoto
 about-webrtc-remote-sdp-heading-offer = SDP remoto (Oferta)
 about-webrtc-remote-sdp-heading-answer = SDP remoto (Resposta)
+about-webrtc-sdp-history-heading = Histórico do SDP
 about-webrtc-sdp-parsing-errors-heading = Erros de interpretação do SDP
 
 ##
@@ -124,9 +125,21 @@ about-webrtc-fold-hide-msg = ocultar detalhes
 about-webrtc-decoder-label = Descodificador
 about-webrtc-encoder-label = Codificado
 about-webrtc-show-tab-label = Mostrar separador
+about-webrtc-width-px = Largura (px)
+about-webrtc-height-px = Altura (px)
+about-webrtc-consecutive-frames = Frames consecutivos
+about-webrtc-time-elapsed = Tempo decorrido
+about-webrtc-estimated-framerate = Framerate estimado
+about-webrtc-rotation-degrees = Rotação (graus)
+about-webrtc-first-frame-timestamp = Data/hora da receção do primeiro frame
+about-webrtc-last-frame-timestamp = Data/hora da receção do último frame
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Local a receber SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Envio remoto de SSRC
 
 ##
 
@@ -179,6 +192,14 @@ about-webrtc-trickle-caption-msg = Candidatos trickled (a chegar depois da respo
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Definir SDP local na indicação { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Definir SDP remoto na indicação { NUMBER($timestamp, useGrouping: "false") }
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
