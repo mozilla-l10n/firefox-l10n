@@ -8,10 +8,15 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = saglobuot about:webrtc kai
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
 about-webrtc-aec-logging-msg-label = AEC Logging
+about-webrtc-aec-logging-off-state-label = Suokt AEC žurnaleišonu
+about-webrtc-aec-logging-on-state-label = Puortraukt AEC žurnaleišonu
 about-webrtc-aec-logging-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
 
 ##
@@ -25,13 +30,22 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = Lokalā SDP
+about-webrtc-remote-sdp-heading = Attuolynuotuo SDP
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = RTP statistika
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = ICE stuovūklis
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = ICE statistika
 
 ##
 
@@ -47,12 +61,21 @@ about-webrtc-sdp-heading = SDP
 ## connection.
 
 about-webrtc-type-local = Local
+about-webrtc-type-remote = Attuolynuotais
 
 ##
 
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominated
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Izavieleits
+about-webrtc-debug-mode-msg-label = Atklaiduošonys režyms
+about-webrtc-debug-mode-off-state-label = Suokt atklaiduošonys režymu
+about-webrtc-debug-mode-on-state-label = Apturēt atklaiduošonys režymu
+about-webrtc-stats-heading = Sesejis statistika
 about-webrtc-log-heading = Connection Log
 about-webrtc-log-show-msg = show log
     .title = click to expand this section
@@ -74,6 +97,10 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (closed)
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
 about-webrtc-priority = Priority
+about-webrtc-fold-show-msg = Paruodeit seikuoku informaceju
+    .title = click to expand this section
+about-webrtc-fold-hide-msg = slēpt detalis
+    .title = click to collapse this section
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
 
@@ -88,6 +115,7 @@ about-webrtc-encoder-label = Encoder
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = lopa saglobuota: { $path }
 about-webrtc-debug-mode-off-state-msg = trace log can be found at: { $path }
 about-webrtc-debug-mode-on-state-msg = debug mode active, trace log at: { $path }
 about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $path }
