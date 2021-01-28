@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection IDa:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP lokala
+about-webrtc-local-sdp-heading-offer = SDP lokala (Eskaintza)
+about-webrtc-local-sdp-heading-answer = SDP lokala (Erantzuna)
 about-webrtc-remote-sdp-heading = Urruneko SDP
+about-webrtc-remote-sdp-heading-offer = Urruneko SDP (Eskaintza)
+about-webrtc-remote-sdp-heading-answer = Urruneko SDP (Erantzuna)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE berrabiarazteak:
 about-webrtc-ice-rollback-count-label = ICE desegiteak:
 about-webrtc-ice-pair-bytes-sent = Bidalitako byteak:
 about-webrtc-ice-pair-bytes-received = Jasotako byteak:
+about-webrtc-ice-component-id = Osagaiaren IDa
 
 ##
 
@@ -103,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (itxita)
 
 about-webrtc-local-candidate = Hautagai lokala
 about-webrtc-remote-candidate = Urruneko hautagaia
+about-webrtc-raw-candidates-heading = Hautagai gordin guztiak
+about-webrtc-raw-local-candidate = Hautagai lokal gordina
+about-webrtc-raw-remote-candidate = Urruneko hautagai gordina
+about-webrtc-raw-cand-show-msg = erakutsi hautagai gordinak
+    .title = egin klik atal hau zabaltzeko
+about-webrtc-raw-cand-hide-msg = ezkutatu hautagai gordinak
+    .title = egin klik atal hau tolesteko
 about-webrtc-priority = Lehentasuna
 about-webrtc-fold-show-msg = erakutsi xehetasunak
     .title = egin klik atal hau zabaltzeko
@@ -134,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = kapturatutako erregistro-fitxategiak he
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Fluktuazioa { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Banan-banan (erantzunaren ondoren) datozen hautagaiak urdina kolorez daude nabarmenduta
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
