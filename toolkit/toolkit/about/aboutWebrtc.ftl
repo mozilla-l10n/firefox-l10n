@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Локальний SDP
+about-webrtc-local-sdp-heading-offer = Локальний SDP (Пропозиція)
+about-webrtc-local-sdp-heading-answer = Локальний SDP (Відповідь)
 about-webrtc-remote-sdp-heading = Віддалений SDP
+about-webrtc-remote-sdp-heading-offer = Віддалений SDP (Пропозиція)
+about-webrtc-remote-sdp-heading-answer = Віддалений SDP (Відповідь)
 about-webrtc-sdp-history-heading = Історія SDP
 about-webrtc-sdp-parsing-errors-heading = Помилки розбору SDP
 
@@ -52,6 +56,7 @@ about-webrtc-ice-restart-count-label = Перезапуски ICE:
 about-webrtc-ice-rollback-count-label = Відкати ICE:
 about-webrtc-ice-pair-bytes-sent = Байтів відправлено:
 about-webrtc-ice-pair-bytes-received = Байтів отримано:
+about-webrtc-ice-component-id = ID компонента
 
 ##
 
@@ -83,6 +88,7 @@ about-webrtc-debug-mode-msg-label = Режим зневадження
 about-webrtc-debug-mode-off-state-label = Почати режим зневадження
 about-webrtc-debug-mode-on-state-label = Припинити режим зневадження
 about-webrtc-stats-heading = Статистика сеансу
+about-webrtc-stats-clear = Стерти історію
 about-webrtc-log-heading = Журнал з’єднання
 about-webrtc-log-clear = Очистити журнал
 about-webrtc-log-show-msg = показати журнал
@@ -104,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (зак�
 
 about-webrtc-local-candidate = Локальний кандидат
 about-webrtc-remote-candidate = Віддалений кандидат
+about-webrtc-raw-candidates-heading = Всі необроблені кандидати
+about-webrtc-raw-local-candidate = Необроблений локальний кандидат
+about-webrtc-raw-remote-candidate = Необроблений віддалений кандидат
+about-webrtc-raw-cand-show-msg = показати необроблені кандидати
+    .title = натисніть, щоб розгорнути цю секцію
+about-webrtc-raw-cand-hide-msg = приховати необроблені кандидати
+    .title = натисніть, щоб згорнути цю секцію
 about-webrtc-priority = Пріоритет
 about-webrtc-fold-show-msg = показати деталі
     .title = натисніть, щоб розгорнути цю секцію
@@ -153,6 +166,10 @@ about-webrtc-aec-logging-off-state-msg = захоплені файли журн�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Потік кандидатів (після відповіді) підсвічено блакитним
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
