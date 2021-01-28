@@ -115,6 +115,7 @@ about-webrtc-fold-hide-msg = sakrij detalje
     .title = klikni za sklapanje ovog odjeljka
 about-webrtc-decoder-label = Dekoder
 about-webrtc-encoder-label = Koder
+about-webrtc-show-tab-label = Prikaži karticu
 about-webrtc-width-px = Širina (px)
 about-webrtc-height-px = Visina (px)
 about-webrtc-consecutive-frames = Uzastopni okviri
