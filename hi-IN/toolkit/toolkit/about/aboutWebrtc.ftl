@@ -48,6 +48,8 @@ about-webrtc-ice-state = आईसीइ स्थिति
 about-webrtc-ice-stats-heading = आईसीइ आँकड़े
 about-webrtc-ice-restart-count-label = ICE पुनः प्रारंभ:
 about-webrtc-ice-rollback-count-label = ICE पूर्व स्थिति में:
+about-webrtc-ice-pair-bytes-sent = बाइट्स भेजा गया:
+about-webrtc-ice-pair-bytes-received = बाइट्स प्राप्त हुआ:
 
 ##
 
@@ -81,6 +83,7 @@ about-webrtc-debug-mode-on-state-label = दोषसुधार मोड र�
 about-webrtc-stats-heading = सत्र आंकड़े
 about-webrtc-stats-clear = इतिहास साफ़ करें
 about-webrtc-log-heading = कनेक्शन लॉग
+about-webrtc-log-clear = लॉग साफ करें
 about-webrtc-log-show-msg = लॉग दिखाएँ
     .title = विभाग फैलाने के लिये क्लिक करें
 about-webrtc-log-hide-msg = लॉग छुपाएँ
