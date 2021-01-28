@@ -38,6 +38,11 @@ about-webrtc-rtp-stats-heading = RTP სტატისტიკა
 about-webrtc-ice-state = ICE მდგომარეობა
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE სტატისტიკა
+about-webrtc-ice-restart-count-label = ICE ხელახლა ჩართვები:
+about-webrtc-ice-rollback-count-label = ICE დაბრუნებები:
+about-webrtc-ice-pair-bytes-sent = გაგზავნილი ბაიტები:
+about-webrtc-ice-pair-bytes-received = მიღებული ბაიტები:
+about-webrtc-ice-component-id = კომპონენტის ID
 
 ##
 
@@ -68,6 +73,8 @@ about-webrtc-save-page-label = გვერდის შენახვა
 about-webrtc-debug-mode-msg-label = გამართვის რეჟიმი
 about-webrtc-debug-mode-off-state-label = გამართვის რეჟიმის დაწყება
 about-webrtc-debug-mode-on-state-label = გამართვის რეჟიმის შეჩერება
+about-webrtc-stats-heading = სეანსის სტატისტიკა
+about-webrtc-stats-clear = ისტორიის გასუფთავება
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -83,7 +90,19 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (და�
 
 about-webrtc-local-candidate = ლოკალური კანდიდატი
 about-webrtc-remote-candidate = დისტანციური კანდიდატი
+about-webrtc-raw-candidates-heading = ყველა ნედლი კანდიდატი
+about-webrtc-raw-local-candidate = ლოკალური ნედლი კანდიდატი
+about-webrtc-raw-remote-candidate = დისტანციური ნედლი კანდიდატი
+about-webrtc-raw-cand-show-msg = ნედლი კანდიდატების ჩვენება
+    .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
+about-webrtc-raw-cand-hide-msg = ნედლი კანდიდატების დამალვა
+    .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
 about-webrtc-priority = პრიორიტეტი
+about-webrtc-fold-show-msg = ვრცლად ჩვენება
+    .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
+about-webrtc-fold-hide-msg = შემოკლებულად ჩვენება
+    .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
+about-webrtc-decoder-label = გამშიფრავი
 about-webrtc-encoder-label = ენკოდერი
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
@@ -99,6 +118,7 @@ about-webrtc-encoder-label = ენკოდერი
 
 about-webrtc-save-page-msg = გვერდი შეინახა აქ: { $path }
 about-webrtc-debug-mode-off-state-msg = კვალის აღრიცხვის ნახვა შეგიძლიათ აქ: { $path }
+about-webrtc-debug-mode-on-state-msg = გამართვის რეჟიმი ამოქმედებულია, აღრიცხვის მდებარეობა: { $path }
 about-webrtc-aec-logging-off-state-msg = ჩაწერის აღრიცხვის ფაილების მდებარეობა: { $path }
 
 ##
@@ -108,6 +128,10 @@ about-webrtc-aec-logging-off-state-msg = ჩაწერის აღრიც�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = დაგვიანებული კანდიდატები (პასუხის შემდეგ მოსული) აღნიშნულია ლურჯი ფერით
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
