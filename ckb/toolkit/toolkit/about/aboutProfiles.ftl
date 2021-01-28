@@ -35,3 +35,19 @@ profiles-invalid-profile-name-title = ناوی پەڕەکە نەگونجاوە
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = "{ $name }" ڕێگەپێدراو نییە بۆ ناوی پەڕە کەسیەکە
 profiles-delete-profile-title = سرینەوەی پەڕەی کەسی
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    سڕینەوەی پەڕەیەکی کەسی وادەکات لە لیستی پەڕە کەسیە بەردەستەکانیشدا بسڕدرێتەوە.
+    ڕەنگیشە بتەوێت بژاردەی سڕینەوەی زانیاری پەڕە کەسیەکە هەڵبژێریت ، کە ڕێکخستن و بڕوانامە و زانیاریە پەیوەندیدارەکان بە کارەوە دەسڕێتەوە. ئەم بژاردەیە بوخچەی "{ $dir }" دەسڕێتەوە کە ناتوانرێت بهێنرێتەوە.
+    دەتەوێت بوخچەی زانیاری پەڕە کەسیەکەت بسڕیتەوە؟
+profiles-delete-files = پەڕگەکان بسڕەوە
+profiles-dont-delete-files = پەڕگەکان مەسڕەوە
+profiles-delete-profile-failed-title = هەڵە
+profiles-delete-profile-failed-message = لەساتی هەوڵدان بۆ سڕینەوەی ئەم پەڕەیە هەڵەیەک ڕوویدا.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] لە دۆزەرەوەدا نیشانی بدە
+        [windows] بوخچەکە بکەرەوە
+       *[other] پێڕستەکە بکەرەوە
+    }
