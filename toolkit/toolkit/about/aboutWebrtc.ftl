@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection आयडी:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = स्थानिक SDP
+about-webrtc-local-sdp-heading-offer = स्थानिक SDP (ऑफर)
+about-webrtc-local-sdp-heading-answer = स्थानिक SDP (उत्तर)
 about-webrtc-remote-sdp-heading = दूरस्थ SDP
+about-webrtc-remote-sdp-heading-offer = दूरस्थ SDP (ऑफर)
+about-webrtc-remote-sdp-heading-answer = दूरस्थ SDP (उत्तर)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE पुन्हा सुरु ह�
 about-webrtc-ice-rollback-count-label = ICE रोलबॅक:
 about-webrtc-ice-pair-bytes-sent = पाठवलेले बाइट्स:
 about-webrtc-ice-pair-bytes-received = प्राप्त बाइट्स:
+about-webrtc-ice-component-id = तत्व आयडी
 
 ##
 
@@ -103,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बं�
 
 about-webrtc-local-candidate = स्थानिक उमेदवार
 about-webrtc-remote-candidate = दूरस्थ उमेदवार
+about-webrtc-raw-candidates-heading = सगळे अननुभवी उमेदवार
+about-webrtc-raw-local-candidate = अननुभवी स्थानिक उमेदवार
+about-webrtc-raw-remote-candidate = अननुभवी दूरस्थ उमेदवार
+about-webrtc-raw-cand-show-msg = अननुभवी उमेदवार दाखवा
+    .title = हा विभाग विस्तारित करण्यासाठी क्लिक करा
+about-webrtc-raw-cand-hide-msg = अननुभवी उमेदवार लपवा
+    .title = हा विभाग बंद करण्यासाठी क्लिक करा
 about-webrtc-priority = प्राधान्य
 about-webrtc-fold-show-msg = तपशील दाखवा
     .title = हा विभाग विस्तारित करण्यासाठी क्लिक करा
