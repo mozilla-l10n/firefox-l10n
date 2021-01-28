@@ -348,6 +348,7 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Iteddu
 browser-tab-audio-muted = Isusem
 
 ## Bookmarks toolbar items
