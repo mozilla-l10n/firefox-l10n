@@ -31,7 +31,13 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Жергілікті SDP
+about-webrtc-local-sdp-heading-offer = Жергілікті SDP (Ұсыну)
+about-webrtc-local-sdp-heading-answer = Жергілікті SDP (Жауап)
 about-webrtc-remote-sdp-heading = Қашықтағы SDP
+about-webrtc-remote-sdp-heading-offer = Қашықтағы SDP (Ұсыну)
+about-webrtc-remote-sdp-heading-answer = Қашықтағы SDP (Жауап)
+about-webrtc-sdp-history-heading = SDP тарихы
+about-webrtc-sdp-parsing-errors-heading = SDP талдау қателері
 
 ##
 
@@ -50,6 +56,7 @@ about-webrtc-ice-restart-count-label = ICE қайта қосылулары:
 about-webrtc-ice-rollback-count-label = ICE әрекеттерін болдырмаулар:
 about-webrtc-ice-pair-bytes-sent = Жіберілген байттар:
 about-webrtc-ice-pair-bytes-received = Алынған байттар:
+about-webrtc-ice-component-id = Құрама анықтағышы
 
 ##
 
@@ -103,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (жаб�
 
 about-webrtc-local-candidate = Жергілікті кандидат
 about-webrtc-remote-candidate = Қашықтағы кандидат
+about-webrtc-raw-candidates-heading = Барлық өңделмеген кандидаттар
+about-webrtc-raw-local-candidate = Өңделмеген жергілікті кандидат
+about-webrtc-raw-remote-candidate = Өңделмеген қашықтағы кандидат
+about-webrtc-raw-cand-show-msg = өңделмеген кандидаттарды көрсету
+    .title = бұл санатты жазық қылу үшін шертіңіз
+about-webrtc-raw-cand-hide-msg = өңделмеген кандидаттарды жасыру
+    .title = бұл санатты жинау үшін шертіңіз
 about-webrtc-priority = Приоритет
 about-webrtc-fold-show-msg = ақпаратын көрсету
     .title = бұл санатты жазық қылу үшін шертіңіз
@@ -110,12 +124,31 @@ about-webrtc-fold-hide-msg = ақпаратын жасыру
     .title = бұл санатты жинау үшін шертіңіз
 about-webrtc-decoder-label = Декодер
 about-webrtc-encoder-label = Кодер
+about-webrtc-show-tab-label = Бетті көрсету
+about-webrtc-width-px = Ені (px)
+about-webrtc-height-px = Биіктігі (px)
+about-webrtc-consecutive-frames = Сыбайлас кадрлар
+about-webrtc-time-elapsed = Өткен уақыт (сек)
+about-webrtc-estimated-framerate = Болжамды кадрлар жиілігі
+about-webrtc-rotation-degrees = Бұру (градус)
+about-webrtc-first-frame-timestamp = Бірінші кадр қабылдаудың уақыт белгісі
+about-webrtc-last-frame-timestamp = Соңғы кадр қабылдаудың уақыт белгісі
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Жергілікті қабылдау SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Қашықтан жіберу SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Ұсынылған
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Ұсынылмаған
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -138,6 +171,19 @@ about-webrtc-jitter-label = Джиттер { $jitter }
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Жергілікті SDP шамасын { NUMBER($timestamp, useGrouping: "false") } уақыт белгісінде онату
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Қашықтағы SDP шамасын { NUMBER($timestamp, useGrouping: "false") } уақыт белгісінде онату
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Уақыт белгісі { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } мс)
 
 ##
 
