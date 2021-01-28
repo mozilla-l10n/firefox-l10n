@@ -36,6 +36,7 @@ about-webrtc-local-sdp-heading-answer = स्थानीय SDP (जवाब)
 about-webrtc-remote-sdp-heading = दूरस्थ SDP
 about-webrtc-remote-sdp-heading-offer = दूरस्थ SDP (प्रस्ताव)
 about-webrtc-remote-sdp-heading-answer = दूरस्थ SDP (जवाब)
+about-webrtc-sdp-history-heading = SDP इतिहास
 
 ##
 
@@ -122,12 +123,19 @@ about-webrtc-fold-hide-msg = विवरण छिपाएँ
     .title = इस विभाग को समेटनें के लिए क्लिक करें
 about-webrtc-decoder-label = डीकोडर
 about-webrtc-encoder-label = कूटलेखित्र
+about-webrtc-show-tab-label = टैब दिखाएं
+about-webrtc-width-px = चौड़ाई (px)
+about-webrtc-height-px = ऊंचाई (px)
+about-webrtc-estimated-framerate = अनुमानित फ्रेमरेट
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +162,19 @@ about-webrtc-trickle-caption-msg = छँटे उम्मीदवार (उ
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = स्थानीय SDP को टाइमस्टैम्प { NUMBER($timestamp, useGrouping: "false") } पर सेट करें
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = दूरस्थ SDP को टाइमस्टैम्प { NUMBER($timestamp, useGrouping: "false") } पर सेट करें
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = टाइमस्टैम्प { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
