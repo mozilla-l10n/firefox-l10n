@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Տեղային SDP
+about-webrtc-local-sdp-heading-offer = Տեղային SDP (Առաջարկ)
+about-webrtc-local-sdp-heading-answer = Տեղային SDP (Պատասխան)
 about-webrtc-remote-sdp-heading = Հեռակա SDP
+about-webrtc-remote-sdp-heading-offer = Հեռակա SDP (Առաջարկ)
+about-webrtc-remote-sdp-heading-answer = Հեռակա SDP (Պատասխան)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE վերագործարկումներ:
 about-webrtc-ice-rollback-count-label = ICE դարձումներ:
 about-webrtc-ice-pair-bytes-sent = Բայթ է ուղարկվել:
 about-webrtc-ice-pair-bytes-received = Բայթ է ստացվել:
+about-webrtc-ice-component-id = Բաղադրիչի ID
 
 ##
 
@@ -103,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (փակ�
 
 about-webrtc-local-candidate = Տեղային թեկնածու
 about-webrtc-remote-candidate = Հեռակա թեկնածու
+about-webrtc-raw-candidates-heading = Բոլոր անմշակ թեկնածուներ
+about-webrtc-raw-local-candidate = Անմշակ տեղային թեկնածու
+about-webrtc-raw-remote-candidate = Անմշակ հեռակա թեկնածու
+about-webrtc-raw-cand-show-msg = ցուցդրել անմշակ թեկնածուներին
+    .title = սեղմեք՝ ա/շրջանը ընդարձակելու համար
+about-webrtc-raw-cand-hide-msg = թաքցնել անմշակ թեկնածուներին
+    .title = սեղմեք՝ ա/շրջանը կոծկելու համար
 about-webrtc-priority = Առաջնահերթ-ը
 about-webrtc-fold-show-msg = մանրամասն
     .title = սեղմեք՝ ա/շրջանը ընդարձակելու համար
