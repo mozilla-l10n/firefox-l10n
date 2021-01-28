@@ -84,6 +84,7 @@ login-item-new-login-title = Tembiapo ñepyrũ pyahu moheñói
 login-item-edit-button = Mbosako’i
 about-logins-login-item-remove-button = Mboguete
 login-item-origin-label = Ñanduti kundaharape
+login-item-tooltip-message = Emoñondivéke pe kundaharape ñanduti renda emoñepyrũha tembiapo rehe.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Puruhára réra
@@ -206,6 +207,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Emba’egueraha tembiapo ñepyrũ ha ñe’ẽñemi
 about-logins-confirm-export-dialog-message = Ñe’ẽñemi oñeñongatúta moñe’ẽrãrõ (techapyrã, BadP@ssw0rd) oimeraẽva ombojurujakuaáva marandurenda guerahaukapyre ikatu ohecha.
 about-logins-confirm-export-dialog-confirm-button = Emba’egueraha…
+about-logins-alert-import-title = Emba’eguerupáma
+about-logins-alert-import-message = Ehechapaite emba’egueruva’ekue
 confirm-discard-changes-dialog-title = ¿Emboyke moambue eñongatu’ỹva?
 confirm-discard-changes-dialog-message = Opaite ñemoambue oñeñongatu’ỹva oguepáta.
 confirm-discard-changes-dialog-confirm-button = Hejarei
@@ -267,3 +270,21 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV Kuatiaite
        *[other] CSV Marandurenda
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV Kuatiaite
+       *[other] TSV Marandurenda
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Emba’eguerupáma
+about-logins-import-dialog-done = Apopyre
+about-logins-import-dialog-error-title = Ojavy mba’egueru
+
+## Logins import report page
+
