@@ -8,6 +8,9 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = запазване на about:webrtc като
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -28,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Локален SDP
+about-webrtc-local-sdp-heading-offer = Локален SDP (Предложение)
+about-webrtc-local-sdp-heading-answer = Локален SDP (Отговор)
 about-webrtc-remote-sdp-heading = Отдалечен SDP
+about-webrtc-remote-sdp-heading-offer = Отдалечен SDP (Предложение)
+about-webrtc-remote-sdp-heading-answer = Отдалечен SDP (Отговор)
 
 ##
 
@@ -43,6 +50,11 @@ about-webrtc-rtp-stats-heading = Статистика на RTP
 about-webrtc-ice-state = Състояние на ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Статистика на ICE
+about-webrtc-ice-restart-count-label = Рестарта на ICE:
+about-webrtc-ice-rollback-count-label = Откази на ICE:
+about-webrtc-ice-pair-bytes-sent = Байта изпратени:
+about-webrtc-ice-pair-bytes-received = Байта получени:
+about-webrtc-ice-component-id = Идентификатор на компонент
 
 ##
 
@@ -69,11 +81,14 @@ about-webrtc-nominated = Номинирано
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Избрано
+about-webrtc-save-page-label = Запазване на страницата
 about-webrtc-debug-mode-msg-label = Режим на дебъгване
 about-webrtc-debug-mode-off-state-label = Активиране режим на дебъгване
 about-webrtc-debug-mode-on-state-label = Спиране режим на дебъгване
 about-webrtc-stats-heading = Статистика за сесията
+about-webrtc-stats-clear = Изчистване на историята
 about-webrtc-log-heading = Журнал на свързването
+about-webrtc-log-clear = Изчистване на журнала
 about-webrtc-log-show-msg = показване на журнал
     .title = щракнете, за да разширите раздела
 about-webrtc-log-hide-msg = скриване на журнал
@@ -93,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (зат�
 
 about-webrtc-local-candidate = Локален кандидат
 about-webrtc-remote-candidate = Отдалечен кандидат
+about-webrtc-raw-candidates-heading = Всички сурови кандидати
+about-webrtc-raw-local-candidate = Сурови местни кандидати
+about-webrtc-raw-remote-candidate = Сурови отдалечени кандидати
+about-webrtc-raw-cand-show-msg = показване сурови кандидати
+    .title = щракнете, за да разширите раздела
+about-webrtc-raw-cand-hide-msg = скриване сурови кандидати
+    .title = щракнете, за да свиете раздела
 about-webrtc-priority = Приоритет
 about-webrtc-fold-show-msg = подробности
     .title = щракнете, за да разширите раздела
@@ -112,6 +134,7 @@ about-webrtc-encoder-label = Кодер
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = страницата е запазена в: { $path }
 about-webrtc-debug-mode-off-state-msg = журналът на дебъгването може да бъде намерен в: { $path }
 about-webrtc-debug-mode-on-state-msg = активиран режим на дебъгване, журнал на дебъгването в: { $path }
 about-webrtc-aec-logging-off-state-msg = журналните файлове могат да бъдат намерени в: { $path }
@@ -123,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = журналните файлове м�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = колебания { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Забавилите се кандидати (дошли след отговора) за оцветени в синьо
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
