@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = Dynodiad PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP lleol
+about-webrtc-local-sdp-heading-offer = SDP lleol (Cynnig)
+about-webrtc-local-sdp-heading-answer = SDP lleol (Ateb)
 about-webrtc-remote-sdp-heading = SDP pell
+about-webrtc-remote-sdp-heading-offer = SDP pell (Cynnig)
+about-webrtc-remote-sdp-heading-answer = SDP pell (Ateb)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = Ailgychwyn ICE:
 about-webrtc-ice-rollback-count-label = Hen fersiynau ICE:
 about-webrtc-ice-pair-bytes-sent = Didau wedi'u hanfon:
 about-webrtc-ice-pair-bytes-received = Didau wedi'u derbyn:
+about-webrtc-ice-component-id = Enw'r Cydran
 
 ##
 
@@ -103,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (cau) { 
 
 about-webrtc-local-candidate = Ymgeisydd Lleol
 about-webrtc-remote-candidate = Ymgeisydd Pell
+about-webrtc-raw-candidates-heading = Pob Ymgeisydd Bras
+about-webrtc-raw-local-candidate = Ymgeisydd Lleol Bras
+about-webrtc-raw-remote-candidate = Ymgeisydd Pell Bras
+about-webrtc-raw-cand-show-msg = dangos ymgeiswyr bras
+    .title = cliciwch i ehangu'r adran
+about-webrtc-raw-cand-hide-msg = cuddio ymgeiswyr bras
+    .title = cliciwch i gau'r adran
 about-webrtc-priority = Blaenoriaeth
 about-webrtc-fold-show-msg = dangos manylion
     .title = cliciwch i ehangu'r adran
@@ -134,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = mae'r ffeiliau cofnod y cipio yn: { $pa
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Mae ymgeisydd diferu (yn cyrraedd ar ôl yr ateb) yn cael eu hamlygu mewn glas
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
