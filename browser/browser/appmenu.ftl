@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = 새 창
 appmenuitem-new-private-window =
     .label = 새 사생활 보호 창
+appmenuitem-passwords =
+    .label = 비밀번호
+appmenuitem-extensions-and-themes =
+    .label = 확장 기능 및 테마
+appmenuitem-find-in-page =
+    .label = 페이지에서 찾기…
+appmenuitem-more-tools =
+    .label = 더 많은 도구
+appmenuitem-exit =
+    .label = 종료
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = 설정
 
 ## Zoom and Fullscreen Controls
 
