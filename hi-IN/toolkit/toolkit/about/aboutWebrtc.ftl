@@ -153,7 +153,7 @@ about-webrtc-aec-logging-off-state-msg = कैप्चर लॉग फ़ा�
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
-about-webrtc-jitter-label = { " " }कँपन { $jitter }
+about-webrtc-jitter-label = कँपन { $jitter }
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
