@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Aj wawe' SDP (Rutzolixik tzij)
 about-webrtc-remote-sdp-heading = Näj SDP
 about-webrtc-remote-sdp-heading-offer = Näj SDP (Sujunïk)
 about-webrtc-remote-sdp-heading-answer = Näj SDP (Rutzolixik tzij)
+about-webrtc-sdp-history-heading = SDP Natab'äl
+about-webrtc-sdp-parsing-errors-heading = Taq Rusachoj SDP Ch'ob'oj
 
 ##
 
@@ -77,6 +79,11 @@ about-webrtc-type-remote = Näj
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = B'ina'an
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Cha'on
+about-webrtc-save-page-label = Tiyak Ruxaq
 about-webrtc-debug-mode-msg-label = Pa rub'eyal chojmirisanel
 about-webrtc-debug-mode-off-state-label = Titikirisäx pa rub'eyal chojmirisaxïk
 about-webrtc-debug-mode-on-state-label = Tiq'at ri rub'eyal chojmirisanïk
@@ -117,12 +124,48 @@ about-webrtc-fold-hide-msg = ke'ewäx ri taq rub'anikil
     .title = tapitz'a' richin nuk'öl ri' re peraj re'
 about-webrtc-decoder-label = Elesäy na'oj
 about-webrtc-encoder-label = Elesäy na'oj
+about-webrtc-show-tab-label = Tik'ut ruwi'
+about-webrtc-width-px = Ruwa (px)
+about-webrtc-height-px = Rupalem (px)
+about-webrtc-consecutive-frames = Tzeqelel taq Frames
+about-webrtc-time-elapsed = Q'ijul Ik'owinäq (s)
+about-webrtc-estimated-framerate = Ranin Framerib'äl Ajilan
+about-webrtc-rotation-degrees = Rusurik (retal)
+about-webrtc-first-frame-timestamp = Nab'ey-Ruframe K'ulunem Retal Q'ijul
+about-webrtc-last-frame-timestamp = Jun Kan Ruframe K'ulunem Retal Q'ijul
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Aj Wawe' K'ulunel SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Näq Rutaqik SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Xya'
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Man Xya' Ta
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = WebRTC taq Ajowab'äl Jikib'an Ruma Winäq
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Ruwäch Wanta' Q'ijun
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Etanel Ojqanem
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Titaq Ruwäch Wanta' (bytes/sec)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Tik'ul Ruwäch Wanta' (bytes/sec)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Nïm Runojisaxik (bytes/sec)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Rajlab'al chi kikojol Pisoj ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -149,6 +192,19 @@ about-webrtc-trickle-caption-msg = Ri cha'oxela' yeb'arb'öt (ye'apon chi rij ri
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Tijikib'äx Aj wawe' SDP pa ri retal q'ijul { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Tijikib'äx Näj SDP pa ri retal q'ijul { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Retal q'ijul { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
