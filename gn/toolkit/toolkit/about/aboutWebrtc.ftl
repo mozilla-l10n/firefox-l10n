@@ -30,7 +30,9 @@ about-webrtc-peerconnection-id-label = ID jeikekõiha:
 
 about-webrtc-sdp-heading = SPD
 about-webrtc-local-sdp-heading = SDP pypeguáva
+about-webrtc-local-sdp-heading-answer = SDP pypeguáva (Ñembohovái)
 about-webrtc-remote-sdp-heading = SDP okayguáva
+about-webrtc-remote-sdp-heading-answer = SDP okayguáva (Ñembohovái)
 
 ##
 
@@ -95,6 +97,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (oñembo
 ##
 
 about-webrtc-remote-candidate = Poravopyrã mombyrygua
+about-webrtc-raw-candidates-heading = Opavave oikoséva pe oĩháicha
+about-webrtc-raw-local-candidate = Oikoséva upepegua pe oĩháicha
+about-webrtc-raw-remote-candidate = Oikoséva okapegua pe oĩháicha
 about-webrtc-priority = Peteĩháva
 about-webrtc-encoder-label = Mopapapyha
 
@@ -121,6 +126,10 @@ about-webrtc-aec-logging-off-state-msg = marandurenda haipy japyhypyréva ikatu 
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Umi ytykýramo oikoséva (og̃uahẽ uperire ñembohováipe) ojeguerohory Hovy pe
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
