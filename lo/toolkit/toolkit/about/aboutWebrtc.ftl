@@ -46,6 +46,9 @@ about-webrtc-rtp-stats-heading = ສະຖິຕິຂອງ RTP
 about-webrtc-ice-state = ສະຖານະຂອງ ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ສະຖິຕິຂອງ ICE
+about-webrtc-ice-rollback-count-label = ຍ້ອນກັບ ICE:
+about-webrtc-ice-pair-bytes-sent = ໄບທ໌ທີ່ສົ່ງແລ້ວ:
+about-webrtc-ice-pair-bytes-received = ໄບທ໌ທີ່ໄດ້ຮັບ:
 
 ##
 
@@ -77,7 +80,9 @@ about-webrtc-debug-mode-msg-label = ໂຫມດດີບັກ
 about-webrtc-debug-mode-off-state-label = ເລີ່ມໂຫມດດີບັກ
 about-webrtc-debug-mode-on-state-label = ຢຸດໂຫມດດີບັກ
 about-webrtc-stats-heading = ສະຖິຕິຂອງແຊສຊັນນີ້
+about-webrtc-stats-clear = ລ້າງປະຫວັດ
 about-webrtc-log-heading = Log ຂອງການເຊື່ອມຕໍ່ນີ້
+about-webrtc-log-clear = ລຶບລັອກ
 about-webrtc-log-show-msg = ສະແດງ log
     .title = ຄລິກເພື່ອຂະຫຍາຍພາກສ່ວນນີ້
 about-webrtc-log-hide-msg = ເຊື່ອງ log
