@@ -82,8 +82,13 @@ about-webrtc-nominated = Nominated
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
 about-webrtc-save-page-label = שמירת דף
+about-webrtc-debug-mode-msg-label = מצב ניפוי שגיאות
+about-webrtc-debug-mode-off-state-label = הפעלת מצב ניפוי שגיאות
+about-webrtc-debug-mode-on-state-label = עצירת מצב ניפוי שגיאות
 about-webrtc-stats-heading = סטטיסטיקת הפעלה
+about-webrtc-stats-clear = ניקוי היסטוריה
 about-webrtc-log-heading = יומן קישוריות
+about-webrtc-log-clear = ניקוי יומן רישום
 about-webrtc-log-show-msg = הצגת יומן
     .title = click to expand this section
 about-webrtc-log-hide-msg = הסתרת יומן
@@ -131,6 +136,7 @@ about-webrtc-encoder-label = Encoder
 
 about-webrtc-save-page-msg = page saved to: { $path }
 about-webrtc-debug-mode-off-state-msg = trace log can be found at: { $path }
+about-webrtc-debug-mode-on-state-msg = מצב ניפוי שגיאות פעיל, יומן מעקב זמין במיקום: { $path }
 about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $path }
 
 ##
