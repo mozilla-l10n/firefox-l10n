@@ -153,6 +153,8 @@ about-webrtc-configuration-element-not-provided = No provisto
 about-webrtc-custom-webrtc-configuration-heading = Preferencias de WebRTC establecidas por el usuario
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ancho de banda estimado
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identificador de rastreo
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Enviar ancho de banda (bytes/seg)
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
