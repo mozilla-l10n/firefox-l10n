@@ -23,4 +23,9 @@ calendar-ics-file-import-duplicates =
         [one] Se ignoró un elemento porque ya existe en el calendario de destino.
        *[other] Se ignoraron { $duplicatesCount } elementos porque ya existen en el calendario de destino.
     }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] No se pudo importar un elemento. Consulte la Consola de errores para obtener más detalles.
+       *[other] No se pudieron importar { $errorsCount } elementos. Consulte la Consola de errores para obtener más detalles.
+    }
 calendar-ics-file-dialog-no-calendars = No hay calendarios que puedan importar eventos o tareas.
