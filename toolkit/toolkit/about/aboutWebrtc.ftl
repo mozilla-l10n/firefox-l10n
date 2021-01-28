@@ -14,20 +14,34 @@ about-webrtc-save-page-dialog-title = simpan about:webrtc sebagai
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-off-state-label = Mulakan Pengelogan AEC
+about-webrtc-aec-logging-on-state-label = Hentikan Pengelogan AEC
 
 ##
 
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = ID PeerConnection:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = SDP Lokal
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = Statistik RTP
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = Statistik ICE
 
 ##
 
@@ -42,9 +56,18 @@ about-webrtc-save-page-dialog-title = simpan about:webrtc sebagai
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Lokal
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Dipilih
+about-webrtc-debug-mode-msg-label = Mod Nyahpepijat
+about-webrtc-debug-mode-off-state-label = Mulakan Mod Nyahpepijat
+about-webrtc-stats-heading = Statistik Sesi
+about-webrtc-log-heading = Log Sambungan
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -58,6 +81,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ditutup
 
 ##
 
+about-webrtc-decoder-label = Penyahkod
+about-webrtc-encoder-label = Pengekod
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
