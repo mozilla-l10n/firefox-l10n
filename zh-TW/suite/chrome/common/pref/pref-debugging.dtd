@@ -7,6 +7,7 @@
 <!ENTITY pref.debugging.title "除錯">
 
 <!-- Render Debugging -->
+<!ENTITY debugRendering.label             "描繪">
 <!ENTITY debugXULBox.label                "對 XUL Box 除錯">
 <!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "停用 XUL 快取">
