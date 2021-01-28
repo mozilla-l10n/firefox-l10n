@@ -31,7 +31,13 @@ about-webrtc-peerconnection-id-label = Identificant PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
+about-webrtc-local-sdp-heading-offer = SDP local (Proposicion)
+about-webrtc-local-sdp-heading-answer = SDP local (Responsa)
 about-webrtc-remote-sdp-heading = SDP distant
+about-webrtc-remote-sdp-heading-offer = SDP distant (Proposicion)
+about-webrtc-remote-sdp-heading-answer = SDP distant (Responsa)
+about-webrtc-sdp-history-heading = Istoric SDP
+about-webrtc-sdp-parsing-errors-heading = Errors d’analisi SDP
 
 ##
 
@@ -50,6 +56,7 @@ about-webrtc-ice-restart-count-label = Reaviaments d'ICE:
 about-webrtc-ice-rollback-count-label = Versions precedentas d'ICE:
 about-webrtc-ice-pair-bytes-sent = Octets mandats:
 about-webrtc-ice-pair-bytes-received = Octets recebuts:
+about-webrtc-ice-component-id = ID del compausant
 
 ##
 
@@ -103,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (tampat)
 
 about-webrtc-local-candidate = Candidat local
 about-webrtc-remote-candidate = Candidat distant
+about-webrtc-raw-candidates-heading = Totes los candidats bruts
+about-webrtc-raw-local-candidate = Candidat brut local
+about-webrtc-raw-remote-candidate = Candidat brut alonhat
+about-webrtc-raw-cand-show-msg = mostrar los candidats bruts
+    .title = clicatz per desvolopar aquesta seccion
+about-webrtc-raw-cand-hide-msg = amagar los candidats bruts
+    .title = clicatz per reduire aquesta seccion
 about-webrtc-priority = Prioritat
 about-webrtc-fold-show-msg = afichar los detalhs
     .title = clicatz per desvolopar aquesta seccion
@@ -110,12 +124,48 @@ about-webrtc-fold-hide-msg = amagar los detalhs
     .title = clicatz per reduire aquesta seccion
 about-webrtc-decoder-label = Desencodador
 about-webrtc-encoder-label = Encodador
+about-webrtc-show-tab-label = Mostrar los onglets
+about-webrtc-width-px = Largor (px)
+about-webrtc-height-px = Nautor (px)
+about-webrtc-consecutive-frames = Imatges consecutius
+about-webrtc-time-elapsed = Temps passat
+about-webrtc-estimated-framerate = Imatges per segonda estimats
+about-webrtc-rotation-degrees = Rotacion (grases)
+about-webrtc-first-frame-timestamp = Orodatatge de recepcion del primièr imatge
+about-webrtc-last-frame-timestamp = Orodatatge de recepcion del darrièr imatge
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = SSRC de recepcion locala
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = SSRC de mandadís a distància
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Fornit
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Pas fornit
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Preferéncias utilizaire pel WebRTC
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Benda passanta estimada
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identificant de pista
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Benda passanta de mandadís (octet/sec)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Benda passanta de recepcion (octet/sec)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Marge maximal (octet/sec)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Relambi del simulador ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -134,10 +184,27 @@ about-webrtc-aec-logging-off-state-msg = los fichièrs de jornalizacion capturat
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Los candidats lents (qu’arriban aprèp la responsa) son mostrats amb un fons blau
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Definir SDP local a l’orodatatge { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Definir SDP distant a l’orodatatge { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Orodatatge { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
