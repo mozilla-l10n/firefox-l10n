@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokálny SDP
+about-webrtc-local-sdp-heading-offer = Lokálny SDP (Offer)
+about-webrtc-local-sdp-heading-answer = Lokálny SDP (Answer)
 about-webrtc-remote-sdp-heading = Vzdialený SDP
+about-webrtc-remote-sdp-heading-offer = Vzdialený SDP (Offer)
+about-webrtc-remote-sdp-heading-answer = Vzdialený SDP (Answer)
 
 ##
 
@@ -46,6 +50,11 @@ about-webrtc-rtp-stats-heading = Štatistiky RTP
 about-webrtc-ice-state = Stav ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Štatistiky ICE
+about-webrtc-ice-restart-count-label = Reštarty ICE:
+about-webrtc-ice-rollback-count-label = Rollbacky ICE:
+about-webrtc-ice-pair-bytes-sent = Odoslané bajty:
+about-webrtc-ice-pair-bytes-received = Prijaté bajty:
+about-webrtc-ice-component-id = ID komponentu
 
 ##
 
@@ -77,7 +86,9 @@ about-webrtc-debug-mode-msg-label = Režim ladenia
 about-webrtc-debug-mode-off-state-label = Spustiť režim ladenia
 about-webrtc-debug-mode-on-state-label = Zastaviť režim ladenia
 about-webrtc-stats-heading = Štatistiky relácie
+about-webrtc-stats-clear = Vymazať históriu
 about-webrtc-log-heading = Denník pripojenia
+about-webrtc-log-clear = Vymazať protokol
 about-webrtc-log-show-msg = zobraziť záznamy
     .title = kliknutím rozbalíte túto sekciu
 about-webrtc-log-hide-msg = skryť záznamy
@@ -97,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ukonče
 
 about-webrtc-local-candidate = Lokálny kandidát
 about-webrtc-remote-candidate = Vzdialený kandidát
+about-webrtc-raw-candidates-heading = All Raw Candidates
+about-webrtc-raw-local-candidate = Raw Local Candidate
+about-webrtc-raw-remote-candidate = Raw Remote Candidate
+about-webrtc-raw-cand-show-msg = zobraziť raw candidates
+    .title = kliknutím rozbalíte túto sekciu
+about-webrtc-raw-cand-hide-msg = skryť raw candidates
+    .title = kliknutím skryjete túto sekciu
 about-webrtc-priority = Priorita
 about-webrtc-fold-show-msg = zobraziť podrobnosti
     .title = kliknutím rozbalíte túto sekciu
@@ -104,6 +122,9 @@ about-webrtc-fold-hide-msg = skryť podrobnosti
     .title = kliknutím skryjete túto sekciu
 about-webrtc-decoder-label = Dekodér
 about-webrtc-encoder-label = Enkodér
+about-webrtc-width-px = Šírka (px)
+about-webrtc-height-px = Výška (px)
+about-webrtc-time-elapsed = Uplynutý čas (s)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -128,6 +149,10 @@ about-webrtc-aec-logging-off-state-msg = zachytené záznamy je možné nájsť 
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickled candidates (doručené po odpovedi) sú zvýraznené modrou
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
