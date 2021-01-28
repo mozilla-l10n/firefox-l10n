@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "高级">
 
 <!ENTITY systemPref.caption               "系统选项">
@@ -13,6 +13,7 @@
 <!ENTITY prefCheckDefault.caption         "系统集成">
 <!ENTITY prefCheckDefaultClient.label     "启动时检查默认应用程序设置">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
+
 
 <!ENTITY crashReports.caption             "崩溃报告程序">
 <!ENTITY submitCrashes.label              "提交崩溃报告">
