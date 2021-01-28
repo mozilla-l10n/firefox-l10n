@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = 로컬 SDP
+about-webrtc-local-sdp-heading-offer = 로컬 SDP (제공)
+about-webrtc-local-sdp-heading-answer = 로컬 SDP (답변)
 about-webrtc-remote-sdp-heading = 원격 SDP
+about-webrtc-remote-sdp-heading-offer = 원격 SDP (제공)
+about-webrtc-remote-sdp-heading-answer = 원격 SDP (답변)
 
 ##
 
