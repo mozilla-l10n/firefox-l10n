@@ -306,3 +306,7 @@ about-logins-import-dialog-error-no-logins-imported = 가져온 로그인이 없
 about-logins-import-dialog-error-learn-more = 더 알아보기
 about-logins-import-dialog-error-try-again = 다시 시도…
 about-logins-import-dialog-error-cancel = 취소
+
+## Logins import report page
+
+about-logins-import-report-page-title = 가져오기 요약 보고서
