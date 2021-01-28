@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Paikallinen SDP (Vastaus)
 about-webrtc-remote-sdp-heading = Etä-SDP
 about-webrtc-remote-sdp-heading-offer = Etä-SDP (Tarjous)
 about-webrtc-remote-sdp-heading-answer = Etä-SDP (Vastaus)
+about-webrtc-sdp-history-heading = SDP-historia
+about-webrtc-sdp-parsing-errors-heading = SDP-jäsennysvirheet
 
 ##
 
@@ -122,12 +124,45 @@ about-webrtc-fold-hide-msg = piilota tiedot
     .title = kutista napsauttamalla
 about-webrtc-decoder-label = Purkaja
 about-webrtc-encoder-label = Enkoodaaja
+about-webrtc-width-px = Leveys (px)
+about-webrtc-height-px = Korkeus (px)
+about-webrtc-consecutive-frames = Peräkkäiset ruudut
+about-webrtc-time-elapsed = Kulunut aika (s)
+about-webrtc-estimated-framerate = Arvioitu ruudun päivitys
+about-webrtc-rotation-degrees = Kierto (asteina)
+about-webrtc-first-frame-timestamp = Ensimmäisen ruudun vastaanoton aikaleima
+about-webrtc-last-frame-timestamp = Viimeisen ruudun vastaanoton aikaleima
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Paikallinen vastaanottava SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Lähettävä etä-SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Annettu
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Ei annettu
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Arvioitu kaistanleveys
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Raidan tunniste
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Lähetyksen kaistanleveys (tavua/s)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Vastaanottamisen kaistanleveys (tavua/s)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Enimmäistäyte (tavua/s)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Pakettien välinen viive ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +189,14 @@ about-webrtc-trickle-caption-msg = Vastauksen jälkeen saapuvat ehdokkaat (trick
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Asetettiin Paikallinen SDP ajanhetkellä { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Asetettiin Etä-SDP ajanhetkellä { NUMBER($timestamp, useGrouping: "false") }
 
 ##
 
