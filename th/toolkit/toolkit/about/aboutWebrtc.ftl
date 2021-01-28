@@ -36,6 +36,9 @@ about-webrtc-rtp-stats-heading = สถิติ RTP
 about-webrtc-ice-state = สถานะ ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = สถิติ ICE
+about-webrtc-ice-pair-bytes-sent = จำนวนไบต์ที่ส่ง:
+about-webrtc-ice-pair-bytes-received = จำนวนไบต์ที่รับ:
+about-webrtc-ice-component-id = ID ส่วนประกอบ
 
 ##
 
@@ -60,6 +63,13 @@ about-webrtc-debug-mode-msg-label = โหมดดีบั๊ก
 about-webrtc-debug-mode-off-state-label = เริ่มโหมดดีบั๊ก
 about-webrtc-debug-mode-on-state-label = หยุดโหมดดีบั๊ก
 about-webrtc-stats-heading = สถิติวาระ
+about-webrtc-stats-clear = ล้างประวัติ
+about-webrtc-log-heading = รายการบันทึกการเชื่อมต่อ
+about-webrtc-log-clear = ล้างรายการบันทึก
+about-webrtc-log-show-msg = แสดงรายการบันทึก
+    .title = คลิกเพื่อขยายส่วนนี้
+about-webrtc-log-hide-msg = ซ่อนรายการบันทึก
+    .title = คลิกเพื่อยุบส่วนนี้
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
