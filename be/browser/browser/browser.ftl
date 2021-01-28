@@ -348,6 +348,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Закрыць
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -508,6 +511,9 @@ pointerlock-warning-no-domain = Гэты дакумент кіруе вашым 
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Даведацца больш
+    .accesskey = Д
 
 ## Bookmarks panels, menus and toolbar
 
