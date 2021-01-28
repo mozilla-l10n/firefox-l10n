@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Cửa sổ mới
 appmenuitem-new-private-window =
     .label = Cửa sổ riêng tư mới
+appmenuitem-passwords =
+    .label = Mật khẩu
+appmenuitem-extensions-and-themes =
+    .label = Tiện ích mở rộng và chủ đề
+appmenuitem-find-in-page =
+    .label = Tìm trong trang…
+appmenuitem-more-tools =
+    .label = Thêm công cụ
+appmenuitem-exit =
+    .label = Thoát
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Cài đặt
 
 ## Zoom and Fullscreen Controls
 

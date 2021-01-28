@@ -306,3 +306,7 @@ about-logins-import-dialog-error-no-logins-imported = Không có thông tin đă
 about-logins-import-dialog-error-learn-more = Tìm hiểu thêm
 about-logins-import-dialog-error-try-again = Thử lại…
 about-logins-import-dialog-error-cancel = Hủy bỏ
+
+## Logins import report page
+
+about-logins-import-report-page-title = Báo cáo tóm tắt nhập
