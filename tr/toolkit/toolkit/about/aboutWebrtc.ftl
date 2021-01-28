@@ -31,7 +31,13 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Yerel SDP
+about-webrtc-local-sdp-heading-offer = Yerel SDP (Teklif)
+about-webrtc-local-sdp-heading-answer = Yerel SDP (Yanıt)
 about-webrtc-remote-sdp-heading = Uzak SDP
+about-webrtc-remote-sdp-heading-offer = Uzak SDP (Teklif)
+about-webrtc-remote-sdp-heading-answer = Uzak SDP (Yanıt)
+about-webrtc-sdp-history-heading = SDP geçmişi
+about-webrtc-sdp-parsing-errors-heading = SDP ayrıştırma hataları
 
 ##
 
@@ -46,6 +52,11 @@ about-webrtc-rtp-stats-heading = RTP istatistikleri
 about-webrtc-ice-state = ICE durumu
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE istatistikleri
+about-webrtc-ice-restart-count-label = ICE yeniden başlatma:
+about-webrtc-ice-rollback-count-label = ICE geri döndürme:
+about-webrtc-ice-pair-bytes-sent = Gönderilen bayt:
+about-webrtc-ice-pair-bytes-received = Alınan bayt:
+about-webrtc-ice-component-id = Bileşen kimliği
 
 ##
 
@@ -77,7 +88,9 @@ about-webrtc-debug-mode-msg-label = Hata ayıklama modu
 about-webrtc-debug-mode-off-state-label = Hata ayıklama modunu başlat
 about-webrtc-debug-mode-on-state-label = Hata ayıklama modunu durdur
 about-webrtc-stats-heading = Oturum istatistikleri
+about-webrtc-stats-clear = Geçmişi temizle
 about-webrtc-log-heading = Bağlantı günlüğü
+about-webrtc-log-clear = Günlüğü temizle
 about-webrtc-log-show-msg = günlüğü göster
     .title = bu bölümü genişletmek için tıklayın
 about-webrtc-log-hide-msg = günlüğü gizle
@@ -96,6 +109,14 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (kapatı
 ##
 
 about-webrtc-local-candidate = Yerel aday
+about-webrtc-remote-candidate = Uzak aday
+about-webrtc-raw-candidates-heading = Tüm ham adaylar
+about-webrtc-raw-local-candidate = Ham yerel aday
+about-webrtc-raw-remote-candidate = Ham uzak aday
+about-webrtc-raw-cand-show-msg = ham adayları göster
+    .title = bu bölümü genişletmek için tıklayın
+about-webrtc-raw-cand-hide-msg = ham adayları gizle
+    .title = bu bölümü daraltmak için tıklayın
 about-webrtc-priority = Öncelik
 about-webrtc-fold-show-msg = ayrıntıları göster
     .title = bu bölümü genişletmek için tıklayın
@@ -103,12 +124,43 @@ about-webrtc-fold-hide-msg = ayrıntıları gizle
     .title = bu bölümü daraltmak için tıklayın
 about-webrtc-decoder-label = Çözücü
 about-webrtc-encoder-label = Kodlayıcı
+about-webrtc-show-tab-label = Sekmeyi göster
+about-webrtc-consecutive-frames = Ardışık kareler
+about-webrtc-time-elapsed = Geçen süre (sn)
+about-webrtc-rotation-degrees = Rotasyon (derece)
+about-webrtc-first-frame-timestamp = İlk kare alım zaman damgası
+about-webrtc-last-frame-timestamp = Son kare alım zaman damgası
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Yerel alıcı SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Uzak gönderici SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Sağlandı
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Sağlanmadı
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Tahmini bant genişliği
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = İz kimliği
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Gönderme bant genişliği (bayt/sn)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Alma bant genişliği (bayt/sn)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maksimum dolgu (bayt/sn)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Pacer gecikmesi ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -127,10 +179,27 @@ about-webrtc-aec-logging-off-state-msg = yakalanan günlük dosyaları şurada b
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Kararsızlık { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Sızan (yanıttan sonra gelen) adaylar mavi ile işaretlenmiştir
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = { NUMBER($timestamp, useGrouping: "false") } zaman damgasıyla Yerel SDP ayarlandı
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = { NUMBER($timestamp, useGrouping: "false") } zaman damgasıyla Uzak SDP ayarlandı
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Zaman damgası { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
