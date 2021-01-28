@@ -37,6 +37,7 @@ about-webrtc-remote-sdp-heading = SDP distant
 about-webrtc-remote-sdp-heading-offer = SDP distant (Proposition)
 about-webrtc-remote-sdp-heading-answer = SDP distant (Réponse)
 about-webrtc-sdp-history-heading = Historique SDP
+about-webrtc-sdp-parsing-errors-heading = Erreurs d’analyse SDP
 
 ##
 
@@ -152,6 +153,14 @@ about-webrtc-configuration-element-not-provided = Non fourni
 about-webrtc-custom-webrtc-configuration-heading = Préférences WebRTC définies par l’utilisateur ou l’utilisatrice
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Numéro de piste
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Débit montant (octets/s)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Débit descendant (octets/s)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Bourrage maximal (octets/s)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Délai d’espacement (ms)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
