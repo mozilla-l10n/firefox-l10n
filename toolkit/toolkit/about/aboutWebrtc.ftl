@@ -54,6 +54,7 @@ about-webrtc-ice-restart-count-label = Επανεκκινήσεις ICE:
 about-webrtc-ice-rollback-count-label = Ακυρώσεις ICE:
 about-webrtc-ice-pair-bytes-sent = Απεσταλμένα bytes:
 about-webrtc-ice-pair-bytes-received = Ληφθέντα bytes:
+about-webrtc-ice-component-id = Αναγνωριστικό στοιχείου
 
 ##
 
@@ -107,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (έκλ�
 
 about-webrtc-local-candidate = Τοπικός υποψήφιος
 about-webrtc-remote-candidate = Απομακρυσμένος υποψήφιος
+about-webrtc-raw-candidates-heading = Όλοι οι ανεπεξέργαστοι υποψήφιοι
+about-webrtc-raw-local-candidate = Ανεπεξέργαστος τοπικός υποψήφιος
+about-webrtc-raw-remote-candidate = Ανεπεξέργαστος απομακρυσμένος υποψήφιος
+about-webrtc-raw-cand-show-msg = εμφάνιση ανεπεξέργαστων υποψήφιων
+    .title = κάντε κλικ για επέκταση ενότητας
+about-webrtc-raw-cand-hide-msg = απόκρυψη ανεπεξέργαστων υποψήφιων
+    .title = κάντε κλικ για σύμπτυξη ενότητας
 about-webrtc-priority = Προτεραιότητα
 about-webrtc-fold-show-msg = εμφάνιση λεπτομερειών
     .title = κάντε κλικ για επέκταση ενότητας
@@ -138,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής 
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Διακύμανση { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Οι αργοί υποψήφιοι (που φθάνουν μετά από απάντηση) επισημαίνονται με μπλε
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
