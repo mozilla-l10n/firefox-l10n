@@ -46,6 +46,8 @@ about-webrtc-rtp-stats-heading = RTP-statistikker
 about-webrtc-ice-state = ICE-tilstand
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE-statistikker
+about-webrtc-ice-restart-count-label = ICE-genstarter:
+about-webrtc-ice-rollback-count-label = ICE-tilbagerulninger:
 
 ##
 
@@ -60,6 +62,8 @@ about-webrtc-ice-stats-heading = ICE-statistikker
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Lokal
+about-webrtc-type-remote = Fjern
 
 ##
 
@@ -71,7 +75,10 @@ about-webrtc-nominated = Nomineret
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valgt
 about-webrtc-save-page-label = Gem side
+about-webrtc-stats-heading = Sessionsstatistik
+about-webrtc-stats-clear = Ryd historik
 about-webrtc-log-heading = Forbindelses-log
+about-webrtc-log-clear = Ryd log
 about-webrtc-log-hide-msg = skjul log
     .title = klik for at sammenklappe denne sektion
 
