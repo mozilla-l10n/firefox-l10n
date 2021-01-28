@@ -320,3 +320,7 @@ about-logins-import-dialog-error-no-logins-imported = Жоден пароль н
 about-logins-import-dialog-error-learn-more = Дізнатися більше
 about-logins-import-dialog-error-try-again = Спробувати знову…
 about-logins-import-dialog-error-cancel = Скасувати
+
+## Logins import report page
+
+about-logins-import-report-page-title = Звіт про імпорт
