@@ -84,6 +84,7 @@ about-webrtc-debug-mode-off-state-label = Почати режим зневадж
 about-webrtc-debug-mode-on-state-label = Припинити режим зневадження
 about-webrtc-stats-heading = Статистика сеансу
 about-webrtc-log-heading = Журнал з’єднання
+about-webrtc-log-clear = Очистити журнал
 about-webrtc-log-show-msg = показати журнал
     .title = натисніть, щоб розгорнути цю секцію
 about-webrtc-log-hide-msg = приховати журнал
