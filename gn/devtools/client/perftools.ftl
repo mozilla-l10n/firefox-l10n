@@ -43,9 +43,16 @@ perftools-status-restart-required = Emoñepyrũjey kundahára embojuruja hag̃ua
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
 perftools-request-to-stop-profiler = Ejoko ñeñongatu
+perftools-request-to-get-profile-and-stop-profiler = Ejapyhy pe mba’ete
 
 ##
 
+perftools-button-start-recording = Eñepyrũ ñeñongatu
+perftools-button-capture-recording = Ejapyhy ñeñongatu
+perftools-button-cancel-recording = Eheja ñeñongatu
+perftools-button-save-settings = Eñongatu ñemboheko ha ejevy
+perftools-button-restart = Moñepyrũjey
+perftools-button-add-directory = Embojuaju marandurenda’aty
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
