@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = ID de PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
+about-webrtc-local-sdp-heading-offer = SDP local (Ofrir)
+about-webrtc-local-sdp-heading-answer = SDP local (Respuesta)
 about-webrtc-remote-sdp-heading = SDP remoto
+about-webrtc-remote-sdp-heading-offer = SDP remoto (Ofrir)
+about-webrtc-remote-sdp-heading-answer = SDP remoto (Respuesta)
 
 ##
 
@@ -48,6 +52,9 @@ about-webrtc-ice-state = Estau d'ICE
 about-webrtc-ice-stats-heading = Estatisticas d'ICE
 about-webrtc-ice-restart-count-label = reinicios d'ICE:
 about-webrtc-ice-rollback-count-label = rollbacks d'ICE:
+about-webrtc-ice-pair-bytes-sent = Bytes ninviaus:
+about-webrtc-ice-pair-bytes-received = Bytes recibius:
+about-webrtc-ice-component-id = ID de componente
 
 ##
 
@@ -101,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zarrau)
 
 about-webrtc-local-candidate = Candidato local
 about-webrtc-remote-candidate = Candidato remoto
+about-webrtc-raw-candidates-heading = Totz los candidatos crudos
+about-webrtc-raw-local-candidate = Candidato local crudo
+about-webrtc-raw-remote-candidate = Candidato remoto crudo
+about-webrtc-raw-cand-show-msg = amostrar los candidatos crudos
+    .title = fe clic ta ixamplar ista sección
+about-webrtc-raw-cand-hide-msg = amagar los candidatos crudos
+    .title = fe clic pa reducir ista sección
 about-webrtc-priority = Prioridat
 about-webrtc-fold-show-msg = amostrar os detalles
     .title = fe clic ta ixamplar ista sección
@@ -132,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = os fichers de rechistro capturaus se tr
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Los candidatos lentos (que arriban dimpués d'a victoria) se realizan en azul
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
