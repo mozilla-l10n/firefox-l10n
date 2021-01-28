@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = Identifiant PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
+about-webrtc-local-sdp-heading-offer = SDP local (Proposition)
+about-webrtc-local-sdp-heading-answer = SDP local (Réponse)
 about-webrtc-remote-sdp-heading = SDP distant
+about-webrtc-remote-sdp-heading-offer = SDP distant (Proposition)
+about-webrtc-remote-sdp-heading-answer = SDP distant (Réponse)
 
 ##
 
@@ -48,6 +52,8 @@ about-webrtc-ice-state = État ICE
 about-webrtc-ice-stats-heading = Statistiques ICE
 about-webrtc-ice-restart-count-label = Redémarrages ICE:
 about-webrtc-ice-rollback-count-label = Restaurations ICE:
+about-webrtc-ice-pair-bytes-sent = Octets envoyés:
+about-webrtc-ice-pair-bytes-received = Octets reçus:
 
 ##
 
@@ -81,6 +87,7 @@ about-webrtc-debug-mode-on-state-label = Arrêter le mode débogage
 about-webrtc-stats-heading = Statistiques de session
 about-webrtc-stats-clear = Effacer l’historique
 about-webrtc-log-heading = Historique de connexion
+about-webrtc-log-clear = Effacer l’historique
 about-webrtc-log-show-msg = afficher l’historique
     .title = cliquer pour développer cette section
 about-webrtc-log-hide-msg = masquer l’historique
@@ -107,12 +114,20 @@ about-webrtc-fold-hide-msg = masquer les détails
     .title = cliquer pour réduire cette section
 about-webrtc-decoder-label = Décodeur
 about-webrtc-encoder-label = Encodeur
+about-webrtc-show-tab-label = Afficher l’onglet
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Préférences WebRTC définies par l’utilisateur ou l’utilisatrice
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Numéro de piste
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -135,6 +150,11 @@ about-webrtc-jitter-label = Gigue { $jitter }
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Horodatage { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
