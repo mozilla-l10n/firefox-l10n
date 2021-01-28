@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = spremi about:webrtc kao
 about-webrtc-aec-logging-msg-label = AEC zapisnik
 about-webrtc-aec-logging-off-state-label = Započni AEC zapisnik
 about-webrtc-aec-logging-on-state-label = Zaustavi AEC zapisnik
+about-webrtc-aec-logging-on-state-msg = AEC zapisnik aktivan (razgovaraj s pozivateljem par minuta i zatim zaustavi snimanje)
 
 ##
 
@@ -30,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokalni SDP
+about-webrtc-local-sdp-heading-offer = Lokalni SDP (Ponuda)
+about-webrtc-local-sdp-heading-answer = Lokalni SDP (Odgovor)
 about-webrtc-remote-sdp-heading = Udaljeni SDP
+about-webrtc-remote-sdp-heading-offer = Udaljeni SDP (Ponuda)
+about-webrtc-remote-sdp-heading-answer = Udaljeni SDP (Odgovor)
 
 ##
 
@@ -49,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE ponovno pokretanje:
 about-webrtc-ice-rollback-count-label = ICE povrati na staro:
 about-webrtc-ice-pair-bytes-sent = Poslano bajtova:
 about-webrtc-ice-pair-bytes-received = Primljeno bajtova:
+about-webrtc-ice-component-id = ID komponente
 
 ##
 
@@ -82,6 +88,11 @@ about-webrtc-debug-mode-on-state-label = Zaustavi debug način rada
 about-webrtc-stats-heading = Statistika sesije
 about-webrtc-stats-clear = Izbriši povijest
 about-webrtc-log-heading = Zapisnik veze
+about-webrtc-log-clear = Izbriši zapisnik
+about-webrtc-log-show-msg = prikaži zapisnik
+    .title = klikni za rasklapanje ovog odjeljka
+about-webrtc-log-hide-msg = sakrij zapisnik
+    .title = klikni za sklapanje ovog odjeljka
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,13 +109,30 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zatvore
 about-webrtc-local-candidate = Lokalni kandidat
 about-webrtc-remote-candidate = Udaljeni kandidat
 about-webrtc-priority = Prioritet
+about-webrtc-fold-show-msg = prikaži detalje
+    .title = klikni za rasklapanje ovog odjeljka
+about-webrtc-fold-hide-msg = sakrij detalje
+    .title = klikni za sklapanje ovog odjeljka
 about-webrtc-decoder-label = Dekoder
+about-webrtc-encoder-label = Koder
+about-webrtc-width-px = Širina (px)
+about-webrtc-height-px = Visina (px)
+about-webrtc-consecutive-frames = Uzastopni okviri
+about-webrtc-time-elapsed = Proteklo vrijeme (s)
+about-webrtc-estimated-framerate = Procijenjena brzina okvira
+about-webrtc-rotation-degrees = Okretanje (u stupnjevima)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Zadano
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Nije zadano
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
