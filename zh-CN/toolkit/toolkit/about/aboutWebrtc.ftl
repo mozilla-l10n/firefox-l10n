@@ -151,6 +151,21 @@ about-webrtc-configuration-element-provided = 提供
 about-webrtc-configuration-element-not-provided = 不提供
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC 用户设置项
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = 估计带宽
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = 轨道标识符
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = 发送带宽（字节 / 秒）
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = 接收带宽（字节 / 秒）
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = 最大填补数据（字节 / 秒）
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = 间隔时间（ms）
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = 往返时延（RTT | ms）
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
