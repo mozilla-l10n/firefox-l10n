@@ -133,6 +133,10 @@ about-webrtc-debug-mode-on-state-msg = mod de depanare activ, jurnalul de urmăr
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Candidații prelingătoare (sosite după răspuns) sunt evidențiate în albastru
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
