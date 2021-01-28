@@ -31,7 +31,9 @@ about-webrtc-peerconnection-id-label = পিয়ারকানেকশন আ�
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = লোকাল SDP
+about-webrtc-local-sdp-heading-offer = লোকাল SDP (প্রস্তাব)
 about-webrtc-remote-sdp-heading = দূরবর্তী SDP
+about-webrtc-remote-sdp-heading-offer = দূরবর্তী SDP (প্রস্তাব)
 
 ##
 
@@ -50,6 +52,7 @@ about-webrtc-ice-restart-count-label = ICE পুনঃচালু করুন
 about-webrtc-ice-rollback-count-label = ICE রোলব্যাক:
 about-webrtc-ice-pair-bytes-sent = প্রেরিত বাইট:
 about-webrtc-ice-pair-bytes-received = প্রাপ্ত বাইট:
+about-webrtc-ice-component-id = কম্পোনেন্ট ID
 
 ##
 
@@ -129,6 +132,7 @@ about-webrtc-encoder-label = ইনকোডার
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = { $path } এ পাতা সংরক্ষণ হবে
 about-webrtc-debug-mode-off-state-msg = { $path } তে ট্রেস লগ পাওয়া যাবে
 about-webrtc-debug-mode-on-state-msg = ডিবাগ মোড সক্রিয়, ট্রেস লগ এখানে: { $path }
 about-webrtc-aec-logging-off-state-msg = ক্যাপচার করা লগ ফাইল গুলি এখানে পাওয়া যাবে: { $path }
