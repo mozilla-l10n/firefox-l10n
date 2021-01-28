@@ -31,7 +31,9 @@ about-webrtc-peerconnection-id-label = PeerConnection شناخت:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = مقامی SDP
+about-webrtc-local-sdp-heading-answer = مقامی SDP (جواب)
 about-webrtc-remote-sdp-heading = بعید SDP
+about-webrtc-remote-sdp-heading-answer = بعید SDP (جواب)
 
 ##
 
@@ -48,6 +50,8 @@ about-webrtc-ice-state = ICE حالت
 about-webrtc-ice-stats-heading = ICE شماریات
 about-webrtc-ice-restart-count-label = ICE دوباره شروع کریں:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
+about-webrtc-ice-pair-bytes-sent = بائیٹس بھیج دئیے گیے:
+about-webrtc-ice-pair-bytes-received = بائیٹس وصول پائے:
 
 ##
 
