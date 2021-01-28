@@ -317,3 +317,7 @@ about-logins-import-dialog-error-no-logins-imported = Nem lettek bejelentkezése
 about-logins-import-dialog-error-learn-more = További tudnivalók
 about-logins-import-dialog-error-try-again = Próbálja újra…
 about-logins-import-dialog-error-cancel = Mégse
+
+## Logins import report page
+
+about-logins-import-report-page-title = Import összefoglaló jelentés
