@@ -311,8 +311,13 @@ about-logins-import-dialog-error-file-format-title = Problema de formato de arch
 about-logins-import-dialog-error-file-format-description = Cabeceras de columna incorrectas o faltantes. Asegurate de que el archivo incluya columnas para nombre de usuario, contraseña y URL.
 about-logins-import-dialog-error-file-permission-title = No se puede leer el archivo
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } no tiene permiso para leer el archivo. Probá cambiando los permisos del archivo.
+about-logins-import-dialog-error-unable-to-read-title = No se puede analizar el archivo
 about-logins-import-dialog-error-unable-to-read-description = Asegurate de seleccionar un archivo CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = No se importaron inicios de sesión
 about-logins-import-dialog-error-learn-more = Conocer más
 about-logins-import-dialog-error-try-again = Intentar de nuevo...
 about-logins-import-dialog-error-cancel = Cancelar
+
+## Logins import report page
+
+about-logins-import-report-page-title = Importar informe de resumen
