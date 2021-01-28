@@ -125,6 +125,7 @@ about-webrtc-fold-show-msg = 显示详细信息
 about-webrtc-fold-hide-msg = 隐藏详细信息
     .title = 点击折叠此段
 about-webrtc-dropped-frames-label = 丢帧数：
+about-webrtc-discarded-packets-label = 丢包数：
 about-webrtc-decoder-label = 解码器
 about-webrtc-encoder-label = 编码器
 about-webrtc-show-tab-label = 显示标签页
@@ -169,6 +170,11 @@ about-webrtc-pacer-delay-ms = 间隔时间（ms）
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = 往返时延（RTT | ms）
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = 视频帧统计信息 - MediaStreamTrack ID：{ $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -182,6 +188,27 @@ about-webrtc-aec-logging-off-state-msg = 捕捉到的日志文件在这里: { $p
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+       *[other] 已收到 { $packets } 个包
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+       *[other] 已丢弃 { $packets } 个包
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+       *[other] 已发送 { $packets } 个包
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
