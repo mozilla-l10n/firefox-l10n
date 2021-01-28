@@ -46,6 +46,8 @@ about-webrtc-rtp-stats-heading = RTP గణాంకాలు
 about-webrtc-ice-state = ICE స్థితి
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE గణాంకాలు
+about-webrtc-ice-restart-count-label = ICE పునఃప్రారంభం:
+about-webrtc-ice-rollback-count-label = ICE ఉపసంహరణ:
 
 ##
 
@@ -76,6 +78,7 @@ about-webrtc-save-page-label = పేజీని భద్రపరచు
 about-webrtc-debug-mode-msg-label = డీబగ్ రీతి
 about-webrtc-debug-mode-off-state-label = డీబగ్ రీతి ప్రారంభించు
 about-webrtc-debug-mode-on-state-label = డీబగ్ రీతిని ఆపు
+about-webrtc-stats-heading = సెషన్ గణాంకాలు
 about-webrtc-log-heading = అనుసంధానాల చిట్టా
 about-webrtc-log-show-msg = చిట్టాను చూపించు
     .title = ఈ విభాగాన్ని విస్తరించడానికి నొక్కండి
