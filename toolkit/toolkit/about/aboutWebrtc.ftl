@@ -1,0 +1,141 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### Localization for about:webrtc, a troubleshooting and diagnostic page
+### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
+
+# The text "WebRTC" is a proper noun and should not be translated.
+about-webrtc-document-title = WebRTC ներքին
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = պահել about:webrtc-ը որպես
+
+## AEC is an abbreviation for Acoustic Echo Cancellation.
+
+about-webrtc-aec-logging-msg-label = AEC արձանագրում
+about-webrtc-aec-logging-off-state-label = Սկսել AEC արձանագրումը
+about-webrtc-aec-logging-on-state-label = Կանգնեցնել AEC արձանագրումը
+about-webrtc-aec-logging-on-state-msg = AEC արձանագրումը ակտիվ է
+
+##
+
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = PeerConnection ID:
+
+## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
+## See http://wikipedia.org/wiki/Session_Description_Protocol
+
+about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = Տեղային SDP
+about-webrtc-remote-sdp-heading = Հեռակա SDP
+
+##
+
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = RTP վիճակներ
+
+## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
+## is an IETF protocol, and should not normally be translated.
+
+about-webrtc-ice-state = ICE վիճակ
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = ICE վիճակներ
+about-webrtc-ice-restart-count-label = ICE վերագործարկումներ:
+about-webrtc-ice-rollback-count-label = ICE դարձումներ:
+
+##
+
+
+## "Avg." is an abbreviation for Average. These are used as data labels.
+
+
+##
+
+
+## These adjectives are used to label a line of statistics collected for a peer
+## connection. The data represents either the local or remote end of the
+## connection.
+
+about-webrtc-type-local = Տեղային
+about-webrtc-type-remote = Հեռակա
+
+##
+
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = Նշանակված
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Նշված
+about-webrtc-save-page-label = Պահպանել էջը
+about-webrtc-debug-mode-msg-label = Վրիպազերծման կերպ
+about-webrtc-debug-mode-off-state-label = Վրիպազերծման կերպ
+about-webrtc-debug-mode-on-state-label = Կանգնեցնել վրիպազերծումը
+about-webrtc-stats-heading = Աշխատաշրջանի վիճակագրություն
+about-webrtc-stats-clear = Մաքրել պատմությունը
+about-webrtc-log-heading = Կապակցման մատյան
+about-webrtc-log-clear = Մաքրել մատյանը
+about-webrtc-log-show-msg = ցուցադրել մատյանը
+    .title = սեղմեք՝ ա/շրջանը ընդարձակելու համար
+about-webrtc-log-hide-msg = թաքցնել մատյանը
+    .title = սեղմեք՝ ա/շրջանը կոծկելու համար
+
+## These are used to display a header for a PeerConnection.
+## Variables:
+##  $browser-id (Number) - A numeric id identifying the browser tab for the PeerConnection.
+##  $id (String) - A globally unique identifier for the PeerConnection.
+##  $url (String) - The url of the site which opened the PeerConnection.
+##  $now (Date) - The JavaScript timestamp at the time the report was generated.
+
+about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (փակված) { $now }
+
+##
+
+about-webrtc-local-candidate = Տեղային թեկնածու
+about-webrtc-remote-candidate = Հեռակա թեկնածու
+about-webrtc-priority = Առաջնահերթ-ը
+about-webrtc-fold-show-msg = մանրամասն
+    .title = սեղմեք՝ ա/շրջանը ընդարձակելու համար
+about-webrtc-fold-hide-msg = թաքցնել մանրամասները
+    .title = սեղմեք՝ ա/շրջանը կոծկելու համար
+about-webrtc-decoder-label = Ապայլագրիչ
+about-webrtc-encoder-label = Այլագրիչ
+
+## SSRCs are identifiers that represent endpoints in an RTP stream
+
+
+##
+
+
+## These are paths used for saving the about:webrtc page or log files so
+## they can be attached to bug reports.
+## Variables:
+##  $path (String) - The path to which the file is saved.
+
+about-webrtc-save-page-msg = էջը պահպանվել է՝ { $path }
+about-webrtc-debug-mode-off-state-msg = հետևելու մատյանը կարող է գտնվել՝ { $path }
+about-webrtc-debug-mode-on-state-msg = վրիպազերծման կերպը ակտիվ է, հետևելու մատյանը՝ { $path }
+about-webrtc-aec-logging-off-state-msg = մատյանի կորզված ֆայլերը այստեղ են՝ { $path }
+
+##
+
+# Jitter is the variance in the arrival time of packets.
+# See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
+# Variables:
+#   $jitter (Number) - The jitter.
+about-webrtc-jitter-label = Jitter { $jitter }
+
+## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
+## See http://wikipedia.org/wiki/Session_Description_Protocol
+
+
+##
+
