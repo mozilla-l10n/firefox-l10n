@@ -36,6 +36,7 @@ about-webrtc-local-sdp-heading-answer = Տեղային SDP (Պատասխան)
 about-webrtc-remote-sdp-heading = Հեռակա SDP
 about-webrtc-remote-sdp-heading-offer = Հեռակա SDP (Առաջարկ)
 about-webrtc-remote-sdp-heading-answer = Հեռակա SDP (Պատասխան)
+about-webrtc-sdp-history-heading = SDP պատմություն
 
 ##
 
@@ -122,9 +123,21 @@ about-webrtc-fold-hide-msg = թաքցնել մանրամասները
     .title = սեղմեք՝ ա/շրջանը կոծկելու համար
 about-webrtc-decoder-label = Ապայլագրիչ
 about-webrtc-encoder-label = Այլագրիչ
+about-webrtc-width-px = Լայնությունը (px)
+about-webrtc-height-px = Բարձրություն (px)
+about-webrtc-consecutive-frames = Հաջորդական շրջանակներ
+about-webrtc-time-elapsed = Ժամանակ է մնացել (վ)
+about-webrtc-estimated-framerate = Կադրերի մոտավոր հաճախականություն
+about-webrtc-rotation-degrees = Պտտում (աստիճան)
+about-webrtc-first-frame-timestamp = Առաջին շրջանակի ընդունման ժամադրոշմ
+about-webrtc-last-frame-timestamp = Վերջին շրջանակի ընդունման ժամադրոշմ
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Տեղային ստացող SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Հեռակա ուղարկվող SSRC
 
 ##
 
@@ -146,10 +159,22 @@ about-webrtc-aec-logging-off-state-msg = մատյանի կորզված ֆայլ�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Հնարավոր թեկնածուները (գալիս են պատասխանից հետո) ընդգծված են երկնագույն-ում
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Կայել Տեղային SDP-ը { NUMBER($timestamp, useGrouping: "false") } ժամադրոշմում
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Կայել Հեռակա SDP-ը { NUMBER($timestamp, useGrouping: "false") } ժամադրոշմում
 
 ##
 
