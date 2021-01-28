@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection nimaläj b'i'aj:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Aj wawe' SDP
+about-webrtc-local-sdp-heading-offer = Aj wawe' SDP (Sujunïk)
+about-webrtc-local-sdp-heading-answer = Aj wawe' SDP (Rutzolixik tzij)
 about-webrtc-remote-sdp-heading = Näj SDP
+about-webrtc-remote-sdp-heading-offer = Näj SDP (Sujunïk)
+about-webrtc-remote-sdp-heading-answer = Näj SDP (Rutzolixik tzij)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE titikirisäx chik:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
 about-webrtc-ice-pair-bytes-sent = Taq wayt etaqon:
 about-webrtc-ice-pair-bytes-received = Taq wayt ek'ulun:
+about-webrtc-ice-component-id = ID Ch'akulal
 
 ##
 
@@ -98,6 +103,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (Tz'apä
 
 about-webrtc-local-candidate = Cha'oxel aj wawe'
 about-webrtc-remote-candidate = Näj chi cha'oxel
+about-webrtc-raw-candidates-heading = Konojel ri Relik Cha'oxela'
+about-webrtc-raw-local-candidate = Relik Cha'oxel Aj Wawe'
+about-webrtc-raw-remote-candidate = Relik Näj chi cha'oxel
+about-webrtc-raw-cand-show-msg = kek'ut pe ri relik cha'oxela'
+    .title = tapitz'a' richin narïk' re peraj re'
+about-webrtc-raw-cand-hide-msg = ke'ewüx relik cha'oxela'
+    .title = tapitz'a' richin nuk'öl ri' re peraj re'
 about-webrtc-priority = Ya'on ruq'ij
 about-webrtc-fold-show-msg = kek'ut pe ri taq rub'anikil
     .title = tapitz'a' richin narïk' re peraj re'
@@ -129,6 +141,10 @@ about-webrtc-aec-logging-off-state-msg = ri kitz'ib'axik taq yakb'äl yatikïr y
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Ri cha'oxela' yeb'arb'öt (ye'apon chi rij ri tzolin tzij) niya' kejqalem pa xar
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
