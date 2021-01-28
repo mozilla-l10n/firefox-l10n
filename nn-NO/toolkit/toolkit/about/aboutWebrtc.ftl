@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection-ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokal SDP
+about-webrtc-local-sdp-heading-offer = Lokal SDP (Tilbod)
+about-webrtc-local-sdp-heading-answer = Lokal SDP (Svar)
 about-webrtc-remote-sdp-heading = Fjern-SDP
+about-webrtc-remote-sdp-heading-offer = Fjern-SDP (Tilbod)
+about-webrtc-remote-sdp-heading-answer = Fjern-SDP (Svar)
 
 ##
 
@@ -46,6 +50,11 @@ about-webrtc-rtp-stats-heading = RTP-statistikk
 about-webrtc-ice-state = ICE-status
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE-statistikk
+about-webrtc-ice-restart-count-label = ICE startar om:
+about-webrtc-ice-rollback-count-label = ICE tilbakestellingar:
+about-webrtc-ice-pair-bytes-sent = Byte sendt:
+about-webrtc-ice-pair-bytes-received = Byte mottatt:
+about-webrtc-ice-component-id = Komponent-ID
 
 ##
 
@@ -68,11 +77,18 @@ about-webrtc-type-remote = Ekstern
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominert
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Markert
+about-webrtc-save-page-label = Lagre side
 about-webrtc-debug-mode-msg-label = Feilsøkingsmodus
 about-webrtc-debug-mode-off-state-label = Start feilsøkingsmodus
 about-webrtc-debug-mode-on-state-label = Stopp feilsøkingsmodus
 about-webrtc-stats-heading = Statistikk for økta
+about-webrtc-stats-clear = Slett historikk
 about-webrtc-log-heading = Tilkoplingslogg
+about-webrtc-log-clear = Slett logg
 about-webrtc-log-show-msg = vis logg
     .title = trykk for å utvida denne delen
 about-webrtc-log-hide-msg = gøym logg
@@ -86,11 +102,19 @@ about-webrtc-log-hide-msg = gøym logg
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (attlaten) { $now }
 
 ##
 
 about-webrtc-local-candidate = Lokal kandidat
 about-webrtc-remote-candidate = Fjernkandidat
+about-webrtc-raw-candidates-heading = Alle raw-kandidatar
+about-webrtc-raw-local-candidate = Lokal raw-kandidat
+about-webrtc-raw-remote-candidate = Ekstern raw-kandidat
+about-webrtc-raw-cand-show-msg = vis raw-kandidatar
+    .title = trykk for å utvida denne delen
+about-webrtc-raw-cand-hide-msg = Gøym raw-kandidatar
+    .title = trykk for å falda saman denne delen
 about-webrtc-priority = Prioritet
 about-webrtc-fold-show-msg = vis detaljar
     .title = trykk for å utvida denne delen
@@ -122,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = opptekne loggfiler finn ein i: { $path 
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickled-kandidatar (som kjem inn etter svar) er utheva i blå
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
