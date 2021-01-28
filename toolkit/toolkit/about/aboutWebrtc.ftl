@@ -36,6 +36,7 @@ about-webrtc-local-sdp-heading-answer = Local SDP (תשובה)
 about-webrtc-remote-sdp-heading = Remote SDP
 about-webrtc-remote-sdp-heading-offer = Remote SDP (הצעה)
 about-webrtc-remote-sdp-heading-answer = Remote SDP (תשובה)
+about-webrtc-sdp-history-heading = היסטוריית SDP
 
 ##
 
@@ -122,12 +123,19 @@ about-webrtc-fold-hide-msg = hide details
     .title = click to collapse this section
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
+about-webrtc-show-tab-label = הצגת לשונית
+about-webrtc-width-px = רוחב (px)
+about-webrtc-height-px = גובה (px)
+about-webrtc-time-elapsed = זמן שחלף (שניות)
+about-webrtc-rotation-degrees = סיבוב (מעלות)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = רוחב פס משוער
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
