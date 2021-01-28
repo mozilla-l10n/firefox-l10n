@@ -54,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE restarta:
 about-webrtc-ice-rollback-count-label = ICE rollback-a:
 about-webrtc-ice-pair-bytes-sent = Bajta poslano:
 about-webrtc-ice-pair-bytes-received = Bajta primljeno:
+about-webrtc-ice-component-id = ID komponente
 
 ##
 
