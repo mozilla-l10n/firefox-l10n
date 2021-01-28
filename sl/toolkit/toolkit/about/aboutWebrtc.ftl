@@ -31,7 +31,9 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokalni SDP
+about-webrtc-local-sdp-heading-offer = Lokalni SDP (Ponudba)
 about-webrtc-remote-sdp-heading = Oddaljeni SDP
+about-webrtc-remote-sdp-heading-offer = Oddaljeni SDP (Ponudba)
 
 ##
 
@@ -80,7 +82,9 @@ about-webrtc-debug-mode-msg-label = Razhroščevanje
 about-webrtc-debug-mode-off-state-label = Začni razhroščevanje
 about-webrtc-debug-mode-on-state-label = Končaj razhroščevanje
 about-webrtc-stats-heading = Statistika seje
+about-webrtc-stats-clear = Počisti zgodovino
 about-webrtc-log-heading = Dnevnik povezave
+about-webrtc-log-clear = Počisti dnevnik
 about-webrtc-log-show-msg = prikaži dnevnik
     .title = kliknite za razširjanje tega razdelka
 about-webrtc-log-hide-msg = skrij dnevnik
@@ -100,6 +104,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (prekinj
 
 about-webrtc-local-candidate = Lokalni kandidat
 about-webrtc-remote-candidate = Oddaljeni kandidat
+about-webrtc-raw-candidates-heading = Vsi neobdelani kandidati
+about-webrtc-raw-local-candidate = Neobdelan lokalni kandidat
+about-webrtc-raw-remote-candidate = Neobdelan oddaljeni kandidat
+about-webrtc-raw-cand-show-msg = prikaži neobdelane kandidate
+    .title = kliknite za razširjanje tega razdelka
+about-webrtc-raw-cand-hide-msg = skrij neobdelane kandidate
+    .title = kliknite za strnjanje tega razdelka
 about-webrtc-priority = Prednost
 about-webrtc-fold-show-msg = prikaži podrobnosti
     .title = kliknite za razširjanje tega razdelka
