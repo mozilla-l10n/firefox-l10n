@@ -60,27 +60,27 @@ options-screenshot-label = Comportamento da captura de tela
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = Capturar tela para a área de transferência
 options-screenshot-clipboard-tooltip =
-    .title = Saves to the screenshot directly to the clipboard
+    .title = Copiar capturas de tela diretamente para a área de transferência
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
-options-screenshot-audio-label = Play camera shutter sound
+options-screenshot-audio-label = Tocar o som do obturador da câmera
 options-screenshot-audio-tooltip =
-    .title = Enables the camera audio sound when taking screenshot
+    .title = Ativar o som da câmera ao capturar telas
 
 ## Editor section
 
 # The heading
-options-sourceeditor-label = Editor Preferences
+options-sourceeditor-label = Preferências do editor
 options-sourceeditor-detectindentation-tooltip =
-    .title = Guess indentation based on source content
-options-sourceeditor-detectindentation-label = Detect indentation
+    .title = Adivinhar a indentação com base no conteúdo do código
+options-sourceeditor-detectindentation-label = Detectar indentação
 options-sourceeditor-autoclosebrackets-tooltip =
-    .title = Automatically insert closing brackets
-options-sourceeditor-autoclosebrackets-label = Autoclose brackets
+    .title = Inserir automaticamente o fechamento de parênteses, chaves e colchetes
+options-sourceeditor-autoclosebrackets-label = Fechar parênteses, chaves e colchetes automaticamente
 options-sourceeditor-expandtab-tooltip =
-    .title = Use spaces instead of the tab character
-options-sourceeditor-expandtab-label = Indent using spaces
-options-sourceeditor-tabsize-label = Tab size
-options-sourceeditor-keybinding-label = Keybindings
+    .title = Usar espaços em vez do caractere de tabulação
+options-sourceeditor-expandtab-label = Indentar usando espaços
+options-sourceeditor-tabsize-label = Tamanho da tabulação
+options-sourceeditor-keybinding-label = Associação de teclas
 options-sourceeditor-keybinding-default-label = Default
 
 ## Advanced section
