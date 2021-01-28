@@ -75,7 +75,7 @@ about-logins-login-intro-heading-logged-in = Сінхранізаваныя ла
 login-intro-description = Калі вы захавалі свае лагіны ў { -brand-product-name } на іншай прыладзе, вось як атрымаць іх тут:
 login-intro-instruction-fxa = Стварыце альбо ўвайдзіце ў свой { -fxaccount-brand-name } на прыладзе, дзе захоўваюцца вашы лагіны
 login-intro-instruction-fxa-settings = Пераканайцеся, што вы ўстанавілі сцяжок Лагіны у наладах { -sync-brand-short-name }
-about-logins-intro-instruction-help = Для атрымання дадатковай даведкі наведайце <a data-l10n-name="help-link">{ -lockwise-brand-short-name } падтрымку</a>
+about-logins-intro-instruction-help = Для атрымання дадатковай даведкі наведайце <a data-l10n-name="help-link">падтрымку { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Калі вашы паролі захоўваюцца ў іншым браўзеры, вы можаце <a data-l10n-name="import-link">імпартаваць іх у { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Калі вашы лагіны захоўваюцца па-за { -brand-product-name }, вы можаце <a data-l10n-name="import-browser-link">імпартаваць іх з іншага браўзера</a> або <a data-l10n-name="import-file-link">з файла</a>
 
@@ -318,3 +318,6 @@ about-logins-import-dialog-error-title = Памылка імпарту
 about-logins-import-dialog-error-learn-more = Даведацца больш
 about-logins-import-dialog-error-try-again = Паспрабаваць зноў...
 about-logins-import-dialog-error-cancel = Скасаваць
+
+## Logins import report page
+
