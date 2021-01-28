@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = ‏SDP المحلي
+about-webrtc-local-sdp-heading-offer = ‏SDP المحلي (عرض)
+about-webrtc-local-sdp-heading-answer = ‏SDP المحلي (رد)
 about-webrtc-remote-sdp-heading = ‏SDP البعيد
+about-webrtc-remote-sdp-heading-offer = ‏SDP البعيد (عرض)
+about-webrtc-remote-sdp-heading-answer = ‏SDP البعيد (رد)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = مرات إعادة تشغيل ICE:
 about-webrtc-ice-rollback-count-label = مرات استرجاع حالة ICE:
 about-webrtc-ice-pair-bytes-sent = البايتات المرسلة:
 about-webrtc-ice-pair-bytes-received = البايتات المستقبَلة:
+about-webrtc-ice-component-id = معرف المكون
 
 ##
 
@@ -101,6 +106,15 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (أُغ�
 
 ##
 
+about-webrtc-local-candidate = مرشح محلي
+about-webrtc-remote-candidate = مرشح بعيد
+about-webrtc-raw-candidates-heading = كل المرشحين الخام
+about-webrtc-raw-local-candidate = مرشح خام محلي
+about-webrtc-raw-remote-candidate = مرشح خام بعيد
+about-webrtc-raw-cand-show-msg = اعرض المرشحين الخام
+    .title = انقر لتوسيع هذا القسم
+about-webrtc-raw-cand-hide-msg = أخفِ المرشحين الخام
+    .title = انقر لطي هذا القسم
 about-webrtc-priority = الأولويّة
 about-webrtc-fold-show-msg = اعرض التفاصيل
     .title = انقر لتوسيع هذا القسم
@@ -132,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = ملف السجل المأخوذ موج
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = التقلقل { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = سيظهر المرشحون المتقاطرون (الواصلين بعد الإجابة) باللون الأزرق
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
