@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = enregistrar about:webrtc jos
 about-webrtc-aec-logging-msg-label = Jornalizacion AEC 
 about-webrtc-aec-logging-off-state-label = Aviar la jornalizacion AEC
 about-webrtc-aec-logging-on-state-label = Arrèstar la jornalizacion AEC
+about-webrtc-aec-logging-on-state-msg = Jornalizacion AEC activa (parlatz amb lo correspondant unas minutas puèi arrestatz l'enregistrament)
 
 ##
 
@@ -45,6 +46,10 @@ about-webrtc-rtp-stats-heading = Estatisticas d'RTP
 about-webrtc-ice-state = Estat d'ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Estatisticas d'ICE
+about-webrtc-ice-restart-count-label = Reaviaments d'ICE:
+about-webrtc-ice-rollback-count-label = Versions precedentas d'ICE:
+about-webrtc-ice-pair-bytes-sent = Octets mandats:
+about-webrtc-ice-pair-bytes-received = Octets recebuts:
 
 ##
 
@@ -76,7 +81,9 @@ about-webrtc-debug-mode-msg-label = Mòde desbugatge
 about-webrtc-debug-mode-off-state-label = Aviar lo mòde desbugatge
 about-webrtc-debug-mode-on-state-label = Arrèstar lo mòde desbugatge
 about-webrtc-stats-heading = Estatisticas de la session
+about-webrtc-stats-clear = Escafar l'istoric
 about-webrtc-log-heading = Istoric de connexion
+about-webrtc-log-clear = Escafar l’istoric
 about-webrtc-log-show-msg = afichar l'istoric
     .title = clicatz per desvolopar aquesta seccion
 about-webrtc-log-hide-msg = amagar l'istoric
