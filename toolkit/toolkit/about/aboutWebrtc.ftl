@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = 组件 ID
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = 平均比特率：
+about-webrtc-avg-framerate-label = 平均帧率：
 
 ##
 
@@ -122,6 +124,7 @@ about-webrtc-fold-show-msg = 显示详细信息
     .title = 点击展开此段
 about-webrtc-fold-hide-msg = 隐藏详细信息
     .title = 点击折叠此段
+about-webrtc-dropped-frames-label = 丢帧数：
 about-webrtc-decoder-label = 解码器
 about-webrtc-encoder-label = 编码器
 about-webrtc-show-tab-label = 显示标签页
