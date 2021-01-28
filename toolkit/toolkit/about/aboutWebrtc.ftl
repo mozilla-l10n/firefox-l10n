@@ -149,6 +149,8 @@ about-webrtc-configuration-element-provided = Предоставлено
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Не предоставлено
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Пользовательские настройки WebRTC
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Расчетная пропускная способность
 # The ID of the MediaStreamTrack
@@ -198,6 +200,11 @@ about-webrtc-sdp-set-at-timestamp-local = Установить Локальны�
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Установить Удалённый SDP на метку времени { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Метка времени { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } мс)
 
 ##
 
