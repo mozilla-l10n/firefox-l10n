@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = 元件 ID
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = 平均位元率:
+about-webrtc-avg-framerate-label = 平均畫框率:
 
 ##
 
@@ -122,6 +124,8 @@ about-webrtc-fold-show-msg = 顯示詳細資訊
     .title = 點擊展開此段落
 about-webrtc-fold-hide-msg = 隱藏詳細資訊
     .title = 點擊摺疊此段落
+about-webrtc-dropped-frames-label = 捨棄的畫框數:
+about-webrtc-discarded-packets-label = 捨棄的封包數:
 about-webrtc-decoder-label = 解碼器
 about-webrtc-encoder-label = 編碼器
 about-webrtc-show-tab-label = 顯示分頁
@@ -166,6 +170,11 @@ about-webrtc-pacer-delay-ms = 間隔時間（ms）
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT（ms）
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = 畫框統計資訊 - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -179,6 +188,27 @@ about-webrtc-aec-logging-off-state-msg = 捕捉到的記錄檔位於: { $path }
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+       *[other] 已收到 { $packets } 個封包
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+       *[other] 已捨棄 { $packets } 個封包
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+       *[other] 已送出 { $packets } 個封包
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
