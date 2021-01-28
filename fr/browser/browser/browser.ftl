@@ -511,6 +511,7 @@ pointerlock-warning-no-domain = Ce document contrôle votre pointeur. Appuyez su
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Une partie de cette page a planté.</strong> Pour informer { -brand-product-name } de ce problème et le résoudre plus rapidement, veuillez envoyer un rapport.
 crashed-subframe-learnmore =
     .label = En savoir plus
     .accesskey = E
