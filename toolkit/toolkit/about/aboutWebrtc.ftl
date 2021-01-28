@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokal SDP
+about-webrtc-local-sdp-heading-offer = Lokal SDP (Təklif)
+about-webrtc-local-sdp-heading-answer = Lokal SDP (Cavab)
 about-webrtc-remote-sdp-heading = Üzaq SDP
+about-webrtc-remote-sdp-heading-offer = Üzaq SDP (Təklif)
+about-webrtc-remote-sdp-heading-answer = Üzaq SDP (Cavab)
 
 ##
 
@@ -46,6 +50,11 @@ about-webrtc-rtp-stats-heading = RTP Statistikaları
 about-webrtc-ice-state = ICE Vəziyyəti
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE Statistikaları
+about-webrtc-ice-restart-count-label = ICE yenidən başlatma:
+about-webrtc-ice-rollback-count-label = ICE geri gətirmə:
+about-webrtc-ice-pair-bytes-sent = Göndərilmiş bayt:
+about-webrtc-ice-pair-bytes-received = Alınmış bayt:
+about-webrtc-ice-component-id = Hissə identifikatoru
 
 ##
 
@@ -77,7 +86,9 @@ about-webrtc-debug-mode-msg-label = Sazlama Modu
 about-webrtc-debug-mode-off-state-label = Sazlama Modunu Başlat
 about-webrtc-debug-mode-on-state-label = Sazlama Modunu dayandır
 about-webrtc-stats-heading = Sessiya Statistikaları
+about-webrtc-stats-clear = Tarixçəni Təmizlə
 about-webrtc-log-heading = Bağlantı qeydləri
+about-webrtc-log-clear = Qeydiyyatı Təmizlə
 about-webrtc-log-show-msg = qeydləri göstər
     .title = bu bölməni genişlətmək üçün klikləyin
 about-webrtc-log-hide-msg = qeydləri gizlə
@@ -97,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (bağlan
 
 about-webrtc-local-candidate = Lokal Namizəd
 about-webrtc-remote-candidate = Uzaq Namizəd
+about-webrtc-raw-candidates-heading = Bütün xam namizədlər
+about-webrtc-raw-local-candidate = Lokal xam namizədlər
+about-webrtc-raw-remote-candidate = Uzaq xam namizədlər
+about-webrtc-raw-cand-show-msg = xam namizədləri göstər
+    .title = bu bölməni genişlətmək üçün klikləyin
+about-webrtc-raw-cand-hide-msg = xam namizədləri gizlət
+    .title = bu bölməni daraltmaq üşün klikləyin
 about-webrtc-priority = Üstünlük
 about-webrtc-fold-show-msg = detalları göstər
     .title = bu bölməni genişlətmək üçün klikləyin
@@ -128,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = qeydiyyat faylları buradadır: { $path
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Süzülən namizədlər (cavabdan sonra gələnlər) göy ilə işıqlandırılıblar
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
