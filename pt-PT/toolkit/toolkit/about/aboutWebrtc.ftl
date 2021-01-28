@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = ID da ligação do par:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
+about-webrtc-local-sdp-heading-offer = SDP local (Oferta)
+about-webrtc-local-sdp-heading-answer = SDP local (Resposta)
 about-webrtc-remote-sdp-heading = SDP remoto
+about-webrtc-remote-sdp-heading-offer = SDP remoto (Oferta)
+about-webrtc-remote-sdp-heading-answer = SDP remoto (Resposta)
 about-webrtc-sdp-parsing-errors-heading = Erros de interpretação do SDP
 
 ##
@@ -51,6 +55,7 @@ about-webrtc-ice-restart-count-label = Reinícios ICE:
 about-webrtc-ice-rollback-count-label = Reversões ICE:
 about-webrtc-ice-pair-bytes-sent = Bytes enviados:
 about-webrtc-ice-pair-bytes-received = Bytes recebidos:
+about-webrtc-ice-component-id = ID de componente
 
 ##
 
@@ -104,6 +109,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (fechada
 
 about-webrtc-local-candidate = Candidato local
 about-webrtc-remote-candidate = Candidato remoto
+about-webrtc-raw-candidates-heading = Todos os candidatos em bruto
+about-webrtc-raw-local-candidate = Candidato local em bruto
+about-webrtc-raw-remote-candidate = Candidato remoto em bruto
+about-webrtc-raw-cand-show-msg = mostrar candidatos em bruto
+    .title = clique para expandir esta secção
+about-webrtc-raw-cand-hide-msg = ocultar candidatos em bruto
+    .title = clique para colapsar esta secção
 about-webrtc-priority = Prioridade
 about-webrtc-fold-show-msg = mostrar detalhes
     .title = clique para expandir esta secção
@@ -159,6 +171,10 @@ about-webrtc-aec-logging-off-state-msg = os ficheiros do registo da captura pode
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Candidatos trickled (a chegar depois da resposta) são destacados a azul
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
