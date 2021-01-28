@@ -188,6 +188,36 @@ about-webrtc-aec-logging-off-state-msg = móžośo nagrane protokolowe dataje na
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] { $packets } paket dostaty
+        [two] { $packets } paketa dostatej
+        [few] { $packets } pakety dostate
+       *[other] { $packets } paketow dostate
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] { $packets } paket zgubjony
+        [two] { $packets } paketa zgubjonej
+        [few] { $packets } pakety zgubjone
+       *[other] { $packets } paketow zgubjone
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] { $packets } paket pósłany
+        [two] { $packets } paketa pósłanej
+        [few] { $packets } pakety pósłane
+       *[other] { $packets } paketow pósłane
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

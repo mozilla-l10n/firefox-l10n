@@ -339,3 +339,7 @@ about-logins-import-dialog-error-no-logins-imported = Žedne pśizjawjenja njejs
 about-logins-import-dialog-error-learn-more = Dalšne informacije
 about-logins-import-dialog-error-try-again = Hyšći raz wopytaś…
 about-logins-import-dialog-error-cancel = Pśetergnuś
+
+## Logins import report page
+
+about-logins-import-report-page-title = Zespominańsku rozpšawu importěrowaś
