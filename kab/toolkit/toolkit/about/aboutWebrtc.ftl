@@ -86,7 +86,13 @@ about-webrtc-debug-mode-msg-label = Askar n tseɣtit
 about-webrtc-debug-mode-off-state-label = Senker askar n tseɣtit
 about-webrtc-debug-mode-on-state-label = Seḥbes askar n tseɣtit
 about-webrtc-stats-heading = Tiddadanin n tɣimit
+about-webrtc-stats-clear = Sfeḍ azray
+about-webrtc-log-heading = Azray n tuqqna
 about-webrtc-log-clear = Sfeḍ aɣmis
+about-webrtc-log-show-msg = sken azray
+    .title = sit akken ad tesnefliḍ tigezmi-agi
+about-webrtc-log-hide-msg = ffer azray
+    .title = sit akken ad tesnefliḍ tigezmi-agi
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
