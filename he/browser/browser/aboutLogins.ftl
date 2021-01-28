@@ -314,3 +314,7 @@ about-logins-import-dialog-error-no-logins-imported = לא יובאו כניסו
 about-logins-import-dialog-error-learn-more = מידע נוסף
 about-logins-import-dialog-error-try-again = ניסיון חוזר…
 about-logins-import-dialog-error-cancel = ביטול
+
+## Logins import report page
+
+about-logins-import-report-page-title = דוח סיכום הייבוא
