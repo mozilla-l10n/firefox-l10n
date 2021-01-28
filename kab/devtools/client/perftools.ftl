@@ -10,6 +10,9 @@
 
 ## All of the headings for the various sections.
 
+perftools-heading-features = Timahilin
+perftools-heading-features-experimental = Armitan
+perftools-heading-threads = Asqerdec
 
 ##
 
@@ -19,6 +22,7 @@
 
 ##
 
+perftools-devtools-settings-label = Iɣewwaṛen
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
