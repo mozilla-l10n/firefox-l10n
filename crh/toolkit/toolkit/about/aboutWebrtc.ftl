@@ -136,6 +136,7 @@ about-webrtc-encoder-label = Kodlayıcı
 
 about-webrtc-save-page-msg = saife şunda saqlandı: { $path }
 about-webrtc-debug-mode-off-state-msg = izleme kütügi şurada tapılabilir: { $path }
+about-webrtc-debug-mode-on-state-msg = illetsizlendirim tarzı faal, izleme kütügi şurada: { $path }
 about-webrtc-aec-logging-off-state-msg = yaqalanğan kütük dosyeleri şurada tapılabilir: { $path }
 
 ##
