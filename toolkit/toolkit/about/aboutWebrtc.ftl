@@ -46,6 +46,8 @@ about-webrtc-rtp-stats-heading = RTP статистика
 about-webrtc-ice-state = ICE статистика
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE статистика
+about-webrtc-ice-restart-count-label = ICE рестартовања:
+about-webrtc-ice-rollback-count-label = ICE враћања:
 
 ##
 
@@ -77,7 +79,9 @@ about-webrtc-debug-mode-msg-label = Режим за отклањање греш�
 about-webrtc-debug-mode-off-state-label = Покрени режим за отклањање грешака
 about-webrtc-debug-mode-on-state-label = Заустави режим за отклањање грешака
 about-webrtc-stats-heading = Статистике сесије
+about-webrtc-stats-clear = Обриши историјат
 about-webrtc-log-heading = Дневник конекције
+about-webrtc-log-clear = Обриши дневник
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
