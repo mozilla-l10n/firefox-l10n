@@ -20,9 +20,12 @@
 <!ENTITY allowContextmenuDisable.label   "停用或取代右鍵選單">
 <!ENTITY allowHideStatusBar.label        "隱藏狀態列">
 
-<!ENTITY enableDrmMedia.label            "為下列網站開啟 Digital Rights Management:">
-<!ENTITY enableEmeForSuite.label         "第三方內容解碼模組">
-<!ENTITY enableEmeForSuite.accesskey     "C">
+<!ENTITY debugging.label                  "JavaScript 除錯">
+<!ENTITY debugEnableDump.label            "開啟 JavaScript dump() 輸出">
+<!ENTITY debugEnableDump.accesskey        "E">
+<!ENTITY debugStrictJavascript.label      "顯示嚴格的 JavaScript 警告">
+<!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "啟用下列網站的外掛程式">
 <!ENTITY enablePluginForSuite.label      "Suite">
@@ -33,4 +36,3 @@
 <!ENTITY activateAllPlugins.accesskey    "d">
 <!ENTITY warnPluginsRequired.label       "在需要安裝其他外掛程式時通知我">
 <!ENTITY warnPluginsRequired.accesskey   "W">
-
