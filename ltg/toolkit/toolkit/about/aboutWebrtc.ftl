@@ -46,6 +46,10 @@ about-webrtc-rtp-stats-heading = RTP statistika
 about-webrtc-ice-state = ICE stuovūklis
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE statistika
+about-webrtc-ice-restart-count-label = ICE puorstarteišonys:
+about-webrtc-ice-rollback-count-label = ICE rollbacks:
+about-webrtc-ice-pair-bytes-sent = Nūsyuteitī baiti:
+about-webrtc-ice-pair-bytes-received = Sajimtī baiti:
 
 ##
 
@@ -76,7 +80,9 @@ about-webrtc-debug-mode-msg-label = Atklaiduošonys režyms
 about-webrtc-debug-mode-off-state-label = Suokt atklaiduošonys režymu
 about-webrtc-debug-mode-on-state-label = Apturēt atklaiduošonys režymu
 about-webrtc-stats-heading = Sesejis statistika
+about-webrtc-stats-clear = Nūteireit viesturi
 about-webrtc-log-heading = Connection Log
+about-webrtc-log-clear = Nūteireit īrokstus
 about-webrtc-log-show-msg = show log
     .title = click to expand this section
 about-webrtc-log-hide-msg = hide log
