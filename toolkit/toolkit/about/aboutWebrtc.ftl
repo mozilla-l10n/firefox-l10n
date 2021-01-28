@@ -183,6 +183,27 @@ about-webrtc-aec-logging-off-state-msg = 캡처된 로그파일 위치: { $path 
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+       *[other] 받은 { $packets } 패킷
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+       *[other] 손실된 { $packets } 패킷
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+       *[other] 보낸 { $packets } 패킷
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
