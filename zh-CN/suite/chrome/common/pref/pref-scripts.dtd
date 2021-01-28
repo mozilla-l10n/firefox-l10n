@@ -25,6 +25,8 @@
 <!ENTITY debugEnableDump.accesskey        "E">
 <!ENTITY debugStrictJavascript.label      "显示严格的 JavaScript 警告">
 <!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "显示 Chrome 的 JavaScript 错误和警告">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "允许插件用于">
 <!ENTITY enablePluginForSuite.label      "套件">

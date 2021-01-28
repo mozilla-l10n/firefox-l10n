@@ -13,5 +13,16 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "事件">
+<!ENTITY debugPaintFlashing.accesskey "P">
+<!ENTITY debugPaintFlashingChrome.accesskey "F">
+<!ENTITY debugPaintDumping.accesskey "a">
+<!ENTITY debugInvalidateDumping.accesskey "n">
+<!ENTITY debugEventDumping.accesskey "E">
+<!ENTITY debugMotionEventDumping.accesskey "M">
+<!ENTITY debugCrossingEventDumping.accesskey "C">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowShowFrameCounts.label        "显示帧数">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "S">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">

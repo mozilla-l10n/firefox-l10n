@@ -18,3 +18,6 @@
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "启用光标浏览前警告我">
 <!ENTITY browseWithCaretWarn.accesskey "W">
+
+<!ENTITY acceleratorKey.accesskey "A">
+<!ENTITY menuAccessKey.accesskey "M">
