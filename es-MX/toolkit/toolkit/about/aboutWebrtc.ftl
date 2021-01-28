@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = ID de PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP Local
+about-webrtc-local-sdp-heading-offer = SDP Local (Oferta)
+about-webrtc-local-sdp-heading-answer = SDP Local (Respuesta)
 about-webrtc-remote-sdp-heading = SDP Remoto
+about-webrtc-remote-sdp-heading-offer = SDP Remoto (Oferta)
+about-webrtc-remote-sdp-heading-answer = SDP Remoto (Respuesta)
 about-webrtc-sdp-history-heading = Historial SDP
 about-webrtc-sdp-parsing-errors-heading = Errores de análisis de SDP
 
