@@ -33,6 +33,10 @@ about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP Lokal
 about-webrtc-local-sdp-heading-offer = SDP Lokal (Penawaran)
 about-webrtc-local-sdp-heading-answer = SDP Lokal (Jawab)
+about-webrtc-remote-sdp-heading = SDP Jarak Jauh
+about-webrtc-remote-sdp-heading-offer = SDP Jarak Jauh (Penawaran)
+about-webrtc-remote-sdp-heading-answer = SDP Jarak Jauh (Jawab)
+about-webrtc-sdp-parsing-errors-heading = Kesalahan Parsing SDP
 
 ##
 
@@ -67,6 +71,7 @@ about-webrtc-ice-component-id = ID komponen
 ## connection.
 
 about-webrtc-type-local = Lokal
+about-webrtc-type-remote = Jarak Jauh
 
 ##
 
@@ -103,8 +108,10 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ditutup
 ##
 
 about-webrtc-local-candidate = Kandidat Lokal
+about-webrtc-remote-candidate = Kandidat Jarak Jauh
 about-webrtc-raw-candidates-heading = Semua Kandidat Mentah
 about-webrtc-raw-local-candidate = Kandidat Lokal Mentah
+about-webrtc-raw-remote-candidate = Kandidat Jarak Jauh Mentah
 about-webrtc-raw-cand-show-msg = tampilkan kandidat mentah
     .title = klik untuk membentangkan bagian ini
 about-webrtc-raw-cand-hide-msg = sembunyikan kandidat mentah
@@ -122,6 +129,12 @@ about-webrtc-encoder-label = Enkoder
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Disediakan
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Tidak Disediakan
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
