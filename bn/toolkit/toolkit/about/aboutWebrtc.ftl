@@ -32,8 +32,10 @@ about-webrtc-peerconnection-id-label = পিয়ারকানেকশন আ�
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = লোকাল SDP
 about-webrtc-local-sdp-heading-offer = লোকাল SDP (প্রস্তাব)
+about-webrtc-local-sdp-heading-answer = লোকাল SDP (উত্তর)
 about-webrtc-remote-sdp-heading = দূরবর্তী SDP
 about-webrtc-remote-sdp-heading-offer = দূরবর্তী SDP (প্রস্তাব)
+about-webrtc-remote-sdp-heading-answer = দূরবর্তী SDP (উত্তর)
 
 ##
 
