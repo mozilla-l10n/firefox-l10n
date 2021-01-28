@@ -21,6 +21,16 @@ appmenuitem-passwords =
     .label = Ñe’ẽñemi
 appmenuitem-extensions-and-themes =
     .label = Jepysokue ha Téma
+appmenuitem-find-in-page =
+    .label = Kuatiaroguépe jejuhu…
+appmenuitem-more-tools =
+    .label = Tembipuruve
+appmenuitem-exit =
+    .label = Ñesẽ
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ñemboheko
 
 ## Zoom and Fullscreen Controls
 
@@ -51,6 +61,36 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Eguenohẽve marandu
+profiler-popup-learn-more = Kuaave
+profiler-popup-settings =
+    .value = Ñemboheko
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Ñemboheko mbosako’i…
+profiler-popup-recording-screen = Jehechapaite…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Ñemomba’epyre
+profiler-popup-start-recording-button =
+    .label = Eñepyrũ ñe’ẽñongatu
+profiler-popup-discard-button =
+    .label = Mboyke
+profiler-popup-capture-button =
+    .label = Ejapyhy
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
