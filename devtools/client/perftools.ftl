@@ -73,6 +73,28 @@ perftools-button-edit-settings = Rediger indstillinger…
 
 perftools-thread-gecko-main =
     .title = Hovedprocesserne for både forældre-processen og indholds-processerne.
+perftools-thread-compositor =
+    .title = Sammensætter forskellige painted elementer på siden
+perftools-thread-dom-worker =
+    .title = Dette håndterer både web-workers og service-workers
+perftools-thread-renderer =
+    .title = Når WebRender er aktiveret, kalder tråden, der udfører OpenGL
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend-tråden
+perftools-thread-paint-worker =
+    .title = Når off-main-thread painting er aktiveret, tråden på hvilken painting sker
+perftools-thread-style-thread =
+    .title = Style-beregning opdeles på flere tråde
+pref-thread-stream-trans =
+    .title = Netværks-stream-transport
+perftools-thread-socket-thread =
+    .title = Tråden hvor netværks-kode udfører blokerende socket-kald
+perftools-thread-img-decoder =
+    .title = Billedafkodnings-tråde
+perftools-thread-dns-resolver =
+    .title = DNS-opslag foregår på denne tråd
+perftools-thread-js-helper =
+    .title = Baggrundsarbejde for JS-motoren, fx off-main-thread-kompileringer
 
 ##
 
