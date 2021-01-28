@@ -84,6 +84,7 @@ login-item-new-login-title = Créer un nouvel identifiant
 login-item-edit-button = Modifier
 about-logins-login-item-remove-button = Supprimer
 login-item-origin-label = Adresse web
+login-item-tooltip-message = Assurez-vous que cela correspond à l’adresse exacte du site web où vous vous connectez.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nom d’utilisateur
@@ -265,6 +266,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Document CSV
        *[other] Fichier CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Document TSV
+       *[other] Fichier TSV
+    }
 
 ##
 ## Variables:
@@ -292,3 +300,16 @@ about-logins-import-dialog-items-error =
        *[other] <span>Erreurs :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importés)</span>
     }
 about-logins-import-dialog-done = Terminé
+about-logins-import-dialog-error-title = Erreur d’importation
+about-logins-import-dialog-error-conflicting-values-title = Plusieurs valeurs en conflit pour un seul identifiant
+about-logins-import-dialog-error-conflicting-values-description = Par exemple : plusieurs noms d’utilisateur, mots de passe, URL, etc. pour un seul identifiant.
+about-logins-import-dialog-error-file-format-title = Problème de format de fichier
+about-logins-import-dialog-error-file-format-description = En-têtes de colonne incorrects ou manquants. Assurez-vous que le fichier contient des colonnes pour le nom d’utilisateur, le mot de passe et l’URL.
+about-logins-import-dialog-error-file-permission-title = Impossible de lire le fichier
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } n’a pas la permission de lire le fichier. Essayez de modifier les permissions du fichier.
+about-logins-import-dialog-error-unable-to-read-title = Impossible d’analyser le fichier
+about-logins-import-dialog-error-unable-to-read-description = Assurez-vous d’avoir sélectionné un fichier CSV ou TSV.
+about-logins-import-dialog-error-no-logins-imported = Aucun identifiant n’a été importé
+about-logins-import-dialog-error-learn-more = En savoir plus
+about-logins-import-dialog-error-try-again = Réessayer…
+about-logins-import-dialog-error-cancel = Annuler

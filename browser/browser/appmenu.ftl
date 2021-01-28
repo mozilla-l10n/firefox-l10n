@@ -43,6 +43,43 @@ whatsnew-panel-footer-checkbox =
     .label = M’avertir des nouvelles fonctionnalités
     .accesskey = M
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Afficher plus d’informations
+profiler-popup-description-title =
+    .value = Enregistrer, analyser, partager
+profiler-popup-learn-more = En savoir plus
+profiler-popup-settings =
+    .value = Paramètres
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Modifier les paramètres…
+profiler-popup-recording-screen = Enregistrement…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personnalisé
+profiler-popup-start-recording-button =
+    .label = Commencer l’enregistrement
+profiler-popup-discard-button =
+    .label = Abandonner
+profiler-popup-capture-button =
+    .label = Capturer
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Maj+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Maj+2
+    }
+
 ## Help panel
 
 appmenu-about =
@@ -89,3 +126,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Rechercher des mises à jour…

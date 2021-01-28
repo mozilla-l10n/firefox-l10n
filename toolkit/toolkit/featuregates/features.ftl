@@ -98,3 +98,6 @@ experimental-features-multi-pip-description = Prise en charge expérimentale de 
 experimental-features-http3 =
     .label = Protocole HTTP/3
 experimental-features-http3-description = Prise en charge expérimentale du protocole HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Barre d’adresse : afficher les résultats pendant la composition IME
