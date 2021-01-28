@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Τοπικό SDP
+about-webrtc-local-sdp-heading-offer = Τοπικό SDP (Προσφορά)
+about-webrtc-local-sdp-heading-answer = Τοπικό SDP (Απάντηση)
 about-webrtc-remote-sdp-heading = Απομακρυσμένο SDP
+about-webrtc-remote-sdp-heading-offer = Απομακρυσμένο SDP (Προσφορά)
+about-webrtc-remote-sdp-heading-answer = Απομακρυσμένο SDP (Απάντηση)
 
 ##
 
