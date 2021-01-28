@@ -37,6 +37,7 @@ about-webrtc-remote-sdp-heading = Аддалены SDP
 about-webrtc-remote-sdp-heading-offer = Аддалены SDP (Прапанова)
 about-webrtc-remote-sdp-heading-answer = Аддалены SDP (Адказ)
 about-webrtc-sdp-history-heading = Гісторыя SDP
+about-webrtc-sdp-parsing-errors-heading = Памылкі разбору SDP
 
 ##
 
@@ -123,6 +124,7 @@ about-webrtc-fold-hide-msg = схаваць падрабязнасці
     .title = клікніце, каб згарнуць гэты раздзел
 about-webrtc-decoder-label = Дэкодэр
 about-webrtc-encoder-label = Кодэр
+about-webrtc-show-tab-label = Паказаць картку
 about-webrtc-width-px = Шырыня (px)
 about-webrtc-height-px = Вышыня (px)
 about-webrtc-consecutive-frames = Паслядоўныя кадры
@@ -141,6 +143,14 @@ about-webrtc-remote-send-ssrc = Аддалены адпраўны SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Нададзена
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Не нададзена
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Карыстальніцкія налады WebRTC
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Разліковая прапускная здольнасць
 # The ID of the MediaStreamTrack
@@ -190,6 +200,11 @@ about-webrtc-sdp-set-at-timestamp-local = Усталяваць Лакальны 
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Усталяваць Аддалены SDP пры адзнацы часу { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Метка часу { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } мс)
 
 ##
 
