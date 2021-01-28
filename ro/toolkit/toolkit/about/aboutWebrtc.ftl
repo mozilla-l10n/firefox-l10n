@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP local (Răspunde)
 about-webrtc-remote-sdp-heading = SDP de la distanță
 about-webrtc-remote-sdp-heading-offer = SDP de la distanță (Oferă)
 about-webrtc-remote-sdp-heading-answer = SDP de la distanță (Răspunde)
+about-webrtc-sdp-history-heading = Istoric SDP
+about-webrtc-sdp-parsing-errors-heading = Erori de analiză SPD
 
 ##
 
@@ -89,6 +91,10 @@ about-webrtc-stats-heading = Statistici privind sesiunea
 about-webrtc-stats-clear = Șterge istoricul
 about-webrtc-log-heading = Jurnalul conexiunii
 about-webrtc-log-clear = Golește jurnalul
+about-webrtc-log-show-msg = afișează jurnalul
+    .title = clic pentru extinderea secțiunii
+about-webrtc-log-hide-msg = ascunde jurnalul
+    .title = clic pentru restrângerea secțiunii
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -107,15 +113,44 @@ about-webrtc-remote-candidate = Candidat la distanță
 about-webrtc-raw-candidates-heading = Toți candidații bruți
 about-webrtc-raw-local-candidate = Candidat local brut
 about-webrtc-raw-remote-candidate = Candidat la distanță brut
+about-webrtc-raw-cand-show-msg = afișează candidații bruți
+    .title = clic pentru extinderea secțiunii
+about-webrtc-raw-cand-hide-msg = ascunde candidații bruți
+    .title = clic pentru restrângerea secțiunii
 about-webrtc-priority = Prioritate
+about-webrtc-fold-show-msg = afișează detaliile
+    .title = clic pentru extinderea secțiunii
+about-webrtc-fold-hide-msg = ascunde detalii
+    .title = clic pentru restrângerea secțiunii
 about-webrtc-decoder-label = Decodor
 about-webrtc-encoder-label = Codor
+about-webrtc-show-tab-label = Afișează fila
+about-webrtc-width-px = Lățime (px)
+about-webrtc-height-px = Înălțime (px)
+about-webrtc-consecutive-frames = Cadre consecutive
+about-webrtc-time-elapsed = Timp scurs (s)
+about-webrtc-estimated-framerate = Viteză estimată de redare a cadrelor
+about-webrtc-rotation-degrees = Rotație (grade)
+about-webrtc-first-frame-timestamp = Marcaj temporal de recepție a primului cadru
+about-webrtc-last-frame-timestamp = Marcaj temporal de recepție a ultimului cadru
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = SSRC de recepție locală
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = SSRC de transmisie la distanță
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Furnizat
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Nefurnizat
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Preferințe WebRTC setate de utilizator
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -125,6 +160,7 @@ about-webrtc-encoder-label = Codor
 about-webrtc-save-page-msg = pagină salvată în: { $path }
 about-webrtc-debug-mode-off-state-msg = jurnalul de urmărire poate fi găsit la: { $path }
 about-webrtc-debug-mode-on-state-msg = mod de depanare activ, jurnalul de urmărire la: { $path }
+about-webrtc-aec-logging-off-state-msg = fișierele de jurnal captate se găsesc în: { $path }
 
 ##
 
@@ -141,6 +177,19 @@ about-webrtc-trickle-caption-msg = Candidații prelingătoare (sosite după răs
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Setează SDP local la marcajul temporal { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Setează SDP de la distanță la marcajul temporal { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Marcaj temporal { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
