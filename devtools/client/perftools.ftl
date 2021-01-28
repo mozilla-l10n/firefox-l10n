@@ -77,6 +77,27 @@ perftools-thread-gecko-main =
     .title = Los procesos principales tanto para el proceso principal como para los procesos de contenido
 perftools-thread-compositor =
     .title = Combina diferentes elementos pintados en la página.
+perftools-thread-dom-worker =
+    .title = Esto se ocupa tanto de los trabajadores web como de los trabajadores de servicios
+perftools-thread-renderer =
+    .title = Cuando WebRender está habilitado, el hilo que ejecuta las llamadas OpenGL
+perftools-thread-render-backend =
+    .title = El hilo WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Cuando se activa la pintura fuera del hilo principal, el hilo en el que se realiza la pintura
+perftools-thread-style-thread =
+    .title = El cálculo de estilo se divide en múltiples hilos
+pref-thread-stream-trans =
+    .title = Transporte de flujo de red
+perftools-thread-socket-thread =
+    .title = El hilo donde el código de red ejecuta cualquier llamada de socket de bloqueo
+perftools-thread-img-decoder =
+    .title = Hilos de decodificación de imágenes
+perftools-thread-dns-resolver =
+    .title = La resolución de DNS ocurre en este hilo
+perftools-thread-js-helper =
+    .title = Trabajo en segundo plano del motor JS, como compilaciones fuera del hilo principal
 
 ##
 
+perftools-record-all-registered-threads = Omitir las selecciones de arriba y grabar todos los hilos registrados
