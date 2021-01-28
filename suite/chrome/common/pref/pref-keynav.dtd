@@ -18,3 +18,9 @@
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Me avise antes de ativar o cursor de teclado">
 <!ENTITY browseWithCaretWarn.accesskey "M">
+
+<!ENTITY modifiers.label "Modificadores">
+<!ENTITY acceleratorKey.label "Tecla aceleradora:">
+<!ENTITY acceleratorKey.accesskey "a">
+<!ENTITY menuAccessKey.label "Tecla de acesso ao menu:">
+<!ENTITY menuAccessKey.accesskey "m">

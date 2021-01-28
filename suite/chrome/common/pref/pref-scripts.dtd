@@ -20,6 +20,12 @@
 <!ENTITY allowContextmenuDisable.label   "Desativar ou substituir menus de contexto">
 <!ENTITY allowHideStatusBar.label        "Ocultar a barra de status ">
 
+<!ENTITY debugging.label                  "Depuração de JavaScript">
+<!ENTITY debugEnableDump.label            "Ativar saída dump() de JavaScript">
+<!ENTITY debugEnableDump.accesskey        "A">
+<!ENTITY debugStrictJavascript.label      "Mostrar avisos rigorosos de JavaScript">
+<!ENTITY debugStrictJavascript.accesskey  "J">
+
 <!ENTITY enablePlugins.label             "Permitir plugins para">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
