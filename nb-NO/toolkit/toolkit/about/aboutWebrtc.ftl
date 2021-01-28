@@ -31,7 +31,13 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokal SDP
+about-webrtc-local-sdp-heading-offer = Lokal SDP (Tilbud)
+about-webrtc-local-sdp-heading-answer = Lokal SDP (Svar)
 about-webrtc-remote-sdp-heading = Ekstern SDP
+about-webrtc-remote-sdp-heading-offer = Ekstern SDP (Tilbud)
+about-webrtc-remote-sdp-heading-answer = Ekstern SDP (Svar)
+about-webrtc-sdp-history-heading = SDP-historikk
+about-webrtc-sdp-parsing-errors-heading = SDP-parsingfeil
 
 ##
 
@@ -48,6 +54,9 @@ about-webrtc-ice-state = ICE-status
 about-webrtc-ice-stats-heading = ICE-statistikk
 about-webrtc-ice-restart-count-label = ICE-omstarter:
 about-webrtc-ice-rollback-count-label = ICE-tilbakestillinger:
+about-webrtc-ice-pair-bytes-sent = Byte sendt:
+about-webrtc-ice-pair-bytes-received = Byte mottatt:
+about-webrtc-ice-component-id = Komponent-ID
 
 ##
 
@@ -101,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (lukket)
 
 about-webrtc-local-candidate = Lokal kandidat
 about-webrtc-remote-candidate = Ekstern kandidat
+about-webrtc-raw-candidates-heading = Alle raw-kandidater
+about-webrtc-raw-local-candidate = Lokal raw-kandidat
+about-webrtc-raw-remote-candidate = Ekstern raw-kandidat
+about-webrtc-raw-cand-show-msg = vis raw-kandidater
+    .title = trykk for å utvide denne delen
+about-webrtc-raw-cand-hide-msg = skjul raw-kandidater
+    .title = trykk for å slå sammen denne delen
 about-webrtc-priority = Prioritet
 about-webrtc-fold-show-msg = vis detaljer
     .title = trykk for å utvide denne delen
@@ -108,12 +124,48 @@ about-webrtc-fold-hide-msg = skjul detaljer
     .title = trykk for å slå sammen denne delen
 about-webrtc-decoder-label = Dekoder
 about-webrtc-encoder-label = Enkoder
+about-webrtc-show-tab-label = Vis fane
+about-webrtc-width-px = Bredde (px)
+about-webrtc-height-px = Høyde (px)
+about-webrtc-consecutive-frames = Påfølgende rammer
+about-webrtc-time-elapsed = Tid brukt (s)
+about-webrtc-estimated-framerate = Estimert bildehastighet
+about-webrtc-rotation-degrees = Rotasjon (grader)
+about-webrtc-first-frame-timestamp = Tidstempel for første bildemottak
+about-webrtc-last-frame-timestamp = Tidstempel for siste bildemottak
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Lokalmottakende SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Fjernsendende SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Oppgitt
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Ikke oppgitt
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Egendefinerte WebRTC-innstillinger
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Anslått båndbredde
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Sporidentifikator
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Båndbredde sende (byte/sek)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Båndbredde motta (byte/sek)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maksimal utfylling (byte/sek)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Pacer-forsinkelse ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT (ms)
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -132,10 +184,27 @@ about-webrtc-aec-logging-off-state-msg = innsamlede loggfiler finnes på: { $pat
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickled-kandidater (ankommer etter svar) er uthevet i blå
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Angi Lokal SDP ved tidsstempel { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Angi Ekstern SDP ved tidsstempel { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Tidsstempel { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
