@@ -36,4 +36,5 @@
 <!ENTITY debugReflowShowFrameCounts.accesskey    "S">
 <!ENTITY debugReflowDumpFrameCounts.label        "转储帧数">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "逐帧数转储">
 <!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">

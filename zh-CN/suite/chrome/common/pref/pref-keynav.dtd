@@ -19,5 +19,9 @@
 <!ENTITY browseWithCaretWarn.label "启用光标浏览前警告我">
 <!ENTITY browseWithCaretWarn.accesskey "W">
 
+<!ENTITY modifiers.label "组合键">
+<!ENTITY acceleratorKey.label "加速键：">
 <!ENTITY acceleratorKey.accesskey "A">
+<!ENTITY menuAccessKey.label "菜单快捷键：">
 <!ENTITY menuAccessKey.accesskey "M">
+<!ENTITY modifiersDesc.label "注意：值为 0 时将禁用组合键。">
