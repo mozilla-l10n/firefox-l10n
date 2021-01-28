@@ -41,6 +41,7 @@
 ##
 
 about-webrtc-save-page-label = बिलाइखौ थिना दोन
+about-webrtc-stats-clear = जारिमिनखौ खोमोर
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
