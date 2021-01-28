@@ -63,6 +63,7 @@ about-webrtc-ice-component-id = ID de componente
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Taxa medie de bits:
 
 ##
 
