@@ -16,6 +16,7 @@ about-webrtc-save-page-dialog-title = kles about:webrtc daw
 
 about-webrtc-aec-logging-msg-label = Asniɣmes AEC
 about-webrtc-aec-logging-off-state-label = Senker asniɣmes AEC
+about-webrtc-aec-logging-on-state-label = Seḥbes asniɣmes AEC
 about-webrtc-aec-logging-on-state-msg = Asniɣmes AEC irmed (meslay kra n tesdatin d unmeɣṛu-inek sakin rken asekles)
 
 ##
