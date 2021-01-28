@@ -107,6 +107,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (cerrado
 
 about-webrtc-local-candidate = Candidato local
 about-webrtc-remote-candidate = Candidato remoto
+about-webrtc-raw-candidates-heading = Todos los candidatos en bruto
+about-webrtc-raw-local-candidate = Candidato local en bruto
+about-webrtc-raw-remote-candidate = Candidato remoto en bruto
+about-webrtc-raw-cand-show-msg = mostrar los candidatos en bruto
+    .title = clic para expandir esta sección
+about-webrtc-raw-cand-hide-msg = ocultar los candidatos en bruto
+    .title = clic para colapsar esta sección
 about-webrtc-priority = Prioridad
 about-webrtc-fold-show-msg = mostrar detalles
     .title = clic para expandir esta sección
@@ -138,6 +145,10 @@ about-webrtc-aec-logging-off-state-msg = se encuentran archivos de registro capt
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Los candidatos a goteo (llegan después de la respuesta) son destacados en azul
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
