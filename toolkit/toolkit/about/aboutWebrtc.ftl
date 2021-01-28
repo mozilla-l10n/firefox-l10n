@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP ในเครื่อง (คำ�
 about-webrtc-remote-sdp-heading = SDP ระยะไกล
 about-webrtc-remote-sdp-heading-offer = SDP ระยะไกล (ข้อเสนอ)
 about-webrtc-remote-sdp-heading-answer = SDP ระยะไกล (คำตอบ)
+about-webrtc-sdp-history-heading = ประวัติ SDP
+about-webrtc-sdp-parsing-errors-heading = ข้อผิดพลาดในการแยกวิเคราะห์ SDP
 
 ##
 
@@ -122,12 +124,48 @@ about-webrtc-fold-hide-msg = ซ่อนรายละเอียด
     .title = คลิกเพื่อยุบส่วนนี้
 about-webrtc-decoder-label = ตัวถอดรหัส
 about-webrtc-encoder-label = ตัวเข้ารหัส
+about-webrtc-show-tab-label = แสดงแท็บ
+about-webrtc-width-px = ความกว้าง (px)
+about-webrtc-height-px = ความสูง (px)
+about-webrtc-consecutive-frames = เฟรมต่อเนื่อง
+about-webrtc-time-elapsed = เวลาที่ผ่านไป (วินาที)
+about-webrtc-estimated-framerate = อัตราเฟรมโดยประมาณ
+about-webrtc-rotation-degrees = การหมุน (องศา)
+about-webrtc-first-frame-timestamp = การประทับเวลาการรับข้อมูลเฟรมแรก
+about-webrtc-last-frame-timestamp = การประทับเวลาการรับข้อมูลเฟรมสุดท้าย
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = SSRC การรับข้อมูลภายใน
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = SSRC การส่งข้อมูลระยะไกล
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = จัดเตรียมไว้
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = ไม่ได้จัดเตรียมไว้
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = ค่ากำหนด WebRTC ที่ตั้งโดยผู้ใช้
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = แบนด์วิดท์โดยประมาณ
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = ตัวระบุแทร็ก
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = แบนด์วิดท์ที่ส่ง (ไบต์/วินาที)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = แบนด์วิดท์ที่ได้รับ (ไบต์/วินาที)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = ช่องว่างสูงสุด (ไบต์/วินาที)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = หน่วงเวลาระยะห่าง ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +192,19 @@ about-webrtc-trickle-caption-msg = แคนดิเดตแบบ Trickled (�
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = ตั้งค่า SDP ในเครื่อง ที่การประทับเวลา { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = ตั้งค่า SDP ระยะไกล ที่การประทับเวลา { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = ประทับเวลา { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
