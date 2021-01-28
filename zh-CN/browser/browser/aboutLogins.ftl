@@ -305,3 +305,7 @@ about-logins-import-dialog-error-no-logins-imported = 未导入任何登录信�
 about-logins-import-dialog-error-learn-more = 详细了解
 about-logins-import-dialog-error-try-again = 重试…
 about-logins-import-dialog-error-cancel = 取消
+
+## Logins import report page
+
+about-logins-import-report-page-title = 导入情况概要
