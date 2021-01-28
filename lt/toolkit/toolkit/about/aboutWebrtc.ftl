@@ -31,7 +31,13 @@ about-webrtc-peerconnection-id-label = „PeerConnection“ ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Vietinis SDP
+about-webrtc-local-sdp-heading-offer = Vietinis SDP (Pasiūlymas)
+about-webrtc-local-sdp-heading-answer = Vietinis SDP (Atsakymas)
 about-webrtc-remote-sdp-heading = Nutolęs SDP
+about-webrtc-remote-sdp-heading-offer = Nutolęs SDP (Pasiūlymas)
+about-webrtc-remote-sdp-heading-answer = Nutolęs SDP (Atsakymas)
+about-webrtc-sdp-history-heading = SDP istorija
+about-webrtc-sdp-parsing-errors-heading = SDP analizės klaidos
 
 ##
 
@@ -50,6 +56,7 @@ about-webrtc-ice-restart-count-label = ICE kartojimai:
 about-webrtc-ice-rollback-count-label = ICE atmetimai:
 about-webrtc-ice-pair-bytes-sent = Išsiųsta baitų:
 about-webrtc-ice-pair-bytes-received = Gauta baitų:
+about-webrtc-ice-component-id = Komponento ID
 
 ##
 
@@ -103,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (užvert
 
 about-webrtc-local-candidate = Vietinis kandidatas
 about-webrtc-remote-candidate = Nuotolinis kandidatas
+about-webrtc-raw-candidates-heading = Visi neapdoroti kandidatai
+about-webrtc-raw-local-candidate = Neapdorotas vietinis kandidatas
+about-webrtc-raw-remote-candidate = Neapdorotas nuotolinis kandidatas
+about-webrtc-raw-cand-show-msg = rodyti neapdorotus kandidatus
+    .title = spustelėkite, norėdami išskleisti šią sekciją
+about-webrtc-raw-cand-hide-msg = slėpti neapdorotus kandidatus
+    .title = spustelėkite, norėdami suskleisti šią sekciją
 about-webrtc-priority = Prioritetas
 about-webrtc-fold-show-msg = išsamiau
     .title = spustelėkite, norėdami išskleisti šią sekciją
@@ -110,12 +124,48 @@ about-webrtc-fold-hide-msg = mažiau
     .title = spustelėkite, norėdami suskleisti šią sekciją
 about-webrtc-decoder-label = Iškoduotuvas
 about-webrtc-encoder-label = Koduotuvas
+about-webrtc-show-tab-label = Rodyti kortelę
+about-webrtc-width-px = Plotis (px)
+about-webrtc-height-px = Aukštis (px)
+about-webrtc-consecutive-frames = Kadrai iš eilės
+about-webrtc-time-elapsed = Trukmė (s)
+about-webrtc-estimated-framerate = Numatomas kadrų dažnis
+about-webrtc-rotation-degrees = Pasukimas (laipsniai)
+about-webrtc-first-frame-timestamp = Pirmo kadro gavimo laiko žyma
+about-webrtc-last-frame-timestamp = Paskutinio kadro gavimo laiko žyma
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Vietinis gaunamas SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Nuotolinis siunčiamas SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Pateikta
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Nepateikta
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Naudotojo nustatytos „WebRTC“ parinktys
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Numatomas pralaidumas
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Takelio identifikatorius
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Siuntimo pralaidumas (baitai/sek)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Gavimo pralaidumas (baitas/sek)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Didžiausias užpildymas (baitai/sek)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Tempo delsa (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT (ms)
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -134,10 +184,27 @@ about-webrtc-aec-logging-off-state-msg = įrašyti žurnalo failai yra čia: { $
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Virpėjimas { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Vėlesni („trickled“) kandidatai (atvykstantys po atsakymo) yra paryškinti mėlyna spalva
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Nustatyti „Vietinis SDP“ ties laiko žyma { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Nustatyti „Nutolęs SDP“ ties laiko žyma { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Laiko žymė: { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
