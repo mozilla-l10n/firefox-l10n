@@ -46,6 +46,9 @@ about-webrtc-rtp-stats-heading = RTP ಅಂಕಿಅಂಶಗಳು
 about-webrtc-ice-state = ICE ಸ್ಥಿತಿ
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE ಅಂಕಿಅಂಶಗಳು
+about-webrtc-ice-restart-count-label = ICE ಮರುಪ್ರಾರಂಭವಾಗುತ್ತಲಿದೆ:
+about-webrtc-ice-pair-bytes-sent = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಕಳಿಸಲಾಗಿದೆ:
+about-webrtc-ice-pair-bytes-received = ಬೈಟ್ಸ್‌ಗಳನ್ನು ಪಡೆಯಲಾಗಿದೆ:
 
 ##
 
@@ -77,7 +80,9 @@ about-webrtc-debug-mode-msg-label = ದೋಷನಿದಾನ ಸ್ಥಿತಿ
 about-webrtc-debug-mode-off-state-label = ದೋಷನಿದಾನ ಸ್ಥಿತಿ ಪ್ರಾರಂಭಿಸು
 about-webrtc-debug-mode-on-state-label = ದೋಷನಿದಾನ ಸ್ಥಿತಿ ನಿಲ್ಲಿಸು
 about-webrtc-stats-heading = ಅಧಿವೇಶನದ ಅಂಕಿಅಂಶಗಳು
+about-webrtc-stats-clear = ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು
 about-webrtc-log-heading = ಸಂಪರ್ಕ ದಿನಚರಿ
+about-webrtc-log-clear = ದಾಖಲೆಯನ್ನು ಅಳಿಸು
 about-webrtc-log-show-msg = ದಿನಚರಿ ತೋರಿಸು
     .title = ವಿಭಾಗವನ್ನು ವಿಸ್ತರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
 about-webrtc-log-hide-msg = ದಿನಚರಿ ಅಡಗಿಸು
