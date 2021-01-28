@@ -286,6 +286,8 @@ about-logins-import-dialog-title = Emba’eguerupáma
 about-logins-import-dialog-done = Apopyre
 about-logins-import-dialog-error-title = Ojavy mba’egueru
 about-logins-import-dialog-error-file-format-title = Marandurenda ysaja iñapañuãi
+about-logins-import-dialog-error-file-permission-title = Noñemoñe’ẽkuaái marandurenda
+about-logins-import-dialog-error-unable-to-read-title = Noñemomba’apokuaái marandurenda
 
 ## Logins import report page
 
