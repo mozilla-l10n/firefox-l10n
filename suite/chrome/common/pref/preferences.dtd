@@ -57,4 +57,6 @@
 <!ENTITY smart.label "软件安装">
 <!ENTITY mousewheel.label "鼠标滚轮">
 
+<!ENTITY debugging.label "调试">
+
 <!ENTITY focusSearch.key "f">
