@@ -46,6 +46,10 @@ about-webrtc-rtp-stats-heading = Staitisticí RTP
 about-webrtc-ice-state = Staid ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Staitisticí ICE
+about-webrtc-ice-restart-count-label = Atosuithe ICE:
+about-webrtc-ice-rollback-count-label = Tiontuithe siar ICE:
+about-webrtc-ice-pair-bytes-sent = Bearta seolta:
+about-webrtc-ice-pair-bytes-received = Bearta faighte:
 
 ##
 
@@ -60,6 +64,8 @@ about-webrtc-ice-stats-heading = Staitisticí ICE
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Áitiúil
+about-webrtc-type-remote = I gCéin
 
 ##
 
@@ -74,7 +80,10 @@ about-webrtc-save-page-label = Sábháil an Leathanach
 about-webrtc-debug-mode-msg-label = Mód Dífhabhtaithe
 about-webrtc-debug-mode-off-state-label = Tosaigh an Mód Dífhabhtaithe
 about-webrtc-debug-mode-on-state-label = Stop an Mód Dífhabhtaithe
+about-webrtc-stats-heading = Staitisticí an tSeisiúin
+about-webrtc-stats-clear = Glan an Stair
 about-webrtc-log-heading = Logchomhad Ceangal
+about-webrtc-log-clear = Bánaigh an Logchomhad
 about-webrtc-log-show-msg = taispeáin an logchomhad
     .title = cliceáil chun an rannóg seo a leathnú
 about-webrtc-log-hide-msg = cuir an logchomhad i bhfolach
