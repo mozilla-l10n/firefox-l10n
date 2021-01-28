@@ -54,6 +54,8 @@ about-webrtc-ice-state = Состояние ICE
 about-webrtc-ice-stats-heading = Статистика ICE
 about-webrtc-ice-restart-count-label = Перезапуски ICE:
 about-webrtc-ice-rollback-count-label = Откаты ICE:
+about-webrtc-ice-pair-bytes-sent = Байтов отправлено:
+about-webrtc-ice-pair-bytes-received = Байтов получено:
 about-webrtc-ice-component-id = Идентификатор компонента
 
 ##
