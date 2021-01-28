@@ -64,6 +64,8 @@ about-webrtc-ice-pair-bytes-received = Bytes recepids:
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Local
+about-webrtc-type-remote = Lontan
 
 ##
 
