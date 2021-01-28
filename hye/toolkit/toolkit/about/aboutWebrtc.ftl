@@ -37,6 +37,7 @@ about-webrtc-remote-sdp-heading = Հեռակայ SDP
 about-webrtc-remote-sdp-heading-offer = Հեռակայ SDP (Առաջարկ)
 about-webrtc-remote-sdp-heading-answer = Հեռակայ SDP (Պատասխան)
 about-webrtc-sdp-history-heading = SDP Պատմութիւն
+about-webrtc-sdp-parsing-errors-heading = SDP-ը վերլուծում է սխալները
 
 ##
 
@@ -123,6 +124,7 @@ about-webrtc-fold-hide-msg = թաքցնել մանրամասները
     .title = սեղմէք՝ այս շրջանը թաքցնելու համար
 about-webrtc-decoder-label = Ապաայլագրիչ
 about-webrtc-encoder-label = Այլագրիչ
+about-webrtc-show-tab-label = Ցուցադրել ներդիրը
 about-webrtc-width-px = Լայնք (px)
 about-webrtc-height-px = Բարձրութիւն (px)
 about-webrtc-consecutive-frames = Յաջորդական շրջանակներ
@@ -141,6 +143,14 @@ about-webrtc-remote-send-ssrc = Հեռակայ Առաքող SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Տրամադրուած
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Տրամադրուած չէ
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Աւգտուողը սահմանում է WebRTC նախընտրութիւնները
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Հաշուարկային թողունակութիւն
 # The ID of the MediaStreamTrack
@@ -151,6 +161,11 @@ about-webrtc-send-bandwidth-bytes-sec = Ուղարկել թողունակութ�
 about-webrtc-receive-bandwidth-bytes-sec = Ստանալ թողունակութիւնը (բայթ/վրկ)
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Առաւելագոյն լիցքը (բայթ/վրկ)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Յաճախականութեան յապաղումը մվ-ում
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT մվ
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -169,6 +184,10 @@ about-webrtc-aec-logging-off-state-msg = Գրանցած նիշքը կարող է
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Խաբուած թեկնածուները (ժամանում են պատասխանից յետոյ) գունանշուած են կապոյտ -ում
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -181,6 +200,11 @@ about-webrtc-sdp-set-at-timestamp-local = Դնել Տեղային SDP { NUMBER($
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Դնել Հեռակայ SDP { NUMBER($timestamp, useGrouping: "false") } ժամանակի համար
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Ժամակնիքը { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
