@@ -31,6 +31,7 @@ about-webrtc-peerconnection-id-label = ID PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP Lokal
+about-webrtc-local-sdp-heading-answer = SDP Lokal (Jawab)
 
 ##
 
