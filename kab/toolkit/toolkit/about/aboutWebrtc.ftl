@@ -30,7 +30,9 @@ about-webrtc-peerconnection-id-label = Asulay PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP adigan
+about-webrtc-local-sdp-heading-offer = SDP adigan (Asumer)
 about-webrtc-remote-sdp-heading = SDP anmeggag
+about-webrtc-remote-sdp-heading-offer = SDP anmeggag (Asumer)
 
 ##
 
@@ -47,6 +49,8 @@ about-webrtc-ice-state = Addad ICE
 about-webrtc-ice-stats-heading = Tiddadanin ICE
 about-webrtc-ice-restart-count-label = Ɛiwed sker ICE:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
+about-webrtc-ice-pair-bytes-sent = Iṭamḍanen iţwaceggɛen:
+about-webrtc-ice-pair-bytes-received = Itamḍanen iţwaremsen:
 
 ##
 
@@ -93,6 +97,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (imdel) 
 
 about-webrtc-local-candidate = Amzazwar adigan
 about-webrtc-remote-candidate = Amzazwar anmeggag
+about-webrtc-raw-candidates-heading = Akk izirigen imazwaren
+about-webrtc-raw-local-candidate = Izirig amzazwar adigan
+about-webrtc-raw-remote-candidate = Izirig amzazwar anmeggag
+about-webrtc-raw-cand-show-msg = sken-d izirigen imazwaren
+    .title = sit akken ad tesnefliḍ tigezmi-agi
+about-webrtc-raw-cand-hide-msg = ffer izirigen imazwaren
+    .title = sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-priority = Tazwart
 about-webrtc-fold-show-msg = Sken aglam leqqayen
     .title = sit akken ad tesnefliḍ tigezmi-agi
@@ -123,6 +134,10 @@ about-webrtc-aec-logging-off-state-msg = ifuyla n usniɣmes yettwaṭfen ad ttwa
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Gigue { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Imazwaren ittwamγaden (i d_yewwḍen seld tiririt) ttwasbeṛuṛqen deg amidadi
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
