@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = ਲੋਕਲ SDP
+about-webrtc-local-sdp-heading-offer = ਲੋਕਲ SDP (ਪੇਸ਼ਕਸ਼)
+about-webrtc-local-sdp-heading-answer = ਲੋਕਲ SDP (ਜਵਾਬ)
 about-webrtc-remote-sdp-heading = ਰਿਮੋਟ SDP
+about-webrtc-remote-sdp-heading-offer = ਰਿਮੋਟ SDP (ਪੇਸ਼ਕਸ਼)
+about-webrtc-remote-sdp-heading-answer = ਰਿਮੋਟ SDP (ਜਵਾਬ)
 
 ##
 
@@ -48,6 +52,8 @@ about-webrtc-ice-state = ICE ਹਾਲਤ
 about-webrtc-ice-stats-heading = ICE ਅੰਕੜੇ
 about-webrtc-ice-restart-count-label = ICE restarts:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
+about-webrtc-ice-pair-bytes-sent = ਭੇਜੇ ਬਾਈਟ:
+about-webrtc-ice-pair-bytes-received = ਮਿਲੇ ਬਾਈਟ:
 
 ##
 
@@ -101,6 +107,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ਬੰ�
 
 about-webrtc-local-candidate = ਲੋਕਲ ਉਮੀਦਵਾਰ
 about-webrtc-remote-candidate = ਰਿਮੋਟ ਉਮੀਦਵਾਰ
+about-webrtc-raw-candidates-heading = ਸਾਰੇ ਮੁ਼ਢਲੇ ਉਮੀਦਵਾਰ
+about-webrtc-raw-local-candidate = ਮੁੱਢਲੇ ਸਥਾਨਕ ਉਮੀਦਵਾਰ
+about-webrtc-raw-remote-candidate = ਮੁੱਢਲੇ ਰਿਮੋਟ ਉਮੀਦਵਾਰ
+about-webrtc-raw-cand-show-msg = ਮੁੱਢਲੇ ਉਮੀਦਵਾਰ ਦਿਖਾਓ
+    .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
+about-webrtc-raw-cand-hide-msg = ਮੁੱਢਲੇ ਉਮੀਦਵਾਰ ਲੁਕਾਓ
+    .title = ਇਸ ਭਾਗ ਨੂੰ ਸਮੇਟਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-priority = ਤਰਜੀਹ
 about-webrtc-fold-show-msg = ਵੇਰਵਿਆਂ ਨੂੰ ਵੇਖਾਓ
     .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
@@ -132,6 +145,10 @@ about-webrtc-aec-logging-off-state-msg = ਕੈਪਚਰ ਕੀਤੀਆਂ ਲ�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ਜਿੱਟਰ { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = ਜ਼ਾਹਰ ਹੋਏ ਉਮੀਦਵਾਰਾਂ (ਜਵਾਬ ਦੇ ਬਾਅਦ ਪਹੁੰਚੇ) ਨੂੰ ਨੀਲਾ ਵਿੱਚ ਉਘਾੜਿਆ ਜਾ ਰਿਹਾ ਹੈ
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
