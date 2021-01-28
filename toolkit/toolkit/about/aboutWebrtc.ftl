@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = 로컬 SDP (답변)
 about-webrtc-remote-sdp-heading = 원격 SDP
 about-webrtc-remote-sdp-heading-offer = 원격 SDP (제공)
 about-webrtc-remote-sdp-heading-answer = 원격 SDP (답변)
+about-webrtc-sdp-history-heading = SDP 기록
+about-webrtc-sdp-parsing-errors-heading = SDP 구문 분석 오류
 
 ##
 
@@ -86,7 +88,13 @@ about-webrtc-debug-mode-msg-label = 디버그 모드
 about-webrtc-debug-mode-off-state-label = 디버그 모드 시작
 about-webrtc-debug-mode-on-state-label = 디버그 모드 중지
 about-webrtc-stats-heading = 세션 통계
+about-webrtc-stats-clear = 기록 지우기
 about-webrtc-log-heading = 연결 로그
+about-webrtc-log-clear = 로그 지우기
+about-webrtc-log-show-msg = 로그 보기
+    .title = 섹션 펼치기
+about-webrtc-log-hide-msg = 로그 감추기
+    .title = 섹션 접기
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -102,15 +110,62 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (닫기)
 
 about-webrtc-local-candidate = 로컬 후보자
 about-webrtc-remote-candidate = 원격 후보자
+about-webrtc-raw-candidates-heading = 모든 원시 후보자
+about-webrtc-raw-local-candidate = 원시 지역 후보자
+about-webrtc-raw-remote-candidate = 원시 원격 후보자
+about-webrtc-raw-cand-show-msg = 원시 후보자 보기
+    .title = 섹션 펼치기
+about-webrtc-raw-cand-hide-msg = 원시 후보자 감추기
+    .title = 섹션 접기
 about-webrtc-priority = 우선순위
+about-webrtc-fold-show-msg = 상세 보기
+    .title = 섹션 펼치기
+about-webrtc-fold-hide-msg = 상세 감추기
+    .title = 섹션 접기
 about-webrtc-decoder-label = 디코더
 about-webrtc-encoder-label = 인코더
+about-webrtc-show-tab-label = 탭 표시
+about-webrtc-width-px = 너비 (px)
+about-webrtc-height-px = 높이 (px)
+about-webrtc-consecutive-frames = 연속 프레임
+about-webrtc-time-elapsed = 경과 시간 (초)
+about-webrtc-estimated-framerate = 예상 프레임레이트
+about-webrtc-rotation-degrees = 회전 (도)
+about-webrtc-first-frame-timestamp = 첫 번째 프레임 수신 타임스탬프
+about-webrtc-last-frame-timestamp = 마지막 프레임 수신 타임스탬프
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = 로컬 수신 SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = 원격 전송 SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = 제공됨
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = 제공되지 않음
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = 사용자 WebRTC 설정
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = 예상 대역폭
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = 트랙 식별자
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = 전송 대역폭 (바이트/초)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = 수신 대역폭 (바이트/초)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = 최대 패딩 (바이트/초)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = 페이서 지연 ms
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -137,6 +192,19 @@ about-webrtc-trickle-caption-msg = 끊기는 후보자(답변 후 도착)는 파
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = 타임스탬프 { NUMBER($timestamp, useGrouping: "false") }에 로컬 SDP 설정
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = 타임스탬프 { NUMBER($timestamp, useGrouping: "false") }에 원격 SDP 설정
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = 타임스탬프 { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
