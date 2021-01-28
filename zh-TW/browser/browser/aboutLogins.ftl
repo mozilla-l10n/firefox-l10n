@@ -305,3 +305,7 @@ about-logins-import-dialog-error-no-logins-imported = 未匯入任何登入資�
 about-logins-import-dialog-error-learn-more = 了解更多
 about-logins-import-dialog-error-try-again = 再試一次…
 about-logins-import-dialog-error-cancel = 取消
+
+## Logins import report page
+
+about-logins-import-report-page-title = 匯入摘要報告
