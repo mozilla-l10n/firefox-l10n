@@ -46,6 +46,8 @@ about-webrtc-rtp-stats-heading = RTPStats
 about-webrtc-ice-state = Stato ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Statistiche ICE
+about-webrtc-ice-restart-count-label = Avertue ICE:
+about-webrtc-ice-rollback-count-label = Rollback ICE:
 
 ##
 
@@ -60,6 +62,8 @@ about-webrtc-ice-stats-heading = Statistiche ICE
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Locale
+about-webrtc-type-remote = Remòtto
 
 ##
 
@@ -74,6 +78,7 @@ about-webrtc-save-page-label = Sarva pagina
 about-webrtc-debug-mode-msg-label = Modalitæ de debug
 about-webrtc-debug-mode-off-state-label = Inandia modalitæ de debug
 about-webrtc-debug-mode-on-state-label = Ferma modalitæ de debug
+about-webrtc-stats-heading = Statistiche de-e sescioin
 about-webrtc-log-heading = Registro de conescion
 about-webrtc-log-show-msg = Fanni vedde registro
     .title = sciacca pe espande sta seçion
