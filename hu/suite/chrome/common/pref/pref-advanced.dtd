@@ -14,6 +14,8 @@
 <!ENTITY prefCheckDefaultClient.label     "Alapértelmezett programok beállításának ellenőrzése induláskor">
 <!ENTITY prefCheckDefaultClient.accesskey "A">
 
+<!ENTITY printing.label                   "Nyomtatás">
+
 <!ENTITY crashReports.caption             "Hibabejelentő">
 <!ENTITY submitCrashes.label              "Hibajelentés küldése">
 <!ENTITY submitCrashes.accesskey          "b">
