@@ -56,6 +56,8 @@ about-webrtc-ice-stats-heading = Statistika ICE
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = místní
+about-webrtc-type-remote = vzdálené
 
 ##
 
