@@ -79,6 +79,7 @@ about-webrtc-debug-mode-msg-label = दोषसुधार मोड
 about-webrtc-debug-mode-off-state-label = दोषसुधार मोड प्रारंभ करें
 about-webrtc-debug-mode-on-state-label = दोषसुधार मोड रोकें
 about-webrtc-stats-heading = सत्र आंकड़े
+about-webrtc-stats-clear = इतिहास साफ़ करें
 about-webrtc-log-heading = कनेक्शन लॉग
 about-webrtc-log-show-msg = लॉग दिखाएँ
     .title = विभाग फैलाने के लिये क्लिक करें
