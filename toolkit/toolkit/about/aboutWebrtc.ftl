@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Τοπικό SDP (Απάντηση)
 about-webrtc-remote-sdp-heading = Απομακρυσμένο SDP
 about-webrtc-remote-sdp-heading-offer = Απομακρυσμένο SDP (Προσφορά)
 about-webrtc-remote-sdp-heading-answer = Απομακρυσμένο SDP (Απάντηση)
+about-webrtc-sdp-history-heading = Ιστορικό SDP
+about-webrtc-sdp-parsing-errors-heading = Σφάλματα ανάλυσης SDP
 
 ##
 
@@ -122,12 +124,48 @@ about-webrtc-fold-hide-msg = απόκρυψη λεπτομερειών
     .title = κάντε κλικ για σύμπτυξη ενότητας
 about-webrtc-decoder-label = Αποκωδικοποιητής
 about-webrtc-encoder-label = Κωδικοποιητής
+about-webrtc-show-tab-label = Εμφάνιση καρτέλας
+about-webrtc-width-px = Πλάτος (px)
+about-webrtc-height-px = Ύψος (px)
+about-webrtc-consecutive-frames = Διαδοχικά καρέ
+about-webrtc-time-elapsed = Χρόνος που έχει παρέλθει (s)
+about-webrtc-estimated-framerate = Εκτιμώμενος ρυθμός καρέ
+about-webrtc-rotation-degrees = Περιστροφή (μοίρες)
+about-webrtc-first-frame-timestamp = Χρονική σήμανση λήψης πρώτου καρέ
+about-webrtc-last-frame-timestamp = Χρονική σήμανση λήψης τελευταίου καρέ
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Τοπική λήψη SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Απομακρυσμένη αποστολή SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Παρέχεται
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Δεν παρέχεται
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Προτιμήσεις χρήστη για το WebRTC
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Εκτιμώμενο εύρος ζώνης
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Αναγνωριστικό κομματιού
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Εύρος ζώνης αποστολής (bytes/δ)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Εύρος ζώνης λήψης (bytes/δ)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Μέγιστο padding (bytes/δ)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Καθυστέρηση pacer (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +192,19 @@ about-webrtc-trickle-caption-msg = Οι αργοί υποψήφιοι (που φ
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Ορισμός Τοπικό SDP στη χρονική σήμανση { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Ορισμός Απομακρυσμένο SDP στη χρονική σήμανση { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Χρονική σήμανση { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
