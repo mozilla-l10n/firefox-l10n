@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection அ.எ:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = உள்ளூர் SDP
+about-webrtc-local-sdp-heading-offer = உள்ளூர் SDP (வழங்கல்)
+about-webrtc-local-sdp-heading-answer = உள்ளூர் SDP (பதில்)
 about-webrtc-remote-sdp-heading = தொலைநிலை SDP
+about-webrtc-remote-sdp-heading-offer = தொலைநிலை SDP (வழங்கல்)
+about-webrtc-remote-sdp-heading-answer = தொலைநிலை SDP (பதில்)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE மறுதொடங்குகி�
 about-webrtc-ice-rollback-count-label = ICE பின்திரும்பல்கள்:
 about-webrtc-ice-pair-bytes-sent = பைட்டுகள் அனுப்பப்பட்டன:
 about-webrtc-ice-pair-bytes-received = பைட்டுகள் பெறப்பட்டன:
+about-webrtc-ice-component-id = உறுப்பு அடையாளம்
 
 ##
 
