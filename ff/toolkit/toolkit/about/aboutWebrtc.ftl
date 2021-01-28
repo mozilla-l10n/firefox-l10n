@@ -47,6 +47,9 @@ about-webrtc-ice-state = ICE State
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE Stats
 about-webrtc-ice-restart-count-label = ICE puɗɗite:
+about-webrtc-ice-rollback-count-label = Dutte caggal ICE:
+about-webrtc-ice-pair-bytes-sent = Jeetatiije neldaama:
+about-webrtc-ice-pair-bytes-received = Jeetatiije keɓaaɗe:
 
 ##
 
