@@ -36,6 +36,7 @@ about-webrtc-local-sdp-heading-answer = Helyi SDP (Válasz)
 about-webrtc-remote-sdp-heading = Távoli SDP
 about-webrtc-remote-sdp-heading-offer = Távoli SDP (Ajánlat)
 about-webrtc-remote-sdp-heading-answer = Távoli SDP (Válasz)
+about-webrtc-sdp-history-heading = SDP-előzmények
 
 ##
 
@@ -122,6 +123,12 @@ about-webrtc-fold-hide-msg = részletek elrejtése
     .title = kattintson a szakasz összecsukásához
 about-webrtc-decoder-label = Dekódoló
 about-webrtc-encoder-label = Kódoló
+about-webrtc-width-px = Szélesség (px)
+about-webrtc-height-px = Magasság (px)
+about-webrtc-consecutive-frames = Egymást követő keretek
+about-webrtc-time-elapsed = Eltelt idő (s)
+about-webrtc-estimated-framerate = Becsült képkockasebesség
+about-webrtc-rotation-degrees = Forgatás (fok)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -154,6 +161,14 @@ about-webrtc-trickle-caption-msg = A lecsorgó (válasz után érkező) jelölte
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = A Helyi SDP beállítva a következő időbélyegkor: { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = A Távoli SDP beállítva a következő időbélyegkor: { NUMBER($timestamp, useGrouping: "false") }
 
 ##
 
