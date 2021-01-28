@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection-tunnus:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Paikallinen SDP
+about-webrtc-local-sdp-heading-offer = Paikallinen SDP (Tarjous)
+about-webrtc-local-sdp-heading-answer = Paikallinen SDP (Vastaus)
 about-webrtc-remote-sdp-heading = Etä-SDP
+about-webrtc-remote-sdp-heading-offer = Etä-SDP (Tarjous)
+about-webrtc-remote-sdp-heading-answer = Etä-SDP (Vastaus)
 
 ##
 
@@ -46,6 +50,11 @@ about-webrtc-rtp-stats-heading = RTP-tiedot
 about-webrtc-ice-state = ICE-tila
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE-tilastot
+about-webrtc-ice-restart-count-label = ICE-uudelleenkäynnistykset:
+about-webrtc-ice-rollback-count-label = ICE-peruutukset:
+about-webrtc-ice-pair-bytes-sent = Tavuja lähetetty:
+about-webrtc-ice-pair-bytes-received = Tavuja vastaanotettu:
+about-webrtc-ice-component-id = Komponentin tunniste
 
 ##
 
@@ -76,9 +85,14 @@ about-webrtc-save-page-label = Tallenna sivu
 about-webrtc-debug-mode-msg-label = Virheenjäljitystila
 about-webrtc-debug-mode-off-state-label = Käynnistä virheenjäljitystila
 about-webrtc-debug-mode-on-state-label = Pysäytä virheenjäljitystila
+about-webrtc-stats-heading = Istunnon tilastot
+about-webrtc-stats-clear = Tyhjennä historia
 about-webrtc-log-heading = Yhteysloki
+about-webrtc-log-clear = Tyhjennä loki
 about-webrtc-log-show-msg = näytä loki
     .title = laajenna napsauttamalla
+about-webrtc-log-hide-msg = piilota loki
+    .title = kutista napsauttamalla
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -94,9 +108,18 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (suljett
 
 about-webrtc-local-candidate = Paikallinen ehdokas
 about-webrtc-remote-candidate = Etäehdokas
+about-webrtc-raw-candidates-heading = Kaikki raa’at ehdokkaat
+about-webrtc-raw-local-candidate = Raa’at paikalliset ehdokkaat
+about-webrtc-raw-remote-candidate = Raa’at etäehdokkaat
+about-webrtc-raw-cand-show-msg = näytä raa’at ehdokkaat
+    .title = laajenna napsauttamalla
+about-webrtc-raw-cand-hide-msg = piilota raa’at ehdokkaat
+    .title = kutista napsauttamalla
 about-webrtc-priority = Prioriteetti
 about-webrtc-fold-show-msg = näytä tiedot
     .title = laajenna napsauttamalla
+about-webrtc-fold-hide-msg = piilota tiedot
+    .title = kutista napsauttamalla
 about-webrtc-decoder-label = Purkaja
 about-webrtc-encoder-label = Enkoodaaja
 
@@ -123,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = kaapatut lokitiedostot kohteessa: { $pa
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Vastauksen jälkeen saapuvat ehdokkaat (trickled) korostetaan sinisellä
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
