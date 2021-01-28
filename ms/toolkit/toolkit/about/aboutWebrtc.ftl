@@ -6,6 +6,8 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+# The text "WebRTC" is a proper noun and should not be translated.
+about-webrtc-document-title = Dalaman WebRTC
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
