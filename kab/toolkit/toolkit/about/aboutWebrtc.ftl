@@ -32,8 +32,10 @@ about-webrtc-peerconnection-id-label = Asulay PeerConnection:
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP adigan
 about-webrtc-local-sdp-heading-offer = SDP adigan (Asumer)
+about-webrtc-local-sdp-heading-answer = SDP adigan (Tiririt)
 about-webrtc-remote-sdp-heading = SDP anmeggag
 about-webrtc-remote-sdp-heading-offer = SDP anmeggag (Asumer)
+about-webrtc-remote-sdp-heading-answer = SDP anmeggag (Tiririt)
 
 ##
 
