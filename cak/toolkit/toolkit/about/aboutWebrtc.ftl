@@ -6,9 +6,18 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+# The text "WebRTC" is a proper noun and should not be translated.
+about-webrtc-document-title = Taq tzij chupam richin WebRTC
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = tiyak about:webrtc achi'el
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-msg-label = AEC tz'ib'axïk
+about-webrtc-aec-logging-off-state-label = Titikirisäx AEC rutz'ib'axik
+about-webrtc-aec-logging-on-state-label = Tiq'at AEC rutz'ib'axik
+about-webrtc-aec-logging-on-state-msg = Tzijïl ri AEC rutz'ib'axik (katzijon rik'in ri winäq jujun ch'utaq ramaj k'a ri' tatanab'a' ri chapoj)
 
 ##
 
@@ -22,13 +31,25 @@ about-webrtc-peerconnection-id-label = PeerConnection nimaläj b'i'aj:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Aj wawe' SDP
+about-webrtc-remote-sdp-heading = Näj SDP
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = RTP cholajilatzij
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = ICE amaq'
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = ICE cholajilatzij
+about-webrtc-ice-restart-count-label = ICE titikirisäx chik:
+about-webrtc-ice-rollback-count-label = ICE rollbacks:
+about-webrtc-ice-pair-bytes-sent = Taq wayt etaqon:
+about-webrtc-ice-pair-bytes-received = Taq wayt ek'ulun:
 
 ##
 
@@ -43,9 +64,25 @@ about-webrtc-local-sdp-heading = Aj wawe' SDP
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Aj wawe'
+about-webrtc-type-remote = Näj
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = B'ina'an
+about-webrtc-debug-mode-msg-label = Pa rub'eyal chojmirisanel
+about-webrtc-debug-mode-off-state-label = Titikirisäx pa rub'eyal chojmirisaxïk
+about-webrtc-debug-mode-on-state-label = Tiq'at ri rub'eyal chojmirisanïk
+about-webrtc-stats-heading = Rumolob'a' molojri'ïl
+about-webrtc-stats-clear = Tiyuj el ri natab'äl
+about-webrtc-log-heading = Rutz'ib'axik okem
+about-webrtc-log-clear = Tijosq'ïx tz'ib'anïk
+about-webrtc-log-show-msg = tik'ut pe rutz'ib'axik
+    .title = tapitz'a' richin narïk' re peraj re'
+about-webrtc-log-hide-msg = tewäx ri rutz'ib'axik
+    .title = tapitz'a' richin nuk'öl ri' re peraj re'
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -59,6 +96,15 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (Tz'apä
 
 ##
 
+about-webrtc-local-candidate = Cha'oxel aj wawe'
+about-webrtc-remote-candidate = Näj chi cha'oxel
+about-webrtc-priority = Ya'on ruq'ij
+about-webrtc-fold-show-msg = kek'ut pe ri taq rub'anikil
+    .title = tapitz'a' richin narïk' re peraj re'
+about-webrtc-fold-hide-msg = ke'ewäx ri taq rub'anikil
+    .title = tapitz'a' richin nuk'öl ri' re peraj re'
+about-webrtc-decoder-label = Elesäy na'oj
+about-webrtc-encoder-label = Elesäy na'oj
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -71,9 +117,18 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (Tz'apä
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = yakon ruxaq pa: { $path }
+about-webrtc-debug-mode-off-state-msg = ri rutz'ib'axik retal tikirel nilitäj pa { $path }
+about-webrtc-debug-mode-on-state-msg = pa rub'eyal tzijïl chojmirisanïk, rutz'ib'axik retal pa: { $path }
+about-webrtc-aec-logging-off-state-msg = ri kitz'ib'axik taq yakb'äl yatikïr ye'awïl pa: { $path }
 
 ##
 
+# Jitter is the variance in the arrival time of packets.
+# See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
+# Variables:
+#   $jitter (Number) - The jitter.
+about-webrtc-jitter-label = Jitter { $jitter }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
