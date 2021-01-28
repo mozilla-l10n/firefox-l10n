@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Fenèstra novèla
 appmenuitem-new-private-window =
     .label = Novèla fenèstra de navegacion privada
+appmenuitem-passwords =
+    .label = Senhals
+appmenuitem-extensions-and-themes =
+    .label = Extensions e tèmas
+appmenuitem-find-in-page =
+    .label = Recercar dins la pagina…
+appmenuitem-more-tools =
+    .label = Mai d’aisinas…
+appmenuitem-exit =
+    .label = Sortir
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Paramètres
 
 ## Zoom and Fullscreen Controls
 
