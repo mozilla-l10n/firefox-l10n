@@ -8,6 +8,9 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC 内部
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = 另存 about:webrtc 为
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
