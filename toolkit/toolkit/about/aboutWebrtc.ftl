@@ -31,7 +31,9 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = స్థానిక SDP
+about-webrtc-local-sdp-heading-answer = స్థానిక SDP (సమాధానం)
 about-webrtc-remote-sdp-heading = రిమోట్ SDP
+about-webrtc-remote-sdp-heading-answer = రిమోట్ SDP (సమాధానం)
 
 ##
 
@@ -48,6 +50,8 @@ about-webrtc-ice-state = ICE స్థితి
 about-webrtc-ice-stats-heading = ICE గణాంకాలు
 about-webrtc-ice-restart-count-label = ICE పునఃప్రారంభం:
 about-webrtc-ice-rollback-count-label = ICE ఉపసంహరణ:
+about-webrtc-ice-pair-bytes-sent = పంపిన బైట్‌లు:
+about-webrtc-ice-pair-bytes-received = అందుకున్న బైట్‌లు:
 
 ##
 
