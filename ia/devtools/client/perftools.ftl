@@ -68,9 +68,38 @@ perftools-button-cancel-recording = Cancellar registration
 perftools-button-save-settings = Salvar parametros e retornar
 perftools-button-restart = Reinitiar
 perftools-button-add-directory = Adder un directorio
+perftools-button-remove-directory = Remover los selecte
+perftools-button-edit-settings = Rediger parametros...
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Le principal processos sia pro le processo parente que pro le processos contento
+perftools-thread-compositor =
+    .title = Combina insimul differente elementos pingite sur le pagina
+perftools-thread-dom-worker =
+    .title = Isto gere sia obreros de web que obreros de servicio
+perftools-thread-renderer =
+    .title = Quando WebRender es activate, le discussion que exeque appellos OpenGL
+perftools-thread-render-backend =
+    .title = Le discussion WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Le argumento sur le qual on pinge, quando es activate le pictura extra argumento principal
+perftools-thread-style-thread =
+    .title = Computation de stilos es scindite in plure argumentos
+pref-thread-stream-trans =
+    .title = Transporto diffusion de rete
+perftools-thread-socket-thread =
+    .title = Le argumento ubi le codice de rete exeque ulle appellos blocante cavos
+perftools-thread-img-decoder =
+    .title = Argumentos de decodification de imagine
+perftools-thread-dns-resolver =
+    .title = Le resolution de DNS eveni sur iste argumento
+perftools-thread-js-helper =
+    .title = Labor de fundo de motor JS como compilationes extra argumento principal
 
 ##
 
+perftools-record-all-registered-threads = Ignorar selectiones supra e registrar tote le argumentos registrate
+perftools-tools-threads-input-label =
+    .title = Iste nomines de argumento es un lista separate per virgulas que es usate pro activar le profilation del argumentos in le profilator. Le nomine debe esser solo un concordantia partial del nomine de argumento a includer. Il es sensibile al spatios blanc.
