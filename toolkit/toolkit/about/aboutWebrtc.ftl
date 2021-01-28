@@ -48,6 +48,8 @@ about-webrtc-ice-state = Cyflwr ICE
 about-webrtc-ice-stats-heading = Ystadegau ICE
 about-webrtc-ice-restart-count-label = Ailgychwyn ICE:
 about-webrtc-ice-rollback-count-label = Hen fersiynau ICE:
+about-webrtc-ice-pair-bytes-sent = Didau wedi'u hanfon:
+about-webrtc-ice-pair-bytes-received = Didau wedi'u derbyn:
 
 ##
 
