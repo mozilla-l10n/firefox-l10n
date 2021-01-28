@@ -8,6 +8,9 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Dalaman WebRTC
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = simpan about:webrtc sebagai
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
