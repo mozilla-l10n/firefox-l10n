@@ -36,7 +36,7 @@ perftools-description-local-build =
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-label = Intervalo de muestreo:
-perftools-range-interval-milliseconds = { NUMBER($Intervalo, maxFractionalUnit: 2) } ms
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnit: 2) } ms
 
 ##
 
