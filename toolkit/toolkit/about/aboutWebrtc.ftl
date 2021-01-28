@@ -14,6 +14,7 @@ about-webrtc-save-page-dialog-title = guardar página about:webrtc como
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-msg-label = Registo AEC
 about-webrtc-aec-logging-off-state-label = Iniciar registo AEC
 about-webrtc-aec-logging-on-state-label = Parar registo AEC
 about-webrtc-aec-logging-on-state-msg = Registo AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
@@ -28,17 +29,28 @@ about-webrtc-peerconnection-id-label = ID da ligação do par:
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
 about-webrtc-remote-sdp-heading = SDP remoto
 about-webrtc-sdp-parsing-errors-heading = Erros de interpretação do SDP
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = Estatísticas RTP
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
 about-webrtc-ice-state = Estado ICE
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = Estatísticas ICE
+about-webrtc-ice-restart-count-label = Reinícios ICE:
+about-webrtc-ice-rollback-count-label = Reversões ICE:
+about-webrtc-ice-pair-bytes-sent = Bytes enviados:
+about-webrtc-ice-pair-bytes-received = Bytes recebidos:
 
 ##
 
@@ -53,6 +65,8 @@ about-webrtc-ice-state = Estado ICE
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Local
+about-webrtc-type-remote = Remoto
 
 ##
 
@@ -67,7 +81,10 @@ about-webrtc-save-page-label = Guardar página
 about-webrtc-debug-mode-msg-label = Modo de depuração
 about-webrtc-debug-mode-off-state-label = Iniciar modo de depuração
 about-webrtc-debug-mode-on-state-label = Parar modo de depuração
+about-webrtc-stats-heading = Estatísticas da sessão
+about-webrtc-stats-clear = Limpar histórico
 about-webrtc-log-heading = Registo de ligação
+about-webrtc-log-clear = Limpar registo
 about-webrtc-log-show-msg = mostrar registo
     .title = clique para expandir esta secção
 about-webrtc-log-hide-msg = ocultar registo
@@ -132,6 +149,7 @@ about-webrtc-round-trip-time-ms = Tempo de ida e volta ms
 
 about-webrtc-save-page-msg = página guardada em: { $path }
 about-webrtc-debug-mode-off-state-msg = o registo de execução pode ser encontrado em: { $path }
+about-webrtc-debug-mode-on-state-msg = modo de depuração ativo, registo de rastreio em: { $path }
 about-webrtc-aec-logging-off-state-msg = os ficheiros do registo da captura podem ser encontrados em: { $path }
 
 ##
