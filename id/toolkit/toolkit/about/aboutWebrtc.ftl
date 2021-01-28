@@ -47,6 +47,8 @@ about-webrtc-ice-state = Status ICE
 about-webrtc-ice-stats-heading = Statistik ICE
 about-webrtc-ice-restart-count-label = ICE dimuat ulang:
 about-webrtc-ice-rollback-count-label = ICE diputar kembali:
+about-webrtc-ice-pair-bytes-sent = Bita terkirim:
+about-webrtc-ice-pair-bytes-received = Bita diterima:
 
 ##
 
