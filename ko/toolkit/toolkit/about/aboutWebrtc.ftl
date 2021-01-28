@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = 컴포넌트 ID
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = 평균 비트레이트:
+about-webrtc-avg-framerate-label = 평균 프레임레이트:
 
 ##
 
@@ -122,6 +124,7 @@ about-webrtc-fold-show-msg = 상세 보기
     .title = 섹션 펼치기
 about-webrtc-fold-hide-msg = 상세 감추기
     .title = 섹션 접기
+about-webrtc-dropped-frames-label = 손실된 프레임:
 about-webrtc-decoder-label = 디코더
 about-webrtc-encoder-label = 인코더
 about-webrtc-show-tab-label = 탭 표시
