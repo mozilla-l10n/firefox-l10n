@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokalni SDP
+about-webrtc-local-sdp-heading-offer = Lokalni SDP (Ponuda)
+about-webrtc-local-sdp-heading-answer = Lokalni SDP (Odgovor)
 about-webrtc-remote-sdp-heading = Udaljeni SDP
+about-webrtc-remote-sdp-heading-offer = Udaljeni SDP (Ponuda)
+about-webrtc-remote-sdp-heading-answer = Udaljeni SDP (Odgovor)
 
 ##
 
@@ -48,6 +52,8 @@ about-webrtc-ice-state = ICE stanje
 about-webrtc-ice-stats-heading = ICE statistika
 about-webrtc-ice-restart-count-label = ICE restarta:
 about-webrtc-ice-rollback-count-label = ICE rollback-a:
+about-webrtc-ice-pair-bytes-sent = Bajta poslano:
+about-webrtc-ice-pair-bytes-received = Bajta primljeno:
 
 ##
 
@@ -79,6 +85,7 @@ about-webrtc-debug-mode-msg-label = Režim debagiranja
 about-webrtc-debug-mode-off-state-label = Započni režim debagiranja
 about-webrtc-debug-mode-on-state-label = Zaustavi režim debagiranja
 about-webrtc-stats-heading = Statistika sesije
+about-webrtc-stats-clear = Obriši historiju
 about-webrtc-log-heading = Zapisnik veze
 about-webrtc-log-clear = Očisti zapisnik
 about-webrtc-log-show-msg = prikaži zapisnik
@@ -100,6 +107,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zatvore
 
 about-webrtc-local-candidate = Lokalni kandidat
 about-webrtc-remote-candidate = Udaljeni kandidat
+about-webrtc-raw-candidates-heading = Svi sirovi kandidati
+about-webrtc-raw-local-candidate = Sirovi lokalni kandidati
+about-webrtc-raw-remote-candidate = Sirovi udaljeni kandidati
+about-webrtc-raw-cand-show-msg = prikaži sirove kandidate
+    .title = kliknite za proširenje ove sekcije
+about-webrtc-raw-cand-hide-msg = sakrij sirove kandidate
+    .title = kliknite za skupljanje ove sekcije
 about-webrtc-priority = Prioritet
 about-webrtc-fold-show-msg = prikaži detalje
     .title = kliknite za proširenje ove sekcije
@@ -131,6 +145,10 @@ about-webrtc-aec-logging-off-state-msg = snimljeni zapisnički fajlovi mogu biti
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickle-ovani kandidati (stižu nakon odgovora) su označeni plavom bojom
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
