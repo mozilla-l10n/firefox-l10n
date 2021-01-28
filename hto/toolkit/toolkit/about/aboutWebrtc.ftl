@@ -6,6 +6,9 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = jone about:webrtc bíe ízoi
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -17,6 +20,7 @@
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = Béno íe SDP
 
 ##
 
@@ -24,6 +28,7 @@ about-webrtc-sdp-heading = SDP
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = ICE Íyano
 
 ##
 
@@ -38,9 +43,18 @@ about-webrtc-sdp-heading = SDP
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Béno íe
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = Jónegamakɨ
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Nɨzeka
+about-webrtc-save-page-label = Rábe ñúe jóne
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -50,9 +64,11 @@ about-webrtc-sdp-heading = SDP
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (Ɨ́baide) { $now }
 
 ##
 
+about-webrtc-local-candidate = Béno íe jónegamakɨ
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -65,6 +81,7 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = Rabe jonega bíemo: { $path }
 
 ##
 
