@@ -37,6 +37,7 @@ about-webrtc-remote-sdp-heading = Távoli SDP
 about-webrtc-remote-sdp-heading-offer = Távoli SDP (Ajánlat)
 about-webrtc-remote-sdp-heading-answer = Távoli SDP (Válasz)
 about-webrtc-sdp-history-heading = SDP-előzmények
+about-webrtc-sdp-parsing-errors-heading = SDP értelmezési hibák
 
 ##
 
@@ -123,18 +124,48 @@ about-webrtc-fold-hide-msg = részletek elrejtése
     .title = kattintson a szakasz összecsukásához
 about-webrtc-decoder-label = Dekódoló
 about-webrtc-encoder-label = Kódoló
+about-webrtc-show-tab-label = Lap megjelenítése
 about-webrtc-width-px = Szélesség (px)
 about-webrtc-height-px = Magasság (px)
 about-webrtc-consecutive-frames = Egymást követő keretek
 about-webrtc-time-elapsed = Eltelt idő (s)
 about-webrtc-estimated-framerate = Becsült képkockasebesség
 about-webrtc-rotation-degrees = Forgatás (fok)
+about-webrtc-first-frame-timestamp = Első képkocka fogadási időbélyege
+about-webrtc-last-frame-timestamp = Utolsó képkocka fogadási időbélyege
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Helyi fogadó SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Távoli küldő SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Biztosított
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Nem biztosított
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Felhasználó által megadott WebRTC-beállítások
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Becsült sávszélesség
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Sávazonosító
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Küldési sávszélesség (bájt/mp)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Fogadási sávszélesség (bájt/mp)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maximális kitöltés (bájt/mp)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Ütemező késleltetése (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT (ms)
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -169,6 +200,11 @@ about-webrtc-sdp-set-at-timestamp-local = A Helyi SDP beállítva a következő 
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = A Távoli SDP beállítva a következő időbélyegkor: { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Időbélyeg: { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
