@@ -50,6 +50,7 @@ about-webrtc-rtp-stats-heading = RTP 상태
 about-webrtc-ice-state = ICE 상태
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE 통계
+about-webrtc-ice-restart-count-label = ICE 다시 시작:
 about-webrtc-ice-rollback-count-label = ICE 롤백:
 about-webrtc-ice-pair-bytes-sent = 보낸 바이트:
 about-webrtc-ice-pair-bytes-received = 받은 바이트:
