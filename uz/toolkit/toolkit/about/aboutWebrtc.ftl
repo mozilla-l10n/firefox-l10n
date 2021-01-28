@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = saqlash haqida:webrtc kabi
 about-webrtc-aec-logging-msg-label = AEC jurnalga kiritish
 about-webrtc-aec-logging-off-state-label = AEC jurnalga kiritishni boshlash
 about-webrtc-aec-logging-on-state-label = AEC jurnalga kiritishni to‘xtatish
+about-webrtc-aec-logging-on-state-msg = AEC jurnalga kiritish faol (chaqiruvchi bilan bir necha daqiqa gaplashing va soʻngra yozib olishni toʻxtating)
 
 ##
 
