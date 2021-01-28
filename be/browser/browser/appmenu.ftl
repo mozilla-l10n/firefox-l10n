@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Новае акно
 appmenuitem-new-private-window =
     .label = Новае прыватнае акно
+appmenuitem-passwords =
+    .label = Паролі
+appmenuitem-extensions-and-themes =
+    .label = Пашырэнні і тэмы
+appmenuitem-find-in-page =
+    .label = Знайсці на старонцы…
+appmenuitem-more-tools =
+    .label = Іншыя прылады
+appmenuitem-exit =
+    .label = Выйсці
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Налады
 
 ## Zoom and Fullscreen Controls
 
