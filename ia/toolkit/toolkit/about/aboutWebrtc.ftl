@@ -16,6 +16,8 @@ about-webrtc-save-page-dialog-title = salvar about:webrtc como
 
 about-webrtc-aec-logging-msg-label = Registration de AEC
 about-webrtc-aec-logging-off-state-label = Comenciar le registration de AEC
+about-webrtc-aec-logging-on-state-label = Stoppar registration AEC
+about-webrtc-aec-logging-on-state-msg = Registration AEC active (parla con le appellator durante alcun minutas e alora stoppa le captura)
 
 ##
 
@@ -84,6 +86,7 @@ about-webrtc-selected = Seligite
 about-webrtc-save-page-label = Salvar le pagina
 about-webrtc-debug-mode-msg-label = Modo depuration
 about-webrtc-debug-mode-off-state-label = Comenciar le modo depuration
+about-webrtc-debug-mode-on-state-label = Stoppar modo de depuration
 about-webrtc-stats-heading = Statisticas de session
 about-webrtc-stats-clear = Vacuar le chronologia
 about-webrtc-log-heading = Diario de connexion
@@ -122,6 +125,7 @@ about-webrtc-fold-hide-msg = celar le detalios
 about-webrtc-decoder-label = Decodificator
 about-webrtc-encoder-label = Codificator
 about-webrtc-show-tab-label = Monstrar scheda
+about-webrtc-width-px = Latitude (px)
 about-webrtc-height-px = Altessa (px)
 about-webrtc-consecutive-frames = Quadros consecutive
 about-webrtc-time-elapsed = Tempore passate (s)
@@ -147,8 +151,14 @@ about-webrtc-configuration-element-provided = Fornite
 about-webrtc-configuration-element-not-provided = Non fornite
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferentias WebRTC definite per le usator
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Largor de banda estimate
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Identificator de tracia
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Largor de banda in invio (bytes/sec)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Largor de banda in reception (bytes/sec)
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maxime margines (bytes/sec)
 # The amount of time inserted between packets to keep them spaced out
