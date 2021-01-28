@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nova janela
 appmenuitem-new-private-window =
     .label = Nova janela privativa
+appmenuitem-passwords =
+    .label = Senhas
+appmenuitem-extensions-and-themes =
+    .label = Extensões e temas
+appmenuitem-find-in-page =
+    .label = Procurar na página…
+appmenuitem-more-tools =
+    .label = Mais ferramentas
+appmenuitem-exit =
+    .label = Sair
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Configurações
 
 ## Zoom and Fullscreen Controls
 

@@ -317,3 +317,7 @@ about-logins-import-dialog-error-no-logins-imported = Nenhuma conta foi importad
 about-logins-import-dialog-error-learn-more = Saiba mais
 about-logins-import-dialog-error-try-again = Tentar novamente…
 about-logins-import-dialog-error-cancel = Cancelar
+
+## Logins import report page
+
+about-logins-import-report-page-title = Relatório de resumo da importação
