@@ -31,8 +31,10 @@ about-webrtc-peerconnection-id-label = PeerConnection شناخت:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = مقامی SDP
+about-webrtc-local-sdp-heading-offer = مقامی SDP (پیش کرتے ہیں)
 about-webrtc-local-sdp-heading-answer = مقامی SDP (جواب)
 about-webrtc-remote-sdp-heading = بعید SDP
+about-webrtc-remote-sdp-heading-offer = بعید SDP (پیش کرتے ہیں)
 about-webrtc-remote-sdp-heading-answer = بعید SDP (جواب)
 
 ##
