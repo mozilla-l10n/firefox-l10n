@@ -90,13 +90,13 @@ options-context-advanced-settings = Configurações avançadas
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Desativar cache HTTP (quando a caixa de ferramentas está aberta)
 options-disable-http-cache-tooltip =
-    .title = Desativa o cache HTTP de todas as abas que estão com as ferramentas de desenvolvimento abertas. Service workers não são afetados por esta opção.
+    .title = Desativar cache HTTP de todas as abas que estão com as ferramentas de desenvolvimento abertas. Service workers não são afetados por esta opção.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Desativar JavaScript *
 options-disable-javascript-tooltip =
-    .title = Turning this option on will disable JavaScript for the current tab. If the tab or the toolbox is closed then this setting will be forgotten.
+    .title = Desativar JavaScript na aba atual. Se a aba ou a caixa de ferramentas for fechada, esta configuração é esquecida.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Enable browser chrome and add-on debugging toolboxes
+options-enable-chrome-label = Ativar caixas de ferramentas de debug do chrome do navegador e de extensões
 options-enable-chrome-tooltip =
     .title = Turning this option on will allow you to use various developer tools in browser context (via Tools > Web Developer > Browser Toolbox) and debug add-ons from the Add-ons Manager
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
