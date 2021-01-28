@@ -288,6 +288,10 @@ about-logins-import-dialog-error-title = Ojavy mba’egueru
 about-logins-import-dialog-error-file-format-title = Marandurenda ysaja iñapañuãi
 about-logins-import-dialog-error-file-permission-title = Noñemoñe’ẽkuaái marandurenda
 about-logins-import-dialog-error-unable-to-read-title = Noñemomba’apokuaái marandurenda
+about-logins-import-dialog-error-unable-to-read-description = Eiporavo marandurenda CSV térã TSV.
+about-logins-import-dialog-error-no-logins-imported = Noñemba’eguerúi tembiapo ñepyrũ
+about-logins-import-dialog-error-learn-more = Kuaave
+about-logins-import-dialog-error-try-again = Eha’ãjey…
 
 ## Logins import report page
 
