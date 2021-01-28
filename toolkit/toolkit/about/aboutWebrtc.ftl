@@ -124,6 +124,7 @@ about-webrtc-fold-hide-msg = приховати
     .title = натисніть, щоб згорнути цю секцію
 about-webrtc-decoder-label = Декодер
 about-webrtc-encoder-label = Енкодер
+about-webrtc-show-tab-label = Показати вкладку
 about-webrtc-width-px = Ширина (px)
 about-webrtc-height-px = Висота (px)
 about-webrtc-consecutive-frames = Послідовні кадри
@@ -148,6 +149,23 @@ about-webrtc-configuration-element-provided = Надано
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Не надано
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Встановлені користувачем параметри WebRTC
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Приблизна пропускна здатність
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Ідентифікатор стеження
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Пропускна здатність під час надсилання (байт/сек)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Пропускна здатність під час отримання (байт/сек)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Найшвидше заповнення (байт/сек)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Затримка мс
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT мс
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -182,6 +200,11 @@ about-webrtc-sdp-set-at-timestamp-local = Встановити для Локал
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Встановити для Віддалений SDP відмітку часу { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Часова позначка { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } мс)
 
 ##
 
