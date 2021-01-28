@@ -54,6 +54,7 @@ about-webrtc-ice-restart-count-label = Restarty ICE:
 about-webrtc-ice-rollback-count-label = Rollbacky ICE:
 about-webrtc-ice-pair-bytes-sent = Odesláno bajtů:
 about-webrtc-ice-pair-bytes-received = Staženo bajtů:
+about-webrtc-ice-component-id = ID komponenty
 
 ##
 
