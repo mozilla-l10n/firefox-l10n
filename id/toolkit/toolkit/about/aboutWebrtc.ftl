@@ -36,6 +36,7 @@ about-webrtc-local-sdp-heading-answer = SDP Lokal (Jawab)
 about-webrtc-remote-sdp-heading = SDP Jarak Jauh
 about-webrtc-remote-sdp-heading-offer = SDP Jarak Jauh (Penawaran)
 about-webrtc-remote-sdp-heading-answer = SDP Jarak Jauh (Jawab)
+about-webrtc-sdp-history-heading = Riwayat SDP
 about-webrtc-sdp-parsing-errors-heading = Kesalahan Parsing SDP
 
 ##
@@ -123,9 +124,21 @@ about-webrtc-fold-hide-msg = sembunyikan detail
     .title = klik untuk menciutkan bagian ini
 about-webrtc-decoder-label = Dekoder
 about-webrtc-encoder-label = Enkoder
+about-webrtc-width-px = Lebar (px)
+about-webrtc-height-px = Tinggi (px)
+about-webrtc-consecutive-frames = Bingkai Berturutan
+about-webrtc-time-elapsed = Waktu Berlalu (dtk)
+about-webrtc-estimated-framerate = Perkiraan Framerate
+about-webrtc-rotation-degrees = Rotasi (derajat)
+about-webrtc-first-frame-timestamp = Stempel Waktu Penerimaan Frame Pertama
+about-webrtc-last-frame-timestamp = Stempel Waktu Penerimaan Frame Terakhir
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Penerimaan SSRC Lokal
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Pengiriman SSRC Jarak Jauh
 
 ##
 
@@ -161,6 +174,14 @@ about-webrtc-trickle-caption-msg = Hamburan kandidat (datang setelah jawaban) di
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Setel SDP Lokal pada stempel waktu { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Setel SDP Jarak Jauh pada stempel waktu { NUMBER($timestamp, useGrouping: "false") }
 
 ##
 
