@@ -31,6 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Loka SDP
+about-webrtc-local-sdp-heading-offer = Loka SDP (Propono)
+about-webrtc-local-sdp-heading-answer = Loka SDP (Respondo)
+about-webrtc-remote-sdp-heading = Fora SDP
+about-webrtc-remote-sdp-heading-offer = Fora SDP (Propono)
+about-webrtc-remote-sdp-heading-answer = Fora SDP (Respondo)
 
 ##
 
@@ -47,6 +52,9 @@ about-webrtc-ice-state = Stato de ICE
 about-webrtc-ice-stats-heading = Statistikoj de ICE
 about-webrtc-ice-restart-count-label = ICE restartigita:
 about-webrtc-ice-rollback-count-label = ICE restarigita:
+about-webrtc-ice-pair-bytes-sent = Oktetoj senditaj:
+about-webrtc-ice-pair-bytes-received = Oktetoj ricevitaj:
+about-webrtc-ice-component-id = Identigilo de komponanto
 
 ##
 
@@ -100,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (femita)
 
 about-webrtc-local-candidate = Loka kandidato
 about-webrtc-remote-candidate = Fora kandidato
+about-webrtc-raw-candidates-heading = Ĉiuj krudaj kandidatoj
+about-webrtc-raw-local-candidate = Kruda loka kandidato
+about-webrtc-raw-remote-candidate = Kruda fora kandidato
+about-webrtc-raw-cand-show-msg = montri krudajn kandidatojn
+    .title = alklkaku por malfaldi tiun ĉi sekcion
+about-webrtc-raw-cand-hide-msg = kaŝi krudajn kandidatojn
+    .title = alklaku por faldi tiun ĉi sekcion
 about-webrtc-priority = Prioritato
 about-webrtc-fold-show-msg = montri detalojn
     .title = alklkaku por malfaldi tiun ĉi sekcion
@@ -131,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = kaptitaj dosieroj de registrado trovebl
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = La malrapidaj kandidatoj (kiuj alvenas post respondo) estas elstarigitaj per fono blua
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
