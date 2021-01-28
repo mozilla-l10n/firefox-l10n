@@ -382,15 +382,14 @@ addon-detail-private-browsing-disallow = Nicht erlauben
 addon-badge-recommended2 =
     .title = { -brand-product-name } empfiehlt nur Erweiterungen, die unsere Standards für Sicherheit und Leistung erfüllen.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Diese Erweiterung wurde von den Entwicklern von { -brand-product-name } erstellt.
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Der Quelltext dieser Erweiterung wurde aus Sicherheitsgründen überprüft.
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Dies ist eine offizielle Erweiterung, die von den Entwicklern von { -brand-product-name } entwickelt wurde.
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Offizielle Erweiterung von Mozilla. Erfüllt Sicherheits- und Leistungsstandards.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Diese Erweiterung wurde überprüft, um unsere Standards für Sicherheit und Leistung zu erfüllen.
     .aria-label = { addon-badge-verified2.title }
