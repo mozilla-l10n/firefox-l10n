@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP local (Respuesta)
 about-webrtc-remote-sdp-heading = SDP remoto
 about-webrtc-remote-sdp-heading-offer = SDP remoto (Oferta)
 about-webrtc-remote-sdp-heading-answer = SDP remoto (Respuesta)
+about-webrtc-sdp-history-heading = Historial SDP
+about-webrtc-sdp-parsing-errors-heading = Errores de análisis de SDP
 
 ##
 
@@ -122,12 +124,30 @@ about-webrtc-fold-hide-msg = ocultar detalles
     .title = pulse para contraer esta sección
 about-webrtc-decoder-label = Decodificador
 about-webrtc-encoder-label = Codificador
+about-webrtc-width-px = Ancho (px)
+about-webrtc-height-px = Altura (px)
+about-webrtc-consecutive-frames = Fotogramas consecutivos
+about-webrtc-time-elapsed = Tiempo transcurrido (s)
+about-webrtc-estimated-framerate = Velocidad de fotogramas estimada
+about-webrtc-rotation-degrees = Rotación (grados)
+about-webrtc-first-frame-timestamp = Marca de tiempo de recepción del primer fotograma
+about-webrtc-last-frame-timestamp = Marca de tiempo de última recepción de fotograma
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Receptor local SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Envío remoto SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Proporcionado
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = No porporcionado
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +174,14 @@ about-webrtc-trickle-caption-msg = Candidatos entrantes (llegando tras la respue
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Establecer SDP local con timestamp { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Establecer SDP remoto con timestamp { NUMBER($timestamp, useGrouping: "false") }
 
 ##
 
