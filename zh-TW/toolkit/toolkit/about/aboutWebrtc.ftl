@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = 將 about:webrtc 儲存至
 about-webrtc-aec-logging-msg-label = AEC 記錄
 about-webrtc-aec-logging-off-state-label = 開始 AEC 記錄
 about-webrtc-aec-logging-on-state-label = 停止 AEC 記錄
+about-webrtc-aec-logging-on-state-msg = AEC 紀錄中（請與來電者交談幾分鐘後再停止捕捉）
 
 ##
 
@@ -30,7 +31,13 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = 本地 SDP
+about-webrtc-local-sdp-heading-offer = 本地 SDP (提供)
+about-webrtc-local-sdp-heading-answer = 本地 SDP (接聽)
 about-webrtc-remote-sdp-heading = 遠端 SDP
+about-webrtc-remote-sdp-heading-offer = 遠端 SDP (提供)
+about-webrtc-remote-sdp-heading-answer = 遠端 SDP (接聽)
+about-webrtc-sdp-history-heading = SDP 歷史
+about-webrtc-sdp-parsing-errors-heading = SDP 剖析錯誤
 
 ##
 
@@ -45,6 +52,11 @@ about-webrtc-rtp-stats-heading = RTP 統計
 about-webrtc-ice-state = ICE 狀態
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE 統計
+about-webrtc-ice-restart-count-label = ICE 重新啟動:
+about-webrtc-ice-rollback-count-label = ICE rollback:
+about-webrtc-ice-pair-bytes-sent = 位元組已送出:
+about-webrtc-ice-pair-bytes-received = 位元組已接收:
+about-webrtc-ice-component-id = 元件 ID
 
 ##
 
@@ -76,7 +88,9 @@ about-webrtc-debug-mode-msg-label = 除錯模式
 about-webrtc-debug-mode-off-state-label = 開始除錯模式
 about-webrtc-debug-mode-on-state-label = 停止除錯模式
 about-webrtc-stats-heading = 使用階段統計
+about-webrtc-stats-clear = 清除紀錄
 about-webrtc-log-heading = 連線記錄
+about-webrtc-log-clear = 清除紀錄
 about-webrtc-log-show-msg = 顯示紀錄
     .title = 點擊展開此段落
 about-webrtc-log-hide-msg = 隱藏紀錄
@@ -96,6 +110,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (已關�
 
 about-webrtc-local-candidate = 本地候選
 about-webrtc-remote-candidate = 遠端候選
+about-webrtc-raw-candidates-heading = 所有原始候選
+about-webrtc-raw-local-candidate = 原始本地候選
+about-webrtc-raw-remote-candidate = 原始遠端候選
+about-webrtc-raw-cand-show-msg = 顯示原始候選
+    .title = 點擊展開此段落
+about-webrtc-raw-cand-hide-msg = 隱藏原始候選
+    .title = 點擊摺疊此段落
 about-webrtc-priority = 重要性
 about-webrtc-fold-show-msg = 顯示詳細資訊
     .title = 點擊展開此段落
@@ -103,12 +124,48 @@ about-webrtc-fold-hide-msg = 隱藏詳細資訊
     .title = 點擊摺疊此段落
 about-webrtc-decoder-label = 解碼器
 about-webrtc-encoder-label = 編碼器
+about-webrtc-show-tab-label = 顯示分頁
+about-webrtc-width-px = 寬度（像素）
+about-webrtc-height-px = 高度（像素）
+about-webrtc-consecutive-frames = 連續畫框
+about-webrtc-time-elapsed = 經過時間（秒）
+about-webrtc-estimated-framerate = 估計畫框率
+about-webrtc-rotation-degrees = 旋轉（度）
+about-webrtc-first-frame-timestamp = 接收到第一個畫框的時間戳記
+about-webrtc-last-frame-timestamp = 接收到最後一個畫框的時間戳記
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = 本地接收 SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = 遠端發送 SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = 提供
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = 不提供
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = 使用者設定的 WebRTC 偏好設定
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = 估計頻寬
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = 軌道識別符
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = 傳送頻寬（位元組／秒）
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = 接收頻寬（位元組／秒）
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = 封包填充資料（位元組／秒）
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = 間隔時間（ms）
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT（ms）
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -127,10 +184,27 @@ about-webrtc-aec-logging-off-state-msg = 捕捉到的記錄檔位於: { $path }
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = 抖動 { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = 使用 藍色 強調太晚抵達的候選（接聽後才抵達）
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = 已將本地 SDP 時間戳記設為 { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = 已將遠端 SDP 時間戳記設為 { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = 時間戳記 { NUMBER($timestamp, useGrouping: "false") }（+ { $relative-timestamp } ms）
 
 ##
 
