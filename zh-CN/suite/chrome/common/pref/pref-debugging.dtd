@@ -7,22 +7,33 @@
 <!ENTITY pref.debugging.title "调试">
 
 <!-- Render Debugging -->
+<!ENTITY debugRendering.label             "渲染">
+<!ENTITY debugXULBox.label                "调试 XUL Box">
 <!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "禁用 XUL 缓存">
 <!ENTITY debugDisableXULCache.accesskey   "L">
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "事件">
+<!ENTITY debugPaintFlashing.label "绘制时闪烁（Caps Lock 切换）">
 <!ENTITY debugPaintFlashing.accesskey "P">
+<!ENTITY debugPaintFlashingChrome.label "绘制时闪烁 Chrome">
 <!ENTITY debugPaintFlashingChrome.accesskey "F">
+<!ENTITY debugPaintDumping.label "绘制转储">
 <!ENTITY debugPaintDumping.accesskey "a">
+<!ENTITY debugInvalidateDumping.label "无效转储">
 <!ENTITY debugInvalidateDumping.accesskey "n">
+<!ENTITY debugEventDumping.label "事件转储">
 <!ENTITY debugEventDumping.accesskey "E">
+<!ENTITY debugMotionEventDumping.label "运动事件转储">
 <!ENTITY debugMotionEventDumping.accesskey "M">
+<!ENTITY debugCrossingEventDumping.label "交叉事件转储">
 <!ENTITY debugCrossingEventDumping.accesskey "C">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "回流事件">
 <!ENTITY debugReflowShowFrameCounts.label        "显示帧数">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "S">
+<!ENTITY debugReflowDumpFrameCounts.label        "转储帧数">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
 <!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
