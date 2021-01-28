@@ -124,6 +124,7 @@ about-webrtc-encoder-label = Astengal
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = asebter yettwakles di: { $path }
+about-webrtc-debug-mode-off-state-msg = afaylu n lǧeṛṛa yella deg tansa-a : { $path }
 about-webrtc-debug-mode-on-state-msg = askar n tseɣtit irmed, afaylu n lǧeṛṛa yella deg tansa-yagi: { $path }
 about-webrtc-aec-logging-off-state-msg = ifuyla n usniɣmes yettwaṭfen ad ttwafen di: { $path }
 
