@@ -328,3 +328,7 @@ about-logins-import-dialog-error-no-logins-imported = Ниједна прија�
 about-logins-import-dialog-error-learn-more = Сазнајте више
 about-logins-import-dialog-error-try-again = Покушај поново…
 about-logins-import-dialog-error-cancel = Откажи
+
+## Logins import report page
+
+about-logins-import-report-page-title = Увоз резиме извештаја
