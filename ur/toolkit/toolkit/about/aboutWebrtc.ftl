@@ -107,6 +107,10 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (بند 
 
 about-webrtc-local-candidate = مقامی امیدوار
 about-webrtc-remote-candidate = بعید امیدوار
+about-webrtc-raw-cand-show-msg = خام امیدوار دکھائیں
+    .title = صیغے کو وسیع کرنے کے لیے کلک کریں
+about-webrtc-raw-cand-hide-msg = خام امیدوار چھپائیں
+    .title = صیغے کو چھپاںیں کے لیے کلک کریں
 about-webrtc-priority = تقدم
 about-webrtc-fold-show-msg = تفصیلات دکھائیں
     .title = صیغے کو وسیع کرنے کے لیے کلک کریں
