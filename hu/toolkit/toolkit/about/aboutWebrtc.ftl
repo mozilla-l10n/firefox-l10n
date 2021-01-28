@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Helyi SDP
+about-webrtc-local-sdp-heading-offer = Helyi SDP (Ajánlat)
+about-webrtc-local-sdp-heading-answer = Helyi SDP (Válasz)
 about-webrtc-remote-sdp-heading = Távoli SDP
+about-webrtc-remote-sdp-heading-offer = Távoli SDP (Ajánlat)
+about-webrtc-remote-sdp-heading-answer = Távoli SDP (Válasz)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE újraindulások:
 about-webrtc-ice-rollback-count-label = ICE visszagörgetések:
 about-webrtc-ice-pair-bytes-sent = Elküldött bájtok:
 about-webrtc-ice-pair-bytes-received = Kapott bájtok:
+about-webrtc-ice-component-id = Komponensazonosító
 
 ##
 
@@ -72,6 +77,10 @@ about-webrtc-type-remote = Távoli
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Jelölt
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Kijelölt
 about-webrtc-save-page-label = Oldal mentése
 about-webrtc-debug-mode-msg-label = Hibakeresési mód
 about-webrtc-debug-mode-off-state-label = Hibakeresési mód indítása
@@ -99,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (bezárv
 
 about-webrtc-local-candidate = Helyi jelölt
 about-webrtc-remote-candidate = Távoli jelölt
+about-webrtc-raw-candidates-heading = Minden nyers jelölt
+about-webrtc-raw-local-candidate = Nyers helyi jelölt
+about-webrtc-raw-remote-candidate = Nyers távoli jelölt
+about-webrtc-raw-cand-show-msg = nyers jelöltek megjelenítése
+    .title = kattintson a szakasz kibontásához
+about-webrtc-raw-cand-hide-msg = nyers jelöltek elrejtése
+    .title = kattintson a szakasz összecsukásához
 about-webrtc-priority = Prioritás
 about-webrtc-fold-show-msg = részletek megjelenítése
     .title = kattintson a szakasz kibontásához
@@ -130,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = a rögzített naplófájlok megtalálha
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Csúszás { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = A lecsorgó (válasz után érkező) jelöltek kék színnel vannak kiemelve
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
