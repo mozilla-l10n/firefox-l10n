@@ -46,6 +46,8 @@ about-webrtc-rtp-stats-heading = Statistika RTP
 about-webrtc-ice-state = Stanje ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Statistika ICE
+about-webrtc-ice-restart-count-label = Ponovi zagoni ICE:
+about-webrtc-ice-pair-bytes-sent = Poslano bajtov:
 
 ##
 
@@ -76,6 +78,7 @@ about-webrtc-save-page-label = Shrani stran
 about-webrtc-debug-mode-msg-label = Razhroščevanje
 about-webrtc-debug-mode-off-state-label = Začni razhroščevanje
 about-webrtc-debug-mode-on-state-label = Končaj razhroščevanje
+about-webrtc-stats-heading = Statistika seje
 about-webrtc-log-heading = Dnevnik povezave
 about-webrtc-log-show-msg = prikaži dnevnik
     .title = kliknite za razširjanje tega razdelka
