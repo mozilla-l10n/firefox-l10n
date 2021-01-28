@@ -37,6 +37,7 @@ about-webrtc-remote-sdp-heading = SDP remoto
 about-webrtc-remote-sdp-heading-offer = SDP remoto (Oferta)
 about-webrtc-remote-sdp-heading-answer = SDP remoto (Respuesta)
 about-webrtc-sdp-history-heading = Historia SDP
+about-webrtc-sdp-parsing-errors-heading = Errores de análisis de SDP
 
 ##
 
