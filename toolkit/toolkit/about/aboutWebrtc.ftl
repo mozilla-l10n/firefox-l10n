@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Local SDP (Resposta)
 about-webrtc-remote-sdp-heading = Remote SDP
 about-webrtc-remote-sdp-heading-offer = Remote SDP (Offerta)
 about-webrtc-remote-sdp-heading-answer = Remote SDP (Resposta)
+about-webrtc-sdp-history-heading = Cronologia SDP
+about-webrtc-sdp-parsing-errors-heading = Errurs d'analisa SDP
 
 ##
 
@@ -122,12 +124,48 @@ about-webrtc-fold-hide-msg = hide details
     .title = click to collapse this section
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
+about-webrtc-show-tab-label = Mussar il tab
+about-webrtc-width-px = Largezza (px)
+about-webrtc-height-px = Autezza (px)
+about-webrtc-consecutive-frames = Frames consecutivs
+about-webrtc-time-elapsed = Temp percurrì (s)
+about-webrtc-estimated-framerate = Framerate stimada
+about-webrtc-rotation-degrees = Rotaziun (grads)
+about-webrtc-first-frame-timestamp = Temp da la recepziun da l'emprim maletg
+about-webrtc-last-frame-timestamp = Temp da la recepziun da l'ultim maletg
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = SSRC local che recepescha
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = SSRC lontan che trametta
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Inditgà
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Betg inditgà
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Preferenzas WebRTC definidas da l'utilisader
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Volumen da datas transmissibel stimà
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identificatur dal toc
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Volumen da datas transferibel (bytes/sec)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Volumen da datas receptibel (bytes/sec)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Padding maximal (bytes/sec)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Retard Pacer (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT (ms)
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +192,19 @@ about-webrtc-trickle-caption-msg = Ils candidats plauns (arrivads suenter la res
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Definì Local SDP cun il timestamp { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Definì Remote SDP cun il timestamp { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
