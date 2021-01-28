@@ -53,6 +53,7 @@ about-webrtc-ice-stats-heading = ICE આંકડા
 about-webrtc-ice-restart-count-label = ICE પુનઃપ્રારંભ કરો:
 about-webrtc-ice-rollback-count-label = ICE આગળની સ્થિતિમાં:
 about-webrtc-ice-pair-bytes-sent = બાઇટ્સ મોકલાયા:
+about-webrtc-ice-pair-bytes-received = બાઇટ્સ પ્રાપ્ત થયા:
 about-webrtc-ice-component-id = ઘટક ID
 
 ##
@@ -84,9 +85,12 @@ about-webrtc-save-page-label = પાનાંને સંગ્રહો
 about-webrtc-debug-mode-msg-label = ડીબગ મોડ
 about-webrtc-debug-mode-off-state-label = ડીબગ મોડ પ્રારંભ કરો
 about-webrtc-debug-mode-on-state-label = ડીબગ મોડ રોકો
+about-webrtc-stats-heading = સત્ર આંકડા
 about-webrtc-stats-clear = ઇતિહાસ સાફ કરો
 about-webrtc-log-heading = જોડાણ નોંધ
 about-webrtc-log-clear = નોંધ સાફ કરો
+about-webrtc-log-show-msg = નોંધ બતાવો
+    .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
 about-webrtc-log-hide-msg = લોગ છુપાવો
     .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 
@@ -104,8 +108,16 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (બં�
 
 about-webrtc-local-candidate = સ્થાનિક ઉમેદવાર
 about-webrtc-remote-candidate = દૂરસ્થ ઉમેદવાર
+about-webrtc-raw-candidates-heading = બધા કાચા ઉમેદવારો
+about-webrtc-raw-local-candidate = કાચા સ્થાનિક ઉમેદવાર
 about-webrtc-raw-remote-candidate = કાચા દૂરસ્થ ઉમેદવાર
+about-webrtc-raw-cand-show-msg = કાચા ઉમેદવારો બતાવો
+    .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
+about-webrtc-raw-cand-hide-msg = કાચા ઉમેદવારો છુપાવો
+    .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 about-webrtc-priority = પ્રાથમિકતા
+about-webrtc-fold-show-msg = વિગતો બતાવો
+    .title = આ વિભાગને વિસ્તૃત કરવા ક્લિક કરો
 about-webrtc-fold-hide-msg = વિગતો છુપાવો
     .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 about-webrtc-decoder-label = ડીકોડર
@@ -134,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = કેપ્ચર થયેલ લો�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ઝીટર { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = ટ્રીકલ ઉમેદવારો (જવાબ પછી પહોંચ્યા) વાદળી માં પ્રકાશિત થયા
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
