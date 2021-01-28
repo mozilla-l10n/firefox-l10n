@@ -137,6 +137,7 @@ about-webrtc-encoder-label = Codificatô
 about-webrtc-save-page-msg = Pagina sarvâ in: { $path }
 about-webrtc-debug-mode-off-state-msg = I registri de traccia en chi: { $path }
 about-webrtc-debug-mode-on-state-msg = Modalitæ de debug ativa, scritua registri de traccia in: { $path }
+about-webrtc-aec-logging-off-state-msg = i schedai de registro creæ en chi: { $path }
 
 ##
 
