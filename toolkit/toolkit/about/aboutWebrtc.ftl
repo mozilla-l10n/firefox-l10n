@@ -161,6 +161,8 @@ about-webrtc-send-bandwidth-bytes-sec = Largo de banda de envío (bytes/sec)
 about-webrtc-receive-bandwidth-bytes-sec = Largo de banda de recepción (bytes/sec)
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Recheo máximo (bytes/seg)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Período para espazador en ms
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = Tempo de ida de volta (RTT, en ms)
