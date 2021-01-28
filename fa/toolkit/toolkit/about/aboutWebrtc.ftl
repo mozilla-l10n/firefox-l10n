@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP محلی
+about-webrtc-local-sdp-heading-offer = SDP محلی (پیشنهاد)
+about-webrtc-local-sdp-heading-answer = SDP محلی (پاسخ)
 about-webrtc-remote-sdp-heading = SDP دور
+about-webrtc-remote-sdp-heading-offer = SDP دور (پیشنهاد)
+about-webrtc-remote-sdp-heading-answer = SDP دور (پاسخ)
 
 ##
 
@@ -48,6 +52,9 @@ about-webrtc-ice-state = وضعیتICE
 about-webrtc-ice-stats-heading = آمار ICE
 about-webrtc-ice-restart-count-label = راه‌اندازی مجدد ICE:
 about-webrtc-ice-rollback-count-label = عقب گرد ICE:
+about-webrtc-ice-pair-bytes-sent = بایت‌‌های ارسال شده:
+about-webrtc-ice-pair-bytes-received = بایت‌های دریافت شده:
+about-webrtc-ice-component-id = نشانگر مولفه
 
 ##
 
@@ -101,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (بست�
 
 about-webrtc-local-candidate = نامزد محلی
 about-webrtc-remote-candidate = کاندیدای از راه دور
+about-webrtc-raw-candidates-heading = تمام کاندیدای خام
+about-webrtc-raw-local-candidate = کاندیدای خام محلی
+about-webrtc-raw-remote-candidate = کاندیدای خام از راه دور
+about-webrtc-raw-cand-show-msg = نمایش کاندیدای خام
+    .title = برای بازشدن این بخش کلیک کنید
+about-webrtc-raw-cand-hide-msg = پنهان سازی کاندیدای خام
+    .title = برای جمع‌شدن این بخش کلیک کنید
 about-webrtc-priority = اولویت
 about-webrtc-fold-show-msg = نمایش جزئیات
     .title = برای بازشدن این بخش کلیک کنید
@@ -132,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = پرونده های ضبط شده را 
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = کاندیدای انتخاب شده ( بعداز پاسخ می‌ رسند) برجسته شده در آبی
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
