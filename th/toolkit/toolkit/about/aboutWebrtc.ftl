@@ -77,6 +77,10 @@ about-webrtc-type-remote = ระยะไกล
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ถูกกำหนด
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = เลือกแล้ว
 about-webrtc-save-page-label = บันทึกหน้า
 about-webrtc-debug-mode-msg-label = โหมดดีบั๊ก
 about-webrtc-debug-mode-off-state-label = เริ่มโหมดดีบั๊ก
