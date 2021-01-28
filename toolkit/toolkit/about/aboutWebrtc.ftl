@@ -88,7 +88,9 @@ about-webrtc-debug-mode-msg-label = Felsökningsläge
 about-webrtc-debug-mode-off-state-label = Starta felsökningsläge
 about-webrtc-debug-mode-on-state-label = Stoppa felsökningsläge
 about-webrtc-stats-heading = Sessionsstatistik
+about-webrtc-stats-clear = Rensa historik
 about-webrtc-log-heading = Anslutningslogg
+about-webrtc-log-clear = Rensa logg
 about-webrtc-log-show-msg = visa logg
     .title = klicka för att expandera denna sektion
 about-webrtc-log-hide-msg = dölj logg
@@ -122,6 +124,7 @@ about-webrtc-fold-hide-msg = dölj detaljer
     .title = klicka för att minimera denna sektion
 about-webrtc-decoder-label = Avkodare
 about-webrtc-encoder-label = Kodare
+about-webrtc-show-tab-label = Visa flik
 about-webrtc-width-px = Bredd (px)
 about-webrtc-height-px = Höjd (px)
 about-webrtc-consecutive-frames = Efterföljande ramar
@@ -140,6 +143,12 @@ about-webrtc-remote-send-ssrc = Fjärrsändning SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Har angetts
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Har inte angetts
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Användarinställda WebRTC-inställningar
 # Section header for estimated bandwidths of WebRTC media flows
