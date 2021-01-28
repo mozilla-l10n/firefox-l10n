@@ -76,6 +76,7 @@ about-webrtc-save-page-label = Uložiť stránku
 about-webrtc-debug-mode-msg-label = Režim ladenia
 about-webrtc-debug-mode-off-state-label = Spustiť režim ladenia
 about-webrtc-debug-mode-on-state-label = Zastaviť režim ladenia
+about-webrtc-stats-heading = Štatistiky relácie
 about-webrtc-log-heading = Denník pripojenia
 about-webrtc-log-show-msg = zobraziť záznamy
     .title = kliknutím rozbalíte túto sekciu
