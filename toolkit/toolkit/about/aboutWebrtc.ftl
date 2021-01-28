@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = समकक्ष जडान आईड
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = स्थानीय SDP
+about-webrtc-local-sdp-heading-offer = स्थानीय SDP (प्रस्ताव)
+about-webrtc-local-sdp-heading-answer = स्थानीय SDP (जवाफ दिनुहोस्)
 about-webrtc-remote-sdp-heading = Remote SDP
+about-webrtc-remote-sdp-heading-offer = Remote SDP (प्रस्ताव)
+about-webrtc-remote-sdp-heading-answer = Remote SDP (जवाफ दिनुहोस्)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE पुनःसुरु हुन्
 about-webrtc-ice-rollback-count-label = ICE रोलब्याक हुन्छ:
 about-webrtc-ice-pair-bytes-sent = Bytes पठाइयो:
 about-webrtc-ice-pair-bytes-received = Bytes प्राप्त भयो:
+about-webrtc-ice-component-id = अवयव ID
 
 ##
 
