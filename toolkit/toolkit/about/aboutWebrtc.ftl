@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection auðkenni:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Staðvær SDP
+about-webrtc-local-sdp-heading-offer = Staðvær SDP (Tilboð)
+about-webrtc-local-sdp-heading-answer = Staðvær SDP (Svar)
 about-webrtc-remote-sdp-heading = Fjartengt SDP
+about-webrtc-remote-sdp-heading-offer = Fjartengt SDP (Tilboð)
+about-webrtc-remote-sdp-heading-answer = Fjartengt SDP (Svar)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE endurræsingar:
 about-webrtc-ice-rollback-count-label = ICE endurheimting:
 about-webrtc-ice-pair-bytes-sent = Send bæti:
 about-webrtc-ice-pair-bytes-received = Móttekin bæti:
+about-webrtc-ice-component-id = Auðkenni hlutar
 
 ##
 
@@ -103,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (lokað)
 
 about-webrtc-local-candidate = Staðbundinn aðili
 about-webrtc-remote-candidate = Fjarlægur aðili
+about-webrtc-raw-candidates-heading = Allir umsækjendur
+about-webrtc-raw-local-candidate = Staðbundnir umsækjendur
+about-webrtc-raw-remote-candidate = Útværir umsækjendur
+about-webrtc-raw-cand-show-msg = sýna umsækjendur
+    .title = smelltu til að stækka þetta svæði
+about-webrtc-raw-cand-hide-msg = fela umsækjendur
+    .title = smelltu til að fella saman þetta svæði
 about-webrtc-priority = Forgangur
 about-webrtc-fold-show-msg = sýna nánar
     .title = smelltu til að stækka þetta svæði
@@ -134,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atburð
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Flökt { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Leka umsækjendur (sem er sent eftir svar) eru undirstrikaðir með blár
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
