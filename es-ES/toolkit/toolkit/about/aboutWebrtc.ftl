@@ -124,6 +124,7 @@ about-webrtc-fold-hide-msg = ocultar detalles
     .title = pulse para contraer esta sección
 about-webrtc-decoder-label = Decodificador
 about-webrtc-encoder-label = Codificador
+about-webrtc-show-tab-label = Mostrar pestaña
 about-webrtc-width-px = Ancho (px)
 about-webrtc-height-px = Altura (px)
 about-webrtc-consecutive-frames = Fotogramas consecutivos
@@ -148,6 +149,23 @@ about-webrtc-configuration-element-provided = Proporcionado
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = No porporcionado
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Preferencias de WebRTC establecidas por el usuario
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Ancho de banda estimado
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identificador de rastreo
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Ancho de banda de envío (bytes/seg)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Ancho de banda de recepción (bytes/seg)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Padding máximo (bytes/seg)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Intervalo entre paquetes (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = Tiempo de ida y vuelta (RTT) (ms)
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -182,6 +200,11 @@ about-webrtc-sdp-set-at-timestamp-local = Establecer SDP local con timestamp { N
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Establecer SDP remoto con timestamp { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Marca de tiempo { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
