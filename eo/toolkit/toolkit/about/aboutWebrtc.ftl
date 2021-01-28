@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = Loka SDP (Respondo)
 about-webrtc-remote-sdp-heading = Fora SDP
 about-webrtc-remote-sdp-heading-offer = Fora SDP (Propono)
 about-webrtc-remote-sdp-heading-answer = Fora SDP (Respondo)
+about-webrtc-sdp-history-heading = Historio SDP
+about-webrtc-sdp-parsing-errors-heading = Eraroj en analizo de SDP
 
 ##
 
@@ -122,12 +124,48 @@ about-webrtc-fold-hide-msg = kaŝi detalojn
     .title = alklaku por faldi tiun ĉi sekcion
 about-webrtc-decoder-label = Malkodilo
 about-webrtc-encoder-label = Kodilo
+about-webrtc-show-tab-label = Montri langeton
+about-webrtc-width-px = Larĝo (px)
+about-webrtc-height-px = Alto (px)
+about-webrtc-consecutive-frames = Sinsekvaj kadroj
+about-webrtc-time-elapsed = Tempo pasita (s)
+about-webrtc-estimated-framerate = Taksita kadrorapido
+about-webrtc-rotation-degrees = Rotacio (gradoj)
+about-webrtc-first-frame-timestamp = Tempindiko de unua kadro
+about-webrtc-last-frame-timestamp = Tempindiko de lasta kadro
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Loka riceva SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Fora senda SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Provizita
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Ne provizita
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Preferoj de WebRTC difinitaj de uzanto
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Taksita datumtrafiko
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Spurila identigilo
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Trafiko sendata (oktetoj/sek)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Trafiko ricevata (oktetoj/sek)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maksimuma ŝtopado (oktetoj/sek)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Prokrasto inter pakedoj (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = Tienreena tempo (RTT) (ms)
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +192,19 @@ about-webrtc-trickle-caption-msg = La malrapidaj kandidatoj (kiuj alvenas post r
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Difini Loka SDP kiel { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Difini Fora SDP kiel { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Tempindiko { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
