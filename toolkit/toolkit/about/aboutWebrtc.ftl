@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP nội bộ (Trả lời)
 about-webrtc-remote-sdp-heading = SDP từ xa
 about-webrtc-remote-sdp-heading-offer = SDP từ xa (Cung cấp)
 about-webrtc-remote-sdp-heading-answer = SDP từ xa (Trả lời)
+about-webrtc-sdp-history-heading = Lịch sử SDP
+about-webrtc-sdp-parsing-errors-heading = Lỗi phân tích SDP
 
 ##
 
@@ -111,12 +113,34 @@ about-webrtc-fold-hide-msg = ẩn chi tiết
     .title = nhấn chuột để thu gọn mục này
 about-webrtc-decoder-label = Bộ giải mã
 about-webrtc-encoder-label = Bộ mã hóa
+about-webrtc-show-tab-label = Hiển thị thẻ
+about-webrtc-width-px = Chiều rộng (px)
+about-webrtc-height-px = Chiều cao (px)
+about-webrtc-time-elapsed = Thời gian đã trôi qua (giây)
+about-webrtc-rotation-degrees = Xoay (độ)
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Cung cấp
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Không cung cấp
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Người dùng thiết lập tùy chọn WebRTC
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Băng thông ước tính
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Băng thông gửi (byte/giây)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Băng thông nhận (byte/giây)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -143,6 +167,19 @@ about-webrtc-trickle-caption-msg = Các ứng cử viên bị mắc kẹt (đế
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Đặt SDP nội bộ tại timestamp { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Đặt SDP từ xa tại timestamp { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
