@@ -155,6 +155,17 @@ about-webrtc-custom-webrtc-configuration-heading = Vom Benutzer festgelegte WebR
 about-webrtc-bandwidth-stats-heading = Geschätzte Bandbreite
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Track-Identifikator
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Sende-Bandbreite [Bytes/s]
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Empfangs-Bandbreite [Bytes/s]
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Maximales Padding [Bytes/s]
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Pacer-Verzögerung [ms]
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = Paketumlaufzeit (RTT) [ms]
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
