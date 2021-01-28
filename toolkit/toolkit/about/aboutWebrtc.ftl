@@ -28,7 +28,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = 本地 SDP
+about-webrtc-local-sdp-heading-offer = 本地 SDP (提供)
+about-webrtc-local-sdp-heading-answer = 本地 SDP (回答)
 about-webrtc-remote-sdp-heading = 远程 SDP
+about-webrtc-remote-sdp-heading-offer = 远程 SDP (提供)
+about-webrtc-remote-sdp-heading-answer = 远程 SDP (回答)
 
 ##
 
@@ -43,6 +47,11 @@ about-webrtc-rtp-stats-heading = RTP 状态
 about-webrtc-ice-state = ICE 统计
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE 状态
+about-webrtc-ice-restart-count-label = ICE 重启:
+about-webrtc-ice-rollback-count-label = ICE 回滚:
+about-webrtc-ice-pair-bytes-sent = 已发送字节:
+about-webrtc-ice-pair-bytes-received = 已接收字节:
+about-webrtc-ice-component-id = 组件 ID
 
 ##
 
@@ -73,7 +82,10 @@ about-webrtc-save-page-label = 保存页面
 about-webrtc-debug-mode-msg-label = 调试模式
 about-webrtc-debug-mode-off-state-label = 开始调试模式
 about-webrtc-debug-mode-on-state-label = 停止调试模式
+about-webrtc-stats-heading = 会话统计
+about-webrtc-stats-clear = 清除历史记录
 about-webrtc-log-heading = 连接日志
+about-webrtc-log-clear = 清除日志
 about-webrtc-log-show-msg = 显示日志
     .title = 点击展开此段
 about-webrtc-log-hide-msg = 隐藏日志
@@ -93,6 +105,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (已关�
 
 about-webrtc-local-candidate = 本地候选
 about-webrtc-remote-candidate = 远程候选
+about-webrtc-raw-candidates-heading = 所有原始候选者
+about-webrtc-raw-local-candidate = 原始本地候选者
+about-webrtc-raw-remote-candidate = 原始远程候选者
+about-webrtc-raw-cand-show-msg = 显示原始候选者
+    .title = 点击展开此段
+about-webrtc-raw-cand-hide-msg = 隐藏原始候选者
+    .title = 点击折叠此段
 about-webrtc-priority = 优先级
 about-webrtc-fold-show-msg = 显示详细信息
     .title = 点击展开此段
@@ -124,6 +143,10 @@ about-webrtc-aec-logging-off-state-msg = 捕捉到的日志文件在这里: { $p
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = 抖动 { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickled 候选者（回答后到达）已用 蓝色 高亮
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
