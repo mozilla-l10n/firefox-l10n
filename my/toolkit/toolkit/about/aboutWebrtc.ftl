@@ -46,6 +46,8 @@ about-webrtc-rtp-stats-heading = RTP အချက်အလက်များ
 about-webrtc-ice-state = ICE အခြေအနေ
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE အချက်အလက်များ
+about-webrtc-ice-restart-count-label = ICE ပြန်စတင်မှုများ:
+about-webrtc-ice-rollback-count-label = ICE မူလသို့ပြန်သွားမှုများ:
 
 ##
 
