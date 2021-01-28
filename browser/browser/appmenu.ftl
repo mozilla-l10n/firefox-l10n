@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Нови прозор
 appmenuitem-new-private-window =
     .label = Нови приватан прозор
+appmenuitem-passwords =
+    .label = Лозинке
+appmenuitem-extensions-and-themes =
+    .label = Проширења и теме
+appmenuitem-find-in-page =
+    .label = Пронађи на страници…
+appmenuitem-more-tools =
+    .label = Више алатки
+appmenuitem-exit =
+    .label = Излаз
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Подешавања
 
 ## Zoom and Fullscreen Controls
 
