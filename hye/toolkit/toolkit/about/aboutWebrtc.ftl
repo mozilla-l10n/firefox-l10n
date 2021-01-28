@@ -31,14 +31,31 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Տեղային SDP
+about-webrtc-local-sdp-heading-offer = Տեղային SDP (Առաջարկ)
+about-webrtc-local-sdp-heading-answer = Տեղային SDP (Պատասխան)
 about-webrtc-remote-sdp-heading = Հեռակայ SDP
+about-webrtc-remote-sdp-heading-offer = Հեռակայ SDP (Առաջարկ)
+about-webrtc-remote-sdp-heading-answer = Հեռակայ SDP (Պատասխան)
+about-webrtc-sdp-history-heading = SDP Պատմութիւն
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = RTP վիճակներ
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = ICE վիճակ
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = ICE վիճակներ
+about-webrtc-ice-restart-count-label = ICE վերագործարկումներ:
+about-webrtc-ice-rollback-count-label = ICE դարձումներ:
+about-webrtc-ice-pair-bytes-sent = Բայթ է ուղարկուել:
+about-webrtc-ice-pair-bytes-received = Բայթ է ստացուել:
+about-webrtc-ice-component-id = Բաղադրիչի ID
 
 ##
 
@@ -53,9 +70,30 @@ about-webrtc-remote-sdp-heading = Հեռակայ SDP
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Տեղային
+about-webrtc-type-remote = Հեռակայ
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = Նշանակուած
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Ընտրուած
+about-webrtc-save-page-label = Պահպանել էջը
+about-webrtc-debug-mode-msg-label = Ռեժիմի կարգաւորում
+about-webrtc-debug-mode-off-state-label = Միացնել վրիպազերծիչը
+about-webrtc-debug-mode-on-state-label = Կանգնեցնել վրիպազերծիչը
+about-webrtc-stats-heading = Աշխատաշրջանի վիճակագրութիւն
+about-webrtc-stats-clear = Մաքրել պատմութիւնը
+about-webrtc-log-heading = Միացման մատեան
+about-webrtc-log-clear = Մաքրել մատեանը
+about-webrtc-log-show-msg = ցուցադրել մատեանը
+    .title = Սեղմել այս բաժինն ընդլայնելու համար
+about-webrtc-log-hide-msg = թաքցնել մատեանը
+    .title = սեղմէք՝ այս շրջանը թաքցնելու համար
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -65,15 +103,41 @@ about-webrtc-remote-sdp-heading = Հեռակայ SDP
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (փակուած) { $now }
 
 ##
 
 about-webrtc-local-candidate = Տեղային թեկնածու
 about-webrtc-remote-candidate = Հեռակայ թեկնածու
 about-webrtc-raw-candidates-heading = Ցուցադրել բոլոր թեկնածուները
+about-webrtc-raw-local-candidate = Չմշակուած տեղական թեկնածուներ
+about-webrtc-raw-remote-candidate = Չմշակուած հեռակայ թեկնածու
+about-webrtc-raw-cand-show-msg = ցուցադրել անմշակ թեկնածուներին
+    .title = Սեղմել այս բաժինն ընդլայնելու համար
+about-webrtc-raw-cand-hide-msg = ցուցդարել անմշակ թեկնածուներին
+    .title = սեղմէք՝ այս շրջանը թաքցնելու համար
+about-webrtc-priority = Առաջնահերթություն
+about-webrtc-fold-show-msg = ցուցադրել մանրամասներ
+    .title = Սեղմել այս բաժինն ընդլայնելու համար
+about-webrtc-fold-hide-msg = թաքցնել մանրամասները
+    .title = սեղմէք՝ այս շրջանը թաքցնելու համար
+about-webrtc-decoder-label = Ապաայլագրիչ
+about-webrtc-encoder-label = Այլագրիչ
+about-webrtc-width-px = Լայնք (px)
+about-webrtc-height-px = Բարձրութիւն (px)
+about-webrtc-consecutive-frames = Յաջորդական շրջանակներ
+about-webrtc-time-elapsed = Անցած ժամանակ (վ)
+about-webrtc-estimated-framerate = Մաւտաւոր յաճախականութիւն
+about-webrtc-rotation-degrees = Պտոյտ (աստիճան)
+about-webrtc-first-frame-timestamp = Առաջին շրջանի ժամանակը
+about-webrtc-last-frame-timestamp = Վերջին շրջանի ժամանակը
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Տեղական Ընդունող SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Հեռակայ Առաքող SSRC
 
 ##
 
@@ -100,10 +164,23 @@ about-webrtc-aec-logging-off-state-msg = Գրանցած նիշքը կարող է
 
 ##
 
+# Jitter is the variance in the arrival time of packets.
+# See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
+# Variables:
+#   $jitter (Number) - The jitter.
+about-webrtc-jitter-label = Jitter { $jitter }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Դնել Տեղային SDP { NUMBER($timestamp, useGrouping: "false") } ժամանակի համար
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Դնել Հեռակայ SDP { NUMBER($timestamp, useGrouping: "false") } ժամանակի համար
 
 ##
 
