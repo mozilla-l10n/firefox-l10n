@@ -46,6 +46,7 @@ about-webrtc-rtp-stats-heading = RTP Stats
 about-webrtc-ice-state = ICE State
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE Stats
+about-webrtc-ice-restart-count-label = ICE puɗɗite:
 
 ##
 
@@ -77,7 +78,9 @@ about-webrtc-debug-mode-msg-label = Mbayka buggitagol
 about-webrtc-debug-mode-off-state-label = Fuɗɗo Mbayka buggitagol
 about-webrtc-debug-mode-on-state-label = Dartin Mbayka buggitagol
 about-webrtc-stats-heading = Limlimtooje Sarwoore
+about-webrtc-stats-clear = Momtu Aslol
 about-webrtc-log-heading = Logagol Ceŋagol
+about-webrtc-log-clear = Momtu Log
 about-webrtc-log-show-msg = holl log
     .title = dobo ngam wertude taƴre
 about-webrtc-log-hide-msg = suuɗ log
