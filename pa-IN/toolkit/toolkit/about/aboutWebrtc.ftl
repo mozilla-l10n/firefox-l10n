@@ -54,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE restarts:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
 about-webrtc-ice-pair-bytes-sent = ਭੇਜੇ ਬਾਈਟ:
 about-webrtc-ice-pair-bytes-received = ਮਿਲੇ ਬਾਈਟ:
+about-webrtc-ice-component-id = ਭਾਗ ਆਈਡੀ
 
 ##
 
