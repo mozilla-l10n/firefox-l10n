@@ -6,24 +6,46 @@
 ### Localization for about:webrtc, a troubleshooting and diagnostic page
 ### for WebRTC calls. See https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API.
 
+# The text "WebRTC" is a proper noun and should not be translated.
+about-webrtc-document-title = Detalles internos de WebRTC
+# "about:webrtc" is a internal browser URL and should not be
+# translated. This string is used as a title for a file save dialog box.
+about-webrtc-save-page-dialog-title = nombra y alza a salida d'about:webrtc
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-msg-label = Rechistro d'AEC
+about-webrtc-aec-logging-off-state-label = Empecipiar o rechistro d'AEC
+about-webrtc-aec-logging-on-state-label = Atura o rechistro d'AEC
+about-webrtc-aec-logging-on-state-msg = Rechistro d'AEC activo (parle con o interlocutor por bells minutos y dimpués ature a captura)
 
 ##
 
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = ID de PeerConnection:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
 about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = SDP local
+about-webrtc-remote-sdp-heading = SDP remoto
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = Estatisticas de RTP
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = Estau d'ICE
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = Estatisticas d'ICE
 about-webrtc-ice-restart-count-label = reinicios d'ICE:
 about-webrtc-ice-rollback-count-label = rollbacks d'ICE:
 
@@ -40,12 +62,30 @@ about-webrtc-ice-rollback-count-label = rollbacks d'ICE:
 ## connection. The data represents either the local or remote end of the
 ## connection.
 
+about-webrtc-type-local = Local
+about-webrtc-type-remote = Remoto
 
 ##
 
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = Nominau
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
+# This represents an attribute of an ICE candidate.
+about-webrtc-selected = Trigau
+about-webrtc-save-page-label = Alzar a pachina
+about-webrtc-debug-mode-msg-label = Modo de depuración
+about-webrtc-debug-mode-off-state-label = Empecipiar o modo de depuración
+about-webrtc-debug-mode-on-state-label = Aturar o modo de depuración
 about-webrtc-stats-heading = Estatisticas d'a sesión
 about-webrtc-stats-clear = Limpiar l'historial
+about-webrtc-log-heading = Rechistro de connexión
 about-webrtc-log-clear = Limpiar lo Log
+about-webrtc-log-show-msg = amuestra o rechistro
+    .title = fe clic ta ixamplar ista sección
+about-webrtc-log-hide-msg = amaga o rechistro
+    .title = fe clic pa reducir ista sección
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -55,9 +95,19 @@ about-webrtc-log-clear = Limpiar lo Log
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
 about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zarrau) { $now }
 
 ##
 
+about-webrtc-local-candidate = Candidato local
+about-webrtc-remote-candidate = Candidato remoto
+about-webrtc-priority = Prioridat
+about-webrtc-fold-show-msg = amostrar os detalles
+    .title = fe clic ta ixamplar ista sección
+about-webrtc-fold-hide-msg = Amagar os detalles
+    .title = fe clic pa reducir ista sección
+about-webrtc-decoder-label = Descodificador
+about-webrtc-encoder-label = Codificador
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
@@ -70,6 +120,10 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = a pachina s'ha alzau en: { $path }
+about-webrtc-debug-mode-off-state-msg = o rechistro de traza se troba en: { $path }
+about-webrtc-debug-mode-on-state-msg = o modo de depuración activo: o rechistro de traza ye en: { $path }
+about-webrtc-aec-logging-off-state-msg = os fichers de rechistro capturaus se troban en: { $path }
 
 ##
 
