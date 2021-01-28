@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = पीयरकनेक्शन आई�
 
 about-webrtc-sdp-heading = ऍसडीपी
 about-webrtc-local-sdp-heading = स्थानीय SDP
+about-webrtc-local-sdp-heading-offer = स्थानीय SDP (प्रस्ताव)
+about-webrtc-local-sdp-heading-answer = स्थानीय SDP (जवाब)
 about-webrtc-remote-sdp-heading = दूरस्थ SDP
+about-webrtc-remote-sdp-heading-offer = दूरस्थ SDP (प्रस्ताव)
+about-webrtc-remote-sdp-heading-answer = दूरस्थ SDP (जवाब)
 
 ##
 
@@ -103,6 +107,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (बं�
 
 about-webrtc-local-candidate = स्थानीय उम्मीदवार
 about-webrtc-remote-candidate = दूरस्थ उम्मीदवार
+about-webrtc-raw-candidates-heading = सभी अनुभवहीन उम्मीदवार
+about-webrtc-raw-local-candidate = अनुभवहीन स्थानीय उम्मीदवार
+about-webrtc-raw-remote-candidate = अनुभवहीन दूरस्थ उम्मीदवार
+about-webrtc-raw-cand-show-msg = अनुभवहीन उम्मीदवार दिखाएँ
+    .title = विभाग फैलाने के लिये क्लिक करें
+about-webrtc-raw-cand-hide-msg = अनुभवहीन उम्मीदवार छिपाएँ
+    .title = इस विभाग को समेटनें के लिए क्लिक करें
 about-webrtc-priority = प्राथमिकता
 about-webrtc-fold-show-msg = विवरण दिखाएँ
     .title = विभाग फैलाने के लिये क्लिक करें
@@ -134,6 +145,10 @@ about-webrtc-aec-logging-off-state-msg = कैप्चर लॉग फ़ा�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = { " " }कँपन { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = छँटे उम्मीदवार (उत्तर तक पहुँचने के बाद) नीला में चिन्हांकित हैं
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
