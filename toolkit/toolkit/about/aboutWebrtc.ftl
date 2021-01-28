@@ -50,6 +50,8 @@ about-webrtc-ice-state = Estado ICE
 about-webrtc-ice-stats-heading = Estadísticas ICE
 about-webrtc-ice-restart-count-label = reinicia ICE:
 about-webrtc-ice-rollback-count-label = revisiones ICE:
+about-webrtc-ice-pair-bytes-sent = Bytes enviados:
+about-webrtc-ice-pair-bytes-received = Bytes recibidos:
 about-webrtc-ice-component-id = ID de componente
 
 ##
