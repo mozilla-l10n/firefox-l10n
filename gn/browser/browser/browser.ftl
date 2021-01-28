@@ -578,6 +578,8 @@ library-bookmarks-bookmark-this-page =
     .label = Kuatiarogue mbojoapy
 library-bookmarks-bookmark-edit =
     .label = Ko techaukaha mbosako’i
+library-recent-activity-title =
+    .value = Tembiapo ramovegua
 
 ## More items
 

@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Ñandutivevépe Jeheka
     .title = Ñandutivevépe Jeheka
     .aria-label = Ñandutivevépe Jeheka
+newtab-search-box-text = Eheka ñandutípe
+newtab-search-box-input =
+    .placeholder = Eheka ñandutípe
+    .aria-label = Eheka ñandutípe
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Embojuaju hekaha
 newtab-topsites-add-topsites-header = Tenda Pyahu Ojeikevéva
+newtab-topsites-add-shortcut-header = Mbopya’eha pyahu
 newtab-topsites-edit-topsites-header = Tenda Ojeikevéva Mbosako’i
+newtab-topsites-edit-shortcut-header = Mbopya’eha mbosako’i
 newtab-topsites-title-label = Teratee
 newtab-topsites-title-input =
     .placeholder = Ehai herarã

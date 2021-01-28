@@ -932,6 +932,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tendayke ijurujáva
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Jeike pya’eha
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = Tenda jehayhuvéva
     .accesskey = T
