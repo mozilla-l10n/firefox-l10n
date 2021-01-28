@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokālā SDP
+about-webrtc-local-sdp-heading-offer = Lokālā SDP (Piedāvājums)
+about-webrtc-local-sdp-heading-answer = Lokālā SDP (Atbilde)
 about-webrtc-remote-sdp-heading = Attālinātā SDP
+about-webrtc-remote-sdp-heading-offer = Attālinātā SDP (Piedāvājums)
+about-webrtc-remote-sdp-heading-answer = Attālinātā SDP (Atbilde)
 
 ##
 
@@ -46,6 +50,11 @@ about-webrtc-rtp-stats-heading = RTP statistika
 about-webrtc-ice-state = ICE stāvoklis
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE statistika
+about-webrtc-ice-restart-count-label = ICE pārstartēšanas:
+about-webrtc-ice-rollback-count-label = ICE atgriešanas:
+about-webrtc-ice-pair-bytes-sent = Nosūtītie baiti:
+about-webrtc-ice-pair-bytes-received = Saņemtie baiti:
+about-webrtc-ice-component-id = Komponenta ID
 
 ##
 
@@ -77,7 +86,9 @@ about-webrtc-debug-mode-msg-label = Atkļūdošanas režīms
 about-webrtc-debug-mode-off-state-label = Sākt atkļūdošanas režīmu
 about-webrtc-debug-mode-on-state-label = Apturēt atkļūdošanas režīmu
 about-webrtc-stats-heading = Sesijas statistika
+about-webrtc-stats-clear = Notīrīt vēsturi
 about-webrtc-log-heading = Savienojuma žurnāls
+about-webrtc-log-clear = Notīrīt ierakstus
 about-webrtc-log-show-msg = parādīt žurnālu
     .title = klikšķiniet, lai izvērstu šo daļu
 about-webrtc-log-hide-msg = paslēpt žurnālu
@@ -97,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (closed)
 
 about-webrtc-local-candidate = Lokālais kandidāts
 about-webrtc-remote-candidate = Attālinātais kandidāts
+about-webrtc-raw-candidates-heading = Visi neapstrādātie kandidāti
+about-webrtc-raw-local-candidate = Neapstrādāti lokālie kandidāti
+about-webrtc-raw-remote-candidate = Neapstrādāti attālinātie kandidāti
+about-webrtc-raw-cand-show-msg = rādīt neapstrādātos kandidātus
+    .title = klikšķiniet, lai izvērstu šo daļu
+about-webrtc-raw-cand-hide-msg = paslēpt neapstrādātos kandidātus
+    .title = klikšķiniet, lai sakļautu šo daļu
 about-webrtc-priority = Prioritāte
 about-webrtc-fold-show-msg = Parādīt sīkāku informāciju
     .title = klikšķiniet, lai izvērstu šo daļu
@@ -128,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = apkopotie žurnalēšanas faili pieejam
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Kavējošie kandidāti (kas ierodas pēc atbildes) ir iekrāsoti zila
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
