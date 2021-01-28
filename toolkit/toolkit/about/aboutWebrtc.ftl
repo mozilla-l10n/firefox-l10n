@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection-ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Lokal SDP
+about-webrtc-local-sdp-heading-offer = Lokal SDP (Offer)
+about-webrtc-local-sdp-heading-answer = Lokal SDP (Answer)
 about-webrtc-remote-sdp-heading = Fjern-SDP
+about-webrtc-remote-sdp-heading-offer = Fjern-SDP (Offer)
+about-webrtc-remote-sdp-heading-answer = Fjern-SDP (Answer)
 
 ##
 
@@ -48,6 +52,9 @@ about-webrtc-ice-state = ICE-tilstand
 about-webrtc-ice-stats-heading = ICE-statistikker
 about-webrtc-ice-restart-count-label = ICE-genstarter:
 about-webrtc-ice-rollback-count-label = ICE-tilbagerulninger:
+about-webrtc-ice-pair-bytes-sent = Bytes sent:
+about-webrtc-ice-pair-bytes-received = Bytes modtaget:
+about-webrtc-ice-component-id = Komponent-ID
 
 ##
 
@@ -75,6 +82,9 @@ about-webrtc-nominated = Nomineret
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valgt
 about-webrtc-save-page-label = Gem side
+about-webrtc-debug-mode-msg-label = Debug-tilstand
+about-webrtc-debug-mode-off-state-label = Start debug-tilstand
+about-webrtc-debug-mode-on-state-label = Stop debug-tilstand
 about-webrtc-stats-heading = Sessionsstatistik
 about-webrtc-stats-clear = Ryd historik
 about-webrtc-log-heading = Forbindelses-log
@@ -96,6 +106,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (lukket)
 
 about-webrtc-local-candidate = Lokal kandidat
 about-webrtc-remote-candidate = Fjern-kandidat
+about-webrtc-raw-candidates-heading = Alle raw-kandidater
+about-webrtc-raw-local-candidate = Raw lokale kandidater
+about-webrtc-raw-remote-candidate = Raw fjern-kandikater
+about-webrtc-raw-cand-show-msg = vis raw-kandidater
+    .title = klik for at udvide denne sektion
+about-webrtc-raw-cand-hide-msg = skjul raw-kandidater
+    .title = klik for at sammenklappe denne sektion
 about-webrtc-priority = Prioritet
 about-webrtc-fold-show-msg = vis detaljer
     .title = klik for at udvide denne sektion
@@ -117,6 +134,7 @@ about-webrtc-encoder-label = Koder
 
 about-webrtc-save-page-msg = Side gemt som: { $path }
 about-webrtc-debug-mode-off-state-msg = trace-log kan findes her: { $path }
+about-webrtc-debug-mode-on-state-msg = debug-tilstand er aktiveret, trace-log findes her: { $path }
 about-webrtc-aec-logging-off-state-msg = log-filer kan findes her: { $path }
 
 ##
@@ -126,6 +144,10 @@ about-webrtc-aec-logging-off-state-msg = log-filer kan findes her: { $path }
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickled kandidater (ankommet efter answer) er fremhævet med blåt
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
