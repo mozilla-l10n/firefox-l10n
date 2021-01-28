@@ -54,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE पुनः प्रारंभ:
 about-webrtc-ice-rollback-count-label = ICE पूर्व स्थिति में:
 about-webrtc-ice-pair-bytes-sent = बाइट्स भेजा गया:
 about-webrtc-ice-pair-bytes-received = बाइट्स प्राप्त हुआ:
+about-webrtc-ice-component-id = घटक आईडी
 
 ##
 
