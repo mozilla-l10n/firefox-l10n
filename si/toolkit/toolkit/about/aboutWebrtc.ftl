@@ -31,7 +31,9 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = දේශීය SDP
+about-webrtc-local-sdp-heading-answer = දේශීය SDP (පිළිතුර)
 about-webrtc-remote-sdp-heading = දුරස්ථ SDP
+about-webrtc-remote-sdp-heading-answer = දුරස්ථ SDP (පිළිතුර)
 
 ##
 
