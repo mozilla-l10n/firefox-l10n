@@ -17,9 +17,14 @@ about-webrtc-save-page-dialog-title = વિશે સાચવો:webrtc તર
 about-webrtc-aec-logging-msg-label = AEC લૉગિંગ
 about-webrtc-aec-logging-off-state-label = AEC લોગિંગ શરૂ કરો
 about-webrtc-aec-logging-on-state-label = AEC લોગિંગ રોકો
+about-webrtc-aec-logging-on-state-msg = AEC લોગિંગ સક્રિય (થોડી મિનિટો માટે કૉલર સાથે વાત કરો અને પછી કેપ્ચર બંધ કરો)
 
 ##
 
+# "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
+# an abbreviation for Identifier. This string should not normally be translated
+# and is used as a data label.
+about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -46,6 +51,9 @@ about-webrtc-ice-state = ICE આંકડા
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE આંકડા
 about-webrtc-ice-restart-count-label = ICE પુનઃપ્રારંભ કરો:
+about-webrtc-ice-rollback-count-label = ICE આગળની સ્થિતિમાં:
+about-webrtc-ice-pair-bytes-sent = બાઇટ્સ મોકલાયા:
+about-webrtc-ice-component-id = ઘટક ID
 
 ##
 
@@ -79,6 +87,8 @@ about-webrtc-debug-mode-on-state-label = ડીબગ મોડ રોકો
 about-webrtc-stats-clear = ઇતિહાસ સાફ કરો
 about-webrtc-log-heading = જોડાણ નોંધ
 about-webrtc-log-clear = નોંધ સાફ કરો
+about-webrtc-log-hide-msg = લોગ છુપાવો
+    .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -96,6 +106,8 @@ about-webrtc-local-candidate = સ્થાનિક ઉમેદવાર
 about-webrtc-remote-candidate = દૂરસ્થ ઉમેદવાર
 about-webrtc-raw-remote-candidate = કાચા દૂરસ્થ ઉમેદવાર
 about-webrtc-priority = પ્રાથમિકતા
+about-webrtc-fold-hide-msg = વિગતો છુપાવો
+    .title = આ વિભાગને સમેટવા માટે ક્લિક કરો
 about-webrtc-decoder-label = ડીકોડર
 about-webrtc-encoder-label = એન્કોડર
 
@@ -111,6 +123,9 @@ about-webrtc-encoder-label = એન્કોડર
 ##  $path (String) - The path to which the file is saved.
 
 about-webrtc-save-page-msg = પૃષ્ઠ પર સાચવ્યું: { $path }
+about-webrtc-debug-mode-off-state-msg = ટ્રેસ લોગ અહીં મળી શકે છે: { $path }
+about-webrtc-debug-mode-on-state-msg = ડીબગ મોડ સક્રિય, ટ્રેસ લોગ: { $path }
+about-webrtc-aec-logging-off-state-msg = કેપ્ચર થયેલ લોગ ફાઈલો અહીં મળી શકે છે: { $path }
 
 ##
 
