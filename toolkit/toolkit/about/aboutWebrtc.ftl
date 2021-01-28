@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP local (Resposta)
 about-webrtc-remote-sdp-heading = SDP remoto
 about-webrtc-remote-sdp-heading-offer = SDP remoto (Oferta)
 about-webrtc-remote-sdp-heading-answer = SDP remoto (Resposta)
+about-webrtc-sdp-history-heading = Histórico SDP
+about-webrtc-sdp-parsing-errors-heading = Erros de parsing de SDP
 
 ##
 
@@ -122,12 +124,48 @@ about-webrtc-fold-hide-msg = ocultar detalhes
     .title = clique para recolher esta seção
 about-webrtc-decoder-label = Decodificador
 about-webrtc-encoder-label = Codificador
+about-webrtc-show-tab-label = Exibir aba
+about-webrtc-width-px = Largura (px)
+about-webrtc-height-px = Altura (px)
+about-webrtc-consecutive-frames = Quadros consecutivos
+about-webrtc-time-elapsed = Tempo decorrido (s)
+about-webrtc-estimated-framerate = Taxa de quadros estimada
+about-webrtc-rotation-degrees = Rotação (graus)
+about-webrtc-first-frame-timestamp = Estampa de tempo da recepção do primeiro quadro
+about-webrtc-last-frame-timestamp = Estampa de tempo da recepção do último quadro
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = SSRC de recebimento local
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = SSRC de envio remoto
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Fornecido
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Não fornecido
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Preferências de WebRTC definidas pelo usuário
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Largura de banda estimada
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Identificador de faixa
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Largura de banda de envio (bytes/seg)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Largura de banda de recebimento (bytes/seg)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Máximo preenchimento de pacotes (bytes/seg)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Intervalo entre pacotes (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = Tempo de ida e volta (RTT) (ms)
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +192,19 @@ about-webrtc-trickle-caption-msg = Candidatos trickled (a chegar depois da respo
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Definir SDP local na estampa de tempo { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Definir SDP remoto na estampa de tempo { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
