@@ -125,8 +125,11 @@ about-webrtc-fold-hide-msg = ayrıntıları gizle
 about-webrtc-decoder-label = Çözücü
 about-webrtc-encoder-label = Kodlayıcı
 about-webrtc-show-tab-label = Sekmeyi göster
+about-webrtc-width-px = Genişlik (piksel)
+about-webrtc-height-px = Yükseklik (piksel)
 about-webrtc-consecutive-frames = Ardışık kareler
 about-webrtc-time-elapsed = Geçen süre (sn)
+about-webrtc-estimated-framerate = Tahmini kare hızı
 about-webrtc-rotation-degrees = Rotasyon (derece)
 about-webrtc-first-frame-timestamp = İlk kare alım zaman damgası
 about-webrtc-last-frame-timestamp = Son kare alım zaman damgası
@@ -146,6 +149,8 @@ about-webrtc-configuration-element-provided = Sağlandı
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Sağlanmadı
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Kullanıcı tanımlı WebRTC tercihleri
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Tahmini bant genişliği
 # The ID of the MediaStreamTrack
