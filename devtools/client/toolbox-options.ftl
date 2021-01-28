@@ -81,18 +81,18 @@ options-sourceeditor-expandtab-tooltip =
 options-sourceeditor-expandtab-label = Indentar usando espaços
 options-sourceeditor-tabsize-label = Tamanho da tabulação
 options-sourceeditor-keybinding-label = Associação de teclas
-options-sourceeditor-keybinding-default-label = Default
+options-sourceeditor-keybinding-default-label = Normal
 
 ## Advanced section
 
 # The heading
-options-context-advanced-settings = Advanced settings
+options-context-advanced-settings = Configurações avançadas
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = Disable HTTP Cache (when toolbox is open)
+options-disable-http-cache-label = Desativar cache HTTP (quando a caixa de ferramentas está aberta)
 options-disable-http-cache-tooltip =
-    .title = Turning this option on will disable the HTTP cache for all tabs that have the toolbox open. Service Workers are not affected by this option.
+    .title = Desativa o cache HTTP de todas as abas que estão com as ferramentas de desenvolvimento abertas. Service workers não são afetados por esta opção.
 # The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Disable JavaScript *
+options-disable-javascript-label = Desativar JavaScript *
 options-disable-javascript-tooltip =
     .title = Turning this option on will disable JavaScript for the current tab. If the tab or the toolbox is closed then this setting will be forgotten.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
