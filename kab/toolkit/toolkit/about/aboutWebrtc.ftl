@@ -36,6 +36,8 @@ about-webrtc-local-sdp-heading-answer = SDP adigan (Tiririt)
 about-webrtc-remote-sdp-heading = SDP anmeggag
 about-webrtc-remote-sdp-heading-offer = SDP anmeggag (Asumer)
 about-webrtc-remote-sdp-heading-answer = SDP anmeggag (Tiririt)
+about-webrtc-sdp-history-heading = Azray SDP
+about-webrtc-sdp-parsing-errors-heading = Tuccḍa deg tesleḍt n SDP
 
 ##
 
@@ -122,12 +124,48 @@ about-webrtc-fold-hide-msg = Ffer aglam leqqayen
     .title = sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-decoder-label = Akestengal
 about-webrtc-encoder-label = Astengal
+about-webrtc-show-tab-label = Sken iccer
+about-webrtc-width-px = Tehri (px)
+about-webrtc-height-px = Tiddi (px)
+about-webrtc-consecutive-frames = Ikataren yemseḍfaren
+about-webrtc-time-elapsed = Akud yezrin (s)
+about-webrtc-estimated-framerate = Asnagar n tugna yettuṛaǧan
+about-webrtc-rotation-degrees = Tuzzya (tifesniwin)
+about-webrtc-first-frame-timestamp = Azemzakud i urmas n ukatar amezwaru
+about-webrtc-last-frame-timestamp = Azemzakud i urmas n ukatar aneggaru
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = SSRC n urmas adigan
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Tuzzna tanmeggagt SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Yettunefk
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Ur yettunefk ara
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Aseqdac yesbadu ismenyifen n WebRTC
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Tehri i yettuṛaǧun
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Asulay n uneḍfar
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Tehri n tuzna (ibiten/tsn)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Tehri n urmas (ibiten/tsn)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Taččart tafellayt (ibiten/tsn)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Tanzagt n usendeh (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -154,6 +192,19 @@ about-webrtc-trickle-caption-msg = Imazwaren ittwamγaden (i d_yewwḍen seld ti
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Sbadu SDP adigan ɣer wazemzakud { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Sbadu SDP anmeggag ɣer wazemzakud { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Azemzakud { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
