@@ -124,6 +124,7 @@ about-webrtc-fold-hide-msg = piilota tiedot
     .title = kutista napsauttamalla
 about-webrtc-decoder-label = Purkaja
 about-webrtc-encoder-label = Enkoodaaja
+about-webrtc-show-tab-label = Näytä välilehti
 about-webrtc-width-px = Leveys (px)
 about-webrtc-height-px = Korkeus (px)
 about-webrtc-consecutive-frames = Peräkkäiset ruudut
@@ -148,6 +149,8 @@ about-webrtc-configuration-element-provided = Annettu
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ei annettu
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = Käyttäjän asettamat WebRTC-asetukset
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Arvioitu kaistanleveys
 # The ID of the MediaStreamTrack
@@ -197,6 +200,11 @@ about-webrtc-sdp-set-at-timestamp-local = Asetettiin Paikallinen SDP ajanhetkell
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Asetettiin Etä-SDP ajanhetkellä { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Aikaleima { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
