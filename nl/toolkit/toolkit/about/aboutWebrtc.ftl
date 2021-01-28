@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = Onderdeel-ID
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Gem. bitrate:
+about-webrtc-avg-framerate-label = Gem. framerate:
 
 ##
 
@@ -122,6 +124,8 @@ about-webrtc-fold-show-msg = details tonen
     .title = klik om deze sectie uit te vouwen
 about-webrtc-fold-hide-msg = details verbergen
     .title = klik om deze sectie samen te vouwen
+about-webrtc-dropped-frames-label = Verloren frames:
+about-webrtc-discarded-packets-label = Verwijderde pakketten:
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
 about-webrtc-show-tab-label = Tabblad tonen
