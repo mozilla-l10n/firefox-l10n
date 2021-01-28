@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Лакальны SDP
+about-webrtc-local-sdp-heading-offer = Лакальны SDP (Прапанова)
+about-webrtc-local-sdp-heading-answer = Лакальны SDP (Адказ)
 about-webrtc-remote-sdp-heading = Аддалены SDP
+about-webrtc-remote-sdp-heading-offer = Аддалены SDP (Прапанова)
+about-webrtc-remote-sdp-heading-answer = Аддалены SDP (Адказ)
 
 ##
 
@@ -48,6 +52,9 @@ about-webrtc-ice-state = Стан ICE
 about-webrtc-ice-stats-heading = Статыстыка ICE
 about-webrtc-ice-restart-count-label = Перазапускі ICE:
 about-webrtc-ice-rollback-count-label = Адкаты ICE:
+about-webrtc-ice-pair-bytes-sent = Адпраўлена байтаў:
+about-webrtc-ice-pair-bytes-received = Атрымана байтаў:
+about-webrtc-ice-component-id = ID кампанента
 
 ##
 
@@ -101,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (зак�
 
 about-webrtc-local-candidate = Лакальны кандыдат
 about-webrtc-remote-candidate = Аддалены кандыдат
+about-webrtc-raw-candidates-heading = Усе неапрацаваныя кандыдаты
+about-webrtc-raw-local-candidate = Неапрацаваны лакальны кандыдат
+about-webrtc-raw-remote-candidate = Неапрацаваны аддалены кандыдат
+about-webrtc-raw-cand-show-msg = паказаць неапрацаваныя кандыдаты
+    .title = клікніце, каб разгарнуць гэты раздзел
+about-webrtc-raw-cand-hide-msg = схаваць неапрацаваныя кандыдаты
+    .title = клікніце, каб згарнуць гэты раздзел
 about-webrtc-priority = Прыярытэт
 about-webrtc-fold-show-msg = паказаць падрабязнасці
     .title = клікніце, каб разгарнуць гэты раздзел
