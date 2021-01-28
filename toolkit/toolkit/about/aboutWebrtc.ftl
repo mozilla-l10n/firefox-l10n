@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Local SDP
+about-webrtc-local-sdp-heading-offer = Local SDP (Offer)
+about-webrtc-local-sdp-heading-answer = Local SDP (Answer)
 about-webrtc-remote-sdp-heading = Remote SDP
+about-webrtc-remote-sdp-heading-offer = Remote SDP (Offer)
+about-webrtc-remote-sdp-heading-answer = Remote SDP (Answer)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE restarts:
 about-webrtc-ice-rollback-count-label = ICE rollbacks:
 about-webrtc-ice-pair-bytes-sent = Bytes sent:
 about-webrtc-ice-pair-bytes-received = Bytes received:
+about-webrtc-ice-component-id = Component ID
 
 ##
 
@@ -103,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (closed)
 
 about-webrtc-local-candidate = Local Candidate
 about-webrtc-remote-candidate = Remote Candidate
+about-webrtc-raw-candidates-heading = All Raw Candidates
+about-webrtc-raw-local-candidate = Raw Local Candidate
+about-webrtc-raw-remote-candidate = Raw Remote Candidate
+about-webrtc-raw-cand-show-msg = show raw candidates
+    .title = click to expand this section
+about-webrtc-raw-cand-hide-msg = hide raw candidates
+    .title = click to collapse this section
 about-webrtc-priority = Priority
 about-webrtc-fold-show-msg = show details
     .title = click to expand this section
@@ -134,6 +146,10 @@ about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Trickled candidates (arriving after answer) are highlighted in blue
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
