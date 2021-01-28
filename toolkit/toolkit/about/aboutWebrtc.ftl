@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = ID PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP locale
+about-webrtc-local-sdp-heading-offer = SDP locale (Òfrî)
+about-webrtc-local-sdp-heading-answer = SDP locale (Risposta)
 about-webrtc-remote-sdp-heading = SDP remòtto
+about-webrtc-remote-sdp-heading-offer = SDP remòtto (Òfrî)
+about-webrtc-remote-sdp-heading-answer = SDP remòtto (Risposta)
 
 ##
 
@@ -48,6 +52,9 @@ about-webrtc-ice-state = Stato ICE
 about-webrtc-ice-stats-heading = Statistiche ICE
 about-webrtc-ice-restart-count-label = Avertue ICE:
 about-webrtc-ice-rollback-count-label = Rollback ICE:
+about-webrtc-ice-pair-bytes-sent = Byte mandæ:
+about-webrtc-ice-pair-bytes-received = Byte reçevui:
+about-webrtc-ice-component-id = ID Conponente
 
 ##
 
@@ -79,7 +86,9 @@ about-webrtc-debug-mode-msg-label = Modalitæ de debug
 about-webrtc-debug-mode-off-state-label = Inandia modalitæ de debug
 about-webrtc-debug-mode-on-state-label = Ferma modalitæ de debug
 about-webrtc-stats-heading = Statistiche de-e sescioin
+about-webrtc-stats-clear = Scancella Stöia
 about-webrtc-log-heading = Registro de conescion
+about-webrtc-log-clear = Scancella Diaio
 about-webrtc-log-show-msg = Fanni vedde registro
     .title = sciacca pe espande sta seçion
 about-webrtc-log-hide-msg = Ascondi registro
@@ -99,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (serâ) 
 
 about-webrtc-local-candidate = Candidou locale
 about-webrtc-remote-candidate = Candidou remòtto
+about-webrtc-raw-candidates-heading = Tutti i candidæ abretio
+about-webrtc-raw-local-candidate = Candidou locale abretio
+about-webrtc-raw-remote-candidate = Candidou remòtto abretio
+about-webrtc-raw-cand-show-msg = fanni vedde candidæ abretio
+    .title = sciacca pe espande sta seçion
+about-webrtc-raw-cand-hide-msg = ascondi candidæ abretio
+    .title = sciacca pe asconde sta seçion
 about-webrtc-priority = Prioritæ
 about-webrtc-fold-show-msg = fanni vedde detalli
     .title = sciacca pe espande sta seçion
@@ -129,6 +145,10 @@ about-webrtc-debug-mode-on-state-msg = Modalitæ de debug ativa, scritua registr
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Candidæ lenti (arivan dòppo a risposta) en evidensiæ in blue
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
