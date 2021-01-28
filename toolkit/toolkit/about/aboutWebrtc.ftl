@@ -48,6 +48,9 @@ about-webrtc-ice-state = ICE статистика
 about-webrtc-ice-stats-heading = ICE статистика
 about-webrtc-ice-restart-count-label = ICE рестартовања:
 about-webrtc-ice-rollback-count-label = ICE враћања:
+about-webrtc-ice-pair-bytes-sent = Послато бајтова:
+about-webrtc-ice-pair-bytes-received = Примљено бајтова:
+about-webrtc-ice-component-id = ИБ компоненте
 
 ##
 
@@ -82,6 +85,10 @@ about-webrtc-stats-heading = Статистике сесије
 about-webrtc-stats-clear = Обриши историјат
 about-webrtc-log-heading = Дневник конекције
 about-webrtc-log-clear = Обриши дневник
+about-webrtc-log-show-msg = Прикажи дневник
+    .title = кликните да проширите овај одељак
+about-webrtc-log-hide-msg = Сакриј дневник
+    .title = кликните да смањите овај одељак
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -98,6 +105,10 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (зат�
 about-webrtc-local-candidate = Локални кандидат
 about-webrtc-remote-candidate = Удаљени кандидат
 about-webrtc-priority = Приоритет
+about-webrtc-fold-show-msg = прикажи детаље
+    .title = кликните да проширите овај одељак
+about-webrtc-fold-hide-msg = сакриј детаље
+    .title = кликните да смањите овај одељак
 about-webrtc-decoder-label = Декодер
 about-webrtc-encoder-label = Енкодер
 
