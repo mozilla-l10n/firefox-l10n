@@ -36,6 +36,7 @@ about-webrtc-local-sdp-heading-answer = Лакальны SDP (Адказ)
 about-webrtc-remote-sdp-heading = Аддалены SDP
 about-webrtc-remote-sdp-heading-offer = Аддалены SDP (Прапанова)
 about-webrtc-remote-sdp-heading-answer = Аддалены SDP (Адказ)
+about-webrtc-sdp-history-heading = Гісторыя SDP
 
 ##
 
@@ -122,12 +123,39 @@ about-webrtc-fold-hide-msg = схаваць падрабязнасці
     .title = клікніце, каб згарнуць гэты раздзел
 about-webrtc-decoder-label = Дэкодэр
 about-webrtc-encoder-label = Кодэр
+about-webrtc-width-px = Шырыня (px)
+about-webrtc-height-px = Вышыня (px)
+about-webrtc-consecutive-frames = Паслядоўныя кадры
+about-webrtc-time-elapsed = Мінула часу, с
+about-webrtc-estimated-framerate = Ацэначная частата кадраў
+about-webrtc-rotation-degrees = Абарачэнне (градусы)
+about-webrtc-first-frame-timestamp = Адзнака часу прыёму першага кадра
+about-webrtc-last-frame-timestamp = Адзнака часу прыёму апошняга кадра
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = Мясцовы прыёмны SSRC
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Аддалены адпраўны SSRC
 
 ##
 
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Разліковая прапускная здольнасць
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Ідэнтыфікатар трэка
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Прапускная здольнасць адпраўкі (байт/сек)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Прапускная здольнасць прыёму (байт/сек)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Максімальнае запаўненне (байт/сек)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Затрымка між пакетамі, мс
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT, мс
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -146,10 +174,22 @@ about-webrtc-aec-logging-off-state-msg = файлы логаў захопу мо
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Джытэр { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Нацечныя кандыдаты (якія прыбылі пасля адказу) падсветлены ў сіні
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Усталяваць Лакальны SDP пры адзнацы часу { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Усталяваць Аддалены SDP пры адзнацы часу { NUMBER($timestamp, useGrouping: "false") }
 
 ##
 
