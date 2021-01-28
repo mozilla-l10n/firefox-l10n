@@ -17,6 +17,7 @@ about-webrtc-save-page-dialog-title = about:webrtc ñongatu pyahu
 about-webrtc-aec-logging-msg-label = AEC Haipy
 about-webrtc-aec-logging-off-state-label = AEC haipy moñepyrũ
 about-webrtc-aec-logging-on-state-label = AEC haipy jejoko
+about-webrtc-aec-logging-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
 
 ##
 
@@ -30,12 +31,20 @@ about-webrtc-peerconnection-id-label = ID jeikekõiha:
 
 about-webrtc-sdp-heading = SPD
 about-webrtc-local-sdp-heading = SDP pypeguáva
+about-webrtc-local-sdp-heading-offer = SDP pypeguáva (Tepyme’ẽ’i)
 about-webrtc-local-sdp-heading-answer = SDP pypeguáva (Ñembohovái)
 about-webrtc-remote-sdp-heading = SDP okayguáva
+about-webrtc-remote-sdp-heading-offer = SDP okayguáva (Tepyme’ẽ’i)
 about-webrtc-remote-sdp-heading-answer = SDP okayguáva (Ñembohovái)
+about-webrtc-sdp-history-heading = SDP Tembiasakue
+about-webrtc-sdp-parsing-errors-heading = Jejavy SDP resa’ỹijópe
 
 ##
 
+# "RTP" is an abbreviation for the Real-time Transport Protocol, an IETF
+# specification, and should not normally be translated. "Stats" is an
+# abbreviation for Statistics.
+about-webrtc-rtp-stats-heading = Papapy’atygua RTP
 
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
@@ -47,6 +56,7 @@ about-webrtc-ice-restart-count-label = ICE moñepyrũjey:
 about-webrtc-ice-rollback-count-label = ICE mbojevy:
 about-webrtc-ice-pair-bytes-sent = Bytes mondopyre:
 about-webrtc-ice-pair-bytes-received = Bytes japyhypyre:
+about-webrtc-ice-component-id = ID rape’apo
 
 ##
 
@@ -81,6 +91,8 @@ about-webrtc-stats-heading = Tembiapo rehegua papapy
 about-webrtc-stats-clear = Tembiasakue ñembogue
 about-webrtc-log-heading = Jeike rehegua haipy
 about-webrtc-log-clear = Jeikehague ñembogue
+about-webrtc-log-show-msg = Haipy jehechauka
+    .title = eikutu emyasãi hag̃ua ko pehẽ’i
 about-webrtc-log-hide-msg = haipy mokañy
     .title = eikutu embopaha hag̃ua ko tembiapo
 
@@ -96,18 +108,64 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (oñembo
 
 ##
 
+about-webrtc-local-candidate = Moha’eñomby pypeguáva
 about-webrtc-remote-candidate = Poravopyrã mombyrygua
 about-webrtc-raw-candidates-heading = Opavave oikoséva pe oĩháicha
 about-webrtc-raw-local-candidate = Oikoséva upepegua pe oĩháicha
 about-webrtc-raw-remote-candidate = Oikoséva okapegua pe oĩháicha
+about-webrtc-raw-cand-show-msg = ehechauka oikoséva pe oĩháicha
+    .title = eikutu emyasãi hag̃ua ko pehẽ’i
+about-webrtc-raw-cand-hide-msg = Eñomi oikoséva ojy’ỹre
+    .title = eikutu embopaha hag̃ua ko tembiapo
 about-webrtc-priority = Peteĩháva
+about-webrtc-fold-show-msg = mba’emimi jehechauka
+    .title = eikutu emyasãi hag̃ua ko pehẽ’i
+about-webrtc-fold-hide-msg = mba’emimi moñemi
+    .title = eikutu embopaha hag̃ua ko tembiapo
+about-webrtc-decoder-label = Mbopapapy’oha
 about-webrtc-encoder-label = Mopapapyha
+about-webrtc-show-tab-label = Ehechauka tendayke
+about-webrtc-width-px = Pekue (px)
+about-webrtc-height-px = Yvatekue (px)
+about-webrtc-consecutive-frames = Kora ojuapykuerigua
+about-webrtc-time-elapsed = Ára ohasapyre (s)
+about-webrtc-estimated-framerate = Fotograma pya’ekue
+about-webrtc-rotation-degrees = Jerekue (kokatu)
+about-webrtc-first-frame-timestamp = Ere araka’épa ejapyhýta fotograma peteĩha
+about-webrtc-last-frame-timestamp = Ere araka’épa ejapyhýta fotograma paháva
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
+# This is an SSRC on the local side of the connection that is receiving RTP
+about-webrtc-local-receive-ssrc = SSRC mog̃uahẽha
+# This is an SSRC on the remote side of the connection that is sending RTP
+about-webrtc-remote-send-ssrc = Ñemondo okaygua SSRC
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Me’ẽha
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = Me’ẽ’ỹva
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = WebRTC oguerohoryvéva puruhára moĩmbyre
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Ancho de banda jekuaa’ỹva
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Tapykueho kuaaukaha
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Ancho de banda mondopy (bytes/seg)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Ancho de banda g̃uahẽpy (bytes/seg)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Padding tuichavéva (bytes/seg)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Pa’ũ ojuehegui (ms)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -134,6 +192,19 @@ about-webrtc-trickle-caption-msg = Umi ytykýramo oikoséva (og̃uahẽ uperire 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+# This is used as a header for local SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-local = Emoĩ SDP pypeguáva ára jekuaápe { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for remote SDP.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+about-webrtc-sdp-set-at-timestamp-remote = Emoĩ SDP okayguáva ára jekuaápe { NUMBER($timestamp, useGrouping: "false") }
+# This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
+# Variables:
+#  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
+#  $relative-timestamp (Number) - The timestamp relative to the timestamp of the earliest received SDP.
+about-webrtc-sdp-set-timestamp = Aravochaukaha { NUMBER($timestamp, useGrouping: "false") } (+ { $relative-timestamp } ms)
 
 ##
 
