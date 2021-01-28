@@ -151,6 +151,8 @@ about-webrtc-configuration-element-provided = Fourni
 about-webrtc-configuration-element-not-provided = Non fourni
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Préférences WebRTC définies par l’utilisateur ou l’utilisatrice
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Bande passante estimée
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Numéro de piste
 # The estimated bandwidth available for sending WebRTC media in bytes per second
