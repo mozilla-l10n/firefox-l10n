@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Mboty
 
+## Tab actions
+
+browser-tab-audio-playing = Ñemboheta
+browser-tab-audio-muted = Mokirirĩ
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -503,6 +508,15 @@ fullscreen-exit-mac-button = Esẽ mba’erechaha tuichavévagui (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> eñangarekópa nde hekaha rehe. Eikutu Esc eguerujey hag̃ua hekaha.
 pointerlock-warning-no-domain = Ko kuatia oñangareko nde hekaha rehe. Eikutu Esc eguerujey hag̃ua hekaha.
+
+## Subframe crash notification
+
+crashed-subframe-learnmore =
+    .label = Kuaave
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Emondo Marandu
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
