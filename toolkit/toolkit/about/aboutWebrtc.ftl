@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = Local SDP
+about-webrtc-local-sdp-heading-offer = Local SDP (Rokku)
+about-webrtc-local-sdp-heading-answer = Local SDP (Jaabo)
 about-webrtc-remote-sdp-heading = Remote SDP
+about-webrtc-remote-sdp-heading-offer = Remote SDP (Rokku)
+about-webrtc-remote-sdp-heading-answer = Remote SDP (Jaabo)
 
 ##
 
@@ -101,6 +105,16 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (uddiiɗ
 
 ##
 
+about-webrtc-local-candidate = Kanndidaa Nokkuujo
+about-webrtc-remote-candidate = Kanndidaa Goɗɗuɗo
+about-webrtc-raw-candidates-heading = Kanndidaaji kecci ɗii fof
+about-webrtc-raw-local-candidate = Kanndidaa Nokkuujo Kecco
+about-webrtc-raw-remote-candidate = Kanndidaa Goɗɗuɗo Kecco
+about-webrtc-raw-cand-show-msg = hollu kanndidaaji kecci
+    .title = dobo ngam wertude taƴre
+about-webrtc-raw-cand-hide-msg = suuɗ kanndidaaji kecci
+    .title = dobo ngam taggude taƴre
+about-webrtc-priority = Ko ardii
 about-webrtc-fold-show-msg = holir cariiɗe
     .title = dobo ngam wertude taƴre
 about-webrtc-fold-hide-msg = suuɗ cariiɗe
