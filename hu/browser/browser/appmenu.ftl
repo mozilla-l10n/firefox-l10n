@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Új ablak
 appmenuitem-new-private-window =
     .label = Új privát ablak
+appmenuitem-passwords =
+    .label = Jelszavak
+appmenuitem-extensions-and-themes =
+    .label = Kiegészítők és témák
+appmenuitem-find-in-page =
+    .label = Keresés az oldalon…
+appmenuitem-more-tools =
+    .label = További eszközök
+appmenuitem-exit =
+    .label = Kilépés
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Beállítások
 
 ## Zoom and Fullscreen Controls
 

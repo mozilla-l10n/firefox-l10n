@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Kísérleti támogatás több „k
 experimental-features-http3 =
     .label = HTTP/3 protokoll
 experimental-features-http3-description = A HTTP/3 protokoll kísérleti támogatása.
+# Search during IME
+experimental-features-ime-search =
+    .label = Címsor: az eredmények megjelenítése az IME összeállítása alatt
+experimental-features-ime-search-description = Az IME (bemenetimód-szerkesztő) egy olyan eszköz, amellyel összetett szimbólumokat írhat be szabványos billentyűzetről, például olyanokat, melyek kelet-ázsiai vagy indoárja írt nyelvekben használatosak. A kísérlet engedélyezésével a címsáv panel nyitva marad, és keresési találatok és javaslatokat fog kapni, ha szövegbevitelre használja az IME-t. Ne feledje, hogy az IME olyan panelt jeleníthet meg, amely lefedi a címsáv találatait, ezért ez a beállítás csak akkor javasolt, ha nem ezt a típusú panelt használja.
