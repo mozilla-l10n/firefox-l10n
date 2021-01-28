@@ -85,6 +85,7 @@ about-webrtc-debug-mode-msg-label = Režim ladění
 about-webrtc-debug-mode-off-state-label = Spustit režim ladění
 about-webrtc-debug-mode-on-state-label = Zastavit režim ladění
 about-webrtc-stats-heading = Statistiky relace
+about-webrtc-stats-clear = Vymazat historii
 about-webrtc-log-heading = Protokol připojení
 about-webrtc-log-clear = Vymazat protokol
 about-webrtc-log-show-msg = zobrazit protokol
