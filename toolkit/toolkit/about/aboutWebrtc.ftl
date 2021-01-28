@@ -122,6 +122,8 @@ about-webrtc-fold-show-msg = afficher les détails
     .title = cliquer pour développer cette section
 about-webrtc-fold-hide-msg = masquer les détails
     .title = cliquer pour réduire cette section
+about-webrtc-dropped-frames-label = Images perdues :
+about-webrtc-discarded-packets-label = Paquets ignorés :
 about-webrtc-decoder-label = Décodeur
 about-webrtc-encoder-label = Encodeur
 about-webrtc-show-tab-label = Afficher l’onglet
@@ -179,6 +181,30 @@ about-webrtc-aec-logging-off-state-msg = les fichiers de journalisation capturé
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Un paquet reçu
+       *[other] { $packets } paquets reçus
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Un paquet perdu
+       *[other] { $packets } paquets perdus
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Un paquet envoyé
+       *[other] { $packets } paquets envoyés
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
