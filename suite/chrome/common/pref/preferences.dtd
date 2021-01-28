@@ -57,4 +57,6 @@
 <!ENTITY smart.label "軟體安裝">
 <!ENTITY mousewheel.label "滾輪滑鼠">
 
+<!ENTITY debugging.label "除錯">
+
 <!ENTITY focusSearch.key "f">
