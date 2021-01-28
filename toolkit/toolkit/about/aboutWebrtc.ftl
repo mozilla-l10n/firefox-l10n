@@ -31,7 +31,9 @@ about-webrtc-peerconnection-id-label = ID de PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
+about-webrtc-local-sdp-heading-answer = SDP local (Resposta)
 about-webrtc-remote-sdp-heading = SDP remot
+about-webrtc-remote-sdp-heading-answer = SDP remot (Resposta)
 
 ##
 
@@ -48,6 +50,7 @@ about-webrtc-ice-state = Estat d'ICE
 about-webrtc-ice-stats-heading = Estadístiques d'ICE
 about-webrtc-ice-pair-bytes-sent = Bytes enviats:
 about-webrtc-ice-pair-bytes-received = Bytes rebuts:
+about-webrtc-ice-component-id = ID del component
 
 ##
 
