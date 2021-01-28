@@ -17,6 +17,10 @@ appmenuitem-new-window =
     .label = Ovetã pyahu
 appmenuitem-new-private-window =
     .label = Ovetã ñemi pyahu
+appmenuitem-passwords =
+    .label = Ñe’ẽñemi
+appmenuitem-extensions-and-themes =
+    .label = Jepysokue ha Téma
 
 ## Zoom and Fullscreen Controls
 
@@ -42,6 +46,11 @@ whatsnew-panel-header = Oĩpa mba’e pyahu
 whatsnew-panel-footer-checkbox =
     .label = Eikuaauka tembiapoite pyahu
     .accesskey = f
+
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
 
 ## Help panel
 

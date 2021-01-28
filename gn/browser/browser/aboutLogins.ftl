@@ -292,6 +292,7 @@ about-logins-import-dialog-error-unable-to-read-description = Eiporavo marandure
 about-logins-import-dialog-error-no-logins-imported = Noñemba’eguerúi tembiapo ñepyrũ
 about-logins-import-dialog-error-learn-more = Kuaave
 about-logins-import-dialog-error-try-again = Eha’ãjey…
+about-logins-import-dialog-error-cancel = Heja
 
 ## Logins import report page
 
