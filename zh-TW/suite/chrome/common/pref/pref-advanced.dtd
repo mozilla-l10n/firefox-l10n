@@ -14,6 +14,12 @@
 <!ENTITY prefCheckDefaultClient.label     "檢查啟動時的預設應用程式設定">
 <!ENTITY prefCheckDefaultClient.accesskey "C">
 
+<!ENTITY printing.label                   "列印">
+<!ENTITY useNativePrintDialog.label       "若支援，使用原生的列印對話框">
+<!ENTITY useNativePrintDialog.accesskey   "U">
+<!ENTITY useGlobalPrintSettings.label     "使用全域列印設定">
+<!ENTITY useGlobalPrintSettings.accesskey "G">
+
 <!ENTITY crashReports.caption             "程式錯誤回報員">
 <!ENTITY submitCrashes.label              "送出錯誤報告">
 <!ENTITY submitCrashes.accesskey          "S">
@@ -27,4 +33,3 @@
 <!ENTITY connectionPrompt.accesskey       "P">
 <!ENTITY remoteDebuggerPort.label         "用來連線的埠號:">
 <!ENTITY remoteDebuggerPort.accesskey     "n">
-

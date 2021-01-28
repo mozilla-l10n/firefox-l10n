@@ -30,3 +30,8 @@
 <!ENTITY enablePrefetch.label            "在沒事時預先抓網頁，所以設計為要預抓(prefetch)的網頁可以快速載入。">
 <!ENTITY enablePrefetch.accesskey        "p">
 
+<!ENTITY debugCache.label                "除錯">
+<!ENTITY debugEnableMemCache.label       "開啟記憶體快取">
+<!ENTITY debugEnableMemCache.accesskey   "E">
+<!ENTITY debugEnableDiskCache.label      "開啟磁碟快取">
+<!ENTITY debugEnableDiskCache.accesskey  "D">
