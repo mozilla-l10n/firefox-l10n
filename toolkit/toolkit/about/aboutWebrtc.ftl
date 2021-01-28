@@ -124,6 +124,7 @@ about-webrtc-fold-hide-msg = ocultar detalles
     .title = clic para colapsar esta sección
 about-webrtc-decoder-label = Decodificador
 about-webrtc-encoder-label = Codificador
+about-webrtc-show-tab-label = Mostrar pestaña
 about-webrtc-width-px = Ancho (px)
 about-webrtc-height-px = Altura (px)
 about-webrtc-consecutive-frames = Marcos consecutivos
