@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = PeerConnection Kimligi:
 
 about-webrtc-sdp-heading = SDP (Oturım Tarifi Protokolı)
 about-webrtc-local-sdp-heading = Maalliy SDP
+about-webrtc-local-sdp-heading-offer = Maalliy SDP (Teklif)
+about-webrtc-local-sdp-heading-answer = Maalliy SDP (Cevap)
 about-webrtc-remote-sdp-heading = Uzaqtaki SDP
+about-webrtc-remote-sdp-heading-offer = Uzaqtaki SDP (Teklif)
+about-webrtc-remote-sdp-heading-answer = Uzaqtaki SDP (Cevap)
 
 ##
 
@@ -50,6 +54,7 @@ about-webrtc-ice-restart-count-label = ICE (Tesirleşimli Bağlanıcılıq Tesis
 about-webrtc-ice-rollback-count-label = ICE (Tesirleşimli Bağlanıcılıq Tesisi) keri qatalaqlamaları:
 about-webrtc-ice-pair-bytes-sent = Yiberilgen bayt:
 about-webrtc-ice-pair-bytes-received = Alınğan bayt:
+about-webrtc-ice-component-id = Bileşen Kimligi
 
 ##
 
@@ -103,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (qapatı
 
 about-webrtc-local-candidate = Maalliy Namzet
 about-webrtc-remote-candidate = Uzaqtaki Namzet
+about-webrtc-raw-candidates-heading = Çiy Namzetlerniñ Episi
+about-webrtc-raw-local-candidate = Çiy Maalliy Namzet
+about-webrtc-raw-remote-candidate = Çiy Uzaqtaki Namzet
+about-webrtc-raw-cand-show-msg = çiy namzetlerni köster
+    .title = bu kesimni kenişletmek içün çertiñiz
+about-webrtc-raw-cand-hide-msg = çiy namzetlerni gizle
+    .title = bu kesimni eştirmek içün çertiñiz
 about-webrtc-priority = Evveliyet
 about-webrtc-fold-show-msg = Tafsilâtnı Köster
     .title = bu kesimni kenişletmek içün çertiñiz
@@ -133,6 +145,10 @@ about-webrtc-aec-logging-off-state-msg = yaqalanğan kütük dosyeleri şurada t
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = İstiqrarsızlıq { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Tamğan (cevaptan soñ kelgen) namzetler kök ile yüksek-ışıtılğan
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
