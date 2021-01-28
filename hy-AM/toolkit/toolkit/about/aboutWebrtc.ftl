@@ -48,6 +48,8 @@ about-webrtc-ice-state = ICE վիճակ
 about-webrtc-ice-stats-heading = ICE վիճակներ
 about-webrtc-ice-restart-count-label = ICE վերագործարկումներ:
 about-webrtc-ice-rollback-count-label = ICE դարձումներ:
+about-webrtc-ice-pair-bytes-sent = Բայթ է ուղարկվել:
+about-webrtc-ice-pair-bytes-received = Բայթ է ստացվել:
 
 ##
 
