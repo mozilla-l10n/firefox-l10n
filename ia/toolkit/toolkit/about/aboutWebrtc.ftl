@@ -180,6 +180,14 @@ about-webrtc-aec-logging-off-state-msg = files de log capturate pote esser trova
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] { $packets } pacchetto recipite
+       *[other] { $packets } pacchettos recipite
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
