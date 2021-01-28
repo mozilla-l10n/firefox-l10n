@@ -22,6 +22,9 @@ about-webrtc-peerconnection-id-label = PeerConnection ID:
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
 
+about-webrtc-sdp-heading = SDP
+about-webrtc-local-sdp-heading = Local SDP
+about-webrtc-remote-sdp-heading = Remote SDP
 
 ##
 
@@ -34,6 +37,10 @@ about-webrtc-rtp-stats-heading = RTP Stats
 ## is an IETF protocol, and should not normally be translated.
 
 about-webrtc-ice-state = ICE State
+# "Stats" is an abbreviation for Statistics.
+about-webrtc-ice-stats-heading = ICE Stats
+about-webrtc-ice-restart-count-label = ICE restarts:
+about-webrtc-ice-rollback-count-label = ICE rollbacks:
 about-webrtc-ice-pair-bytes-sent = Bytes na ipinadala:
 about-webrtc-ice-pair-bytes-received = Bytes na natanggap:
 about-webrtc-ice-component-id = Component ID
@@ -71,6 +78,8 @@ about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
 
 ##
 
+about-webrtc-decoder-label = Decoder
+about-webrtc-encoder-label = Encoder
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
