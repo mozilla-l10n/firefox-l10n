@@ -285,6 +285,7 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Emba’eguerupáma
 about-logins-import-dialog-done = Apopyre
 about-logins-import-dialog-error-title = Ojavy mba’egueru
+about-logins-import-dialog-error-file-format-title = Marandurenda ysaja iñapañuãi
 
 ## Logins import report page
 
