@@ -31,7 +31,11 @@ about-webrtc-peerconnection-id-label = Naoudi PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP Lec'hel
+about-webrtc-local-sdp-heading-offer = SDP Lec'hel (Kinnig)
+about-webrtc-local-sdp-heading-answer = SDP Lec'hel (Respont)
 about-webrtc-remote-sdp-heading = SDP a-bell
+about-webrtc-remote-sdp-heading-offer = SDP a-bell (Kinnig)
+about-webrtc-remote-sdp-heading-answer = SDP a-bell (Respont)
 
 ##
 
@@ -48,6 +52,9 @@ about-webrtc-ice-state = Stad ICE
 about-webrtc-ice-stats-heading = Stadegoù ICE
 about-webrtc-ice-restart-count-label = Adloc'hadennoù ICE:
 about-webrtc-ice-rollback-count-label = Atoradur ICE:
+about-webrtc-ice-pair-bytes-sent = Eizhbitoù kaset:
+about-webrtc-ice-pair-bytes-received = Eizhbitoù degemeret:
+about-webrtc-ice-component-id = Naoudi ar parzh
 
 ##
 
@@ -101,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (bet ser
 
 about-webrtc-local-candidate = Rakdibab lec'hel
 about-webrtc-remote-candidate = Rakdibab a-bell
+about-webrtc-raw-candidates-heading = An holl emstriverien diaoz
+about-webrtc-raw-local-candidate = Emstriver diaoz lec'hel
+about-webrtc-raw-remote-candidate = Emstriver diaoz a-bell
+about-webrtc-raw-cand-show-msg = diskouez an emstriverien diaoz
+    .title = klikit evit kreskaat al lodenn-mañ
+about-webrtc-raw-cand-hide-msg = kuzhat an emstriverien diaoz
+    .title = Klikañ da ziskar ar gevrenn-mañ
 about-webrtc-priority = Tevet
 about-webrtc-fold-show-msg = skrammañ ar munudoù
     .title = klikit evit kreskaat al lodenn-mañ
@@ -130,6 +144,10 @@ about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall beza
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Distabilder { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = An emstriverien gorrek (a zegouezh goude ar respont) a zo usskedet e glas
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
