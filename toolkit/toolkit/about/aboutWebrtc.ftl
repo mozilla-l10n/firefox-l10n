@@ -54,6 +54,7 @@ about-webrtc-ice-restart-count-label = Redémarrages ICE:
 about-webrtc-ice-rollback-count-label = Restaurations ICE:
 about-webrtc-ice-pair-bytes-sent = Octets envoyés:
 about-webrtc-ice-pair-bytes-received = Octets reçus:
+about-webrtc-ice-component-id = ID du composant
 
 ##
 
@@ -107,6 +108,13 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (fermée
 
 about-webrtc-local-candidate = Candidat local
 about-webrtc-remote-candidate = Candidat distant
+about-webrtc-raw-candidates-heading = Tous les candidats bruts
+about-webrtc-raw-local-candidate = Candidat brut local
+about-webrtc-raw-remote-candidate = Candidat brut distant
+about-webrtc-raw-cand-show-msg = afficher les candidats bruts
+    .title = cliquer pour développer cette section
+about-webrtc-raw-cand-hide-msg = masquer les candidats bruts
+    .title = cliquer pour réduire cette section
 about-webrtc-priority = Priorité
 about-webrtc-fold-show-msg = afficher les détails
     .title = cliquer pour développer cette section
@@ -146,6 +154,10 @@ about-webrtc-aec-logging-off-state-msg = les fichiers de journalisation capturé
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Gigue { $jitter }
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Les candidats lents (arrivant après la réponse) sont affichés avec un fond bleu
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
