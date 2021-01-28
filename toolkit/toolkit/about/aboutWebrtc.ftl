@@ -14,8 +14,10 @@ about-webrtc-save-page-dialog-title = simpan about:webrtc sebagai
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
+about-webrtc-aec-logging-msg-label = Pengelogan AEC
 about-webrtc-aec-logging-off-state-label = Mulakan Pengelogan AEC
 about-webrtc-aec-logging-on-state-label = Hentikan Pengelogan AEC
+about-webrtc-aec-logging-on-state-msg = Log AEC aktif (berhubunglah dengan pemanggil selama beberapa minit dan kemudian cuba hentikan tangkapan data)
 
 ##
 
@@ -29,6 +31,8 @@ about-webrtc-peerconnection-id-label = ID PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP Lokal
+about-webrtc-local-sdp-heading-offer = SDP Lokal (Tawaran)
+about-webrtc-local-sdp-heading-answer = SDP Lokal (Jawapan)
 
 ##
 
@@ -40,8 +44,14 @@ about-webrtc-rtp-stats-heading = Statistik RTP
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
+about-webrtc-ice-state = Keadaan ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = Statistik ICE
+about-webrtc-ice-restart-count-label = ICE mula semula:
+about-webrtc-ice-rollback-count-label = ICE rollbacks:
+about-webrtc-ice-pair-bytes-sent = Bait dihantar:
+about-webrtc-ice-pair-bytes-received = Bait diterima:
+about-webrtc-ice-component-id = ID Komponen
 
 ##
 
@@ -57,17 +67,26 @@ about-webrtc-ice-stats-heading = Statistik ICE
 ## connection.
 
 about-webrtc-type-local = Lokal
+about-webrtc-type-remote = Jauh
 
 ##
 
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
+about-webrtc-nominated = Dipilih
+# This adjective is used to label a table column. Cells in this column contain
+# the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Dipilih
+about-webrtc-save-page-label = Simpan Halaman
 about-webrtc-debug-mode-msg-label = Mod Nyahpepijat
 about-webrtc-debug-mode-off-state-label = Mulakan Mod Nyahpepijat
 about-webrtc-stats-heading = Statistik Sesi
+about-webrtc-stats-clear = Buang Sejarah
 about-webrtc-log-heading = Log Sambungan
+about-webrtc-log-clear = Buang Log
+about-webrtc-log-hide-msg = sorok log
+    .title = klik untuk runtuhkan bahagian ini
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -81,6 +100,16 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ditutup
 
 ##
 
+about-webrtc-local-candidate = Local Candidate
+about-webrtc-remote-candidate = Calon Jauh
+about-webrtc-raw-candidates-heading = Semua Calon Mentah
+about-webrtc-raw-local-candidate = Calon Lokal Mentah
+about-webrtc-raw-remote-candidate = Calon Jauh Mentah
+about-webrtc-raw-cand-hide-msg = sorok calon mentah
+    .title = klik untuk runtuhkan bahagian ini
+about-webrtc-priority = Prioriti
+about-webrtc-fold-hide-msg = sorok butiran
+    .title = klik untuk runtuhkan bahagian ini
 about-webrtc-decoder-label = Penyahkod
 about-webrtc-encoder-label = Pengekod
 
@@ -95,9 +124,17 @@ about-webrtc-encoder-label = Pengekod
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
+about-webrtc-save-page-msg = halaman disimpan di: { $path }
+about-webrtc-debug-mode-off-state-msg = kesan log boleh ditemui di: { $path }
+about-webrtc-debug-mode-on-state-msg = mod nyahpepijat aktif, log disurih di: { $path }
+about-webrtc-aec-logging-off-state-msg = tangkapan data fail log boleh ditemui di: { $path }
 
 ##
 
+# ICE candidates arriving after the remote answer arrives are considered trickled
+# (an attribute of an ICE candidate). These are highlighted in the ICE stats
+# table with light blue background.
+about-webrtc-trickle-caption-msg = Calon yang disusun (tiba selepas jawapan) diserlahkan dalam warna biru
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
