@@ -309,3 +309,7 @@ about-logins-import-dialog-error-no-logins-imported = Δεν έγινε εισα
 about-logins-import-dialog-error-learn-more = Μάθετε περισσότερα
 about-logins-import-dialog-error-try-again = Δοκιμή ξανά…
 about-logins-import-dialog-error-cancel = Ακύρωση
+
+## Logins import report page
+
+about-logins-import-report-page-title = Εισαγωγή περιληπτικής αναφοράς
