@@ -347,5 +347,5 @@ mozilla-pkix-error-validity-too-long = O servidor apresentou um certificado que 
 mozilla-pkix-error-required-tls-feature-missing = Falta uma funcionalidade TLS necessária.
 mozilla-pkix-error-invalid-integer-encoding = O servidor apresentou um certificado que contém uma codificação inválida de um inteiro. As causas comuns incluem números de série negativos, módulos RSA negativos e codificações que não são necessárias.
 mozilla-pkix-error-empty-issuer-name = O servidor apresentou um certificado faltando o nome de emissor.
-mozilla-pkix-error-additional-policy-constraint-failed = Uma restrição adicional de política falhou ao validar este certificado.
+mozilla-pkix-error-additional-policy-constraint-failed = Uma restrição adicional de diretiva falhou ao validar este certificado.
 mozilla-pkix-error-self-signed-cert = O certificado não é considerado confiável porque é autoassinado.
