@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Este não é um site decetivo…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Procurar por atualizações…
+    .accesskey = P
