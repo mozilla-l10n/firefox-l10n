@@ -6,7 +6,7 @@
 <!ENTITY Addrbook.accesskey                    "C">
 <!ENTITY GeneratedName.label                   "Nome">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "E-mail">
+<!ENTITY PrimaryEmail.label                    "Email">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organização">
 <!ENTITY Company.accesskey                     "z">
@@ -14,7 +14,7 @@
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Apelido">
 <!ENTITY NickName.accesskey                    "i">
-<!ENTITY SecondEmail.label                     "E-mail adicional">
+<!ENTITY SecondEmail.label                     "Email adicional">
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Setor">
 <!ENTITY Department.accesskey                  "r">
