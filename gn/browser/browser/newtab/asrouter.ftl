@@ -279,3 +279,11 @@ cfr-whatsnew-media-keys-button = Jekuaa pyahu
 
 cfr-whatsnew-search-shortcuts-header = Eheka mbopya’eha kundaharape rendápe
 cfr-whatsnew-search-shortcuts-body = Ko’ág̃a, ehaívo peteĩ jeheka mongu’eha térã tenda ha’etéva kundaharape rendápe, osẽta peteĩ mbopya’eha hovýva pe jehekaha je’epyrépe. Eiporavo pe mbopya’eha emohu’ã hag̃ua nde jeheka pe kundaharape renda guive.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Ñemo’ã kookieguasu imarãkuaáva rovake
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Techaukaha iporãvéva
