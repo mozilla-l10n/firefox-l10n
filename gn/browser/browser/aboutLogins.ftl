@@ -308,6 +308,7 @@ about-logins-import-dialog-error-title = Ojavy mba’egueru
 about-logins-import-dialog-error-conflicting-values-title = Tepykue ndojokupytýiva tembiapo ñepyrũme g̃uarã
 about-logins-import-dialog-error-conflicting-values-description = Techapyrã: heta puruhára réra, ñe’ẽñemi, URLs, etc. peteĩ tembiapo ñepyrũme g̃uarã añónte.
 about-logins-import-dialog-error-file-format-title = Marandurenda ysaja iñapañuãi
+about-logins-import-dialog-error-file-format-description = Yta yvatevegua oĩvai térã oĩ’ỹva. Ne marandurenda orekova’erã yta puruhára réra rendag̃ua, ñe’ẽñemi ha URL.
 about-logins-import-dialog-error-file-permission-title = Noñemoñe’ẽkuaái marandurenda
 about-logins-import-dialog-error-unable-to-read-title = Noñemomba’apokuaái marandurenda
 about-logins-import-dialog-error-unable-to-read-description = Eiporavo marandurenda CSV térã TSV.
