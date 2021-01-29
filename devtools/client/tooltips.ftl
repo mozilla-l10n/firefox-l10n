@@ -51,6 +51,8 @@ inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> no
 
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> non ha effetto sugli elementi interni di una tabella ad eccezione delle celle.
 
+inactive-css-not-table = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è una tabella.
+
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
@@ -86,6 +88,8 @@ inactive-css-not-for-internal-table-elements-fix = Provare a impostare per la pr
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provare a impostare per la proprietà <strong>display</strong> un valore diverso da <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Provare a impostare per la proprietà <strong>outline-style</strong> un valore diverso da <strong>auto</strong> o <strong>none</strong>. { learn-more }
+
+inactive-css-not-table-fix = Provare ad aggiungere <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
