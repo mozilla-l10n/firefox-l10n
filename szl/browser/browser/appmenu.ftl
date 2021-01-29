@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nowe ôkno
 appmenuitem-new-private-window =
     .label = Nowe prywatne ôkno
+appmenuitem-passwords =
+    .label = Hasła
+appmenuitem-extensions-and-themes =
+    .label = Rozszyrzynia i motywy
+appmenuitem-find-in-page =
+    .label = Znojdź na strōnie…
+appmenuitem-more-tools =
+    .label = Wiyncyj noczyń
+appmenuitem-exit =
+    .label = Skōńcz
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Sztalōnki
 
 ## Zoom and Fullscreen Controls
 
