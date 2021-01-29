@@ -18,14 +18,9 @@ printui-page-range-custom = Włosne
 printui-page-range-label = Strōny
 printui-page-range-picker =
     .aria-label = Ôbier zakres strōn
-printui-page-custom-range =
+printui-page-custom-range-input =
     .aria-label = Wkludź włosny zakres strōn
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Ôd
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = do
+    .placeholder = bp. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopie
 printui-orientation = Ôriyntacyjo
@@ -39,14 +34,17 @@ printui-less-settings = Mynij sztalōnkōw
 printui-paper-size-label = Srogość papiōru
 # Section title (noun) for the print scaling options
 printui-scale = Skala
-printui-scale-fit-to-page = Przipasuj do strōny
 printui-scale-fit-to-page-width = Przipasuj do szyrzki strōny
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skala
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Durk ôbuch strōn
+printui-duplex-checkbox = Durkuj na ôbuch strōnach
 # Section title for miscellaneous print options
 printui-options = Ôpcyje
 printui-headers-footers-checkbox = Durkuj nogōwki i stopki
 printui-backgrounds-checkbox = Durkuj zadki
+printui-selection-checkbox = Durkuj ino ôbznoczynie
 printui-color-mode-label = Farbisty tryb
 printui-color-mode-color = Farbisty
 printui-color-mode-bw = Czorno-bioły
@@ -54,15 +52,30 @@ printui-margins = Ranty
 printui-margins-default = Włosne
 printui-margins-min = Minimalne
 printui-margins-none = Żodne
+printui-margins-custom-inches = Włosne (w calach)
+printui-margins-custom-top = Z wiyrchu
+printui-margins-custom-top-inches = Z wiyrchu (cale)
+printui-margins-custom-bottom = Na spodku
+printui-margins-custom-bottom-inches = Na spodku (cale)
+printui-margins-custom-left = Lewy
+printui-margins-custom-left-inches = Lewy (cale)
+printui-margins-custom-right = Prawy
+printui-margins-custom-right-inches = Prawy (cale)
 printui-system-dialog-link = Durkuj z pōmocōm systymowego dialogu…
 printui-primary-button = Durkuj
 printui-primary-button-save = Spamiyntej
 printui-cancel-button = Pociep
+printui-close-button = Zawrzij
 printui-loading = Rychtowanie podglōndu
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Podglōnd durku
+printui-pages-per-sheet = Strōny na kartka
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Durkowanie…
+printui-print-progress-indicator-saving = Spamiyntowanie…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -83,6 +96,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Skala to mo być liczba miyndzy 10 a 200.
+printui-error-invalid-margin = Wkludź dobry margines do ôbranyj srogości papiōru.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Zakres to mo być liczba miyndzy 1 a { $numPages }.

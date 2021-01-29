@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Strōna:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } ze { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Ôstatnio strōna
-
+printpreview-homearrow-button =
+    .title = Piyrszo strōna
+printpreview-previousarrow-button =
+    .title = Piyrwyjszo strōna
+printpreview-nextarrow-button =
+    .title = Nastympno strōna
+printpreview-endarrow-button =
+    .title = Ôstatnio strōna
