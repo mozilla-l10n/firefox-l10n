@@ -88,6 +88,7 @@ login-item-new-login-title = أنشِئ جلسة ولوج جديدة
 login-item-edit-button = حرِّر
 about-logins-login-item-remove-button = أزِل
 login-item-origin-label = عنوان الموقع
+login-item-tooltip-message = تأكّد من تطابق هذا العنوان مع عنوان الموقع الذي تريد الولوج إليه.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = اسم المستخدم
@@ -224,6 +225,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = صدّر جلسات الولوج وكلمات السر
 about-logins-confirm-export-dialog-message = ستُحفظ جلسات الولوج على هيئة نص مقروء (مثلا 12345 أو BadP@ssw0rd) وبهذا يستطيع أيّ شخص معاينتها لو فتح الملف المصدّر.
 about-logins-confirm-export-dialog-confirm-button = صدّر…
+about-logins-alert-import-title = تمّ الاستيراد
+about-logins-alert-import-message = اعرض ملخص الاستيراد التفصيلي
 confirm-discard-changes-dialog-title = أتريد إهمال التغييرات غير المحفوظة؟
 confirm-discard-changes-dialog-message = ستفقد كل تغيير لم تحفظه.
 confirm-discard-changes-dialog-confirm-button = أهمِل
@@ -285,3 +288,30 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] مستند CSV
        *[other] ملف CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] مستند TSV
+       *[other] ملف TSV
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = تمّ الاستيراد
+about-logins-import-dialog-done = تمّ
+about-logins-import-dialog-error-title = عُطل أثناء الاستيراد
+about-logins-import-dialog-error-file-format-title = مشكلة في نسق الملف
+about-logins-import-dialog-error-file-format-description = رؤوس الأعمدة إمّا خاطئة أو ناقصة. تأكّد من أن يحتوي الملف على أعمدة اسم المستخدم وكلمة السر وعنوان الموقع.
+about-logins-import-dialog-error-file-permission-title = تعذّرت قراءة الملف
+about-logins-import-dialog-error-file-permission-description = لا يملك { -brand-short-name } تصريحًا بقراءة الملف. جرّب تغيير تصريحات الملف.
+about-logins-import-dialog-error-unable-to-read-title = تعذّر تحليل الملف
+about-logins-import-dialog-error-unable-to-read-description = تأكّد من اختيار ملف CSV أو TSV.
+about-logins-import-dialog-error-no-logins-imported = لم تُستورد أيّ جلسات ولوج
+about-logins-import-dialog-error-learn-more = اطّلع على المزيد
+about-logins-import-dialog-error-cancel = ألغِ
+
+## Logins import report page
+
