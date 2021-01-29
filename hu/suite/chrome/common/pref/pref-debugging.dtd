@@ -8,8 +8,14 @@
 
 <!-- Render Debugging -->
 <!ENTITY debugRendering.label             "Megjelenítés">
+<!ENTITY debugXULBox.label                "XUL dobozok hibakeresése">
+<!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "XUL gyorsítótár letiltása">
+<!ENTITY debugDisableXULCache.accesskey   "L">
 
 <!-- Event Debugging -->
+<!ENTITY debugEvents.label "Események">
+<!ENTITY debugPaintFlashing.label "Festési felvillanások (a Caps Lock kapcsolja)">
+<!ENTITY debugPaintFlashing.accesskey "F">
 
 <!-- Reflow Event Debugging -->
