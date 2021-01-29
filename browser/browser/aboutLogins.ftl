@@ -317,3 +317,7 @@ about-logins-import-dialog-error-no-logins-imported = Es wurden keine Zugangsdat
 about-logins-import-dialog-error-learn-more = Weitere Informationen
 about-logins-import-dialog-error-try-again = Erneut versuchen…
 about-logins-import-dialog-error-cancel = Abbrechen
+
+## Logins import report page
+
+about-logins-import-report-page-title = Import-Zusammenfassungsbericht
