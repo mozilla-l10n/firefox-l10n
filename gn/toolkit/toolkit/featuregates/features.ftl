@@ -98,3 +98,6 @@ experimental-features-fission-description = Fission (tenda momombyry) ha’e tem
 experimental-features-multi-pip =
     .label = Ojokupytýva heta Picture-in-Picture ndive
 experimental-features-multi-pip-description = Tembiapoite oñeha’ãva omoneĩ hag̃ua heta ovetã ijurujáva Picture-in-Picture oñondivepa.
+experimental-features-http3 =
+    .label = HTTP/3 raperekoite
+experimental-features-http3-description = Pytyvõha ipyahúva HTTP/3 raperekoitépe g̃uarã.
