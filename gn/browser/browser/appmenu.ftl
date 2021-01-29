@@ -73,6 +73,9 @@ profiler-popup-settings =
     .value = Ñemboheko
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ñemboheko mbosako’i…
+profiler-popup-disabled =
+    Pe mbohapeha ndojepurukuaái ko’ag̃aite, ikatúre oguereko kundaha ñemi rovetã
+    ijurujavahína.
 profiler-popup-recording-screen = Jehechapaite…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
