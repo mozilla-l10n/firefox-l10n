@@ -183,6 +183,30 @@ about-webrtc-aec-logging-off-state-msg = marandurenda haipy japyhypyréva ikatu 
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Ñapytĩmby { $packets } guahẽmbyre
+       *[other] Ñapytĩmbykuéra { $packets } guahẽmbyre
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Ñapytĩmby okañýva { $packets }
+       *[other] Ñapytĩmbykuéra okañýva { $packets }
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Emondo { $packets } ñapytĩmby
+       *[other] Emondo { $packets } ñapytĩmbykuéra
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
