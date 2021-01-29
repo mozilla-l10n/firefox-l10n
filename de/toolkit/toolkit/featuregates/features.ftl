@@ -104,3 +104,4 @@ experimental-features-http3-description = Experimentelle Unterstützung für das
 # Search during IME
 experimental-features-ime-search =
     .label = Adressleiste: Ergebnisse während der IME-Komposition anzeigen
+experimental-features-ime-search-description = Ein IME (Input Method Editor) ist ein Werkzeug, mit dem Sie komplexe Symbole, wie sie in ostasiatischen oder indischen Schriftsprachen verwendet werden, über eine Standardtastatur eingeben können. Durch Aktivieren dieses Experiments bleibt die Adressleisten-Ansicht geöffnet, wodurch Suchergebnisse und Vorschläge angezeigt werden, während IME zur Texteingabe verwendet wird. Beachten Sie, dass der IME möglicherweise ein Fenster anzeigt, das die Ergebnisse der Adressleiste verdeckt. Daher wird diese Einstellung nur für IME empfohlen, die diese Art von Fenster nicht verwenden.
