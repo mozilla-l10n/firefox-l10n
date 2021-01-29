@@ -7,6 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Mbohapeha Ñemboheko
 
 ## All of the headings for the various sections.
 
@@ -58,6 +59,8 @@ perftools-button-edit-settings = Embosako’i ñemboheko…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-render-backend =
+    .title = Inimbo WebRender RenderBackend
 
 ##
 
