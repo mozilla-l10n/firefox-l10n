@@ -20,6 +20,14 @@
 <!ENTITY allowContextmenuDisable.label   "Απενεργοποίηση ή αντικατάσταση μενού επιλογών">
 <!ENTITY allowHideStatusBar.label        "Απόκρυψη γραμμής κατάστασης">
 
+<!ENTITY debugging.label                  "Εντοπισμός σφαλμάτων JavaScript">
+<!ENTITY debugEnableDump.label            "Ενεργοποίηση εξόδου JavaScript dump()">
+<!ENTITY debugEnableDump.accesskey        "Ε">
+<!ENTITY debugStrictJavascript.label      "Εμφάνιση αυστηρών προειδοποιήσεων JavaScript">
+<!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "Εμφάνιση σφαλμάτων και προειδοποιήσεων chrome JavaScript">
+<!ENTITY debugConsoleJavascript.accesskey "c">
+
 <!ENTITY enablePlugins.label             "Ενεργοποίηση αρθρωμάτων για">
 <!ENTITY enablePluginForSuite.label      "Σουίτα">
 <!ENTITY enablePluginForSuite.accesskey  "υ">
