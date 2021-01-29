@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Νέο παράθυρο
 appmenuitem-new-private-window =
     .label = Νέο ιδιωτικό παράθυρο
+appmenuitem-passwords =
+    .label = Κωδικοί πρόσβασης
+appmenuitem-extensions-and-themes =
+    .label = Επεκτάσεις και θέματα
+appmenuitem-find-in-page =
+    .label = Εύρεση στη σελίδα…
+appmenuitem-more-tools =
+    .label = Περισσότερα εργαλεία
+appmenuitem-exit =
+    .label = Έξοδος
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ρυθμίσεις
 
 ## Zoom and Fullscreen Controls
 
