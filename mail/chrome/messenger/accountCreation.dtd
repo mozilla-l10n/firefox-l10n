@@ -73,7 +73,7 @@
 <!ENTITY half-manual-test.accesskey      "R">
 <!ENTITY manual-config.label             "Configurar manualmente…">
 <!ENTITY manual-config.accesskey         "m">
-<!ENTITY open-provisioner.label          "Usar um novo endereço de e-mail…">
+<!ENTITY open-provisioner.label          "Obter um novo endereço de email…">
 <!ENTITY open-provisioner.accesskey      "o">
 <!ENTITY get-help.label                  "Obter ajuda">
 <!ENTITY get-help.accesskey              "a">
@@ -100,7 +100,7 @@
 <!ENTITY changeSettings.label            "Alterar as configurações">
 <!ENTITY changeSettings.accesskey        "M">
 
-<!ENTITY contactYourProvider.description "O &brandShortName; lhe permitirá obter o seu correio utilizando as configurações fornecidas. Entretanto, você deve contatar o seu administrador ou provedor de e-mail a respeito destas conexões impróprias Veja as FAQ do Thunderbird para mais informações.">
+<!ENTITY contactYourProvider.description "O &brandShortName; pode permitir usar seu email usando as configurações fornecidas. Entretanto, você deve entrar em contato com seu administrador ou provedor de email para falar a respeito dessas conexões impróprias. Consulte mais informações nas perguntas frequentes do Thunderbird.">
 
 <!ENTITY insecureServer.tooltip.title    "Aviso! Este é um servidor inseguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes.">
