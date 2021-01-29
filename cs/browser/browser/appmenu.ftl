@@ -23,6 +23,18 @@ appmenuitem-new-window =
     .label = Nové okno
 appmenuitem-new-private-window =
     .label = Nové anonymní okno
+appmenuitem-extensions-and-themes =
+    .label = Rozšíření a vzhledy
+appmenuitem-find-in-page =
+    .label = Najít na stránce…
+appmenuitem-more-tools =
+    .label = Další nástroje
+appmenuitem-exit =
+    .label = Ukončit
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Nastavení
 
 ## Zoom and Fullscreen Controls
 
@@ -48,6 +60,14 @@ whatsnew-panel-header = Co je nového
 whatsnew-panel-footer-checkbox =
     .label = Informovat o nových funkcích
     .accesskey = f
+
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-learn-more = Zjistit více
+profiler-popup-settings =
+    .value = Nastavení
 
 ## Help panel
 
@@ -107,3 +127,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Zkontrolovat aktualizace…
