@@ -168,6 +168,12 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Hindi na pwedeng bawiin ang kilos na ito.
 about-logins-confirm-remove-dialog-confirm-button = Tanggalin
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Alisin
+        [one] Alisin Lahat
+       *[other] Alisin Lahat
+    }
 about-logins-confirm-export-dialog-title = Mag-export ng mga login at password
 about-logins-confirm-export-dialog-message = Mase-save ang mga password mo bilang readable text (hal., PangitNaP@ssw0rd) kaya pwede itong makita ng kahit sinong makakapagbukas ng na-export na file.
 about-logins-confirm-export-dialog-confirm-button = i-Export…
@@ -232,3 +238,11 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV Document
        *[other] CSV File
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
