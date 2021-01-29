@@ -20,9 +20,13 @@
 <!ENTITY allowContextmenuDisable.label   "Disable or replace context menus">
 <!ENTITY allowHideStatusBar.label        "Hide the status bar">
 
-<!ENTITY enableDrmMedia.label            "Enable Digital Rights Management for">
-<!ENTITY enableEmeForSuite.label         "Third-party Content Decryption Modules">
-<!ENTITY enableEmeForSuite.accesskey     "C">
+<!ENTITY debugging.label                  "JavaScript Debugging">
+<!ENTITY debugEnableDump.label            "Enable JavaScript dump() output">
+<!ENTITY debugEnableDump.accesskey        "E">
+<!ENTITY debugStrictJavascript.label      "Show strict JavaScript warnings">
+<!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "Show chrome JavaScript errors and warnings">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Enable Plugins for">
 <!ENTITY enablePluginForSuite.label      "Suite">
