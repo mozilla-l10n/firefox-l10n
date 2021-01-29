@@ -29,3 +29,9 @@
 <!ENTITY prefetchTitle.label             "Hivatkozások betöltése">
 <!ENTITY enablePrefetch.label            "Előre letölti a weboldalakat a böngészés holtidejében, így az erre felkészített weboldalak hivatkozásai gyorsabban töltődnek majd be.">
 <!ENTITY enablePrefetch.accesskey        "E">
+
+<!ENTITY debugCache.label                "Hibakeresés">
+<!ENTITY debugEnableMemCache.label       "Memóriagyorsítás engedélyezése">
+<!ENTITY debugEnableMemCache.accesskey   "e">
+<!ENTITY debugEnableDiskCache.label      "Lemezgyorsítótár engedélyezése">
+<!ENTITY debugEnableDiskCache.accesskey  "D">
