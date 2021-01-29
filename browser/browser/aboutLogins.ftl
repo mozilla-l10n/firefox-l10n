@@ -298,3 +298,10 @@ about-logins-import-file-picker-csv-filter-title =
 
 about-logins-import-dialog-title = Import byl dokončen
 about-logins-import-dialog-done = Hotovo
+about-logins-import-dialog-error-file-format-title = Problém s formátem souboru
+about-logins-import-dialog-error-file-permission-title = Soubor nelze načíst
+about-logins-import-dialog-error-learn-more = Zjistit více
+about-logins-import-dialog-error-cancel = Zrušit
+
+## Logins import report page
+
