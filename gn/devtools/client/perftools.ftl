@@ -61,6 +61,14 @@ perftools-button-edit-settings = Embosako’i ñemboheko…
 
 perftools-thread-render-backend =
     .title = Inimbo WebRender RenderBackend
+pref-thread-stream-trans =
+    .title = Ñanduti jeku’e gueraha
+perftools-thread-img-decoder =
+    .title = Ta’ãnga papapy’o inimbo
+perftools-thread-dns-resolver =
+    .title = Pe DNS jehaipy oiko ko inimbópe
+perftools-thread-js-helper =
+    .title = Omba’apo mokõiha JS mongu’ehápe, ñembyaty okápe inimbo guasúgui
 
 ##
 
