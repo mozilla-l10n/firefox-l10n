@@ -285,11 +285,28 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Emba’eguerupáma
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span>Tembiapo ñepyrũ pyahu mbojuajupyre:</span> <span data-l10n-name="count"></span>
-       *[other] <span>Tembiapo ñepyrũ pyahu mbojuajupyre:</span> <span data-l10n-name="count"></span>
+        [one] <span>Tembiapo ñepyrũ pyahu mbojuajupyre:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Tembiapo ñepyrũ pyahu mbojuajupyre:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Tembiapo ñepyrũ hekopyahúva:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Tembiapo ñepyrũ hekopyahúva:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Tembiapo ñepyrũ ikõiva:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ndojeguerúiva)</span>
+       *[other] <span>Tembiapo ñepyrũ ikõiva:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ndojeguerúiva)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Jejavy:</span><span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ndojeguerúiva)</span>
+       *[other] <span>Jejavy:</span><span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ndojeguerúiva)</span>
     }
 about-logins-import-dialog-done = Apopyre
 about-logins-import-dialog-error-title = Ojavy mba’egueru
+about-logins-import-dialog-error-conflicting-values-title = Tepykue ndojokupytýiva tembiapo ñepyrũme g̃uarã
+about-logins-import-dialog-error-conflicting-values-description = Techapyrã: heta puruhára réra, ñe’ẽñemi, URLs, etc. peteĩ tembiapo ñepyrũme g̃uarã añónte.
 about-logins-import-dialog-error-file-format-title = Marandurenda ysaja iñapañuãi
 about-logins-import-dialog-error-file-permission-title = Noñemoñe’ẽkuaái marandurenda
 about-logins-import-dialog-error-unable-to-read-title = Noñemomba’apokuaái marandurenda
