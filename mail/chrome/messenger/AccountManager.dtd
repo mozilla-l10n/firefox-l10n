@@ -9,7 +9,7 @@
 
 <!ENTITY accountActionsButton.label "Ações de contas">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Nova conta de e-mail…">
+<!ENTITY addMailAccountButton.label "Adicionar conta de email…">
 <!ENTITY addMailAccountButton.accesskey "N">
 <!ENTITY addIMAccountButton.label "Nova conta de conversa…">
 <!ENTITY addIMAccountButton.accesskey "v">

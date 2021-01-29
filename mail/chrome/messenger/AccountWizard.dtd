@@ -13,7 +13,7 @@
 <!ENTITY accountTypeTitle.label "Configurar nova conta">
 <!ENTITY accountTypeDesc2.label "Este assistente coletará as informações necessárias para configurar a conta. Se você não souber as informações solicitadas, contate o administrador do sistema ou o provedor de internet.">
 <!ENTITY accountTypeDirections.label "Selecione o tipo de conta que você deseja configurar:">
-<!ENTITY accountTypeMail.label "Conta de e-mail">
+<!ENTITY accountTypeMail.label "Conta de email">
 <!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Conta de grupo de notícias">
 <!ENTITY accountTypeNews.accesskey "n">
@@ -36,7 +36,7 @@
 <!ENTITY fullnameLabel.label "Seu nome:">
 <!ENTITY fullnameLabel.accesskey "N">
 
-<!ENTITY emailLabel.label "Endereço de e-mail:">
+<!ENTITY emailLabel.label "Endereço de email:">
 <!ENTITY emailLabel.accesskey "E">
 
 <!-- Entities for Incoming Server page -->
@@ -60,7 +60,7 @@
 <!ENTITY incomingServer.label "Servidor de recebimento:">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Insira o nome de usuário atribuído a você pelo seu provedor de e-mail (por exemplo, &quot;jdasilva&quot;).">
+<!ENTITY incomingUsername.description "Insira o nome de usuário de recebimento dado a você por seu provedor de email (por exemplo, &quot;jdasilva&quot;).">
 <!ENTITY incomingUsername.label "Nome de usuário:">
 <!ENTITY incomingUsername.accesskey "N">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
@@ -75,7 +75,7 @@
 <!ENTITY outgoingServer.description "Insira o nome do seu servidor de envio (SMTP) (por exemplo, &quot;smtp.exemplo.net&quot;).">
 <!ENTITY outgoingServer.label "Servidor de envio:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Insira o nome de usuário atribuído a você pelo seu provedor de e-mail (normalmente é o mesmo que o seu nome de usuário para recebimento).">
+<!ENTITY outgoingUsername.description "Insira o nome de usuário de envio dado a você por seu provedor de email (normalmente é igual ao seu nome de usuário de recebimento).">
 <!ENTITY outgoingUsername.label "Nome de usuário para envios:">
 <!ENTITY outgoingUsername.accesskey "N">
 
