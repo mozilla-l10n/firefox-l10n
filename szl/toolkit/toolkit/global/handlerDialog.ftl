@@ -32,11 +32,26 @@ permission-dialog-btn-choose-app =
     .label = Ôbier aplikacyjo
     .accessKey = A
 permission-dialog-unset-description = Trza ôbrać jako aplikacyjo.
+permission-dialog-set-change-app-link = Ôbier inkszo aplikacyjo
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Ôbier aplikacyjo
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Ôdewrzij link
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = Ôbier aplikacyjo, coby ôdewrzić link { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Zawdy używej tyj aplikacyje,, coby ôtwiyrać linki <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Idzie do zmiynić we ôpcyjach aplikacyje { -brand-short-name }.
+       *[other] Idzie do zmiynić we preferyncyjach aplikacyje { -brand-short-name }.
+    }
 choose-other-app-description = Ôbier inkszo aplikacyjo
 choose-app-btn =
     .label = Ôbier…
