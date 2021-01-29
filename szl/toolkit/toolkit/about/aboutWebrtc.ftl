@@ -91,6 +91,10 @@ about-webrtc-stats-heading = Statystyki sesyje
 about-webrtc-stats-clear = Wypucuj historyjo
 about-webrtc-log-heading = Protokōł połōnczynio
 about-webrtc-log-clear = Wypucuj protokōł
+about-webrtc-log-show-msg = pokoż protokōł
+    .title = kliknij, coby rozszyrzyć ta sekcyjo
+about-webrtc-log-hide-msg = skryj protokōł
+    .title = kliknij, coby skryć ta sekcyjo
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -99,9 +103,13 @@ about-webrtc-log-clear = Wypucuj protokōł
 ##  $url (String) - The url of the site which opened the PeerConnection.
 ##  $now (Date) - The JavaScript timestamp at the time the report was generated.
 
+about-webrtc-connection-open = [ { $browser-id } | { $id } ] { $url } { $now }
+about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zawarte) { $now }
 
 ##
 
+about-webrtc-local-candidate = Lokalny kandydat
+about-webrtc-remote-candidate = Zdalny kandydat
 
 ## SSRCs are identifiers that represent endpoints in an RTP stream
 
