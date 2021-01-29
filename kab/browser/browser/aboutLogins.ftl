@@ -304,3 +304,7 @@ about-logins-import-dialog-error-file-format-title = Ugur deg umasal n ufaylu
 about-logins-import-dialog-error-learn-more = Issin ugar
 about-logins-import-dialog-error-try-again = Ɛreḍ tikkelt-nniḍen…
 about-logins-import-dialog-error-cancel = Sefsex
+
+## Logins import report page
+
+about-logins-import-report-page-title = Kter aneqqis n ugzul

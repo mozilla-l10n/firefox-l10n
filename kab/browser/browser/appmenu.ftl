@@ -17,6 +17,8 @@ appmenuitem-new-window =
     .label = Asfaylu amaynut
 appmenuitem-new-private-window =
     .label = Asfaylu amaynut n tunigin tusligt
+appmenuitem-passwords =
+    .label = Awalen uffiren
 
 ## Zoom and Fullscreen Controls
 
