@@ -64,6 +64,7 @@ about-webrtc-ice-component-id = ID rape’apo
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
 about-webrtc-avg-bitrate-label = Avg. bitrate:
+about-webrtc-avg-framerate-label = Avg. aravo’ivépe:
 
 ##
 
@@ -123,6 +124,8 @@ about-webrtc-fold-show-msg = mba’emimi jehechauka
     .title = eikutu emyasãi hag̃ua ko pehẽ’i
 about-webrtc-fold-hide-msg = mba’emimi moñemi
     .title = eikutu embopaha hag̃ua ko tembiapo
+about-webrtc-dropped-frames-label = Kora ho’apyréva:
+about-webrtc-discarded-packets-label = Ñapytĩmby mboykepyre:
 about-webrtc-decoder-label = Mbopapapy’oha
 about-webrtc-encoder-label = Mopapapyha
 about-webrtc-show-tab-label = Ehechauka tendayke
