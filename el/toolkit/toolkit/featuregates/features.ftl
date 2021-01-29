@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Πειραματική υποστ�
 experimental-features-http3 =
     .label = Πρωτόκολλο HTTP/3
 experimental-features-http3-description = Πειραματική υποστήριξη για το πρωτόκολλο HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Γραμμή διευθύνσεων: εμφάνιση αποτελεσμάτων κατά τη σύνταξη IME

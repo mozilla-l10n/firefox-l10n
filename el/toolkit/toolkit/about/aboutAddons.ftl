@@ -385,6 +385,11 @@ addon-badge-recommended2 =
 addon-badge-line2 =
     .title = Αυτή είναι μια επίσημη επέκταση που αναπτύχθηκε από τους δημιουργούς του { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Επίσημη επέκταση από τη Mozilla. Πληροί τα πρότυπα ασφαλείας και επιδόσεων
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Αυτή η επέκταση έχει ελεγχθεί και πληροί τα πρότυπα ασφαλείας και επιδόσεών μας
     .aria-label = { addon-badge-verified2.title }
