@@ -102,19 +102,19 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableMemory             "Gravar memória">
-<!ENTITY performanceUI.enableMemory.tooltiptext "Gravar o consumo de memória ao perfilar.">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Gravar o consumo de memória ao criar um perfil.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableAllocations             "Gravar alocações">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "Gravar as alocações de objetos ao perfilar.">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Gravar as alocações de objetos ao criar um perfil.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 <!ENTITY performanceUI.enableFramerate             "Gravar taxa de frames">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Gravar taxa de frames ao perfilar.">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Gravar taxa de frames ao criar um perfil.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
