@@ -67,6 +67,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Eguenohẽve marandu
 profiler-popup-description-title =
     .value = Eñongatu, ehesa’ỹijo, emoherakuã
+profiler-popup-description = Eipytyvõ tembiapo apañuãi ehechaukávo mba’etekuéra omoherakuãvo ne mohendahápe g̃uarã.
 profiler-popup-learn-more = Kuaave
 profiler-popup-settings =
     .value = Ñemboheko
