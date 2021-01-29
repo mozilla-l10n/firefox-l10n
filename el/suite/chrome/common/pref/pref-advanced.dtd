@@ -14,6 +14,8 @@
 <!ENTITY prefCheckDefaultClient.label     "Έλεγχος ρυθμίσεων προεπιλεγμένης εφαρμογής κατά την εκκίνησης">
 <!ENTITY prefCheckDefaultClient.accesskey "Έ">
 
+<!ENTITY printing.label                   "Εκτύπωση">
+
 <!ENTITY crashReports.caption             "Αναφορά καταρρεύσεων">
 <!ENTITY submitCrashes.label              "Υποβολή αναφορών κατάρρευσης">
 <!ENTITY submitCrashes.accesskey          "Υ">
