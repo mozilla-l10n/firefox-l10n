@@ -18,3 +18,10 @@
 <!ENTITY browseWithCaretShortCut.accesskey "k">
 <!ENTITY browseWithCaretWarn.label "Figyelmeztetés, a kurzoros böngészés bekapcsolásakor">
 <!ENTITY browseWithCaretWarn.accesskey "F">
+
+<!ENTITY modifiers.label "Módosítók">
+<!ENTITY acceleratorKey.label "Gyorsbillentyű:">
+<!ENTITY acceleratorKey.accesskey "A">
+<!ENTITY menuAccessKey.label "Menüelérési billentyű:">
+<!ENTITY menuAccessKey.accesskey "M">
+<!ENTITY modifiersDesc.label "Megjegyzés: A nulla érték letiltja a módosítóbillentyűt.">
