@@ -361,3 +361,7 @@ about-logins-import-dialog-error-no-logins-imported = Heb fewnforio unrhyw fewng
 about-logins-import-dialog-error-learn-more = Dysgu rhagor
 about-logins-import-dialog-error-try-again = Ceisiwch eto…
 about-logins-import-dialog-error-cancel = Diddymu
+
+## Logins import report page
+
+about-logins-import-report-page-title = Mewnforio Adroddiad Cryno
