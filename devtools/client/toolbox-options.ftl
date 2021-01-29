@@ -98,19 +98,19 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Ativar caixas de ferramentas de debug do chrome do navegador e de extensões
 options-enable-chrome-tooltip =
-    .title = Turning this option on will allow you to use various developer tools in browser context (via Tools > Web Developer > Browser Toolbox) and debug add-ons from the Add-ons Manager
+    .title = Permitir usar várias ferramentas de desenvolvimento no contexto do navegador (via Ferramentas > Desenvolvimento web > Caixa de ferramentas do navegador) e debugar extensões a partir do gerenciador de extensões
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = Enable remote debugging
+options-enable-remote-label = Ativar depuração remota
 options-enable-remote-tooltip2 =
-    .title = Turning this option on will allow to debug this browser instance remotely
+    .title = Permitir debugar remotamente esta instância do navegador
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = Enable Service Workers over HTTP (when toolbox is open)
+options-enable-service-workers-http-label = Ativar Service Workers sobre HTTP (quando a caixa de ferramentas estiver aberta)
 options-enable-service-workers-http-tooltip =
-    .title = Turning this option on will enable the service workers over HTTP for all tabs that have the toolbox open.
+    .title = Permitir service workers sobre HTTP em todas as abas que estejam com a caixa de ferramentas aberta.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Enable Source Maps
+options-source-maps-label = Ativar mapas de fontes
 options-source-maps-tooltip =
-    .title = If you enable this option sources will be mapped in the tools.
+    .title = Mapear fontes nas ferramentas.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Current session only, reloads the page
 # The label for the checkbox that toggles the display of the platform data in the
