@@ -131,7 +131,7 @@ downloads-history =
 downloads-details =
     .title = 下载详情
 downloads-clear-downloads-button =
-    .label = 清除下载项
+    .label = 清空下载列表
     .tooltiptext = 清除已完成、已取消及失败的下载项
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
