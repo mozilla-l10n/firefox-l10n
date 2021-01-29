@@ -305,3 +305,16 @@ about-logins-import-dialog-error-title = Erro de importação
 about-logins-import-dialog-error-conflicting-values-title = Múltiplos valores conflituantes para Credencial Única
 about-logins-import-dialog-error-conflicting-values-description = Por exemplo: vários nomes de utilizador, palavras-passe, endereços, etc. para uma credencial.
 about-logins-import-dialog-error-file-format-title = Problema com o formato do ficheiro
+about-logins-import-dialog-error-file-format-description = Cabeçalhos de colunas incorretos ou em falta. Confirme que o ficheiro inclui colunas para o nome de utilizador, palavra-passe e endereço.
+about-logins-import-dialog-error-file-permission-title = Não foi possível ler o ficheiro
+about-logins-import-dialog-error-file-permission-description = O { -brand-short-name } não tem permissão para ler o ficheiro. Tente alterar as permissões do ficheiro.
+about-logins-import-dialog-error-unable-to-read-title = Não foi possível interpretar o ficheiro
+about-logins-import-dialog-error-unable-to-read-description = Certifique-se que selecionou um ficheiro CSV ou TSV.
+about-logins-import-dialog-error-no-logins-imported = Não foram importadas credenciais
+about-logins-import-dialog-error-learn-more = Saber mais
+about-logins-import-dialog-error-try-again = Tentar novamente…
+about-logins-import-dialog-error-cancel = Cancelar
+
+## Logins import report page
+
+about-logins-import-report-page-title = Relatório com o resumo da importação
