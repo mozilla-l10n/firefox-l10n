@@ -51,15 +51,24 @@ profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Razkrij več podatkov
+profiler-popup-description-title =
+    .value = Spremljajte, analizirajte, delite
 profiler-popup-learn-more = Več o tem
 profiler-popup-settings =
     .value = Nastavitve
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Uredi nastavitve …
+profiler-popup-recording-screen = Spremljanje …
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Po meri
+profiler-popup-start-recording-button =
+    .label = Začni spremljati
+profiler-popup-discard-button =
+    .label = Zavrzi
+profiler-popup-capture-button =
+    .label = Zajemi
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1

@@ -289,6 +289,10 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Uvoz dokončan
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Najdene podvojene prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvožene)</span>
+    }
 about-logins-import-dialog-done = Končano
 about-logins-import-dialog-error-title = Napaka pri uvozu
 about-logins-import-dialog-error-conflicting-values-title = Več nasprotujočih si vrednosti za eno prijavo
@@ -302,3 +306,6 @@ about-logins-import-dialog-error-no-logins-imported = Uvožena ni bila nobena pr
 about-logins-import-dialog-error-learn-more = Več o tem
 about-logins-import-dialog-error-try-again = Poskusi znova …
 about-logins-import-dialog-error-cancel = Prekliči
+
+## Logins import report page
+
