@@ -283,6 +283,11 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Emba’eguerupáma
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Tembiapo ñepyrũ pyahu mbojuajupyre:</span> <span data-l10n-name="count"></span>
+       *[other] <span>Tembiapo ñepyrũ pyahu mbojuajupyre:</span> <span data-l10n-name="count"></span>
+    }
 about-logins-import-dialog-done = Apopyre
 about-logins-import-dialog-error-title = Ojavy mba’egueru
 about-logins-import-dialog-error-file-format-title = Marandurenda ysaja iñapañuãi
