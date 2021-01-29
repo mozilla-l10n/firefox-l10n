@@ -18,7 +18,7 @@ options-tool-not-supported-label = * Não suportado pelo alvo atual das ferramen
 options-select-additional-tools-label = Ferramentas de desenvolvimento instaladas por extensões
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
-options-select-enabled-toolbox-buttons-label = Botões disponíveis da caixa de ferramentas
+options-select-enabled-toolbox-buttons-label = Botões na caixa de ferramentas
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Temas
 
@@ -42,7 +42,7 @@ options-default-color-unit-authored = Conforme o autor
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
-options-default-color-unit-name = Nome de cores
+options-default-color-unit-name = Nomes de cor
 
 ## Style Editor section
 
@@ -62,7 +62,7 @@ options-screenshot-clipboard-label = Capturar tela para a área de transferênci
 options-screenshot-clipboard-tooltip =
     .title = Copiar capturas de tela diretamente para a área de transferência
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
-options-screenshot-audio-label = Tocar o som do obturador da câmera
+options-screenshot-audio-label = Tocar som de obturador da câmera
 options-screenshot-audio-tooltip =
     .title = Ativar o som da câmera ao capturar telas
 
@@ -112,11 +112,9 @@ options-source-maps-label = Ativar mapas de fontes
 options-source-maps-tooltip =
     .title = Mapear fontes nas ferramentas.
 # The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = * Current session only, reloads the page
+options-context-triggers-page-refresh = * Somente na sessão atual, a página é recarregada
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
-options-show-platform-data-label = Show Gecko platform data
+options-show-platform-data-label = Exibir dados da plataforma Gecko
 options-show-platform-data-tooltip =
-    .title =
-        If you enable this option the JavaScript Profiler reports will include
-        Gecko platform symbols
+    .title = Incluir símbolos da plataforma Gecko em relatórios do profiler JavaScript
