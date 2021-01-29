@@ -69,7 +69,7 @@ policy-HardwareAcceleration = Caso definido como "false", desativar a aceleraç�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir a página inicial e, opcionalmente, impedir que seja alterada.
 policy-InstallAddonsPermission = Permitir que determinados sites instalem extensões.
-policy-LegacyProfiles = Desativar o recurso de impor um perfil separado para cada instalação
+policy-LegacyProfiles = Desativar o recurso de impor um perfil separado para cada instalação.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
