@@ -105,6 +105,6 @@
 <!ENTITY insecureServer.tooltip.title    "Aviso! Este é um servidor inseguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes.">
 
-<!ENTITY insecureUnencrypted.description "O seu e-mail e a autenticação são enviados desencriptadas, portanto a sua senha (e a sua mensagem) poderão ser lidas facilmente por outras pessoas. O &brandShortName; deixará você obter o seu correio, mas você deve contatar o seu provedor de e-mail para configurar o servidor com uma conexão segura.">
+<!ENTITY insecureUnencrypted.description "Seu email e autenticação são enviados sem criptografia, assim sua senha e a própria mensagem podem ser lidas facilmente por outras pessoas. O &brandShortName; permite usar seu email, mas você deve entrar em contato com seu provedor de email para pedir que configure o servidor com uma conexão segura.">
 <!ENTITY insecureSelfSigned.description  "O servidor usa um certificado que não podemos confiar, portanto não podemos garantir que alguém não esteja interceptando o tráfego entre o &brandShortName; e o seu servidor. O &brandShortName; deixará que você obtenha o seu correio, mas você realmente deve solicitar ao seu provedor de e-mail para configurar o servidor com um certificado confiável.">
 <!ENTITY secureServer.description        "Parabéns! Este é um servidor seguro.">
