@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = Definir políticas que WebExtensions podem acessar via chrome.storage.managed.
+policy-3rdparty = Definir diretivas que WebExtensions podem acessar via chrome.storage.managed.
 policy-AppAutoUpdate = Ativar ou desativar atualizações automáticas da aplicação.
 policy-AppUpdateURL = Definir URL personalizada de atualização de aplicativo.
 policy-Authentication = Configurar autenticação integrada para sites que a suportam.
@@ -20,12 +20,12 @@ policy-BlockAboutProfiles = Bloquear acesso à página about:profiles.
 policy-BlockAboutSupport = Bloquear acesso à página about:support.
 policy-Bookmarks = Criar favoritos na barra de favoritos, no menu de favoritos ou uma pasta especificada dentro deles.
 policy-CaptivePortal = Ativar ou desativar suporte a portal cativo.
-policy-CertificatesDescription = Adicionar certificados ou utilizar certificados integrados.
+policy-CertificatesDescription = Adicionar certificados ou usar certificados integrados.
 policy-Cookies = Permitir ou impedir que sites criem cookies.
 policy-DisabledCiphers = Desativar criptografia.
 policy-DefaultDownloadDirectory = Definir o diretório de download padrão.
 policy-DisableAppUpdate = Impedir a atualização do navegador.
-policy-DisableBuiltinPDFViewer = Desativar o PDF.js, o visualizador de PDF integrado no { -brand-short-name }.
+policy-DisableBuiltinPDFViewer = Desativar PDF.js, o visor de PDF integrado no { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedir que o agente padrão do navegador execute qualquer ação. Aplicável apenas a Windows; outras plataformas não têm o agente.
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de desenvolvimento.
 policy-DisableFeedbackCommands = Desativar comandos de envio de comentários no menu Ajuda (Enviar opinião e Denunciar site enganoso).
@@ -34,7 +34,7 @@ policy-DisableFirefoxAccounts = Desativar serviços baseados em { -fxaccount-bra
 policy-DisableFirefoxScreenshots = Desativar o recurso de captura de tela do Firefox.
 policy-DisableFirefoxStudies = Impedir que o { -brand-short-name } execute estudos.
 policy-DisableForgetButton = Impedir acesso ao botão "Esquecer".
-policy-DisableFormHistory = Não recordar o histórico de pesquisas e formulários.
+policy-DisableFormHistory = Não memorizar o histórico de pesquisas e formulários.
 policy-DisableMasterPasswordCreation = Caso definido como "true", não pode ser criada uma senha mestra.
 policy-DisablePrimaryPasswordCreation = Se for true, não pode ser criada uma senha principal.
 policy-DisablePasswordReveal = Não permitir que senhas sejam reveladas em contas salvas.
@@ -42,16 +42,16 @@ policy-DisablePocket = Desativar o recurso de salvar páginas no Pocket.
 policy-DisablePrivateBrowsing = Desativar a navegação privativa.
 policy-DisableProfileImport = Desativar o comando do menu para importar dados de outro navegador.
 policy-DisableProfileRefresh = Desativar o botão "Restaurar o { -brand-short-name }" na página about:support.
-policy-DisableSafeMode = Desativar o recurso de reiniciar em modo de segurança. Nota: entrar em modo de segurança usando a tecla Shift só pode ser desativado no Windows usando Política de Grupo.
+policy-DisableSafeMode = Desativar o recurso de reiniciar em modo de segurança. Nota: entrar em modo de segurança usando a tecla Shift só pode ser desativado no Windows usando Diretiva de Grupo.
 policy-DisableSecurityBypass = Impedir que o usuário ignore determinados alertas de segurança.
 policy-DisableSetAsDesktopBackground = Desativar o comando de menu Definir como papel de parede da área de trabalho para imagens.
 policy-DisableSystemAddonUpdate = Impedir que o navegador instale e atualize extensões do sistema.
 policy-DisableTelemetry = Desligar telemetria.
 policy-DisplayBookmarksToolbar = Exibir a barra de favoritos por padrão.
 policy-DisplayMenuBar = Exibir a barra de menu por padrão.
-policy-DNSOverHTTPS = Configurar DNS sobre HTTPS
+policy-DNSOverHTTPS = Configurar DNS sobre HTTPS.
 policy-DontCheckDefaultBrowser = Desativar a verificação de navegador padrão ao iniciar.
-policy-DownloadDirectory = Definir e bloquear o diretório de download.
+policy-DownloadDirectory = Definir e fixar o diretório de download.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e, opcionalmente, impedir que seja alterado.
 # “lock” means that the user won’t be able to change this setting
