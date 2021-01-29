@@ -14,20 +14,24 @@ perftools-intro-title = Ρυθμίσεις profiler
 perftools-heading-settings = Πλήρεις ρυθμίσεις
 perftools-heading-buffer = Ρυθμίσεις buffer
 perftools-heading-features = Λειτουργίες
+perftools-heading-features-default = Λειτουργίες (Προτείνεται ενεργοποίηση από προεπιλογή)
 perftools-heading-features-disabled = Ανενεργές λειτουργίες
 perftools-heading-threads = Threads
+perftools-heading-local-build = Τοπική έκδοση δομής
 
 ##
 
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Διάστημα δειγματοληψίας:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Μέγεθος buffer:
+perftools-devtools-interval-label = Διάστημα:
 perftools-devtools-settings-label = Ρυθμίσεις
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -43,6 +47,7 @@ perftools-button-start-recording = Έναρξη εγγραφής
 perftools-button-cancel-recording = Ακύρωση εγγραφής
 perftools-button-restart = Επανεκκίνηση
 perftools-button-add-directory = Προσθήκη καταλόγου
+perftools-button-remove-directory = Αφαίρεση επιλεγμένων
 perftools-button-edit-settings = Επεξεργασία ρυθμίσεων…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
