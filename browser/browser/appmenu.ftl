@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Ffenestr Newydd
 appmenuitem-new-private-window =
     .label = Ffenestr Breifat Newydd
+appmenuitem-passwords =
+    .label = Cyfrineiriau
+appmenuitem-extensions-and-themes =
+    .label = Estyniadau a Themâu
+appmenuitem-find-in-page =
+    .label = Canfod ar Dudalen…
+appmenuitem-more-tools =
+    .label = Rhagor o Offer
+appmenuitem-exit =
+    .label = Gadael
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Gosodiadau
 
 ## Zoom and Fullscreen Controls
 

@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = Enw'r Cydran
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Di-radd cyfartalog:
+about-webrtc-avg-framerate-label = Ffrâm-radd cyfartalog:
 
 ##
 
@@ -122,6 +124,8 @@ about-webrtc-fold-show-msg = dangos manylion
     .title = cliciwch i ehangu'r adran
 about-webrtc-fold-hide-msg = cuddio manylion
     .title = cliciwch i gau'r adran
+about-webrtc-dropped-frames-label = Fframiau wedi'u gollwng:
+about-webrtc-discarded-packets-label = Pecynnau wedi'u hepgor:
 about-webrtc-decoder-label = Datgodwyr
 about-webrtc-encoder-label = Amgodiwr
 about-webrtc-show-tab-label = Dangos tab
@@ -166,6 +170,11 @@ about-webrtc-pacer-delay-ms = Oedi Pacer ms
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Ystadegau Ffrâm Fideo - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -179,6 +188,42 @@ about-webrtc-aec-logging-off-state-msg = mae'r ffeiliau cofnod y cipio yn: { $pa
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [zero] Heb dderbyn unrhyw becyn
+        [one] Wedi derbyn { $packets } pecyn
+        [two] Wedi derbyn { $packets } pecyn
+        [few] Wedi derbyn { $packets } pecyn
+        [many] Wedi derbyn { $packets } pecyn
+       *[other] Wedi derbyn { $packets } pecyn
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [zero] Heb golli unrhyw becyn
+        [one] Wedi derbyn { $packets } pecyn
+        [two] Wedi derbyn { $packets } pecyn
+        [few] Wedi derbyn { $packets } pecyn
+        [many] Wedi derbyn { $packets } pecyn
+       *[other] Wedi derbyn { $packets } pecyn
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [zero] Heb anfon unrhyw becyn
+        [one] Wedi anfon { $packets } pecyn
+        [two] Wedi anfon { $packets } pecyn
+        [few] Wedi anfon { $packets } pecyn
+        [many] Wedi anfon { $packets } pecyn
+       *[other] Wedi anfon { $packets } pecyn
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
