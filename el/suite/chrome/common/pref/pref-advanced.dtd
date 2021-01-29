@@ -15,6 +15,8 @@
 <!ENTITY prefCheckDefaultClient.accesskey "Έ">
 
 <!ENTITY printing.label                   "Εκτύπωση">
+<!ENTITY useGlobalPrintSettings.label     "Χρήση γενικών ρυθμίσεων εκτύπωσης">
+<!ENTITY useGlobalPrintSettings.accesskey "γ">
 
 <!ENTITY crashReports.caption             "Αναφορά καταρρεύσεων">
 <!ENTITY submitCrashes.label              "Υποβολή αναφορών κατάρρευσης">
