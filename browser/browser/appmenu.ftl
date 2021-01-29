@@ -68,6 +68,35 @@ profiler-popup-reveal-description-button =
 profiler-popup-description-title =
     .value = Gravar, analisar, partilhar
 profiler-popup-description = Colabore em problemas de desempenho publicando perfis para partilhar com a sua equipa.
+profiler-popup-learn-more = Saber mais
+profiler-popup-settings =
+    .value = Definições
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Editar definições…
+profiler-popup-disabled =
+    Neste momento o profiler está, provavelmente, desativado devido a uma janela de navegação privada 
+    que está a ser aberta.
+profiler-popup-recording-screen = A gravar…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personalizado
+profiler-popup-start-recording-button =
+    .label = Iniciar gravação
+profiler-popup-discard-button =
+    .label = Descartar
+profiler-popup-capture-button =
+    .label = Capturar
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -115,3 +144,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Procurar por atualizações…
