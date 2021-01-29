@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailWizard.title               "Configure seu endereço de e-mail existente">
-<!ENTITY emailWizard.caption             "Use seu endereço de e-mail atual">
+<!ENTITY emailWizard.title               "Configure seu endereço de email existente">
+<!ENTITY emailWizard.caption             "Use seu endereço de email atual">
 <!ENTITY name.label                      "Seu nome:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY fullname.placeholder            "Seu nome completo">
 <!ENTITY name.text                       "Seu nome, como será mostrado aos outros">
 <!ENTITY name.error                      "Digite seu nome">
-<!ENTITY email.label                     "Endereço de e-mail:">
+<!ENTITY email.label                     "Endereço de email:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email3.placeholder              "Seu endereço de e-mail">
-<!ENTITY email.text                      "Seu endereço de e-mail existente">
-<!ENTITY email.error                     "Endereço de e-mail inválido">
+<!ENTITY email3.placeholder              "Seu endereço de email">
+<!ENTITY email.text                      "Seu endereço de email existente">
+<!ENTITY email.error                     "Endereço de email inválido">
 <!ENTITY password.label                  "Senha:">
 <!ENTITY password.accesskey              "S">
 <!ENTITY password.placeholder            "Senha">
