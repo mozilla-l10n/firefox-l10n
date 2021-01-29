@@ -14,7 +14,7 @@
 <!ENTITY newContact.label                               "Contato do catálogo de endereços…">
 <!ENTITY newContact.accesskey                           "C">
 <!ENTITY newContact.key                                 "n">
-<!ENTITY newListCmd.label                               "Lista de e-mails…">
+<!ENTITY newListCmd.label                               "Lista de emails…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Catálogo de endereços…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
@@ -50,8 +50,8 @@
 <!ENTITY deleteAbCmd.label                              "Excluir o catálogo de endereços">
 <!ENTITY deleteContactCmd.label                         "Excluir o contato">
 <!ENTITY deleteContactsCmd.label                        "Excluir os contatos">
-<!ENTITY deleteListCmd.label                            "Excluir a lista">
-<!ENTITY deleteListsCmd.label                           "Excluir as listas">
+<!ENTITY deleteListCmd.label                            "Excluir lista">
+<!ENTITY deleteListsCmd.label                           "Excluir listas">
 <!ENTITY deleteItemsCmd.label                           "Excluir os itens">
 <!ENTITY searchAddressesCmd.key                         "F">
 <!ENTITY propertiesMenu.label                           "Propriedades">
@@ -99,7 +99,7 @@ because displayed names don't have the comma in between. -->
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Ferramentas">
 <!ENTITY tasksMenu.accesskey                            "F">
-<!ENTITY messengerCmd.label                             "E-mail e grupos de notícias">
+<!ENTITY messengerCmd.label                             "Email e grupos de notícias">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Pesquisar endereços…">
@@ -153,7 +153,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.tooltip                          "Excluir o item selecionado">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Nome ou e-mail">
+<!ENTITY SearchNameOrEmail.label                        "Nome ou email">
 <!ENTITY SearchNameOrEmail.accesskey                    "z">
 <!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
 <!ENTITY quickSearchCmd.key                             "K">
@@ -164,7 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Addrbook.accesskey                             "e">
 <!ENTITY GeneratedName.label                            "Nome">
 <!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "E-mail">
+<!ENTITY PrimaryEmail.label                             "Email">
 <!ENTITY PrimaryEmail.accesskey                         "E">
 <!ENTITY ChatName.label                                 "Nome da conversa">
 <!ENTITY ChatName.accesskey                             "B">
@@ -172,7 +172,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "m">
 <!ENTITY NickName.label                                 "Apelido">
 <!ENTITY NickName.accesskey                             "A">
-<!ENTITY SecondEmail.label                              "E-mail adicional">
+<!ENTITY SecondEmail.label                              "Email adicional">
 <!ENTITY SecondEmail.accesskey                          "v">
 <!ENTITY Department.label                               "Setor">
 <!ENTITY Department.accesskey                           "S">
