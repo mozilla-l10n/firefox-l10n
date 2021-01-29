@@ -63,6 +63,11 @@ perftools-request-to-get-profile-and-stop-profiler = A capturar o perfil
 perftools-button-start-recording = Iniciar gravação
 perftools-button-capture-recording = Capturar gravação
 perftools-button-cancel-recording = Cancelar gravação
+perftools-button-save-settings = Guardar definições e voltar
+perftools-button-restart = Reiniciar
+perftools-button-add-directory = Adicionar um diretório
+perftools-button-remove-directory = Remover selecionado
+perftools-button-edit-settings = Editar definições…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
