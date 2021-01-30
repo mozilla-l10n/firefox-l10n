@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Mačči d asmel web n ukellex…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Wali ma llan yileqman…
+    .accesskey = W

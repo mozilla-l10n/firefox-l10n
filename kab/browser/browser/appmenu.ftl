@@ -19,6 +19,18 @@ appmenuitem-new-private-window =
     .label = Asfaylu amaynut n tunigin tusligt
 appmenuitem-passwords =
     .label = Awalen uffiren
+appmenuitem-extensions-and-themes =
+    .label = Iseɣzaf d yisental
+appmenuitem-find-in-page =
+    .label = Af deg usebter…
+appmenuitem-more-tools =
+    .label = Ugar n yifecka
+appmenuitem-exit =
+    .label = Ffeɣ
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Iɣewwaren
 
 ## Zoom and Fullscreen Controls
 

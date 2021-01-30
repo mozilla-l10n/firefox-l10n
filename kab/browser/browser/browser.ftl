@@ -514,6 +514,9 @@ pointerlock-warning-no-domain = Isemli-a yeṭṭef asewwaṛ-ik. Sit ɣef Esc a
 crashed-subframe-learnmore =
     .label = Issin ugar
     .accesskey = I
+crashed-subframe-submit =
+    .label = Azen aneqqis
+    .accesskey = A
 
 ## Bookmarks panels, menus and toolbar
 
