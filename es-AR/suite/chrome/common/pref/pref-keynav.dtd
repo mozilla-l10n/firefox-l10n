@@ -18,3 +18,10 @@
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Advertirme antes de habilitar la navegación con cursor">
 <!ENTITY browseWithCaretWarn.accesskey "A">
+
+<!ENTITY modifiers.label "Modificadores">
+<!ENTITY acceleratorKey.label "Tecla de aceleración:">
+<!ENTITY acceleratorKey.accesskey "A">
+<!ENTITY menuAccessKey.label "Tecla de acceso al menú:">
+<!ENTITY menuAccessKey.accesskey "M">
+<!ENTITY modifiersDesc.label "Nota: un valor de cero desactiva una tecla modificadora.">
