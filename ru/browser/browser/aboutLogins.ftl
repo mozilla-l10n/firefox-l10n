@@ -328,3 +328,7 @@ about-logins-import-dialog-error-no-logins-imported = Ни один логин �
 about-logins-import-dialog-error-learn-more = Подробнее
 about-logins-import-dialog-error-try-again = Попробовать снова…
 about-logins-import-dialog-error-cancel = Отмена
+
+## Logins import report page
+
+about-logins-import-report-page-title = Импортировать сводный отчёт
