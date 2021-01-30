@@ -17,6 +17,18 @@ appmenuitem-new-window =
     .label = Yeni pencere
 appmenuitem-new-private-window =
     .label = Yeni gizli pencere
+appmenuitem-passwords =
+    .label = Parolalar
+appmenuitem-extensions-and-themes =
+    .label = Eklentiler ve temalar
+appmenuitem-find-in-page =
+    .label = Sayfada bul…
+appmenuitem-exit =
+    .label = Çık
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ayarlar
 
 ## Zoom and Fullscreen Controls
 
@@ -53,6 +65,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Daha fazla bilgi göster
 profiler-popup-description-title =
     .value = Kaydet, analiz et, paylaş
+profiler-popup-learn-more = Daha fazla bilgi al
 profiler-popup-settings =
     .value = Ayarlar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.

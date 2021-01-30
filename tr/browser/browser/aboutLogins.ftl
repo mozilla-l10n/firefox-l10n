@@ -299,7 +299,16 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Tamam
 about-logins-import-dialog-error-title = İçe Aktarma Hatası
+about-logins-import-dialog-error-file-format-title = Dosya Biçimi Sorunu
 about-logins-import-dialog-error-file-permission-title = Dosya okunamıyor
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name }, dosyayı okuma iznine sahip değil. Dosya izinlerini değiştirmeyi deneyin.
+about-logins-import-dialog-error-unable-to-read-title = Dosya Ayrıştırılamıyor
 about-logins-import-dialog-error-unable-to-read-description = Bir CSV veya TSV dosyası seçtiğinizden emin olun.
+about-logins-import-dialog-error-no-logins-imported = Hiçbir hesap içe aktarılmadı
+about-logins-import-dialog-error-learn-more = Daha fazla bilgi al
 about-logins-import-dialog-error-try-again = Yeniden dene…
 about-logins-import-dialog-error-cancel = Vazgeç
+
+## Logins import report page
+
+about-logins-import-report-page-title = İçe Aktarma Raporu
