@@ -45,6 +45,8 @@ perftools-request-to-stop-profiler = Kaydı durdur
 
 perftools-button-start-recording = Kaydı başlat
 perftools-button-restart = Yeniden başlat
+perftools-button-add-directory = Klasör ekle
+perftools-button-remove-directory = Seçilenleri sil
 perftools-button-edit-settings = Ayarları düzenle…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
