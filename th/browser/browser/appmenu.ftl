@@ -43,6 +43,32 @@ whatsnew-panel-footer-checkbox =
     .label = แจ้งเตือนเกี่ยวกับคุณลักษณะใหม่
     .accesskey = จ
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = แสดงข้อมูลเพิ่มเติม
+profiler-popup-description-title =
+    .value = บันทึกวิเคราะห์แบ่งปัน
+profiler-popup-description = ทำงานร่วมกันในปัญหาด้านประสิทธิภาพโดยการเผยแพร่โปรไฟล์เพื่อแบ่งปันกับทีมของคุณ
+profiler-popup-learn-more = เรียนรู้เพิ่มเติม
+profiler-popup-settings =
+    .value = การตั้งค่า
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = แก้ไขการตั้งค่า
+profiler-popup-recording-screen = กำลังบันทึก…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = กำหนดเอง
+profiler-popup-start-recording-button =
+    .label = เริ่มการบันทึก
+profiler-popup-discard-button =
+    .label = ละทิ้ง
+
 ## Help panel
 
 appmenu-about =
@@ -89,3 +115,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = ตรวจสอบการอัปเดต…
