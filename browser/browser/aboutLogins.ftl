@@ -84,6 +84,7 @@ login-item-new-login-title = Yeni hesap oluştur
 login-item-edit-button = Düzenle
 about-logins-login-item-remove-button = Kaldır
 login-item-origin-label = Web sitesi adresi
+login-item-tooltip-message = Giriş yaptığınız web sitesinin tam adresiyle aynı olmalı.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Kullanıcı adı
@@ -292,6 +293,10 @@ about-logins-import-dialog-items-modified =
         [one] <span>Güncellenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Güncellenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Bulunan mükerrer hesap:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılmadı)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Hata:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılamadı)</span>
@@ -299,7 +304,10 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Tamam
 about-logins-import-dialog-error-title = İçe Aktarma Hatası
+about-logins-import-dialog-error-conflicting-values-title = Bir Hesap için Çakışan Değerler
+about-logins-import-dialog-error-conflicting-values-description = Örnek: bir hesap için birden çok kullanıcı adı, parola, URL vb.
 about-logins-import-dialog-error-file-format-title = Dosya Biçimi Sorunu
+about-logins-import-dialog-error-file-format-description = Yanlış veya eksik sütun başlıkları. Dosyada kullanıcı adı, parola ve URL sütunlarının bulunduğunu kontrol edin.
 about-logins-import-dialog-error-file-permission-title = Dosya okunamıyor
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name }, dosyayı okuma iznine sahip değil. Dosya izinlerini değiştirmeyi deneyin.
 about-logins-import-dialog-error-unable-to-read-title = Dosya Ayrıştırılamıyor
