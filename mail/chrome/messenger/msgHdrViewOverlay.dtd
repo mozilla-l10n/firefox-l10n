@@ -30,7 +30,7 @@
 <!ENTITY hdrReplyAllButton1.label "Re: Todos">
 <!ENTITY hdrReplyAllButton1.tooltip "Responder ao remetente e a todos os destinatários">
 <!ENTITY hdrReplyListButton1.label "Re: Lista">
-<!ENTITY hdrReplyListButton1.tooltip "Responder à lista de e-mails">
+<!ENTITY hdrReplyListButton1.tooltip "Responder à lista de emails">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Postar uma resposta neste grupo">
 <!ENTITY hdrForwardButton1.label "Encaminhar">
