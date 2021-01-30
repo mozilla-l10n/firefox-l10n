@@ -319,3 +319,4 @@ about-logins-import-dialog-error-cancel = Cancelar
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Importar informe de resumen
