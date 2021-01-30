@@ -25,24 +25,56 @@ perftools-heading-local-build = Vietinis darinys
 
 ##
 
+perftools-description-intro =
+    Įrašinėjimai paleidžia <a>profiler.firefox.com</a> naujoje kortelėje. Visi duomenys
+    laikomi jūsų įrenginyje, tačiau galite juos įkelti dalinimuisi.
+perftools-description-local-build =
+    Jei profiliuojate savo sukompiliuotą darinį šiame kompiuteryje, pridėkite
+    šio darinio „objdir“ į žemiau esantį sąrašą, kad būtų galima iš jo gauti
+    simbolių informaciją.
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Ėminių darymo intervalas:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Buferio dydis:
+perftools-custom-threads-label = Pridėti kitas gijas pagal pavadinimą:
+perftools-devtools-interval-label = Intervalas:
+perftools-devtools-threads-label = Gijos:
+perftools-devtools-settings-label = Nuostatos
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Profiliuokė išjungiama privačiojo naršymo veiksenoje.
+    Užverkite visus privačius langus, norėdami įjungti profiliuoklę
+perftools-status-recording-stopped-by-another-tool = Įrašinėjimą sustabdė kita priemonė.
+perftools-status-restart-required = Norint įjungti šį funkcionalumą, reikia perleisti naršyklę.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Stabdomas įrašinėjimas
+perftools-request-to-get-profile-and-stop-profiler = Užfiksuojamas profilis
 
 ##
 
+perftools-button-start-recording = Pradėti įrašinėjimą
+perftools-button-capture-recording = Užfiksuoti įrašinėjimą
+perftools-button-cancel-recording = Nutraukti įrašinėjimą
+perftools-button-save-settings = Įrašyti nuostatas ir grįžti
+perftools-button-restart = Perleisti
+perftools-button-add-directory = Pridėti aplanką
+perftools-button-remove-directory = Pašalinti pažymėtus
+perftools-button-edit-settings = Keisti nuostatas…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Pagrindiniai procesai tiek tėviniam procesui, tiek turinio procesams
 
 ##
 
