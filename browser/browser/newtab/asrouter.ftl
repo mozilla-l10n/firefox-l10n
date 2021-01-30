@@ -219,6 +219,7 @@ cfr-doorhanger-cryptominers-description = La tua privacy è importante. Adesso {
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti da { $date }.
+cfr-doorhanger-milestone-heading2 = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti da { DATETIME($date, month: "long", year: "numeric") }.
 cfr-doorhanger-milestone-ok-button = Visualizza tutto
   .accesskey = V
 
