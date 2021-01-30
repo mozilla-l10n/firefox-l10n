@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nueva ventana
 appmenuitem-new-private-window =
     .label = Nueva ventana privada
+appmenuitem-passwords =
+    .label = Contraseñas
+appmenuitem-extensions-and-themes =
+    .label = Extensiones y temas
+appmenuitem-find-in-page =
+    .label = Buscar en la página…
+appmenuitem-more-tools =
+    .label = Más herramientas
+appmenuitem-exit =
+    .label = Salir
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ajustes
 
 ## Zoom and Fullscreen Controls
 
@@ -60,6 +74,10 @@ profiler-popup-settings =
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar ajustes…
 profiler-popup-recording-screen = Grabando…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personalizado
 profiler-popup-start-recording-button =
     .label = Iniciar grabación
 profiler-popup-discard-button =
