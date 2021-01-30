@@ -498,7 +498,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "p">
 <!ENTITY runJunkControls.label "Executar controle de spam na pasta">
 <!ENTITY runJunkControls.accesskey "r">
-<!ENTITY deleteJunk.label "Excluir e-mails marcados como spam na pasta">
+<!ENTITY deleteJunk.label "Excluir emails marcados como spam na pasta">
 <!ENTITY deleteJunk.accesskey "x">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "I">
@@ -572,7 +572,7 @@
 <!ENTITY newMsgButton.tooltip "Nova mensagem">
 <!ENTITY replyButton.tooltip "Responder mensagem">
 <!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
-<!ENTITY replyListButton.tooltip "Responder à lista de e-mails">
+<!ENTITY replyListButton.tooltip "Responder à lista de emails">
 <!ENTITY forwardButton.tooltip "Encaminhar mensagem selecionada">
 <!ENTITY forwardAsInline.tooltip "Reencaminhar mensagem selecionada como texto">
 <!ENTITY forwardAsAttachment.tooltip "Reencaminhar mensagem selecionada como anexo">
@@ -682,7 +682,7 @@
 <!ENTITY folderContextSettings2.accesskey "C">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "O nome ou o e-mail contém:">
+<!ENTITY SearchNameOrEmail.label "O nome ou o email contém:">
 <!ENTITY SearchNameOrEmail.accesskey "z">
 
 <!-- Gloda Search Bar -->
@@ -902,17 +902,17 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "I">
 <!ENTITY SendMessageTo.label "Nova mensagem para">
 <!ENTITY SendMessageTo.accesskey "N">
-<!ENTITY CopyEmailAddress.label "Copiar e-mail">
+<!ENTITY CopyEmailAddress.label "Copiar endereço de email">
 <!ENTITY CopyEmailAddress.accesskey "o">
-<!ENTITY CopyNameAndEmailAddress.label "Copiar nome e endereço de e-mail">
+<!ENTITY CopyNameAndEmailAddress.label "Copiar nome e endereço de email">
 <!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Copiar o nome do newsgroup">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de notícias">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Criar filtro para este e-mail…">
+<!ENTITY CreateFilterFrom.label "Criar filtro a partir de…">
 <!ENTITY CreateFilterFrom.accesskey "r">
-<!ENTITY reportPhishingURL.label "Denunciar e-mail como fraudulento">
+<!ENTITY reportPhishingURL.label "Denunciar email como fraudulento">
 <!ENTITY reportPhishingURL.accesskey "e">
 
 <!-- Spell checker context menu items -->
@@ -928,7 +928,7 @@
 <!ENTITY copyLinkCmd.accesskey "o">
 <!ENTITY copyImageAllCmd.label "Copiar imagem">
 <!ENTITY copyImageAllCmd.accesskey "m">
-<!ENTITY copyEmailCmd.label "Copiar e-mail">
+<!ENTITY copyEmailCmd.label "Copiar endereço de email">
 <!ENTITY copyEmailCmd.accesskey "o">
 <!ENTITY stopCmd.label "Parar">
 <!ENTITY stopCmd.accesskey "P">

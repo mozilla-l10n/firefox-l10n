@@ -16,7 +16,7 @@
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
-<!ENTITY importSource.title             "Selecione o aplicativo de e-mail">
+<!ENTITY importSource.title             "Importar configurações e pastas de email">
 <!ENTITY importItems.title              "Itens">
 <!ENTITY importItems.label              "Importar estes itens:">
 
