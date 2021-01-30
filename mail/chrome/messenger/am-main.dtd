@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-main.xul -->
-
 <!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Configurações da conta">
@@ -13,7 +11,7 @@
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, a qual é a informação que as outras pessoas veem quando elas leem as suas mensagens.">
 <!ENTITY name.label "Seu nome:">
 <!ENTITY name.accesskey "m">
-<!ENTITY email.label "Endereço de e-mail:">
+<!ENTITY email.label "Endereço de email:">
 <!ENTITY email.accesskey "E">
 <!ENTITY catchAll.label "Responder com esta identidade quando cabeçalhos de entrega corresponderem:">
 <!ENTITY catchAll.accesskey "d">

@@ -5,7 +5,7 @@
 <!ENTITY e2eTitle.label "Criptografia de ponta a ponta">
 <!ENTITY e2eLearnMore.label "Saiba mais">
 
-<!ENTITY e2eEnc.description "Sem criptografia de ponta a ponta, o conteúdo das mensagens é facilmente exposto ao seu provedor de e-mail e à vigilância em massa.">
+<!ENTITY e2eEnc.description "Sem criptografia de ponta a ponta, o conteúdo das mensagens é facilmente exposto ao seu provedor de email e à vigilância em massa.">
 <!ENTITY e2eeReqWarning.description "Se você precisa de criptografia, para enviar uma mensagem deve ter a chave pública ou o certificado de cada destinatário.">
 
 <!ENTITY e2eSigning.description "Uma assinatura digital permite que os destinatários verifiquem se a mensagem foi enviada por você e se o conteúdo não foi alterado.">
@@ -27,7 +27,6 @@
 <!ENTITY signingGroupTitle.label "Assinatura digital">
 <!ENTITY signMessage2.label "Adicionar minha assinatura digital por padrão">
 <!ENTITY signMessage.accesskey "D">
-
 <!ENTITY signingCert2.message "Certificado pessoal de assinatura digital:">
 
 <!ENTITY sendingDefaults.label "Configuração padrão para envio de mensagens">
