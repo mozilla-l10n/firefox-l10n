@@ -201,6 +201,7 @@ support-third-party-modules-duration = Duration del cargamento (ms)
 support-third-party-modules-status = Stato
 support-third-party-modules-status-loaded = Cargate
 support-third-party-modules-status-blocked = Blocate
+support-third-party-modules-status-redirected = Re-dirigite
 support-third-party-modules-empty = Nulle modulo de tertios ha essite cargate.
 support-third-party-modules-no-value = (Sin valor)
 support-third-party-modules-button-open =

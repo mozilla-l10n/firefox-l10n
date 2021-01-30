@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nove fenestra
 appmenuitem-new-private-window =
     .label = Nove fenestra private
+appmenuitem-passwords =
+    .label = Contrasignos
+appmenuitem-extensions-and-themes =
+    .label = Extensiones e themas
+appmenuitem-find-in-page =
+    .label = Trovar in pagina…
+appmenuitem-more-tools =
+    .label = Altere utensiles
+appmenuitem-exit =
+    .label = Exir
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Parametros
 
 ## Zoom and Fullscreen Controls
 
@@ -49,9 +63,19 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Revelar altere informationes
+profiler-popup-description-title =
+    .value = Registrar, analysar, compartir
+profiler-popup-description = Collaborar sur problemas de prestation per publication de profilos a compartir con tu equipa.
 profiler-popup-learn-more = Saper plus
 profiler-popup-settings =
     .value = Parametros
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Redaction de parametros...
+profiler-popup-disabled =
+    Le profilator es actualmente disactivate, multo probabilemente perque un fenestra de navigation¶
+    anonyme es aperte.
 profiler-popup-recording-screen = Registrante…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.

@@ -511,6 +511,7 @@ pointerlock-warning-no-domain = Iste documento controla tu punctator. Preme Esc 
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Parte de iste pagina collabeva.</strong> Pro consentir que { -brand-product-name } sape re iste problema e on pote lo corriger plus velocemente, invia un reporto.
 crashed-subframe-learnmore =
     .label = Saper plus
     .accesskey = p
