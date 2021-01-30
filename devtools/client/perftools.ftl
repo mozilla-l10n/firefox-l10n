@@ -11,6 +11,12 @@
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Configuración completa
+perftools-heading-buffer = Ajustes de buffer
+perftools-heading-features = Funcionalidades
+perftools-heading-features-default = Funciones (se recomienda activarlas de forma predeterminada)
+perftools-heading-features-disabled = Funcionalidades desactivadas
+perftools-heading-features-experimental = Experimental
+perftools-heading-threads = Hilos
 
 ##
 
@@ -32,6 +38,8 @@ perftools-heading-settings = Configuración completa
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-js-helper =
+    .title = Trabajo en segundo plano del motor JS, como compilaciones fuera del hilo principal
 
 ##
 
