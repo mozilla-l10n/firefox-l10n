@@ -81,6 +81,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Bascular lo compòrtam
 policy-LocalFileLinks = Autorizar los sites web a utilizar los ligams locals.
 policy-ManagedBookmarks = Configura una lista de marcapaginas gerits per l’administrator que pòdon pas èsser modificats per l’utilizaire.
 policy-MasterPassword = Requerir o empachar l’utilizacion d’un senhal principal.
+policy-ManualAppUpdateOnly = Autorizar solament las mesas a jorn manualas e assabentar pas l’utilizaire de la disponibilitat de mesas a jorn.
 policy-PrimaryPassword = Requerir o empachar l’utilizacion d’un senhal principal.
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.

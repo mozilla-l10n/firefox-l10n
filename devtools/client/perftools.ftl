@@ -11,21 +11,27 @@
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Paramètres complets
+perftools-heading-buffer = Paramètre del tap
 perftools-heading-features = Foncionalitats
 perftools-heading-features-default = Foncionalitats (recomandadas per defaut)
 perftools-heading-features-disabled = Foncionalitats desactivadas
 perftools-heading-features-experimental = Experimentalas
+perftools-heading-threads = Fils d’execucion
 
 ##
 
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Interval de mòstra :
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Talha del tap :
 perftools-devtools-interval-label = Interval :
+perftools-devtools-threads-label = Fils d’execucion :
 perftools-devtools-settings-label = Paramètres
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
