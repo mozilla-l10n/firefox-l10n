@@ -29,3 +29,9 @@
 <!ENTITY prefetchTitle.label             "Предварительная загрузка">
 <!ENTITY enablePrefetch.label            "Во время бездействия предварительно загружать веб-страницы, чтобы ссылки на веб-страницах, разработанных для предварительной загрузки, загружались быстрее.">
 <!ENTITY enablePrefetch.accesskey        "з">
+
+<!ENTITY debugCache.label                "Отладка">
+<!ENTITY debugEnableMemCache.label       "Включить кэш памяти">
+<!ENTITY debugEnableMemCache.accesskey   "к">
+<!ENTITY debugEnableDiskCache.label      "Включить дисковый кэш">
+<!ENTITY debugEnableDiskCache.accesskey  "л">

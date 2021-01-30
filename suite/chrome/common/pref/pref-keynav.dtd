@@ -18,3 +18,5 @@
 <!ENTITY browseWithCaretShortCut.accesskey "л">
 <!ENTITY browseWithCaretWarn.label "Предупреждать меня перед включением режима активного курсора">
 <!ENTITY browseWithCaretWarn.accesskey "ж">
+
+<!ENTITY modifiers.label "Модификаторы">

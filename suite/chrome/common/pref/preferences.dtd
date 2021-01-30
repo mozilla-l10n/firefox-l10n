@@ -57,4 +57,6 @@
 <!ENTITY smart.label "Установка ПО">
 <!ENTITY mousewheel.label "Колесико мыши">
 
+<!ENTITY debugging.label "Отладка">
+
 <!ENTITY focusSearch.key "f">
