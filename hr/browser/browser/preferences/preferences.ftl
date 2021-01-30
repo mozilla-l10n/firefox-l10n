@@ -153,7 +153,7 @@ ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kruži kroz kartice redoslijedom zadnjeg korištenja
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Otvori poveznice u karticama umjesto novih prozora
+    .label = Otvori poveznice u karticama umjesto u novim prozorima
     .accesskey = p
 warn-on-close-multiple-tabs =
     .label = Upozorava te prilikom zatvaranja višestrukih kartica
@@ -248,7 +248,7 @@ translate-exceptions =
 use-system-locale =
     .label = Koristi postavke operativnog sustava za “{ $localeName }” za oblikovanje datuma, vremena, brojeva i mjera.
 check-user-spelling =
-    .label = Provjeravanje pravopisa tijekom pisanja
+    .label = Provjeri pravopis tijekom tipkanja
     .accesskey = v
 
 ## General Section - Files and Applications
@@ -458,7 +458,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novi prozori i kartice
-home-new-windows-tabs-description2 = Odaberi što vidiš kad otvoriš svoju početnu stranicu, nove prozore i nove kartice.
+home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš početnu stranicu, nove prozore i nove kartice.
 
 ## Home Section - Home Page Customization
 
@@ -703,7 +703,7 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog =
-    .title = Odaberi što želiš sinkronizirati
+    .title = Odaberi što će se sinkronizirati
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Spremi izmjene
     .buttonaccesskeyaccept = S
