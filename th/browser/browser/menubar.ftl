@@ -328,3 +328,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = นี่ไม่ใช่ไซต์หลอกลวง…
     .accesskey = ห
+menu-help-check-for-update =
+    .label = ตรวจสอบการอัปเดต…
+    .accesskey = C
