@@ -20,9 +20,12 @@
 <!ENTITY allowContextmenuDisable.label   "Deshabilitar o reemplazar menús contextuales">
 <!ENTITY allowHideStatusBar.label        "Ocultar la barra de estado">
 
-<!ENTITY enableDrmMedia.label            "Habilitar Digital Rights Management para">
-<!ENTITY enableEmeForSuite.label         "Modulos de descifrado de contenido de terceros">
-<!ENTITY enableEmeForSuite.accesskey     "c">
+<!ENTITY debugging.label                  "Depurador de JavaScript">
+<!ENTITY debugEnableDump.accesskey        "E">
+<!ENTITY debugStrictJavascript.label      "Mostrar advertencias estrictas de JavaScript">
+<!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "Mostrar errores y advertencias de JavaScript  de chrome">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Habilitar plugins para">
 <!ENTITY enablePluginForSuite.label      "Suite">
@@ -33,4 +36,3 @@
 <!ENTITY activateAllPlugins.accesskey    "d">
 <!ENTITY warnPluginsRequired.label       "Avisarme si se necesitan instalar plugins adicionales">
 <!ENTITY warnPluginsRequired.accesskey   "v">
-
