@@ -317,3 +317,7 @@ about-logins-import-dialog-error-no-logins-imported = No se importaron credencia
 about-logins-import-dialog-error-learn-more = Aprender más
 about-logins-import-dialog-error-try-again = Volver a intentarlo…
 about-logins-import-dialog-error-cancel = Cancelar
+
+## Logins import report page
+
+about-logins-import-report-page-title = Importar informe de resumen
