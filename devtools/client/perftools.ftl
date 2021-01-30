@@ -67,6 +67,14 @@ perftools-button-edit-settings = Editar ajustes…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Los procesos principales tanto para el proceso padre como para los procesos de contenido
+perftools-thread-compositor =
+    .title = Combina diferentes elementos pintados en la página.
+perftools-thread-dom-worker =
+    .title = Esto maneja tanto a los trabajadores web como a los trabajadores de servicios
+perftools-thread-renderer =
+    .title = Cuando WebRender está habilitado, es el hilo que ejecuta las llamadas OpenGL
 perftools-thread-img-decoder =
     .title = Hilos de decodificación de imágenes
 perftools-thread-dns-resolver =
