@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Grįžti prie pasenusi
 ##
 
 policy-LocalFileLinks = Leisti konkrečioms svetainėms susieti vietinius failus.
-policy-MasterPassword = Reikalauti arba neleisti naudoti pagrindinio slaptažodžio.
 policy-ManagedBookmarks = Nustato administratoriaus tvarkomą adresyną, kurio naudotojas negali keisti.
+policy-MasterPassword = Reikalauti arba neleisti naudoti pagrindinio slaptažodžio.
+policy-ManualAppUpdateOnly = Leisti naujinti tik rankiniu būdų, ir nepranešti apie esamus naujinimus.
 policy-PrimaryPassword = Reikalauti arba neleisti naudoti pagrindinio slaptažodžio.
 policy-NetworkPrediction = Įjungti arba išjungti tinklo nuspėjimą (parengtinis DNS įkėlimas).
 policy-NewTabPage = Įjungti arba išjungti naujos kortelės puslapį.
