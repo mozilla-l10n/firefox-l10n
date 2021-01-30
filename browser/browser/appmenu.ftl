@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Naujas langas
 appmenuitem-new-private-window =
     .label = Naujas privataus naršymo langas
+appmenuitem-passwords =
+    .label = Slaptažodžiai
+appmenuitem-extensions-and-themes =
+    .label = Priedai ir grafiniai apvalkalai
+appmenuitem-find-in-page =
+    .label = Rasti tinklalapyje…
+appmenuitem-more-tools =
+    .label = Daugiau priemonių
+appmenuitem-exit =
+    .label = Išeiti
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Nuostatos
 
 ## Zoom and Fullscreen Controls
 

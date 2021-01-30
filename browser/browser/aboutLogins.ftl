@@ -328,3 +328,7 @@ about-logins-import-dialog-error-no-logins-imported = Neimportuoti jokie prisiju
 about-logins-import-dialog-error-learn-more = Sužinoti daugiau
 about-logins-import-dialog-error-try-again = Bandyti dar kartą…
 about-logins-import-dialog-error-cancel = Atsisakyti
+
+## Logins import report page
+
+about-logins-import-report-page-title = Importo suvestinės ataskaita
