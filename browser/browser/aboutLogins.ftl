@@ -331,4 +331,4 @@ about-logins-import-dialog-error-cancel = Отмена
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Импортировать сводный отчёт
+about-logins-import-report-page-title = Импорт сводного отчёта
