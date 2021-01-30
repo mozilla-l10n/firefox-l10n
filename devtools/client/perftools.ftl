@@ -45,15 +45,35 @@ perftools-devtools-settings-label = Ajustes
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice = El perfilador es desactivado cuando la navegación privada está activa. Cierra todas las ventanas privadas para reactivar el perfilador.
+perftools-status-recording-stopped-by-another-tool = La grabación fue detenida por otra herramienta.
+perftools-status-restart-required = El navegador debe ser reiniciado para activar esta función.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Parar la grabación
+perftools-request-to-get-profile-and-stop-profiler = Capturando perfil
 
 ##
 
+perftools-button-start-recording = Empezar grabación
+perftools-button-capture-recording = Capturar grabación
+perftools-button-cancel-recording = Cancelar grabación
+perftools-button-save-settings = Guardar ajustes y regresar
+perftools-button-restart = Reiniciar
+perftools-button-add-directory = Añadir un directorio
+perftools-button-remove-directory = Eliminar seleccionados
+perftools-button-edit-settings = Editar ajustes…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-img-decoder =
+    .title = Hilos de decodificación de imágenes
+perftools-thread-dns-resolver =
+    .title = La resolución de DNS ocurre en este hilo
+perftools-thread-js-helper =
+    .title = Trabajo en segundo plano del motor JS, como compilaciones fuera del hilo principal
 
 ##
 
+perftools-record-all-registered-threads = Omitir las selecciones anteriores y grabar todos los hilos registrados
