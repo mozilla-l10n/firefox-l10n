@@ -238,6 +238,6 @@ newtab-custom-close-button = Zatvori
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Isječci
+newtab-custom-snippets-title = Kratke obavijesti
 newtab-custom-snippets-subtitle = Savjeti i vijesti od { -vendor-short-name } i { -brand-product-name }
 newtab-custom-settings = Upravljaj dodatnim postavkama
