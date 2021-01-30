@@ -28,6 +28,10 @@ perftools-heading-local-build = Compilación local
 perftools-description-intro =
     Las grabaciones abren <a>profiler.firefox.com</a> en una nueva pestaña. Todos los datos son almacenados
     localmente, pero puedes elegir si quieres subirlos para compartirlos.
+perftools-description-local-build =
+    Si estás perfilando una compilación que hiciste tu, en este
+    equipo, por favor añade el objdir de tu compulación a la lista a continuación para que
+    pueda utilizarse para buscar información simbólica..
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -75,6 +79,16 @@ perftools-thread-dom-worker =
     .title = Esto maneja tanto a los trabajadores web como a los trabajadores de servicios
 perftools-thread-renderer =
     .title = Cuando WebRender está habilitado, es el hilo que ejecuta las llamadas OpenGL
+perftools-thread-render-backend =
+    .title = El hilo RenderBackend de WebRender
+perftools-thread-paint-worker =
+    .title = Cuando se activa la pintura fuera del hilo principal, el hilo en el que se realiza la pintura
+perftools-thread-style-thread =
+    .title = El cálculo de estilo se divide en múltiples hilos
+pref-thread-stream-trans =
+    .title = Transporte de flujo de red
+perftools-thread-socket-thread =
+    .title = El hilo donde el código de red ejecuta cualquier llamada de socket de bloqueo
 perftools-thread-img-decoder =
     .title = Hilos de decodificación de imágenes
 perftools-thread-dns-resolver =
@@ -85,3 +99,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Omitir las selecciones anteriores y grabar todos los hilos registrados
+perftools-tools-threads-input-label =
+    .title = Estos nombres de hilos son una lista separada por comas que se utiliza para habilitar la creación de perfiles de los hilos en el perfilador. El nombre debe ser solo una coincidencia parcial del nombre del hilo para que se incluya. Es sensible a los espacios en blanco.
