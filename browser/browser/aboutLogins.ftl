@@ -83,6 +83,7 @@ login-item-new-login-title = สร้างข้อมูลการเข้
 login-item-edit-button = แก้ไข
 about-logins-login-item-remove-button = ลบ
 login-item-origin-label = ที่อยู่เว็บไซต์
+login-item-tooltip-message = ตรวจสอบให้แน่ใจว่าตรงกับที่อยู่ของเว็บไซต์ที่คุณเข้าสู่ระบบ
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ชื่อผู้ใช้
@@ -262,6 +263,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] เอกสาร CSV
        *[other] ไฟล์ CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] เอกสาร TSV
+       *[other] ไฟล์ TSV
+    }
 
 ##
 ## Variables:
@@ -285,3 +293,9 @@ about-logins-import-dialog-items-error =
        *[other] <span>ข้อผิดพลาด:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ยังไม่ได้นำเข้า)</span>
     }
 about-logins-import-dialog-done = เสร็จสิ้น
+about-logins-import-dialog-error-title = ข้อผิดพลาดในการนำเข้า
+about-logins-import-dialog-error-try-again = ลองอีกครั้ง…
+about-logins-import-dialog-error-cancel = ยกเลิก
+
+## Logins import report page
+
