@@ -28,6 +28,10 @@ perftools-heading-local-build = Локальная сборка
 perftools-description-intro =
     Запись запустит <a>profiler.firefox.com</a> в новой вкладке. Все данные хранятся
     локально, но вы можете поделиться ими, выгрузив их.
+perftools-description-local-build =
+    Если вы профилируете сборку, которую скомпилировали самостоятельно на этой
+    машине, добавьте objdir вашей сборки в список ниже, чтобы
+    её можно было использовать в поиске символьной информации.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -71,10 +75,22 @@ perftools-button-edit-settings = Изменить настройки…
 
 perftools-thread-gecko-main =
     .title = Основные процессы как для родительского процесса, так и для процессов контента
+perftools-thread-compositor =
+    .title = Объединяет различные отрисованные элементы на странице
+perftools-thread-dom-worker =
+    .title = Обрабатывает как web worker'ы, так и service worker'ы
 perftools-thread-renderer =
     .title = Когда WebRender включён, этот поток выполняет вызовы OpenGL
 perftools-thread-render-backend =
     .title = Поток WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Поток, в котором происходит отрисовка, когда включена отрисовка вне основного потока
+perftools-thread-style-thread =
+    .title = Вычисление стилей разбито на несколько потоков
+pref-thread-stream-trans =
+    .title = Сетевой потоковый транспорт
+perftools-thread-socket-thread =
+    .title = Поток, в котором сетевой код запускает любые вызовы блокирующие сокеты
 perftools-thread-img-decoder =
     .title = Потоки декодирования изображений
 perftools-thread-dns-resolver =
@@ -84,3 +100,6 @@ perftools-thread-js-helper =
 
 ##
 
+perftools-record-all-registered-threads = Игнорировать выбор выше и записывать все регистрируемые потоки
+perftools-tools-threads-input-label =
+    .title = Эти имена потоков представляют собой список разделенный запятыми, который используется для включения профилирования потоков в профайлере. Имя может быть только частичным совпадением с именем потока, который будет включён. Это поле чувствительно к пробелам.
