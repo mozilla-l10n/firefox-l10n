@@ -41,9 +41,15 @@ perftools-status-restart-required = Aquesta foncionalitat requerís la reaviada 
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Arrèst de l’enregistrament
+perftools-request-to-get-profile-and-stop-profiler = Capture del perfil
 
 ##
 
+perftools-button-start-recording = Començar l’enregistrament
+perftools-button-capture-recording = Capture de l’enregistrament
+perftools-button-cancel-recording = Anullar l’enregistrament
+perftools-button-save-settings = Enregistrar los paramètres e tornar
 perftools-button-restart = Reaviar
 perftools-button-add-directory = Apondre un repertòri
 perftools-button-remove-directory = Suprimir la seleccion
