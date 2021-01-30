@@ -17,6 +17,16 @@ appmenuitem-new-window =
     .label = Uusi ikkuna
 appmenuitem-new-private-window =
     .label = Uusi yksityinen ikkuna
+appmenuitem-passwords =
+    .label = Salasanat
+appmenuitem-extensions-and-themes =
+    .label = Laajennukset ja teemat
+appmenuitem-find-in-page =
+    .label = Etsi sivulta…
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Asetukset
 
 ## Zoom and Fullscreen Controls
 
@@ -42,6 +52,17 @@ whatsnew-panel-header = Mitä uutta
 whatsnew-panel-footer-checkbox =
     .label = Ilmoita uusista ominaisuuksista
     .accesskey = m
+
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-settings =
+    .value = Asetukset
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Muokkaa asetuksia…
 
 ## Help panel
 
