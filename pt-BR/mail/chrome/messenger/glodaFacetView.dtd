@@ -26,4 +26,4 @@
 
 <!-- LOCALIZATION NOTE(glodaFacetView.results.message.openEmailAsList.tooltip):
      The tooltip to display when hovering over the openEmailAsList label. -->
-<!ENTITY glodaFacetView.openEmailAsList.tooltip "Mostrar todas as mensagens de e-mail no conjunto ativo em uma nova aba">
+<!ENTITY glodaFacetView.openEmailAsList.tooltip "Mostrar todas as mensagens de email no conjunto ativo em uma nova aba">
