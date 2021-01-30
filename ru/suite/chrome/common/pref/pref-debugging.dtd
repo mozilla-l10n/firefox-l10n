@@ -8,6 +8,10 @@
 
 <!-- Render Debugging -->
 <!ENTITY debugRendering.label             "Отрисовка">
+<!ENTITY debugXULBox.label                "Отладка XUL-боксов">
+<!ENTITY debugXULBox.accesskey            "X">
+<!ENTITY debugDisableXULCache.label       "Отключить кэш XUL">
+<!ENTITY debugDisableXULCache.accesskey   "L">
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "События">
