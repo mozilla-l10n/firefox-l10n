@@ -334,7 +334,7 @@
 <!ENTITY addressesSidebarTitle.label "Contatos">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "Personalizar endereço do remetente...">
+<!ENTITY customizeFromAddress.label "Personalizar endereço do remetente…">
 <!ENTITY customizeFromAddress.accesskey "a">
 
 <!-- Accessibility name for the document -->
