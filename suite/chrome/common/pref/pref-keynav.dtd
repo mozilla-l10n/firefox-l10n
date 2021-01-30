@@ -20,3 +20,8 @@
 <!ENTITY browseWithCaretWarn.accesskey "ж">
 
 <!ENTITY modifiers.label "Модификаторы">
+<!ENTITY acceleratorKey.label "Клавиша Accelerator:">
+<!ENTITY acceleratorKey.accesskey "A">
+<!ENTITY menuAccessKey.label "Клавиша доступа к меню:">
+<!ENTITY menuAccessKey.accesskey "м">
+<!ENTITY modifiersDesc.label "Примечание. Нулевое значение отключает клавишу модификатора.">
