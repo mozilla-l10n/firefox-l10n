@@ -23,6 +23,8 @@ appmenuitem-extensions-and-themes =
     .label = Расширения и темы
 appmenuitem-find-in-page =
     .label = Найти на странице…
+appmenuitem-more-tools =
+    .label = Другие инструменты
 appmenuitem-exit =
     .label = Выход
 # Settings is now used to access the browser settings across all platforms,
