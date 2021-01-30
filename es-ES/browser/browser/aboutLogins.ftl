@@ -305,10 +305,13 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Hecho
 about-logins-import-dialog-error-title = Error de importación
+about-logins-import-dialog-error-conflicting-values-title = Múltiples valores en conflicto para un inicio de sesión
 about-logins-import-dialog-error-conflicting-values-description = Por ejemplo: múltiples nombres de usuario, contraseñas, URLs, etc. para un solo inicio de sesión.
 about-logins-import-dialog-error-file-format-title = Problema de formato de archivo
 about-logins-import-dialog-error-file-permission-title = No se puede leer el archivo
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } no tiene permiso para leer el archivo. Intente cambiar los permisos del archivo.
 about-logins-import-dialog-error-unable-to-read-title = No se puede analizar el archivo
+about-logins-import-dialog-error-unable-to-read-description = Asegúrese de haber seleccionado un archivo CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = No se importaron inicios de sesión
 about-logins-import-dialog-error-learn-more = Saber más
 about-logins-import-dialog-error-try-again = Volver a intentarlo…
