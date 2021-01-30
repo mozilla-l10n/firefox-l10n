@@ -270,7 +270,7 @@ download-choose-folder =
            *[other] i
         }
 download-always-ask-where =
-    .label = Uvijek pitaj gdje želim spremiti datoteke
+    .label = Uvijek pitaj gdje spremiti datoteke
     .accesskey = a
 applications-header = Aplikacije
 applications-description = Odaberi kako će { -brand-short-name } upravljati datotekama koje preuzmeš s interneta ili aplikacijama koje koristiš prilikom pregledavanja.
