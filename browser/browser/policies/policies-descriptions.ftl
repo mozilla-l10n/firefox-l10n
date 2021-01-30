@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Palaa vanhaan SameSite
 ##
 
 policy-LocalFileLinks = Salli tiettyjen sivustojen linkittää paikallisiin tiedostoihin.
-policy-MasterPassword = Vaadi tai estä pääsalasanan käyttö.
 policy-ManagedBookmarks = Määrittää listan järjestelmänvalvojan hallinnoimista kirjanmerkeistä, joita käyttäjä ei voi muuttaa.
+policy-MasterPassword = Vaadi tai estä pääsalasanan käyttö.
+policy-ManualAppUpdateOnly = Salli vain manuaaliset päivitykset, älä ilmoita käyttäjälle päivityksistä.
 policy-PrimaryPassword = Vaadi tai estä pääsalasanan käyttö.
 policy-NetworkPrediction = Ota käyttöön tai poista käytöstä verkkoennakointi (DNS-esihaku).
 policy-NewTabPage = Ota käyttöön tai poista käytöstä Uusi välilehti -sivu
