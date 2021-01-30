@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from pref-eventdebugging.xul -->
+
+<!ENTITY pref.debugging.title "Depuración">
+
+<!-- Render Debugging -->
+<!ENTITY debugRendering.label             "Renderizado">
+<!ENTITY debugXULBox.label                "Depurar las cajas XUL">
+<!ENTITY debugXULBox.accesskey            "X">
+<!ENTITY debugDisableXULCache.label       "Deshabilitar la caché XUL">
+<!ENTITY debugDisableXULCache.accesskey   "L">
+
+<!-- Event Debugging -->
+<!ENTITY debugEvents.label "Eventos">
+<!ENTITY debugPaintFlashing.label "Pintado intermitente (permuta el bloqueo de mayúsculas)">
+
+<!-- Reflow Event Debugging -->

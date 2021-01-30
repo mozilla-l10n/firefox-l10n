@@ -3,20 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Avanzadas">
+<!ENTITY pref.advanced.title              "Avanzadas">
 
-<!ENTITY systemPref.caption         "Preferencias del sistema">
-<!ENTITY systemPrefCheck.label      "Usar las preferencias del sistema">
-<!ENTITY systemPrefCheck.accesskey  "U">
-<!ENTITY systemPref.desc            "Con esta opción, &brandShortName; hereda las preferencias del sistema. Las preferencias del sistema se usarán en lugar de las preferencias de &brandShortName;.">
+<!ENTITY systemPref.caption               "Preferencias del sistema">
+<!ENTITY systemPrefCheck.label            "Usar las preferencias del sistema">
+<!ENTITY systemPrefCheck.accesskey        "U">
+<!ENTITY systemPref.desc                  "Con esta opción, &brandShortName; hereda las preferencias del sistema. Las preferencias del sistema se usarán en lugar de las preferencias de &brandShortName;.">
 
-<!ENTITY prefCheckDefault.caption   "Integración con el sistema">
-<!ENTITY prefCheckDefaultClient.label "Verificar las opciones predeterminadas de la aplicación al iniciar">
+<!ENTITY prefCheckDefault.caption         "Integración con el sistema">
+<!ENTITY prefCheckDefaultClient.label     "Verificar las opciones predeterminadas de la aplicación al iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "c">
 
-<!ENTITY crashReports.caption       "Informe de fallos">
-<!ENTITY submitCrashes.label        "Enviar informe de fallos">
-<!ENTITY submitCrashes.accesskey    "s">
+<!ENTITY printing.label                   "Imprimiendo">
+<!ENTITY useNativePrintDialog.label       "Usar el cuadro de diálogo de impresión nativo (donde sea compatible)">
+<!ENTITY useNativePrintDialog.accesskey   "U">
+<!ENTITY useGlobalPrintSettings.label     "Usar configuración de impresión global">
+<!ENTITY useGlobalPrintSettings.accesskey "G">
+
+<!ENTITY crashReports.caption             "Informe de fallos">
+<!ENTITY submitCrashes.label              "Enviar informe de fallos">
+<!ENTITY submitCrashes.accesskey          "s">
 
 <!ENTITY devTools.caption                 "Herramientas para desarrollador">
 <!ENTITY allowDebugger.label              "Permitir que un depurador se conecte a &brandShortName;">
@@ -27,4 +33,3 @@
 <!ENTITY connectionPrompt.accesskey       "P">
 <!ENTITY remoteDebuggerPort.label         "Número de puerto para la conexión:">
 <!ENTITY remoteDebuggerPort.accesskey     "N">
-
