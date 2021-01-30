@@ -13,3 +13,24 @@ folder-pane-header-label = Carpetas
 
 ## Folder Toolbar Header Popup
 
+folder-toolbar-hide-toolbar-toolbarbutton =
+    .label = Ocultar la barra de herramientas
+    .accesskey = H
+show-all-folders-label =
+    .label = Todas las carpetas
+    .accesskey = A
+show-unread-folders-label =
+    .label = Carpetas no leídas
+    .accesskey = n
+show-favorite-folders-label =
+    .label = Carpetas favoritas
+    .accesskey = F
+show-smart-folders-label =
+    .label = Carpetas unificadas
+    .accesskey = U
+show-recent-folders-label =
+    .label = Carpetas recientes
+    .accesskey = R
+folder-toolbar-toggle-folder-compact-view =
+    .label = Vista compacta
+    .accesskey = C
