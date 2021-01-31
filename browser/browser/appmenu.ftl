@@ -17,6 +17,16 @@ appmenuitem-new-window =
     .label = नया विंडो
 appmenuitem-new-private-window =
     .label = नयी निजी विंडो
+appmenuitem-passwords =
+    .label = पासवर्ड
+appmenuitem-extensions-and-themes =
+    .label = एक्सटेंशन और थीम
+appmenuitem-exit =
+    .label = बाहर निकलें
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = सेटिंग
 
 ## Zoom and Fullscreen Controls
 
@@ -52,6 +62,9 @@ profiler-popup-title =
 profiler-popup-learn-more = अधिक जानें
 profiler-popup-settings =
     .value = सेटिंग
+profiler-popup-recording-screen = रिकॉर्डिंग…
+profiler-popup-start-recording-button =
+    .label = रिकॉर्डिंग शुरू करें
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1

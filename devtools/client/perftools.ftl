@@ -20,6 +20,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 ##
 
+perftools-devtools-settings-label = सेटिंग
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
@@ -29,9 +30,14 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 ##
 
+perftools-button-start-recording = रिकॉर्डिंग शुरू करें
+perftools-button-cancel-recording = रिकॉर्डिंग रद्द करें
+perftools-button-save-settings = सेटिंग सहेजें और वापस जाएं
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend थ्रेड
 
 ##
 

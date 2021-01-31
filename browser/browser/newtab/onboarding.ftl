@@ -154,6 +154,7 @@ onboarding-multistage-welcome-secondary-button-label = साइन इन
 onboarding-multistage-welcome-secondary-button-text = खाता पहले से है?
 onboarding-multistage-import-primary-button-label = आयात शुरू करें
 onboarding-multistage-import-secondary-button-label = अभी नहीं
+onboarding-multistage-theme-primary-button-label = थीम सहेजें
 onboarding-multistage-theme-secondary-button-label = अभी नहीं
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = स्वचालित
