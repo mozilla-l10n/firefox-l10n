@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Već imaš račun?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Prijavi se
 onboarding-start-browsing-button-label = Započni pregledavanje
-onboarding-not-now-button-label = Ne sada
 onboarding-cards-dismiss =
     .title = Odbaci
     .aria-label = Odbaci
@@ -86,6 +85,67 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Dobij obavijest kad se tvoji podaci nalaze u poznatom curenju podataka.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Upravljaj lozinkama koje su zaštićene i prenosive.
+
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Zaštita od praćenja
+onboarding-tracking-protection-text2 = { -brand-short-name } sprečava web stranice da te prate po internetu, što reklamama otežava praćenje.
+onboarding-tracking-protection-button2 = Kako ovo funkcionira
+onboarding-data-sync-title = Ponesi svoje postavke sa sobom
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sinkroniziraj svoje zabilješke, lozinke i ostalo gdjegod koristiš { -brand-product-name }.
+onboarding-data-sync-button2 = Prijavi se u { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Pazi na curenje podataka
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } nadzire, pojavljuje li se tvoja e-adresa u poznatim podacima koji su procurili na internetu i obavještava te ukoliko je otkrije.
+onboarding-firefox-monitor-button = Prijavi se za upozorenja
+onboarding-browse-privately-title = Pregledaj privatno
+onboarding-browse-privately-text = Privatno pregledavanje briše povijest pretraživanja i pregledavanja kako bi ostalo skriveno od ostalih koje koriste isto računalo.
+onboarding-browse-privately-button = Otvori privatni prozor
+onboarding-firefox-send-title = Drži svoje dijeljene datoteke privatnima
+onboarding-firefox-send-text2 = Prenesi svoje datoteke na { -send-brand-name } kako bi se dijelile pomoću obostranog šifriranja i poveznicom koja se automatski poništava.
+onboarding-firefox-send-button = Isprobaj { -send-brand-name }
+onboarding-mobile-phone-title = Preuzmi { -brand-product-name } za svoj mobitel
+onboarding-mobile-phone-text = Preuzmi { -brand-product-name } za iOS ili Android i sinkroniziraj podatke na svim uređajima.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Preuzmi preglednika za mobitele
+onboarding-send-tabs-title = Trenutno šalji kartice sebi
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Jednostavno dijeli stranice između tvojih uređaja bez da moraš kopirati poveznice ili napustiti preglednik.
+onboarding-send-tabs-button = Počni korisitit „Pošalji kartice”
+onboarding-pocket-anywhere-title = Čitaj i slušaj bilo gdje
+onboarding-pocket-anywhere-text2 = Spremi svoj omiljeni sadržaj lokalno s { -pocket-brand-name } aplikacijom i čitaj, slušaj i gledaj kad god želiš.
+onboarding-pocket-anywhere-button = Probaj { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Stvori i spremi jake lozinke
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } stvara snažne lozinke na licu mjesta i sprema ih sve na jedno mjesto.
+onboarding-lockwise-strong-passwords-button = Upravljaj prijavama
+onboarding-facebook-container-title = Postavi granice s Facebookom
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } drži tvoj profil odvojeno od svega drugoga, otežavajući Facebooku da ti ciljano prikazuje reklame.
+onboarding-facebook-container-button = Instaliraj dodatak
+onboarding-import-browser-settings-title = Uvezi svoje zabilješke, lozinke i još mnogo toga
+onboarding-import-browser-settings-text = Uronite — jednostavno prenesite svoje Chrome stranice i postavke.
+onboarding-import-browser-settings-button = Uvoz podataka iz Chromea
+onboarding-personal-data-promise-title = Privatno po dizajnu
+onboarding-personal-data-promise-text = { -brand-product-name } poštuje tvoje podatke – traži samo najosnovnije podatke, štiti ih i jasno objašnjava na koji način ih koristi.
+onboarding-personal-data-promise-button = Pročitajte naše obećanje
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Super, koristite { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Dohvatite <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Dodaj dodatak
+return-to-amo-get-started-button = Krenite koristiti { -brand-short-name }
+onboarding-not-now-button-label = Ne sada
 
 ## Custom Return To AMO onboarding strings
 
@@ -179,63 +239,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Koristi šareni izgled tipki,
         izbornika i prozora.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Zaštita od praćenja
-onboarding-tracking-protection-text2 = { -brand-short-name } sprečava web stranice da te prate po internetu, što reklamama otežava praćenje.
-onboarding-tracking-protection-button2 = Kako ovo funkcionira
-onboarding-data-sync-title = Ponesi svoje postavke sa sobom
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Sinkroniziraj svoje zabilješke, lozinke i ostalo gdjegod koristiš { -brand-product-name }.
-onboarding-data-sync-button2 = Prijavi se u { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Pazi na curenje podataka
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } nadzire, pojavljuje li se tvoja e-adresa u poznatim podacima koji su procurili na internetu i obavještava te ukoliko je otkrije.
-onboarding-firefox-monitor-button = Prijavi se za upozorenja
-onboarding-browse-privately-title = Pregledaj privatno
-onboarding-browse-privately-text = Privatno pregledavanje briše povijest pretraživanja i pregledavanja kako bi ostalo skriveno od ostalih koje koriste isto računalo.
-onboarding-browse-privately-button = Otvori privatni prozor
-onboarding-firefox-send-title = Drži svoje dijeljene datoteke privatnima
-onboarding-firefox-send-text2 = Prenesi svoje datoteke na { -send-brand-name } kako bi se dijelile pomoću obostranog šifriranja i poveznicom koja se automatski poništava.
-onboarding-firefox-send-button = Isprobaj { -send-brand-name }
-onboarding-mobile-phone-title = Preuzmi { -brand-product-name } za svoj mobitel
-onboarding-mobile-phone-text = Preuzmi { -brand-product-name } za iOS ili Android i sinkroniziraj podatke na svim uređajima.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Preuzmi preglednika za mobitele
-onboarding-send-tabs-title = Trenutno pošalji kartice sebi
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Jednostavno dijeli stranice između tvojih uređaja bez da moraš kopirati poveznice ili napustiti preglednik.
-onboarding-send-tabs-button = Počni korisitit „Pošalji kartice”
-onboarding-pocket-anywhere-title = Čitaj i slušaj bilo gdje
-onboarding-pocket-anywhere-text2 = Spremi svoj omiljeni sadržaj lokalno s { -pocket-brand-name } aplikacijom i čitaj, slušaj i gledaj kad god želiš.
-onboarding-pocket-anywhere-button = Probaj { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Stvori i spremi jake lozinke
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } stvara snažne lozinke na licu mjesta i sprema ih sve na jedno mjesto.
-onboarding-lockwise-strong-passwords-button = Upravljaj prijavama
-onboarding-facebook-container-title = Postavi granice s Facebookom
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } drži tvoj profil odvojeno od svega drugoga, otežavajući Facebooku da ti ciljano prikazuje reklame.
-onboarding-facebook-container-button = Instaliraj dodatak
-onboarding-import-browser-settings-title = Uvezi svoje zabilješke, lozinke i još mnogo toga
-onboarding-import-browser-settings-text = Uronite — jednostavno prenesite svoje Chrome stranice i postavke.
-onboarding-import-browser-settings-button = Uvoz podataka iz Chromea
-onboarding-personal-data-promise-title = Privatno po dizajnu
-onboarding-personal-data-promise-text = { -brand-product-name } poštuje tvoje podatke – traži samo najosnovnije podatke, štiti ih i jasno objašnjava na koji način ih koristi.
-onboarding-personal-data-promise-button = Pročitajte naše obećanje
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Super, koristite { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Dohvatite <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Dodaj dodatak
-return-to-amo-get-started-button = Krenite koristiti { -brand-short-name }

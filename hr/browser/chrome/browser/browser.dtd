@@ -63,7 +63,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.sendTab.description "Trenutno pošalji karticu na bilo koji uređaj na kojem si prijavljen/a.">
+<!ENTITY fxa.service.sendTab.description "Trenutno šalji karticu na bilo koji uređaj na kojem si prijavljen/a.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
