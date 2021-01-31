@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = नए निजी विंडो में खोलें
     .accesskey = P
-
 places-new-bookmark =
     .label = नया पुस्तकचिह्न…
     .accesskey = B
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = नया पृथक्ककारक
     .accesskey = S
-
 places-view =
     .label = दृश्य
     .accesskey = w
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = दिनांक और साइट
     .accesskey = t
-
 places-history-search =
     .placeholder = खोज इतिहास
 places-bookmarks-search =
     .placeholder = बुकमार्क खोजें
-
 places-delete-domain-data =
     .label = इस साइट को भूल ही जाएँ
     .accesskey = F
@@ -64,3 +60,6 @@ places-sortby-name =
 places-properties =
     .label = गुण
     .accesskey = i
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = अन्य बुकमार्क
