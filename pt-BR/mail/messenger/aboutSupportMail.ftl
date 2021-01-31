@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-accounts-title = Contas de e-mail e notícias
+accounts-title = Contas de email e notícias
 show-private-data-main-text = Incluir nomes de contas
 show-private-data-explanation-text = (informação com possibilidade de identificação)
 accounts-ID = ID
@@ -14,7 +14,5 @@ accounts-conn-security = Segurança de conexão
 accounts-auth-method = Método de autenticação
 accounts-default = Padrão?
 identity-name = Identidade
-
-send-via-email = Enviar por e-mail
-
+send-via-email = Enviar por email
 app-basics-telemetry = Dados de telemetria
