@@ -48,6 +48,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>d
 inactive-css-not-display-block-on-floated-fix = <strong>float</strong>'u silmeyi veya <strong>display:block</strong> eklemeyi deneyin. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> özelliğini <strong>static</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> eklemeyi deneyin. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> özelliğini <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>display</strong> özelliğini <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = <strong>outline-style</strong> özelliğini <strong>auto</strong> veya <strong>none</strong> dışında bir şey yapmayı deneyin. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
