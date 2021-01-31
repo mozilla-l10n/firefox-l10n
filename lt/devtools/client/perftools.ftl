@@ -91,6 +91,15 @@ pref-thread-stream-trans =
     .title = Tinklo srauto transportas
 perftools-thread-socket-thread =
     .title = Gija, kurioje tinklo kodas vykdo bet kokius blokuojančius jungčių kreipinius
+perftools-thread-img-decoder =
+    .title = Vaizdų iškodavimo gijos
+perftools-thread-dns-resolver =
+    .title = Šioje gijoje vykdomos DNS užklausos
+perftools-thread-js-helper =
+    .title = JS variklio foninis darbas, toks kaip kompiliavimas už pagrindinės gijos ribų
 
 ##
 
+perftools-record-all-registered-threads = Apeiti pasirinkimus iš aukščiau, ir įrašinėti visas registruotas gijas
+perftools-tools-threads-input-label =
+    .title = Šie gijų pavadinimai yra kableliais atskirtas sąrašas, naudojamas įjungti gijų profiliavimą. Užtenka, kad pavadinimas tik dalinai atitiktų gijos pavadinimą. Svarbu tuščios vietos simboliai.
