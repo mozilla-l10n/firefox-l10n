@@ -428,6 +428,9 @@ pointerlock-warning-no-domain = इस दस्तेवाज को आपक
 crashed-subframe-learnmore =
     .label = अधिक जानें
     .accesskey = L
+crashed-subframe-submit =
+    .label = रिपोर्ट जमा करें
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
