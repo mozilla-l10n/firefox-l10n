@@ -15,6 +15,7 @@ about-telemetry-option-group-older = Starije
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrija
+about-telemetry-current-store = Trenutačna trgovina:
 about-telemetry-more-information = Tražiš više informacija?
 about-telemetry-show-in-Firefox-json-viewer = Otvori u JSON pregledniku
 about-telemetry-home-section = Početna stranica
@@ -69,6 +70,7 @@ about-telemetry-page-subtitle = Ova stranica prikazuje informacije o perfomansi,
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Svaki dio informacije je poslan u paketu s “<a data-l10n-name="ping-link">pingovi</a>”. Gledate na { $name }, { $timestamp } ping.
+about-telemetry-data-details-current = Svaki dio podataka šalje se u paketu „<a data-l10n-name="ping-link">pingova</a>”. Gledaš trenutačne podatke.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -92,7 +94,7 @@ about-telemetry-no-search-results-all = Nema rezultata u bilo kojem odjeljku za 
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.
-about-telemetry-no-data-to-display = “{ $sectionName }” trenutno nema dostupnih podataka
+about-telemetry-no-data-to-display = Žao nam je! Trenutačno nema podataka u „{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = trenutačni podaci
 # used in the “Ping Type” select
