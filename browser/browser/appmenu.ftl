@@ -58,6 +58,7 @@ profiler-popup-settings =
     .value = Postavke
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Uredi postavke …
+profiler-popup-disabled = Profiler je trenutačno deaktiviran, najvjerojatnije zbog otvorenog prozora privatnog pregledavanja.
 profiler-popup-recording-screen = Snimanje…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
