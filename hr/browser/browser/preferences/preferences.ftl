@@ -809,7 +809,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Prije poznato kao glavna lozinka
-forms-primary-pw-fips-title = Trenutno si u načinu rada FIPS. FIPS ne dopušta praznu primarnu lozinku.
+forms-primary-pw-fips-title = Trenutačno se nalaziš u modusu FIPS. FIPS ne dopušta praznu primarnu lozinku.
 forms-master-pw-fips-desc = Promjena lozinke nije uspjela
 
 ## OS Authentication dialog
