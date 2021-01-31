@@ -21,6 +21,7 @@
 <!ENTITY allowHideStatusBar.label        "Ocultar la barra de estado">
 
 <!ENTITY debugging.label                  "Depurador de JavaScript">
+<!ENTITY debugEnableDump.label            "Habilitar salida de dump() de JavaScript">
 <!ENTITY debugEnableDump.accesskey        "E">
 <!ENTITY debugStrictJavascript.label      "Mostrar advertencias estrictas de JavaScript">
 <!ENTITY debugStrictJavascript.accesskey  "J">

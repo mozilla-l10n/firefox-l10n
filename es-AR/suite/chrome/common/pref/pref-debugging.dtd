@@ -19,13 +19,17 @@
 <!ENTITY debugPaintFlashing.accesskey "P">
 <!ENTITY debugPaintFlashingChrome.accesskey "F">
 <!ENTITY debugPaintDumping.accesskey "a">
+<!ENTITY debugInvalidateDumping.label "Invalidar volcado">
 <!ENTITY debugInvalidateDumping.accesskey "n">
+<!ENTITY debugEventDumping.label "Volcado de eventos">
 <!ENTITY debugEventDumping.accesskey "E">
 <!ENTITY debugMotionEventDumping.accesskey "M">
 <!ENTITY debugCrossingEventDumping.accesskey "C">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "Reenviar eventos">
 <!ENTITY debugReflowShowFrameCounts.label        "Mostrar recuentos de marcos">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "S">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Volcado de recuentos cuadro a cuadro">
 <!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
