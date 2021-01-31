@@ -4,23 +4,17 @@
 
 attachment-reminder-window =
     .title = Palavras-chave do lembrete de anexos
-
-attachment-reminder-label = O { -brand-short-name } alertará sobre ausência de anexos quando você enviar um e-mail contendo uma dessas palavras-chave.
-
+attachment-reminder-label = O { -brand-short-name } lhe avisa sobre a falta de anexos quando você for enviar um email contendo uma dessas palavras-chave.
 keyword-new-button =
     .label = Novo…
     .accesskey = N
-
 keyword-edit-button =
     .label = Editar…
     .accesskey = E
-
 keyword-remove-button =
     .label = Excluir
     .accesskey = x
-
 new-keyword-title = Nova palavra-chave
 new-keyword-label = Palavra-chave:
-
 edit-keyword-title = Editar palavra-chave
 edit-keyword-label = Palavra-chave:
