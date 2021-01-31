@@ -198,8 +198,8 @@ smooth-scrolling-label =
     .accesskey = R
 system-integration-legend = Integração com o sistema
 always-check-default =
-    .label = Ao iniciar, verificar se o { -brand-short-name } é o aplicativo de e-mail padrão
-    .accesskey = o
+    .label = Sempre verificar se o { -brand-short-name } é o aplicativo padrão de email ao iniciar
+    .accesskey = S
 check-default-button =
     .label = Verificar agora…
     .accesskey = V
@@ -461,7 +461,7 @@ edit-directories-label =
     .label = Editar diretórios…
     .accesskey = E
 email-picker-label =
-    .label = Ao enviar e-mails, criar contatos dos destinatários em:
+    .label = Adicionar automaticamente endereços de email de destinatários ao meu:
     .accesskey = A
 default-directory-label =
     .value = Lista padrão ao abrir a janela do catálogo de endereços:
@@ -491,7 +491,7 @@ cloud-account-description = Adicionar um serviço de armazenamento de anexos onl
 
 ## Privacy Tab
 
-mail-content = Conteúdo do e-mail
+mail-content = Conteúdo do email
 remote-content-label =
     .label = Permitir conteúdo remoto nas mensagens
     .accesskey = m
