@@ -81,7 +81,7 @@ openpgp-key-man-export-to-file =
     .label = Exportar chave(s) pública(s) para arquivo
     .accesskey = E
 openpgp-key-man-send-keys =
-    .label = Enviar chave(s) pública(s) por e-mail
+    .label = Enviar chave(s) pública(s) por email
     .accesskey = m
 openpgp-key-man-backup-secret-keys =
     .label = Fazer backup de chave(s) secreta(s) em arquivo
@@ -89,7 +89,7 @@ openpgp-key-man-backup-secret-keys =
 openpgp-key-man-discover-cmd =
     .label = Descobrir chaves online
     .accesskey = D
-openpgp-key-man-discover-prompt = Para descobrir chaves OpenPGP online, em servidores de chaves ou usando o protocolo WKD, informe um endereço de e-mail ou um ID de chave.
+openpgp-key-man-discover-prompt = Para descobrir chaves OpenPGP online, em servidores de chaves ou usando o protocolo WKD, digite um endereço de email ou um ID de chave.
 openpgp-key-man-discover-progress = Procurando…
 openpgp-key-copy-key =
     .label = Copiar chave pública
@@ -101,7 +101,7 @@ openpgp-key-backup-key =
     .label = Fazer backup de chave secreta em arquivo
     .accesskey = b
 openpgp-key-send-key =
-    .label = Enviar chave pública por e-mail
+    .label = Enviar chave pública por email
     .accesskey = m
 openpgp-key-man-copy-to-clipbrd =
     .label = Copiar chave(s) pública(s) para área de transferência
@@ -331,7 +331,7 @@ key-expired-date = A chave expirou em { $keyExpiry }
 key-expired-simple = A chave expirou
 key-revoked-simple = A chave foi revogada
 key-do-you-accept = Você aceita esta chave para verificar assinaturas digitais e para criptografar mensagens?
-key-accept-warning = Evite aceitar chaves de trapaceiros. Use um canal de comunicação diferente de e-mail para verificar a impressão digital da chave de seu correspondente.
+key-accept-warning = Evite aceitar chaves de trapaceiros. Use um canal de comunicação diferente de email para verificar a impressão digital da chave de seu correspondente.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Não foi possível enviar a mensagem, porque há um problema com sua chave pessoal. { $problem }
 cannot-encrypt-because-missing = Não foi possível enviar esta mensagem com criptografia de ponta a ponta, porque há problemas com as chaves dos seguintes destinatários: { $problem }
@@ -350,10 +350,10 @@ keyserver-error-certificate-error = O certificado do servidor de chaves não é 
 keyserver-error-unsupported = O servidor de chaves não é suportado.
 # Strings in mimeWkdHandler.jsm
 wkd-message-body-req =
-    Seu provedor de e-mail processou sua solicitação de enviar sua chave pública para o OpenPGP Web Key Directory.
+    Seu provedor de email processou sua solicitação de enviar sua chave pública para o OpenPGP Web Key Directory.
     Confirme para concluir a publicação de sua chave pública.
 wkd-message-body-process =
-    Este é um e-mail relacionado ao processamento automático de envio de sua chave pública para o OpenPGP Web Key Directory.
+    Este é um email relacionado ao processamento automático de envio de sua chave pública para o OpenPGP Web Key Directory.
     Você não precisa fazer nenhuma ação manual neste momento.
 # Strings in persistentCrypto.jsm
 converter-decrypt-body-failed =
@@ -389,7 +389,7 @@ filter-key-required = Você deve selecionar uma chave de destinatário.
 filter-key-not-found = Não foi possível encontrar uma chave de criptografia para '{ $desc }'.
 filter-warn-key-not-secret =
     Aviso - A ação do filtro "Criptografar com chave" substitui os destinatários.
-    Se você não tiver a chave secreta de '{ $desc }', não poderá mais ler os e-mails.
+    Se você não tiver a chave secreta de '{ $desc }', não poderá mais ler os emails.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Descriptografar permanentemente (OpenPGP)
 filter-decrypt-copy-label = Criar cópia descriptografada (OpenPGP)
@@ -482,9 +482,9 @@ key-man-button-revoke-key = &Revogar chave
 openpgp-key-revoke-success = Chave revogada com sucesso.
 after-revoke-info =
     A chave foi revogada.
-    Compartilhe esta chave pública novamente, enviando por e-mail ou enviando para servidores de chaves, para que outras pessoas saibam que você revogou sua chave.
+    Compartilhe esta chave pública novamente, enviando por email ou enviando para servidores de chaves, para que outras pessoas saibam que você revogou sua chave.
     Assim que os softwares usados por outras pessoas tomarem conhecimento da revogação, deixarão de usar sua chave antiga.
-    Se você estiver usando uma nova chave para o mesmo endereço de e-mail e anexar a nova chave pública aos e-mails que enviar, as informações sobre sua chave antiga revogada serão incluídas automaticamente.
+    Se você estiver usando uma nova chave para o mesmo endereço de email e anexar a nova chave pública aos emails que enviar, as informações sobre sua chave antiga revogada serão incluídas automaticamente.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importar
 delete-key-title = Excluir chave OpenPGP
@@ -494,7 +494,7 @@ key-in-use-title = Chave OpenPGP em uso no momento
 delete-key-in-use-description = Não foi possível prosseguir! A chave que você selecionou para ser excluída está sendo usada no momento por esta identidade. Selecione outra chave ou não selecione nenhuma e tente novamente.
 revoke-key-in-use-description = Não foi possível prosseguir! A chave que você selecionou para ser revogada está sendo usada no momento por esta identidade. Selecione outra chave ou não selecione nenhuma e tente novamente.
 # Strings used in errorHandling.jsm
-key-error-key-spec-not-found = O endereço de e-mail '{ $keySpec }' não corresponde a nenhuma chave de seu chaveiro.
+key-error-key-spec-not-found = O endereço de email '{ $keySpec }' não corresponde a nenhuma chave de seu chaveiro.
 key-error-key-id-not-found = O ID de chave '{ $keySpec }' configurado não foi encontrado em seu chaveiro.
 key-error-not-accepted-as-personal = Você não confirmou se a chave com ID '{ $keySpec }' é sua chave pessoal.
 # Strings used in enigmailKeyManager.js & windows.jsm
@@ -571,7 +571,7 @@ msg-compose-partially-encrypted-inlinePGP =
     A mensagem que você está respondendo continha tanto partes criptografadas como não criptografadas. Se o remetente não conseguiu descriptografar algumas partes da mensagem originalmente, você pode estar vazando informações confidenciais que o remetente não conseguiu descriptografar originalmente.
     Considere remover todo o texto citado de sua resposta a este remetente.
 msg-compose-cannot-save-draft = Erro ao salvar rascunho
-msg-compose-partially-encrypted-short = Cuidado com o vazamento de informações sensíveis - e-mail parcialmente criptografado.
+msg-compose-partially-encrypted-short = Cuidado com o vazamento de informações sensíveis. Email parcialmente criptografado.
 quoted-printable-warn =
     Você ativou a codificação 'quoted-printable' para enviar mensagens. Isso pode resultar na descriptografia e/ou verificação incorreta de sua mensagem.
     Quer desativar agora o envio de mensagens 'quoted-printable'?

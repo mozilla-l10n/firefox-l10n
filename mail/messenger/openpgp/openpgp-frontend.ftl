@@ -27,7 +27,7 @@ openpgp-missing-signature-key = Esta mensagem foi assinada com uma chave que voc
 openpgp-search-signature-key =
     .label = Descobrir…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
-openpgp-broken-exchange-opened = Esta é uma mensagem OpenPGP que foi aparentemente corrompida pelo MS-Exchange e não pode ser reparada porque foi aberta a partir de um arquivo local. Copie a mensagem para uma pasta de e-mail para tentar um reparo automático.
+openpgp-broken-exchange-opened = Esta é uma mensagem OpenPGP que foi aparentemente corrompida pelo MS-Exchange e não pode ser reparada porque foi aberta a partir de um arquivo local. Copie a mensagem para uma pasta de email para tentar um reparo automático.
 openpgp-broken-exchange-info = Esta é uma mensagem OpenPGP que aparentemente foi corrompida pelo MS-Exchange. Se o conteúdo da mensagem não for exibido conforme o esperado, você pode tentar um reparo automático.
 openpgp-broken-exchange-repair =
     .label = Reparar mensagem
