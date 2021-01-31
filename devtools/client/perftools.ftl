@@ -75,6 +75,22 @@ perftools-button-edit-settings = Keisti nuostatas…
 
 perftools-thread-gecko-main =
     .title = Pagrindiniai procesai tiek tėviniam procesui, tiek turinio procesams
+perftools-thread-compositor =
+    .title = Kartu sujungia skirtingus tinklalapyje nupieštus elementus
+perftools-thread-dom-worker =
+    .title = Taikoma tiek saityno scenarijams, tiek aptarnavimo scenarijams
+perftools-thread-renderer =
+    .title = Kai „WebRender“ yra įjungtas, tai gija, vykdanti „OpenGL“ kreipinius
+perftools-thread-render-backend =
+    .title = „WebRender“ priklausanti „RenderBackend“ gija
+perftools-thread-paint-worker =
+    .title = Kai yra įjungtas piešimas už pagrindinės gijos ribų, tai gija, kurioje vyksta piešimas
+perftools-thread-style-thread =
+    .title = Stilių apskaičiavimas yra padalintas į keletą gijų
+pref-thread-stream-trans =
+    .title = Tinklo srauto transportas
+perftools-thread-socket-thread =
+    .title = Gija, kurioje tinklo kodas vykdo bet kokius blokuojančius jungčių kreipinius
 
 ##
 
