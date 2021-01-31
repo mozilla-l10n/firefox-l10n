@@ -583,7 +583,7 @@ sending-news =
     A operação de envio criptografado foi interrompida.
     Esta mensagem não pode ser criptografada porque há destinatários de grupos de notícias. Reenvie a mensagem sem criptografia.
 send-to-news-warning =
-    Aviso: Você está prestes a enviar um e-mail criptografado para um grupo de notícias.
+    Aviso: Você está prestes a enviar um email criptografado para um grupo de notícias.
     Isso é desencorajado porque só faz sentido se todos os membros do grupo puderem descriptografar a mensagem, ou seja, a mensagem precisa ser criptografada com as chaves de todos os participantes do grupo. Só envie esta mensagem se souber exatamente o que está fazendo.
     Continuar?
 save-attachment-header = Salvar anexo descriptografado
@@ -602,13 +602,13 @@ cant-import = Erro ao importar chave pública
 unverified-reply = Parte deslocada da mensagem (resposta) provavelmente foi modificada
 key-in-message-body = Uma chave foi encontrada no corpo da mensagem. Clique em 'Importar chave' para importar a chave
 sig-mismatch = Erro - Assinatura não combina
-invalid-email = Erro - Endereço(s) de e-mail inválido(s)
+invalid-email = Erro - Endereço(s) de email inválido(s)
 attachment-pgp-key =
     O anexo '{ $name }' que você está abrindo parece ser um arquivo de chave OpenPGP.
     Clique em 'Importar' para importar as chaves contidas, ou em 'Ver' para ver o conteúdo do arquivo em uma janela do navegador
 dlg-button-view = &Ver
 # Strings used in enigmailMsgHdrViewOverlay.js
-decrypted-msg-with-format-error = Mensagem descriptografada (restaurado o formato de e-mail PGP corrompido, provavelmente causado por um servidor Exchange antigo, de modo que o resultado pode não ser perfeito para ler)
+decrypted-msg-with-format-error = Mensagem descriptografada (restaurado o formato de email PGP corrompido, provavelmente causado por um servidor Exchange antigo, de modo que o resultado pode não ser perfeito para leitura)
 # Strings used in encryption.jsm
 not-required = Erro - nenhuma criptografia necessária
 # Strings used in windows.jsm
