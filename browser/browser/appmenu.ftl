@@ -23,6 +23,8 @@ appmenuitem-extensions-and-themes =
     .label = Eklentiler ve temalar
 appmenuitem-find-in-page =
     .label = Sayfada bul…
+appmenuitem-more-tools =
+    .label = Daha fazla araç
 appmenuitem-exit =
     .label = Çık
 # Settings is now used to access the browser settings across all platforms,
@@ -65,11 +67,13 @@ profiler-popup-reveal-description-button =
     .aria-label = Daha fazla bilgi göster
 profiler-popup-description-title =
     .value = Kaydet, analiz et, paylaş
-profiler-popup-learn-more = Daha fazla bilgi al
+profiler-popup-description = Ekibinizle paylaşabileceğiniz profiller yayımlayarak performans sorunları üzerinde birlikte çalışın.
+profiler-popup-learn-more = Daha fazla bilgi alın
 profiler-popup-settings =
     .value = Ayarlar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ayarları düzenle…
+profiler-popup-disabled = Profilleyici şu anda devre dışı. Büyük olasılıkla açık bir gizli gezinti penceresi var.
 profiler-popup-recording-screen = Kaydediliyor…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -79,6 +83,8 @@ profiler-popup-start-recording-button =
     .label = Kaydetmeye başla
 profiler-popup-discard-button =
     .label = Sil
+profiler-popup-capture-button =
+    .label = Yakala
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
