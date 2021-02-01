@@ -7,10 +7,13 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Iɣewwaren n umaɣnay
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Iɣewwaren ummiden
 perftools-heading-features = Timahilin
+perftools-heading-features-default = Timahilin (ttuwellhent s wudem amezwer)
 perftools-heading-features-disabled = Timhalin yensan
 perftools-heading-features-experimental = Armitan
 perftools-heading-threads = Asqerdec
@@ -20,14 +23,20 @@ perftools-heading-threads = Asqerdec
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Teɣzi n tkatut n uḥraz:
+perftools-custom-threads-label = Rnu asqerdec udmawan s yisem:
 perftools-devtools-interval-label = Azilal:
+perftools-devtools-threads-label = Asqerdec:
 perftools-devtools-settings-label = Iɣewwaṛen
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = Asekles yettusehbes s ufecku-nniḍen:
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
