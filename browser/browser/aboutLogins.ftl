@@ -262,6 +262,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV dokumentua
        *[other] CSV fitxategia
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV dokumentua
+       *[other] TSV fitxategia
+    }
 
 ##
 ## Variables:
@@ -269,3 +276,15 @@ about-logins-import-file-picker-csv-filter-title =
 
 about-logins-import-dialog-title = Inportazioa burutu da
 about-logins-import-dialog-done = Eginda
+about-logins-import-dialog-error-title = Inportazio-errorea
+about-logins-import-dialog-error-file-format-title = Fitxategi-formatuaren arazoa
+about-logins-import-dialog-error-file-permission-title = Ezin da fitxategia irakurri
+about-logins-import-dialog-error-unable-to-read-title = Ezin da fitxategia analizatu
+about-logins-import-dialog-error-unable-to-read-description = Ziurtatu CSV edo TSV fitxategi bat hautatu duzula.
+about-logins-import-dialog-error-no-logins-imported = Ez da saio-hasierarik inportatu
+about-logins-import-dialog-error-learn-more = Argibide gehiago
+about-logins-import-dialog-error-try-again = Saiatu berriro…
+about-logins-import-dialog-error-cancel = Utzi
+
+## Logins import report page
+

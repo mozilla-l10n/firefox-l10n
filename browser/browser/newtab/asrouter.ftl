@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Eskuratu aplikazioa
 
 cfr-whatsnew-searchbar-title = Idatzi gutxiago eta aurkitu gehiago helbide-barra erabiliz
 cfr-whatsnew-searchbar-body-topsites = Orain, hautatu helbide-barra eta kutxa bat hedatuko da zure zure gune erabilienetarako loturekin.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Luparen ikonoa
 
 ## Picture-in-Picture
@@ -274,3 +277,10 @@ cfr-whatsnew-media-keys-button = Ikasi nola
 
 cfr-whatsnew-search-shortcuts-header = Bilatu lasterbideak helbide-barran
 cfr-whatsnew-search-shortcuts-body = Orain, bilaketa-motor edo gune zehatz bat helbide-barran idaztean, lasterbide urdin bat agertuko da azpiko bilaketa-iradokizunetan. Hautatu lasterbidea bilaketa zuzenean helbide-barratik burutzeko.
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Laster-marka hobeak
