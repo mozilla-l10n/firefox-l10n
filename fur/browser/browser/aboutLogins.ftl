@@ -182,6 +182,22 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] Sì, gjave cheste credenziâl
        *[other] Sì, gjave chestis credenziâls
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Gjavâ { $count } credenziâl?
+       *[other] Gjavâ dutis e { $count } lis credenziâls?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Chest al gjavarà la credenziâl salvade su { -brand-short-name } e ducj i relatîfs avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
+        [one] Chest al gjavarà la credenziâl salvade su { -brand-short-name } e ducj i relatîfs avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
+       *[other] Chest al gjavarà lis credenziâls salvadis su { -brand-short-name } e ducj i relatîfs avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Gjavâ { $count } credenziâl di ducj i dispositîfs?
+       *[other] Gjavâ dutis e { $count } lis credenziâls di ducj i dispositîfs?
+    }
 
 ## Breach Alert notification
 
