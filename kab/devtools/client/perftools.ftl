@@ -57,6 +57,8 @@ perftools-button-edit-settings = Ẓreg iɣewwaren…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-render-backend =
+    .title = Asqerdec n WebRender RenderBackend
 
 ##
 
