@@ -25,6 +25,8 @@
 <!ENTITY debugEnableDump.accesskey        "A">
 <!ENTITY debugStrictJavascript.label      "Mostrar avisos rigorosos de JavaScript">
 <!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "Mostrar erros e avisos de JavaScript do chrome">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Permitir plugins para">
 <!ENTITY enablePluginForSuite.label      "Suite">

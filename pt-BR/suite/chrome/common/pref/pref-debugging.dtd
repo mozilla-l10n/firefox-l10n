@@ -15,5 +15,24 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Eventos">
+<!ENTITY debugPaintFlashing.label "Piscamento ao desenhar (botão Caps Lock alterna)">
+<!ENTITY debugPaintFlashing.accesskey "P">
+<!ENTITY debugPaintDumping.label "Dump de desenho">
+<!ENTITY debugPaintDumping.accesskey "a">
+<!ENTITY debugInvalidateDumping.label "Dump de invalidação">
+<!ENTITY debugInvalidateDumping.accesskey "n">
+<!ENTITY debugEventDumping.label "Dump de eventos">
+<!ENTITY debugEventDumping.accesskey "e">
+<!ENTITY debugMotionEventDumping.label "Dump de eventos de movimento">
+<!ENTITY debugMotionEventDumping.accesskey "m">
+<!ENTITY debugCrossingEventDumping.label "Dump de eventos de cruzamento">
+<!ENTITY debugCrossingEventDumping.accesskey "c">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "Eventos de refluxo">
+<!ENTITY debugReflowShowFrameCounts.label        "Mostrar contagem de frames">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "s">
+<!ENTITY debugReflowDumpFrameCounts.label        "Dump de contagem de frames">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Dump de contagem frame a frame">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
