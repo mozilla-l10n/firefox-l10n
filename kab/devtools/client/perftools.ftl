@@ -12,11 +12,13 @@ perftools-intro-title = Iɣewwaren n umaɣnay
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Iɣewwaren ummiden
+perftools-heading-buffer = Iɣewwaren n tkatut n uḥraz
 perftools-heading-features = Timahilin
 perftools-heading-features-default = Timahilin (ttuwellhent s wudem amezwer)
 perftools-heading-features-disabled = Timhalin yensan
 perftools-heading-features-experimental = Armitan
 perftools-heading-threads = Asqerdec
+perftools-heading-local-build = Lebni adigan
 
 ##
 

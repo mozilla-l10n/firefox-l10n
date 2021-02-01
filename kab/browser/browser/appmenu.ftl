@@ -73,6 +73,9 @@ profiler-popup-settings =
     .value = Iɣewwaren
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Ẓreg iɣewwaren
+profiler-popup-disabled =
+    Amaɣnay akka tura yensa, ahat ssebba n usfaylu n tunigin tusligt
+    yeqqim yeldi.
 profiler-popup-recording-screen = Asekles…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
