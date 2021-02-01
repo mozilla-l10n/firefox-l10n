@@ -17,6 +17,8 @@
 <!ENTITY debugEvents.label "Eventos">
 <!ENTITY debugPaintFlashing.label "Piscamento ao desenhar (botão Caps Lock alterna)">
 <!ENTITY debugPaintFlashing.accesskey "P">
+<!ENTITY debugPaintFlashingChrome.label "Chrome de piscamento ao desenhar">
+<!ENTITY debugPaintFlashingChrome.accesskey "h">
 <!ENTITY debugPaintDumping.label "Dump de desenho">
 <!ENTITY debugPaintDumping.accesskey "a">
 <!ENTITY debugInvalidateDumping.label "Dump de invalidação">
