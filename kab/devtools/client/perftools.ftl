@@ -37,6 +37,7 @@ perftools-devtools-settings-label = Iɣewwaṛen
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
 perftools-status-recording-stopped-by-another-tool = Asekles yettusehbes s ufecku-nniḍen:
+perftools-status-restart-required = Iminig ilaq ad yales tanekra i wakken ad termed tmahilt-a.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -48,6 +49,7 @@ perftools-request-to-get-profile-and-stop-profiler = Tuṭṭfa n umaɣnu
 perftools-button-start-recording = Bdu asekles
 perftools-button-capture-recording = Ṭṭef asekles
 perftools-button-cancel-recording = Sefsex asekles
+perftools-button-save-settings = Sekles iɣewwaren syen uɣal ɣer deffir
 perftools-button-restart = Ales asenker
 perftools-button-add-directory = Rnu akaram
 perftools-button-remove-directory = Kkes tafrant
