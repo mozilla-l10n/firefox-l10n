@@ -317,3 +317,7 @@ about-logins-import-dialog-error-no-logins-imported = Er zijn geen aanmeldingen 
 about-logins-import-dialog-error-learn-more = Meer info
 about-logins-import-dialog-error-try-again = Opnieuw proberen…
 about-logins-import-dialog-error-cancel = Annuleren
+
+## Logins import report page
+
+about-logins-import-report-page-title = Samenvattend rapport importeren
