@@ -158,9 +158,24 @@ enable-password-sync-preferences-button =
            *[other] Vierç lis preferencis di { -sync-brand-short-name }
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = No sta domandâmal plui
+    .accesskey = N
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Anule
+confirmation-dialog-dismiss-button =
+    .title = Anule
+about-logins-confirm-remove-dialog-title = Gjavâ cheste credenziâl?
+confirm-delete-dialog-message = No si pues tornâ indaûr di cheste azion.
+about-logins-confirm-remove-dialog-confirm-button = Gjave
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Gjave
+        [one] Gjave
+       *[other] Gjave dutis
+    }
 
 ## Breach Alert notification
 
