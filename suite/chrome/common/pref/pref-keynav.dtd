@@ -18,3 +18,10 @@
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Varna mig innan markörbläddring slås igång">
 <!ENTITY browseWithCaretWarn.accesskey "V">
+
+<!ENTITY modifiers.label "Modifierare">
+<!ENTITY acceleratorKey.label "Snabbknapp:">
+<!ENTITY acceleratorKey.accesskey "k">
+<!ENTITY menuAccessKey.label "Menyåtkomstknapp:">
+<!ENTITY menuAccessKey.accesskey "M">
+<!ENTITY modifiersDesc.label "Obs! Ett värde på noll inaktiverar en modifieringsknapp.">

@@ -25,6 +25,8 @@
 <!ENTITY debugEnableDump.accesskey        "A">
 <!ENTITY debugStrictJavascript.label      "Visa strikta JavaScript-varningar">
 <!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "Visa JavaScript-fel och varningar från användargränssnittet">
+<!ENTITY debugConsoleJavascript.accesskey "a">
 
 <!ENTITY enablePlugins.label             "Aktivera insticksmoduler för">
 <!ENTITY enablePluginForSuite.label      "Sviten">
