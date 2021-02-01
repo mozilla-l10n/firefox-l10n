@@ -4,11 +4,11 @@
 
 <!-- extracted from content/pref-scripts.xul -->
 
-<!--LOCALIZATION NOTE : FILE The 'Scripts & Windows' preferences dialog -->
+<!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
 <!ENTITY pref.scripts.title              "Skript &amp; Insticksmoduler">
 
-<!ENTITY navigator.label             "Webbläsare">
-<!ENTITY navigator.accesskey         "W">
+<!ENTITY navigator.label                 "Webbläsare">
+<!ENTITY navigator.accesskey             "W">
 
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
 <!ENTITY enableJavaScript.label          "Aktivera JavaScript för:">
@@ -20,9 +20,11 @@
 <!ENTITY allowContextmenuDisable.label   "Blockera eller ersätta snabbvalsmenyer">
 <!ENTITY allowHideStatusBar.label        "Dölja statusfältet">
 
-<!ENTITY enableDrmMedia.label            "Aktivera DRM (kopieringsspärr) för">
-<!ENTITY enableEmeForSuite.label         "Tredjepartsmoduler för innehållsdekryptering">
-<!ENTITY enableEmeForSuite.accesskey     "d">
+<!ENTITY debugging.label                  "JavaScript-felsökning">
+<!ENTITY debugEnableDump.label            "Aktivera JavaScript dump() utdata">
+<!ENTITY debugEnableDump.accesskey        "A">
+<!ENTITY debugStrictJavascript.label      "Visa strikta JavaScript-varningar">
+<!ENTITY debugStrictJavascript.accesskey  "J">
 
 <!ENTITY enablePlugins.label             "Aktivera insticksmoduler för">
 <!ENTITY enablePluginForSuite.label      "Sviten">
