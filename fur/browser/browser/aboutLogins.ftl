@@ -117,12 +117,32 @@ about-logins-edit-login-os-auth-dialog-message-win = Par modificâ la tô creden
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modificâ lis credenziâls salvadis
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Par visualizâ la tô password, inserìs lis tôs credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei accounts.
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = rivelâ la password salvade
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Par copiâ la tô password, inserìs lis tôs credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei accounts.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copiâ la password salvade
 
 ## Master Password notification
 
+master-password-notification-message = Par plasê inserìs la tô password principâl par visualizâ lis passwords e lis credenziâls salvadis
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Par espuartâ lis tôs credenziâls, inserìs lis credenziâls di acès di Windows. Chest al jude a protezi la sigurece dai tiei account.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = espuartâ lis credenziâls e lis passwords salvadis
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Par plasê inserìs la tô password primarie par visualizâ lis passwords e lis credenziâls salvadis
+master-password-reload-button =
+    .label = Jentre
+    .accesskey = J
 
 ## Password Sync notification
 
