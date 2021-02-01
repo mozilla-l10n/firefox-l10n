@@ -16,7 +16,7 @@ about-webrtc-save-page-dialog-title = שמירת about:webrtc בשם
 
 about-webrtc-aec-logging-msg-label = רישום AEC
 about-webrtc-aec-logging-off-state-label = התחלת רישום AEC
-about-webrtc-aec-logging-on-state-label = הפסקת רישום AEC
+about-webrtc-aec-logging-on-state-label = עצירת רישום AEC
 about-webrtc-aec-logging-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
 
 ##
@@ -49,7 +49,7 @@ about-webrtc-rtp-stats-heading = RTP Stats
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
-about-webrtc-ice-state = מצב ICE
+about-webrtc-ice-state = ICE State
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE Stats
 about-webrtc-ice-restart-count-label = ICE restarts:
@@ -118,10 +118,10 @@ about-webrtc-raw-cand-show-msg = הצגת מועמדים גולמיים
 about-webrtc-raw-cand-hide-msg = הסתרת מועמדים גולמיים
     .title = click to collapse this section
 about-webrtc-priority = Priority
-about-webrtc-fold-show-msg = show details
-    .title = click to expand this section
-about-webrtc-fold-hide-msg = hide details
-    .title = click to collapse this section
+about-webrtc-fold-show-msg = הצגת פרטים
+    .title = יש ללחוץ כדי להרחיב את מקטע זה
+about-webrtc-fold-hide-msg = הסתרת פרטים
+    .title = יש ללחוץ כדי לצמצם את מקטע זה
 about-webrtc-decoder-label = Decoder
 about-webrtc-encoder-label = Encoder
 about-webrtc-show-tab-label = הצגת לשונית
