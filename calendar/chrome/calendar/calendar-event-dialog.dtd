@@ -290,7 +290,7 @@
 <!ENTITY event.recurrence.on.label                      "Ar:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Pob" >
-<!ENTITY repeat.units.months.both                       "Mis(oedd)" >
+<!ENTITY repeat.units.months.both                       "Mis" >
 <!ENTITY event.recurrence.monthly.every.label           "Pob" >
 <!ENTITY event.recurrence.monthly.first.label           "Y Cyntaf">
 <!ENTITY event.recurrence.monthly.second.label          "Yr Ail">
@@ -365,7 +365,7 @@
 <!ENTITY event.recurrence.range.label                   "Ystod ailadrodd">
 <!ENTITY event.recurrence.forever.label                 "Dim dyddiad gorffen" >
 <!ENTITY event.recurrence.repeat.for.label              "Creu" >
-<!ENTITY event.recurrence.appointments.label            "Apwyntiad(au)" >
+<!ENTITY event.recurrence.appointments.label            "apwyntiad" >
 <!ENTITY event.repeat.until.label                       "Ailadrodd tan" >
 <!ENTITY event.recurrence.preview.label                 "Rhagolwg">
 
