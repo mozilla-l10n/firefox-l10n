@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Eksperimentinis keleto vaizdo-vaiz
 experimental-features-http3 =
     .label = HTTP/3 protokolas
 experimental-features-http3-description = Eksperimentinis HTTP/3 protokolo palaikymas.
+# Search during IME
+experimental-features-ime-search =
+    .label = Adreso laukas: rodyti rezultatus vykstant IME kompozicijai
+experimental-features-ime-search-description = IME („Input Method Editor“) yra įrankis, leidžiantis jums įvesti sudėtingus simbolius, pvz., naudojamus rytų Azijos ar Indijos rašytinėse kalbose, naudojantis įprasta klaviatūra. Įjungus šį eksperimentą, adreso laukas bus atvertas ir jame rodomi paieškos rezultatai bei pasiūlymai, naudojant IME teksto įvedimui. Atkreipkite dėmesį, kad IME gali rodyti polangį, kuri uždengs adreso lauko rezultatus. Dėl to ši parinktis yra siūloma naudoti tik su IME, kuris neturi tokio tipo polangio.

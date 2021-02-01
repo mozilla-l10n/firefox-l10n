@@ -64,6 +64,7 @@ about-webrtc-ice-component-id = Komponento ID
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
 about-webrtc-avg-bitrate-label = Vid. pralaidumas:
+about-webrtc-avg-framerate-label = Vid. kadrų dažnis:
 
 ##
 
@@ -123,6 +124,8 @@ about-webrtc-fold-show-msg = išsamiau
     .title = spustelėkite, norėdami išskleisti šią sekciją
 about-webrtc-fold-hide-msg = mažiau
     .title = spustelėkite, norėdami suskleisti šią sekciją
+about-webrtc-dropped-frames-label = Dingę kadrai:
+about-webrtc-discarded-packets-label = Išmesti paketiniai duomenys:
 about-webrtc-decoder-label = Iškoduotuvas
 about-webrtc-encoder-label = Koduotuvas
 about-webrtc-show-tab-label = Rodyti kortelę
@@ -167,6 +170,11 @@ about-webrtc-pacer-delay-ms = Tempo delsa (ms)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT (ms)
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Vaizdo kadrų statistika – „MediaStreamTrack“ ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -180,6 +188,33 @@ about-webrtc-aec-logging-off-state-msg = įrašyti žurnalo failai yra čia: { $
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Gautas { $packets } duomenų paketas
+        [few] Gauti { $packets } duomenų paketai
+       *[other] Gauta { $packets } duomenų paketų
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Pradingęs { $packets } duomenų paketas
+        [few] Pradingę { $packets } duomenų paketai
+       *[other] Pradingę { $packets } duomenų paketų
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Išsiųstas { $packets } duomenų paketas
+        [few] Išsiųsti { $packets } duomenų paketai
+       *[other] Išsiųsta { $packets } duomenų paketų
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
