@@ -10,13 +10,13 @@
 about-webrtc-document-title = WebRTC Internals
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
-about-webrtc-save-page-dialog-title = save about:webrtc as
+about-webrtc-save-page-dialog-title = שמירת about:webrtc בשם
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
-about-webrtc-aec-logging-msg-label = AEC Logging
-about-webrtc-aec-logging-off-state-label = Start AEC Logging
-about-webrtc-aec-logging-on-state-label = Stop AEC Logging
+about-webrtc-aec-logging-msg-label = רישום AEC
+about-webrtc-aec-logging-off-state-label = התחלת רישום AEC
+about-webrtc-aec-logging-on-state-label = הפסקת רישום AEC
 about-webrtc-aec-logging-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
 
 ##
@@ -24,7 +24,7 @@ about-webrtc-aec-logging-on-state-msg = AEC logging active (speak with the calle
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
-about-webrtc-peerconnection-id-label = PeerConnection ID:
+about-webrtc-peerconnection-id-label = מזהה PeerConnection:‏
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -37,6 +37,7 @@ about-webrtc-remote-sdp-heading = Remote SDP
 about-webrtc-remote-sdp-heading-offer = Remote SDP (הצעה)
 about-webrtc-remote-sdp-heading-answer = Remote SDP (תשובה)
 about-webrtc-sdp-history-heading = היסטוריית SDP
+about-webrtc-sdp-parsing-errors-heading = שגיאות פענוח SDP
 
 ##
 
@@ -48,7 +49,7 @@ about-webrtc-rtp-stats-heading = RTP Stats
 ## "ICE" is an abbreviation for Interactive Connectivity Establishment, which
 ## is an IETF protocol, and should not normally be translated.
 
-about-webrtc-ice-state = ICE State
+about-webrtc-ice-state = מצב ICE
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE Stats
 about-webrtc-ice-restart-count-label = ICE restarts:
