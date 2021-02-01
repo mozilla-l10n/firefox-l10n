@@ -57,4 +57,6 @@
 <!ENTITY smart.label "Software-installatie">
 <!ENTITY mousewheel.label "Muiswiel">
 
+<!ENTITY debugging.label "Foutopsporing">
+
 <!ENTITY focusSearch.key "f">

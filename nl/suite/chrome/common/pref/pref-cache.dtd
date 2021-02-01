@@ -29,3 +29,9 @@
 <!ENTITY prefetchTitle.label             "Koppelingen vooraf ophalen">
 <!ENTITY enablePrefetch.label            "Webpagina’s vooraf ophalen wanneer er geen activiteit is, zodat koppelingen in webpagina’s die hiervoor zijn ontworpen sneller kunnen laden">
 <!ENTITY enablePrefetch.accesskey        "W">
+
+<!ENTITY debugCache.label                "Foutopsporing">
+<!ENTITY debugEnableMemCache.label       "Geheugenbuffer inschakelen">
+<!ENTITY debugEnableMemCache.accesskey   "i">
+<!ENTITY debugEnableDiskCache.label      "Schijfbuffer inschakelen">
+<!ENTITY debugEnableDiskCache.accesskey  "S">
