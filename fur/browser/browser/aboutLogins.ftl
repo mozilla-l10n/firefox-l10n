@@ -146,6 +146,18 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Desideristu vê a disposizion lis tôs credenziâls dapardut dulà che tu dopris { -brand-product-name }? Va tes opzions dal to { -sync-brand-short-name } e selezione la vôs credenziâls.
+       *[other] Desideristu vê a disposizion lis tôs credenziâls dapardut dulà che tu dopris { -brand-product-name }? Va tes Preferencis dal to { -sync-brand-short-name } e selezione la vôs credenziâls.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Vierç lis opzions di { -sync-brand-short-name }
+           *[other] Vierç lis preferencis di { -sync-brand-short-name }
+        }
+    .accesskey = V
 
 ## Dialogs
 
