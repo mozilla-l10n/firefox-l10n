@@ -17,5 +17,24 @@
 <!ENTITY debugEvents.label "Események">
 <!ENTITY debugPaintFlashing.label "Festési felvillanások (a Caps Lock kapcsolja)">
 <!ENTITY debugPaintFlashing.accesskey "F">
+<!ENTITY debugPaintFlashingChrome.label "Felvillanás a felület festésekor">
+<!ENTITY debugPaintFlashingChrome.accesskey "F">
+<!ENTITY debugPaintDumping.label "Kiíratás festéskor">
+<!ENTITY debugPaintDumping.accesskey "e">
+<!ENTITY debugInvalidateDumping.label "Kiíratás érvénytelenítéskor">
+<!ENTITY debugInvalidateDumping.accesskey "r">
+<!ENTITY debugEventDumping.label "Eseménykiíratás">
+<!ENTITY debugEventDumping.accesskey "E">
+<!ENTITY debugMotionEventDumping.label "Mozgásesemény-kiíratás">
+<!ENTITY debugMotionEventDumping.accesskey "M">
+<!ENTITY debugCrossingEventDumping.label "Kereszteződésesemény-kiíratás">
+<!ENTITY debugCrossingEventDumping.accesskey "K">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "Áttördelési események">
+<!ENTITY debugReflowShowFrameCounts.label        "Keretszámok megjelenítése">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "m">
+<!ENTITY debugReflowDumpFrameCounts.label        "Keretszámok kiíratása">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "r">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Keret kiírása keretszámonként">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "e">
