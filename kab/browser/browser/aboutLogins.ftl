@@ -300,8 +300,11 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Immed
 about-logins-import-dialog-error-title = Tuccḍa deg uktar
+about-logins-import-dialog-error-conflicting-values-description = D amedya: aṭas n yismawen n yiseqdacen, awalen uffiren, URLs, atg. i yiwen n unekcum.
 about-logins-import-dialog-error-file-format-title = Ugur deg umasal n ufaylu
 about-logins-import-dialog-error-file-permission-title = Ur yizmir ara ad iɣer afaylu
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } ur yesεi ara tasiregt ad iɣer afaylu. Ɛreḍ ad tbeddleḍ tisirag n ufaylu.
+about-logins-import-dialog-error-unable-to-read-description = Ḍmen tferneḍ afaylu CSV neɣ TSV.
 about-logins-import-dialog-error-no-logins-imported = Ulac iɣmisen i d-yettwaktaren
 about-logins-import-dialog-error-learn-more = Issin ugar
 about-logins-import-dialog-error-try-again = Ɛreḍ tikkelt-nniḍen…

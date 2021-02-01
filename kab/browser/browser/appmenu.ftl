@@ -63,8 +63,11 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Sken ugar n talɣut
 profiler-popup-description-title =
     .value = Sekles, sleḍ, bḍu
+profiler-popup-description = Ttekki deg tifrat n wuguren n temlellit s usuffeɣ n yimaɣunen ara tebḍuḍ d terbaεt-ik·im.
 profiler-popup-learn-more = Issin ugar
 profiler-popup-settings =
     .value = Iɣewwaren
