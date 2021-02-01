@@ -22,4 +22,4 @@
 <!ENTITY modifiers.label "Modifiers">
 <!ENTITY acceleratorKey.label "Versnellingstoets:">
 <!ENTITY acceleratorKey.accesskey "V">
-<!ENTITY modifiersDesc.label "Noot: een waarde van nul schakelt de modifiertoets uit.">
+<!ENTITY modifiersDesc.label "Noot: een waarde van nul schakelt een modifiertoets uit.">
