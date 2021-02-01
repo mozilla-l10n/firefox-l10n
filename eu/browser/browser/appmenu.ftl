@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Leiho berria
 appmenuitem-new-private-window =
     .label = Leiho pribatu berria
+appmenuitem-passwords =
+    .label = Pasahitzak
+appmenuitem-extensions-and-themes =
+    .label = Hedapenak eta itxurak
+appmenuitem-find-in-page =
+    .label = Bilatu orrian…
+appmenuitem-more-tools =
+    .label = Tresna gehiago
+appmenuitem-exit =
+    .label = Irten
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ezarpenak
 
 ## Zoom and Fullscreen Controls
 
@@ -42,6 +56,18 @@ whatsnew-panel-header = Nobedadeak
 whatsnew-panel-footer-checkbox =
     .label = Jakinarazi eginbide berriei buruz
     .accesskey = k
+
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-learn-more = Argibide gehiago
+profiler-popup-settings =
+    .value = Ezarpenak
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Editatu ezarpenak…
 
 ## Help panel
 
