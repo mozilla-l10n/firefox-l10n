@@ -317,3 +317,7 @@ about-logins-import-dialog-error-no-logins-imported = Der binne gjin oanmeldinge
 about-logins-import-dialog-error-learn-more = Mear ynfo
 about-logins-import-dialog-error-try-again = Opnij probearje…
 about-logins-import-dialog-error-cancel = Annulearje
+
+## Logins import report page
+
+about-logins-import-report-page-title = Gearfettend rapport ymportearje

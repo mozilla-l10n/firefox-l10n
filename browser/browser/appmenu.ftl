@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nij finster
 appmenuitem-new-private-window =
     .label = Nij priveefinster
+appmenuitem-passwords =
+    .label = Wachtwurden
+appmenuitem-extensions-and-themes =
+    .label = Utwreidingen en Tema’s
+appmenuitem-find-in-page =
+    .label = Sykje op side…
+appmenuitem-more-tools =
+    .label = Mear ark
+appmenuitem-exit =
+    .label = Ofslute
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ynstellingen
 
 ## Zoom and Fullscreen Controls
 
