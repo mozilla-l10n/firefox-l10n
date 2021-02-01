@@ -14,6 +14,12 @@
 <!ENTITY prefCheckDefaultClient.label     "Kontrollera inställningar för förvalda program vid uppstart">
 <!ENTITY prefCheckDefaultClient.accesskey "K">
 
+<!ENTITY printing.label                   "Utskrift">
+<!ENTITY useNativePrintDialog.label       "Använd systemets utskriftsdialog (där det stöds)">
+<!ENTITY useNativePrintDialog.accesskey   "U">
+<!ENTITY useGlobalPrintSettings.label     "Använd globala utskriftsinställningar">
+<!ENTITY useGlobalPrintSettings.accesskey "G">
+
 <!ENTITY crashReports.caption             "Rapportera krascher">
 <!ENTITY submitCrashes.label              "Skicka kraschrapporter">
 <!ENTITY submitCrashes.accesskey          "S">
