@@ -176,6 +176,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Gjave
        *[other] Gjave dutis
     }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Sì, gjave cheste credenziâl
+        [one] Sì, gjave cheste credenziâl
+       *[other] Sì, gjave chestis credenziâls
+    }
 
 ## Breach Alert notification
 
