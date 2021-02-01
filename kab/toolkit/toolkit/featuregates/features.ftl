@@ -101,3 +101,4 @@ experimental-features-multi-pip-description = Tallalt tarmitant i usireg n waṭ
 experimental-features-http3 =
     .label = Aneggaf n HTTP/3
 experimental-features-http3-description = Tallalt tarmitant i uneggaf HTTP/3
+experimental-features-ime-search-description = IME (Input Method Editor) d afecku ara ak·am-imudden tisirag i usekcem n yizamulen uddisen, am wid yettuseqdacen deg tutlayin yettwarun n Azya n Usammar neɣ n Lhend , s useqdec n unasiw alugan. Armad n termit-a ad yeǧǧ agalis n ufeggag n tansa yeldi, askan n yigmaḍ n unadi d yisumar, s useqdec n IME i usekcem n uḍris. Ẓer belli IME yezmer ad yesken agalis i iɣummen igmaḍ n ufeggag n tansiwin, ɣef waya asmenyif-a yettwasumer kan i IME ur nseqdac ara anaw-a n ugalis.

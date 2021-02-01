@@ -84,6 +84,7 @@ login-item-new-login-title = Rnu anekcum amaynut
 login-item-edit-button = Ẓreg
 about-logins-login-item-remove-button = Kkes
 login-item-origin-label = Tansa n usmel web
+login-item-tooltip-message = Ḍmen aya yemṣada swaswa akked tansa n usmel web anida i teqqneḍ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Isem n useqdac
@@ -300,6 +301,7 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Immed
 about-logins-import-dialog-error-title = Tuccḍa deg uktar
+about-logins-import-dialog-error-conflicting-values-title = Aṭas n wazalen mgirradent ɣef yiwen n unekcum
 about-logins-import-dialog-error-conflicting-values-description = D amedya: aṭas n yismawen n yiseqdacen, awalen uffiren, URLs, atg. i yiwen n unekcum.
 about-logins-import-dialog-error-file-format-title = Ugur deg umasal n ufaylu
 about-logins-import-dialog-error-file-permission-title = Ur yizmir ara ad iɣer afaylu
