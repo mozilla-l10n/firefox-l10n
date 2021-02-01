@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nouvelle fenêtre
 appmenuitem-new-private-window =
     .label = Nouvelle fenêtre privée
+appmenuitem-passwords =
+    .label = Mots de passe
+appmenuitem-extensions-and-themes =
+    .label = Extensions et thèmes
+appmenuitem-find-in-page =
+    .label = Rechercher dans la page…
+appmenuitem-more-tools =
+    .label = Outils supplémentaires
+appmenuitem-exit =
+    .label = Quitter
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Paramètres
 
 ## Zoom and Fullscreen Controls
 
@@ -53,11 +67,15 @@ profiler-popup-reveal-description-button =
     .aria-label = Afficher plus d’informations
 profiler-popup-description-title =
     .value = Enregistrer, analyser, partager
+profiler-popup-description = Collaborez sur les problèmes de performance en publiant des profils à partager avec votre équipe.
 profiler-popup-learn-more = En savoir plus
 profiler-popup-settings =
     .value = Paramètres
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modifier les paramètres…
+profiler-popup-disabled =
+    Le profileur est actuellement désactivé, probablement à cause d’une fenêtre de navigation privée
+    ouverte.
 profiler-popup-recording-screen = Enregistrement…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.

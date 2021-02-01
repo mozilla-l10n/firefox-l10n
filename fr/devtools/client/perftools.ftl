@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Paramètres du profileur
+perftools-intro-description =
+    Les enregistrements lancent profiler.firefox.com dans un nouvel onglet. Toutes les données sont stockées
+    localement, mais vous pouvez choisir de les envoyer pour les partager.
 
 ## All of the headings for the various sections.
 
@@ -22,6 +25,9 @@ perftools-heading-local-build = Build local
 
 ##
 
+perftools-description-intro =
+    Les enregistrements lancent <a>profiler.firefox.com</a> dans un nouvel onglet. Toutes les données sont stockées
+    localement, mais vous pouvez choisir de les envoyer pour les partager.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -39,6 +45,9 @@ perftools-devtools-settings-label = Paramètres
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Le profileur est désactivé lorsque la navigation privée est active.
+    Fermez toutes les fenêtres privées pour réactiver le profileur.
 perftools-status-recording-stopped-by-another-tool = L’enregistrement a été arrêté par un autre outil.
 perftools-status-restart-required = Le navigateur doit être redémarré pour activer cette fonctionnalité.
 
@@ -53,6 +62,8 @@ perftools-button-start-recording = Commencer l’enregistrement
 perftools-button-cancel-recording = Annuler l’enregistrement
 perftools-button-save-settings = Enregistrer les paramètres et revenir en arrière
 perftools-button-restart = Redémarrer
+perftools-button-add-directory = Ajouter un répertoire
+perftools-button-remove-directory = Supprimer les éléments sélectionnés
 perftools-button-edit-settings = Modifier les paramètres…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
