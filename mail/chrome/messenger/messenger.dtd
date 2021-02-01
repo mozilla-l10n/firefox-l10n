@@ -767,7 +767,7 @@
 <!ENTITY contextEditTemplate.accesskey "M">
 <!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "A">
-<!ENTITY contextReplySender.label "Responder">
+<!ENTITY contextReplySender.label "Responder só ao remetente">
 <!ENTITY contextReplySender.accesskey "R">
 <!ENTITY contextReplyNewsgroup2.label "Responder ao grupo">
 <!ENTITY contextReplyNewsgroup2.accesskey "p">
