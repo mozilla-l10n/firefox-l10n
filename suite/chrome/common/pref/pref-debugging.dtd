@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from pref-eventdebugging.xul -->
+
+<!ENTITY pref.debugging.title "Foutopsporing">
+
+<!-- Render Debugging -->
+<!ENTITY debugRendering.label             "Rendering">
+<!ENTITY debugXULBox.label                "XUL-boxen debuggen">
+<!ENTITY debugXULBox.accesskey            "X">
+<!ENTITY debugDisableXULCache.label       "XUL-buffer uitschakelen">
+<!ENTITY debugDisableXULCache.accesskey   "L">
+
+<!-- Event Debugging -->
+<!ENTITY debugEvents.label "Gebeurtenissen">
+
+<!-- Reflow Event Debugging -->
