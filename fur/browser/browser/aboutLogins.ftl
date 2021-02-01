@@ -221,9 +221,11 @@ about-logins-breach-alert-date = Cheste violazion e je capitade ai { DATETIME($d
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Va su { $hostname }
+about-logins-breach-alert-learn-more-link = Par savê di plui
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Password vulnerabile
 
 ## Error Messages
 
