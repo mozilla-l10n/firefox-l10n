@@ -270,3 +270,7 @@ about-logins-import-dialog-error-no-logins-imported = Логиндер импо�
 about-logins-import-dialog-error-learn-more = Көбірек білу
 about-logins-import-dialog-error-try-again = Қайталап көру…
 about-logins-import-dialog-error-cancel = Бас тарту
+
+## Logins import report page
+
+about-logins-import-report-page-title = Импорттаудың жиынтық есебі

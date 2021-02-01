@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Жаңа терезе
 appmenuitem-new-private-window =
     .label = Жаңа жекелік терезе
+appmenuitem-passwords =
+    .label = Парольдер
+appmenuitem-extensions-and-themes =
+    .label = Кеңейтулер және темалар
+appmenuitem-find-in-page =
+    .label = Беттен табу…
+appmenuitem-more-tools =
+    .label = Көбірек саймандар
+appmenuitem-exit =
+    .label = Шығу
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Баптаулар
 
 ## Zoom and Fullscreen Controls
 
