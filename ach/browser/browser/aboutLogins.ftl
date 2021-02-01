@@ -28,6 +28,8 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Kel ki i Layeny Mukene…
 about-logins-menu-menuitem-import-from-a-file = Kel ki i Pwail…
+about-logins-menu-menuitem-export-logins = Cwal Donyo iyie Woko...
+about-logins-menu-menuitem-remove-all-logins = Kwany Donyo iyie Weng…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ter
@@ -41,6 +43,12 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone ki iPad
 
 login-list =
     .aria-label = Donyo iyie ma rwatte ki lok me yeny
+login-list-count =
+    { $count ->
+        [one] donyo iyie { $count }
+       *[other] donyo iyie { $count }
+    }
+login-list-sort-label-text = Yek ki:
 login-list-name-option = Nying (A-Z)
 login-list-name-reverse-option = Nying (Z-A)
 about-logins-login-list-alerts-option = Ciko
@@ -51,6 +59,7 @@ login-list-intro-description = Ka igwoko mung me donyo mo i { -brand-product-nam
 about-logins-login-list-empty-search-title = Pe ki nongo donyo iyie mo
 about-logins-login-list-empty-search-description = Pe tye adwogi mo ma rwatte ki yeny mamegi.
 login-list-item-title-new-login = Donyo iyie manyen
+login-list-item-subtitle-new-login = Ket ngec me donyo iyie mamegi
 login-list-item-subtitle-missing-username = (nying me tic pe)
 
 ## Introduction screen
@@ -174,3 +183,11 @@ about-logins-export-file-picker-export-button = Cwal woko
 ## Login Import Dialog
 
 about-logins-import-file-picker-import-button = Kel ki woko
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
