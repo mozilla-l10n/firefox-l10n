@@ -198,9 +198,29 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] Gjavâ { $count } credenziâl di ducj i dispositîfs?
        *[other] Gjavâ dutis e { $count } lis credenziâls di ducj i dispositîfs?
     }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Chest al gjavarà la credenziâl salvade su { -brand-short-name } su ducj i dispositîfs sincronizâts al to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
+        [one] Chest al gjavarà la credenziâl salvade su { -brand-short-name } su ducj i dispositîfs sincronizâts al to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
+       *[other] Chest al gjavarà dutis lis credenziâls salvadadis su { -brand-short-name } su ducj i dispositîfs sincronizâts al to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
+    }
+about-logins-confirm-export-dialog-title = Espuarte credenziâls e passwords
+about-logins-confirm-export-dialog-message = Si salvarà lis tôs passwords tant che test leibil (p.e. BadP@ssw0rd) si che duncje chei che a puedin vierzilu a rivaran a viodilis.
+about-logins-confirm-export-dialog-confirm-button = Espuarte…
+about-logins-alert-import-title = Importazion completade
+about-logins-alert-import-message = Viôt la sintesi detaiade de importazion
+confirm-discard-changes-dialog-title = Scartâ lis modifichis no salvadis?
+confirm-discard-changes-dialog-message = Dutis lis modifichis che no son stadis salvadis a laran pierdudis.
+confirm-discard-changes-dialog-confirm-button = Scarte
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Violazion dal sît web
+breach-alert-text = Dal ultin inzornament dai tiei detais di acès, lis passwords di chest sît web a son stadis pandudis o freadis. Cambie la tô password par protezi il to account.
+about-logins-breach-alert-date = Cheste violazion e je capitade ai { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Va su { $hostname }
 
 ## Vulnerable Password notification
 
