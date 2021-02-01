@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Pozōr!
@@ -13,13 +14,10 @@ about-config-intro-warning-button = Akceptuja ryzyko i chca kōntynuować
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Zmiana tyj kōnfiguracyje może pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
-
 about-config-page-title = Zaawansowano kōnfiguracyjo
-
 about-config-search-input1 =
     .placeholder = Szukej po mianie kōnfiguracyje
 about-config-show-all = Pokoż wszyske
-
 about-config-pref-add-button =
     .title = Przidej
 about-config-pref-toggle-button =
@@ -47,6 +45,6 @@ about-config-pref-add-type-string = Lyńcuch
 ##   $value (String): The full value of the preference.
 
 about-config-pref-accessible-value-default =
-    .aria-label = { $value }(bazowo)
+    .aria-label = { $value } (bazowo)
 about-config-pref-accessible-value-custom =
-    .aria-label = { $value }(bazowo)
+    .aria-label = { $value } (bazowo)
