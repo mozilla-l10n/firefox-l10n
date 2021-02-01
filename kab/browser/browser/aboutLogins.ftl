@@ -301,6 +301,7 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Immed
 about-logins-import-dialog-error-title = Tuccḍa deg uktar
 about-logins-import-dialog-error-file-format-title = Ugur deg umasal n ufaylu
+about-logins-import-dialog-error-file-permission-title = Ur yizmir ara ad iɣer afaylu
 about-logins-import-dialog-error-no-logins-imported = Ulac iɣmisen i d-yettwaktaren
 about-logins-import-dialog-error-learn-more = Issin ugar
 about-logins-import-dialog-error-try-again = Ɛreḍ tikkelt-nniḍen…
