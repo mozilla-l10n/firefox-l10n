@@ -30,6 +30,7 @@
 <!ENTITY enablePrefetch.label            "Pré-carregar páginas automaticamente se a conexão não estiver sendo utilizada (links que utilizem este recurso carregarão mais rápido)">
 <!ENTITY enablePrefetch.accesskey        "c">
 
+<!ENTITY debugCache.label                "Depuração">
 <!ENTITY debugEnableMemCache.label       "Ativar cache de memória">
 <!ENTITY debugEnableMemCache.accesskey   "A">
 <!ENTITY debugEnableDiskCache.label      "Ativar cache de disco">

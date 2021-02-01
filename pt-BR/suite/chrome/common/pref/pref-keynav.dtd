@@ -24,3 +24,4 @@
 <!ENTITY acceleratorKey.accesskey "a">
 <!ENTITY menuAccessKey.label "Tecla de acesso ao menu:">
 <!ENTITY menuAccessKey.accesskey "m">
+<!ENTITY modifiersDesc.label "Nota: O valor zero desativa a tecla modificadora.">

@@ -4,8 +4,10 @@
 
 <!-- extracted from pref-eventdebugging.xul -->
 
+<!ENTITY pref.debugging.title "Depuração">
 
 <!-- Render Debugging -->
+<!ENTITY debugRendering.label             "Renderização">
 <!ENTITY debugXULBox.label                "Debugar caixas XUL">
 <!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "Desativar cache XUL">
