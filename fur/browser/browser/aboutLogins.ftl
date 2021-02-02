@@ -302,6 +302,11 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = Fat
 about-logins-import-dialog-error-title = Erôr di importazion
 about-logins-import-dialog-error-conflicting-values-title = Plui valôrs in conflit par une credenziâl
+about-logins-import-dialog-error-conflicting-values-description = Par esempli: multiplis nons utents, passwords, URLs e v. i. par une sole credenziâl.
+about-logins-import-dialog-error-file-format-title = Probleme di formât file
+about-logins-import-dialog-error-file-format-description = A mancjin, o no son justis, lis Intestazions di colone. Siguriti che il file al includi lis colonis pal non utent, pe password e pal URL.
+about-logins-import-dialog-error-file-permission-title = Impussibil lei il file
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nol à il permès par lei il file. Prove a cambiâ i permès dal file.
 
 ## Logins import report page
 
