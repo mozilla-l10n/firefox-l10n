@@ -7,17 +7,23 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
-
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+navbar-tooltip-back-2 =
+    .value = { main-context-menu-back-2.tooltiptext }
+toolbar-button-back-2 =
+    .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
-
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+navbar-tooltip-forward-2 =
+    .value = { main-context-menu-forward-2.tooltiptext }
+toolbar-button-forward-2 =
+    .label = { main-context-menu-forward-2.aria-label }
 
 ## Reload
 
@@ -39,7 +45,6 @@ toolbar-button-stop-reload =
 main-context-menu-page-save =
     .label = Jóne bénomo...
     .accesskey = P
-
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -48,15 +53,12 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = Tuño úitaka
     .accesskey = O
-
 main-context-menu-open-link-new-tab =
     .label = Tuñoka úitɨraɨ kómue
     .accesskey = T
-
 main-context-menu-open-link-new-window =
     .label = Tuñoka úitɨraɨ kómue
     .accesskey = W
-
 main-context-menu-open-link-new-private-window =
     .label = Tuñoka úitɨraɨ kómue dáma
     .accesskey = P
@@ -78,7 +80,6 @@ main-context-menu-copy-email =
 main-context-menu-media-play =
     .label = Abɨdo bóno
     .accesskey = P
-
 main-context-menu-media-pause =
     .label = Fɨaikana
     .accesskey = F
@@ -88,7 +89,6 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Kákanide
     .accesskey = K
-
 main-context-menu-media-unmute =
     .label = Kákareide
     .accesskey = K
@@ -99,7 +99,6 @@ main-context-menu-media-unmute =
 main-context-menu-media-show-controls =
     .label = Okuíra Ákatairi
     .accesskey = Á
-
 main-context-menu-media-hide-controls =
     .label = Okuíra Rétaido
     .accesskey = R
@@ -109,56 +108,42 @@ main-context-menu-media-hide-controls =
 main-context-menu-media-video-fullscreen =
     .label = Nána éroiya ráa
     .accesskey = N
-
 main-context-menu-image-view =
     .label = Jána ákata
     .accesskey = á
-
 main-context-menu-video-view =
     .label = Ákata Joreño fɨnóka
     .accesskey = f
-
 main-context-menu-image-copy =
     .label = Fakádote jana
     .accesskey = j
-
 main-context-menu-image-save-as =
     .label = Béno joreño jóne...
     .accesskey = j
-
 main-context-menu-image-email =
     .label = Jána óre...
     .accesskey = .
-
 main-context-menu-video-image-save-as =
     .label = Yɨnoga bíe ízoi jóne…
     .accesskey = Y
-
 main-context-menu-video-email =
     .label = Óre& jóreño fɨnoka...
     .accesskey = a
-
 main-context-menu-plugin-hide =
     .label = Retáido& bíe plugin
     .accesskey = H
-
 main-context-menu-view-background-image =
     .label = Ákata jána anáfene
     .accesskey = a
-
 main-context-menu-frame-open-tab =
     .label = Tuñoka úitɨraɨ kómue
     .accesskey = k
-
 main-context-menu-frame-open-window =
     .label = Tuñoka úitɨraɨ kómue
     .accesskey = k
-
 main-context-menu-inspect-element =
     .label = Ráanɨaɨ éroiye
     .accesskey = I
-
 main-context-menu-eme-learn-more =
     .label = Aiyo onóde bémo DRM…
     .accesskey = D
-
