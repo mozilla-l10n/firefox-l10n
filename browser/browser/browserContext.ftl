@@ -7,17 +7,23 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
-
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+navbar-tooltip-back-2 =
+    .value = { main-context-menu-back-2.tooltiptext }
+toolbar-button-back-2 =
+    .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
-
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+navbar-tooltip-forward-2 =
+    .value = { main-context-menu-forward-2.tooltiptext }
+toolbar-button-forward-2 =
+    .label = { main-context-menu-forward-2.aria-label }
 
 ## Reload
 
@@ -39,7 +45,6 @@ toolbar-button-stop-reload =
 main-context-menu-page-save =
     .label = Kubika Paji Muri...
     .accesskey = P
-
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -48,11 +53,9 @@ toolbar-button-page-save =
 main-context-menu-open-link-new-tab =
     .label = Gufungurira Ihuza mu Gafishi Gashya
     .accesskey = G
-
 main-context-menu-open-link-new-window =
     .label = Gufungurira Ihuza mu Dirishya Rishya
     .accesskey = D
-
 main-context-menu-save-link =
     .label = Kubika Ihuza Muri...
     .accesskey = K
@@ -64,7 +67,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Gukoporora Aderesi Imeyili
     .accesskey = k
-
 main-context-menu-copy-link =
     .label = Gukoporora Ahari Ihuza
     .accesskey = p
@@ -91,76 +93,57 @@ main-context-menu-media-pause =
 main-context-menu-image-view =
     .label = Kureba Ishusho
     .accesskey = I
-
 main-context-menu-image-copy =
     .label = Gukoporora Ishusho
     .accesskey = r
-
 main-context-menu-image-copy-location =
     .label = Gukoporora Ahari Ishusho
     .accesskey = o
-
 main-context-menu-image-save-as =
     .label = Kubika Ishusho Muri...
     .accesskey = b
-
 main-context-menu-image-set-as-background =
     .label = Ishizweho nk'imbuganyuma y'ibiro...
     .accesskey = m
-
 main-context-menu-view-background-image =
     .label = Kureba Ishusho Mbuganyuma
     .accesskey = y
-
 main-context-menu-keyword =
     .label = Kongera Ijambofatizo kuri iri Shakisha...
     .accesskey = K
-
 main-context-menu-frame =
     .label = Iyi Kadiri
     .accesskey = K
-
 main-context-menu-frame-show-this =
     .label = Kwerekana Iyi Kadiri Gusa
     .accesskey = K
-
 main-context-menu-frame-open-tab =
     .label = Gufungura Ikadiri mu Gafishi Gashya
     .accesskey = m
-
 main-context-menu-frame-open-window =
     .label = Gufungura Ikadiri mu Idirishya Rishya
     .accesskey = I
-
 main-context-menu-frame-reload =
     .label = Kongera Gutangiza Ikadiri
     .accesskey = o
-
 main-context-menu-frame-save-as =
     .label = Kubika Ikadiri Muri...
     .accesskey = I
-
 main-context-menu-frame-view-source =
     .label = Kureba Inkomoko y'Ikadiri
     .accesskey = d
-
 main-context-menu-frame-view-info =
     .label = Kureba Amakuru y'Ikadiri
     .accesskey = e
-
 main-context-menu-view-selection-source =
     .label = Kureba Inkomoko y'Ihitamo
     .accesskey = e
-
 main-context-menu-view-page-source =
     .label = Kureba Inkomoko ya Paji
     .accesskey = P
-
 main-context-menu-view-page-info =
     .label = Kureba Amakuru ya Paji
     .accesskey = y
-
 main-context-menu-bidi-switch-page =
     .label = Guhinduranya Icyerekezo cya Paji
     .accesskey = G
-
