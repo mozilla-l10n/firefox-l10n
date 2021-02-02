@@ -19,6 +19,12 @@ navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = На предыдущую страницу ({ $shortcut })
+    .aria-label = Назад
+    .accesskey = а
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -34,6 +40,12 @@ navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = На следующую страницу ({ $shortcut })
+    .aria-label = Вперёд
+    .accesskey = е
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
