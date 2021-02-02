@@ -114,7 +114,7 @@ was trying to connect. -->
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problym bydzie ze złymi nasztalowaniami strōny i niy poradzisz nic z tym zrobić. Możesz dać znać ô problymie administratorowi strōny.</p>">
 
 <!ENTITY sharedLongDesc "<ul>
-  <li>Strōna mogła być czasowo niydostympna abo za fest zajynto. Sprōbuj zaś
+  <li>Strōna może być czasowo niydostympno abo za fest zajynto. Sprōbuj zaś
 za pora chwil.</li>
   <li>Jak niy idzie zaladować żodnych strōn, badnij na połōnczynie tego kōmputra
     z necym.</li>

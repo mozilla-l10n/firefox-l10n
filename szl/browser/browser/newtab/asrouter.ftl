@@ -74,7 +74,7 @@ cfr-doorhanger-pintab-animation-resume = Rōb zaś
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Miyj swoje zokłodki wszyńdzie zsynchrōnizowane.
-cfr-doorhanger-bookmark-fxa-body = Terozki już żodyn roz niy ôstaniesz bez tyj zokłodki na swojich maszinach. Napocznij używać { -fxaccount-brand-name(case: "gen") }.
+cfr-doorhanger-bookmark-fxa-body = Terozki już nigdy niy ôstaniesz bez tyj zokłodki na swojich maszinach. Napocznij używać { -fxaccount-brand-name(case: "gen") }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchrōnizuj swoje zokłodki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knefel zawiyranio
@@ -165,7 +165,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Załōncz { -sync-brand-short-name }
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = Już żodyn roz niy strać hasła
+cfr-doorhanger-sync-logins-header = Już nigdy niy strać hasła
 cfr-doorhanger-sync-logins-body = Bezpiecznie schranio i synchrōnizuje hasła na wszyskich twojich maszinach.
 cfr-doorhanger-sync-logins-ok-button = Załōncz { -sync-brand-short-name }
     .accesskey = Z
@@ -204,7 +204,7 @@ cfr-doorhanger-cryptominers-description = Mōmy w zocy twoja prywatność. Teroz
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōncy elymynt ôd { $date }!
@@ -293,3 +293,6 @@ cfr-whatsnew-supercookies-body = Niykere serwery poradzōm skrycie przidać do t
 
 cfr-whatsnew-bookmarking-header = Lepsze kludzynie zokłodek
 cfr-whatsnew-bookmarking-body = Filowanie na swoje ulubiōne zokłodki je snadniyjsze. { -brand-short-name } terozki pamiynto twōj nojrodszy plac na zokłodki, bazowo pokazuje posek z zokłodkami w nowych kartach i dowo ci snadny dostymp do inkszych zokłodek bez katalog na posku z zokłodkami.
+
+## What's new: Cross-site cookie tracking
+

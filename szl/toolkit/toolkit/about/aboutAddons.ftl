@@ -325,7 +325,7 @@ locale-enabled-heading = Załōnczōne
 locale-disabled-heading = Zastawiōne
 ask-to-activate-button = Pytej sie, jeźli idzie aktywować
 always-activate-button = Zawdy aktywuj
-never-activate-button = Żodyn roz niy aktywuj
+never-activate-button = Nigdy niy aktywuj
 addon-detail-author-label = Autōr
 addon-detail-version-label = Wersyjo
 addon-detail-last-updated-label = Ôstatnio aktualizowane
@@ -380,12 +380,6 @@ addon-detail-private-browsing-disallow = Niy zwolej
 addon-badge-recommended2 =
     .title = { -brand-product-name } rykōmynduje ino rozszyrzynia, co trzimiōm sie naszych sztandardōw bezpieczyństwa i fungowanio
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Te rozszyrzynie je zrychtowane ôd twōrcōw aplikacyje { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Te rozszyrzynie mo kod zbadany do wiynkszego bezpieczyństwa
-    .aria-label = { addon-badge-verified.title }
 
 ##
 

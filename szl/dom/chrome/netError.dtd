@@ -66,7 +66,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Przeglōndarka je nasztalowano, coby używać serwera proxy, kerego ale niy szło znojść.</p><ul><li>Je kōnfiguracyjo serwera proxy przeglōndarki dobro? Badnij na nasztalowania i sprōbuj jeszcze roz.</li><li>Je kōmputer połōnczōny do aktywnego neca?</li><li>Durch mosz problym? Dej znać administratorowi neca abo dowcōm internetu.</li></ul>">
 
 <!ENTITY redirectLoop.title "Przyntla przi przekerowaniu">
-<!ENTITY redirectLoop.longDesc "<p>Przeglōndarka przestała prōbować wrōcić proszōny elymynt. Strōna przekerowuje prośba tak, co żodyn roz sie niy podarzi.</p><ul><li>Mosz wyłōnczōne abo zaszperowane cookies potrzebne na tyj strōnie?</li><li><em>Pozōr</em>: Jak zgoda na cookies tyj strōny niy rozwiōnże problymu, bydzie to problym kōnfiguracyje serwera, a niy tego kōmputra.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Przeglōndarka przestała prōbować wrōcić proszōny elymynt. Strōna przekerowuje prośba tak, iże nigdy sie niy podarzi.</p><ul><li>Mosz wyłōnczōne abo zaszperowane cookies potrzebne na tyj strōnie?</li><li><em>Pozōr</em>: Jak zgoda na cookies tyj strōny niy rozwiōnże problymu, bydzie to problym kōnfiguracyje serwera, a niy tego kōmputra.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Zło ôdpowiydź">
 <!ENTITY unknownSocketType.longDesc "<p>Strōna ôdpedziała na prośba neca niyôczekowanym spusobym, bez co przeglōndarka niy poradzi iść dalij.</p>">

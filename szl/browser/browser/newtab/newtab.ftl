@@ -104,7 +104,7 @@ newtab-menu-show-privacy-info = Nasze spōnsory a twoja prywatność
 newtab-privacy-modal-button-done = Fertich
 newtab-privacy-modal-button-manage = Regiyruj sztalōnkami spōnsorowanyj zawartości
 newtab-privacy-modal-header = Twoja prywatność je ważno.
-newtab-privacy-modal-paragraph-2 = Krōm ciekawych ôzprowek pokazujymy ci tyż napasowane, sprawdzōne treści ôd ôbranych spōnsorōw. Możesz wierzić, iże <strong>dane twojigo przeglōndanio żodyn roz niy ôpuszczajōm twojij włosnyj kopije aplikacyje { -brand-product-name }</strong> — ani my, ani nasze spōnsory ich niy widzōm.
+newtab-privacy-modal-paragraph-2 = Krōm ciekawych ôzprowek pokazujymy ci tyż napasowane, sprawdzōne treści ôd ôbranych spōnsorōw. Możesz wierzić, iże <strong>dane twojigo przeglōndanio nigdy niy ôpuszczajōm twojij włosnyj kopije aplikacyje { -brand-product-name }</strong> — ani my, ani nasze spōnsory ich niy widzōm.
 newtab-privacy-modal-link = Przewiydz sie wiyncyj ô prywatności na strōnie nowyj karty
 
 ##

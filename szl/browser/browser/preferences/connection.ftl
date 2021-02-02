@@ -55,7 +55,7 @@ connection-proxy-noproxy = Niy używej proxy do:
     .accesskey = N
 connection-proxy-noproxy-desc = Bez przikłod: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
-connection-proxy-noproxy-localhost-desc = Połōncznynia ze localhost, 127.0.0.1 i ::1 żodyn roz niy używajōm serwera proxy.
+connection-proxy-noproxy-localhost-desc = Połōncznynia ze localhost, 127.0.0.1 i ::1 nigdy niy używajōm serwera proxy.
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Połōncznynia ze localhost, 127.0.0.1/8, i ::1 żodyn roz niy używajōm serwera proxy.
 connection-proxy-autotype =
