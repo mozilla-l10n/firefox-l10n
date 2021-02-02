@@ -311,3 +311,4 @@ cfr-whatsnew-bookmarking-body = Je lóšo, přehlad nad wašimi najlubšimi syd�
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Wobšěrny škit přećiwo slědowanju přez placki wjacorych sydłow
+cfr-whatsnew-cross-site-tracking-body = Móžeće škit před slědowanjom přez placki polěpšić. { -brand-short-name } móže waše aktiwity a daty na sydło wobmjezpwać, na kotrymž runje sće, zo njebychu so informacije, kotrež su we wobhladowaku składowane, mjez websydłami wuměnili.
