@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = ID n usuddis
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Aktum imsin alemmas:
+about-webrtc-avg-framerate-label = Afmiḍi alemmas n tugniwin di tasint:
 
 ##
 
@@ -122,6 +124,8 @@ about-webrtc-fold-show-msg = Sken aglam leqqayen
     .title = sit akken ad tesnefliḍ tigezmi-agi
 about-webrtc-fold-hide-msg = Ffer aglam leqqayen
     .title = sit akken ad tesnefliḍ tigezmi-agi
+about-webrtc-dropped-frames-label = Ikataren yettwakksen:
+about-webrtc-discarded-packets-label = Ikemmusen yettwanfen:
 about-webrtc-decoder-label = Akestengal
 about-webrtc-encoder-label = Astengal
 about-webrtc-show-tab-label = Sken iccer
@@ -166,6 +170,11 @@ about-webrtc-pacer-delay-ms = Tanzagt n usendeh (ms)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Tidaddanin n frame n tvidyutin - Asulay n MediaStreamTrack: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.

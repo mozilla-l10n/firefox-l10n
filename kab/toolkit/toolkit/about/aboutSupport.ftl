@@ -198,6 +198,7 @@ support-third-party-modules-duration = Tanzagt n usali (ms)
 support-third-party-modules-status = Addad
 support-third-party-modules-status-loaded = Yuli-d
 support-third-party-modules-status-blocked = Iwḥel
+support-third-party-modules-status-redirected = Yettuwelleh i tikkelt-nniḍen
 support-third-party-modules-empty = Ulac izegrar n wis kraḍ i d-yettwasulin.
 support-third-party-modules-no-value = (Ulac azal)
 support-third-party-modules-button-open =
