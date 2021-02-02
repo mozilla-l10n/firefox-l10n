@@ -210,13 +210,20 @@ cfr-doorhanger-cryptominers-description = Waša priwatnosć jo wažna. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowaka wót { $date }!
         [two] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowakowu wót { $date }!
         [few] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowakow wót { $date }!
        *[other] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowakow wót { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } jo zablokěrował wěcej ako <b>{ $blockedCount }</b> pśeslědowak wót { DATETIME($date, month: "long", year: "numeric") }!
+        [two] { -brand-short-name } jo zablokěrował wěcej ako <b>{ $blockedCount }</b> pśeslědowaka wót { DATETIME($date, month: "long", year: "numeric") }!
+        [few] { -brand-short-name } jo zablokěrował wěcej ako <b>{ $blockedCount }</b> pśeslědowaki wót { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } jo zablokěrował wěcej ako <b>{ $blockedCount }</b> pśeslědowakow wót { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Wšykne pokazaś
     .accesskey = k
@@ -300,3 +307,8 @@ cfr-whatsnew-supercookies-body = Websedła mógu kšajźu wašomu wobglědowakoj
 
 cfr-whatsnew-bookmarking-header = Lěpše zastojanje cytańskich zmanjenjow
 cfr-whatsnew-bookmarking-body = Jo lažčej, pśeglěd nad wašymi nejlubšymi sedłami wobchowaś. { -brand-short-name } se něnto wašo nejlubše městno za skłaźone cytańske znamjenja markujo, pokazujo symbolowu rědku cytańskich znamjenjow pó standarźe na nowych rejtarikach a dajo wam lažki pśistup k zbytkoju wašych cytańskich znamjenjow pśez zarědnik symboloweje rědki.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Wobšyrny šćit pśed slědowanim pśez cookieje někotarych sedłow
+cfr-whatsnew-cross-site-tracking-body = Móžośo šćit pśed slědowanim pśez cookieje pólěpšyś. { -brand-short-name } móžo waše aktiwity a daty na sedło wobgranicowaś, na kótaremž rowno sćo, až njeby se informacije, kótarež su we wobglědowaku skłaźone, mjaz websedłami wuměnili.
