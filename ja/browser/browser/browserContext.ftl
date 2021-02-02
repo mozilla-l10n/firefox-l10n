@@ -19,6 +19,10 @@ navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+navbar-tooltip-back-2 =
+    .value = { main-context-menu-back-2.tooltiptext }
+toolbar-button-back-2 =
+    .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
 
@@ -30,6 +34,10 @@ navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+navbar-tooltip-forward-2 =
+    .value = { main-context-menu-forward-2.tooltiptext }
+toolbar-button-forward-2 =
+    .label = { main-context-menu-forward-2.aria-label }
 
 ## Reload
 
@@ -252,11 +260,9 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = 背景画像だけを表示
     .accesskey = w
-
 main-context-menu-generate-new-password =
     .label = 生成パスワードを使う...
     .accesskey = G
-
 main-context-menu-keyword =
     .label = この検索にキーワードを設定...
     .accesskey = K
@@ -293,11 +299,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = フレームの情報を表示
     .accesskey = I
-
 main-context-menu-print-selection =
     .label = 選択した部分を印刷
     .accesskey = r
-
 main-context-menu-view-selection-source =
     .label = 選択した部分のソースを表示
     .accesskey = e
