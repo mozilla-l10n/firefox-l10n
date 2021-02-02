@@ -300,3 +300,5 @@ cfr-whatsnew-bookmarking-body = Det er lettere å holde oversikt over favorittsi
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Omfattende beskyttelse mot sporingsinfokapsler på tvers av nettsteder
+cfr-whatsnew-cross-site-tracking-body = Du kan nå velge bedre beskyttelse mot infokapsel-sporing. { -brand-short-name } kan isolere aktivitetene og dataene dine til nettstedet du befinner deg på, slik at informasjon som er lagret i nettleseren ikke blir delt mellom nettsteder.

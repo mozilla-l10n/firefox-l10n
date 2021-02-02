@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til foreld
 ##
 
 policy-LocalFileLinks = Tillat at bestemte nettsteder kobler til lokale filer.
-policy-MasterPassword = Krev eller forhindre bruk av hovedpassord.
 policy-ManagedBookmarks = Konfigurerer en liste over bokmerker som administreres av en administrator og som ikke kan endres av brukeren.
+policy-MasterPassword = Krev eller forhindre bruk av hovedpassord.
+policy-ManualAppUpdateOnly = Tillat kun manuelle oppdateringer og gi ikke brukeren varsel om oppdateringer.
 policy-PrimaryPassword = Krev eller forhindre bruk av hovedpassord.
 policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
 policy-NewTabPage = Slå på eller av ny fane-siden.
