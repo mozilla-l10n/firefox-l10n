@@ -290,3 +290,4 @@ cfr-whatsnew-bookmarking-body = 更轻松地追踪您喜爱的网站。{ -brand-
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = 全面的跨网站 Cookie 跟踪保护
