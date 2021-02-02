@@ -30,6 +30,7 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ur d-ig
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-a, imi <strong>outline-style</strong> d <strong>auto</strong> neɣ <strong>none<strong></strong>.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ur d-igellu s kra ɣef yiferdisen n tfelwit tagensant.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ur d-igellu s kra ɣef yiferdisen n tfelwit tagensant slid tibliqin n tfelwit.
+inactive-css-not-table = <strong>{ $property }</strong> ur d-igellu s kra ɣef uferdis-a imi mačči d tafelwit.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -51,6 +52,7 @@ inactive-text-overflow-when-no-overflow-fix = Ɛreḍ ad ternuḍ <strong>overfl
 inactive-css-not-for-internal-table-elements-fix = Ɛreḍ asbadu n tmeẓli-ines <strong>display</strong> ɣef wayeḍ-nniḍen yemgaraden ɣef <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> neɣ <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ɛreḍ asbadu n tmeẓli-ines <strong>display</strong> ɣef wayeḍ-nniḍen yemgaraden ɣef <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> neɣ <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Ɛreḍ ad tesbaduḍ timeẓli-ines <strong>outline-style</strong> s wazal-nniḍen ur nelli d <strong>auto</strong> neɣ <strong>none</strong>. { learn-more }
+inactive-css-not-table-fix = Ɛreḍ timerna n <strong>display:table</strong> neɣ <strong>display:inline-table</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
