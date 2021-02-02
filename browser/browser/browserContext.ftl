@@ -22,8 +22,8 @@ toolbar-button-back =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = 回到上一頁 ({ $shortcut })
-    .aria-label = 上一頁
+    .tooltiptext = 回到上一頁（{ $shortcut }）
+    .aria-label = 返回
     .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
@@ -43,8 +43,8 @@ toolbar-button-forward =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = 前進下一頁 ({ $shortcut })
-    .aria-label = 下一頁
+    .tooltiptext = 前進下一頁（{ $shortcut }）
+    .aria-label = 前進
     .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
