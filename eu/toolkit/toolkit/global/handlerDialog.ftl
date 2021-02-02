@@ -13,6 +13,8 @@ permission-dialog-description = Baimendu gune honi { $scheme } lotura irekitzen?
 permission-dialog-description-file = Baimendu fitxategi honi { $scheme } lotura irekitzen?
 permission-dialog-description-host = Baimendu { $host } ostalariari { $scheme } lotura irekitzen?
 permission-dialog-description-app = Baimendu gune honi { $scheme } lotura { $appName } erabiliz irekitzen?
+permission-dialog-description-host-app = Baimendu { $host } guneari { $scheme } lotura { $appName } erabiliz irekitzen?
+permission-dialog-description-file-app = Baimendu fitxategi honi { $scheme } lotura { $appName } erabiliz irekitzen?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
