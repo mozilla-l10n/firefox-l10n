@@ -22,8 +22,8 @@ toolbar-button-back =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Uɣal s yiwen n usebter ({ $shortcut })
-    .aria-label = Ɣer deffir
+    .tooltiptext = Uɣal ɣer deffir s yiwen usebter ({ $shortcut })
+    .aria-label = Γer deffir
     .accesskey = D
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }

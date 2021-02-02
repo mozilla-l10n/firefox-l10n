@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Tallalt n { -brand-shorter-name }
 appmenu-about =
     .label = Ɣef { -brand-shorter-name }
     .accesskey = Γ
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Inegzumen n unasiw
     .accesskey = I
+appmenu-get-help =
+    .label = Awi tallalt
+    .accesskey = A
 appmenu-help-troubleshooting-info =
     .label = Talɣut n usellek
     .accesskey = Γ

@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Iɣewwaren n umaɣnay
+perftools-intro-description =
+    Ikalasen senkaren profiler.firefox.com deg yiccer amaynut. Meṛṛa isefka ttuskelsen
+    s wudem adigan, maca tzemreḍ ad tferneḍ ad ten-id-tsaliḍ i wakken ad ten-tebḍuḍ.
 
 ## All of the headings for the various sections.
 
@@ -22,6 +25,9 @@ perftools-heading-local-build = Lebni adigan
 
 ##
 
+perftools-description-intro =
+    Ikalasen senkaren <a>profiler.firefox.com</a> deg yiccer amaynut. Meṛṛa isefka ttuskelsen
+    s wudem adigan, maca tzemreḍ ad tferneḍ ad ten-id-tsaliḍ i wakken ad ten-tebḍuḍ.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -38,6 +44,9 @@ perftools-devtools-settings-label = Iɣewwaṛen
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Amaɣnay yensa mi akken tunigin tusligt termed.
+    Mdel meṛṛa isfuyla usligen i wakken ad talseḍ armad n umaɣnay
 perftools-status-recording-stopped-by-another-tool = Asekles yettusehbes s ufecku-nniḍen:
 perftools-status-restart-required = Iminig ilaq ad yales tanekra i wakken ad termed tmahilt-a.
 
@@ -59,8 +68,14 @@ perftools-button-edit-settings = Ẓreg iɣewwaren…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Ikalan igejdanen i yikalan imarrawen d yialan n ugbur
+perftools-thread-renderer =
+    .title = Mi ara WebRender yetturmed, asqerdec i iselkamen isawalen OpenGL
 perftools-thread-render-backend =
     .title = Asqerdec n WebRender RenderBackend
+pref-thread-stream-trans =
+    .title = Asiweḍ n usuddem n uzeṭṭa
 
 ##
 
