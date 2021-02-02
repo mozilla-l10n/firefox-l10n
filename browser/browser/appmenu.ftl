@@ -94,6 +94,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Ajuda de { -brand-shorter-name }
 appmenu-about =
     .label = A prepaus de { -brand-shorter-name }
     .accesskey = A
@@ -109,6 +111,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Acorchis de clavièr
     .accesskey = c
+appmenu-get-help =
+    .label = Obténer d’ajuda
+    .accesskey = O
 appmenu-help-troubleshooting-info =
     .label = Informacions de depanatge
     .accesskey = d
