@@ -30,6 +30,7 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> na tut�
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> so na tutón element njewuskutkuje, dokelž jeho <strong>outline-style</strong> je <strong>auto</strong> abo <strong>none</strong>.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> žadyn efekt na interne tabelowe elementy nima.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> žadyn efekt na interne tabelowe elementy mimo tabelowych celow nima.
+inactive-css-not-table = <strong>{ $property }</strong> na tutón element efekt nima, dokelž tabela njeje.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -51,6 +52,7 @@ inactive-text-overflow-when-no-overflow-fix = Spytajće <strong>overflow:hidden<
 inactive-css-not-for-internal-table-elements-fix = Spytajće kajkosć <strong>display</strong> na něsto druhe hač <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajić. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Spytajće kajkosć <strong>display</strong> na něsto druhe hač <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajić. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Spytajće kajkosć <strong>outline-style</strong> na něšto druhe hač <strong>auto</strong> abo <strong>none</strong> stajić. { learn-more }
+inactive-css-not-table-fix = Spytajće <strong>display:table</strong> abo <strong>display:inline-tabel</strong> přidać. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

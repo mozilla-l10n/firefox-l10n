@@ -210,13 +210,20 @@ cfr-doorhanger-cryptominers-description = Waša priwatnosć je wažna. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowak wot { $date } zablokował!
         [two] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowakaj wot { $date } zablokował!
         [few] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowaki wot { $date } zablokował!
        *[other] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowakow wot { $date } zablokował!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } je wot { DATETIME($date, month: "long", year: "numeric") } wjace hač <b>{ $blockedCount }</b> přesćěhowak zablokował!
+        [two] { -brand-short-name } je wot { DATETIME($date, month: "long", year: "numeric") } wjace hač <b>{ $blockedCount }</b> přesćěhowakaj zablokował!
+        [few] { -brand-short-name } je wot { DATETIME($date, month: "long", year: "numeric") } wjace hač <b>{ $blockedCount }</b> přesćěhowaki zablokował!
+       *[other] { -brand-short-name } je wot { DATETIME($date, month: "long", year: "numeric") } wjace hač <b>{ $blockedCount }</b> přesćěhowakow zablokował!
     }
 cfr-doorhanger-milestone-ok-button = Wšě pokazać
     .accesskey = k
@@ -300,3 +307,7 @@ cfr-whatsnew-supercookies-body = Websydła móža skradźu wašemu wobhladowakej
 
 cfr-whatsnew-bookmarking-header = Lěpše rjadowanje zapołožkow
 cfr-whatsnew-bookmarking-body = Je lóšo, přehlad nad wašimi najlubšimi sydłami wobchować. { -brand-short-name } sej nětko waše preferowane městno za składowane zapołožki spomjatkuje, pokazuje symbolowu lajstu zapołožkow po standardźe na nowych rajtarkach a da wam lochki přistup k zbytkej wašich zapołožkow přez rjadowak symboloweje lajsty.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Wobšěrny škit přećiwo slědowanju přez placki wjacorych sydłow
