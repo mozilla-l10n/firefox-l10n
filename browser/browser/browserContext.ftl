@@ -19,6 +19,12 @@ navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = عُد للخلف صفحة واحدة ({ $shortcut })
+    .aria-label = السابق
+    .accesskey = س
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
