@@ -297,3 +297,4 @@ cfr-whatsnew-bookmarking-body = Yeshel maḍi ad teǧǧeḍ lateṛ n yismal-ik�
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Ammesten ummid mgal aḍfar n yinagan n tuqqna gar yismal
+cfr-whatsnew-cross-site-tracking-body = Tzemreḍ tura ad tferneḍ ammesten yufraren mgal aḍfar n yinagan n tuqqna. { -brand-short-name }  yezmer ad d-yeεzel tigawin-inek·inem d yisefka ɣef usmel ideg telliḍ imir-nni akken talɣut yettukelsen deg yiminig ur tettwabḍu ara gar yismal web.
