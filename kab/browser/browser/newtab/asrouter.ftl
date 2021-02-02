@@ -200,11 +200,16 @@ cfr-doorhanger-cryptominers-description = Aqadeṛ n tudert-ik tusligt d ayen me
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } iwḥel i { $blockedCount }</b> uneḍfar seg
        *[other] { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } yettusewḥel ugar n <b>{ $blockedCount }</b>uneḍfar seg { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } ttusweḥlen ugar n <b>{ $blockedCount }</b> yineḍfaren seg { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Wali akk
     .accesskey = W
@@ -288,3 +293,6 @@ cfr-whatsnew-supercookies-body = Ismal web zemren s tuffra ad seddun “supercoo
 
 cfr-whatsnew-bookmarking-header = Acraḍ n yisebter ifazen
 cfr-whatsnew-bookmarking-body = Yeshel maḍi ad teǧǧeḍ lateṛ n yismal-ik·im ufrinen. { -brand-short-name } tura yecfa ɣef adig-inek·inem yettwafernen i ticraḍ n yisebtar yettuskelsen, yeskan afeggag n yifecka n tecraḍ n yisebtar s wudem amezwer deg waccaren imaynuten, yerna ad ak·am-imudd anekcum fessusen ɣer ticraḍ n yisebtar-ik·im srid seg ukaram n ufeggag n yifecka.
+
+## What's new: Cross-site cookie tracking
+
