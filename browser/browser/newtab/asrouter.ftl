@@ -206,10 +206,14 @@ cfr-doorhanger-cryptominers-description = Ditt personvern betyr noe. { -brand-sh
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } har blokkert over <b>{ $blockedCount }</b> sporere siden { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } blokkerte over <b>{ $blockedCount }</b>sporere siden { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = s
@@ -293,3 +297,6 @@ cfr-whatsnew-supercookies-body = Nettsteder kan i hemmelighet legge til en «sup
 
 cfr-whatsnew-bookmarking-header = Bedre bokmerking
 cfr-whatsnew-bookmarking-body = Det er lettere å holde oversikt over favorittsidene dine. { -brand-short-name } husker nå ønsket sted for lagrede bokmerker, viser bokmerkeverktøylinjen som standard på nye faner og gir deg enkel tilgang til resten av bokmerkene dine via en verktøylinjemappe.
+
+## What's new: Cross-site cookie tracking
+
