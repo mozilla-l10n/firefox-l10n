@@ -31,6 +31,7 @@ perftools-description-intro =
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Azilal n ulemmec:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
