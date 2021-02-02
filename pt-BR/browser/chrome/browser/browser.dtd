@@ -86,7 +86,7 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "tem controle de seu ponteiro. Pressione Esc para retomar o controle.">
+<!ENTITY pointerlockWarning.afterDomain.label "tem controle de seu ponteiro. Tecle Esc para retomar o controle.">
 <!ENTITY pointerlockWarning.generic.label "Este documento tem o controle do seu ponteiro. Pressionar Esc para retomar o controle.">
 
 <!ENTITY showAllBookmarks2.label "Mostrar todos os favoritos">
