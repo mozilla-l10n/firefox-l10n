@@ -34,6 +34,12 @@ navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = Leathanach amháin ar aghaidh ({ $shortcut })
+    .aria-label = Ar Aghaidh
+    .accesskey = A
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
