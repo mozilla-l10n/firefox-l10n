@@ -83,6 +83,7 @@ login-item-new-login-title = Жаңа логинді жасау
 login-item-edit-button = Түзету
 about-logins-login-item-remove-button = Өшіру
 login-item-origin-label = Веб-сайт адресі
+login-item-tooltip-message = Бұл сіз кірген веб-сайттың нақты адресіне сәйкес келетініне көз жеткізіңіз.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Пайдаланушы аты
@@ -181,6 +182,10 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] Барлық { $count } логинді өшіру керек пе?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] { $count } логинді барлық құрылғылардан өшіру керек пе?
     }
 about-logins-confirm-export-dialog-title = Логиндер және парольдерді экспорттау
 about-logins-confirm-export-dialog-message = Парольдеріңіз ашық, оқуға келетін мәтін ретінде сақталатын болады (мыс., BadP@ssw0rd) сондықтан экспортталған файлды аша алатын адам оларды көре алады.
