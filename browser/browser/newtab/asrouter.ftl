@@ -196,10 +196,14 @@ cfr-doorhanger-cryptominers-description = 개인 정보는 중요합니다. { -b
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name }가 { $date } 이후 <b>{ $blockedCount }</b>개 이상의 추적기를 차단했습니다!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name }가 { DATETIME($date, month: "long", year: "numeric") } 이후 <b>{ $blockedCount }</b>개 이상의 추적기를 차단했습니다!
     }
 cfr-doorhanger-milestone-ok-button = 모두 보기
     .accesskey = S
@@ -283,3 +287,8 @@ cfr-whatsnew-supercookies-body = 웹 사이트는 사용자가 쿠키를 지운 
 
 cfr-whatsnew-bookmarking-header = 더 나은 북마크
 cfr-whatsnew-bookmarking-body = 즐겨찾는 사이트를 더 쉽게 추적할 수 있습니다. 이제 { -brand-short-name }는 저장된 북마크의 선호 위치를 기억하고, 새 탭에 북마크 도구 모음을 기본적으로 표시하며, 도구 모음 폴더를 통해 나머지 북마크에 쉽게 액세스할 수 있습니다.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = 교차 사이트 쿠키 추적으로부터 포괄적인 보호
+cfr-whatsnew-cross-site-tracking-body = 이제 쿠키 추적으로부터 더 나은 보호를 선택할 수 있습니다. { -brand-short-name }는 활동과 데이터를 현재 사이트로 분리하여 브라우저에 저장된 정보가 웹 사이트간에 공유되지 않도록 합니다.

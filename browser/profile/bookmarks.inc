@@ -47,7 +47,7 @@
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-#define bugzilla Mozilla 버그 트래커
+#define bugzilla Mozilla 버그 추적기
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
@@ -60,10 +60,6 @@
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
 #define crashes 모든 충돌 정보
-
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc IRC에서 Nightly 토론
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
