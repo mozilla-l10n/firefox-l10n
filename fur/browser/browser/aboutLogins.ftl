@@ -307,6 +307,12 @@ about-logins-import-dialog-error-file-format-title = Probleme di formât file
 about-logins-import-dialog-error-file-format-description = A mancjin, o no son justis, lis Intestazions di colone. Siguriti che il file al includi lis colonis pal non utent, pe password e pal URL.
 about-logins-import-dialog-error-file-permission-title = Impussibil lei il file
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nol à il permès par lei il file. Prove a cambiâ i permès dal file.
+about-logins-import-dialog-error-unable-to-read-title = Impussibil analizâ il file
+about-logins-import-dialog-error-unable-to-read-description = Siguriti di selezionâ un file CSV o TSV.
+about-logins-import-dialog-error-no-logins-imported = No je stade impuartade nissune credenziâl
+about-logins-import-dialog-error-learn-more = Par savê di plui
+about-logins-import-dialog-error-try-again = Torne prove…
+about-logins-import-dialog-error-cancel = Anule
 
 ## Logins import report page
 
