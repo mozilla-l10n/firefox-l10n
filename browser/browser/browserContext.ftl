@@ -9,12 +9,20 @@ main-context-menu-back =
     .tooltiptext = Buyela emva ikhasi linye
     .aria-label = Emva
     .accesskey = E
-
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
-
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = Buyela emva ikhasi linye ({ $shortcut })
+    .aria-label = Emva
+    .accesskey = E
+navbar-tooltip-back-2 =
+    .value = { main-context-menu-back-2.tooltiptext }
+toolbar-button-back-2 =
+    .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
 
@@ -22,19 +30,26 @@ main-context-menu-forward =
     .tooltiptext = Iya phambili ikhasi linye
     .aria-label = Phambili
     .accesskey = P
-
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
-
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = Iya phambili ikhasi linye ({ $shortcut })
+    .aria-label = Phambili
+    .accesskey = P
+navbar-tooltip-forward-2 =
+    .value = { main-context-menu-forward-2.tooltiptext }
+toolbar-button-forward-2 =
+    .label = { main-context-menu-forward-2.aria-label }
 
 ## Reload
 
 main-context-menu-reload =
     .aria-label = Layitjha godu
     .accesskey = L
-
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -43,7 +58,6 @@ toolbar-button-reload =
 main-context-menu-stop =
     .aria-label = Jama
     .accesskey = J
-
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -57,7 +71,6 @@ toolbar-button-stop-reload =
 main-context-menu-page-save =
     .label = Yonga ikhasi njenge...
     .accesskey = P
-
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -66,11 +79,9 @@ toolbar-button-page-save =
 main-context-menu-open-link-new-tab =
     .label = Vula ihlanganiso kusitjhidiso esitjha
     .accesskey = V
-
 main-context-menu-open-link-new-window =
     .label = Vula ihlanganiso kufasidere elitjha
     .accesskey = K
-
 main-context-menu-save-link =
     .label = Yonga ihlanganiso njenge...
     .accesskey = i
@@ -82,7 +93,6 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopa isiphande se-Imeyili
     .accesskey = I
-
 main-context-menu-copy-link =
     .label = Kopa indawo yehlanganiso
     .accesskey = K
@@ -106,80 +116,60 @@ main-context-menu-copy-link =
 main-context-menu-image-view =
     .label = Bona isithombe
     .accesskey = I
-
 main-context-menu-image-copy =
     .label = Kopa isithombe
     .accesskey = k
-
 main-context-menu-image-copy-location =
     .label = Kopa indawo yesithombe
     .accesskey = k
-
 main-context-menu-image-save-as =
     .label = Yonga isithombe njenge...
     .accesskey = y
-
 main-context-menu-image-set-as-background =
     .label = Yakha njengemuva le-Desktop...
     .accesskey = Y
-
 main-context-menu-view-background-image =
     .label = Bona ingemuva lesithombe
     .accesskey = b
-
 main-context-menu-keyword =
     .label = Ngeza ibizo elisihlokwana kurhubhululweli...
     .accesskey = I
-
 main-context-menu-frame =
     .label = Ifremu Le
     .accesskey = l
-
 main-context-menu-frame-show-this =
     .label = Tjengisa iphahleli kwaphela
     .accesskey = t
-
 main-context-menu-frame-open-tab =
     .label = Vula iphahla kusitjhidisi esitjha
     .accesskey = V
-
 main-context-menu-frame-open-window =
     .label = Vula iphahla kufasidere elitjha
     .accesskey = V
-
 main-context-menu-frame-reload =
     .label = Layitjha iphahla godu
     .accesskey = L
-
 main-context-menu-frame-save-as =
     .label = Yonga ifremu njenge...
     .accesskey = F
-
 main-context-menu-frame-view-source =
     .label = Bona iphahla lomthombo
     .accesskey = B
-
 main-context-menu-frame-view-info =
     .label = Bona iphahla lemininingwana
     .accesskey = b
-
 main-context-menu-view-selection-source =
     .label = Bona umthombo wekhetho
     .accesskey = e
-
 main-context-menu-view-page-source =
     .label = Bona ikhasi lomthombo
     .accesskey = B
-
 main-context-menu-view-page-info =
     .label = Bona ikhasi lemininingwana
     .accesskey = B
-
 main-context-menu-bidi-switch-text =
     .label = Tjhugulula indlela yomtlolo
     .accesskey = t
-
 main-context-menu-bidi-switch-page =
     .label = Tjhugulula indlela Yekhasi
     .accesskey = y
-
