@@ -266,13 +266,13 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Ներմուծումն ավարտվեց
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span>Նոր մուտքագրում է ավելացվել.</span><span data-l10n-name="count">
-       *[other] <span>Նոր մուտքագրումներ են ավելացվել.</span><span data-l10n-name="count">
+        [one] <span>Նոր մուտքագրում է ավելացվել.</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Նոր մուտքագրումներ են ավելացվել.</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Առկա մուտքագրում է թարմացվել.</span><span data-l10n-name="count">
-       *[other] <span>Առկա մուտքագրումներ են թարմացվել.</span><span data-l10n-name="count">
+        [one] <span>Առկա մուտքագրում է թարմացվել.</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Առկա մուտքագրումներ են թարմացվել.</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-done = Պատրաստ է
 about-logins-import-dialog-error-title = Ներմուծման սխալ
