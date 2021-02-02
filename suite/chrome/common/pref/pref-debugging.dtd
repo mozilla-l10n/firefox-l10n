@@ -17,19 +17,24 @@
 <!ENTITY debugEvents.label "Eventos">
 <!ENTITY debugPaintFlashing.label "Pintado intermitente (permuta el bloqueo de mayúsculas)">
 <!ENTITY debugPaintFlashing.accesskey "P">
+<!ENTITY debugPaintFlashingChrome.label "Pintar chrome intermitente">
 <!ENTITY debugPaintFlashingChrome.accesskey "F">
+<!ENTITY debugPaintDumping.label "Volcado de pintura">
 <!ENTITY debugPaintDumping.accesskey "a">
 <!ENTITY debugInvalidateDumping.label "Invalidar volcado">
 <!ENTITY debugInvalidateDumping.accesskey "n">
 <!ENTITY debugEventDumping.label "Volcado de eventos">
 <!ENTITY debugEventDumping.accesskey "E">
+<!ENTITY debugMotionEventDumping.label "Volcado de eventos de movimiento">
 <!ENTITY debugMotionEventDumping.accesskey "M">
+<!ENTITY debugCrossingEventDumping.label "Volcado de eventos cruzados">
 <!ENTITY debugCrossingEventDumping.accesskey "C">
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowEvents.label                 "Reenviar eventos">
 <!ENTITY debugReflowShowFrameCounts.label        "Mostrar recuentos de marcos">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "S">
+<!ENTITY debugReflowDumpFrameCounts.label        "Conteo de marcos de volcado">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
 <!ENTITY debugReflowDumpFrameByFrameCounts.label "Volcado de recuentos cuadro a cuadro">
 <!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
