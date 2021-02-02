@@ -291,3 +291,4 @@ cfr-whatsnew-bookmarking-body = 更轻松地追踪您喜爱的网站。{ -brand-
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = 全面的跨网站 Cookie 跟踪保护
+cfr-whatsnew-cross-site-tracking-body = 现在起，您可以更好地保护自己不受 Cookie 跟踪。{ -brand-short-name } 可将您在不同网站上的活动与数据相互分隔，杜绝浏览器中存储的信息在网站间共享。
