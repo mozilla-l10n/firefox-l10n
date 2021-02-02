@@ -377,15 +377,14 @@ addon-detail-private-browsing-disallow = Ur ttaǧǧa ara
 addon-badge-recommended2 =
     .title = { -brand-product-name } ur ittwelleh ala isiɣzaf yemṣadan d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Aseɣzaf-a yettwarna sɣur ameslal n { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Asiɣzef-a yettusenqed ɣef teɣzint n tɣellist
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Asiɣzef-a unṣib i bnan imesnulfuyen n { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Asiɣzef unṣib tebna Mozila. Iteddu d yilugan n tɣellist d temlellit.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Asiɣzef-a yettusenqed i wakken ara yemṣada d yilugan-nneɣ icudden ɣer tɣellist akked timellit.
     .aria-label = { addon-badge-verified2.title }
