@@ -203,7 +203,7 @@ containers-remove-cancel-button = Niy wyciepuj tego kōntynera
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Godki i wyglōnd
-fonts-and-colors-header = Fonty i farby
+fonts-and-colors-header = Fōnty i farby
 default-font = Bazowy fōnt
     .accesskey = B
 default-font-size = Srogość
@@ -215,8 +215,8 @@ colors-settings =
     .label = Farby…
     .accesskey = F
 # Zoom is a noun, and the message is used as header for a group of options
-preferences-zoom-header = Zwiynkszanie
-preferences-default-zoom = Bazowe zwiynkszynie
+preferences-zoom-header = Srogość strōn
+preferences-default-zoom = Wychodno srogość
     .accesskey = z
 preferences-default-zoom-value =
     .label = { $percentage }%
@@ -246,7 +246,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Formatuj data, czasy, nōmery i miary podug nasztalowań do godki: “{ $localeName }” z twojigo ôperacyjnego systymu.
+    .label = Formatuj data, czasy, nōmery i miary podug nasztalowań do godki: „{ $localeName }” z twojigo ôperacyjnego systymu.
 check-user-spelling =
     .label = Przi pisaniu miyj tekst przeglōndany za felerami
     .accesskey = t
