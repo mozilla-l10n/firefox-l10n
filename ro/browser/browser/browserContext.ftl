@@ -19,6 +19,16 @@ navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = Înapoi cu o pagină ({ $shortcut })
+    .aria-label = Înapoi
+    .accesskey = B
+navbar-tooltip-back-2 =
+    .value = { main-context-menu-back-2.tooltiptext }
+toolbar-button-back-2 =
+    .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
 
@@ -30,6 +40,16 @@ navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = Înainte cu o pagină ({ $shortcut })
+    .aria-label = Înainte
+    .accesskey = F
+navbar-tooltip-forward-2 =
+    .value = { main-context-menu-forward-2.tooltiptext }
+toolbar-button-forward-2 =
+    .label = { main-context-menu-forward-2.aria-label }
 
 ## Reload
 
