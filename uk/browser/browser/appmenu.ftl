@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Довідка { -brand-shorter-name }
 appmenu-about =
     .label = Про { -brand-shorter-name }
     .accesskey = о
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Комбінації клавіш
     .accesskey = К
+appmenu-get-help =
+    .label = Отримати допомогу
+    .accesskey = д
 appmenu-help-troubleshooting-info =
     .label = Вирішення проблем
     .accesskey = В
