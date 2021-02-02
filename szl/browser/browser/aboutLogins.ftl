@@ -29,7 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importuj z inkszyj przeglōndarki…
 about-logins-menu-menuitem-import-from-a-file = Importuj ze zbioru…
 about-logins-menu-menuitem-export-logins = Eksportuj loginy…
-about-logins-menu-menuitem-remove-all-logins = Wyciep wszyskie dane logowanio
+about-logins-menu-menuitem-remove-all-logins = Wymaż wszyske dane logowanio
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ôpcyje
@@ -174,7 +174,7 @@ about-logins-confirm-remove-dialog-confirm-button = Skasuj
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Skasuj
-       *[other] Skasuj wszyskie
+       *[other] Skasuj wszyske
     }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
@@ -326,3 +326,6 @@ about-logins-import-dialog-error-no-logins-imported = Żodne dane logowanio niy 
 about-logins-import-dialog-error-learn-more = Przewiydz sie wiyncyj
 about-logins-import-dialog-error-try-again = Sprōbuj jeszcze roz…
 about-logins-import-dialog-error-cancel = Pociep
+
+## Logins import report page
+

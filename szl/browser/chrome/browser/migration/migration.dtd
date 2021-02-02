@@ -38,11 +38,11 @@
 <!ENTITY noMigrationSources.label       "Niy ma znodniynto żodno przeglōndarka, co by miała zokłodki, historyjo abo hasła.">
 
 <!ENTITY importSource.title             "Importuj nasztalowania i dane">
-<!ENTITY importItems.title              "Elymynty do importowanio">
-<!ENTITY importItems.label              "Ôbier, jakie elymynty chcesz importować:">
+<!ENTITY importItems.title              "Elymynta do importowanio">
+<!ENTITY importItems.label              "Ôbier, jakie elymynta chcesz importować:">
 
 <!ENTITY migrating.title                "Import…">
-<!ENTITY migrating.label                "Te elymynty sōm prawie importowane…">
+<!ENTITY migrating.label                "Te elymynta sōm prawie importowane…">
 
 <!ENTITY selectProfile.title            "Ôbier profil">
 <!ENTITY selectProfile.label            "Te profile idzie importować:">

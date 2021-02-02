@@ -38,10 +38,9 @@ this container is a toolbar. This avoids double-speaking. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Zokłodki">
-<!ENTITY bookmarksToolbarItem.label "Elymynty ze poska z zokłodkami">
+<!ENTITY bookmarksToolbarItem.label "Elymynta ze poska z zokłodkami">
 
 <!ENTITY fullScreenCmd.label "Cołki ekran">
-
 
 <!ENTITY pictureInPictureHideToggle.label "Skryj szalter ôbrazu we ôbrozie">
 <!ENTITY pictureInPictureHideToggle.accesskey "S">
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Nasztalowania usugi &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Połōncz inkszo maszina…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Wloguj do aplikacyje &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Załōncz usuga &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.firefoxServices.label "Usugi aplikacyje &brandProductName;">
@@ -218,17 +216,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Spamiyntej strōna w usudze Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Wykoz usugi Pocket">
 
 <!ENTITY emailPageCmd.label           "Poślij link emailym…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zwiynkszynie">
 
@@ -254,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Przidej dykcjōnorze…">
 <!ENTITY spellAddDictionaries.accesskey "P">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
