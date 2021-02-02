@@ -287,6 +287,21 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Gnovis credenziâls zontadis:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Credenziâls esistentis inzornadis:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Cjatadis credenziâls doplis::</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no impuartadis)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Erôrs:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no impuartadis)</span>
+    }
+about-logins-import-dialog-done = Fat
+about-logins-import-dialog-error-title = Erôr di importazion
+about-logins-import-dialog-error-conflicting-values-title = Plui valôrs in conflit par une credenziâl
 
 ## Logins import report page
 
