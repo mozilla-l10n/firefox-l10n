@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Adjuta de { -brand-shorter-name }
 appmenu-about =
     .label = A proposito de { -brand-shorter-name }
     .accesskey = p
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Claves de accesso directe
     .accesskey = C
+appmenu-get-help =
+    .label = Obtener adjuta
+    .accesskey = a
 appmenu-help-troubleshooting-info =
     .label = Informationes de diagnostico
     .accesskey = I

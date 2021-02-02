@@ -104,3 +104,4 @@ experimental-features-http3-description = Supporto experimental pro le protocoll
 # Search during IME
 experimental-features-ime-search =
     .label = Barra de adresse: monstrar resultatos durante le composition IME
+experimental-features-ime-search-description = Un IME (Redactor de methodo de input) es un utensile que te consenti scriber symbolos complexe, tal como illos usate in linguas scribite est asiatic o indic, per un claviero standard. Iste experimento tenera aperte le pannello del barra de adresse con le resultatos e suggestiones de recerca e le empleo de IME pro scriber le texto. Nota que le IME pote monstrar un quadro que coperi le resultatos del barra de adresse, dunque iste preferentia es solo suggerite pro IME non per le iste typo de quadro.
