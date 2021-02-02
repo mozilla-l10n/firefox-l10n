@@ -19,6 +19,12 @@ navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন ({ $shortcut })
+    .aria-label = পূর্ববর্তী
+    .accesskey = B
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -34,6 +40,12 @@ navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন ({ $shortcut })
+    .aria-label = পরবর্তী
+    .accesskey = F
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
