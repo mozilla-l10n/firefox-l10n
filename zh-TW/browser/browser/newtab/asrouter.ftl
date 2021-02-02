@@ -196,10 +196,14 @@ cfr-doorhanger-cryptominers-description = 您的隱私相當重要。{ -brand-sh
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] 從 { $date } 起，{ -brand-short-name } 已封鎖超過 <b>{ $blockedCount }</b> 組追蹤器！
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] 自 { DATETIME($date, day: "numeric", month: "long", year: "numeric") } 起，{ -brand-short-name } 已封鎖超過 <b>{ $blockedCount }</b> 組追蹤器！
     }
 cfr-doorhanger-milestone-ok-button = 檢視全部
     .accesskey = S
@@ -283,3 +287,8 @@ cfr-whatsnew-supercookies-body = 某些網站會偷偷將「超級 Cookie」插�
 
 cfr-whatsnew-bookmarking-header = 書籤功能更完善
 cfr-whatsnew-bookmarking-body = 很簡單就能追蹤您最愛的網站。{ -brand-short-name } 現在起會記住您儲存書籤的偏好位置、在新分頁預設顯示書籤工具列，並且讓您透過工具列中的資料夾快速開啟其他書籤。
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = 全面保護您不受跨網站 Cookie 追蹤
+cfr-whatsnew-cross-site-tracking-body = 現在起，您可以選擇開啟更強大的保護功能，保護您不被 Cookie 追蹤。{ -brand-short-name } 可分別隔離您在不同網站上的行為與資料，讓資料不會在網站間流傳。

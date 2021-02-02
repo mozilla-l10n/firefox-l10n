@@ -98,6 +98,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } 說明
 appmenu-about =
     .label = 關於 { -brand-shorter-name }
     .accesskey = A
@@ -113,6 +115,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = 快速鍵
     .accesskey = K
+appmenu-get-help =
+    .label = 取得幫助
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = 疑難排解資訊
     .accesskey = T
