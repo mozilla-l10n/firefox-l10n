@@ -27,7 +27,9 @@ menu =
     .title = Բացել ցանկը
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Ներմուծել այլ դիտարկիչից...
+about-logins-menu-menuitem-import-from-a-file = Ներմուծել ֆայլից…
 about-logins-menu-menuitem-export-logins = Մուտքագրումների արտահանում…
+about-logins-menu-menuitem-remove-all-logins = Հեռացնել բոլոր մուտքագրումները…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ընտրանքներ
@@ -67,6 +69,7 @@ about-logins-list-item-vulnerable-password-icon =
 ## Introduction screen
 
 login-intro-heading = Փնտրո՞ւմ եք ձեր պահպանված մուտքագրումները: Տեղակայեք { -sync-brand-short-name }-ը:
+about-logins-login-intro-heading-logged-out = Փնտրո՞ւմ եք ձեր պահպանած մուտքագրումները: Տեղակայեք { -sync-brand-short-name }-ը կամ ներմուծեք դրանք:
 about-logins-login-intro-heading-logged-in = Համաժամեցված մուտք չի գտնվել:
 login-intro-description = Եթե պահպանել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
 login-intro-instruction-fxa = Ստեղծեք կամ մուտք գործեք { -fxaccount-brand-name } այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են
@@ -165,9 +168,28 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողությունը չի կարող ետարկվել:
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Հեռացնել
+        [one] Հեռացնել բոլորը
+       *[other] Հեռացնել բոլորը
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Այո, հեռացնել այս մուտքագրումը
+        [one] Այո, հեռացնել այս մուտքագրումները
+       *[other] Այո, հեռացնել այս մուտքագրումները
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Հեռացնե՞լ բոլոր { $count } մուտքագրումը:
+       *[other] Հեռացնե՞լ բոլոր { $count } մուտքագրումները:
+    }
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանունները և գաղտնաբառերը
 about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կպահպանվեն որպես ընթեռնելի տեքստ (օր. ՝ BadP@ssw0rd), այնպես որ յուրաքանչյուրը, ով կարող է բացել արտահանվող ֆայլը, կարող է դիտել դրանք:
 about-logins-confirm-export-dialog-confirm-button = Արտահանել...
+about-logins-alert-import-title = Ներմուծումն ավարտվեց
+about-logins-alert-import-message = Դիտեք ներմուծման մանրամասն ամփոփագիրը
 confirm-discard-changes-dialog-title = Վերանայե՞լ չփրկված փոփոխությունները:
 confirm-discard-changes-dialog-message = Բոլոր չպահպանված փոփոխությունները կկորչեն:
 confirm-discard-changes-dialog-confirm-button = Մերժել
@@ -218,4 +240,45 @@ about-logins-export-file-picker-csv-filter-title =
     }
 
 ## Login Import Dialog
+
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Ներմուծեք մուտքագրման ֆայլը
+about-logins-import-file-picker-import-button = Ներմուծել
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV փաստաթուղթ
+       *[other] CSV ֆայլ
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV փաստաթուղթ
+       *[other] TSV ֆայլ
+    }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-title = Ներմուծումն ավարտվեց
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Նոր մուտքագրում է ավելացվել.</span><span data-l10n-name="count">
+       *[other] <span>Նոր մուտքագրումներ են ավելացվել.</span><span data-l10n-name="count">
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Առկա մուտքագրում է թարմացվել.</span><span data-l10n-name="count">
+       *[other] <span>Առկա մուտքագրումներ են թարմացվել.</span><span data-l10n-name="count">
+    }
+about-logins-import-dialog-done = Պատրաստ է
+about-logins-import-dialog-error-title = Ներմուծման սխալ
+about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ ֆայլը
+about-logins-import-dialog-error-no-logins-imported = Ոչ մի մուտքագրում չի ներմուծվել
+about-logins-import-dialog-error-learn-more = Իմանալ ավելին
+
+## Logins import report page
 
