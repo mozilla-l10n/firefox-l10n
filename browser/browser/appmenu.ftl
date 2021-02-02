@@ -97,6 +97,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = עזרה עבור { -brand-shorter-name }
 appmenu-about =
     .label = על אודות { -brand-shorter-name }
     .accesskey = א
@@ -112,6 +114,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = קיצורי מקלדת
     .accesskey = ק
+appmenu-get-help =
+    .label = קבלת עזרה
+    .accesskey = ע
 appmenu-help-troubleshooting-info =
     .label = מידע לפתרון בעיות
     .accesskey = מ
