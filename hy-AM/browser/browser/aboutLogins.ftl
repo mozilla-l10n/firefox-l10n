@@ -279,6 +279,8 @@ about-logins-import-dialog-error-title = Ներմուծման սխալ
 about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ ֆայլը
 about-logins-import-dialog-error-no-logins-imported = Ոչ մի մուտքագրում չի ներմուծվել
 about-logins-import-dialog-error-learn-more = Իմանալ ավելին
+about-logins-import-dialog-error-try-again = Կրկին փորձել
+about-logins-import-dialog-error-cancel = Չեղարկել
 
 ## Logins import report page
 

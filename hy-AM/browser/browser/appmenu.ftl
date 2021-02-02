@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Նոր Պատուհան
 appmenuitem-new-private-window =
     .label = Սկսել Գաղտնի դիտարկում
+appmenuitem-passwords =
+    .label = Գաղտնաբառեր
+appmenuitem-extensions-and-themes =
+    .label = Ընդլայնումներ և Ոճեր
+appmenuitem-find-in-page =
+    .label = Գտնել էջում…
+appmenuitem-more-tools =
+    .label = Լրացուցիչ գործիքներ
+appmenuitem-exit =
+    .label = Փակել
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Կարգավորումներ
 
 ## Zoom and Fullscreen Controls
 
@@ -42,6 +56,39 @@ whatsnew-panel-header = Ինչն է նոր
 whatsnew-panel-footer-checkbox =
     .label = Ծանուցել նոր հնարավորությունների մասին
     .accesskey = f
+
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-learn-more = Իմանալ ավելին
+profiler-popup-settings =
+    .value = Կարգավորումներ
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Խմբագրել կարգավորումները…
+profiler-popup-recording-screen = Գրանցում...
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Հարմարեցված
+profiler-popup-start-recording-button =
+    .label = Սկսել
+profiler-popup-discard-button =
+    .label = Մերժել
+profiler-popup-capture-button =
+    .label = Կորզել
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
@@ -89,3 +136,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Ստուգել թարմացումները...
