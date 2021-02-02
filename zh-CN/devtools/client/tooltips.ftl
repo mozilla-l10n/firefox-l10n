@@ -30,6 +30,7 @@ inactive-text-overflow-when-no-overflow = 由于未设置 <strong>overflow:hidde
 inactive-outline-radius-when-outline-style-auto-or-none = 由于此元素的 <strong>outline-style</strong> 是 <strong>auto</strong> 或 <strong>none</strong>，<strong>{ $property }</strong> 对此元素没有影响。
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 对内部表格元素无影响。
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> 对内部表格元素（表格单元格除外）无影响。
+inactive-css-not-table = 由于不是表格项目，<strong>{ $property }</strong> 对此元素无效。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
