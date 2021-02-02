@@ -271,3 +271,4 @@ cfr-whatsnew-bookmarking-body = קל יותר לעקוב אחר האתרים ה�
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = הגנה מקיפה מפני מעקב אחר עוגיות חוצות אתרים
