@@ -206,10 +206,14 @@ cfr-doorhanger-cryptominers-description = Your privacy matters. { -brand-short-n
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } blocked over <b>{ $blockedCount }</b> trackers since { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } blocked over <b>{ $blockedCount }</b> trackers since { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = See All
     .accesskey = S
@@ -293,3 +297,8 @@ cfr-whatsnew-supercookies-body = Web sites can secretly attach a “supercookie�
 
 cfr-whatsnew-bookmarking-header = Better bookmarking
 cfr-whatsnew-bookmarking-body = It’s easier to keep track of your favourite sites. { -brand-short-name } now remembers your preferred location for saved bookmarks, shows the bookmarks toolbar by default on new tabs, and gives you easy access to the rest of your bookmarks via a toolbar folder.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Comprehensive protection from cross-site cookie tracking
+cfr-whatsnew-cross-site-tracking-body = You can now opt in to better protection from cookie tracking. { -brand-short-name } can isolate your activities and data to the site you’re currently on so information stored in the browser isn’t shared between web sites.
