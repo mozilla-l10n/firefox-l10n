@@ -19,6 +19,10 @@ navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+navbar-tooltip-back-2 =
+    .value = { main-context-menu-back-2.tooltiptext }
+toolbar-button-back-2 =
+    .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
 
@@ -30,6 +34,10 @@ navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+navbar-tooltip-forward-2 =
+    .value = { main-context-menu-forward-2.tooltiptext }
+toolbar-button-forward-2 =
+    .label = { main-context-menu-forward-2.aria-label }
 
 ## Reload
 
