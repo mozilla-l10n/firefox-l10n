@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = у
     .secondarybuttonlabel = Қазір емес
     .secondarybuttonaccesskey = м
+appmenu-update-other-instance-message = Жаңа { -brand-shorter-name } жаңартуы бар, бірақ оны орнату мүмкін емес, себебі { -brand-shorter-name } басқа көшірмесі жұмыс істеп тұр. Жаңартуды жалғастыру үшін оны жабыңыз немесе сонда да жаңартуды таңдаңыз (басқа көшірме оны қайта іске қосқанға дейін дұрыс жұмыс істемеуі мүмкін).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Жақсы, түсіндім
     .buttonaccesskey = а
