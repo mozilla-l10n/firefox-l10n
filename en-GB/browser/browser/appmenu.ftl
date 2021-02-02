@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } Help
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Keyboard Shortcuts
     .accesskey = K
+appmenu-get-help =
+    .label = Get Help
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = Troubleshooting Information
     .accesskey = T
