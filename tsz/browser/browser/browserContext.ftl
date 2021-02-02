@@ -13,17 +13,23 @@ navbar-tooltip-instruction =
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
-
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+navbar-tooltip-back-2 =
+    .value = { main-context-menu-back-2.tooltiptext }
+toolbar-button-back-2 =
+    .label = { main-context-menu-back-2.aria-label }
 
 ## Forward
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
-
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+navbar-tooltip-forward-2 =
+    .value = { main-context-menu-forward-2.tooltiptext }
+toolbar-button-forward-2 =
+    .label = { main-context-menu-forward-2.aria-label }
 
 ## Reload
 
@@ -45,7 +51,6 @@ toolbar-button-stop-reload =
 main-context-menu-page-save =
     .label = Patsani esïka…
     .accesskey = P
-
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
@@ -54,11 +59,9 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = Mítani parhijtsïkutarakua
     .accesskey = M
-
 main-context-menu-bookmark-this-link =
     .label = kuparatani ini ch'unkutaramakuani
     .accesskey = L
-
 main-context-menu-save-link =
     .label = Patsani parhijtsïkutarakua esïka…
     .accesskey = P
@@ -90,80 +93,60 @@ main-context-menu-media-unmute =
 main-context-menu-media-video-leave-fullscreen =
     .label = Sapinharhitant'ani
     .accesskey = S
-
 main-context-menu-image-reload =
     .label = Eratikuani uininharhitantsï
     .accesskey = E
-
 main-context-menu-image-view =
     .label = Eratekua exe
     .accesskey = E
-
 main-context-menu-image-save-as =
     .label = Arisï patsani p´itakatani…
     .accesskey = A
-
 main-context-menu-image-set-as-background =
     .label = Jimini tatsunharitantsï…
     .accesskey = J
-
 main-context-menu-image-info =
     .label = Arhintsï í eratikueri ampe
     .accesskey = A
-
 main-context-menu-video-email =
     .label = Email Video…
     .accesskey = a
-
 main-context-menu-plugin-play =
     .label = Íni ánxitarakuani úra
     .accesskey = Í
-
 main-context-menu-plugin-hide =
     .label = Ojchakuera ini anchikurhitarakuani
     .accesskey = O
-
 main-context-menu-frame =
     .label = Antiku anamutakua
     .accesskey = a
-
 main-context-menu-frame-reload =
     .label = Eratikuani uininharhitantsï
     .accesskey = E
-
 main-context-menu-frame-bookmark =
     .label = Kuparatani ini anchitarakuechani
     .accesskey = K
-
 main-context-menu-frame-save-as =
     .label = Patsani anamutakua esïka…
     .accesskey = P
-
 main-context-menu-frame-print =
     .label = Uechatantani…
     .accesskey = U
-
 main-context-menu-frame-view-source =
     .label = Nanina ukata jarhaski i
     .accesskey = N
-
 main-context-menu-frame-view-info =
     .label = %Arhintsï iri ampe
     .accesskey = I
-
 main-context-menu-view-selection-source =
     .label = Exe i ampe nani ueraski
     .accesskey = e
-
 main-context-menu-view-page-source =
     .label = Nanina karakata jarhaski i
     .accesskey = V
-
 main-context-menu-view-page-info =
     .label = Arhintsï iri ampe
     .accesskey = A
-
 main-context-menu-inspect-element =
     .label = Miyunharikuntsï orheta
     .accesskey = Q
-
