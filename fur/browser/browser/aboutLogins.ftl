@@ -226,20 +226,67 @@ about-logins-breach-alert-learn-more-link = Par savê di plui
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Password vulnerabile
+about-logins-vulnerable-alert-text2 = Cheste password e je stade doprade suntun altri account che cun probabilitât al è stât cjapât dentri intune violazion di dâts. Tornâ a doprâ lis credenziâls al met a risi ducj i tiei accounts. Cambie cheste password.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Va su { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Par savê di plui
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = E esist za une vôs par { $loginTitle } cun chel non utent. <a data-l10n-name="duplicate-link">Lâ ae vôs esistente?</a>
+# This is a generic error message.
+about-logins-error-message-default = Al è capitât un erôr intant che si cirive di salvâ cheste password.
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Esportazion file des credenziâls
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = credenziâls.csv
+about-logins-export-file-picker-export-button = Espuarte
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV
+       *[other] File CSV
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importazion file des credenziâls
+about-logins-import-file-picker-import-button = Impuarte
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Document CSV
+       *[other] File CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Document TSV
+       *[other] File TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Importazion completade
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Gnovis credenziâls zontadis:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 
 ## Logins import report page
 
