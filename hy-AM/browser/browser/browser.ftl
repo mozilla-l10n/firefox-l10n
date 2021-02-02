@@ -112,6 +112,9 @@ urlbar-search-tips-redirect-2 = Սկսեք ձեր որոնումը այստեղ�
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Էջանիշեր
+urlbar-search-mode-tabs = Ներդիրներ
+urlbar-search-mode-history = Պատմություն
 
 ##
 
@@ -235,6 +238,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Սահմանել որպես լռելյայն որոնման միջոց անձնական պատուհանների համար
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -243,6 +252,12 @@ search-one-offs-context-set-as-default-private =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Էջանշել ({ $restrict })-ը
+search-one-offs-tabs =
+    .tooltiptext = Ներդիրներ ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Պատմություն ({ $restrict })
 
 ## Bookmark Panel
 
@@ -270,6 +285,14 @@ identity-passive-loaded = Այս էջի մասերը անվտանգ չեն (օր
 identity-active-loaded = Դուք անջատել եք պաշտպանությունը այս էջում:
 identity-weak-encryption = Այս էջը օգտագործում է աղքատ գաղտնագրում:
 identity-insecure-login-forms = Այս էջից մուտքագրումները վտանգված են:
+identity-https-only-connection-upgraded = (արդիացվել է HTTPS-ի)
+identity-https-only-label = HTTPS կերպ միայն
+identity-https-only-dropdown-on =
+    .label = Միաց.
+identity-https-only-dropdown-off =
+    .label = Անջ.
+identity-https-only-dropdown-off-temporarily =
+    .label = Ժամանակավորապես անջատված է
 identity-permissions =
     .value = Արտոնություններ
 identity-permissions-reload-hint = Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։
@@ -315,8 +338,16 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Փակել
 
+## Tab actions
+
+browser-tab-audio-playing = Նվագարկում
+browser-tab-audio-muted = Անձայն
+
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Էջանիշների ներմուծում
+    .tooltiptext = Ներմուծում է էջանիշերը այլ զննարկիչից { -brand-short-name }:
 
 ## WebRTC Pop-up notifications
 
@@ -416,6 +447,9 @@ fullscreen-exit-mac-button = Դուրս գալ Լիաէկրանից (esc)
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ղեկավարում է ձեր ցուցիչը: Սեղմեք Esc՝ ղեկավարումը հետ վերադարձնելու համար:
 pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարում է ձեր ցուցիչը: Սեղմեք Esc՝ ղեկավարումը հետ վերադարձնելու համար:
+
+## Subframe crash notification
+
 
 ## Bookmarks panels, menus and toolbar
 
