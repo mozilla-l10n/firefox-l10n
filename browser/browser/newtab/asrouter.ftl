@@ -210,12 +210,18 @@ cfr-doorhanger-cryptominers-description = Ваша приватність має
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } заблокував <b>{ $blockedCount }</b> елемент стеження, починаючи з { $date }!
         [few] { -brand-short-name } заблокував <b>{ $blockedCount }</b> елементи стеження, починаючи з { $date }!
        *[many] { -brand-short-name } заблокував понад <b>{ $blockedCount }</b> елементів стеження, починаючи з { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } заблокував <b>{ $blockedCount }</b> елемент стеження від { DATETIME($date, month: "long", year: "numeric") }!
+        [few] { -brand-short-name } заблокував понад <b>{ $blockedCount }</b> елементи стеження від { DATETIME($date, month: "long", year: "numeric") }!
+       *[many] { -brand-short-name } заблокував понад <b>{ $blockedCount }</b> елементів стеження від { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Дивитись все
     .accesskey = в
@@ -299,3 +305,8 @@ cfr-whatsnew-supercookies-body = Вебсайти можуть таємно пр
 
 cfr-whatsnew-bookmarking-header = Поліпшено взаємодію з закладками
 cfr-whatsnew-bookmarking-body = Стало простіше відстежувати ваші улюблені сайти. { -brand-short-name } тепер запам'ятовує ваше бажане розташування для збережених закладок, показує панель закладок у нових вкладках, а також дозволяє легко отримати доступ до решти закладок через теку панелі інструментів.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Комплексний захист від кук стеження між сайтами
+cfr-whatsnew-cross-site-tracking-body = Тепер ви можете ввімкнути покращений захист від кук стеження. { -brand-short-name } може ізолювати ваші дії та дані на вебсайті, на якому ви зараз перебуваєте, тому дані, що зберігається у браузері, не передаються вебсайтам.
