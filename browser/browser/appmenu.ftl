@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Cymorth { -brand-shorter-name }
 appmenu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Llwybrau Byr Bysellfwrdd
     .accesskey = B
+appmenu-get-help =
+    .label = Derbyn Cymorth
+    .accesskey = D
 appmenu-help-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G

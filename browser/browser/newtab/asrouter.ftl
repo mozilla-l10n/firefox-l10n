@@ -222,7 +222,7 @@ cfr-doorhanger-cryptominers-description = Mae eich preifatrwydd yn bwysig. Mae {
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [zero] Nid yw { -brand-short-name } wedi rhwystro <b>{ $blockedCount }</b> traciwr ers { $date }!
@@ -231,6 +231,15 @@ cfr-doorhanger-milestone-heading =
         [few] Mae { -brand-short-name } wedi rhwystro <b>{ $blockedCount }</b> traciwr ers { $date }!
         [many] Mae { -brand-short-name } wedi rhwystro dros <b>{ $blockedCount }</b> traciwr ers { $date }!
        *[other] Mae { -brand-short-name } wedi rhwystro <b>{ $blockedCount }</b> traciwr ers { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [zero] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
+        [one] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
+        [two] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
+        [few] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
+        [many] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Gweld y Cyfan
     .accesskey = G
@@ -314,3 +323,8 @@ cfr-whatsnew-supercookies-body = Gall gwefannau atodi “archcwci” yn gyfrinac
 
 cfr-whatsnew-bookmarking-header = Nodi tudalen gwell
 cfr-whatsnew-bookmarking-body = Mae'n haws cadw golwg ar eich hoff wefannau. Mae { -brand-short-name } bellach yn cofio'ch hoff leoliad ar gyfer nodau tudalen wedi'u cadw, yn dangos y bar offer nodau tudalen yn ragosodedig ar dabiau newydd, ac yn rhoi mynediad hawdd i weddill eich nodau tudalen trwy ffolder bar offer.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Amddiffyniad cynhwysfawr rhag tracio gan gwcis ar draws gwefannau
+cfr-whatsnew-cross-site-tracking-body = Nawr gallwch ddewis diogelwch gwell rhag tracio gan gwcis. Gall { -brand-short-name } ynysu eich gweithgareddau a'ch data i'r wefan rydych chi arni ar hyn o bryd felly nid yw gwybodaeth sy'n cael ei storio yn y porwr yn cael ei rhannu rhwng gwefannau.
