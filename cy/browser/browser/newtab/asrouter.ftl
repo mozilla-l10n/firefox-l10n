@@ -235,7 +235,7 @@ cfr-doorhanger-milestone-heading =
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [zero] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
-        [one] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
+        [one] Mae { -brand-short-name } wedi rhwystro mwy nag <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
         [two] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
         [few] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
         [many] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
@@ -326,5 +326,5 @@ cfr-whatsnew-bookmarking-body = Mae'n haws cadw golwg ar eich hoff wefannau. Mae
 
 ## What's new: Cross-site cookie tracking
 
-cfr-whatsnew-cross-site-tracking-header = Amddiffyniad cynhwysfawr rhag tracio gan gwcis ar draws gwefannau
-cfr-whatsnew-cross-site-tracking-body = Nawr gallwch ddewis diogelwch gwell rhag tracio gan gwcis. Gall { -brand-short-name } ynysu eich gweithgareddau a'ch data i'r wefan rydych chi arni ar hyn o bryd felly nid yw gwybodaeth sy'n cael ei storio yn y porwr yn cael ei rhannu rhwng gwefannau.
+cfr-whatsnew-cross-site-tracking-header = Diogelwch gynhwysfawr rhag tracio gan gwcis ar draws gwefannau
+cfr-whatsnew-cross-site-tracking-body = Nawr gallwch chi ddewis diogelwch gwell rhag tracio gan gwcis. Gall { -brand-short-name } ynysu eich gweithgareddau a'ch data i'r wefan rydych chi arni ar hyn o bryd felly nid yw gwybodaeth sy'n cael ei storio yn y porwr yn cael ei rhannu rhwng gwefannau.

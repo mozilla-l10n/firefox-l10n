@@ -30,6 +30,7 @@ inactive-text-overflow-when-no-overflow = Nid yw <strong>{ $property }</strong> 
 inactive-outline-radius-when-outline-style-auto-or-none = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon oherwydd bod ei <strong>arddull amlinellol</strong> yn <strong>awto</strong> neu'n <strong>ddim</strong>.
 inactive-css-not-for-internal-table-elements = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar elfennau tablau mewnol.
 inactive-css-not-for-internal-table-elements-except-table-cells = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar elfennau bwrdd mewnol ac eithrio celloedd bwrdd.
+inactive-css-not-table = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n dabl.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -51,6 +52,7 @@ inactive-text-overflow-when-no-overflow-fix = Ceisiwch ychwanegu <strong>overflo
 inactive-css-not-for-internal-table-elements-fix = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>cell-tabl</strong>, <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>cell-tabl</strong>, <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Ceisiwch osod ei briodwedd <strong>amlinellol</strong> i rywbeth heblaw'n <strong>awto</strong> neu'n <strong>ddim</strong>. { learn-more }
+inactive-css-not-table-fix = Ceisiwch ychwanegu <strong>display:table</strong> neu <strong>display:inline-table</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
