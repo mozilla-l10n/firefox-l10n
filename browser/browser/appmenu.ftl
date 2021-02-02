@@ -116,6 +116,11 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Aiuto per { -brand-shorter-name }
+appmenu-get-help =
+    .label = Ottieni assistenza
+   .accesskey = O
 appmenu-about =
     .label = Informazioni su { -brand-shorter-name }
     .accesskey = I
