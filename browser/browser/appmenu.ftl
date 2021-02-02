@@ -68,9 +68,32 @@ profiler-popup-settings =
     .value = Ezarpenak
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editatu ezarpenak…
+profiler-popup-recording-screen = Grabatzen…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Pertsonalizatua
+profiler-popup-start-recording-button =
+    .label = Hasi grabatzen
+profiler-popup-discard-button =
+    .label = Baztertu
+profiler-popup-capture-button =
+    .label = Kapturatu
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } laguntza
 appmenu-about =
     .label = { -brand-shorter-name }(r)i buruz
     .accesskey = b
@@ -86,6 +109,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Laster-teklak
     .accesskey = s
+appmenu-get-help =
+    .label = Lortu laguntza
+    .accesskey = L
 appmenu-help-troubleshooting-info =
     .label = Arazoak konpontzeko informazioa…
     .accesskey = A
@@ -115,3 +141,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Bilatu eguneraketak…

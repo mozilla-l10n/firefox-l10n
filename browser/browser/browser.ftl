@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Itxi
 
+## Tab actions
+
+browser-tab-audio-playing = Erreproduzitzen
+browser-tab-audio-muted = Mutututa
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -506,6 +511,13 @@ pointerlock-warning-no-domain = Dokumentu honek zure erakuslearen kontrola dauka
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Orriaren zati batek huts egin du</strong>. Arazoaren berri eman eta ahalik eta azkarren konpontzeko, bidali mesedez txostena { -brand-product-name }(r)i.
+crashed-subframe-learnmore =
+    .label = Argibide gehiago
+    .accesskey = A
+crashed-subframe-submit =
+    .label = Bidali txostena
+    .accesskey = B
 
 ## Bookmarks panels, menus and toolbar
 
