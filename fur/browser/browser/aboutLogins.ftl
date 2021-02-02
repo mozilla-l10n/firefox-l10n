@@ -316,3 +316,4 @@ about-logins-import-dialog-error-cancel = Anule
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Impuarte rapuart di sintesi
