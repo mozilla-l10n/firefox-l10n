@@ -302,3 +302,8 @@ cfr-whatsnew-supercookies-body = I siti web possono associare al tuo browser un 
 
 cfr-whatsnew-bookmarking-header = Migliore gestione dei segnalibri
 cfr-whatsnew-bookmarking-body = Tenere traccia dei tuoi siti preferiti è ancora più semplice. { -brand-short-name } ora ricorda la tua posizione preferita per salvare i segnalibri, visualizza automaticamente la barra dei segnalibri quando apri una nuova scheda e fornisce rapido accesso agli altri segnalibri attraverso una cartella nella barra degli strumenti.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Protezione completa contro il tracciamento intersito tramite cookie
+cfr-whatsnew-cross-site-tracking-body = Ora puoi scegliere una protezione più estesa contro il tracciamento effettuato per mezzo di cookie. { -brand-short-name} può isolare le attività e i dati del sito in cui ti trovi, impedendo che le informazioni salvate nel browser vengano condivise tra siti diversi.
