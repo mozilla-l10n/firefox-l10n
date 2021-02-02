@@ -196,10 +196,14 @@ cfr-doorhanger-cryptominers-description = 隐私是公民的基本权利。现�
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] 自{ $date }起，{ -brand-short-name } 已拦截超过 <b>{ $blockedCount }</b> 个跟踪器！
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] 自 { DATETIME($date, day: "numeric", month: "long", year: "numeric") } 起，{ -brand-short-name } 已拦截超过 <b>{ $blockedCount }</b> 个跟踪器！
     }
 cfr-doorhanger-milestone-ok-button = 查看全部
     .accesskey = S
@@ -283,3 +287,6 @@ cfr-whatsnew-supercookies-body = 某些网站会偷偷将“超级 Cookie”置�
 
 cfr-whatsnew-bookmarking-header = 更佳的书签体验
 cfr-whatsnew-bookmarking-body = 更轻松地追踪您喜爱的网站。{ -brand-short-name } 现在起会记忆您保存书签的的偏好位置、在新标签页默认显示书签工具栏，并可让您通过工具栏上的文件夹快速访问其他书签。
+
+## What's new: Cross-site cookie tracking
+
