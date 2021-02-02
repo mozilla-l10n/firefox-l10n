@@ -7,7 +7,7 @@
 graph-week-summary =
     { $count ->
         [one] { -brand-short-name } zaszperowoł { $count } śledzōncy elymynt bez ôstatni tydziyń
-        [few] { -brand-short-name } zaszperowoł { $count } śledzōnce elymynty bez ôstatni tydziyń
+        [few] { -brand-short-name } zaszperowoł { $count } śledzōnce elymynta bez ôstatni tydziyń
        *[many] { -brand-short-name } zaszperowoł { $count } śledzōncych elymyntōw bez ôstatni tydziyń
     }
 # Variables:
@@ -17,13 +17,13 @@ graph-week-summary =
 graph-total-tracker-summary =
     { $count ->
         [one] <b>{ $count }</b>śledzōncy elymynt zaszperowany ôd { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [few] <b>{ $count }</b>śledzōnce elymynty zaszperowane ôd { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [few] <b>{ $count }</b>śledzōnce elymynta zaszperowane ôd { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[many] <b>{ $count }</b>śledzōncych elymyntōw zaszperowanych ôd { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } durch   szperuje śledzōnce elymynty w prywatnych ôknach, ale niy zbiyro informacyji ô tym, co bōło szperowane.
+graph-private-window = { -brand-short-name } durch   szperuje śledzōnce elymynta w prywatnych ôknach, ale niy zbiyro informacyji ô tym, co bōło szperowane.
 # Weekly summary of the graph when the graph is empty in Private Mode
-graph-week-summary-private-window = Śledzōnce elymynty, co { -brand-short-name } zaszperowoł w tym tydniu
+graph-week-summary-private-window = Śledzōnce elymynta, co { -brand-short-name } zaszperowoł w tym tydniu
 protection-report-webpage-title = Przeglōnd ôchrōny
 protection-report-page-content-title = Przeglōnd ôchrōny
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
@@ -34,23 +34,23 @@ protection-report-settings-link = Regiyruj swojōm prywatnościōm i sztalōnkam
 etp-card-title-always = Polepszōno ôchrōna ôd śledzynio: Zawdy załōnczōno
 etp-card-title-custom-not-blocking = Polepszōno ôchrōna ôd śledzynio: wyłōnczōno
 etp-card-content-description = { -brand-short-name } autōmatycznie niy dowo firmōm tajymnie śledzić cie w necu.
-protection-report-etp-card-content-custom-not-blocking = Cołko ôchrōna je teroz wyłōnczōno . Wsztalōnkach ôchrōny ôd aplikacyje { -brand-short-name } ôbier, jakie śledzōnce elymynty szperować.
+protection-report-etp-card-content-custom-not-blocking = Cołko ôchrōna je teroz wyłōnczōno. We sztalōnkach ôchrōny ôd aplikacyje { -brand-short-name } ôbier, jakie śledzōnce elymynta szperować.
 protection-report-manage-protections = Regiyruj sztalōnkami
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Dzisio
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = Diagram, co zbiyro wszyskie śledzōnce elymynty zaszperowane bez tyn tydziyń.
-social-tab-title = Elymynty śledzōnce ôd społecznościowych serwisōw
-social-tab-contant = Społecznościowe serwisy dowajōm na swojich strōnach śledzōnce elymynty, coby zaglōndać na to, co robisz, widzisz i ôglōndosz w internecie. Skuli tego ich posiedziciele przewiadujōm sie ô ciebie wiyncyj jak to, co udostympniosz we tych serwisach. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
+graph-legend-description = Diagram, co zbiyro wszyskie śledzōnce elymynta zaszperowane bez tyn tydziyń.
+social-tab-title = Elymynta śledzōnce ôd społecznościowych serwisōw
+social-tab-contant = Społecznościowe serwisy dowajōm na swojich strōnach śledzōnce elymynta, coby zaglōndać na to, co robisz, widzisz i ôglōndosz w internecie. Skuli tego ich posiedziciele przewiadujōm sie ô ciebie wiyncyj jak to, co udostympniosz we tych serwisach. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
 cookie-tab-title = Cookies elymyntōw, co śledzōm miyndzy strōnami
 cookie-tab-content = Te cookies śledzōm cie miyndzy strōnami, coby zbiyrać dane ô tym, co robisz w internecie. Wystowiajōm je inksze firmy, bez przikłod ôd reklam abo internetowych analiz. Zaszperowanie cookies elymyntōw, co śledzōm miyndzy strōnami, zmyńszo wielość reklam, co za tobōm chodzowajōm. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
 tracker-tab-title = Śledzōnco zawartość
 tracker-tab-description = Strōny mogōm ladować zewnyntrzne reklamy, filmy i inkszo zawartość ze śledzōncym kodym. Skuli zaszperowanio śledzōncych elymyntōw strōny mogōm sie gibcyj ladować, ale niykere knefle, formulary i pola logowanio mogōm już niy fungować. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
-fingerprinter-tab-title = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
-fingerprinter-tab-content = Elymynty, co zbiyrajōm nasztalowania przeglōndarki i kōmputra, coby zrychtować twōj profil. Skuli takigo cyfrowego ôdciska palca mogōm iś za tobōm miyndzy roztōmajtymi strōnami. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
-cryptominer-tab-title = Elymynty, co fedrujōm kryptopiniōndze
-cryptominer-tab-content = Elymynty, co używajōm siyły rachowanio twojigo kōmputra, coby fedrować wirtualne piniōndze. Takie skrypty rozfolowujōm bateryjo, spōmalajōm kōmputer i mogōm zwiynkszyć płaty za sztrōm. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
+fingerprinter-tab-title = Elymynta, co rychtujōm ôdcisk ôd przeglōndarki
+fingerprinter-tab-content = Elymynta, co zbiyrajōm nasztalowania przeglōndarki i kōmputra, coby zrychtować twōj profil. Skuli takigo cyfrowego ôdciska palca mogōm iś za tobōm miyndzy roztōmajtymi strōnami. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
+cryptominer-tab-title = Elymynta, co fedrujōm kryptopiniōndze
+cryptominer-tab-content = Elymynta, co używajōm siyły rachowanio twojigo kōmputra, coby fedrować wirtualne piniōndze. Takie skrypty rozfolowujōm bateryjo, spōmalajōm kōmputer i mogōm zwiynkszyć płaty za sztrōm. <a data-l10n-name="learn-more-link">Przewiydz sie wiyncyj</a>
 protections-close-button2 =
     .aria-label = Zawrzij
     .title = Zawrzij
@@ -184,11 +184,11 @@ monitor-resolve-breaches-link = Rozwiōnż wycieki danych
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Elymynty śledzōnce ôd społecznościowych serwisōw
+    .title = Elymynta śledzōnce ôd społecznościowych serwisōw
     .aria-label =
         { $count ->
             [one] { $count } śledzōncy elymynt ({ $percentage }%)
-            [few] { $count } śledzōnce elymynty ({ $percentage }%)
+            [few] { $count } śledzōnce elymynta ({ $percentage }%)
            *[many] { $count } śledzōncych elymyntōw ({ $percentage }%)
         }
 bar-tooltip-cookie =
@@ -208,18 +208,18 @@ bar-tooltip-tracker =
            *[many] { $count } śledzōncych zawartości ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
+    .title = Elymynay, co rychtujōm ôdcisk ôd przeglōndarki
     .aria-label =
         { $count ->
             [one] { $count } elymynt, co rychtuje ôdcisk ôd przeglōndarki ({ $percentage }%)
-            [few] { $count } elymynty, co rychtujōm ôdcisk ôd przeglōndarki ({ $percentage }%)
+            [few] { $count } elymynta, co rychtujōm ôdcisk ôd przeglōndarki ({ $percentage }%)
            *[many] { $count } elymyntōw, co rychtujōm ôdcisk ôd przeglōndarki ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
-    .title = Elymynty, co fedrujōm kryptopiniōndze
+    .title = Elymynta, co fedrujōm kryptopiniōndze
     .aria-label =
         { $count ->
             [one] { $count } elymynt, co fedruje kryptopiniōndze ({ $percentage }%)
-            [few] { $count } elymynty, co fedrujōm kryptopiniōndze ({ $percentage }%)
+            [few] { $count } elymynta, co fedrujōm kryptopiniōndze ({ $percentage }%)
            *[many] { $count } elymyntōw, co fedrujōm kryptopiniōndze ({ $percentage }%)
         }

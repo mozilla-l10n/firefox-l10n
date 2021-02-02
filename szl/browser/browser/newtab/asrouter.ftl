@@ -106,9 +106,9 @@ cfr-whatsnew-tracking-protect-link-text = Pokoż raport
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] Zaszperowany śledzōncy elemynt
-        [few] Zaszperowane śledzōnce elemynty
-       *[many] Zaszperowanych śledzōncych elemyntōw
+        [one] Zaszperowany śledzōncy elymynt
+        [few] Zaszperowane śledzōnce elymynta
+       *[many] Zaszperowanych śledzōncych elymyntōw
     }
 cfr-whatsnew-tracking-blocked-subtitle = Ôd { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Pokoż raport
@@ -181,7 +181,7 @@ cfr-doorhanger-send-tab-ok-button = Sprōbuj: Poślij karta
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Bezpiecznie udostympnij tyn PDF
-cfr-doorhanger-firefox-send-body = Chrōń swoje ôsobiste dokumynty ôd wrazidlatych ôczōw dziynki szyfrowaniu end-to-end i linkowi, co sie traci po użyciu.
+cfr-doorhanger-firefox-send-body = Chrōń swoje ôsobiste dokumynta ôd wrazidlatych ôczōw dziynki szyfrowaniu end-to-end i linkowi, co sie traci po użyciu.
 cfr-doorhanger-firefox-send-ok-button = Sprōbuj: { -send-brand-name }
     .accesskey = S
 
@@ -194,7 +194,7 @@ cfr-doorhanger-socialtracking-close-button = Zawrzij
 cfr-doorhanger-socialtracking-dont-show-again = Niy pokozuj mi już takich wiadōmości
     .accesskey = N
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } niy doł śledzić ci sam społecznościowym serwisōm.
-cfr-doorhanger-socialtracking-description = Mōmy w zocy twoja prywatność. Teroz { -brand-short-name } szperuje popularne śledzōnce elymynty ôd społecznościowych serwisōw i ukrōco to, wiela danych śmiōm zbiyrać ô ciebie i twojich akcyjach w necu.
+cfr-doorhanger-socialtracking-description = Mōmy w zocy twoja prywatność. Teroz { -brand-short-name } szperuje popularne śledzōnce elymynta ôd społecznościowych serwisōw i ukrōco to, wiela danych śmiōm zbiyrać ô ciebie i twojich akcyjach w necu.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } zaszperowoł rychtowanie ôdciska twojij przeglōndarki na tyj strōnie
 cfr-doorhanger-fingerprinters-description = Mōmy w zocy twoja prywatność. Teroz { -brand-short-name } szperuje rychtowanie ôdciska twojij przeglōndarki, kerego idzie użyć do zidentyfikowanio abo śledzynio cie.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } zaszperowoł kryptominera na tyj strōnie
@@ -247,7 +247,7 @@ cfr-whatsnew-protections-icon-alt = Ikōna ôsłōny
 ## Better PDF message
 
 cfr-whatsnew-better-pdf-header = Lepszo ôbsuga dokumyntōw PDF
-cfr-whatsnew-better-pdf-body = Dokumynty PDF ôtwiyrajōm sie teroz dyrekt w aplikacyji { -brand-short-name }, coby robota szła snadnie.
+cfr-whatsnew-better-pdf-body = Dokumynta PDF ôtwiyrajōm sie teroz dyrekt w aplikacyji { -brand-short-name }, coby robota szła snadnie.
 
 ## DOH Message
 
@@ -270,7 +270,7 @@ cfr-doorhanger-fission-secondary-button = Przewiydz sie wiyncyj
 ## What's new: Cookies message
 
 cfr-whatsnew-clear-cookies-header = Autōmatyczno ôchrōna ôd chytrych taktyk śledzynio
-cfr-whatsnew-clear-cookies-body = Niykere śledzōnce elymynty przekerowujōm cie do inkszych strōn, co potajōmku sztalujōm cookies. { -brand-short-name } teroz autōmatycznie kasuje te cookies, tak co niy idzie cie śledzić.
+cfr-whatsnew-clear-cookies-body = Niykere śledzōnce elymynta przekerowujōm cie do inkszych strōn, co potajōmku sztalujōm cookies. { -brand-short-name } teroz autōmatycznie kasuje te cookies, tak co niy idzie cie śledzić.
 cfr-whatsnew-clear-cookies-image-alt = Ôbroz zaszperowanego cookie
 
 ## What's new: Media controls message

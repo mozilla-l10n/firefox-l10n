@@ -569,9 +569,9 @@ bookmarks-toolbar =
 bookmarks-toolbar-menu =
     .label = Posek z zokłodkami
 bookmarks-toolbar-placeholder =
-    .title = Elymynty ze poska z zokłodkami
+    .title = Elymynta ze poska z zokłodkami
 bookmarks-toolbar-placeholder-button =
-    .label = Elymynty ze poska z zokłodkami
+    .label = Elymynta ze poska z zokłodkami
 
 ## Library Panel items
 

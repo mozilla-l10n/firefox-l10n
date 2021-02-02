@@ -46,9 +46,9 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
-pane-experimental-title = { -brand-short-name } - Eksperymynty
+pane-experimental-title = { -brand-short-name } - Eksperymynta
 category-experimental =
-    .tooltiptext = { -brand-short-name } - Eksperymynty
+    .tooltiptext = { -brand-short-name } - Eksperymynta
 pane-experimental-subtitle = Pozōr!
 pane-experimental-search-results-header = { -brand-short-name } - Eksperymynta: Dej pozōr
 pane-experimental-description = Skuli zmiany rozszyrzōnych sztalōnkōw może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
@@ -897,19 +897,19 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Do szperowanio
     .accesskey = D
 sitedata-option-block-cross-site-trackers =
-    .label = Elymynty śledzōnce miyndzy strōnami
+    .label = Elymynta śledzōnce miyndzy strōnami
 sitedata-option-block-cross-site-and-social-media-trackers =
-    .label = Elymynty śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw
+    .label = Elymynta śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw
 sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Cookies elymyntōw, co śledzōm miyndzy strōnami — wroz ze cookies ze social mydiōw
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Cookies elymyntōw miyndzy strōnami — wroz ze cookies ze social mydiōw
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
-    .label = Elymynty śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw, a tyż izolowanie inkszych cookies
+    .label = Elymynta śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw, a tyż izolowanie inkszych cookies
 sitedata-option-block-unvisited =
     .label = Cookies z niynawiydzōnych strōn
 sitedata-option-block-all-third-party =
-    .label = Wszyskie śledzōnce elymynty z inkszych firmōw (niykere strōny mogōm niy fungować dobrze)
+    .label = Wszyske śledzōnce elymynta z inkszych firmōw (niykere strōny mogōm niy fungować dobrze)
 sitedata-option-block-all =
     .label = Wszyskie cookies (niykere strōny mogōm niy fungować dobrze)
 sitedata-clear =
@@ -953,7 +953,7 @@ addressbar-suggestions-settings = Zmiyń nasztalowania doradōw wyszukowarki
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Polepszōno ôchrōna ôd śledzynio
-content-blocking-section-top-level-description = Śledzōnce elymynty cichtujōm za tobōm w internecie i zbiyrajōm informacyje ô tym, jak przeglōndosz i co je do ciebie ciekawe. { -brand-short-name } szperuje mocka ś nich i inksze ôszydne skrypty.
+content-blocking-section-top-level-description = Śledzōnce elymynta cichtujōm za tobōm w internecie i zbiyrajōm informacyje ô tym, jak przeglōndosz i co je do ciebie ciekawe. { -brand-short-name } szperuje mocka ś nich i inksze ôszydne skrypty.
 content-blocking-learn-more = Przewiydz sie wiyncyj
 content-blocking-fpi-incompatibility-warning = Używosz fōnkcyje First Party Isolation (FPI), co tupluje niykere sztalōnki cookie we { -brand-short-name(case: "loc") }.
 
@@ -975,18 +975,18 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Zbalansowane podug ôchrōny i sprowności. Strōny bydōm sie normalnie ladować.
 content-blocking-etp-strict-desc = Lepszo ôchrōna, ale niykere strōny abo jako zawartość mogōm niy fungować dobrze.
-content-blocking-etp-custom-desc = Ôbier, jakie śledzōnce elymynty i skrypty szperować.
-content-blocking-private-windows = Śledzōnce elymynty w prywatnych ôknach
+content-blocking-etp-custom-desc = Ôbier, jakie śledzōnce elymynta i skrypty szperować.
+content-blocking-private-windows = Śledzōnce elymynta w prywatnych ôknach
 content-blocking-cross-site-cookies = Cookies, co śledzōm miyndzy strōnami
 content-blocking-cross-site-tracking-cookies = Cookies elymyntōw, co śledzōm miyndzy strōnami
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies elymyntōw, co śledzōm miyndzy strōnami. Izoluj inksze cookies.
-content-blocking-social-media-trackers = Elymynty śledzōnce ôd społecznościowych serwisōw
+content-blocking-social-media-trackers = Elymynta śledzōnce ôd społecznościowych serwisōw
 content-blocking-all-cookies = Wszyskie cookies
 content-blocking-unvisited-cookies = Cookies z niynawiydzōnych strōn
-content-blocking-all-windows-tracking-content = Śledzōnce elymynty we wszyskich ôknach
+content-blocking-all-windows-tracking-content = Śledzōnce elymynta we wszyskich ôknach
 content-blocking-all-third-party-cookies = Wszyskie cookies z inkszych firmōw
-content-blocking-cryptominers = Elymynty, co fedrujōm kryptopiniōndze
-content-blocking-fingerprinters = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
+content-blocking-cryptominers = Elymynta, co fedrujōm kryptopiniōndze
+content-blocking-fingerprinters = Elymynta, co rychtujōm ôdcisk ôd przeglōndarki
 content-blocking-warning-title = Pozōr!
 content-blocking-and-isolating-etp-warning-description = Skuli szperowanio zawartości niykere i izolowanio cookies strōny mogōm mieć gorszo funkcjōnalność. Przeladuj strōna ze załōnczōnymi śledzōncymi elymyntami, coby pokozać cołko zawartość.
 content-blocking-and-isolating-etp-warning-description-2 = Skuli tego sztalōnku niykere strōny mogōm sie dobrze niy pokazować abo działać felernie. Jak strōna zdo sie felerno, idzie wyłōnczyć ôchrōna ôd śledzynio na tyj strōnie, coby poradziyła zaladować cołko zawartość.
@@ -1012,12 +1012,12 @@ content-blocking-expand-section =
     .tooltiptext = Wiyncyj informacyji
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Elymynty, co fedrujōm kryptopiniōndze
+    .label = Elymynta, co fedrujōm kryptopiniōndze
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
+    .label = Elymynta, co rychtujōm ôdcisk ôd przeglōndarki
     .accesskey = E
 
 ## Privacy Section - Tracking

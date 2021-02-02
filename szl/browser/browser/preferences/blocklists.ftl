@@ -30,4 +30,4 @@ blocklist-item-list-template = { $listName }{ $description }
 blocklist-item-moz-std-listName = Wykoz szperowanych elymyntōw: poziōm 1 (rykōmyndowany).
 blocklist-item-moz-std-description = Dozwolo na trocha śledzynio, coby strōny lepij fungowały.
 blocklist-item-moz-full-listName = Wykoz szperowanych elymyntōw: poziōm 2.
-blocklist-item-moz-full-description = Szperuje wszyskie znojdziōne śledzōnce elymynty. Niykere strōny abo jejich zawartość może niy fungować dobrze.
+blocklist-item-moz-full-description = Szperuje wszyskie znojdziōne śledzōnce elymynta. Niykere strōny abo jejich zawartość może niy fungować dobrze.

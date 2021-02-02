@@ -51,13 +51,13 @@ import-from-360se =
     .accesskey = 3
 no-migration-sources = Niy ma znodniynto żodno przeglōndarka, co by miała zokłodki, historyjo abo hasła.
 import-source-page-title = Importuj nasztalowania i dane
-import-items-page-title = Elymynty do importowanio
-import-items-description = Ôbier, jakie elymynty chcesz importować:
+import-items-page-title = Elymynta do importowanio
+import-items-description = Ôbier, jakie elymynta chcesz importować:
 import-permissions-page-title = Dej zgoda aplikacyji { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS potrzebuje zgody, coby { -brand-short-name } mioł dostymp do zokłodek w przeglōndarce Safari. Kliknij "Dalij" i ôbier zbiōr “Bookmarks.plist” w panelu ôtwieranio zbioru, co sie pokoże.
 import-migrating-page-title = Import…
-import-migrating-description = Te elymynty sōm prawie importowane…
+import-migrating-description = Te elymynta sōm prawie importowane…
 import-select-profile-page-title = Ôbier profil
 import-select-profile-description = Te profile idzie importować:
 import-done-page-title = Import je skōńczōny

@@ -60,7 +60,7 @@ enableSafeBrowsing-label = Szperuj niybezpieczno i ôszydno zawartość
 rights-safebrowsing-term-4 = Bezpieczne przeglōndanie je zaroz wyłōnczōne
 rights-locationawarebrowsing =
     <strong>Przeglōndanie z poznowaniym placu: </strong> to je funkcyjo, co zawdy 
-    potrzebuje twojij zgody, coby fungować. Żodyn roz informacyjo ô placu niy bydzie 
+    potrzebuje twojij zgody, coby fungować. Nigdy informacyjo ô placu niy bydzie 
     posyłano bez twojij zgody. Jak chcesz blank zastawić ta funkcyjo, postympuj podug tych krokōw:
 rights-locationawarebrowsing-term-1 = Do poska adresy wkludź <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Dej szukać „geo.enabled“
