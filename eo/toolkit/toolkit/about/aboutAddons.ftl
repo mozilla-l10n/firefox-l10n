@@ -370,15 +370,14 @@ addon-detail-private-browsing-disallow = Ne permesi
 addon-badge-recommended2 =
     .title = { -brand-product-name } nur rekomendas etendaĵojn, kiuj konformas al niaj normoj pri sekureco kaj efikeco
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Tiu ĉi etendaĵo estis farita de la kreantoj de { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Pro sekurecaj kialoj oni reviziis la kodon de tiu ĉi etendaĵo
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Tiu ĉi estas neoficiala etendaĵo farita de la kreantoj de { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Oficiala etendaĵo verkita de Mozilla. Ĝi observas sekurecajn kaj efikecajn normojn
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Tiu ĉi etendaĵo estis reviziita por kontroli ke ĝi kongruas kun niaj sekurecaj kaj efikecaj normoj.
     .aria-label = { addon-badge-verified2.title }
