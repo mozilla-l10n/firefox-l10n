@@ -17,13 +17,13 @@ error-short-desc-text = O sin vignûts a cjatâus in pâs e cun buine volontât!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = I robots no àn di fâ mâl ae int  o, no fasint nuie, permeti che i  umans si fasedin mâl di bessôi.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = I robots a àn viodût robis che vualtris no rivararessis a crodi.
+error-long-desc2 = I robots a àn viodût robis che voaltris no rivaressis a crodi.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = I robots a son i tiei amîs di plastiche - ce biel stâ cun lôr!
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = I robots a àn il dâur di metal lustri che no si varès di muardi.
 # TV: Battlestar Galactica (2004 series). From the opening text.
-error-trailer-desc-text = E àn un plan.
+error-trailer-desc-text = E a àn un plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 error-try-again = Torne a provâ
-    .label2 = Par plasê no stâ plui cjalcjâ chest boton.
+    .label2 = Par plasê no stâ fracâ plui chest boton.
