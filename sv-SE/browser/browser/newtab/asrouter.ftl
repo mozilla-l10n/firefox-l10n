@@ -206,11 +206,16 @@ cfr-doorhanger-cryptominers-description = Din integritet är viktig. { -brand-sh
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } blockerade <b>{ $blockedCount }</b> spårare sedan { $date }!
        *[other] { -brand-short-name } blockerade över <b>{ $blockedCount }</b> spårare sedan { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } blockerade <b>{ $blockedCount }</b> spårare sedan { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } blockerade över <b>{ $blockedCount }</b> spårare sedan { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Visa alla
     .accesskey = V
@@ -294,3 +299,7 @@ cfr-whatsnew-supercookies-body = Webbplatser kan i hemlighet lägga till en "sup
 
 cfr-whatsnew-bookmarking-header = Bättre bokmärkning
 cfr-whatsnew-bookmarking-body = Det är lättare att hålla koll på dina favoritsidor. { -brand-short-name } kommer nu ihåg din önskade plats för sparade bokmärken, visar bokmärkesverktygsfältet som standard på nya flikar och ger dig enkel åtkomst till resten av dina bokmärken via en verktygsfältmapp.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Omfattande skydd från spårning av globala kakor

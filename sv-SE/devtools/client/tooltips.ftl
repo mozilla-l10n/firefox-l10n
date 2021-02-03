@@ -30,6 +30,7 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> har ing
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> påverkar inte detta element eftersom dess <strong>outline-style</strong> är <strong>auto</strong> eller <strong>none</strong>.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> har ingen effekt på interna tabellelement.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> har ingen effekt på interna tabellelement utom tabellceller.
+inactive-css-not-table = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte är en tabell.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -51,6 +52,7 @@ inactive-text-overflow-when-no-overflow-fix = Försök att lägga till <strong>o
 inactive-css-not-for-internal-table-elements-fix = Prova att ställa in egenskapen <strong>display</strong> till något annat än <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Prova att ställa in egenskapen <strong>display</strong> till något annat än <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> eller <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Försök att ställa in egenskapen <strong>outline-style</strong> till något annat än <strong>auto</strong> eller <strong>none</strong>. { learn-more }
+inactive-css-not-table-fix = Prova att lägga till <strong>display:table</strong> eller <strong>display:inline-table</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
