@@ -293,6 +293,15 @@ menu-window-bring-all-to-front =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-get-help
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
 menu-help =
     .label = Hjelp
     .accesskey = H
@@ -328,3 +337,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Dette er ikkje ein villeiande nettstad…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Sjå etter oppdateringar …
+    .accesskey = S
