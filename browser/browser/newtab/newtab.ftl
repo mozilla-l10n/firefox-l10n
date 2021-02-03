@@ -8,6 +8,9 @@
 newtab-page-title = Skedë e Re
 newtab-settings-button =
     .title = Personalizoni faqen tuaj Skedë e Re
+newtab-personalize-button-label = Personalizojeni
+    .title = Personalizoni skedën e re
+    .aria-label = Personalizoni skedën e re
 
 ## Search box component.
 
@@ -15,27 +18,30 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Kërko
     .aria-label = Kërko
-
 newtab-search-box-search-the-web-text = Kërkoni në Web
 newtab-search-box-search-the-web-input =
     .placeholder = Kërkoni në Web
     .title = Kërkoni në Web
     .aria-label = Kërkoni në Web
+newtab-search-box-text = Kërkoni në web
+newtab-search-box-input =
+    .placeholder = Kërkoni në web
+    .aria-label = Kërkoni në web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Shtoni Motor Kërkimesh
 newtab-topsites-add-topsites-header = Sajt i Ri Kryesues
+newtab-topsites-add-shortcut-header = Shkurtore e Re
 newtab-topsites-edit-topsites-header = Përpunoni Sajtin Kryesues
+newtab-topsites-edit-shortcut-header = Përpunoni Shkurtore
 newtab-topsites-title-label = Titull
 newtab-topsites-title-input =
     .placeholder = Jepni një titull
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Shtypni ose hidhni një URL
 newtab-topsites-url-validation = Lypset URL e vlefshme
-
 newtab-topsites-image-url-label = URL Figure Vetjake
 newtab-topsites-use-image-link = Përdorni një figurë vetjake…
 newtab-topsites-image-validation = Dështoi ngarkimi i figurës. Provoni një URL tjetër.
@@ -54,18 +60,20 @@ newtab-confirm-delete-history-p1 = Jeni të sigurt se doni të fshini nga histor
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ky veprim s’mund të zhbëhet.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = E sponsorizuar
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = Hapni menunë
     .aria-label = Hapni menunë
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Hiqe
     .aria-label = Hiqe
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -134,12 +142,10 @@ newtab-label-removed-bookmark = Faqerojtësi u hoq
 newtab-label-recommended = Në modë
 newtab-label-saved = Ruajtur te { -pocket-brand-name }
 newtab-label-download = Të shkarkuara
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · E sponsorizuar
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -170,6 +176,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = Sajte Kryesues
 newtab-section-header-highlights = Në Pah
+newtab-section-header-recent-activity = Veprimtari së fundi
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Rekomanduar nga { $provider }
@@ -177,12 +184,10 @@ newtab-section-header-pocket = Rekomanduar nga { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Filloni shfletimin, dhe do t'ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqerojtur këtu kohët e fundit.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Gjithë ç’kish, e dini. Rikontrolloni më vonë për më tepër histori nga { $provider }. S’pritni dot? Përzgjidhni një temë popullore që të gjenden në internet më tepër histori të goditura.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -207,3 +212,27 @@ newtab-pocket-cta-text = Ruajini në { -pocket-brand-name } shkrimet që doni, d
 
 newtab-error-fallback-info = Hëm, diç shkoi ters në ngarkimin e kësaj lënde.
 newtab-error-fallback-refresh-link = Rifreskoni faqen që të riprovohet.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = Shkurtore
+newtab-custom-shortcuts-subtitle = Sajte që ruani ose vizitoni
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rresht
+       *[other] { $num } rreshta
+    }
+newtab-custom-sponsored-sites = Shkurtore të sponsorizuara
+newtab-custom-pocket-title = Rekomanduar nga { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Lëndë e jashtëzakonshme, në kujdesin e { -pocket-brand-name }, pjesë e familjes { -brand-product-name }
+newtab-custom-pocket-sponsored = Histori të sponsorizuara
+newtab-custom-recent-title = Veprimtari së fundi
+newtab-custom-recent-subtitle = Një përzgjedhje sajtesh dhe lënde së fundi
+newtab-custom-close-button = Mbylle
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Copëza
+newtab-custom-snippets-subtitle = Ndihmëza dhe lajme nga { -vendor-short-name } dhe { -brand-product-name }
+newtab-custom-settings = Administroni më tepër rregullime
