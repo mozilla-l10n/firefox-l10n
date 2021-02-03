@@ -302,6 +302,14 @@ about-logins-import-dialog-error-conflicting-values-description = Për shembull:
 about-logins-import-dialog-error-file-format-title = Problem Formati Kartelash
 about-logins-import-dialog-error-file-format-description = Krye shtyllash të pasaktë ose që mungojnë. Sigurohuni se kartela përfshin shtylla për emër përdoruesi, fjalëkalim dhe URL.
 about-logins-import-dialog-error-file-permission-title = S’arrihet të Lexohet Kartelë
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name }-i s’ka leje për leximin e kartelës. Provoni të ndryshoni lejet e kartelës.
+about-logins-import-dialog-error-unable-to-read-title = S’arrihet të Përtypet Kartela
+about-logins-import-dialog-error-unable-to-read-description = Sigurohuni se përzgjodhët një kartelë CSV ose TSV.
+about-logins-import-dialog-error-no-logins-imported = S’janë importuar kredenciale
+about-logins-import-dialog-error-learn-more = Mësoni më tepër
+about-logins-import-dialog-error-try-again = Riprovoni…
+about-logins-import-dialog-error-cancel = Anuloje
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Raport Përmbledhës i Importimeve
