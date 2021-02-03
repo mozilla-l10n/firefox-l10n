@@ -147,8 +147,8 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je vjerojatno sigurna stranica, ali se s njom ne može uspostaviti sigurna veza. Uzrok problemu je program <span class='mitm-name'/>, koji se nalazi na tvom računalu ili tvojoj mreži.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ukoliko tvoj antivirusni program uključuje mogućnost skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možeš isključiti ovu mogućnost. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ukoliko se nalazite u korporativnoj mreži, možete kontaktirati svoj IT odjel.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ukoliko vam <span class='mitm-name'/> nije poznata, ovo bi možda mogao biti napad i ne biste trebali nastaviti na tu stranicu.">
-<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ukoliko ne poznaš <span class='mitm-name'/>, ovo bi možda mogao biti napad i ne možeš ništa učiniti kako bi pristupio/la stranici.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ako ne poznaš <span class='mitm-name'/>, onda se možda radi o napadu i nemoj nastaviti s posjećivanjem te stranice.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ako ne poznaš <span class='mitm-name'/>, onda se možda radi o napadu i ne možeš ništa učiniti kako bi pristupio/la stranici.">
 
 <!ENTITY clockSkewError.longDesc "Tvoje računalo misli da je <span id='wrongSystemTime_systemDate1'/>, što sprečava &brandShortName; da se sigurno poveže. Za posjećivanje poslužitelja <span class='hostname'></span>, aktualiziraj sat tvog računala na trenutačni datum, vrijeme i vremensku zonu te onda osvježi <span class='hostname'></span>.">
 
