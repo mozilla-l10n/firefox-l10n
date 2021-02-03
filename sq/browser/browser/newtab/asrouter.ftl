@@ -291,6 +291,9 @@ cfr-whatsnew-supercookies-body = Sajtet mund të bashkëngjisin në fshehtësi n
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Punim më i mirë me faqerojtësit
+cfr-whatsnew-bookmarking-body = Është më e lehtë të ndiqen sajtet tuaj të parapëlqyer. { -brand-short-name }-i tani mban mend vendndodhjen tuaj të parapëlqyer për faqerojtësit e ruajtur, shfaq, si parazgjedhje, panelin e faqerojtësve në skeda të reja, dhe ju jep hyrje të kollajtë te faqerojtësit tuaj të tjerë, përmes një dosjeje paneli.
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Mbrojtje e plotë nga ndjekje cookie-sh “cross-site”
+cfr-whatsnew-cross-site-tracking-body = Tani mund të zgjidhni mbrojtje më të mirë nga gjurmimi përmes cookie-sh. { -brand-short-name }-i mund të izolojë veprimtaritë dhe të dhënat tuaja sipas sajtit ku gjendeni atë çast, që kështu, të dhëna të depozituar te shfletuesi, nuk jepen nga sajti në sajt.
