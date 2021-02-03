@@ -17,6 +17,8 @@ appmenuitem-new-window =
     .label = Novi prozor
 appmenuitem-new-private-window =
     .label = Novi privatni prozor
+appmenuitem-find-in-page =
+    .label = Pronađi na stranici …
 
 ## Zoom and Fullscreen Controls
 

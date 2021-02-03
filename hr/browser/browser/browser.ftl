@@ -107,11 +107,11 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Tipkaj manje, nađi više: Traži { $engineName } direktno u tvojoj adresnoj traci.
+urlbar-search-tips-onboard = Tipkaj manje, pronađi više: Traži { $engineName } direktno u adresnoj traci.
 urlbar-search-tips-redirect-2 = Započni pretragu u adresnoj traci za prikaz prijedloga od { $engineName } i tvoju povijest pregledavanja.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
-urlbar-tabtosearch-onboard = Odaberi ovaj prečac za brže pretraživanje.
+urlbar-tabtosearch-onboard = Odaberi ovaj prečac za brže pronalaženje onoga što tražiš.
 
 ## Local search mode indicator labels in the urlbar
 
