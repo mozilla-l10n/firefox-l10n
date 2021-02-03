@@ -6,13 +6,31 @@ about-rights-notification-text = { -brand-short-name } je voľne šíriteľný o
 
 ## Folder Pane
 
+folder-pane-toolbar =
+    .toolbarname = Panel nástrojov Priečinky
+    .accesskey = a
 folder-pane-header-label = Priečinky
 
 ## Folder Toolbar Header Popup
 
+folder-toolbar-hide-toolbar-toolbarbutton =
+    .label = Skryť panel nástrojov
+    .accesskey = S
 show-all-folders-label =
     .label = Všetky priečinky
     .accesskey = V
+show-unread-folders-label =
+    .label = Neprečítané priečinky
+    .accesskey = N
+show-favorite-folders-label =
+    .label = Obľúbené priečinky
+    .accesskey = O
 show-smart-folders-label =
     .label = Zoskupené priečinky
     .accesskey = Z
+show-recent-folders-label =
+    .label = Najnovšie priečinky
+    .accesskey = N
+folder-toolbar-toggle-folder-compact-view =
+    .label = Kompaktné zobrazenie
+    .accesskey = K
