@@ -31,8 +31,10 @@ restore-page-close-button =
 
 welcome-back-tab-title = Sucès!
 welcome-back-page-title = Sucès!
-welcome-back-page-info = { -brand-short-name } al è pront a lâ.
+welcome-back-page-info = { -brand-short-name } al è pront par continuâ.
 welcome-back-restore-button =
     .label = Anìn!
-    .accesskey = L
-welcome-back-page-info-link = lis tos zontis e li to personalizazions a son statis mitudis in bande e il browser al metarà a puest come di default.Dome se chist no ti distrighe al problema.<a data-l10n-name="link-more">lei di plui su chel che tu pos fâ.</a>
+    .accesskey = A
+welcome-back-restore-all-label = Ripristine ducj i barcons e lis schedis
+welcome-back-restore-some-label = Ripristine dome chês che tu desideris
+welcome-back-page-info-link = Lis tôs zontis e lis tôs personalizazions a son stadis gjavadis e lis impostazions dal navigadôr a son stadis ristabilidis ai lôr valôrs predefinîts. Se chest nol à justât il probleme, <a data-l10n-name="link-more">lei di plui su ce che tu puedis fâ.</a>
