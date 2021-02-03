@@ -13,7 +13,7 @@
 <!ENTITY SendMailTo.accesskey              "m">
 <!ENTITY CopyEmailAddress.label            "Copiar endereço de email">
 <!ENTITY CopyEmailAddress.accesskey        "C">
-<!ENTITY CopyNameAndEmailAddress.label     "Copiar nome e endereço de e-mail">
+<!ENTITY CopyNameAndEmailAddress.label     "Copiar nome e endereço de email">
 <!ENTITY CopyNameAndEmailAddress.accesskey "n">
 <!ENTITY CreateFilterFrom.label            "Criar filtro...">
 <!ENTITY CreateFilterFrom.accesskey        "f">
