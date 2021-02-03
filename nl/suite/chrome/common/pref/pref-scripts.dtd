@@ -21,6 +21,12 @@
 <!ENTITY allowHideStatusBar.label        "De statusbalk te verbergen">
 
 <!ENTITY debugging.label                  "JavaScript-debugging">
+<!ENTITY debugEnableDump.label            "JavaScript-dump()-uitvoer inschakelen">
+<!ENTITY debugEnableDump.accesskey        "J">
+<!ENTITY debugStrictJavascript.label      "Strenge JavaScript-waarschuwingen tonen">
+<!ENTITY debugStrictJavascript.accesskey  "S">
+<!ENTITY debugConsoleJavascript.label     "JavaScript-fouten en -waarschuwingen vanuit chrome tonen">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Plug-ins inschakelen voor">
 <!ENTITY enablePluginForSuite.label      "Suite">
