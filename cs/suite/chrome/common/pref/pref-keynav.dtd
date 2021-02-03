@@ -18,3 +18,8 @@
 <!ENTITY browseWithCaretShortCut.accesskey "s">
 <!ENTITY browseWithCaretWarn.label "Upozornit při zapnutí funkce Procházení stránky">
 <!ENTITY browseWithCaretWarn.accesskey "U">
+
+<!ENTITY modifiers.label "Modifikátory">
+<!ENTITY acceleratorKey.label "Klíč akcelerátoru:">
+<!ENTITY menuAccessKey.label "Klávesa pro přístup do nabídky:">
+<!ENTITY modifiersDesc.label "Poznámka: Hodnota nula zakáže modifikační klávesu.">

@@ -20,9 +20,7 @@
 <!ENTITY allowContextmenuDisable.label   "Zakázat či nahradit místní nabídku">
 <!ENTITY allowHideStatusBar.label        "Skrýt stavový řádek">
 
-<!ENTITY enableDrmMedia.label            "Povolit Digital Rights Management pro">
-<!ENTITY enableEmeForSuite.label         "Moduly třetích stran pro dešifrování obsahu">
-<!ENTITY enableEmeForSuite.accesskey     "t">
+<!ENTITY debugging.label                  "Ladění JavaScriptu">
 
 <!ENTITY enablePlugins.label             "Povolit zásuvné moduly pro">
 <!ENTITY enablePluginForSuite.label      "Seamonkey">
