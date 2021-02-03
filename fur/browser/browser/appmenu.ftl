@@ -109,28 +109,43 @@ appmenu-help-product =
     .label = Jutori di { -brand-shorter-name }
     .accesskey = J
 appmenu-help-show-tour =
-    .label = { -brand-shorter-name } Gîr
-    .accesskey = o
+    .label = Visite vuidade di { -brand-shorter-name }
+    .accesskey = V
+appmenu-help-import-from-another-browser =
+    .label = Impuarte di un altri navigadôr…
+    .accesskey = I
 appmenu-help-keyboard-shortcuts =
-    .label = Scurtardoriis di tastiere
-    .accesskey = t
+    .label = Scurtis di tastiere
+    .accesskey = S
+appmenu-get-help =
+    .label = Oten jutori
+    .accesskey = j
 appmenu-help-troubleshooting-info =
-    .label = Informazions pal supuart…
-    .accesskey = t
+    .label = Informazions par risolvi problemis…
+    .accesskey = p
 appmenu-help-feedback-page =
-    .label = Mande Feedback
-    .accesskey = M
+    .label = Invie opinion
+    .accesskey = o
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-safe-mode-without-addons =
-    .label = Torne a inviâ cence Zontis...
+    .label = Torne invie disativant lis zontis...
     .accesskey = r
+appmenu-help-safe-mode-with-addons =
+    .label = Torne invie abilitant lis zontis
+    .accesskey = a
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Segnale sît ingjanôs…
+    .accesskey = i
+appmenu-help-not-deceptive =
+    .label = Chest nol è un sît ingjanôs…
+    .accesskey = n
 
 ##
 
