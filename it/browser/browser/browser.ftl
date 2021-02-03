@@ -508,11 +508,11 @@ pointerlock-warning-no-domain = Questo documento sta controllando il puntatore d
 
 crashed-subframe-message = <strong>Una parte di questa pagina si è bloccata.</strong> Invia una segnalazione a { -brand-product-name } per comunicare questo problema e fare in modo che venga risolto più rapidamente.
 crashed-subframe-learnmore =
-  .label = Ulteriori informazioni
-  .accesskey = U
+    .label = Ulteriori informazioni
+    .accesskey = U
 crashed-subframe-submit =
-  .label = Invia segnalazione
-  .accesskey = s
+    .label = Invia segnalazione
+    .accesskey = s
 
 ## Bookmarks panels, menus and toolbar
 
@@ -542,6 +542,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Nascondi la barra dei segnalibri
            *[other] Visualizza la barra dei segnalibri
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Nascondi la barra dei segnalibri
+           *[other] Visualizza la barra dei segnalibri
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -552,6 +558,8 @@ bookmarks-search =
     .label = Cerca nei segnalibri
 bookmarks-tools =
     .label = Strumenti per i segnalibri
+bookmarks-bookmark-edit-panel =
+    .label = Modifica segnalibro
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
