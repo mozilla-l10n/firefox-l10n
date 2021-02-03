@@ -18,4 +18,18 @@ calendar-ics-file-dialog-progress-message = Uvoz ...
 calendar-ics-file-import-success = Uspešno uvoženo!
 calendar-ics-file-import-error = Prišlo je do napake in uvoz ni uspel.
 calendar-ics-file-import-complete = Uvoz dokončan.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] En predmet je bil prezrt, ker že obstaja v ciljnem koledarju.
+        [two] { $duplicatesCount } predmeta sta bila prezrta, ker že obstajata v ciljnem koledarju.
+        [few] { $duplicatesCount } predmeti so bili prezrti, ker že obstajajo v ciljnem koledarju.
+       *[other] { $duplicatesCount } predmetov je bilo prezrtih, ker že obstajajo v ciljnem koledarju.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Uvoz enega predmeta ni uspel. Za podrobnosti preverite konzolo napak.
+        [two] Uvoz { $errorsCount } predmetov ni uspel. Za podrobnosti preverite konzolo napak.
+        [few] Uvoz { $errorsCount } predmetov ni uspel. Za podrobnosti preverite konzolo napak.
+       *[other] Uvoz { $errorsCount } predmetov ni uspel. Za podrobnosti preverite konzolo napak.
+    }
 calendar-ics-file-dialog-no-calendars = Ni koledarjev, ki bi lahko uvažali dogodke ali opravila.
