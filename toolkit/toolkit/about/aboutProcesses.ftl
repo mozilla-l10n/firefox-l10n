@@ -31,6 +31,7 @@ about-processes-browser-process-name = { -brand-short-name } (procesi { $pid })
 about-processes-web-process-name = Web (procesi { $pid }, i përbashkët)
 about-processes-web-isolated-process-name = Web (procesi { $pid }) për { $origin }
 about-processes-web-large-allocation = Web (procesi { $pid }, i madh) për { $origin }
+about-processes-with-coop-coep-process-name = Web (proces { $pid }, “cross-origin” e izoluar) për { $origin }
 about-processes-file-process-name = Kartela (process { $pid })
 about-processes-extension-process-name = Zgjerime (process { $pid })
 about-processes-privilegedabout-process-name = Mbi (proces { $pid })
@@ -41,6 +42,8 @@ about-processes-gpu-process-name = GPU (procesi { $pid })
 about-processes-vr-process-name = VR (procesi { $pid })
 about-processes-rdd-process-name = Shkodues të Dhënash (procesi { $pid })
 about-processes-socket-process-name = Rrjet (procesi { $pid })
+about-processes-remote-sandbox-broker-process-name = Remote Sandbox Broker (proces { $pid })
+about-processes-fork-server-process-name = Fork Server (proces { $pid })
 about-processes-preallocated-process-name = I paradhënë (procesi { $pid })
 about-processes-unknown-process-name = Tjetër ({ $type }, procesi { $pid })
 # Process
