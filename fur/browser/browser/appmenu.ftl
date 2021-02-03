@@ -63,9 +63,45 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Visualize plui informazions
+profiler-popup-description-title =
+    .value = Regjistre, analize, condivît
+profiler-popup-description = Colabore su problemis di prestazions publicant i profîi di condividi cu la tô scuadre.
+profiler-popup-learn-more = Plui informazions
+profiler-popup-settings =
+    .value = Impostazions
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Modifiche impostazions…
+profiler-popup-disabled =
+    Pal moment il profiladôr al è disabilitât, di solit par vie che al è viert
+    un barcon di navigazion privade.
+profiler-popup-recording-screen = Daûr a regjistrâ…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personalizât
+profiler-popup-start-recording-button =
+    .label = Scomence regjistrazion
+profiler-popup-discard-button =
+    .label = Scarte
+profiler-popup-capture-button =
+    .label = Cature
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Maiusc+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Maiusc+2
+    }
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Jutori di { -brand-shorter-name }
 appmenu-about =
     .label = Informazions su &brandShortName;
     .accesskey = I
