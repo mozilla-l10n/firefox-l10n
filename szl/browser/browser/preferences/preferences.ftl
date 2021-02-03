@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Dowej strōnōm znać sygnałym “Do Not Track", iże majōm cie niy śledzić
+do-not-track-description = Dowej strōnōm znać sygnałym „Do Not Track", iże majōm cie niy śledzić
 do-not-track-learn-more = Przewiydz sie wiyncyj
 do-not-track-option-default-content-blocking-known =
     .label = Ino jak { -brand-short-name } mo załōnczōne szperowanie poznanych śledzōncych elemyntōw
@@ -962,13 +962,13 @@ content-blocking-fpi-incompatibility-warning = Używosz fōnkcyje First Party Is
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Sztandardowe
+    .label = Sztandardowo
     .accesskey = d
 enhanced-tracking-protection-setting-strict =
-    .label = Sztryng
+    .label = Surowo
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
-    .label = Włosne
+    .label = Włosno
     .accesskey = W
 
 ##

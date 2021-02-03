@@ -9,8 +9,8 @@ protections-panel-sitefixedsendreport-label = Strōna już funguje? Poślij rapo
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
-protections-popup-footer-protection-label-strict = Sztryng
-    .label = Sztryng
+protections-popup-footer-protection-label-strict = Surowo
+    .label = Surowo
 protections-popup-footer-protection-label-custom = Włosno
     .label = Włosno
 protections-popup-footer-protection-label-standard = Sztandardowo
