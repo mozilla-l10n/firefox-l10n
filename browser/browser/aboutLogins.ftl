@@ -84,6 +84,7 @@ login-item-new-login-title = Krijoni Kredenciale të Reja Hyrjeje
 login-item-edit-button = Përpunoni
 about-logins-login-item-remove-button = Hiqi
 login-item-origin-label = Adresë sajti
+login-item-tooltip-message = Sigurohuni që kjo përputhet me adresën e saktë të sajtit ku hyni.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Emër përdoruesi
@@ -169,9 +170,41 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Të hiqen këto kredenciale hyrjesh?
 confirm-delete-dialog-message = Ky veprim s’mund të zhbëhet.
 about-logins-confirm-remove-dialog-confirm-button = Hiqi
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Hiqe
+       *[other] Hiqi Krejt
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Po, hiqe këtë kredencial
+       *[other] Po, hiqi këto kredenciale
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Të hiqet { $count } kredencial?
+       *[other] Të hiqen krejt { $count } kredencialet?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Kjo do të heqë kredencialin që keni ruajtur te { -brand-short-name } dhe çfarëdo sinjalizimesh cenimi që shfaqen këtu. S’do të jeni në gjendje ta zhbëni këtë veprim.
+       *[other] Kjo do të heqë kredencialet që keni ruajtur te { -brand-short-name } dhe çfarëdo sinjalizimesh cenimi që shfaqen këtu. S’do të jeni në gjendje ta zhbëni këtë veprim.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Të hiqet { $count } kredencial nga krejt pajisjet?
+       *[other] Të hiqet krejt { $count } kredencialet nga krejt pajisjet?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Kjo do të heqë kredencialin që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara te { -fxaccount-brand-name } juaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S"do të jeni në gjendje të zhbëni këtë veprim.
+       *[other] Kjo do të heqë krejt kredencialet që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara te { -fxaccount-brand-name } juaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S"do të jeni në gjendje të zhbëni këtë veprim.
+    }
 about-logins-confirm-export-dialog-title = Eksportoni kredenciale hyrjesh dhe fjalëkalime
 about-logins-confirm-export-dialog-message = Fjalëkalimet tuaj do të ruhen si tekst i lexueshëm (p.sh., BadP@ssw0rd), ndaj, cilido që mund të hapë kartelën e eksportuar, mund t’i shohë.
 about-logins-confirm-export-dialog-confirm-button = Eksportoni…
+about-logins-alert-import-title = Importim i Plotësuar
+about-logins-alert-import-message = Shihni përmbledhje të hollësishme të importimit
 confirm-discard-changes-dialog-title = Të hidhen tej këto ndryshime?
 confirm-discard-changes-dialog-message = Do të humbin krejt ndryshimet e paruajtura.
 confirm-discard-changes-dialog-confirm-button = Hidhe tej
@@ -233,11 +266,37 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokument CVS
        *[other] Kartelë CVS
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument TSV
+       *[other] Kartelë TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Importim i Plotësuar
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>U shtuan kredenciale të reja:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>U përditësuan kredenciale ekzistuese:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>U gjetën kredenciale të përsëdytur:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(jo të importuara)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Gabime:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(jo të importuara)</span>
+    }
+about-logins-import-dialog-done = U bë
+about-logins-import-dialog-error-title = Gabim Importimi
 
 ## Logins import report page
 
