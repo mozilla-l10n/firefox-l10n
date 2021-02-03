@@ -57,4 +57,6 @@
 <!ENTITY smart.label "Instalace software">
 <!ENTITY mousewheel.label "Kolečko myši">
 
+<!ENTITY debugging.label "Ladění">
+
 <!ENTITY focusSearch.key "f">
