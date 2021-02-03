@@ -17,6 +17,16 @@ appmenuitem-new-window =
     .label = కొత్త విండో
 appmenuitem-new-private-window =
     .label = కొత్త ఆంతరంగిక విండో
+appmenuitem-passwords =
+    .label = సంకేతపదాలు
+appmenuitem-extensions-and-themes =
+    .label = పొడగింతలు, అలంకారాలు
+appmenuitem-more-tools =
+    .label = మరిన్ని పనిముట్లు
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = అమరికలు
 
 ## Zoom and Fullscreen Controls
 
@@ -49,12 +59,16 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = మరింత సమాచారం చూపించు
 profiler-popup-learn-more = ఇంకా తెలుసుకోండి
 profiler-popup-settings =
     .value = అమరికలు
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } సహాయం
 appmenu-about =
     .label = { -brand-shorter-name } గురించి
     .accesskey = A
@@ -70,6 +84,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = కీబోర్డు షార్టుకట్లు
     .accesskey = K
+appmenu-get-help =
+    .label = సహాయం పొందండి
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = సమస్యాపరిష్కారపు సమాచారం
     .accesskey = T
@@ -99,3 +116,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = తాజాకరణలకై చూడు…
