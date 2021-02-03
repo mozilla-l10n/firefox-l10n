@@ -291,6 +291,15 @@ menu-window-bring-all-to-front =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-get-help
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
 menu-help =
     .label = సహాయం
     .accesskey = H
@@ -306,6 +315,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = కీబోర్డు షార్టుకట్లు
     .accesskey = K
+menu-get-help =
+    .label = సహాయం పొందండి
+    .accesskey = H
 menu-help-troubleshooting-info =
     .label = సమస్యాపరిష్కారపు సమాచారం
     .accesskey = T
@@ -326,3 +338,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = ఇది ఒక మోసపూరిత సైట్ కాదు...
     .accesskey = d
+menu-help-check-for-update =
+    .label = తాజాకరణలకై చూడు…
+    .accesskey = C
