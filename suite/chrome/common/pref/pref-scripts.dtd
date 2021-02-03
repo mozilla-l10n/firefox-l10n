@@ -21,6 +21,7 @@
 <!ENTITY allowHideStatusBar.label        "Skrýt stavový řádek">
 
 <!ENTITY debugging.label                  "Ladění JavaScriptu">
+<!ENTITY debugEnableDump.label            "Povolit výstup JavaScriptu ()">
 
 <!ENTITY enablePlugins.label             "Povolit zásuvné moduly pro">
 <!ENTITY enablePluginForSuite.label      "Seamonkey">
