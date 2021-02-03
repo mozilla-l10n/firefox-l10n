@@ -300,3 +300,4 @@ cfr-whatsnew-bookmarking-body = Könnyebb nyomon követni kedvenc webhelyeit. A 
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Átfogó védelem a webhelyek közötti sütik követése ellen
