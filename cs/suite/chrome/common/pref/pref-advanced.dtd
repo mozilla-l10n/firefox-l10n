@@ -14,6 +14,10 @@
 <!ENTITY prefCheckDefaultClient.label     "Při startu kontrolovat nastavení výchozí aplikace">
 <!ENTITY prefCheckDefaultClient.accesskey "t">
 
+<!ENTITY printing.label                   "Tisk">
+<!ENTITY useNativePrintDialog.label       "Použít nativní dialog tisku (pokud je podporován)">
+<!ENTITY useGlobalPrintSettings.label     "Použít globální nastavení tisku">
+
 <!ENTITY crashReports.caption             "Hlášení pádů">
 <!ENTITY submitCrashes.label              "Odesílat hlášení o pádech">
 <!ENTITY submitCrashes.accesskey          "O">
