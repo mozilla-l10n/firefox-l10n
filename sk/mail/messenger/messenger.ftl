@@ -3,3 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-rights-notification-text = { -brand-short-name } je voľne šíriteľný otvorený softvér vytvorený spoločenstvom tisícov prispievateľov z celého sveta.
+
+## Folder Pane
+
+folder-pane-header-label = Priečinky
+
+## Folder Toolbar Header Popup
+
+show-all-folders-label =
+    .label = Všetky priečinky
+    .accesskey = V
+show-smart-folders-label =
+    .label = Zoskupené priečinky
+    .accesskey = Z
