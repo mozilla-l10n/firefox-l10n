@@ -84,6 +84,7 @@ login-item-new-login-title = Sortu saio-hasiera berria
 login-item-edit-button = Editatu
 about-logins-login-item-remove-button = Kendu
 login-item-origin-label = Webgunearen helbidea
+login-item-tooltip-message = Ziurtatu hau bat datorrela saioa-hasten duzun webgunearen helbide zehatzarekin.
 login-item-origin =
     .placeholder = https://www.adibidea.eus
 login-item-username-label = Erabiltzaile-izena
