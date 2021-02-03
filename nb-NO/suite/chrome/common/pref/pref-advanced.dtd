@@ -3,20 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Avansert">
+<!ENTITY pref.advanced.title              "Avansert">
 
-<!ENTITY systemPref.caption         "Systeminnstillinger">
-<!ENTITY systemPrefCheck.label      "Bruk innstillinger fra systemet">
-<!ENTITY systemPrefCheck.accesskey  "s">
-<!ENTITY systemPref.desc            "Velg denne boksen for å arve innstillinger fra systemet. Systeminnstillinger vil overstyre &brandShortName;-innstillinger">
+<!ENTITY systemPref.caption               "Systeminnstillinger">
+<!ENTITY systemPrefCheck.label            "Bruk innstillinger fra systemet">
+<!ENTITY systemPrefCheck.accesskey        "s">
+<!ENTITY systemPref.desc                  "Velg denne boksen for å arve innstillinger fra systemet. Systeminnstillinger vil overstyre &brandShortName;-innstillinger">
 
-<!ENTITY prefCheckDefault.caption   "Systemintegrasjon">
-<!ENTITY prefCheckDefaultClient.label "Kontroller standardprogram-innstillinger ved oppstart">
+<!ENTITY prefCheckDefault.caption         "Systemintegrasjon">
+<!ENTITY prefCheckDefaultClient.label     "Kontroller standardprogram-innstillinger ved oppstart">
 <!ENTITY prefCheckDefaultClient.accesskey "K">
 
-<!ENTITY crashReports.caption       "Krasjrapportering">
-<!ENTITY submitCrashes.label        "Send krasjrapporter">
-<!ENTITY submitCrashes.accesskey    "S">
+<!ENTITY printing.label                   "Skriver ut">
+
+<!ENTITY crashReports.caption             "Krasjrapportering">
+<!ENTITY submitCrashes.label              "Send krasjrapporter">
+<!ENTITY submitCrashes.accesskey          "S">
 
 <!ENTITY devTools.caption                 "Utviklerverktøy">
 <!ENTITY allowDebugger.label              "Tillat en debugger å koble til &brandShortName;">
