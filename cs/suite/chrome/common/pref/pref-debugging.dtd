@@ -12,5 +12,8 @@
 <!ENTITY debugDisableXULCache.label       "Zakázat XUL mezipaměť">
 
 <!-- Event Debugging -->
+<!ENTITY debugEvents.label "Události">
+<!ENTITY debugPaintFlashing.label "Zvýrazňování překreslování (přepíná Caps-Lock)">
+<!ENTITY debugPaintFlashingChrome.label "Zvýrazňování překreslování Chrome">
 
 <!-- Reflow Event Debugging -->
