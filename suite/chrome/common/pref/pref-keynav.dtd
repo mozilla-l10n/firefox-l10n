@@ -22,4 +22,6 @@
 <!ENTITY modifiers.label "Modifiers">
 <!ENTITY acceleratorKey.label "Versnellingstoets:">
 <!ENTITY acceleratorKey.accesskey "V">
+<!ENTITY menuAccessKey.label "Accesskey menu:">
+<!ENTITY menuAccessKey.accesskey "m">
 <!ENTITY modifiersDesc.label "Noot: een waarde van nul schakelt een modifiertoets uit.">

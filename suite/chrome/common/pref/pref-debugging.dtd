@@ -17,3 +17,4 @@
 <!ENTITY debugEvents.label "Gebeurtenissen">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowShowFrameCounts.label        "Aantallen frames tonen">
