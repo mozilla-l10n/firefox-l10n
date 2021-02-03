@@ -23,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = Søk på nettet
     .title = Søk på nettet
     .aria-label = Søk på nettet
+newtab-search-box-text = Søk på nettet
+newtab-search-box-input =
+    .placeholder = Søk på nettet
+    .aria-label = Søk på nettet
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Legg til søkjemotor
 newtab-topsites-add-topsites-header = Ny Mest besøkt
+newtab-topsites-add-shortcut-header = Ny snarveg
 newtab-topsites-edit-topsites-header = Rediger Mest besøkt
+newtab-topsites-edit-shortcut-header = Rediger snarveg
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Skriv inn ein tittel

@@ -23,6 +23,10 @@ about-processes-column-cpu-total = Prosessor
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-gpu-process-name = GPU (prosess { $pid })
+about-processes-vr-process-name = VR (process { $pid })
+about-processes-rdd-process-name = Datadekodar (prosess { $pid })
+about-processes-socket-process-name = Nettverk (prosess { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.

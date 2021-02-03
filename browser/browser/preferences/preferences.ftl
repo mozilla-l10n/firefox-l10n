@@ -926,9 +926,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Opne faner
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Snarvegar
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = Mest besøkte nettstadar
     .accesskey = M
+addressbar-locbar-engines-option =
+    .label = Søkjemotorar
+    .accesskey = k
 addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 
 ## Privacy Section - Content Blocking

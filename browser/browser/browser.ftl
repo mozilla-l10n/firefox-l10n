@@ -346,6 +346,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Lat att
 
+## Tab actions
+
+browser-tab-audio-playing = Spelar av
+browser-tab-audio-muted = Dempa
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -504,6 +509,15 @@ fullscreen-exit-mac-button = Avslutt fullskjerm (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> har kontroll over peikaren din. Trykk Esc for å ta tilbake kontrollen.
 pointerlock-warning-no-domain = Dette dokumentet har kontroll over musepeikaren. Trykk på Esc for å ta tilbake kontrollen.
 
+## Subframe crash notification
+
+crashed-subframe-learnmore =
+    .label = Les meir
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Send inn rapport
+    .accesskey = S
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -564,6 +578,8 @@ library-bookmarks-bookmark-this-page =
     .label = Bokmerk denne sida
 library-bookmarks-bookmark-edit =
     .label = Rediger dette bokmerket
+library-recent-activity-title =
+    .value = Nyleg aktivitet
 
 ## More items
 
