@@ -112,7 +112,7 @@ menu-edit-find-on =
     .label = Pronađi na ovoj stranici …
     .accesskey = s
 menu-edit-find-again =
-    .label = Ponovo pronađi
+    .label = Pronađi ponovo
     .accesskey = P
 menu-edit-bidi-switch-text-direction =
     .label = Promijeni smjer teksta
@@ -289,6 +289,15 @@ menu-window-bring-all-to-front =
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-help-product
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
