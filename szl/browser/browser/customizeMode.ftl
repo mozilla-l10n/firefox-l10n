@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Wrōć bazowe nasztalowania
+    .label = Wrōć wychodne sztalōnki
 customize-mode-menu-and-toolbars-header = Przeciōngej swoje ulubiōne elymynta na posek z noczyniami abo do rozszyrzanego menu.
 customize-mode-overflow-list-title = Rozszyrzane menu
 customize-mode-uidensity =
