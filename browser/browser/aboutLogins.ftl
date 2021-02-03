@@ -281,5 +281,10 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Import fullført
 about-logins-import-dialog-done = Ferdig
 about-logins-import-dialog-error-title = Importfeil
+about-logins-import-dialog-error-file-permission-title = Klarte ikkje å lese fila
 about-logins-import-dialog-error-learn-more = Les meir
+about-logins-import-dialog-error-try-again = Prøv igjen…
 about-logins-import-dialog-error-cancel = Avbryt
+
+## Logins import report page
+

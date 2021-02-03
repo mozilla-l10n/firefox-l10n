@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nytt vindauge
 appmenuitem-new-private-window =
     .label = Nytt privat vindauge
+appmenuitem-passwords =
+    .label = Passord
+appmenuitem-extensions-and-themes =
+    .label = Utvidingar og tema
+appmenuitem-find-in-page =
+    .label = Finn på sida…
+appmenuitem-more-tools =
+    .label = Fleire verktøy
+appmenuitem-exit =
+    .label = Avslutt
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Innstillingar
 
 ## Zoom and Fullscreen Controls
 
@@ -53,6 +67,15 @@ profiler-popup-reveal-description-button =
     .aria-label = Vis meir informasjon
 profiler-popup-description-title =
     .value = Registrer, analyser, del
+profiler-popup-learn-more = Les meir
+profiler-popup-settings =
+    .value = Innstillingar
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Rediger innstillingar …
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Tilpassa
 
 ## Help panel
 
