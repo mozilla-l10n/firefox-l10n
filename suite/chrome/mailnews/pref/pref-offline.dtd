@@ -28,7 +28,7 @@
 <!ENTITY radioNotDownload.accesskey       "o">
 <!ENTITY radioAskDownload                 "Perguntar">
 <!ENTITY radioAskDownload.accesskey       "e">
-<!ENTITY mailConnections.caption          "Conexões de e-mail">
+<!ENTITY mailConnections.caption          "Conexões de email">
 <!ENTITY mailnewsTimeout.label            "Atingido o tempo limite de conexão:">
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "segundos">
