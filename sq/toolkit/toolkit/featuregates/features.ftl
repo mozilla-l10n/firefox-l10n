@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Mbulim eksperimental për lejim ha
 experimental-features-http3 =
     .label = Protokoll HTTP/3
 experimental-features-http3-description = Mbulim eksperimental për protokollin HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Shtyllë Adresash: shfaq përfundime gjatë hartimi IME
