@@ -115,6 +115,8 @@ about-webrtc-fold-show-msg = shfaqni hollësi
     .title = klikoni që të zgjerohet kjo pjesë
 about-webrtc-fold-hide-msg = fshihini hollësitë
     .title = klikoni që të tkurret kjo pjesë
+about-webrtc-dropped-frames-label = Kuadro të humbura:
+about-webrtc-discarded-packets-label = Pakete të hedhur tej:
 about-webrtc-decoder-label = Shkodues
 about-webrtc-encoder-label = Kodues
 about-webrtc-show-tab-label = Shfaq skedë
@@ -154,6 +156,11 @@ about-webrtc-send-bandwidth-bytes-sec = Shpejtësi Dërgimi (bajte/s)
 about-webrtc-receive-bandwidth-bytes-sec = Shpejtësi Marrjeje (bajte/s)
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Mbushje Maksimum (bajte/sek)
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Statistika Kuadrosh Video - ID MediaStreamTrack: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -167,6 +174,14 @@ about-webrtc-aec-logging-off-state-msg = kartelat e regjistrimit të thirrjes mu
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] U mor { $packets } paketë
+       *[other] U morën { $packets } paketa
+    }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
