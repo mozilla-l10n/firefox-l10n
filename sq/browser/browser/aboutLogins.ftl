@@ -297,6 +297,9 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = U bë
 about-logins-import-dialog-error-title = Gabim Importimi
+about-logins-import-dialog-error-conflicting-values-title = Vlera të Shumëfishta Që Përplase për Një Kredencial
+about-logins-import-dialog-error-conflicting-values-description = Për shembull: disa emra përdoruesish, fjalëkalimesh, URL, etj. për një kredencial.
+about-logins-import-dialog-error-file-format-title = Problem Formati Kartelash
 
 ## Logins import report page
 
