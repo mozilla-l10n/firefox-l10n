@@ -10,7 +10,7 @@
 <!ENTITY preserveThreading.accesskey      "p">
 <!ENTITY loadInBackground.label           "Mudar para novas abas quando forem abertas">
 <!ENTITY loadInBackground.accesskey       "M">
-<!ENTITY mailBiffOnNewWindow.label        "Somente obter novos e-mails após abrir email &amp; grupos de notícias">
+<!ENTITY mailBiffOnNewWindow.label        "Só verificar se há novos emails após abrir email e grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
 <!ENTITY defaultMailSettings.description  "Definir o &brandShortName; como aplicativo padrão para:">
@@ -22,7 +22,7 @@
 <!ENTITY setDefaultFeed.accesskey         "R">
 
 <!ENTITY useInternalSettings.description  "Usar o Email e grupos de notícias do &brandShortName; quando abrir no navegador links de:">
-<!ENTITY useInternalMail.label            "E-mail (mailto:)">
+<!ENTITY useInternalMail.label            "Email (mailto:)">
 <!ENTITY useInternalMail.accesskey        "a">
 <!ENTITY useInternalNews.label            "Servidor de notícias (news:, snews:, nntp:)">
 <!ENTITY useInternalNews.accesskey        "s">

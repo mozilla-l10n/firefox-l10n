@@ -30,7 +30,7 @@
 <!ENTITY pref.suspectMail.caption       "Emails suspeitos">
 
 <!-- Phishing Detector -->
-<!ENTITY pref.phishing.caption            "Antifraude">
+<!ENTITY pref.phishing.caption            "Fraudes via email">
 <!ENTITY enablePhishingDetector.label     "Alertar se a mensagem exibida for um possível golpe">
 <!ENTITY enablePhishingDetector.accesskey "t">
 
