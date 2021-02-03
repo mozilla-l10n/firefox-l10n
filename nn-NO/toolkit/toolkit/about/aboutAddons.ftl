@@ -187,7 +187,7 @@ extensions-warning-update-security-button = Slå på
 
 ## Strings connected to add-on updates
 
-addon-updates-check-for-updates = Sjå etter oppdateringar no
+addon-updates-check-for-updates = Sjå etter oppdateringar
     .accesskey = S
 addon-updates-view-updates = Vis nyleg oppdaterte
     .accesskey = V
