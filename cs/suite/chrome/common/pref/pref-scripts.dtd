@@ -22,6 +22,8 @@
 
 <!ENTITY debugging.label                  "Ladění JavaScriptu">
 <!ENTITY debugEnableDump.label            "Povolit výstup JavaScriptu ()">
+<!ENTITY debugStrictJavascript.label      "Zobrazit varování scrict JavaScript">
+<!ENTITY debugConsoleJavascript.label     "Zobrazit chyby a varování chrome JavaScript">
 
 <!ENTITY enablePlugins.label             "Povolit zásuvné moduly pro">
 <!ENTITY enablePluginForSuite.label      "Seamonkey">
