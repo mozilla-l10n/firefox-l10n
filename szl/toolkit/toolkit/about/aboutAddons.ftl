@@ -20,9 +20,9 @@ list-empty-find-updates =
     .label = Badnij za aktualizacyjami
 list-empty-button =
     .label = Przewiydz sie wiyncyj ô rozszyrzyniach
-help-button = Spōmōżka do rozszyrzyń
+help-button = Pōmoc do rozszyrzyń
 sidebar-help-button-title =
-    .title = Spōmōżka do rozszyrzyń
+    .title = Pōmoc do rozszyrzyń
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } - Ôpcyje
