@@ -17,14 +17,6 @@ printui-page-range-custom = Vetjake
 printui-page-range-label = Faqe
 printui-page-range-picker =
     .aria-label = Zgjidhni interval faqesh
-printui-page-custom-range =
-    .aria-label = Jepni interval vetjak faqesh
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Nga
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = në
 printui-page-custom-range-input =
     .aria-label = Jepni interval vetjak faqesh
     .placeholder = p.sh., 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = Mënjana
 printui-margins-default = Parazgjedhje
 printui-margins-min = Minimum
 printui-margins-none = Asnjë
-printui-margins-custom = Vetjake
 printui-margins-custom-inches = Vetjake (inç)
 printui-margins-custom-top = Në Krye
 printui-margins-custom-top-inches = Krye (inç)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Faqe për fletë
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Po shtypet…
+printui-print-progress-indicator-saving = Po ruhet…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

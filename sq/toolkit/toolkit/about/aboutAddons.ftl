@@ -380,15 +380,14 @@ addon-detail-private-browsing-disallow = Mos e Lejo
 addon-badge-recommended2 =
     .title = { -brand-product-name } rekomandon vetëm zgjerime që pajohen me standadet tona mbi sigurinë dhe funksionimin
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Ky zgjerim qe krijuar nga prodhuesit e { -brand-product-name }-it
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Kodi i këtij zgjerimi është shqyrtuar për parrezikshmëri
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Ky është një zgjerim zyrtar i ndërtuar nga krijuesit e { -brand-product-name }-it
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Zgjerim zyrtar i ndërtuar nga Mozilla. Plotëson standarde sigurie dhe funksionimi.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Ky zgjerim është shqyrtuar për të qenë në pajtim me standardet tona për sigurinë dhe punimin.
     .aria-label = { addon-badge-verified2.title }
