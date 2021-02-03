@@ -41,6 +41,10 @@ perftools-devtools-settings-label = Rregullime
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Kur është i aktivizuar Shfletimi Privat, profilizuesi është i çaktivizuar.
+    Që të riaktivizohet profilizuesi, mbyllni krejt Dritaret Private
+perftools-status-recording-stopped-by-another-tool = Regjistrimi u ndal nga një mjet tjetër.
 perftools-status-restart-required = Që të aktivizohet kjo veçori, shfletuesi duhet rinisur.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
@@ -53,9 +57,35 @@ perftools-request-to-get-profile-and-stop-profiler = Po merret profili
 perftools-button-start-recording = Nis regjistrimin
 perftools-button-capture-recording = Përftoje regjistrimin
 perftools-button-cancel-recording = Anuloje regjistrimin
+perftools-button-save-settings = Ruaji rregullimet dhe kthehu mbrapsht
+perftools-button-restart = Rinise
+perftools-button-add-directory = Shtoni një drejtori
+perftools-button-remove-directory = Hiq të përzgjedhurën
+perftools-button-edit-settings = Përpunoni Rregullime…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Proceset kryesore për procesin mëmë dhe proceset e lëndës
+perftools-thread-dom-worker =
+    .title = Kjo trajton si “web workers”, ashtu edhe “service workers”
+perftools-thread-renderer =
+    .title = Kur është i aktivizuar WebRender, rrjedha që ekzekuton thirrjet OpenGL
+perftools-thread-render-backend =
+    .title = Rrjedha WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Kur aktivizohet vizatimi “off-main-thread”, rrjedha në të cilën ndodh vizatimi
+perftools-thread-style-thread =
+    .title = Përllogaritja e stilit është ndarë në disa rrjedha
+perftools-thread-img-decoder =
+    .title = Rrjedha shkodimi figurash
+perftools-thread-dns-resolver =
+    .title = Ftillimi DNS ndodh në këtë rrjedhë
+perftools-thread-js-helper =
+    .title = Punë në prapaskenë mekanizmi JS, bie fjala përpilime off-main-thread
 
 ##
 
+perftools-record-all-registered-threads = Anashkalo përzgjedhjet më sipër dhe regjistro krejt rrjedha e regjistruara
+perftools-tools-threads-input-label =
+    .title = Këto emra rrjedhash janë një listë e ndarë me presje, që përdoret për të aktivizuar profilizim rrjedhash te profilizuesi. Emri lypset të jetë vetëm një përputhje e pjesshme e emrit të rrjedhës që duhet përfshirë. Është i ndjeshëm ndaj hapësirave të zbrazëta.
