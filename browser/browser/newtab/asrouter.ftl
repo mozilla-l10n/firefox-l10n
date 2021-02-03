@@ -120,6 +120,9 @@ cfr-whatsnew-lockwise-take-link-text = Merrni aplikacionin
 
 cfr-whatsnew-searchbar-title = Shtypni më pak, gjeni më shumë me shtyllën e adresave
 cfr-whatsnew-searchbar-body-topsites = Tani, thjesht përzgjidhni shtyllën e adresave, dhe do të zgjerohet një kuadrat me lidhje për te sajtet tuaj kryesues.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ikonë thjerrëze zmadhimi
 
 ## Picture-in-Picture
@@ -197,11 +200,15 @@ cfr-doorhanger-cryptominers-description = Privatësia juaj ka vlerë. { -brand-s
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] 	{ -brand-short-name } bllokoi mbi <b>{ $blockedCount }</b> gjurmues që prej { $date }!
        *[other] 	{ -brand-short-name } bllokoi mbi <b>{ $blockedCount }</b> gjurmues që prej { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } bllokoi mbi <b>{ $blockedCount }</b> gjurmues që prej { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Shihini Krejt
     .accesskey = S
@@ -270,3 +277,20 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustrim bllokimi cookie-sh
 cfr-whatsnew-media-keys-header = Më tepër kontrolle media
 cfr-whatsnew-media-keys-body = Luani dhe ndalni audio ose video drejt e nga tastiera juaj ose kufjet, duke e bërë të lehtë të kontrollohet media prej një skede tjetër, program, ose madje edhe kur kompjuteri juaj është i kyçur. Mundeni edhe të kaloni nga një pjesë në një tjetër, duke përdorur tastet Para dhe Pas.
 cfr-whatsnew-media-keys-button = Mësoni se si
+
+## What's new: Search shortcuts
+
+cfr-whatsnew-search-shortcuts-header = Kërkoni shkurtore te shtylla e adresave
+cfr-whatsnew-search-shortcuts-body = Tani, kur shtypni një motor kërkimi, ose një sajt specifik, te shtylla e adresave, te sugjerimet poshtë do të shfaqet një shkurtore blu. Përzgjidheni këtë shkurtore që të plotësoni kërkimin tuaj drejt e nga shtylla e adresave.
+
+## What's new: Cookies protection
+
+cfr-whatsnew-supercookies-header = Mbrojtje nga “supercookies” të liga
+cfr-whatsnew-supercookies-body = Sajtet mund të bashkëngjisin në fshehtësi një “supercookie” te shfletuesi juaj, e cila mund t’ju ndjekë nëpër internet, madje edhe pasi të keni spastruar cookie-t tuaja. { -brand-short-name }-i tani sjell mbrojtje të fuqishme kundër supercookie-sh, që kështu të mos mund të përdoren për të ndjekur veprimtari tuajat internetore nga një sajt te tjetri.
+
+## What's new: Better bookmarking
+
+cfr-whatsnew-bookmarking-header = Punim më i mirë me faqerojtësit
+
+## What's new: Cross-site cookie tracking
+
