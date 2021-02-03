@@ -19,4 +19,4 @@ crashes-submitted-label = Poslani izvještaji rušenja
 date-submitted-heading = Datum slanja
 view-crash-button-label = Prikaži
 no-reports-label = Nema poslanih izvještaja rušenja.
-no-config-label = Ovaj program nije podešen za prikazivanje izvještaja rušenja. Treba omogućiti značajku <code>breakpad.reportURL</code>.
+no-config-label = Ovaj program nije podešen za prikazivanje izvještaja o prekidima programa. Postavka <code>breakpad.reportURL</code> mora biti postavljena.
