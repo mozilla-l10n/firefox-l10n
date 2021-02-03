@@ -156,6 +156,9 @@ about-webrtc-send-bandwidth-bytes-sec = Shpejtësi Dërgimi (bajte/s)
 about-webrtc-receive-bandwidth-bytes-sec = Shpejtësi Marrjeje (bajte/s)
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Mbushje Maksimum (bajte/sek)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT ms
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -181,6 +184,22 @@ about-webrtc-received-label =
     { $packets ->
         [one] U mor { $packets } paketë
        *[other] U morën { $packets } paketa
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] U humb { $packets } paketë
+       *[other] U humbën { $packets } paketa
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] U dërgua { $packets } paketë
+       *[other] U dërguan { $packets } paketa
     }
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
