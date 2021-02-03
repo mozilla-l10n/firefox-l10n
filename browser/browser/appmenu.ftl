@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } súgó
 appmenu-about =
     .label = A { -brand-shorter-name } névjegye
     .accesskey = A
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Gyorsbillentyűk
     .accesskey = G
+appmenu-get-help =
+    .label = Segítség kérése
+    .accesskey = S
 appmenu-help-troubleshooting-info =
     .label = Hibakeresési információ
     .accesskey = H
