@@ -300,6 +300,8 @@ about-logins-import-dialog-error-title = Gabim Importimi
 about-logins-import-dialog-error-conflicting-values-title = Vlera të Shumëfishta Që Përplase për Një Kredencial
 about-logins-import-dialog-error-conflicting-values-description = Për shembull: disa emra përdoruesish, fjalëkalimesh, URL, etj. për një kredencial.
 about-logins-import-dialog-error-file-format-title = Problem Formati Kartelash
+about-logins-import-dialog-error-file-format-description = Krye shtyllash të pasaktë ose që mungojnë. Sigurohuni se kartela përfshin shtylla për emër përdoruesi, fjalëkalim dhe URL.
+about-logins-import-dialog-error-file-permission-title = S’arrihet të Lexohet Kartelë
 
 ## Logins import report page
 
