@@ -13,9 +13,9 @@ page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = Benvignude int!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
-error-short-desc-text = O sin vignûts a cjatâus in pâs e cun buinevolontât!
+error-short-desc-text = O sin vignûts a cjatâus in pâs e cun buine volontât!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = I robots no àn di fâ mâl ae int  o, par inazion, permeti che i  umans si fasedin mâl di bessoj.
+error-long-desc1 = I robots no àn di fâ mâl ae int  o, no fasint nuie, permeti che i  umans si fasedin mâl di bessôi.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = I robots a àn viodût robis che vualtris no rivararessis a crodi.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
