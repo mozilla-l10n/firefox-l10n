@@ -49,6 +49,10 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provoni t
 inactive-css-not-display-block-on-floated-fix = Provoni të hiqni <strong>float</strong> ose të shtoni <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Provoni të ujdisni vetinë e tij <strong>position</strong> si diçka tjetër nga <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Provoni të shtoni <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Provoni të vini vetinë e tij <strong>display</strong> si diçka tjetër nga <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ose <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provoni të vini vetinë e tij <strong>display</strong> si diçka tjetër nga <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ose <strong>table-footer-group</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Provoni të vini vetinë e tij <strong>outline-style</strong> si diçka tjetër nga <strong>auto</strong> ose <strong>none</strong>. { learn-more }
+inactive-css-not-table-fix = Provoni të shtoni <strong>display:table</strong> ose <strong>display:inline-table</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
