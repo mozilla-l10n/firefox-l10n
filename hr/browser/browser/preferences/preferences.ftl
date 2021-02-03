@@ -294,7 +294,7 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Koristi { $app-name } (uobičajeno)
+    .label = Koristi { $app-name } (standardno)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
@@ -326,7 +326,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 applications-use-plugin-in =
     .label = Koristi { $plugin-name } (u { -brand-short-name })
 applications-open-inapp =
-    .label = Otvori u { -brand-short-name }
+    .label = Otvori u { -brand-short-name }u
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -959,8 +959,8 @@ content-blocking-learn-more = Saznaj više
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Uobičajeno
-    .accesskey = o
+    .label = Standardno
+    .accesskey = d
 enhanced-tracking-protection-setting-strict =
     .label = Strogo
     .accesskey = r
