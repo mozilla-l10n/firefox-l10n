@@ -204,11 +204,16 @@ cfr-doorhanger-cryptominers-description = Számít az adatvédelem. A { -brand-s
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { $date } óta!
        *[other] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { $date } óta!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { DATETIME($date, month: "long", year: "numeric") } óta!
+       *[other] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { DATETIME($date, month: "long", year: "numeric") } óta!
     }
 cfr-doorhanger-milestone-ok-button = Összes megjelenítése
     .accesskey = m
@@ -292,3 +297,6 @@ cfr-whatsnew-supercookies-body = A webhelyek titkon „szupersütit” csatolhat
 
 cfr-whatsnew-bookmarking-header = Jobb könyvjelzőkezelés
 cfr-whatsnew-bookmarking-body = Könnyebb nyomon követni kedvenc webhelyeit. A { -brand-short-name } most megjegyzi az elmentett könyvjelzői kedvelt helyét, alapértelmezés szerint megjeleníti a könyvjelzők eszköztárat az új lapokon, s az eszköztármappán keresztül könnyen hozzáférhet a többi könyvjelzőhöz.
+
+## What's new: Cross-site cookie tracking
+
