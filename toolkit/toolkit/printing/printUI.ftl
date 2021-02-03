@@ -17,14 +17,6 @@ printui-page-range-custom = Tilpassa
 printui-page-range-label = Sider
 printui-page-range-picker =
     .aria-label = Vel sideområde
-printui-page-custom-range =
-    .aria-label = Skriv inn tilpasssa sideområde
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Frå
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = til
 # Section title for the number of copies to print
 printui-copies-label = Eksemplar
 printui-orientation = Papirretning
@@ -52,7 +44,6 @@ printui-margins = Margar
 printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Ingen
-printui-margins-custom = Tilpassa
 printui-margins-custom-top = Topp
 printui-margins-custom-bottom = Botn
 printui-margins-custom-left = Venstre
@@ -70,6 +61,7 @@ printui-preview-label =
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Skriv ut…
+printui-print-progress-indicator-saving = Lagrar…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 

@@ -185,6 +185,23 @@ remote-debugging-url = Nettadresse
 
 ##
 
+support-third-party-modules-module = Modulfil
+support-third-party-modules-version = Filversjon
+support-third-party-modules-vendor = Leverandørinformasjon
+support-third-party-modules-occurrence = Førekomst
+support-third-party-modules-process = Prosesstype og ID
+support-third-party-modules-thread = Tråd
+support-third-party-modules-status = Status
+support-third-party-modules-status-loaded = Lasta
+support-third-party-modules-status-blocked = Blokkert
+support-third-party-modules-status-redirected = Omdirigert
+support-third-party-modules-no-value = (Ingen verdi)
+support-third-party-modules-button-open =
+    .title = Opne filplassering…
+support-third-party-modules-expand =
+    .title = Vis detaljert informasjon
+support-third-party-modules-collapse =
+    .title = Skjul detaljert informasjon
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
