@@ -203,7 +203,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-       *[other] 自 { DATETIME($date, day: "numeric", month: "long", year: "numeric") } 起，{ -brand-short-name } 已封鎖超過 <b>{ $blockedCount }</b> 組追蹤器！
+       *[other] 自 { DATETIME($date, month: "long", year: "numeric") } 起，{ -brand-short-name } 已封鎖超過 <b>{ $blockedCount }</b> 組追蹤器！
     }
 cfr-doorhanger-milestone-ok-button = 檢視全部
     .accesskey = S
