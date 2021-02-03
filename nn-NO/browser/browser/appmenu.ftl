@@ -76,9 +76,21 @@ profiler-popup-edit-settings = Rediger innstillingar …
 # here only.
 profiler-popup-presets-custom =
     .label = Tilpassa
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name }-hjelp
 appmenu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
@@ -94,6 +106,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Tastatursnarvegar
     .accesskey = T
+appmenu-get-help =
+    .label = Få hjelp
+    .accesskey = F
 appmenu-help-troubleshooting-info =
     .label = Feilsøking
     .accesskey = e
