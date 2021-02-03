@@ -141,7 +141,7 @@ cfr-whatsnew-pip-cta = Saznaj više
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Manje dosadnih skočnih prozora stranica
-cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } sada blokira web stranice od automatskog zahtijevanja da Vam šalju skočne poruke.
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } sada blokira web-stranice da automatski zatraže slanje skočnih poruka.
 cfr-whatsnew-permission-prompt-cta = Saznaj više
 
 ## Fingerprinter Counter
@@ -208,7 +208,7 @@ cfr-doorhanger-cryptominers-description = Tvoja privatnost je važna. { -brand-s
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
@@ -297,3 +297,6 @@ cfr-whatsnew-supercookies-body = Web stranice mogu potajno postaviti “superkol
 
 cfr-whatsnew-bookmarking-header = Bolje zabilješke
 cfr-whatsnew-bookmarking-body = Lakše je pratiti tvoje omiljene stranice. { -brand-short-name } sada pamti tvoje preferirano mjesto za spremljene zabilješke, prikazuje alatnu traku zabilješki na novim karticama prema zadanim postavkama i omogućuje ti jednostavan pristup ostatku tvojih zabilješki pomoću mape na alatnoj traci.
+
+## What's new: Cross-site cookie tracking
+
