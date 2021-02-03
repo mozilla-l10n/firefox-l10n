@@ -345,6 +345,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Mbylleni
 
+## Tab actions
+
+browser-tab-audio-playing = Po luhet
+browser-tab-audio-muted = Pa Zë
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -503,6 +508,16 @@ fullscreen-exit-mac-button = Dilni Nga Sa Krejt Ekrani (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> është në kontroll të kursorit tuaj. Shtypni Esc që të rimerrni kontrollin.
 pointerlock-warning-no-domain = Kursori është nën kontrollin e kursorit tuaj. Shtypni Esc që të rimerrni kontrollin.
 
+## Subframe crash notification
+
+crashed-subframe-message = <strong>Një pjesë e kësaj faqeje u vithis.</strong> Për t’ia bërë të ditur { -brand-product-name }-it këtë çështje dhe për t’u zgjidhur më shpejt, ju lutemi, parashtroni një raport.
+crashed-subframe-learnmore =
+    .label = Mësoni Më Tepër
+    .accesskey = M
+crashed-subframe-submit =
+    .label = Parashtroni Njoftim
+    .accesskey = P
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -563,6 +578,8 @@ library-bookmarks-bookmark-this-page =
     .label = Faqeruaje Këtë Faqe
 library-bookmarks-bookmark-edit =
     .label = Përpunojeni Këtë Faqerojtës
+library-recent-activity-title =
+    .value = Veprimtari Së fundi
 
 ## More items
 
