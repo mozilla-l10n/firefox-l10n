@@ -17,14 +17,6 @@ printui-page-range-custom = Tilpasset
 printui-page-range-label = Sider
 printui-page-range-picker =
     .aria-label = Vælg sideinterval
-printui-page-custom-range =
-    .aria-label = Indtast tilpasset sideinterval
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Fra
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = til
 printui-page-custom-range-input =
     .aria-label = Indtast tilpasset sideinterval
     .placeholder = Fx 2-6, 9, 12-16
@@ -59,7 +51,6 @@ printui-margins = Margener
 printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Ingen
-printui-margins-custom = Tilpasset
 printui-margins-custom-inches = Tilpasset (tommer)
 printui-margins-custom-top = Top
 printui-margins-custom-top-inches = Top (tommer)
@@ -83,6 +74,7 @@ printui-pages-per-sheet = Sider pr. ark
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Udskriver…
+printui-print-progress-indicator-saving = Gemmer…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
