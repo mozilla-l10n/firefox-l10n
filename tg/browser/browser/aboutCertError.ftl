@@ -31,4 +31,6 @@ nssFailure2-title = Пайвасти бехатар иҷро нашуд
 csp-xfo-error-title = { -brand-short-name } ин саҳифаро кушода наметавонад
 corruptedContentError-title = Хатои муҳтавои вайроншуда
 remoteXUL-title = XUL-и дурдаст
+blockedByPolicy-title = Саҳифаи басташуда
+clockSkewError-title = Соати компютери шумо нодуруст аст
 networkProtocolError-title = Хатои протоколи шабака

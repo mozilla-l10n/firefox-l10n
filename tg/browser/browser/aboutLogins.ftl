@@ -215,6 +215,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Воридшавиҳои нав илова шуданд:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-error-file-permission-title = Файл хонда нашуд
+about-logins-import-dialog-error-learn-more = Маълумоти бештар
+about-logins-import-dialog-error-try-again = Аз нав кӯшиш кардан…
+about-logins-import-dialog-error-cancel = Бекор кардан
 
 ## Logins import report page
 
