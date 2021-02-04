@@ -84,6 +84,7 @@ login-item-new-login-title = Opret nyt login
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Webstedets adresse
+login-item-tooltip-message = Kontrollér at dette er adressen på det websted, hvor du logger ind.
 login-item-origin =
     .placeholder = https://www.eksempel.dk
 login-item-username-label = Brugernavn
@@ -311,3 +312,6 @@ about-logins-import-dialog-error-no-logins-imported = Ingen logins er blevet imp
 about-logins-import-dialog-error-learn-more = Læs mere
 about-logins-import-dialog-error-try-again = Prøv igen…
 about-logins-import-dialog-error-cancel = Annuller
+
+## Logins import report page
+
