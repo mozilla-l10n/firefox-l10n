@@ -228,4 +228,4 @@ media-block-image =
 page-info-page =
     .title = Page Info — { $website }
 page-info-frame =
-    .title = Frame Info – { $website }
+    .title = Frame Info — { $website }

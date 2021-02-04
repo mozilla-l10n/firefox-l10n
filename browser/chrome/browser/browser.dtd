@@ -42,10 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Full Screen">
 
-
-<!-- } is above this key on many keyboards -->
-
-
 <!ENTITY pictureInPictureHideToggle.label "Hide Picture-in-Picture Toggle">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -55,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Settings">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connect Another Device…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Sign in to &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Turn on &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Services">
@@ -100,7 +95,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY printButton.label            "Print">
 <!ENTITY printButton.tooltip          "Print this page">
-
 
 <!ENTITY searchItem.title             "Search">
 
@@ -171,7 +165,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Show all tabs from this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab synchronizing to view a list of tabs from your other devices.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab synchronization to view a list of tabs from your other devices.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -191,7 +185,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "Add to Toolbar">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Add to Overflow Menu">
@@ -219,18 +213,15 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageAction.copyLink.label    "Copy Link">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Save Page to Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "View Pocket List">
 
 <!ENTITY emailPageCmd.label           "Email Link…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Zoom">
 
@@ -256,7 +247,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Add Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

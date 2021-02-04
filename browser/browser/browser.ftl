@@ -178,7 +178,7 @@ page-action-send-tabs-panel =
 page-action-send-tabs-urlbar =
     .tooltiptext =
         { $tabCount ->
-            [one] Send Tab to Device
+            [1] Send Tab to Device
            *[other] Send { $tabCount } Tabs to Device
         }
 page-action-pocket-panel =
