@@ -15,5 +15,13 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Händelser">
+<!ENTITY debugPaintFlashing.label "Färgblinkning (Caps-Lock växlar)">
+<!ENTITY debugPaintFlashing.accesskey "F">
+<!ENTITY debugPaintFlashingChrome.label "Färgblinkning Chrome">
+<!ENTITY debugPaintFlashingChrome.accesskey "C">
+<!ENTITY debugPaintDumping.label "Färgdumpning">
+<!ENTITY debugPaintDumping.accesskey "d">
+<!ENTITY debugInvalidateDumping.label "Upphäv dumpning">
+<!ENTITY debugInvalidateDumping.accesskey "U">
 
 <!-- Reflow Event Debugging -->
