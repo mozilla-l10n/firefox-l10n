@@ -276,12 +276,27 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-help-product
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-get-help
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
 menu-help =
     .label = Aiuto
     .accesskey = A
-menu-get-help =
-    .label = Ottieni assistenza
-    .accesskey = n
 menu-help-product =
     .label = Guida di { -brand-shorter-name }
     .accesskey = G
@@ -294,9 +309,14 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Scorciatoie da tastiera
     .accesskey = S
+menu-get-help =
+    .label = Ottieni assistenza
+    .accesskey = n
 menu-help-troubleshooting-info =
     .label = Risoluzione dei problemi
     .accesskey = R
+menu-help-taskmanager =
+    .label = Gestione attività
 menu-help-feedback-page =
     .label = Invia feedback…
     .accesskey = k

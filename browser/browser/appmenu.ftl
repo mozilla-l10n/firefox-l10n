@@ -27,7 +27,6 @@ appmenuitem-more-tools =
     .label = Altri strumenti
 appmenuitem-exit =
     .label = Esci
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -63,64 +62,46 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 profiler-popup-title =
-  .value = { -profiler-brand-name }
-
+    .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
-  .aria-label = Visualizza ulteriori informazioni
-
+    .aria-label = Visualizza ulteriori informazioni
 profiler-popup-description-title =
-  .value = Registra, analizza, condividi
-
-profiler-popup-description =
-  Collabora su problemi di prestazioni pubblicando profili da condividere con il tuo team.
-
+    .value = Registra, analizza, condividi
+profiler-popup-description = Collabora su problemi di prestazioni pubblicando profili da condividere con il tuo team.
 profiler-popup-learn-more = Ulteriori informazioni
-
 profiler-popup-settings =
-  .value = Impostazioni
-
+    .value = Impostazioni
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modifica impostazioni…
-
 profiler-popup-disabled =
-  Il profiler è attualmente disattivato, molto probabilmente perché ci sono
-  delle finestre di navigazione anonima aperte.
-
+    Il profiler è attualmente disattivato, molto probabilmente perché ci sono
+    delle finestre di navigazione anonima aperte.
 profiler-popup-recording-screen = Registrazione in corso…
-
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
-  .label = Personalizzato
-
+    .label = Personalizzato
 profiler-popup-start-recording-button =
-  .label = Avvia registrazione
-
+    .label = Avvia registrazione
 profiler-popup-discard-button =
-  .label = Rimuovi
-
+    .label = Rimuovi
 profiler-popup-capture-button =
-  .label = Cattura
-
+    .label = Cattura
 profiler-popup-start-shortcut =
-  { PLATFORM() ->
-      [macos] ⌃⇧1
-     *[other] Ctrl+Maiusc+1
-  }
-
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Maiusc+1
+    }
 profiler-popup-capture-shortcut =
-  { PLATFORM() ->
-      [macos] ⌃⇧2
-     *[other] Ctrl+Maiusc+2
-  }
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Maiusc+2
+    }
 
 ## Help panel
 
 appmenu-help-header =
     .title = Aiuto per { -brand-shorter-name }
-appmenu-get-help =
-    .label = Ottieni assistenza
-   .accesskey = O
 appmenu-about =
     .label = Informazioni su { -brand-shorter-name }
     .accesskey = I
@@ -136,9 +117,14 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Scorciatoie da tastiera
     .accesskey = S
+appmenu-get-help =
+    .label = Ottieni assistenza
+    .accesskey = O
 appmenu-help-troubleshooting-info =
     .label = Risoluzione dei problemi
     .accesskey = R
+appmenu-help-taskmanager =
+    .label = Gestione attività
 appmenu-help-feedback-page =
     .label = Invia feedback…
     .accesskey = k
