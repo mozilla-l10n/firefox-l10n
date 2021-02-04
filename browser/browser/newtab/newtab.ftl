@@ -31,7 +31,7 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Add Search Engine
-newtab-topsites-add-topsites-header = Top Sites
+newtab-topsites-add-topsites-header = New Top Site
 newtab-topsites-add-shortcut-header = New Shortcut
 newtab-topsites-edit-topsites-header = Edit Top Site
 newtab-topsites-edit-shortcut-header = Edit Shortcut
