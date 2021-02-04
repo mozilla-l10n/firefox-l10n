@@ -83,23 +83,42 @@ toolbar-button-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = Met segnelibri a cheste pagjine
+    .aria-label = Met tai segnelibris cheste pagjine
     .accesskey = m
-    .tooltiptext = Met segnelibri a cheste pagjine
+    .tooltiptext = Met un segnelibri a cheste pagjine
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Met tai segnelibris cheste pagjine
+    .accesskey = m
+    .tooltiptext = Met un segnelibri a cheste pagjine ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Modifiche chest segnelibri
+    .accesskey = m
+    .tooltiptext = Modifiche chest segnelibri
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Modifiche chest segnelibri
+    .accesskey = m
+    .tooltiptext = Modifiche chest segnelibri ({ $shortcut })
 main-context-menu-open-link =
-    .label = Vierç leam
+    .label = Vierç colegament
     .accesskey = V
 main-context-menu-open-link-new-tab =
-    .label = Vierç leam intune gnove lengute
+    .label = Vierç colegament intune gnove schede
     .accesskey = t
+main-context-menu-open-link-container-tab =
+    .label = Vierç colegament intune gnove schede contignidôr
+    .accesskey = c
 main-context-menu-open-link-new-window =
-    .label = Vierç leam intun gnûf barcon
+    .label = Vierç colegament intun gnûf barcon
     .accesskey = o
 main-context-menu-open-link-new-private-window =
-    .label = Vierç leam intun gnûf barcon privât
+    .label = Vierç colegament intun gnûf barcon privât
     .accesskey = p
 main-context-menu-bookmark-this-link =
-    .label = Zonte chest leam ai segnelibris
+    .label = Zonte chest colegament ai segnelibris
     .accesskey = l
 main-context-menu-save-link =
     .label = Salve destinazion cul non…
