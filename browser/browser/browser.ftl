@@ -301,6 +301,8 @@ identity-https-only-info-turn-off2 = If the page seems broken, you may want to t
 identity-https-only-info-no-upgrade = Unable to upgrade connection from HTTP.
 identity-permissions =
     .value = Permissions
+identity-permissions-storage-access-header = Cross-site cookies
+identity-permissions-storage-access-hint = These parties can use cross-site cookies and site data while you are on this site.
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
 identity-permissions-empty = You have not granted this site any special permissions.
 identity-clear-site-data =
@@ -344,8 +346,17 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Close
 
+## Tab actions
+
+browser-tab-audio-playing = Playing
+browser-tab-audio-muted = Muted
+
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Import bookmarks…
+    .tooltiptext = Import bookmarks from another browser to { -brand-short-name }.
+bookmarks-toolbar-empty-message = For quick access, place your bookmarks here on the bookmarks toolbar. <a data-l10n-name="manage-bookmarks">Manage bookmarks…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -498,6 +509,16 @@ fullscreen-exit-mac-button = Exit Full Screen (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> has control of your pointer. Press Esc to take back control.
 pointerlock-warning-no-domain = This document has control of your pointer. Press Esc to take back control.
 
+## Subframe crash notification
+
+crashed-subframe-message = <strong>Part of this page crashed.</strong> To let { -brand-product-name } know about this issue and get it fixed faster, please submit a report.
+crashed-subframe-learnmore =
+    .label = Learn More
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Submit Report
+    .accesskey = S
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -558,6 +579,8 @@ library-bookmarks-bookmark-this-page =
     .label = Bookmark This Page
 library-bookmarks-bookmark-edit =
     .label = Edit This Bookmark
+library-recent-activity-title =
+    .value = Recent Activity
 
 ## More items
 

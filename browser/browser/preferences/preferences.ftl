@@ -52,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Proceed with Caution
 pane-experimental-search-results-header = { -brand-short-name } Experiments: Proceed with Caution
 pane-experimental-description = Changing advanced configuration preferences can impact { -brand-short-name } performance or security.
+pane-experimental-reset =
+    .label = Restore Defaults
+    .accesskey = R
 help-button-label = { -brand-short-name } Support
 addons-button-label = Extensions & Themes
 focus-search =
@@ -497,6 +500,11 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = The sites you visit most
 home-prefs-topsites-by-option-sponsored =
     .label = Sponsored Top Sites
+home-prefs-shortcuts-header =
+    .label = Shortcuts
+home-prefs-shortcuts-description = Sites you save or visit
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsored shortcuts
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -504,6 +512,7 @@ home-prefs-topsites-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
 home-prefs-recommended-by-description-update = Exceptional content from across the web, curated by { $provider }
+home-prefs-recommended-by-description-new = Exceptional content curated by { $provider }, part of the { -brand-product-name } family
 
 ##
 
@@ -521,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Most Recent Download
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pages Saved to { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Recent activity
+home-prefs-recent-activity-description = A selection of recent sites and content
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -528,6 +540,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description = Updates from { -vendor-short-name } and { -brand-product-name }
+home-prefs-snippets-description-new = Tips and news from { -vendor-short-name } and { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -881,6 +894,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Cross-site trackers
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Cross-site and social media trackers
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Cross-site tracking cookies — includes social media cookies
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cross-site cookies — includes social media cookies
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Cross-site and social media trackers, and isolate remaining cookies
 sitedata-option-block-unvisited =
@@ -915,9 +932,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Open tabs
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Shortcuts
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = Top sites
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Search engines
+    .accesskey = a
 addressbar-suggestions-settings = Change preferences for search engine suggestions
 
 ## Privacy Section - Content Blocking
@@ -925,6 +949,7 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-top-level-description = Trackers follow you around online to collect information about your browsing habits and interests. { -brand-short-name } blocks many of these trackers and other malicious scripts.
 content-blocking-learn-more = Learn more
+content-blocking-fpi-incompatibility-warning = You are using First Party Isolation (FPI), which overrides some of { -brand-short-name }’s cookie settings.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -946,6 +971,7 @@ content-blocking-etp-standard-desc = Balanced for protection and performance. Pa
 content-blocking-etp-strict-desc = Stronger protection, but may cause some sites or content to break.
 content-blocking-etp-custom-desc = Choose which trackers and scripts to block.
 content-blocking-private-windows = Tracking content in Private Windows
+content-blocking-cross-site-cookies = Cross-site cookies
 content-blocking-cross-site-tracking-cookies = Cross-site tracking cookies
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cross-site tracking cookies, and isolate remaining cookies
 content-blocking-social-media-trackers = Social media trackers
@@ -957,6 +983,7 @@ content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Heads up!
 content-blocking-and-isolating-etp-warning-description = Blocking trackers and isolating cookies could impact the functionality of some sites. Reload a page with trackers to load all content.
+content-blocking-and-isolating-etp-warning-description-2 = This setting may cause some websites to not display content or work correctly. If a site seems broken, you may want to turn off tracking protection for that site to load all content.
 content-blocking-warning-learn-how = Learn how
 content-blocking-reload-description = You will need to reload your tabs to apply these changes.
 content-blocking-reload-tabs-button =
