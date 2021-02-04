@@ -78,7 +78,7 @@ about-processes-frame-name-one = Subframe: { $url }
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
 #   $shortUrl (String) The shared prefix for the subframes in the group.
-about-processes-frame-name-many = Subframes ({ $number }); { $shortUrl }
+about-processes-frame-name-many = Subframes ({ $number }): { $shortUrl }
 
 ## Displaying CPU (percentage and total)
 ## Variables:
