@@ -50,7 +50,7 @@
 <p>You must log in to this network before you can access the Internet.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label2 "Open Network Sign-in Page">
+<!ENTITY openPortalLoginPage.label2 "Open Network Login Page">
 
 <!ENTITY malformedURI.pageTitle "Invalid URL">
 
