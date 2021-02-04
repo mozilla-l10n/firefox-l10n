@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Trợ giúp { -brand-shorter-name }
 appmenu-about =
     .label = Về { -brand-shorter-name }
     .accesskey = A
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Các phím tắt bàn phím
     .accesskey = K
+appmenu-get-help =
+    .label = Nhận trợ giúp
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = Thông tin xử lý sự cố
     .accesskey = T
