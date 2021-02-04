@@ -41,17 +41,12 @@ experimental-features-web-api-beforeinput =
     .label = Web API: beforeinput Event
 # The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
 # and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = The global <a data-l10n-name="mdn-beforeinput">beforeinput</a> event is fired on an <a data-l10n-name="mdn-input">&lt;input&gt;</a> and <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> elements, or any element whose <a data-l10n-name="mdn-contenteditable">contenteditable</a> attribute is enabled, immediately before the element’s value changes. The event allows web apps to override the browser’s default behavior for user interaction, e.g., web apps can cancel user input only for specific characters or can modify pasting styled text only with approved styles.
+experimental-features-web-api-beforeinput-description = The global <a data-l10n-name="mdn-beforeinput">beforeinput</a> event is fired on an <a data-l10n-name="mdn-input">&lt;input&gt;</a> and <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> elements, or any element whose <a data-l10n-name="mdn-contenteditable">contenteditable</a> attribute is enabled, immediately before the element’s value changes. The event allows web apps to override the browser’s default behaviour for user interaction, e.g., web apps can cancel user input only for specific characters or can modify pasting styled text only with approved styles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = The addition of a constructor to the <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> interface as well as a variety of related changes makes it possible to directly create new stylesheets without having to add the sheet to the HTML. This makes it much easier to create reusable stylesheets for use with <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. See <a data-l10n-name="bugzilla">bug 1520690</a> for more details.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-media-session-api =
-    .label = Web API: Media Session API
-experimental-features-media-session-api-description = The entire { -brand-short-name } implementation of the Media Session API is currently experimental. This API is used to customize the handling of media-related notifications, to manage events and data useful for presenting a user interface for managing media playback, and to obtain media file metadata. See <a data-l10n-name="bugzilla">bug 1112032</a> for more details.
 experimental-features-devtools-color-scheme-simulation =
     .label = Developer Tools: Colour Scheme Simulation
 experimental-features-devtools-color-scheme-simulation-description = Adds an option to simulate different colour schemes allowing you to test <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a> media queries. Using this media query lets your stylesheet respond to whether the user prefers a light or dark user interface. This feature lets you test your code without having to change settings in your browser (or operating system, if the browser follows a system-wide colour scheme setting). See <a data-l10n-name="bugzilla1">bug 1550804</a> and <a data-l10n-name="bugzilla2">bug 1137699</a> for more details.
@@ -87,10 +82,6 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Developer Tools: Service Worker debugging
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Enables experimental support for Service Workers in the Debugger panel. This feature may slow the Developer Tools down and increase memory consumption.
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Graphics: Smooth Pinch Zoom
-experimental-features-graphics-desktop-zooming-description = Enable support for smooth pinch zooming on touchscreens and precision touch pads.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
@@ -103,3 +94,14 @@ experimental-features-js-warp-description = Enable Warp, a project to improve Ja
 experimental-features-fission =
     .label = Fission (Site Isolation)
 experimental-features-fission-description = Fission (site isolation) is an experimental feature in { -brand-short-name } to provide an additional layer of defence against security bugs. By isolating each site into a separate process, Fission makes it harder for malicious websites to get access to information from other pages you are visiting. This is a major architectural change in { -brand-short-name } and we appreciate you testing and reporting any issues you might encounter. For more details, see <a data-l10n-name="wiki">the wiki</a>.
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Multiple Picture-in-Picture Support
+experimental-features-multi-pip-description = Experimental support for allowing multiple Picture-in-Picture windows to be open at the same time.
+experimental-features-http3 =
+    .label = HTTP/3 protocol
+experimental-features-http3-description = Experimental support for the HTTP/3 protocol.
+# Search during IME
+experimental-features-ime-search =
+    .label = Address Bar: show results during IME composition
+experimental-features-ime-search-description = An IME (Input Method Editor) is a tool that allows you to enter complex symbols, such as those used in East Asian or Indic written languages, using a standard keyboard. Enabling this experiment will keep the address bar panel open, showing search results and suggestions, while using IME to input text. Note that the IME might display a panel that covers the address bar results, therefore this preference is only suggested for IME not using this type of panel.
