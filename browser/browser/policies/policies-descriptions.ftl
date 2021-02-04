@@ -69,7 +69,7 @@ policy-HardwareAcceleration = If false, turn off hardware acceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Set and optionally lock the homepage.
 policy-InstallAddonsPermission = Allow certain websites to install add-ons.
-policy-LegacyProfiles = Disable the feature enforcing a separate profile for each installation
+policy-LegacyProfiles = Disable the feature enforcing a separate profile for each installation.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
@@ -79,8 +79,8 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revert to legacy SameS
 ##
 
 policy-LocalFileLinks = Allow specific websites to link to local files.
-policy-MasterPassword = Require or prevent using a master password.
 policy-ManagedBookmarks = Configures a list of bookmarks managed by an administrator that cannot be changed by the user.
+policy-MasterPassword = Require or prevent using a master password.
 policy-PrimaryPassword = Require or prevent using a Primary Password.
 policy-NetworkPrediction = Enable or disable network prediction (DNS prefetching).
 policy-NewTabPage = Enable or disable the New Tab page.

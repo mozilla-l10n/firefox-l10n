@@ -24,7 +24,7 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Add Search Engine
-newtab-topsites-add-topsites-header = Top Sites
+newtab-topsites-add-topsites-header = New Top Site
 newtab-topsites-edit-topsites-header = Edit Top Site
 newtab-topsites-title-label = Title
 newtab-topsites-title-input =
@@ -206,3 +206,6 @@ newtab-pocket-cta-text = Save the stories you love in { -pocket-brand-name }, an
 
 newtab-error-fallback-info = Oops, something went wrong loading this content.
 newtab-error-fallback-refresh-link = Refresh page to try again.
+
+## Customization Menu
+
