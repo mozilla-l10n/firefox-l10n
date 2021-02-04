@@ -84,7 +84,7 @@ login-item-new-login-title = Create New Login
 login-item-edit-button = Edit
 about-logins-login-item-remove-button = Remove
 login-item-origin-label = Website address
-login-item-tooltip-message = Make sure this matches the exact address of the website where you sign in.
+login-item-tooltip-message = Make sure this matches the exact address of the website where you log in.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Username
@@ -141,8 +141,8 @@ about-logins-export-password-os-auth-dialog-message-macosx = export saved logins
 
 about-logins-primary-password-notification-message = Please enter your Primary Password to view saved logins & passwords
 master-password-reload-button =
-    .label = Sign in
-    .accesskey = S
+    .label = Log in
+    .accesskey = L
 
 ## Password Sync notification
 
