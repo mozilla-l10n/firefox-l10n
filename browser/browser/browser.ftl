@@ -352,6 +352,11 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
 
+## Tab actions
+
+browser-tab-audio-playing = ਚੱਲ ਰਿਹਾ ਹੈ
+browser-tab-audio-muted = ਮੌਨ ਹੈ
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -514,6 +519,13 @@ pointerlock-warning-no-domain = ਇਹ ਦਸਤਾਵੇਜ਼ ਤੁਹਾਡੇ 
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>ਇਸ ਸਫ਼ੇ ਦਾ ਹਿੱਸਾ ਨਸ਼ਟ ਹੋਇਆ।</strong> { -brand-product-name } ਨੂੰ ਇਸ ਮਸਲੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ ਅਤੇ ਇਸ ਨੂੰ ਛੇਤੀ ਠੀਕ ਕਰਵਾਓ, ਇਸ ਬਾਰੇ ਰਿਪੋਰਟ ਦਿਓ।
+crashed-subframe-learnmore =
+    .label = ਹੋਰ ਸਿੱਖੋ
+    .accesskey = L
+crashed-subframe-submit =
+    .label = ਰਿਪੋਰਟ ਭੇਜੋ
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 

@@ -312,3 +312,7 @@ about-logins-import-dialog-error-no-logins-imported = ਕੋਈ ਵੀ ਲਾਗ
 about-logins-import-dialog-error-learn-more = ਹੋਰ ਜਾਣੋ
 about-logins-import-dialog-error-try-again = …ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 about-logins-import-dialog-error-cancel = ਰੱਦ ਕਰੋ
+
+## Logins import report page
+
+about-logins-import-report-page-title = ਸਾਰ ਰਿਪੋਰਟ ਦਰਾਮਦ ਕਰੋ

@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = ਨਵੀਂ ਵਿੰਡੋ
 appmenuitem-new-private-window =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ
+appmenuitem-passwords =
+    .label = ਪਾਸਵਰਡ
+appmenuitem-extensions-and-themes =
+    .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ
+appmenuitem-find-in-page =
+    .label = …ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ
+appmenuitem-more-tools =
+    .label = ਹੋਰ ਟੂਲ
+appmenuitem-exit =
+    .label = ਬਾਹਰ
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = ਸੈਟਿੰਗਾਂ
 
 ## Zoom and Fullscreen Controls
 
@@ -84,6 +98,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } ਮਦਦ
 appmenu-about =
     .label = { -brand-shorter-name } ਬਾਰੇ
     .accesskey = A
@@ -99,6 +115,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
     .accesskey = K
+appmenu-get-help =
+    .label = ਮਦਦ ਲਵੋ
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
