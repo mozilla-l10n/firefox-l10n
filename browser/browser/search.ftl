@@ -13,7 +13,7 @@ opensearch-error-duplicate-desc = { -brand-short-name }는 같은 이름을 가�
 opensearch-error-format-title = 잘못된 형식
 opensearch-error-format-desc = { -brand-short-name }가 다음 검색 엔진을 설치하지 못했습니다: { $location-url }
 opensearch-error-download-title = 다운로드 오류
-opensearch-error-download-desc = { -brand-short-name }는 검색 플러그인을 다운로드 하지 못했습니다: 위치: { $location-url }
+opensearch-error-download-desc = { -brand-short-name }가 검색 플러그인을 다운로드할 수 없습니다. 위치: { $location-url }
 
 ##
 
