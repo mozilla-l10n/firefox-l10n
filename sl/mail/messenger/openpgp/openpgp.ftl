@@ -91,10 +91,67 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Kopiraj javne ključe na odložišče
     .accesskey = K
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Kopiraj ID ključa na odložišče
+            [two] Kopiraj ID-ja ključev na odložišče
+            [few] Kopiraj ID-je ključev na odložišče
+           *[other] Kopiraj ID-je ključev na odložišče
+        }
+    .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Kopiraj prstni odtis na odložišče
+            [two] Kopiraj prstna odtisa na odložišče
+            [few] Kopiraj prstne odtise na odložišče
+           *[other] Kopiraj prstne odtise na odložišče
+        }
+    .accesskey = s
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Kopiraj javni ključ na odložišče
+            [two] Kopiraj javna ključa na odložišče
+            [few] Kopiraj javne ključe na odložišče
+           *[other] Kopiraj javne ključe na odložišče
+        }
+    .accesskey = j
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Izvozi ključe v datoteko
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Kopiraj javne ključe na odložišče
+openpgp-key-man-ctx-copy =
+    .label = Kopiraj
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Prstni odtis
+            [two] Prstna odtisa
+            [few] Prstni odtisi
+           *[other] Prstni odtisi
+        }
+    .accesskey = P
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] ID ključa
+            [two] ID-ja ključev
+            [few] ID-ji ključev
+           *[other] ID-ji ključev
+        }
+    .accesskey = k
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Javni ključ
+            [two] Javna ključa
+            [few] Javni ključi
+           *[other] Javni ključi
+        }
+    .accesskey = J
 openpgp-key-man-close =
     .label = Zapri
 openpgp-key-man-reload =
@@ -254,6 +311,9 @@ key-expired-date = Ključ je pretekel { $keyExpiry }
 key-expired-simple = Ključ je pretekel
 key-revoked-simple = Ključ je bil preklican
 key-do-you-accept = Ali sprejemate ta ključ za preverjanje digitalnih podpisov in za šifriranje sporočil?
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Šifriran del sporočila
+mime-decrypt-encrypted-part-concealed-data = To je šifriran del sporočila. Odpreti ga morate v ločenem oknu, tako da kliknete na priponko.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Prekinjeno
 keyserver-error-unknown = Prišlo je do neznane napake
@@ -272,6 +332,8 @@ filter-folder-required = Izbrati morate ciljno mapo.
 filter-decrypt-move-warn-experimental =
     Pozor – dejanje filtra "Trajno dešifriraj" lahko privede do uničenja sporočil.
     Močno priporočamo, da najprej poskusite s filtrom "Ustvari dešifrirano kopijo", natančno preverite izid in uporabite ta filter šele, ko ste zadovoljni z izidom.
+filter-term-pgpencrypted-label = Šifrirano z OpenPGP
+filter-key-required = Izbrati morate ključ prejemnika.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Trajno dešifriraj (OpenPGP)
 filter-decrypt-copy-label = Ustvari dešifrirano kopijo (OpenPGP)
@@ -345,7 +407,9 @@ key-man-button-generate-key = &Ustvari ključ
 key-abort = Prekini ustvarjanje ključev?
 key-man-button-generate-key-abort = &Prekini ustvarjanje ključev
 key-man-button-generate-key-continue = &Nadaljuj ustvarjanje ključev
+
 # Strings used in enigmailMessengerOverlay.js
+
 failed-decrypt = Napaka – dešifriranje ni uspelo
 # Strings used in enigmailMsgComposeOverlay.js
 msg-compose-button-send = &Pošlji sporočilo
