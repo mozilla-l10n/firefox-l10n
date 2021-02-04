@@ -46,7 +46,7 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pokušaj 
 inactive-css-not-display-block-on-floated-fix = Pokušaj ukloniti <strong>float</strong> ili dodati <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Pokušaj postaviti svojstvo <strong>position</strong> na nešto što nije <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Pokušaj dodati <strong>overflow:hidden</strong>. { learn-more }
-inactive-outline-radius-when-outline-style-auto-or-none-fix = Pokušaj postaviti svojstvo <strong>outline-style</strong> (stil obrisa) na nešto drugo od <strong>automatski</strong> ili <strong>bez</strong>.
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Pokušaj postaviti svojstvo <strong>outline-style</strong> (stil obrisa) na nešto drugo od <strong>automatski</strong> ili <strong>bez</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
