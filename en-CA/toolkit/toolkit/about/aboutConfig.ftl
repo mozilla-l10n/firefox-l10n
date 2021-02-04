@@ -9,20 +9,17 @@ config-window =
 
 # This text should be attention grabbing and playful
 config-about-warning-title =
-    .value = Here be dragons!
+    .value = This might void your warranty!
 config-about-warning-text = Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.
 config-about-warning-button =
     .label = I accept the risk!
 config-about-warning-checkbox =
     .label = Show this warning next time
-
 config-search-prefs =
     .value = Search:
     .accesskey = r
-
 config-focus-search =
     .key = r
-
 config-focus-search-2 =
     .key = f
 
@@ -50,60 +47,45 @@ config-copy-pref =
     .key = C
     .label = Copy
     .accesskey = C
-
 config-copy-name =
     .label = Copy Name
     .accesskey = N
-
 config-copy-value =
     .label = Copy Value
     .accesskey = V
-
 config-modify =
     .label = Modify
     .accesskey = M
-
 config-toggle =
     .label = Toggle
     .accesskey = T
-
 config-reset =
     .label = Reset
     .accesskey = R
-
 config-new =
     .label = New
     .accesskey = w
-
 config-string =
     .label = String
     .accesskey = S
-
 config-integer =
     .label = Integer
     .accesskey = I
-
 config-boolean =
     .label = Boolean
     .accesskey = B
-
 config-default = default
 config-modified = modified
 config-locked = locked
-
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
-
 config-new-prompt = Enter the preference name
-
 config-nan-title = Invalid value
 config-nan-text = The text you entered is not a number.
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = New { $type } value
-
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Enter { $type } value
