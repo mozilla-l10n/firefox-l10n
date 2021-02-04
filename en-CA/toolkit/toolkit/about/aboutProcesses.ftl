@@ -28,7 +28,7 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = { -brand-short-name } (process { $pid })
-about-processes-web-process-name = Web (process { $pid }, shard)
+about-processes-web-process-name = Web (process { $pid }, shared)
 about-processes-web-isolated-process-name = Web (process { $pid }) for { $origin }
 about-processes-web-large-allocation = Web (process { $pid }, large) for { $origin }
 about-processes-with-coop-coep-process-name = Web (process { $pid }, cross-origin isolated) for { $origin }
