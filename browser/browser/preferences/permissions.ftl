@@ -4,7 +4,7 @@
 
 permissions-window =
     .title = Exceptions
-    .style = width: 36em
+    .style = width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Address of website

@@ -226,6 +226,6 @@ media-block-image =
 # Variables:
 #   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
-    .title = Page Info – { $website }
+    .title = Page Info — { $website }
 page-info-frame =
     .title = Frame Info – { $website }
