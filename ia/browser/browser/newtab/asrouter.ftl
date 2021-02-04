@@ -207,8 +207,8 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($data, mense: "longe", anno: "numeric") }!
-       *[other] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($data, mense: "longe", anno: "numeric") }!
+        [one] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Vider toto
     .accesskey = t
