@@ -23,6 +23,8 @@ appmenuitem-extensions-and-themes =
     .label = Udvidelser og temaer
 appmenuitem-find-in-page =
     .label = Find på side…
+appmenuitem-more-tools =
+    .label = Flere værktøjer
 appmenuitem-exit =
     .label = Afslut
 # Settings is now used to access the browser settings across all platforms,
@@ -81,6 +83,8 @@ profiler-popup-presets-custom =
     .label = Tilpasset
 profiler-popup-start-recording-button =
     .label = Start optagelse
+profiler-popup-discard-button =
+    .label = Kasser
 profiler-popup-capture-button =
     .label = Indfang
 profiler-popup-start-shortcut =
