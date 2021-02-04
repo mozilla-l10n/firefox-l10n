@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = New Window
 appmenuitem-new-private-window =
     .label = New Private Window
+appmenuitem-passwords =
+    .label = Passwords
+appmenuitem-extensions-and-themes =
+    .label = Extensions and Themes
+appmenuitem-find-in-page =
+    .label = Find In Page…
+appmenuitem-more-tools =
+    .label = More Tools
+appmenuitem-exit =
+    .label = Exit
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Settings
 
 ## Zoom and Fullscreen Controls
 
@@ -47,6 +61,32 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Reveal more information
+profiler-popup-description-title =
+    .value = Record, analyze, share
+profiler-popup-description = Collaborate on performance issues by publishing profiles to share with your team.
+profiler-popup-learn-more = Learn more
+profiler-popup-settings =
+    .value = Settings
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Edit Settings…
+profiler-popup-disabled =
+    The profiler is currently disabled, most likely due to a Private Browsing window
+    being open.
+profiler-popup-recording-screen = Recording…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Custom
+profiler-popup-start-recording-button =
+    .label = Start Recording
+profiler-popup-discard-button =
+    .label = Discard
+profiler-popup-capture-button =
+    .label = Capture
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -60,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } Help
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -75,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Keyboard Shortcuts
     .accesskey = K
+appmenu-get-help =
+    .label = Get Help
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = Troubleshooting Information
     .accesskey = T
@@ -104,3 +149,5 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Check for Updates…

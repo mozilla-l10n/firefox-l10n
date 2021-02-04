@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Checking for updates…
 update-downloading = <img data-l10n-name="icon"/>Downloading update — <label data-l10n-name="download-status"/>
+update-downloading-message = Downloading update — <label data-l10n-name="download-status"/>
 update-applying = Applying update…
 update-failed = Update failed. <label data-l10n-name="failed-link">Download the latest version</label>
 update-failed-main = Update failed. <a data-l10n-name="failed-link-main">Download the latest version</a>
@@ -24,6 +25,8 @@ update-unsupported = You can not perform further updates on this system. <label 
 update-restarting = Restarting…
 channel-description = You are currently on the <label data-l10n-name="current-channel"></label> update channel.
 warningDesc-version = { -brand-short-name } is experimental and may be unstable.
+aboutdialog-help-user = { -brand-product-name } Help
+aboutdialog-submit-feedback = Submit Feedback
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> is a <label data-l10n-name="community-exp-creditsLink">global community</label> working together to keep the Web open, public and accessible to all.
 community-2 = { -brand-short-name } is designed by <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">global community</label> working together to keep the Web open, public and accessible to all.
 helpus = Want to help? <label data-l10n-name="helpus-donateLink">Make a donation</label> or <label data-l10n-name="helpus-getInvolvedLink">get involved!</label>
