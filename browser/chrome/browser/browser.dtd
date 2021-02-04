@@ -165,7 +165,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Show all tabs from this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab synchronization to view a list of tabs from your other devices.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Turn on tab syncing to view a list of tabs from your other devices.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
