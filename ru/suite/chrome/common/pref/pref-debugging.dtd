@@ -15,6 +15,19 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "События">
+<!ENTITY debugPaintDumping.label "Дамп прорисовки">
+<!ENTITY debugInvalidateDumping.label "Дамп инвалидации">
+<!ENTITY debugInvalidateDumping.accesskey "н">
+<!ENTITY debugEventDumping.label "Дамп событий">
+<!ENTITY debugEventDumping.accesskey "ы">
+<!ENTITY debugMotionEventDumping.label "Дамп событий движения">
+<!ENTITY debugMotionEventDumping.accesskey "ж">
+<!ENTITY debugCrossingEventDumping.label "Дамп событий пересечения">
+<!ENTITY debugCrossingEventDumping.accesskey "ч">
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowShowFrameCounts.label        "Отображать счётчики кадров">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "а">
+<!ENTITY debugReflowDumpFrameCounts.label        "Дамп счётчиков кадров">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "в">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Дамп счётчиков кадра по кадру">
