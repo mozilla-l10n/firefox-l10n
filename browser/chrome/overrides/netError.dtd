@@ -45,9 +45,9 @@
 <p>&brandShortName; can’t load this page for some reason.</p>
 ">
 
-<!ENTITY captivePortal.title "Sign in to network">
+<!ENTITY captivePortal.title "Log in to network">
 <!ENTITY captivePortal.longDesc2 "
-<p>You must sign in to this network before you can access the Internet.</p>
+<p>You must log in to this network before you can access the Internet.</p>
 ">
 
 <!ENTITY openPortalLoginPage.label2 "Open Network Sign-in Page">

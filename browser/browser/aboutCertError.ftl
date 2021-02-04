@@ -70,7 +70,7 @@ dnsNotFound-title = Hmm. We’re having trouble finding that site.
 fileNotFound-title = File not found
 fileAccessDenied-title = Access to the file was denied
 generic-title = Oops.
-captivePortal-title = Sign in to network
+captivePortal-title = Log in to network
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. That address doesn’t look right.
