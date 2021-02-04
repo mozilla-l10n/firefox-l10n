@@ -81,10 +81,11 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = ਨਿਰਧਾਰਤ 
 ##
 
 policy-LocalFileLinks = ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਲੋਕਲ ਫ਼ਾਈਲਾਂ ਲਈ ਲਿੰਕ ਦੀ ਆਗਿਆ ਦਿਓ।
-policy-MasterPassword = ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤਣਾ ਚਾਹੀਦਾ ਹੈ ਜਾਂ ਰੋਕਦਾ ਹੈ।
 policy-ManagedBookmarks =
     ਪਰਸ਼ਾਸਕ ਵਲੋਂ ਇੰਤਜ਼ਾਮ ਕੀਤੇ ਬੁੱਕਮਾਰਕਾਂ ਦੀ ਸੂਚੀ ਸੰਰਚਿਤ ਕਰਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਵਰਤੋਂਕਾਰ
     ਬਦਲ ਨਹੀਂ ਸਕਦਾ ਹੈ।
+policy-MasterPassword = ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤਣਾ ਚਾਹੀਦਾ ਹੈ ਜਾਂ ਰੋਕਦਾ ਹੈ।
+policy-ManualAppUpdateOnly = ਖੁਦ ਅੱਪਡੇਟ ਕਰਨਾ ਹੀ ਮਨਜ਼ੂਰ ਕਰੋ ਅਤੇ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਵਰਤੋਂਕਾਰ ਨੂੰ ਸੂਚਿਤ ਨਾ ਕਰੋ।
 policy-PrimaryPassword = ਮੁੱਖ ਪਾਸਵਰਡ ਵਰਤਣਾ ਚਾਹੀਦਾ ਹੈ ਜਾਂ ਰੋਕਦਾ ਹੈ।
 policy-NetworkPrediction = ਨੈੱਟਵਰਕ ਅੰਦਾਜ਼ਾ ਲਗਾਉਣ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਬਣਾਓ (DNS ਪਰੀ-ਫੀਚਿੰਗ)।
 policy-NewTabPage = ਨਵੀਂਂ ਟੈਬ ਸਫ਼ਾ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
