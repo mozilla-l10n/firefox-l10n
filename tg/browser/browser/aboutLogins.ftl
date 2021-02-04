@@ -59,6 +59,8 @@ about-logins-login-list-empty-search-description = Ягон натиҷа мув�
 login-list-item-title-new-login = Воридшавии нав
 login-list-item-subtitle-new-login = Маълумоти воридшавии худро ворид намоед
 login-list-item-subtitle-missing-username = (номи корбар нест)
+about-logins-list-item-breach-icon =
+    .title = Сомонаи ҳамлашуда
 about-logins-list-item-vulnerable-password-icon =
     .title = Ниҳонвожаи камқувват
 
@@ -148,6 +150,8 @@ confirm-discard-changes-dialog-confirm-button = Рад кардан
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Ҳамла дар сомона
+about-logins-breach-alert-date = Ин ҳамла санаи { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ба миён омад
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Ба { $hostname } гузаред
@@ -194,6 +198,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Ҳуҷҷати CSV
        *[other] Файли CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Ҳуҷҷати TSV
+       *[other] Файли TSV
+    }
 
 ##
 ## Variables:
@@ -204,3 +215,6 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Воридшавиҳои нав илова шуданд:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
+## Logins import report page
+
