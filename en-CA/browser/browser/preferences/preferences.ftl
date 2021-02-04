@@ -178,7 +178,7 @@ containers-disable-alert-title = Close All Container Tabs?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] If you disable Container Tabs now, { $tabCount } container tab will be closed. Are you sure you want to disable Container Tabs?
-       *[other] If you disable Containers Tabs now, { $tabCount } container tabs will be closed. Are you sure you want to disable Containers Tabs?
+       *[other] If you disable Container Tabs now, { $tabCount } container tabs will be closed. Are you sure you want to disable Container Tabs?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
