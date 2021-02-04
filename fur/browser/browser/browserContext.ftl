@@ -2,13 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Tire jù par mostrâ la cronologjie
+           *[other] Clic di diestre o tire jù par mostrâ la cronologjie
+        }
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Torne indaûr di une pagjine
+    .aria-label = Indaûr
+    .accesskey = D
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = Torne indaûr di une pagjine ({ $shortcut })
+    .aria-label = Indaûr
+    .accesskey = D
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -16,10 +32,20 @@ toolbar-button-back-2 =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = Va indenant di une pagjine
+    .aria-label = Indenant
+    .accesskey = I
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-2 =
+    .tooltiptext = Va indenant di une pagjine ({ $shortcut })
+    .aria-label = Indenant
+    .accesskey = I
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
@@ -27,11 +53,17 @@ toolbar-button-forward-2 =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Torne cjarie
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Ferme
+    .accesskey = F
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -43,13 +75,17 @@ toolbar-button-stop-reload =
 ## Save Page
 
 main-context-menu-page-save =
-    .label = Salve la pagjine cul non…
+    .label = Salve pagjine come…
     .accesskey = P
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-bookmark-add =
+    .aria-label = Met segnelibri a cheste pagjine
+    .accesskey = m
+    .tooltiptext = Met segnelibri a cheste pagjine
 main-context-menu-open-link =
     .label = Vierç leam
     .accesskey = V

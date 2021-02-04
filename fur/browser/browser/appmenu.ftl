@@ -102,6 +102,9 @@ profiler-popup-capture-shortcut =
 
 appmenu-help-header =
     .title = Jutori di { -brand-shorter-name }
+appmenu-about =
+    .label = Informazion su { -brand-shorter-name }
+    .accesskey = I
 appmenu-help-product =
     .label = Jutori di { -brand-shorter-name }
     .accesskey = J
