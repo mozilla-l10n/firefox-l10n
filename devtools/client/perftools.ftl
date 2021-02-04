@@ -59,6 +59,7 @@ perftools-request-to-get-profile-and-stop-profiler = Capture du profil
 ##
 
 perftools-button-start-recording = Commencer l’enregistrement
+perftools-button-capture-recording = Démarrer l’enregistrement
 perftools-button-cancel-recording = Annuler l’enregistrement
 perftools-button-save-settings = Enregistrer les paramètres et revenir en arrière
 perftools-button-restart = Redémarrer
@@ -68,6 +69,8 @@ perftools-button-edit-settings = Modifier les paramètres…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Les processus principaux pour le processus parent et les processus de contenu
 
 ##
 
