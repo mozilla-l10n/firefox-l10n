@@ -641,7 +641,7 @@ sync-signedout-account-signin2 =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to synchronize with your mobile device.
+sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to sync with your mobile device.
 
 ## Firefox Account - Signed in
 
@@ -713,7 +713,7 @@ sync-engine-history =
     .accesskey = r
 sync-engine-tabs =
     .label = Open tabs
-    .tooltiptext = A list of what’s open on all synchronized devices
+    .tooltiptext = A list of what’s open on all synced devices
     .accesskey = T
 sync-engine-logins-passwords =
     .label = Logins and passwords

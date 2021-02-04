@@ -197,8 +197,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] This will remove the login you’ve saved to { -brand-short-name } on all devices synchronized to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
-       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synchronized to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+        [1] This will remove the login you’ve saved to { -brand-short-name } on all devices synced to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
     }
 about-logins-confirm-export-dialog-title = Export logins and passwords
 about-logins-confirm-export-dialog-message = Your passwords will be saved as readable text (e.g., BadP@ssw0rd) so anyone who can open the exported file can view them.
