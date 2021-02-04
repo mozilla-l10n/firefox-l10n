@@ -200,10 +200,15 @@ cfr-doorhanger-cryptominers-description = Tu vita private es importante. Ora { -
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ha blocate plus de <b>{ $blockedCount }</b> traciatores desde { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($data, mense: "longe", anno: "numeric") }!
+       *[other] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($data, mense: "longe", anno: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Vider toto
     .accesskey = t
@@ -287,3 +292,8 @@ cfr-whatsnew-supercookies-body = Sitos web pote secretemente attachar a tu navig
 
 cfr-whatsnew-bookmarking-header = Melior marcapagina
 cfr-whatsnew-bookmarking-body = Es plus facile sequer tu sitos favorite. { -brand-short-name } ora recorda tu loco preferite pro salvar marcapaginas, monstra per predefinition le barra de marcapaginas sur nove schedas, e te da accesso facile al resto de tu marcapaginas per medio de un dossier sur le barra de instrumentos.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Complete protection de cookie de traciamento inter-sitos
+cfr-whatsnew-cross-site-tracking-body = Tu pote ora optar pro melior protection del cookies de traciamento. { -brand-short-name } poter isolar tu activitates e datos al sito sur que tu es actualmente, assi informationes immagazinate in le navigator non es compartite inter sitos web.
