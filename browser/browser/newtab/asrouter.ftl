@@ -202,10 +202,14 @@ cfr-doorhanger-cryptominers-description = Vấn đề riêng tư của bạn. { 
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } đã chặn hơn <b>{ $blockedCount }</b> trình theo dõi từ { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } đã chặn hơn <b>{ $blockedCount }</b> trình theo dõi kể từ { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Xem tất cả
     .accesskey = S
@@ -289,3 +293,8 @@ cfr-whatsnew-supercookies-body = Các trang web có thể bí mật đính kèm 
 
 cfr-whatsnew-bookmarking-header = Đánh dấu trang tốt hơn
 cfr-whatsnew-bookmarking-body = Theo dõi các trang web yêu thích của bạn dễ dàng hơn. Bây giờ { -brand-short-name } nhớ vị trí ưa thích của bạn cho các dấu trang đã lưu, hiển thị thanh công cụ dấu trang theo mặc định trên các thẻ mới và cho phép bạn dễ dàng truy cập vào phần còn lại của dấu trang thông qua thư mục thanh công cụ.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Bảo vệ toàn diện khỏi theo dõi cookie trên nhiều trang web
+cfr-whatsnew-cross-site-tracking-body = Bây giờ bạn có thể chọn tham gia để bảo vệ tốt hơn khỏi theo dõi cookie. { -brand-short-name } có thể cô lập các hoạt động và dữ liệu của bạn với trang web bạn hiện đang truy cập, vì vậy thông tin được lưu trữ trong trình duyệt sẽ không được chia sẻ giữa các trang web.
