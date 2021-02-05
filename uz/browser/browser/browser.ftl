@@ -315,6 +315,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Yopish
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -416,6 +419,9 @@ fullscreen-exit-mac-button = "Butun ekranda" usulidan chiqish (Esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ko‘rsatkichingiz ustidan nazorat o‘rnatgan. Nazoratni qo‘lga olish uchun Esc tugmasini bosing.
 pointerlock-warning-no-domain = Bu hujat ko‘rsatkichingiz ustidan nazorat o‘rnatgan. Nazoratni qo‘lga olish uchun Esc tugmasini bosing.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -439,6 +445,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] Xatcho‘plarni yon panelda ko‘rsatish
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Xatcho‘plar panelini berkitish
+           *[other] Xatcho‘plar panelini ko‘rsatish
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Xatcho‘plar panelini berkitish
