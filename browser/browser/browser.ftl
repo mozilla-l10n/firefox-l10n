@@ -125,6 +125,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Bigire
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -166,6 +169,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -174,6 +180,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Zêdetir bijare nîşan bide
 bookmarks-sidebar-content =
     .aria-label = Bijare
+bookmarks-bookmark-edit-panel =
+    .label = Vê bijareyê serast bike
 bookmarks-toolbar-menu =
     .label = Darikê Amûran a Bijareyan
 bookmarks-toolbar-placeholder =
