@@ -121,6 +121,30 @@ urlbar-search-mode-history = Cronologjie
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = Tu âs blocât lis informazions di posizion par chest sît web.
+urlbar-xr-blocked =
+    .tooltiptext = Tu âs blocât l'acès dai dispositîfs di realtât virtuâl par chest sît web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Tu âs blocât lis notifichis par chest sît web.
+urlbar-camera-blocked =
+    .tooltiptext = Tu âs blocât la tô fotocjamare par chest sît web.
+urlbar-microphone-blocked =
+    .tooltiptext = Tu âs blocât il to microfon par chest sît web.
+urlbar-screen-blocked =
+    .tooltiptext = Tu âs blocât la condivision dal schermi par chest sît web.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Tu âs blocât la archiviazion persistente par chest sît web.
+urlbar-popup-blocked =
+    .tooltiptext = Tu âs blocât i barcons a comparse par chest sît web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Tu âs blocât la riproduzion automatiche dai multimedia cun suns par chest sît web.
+urlbar-canvas-blocked =
+    .tooltiptext = Tu âs blocât la estrazion dai dâts de tele  par chest sît web.
+urlbar-midi-blocked =
+    .tooltiptext = Tu âs blocât l'acès MIDI par chest sît web.
+urlbar-install-blocked =
+    .tooltiptext = Tu âs blocât la instalazion di zontis par chest sît web.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -132,6 +156,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Zonte ae sbare de direzion
 
 ## Page Action menu
 
