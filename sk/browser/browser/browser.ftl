@@ -326,6 +326,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = Zavrieť
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -428,6 +431,9 @@ fullscreen-exit-mac-button = Ukončiť režim celej obrazovky (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> má kontrolu nad vaším kurzorom. Ovládanie kurzora prevezmete stlačením klávesu Esc.
 pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom. Ovládanie kurzora prevezmete stlačením klávesu Esc.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -466,6 +472,8 @@ bookmarks-search =
     .label = Hľadať v záložkách
 bookmarks-tools =
     .label = Nástroje pre prácu so záložkami
+bookmarks-bookmark-edit-panel =
+    .label = Upraviť túto záložku
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
