@@ -207,6 +207,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बन्द खालाम
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -262,6 +265,9 @@ fullscreen-exit-button = आबुं स्क्रिन निफ्रा�
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = आबुं स्क्रिन निफ्राय ओंखार लां (esc)
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -278,6 +284,8 @@ bookmarks-mobile-bookmarks-menu =
     .label = मबाइल बुकमार्कफोर
 bookmarks-search =
     .label = बुकमार्कफोरखौ नागिर
+bookmarks-bookmark-edit-panel =
+    .label = बे बुकमार्कखौ सुजु
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
