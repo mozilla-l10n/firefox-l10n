@@ -517,6 +517,10 @@ bookmarks-show-all-bookmarks =
     .label = 모든 북마크 보기
 bookmarks-recent-bookmarks =
     .value = 최근 북마크됨
+bookmarks-manage-bookmarks =
+    .label = 북마크 관리
+bookmarks-recent-bookmarks-panel =
+    .value = 최근 북마크
 bookmarks-toolbar-chevron =
     .tooltiptext = 북마크 더보기
 bookmarks-sidebar-content =
@@ -540,6 +544,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] 북마크 도구 모음 표시
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] 북마크 도구 모음 숨기기
+           *[other] 북마크 도구 모음 표시
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] 북마크 도구 모음 숨기기
@@ -570,6 +580,9 @@ bookmarks-toolbar-placeholder =
     .title = 북마크 도구 모음 항목
 bookmarks-toolbar-placeholder-button =
     .label = 북마크 도구 모음 항목
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = 현재 탭 북마크
 
 ## Library Panel items
 
