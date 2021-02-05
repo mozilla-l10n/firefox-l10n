@@ -346,6 +346,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Serrar
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -545,6 +548,8 @@ bookmarks-search =
     .label = Tschertgar en ils segnapaginas
 bookmarks-tools =
     .label = Utensils da segnapaginas
+bookmarks-bookmark-edit-panel =
+    .label = Modifitgar quest segnapagina
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
