@@ -563,6 +563,8 @@ bookmarks-search =
     .label = Søk i bokmerker
 bookmarks-tools =
     .label = Verktøy for bokmerker
+bookmarks-bookmark-edit-panel =
+    .label = Rediger dette bokmerket
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
