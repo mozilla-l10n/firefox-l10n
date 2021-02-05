@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -46,9 +46,13 @@ browser-main-window-title = { -brand-full-name }
 
 ##
 
+urlbar-identity-button =
+    .aria-label = Visualize informazions sul sît
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Vierç il panel dai messaçs di instalazion
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -125,6 +129,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Siere
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -147,6 +154,8 @@ popup-select-microphone =
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Cîr o inserìs direzion
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Cîr o inserìs direzion
 urlbar-switch-to-tab =
@@ -164,6 +173,9 @@ urlbar-go-button =
 
 
 ## Full Screen and Pointer Lock UI
+
+
+## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
