@@ -555,6 +555,8 @@ bookmarks-search =
     .label = Tìm kiếm dấu trang
 bookmarks-tools =
     .label = Công cụ đánh dấu trang
+bookmarks-bookmark-edit-panel =
+    .label = Chỉnh sửa dấu trang này
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
