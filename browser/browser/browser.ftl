@@ -544,6 +544,12 @@ bookmarks-tools-toolbar-visibility =
             [true] أخفِ شريط أدوات العلامات
            *[other] أظهِر شريط أدوات العلامات
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] أخفِ شريط أدوات العلامات
+           *[other] أظهِر شريط أدوات العلامات
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
