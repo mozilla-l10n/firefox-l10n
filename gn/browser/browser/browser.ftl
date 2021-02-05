@@ -546,6 +546,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Eñomi Techaukaha Rembipuru Renda
            *[other] Techaukaha renda jehecha
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Eñomi Techaukaha Rembipuru Renda
+           *[other] Techaukaha renda jehecha
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
