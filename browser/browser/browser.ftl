@@ -555,6 +555,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Cuddio'r Bar Offer Nodau Tudalen
            *[other] Gweld Bar Offer Nodau Tudalen
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Cuddio'r Bar Offer Nodau Tudalen
+           *[other] Gweld Bar Offer Nodau Tudalen
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
