@@ -539,6 +539,12 @@ bookmarks-tools-toolbar-visibility =
             [true] 隐藏书签工具栏
            *[other] 查看书签工具栏
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] 隐藏书签工具栏
+           *[other] 查看书签工具栏
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
