@@ -82,7 +82,7 @@
 <!ENTITY newimButton.accesskey                          "s">
 <!ENTITY printButton.label                              "Imprimir">
 <!ENTITY printButton.accesskey                          "r">
-<!ENTITY searchNameAndEmail.placeholder                 "Pesquisa por nome e e-mail">
+<!ENTITY searchNameAndEmail.placeholder                 "Pesquisa por nome e email">
 <!ENTITY searchBox.title                                "Pesquisar">
 
 <!-- Tooltips -->
