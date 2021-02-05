@@ -575,6 +575,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Skrýt lištu záložek
            *[other] Zobrazit lištu záložek
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Skrýt lištu záložek
+           *[other] Zobrazit lištu záložek
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->

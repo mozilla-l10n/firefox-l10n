@@ -67,14 +67,47 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Zobrazit podrobnosti
 profiler-popup-learn-more = Zjistit více
 profiler-popup-settings =
     .value = Nastavení
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Úprava nastavení
+profiler-popup-recording-screen = Nahrávání…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Vlastní
+profiler-popup-start-recording-button =
+    .label = Spustit nahrávání
+profiler-popup-discard-button =
+    .label = Zahodit
 profiler-popup-capture-button =
     .label = Nahrávat
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
+appmenu-help-header =
+    .title =
+        Nápověda { -brand-shorter-name.gender ->
+            [masculine] { -brand-shorter-name(case: "gen") }
+            [feminine] { -brand-shorter-name(case: "gen") }
+            [neuter] { -brand-shorter-name(case: "gen") }
+           *[other] aplikace { -brand-shorter-name }
+        }
 appmenu-about =
     .label = O aplikaci { -brand-shorter-name }
     .accesskey = O

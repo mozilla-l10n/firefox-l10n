@@ -291,6 +291,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokument CSV
        *[other] Soubor CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument TSV
+       *[other] Soubor TSV
+    }
 
 ##
 ## Variables:
