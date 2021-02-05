@@ -7,6 +7,7 @@
 <!ENTITY pref.debugging.title "Feilsøking">
 
 <!-- Render Debugging -->
+<!ENTITY debugRendering.label             "Gjengivelse">
 <!ENTITY debugXULBox.label                "Feilsøk XUL-bokser">
 <!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "Deaktiver XUL-hurtigbuffer">
@@ -16,3 +17,7 @@
 <!ENTITY debugEvents.label "Hendelser">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowShowFrameCounts.label        "Vis rammeantall">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "V">
+<!ENTITY debugReflowDumpFrameCounts.label        "Dump rammeantall">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
