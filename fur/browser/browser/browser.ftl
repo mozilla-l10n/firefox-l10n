@@ -61,6 +61,12 @@ urlbar-eme-notification-anchor =
     .tooltiptext = Gjestìs l'ûs dal software DRM
 urlbar-web-authn-anchor =
     .tooltiptext = Vierç panel de autenticazion web
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Gjestìs permès di estrazion de tele
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Gjestìs la condivision dal to microfon cul sît
+urlbar-default-notification-anchor =
+    .tooltiptext = Vierç panel dai messaçs
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
