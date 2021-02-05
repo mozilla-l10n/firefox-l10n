@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Προβολή όλων των σελιδοδεικτών
 bookmarks-recent-bookmarks =
     .value = Πρόσφατοι σελιδοδείκτες
+bookmarks-manage-bookmarks =
+    .label = Διαχείριση σελιδοδεικτών
+bookmarks-recent-bookmarks-panel =
+    .value = Πρόσφατοι σελιδοδείκτες
 bookmarks-toolbar-chevron =
     .tooltiptext = Προβολή περισσότερων σελιδοδεικτών
 bookmarks-sidebar-content =
@@ -552,6 +556,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
         { $isVisible ->
             [true] Απόκρυψη γραμμής σελιδοδεικτών
            *[other] Προβολή γραμμής σελιδοδεικτών
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Απόκρυψη γραμμής σελιδοδεικτών
+           *[other] Εμφάνιση γραμμής σελιδοδεικτών
         }
 bookmarks-tools-menu-button-visibility =
     .label =

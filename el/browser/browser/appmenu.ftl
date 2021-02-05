@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Βοήθεια { -brand-shorter-name }
 appmenu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = τ
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Συντομεύσεις πληκτρολογίου
     .accesskey = υ
+appmenu-get-help =
+    .label = Λήψη βοήθειας
+    .accesskey = β
 appmenu-help-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
