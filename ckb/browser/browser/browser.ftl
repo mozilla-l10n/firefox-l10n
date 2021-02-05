@@ -308,6 +308,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = داخستن
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -443,6 +446,9 @@ fullscreen-exit-mac-button = لە پڕاوپڕی شاشە دەرچۆ (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC  بۆ بەدەستهێنانەوەی جڵەوگیری.
 pointerlock-warning-no-domain = ئەم بەڵگەنامەیە جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC بۆ بەدەستهێنانەوەی جڵەوگیری.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -471,6 +477,12 @@ bookmarks-tools-toolbar-visibility =
             [true] توڵامرازی دڵخوازەکان بشارەوە
            *[other] توڵامرازی دڵخوازەکان ببینە
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] توڵامرازی دڵخوازەکان بشارەوە
+           *[other] توڵامرازی دڵخوازەکان ببینە
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -481,6 +493,8 @@ bookmarks-search =
     .label = گەڕان لە دڵخوازەکان
 bookmarks-tools =
     .label = ئامرازەکانی دڵخوازکردن
+bookmarks-bookmark-edit-panel =
+    .label = ئەم دڵخوازە دەستکاریبکە
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
