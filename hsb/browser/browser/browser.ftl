@@ -551,6 +551,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Lajstu zapołožkow schować
            *[other] Lajstu zapołožkow pokazać
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Lajstu zapołožkow schować
+           *[other] Lajstu zapołožkow pokazać
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
