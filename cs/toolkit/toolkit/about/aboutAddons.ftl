@@ -429,6 +429,11 @@ addon-badge-recommended2 =
 addon-badge-line2 =
     .title = Toto je oficiální rozšíření od tvůrců { -brand-product-name(case: "gen") }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Oficiální rozšíření od Mozilly. Splňuje standardy na zabezpečení i výkon
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = U tohoto rozšíření bylo zkontrolováno, že splňuje naše standardy ohledně zabezpečení a výkonu
     .aria-label = { addon-badge-verified2.title }

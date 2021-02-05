@@ -221,7 +221,7 @@ newtab-error-fallback-refresh-link = Opětovným načtením stránky to zkuste z
 
 ## Customization Menu
 
-newtab-custom-shortcuts-title = Zkratky vyhledávání
+newtab-custom-shortcuts-title = Zkratky
 newtab-custom-shortcuts-subtitle = Stránky, které si uložíte nebo navštívíte
 newtab-custom-row-selector =
     { $num ->
