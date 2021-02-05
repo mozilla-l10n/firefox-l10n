@@ -158,13 +158,49 @@ urlbar-star-add-bookmark =
 
 page-action-add-to-urlbar =
     .label = Zonte ae sbare de direzion
+page-action-manage-extension =
+    .label = Gjestìs estension…
+page-action-remove-from-urlbar =
+    .label = Gjave de sbare de direzion
+page-action-remove-extension =
+    .label = Gjave estension
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [1] Mande schede al dispositîf
+            [one] Mande schede al dispositîf
+           *[other] Mande { $tabCount } schedis al dispositîf
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [1] Mande schede al dispositîf
+            [one] Mande schede al dispositîf
+           *[other] Mande { $tabCount } schedis al dispositîf
+        }
+page-action-pocket-panel =
+    .label = Salve pagjine su { -pocket-brand-name }
+page-action-copy-url-panel =
+    .label = Copie colegament
+page-action-copy-url-urlbar =
+    .tooltiptext = Copie colegament
 page-action-email-link-panel =
-    .label = Mande leam par pueste...
+    .label = Mande colegament vie e-mail...
 page-action-email-link-urlbar =
-    .tooltiptext = Mande leam par pueste...
+    .tooltiptext = Mande colegament vie e-mail...
+page-action-share-url-panel =
+    .label = Condivît
+page-action-share-url-urlbar =
+    .tooltiptext = Condivît
+page-action-share-more-panel =
+    .label = Altri…
+page-action-send-tab-not-ready =
+    .label = Daûr a sincronizâ i dispositîfs…
 # "Pin" is being used as a metaphor for expressing the fact that these tabs
 # are "pinned" to the left edge of the tabstrip. Really we just want the
 # string to express the idea that this is a lightweight and reversible
