@@ -206,7 +206,7 @@ cfr-doorhanger-cryptominers-description = Deine Privatsphäre ist uns wichtig. {
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } hat seit { $date } mehr als <b>{ $blockedCount }</b> Element zur Aktivitätenverfolgung blockiert!
@@ -294,3 +294,7 @@ cfr-whatsnew-supercookies-body = Websites können Ihrem Browser heimlich einen "
 
 cfr-whatsnew-bookmarking-header = Bessere Lesezeichen-Verwaltung
 cfr-whatsnew-bookmarking-body = Es ist einfacher, Ihre Lieblingsseiten im Auge zu behalten. { -brand-short-name } merkt sich jetzt Ihren bevorzugten Ort für gespeicherte Lesezeichen, zeigt die Lesezeichen-Symbolleiste standardmäßig in neuen Tabs an und verschafft Ihnen über einen Symbolleisten-Ordner einfachen Zugang zu Ihren übrigen Lesezeichen.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Umfassender Schutz vor seitenübergreifender Cookie-Aktivitätenverfolgung

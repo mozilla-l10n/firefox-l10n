@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Lesezeichen verwalten
 bookmarks-recent-bookmarks =
     .value = Kürzlich als Lesezeichen gesetzt
+bookmarks-manage-bookmarks =
+    .label = Lesezeichen verwalten
+bookmarks-recent-bookmarks-panel =
+    .value = Neueste Lesezeichen
 bookmarks-toolbar-chevron =
     .tooltiptext = Weitere Lesezeichen anzeigen
 bookmarks-sidebar-content =
@@ -548,6 +552,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Lesezeichen-Symbolleiste anzeigen
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Lesezeichen-Symbolleiste ausblenden
+           *[other] Lesezeichen-Symbolleiste anzeigen
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Lesezeichen-Symbolleiste ausblenden
@@ -578,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Lesezeichen-Symbole
 bookmarks-toolbar-placeholder-button =
     .label = Lesezeichen-Symbole
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Aktuellen Tab als Lesezeichen hinzufügen
 
 ## Library Panel items
 
