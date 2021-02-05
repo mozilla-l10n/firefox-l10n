@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Ocultar Barra de Favoritos
            *[other] Ver barra de favoritos
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Ocultar Barra de Favoritos
+           *[other] Ver barra de favoritos
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
