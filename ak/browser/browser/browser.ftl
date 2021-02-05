@@ -117,6 +117,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = To-mu
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -158,6 +161,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -168,6 +174,8 @@ bookmarks-sidebar-content =
     .aria-label = Mbukmaak
 bookmarks-search =
     .label = Hwewhɛ Mbukmaak
+bookmarks-bookmark-edit-panel =
+    .label = Sesa Bukmaak Yi
 bookmarks-toolbar-menu =
     .label = TuulBaa A Wɔde Sie Mbukmaak
 bookmarks-toolbar-placeholder =
