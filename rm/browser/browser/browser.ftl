@@ -538,6 +538,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Zuppentar la trav d'utensils da segnapaginas
            *[other] Mussar la trav d'utensils da segnapaginas
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Zuppentar la trav d'utensils da segnapaginas
+           *[other] Mussar la trav d'utensils da segnapaginas
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
