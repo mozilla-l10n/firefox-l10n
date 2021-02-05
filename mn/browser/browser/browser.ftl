@@ -97,6 +97,9 @@ full-screen-exit =
 ## Window controls
 
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -126,12 +129,17 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-toolbar-chevron =
     .tooltiptext = Нэмэлт хаягнуудыг харуул
 bookmarks-search =
     .label = Хадгалсан хаяганд хайх
+bookmarks-bookmark-edit-panel =
+    .label = Хадгалсан хаяганд засвар хийх
 bookmarks-toolbar-menu =
     .label = Хаягийн Багажит самбар
 bookmarks-toolbar-placeholder =
