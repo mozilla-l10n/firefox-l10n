@@ -115,6 +115,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Nciphisa
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -156,6 +159,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -164,6 +170,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Bonisa ukuphawulwa kokubonisa okungaphezulu
 bookmarks-sidebar-content =
     .aria-label = Izimpawu zokubekisa
+bookmarks-bookmark-edit-panel =
+    .label = Hlela lolu phawu lokubekisa
 bookmarks-toolbar-menu =
     .label = Ibha yamathuluzi ezimpawu zokubekisa
 bookmarks-toolbar-placeholder =
