@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Masquer la barre personnelle
            *[other] Afficher la barre personnelle
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Masquer la barre personnelle
+           *[other] Afficher la barre personnelle
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
