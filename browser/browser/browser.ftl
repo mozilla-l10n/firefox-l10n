@@ -545,6 +545,12 @@ bookmarks-tools-toolbar-visibility =
             [true] הסתרת סרגל הכלים סימניות
            *[other] הצגת סרגל הכלים סימניות
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] הסתרת סרגל הכלים סימניות
+           *[other] הצגת סרגל הכלים סימניות
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
