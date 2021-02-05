@@ -371,6 +371,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Přehrávání
+browser-tab-audio-muted = Ztlumeno
 
 ## Bookmarks toolbar items
 
@@ -532,6 +534,12 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorem
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Zjistit více
+    .accesskey = Z
+crashed-subframe-submit =
+    .label = Odeslat hlášení
+    .accesskey = d
 
 ## Bookmarks panels, menus and toolbar
 

@@ -99,6 +99,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Nastaví staré výcho
 policy-LocalFileLinks = Povolí vybraným stránkám odkazovat na soubory uložené na místním disku.
 policy-ManagedBookmarks = Nastavení seznamu záložek spravovaných správcem. Takové záložky uživatel nemůže měnit.
 policy-MasterPassword = Vyžadovat nebo zabránit používání hlavního hesla.
+policy-ManualAppUpdateOnly = Povolit pouze ruční aktualizace a uživatele na dostupnost aktualizací neupozorňovat.
 policy-PrimaryPassword = Vyžadovat nebo zabránit používání hlavního hesla.
 policy-NetworkPrediction = Povolení nebo zakázání přednačítání DNS.
 policy-NewTabPage = Povolení nebo zákaz stránky nového panelu.
