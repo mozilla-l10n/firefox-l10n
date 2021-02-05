@@ -258,6 +258,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = மூடுக
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -327,6 +330,9 @@ fullscreen-exit-mac-button = முழுத்திரையிலிருந
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> உங்கள் சுட்டியைக் கட்டுப்படுத்துகிறது. கட்டுப்பாட்டை எடுக்க Esc விசையை அழுத்தவும்.
 pointerlock-warning-no-domain = இந்த ஆவணம் உங்கள் சுட்டியைக் கட்டுப்பாட்டில் வைத்திருக்கிறது. கட்டுப்பாட்டைத் திரும்ப எடுக்க Esc விசையை அழுத்தவும்.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -365,6 +371,8 @@ bookmarks-search =
     .label = புத்தகக்குறிகளைத் தேடு
 bookmarks-tools =
     .label = புத்தக்குறியிடும் கருவிகள்
+bookmarks-bookmark-edit-panel =
+    .label = புத்தகக்குறியைத் திருத்து
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறி கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
