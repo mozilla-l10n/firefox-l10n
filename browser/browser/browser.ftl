@@ -313,6 +313,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Dùin
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -388,6 +391,9 @@ fullscreen-exit-mac-button = Fàg an làn-sgrìn (esc)
 pointerlock-warning-domain = Tha smachd aig <span data-l10n-name="domain">{ $domain }</span> air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.
 pointerlock-warning-no-domain = Tha smachd aig an sgrìobhainn seo air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -426,6 +432,8 @@ bookmarks-search =
     .label = Lorg sna comharran-lìn
 bookmarks-tools =
     .label = Innealan nan comharra-lìn
+bookmarks-bookmark-edit-panel =
+    .label = Deasaich an comharra-lìn seo
 bookmarks-toolbar-menu =
     .label = Bàr nan comharra-lìn
 bookmarks-toolbar-placeholder =
