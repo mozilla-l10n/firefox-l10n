@@ -132,6 +132,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = بند
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -179,6 +182,9 @@ urlbar-result-action-search-w-engine = سْیت کْریو تلاش
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -187,6 +193,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = مزید نشان زد ہٲویو
 bookmarks-sidebar-content =
     .aria-label = نشان زَد
+bookmarks-bookmark-edit-panel =
+    .label = یئ نشان زَد كریو ایڈيٹ
 bookmarks-toolbar-menu =
     .label = نشان زد ٹول بار
 bookmarks-toolbar-placeholder =
