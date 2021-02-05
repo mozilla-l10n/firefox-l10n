@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Lesezeichen-Symbolleiste ausblenden
            *[other] Lesezeichen-Symbolleiste anzeigen
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Lesezeichen-Symbolleiste ausblenden
+           *[other] Lesezeichen-Symbolleiste anzeigen
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -557,6 +563,8 @@ bookmarks-search =
     .label = Lesezeichen durchsuchen
 bookmarks-tools =
     .label = Lesezeichen-Werkzeuge
+bookmarks-bookmark-edit-panel =
+    .label = Lesezeichen bearbeiten
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
