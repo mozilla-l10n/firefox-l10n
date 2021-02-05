@@ -546,6 +546,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Gøym bokmerkeverktøylinja
            *[other] Vis verktøylinje for bokmerke
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Gøym bokmerkeverktøylinja
+           *[other] Vis verktøylinje for bokmerke
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
