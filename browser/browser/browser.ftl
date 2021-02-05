@@ -551,6 +551,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Rědku cytańskich znamjenjow schowaś
            *[other] Rědku cytańskich znamjenjow pokazaś
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Rědku cytańskich znamjenjow schowaś
+           *[other] Rědku cytańskich znamjenjow pokazaś
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
