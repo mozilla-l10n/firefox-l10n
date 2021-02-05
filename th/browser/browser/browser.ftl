@@ -546,6 +546,8 @@ bookmarks-search =
     .label = ค้นหาที่คั่นหน้า
 bookmarks-tools =
     .label = เครื่องมือที่คั่นหน้า
+bookmarks-bookmark-edit-panel =
+    .label = แก้ไขที่คั่นหน้านี้
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
