@@ -290,6 +290,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = બંધ કરો
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -365,6 +368,9 @@ fullscreen-exit-mac-button = પૂર્ણ સ્ક્રીનથી બહ�
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> તમારા નિર્દેશક અંકુશ ધરાવે છે. Esc દબાવો પાછા નિયંત્રણ લઈ જવા માટે.
 pointerlock-warning-no-domain = આ દસ્તાવેજ આપના પોઇન્ટર નિયંત્રણ ધરાવે છે. Esc દબાવો પાછા નિયંત્રણલઈ જવા માટે.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -388,6 +394,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] બુકમાર્ક બાજુપટ્ટીને જુઓ
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] બુકમાર્ક્સ ટૂલબાર છુપાવો
+           *[other] બુકમાર્ક સાધનપટ્ટીને દર્શાવો
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] બુકમાર્ક્સ ટૂલબાર છુપાવો
