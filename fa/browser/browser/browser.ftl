@@ -447,6 +447,12 @@ bookmarks-tools-toolbar-visibility =
             [true] مخفی کردن نوار ابزار نشانک‌ها
            *[other] نمایش نوار ابزار نشانک‌ها
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] مخفی کردن نوار ابزار نشانک‌ها
+           *[other] نمایش نوار ابزار نشانک‌ها
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
