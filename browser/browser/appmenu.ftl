@@ -43,6 +43,11 @@ whatsnew-panel-footer-checkbox =
     .label = Informovať o nových funkciách
     .accesskey = f
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
 ## Help panel
 
 appmenu-about =
@@ -63,6 +68,8 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = Informácie pre riešenie problémov
     .accesskey = n
+appmenu-help-taskmanager =
+    .label = Správca úloh
 appmenu-help-feedback-page =
     .label = Odoslať spätnú väzbu…
     .accesskey = d
