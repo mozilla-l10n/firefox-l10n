@@ -223,6 +223,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = ବନ୍ଦକରନ୍ତୁ
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -270,6 +273,9 @@ urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍�
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -278,6 +284,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ
 bookmarks-sidebar-content =
     .aria-label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
+bookmarks-bookmark-edit-panel =
+    .label = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
 bookmarks-toolbar-menu =
     .label = ସାଧନପଟିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
 bookmarks-toolbar-placeholder =
