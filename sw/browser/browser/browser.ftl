@@ -115,6 +115,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Punguza
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -156,6 +159,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -164,6 +170,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Onyesha alamisho zaidi
 bookmarks-sidebar-content =
     .aria-label = Vialamisho
+bookmarks-bookmark-edit-panel =
+    .label = Hariri Alamisho Hili
 bookmarks-toolbar-menu =
     .label = Mwamba zana wa Alamisho
 bookmarks-toolbar-placeholder =
