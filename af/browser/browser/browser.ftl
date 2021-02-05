@@ -212,6 +212,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Sluit
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -277,6 +280,9 @@ fullscreen-exit-mac-button = Verlaat volskerm (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> beheer tans die wyser. Druk Esc om beheer terug te kry.
 pointerlock-warning-no-domain = Dié dokument beheer tans die wyser. Druk Esc om beheer terug te kry.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -291,6 +297,8 @@ bookmarks-other-bookmarks-menu =
     .label = Ander boekmerke
 bookmarks-search =
     .label = Deursoek boekmerke
+bookmarks-bookmark-edit-panel =
+    .label = Redigeer hierdie boekmerk
 bookmarks-toolbar-menu =
     .label = Boekmerknutsbalk
 bookmarks-toolbar-placeholder =
