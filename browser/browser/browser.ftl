@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Ocultar barra de ferramentas de marcadores
            *[other] Ver barra de ferramentas de marcadores
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Ocultar barra de ferramentas de marcadores
+           *[other] Ver barra de ferramentas de marcadores
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
