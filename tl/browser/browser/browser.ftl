@@ -339,6 +339,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Isara
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -480,6 +483,9 @@ fullscreen-exit-mac-button = Umalis sa Full Screen (Esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ay may kontrol sa iyong pointer. Pindutin ang ESC para mabawi ang kontrol.
 pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong pointer. Pindutin ang Esc para manumbalik ang kontrol.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -503,6 +509,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] Ipakita ang Bookmark Sidebar
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Itago ang Bookmark Toolbar
+           *[other] Ipakita ang Bookmark Sidebar
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Itago ang Bookmark Toolbar
