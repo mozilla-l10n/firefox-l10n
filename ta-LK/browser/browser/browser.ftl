@@ -115,6 +115,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = சுருக்குக
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -156,6 +159,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -164,6 +170,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = இன்னும் புத்தகக்குறிகளைக் காட்டுக
 bookmarks-sidebar-content =
     .aria-label = புத்தகக்குறிகள்
+bookmarks-bookmark-edit-panel =
+    .label = இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறிகளின் கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
