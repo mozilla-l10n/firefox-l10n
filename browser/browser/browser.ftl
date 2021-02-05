@@ -384,6 +384,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Paslēpt grāmatzīmju sānjoslu
            *[other] Attēlo grāmatzīmes sānu joslā
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Paslēpt grāmatzīmju sānjoslu
+           *[other] Attēlo grāmatzīmes sānu joslā
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
