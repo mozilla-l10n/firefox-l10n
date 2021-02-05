@@ -422,6 +422,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Falaich bàr-inneal nan comharra-lìn
            *[other] Seall bàr nan comharra-lìn
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Falaich bàr-inneal nan comharra-lìn
+           *[other] Seall bàr nan comharra-lìn
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
