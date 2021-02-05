@@ -725,6 +725,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Ichi yata jinidama kua contraseña maestra
+forms-primary-pw-fips-title = Ntañu'u yɨ'ɨnu ji FIPS. FIPS jiniñu'u iin contraseña xinañu'u ntu íyo vacia.
 forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 
 ## OS Authentication dialog
