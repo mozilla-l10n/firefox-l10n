@@ -400,6 +400,12 @@ bookmarks-tools-toolbar-visibility =
             [true] စာမှတ်များအတန်းကို ပိတ်ရန်
            *[other] စာမှတ်များ ကိရိယာအတန်းကို ပြပါ
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] စာမှတ်များအတန်းကို ပိတ်ရန်
+           *[other] စာမှတ်များ ကိရိယာအတန်းကို ပြပါ
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
