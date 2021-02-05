@@ -224,6 +224,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Zarrar
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -291,6 +294,9 @@ fullscreen-exit-mac-button = Colar de pantalla completa (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tien el control del to punteru. Primi Esc pa recuperalu.
 pointerlock-warning-no-domain = Esti documentu tien el control del to punteru. Primi Esc pa recuperalu.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -311,6 +317,8 @@ bookmarks-search =
     .label = Guetar marcadores
 bookmarks-tools =
     .label = Ferramientes de marcadores
+bookmarks-bookmark-edit-panel =
+    .label = Editar esti marcador
 bookmarks-toolbar-menu =
     .label = Barra de ferramientes de marcadores
 bookmarks-toolbar-placeholder =
