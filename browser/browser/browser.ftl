@@ -543,6 +543,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Схаваць паліцу закладак
            *[other] Паказаць паліцу закладак
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Схаваць паліцу закладак
+           *[other] Паказаць паліцу закладак
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
