@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Ezkutatu laster-marken tresna-barra
            *[other] Ikusi laster-marken tresna-barra
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Ezkutatu laster-marken tresna-barra
+           *[other] Ikusi laster-marken tresna-barra
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
