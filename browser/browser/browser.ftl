@@ -244,6 +244,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Dún
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -319,6 +322,9 @@ fullscreen-exit-mac-button = Fág Mód Lánscáileáin (esc)
 pointerlock-warning-domain = Tá <span data-l10n-name="domain">{ $domain }</span> i gceannas ar do chúrsóir faoi láthair. Brúigh Esc chun dul i gceannas air arís.
 pointerlock-warning-no-domain = Tá an cháipéis seo i gceannas ar do chúrsóir faoi láthair. Brúigh Esc chun dul i gceannas air arís.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -339,6 +345,8 @@ bookmarks-search =
     .label = Cuardaigh Leabharmharcanna
 bookmarks-tools =
     .label = Uirlisí Leabharmharcála
+bookmarks-bookmark-edit-panel =
+    .label = Cuir an Leabharmharc Seo in Eagar
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
