@@ -377,6 +377,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Sakrij traku sa zabilješkama
            *[other] Prikaži traku sa zabilješkama
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Sakrij traku sa zabilješkama
+           *[other] Prikaži traku sa zabilješkama
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
