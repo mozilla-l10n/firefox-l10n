@@ -298,6 +298,7 @@ identity-https-only-dropdown-off =
     .label = Disativade
 identity-https-only-dropdown-off-temporarily =
     .label = Disativade in mût temporani
+identity-https-only-info-turn-on2 = Impie la modalitât Dome-HTTPS par chest sît se tu desideris che { -brand-short-name } al inzorni a pene pussibil la conession.
 
 ## Window controls
 
