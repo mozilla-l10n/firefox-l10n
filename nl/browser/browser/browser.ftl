@@ -549,6 +549,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Bladwijzerwerkbalk verbergen
            *[other] Bladwijzerwerkbalk weergeven
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Bladwijzerwerkbalk verbergen
+           *[other] Bladwijzerwerkbalk weergeven
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
