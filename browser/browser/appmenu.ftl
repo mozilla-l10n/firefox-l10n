@@ -35,6 +35,11 @@ appmenuitem-save-page =
 
 whatsnew-panel-header = नवीन काय आहे
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
 ## Help panel
 
 appmenu-about =
@@ -52,6 +57,8 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = त्रुटीनिवारण माहिती
     .accesskey = T
+appmenu-help-taskmanager =
+    .label = कार्य व्यवस्थापक
 appmenu-help-feedback-page =
     .label = अभिप्राय सादर करा…
     .accesskey = S
