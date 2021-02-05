@@ -79,15 +79,45 @@ urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Gjestìs la condivision dai barcons o dal schermi cul sît
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Vierç il panel dai messaçs pe archiviazion fûr rêt
+urlbar-password-notification-anchor =
+    .tooltiptext = Vierç il panel dai messaçs pal salvament des passwords
+urlbar-translated-notification-anchor =
+    .tooltiptext = Gjestìs la traduzion des pagjinis
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Gjestìs l'ûs dai plugins
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = Gjestìs la condivision de tô fotocjamare e/o microfon cul sît
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Vierç il panel pe riproduzion automatiche
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Archivie i dâts intun archivi persistent
+urlbar-addons-notification-anchor =
+    .tooltiptext = Vierç il panel dai messaçs de instalazion des zontis
+urlbar-tip-help-icon =
+    .title = Oten jutori
+urlbar-search-tips-confirm = Va ben, capît!
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Sugjeriment:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = Scrîf di mancul, cjate di plui: cîr daurman su { $engineName } doprant la sbare de direzion.
+urlbar-search-tips-redirect-2 = Scomence la tô ricercje inte sbare sbare de direzion par viodi sugjeriments di { $engineName } e de tô cronologjie di navigazion.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Selezione cheste scurte par cjatâ subite ce che ti covente.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Segnelibris
+urlbar-search-mode-tabs = Schedis
+urlbar-search-mode-history = Cronologjie
 
 ##
 
