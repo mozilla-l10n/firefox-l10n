@@ -460,6 +460,12 @@ bookmarks-tools-toolbar-visibility =
             [true] बुकमार्क टूलबार छिपाएं
            *[other] बुकमार्क औज़ारपट्टी देखें
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] बुकमार्क टूलबार छिपाएं
+           *[other] बुकमार्क औज़ारपट्टी देखें
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -470,6 +476,8 @@ bookmarks-search =
     .label = बुकमार्क खोजें
 bookmarks-tools =
     .label = बुकमार्क के उपकरण
+bookmarks-bookmark-edit-panel =
+    .label = यह बुकमार्क संपादित करें
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
