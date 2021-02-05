@@ -299,6 +299,11 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Disativade in mût temporani
 identity-https-only-info-turn-on2 = Impie la modalitât Dome-HTTPS par chest sît se tu desideris che { -brand-short-name } al inzorni a pene pussibil la conession.
+identity-https-only-info-turn-off2 = Se la pagjine e somee ruvinade, tu podaressisdisativâ la modalitât Dome-HTTPS par chest sît cussì di podê tornâ a cjariâ ichest sît doprant il HTTP malsigûr.
+identity-https-only-info-no-upgrade = No si rive a inzornâ la conession dal HTTP.
+identity-permissions =
+    .value = Permès
+identity-permissions-storage-access-header = Cookies inter-sîts
 
 ## Window controls
 
