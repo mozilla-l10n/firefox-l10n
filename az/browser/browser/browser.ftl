@@ -295,6 +295,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Qapat
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -378,6 +381,9 @@ fullscreen-exit-mac-button = Tam erkandan çıx (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kursorunuzu idarə edir. İdarəni geri almaq üçün Esc düyməsinə basın.
 pointerlock-warning-no-domain = Bu sənəd kursorunuzu idarə edir. İdarəni geri almaq üçün Esc düyməsinə basın.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -406,6 +412,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Əlfəcin alət sətrini gizlət
            *[other] Əlfəcin alət sətrini gör
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Əlfəcin alət sətrini gizlət
+           *[other] Əlfəcin alət sətrini gör
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -416,6 +428,8 @@ bookmarks-search =
     .label = Əlfəcinlərdə axtar
 bookmarks-tools =
     .label = Əlfəcin alətləri
+bookmarks-bookmark-edit-panel =
+    .label = Bu əlfəcini düzəlt
 bookmarks-toolbar-menu =
     .label = Əlfəcin paneli
 bookmarks-toolbar-placeholder =
