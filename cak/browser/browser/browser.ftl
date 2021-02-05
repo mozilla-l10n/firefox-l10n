@@ -538,6 +538,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Tewüx ri Kikajtz'ik taq Yaketal
            *[other] Titz'et rukatz'ik taq yaketal
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Tewüx ri Kikajtz'ik taq Yaketal
+           *[other] Titz'et rukatz'ik taq yaketal
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
