@@ -282,6 +282,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Loka
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -357,6 +360,9 @@ fullscreen-exit-mac-button = Hætta í fullum skjá (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> hefur stjórn á bendi. Ýttu á Esc til að taka aftur yfir stjórn.
 pointerlock-warning-no-domain = Þetta skjal hefur nú stjórnina á bendi. Ýttu á Esc til að taka aftur yfir stjórn.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -395,6 +401,8 @@ bookmarks-search =
     .label = Leita í bókamerkjum
 bookmarks-tools =
     .label = Verkfæri fyrir bókamerki
+bookmarks-bookmark-edit-panel =
+    .label = Breyta bókamerki
 bookmarks-toolbar-menu =
     .label = Bókamerkjaslá
 bookmarks-toolbar-placeholder =
