@@ -462,6 +462,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Skryť panel nástrojov Záložky
            *[other] Zobraziť panel nástrojov Záložky
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Skryť panel nástrojov Záložky
+           *[other] Zobraziť panel nástrojov Záložky
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
