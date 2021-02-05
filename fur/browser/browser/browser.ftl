@@ -53,6 +53,14 @@ urlbar-identity-button =
 
 urlbar-services-notification-anchor =
     .tooltiptext = Vierç il panel dai messaçs di instalazion
+urlbar-web-notification-anchor =
+    .tooltiptext = Cambie se tu puedis o mancul ricevi notifichis dal sît
+urlbar-midi-notification-anchor =
+    .tooltiptext = Vierç panel MIDI
+urlbar-eme-notification-anchor =
+    .tooltiptext = Gjestìs l'ûs dal software DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = Vierç panel de autenticazion web
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
