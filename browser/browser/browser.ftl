@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Vis alle bokmerker
 bookmarks-recent-bookmarks =
     .value = Nylig bokmerket
+bookmarks-manage-bookmarks =
+    .label = Behandle bokmerker
+bookmarks-recent-bookmarks-panel =
+    .value = Nylige bokmerker
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis flere bokmerker
 bookmarks-sidebar-content =
@@ -553,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Skjul bokmerkeverktøylinje
            *[other] Vis bokmerkeverktøylinje
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Vis bokmerkeverktøylinjen
+           *[other] Skjul bokmerkeverktøylinjen
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -578,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Elementer i bokmerkelinje
 bookmarks-toolbar-placeholder-button =
     .label = Elementer i bokmerkelinje
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Bokmerk gjeldende fane
 
 ## Library Panel items
 
