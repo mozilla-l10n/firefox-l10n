@@ -272,6 +272,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Zatvori
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -343,6 +346,9 @@ fullscreen-exit-mac-button = Izađite iz cijelog ekrana (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.
 pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -381,6 +387,8 @@ bookmarks-search =
     .label = Pretraži zabilješke
 bookmarks-tools =
     .label = Alati za zabilježavanje
+bookmarks-bookmark-edit-panel =
+    .label = Uredi ovu Zabilješku
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
