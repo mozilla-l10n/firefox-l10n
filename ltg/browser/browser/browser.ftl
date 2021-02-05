@@ -263,6 +263,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Aiztaiseit
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -336,6 +339,9 @@ fullscreen-exit-mac-button = Izīt nu pynlekrana (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.
 pointerlock-warning-no-domain = Itys dokuments kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -364,6 +370,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Paslēpt gruomotzeimju suonjūsla
            *[other] Attāloj gruomotzeimes suonu juslā
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Paslēpt gruomotzeimju suonjūsla
+           *[other] Attāloj gruomotzeimes suonu juslā
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -374,6 +386,8 @@ bookmarks-search =
     .label = Mekleit gruomotzeimes
 bookmarks-tools =
     .label = Gruomotzeimju reiki
+bookmarks-bookmark-edit-panel =
+    .label = Redigeit itū gruomotzeimi
 bookmarks-toolbar-menu =
     .label = Gruomotzeimju reikjūsla
 bookmarks-toolbar-placeholder =
