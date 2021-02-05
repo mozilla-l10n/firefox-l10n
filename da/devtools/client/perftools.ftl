@@ -101,3 +101,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Ignorer valg ovenfor og optag alle registrerede tråde
+perftools-tools-threads-input-label =
+    .title = Disse tråd-navne er en kommasepareret liste, der bruges til at aktivere profilering af trådene i profileringsværktøjet. Navnet behøver bare at stemme delvist overens med trådnavnet for at blive inkluderet. Mellemrum indgår i sammenligningen.

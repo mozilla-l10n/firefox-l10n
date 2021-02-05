@@ -300,3 +300,5 @@ cfr-whatsnew-bookmarking-body = Det er blevet nemmere at holde styr på dine ynd
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Omfattende beskyttelse mod cookie-sporing på tværs af websteder
+cfr-whatsnew-cross-site-tracking-body = Du kan du vælge at blive endnu bedre beskyttet mod sporing via cookies. { -brand-short-name } kan isolere dine aktiviteter og data til det websted, du besøger. På dén måde bliver information gemt i browseren ikke delt mellem websteder.
