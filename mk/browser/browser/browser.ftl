@@ -203,6 +203,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Затвора
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -270,6 +273,9 @@ fullscreen-exit-mac-button = Излези од приказ на цел екра
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> го контролира вашиот покажувач. Притиснете Esc за да ја преземете контролата.
 pointerlock-warning-no-domain = Овој документ ви ја презема контролата врз покажувачот. Притиснете Esc за да си ја вратите.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -298,6 +304,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Скриј алатник со обележувачи
            *[other] Прикажи алатник со обележувачи
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Скриј алатник со обележувачи
+           *[other] Прикажи алатник со обележувачи
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -308,6 +320,8 @@ bookmarks-search =
     .label = Барај во обележувачите
 bookmarks-tools =
     .label = Алатки за обележување
+bookmarks-bookmark-edit-panel =
+    .label = Уреди го овој обележувач
 bookmarks-toolbar-menu =
     .label = Алатник со обележувачи
 bookmarks-toolbar-placeholder =
