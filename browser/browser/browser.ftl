@@ -348,6 +348,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zamknij
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -532,6 +535,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] Wyświetl panel zakładek
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ukryj pasek zakładek
+           *[other] Wyświetl pasek zakładek
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Ukryj pasek zakładek
