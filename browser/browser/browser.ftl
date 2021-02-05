@@ -524,6 +524,10 @@ bookmarks-show-all-bookmarks =
     .label = Afichar totes los marcapaginas
 bookmarks-recent-bookmarks =
     .value = Marcats recentament
+bookmarks-manage-bookmarks =
+    .label = Gerir los marcapaginas
+bookmarks-recent-bookmarks-panel =
+    .value = Marcapaginas recents
 bookmarks-toolbar-chevron =
     .tooltiptext = Afichar mai de marcapaginas
 bookmarks-sidebar-content =
@@ -547,6 +551,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Afichar la barra personala
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Amagar la barra personala
+           *[other] Afichar la barra personala
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Amagar la barra personala
