@@ -558,6 +558,8 @@ bookmarks-search =
     .label = Klask er sinedoù
 bookmarks-tools =
     .label = Ostilhoù ar sinedoù
+bookmarks-bookmark-edit-panel =
+    .label = Embann ar sined-mañ
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
