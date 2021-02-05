@@ -298,6 +298,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Narán
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -377,6 +380,9 @@ fullscreen-exit-mac-button = Nagi'iaj lij riña aga' sikà' ràa (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> hua a'ngo sa nikaj ñu'unj si punterôt. Ga'ui' Esc da' narit.
 pointerlock-warning-no-domain = Ñaj na nikaj ñu'unj si punterôt. Ga'ui' Esc da' narit.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -405,6 +411,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Gachrī hui' dukuâ sa raj sun'
            *[other] Ni'io riña sa gara sun'
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Gachrī hui' dukuâ sa raj sun'
+           *[other] Ni'io riña sa gara sun'
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -415,6 +427,8 @@ bookmarks-search =
     .label = Nana'ui' sa raj sun nichrò' doj
 bookmarks-tools =
     .label = Si rasun markadores
+bookmarks-bookmark-edit-panel =
+    .label = Nagi'io' sa arajsun nichrò' doj
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
