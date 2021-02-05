@@ -563,6 +563,8 @@ bookmarks-search =
     .label = Könyvjelzők keresése
 bookmarks-tools =
     .label = Könyvjelzőzési eszközök
+bookmarks-bookmark-edit-panel =
+    .label = Könyvjelző szerkesztése
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
