@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Dölj bokmärkesfältet
            *[other] Visa bokmärkesfältet
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Dölj bokmärkesfältet
+           *[other] Visa bokmärkesfältet
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
