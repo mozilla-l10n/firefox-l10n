@@ -332,6 +332,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Închide
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -462,6 +465,9 @@ fullscreen-exit-mac-button = Ieși din modul ecran complet (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> controlează acum cursorul. Apasă Esc pentru a prelua controlul.
 pointerlock-warning-no-domain = Documentul controlează acum cursorul. Apasă Esc pentru a prelua controlul.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -485,6 +491,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] Vezi bara laterală de marcaje
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Ascunde bara de marcaje
+           *[other] Vezi bara de marcaje
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Ascunde bara de marcaje
