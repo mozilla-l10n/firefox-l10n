@@ -213,6 +213,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Daabu
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -282,6 +285,9 @@ fullscreen-exit-mac-button = Fatta dijikul ra (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.
 pointerlock-warning-no-domain = Takaddaa woo ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -298,6 +304,8 @@ bookmarks-mobile-bookmarks-menu =
     .label = Doo-šilbay dirantey
 bookmarks-search =
     .label = Doo-šilbawey ceeci
+bookmarks-bookmark-edit-panel =
+    .label = Doo-šilbaa woo fasal
 bookmarks-toolbar-menu =
     .label = Doo-šilbawey goyjinay žeeri
 bookmarks-toolbar-placeholder =
