@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Ffer afeggag n tecraḍ n yisebtar
            *[other] Sken afeggag n tecraḍ n yisebtar
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Ffer afeggag n tecraḍ n yisebtar
+           *[other] Sken afeggag n tecraḍ n yisebtar
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
