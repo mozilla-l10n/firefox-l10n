@@ -546,6 +546,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Fshihe Panelin e Faqerojtësve
            *[other] Shihni Panel Faqerojtësish
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Fshihe Panelin e Faqerojtësve
+           *[other] Shihni Panel Faqerojtësish
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -556,6 +562,8 @@ bookmarks-search =
     .label = Kërkoni Te Faqerojtësit
 bookmarks-tools =
     .label = Mjete Faqeruajtjeje
+bookmarks-bookmark-edit-panel =
+    .label = Përpunojeni Këtë Faqerojtës
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
