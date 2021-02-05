@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Yer imleri kenar çubuğunu gizle
            *[other] Yer imleri araç çubuğunu göster
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Yer imleri kenar çubuğunu gizle
+           *[other] Yer imleri araç çubuğunu göster
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
