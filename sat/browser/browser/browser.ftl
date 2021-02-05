@@ -128,6 +128,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बोंद मे
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -175,12 +178,17 @@ urlbar-result-action-search-w-engine = { $engine } सांव पानते
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
     .label = जोतो पुथी चिनहा़ को उदुगा मे.
 bookmarks-toolbar-chevron =
     .tooltiptext = ढेर पुथी चिनहा़ को उदुग मे.
+bookmarks-bookmark-edit-panel =
+    .label = नोवा पुथी चिनहा़ सासापड़ाव में.
 bookmarks-toolbar-menu =
     .label = टुलबार पुथी चिनहा़ को
 bookmarks-toolbar-placeholder =
