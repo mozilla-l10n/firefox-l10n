@@ -549,6 +549,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Slėpti adresyno juostą
            *[other] Rodyti adresyno juostą
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Slėpti adresyno juostą
+           *[other] Rodyti adresyno juostą
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
