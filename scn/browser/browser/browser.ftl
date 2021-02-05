@@ -266,6 +266,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Chiuji
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -331,6 +334,9 @@ fullscreen-exit-mac-button = Nesci di tuttu schirmu (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> pigghiau cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.
 pointerlock-warning-no-domain = Sta pàggini teni cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -359,6 +365,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Ammuccia a sbarra dî nzingalibbri
            *[other] Talìa sbarra dî nzingalibbri
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Ammuccia a sbarra dî nzingalibbri
+           *[other] Talìa sbarra dî nzingalibbri
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -369,6 +381,8 @@ bookmarks-search =
     .label = Cerca nnê nzingalibbri
 bookmarks-tools =
     .label = Strumenti pî nzingalibbri
+bookmarks-bookmark-edit-panel =
+    .label = Cancia stu nzingalibbru
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
