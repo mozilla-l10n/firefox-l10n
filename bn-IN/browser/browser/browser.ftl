@@ -277,6 +277,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = বন্ধ
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -350,6 +353,9 @@ fullscreen-exit-mac-button = পূর্ণ স্ক্রিন প্রস�
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> আপনার পয়েন্টারের নিয়ন্ত্রণ আছে। Esc মারুন নিয়ন্ত্রন ফিরিয়ে নেওয়ার জন্য।
 pointerlock-warning-no-domain = এই ডকুমেন্টের আপনার পয়েন্টারের নিয়ন্ত্রণ আছে। Esc মারুন নিয়ন্ত্রণ ফিরিয়ে নেওয়ার জন্য।
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -388,6 +394,8 @@ bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান করুন
 bookmarks-tools =
     .label = বুকমার্ক করার টুল
+bookmarks-bookmark-edit-panel =
+    .label = চিহ্নিত বুকমার্ক পরিবর্তন করুন
 bookmarks-toolbar-menu =
     .label = বুকমার্কের টুলবার
 bookmarks-toolbar-placeholder =
