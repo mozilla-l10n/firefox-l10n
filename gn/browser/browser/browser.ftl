@@ -562,6 +562,8 @@ bookmarks-search =
     .label = Techaukaha jeheka
 bookmarks-tools =
     .label = Techaukaha Rembipuru
+bookmarks-bookmark-edit-panel =
+    .label = Ko techaukaha mbosako’i
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
