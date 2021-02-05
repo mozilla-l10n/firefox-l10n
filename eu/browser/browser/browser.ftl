@@ -563,6 +563,8 @@ bookmarks-search =
     .label = Bilatu laster-markak
 bookmarks-tools =
     .label = Laster-marken tresnak
+bookmarks-bookmark-edit-panel =
+    .label = Editatu laster-marka
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
