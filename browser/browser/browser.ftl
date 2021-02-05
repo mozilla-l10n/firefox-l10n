@@ -361,6 +361,12 @@ bookmarks-tools-toolbar-visibility =
             [true] புத்தகக்குறிகள் கருவிப்பட்டையை மறை
            *[other] புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] புத்தகக்குறிகள் கருவிப்பட்டையை மறை
+           *[other] புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
