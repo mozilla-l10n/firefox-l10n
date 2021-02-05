@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Könyvjelző eszköztár elrejtése
            *[other] Könyvjelző eszköztár megjelenítése
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Könyvjelző eszköztár elrejtése
+           *[other] Könyvjelző eszköztár megjelenítése
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
