@@ -115,6 +115,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Nyenyefatša
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -156,6 +159,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -166,6 +172,8 @@ bookmarks-sidebar-content =
     .aria-label = Dipukutshwayo
 bookmarks-search =
     .label = Nyaka dipukutshwayo
+bookmarks-bookmark-edit-panel =
+    .label = Lokiša pukutshwayo ye
 bookmarks-toolbar-menu =
     .label = Thulupaa ya dipukutshwayo
 bookmarks-toolbar-placeholder =
