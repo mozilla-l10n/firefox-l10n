@@ -494,6 +494,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Amagar la barra de ferramientas de marcapachinas
            *[other] Veyer a barra de marcapachinas
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Amagar la barra de ferramientas de marcapachinas
+           *[other] Veyer a barra de marcapachinas
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
