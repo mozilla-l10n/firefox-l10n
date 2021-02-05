@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Ventana jíía
 appmenuitem-new-private-window =
     .label = Ventana jíía yu´u
+appmenuitem-passwords =
+    .label = Da contraseña
+appmenuitem-extensions-and-themes =
+    .label = Complementos ji temas
+appmenuitem-find-in-page =
+    .label = Nánuku nu página
+appmenuitem-more-tools =
+    .label = Kue'eka ka̱a̱
+appmenuitem-exit =
+    .label = Kene
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ke´i
 
 ## Zoom and Fullscreen Controls
 
@@ -47,9 +61,26 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-learn-more = Ka´vi kue´eka
+profiler-popup-settings =
+    .value = Ke´i
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } Chinei
 appmenu-about =
     .label = Jie'e { -brand-shorter-name }
     .accesskey = J
@@ -65,6 +96,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Sa´a ñama Ka̱a̱ tee
     .accesskey = S
+appmenu-get-help =
+    .label = Nánuku chineída noo´o
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = Tu'un saa kuvi nasa'anu ya'a de ntivu
     .accesskey = T

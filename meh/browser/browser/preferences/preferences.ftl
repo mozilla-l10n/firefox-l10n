@@ -693,6 +693,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Kachi je sa'a contraseñas nakui
     .accesskey = u
+forms-breach-alerts =
+    .label = Kune'ya tu'un nava jie da contraseña nu da nuu web ntu vatu
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Ka´vi kue´eka
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
