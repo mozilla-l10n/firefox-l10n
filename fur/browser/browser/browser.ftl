@@ -71,6 +71,14 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Vierç il panel des richiestis di posizion
 urlbar-xr-notification-anchor =
     .tooltiptext = Vierç il panel dai permès pe realtât virtuâl
+urlbar-storage-access-anchor =
+    .tooltiptext = Vierç il panel dai permès pes ativitâts di navigazion
+urlbar-translate-notification-anchor =
+    .tooltiptext = Tradûs cheste pagjine
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Gjestìs la condivision dai barcons o dal schermi cul sît
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Vierç il panel dai messaçs pe archiviazion fûr rêt
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
