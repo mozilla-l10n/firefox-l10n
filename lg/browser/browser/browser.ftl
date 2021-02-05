@@ -107,6 +107,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Funza
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -144,6 +147,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -154,6 +160,8 @@ bookmarks-sidebar-content =
     .aria-label = Obulambe
 bookmarks-search =
     .label = Noonya Obulambe
+bookmarks-bookmark-edit-panel =
+    .label = Longoosa Akalambe Kano
 bookmarks-toolbar-menu =
     .label = Akabawo Kobulambe
 bookmarks-toolbar-placeholder =
