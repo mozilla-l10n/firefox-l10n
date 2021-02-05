@@ -331,6 +331,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Tutup
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -472,6 +475,9 @@ fullscreen-exit-mac-button = Keluar dari Layar Penuh (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> memiliki kendali atas penunjuk Anda. Tekan Esc untuk mengembalikan kendali.
 pointerlock-warning-no-domain = Dokumen ini memiliki kendali atas pointer Anda. Tekan Esc untuk mengambil kembali kendali.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -510,6 +516,8 @@ bookmarks-search =
     .label = Cari Markah
 bookmarks-tools =
     .label = Alat Pemarkahan
+bookmarks-bookmark-edit-panel =
+    .label = Edit Markah Ini
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
