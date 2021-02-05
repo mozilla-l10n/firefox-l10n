@@ -529,6 +529,10 @@ bookmarks-show-all-bookmarks =
     .label = Wšě zapołožki pokazać
 bookmarks-recent-bookmarks =
     .value = Njedawno jako zapołožka wotpołoženy
+bookmarks-manage-bookmarks =
+    .label = Zapołožki rjadować
+bookmarks-recent-bookmarks-panel =
+    .value = Najnowše zapołožki
 bookmarks-toolbar-chevron =
     .tooltiptext = Dalše zapołožki pokazać
 bookmarks-sidebar-content =
@@ -552,6 +556,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Lajstu zapołožkow pokazać
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Lajstu zapołožkow schować
+           *[other] Lajstu zapołožkow pokazać
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Lajstu zapołožkow schować
@@ -582,6 +592,9 @@ bookmarks-toolbar-placeholder =
     .title = Zapiski lajsty zapołožkow
 bookmarks-toolbar-placeholder-button =
     .label = Zapiski lajsty zapołožkow
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Aktualny rajtark jako zapołožku składować
 
 ## Library Panel items
 
