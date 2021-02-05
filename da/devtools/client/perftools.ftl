@@ -42,6 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer-størrelse:
+perftools-custom-threads-label = Tilføj tilpassede tråde ved deres navne:
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Tråde:
 perftools-devtools-settings-label = Indstillinger
@@ -56,6 +57,7 @@ perftools-status-restart-required = Browseren skal genstartes for at aktivere de
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Stopper optagelser
 perftools-request-to-get-profile-and-stop-profiler = Indfanger profil
 
 ##

@@ -349,6 +349,7 @@ browser-window-close-button =
 ## Tab actions
 
 browser-tab-audio-playing = Afspiller
+browser-tab-audio-muted = Lyd slået fra
 
 ## Bookmarks toolbar items
 
