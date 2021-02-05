@@ -517,6 +517,10 @@ bookmarks-show-all-bookmarks =
     .label = 管理所有书签
 bookmarks-recent-bookmarks =
     .value = 最近的书签
+bookmarks-manage-bookmarks =
+    .label = 管理书签
+bookmarks-recent-bookmarks-panel =
+    .value = 最近的书签
 bookmarks-toolbar-chevron =
     .tooltiptext = 显示更多书签
 bookmarks-sidebar-content =
@@ -545,6 +549,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] 隐藏书签工具栏
            *[other] 查看书签工具栏
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] 隐藏书签工具栏
+           *[other] 显示书签工具栏
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -570,6 +580,9 @@ bookmarks-toolbar-placeholder =
     .title = 书签工具栏项目
 bookmarks-toolbar-placeholder-button =
     .label = 书签工具栏项目
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = 将当前标签页加入书签
 
 ## Library Panel items
 
