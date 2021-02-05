@@ -168,6 +168,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Zoumaachen
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -218,6 +221,9 @@ fullscreen-exit-mac-button = Vollbild zoumaachen (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolléiert de Maus. Esc drécken fir d'Kontroll z'iwwerhuelen.
 pointerlock-warning-no-domain = Dëst Dokument huet d'Kontroll iwwert d'Maus. Dréck Esc fir d'Kontroll z'iwwerhuelen.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -236,6 +242,8 @@ bookmarks-mobile-bookmarks-menu =
     .label = Mobil Lieszeechen
 bookmarks-search =
     .label = An de Lieszeeche sichen
+bookmarks-bookmark-edit-panel =
+    .label = Dëst Lieszeechen änneren
 bookmarks-toolbar-menu =
     .label = Lieszeechensymbolleescht
 bookmarks-toolbar-placeholder =
