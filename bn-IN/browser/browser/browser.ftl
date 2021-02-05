@@ -384,6 +384,12 @@ bookmarks-tools-toolbar-visibility =
             [true] বুকমার্ক টুলবার লুকান
            *[other] বুকমার্ক টুল-বার প্রদর্শন করা হবে
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক টুলবার লুকান
+           *[other] বুকমার্ক টুল-বার প্রদর্শন করা হবে
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
