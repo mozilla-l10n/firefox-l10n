@@ -587,6 +587,9 @@ bookmarks-toolbar-placeholder =
     .title = Elements de la barra personala
 bookmarks-toolbar-placeholder-button =
     .label = Elements de la barra personala
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Onglet marcapagina actual
 
 ## Library Panel items
 
