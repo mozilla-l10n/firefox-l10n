@@ -546,6 +546,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Amaga la barra d'eines d'adreces d'interès
            *[other] Mostra la barra de les adreces d'interès
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Amaga la barra d'eines d'adreces d'interès
+           *[other] Mostra la barra de les adreces d'interès
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
