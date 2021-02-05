@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Blêdwizerarkbalke ferstopje
            *[other] Blêdwizerarkbalke werjaan
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Blêdwizerarkbalke ferstopje
+           *[other] Blêdwizerarkbalke werjaan
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
