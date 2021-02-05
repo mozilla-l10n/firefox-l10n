@@ -432,6 +432,12 @@ bookmarks-tools-toolbar-visibility =
             [true] বুকমার্ক টুলবার লুকাও
            *[other] বুকমার্ক টুলবার প্রদর্শন
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] বুকমার্ক টুলবার লুকাও
+           *[other] বুকমার্ক টুলবার প্রদর্শন
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
