@@ -346,6 +346,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Fermi
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -530,6 +533,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] Montri flankan strion de legosignoj
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Kaŝi ilaron de legosignoj
+           *[other] Montri ilaron de legosignoj
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Kaŝi ilaron de legosignoj
