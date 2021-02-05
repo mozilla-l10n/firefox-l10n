@@ -555,6 +555,12 @@ bookmarks-tools-toolbar-visibility =
             [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਓਹਲੇ ਕਰੋ
            *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਓਹਲੇ ਕਰੋ
+           *[other] ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
