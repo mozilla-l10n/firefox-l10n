@@ -549,6 +549,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Сакриј траку са забелешкама
            *[other] Прикажи траку са забелешкама
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Сакриј траку са забелешкама
+           *[other] Прикажи траку са забелешкама
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
