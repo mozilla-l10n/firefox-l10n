@@ -419,6 +419,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Suuɗ Palal Maantore
            *[other] Hollu Palal Maantore
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Suuɗ Palal Maantore
+           *[other] Hollu Palal Maantore
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
