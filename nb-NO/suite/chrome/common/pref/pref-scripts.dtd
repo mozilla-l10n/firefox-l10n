@@ -20,6 +20,10 @@
 <!ENTITY allowContextmenuDisable.label   "Slå av eller erstatte kontekstmenyer">
 <!ENTITY allowHideStatusBar.label        "Skjul statuslinjen">
 
+<!ENTITY debugging.label                  "JavaScript-feilsøking">
+<!ENTITY debugStrictJavascript.label      "Vis strenge JavaScript-advarsler">
+<!ENTITY debugStrictJavascript.accesskey  "J">
+
 <!ENTITY enablePlugins.label             "Tillat programtillegg for">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
