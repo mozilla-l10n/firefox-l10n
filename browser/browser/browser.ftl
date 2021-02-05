@@ -527,6 +527,10 @@ bookmarks-show-all-bookmarks =
     .label = Показати всі закладки
 bookmarks-recent-bookmarks =
     .value = Останні закладки
+bookmarks-manage-bookmarks =
+    .label = Керувати закладками
+bookmarks-recent-bookmarks-panel =
+    .value = Недавні закладки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показати інші закладки
 bookmarks-sidebar-content =
@@ -555,6 +559,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Приховати панель закладок
            *[other] Показати панель закладок
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Сховати панель закладок
+           *[other] Показати панель закладок
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -580,6 +590,9 @@ bookmarks-toolbar-placeholder =
     .title = Елементи панелі закладок
 bookmarks-toolbar-placeholder-button =
     .label = Елементи панелі закладок
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Закласти поточну вкладку
 
 ## Library Panel items
 
