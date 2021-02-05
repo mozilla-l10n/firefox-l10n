@@ -123,6 +123,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Salve destinazion cul non…
     .accesskey = S
+main-context-menu-save-link-to-pocket =
+    .label = Salve colegament su { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -132,7 +135,7 @@ main-context-menu-copy-email =
     .label = Copie la direzion di pueste eletroniche
     .accesskey = e
 main-context-menu-copy-link =
-    .label = Copie la direzion dal leam
+    .label = Copie la direzion dal colegament
     .accesskey = C
 
 ## Media (video/audio) controls
@@ -145,23 +148,46 @@ main-context-menu-media-play =
     .label = Riprodûs
     .accesskey = p
 main-context-menu-media-pause =
-    .label = Pause
+    .label = Met in pause
     .accesskey = P
 
 ##
 
 main-context-menu-media-mute =
-    .label = Cence audio
-    .accesskey = a
+    .label = Cidine
+    .accesskey = e
 main-context-menu-media-unmute =
-    .label = Scolte audio
+    .label = Ative l'audio
     .accesskey = a
+main-context-menu-media-play-speed =
+    .label = Velocitât di riproduzion
+    .accesskey = V
+main-context-menu-media-play-speed-slow =
+    .label = Lente (0.5×)
+    .accesskey = L
+main-context-menu-media-play-speed-normal =
+    .label = Normâl
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Svelte (1.25×)
+    .accesskey = S
+main-context-menu-media-play-speed-faster =
+    .label = Plui svelte (1.5×)
+    .accesskey = P
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Imburide (2×)
+    .accesskey = I
+main-context-menu-media-loop =
+    .label = Ripeti
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = Fâs viodi controi
+    .label = Mostre controi
     .accesskey = c
 main-context-menu-media-hide-controls =
     .label = Plate controi
@@ -170,11 +196,16 @@ main-context-menu-media-hide-controls =
 ##
 
 main-context-menu-media-video-fullscreen =
-    .label = Dut il visôr
-    .accesskey = D
+    .label = Plen visôr
+    .accesskey = P
 main-context-menu-media-video-leave-fullscreen =
-    .label = Jes de modalitât a dut il visôr
+    .label = Jes de modalitât a plen visôr
     .accesskey = J
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Torne a cjamâ figure
     .accesskey = r
