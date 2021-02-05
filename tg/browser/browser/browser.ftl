@@ -190,6 +190,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = Пӯшидан
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -284,6 +287,9 @@ urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engi
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-sidebar-content =
@@ -294,6 +300,8 @@ bookmarks-other-bookmarks-menu =
     .label = Хатбаракҳои дигар
 bookmarks-mobile-bookmarks-menu =
     .label = Хатбаракҳои мобилӣ
+bookmarks-bookmark-edit-panel =
+    .label = Таҳрир кардани ин хатбарак
 
 ## Library Panel items
 
