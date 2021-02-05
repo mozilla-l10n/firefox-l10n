@@ -244,6 +244,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = වසන්න
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -317,6 +320,9 @@ fullscreen-exit-mac-button = පූර්ණ තිරයෙන් පිටව�
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> හට ඔබගේ දක්වනයේ පාලනය පවතී. පාලනය නැවත ලැබීමට Esc ඔබන්න.
 pointerlock-warning-no-domain = මෙම ලේඛනය හට ඔබගේ දක්වනයේ පාලනය පවතී. පාලනය නැවත ලැබීමට Esc ඔබන්න.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -340,6 +346,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] පිටුලකුණු පැති තීරුව පෙන්වන්න
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] පිටු සලකුණු මෙවලම් තීරුව සඟවන්න
+           *[other] පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] පිටු සලකුණු මෙවලම් තීරුව සඟවන්න
