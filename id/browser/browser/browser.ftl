@@ -506,6 +506,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Sembunyikan Bilah Alat Markah
            *[other] Tampilkan Bilah Alat Markah
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Sembunyikan Bilah Alat Markah
+           *[other] Tampilkan Bilah Alat Markah
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
