@@ -279,6 +279,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Qapat
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -354,6 +357,9 @@ fullscreen-exit-mac-button = Tam-Ekrandan Çıq (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.
 pointerlock-warning-no-domain = Bu vesiqa ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -377,6 +383,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] Saifeimleri Alet Çubuğını Köster
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Saife-imleri Alet-çubuğını Gizle
+           *[other] Saife-imleri Alet Çubuğını Köster
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Saife-imleri Alet-çubuğını Gizle
