@@ -15,6 +15,10 @@
 <!ENTITY prefCheckDefaultClient.accesskey "K">
 
 <!ENTITY printing.label                   "Skriver ut">
+<!ENTITY useNativePrintDialog.label       "Bruk systemets utskriftsdialogboks (hvis det støttes)">
+<!ENTITY useNativePrintDialog.accesskey   "B">
+<!ENTITY useGlobalPrintSettings.label     "Bruk globale innstillinger for utskrift">
+<!ENTITY useGlobalPrintSettings.accesskey "g">
 
 <!ENTITY crashReports.caption             "Krasjrapportering">
 <!ENTITY submitCrashes.label              "Send krasjrapporter">
