@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-calendar-ics-file-window =
-    .title = Tuo kalenteritapahtumat
-calendar-ics-file-dialog =
-    .buttonlabelaccept = Tuonti
 calendar-ics-file-window-2 =
     .title = Tuo kalenteritapahtumat ja -tehtävät
 calendar-ics-file-dialog-import-event-button-label = Tuo tapahtuma
@@ -13,10 +9,23 @@ calendar-ics-file-dialog-import-task-button-label = Tuo tehtävä
 calendar-ics-file-dialog-2 =
     .buttonlabelaccept = Tuo kaikki
 calendar-ics-file-accept-button-ok-label = OK
-# $fileName (string) - The name of the file.
-calendar-ics-file-dialog-message = Haluatko tuoda tiedoston "{ $fileName }"?
+calendar-ics-file-cancel-button-close-label = Sulje
 calendar-ics-file-dialog-message-2 = Tuo tiedostosta:
 calendar-ics-file-dialog-calendar-menu-label = Tuo kalenteriin:
+calendar-ics-file-dialog-items-loading-message =
+    .value = Ladataan merkintöjä…
+calendar-ics-file-dialog-progress-message = Tuodaan…
 calendar-ics-file-import-success = Tuominen onnistui!
 calendar-ics-file-import-error = Tapahtui virhe ja tuonti epäonnistui.
+calendar-ics-file-import-complete = Tuonti valmis.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Yksi merkintä hylättiin, koska se löytyy jo kohdekalenterista.
+       *[other] { $duplicatesCount } merkintää hylättiin, koska ne löytyvät jo kohdekalenterista.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Yhden merkinnän tuonti epäonnistui. Katso lisätietoja virhekonsolista.
+       *[other] { $errorsCount } merkinnän tuonti epäonnistui. Katso lisätietoja virhekonsolista.
+    }
 calendar-ics-file-dialog-no-calendars = Kalentereita, jotka voivat tuoda tapahtumia tai tehtäviä, ei ole.
