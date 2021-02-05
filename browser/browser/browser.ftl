@@ -482,6 +482,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Թաքցնել Էջանիշերի Գործիքագոտին
            *[other] Դիտել էջանիշերի վահանակը
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Թաքցնել Էջանիշերի Գործիքագոտին
+           *[other] Դիտել էջանիշերի վահանակը
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
