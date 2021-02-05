@@ -236,6 +236,22 @@ cfr-doorhanger-milestone-heading =
         [few] více než <b>{ $blockedCount }</b> sledovací prvky
        *[other] více než <b>{ $blockedCount }</b> sledovacích prvků
     }.
+cfr-doorhanger-milestone-heading2 =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] Aplikace { -brand-short-name }
+    } od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name.gender ->
+        [masculine] zablokoval
+        [feminine] zablokovala
+        [neuter] zablokovalo
+       *[other] zablokovala
+    } { $blockedCount ->
+        [one] jeden sledovací prvek
+        [few] <b>{ $blockedCount }</b> sledovací prvky
+       *[other] <b>{ $blockedCount }</b> sledovacích prvků
+    }.
 cfr-doorhanger-milestone-ok-button = Zobrazit vše
     .accesskey = v
 cfr-doorhanger-milestone-close-button = Zavřít
@@ -323,6 +339,7 @@ cfr-whatsnew-supercookies-body = Některé servery tajně posílají vašemu pro
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Vylepšená funkce záložek
+cfr-whatsnew-bookmarking-body = Zpráva vašich oblíbených stránek je nyní jednodušší. { -brand-short-name } si pamatuje vámi preferované umístění pro ukládání nových záložek, ve výchozím nastavení zobrazuje lištu záložek při otevření nového panelu, která zároveň poskytuje snadný přístup k ostatním nesetříděným záložkám.
 
 ## What's new: Cross-site cookie tracking
 
