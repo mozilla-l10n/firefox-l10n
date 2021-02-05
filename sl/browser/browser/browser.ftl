@@ -543,6 +543,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Skrij orodno vrstico zaznamkov
            *[other] Prikaži orodno vrstico zaznamkov
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Skrij orodno vrstico zaznamkov
+           *[other] Prikaži orodno vrstico zaznamkov
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
