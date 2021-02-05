@@ -329,6 +329,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = বন্ধ কৰক
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -406,6 +409,9 @@ urlbar-result-action-visit = দৰ্শন কৰক
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -414,6 +420,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = অধিক পত্ৰচিহ্ন দেখুৱাওক
 bookmarks-sidebar-content =
     .aria-label = পত্ৰচিহ্নসমূহ
+bookmarks-bookmark-edit-panel =
+    .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
 bookmarks-toolbar-menu =
     .label = পত্ৰচিহ্ন টুলবাৰ
 bookmarks-toolbar-placeholder =
