@@ -19,5 +19,9 @@
 <!ENTITY browseWithCaretWarn.label "Advar meg før nettlesing med tekstmarkør skrus på">
 <!ENTITY browseWithCaretWarn.accesskey "d">
 
-<!ENTITY acceleratorKey.label "Hurtigknapp:">
+<!ENTITY modifiers.label "Valgtast">
+<!ENTITY acceleratorKey.label "Snarveistast:">
 <!ENTITY acceleratorKey.accesskey "H">
+<!ENTITY menuAccessKey.label "Meny-snarveistast:">
+<!ENTITY menuAccessKey.accesskey "M">
+<!ENTITY modifiersDesc.label "Merk: Verdien null slår av en valgtast.">
