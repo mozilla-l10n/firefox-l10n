@@ -206,6 +206,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = ປິດ
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -276,6 +279,9 @@ fullscreen-exit-mac-button = ອອກຈາກໂຫມດເຕັມຫນ້
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ໄດ້ຄວບຄຸມຄົວຊີ້ຂອງທ່ານ. ກົດ Esc ເພື່ອເອົາການຄວບຄຸມກັບຄືນມາ.
 pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບຄຸມຕົວຊີ້ຂອງທ່ານ. ກົດ Esc ເພື່ອເອົາການຄວບຄຸມກັບຄືນມາ.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -304,6 +310,12 @@ bookmarks-tools-toolbar-visibility =
             [true] ເຊື່ອງແຖບເຄື່ອງມືບຸກມາກ
            *[other] ເບິງແຖບເຄື່ອງມືບຸກມາກ
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] ເຊື່ອງແຖບເຄື່ອງມືບຸກມາກ
+           *[other] ເບິງແຖບເຄື່ອງມືບຸກມາກ
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -314,6 +326,8 @@ bookmarks-search =
     .label = ຊອກຫາບຸກມາກ
 bookmarks-tools =
     .label = ເຄື່ອງມືບຸກມາກ
+bookmarks-bookmark-edit-panel =
+    .label = ແກ້ໄຂບຸກມາກນີ້
 bookmarks-toolbar-menu =
     .label = ແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder =
