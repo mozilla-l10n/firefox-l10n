@@ -549,6 +549,8 @@ bookmarks-search =
     .label = 북마크 검색
 bookmarks-tools =
     .label = 북마크 도구
+bookmarks-bookmark-edit-panel =
+    .label = 이 북마크 편집
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
