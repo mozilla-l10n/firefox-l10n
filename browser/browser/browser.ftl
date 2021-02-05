@@ -170,6 +170,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Tswala
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -225,6 +228,9 @@ fullscreen-exit-button = Tswaya mo sekerini se se tletseng (Tswaya)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tswaya mo sekerini se se tletseng (tswaya)
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -233,6 +239,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Supa matshwaotsebe a le mantsi
 bookmarks-sidebar-content =
     .aria-label = Matshwaotsebe
+bookmarks-bookmark-edit-panel =
+    .label = Tseleganya letshwaotsebe le
 bookmarks-toolbar-menu =
     .label = Bara ya Didirisiwa Matshwaotsebe
 bookmarks-toolbar-placeholder =
