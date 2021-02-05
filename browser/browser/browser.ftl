@@ -337,6 +337,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = Затваряне
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -449,6 +452,9 @@ fullscreen-exit-mac-button = Излизане от цял екран (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> контролира показалеца на мишката ви. Натиснете Esc, за да си възвърнете контрола.
 pointerlock-warning-no-domain = Този документ контролира показалеца на мишката ви. Натиснете Esc, за да си възвърнете контрола.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -477,6 +483,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Скриване на страничната лента с отметки
            *[other] Показване на лентата с отметки
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Скриване на страничната лента с отметки
+           *[other] Показване на лентата с отметки
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -487,6 +499,8 @@ bookmarks-search =
     .label = Търсене в отметките
 bookmarks-tools =
     .label = Инструменти за отметки
+bookmarks-bookmark-edit-panel =
+    .label = Промяна на отметка
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
