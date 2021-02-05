@@ -481,6 +481,12 @@ bookmarks-tools-toolbar-visibility =
             [true] ఇష్టాంశాల పనిముట్లపట్టీని దాచు
            *[other] ఇష్టాంశాల పట్టీని చూడండి
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] ఇష్టాంశాల పనిముట్లపట్టీని దాచు
+           *[other] ఇష్టాంశాల పట్టీని చూడండి
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
