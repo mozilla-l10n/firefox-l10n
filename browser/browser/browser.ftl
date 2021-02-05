@@ -539,6 +539,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Ẩn thanh công cụ dấu trang
            *[other] Hiển thị thanh công cụ dấu trang
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Ẩn thanh công cụ dấu trang
+           *[other] Hiển thị thanh công cụ dấu trang
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
