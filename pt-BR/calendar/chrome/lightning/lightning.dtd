@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Abrir">
-<!ENTITY lightning.menupopup.open.accesskey           "A">
-<!ENTITY lightning.menupopup.open.message.label       "Mensagem salva…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "M">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Arquivo de agenda…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "A">
 
@@ -43,8 +37,8 @@
      lightning.calendarproperties.forceEmailScheduling.label)
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
-<!ENTITY lightning.calendarproperties.email.label                           "E-Mail:">
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Preferir o agendamento de e-mail do lado do cliente">
+<!ENTITY lightning.calendarproperties.email.label                           "Email:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Preferir o agendamento de email do lado do cliente">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
