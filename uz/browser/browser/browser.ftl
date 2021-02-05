@@ -466,6 +466,8 @@ bookmarks-search =
     .label = Xatcho‘plarni qidirish
 bookmarks-tools =
     .label = Xatcho‘p vositalari
+bookmarks-bookmark-edit-panel =
+    .label = Ushbu xatcho‘pni o‘zgartirish
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
