@@ -345,6 +345,12 @@ bookmarks-tools-toolbar-visibility =
             [true] पुस्तकचिनो उपकरणपट्टि लुकाउनुहोस्
            *[other] पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] पुस्तकचिनो उपकरणपट्टि लुकाउनुहोस्
+           *[other] पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
