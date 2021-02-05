@@ -218,6 +218,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Vala
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -287,6 +290,9 @@ fullscreen-exit-mac-button = Phuma KwiSkrini Esipheleleyo (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ilawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.
 pointerlock-warning-no-domain = Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -303,6 +309,8 @@ bookmarks-mobile-bookmarks-menu =
     .label = IZalathisi eZiphawulayo zeMobhayili
 bookmarks-search =
     .label = Khangela iiBhukhmakhi
+bookmarks-bookmark-edit-panel =
+    .label = Hlela Le Bhukhmakhi
 bookmarks-toolbar-menu =
     .label = Ithulbha yebhukhmakhi
 bookmarks-toolbar-placeholder =
