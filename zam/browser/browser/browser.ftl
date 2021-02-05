@@ -131,6 +131,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = TòɁw
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -181,6 +184,9 @@ fullscreen-exit-button = Mb-ròɁ lô (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -197,6 +203,8 @@ bookmarks-mobile-bookmarks-menu =
     .label = Ndó~làz=ná xó lent yib
 bookmarks-search =
     .label = KwàɁn ndó~làz=ná
+bookmarks-bookmark-edit-panel =
+    .label = Tùs kùe Ndó~làz=ná
 bookmarks-toolbar-menu =
     .label = Té tak güin ko ndó~làz=ná
 bookmarks-toolbar-placeholder =
