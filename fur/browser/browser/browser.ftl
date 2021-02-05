@@ -67,6 +67,10 @@ urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Gjestìs la condivision dal to microfon cul sît
 urlbar-default-notification-anchor =
     .tooltiptext = Vierç panel dai messaçs
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Vierç il panel des richiestis di posizion
+urlbar-xr-notification-anchor =
+    .tooltiptext = Vierç il panel dai permès pe realtât virtuâl
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
