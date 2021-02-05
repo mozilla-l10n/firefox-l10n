@@ -539,6 +539,12 @@ bookmarks-tools-toolbar-visibility =
             [true] 북마크 도구 모음 숨기기
            *[other] 북마크 도구 모음 표시
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] 북마크 도구 모음 숨기기
+           *[other] 북마크 도구 모음 표시
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
