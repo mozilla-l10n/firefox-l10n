@@ -391,6 +391,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Fela bókamerkjaslá
            *[other] Skoða bókamerkjaslá
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Fela bókamerkjaslá
+           *[other] Skoða bókamerkjaslá
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
