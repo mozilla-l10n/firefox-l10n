@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Skjul bogmærkelinjen
            *[other] Vis bogmærkelinjen
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Skjul bogmærkelinjen
+           *[other] Vis bogmærkelinjen
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -557,6 +563,8 @@ bookmarks-search =
     .label = Søg i bogmærker
 bookmarks-tools =
     .label = Bogmærke-værktøjer
+bookmarks-bookmark-edit-panel =
+    .label = Rediger bogmærke
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
