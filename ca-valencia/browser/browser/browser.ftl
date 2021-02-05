@@ -346,6 +346,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Tanca
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -504,6 +507,9 @@ fullscreen-exit-mac-button = Ix de la pantalla completa (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> té el control del punter. Premeu Esc per recuperar el control.
 pointerlock-warning-no-domain = Este document té el control del punter. Premeu Esc per recuperar el control.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -532,6 +538,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Amaga la barra d'eines d'adreces d'interés
            *[other] Mostra la barra de les adreces d'interés
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Amaga la barra d'eines d'adreces d'interés
+           *[other] Mostra la barra de les adreces d'interés
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -542,6 +554,8 @@ bookmarks-search =
     .label = Cerca adreces d'interés
 bookmarks-tools =
     .label = Eines d'adreces d'interés
+bookmarks-bookmark-edit-panel =
+    .label = Edita esta adreça d'interés
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
