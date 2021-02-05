@@ -112,6 +112,9 @@ identity-remove-cert-exception =
 ## Window controls
 
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -139,6 +142,9 @@ identity-remove-cert-exception =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-tools-sidebar-visibility =
@@ -148,6 +154,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] &Bârra de mârca pâges
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Recondre la barra d’otils de mârca pâges
+           *[other] &Bârra de mârca pâges
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Recondre la barra d’otils de mârca pâges
