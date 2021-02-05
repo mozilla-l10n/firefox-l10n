@@ -517,6 +517,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Бетбелгілер құралдар панелін жасыру
            *[other] Бетбелгілер панелін қарау
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Бетбелгілер құралдар панелін жасыру
+           *[other] Бетбелгілер панелін қарау
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
