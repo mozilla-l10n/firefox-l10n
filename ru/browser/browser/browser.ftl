@@ -551,6 +551,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Скрыть панель закладок
            *[other] Показать панель закладок
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Скрыть панель закладок
+           *[other] Показать панель закладок
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
