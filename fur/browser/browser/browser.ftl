@@ -210,21 +210,45 @@ page-action-pin-tab-panel =
 page-action-pin-tab-urlbar =
     .tooltiptext = Fisse la schede
 page-action-unpin-tab-panel =
-    .label = Disbloche la schede
+    .label = Mole la schede
 page-action-unpin-tab-urlbar =
-    .tooltiptext = Disbloche la schede
+    .tooltiptext = Mole la schede
 
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Plate la bande dai imprescj
+    .label = Plate la sbare dai struments
     .accesskey = P
 full-screen-exit =
-    .label = Jes de modalitât a dut il visôr
+    .label = Jes de modalitât a plen visôr
     .accesskey = J
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Cheste volte cîr cun:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Impostazions di ricercje
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Cambie impostazions di ricercje
+search-one-offs-context-open-new-tab =
+    .label = Cîr intune gnove schede
+    .accesskey = t
+search-one-offs-context-set-as-default =
+    .label = Met come motôr di ricercje predefinît
+    .accesskey = p
+search-one-offs-context-set-as-default-private =
+    .label = Met come motôr di ricercje predefinît pai barcons privâts
+    .accesskey = v
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -233,12 +257,47 @@ full-screen-exit =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Segnelibris ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Schedis ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Cronologjie ({ $restrict })
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Mostre editôr cuant che si salve
+    .accesskey = S
+bookmark-panel-done-button =
+    .label = Fat
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
+identity-connection-not-secure = Conession no sigure
+identity-connection-secure = Conession sigure
+identity-connection-internal = Cheste e je une pagjine di { -brand-short-name } sigure.
+identity-connection-file = Cheste pagjine e je archiviade sul to computer.
+identity-extension-page = Cheste pagjine e je cjariade di une estension.
+identity-active-blocked = { -brand-short-name } al à blocât parts di cheste pagjine che no son siguris.
+identity-custom-root = Conession verificade di un emitent di certificâts che nol è ricognossût de bande di Mozilla.
+identity-passive-loaded = Parts di cheste pagjine no son siguris (come lis imagjins).
+identity-active-loaded = Tu âs disabilitât la protezion su cheste pagjine.
+identity-weak-encryption = Cheste pagjine e dopre une cifradure debile.
+identity-insecure-login-forms = Lis credenziâls inseridis in cheste pagjine a podaressin jessi comprometudis.
+identity-https-only-connection-upgraded = (inzornât a HTTPS)
+identity-https-only-label = Modalitât Dome-HTTPS
+identity-https-only-dropdown-on =
+    .label = Ative
+identity-https-only-dropdown-off =
+    .label = Disativade
+identity-https-only-dropdown-off-temporarily =
+    .label = Disativade in mût temporani
 
 ## Window controls
 
