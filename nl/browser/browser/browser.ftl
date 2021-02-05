@@ -565,6 +565,8 @@ bookmarks-search =
     .label = Bladwijzers doorzoeken
 bookmarks-tools =
     .label = Bladwijzerhulpmiddelen
+bookmarks-bookmark-edit-panel =
+    .label = Deze bladwijzer bewerken
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
