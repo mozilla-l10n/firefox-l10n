@@ -337,6 +337,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Sulge
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -416,6 +419,9 @@ fullscreen-exit-mac-button = Välju täisekraanirežiimist (esc)
 pointerlock-warning-domain = Sait <span data-l10n-name="domain">{ $domain }</span> kontrollib sinu kursori tegevust. Kontrolli tagasivõtmiseks vajuta klahvile Esc.
 pointerlock-warning-no-domain = See dokument kontrollib sinu kursori tegevust. Kontrolli tagasivõtmiseks vajuta klahvile Esc.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -444,6 +450,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Peida järjehoidjariba
            *[other] Kuva järjehoidjariba
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Peida järjehoidjariba
+           *[other] Kuva järjehoidjariba
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -454,6 +466,8 @@ bookmarks-search =
     .label = Otsi järjehoidjatest
 bookmarks-tools =
     .label = Järjehoidjate tööriistad
+bookmarks-bookmark-edit-panel =
+    .label = Muuda seda järjehoidjat
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
