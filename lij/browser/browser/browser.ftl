@@ -416,6 +416,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Ascondi bara di segnalibbri
            *[other] Fanni vedde a bara di segnalibbri
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Ascondi bara di segnalibbri
+           *[other] Fanni vedde a bara di segnalibbri
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
