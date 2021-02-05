@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Tady pozor
@@ -15,8 +16,6 @@ about-config-intro-warning-text =
 about-config-intro-warning-checkbox = Varovat při otevření této pokročilé konfigurace
 about-config-intro-warning-button = Beru na vědomí a chci pokračovat
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
@@ -27,13 +26,11 @@ about-config-caution-text =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }.
-
 about-config-page-title = Pokročilá konfigurace
-
 about-config-search-input1 =
     .placeholder = Hledat podle názvu předvolby
 about-config-show-all = Zobrazit vše
-
+about-config-show-only-modified = Zobrazit pouze změněné předvolby
 about-config-pref-add-button =
     .title = Přidat
 about-config-pref-toggle-button =

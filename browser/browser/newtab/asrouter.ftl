@@ -224,7 +224,7 @@ cfr-doorhanger-cryptominers-description = Na vašem soukromí záleží. { -bran
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     Od { $date } { -brand-short-name.gender ->
         [masculine] { -brand-short-name } zablokoval
@@ -322,3 +322,8 @@ cfr-whatsnew-supercookies-body = Některé servery tajně posílají vašemu pro
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Vylepšená funkce záložek
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Důkladná ochrana proti sledování pomocí cookies třetích stran

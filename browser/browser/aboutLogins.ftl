@@ -298,9 +298,17 @@ about-logins-import-file-picker-csv-filter-title =
 
 about-logins-import-dialog-title = Import byl dokončen
 about-logins-import-dialog-done = Hotovo
+about-logins-import-dialog-error-title = Chyba při importu
+about-logins-import-dialog-error-conflicting-values-title = Více konfliktních hodnot pro jedno přihlášení
+about-logins-import-dialog-error-conflicting-values-description = Například: více uživatelských jmen, hesel, adres atd. pro jedno přihlášení.
 about-logins-import-dialog-error-file-format-title = Problém s formátem souboru
 about-logins-import-dialog-error-file-permission-title = Soubor nelze načíst
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nemá oprávnění číst soubor. Zkuste změnit oprávnění souboru.
+about-logins-import-dialog-error-unable-to-read-title = Soubor nelze načíst
+about-logins-import-dialog-error-unable-to-read-description = Ujistěte se, že jste vybrali soubor typu CSV nebo TSV.
+about-logins-import-dialog-error-no-logins-imported = Nebyly naimportovány žádné přihlašovací údaje
 about-logins-import-dialog-error-learn-more = Zjistit více
+about-logins-import-dialog-error-try-again = Zkusit znovu
 about-logins-import-dialog-error-cancel = Zrušit
 
 ## Logins import report page

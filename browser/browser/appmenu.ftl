@@ -23,6 +23,8 @@ appmenuitem-new-window =
     .label = Nové okno
 appmenuitem-new-private-window =
     .label = Nové anonymní okno
+appmenuitem-passwords =
+    .label = Přihlašovací údaje
 appmenuitem-extensions-and-themes =
     .label = Rozšíření a vzhledy
 appmenuitem-find-in-page =
@@ -68,6 +70,8 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-learn-more = Zjistit více
 profiler-popup-settings =
     .value = Nastavení
+profiler-popup-capture-button =
+    .label = Nahrávat
 
 ## Help panel
 
