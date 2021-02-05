@@ -346,6 +346,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Sulje
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -530,6 +533,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] Näytä kirjanmerkkien sivupaneeli
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Piilota kirjanmerkkipalkki
+           *[other] Näytä kirjanmerkkipalkki
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Piilota kirjanmerkkipalkki
