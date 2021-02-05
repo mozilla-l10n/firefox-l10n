@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = 주의해서 진행하세요
@@ -13,13 +14,11 @@ about-config-intro-warning-button = 위험을 감수하고 계속 진행
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = 다음 설정을 변경하면 { -brand-short-name }의 성능 또는 보안에 영향을 줄 수 있습니다.
-
 about-config-page-title = 고급 설정
-
 about-config-search-input1 =
     .placeholder = 설정 이름 검색
 about-config-show-all = 모두 보기
-
+about-config-show-only-modified = 수정된 설정만 표시
 about-config-pref-add-button =
     .title = 추가
 about-config-pref-toggle-button =
