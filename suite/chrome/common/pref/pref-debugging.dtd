@@ -9,5 +9,6 @@
 <!-- Render Debugging -->
 
 <!-- Event Debugging -->
+<!ENTITY debugEvents.label "Συμβάντα">
 
 <!-- Reflow Event Debugging -->
