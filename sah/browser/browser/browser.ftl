@@ -123,6 +123,9 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Кыччат
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -164,6 +167,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -172,6 +178,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Өссө бэлиэлэр
 bookmarks-sidebar-content =
     .aria-label = Бэлиэлэр
+bookmarks-bookmark-edit-panel =
+    .label = Бэлиэни уларытыы
 bookmarks-toolbar-menu =
     .label = Бэлиэтиир үстүрүмүөн
 bookmarks-toolbar-placeholder =
