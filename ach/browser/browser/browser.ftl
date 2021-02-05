@@ -430,6 +430,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Kan gitic me alamabuk
            *[other] Nen gintic alama buk
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Kan gitic me alamabuk
+           *[other] Nen gintic alama buk
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
