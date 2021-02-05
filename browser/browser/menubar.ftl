@@ -293,6 +293,15 @@ menu-window-bring-all-to-front =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-get-help
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
 menu-help =
     .label = Yardım
     .accesskey = Y
@@ -311,6 +320,8 @@ menu-help-keyboard-shortcuts =
 menu-help-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
+menu-help-taskmanager =
+    .label = Görev yöneticisi
 menu-help-feedback-page =
     .label = Geri bildirim gönder…
     .accesskey = G
