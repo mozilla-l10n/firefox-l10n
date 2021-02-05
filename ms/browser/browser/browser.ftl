@@ -267,6 +267,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Tutup
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -340,6 +343,9 @@ fullscreen-exit-mac-button = Keluar dari Skrin Penuh (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.
 pointerlock-warning-no-domain = Dokumen ini mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -368,6 +374,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Sorok Bar alat Tandabuku
            *[other] Papar Bar alat Tandabuku
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Sorok Bar alat Tandabuku
+           *[other] Papar Bar alat Tandabuku
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -378,6 +390,8 @@ bookmarks-search =
     .label = Cari Tandabuku
 bookmarks-tools =
     .label = Alatan Tandabuku
+bookmarks-bookmark-edit-panel =
+    .label = Edit Tandabuku Ini
 bookmarks-toolbar-menu =
     .label = Bar alatan Tandabuku
 bookmarks-toolbar-placeholder =
