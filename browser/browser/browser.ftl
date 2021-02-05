@@ -545,6 +545,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Agochar a barra dos marcadores
            *[other] Ver a barra de marcadores
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Agochar a barra dos marcadores
+           *[other] Ver a barra de marcadores
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
