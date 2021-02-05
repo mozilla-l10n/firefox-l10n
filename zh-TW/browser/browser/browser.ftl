@@ -517,6 +517,10 @@ bookmarks-show-all-bookmarks =
     .label = 顯示所有書籤
 bookmarks-recent-bookmarks =
     .value = 最近加入的書籤
+bookmarks-manage-bookmarks =
+    .label = 管理書籤
+bookmarks-recent-bookmarks-panel =
+    .value = 最近加入的書籤
 bookmarks-toolbar-chevron =
     .tooltiptext = 顯示更多書籤
 bookmarks-sidebar-content =
@@ -545,6 +549,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] 隱藏書籤工具列
            *[other] 檢視書籤工具列
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] 隱藏書籤工具列
+           *[other] 顯示書籤工具列
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -570,6 +580,9 @@ bookmarks-toolbar-placeholder =
     .title = 書籤工具列項目
 bookmarks-toolbar-placeholder-button =
     .label = 書籤工具列項目
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = 將目前分頁加入書籤
 
 ## Library Panel items
 
