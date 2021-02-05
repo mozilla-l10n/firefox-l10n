@@ -542,6 +542,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Kuzhat barrenn ostilhoù ar sinedoù
            *[other] Gwelout barrenn ostilhoù ar sinedoù
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Kuzhat barrenn ostilhoù ar sinedoù
+           *[other] Gwelout barrenn ostilhoù ar sinedoù
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
