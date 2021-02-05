@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Skjul bokmerkeverktøylinje
            *[other] Vis bokmerkeverktøylinje
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Skjul bokmerkeverktøylinje
+           *[other] Vis bokmerkeverktøylinje
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
