@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-calendar-ics-file-window =
-    .title = Importar eveniments dal chalender
-calendar-ics-file-dialog =
-    .buttonlabelaccept = Importar
 calendar-ics-file-window-2 =
     .title = Importar eveniments ed incumbensas da chalender
 calendar-ics-file-dialog-import-event-button-label = Importar in eveniment
@@ -13,10 +9,23 @@ calendar-ics-file-dialog-import-task-button-label = Importar ina incumbensa
 calendar-ics-file-dialog-2 =
     .buttonlabelaccept = Importar tut
 calendar-ics-file-accept-button-ok-label = OK
-# $fileName (string) - The name of the file.
-calendar-ics-file-dialog-message = Vuls ti importar la datoteca «{ $fileName }»?
+calendar-ics-file-cancel-button-close-label = Serrar
 calendar-ics-file-dialog-message-2 = Importar da la datoteca:
 calendar-ics-file-dialog-calendar-menu-label = Importar en il chalender:
+calendar-ics-file-dialog-items-loading-message =
+    .value = Chargiar ils elements…
+calendar-ics-file-dialog-progress-message = Importar…
 calendar-ics-file-import-success = Importà cun success!
 calendar-ics-file-import-error = Ina errur è capitada e l'import n'è betg reussì.
+calendar-ics-file-import-complete = L'import è cumplet.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Ignorà in element perquai ch'el exista gia en il chalender da destinaziun.
+       *[other] Ignorà { $duplicatesCount } elements perquai ch'els existan gia en il chalender da destinaziun.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] I n'è betg reussì dad importar in element. Consultescha la consola d'errurs per detagls.
+       *[other] I n'è betg reussì dad importar { $errorsCount } elements. Consultescha la consola d'errurs per detagls.
+    }
 calendar-ics-file-dialog-no-calendars = I na dat nagins chalenders che pon importar eveniments u incumbensas.
