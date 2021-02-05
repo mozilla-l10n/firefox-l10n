@@ -18,3 +18,6 @@
 <!ENTITY browseWithCaretShortCut.accesskey "B">
 <!ENTITY browseWithCaretWarn.label "Advar meg før nettlesing med tekstmarkør skrus på">
 <!ENTITY browseWithCaretWarn.accesskey "d">
+
+<!ENTITY acceleratorKey.label "Hurtigknapp:">
+<!ENTITY acceleratorKey.accesskey "H">

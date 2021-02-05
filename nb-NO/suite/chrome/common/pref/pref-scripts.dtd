@@ -21,8 +21,12 @@
 <!ENTITY allowHideStatusBar.label        "Skjul statuslinjen">
 
 <!ENTITY debugging.label                  "JavaScript-feilsøking">
+<!ENTITY debugEnableDump.label            "Slå på JavaScript dump()-utdata">
+<!ENTITY debugEnableDump.accesskey        "S">
 <!ENTITY debugStrictJavascript.label      "Vis strenge JavaScript-advarsler">
 <!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "Vis chrome JavaScript-feil og -advarsler">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Tillat programtillegg for">
 <!ENTITY enablePluginForSuite.label      "Suite">
