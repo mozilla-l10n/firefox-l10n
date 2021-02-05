@@ -143,6 +143,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Serra
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -187,6 +190,9 @@ fullscreen-exit-button = Essi dae sa mannària prena (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Essi dae sa mannària prena (esc)
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -201,6 +207,8 @@ bookmarks-other-bookmarks-menu =
     .label = Àteros signa-libros
 bookmarks-mobile-bookmarks-menu =
     .label = Signa-libros mòbiles
+bookmarks-bookmark-edit-panel =
+    .label = Modìfica custu signa-libru
 bookmarks-toolbar-menu =
     .label = Barra de signa-libros
 bookmarks-toolbar-placeholder =
