@@ -31,4 +31,7 @@
 <!ENTITY enablePrefetch.accesskey        "d">
 
 <!ENTITY debugCache.label                "Feilsøking">
-<!ENTITY debugEnableMemCache.label       "Aktiver minnehurtigbuffer">
+<!ENTITY debugEnableMemCache.label       "Aktiver minnehurtiglager">
+<!ENTITY debugEnableMemCache.accesskey   "A">
+<!ENTITY debugEnableDiskCache.label      "Aktiver diskhurtiglager">
+<!ENTITY debugEnableDiskCache.accesskey  "d">
