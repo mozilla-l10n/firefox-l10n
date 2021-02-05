@@ -315,3 +315,4 @@ about-logins-import-dialog-error-cancel = Annuller
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Oversigt over import

@@ -206,10 +206,14 @@ cfr-doorhanger-cryptominers-description = Du har ret til et privatliv. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
-       *[other] { -brand-short-name } blokerede flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
+       *[other] { -brand-short-name } har blokeret flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } har blokeret flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = V
@@ -293,3 +297,6 @@ cfr-whatsnew-supercookies-body = Websteder kan i hemmelighed føje en "super-coo
 
 cfr-whatsnew-bookmarking-header = Bedre bogmærker
 cfr-whatsnew-bookmarking-body = Det er blevet nemmere at holde styr på dine yndings-websteder. { -brand-short-name } husker nu din foretrukne placering for gemte bogmærker, viser som standard bogmærkelinjen på nye faneblade og giver dig nem adgang til resten af dine bogmærker med en bogmærkemappe.
+
+## What's new: Cross-site cookie tracking
+
