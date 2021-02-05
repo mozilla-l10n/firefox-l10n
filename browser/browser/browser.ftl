@@ -561,6 +561,8 @@ bookmarks-search =
     .label = Zapołožki pytać
 bookmarks-tools =
     .label = Nastroje za zapołožki
+bookmarks-bookmark-edit-panel =
+    .label = Tutu zapołožku wobdźěłać
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
