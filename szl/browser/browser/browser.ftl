@@ -549,6 +549,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Skryj posek ze zokłodkami
            *[other] Pokoż posek ze zokłodkami
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Skryj posek ze zokłodkami
+           *[other] Pokoż posek ze zokłodkami
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -559,6 +565,8 @@ bookmarks-search =
     .label = Szukej we zokłodkach
 bookmarks-tools =
     .label = Noczynia przidowanio do zokłodek
+bookmarks-bookmark-edit-panel =
+    .label = Edytuj ta zokłodka
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
