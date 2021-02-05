@@ -299,6 +299,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Særa
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -382,6 +385,9 @@ fullscreen-exit-mac-button = Sciòrti da sa tutto schermo (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> o l'à o contròllo do teu pontatô. Sciacca ESC pe pigiâ torna o controllo.
 pointerlock-warning-no-domain = Sto documento o l'à o contròllo do teu pontatô. Sciacca ESC pe pigiâ torna o controllo.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -420,6 +426,8 @@ bookmarks-search =
     .label = Çerca segnalibbri
 bookmarks-tools =
     .label = Atressi di segnalibbri
+bookmarks-bookmark-edit-panel =
+    .label = Cangia segnalibbro
 bookmarks-toolbar-menu =
     .label = Bara di segnalibbri
 bookmarks-toolbar-placeholder =
