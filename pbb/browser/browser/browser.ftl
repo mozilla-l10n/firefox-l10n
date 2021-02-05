@@ -174,6 +174,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Apnah
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -230,6 +233,9 @@ fullscreen-exit-button = Kasehn txãa jxuka thegnxisate (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kasehn txãa jxuka thegnxisate (Esc)
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -238,6 +244,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Txi'pupnxitxi wejx thegna
 bookmarks-sidebar-content =
     .aria-label = Ki'phwa'ja's
+bookmarks-bookmark-edit-panel =
+    .label = Ki'phni kase'k
 bookmarks-toolbar-menu =
     .label = Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa
 bookmarks-toolbar-placeholder =
