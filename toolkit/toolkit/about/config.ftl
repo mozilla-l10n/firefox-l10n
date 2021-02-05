@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Pokročujće z kedźbliwosću
@@ -9,19 +10,15 @@ about-config-intro-warning-text = Hdyž nastajenja rozšěrjeneje konfiguracije 
 about-config-intro-warning-checkbox = Warnować, hdyž pospytuju, přistup na tute nastajenja dóstać
 about-config-intro-warning-button = Riziko akceptować a pokročować
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Hdyž tute nastajenja změniće, móže to wukon abo wěstotu { -brand-short-name } wobwliwować.
-
 about-config-page-title = Rozšěrjene nastajenja
-
 about-config-search-input1 =
     .placeholder = Mjeno nastajenja pytać
 about-config-show-all = Wšě pokazać
-
+about-config-show-only-modified = Jenož změnjene nastajenja pokazać
 about-config-pref-add-button =
     .title = Přidać
 about-config-pref-toggle-button =
