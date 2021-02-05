@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Sken akk ticraḍ n yisebtar
 bookmarks-recent-bookmarks =
     .value = Wid ittwacerḍen melmi kan
+bookmarks-manage-bookmarks =
+    .label = Sefrek ticraḍ n yisebtar
+bookmarks-recent-bookmarks-panel =
+    .value = Ticraḍ n yisebtar n melmi kan
 bookmarks-toolbar-chevron =
     .tooltiptext = Sken ugar n tecraḍ n yisebtar
 bookmarks-sidebar-content =
@@ -553,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Ffer afeggag n tecraḍ n yisebtar
            *[other] Sken afeggag n tecraḍ n yisebtar
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Ffer afeggag n yifecka n tecraḍ n yisebtar
+           *[other] Sken afeggag n yifecka n tecraḍ n yisebtar
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -578,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Iferdisen n ufeggag n tecraḍ n yisebtar
 bookmarks-toolbar-placeholder-button =
     .label = Iferdisen n ufeggag n tecraḍ n yisebtar
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Iccer amiran n tecreḍt n usebter
 
 ## Library Panel items
 
