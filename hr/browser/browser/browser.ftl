@@ -549,6 +549,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Sakrij alatnu traku zabilješki
            *[other] Prikaži traku zabilješki
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Sakrij alatnu traku zabilješki
+           *[other] Prikaži traku zabilješki
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
