@@ -43,6 +43,11 @@ whatsnew-panel-footer-checkbox =
     .label = ئاگادارم بکەرەوە لە تایبەتمەندی نوێ
     .accesskey = ت
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
 ## Help panel
 
 appmenu-about =
@@ -63,6 +68,8 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = زانیاری گەڕان بۆ کێشەکان
     .accesskey = ز
+appmenu-help-taskmanager =
+    .label = بەڕێوەبردنی تاسک (ئەرک)
 appmenu-help-feedback-page =
     .label = ڕەخنەوپێشنیار بنێرە...
     .accesskey = ڕ
