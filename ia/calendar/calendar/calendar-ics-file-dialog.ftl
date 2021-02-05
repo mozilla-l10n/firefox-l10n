@@ -18,4 +18,14 @@ calendar-ics-file-dialog-progress-message = Importation…
 calendar-ics-file-import-success = Importate con successo
 calendar-ics-file-import-error = Un error occurreva e le importation falleva.
 calendar-ics-file-import-complete = Importation complete.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Un elemento ha essite ignorate pois que illo jam existe in le agenda de destination.
+       *[other] { $duplicatesCount } elementos ha essite ignorate pois que illes jam existe in le agenda de destination.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Impossibile importar un elemento. Controla le consola de error pro detalios.
+       *[other] Impossibile importar { $errorsCount } elementos. Controla le consola de error pro detalios.
+    }
 calendar-ics-file-dialog-no-calendars = Il non ha alcun agenda susceptibile de importar eventos o activitates.
