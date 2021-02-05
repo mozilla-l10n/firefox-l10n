@@ -527,6 +527,10 @@ bookmarks-show-all-bookmarks =
     .label = Alle bladwijzers tonen
 bookmarks-recent-bookmarks =
     .value = Recent aangemaakte bladwijzers
+bookmarks-manage-bookmarks =
+    .label = Bladwijzers beheren
+bookmarks-recent-bookmarks-panel =
+    .value = Recente bladwijzers
 bookmarks-toolbar-chevron =
     .tooltiptext = Meer bladwijzers tonen
 bookmarks-sidebar-content =
@@ -554,6 +558,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
         { $isVisible ->
             [true] Bladwijzerwerkbalk verbergen
            *[other] Bladwijzerwerkbalk weergeven
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Bladwijzerwerkbalk verbergen
+           *[other] Bladwijzerwerkbalk tonen
         }
 bookmarks-tools-menu-button-visibility =
     .label =
