@@ -96,6 +96,9 @@ full-screen-autohide =
 browser-window-minimize-button =
     .tooltiptext = Minimize
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -127,6 +130,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -137,6 +143,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Show more bookmarks
 bookmarks-sidebar-content =
     .aria-label = Pannanda
+bookmarks-bookmark-edit-panel =
+    .label = Baliwan Daytoy a Pannanda
 bookmarks-toolbar-menu =
     .label = Barras ti Pannanda
 bookmarks-toolbar-placeholder =
