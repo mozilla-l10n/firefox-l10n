@@ -342,6 +342,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Kasɨ
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -537,6 +540,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Chiyu'u barra a ta´a ini noo´o
            *[other] Kune'ya barra a ta´a ini noo´o
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Chiyu'u barra a ta´a ini noo´o
+           *[other] Kune'ya barra a ta´a ini noo´o
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -547,6 +556,8 @@ bookmarks-search =
     .label = Nánuku a ta´a ini noo´o
 bookmarks-tools =
     .label = Da ka̱a̱ ta'a ini noo'o
+bookmarks-bookmark-edit-panel =
+    .label = Sama a ta´an ini noo´o ya´a
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
