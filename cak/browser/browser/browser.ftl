@@ -346,6 +346,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Titz'apïx
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -545,6 +548,8 @@ bookmarks-search =
     .label = Kekanöx Yaketal
 bookmarks-tools =
     .label = Taq kisamajib'al ri yakoj etal
+bookmarks-bookmark-edit-panel =
+    .label = Tinuk' re yaketal re'
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
