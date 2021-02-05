@@ -563,6 +563,8 @@ bookmarks-search =
     .label = Yer imlerinde ara
 bookmarks-tools =
     .label = Yer imi araçları
+bookmarks-bookmark-edit-panel =
+    .label = Bu yer imini düzenle
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
