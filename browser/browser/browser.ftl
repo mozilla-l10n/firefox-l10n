@@ -330,6 +330,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zarrar
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -460,6 +463,9 @@ fullscreen-exit-mac-button = Salir d'a pantalla completa (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tien lo control d'o puntero. Prete Esc pa recuperar-ne lo control
 pointerlock-warning-no-domain = Iste documento tien lo control d'o puntero. Prete Esc pa recuperar-ne lo control.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -498,6 +504,8 @@ bookmarks-search =
     .label = Trobar marcapachinas
 bookmarks-tools =
     .label = Ferramientas d'os marcapachinas
+bookmarks-bookmark-edit-panel =
+    .label = Editar iste marcapachinas
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
