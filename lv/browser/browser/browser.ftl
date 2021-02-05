@@ -277,6 +277,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Aizvērt
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -350,6 +353,9 @@ fullscreen-exit-mac-button = Iziet no pilnā ekrāna (esc)
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolē kursoru. Nospiediet taustiņu Esc, lai atgūtu kontroli.
 pointerlock-warning-no-domain = Šis dokuments kontrolē kursoru. Nospiediet taustiņu Esc, lai atgūtu kontroli.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -388,6 +394,8 @@ bookmarks-search =
     .label = Meklēt grāmatzīmes
 bookmarks-tools =
     .label = Grāmatzīmju rīki
+bookmarks-bookmark-edit-panel =
+    .label = Rediģēt šo grāmatzīmi
 bookmarks-toolbar-menu =
     .label = Grāmatzīmju rīkjosla
 bookmarks-toolbar-placeholder =
