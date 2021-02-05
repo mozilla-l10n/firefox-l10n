@@ -180,6 +180,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बन्न करू
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -240,6 +243,9 @@ fullscreen-exit-mac-button = पूर्ण पटल स बाहर आउ (
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> अपन सूचक पर नियंत्रण अछि. नियंत्रण फिनु सँ वापस आनै कलेल Esc बटन दाबू.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -248,6 +254,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = बेसी पुस्तकचिह्न देखाउ
 bookmarks-sidebar-content =
     .aria-label = पुस्तकचिह्न
+bookmarks-bookmark-edit-panel =
+    .label = ई पुस्तकचिह्न संपादित करू
 bookmarks-toolbar-menu =
     .label = पुस्तकचिह्नित अओजारपट्टी
 bookmarks-toolbar-placeholder =
