@@ -338,6 +338,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = ปิด
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -522,6 +525,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] ดูแถบข้างที่คั่นหน้า
         }
 bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] ซ่อนแถบเครื่องมือที่คั่นหน้า
+           *[other] ดูแถบเครื่องมือที่คั่นหน้า
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] ซ่อนแถบเครื่องมือที่คั่นหน้า
