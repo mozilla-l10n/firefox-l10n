@@ -269,6 +269,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = ཁ་རྒྱག
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -342,6 +345,9 @@ fullscreen-exit-mac-button = འཆར་ངོས་ཡོངས་ནས་ཕ
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> has control of your pointer. Press Esc to take back control.
 pointerlock-warning-no-domain = This document has control of your pointer. Press Esc to take back control.
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -370,6 +376,12 @@ bookmarks-tools-toolbar-visibility =
             [true] ཡིག་རྟགས་ལག་ཆའི་ངོས་སྐུང་པ
            *[other] ཡིག་རྟགས་ལག་ཆའི་ངོས་ལྟ་བ
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] ཡིག་རྟགས་ལག་ཆའི་ངོས་སྐུང་པ
+           *[other] ཡིག་རྟགས་ལག་ཆའི་ངོས་ལྟ་བ
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -380,6 +392,8 @@ bookmarks-search =
     .label = ཡིག་རྟགས་འཚོལ་བ
 bookmarks-tools =
     .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ
+bookmarks-bookmark-edit-panel =
+    .label = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
 bookmarks-toolbar-menu =
     .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ་ངོས
 bookmarks-toolbar-placeholder =
