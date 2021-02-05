@@ -117,6 +117,9 @@ bookmark-panel-done-button =
 browser-window-minimize-button =
     .tooltiptext = Wàññi
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -148,6 +151,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -156,6 +162,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Wone mandarga xët yu gën bari
 bookmarks-sidebar-content =
     .aria-label = Mandarga xët yi
+bookmarks-bookmark-edit-panel =
+    .label = Soppali mandarga xët wile
 bookmarks-toolbar-menu =
     .label = Sa banqaasu bopp
 bookmarks-toolbar-placeholder =
