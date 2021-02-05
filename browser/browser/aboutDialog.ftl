@@ -43,6 +43,13 @@ update-unsupported = Na tomto systému nelze provádět další aktualizace. <la
 update-restarting = Restartování…
 channel-description = Používáte aktualizační kanál <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } je experimentální verze a může být nestabilní.
+aboutdialog-help-user =
+    Nápověda { -brand-shorter-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    }
 aboutdialog-submit-feedback = Odeslat zpětnou vazbu
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">celosvětová komunita</label> snažící se o zachování veřejně dostupného, otevřeného a všem přístupného webu.
 community-2 =
