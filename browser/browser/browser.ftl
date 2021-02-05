@@ -310,6 +310,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = বন্ধ
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -398,6 +401,9 @@ fullscreen-exit-mac-button = পূর্ণ পর্দা বন্ধ কর
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> আপনার পয়েন্টারের নিয়ন্ত্রণ রয়েছে। পুনরায় নিয়ন্ত্রণ নিতে Esc চাপুন।
 pointerlock-warning-no-domain = এই নথিতে পয়েন্টারের নিয়ন্ত্রণ রয়েছে। পুনরায় নিয়ন্ত্রণ নিতে Esc চাপুন।
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -436,6 +442,8 @@ bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান
 bookmarks-tools =
     .label = বুকমার্ক টুলসমূহ
+bookmarks-bookmark-edit-panel =
+    .label = বুকমার্ক সম্পাদনা
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
