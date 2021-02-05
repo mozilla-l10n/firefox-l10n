@@ -523,6 +523,10 @@ bookmarks-show-all-bookmarks =
     .label = הצגת כל הסימניות
 bookmarks-recent-bookmarks =
     .value = סימניות שנוספו לאחרונה
+bookmarks-manage-bookmarks =
+    .label = ניהול סימניות
+bookmarks-recent-bookmarks-panel =
+    .value = סימניות אחרונות
 bookmarks-toolbar-chevron =
     .tooltiptext = הצגת סימניות נוספות
 bookmarks-sidebar-content =
@@ -546,6 +550,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] הצגת סרגל הכלים סימניות
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] הסתרת סרגל הכלים סימניות
+           *[other] הצגת סרגל הכלים סימניות
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] הסתרת סרגל הכלים סימניות
@@ -576,6 +586,9 @@ bookmarks-toolbar-placeholder =
     .title = פריטי סרגל כלים סימניות
 bookmarks-toolbar-placeholder-button =
     .label = פריטי סרגל כלים סימניות
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = יצירת סימנייה ללשונית הנוכחית
 
 ## Library Panel items
 
