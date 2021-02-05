@@ -547,6 +547,12 @@ bookmarks-tools-toolbar-visibility =
             [true] სანიშნების ხელსაწყოთა ზოლის დამალვა
            *[other] სანიშნების ხელსაწყოთა ზოლის ჩვენება
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] სანიშნების ხელსაწყოთა ზოლის დამალვა
+           *[other] სანიშნების ხელსაწყოთა ზოლის ჩვენება
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -557,6 +563,8 @@ bookmarks-search =
     .label = სანიშნების ძიება
 bookmarks-tools =
     .label = სანიშნების ხელსაწყოები
+bookmarks-bookmark-edit-panel =
+    .label = სანიშნის ჩასწორება
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
