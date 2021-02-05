@@ -369,6 +369,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zavřít
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -558,6 +561,12 @@ bookmarks-tools-toolbar-visibility =
             [true] Skrýt lištu záložek
            *[other] Zobrazit lištu záložek
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Skrýt lištu záložek
+           *[other] Zobrazit lištu záložek
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -568,6 +577,8 @@ bookmarks-search =
     .label = Hledat v záložkách
 bookmarks-tools =
     .label = Nástroje pro práci se záložkami
+bookmarks-bookmark-edit-panel =
+    .label = Upravit záložku
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
