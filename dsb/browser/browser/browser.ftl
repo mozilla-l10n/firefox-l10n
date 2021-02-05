@@ -529,6 +529,10 @@ bookmarks-show-all-bookmarks =
     .label = Wše cytańske znamjenja pokazaś
 bookmarks-recent-bookmarks =
     .value = Tuchylu ako cytańske znamje składowane
+bookmarks-manage-bookmarks =
+    .label = Cytańske znamjenja zastojaś
+bookmarks-recent-bookmarks-panel =
+    .value = Nejnowše cytańske znamjenja
 bookmarks-toolbar-chevron =
     .tooltiptext = Dalšne cytańske znamjenja pokazaś
 bookmarks-sidebar-content =
@@ -557,6 +561,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Rědku cytańskich znamjenjow schowaś
            *[other] Rědku cytańskich znamjenjow pokazaś
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Rědku cytańskich znamjenjow pokazaś
+           *[other] Rědku cytańskich znamjenjow schowaś
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -582,6 +592,9 @@ bookmarks-toolbar-placeholder =
     .title = Zapiski rědki cytańskich znamjenjow
 bookmarks-toolbar-placeholder-button =
     .label = Zapiski rědki cytańskich znamjenjow
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Aktualny rejtarik ako cytańske znamje składowaś
 
 ## Library Panel items
 
