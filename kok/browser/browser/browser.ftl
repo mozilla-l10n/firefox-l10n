@@ -132,6 +132,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बंद
 
+## Tab actions
+
+
 ## Bookmarks toolbar items
 
 
@@ -174,6 +177,9 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
+## Subframe crash notification
+
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
@@ -182,6 +188,8 @@ bookmarks-toolbar-chevron =
     .tooltiptext = अदीक बूकमार्क दाखोवचे
 bookmarks-sidebar-content =
     .aria-label = बुकमार्क
+bookmarks-bookmark-edit-panel =
+    .label = हो बूकमार्क संपादीत करचो
 bookmarks-toolbar-menu =
     .label = पुस्तकखूण साधनपट्टी
 bookmarks-toolbar-placeholder =
