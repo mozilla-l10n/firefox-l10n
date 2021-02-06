@@ -317,3 +317,7 @@ about-logins-import-dialog-error-no-logins-imported = No s'ha importat cap inici
 about-logins-import-dialog-error-learn-more = Més informació
 about-logins-import-dialog-error-try-again = Torna-ho a provar…
 about-logins-import-dialog-error-cancel = Cancel·la
+
+## Logins import report page
+
+about-logins-import-report-page-title = Informe de resum de la importació
