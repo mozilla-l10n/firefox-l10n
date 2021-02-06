@@ -11,7 +11,7 @@ about-private-browsing =
     .title = Поиск в Интернете
 about-private-browsing-not-private = Сейчас вы не находитесь в приватном окне.
 about-private-browsing-info-description = { -brand-short-name } удаляет историю поиска и просмотра страниц, когда вы выходите из приложения или закрываете все приватные вкладки и окна. Хотя это не делает вас анонимными для веб-сайтов или вашего Интернет-провайдера, вам будет легче сохранить конфиденциальность ваших действий в Интернете от других людей, которые используют этот компьютер.
-about-private-browsing-need-more-privacy = Нужно больше приватности?
+about-private-browsing-need-more-privacy = Хотите большей приватности?
 about-private-browsing-turn-on-vpn = Попробуйте { -mozilla-vpn-brand-name }
 # This string is the title for the banner for search engine selection
 # in a private window.
