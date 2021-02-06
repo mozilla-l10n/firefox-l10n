@@ -547,6 +547,10 @@ bookmarks-show-all-bookmarks =
     .label = Zobrazit všechny záložky
 bookmarks-recent-bookmarks =
     .value = Naposledy přidané
+bookmarks-manage-bookmarks =
+    .label = Správce záložek
+bookmarks-recent-bookmarks-panel =
+    .value = Naposledy přidané
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobrazí více záložek
 bookmarks-sidebar-content =
@@ -606,6 +610,9 @@ bookmarks-toolbar-placeholder =
     .title = Záložky nástrojové lišty
 bookmarks-toolbar-placeholder-button =
     .label = Záložky nástrojové lišty
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Přidat současný panel do záložek
 
 ## Library Panel items
 
