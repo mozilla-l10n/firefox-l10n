@@ -20,14 +20,31 @@ permission-dialog-description-file-app = Voleu permetre que aquest fitxer obri l
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+permission-dialog-remember = Permet sempre que <strong>{ $host }</strong> obri els enllaços <strong>{ $scheme }</strong>
+permission-dialog-remember-file = Permet sempre que aquest fitxer obri els enllaços <strong>{ $scheme }</strong>
 
 ##
 
+permission-dialog-btn-open-link =
+    .label = Obre l'enllaç
+    .accessKey = O
+permission-dialog-btn-choose-app =
+    .label = Tria una aplicació
+    .accessKey = A
+permission-dialog-unset-description = Haureu de triar una aplicació.
+permission-dialog-set-change-app-link = Trieu una altra aplicació.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Trieu una aplicació
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Obre l'enllaç
+    .buttonaccesskeyaccept = O
+chooser-dialog-description = Trieu una aplicació per obrir l'enllaç { $scheme }.
 choose-other-app-description = Trieu una altra aplicació
 choose-app-btn =
     .label = Trieu…
