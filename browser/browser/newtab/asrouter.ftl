@@ -295,3 +295,4 @@ cfr-whatsnew-bookmarking-body = És més fàcil fer un seguiment dels vostres ll
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Protecció integral contra el seguiment de galetes entre llocs
+cfr-whatsnew-cross-site-tracking-body = Ara podeu triar si voleu una protecció millorada contra el seguiment de les galetes. El { -brand-short-name } pot aïllar les vostres dades i activitats dels llocs que visiteu, per tal que la informació emmagatzemada en el navegador no es comparteixi entre els llocs web.
