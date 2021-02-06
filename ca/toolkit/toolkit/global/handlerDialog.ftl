@@ -45,6 +45,13 @@ chooser-dialog =
     .buttonlabelaccept = Obre l'enllaç
     .buttonaccesskeyaccept = O
 chooser-dialog-description = Trieu una aplicació per obrir l'enllaç { $scheme }.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Utilitza sempre aquesta aplicació per obrir els enllaços <strong>{ $scheme }</strong>
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Es pot canviar des de les opcions del { -brand-short-name }.
+       *[other] Es pot canviar des de les preferències del { -brand-short-name }.
+    }
 choose-other-app-description = Trieu una altra aplicació
 choose-app-btn =
     .label = Trieu…
