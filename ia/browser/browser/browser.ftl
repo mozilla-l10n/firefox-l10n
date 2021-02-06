@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Monstrar tote le marcapaginas
 bookmarks-recent-bookmarks =
     .value = Marcapaginas recente
+bookmarks-manage-bookmarks =
+    .label = Gerer marcapaginas
+bookmarks-recent-bookmarks-panel =
+    .value = Marcapaginas recente
 bookmarks-toolbar-chevron =
     .tooltiptext = Monstrar plus marcapaginas
 bookmarks-sidebar-content =
@@ -553,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Celar le barra de marcapaginas
            *[other] Vider le barra de marcapaginas
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Celar barra de marcapaginas
+           *[other] Monstrar barra de marcapaginas
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -578,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Elementos del barra de marcapaginas
 bookmarks-toolbar-placeholder-button =
     .label = Elementos del barra de marcapaginas
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Adder scheda actual al marcapaginas
 
 ## Library Panel items
 
