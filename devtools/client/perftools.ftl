@@ -28,6 +28,7 @@ perftools-heading-local-build = Build local
 perftools-description-intro =
     Les enregistrements lancent <a>profiler.firefox.com</a> dans un nouvel onglet. Toutes les données sont stockées
     localement, mais vous pouvez choisir de les envoyer pour les partager.
+perftools-description-local-build = Si vous profilez une version que vous avez vous-même compilée, sur cette machine, veuillez ajouter le dossier « objdir » de votre compilation à la liste ci-dessous pour qu’il puisse être utilisé pour rechercher des informations sur les symboles.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -71,6 +72,12 @@ perftools-button-edit-settings = Modifier les paramètres…
 
 perftools-thread-gecko-main =
     .title = Les processus principaux pour le processus parent et les processus de contenu
+perftools-thread-dom-worker =
+    .title = Gère à la fois les web workers et les services workers
+perftools-thread-renderer =
+    .title = Quand WebRender est activé, le thread qui exécute les appels à OpenGL
+perftools-thread-render-backend =
+    .title = Le thread RenderBackend de WebRender
 
 ##
 
