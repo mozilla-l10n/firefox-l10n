@@ -206,7 +206,7 @@ cfr-doorhanger-cryptominers-description = Vòstra vida privada es importanta. Ar
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } a blocat <b>{ $blockedCount }</b> traçador dempuèi { $date } !
@@ -294,3 +294,7 @@ cfr-whatsnew-supercookies-body = D’unes sites web pòdon estacar un « super
 
 cfr-whatsnew-bookmarking-header = De melhors marcapaginas
 cfr-whatsnew-bookmarking-body = Es mai simple de gardar vòstres sites preferits. { -brand-short-name } remembra ara vòstre lòc favorit per enregistrar los marcapaginas, mòstra la barra d’aisinas dels marcapaginas per defaut suls onglets novèls, e vos dòna accès a la rèsta de vòstres marcapaginas via una icòna de dossièr per la barra d’aisinas.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Proteccion integrala contra lo seguiment de cookies intersites
