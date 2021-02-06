@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Finestra nova
 appmenuitem-new-private-window =
     .label = Finestra privada nova
+appmenuitem-passwords =
+    .label = Contrasenyes
+appmenuitem-extensions-and-themes =
+    .label = Extensions i temes
+appmenuitem-find-in-page =
+    .label = Cerca a la pàgina…
+appmenuitem-more-tools =
+    .label = Més eines
+appmenuitem-exit =
+    .label = Surt
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Paràmetres
 
 ## Zoom and Fullscreen Controls
 
@@ -51,11 +65,15 @@ profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Mostra més informació
+profiler-popup-description-title =
+    .value = Enregistreu, analitzeu i compartiu
+profiler-popup-description = Col·laboreu en la resolució de problemes de rendiment publicant perfils per compartir-los amb el vostre equip.
 profiler-popup-learn-more = Més informació
 profiler-popup-settings =
     .value = Paràmetres
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Edita els paràmetres…
+profiler-popup-disabled = Actualment l'analitzador de rendiment està desactivat, probablement perquè hi ha una finestra privada oberta.
 profiler-popup-recording-screen = S'està enregistrant…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -80,6 +98,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Ajuda del { -brand-shorter-name }
 appmenu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
@@ -95,6 +115,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Dreceres de teclat
     .accesskey = D
+appmenu-get-help =
+    .label = Obteniu ajuda
+    .accesskey = j
 appmenu-help-troubleshooting-info =
     .label = Informació de resolució de problemes
     .accesskey = r
