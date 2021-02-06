@@ -27,9 +27,9 @@ menu =
     .title = Otevřít nabídku
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importovat z jiného prohlížeče…
-about-logins-menu-menuitem-import-from-a-file = Importovat ze souboru…
-about-logins-menu-menuitem-export-logins = Exportovat přihlašovací údaje…
-about-logins-menu-menuitem-remove-all-logins = Smazat všechny přihlašovací údaje…
+about-logins-menu-menuitem-import-from-a-file = Importovat ze souboru
+about-logins-menu-menuitem-export-logins = Exportovat přihlašovací údaje
+about-logins-menu-menuitem-remove-all-logins = Smazat všechny přihlašovací údaje
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -101,6 +101,7 @@ login-item-new-login-title = Nové přihlašovací údaje
 login-item-edit-button = Upravit
 about-logins-login-item-remove-button = Odstranit
 login-item-origin-label = Adresa serveru
+login-item-tooltip-message = Zkontrolujte, že toto pole přesně odpovídá adrese serveru, kde se přihlašujete.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Uživatelské jméno
@@ -304,11 +305,16 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import byl dokončen
+about-logins-import-dialog-items-added = <span>Nově přidané přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-modified = <span>Aktualizované přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-no-change = <span>Duplicitní přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportováno)</span>
+about-logins-import-dialog-items-error = <span>Chyby:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportováno)</span>
 about-logins-import-dialog-done = Hotovo
 about-logins-import-dialog-error-title = Chyba při importu
 about-logins-import-dialog-error-conflicting-values-title = Více konfliktních hodnot pro jedno přihlášení
 about-logins-import-dialog-error-conflicting-values-description = Například: více uživatelských jmen, hesel, adres atd. pro jedno přihlášení.
 about-logins-import-dialog-error-file-format-title = Problém s formátem souboru
+about-logins-import-dialog-error-file-format-description = V souboru chybí záhlaví sloupců, nebo je nesprávné. Zkontrolujte, že soubor obsahuje sloupce s uživatelským jménem, heslem a URL adresou.
 about-logins-import-dialog-error-file-permission-title = Soubor nelze načíst
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nemá oprávnění číst soubor. Zkuste změnit oprávnění souboru.
 about-logins-import-dialog-error-unable-to-read-title = Soubor nelze načíst
@@ -320,3 +326,4 @@ about-logins-import-dialog-error-cancel = Zrušit
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Importované přihlašovací údaje
