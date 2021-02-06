@@ -30,6 +30,7 @@ screenshots-unshootable-page-error-title = Sellest lehest ei saa ekraanipilti te
 screenshots-unshootable-page-error-details = Tegemist pole standardse veebilehega, seetõttu ei saa sellest ekraanipilti teha.
 screenshots-self-screenshot-error-title = { -screenshots-brand-name } lehest ei saa ekraanipilti teha!
 screenshots-empty-selection-error-title = Valik on liiga väike
+screenshots-private-window-error-title = Ekraanipilte ei saa privaatsel veebilehitsemisel teha
 screenshots-private-window-error-details = Vabandame tüli tekitamise pärast. Töötame selle võimaluse lisamiseks tulevikus.
 screenshots-generic-error-title = Oi-oi! { -screenshots-brand-name } läks sassi.
 screenshots-generic-error-details = Me pole kindlad, mis just juhtus. Proovid ehk uuesti või teed ekraanipildi mõnest teisest lehest?
