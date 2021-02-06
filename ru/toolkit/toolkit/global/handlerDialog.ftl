@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> хочет открыть ссылку <strong>{ $scheme }</strong>.
 
 ## Permission Dialog
 ## Variables:
@@ -52,15 +44,15 @@ chooser-window =
 chooser-dialog =
     .buttonlabelaccept = Открыть ссылку
     .buttonaccesskeyaccept = ы
-chooser-dialog-description = Выбрать приложение, чтобы открыть ссылку { $scheme }.
+chooser-dialog-description = Выберите приложение для открытия ссылок { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = Всегда использовать это приложение, чтобы открывать ссылки <strong>{ $scheme }</strong>
+chooser-dialog-remember = Всегда использовать это приложение для открытия ссылок <strong>{ $scheme }</strong>
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] Вы сможете изменить это в настройках { -brand-short-name }.
        *[other] Вы сможете изменить это в настройках { -brand-short-name }.
     }
-choose-other-app-description = Выбор другого приложения
+choose-other-app-description = Другое приложение
 choose-app-btn =
     .label = Выбрать…
     .accessKey = ы
