@@ -56,7 +56,7 @@ newtab-topsites-add-button = Přidat
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Opravdu chcete smazat všechny výskyty této stránky z vaší historie?
+newtab-confirm-delete-history-p1 = Opravdu chcete smazat všechny výskyty této stránky z historie vašeho prohlížení?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Tuto akci nelze vzít zpět.
 
@@ -222,7 +222,7 @@ newtab-error-fallback-refresh-link = Opětovným načtením stránky to zkuste z
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Zkratky
-newtab-custom-shortcuts-subtitle = Stránky, které si uložíte nebo navštívíte
+newtab-custom-shortcuts-subtitle = Uložené nebo navštěvované stránky
 newtab-custom-row-selector =
     { $num ->
         [one] Jeden řádek
@@ -234,12 +234,12 @@ newtab-custom-pocket-title = Doporučeno službou { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Výjimečný obsah vybraný službou { -pocket-brand-name }, která je součástí { -brand-product-name(case: "gen") }
 newtab-custom-pocket-sponsored = Sponzorované články
 newtab-custom-recent-title = Nedávná aktivita
-newtab-custom-recent-subtitle = Výběr z aktuálních stránek a obsahu
+newtab-custom-recent-subtitle = Výběr z nedávných stránek a obsahu
 newtab-custom-close-button = Zavřít
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Útržky
-newtab-custom-snippets-subtitle = Tipy a novinky od společnosti { -vendor-short-name } a aplikace { -brand-product-name }
+newtab-custom-snippets-subtitle = Tipy a novinky od { -vendor-short-name(case: "gen") } a aplikace { -brand-product-name }
 newtab-custom-settings = Další nastavení
