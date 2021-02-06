@@ -27,6 +27,8 @@
 <!ENTITY debugEventDumping.accesskey "H">
 <!ENTITY debugMotionEventDumping.label "Rörelsehändelsedumpning">
 <!ENTITY debugMotionEventDumping.accesskey "R">
+<!ENTITY debugCrossingEventDumping.label "Händelseöverskridande dumpning">
+<!ENTITY debugCrossingEventDumping.accesskey "ö">
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowEvents.label                 "Flödesomformningshändelse">
