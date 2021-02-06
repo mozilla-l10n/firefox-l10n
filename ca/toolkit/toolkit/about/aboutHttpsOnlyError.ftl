@@ -9,13 +9,15 @@ about-httpsonly-insecure-explanation-unavailable = Navegueu en mode només HTTPS
 about-httpsonly-insecure-explanation-reasons = El més probable és que el lloc web no admeti HTTPS, però també podria ser que un atacant estigués blocant la versió HTTPS.
 about-httpsonly-insecure-explanation-exception = Per bé que el risc de seguretat és baix, si decidiu visitar la versió HTTP del lloc web, no hi hauríeu d’introduir informació confidencial com ara contrasenyes, adreces electròniques o targetes de crèdit.
 about-httpsonly-button-make-exception = Accepto el risc i vull continuar al lloc
-about-httpsonly-title = El { -brand-short-name } ha detectat un problema potencial de seguretat
+about-httpsonly-title-alert = Alerta del mode només HTTPS
+about-httpsonly-title-connection-not-available = Connexió segura no disponible
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable = Navegueu en mode només HTTPS i no hi ha disponible la versió HTTPS segura de <em>{ $websiteUrl }</em>.
+about-httpsonly-explanation-unavailable2 = Heu activat el «mode només HTTPS» per millorar la seguretat i no hi ha disponible la versió HTTPS de <em>{ $websiteUrl }</em>.
 about-httpsonly-explanation-question = Quin motiu podria haver-hi?
 about-httpsonly-explanation-nosupport = El més probable és que el lloc web no admeti HTTPS.
 about-httpsonly-explanation-risk = També podria ser un intent d'atac. Si decidiu visitar el lloc web, no hi hauríeu d’introduir informació confidencial com ara contrasenyes, adreces electròniques o targetes de crèdit.
-about-httpsonly-button-accept-and-continue = Accepto el risc i vull continuar
+about-httpsonly-explanation-continue = Si continueu, el mode només HTTPS es desactivarà temporalment per a aquest lloc.
+about-httpsonly-button-continue-to-site = Vés al lloc HTTP
 about-httpsonly-button-go-back = Vés enrere
 about-httpsonly-link-learn-more = Més informació…

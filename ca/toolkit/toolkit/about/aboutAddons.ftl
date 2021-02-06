@@ -382,6 +382,9 @@ addon-badge-line2 =
 addon-badge-line3 =
     .title = Extensió oficial creada per Mozilla. Compleix els estàndards de seguretat i rendiment.
     .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = Aquesta extensió s'ha revisat i compleix els nostres estàndards de seguretat i rendiment
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -390,6 +393,9 @@ recent-updates-heading = Actualitzacions recents
 release-notes-loading = S'està carregant…
 release-notes-error = S'ha produït un error en carregar les notes de la versió.
 addon-permissions-empty = Aquesta extensió no necessita cap permís
+addon-permissions-required = Permisos necessaris per a les funcions bàsiques:
+addon-permissions-optional = Permisos opcionals per a les funcions addicionals:
+addon-permissions-learnmore = Més informació sobre els permisos
 recommended-extensions-heading = Extensions recomanades
 recommended-themes-heading = Temes recomanats
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
