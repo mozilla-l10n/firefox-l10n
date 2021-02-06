@@ -415,8 +415,8 @@ urlbar-placeholder-search-mode-other-engine =
     .aria-label = Pesquisar { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Digite termos de pesquisa
-    .aria-label = Pesquisar nos favoritos
+    .placeholder = Digite termos de busca
+    .aria-label = Procurar favoritos
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Digite termos de pesquisa
@@ -489,7 +489,7 @@ urlbar-result-action-tabtosearch-other-engine = Pesquisar com { $engine } direta
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
-urlbar-result-action-search-bookmarks = Pesquisar nos favoritos
+urlbar-result-action-search-bookmarks = Procurar favoritos
 urlbar-result-action-search-history = Pesquisar no histórico
 urlbar-result-action-search-tabs = Pesquisar nas abas
 
@@ -570,7 +570,7 @@ bookmarks-tools-menu-button-visibility =
            *[other] Adicionar menu de favoritos à barra de ferramentas
         }
 bookmarks-search =
-    .label = Pesquisar nos favoritos
+    .label = Procurar favoritos
 bookmarks-tools =
     .label = Ferramentas de favoritos
 bookmarks-bookmark-edit-panel =

@@ -112,7 +112,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY hideBookmarksSidebar.label         "Ocultar Painel de Favoritos">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
 <!ENTITY hideBookmarksToolbar.label         "Ocultar Barra de Favoritos">
-<!ENTITY searchBookmarks.label              "Pesquisar nos favoritos">
+<!ENTITY searchBookmarks.label              "Procurar favoritos">
 <!ENTITY bookmarkingTools.label             "Ferramentas de favoritos">
 <!ENTITY addBookmarksMenu.label             "Adicionar menu de favoritos à barra de ferramentas">
 <!ENTITY removeBookmarksMenu.label          "Remover menu de favoritos da barra de ferramentas">
