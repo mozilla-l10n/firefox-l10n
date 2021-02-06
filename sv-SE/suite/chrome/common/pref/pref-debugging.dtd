@@ -29,6 +29,7 @@
 <!ENTITY debugMotionEventDumping.accesskey "R">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "Flödesomformningshändelse">
 <!ENTITY debugReflowShowFrameCounts.label        "Visa bildräknare">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "b">
 <!ENTITY debugReflowDumpFrameCounts.label        "Dumpa bildräknare">
