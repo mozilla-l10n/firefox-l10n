@@ -511,6 +511,7 @@ pointerlock-warning-no-domain = Aquest document té el control del punter. Preme
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Part d'aquesta pàgina ha fallat.</strong> Per notificar el problema al { -brand-product-name } i que s'arregli més ràpidament, envieu un informe.
 crashed-subframe-learnmore =
     .label = Més informació
     .accesskey = M
@@ -524,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Mostra totes les adreces d'interès
 bookmarks-recent-bookmarks =
     .value = Afegides recentment
+bookmarks-manage-bookmarks =
+    .label = Gestiona les adreces d'interès
+bookmarks-recent-bookmarks-panel =
+    .value = Adreces d'interès recents
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostra més adreces d'interès
 bookmarks-sidebar-content =
@@ -552,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Amaga la barra d'eines d'adreces d'interès
            *[other] Mostra la barra de les adreces d'interès
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Amaga la barra de les adreces d'interès
+           *[other] Mostra la barra de les adreces d'interès
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -577,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Elements de la barra de les adreces d'interès
 bookmarks-toolbar-placeholder-button =
     .label = Elements de la barra de les adreces d'interès
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Afegeix la pestanya actual a les adreces d'interès
 
 ## Library Panel items
 

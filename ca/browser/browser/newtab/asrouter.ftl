@@ -200,10 +200,14 @@ cfr-doorhanger-cryptominers-description = La vostra privadesa és important. Ara
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] El { -brand-short-name } ha blocat més de <b>{ $blockedCount }</b> elements de seguiment des del { $date }
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] El { -brand-short-name } ha blocat més de <b>{ $blockedCount }</b> elements de seguiment des del { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Mostra-ho tot
     .accesskey = M
@@ -287,3 +291,7 @@ cfr-whatsnew-supercookies-body = De forma secreta, els llocs web poden adjuntar 
 
 cfr-whatsnew-bookmarking-header = Millor gestió de les adreces d'interès
 cfr-whatsnew-bookmarking-body = És més fàcil fer un seguiment dels vostres llocs preferits. Ara el { -brand-short-name } recorda la vostra ubicació preferida per a les adreces d'interès desades, mostra per defecte la barra d'adreces d'interès en les pestanyes noves i us permet accedir fàcilment a la resta de les adreces d'interès mitjançant una carpeta en la barra d'eines.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Protecció integral contra el seguiment de galetes entre llocs
