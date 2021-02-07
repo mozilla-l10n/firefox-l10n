@@ -8,6 +8,8 @@ password-quality-meter = ਪਾਸਵਰਡ ਕੁਆਲਟੀ ਮੀਟਰ
 
 change-password-window =
     .title = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
+change-device-password-window =
+    .title = ਪਾਸਵਰਡ ਬਦਲੋ
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ: { $tokenName }
@@ -20,6 +22,7 @@ change-password-reenter = ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):
 reset-password-window =
     .title = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ
     .style = width: 40em
+pippki-failed-pw-change = ਪਾਸਵਰਡ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 
 ## Reset Primary Password dialog
 
