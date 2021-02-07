@@ -300,8 +300,12 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Eginda
 about-logins-import-dialog-error-title = Inportazio-errorea
+about-logins-import-dialog-error-conflicting-values-title = Gatazkan dauden hainbat balio saio-hasiera baterako
+about-logins-import-dialog-error-conflicting-values-description = Adibidez: saio-hasiera baterako hainbat erabiltzaile-izen, pasahitz, URL, etab.
 about-logins-import-dialog-error-file-format-title = Fitxategi-formatuaren arazoa
+about-logins-import-dialog-error-file-format-description = Zutabeen goiburu okerrak edo falta egin dira. Ziurtatu fitxategiak zutabeak dituela erabiltzaile-izen, pasahitz eta URL balioentzat.
 about-logins-import-dialog-error-file-permission-title = Ezin da fitxategia irakurri
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name }(e)k ez du fitxategia irakurtzeko baimenik. Saiatu fitxategiaren baimenak aldatzen.
 about-logins-import-dialog-error-unable-to-read-title = Ezin da fitxategia analizatu
 about-logins-import-dialog-error-unable-to-read-description = Ziurtatu CSV edo TSV fitxategi bat hautatu duzula.
 about-logins-import-dialog-error-no-logins-imported = Ez da saio-hasierarik inportatu
@@ -311,3 +315,4 @@ about-logins-import-dialog-error-cancel = Utzi
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Inportazioaren laburpen-txostena

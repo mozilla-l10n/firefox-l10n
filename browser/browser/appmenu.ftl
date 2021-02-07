@@ -63,6 +63,10 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Agerrarazi informazio gehiago
+profiler-popup-description-title =
+    .value = Grabatu, analizatu, partekatu
 profiler-popup-learn-more = Argibide gehiago
 profiler-popup-settings =
     .value = Ezarpenak
