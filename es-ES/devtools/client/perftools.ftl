@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Ajustes del perfilador
+perftools-intro-description =
+    Las grabaciones abren profiler.firefox.com en una nueva pestaña. Todos los datos están almacenados
+    localmente, pero puede elegir subirlos para compartirlos.
 
 ## All of the headings for the various sections.
 
@@ -22,6 +25,13 @@ perftools-heading-local-build = Compilación local
 
 ##
 
+perftools-description-intro =
+    Las grabaciones abren <a>profiler.firefox.com</a> en una nueva pestaña. Todos los datos están almacenados
+    localmente, pero puede elegir subirlos para compartirlos.
+perftools-description-local-build =
+    Si está perfilando una compilación hecha por usted mismo en esta
+    máquina, añada el objdir de la misma a la lista de abajo para que
+    pueda utilizarse para buscar información de símbolos.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -63,14 +73,31 @@ perftools-button-edit-settings = Editar ajustes…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Los procesos principales tanto para el proceso principal como para los procesos de contenido
+perftools-thread-compositor =
+    .title = Combina diferentes elementos pintados en la página.
+perftools-thread-dom-worker =
+    .title = Esto se ocupa tanto de los web workers como de los service workers
+perftools-thread-renderer =
+    .title = Cuando WebRender está activado, el hilo que ejecuta las llamadas OpenGL
 perftools-thread-render-backend =
     .title = El hilo WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Cuando se activa el pintado fuera del hilo principal, el hilo en el que se realiza el pintado
 perftools-thread-style-thread =
     .title = El cálculo de estilo se divide en múltiples hilos
+pref-thread-stream-trans =
+    .title = Transporte de flujo de red
+perftools-thread-socket-thread =
+    .title = El hilo donde el código de red ejecuta cualquier llamada bloqueante de socket
 perftools-thread-img-decoder =
     .title = Hilos de decodificación de imágenes
+perftools-thread-dns-resolver =
+    .title = La resolución de DNS ocurre en este hilo
 perftools-thread-js-helper =
     .title = Trabajo en segundo plano del motor JS, como compilaciones fuera del hilo principal
 
 ##
 
+perftools-record-all-registered-threads = Omitir las selecciones de arriba y grabar todos los hilos registrados
