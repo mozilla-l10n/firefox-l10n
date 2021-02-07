@@ -206,10 +206,14 @@ cfr-doorhanger-cryptominers-description = ਤੁਹਾਡੀ ਪਰਦੇਦਾ�
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ਨੇ { $date } ਤੱਕ  <b>{ $blockedCount }</b> ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } ਨੇ { DATETIME($date, month: "long", year: "numeric") } ਤੱਕ <b>{ $blockedCount }</b> ਟਰੈਕਰਾਂ ਉੱਤੇ ਰੋਕ ਲਾਈ ਹੈ!
     }
 cfr-doorhanger-milestone-ok-button = ਸਾਰੇ ਵੇਖੋ
     .accesskey = S
@@ -296,3 +300,7 @@ cfr-whatsnew-supercookies-body = ਵੈੱਬਸਾਈਟਾਂ ਚੋਰੀ-ਛ
 
 cfr-whatsnew-bookmarking-header = ਵਧੀਆ ਬੁੱਕਮਾਰਕ ਬਣਾਉਣੇ
 cfr-whatsnew-bookmarking-body = ਤੁਹਾਡੀਆਂ ਮਨਪਸੰਦ ਵੈੱਬਸਾਈਟਾਂ ਦਾ ਰਿਕਾਰਡ ਰੱਖਣਾ ਸੌਖਾ ਹੋ ਗਿਆ ਹੈ। { -brand-short-name } ਹੁਣ ਸੰਭਾਲੇ ਹੋਏ ਬੁੱਕਮਾਰਕਾਂ ਲਈ ਤੁਹਾਡਾ ਤਰਜੀਹੀ ਟਿਕਾਣੇ ਨੂੰ ਯਾਦ ਰੱਖਦਾ ਹੈ, ਨਵੀਆਂ ਟੈਬਾਂ ਉੱਤੇ ਮੂਲ ਰੂਪ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵਿਖਾਉਂਦਾ ਹੈ ਅਤੇ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕਾਂ ਤੱਕ ਟੂਲਬਾਰ ਫੋਲਡਰ ਰਾਹੀਂ ਸੌਖੀ ਪਹੁੰਚ ਦਿੰਦਾ ਹੈ।
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼ ਟਰੈਕਿੰਗ ਤੋਂ ਸੰਪੂਰਨ ਸੁਰੱਖਿਆ
