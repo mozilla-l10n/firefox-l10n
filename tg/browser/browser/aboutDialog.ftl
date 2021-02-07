@@ -20,6 +20,7 @@ update-adminDisabled = Навсозиҳо аз ҷониби маъмури ни�
 update-noUpdatesFound = { -brand-short-name } нав аст
 update-manual = Навсозиҳо дар <label data-l10n-name="manual-link"/> дастрасанд
 update-restarting = Дар ҳоли бозоғозӣ…
+aboutdialog-help-user = Кумаки { -brand-product-name }
 bottomLinks-license = Маълумот дар бораи гувоҳинома
 bottomLinks-rights = Ҳуқуқҳои корбари ниҳоӣ
 bottomLinks-privacy = Сиёсати махфият
