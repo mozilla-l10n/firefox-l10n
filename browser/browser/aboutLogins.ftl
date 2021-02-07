@@ -308,6 +308,7 @@ about-logins-import-dialog-error-title = Error de importación
 about-logins-import-dialog-error-conflicting-values-title = Múltiples valores en conflicto para un inicio de sesión
 about-logins-import-dialog-error-conflicting-values-description = Por ejemplo: múltiples nombres de usuario, contraseñas, URLs, etc. para un solo inicio de sesión.
 about-logins-import-dialog-error-file-format-title = Problema de formato de archivo
+about-logins-import-dialog-error-file-format-description = Cabeceras de columna incorrectas o ausentes. Asegúrese de que el archivo incluya columnas para nombre de usuario, contraseña y URL.
 about-logins-import-dialog-error-file-permission-title = No se puede leer el archivo
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } no tiene permiso para leer el archivo. Intente cambiar los permisos del archivo.
 about-logins-import-dialog-error-unable-to-read-title = No se puede analizar el archivo

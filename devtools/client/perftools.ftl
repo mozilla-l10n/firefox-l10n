@@ -53,14 +53,22 @@ perftools-request-to-get-profile-and-stop-profiler = Capturando perfil
 ##
 
 perftools-button-start-recording = Iniciar grabación
+perftools-button-capture-recording = Capturar la grabación
 perftools-button-cancel-recording = Guardar grabación
 perftools-button-save-settings = Guardar ajustes y volver
 perftools-button-restart = Reiniciar
 perftools-button-add-directory = Añadir un directorio
+perftools-button-remove-directory = Eliminar lo seleccionado
 perftools-button-edit-settings = Editar ajustes…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-render-backend =
+    .title = El hilo WebRender RenderBackend
+perftools-thread-style-thread =
+    .title = El cálculo de estilo se divide en múltiples hilos
+perftools-thread-img-decoder =
+    .title = Hilos de decodificación de imágenes
 perftools-thread-js-helper =
     .title = Trabajo en segundo plano del motor JS, como compilaciones fuera del hilo principal
 
