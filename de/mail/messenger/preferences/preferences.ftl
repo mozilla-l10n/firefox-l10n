@@ -13,6 +13,9 @@ preferences-title =
            *[other] Einstellungen
         }
 
+category-list =
+    .aria-label = Kategorien
+
 pane-general-title = Allgemein
 category-general =
     .tooltiptext = { pane-general-title }
@@ -130,6 +133,7 @@ update-in-progress-ok-button = &Verwerfen
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortfahren
 
+account-button = Konten-Einstellungen
 addons-button = Erweiterungen & Themes
 
 ## OS Authentication dialog
@@ -142,6 +146,15 @@ master-password-os-auth-dialog-message-win = Um ein Master-Passwort festzulegen,
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = ein Master-Passwort festlegen
+
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Um ein Hauptpasswort zu erstellen, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
+
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = Hauptpasswort festlegen
 
 # Don't change this label.
 master-password-os-auth-dialog-caption = { -brand-full-name }
@@ -700,6 +713,20 @@ master-password-label =
 master-password-button =
     .label = Master-Passwort ändern…
     .accesskey = a
+
+
+primary-password-description = Ein Hauptpasswort schützt alle Ihre Passworte. Es muss einmal pro Sitzung eingegeben werden.
+
+primary-password-label =
+    .label = Hauptpasswort verwenden
+    .accesskey = v
+
+primary-password-button =
+    .label = Hauptpasswort ändern…
+    .accesskey = H
+
+forms-primary-pw-fips-title = Sie sind derzeit im FIPS-Modus. FIPS benötigt ein nicht leeres Hauptpasswort.
+forms-master-pw-fips-desc = Ändern des Passworts fehlgeschlagen
 
 
 junk-description = Die folgenden Einstellungen gelten für alle Konten. In den Konten-Einstellungen können zusätzlich für jedes Konto getrennte Einstellungen vorgenommen werden.

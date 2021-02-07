@@ -120,10 +120,57 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Öffentliche(n) Schlüssel in Zwischenablage kopieren
     .accesskey = b
+
+openpgp-key-man-copy-key-ids =
+    .label = { $count ->
+               [one] Schlüssel-ID in Zwischenablage kopieren
+               *[other] Schlüssel-IDs in Zwischenablage kopieren
+             }
+    .accesskey = k
+
+openpgp-key-man-copy-fprs =
+    .label = { $count ->
+               [one] Fingerabdruck in Zwischenablage kopieren
+               *[other] Fingerabdrücke in Zwischenablage kopieren
+             }
+    .accesskey = F
+
+openpgp-key-man-copy-to-clipboard =
+    .label = { $count ->
+               [one] Öffentlichen Schlüssel in Zwischenablage kopieren
+               *[other] Öffentliche Schlüssel in Zwischenablage kopieren
+             }
+    .accesskey = p
+
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Schlüssel in Datei exportieren
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Öffentliche Schlüssel in Zwischenablage kopieren
+
+openpgp-key-man-ctx-copy =
+    .label = Kopieren
+    .accesskey = K
+
+openpgp-key-man-ctx-copy-fprs =
+    .label = { $count ->
+               [one] Fingerabdruck
+               *[other] Fingerabdrücke
+             }
+    .accesskey = F
+
+openpgp-key-man-ctx-copy-key-ids =
+    .label = { $count ->
+               [one] Schlüssel-ID
+               *[other] Schlüssel-IDs
+             }
+    .accesskey = D
+
+openpgp-key-man-ctx-copy-public-keys =
+    .label = { $count ->
+               [one] Öffentlicher Schlüssel
+               *[other] Öffentliche Schlüssel
+             }
+    .accesskey = n
 
 openpgp-key-man-close =
     .label = Schließen

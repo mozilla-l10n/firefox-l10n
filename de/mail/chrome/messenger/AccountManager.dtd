@@ -25,7 +25,7 @@
 <!ENTITY removeButton.label "Konto entfernen">
 <!ENTITY removeButton.accesskey "o">
 
-<!-- AccountManager.xul -->
+<!ENTITY addonsButton.label "Erweiterungen &amp; Themes">
 
 <!-- AccountManager.xhtml -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
