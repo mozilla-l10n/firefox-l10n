@@ -187,6 +187,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Kendu saio-hasiera bat?
        *[other] Kendu { $count } saio-hasiera?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [one] Honek { -brand-short-name }(e)n gorde duzun saio-hasiera eta hemen agertzen den edozein urratze-alerta kenduko ditu. Ekintza hau ezin da desegin.
+       *[other] Honek { -brand-short-name }(e)n gorde dituzun saio-hasierak eta hemen agertzen den edozein urratze-alerta kenduko ditu. Ekintza hau ezin da desegin.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kendu saio-hasiera gailu guztietatik?
@@ -276,6 +281,23 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Inportazioa burutu da
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Saio-hasiera berriak gehituta:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Lehendik dauden saio-hasierak eguneratuta:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Lehendik dauden saio-hasierak eguneratuta:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Bikoiztutako saio-hasierak aurkitu dira:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ez dira inportatu)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Erroreak:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ez dira inportatu)</span>
+    }
 about-logins-import-dialog-done = Eginda
 about-logins-import-dialog-error-title = Inportazio-errorea
 about-logins-import-dialog-error-file-format-title = Fitxategi-formatuaren arazoa
