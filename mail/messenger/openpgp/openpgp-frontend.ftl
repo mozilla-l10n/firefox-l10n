@@ -35,6 +35,7 @@ openpgp-search-signature-key =
     .label = Suchen…
 
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Diese OpenPGP-Nachricht wurde offensichtlich durch MS-Exchange beschädigt und kann nicht repariert werden, da sie aus einer lokalen Datei geöffnet wurde. Kopieren Sie die Nachricht in einen Nachrichtenordner für E-Mails und versuchen Sie eine automatische Reparatur.
 openpgp-broken-exchange-info = Diese OpenPGP-Nachricht wurde offensichtlich durch MS-Exchange beschädigt. Falls die Nachricht nicht wie erwartet dargestellt wird, können Sie eine automatische Reparatur versuchen.
 openpgp-broken-exchange-repair =
     .label = Nachricht reparieren

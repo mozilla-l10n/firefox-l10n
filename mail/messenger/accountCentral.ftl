@@ -55,6 +55,8 @@ about-paragraph = Thunderbird ist die führende quelloffene, plattformübergreif
 about-paragraph-2 = <b>Thunderbird wird durch Benutzer wie Sie finanziert! Falls Thunderbird Ihnen gefällt, dann denken Sie bitte über ein Spende nach.</b> Der beste Weg, um das Fortbestehen von Thunderbird zu unterstützen, ist über
 about-donation = eine Spende
 
+about-paragraph-consider-donation = <b>Thunderbird wird durch Benutzer wie Sie finanziert! Falls Thunderbird Ihnen gefällt, dann denken Sie bitte über ein Spende nach.</b> Der beste Weg, um das Fortbestehen von Thunderbird zu unterstützen, ist über <a data-l10n-name="donation-link">eine Spende</a>.
+
 explore-link = Funktionen kennenlernen
 support-link = Hilfe
 involved-link = Mitmachen

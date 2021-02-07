@@ -129,6 +129,8 @@
 <!ENTITY propertiesContext.accesskey                    "E">
 <!ENTITY abPropertiesContext.label                      "Eigenschaften">
 <!ENTITY abPropertiesContext.accesskey                  "E">
+<!ENTITY syncContext.label                              "Synchronisieren">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Kontakt bearbeiten">
 <!ENTITY editContactContext.accesskey                   "b">
 <!ENTITY editMailingListContext.label                   "Liste bearbeiten">
