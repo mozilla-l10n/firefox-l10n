@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Elkitės atsargiai
@@ -9,19 +10,15 @@ about-config-intro-warning-text = Išplėstinių nuostatų keitimas gali paveikt
 about-config-intro-warning-checkbox = Įspėti prieš patenkant į šias nuostatas
 about-config-intro-warning-button = Priimti riziką ir tęsti
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Šių nuostatų keitimas gali paveikti „{ -brand-short-name }“ veikimą arba saugumą.
-
 about-config-page-title = Išplėstinės nuostatos
-
 about-config-search-input1 =
     .placeholder = Ieškoti nuostatos pavadinimo
 about-config-show-all = Rodyti viską
-
+about-config-show-only-modified = Rodyti tik pakeistas nuostatas
 about-config-pref-add-button =
     .title = Pridėti
 about-config-pref-toggle-button =
