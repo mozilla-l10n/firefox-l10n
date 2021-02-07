@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Kontuz jarraitu
@@ -9,19 +10,15 @@ about-config-intro-warning-text = Konfigurazio-hobespen aurreratuak aldatzeak { 
 about-config-intro-warning-checkbox = Abisa nazazu hobespen hauek atzitzen saiatzean
 about-config-intro-warning-button = Onartu arriskua eta jarraitu
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Hobespen hauek aldatzeak { -brand-short-name }(r)en errendimendu edo segurtasunean eragin lezake.
-
 about-config-page-title = Hobespen aurreratuak
-
 about-config-search-input1 =
     .placeholder = Bilatu hobespen-izena
 about-config-show-all = Erakutsi denak
-
+about-config-show-only-modified = Erakutsi soilik aldatutako hobespenak
 about-config-pref-add-button =
     .title = Gehitu
 about-config-pref-toggle-button =
