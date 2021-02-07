@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Erakutsi laster-marka guztiak
 bookmarks-recent-bookmarks =
     .value = Azken laster-markak
+bookmarks-manage-bookmarks =
+    .label = Kudeatu laster-markak
+bookmarks-recent-bookmarks-panel =
+    .value = Azken laster-markak
 bookmarks-toolbar-chevron =
     .tooltiptext = Erakutsi laster-marka gehiago
 bookmarks-sidebar-content =
@@ -553,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Ezkutatu laster-marken tresna-barra
            *[other] Ikusi laster-marken tresna-barra
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Ezkutatu laster-marken tresna-barra
+           *[other] Erakutsi laster-marken tresna-barra
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -578,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Laster-marken tresna-barraren osagaiak
 bookmarks-toolbar-placeholder-button =
     .label = Laster-marken tresna-barraren osagaiak
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Egin uneko fitxaren laster-marka
 
 ## Library Panel items
 
