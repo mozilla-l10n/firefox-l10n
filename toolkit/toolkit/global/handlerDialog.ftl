@@ -20,6 +20,8 @@ permission-dialog-description-file-app = Baimendu fitxategi honi { $scheme } lot
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+permission-dialog-remember = Baimendu beti <strong>{ $host }</strong> guneari <strong>{ $scheme }</strong> loturak irekitzea
+permission-dialog-remember-file = Baimendu beti fitxategi honi <strong>{ $scheme }</strong> loturak irekitzea
 
 ##
 
