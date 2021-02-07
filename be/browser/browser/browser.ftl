@@ -350,6 +350,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Граецца
+browser-tab-audio-muted = Без гуку
 
 ## Bookmarks toolbar items
 
