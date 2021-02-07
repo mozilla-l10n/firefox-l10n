@@ -133,6 +133,9 @@ cfr-whatsnew-lockwise-take-link-text = アプリを入手
 
 cfr-whatsnew-searchbar-title = アドレスバーからクリック一つで
 cfr-whatsnew-searchbar-body-topsites = アドレスバーを選択するだけで、よく見るサイトのリンクが展開されます。
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = 虫眼鏡アイコン
 
 ## Picture-in-Picture
@@ -207,10 +210,14 @@ cfr-doorhanger-cryptominers-description = プライバシーは重要です。{ 
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
   { $blockedCount ->
    *[other] { $date } 以降、{ -brand-short-name } は <b>{ $blockedCount } 個</b>以上のトラッカーをブロックしました！
+  }
+cfr-doorhanger-milestone-heading2 =
+  { $blockedCount ->
+    *[other] { DATETIME($date, year: "numeric", month: "numeric") } 以降、{ -brand-short-name } は <b>{ $blockedCount } 個</b>以上のトラッカーをブロックしました！
   }
 cfr-doorhanger-milestone-ok-button = 確認
   .accesskey = S
@@ -295,3 +302,8 @@ cfr-whatsnew-supercookies-body = ウェブサイトは密かに “supercookie�
 
 cfr-whatsnew-bookmarking-header = よりよいブックマーク登録
 cfr-whatsnew-bookmarking-body = お気に入りのサイトの管理が簡単になりました。{ -brand-short-name } は保存したブックマークをあなたの好きな場所に記憶し、デフォルト設定では新規タブにブックマークツールバーを表示し、ツールバーのフォルダーから他のブックマークにもアクセスできるようになりました。
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = クロスサイトトラッキング Cookie からの包括的な保護
+cfr-whatsnew-cross-site-tracking-body = トラッキング Cookie からのよりよい保護を任意で利用できるようになりました。{ -brand-short-name} があなたの行動と個人データを閲覧中のサイトから分離するため、ブラウザーに保存された情報はウェブサイト間で共有されません。
