@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Función experimental para permiti
 experimental-features-http3 =
     .label = Protocolo HTTP/3
 experimental-features-http3-description = Soporte experimental para el protocolo HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Barra de direcciones: mostrar resultados durante la composición IME
+experimental-features-ime-search-description = Una IME (Input Method Editor) es una herramienta que le permite escribir símbolos complejos, como los que se usan en los idiomas escritos del índico o Asia oriental, utilizando un teclado estándar. Activar este experimento mantendrá abierto el panel de la barra de direcciones, mostrando resultados de búsqueda y sugerencias, mientras se usa IME para escribir texto. Tenga en cuenta que el IME puede mostrar un panel que cubre los resultados de la barra de direcciones, por lo que se recomienda el uso de esta preferencia solo si el IME no usa este tipo de panel.
