@@ -68,6 +68,11 @@ profiler-popup-start-recording-button =
     .label = เริ่มการบันทึก
 profiler-popup-discard-button =
     .label = ละทิ้ง
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
