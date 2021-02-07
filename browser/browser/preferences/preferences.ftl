@@ -949,6 +949,7 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 content-blocking-enhanced-tracking-protection = Jarraipenaren babes hobetua
 content-blocking-section-top-level-description = Jarraipen-elementuek zure lineako jarraipena egiten dute zure nabigatze-ohitura eta -interesei buruzko informazioa biltzeko. Jarraipen-elementu eta bestelako script maltzurretako asko blokeatzen ditu { -brand-short-name }(e)k.
 content-blocking-learn-more = Argibide gehiago
+content-blocking-fpi-incompatibility-warning = Lehenengoen isolazioa (FPI, First Party Isolation) ari zara erabiltzen, zeinak { -brand-short-name }(r)en cookie-ezarpenak gainidazten dituen.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -982,6 +983,7 @@ content-blocking-cryptominers = Kriptomeatzariak
 content-blocking-fingerprinters = Hatz-marka bidezko jarraipena egiten duten elementuak
 content-blocking-warning-title = Argi!
 content-blocking-and-isolating-etp-warning-description = Jarraipen-elementuak blokeatuz eta cookieak bakartuz gero, zenbait gunetako eginbideak kaltetu litezke. Eduki guztiak kargatzeko, berritu jarraipen-elementuak dituen orria.
+content-blocking-and-isolating-etp-warning-description-2 = Hainbat webgunek edukiak ondo ez bistaratzea edo ondo ez ibiltzea eragin lezake ezarpen honek. Gune batek hondatua badirudi, gune horretarako jarraipenaren-babesa desgaitu nahiko duzu eduki guztia karga dadin.
 content-blocking-warning-learn-how = Ikasi nola
 content-blocking-reload-description = Zure fitxak berritu beharko dituzu aldaketa hauek eragina izan dezaten.
 content-blocking-reload-tabs-button =
@@ -1155,6 +1157,7 @@ space-alert-under-5gb-message = { -brand-short-name } leku erabilgarririk gabe g
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only modua
+httpsonly-description = HTTPSk konexio seguru eta zifratua eskaintzen du { -brand-short-name } eta bisitatzen dituzun webguneen artean. Webgune gehienek HTTPS onartzen du eta HTTPS-Only modua gaituta badago, orduan { -brand-short-name }(e)k konexio guztiak HTTPSra bihurtuko ditu.
 httpsonly-learn-more = Argibide gehiago
 httpsonly-radio-enabled =
     .label = Gaitu HTTPS-Only modua leiho guztietan
