@@ -527,6 +527,10 @@ bookmarks-show-all-bookmarks =
     .label = Rodyti visą adresyną
 bookmarks-recent-bookmarks =
     .value = Paskiausiai įtraukti į adresyną
+bookmarks-manage-bookmarks =
+    .label = Tvarkyti adresyną
+bookmarks-recent-bookmarks-panel =
+    .value = Paskiausi adresyno įrašai
 bookmarks-toolbar-chevron =
     .tooltiptext = Kiti adresai
 bookmarks-sidebar-content =
@@ -550,6 +554,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Rodyti adresyno juostą
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Slėpti adresyno juostą
+           *[other] Rodyti adresyno juostą
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Slėpti adresyno juostą
@@ -580,6 +590,9 @@ bookmarks-toolbar-placeholder =
     .title = Adresyno juostos elementai
 bookmarks-toolbar-placeholder-button =
     .label = Adresyno juostos elementai
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Įrašyti šią kortelę į adresyną
 
 ## Library Panel items
 
