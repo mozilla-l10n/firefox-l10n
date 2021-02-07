@@ -210,12 +210,18 @@ cfr-doorhanger-cryptominers-description = Jūsų privatumas yra svarbus. „{ -b
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elemento nuo { $date }!
         [few] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų nuo { $date }!
        *[other] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų nuo { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] Nuo { DATETIME($date, month: "long", year: "numeric") } „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elemento!
+        [few] Nuo { DATETIME($date, month: "long", year: "numeric") } „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų!
+       *[other] Nuo { DATETIME($date, month: "long", year: "numeric") } „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų!
     }
 cfr-doorhanger-milestone-ok-button = Rodyti viską
     .accesskey = R
@@ -299,3 +305,8 @@ cfr-whatsnew-supercookies-body = Svetainės gali slapta prieš jūsų naršyklė
 
 cfr-whatsnew-bookmarking-header = Geresnis adresynas
 cfr-whatsnew-bookmarking-body = Dabar dar lengviau sekti savo mėgstamas svetaines. „{ -brand-short-name }“ nuo šiol įsimena jūsų adresyno įrašų vietą, rodo adresyno juostą naujose kortelėse, ir suteikia jums lengvą priėjimą prie likusio adresyno per priemonių juostos aplanką.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Išsami apsauga nuo tarp svetainių veikiančių slapukų sekimo
+cfr-whatsnew-cross-site-tracking-body = Dabar galite naudotis geresne apsauga nuo slapukų sekimo. „{ -brand-short-name }“ gali izoliuoti jūsų veiklą ir duomenis naršomoje svetainėje, tad naršyklėje esanti informacija nepasiekia kitų svetainių.
