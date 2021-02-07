@@ -129,13 +129,22 @@ monitor-view-report-link = Ikusi txostena
 monitor-breaches-unresolved-title = Ebatzi zure datu-urratzeak
 monitor-manage-breaches-link = Kudeatu datu-urratzeak
     .title = Kudeatu datu-urratzeak { -monitor-brand-short-name }(e)n
+monitor-breaches-resolved-title = Zoragarri! Ezagutzen diren datu-urratze guztiak ebatzi dituzu.
 monitor-breaches-resolved-description = Zure helbide elektronikoa datu-urratze berriren batean agertuko balitz, jakinarazi egingo dizugu.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreaches } / { $numBreachesResolved } datu-urratze ebatzitako gisa markatu dira
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = %{ $percentageResolved } osatuta
 monitor-partial-breaches-motivation-title-start = Hasiera ona!
 monitor-partial-breaches-motivation-title-middle = Eutsi horri!
 monitor-partial-breaches-motivation-title-end = Ia eginda! Eutsi horri.
+monitor-partial-breaches-motivation-description = Ebatzi { -monitor-brand-short-name }(e)n gelditzen zaizkizun datu-urratzeak.
 monitor-resolve-breaches-link = Ebatzi datu-urratzeak
     .title = Ebatzi { -monitor-brand-short-name }-eko datu-urratzeak
 
