@@ -285,10 +285,15 @@ cfr-whatsnew-search-shortcuts-body = Orain, bilaketa-motor edo gune zehatz bat h
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Supercookie maltzurren aurkako babesa
+cfr-whatsnew-supercookies-body = Webguneek zure nabigatzailean "supercookie" sekretu bat erants dezakete eta webeko zure jarduna jarraitu; zuk cookieak garbitu ondoren ere bai. { -brand-short-name }(e)k orain supercookie hauen aurkako babes sendoa eskaintzen du, zure online jardueraren jarraipenik ez egiteko gune batetik bestera.
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Laster-marka hobeak
+cfr-whatsnew-bookmarking-body = Errazagoa da zure gogoko guneak kontrolpean izatea. Gordetako laster-marken kokaleku gogokoena gogoratzen du orain { -brand-short-name }(e)k, laster-marken tresna-barra lehenespenez erakusten da fitxa berrietan eta gainerako laster-marketarako sarbide erraza ematen zaizu tresna-barrako karpetaren bidez.
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Guneen arteko cookien jarraipenaren aurkako babes sakona
+cfr-whatsnew-cross-site-tracking-body = Cookien jarraipenaren aurkako babes hobeagoa izatea aukera dezakezu orain. { -brand-short-name }(e)k zure ekintzak eta datuak uneko gunearen testuingurura isola ditzake, nabigatzailean gordetako informazioa webguneen artean parteka ez dadin.
