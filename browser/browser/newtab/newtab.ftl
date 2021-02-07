@@ -227,12 +227,15 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Babesleen lasterbideak
 newtab-custom-pocket-title = { -pocket-brand-name }-ek gomendatua
+newtab-custom-pocket-subtitle = { -brand-product-name } familiakide den { -pocket-brand-name }-eko taldeak hautatutako aparteko edukia.
 newtab-custom-pocket-sponsored = Babesleen istorioak
 newtab-custom-recent-title = Azken jarduera
+newtab-custom-recent-subtitle = Azken gune eta edukien hautapena
 newtab-custom-close-button = Itxi
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Mezu-zatiak
+newtab-custom-snippets-subtitle = { -vendor-short-name } eta { -brand-product-name }(r)en aholku eta albisteak
 newtab-custom-settings = Kudeatu ezarpen gehiago

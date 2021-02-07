@@ -200,11 +200,15 @@ cfr-doorhanger-cryptominers-description = Garrantzitsua da zure pribatutasuna. K
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name }(e)k <b>{ $blockedCount }</b> jarraipen-elementu baino gehiago blokeatu ditu data honetatik aurrera: { $date }
        *[other] { -brand-short-name }(e)k <b>{ $blockedCount }</b> jarraipen-elementu baino gehiago blokeatu ditu data honetatik aurrera: { $date }
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name }(e)k <b>{ $blockedCount }</b> jarraipen-elementu baino gehiago blokeatu ditu { DATETIME($date, month: "long", year: "numeric") }-z geroztik!
     }
 cfr-doorhanger-milestone-ok-button = Ikusi guztiak
     .accesskey = I
@@ -235,6 +239,7 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bideoa beste leiho batean eginbideko ikon
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Babesak laburrean
+cfr-whatsnew-protections-body = Babesen panelak datu-urratzeen eta pasahitz-kudeaketaren inguruko laburpen-txostenak ditu. Ebatzi dituzun urratzeen jarraipena egin dezakezu orain eta gordetako zure pasahitzen bat datu-urratzeren batean agerian utzi den ikusi.
 cfr-whatsnew-protections-cta-link = Ikusi babesen arbela
 cfr-whatsnew-protections-icon-alt = Babesaren ikonoa
 
@@ -284,3 +289,6 @@ cfr-whatsnew-search-shortcuts-body = Orain, bilaketa-motor edo gune zehatz bat h
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Laster-marka hobeak
+
+## What's new: Cross-site cookie tracking
+

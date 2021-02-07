@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Dagoeneko baduzu kontua?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Hasi saioa
 onboarding-start-browsing-button-label = Hasi nabigatzen
-onboarding-not-now-button-label = Orain ez
 onboarding-cards-dismiss =
     .title = Baztertu
     .aria-label = Baztertu
@@ -86,94 +85,6 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Jaso jakinarazpenak zure informazio pertsonala datu-urratze ezagun batean badago.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Kudeatu pasahitzak, babespean eta eramangarri.
-
-## Custom Return To AMO onboarding strings
-
-return-to-amo-subtitle = Oso ondo, { -brand-short-name } darabilzu
-# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Orain eskura dezagun zuretzat <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
-return-to-amo-add-extension-label = Gehitu hedapena
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Ongi etorri <span data-l10n-name="zap">{ -brand-short-name }</span>(e)ra
-onboarding-multistage-welcome-subtitle = Irabazi-asmorik gabeko erakunde batek babestutako nabigatzaile azkar, seguru eta pribatua.
-onboarding-multistage-welcome-primary-button-label = Hasi konfigurazioa
-onboarding-multistage-welcome-secondary-button-label = Hasi saioa
-onboarding-multistage-welcome-secondary-button-text = Kontua baduzu?
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Inportatu zure pasahitzak, <br/>laster-markak eta <span data-l10n-name="zap">gehiago</span>
-onboarding-multistage-import-subtitle = Beste nabigatzaile batetik zatoz? Erraza da dena { -brand-short-name }(e)ra ekartzea.
-onboarding-multistage-import-primary-button-label = Hasi inportatze-prozesua
-onboarding-multistage-import-secondary-button-label = Orain ez
-# Info displayed in the footer of import settings screen during onboarding flow.
-# This supports welcome screen showing top sites imported from the user's default browser.
-onboarding-import-sites-disclaimer = Hemen zerrendatutako guneak aurkitu dira gailu honetan. { -brand-short-name }(e)k ez du beste nabigatzaile batetik daturik gordetzen edo sinkronizatzen zuk inportatzeko eskatuta ez bada.
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Aukeratu <span data-l10n-name="zap">itxura</span>
-onboarding-multistage-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
-onboarding-multistage-theme-primary-button-label = Gorde itxura
-onboarding-multistage-theme-secondary-button-label = Orain ez
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = Automatikoa
-onboarding-multistage-theme-label-light = Argia
-onboarding-multistage-theme-label-dark = Iluna
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title =
-        Heredatu sistema-eragilearen itxura
-        
-        sistemaren botoi, menu eta leihoentzat.
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description =
-        Heredatu sistema-eragilearen itxura
-        sistemaren botoi, menu eta leihoentzat.
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title =
-        Erabili itxura argia botoi,
-        menu eta leihoentzat.
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description =
-        Erabili itxura argia botoi,
-        menu eta leihoentzat.
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title =
-        Erabili itxura iluna botoi,
-        menu eta leihoentzat.
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description =
-        Erabili itxura iluna botoi,
-        menu eta leihoentzat.
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title =
-        Erabili itxura koloretsua botoi,
-        menu eta leihoentzat.
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description =
-        Erabili itxura koloretsua botoi,
-        menu eta leihoentzat.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -234,3 +145,98 @@ return-to-amo-sub-header = Oso ondo, { -brand-short-name } darabilzu
 return-to-amo-addon-header = Orain eskura dezagun zuretzat <icon></icon><b>{ $addon-name }</b>.
 return-to-amo-extension-button = Gehitu hedapena
 return-to-amo-get-started-button = Hasi { -brand-short-name } erabiltzen
+onboarding-not-now-button-label = Orain ez
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Oso ondo, { -brand-short-name } darabilzu
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Orain eskura dezagun zuretzat <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Gehitu hedapena
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Ongi etorri <span data-l10n-name="zap">{ -brand-short-name }</span>(e)ra
+onboarding-multistage-welcome-subtitle = Irabazi-asmorik gabeko erakunde batek babestutako nabigatzaile azkar, seguru eta pribatua.
+onboarding-multistage-welcome-primary-button-label = Hasi konfigurazioa
+onboarding-multistage-welcome-secondary-button-label = Hasi saioa
+onboarding-multistage-welcome-secondary-button-text = Kontua baduzu?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Inportatu zure pasahitzak, <br/>laster-markak eta <span data-l10n-name="zap">gehiago</span>
+onboarding-multistage-import-subtitle = Beste nabigatzaile batetik zatoz? Erraza da dena { -brand-short-name }(e)ra ekartzea.
+onboarding-multistage-import-primary-button-label = Hasi inportatze-prozesua
+onboarding-multistage-import-secondary-button-label = Orain ez
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Hemen zerrendatutako guneak aurkitu dira gailu honetan. { -brand-short-name }(e)k ez du beste nabigatzaile batetik daturik gordetzen edo sinkronizatzen zuk inportatzeko eskatuta ez bada.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Hasi erabiltzen: { $total } / { $current }. pantaila
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Aukeratu <span data-l10n-name="zap">itxura</span>
+onboarding-multistage-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
+onboarding-multistage-theme-primary-button-label = Gorde itxura
+onboarding-multistage-theme-secondary-button-label = Orain ez
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatikoa
+onboarding-multistage-theme-label-light = Argia
+onboarding-multistage-theme-label-dark = Iluna
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Heredatu sistema-eragilearen itxura
+        
+        sistemaren botoi, menu eta leihoentzat.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Heredatu sistema-eragilearen itxura
+        sistemaren botoi, menu eta leihoentzat.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Erabili itxura argia botoi,
+        menu eta leihoentzat.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Erabili itxura argia botoi,
+        menu eta leihoentzat.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Erabili itxura iluna botoi,
+        menu eta leihoentzat.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Erabili itxura iluna botoi,
+        menu eta leihoentzat.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Erabili itxura koloretsua botoi,
+        menu eta leihoentzat.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Erabili itxura koloretsua botoi,
+        menu eta leihoentzat.
