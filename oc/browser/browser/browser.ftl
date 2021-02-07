@@ -511,6 +511,7 @@ pointerlock-warning-no-domain = Aqueste document a lo contraròtle sul vòstre g
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Part d’aquesta pagina a fracassat.</strong> Per notificar { -brand-product-name } d’aqueste problèma e que siá reglat, enviatz un rapòrt.
 crashed-subframe-learnmore =
     .label = Ne saber mai
     .accesskey = N

@@ -212,6 +212,11 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } a blocat <b>{ $blockedCount }</b> traçador dempuèi { $date } !
        *[other] { -brand-short-name } a blocat <b>{ $blockedCount }</b> traçadors dempuèi { $date } !
     }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } a blocat mai de <b>{ $blockedCount }</b> traçador dempuèi lo { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } a blocat mai de <b>{ $blockedCount }</b> traçadors dempuèi lo { DATETIME($date, month: "long", year: "numeric") }
+    }
 cfr-doorhanger-milestone-ok-button = O mostrar tot
     .accesskey = m
 cfr-doorhanger-milestone-close-button = Tampar

@@ -57,6 +57,10 @@ perftools-button-edit-settings = Modificar los paramètres…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-img-decoder =
+    .title = Filas de decodatge d’imatge
+perftools-thread-dns-resolver =
+    .title = La resolucion DNS se passa sus aqueste fial
 
 ##
 
