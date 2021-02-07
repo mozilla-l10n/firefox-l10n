@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Mostrar todos los marcadores
 bookmarks-recent-bookmarks =
     .value = Añadidos recientemente
+bookmarks-manage-bookmarks =
+    .label = Administrar marcadores
+bookmarks-recent-bookmarks-panel =
+    .value = Marcadores recientes
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostrar más marcadores
 bookmarks-sidebar-content =
@@ -553,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Ocultar barra de herramientas de marcadores
            *[other] Ver la barra de marcadores
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Ocultar la barra de marcadores
+           *[other] Mostrar la barra de marcadores
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -578,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Elementos de la barra de herramientas de marcadores
 bookmarks-toolbar-placeholder-button =
     .label = Elementos de la barra de herramientas de marcadores
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Añadir pestaña actual a marcadores
 
 ## Library Panel items
 
