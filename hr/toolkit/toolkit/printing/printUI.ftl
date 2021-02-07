@@ -18,14 +18,6 @@ printui-page-range-custom = Prilagođeno
 printui-page-range-label = Stranice
 printui-page-range-picker =
     .aria-label = Odaberi raspon stranica
-printui-page-custom-range =
-    .aria-label = Unesi prilagođeni raspon stranica
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Od
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = do
 printui-page-custom-range-input =
     .aria-label = Unesi prilagođeni raspon stranica
     .placeholder = npr. 2-6, 9, 12-16
@@ -60,7 +52,6 @@ printui-margins = Margine
 printui-margins-default = Zadano
 printui-margins-min = Minimalno
 printui-margins-none = Bez
-printui-margins-custom = Prilagođeno
 printui-margins-custom-inches = Prilagođeno (inči)
 printui-margins-custom-top = Vrh
 printui-margins-custom-top-inches = Vrh (inči)
@@ -84,6 +75,7 @@ printui-pages-per-sheet = Stranica po listu
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Ispisivanje…
+printui-print-progress-indicator-saving = Spremanje…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
