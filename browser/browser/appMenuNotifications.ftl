@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = E
     .secondarybuttonlabel = Orain ez
     .secondarybuttonaccesskey = z
+appmenu-update-other-instance-message = { -brand-shorter-name }(r)en eguneraketa berri bat erabilgarri dago baina ezin da instalatu { -brand-shorter-name }(r)en beste kopia bat martxan dagoelako. Itxi ezazu eguneraketarekin jarraitzeko edo aukeratu edozein modutan eguneratzeko (beste kopia agian ez da ondo ibiliko berrabiarazi arte).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ados, ulertuta
     .buttonaccesskey = u

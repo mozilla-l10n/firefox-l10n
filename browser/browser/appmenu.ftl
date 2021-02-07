@@ -67,11 +67,15 @@ profiler-popup-reveal-description-button =
     .aria-label = Agerrarazi informazio gehiago
 profiler-popup-description-title =
     .value = Grabatu, analizatu, partekatu
+profiler-popup-description = Elkarrekin lan egin errendimenduaren gaineko arazoetan, zure taldearekin partekatzeko profilak argitaratuz.
 profiler-popup-learn-more = Argibide gehiago
 profiler-popup-settings =
     .value = Ezarpenak
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editatu ezarpenak…
+profiler-popup-disabled =
+    Profil sortzailea une honetan desgaituta dago, ziurrenik nabigatze pribatuko
+    leihoa zabalik dagoelako.
 profiler-popup-recording-screen = Grabatzen…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
