@@ -6,7 +6,7 @@
 ## App Menu
 
 appmenuitem-update-banner =
-    .label-update-downloading = Preuzimanje { -brand-shorter-name } nadogradnje
+    .label-update-downloading = Preuzimanje nadogradnje za { -brand-shorter-name }
 appmenuitem-protection-dashboard-title = Nadzorna ploča zaštite
 appmenuitem-customize-mode =
     .label = Prilagodi …
@@ -17,8 +17,20 @@ appmenuitem-new-window =
     .label = Novi prozor
 appmenuitem-new-private-window =
     .label = Novi privatni prozor
+appmenuitem-passwords =
+    .label = Lozinke
+appmenuitem-extensions-and-themes =
+    .label = Ekstenzije i motivi
 appmenuitem-find-in-page =
     .label = Pronađi na stranici …
+appmenuitem-more-tools =
+    .label = Više alata
+appmenuitem-exit =
+    .label = Izlaz
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Postavke
 
 ## Zoom and Fullscreen Controls
 
@@ -55,6 +67,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Otkrij više informacija
 profiler-popup-description-title =
     .value = Snimi, analiziraj, dijeli
+profiler-popup-description = Surađuj na problemima izvedbe objavljivanjem profila koje ćeš podijeliti sa svojim timom.
 profiler-popup-learn-more = Saznaj više
 profiler-popup-settings =
     .value = Postavke
@@ -72,9 +85,21 @@ profiler-popup-discard-button =
     .label = Odbaci
 profiler-popup-capture-button =
     .label = Snimi
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Pomoć za { -brand-shorter-name }
 appmenu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -90,6 +115,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Tipkovnički prečaci
     .accesskey = k
+appmenu-get-help =
+    .label = Potraži pomoć
+    .accesskey = p
 appmenu-help-troubleshooting-info =
     .label = Rješavanje problema
     .accesskey = R
