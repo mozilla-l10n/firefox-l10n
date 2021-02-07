@@ -98,6 +98,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = „{ -brand-shorter-name }“ žinynas
 appmenu-about =
     .label = Apie „{ -brand-shorter-name }“
     .accesskey = A
@@ -113,6 +115,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Spartieji klavišai
     .accesskey = k
+appmenu-get-help =
+    .label = Žinynas ir pagalba
+    .accesskey = Ž
 appmenu-help-troubleshooting-info =
     .label = Informacija problemų sprendimui
     .accesskey = r
