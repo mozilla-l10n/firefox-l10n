@@ -133,6 +133,7 @@ restart-in-safe-mode-label = Berrabiarazi gehigarriak desgaituta…
 clear-startup-cache-title = Saiatu abioko cachea garbitzen
 clear-startup-cache-label = Garbitu abioko cachea…
 startup-cache-dialog-title = Garbitu abioko cachea
+startup-cache-dialog-body = Berrabiarazi { -brand-short-name } abioko cachea garbitzeko. Honek ez du zure ezarpenik aldatuko edo { -brand-short-name }(e)n gehitu duzun gehigarririk kenduko.
 restart-button-label = Berrabiarazi
 
 ## Media titles
@@ -140,6 +141,7 @@ restart-button-label = Berrabiarazi
 audio-backend = Audio backend-a
 max-audio-channels = Gehienezko kanalak
 sample-rate = Hobetsitako lagin-abiadura
+roundtrip-latency = Joan-etorriaren latentzia (desbideratze estandarra)
 media-title = Multimedia
 media-output-devices-title = Irteerako gailuak
 media-input-devices-title = Sarrerako gailuak
@@ -183,12 +185,16 @@ remote-debugging-url = URLa
 
 ##
 
+support-third-party-modules-title = Hirugarrenen moduluak
+support-third-party-modules-module = Modulu-fitxategia
 support-third-party-modules-version = Fitxategiaren bertsioa
 support-third-party-modules-vendor = Hornitzailearen informazioa
 support-third-party-modules-occurrence = Gertaerak
 support-third-party-modules-process = Prozesu mota eta IDa
 support-third-party-modules-thread = Haria
 support-third-party-modules-base = Imagebase helbidea
+support-third-party-modules-uptime = Prozesuaren jardun-denbora (ms)
+support-third-party-modules-duration = Kargatzearen iraupena (ms)
 support-third-party-modules-status = Egoera
 support-third-party-modules-status-loaded = Kargatuta
 support-third-party-modules-status-blocked = Blokeatuta
@@ -299,6 +305,9 @@ blocklisted-bug = Arazo ezagunengatik zerrenda beltzean
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = { $bugNumber }. buga
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Zerrenda beltzean arazo ezagunak direla-eta: <a data-l10n-name="bug-link">{ $bugNumber } buga</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zerrenda beltzean; { $failureCode } hutsegite-kodea
