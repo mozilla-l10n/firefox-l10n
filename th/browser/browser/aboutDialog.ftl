@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = ร
 update-checkingForUpdates = กำลังตรวจสอบการอัปเดต…
 update-downloading = <img data-l10n-name="icon"/>กำลังดาวน์โหลดการอัปเดต — <label data-l10n-name="download-status"/>
+update-downloading-message = กำลังดาวน์โหลดอัปเดต — <label data-l10n-name="download-status"/>
 update-applying = กำลังติดตั้งการอัปเดต…
 update-failed = การอัปเดตล้มเหลว <label data-l10n-name="failed-link">ดาวน์โหลดรุ่นล่าสุด</label>
 update-failed-main = การอัปเดตล้มเหลว <a data-l10n-name="failed-link-main">ดาวน์โหลดรุ่นล่าสุด</a>

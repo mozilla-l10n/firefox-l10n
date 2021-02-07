@@ -294,6 +294,12 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = เสร็จสิ้น
 about-logins-import-dialog-error-title = ข้อผิดพลาดในการนำเข้า
+about-logins-import-dialog-error-file-format-title = ปัญหารูปแบบไฟล์
+about-logins-import-dialog-error-file-permission-title = ไม่สามารถอ่านไฟล์
+about-logins-import-dialog-error-unable-to-read-title = ไม่สามารถแยกวิเคราะห์ไฟล์
+about-logins-import-dialog-error-unable-to-read-description = ตรวจสอบว่าคุณได้เลือกไฟล์ CSV หรือ TSV
+about-logins-import-dialog-error-no-logins-imported = ไม่มีการนำเข้าข้อมูลเข้าสู่ระบบ
+about-logins-import-dialog-error-learn-more = เรียนรู้เพิ่มเติม
 about-logins-import-dialog-error-try-again = ลองอีกครั้ง…
 about-logins-import-dialog-error-cancel = ยกเลิก
 
