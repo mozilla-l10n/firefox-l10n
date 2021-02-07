@@ -294,8 +294,11 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = เสร็จสิ้น
 about-logins-import-dialog-error-title = ข้อผิดพลาดในการนำเข้า
+about-logins-import-dialog-error-conflicting-values-title = มีค่าขัดแย้งหลายค่าสำหรับการเข้าสู่ระบบครั้งเดียว
 about-logins-import-dialog-error-file-format-title = ปัญหารูปแบบไฟล์
+about-logins-import-dialog-error-file-format-description = ส่วนหัวคอลัมน์ไม่ถูกต้องหรือขาดหายไป ตรวจสอบว่าไฟล์มีคอลัมน์สำหรับชื่อผู้ใช้ รหัสผ่านและ URL
 about-logins-import-dialog-error-file-permission-title = ไม่สามารถอ่านไฟล์
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } ไม่มีสิทธิ์อ่านไฟล์ ให้ลองเปลี่ยนสิทธิ์ของไฟล์ดู
 about-logins-import-dialog-error-unable-to-read-title = ไม่สามารถแยกวิเคราะห์ไฟล์
 about-logins-import-dialog-error-unable-to-read-description = ตรวจสอบว่าคุณได้เลือกไฟล์ CSV หรือ TSV
 about-logins-import-dialog-error-no-logins-imported = ไม่มีการนำเข้าข้อมูลเข้าสู่ระบบ

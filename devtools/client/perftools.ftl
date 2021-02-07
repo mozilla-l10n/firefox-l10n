@@ -24,16 +24,20 @@ perftools-heading-features-experimental = การทดลอง
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-label = ช่วงการสุ่มตัวอย่าง:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } มิลลิวินาที
 
 ##
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = ขนาดบัฟเฟอร์:
+perftools-custom-threads-label = เพิ่มหัวข้อที่กำหนดเองตามชื่อ:
 perftools-devtools-interval-label = ช่วงเวลา:
 perftools-devtools-settings-label = การตั้งค่า
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = การบันทึกถูกหยุดโดยเครื่องมืออื่น
+perftools-status-restart-required = ต้องเริ่มการทำงานเบราว์เซอร์ใหม่เพื่อเปิดใช้งานคุณลักษณะนี้
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -46,11 +50,14 @@ perftools-button-start-recording = เริ่มการบันทึก
 perftools-button-cancel-recording = ยกเลิกการบันทึก
 perftools-button-save-settings = บันทึกการตั้งค่าและย้อนกลับ
 perftools-button-restart = เริ่มการทำงานใหม่
+perftools-button-add-directory = เพิ่มไดเร็กทอรี
 perftools-button-remove-directory = เอาที่เลือกออก
 perftools-button-edit-settings = แก้ไขการตั้งค่า…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-img-decoder =
+    .title = เธรดการถอดรหัสรูปภาพ
 
 ##
 
