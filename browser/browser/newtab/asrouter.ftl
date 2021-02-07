@@ -209,8 +209,7 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } bloqueado en <b>{ $blockCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }!
-       *[other] { -brand-short-name } bloqueado en <b>{ $blockCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } bloqueado en <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = V
