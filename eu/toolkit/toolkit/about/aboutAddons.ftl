@@ -370,6 +370,17 @@ addon-detail-private-browsing-disallow = Ez baimendu
 addon-badge-recommended2 =
     .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
     .aria-label = { addon-badge-recommended2.title }
+addon-badge-line2 =
+    .title = { -brand-product-name }(r)en egileek sortutako gehigarri ofiziala da hau.
+    .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Mozillak sortutako gehigarri ofiziala. Segurtasun- eta errendimendu-estandarrak betetzen ditu
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = Gehigarri hau berrikusi egin da gure segurtasun- eta errendimendu-estandarrak betetzeko
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -378,6 +389,8 @@ recent-updates-heading = Azken eguneraketak
 release-notes-loading = Kargatzen…
 release-notes-error = Errorea gertatu da bertsio-oharrak kargatzean.
 addon-permissions-empty = Hedapen honek ez du baimenik behar
+addon-permissions-required = Oinarrizko funtzionaltasunerako beharrezko baimenak:
+addon-permissions-optional = Funtzionaltasun gehigarrirako aukerazko baimenak:
 addon-permissions-learnmore = Baimenei buruzko argibide gehiago
 recommended-extensions-heading = Gomendatutako hedapenak
 recommended-themes-heading = Gomendatutako itxurak
