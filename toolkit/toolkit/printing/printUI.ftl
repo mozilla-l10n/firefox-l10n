@@ -17,14 +17,9 @@ printui-page-range-custom = Pertsonalizatua
 printui-page-range-label = Orriak
 printui-page-range-picker =
     .aria-label = Aukeratu orri-barrutia
-printui-page-custom-range =
+printui-page-custom-range-input =
     .aria-label = Idatzi orri-barruti pertsonalizatua
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Hemendik
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = hona
+    .placeholder = adib. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Kopiak
 printui-orientation = Orientazioa
@@ -48,6 +43,7 @@ printui-duplex-checkbox = Inprimatu bi aldeetan
 printui-options = Aukerak
 printui-headers-footers-checkbox = Inprimatu goiburu eta oinak
 printui-backgrounds-checkbox = Inprimatu atzeko planoa
+printui-selection-checkbox = Inprimatu hautapena soilik
 printui-color-mode-label = Kolorearen modua
 printui-color-mode-color = Koloretan
 printui-color-mode-bw = Zuri-beltzean
@@ -55,20 +51,30 @@ printui-margins = Marjinak
 printui-margins-default = Lehenetsia
 printui-margins-min = Gutxienekoa
 printui-margins-none = Bat ere ez
-printui-margins-custom = Pertsonalizatua
+printui-margins-custom-inches = Pertsonalizatua (hazbeteak)
 printui-margins-custom-top = Goia
+printui-margins-custom-top-inches = Goia (hazbeteak)
 printui-margins-custom-bottom = Behea
+printui-margins-custom-bottom-inches = Behea (hazbeteak)
 printui-margins-custom-left = Ezkerra
+printui-margins-custom-left-inches = Ezkerra (hazbeteak)
 printui-margins-custom-right = Eskuina
+printui-margins-custom-right-inches = Eskuina (hazbeteak)
 printui-system-dialog-link = Inprimatu sistemaren elkarrizketa-koadroa erabiliz…
 printui-primary-button = Inprimatu
 printui-primary-button-save = Gorde
 printui-cancel-button = Utzi
+printui-close-button = Itxi
 printui-loading = Aurrebista prestatzen
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Inprimatzeko aurrebista
+printui-pages-per-sheet = Orri-kopurua aldeko
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Inprimatzen…
+printui-print-progress-indicator-saving = Gordetzen…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
