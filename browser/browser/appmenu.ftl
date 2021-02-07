@@ -98,6 +98,11 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Maiusc+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Gestisci cronologia
+
 ## Help panel
 
 appmenu-help-header =
