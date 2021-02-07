@@ -385,15 +385,14 @@ addon-detail-private-browsing-disallow = Не дазваляць
 addon-badge-recommended2 =
     .title = { -brand-product-name } рэкамендуе толькі пашырэнні, якія адпавядаюць нашым стандартам бяспекі і прадукцыйнасці
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Гэта пашырэнне створана распрацоўшчыкамі { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Код гэтага пашырэння правераны на бяспеку
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Гэта афіцыйнае пашырэнне, створанае распрацоўшчыкамі { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Афіцыйнае пашырэнне, створанае Mozilla. Адпавядае стандартам бяспекі і прадукцыйнасці
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Гэта пашырэнне праверана на адпаведнасць нашым стандартам бяспекі і прадукцыйнасці
     .aria-label = { addon-badge-verified2.title }
