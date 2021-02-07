@@ -18,6 +18,7 @@ abuse-report-learnmore =
     ਪੱਕਾ ਨਹੀਂ ਕਿ ਕਿਹੜਾ ਮਸਲਾ ਚੁਣਨਾ ਹੈ?
     <a data-l10n-name="learnmore-link">ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮਾਂ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰਨ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ</a>
 abuse-report-submit-description = ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ (ਚੋਣਵਾਂ)
+abuse-report-submit-note = ਨੋਟ: ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨਾ ਸ਼ਾਮਲ ਕਰੋ (ਜਿਵੇਂ ਕਿ ਨਾਂ, ਈਮੇਲ ਸਿਰਨਾਵਾਂ, ਫ਼ੋਨ ਨੰਬਰ, ਭੂਗੋਲਿਕ ਸਿਰਨਾਵਾਂ)। { -vendor-short-name } ਇਹਨਾਂ ਰਿਪੋਰਟਾਂ ਦਾ ਪੱਕਾ ਰਿਕਾਰਡ ਰੱਖਦਾ ਹੈ।
 
 ## Panel buttons.
 
