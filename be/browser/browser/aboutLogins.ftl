@@ -315,9 +315,11 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Гатова
 about-logins-import-dialog-error-title = Памылка імпарту
+about-logins-import-dialog-error-file-permission-title = Не ўдалося прачытаць файл
 about-logins-import-dialog-error-learn-more = Даведацца больш
 about-logins-import-dialog-error-try-again = Паспрабаваць зноў...
 about-logins-import-dialog-error-cancel = Скасаваць
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Зводная справаздача аб імпарце
