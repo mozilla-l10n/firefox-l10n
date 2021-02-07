@@ -71,6 +71,33 @@ perftools-button-edit-settings = Editar definições…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Os principais processos do processo pai e conteúdo dos processos
+perftools-thread-compositor =
+    .title = Compõe diferentes elementos desenhados na página
+perftools-thread-dom-worker =
+    .title = Isto suporta os web workers e service workers
+perftools-thread-renderer =
+    .title = Quando o WebRender está ativo, a thread que executa as chamadas OpenGL
+perftools-thread-render-backend =
+    .title = A thread RenderBackend do WebRender
+perftools-thread-paint-worker =
+    .title = Quando o desenho fora da thread principal estiver ativo, a thread na qual o desenho acontece
+perftools-thread-style-thread =
+    .title = O estilo de computação é dividido em múltiplas threads
+pref-thread-stream-trans =
+    .title = Transporte de fluxo de rede
+perftools-thread-socket-thread =
+    .title = A thread onde o código de rede executa todas as chamadas de socket bloqueantes
+perftools-thread-img-decoder =
+    .title = Threads de descodificação de imagem
+perftools-thread-dns-resolver =
+    .title = A resolução de DNS acontece nesta thread
+perftools-thread-js-helper =
+    .title = O trabalho de fundo do motor de JS tais como compilações fora da thread principal
 
 ##
 
+perftools-record-all-registered-threads = Ignora as seleções acima e grava todas as threads registadas
+perftools-tools-threads-input-label =
+    .title = Estes nomes de threads são uma lista separada por vírgulas que é utilizada para ativar o profiling das threads no profiler. O nome apenas necessita de ser uma correspondência parcial do nome da thread para ser incluído. É sensível a espaços em branco.

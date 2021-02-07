@@ -206,11 +206,16 @@ cfr-doorhanger-cryptominers-description = A sua privacidade é importante. O { -
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
        *[other] { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] O { -brand-short-name } bloqueou <b>{ $blockedCount }</b> rastreador desde { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] O { -brand-short-name } bloqueou <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Ver tudo
     .accesskey = V
@@ -294,3 +299,7 @@ cfr-whatsnew-supercookies-body = Os sites podem, secretamente, anexar uma “sup
 
 cfr-whatsnew-bookmarking-header = Marcadores melhorados
 cfr-whatsnew-bookmarking-body = É mais fácil seguir os seus sites favoritos. O { -brand-short-name } agora lembra-se da sua localização preferida para os favoritos guardados, mostra a barra de ferramentas de favoritos por predefinição em novos separadores e oferece um acesso fácil ao resto dos seus favoritos através de uma pasta na barra de ferramentas.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Proteção abrangente contra rastreamento de cookies entre sites
