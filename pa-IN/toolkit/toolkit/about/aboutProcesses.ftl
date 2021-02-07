@@ -89,6 +89,12 @@ about-processes-frame-name-many = ਸਬ-ਫਰੇਮ ({ $number }): { $shortUrl
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (ਮਾਪਿਆ ਜਾ ਰਿਹਾ ਹੈ)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = ਵੇਹਲ ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -101,9 +107,27 @@ about-processes-frame-name-many = ਸਬ-ਫਰੇਮ ({ $number }): { $shortUrl
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
+duration-unit-ns = ਨੈ-ਸ
+duration-unit-us = ਮਾ-ਸ
+duration-unit-ms = ਮਿਲੀਸਕਿੰਟ
+duration-unit-s = ਸ
+duration-unit-m = ਮਿੰ
+duration-unit-h = ਘੰ
+duration-unit-d = ਦਿ
 
 ## Memory units
 
+memory-unit-B = ਬਾਈਟ
+memory-unit-KB = KB
+memory-unit-MB = MB
+memory-unit-GB = GB
+memory-unit-TB = TB
+memory-unit-PB = PB
+memory-unit-EB = EB
