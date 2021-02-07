@@ -513,15 +513,23 @@ pointerlock-warning-no-domain = Гэты дакумент кіруе вашым 
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Частка гэтай старонкі пацярпела крах.</strong> Каб паведаміць { -brand-product-name } пра гэту праблему і паскорыць выпраўленне, адпраўце справаздачу.
 crashed-subframe-learnmore =
     .label = Даведацца больш
     .accesskey = Д
+crashed-subframe-submit =
+    .label = Адправіць справаздачу
+    .accesskey = А
 
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
     .label = Паказаць усе закладкі
 bookmarks-recent-bookmarks =
+    .value = Нядаўнія закладкі
+bookmarks-manage-bookmarks =
+    .label = Кіраванне закладкамі
+bookmarks-recent-bookmarks-panel =
     .value = Нядаўнія закладкі
 bookmarks-toolbar-chevron =
     .tooltiptext = Паказаць больш закладак
@@ -546,6 +554,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Паказаць паліцу закладак
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Схаваць паліцу закладак
+           *[other] Паказаць паліцу закладак
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Схаваць паліцу закладак
@@ -576,6 +590,9 @@ bookmarks-toolbar-placeholder =
     .title = Элементы паліцы закладак
 bookmarks-toolbar-placeholder-button =
     .label = Элементы паліцы закладак
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Зрабіць закладку на гэту картку
 
 ## Library Panel items
 
