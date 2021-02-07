@@ -50,6 +50,7 @@ pane-experimental-title = { -brand-short-name } esperimentuak
 category-experimental =
     .tooltiptext = { -brand-short-name } esperimentuak
 pane-experimental-subtitle = Kontuz jarraitu
+pane-experimental-search-results-header = { -brand-short-name } esperimentuak: kontuz jarraitu
 pane-experimental-description = Konfigurazio-hobespen aurreratuak aldatzeak { -brand-short-name }(r)en errendimendu edo segurtasunean eragin lezake.
 pane-experimental-reset =
     .label = Berrezarri lehenespenak
@@ -430,6 +431,9 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Gaitu bideoa beste leiho batean ikusteko kontrolak
     .accesskey = G
 browsing-picture-in-picture-learn-more = Argibide gehiago
+browsing-media-control =
+    .label = Kontrolatu multimedia teklatuaren, kaskoen edo interfaze birtualaren bidez
+    .accesskey = m
 browsing-media-control-learn-more = Argibide gehiago
 browsing-cfr-recommendations =
     .label = Gomendatu hedapenak nabigatu ahala
@@ -508,6 +512,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } hornitzaileak gomendatuta
 home-prefs-recommended-by-description-update = Webeko aparteko edukia, { $provider } hornitzaileak bilduta
+home-prefs-recommended-by-description-new = { -brand-product-name } familiakide den { $provider }-eko taldeak hautatutako aparteko edukia.
 
 ##
 
@@ -527,6 +532,7 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }-en gordetako orriak
 home-prefs-recent-activity-header =
     .label = Azken jarduera
+home-prefs-recent-activity-description = Azken gune eta edukien hautapena
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -534,6 +540,7 @@ home-prefs-recent-activity-header =
 home-prefs-snippets-header =
     .label = Mezu-zatiak
 home-prefs-snippets-description = { -vendor-short-name } eta { -brand-product-name }i buruzko eguneraketak
+home-prefs-snippets-description-new = { -vendor-short-name } eta { -brand-product-name }(r)en aholku eta albisteak
 home-prefs-sections-rows-option =
     .label =
         { $num ->
