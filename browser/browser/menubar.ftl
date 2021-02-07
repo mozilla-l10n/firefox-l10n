@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 # NOTE: For English locales, strings in this file should be in APA-style Title Case.
 # See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
 #
@@ -284,7 +283,6 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
-
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
@@ -292,7 +290,6 @@ menu-window-bring-all-to-front =
 #
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
-
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
@@ -317,6 +314,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = キーボードショートカット
     .accesskey = K
+menu-get-help =
+    .label = ヘルプを表示
+    .accesskey = H
 menu-help-troubleshooting-info =
     .label = トラブルシューティング情報...
     .accesskey = T
@@ -339,3 +339,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = 詐欺サイトの誤報告を指摘...
     .accesskey = d
+menu-help-check-for-update =
+    .label = 更新を確認...
+    .accesskey = C
