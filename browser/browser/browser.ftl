@@ -452,6 +452,9 @@ pointerlock-warning-no-domain = మీ పాయింటర్ ఈ పత్ర
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = ఇంకా తెలుసుకోండి
+    .accesskey = L
 
 ## Bookmarks panels, menus and toolbar
 
@@ -521,6 +524,8 @@ library-bookmarks-bookmark-this-page =
     .label = ఈ పేజీని ఇష్టాంశంగా చేయి
 library-bookmarks-bookmark-edit =
     .label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
+library-recent-activity-title =
+    .value = ఇటీవలి కార్యకలాపం
 
 ## More items
 
