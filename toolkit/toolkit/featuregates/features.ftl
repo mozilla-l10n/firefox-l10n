@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Suporte experimental para permitir
 experimental-features-http3 =
     .label = Protocolo HTTP/3
 experimental-features-http3-description = Suporte experimental para o protocolo HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Barra de endereços: mostrar resultados durante a composição do IME
