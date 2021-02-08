@@ -303,3 +303,4 @@ cfr-whatsnew-bookmarking-body = É mais fácil seguir os seus sites favoritos. O
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Proteção abrangente contra rastreamento de cookies entre sites
+cfr-whatsnew-cross-site-tracking-body = Agora pode optar por obter uma melhor proteção contra as cookies de rastreamento. O { -brand-short-name } pode isolar as suas atividades e dados dos sites que não esteja a visitar, para que as informações armazenadas no navegador não sejam partilhadas entre os sites.
