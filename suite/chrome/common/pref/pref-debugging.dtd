@@ -23,6 +23,15 @@
 <!ENTITY debugPaintDumping.accesskey "a">
 <!ENTITY debugInvalidateDumping.label "Dumping ongeldig maken">
 <!ENTITY debugInvalidateDumping.accesskey "n">
+<!ENTITY debugEventDumping.label "Event Dumping">
+<!ENTITY debugEventDumping.accesskey "E">
+<!ENTITY debugMotionEventDumping.label "Motion Event Dumping">
+<!ENTITY debugMotionEventDumping.accesskey "M">
+<!ENTITY debugCrossingEventDumping.label "Crossing Event Dumping">
+<!ENTITY debugCrossingEventDumping.accesskey "C">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "Reflow Events">
 <!ENTITY debugReflowShowFrameCounts.label        "Aantallen frames tonen">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "A">
+<!ENTITY debugReflowDumpFrameCounts.label        "Aantallen frames dumpen">
