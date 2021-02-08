@@ -64,6 +64,8 @@ profiler-popup-reveal-description-button =
 profiler-popup-learn-more = ఇంకా తెలుసుకోండి
 profiler-popup-settings =
     .value = అమరికలు
+profiler-popup-discard-button =
+    .label = విస్మరించు
 
 ## Help panel
 
