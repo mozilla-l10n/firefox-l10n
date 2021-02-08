@@ -15,6 +15,14 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Gebeurtenissen">
+<!ENTITY debugPaintFlashing.label "Paint Flashing (In-/uitschakelen met Caps Lock)">
+<!ENTITY debugPaintFlashing.accesskey "P">
+<!ENTITY debugPaintFlashingChrome.label "Paint Flashing Chrome">
+<!ENTITY debugPaintFlashingChrome.accesskey "F">
+<!ENTITY debugPaintDumping.label "Paint Dumping">
+<!ENTITY debugPaintDumping.accesskey "a">
+<!ENTITY debugInvalidateDumping.label "Dumping ongeldig maken">
+<!ENTITY debugInvalidateDumping.accesskey "n">
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowShowFrameCounts.label        "Aantallen frames tonen">
