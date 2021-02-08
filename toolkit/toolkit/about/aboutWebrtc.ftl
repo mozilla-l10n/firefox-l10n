@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = ID del compausant
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Debit binari mejan :
+about-webrtc-avg-framerate-label = Taus mejan d’imatge per seconda :
 
 ##
 

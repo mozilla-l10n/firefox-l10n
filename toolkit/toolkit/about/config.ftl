@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Agissètz amb prudéncia
@@ -13,13 +14,11 @@ about-config-intro-warning-button = Prendre lo risc e contunhar
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Modificar aquelas preferéncias pòt damatjar las performanças o l'estabilitat de { -brand-short-name }.
-
 about-config-page-title = Preferéncias avançadas
-
 about-config-search-input1 =
     .placeholder = Recercar un nom de preferéncia
 about-config-show-all = O afichar tot
-
+about-config-show-only-modified = Afichar sonque las preferéncias modificadas
 about-config-pref-add-button =
     .title = Apondre
 about-config-pref-toggle-button =
