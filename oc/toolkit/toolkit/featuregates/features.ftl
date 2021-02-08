@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Presa en carga experimentala de la
 experimental-features-http3 =
     .label = Protocòl HTTP/3
 experimental-features-http3-description = Presa en carga experimentala del protocòl HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Barra d’adreça : afichar los resultats pendent la composicion IME

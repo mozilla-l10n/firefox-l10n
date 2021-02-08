@@ -31,6 +31,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Talha del tap :
+perftools-custom-threads-label = Apondre de fils d’execucion personalizats per nom :
 perftools-devtools-interval-label = Interval :
 perftools-devtools-threads-label = Fils d’execucion :
 perftools-devtools-settings-label = Paramètres
@@ -61,6 +62,8 @@ perftools-button-edit-settings = Modificar los paramètres…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-render-backend =
+    .title = Lo fila d’execucion RenderBackend de WebRender
 perftools-thread-img-decoder =
     .title = Filas de decodatge d’imatge
 perftools-thread-dns-resolver =
