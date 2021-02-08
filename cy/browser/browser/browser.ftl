@@ -533,6 +533,10 @@ bookmarks-show-all-bookmarks =
     .label = Dangos Pob Nod Tudalen
 bookmarks-recent-bookmarks =
     .value = Wedi gosod Nod Tudalen yn Ddiweddar
+bookmarks-manage-bookmarks =
+    .label = Rheoli Nodau Tudalen
+bookmarks-recent-bookmarks-panel =
+    .value = Nodau Tudalen Diweddar
 bookmarks-toolbar-chevron =
     .tooltiptext = Dangos pob ffolder nod tudalen
 bookmarks-sidebar-content =
@@ -561,6 +565,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Cuddio'r Bar Offer Nodau Tudalen
            *[other] Gweld Bar Offer Nodau Tudalen
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Cuddio'r Bar Offer Nodau Tudalen
+           *[other] Dangos y Bar Offer Nodau Tudalen
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -586,6 +596,9 @@ bookmarks-toolbar-placeholder =
     .title = Eitemau Bar Offer Nodau Tudalen
 bookmarks-toolbar-placeholder-button =
     .label = Eitemau Bar Offer Nodau Tudalen
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Gosod Nod Tudalen i'r Tab Cyfredol
 
 ## Library Panel items
 

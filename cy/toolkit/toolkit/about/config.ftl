@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Byddwch Ofalus
@@ -9,19 +10,15 @@ about-config-intro-warning-text = Gall newid dewisiadau ffurfweddiad uwch effeit
 about-config-intro-warning-checkbox = Rhybuddiwch fi pan fyddaf yn ceisio mynd at y dewisiadau hyn
 about-config-intro-warning-button = Derbyn y Perygl a Pharhau
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Gall newid dewisiadau ffurfweddiad uwch effeithio ar berfformiad neu ddiogelwch { -brand-short-name }.
-
 about-config-page-title = Dewisiadau Uwch
-
 about-config-search-input1 =
     .placeholder = Enw dewis chwilio
 about-config-show-all = Dangos Popeth
-
+about-config-show-only-modified = Dangos dewisiadau wedi'u haddasu yn unig
 about-config-pref-add-button =
     .title = Ychwanegu
 about-config-pref-toggle-button =
