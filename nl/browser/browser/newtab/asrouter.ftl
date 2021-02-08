@@ -206,11 +206,16 @@ cfr-doorhanger-cryptominers-description = Uw privacy is belangrijk. { -brand-sho
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } heeft <b>{ $blockedCount }</b> tracker geblokkeerd sinds { $date }!
        *[other] { -brand-short-name } heeft meer dan <b>{ $blockedCount }</b> trackers geblokkeerd sinds { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } heeft sinds { DATETIME($date, month: "long", year: "numeric") } b>{ $blockedCount }</b> tracker geblokkeerd!
+       *[other] { -brand-short-name } heeft sinds { DATETIME($date, month: "long", year: "numeric") } meer dan <b>{ $blockedCount }</b> trackers geblokkeerd!
     }
 cfr-doorhanger-milestone-ok-button = Alles bekijken
     .accesskey = A
@@ -294,3 +299,7 @@ cfr-whatsnew-supercookies-body = Websites kunnen stiekem een ‘supercookie’ a
 
 cfr-whatsnew-bookmarking-header = Beter bladwijzers maken
 cfr-whatsnew-bookmarking-body = Het is gemakkelijker om uw favoriete websites bij te houden. { -brand-short-name } onthoudt nu uw voorkeurslocatie voor opgeslagen bladwijzers, toont de bladwijzerwerkbalk standaard op nieuwe tabbladen en geeft u eenvoudige toegang tot de rest van uw bladwijzers via een werkbalkmap.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Uitgebreide bescherming tegen volgen door cross-site-cookies

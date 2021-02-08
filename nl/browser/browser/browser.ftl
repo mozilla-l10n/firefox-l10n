@@ -590,6 +590,9 @@ bookmarks-toolbar-placeholder =
     .title = Bladwijzerwerkbalkitems
 bookmarks-toolbar-placeholder-button =
     .label = Bladwijzerwerkbalkitems
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Bladwijzer voor huidige tabblad maken
 
 ## Library Panel items
 
