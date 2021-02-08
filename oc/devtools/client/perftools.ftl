@@ -7,6 +7,7 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+perftools-intro-title = Paramètres del perfilador
 
 ## All of the headings for the various sections.
 
@@ -36,6 +37,9 @@ perftools-devtools-settings-label = Paramètres
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Lo perfilador es desactivat quand la navegacion privada es activa.
+    Tampatz totas las fenèstras privadas per tornar activar lo perfilador
 perftools-status-recording-stopped-by-another-tool = Una autra aisina a arrestat l’enregistrament.
 perftools-status-restart-required = Aquesta foncionalitat requerís la reaviada del navegador.
 
