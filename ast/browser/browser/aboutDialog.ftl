@@ -5,18 +5,23 @@
 aboutDialog-title =
     .title = Tocante a { -brand-full-name }
 releaseNotes-link = Novedaes
+update-updateButton =
+    .label = Reaniciar p'anovar { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Comprobando los anovamientos…
 update-applying = Aplicando l'anovamientu…
 update-failed = L'anovamientu falló. <label data-l10n-name="failed-link">Baxa la última versión</label>
 update-failed-main = L'anovamientu falló. <a data-l10n-name="failed-link-main">Baxa la última versión</a>
 update-adminDisabled = L'alministrador del sistema desactivó los anovamientos
 update-noUpdatesFound = { -brand-short-name } ta anováu
+update-otherInstanceHandlingUpdates = Otra instancia ta anovando { -brand-short-name }
 update-manual = Hai anovamientos disponibles en <label data-l10n-name="manual-link"/>
 update-unsupported = Yá nun vas poder anovar más nesti sistema.<label data-l10n-name="unsupported-link">Deprendi más</label>
 update-restarting = Reaniciando…
 channel-description = Anguaño tas na canal <label data-l10n-name="current-channel"></label> d'anovamientos. 
 warningDesc-version = { -brand-short-name } ye esperimental y pue ser inestable.
 aboutdialog-help-user = Ayuda de { -brand-product-name }
+aboutdialog-submit-feedback = Opinar
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ye una <label data-l10n-name="community-exp-creditsLink">comunidá global</label> que trabaya xunida pa caltener la web abierta, pública y accesible pa tol mundu.
 community-2 = { -brand-short-name } ta diseñáu por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunidá global</label> que trabaya xunida pa caltener la web abierta, pública y accesible pa tol mundu.
 helpus = ¿Quies ayudar? ¡<label data-l10n-name="helpus-donateLink">Fai una donación</label> o <label data-l10n-name="helpus-getInvolvedLink">andecha</label>!
