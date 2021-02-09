@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Alle blêdwizers toane
 bookmarks-recent-bookmarks =
     .value = Resint oanmakke blêdwizers
+bookmarks-manage-bookmarks =
+    .label = Blêdwizers beheare
+bookmarks-recent-bookmarks-panel =
+    .value = Resinte blêdwizers
 bookmarks-toolbar-chevron =
     .tooltiptext = Mear blêdwizers toane
 bookmarks-sidebar-content =
@@ -553,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Blêdwizerarkbalke ferstopje
            *[other] Blêdwizerarkbalke werjaan
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Blêdwizerarkbalke ferstopje
+           *[other] Blêdwizerarkbalke toane
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -578,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Blêdwizerarkbalke-ûnderdiel
 bookmarks-toolbar-placeholder-button =
     .label = Blêdwizerarkbalke-ûnderdiel
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Blêdwizer foar aktuele ljepblêd meitsje
 
 ## Library Panel items
 
