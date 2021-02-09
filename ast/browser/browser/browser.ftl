@@ -168,15 +168,9 @@ identity-description-active-blocked = { -brand-short-name } bloquió partes d'es
 identity-description-passive-loaded = La conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
 identity-description-passive-loaded-insecure = Esti sitiu web contién conteníu que nun ye seguru (como les imáxenes). <label data-l10n-name="link">Deprender más</label>
 identity-description-active-loaded = Esti sitiu web contién conteníu que nun ye seguru (como los scripts) y la conexón a ella nun ye privada.
-identity-description-active-loaded-insecure = La información que compartas con esti sitiu van poder vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
+identity-description-active-loaded-insecure = La información que compartas con esti sitiu podríen vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
 identity-learn-more =
-    .value = Deprendi más
-identity-disable-mixed-content-blocking =
-    .label = Deshabilitar proteición pel momentu
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Habilitar proteición
-    .accesskey = A
+    .value = Deprender más
 identity-more-info-link-text =
     .label = Más información
 
@@ -184,6 +178,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimizar
+browser-window-maximize-button =
+    .tooltiptext = Maximizar
 browser-window-close-button =
     .tooltiptext = Zarrar
 
@@ -201,7 +197,11 @@ popup-select-camera =
 popup-select-microphone =
     .value = Micrófonu pa compartir:
     .accesskey = M
-popup-all-windows-shared = Van compartise toles ventanes visibles na to pantalla.
+popup-all-windows-shared = Van compartise toles ventanes visibles de la pantalla.
+popup-screen-sharing-not-now =
+    .label = Agora non
+    .accesskey = n
+popup-silence-notifications-checkbox-warning = { -brand-short-name } nun va amosar avisos mentanto teas compartiendo.
 
 ## WebRTC window or screen share tab switch warning
 
@@ -211,32 +211,13 @@ popup-all-windows-shared = Van compartise toles ventanes visibles na to pantalla
 
 ## URL Bar
 
-urlbar-default-placeholder =
-    .defaultPlaceholder = Guetar o introducir direición
-# This placeholder is used when not in search mode and the user's default search
-# engine is unknown.
-urlbar-placeholder =
-    .placeholder = Guetar o introducir direición
-urlbar-switch-to-tab =
-    .value = Camudar a la llingüeta:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estensión:
-urlbar-go-button =
-    .tooltiptext = Va a la direición na barra d'allugamientos
-urlbar-page-action-button =
-    .tooltiptext = Aiciones de la páxina
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
-# The "with" format was chosen because the search engine name can end with
-# "Search", and we would like to avoid strings like "Search MSN Search".
-# Variables
-#  $engine (String): the name of a search engine
-urlbar-result-action-search-w-engine = Guetar con { $engine }
-urlbar-result-action-switch-tab = Camudar a la llingüeta
-urlbar-result-action-visit = Visitar
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -248,26 +229,22 @@ urlbar-result-action-visit = Visitar
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
-fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ta agora a pantalla completa
+fullscreen-warning-domain = Agora <span data-l10n-name="domain">{ $domain }</span> ta a pantalla completa
 fullscreen-warning-no-domain = Agora esti documentu ta a pantalla completa
-fullscreen-exit-button = Colar de pantalla completa (Esc)
+fullscreen-exit-button = Colar de la pantalla completa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
-fullscreen-exit-mac-button = Colar de pantalla completa (esc)
+fullscreen-exit-mac-button = Colar de la pantalla completa (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
-pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tien el control del to punteru. Primi Esc pa recuperalu.
-pointerlock-warning-no-domain = Esti documentu tien el control del to punteru. Primi Esc pa recuperalu.
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> tien el control del punteru. Primi Esc pa recuperalu.
+pointerlock-warning-no-domain = Esti documentu tien el control del punteru. Primi Esc pa recuperalu.
 
 ## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
 
-bookmarks-show-all-bookmarks =
-    .label = Amosar tolos marcadores
-bookmarks-recent-bookmarks =
-    .value = Amestao apocayá a marcadores
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar más marcadores
 bookmarks-sidebar-content =
