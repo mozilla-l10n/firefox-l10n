@@ -35,3 +35,4 @@
 <!ENTITY debugReflowShowFrameCounts.label        "Aantallen frames tonen">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "A">
 <!ENTITY debugReflowDumpFrameCounts.label        "Aantallen frames dumpen">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "d">
