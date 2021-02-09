@@ -20,6 +20,10 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Abrir el menú
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importar d'otru restolador…
+about-logins-menu-menuitem-import-from-a-file = Importar d'un ficheru…
+about-logins-menu-menuitem-export-logins = Esportar los anicios de sesión…
 about-logins-menu-menuitem-remove-all-logins = Quitar tolos anicios de sesión…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -48,13 +52,18 @@ login-list-intro-description = Equí van amosase les contraseñes cuando les gua
 about-logins-login-list-empty-search-title = Nun s'atoparon anicios de sesión
 about-logins-login-list-empty-search-description = Nun hai resultaos que concasen cola busca.
 login-list-item-title-new-login = Aniciu de sesión nuevu
-login-list-item-subtitle-new-login = Introduz les credenciales d'aniciu de sesión
+login-list-item-subtitle-new-login = Introduz los datos d'aniciu de sesión
 login-list-item-subtitle-missing-username = (ensin nome d'usuariu)
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
 
 ## Introduction screen
 
+login-intro-heading = ¿Busques los anicios de sesión guardaos? Configura { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = ¿Busques los anicios de sesión guardaos? Configura { -sync-brand-short-name } o impórtalos.
+about-logins-login-intro-heading-logged-in = Nun s'atoparon anicios de sesión sincronizaos.
+login-intro-description = Si guardesti los anicios de sesión nel { -brand-product-name } d'otru preséu, esti ye'l mou de tenelos equí:
+login-intro-instruction-fxa = Crea una { -fxaccount-brand-name } o anicia sesión nel preséu onde se guarden los tos anicios de sesión
 
 ## Login
 
@@ -147,6 +156,9 @@ about-logins-vulnerable-alert-title = Contraseña vulnerable
 
 ## Login Export Dialog
 
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = anicios_sesión.csv
 
 ## Login Import Dialog
 
