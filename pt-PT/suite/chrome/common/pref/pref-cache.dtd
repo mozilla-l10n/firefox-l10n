@@ -29,3 +29,9 @@
 <!ENTITY prefetchTitle.label             "Ligação de pré-carregamento">
 <!ENTITY enablePrefetch.label            "Pré-carregar páginas web quando estiver em espera, para que ligações em páginas web passíveis de pré-carregamento possam ser carregadas mais rapidamente">
 <!ENTITY enablePrefetch.accesskey        "P">
+
+<!ENTITY debugCache.label                "Depuração">
+<!ENTITY debugEnableMemCache.label       "Ativar cache em memória">
+<!ENTITY debugEnableMemCache.accesskey   "e">
+<!ENTITY debugEnableDiskCache.label      "Ativar cache em disco">
+<!ENTITY debugEnableDiskCache.accesskey  "d">
