@@ -348,6 +348,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Reproducziun activa
+browser-tab-audio-muted = Senza tun
 
 ## Bookmarks toolbar items
 
@@ -509,6 +511,13 @@ pointerlock-warning-no-domain = Quest document controllescha il punctader. Smatg
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Ina part da questa pagina è collabada.</strong> Trametta per plaschair in rapport per infurmar { -brand-product-name } davart quest problem e gidar d'al schliar pli svelt.
+crashed-subframe-learnmore =
+    .label = Ulteriuras infurmaziuns
+    .accesskey = l
+crashed-subframe-submit =
+    .label = Trametter il rapport
+    .accesskey = T
 
 ## Bookmarks panels, menus and toolbar
 
@@ -516,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Mussar tut ils segnapaginas
 bookmarks-recent-bookmarks =
     .value = Tschernì dacurt sco segnapagina
+bookmarks-manage-bookmarks =
+    .label = Administrar ils segnapaginas
+bookmarks-recent-bookmarks-panel =
+    .value = Segnapaginas novs
 bookmarks-toolbar-chevron =
     .tooltiptext = Mussar dapli segnapaginas
 bookmarks-sidebar-content =

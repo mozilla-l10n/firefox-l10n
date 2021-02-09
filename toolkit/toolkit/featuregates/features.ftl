@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Sustegn experimental per permetter
 experimental-features-http3 =
     .label = Protocol HTTP/3
 experimental-features-http3-description = Sustegn experimental per il protocol HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Trav d'adressas: mussar resultats durant la cumposiziun IME
+experimental-features-ime-search-description = In IME (Input Method Editor) è in utensil che permetta dad endatar simbols cumplexs sco quels da linguas da l'Asia da l'Ost u da linguas scrittas en l'India, cun agid dad ina tastatura da standard. L'activaziun da quest experiment vegn a laschar avert la panela da la trav d'adressas e mussar resultats e propostas da tschertga durant l'endataziun da text cun l'IME. Remartga: L'IME mussa eventualmain ina panela che cuvra ils resultats da la trav d'adressas. Perquai è questa preferenza mo recumandabla per IMEs che n'utiliseschan betg quest tip da panela.

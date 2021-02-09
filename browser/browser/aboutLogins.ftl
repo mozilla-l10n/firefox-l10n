@@ -298,3 +298,19 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Finì
 about-logins-import-dialog-error-title = Errur d'import
+about-logins-import-dialog-error-conflicting-values-title = Pliras valurs divergentas per ina annunzia
+about-logins-import-dialog-error-conflicting-values-description = Per exempel: plirs nums d'utilisader, pleds-clav, URLs etc. per ina annunzia.
+about-logins-import-dialog-error-file-format-title = Errur dal format da datoteca
+about-logins-import-dialog-error-file-format-description = Chaus da colonna nuncorrects u absents. T'atschertescha che las datotecas cuntegnan colonnas per il num d'utilisader, pled-clav ed URL.
+about-logins-import-dialog-error-file-permission-title = Impussibel da leger la datoteca
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } na dispona betg dals dretgs necessaris per leger la datoteca. Emprova da midar las permissiuns da la datoteca.
+about-logins-import-dialog-error-unable-to-read-title = Impussibel dad elavurar la datoteca
+about-logins-import-dialog-error-unable-to-read-description = Controllescha che ti has tschernì ina datoteca CSV u TSV.
+about-logins-import-dialog-error-no-logins-imported = N'importà naginas datas d'annunzia
+about-logins-import-dialog-error-learn-more = Ulteriuras infurmaziuns
+about-logins-import-dialog-error-try-again = Empruvar anc ina giada…
+about-logins-import-dialog-error-cancel = Interrumper
+
+## Logins import report page
+
+about-logins-import-report-page-title = Rapport da l'import
