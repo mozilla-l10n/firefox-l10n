@@ -179,3 +179,4 @@ about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún ani
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Informe del sumariu de la importación
