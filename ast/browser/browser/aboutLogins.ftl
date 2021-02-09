@@ -8,6 +8,11 @@ about-logins-page-title = Anicios de sesión y contraseñes
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Lleva les contraseñes contigo
+login-filter =
+    .placeholder = Buscar anicios de sesión
+create-login-button = Crear un aniciu de sesión
+fxaccounts-sign-in-text = Consigui les tos contraseñes n'otros preseos
+fxaccounts-sign-in-button = Aniciar sesión en { -sync-brand-short-name }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -36,6 +41,7 @@ about-logins-login-list-alerts-option = Alertes
 
 ## Login
 
+login-item-new-login-title = Creación d'un aniciu de sesión
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome d'usuariu
@@ -47,6 +53,9 @@ login-item-copied-password-button-text = ¡Copióse!
 login-item-save-changes-button = Guardar cambeos
 login-item-save-new-button = Guardar
 login-item-cancel-button = Encaboxar
+login-item-time-changed = Última modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Data de creación: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Últimu usu: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -72,6 +81,7 @@ confirmation-dialog-cancel-button = Encaboxar
 confirmation-dialog-dismiss-button =
     .title = Encaboxar
 confirm-delete-dialog-message = Esta aición nun pue desfacese.
+about-logins-confirm-export-dialog-confirm-button = Esportar…
 confirm-discard-changes-dialog-title = ¿Escartar los cambeos ensin guardar?
 confirm-discard-changes-dialog-message = Van perdese tolos cambeos ensin guardar.
 confirm-discard-changes-dialog-confirm-button = Escartar
@@ -81,6 +91,7 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Contraseña vulnerable
 
 ## Error Messages
 
@@ -95,6 +106,11 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importó)</span>
+       *[other] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importaron)</span>
+    }
 about-logins-import-dialog-error-file-permission-title = Nun pue lleese'l ficheru
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun tienes permisu pa lleer el ficheru. Prueba a camudar los sos permisos.
 about-logins-import-dialog-error-unable-to-read-title = Nun pue analizase'l ficheru
