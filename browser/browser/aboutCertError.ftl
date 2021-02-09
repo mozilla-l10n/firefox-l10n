@@ -6,6 +6,9 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } usa un certificáu de seguranza que nun ye válidu.
 cert-error-mitm-intro = Los sitios web demuestren la so identidá per certificaos qu'emiten les autoridaes certificadores.
+cert-error-mitm-mozilla = { -brand-short-name } ta sofitáu pola organización ensin ánimu de llucru Mozilla, que xestiona un almacén d'autoridá certificadora (CA) abiertu dafechu. L'almacén CA ayúdanos a asegurar que les autoridaes certificadores siguen les meyores práutiques pa la seguranza de los usuarios.
+cert-error-mitm-connection = { -brand-short-name } usa l'almacén CA de Mozilla pa verificar qu'una conexón ye segura, en cuentes d'usar los certificaos forníos pol sistema operativu del usuariu. Polo tanto, si un antivirus o rede interceuten una conexón con un certificáu de seguranza emitíu por una CA que nun tan nel almacén CA de Mozilla, la conexón considérase insegura.
+cert-error-trust-unknown-issuer-intro = Daquién podría tar tentando de suplantar el sitiu y nun deberíes siguir.
 cert-error-trust-cert-invalid = El certificáu nun ye d'enfotu porque lu emitió una CA non válida.
 cert-error-trust-untrusted-issuer = El certificáu nun ye d'enfotu porque'l so emisor tampoco lo ye.
 cert-error-trust-signature-algorithm-disabled = El certificáu nun ye d'enfotu porque se robló usando un algoritmu de robla que se desactivó porque nun ye seguru.
