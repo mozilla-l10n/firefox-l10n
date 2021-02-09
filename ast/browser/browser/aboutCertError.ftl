@@ -48,28 +48,25 @@ cert-error-code-prefix-link = Códigu de fallu: <a data-l10n-name="error-code-li
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Los sitios web demuestren la so identidá per certificaos qu'emiten autoridaes certificadores. La mayoría de restoladores yá nun s'enfoten en certificaos emitíos por GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } usa un certificáu d'una d'eses autoridaes y, polo tanto, la identidá del sitiu nun pue demostrase.
 cert-error-symantec-distrust-admin = Pues avisar del problema al alministrador del sitiu web.
+open-in-new-window-for-csp-or-xfo-error = Abrir el sitiu nuna ventana nueva
 # Variables:
-# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
-cert-error-details-hsts-label = Seguridá de tresporte HTTP estricta: { $hasHSTS }
-# Variables:
-# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
-cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
-cert-error-details-cert-chain-label = Cadena del certificáu:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Pa protexer la to seguranza, { $hostname } nun va permitir que { -brand-short-name } amuese la páxina si otru sitiu la incrustró. Pa ver esta páxina, precises abrila nuna ventana nueva.
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = Nun pue coneutase
-deniedPortAccess-title = Esta direición ta restrinxida
+connectionFailure-title = Nun pue conectase
+deniedPortAccess-title = Esta direición ta torgada
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = Eh… Tenemos problemes p'alcontrar el sitiu.
-fileNotFound-title = Nun s'alcontró'l ficheru
-fileAccessDenied-title = Ñegose l'accesu al ficheru
-generic-title = Ups.
+dnsNotFound-title = Eh… Tenemos problemes p'atopar el sitiu.
+fileNotFound-title = Nun s'atopó'l ficheru
+fileAccessDenied-title = Negose l'accesu al ficheru
+generic-title = Meca.
 captivePortal-title = Aniciu de sesión na rede
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Umm... La direición nun paez correuta.
+malformedURI-title = Eh… Esta direición nun paez correuta.
 netInterrupt-title = Interrumpióse la conexón
 notCached-title = Documentu caducáu
 netOffline-title = Mou ensin conexón
