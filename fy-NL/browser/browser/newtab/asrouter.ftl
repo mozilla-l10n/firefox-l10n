@@ -206,11 +206,16 @@ cfr-doorhanger-cryptominers-description = Jo privacy is wichtich. { -brand-short
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } hat <b>{ $blockedCount }</b> tracker blokkearre sûnt { $date }!
        *[other] { -brand-short-name } hat mear as <b>{ $blockedCount }</b> trackers blokkearre sûnt { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } hat sûnt { DATETIME($date, month: "long", year: "numeric") } b>{ $blockedCount }</b> tracker blokkearre!
+       *[other] { -brand-short-name } hat sûnt { DATETIME($date, month: "long", year: "numeric") } mear as <b>{ $blockedCount }</b> trackers blokkearre!
     }
 cfr-doorhanger-milestone-ok-button = Alles besjen
     .accesskey = A
@@ -294,3 +299,8 @@ cfr-whatsnew-supercookies-body = Websites kinne stikem in ‘supercookie’ oan 
 
 cfr-whatsnew-bookmarking-header = Better blêdwizers meitsje
 cfr-whatsnew-bookmarking-body = It is makliker om jo favorite websites by te hâlden. { -brand-short-name } ûnthâldt no jo foarkarslokaasje foar bewarre blêdwizers, toant de blêdwizerarkbalke standert op nije ljepblêden en jout jo ienfâldige tagong ta de rest fan jo blêdwizers fia in arkbalkemap.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Wiidweidige beskerming tsjin folgjen troch cross-site-cookies
+cfr-whatsnew-cross-site-tracking-body = Jo kinne jo no oanmelde foar bettere beskerming tsjin folgjen troch cookies. { -brand-short-name } kin jo aktiviteiten en gegevens isolearje foar de website dy't jo besykje, sadat yn de browser bewarre ynformaasje net tusken websites dield wurdt.
