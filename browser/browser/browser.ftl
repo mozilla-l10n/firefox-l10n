@@ -16,14 +16,14 @@
 #  $content-title (String): the title of the web content.
 browser-main-window =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Restolando en privao)
+    .data-title-private = { -brand-full-name } (Restolar en Privao)
     .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Restolando en privao)
+    .data-content-title-private = { $content-title } - { -brand-full-name } (Restolar en Privao)
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -35,9 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Restolando en privao)
+    .data-title-private = { -brand-full-name } - (Restolar en Privao)
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Restolando en privao)
+    .data-content-title-private = { $content-title } - (Restolar en Privao)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -47,7 +47,7 @@ browser-main-window-title = { -brand-full-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = Ver información del sitiu
+    .aria-label = Ver la información del sitiu
 
 ## Tooltips for images appearing in the address bar
 
@@ -250,6 +250,8 @@ popup-all-windows-shared = Van compartise toles ventanes visibles na to pantalla
 
 urlbar-default-placeholder =
     .defaultPlaceholder = Guetar o introducir direición
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Guetar o introducir direición
 urlbar-switch-to-tab =
