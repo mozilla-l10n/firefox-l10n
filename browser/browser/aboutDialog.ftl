@@ -5,10 +5,15 @@
 aboutDialog-title =
     .title = Tocante a { -brand-full-name }
 releaseNotes-link = Novedaes
+update-checkForUpdatesButton =
+    .label = Comprobar los anovamientos
+    .accesskey = C
 update-updateButton =
     .label = Reaniciar p'anovar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Comprobando los anovamientos…
+update-downloading = <img data-l10n-name="icon"/>Baxando l'anovamientu — <label data-l10n-name="download-status"/>
+update-downloading-message = Baxando l'anovamientu — <label data-l10n-name="download-status"/>
 update-applying = Aplicando l'anovamientu…
 update-failed = L'anovamientu falló. <label data-l10n-name="failed-link">Baxa la última versión</label>
 update-failed-main = L'anovamientu falló. <a data-l10n-name="failed-link-main">Baxa la última versión</a>

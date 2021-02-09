@@ -1,23 +1,35 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Anicios de sesión y contraseñes
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Lleva les contraseñes contigo
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencies
+    }
+about-logins-menu-menuitem-help = Ayuda
+menu-menuitem-android-app = { -lockwise-brand-short-name } p'Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } pa iPhone y iPad
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } aniciu de sesión
+       *[other] { $count } anicios de sesión
+    }
 login-list-name-option = Nome (A-Z)
+login-list-name-reverse-option = Nome (Z-A)
+about-logins-login-list-alerts-option = Alertes
 
 ## Introduction screen
 
@@ -38,25 +50,28 @@ login-item-cancel-button = Encaboxar
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
 
 ## Primary Password notification
 
+
 ## Password Sync notification
+
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Encaboxar
 confirmation-dialog-dismiss-button =
     .title = Encaboxar
-
 confirm-delete-dialog-message = Esta aición nun pue desfacese.
-
 confirm-discard-changes-dialog-title = ¿Escartar los cambeos ensin guardar?
 confirm-discard-changes-dialog-message = Van perdese tolos cambeos ensin guardar.
 confirm-discard-changes-dialog-confirm-button = Escartar
@@ -66,10 +81,24 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 
 ## Vulnerable Password notification
 
+
 ## Error Messages
 
 
 ## Login Export Dialog
 
+
 ## Login Import Dialog
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-error-file-permission-title = Nun pue lleese'l ficheru
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun tienes permisu pa lleer el ficheru. Prueba a camudar los sos permisos.
+about-logins-import-dialog-error-unable-to-read-title = Nun pue analizase'l ficheru
+about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún aniciu de sesión
+
+## Logins import report page
 
