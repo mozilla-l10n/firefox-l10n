@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 
+<!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
 <!ENTITY pref.advanced.title              "Avançadas">
 
 <!ENTITY systemPref.caption               "Preferências do sistema">
@@ -13,6 +13,12 @@
 <!ENTITY prefCheckDefault.caption         "Integração do sistema">
 <!ENTITY prefCheckDefaultClient.label     "Verificar definições da aplicação ao iniciar">
 <!ENTITY prefCheckDefaultClient.accesskey "c">
+
+<!ENTITY printing.label                   "A imprimir">
+<!ENTITY useNativePrintDialog.label       "Utilizar a caixa de diálogo de impressão nativa (onde for suportada)">
+<!ENTITY useNativePrintDialog.accesskey   "U">
+<!ENTITY useGlobalPrintSettings.label     "Utilizar as configurações globais de impressão">
+<!ENTITY useGlobalPrintSettings.accesskey "g">
 
 <!ENTITY crashReports.caption             "Relator de falhas">
 <!ENTITY submitCrashes.label              "Enviar relatórios de falha">
