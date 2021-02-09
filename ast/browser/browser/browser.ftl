@@ -49,15 +49,27 @@ browser-main-window-title = { -brand-full-name }
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-search-tips-confirm = Val, entendílo
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Conseyu:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Esbilla esti atayu p'atopar más rápido lo que precises.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Marcadores
+urlbar-search-mode-tabs = Llingüetes
+urlbar-search-mode-history = Historial
 
 ##
 
@@ -75,70 +87,43 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Bloquiesti l'almacenamientu permanente pa esti sitiu.
 urlbar-popup-blocked =
     .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-urlbar-star-edit-bookmark =
-    .tooltiptext = Editar esti marcardor ({ $shortcut })
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-urlbar-star-add-bookmark =
-    .tooltiptext = Amestar esta páxina a marcadores ({ $shortcut })
 
 ## Page Action Context Menu
 
-page-action-add-to-urlbar =
-    .label = Amestar a la barra de direiciones
 
 ## Page Action menu
 
-page-action-copy-url-panel =
-    .label = Copiar enllaz
-page-action-copy-url-urlbar =
-    .tooltiptext = Copiar enllaz
-page-action-email-link-panel =
-    .label = Unviar enllaz…
-page-action-email-link-urlbar =
-    .tooltiptext = Unviar enllaz…
 page-action-share-more-panel =
     .label = Más…
 page-action-send-tab-not-ready =
-    .label = Sincronizando preseos…
-# "Pin" is being used as a metaphor for expressing the fact that these tabs
-# are "pinned" to the left edge of the tabstrip. Really we just want the
-# string to express the idea that this is a lightweight and reversible
-# action that keeps your tab where you can reach it easily.
-page-action-pin-tab-panel =
-    .label = Fixar llingüeta
-page-action-pin-tab-urlbar =
-    .tooltiptext = Fixar llingüeta
-page-action-unpin-tab-panel =
-    .label = Desfixar llingüeta
-page-action-unpin-tab-urlbar =
-    .tooltiptext = Desfixar llingüeta
+    .label = Sincronizando los preseos…
 
 ## Auto-hide Context Menu
 
-full-screen-autohide =
-    .label = Anubrir barres de ferramientes
-    .accesskey = A
 full-screen-exit =
-    .label = Colar del mou pantalla completa
+    .label = Colar del mou de pantalla completa
     .accesskey = C
 
 ## Search Engine selection buttons (one-offs)
 
-# This string won't wrap, so if the translated string is longer,
-# consider translating it as if it said only "Search Settings".
-search-one-offs-change-settings-button =
-    .label = Camudar axustes de gueta
-search-one-offs-change-settings-compact-button =
-    .tooltiptext = Camudar preferencies de busca
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Y agora busca con:
 search-one-offs-context-open-new-tab =
-    .label = Guetar en llingüeta nueva
-    .accesskey = L
+    .label = Buscar nuna llingüeta nueva
+    .accesskey = l
 search-one-offs-context-set-as-default =
-    .label = Afitar como motor de gueta por defeutu
-    .accesskey = A
+    .label = Predeterminar el motor de busca
+    .accesskey = P
+search-one-offs-context-set-as-default-private =
+    .label = Predeterminar el motor de busca pa ventanes privaes
+    .accesskey = r
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -147,6 +132,12 @@ search-one-offs-context-set-as-default =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Marcadores ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Llingüetes ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Historial ({ $restrict })
 
 ## Bookmark Panel
 
