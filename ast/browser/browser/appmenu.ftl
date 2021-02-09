@@ -71,6 +71,11 @@ profiler-popup-description = Collabora na igua de problemes de rindimientu espub
 profiler-popup-learn-more = Deprender más
 profiler-popup-settings =
     .value = Axustes
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Editar los axustes…
+profiler-popup-disabled =
+    Anguaño l'analizador de rindimientu ta desactiváu, quiciabes seya porque hai
+    una llingüeta privada abierta.
 profiler-popup-recording-screen = Rexistrando…
 profiler-popup-start-recording-button =
     .label = Aniciar un rexistru
@@ -108,6 +113,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Atayos del tecláu
     .accesskey = t
+appmenu-get-help =
+    .label = Consiguir ayuda
+    .accesskey = a
 appmenu-help-troubleshooting-info =
     .label = Información d'igua de problemes
     .accesskey = i
@@ -120,22 +128,10 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-safe-mode-without-addons =
-    .label = Reaniciar colos complementos desactivaos…
-    .accesskey = R
-appmenu-help-safe-mode-with-addons =
-    .label = Reaniciar colos complementos activaos
-    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-report-deceptive-site =
-    .label = Reportar sitiu fraudulentu…
-    .accesskey = R
-appmenu-help-not-deceptive =
-    .label = Esti nun ye un sitiu fraudulentu…
-    .accesskey = f
 
 ##
 
