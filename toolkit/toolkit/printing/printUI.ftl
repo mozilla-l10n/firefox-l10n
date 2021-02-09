@@ -31,6 +31,21 @@ printui-less-settings = По-малко настройки
 printui-scale = Мащаб
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Мащаб
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Двустранно отпечатване
+printui-duplex-checkbox = Печат и от двете страни
+# Section title for miscellaneous print options
+printui-options = Настройки
+printui-headers-footers-checkbox = Печат на горни и долни колонтитули
+printui-backgrounds-checkbox = Печат фонови изображения
+printui-color-mode-label = Цветно
+printui-color-mode-color = Цвят
+printui-color-mode-bw = Черно-бяло
+printui-margins = Отстояния
+printui-margins-default = По поздразбиране
+printui-margins-min = Минимум
+printui-margins-none = Без
+printui-system-dialog-link = Печат с помощта на системния диалог…
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
