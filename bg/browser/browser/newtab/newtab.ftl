@@ -51,6 +51,10 @@ newtab-confirm-delete-history-p1 = Сигурни ли сте, че желает
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Действието е необратимо.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = Спонсорирано
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -203,3 +207,6 @@ newtab-pocket-cta-text = Запазете статиите, които харе�
 
 newtab-error-fallback-info = Ааах, нещо се обърка и съдържанието не е заредено.
 newtab-error-fallback-refresh-link = Презаредете страницата за повторен опит.
+
+## Customization Menu
+

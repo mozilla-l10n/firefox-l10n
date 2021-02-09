@@ -93,6 +93,14 @@ imported-edge-reading-list = Списък за четене (от Edge)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Бисквитки
+browser-data-cookies-label =
+    .value = Бисквитки
+browser-data-formdata-checkbox =
+    .label = История на запазени формуляри
+browser-data-formdata-label =
+    .value = История на запазени формуляри
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -101,6 +109,24 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Запазени регистрации и пароли
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Любими
+            [edge] Любими
+           *[other] Отметки
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Любими
+            [edge] Любими
+           *[other] Отметки
+        }
+browser-data-otherdata-checkbox =
+    .label = Други данни
+browser-data-otherdata-label =
+    .label = Други данни
 browser-data-session-checkbox =
     .label = Прозорци и раздели
 browser-data-session-label =
