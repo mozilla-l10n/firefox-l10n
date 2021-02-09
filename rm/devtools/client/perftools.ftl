@@ -101,3 +101,5 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Bypass selections above and record all registered threads
+perftools-tools-threads-input-label =
+    .title = These thread names are a comma separated list that is used to enable profiling of the threads in the profiler. The name needs to be only a partial match of the thread name to be included. It is whitespace sensitive.
