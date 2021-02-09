@@ -18,6 +18,7 @@ about-config-page-title = Tùy chọn nâng cao
 about-config-search-input1 =
     .placeholder = Tìm kiếm tên tùy chọn
 about-config-show-all = Hiển thị tất cả
+about-config-show-only-modified = Chỉ hiển thị các tùy chọn đã sửa đổi
 about-config-pref-add-button =
     .title = Thêm
 about-config-pref-toggle-button =
