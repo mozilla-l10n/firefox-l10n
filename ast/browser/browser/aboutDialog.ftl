@@ -5,14 +5,14 @@
 aboutDialog-title =
     .title = Tocante a { -brand-full-name }
 releaseNotes-link = Novedaes
-update-applying = Aplicando anovamientu…
-update-failed = Falló l'anovamientu. <label data-l10n-name="failed-link">Baxar la cabera versión</label>
-update-failed-main = Falló l'anovamientu. <a data-l10n-name="failed-link-main">Baxar la cabera versión</a>
-update-adminDisabled = Anovamientos deshabilitaos pol to alministrador de sistemes
+update-checkingForUpdates = Comprobando los anovamientos…
+update-applying = Aplicando l'anovamientu…
+update-failed = L'anovamientu falló. <label data-l10n-name="failed-link">Baxa la última versión</label>
+update-failed-main = L'anovamientu falló. <a data-l10n-name="failed-link-main">Baxa la última versión</a>
+update-adminDisabled = L'alministrador del sistema desactivó los anovamientos
 update-noUpdatesFound = { -brand-short-name } ta anováu
-update-otherInstanceHandlingUpdates = { -brand-short-name } ta anovándose per otra instancia
-update-manual = Anovamientos disponible en <label data-l10n-name="manual-link"/>
-update-unsupported = Nun pues facer más anovamientos nesti sistema.<label data-l10n-name="unsupported-link">Deprendi más</label>
+update-manual = Hai anovamientos disponibles en <label data-l10n-name="manual-link"/>
+update-unsupported = Yá nun vas poder anovar más nesti sistema.<label data-l10n-name="unsupported-link">Deprendi más</label>
 update-restarting = Reaniciando…
 channel-description = Anguaño tas na canal <label data-l10n-name="current-channel"></label> d'anovamientos. 
 warningDesc-version = { -brand-short-name } ye esperimental y pue ser inestable.
