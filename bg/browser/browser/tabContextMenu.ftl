@@ -53,9 +53,13 @@ move-to-end =
 move-to-new-window =
     .label = В нов прозорец
     .accesskey = п
+tab-context-close-multiple-tabs =
+    .label = Затваряне на няколко раздела
+    .accesskey = н
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
     .label = Затваряне на раздела
     .accesskey = З
