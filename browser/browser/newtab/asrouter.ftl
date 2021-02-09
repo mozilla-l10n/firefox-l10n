@@ -195,6 +195,7 @@ cfr-doorhanger-socialtracking-dont-show-again = Да не се показват 
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } спря социална мрежа да ви следи тук
 cfr-doorhanger-socialtracking-description = Поверителността ви е от значение. { -brand-short-name } вече спира проследяванията от разпространените социални мрежи, ограничавайки събираните данни за действията ви в мрежата.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } блокира скрипт събиращ цифров отпечатък на тази страница
+cfr-doorhanger-fingerprinters-description = Вашата поверителност има значение. { -brand-short-name } вече спира субекти, които събират части от уникално идентифицираща информация за вашето устройство, за да ви проследят.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } блокира скрипт добиващ виртуални пари на тази страница
 cfr-doorhanger-cryptominers-description = Вашата поверителност е от значение. { -brand-short-name } вече блокира скриптове, които използват изчислителната мощност на системата ви за извличане на криптовалути.
 
@@ -239,6 +240,7 @@ cfr-whatsnew-protections-icon-alt = Пиктограма на щит
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Още медийни контроли
 cfr-whatsnew-media-keys-button = Научете как
 
 ## What's new: Search shortcuts

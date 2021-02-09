@@ -8,6 +8,7 @@ add-engine-window =
 add-engine-button = Добавяне на търсеща машина от потребител
 add-engine-name = Име на търсеща машина
 add-engine-alias = Съкращения
+add-engine-url = Аддрес на търсачка, използвайте %s вместо търсената фраза
 add-engine-dialog =
     .buttonlabelaccept = Добавяне на машина
     .buttonaccesskeyaccept = а

@@ -226,6 +226,10 @@ translate-attribution = Превод от <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Изключения…
     .accesskey = з
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Използвайте настройките на вашата операционна система на „{ $localeName }“, за форматирането на датата, часовете, числата и други величини.
 check-user-spelling =
     .label = Проверяване на правописа при въвеждане
     .accesskey = в
@@ -274,6 +278,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Използване на { $app-name } (по подразбиране)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Използване на приложението по подразбиране в macOS
+            [windows] Използване на приложението по подразбиране в Windows
+           *[other] Използване на системното приложение по подразбиране
+        }
 applications-use-other =
     .label = Използване на друго…
 applications-select-helper = Избиране на помощно приложение
@@ -402,6 +413,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Включване на видео картина в картината
     .accesskey = к
 browsing-picture-in-picture-learn-more = Научете повече
+browsing-media-control =
+    .label = Управлявайте медията чрез клавиатура, слушалки или виртуално устройство
+    .accesskey = У
+browsing-media-control-learn-more = Научете повече
 browsing-cfr-recommendations =
     .label = Препоръчване на разширения
     .accesskey = П
@@ -736,6 +751,16 @@ forms-master-pw-fips-desc = Грешка при промяна на парола
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = създаде главна парола
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = създаде основна парола
 
 ## Privacy Section - History
 
