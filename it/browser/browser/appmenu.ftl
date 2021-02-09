@@ -102,6 +102,8 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Gestisci cronologia
+appmenu-reopen-all-tabs = Riapri tutte le schede
+appmenu-reopen-all-windows = Riapri tutte le finestre
 
 ## Help panel
 
