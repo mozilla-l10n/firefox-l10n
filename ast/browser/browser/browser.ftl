@@ -160,20 +160,14 @@ identity-https-only-dropdown-off =
     .label = Non
 identity-https-only-dropdown-off-temporarily =
     .label = Non, temporalmente
-identity-permissions-reload-hint = Quiciabes precises recargar la páxina p'aplicar les camudancies.
-identity-permissions-empty = Nun-y concediesti permisu especial dalu a esti sitiu.
-identity-remove-cert-exception =
-    .label = Desaniciar esceición
-    .accesskey = D
-identity-description-insecure = La to conexón a esti sitiu nun ye privada. La información qu'unvies, (como contraseñes, mensaxes, tarxetes de creitu... etc), quiciabes puean vela otros.
-identity-description-insecure-login-forms = La información del aniciu de sesión qu'introduzas nesta páxina nun ta segura y pue vese comprometida.
-identity-description-weak-cipher-intro = La conexón con esti sitiu web usa cifráu feble y nun ye privada.
-identity-description-weak-cipher-risk = Otra xente pue ver la to información o midificar el comportamientu'l sitiu web.
-identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Deprendi más</label>
-identity-description-passive-loaded = La to conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
-identity-description-passive-loaded-insecure = Esti sitiu web contién conteníu que nun ye seguru (por exemplu: imáxenes). <label data-l10n-name="link">Deprendi más</label>
-identity-description-passive-loaded-mixed = Magar que { -brand-short-name } bloquiare daqué conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes). <label data-l10n-name="link">Deprendi más</label>
-identity-description-active-loaded = Esti sitiu web contién conteníu que nun ye seguru (como scripts) y la to conexón a ella nun ye privada.
+identity-permissions =
+    .value = Permisos
+identity-permissions-empty = Nun-y concediesti nengún permisu especial a esti sitiu.
+identity-description-weak-cipher-intro = La conexón a esti sitiu web usa un cifráu feble y nun ye privada.
+identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Deprender más</label>
+identity-description-passive-loaded = La conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
+identity-description-passive-loaded-insecure = Esti sitiu web contién conteníu que nun ye seguru (como les imáxenes). <label data-l10n-name="link">Deprender más</label>
+identity-description-active-loaded = Esti sitiu web contién conteníu que nun ye seguru (como los scripts) y la conexón a ella nun ye privada.
 identity-description-active-loaded-insecure = La información que compartas con esti sitiu van poder vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
 identity-learn-more =
     .value = Deprendi más
