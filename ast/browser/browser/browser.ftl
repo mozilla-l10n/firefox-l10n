@@ -146,14 +146,20 @@ bookmark-panel-done-button =
 
 ## Identity Panel
 
-identity-connection-internal = Esta ye una páxina segura de { -brand-short-name }.
-identity-connection-file = Esta páxina ta atroxada nel to ordenador.
+identity-connection-file = Esta páxina ta atroxada nel ordenador.
 identity-extension-page = Esta páxina cargóse dende una estensión.
 identity-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures.
-identity-passive-loaded = Partes d'esta páxina nun son segures (cómo imáxenes).
-identity-active-loaded = Deshabilitesti la proteición nesta páxina.
+identity-passive-loaded = Partes d'esta páxina nun son segures (como les imáxenes).
+identity-active-loaded = Desactivesti la proteición nesta páxina.
 identity-weak-encryption = Esta páxina usa cifráu feble.
-identity-insecure-login-forms = Quiciabes se comprometieren los anicios de sesión introducíos nesta páxina.
+identity-https-only-connection-upgraded = (anovóse a HTTPS)
+identity-https-only-label = Mou de namás HTTPS
+identity-https-only-dropdown-on =
+    .label = Sí
+identity-https-only-dropdown-off =
+    .label = Non
+identity-https-only-dropdown-off-temporarily =
+    .label = Non, temporalmente
 identity-permissions-reload-hint = Quiciabes precises recargar la páxina p'aplicar les camudancies.
 identity-permissions-empty = Nun-y concediesti permisu especial dalu a esti sitiu.
 identity-remove-cert-exception =
