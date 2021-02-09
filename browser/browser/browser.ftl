@@ -525,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Minden könyvjelző megjelenítése
 bookmarks-recent-bookmarks =
     .value = Nemrég könyvjelzőzött
+bookmarks-manage-bookmarks =
+    .label = Könyvjelzők kezelése
+bookmarks-recent-bookmarks-panel =
+    .value = Friss könyvjelzők
 bookmarks-toolbar-chevron =
     .tooltiptext = További könyvjelzők megjelenítése
 bookmarks-sidebar-content =
@@ -548,6 +552,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Könyvjelző eszköztár megjelenítése
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Könyvjelző eszköztár elrejtése
+           *[other] Könyvjelző eszköztár megjelenítése
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Könyvjelző eszköztár elrejtése
@@ -578,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Könyvjelző eszköztár elemei
 bookmarks-toolbar-placeholder-button =
     .label = Könyvjelző eszköztár elemei
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Jelenlegi lap könyvjelzőzése
 
 ## Library Panel items
 
