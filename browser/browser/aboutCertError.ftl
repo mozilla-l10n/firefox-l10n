@@ -48,6 +48,13 @@ cert-error-code-prefix-link = Códigu de fallu: <a data-l10n-name="error-code-li
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Los sitios web demuestren la so identidá per certificaos qu'emiten autoridaes certificadores. La mayoría de restoladores yá nun s'enfoten en certificaos emitíos por GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } usa un certificáu d'una d'eses autoridaes y, polo tanto, la identidá del sitiu nun pue demostrase.
 cert-error-symantec-distrust-admin = Pues avisar del problema al alministrador del sitiu web.
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = Seguranza estricta de tresporte HTTP: { $hasHSTS }
+# Variables:
+# $hasHPKP (Boolean) - Indicates whether HPKP header is present.
+cert-error-details-key-pinning-label = Fixación de claves públiques HTTP: { $hasHPKP }
+cert-error-details-cert-chain-label = Cadena de certificaos:
 open-in-new-window-for-csp-or-xfo-error = Abrir el sitiu nuna ventana nueva
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
@@ -68,7 +75,7 @@ captivePortal-title = Aniciu de sesión na rede
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Eh… Esta direición nun paez correuta.
 netInterrupt-title = Interrumpióse la conexón
-notCached-title = Documentu caducáu
+notCached-title = El documentu caducó
 netOffline-title = Mou ensin conexón
 contentEncodingError-title = Fallu de codificación del conteníu
 unsafeContentType-title = Tipu de ficheru inseguru
@@ -79,7 +86,7 @@ proxyConnectFailure-title = El sirvidor proxy ta refugando les conexones
 proxyResolveFailure-title = Nun pue atopase'l sirvidor proxy
 redirectLoop-title = La páxina nun ta redirixendo afayadizamente
 unknownSocketType-title = Rempuesta inesperada del sirvidor
-nssFailure2-title = Falló la conexón segura
+nssFailure2-title = La conexón segura falló
 csp-xfo-error-title = { -brand-short-name } nun pue abrir esta páxina
 corruptedContentError-title = Fallu de conteníu toyíu
 remoteXUL-title = XUL Remotu
