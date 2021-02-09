@@ -25,7 +25,7 @@ cert-error-domain-mismatch = Los sitios web demuestren la so identidá per certi
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota nesti sitiu porque usa un certificáu que nun ye válidu pa { $hostname }. El certificáu namás ye válidu pa <a data-l10n-name="domain-mismatch-link"></a>.
+cert-error-domain-mismatch-single = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota nesti sitiu porque usa un certificáu que nun ye válidu pa { $hostname }. El certificáu namás ye válidu pa <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
@@ -40,7 +40,7 @@ cert-error-expired-now = Los sitios web demuestren la so identidá per certifica
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Los sitios web demuestren la so identidá per certificaos que son válidos demientres un periodu de tiempu. El certificáu de { $hostname } nun va ser válidu hasta'l { $not-after-local-time }.
+cert-error-not-yet-valid-now = Los sitios web demuestren la so identidá per certificaos que son válidos demientres un periodu de tiempu. El certificáu de { $hostname } nun va ser válidu hasta'l { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Códigu de fallu: <a data-l10n-name="error-code-link">{ $error }</a>
