@@ -334,6 +334,8 @@ browser-window-minimize-button =
     .tooltiptext = Минимизиране
 browser-window-maximize-button =
     .tooltiptext = Увеличаване
+browser-window-restore-down-button =
+    .tooltiptext = Възстановете надолу
 browser-window-close-button =
     .tooltiptext = Затваряне
 
@@ -342,6 +344,9 @@ browser-window-close-button =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Внасяне на отметки…
+    .tooltiptext = Внасяне на отметки от друг четец във { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -365,9 +370,14 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } няма д
 
 sharing-warning-window = Споделяте { -brand-short-name }. Други хора могат да видят, когато превключите към друг раздел.
 sharing-warning-screen = Споделяте целия си екран. Други хора могат да видят, когато превключите към друг раздел.
+sharing-warning-proceed-to-tab =
+    .label = Продължете към раздел
+sharing-warning-disable-for-session =
+    .label = Изключване на защита от споделяне за сесията
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = За да използвате клавишна комбинация F12, първо отворете DevTools чрез менюто за разработчици.
 
 ## URL Bar
 
@@ -377,6 +387,34 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Търсете или въведете адрес
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Търсене в интернет
+    .aria-label = Търсете с { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Въведете търсене
+    .aria-label = Търсете в { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Въведете търсене
+    .aria-label = Търсене в отметки
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Въведете търсене
+    .aria-label = Търсене в история
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Въведете търсене
+    .aria-label = Търсене в раздели
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -428,6 +466,10 @@ urlbar-result-action-before-tabtosearch-web = Натиснете Tab, за да 
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-result-action-before-tabtosearch-other = Натиснете Tab, за да търсите в { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Търсете с { $engine } директно от адресната лента
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
