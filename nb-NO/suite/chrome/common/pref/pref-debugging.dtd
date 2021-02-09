@@ -15,6 +15,18 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Hendelser">
+<!ENTITY debugPaintFlashing.label "Blink opptegning (Caps-Lock slår av/på)">
+<!ENTITY debugPaintFlashing.accesskey "B">
+<!ENTITY debugPaintFlashingChrome.label "Blink opptegning Chrome">
+<!ENTITY debugPaintFlashingChrome.accesskey "o">
+<!ENTITY debugPaintDumping.label "Opptegnings-dumping">
+<!ENTITY debugPaintDumping.accesskey "d">
+<!ENTITY debugInvalidateDumping.label "Ugyldiggjøre dumping">
+<!ENTITY debugInvalidateDumping.accesskey "n">
+<!ENTITY debugEventDumping.label "Hendelses-dumping">
+<!ENTITY debugEventDumping.accesskey "H">
+<!ENTITY debugMotionEventDumping.label "Dumping av bevegelsesbegivenhet">
+<!ENTITY debugMotionEventDumping.accesskey "m">
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowShowFrameCounts.label        "Vis rammeantall">
