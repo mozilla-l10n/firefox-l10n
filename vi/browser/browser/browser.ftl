@@ -517,6 +517,10 @@ bookmarks-show-all-bookmarks =
     .label = Xem tất cả dấu trang
 bookmarks-recent-bookmarks =
     .value = Dấu trang gần đây
+bookmarks-manage-bookmarks =
+    .label = Quản lý dấu trang
+bookmarks-recent-bookmarks-panel =
+    .value = Dấu trang gần đây
 bookmarks-toolbar-chevron =
     .tooltiptext = Hiện thêm các dấu trang
 bookmarks-sidebar-content =
@@ -545,6 +549,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Ẩn thanh công cụ dấu trang
            *[other] Hiển thị thanh công cụ dấu trang
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Ẩn thanh dấu trang
+           *[other] Hiển thị thanh dấu trang
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -570,6 +580,9 @@ bookmarks-toolbar-placeholder =
     .title = Các mục của thanh dấu trang
 bookmarks-toolbar-placeholder-button =
     .label = Các mục của thanh dấu trang
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Đánh dấu thẻ hiện tại
 
 ## Library Panel items
 
