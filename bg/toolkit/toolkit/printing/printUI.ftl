@@ -17,6 +17,9 @@ printui-page-range-custom = По избор
 printui-page-range-label = Страници
 printui-page-range-picker =
     .aria-label = Избор на страници
+printui-page-custom-range-input =
+    .aria-label = Въведете потребителски диапазон за страници
+    .placeholder = напр. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Копия
 printui-orientation = Ориентация
@@ -27,8 +30,10 @@ printui-destination-label = Местоназначение
 printui-destination-pdf-label = Запазване в PDF
 printui-more-settings = Още настройки
 printui-less-settings = По-малко настройки
+printui-paper-size-label = Размер на хартия
 # Section title (noun) for the print scaling options
 printui-scale = Мащаб
+printui-scale-fit-to-page-width = Побиране по ширина на листа
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Мащаб
 # Section title (noun) for the two-sided print options
@@ -38,6 +43,7 @@ printui-duplex-checkbox = Печат и от двете страни
 printui-options = Настройки
 printui-headers-footers-checkbox = Печат на горни и долни колонтитули
 printui-backgrounds-checkbox = Печат фонови изображения
+printui-selection-checkbox = Отпечатване само на избраното
 printui-color-mode-label = Цветно
 printui-color-mode-color = Цвят
 printui-color-mode-bw = Черно-бяло
@@ -45,11 +51,30 @@ printui-margins = Отстояния
 printui-margins-default = По поздразбиране
 printui-margins-min = Минимум
 printui-margins-none = Без
+printui-margins-custom-inches = По избор (инчове)
+printui-margins-custom-top = Отгоре
+printui-margins-custom-top-inches = Отгоре (инчове)
+printui-margins-custom-bottom = Отдолу
+printui-margins-custom-bottom-inches = Отдолу (инчове)
+printui-margins-custom-left = Отляво
+printui-margins-custom-left-inches = Отляво (инчове)
+printui-margins-custom-right = Отдясно
+printui-margins-custom-right-inches = Отдясно (инчове)
 printui-system-dialog-link = Печат с помощта на системния диалог…
+printui-primary-button = Отпечатване
+printui-primary-button-save = Запазване
+printui-cancel-button = Отказ
+printui-close-button = Затваряне
+printui-loading = Подготвяне на преглед
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Преглед преди отпечатване
+printui-pages-per-sheet = Страници на лист
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Отпечатване…
+printui-print-progress-indicator-saving = Запазване…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -61,6 +86,10 @@ printui-paper-a1 = A1
 printui-paper-a0 = A0
 printui-paper-b5 = B5
 printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Американско писмо
+printui-paper-legal = Американски юридически
 printui-paper-tabloid = Таблоид
 
 ## Error messages shown when a user has an invalid input
