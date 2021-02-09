@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revegnir al cumportame
 ##
 
 policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns a datotecas localas.
-policy-MasterPassword = Pretender u impedir l'utilisaziun dad in pled-clav universal.
 policy-ManagedBookmarks = Configurescha ina glista da segnapaginas gestida dad in administratur. Ella na po betg vegnir midada da l'utilisader.
+policy-MasterPassword = Pretender u impedir l'utilisaziun dad in pled-clav universal.
+policy-ManualAppUpdateOnly = Mo permetter actualisaziuns manualas e betg infurmar l'utilisader davart actualisaziuns.
 policy-PrimaryPassword = Pretender u impedir l'utilisaziun dad in pled-clav universal.
 policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectura DNS).
 policy-NewTabPage = Activar u deactivar la pagina «Nov tab».

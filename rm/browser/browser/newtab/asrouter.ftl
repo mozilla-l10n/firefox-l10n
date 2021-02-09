@@ -200,11 +200,16 @@ cfr-doorhanger-cryptominers-description = La protecziun da datas è impurtanta. 
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } ha bloccà passa <b>{ $blockedCount }</b> fastizader dapi { $date }!
        *[other] { -brand-short-name } ha bloccà passa <b>{ $blockedCount }</b> fastizaders dapi { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } ha bloccà <b>{ $blockedCount }</b> fastizader dapi ils { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } ha bloccà passa <b>{ $blockedCount }</b> fastizaders dapi ils { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Vesair tut
     .accesskey = s
@@ -288,3 +293,8 @@ cfr-whatsnew-supercookies-body = Websites pon deponer a la zuppada in «supercoo
 
 cfr-whatsnew-bookmarking-header = Administraziun da segnapaginas optimada
 cfr-whatsnew-bookmarking-body = Igl è pli simpel da tegnair en egl tias websites preferidas. { -brand-short-name } tegna ussa endament tes ordinatur preferì per segnapaginas memorisads, mussa gia en la configuraziun da standard la trav da segnapaginas en novs tabs e ta porscha in access simpel al rest da tes segnapaginas via in ordinatur en la trav d'utensils.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Protecziun cumpletta cunter fastizaders da cookies interpaginals
+cfr-whatsnew-cross-site-tracking-body = Ti pos ussa tscherner ina protecziun avanzada cunter fastizaders da cookies. { -brand-short-name } po isolar tias activitads e datas da la website che ti visitas gist per che las infurmaziuns memorisadas en il navigatur na vegnian betg cundividas tranter differentas websites.

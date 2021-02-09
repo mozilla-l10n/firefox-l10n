@@ -381,15 +381,14 @@ addon-detail-private-browsing-disallow = Betg permetter
 addon-badge-recommended2 =
     .title = { -brand-product-name } recumonda mo extensiuns che correspundan a noss standards da segirezza e prestaziun
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Questa extensiun è vegnida creada dals sviluppaders da { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Il code da questa extensiun è vegnì controllà areguard la segirezza
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Quai è ina extensiun uffiziala sviluppada dals creaders da { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Ina extensiun uffiziala, creada da Mozilla. Correspunda a standards da segirezza e stabilitad
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Questa extensiun è vegnida controllada per garantir noss standard da segirezza e performanza
     .aria-label = { addon-badge-verified2.title }
