@@ -20,6 +20,7 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Abrir el menú
+about-logins-menu-menuitem-remove-all-logins = Quitar tolos anicios de sesión…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opciones
@@ -47,6 +48,7 @@ login-list-intro-description = Equí van amosase les contraseñes cuando les gua
 about-logins-login-list-empty-search-title = Nun s'atoparon anicios de sesión
 about-logins-login-list-empty-search-description = Nun hai resultaos que concasen cola busca.
 login-list-item-title-new-login = Aniciu de sesión nuevu
+login-list-item-subtitle-new-login = Introduz les credenciales d'aniciu de sesión
 login-list-item-subtitle-missing-username = (ensin nome d'usuariu)
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
@@ -58,7 +60,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-item-new-login-title = Creación d'un aniciu de sesión
 login-item-edit-button = Editar
-about-logins-login-item-remove-button = Desaniciar
+about-logins-login-item-remove-button = Quitar
 login-item-origin-label = Direición del sitiu web
 login-item-tooltip-message = Asegúrate que coincide cola direición del sitiu web onde anicies sesión.
 login-item-origin =
@@ -103,7 +105,31 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 confirmation-dialog-cancel-button = Encaboxar
 confirmation-dialog-dismiss-button =
     .title = Encaboxar
+about-logins-confirm-remove-dialog-title = ¿Quitar esti aniciu de sesión?
 confirm-delete-dialog-message = Esta aición nun pue desfacese.
+about-logins-confirm-remove-dialog-confirm-button = Quitar
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Quitar
+        [one] Quitar
+       *[other] Quitar too
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Sí, quitar esti aniciu de sesión
+        [one] Sí, quitar esti aniciu de sesión
+       *[other] Sí, quitar estos anicios de sesión
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] ¿Quitar { $count } aniciu de sesión?
+       *[other] ¿Quitar { $count } anicios de sesión?
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] ¿Quitar { $count } aniciu de sesión de tolos preseos?
+       *[other] ¿Quitar { $count } anicios de sesión de tolos preseos?
+    }
 about-logins-confirm-export-dialog-confirm-button = Esportar…
 confirm-discard-changes-dialog-title = ¿Escartar los cambeos ensin guardar?
 confirm-discard-changes-dialog-message = Van perdese tolos cambeos ensin guardar.
