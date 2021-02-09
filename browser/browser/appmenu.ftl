@@ -63,8 +63,31 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Desvelar más información
+profiler-popup-description-title =
+    .value = Rexistra, analiza y comparti
+profiler-popup-description = Collabora na igua de problemes de rindimientu espublizando perfiles pa compartilos col to equipu.
+profiler-popup-learn-more = Deprender más
 profiler-popup-settings =
     .value = Axustes
+profiler-popup-recording-screen = Rexistrando…
+profiler-popup-start-recording-button =
+    .label = Aniciar un rexistru
+profiler-popup-discard-button =
+    .label = Escartar
+profiler-popup-capture-button =
+    .label = Capturar
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Mayús+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Mayús+2
+    }
 
 ## Help panel
 
