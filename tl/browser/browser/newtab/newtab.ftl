@@ -8,6 +8,9 @@
 newtab-page-title = Bagong Tab
 newtab-settings-button =
     .title = I-customize ang iyong pahina ng Bagong Tab
+newtab-personalize-button-label = i-Personalize
+    .title = i-Personalize ang bagong tab
+    .aria-label = i-Personalize
 
 ## Search box component.
 
@@ -50,6 +53,9 @@ newtab-topsites-add-button = Idagdag
 newtab-confirm-delete-history-p1 = Sigurado ka bang gusto mong tanggalin ang bawat pagkakataon ng pahinang ito mula sa iyong kasaysayan?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ang aksyon na ito ay hindi na mababawi.
+
+## Top Sites - Sponsored label
+
 
 ## Context Menu - Action Tooltips.
 
@@ -202,3 +208,6 @@ newtab-pocket-cta-text = I-save sa { -pocket-brand-name } ang mga kwentong iyong
 
 newtab-error-fallback-info = Oops, may naganap na mali sa paglo-load ng nilalamang ito.
 newtab-error-fallback-refresh-link = I-refresh ang pahina para masubukan uli.
+
+## Customization Menu
+
