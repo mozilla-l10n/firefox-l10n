@@ -249,36 +249,20 @@ bookmarks-toolbar-chevron =
     .tooltiptext = Amosar más marcadores
 bookmarks-sidebar-content =
     .aria-label = Marcadores
-bookmarks-menu-button =
-    .label = Menú de marcadores
 bookmarks-other-bookmarks-menu =
     .label = Otros marcadores
 bookmarks-mobile-bookmarks-menu =
     .label = Marcadores del móvil
-bookmarks-search =
-    .label = Guetar marcadores
-bookmarks-tools =
-    .label = Ferramientes de marcadores
-bookmarks-bookmark-edit-panel =
-    .label = Editar esti marcador
-bookmarks-toolbar-menu =
-    .label = Barra de ferramientes de marcadores
-bookmarks-toolbar-placeholder =
-    .title = Elementos de la barra de ferramientes de marcadores
-bookmarks-toolbar-placeholder-button =
-    .label = Elementos de la barra de ferramientes de marcadores
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Marcadores
-library-bookmarks-bookmark-this-page =
-    .label = Amestar esta páxina a marcadores
-library-bookmarks-bookmark-edit =
-    .label = Editar esti marcador
+library-recent-activity-title =
+    .value = Actividá de recién
 
 ## More items
 
 more-menu-go-offline =
     .label = Trabayar ensin conexón
-    .accesskey = y
+    .accesskey = T
