@@ -97,6 +97,18 @@ browser-data-cookies-checkbox =
     .label = Бисквитки
 browser-data-cookies-label =
     .value = Бисквитки
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] История на разглеждане и отметки
+           *[other] История на разглеждане
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] История на разглеждане и отметки
+           *[other] История на разглеждане
+        }
 browser-data-formdata-checkbox =
     .label = История на запазени формуляри
 browser-data-formdata-label =

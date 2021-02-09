@@ -470,6 +470,10 @@ urlbar-result-action-before-tabtosearch-other = Натиснете Tab, за д�
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = Търсете с { $engine } директно от адресната лента
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Търсете в { $engine } директно от адресната лента
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
