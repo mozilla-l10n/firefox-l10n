@@ -4,24 +4,20 @@
 
 history-title = Historial d'anovamientos
 history-intro = Instaláronse los anovamientos de darréu
-
 close-button-label =
     .buttonlabelcancel = Zarrar
     .title = Historial d'anovamientos
-
 no-updates-label = Entá nun hai anovamientos instalaos
-name-header = Nome d'anovamientu
-date-header = Data d'nstalación
-type-header = Triba
+name-header = Nome del anovamientu
+date-header = Data de la instalación
+type-header = Tipu
 state-header = Estáu
-
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = Detalles
-update-installed-on = Instalóse en: { $date }
+update-installed-on = Data d'instalación: { $date }
 update-status = Estáu: { $status }
