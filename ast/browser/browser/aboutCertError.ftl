@@ -9,12 +9,30 @@ cert-error-mitm-intro = Los sitios web demuestren la so identidá per certificao
 cert-error-mitm-mozilla = { -brand-short-name } ta sofitáu pola organización ensin ánimu de llucru Mozilla, que xestiona un almacén d'autoridá certificadora (CA) abiertu dafechu. L'almacén CA ayúdanos a asegurar que les autoridaes certificadores siguen les meyores práutiques pa la seguranza de los usuarios.
 cert-error-mitm-connection = { -brand-short-name } usa l'almacén CA de Mozilla pa verificar qu'una conexón ye segura, en cuentes d'usar los certificaos forníos pol sistema operativu del usuariu. Polo tanto, si un antivirus o rede interceuten una conexón con un certificáu de seguranza emitíu por una CA que nun tan nel almacén CA de Mozilla, la conexón considérase insegura.
 cert-error-trust-unknown-issuer-intro = Daquién podría tar tentando de suplantar el sitiu y nun deberíes siguir.
-cert-error-trust-cert-invalid = El certificáu nun ye d'enfotu porque lu emitió una CA non válida.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota en { $hostname } porque nun se conoz al so emisor de certificaos, el certificáu ta robláu por sigo mesmu o'l sirvidor nun ta unviando los certificaos intermedios correutos.
+cert-error-trust-cert-invalid = El certificáu nun ye d'enfotu porque lu emitió una CA que nun ye válida.
 cert-error-trust-untrusted-issuer = El certificáu nun ye d'enfotu porque'l so emisor tampoco lo ye.
-cert-error-trust-signature-algorithm-disabled = El certificáu nun ye d'enfotu porque se robló usando un algoritmu de robla que se desactivó porque nun ye seguru.
-cert-error-trust-expired-issuer = El certificáu nun ye d'enfotu porque caducó'l certificáu l'emisor.
-cert-error-trust-self-signed = El certificáu nun ye d'enfotu porque ye auto-robláu.
-cert-error-untrusted-default = El certificáu nun vien d'una fonte d'enfotu.
+cert-error-trust-signature-algorithm-disabled = El certificáu nun ye d'enfotu porque se robló col usu d'un algoritmu de robla que se desactivó porque nun ye seguru.
+cert-error-trust-expired-issuer = El certificáu nun ye d'enfotu porque'l so emisor caducó.
+cert-error-trust-self-signed = El certificáu nun ye d'enfotu porque se robló a sigo mesmu.
+cert-error-trust-symantec = Los certificaos emitíos por GeoTrust, RapidSSL, Symantec, Thawte y VeriSign yá nun se consideren seguros porque estes autoridaes certificadores nun siguieron les práutiques de seguranza nel pasáu.
+cert-error-untrusted-default = El certificáu nun vien d'un orixe d'enfotu.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota nesti sitiu porque usa un certificáu que nun ye válidu pa { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota nesti sitiu porque usa un certificáu que nun ye válidu pa { $hostname }. El certificáu namás ye válidu pa <a data-l10n-name="domain-mismatch-link"></a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota nesti sitiu porque usa un certificáu que nun ye válidu pa { $hostname }. El certificáu namás ye válidu pa { $alt-name }.
+# Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota nesti sitiu porque usa un certificáu que nun ye válidu pa { $hostname }. El certificáu namás ye válidu pa los nomes de darréu: { $subject-alt-names }
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguridá de tresporte HTTP estricta: { $hasHSTS }
