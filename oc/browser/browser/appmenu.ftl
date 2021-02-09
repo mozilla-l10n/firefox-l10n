@@ -67,6 +67,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Mostrar mai d‘informacions
 profiler-popup-description-title =
     .value = Enregistrar, analisar, partejar
+profiler-popup-description = Collaboratz a la resolucion de problèmas de performanças en publicant de perfils a partejar amb vòstra còla.
 profiler-popup-learn-more = Ne saber mai
 profiler-popup-settings =
     .value = Paramètres
