@@ -303,3 +303,4 @@ cfr-whatsnew-bookmarking-body = Het is gemakkelijker om uw favoriete websites bi
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Uitgebreide bescherming tegen volgen door cross-site-cookies
+cfr-whatsnew-cross-site-tracking-body = U kunt zich nu aanmelden voor betere bescherming tegen volgen door cookies. { -brand-short-name } kan uw activiteiten en gegevens isoleren voor de website die u bezoekt, zodat in de browser opgeslagen informatie niet tussen websites wordt gedeeld.
