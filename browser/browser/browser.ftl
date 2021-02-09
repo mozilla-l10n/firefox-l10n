@@ -46,39 +46,9 @@ browser-main-window-title = { -brand-full-name }
 
 ##
 
-urlbar-identity-button =
-    .aria-label = Ver la información del sitiu
 
 ## Tooltips for images appearing in the address bar
 
-urlbar-services-notification-anchor =
-    .tooltiptext = Abrir panel de mensaxe d'instalación
-urlbar-web-notification-anchor =
-    .tooltiptext = Cambiar si se reciben notificaciones del sitiu
-urlbar-eme-notification-anchor =
-    .tooltiptext = Remanar l'usu del software DRM
-urlbar-web-rtc-share-microphone-notification-anchor =
-    .tooltiptext = Remanar compartir micrófonu col sitiu
-urlbar-default-notification-anchor =
-    .tooltiptext = Abrir panel de mensaxes
-urlbar-geolocation-notification-anchor =
-    .tooltiptext = Abrir panel de solicitú de llocalización
-urlbar-translate-notification-anchor =
-    .tooltiptext = Traducir esta páxina
-urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = Remanar compartir ventanes o pantalla col sitiu
-urlbar-indexed-db-notification-anchor =
-    .tooltiptext = Abrir panel de mensaxes d'almacenamientu ensin conexón
-urlbar-password-notification-anchor =
-    .tooltiptext = Abrir panel de mensaxes de contraseñes guardaes
-urlbar-translated-notification-anchor =
-    .tooltiptext = Remanar la traducción de páxina
-urlbar-plugins-notification-anchor =
-    .tooltiptext = Remanar usu de plugins
-urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = Remanar compartir cámara y/o micrófonu col sitiu
-urlbar-addons-notification-anchor =
-    .tooltiptext = Abrir panel de mensaxes d'instalación de complementos
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -91,16 +61,18 @@ urlbar-addons-notification-anchor =
 
 ##
 
-urlbar-geolocation-blocked =
-    .tooltiptext = Bloquiesti la to información d'allugamientu pa esti sitiu web.
+urlbar-xr-blocked =
+    .tooltiptext = Bloquiesti l'accesu a preseos de realidá virtual pa esti sitiu web.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Bloquiesti los avisos pa esti sitiu web.
+    .tooltiptext = Bloquiesti los avisos d'esti sitiu web.
 urlbar-camera-blocked =
-    .tooltiptext = Bloquiesti la to cámara pa esti sitiu web.
+    .tooltiptext = Bloquiesti la cámara pa esti sitiu web.
 urlbar-microphone-blocked =
-    .tooltiptext = Bloquiesti'l to micrófonu pa esti sitiu web.
+    .tooltiptext = Bloquiesti'l micrófonu pa esti sitiu web.
 urlbar-screen-blocked =
-    .tooltiptext = Bloquiesti la compartición de pantalla pa esti sitiu web.
+    .tooltiptext = Bloquiesti la compartición de pantalles nesti sitiu web.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bloquiesti l'almacenamientu permanente pa esti sitiu.
 urlbar-popup-blocked =
     .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
 # Variables
