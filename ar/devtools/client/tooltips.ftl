@@ -23,7 +23,6 @@ inactive-css-not-flex-item = ليس للصفة <strong>{ $property }</strong> أ
 inactive-css-not-flex-container = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس في حاويًا مرنًا/flex.
 inactive-css-not-inline-or-tablecell = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس عنصرًا مضمّنًا/inline ولا خلية جدول/table-cell.
 inactive-css-property-because-of-display = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ قيمة العرض/display له هي <strong>{ $display }</strong>.
-inactive-css-not-display-block-on-floated = غيّر المحرّك قيمةَ العرض/<strong>display</strong> لتصير <strong>block</strong> إذ العنصر <strong>طافٍ/float<strong>.
 inactive-css-position-property-on-unpositioned-box = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس عنصرًا متموضعًا/positioned.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
