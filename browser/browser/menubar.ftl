@@ -199,6 +199,8 @@ menu-history-undo-menu =
     .label = Schede chiuse di recente
 menu-history-undo-window-menu =
     .label = Finestre chiuse di recente
+menu-history-reopen-all-tabs = Riapri tutte le schede
+menu-history-reopen-all-windows = Riapri tutte le finestre
 
 ## Bookmarks Menu
 
