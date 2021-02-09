@@ -13,9 +13,13 @@ login-filter =
 create-login-button = Crear un aniciu de sesión
 fxaccounts-sign-in-text = Consigui les tos contraseñes n'otros preseos
 fxaccounts-sign-in-button = Aniciar sesión en { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Xestionar la cuenta
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Abrir el menú
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opciones
@@ -32,9 +36,20 @@ login-list-count =
         [one] { $count } aniciu de sesión
        *[other] { $count } anicios de sesión
     }
+login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
 about-logins-login-list-alerts-option = Alertes
+login-list-last-changed-option = Última modificación
+login-list-last-used-option = Últimu usu
+login-list-intro-title = Nun s'atoparon anicios de sesión
+login-list-intro-description = Equí van amosase les contraseñes cuando les guardes en { -brand-product-name }.
+about-logins-login-list-empty-search-title = Nun s'atoparon anicios de sesión
+about-logins-login-list-empty-search-description = Nun hai resultaos que concasen cola busca.
+login-list-item-title-new-login = Aniciu de sesión nuevu
+login-list-item-subtitle-missing-username = (ensin nome d'usuariu)
+about-logins-list-item-vulnerable-password-icon =
+    .title = Contraseña vulnerable
 
 ## Introduction screen
 
@@ -42,15 +57,23 @@ about-logins-login-list-alerts-option = Alertes
 ## Login
 
 login-item-new-login-title = Creación d'un aniciu de sesión
+login-item-edit-button = Editar
+about-logins-login-item-remove-button = Desaniciar
+login-item-origin-label = Direición del sitiu web
+login-item-tooltip-message = Asegúrate que coincide cola direición del sitiu web onde anicies sesión.
 login-item-origin =
-    .placeholder = https://www.example.com
+    .placeholder = https://www.exemplu.com
 login-item-username-label = Nome d'usuariu
+about-logins-login-item-username =
+    .placeholder = (ensin nome d'usuariu)
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = ¡Copióse!
 login-item-password-label = Contraseña
+login-item-password-reveal-checkbox =
+    .aria-label = Amosar la contraseña
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = ¡Copióse!
-login-item-save-changes-button = Guardar cambeos
+login-item-save-changes-button = Guardar los cambeos
 login-item-save-new-button = Guardar
 login-item-cancel-button = Encaboxar
 login-item-time-changed = Última modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
