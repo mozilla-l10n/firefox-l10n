@@ -23,15 +23,20 @@ newtab-search-box-search-the-web-input =
     .placeholder = Hanapin sa Web
     .title = Hanapin sa Web
     .aria-label = Hanapin sa Web
+newtab-search-box-text = Hanapin sa web
+newtab-search-box-input =
+    .placeholder = Hanapin sa web
+    .aria-label = Hanapin sa web
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Magdagdag ng Search Engine
-newtab-topsites-add-topsites-header = Bagong nangungunang site
+newtab-topsites-add-topsites-header = Bagong Top Site
+newtab-topsites-add-shortcut-header = Bagong Shortcut
 newtab-topsites-edit-topsites-header = Baguhin ang Pangunahing Site
 newtab-topsites-title-label = Pamagat
 newtab-topsites-title-input =
-    .placeholder = Magpasok ng isang pamagat
+    .placeholder = MAgbigay ng Pamagat
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = I-type o i-paste ang URL
@@ -56,6 +61,7 @@ newtab-confirm-delete-history-p2 = Ang aksyon na ito ay hindi na mababawi.
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Sponsored
 
 ## Context Menu - Action Tooltips.
 
@@ -211,3 +217,14 @@ newtab-error-fallback-refresh-link = I-refresh ang pahina para masubukan uli.
 
 ## Customization Menu
 
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } row
+       *[other] { $num } rows
+    }
+newtab-custom-close-button = Isara
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Mga snippet

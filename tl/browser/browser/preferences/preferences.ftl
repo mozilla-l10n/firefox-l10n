@@ -428,6 +428,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = I-enable ang picture-in-picture video control
     .accesskey = E
 browsing-picture-in-picture-learn-more = Alamin
+browsing-media-control-learn-more = Alamin
 browsing-cfr-recommendations =
     .label = Magrekomenda ng mga extension habang ika'y nagba-browse
     .accesskey = R

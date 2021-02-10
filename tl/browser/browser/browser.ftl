@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -448,6 +448,7 @@ urlbar-result-action-search-in-private = Maghanap sa Private Window
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Maghanap gamit ang { $engine }
+urlbar-result-action-sponsored = Sponsored
 urlbar-result-action-switch-tab = Lumipat sa Tab
 urlbar-result-action-visit = Puntahan
 # Variables
@@ -485,6 +486,9 @@ pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong poin
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Alamin
+    .accesskey = l
 
 ## Bookmarks panels, menus and toolbar
 

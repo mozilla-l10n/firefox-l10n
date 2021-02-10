@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Mag-import mula sa Ibang Browser…
 about-logins-menu-menuitem-import-from-a-file = Kunin mula sa File…
 about-logins-menu-menuitem-export-logins = i-Export ang mga Login…
+about-logins-menu-menuitem-remove-all-logins = Alisin Lahat ng Login...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mga Kagustuhan
@@ -174,6 +175,11 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Alisin Lahat
        *[other] Alisin Lahat
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Alisin ang lahat ng { $count } login?
+       *[other] Remove all { $count } logins?
+    }
 about-logins-confirm-export-dialog-title = Mag-export ng mga login at password
 about-logins-confirm-export-dialog-message = Mase-save ang mga password mo bilang readable text (hal., PangitNaP@ssw0rd) kaya pwede itong makita ng kahit sinong makakapagbukas ng na-export na file.
 about-logins-confirm-export-dialog-confirm-button = i-Export…
@@ -238,11 +244,20 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV Document
        *[other] CSV File
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV Document
+       *[other] TSV File
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = Tapos na
+about-logins-import-dialog-error-cancel = Kanselahin
 
 ## Logins import report page
 

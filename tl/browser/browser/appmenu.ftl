@@ -17,6 +17,14 @@ appmenuitem-new-window =
     .label = Bagong Window
 appmenuitem-new-private-window =
     .label = Bagong Private Window
+appmenuitem-passwords =
+    .label = Mga Password
+appmenuitem-exit =
+    .label = Lumabas
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Mga Setting
 
 ## Zoom and Fullscreen Controls
 
@@ -47,6 +55,19 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-learn-more = Alamin
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Help panel
 

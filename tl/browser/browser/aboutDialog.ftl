@@ -24,6 +24,7 @@ update-unsupported = Hindi ka na maaaring makapag-update sa sistemang ito. <labe
 update-restarting = Nag-rerestart...
 channel-description = Ikaw ay kasalukuyang nasa <label data-l10n-name="current-channel"></label> update channel.
 warningDesc-version = Ang { -brand-short-name } ay eksperimental at hindi pa pirmihan.
+aboutdialog-help-user = Tulong sa { -brand-product-name }
 aboutdialog-submit-feedback = Magbigay ng Katugunan...
 community-exp = Ang <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ay isang <label data-l10n-name="community-exp-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
 community-2 = Ang { -brand-short-name } ay idinisenyo ng <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, isang <label data-l10n-name="community-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
