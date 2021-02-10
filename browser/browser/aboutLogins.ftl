@@ -124,6 +124,9 @@ about-logins-export-password-os-auth-dialog-message-win = Pa esportar los anicio
 ## Primary Password notification
 
 about-logins-primary-password-notification-message = Introduz al contraseña primaria pa ver los anicios de sesión y contraseñes guardaos
+master-password-reload-button =
+    .label = Aniciar sesión
+    .accesskey = A
 
 ## Password Sync notification
 
@@ -173,14 +176,18 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] ¿Quitar { $count } aniciu de sesión de tolos preseos?
        *[other] ¿Quitar { $count } anicios de sesión de tolos preseos?
     }
+about-logins-confirm-export-dialog-title = Esportación d'anicios de sesión y contraseñes
 about-logins-confirm-export-dialog-message = Les contraseñes van guardase como testu lleible (por exemplu: C0ntR4s4ñ4M4l4), polo que tol mundu va poder abrir el ficheru esportáu y veles.
 about-logins-confirm-export-dialog-confirm-button = Esportar…
+about-logins-alert-import-title = Completóse la importación
+about-logins-alert-import-message = Mira'l sumariu detalláu de la importación
 confirm-discard-changes-dialog-title = ¿Escartar los cambeos ensin guardar?
 confirm-discard-changes-dialog-message = Van perdese tolos cambeos ensin guardar.
 confirm-discard-changes-dialog-confirm-button = Escartar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-learn-more-link = Deprender más
 
 ## Vulnerable Password notification
 
@@ -191,17 +198,24 @@ about-logins-vulnerable-alert-title = Contraseña vulnerable
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Esportación del ficheru d'anicios de sesión
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = anicios_sesión.csv
+about-logins-export-file-picker-export-button = Esportar
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importación d'un ficheru d'anicios de sesión
+about-logins-import-file-picker-import-button = Importar
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Completóse la importación
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importó)</span>
