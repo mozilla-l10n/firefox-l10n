@@ -23,7 +23,7 @@ update-otherInstanceHandlingUpdates = Otra instancia ta anovando { -brand-short-
 update-manual = Hai anovamientos disponibles en <label data-l10n-name="manual-link"/>
 update-unsupported = Yá nun vas poder anovar más nesti sistema.<label data-l10n-name="unsupported-link">Deprendi más</label>
 update-restarting = Reaniciando…
-channel-description = Anguaño tas na canal <label data-l10n-name="current-channel"></label> d'anovamientos. 
+channel-description = Anguaño tas na canal d'anovamientos <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } ye esperimental y pue ser inestable.
 aboutdialog-help-user = Ayuda de { -brand-product-name }
 aboutdialog-submit-feedback = Opinar
