@@ -213,6 +213,9 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Arrampuñamientu del sitiu web
+breach-alert-text = Hebo un escape o robu de les contraseñes d'esti sitiu web dende la última vegada qu'anovesti los detalles d'aniciu de sesión. Camuda la contraseña pa protexer la cuenta.
+about-logins-breach-alert-date = Esti arrampuñamientu asociedió'l { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Dir a { $hostname }
@@ -221,6 +224,7 @@ about-logins-breach-alert-learn-more-link = Deprender más
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Contraseña vulnerable
+about-logins-vulnerable-alert-text2 = Esta contraseña usóse n'otra cuenta que quiciabes tuviere nun arrampuñamientu de datos. Usar la mesma contraseña en toles cuentes ye un riesgu. Camuda esta contraseña.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Dir a { $hostname }
