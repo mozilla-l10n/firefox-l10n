@@ -31,6 +31,7 @@ policy-DisableFormHistory = Nun recuerda l'historial de busques y formularios.
 policy-DisablePasswordReveal = Nun permite que les contraseñes se desvelen nos anicios de sesión guardaos.
 policy-DisablePocket = Desactiva la carauterística de guardáu de páxines web en Pocket.
 policy-DisablePrivateBrowsing = Desactiva'l restolar en privao.
+policy-DisableSecurityBypass = Evita que l'usuariu omita ciertes alvertencies de seguranza.
 policy-DisableSystemAddonUpdate = Evita que'l restolador instale y anueve complementos del sistema.
 policy-DisableTelemetry = Desactiva la telemetría.
 policy-DisplayBookmarksToolbar = Amuesa la barra de marcadores por defeutu.
