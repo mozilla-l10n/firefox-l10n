@@ -265,15 +265,32 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Completóse la importación
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Anicios de sesión amestaos:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Anicios de sesión amestaos:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Ancios de sesión anovaos:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ancios de sesión anovaos:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Anicios de sesión duplicaos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importó)</span>
+       *[other] <span>Anicios de sesión duplicaos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importaron)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
-        [one] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importó)</span>
-       *[other] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importaron)</span>
+        [one] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nun s'importó)</span>
+       *[other] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nun s'importaron)</span>
     }
 about-logins-import-dialog-done = Fecho
 about-logins-import-dialog-error-title = Fallu de la importación
 about-logins-import-dialog-error-conflicting-values-title = Un aniciu de sesión tien dellos valores en conflictu
 about-logins-import-dialog-error-conflicting-values-description = Por exemplu: nomes d'usuariu, contraseñes o URL múltiples pa un aniciu de sesión.
+about-logins-import-dialog-error-file-format-title = Problemes col formatu del ficheru
+about-logins-import-dialog-error-file-format-description = Falten les testeres de les columnes o son incorreutes. Asegúrate de que'l ficheru inclúi les columnes pal nome d'usuariu, la contraseña y la URL.
 about-logins-import-dialog-error-file-permission-title = Nun pue lleese'l ficheru
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun tienes permisu pa lleer el ficheru. Prueba a camudar los sos permisos.
 about-logins-import-dialog-error-unable-to-read-title = Nun pue analizase'l ficheru
