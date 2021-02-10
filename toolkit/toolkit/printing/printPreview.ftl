@@ -57,4 +57,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Siste side
-
+printpreview-homearrow-button =
+    .title = Første side
+printpreview-previousarrow-button =
+    .title = Føregåande side
+printpreview-nextarrow-button =
+    .title = Neste side
+printpreview-endarrow-button =
+    .title = Siste side

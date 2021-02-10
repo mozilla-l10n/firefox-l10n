@@ -72,10 +72,17 @@ profiler-popup-settings =
     .value = Innstillingar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Rediger innstillingar …
+profiler-popup-recording-screen = Registrerer…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
     .label = Tilpassa
+profiler-popup-start-recording-button =
+    .label = Start registrering
+profiler-popup-discard-button =
+    .label = Forkast
+profiler-popup-capture-button =
+    .label = Fang
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
