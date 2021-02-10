@@ -14,4 +14,15 @@ changed-desc-profiles = La instalación de { -brand-short-name } tien un perfil 
 changed-desc-dedicated = Pa que seya más fácil y seguro cambiar ente instalaciones de Firefox (incluyíos Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition, and Firefox Nightly), esta instalación agora tien un perfil dedicáu. Nun comparte automáticamente la to información guardada con otres instalaciones de Firefox.
 lost = <b>Nun perdiesti nengún datu personal o personalización.</b> Si yá guardesti información nel Firefox d'esti ordenador, va siguir tando disponible n'otra instalación de Firefox.
 options-title = ¿Qué opciones tengo?
-options-do-nothing = Si nun faes nada, los datos del to perfil de { -brand-short-name } van ser diferentes del perfil d'otres instalaciones de Firefox.
+options-do-nothing = Si nun faes nada, los datos del to perfil de { -brand-short-name } van estremase de los datos de perfil d'otres instalaciones de Firefox.
+options-use-sync = Si quies que tolos datos del to perfil tean en toles instalaciones de Firefox, pues usar una { -fxaccount-brand-name } pa tenelos sincronizaos.
+resources = Recursos:
+support-link = Usu del xestor de perfiles - Artículu de sofitu
+sync-header = Anicia sesión o crea una { -fxaccount-brand-name }
+sync-label = Introduz el to corréu
+sync-input =
+    .placeholder = Corréu
+sync-button = Siguir
+sync-terms = Al siguir, aceptes los <a data-l10n-name="terms">términos del serviciu</a> y l'<a data-l10n-name="privacy">avisu de privacidá</a>.
+sync-first = ¿Ye la primer vegada qu'uses { -sync-brand-name }? Vas tener d'aniciar sesión en cada instalación de Firefox pa sincronizar la to información.
+sync-learn = Deprender más
