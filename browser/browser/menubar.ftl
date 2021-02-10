@@ -16,9 +16,11 @@ menu-application-services =
 menu-application-hide-this =
     .label = Anubrir { -brand-shorter-name }
 menu-application-hide-other =
-    .label = Anubrir otros
+    .label = Anubrir lo demás
 menu-application-show-all =
     .label = Amosar too
+menu-application-touch-bar =
+    .label = Personalizar la barra táctil…
 
 ##
 
@@ -65,22 +67,17 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = Ventana privada nueva
     .accesskey = p
-# "Open Location" is only displayed on macOS, and only on windows
-# that aren't main browser windows, or when there are no windows
-# but Firefox is still running.
-menu-file-open-location =
-    .label = Abrir allugamientu…
 menu-file-open-file =
-    .label = Abrir ficheru…
+    .label = Abrir un ficheru…
     .accesskey = A
 menu-file-close =
     .label = Zarrar
     .accesskey = Z
 menu-file-close-window =
-    .label = Zarrar ventana
+    .label = Zarrar la ventana
     .accesskey = v
 menu-file-save-page =
-    .label = Guardar páxina como…
+    .label = Guardar la páxina como…
     .accesskey = A
 menu-file-email-link =
     .label = Unviar enllaz…
@@ -307,8 +304,7 @@ menu-help-safe-mode-with-addons =
     .label = Reaniciar colos complementos activaos
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Reportar sitiu fraudulentu…
     .accesskey = R
