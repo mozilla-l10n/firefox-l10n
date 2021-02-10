@@ -260,6 +260,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Depurador de distribuciones
+    .accesskey = d
 
 ## Window Menu
 
@@ -297,28 +300,26 @@ menu-help-product =
 menu-help-show-tour =
     .label = Percorríu per { -brand-shorter-name }
     .accesskey = P
+menu-help-import-from-another-browser =
+    .label = Importar d'otru restolador…
+    .accesskey = I
 menu-help-keyboard-shortcuts =
-    .label = Atayos de tecláu
+    .label = Atayos del tecláu
     .accesskey = t
+menu-get-help =
+    .label = Consiguir ayuda
+    .accesskey = C
 menu-help-troubleshooting-info =
     .label = Información d'igua de problemes
     .accesskey = i
 menu-help-taskmanager =
     .label = Xestor de xeres
 menu-help-feedback-page =
-    .label = Unviar feedback…
-    .accesskey = U
+    .label = Opinar…
+    .accesskey = O
 menu-help-safe-mode-without-addons =
     .label = Reaniciar colos complementos desactivaos…
     .accesskey = R
 menu-help-safe-mode-with-addons =
     .label = Reaniciar colos complementos activaos
     .accesskey = R
-# Label of the Help menu item. Either this or
-# menu-help-notdeceptive is shown.
-menu-help-report-deceptive-site =
-    .label = Reportar sitiu fraudulentu…
-    .accesskey = R
-menu-help-not-deceptive =
-    .label = Esti nun ye un sitiu fraudulentu…
-    .accesskey = f
