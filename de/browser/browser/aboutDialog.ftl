@@ -13,7 +13,7 @@ update-updateButton =
     .accesskey = Z
 update-checkingForUpdates = Nach Updates suchen…
 update-downloading = <img data-l10n-name="icon"/>Update wird heruntergeladen — <label data-l10n-name="download-status"/>
-update-downloading-message = Update wird heruntergeladen — <label data-l10n-name="download-status"/>
+update-downloading-message = Update wird heruntergeladen – <label data-l10n-name="download-status"/>
 update-applying = Update wird durchgeführt…
 update-failed = Update fehlgeschlagen. <label data-l10n-name="failed-link">Laden Sie die neueste Version herunter</label>
 update-failed-main = Update fehlgeschlagen. <a data-l10n-name="failed-link-main">Laden Sie die neueste Version herunter</a>
