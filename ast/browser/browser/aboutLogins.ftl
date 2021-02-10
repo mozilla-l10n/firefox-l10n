@@ -61,6 +61,8 @@ about-logins-login-list-empty-search-description = Nun hai resultaos que concase
 login-list-item-title-new-login = Aniciu de sesión nuevu
 login-list-item-subtitle-new-login = Introduz los datos d'aniciu de sesión
 login-list-item-subtitle-missing-username = (ensin nome d'usuariu)
+about-logins-list-item-breach-icon =
+    .title = Sitiu web arrampuñáu
 about-logins-list-item-vulnerable-password-icon =
     .title = Contraseña vulnerable
 
@@ -224,7 +226,7 @@ about-logins-breach-alert-learn-more-link = Deprender más
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Contraseña vulnerable
-about-logins-vulnerable-alert-text2 = Esta contraseña usóse n'otra cuenta que quiciabes tuviere nun arrampuñamientu de datos. Usar la mesma contraseña en toles cuentes ye un riesgu. Camuda esta contraseña.
+about-logins-vulnerable-alert-text2 = Esta contraseña usóse n'otra cuenta que quiciabes tuviere nun arrampuñamientu de datos. Usar los mesmos datos en toles cuentes ponles en riesgu. Camuda esta contraseña.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Dir a { $hostname }
