@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = Abrir nuna ventanta privada nueva
     .accesskey = P
-
 places-new-bookmark =
     .label = Marcador nuevu…
     .accesskey = n
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Separtador nuevu
     .accesskey = v
-
 places-view =
     .label = Ver
     .accesskey = r
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por data y sitiu
     .accesskey = t
-
 places-history-search =
     .placeholder = Historial de gueta
 places-bookmarks-search =
     .placeholder = Guetar marcadores
-
 places-delete-domain-data =
     .label = Escaecer esti sitiu web
     .accesskey = E
