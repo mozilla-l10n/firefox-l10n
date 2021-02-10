@@ -8,3 +8,18 @@
 menu-view-charset =
     .label = Tekstkoding
     .accesskey = e
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Uønskt
+    .tooltiptext = Merk dei valde meldingane som uønskt e-post
+toolbar-not-junk-button =
+    .label = Ønskt
+    .tooltiptext = Merk dei valde meldingene som ønskt e-post
+toolbar-delete-button =
+    .label = Slett
+    .tooltiptext = Slett valgte meldinger eller mappe
+toolbar-undelete-button =
+    .label = Angre sletting
+    .tooltiptext = Angre sletting av valde meldingar
