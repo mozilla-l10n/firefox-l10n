@@ -117,6 +117,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Pa editar l'aniciu de sesi�
 about-logins-edit-login-os-auth-dialog-message-macosx = editar l'aniciu de sesión guardáu
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pa ver la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = revelar la contraseña guardada
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pa copiar la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 # This message can be seen when attempting to copy a password in about:logins
@@ -198,6 +201,9 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 
 ## Breach Alert notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Dir a { $hostname }
 about-logins-breach-alert-learn-more-link = Deprender más
 
 ## Vulnerable Password notification
@@ -266,6 +272,7 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Fecho
 about-logins-import-dialog-error-title = Fallu de la importación
+about-logins-import-dialog-error-conflicting-values-title = Un aniciu de sesión tien dellos valores en conflictu
 about-logins-import-dialog-error-file-permission-title = Nun pue lleese'l ficheru
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun tienes permisu pa lleer el ficheru. Prueba a camudar los sos permisos.
 about-logins-import-dialog-error-unable-to-read-title = Nun pue analizase'l ficheru
