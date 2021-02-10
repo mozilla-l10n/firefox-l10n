@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } Ñepytyvõ
 appmenu-about =
     .label = { -brand-shorter-name } rehegua
     .accesskey = A
@@ -115,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Tairenda mbopya’eha
     .accesskey = K
+appmenu-get-help =
+    .label = Eguereko pytyvõ
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = Marandu apañuãi myatyrõrã
     .accesskey = T
