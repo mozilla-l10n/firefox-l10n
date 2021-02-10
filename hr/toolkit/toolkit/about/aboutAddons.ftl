@@ -25,14 +25,14 @@ sidebar-help-button-title =
     .title = Podrška za dodatke
 preferences =
     { PLATFORM() ->
-        [windows] { -brand-short-name } Mogućnosti
-       *[other] { -brand-short-name } Postavke
+        [windows] Mogućnosti za { -brand-short-name }
+       *[other] Postavke za { -brand-short-name }
     }
 sidebar-preferences-button-title =
     .title =
         { PLATFORM() ->
-            [windows] { -brand-short-name } Mogućnosti
-           *[other] { -brand-short-name } Postavke
+            [windows] Mogućnosti za { -brand-short-name }
+           *[other] Postavke za { -brand-short-name }
         }
 show-unsigned-extensions-button =
     .label = Neka proširenja nisu mogla biti verificirana
