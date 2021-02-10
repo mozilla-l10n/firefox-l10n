@@ -8,6 +8,11 @@ about-logins-page-title = Anicios de sesión y contraseñes
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Lleva les contraseñes contigo
+login-app-promo-subtitle = Consigui { -lockwise-brand-name } de baldre
+login-app-promo-android =
+    .alt = Baxar en Google Play
+login-app-promo-apple =
+    .alt = Baxar n'App Store
 login-filter =
     .placeholder = Buscar anicios de sesión
 create-login-button = Crear un aniciu de sesión
@@ -64,6 +69,10 @@ about-logins-login-intro-heading-logged-out = ¿Busques los anicios de sesión g
 about-logins-login-intro-heading-logged-in = Nun s'atoparon anicios de sesión sincronizaos.
 login-intro-description = Si guardesti los anicios de sesión nel { -brand-product-name } d'otru preséu, esti ye'l mou de tenelos equí:
 login-intro-instruction-fxa = Crea una { -fxaccount-brand-name } o anicia sesión nel preséu onde se guarden los tos anicios de sesión
+login-intro-instruction-fxa-settings = Asegúrate de que marcares el caxellu «Anicios de sesión» nos axustes de { -sync-brand-short-name }
+about-logins-intro-instruction-help = Visita <a data-l10n-name="help-link">Sofitu de { -lockwise-brand-short-name }</a> pa más ayuda
+about-logins-intro-import = Si los tos anicios de sesión tán guardaos n'otru restolador, pues <a data-l10n-name="import-link">importalos a { -lockwise-brand-short-name }</a>
+about-logins-intro-import2 = Si los tos anicios de sesión tán guardaos fuera de { -brand-product-name }, pues <a data-l10n-name="import-browser-link">importalos d'otru restolador</a> o <a data-l10n-name="import-file-link">d'un ficheru</a>
 
 ## Login
 
@@ -99,15 +108,40 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Pa editar l'aniciu de sesión, introduz los datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Pa ver la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Pa copiar la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 
 ## Master Password notification
 
+master-password-notification-message = Introduz la contraseña maestra pa ver los anicios de sesión y contraseñes guardaos
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Pa esportar los anicios de sesión, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Introduz al contraseña primaria pa ver los anicios de sesión y contraseñes guardaos
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ¿Quies tener los tos anicios de sesión onde uses { -brand-product-name }? Vete a les opciones de { -sync-brand-short-name } y marca'l caxellu «Anicios de sesión».
+       *[other] ¿Quies tener los tos anicios de sesión onde uses { -brand-product-name }? Vete a les preferencies de { -sync-brand-short-name } y marca'l caxellu «Anicios de sesión».
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Dir a les opciones de { -sync-brand-short-name }
+           *[other] Dir a les preferencies de { -sync-brand-short-name }
+        }
+    .accesskey = D
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Nun m'entrugar más
+    .accesskey = N
 
 ## Dialogs
 
@@ -139,6 +173,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] ¿Quitar { $count } aniciu de sesión de tolos preseos?
        *[other] ¿Quitar { $count } anicios de sesión de tolos preseos?
     }
+about-logins-confirm-export-dialog-message = Les contraseñes van guardase como testu lleible (por exemplu: C0ntR4s4ñ4M4l4), polo que tol mundu va poder abrir el ficheru esportáu y veles.
 about-logins-confirm-export-dialog-confirm-button = Esportar…
 confirm-discard-changes-dialog-title = ¿Escartar los cambeos ensin guardar?
 confirm-discard-changes-dialog-message = Van perdese tolos cambeos ensin guardar.
@@ -172,10 +207,12 @@ about-logins-import-dialog-items-error =
         [one] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importó)</span>
        *[other] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importaron)</span>
     }
+about-logins-import-dialog-done = Fecho
 about-logins-import-dialog-error-file-permission-title = Nun pue lleese'l ficheru
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun tienes permisu pa lleer el ficheru. Prueba a camudar los sos permisos.
 about-logins-import-dialog-error-unable-to-read-title = Nun pue analizase'l ficheru
 about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún aniciu de sesión
+about-logins-import-dialog-error-learn-more = Deprender más
 
 ## Logins import report page
 
