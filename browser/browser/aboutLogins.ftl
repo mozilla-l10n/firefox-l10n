@@ -70,7 +70,7 @@ about-logins-login-intro-heading-logged-in = Nun s'atoparon anicios de sesión s
 login-intro-description = Si guardesti los anicios de sesión nel { -brand-product-name } d'otru preséu, esti ye'l mou de tenelos equí:
 login-intro-instruction-fxa = Crea una { -fxaccount-brand-name } o anicia sesión nel preséu onde se guarden los tos anicios de sesión
 login-intro-instruction-fxa-settings = Asegúrate de que marcares el caxellu «Anicios de sesión» nos axustes de { -sync-brand-short-name }
-about-logins-intro-instruction-help = Visita <a data-l10n-name="help-link">Sofitu de { -lockwise-brand-short-name }</a> pa más ayuda
+about-logins-intro-instruction-help = Visita'l <a data-l10n-name="help-link">Sofitu de { -lockwise-brand-short-name }</a> pa más ayuda
 about-logins-intro-import = Si los tos anicios de sesión tán guardaos n'otru restolador, pues <a data-l10n-name="import-link">importalos a { -lockwise-brand-short-name }</a>
 about-logins-intro-import2 = Si los tos anicios de sesión tán guardaos fuera de { -brand-product-name }, pues <a data-l10n-name="import-browser-link">importalos d'otru restolador</a> o <a data-l10n-name="import-file-link">d'un ficheru</a>
 
@@ -222,11 +222,13 @@ about-logins-import-dialog-items-error =
        *[other] <span>Fallos:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nun s'importaron)</span>
     }
 about-logins-import-dialog-done = Fecho
+about-logins-import-dialog-error-title = Fallu de la importación
 about-logins-import-dialog-error-file-permission-title = Nun pue lleese'l ficheru
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun tienes permisu pa lleer el ficheru. Prueba a camudar los sos permisos.
 about-logins-import-dialog-error-unable-to-read-title = Nun pue analizase'l ficheru
 about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún aniciu de sesión
 about-logins-import-dialog-error-learn-more = Deprender más
+about-logins-import-dialog-error-cancel = Encaboxar
 
 ## Logins import report page
 
