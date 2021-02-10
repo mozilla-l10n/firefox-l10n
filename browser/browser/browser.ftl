@@ -61,6 +61,8 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = Teclexa menos, atopa más: Busca { $engineName } direutamente dende la barra de direiciones.
+urlbar-search-tips-redirect-2 = Comienza la busca na barra de direiciones pa ver les suxerencies de { $engineName } y l'historial de restolar.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Esbilla esti atayu p'atopar más rápido lo que precises.
@@ -151,7 +153,7 @@ identity-extension-page = Esta páxina cargóse dende una estensión.
 identity-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures.
 identity-passive-loaded = Partes d'esta páxina nun son segures (como les imáxenes).
 identity-active-loaded = Desactivesti la proteición nesta páxina.
-identity-weak-encryption = Esta páxina usa cifráu feble.
+identity-weak-encryption = Esta páxina usa un cifráu feble.
 identity-https-only-connection-upgraded = (anovóse a HTTPS)
 identity-https-only-label = Mou de namás HTTPS
 identity-https-only-dropdown-on =
