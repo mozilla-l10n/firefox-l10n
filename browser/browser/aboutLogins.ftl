@@ -168,7 +168,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Hapus info masuk ini?
 confirm-delete-dialog-message = Tindakan ini tidak dapat diurungkan.
 about-logins-confirm-remove-dialog-confirm-button = Hapus
-about-logins-confirm-remove-all-dialog-confirm-button = Hapus Seluruhnya
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Hapus
+       *[other] Hapus Seluruhnya
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label = Ya, hapus log masuk ini
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
@@ -238,3 +242,11 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokumen CSV
        *[other] Berkas CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+

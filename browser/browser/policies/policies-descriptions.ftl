@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Kembalikan ke perilaku
 ##
 
 policy-LocalFileLinks = Izinkan situs web tertentu untuk bertaut dengan berkas lokal.
-policy-MasterPassword = Membutuhkan atau mencegah penggunaan kata sandi utama.
 policy-ManagedBookmarks = Mengonfigurasi daftar markah yang dikelola oleh administrator yang tidak dapat diubah oleh pengguna.
+policy-MasterPassword = Membutuhkan atau mencegah penggunaan kata sandi utama.
+policy-ManualAppUpdateOnly = Izinkan pembaruan manual saja dan jangan beri tahu pengguna tentang pembaruan.
 policy-PrimaryPassword = Membutuhkan atau mencegah penggunaan Sandi Utama.
 policy-NetworkPrediction = Aktifkan atau nonaktifkan prediksi jaringan (DNS prefetching).
 policy-NewTabPage = Aktifkan atau nonaktifkan laman Tab Baru.
