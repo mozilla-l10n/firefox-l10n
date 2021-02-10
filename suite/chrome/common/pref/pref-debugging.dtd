@@ -36,3 +36,5 @@
 <!ENTITY debugReflowShowFrameCounts.accesskey    "A">
 <!ENTITY debugReflowDumpFrameCounts.label        "Aantallen frames dumpen">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "d">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Aantallen frames dumpen op frame">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
