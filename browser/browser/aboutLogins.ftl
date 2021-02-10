@@ -41,6 +41,8 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pa iPhone y iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Anicios de sesión que concasen cola consulta de busca
 login-list-count =
     { $count ->
         [one] { $count } aniciu de sesión
@@ -110,16 +112,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Pa editar l'aniciu de sesión, introduz los datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = editar l'aniciu de sesión guardáu
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pa ver la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pa copiar la contraseña, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contraseña guardada
 
 ## Master Password notification
 
 master-password-notification-message = Introduz la contraseña maestra pa ver los anicios de sesión y contraseñes guardaos
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pa esportar los anicios de sesión, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = esportar los anicios de sesión y contraseñes guardaos
 
 ## Primary Password notification
 
@@ -192,9 +203,20 @@ about-logins-breach-alert-learn-more-link = Deprender más
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Contraseña vulnerable
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Dir a { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Deprender más
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Yá esiste una entrada pa «{ $loginTitle }» con esi nome d'usuariu. <a data-l10n-name="duplicate-link">¿Dir a la entrada esistente?</a>
+# This is a generic error message.
+about-logins-error-message-default = Asocedió un fallu al tentar de guardar esta contraseña.
 
 ## Login Export Dialog
 
@@ -204,12 +226,33 @@ about-logins-export-file-picker-title = Esportación del ficheru d'anicios de se
 # This must end in .csv
 about-logins-export-file-picker-default-filename = anicios_sesión.csv
 about-logins-export-file-picker-export-button = Esportar
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documentu CSV
+       *[other] Ficheru CSV
+    }
 
 ## Login Import Dialog
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importación d'un ficheru d'anicios de sesión
 about-logins-import-file-picker-import-button = Importar
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] Documentu CSV
+       *[other] Ficheru CSV
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Documentu TSV
+       *[other] Ficheru TSV
+    }
 
 ##
 ## Variables:
