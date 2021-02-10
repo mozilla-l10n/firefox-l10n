@@ -7,7 +7,7 @@
 
 about-config-intro-warning-title = Sigui con curiáu
 about-config-intro-warning-text = El cambéu de la configuración avanzada pue afeutar al rindimientu o seguranza de { -brand-short-name }.
-about-config-intro-warning-checkbox = Avísame cuando tente d'acceder a estes preferencies
+about-config-intro-warning-checkbox = Avisame cuando tente d'acceder a estes preferencies
 about-config-intro-warning-button = Aceptar el riesgu y siguir
 
 ##
