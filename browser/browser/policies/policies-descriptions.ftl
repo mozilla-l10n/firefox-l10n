@@ -10,13 +10,16 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-AppUpdateURL = Aiftar una URL personalizada d'anovamientu de l'aplicación.
-
-policy-Authentication = Configurar l'autenticación integrada pa sitios web que l'admitan.
-
-policy-BlockAboutAddons = Bloquiar l'accesu al alministrador de complementos (about:addons).
+policy-DefaultDownloadDirectory = Afita'l direutoriu de descarga predetermináu.
+policy-DisableAppUpdate = Evita que'l restolador s'anueve.
+policy-DisableBuiltinPDFViewer = Desactiva PDF.js, el visor de PDFs integráu en { -brand-short-name }.
+policy-DisableDeveloperTools = Bloquia l'accesu a les ferramientes de desendolcu.
+policy-DisableFirefoxStudies = Evita que { -brand-short-name } execute estudios.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+
 ##
 
+# PDF.js and PDF should not be translated
+policy-PDFjs = Desactiva o configura PDF.js, el visor de PDFs integráu en { -brand-short-name }.
