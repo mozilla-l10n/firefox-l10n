@@ -13,9 +13,11 @@
 <!ENTITY image-filesize.label  "Velikost datoteke:">
 <!ENTITY image-filesize.value  "Neznano">
 <!ENTITY insdel-sec.label      "Vstavi/izbriši lastnosti">
+<!ENTITY insdel-cite.label     "Podatki:">
 <!ENTITY insdel-date.label     "Datum:">
 <!ENTITY link-sec.label        "Lastnosti povezave">
 <!ENTITY link-url.label        "Naslov:">
+<!ENTITY link-target.label     "Odpre se v:">
 <!ENTITY link-lang.label       "Ciljni jezik:">
 <!ENTITY misc-sec.label        "Razne lastnosti">
 <!ENTITY misc-lang.label       "Jezik besedila:">

@@ -9,8 +9,11 @@
 
 <!-- Link Toolbar visibility options -->
 <!ENTITY linkToolbarAlways.label "Pokaži vedno">
+<!ENTITY linkToolbarAlways.accesskey "k">
 <!ENTITY linkToolbarAsNeeded.label "Pokaži samo po potrebi">
+<!ENTITY linkToolbarAsNeeded.accesskey "p">
 <!ENTITY linkToolbarNever.label "Skrij vedno">
+<!ENTITY linkToolbarNever.accesskey "S">
 
 <!-- Toolbar buttons, menus, and menuitems -->
 <!ENTITY topButton.label "Na vrh">
@@ -26,7 +29,9 @@
 <!ENTITY chapterButton.label "Poglavja">
 <!ENTITY sectionButton.label "Odseki">
 <!ENTITY subSectionButton.label "Pododseki">
+<!ENTITY appendixButton.label "Priloge">
 <!ENTITY glossaryButton.label "Besednjak">
+<!ENTITY indexButton.label "Kazalo">
 
 <!ENTITY moreButton.label "Več">
 
@@ -34,6 +39,7 @@
 <!ENTITY searchButton.label "Iskanje">
 
 <!ENTITY authorButton.label "Avtor(ji)">
+<!ENTITY copyrightButton.label "Avtorske pravice">
 
 <!ENTITY bookmarkButton.label "Zaznamki">
 
