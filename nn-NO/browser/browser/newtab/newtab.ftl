@@ -234,3 +234,4 @@ newtab-custom-close-button = Lat att
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Snuttar
+newtab-custom-settings = Handter fleire innstillingar
