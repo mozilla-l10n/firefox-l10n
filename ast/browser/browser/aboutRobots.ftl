@@ -19,7 +19,7 @@ error-long-desc1 = Los robós nun puen firir a humanos o, pente inaición, permi
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Los robós vimos coses que la xente nun creyería.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
-error-long-desc3 = Los robós son collacios de plásticu colos qu'esfrutar.
+error-long-desc3 = Los robós son collacios de plásticu colos que lo pasar podre.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Los robós tienen culeres de metal brillante que nun deberíen mordese.
 # TV: Battlestar Galactica (2004 series). From the opening text.
