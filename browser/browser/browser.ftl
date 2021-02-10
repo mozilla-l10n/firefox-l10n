@@ -89,6 +89,8 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Bloquiesti l'almacenamientu permanente pa esti sitiu.
 urlbar-popup-blocked =
     .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
+urlbar-install-blocked =
+    .tooltiptext = Bloquiesti la instalación de complementos pa esti sitiu web.
 
 ## Page Action Context Menu
 
@@ -148,6 +150,8 @@ bookmark-panel-done-button =
 
 ## Identity Panel
 
+identity-connection-not-secure = La conexón nun ye segura
+identity-connection-secure = La conexón ye segura
 identity-connection-file = Esta páxina ta atroxada nel ordenador.
 identity-extension-page = Esta páxina cargóse dende una estensión.
 identity-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures.
@@ -165,6 +169,8 @@ identity-https-only-dropdown-off-temporarily =
 identity-permissions =
     .value = Permisos
 identity-permissions-empty = Nun-y concediesti nengún permisu especial a esti sitiu.
+identity-connection-not-secure-security-view = Nun tas conectáu de forma segura a esti sitiu.
+identity-connection-verified = Tas conectáu de forma segura a esti sitiu.
 identity-description-weak-cipher-intro = La conexón a esti sitiu web usa un cifráu feble y nun ye privada.
 identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Deprender más</label>
 identity-description-passive-loaded = La conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
@@ -213,6 +219,10 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } nun va amos
 
 ## URL Bar
 
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = El restolador ta baxo control remotu
+urlbar-permissions-granted =
+    .tooltiptext = Concediésti-y permisos adicionales a esti sitiu web.
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estensión:
