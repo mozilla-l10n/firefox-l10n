@@ -3,17 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Amestar contenedor nuevu
+    .title = Amiestu d'un contenedor nuevu
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
     .title = Preferencies del contenedor { $name }
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nome
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
-    .placeholder = Introduz nome del contenedor
-
+    .placeholder = Introduz el nome del contenedor
 containers-icon-label = Iconu
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Color
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Fecho
-    .accesskey = D
-
+    .accesskey = F
+containers-dialog =
+    .buttonlabelaccept = Fecho
+    .buttonaccesskeyaccept = F
 containers-color-blue =
     .label = Azul
 containers-color-turquoise =
@@ -55,12 +50,13 @@ containers-color-yellow =
 containers-color-orange =
     .label = Naranxa
 containers-color-red =
-    .label = Bermeyu
+    .label = Coloráu
 containers-color-pink =
     .label = Rosa
 containers-color-purple =
     .label = Moráu
-
+containers-icon-fence =
+    .label = Valla
 containers-icon-fingerprint =
     .label = Buelga
 containers-icon-briefcase =
@@ -70,7 +66,7 @@ containers-icon-briefcase =
 containers-icon-dollar =
     .label = Símbolu del dólar
 containers-icon-cart =
-    .label = Carru de merca
+    .label = Carru de la compra
 containers-icon-circle =
     .label = Puntu
 containers-icon-vacation =
@@ -82,8 +78,8 @@ containers-icon-food =
 containers-icon-fruit =
     .label = Fruta
 containers-icon-pet =
-    .label = Mascota
+    .label = Animal de compaña
 containers-icon-tree =
-    .label = Árbol
+    .label = Árbole
 containers-icon-chill =
-    .label = Relax
+    .label = Descansu
