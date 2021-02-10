@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Uvoz iz drugog browsera…
 about-logins-menu-menuitem-import-from-a-file = Uvezi iz fajla…
 about-logins-menu-menuitem-export-logins = Izvezi prijave…
+about-logins-menu-menuitem-remove-all-logins = Ukloni sve prijave…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcije
@@ -42,6 +43,12 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } za iPhone i iPad
 
 login-list =
     .aria-label = Prijave koje odgovaraju pretrazi
+login-list-count =
+    { $count ->
+        [one] { $count } prijava
+        [few] { $count } prijave
+       *[other] { $count } prijava
+    }
 login-list-sort-label-text = Sortiraj po:
 login-list-name-option = Nazivu (A-Z)
 login-list-name-reverse-option = Naziv (A-Z)
@@ -55,15 +62,22 @@ about-logins-login-list-empty-search-description = Nema odgovarajućih rezultata
 login-list-item-title-new-login = Nova prijava
 login-list-item-subtitle-new-login = Unesite vaše podatke za prijavu
 login-list-item-subtitle-missing-username = (nema korisničkog imena)
+about-logins-list-item-breach-icon =
+    .title = Hakirana web stranica
 about-logins-list-item-vulnerable-password-icon =
     .title = Ranjiva lozinka
 
 ## Introduction screen
 
 login-intro-heading = Tražite vaše spašene prijave? Podesite { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-out = Tražiš svoje spremljene prijave? Postavi { -sync-brand-short-name } ili ih uvezi.
 about-logins-login-intro-heading-logged-in = Nema pronađenih sinhronizovanih prijava.
 login-intro-description = Ako ste spasili prijave u { -brand-product-name } na drugom uređaju, evo kako im možete pristupiti:
 login-intro-instruction-fxa = Kreirajte ili se prijavite na vaš { -fxaccount-brand-name } na uređaju na kojem ste spasili prijave
+login-intro-instruction-fxa-settings = Provjeri, je li potvrdni okvir prijave označen u { -sync-brand-short-name } postavkama
+about-logins-intro-instruction-help = Posjeti <a data-l10n-name="help-link">{ -lockwise-brand-short-name } podršku</a> za dodatnu pomoć
+about-logins-intro-import = Ako su tvoje prijave spremljene u jednom drugom browseru, možeš ih <a data-l10n-name="import-link"> uvesti u { -lockwise-brand-short-name } </a>
+about-logins-intro-import2 = Ako su tvoje prijave spremljene izvan { -brand-product-name }a, možeš ih <a data-l10n-name="import-browser-link">uvesti iz jednog drugog browsera</a> ili <a data-l10n-name="import-file-link">iz jedne datoteke</a>
 
 ## Login
 
@@ -71,6 +85,7 @@ login-item-new-login-title = Kreiraj novu prijavu
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Ukloni
 login-item-origin-label = Adresa web stranice
+login-item-tooltip-message = Provjeri podudara li se adresa web stranice na kojoj se prijavljuješ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Korisničko ime
@@ -86,6 +101,9 @@ login-item-copied-password-button-text = Kopirano!
 login-item-save-changes-button = Spasi promjene
 login-item-save-new-button = Spasi
 login-item-cancel-button = Otkaži
+login-item-time-changed = Zadnja izmjena: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Stvoreno: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Zadnji put korišteno: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -185,3 +203,11 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV dokument
        *[other] CSV fajl
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
