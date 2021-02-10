@@ -6,12 +6,16 @@
 <!ENTITY tabCmd.label "Zavihek brskalnika">
 <!ENTITY openCmd.label "Odpri spletni naslov …">
 <!ENTITY openFileCmd.label "Odpri datoteko …">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
 
 <!ENTITY closeOtherTabs.label "Zapri ostale zavihke">
+<!ENTITY closeOtherTabs.accesskey "t">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label "Zapri zavihke na desni">
+<!ENTITY  closeTabsToTheEnd.accesskey "d">
 
 <!ENTITY uploadFile.label "Naloži datoteko …">
 <!ENTITY uploadFile.accesskey "ž">
@@ -21,10 +25,18 @@ left instead of right. -->
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Pokaži/Skrij">
+<!ENTITY toolbarsCmd.accesskey "ž">
+<!ENTITY tabbarCmd.label "Vrstica z zavihki">
+<!ENTITY tabbarCmd.accesskey "z">
 <!ENTITY taskbarCmd.label "Vrstica stanja">
 
+<!ENTITY fullScreenCmd.label "Celoten zaslon">
+<!ENTITY fullScreenCmd.accesskey "C">
 
 <!ENTITY useStyleSheetMenu.label "Uporabi slog">
+<!ENTITY useStyleSheetMenu.accesskey "U">
+<!ENTITY useStyleSheetNone.label "Brez">
+<!ENTITY useStyleSheetNone.accesskey "B">
 <!ENTITY useStyleSheetPersistentOnly.label "Privzeti slog">
 <!ENTITY bidiSwitchPageDirectionItem.label "Preklopi smer strani">
 <!ENTITY pageSourceCmd.label "Vir strani">

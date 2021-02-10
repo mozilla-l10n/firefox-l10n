@@ -12,16 +12,20 @@
      between this phrase and the linked about.credits.linkTitle phrase, so if
      your locale needs a space between words, add it at the end of this
      entity. -->
+<!ENTITY about.credits.beforeLink     "Glej seznam ">
+<!ENTITY about.credits.linkTitle      "sodelavcev">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space
      between the linked about.credits.linkTitle phrase and this phrase, so if
      your locale needs a space between words, add it at the start of this
      entity. -->
+<!ENTITY about.credits.afterLink      " projekta Mozilla.">
 
 <!-- LOCALIZATION NOTE (about.license.beforeTheLink): note that there is no
      space between this phrase and the linked about.license.linkTitle phrase,
      so if your locale needs a space between words, add it at the end of this
      entity. -->
 <!ENTITY about.license.beforeTheLink  "Preberite ">
+<!ENTITY about.license.linkTitle      "podrobnosti o dovoljenjih">
 <!-- LOCALIZATION NOTE (about.license.afterTheLink): note that there is no
      space between the linked about.license.linkTitle phrase and this phrase,
      so if your locale needs a space between words, add it at the start of
@@ -45,10 +49,12 @@
      phrase, so if your locale needs a space between words, add it at the end
      of this entity. -->
 <!ENTITY about.buildconfig.beforeTheLink "Oglejte si ">
+<!ENTITY about.buildconfig.linkTitle     "nastavitve graditve">
 <!-- LOCALIZATION NOTE (about.buildconfig.afterTheLink): note that there is no
      space between the linked about.buildconfig.linkTitle phrase and this
      phrase, so if your locale needs a space between words, add it at the
      start of this entity. -->
+<!ENTITY about.buildconfig.afterTheLink  " za to različico.">
 
 
 <!-- LOCALIZATION NOTE end of declarations that were copied from
@@ -58,3 +64,5 @@
      channel.description.start and channel.description.end create one sentence,
      with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
+<!ENTITY channel.description.start  "Uporabljate posodobitveni kanal ">
+<!ENTITY channel.description.end    ".">
