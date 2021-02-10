@@ -29,10 +29,13 @@ policy-DisableFirefoxStudies = Evita que { -brand-short-name } execute estudios.
 policy-DisableForgetButton = Evita l'accesu al botón «Escaecer».
 policy-DisableFormHistory = Nun recuerda l'historial de busques y formularios.
 policy-DisablePasswordReveal = Nun permite que les contraseñes se desvelen nos anicios de sesión guardaos.
+policy-DisablePocket = Desactiva la carauterística de guardáu de páxines web en Pocket.
 policy-DisablePrivateBrowsing = Desactiva'l restolar en privao.
+policy-DisableSystemAddonUpdate = Evita que'l restolador instale y anueve complementos del sistema.
 policy-DisableTelemetry = Desactiva la telemetría.
 policy-DisplayBookmarksToolbar = Amuesa la barra de marcadores por defeutu.
 policy-DisplayMenuBar = Amuesa la barra del menú por defeutu.
+policy-DNSOverHTTPS = Configura'l DNS per HTTPS.
 policy-DontCheckDefaultBrowser = Desactiva la comprobación del restolador predetermináu nel aniciu.
 policy-DownloadDirectory = Afita y bloquia'l direutoriu de descarga.
 # “lock” means that the user won’t be able to change this setting
@@ -52,11 +55,13 @@ policy-LocalFileLinks = Permite que sitios web específicos enllacien a ficheros
 policy-MasterPassword = Rique o evita l'usu d'una contraseña maestra
 policy-PrimaryPassword = Rique o evita l'usu d'una contraseña primaria.
 policy-NewTabPage = Des/activa la páxina «Llingüeta nueva».
+policy-NoDefaultBookmarks = Desactiva la creación de marcadores predeterminaos incluyíos con { -brand-short-name } y los marcadores intelixentes (Lo más visitao, Etiquetes de recién). Nota: esta política namás ye efeutiva si s'usa enantes de la primer execución d'un perfil.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactiva o configura PDF.js, el visor de PDFs integráu en { -brand-short-name }.
 policy-PopupBlocking = Permite que ciertos sitios web amuesen ventanos emerxentes por defeutu.
 policy-PromptForDownloadLocation = Entruga ónde guardar los ficheros al baxalos.
 policy-Proxy = Configura los axustes d'un proxy.
+policy-SanitizeOnShutdown2 = Llimpia los datos del restolar al colar.
 policy-SearchEngines = Configura los axustes de los motores de busca. Esta política namás ta disponible na versión Extended Support Release (ESR)
 policy-SearchSuggestEnabled = Des/activa les suxerencies de busca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
