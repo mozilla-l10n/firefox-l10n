@@ -315,6 +315,7 @@ about-logins-import-dialog-error-unable-to-read-title = Nun pue analizase'l fich
 about-logins-import-dialog-error-unable-to-read-description = Asegúrate de qu'esbillesti un ficheru CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún aniciu de sesión
 about-logins-import-dialog-error-learn-more = Deprender más
+about-logins-import-dialog-error-try-again = Retentar…
 about-logins-import-dialog-error-cancel = Encaboxar
 
 ## Logins import report page
