@@ -129,9 +129,9 @@ downloads-history =
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
-    .title = Descargar detalles
+    .title = Detalles de la descarga
 downloads-clear-downloads-button =
-    .label = Llimpiar descargues
+    .label = Llimpiar les descargues
     .tooltiptext = Llimpia les descargues completes, encaboxaes y fallíes
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
@@ -139,4 +139,4 @@ downloads-list-empty =
     .value = Nun hai descargues.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = Nun hai descargues pa esta sesión.
+    .value = Nun hai descargues nesta sesión.
