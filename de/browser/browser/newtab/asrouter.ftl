@@ -212,6 +212,11 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } hat seit { $date } mehr als <b>{ $blockedCount }</b> Element zur Aktivitätenverfolgung blockiert!
        *[other] { -brand-short-name } hat seit { $date } mehr als <b>{ $blockedCount }</b> Elemente zur Aktivitätenverfolgung blockiert!
     }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } hat seit { DATETIME($date, month: "long", year: "numeric") } mehr als <b>{ $blockedCount }</b> Element zur Aktivitätenverfolgung blockiert!
+       *[other] { -brand-short-name } hat seit { DATETIME($date, month: "long", year: "numeric") } mehr als <b>{ $blockedCount }</b> Elemente zur Aktivitätenverfolgung blockiert!
+    }
 cfr-doorhanger-milestone-ok-button = Alle anzeigen
     .accesskey = A
 cfr-doorhanger-milestone-close-button = Schließen
@@ -298,3 +303,4 @@ cfr-whatsnew-bookmarking-body = Es ist einfacher, Ihre Lieblingsseiten im Auge z
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Umfassender Schutz vor seitenübergreifender Cookie-Aktivitätenverfolgung
+cfr-whatsnew-cross-site-tracking-body = Sie können sich jetzt für einen besseren Schutz vor Cookie-Aktivitätenverfolgung entscheiden. { -brand-short-name } kann Ihre Aktivitäten und Daten auf der Website isolieren, auf der Sie sich gerade befinden, sodass im Browser gespeicherte Informationen nicht zwischen Websites geteilt werden.
