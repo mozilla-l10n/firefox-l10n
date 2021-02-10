@@ -49,22 +49,33 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Ensin proxy pa
     .accesskey = E
 connection-proxy-noproxy-desc = Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Les conexones a localhost, 127.0.0.1 y ::1 enxamás pasen per un proxy.
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Les conexones a localhost, 127.0.0.1/8 y ::1 enxamás pasen per un proxy.
 connection-proxy-autotype =
-    .label = URL pa la configuración automática del proxy
-    .accesskey = A
+    .label = URL pa la configuración automática d'un proxy
+    .accesskey = a
 connection-proxy-reload =
     .label = Recargar
     .accesskey = R
 connection-proxy-autologin =
-    .label = Nun entrugar identificación si la contraseña ta guardada
+    .label = Nun suxerir l'autenticación si se guarda la contraseña
     .accesskey = u
-    .tooltip = Esta opción identifícate de mou silenciosu énte los proxys cuando guardasti les credenciales pa ellos. Va entrugásete si falla la identificación.
+    .tooltip = Esta opción va autenticate dafurto nos proxys cuando guardes los datos d'accesu. Si l'autenticación falla, van volver pidise los datos d'accesu.
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS al usar SOCKS v5
     .accesskey = D
 connection-dns-over-https =
-    .label = Habilita DNS sobre HTTPS
-    .accesskey = H
+    .label = Activar DNS per HTTPS
+    .accesskey = b
+connection-dns-over-https-url-resolver = Usar el fornidor
+    .accesskey = f
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (por defeutu)
+    .tooltiptext = Usa la URL predeterminada pa resolver el DNS per HTTPS
 connection-dns-over-https-url-custom =
     .label = Personalizada
     .accesskey = P
