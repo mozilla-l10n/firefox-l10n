@@ -319,6 +319,7 @@ about-logins-import-dialog-error-title = Greška uvoza
 about-logins-import-dialog-error-conflicting-values-title = Višestruke konfliktne vrijednosti za jednu prijavu
 about-logins-import-dialog-error-conflicting-values-description = Npr. više korisničkih imena, lozinki, URL-ova, itd. za jednu prijavu.
 about-logins-import-dialog-error-file-format-title = Greška formata datoteke
+about-logins-import-dialog-error-file-format-description = Pogrešna ili nedostajuća zaglavlja stupaca. Provjeri sadrži li datoteka stupce za korisničko ime, lozinku i URL.
 about-logins-import-dialog-error-file-permission-title = Nije moguće pročitati datoteku
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nema dozvolu za čitanje datoteke. Pokušaj promijeniti dozvole za datoteku.
 about-logins-import-dialog-error-unable-to-read-title = Nije moguće analizirati datoteku
@@ -327,3 +328,7 @@ about-logins-import-dialog-error-no-logins-imported = Nije uvezena nijedna prija
 about-logins-import-dialog-error-learn-more = Saznaj više
 about-logins-import-dialog-error-try-again = Pokušaj ponovno…
 about-logins-import-dialog-error-cancel = Odustani
+
+## Logins import report page
+
+about-logins-import-report-page-title = Sažeto izvješće uvoza

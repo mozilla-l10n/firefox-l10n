@@ -527,6 +527,10 @@ bookmarks-show-all-bookmarks =
     .label = Prikaži sve zabilješke
 bookmarks-recent-bookmarks =
     .value = Nedavno zabilježeno
+bookmarks-manage-bookmarks =
+    .label = Upravljanje zabilješkama
+bookmarks-recent-bookmarks-panel =
+    .value = Nedavne zabilješke
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
 bookmarks-sidebar-content =
@@ -555,6 +559,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Sakrij alatnu traku zabilješki
            *[other] Prikaži traku zabilješki
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Sakrij traku zabilješki
+           *[other] Prikaži traku zabilješki
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -580,6 +590,9 @@ bookmarks-toolbar-placeholder =
     .title = Stavke alatne trake zabilješki
 bookmarks-toolbar-placeholder-button =
     .label = Stavke alatne trake zabilješki
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Zabilježi trenutnu karticu
 
 ## Library Panel items
 
