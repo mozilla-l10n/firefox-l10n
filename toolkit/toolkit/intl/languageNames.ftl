@@ -176,6 +176,7 @@ language-name-st = Sotho del sud
 language-name-su = Sundanese
 language-name-sv = Svedese
 language-name-sw = Swahili
+language-name-szl = Slesiano
 language-name-ta = Tamil
 language-name-te = Telugu
 language-name-tg = Tagico
