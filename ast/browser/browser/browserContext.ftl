@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-navbar-tooltip-instruction =
-    .value =
-        { PLATFORM() ->
-            [macos] Arrastra hacia abaxo p'amosar l'historial
-           *[other] Clic drechu o arrastra haza abaxo p'amosar l'historial
-        }
 
 ## Back
 
@@ -48,9 +42,6 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
-main-context-menu-page-save =
-    .label = Guardar páxina como…
-    .accesskey = d
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
