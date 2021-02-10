@@ -67,7 +67,7 @@ page-source-shortcut-safari =
 page-info-shortcut =
     .key = I
 print-shortcut =
-    .key = p
+    .key = P
 mute-toggle-shortcut =
     .key = M
 nav-back-shortcut-alt =
@@ -75,41 +75,50 @@ nav-back-shortcut-alt =
 nav-fwd-shortcut-alt =
     .key = ]
 nav-reload-shortcut =
-    .key = r
+    .key = R
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
 history-show-all-shortcut =
     .key = H
+history-show-all-shortcut-mac =
+    .key = Y
 history-sidebar-shortcut =
-    .key = h
+    .key = H
 full-screen-shortcut =
     .key = F
 reader-mode-toggle-shortcut-windows =
     .keycode = VK_F9
 reader-mode-toggle-shortcut-other =
     .key = R
-# Pick the key that is commonly present
-# in your locale keyboards above the
-# `picture-in-picture-toggle-shortcut` key.
-picture-in-picture-toggle-shortcut-alt =
-    .key = { "}" }
+picture-in-picture-toggle-shortcut-mac =
+    .key = ]
 bookmark-this-page-shortcut =
-    .key = d
+    .key = D
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-all-shortcut =
     .key =
         { PLATFORM() ->
-            [linux] o
-           *[other] b
+            [linux] O
+           *[other] B
         }
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
+bookmark-show-library-shortcut =
+    .key = O
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
 bookmark-show-sidebar-shortcut =
-    .key = b
+    .key = B
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-toolbar-shortcut =
+    .key = B
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -117,21 +126,14 @@ bookmark-show-sidebar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
-# If in keyboard layouts popular for your locale you need to use the shift key
-# to access the original shortcuts, the following shortcuts can be used.
-# Otherwise their values should remain empty.
-full-zoom-reduce-shortcut-alt =
-    .key = { "" }
+full-zoom-reduce-shortcut-alt-a =
+    .key = _
 full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt =
     .key = =
-full-zoom-enlarge-shortcut-alt2 =
-    .key = { "" }
 full-zoom-reset-shortcut =
     .key = 0
-full-zoom-reset-shortcut-alt =
-    .key = { "" }
 
 ##
 
