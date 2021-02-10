@@ -24,3 +24,6 @@ carddav-refreshinterval-hours-value =
             [one] kvar time
            *[other] kvarr { $hours }. time
         }
+carddav-readonly-label =
+    .label = Skriveverna
+    .accesskey = S
