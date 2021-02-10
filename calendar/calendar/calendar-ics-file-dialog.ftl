@@ -18,4 +18,14 @@ calendar-ics-file-dialog-progress-message = Importerer…
 calendar-ics-file-import-success = Importert!
 calendar-ics-file-import-error = Mislykka import på grunn av ein feil.
 calendar-ics-file-import-complete = Import er fullført
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Eitt element vart ignorert sidan det allereie finst i destinasjonskalenderen.
+       *[other] { $duplicatesCount } element vart ignorerte sidan dei allereie finst i destinasjonskalenderen.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Eitt element kunne ikkje importerast. Sjekk feilkonsollen for detaljar.
+       *[other] { $errorsCount } elemente kunne ikkje importerast. Sjekk feilkonsollen for detaljar.
+    }
 calendar-ics-file-dialog-no-calendars = Der er ingen kalendrar som kan importere hendingar og oppgåver.
