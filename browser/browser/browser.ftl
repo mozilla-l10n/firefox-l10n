@@ -557,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Zuppentar la trav d'utensils da segnapaginas
            *[other] Mussar la trav d'utensils da segnapaginas
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Zuppentar la trav d'utensils dals segnapaginas
+           *[other] Mussar la trav d'utensils dals segnapaginas
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -582,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Simbols dals segnapaginas
 bookmarks-toolbar-placeholder-button =
     .label = Simbols dals segnapaginas
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Agiuntar in segnapagina per il tab actual
 
 ## Library Panel items
 
