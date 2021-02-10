@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fontes
-
 fonts-window-close =
     .key = w
 
@@ -12,17 +11,16 @@ fonts-window-close =
 
 fonts-langgroup-header = Fontes pa
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
     .label = Armeniu
 fonts-langgroup-bengali =
-    .label = Bengalí
+    .label = Bengalín
 fonts-langgroup-simpl-chinese =
     .label = Chinu simplificáu
 fonts-langgroup-trad-chinese-hk =
-    .label = Chinu tradicional (Hong Kong)
+    .label = Chinu tradicional (Ḥong Kong)
 fonts-langgroup-trad-chinese =
     .label = Chinu tradicional (Taiwan)
 fonts-langgroup-cyrillic =
@@ -77,33 +75,24 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Tamañu
     .accesskey = T
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monoespaciáu
     .accesskey = M
-
 fonts-monospace-size = Tamañu
     .accesskey = u
-
 fonts-minsize = Tamañu mínimu de fonte
     .accesskey = o
-
 fonts-minsize-none =
     .label = Dengún
-
 fonts-allow-own =
     .label = Permitir a les páxines escoyer les sos propies fontes, en cuenta de les tuyes d'arriba
     .accesskey = A
@@ -115,10 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación de testu pa conteníu vieyu
 fonts-languages-fallback-desc = Esta codificación de testu úsase pa conteníu vieyu que nun declara la so codificación.
-
 fonts-languages-fallback-label = Codificación de testu predet.
     .accesskey = T
-
 fonts-languages-fallback-name-auto =
     .label = Predetermináu pa la llingua actual
 fonts-languages-fallback-name-arabic =
@@ -151,7 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Otros (incl. européu occidental)
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
