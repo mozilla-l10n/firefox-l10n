@@ -185,10 +185,22 @@ about-logins-confirm-remove-all-dialog-title =
         [one] ¿Quitar { $count } aniciu de sesión?
        *[other] ¿Quitar { $count } anicios de sesión?
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Esto va quitar l'aniciu de sesión que guardares en { -brand-short-name } y cualesquier alerta d'arrampuñamientu qu'apaeza equí. Nun vas ser a desfacer esta aición.
+        [one] Esto va quitar l'aniciu de sesión que guardares en { -brand-short-name } y cualesquier alerta d'arrampuñamientu qu'apaeza equí. Nun vas ser a desfacer esta aición.
+       *[other] Esto va quitar los anicios de sesión que guardares en { -brand-short-name } y cualesquier alerta d'arrampuñamientu qu'apaeza equí. Nun vas ser a desfacer esta aición.
+    }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] ¿Quitar { $count } aniciu de sesión de tolos preseos?
        *[other] ¿Quitar { $count } anicios de sesión de tolos preseos?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Esto va quitar l'aniciu de sesión que guardares nel { -brand-short-name } de tolos preseos sincronizaos cola to { -fxaccount-brand-name }. Tamién va quitar les alertes d'arrampuñamientu qu'apaezan equí. Nun vas ser a desfacer esta aición.
+        [one] Esto va quitar l'aniciu de sesión que guardares nel { -brand-short-name } de tolos preseos sincronizaos cola to { -fxaccount-brand-name }. Tamién va quitar les alertes d'arrampuñamientu qu'apaezan equí. Nun vas ser a desfacer esta aición.
+       *[other] Esto va quitar los anicios de sesión que guardares nel { -brand-short-name } de tolos preseos sincronizaos cola to { -fxaccount-brand-name }. Tamién va quitar les alertes d'arrampuñamientu qu'apaezan equí. Nun vas ser a desfacer esta aición.
     }
 about-logins-confirm-export-dialog-title = Esportación d'anicios de sesión y contraseñes
 about-logins-confirm-export-dialog-message = Les contraseñes van guardase como testu lleible (por exemplu: C0ntR4s4ñ4M4l4), polo que tol mundu va poder abrir el ficheru esportáu y veles.
