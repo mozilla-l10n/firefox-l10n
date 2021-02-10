@@ -77,6 +77,10 @@ profiler-popup-disabled =
     Anguaño l'analizador de rindimientu ta desactiváu, quiciabes seya porque hai
     una llingüeta privada abierta.
 profiler-popup-recording-screen = Rexistrando…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Preaxuste personalizáu
 profiler-popup-start-recording-button =
     .label = Aniciar un rexistru
 profiler-popup-discard-button =
@@ -118,7 +122,7 @@ appmenu-get-help =
     .accesskey = a
 appmenu-help-troubleshooting-info =
     .label = Información d'igua de problemes
-    .accesskey = i
+    .accesskey = I
 appmenu-help-taskmanager =
     .label = Xestor de xeres
 appmenu-help-feedback-page =
@@ -128,10 +132,24 @@ appmenu-help-feedback-page =
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-safe-mode-without-addons =
+    .label = Reaniciar colos complementos desactivaos…
+    .accesskey = R
+appmenu-help-safe-mode-with-addons =
+    .label = Reaniciar colos complementos activaos
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Informar de que'l sitiu ye engañosu…
+    .accesskey = e
+appmenu-help-not-deceptive =
+    .label = Esto nun ye un sitiu engañosu…
+    .accesskey = e
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Comprobar los anovamientos…
