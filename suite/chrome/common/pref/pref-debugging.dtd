@@ -28,9 +28,13 @@
 <!ENTITY debugMotionEventDumping.label "Bevegelsesbegivenhet-dumping">
 <!ENTITY debugMotionEventDumping.accesskey "m">
 <!ENTITY debugCrossingEventDumping.label "Hendelsesoverskridende dumping">
+<!ENTITY debugCrossingEventDumping.accesskey "H">
 
 <!-- Reflow Event Debugging -->
-<!ENTITY debugReflowShowFrameCounts.label        "Vis rammeantall">
+<!ENTITY debugReflowEvents.label                 "Reflow-hendelser">
+<!ENTITY debugReflowShowFrameCounts.label        "Vis ramme-teller">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "V">
-<!ENTITY debugReflowDumpFrameCounts.label        "Dump rammeantall">
+<!ENTITY debugReflowDumpFrameCounts.label        "Dump ramme-teller">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Dump ramme-for-ramme-teller">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
