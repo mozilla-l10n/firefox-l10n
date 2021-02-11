@@ -129,9 +129,6 @@ tabs-group-header = Llingüetes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab circula pente les llingüetes nel orde según el so usu recién
     .accesskey = T
-open-new-link-as-tabs =
-    .label = Abrir enllaces en llingüetes en cuenta d'en ventanes nueves
-    .accesskey = A
 warn-on-close-multiple-tabs =
     .label = Avisar cuando zarres múltiples llingüetes
     .accesskey = m
@@ -425,9 +422,7 @@ home-mode-choice-default =
 home-mode-choice-custom =
     .label = URLs personalizaes...
 home-mode-choice-blank =
-    .label = Páxina en blanco
-home-homepage-custom-url =
-    .placeholder = Apegar URL...
+    .label = Páxina balera
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -497,16 +492,6 @@ search-engine-default-desc-2 = Esti ye'l motor de busca predetermináu na barra 
 search-suggestions-option =
     .label = Apurrir suxerencies de gueta
     .accesskey = D
-search-show-suggestions-url-bar-option =
-    .label = Amosar suxerencies de gueta nos resultaos de la barra direiciones
-    .accesskey = A
-# This string describes what the user will observe when the system
-# prioritizes search suggestions over browsing history in the results
-# that extend down from the address bar. In the original English string,
-# "ahead" refers to location (appearing most proximate to), not time
-# (appearing before).
-search-show-suggestions-above-history-option =
-    .label = Amosar suxerencies de gueta enantes del historial nos resultaos de la barra direiciones
 search-suggestions-cant-show = Les suxerencies de gueta nun van amosase nos resultaos de la barra de direiciones porque configurasti { -brand-short-name } pa que nun recuerde l'historial.
 search-one-click-header = Motores de gueta nun clic
 search-one-click-desc = Escoyer los motores de gueta alternativos qu'apaecen baxo la barra de direiciones y la barra de gueta cuando entames a escribir una pallabra clave.
@@ -566,9 +551,6 @@ sync-manage-account = Xestionar cuenta
     .accesskey = o
 sync-signedin-unverified = { $email } nun ta verificada.
 sync-signedin-login-failure = Anicia sesión pa reconeutate, por favor { $email }
-sync-resend-verification =
-    .label = Reunviar verificación
-    .accesskey = R
 sync-sign-in =
     .label = Aniciar sesión
     .accesskey = g
@@ -616,41 +598,14 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historial
     .accesskey = r
-sync-engine-tabs =
-    .label = Llingüetes abiertes
-    .tooltiptext = Una llista de lo que ta abierto en tolos preseos sincronizaos
-    .accesskey = L
 sync-engine-logins-passwords =
     .label = Anicios de sesión y contraseñes
     .tooltiptext = Anicios de sesión y contraseñes guardáes
     .accesskey = A
-sync-engine-addresses =
-    .label = Direiciones
-    .tooltiptext = Direiciones postales que guardasti (namái escritoriu)
-    .accesskey = D
-sync-engine-creditcards =
-    .label = Tarxetes de creitu
-    .tooltiptext = Nomes, númberos y dates de caducidá (namái escritoriu)
-    .accesskey = T
-sync-engine-addons =
-    .label = Complementos
-    .tooltiptext = Estensiones y temes pa Firefox d'escritoriu
-    .accesskey = C
-sync-engine-prefs =
-    .label =
-        { PLATFORM() ->
-            [windows] Opciones
-           *[other] Preferencies
-        }
-    .tooltiptext = Configuración xeneral, de privacidá y de seguranza que cambiasti
-    .accesskey = O
 
 ## The device name controls.
 
 sync-device-name-header = Nome del preséu
-sync-device-name-change =
-    .label = Camudar nome del preséu…
-    .accesskey = C
 sync-device-name-cancel =
     .label = Encaboxar
     .accesskey = n
@@ -668,10 +623,6 @@ privacy-header = Privacidá del restolador
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Usuarios y contraseñes
     .searchkeywords = { -lockwise-brand-short-name }
-# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
-forms-ask-to-save-logins =
-    .label = Entrugar pa guardar contraseñes y anicios de sesión de sitios web
-    .accesskey = E
 forms-exceptions =
     .label = Esceiciones…
     .accesskey = s
@@ -718,14 +669,10 @@ history-remember-option-never =
     .label = Nun recordar historial
 history-remember-option-custom =
     .label = Usar una configuración personalizada pal historial
-history-remember-description = { -brand-short-name } va recordar l'historial de navegación, descargues, formularios y guetes.
 history-dontremember-description = { -brand-short-name } usará los mesmos axustes que Restolar en privao u nun rescordará historial dalu cuando restoles la web.
 history-private-browsing-permanent =
     .label = Usar siempres el mou Restolar en privao
     .accesskey = p
-history-remember-browser-option =
-    .label = Recordar historial de navegación y descargues
-    .accesskey = R
 history-remember-search-option =
     .label = Recordar l'historial de formularios y guetes
     .accesskey = f
@@ -735,41 +682,16 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Axustes…
     .accesskey = C
-history-clear-button =
-    .label = Llimpiar historial…
-    .accesskey = L
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies y datos del sitiu
-sitedata-total-size-calculating = Calculando'l tamañu de los datos del sitiu y del caché…
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Les  cookies, datos del sitiu y caché almacenaos ocupen anguaño un { $value } { $unit } d'espaciu en discu.
 sitedata-learn-more = Deprendi más
-sitedata-delete-on-close =
-    .label = Desaniciar cookies y datos del sitiu cuando zarre { -brand-short-name }
-    .accesskey = D
-sitedata-allow-cookies-option =
-    .label = Aceutar cookies y datos del sitiu
-    .accesskey = A
-sitedata-disallow-cookies-option =
-    .label = Bloquiar cookies y datos del sitiu
-    .accesskey = B
-# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
-# The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Tipu bloquiáu
-    .accesskey = T
 sitedata-option-block-unvisited =
-    .label = Cookies de sitios web non andaos
+    .label = Cookies de sitios web ensin andar
 sitedata-option-block-all-third-party =
-    .label = Toles cookies de terceros (pue facer que dalgunos sitios web nun furrulen)
+    .label = Toles cookies de terceros (podría romper dalgunos sitios)
 sitedata-option-block-all =
-    .label = Toles cookies (fadrá que dalgunos sitios web nun furrulen)
-sitedata-clear =
-    .label = Llimpiar datos…
-    .accesskey = L
+    .label = Toles cookies (va causar que los sitios web ruempan)
 
 ## Privacy Section - Address Bar
 
