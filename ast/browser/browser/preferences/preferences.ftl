@@ -386,7 +386,7 @@ browsing-cfr-recommendations-learn-more = Deprender más
 ## General Section - Proxy
 
 network-settings-title = Axustes de rede
-network-proxy-connection-description = Configura cómo { -brand-short-name } se conecta a internet.
+network-proxy-connection-description = Configura cómo se conecta { -brand-short-name } a internet.
 network-proxy-connection-learn-more = Deprender más
 network-proxy-connection-settings =
     .label = Axustes…
@@ -456,9 +456,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-learn-more = Cómo funciona
 home-prefs-highlights-header =
     .label = Lo destacao
-home-prefs-highlights-description = Una esbilla de sitios que guardesti o anduviesti
+home-prefs-highlights-description = Una esbilla de sitios que guardesti o visitesti
 home-prefs-highlights-option-visited-pages =
-    .label = Páxines andaes
+    .label = Páxines visitaes
 home-prefs-highlights-options-bookmarks =
     .label = Marcadores
 home-prefs-highlights-option-most-recent-download =
@@ -479,7 +479,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Barra de busca
 search-bar-hidden =
-    .label = Usar la barra de direición pa buscar y navegar
+    .label = Usar la barra de direiciones pa buscar y navegar
 search-bar-shown =
     .label = Amestar la barra de busca na barra de ferramientes
 search-engine-default-header = Motor de busca predetermináu

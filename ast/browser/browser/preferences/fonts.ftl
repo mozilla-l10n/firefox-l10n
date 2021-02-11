@@ -94,7 +94,7 @@ fonts-minsize = Tamañu mínimu de la fonte
 fonts-minsize-none =
     .label = Nengún
 fonts-allow-own =
-    .label = Permitir que les páxines escueyan los sos fontes en cuentes d'esbillar les d'enriba
+    .label = Permitir que les páxines escueyan les sos fontes en cuentes d'esbillar les d'enriba
     .accesskey = P
 
 ## Text Encodings
