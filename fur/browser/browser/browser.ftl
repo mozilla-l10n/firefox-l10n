@@ -323,16 +323,35 @@ identity-description-weak-cipher-risk = Altris personis a puedin viodi lis tôs 
 identity-description-active-blocked = { -brand-short-name } al à blocât parts di cheste pagjine che no son siguris. <label data-l10n-name="link">Par savê di plui</label>
 identity-description-passive-loaded = La tô conession no je privade e altris a puedin viodi lis informazions che tu condividis cul sît.
 identity-description-passive-loaded-insecure = Chest sît web al conten contignûts che no son sigûrs (come lis imagjins). <label data-l10n-name="link">Plui informazions</label>
+identity-description-passive-loaded-mixed = Ancje se { -brand-short-name } al à blocât cualchi contignût, a'nd è ancjemò cualchidun su la pagjine che nol è sigûr (come lis imagjins). <label data-l10n-name="link">Plui informazions</label>
+identity-description-active-loaded = Chest sît web al conten contignûts che no son sigûrs (come i scripts) e la relative conession no je privade.
+identity-description-active-loaded-insecure = Altris a puedin viodi lis informazions che tu condividis cun chest sît (tant che passwords, messaçs, cjartis di credit e v.i.).
+identity-learn-more =
+    .value = Plui informazions
+identity-disable-mixed-content-blocking =
+    .label = Pal moment disabilite la protezion
+    .accesskey = d
+identity-enable-mixed-content-blocking =
+    .label = Abilite la protezion
+    .accesskey = A
+identity-more-info-link-text =
+    .label = Plui informazions
 
 ## Window controls
 
 browser-window-minimize-button =
     .tooltiptext = Ridûs a icone
+browser-window-maximize-button =
+    .tooltiptext = Slargje
+browser-window-restore-down-button =
+    .tooltiptext = Ripristine jù
 browser-window-close-button =
     .tooltiptext = Siere
 
 ## Tab actions
 
+browser-tab-audio-playing = Riproduzion in vore
+browser-tab-audio-muted = Cidinât
 
 ## Bookmarks toolbar items
 
