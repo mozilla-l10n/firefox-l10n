@@ -415,6 +415,10 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Inserìs i tiermins di ricercje
     .aria-label = Cîr { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Inserìs i tiermins di ricercje
+    .aria-label = Cîr i segnelibris
 urlbar-switch-to-tab =
     .value = Passe a la schede:
 urlbar-go-button =
