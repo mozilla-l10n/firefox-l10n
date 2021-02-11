@@ -25,6 +25,7 @@ onboarding-button-label-get-started = Entamar
 ## Welcome page strings
 
 onboarding-welcome-header = Afáyate en { -brand-short-name }
+onboarding-join-form-legal = Al siguir, aceptes los <a data-l10n-name="terms">Términos del Serviciu</a> y l'<a data-l10n-name="privacy">Avisu de Privacidá</a>.
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = ¿Yá tienes una cuenta?
 onboarding-cards-dismiss =
@@ -47,6 +48,9 @@ onboarding-sync-form-skip-login-button = Saltar esti pasu
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -60,13 +64,7 @@ onboarding-tracking-protection-button2 = Cómo funciona
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Mui bien, tienes { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Agora, instala la estensión <icon></icon><b>{ $addon-name }</b>.
-return-to-amo-extension-button = Amiesta la estensión
-return-to-amo-get-started-button = Primeros pasos col { -brand-short-name }
+onboarding-not-now-button-label = Agora non
 
 ## Custom Return To AMO onboarding strings
 
@@ -118,4 +116,9 @@ onboarding-multistage-theme-tooltip-light-2 =
 onboarding-multistage-theme-tooltip-dark-2 =
     .title =
         Usa un aspeutu escuru pa los botones,
+        el menú y les ventanes.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Usa un aspeutu coloríu pa los botones,
         el menú y les ventanes.
