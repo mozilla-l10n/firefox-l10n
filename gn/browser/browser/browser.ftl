@@ -524,6 +524,10 @@ bookmarks-show-all-bookmarks =
     .label = Opaite techaukaha jehechauka
 bookmarks-recent-bookmarks =
     .value = Oñembokurusu ramóva
+bookmarks-manage-bookmarks =
+    .label = Eñangareko techaukaháre
+bookmarks-recent-bookmarks-panel =
+    .value = Techaukaha ramogua
 bookmarks-toolbar-chevron =
     .tooltiptext = Techaukaha jehechaukave
 bookmarks-sidebar-content =
@@ -552,6 +556,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Eñomi Techaukaha Rembipuru Renda
            *[other] Techaukaha renda jehecha
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Emokany techaukaha renda
+           *[other] Ehechauka techaukaha renda
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -577,6 +587,9 @@ bookmarks-toolbar-placeholder =
     .title = Techaukaha rembipuru renda remimoĩ
 bookmarks-toolbar-placeholder-button =
     .label = Techaukaha rembipuru renda remimoĩ
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Embojuaju techaukaháre tendayke ag̃agua
 
 ## Library Panel items
 
