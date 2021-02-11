@@ -407,6 +407,14 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Cîr sul web
     .aria-label = Cîr cun { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Inserìs i tiermins di ricercje
+    .aria-label = Cîr { $name }
 urlbar-switch-to-tab =
     .value = Passe a la schede:
 urlbar-go-button =
