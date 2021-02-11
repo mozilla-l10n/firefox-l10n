@@ -705,6 +705,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Axustes…
     .accesskey = C
+history-clear-button =
+    .label = Llimpiar l'historial…
+    .accesskey = h
 
 ## Privacy Section - Site Data
 
