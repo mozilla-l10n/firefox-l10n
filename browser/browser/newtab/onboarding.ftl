@@ -84,6 +84,12 @@ onboarding-multistage-import-header = Importa les tos contraseñes, <br/>marcado
 onboarding-multistage-import-subtitle = ¿Vienes d'otru restolador? Importalo too a { -brand-short-name } ye perfácil.
 onboarding-multistage-import-primary-button-label = Aniciar la importación
 onboarding-multistage-import-secondary-button-label = Agora non
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Entamu: pantalla { $current } de { $total }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Escoyeta d'un <span data-l10n-name="zap">estilu</span>
