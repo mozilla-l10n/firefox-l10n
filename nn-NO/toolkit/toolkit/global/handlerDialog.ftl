@@ -32,11 +32,15 @@ permission-dialog-btn-choose-app =
     .label = Vel program
     .accessKey = V
 permission-dialog-unset-description = Du må velje eit program.
+permission-dialog-set-change-app-link = Vel eit anna program.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Vel program
+    .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Opne lenke
     .buttonaccesskeyaccept = O
