@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Ripristine impostazions predeterminadis
+    .label = Ripristine impostazions predefinidis
 customize-mode-lwthemes-menu-manage =
     .label = Gjestîs
     .accesskey = M

@@ -95,6 +95,13 @@ picture-in-picture-toggle-shortcut-mac =
     .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
+# `picture-in-picture-toggle-shortcut-mac` key.
+picture-in-picture-toggle-shortcut-mac-alt =
+    .key = { "}" }
+picture-in-picture-toggle-shortcut =
+    .key = ]
+# Pick the key that is commonly present
+# in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
@@ -112,8 +119,18 @@ bookmark-show-all-shortcut =
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
+bookmark-show-library-shortcut =
+    .key = O
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
 bookmark-show-sidebar-shortcut =
     .key = b
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-toolbar-shortcut =
+    .key = B
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -125,6 +142,10 @@ full-zoom-reduce-shortcut =
 # to access the original shortcuts, the following shortcuts can be used.
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
+    .key = { "" }
+full-zoom-reduce-shortcut-alt-a =
+    .key = _
+full-zoom-reduce-shortcut-alt-b =
     .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
@@ -147,6 +168,8 @@ private-browsing-shortcut =
 ## The shortcuts below are for Mac specific
 ## global menu.
 
+quit-app-shortcut =
+    .key = Q
 help-shortcut =
     .key = ?
 preferences-shortcut =
