@@ -4,8 +4,6 @@
 
 do-not-track-description = Unvia la señal «Nun rastrexar» a los sitios web p'avisalos de que nun quies que te rastrexen
 do-not-track-learn-more = Deprendi más
-do-not-track-option-default-content-blocking-known =
-    .label = Namái cuando { -brand-short-name } ta configuráu pa bloquiar los rastrexadores conocíos
 do-not-track-option-always =
     .label = Siempres
 pref-page-title =
@@ -13,21 +11,6 @@ pref-page-title =
         [windows] Opciones
        *[other] Preferencies
     }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Please keep the placeholder string short to avoid truncation.
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input-box =
-    .style = width: 15.4em
-    .placeholder =
-        { PLATFORM() ->
-            [windows] Atopar n'opciones
-           *[other] Atopar en preferencies
-        }
 category-list =
     .aria-label = Estayes
 pane-general-title = Xeneral
@@ -53,7 +36,7 @@ pane-experimental-reset =
     .label = Reafitar
     .accesskey = R
 help-button-label = Ayuda de { -brand-short-name }
-addons-button-label = Estensiones y temes
+addons-button-label = Estensiones y estilos
 focus-search =
     .key = f
 close-button =
@@ -180,7 +163,7 @@ containers-disable-alert-ok-button =
        *[other] Zarrar { $tabCount } llingüetes contenedores
     }
 containers-disable-alert-cancel-button = Calteneles habilitaes
-containers-remove-alert-title = ¿Desaniciar esti contenedor?
+containers-remove-alert-title = ¿Quitar esti contenedor?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
@@ -586,9 +569,6 @@ sync-signedin-login-failure = Anicia sesión pa reconeutate, por favor { $email 
 sync-resend-verification =
     .label = Reunviar verificación
     .accesskey = R
-sync-remove-account =
-    .label = Desaniciar cuenta
-    .accesskey = D
 sync-sign-in =
     .label = Aniciar sesión
     .accesskey = g
@@ -790,19 +770,13 @@ sitedata-option-block-all =
 sitedata-clear =
     .label = Llimpiar datos…
     .accesskey = L
-sitedata-settings =
-    .label = Xestionar datos…
-    .accesskey = X
-sitedata-cookies-permissions =
-    .label = Xestionar permisos...
-    .accesskey = X
 
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra de direiciones
 addressbar-suggest = Al usar la barra de direiciones, suxerir:
 addressbar-locbar-history-option =
-    .label = Historial de navegación
+    .label = Historial de restolar
     .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = Marcadores
@@ -814,10 +788,15 @@ addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Deprender más
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Estándar
+    .accesskey = d
 
 ##
 
@@ -899,7 +878,9 @@ permissions-a11y-privacy-link = Deprendi más
 
 ## Privacy Section - Data Collection
 
+collection-header = Recoyida y usu de datos de { -brand-short-name }
 collection-privacy-notice = Avisu de privacidá
+collection-health-report-telemetry-disabled-link = Deprender más
 collection-health-report-link = Deprender más
 collection-studies =
     .label = Permitir que { -brand-short-name } instale y execute estudios
@@ -956,6 +937,14 @@ space-alert-under-5gb-ok-button =
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Mou de namás HTTPS
+httpsonly-learn-more = Deprender más
+httpsonly-radio-enabled =
+    .label = Activar el mou de namás HTTPS en toles ventanes
+httpsonly-radio-enabled-pbm =
+    .label = Activar el mou de namás HTTPS únicamente nes ventanes privaes
+httpsonly-radio-disabled =
+    .label = Nun activar el mou de namás HTTPS
 
 ## The following strings are used in the Download section of settings
 
