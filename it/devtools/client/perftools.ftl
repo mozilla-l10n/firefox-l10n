@@ -108,3 +108,17 @@ perftools-record-all-registered-threads =
 
 perftools-tools-threads-input-label =
   .title = Elenco di nomi di thread, separati da virgole, utilizzato per attivare la profilazione di thread specifici nel profiler. È sufficiente una corrispondenza parziale con il nome del thread affinché venga incluso. Gli spazi sono significativi.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler
+
+perftools-onboarding-message = <b>Novità</b>: { -profiler-brand-name } ora è integrato negli strumenti di sviluppo. <a>Scopri altre informazioni</a> su questo potente strumento.
+
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (per un periodo limitato di tempo sarà possibile accedere al pannello Prestazioni originale tramite <a>{ options-context-advanced-settings }</a>)
+
+perftools-onboarding-close-button =
+  .aria-label = Chiudi il messaggio introduttivo
