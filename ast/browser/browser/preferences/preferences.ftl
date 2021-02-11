@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Unviar a los sitios web la señal «Nun me siguir» pa dici-yos que nun quies que te rastrexen
 do-not-track-learn-more = Deprender más
+do-not-track-option-default-content-blocking-known =
+    .label = Namás cuando { -brand-short-name } tea configuráu pa bloquiar los rastrexadores conocíos
 do-not-track-option-always =
     .label = Siempres
 pref-page-title =
@@ -653,6 +656,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies y datos de los sitios
 sitedata-learn-more = Deprender más
 sitedata-option-block-cross-site-trackers =
     .label = Rastrexadores ente sitios
@@ -715,6 +719,7 @@ content-blocking-all-third-party-cookies = Toles cookies de terceros
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Xeneradores de buelgues
 content-blocking-warning-title = ¡Atención!
+content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o funcionen correutamente. Si te paez qu'un sitiu ta rotu, pues desactivar la proteición escontra'l rastrexu pa esi sitiu y cargar tol conteníu.
 content-blocking-reload-description = Va ser preciso recargar les llingüetes p'aplicar estos cambeos.
 content-blocking-tracking-content-label =
     .label = Conteníu que rastrexa
