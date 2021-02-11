@@ -56,6 +56,7 @@
      start of this entity. -->
 <!ENTITY about.buildconfig.afterTheLink  " za to različico.">
 
+<!ENTITY about.buildIdentifier        "Oznaka graditve: ">
 
 <!-- LOCALIZATION NOTE end of declarations that were copied from
      mozilla/toolkit/locales/en-US/chrome/global/about.dtd -->
@@ -66,3 +67,4 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Uporabljate posodobitveni kanal ">
 <!ENTITY channel.description.end    ".">
+<!ENTITY about.userAgent            "Uporabniški agent:">

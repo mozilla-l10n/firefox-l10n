@@ -9,8 +9,11 @@
 <!ENTITY privatebrowsingpage.title.private       "Ste v oknu zasebnega brskanja">
 <!ENTITY privatebrowsingpage.title.normal        "Ali želite začeti zasebno brskanje?">
 
+<!ENTITY privatebrowsingpage.status.private      "&brandShortName; za to okno ne bo shranjeval zgodovine.">
 <!ENTITY privatebrowsingpage.status.normal       "Trenutno niste v zasebnem oknu.">
 
+<!ENTITY privatebrowsingpage.learnmore.label     "Več o tem">
+<!ENTITY privatebrowsingpage.learnmore.accesskey "V">
 
 <!ENTITY privatebrowsingpage.close.info          "Ko končate, zaprite to okno za konec zasebnega brskanja.">
 <!ENTITY privatebrowsingpage.close.label         "Zapri to okno zdaj">
