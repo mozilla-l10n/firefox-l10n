@@ -355,6 +355,9 @@ browser-tab-audio-muted = Cidinât
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Impuarte segnelibris…
+    .tooltiptext = Impuarte i segnelibris su { -brand-short-name } di un altri navigadôr.
 
 ## WebRTC Pop-up notifications
 
