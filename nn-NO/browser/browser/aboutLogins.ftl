@@ -305,9 +305,11 @@ about-logins-import-dialog-error-file-permission-title = Klarte ikkje å lese fi
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } har ikkje løyve til å lese fila. Prøv å endre filløyva for fila.
 about-logins-import-dialog-error-unable-to-read-title = Klarte ikkje å tolke fila
 about-logins-import-dialog-error-unable-to-read-description = Forsikre deg om at du valde ei CSV- eller ei TSV-fil.
+about-logins-import-dialog-error-no-logins-imported = Ingen innloggingar er importerte
 about-logins-import-dialog-error-learn-more = Les meir
 about-logins-import-dialog-error-try-again = Prøv igjen…
 about-logins-import-dialog-error-cancel = Avbryt
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Samandragsrapport for import
