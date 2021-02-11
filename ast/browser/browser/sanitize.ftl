@@ -7,6 +7,12 @@ sanitize-prefs =
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Llimpieza de tol historial
+    .style = width: 34em
+clear-data-settings-label = Al zarrar { -brand-short-name }, habría llimpiase too automáticamente
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -53,10 +59,10 @@ item-form-search-history =
     .accesskey = f
 data-section-label = Datos
 item-site-preferences =
-    .label = Preferencies de sitios
-    .accesskey = S
+    .label = Preferencies de los sitios
+    .accesskey = s
 item-offline-apps =
-    .label = Datos de sitios web ensin conexón
+    .label = Datos de los sitios web ensin conexón
     .accesskey = o
 sanitize-everything-undo-warning = Esta aición nun pue desfacese.
 window-close =
@@ -70,8 +76,8 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Llimpiaráse tol historial.
+sanitize-everything-warning = Va llimpiase tol historial.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Van llimpiase tolos elementos seleicionaos.
+sanitize-selected-warning = Van llimpiase tolos elementos esbillaos.
