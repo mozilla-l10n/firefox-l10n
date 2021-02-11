@@ -14,6 +14,8 @@ cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué toi viendo esto
 cfr-doorhanger-extension-cancel-button = Agora non
     .accesskey = N
+cfr-doorhanger-pintab-ok-button = Fixar esta llingüeta
+    .accesskey = F
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -41,24 +43,42 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuariu
        *[other] { $total } usuarios
     }
+cfr-doorhanger-pintab-description = Accedi fácilmente a los sitios que más andes. Caltén los sitios abiertos nuna llingüeta (magar que reanicies).
 
 ## These messages are steps on how to use the feature and are shown together.
 
 cfr-doorhanger-pintab-step1 = <b>Calca col botón derechu</b> na llingüeta que quies fixar.
+cfr-doorhanger-pintab-step2 = Esbilla <b>Fixar la llingüeta</b> nel menú.
+cfr-doorhanger-pintab-step3 = Si'l sitiu tien un anovamientu, vas ver un puntu azul na llingüeta fixada.
 cfr-doorhanger-pintab-animation-pause = Posar
 cfr-doorhanger-pintab-animation-resume = Siguir
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Sincroniza los marcadores onde teas.
+cfr-doorhanger-bookmark-fxa-body = ¡Un gran descrubimientu! Agora nun quedes ensin esti marcador nos tos preseos móviles. Entama con una { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizalos agora…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Botón de zarru
+    .title = Zarrar
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Deprender más
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Carauterística nueva:
+cfr-whatsnew-button =
+    .label = Novedaes
+    .tooltiptext = Novedaes
+cfr-whatsnew-panel-header = Novedaes
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## Search bar
 
