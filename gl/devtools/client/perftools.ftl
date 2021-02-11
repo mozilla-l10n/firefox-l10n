@@ -21,18 +21,37 @@ perftools-heading-features-default = Características (como recomendación prede
 perftools-heading-features-disabled = Características desactivadas
 perftools-heading-features-experimental = Experimental
 perftools-heading-threads = Fíos
+perftools-heading-local-build = Compilación local
 
 ##
 
+perftools-description-intro =
+    As gravacións lanzan <a>profiler.firefox.com</a> nunha nova lapela. Almacénanse todos
+    os datos localmente pero pode escoller cargalos para compartir.
+perftools-description-local-build =
+    Se está perfilando unha compilación que compilou vostede,  nesta
+    máquina, engada o objdir da súa compilación á lista seguinte para que
+    se poida usar para buscar información do símbolo.
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Intervalo de mostraxe:
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Tamaño do búfer:
+perftools-custom-threads-label = Engadir fíos personalizados por nome:
+perftools-devtools-interval-label = Intervalo:
+perftools-devtools-threads-label = Fíos:
+perftools-devtools-settings-label = Configuración
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    O perfilador resulta desactivado cando se activa a navegación privada.
+    Peche todas as xanelas privadas para reactivar o perfilador.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
