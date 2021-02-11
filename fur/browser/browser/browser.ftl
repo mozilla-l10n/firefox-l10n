@@ -418,7 +418,15 @@ urlbar-placeholder-search-mode-other-engine =
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Inserìs i tiermins di ricercje
-    .aria-label = Cîr i segnelibris
+    .aria-label = Cîr tai segnelibris
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Inserìs i tiermins di ricercje
+    .aria-label = Cîr te cronologjie
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Inserìs i tiermins di ricercje
+    .aria-label = Cîr tes schedis
 urlbar-switch-to-tab =
     .value = Passe a la schede:
 urlbar-go-button =
