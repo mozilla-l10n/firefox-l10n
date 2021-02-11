@@ -30,30 +30,42 @@ downloads-cmd-cancel-panel =
     .aria-label = Anule
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
-    .label = Vierç la cartele là che si cjate
+    .label = Vierç la cartele che lu conten
     .accesskey = V
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
-    .label = Mostre tal Finder
+    .label = Mostre in Finder
     .accesskey = F
+downloads-cmd-use-system-default =
+    .label = Vierç tal visualizadôr dal sisteme
+    .accesskey = V
+downloads-cmd-always-use-system-default =
+    .label = Vierç simpri tal visualizadôr dal sisteme
+    .accesskey = s
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
-            [macos] Mostre tal Finder
-           *[other] Vierç la cartele là che si cjate
+            [macos] Mostre in Finder
+           *[other] Vierç la cartele che lu conten
         }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
-            [macos] Mostre tal Finder
-           *[other] Vierç la cartele là che si cjate
+            [macos] Mostre in Finder
+           *[other] Vierç la cartele che lu conten
         }
 downloads-cmd-show-description =
     .value =
         { PLATFORM() ->
-            [macos] Mostre tal Finder
-           *[other] Vierç la cartele là che si cjate
+            [macos] Mostre in Finder
+           *[other] Vierç la cartele che lu conten
         }
+downloads-cmd-show-downloads =
+    .label = Mostre la cartele dai discjamâts
+downloads-cmd-retry =
+    .tooltiptext = Torne prove
+downloads-cmd-retry-panel =
+    .aria-label = Torne prove
 downloads-cmd-copy-download-link =
     .label = Copie leam de discjamade
     .accesskey = l
