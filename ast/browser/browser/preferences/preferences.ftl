@@ -657,7 +657,15 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies y datos de los sitios
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Anguaño les cookies, los datos de los sitios y la caché tan usando { $value } { $unit } d'espaciu nel discu.
 sitedata-learn-more = Deprender más
+sitedata-delete-on-close =
+    .label = Desaniciar les cookies y los datos de los sitios al zarrar { -brand-short-name }
+    .accesskey = z
+sitedata-delete-on-close-private-browsing = Nel mou de restolar en privao permanente, les cookies y los datos de los sitios van llimpiase al zarrar { -brand-short-name }.
 sitedata-option-block-cross-site-trackers =
     .label = Rastrexadores ente sitios
 sitedata-option-block-cross-site-and-social-media-trackers =
@@ -675,6 +683,9 @@ sitedata-option-block-all =
 sitedata-clear =
     .label = Llimpiar los datos…
     .accesskey = L
+sitedata-settings =
+    .label = Xestionar los datos…
+    .accesskey = X
 sitedata-cookies-exceptions =
     .label = Xestionar les esceiciones…
     .accesskey = X
