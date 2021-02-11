@@ -147,8 +147,11 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Impiçulìs
     .accesskey = P
+menu-view-full-zoom-actual-size =
+    .label = Dimension reâl
+    .accesskey = r
 menu-view-full-zoom-toggle =
-    .label = Zoom dome test
+    .label = Ingrandìs dome il test
     .accesskey = t
 menu-view-page-style-menu =
     .label = Stîl de pagjine
@@ -159,24 +162,27 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Stîl base de pagjine
     .accesskey = S
+menu-view-charset =
+    .label = Codifiche dal test
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Jentre te modalitât a dut il visôr
+    .label = Jentre te modalitât a plen visôr
     .accesskey = J
 menu-view-exit-full-screen =
-    .label = Jes de modalitât a dut il visôr
+    .label = Jes de modalitât a plen visôr
     .accesskey = J
 menu-view-full-screen =
-    .label = Dut il visôr
-    .accesskey = D
+    .label = Plen visôr
+    .accesskey = v
 
 ##
 
 menu-view-show-all-tabs =
-    .label = Mostre dutis lis lengutis
+    .label = Mostre dutis lis schedis
     .accesskey = d
 menu-view-bidi-switch-page-direction =
     .label = Cambie la direzion de pagjine
@@ -188,13 +194,17 @@ menu-history =
     .label = Cronologjie
     .accesskey = C
 menu-history-show-all-history =
-    .label = Visualize dute la cronologjie
+    .label = Mostre dute la cronologjie
 menu-history-clear-recent-history =
     .label = Nete la cronologjie resinte...
+menu-history-synced-tabs =
+    .label = Schedis sincronizadis
 menu-history-restore-last-session =
-    .label = Ripristine la session precedent
+    .label = Ripristine la session precedente
+menu-history-hidden-tabs =
+    .label = Schedis platadis
 menu-history-undo-menu =
-    .label = Lengutis sieradis di recent
+    .label = Schedis sieradis di resint
 menu-history-undo-window-menu =
     .label = Barcons sierâts che al è pôc
 
