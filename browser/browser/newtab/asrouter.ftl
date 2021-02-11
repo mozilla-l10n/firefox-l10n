@@ -77,6 +77,7 @@ cfr-whatsnew-button =
     .label = Novedaes
     .tooltiptext = Novedaes
 cfr-whatsnew-panel-header = Novedaes
+cfr-whatsnew-lockwise-take-title = Lleva les contraseñes contigo
 
 ## Search Bar
 
@@ -96,16 +97,24 @@ cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Ten esti marcador nel to teléfonu
+cfr-doorhanger-sync-bookmarks-body = Lleva los marcadores, les contraseñes, l'historial y más a tolos sitios onde anicies sesión en { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
+    .accesskey = A
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Nun vuelvas perder una contraseña
+cfr-doorhanger-sync-logins-body = Atroxa y sincroniza de forma segura les contraseñes en tolos preseos de to.
+cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Comparti esti PDF de forma segura
 
 ## Social Tracking Protection
 
