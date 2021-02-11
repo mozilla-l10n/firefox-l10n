@@ -427,14 +427,42 @@ urlbar-placeholder-search-mode-other-history =
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Inserìs i tiermins di ricercje
     .aria-label = Cîr tes schedis
+# Variables
+#  $name (String): the name of the user's default search engine
+urlbar-placeholder-with-name =
+    .placeholder = Cîr cun { $name } o inserìs une direzion
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Il navigadôr al è controlât di lontan
+urlbar-permissions-granted =
+    .tooltiptext = Tu âs dât permès adizionâi a chest sît web.
 urlbar-switch-to-tab =
-    .value = Passe a la schede:
+    .value = Passe ae schede:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Estension:
 urlbar-go-button =
-    .tooltiptext = Va al indiriç specificât inte sbare dai indiriçs
+    .tooltiptext = Va ae direzion specificade te sbare de direzion
+urlbar-page-action-button =
+    .tooltiptext = Azions par cheste pagjine
+urlbar-pocket-button =
+    .tooltiptext = Salve su { -pocket-brand-name }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Cîr cun { $engine } intun barcon privât
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Cîr intun barcon privât
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-w-engine = Cîr cun { $engine }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
