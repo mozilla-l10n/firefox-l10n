@@ -617,14 +617,37 @@ privacy-header = Privacidá del restolador
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Anicios de sesión y contraseñes
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = Entrugar si guardar los anicios de sesión y les contraseñes de los sitios web o non
+    .accesskey = g
 forms-exceptions =
     .label = Esceiciones…
     .accesskey = s
+forms-generate-passwords =
+    .label = Suxerir y xenerar contraseñes segures
+    .accesskey = S
 forms-breach-alerts-learn-more-link = Deprender más
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Rellenar automáticamente los anicios de sesión y les contraseñes
+    .accesskey = R
 forms-saved-logins =
     .label = Anicios de sesión guardaos…
     .accesskey = A
+forms-primary-pw-use =
+    .label = Usar una contraseña primaria
+    .accesskey = U
 forms-primary-pw-learn-more-link = Deprender más
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
+forms-master-pw-change =
+    .label = Camudar la contraseña maestra…
+    .accesskey = m
+forms-primary-pw-change =
+    .label = Camudar la contraseña primaria…
+    .accesskey = p
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
@@ -633,6 +656,16 @@ forms-master-pw-fips-desc = El cambéu de la contraseña falló
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = crear una contraseña maestra
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = crear una contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
@@ -649,7 +682,26 @@ history-header = Historial
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } va:
     .accesskey = v
+history-remember-option-all =
+    .label = Recordar l'historial
+history-remember-option-never =
+    .label = Dexar de recordar l'historial
+history-remember-option-custom =
+    .label = Usar unos axustes personalizaos pal historial
+history-remember-description = { -brand-short-name } va recordar los historiales de restolar, descargues, formularios y busques.
 history-dontremember-description = { -brand-short-name } va usar los mesmos axustes del restolar en privao y nun va recordar nengún historial mentanto restoles la web.
+history-private-browsing-permanent =
+    .label = Usar siempres el mou de restolar en privao
+    .accesskey = p
+history-remember-browser-option =
+    .label = Recordar l'historial de restolar y descargues
+    .accesskey = r
+history-remember-search-option =
+    .label = Recordar l'historial de busques y formularios
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Llimpiar l'historial al zarrar { -brand-short-name }
+    .accesskey = r
 history-clear-on-close-settings =
     .label = Axustes…
     .accesskey = C
