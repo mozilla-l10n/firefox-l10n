@@ -94,20 +94,16 @@ fonts-minsize = Tamañu mínimu de la fonte
 fonts-minsize-none =
     .label = Nengún
 fonts-allow-own =
-    .label = Permitir a les páxines escoyer les sos propies fontes, en cuenta de les tuyes d'arriba
-    .accesskey = A
+    .label = Permitir que les páxines escueyan los sos fontes en cuentes d'esbillar les d'enriba
+    .accesskey = P
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Codificación de testu pa conteníu vieyu
-fonts-languages-fallback-desc = Esta codificación de testu úsase pa conteníu vieyu que nun declara la so codificación.
-fonts-languages-fallback-label = Codificación de testu predet.
-    .accesskey = T
-fonts-languages-fallback-name-auto =
-    .label = Predetermináu pa la llingua actual
+fonts-languages-fallback-header = Codificación del testu pal conteníu heredáu
+fonts-languages-fallback-desc = Esta codificación del testu úsase pa conteníu heredáu que nun ye a declarar la so codificación.
 fonts-languages-fallback-name-arabic =
     .label = Árabe
 fonts-languages-fallback-name-baltic =
@@ -141,6 +137,4 @@ fonts-languages-fallback-name-other =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Predetermináu ({ $name })
-fonts-label-default-unnamed =
-    .label = Por defeutu
+    .label = Lo predeterminao ({ $name })
