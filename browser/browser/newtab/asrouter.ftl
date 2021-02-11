@@ -99,6 +99,7 @@ cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Nun vuelvas perder una contraseña
 
 ## Send Tab
 
@@ -108,6 +109,14 @@ cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Ver les proteiciones
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Zarrar
+    .accesskey = Z
+cfr-doorhanger-socialtracking-dont-show-again = Nun volver amosar mensaxes como esti
+    .accesskey = N
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió qu'una rede social te rastrexare equí
+cfr-doorhanger-socialtracking-description = La privacidá ye importante. Agora { -brand-short-name } bloquia los rastrexadores de les redes sociales más comunes, eso llenda la cantidá de datos que puen recoyer tocante a lo que faes en llinia.
 
 ## Enhanced Tracking Protection Milestones
 
@@ -117,6 +126,8 @@ cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-body = Ye complicao pensar en contraseñes úniques y segures pa cada cuenta. Cuando crees una contraseña, esbilla'l campu de contraseña pa xenerar una contraseña segura de { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Iconu de { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
@@ -132,9 +143,21 @@ cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = La privacidá ye importante. Agora { -brand-short-name } empobina de mou seguru les tos solicitúes DNS, siempres que seya posible, a un serviciu asociáu pa protexete mentanto restoles.
+cfr-doorhanger-doh-header = Busques DNS más segures y cifraes
+cfr-doorhanger-doh-primary-button = Val, entendílo
+    .accesskey = V
+cfr-doorhanger-doh-secondary-button = Desactivar
+    .accesskey = D
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = La privacidá ye importante. Agora { -brand-short-name } aislla los sitios web los unos d'otros, lo que fai difícil a crackers el robu de contraseñes, númberos de tarxetes de creitu y otra información sensible.
+cfr-doorhanger-fission-header = Aisllamientu de sitios
+cfr-doorhanger-fission-primary-button = Val, entendílo
+    .accesskey = V
+cfr-doorhanger-fission-secondary-button = Deprender más
+    .accesskey = D
 
 ## What's new: Cookies message
 
