@@ -532,6 +532,9 @@ containers-remove-button =
 
 sync-signedout-caption = Lleva la web contigo
 sync-signedout-description = Sincroniza los marcadores, les llingüetes, l'historial, les contraseñes, los complementos y les preferencies en tolos preseos de to.
+sync-signedout-account-signin2 =
+    .label = Aniciar sesión en { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -544,9 +547,13 @@ sync-mobile-promo = Baxa Firefox <img data-l10n-name="android-icon"/> p'<a data-
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Camudar la semeya del perfil
 sync-sign-out =
     .label = Zarrar sesión…
     .accesskey = Z
+sync-manage-account = Xestionar la cuenta
+    .accesskey = o
 sync-signedin-unverified = { $email } ta ensin verificar.
 
 ## Sync section - enabling or disabling sync.
