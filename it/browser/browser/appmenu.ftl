@@ -160,3 +160,10 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Controlla aggiornamenti…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Personalizza barra degli strumenti…
+
+appmenu-developer-tools-subheader = Strumenti del browser
