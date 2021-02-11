@@ -206,11 +206,16 @@ cfr-doorhanger-cryptominers-description = A súa privacidade importa. { -brand-s
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } bloqueou máis de <b> { $blockedCount }</b> rastrexadores desde { $date }!
        *[other] { -brand-short-name } bloqueou máis de <b>{ $blockedCount }</b> rastrexadores desde { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } bloqueado en<b>{ $blockedCount }</b>rastrexadores desde { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } bloqueados sobre<b>{ $blockedCount }</b>rastrexadores desde { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = V
@@ -294,3 +299,8 @@ cfr-whatsnew-supercookies-body = Os sitios web poden achegar un «superrastro» 
 
 cfr-whatsnew-bookmarking-header = Mellores marcadores de páxina
 cfr-whatsnew-bookmarking-body = É máis doado facer o seguimento dos sitios favoritos. { -brand-short-name } agora lembra a súa localización preferente para os marcadores gardados, amosa a barra de ferramentas de marcadores de modo predeterminado nas novas lapelas e dálle acceso fácil ao resto dos marcadores cun cartafol na barra de ferramentas.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Protección integral contra o seguimento transversal de rastros entre sitios
+cfr-whatsnew-cross-site-tracking-body = Agora pode optar a unha mellor protección fronte ao rastrexo dos rastros.{ -brand-short-name } pode illar as súas actividades en datos no sitio onde está actualmente e así a información gardada no navegador non se comparte entre sitios web.
