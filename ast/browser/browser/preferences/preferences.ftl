@@ -498,6 +498,9 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Amosar les suxerencies de busca nes ventanes privaes
 suggestions-addressbar-settings-generic = Camudar les preferencies d'otres suxerencies de la barra de direiciones
+search-suggestions-cant-show = Les suxerencies de busca nun van amosase na barra de direiciones porque configuresti { -brand-short-name } pa qu'enxamás recordare l'historial.
+search-one-click-header2 = Atayos de busca
+search-one-click-desc = Escueyi los motores de busca alternativos qu'apaecen embaxo de la barra de direiciones y barra de busca cuando comiences a introducir una pallabra clave.
 search-choose-engine-column =
     .label = Motor de busca
 search-choose-keyword-column =
@@ -614,9 +617,11 @@ pane-privacy-logins-and-passwords-header = Anicios de sesión y contraseñes
 forms-exceptions =
     .label = Esceiciones…
     .accesskey = s
+forms-breach-alerts-learn-more-link = Deprender más
 forms-saved-logins =
     .label = Anicios de sesión guardaos…
     .accesskey = A
+forms-primary-pw-learn-more-link = Deprender más
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
@@ -655,6 +660,12 @@ sitedata-option-block-all-third-party =
     .label = Toles cookies de terceros (podría romper dalgunos sitios)
 sitedata-option-block-all =
     .label = Toles cookies (va causar que los sitios web ruempan)
+sitedata-clear =
+    .label = Llimpiar los datos…
+    .accesskey = L
+sitedata-cookies-exceptions =
+    .label = Xestionar les esceiciones…
+    .accesskey = X
 
 ## Privacy Section - Address Bar
 
@@ -717,6 +728,9 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Xestionar les esceiciones…
+    .accesskey = X
 
 ## Privacy Section - Permissions
 
@@ -762,6 +776,7 @@ collection-health-report-link = Deprender más
 collection-studies =
     .label = Permitir que { -brand-short-name } instale y execute estudios
 collection-studies-link = Amosar los estudios de { -brand-short-name }
+addon-recommendations-link = Deprender más
 collection-backlogged-crash-reports-link = Deprender más
 
 ## Privacy Section - Security
@@ -780,6 +795,9 @@ certs-view =
     .accesskey = c
 certs-devices =
     .label = Preseos de seguranza…
+    .accesskey = D
+space-alert-learn-more-button =
+    .label = Deprender más
     .accesskey = D
 space-alert-over-5gb-pref-button =
     .label =
