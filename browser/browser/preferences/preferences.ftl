@@ -654,6 +654,14 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Deprender más
+sitedata-option-block-cross-site-trackers =
+    .label = Rastrexadores ente sitios
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Rastrexadores ente sitios y de redes sociales
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Cookies de rastrexu ente sitios — inclúi les cookies de redes sociales
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cookies ente sitios — inclúi les cookies de redes sociales
 sitedata-option-block-unvisited =
     .label = Cookies de sitios web ensin visitar
 sitedata-option-block-all-third-party =
@@ -695,6 +703,11 @@ enhanced-tracking-protection-setting-standard =
 
 ##
 
+content-blocking-etp-standard-desc = Proteición y rindimientu equilibraos. Les páxines van cargar con normalidá.
+content-blocking-etp-strict-desc = Más proteición, mas pue romper dalgunos sitios o dalgún conteníu
+content-blocking-etp-custom-desc = Escueyi los rastrexadores y scripts a bloquiar
+content-blocking-cross-site-cookies = Cookies ente sitios
+content-blocking-cross-site-tracking-cookies = Cookies de rastrexu ente sitios
 content-blocking-social-media-trackers = Rastrexadores de redes sociales
 content-blocking-all-cookies = Toles cookies
 content-blocking-unvisited-cookies = Cookies de sitios ensin visitar
