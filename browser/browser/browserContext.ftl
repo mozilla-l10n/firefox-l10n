@@ -78,6 +78,3 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-frame =
     .label = Esti marcu
     .accesskey = m
-main-context-menu-eme-learn-more =
-    .label = Deprendi más tocante al DRM…
-    .accesskey = D

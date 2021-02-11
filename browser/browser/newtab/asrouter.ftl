@@ -14,13 +14,6 @@ cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué toi viendo esto
 cfr-doorhanger-extension-cancel-button = Agora non
     .accesskey = N
-cfr-doorhanger-extension-ok-button = Amestar agora
-    .accesskey = A
-cfr-doorhanger-extension-manage-settings-button = Xestiona los parámetros de recomendaciones
-    .accesskey = X
-cfr-doorhanger-extension-never-show-recommendation = Nun amosame esta recomendación
-    .accesskey = N
-cfr-doorhanger-extension-learn-more-link = Deprendi más
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -51,6 +44,9 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Calca col botón derechu</b> na llingüeta que quies fixar.
+cfr-doorhanger-pintab-animation-pause = Posar
+cfr-doorhanger-pintab-animation-resume = Siguir
 
 ## Firefox Accounts Message
 
