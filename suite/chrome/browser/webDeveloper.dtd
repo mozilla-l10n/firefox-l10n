@@ -5,8 +5,10 @@
 <!ENTITY allowRemoteDebugging.label     "Dovoli oddaljeno razhroščevanje">
 
 <!ENTITY devToolsCmd.keycode             "VK_F12">
+<!ENTITY devToolsCmd.keytext             "F12">
 
 <!ENTITY devtoolsConnect.label           "Poveži…">
+<!ENTITY devtoolsConnect.accesskey       "e">
 
 <!ENTITY browserConsoleCmd.label         "Konzola brskalnika">
 
@@ -24,6 +26,7 @@
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 <!ENTITY scratchpad.keycode              "VK_F4">
+<!ENTITY scratchpad.keytext              "F4">
 
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
