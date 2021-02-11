@@ -219,6 +219,7 @@ newtab-error-fallback-refresh-link = Oppdater sida for å prøve på nytt.
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Snarvegar
+newtab-custom-shortcuts-subtitle = Nettstadar du lagrar eller besøkjer
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } rad
