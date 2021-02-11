@@ -79,7 +79,7 @@ downloads-cmd-clear-list =
     .label = Nete il panel de anteprime
     .accesskey = a
 downloads-cmd-clear-downloads =
-    .label = Nete liste dai discjamâts
+    .label = Nete liste dai discjariaments
     .accesskey = d
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
