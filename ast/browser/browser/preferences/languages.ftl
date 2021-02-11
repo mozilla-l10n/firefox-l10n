@@ -51,4 +51,4 @@ browser-languages-select-language =
     .placeholder = Seleiciona una llingua p'amestar…
 browser-languages-installed-label = Llingües instalaes
 browser-languages-available-label = Llingües disponibles
-browser-languages-error = { -brand-short-name } nun pue anovar agora les llingües. Comprueba la conexón a internet o vuelvi a intentalo.
+browser-languages-error = { -brand-short-name } nun pue anovar agora les llingües. Comprueba que tas conectáu a internet o volvi tentalo.
