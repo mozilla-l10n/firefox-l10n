@@ -484,12 +484,17 @@ home-prefs-highlights-options-bookmarks =
     .label = Marcadores
 home-prefs-highlights-option-most-recent-download =
     .label = La descarga más recién
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Páxines guardaes en { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Actividá recién
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Retayos
+home-prefs-snippets-description = Anovamientos de { -vendor-short-name } y { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -505,6 +510,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Amestar barra de gueta na barra de ferramientes
 search-engine-default-header = Guetador por defeutu
+search-engine-default-desc-2 = Esti ye'l motor de busca predetermináu na barra de direiciones y na barra de busques. Pues cambialu en cualesquier momentu.
 search-suggestions-option =
     .label = Apurrir suxerencies de gueta
     .accesskey = D
@@ -702,10 +708,15 @@ forms-master-pw-change =
     .label = Camudar contraseña maestra…
     .accesskey = m
 forms-master-pw-fips-title = Nesti intre tas en mou FIPS. FIPS requier una contraseña maestra non erma.
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Enantes llamábase «Contraseña maestra»
 forms-master-pw-fips-desc = Fallu al camudar la contraseña
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -810,12 +821,36 @@ addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los
 
 ##
 
+content-blocking-social-media-trackers = Rastrexadores de redes sociales
+content-blocking-all-cookies = Toles cookies
+content-blocking-unvisited-cookies = Cookies de sitios ensin visitar
+content-blocking-all-third-party-cookies = Toles cookies de terceros
+content-blocking-cryptominers = Criptomineros
+content-blocking-fingerprinters = Xeneradores de buelgues
+content-blocking-reload-description = Va ser preciso recargar les llingüetes p'aplicar estos cambeos.
+content-blocking-tracking-content-label =
+    .label = Conteníu que rastrexa
+    .accesskey = t
 content-blocking-tracking-protection-option-all-windows =
     .label = En toles ventanes
     .accesskey = t
+content-blocking-option-private =
+    .label = Namás nes ventanes privaes
+    .accesskey = p
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Más información
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptomineros
+    .accesskey = i
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Xeneradores de buelgues
+    .accesskey = b
 
 ## Privacy Section - Tracking
 
@@ -825,6 +860,10 @@ content-blocking-cookies-label =
 permissions-header = Permisos
 permissions-location = Allugamientu
 permissions-location-settings =
+    .label = Axustes…
+    .accesskey = t
+permissions-xr = Realidá virtual
+permissions-xr-settings =
     .label = Axustes…
     .accesskey = t
 permissions-camera = Cámara
@@ -862,6 +901,9 @@ permissions-a11y-privacy-link = Deprendi más
 
 collection-privacy-notice = Avisu de privacidá
 collection-health-report-link = Deprender más
+collection-studies =
+    .label = Permitir que { -brand-short-name } instale y execute estudios
+collection-studies-link = Amosar los estudios de { -brand-short-name }
 collection-backlogged-crash-reports-link = Deprender más
 
 ## Privacy Section - Security
