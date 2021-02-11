@@ -565,7 +565,6 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Permissions
 
 permissions-header = Permisos
-permissions-location = Allugamientu
 permissions-location-settings =
     .label = Axustes…
     .accesskey = t
@@ -585,24 +584,18 @@ permissions-notification = Avisos
 permissions-notification-settings =
     .label = Axustes…
     .accesskey = t
-permissions-notification-link = Deprendi más
+permissions-notification-link = Deprender más
 permissions-autoplay = Reproducción automática
 permissions-autoplay-settings =
     .label = Axustes...
     .accesskey = e
-permissions-block-popups =
-    .label = Bloquiar ventanes emerxentes
-    .accesskey = B
 permissions-block-popups-exceptions =
     .label = Esceiciones…
     .accesskey = E
-permissions-addon-install-warning =
-    .label = Avisar cuando los sitios web intenten instalar add-ons
-    .accesskey = A
 permissions-addon-exceptions =
     .label = Esceiciones…
     .accesskey = E
-permissions-a11y-privacy-link = Deprendi más
+permissions-a11y-privacy-link = Deprender más
 
 ## Privacy Section - Data Collection
 
@@ -621,46 +614,30 @@ collection-backlogged-crash-reports-link = Deprender más
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguranza
-security-enable-safe-browsing =
-    .label = Bloquiar conteníu peligrosu y fraudulentu
-    .accesskey = B
-security-enable-safe-browsing-link = Deprendi más
-security-block-downloads =
-    .label = Bloquiar descargues peligroses
-    .accesskey = D
+security-enable-safe-browsing-link = Deprender más
 
 ## Privacy Section - Certificates
 
 certs-header = Certificaos
-certs-personal-label = Cuando un sirvidor solicite'l to certificáu personal:
-certs-select-auto-option =
-    .label = Seleicionar ún automáticamente
-    .accesskey = S
-certs-select-ask-option =
-    .label = Entrugame cada vegada
-    .accesskey = A
-certs-enable-ocsp =
-    .label = Consultar a los sirvidores respondedores OCSP pa confirmar la validez actual de los certificaos
-    .accesskey = u
 certs-view =
-    .label = Ver certificaos…
-    .accesskey = C
+    .label = Ver los certificaos…
+    .accesskey = c
 certs-devices =
-    .label = Preseos de seguridá…
+    .label = Preseos de seguranza…
     .accesskey = D
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
-            [windows] Abrir opciones
-           *[other] Abrir preferencies
+            [windows] Abrir les opciones
+           *[other] Abrir les preferencies
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] b
+            [windows] A
            *[other] A
         }
 space-alert-under-5gb-ok-button =
-    .label = Val, píllolo
+    .label = Val, entendílo
     .accesskey = a
 
 ## Privacy Section - HTTPS-Only
@@ -678,4 +655,3 @@ httpsonly-radio-disabled =
 
 desktop-folder-name = Escritoriu
 downloads-folder-name = Descargues
-choose-download-folder-title = Escoyer carpeta de descarga:
