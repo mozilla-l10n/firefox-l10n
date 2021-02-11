@@ -25,6 +25,7 @@ perftools-heading-local-build = Ñembyaty pypeguáva
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Jehechaukaha pa’ũ:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
@@ -38,6 +39,9 @@ perftools-devtools-settings-label = Ñemboheko
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Pe mbohapeha ogue hendy vove pe kundaha ñemigua.
+    Embotypaite umi ovetã ñemigua hendyjey hag̃ua pe mbohapeha.
 perftools-status-recording-stopped-by-another-tool = Ambue tembipuru ojoko ñeñongatu.
 perftools-status-restart-required = Emoñepyrũjey kundahára embojuruja hag̃ua tembiapoite.
 
