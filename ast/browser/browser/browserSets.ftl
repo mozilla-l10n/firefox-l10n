@@ -93,6 +93,8 @@ reader-mode-toggle-shortcut-other =
     .key = R
 picture-in-picture-toggle-shortcut-mac =
     .key = ]
+picture-in-picture-toggle-shortcut =
+    .key = ]
 bookmark-this-page-shortcut =
     .key = D
 # Verify what shortcut for that operation
