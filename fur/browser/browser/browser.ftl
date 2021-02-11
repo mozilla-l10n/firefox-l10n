@@ -517,35 +517,96 @@ crashed-subframe-message = <strong>Part di cheste pagjine e je colassade.</stron
 crashed-subframe-learnmore =
     .label = Plui informazions
     .accesskey = l
+crashed-subframe-submit =
+    .label = Invie segnalazion
+    .accesskey = s
 
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
     .label = Mostre ducj i segnelibris
+bookmarks-recent-bookmarks =
+    .value = Tai segnelibris di resint
+bookmarks-manage-bookmarks =
+    .label = Gjestìs segnelibris
+bookmarks-recent-bookmarks-panel =
+    .value = Segnelibris resints
 bookmarks-toolbar-chevron =
-    .tooltiptext = Fâs viodi altris segnelibris
+    .tooltiptext = Mostre plui segnelibris
 bookmarks-sidebar-content =
     .aria-label = Segnelibris
+bookmarks-menu-button =
+    .label = Menù segnelibris
+bookmarks-other-bookmarks-menu =
+    .label = Altris segnelibris
+bookmarks-mobile-bookmarks-menu =
+    .label = Segnelibris di dispositîfs mobii
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Plate sbare laterâl dai segnelibris
+           *[other] Visualize sbare laterâl dai segnelibris
+        }
+bookmarks-tools-toolbar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Plate sbare dai segnelibris
+           *[other] Visualize sbare dai segnelibris
+        }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Plate la sbare dai segnelibris
+           *[other] Visualize la sbare dai segnelibris
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Plate la sbare dai segnelibris
+           *[other] Mostre la sbare dai segnelibris
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Gjave de sbare dai segnelibris il menù dai segnelibris
+           *[other] Zonte te sbare dai segnelibris il menù dai segnelibris
+        }
 bookmarks-search =
     .label = Cîr tai segnelibris
+bookmarks-tools =
+    .label = Struments par meti tai segnelibris
 bookmarks-bookmark-edit-panel =
     .label = Modifiche chest segnelibri
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Sbare dai segnelibris
+    .accesskey = B
+    .aria-label = Segnelibris
 bookmarks-toolbar-menu =
-    .label = Bande dai Segnelibris
+    .label = Sbare dai segnelibris
 bookmarks-toolbar-placeholder =
-    .title = Elements de bande dai Segnelibris
+    .title = Elements de sbare dai Segnelibris
 bookmarks-toolbar-placeholder-button =
-    .label = Elements de bande dai Segnelibris
+    .label = Elements de sbare dai segnelibris
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Met tai segnelibris cheste schede
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Segnelibris
 library-bookmarks-bookmark-this-page =
-    .label = Zonte cheste pagjine ai segnelibris
+    .label = Zonte cheste pagjine tai segnelibris
 library-bookmarks-bookmark-edit =
     .label = Modifiche chest segnelibri
+library-recent-activity-title =
+    .value = Ativitât resinte
 
 ## More items
 
 more-menu-go-offline =
-    .label = Lavore fur linie
+    .label = Lavore fûr rêt
     .accesskey = v
