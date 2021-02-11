@@ -126,7 +126,7 @@ appmenu-help-troubleshooting-info =
 appmenu-help-taskmanager =
     .label = Xestor de xeres
 appmenu-help-feedback-page =
-    .label = Opniar…
+    .label = Opinar…
     .accesskey = O
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
