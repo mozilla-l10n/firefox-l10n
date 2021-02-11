@@ -304,6 +304,14 @@ identity-https-only-info-no-upgrade = No si rive a inzornâ la conession dal HTT
 identity-permissions =
     .value = Permès
 identity-permissions-storage-access-header = Cookies inter-sîts
+identity-permissions-storage-access-hint = Chestis parts a puedin doprâ cookies inter-sît e dâts di sît intant che tu stâs su chest sît.
+identity-permissions-reload-hint = Tu podaressis vê di tornâ a cjariâ la pagjine par aplicâ lis modifichis.
+identity-permissions-empty = No tu âs concedût a chest sît nissun permès speciâl.
+identity-clear-site-data =
+    .label = Nete i cookies e i dâts dal sît…
+identity-connection-not-secure-security-view = La conession cun chest sît no je sigure.
+identity-connection-verified = La conession cun chest sît e je sigure.
+identity-ev-owner-label = Certificât dât fûr a:
 
 ## Window controls
 
