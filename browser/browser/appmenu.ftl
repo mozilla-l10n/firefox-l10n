@@ -67,9 +67,41 @@ profiler-popup-reveal-description-button =
     .aria-label = Revelar máis información
 profiler-popup-description-title =
     .value = Grava, analiza, comparte
+profiler-popup-description = Colabore coas incidencias de rendemento publicando perfís para compartir co teu equipo.
+profiler-popup-learn-more = Saber máis
+profiler-popup-settings =
+    .value = Configuración
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Editar a configuración ...
+profiler-popup-disabled =
+    O perfilador está actualmente desactivado, moi probablemente debido a que unha xanela
+    de navegación privada estea aberta.
+profiler-popup-recording-screen = Gravando…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personalizar
+profiler-popup-start-recording-button =
+    .label = Comezar a gravación
+profiler-popup-discard-button =
+    .label = Desbotar
+profiler-popup-capture-button =
+    .label = Capturar
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Maiús+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Maiús+2
+    }
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } Axuda
 appmenu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
@@ -85,6 +117,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Atallos de teclado
     .accesskey = l
+appmenu-get-help =
+    .label = Obter axuda
+    .accesskey = a
 appmenu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = b
