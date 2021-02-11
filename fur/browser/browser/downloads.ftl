@@ -133,3 +133,10 @@ downloads-details =
 downloads-clear-downloads-button =
     .label = Nete discjariaments
     .tooltiptext = Al nete la liste dai discjariaments completâts, anulâts e falîts
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Nissun discjariament.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Nissun discjariament par cheste session.
