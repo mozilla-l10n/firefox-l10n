@@ -101,39 +101,13 @@ startup-restore-warn-on-quit =
     .label = Avisate al colar del restolador
 tabs-group-header = Llingüetes
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab circula pente les llingüetes nel orde según el so usu recién
+    .label = Ctrl+Tab percuerre les llingüetes pol orde d'usu recién
     .accesskey = T
-warn-on-close-multiple-tabs =
-    .label = Avisar cuando zarres múltiples llingüetes
-    .accesskey = m
-warn-on-open-many-tabs =
-    .label = Avisar si al abrir munches llingüetes { -brand-short-name } pue dir lentu
-    .accesskey = d
-switch-links-to-new-tabs =
-    .label = Al abrir un enllaz nuna llingüeta nueva, cambiar a ella darréu
-    .accesskey = a
-show-tabs-in-taskbar =
-    .label = Amosar previsualizaciones de llingüetes na barra de xeres de Windows
-    .accesskey = m
-browser-containers-enabled =
-    .label = Habilitar llingüetes contenedores
-    .accesskey = n
-browser-containers-learn-more = Deprendi más
+browser-containers-learn-more = Deprender más
 browser-containers-settings =
     .label = Axustes…
     .accesskey = u
 containers-disable-alert-title = ¿Zarrar toles llingüetes contenedores?
-containers-disable-alert-desc =
-    { $tabCount ->
-        [one] Si deshabilites les llingüetes contenedores agora, va zarrase { $tabCount } llingüeta contenedora. ¿Daveres que quies deshabilitar llingüetes contenedores?
-       *[other] Si deshabilites les llingüetes contenedores agora, van zarrase { $tabCount } llingüetes contenedores. ¿Daveres que quies deshabilitar llingüetes contenedores?
-    }
-containers-disable-alert-ok-button =
-    { $tabCount ->
-        [one] Zarrar { $tabCount } llingüeta contenedora
-       *[other] Zarrar { $tabCount } llingüetes contenedores
-    }
-containers-disable-alert-cancel-button = Calteneles habilitaes
 containers-remove-alert-title = ¿Quitar esti contenedor?
 
 ## General Section - Language & Appearance
@@ -145,7 +119,7 @@ default-font = Fonte predeterminada
 default-font-size = Tamañu
     .accesskey = T
 advanced-fonts =
-    .label = Avanzaes…
+    .label = Avanzao…
     .accesskey = v
 colors-settings =
     .label = Colores…
@@ -155,7 +129,7 @@ preferences-zoom-header = Zoom
 preferences-default-zoom-value =
     .label = { $percentage }%
 language-header = Llingua
-choose-language-description = Escoyer llingua preferida p'amosar les páxines web
+choose-language-description = Escueyi la llingua preferida p'amosar les páxines web
 choose-button =
     .label = Escoyer…
     .accesskey = o
@@ -164,12 +138,9 @@ manage-browser-languages-button =
     .accesskey = A
 confirm-browser-language-change-description = Reanicia { -brand-short-name } p'aplicar estos cambeos
 confirm-browser-language-change-button = Aplicar y reaniciar
-translate-web-pages =
-    .label = Traducir conteníu web
-    .accesskey = d
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
-translate-attribution = Traducciones de <img data-l10n-name="logo"/>
+translate-attribution = Traducción fecha por <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Esceiciones…
     .accesskey = s
@@ -185,54 +156,16 @@ check-user-spelling =
 
 files-and-applications-title = Ficheros y aplicaciones
 download-header = Descargues
-download-save-to =
-    .label = Guardar ficheros en
-    .accesskey = G
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Escoyer…
-           *[other] Restolar…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] l
-        }
-download-always-ask-where =
-    .label = Entrugar siempres aú guardar los ficheros
-    .accesskey = A
 applications-header = Aplicaciones
-applications-description = Escueye cómo xestiona { -brand-short-name } los ficheros que descargues de la Web o les aplicaciones qu'uses mentanto restoles.
-applications-filter =
-    .placeholder = Guetar tipos de ficheros o aplicaciones
-applications-type-column =
-    .label = Mena de conteníu
-    .accesskey = M
 applications-action-column =
     .label = Aición
     .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = ficheru { $extension }
-applications-action-save =
-    .label = Guardar ficheru
-# Variables:
-#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
-applications-use-app =
-    .label = Usar { $app-name }
-# Variables:
-#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
-applications-use-app-default =
-    .label = Usar { $app-name } (predetermináu)
-applications-use-other =
-    .label = Usar otru…
-applications-select-helper = Esbilla aplicación auxiliar
-applications-manage-app =
-    .label = Detalles de l'aplicación…
 applications-always-ask =
-    .label = Entrugar siempre
-applications-type-pdf = Portable Document Format (PDF)
+    .label = Entrugar siempres
+applications-type-pdf = PDF (Formatu de Documentu Portátil)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -244,10 +177,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (String) - file extension (e.g .TXT)
 #   $type (String) - the MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Usar { $plugin-name } (en { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -272,15 +201,13 @@ applications-use-os-default-label =
 
 ##
 
-drm-content-header = Conteníu con Digital Rights Management (DRM)
+drm-content-header = Conteníu con DRM (Xestión de Derechos Dixitales)
 play-drm-content-learn-more = Deprender más
 update-application-title = Anovamientos de { -brand-short-name }
-update-application-description = Caltén { -brand-short-name } anováu pa un meyor rindimientu, estabilidá y seguranza.
-update-application-version = Versión { $version } <a data-l10n-name="learn-more">Qué hai nuevo</a>
+update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedaes</a>
 update-history =
     .label = Amosar l'historial d'anovamientos…
     .accesskey = t
-update-application-allow-description = Permitir a { -brand-short-name }:
 update-application-auto =
     .label = Instalar automáticamente los anovamientos (aconséyase)
     .accesskey = I
@@ -293,7 +220,7 @@ update-application-manual =
 update-application-warning-cross-user-setting = Esti axuste va aplicase a toles cuentes de Windows y perfiles de { -brand-short-name } qu'use esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Usar serviciu en segundu planu pa instalar los anovamientos
-    .accesskey = v
+    .accesskey = p
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -313,7 +240,7 @@ update-in-progress-cancel-button = &Siguir
 
 performance-title = Rindimientu
 performance-use-recommended-settings-checkbox =
-    .label = Usar axustes recomendaos de rindimientu
+    .label = Usar los axustes de rindimientu aconseyaos
     .accesskey = U
 performance-use-recommended-settings-desc = Estos axustes adáutense al hardware y sistema operativu del to equipu.
 performance-settings-learn-more = Deprendi más
