@@ -409,6 +409,9 @@ browsing-search-on-start-typing =
 browsing-cfr-recommendations =
     .label = Recomendar estensiones mentanto se navega
     .accesskey = R
+browsing-cfr-features =
+    .label = Aconseyar carauterístiques mentanto restoles
+    .accesskey = c
 browsing-cfr-recommendations-learn-more = Deprendi más
 
 ## General Section - Proxy
@@ -461,6 +464,7 @@ choose-bookmark =
 
 home-prefs-topsites-header =
     .label = Más visitaos
+home-prefs-topsites-description = Los sitios que más andes
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -473,10 +477,13 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-learn-more = Cómo funciona
 home-prefs-highlights-header =
     .label = Destacaos
+home-prefs-highlights-description = Una esbilla de sitios que guardesti o anduviesti
 home-prefs-highlights-option-visited-pages =
     .label = Páxines visitaes
 home-prefs-highlights-options-bookmarks =
     .label = Marcadores
+home-prefs-highlights-option-most-recent-download =
+    .label = La descarga más recién
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -563,6 +570,9 @@ sync-mobile-promo = Baxa Firefox pa <img data-l10n-name="android-icon"/> <a data
 
 sync-profile-picture =
     .tooltiptext = Camudar semeya de perfil
+sync-sign-out =
+    .label = Zarrar sesión…
+    .accesskey = Z
 sync-manage-account = Xestionar cuenta
     .accesskey = o
 sync-signedin-unverified = { $email } nun ta verificada.
@@ -579,9 +589,16 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronización: ACTIVADA
+prefs-syncing-off = Sincronización: DESACTIVADA
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar agora
+    .accesskeynotsyncing = a
+    .labelsyncing = Sincronizando…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Anguaño tas sincronizando estos elementos:
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Llingüetes abiertes
@@ -594,9 +611,19 @@ sync-currently-syncing-prefs =
         [windows] Opciones
        *[other] Preferencies
     }
+sync-change-options =
+    .label = Camudar…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Escoyeta de lo que compartir
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Guardar los cambeos
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra2 = Desconectase...
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = m
@@ -607,6 +634,10 @@ sync-engine-tabs =
     .label = Llingüetes abiertes
     .tooltiptext = Una llista de lo que ta abierto en tolos preseos sincronizaos
     .accesskey = L
+sync-engine-logins-passwords =
+    .label = Anicios de sesión y contraseñes
+    .tooltiptext = Anicios de sesión y contraseñes guardáes
+    .accesskey = A
 sync-engine-addresses =
     .label = Direiciones
     .tooltiptext = Direiciones postales que guardasti (namái escritoriu)
@@ -640,6 +671,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Guardar
     .accesskey = v
+sync-connect-another-device = Conectar otru preséu
 
 ## Privacy Section
 
