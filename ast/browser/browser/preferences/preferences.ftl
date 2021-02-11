@@ -140,7 +140,7 @@ open-new-link-as-tabs =
     .label = Abrir los enllaces en llingüetes nueves en cuentes de ventanes nueves
     .accesskey = v
 warn-on-close-multiple-tabs =
-    .label = Avisame cuando zarre delles llingüetes
+    .label = Avisame al zarrar delles llingüetes
     .accesskey = d
 warn-on-open-many-tabs =
     .label = Avisame cuando abrir munches llingüetes pueda facer lentu a { -brand-short-name }
@@ -870,7 +870,14 @@ collection-backlogged-crash-reports-link = Deprender más
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguranza
+security-browsing-protection = Proteición escontra'l software peligrosu y conteníu engañosu
+security-enable-safe-browsing =
+    .label = Bloquiar el conteníu engañosu y peligrosu
+    .accesskey = B
 security-enable-safe-browsing-link = Deprender más
+security-block-downloads =
+    .label = Bloquiar les descargues peligroses
+    .accesskey = p
 
 ## Privacy Section - Certificates
 
