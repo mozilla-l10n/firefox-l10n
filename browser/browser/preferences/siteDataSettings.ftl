@@ -5,15 +5,16 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Xestor de cookies y datos de los sitios
+site-data-settings-description = Los sitios web de darréu atroxen cookies y datos nel ordenador. { -brand-short-name } caltién esos datos con almacenamientu permanente hasta que los desanicies y desanicia los datos de los sitios web con almacenamientu non permanente a midida que se precise espaciu.
 site-data-column-host =
     .label = Sitiu
 site-data-column-storage =
     .label = Almacenamientu
-
 site-data-button-cancel =
     .label = Encaboxar
     .accesskey = E
-
 site-data-remove-all =
     .label = Desanicialo too
     .accesskey = e
@@ -23,4 +24,3 @@ site-data-remove-all =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Desaniciar
-
