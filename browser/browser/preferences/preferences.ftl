@@ -70,7 +70,7 @@ extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> 
 extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor de busca predetermináu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique llingüetes de contenedores.
+extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique llingüetes contenedores.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una estensión, <img data-l10n-name="icon"/> { $name }, controla cómo se coneuta { -brand-short-name } a Internet.
@@ -94,6 +94,11 @@ search-results-help-link = ¿Precises ayuda? Visita <a data-l10n-name="url">Sofi
 ## General Section
 
 startup-header = Aniciu
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Permitir que { -brand-short-name } y Firefox s'executen al empar
+use-firefox-sync = Conseyu: Esto usa perfiles separtaos. Usa { -sync-brand-short-name } pa compartir datos ente ellos.
 always-check-default =
     .label = Comprobar siempres si { -brand-short-name } ye'l restolador predetermináu
     .accesskey = i
@@ -107,10 +112,30 @@ startup-restore-previous-session =
     .accesskey = s
 startup-restore-warn-on-quit =
     .label = Avisate al colar del restolador
+disable-extension =
+    .label = Desactivar la estensión
 tabs-group-header = Llingüetes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab percuerre les llingüetes pol orde d'usu recién
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Abrir los enllaces en llingüetes nueves en cuentes de ventanes nueves
+    .accesskey = v
+warn-on-close-multiple-tabs =
+    .label = Avisame cuando zarre delles llingüetes
+    .accesskey = d
+warn-on-open-many-tabs =
+    .label = Avisame cuando abrir munches llingüetes pueda facer lentu a { -brand-short-name }
+    .accesskey = l
+switch-links-to-new-tabs =
+    .label = Cuando abra un enllaz nuna llingüeta, dir pa ella darréu
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = Amosar la previsualización de llingüetes na barra de xeres de Windows
+    .accesskey = x
+browser-containers-enabled =
+    .label = Activar les llingüetes contenedores
+    .accesskey = t
 browser-containers-learn-more = Deprender más
 browser-containers-settings =
     .label = Axustes…
@@ -134,8 +159,13 @@ colors-settings =
     .accesskey = C
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom predetermináu
+    .accesskey = Z
 preferences-default-zoom-value =
     .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Facer zoom namás al testu
+    .accesskey = t
 language-header = Llingua
 choose-language-description = Escueyi la llingua preferida p'amosar les páxines web
 choose-button =
