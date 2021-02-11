@@ -878,6 +878,9 @@ security-enable-safe-browsing-link = Deprender más
 security-block-downloads =
     .label = Bloquiar les descargues peligroses
     .accesskey = p
+security-block-uncommon-software =
+    .label = Avisame del software non deseáu y poco común
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
@@ -887,7 +890,7 @@ certs-view =
     .accesskey = c
 certs-devices =
     .label = Preseos de seguranza…
-    .accesskey = D
+    .accesskey = P
 space-alert-learn-more-button =
     .label = Deprender más
     .accesskey = D
