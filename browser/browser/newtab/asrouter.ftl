@@ -134,9 +134,24 @@ cfr-doorhanger-socialtracking-dont-show-again = Nun volver amosar mensaxes como 
     .accesskey = N
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió qu'una rede social te rastrexare equí
 cfr-doorhanger-socialtracking-description = La privacidá ye importante. Agora { -brand-short-name } bloquia los rastrexadores de les redes sociales más comunes, eso llenda la cantidá de datos que puen recoyer tocante a lo que faes en llinia.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloquió un xenerador de buelgues nesta páxina
+cfr-doorhanger-fingerprinters-description = La to privacidá importa. Agora { -brand-short-name } bloquia xeneradores de buelgues que recueyen cachos d'información única ya identificadora tocante al preséu pa rastrexate.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Number) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexador dende'l { $date }!
+       *[other] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexadores dende'l { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexador dende'l { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexadores dende'l { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Ver too
     .accesskey = V
 cfr-doorhanger-milestone-close-button = Zarrar
