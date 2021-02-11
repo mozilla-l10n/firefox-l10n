@@ -28,6 +28,9 @@ inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’ai
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe ndaha’éi rupi mba’epuru osẽtava renda.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’epurúpe <strong>overflow:hidden</strong> ndahekói rupi.
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> ndorekói mba’eve ivaíva ko mba’epurúpe pe <strong>outline-style</strong> ha’e <strong>auto</strong> térã <strong>none</strong>.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ndojapói mba’eve mba’epuru tabla ryepyguáre.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ndojapói mba’eve mba’epuru tabla ryepyguáre oiko’ỹva tabla kora’ípe.
+inactive-css-not-table = <strong>{ $property }</strong> ndojapói mba’eve ko mba’epurúpe ndaha’éire tabla.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
