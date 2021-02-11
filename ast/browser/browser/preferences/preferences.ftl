@@ -307,6 +307,7 @@ applications-use-os-default-label =
 drm-content-header = Conteníu con DRM (Xestión de Derechos Dixitales)
 play-drm-content-learn-more = Deprender más
 update-application-title = Anovamientos de { -brand-short-name }
+update-application-description = Caltén { -brand-short-name } anováu pal meyor rindimientu, estabilidá y seguranza.
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedaes</a>
 update-history =
     .label = Amosar l'historial d'anovamientos…
