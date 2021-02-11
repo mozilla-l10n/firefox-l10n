@@ -287,8 +287,17 @@ about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Eksisterande innloggingar oppdatert:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Duplikate innloggingar funne:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikkje importerte)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Feil:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikkje importerte)</span>
+    }
 about-logins-import-dialog-done = Ferdig
 about-logins-import-dialog-error-title = Importfeil
+about-logins-import-dialog-error-conflicting-values-title = Fleire motstridande verdiar for ei innlogging
 about-logins-import-dialog-error-file-format-title = Problem med filformatet
 about-logins-import-dialog-error-file-permission-title = Klarte ikkje å lese fila
 about-logins-import-dialog-error-unable-to-read-title = Klarte ikkje å tolke fila
