@@ -317,3 +317,7 @@ about-logins-import-dialog-error-no-logins-imported = Non se importaron identifi
 about-logins-import-dialog-error-learn-more = Saber máis
 about-logins-import-dialog-error-try-again = Ténteo de novo ...
 about-logins-import-dialog-error-cancel = Cancelar
+
+## Logins import report page
+
+about-logins-import-report-page-title = Importar informe de resumo
