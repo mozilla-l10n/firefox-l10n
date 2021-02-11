@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nova xanela
 appmenuitem-new-private-window =
     .label = Nova xanela privada
+appmenuitem-passwords =
+    .label = Contrasinais
+appmenuitem-extensions-and-themes =
+    .label = Extensións e temas
+appmenuitem-find-in-page =
+    .label = Atopar na páxina…
+appmenuitem-more-tools =
+    .label = Máis ferramentas
+appmenuitem-exit =
+    .label = Saír
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Configuración
 
 ## Zoom and Fullscreen Controls
 
@@ -47,6 +61,12 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Revelar máis información
+profiler-popup-description-title =
+    .value = Grava, analiza, comparte
 
 ## Help panel
 
