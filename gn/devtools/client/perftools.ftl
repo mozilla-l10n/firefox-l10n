@@ -84,3 +84,4 @@ perftools-thread-js-helper =
 
 ##
 
+perftools-record-all-registered-threads = Eñomi umi poravopyre yvategua ha eñongatu inimbo jehaipyre
