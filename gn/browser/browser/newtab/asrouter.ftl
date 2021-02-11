@@ -202,10 +202,14 @@ cfr-doorhanger-cryptominers-description = Ne ñemigua tuichamba’e. { -brand-sh
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ojoko hetave <b>{ $blockedCount }</b> tapykuehoha { $date } guive!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } jokopyre <b>{ $blockedCount }</b> tapykuehoha { DATETIME($date, month: "long", year: "numeric") } guive!
     }
 cfr-doorhanger-milestone-ok-button = Hechapa
     .accesskey = H
@@ -287,3 +291,7 @@ cfr-whatsnew-supercookies-header = Ñemo’ã kookieguasu imarãkuaáva rovake
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Techaukaha iporãvéva
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Ñemo’ãmba kookie ohapykuehóva tenda pa’ũme rovake
