@@ -206,7 +206,7 @@ menu-history-hidden-tabs =
 menu-history-undo-menu =
     .label = Schedis sieradis di resint
 menu-history-undo-window-menu =
-    .label = Barcons sierâts che al è pôc
+    .label = Barcons sierâts cumò denant
 
 ## Bookmarks Menu
 
@@ -216,13 +216,17 @@ menu-bookmarks-menu =
 menu-bookmarks-show-all =
     .label = Mostre ducj i segnelibris
 menu-bookmark-this-page =
-    .label = Zonte cheste pagjine ai segnelibris
+    .label = Zonte cheste pagjine tai segnelibris
 menu-bookmark-edit =
     .label = Modifiche chest segnelibri
 menu-bookmarks-all-tabs =
-    .label = Zonte dutis lis lengutis ai segnelibris…
+    .label = Zonte dutis lis schedis tai segnelibris…
 menu-bookmarks-toolbar =
-    .label = Bande dai Segnelibris
+    .label = Sbare dai Segnelibris
+menu-bookmarks-other =
+    .label = Altris segnelibris
+menu-bookmarks-mobile =
+    .label = Segnelibris dispositîfs mobii
 
 ## Tools Menu
 
@@ -230,20 +234,29 @@ menu-tools =
     .label = Imprescj
     .accesskey = I
 menu-tools-downloads =
-    .label = Discjamadis
+    .label = Discjamâts
     .accesskey = D
 menu-tools-addons =
     .label = Zontis
     .accesskey = Z
+menu-tools-fxa-sign-in =
+    .label = Jentre su { -brand-product-name }…
+    .accesskey = J
+menu-tools-turn-on-sync =
+    .label = Ative { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-sync-now =
     .label = Sincronize cumò
     .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = Torne conet a { -brand-product-name }…
+    .accesskey = r
 menu-tools-web-developer =
-    .label = Svilupadôr dal Web
+    .label = Svilupadôr Web
     .accesskey = W
 menu-tools-page-source =
-    .label = Risultive di cheste pagjine
-    .accesskey = v
+    .label = Codiç sorzint de pagjine
+    .accesskey = S
 menu-tools-page-info =
     .label = Informazions su cheste pagjine
     .accesskey = I
