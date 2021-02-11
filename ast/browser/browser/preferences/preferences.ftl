@@ -43,12 +43,9 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } tien de reaniciase p'activar esta carauterística.
-feature-disable-requires-restart = { -brand-short-name } tien de reaniciase pa desactivar esta carauterística.
-should-restart-title = Reaniciar { -brand-short-name }
-should-restart-ok = Reiniciar { -brand-short-name } agora
+feature-enable-requires-restart = { -brand-short-name } ha reaniciase p'activar esta carauterística.
+feature-disable-requires-restart = { -brand-short-name } ha reaniciase pa desactivar esta carauterística.
 cancel-no-restart-button = Encaboxar
-restart-later = Reaniciar dempués
 
 ## Extension Control Notifications
 ##
@@ -84,7 +81,6 @@ extension-controlled-enable = P'activar la estensión vete a <img data-l10n-name
 
 ## Preferences UI Search Results
 
-search-results-header = Resultaos de gueta
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
@@ -96,25 +92,13 @@ search-results-help-link = ¿Precises ayuda? Visita <a data-l10n-name="url">Sofi
 ## General Section
 
 startup-header = Aniciu
-# { -brand-short-name } will be 'Firefox Developer Edition',
-# since this setting is only exposed in Firefox Developer Edition
-separate-profile-mode =
-    .label = Permitir a { -brand-short-name } y Firefox executase al empar
-use-firefox-sync = Conseyu: esto usa perfiles separtaos. Usa { -sync-brand-short-name } pa compartir datos ente ellos.
-get-started-not-logged-in = Coneutase a { -sync-brand-short-name }…
-get-started-configured = Abrir preferencies de { -sync-brand-short-name }
-always-check-default =
-    .label = Comprobar siempres si { -brand-short-name } ye'l to restolador por defeutu
-    .accesskey = o
-is-default = { -brand-short-name } ye'l to restolador web predetermináu
-is-not-default = { -brand-short-name } nun ye'l to restolador web predetermináu
+is-default = Anguaño { -brand-short-name } ye'l restolador web predetermináu
+is-not-default = Anguaño { -brand-short-name } nun ye'l restolador web predetermináu
 set-as-my-default-browser =
-    .label = Facelu predetermináu…
-    .accesskey = D
+    .label = Predeterminar…
+    .accesskey = P
 startup-restore-warn-on-quit =
     .label = Avisate al colar del restolador
-disable-extension =
-    .label = Deshabilitar estensión
 tabs-group-header = Llingüetes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab circula pente les llingüetes nel orde según el so usu recién
