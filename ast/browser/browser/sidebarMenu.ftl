@@ -4,12 +4,9 @@
 
 sidebar-menu-bookmarks =
     .label = Marcadores
-
 sidebar-menu-history =
     .label = Historial
-
 sidebar-menu-synced-tabs =
     .label = Llingüetes sincronizaes
-
 sidebar-menu-close =
-    .label = Zarrar panel llateral
+    .label = Zarrar el panel llateral
