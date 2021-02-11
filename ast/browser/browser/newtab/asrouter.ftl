@@ -111,10 +111,18 @@ cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Llei esto de camín
+cfr-doorhanger-send-tab-recipe-header = Lleva esta receta a la cocina
+cfr-doorhanger-send-tab-body = «Unviar la llingüeta» permítete compartir fácilmente esti enllaz col teléfonu o con cualesquier preséu onde aniciares sesión en { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Probar «Unviar la llingüeta»
+    .accesskey = P
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Comparti esti PDF de forma segura
+cfr-doorhanger-firefox-send-body = Caltén los tos documentos confidenciales lloñe de miraes indiscretes col cifráu de puntu a puntu y un enllaz que desapaez cuando acabes.
+cfr-doorhanger-firefox-send-ok-button = Probar { -send-brand-name }
+    .accesskey = P
 
 ## Social Tracking Protection
 
@@ -129,6 +137,10 @@ cfr-doorhanger-socialtracking-description = La privacidá ye importante. Agora {
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = Ver too
+    .accesskey = V
+cfr-doorhanger-milestone-close-button = Zarrar
+    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
