@@ -353,6 +353,14 @@ update-application-warning-cross-user-setting = Esti axuste va aplicase a toles 
 update-application-use-service =
     .label = Usar serviciu en segundu planu pa instalar los anovamientos
     .accesskey = v
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } alcontró un fallu y nun guardó esti cambéu. Decátate que, p'afitar esta preferencia d'anovamientu, ríquese'l permisu pa escribir nel ficheru d'embaxo. Tu o un alministrador del sistema podéis ser a iguar el fallu concediendo al grupu «Usuarios» el control total d'esti ficheru.
+    
+    Nun pudo escribise nel ficheru: { $path }
 update-in-progress-title = Anovamientu en cursu
 update-in-progress-message = ¿Quies que { -brand-short-name } siga con esti anovamientu?
 update-in-progress-ok-button = &Escartar
@@ -574,6 +582,18 @@ sync-sign-in =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Marcadores
+sync-currently-syncing-history = Historial
+sync-currently-syncing-tabs = Llingüetes abiertes
+sync-currently-syncing-logins-passwords = Anicios de sesión y contraseñes
+sync-currently-syncing-addresses = Direiciones
+sync-currently-syncing-creditcards = Tarxetes de creitu
+sync-currently-syncing-addons = Complementos
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencies
+    }
 
 ## The "Choose what to sync" dialog.
 
