@@ -14,6 +14,9 @@
 <!ENTITY pasteAsQuotationCmd.label "Prilepi kot navedek">
 <!ENTITY pasteAsQuotationCmd.accesskey "d">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Ponovno prelomi">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "o">
 <!ENTITY findBarCmd.label "Najdi …">
 <!ENTITY findReplaceCmd.label "Najdi in zamenjaj …">
 <!ENTITY enableInlineSpellChecker.label "Preverjaj črkovanje med tipkanjem">
