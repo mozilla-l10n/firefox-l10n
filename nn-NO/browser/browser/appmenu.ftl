@@ -73,6 +73,9 @@ profiler-popup-settings =
     .value = Innstillingar
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Rediger innstillingar …
+profiler-popup-disabled =
+    Profilering er for tida deaktivert, sannsynlegvis på grunn av at eit privat nettlesarvindauge
+    er ope.
 profiler-popup-recording-screen = Registrerer…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.

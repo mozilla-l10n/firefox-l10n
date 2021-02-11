@@ -502,6 +502,9 @@ home-prefs-topsites-by-option-sponsored =
     .label = Sponsa toppsider
 home-prefs-shortcuts-header =
     .label = Snarvegar
+home-prefs-shortcuts-description = Nettstadar du lagrar eller besøkjer
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsa snarvegar
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".

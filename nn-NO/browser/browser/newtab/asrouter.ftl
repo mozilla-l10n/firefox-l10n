@@ -281,9 +281,11 @@ cfr-whatsnew-media-keys-button = Finn ut korleis
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Søkjesnarvegar i adresselinja
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Vern mot vondsinna super-infokapslar
 
 ## What's new: Better bookmarking
 
