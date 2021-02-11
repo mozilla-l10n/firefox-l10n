@@ -22,6 +22,7 @@ perftools-heading-features-default = Foncionalitats (recomandadas per defaut)
 perftools-heading-features-disabled = Foncionalitats desactivadas
 perftools-heading-features-experimental = Experimentalas
 perftools-heading-threads = Fils d’execucion
+perftools-heading-local-build = « Build » local
 
 ##
 
@@ -29,6 +30,7 @@ perftools-description-intro =
     Los enregistraments lançan <a>profiler.firefox.com</a> a un onglet novèl. Totas las donadas son
     gardadas
     localament, mas podètz causir de las enviar per las partejar.
+perftools-description-local-build = Se perfilatz una version qu’avètz compilada, sus aquesta maquina, volatz apondre lo dossier « objdir » de vòstra compilacion a la lista çai-jos per que pòsca servir per recercar d’informacions suls simbòls.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -70,6 +72,8 @@ perftools-button-edit-settings = Modificar los paramètres…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Lo processús màger a l'encòp pel processús parent e los processús de contengut.
 perftools-thread-compositor =
     .title = Amassa diferents elements dessenhats a la pagina
 perftools-thread-dom-worker =
