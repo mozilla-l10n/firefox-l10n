@@ -64,6 +64,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Restola ensin que te sigan
+cfr-protections-panel-body = Curia los tos datos. { -brand-short-name } protéxete de la mayoría de rastrexadores comunes que siguen lo que faes en llinia.
 cfr-protections-panel-link-text = Deprender más
 
 ## What's New toolbar button and panel
@@ -148,6 +150,7 @@ cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Marcadores ameyoraos
 
 ## What's new: Cross-site cookie tracking
 
