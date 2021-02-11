@@ -312,6 +312,17 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = La conession cun chest sît no je sigure.
 identity-connection-verified = La conession cun chest sît e je sigure.
 identity-ev-owner-label = Certificât dât fûr a:
+identity-description-custom-root = Mozilla nol ricognòs il sogjet che al à dât fûr chest certificât. Il sisteme operatîf o un aministradôr lu podarès vê zontât. <label data-l10n-name="link">Par savê di plui</label>
+identity-remove-cert-exception =
+    .label = Gjave ecezion
+    .accesskey = G
+identity-description-insecure = La conession a chest sît no je privade. Altris a puedin viodi lis informazions che tu inserissis (tant che passwords, messaçs, cjartis di credit e v.i.).
+identity-description-insecure-login-forms = Lis credenziâls di acès che tu âs inserît su cheste pagjine no son siguris e a podaressin jessi comprometudis.
+identity-description-weak-cipher-intro = La conession a chest sît web e dopre une cifradure debile e no je privade.
+identity-description-weak-cipher-risk = Altris personis a puedin viodi lis tôs informazions o modificâ il compuartament dal sît web.
+identity-description-active-blocked = { -brand-short-name } al à blocât parts di cheste pagjine che no son siguris. <label data-l10n-name="link">Par savê di plui</label>
+identity-description-passive-loaded = La tô conession no je privade e altris a puedin viodi lis informazions che tu condividis cul sît.
+identity-description-passive-loaded-insecure = Chest sît web al conten contignûts che no son sigûrs (come lis imagjins). <label data-l10n-name="link">Plui informazions</label>
 
 ## Window controls
 
