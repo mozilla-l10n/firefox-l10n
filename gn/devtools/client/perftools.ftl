@@ -63,6 +63,10 @@ perftools-button-edit-settings = Embosako’i ñemboheko…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-dom-worker =
+    .title = Kóva oñangareko web workers ha service workers rehe
+perftools-thread-renderer =
+    .title = WebRender hendy jave, pe inimbo omongu’éva umi OpenGL renoiha
 perftools-thread-render-backend =
     .title = Inimbo WebRender RenderBackend
 pref-thread-stream-trans =
