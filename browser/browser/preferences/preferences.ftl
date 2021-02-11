@@ -481,6 +481,23 @@ search-bar-shown =
 search-engine-default-header = Motor de busca predetermináu
 search-engine-default-desc-2 = Esti ye'l motor de busca predetermináu na barra de direiciones y na barra de busca. Pues cambialu en cualesquier momentu.
 search-suggestions-header = Suxerencies de busca
+search-suggestions-desc = Escueyi cómo apaecen les suxerencies de los motores de busca.
+search-suggestions-option =
+    .label = Fornir suxerencies de busca
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Amosar les suxerences de busca nos resultaos de la barra de direiciones
+    .accesskey = n
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Nos resultaos de la barra de direiciones, amosar les suxerencies de busca enantes del historial de restolar
+search-show-suggestions-private-windows =
+    .label = Amosar les suxerencies de busca nes ventanes privaes
+suggestions-addressbar-settings-generic = Camudar les preferencies d'otres suxerencies de la barra de direiciones
 search-choose-engine-column =
     .label = Motor de busca
 search-choose-keyword-column =
