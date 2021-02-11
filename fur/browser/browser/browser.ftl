@@ -372,12 +372,24 @@ popup-all-windows-shared = A vignaran condividûts ducj i barcons visibii sul to
 popup-screen-sharing-not-now =
     .label = No cumò
     .accesskey = c
+popup-screen-sharing-never =
+    .label = No sta permeti mai
+    .accesskey = N
+popup-silence-notifications-checkbox = Disabilite lis notifichis di { -brand-short-name } intant che si condivît
+popup-silence-notifications-checkbox-warning = { -brand-short-name } nol visualizarà lis notifichis intant che tu stâs condividint.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Tu stâs condividint { -brand-short-name }. Altris personis a puedin viodi cuant che tu passis a une gnove schede.
+sharing-warning-screen = Tu stâs condividint dut il schermi. Altris personis a puedin viodi cuant che tu passis a gnove schede.
+sharing-warning-proceed-to-tab =
+    .label = Passe ae schede
+sharing-warning-disable-for-session =
+    .label = Disabilite la protezion di condivision par cheste session
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Par doprâ lis scurtis F12, vierç prime i struments di disvilup cul menù “Svilupadôr Web”.
 
 ## URL Bar
 
@@ -387,6 +399,14 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cîr o inserìs direzion
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Cîr sul web
+    .aria-label = Cîr cun { $name }
 urlbar-switch-to-tab =
     .value = Passe a la schede:
 urlbar-go-button =
