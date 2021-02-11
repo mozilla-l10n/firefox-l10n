@@ -342,47 +342,34 @@ home-prefs-sections-rows-option =
 ## Search Section
 
 search-engine-default-desc-2 = Esti ye'l motor de busca predetermináu na barra de direiciones y na barra de busques. Pues cambialu en cualesquier momentu.
-search-suggestions-option =
-    .label = Apurrir suxerencies de gueta
-    .accesskey = D
-search-suggestions-cant-show = Les suxerencies de gueta nun van amosase nos resultaos de la barra de direiciones porque configurasti { -brand-short-name } pa que nun recuerde l'historial.
-search-one-click-header = Motores de gueta nun clic
-search-one-click-desc = Escoyer los motores de gueta alternativos qu'apaecen baxo la barra de direiciones y la barra de gueta cuando entames a escribir una pallabra clave.
 search-choose-engine-column =
-    .label = Guetador
+    .label = Motor de busca
 search-choose-keyword-column =
     .label = Pallabra clave
 search-restore-default =
-    .label = Reafitar motores de gueta por defeutu
+    .label = Reafitar los motores de busca
     .accesskey = R
 search-remove-engine =
-    .label = Desaniciar
-    .accesskey = D
-search-find-more-link = Atopar más motores de gueta
+    .label = Quitar
+    .accesskey = Q
+search-find-more-link = Atopar más motores de busca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pallabra clave duplicada
-# Variables:
-#   $name (String) - Name of a search engine.
-search-keyword-warning-engine = Esbillesti una pallabra clave qu'anguaño s'usa por «{ $name }». Esbilla otra, por favor.
-search-keyword-warning-bookmark = Esbillesti una pallabra clave qu'anguaño s'usa nun marcador. Esbilla otra, por favor.
 
 ## Containers Section
 
-containers-header = Llingüetes contenedor
-containers-add-button =
-    .label = Amestar contenedor nuevu
-    .accesskey = A
+containers-header = Llingüetes contenedores
 containers-preferences-button =
     .label = Preferencies
 containers-remove-button =
-    .label = Desaniciar
+    .label = Quitar
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Lleva la web contigo
-sync-signedout-description = Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.
+sync-signedout-description = Sincroniza los marcadores, les llingüetes, l'historial, les contraseñes, los complementos y les preferencies en tolos preseos de to.
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -391,22 +378,14 @@ sync-signedout-description = Sincroniza los tos marcadores, historial, llingüet
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Baxa Firefox pa <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pa sincronizar col to preséu móvil.
+sync-mobile-promo = Baxa Firefox <img data-l10n-name="android-icon"/> p'<a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pa sincronizar col to preséu móvil.
 
 ## Firefox Account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Camudar semeya de perfil
 sync-sign-out =
     .label = Zarrar sesión…
     .accesskey = Z
-sync-manage-account = Xestionar cuenta
-    .accesskey = o
-sync-signedin-unverified = { $email } nun ta verificada.
-sync-signedin-login-failure = Anicia sesión pa reconeutate, por favor { $email }
-sync-sign-in =
-    .label = Aniciar sesión
-    .accesskey = g
+sync-signedin-unverified = { $email } ta ensin verificar.
 
 ## Sync section - enabling or disabling sync.
 
@@ -474,7 +453,7 @@ privacy-header = Privacidá del restolador
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Usuarios y contraseñes
+pane-privacy-logins-and-passwords-header = Anicios de sesión y contraseñes
     .searchkeywords = { -lockwise-brand-short-name }
 forms-exceptions =
     .label = Esceiciones…
@@ -482,21 +461,11 @@ forms-exceptions =
 forms-saved-logins =
     .label = Anicios de sesión guardaos…
     .accesskey = A
-forms-master-pw-use =
-    .label = Usar una contraseña maestra
-    .accesskey = U
-# This string uses the former name of the Primary Password feature
-# ("Master Password" in English) so that the preferences can be found
-# when searching for the old name. The accesskey is unused.
-forms-master-pw-change =
-    .label = Camudar contraseña maestra…
-    .accesskey = m
-forms-master-pw-fips-title = Nesti intre tas en mou FIPS. FIPS requier una contraseña maestra non erma.
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Enantes llamábase «Contraseña maestra»
-forms-master-pw-fips-desc = Fallu al camudar la contraseña
+forms-master-pw-fips-desc = El cambéu de la contraseña falló
 
 ## OS Authentication dialog
 
@@ -514,31 +483,16 @@ history-header = Historial
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } podrá:
-    .accesskey = o
-history-remember-option-all =
-    .label = Recordar l'historial
-history-remember-option-never =
-    .label = Nun recordar historial
-history-remember-option-custom =
-    .label = Usar una configuración personalizada pal historial
-history-dontremember-description = { -brand-short-name } usará los mesmos axustes que Restolar en privao u nun rescordará historial dalu cuando restoles la web.
-history-private-browsing-permanent =
-    .label = Usar siempres el mou Restolar en privao
-    .accesskey = p
-history-remember-search-option =
-    .label = Recordar l'historial de formularios y guetes
-    .accesskey = f
-history-clear-on-close-option =
-    .label = Llimpiar l'historial cuando { -brand-short-name } se zarre
-    .accesskey = r
+history-remember-label = { -brand-short-name } va:
+    .accesskey = v
+history-dontremember-description = { -brand-short-name } va usar los mesmos axustes del restolar en privao y nun va recordar nengún historial mentanto restoles la web.
 history-clear-on-close-settings =
     .label = Axustes…
     .accesskey = C
 
 ## Privacy Section - Site Data
 
-sitedata-learn-more = Deprendi más
+sitedata-learn-more = Deprender más
 sitedata-option-block-unvisited =
     .label = Cookies de sitios web ensin andar
 sitedata-option-block-all-third-party =
@@ -557,9 +511,8 @@ addressbar-locbar-bookmarks-option =
     .label = Marcadores
     .accesskey = M
 addressbar-locbar-openpage-option =
-    .label = Abrir llingüetes
-    .accesskey = A
-addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los motores de gueta
+    .label = Llingüetes abiertes
+    .accesskey = a
 
 ## Privacy Section - Content Blocking
 
