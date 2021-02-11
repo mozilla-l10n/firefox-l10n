@@ -358,6 +358,7 @@ browser-tab-audio-muted = Cidinât
 browser-import-button2 =
     .label = Impuarte segnelibris…
     .tooltiptext = Impuarte i segnelibris su { -brand-short-name } di un altri navigadôr.
+bookmarks-toolbar-empty-message = Par vê un acès rapit, met i tiei segnelibris achì te sbare dai segnelibris. <a data-l10n-name="manage-bookmarks">Gjestìs i segnelibris…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -367,6 +368,10 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfon di condividi:
     .accesskey = M
+popup-all-windows-shared = A vignaran condividûts ducj i barcons visibii sul to schermi.
+popup-screen-sharing-not-now =
+    .label = No cumò
+    .accesskey = c
 
 ## WebRTC window or screen share tab switch warning
 
