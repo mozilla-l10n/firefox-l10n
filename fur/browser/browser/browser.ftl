@@ -463,17 +463,60 @@ urlbar-result-action-search-in-private = Cîr intun barcon privât
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Cîr cun { $engine }
+urlbar-result-action-sponsored = Sponsorizât
+urlbar-result-action-switch-tab = Passe ae schede
+urlbar-result-action-visit = Visite
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Frache Tab par cirî cun { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Frache Tab par cirî in { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Cîr cun { $engine } dret de sbare de direzion
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Cîr in { $engine } dret de sbare de direzion
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Cîr tai segnelibris
+urlbar-result-action-search-history = Cîr te cronologjie
+urlbar-result-action-search-tabs = Cîr tes schedis
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> al è cumò a plen visôr
+fullscreen-warning-no-domain = Chest document al è cumò a plen visôr
+fullscreen-exit-button = Jes de modalitât plen visôr (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Jes de modalitât plen visôr (esc)
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
+pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> al à il control dal to pontadôr. Frache Esc par tornâ a vê il control.
+pointerlock-warning-no-domain = Chest document al à il control dal to pontadôr. Frache Esc par tornâ a vê il control.
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Part di cheste pagjine e je colassade.</strong> Par permeti a { -brand-product-name } di cognossi il motîf di chest probleme e vê risolt prime il probleme, par plasê invie une segnalazion.
+crashed-subframe-learnmore =
+    .label = Plui informazions
+    .accesskey = l
 
 ## Bookmarks panels, menus and toolbar
 
