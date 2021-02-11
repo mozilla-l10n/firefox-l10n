@@ -20,6 +20,10 @@ newtab-search-box-search-the-web-input =
     .placeholder = జాలంలో వెతకండి
     .title = జాలంలో వెతకండి
     .aria-label = జాలంలో వెతకండి
+newtab-search-box-text = జాలంలో వెతకండి
+newtab-search-box-input =
+    .placeholder = జాలంలో వెతకండి
+    .aria-label = జాలంలో వెతకండి
 
 ## Top Sites - General form dialog.
 
@@ -208,6 +212,7 @@ newtab-custom-row-selector =
         [one] { $num } వరుస
        *[other] { $num } వరుసలు
     }
+newtab-custom-pocket-sponsored = ప్రాయోజిక కథనాలు
 newtab-custom-recent-title = ఇటీవలి కార్యకలాపం
 newtab-custom-close-button = మూసివేయి
 # For the "Snippets" feature traditionally on about:home.
