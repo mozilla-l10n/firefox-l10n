@@ -9,6 +9,8 @@
 
 ##
 
+protections-panel-etp-on-header = La proteición escontra'l rastrexu ta ACTIVADA pa esti sitiu
+protections-panel-etp-off-header = La proteición escontra'l rastrexu ta DESACTIVADA pa esti sitiu
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
