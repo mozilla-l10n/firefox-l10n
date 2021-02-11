@@ -279,6 +279,14 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import fullført
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Nye innloggningar lagt til: </span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Eksisterande innloggingar oppdatert:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-done = Ferdig
 about-logins-import-dialog-error-title = Importfeil
 about-logins-import-dialog-error-file-format-title = Problem med filformatet
