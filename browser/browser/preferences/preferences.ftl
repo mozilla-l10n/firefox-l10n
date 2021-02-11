@@ -66,10 +66,10 @@ restart-later = Reaniciar dempués
 extension-controlled-homepage-override = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina d'aniciu.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina de llingüeta nueva.
+extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina «Llingüeta nueva».
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor predetermináu de gueta.
+extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor de busca predetermináu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique llingüetes de contenedores.
@@ -369,9 +369,8 @@ browsing-cfr-features =
 
 ## General Section - Proxy
 
-network-settings-title = Axustes de rede
-network-proxy-connection-description = Configura cómo { -brand-short-name } se coneute a internet.
-network-proxy-connection-learn-more = Deprendi más
+network-proxy-connection-description = Configura cómo { -brand-short-name } se conecta a internet.
+network-proxy-connection-learn-more = Deprender más
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
@@ -379,7 +378,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ventanes y llingüetes nueves
-home-new-windows-tabs-description2 = Escueyi lo que ves cuando abres la páxina d'aniciu, ventanes y llingüetes nueves.
+home-new-windows-tabs-description2 = Escueyi lo que ves cuando abres la páxina d'aniciu, ventanes nueves y llingüetes nueves.
 
 ## Home Section - Home Page Customization
 
