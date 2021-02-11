@@ -10,6 +10,21 @@ pref-page-title =
         [windows] Opciones
        *[other] Preferencies
     }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Atopar nes opciones
+           *[other] Atopar nes preferencies
+        }
 category-list =
     .aria-label = Estayes
 pane-general-title = Xeneral
@@ -417,7 +432,16 @@ home-prefs-content-header = Conteníu de la páxina d'aniciu de Firefox
 home-prefs-content-description = Escueyi'l conteníu que quies ver na pantalla d'aniciu de Firefox.
 home-prefs-search-header =
     .label = Busca web
-home-prefs-topsites-description = Los sitios que más andes
+home-prefs-topsites-header =
+    .label = Sitios principales
+home-prefs-topsites-description = Los sitios que más visites
+home-prefs-topsites-by-option-sponsored =
+    .label = Sitios principales patrocinaos
+home-prefs-shortcuts-header =
+    .label = Atayos
+home-prefs-shortcuts-description = Sitios que guardes o visites
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Atayos patrocinaos
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -449,7 +473,14 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-engine-default-desc-2 = Esti ye'l motor de busca predetermináu na barra de direiciones y na barra de busques. Pues cambialu en cualesquier momentu.
+search-bar-header = Barra de busca
+search-bar-hidden =
+    .label = Usar la barra de direición pa buscar y navegar
+search-bar-shown =
+    .label = Amestar la barra de busca na barra de ferramientes
+search-engine-default-header = Motor de busca predetermináu
+search-engine-default-desc-2 = Esti ye'l motor de busca predetermináu na barra de direiciones y na barra de busca. Pues cambialu en cualesquier momentu.
+search-suggestions-header = Suxerencies de busca
 search-choose-engine-column =
     .label = Motor de busca
 search-choose-keyword-column =
@@ -602,7 +633,7 @@ history-clear-on-close-settings =
 
 sitedata-learn-more = Deprender más
 sitedata-option-block-unvisited =
-    .label = Cookies de sitios web ensin andar
+    .label = Cookies de sitios web ensin visitar
 sitedata-option-block-all-third-party =
     .label = Toles cookies de terceros (podría romper dalgunos sitios)
 sitedata-option-block-all =
