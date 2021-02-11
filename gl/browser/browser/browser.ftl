@@ -348,6 +348,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Reproducindo
+browser-tab-audio-muted = Silenciado
 
 ## Bookmarks toolbar items
 
@@ -523,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = Amosar todos os marcadores
 bookmarks-recent-bookmarks =
     .value = Marcadores máis recentes
+bookmarks-manage-bookmarks =
+    .label = Xestionar marcadores
+bookmarks-recent-bookmarks-panel =
+    .value = Marcadores recentes
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar máis marcadores
 bookmarks-sidebar-content =
@@ -551,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Agochar a barra dos marcadores
            *[other] Ver a barra de marcadores
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Agochar a barra de marcadores
+           *[other] Amosar a barra de marcadores
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -576,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = Elementos da barra de marcadores
 bookmarks-toolbar-placeholder-button =
     .label = Elementos da barra de marcadores
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Engadir a marcadores a lapela actual
 
 ## Library Panel items
 
