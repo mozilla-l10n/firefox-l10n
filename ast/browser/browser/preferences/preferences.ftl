@@ -701,6 +701,7 @@ content-blocking-unvisited-cookies = Cookies de sitios ensin visitar
 content-blocking-all-third-party-cookies = Toles cookies de terceros
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Xeneradores de buelgues
+content-blocking-warning-title = ¡Atención!
 content-blocking-reload-description = Va ser preciso recargar les llingüetes p'aplicar estos cambeos.
 content-blocking-tracking-content-label =
     .label = Conteníu que rastrexa
