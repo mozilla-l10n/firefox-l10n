@@ -31,6 +31,7 @@ cookie-tab-title = Cookies de rastrexu ente sitios
 tracker-tab-title = Conteníu que rastrexa
 fingerprinter-tab-title = Xeneradores de buelgues
 cryptominer-tab-title = Criptomineros
+lockwise-title = Nun vuelvas escaecer nin una contraseña
 lockwise-how-it-works-link = Cómo funciona
 monitor-link = Cómo funciona
 
