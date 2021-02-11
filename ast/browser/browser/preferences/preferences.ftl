@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Unvia la señal «Nun rastrexar» a los sitios web p'avisalos de que nun quies que te rastrexen
-do-not-track-learn-more = Deprendi más
+do-not-track-learn-more = Deprender más
 do-not-track-option-always =
     .label = Siempres
 pref-page-title =
@@ -19,10 +18,10 @@ category-general =
 pane-home-title = Aniciu
 category-home =
     .tooltiptext = { pane-home-title }
-pane-search-title = Guetar
+pane-search-title = Busca
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Privacidá y Seguranza
+pane-privacy-title = Privacidá y seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -35,7 +34,7 @@ pane-experimental-description = El cambéu de la configuración avanzada pue afe
 pane-experimental-reset =
     .label = Reafitar
     .accesskey = R
-help-button-label = Ayuda de { -brand-short-name }
+help-button-label = Sofitu de { -brand-short-name }
 addons-button-label = Estensiones y estilos
 focus-search =
     .key = f
@@ -431,7 +430,7 @@ home-prefs-highlights-header =
     .label = Destacaos
 home-prefs-highlights-description = Una esbilla de sitios que guardesti o anduviesti
 home-prefs-highlights-option-visited-pages =
-    .label = Páxines visitaes
+    .label = Páxines andaes
 home-prefs-highlights-options-bookmarks =
     .label = Marcadores
 home-prefs-highlights-option-most-recent-download =
