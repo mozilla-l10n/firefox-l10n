@@ -198,6 +198,7 @@ support-third-party-modules-duration = Durada de cargament (ms)
 support-third-party-modules-status = Estat
 support-third-party-modules-status-loaded = Cargat
 support-third-party-modules-status-blocked = Blocat
+support-third-party-modules-status-redirected = Desviat
 support-third-party-modules-empty = Cap de module tèrç pas cargat.
 support-third-party-modules-no-value = (Cap de valor)
 support-third-party-modules-button-open =
