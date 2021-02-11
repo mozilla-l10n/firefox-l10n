@@ -30,6 +30,8 @@ category-sync2 =
 pane-experimental-title = Esperimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperimentos de { -brand-short-name }
+pane-experimental-subtitle = Sigui con curiáu
+pane-experimental-search-results-header = Esperimentos de { -brand-short-name }: Vete con curiáu
 pane-experimental-description = El cambéu de la configuración avanzada pue afeutar al rindimientu o seguranza de { -brand-short-name }.
 pane-experimental-reset =
     .label = Reafitar
@@ -92,11 +94,17 @@ search-results-help-link = ¿Precises ayuda? Visita <a data-l10n-name="url">Sofi
 ## General Section
 
 startup-header = Aniciu
+always-check-default =
+    .label = Comprobar siempres si { -brand-short-name } ye'l restolador predetermináu
+    .accesskey = i
 is-default = Anguaño { -brand-short-name } ye'l restolador web predetermináu
 is-not-default = Anguaño { -brand-short-name } nun ye'l restolador web predetermináu
 set-as-my-default-browser =
     .label = Predeterminar…
     .accesskey = P
+startup-restore-previous-session =
+    .label = Restaurar la sesión anterior
+    .accesskey = s
 startup-restore-warn-on-quit =
     .label = Avisate al colar del restolador
 tabs-group-header = Llingüetes
