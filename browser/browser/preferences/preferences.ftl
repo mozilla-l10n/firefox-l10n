@@ -142,6 +142,8 @@ browser-containers-settings =
     .accesskey = u
 containers-disable-alert-title = ¿Zarrar toles llingüetes contenedores?
 containers-remove-alert-title = ¿Quitar esti contenedor?
+containers-remove-ok-button = Quitar esti contenedor
+containers-remove-cancel-button = Nun quitar esti contenedor
 
 ## General Section - Language & Appearance
 
@@ -352,15 +354,19 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar el testu cuando comiences a teclexar
     .accesskey = s
+browsing-picture-in-picture-learn-more = Deprender más
+browsing-media-control-learn-more = Deprender más
 browsing-cfr-recommendations =
     .label = Aconseyar estensiones mentanto restoles
     .accesskey = A
 browsing-cfr-features =
     .label = Aconseyar carauterístiques mentanto restoles
     .accesskey = c
+browsing-cfr-recommendations-learn-more = Deprender más
 
 ## General Section - Proxy
 
+network-settings-title = Axustes de rede
 network-proxy-connection-description = Configura cómo { -brand-short-name } se conecta a internet.
 network-proxy-connection-learn-more = Deprender más
 network-proxy-connection-settings =
@@ -389,9 +395,28 @@ home-mode-choice-blank =
     .label = Páxina balera
 home-homepage-custom-url =
     .placeholder = Apiega una URL…
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Usar la páxina actual
+            [one] Usar la páxina actual
+           *[other] Usar les páxines actuales
+        }
+    .accesskey = a
+choose-bookmark =
+    .label = Usar un marcador…
+    .accesskey = m
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Conteníu de la páxina d'aniciu de Firefox
+home-prefs-content-description = Escueyi'l conteníu que quies ver na pantalla d'aniciu de Firefox.
+home-prefs-search-header =
+    .label = Busca web
 home-prefs-topsites-description = Los sitios que más andes
 
 ## Variables:
