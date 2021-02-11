@@ -242,10 +242,10 @@ performance-title = Rindimientu
 performance-use-recommended-settings-checkbox =
     .label = Usar los axustes de rindimientu aconseyaos
     .accesskey = U
-performance-use-recommended-settings-desc = Estos axustes adáutense al hardware y sistema operativu del to equipu.
-performance-settings-learn-more = Deprendi más
+performance-use-recommended-settings-desc = Estos axustes adáutense al hardware y sistema operativu del ordenador.
+performance-settings-learn-more = Deprender más
 performance-allow-hw-accel =
-    .label = Usar aceleración de hardware cuando tea disponible
+    .label = Usar l'aceleración del hardware cuando tea disponible
     .accesskey = h
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -254,21 +254,20 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = Restolar
 browsing-use-autoscroll =
-    .label = Usar desplazamientu automáticu
+    .label = Usar el desplazamientu automáticu
     .accesskey = d
 browsing-use-smooth-scrolling =
-    .label = Usar desplazamientu sele
+    .label = Usar el desplazamientu suave
     .accesskey = l
 browsing-use-onscreen-keyboard =
-    .label = Amosar un tecláu en pantalla cuando seya necesario
+    .label = Amosar un tecláu táctil cuando seya preciso
     .accesskey = t
 browsing-use-cursor-navigation =
-    .label = Usar siempre les tecles del cursor pa restolar dientro de les páxines
+    .label = Usar siempres les tecles del cursor pa navegar nes páxines
     .accesskey = c
 browsing-search-on-start-typing =
-    .label = Guetar el testu mientres s'escribe
+    .label = Buscar el testu cuando comiences a teclexar
     .accesskey = s
 browsing-cfr-recommendations =
     .label = Aconseyar estensiones mentanto restoles
@@ -282,8 +281,8 @@ browsing-cfr-features =
 network-proxy-connection-description = Configura cómo { -brand-short-name } se conecta a internet.
 network-proxy-connection-learn-more = Deprender más
 network-proxy-connection-settings =
-    .label = Configuración…
-    .accesskey = o
+    .label = Axustes…
+    .accesskey = A
 
 ## Home Section
 
@@ -307,38 +306,20 @@ home-mode-choice-blank =
     .label = Páxina balera
 home-homepage-custom-url =
     .placeholder = Apiega una URL…
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Usar páxina actual
-           *[other] Usar páxines actuales
-        }
-    .accesskey = U
-choose-bookmark =
-    .label = Usar marcador…
-    .accesskey = m
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-topsites-header =
-    .label = Más visitaos
 home-prefs-topsites-description = Los sitios que más andes
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
-home-prefs-recommended-by-header =
-    .label = Recomendáu por { $provider }
 
 ##
 
 home-prefs-recommended-by-learn-more = Cómo funciona
 home-prefs-highlights-header =
-    .label = Destacaos
+    .label = Lo destacao
 home-prefs-highlights-description = Una esbilla de sitios que guardesti o anduviesti
 home-prefs-highlights-option-visited-pages =
     .label = Páxines andaes
@@ -350,12 +331,6 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Páxines guardaes en { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Actividá recién
-# For the "Snippets" feature traditionally on about:home.
-# Alternative translation options: "Small Note" or something that
-# expresses the idea of "a small message, shortened from something else,
-# and non-essential but also not entirely trivial and useless.
-home-prefs-snippets-header =
-    .label = Retayos
 home-prefs-snippets-description = Anovamientos de { -vendor-short-name } y { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
@@ -366,12 +341,6 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
-search-bar-header = Barra de gueta
-search-bar-hidden =
-    .label = Usar la barra de direiciones pa guetar y restolar
-search-bar-shown =
-    .label = Amestar barra de gueta na barra de ferramientes
-search-engine-default-header = Guetador por defeutu
 search-engine-default-desc-2 = Esti ye'l motor de busca predetermináu na barra de direiciones y na barra de busques. Pues cambialu en cualesquier momentu.
 search-suggestions-option =
     .label = Apurrir suxerencies de gueta
