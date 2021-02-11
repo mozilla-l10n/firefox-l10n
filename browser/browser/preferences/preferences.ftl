@@ -194,13 +194,58 @@ check-user-spelling =
 
 files-and-applications-title = Ficheros y aplicaciones
 download-header = Descargues
+download-save-to =
+    .label = Guardar los ficheros en
+    .accesskey = d
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Escoyer…
+           *[other] Restolar…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] R
+        }
+download-always-ask-where =
+    .label = Entrugar siempres ónde guardar los ficheros
+    .accesskey = m
 applications-header = Aplicaciones
+applications-description = Escueyi cómo { -brand-short-name } remana los ficheros que baxes de la web o les aplicaciones qu'uses menanto restoles.
+applications-filter =
+    .placeholder = Buscar aplicaciones o tipos de ficheros
+applications-type-column =
+    .label = Tipu de conteníu
+    .accesskey = T
 applications-action-column =
     .label = Aición
     .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = ficheru { $extension }
+applications-action-save =
+    .label = Guardar el ficheru
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Usar { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Usar { $app-name } (por defeutu)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Usar l'aplicación predeterminada de macOS
+            [windows] Usar l'aplicación predeterminada de Windows
+           *[other] Usar l'aplicación predeterminada del sistema
+        }
+applications-use-other =
+    .label = Usar otra aplicación…
+applications-select-helper = Esbilla d'una aplicación auxiliar
+applications-manage-app =
+    .label = Detalles de l'aplicación…
 applications-always-ask =
     .label = Entrugar siempres
 applications-type-pdf = PDF (Formatu de Documentu Portátil)
