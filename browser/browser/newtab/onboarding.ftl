@@ -80,11 +80,42 @@ onboarding-multistage-welcome-subtitle = El restolador rápidu, seguru y priváu
 onboarding-multistage-welcome-primary-button-label = Aniciar la configuración
 onboarding-multistage-welcome-secondary-button-label = Anicia sesión
 onboarding-multistage-welcome-secondary-button-text = ¿Tienes una cuenta?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importa les tos contraseñes, <br/>marcadores y <span data-l10n-name="zap">más</span>
+onboarding-multistage-import-subtitle = ¿Vienes d'otru restolador? Importalo too a { -brand-short-name } ye perfácil.
 onboarding-multistage-import-primary-button-label = Aniciar la importación
 onboarding-multistage-import-secondary-button-label = Agora non
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Escoyeta d'un <span data-l10n-name="zap">estilu</span>
+onboarding-multistage-theme-subtitle = Personaliza { -brand-short-name } con un estilu.
+onboarding-multistage-theme-primary-button-label = Guardar l'estilu
+onboarding-multistage-theme-secondary-button-label = Agora non
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automáticu
+onboarding-multistage-theme-label-light = Claridá
+onboarding-multistage-theme-label-dark = Escuridá
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Herieda l'aspeutu del sistema operativu
+        pa los botones, el menú y les ventanes.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Usa un aspeutu claru pa los botones,
+        el menú y les ventanes.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Usa un aspeutu escuru pa los botones,
+        el menú y les ventanes.
