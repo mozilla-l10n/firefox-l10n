@@ -67,18 +67,12 @@ extension-controlled-homepage-override = Una estensión, <img data-l10n-name="ic
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina de llingüeta nueva.
-# This string is shown to notify the user that their notifications permission
-# is being controlled by an extension.
-extension-controlled-web-notifications = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esta configuración.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor predetermináu de gueta.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique llingüetes de contenedores.
-# This string is shown to notify the user that their content blocking "All Detected Trackers"
-# preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esti axuste.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una estensión, <img data-l10n-name="icon"/> { $name }, controla cómo se coneuta { -brand-short-name } a Internet.
@@ -95,10 +89,10 @@ search-results-header = Resultaos de gueta
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] ¡Sentímoslo! Nun hai resultaos pa "<span data-l10n-name="query"></span>" n'opciones.
-       *[other] ¡Sentímoslo! Nun hai resultaos pa "<span data-l10n-name="query"></span>" en preferencies.
+        [windows] ¡Sentímoslo! Nun hai resultaos n'Opciones pa «<span data-l10n-name="query"></span>».
+       *[other] ¡Sentímoslo! Nun hai resultaos en Preferencies pa «<span data-l10n-name="query"></span>».
     }
-search-results-help-link = ¿Necesites ayuda? Visita <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
+search-results-help-link = ¿Precises ayuda? Visita <a data-l10n-name="url">Sofitu de { -brand-short-name }</a>
 
 ## General Section
 
@@ -118,11 +112,8 @@ is-not-default = { -brand-short-name } nun ye'l to restolador web predetermináu
 set-as-my-default-browser =
     .label = Facelu predetermináu…
     .accesskey = D
-startup-restore-previous-session =
-    .label = Restaurar sesión previa
-    .accesskey = R
 startup-restore-warn-on-quit =
-    .label = Avisa al colar del navegador
+    .label = Avisate al colar del restolador
 disable-extension =
     .label = Deshabilitar estensión
 tabs-group-header = Llingüetes
@@ -161,15 +152,6 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Calteneles habilitaes
 containers-remove-alert-title = ¿Quitar esti contenedor?
-# Variables:
-#   $count (Number) - Number of tabs that will be closed.
-containers-remove-alert-msg =
-    { $count ->
-        [one] Si desanicies esti contenedor agora, va zarrase { $count } llingüeta contenedora. ¿Daveres que quies desaniciar esti contenedor?
-       *[other] Si desanicies esti contenedor agora, van zarrase { $count } llingüetes contenedores. ¿Daveres que quies desaniciar esti contenedor?
-    }
-containers-remove-ok-button = Desaniciar esti contenedor
-containers-remove-cancel-button = Nun desaniciar esti contenedor
 
 ## General Section - Language & Appearance
 
@@ -194,11 +176,10 @@ choose-language-description = Escoyer llingua preferida p'amosar les páxines we
 choose-button =
     .label = Escoyer…
     .accesskey = o
-choose-browser-language-description = Seleiciona les llingües nes que van amosase los menús, mensaxes y notificaciones de { -brand-short-name }.
 manage-browser-languages-button =
     .label = Afitar alternatives…
     .accesskey = A
-confirm-browser-language-change-description = Reanicia { -brand-short-name } p'aplicar los cambeos
+confirm-browser-language-change-description = Reanicia { -brand-short-name } p'aplicar estos cambeos
 confirm-browser-language-change-button = Aplicar y reaniciar
 translate-web-pages =
     .label = Traducir conteníu web
@@ -214,7 +195,7 @@ translate-exceptions =
 use-system-locale =
     .label = Usar los axustes del sistema operativu del «{ $localeName }» pa formatiar la data, los númberos, la hora y les midíes.
 check-user-spelling =
-    .label = Revisar la ortografía según s'escribe
+    .label = Comprobar la ortografía mentanto treclexes
     .accesskey = R
 
 ## General Section - Files and Applications
@@ -309,9 +290,6 @@ applications-use-os-default-label =
 ##
 
 drm-content-header = Conteníu con Digital Rights Management (DRM)
-play-drm-content =
-    .label = Reproducir conteníu remanáu por DRM
-    .accesskey = R
 play-drm-content-learn-more = Deprender más
 update-application-title = Anovamientos de { -brand-short-name }
 update-application-description = Caltén { -brand-short-name } anováu pa un meyor rindimientu, estabilidá y seguranza.
@@ -321,14 +299,14 @@ update-history =
     .accesskey = t
 update-application-allow-description = Permitir a { -brand-short-name }:
 update-application-auto =
-    .label = Instalar anovamientos automáticamente (recomiéndase)
+    .label = Instalar automáticamente los anovamientos (aconséyase)
     .accesskey = I
 update-application-check-choose =
-    .label = Guetar anovamientos, pero permitir escoyer si instalalos
+    .label = Comprobar los anovamientos mas dexáime escoyer si instalalos
     .accesskey = G
 update-application-manual =
-    .label = Nun guetar por anovamientos (nun se recomienda)
-    .accesskey = N
+    .label = Nun comprobar enxamás los anovamientos (nun s'aconseya)
+    .accesskey = e
 update-application-warning-cross-user-setting = Esti axuste va aplicase a toles cuentes de Windows y perfiles de { -brand-short-name } qu'use esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Usar serviciu en segundu planu pa instalar los anovamientos
@@ -359,14 +337,10 @@ performance-settings-learn-more = Deprendi más
 performance-allow-hw-accel =
     .label = Usar aceleración de hardware cuando tea disponible
     .accesskey = h
-performance-limit-content-process-option = Llende de procesos de conteníu
-    .accesskey = L
-performance-limit-content-process-enabled-desc = Más procesos de conteníu puen ameyorar el rindimientu al usar múltiples llingüetes, pero tamién van usar más memoria.
-performance-limit-content-process-blocked-desc = Modificar el númberu de procesos de conteníu namái ye dable con { -brand-short-name } multiprocesu. <a data-l10n-name="learn-more">Saber cómo comprobar si'l multiprocesu ta activáu</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label = { $num } (predetermináu)
+    .label = { $num } (por defeutu)
 
 ## General Section - Browsing
 
@@ -387,12 +361,11 @@ browsing-search-on-start-typing =
     .label = Guetar el testu mientres s'escribe
     .accesskey = s
 browsing-cfr-recommendations =
-    .label = Recomendar estensiones mentanto se navega
-    .accesskey = R
+    .label = Aconseyar estensiones mentanto restoles
+    .accesskey = A
 browsing-cfr-features =
     .label = Aconseyar carauterístiques mentanto restoles
     .accesskey = c
-browsing-cfr-recommendations-learn-more = Deprendi más
 
 ## General Section - Proxy
 
@@ -413,16 +386,18 @@ home-new-windows-tabs-description2 = Escueyi lo que ves cuando abres la páxina 
 home-homepage-mode-label = Páxina d'aniciu y ventanes nueves
 home-newtabs-mode-label = Llingüetes nueves
 home-restore-defaults =
-    .label = Restaurar axustes predeterminaos
+    .label = Reafitar
     .accesskey = R
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Aniciu de Firefox (predetermináu)
+    .label = Aniciu de Firefox (por defeutu)
 home-mode-choice-custom =
     .label = URLs personalizaes...
 home-mode-choice-blank =
     .label = Páxina balera
+home-homepage-custom-url =
+    .placeholder = Apiega una URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
