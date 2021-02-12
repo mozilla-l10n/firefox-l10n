@@ -100,22 +100,64 @@ main-context-menu-save-link-to-pocket =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Reproducir
+    .accesskey = R
+main-context-menu-media-pause =
+    .label = Posar
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Activar l'audiu
+    .accesskey = A
+main-context-menu-media-unmute =
+    .label = Desactivar l'audiu
+    .accesskey = D
+main-context-menu-media-play-speed =
+    .label = Velocidá de la reproducción
+    .accesskey = V
+main-context-menu-media-play-speed-slow =
+    .label = Lenta (0.5×)
+    .accesskey = L
 main-context-menu-media-play-speed-normal =
     .label = Normal
     .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Rápida (1.25×)
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Amosar los controles
+    .accesskey = c
+main-context-menu-media-hide-controls =
+    .label = Anubrir los controles
+    .accesskey = c
 
 ##
 
 main-context-menu-media-video-fullscreen =
     .label = Pantalla completa
     .accesskey = c
+main-context-menu-media-video-leave-fullscreen =
+    .label = Colar de la pantalla completa
+    .accesskey = o
+main-context-menu-image-view =
+    .label = Ver la imaxe
+    .accesskey = i
+main-context-menu-image-copy =
+    .label = Copiar la imaxe
+    .accesskey = x
+main-context-menu-image-save-as =
+    .label = Guardar la imaxe como…
+    .accesskey = G
+main-context-menu-image-email =
+    .label = Unviar la imaxe per corréu…
+    .accesskey = r
 main-context-menu-save-to-pocket =
     .label = Guardar la páxina en { -pocket-brand-name }
     .accesskey = k
