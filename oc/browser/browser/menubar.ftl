@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Onglets tampats recentament
 menu-history-undo-window-menu =
     .label = Fenèstras tampadas recentament
+menu-history-reopen-all-tabs = Tornar dobrir totes los onglets
+menu-history-reopen-all-windows = Tornar dobrir totas las fenèstras
 
 ## Bookmarks Menu
 
