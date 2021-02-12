@@ -350,6 +350,8 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Lectura
 browser-tab-audio-muted = Mut
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = LECTURA
 
 ## Bookmarks toolbar items
 
