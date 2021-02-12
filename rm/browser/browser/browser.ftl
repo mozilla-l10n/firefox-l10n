@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Reproducziun activa
 browser-tab-audio-muted = Senza tun
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = I GIRA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = SENZA TUN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = BLOCCÀ LA REPRODUCZIUN AUTOMATICA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = MALETG-EN-MALETG
 
 ## Bookmarks toolbar items
 
