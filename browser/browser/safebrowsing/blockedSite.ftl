@@ -17,6 +17,12 @@ safeb-blocked-phishing-page-error-desc-override = informóse que <span data-l10n
 safeb-blocked-phishing-page-error-desc-no-override = informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>ye un sitiu engañosu</a>. Pues <a data-l10n-name='report_detection'>informar de la deteición d'un problema</a>.
 safeb-blocked-malware-page-error-desc-override = Informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>contién software maliciosu</a>. Pues <a data-l10n-name='report_detection'>informar de la deteición d'un problema</a> o <a data-l10n-name='ignore_warning_link'>inorar el riesgu</a> y visitar esti sitiu inseguru.
 safeb-blocked-malware-page-error-desc-no-override = Informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>contién software maliciosu</a>. Pues <a data-l10n-name='report_detection'>informar de la deteición d'un problema</a>.
+safeb-blocked-malware-page-error-desc-override-sumo = Informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>contién software maliciosu</a>. Pues <a data-l10n-name='ignore_warning_link'>inorar el riesgu</a> y visitar esti sitiu inseguru.
+safeb-blocked-malware-page-error-desc-no-override-sumo = Informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>contién software maliciosu</a>.
+safeb-blocked-unwanted-page-error-desc-override = Informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>contién software peligrosu</a>. Pues <a data-l10n-name='ignore_warning_link'>inorar el riesgu</a> y visitar esti sitiu inseguru.
+safeb-blocked-unwanted-page-error-desc-no-override = Informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>contién software peligrosu</a>.
+safeb-blocked-harmful-page-error-desc-override = Informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>contién una aplicación potencialmente peligrosa</a>. Pues <a data-l10n-name='ignore_warning_link'>inorar el riesgu</a> y visitar esti sitiu inseguru.
+safeb-blocked-harmful-page-error-desc-no-override = Informóse que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>contién una aplicación potencialmente peligrosa</a>.
 safeb-palm-notdeceptive =
     .label = Esti nun ye un sitiu engañosu…
     .accesskey = e
