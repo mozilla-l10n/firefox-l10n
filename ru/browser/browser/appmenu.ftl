@@ -164,5 +164,5 @@ appmenu-help-check-for-update =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Настроить панель инструментов…
+    .label = Персонализация панели инструментов…
 appmenu-developer-tools-subheader = Инструменты браузера
