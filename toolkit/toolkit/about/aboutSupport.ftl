@@ -192,10 +192,14 @@ support-third-party-modules-vendor = Leverandørinformasjon
 support-third-party-modules-occurrence = Førekomst
 support-third-party-modules-process = Prosesstype og ID
 support-third-party-modules-thread = Tråd
+support-third-party-modules-base = Bildebaseadresse
+support-third-party-modules-uptime = Prosess-oppetid (ms)
+support-third-party-modules-duration = Lastetid (ms)
 support-third-party-modules-status = Status
 support-third-party-modules-status-loaded = Lasta
 support-third-party-modules-status-blocked = Blokkert
 support-third-party-modules-status-redirected = Omdirigert
+support-third-party-modules-empty = Ingen tredjepartsmodular vart lasta inn.
 support-third-party-modules-no-value = (Ingen verdi)
 support-third-party-modules-button-open =
     .title = Opne filplassering…
@@ -203,6 +207,10 @@ support-third-party-modules-expand =
     .title = Vis detaljert informasjon
 support-third-party-modules-collapse =
     .title = Skjul detaljert informasjon
+support-third-party-modules-unsigned-icon =
+    .title = Denne modulen er ikkje signert
+support-third-party-modules-folder-icon =
+    .title = Opne filplassering …
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
