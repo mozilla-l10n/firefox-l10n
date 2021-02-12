@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Ajapóta mbeguekatu
@@ -13,13 +14,11 @@ about-config-intro-warning-button = Emoneĩ jekyhyje ha ehojey
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Iñambuévo ko’ã jeguerohoryvéva ombyaikuaa { -brand-short-name } rembiapokue ýrõ hekorosã.
-
 about-config-page-title = Jerohoryvéva hupytypyre
-
 about-config-search-input1 =
     .placeholder = Jeguerohoryvéva réra jeheka
 about-config-show-all = Ehechaukapa
-
+about-config-show-only-modified = Ehechauka jeguerohoryvéva moambuepyre añoite
 about-config-pref-add-button =
     .title = Mbojuaju
 about-config-pref-toggle-button =

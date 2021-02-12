@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Tembiapoite oñeha’ãva omoneĩ 
 experimental-features-http3 =
     .label = HTTP/3 raperekoite
 experimental-features-http3-description = Pytyvõha ipyahúva HTTP/3 raperekoitépe g̃uarã.
+# Search during IME
+experimental-features-ime-search =
+    .label = Kundaharape renda: ehechauka jejapopyre IME ñemyeñói aja
