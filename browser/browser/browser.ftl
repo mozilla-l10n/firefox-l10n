@@ -348,11 +348,11 @@ browser-window-close-button =
 browser-tab-audio-playing = Riproduzione in corso
 browser-tab-audio-muted = Audio disattivato
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = RIPRODUZ. IN CORSO
+browser-tab-audio-playing2 = RIPRODUZIONE IN CORSO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = AUDIO DISATTIVATO
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = BLOCCO RIPRODUZ. AUTOMATICA
+browser-tab-audio-blocked = RIPRODUZ. AUTOMATICA BLOCCATA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
 
