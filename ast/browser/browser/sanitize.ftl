@@ -7,6 +7,9 @@ sanitize-prefs =
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+dialog-title =
+    .title = Llimpieza del historial recién
+    .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =

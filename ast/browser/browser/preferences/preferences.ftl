@@ -358,6 +358,7 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-title = Restolar
 browsing-use-autoscroll =
     .label = Usar el desplazamientu automáticu
     .accesskey = d
@@ -600,14 +601,37 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historial
     .accesskey = r
+sync-engine-tabs =
+    .label = Llingüestes abiertes
+    .tooltiptext = Una llista de lo que ta abierto en tolos preseos sincronizaos
+    .accesskey = L
 sync-engine-logins-passwords =
     .label = Anicios de sesión y contraseñes
-    .tooltiptext = Anicios de sesión y contraseñes guardáes
+    .tooltiptext = Los anicios de sesión y contraseñes guardaes
     .accesskey = A
+sync-engine-creditcards =
+    .label = Tarxetes de creitu
+    .tooltiptext = Los nomes, les dates de caducidá y los númberos (namás nel escritoriu)
+    .accesskey = T
+sync-engine-addons =
+    .label = Complementos
+    .tooltiptext = Les estensiones y los estilos pal Firefox d'escritoriu
+    .accesskey = C
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencies
+        }
+    .tooltiptext = Los axustes que camudesti en «Xeneral» y «Privacidá y seguranza»
+    .accesskey = s
 
 ## The device name controls.
 
 sync-device-name-header = Nome del preséu
+sync-device-name-change =
+    .label = Camudar el nome del preséu…
+    .accesskey = m
 sync-device-name-cancel =
     .label = Encaboxar
     .accesskey = n
@@ -784,16 +808,19 @@ enhanced-tracking-protection-setting-standard =
 content-blocking-etp-standard-desc = Proteición y rindimientu equilibraos. Les páxines van cargar con normalidá.
 content-blocking-etp-strict-desc = Más proteición, mas pue romper dalgunos sitios o dalgún conteníu
 content-blocking-etp-custom-desc = Escueyi los rastrexadores y scripts a bloquiar
+content-blocking-private-windows = Conteníu que rastrexa nes llingüetes privaes
 content-blocking-cross-site-cookies = Cookies ente sitios
 content-blocking-cross-site-tracking-cookies = Cookies de rastrexu ente sitios
 content-blocking-social-media-trackers = Rastrexadores de redes sociales
 content-blocking-all-cookies = Toles cookies
 content-blocking-unvisited-cookies = Cookies de sitios ensin visitar
+content-blocking-all-windows-tracking-content = Conteníu que rastrexa en toles ventanes
 content-blocking-all-third-party-cookies = Toles cookies de terceros
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Xeneradores de buelgues
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o funcionen correutamente. Si te paez qu'un sitiu ta rotu, pues desactivar la proteición escontra'l rastrexu pa esi sitiu y cargar tol conteníu.
+content-blocking-warning-learn-how = Deprender cómo
 content-blocking-reload-description = Va ser preciso recargar les llingüetes p'aplicar estos cambeos.
 content-blocking-tracking-content-label =
     .label = Conteníu que rastrexa
