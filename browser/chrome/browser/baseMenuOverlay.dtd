@@ -3,15 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutProduct2.label      "Tocante a &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "T">
 
-<!ENTITY preferencesCmdMac.label        "Preferencies…">
 
-<!ENTITY servicesMenuMac.label          "Servicios">
 
 <!ENTITY hideThisAppCmdMac2.label       "Anubrir &brandShorterName;">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Anubrir otros">
 
-<!ENTITY showAllAppsCmdMac.label        "Amosar too">
 
