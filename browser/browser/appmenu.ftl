@@ -98,6 +98,11 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Behandle historikk
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +158,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Søk etter oppdateringer …
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Tilpass verktøylinje …
+appmenu-developer-tools-subheader = Nettleserverktøy
