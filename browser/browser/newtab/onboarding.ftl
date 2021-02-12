@@ -60,6 +60,7 @@ onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 ## The string for the button is found above, in the UI strings section
 
 onboarding-tracking-protection-button2 = Cómo funciona
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } caltién el to perfil aislláu de tolo demás, asina ye más difícil que Facebook amuese publicidá personalizada.
 
 ## Message strings belonging to the Return to AMO flow
 
