@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = ID do compoñente
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Bitrate medio
+about-webrtc-avg-framerate-label = Framerate medio
 
 ##
 
@@ -122,6 +124,8 @@ about-webrtc-fold-show-msg = amosar detalles
     .title = prema para expandir esta sección
 about-webrtc-fold-hide-msg = agochar detalles
     .title = prema para contraer esta sección
+about-webrtc-dropped-frames-label = Fotogramas descartados:
+about-webrtc-discarded-packets-label = Paquetes descartados:
 about-webrtc-decoder-label = Descodificador
 about-webrtc-encoder-label = Codificador
 about-webrtc-show-tab-label = Mostrar lapela
@@ -166,6 +170,11 @@ about-webrtc-pacer-delay-ms = Período para espazador en ms
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = Tempo de ida de volta (RTT, en ms)
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Estatísticas de fotogramas de vídeo - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
