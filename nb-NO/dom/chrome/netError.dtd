@@ -22,7 +22,7 @@
 <!ENTITY fileAccessDenied.title "Tilgang til filen ble nektet">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan være fjernet, flyttet eller filrettighetene forhindrer tilgang.</li></ul>">
 
-<!ENTITY generic.title "Klarte ikke fullføre forspørselen">
+<!ENTITY generic.title "Klarte ikke å fullføre forspørselen">
 <!ENTITY generic.longDesc "<p>Mer informasjon om denne feilen er ikke tilgjengelig.</p>">
 
 <!ENTITY malformedURI.title "Ugyldig adresse">
