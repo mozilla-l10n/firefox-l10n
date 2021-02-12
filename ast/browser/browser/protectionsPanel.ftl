@@ -2,13 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protections-panel-sendreportview-error = Hebo un fallu al unviar l'informe. Volvi tentalo dempués, por favor.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Estricta
+    .label = Estricta
+protections-popup-footer-protection-label-custom = Personalizada
+    .label = Personalizada
+protections-popup-footer-protection-label-standard = Estándar
+    .label = Estándar
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Más información tocante a la proteición ameyorada escontra'l rastrexu
 protections-panel-etp-on-header = La proteición escontra'l rastrexu ta ACTIVADA pa esti sitiu
 protections-panel-etp-off-header = La proteición escontra'l rastrexu ta DESACTIVADA pa esti sitiu
 
