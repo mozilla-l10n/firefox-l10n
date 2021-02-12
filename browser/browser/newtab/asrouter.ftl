@@ -16,6 +16,7 @@ cfr-doorhanger-extension-cancel-button = Agora non
     .accesskey = N
 cfr-doorhanger-pintab-ok-button = Fixar esta llingüeta
     .accesskey = F
+cfr-doorhanger-extension-learn-more-link = Deprender más
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -57,7 +58,7 @@ cfr-doorhanger-pintab-animation-resume = Siguir
 
 cfr-doorhanger-bookmark-fxa-header = Sincroniza los marcadores onde teas.
 cfr-doorhanger-bookmark-fxa-body = ¡Un gran descrubimientu! Agora nun quedes ensin esti marcador nos tos preseos móviles. Entama con una { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Sincronizalos agora…
+cfr-doorhanger-bookmark-fxa-link-text = Sincroniza los marcadores agora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón de zarru
     .title = Zarrar
@@ -88,9 +89,11 @@ cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = Deprender más
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Deprender más
 
 ## Fingerprinter Counter
 
@@ -136,6 +139,7 @@ cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió qu'una re
 cfr-doorhanger-socialtracking-description = La privacidá ye importante. Agora { -brand-short-name } bloquia los rastrexadores de les redes sociales más comunes, eso llenda la cantidá de datos que puen recoyer tocante a lo que faes en llinia.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloquió un xenerador de buelgues nesta páxina
 cfr-doorhanger-fingerprinters-description = La to privacidá importa. Agora { -brand-short-name } bloquia xeneradores de buelgues que recueyen cachos d'información única ya identificadora tocante al preséu pa rastrexate.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloquió un criptomineru nesta páxina
 
 ## Enhanced Tracking Protection Milestones
 
