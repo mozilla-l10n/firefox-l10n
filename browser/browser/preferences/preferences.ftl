@@ -66,6 +66,8 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } ha reaniciase p'activar esta carauterística.
 feature-disable-requires-restart = { -brand-short-name } ha reaniciase pa desactivar esta carauterística.
+should-restart-title = Reaniciu de { -brand-short-name }
+should-restart-ok = Reaniciar { -brand-short-name } agora
 cancel-no-restart-button = Encaboxar
 
 ## Extension Control Notifications
@@ -791,6 +793,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Llingüetes abiertes
     .accesskey = a
+addressbar-locbar-topsites-option =
+    .label = Sitios principales
+    .accesskey = p
 
 ## Privacy Section - Content Blocking
 
