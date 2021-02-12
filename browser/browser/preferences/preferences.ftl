@@ -161,6 +161,17 @@ browser-containers-settings =
     .label = Axustes…
     .accesskey = u
 containers-disable-alert-title = ¿Zarrar tolos contenedores de llingüetes?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Si desactives los contenedores de llingüetes agora, va zarrase { $tabCount } llingüeta. ¿De xuru que quies desactivar los contenedores de llingüetes?
+       *[other] Si desactives los contenedores de llingüetes agora, van zarrase { $tabCount } llingüetes. ¿De xuru que quies desactivar los contenedores de llingüetes?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zarrar { $tabCount } llingüeta
+       *[other] Zarrar { $tabCount } llingüetes
+    }
+containers-disable-alert-cancel-button = Caltener n'activo
 containers-remove-alert-title = ¿Quitar esti contenedor?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
