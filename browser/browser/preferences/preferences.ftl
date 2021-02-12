@@ -69,6 +69,7 @@ feature-disable-requires-restart = { -brand-short-name } ha reaniciase pa desact
 should-restart-title = Reaniciu de { -brand-short-name }
 should-restart-ok = Reaniciar { -brand-short-name } agora
 cancel-no-restart-button = Encaboxar
+restart-later = Reaniciar dempués
 
 ## Extension Control Notifications
 ##
@@ -101,6 +102,7 @@ extension-controlled-enable = P'activar la estensión vete a <img data-l10n-name
 
 ## Preferences UI Search Results
 
+search-results-header = Resultaos de la busca
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
@@ -151,11 +153,22 @@ switch-links-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Amosar la previsualización de llingüetes na barra de xeres de Windows
     .accesskey = x
+browser-containers-enabled =
+    .label = Activar los contenedores de llingüetes
+    .accesskey = c
 browser-containers-learn-more = Deprender más
 browser-containers-settings =
     .label = Axustes…
     .accesskey = u
+containers-disable-alert-title = ¿Zarrar tolos contenedores de llingüetes?
 containers-remove-alert-title = ¿Quitar esti contenedor?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si quites esti contenedor agora, va zarrase { $count } llingüeta. ¿De xuru que quies quitar esti contenedor?
+       *[other] Si quites esti contenedor agora, van zarrase { $count } llingüetes. ¿De xuru que quies quitar esti contenedor?
+    }
 containers-remove-ok-button = Quitar esti contenedor
 containers-remove-cancel-button = Nun quitar esti contenedor
 
@@ -301,6 +314,9 @@ applications-use-os-default-label =
 ##
 
 drm-content-header = Conteníu con DRM (Xestión de Derechos Dixitales)
+play-drm-content =
+    .label = Reproducir el conteníu controláu con DRM
+    .accesskey = R
 play-drm-content-learn-more = Deprender más
 update-application-title = Anovamientos de { -brand-short-name }
 update-application-description = Caltén { -brand-short-name } anováu pal meyor rindimientu, estabilidá y seguranza.
@@ -519,6 +535,13 @@ search-keyword-warning-title = Pallabra clave duplicada
 
 ## Containers Section
 
+containers-header = Contenedores de llingüetes
+containers-add-button =
+    .label = Amestar un contenedor nuevu
+    .accesskey = A
+containers-new-tab-check =
+    .label = Esbillar un contenedor pa cada llingüeta nueva
+    .accesskey = E
 containers-preferences-button =
     .label = Preferencies
 containers-remove-button =
