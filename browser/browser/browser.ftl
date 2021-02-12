@@ -352,6 +352,12 @@ browser-tab-audio-playing = Lectura
 browser-tab-audio-muted = Mut
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = LECTURA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = MUT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = LECTURA AUTO BLOCADA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = VIDÈO-INCRUSTADA
 
 ## Bookmarks toolbar items
 
