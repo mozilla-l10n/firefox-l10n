@@ -28,7 +28,7 @@ policy-DisableAppUpdate = Evita que'l restolador s'anueve.
 policy-DisableBuiltinPDFViewer = Desactiva PDF.js, el visor de PDFs integráu en { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Evita que l'axente del restolador predetermináu tome nenguna aición. Namás aplicable en Windows, les demás plataformes nun tienen l'axente.
 policy-DisableDeveloperTools = Bloquia l'accesu a les ferramientes de desendolcu.
-policy-DisableFirefoxAccounts = Desactiva los servicios basaos en { -fxaccount-brand-name }, qu'incluíu Sync.
+policy-DisableFirefoxAccounts = Desactiva los servicios basaos en { -fxaccount-brand-name }, incluyíu Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactiva la carauterística de Firefox Screenshots.
 policy-DisableFirefoxStudies = Evita que { -brand-short-name } execute estudios.
@@ -51,15 +51,19 @@ policy-DNSOverHTTPS = Configura'l DNS per HTTPS.
 policy-DontCheckDefaultBrowser = Desactiva la comprobación del restolador predetermináu nel aniciu.
 policy-DownloadDirectory = Afita y bloquia'l direutoriu de descarga.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Des/activa'l bloquéu de conteníu y blóquialu opcionalmente.
+policy-EnableTrackingProtection = Des/activa'l bloquéu de conteníu y, opcionalmente, blóquialu.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = Des/activa les Estensiones Multimedia Cifraes (EME) y opcionalmente, blóquiales
+policy-EncryptedMediaExtensions = Des/activa les Estensiones Multimedia Cifraes (EME) y, opcionalmente, blóquiales
 policy-ExtensionSettings = Xestiona tolos aspeutos de la instalación d'estensiones.
 policy-ExtensionUpdate = Des/activa l'anovamientu automáticu de les estensiones.
 policy-FirefoxHome = Configura la páxina d'aniciu de Firefox.
 policy-FlashPlugin = Permite o niega l'usu del plugin Flash.
 policy-Handlers = Configura los remanadores d'aplicaciones predeterminaos.
+policy-HardwareAcceleration = Si s'afita false, desactiva la aceleración per hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Afita y, opcionalmente, bloquia la páxina d'aniciu.
 policy-InstallAddonsPermission = Permite que ciertos sitios web instalen complementos.
+policy-LegacyProfiles = Desactiva la obligación d'un perfil separtáu pa cada instalación.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
@@ -68,9 +72,12 @@ policy-InstallAddonsPermission = Permite que ciertos sitios web instalen complem
 
 policy-LocalFileLinks = Permite que sitios web específicos enllacien a ficheros llocales.
 policy-MasterPassword = Rique o evita l'usu d'una contraseña maestra
+policy-ManualAppUpdateOnly = Namás permite los anovamientos manuales y nun avisa al usuariu d'ellos.
 policy-PrimaryPassword = Rique o evita l'usu d'una contraseña primaria.
 policy-NewTabPage = Des/activa la páxina «Llingüeta nueva».
 policy-NoDefaultBookmarks = Desactiva la creación de marcadores predeterminaos incluyíos con { -brand-short-name } y los marcadores intelixentes (Lo más visitao, Etiquetes de recién). Nota: esta política namás ye efeutiva si s'usa enantes de la primer execución d'un perfil.
+policy-OverridePostUpdatePage = Anula la páxina de dempués del anovamientu «Novedaes». Dexa esta política balera si quies desactivar esa páxina.
+policy-PasswordManagerEnabled = Activa'l guardáu de contraseñes nel xestor de contraseñes.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactiva o configura PDF.js, el visor de PDFs integráu en { -brand-short-name }.
 policy-PopupBlocking = Permite que ciertos sitios web amuesen ventanos emerxentes por defeutu.
