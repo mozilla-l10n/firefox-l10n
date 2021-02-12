@@ -98,6 +98,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Maj.+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +156,8 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Recercar las mesas a jorn…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Personalizar la barra d‘aisinas…
