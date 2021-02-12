@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "C">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Apri">
-<!ENTITY lightning.menupopup.open.accesskey           "A">
-<!ENTITY lightning.menupopup.open.message.label       "Messaggi salvati…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "M">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "File calendario…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
@@ -49,8 +43,8 @@
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Al momento è possibile abilitare questa opzione dopo aver impostato questo calendario attraverso la finestra delle proprietà se il server del calendario si occupa della pianificazione.">
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Questa opzione è disponibile solo se il server del calendario si occupa della pianificazione. Se abilitata, consentirà la gesione della pianificazione attraverso email standard invece di lasciarla al server.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Al momento è possibile attivare questa opzione dopo aver impostato questo calendario attraverso la finestra delle proprietà se il server del calendario si occupa della pianificazione.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Questa opzione è disponibile solo se il server del calendario si occupa della pianificazione. Se attivata, consentirà la gestione della pianificazione attraverso email standard invece di lasciarla al server.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Accetta">
