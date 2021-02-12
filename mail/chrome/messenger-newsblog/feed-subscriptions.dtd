@@ -4,7 +4,6 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Soscripciones a canales">
-<!ENTITY learnMore.label             "Deprendi más tocante a los feeds">
 
 <!ENTITY feedTitle.label             "Títulu:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -17,6 +16,8 @@
 <!ENTITY feedFolder.label            "Guardar artículos en:">
 <!ENTITY feedFolder.accesskey        "G">
 
+<!-- Account Settings and Subscription Dialog -->
+
 <!ENTITY quickMode.label             "Amosar el resume del artículu en cuenta de la páxina web">
 <!ENTITY quickMode.accesskey         "M">
 
@@ -26,6 +27,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Introduz un prefixu d'etiqueta">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Amestar">
 <!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.removeFeed.label     "Desaniciar">
