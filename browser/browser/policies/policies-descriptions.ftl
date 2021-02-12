@@ -10,13 +10,19 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Afita les polítiques a les que WebExtensions pue acceder per chrome.storage.managed.
 policy-AppAutoUpdate = Des/activa l'anovamientu automáticu de l'aplicación.
 policy-AppUpdateURL = Afita una URL d'anovamientu personalizada.
+policy-Authentication = Configura l'autenticación integrada pa los sitios web que la sofiten.
 policy-BlockAboutAddons = Bloquia l'accesu al xestor de complementos (about:addons).
 policy-BlockAboutConfig = Bloquia l'accesu a la páxina «about:config».
 policy-BlockAboutProfiles = Bloquia l'accesu a la páxina «about:profiles».
 policy-BlockAboutSupport = Bloquia l'accesu a la páxina «about:support».
+policy-Bookmarks = Crea macadores na barra de marcadores, nel menú de marcadores o nuna carpeta especificada.
+policy-CaptivePortal = Des/activa'l sofitu pa portales cativos.
 policy-CertificatesDescription = Amiesta certificaos o usa certificaos integraos.
+policy-Cookies = Permite o niega instalar cookies a los sitios web
+policy-DisabledCiphers = Desactiva los cifraos.
 policy-DefaultDownloadDirectory = Afita'l direutoriu de descarga predetermináu.
 policy-DisableAppUpdate = Evita que'l restolador s'anueve.
 policy-DisableBuiltinPDFViewer = Desactiva PDF.js, el visor de PDFs integráu en { -brand-short-name }.
@@ -28,9 +34,14 @@ policy-DisableFirefoxScreenshots = Desactiva la carauterística de Firefox Scree
 policy-DisableFirefoxStudies = Evita que { -brand-short-name } execute estudios.
 policy-DisableForgetButton = Evita l'accesu al botón «Escaecer».
 policy-DisableFormHistory = Nun recuerda l'historial de busques y formularios.
+policy-DisableMasterPasswordCreation = Si s'afita true, nun pue crease una contraseña maestra.
+policy-DisablePrimaryPasswordCreation = Si s'afita true, nun pue crease una contraseña primaria.
 policy-DisablePasswordReveal = Nun permite que les contraseñes se desvelen nos anicios de sesión guardaos.
 policy-DisablePocket = Desactiva la carauterística de guardáu de páxines web en Pocket.
 policy-DisablePrivateBrowsing = Desactiva'l restolar en privao.
+policy-DisableProfileImport = Desactiva los comandos del menú pa importar los datos d'otros restoladores.
+policy-DisableProfileRefresh = Desactiva'l botón «Reafitar { -brand-short-name }» na páxina «about:support».
+policy-DisableSafeMode = Desactiva la carauterística pa reaniciar nel mou seguru. Nota: La tecla Mayús pa entrar nel mou seguru namás pue desactivase en Windows col usu de «Política de grupos»
 policy-DisableSecurityBypass = Evita que l'usuariu omita ciertes alvertencies de seguranza.
 policy-DisableSystemAddonUpdate = Evita que'l restolador instale y anueve complementos del sistema.
 policy-DisableTelemetry = Desactiva la telemetría.
@@ -41,10 +52,13 @@ policy-DontCheckDefaultBrowser = Desactiva la comprobación del restolador prede
 policy-DownloadDirectory = Afita y bloquia'l direutoriu de descarga.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Des/activa'l bloquéu de conteníu y blóquialu opcionalmente.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Des/activa les Estensiones Multimedia Cifraes (EME) y opcionalmente, blóquiales
 policy-ExtensionSettings = Xestiona tolos aspeutos de la instalación d'estensiones.
 policy-ExtensionUpdate = Des/activa l'anovamientu automáticu de les estensiones.
 policy-FirefoxHome = Configura la páxina d'aniciu de Firefox.
 policy-FlashPlugin = Permite o niega l'usu del plugin Flash.
+policy-Handlers = Configura los remanadores d'aplicaciones predeterminaos.
 policy-InstallAddonsPermission = Permite que ciertos sitios web instalen complementos.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
