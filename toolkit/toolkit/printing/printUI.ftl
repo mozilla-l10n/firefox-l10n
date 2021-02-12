@@ -41,6 +41,11 @@ printui-scale-pcent = Skalować
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Ćišćenje na woběmaj bokomaj
 printui-duplex-checkbox = Na woběmaj bokomaj šišćeć
+printui-two-sided-printing-off = Znjemóžnjeny
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Nabok kiwknyć
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Horje kiwknyć
 # Section title for miscellaneous print options
 printui-options = Nastajenja
 printui-headers-footers-checkbox = Hłowy a nohi ćišćeć

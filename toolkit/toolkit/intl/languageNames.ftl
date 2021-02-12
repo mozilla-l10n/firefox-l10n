@@ -176,6 +176,7 @@ language-name-st = Južna Sothošćina, Južne Sotho
 language-name-su = Sundašćina
 language-name-sv = Šwedšćina
 language-name-sw = Swahilišćina, Swahili
+language-name-szl = Šlešćina
 language-name-ta = Tamilšćina, Tamil
 language-name-te = Telugušćina, Telugu
 language-name-tg = Tadžikšćina
