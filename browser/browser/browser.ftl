@@ -88,7 +88,7 @@ urlbar-plugins-notification-anchor =
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = 사이트에서 카메라와 마이크를 사용할지 관리
 urlbar-autoplay-notification-anchor =
-    .tooltiptext = 자동재생 패널 열기
+    .tooltiptext = 자동 재생 패널 열기
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = 영구 저장소에 데이터를 저장
 urlbar-addons-notification-anchor =
@@ -138,7 +138,7 @@ urlbar-persistent-storage-blocked =
 urlbar-popup-blocked =
     .tooltiptext = 이 사이트의 팝업을 차단하였습니다.
 urlbar-autoplay-media-blocked =
-    .tooltiptext = 이 사이트의 소리있는 미디어 자동재생을 차단하였습니다.
+    .tooltiptext = 이 사이트의 소리있는 미디어 자동 재생을 차단하였습니다.
 urlbar-canvas-blocked =
     .tooltiptext = 이 사이트의 캔바스 데이터 추출을 차단하였습니다.
 urlbar-midi-blocked =
@@ -342,6 +342,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = 재생 중
 browser-tab-audio-muted = 음소거됨
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = 재생 중
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = 음소거됨
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = 자동 재생 차단됨
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = 화면 속 화면
 
 ## Bookmarks toolbar items
 
