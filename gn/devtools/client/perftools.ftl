@@ -97,3 +97,5 @@ perftools-record-all-registered-threads = Eñomi umi poravopyre yvategua ha eño
 ## preferences are true.
 
 -profiler-brand-name = Firefox mba’ete moheñoiha
+perftools-onboarding-close-button =
+    .aria-label = Emboty pe ñe’ẽmondo jeikegua
