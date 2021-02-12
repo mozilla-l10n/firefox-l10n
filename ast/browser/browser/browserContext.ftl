@@ -70,6 +70,18 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Amestar esta páxina a Marcadores
+    .accesskey = m
+    .tooltiptext = Amestar esta páxina a Marcadores ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = Editar esti marcador
+    .accesskey = m
+    .tooltiptext = Editar esti marcador ({ $shortcut })
 main-context-menu-open-link-new-tab =
     .label = Abrir l'enllaz nun llingüeta nueva
     .accesskey = l
