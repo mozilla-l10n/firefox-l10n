@@ -742,7 +742,7 @@ sitedata-header = Cookies y datos de los sitios
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Anguaño les cookies, los datos de los sitios y la caché tan usando { $value } { $unit } d'espaciu nel discu.
+sitedata-total-size = Anguaño les cookies, los datos de los sitios y la caché tán usando { $value } { $unit } d'espaciu nel discu.
 sitedata-learn-more = Deprender más
 sitedata-delete-on-close =
     .label = Desaniciar les cookies y los datos de los sitios al zarrar { -brand-short-name }
