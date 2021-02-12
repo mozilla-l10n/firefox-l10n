@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = 기록 관리
+appmenu-reopen-all-tabs = 모든 탭 다시 열기
+appmenu-reopen-all-windows = 모든 창 다시 열기
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = 업데이트 확인…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = 도구 모음 사용자 지정…
+appmenu-developer-tools-subheader = 브라우저 도구

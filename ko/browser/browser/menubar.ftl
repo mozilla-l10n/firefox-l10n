@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = 최근에 닫은 탭
 menu-history-undo-window-menu =
     .label = 최근에 닫은 창
+menu-history-reopen-all-tabs = 모든 탭 다시 열기
+menu-history-reopen-all-windows = 모든 창 다시 열기
 
 ## Bookmarks Menu
 
