@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Gerer le chronologia
+appmenu-reopen-all-tabs = Reaperir tote le schedas
+appmenu-reopen-all-windows = Reapirir tote le fenestras
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Verificar actualisationes…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Personalisar le barra de instrumentos…
+appmenu-developer-tools-subheader = Instrumentos de navigator
