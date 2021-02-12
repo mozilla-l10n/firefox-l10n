@@ -271,7 +271,7 @@ bookmarks-mobile-bookmarks-menu =
 library-bookmarks-menu =
     .label = Marcadores
 library-recent-activity-title =
-    .value = Actividá de recién
+    .value = Actividá recién
 
 ## More items
 

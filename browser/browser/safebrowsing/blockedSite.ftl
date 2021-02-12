@@ -4,7 +4,7 @@
 
 safeb-blocked-phishing-page-title = Esti sitiu ye engañosu
 safeb-blocked-malware-page-title = Visitar esti sitiu web pue dañar l'ordenador
-safeb-blocked-unwanted-page-title = El sitiu pue contener programes que maliciosos
+safeb-blocked-unwanted-page-title = El sitiu pue contener programes maliciosos
 safeb-blocked-harmful-page-title = El sitiu pue contener malware
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } bloquió esta páxina porque pue engañate pa que faigas daqué peligroso como instalar software o desvelar información personal como contraseñes o tarxetes de creitu.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } bloquió esta páxina porque podría tentar d'instalar software maliciosu que pue robar o desaniciar la información personal del ordenador.
