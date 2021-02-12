@@ -21,6 +21,11 @@ protections-panel-etp-more-info =
     .aria-label = Más información tocante a la proteición ameyorada escontra'l rastrexu
 protections-panel-etp-on-header = La proteición escontra'l rastrexu ta ACTIVADA pa esti sitiu
 protections-panel-etp-off-header = La proteición escontra'l rastrexu ta DESACTIVADA pa esti sitiu
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ¿Nun funciona'l sitiu?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ¿Nun funciona'l sitiu?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -61,11 +66,20 @@ protections-panel-site-not-working-view-issue-list-videos = Vídeos
 
 ##
 
+protections-panel-cryptominers = Los criptomineros usen la potencia de cálculu del ordenador pa minar moneda dixital. Los scripts de criptominería escosen aína la batería del preséu, vuelven lentu al ordenador y puen aumentar el preciu de la factura de la lluz.
+protections-panel-fingerprinters = Los xeneradores de buelgues recueyen los axustes del restolador y l'ordenador pa crear un perfil de ti. Col usu d'esta buelga dixital puen rastrexate pente sitios web estremaos.
+protections-panel-tracking-content = Los sitios web puen cargar anuncios, vídeos y otru conteníu esternu con códigu que rastrexe. El bloquéu del conteníu que rastrexa pue ayudar a que los sitios carguen más rápido, mas dalgunos botones, formularios y campos d'aniciu de sesión podríen dexar de funcionar.
+protections-panel-content-blocking-manage-settings =
+    .label = Xestionar los axustes de la proteición
+    .accesskey = X
 protections-panel-content-blocking-breakage-report-view =
     .title = Informe d'un sitiu rotu
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: Describi'l problema
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Opcional: Describi'l problema
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Encaboxar
 protections-panel-content-blocking-breakage-report-view-send-report =
