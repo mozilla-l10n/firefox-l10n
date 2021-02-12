@@ -176,6 +176,7 @@ language-name-st = Pódpołdnjowa sothošćina
 language-name-su = Sundašćina
 language-name-sv = Šwedšćina
 language-name-sw = Swahilišćina, Swahili
+language-name-szl = Šlazyńšćina
 language-name-ta = Tamilske
 language-name-te = Teluguske
 language-name-tg = Tadžikšćina

@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Rowno zacynjone rejtariki
 menu-history-undo-window-menu =
     .label = Rowno zacynjone wokna
+menu-history-reopen-all-tabs = Wšykne rejtariki znowego wócyniś
+menu-history-reopen-all-windows = Wšykne wokna znowego wócyniś
 
 ## Bookmarks Menu
 
