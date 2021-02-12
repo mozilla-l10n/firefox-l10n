@@ -109,3 +109,7 @@ perftools-tools-threads-input-label =
 
 -profiler-brand-name = Firefox Profiler
 perftools-onboarding-message = <b>Nowy</b>: { -profiler-brand-name } je nětko we wuwiwarskich nastrojach integrowany. <a>Dalše informacije</a> wo tutym mócnym nowym nastroju.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Za wobmjezowany čas móžeće přez <a>{ options-context-advanced-settings }</a> přistup k woknu Wukon měć.
+perftools-onboarding-close-button =
+    .aria-label = Zapokazowansku powěsć začinić
