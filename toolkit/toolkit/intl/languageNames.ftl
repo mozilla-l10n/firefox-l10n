@@ -176,6 +176,7 @@ language-name-st = Sesotho
 language-name-su = Sudanais
 language-name-sv = Svedais
 language-name-sw = Suaheli
+language-name-szl = Silesian
 language-name-ta = Tamil
 language-name-te = Telugu
 language-name-tg = Tajik

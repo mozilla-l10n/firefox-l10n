@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Tabs serrads dacurt
 menu-history-undo-window-menu =
     .label = Fanestras serradas dacurt
+menu-history-reopen-all-tabs = Reavrir tut ils tabs
+menu-history-reopen-all-windows = Reavrir tut las fanestras
 
 ## Bookmarks Menu
 

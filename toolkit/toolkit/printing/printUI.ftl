@@ -39,6 +39,11 @@ printui-scale-pcent = Scalaziun
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Stampar davant e davos
 printui-duplex-checkbox = Stampar d'omaduas varts
+printui-two-sided-printing-off = Deactivà
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Volver lung l'ur lateral
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Volver lung l'ur sura
 # Section title for miscellaneous print options
 printui-options = Opziuns
 printui-headers-footers-checkbox = Stampar ils chaus-pagina ed ils pes-pagina
