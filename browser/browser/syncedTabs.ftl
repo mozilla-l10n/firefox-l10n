@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Llingüetes sincronizaes
-synced-tabs-sidebar-noclients-subtitle = ¿Quies ver equí les tos llingüetes d'otros preseos?
+synced-tabs-sidebar-noclients-subtitle = ¿Quies ver equí les llingüetes d'otros preseos?
+synced-tabs-sidebar-unverified = Tienes de verificar la cuenta.
 synced-tabs-sidebar-notabs = Nun hai llingüetes abiertes
-synced-tabs-sidebar-openprefs = Abrir preferencies de { -sync-brand-short-name }
-synced-tabs-sidebar-tabsnotsyncing = Activar sincronización de llingüetes pa ver un llistáu d'elles d'otros preseos de to.
+synced-tabs-sidebar-tabsnotsyncing = Activa la sincronización de llingüetes pa ver una llista de les llingüetes d'otros preseos de to.
 synced-tabs-context-open =
     .label = Abrir
     .accesskey = A
