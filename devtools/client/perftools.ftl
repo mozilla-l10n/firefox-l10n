@@ -103,3 +103,14 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = Обходити вибране вгорі й записувати всі зареєстровані потоки
 perftools-tools-threads-input-label =
     .title = Назви потоків є розділеним комами списком, що використовується для увімкнення профілювання потоків у профайлері. Для включення, назва повинна мати лише частковий збіг з назвою потоку. Вони чутливі до пробілів.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler
+perftools-onboarding-message = <b>Нове</b>: { -profiler-brand-name } тепер вбудовано в Інструменти розробника. <a>Дізнайтеся докладніше</a> про цей потужний новий інструмент.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Впродовж обмеженого часу ви можете отримати доступ до оригінальної панелі швидкодії через <a>{ options-context-advanced-settings }</a>)
+perftools-onboarding-close-button =
+    .aria-label = Закрити вітальне повідомлення

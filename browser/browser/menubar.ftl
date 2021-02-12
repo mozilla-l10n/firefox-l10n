@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Недавно закриті вкладки
 menu-history-undo-window-menu =
     .label = Недавно закриті вікна
+menu-history-reopen-all-tabs = Знову відкрити всі вкладки
+menu-history-reopen-all-windows = Знову відкрити всі вікна
 
 ## Bookmarks Menu
 

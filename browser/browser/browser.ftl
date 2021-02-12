@@ -352,6 +352,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Відтворення
 browser-tab-audio-muted = Без звуку
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ВІДТВОРЕННЯ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = БЕЗ ЗВУКУ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = АВТОВІДТВОРЕННЯ ЗАБЛОКОВАНО
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ЗОБРАЖЕННЯ В ЗОБРАЖЕННІ
 
 ## Bookmarks toolbar items
 
