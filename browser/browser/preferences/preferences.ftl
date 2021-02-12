@@ -211,11 +211,15 @@ choose-language-description = Escueyi la llingua preferida p'amosar les páxines
 choose-button =
     .label = Escoyer…
     .accesskey = o
+choose-browser-language-description = Escueyi les llingües que s'usen pa amosar los mensaxes, el menú y los avisos de { -brand-short-name }.
 manage-browser-languages-button =
     .label = Afitar alternatives…
     .accesskey = A
 confirm-browser-language-change-description = Reanicia { -brand-short-name } p'aplicar estos cambeos
 confirm-browser-language-change-button = Aplicar y reaniciar
+translate-web-pages =
+    .label = Traducir el conteníu web
+    .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Traducción fecha por <img data-l10n-name="logo"/>
@@ -339,7 +343,7 @@ update-application-auto =
     .label = Instalar automáticamente los anovamientos (aconséyase)
     .accesskey = I
 update-application-check-choose =
-    .label = Comprobar los anovamientos mas dexáime escoyer si instalalos
+    .label = Comprobar los anovamientos mas déxame escoyer si instalalos
     .accesskey = G
 update-application-manual =
     .label = Nun comprobar enxamás los anovamientos (nun s'aconseya)
