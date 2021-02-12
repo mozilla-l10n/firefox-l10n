@@ -320,3 +320,6 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reaniciar colos complementos activaos
     .accesskey = R
+menu-help-not-deceptive =
+    .label = Esto nun ye un sitiu engañosu…
+    .accesskey = e
