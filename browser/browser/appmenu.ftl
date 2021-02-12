@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Mayús+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Xestionar l'historial
+appmenu-reopen-all-tabs = Abrir toles llingüetes de nueves
+appmenu-reopen-all-windows = Abrir toles ventanes de nueves
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,8 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Comprobar los anovamientos…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Personalizar la barra de ferramientes…
