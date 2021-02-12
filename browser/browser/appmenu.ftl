@@ -165,3 +165,4 @@ appmenu-help-check-for-update =
 
 appmenu-customizetoolbar =
     .label = Personalizar la barra de ferramientes…
+appmenu-developer-tools-subheader = Ferramientes del restolador
