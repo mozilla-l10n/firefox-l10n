@@ -57,8 +57,8 @@ import-permissions-page-title = Par plasê, da i permès a { -brand-short-name }
 # Do not translate "Bookmarks.plist"; the file name is the same everywhere.
 import-permissions-description = macOS al à bisugne che tu permetis in maniere esplicite a { -brand-short-name } di acedi ai segnelibris di Safari. Fâs clic su “Continue” e selezione il file “Bookmarks.plist” intal panel Vierç file che al ven fûr.
 import-migrating-page-title = Daûr a impuartâ…
-import-migrating-description = I elements ca sot a son daûr a jessi impuartâts…
-import-select-profile-page-title = Sielç un profîl
+import-migrating-description = I elements chi sot a son daûr a vignî impuartâts…
+import-select-profile-page-title = Selezione un profîl
 import-select-profile-description = I profîi ca sot a son disponibii par jessi la sorzint de impuartazion:
 import-done-page-title = Impuartazion completade
 import-done-description = I elements ca sot a son stâts impuartâts cun sucès:
