@@ -63,6 +63,8 @@ perftools-button-edit-settings = Embosako’i ñemboheko…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Umi tapereko tuichavéva pe tapereko tuichavévape g̃uarã umi tapereko tetepyguárõ
 perftools-thread-dom-worker =
     .title = Kóva oñangareko web workers ha service workers rehe
 perftools-thread-renderer =
