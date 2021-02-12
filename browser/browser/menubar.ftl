@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Onlangs gesloten tabbladen
 menu-history-undo-window-menu =
     .label = Onlangs gesloten vensters
+menu-history-reopen-all-tabs = Alle tabbladen opnieuw openen
+menu-history-reopen-all-windows = Alle vensters opnieuw openen
 
 ## Bookmarks Menu
 
