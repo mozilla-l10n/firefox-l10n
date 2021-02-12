@@ -52,7 +52,10 @@ import-from-360se =
 no-migration-sources = No son stâts cjatâts programs che a contegnin segnelibris, dâts di cronologjie o passwords.
 import-source-page-title = Impuarte impostazions e dâts
 import-items-page-title = Elements di impuartâ
-import-items-description = Sielç cuâi elements impuartâ:
+import-items-description = Selezione cuâi elements impuartâ:
+import-permissions-page-title = Par plasê, da i permès a { -brand-short-name }
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = macOS al à bisugne che tu permetis in maniere esplicite a { -brand-short-name } di acedi ai segnelibris di Safari. Fâs clic su “Continue” e selezione il file “Bookmarks.plist” intal panel Vierç file che al ven fûr.
 import-migrating-page-title = Daûr a impuartâ…
 import-migrating-description = I elements ca sot a son daûr a jessi impuartâts…
 import-select-profile-page-title = Sielç un profîl
