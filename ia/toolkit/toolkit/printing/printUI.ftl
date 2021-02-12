@@ -40,6 +40,10 @@ printui-scale-pcent = Scala
 printui-two-sided-printing = Impression recto e verso
 printui-duplex-checkbox = Imprimer sur recto e verso
 printui-two-sided-printing-off = Disactivate
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Volver sur margine lateral
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Volver sur margine superior
 # Section title for miscellaneous print options
 printui-options = Optiones
 printui-headers-footers-checkbox = Imprimer capites e pedes de pagina
