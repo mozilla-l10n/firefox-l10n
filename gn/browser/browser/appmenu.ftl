@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Tembiasakue ñangareko
+appmenu-reopen-all-tabs = Embojurujajey opaite tendayke
+appmenu-reopen-all-windows = Embojurujajey opaite ovetã
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Ehechajey oĩpa ñembohekopyahu…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Emboava tembipuru renda…
+appmenu-developer-tools-subheader = Kundahára Rembipuru
