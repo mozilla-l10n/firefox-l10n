@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Strg+Umsch+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Historiju rjadować
+appmenu-reopen-all-tabs = Wšě rajtarki znowa wočinić
+appmenu-reopen-all-windows = Wšě wokna znowa wočinić
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Za aktualizacijemi pruwować…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Symbolowu lajstu přiměrić…
+appmenu-developer-tools-subheader = Graty wobhladowaka

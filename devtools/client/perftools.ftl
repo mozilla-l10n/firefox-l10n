@@ -102,3 +102,10 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = Wuběry horjeka wobeńć a wšě zregistrowane nitki natočić
 perftools-tools-threads-input-label =
     .title = Tute nitkowe mjena su přez komu dźělena lisćina, kotraž so wužiwa, zo by přepytowanje nitkow w profilowaku zmóžnił. Mjeno trjeba so jenož zdźěla z mjenom nitki kryć, kotrež so ma zapřijeć. Na mjezery so dźiwa.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler
+perftools-onboarding-message = <b>Nowy</b>: { -profiler-brand-name } je nětko we wuwiwarskich nastrojach integrowany. <a>Dalše informacije</a> wo tutym mócnym nowym nastroju.

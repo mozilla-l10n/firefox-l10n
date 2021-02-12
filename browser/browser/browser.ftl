@@ -354,6 +354,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Wothrawanje
 browser-tab-audio-muted = Zynk wupinany
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = HRAJE SO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = NĚMY
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AWTOMATISKE WOTHRAĆE ZABLOKOWANE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = WOBRAZ-WE-WOBRAZU
 
 ## Bookmarks toolbar items
 
