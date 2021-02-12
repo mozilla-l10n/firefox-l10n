@@ -63,7 +63,7 @@ cfr-doorhanger-pintab-description = Tenha acesso fácil aos sites que você mais
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Clique com o botão direito</b> na aba que deseja fixar.
+cfr-doorhanger-pintab-step1 = <b>Clique com o botão direito</b> na aba que você quer fixar.
 cfr-doorhanger-pintab-step2 = Selecione <b>Fixar aba</b> no menu.
 cfr-doorhanger-pintab-step3 = Se o site tiver uma atualização, aparece um ponto azul na aba fixada.
 cfr-doorhanger-pintab-animation-pause = Pausar

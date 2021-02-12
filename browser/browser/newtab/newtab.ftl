@@ -56,7 +56,7 @@ newtab-topsites-add-button = Adicionar
 
 ## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Você tem certeza que deseja excluir todas as instâncias desta página do seu histórico?
+newtab-confirm-delete-history-p1 = Você tem certeza que quer excluir todas as instâncias desta página do seu histórico?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Essa ação não pode ser desfeita.
 
