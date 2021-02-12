@@ -103,3 +103,9 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = Bovenstaande selectie omzeilen en alle geregistreerde threads opnemen
 perftools-tools-threads-input-label =
     .title = Deze threadnamen zijn een kommagescheiden lijst, die wordt gebruikt om het profileren van de threads in de profiler mogelijk te maken. De naam hoeft maar deels overeen te komen met de threadnaam om opgenomen te worden. Gevoelig voor witruimte.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler
