@@ -61,7 +61,6 @@ this container is a toolbar. This avoids double-speaking. -->
   -  downloads.label, but used in the Library panel. -->
 
 
-<!ENTITY newNavigatorCmd.label        "Ventana nueva">
 
 
 
@@ -121,7 +120,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 
-<!ENTITY updateAvailable.panelUI.label "Baxando l'anovamientu &brandShorterName;">
 
 
 
