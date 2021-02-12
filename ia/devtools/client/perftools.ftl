@@ -103,3 +103,9 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = Ignorar selectiones supra e registrar tote le argumentos registrate
 perftools-tools-threads-input-label =
     .title = Iste nomines de argumento es un lista separate per virgulas que es usate pro activar le profilation del argumentos in le profilator. Le nomine debe esser solo un concordantia partial del nomine de argumento a includer. Il es sensibile al spatios blanc.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler

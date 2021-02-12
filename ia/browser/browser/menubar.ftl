@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Schedas claudite recentemente
 menu-history-undo-window-menu =
     .label = Fenestras claudite recentemente
+menu-history-reopen-all-tabs = Reaperir tote le schedas
+menu-history-reopen-all-windows = Reaperir tote le fenestras
 
 ## Bookmarks Menu
 

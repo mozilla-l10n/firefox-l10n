@@ -103,7 +103,7 @@ profiler-popup-capture-shortcut =
 appmenu-manage-history =
     .label = Gerer le chronologia
 appmenu-reopen-all-tabs = Reaperir tote le schedas
-appmenu-reopen-all-windows = Reapirir tote le fenestras
+appmenu-reopen-all-windows = Reaperir tote le fenestras
 
 ## Help panel
 

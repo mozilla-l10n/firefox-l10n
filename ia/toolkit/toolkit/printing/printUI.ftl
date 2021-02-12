@@ -39,6 +39,7 @@ printui-scale-pcent = Scala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impression recto e verso
 printui-duplex-checkbox = Imprimer sur recto e verso
+printui-two-sided-printing-off = Disactivate
 # Section title for miscellaneous print options
 printui-options = Optiones
 printui-headers-footers-checkbox = Imprimer capites e pedes de pagina
