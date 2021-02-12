@@ -24,6 +24,14 @@ cfr-doorhanger-extension-author = por { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
+cfr-doorhanger-extension-notification2 = Recomendación
+    .tooltiptext = Recomendación d'estensiones
+    .a11y-announcement = Hai una recomendación d'estensiones disponible
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomendación
+    .tooltiptext = Recomendación de carauterístiques
+    .a11y-announcement = Hai una recomendación de carauterístiques disponibles
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -138,8 +146,9 @@ cfr-doorhanger-socialtracking-dont-show-again = Nun volver amosar mensaxes como 
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió qu'una rede social te rastrexare equí
 cfr-doorhanger-socialtracking-description = La privacidá ye importante. Agora { -brand-short-name } bloquia los rastrexadores de les redes sociales más comunes, eso llenda la cantidá de datos que puen recoyer tocante a lo que faes en llinia.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloquió un xenerador de buelgues nesta páxina
-cfr-doorhanger-fingerprinters-description = La to privacidá importa. Agora { -brand-short-name } bloquia xeneradores de buelgues que recueyen cachos d'información única ya identificadora tocante al preséu pa rastrexate.
+cfr-doorhanger-fingerprinters-description = La privacidá ye importante. Agora { -brand-short-name } bloquia xeneradores de buelgues que recueyen cachos d'información única ya identificadora tocante al preséu pa rastrexate.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloquió un criptomineru nesta páxina
+cfr-doorhanger-cryptominers-description = La privacidá ye importante. Agora { -brand-short-name } bloquia criptomineros qu'usen la potencia de cálculu del ordenador pa minar moneda dixital.
 
 ## Enhanced Tracking Protection Milestones
 
