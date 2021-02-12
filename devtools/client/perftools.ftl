@@ -65,9 +65,41 @@ perftools-request-to-get-profile-and-stop-profiler = Capturar o perfil
 perftools-button-start-recording = Comezar a gravación
 perftools-button-capture-recording = Capturar a gravación
 perftools-button-cancel-recording = Cancelar a gravación
+perftools-button-save-settings = Gardar a configuración e volver
+perftools-button-restart = Reiniciar
+perftools-button-add-directory = Engadir un cartafol
+perftools-button-remove-directory = Retirar o seleccionado
+perftools-button-edit-settings = Editar a gravación…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Os procesos principais tanto para o proceso pai como para os de contido
+perftools-thread-compositor =
+    .title = Compón xuntos diferentes elementos pintados na páxina
+perftools-thread-dom-worker =
+    .title = Isto xestiona tanto os de traballadores web como traballadores do servizo
+perftools-thread-renderer =
+    .title = Cando WebRender está activado, o fío que executa as chamadas de OpenGL
+perftools-thread-render-backend =
+    .title = O fíoWebRender de RenderBackend
+perftools-thread-paint-worker =
+    .title = Cando o pintado fóra-do-fío-principal esta activado, o fío no que o pintado sucede
+perftools-thread-style-thread =
+    .title = A computación de estilo sepárase en múltiplos fíos
+pref-thread-stream-trans =
+    .title = Transporte en fluxo de rede
+perftools-thread-socket-thread =
+    .title = O fío onde o código de rede executa calquera das chamadas do socket de bloqueo
+perftools-thread-img-decoder =
+    .title = Fíos da descodificación de imaxe
+perftools-thread-dns-resolver =
+    .title = Neste fío sucede a resolución de DNS
 
 ##
 
+perftools-record-all-registered-threads = Rodea as seleccións anteriores e grava todos os fíos rexistrados
+perftools-tools-threads-input-label =
+    .title =
+        Eses nomes de fíos son unha lista separada por comas que se utiliza para activar o perfilado dos fíos no perfilador.
+        O nome debe ter só unha coincidencia parcial co nome do fío para que sexa incluído. É sensíbel aos espazos en branco.
