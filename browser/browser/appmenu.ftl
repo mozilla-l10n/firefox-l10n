@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = หน้าต่างใหม่
 appmenuitem-new-private-window =
     .label = หน้าต่างส่วนตัวใหม่
+appmenuitem-passwords =
+    .label = รหัสผ่าน
+appmenuitem-extensions-and-themes =
+    .label = ส่วนขยายและชุดตกแต่ง
+appmenuitem-find-in-page =
+    .label = ค้นหาในหน้า…
+appmenuitem-more-tools =
+    .label = เครื่องมือเพิ่มเติม
+appmenuitem-exit =
+    .label = ออก
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = การตั้งค่า
 
 ## Zoom and Fullscreen Controls
 
@@ -76,6 +90,8 @@ profiler-popup-capture-shortcut =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = ความช่วยเหลือของ { -brand-shorter-name }
 appmenu-about =
     .label = เกี่ยวกับ { -brand-shorter-name }
     .accesskey = ก
@@ -91,6 +107,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = แป้นพิมพ์ลัด
     .accesskey = ล
+appmenu-get-help =
+    .label = รับความช่วยเหลือ
+    .accesskey = ช
 appmenu-help-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหา
     .accesskey = ป
