@@ -30,6 +30,7 @@ inactive-text-overflow-when-no-overflow = <strong>overflow:hidden</strong> ayarl
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>outline-style</strong> <strong>auto</strong> veya <strong>none</strong> olarak ayarlandığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong>, iç tablo elemanlarını etkilemez.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong>, tablo hücreleri dışında hiçbir iç tablo elemanını etkilemez.
+inactive-css-not-table = Bu eleman bir tablo olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -51,6 +52,7 @@ inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> e
 inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> özelliğini <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>display</strong> özelliğini <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = <strong>outline-style</strong> özelliğini <strong>auto</strong> veya <strong>none</strong> dışında bir şey yapmayı deneyin. { learn-more }
+inactive-css-not-table-fix = <strong>display:table</strong> veya <strong>display:inline-table</strong> eklemeyi deneyin. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
