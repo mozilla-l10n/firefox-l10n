@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Ñemboheta
 browser-tab-audio-muted = Mokirirĩ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ÑEMBOSARÁIPE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = OGUEPYRE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOPLAY JOKOPYRE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## Bookmarks toolbar items
 

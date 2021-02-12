@@ -39,6 +39,11 @@ printui-scale-pcent = Jupiha
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Mokõivéva tova ñemonguatia
 printui-duplex-checkbox = Mokõive gotyo monguatia
+printui-two-sided-printing-off = Mboguepyre
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Embojere pe tembe’y ykegua
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Embojere pe tembe’y yvategua
 # Section title for miscellaneous print options
 printui-options = Poravorã
 printui-headers-footers-checkbox = Emongutia myakãha ha kuatiarogue guy gotyo

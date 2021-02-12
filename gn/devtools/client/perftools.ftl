@@ -91,3 +91,9 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Eñomi umi poravopyre yvategua ha eñongatu inimbo jehaipyre
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox mba’ete moheñoiha

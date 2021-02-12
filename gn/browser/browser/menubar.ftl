@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Tendayke oñembotyramóva
 menu-history-undo-window-menu =
     .label = Ovetã oñembotyramóva
+menu-history-reopen-all-tabs = Embojurujajey opaite tendayke
+menu-history-reopen-all-windows = Embojurujajey opaite ovetã
 
 ## Bookmarks Menu
 
