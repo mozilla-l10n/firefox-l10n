@@ -16,9 +16,17 @@ webrtc-sharing-browser-window = Tas compartiendo { -brand-short-name }.
 webrtc-sharing-screen = Tas compartiendo tola pantalla.
 webrtc-stop-sharing-button = Dexar de compartir
 webrtc-microphone-button =
-    .title = Tas compartiéndo'l micrófonu. Calca pa controlar la compartición.
+    .title = Tas compartiendo'l micrófonu. Calca pa controlar la compartición.
 webrtc-camera-button =
-    .title = Tas compartiéndo la cámara. Calca pa controlar la compartición.
+    .title = Tas compartiendo la cámara. Calca pa controlar la compartición.
+webrtc-microphone-unmuted =
+    .title = Habilitar el micrófonu
+webrtc-microphone-muted =
+    .title = Inhabilitar el micrófonu
+webrtc-camera-unmuted =
+    .title = Apagar la cámara
+webrtc-camera-muted =
+    .title = Prender la cámara
 # This string will display as a tooltip on supported systems where we show
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.
