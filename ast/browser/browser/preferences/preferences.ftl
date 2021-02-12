@@ -28,6 +28,7 @@ search-input-box =
             [windows] Atopar nes opciones
            *[other] Atopar nes preferencies
         }
+managed-notice = El restolador ta xestionáu pola to organización.
 category-list =
     .aria-label = Estayes
 pane-general-title = Xeneral
@@ -232,7 +233,7 @@ download-always-ask-where =
     .label = Entrugar siempres ónde guardar los ficheros
     .accesskey = m
 applications-header = Aplicaciones
-applications-description = Escueyi cómo { -brand-short-name } remana los ficheros que baxes de la web o les aplicaciones qu'uses menanto restoles.
+applications-description = Escueyi cómo remana { -brand-short-name } los ficheros que baxes de la web o les aplicaciones qu'uses menanto restoles.
 applications-filter =
     .placeholder = Buscar aplicaciones o tipos de ficheros
 applications-type-column =
