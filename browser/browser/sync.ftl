@@ -5,5 +5,13 @@
 fxa-toolbar-sync-syncing =
     .label = Sincronizando…
 fxa-toolbar-sync-syncing-tabs =
-    .label = Sincronizando llingüetes…
-
+    .label = Sincronizando les llingüetes…
+sync-disconnect-dialog-title = ¿Desconectase de { -sync-brand-short-name }?
+sync-disconnect-dialog-body = { -brand-product-name } va dexar de sincronizase cola to cuenta mas nun va desaniciar nengún datu d'esti preséu.
+fxa-disconnect-dialog-title = ¿Desconectar { -brand-product-name }?
+fxa-disconnect-dialog-body = { -brand-product-name } va desconectase de la to cuenta mas nun va desaniciar nengún datu de restolar d'esti preséu
+sync-disconnect-dialog-button = Desconectar
+fxa-signout-dialog-heading = ¿Zarrar sesión en { -fxaccount-brand-name }?
+fxa-signout-dialog-body = Los datos sincronizaos van quedar na to cuenta.
+fxa-signout-checkbox =
+    .label = Desaniciar los datos d'esti preséu (los anicios de sesión, les contraseeñes, l'historial, etc)
