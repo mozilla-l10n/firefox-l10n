@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
 page-info-window =
-    .style = width: 600px; min-height: 500px;
+    .style = width: 700px; min-height: 500px;
 copy =
     .key = C
 menu-copy =
@@ -69,10 +69,10 @@ security-tab =
     .label = Seguranza
     .accesskey = S
 security-view =
-    .label = Ver certificáu
+    .label = Ver el certificáu
     .accesskey = V
-security-view-unknown = Desconocíu
-    .value = Desconocíu
+security-view-unknown = Desconozse
+    .value = Desconozse
 security-view-identity =
     .value = Identidá del sitiu web
 security-view-identity-owner =
@@ -80,15 +80,19 @@ security-view-identity-owner =
 security-view-identity-domain =
     .value = Sitiu web:
 security-view-identity-verifier =
-    .value = Verificáu por:
+    .value = Cola verificación de:
 security-view-identity-validity =
-    .value = Caduca'l
+    .value = Data de caducidá:
 security-view-privacy =
     .value = Privacidá ya historial
-security-view-privacy-history-value = ¿Visité esti sitiu web enantes?
-security-view-privacy-passwords-value = ¿Guardé cualesquier contraseña pa esti sitiu web?
+security-view-privacy-history-value = ¿Visité esti sitiu web enantes de güei?
+security-view-privacy-sitedata-value = ¿Esti sitiu web ta atroxando información nel ordenador?
+security-view-privacy-clearsitedata =
+    .label = Llimpiar les cookies los datos de los sitios
+    .accesskey = L
+security-view-privacy-passwords-value = ¿Guardé dalguna contraseña d'esti sitiu web?
 security-view-privacy-viewpasswords =
-    .label = Ver contraseñes guardaes
+    .label = Ver les contraseñes guardaes
     .accesskey = V
 security-view-technical =
     .value = Detalles téunicos
@@ -101,8 +105,11 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Sí, cookies y { $value } { $unit } de datos
+security-site-data-only = Sí, { $value } { $unit } de datos
+security-site-data-cookies-only = Sí, cookies
 security-site-data-no = Non
-image-size-unknown = Desconocíu
+image-size-unknown = Desconozse
 page-info-not-specified =
     .value = Nun s'especificó
 not-set-alternative-text = Nun s'especificó
@@ -113,7 +120,7 @@ media-border-img = Berbesu
 media-list-img = Viñeta
 media-cursor = Cursor
 media-object = Oxetu
-media-embed = Integráu
+media-embed = Incrustación
 media-link = Iconu
 media-input = Entrada
 media-video = Videu
@@ -121,19 +128,59 @@ media-audio = Audiu
 saved-passwords-yes = Sí
 saved-passwords-no = Non
 no-page-title =
-    .value = Páxina ensin títulu
+    .value = Páxina ensin títulu:
 general-quirks-mode =
     .value = Mou de compatibilidá
 general-strict-mode =
     .value = Mou compatible colos estándares
 page-info-security-no-owner =
-    .value = Esti sitiu web nun apurre información tocante al so propietariu.
-media-select-folder = Esbilla una carpeta pa guardar les imáxenes
+    .value = Esti sitiu web nun forne la información del propietariu.
 media-unknown-not-cached =
-    .value = Desconocíu (nun ta caché)
+    .value = Desconozse (nun ta caché)
 permissions-use-default =
-    .label = Usar predetermináu
+    .label = Usar lo predeterminao
 security-no-visits = Non
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 etiqueta)
+           *[other] Meta ({ $tags } etiquetes)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Non
+        [one] Sí, una vegada
+       *[other] Sí, { $visits } vegaes
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } byte)
+           *[other] { $kb } KB ({ $bytes } bytes)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Imaxe { $type } (animada, { $frames } fotograma)
+           *[other] Imaxe { $type } (animada, { $frames } fotogrames)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
@@ -148,7 +195,7 @@ media-image-type =
 #   $scaledx (number) - The scaled horizontal size of an image
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
-    .value = { $dimx }px × { $dimy }px (escaláu a { $scaledx }px × { $scaledy }px)
+    .value = { $dimx }px × { $dimy }px (escalóse a { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
@@ -160,18 +207,11 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
-media-block-image =
-    .label = Bloquiar imáxenes de { $website }
-    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
 #   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
-    .title = Información de páxina - { $website }
+    .title = Información d'una páxina — { $website }
 page-info-frame =
-    .title = Información del marcu - { $website }
+    .title = Información d'un marcu — { $website }
