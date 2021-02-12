@@ -3,26 +3,36 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = Recargar llingüeta
+    .label = Recargar la llingüeta
     .accesskey = R
+select-all-tabs =
+    .label = Esbillar toles llingüetes
+    .accesskey = E
+duplicate-tab =
+    .label = Duplicar la llingüeta
+    .accesskey = D
+duplicate-tabs =
+    .label = Duplicar les llingüetes
+    .accesskey = D
 close-tabs-to-the-end =
-    .label = Zarrar llingüetes a la derecha
+    .label = Zarrar les llingüetes a la derecha
     .accesskey = e
 close-other-tabs =
-    .label = Zarrar les otres llingüetes
+    .label = Zarrar les demás llingüetes
     .accesskey = o
+reload-tabs =
+    .label = Cargar de nueves les llingüetes
+    .accesskey = R
 pin-tab =
-    .label = Fixar llingüeta
+    .label = Fixar la llingüeta
     .accesskey = F
-unpin-tab =
-    .label = Desfixar llingüeta
-    .accesskey = x
 move-to-new-window =
     .label = Mover a ventana nueva
     .accesskey = V
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
     .label = Zarrar llingüeta
     .accesskey = Z
