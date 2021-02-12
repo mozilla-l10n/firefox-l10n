@@ -43,7 +43,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuariu
        *[other] { $total } usuarios
     }
-cfr-doorhanger-pintab-description = Accedi fácilmente a los sitios que más andes. Caltén los sitios abiertos nuna llingüeta (magar que reanicies).
+cfr-doorhanger-pintab-description = Accedi fácilmente a los sitios que más visites. Caltén los sitios abiertos nuna llingüeta (magar que reanicies).
 
 ## These messages are steps on how to use the feature and are shown together.
 
