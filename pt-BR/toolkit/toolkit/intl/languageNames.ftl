@@ -176,6 +176,7 @@ language-name-st = Soto do sul
 language-name-su = Sundanês
 language-name-sv = Sueco
 language-name-sw = Suaíli
+language-name-szl = Silesiano
 language-name-ta = Tâmil
 language-name-te = Telugu
 language-name-tg = Tadjique
