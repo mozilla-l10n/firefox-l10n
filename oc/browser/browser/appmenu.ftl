@@ -100,6 +100,10 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Gerir l’istoric
+appmenu-reopen-all-tabs = Tornar dobrir totes los onglets
+appmenu-reopen-all-windows = Tornar dobrir totas las fenèstras
 
 ## Help panel
 
@@ -161,3 +165,4 @@ appmenu-help-check-for-update =
 
 appmenu-customizetoolbar =
     .label = Personalizar la barra d‘aisinas…
+appmenu-developer-tools-subheader = Aisinas del navegador
