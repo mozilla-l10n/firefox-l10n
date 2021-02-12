@@ -89,16 +89,19 @@ extension-controlled-homepage-override = Una estensión, <img data-l10n-name="ic
 extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina «Llingüeta nueva».
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlled-password-saving = Una estensión, <img data-l10n-name="icon"/>{ $name }, ta controlando esti axuste.
+extension-controlled-password-saving = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esti axuste.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Una estensión, <img data-l10n-name="icon"/>{ $name }, ta controlando esti axuste.
+extension-controlled-web-notifications = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esti axuste.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor de busca predetermináu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique contenedores de llingüetes
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlando esti axuste.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una estensión, <img data-l10n-name="icon"/> { $name }, controla cómo se coneuta { -brand-short-name } a Internet.
@@ -313,6 +316,12 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (String) - file extension (e.g .TXT)
 #   $type (String) - the MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Usar { $plugin-name } (en { -brand-short-name })
+applications-open-inapp =
+    .label = Abrir en { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
