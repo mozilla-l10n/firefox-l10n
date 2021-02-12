@@ -23,6 +23,8 @@ about-processes-column-cpu-total = Prosessor
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-file-process-name = Filer (prosess { $pid })
+about-processes-extension-process-name = Utvidingar (prosess { $pid })
 about-processes-privilegedabout-process-name = Om (prosess { $pid })
 about-processes-plugin-process-name = Programtillegg (prosess { $pid })
 about-processes-privilegedmozilla-process-name = Nett (prosess { $pid }) for { -vendor-short-name }-nettstadar

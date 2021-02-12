@@ -185,6 +185,7 @@ remote-debugging-url = Nettadresse
 
 ##
 
+support-third-party-modules-title = Tredjepartsmodular
 support-third-party-modules-module = Modulfil
 support-third-party-modules-version = Filversjon
 support-third-party-modules-vendor = Leverandørinformasjon
