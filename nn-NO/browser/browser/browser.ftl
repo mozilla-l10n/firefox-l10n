@@ -350,6 +350,12 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Spelar av
 browser-tab-audio-muted = Dempa
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = SPELAR
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = DEMPA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOAVSPELING BLOKKERT
 
 ## Bookmarks toolbar items
 
