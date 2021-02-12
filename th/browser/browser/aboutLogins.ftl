@@ -295,6 +295,7 @@ about-logins-import-dialog-items-error =
 about-logins-import-dialog-done = เสร็จสิ้น
 about-logins-import-dialog-error-title = ข้อผิดพลาดในการนำเข้า
 about-logins-import-dialog-error-conflicting-values-title = มีค่าขัดแย้งหลายค่าสำหรับการเข้าสู่ระบบครั้งเดียว
+about-logins-import-dialog-error-conflicting-values-description = ตัวอย่างเช่น: หลายชื่อผู้ใช้ รหัสผ่าน URL ฯลฯ สำหรับข้อมูลการเข้าสู่ระบบของผู้ใช้คนเดียว
 about-logins-import-dialog-error-file-format-title = ปัญหารูปแบบไฟล์
 about-logins-import-dialog-error-file-format-description = ส่วนหัวคอลัมน์ไม่ถูกต้องหรือขาดหายไป ตรวจสอบว่าไฟล์มีคอลัมน์สำหรับชื่อผู้ใช้ รหัสผ่านและ URL
 about-logins-import-dialog-error-file-permission-title = ไม่สามารถอ่านไฟล์
@@ -308,3 +309,4 @@ about-logins-import-dialog-error-cancel = ยกเลิก
 
 ## Logins import report page
 
+about-logins-import-report-page-title = รายงานสรุปการนำเข้า
