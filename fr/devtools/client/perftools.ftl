@@ -72,6 +72,8 @@ perftools-button-edit-settings = Modifier les paramètres…
 
 perftools-thread-gecko-main =
     .title = Les processus principaux pour le processus parent et les processus de contenu
+perftools-thread-compositor =
+    .title = Rassemble différents éléments dessinés sur la page.
 perftools-thread-dom-worker =
     .title = Gère à la fois les web workers et les services workers
 perftools-thread-renderer =
