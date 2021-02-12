@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Schedis sieradis di resint
 menu-history-undo-window-menu =
     .label = Barcons sierâts cumò denant
+menu-history-reopen-all-tabs = Torne vierç dutis lis schedis
+menu-history-reopen-all-windows = Torne vierç ducj i barcons
 
 ## Bookmarks Menu
 
@@ -271,13 +273,16 @@ menu-preferences =
             [windows] O
            *[other] P
         }
+menu-tools-layout-debugger =
+    .label = Debugger de disposizion
+    .accesskey = u
 
 ## Window Menu
 
 menu-window-menu =
     .label = Barcon
 menu-window-bring-all-to-front =
-    .label = Parte dut in prin plan
+    .label = Puarte dut in prin plan
 
 ## Help Menu
 
@@ -306,17 +311,39 @@ menu-help-product =
     .label = Jutori di { -brand-shorter-name }
     .accesskey = J
 menu-help-show-tour =
-    .label = { -brand-shorter-name } Gîr
-    .accesskey = o
+    .label = Visite vuidade di { -brand-shorter-name }
+    .accesskey = V
+menu-help-import-from-another-browser =
+    .label = Impuarte di un altri navigadôr…
+    .accesskey = I
 menu-help-keyboard-shortcuts =
-    .label = Scurtardoriis di tastiere
+    .label = Scurtis di tastiere
     .accesskey = t
+menu-get-help =
+    .label = Oten jutori
+    .accesskey = j
 menu-help-troubleshooting-info =
-    .label = Informazions pal supuart…
-    .accesskey = t
+    .label = Informazions pe risoluzion problemis…
+    .accesskey = n
+menu-help-taskmanager =
+    .label = Gjestôr des ativitâts
 menu-help-feedback-page =
-    .label = Mande Feedback
-    .accesskey = M
+    .label = Mande opinion
+    .accesskey = o
 menu-help-safe-mode-without-addons =
-    .label = Torne a inviâ cence Zontis...
+    .label = Torne invie cence zontis...
     .accesskey = r
+menu-help-safe-mode-with-addons =
+    .label = Torne invie cu lis zontis abilitadis
+    .accesskey = r
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = Segnale sît ingjanôs…
+    .accesskey = S
+menu-help-not-deceptive =
+    .label = Chest nol è un sît ingjanôs…
+    .accesskey = s
+menu-help-check-for-update =
+    .label = Cîr inzornaments…
+    .accesskey = C
