@@ -39,6 +39,11 @@ printui-scale-pcent = Escala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impressão frente e verso
 printui-duplex-checkbox = Imprimir em ambos os lados
+printui-two-sided-printing-off = Desligado
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Virar na borda lateral
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Virar na borda superior
 # Section title for miscellaneous print options
 printui-options = Opções
 printui-headers-footers-checkbox = Imprimir cabeçalhos e rodapés
