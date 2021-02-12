@@ -176,6 +176,7 @@ language-name-st = 세소토어
 language-name-su = 수단어
 language-name-sv = 스웨덴어
 language-name-sw = 스와힐리어
+language-name-szl = 실레지아어
 language-name-ta = 타밀어
 language-name-te = 텔루그어
 language-name-tg = 타직어

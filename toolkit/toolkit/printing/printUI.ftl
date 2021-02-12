@@ -38,6 +38,11 @@ printui-scale-pcent = 배율
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = 양면 인쇄
 printui-duplex-checkbox = 양쪽 면에 인쇄
+printui-two-sided-printing-off = 끄기
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = 측면 가장자리에서 뒤집기
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = 위쪽 가장자리에서 뒤집기
 # Section title for miscellaneous print options
 printui-options = 옵션
 printui-headers-footers-checkbox = 머리글 및 바닥글 인쇄
