@@ -40,6 +40,7 @@ printui-scale-pcent = Масштаб
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Двусторонняя печать
 printui-duplex-checkbox = Печатать на обоих сторонах
+printui-two-sided-printing-off = Отключена
 # Section title for miscellaneous print options
 printui-options = Настройки
 printui-headers-footers-checkbox = Печатать колонтитулы
