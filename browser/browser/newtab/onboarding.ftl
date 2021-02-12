@@ -60,6 +60,8 @@ onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 ## The string for the button is found above, in the UI strings section
 
 onboarding-tracking-protection-button2 = Cómo funciona
+onboarding-firefox-send-text2 = Xubi ficheros a { -send-brand-name } pa compartilos con cifráu puntu a puntu y un enllaz de caduca automáticamente.
+onboarding-firefox-send-button = Probar { -send-brand-name }
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } caltién el to perfil aislláu de tolo demás, asina ye más difícil que Facebook amuese publicidá personalizada.
 
 ## Message strings belonging to the Return to AMO flow
