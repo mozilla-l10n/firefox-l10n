@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Керувати історією
+appmenu-reopen-all-tabs = Знову відкрити всі вкладки
+appmenu-reopen-all-windows = Знову відкрити всі вікна
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Перевірити наявність оновлень…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Налаштувати панель інструментів…
+appmenu-developer-tools-subheader = Інструменти браузера
