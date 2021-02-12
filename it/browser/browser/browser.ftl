@@ -347,6 +347,10 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Riproduzione in corso
 browser-tab-audio-muted = Audio disattivato
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = BLOCCO RIPRODUZ. AUTOMATICA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## Bookmarks toolbar items
 
