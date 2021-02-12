@@ -53,5 +53,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Remover
 site-data-removing-header = Remoção de cookies e dados de sites
-site-data-removing-desc = Remover cookies e dados de sites pode desconectar você de contas de sites. Tem certeza que deseja fazer as alterações?
+site-data-removing-desc = Remover cookies e dados de sites pode desconectar você de contas de sites. Tem certeza que quer fazer as alterações?
 site-data-removing-table = Os cookies e dados dos seguintes sites serão removidos

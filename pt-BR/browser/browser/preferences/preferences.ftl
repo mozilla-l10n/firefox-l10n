@@ -177,8 +177,8 @@ browser-containers-settings =
 containers-disable-alert-title = Fechar todas as abas contêiner?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Se desativar Abas Contêiner agora, { $tabCount } aba contêiner será fechada. Tem certeza que deseja desativar Abas Contêiner?
-       *[other] Se desativar Abas Contêiner agora, { $tabCount } abas contêiner serão fechadas. Tem certeza que deseja desativar Abas Contêiner?
+        [one] Se desativar abas contêiner agora, { $tabCount } aba contêiner será fechada. Tem certeza que quer desativar abas contêiner?
+       *[other] Se desativar abas contêiner agora, { $tabCount } abas contêiner serão fechadas. Tem certeza que quer desativar abas contêiner?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -191,8 +191,8 @@ containers-remove-alert-title = Remover este contêiner?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Se você remover este Contêiner agora, { $count } aba contêiner será fechada. Tem certeza que deseja remover este Contêiner?
-       *[other] Se você remover este Contêiner agora, { $count } abas contêiner serão fechadas. Tem certeza que deseja remover este Contêiner?
+        [one] Se você remover este contêiner agora, { $count } aba contêiner será fechada. Tem certeza que quer remover este contêiner?
+       *[other] Se você remover este contêiner agora, { $count } abas contêiner serão fechadas. Tem certeza que quer remover este contêiner?
     }
 containers-remove-ok-button = Remover este contêiner
 containers-remove-cancel-button = Não remover este contêiner
