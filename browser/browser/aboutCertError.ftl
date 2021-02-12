@@ -95,6 +95,6 @@ inadequateSecurityError-title = La conexón nun ye segura
 blockedByPolicy-title = Páxina bloquiada
 clockSkewError-title = El reló del ordenador ta mal
 networkProtocolError-title = Fallu del protocolu de rede
-nssBadCert-title = Alvertencia: riesgu potencial de seguranza darréu
+nssBadCert-title = Alvertencia: riesgu potencial de seguranza a la vista
 nssBadCert-sts-title = Nun se conectó: Problema potencial de seguranza
 certerror-mitm-title = Un programa ta evitando que { -brand-short-name } se conecte con seguranza a esti sitiu
