@@ -109,3 +109,4 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 -profiler-brand-name = Firefox Profiler
+perftools-onboarding-message = <b>Le nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
