@@ -42,11 +42,32 @@ toolbar-button-stop-reload =
 
 ## Save Page
 
+main-context-menu-page-save =
+    .label = Guardar la páxina como…
+    .accesskey = p
 toolbar-button-page-save =
     .label = { main-context-menu-page-save.label }
 
 ## Simple menu items
 
+main-context-menu-open-link-new-tab =
+    .label = Abrir l'enllaz nun llingüeta nueva
+    .accesskey = l
+main-context-menu-open-link-new-window =
+    .label = Abrir l'enllaz nuna ventana nueva
+    .accesskey = v
+main-context-menu-open-link-new-private-window =
+    .label = Abrir l'enllaz nuna llingüeta privada nueva
+    .accesskey = p
+main-context-menu-bookmark-this-link =
+    .label = Amestar esti enllaz a Marcadores
+    .accesskey = e
+main-context-menu-save-link =
+    .label = Guardar l'enllaz como…
+    .accesskey = z
+main-context-menu-save-link-to-pocket =
+    .label = Guardar l'enllaz en { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
