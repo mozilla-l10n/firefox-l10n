@@ -18,6 +18,7 @@ about-config-page-title = Preferencias avanzadas
 about-config-search-input1 =
     .placeholder = Buscar polo nome da preferencia
 about-config-show-all = Amosar todo
+about-config-show-only-modified = Amosar só as preferencias modificadas
 about-config-pref-add-button =
     .title = Engadir
 about-config-pref-toggle-button =
