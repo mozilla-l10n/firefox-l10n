@@ -109,3 +109,5 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 -profiler-brand-name = Firefox Profiler
+perftools-onboarding-close-button =
+    .aria-label = 온보딩 메시지 닫기
