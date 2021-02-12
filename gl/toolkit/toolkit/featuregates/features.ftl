@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Capacidade experimental que permit
 experimental-features-http3 =
     .label = Protocolo HTTP/3
 experimental-features-http3-description = Compatibilidade experimental para o protocolo HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Barra de enderezos: amosar os resultados durante a composición IME
