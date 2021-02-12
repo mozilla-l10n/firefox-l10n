@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Runje začinjene rajtarki
 menu-history-undo-window-menu =
     .label = Runje začinjene wokna
+menu-history-reopen-all-tabs = Wšě rajtarki znowa wočinić
+menu-history-reopen-all-windows = Wšě wokna znowa wočinić
 
 ## Bookmarks Menu
 
