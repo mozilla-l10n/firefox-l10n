@@ -15,3 +15,7 @@ fxa-signout-dialog-heading = ¿Zarrar sesión en { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Los datos sincronizaos van quedar na to cuenta.
 fxa-signout-checkbox =
     .label = Desaniciar los datos d'esti preséu (anicios de sesión, contraseeñes, historial, marcadores, etc.).
+fxa-signout-dialog =
+    .title = Zarru de sesión en { -fxaccount-brand-name }
+    .style = min-width: 375px;
+    .buttonlabelaccept = Zarrar sesión
