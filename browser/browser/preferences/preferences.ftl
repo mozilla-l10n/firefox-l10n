@@ -87,9 +87,18 @@ extension-controlled-homepage-override = Una estensión, <img data-l10n-name="ic
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina «Llingüeta nueva».
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Una estensión, <img data-l10n-name="icon"/>{ $name }, ta controlando esti axuste.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Una estensión, <img data-l10n-name="icon"/>{ $name }, ta controlando esti axuste.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor de busca predetermináu.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique contenedores de llingüetes
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una estensión, <img data-l10n-name="icon"/> { $name }, controla cómo se coneuta { -brand-short-name } a Internet.
@@ -531,6 +540,7 @@ search-show-suggestions-private-windows =
     .label = Amosar les suxerencies de busca nes ventanes privaes
 suggestions-addressbar-settings-generic = Camudar les preferencies pa otres suxerencies de la barra de direiciones
 search-suggestions-cant-show = Les suxerencies de busca nun van amosase na barra de direiciones porque configuresti { -brand-short-name } pa qu'enxamás recordare l'historial.
+search-one-click-header = Motores de busca nun calcu
 search-one-click-header2 = Atayos de busca
 search-one-click-desc = Escueyi los motores de busca alternativos qu'apaecen embaxo de la barra de direiciones y barra de busca cuando comiences a introducir una pallabra clave.
 search-choose-engine-column =
