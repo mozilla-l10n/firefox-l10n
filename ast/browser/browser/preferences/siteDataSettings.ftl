@@ -6,7 +6,7 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Xestor de cookies y datos de los sitios
+    .title = Xestión de les cookies y los datos de los sitios
 site-data-settings-description = Los sitios web de darréu atroxen cookies y datos nel ordenador. { -brand-short-name } caltién esos datos con almacenamientu permanente hasta que los desanicies y desanicia los datos de los sitios web con almacenamientu non permanente a midida que se precise espaciu.
 site-data-search-textbox =
     .placeholder = Buscar sitios web
@@ -30,6 +30,9 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Guardar los cambeos
     .accesskey = G
+site-data-settings-dialog =
+    .buttonlabelaccept = Guardar los cambeos
+    .buttonaccesskeyaccept = G
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -48,6 +51,6 @@ site-data-remove-shown =
 
 site-data-removing-dialog =
     .title = { site-data-removing-header }
-    .buttonlabelaccept = Desaniciar
+    .buttonlabelaccept = Quitar
 site-data-removing-desc = Quitar les cookies y los datos de los sitios pue zarrate la sesión nos sitios web. ¿De xuru que quies facer los cambeos?
 site-data-removing-table = Van quitase les cookies y los datos de los sitios web de darréu

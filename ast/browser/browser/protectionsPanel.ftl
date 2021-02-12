@@ -33,6 +33,7 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = ¿Por qué?
+protections-panel-not-blocking-why-etp-on-tooltip = Bloquialos podría romper los elementos de dalgunos sitios web. Ensin los rastrexadores, dalgunos botones, formularios y anicios de sesión podríen dexar de funcionar.
 protections-panel-not-blocking-why-etp-off-tooltip = Cargáronse tolos rastrexadores d'esti sitiu porque les proteiciones tán desactivaes.
 
 ##
@@ -51,6 +52,7 @@ protections-panel-content-blocking-fingerprinters-label = Xeneradores de buelgue
 
 protections-panel-blocking-label = Bloquióse
 protections-panel-not-blocking-label = Permitióse
+protections-panel-not-found-label = Nun se detectó
 
 ##
 
