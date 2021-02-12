@@ -529,7 +529,7 @@ search-show-suggestions-above-history-option =
     .label = Nos resultaos de la barra de direiciones, amosar les suxerencies de busca enantes del historial de restolar
 search-show-suggestions-private-windows =
     .label = Amosar les suxerencies de busca nes ventanes privaes
-suggestions-addressbar-settings-generic = Camudar les preferencies d'otres suxerencies de la barra de direiciones
+suggestions-addressbar-settings-generic = Camudar les preferencies pa otres suxerencies de la barra de direiciones
 search-suggestions-cant-show = Les suxerencies de busca nun van amosase na barra de direiciones porque configuresti { -brand-short-name } pa qu'enxamás recordare l'historial.
 search-one-click-header2 = Atayos de busca
 search-one-click-desc = Escueyi los motores de busca alternativos qu'apaecen embaxo de la barra de direiciones y barra de busca cuando comiences a introducir una pallabra clave.
@@ -722,10 +722,14 @@ forms-master-pw-fips-desc = El cambéu de la contraseña falló
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Pa crear una contraseña maestra, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = crear una contraseña maestra
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Pa crear una contraseña primaria, introduz los tos datos d'aniciu de sesión de Windows. Esto ayuda a protexer la seguranza de les tos cuentes.
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -842,6 +846,12 @@ content-blocking-learn-more = Deprender más
 enhanced-tracking-protection-setting-standard =
     .label = Estándar
     .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estricta
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizada
+    .accesskey = P
 
 ##
 
@@ -915,6 +925,9 @@ permissions-notification-settings =
     .label = Axustes…
     .accesskey = t
 permissions-notification-link = Deprender más
+permissions-notification-pause =
+    .label = Posar los avisos hasta reaniciar { -brand-short-name }
+    .accesskey = v
 permissions-autoplay = Reproducción automática
 permissions-autoplay-settings =
     .label = Axustes...
@@ -993,6 +1006,7 @@ space-alert-under-5gb-ok-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mou de namás HTTPS
+httpsonly-description = HTTPS apurre una conexón segura y cifrada ente { -brand-short-name } y los sitios web que visites. La mayoría d'estos sitios web sofiten HTTPS, polo que si'l mou de namás HTTPS ta activáu, entós { -brand-short-name } va usar HTTPS en toles conexones.
 httpsonly-learn-more = Deprender más
 httpsonly-radio-enabled =
     .label = Activar el mou de namás HTTPS en toles ventanes
@@ -1005,3 +1019,4 @@ httpsonly-radio-disabled =
 
 desktop-folder-name = Escritoriu
 downloads-folder-name = Descargues
+choose-download-folder-title = Escoyeta d'una carpeta de descarga
