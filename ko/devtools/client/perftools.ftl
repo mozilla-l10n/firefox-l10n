@@ -103,3 +103,9 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = 위의 선택 사항을 무시하고 등록된 모든 스레드를 기록
 perftools-tools-threads-input-label =
     .title = 이러한 스레드 이름은 프로파일러에서 스레드의 프로파일링을 활성화하는데 사용되는 쉼표로 구분된 목록입니다. 이름은 포함할 스레드 이름과 부분적으로 일치해야 합니다. 공백에 민감합니다.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler
