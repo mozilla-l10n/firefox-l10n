@@ -27,10 +27,10 @@ permission-dialog-remember-file = Usar siempre este archivo para abrir enlaces <
 
 permission-dialog-btn-open-link =
     .label = Abrir enlace
-    .accessKey = O
+    .accessKey = e
 permission-dialog-btn-choose-app =
     .label = Elegir aplicación
-    .accessKey = A
+    .accessKey = a
 permission-dialog-unset-description = Tendrás que elegir una aplicación.
 permission-dialog-set-change-app-link = Elegir una aplicación diferente.
 
@@ -43,7 +43,7 @@ chooser-window =
     .style = min-width: 26em; min-height: 26em;
 chooser-dialog =
     .buttonlabelaccept = Abrir enlace
-    .buttonaccesskeyaccept = O
+    .buttonaccesskeyaccept = e
 chooser-dialog-description = Eligir una aplicación para abrir el enlace { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
 chooser-dialog-remember = Usar siempre esta aplicación para abrir enlaces <strong>{ $scheme }</strong>
@@ -55,7 +55,7 @@ chooser-dialog-remember-extra =
 choose-other-app-description = Elegir otra aplicación
 choose-app-btn =
     .label = Elegir…
-    .accessKey = C
+    .accessKey = E
 choose-other-app-window-title = Otra aplicación…
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Deshabilitado en ventanas privadas
