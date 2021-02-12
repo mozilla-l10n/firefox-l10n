@@ -17,6 +17,14 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Esbillar toles llingüetes
     .accesskey = E
+toolbar-context-menu-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Desfacer el zarru d'una llingüeta
+            [one] Desfacer el zarru d'una llingüeta
+           *[other] Desfacer el zarru de les llingüetes
+        }
+    .accesskey = D
 toolbar-context-menu-manage-extension =
     .label = Xestionar la estensión
     .accesskey = e
@@ -50,6 +58,9 @@ toolbar-context-menu-bookmarks-toolbar-always-show-2 =
 toolbar-context-menu-bookmarks-toolbar-never-show-2 =
     .label = Nun amosar enxamás
     .accesskey = N
+toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
+    .label = Amosar namás en llingüetes nueves
+    .accesskey = n
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Amosar «Otros marcadores»
     .accesskey = s
