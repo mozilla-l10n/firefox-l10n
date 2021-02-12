@@ -89,9 +89,6 @@ extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor de busca predetermináu.
-# This string is shown to notify the user that Container Tabs
-# are being enabled by an extension.
-extension-controlled-privacy-containers = Una estensión, <img data-l10n-name="icon"/> { $name }, rique llingüetes contenedores.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una estensión, <img data-l10n-name="icon"/> { $name }, controla cómo se coneuta { -brand-short-name } a Internet.
@@ -154,14 +151,10 @@ switch-links-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Amosar la previsualización de llingüetes na barra de xeres de Windows
     .accesskey = x
-browser-containers-enabled =
-    .label = Activar les llingüetes contenedores
-    .accesskey = t
 browser-containers-learn-more = Deprender más
 browser-containers-settings =
     .label = Axustes…
     .accesskey = u
-containers-disable-alert-title = ¿Zarrar toles llingüetes contenedores?
 containers-remove-alert-title = ¿Quitar esti contenedor?
 containers-remove-ok-button = Quitar esti contenedor
 containers-remove-cancel-button = Nun quitar esti contenedor
@@ -526,7 +519,6 @@ search-keyword-warning-title = Pallabra clave duplicada
 
 ## Containers Section
 
-containers-header = Llingüetes contenedores
 containers-preferences-button =
     .label = Preferencies
 containers-remove-button =
