@@ -59,17 +59,28 @@ import-permissions-description = macOS al à bisugne che tu permetis in maniere 
 import-migrating-page-title = Daûr a impuartâ…
 import-migrating-description = I elements chi sot a son daûr a vignî impuartâts…
 import-select-profile-page-title = Selezione un profîl
-import-select-profile-description = I profîi ca sot a son disponibii par jessi la sorzint de impuartazion:
-import-done-page-title = Impuartazion completade
-import-done-description = I elements ca sot a son stâts impuartâts cun sucès:
+import-select-profile-description = Al è pussibil impuartâ dâts di chescj profîi:
+import-done-page-title = Importazion completade
+import-done-description = I elements chi sot a son stâts impuartâts cun sucès:
+import-close-source-browser = Siguraitsi che il navigadôr selezionât al sedi sierât prime di continuâ.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
 #   $source (String): The browser the user has chosen to import bookmarks from.
 imported-bookmarks-source = Di { $source }
 source-name-ie = Internet Explorer
+source-name-edge = Microsoft Edge
+source-name-edge-beta = Microsoft Edge Beta
 source-name-safari = Safari
+source-name-canary = Google Chrome Canary
+source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Beta
+source-name-chrome-dev = Google Chrome Dev
+source-name-chromium = Chromium
 source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
+imported-safari-reading-list = Liste di leture (di Safari)
+imported-edge-reading-list = Liste di leture (di Edge)
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -85,6 +96,16 @@ source-name-firefox = Mozilla Firefox
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Cookies
+browser-data-cookies-label =
+    .value = Cookies
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Cronologjie di navigazion e segnelibris
+           *[other] Cronologjie di navigazion
+        }
 browser-data-session-checkbox =
     .label = Barcons e lengutis
 browser-data-session-label =
