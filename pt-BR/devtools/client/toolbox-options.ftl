@@ -58,13 +58,13 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Comportamento da captura de tela
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Capturar tela para a área de transferência
+options-screenshot-clipboard-label = Capturar tela para área de transferência
 options-screenshot-clipboard-tooltip =
     .title = Copiar capturas de tela diretamente para a área de transferência
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Tocar som de obturador da câmera
 options-screenshot-audio-tooltip =
-    .title = Ativar o som da câmera ao capturar telas
+    .title = Ativar o som da câmera ao capturar tela
 
 ## Editor section
 
@@ -85,7 +85,7 @@ options-sourceeditor-keybinding-default-label = Normal
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Configurações avançadas
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Desativar cache HTTP (quando a caixa de ferramentas está aberta)
