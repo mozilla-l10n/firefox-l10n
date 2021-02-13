@@ -1071,7 +1071,7 @@ space-alert-under-5gb-ok-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mou de namás HTTPS
-httpsonly-description = HTTPS apurre una conexón segura y cifrada ente { -brand-short-name } y los sitios web que visites. La mayoría d'estos sitios web sofiten HTTPS, polo que si'l mou de namás HTTPS ta activáu, entós { -brand-short-name } va usar HTTPS en toles conexones.
+httpsonly-description = HTTPS apurre una conexón segura y cifrada ente { -brand-short-name } y los sitios web que visites. La mayoría d'estos sitios web sofiten HTTPS, polo que si'l mou de namás HTTPS ta activáu, { -brand-short-name } va usar HTTPS en toles conexones.
 httpsonly-learn-more = Deprender más
 httpsonly-radio-enabled =
     .label = Activar el mou de namás HTTPS en toles ventanes
