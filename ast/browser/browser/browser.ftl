@@ -91,12 +91,22 @@ urlbar-popup-blocked =
     .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
 urlbar-install-blocked =
     .tooltiptext = Bloquiesti la instalación de complementos pa esti sitiu web.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Editar esti marcador ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Amestar esta páxina a Marcadores ({ $shortcut })
 
 ## Page Action Context Menu
 
 
 ## Page Action menu
 
+page-action-pocket-panel =
+    .label = Guardar la páxina en { -pocket-brand-name }
 page-action-share-more-panel =
     .label = Más…
 page-action-send-tab-not-ready =
@@ -145,6 +155,9 @@ search-one-offs-history =
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Amosar l'editor al guardar
+    .accesskey = A
 bookmark-panel-done-button =
     .label = Fecho
 
@@ -168,6 +181,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = Non, temporalmente
 identity-permissions =
     .value = Permisos
+identity-permissions-storage-access-header = Cookies ente sitios
 identity-permissions-empty = Nun-y concediesti nengún permisu especial a esti sitiu.
 identity-connection-not-secure-security-view = Nun tas conectáu de forma segura a esti sitiu.
 identity-connection-verified = Tas conectáu de forma segura a esti sitiu.
@@ -226,6 +240,10 @@ urlbar-permissions-granted =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estensión:
+urlbar-page-action-button =
+    .tooltiptext = Aiciones de la páxina
+urlbar-pocket-button =
+    .tooltiptext = Guardar en { -pocket-brand-name }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

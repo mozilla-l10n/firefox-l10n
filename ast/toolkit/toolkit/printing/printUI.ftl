@@ -10,6 +10,7 @@ printui-sheets-count =
         [one] { $sheetCount } fueya de papel
        *[other] { $sheetCount } fueyes de papel
     }
+printui-page-range-label = Páxines
 # Section title for the number of copies to print
 printui-copies-label = Copies
 printui-orientation = Orientación
@@ -17,6 +18,7 @@ printui-landscape = Horizontal
 printui-portrait = Vertical
 # Section title for the printer or destination device to target
 printui-destination-label = Destín
+printui-destination-pdf-label = Guardar en PDF
 printui-more-settings = Más axustes
 printui-less-settings = Menos axustes
 # Section title (noun) for the print scaling options
