@@ -508,6 +508,8 @@ home-prefs-shortcuts-by-option-sponsored =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+home-prefs-recommended-by-description-update = Conteníu esceicional de la web, esbilláu por { $provider }
+home-prefs-recommended-by-description-new = Conteníu esceicional de la web esbilláu por { $provider }, parte de la familia de { -brand-product-name }
 
 ##
 
@@ -646,6 +648,12 @@ sync-sign-out =
 sync-manage-account = Xestionar la cuenta
     .accesskey = o
 sync-signedin-unverified = { $email } ta ensin verificar.
+sync-remove-account =
+    .label = Quitar la cuenta
+    .accesskey = Q
+sync-sign-in =
+    .label = Aniciar sesión
+    .accesskey = r
 
 ## Sync section - enabling or disabling sync.
 
@@ -953,6 +961,9 @@ content-blocking-and-isolating-etp-warning-description = Bloquiar rastrexadores 
 content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o funcionen correutamente. Si te paez qu'un sitiu ta rotu, pues desactivar la proteición escontra'l rastrexu pa esi sitiu y cargar tol conteníu.
 content-blocking-warning-learn-how = Deprender cómo
 content-blocking-reload-description = Va ser preciso recargar les llingüetes p'aplicar estos cambeos.
+content-blocking-reload-tabs-button =
+    .label = Volver cargar toles llingüetes
+    .accesskey = r
 content-blocking-tracking-content-label =
     .label = Conteníu que rastrexa
     .accesskey = t
@@ -1135,3 +1146,7 @@ httpsonly-radio-disabled =
 desktop-folder-name = Escritoriu
 downloads-folder-name = Descargues
 choose-download-folder-title = Escoyeta d'una carpeta de descarga
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Guardar los ficheros en { $service-name }
