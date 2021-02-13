@@ -73,9 +73,20 @@ profiler-popup-settings =
     .value = Налады
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Змянiць налады...
+profiler-popup-disabled =
+    Прафайлер зараз адключаны, хутчэй за ўсё, з-за адкрытага акна
+    прыватнага аглядання.
 profiler-popup-recording-screen = Запіс…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Адмысловыя
 profiler-popup-start-recording-button =
     .label = Пачаць запіс
+profiler-popup-discard-button =
+    .label = Адхіліць
+profiler-popup-capture-button =
+    .label = Захапіць
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -89,6 +100,10 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Кіраванне гісторыяй
+appmenu-reopen-all-tabs = Перааадкрыць усе карткі
+appmenu-reopen-all-windows = Перааадкрыць усе вокны
 
 ## Help panel
 
@@ -148,3 +163,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Уладкаваць паліцы прылад…
+appmenu-developer-tools-subheader = Інструменты браўзера
