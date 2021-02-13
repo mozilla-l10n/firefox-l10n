@@ -103,3 +103,12 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = Omitir las selecciones de arriba y grabar todos los hilos registrados
 perftools-tools-threads-input-label =
     .title = Estos nombres de hilos son una lista separada por comas que se utiliza para habilitar el perfilado de los hilos en el perfilador. El nombre debe ser solo una coincidencia parcial con el nombre del hilo que se va a incluir. Es sensible al espacio en blanco.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Perfilador de Firefox
+perftools-onboarding-message = <b>Nuevo</b>: { -profiler-brand-name } está ahora integrado en las herramientas para desarrolladores. <a>Conocer más</a> sobre esta poderosa herramienta nueva.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, puede acceder al panel de rendimiento original a través de <a>{ options-context-Advanced-settings }</a>)

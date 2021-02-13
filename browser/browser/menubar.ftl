@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
     .label = Ventanas cerradas recientemente
+menu-history-reopen-all-tabs = Reabrir todas las pestañas
+menu-history-reopen-all-windows = Reabrir todas las ventanas
 
 ## Bookmarks Menu
 
