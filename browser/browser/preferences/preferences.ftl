@@ -913,7 +913,10 @@ addressbar-suggestions-settings = Camudar les preferencies pa les suxerencies de
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Proteición ameyorada escontra'l rastrexu
+content-blocking-section-top-level-description = Los rastrexadores síguente per internet pa recoyer información tocante a los tos vezos de restolar ya intereses. { -brand-short-name } bloquia munchos d'esos rastrexadores y otros scripts maliciosos.
 content-blocking-learn-more = Deprender más
+content-blocking-fpi-incompatibility-warning = Tas usando Aislamientu Primariu (FPI) lo qu'anula dalgunos axustes cookies de { -brand-short-name }
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -946,6 +949,7 @@ content-blocking-all-third-party-cookies = Toles cookies de terceros
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Xeneradores de buelgues
 content-blocking-warning-title = ¡Atención!
+content-blocking-and-isolating-etp-warning-description = Bloquiar rastrexadores y aisllar cookies pue afeutar a la funcionalidá de dalgunos sitios. Volvi cargar la páxina colos rastrexadores pa cargar tol conteníu.
 content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o funcionen correutamente. Si te paez qu'un sitiu ta rotu, pues desactivar la proteición escontra'l rastrexu pa esi sitiu y cargar tol conteníu.
 content-blocking-warning-learn-how = Deprender cómo
 content-blocking-reload-description = Va ser preciso recargar les llingüetes p'aplicar estos cambeos.
@@ -1065,6 +1069,13 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificaos
+certs-personal-label = Cuando un sirvidor solicita'l to certificáu personal
+certs-select-auto-option =
+    .label = Esbillar unu automáticamente
+    .accesskey = E
+certs-select-ask-option =
+    .label = Pidilu cada vegada
+    .accesskey = c
 certs-enable-ocsp =
     .label = Consultar los sirvidores de rempuesta OCSP pa confirmar la validez actual de los certificaos
     .accesskey = C
