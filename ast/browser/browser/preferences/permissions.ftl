@@ -97,20 +97,11 @@ permissions-site-autoplay-desc = Equí pues xestionar los sitios que nun siguen 
 permissions-site-notification-window =
     .title = Axustes - Permisos d'avisos
     .style = { permissions-window.style }
-permissions-site-notification-desc = Los siguientes sitios web solicitaron unviate notificaciones. Pues especificar qué sitios web tienen permitío esi accesu. Tamién pues bloquiar nueves solicitúes.
-permissions-site-notification-disable-label =
-    .label = Bloquiar solicitúes nueves d'emisión de notificaciones
-permissions-site-notification-disable-desc = Esto va evitar que cualquier sitiu web non llistáu arriba solicite permisu pa unviate notificaciones. Bloquiar l'unviu de notificaciones pue afeutar a les carauterístiques de dalgunos sitios web.
+permissions-site-notification-desc = Los sitios web de darréu solicitaron unviate avisos, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves de permitir avisos.
+permissions-site-notification-disable-desc = Esto va evitar que cualesquier sitiu que nun tea na llista d'embaxo solicite'l permisu pa unviar avisos. Bloquiar los avisos pue romper les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Axustes - Permisos de llocalización
-    .style = { permissions-window.style }
-permissions-site-location-desc = Los siguientes sitios web solicitaron accesu a la to llocalización. Pues especificar qué sitios web tienen permitío esi accesu. Tamién pues bloquiar nueves solicitúes.
-permissions-site-location-disable-label =
-    .label = Bloquiar solicitúes nueves d'accesu a la llocalización
-permissions-site-location-disable-desc = Esto va evitar que cualquier sitiu web non llistáu arriba solicite permisu p'acceder a la to llocalización. Bloquiar l'accesu a la llocalización pue afeutar a les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Virtual Reality
 
@@ -123,17 +114,13 @@ permissions-site-xr-window =
 permissions-site-camera-window =
     .title = Axustes - Permisos de la cámara
     .style = { permissions-window.style }
-permissions-site-camera-desc = Los siguientes sitios web solicitaron accesu a la to cámara. Pues especificar qué sitios web tienen permitío esi accesu. Tamién pues bloquiar nueves solicitúes.
+permissions-site-camera-desc = Los sitios web de darréu solicitaron l'accesu a la cámara, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves d'accesu a la cámara.
 permissions-site-camera-disable-label =
     .label = Bloquiar solicitúes nueves d'accesu a la cámara
-permissions-site-camera-disable-desc = Esto va evitar que cualquier sitiu web non llistáu arriba solicite permisu p'acceder a la to cámara. Bloquiar l'accesu a la cámara pue afeutar a les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Axustes - Permisos del micrófonu
     .style = { permissions-window.style }
-permissions-site-microphone-desc = Los sitios web de darréu solicitaron l'accesu al micrófonu. Pues especificar los sitios web que tienen permisu p'acceder a elli. Tamién pues bloquiar les solicitúes nueves que pidan l'accesu al micrófonu.
-permissions-site-microphone-disable-label =
-    .label = Bloquiar solicitúes nueves d'accesu al micrófonu
-permissions-site-microphone-disable-desc = Esto va evitar que cualquier sitiu web non llistáu arriba solicite permisu p'acceder al to micrófonu. Bloquiar l'accesu al micrófonu pue afeutar a les carauterístiques de dalgunos sitios web.
+permissions-site-microphone-desc = Los sitios web de darréu solicitaron l'accesu al micrófonu, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves d'accesu al micrófonu.
