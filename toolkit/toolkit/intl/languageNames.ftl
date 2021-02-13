@@ -176,6 +176,7 @@ language-name-st = 南索托语
 language-name-su = 苏丹语
 language-name-sv = 瑞典语
 language-name-sw = 斯瓦希里语
+language-name-szl = 西里西亚语
 language-name-ta = 泰米尔语
 language-name-te = 泰卢固语
 language-name-tg = 塔吉克语

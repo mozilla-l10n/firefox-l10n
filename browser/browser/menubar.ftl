@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = 最近关闭的标签页
 menu-history-undo-window-menu =
     .label = 最近关闭的窗口
+menu-history-reopen-all-tabs = 重新打开所有标签页
+menu-history-reopen-all-windows = 重新打开所有窗口
 
 ## Bookmarks Menu
 
