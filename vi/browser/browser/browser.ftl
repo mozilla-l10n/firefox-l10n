@@ -342,6 +342,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Đang phát
 browser-tab-audio-muted = Đã tắt tiếng
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ĐANG PHÁT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ĐÃ TẮT TIẾNG
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = TỰ ĐỘNG PHÁT BỊ CHẶN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = HÌNH TRONG HÌNH
 
 ## Bookmarks toolbar items
 

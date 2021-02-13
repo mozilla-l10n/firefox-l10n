@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Quản lý lịch sử
+appmenu-reopen-all-tabs = Mở lại tất cả các thẻ
+appmenu-reopen-all-windows = Mở lại tất cả các cửa sổ
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Kiểm tra cập nhật…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Tùy biến thanh công cụ…
+appmenu-developer-tools-subheader = Công cụ của trình duyệt

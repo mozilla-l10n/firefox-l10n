@@ -38,6 +38,11 @@ printui-scale-pcent = Tỷ lệ
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = In hai mặt
 printui-duplex-checkbox = In trên cả hai mặt của giấy
+printui-two-sided-printing-off = Tắt
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Lật cạnh bên
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Lật cạnh trên
 # Section title for miscellaneous print options
 printui-options = Tùy chọn
 printui-headers-footers-checkbox = In đầu trang và chân trang

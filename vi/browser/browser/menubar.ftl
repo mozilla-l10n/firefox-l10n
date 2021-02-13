@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Thẻ mới đóng gần đây
 menu-history-undo-window-menu =
     .label = Các cửa sổ mới đóng
+menu-history-reopen-all-tabs = Mở lại tất cả các thẻ
+menu-history-reopen-all-windows = Mở lại tất cả các cửa sổ
 
 ## Bookmarks Menu
 
