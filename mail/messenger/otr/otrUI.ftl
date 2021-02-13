@@ -39,6 +39,9 @@ state-unverified = Trenutni pogovor je šifriran, vendar ni zaseben, saj istovet
 # Variables:
 #   $name (String) - the screen name of a chat contact person
 state-private = Istovetnost stika { $name } je preverjena. Trenutni pogovor je šifriran in zaseben.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+state-finished = Stik { $name } je končal šifriran pogovor z vami; storite enako tudi vi.
 state-not_private-label = Nezavarovano
 state-unverified-label = Nepreverjeno
 state-private-label = Zasebno
