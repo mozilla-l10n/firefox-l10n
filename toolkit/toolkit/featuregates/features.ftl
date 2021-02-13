@@ -48,7 +48,7 @@ experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = A adição de um construtor à interface <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, assim como uma variedade de alterações relacionadas, possibilitam criar diretamente novas folhas de estilo sem precisar adicionar a folha ao HTML. Isso facilita muito criar folhas de estilo reusáveis para uso com <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consulte mais detalhes em <a data-l10n-name="bugzilla">bug 1520690</a>.
 experimental-features-devtools-color-scheme-simulation =
-    .label = Developer Tools: Simulação de esquema de cores
+    .label = Ferramentas de desenvolvimento: Simulação de esquema de cores
 experimental-features-devtools-color-scheme-simulation-description = Adiciona uma opção para simular diferentes esquemas de cores, permitindo testar consultas de mídia <a data-l10n-name="mdn-preferscolorscheme">@prefers-color-scheme</a>. O uso desta consulta de mídia permite que sua folha de estilo responda à preferência do usuário de uma interface de usuário clara ou escura. Este recurso permite que você teste seu código sem precisar alterar configurações em seu navegador (ou sistema operacional, se o navegador seguir uma configuração de esquema de cores do sistema todo). Consulte mais detalhes em <a data-l10n-name="bugzilla1">bug 1550804</a> e <a data-l10n-name="bugzilla2">bug 1137699</a>.
 experimental-features-devtools-execution-context-selector =
     .label = Developer Tools: Seletor de contexto de execução

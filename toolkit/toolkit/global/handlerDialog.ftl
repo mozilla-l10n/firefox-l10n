@@ -49,8 +49,8 @@ chooser-dialog-description = Escolha um aplicativo para abrir o link do tipo { $
 chooser-dialog-remember = Sempre usar este aplicativo para abrir links do tipo <strong>{ $scheme }</strong>
 chooser-dialog-remember-extra =
     { PLATFORM() ->
-        [windows] Pode ser alterado nas opções do { -brand-short-name }’s.
-       *[other] Pode ser alterado nas preferências do { -brand-short-name }’s.
+        [windows] Pode ser alterado nas opções do { -brand-short-name }.
+       *[other] Pode ser alterado nas preferências do { -brand-short-name }.
     }
 choose-other-app-description = Escolher outro aplicativo
 choose-app-btn =
