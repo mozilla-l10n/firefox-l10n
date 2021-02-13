@@ -95,3 +95,6 @@ perftools-thread-dns-resolver =
 ## preferences are true.
 
 -profiler-brand-name = Perfilador Firefox
+perftools-onboarding-message = <b>Novetat</b> { -profiler-brand-name } es ara integ{ -profiler-brand-name }rat a las aisinas de desvolopaire. <a>Ne saber mai</a> a prepaus d’aquesta aisina novèla.
+perftools-onboarding-close-button =
+    .aria-label = Tampar lo messatge d’acuèlh

@@ -39,6 +39,7 @@ printui-scale-pcent = Escala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Imprimir rècto verso
 printui-duplex-checkbox = Imprimir los dos costats
+printui-two-sided-printing-off = Desactivat
 # Section title for miscellaneous print options
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprimir las entèstas e los pès de pagina
