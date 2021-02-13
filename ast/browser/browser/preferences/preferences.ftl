@@ -582,13 +582,26 @@ search-restore-default =
 search-remove-engine =
     .label = Quitar
     .accesskey = Q
+search-add-engine =
+    .label = Amestar
+    .accesskey = A
 search-find-more-link = Atopar más motores de busca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pallabra clave duplicada
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Escoyesti una pallabra clave qu'anguaño yá usa «{ $name }». Esbilla otra, por favor.
+search-keyword-warning-bookmark = Escoyesti una pallabra clave qu'anguaño yá usa otru marcador. Esbilla otra, por favor.
 
 ## Containers Section
 
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Volver a Opciones
+           *[other] Volver a Preferencies
+        }
 containers-header = Contenedores de llingüetes
 containers-add-button =
     .label = Amestar un contenedor nuevu
@@ -681,6 +694,10 @@ sync-engine-logins-passwords =
     .label = Anicios de sesión y contraseñes
     .tooltiptext = Los anicios de sesión y contraseñes guardaes
     .accesskey = A
+sync-engine-addresses =
+    .label = Señes
+    .tooltiptext = Les direiciones postales que guardesti (namás n'escritoriu)
+    .accesskey = S
 sync-engine-creditcards =
     .label = Tarxetes de creitu
     .tooltiptext = Los nomes, les dates de caducidá y los númberos (namás nel escritoriu)
