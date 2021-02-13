@@ -223,6 +223,8 @@ menu-history-undo-menu =
     .label = Naposledy zavřené panely
 menu-history-undo-window-menu =
     .label = Naposledy zavřená okna
+menu-history-reopen-all-tabs = Znovu otevřít všechny panely
+menu-history-reopen-all-windows = Znovu otevřít všechna okna
 
 ## Bookmarks Menu
 
