@@ -176,6 +176,7 @@ language-name-st = Nam Sotho
 language-name-su = Sunda
 language-name-sv = Thụy Điển
 language-name-sw = Swahili
+language-name-szl = Silesia
 language-name-ta = Tamil
 language-name-te = Telugu
 language-name-tg = Tajik
