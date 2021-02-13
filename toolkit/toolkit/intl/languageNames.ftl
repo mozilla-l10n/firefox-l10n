@@ -176,6 +176,7 @@ language-name-st = Σόθο, Νότια
 language-name-su = Σουνδανική
 language-name-sv = Σουηδική
 language-name-sw = Σουαχίλι
+language-name-szl = Σιλεσιανά
 language-name-ta = Ταμίλ
 language-name-te = Τελούγκου
 language-name-tg = Τατζίκ
