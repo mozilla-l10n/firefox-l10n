@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Reproduciendo
 browser-tab-audio-muted = Mudo
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = JUGANDO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = MUDO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = REPRODUCCIÖN AUTOMÄTICA BLOQUEADA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## Bookmarks toolbar items
 
