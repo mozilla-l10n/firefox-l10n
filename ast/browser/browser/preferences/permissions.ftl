@@ -5,57 +5,43 @@
 permissions-window =
     .title = Esceiciones
     .style = width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Direición del sitiu web
     .accesskey = D
-
 permissions-block =
     .label = Bloquiar
     .accesskey = B
-
 permissions-session =
     .label = Permitir na sesión
     .accesskey = s
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-site-name =
     .label = Sitiu web
-
 permissions-status =
     .label = Estáu
-
 permissions-remove =
     .label = Desaniciar sitiu web
     .accesskey = R
-
 permissions-remove-all =
     .label = Desaniciar tolos sitios web
     .accesskey = e
-
 permissions-button-cancel =
     .label = Encaboxar
     .accesskey = E
-
 permissions-button-ok =
     .label = Guardar cambeos
     .accesskey = G
-
 permissions-searchbox =
     .placeholder = Guetar sitiu web
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquiar
 permissions-capabilities-prompt =
     .label = Entrugar siempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
@@ -70,12 +56,14 @@ permissions-invalid-uri-label = Por favor, introduz un nome de host válidu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-desc = Desactivesti les proteiciones nestos sitios web.
+
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Esceiciones: Cookies y datos del sitiu
+    .title = Esceiciones - Cookies y datos de los sitios
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Pues especificar qué sitios web puen o nun puen usar siempre cookies y datos del sitiu.  Escribi la direición exauta del sitiu que quies xestionar y fai clic en Bloquiar, Permitir nesta sesión o Permitir.
+permissions-exceptions-cookie-desc = Pues especificar los sitios web que siempres o enxamás van tener permisu pa usar cookies y datos de los sitios. Teclexa la direición exauta de los sitios que quies xestionar y dempués calca «Bloquiar», «Permitir nesta sesión» o «Permitir»
 
 ## Exceptions - Pop-ups
 
@@ -89,7 +77,6 @@ permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir 
 permissions-exceptions-saved-logins-window =
     .title = Esceiciones - Ingresos guardaos
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Nun van guardase los anicios de sesión pa los sitios web de darréu
 
 ## Exceptions - Add-ons
 
@@ -98,14 +85,17 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Pues especificar dende qué sitios web ta permitío instalar complementos. Escribi la direición exauta del sitiu que quies permitir y calca Permitir.
 
-## Exceptions - Autoplay Media
-
 ## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = Axustes - Reproducción automática
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Equí pues xestionar los sitios que nun siguen los tos axustes predeterminaos de reproducción.
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
-    .title = Axustes - Permisos de notificaciones
+    .title = Axustes - Permisos d'avisos
     .style = { permissions-window.style }
 permissions-site-notification-desc = Los siguientes sitios web solicitaron unviate notificaciones. Pues especificar qué sitios web tienen permitío esi accesu. Tamién pues bloquiar nueves solicitúes.
 permissions-site-notification-disable-label =
@@ -123,6 +113,10 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Esto va evitar que cualquier sitiu web non llistáu arriba solicite permisu p'acceder a la to llocalización. Bloquiar l'accesu a la llocalización pue afeutar a les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Virtual Reality
+
+permissions-site-xr-window =
+    .title = Axustes - Permisos de realidá virtual
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
