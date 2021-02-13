@@ -369,8 +369,9 @@ update-application-manual =
     .accesskey = e
 update-application-warning-cross-user-setting = Esti axuste va aplicase a toles cuentes de Windows y perfiles de { -brand-short-name } qu'usen esta instalación de { -brand-short-name }.
 update-application-use-service =
-    .label = Usar serviciu en segundu planu pa instalar los anovamientos
+    .label = Usar un serviciu en segundu planu pa instalar los anovamientos
     .accesskey = p
+update-setting-write-failure-title = Hebo un fallu al guardar les preferencies d'anovamientu
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -399,7 +400,7 @@ performance-allow-hw-accel =
     .accesskey = h
 performance-limit-content-process-option = Llende de procesos de conteníu
     .accesskey = L
-performance-limit-content-process-enabled-desc = Más procesos de conteníu puen ameyorar el rindimientu al usar múltiples llingüetes, más tamién va usar más memoria.
+performance-limit-content-process-enabled-desc = Más procesos de conteníu puen ameyorar el rindimientu al usar múltiples llingüetes, más tamién van usar más memoria.
 performance-limit-content-process-blocked-desc = Modificar el númberu de procesos de conteníu namás ye posible col { -brand-short-name } multiprocesu. <a data-l10n-name="learn-more">Deprender más tocante a cómo comprobar si'l multiprocesu ta activáu</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -428,6 +429,9 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Activar los controles de videu nel mou imaxe sobre imaxe
     .accesskey = A
 browsing-picture-in-picture-learn-more = Deprender más
+browsing-media-control =
+    .label = Controlar el conteníu multimedia pel tecláu, auriculares o interfaz virtual
+    .accesskey = v
 browsing-media-control-learn-more = Deprender más
 browsing-cfr-recommendations =
     .label = Aconseyar estensiones mentanto restoles
@@ -647,6 +651,7 @@ sync-signedin-unverified = { $email } ta ensin verificar.
 
 prefs-syncing-on = Sincronización: ACTIVADA
 prefs-syncing-off = Sincronización: DESACTIVADA
+prefs-sync-offer-setup-label = Sincroniza los marcadores, les llingüetes, l'historial, les contraseñes, los complementos y les preferencies en tolos preseos de to.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar agora
     .accesskeynotsyncing = a
@@ -961,6 +966,7 @@ tracking-manage-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = Permisos
+permissions-location = Allugamientu
 permissions-location-settings =
     .label = Axustes…
     .accesskey = t
