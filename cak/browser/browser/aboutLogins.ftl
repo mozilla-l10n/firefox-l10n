@@ -84,6 +84,7 @@ login-item-new-login-title = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
 login-item-edit-button = Nuk'b'äl
 about-logins-login-item-remove-button = Tiyuj
 login-item-origin-label = Ajk'amaya'l Ochochib'äl
+login-item-tooltip-message = Tatz'eta' chi nujäm ri' rik'in ri rochochib'al ruxaq ajk'amaya'l, akuchi' natikirisaj molojri'ïl.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Rub'i' okisanel
@@ -304,6 +305,12 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Xk'is
 about-logins-import-dialog-error-title = Tijik Sachoj
+about-logins-import-dialog-error-conflicting-values-title = Jalajöj Retal K'ayew richin Nitikirisaj Molojri'ïl
+about-logins-import-dialog-error-conflicting-values-description = Achi'el: jalajöj kib'i' okisanela', ewan taq tzij, URLs, ch'aqa' chik richin jun rutikirisaxik molojri'ïl.
+about-logins-import-dialog-error-file-format-title = K'ayewal rik'in ri Rub'anikil Yakb'äl
 about-logins-import-dialog-error-learn-more = Tetamäx juley
 about-logins-import-dialog-error-try-again = Titojtob'ëx Chik…
 about-logins-import-dialog-error-cancel = Tiq'at
+
+## Logins import report page
+
