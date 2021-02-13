@@ -550,8 +550,8 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Ocultar Painel de Favoritos
-           *[other] Ver painel de favoritos
+            [true] Ocultar painel de favoritos
+           *[other] Exibir painel de favoritos
         }
 bookmarks-tools-toolbar-visibility =
     .label =

@@ -108,7 +108,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksMenuButton2.label         "Menu de favoritos">
 <!ENTITY bookmarksMenuButton.other.label    "Outros favoritos">
 <!ENTITY bookmarksMenuButton.mobile.label   "Favoritos do celular">
-<!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
+<!ENTITY viewBookmarksSidebar2.label        "Exibir painel de favoritos">
 <!ENTITY hideBookmarksSidebar.label         "Ocultar Painel de Favoritos">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
 <!ENTITY hideBookmarksToolbar.label         "Ocultar Barra de Favoritos">
@@ -144,10 +144,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
 
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
+
 <!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
-<!ENTITY appMenuHistory.viewSidebar.label "Ver painel do histórico">
-<!ENTITY appMenuHistory.hideSidebar.label "Ocultar painel de histórico">
+<!ENTITY appMenuHistory.viewSidebar.label "Exibir painel do histórico">
+<!ENTITY appMenuHistory.hideSidebar.label "Ocultar painel do histórico">
 <!ENTITY appMenuHistory.recentHistory.label "Histórico recente">
 <!ENTITY appMenuHelp.label "Ajuda">
 
@@ -176,7 +177,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuRemoteTabs.signintosync.label "Entrar no &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Ativar o &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerenciar dispositivos…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Ver abas sincronizadas no painel lateral">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Exibir abas sincronizadas no painel lateral">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Ocultar painel de abas sincronizadas">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar outro dispositivo">
 
