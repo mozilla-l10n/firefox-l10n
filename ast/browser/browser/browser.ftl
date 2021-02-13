@@ -93,6 +93,10 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Bloquiesti l'almacenamientu permanente pa esti sitiu.
 urlbar-popup-blocked =
     .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bloquiesti la reproducción automática con soníu nesti sitiu web
+urlbar-midi-blocked =
+    .tooltiptext = Bloquiesti l'accesu MIDI pa esti sitiu web.
 urlbar-install-blocked =
     .tooltiptext = Bloquiesti la instalación de complementos pa esti sitiu web.
 # Variables
@@ -166,6 +170,11 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = A
 bookmark-panel-done-button =
     .label = Fecho
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
@@ -187,6 +196,7 @@ identity-https-only-dropdown-off =
     .label = Non
 identity-https-only-dropdown-off-temporarily =
     .label = Non, temporalmente
+identity-https-only-info-no-upgrade = Nun pue anovase la conexón a HTTPS.
 identity-permissions =
     .value = Permisos
 identity-permissions-storage-access-header = Cookies ente sitios
