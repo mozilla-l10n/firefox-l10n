@@ -40,6 +40,11 @@ printui-scale-pcent = Маштаб
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Двухбаковы друк
 printui-duplex-checkbox = Друкаваць на абедзвюх старанах
+printui-two-sided-printing-off = Выключаны
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Перавярнуць па бакавым краі
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Перавярнуць па верхнім краі
 # Section title for miscellaneous print options
 printui-options = Налады
 printui-headers-footers-checkbox = Друкаваць загалоўкі і калантытулы
