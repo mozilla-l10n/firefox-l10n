@@ -27,6 +27,8 @@ webrtc-camera-unmuted =
     .title = Apagar la cámara
 webrtc-camera-muted =
     .title = Prender la cámara
+webrtc-minimize =
+    .title = Indicador de minimizar
 # This string will display as a tooltip on supported systems where we show
 # device sharing state in the OS notification area. We do not use these strings
 # on macOS, as global menu bar items do not have native tooltips.
