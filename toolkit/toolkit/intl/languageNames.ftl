@@ -176,6 +176,7 @@ language-name-st = Jižní sotština
 language-name-su = Sundština
 language-name-sv = Švédština
 language-name-sw = Swahilština
+language-name-szl = Slezština
 language-name-ta = Tamilština
 language-name-te = Telugština
 language-name-tg = Tádžičtina
