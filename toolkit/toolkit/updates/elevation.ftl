@@ -3,3 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # This is temporary until bug 1521632 is fixed
 
+elevation-update-wizard =
+    .title = Anovamientu de software
+elevation-details-link-label =
+    .value = Detalles
+elevation-error-manual =
+    Pues anovar { -brand-short-name } a mano visitando esti enllaz
+    y baxando la última versión:
+elevation-finished-background = Anovamientu:
+elevation-more-elevated =
+    Esti anovamientu rique privilexos d'alministrador. L'anovamientu va
+    instalase la próxima vegada qu'anicies { -brand-short-name }. Pues reaniciar
+    { -brand-short-name } agora, siguir trabayando y reaniciar dempués o refugar
+    esti anovamientu.
