@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Nylig lukkede faner
 menu-history-undo-window-menu =
     .label = Nylig lukkede vinduer
+menu-history-reopen-all-tabs = Åpne alle faner på nytt
+menu-history-reopen-all-windows = Åpne alle vinduer på nytt
 
 ## Bookmarks Menu
 
