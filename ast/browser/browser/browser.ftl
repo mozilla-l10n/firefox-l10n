@@ -49,6 +49,10 @@ browser-main-window-title = { -brand-full-name }
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Xestionar la compartición de les ventanes o la pantalla col sitiu
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Atroxar datos nel almacenamientu persistente
 urlbar-search-tips-confirm = Val, entendílo
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
@@ -102,6 +106,8 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-remove-from-urlbar =
+    .label = Quitar de la barra de direiciones
 
 ## Page Action menu
 
@@ -207,6 +213,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = IMAXE SOBRE IMAXE
 
 ## Bookmarks toolbar items
 
@@ -272,6 +280,9 @@ pointerlock-warning-no-domain = Esti documentu tien el control del punteru. Prim
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Deprender más
+    .accesskey = D
 
 ## Bookmarks panels, menus and toolbar
 
