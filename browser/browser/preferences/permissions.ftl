@@ -22,6 +22,12 @@ permissions-site-name =
     .label = Sitiu web
 permissions-status =
     .label = Estáu
+permissions-remove =
+    .label = Quitar el sitiu web
+    .accesskey = Q
+permissions-remove-all =
+    .label = Quitar tolos sitios web
+    .accesskey = u
 permissions-button-cancel =
     .label = Encaboxar
     .accesskey = E
@@ -70,6 +76,7 @@ permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir 
 permissions-exceptions-saved-logins-window =
     .title = Esceiciones - Anicios de sesión guardaos
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Nun van guardase los anicios de sesión de los sitios web de darréu
 
 ## Exceptions - Add-ons
 
@@ -91,16 +98,24 @@ permissions-site-notification-window =
     .title = Axustes - Permisos d'avisos
     .style = { permissions-window.style }
 permissions-site-notification-desc = Los sitios web de darréu solicitaron unviate avisos, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves de permitir avisos.
+permissions-site-notification-disable-label =
+    .label = Bloquiar les solicitúes nueves pa permitir los avisos
 permissions-site-notification-disable-desc = Esto va evitar que cualesquier sitiu que nun tea na llista d'embaxo solicite'l permisu pa unviar avisos. Bloquiar los avisos pue romper les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Location
 
+permissions-site-location-disable-label =
+    .label = Bloquiar les solicitúes nueves p'acceder al allugamientu
+permissions-site-location-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder al allugamientu. Bloquiar l'accesu al allugamientu pue romper les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
     .title = Axustes - Permisos de realidá virtual
     .style = { permissions-window.style }
+permissions-site-xr-disable-label =
+    .label = Bloquiar les solicitúes nueves que pidan acceder a los preseos de realidá virtual
+permissions-site-xr-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder a los preseos de realidá virtual. Bloquiar l'accesu a los preseos de realidá virtual pue romper les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Camera
 
@@ -110,6 +125,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = Los sitios web de darréu solicitaron l'accesu a la cámara, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves d'accesu a la cámara.
 permissions-site-camera-disable-label =
     .label = Bloquiar les solicitúes nueves p'acceder a la cámara
+permissions-site-camera-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder a la cámara. Bloquiar l'accesu a la cámara pue romper les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Microphone
 
@@ -119,3 +135,4 @@ permissions-site-microphone-window =
 permissions-site-microphone-desc = Los sitios web de darréu solicitaron l'accesu al micrófonu, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves d'accesu al micrófonu.
 permissions-site-microphone-disable-label =
     .label = Bloquiar les solicitúes nueves p'acceder al micrófonu
+permissions-site-microphone-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder al micrófonu. Bloquiar l'accesu al micrófonu pue romper les carauterístiques de dalgunos sitios web.
