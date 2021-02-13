@@ -18,7 +18,7 @@ cfr-doorhanger-extension-ok-button = Amestar agora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fixar esta llingüeta
     .accesskey = F
-cfr-doorhanger-extension-never-show-recommendation = Nun amosame esta recomendación
+cfr-doorhanger-extension-never-show-recommendation = Nun amosar esta recomendación
     .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Deprender más
 # This string is used on a new line below the add-on name
