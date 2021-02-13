@@ -962,6 +962,7 @@ content-blocking-tracking-protection-option-all-windows =
 content-blocking-option-private =
     .label = Namás nes ventanes privaes
     .accesskey = p
+content-blocking-tracking-protection-change-block-list = Camudar la llista de bloqueos
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
