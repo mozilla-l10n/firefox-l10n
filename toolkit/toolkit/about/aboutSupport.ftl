@@ -213,6 +213,8 @@ support-third-party-modules-folder-icon =
     .title = Opne filplassering …
 support-third-party-modules-down-icon =
     .title = Vis detaljert informasjon
+support-third-party-modules-up-icon =
+    .title = Skjul detaljert informasjon
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Nyleg attlatne faner
 menu-history-undo-window-menu =
     .label = Nyleg attlatne vindauge
+menu-history-reopen-all-tabs = Opne alle faner på nytt
+menu-history-reopen-all-windows = Opne alle vindauge på nytt
 
 ## Bookmarks Menu
 
