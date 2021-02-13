@@ -356,6 +356,8 @@ browser-tab-audio-playing2 = SPELAR
 browser-tab-audio-muted2 = DEMPA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = AUTOAVSPELING BLOKKERT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = BILDE-I-BILDE
 
 ## Bookmarks toolbar items
 
