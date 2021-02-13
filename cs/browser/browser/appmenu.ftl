@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Správce historie
+appmenu-reopen-all-tabs = Znovu otevřít všechny panely
+appmenu-reopen-all-windows = Znovu otevřít všechna okna
+
 ## Help panel
 
 appmenu-help-header =
@@ -171,3 +178,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Zkontrolovat aktualizace…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Nastavit lišty
+appmenu-developer-tools-subheader = Nástroje prohlížeče

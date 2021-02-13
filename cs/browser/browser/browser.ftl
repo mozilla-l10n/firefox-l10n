@@ -373,6 +373,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Přehrávání
 browser-tab-audio-muted = Ztlumeno
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = PŘEHRÁVÁ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ZTLUMENO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ZABLOKOVÁNO AUTOMATICKÉ PŘEHRÁVÁNÍ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = OBRAZ V OBRAZE
 
 ## Bookmarks toolbar items
 

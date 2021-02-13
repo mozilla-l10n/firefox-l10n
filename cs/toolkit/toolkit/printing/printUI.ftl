@@ -40,6 +40,11 @@ printui-scale-pcent = Měřítko
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Oboustranný tisk
 printui-duplex-checkbox = Vytisknout na obě strany
+printui-two-sided-printing-off = Vypnuto
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Překlopit před boční hranu list (jako knihu)
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Překlopit před horní hranu listu (jako kalendář)
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Vytisknout záhlaví a zápatí
