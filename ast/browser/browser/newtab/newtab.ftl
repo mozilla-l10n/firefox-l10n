@@ -12,6 +12,7 @@ newtab-page-title = Llingüeta nueva
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-shortcut-header = Atayu nuevu
 newtab-topsites-title-label = Títulu
 newtab-topsites-url-label = URL
 newtab-topsites-url-validation = Ríquese una URL válida
@@ -73,7 +74,11 @@ newtab-label-recommended = Tendencia
 
 newtab-section-menu-remove-section = Quitar la seición
 newtab-section-menu-collapse-section = Recoyer la seición
+newtab-section-menu-expand-section = Espander la seición
 newtab-section-menu-manage-section = Xestionar la seición
+newtab-section-menu-manage-webext = Xestionar la estensión
+newtab-section-menu-add-topsite = Amestar un sitiu principal
+newtab-section-menu-add-search-engine = Amestar un motor de busca
 newtab-section-menu-move-up = Xubir
 newtab-section-menu-move-down = Baxar
 newtab-section-menu-privacy-notice = Avisu de privacidá
@@ -110,3 +115,9 @@ newtab-error-fallback-info = Meca, asocedió daqué malo al cargar esti contení
 
 newtab-custom-recent-title = Actividá recién
 newtab-custom-recent-subtitle = Una esbilla de los sitios y el conteníu de recién
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Cachos d'información
+newtab-custom-snippets-subtitle = Conseyos y noticies de { -vendor-short-name } y { -brand-product-name }
