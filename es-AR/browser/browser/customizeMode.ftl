@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Restaurar predeterminadas
-customize-mode-menu-and-toolbars-header = Arrastre los elementos favoritos a la barra de herramientas o al menú flotante.
+customize-mode-menu-and-toolbars-header = Arrastrar los elementos favoritos a la barra de herramientas o al menú flotante.
 customize-mode-overflow-list-title = Menú de desborde
 customize-mode-uidensity =
     .label = Densidad
