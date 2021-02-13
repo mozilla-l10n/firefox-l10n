@@ -18,6 +18,7 @@ about-config-page-title = Napredne postavke
 about-config-search-input1 =
     .placeholder = Traži ime postavke
 about-config-show-all = Prikaži sve
+about-config-show-only-modified = Prikaži samo izmijenjene postavke
 about-config-pref-add-button =
     .title = Dodaj
 about-config-pref-toggle-button =
