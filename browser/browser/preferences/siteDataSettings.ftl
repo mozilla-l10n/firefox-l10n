@@ -52,5 +52,6 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Quitar
+site-data-removing-header = Desaniciu de les cookies y los datos de los sitios
 site-data-removing-desc = Quitar les cookies y los datos de los sitios pue zarrate la sesión nos sitios web. ¿De xuru que quies facer los cambeos?
 site-data-removing-table = Van quitase les cookies y los datos de los sitios web de darréu
