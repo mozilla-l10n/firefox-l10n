@@ -63,6 +63,11 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Раскрыць больш звестак
+profiler-popup-description-title =
+    .value = Запісвайце, аналізуйце, дзяліцеся
+profiler-popup-description = Супольна працуйце над праблемамі прадукцыйнасці, публікуючы профілі і дзелячыся імі з сваёй камандай.
 profiler-popup-learn-more = Падрабязней
 profiler-popup-settings =
     .value = Налады
@@ -81,6 +86,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## History panel
+
 
 ## Help panel
 
@@ -137,3 +145,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Праверыць наяўнасць абнаўленняў…
+
+## More Tools
+
