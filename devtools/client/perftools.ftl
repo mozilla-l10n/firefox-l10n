@@ -102,3 +102,8 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 -profiler-brand-name = Firefox Profiler
+perftools-onboarding-message = <b>全新</b>: 現在起，已將 { -profiler-brand-name } 整合進開發者工具。了解這個全新強大工具的<a>更多資訊</a>。
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = （短時間內您還是可以透過<a>{ options-context-advanced-settings }</a>使用原本的效能面板）
+perftools-onboarding-close-button =
+    .aria-label = 關閉功能介紹訊息
