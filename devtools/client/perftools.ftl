@@ -25,9 +25,7 @@ perftools-heading-local-build = Lokaler Build
 
 ##
 
-perftools-description-intro =
-    Aufnahmen öffnen <a>profiler.firefox.com</a> in einem neuen Tab. Alle Daten werden lokal 
-    gespeichert, können aber zum Teilen hochgeladen werden.
+perftools-description-intro = Aufnahmen öffnen <a>profiler.firefox.com</a> in einem neuen Tab. Alle Daten werden lokal gespeichert, können aber zum Teilen hochgeladen werden.
 perftools-description-local-build =
     Wenn Sie einen auf diesem Computer selbst kompilierten Build untersuchen,
     fügen Sie bitte das objdir des Build zur folgenden Liste hinzu, sodass es
