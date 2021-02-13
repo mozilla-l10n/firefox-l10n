@@ -68,7 +68,7 @@ deniedPortAccess-title = Esta direición ta torgada
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Eh… Tenemos problemes p'atopar el sitiu.
 fileNotFound-title = Nun s'atopó'l ficheru
-fileAccessDenied-title = Negose l'accesu al ficheru
+fileAccessDenied-title = Negóse l'accesu al ficheru
 generic-title = Meca.
 captivePortal-title = Aniciu de sesión na rede
 # "Hmm" is a sound made when considering or puzzling over something.

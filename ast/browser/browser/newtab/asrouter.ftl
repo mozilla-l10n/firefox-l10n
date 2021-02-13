@@ -86,6 +86,8 @@ cfr-whatsnew-button =
     .label = Novedaes
     .tooltiptext = Novedaes
 cfr-whatsnew-panel-header = Novedaes
+cfr-whatsnew-fx70-title = Agora { -brand-short-name } llucha más pola to privacidá
+cfr-whatsnew-tracking-protect-title = Protéxite de los rastrexadores
 cfr-whatsnew-lockwise-take-title = Lleva les contraseñes contigo
 
 ## Search Bar
@@ -94,6 +96,7 @@ cfr-whatsnew-searchbar-title = Teclexa menos, atopa más cola barra direiciones
 
 ## Search bar
 
+cfr-whatsnew-searchbar-icon-alt-text = Iconu de lente d'aumentu
 
 ## Picture-in-Picture
 
@@ -105,6 +108,8 @@ cfr-whatsnew-permission-prompt-cta = Deprender más
 
 ## Fingerprinter Counter
 
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Xeneradores de buelgues
 
 ## Bookmark Sync
 
@@ -183,9 +188,11 @@ cfr-whatsnew-lockwise-icon-alt = Iconu de { -lockwise-brand-short-name }
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-icon-alt = Iconu d'imaxe sobre imaxe
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-icon-alt = Iconu d'escudu
 
 ## Better PDF message
 
@@ -213,6 +220,7 @@ cfr-doorhanger-fission-secondary-button = Deprender más
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Más controles multimedia
 
 ## What's new: Search shortcuts
 
