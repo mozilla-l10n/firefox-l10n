@@ -209,7 +209,7 @@ about-webrtc-lost-label =
 #  $packets (Number) - The number of packets sent.
 about-webrtc-sent-label =
     { $packets ->
-        [one] Sendte { $packets } pakke
+        [one] Sendt { $packets } pakke
        *[other] Sendte { $packets } pakker
     }
 # Jitter is the variance in the arrival time of packets.
