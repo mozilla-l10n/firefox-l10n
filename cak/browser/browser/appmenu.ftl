@@ -17,6 +17,16 @@ appmenuitem-new-window =
     .label = K'ak'a' tzuwäch
 appmenuitem-new-private-window =
     .label = K'ak'a' ichinan tzuwäch
+appmenuitem-passwords =
+    .label = Ewan taq tzij
+appmenuitem-extensions-and-themes =
+    .label = Taq K'amal chuqa' taq Wachinel
+appmenuitem-exit =
+    .label = Tel
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Taq nuk'ulem
 
 ## Zoom and Fullscreen Controls
 
@@ -68,6 +78,9 @@ profiler-popup-discard-button =
 profiler-popup-capture-button =
     .label = Chapoj
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -115,4 +128,7 @@ appmenu-help-not-deceptive =
     .accesskey = q
 
 ##
+
+
+## More Tools
 
