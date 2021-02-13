@@ -381,10 +381,10 @@ addon-badge-recommended2 =
     .title = { -brand-product-name } preporučuje samo proširenja koja udovoljavaju našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-recommended2.title }
 addon-badge-line2 =
-    .title = Ovo je službena ekstenzija kojeg su stvorili tvorci { -brand-product-name }a
+    .title = Ovo je službeno proširenje koje su stvorili tvorci { -brand-product-name }a
     .aria-label = { addon-badge-line2.title }
 addon-badge-verified2 =
-    .title = Na ovoj ekstenziji izvršen je pregled udovoljava li našim standardima za sigurnost i performansu
+    .title = Na ovom proširenju izvršen je pregled udovoljava li našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-verified2.title }
 
 ##

@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Nedavno zatvorene kartice
 menu-history-undo-window-menu =
     .label = Nedavno zatvoreni prozori
+menu-history-reopen-all-tabs = Ponovno otvori sve kartice
+menu-history-reopen-all-windows = Ponovno otvori sve prozore
 
 ## Bookmarks Menu
 

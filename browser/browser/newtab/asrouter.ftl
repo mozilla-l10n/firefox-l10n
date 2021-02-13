@@ -215,6 +215,12 @@ cfr-doorhanger-milestone-heading =
         [few] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
        *[other] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
     }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } je blokirao više od <b>{ $blockedCount }</b> programa za praćenje od { DATETIME($date, month: "long", year: "numeric") }!
+        [few] { -brand-short-name } je blokirao više od <b>{ $blockedCount }</b> programa za praćenje od { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } je blokirao više od <b>{ $blockedCount }</b> programa za praćenje od { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Vidi sve
     .accesskey = s
 cfr-doorhanger-milestone-close-button = Zatvori
@@ -300,3 +306,5 @@ cfr-whatsnew-bookmarking-body = Lakše je pratiti tvoje omiljene stranice. { -br
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Sveobuhvatna zaštita od praćenja pomoću međustraničnih kolačića
+cfr-whatsnew-cross-site-tracking-body = Sada možeš uključiti bolju zaštitu od praćenja pomoću kolačića. { -brand-short-name } može izolirati tvoje aktivnosti i podatke na web stranici na kojoj se trenutno nalaziš, tako da se podatci u pregledniku ne mogu dijeliti među web stranicama.
