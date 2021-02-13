@@ -39,6 +39,7 @@ printui-scale-pcent = Skalierung
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Beidseitiger Druck
 printui-duplex-checkbox = Beidseitig bedrucken
+printui-two-sided-printing-off = Aus
 # Section title for miscellaneous print options
 printui-options = Einstellungen
 printui-headers-footers-checkbox = Kopf- und Fußzeilen drucken
