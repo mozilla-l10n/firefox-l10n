@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Arrastra p'abaxo p'amosar l'historial
+           *[other] Calca col botón derechu del mur o arrastra p'abaxo p'amosar l'historial
+        }
 
 ## Back
 
@@ -47,11 +53,17 @@ toolbar-button-forward-2 =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = Anovar
+    .accesskey = r
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Parar
+    .accesskey = P
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -108,6 +120,9 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Copiar la direición de corréu
+    .accesskey = d
 
 ## Media (video/audio) controls
 ##
@@ -142,6 +157,9 @@ main-context-menu-media-play-speed-normal =
 main-context-menu-media-play-speed-fast =
     .label = Rápida (1.25×)
     .accesskey = R
+main-context-menu-media-play-speed-faster =
+    .label = Rapidísima (1.5×)
+    .accesskey = a
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
@@ -166,6 +184,9 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Colar de la pantalla completa
     .accesskey = o
+main-context-menu-image-reload =
+    .label = Anovar la imaxe
+    .accesskey = r
 main-context-menu-image-view =
     .label = Ver la imaxe
     .accesskey = i
@@ -187,9 +208,21 @@ main-context-menu-video-save-as =
 main-context-menu-video-email =
     .label = Unviar el videu per corréu
     .accesskey = a
+main-context-menu-audio-email =
+    .label = Unviar l'audiu per corréu
+    .accesskey = a
+main-context-menu-plugin-play =
+    .label = Activar esti plugin
+    .accesskey = c
+main-context-menu-plugin-hide =
+    .label = Anubrir esti plugin
+    .accesskey = b
 main-context-menu-save-to-pocket =
     .label = Guardar la páxina en { -pocket-brand-name }
     .accesskey = k
+main-context-menu-send-to-device =
+    .label = Unviar la páxina al preséu
+    .accesskey = n
 main-context-menu-view-background-image =
     .label = Ver la imaxe del fondu
     .accesskey = f
@@ -199,6 +232,9 @@ main-context-menu-generate-new-password =
 main-context-menu-keyword =
     .label = Amestar una pallabra clave pa esta busca…
     .accesskey = l
+main-context-menu-link-send-to-device =
+    .label = Unviar l'enllaz al preséu
+    .accesskey = n
 main-context-menu-frame =
     .label = Esti marcu
     .accesskey = m
