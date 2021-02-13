@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = לשוניות שנסגרו לאחרונה
 menu-history-undo-window-menu =
     .label = חלונות שנסגרו לאחרונה
+menu-history-reopen-all-tabs = פתיחת כל הלשוניות מחדש
+menu-history-reopen-all-windows = פתיחת כל החלונות מחדש
 
 ## Bookmarks Menu
 

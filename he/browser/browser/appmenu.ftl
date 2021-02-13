@@ -95,6 +95,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = ניהול היסטוריה
+appmenu-reopen-all-tabs = פתיחת כל הלשוניות מחדש
+appmenu-reopen-all-windows = פתיחת כל החלונות מחדש
+
 ## Help panel
 
 appmenu-help-header =
@@ -150,3 +157,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = בדיקה אחר עדכונים…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = התאמה אישית של סרגל הכלים…
+appmenu-developer-tools-subheader = כלי דפדפן
