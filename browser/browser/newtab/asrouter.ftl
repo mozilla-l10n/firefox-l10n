@@ -104,6 +104,7 @@ cfr-whatsnew-pip-cta = Deprender más
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-body = Agora { -brand-shorter-name } bloquia que los sitios te pidan automáticamente unviate mensaxes emerxentes.
 cfr-whatsnew-permission-prompt-cta = Deprender más
 
 ## Fingerprinter Counter
@@ -120,7 +121,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = Nun vuelvas perder una contraseña
+cfr-doorhanger-sync-logins-header = Nun vuelvas escaecer nin una contraseña
 cfr-doorhanger-sync-logins-body = Atroxa y sincroniza de forma segura les contraseñes en tolos preseos de to.
 cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
@@ -196,6 +197,7 @@ cfr-whatsnew-protections-icon-alt = Iconu d'escudu
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-body = Agora los documentos PDF ábrense direutamente en { -brand-short-name }, asina nun pierdes el fluxu de trabayu.
 
 ## DOH Message
 
