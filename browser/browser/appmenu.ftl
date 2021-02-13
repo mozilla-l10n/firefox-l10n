@@ -98,6 +98,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Mayús+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +156,8 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Verificar si hay actualizaciones...
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Personalizar la barra de herramientas…
