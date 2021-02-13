@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
 page-info-window =
-    .style = width: 700px; min-height: 500px;
+    .style = width: 1024px; min-height: 600px;
 copy =
     .key = C
 menu-copy =
@@ -40,6 +40,8 @@ general-meta-content =
 media-tab =
     .label = Multimedia
     .accesskey = M
+media-location =
+    .value = Allugamientu:
 media-text =
     .value = Testu asociáu:
 media-alt-header =
@@ -135,6 +137,7 @@ general-strict-mode =
     .value = Mou compatible colos estándares
 page-info-security-no-owner =
     .value = Esti sitiu web nun forne la información del propietariu.
+media-select-folder = Esbilla d'una carpeta onde guardar les imáxenes
 media-unknown-not-cached =
     .value = Desconozse (nun ta caché)
 permissions-use-default =
