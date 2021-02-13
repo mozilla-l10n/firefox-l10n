@@ -38,6 +38,10 @@ printui-scale-pcent = 缩放比例
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = 双面打印
 printui-duplex-checkbox = 正反面打印
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = 长边翻转
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = 短边翻转
 # Section title for miscellaneous print options
 printui-options = 选项
 printui-headers-footers-checkbox = 打印页眉和页脚
