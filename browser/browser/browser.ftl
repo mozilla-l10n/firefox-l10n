@@ -180,6 +180,7 @@ bookmark-panel =
 
 identity-connection-not-secure = La conexón nun ye segura
 identity-connection-secure = La conexón ye segura
+identity-connection-internal = Esto ye una páxina segura de { -brand-short-name }.
 identity-connection-file = Esta páxina ta atroxada nel ordenador.
 identity-extension-page = Esta páxina cargóse dende una estensión.
 identity-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures.
@@ -196,21 +197,33 @@ identity-https-only-dropdown-off =
     .label = Non
 identity-https-only-dropdown-off-temporarily =
     .label = Non, temporalmente
+identity-https-only-info-turn-on2 = Activa'l mou de namás HTTPS pa esti sitiu si quies que { -brand-short-name } anueve la conexón cuando seya posible.
 identity-https-only-info-no-upgrade = Nun pue anovase la conexón a HTTPS.
 identity-permissions =
     .value = Permisos
 identity-permissions-storage-access-header = Cookies ente sitios
+identity-permissions-storage-access-hint = Terceros puen usar cookies ente sitios y datos del sitiu mentanto tas nelli.
 identity-permissions-empty = Nun-y concediesti nengún permisu especial a esti sitiu.
 identity-connection-not-secure-security-view = Nun tas conectáu de forma segura a esti sitiu.
 identity-connection-verified = Tas conectáu de forma segura a esti sitiu.
+identity-description-custom-root = Mozilla nun reconoz esti emisor de certificaos. Pue ser que lu amestare'l sistema operativu o un alministrador. <label data-l10n-name="link">Deprender más</label>
+identity-description-insecure = La conexón a esti sitiu nun ye privada. La información (contraseñes o tarxetes de creitu) qu'unvies podríen vela terceros.
 identity-description-weak-cipher-intro = La conexón a esti sitiu web usa un cifráu feble y nun ye privada.
+identity-description-weak-cipher-risk = Terceros puen ver la to información o modificar el comportamientu del sitiu web.
 identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Deprender más</label>
 identity-description-passive-loaded = La conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
 identity-description-passive-loaded-insecure = Esti sitiu web contién conteníu que nun ye seguru (como les imáxenes). <label data-l10n-name="link">Deprender más</label>
+identity-description-passive-loaded-mixed = Magar que { -brand-short-name } bloquió dalgún conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes). <label data-l10n-name="link">Deprender más</label>
 identity-description-active-loaded = Esti sitiu web contién conteníu que nun ye seguru (como los scripts) y la conexón a elli nun ye privada.
 identity-description-active-loaded-insecure = La información que compartas con esti sitiu podríen vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
 identity-learn-more =
     .value = Deprender más
+identity-disable-mixed-content-blocking =
+    .label = Desactivar la proteición pel momentu
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Activar la proteición
+    .accesskey = A
 identity-more-info-link-text =
     .label = Más información
 
