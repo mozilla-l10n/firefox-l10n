@@ -82,12 +82,20 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-add =
+    .aria-label = Amestar esta páxina a Marcadores
+    .accesskey = m
+    .tooltiptext = Amestar esta páxina a Marcadores
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
     .aria-label = Amestar esta páxina a Marcadores
     .accesskey = m
     .tooltiptext = Amestar esta páxina a Marcadores ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = Editar esti marcador
+    .accesskey = m
+    .tooltiptext = Editar esti marcador
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
@@ -100,6 +108,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Abrir l'enllaz nun llingüeta nueva
     .accesskey = l
+main-context-menu-open-link-container-tab =
+    .label = Abrir l'enllaz nuna llingüeta de contenedor nueva
+    .accesskey = r
 main-context-menu-open-link-new-window =
     .label = Abrir l'enllaz nuna ventana nueva
     .accesskey = v
@@ -165,6 +176,9 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Desaxerada (2×)
     .accesskey = s
+main-context-menu-media-loop =
+    .label = Repitición
+    .accesskey = R
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -184,6 +198,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Colar de la pantalla completa
     .accesskey = o
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Imaxe sobre imaxe
+    .accesskey = x
 main-context-menu-image-reload =
     .label = Anovar la imaxe
     .accesskey = r
@@ -202,6 +221,12 @@ main-context-menu-image-save-as =
 main-context-menu-image-email =
     .label = Unviar la imaxe per corréu…
     .accesskey = r
+main-context-menu-image-info =
+    .label = Ver la información de la imaxe
+    .accesskey = f
+main-context-menu-image-desc =
+    .label = Ver la descripción
+    .accesskey = d
 main-context-menu-video-save-as =
     .label = Guardar el videu como…
     .accesskey = v
@@ -250,6 +275,12 @@ main-context-menu-view-page-source =
 main-context-menu-view-page-info =
     .label = Ver la información de la páxina
     .accesskey = l
+main-context-menu-bidi-switch-text =
+    .label = Cambiar la direición del testu
+    .accesskey = m
+main-context-menu-bidi-switch-page =
+    .label = Cambiar la direición de la páxina
+    .accesskey = d
 main-context-menu-inspect-element =
     .label = Inspeicionar l'elementu
     .accesskey = n
