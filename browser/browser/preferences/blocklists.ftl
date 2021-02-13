@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = Llistes de bloquéu
+    .title = Llistes de bloqueos
     .style = width: 50em
 blocklist-description = Escueyi la llista que { -brand-short-name } usa pa bloquiar los rastrexadores en llinia. Les llistes fórneles <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
@@ -30,4 +30,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Llista de bloqueos de nivel 1 (aconséyase).
 blocklist-item-moz-std-description = Permite dalgunos rastrexadores pa que menos sitios ruempan.
 blocklist-item-moz-full-listName = Llista de bloqueos de nivel 2.
-blocklist-item-moz-full-description = Bloquia tolos rastrexadores detectaos. Dalgunos sitios web o conteníu podríen dexar de funcionar bien.
+blocklist-item-moz-full-description = Bloquia tolos rastrexadores detectaos mas dalgunos sitios web o conteníu podríen dexar de funcionar bien.
