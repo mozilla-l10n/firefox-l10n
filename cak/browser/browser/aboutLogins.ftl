@@ -310,9 +310,14 @@ about-logins-import-dialog-error-conflicting-values-description = Achi'el: jalaj
 about-logins-import-dialog-error-file-format-title = K'ayewal rik'in ri Rub'anikil Yakb'äl
 about-logins-import-dialog-error-file-format-description = Man ütz ta o kowan Ruch'utukwi' tem. Tatz'eta' chi ri yakb'äl kik'wan taq tem richin kib'i' okisanela', ewan tzij chuqa' URL.
 about-logins-import-dialog-error-file-permission-title = Man Tikirel ta Nisik'ïx ri Yakb'äl
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } majun ya'on q'ij chi re richin nisik'ïx ri yakb'äl. Tatojtob'ej najäl ri ruya'oj q'ij yakb'äl.
+about-logins-import-dialog-error-unable-to-read-title = Man Tikirel ta Ninik'öx ri Yakb'äl
+about-logins-import-dialog-error-unable-to-read-description = Tatz'eta' chi nacha' jun CSV o TSV yakb'äl.
+about-logins-import-dialog-error-no-logins-imported = Man xejik' ta tikirib'äl taq molojri'ïl
 about-logins-import-dialog-error-learn-more = Tetamäx juley
 about-logins-import-dialog-error-try-again = Titojtob'ëx Chik…
 about-logins-import-dialog-error-cancel = Tiq'at
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Tijik' Rutzijol Ch'utitzijol
