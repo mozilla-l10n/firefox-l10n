@@ -71,3 +71,12 @@ perftools-thread-render-backend =
 
 ##
 
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = יוצר הפרופילים של Firefox
+perftools-onboarding-message = <b>חדש</b>: { -profiler-brand-name } משולב כעת בכלי הפיתוח. <a>מידע נוסף</a> על הכלי החדש והעוצמתי הזה.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (לזמן מוגבל, ניתן לגשת לחלונית הביצועים המקורית דרך <a>{ options-context-advanced-settings }</a>)
