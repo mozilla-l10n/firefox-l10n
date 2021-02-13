@@ -42,7 +42,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Celá obrazovka">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Skrýt přepínač obrazu v obraze">
 <!ENTITY pictureInPictureHideToggle.accesskey "v">
 
@@ -52,7 +51,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "Nastavení synchronizace">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Připojit další zařízení…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Přihlásit se k aplikaci &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Zapnout &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Služby aplikace &brandProductName;">
@@ -98,7 +96,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY printButton.label            "Vytisknout">
 <!ENTITY printButton.tooltip          "Vytiskne tuto stránku">
 
-
 <!ENTITY searchItem.title             "Vyhledávací pole">
 
 <!-- Toolbar items -->
@@ -138,8 +135,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY preferencesCmdUnix.label       "Předvolby">
 <!ENTITY logins.label                           "Přihlašovací údaje">
 
-<!ENTITY overflowCustomizeToolbar.label       "Nastavit tlačítka a lišty…">
-<!ENTITY overflowCustomizeToolbar.accesskey   "N">
+<!ENTITY overflowCustomizeToolbar.label       "Nastavení tlačítek a lišt…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "V">
 
 <!ENTITY historyMenu.label "Historie">
 <!ENTITY historyUndoMenu.label "Naposledy zavřené panely">
@@ -147,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Naposledy zavřená okna">
 
 <!ENTITY appMenuHistory.showAll.label "Zobrazit celou historii">
+
 <!ENTITY appMenuHistory.clearRecent.label "Vymazat nedávnou historii…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovit předchozí relaci">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobrazit v postranní liště">
@@ -219,17 +217,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Uložit stránku do služby Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Seznam služby Pocket">
 
 <!ENTITY emailPageCmd.label           "Poslat odkaz e-mailem…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "Velikost stránky">
 
@@ -255,7 +248,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Přidat slovník…">
 <!ENTITY spellAddDictionaries.accesskey "P">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

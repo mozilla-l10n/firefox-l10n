@@ -182,5 +182,5 @@ appmenu-help-check-for-update =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Nastavit lišty
+    .label = Nastavení tlačítek a lišt…
 appmenu-developer-tools-subheader = Nástroje prohlížeče
