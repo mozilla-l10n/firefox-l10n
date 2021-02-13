@@ -13,11 +13,10 @@ compatibility-all-elements-header = 所有问题
 compatibility-issue-deprecated = （不推荐使用）
 compatibility-issue-experimental = （实验性）
 compatibility-issue-prefixneeded = （需要前缀）
-compatibility-issue-deprecated-experimental = （不推荐使用，实验性）
-
-compatibility-issue-deprecated-prefixneeded = （不推荐使用，需要前缀）
+compatibility-issue-deprecated-experimental = （不赞成使用，实验性）
+compatibility-issue-deprecated-prefixneeded = （不赞成使用，需要前缀）
 compatibility-issue-experimental-prefixneeded = （实验性，需要前缀）
-compatibility-issue-deprecated-experimental-prefixneeded = （不推荐使用、实验性，需要前缀）
+compatibility-issue-deprecated-experimental-prefixneeded = （不赞成使用、实验性，需要前缀）
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -42,7 +41,6 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] 遇到 { $number } 个
     }
-
 compatibility-no-issues-found = 未发现兼容性问题。
 compatibility-close-settings-button =
     .title = 关闭设置
