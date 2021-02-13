@@ -103,3 +103,5 @@ perftools-tools-threads-input-label =
 
 -profiler-brand-name = Firefox 分析器
 perftools-onboarding-message = <b>新变化</b>：{ -profiler-brand-name } 现已集成于开发者工具。<a>详细了解</a>这个功能强大的新工具。
+perftools-onboarding-close-button =
+    .aria-label = 关闭导览消息
