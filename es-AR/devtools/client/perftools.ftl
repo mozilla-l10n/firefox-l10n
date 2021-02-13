@@ -111,4 +111,6 @@ perftools-tools-threads-input-label =
 -profiler-brand-name = Perfilador de Firefox
 perftools-onboarding-message = <b>Nuevo</b>: { -profiler-brand-name } está ahora integrado en las herramientas para desarrolladores. <a>Conocer más</a> sobre esta poderosa herramienta nueva.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
-perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, puede acceder al panel de rendimiento original a través de <a>{ options-context-Advanced-settings }</a>)
+perftools-onboarding-reenable-old-panel = (Por un tiempo limitado, puede acceder al panel de rendimiento original a través de <a>{ options-context-advanced-settings }</a>)
+perftools-onboarding-close-button =
+    .aria-label = Cerrar el mensaje introductorio
