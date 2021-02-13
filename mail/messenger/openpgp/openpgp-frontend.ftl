@@ -23,6 +23,7 @@ openpgp-import-sender-key =
     .label = Uvozi …
 openpgp-missing-signature-key = To sporočilo je podpisano s ključem, ki ga še nimate.
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = To je sporočilo OpenPGP, ki ga je očitno poškodoval MS-Exchange in ga ni mogoče popraviti, ker je bilo odprto iz krajevne datoteke. Kopirajte sporočilo v poštno mapo in poskusite s samodejnim popravilom.
 openpgp-broken-exchange-info = To je sporočilo OpenPGP, ki ga je očitno poškodoval MS-Exchange. Če vsebina sporočila ni prikazana po pričakovanju, lahko poskusite s samodejnim popravilom.
 openpgp-broken-exchange-repair =
     .label = Popravi sporočilo

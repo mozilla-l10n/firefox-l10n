@@ -19,7 +19,19 @@ finger-verify-accessKey = v
 buddycontextmenu-label = Dodaj prstni odtis OTR
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+alert-start = Poskus začetka šifriranega pogovora s stikom { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+alert-refresh = Poskus osvežitve šifriranega pogovora s stikom { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 alert-gone_insecure = Šifriran pogovor s stikom { $name } končan.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-unseen = Istovetnost { $name } še ni bila preverjena. Slučajno prisluškovanje ni mogoče, vendar bi kdo z nekaj truda lahko prisluškoval. Za preprečitev nadzorovanja preverite istovetnost tega stika.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
+finger-seen = { $name } vzpostavlja zvezo z vami z neznanega računalnika. Slučajno prisluškovanje ni mogoče, vendar bi kdo z nekaj truda lahko prisluškoval. Za preprečitev nadzorovanja preverite istovetnost tega stika.
 state-not_private = Trenutni pogovor ni zaseben.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
