@@ -357,6 +357,7 @@ update-application-version = Versión { $version } <a data-l10n-name="learn-more
 update-history =
     .label = Amosar l'historial d'anovamientos…
     .accesskey = t
+update-application-allow-description = Permitir a { -brand-short-name }
 update-application-auto =
     .label = Instalar automáticamente los anovamientos (aconséyase)
     .accesskey = I
@@ -396,6 +397,10 @@ performance-settings-learn-more = Deprender más
 performance-allow-hw-accel =
     .label = Usar l'aceleración del hardware cuando tea disponible
     .accesskey = h
+performance-limit-content-process-option = Llende de procesos de conteníu
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Más procesos de conteníu puen ameyorar el rindimientu al usar múltiples llingüetes, más tamién va usar más memoria.
+performance-limit-content-process-blocked-desc = Modificar el númberu de procesos de conteníu namás ye posible col { -brand-short-name } multiprocesu. <a data-l10n-name="learn-more">Deprender más tocante a cómo comprobar si'l multiprocesu ta activáu</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -419,6 +424,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar el testu cuando comiences a teclexar
     .accesskey = s
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activar los controles de videu nel mou imaxe sobre imaxe
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Deprender más
 browsing-media-control-learn-more = Deprender más
 browsing-cfr-recommendations =
@@ -513,7 +521,15 @@ home-prefs-highlights-option-saved-to-pocket =
     .label = Páxines guardaes en { -pocket-brand-name }
 home-prefs-recent-activity-header =
     .label = Actividá recién
+home-prefs-recent-activity-description = Una esbilla de sitios y conteníu de recién
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Cachos d'información
 home-prefs-snippets-description = Anovamientos de { -vendor-short-name } y { -brand-product-name }
+home-prefs-snippets-description-new = Conseyos y noticies de { -vendor-short-name } y { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -530,6 +546,10 @@ search-bar-shown =
     .label = Amestar la barra de busca na barra de ferramientes
 search-engine-default-header = Motor de busca predetermináu
 search-engine-default-desc-2 = Esti ye'l motor de busca predetermináu na barra de direiciones y na barra de busca. Pues cambialu en cualesquier momentu.
+search-engine-default-private-desc-2 = Escueyi un motor de busca diferente pa namás les ventanes privaes
+search-separate-default-engine =
+    .label = Usar esti motor de busca nes ventanes privaes
+    .accesskey = U
 search-suggestions-header = Suxerencies de busca
 search-suggestions-desc = Escueyi cómo apaecen les suxerencies de los motores de busca.
 search-suggestions-option =
@@ -951,6 +971,9 @@ permissions-autoplay = Reproducción automática
 permissions-autoplay-settings =
     .label = Axustes...
     .accesskey = e
+permissions-block-popups =
+    .label = Bloquiar los ventanos emerxentes
+    .accesskey = B
 permissions-block-popups-exceptions =
     .label = Esceiciones…
     .accesskey = E
