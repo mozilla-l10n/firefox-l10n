@@ -354,6 +354,10 @@ browser-tab-audio-muted = Tyst
 browser-tab-audio-playing2 = SPELAR
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = TYST
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOPLAY BLOCKAD
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = BILD-I-BILD
 
 ## Bookmarks toolbar items
 
