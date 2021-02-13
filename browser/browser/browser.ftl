@@ -356,6 +356,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = ਚੱਲ ਰਿਹਾ ਹੈ
 browser-tab-audio-muted = ਮੌਨ ਹੈ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ਚੱਲ ਰਿਹਾ ਹੈ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ਮੌਨ ਕੀਤਾ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ਆਪੇ-ਚੱਲਣ ਉੱਤੇ ਰੋਕ ਲੱਗੀ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ
 
 ## Bookmarks toolbar items
 

@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ
 menu-history-undo-window-menu =
     .label = ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਵਿੰਡੋ
+menu-history-reopen-all-tabs = ਸਭ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
+menu-history-reopen-all-windows = ਸਾਰੀਆਂ ਵਿੰਡੋ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
 
 ## Bookmarks Menu
 
