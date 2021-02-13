@@ -39,6 +39,7 @@ printui-scale-pcent = קנה מידה
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = הדפסה דו־צדדית
 printui-duplex-checkbox = הדפסה בשני הצדדים
+printui-two-sided-printing-off = כבויה
 # Section title for miscellaneous print options
 printui-options = אפשרויות
 printui-headers-footers-checkbox = הדפסת כותרות עיליות ותחתיות
