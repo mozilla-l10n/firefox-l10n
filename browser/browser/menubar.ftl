@@ -87,6 +87,9 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Unviar l'enllaz per corréu…
     .accesskey = U
+menu-file-print-setup =
+    .label = Configuración de les páxines…
+    .accesskey = p
 menu-file-print-preview =
     .label = Previsualización
     .accesskey = P
@@ -150,6 +153,9 @@ menu-view-full-zoom-actual-size =
 menu-view-full-zoom-toggle =
     .label = Facer namás zoom al testu
     .accesskey = T
+menu-view-page-style-menu =
+    .label = Estilu de les páxines
+    .accesskey = x
 menu-view-page-style-no-style =
     .label = Ensin estilu
     .accesskey = n
@@ -201,6 +207,8 @@ menu-history-undo-menu =
     .label = Llingüetes zarraes apocayá
 menu-history-undo-window-menu =
     .label = Ventanes zarraes apocayá
+menu-history-reopen-all-tabs = Volver abrir toles llingüetes
+menu-history-reopen-all-windows = Volver abrir toles ventanes
 
 ## Bookmarks Menu
 
