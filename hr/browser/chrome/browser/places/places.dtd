@@ -51,7 +51,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Unos i sigurnosne kopije">
+<!ENTITY maintenance.label      "Uvoz i sigurnosne kopije">
 <!ENTITY maintenance.accesskey  "U">
 <!ENTITY maintenance.tooltip    "Upiši ili izvezi svoje zabilješke">
 
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Idi naprijed">
 
 <!ENTITY detailsPane.selectAnItemText.description "Odaberi stavku za pregled i uređivanje njenih svojstava">
-

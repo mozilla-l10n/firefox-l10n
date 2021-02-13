@@ -56,6 +56,8 @@ connection-proxy-noproxy = Bez proxyja za
 connection-proxy-noproxy-desc = Primjer: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
 connection-proxy-noproxy-localhost-desc = Veze s localhost, 127.0.0.1 i ::1 nikada nisu preko proxy.
+# Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
+connection-proxy-noproxy-localhost-desc-2 = Veze na localhost, 127.0.0.1/8 i :: 1 nikada se ne proksiraju.
 connection-proxy-autotype =
     .label = URL za automatsko podešavanje proxyja
     .accesskey = a
