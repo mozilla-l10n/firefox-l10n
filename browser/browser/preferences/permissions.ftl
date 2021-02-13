@@ -37,6 +37,15 @@ permissions-button-ok =
 permission-dialog =
     .buttonlabelaccept = Guardar los cambeos
     .buttonaccesskeyaccept = G
+permissions-autoplay-menu = Lo predeterminao pa tolos sitios web:
+permissions-searchbox =
+    .placeholder = Buscar un sitiu web
+permissions-capabilities-autoplay-allow =
+    .label = Permitir l'audiu y videu
+permissions-capabilities-autoplay-block =
+    .label = Bloquiar l'audiu
+permissions-capabilities-autoplay-blockall =
+    .label = Bloquiar l'audiu y videu
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
@@ -52,9 +61,14 @@ permissions-capabilities-listitem-allow-session =
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Introdúxose un nome d'agospiador que nun ye válidu
+permissions-invalid-uri-label = Introduz un nome d'agospiador válidu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-window =
+    .title = Esceiciones pa la proteición ameyorada escontra'l rastrexu
+    .style = { permissions-window.style }
 permissions-exceptions-etp-desc = Desactivesti les proteiciones nestos sitios web.
 
 ## Exceptions - Cookies
@@ -104,6 +118,10 @@ permissions-site-notification-disable-desc = Esto va evitar que cualesquier siti
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Axustes - Permisos d'allugamientu
+    .style = { permissions-window.style }
+permissions-site-location-desc = Los sitios web de darréu solicitaron l'accesu al allugamientu, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves d'accesu al allugamientu.
 permissions-site-location-disable-label =
     .label = Bloquiar les solicitúes nueves p'acceder al allugamientu
 permissions-site-location-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder al allugamientu. Bloquiar l'accesu al allugamientu pue romper les carauterístiques de dalgunos sitios web.
@@ -113,6 +131,7 @@ permissions-site-location-disable-desc = Esto va evitar que los sitios web que n
 permissions-site-xr-window =
     .title = Axustes - Permisos de realidá virtual
     .style = { permissions-window.style }
+permissions-site-xr-desc = Los sitios web de darréu solicitaron l'accesu a los preseos de realidá virtual, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves d'accesu a los preseos de realidá virtual.
 permissions-site-xr-disable-label =
     .label = Bloquiar les solicitúes nueves que pidan acceder a los preseos de realidá virtual
 permissions-site-xr-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder a los preseos de realidá virtual. Bloquiar l'accesu a los preseos de realidá virtual pue romper les carauterístiques de dalgunos sitios web.
