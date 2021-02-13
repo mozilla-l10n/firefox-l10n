@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Nyligen stängda flikar
 menu-history-undo-window-menu =
     .label = Nyligen stängda fönster
+menu-history-reopen-all-tabs = Återöppna alla flikar
+menu-history-reopen-all-windows = Återöppna alla fönster
 
 ## Bookmarks Menu
 

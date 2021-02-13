@@ -40,6 +40,10 @@ printui-scale-pcent = Skala
 printui-two-sided-printing = Dubbelsidig utskrift
 printui-duplex-checkbox = Skriv ut på båda sidor
 printui-two-sided-printing-off = Av
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Vänd på sidokanten
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Vänd på överkanten
 # Section title for miscellaneous print options
 printui-options = Alternativ
 printui-headers-footers-checkbox = Skriv ut sidhuvud och sidfot
