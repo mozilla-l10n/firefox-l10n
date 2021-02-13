@@ -134,6 +134,9 @@ main-context-menu-save-link-to-pocket =
 main-context-menu-copy-email =
     .label = Copiar la direición de corréu
     .accesskey = d
+main-context-menu-copy-link =
+    .label = Copiar l'allugamientu del enllaz
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -215,6 +218,15 @@ main-context-menu-video-view =
 main-context-menu-image-copy =
     .label = Copiar la imaxe
     .accesskey = x
+main-context-menu-image-copy-location =
+    .label = Copiar l'allugamientu de la imaxe
+    .accesskey = u
+main-context-menu-video-copy-location =
+    .label = Copiar l'allugamientu del videu
+    .accesskey = u
+main-context-menu-audio-copy-location =
+    .label = Copiar l'allugamientu del audiu
+    .accesskey = u
 main-context-menu-image-save-as =
     .label = Guardar la imaxe como…
     .accesskey = G
