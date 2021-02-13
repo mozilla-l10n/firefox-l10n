@@ -257,6 +257,10 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = Tapos na
+about-logins-import-dialog-error-file-format-title = May Isyu sa Format ng File
+about-logins-import-dialog-error-file-permission-title = Hindi mabasa ang File
+about-logins-import-dialog-error-learn-more = Karagdagang kaalaman
+about-logins-import-dialog-error-try-again = Subukan Muli...
 about-logins-import-dialog-error-cancel = Kanselahin
 
 ## Logins import report page
