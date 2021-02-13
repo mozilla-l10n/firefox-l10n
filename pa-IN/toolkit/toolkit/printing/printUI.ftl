@@ -39,6 +39,11 @@ printui-scale-pcent = ਸਕੇਲ
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = ਦੋ ਪਾਸੀ ਪਰਿੰਟ ਕਰਨਾ
 printui-duplex-checkbox = ਦੋਵੇਂ ਪਾਸਿਆਂ ਉੱਤੇ ਪਰਿੰਟ ਕਰੋ
+printui-two-sided-printing-off = ਬੰਦ
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = ਪਾਸਿਓ ਪਲਟੋ
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = ਸਿਖਰੋਂ ਪਲਟੋ
 # Section title for miscellaneous print options
 printui-options = ਚੋਣਾਂ
 printui-headers-footers-checkbox = ਸਿਰਲੇਖ ਅਤੇ ਫੁੱਟਰ ਨੂੰ ਪਰਿੰਟ ਕਰੋ

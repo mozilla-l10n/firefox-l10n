@@ -96,6 +96,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = ਅਤੀਤ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+appmenu-reopen-all-tabs = ਸਾਰੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+appmenu-reopen-all-windows = ਸਾਰੀਆਂ ਵਿੰਡੋ ਮੁੜ-ਖੋਲ੍ਹੋ
+
 ## Help panel
 
 appmenu-help-header =
@@ -151,3 +158,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = …ਅੱਪਡੇਟਾਂ ਲਈ ਚੈਕ ਕਰੋ
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = …ਟੂਲਬਾਰ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+appmenu-developer-tools-subheader = ਬਰਾਊਜ਼ਰ ਟੂਲ
