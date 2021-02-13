@@ -151,9 +151,9 @@ addon-category-discover-title =
 addon-category-extension = Dodaci
 addon-category-extension-title =
     .title = Dodaci
-addon-category-theme = Motivi
+addon-category-theme = Teme
 addon-category-theme-title =
-    .title = Motivi
+    .title = Teme
 addon-category-plugin = Priključci
 addon-category-plugin-title =
     .title = Priključci
@@ -262,7 +262,7 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Dodaci i motivi su kao programi za preglednik i omogućavaju zaštitu za
+    Dodaci i teme su kao programi za preglednik i omogućavaju zaštitu za
     lozinke, preuzimanje videozapisa, pronalaženje ponuda, blokiranje
     dosadnih oglasa, izmjenu izgleda preglednika i još puno više. Ove male
     programe često razvijaju treće strane. Ovdje je izbor dodataka koje
@@ -283,7 +283,7 @@ created-by-author = od <a data-l10n-name="author">{ $author }</a>
 #   $dailyUsers (number) - The number of daily users.
 user-count = Korisnici: { $dailyUsers }
 install-extension-button = Dodaj u { -brand-product-name }
-install-theme-button = Instaliraj motiv
+install-theme-button = Instaliraj temu
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Upravljaj
@@ -398,10 +398,10 @@ addon-permissions-required = Dozvole potrebne za osnovnu funkcionalnost:
 addon-permissions-optional = Opcionalne dozvole za dodatnu funkcionalnost:
 addon-permissions-learnmore = Saznaj više o dozvolama
 recommended-extensions-heading = Preporučeni dodatci
-recommended-themes-heading = Preporučeni motivi
+recommended-themes-heading = Preporučene teme
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradite vlastiti motiv s Firefox Color.</a>
+recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradite vlastitu temu s Firefox Color.</a>
 
 ## Page headings
 
