@@ -352,6 +352,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Reprodukcija
 browser-tab-audio-muted = Isključen zvuk
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = REPRODUKCIJA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = UTIŠANO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMATSKA REPRODUKCIJA BLOKIRANA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = SLIKA U SLICI
 
 ## Bookmarks toolbar items
 

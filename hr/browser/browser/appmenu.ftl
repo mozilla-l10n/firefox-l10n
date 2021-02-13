@@ -20,7 +20,7 @@ appmenuitem-new-private-window =
 appmenuitem-passwords =
     .label = Lozinke
 appmenuitem-extensions-and-themes =
-    .label = Ekstenzije i motivi
+    .label = Proširenja i motivi
 appmenuitem-find-in-page =
     .label = Pronađi na stranici …
 appmenuitem-more-tools =
@@ -96,6 +96,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Upravljanje poviješću
+appmenu-reopen-all-tabs = Ponovno otvori sve kartice
+appmenu-reopen-all-windows = Ponovno otvori sve prozore
+
 ## Help panel
 
 appmenu-help-header =
@@ -151,3 +158,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Provjeri dostupnost dopuna…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Prilagodi alatnu traku…
+appmenu-developer-tools-subheader = Alati preglednika
