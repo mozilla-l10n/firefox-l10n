@@ -96,6 +96,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = 管理歷史
+appmenu-reopen-all-tabs = 回復所有分頁
+appmenu-reopen-all-windows = 回復所有視窗
+
 ## Help panel
 
 appmenu-help-header =
@@ -151,3 +158,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = 檢查更新…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = 自訂工具列…
+appmenu-developer-tools-subheader = 瀏覽器工具

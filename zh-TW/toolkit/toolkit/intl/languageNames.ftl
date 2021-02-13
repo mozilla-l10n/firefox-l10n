@@ -176,6 +176,7 @@ language-name-st = 南索托語 (南非)
 language-name-su = 巽他語
 language-name-sv = 瑞典語
 language-name-sw = 斯瓦希里語 (東非)
+language-name-szl = 西里西亞語
 language-name-ta = 坦米爾語 (東南印度、斯里蘭卡)
 language-name-te = 泰盧固語 (東南印度)
 language-name-tg = 塔吉克語

@@ -342,6 +342,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = 播放中
 browser-tab-audio-muted = 靜音
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = 播放中
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = 靜音
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = 已封鎖自動播放
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = 子母畫面
 
 ## Bookmarks toolbar items
 
