@@ -98,6 +98,11 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Διαχείριση ιστορικού
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +158,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Έλεγχος για ενημερώσεις…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Προσαρμογή γραμμής εργαλειών…
+appmenu-developer-tools-subheader = Εργαλεία προγράμματος περιήγησης
