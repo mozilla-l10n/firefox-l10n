@@ -22,37 +22,30 @@ permissions-site-name =
     .label = Sitiu web
 permissions-status =
     .label = Estáu
-permissions-remove =
-    .label = Desaniciar sitiu web
-    .accesskey = R
-permissions-remove-all =
-    .label = Desaniciar tolos sitios web
-    .accesskey = e
 permissions-button-cancel =
     .label = Encaboxar
     .accesskey = E
 permissions-button-ok =
-    .label = Guardar cambeos
+    .label = Guardar los cambeos
     .accesskey = G
-permissions-searchbox =
-    .placeholder = Guetar sitiu web
+permission-dialog =
+    .buttonlabelaccept = Guardar los cambeos
+    .buttonaccesskeyaccept = G
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquiar
 permissions-capabilities-prompt =
-    .label = Entrugar siempre
+    .label = Entrugar siempres
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquiar
 permissions-capabilities-listitem-allow-session =
-    .value = Permitir pa la sesión
+    .value = Permitir na sesión
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = La direición del host nun ye válida
-permissions-invalid-uri-label = Por favor, introduz un nome de host válidu
 
 ## Exceptions - Tracking Protection
 
@@ -63,7 +56,7 @@ permissions-exceptions-etp-desc = Desactivesti les proteiciones nestos sitios we
 permissions-exceptions-cookie-window =
     .title = Esceiciones - Cookies y datos de los sitios
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Pues especificar los sitios web que siempres o enxamás van tener permisu pa usar cookies y datos de los sitios. Teclexa la direición exauta de los sitios que quies xestionar y dempués calca «Bloquiar», «Permitir nesta sesión» o «Permitir»
+permissions-exceptions-cookie-desc = Pues especificar los sitios web que siempres o enxamás van tener permisu pa usar cookies y datos de los sitios. Teclexa la direición exauta de los sitios que quies xestionar y dempués calca «Bloquiar», «Permitir na sesión» o «Permitir»
 
 ## Exceptions - Pop-ups
 
@@ -75,7 +68,7 @@ permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Esceiciones - Ingresos guardaos
+    .title = Esceiciones - Anicios de sesión guardaos
     .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
@@ -83,7 +76,7 @@ permissions-exceptions-saved-logins-window =
 permissions-exceptions-addons-window =
     .title = Sitios web permitíos - Instalación de complementos
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Pues especificar dende qué sitios web ta permitío instalar complementos. Escribi la direición exauta del sitiu que quies permitir y calca Permitir.
+permissions-exceptions-addons-desc = Pues especificar los sitios web que tienen permisu pa instalar complementos. Teclexa la direición exauta del sitiu que quies permitir y dempués calca «Permitir»
 
 ## Site Permissions - Autoplay
 
@@ -116,7 +109,7 @@ permissions-site-camera-window =
     .style = { permissions-window.style }
 permissions-site-camera-desc = Los sitios web de darréu solicitaron l'accesu a la cámara, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves d'accesu a la cámara.
 permissions-site-camera-disable-label =
-    .label = Bloquiar solicitúes nueves d'accesu a la cámara
+    .label = Bloquiar les solicitúes nueves p'acceder a la cámara
 
 ## Site Permissions - Microphone
 
@@ -124,3 +117,5 @@ permissions-site-microphone-window =
     .title = Axustes - Permisos del micrófonu
     .style = { permissions-window.style }
 permissions-site-microphone-desc = Los sitios web de darréu solicitaron l'accesu al micrófonu, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves d'accesu al micrófonu.
+permissions-site-microphone-disable-label =
+    .label = Bloquiar les solicitúes nueves p'acceder al micrófonu
