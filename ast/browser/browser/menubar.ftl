@@ -67,6 +67,11 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = Ventana privada nueva
     .accesskey = p
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Abrir un allugamientu…
 menu-file-open-file =
     .label = Abrir un ficheru…
     .accesskey = A
