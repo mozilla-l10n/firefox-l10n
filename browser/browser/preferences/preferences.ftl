@@ -761,6 +761,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Anicios de sesión guardaos…
     .accesskey = A
+forms-master-pw-use =
+    .label = Usar una contraseña primaria
+    .accesskey = U
 forms-primary-pw-use =
     .label = Usar una contraseña primaria
     .accesskey = U
@@ -771,6 +774,7 @@ forms-primary-pw-learn-more-link = Deprender más
 forms-master-pw-change =
     .label = Camudar la contraseña maestra…
     .accesskey = m
+forms-master-pw-fips-title = Anguaño tas nel mou FIPS. FIPS rique una contraseña maestra que nun tea balera.
 forms-primary-pw-change =
     .label = Camudar la contraseña primaria…
     .accesskey = p
@@ -778,6 +782,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Enantes llamábase «Contraseña maestra»
+forms-primary-pw-fips-title = Anguaño tas nel mou FIPS. FIPS rique una contraseña primaria que nun tea balera.
 forms-master-pw-fips-desc = El cambéu de la contraseña falló
 
 ## OS Authentication dialog
@@ -842,6 +847,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies y datos de los sitios
+sitedata-total-size-calculating = Calcaulando'l tamañu de la caché y los datos de los sitios…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
@@ -888,6 +894,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Llingüetes abiertes
     .accesskey = a
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Atayos
+    .accesskey = A
 addressbar-locbar-topsites-option =
     .label = Sitios principales
     .accesskey = p
@@ -1011,6 +1021,7 @@ permissions-a11y-privacy-link = Deprender más
 ## Privacy Section - Data Collection
 
 collection-header = Recoyida y usu de datos de { -brand-short-name }
+collection-description = Esforciámonos n'apurrite opciones y recoyer namás lo que precisamos pa fornir y ameyorar { -brand-short-name } pa tol mundu. Siempres pidimos permisu enantes de recibir información personal.
 collection-privacy-notice = Avisu de privacidá
 collection-health-report-telemetry-disabled-link = Deprender más
 collection-health-report =
@@ -1021,6 +1032,9 @@ collection-studies =
     .label = Permitir que { -brand-short-name } instale y execute estudios
 collection-studies-link = Amosar los estudios de { -brand-short-name }
 addon-recommendations-link = Deprender más
+collection-backlogged-crash-reports =
+    .label = Permtir que { -brand-short-name } unvie los informes de casques acumulaos por ti
+    .accesskey = c
 collection-backlogged-crash-reports-link = Deprender más
 
 ## Privacy Section - Security
@@ -1044,6 +1058,9 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Certificaos
+certs-enable-ocsp =
+    .label = Consultar los sirvidores de rempuesta OCSP pa confirmar la validez actual de los certificaos
+    .accesskey = C
 certs-view =
     .label = Ver los certificaos…
     .accesskey = c
