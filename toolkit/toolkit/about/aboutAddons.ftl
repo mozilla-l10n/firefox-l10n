@@ -383,6 +383,11 @@ addon-badge-recommended2 =
 addon-badge-line2 =
     .title = Ovo je službeno proširenje koje su stvorili tvorci { -brand-product-name }a
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Službeno proširenje koje je izradila Mozilla. Udovoljava standardima sigurnosti i performansi
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Na ovom proširenju izvršen je pregled udovoljava li našim standardima za sigurnost i performanse
     .aria-label = { addon-badge-verified2.title }
