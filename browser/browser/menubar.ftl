@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = 最近關閉的分頁
 menu-history-undo-window-menu =
     .label = 最近關閉的視窗
+menu-history-reopen-all-tabs = 回復所有分頁
+menu-history-reopen-all-windows = 回復所有視窗
 
 ## Bookmarks Menu
 
