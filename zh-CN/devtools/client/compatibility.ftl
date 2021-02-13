@@ -10,7 +10,7 @@ compatibility-all-elements-header = 所有问题
 
 ## Message used as labels for the type of issue
 
-compatibility-issue-deprecated = （不推荐使用）
+compatibility-issue-deprecated = （不赞成使用）
 compatibility-issue-experimental = （实验性）
 compatibility-issue-prefixneeded = （需要前缀）
 compatibility-issue-deprecated-experimental = （不赞成使用，实验性）
