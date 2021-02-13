@@ -350,6 +350,10 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Spelar
 browser-tab-audio-muted = Tyst
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = SPELAR
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = TYST
 
 ## Bookmarks toolbar items
 

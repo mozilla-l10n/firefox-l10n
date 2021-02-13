@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Hantera historik
+appmenu-reopen-all-tabs = Återöppna alla flikar
+appmenu-reopen-all-windows = Återöppna alla fönster
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Sök efter uppdateringar…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Anpassa verktygsfältet…
+appmenu-developer-tools-subheader = Webbläsarverktyg
