@@ -865,6 +865,8 @@ sitedata-option-block-cross-site-tracking-cookies-including-social-media =
     .label = Cookies de rastrexu ente sitios — inclúi les cookies de redes sociales
 sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Cookies ente sitios — inclúi les cookies de redes sociales
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Rastrexadores ente sitios y de redes sociales, y aisllar les cookies que queden
 sitedata-option-block-unvisited =
     .label = Cookies de sitios web ensin visitar
 sitedata-option-block-all-third-party =
@@ -877,6 +879,9 @@ sitedata-clear =
 sitedata-settings =
     .label = Xestionar los datos…
     .accesskey = X
+sitedata-cookies-permissions =
+    .label = Xestionar los permisos…
+    .accesskey = p
 sitedata-cookies-exceptions =
     .label = Xestionar les esceiciones…
     .accesskey = X
@@ -932,6 +937,7 @@ content-blocking-etp-custom-desc = Escueyi los rastrexadores y scripts a bloquia
 content-blocking-private-windows = Conteníu que rastrexa nes llingüetes privaes
 content-blocking-cross-site-cookies = Cookies ente sitios
 content-blocking-cross-site-tracking-cookies = Cookies de rastrexu ente sitios
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies de rastrexu ente sitios, y aisllar les cookies que queden
 content-blocking-social-media-trackers = Rastrexadores de redes sociales
 content-blocking-all-cookies = Toles cookies
 content-blocking-unvisited-cookies = Cookies de sitios ensin visitar
@@ -1023,6 +1029,7 @@ permissions-a11y-privacy-link = Deprender más
 collection-header = Recoyida y usu de datos de { -brand-short-name }
 collection-description = Esforciámonos n'apurrite opciones y recoyer namás lo que precisamos pa fornir y ameyorar { -brand-short-name } pa tol mundu. Siempres pidimos permisu enantes de recibir información personal.
 collection-privacy-notice = Avisu de privacidá
+collection-health-report-telemetry-disabled = Yá nun permites que { -vendor-short-name } capture datos téunicos y d'interaición. Tolos datos vieyos van desaniciase en 30 díes.
 collection-health-report-telemetry-disabled-link = Deprender más
 collection-health-report =
     .label = Permitir que { -brand-short-name } unvie datos téunicos y d'interaición a { -vendor-short-name }
@@ -1081,9 +1088,15 @@ space-alert-over-5gb-pref-button =
             [windows] A
            *[other] A
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ta quedando ensin espaciu nel discu. El conteníu de los sitios web pue dexar d'amosase afayadizamente. Pues llimpiar los datos atroxaos en Opciones > POrivacidá y seguranza > Cookies y datos de los sitios.
+       *[other] { -brand-short-name } ta quedando ensin espaciu nel discu. El conteníu de los sitios web pue dexar d'amosase afayadizamente. Pues llimpiar los datos atroxaos en Preferencies > POrivacidá y seguranza > Cookies y datos de los sitios.
+    }
 space-alert-under-5gb-ok-button =
     .label = Val, entendílo
     .accesskey = a
+space-alert-under-5gb-message = { -brand-short-name } ta quedando ensin espaciu nel discu. El conteníu de los sitios web pue dexar d'amosase afayadizamente. Vista «Deprender mas» pa optimiar l'usu del discu pa una esperiencia de restolar meyor.
 
 ## Privacy Section - HTTPS-Only
 
