@@ -104,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación del testu pal conteníu heredáu
 fonts-languages-fallback-desc = Esta codificación del testu úsase pa conteníu heredáu que nun ye a declarar la so codificación.
+fonts-languages-fallback-label = Codificación del testu alternativa
+    .accesskey = t
 fonts-languages-fallback-name-arabic =
     .label = Árabe
 fonts-languages-fallback-name-baltic =
@@ -137,4 +139,6 @@ fonts-languages-fallback-name-other =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Lo predeterminao ({ $name })
+    .label = { $name } (por defeutu)
+fonts-label-default-unnamed =
+    .label = Lo predeterminao

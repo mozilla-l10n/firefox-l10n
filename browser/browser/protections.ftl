@@ -22,6 +22,8 @@ graph-total-tracker-summary =
 graph-private-window = { -brand-short-name } sigue bloquiando rastrexadores nes ventanes privaes, mas nun rexistra lo que se bloquió.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Los rastrexadores que { -brand-short-name } bloquió esta selmana
+protection-report-webpage-title = Panel de proteiciones
+protection-report-page-content-title = Panel de proteiciones
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } pue protexer la to privacidá de forma tresparente mentanto restoles. Esto ye un sumariu personalizáu d'eses proteiciones, incluyíes les ferramientes pa tener el control de la to seguranza en llinia.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
@@ -58,6 +60,10 @@ protection-report-manage-passwords-button = Xestionar les contraseñes
 lockwise-mobile-app-title = Lleva les contraseñes contigo
 lockwise-how-it-works-link = Cómo funciona
 monitor-link = Cómo funciona
+monitor-breaches-resolved-title = ¡Bien! Resolviesti tolos arrampuñamientos conocíos.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = Completóse'l { $percentageResolved }%
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
