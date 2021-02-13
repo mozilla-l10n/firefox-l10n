@@ -9,3 +9,5 @@
 	- Transliterated.
 	- Translated. -->
 
+<!ENTITY sendFullName "Firefox Send">
+<!ENTITY monitorFullName "Firefox Monitor">
