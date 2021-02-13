@@ -102,6 +102,8 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Handter historikk
+appmenu-reopen-all-tabs = Opne alle faner på nytt
+appmenu-reopen-all-windows = Opne alle vindauge på nytt
 
 ## Help panel
 
