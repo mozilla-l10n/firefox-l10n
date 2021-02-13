@@ -1026,6 +1026,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Esceiciones…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Evitar que los servicios d'accesibilidá accedan al restolador
+    .accesskey = a
 permissions-a11y-privacy-link = Deprender más
 
 ## Privacy Section - Data Collection
@@ -1042,7 +1045,12 @@ collection-health-report-link = Deprender más
 collection-studies =
     .label = Permitir que { -brand-short-name } instale y execute estudios
 collection-studies-link = Amosar los estudios de { -brand-short-name }
+addon-recommendations =
+    .label = Permitir { -brand-short-name } aconseye estensiones de forma personalizada
 addon-recommendations-link = Deprender más
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = L'informe de datos ta desactiváu na configuración d'esta compilación
 collection-backlogged-crash-reports =
     .label = Permtir que { -brand-short-name } unvie los informes de casques acumulaos por ti
     .accesskey = c
