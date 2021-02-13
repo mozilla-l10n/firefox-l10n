@@ -15,6 +15,7 @@ newtab-page-title = Llingüeta nueva
 newtab-topsites-title-label = Títulu
 newtab-topsites-url-label = URL
 newtab-topsites-url-validation = Ríquese una URL válida
+newtab-topsites-use-image-link = Usar una imaxe personalizada…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -87,6 +88,7 @@ newtab-section-header-recent-activity = Actividá recién
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Comienza a restolar y equí vamos amosate dalgunos de los meyores artículos, vídeos y otres páxines que visitesti o amestesti a Marcadores apocayá.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
