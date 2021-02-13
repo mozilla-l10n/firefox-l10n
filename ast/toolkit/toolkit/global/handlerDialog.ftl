@@ -9,12 +9,26 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = ¿Permitir qu'esti sitiu abra l'enllaz { $scheme }?
+permission-dialog-description-file = ¿Permitir qu'esti ficheru abra l'enllaz { $scheme }?
+permission-dialog-description-host = ¿Permitir a { $host } qu'abra l'enllaz { $scheme }?
+permission-dialog-description-app = ¿Permitir qu'esti sitiu abra l'enllaz { $scheme } con { $appName }?
+permission-dialog-description-host-app = ¿Permitir a { $host } qu'abra l'enllaz { $scheme } con { $appName }?
+permission-dialog-description-file-app = ¿Permitir qu'esti ficheru abra l'enllaz { $scheme } con { $appName }?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+
+##
+
+permission-dialog-unset-description = Vas tener d'escoyer una aplicación.
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
-choose-other-app-description = Escoyer otra aplicacion
 choose-app-btn =
     .label = Escoyer…
     .accessKey = E
