@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = O
     .secondarybuttonlabel = Ikkje no
     .secondarybuttonaccesskey = n
+appmenu-update-other-instance-message = Ei ny { -brand-shorter-name }-oppdatering er tilgjengelig, men ho kan ikkje installerast fordi ein annan versjon av { -brand-shorter-name } køyrer. Lat han att for å fortsetje oppdateringa, eller vel å oppdatere likevel (den andre versjonen fungerer kanskje ikkje rett før du startar han på nytt).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, eg forstår
     .buttonaccesskey = O
