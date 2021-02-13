@@ -39,6 +39,7 @@ printui-scale-pcent = Skala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Dubbelsidig utskrift
 printui-duplex-checkbox = Skriv ut på båda sidor
+printui-two-sided-printing-off = Av
 # Section title for miscellaneous print options
 printui-options = Alternativ
 printui-headers-footers-checkbox = Skriv ut sidhuvud och sidfot
