@@ -352,6 +352,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Groja
 browser-tab-audio-muted = Nutildyta
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = GROJA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = NUTILDYTA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMATINIS GROJIMAS UŽBLOKUOTAS
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = VAIZDAS-VAIZDE
 
 ## Bookmarks toolbar items
 
