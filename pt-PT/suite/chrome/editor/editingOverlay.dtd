@@ -29,6 +29,26 @@
 <!ENTITY publishSettings.label "Definições de publicação do site…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Formulário">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertFormCmd.label "Definir formulário...">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Campo do formulário...">
+<!ENTITY insertInputTagCmd.accesskey "C">
+<!ENTITY insertInputImageCmd.label "Imagem do formulário...">
+<!ENTITY insertInputImageCmd.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "Área de texto…">
+<!ENTITY insertTextAreaCmd.accesskey "t">
+<!ENTITY insertSelectCmd.label "Lista de seleção…">
+<!ENTITY insertSelectCmd.accesskey "s">
+<!ENTITY insertButtonCmd.label "Definir botão...">
+<!ENTITY insertButtonCmd.accesskey "b">
+<!ENTITY insertLabelCmd.label "Definir etiqueta">
+<!ENTITY insertLabelCmd.accesskey "q">
+<!ENTITY insertFieldSetCmd.label "Definir conjunto de campos...">
+<!ENTITY insertFieldSetCmd.accesskey "j">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Novo">
 <!ENTITY newToolbarCmd.tooltip "Criar uma nova página de composição">
