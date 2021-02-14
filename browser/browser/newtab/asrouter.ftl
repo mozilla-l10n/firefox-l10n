@@ -296,8 +296,9 @@ cfr-whatsnew-supercookies-body = Nettstadar kan i hemmelegheit leggje til ein «
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Betre bokmerking
-cfr-whatsnew-bookmarking-body = Det er lettare å halde oversikt over favorittnettstadane dine. { -brand-short-name } hugsar no ønskt stad for lagra bokmerke, viser bokmerkeverktøylinja som standard på nye faner og gir deg enkel tilgang til resten av bokmerka dine via ei verktøylinjemappe.
+cfr-whatsnew-bookmarking-body = Det er lettare å halde oversikt over favorittnettstadane dine. { -brand-short-name } hugsar no ønskt stad for lagra bokmerke, viser bokmerkeverktøylinja som standard på nye faner, og gir deg enkel tilgang til resten av bokmerka dine via ei verktøylinjemappe.
 
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Omfattande vern mot sporingsinfokapslar på tvers av nettstadar
+cfr-whatsnew-cross-site-tracking-body = Du kan no velje betre vern mot infokapsel-sporing. { -brand-short-name } kan isolere aktivitetane og dataa dine til nettstaden du er på, slik at informasjon som er lagra i nettlesaren ikkje blir delt mellom nettstadar.
