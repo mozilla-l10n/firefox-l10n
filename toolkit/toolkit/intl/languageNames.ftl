@@ -176,6 +176,7 @@ language-name-st = Sesotho Dili
 language-name-su = Sundaca
 language-name-sv = İsveççe
 language-name-sw = Swahili Dili
+language-name-szl = Silezyaca
 language-name-ta = Tamilce
 language-name-te = Telugu Dili
 language-name-tg = Tacikçe
