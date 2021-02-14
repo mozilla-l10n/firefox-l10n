@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Novo okno
 appmenuitem-new-private-window =
     .label = Novo zasebno okno
+appmenuitem-passwords =
+    .label = Gesla
+appmenuitem-extensions-and-themes =
+    .label = Razširitve in teme
+appmenuitem-find-in-page =
+    .label = Najdi na strani …
+appmenuitem-more-tools =
+    .label = Več orodij
+appmenuitem-exit =
+    .label = Izhod
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Nastavitve
 
 ## Zoom and Fullscreen Controls
 
@@ -80,8 +94,15 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-reopen-all-tabs = Ponovno odpri vse zavihke
+appmenu-reopen-all-windows = Ponovno odpri vsa okna
+
 ## Help panel
 
+appmenu-help-header =
+    .title = Pomoč za { -brand-shorter-name }
 appmenu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -97,6 +118,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Bližnjice tipk
     .accesskey = B
+appmenu-get-help =
+    .label = Pomoč
+    .accesskey = P
 appmenu-help-troubleshooting-info =
     .label = Odpravljanje težav
     .accesskey = R
@@ -130,3 +154,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Poišči posodobitve …
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Prilagodi orodno vrstico …
+appmenu-developer-tools-subheader = Orodja brskalnika
