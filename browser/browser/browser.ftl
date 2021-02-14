@@ -313,6 +313,8 @@ crashed-subframe-learnmore =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-recent-bookmarks-panel =
+    .value = Marcadores de recién
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar más marcadores
 bookmarks-sidebar-content =
