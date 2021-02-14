@@ -26,12 +26,28 @@ perftools-devtools-settings-label = Postavke
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Zaustavljanje snimanja
+perftools-request-to-get-profile-and-stop-profiler = Snimanje profila
 
 ##
 
+perftools-button-start-recording = Pokreni snimanje
+perftools-button-capture-recording = Snimi snimku
+perftools-button-cancel-recording = Zaustavi snimanje
+perftools-button-save-settings = Spremi postavke i idi natrag
+perftools-button-restart = Ponovno pokreni
+perftools-button-add-directory = Dodaj mapu
+perftools-button-remove-directory = Ukloni odabrano
+perftools-button-edit-settings = Uredi postavke…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 
 ##
 
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler
