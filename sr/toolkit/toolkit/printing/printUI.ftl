@@ -40,6 +40,7 @@ printui-scale-pcent = Размера
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Двострано штампање
 printui-duplex-checkbox = Штампај на обе странице
+printui-two-sided-printing-off = Искљ.
 # Section title for miscellaneous print options
 printui-options = Опције
 printui-headers-footers-checkbox = Штампај заглавља и подножја
