@@ -519,8 +519,12 @@ pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ott
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Osa tästä sivusta kaatui.</strong> Lähetäthän raportin, jotta { -brand-product-name } saa tiedon tästä ja voi korjata ongelman nopeammin.
 crashed-subframe-learnmore =
     .label = Lue lisää
+    .accesskey = L
+crashed-subframe-submit =
+    .label = Lähetä raportti
     .accesskey = L
 
 ## Bookmarks panels, menus and toolbar
@@ -529,6 +533,10 @@ bookmarks-show-all-bookmarks =
     .label = Näytä kaikki kirjanmerkit
 bookmarks-recent-bookmarks =
     .value = Viimeksi lisätyt
+bookmarks-manage-bookmarks =
+    .label = Järjestele kirjanmerkkejä
+bookmarks-recent-bookmarks-panel =
+    .value = Uusimmat kirjanmerkit
 bookmarks-toolbar-chevron =
     .tooltiptext = Näytä lisää kirjanmerkkejä
 bookmarks-sidebar-content =
@@ -552,6 +560,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Näytä kirjanmerkkipalkki
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Piilota kirjanmerkkipalkki
+           *[other] Näytä kirjanmerkkipalkki
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Piilota kirjanmerkkipalkki
@@ -582,6 +596,9 @@ bookmarks-toolbar-placeholder =
     .title = Kirjanmerkkipalkin linkit
 bookmarks-toolbar-placeholder-button =
     .label = Kirjanmerkkipalkin linkit
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Lisää nykyinen välilehti kirjanmerkkeihin
 
 ## Library Panel items
 

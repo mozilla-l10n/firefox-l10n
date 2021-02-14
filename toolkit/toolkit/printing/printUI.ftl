@@ -40,6 +40,10 @@ printui-scale-pcent = Koko
 printui-two-sided-printing = Kaksipuolinen tulostus
 printui-duplex-checkbox = Tulosta molemmille puolille
 printui-two-sided-printing-off = Pois päältä
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Käännä sivulta
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Käännä yläreunasta
 # Section title for miscellaneous print options
 printui-options = Valinnat
 printui-headers-footers-checkbox = Tulosta ylä- ja alatunnisteet
