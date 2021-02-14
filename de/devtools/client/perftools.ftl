@@ -48,10 +48,10 @@ perftools-devtools-settings-label = Einstellungen
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
 perftools-status-private-browsing-notice =
-    Der Profiler ist deaktivert, sobald der private Modus aktiviert ist.
+    Der Profiler wird deaktivert, sobald der private Modus aktiviert ist.
     Schließen Sie alle privaten Fenster, um den Profiler wieder zu aktivieren.
 perftools-status-recording-stopped-by-another-tool = Die Aufnahme wurde von einem anderen Werkzeug gestoppt.
-perftools-status-restart-required = Der Browser muss neugestartet werden, um diese Funktion zu aktivieren.
+perftools-status-restart-required = Der Browser muss neu gestartet werden, um diese Funktion zu aktivieren.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
