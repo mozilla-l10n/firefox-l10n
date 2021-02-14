@@ -17,6 +17,10 @@ appmenuitem-new-window =
     .label = ახალი ფანჯარა
 appmenuitem-new-private-window =
     .label = ახალი პირადი ფანჯარა
+appmenuitem-passwords =
+    .label = პაროლები
+appmenuitem-extensions-and-themes =
+    .label = გაფართოებები და თემები
 
 ## Zoom and Fullscreen Controls
 
@@ -84,6 +88,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -134,3 +141,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = შემოწმება განახლებებზე…
+
+## More Tools
+
