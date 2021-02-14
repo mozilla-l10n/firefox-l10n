@@ -176,6 +176,7 @@ language-name-st = Sotho południowy
 language-name-su = Sundański
 language-name-sv = Szwedzki
 language-name-sw = Suahili
+language-name-szl = Śląski
 language-name-ta = Tamilski
 language-name-te = Telugu
 language-name-tg = Tadżycki
