@@ -5,7 +5,7 @@
 <!ENTITY onlineContactsHeader.label    "Kontakty online">
 <!ENTITY offlineContactsHeader.label   "Kontakty offline">
 <!ENTITY conversationsHeader.label     "Konverzace">
-<!ENTITY searchResultConversation.label "Výsledky hledání">
+<!ENTITY searchResultConversation.label "Výsledek hledání">
 <!ENTITY chat.noConv.title             "Zde se zobrazí konverzace.">
 <!ENTITY chat.noConv.description       "Konverzaci zahájíte v seznamu kontaktů v levém podokně.">
 <!ENTITY chat.noPreviousConv.description       "Pro tento kontakt nemá &brandShortName; uloženou žádnou konverzaci.">
