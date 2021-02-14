@@ -17,14 +17,9 @@ printui-page-range-custom = Personalitzat
 printui-page-range-label = Pàgines
 printui-page-range-picker =
     .aria-label = Trieu l'interval de pàgines
-printui-page-custom-range =
+printui-page-custom-range-input =
     .aria-label = Introduïu un interval de pàgines personalitzat
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = De
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = a
+    .placeholder = P. ex.: 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Còpies
 printui-orientation = Orientació
@@ -35,12 +30,16 @@ printui-destination-label = Destinació
 printui-destination-pdf-label = Desa com a PDF
 printui-more-settings = Més paràmetres
 printui-less-settings = Menys paràmetres
+printui-paper-size-label = Mida del paper
 # Section title (noun) for the print scaling options
 printui-scale = Escala
-printui-scale-fit-to-page = Ajusta a la pàgina
 printui-scale-fit-to-page-width = Ajusta a l'amplada de la pàgina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escala
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Impressió a doble cara
+printui-duplex-checkbox = Imprimeix a doble cara
+printui-two-sided-printing-off = Desactivada
 # Section title for miscellaneous print options
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprimeix capçaleres i peus de pàgina
@@ -57,6 +56,9 @@ printui-primary-button = Imprimeix
 printui-primary-button-save = Desa
 printui-cancel-button = Cancel·la
 printui-loading = S'està preparant la previsualització
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
 
 ## Error messages shown when a user has an invalid input
 

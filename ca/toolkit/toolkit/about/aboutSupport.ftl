@@ -59,12 +59,16 @@ app-basics-enabled-plugins = Connectors habilitats
 app-basics-build-config = Configuració de la versió
 app-basics-user-agent = Agent d'usuari
 app-basics-os = Sistema operatiu
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Traduït per Rosetta
 app-basics-memory-use = Utilització de la memòria
 app-basics-performance = Rendiment
 app-basics-service-workers = Processos de treball de servei registrats
 app-basics-profiles = Perfils
 app-basics-launcher-process-status = Procés d'inici
 app-basics-multi-process-support = Finestres multiprocés
+app-basics-fission-support = Finestres de Fission
 app-basics-remote-processes-count = Processos remots
 app-basics-enterprise-policies = Polítiques d'empresa
 app-basics-location-service-key-google = Clau del servei d'ubicació de Google
@@ -312,3 +316,6 @@ touch-warning = l'entrada tàctil asíncrona està desactivada perquè hi ha una
 policies-inactive = Inactiu
 policies-active = Actiu
 policies-error = Error
+
+## Printing section
+
