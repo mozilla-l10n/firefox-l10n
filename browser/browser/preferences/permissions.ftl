@@ -114,7 +114,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Los sites seguents an demandat a vos mandar de notificacion. Podètz causir quines sites pòdon vos en mandar. Podètz tanben blocar de novèlas demandas d’autorizacion.
 permissions-site-notification-disable-label =
     .label = Blocar las novèlas demandas de notificacions
-permissions-site-notification-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar a vos mandar de notificacion. Lo blocatge de notificacion pòt copar de foncionalitats de sites.
+permissions-site-notification-disable-desc = Aquò empacha quin site que siá pas listat dessús de demandar a vos mandar de notificacion. Lo blocatge de notificacion pòt copar de foncionalitats de sites.
 
 ## Site Permissions - Location
 
@@ -124,7 +124,7 @@ permissions-site-location-window =
 permissions-site-location-desc = Los sites seguents an demandat l’accès a vòstra adreça. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstra adreça.
 permissions-site-location-disable-label =
     .label = Blocar las novèlas demandas d’accès a vòstra adreça
-permissions-site-location-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar vòstra adreça. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
+permissions-site-location-disable-desc = Aquò empacha quin site que siá pas listat dessús de demandar vòstra adreça. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
 
 ## Site Permissions - Virtual Reality
 
@@ -134,6 +134,7 @@ permissions-site-xr-window =
 permissions-site-xr-desc = Los sites seguents an demandat l’accès a vòstre periferic de realitat virtuala. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstre periferic de realitat virtuala.
 permissions-site-xr-disable-label =
     .label = Blocar las novèlas demandas d’accès a vòstre periferic de realitat virtuala
+permissions-site-xr-disable-desc = Aquò empacha quin site que siá pas listat dessús de demandar l’accès a vòstres periferics de realitat virtuala. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
 
 ## Site Permissions - Camera
 
@@ -143,7 +144,7 @@ permissions-site-camera-window =
 permissions-site-camera-desc = Los sites seguents an demandat l’accès a vòstra camèra. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstra camèra.
 permissions-site-camera-disable-label =
     .label = Blocar las novèlas demandas d’accès a la camèra
-permissions-site-camera-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar l’accès a vòstra camèra. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
+permissions-site-camera-disable-desc = Aquò empacha quin site que siá pas listat dessús de demandar l’accès a vòstra camèra. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
 
 ## Site Permissions - Microphone
 
@@ -153,4 +154,4 @@ permissions-site-microphone-window =
 permissions-site-microphone-desc = Los sites seguents an demandat l’accès a vòstre microfòn. Podètz causir quines sites pòdon i accedir. Podètz tanben blocar de novèlas demandas d’accès a vòstre microfòn.
 permissions-site-microphone-disable-label =
     .label = Blocar las novèlas demandas d’accès al microfòn
-permissions-site-microphone-disable-desc = Aquò empacha quin que siá site pas listat dessús de demandar l’accès a vòstre microfòn. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
+permissions-site-microphone-disable-desc = Aquò empacha quin site que siá pas listat dessús de demandar l’accès a vòstre microfòn. Lo blocatge d’aquel accès pòt copar de foncionalitats de sites.
