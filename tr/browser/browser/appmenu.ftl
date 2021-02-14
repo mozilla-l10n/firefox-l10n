@@ -96,8 +96,17 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Geçmişi yönet
+appmenu-reopen-all-tabs = Tüm sekmeleri yeniden aç
+appmenu-reopen-all-windows = Tüm pencereleri yeniden aç
+
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } yardımı
 appmenu-about =
     .label = { -brand-shorter-name } hakkında
     .accesskey = h
@@ -113,6 +122,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Klavye kısayolları
     .accesskey = K
+appmenu-get-help =
+    .label = Yardım al
+    .accesskey = Y
 appmenu-help-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
@@ -146,3 +158,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Güncellemeleri denetle…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Araç çubuğunu özelleştir…
+appmenu-developer-tools-subheader = Tarayıcı araçları
