@@ -103,3 +103,13 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = Игнорировать выбор выше и записывать все регистрируемые потоки
 perftools-tools-threads-input-label =
     .title = Эти имена потоков представляют собой список разделенный запятыми, который используется для включения профилирования потоков в профайлере. Имя может быть только частичным совпадением с именем потока, который будет включён. Это поле чувствительно к пробелам.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+perftools-onboarding-message = <b>Новое</b>:  В Инструменты разработчика теперь интегрирован { -profiler-brand-name }. <a>Узнайте больше</a> об этом новом, мощном инструменте.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (В течение ограниченного периода времени вы можете использовать оригинальную панель Производительности, используя <a>{ options-context-advanced-settings }</a>)
+perftools-onboarding-close-button =
+    .aria-label = Закрыть приветственное сообщение
