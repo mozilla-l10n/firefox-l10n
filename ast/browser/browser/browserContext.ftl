@@ -12,7 +12,7 @@ navbar-tooltip-instruction =
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Dir p'atrás una páxina ({ $shortcut })
+    .tooltiptext = Dir p'atrás una páxina
     .aria-label = Atrás
     .accesskey = A
 navbar-tooltip-back =
@@ -22,7 +22,7 @@ toolbar-button-back =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Dir una páxina p'atrás ({ $shortcut })
+    .tooltiptext = Dir p'atrás una páxina ({ $shortcut })
     .aria-label = Atrás
     .accesskey = A
 navbar-tooltip-back-2 =
@@ -54,7 +54,7 @@ toolbar-button-forward-2 =
 ## Reload
 
 main-context-menu-reload =
-    .aria-label = Anovar
+    .aria-label = Volver cargar
     .accesskey = r
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
@@ -106,7 +106,7 @@ main-context-menu-open-link =
     .label = Abrir l'enllaz
     .accesskey = A
 main-context-menu-open-link-new-tab =
-    .label = Abrir l'enllaz nun llingüeta nueva
+    .label = Abrir l'enllaz nuna llingüeta nueva
     .accesskey = l
 main-context-menu-open-link-container-tab =
     .label = Abrir l'enllaz nuna llingüeta de contenedor nueva
@@ -207,7 +207,7 @@ main-context-menu-media-pip =
     .label = Imaxe sobre imaxe
     .accesskey = x
 main-context-menu-image-reload =
-    .label = Anovar la imaxe
+    .label = Volver cargar la imaxe
     .accesskey = r
 main-context-menu-image-view =
     .label = Ver la imaxe
@@ -294,7 +294,7 @@ main-context-menu-frame-open-window =
     .label = Abrir el marcu nuna ventana nueva
     .accesskey = v
 main-context-menu-frame-reload =
-    .label = Anovar el marcu
+    .label = Volver cargar el marcu
     .accesskey = r
 main-context-menu-frame-bookmark =
     .label = Amestar esti marcu a Marcadores
