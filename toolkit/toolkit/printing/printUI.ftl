@@ -10,6 +10,7 @@ printui-sheets-count =
         [one] { $sheetCount } fueya de papel
        *[other] { $sheetCount } fueyes de papel
     }
+printui-page-range-all = Toes
 printui-page-range-label = Páxines
 # Section title for the number of copies to print
 printui-copies-label = Copies
@@ -30,6 +31,8 @@ printui-scale-pcent = Escalar
 printui-two-sided-printing = Imprentación a dos cares
 # Section title for miscellaneous print options
 printui-options = Opciones
+printui-color-mode-color = En color
+printui-color-mode-bw = Blancu y prietu
 printui-margins = Márxenes
 printui-margins-default = Lo predeterminao
 printui-margins-custom-top = Arriba

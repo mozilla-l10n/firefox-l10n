@@ -17,8 +17,6 @@
 
 ## Style Editor section
 
-# The label for the checkbox that toggles autocompletion of css in the Style Editor
-options-stylesheet-autocompletion-label = Autocompletar CSS
 
 ## Screenshot section
 
