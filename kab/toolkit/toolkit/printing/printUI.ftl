@@ -39,6 +39,7 @@ printui-scale-pcent = Sellum
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Asiggez ɣef sin wudmawen
 printui-duplex-checkbox = Siggez ɣef sin wudmawen
+printui-two-sided-printing-off = Yensa
 # Section title for miscellaneous print options
 printui-options = Iɣewwaren
 printui-headers-footers-checkbox = Siggez iqerra d yiḍarren n usebter
