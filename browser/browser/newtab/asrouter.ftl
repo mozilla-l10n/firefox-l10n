@@ -311,3 +311,4 @@ cfr-whatsnew-bookmarking-body = Zarządzanie ulubionymi stronami jest łatwiejsz
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Kompleksowa ochrona przed śledzeniem za pomocą ciasteczek między witrynami
+cfr-whatsnew-cross-site-tracking-body = Można teraz opcjonalnie włączyć lepszą ochronę przed śledzeniem za pomocą ciasteczek. { -brand-short-name } może izolować Twoje działania i dane w obecnie przeglądanej witrynie, dzięki czemu informacje przechowywane w przeglądarce nie są dzielone między witrynami.
