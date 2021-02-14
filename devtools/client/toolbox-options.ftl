@@ -18,7 +18,7 @@ options-tool-not-supported-label = * Não suportado pelo alvo atual das ferramen
 options-select-additional-tools-label = Ferramentas de desenvolvimento instaladas por extensões
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
-options-select-enabled-toolbox-buttons-label = Botões na caixa de ferramentas
+options-select-enabled-toolbox-buttons-label = Botões na barra de ferramentas
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Temas
 
@@ -88,25 +88,25 @@ options-sourceeditor-keybinding-default-label = Normal
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Configurações avançadas
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = Desativar cache HTTP (quando a caixa de ferramentas está aberta)
+options-disable-http-cache-label = Desativar cache HTTP (quando as ferramentas estão abertas)
 options-disable-http-cache-tooltip =
     .title = Desativar cache HTTP de todas as abas que estão com as ferramentas de desenvolvimento abertas. Service workers não são afetados por esta opção.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Desativar JavaScript *
 options-disable-javascript-tooltip =
-    .title = Desativar JavaScript na aba atual. Se a aba ou a caixa de ferramentas for fechada, esta configuração é esquecida.
+    .title = Desativar JavaScript na aba atual. Esta configuração é esquecida se fechar a aba ou as ferramentas.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Ativar caixas de ferramentas de debug do chrome do navegador e de extensões
 options-enable-chrome-tooltip =
-    .title = Permitir usar várias ferramentas de desenvolvimento no contexto do navegador (via Ferramentas > Desenvolvimento web > Caixa de ferramentas do navegador) e debugar extensões a partir do gerenciador de extensões
+    .title = Permitir usar várias ferramentas de desenvolvimento no contexto do navegador (via Ferramentas > Desenvolvimento web > Ferramentas do navegador) e debugar extensões a partir do gerenciador de extensões
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ativar depuração remota
 options-enable-remote-tooltip2 =
     .title = Permitir debugar remotamente esta instância do navegador
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = Ativar Service Workers sobre HTTP (quando a caixa de ferramentas estiver aberta)
+options-enable-service-workers-http-label = Ativar Service Workers sobre HTTP (quando as ferramentas estão abertas)
 options-enable-service-workers-http-tooltip =
-    .title = Permitir service workers sobre HTTP em todas as abas que estejam com a caixa de ferramentas aberta.
+    .title = Permitir service workers sobre HTTP em todas as abas que estejam com as ferramentas abertas.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Ativar mapas de fontes
 options-source-maps-tooltip =
