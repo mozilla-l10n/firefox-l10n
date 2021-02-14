@@ -10,7 +10,7 @@ elevation-details-link-label =
 elevation-error-manual =
     Pues anovar { -brand-short-name } a mano visitando esti enllaz
     y baxando la última versión:
-elevation-finished-page = Anovamientu preparáu pa instalase
+elevation-finished-page = L'anovamientu ta preparáu pa instalase
 elevation-finished-background-page =
     Baxóse un anovamientu de seguranza y estabilidá pa { -brand-short-name },
     y ta preparáu pa instalase.
