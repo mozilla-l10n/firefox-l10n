@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Taq Ruwi' k'a b'a' Ketz'apïx
 menu-history-undo-window-menu =
     .label = Taq k'ajtz'ib' k'a b'a' etz'apin
+menu-history-reopen-all-tabs = Kejaq Chik Ronojel Ruwi'
+menu-history-reopen-all-windows = Kejaq Chik Ronojel Taq Tzuwäch
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Ruq'a' rub'ey Keyboard
     .accesskey = K
+menu-get-help =
+    .label = Tk'ul To'ïk
+    .accesskey = o
 menu-help-troubleshooting-info =
     .label = Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
@@ -339,3 +344,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Re re' man q'olonel ta chi ruxaq k'amaya'l…
     .accesskey = q
+menu-help-check-for-update =
+    .label = Kenik'öx taq K'exoj…
+    .accesskey = K
