@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Son kapatılan sekmeler
 menu-history-undo-window-menu =
     .label = Son kapatılan pencereler
+menu-history-reopen-all-tabs = Tüm sekmeleri yeniden aç
+menu-history-reopen-all-windows = Tüm pencereleri yeniden aç
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Klavye kısayolları
     .accesskey = K
+menu-get-help =
+    .label = Yardım al
+    .accesskey = Y
 menu-help-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b

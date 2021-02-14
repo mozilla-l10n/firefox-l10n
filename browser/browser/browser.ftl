@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Oynatılıyor
 browser-tab-audio-muted = Ses kapatıldı
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = OYNATILIYOR
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = SESSİZ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = OTOMATİK OYNATMA ENGELLENDİ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = GÖRÜNTÜ İÇİNDE GÖRÜNTÜ
 
 ## Bookmarks toolbar items
 
@@ -525,6 +533,10 @@ bookmarks-show-all-bookmarks =
     .label = Tüm yer imlerini göster
 bookmarks-recent-bookmarks =
     .value = Yer imlerine yeni eklenenler
+bookmarks-manage-bookmarks =
+    .label = Yer imlerini yönet
+bookmarks-recent-bookmarks-panel =
+    .value = Son yer imleri
 bookmarks-toolbar-chevron =
     .tooltiptext = Daha fazla yer imi göster
 bookmarks-sidebar-content =
@@ -551,6 +563,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Yer imleri kenar çubuğunu gizle
+           *[other] Yer imleri araç çubuğunu göster
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Yer imleri araç çubuğunu gizle
            *[other] Yer imleri araç çubuğunu göster
         }
 bookmarks-tools-menu-button-visibility =

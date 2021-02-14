@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Dikkatli olun
@@ -9,19 +10,15 @@ about-config-intro-warning-text = Gelişmiş yapılandırma tercihlerini değiş
 about-config-intro-warning-checkbox = Bu tercihlere erişmeye çalıştığımda beni uyar
 about-config-intro-warning-button = Riski kabul ederek devam et
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Bu tercihleri değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
-
 about-config-page-title = Gelişmiş Tercihler
-
 about-config-search-input1 =
     .placeholder = Tercih adlarında ara
 about-config-show-all = Tümünü göster
-
+about-config-show-only-modified = Yalnızca değiştirilmiş tercihleri göster
 about-config-pref-add-button =
     .title = Ekle
 about-config-pref-toggle-button =

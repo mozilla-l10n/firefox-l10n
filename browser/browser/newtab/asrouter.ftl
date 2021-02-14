@@ -297,3 +297,4 @@ cfr-whatsnew-bookmarking-body = Sevdiğiniz siteleri kaydetmek kolaylaştı. { -
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Siteler arası çerez takibine karşı kapsamlı koruma
+cfr-whatsnew-cross-site-tracking-body = Artık çerez takibinden daha iyi korunmayı seçebilirsiniz. { -brand-short-name }, etkinliklerinizi ve verilerinizi içinde bulunduğunuz siteyle sınırlı kalacak şekilde izole edebilir. Böylece tarayıcıda depolanan bilgiler web siteleri arasında paylaşılmaz.
