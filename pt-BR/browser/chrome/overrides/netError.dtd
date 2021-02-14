@@ -49,7 +49,7 @@
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível na cache do &brandShortName;.</p><ul><li> Como uma precaução de segurança, o &brandShortName; não re-solicita automaticamente documentos sensíveis. </li><li>Clique em tentar novamente para re-solicitar o documento no site.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível no cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o &brandShortName; não volta a solicitar automaticamente documentos sensíveis.</li><li>Clique em 'Tentar novamente' para solicitar de novo o documento do site.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "
 <ul>
