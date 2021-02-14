@@ -212,12 +212,18 @@ cfr-doorhanger-cryptominers-description = Twoja prywatność jest ważna. { -bra
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } od { $date } zablokował <b>{ $blockedCount }</b> element śledzący!
         [few] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> elementy śledzące!
        *[many] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> elementów śledzących!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokował <b>{ $blockedCount }</b> element śledzący!
+        [few] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokował ponad <b>{ $blockedCount }</b> elementy śledzące!
+       *[many] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokował ponad <b>{ $blockedCount }</b> elementów śledzących!
     }
 cfr-doorhanger-milestone-ok-button = Wyświetl wszystkie
     .accesskey = W
@@ -301,3 +307,7 @@ cfr-whatsnew-supercookies-body = Strony internetowe mogą potajemnie dołączyć
 
 cfr-whatsnew-bookmarking-header = Lepsza obsługa zakładek
 cfr-whatsnew-bookmarking-body = Zarządzanie ulubionymi stronami jest łatwiejsze. { -brand-short-name } pamięta teraz preferowane miejsce zachowywania zakładek, domyślnie wyświetla pasek zakładek w nowych kartach i zapewnia łatwy dostęp do pozostałych zakładek za pomocą folderu na pasku zakładek.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Kompleksowa ochrona przed śledzeniem za pomocą ciasteczek między witrynami
