@@ -57,4 +57,6 @@
 <!ENTITY smart.label "Instalação de software">
 <!ENTITY mousewheel.label "Roda do rato">
 
+<!ENTITY debugging.label "Depuração">
+
 <!ENTITY focusSearch.key "f">
