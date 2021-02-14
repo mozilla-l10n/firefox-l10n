@@ -105,10 +105,61 @@ openpgp-key-send-key =
 openpgp-key-man-copy-to-clipbrd =
     .label = Kopírovat veřejný klíč do schránky
     .accesskey = K
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Kopírovat ID klíče do schránky
+            [few] Kopírovat ID klíčů do schránky
+           *[other] Kopírovat ID klíčů do schránky
+        }
+    .accesskey = D
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Kopírovat otisk do schránky
+            [few] Kopírovat otisky do schránky
+           *[other] Kopírovat otisky do schránky
+        }
+    .accesskey = o
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Kopírovat veřejný klíč do schránky
+            [few] Kopírovat veřejné klíče do schránky
+           *[other] Kopírovat veřejné klíče do schránky
+        }
+    .accesskey = v
 openpgp-key-man-ctx-expor-to-file-label =
     .label = Exportovat klíče do souboru
 openpgp-key-man-ctx-copy-to-clipbrd-label =
     .label = Kopírovat veřejné klíče do schránky
+openpgp-key-man-ctx-copy =
+    .label = Kopírovat
+    .accesskey = K
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] Otisk
+            [few] Otisky
+           *[other] Otisky
+        }
+    .accesskey = O
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] ID klíče
+            [few] ID klíčů
+           *[other] ID klíčů
+        }
+    .accesskey = D
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Veřejný klíč
+            [few] Veřejné klíče
+           *[other] Veřejné klíče
+        }
+    .accesskey = V
 openpgp-key-man-close =
     .label = Zavřít
 openpgp-key-man-reload =
@@ -216,6 +267,24 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird nemá žádný osobní klíč OpenPGP
+        [one] Thunderbird našel { $count } osobní klíč OpenPGP
+        [few] Thunderbird našel { $count } osobní klíče OpenPGP
+       *[other] Thunderbird našel { $count } osobních klíčů OpenPGP
+    } pro <b>{ $identity }</b>
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] Pro povolení protokolu OpenPGP vyberte platný klíč.
+       *[other] Vaše současná konfigurace používá klíč s ID <b>{ $key }</b>
+    }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Vaše současná konfigurace používá klíč <b>{ $key }</b>, jehož platnost skončila.
 openpgp-add-key-button =
     .label = Přidat klíč…
     .accesskey = a
@@ -242,6 +311,35 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Zneplatnit klíč
 openpgp-key-edit-title = Změnit klíč OpenPGP
 openpgp-key-edit-date-title = Prodloužit dobu platnosti
+openpgp-manager-button =
+    .label = Správce klíčů OpenPGP
+    .accesskey = k
+openpgp-key-remove-external =
+    .label = Odebrat ID externího klíče
+    .accesskey = e
+key-external-label = Externí klíč v GnuPG
+# Strings in keyDetailsDlg.xhtml
+key-type-public = veřejný klíč
+key-type-primary = primární klíč
+key-type-subkey = podklíč
+key-type-pair = pár klíčů (tajný klíč a veřejný klíč)
+key-expiry-never = nikdy
+# Strings in keyserver.jsm
+keyserver-error-aborted = Přerušeno
+keyserver-error-unknown = Došlo k neznámé chybě
+# Strings in enigmailKeyImportInfo.js
+import-info-title =
+    .title = Import klíčů proběhl úspěšně!
+import-info-bits = Bitů
+import-info-created = Vytvořen
+import-info-fpr = Otisk
+import-info-details = Zobrazit podrobnosti a spravovat přijetí klíče
+import-info-no-keys = Nebyly naimportovány žádné klíče.
+# Strings in enigmailKeyManager.js
+import-from-clip = Přejete si naimportovat nějaké klíče ze schránky?
+import-from-url = Stáhnout veřejný klíč z této URL adresy:
+copy-to-clipbrd-failed = Vybrané klíče nelze zkopírovat do schránky.
+copy-to-clipbrd-ok = Klíče byly zkopírovány do schránky
 
 ## Account settings export output
 
@@ -254,3 +352,18 @@ key-valid-expired = platnost vypršela
 
 # Strings used in enigmailMessengerOverlay.js
 
+dlg-button-ok = &OK
+dlg-button-close = &Zavřít
+dlg-button-cancel = &Zrušit
+dlg-no-prompt = Tento dialog příště nezobrazovat
+enig-prompt = Výzva - OpenPGP
+enig-confirm = Potvrzení - OpenPGP
+enig-alert = Upozornění - OpenPGP
+enig-info = Informace - OpenPGP
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = &Opakovat
+dlg-button-skip = &Přeskočit
+# Strings used in enigmailCommon.js
+enig-error = Chyba OpenPGP
+enig-alert-title =
+    .title = Upozornění - OpenPGP
