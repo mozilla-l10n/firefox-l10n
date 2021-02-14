@@ -19,5 +19,5 @@ state-header = Estáu
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
 update-details = Detalles
-update-installed-on = Data d'instalación: { $date }
+update-installed-on = Instalóse'l { $date }
 update-status = Estáu: { $status }
