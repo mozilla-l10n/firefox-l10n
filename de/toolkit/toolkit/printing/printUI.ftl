@@ -40,6 +40,10 @@ printui-scale-pcent = Skalierung
 printui-two-sided-printing = Beidseitiger Druck
 printui-duplex-checkbox = Beidseitig bedrucken
 printui-two-sided-printing-off = Aus
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = An seitlicher Kante drehen
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = An oberer Kante drehen
 # Section title for miscellaneous print options
 printui-options = Einstellungen
 printui-headers-footers-checkbox = Kopf- und Fußzeilen drucken
