@@ -79,9 +79,28 @@ perftools-thread-compositor =
     .title = Składa razem różne narysowane elementy na stronie
 perftools-thread-dom-worker =
     .title = Obsługuje wątki sieciowe i wątki usługowe
+perftools-thread-renderer =
+    .title = Wątek wykonujący wywołania OpenGL, kiedy WebRender jest włączony
+perftools-thread-render-backend =
+    .title = Wątek RenderBackend silnika WebRender
+perftools-thread-paint-worker =
+    .title = Wątek, w którym odbywa się rysowanie, kiedy rysowanie poza wątkiem głównym jest włączone
+perftools-thread-style-thread =
+    .title = Obliczanie stylów jest rozdzielone na wiele wątków
+pref-thread-stream-trans =
+    .title = Przesyłanie strumienia sieciowego
+perftools-thread-socket-thread =
+    .title = Wątek, w którym kod sieciowy wykonuje blokujące wywołania gniazd
+perftools-thread-img-decoder =
+    .title = Wątki dekodowania obrazów
+perftools-thread-dns-resolver =
+    .title = Rozwiązywanie DNS odbywa się w tym wątku
+perftools-thread-js-helper =
+    .title = Praca silnika JS w tle, taka jak kompilacje poza wątkiem głównym
 
 ##
 
+perftools-record-all-registered-threads = Pomiń powyższy wybór i nagraj wszystkie zarejestrowane wątki
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
