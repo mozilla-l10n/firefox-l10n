@@ -2,20 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-psmerr-ssl-disabled = Nun pue coneutase de mou seguru porque desactivóse'l protocolu SSL.
-psmerr-ssl2-disabled = Nun pue coneutase de mou seguru porque'l sitiu usa una versión vieya ya insegura del protocolu SSL.
-
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Asocedió un fallu na conexón a { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Códigu del fallu: { $error }
+psmerr-ssl-disabled = Nun pue conectase de forma segura porque'l protocolu SSL ta desactiváu.
+psmerr-ssl2-disabled = Nun pue conectase de forma segura al sitiu porque usa una versión vieya ya insegura del protocolu SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Recibiesti un certificáu non válidu.  Contauta col alministrador del sirvidor o unvia un corréu a quien correspuenda cola información de darréu:
+    Recibiesti un certificáu que nun ye válidu. Ponte en contautu col alministrador del sirvidor o'l remitente del corréu electrónicu y apurri-yos la información de darréu:
     
-    El to certificáu contién el mesmu númberu de serie que l'otru emitíu pola autoridá certificadora.  Consigui un certificáu nuevu que contenga un númeru de serie únicu.
-
+    El to certificáu contién el mesmu númberu de serie qu'otru certificáu emitíu pola autoridá certificadora. Consigui un certificáu nuevu que contenga un númberu de serie únicu, por favor.
 ssl-error-export-only-server = Nun pue comunicase de mou seguru. L'otru estremu nun sofita cifráu de grau altu.
 ssl-error-us-only-server = Nun pue coneutase de mou seguru. L'otru estremu rique un cifráu de grau altu que nun ta sofitáu.
 ssl-error-no-cypher-overlap = Nun pue comunicase de mou seguru col otru estremu: nun hai algoritmu(os) de cifráu común(es).
