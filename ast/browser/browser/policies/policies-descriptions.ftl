@@ -80,10 +80,15 @@ policy-OverridePostUpdatePage = Anula la páxina de dempués del anovamientu «N
 policy-PasswordManagerEnabled = Activa'l guardáu de contraseñes nel xestor de contraseñes.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactiva o configura PDF.js, el visor de PDFs integráu en { -brand-short-name }.
+policy-Permissions2 = Configura los permisos pal micrófonu, la cámara, l'allugamientu, los avisos y la reproducción automática.
+policy-PictureInPicture = Des/activa'l mou imaxe sobre imaxe
 policy-PopupBlocking = Permite que ciertos sitios web amuesen ventanos emerxentes por defeutu.
+policy-Preferences = Afita y bloquia'l valor d'un soconxuntu de preferencies.
 policy-PromptForDownloadLocation = Entruga ónde guardar los ficheros al baxalos.
 policy-Proxy = Configura los axustes d'un proxy.
+policy-RequestedLocales = Afita la llista de locales solicitaes pa la aplicación, n'orde de preferencia.
 policy-SanitizeOnShutdown2 = Llimpia los datos del restolar al colar.
+policy-SearchBar = Afita l'allugamientu predetermináu de la barra de busca. L'usuariu va siguir pudiendo personalizala.
 policy-SearchEngines = Configura los axustes de los motores de busca. Esta política namás ta disponible na versión Extended Support Release (ESR)
 policy-SearchSuggestEnabled = Des/activa les suxerencies de busca.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
