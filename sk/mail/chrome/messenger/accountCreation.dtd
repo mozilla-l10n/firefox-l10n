@@ -5,7 +5,7 @@
 <!ENTITY emailWizard.title               "Nastavenie existujúcej e-mailovej adresy">
 <!ENTITY emailWizard.caption             "Použiť existujúcu e-mailovú adresu">
 <!ENTITY name.label                      "Vaše meno:">
-<!ENTITY name.accesskey                  "V">
+<!ENTITY name.accesskey                  "n">
 <!ENTITY fullname.placeholder            "Vaše celé meno">
 <!ENTITY name.text                       "Vaše meno tak ako bude zobrazené ostatným">
 <!ENTITY name.error                      "Prosím, zadajte svoje meno">
@@ -72,9 +72,9 @@
 <!ENTITY half-manual-test.label          "Znova otestovať nastavenie">
 <!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-config.label             "Nastaviť manuálne…">
-<!ENTITY manual-config.accesskey         "N">
+<!ENTITY manual-config.accesskey         "m">
 <!ENTITY open-provisioner.label          "Získať novú e-mailovú adresu…">
-<!ENTITY open-provisioner.accesskey      "s">
+<!ENTITY open-provisioner.accesskey      "v">
 <!ENTITY get-help.label                  "Získať pomoc">
 <!ENTITY get-help.accesskey              "p">
 
