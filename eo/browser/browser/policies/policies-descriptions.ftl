@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reiri al la tradicia k
 ##
 
 policy-LocalFileLinks = Permesi al kelkaj difinitaj retejoj havi ligilojn al lokaj dosieroj.
-policy-MasterPassword = Postuli aŭ eviti la uzon de ĉefa pasvorto.
 policy-ManagedBookmarks = Agordi liston de legosignoj, kiun kreas administrato kaj kiun la uzanto ne povas modifi.
+policy-MasterPassword = Postuli aŭ eviti la uzon de ĉefa pasvorto.
+policy-ManualAppUpdateOnly = Permesi nur neaŭtomatajn ĝisdatigojn kaj ne sciigi la uzanton pri disponeblaj ĝisdatigoj.
 policy-PrimaryPassword = Postuli aŭ eviti la uzon de ĉefa pasvorto.
 policy-NetworkPrediction = Aktivigi aŭ malaktivigi retan prognozon (antaŭlegon de DNS).
 policy-NewTabPage = Aktivigi aŭ malaktivigi la paĝon por novaj langetoj.
