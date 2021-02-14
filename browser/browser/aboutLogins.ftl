@@ -205,7 +205,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Esto va quitar los anicios de sesión que guardares nel { -brand-short-name } de tolos preseos sincronizaos cola to { -fxaccount-brand-name }. Tamién va quitar les alertes d'arrampuñamientu qu'apaezan equí. Nun vas ser a desfacer esta aición.
     }
 about-logins-confirm-export-dialog-title = Esportación d'anicios de sesión y contraseñes
-about-logins-confirm-export-dialog-message = Les contraseñes van guardase como testu lleible (por exemplu: C0ntR4s4ñ4M4l4), polo que tol mundu va poder abrir el ficheru esportáu y veles.
+about-logins-confirm-export-dialog-message = Les contraseñes van guardase como testu lleíble (por exemplu: C0ntR4s4ñ4M4l4), polo que tol mundu va poder abrir el ficheru esportáu y veles.
 about-logins-confirm-export-dialog-confirm-button = Esportar…
 about-logins-alert-import-title = Completóse la importación
 about-logins-alert-import-message = Mira'l sumariu detalláu de la importación
@@ -217,7 +217,7 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 
 about-logins-breach-alert-title = Arrampuñamientu del sitiu web
 breach-alert-text = Hebo un escape o robu de les contraseñes d'esti sitiu web dende la última vegada qu'anovesti los detalles d'aniciu de sesión. Camuda la contraseña pa protexer la cuenta.
-about-logins-breach-alert-date = Esti arrampuñamientu asociedió'l { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Esti arrampuñamientu asocedió'l { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Dir a { $hostname }
@@ -226,7 +226,7 @@ about-logins-breach-alert-learn-more-link = Deprender más
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Contraseña vulnerable
-about-logins-vulnerable-alert-text2 = Esta contraseña usóse n'otra cuenta que quiciabes tuviere nun arrampuñamientu de datos. Usar los mesmos datos en toles cuentes ponles en riesgu. Camuda esta contraseña.
+about-logins-vulnerable-alert-text2 = Esta contraseña usóse n'otra cuenta que probablemente tuviere nun arrampuñamientu de datos. Usar los mesmos datos en toles cuentes ponles en riesgu. Camuda esta contraseña.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Dir a { $hostname }
@@ -290,8 +290,8 @@ about-logins-import-dialog-items-added =
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Ancios de sesión anovaos:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] <span>Ancios de sesión anovaos:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Anicios de sesión anovaos:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Anicios de sesión anovaos:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
@@ -309,9 +309,9 @@ about-logins-import-dialog-error-conflicting-values-title = Un aniciu de sesión
 about-logins-import-dialog-error-conflicting-values-description = Por exemplu: nomes d'usuariu, contraseñes o URL múltiples pa un aniciu de sesión.
 about-logins-import-dialog-error-file-format-title = Problemes col formatu del ficheru
 about-logins-import-dialog-error-file-format-description = Falten les testeres de les columnes o son incorreutes. Asegúrate de que'l ficheru inclúi les columnes pal nome d'usuariu, la contraseña y la URL.
-about-logins-import-dialog-error-file-permission-title = Nun pue lleese'l ficheru
+about-logins-import-dialog-error-file-permission-title = Nun ye posible lleer el ficheru
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nun tienes permisu pa lleer el ficheru. Prueba a camudar los sos permisos.
-about-logins-import-dialog-error-unable-to-read-title = Nun pue analizase'l ficheru
+about-logins-import-dialog-error-unable-to-read-title = Nun ye posible analizar el ficheru
 about-logins-import-dialog-error-unable-to-read-description = Asegúrate de qu'esbillesti un ficheru CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún aniciu de sesión
 about-logins-import-dialog-error-learn-more = Deprender más
