@@ -298,3 +298,4 @@ cfr-whatsnew-bookmarking-header = Betre bokmerking
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Omfattande vern mot sporingsinfokapslar på tvers av nettstadar
