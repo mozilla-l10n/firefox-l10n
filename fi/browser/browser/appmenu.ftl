@@ -23,6 +23,10 @@ appmenuitem-extensions-and-themes =
     .label = Laajennukset ja teemat
 appmenuitem-find-in-page =
     .label = Etsi sivulta…
+appmenuitem-more-tools =
+    .label = Lisää työkaluja
+appmenuitem-exit =
+    .label = Sulje
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -63,6 +67,9 @@ profiler-popup-settings =
     .value = Asetukset
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Muokkaa asetuksia…
+
+## History panel
+
 
 ## Help panel
 
@@ -119,4 +126,7 @@ appmenu-help-not-deceptive =
     .accesskey = p
 
 ##
+
+
+## More Tools
 
