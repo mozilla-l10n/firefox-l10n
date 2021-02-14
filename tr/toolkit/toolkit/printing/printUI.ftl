@@ -39,6 +39,7 @@ printui-scale-pcent = Ölçeklendir
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = İki taraflı yazdırma
 printui-duplex-checkbox = Kâğıdın iki yüzüne yazdır
+printui-two-sided-printing-off = Kapalı
 # Section title for miscellaneous print options
 printui-options = Seçenekler
 printui-headers-footers-checkbox = Üst bilgi ve alt bilgileri yazdır
