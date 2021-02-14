@@ -601,7 +601,7 @@ library-bookmarks-bookmark-this-page =
 library-bookmarks-bookmark-edit =
     .label = Lesezeichen bearbeiten
 library-recent-activity-title =
-    .value = Jüngste Aktivität
+    .value = Neueste Aktivität
 
 ## More items
 
