@@ -324,6 +324,7 @@ about-logins-import-dialog-error-file-permission-title = Не ўдалося п�
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } не мае дазволу на чытанне файла. Паспрабуйце змяніць дазволы файла.
 about-logins-import-dialog-error-unable-to-read-title = Не ўдалося разабраць файл
 about-logins-import-dialog-error-unable-to-read-description = Упэўніцеся, што выбраны файл CSV або TSV.
+about-logins-import-dialog-error-no-logins-imported = Ніводзін лагін не імпартаваны
 about-logins-import-dialog-error-learn-more = Даведацца больш
 about-logins-import-dialog-error-try-again = Паспрабаваць зноў...
 about-logins-import-dialog-error-cancel = Скасаваць
