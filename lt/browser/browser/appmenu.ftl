@@ -96,6 +96,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Tvarkyti žurnalą
+appmenu-reopen-all-tabs = Įkelti visas korteles
+appmenu-reopen-all-windows = Įkelti visus langus
+
 ## Help panel
 
 appmenu-help-header =
@@ -151,3 +158,8 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Ieškoti naujinimų…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Tvarkyti priemonių juostą…
