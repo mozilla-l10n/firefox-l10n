@@ -65,8 +65,8 @@ perftools-button-capture-recording = Aufnahme speichern
 perftools-button-cancel-recording = Aufnahme abbrechen
 perftools-button-save-settings = Einstellungen speichern und zurückgehen
 perftools-button-restart = Neu starten
-perftools-button-add-directory = Ein Verzeichnis hinzufügen
-perftools-button-remove-directory = Ausgewählte entfernen
+perftools-button-add-directory = Ordner hinzufügen
+perftools-button-remove-directory = Ausgewählten Ordner entfernen
 perftools-button-edit-settings = Einstellungen bearbeiten…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
