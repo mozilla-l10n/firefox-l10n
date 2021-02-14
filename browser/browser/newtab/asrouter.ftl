@@ -210,12 +210,18 @@ cfr-doorhanger-cryptominers-description = Ваша прыватнасць мае
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } заблакаваў больш за  <b>{ $blockedCount }</b> трэкер з { $date }!
         [few] { -brand-short-name } заблакаваў больш за  <b>{ $blockedCount }</b> трэкеры з { $date }!
        *[many] { -brand-short-name } заблакаваў больш за  <b>{ $blockedCount }</b> трэкераў з { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } заблакаваў больш за <b>{ $blockedCount }</b> трэкер з { DATETIME($date, month: "long", year: "numeric") }!
+        [few] { -brand-short-name } заблакаваў больш за <b>{ $blockedCount }</b> трэкеры з { DATETIME($date, month: "long", year: "numeric") }!
+       *[many] { -brand-short-name } заблакаваў больш за <b>{ $blockedCount }</b> трэкераў з { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Пабачыць усе
     .accesskey = ы
@@ -299,3 +305,8 @@ cfr-whatsnew-supercookies-body = Вэб-сайты могуць таемна п�
 
 cfr-whatsnew-bookmarking-header = Лепшая праца з закладкамі
 cfr-whatsnew-bookmarking-body = Стала прасцей асочваць вашы ўлюбёныя сайты. { -brand-short-name } цяпер запамінае ваша пераважнае месца для захавання закладак, прадвызначана паказвае панэль закладак на новых картках і дае просты доступ да астатніх вашых закладак праз папку на паліцы прылад.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Комплексная абарона ад міжсайтавых кукаў асочвання
+cfr-whatsnew-cross-site-tracking-body = Цяпер вы можаце ўключыць лепшую абарону ад кукаў асочвання. { -brand-short-name } можа ізаляваць вашу дзейнасць і дадзеныя на сайце, на якім вы зараз знаходзіцеся, таму інфармацыя, якая захоўваецца ў браўзеры, не перадаецца паміж веб-сайтамі.
