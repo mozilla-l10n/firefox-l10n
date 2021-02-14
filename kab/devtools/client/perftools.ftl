@@ -71,6 +71,8 @@ perftools-button-edit-settings = Ẓreg iɣewwaren…
 
 perftools-thread-gecko-main =
     .title = Ikalan igejdanen i yikalan imarrawen d yialan n ugbur
+perftools-thread-compositor =
+    .title = Ijemmeɛ iferdisen yemgaraden yettwasunɣen ɣef usebter
 perftools-thread-renderer =
     .title = Mi ara WebRender yetturmed, asqerdec i iselkamen isawalen OpenGL
 perftools-thread-render-backend =
