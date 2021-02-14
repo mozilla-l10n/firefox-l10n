@@ -176,6 +176,7 @@ language-name-st = Sota
 language-name-su = Sunda
 language-name-sv = Sveda
 language-name-sw = Svahila
+language-name-szl = Silezia
 language-name-ta = Tamila
 language-name-te = Telugua
 language-name-tg = Taĝika
