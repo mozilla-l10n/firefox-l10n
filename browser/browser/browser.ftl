@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = S'està reproduint
 browser-tab-audio-muted = Silenciat
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = S'ESTÀ REPRODUINT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = SILENCIAT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = REPRODUCCIÓ AUTOMÀTICA BLOCADA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = IMATGE SOBRE IMATGE
 
 ## Bookmarks toolbar items
 
