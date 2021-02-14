@@ -12,6 +12,11 @@ printui-sheets-count =
     }
 printui-page-range-all = Toes
 printui-page-range-label = Páxines
+printui-page-range-picker =
+    .aria-label = Escoyer un rangu de páxines
+printui-page-custom-range-input =
+    .aria-label = Introduz un rangu de páxines personalizáu
+    .placeholder = 2-6, 9 ó 12-16
 # Section title for the number of copies to print
 printui-copies-label = Copies
 printui-orientation = Orientación
@@ -31,16 +36,27 @@ printui-scale-pcent = Escalar
 printui-two-sided-printing = Imprentación a dos cares
 # Section title for miscellaneous print options
 printui-options = Opciones
+printui-headers-footers-checkbox = Imprentar les testeres y los pies de páxina
+printui-backgrounds-checkbox = Imprentar los fondos
+printui-selection-checkbox = Imprentar namás la esbilla
 printui-color-mode-color = En color
 printui-color-mode-bw = Blancu y prietu
 printui-margins = Márxenes
 printui-margins-default = Lo predeterminao
+printui-margins-min = Lo mínimo
 printui-margins-custom-top = Arriba
 printui-margins-custom-bottom = Abaxo
 printui-margins-custom-left = Esquierda
 printui-margins-custom-right = Derecha
+printui-system-dialog-link = Imprentar col diálogu del sistema…
+printui-primary-button = Imprentar
 printui-primary-button-save = Guardar
 printui-cancel-button = Encaboxar
+printui-close-button = Zarrar
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Previsualización de la imprentación
 printui-pages-per-sheet = Páxines per fueya
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
