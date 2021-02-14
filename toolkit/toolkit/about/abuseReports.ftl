@@ -9,14 +9,14 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Prijava za { $addon-name }
 abuse-report-title-extension = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
-abuse-report-title-theme = Prijavi ovaj motiv prodavaču { -vendor-short-name }
+abuse-report-title-theme = Prijavi ovu temu prodavaču { -vendor-short-name }
 abuse-report-subtitle = Što je problem?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = od <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-learnmore =
     Ne znaš koji problem odabrati?
-    <a data-l10n-name="learnmore-link">Saznaj više o prijavljivanju problema s dodacima i motivima</a>
+    <a data-l10n-name="learnmore-link">Saznaj više o prijavljivanju problema s dodacima i temama</a>
 abuse-report-submit-description = Opišite problem (opcionalno)
 abuse-report-textarea =
     .placeholder = Lakše nam je ispraviti pogrešku ukoliko znamo detalje problema. Opiši događaj. Hvala, što nam pomažeš održati web zdravim.
@@ -42,7 +42,7 @@ abuse-report-messagebar-submitting = Slanje prijave za <span data-l10n-name="add
 abuse-report-messagebar-submitted = Hvala ti za slanje izvještaja. Želiš li ukloniti <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Hvala ti za slanje izvještaja.
 abuse-report-messagebar-removed-extension = Hvala ti za slanje izvještaja. Uklonio/la si dodatak <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-removed-theme = Hvala ti za slanje izvještaja. Uklonio/la si motiv <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-theme = Hvala ti za slanje izvještaja. Tema <span data-l10n-name="addon-name">{ $addon-name }</span> je uklonjena.
 abuse-report-messagebar-error = Došlo je do greške prilikom slanja prijave za <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Prijava za <span data-l10n-name="addon-name">{ $addon-name }</span> nije poslana iz razloga što je druga prijava nedavno poslana.
 
@@ -76,7 +76,7 @@ abuse-report-broken-suggestions-extension =
     Podatke o programeru potraži na <a data-l10n-name="support-link">web-stranici dodatka</a>.
 abuse-report-broken-suggestions-theme =
     Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
-    rješavanje funkcionalnih problema je, da kontaktiraš programera motiva.
+    rješavanje funkcionalnih problema je da kontaktiraš programera teme.
     Podatke o programeru potraži na <a data-l10n-name="support-link">web-stranici dodatka</a>.
 abuse-report-policy-reason-v2 = Sadrži mržnju, nasilan ili ilegalan sadržaj
 abuse-report-policy-suggestions =

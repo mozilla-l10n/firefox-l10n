@@ -56,10 +56,10 @@ cmd-preferences =
            *[other] O
         }
 cmd-enable-theme =
-    .label = Aktiviraj motiv
+    .label = Aktiviraj temu
     .accesskey = k
 cmd-disable-theme =
-    .label = Deaktiviraj motiv
+    .label = Deaktiviraj temu
     .accesskey = k
 cmd-install-addon =
     .label = Instaliraj
@@ -411,7 +411,7 @@ recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradi
 ## Page headings
 
 extension-heading = Upravljaj dodacima
-theme-heading = Upravljaj motivima
+theme-heading = Upravljaj temama
 plugin-heading = Upravljaj priključcima
 dictionary-heading = Upravljaj rječnicima
 locale-heading = Upravljaj jezicima
