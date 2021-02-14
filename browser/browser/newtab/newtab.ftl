@@ -56,6 +56,10 @@ newtab-privacy-modal-button-done = Fecho
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Quitar el marcador
+# Bookmark is a verb here.
+newtab-menu-bookmark = Amestar a Marcadores
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
