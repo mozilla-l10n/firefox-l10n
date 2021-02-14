@@ -344,3 +344,4 @@ cfr-whatsnew-bookmarking-body = Zpráva vašich oblíbených stránek je nyní j
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Důkladná ochrana proti sledování pomocí cookies třetích stran
+cfr-whatsnew-cross-site-tracking-body = Nově můžete využít lepší ochranu proti sledování skrze cookies. { -brand-short-name } vaše vnitřně oddělí uložené informace o vašich aktivitách a data navštívených stránek, takže nebudou sdíleny mezi servery.
