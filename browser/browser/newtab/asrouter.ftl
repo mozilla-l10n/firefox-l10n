@@ -206,7 +206,7 @@ cfr-doorhanger-cryptominers-description = Yksityisyytesi on tärkeää. { -brand
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } on estänyt yli <b>{ $blockedCount }</b> seurainta { $date } lähtien!
@@ -293,3 +293,7 @@ cfr-whatsnew-supercookies-body = Sivustot voivat salaa kiinnittää selaimeesi �
 
 cfr-whatsnew-bookmarking-header = Paremmat kirjanmerkit
 cfr-whatsnew-bookmarking-body = Suosikkisivustojesi seuranta on helpompaa. { -brand-short-name } muistaa nyt haluamasi sijainnin tallennetuille kirjanmerkeille, näyttää kirjanmerkkipalkin oletusarvoisesti uusilla välilehdillä ja antaa sinulle helpon pääsyn muihin kirjanmerkkeihisi työkalupalkin kansion kautta.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Kattava suojaus sivustorajat ylittäviltä seurainevästeiltä
