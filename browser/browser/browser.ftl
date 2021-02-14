@@ -302,6 +302,7 @@ identity-passive-loaded = Části této stránky nejsou zabezpečené (napříkl
 identity-active-loaded = Na této stránce jste ochranu zakázali.
 identity-weak-encryption = Tento server používá slabé šifrování.
 identity-insecure-login-forms = Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.
+identity-https-only-connection-upgraded = (přepnuto na HTTPS)
 identity-https-only-label = Režim „pouze HTTPS“
 identity-https-only-dropdown-on =
     .label = Zapnuto
@@ -309,7 +310,15 @@ identity-https-only-dropdown-off =
     .label = Vypnuto
 identity-https-only-dropdown-off-temporarily =
     .label = Dočasně vypnuto
+identity-https-only-info-turn-on2 =
+    Pokud chcete, aby { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } přepnul
+        [feminine] { -brand-short-name } přepnula
+        [neuter] { -brand-short-name } přepnulo
+       *[other] aplikace { -brand-short-name } přepnula
+    } spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
 identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
+identity-https-only-info-no-upgrade = Nepodařilo se přepnout spojení z HTTP.
 identity-permissions =
     .value = Oprávnění
 identity-permissions-storage-access-header = Cross-site cookies
@@ -542,6 +551,13 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorem
 
 ## Subframe crash notification
 
+crashed-subframe-message =
+    <strong>Část této stránky spadla.</strong> Pokud chcete autorům { -brand-shorter-name.gender ->
+        [masculine] { -brand-product-name(case: "gen") }
+        [feminine] { -brand-product-name(case: "gen") }
+        [neuter] { -brand-product-name(case: "gen") }
+       *[other] aplikace { -brand-product-name }
+    } tento problém nahlásit pro zrychlení opravy, odešlete prosím hlášení.
 crashed-subframe-learnmore =
     .label = Zjistit více
     .accesskey = Z
@@ -556,7 +572,7 @@ bookmarks-show-all-bookmarks =
 bookmarks-recent-bookmarks =
     .value = Naposledy přidané
 bookmarks-manage-bookmarks =
-    .label = Správce záložek
+    .label = Správa záložek
 bookmarks-recent-bookmarks-panel =
     .value = Naposledy přidané
 bookmarks-toolbar-chevron =

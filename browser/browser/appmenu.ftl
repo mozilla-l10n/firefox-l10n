@@ -71,11 +71,15 @@ profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = Zobrazit podrobnosti
+profiler-popup-description-title =
+    .value = Zaznamenejte, analyzujte, sdílejte
+profiler-popup-description = Spolupracujte na řešení výkonnostních problémů sdílením dat se svým týmem.
 profiler-popup-learn-more = Zjistit více
 profiler-popup-settings =
     .value = Nastavení
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Úprava nastavení
+profiler-popup-disabled = Profiler je v tuto chvíli vypnutý, pravděpodobně protože máte otevřené okno anonymního prohlížení.
 profiler-popup-recording-screen = Nahrávání…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -101,7 +105,7 @@ profiler-popup-capture-shortcut =
 ## History panel
 
 appmenu-manage-history =
-    .label = Správce historie
+    .label = Správa historie
 appmenu-reopen-all-tabs = Znovu otevřít všechny panely
 appmenu-reopen-all-windows = Znovu otevřít všechna okna
 

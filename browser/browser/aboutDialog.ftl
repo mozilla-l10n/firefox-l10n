@@ -44,7 +44,7 @@ update-restarting = Restartování…
 channel-description = Používáte aktualizační kanál <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } je experimentální verze a může být nestabilní.
 aboutdialog-help-user =
-    Nápověda { -brand-shorter-name.gender ->
+    Nápověda { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "gen") }
         [feminine] { -brand-product-name(case: "gen") }
         [neuter] { -brand-product-name(case: "gen") }
