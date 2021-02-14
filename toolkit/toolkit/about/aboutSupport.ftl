@@ -39,30 +39,46 @@ app-basics-name = Nome
 app-basics-version = Versión
 app-basics-build-id = ID de compilación
 app-basics-distribution-id = ID de distribución
-app-basics-update-channel = Canal d'anovamientu
+app-basics-update-channel = Canal d'anovamientos
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Direutoriu d'anovamientos
+       *[other] Carpeta d'anovamientos
+    }
 app-basics-update-history = Historial d'anovamientos
-app-basics-show-update-history = Amosar historial d'anovamientos
+app-basics-show-update-history = Amosar l'historial d'anovamientos
+# Represents the path to the binary used to start the application.
+app-basics-binary = Binariu de l'aplicación
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Direutoriu del perfil
        *[other] Carpeta del perfil
     }
-app-basics-enabled-plugins = Complementos activaos
-app-basics-build-config = Configuración de compilación
+app-basics-enabled-plugins = Plugins activaos
+app-basics-build-config = Configuración de la compilación
 app-basics-user-agent = Axente d'usuariu
 app-basics-os = SO
-app-basics-memory-use = Usu de memoria
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta Translated
+app-basics-memory-use = Usu de la memoria
 app-basics-performance = Rindimientu
-app-basics-service-workers = Trabayadores rexistraos del serviciu
 app-basics-profiles = Perfiles
+app-basics-launcher-process-status = Procesu del llanzador
 app-basics-multi-process-support = Ventanes multiprocesu
-app-basics-key-mozilla = Clave del serviciu d'allugmientu de Mozilla
+app-basics-fission-support = Ventanes Fission
+app-basics-remote-processes-count = Procesos remotos
+app-basics-enterprise-policies = Polítiques d'empresa
+app-basics-location-service-key-google = Clave del serviciu d'allugamientu de Google
+app-basics-key-mozilla = Clave del serviciu d'allugamientu de Mozilla
 app-basics-safe-mode = Mou seguru
 show-dir-label =
     { PLATFORM() ->
         [macos] Amosar en Finder
-        [windows] Abrir carpeta
-       *[other] Abrir direutoriu
+        [windows] Abrir la carpeta
+       *[other] Abrir el direutoriu
     }
 modified-key-prefs-title = Preferencies modificaes importantes
 modified-prefs-name = Nome
