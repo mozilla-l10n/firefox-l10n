@@ -355,7 +355,7 @@ browser-tab-audio-playing2 = WIRD ABGESPIELT
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = STUMMGESCHALTET
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = AUTOMATISCHE WIEDERGABE BLOCKIERT
+browser-tab-audio-blocked = WIEDERGABE BLOCKIERT
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BILD-IM-BILD
 
