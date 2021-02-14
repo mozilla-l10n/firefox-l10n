@@ -47,7 +47,7 @@ about-debugging-sidebar-item-connect-button-connection-failed = Falha na conexã
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = Conexão ainda pendente, verifique se há mensagens no navegador alvo
 # Text displayed as connection error in sidebar item when the connection has timed out.
-about-debugging-sidebar-item-connect-button-connection-timeout = Atingido o tempo limite de conexão
+about-debugging-sidebar-item-connect-button-connection-timeout = Atingido tempo limite de conexão
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Conectado
