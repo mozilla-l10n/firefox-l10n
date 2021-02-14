@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Eksperymentalna obsługa otwierani
 experimental-features-http3 =
     .label = Protokół HTTP/3
 experimental-features-http3-description = Eksperymentalna obsługa protokołu HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Pasek adresu: wyświetlanie wyników podczas edycji IME
+experimental-features-ime-search-description = IME (edytor metody wprowadzania) to narzędzie umożliwiające wpisywanie złożonych symboli, na przykład tych używanych w językach wschodnioazjatyckich czy indyjskich, za pomocą standardowej klawiatury. Włączenie tego eksperymentu spowoduje, że panel paska adresu pozostanie otwarty, pokazując wyniki wyszukiwania i podpowiedzi, kiedy używane jest IME do wpisywania tekstu. Zauważ, że IME może wyświetlać panel zakrywający wyniki paska adresu, dlatego też ta preferencja jest proponowana tylko w przypadku IME, które nie korzystają z tego typu panelu.
