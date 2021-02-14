@@ -257,6 +257,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-tiedosto
        *[other] CSV-tiedosto
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-tiedosto
+       *[other] TSV-tiedosto
+    }
 
 ##
 ## Variables:
@@ -281,9 +288,15 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Valmis
 about-logins-import-dialog-error-title = Tuontivirhe
+about-logins-import-dialog-error-file-format-title = Tiedostomuoto-ongelma
 about-logins-import-dialog-error-file-permission-title = Tiedostoa ei voida lukea
 about-logins-import-dialog-error-unable-to-read-title = Tiedostoa ei voida jäsentää
+about-logins-import-dialog-error-unable-to-read-description = Tarkista, että valitsit CSV- tai TSV-tiedoston.
 about-logins-import-dialog-error-no-logins-imported = Kirjautumistietoja ei ole tuotu
 about-logins-import-dialog-error-learn-more = Lisätietoja
 about-logins-import-dialog-error-try-again = Yritä uudelleen…
 about-logins-import-dialog-error-cancel = Peruuta
+
+## Logins import report page
+
+about-logins-import-report-page-title = Tuonnin yhteenvetoraportti
