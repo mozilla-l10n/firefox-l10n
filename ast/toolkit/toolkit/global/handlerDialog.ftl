@@ -9,7 +9,6 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
-permission-dialog-description-file = ¿Permitir qu'esti ficheru abra l'enllaz { $scheme }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
