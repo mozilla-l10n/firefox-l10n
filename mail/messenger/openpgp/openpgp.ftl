@@ -340,15 +340,106 @@ import-from-clip = Přejete si naimportovat nějaké klíče ze schránky?
 import-from-url = Stáhnout veřejný klíč z této URL adresy:
 copy-to-clipbrd-failed = Vybrané klíče nelze zkopírovat do schránky.
 copy-to-clipbrd-ok = Klíče byly zkopírovány do schránky
+delete-pub-key =
+    Přejete si odstranit tento veřejný klíč
+    '{ $userId }'?
+delete-selected-pub-key = Přejete si odstranit tyto veřejné klíče?
+refresh-all-question = Nevybrali jste žádný klíč. Přejete si obnovit VŠECHNY klíče?
+key-man-button-export-sec-key = Exportovat &tajné klíče
+key-man-button-export-pub-key = Exportovat pouze &veřejné klíče
+key-man-button-refresh-all = &Obnovit všechny klíče
+key-man-loading-keys = Načítání klíčů, čekejte prosím…
+no-key-selected = K provedení operace byste měli vybrat alespoň jeden klíč
+export-to-file = Exportovat veřejný klíč do souboru
+export-keypair-to-file = Exportovat tajný a veřejný klíč do souboru
+export-secret-key = Přejete si do uloženého souboru s klíčem OpenPGP zahrnout i tajný klíč?
+save-keys-ok = Klíče byly úspěšně uloženy
+save-keys-failed = Uložení klíčů selhalo
+default-pub-key-filename = Exportovane-verejne-klice
+default-pub-sec-key-filename = Zaloha-tajnych-klicu
+preview-failed = Soubor s veřejným klíčem nelze přečíst.
+general-error = Chyba: { $reason }
+dlg-button-delete = S&mazat
 
 ## Account settings export output
 
+openpgp-export-public-success = <b>Veřejný klíč byl úspěšně vyexportován!</b>
+openpgp-export-public-fail = <b>Vybraný veřejný klíč nelze vyexportovat!</b>
+openpgp-export-secret-success = <b>Tajný klíč byl úspěšně vyexportován!</b>
+openpgp-export-secret-fail = <b>Vybraný tajný klíč nelze vyexportovat!</b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Klíč { $userId } (ID klíče { $keyId }) je zneplatněn.
+key-ring-pub-key-expired = Platnost klíče { $userId } (ID klíče { $keyId }) vypršela.
+key-ring-key-disabled = Klíč { $userId } (ID klíče { $keyId }) je zakázán a nelze ho použít.
+key-ring-key-invalid = Klíč { $userId } (ID klíče { $keyId }) je neplatný. Zvažte jeho správné ověření.
+key-ring-key-not-trusted = Klíč { $userId } (ID klíče { $keyId }) není dostatečně důvěryhodný. Chcete-li ho používat k podepisování, nastavte úroveň jeho důvěryhodnosti na „absolutně důvěryhodný“.
+key-ring-no-secret-key = Zdá se, že pro { $userId } (ID klíče { $keyId }) nemáte v klíčence tajný klíč, a nemůžete ho tedy používat k podepisování.
+key-ring-pub-key-not-for-signing = Klíč { $userId } (ID klíče { $keyId }) nelze používat k podepisování.
+key-ring-pub-key-not-for-encryption = Klíč { $userId } (ID klíče { $keyId }) nelze používat k šifrování.
+key-ring-sign-sub-keys-revoked = Všechny podpisové podklíče klíče { $userId } (ID klíče { $keyId }) jsou zneplatněny.
+key-ring-sign-sub-keys-expired = Platnost všech podpisových podklíčů klíče { $userId } (ID klíče { $keyId }) vypršela.
+key-ring-sign-sub-keys-unusable = Všechny podpisové podklíče klíče { $userId } (ID klíče { $keyId }) jsou zneplatněny, vypršela jejich platnost, nebo jsou z jiného důvodu nepoužitelné.
+key-ring-enc-sub-keys-revoked = Všechny šifrovací podklíče klíče { $userId } (ID klíče { $keyId }) jsou zneplatněny.
+key-ring-enc-sub-keys-expired = Platnost všech šifrovacích podklíčů klíče { $userId } (ID klíče { $keyId }) vypršela.
+key-ring-enc-sub-keys-unusable = Všechny šifrovací podklíče klíče { $userId } (ID klíče { $keyId }) jsou zneplatněny, vypršela jejich platnost, nebo jsou z jiného důvodu nepoužitelné.
+# Strings in gnupg-keylist.jsm
+keyring-photo = Fotografie
+user-att-photo = Atribut uživatele (obrázek JPEG)
+# Strings in key.jsm
+already-revoked = Tento klíč už byl zneplatněn.
+#   $keyId (String) - the id of the key being revoked
+revoke-key-already-revoked = Klíč 0x{ $keyId } už byl zneplatněn.
+key-man-button-revoke-key = &Zneplatnit klíč
+openpgp-key-revoke-success = Klíč byl úspěšně zneplatněn.
+delete-key-title = Odstranit klíč OpenPGP
+delete-external-key-title = Odebrat externí klíč GnuPG
+delete-external-key-description = Chcete odebrat ID tohoto externího klíče GnuPG?
+key-in-use-title = Klíč OpenPGP se aktuálně používá
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = E-mailovou adresu '{ $keySpec }' nelze přiřadit k žádnému klíči ve vaší klíčence.
+key-error-key-id-not-found = Nastavený klíč s ID '{ $keySpec }' nelze v klíčence najít.
+key-error-not-accepted-as-personal = Nepotvrdili jste, že je klíč s ID '{ $keySpec }' vaším osobním klíčem.
+# Strings used in enigmailKeyManager.js & windows.jsm
+need-online = Vybraná funkce není dostupná v režimu offline. Přejděte prosím do režimu online a zkuste to znovu.
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Nenašli jsme žádný klíč odpovídající zadaným kritériím.
+# Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
+fail-key-extract = Chyba: Extrahování klíče selhalo
+# Strings used in keyRing.jsm
+fail-cancel = Chyba: Příjem klíče zrušen uživatelem
+not-first-block = Chyba: První blok OpenPGP není blokem veřejného klíče
+import-key-confirm = Importovat veřejné klíče vložené do zprávy?
+fail-key-import = Chyba: Importování klíče selhalo
+file-write-failed = Zápis do souboru { $output } selhal
+no-pgp-block = Chyba: Nenalezen platný blok dat OpenPGP
 # Strings used in trust.jsm
 key-valid-unknown = není známo
 key-valid-invalid = vadný
 key-valid-disabled = zakázaný
 key-valid-revoked = zneplatněný
 key-valid-expired = platnost vypršela
+key-trust-untrusted = nedůvěryhodný
+key-trust-marginal = částečně
+key-trust-full = důvěryhodný
+key-trust-ultimate = absolutně důvěryhodný
+key-trust-group = (skupina)
+# Strings used in commonWorkflows.js
+import-key-file = Importovat soubor s klíčem OpenPGP
+import-rev-file = Importovat soubor se zneplatněním OpenPGP
+gnupg-file = Soubory GnuPG
+import-keys-failed = Importování klíčů selhalo
+passphrase-prompt = Zadejte prosím heslo, které odemkne následující klíč: { $key }
+file-to-big-to-import = Tento soubor je příliš velký. Neimportujte velké množství klíčů najednou.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Vytvořit a uložit revokační certifikát
+revoke-cert-ok = Revokační certifikát byl úspěšně vytvořen. Můžete ho použít ke zneplatnění svého veřejného klíče, např. v případě ztráty svého tajného klíče.
+revoke-cert-failed = Revokační certifikát nemohl být vytvořen.
+gen-going = Vytváření klíče již probíhá!
+keygen-missing-user-name = Pro vybraný účet či identitu není zadáno žádné jméno. Zadejte prosím v nastavení účtu nějakou hodnotu do pole „Vaše jméno“.
+expiry-too-short = Váš klíč musí být platný minimálně jeden den.
+expiry-too-long = Nemůžete vytvořit klíč s platností delší než 100 let.
+key-confirm = Chcete vytvořit veřejný a tajný klíč pro '{ $id }'?
+key-man-button-generate-key = &Vytvořit klíč
 
 # Strings used in enigmailMessengerOverlay.js
 
