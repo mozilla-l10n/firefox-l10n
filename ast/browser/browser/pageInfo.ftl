@@ -89,8 +89,8 @@ security-view-identity-validity =
     .value = Data de caducidá:
 security-view-privacy =
     .value = Privacidá ya historial
-security-view-privacy-history-value = ¿Visité esti sitiu web enantes de güei?
-security-view-privacy-sitedata-value = ¿Esti sitiu web ta atroxando información nel ordenador?
+security-view-privacy-history-value = ¿Visité esti sitiu web enantes?
+security-view-privacy-sitedata-value = ¿Esti sitiu web atroxa información nel ordenador?
 security-view-privacy-clearsitedata =
     .label = Llimpiar les cookies los datos de los sitios
     .accesskey = L
@@ -212,6 +212,13 @@ media-dimensions =
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+# This string is used to display the website name next to the
+# "Block Images" checkbox in the media tab
+# Variables:
+#   $website (string) - The website name
+media-block-image =
+    .label = Bloquiar les imáxenes de { $website }
+    .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
