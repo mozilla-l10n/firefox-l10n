@@ -11,6 +11,7 @@ printui-sheets-count =
        *[other] { $sheetCount } fueyes de papel
     }
 printui-page-range-all = Toes
+printui-page-range-custom = Personalizaes
 printui-page-range-label = Páxines
 printui-page-range-picker =
     .aria-label = Escoyer un rangu de páxines
@@ -27,6 +28,7 @@ printui-destination-label = Destín
 printui-destination-pdf-label = Guardar en PDF
 printui-more-settings = Más axustes
 printui-less-settings = Menos axustes
+printui-paper-size-label = Tamañu del papel
 # Section title (noun) for the print scaling options
 printui-scale = Escala
 printui-scale-fit-to-page-width = Axustar al anchor de la páxina
@@ -34,25 +36,34 @@ printui-scale-fit-to-page-width = Axustar al anchor de la páxina
 printui-scale-pcent = Escalar
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Imprentación a dos cares
+printui-duplex-checkbox = Imprentar dambes cares
 # Section title for miscellaneous print options
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprentar les testeres y los pies de páxina
 printui-backgrounds-checkbox = Imprentar los fondos
 printui-selection-checkbox = Imprentar namás la esbilla
+printui-color-mode-label = Mou de color
 printui-color-mode-color = En color
 printui-color-mode-bw = Blancu y prietu
 printui-margins = Márxenes
 printui-margins-default = Lo predeterminao
 printui-margins-min = Lo mínimo
+printui-margins-none = Nada
+printui-margins-custom-inches = Personalizaos (pulgaes)
 printui-margins-custom-top = Arriba
+printui-margins-custom-top-inches = Arriba (pulgaes)
 printui-margins-custom-bottom = Abaxo
+printui-margins-custom-bottom-inches = Abaxo (pulgaes)
 printui-margins-custom-left = Esquierda
+printui-margins-custom-left-inches = Esquierda (pulgaes)
 printui-margins-custom-right = Derecha
+printui-margins-custom-right-inches = Derecha (pulgaes)
 printui-system-dialog-link = Imprentar col diálogu del sistema…
 printui-primary-button = Imprentar
 printui-primary-button-save = Guardar
 printui-cancel-button = Encaboxar
 printui-close-button = Zarrar
+printui-loading = Tresnando la previsualización
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
@@ -75,6 +86,7 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
+printui-paper-tabloid = Tabloide
 
 ## Error messages shown when a user has an invalid input
 
