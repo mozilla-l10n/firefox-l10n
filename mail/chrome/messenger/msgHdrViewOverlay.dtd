@@ -16,10 +16,10 @@
 <!ENTITY followupToField4.label "Pluigi al">
 <!ENTITY tagsHdr4.label "Etikedoj">
 <!ENTITY dateField4.label "Dato">
-<!ENTITY userAgentField4.label "User agent">
-<!ENTITY referencesField4.label "References">
-<!ENTITY messageIdField4.label "Message ID">
-<!ENTITY inReplyToField4.label "In reply to">
+<!ENTITY userAgentField4.label "Programo">
+<!ENTITY referencesField4.label "Referencoj">
+<!ENTITY messageIdField4.label "Identigilo">
+<!ENTITY inReplyToField4.label "Respondo al">
 <!ENTITY originalWebsite4.label "Website">
 
 <!ENTITY hdrArchiveButton1.label "Archive">
