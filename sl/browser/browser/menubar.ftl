@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Nedavno zaprti zavihki
 menu-history-undo-window-menu =
     .label = Nedavno zaprta okna
+menu-history-reopen-all-tabs = Ponovno odpri vse zavihke
+menu-history-reopen-all-windows = Ponovno odpri vsa okna
 
 ## Bookmarks Menu
 
