@@ -74,8 +74,8 @@ profiler-popup-settings =
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Editar los axustes…
 profiler-popup-disabled =
-    Anguaño l'analizador de rindimientu ta desactiváu, quiciabes seya porque hai
-    una llingüeta privada abierta.
+    Anguaño l'analizador de rindimientu ta desactiváu, probablemente seya porque
+    hai una llingüeta privada abierta.
 profiler-popup-recording-screen = Rexistrando…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -102,8 +102,8 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Xestionar l'historial
-appmenu-reopen-all-tabs = Abrir toles llingüetes de nueves
-appmenu-reopen-all-windows = Abrir toles ventanes de nueves
+appmenu-reopen-all-tabs = Volver abrir toles llingüetes
+appmenu-reopen-all-windows = Volver abrir toles ventanes
 
 ## Help panel
 
@@ -153,7 +153,7 @@ appmenu-help-report-deceptive-site =
     .label = Informar de que'l sitiu ye engañosu…
     .accesskey = e
 appmenu-help-not-deceptive =
-    .label = Esto nun ye un sitiu engañosu…
+    .label = Esti sitiu nun ye engañosu…
     .accesskey = e
 
 ##
