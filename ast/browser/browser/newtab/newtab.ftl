@@ -39,11 +39,16 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Editar
 newtab-menu-open-new-window = Abrir nuna ventana nueva
 newtab-menu-open-new-private-window = Abrir nuna ventana privada nueva
 newtab-menu-dismiss = Escartar
 newtab-menu-pin = Fixar
 newtab-menu-unpin = Soltar
+newtab-menu-delete-history = Desaniciar del historial
+newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
+newtab-menu-delete-pocket = Desaniciar de { -pocket-brand-name }
+newtab-menu-archive-pocket = Archivar en{ -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -55,11 +60,20 @@ newtab-privacy-modal-button-done = Fecho
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copiar l'enllaz de descarga
+newtab-menu-go-to-download-page = Dir a la páxina de descarga
+newtab-menu-remove-download = Quitar del historial
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Amosar en Finder
+       *[other] Abrir la carpeta contenedora
+    }
+newtab-menu-open-file = Abrir el ficheru
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
