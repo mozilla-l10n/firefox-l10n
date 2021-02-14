@@ -15,13 +15,13 @@ error-title-text = ¡Afayáivos, humanos!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ¡Venimos visitavos en paz y con bona voluntá!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = Los robós nun puen firir a humanos o, pente inaición, permitir qu'estos últmos se manquen.
+error-long-desc1 = Los robós nun puen firir a humanos o, pente inaición, permitir qu'estos últimos se manquen.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = Los robós vimos coses que la xente nun creyería.
+error-long-desc2 = Los robós vimos coses que la xente nun sedría a creyer.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Los robós son collacios de plásticu colos que lo pasar podre.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = Los robós tienen culeres de metal brillante que nun deberíen mordese.
+error-long-desc4 = Los robós tienen culeres de metal brillante que nun habríen mordese.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Y tienen un plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
