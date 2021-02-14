@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nové okno
 appmenuitem-new-private-window =
     .label = Nové súkromné okno
+appmenuitem-passwords =
+    .label = Heslá
+appmenuitem-extensions-and-themes =
+    .label = Rozšírenia a témy vzhľadu
+appmenuitem-find-in-page =
+    .label = Hľadať na stránke…
+appmenuitem-more-tools =
+    .label = Ďalšie nástroje
+appmenuitem-exit =
+    .label = Ukončiť
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Nastavenia
 
 ## Zoom and Fullscreen Controls
 
@@ -47,9 +61,33 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-learn-more = Ďalšie informácie
+profiler-popup-settings =
+    .value = Nastavenia
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
+
+## History panel
+
+appmenu-manage-history =
+    .label = Správa histórie
+appmenu-reopen-all-tabs = Obnoviť všetky karty
+appmenu-reopen-all-windows = Obnoviť všetky okná
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Pomocník prehliadača { -brand-shorter-name }
 appmenu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O
@@ -65,6 +103,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Klávesové skratky
     .accesskey = K
+appmenu-get-help =
+    .label = Získať pomoc
+    .accesskey = Z
 appmenu-help-troubleshooting-info =
     .label = Informácie pre riešenie problémov
     .accesskey = n
@@ -98,3 +139,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Vyhľadať aktualizácie…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Upraviť panel nástrojov…
+appmenu-developer-tools-subheader = Nástroje prehliadača
