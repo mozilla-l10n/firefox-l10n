@@ -350,6 +350,8 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Odtwarzanie
+browser-tab-audio-muted = Wyciszona
 
 ## Bookmarks toolbar items
 
