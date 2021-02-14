@@ -80,12 +80,18 @@ show-dir-label =
         [windows] Abrir la carpeta
        *[other] Abrir el direutoriu
     }
-modified-key-prefs-title = Preferencies modificaes importantes
+environment-variables-title = Variables d'entornu
+environment-variables-name = Nome
+environment-variables-value = Valor
+experimental-features-title = Carauterístiques esperimentales
+experimental-features-name = Nome
+experimental-features-value = Valor
+modified-key-prefs-title = Preferencies importantes modificaes
 modified-prefs-name = Nome
 modified-prefs-value = Valor
-user-js-title = Preferencies de user.js
-user-js-description = La carpeta del perfil contień un <a data-l10n-name="user-js-link">ficheru user.js</a> qu'inclúi preferencies que nun les creó { -brand-short-name }.
-locked-key-prefs-title = Preferencies bloquiaes importantes
+user-js-title = Preferencies d'user.js
+user-js-description = La carpeta del to perfil contién un <a data-l10n-name="user-js-link">ficheru user.js</a> qu'inclúi preferencies que nun creó { -brand-short-name }.
+locked-key-prefs-title = Preferencies importantes bloquiaes
 locked-prefs-name = Nome
 locked-prefs-value = Valor
 graphics-title = Gráficos
@@ -95,13 +101,15 @@ graphics-failure-log-title = Rexistru de fallos
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Rexistru de decisiones
-graphics-crash-guards-title = Carauterístiques desactivaes del guardián de casques
-graphics-workarounds-title = Soluciones
-place-database-title = Base de datos de llugares
+graphics-crash-guards-title = Carauterístiques desactivaes del proteutor de casques
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocolu de ventanes
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Entornu d'escritoriu
+place-database-title = Base de datos de sitios
 place-database-integrity = Integridá
-place-database-verify-integrity = Verificar integridá
+place-database-verify-integrity = Verificar la integridá
 a11y-title = Accesibilidá
-a11y-activated = Activóse
 a11y-force-disabled = Evitar accesibilidá
 a11y-handler-used = Usóse'l remanador accesible
 a11y-instantiator = Instanciador d'accesibilidá
