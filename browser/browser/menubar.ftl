@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Separadores fechados recentemente
 menu-history-undo-window-menu =
     .label = Janelas fechadas recentemente
+menu-history-reopen-all-tabs = Reabrir todos os separadores
+menu-history-reopen-all-windows = Reabrir todas as janelas
 
 ## Bookmarks Menu
 
