@@ -33,6 +33,7 @@ etp-card-title-always = Proteición ameyorada escontra'l rastrexu: Activada siem
 etp-card-title-custom-not-blocking = Proteición ameyorada escontra'l rastrexu: Desactivada
 etp-card-content-description = { -brand-short-name } bloquia automáticamente les compañes que te siguen dafurto pela web.
 protection-report-etp-card-content-custom-not-blocking = Anguaño toles proteiciones tán desactivaes. Escueyi los rastrexadores a bloquiar xestionando los axustes de les proteiciones de { -brand-short-name }.
+protection-report-manage-protections = Xestionar los axustes
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Güei
@@ -76,6 +77,13 @@ monitor-partial-breaches-percentage = Completóse'l { $percentageResolved }%
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Rastrexadores de redes sociales ({ $percentage }%)
+    .aria-label =
+        { $count ->
+            [one] { $count } rastrexador de redes sociales ({ $percentage }%)
+           *[other] { $count } rastrexadores de redes sociales ({ $percentage }%)
+        }
 bar-tooltip-cookie =
     .title = Cookies de rastrexu ente sitios
     .aria-label =
