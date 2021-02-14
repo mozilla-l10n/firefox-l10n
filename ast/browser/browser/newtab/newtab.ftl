@@ -53,6 +53,8 @@ newtab-menu-archive-pocket = Archivar en{ -pocket-brand-name }
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Fecho
+newtab-privacy-modal-button-manage = Xestionar los axustes del conteníu patrocináu
+newtab-privacy-modal-header = La privacidá importa.
 
 ##
 
