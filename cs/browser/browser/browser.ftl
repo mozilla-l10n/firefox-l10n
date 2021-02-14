@@ -387,7 +387,7 @@ browser-tab-audio-playing2 = PŘEHRÁVÁ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = ZTLUMENO
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = BLOKOVÁNO AUTO. PŘEHR.
+browser-tab-audio-blocked = BLOKOVÁNO AUTO. PŘEHRÁVÁNÍ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = OBRAZ V OBRAZE
 
