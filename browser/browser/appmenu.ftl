@@ -163,3 +163,4 @@ appmenu-help-check-for-update =
 
 appmenu-customizetoolbar =
     .label = Tvarkyti priemonių juostą…
+appmenu-developer-tools-subheader = Naršyklės įrankiai

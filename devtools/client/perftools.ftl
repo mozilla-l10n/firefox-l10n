@@ -103,3 +103,14 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = Apeiti pasirinkimus iš aukščiau, ir įrašinėti visas registruotas gijas
 perftools-tools-threads-input-label =
     .title = Šie gijų pavadinimai yra kableliais atskirtas sąrašas, naudojamas įjungti gijų profiliavimą. Užtenka, kad pavadinimas tik dalinai atitiktų gijos pavadinimą. Svarbu tuščios vietos simboliai.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler
+perftools-onboarding-message = <b>Nauja</b>: „{ -profiler-brand-name }“ dabar integruota į programuotojų priemones. <a>Sužinokite daugiau</a> apie šį naują galingą įrankį.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (kurį laiką dar galėsite pasiekti ankstesnį našumo polangį per <a>{ options-context-advanced-settings }</a>)
+perftools-onboarding-close-button =
+    .aria-label = Užverti supažindinimo pranešimą

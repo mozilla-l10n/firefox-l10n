@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Paskiausiai užvertos kortelės
 menu-history-undo-window-menu =
     .label = Paskiausiai užverti langai
+menu-history-reopen-all-tabs = Įkelti visas korteles
+menu-history-reopen-all-windows = Įkelti visus langus
 
 ## Bookmarks Menu
 
