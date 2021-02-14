@@ -357,7 +357,7 @@ browser-tab-audio-muted2 = Silentiate
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = Auto-reproduction blocate
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = Imagine annidate
+browser-tab-audio-pip = Imagine-in-imagine
 
 ## Bookmarks toolbar items
 

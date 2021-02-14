@@ -109,7 +109,7 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 -profiler-brand-name = Firefox Profiler
-perftools-onboarding-message = <b>Le nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
+perftools-onboarding-message = <b>Nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (Pro un limitate tempore, tu pote acceder le quadro originari Prestation via <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
