@@ -352,6 +352,12 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Пушта се
 browser-tab-audio-muted = Утишано
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = РЕПРОДУКОВАЊЕ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = УТИШАНО
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = СЛИКА У СЛИЦИ
 
 ## Bookmarks toolbar items
 
@@ -527,6 +533,10 @@ bookmarks-show-all-bookmarks =
     .label = Прикажи све забелешке
 bookmarks-recent-bookmarks =
     .value = Недавно забележене
+bookmarks-manage-bookmarks =
+    .label = Управљај обележивачима
+bookmarks-recent-bookmarks-panel =
+    .value = Недавни обележивачи
 bookmarks-toolbar-chevron =
     .tooltiptext = Прикажи још забелешки
 bookmarks-sidebar-content =
@@ -550,6 +560,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Прикажи траку са забелешкама
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Сакриј траку са забелешкама
+           *[other] Прикажи траку са забелешкама
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Сакриј траку са забелешкама
@@ -580,6 +596,9 @@ bookmarks-toolbar-placeholder =
     .title = Забележи ставке из алатне траке
 bookmarks-toolbar-placeholder-button =
     .label = Забележи ставке из алатне траке
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Обележи тренутни језичак
 
 ## Library Panel items
 
