@@ -27,13 +27,13 @@ footer-message = Procurando mais do que as ferramentas de desenvolvimento? Confi
 footer-learn-more-link = Saiba mais
 features-learn-more = Saiba mais
 features-inspector-title = Inspetor
-features-inspector-desc = Inspecione e refine código para construir layouts perfeitos a cada pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-inspector-desc = Inspecione e refine código para construir layouts perfeitos até em pixels. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Console
 features-console-desc = Acompanhe problemas de CSS, JavaScript, segurança e rede. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Debugger
 features-debugger-desc = Poderoso depurador JavaScript com suporte a seu framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Rede
-features-network-desc = Monitore solicitações de rede que podem bloquear seu site ou fazê-lo ficar mais lento. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-network-desc = Monitore requisições de rede que podem bloquear seu site ou fazê-lo ficar mais lento. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Armazenamento
 features-storage-desc = Adicione, modifique e remova cache, cookies, bases de dados e dados de sessão. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Design responsivo
