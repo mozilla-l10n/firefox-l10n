@@ -7,6 +7,7 @@ about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Poništi predmemoriju DNS-a
+about-networking-dns-trr-url = DoH URL
 about-networking-dns-suffix = DNS sufiks
 about-networking-websockets = WebSockets
 about-networking-refresh = Osvježi
