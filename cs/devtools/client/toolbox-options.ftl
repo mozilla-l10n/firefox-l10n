@@ -85,7 +85,7 @@ options-sourceeditor-keybinding-default-label = Výchozí
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Rozšířené nastavení
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Zakázat mezipaměť (když jsou nástroje otevřeny)
@@ -96,7 +96,7 @@ options-disable-javascript-label = Zakázat JavaScript *
 options-disable-javascript-tooltip =
     .title = Přepnutí této volby zakáže pro aktuální panel JavaScript. Jakmile bude panel nebo nástroje uzavřeny, bude nastavení zapomenuto.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Povolit ladící nástroj pro chrome a doplňky
+options-enable-chrome-label = Povolit nástroje ladění pro chrome a doplňky
 options-enable-chrome-tooltip =
     .title = Zapnutí umožní použít nástroje pro vývojáře v kontextu prohlížeče (přes Nástroje > Nástroje pro vývojáře > Nástroje prohlížeče) nebo pro ladění doplňků ze Správce doplňků
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
