@@ -388,7 +388,7 @@ addon-badge-line2 =
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Offisielt utvidelse utviklet av Mozilla. Oppfyller sikkerhets- og ytelsesstandarder.
+    .title = Offisiell utvidelse utviklet av Mozilla. Oppfyller sikkerhets- og ytelsesstandarder.
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Denne utvidelsen er gjennomgått for å oppfylle våre standarder for sikkerhet og ytelse.
