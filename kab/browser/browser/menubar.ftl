@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Accaren imedlen melmi kan
 menu-history-undo-window-menu =
     .label = Isfuyla imedlen melmi kan
+menu-history-reopen-all-tabs = Ales tawaledyawt n meṛṛa accaren
+menu-history-reopen-all-windows = Ales tawaledyawt n meṛṛa isfuyla
 
 ## Bookmarks Menu
 

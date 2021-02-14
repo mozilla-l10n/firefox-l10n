@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Sefre azray
+appmenu-reopen-all-tabs = Ales tawaledyawt n meṛṛa accaren
+appmenu-reopen-all-windows = Ales tawaledyawt n meṛṛa isfuyla
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Senqed ma llan ileqman…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Sagen afeggag n yifeca…
+appmenu-developer-tools-subheader = Ifecka n yiminig
