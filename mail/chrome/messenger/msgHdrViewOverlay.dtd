@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField4.label "To">
-<!ENTITY fromField4.label "From">
-<!ENTITY senderField4.label "Sender">
-<!ENTITY author.label "Author">
+<!ENTITY toField4.label "Al">
+<!ENTITY fromField4.label "El">
+<!ENTITY senderField4.label "Sendinto">
+<!ENTITY author.label "Aŭtoro">
 <!ENTITY organizationField4.label "Organization">
 <!ENTITY replyToField4.label "Reply to">
 
