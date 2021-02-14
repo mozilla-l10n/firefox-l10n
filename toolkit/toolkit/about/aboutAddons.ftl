@@ -4,38 +4,40 @@
 
 addons-window =
     .title = Xestor de complementos
-
 addons-page-title = Xestor de complementos
-
+search-header =
+    .placeholder = Buscar n'addons.mozilla.org
+    .searchbuttonlabel = Buscar
+search-header-shortcut =
+    .key = f
 list-empty-installed =
-    .value = Nun tienes instaláu dengún complementu d'esta triba
-
+    .value = Nun tienes nengún complementu d'esti tipu instaláu
 list-empty-available-updates =
-    .value = Nun s'alcontraron anovamientos
-
+    .value = Nun s'atoparon anovamientos
 list-empty-recent-updates =
-    .value = Apocayá nun anovesti dengún complementu
-
-list-empty-find-updates =
-    .label = Comprobar anovamientos
-
-list-empty-button =
-    .label = Deprendi más tocante a los complementos
-
+    .value = Nun anovesti nengún complementu apocayá
+help-button = Sofitu pa los complementos
+preferences =
+    { PLATFORM() ->
+        [windows] Opciones de { -brand-short-name }
+       *[other] Preferencies de { -brand-short-name }
+    }
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opciones de { -brand-short-name }
+           *[other] Preferencies de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
-    .label = Nun pudieron verificase delles estensiones
-
+    .label = Nun pudieron verificase dalgunes estensiones
 show-all-extensions-button =
     .label = Amosar toles estensiones
-
 cmd-show-details =
     .label = Amosar más información
     .accesskey = A
-
 cmd-find-updates =
-    .label = Alcontrar anovamientos
-    .accesskey = l
-
+    .label = Atopar anovamientos
+    .accesskey = t
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -47,64 +49,44 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
-
-cmd-enable-theme =
-    .label = Usar tema
-    .accesskey = U
-
-cmd-disable-theme =
-    .label = Dexar d'usar tema
-    .accesskey = x
-
 cmd-install-addon =
     .label = Instalar
     .accesskey = I
-
 cmd-contribute =
     .label = Collaborar
     .accesskey = C
-    .tooltiptext = Collaborar col desendolcu d'esti complementu
-
+    .tooltiptext = Collabora nel desendolcu d'esti complementu
 detail-version =
     .label = Versión
-
 detail-last-updated =
-    .label = Anovamientu caberu
-
-detail-contributions-description = El desendolcador d'esti complementu pide qu'ayudes a sofitar el so desendolcu continuáu faciendo una contribución pequeña.
-
+    .label = Últimu anovamientu
+detail-contributions-description = El desendolcador d'esti complementu pídete qu'ayudes a siguir col so desendolcu faciendo una donación
+detail-contributions-button = Collaborar
+    .title = Collabora col desendolcu d'esti complementu
+    .accesskey = C
 detail-update-type =
     .value = Anovamientos automáticos
-
 detail-update-default =
     .label = Por defeutu
     .tooltiptext = Instalar anovamientos automáticamente namái si eso ye lo predeterminao
-
 detail-update-automatic =
     .label = Sí
     .tooltiptext = Instalar anovamientos automáticamente
-
 detail-update-manual =
     .label = Non
     .tooltiptext = Nun instalar automáticamente los anovamientos
-
 detail-home =
     .label = Páxina d'aniciu
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Perfil del complementu
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Comprobar anovamientos
     .accesskey = C
     .tooltiptext = Comprobar anovamientos d'esti complementu
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -121,31 +103,20 @@ detail-show-preferences =
             [windows] Camudar les opciones d'esti complementu
            *[other] Camudar les preferencies d'esti complementu
         }
-
 detail-rating =
     .value = Valoración
-
 addon-restart-now =
     .label = Reaniciar agora
-
 disabled-unsigned-heading =
     .value = Desactiváronse dellos complementos
-
 disabled-unsigned-description = Nun se verificaron los complementos de darréu pa usase en { -brand-short-name }. Pues <label data-l10n-name="find-addons">alcontrar troqueos</label> o entrugar al desendolcador pa que los verifique.
-
 disabled-unsigned-learn-more = Deprendi más tocante a los nuesos esfuercios p'ayudar a caltenete seguru en llinia.
-
 disabled-unsigned-devinfo = Los desendolcadores interesaos en tener los complementos verificaos puen siguir lleendo'l nuesu <label data-l10n-name="learn-more">manual</label>.
-
 plugin-deprecation-description = ¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu de { -brand-short-name }. <label data-l10n-name="learn-more">Deprendi más</label>
-
 legacy-warning-show-legacy = Amosar estensiones heredaes
-
 legacy-extensions =
     .value = Estensiones heredaes
-
 legacy-extensions-description = Estes estensiones nun cumplen colos estándares actuales de { -brand-short-name } polo que tán desactivaes. <label data-l10n-name="legacy-learn-more">Deprendi tocante al cambéu nos complementos</label>
-
 addon-category-discover = Aconséyase
 addon-category-discover-title =
     .title = Aconséyase
@@ -180,7 +151,6 @@ extensions-warning-check-compatibility-button = Activar
 extensions-warning-update-security = La comprobación de seguranza de complementos ta desactivada. Los anovamientos podríen ser un riesgu.
 extensions-warning-update-security-button = Activar
     .title = Activar comprobación de seguranza de complementos
-
 
 ## Strings connected to add-on updates
 
@@ -231,16 +201,19 @@ addon-open-about-debugging = Depurar complementos
 ## Add-on actions
 
 extension-enabled-heading = Activóse
-
 theme-enabled-heading = Activóse
-
 plugin-enabled-heading = Activóse
-
 dictionary-enabled-heading = Activóse
-
 locale-enabled-heading = Activóse
 
 ## Pending uninstall message bar
+
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+
+##
 
 recommended-extensions-heading = Estensiones aconseyaes
 recommended-themes-heading = Estilos aconseyaos
@@ -252,6 +225,5 @@ theme-heading = Xestión d'estilos
 plugin-heading = Xestión de plugins
 dictionary-heading = Xestión de diccionarios
 locale-heading = Xestión de llingües
-
 addon-page-options-button =
     .title = Ferramientes pa tolos complementos
