@@ -73,6 +73,9 @@ profiler-popup-settings =
     .value = Taq nuk'ulem
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Kenuk' taq Runuk'ulem…
+profiler-popup-disabled =
+    Wakami chupül ri ya'öl ruwäch rub'i', rik'in jub'a' ruma jun ichinan rokem tzuwäch
+    nijaq.
 profiler-popup-recording-screen = Niyak…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
