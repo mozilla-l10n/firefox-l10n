@@ -348,6 +348,16 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Toistetaan
+browser-tab-audio-muted = Vaimennettu
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = TOISTETAAN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = VAIMENNETTU
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ÄÄNENTOISTO ESTETTY
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = KUVA KUVASSA
 
 ## Bookmarks toolbar items
 
@@ -509,6 +519,9 @@ pointerlock-warning-no-domain = Tämä sivu hallitsee hiiren osoitinta. Voit ott
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Lue lisää
+    .accesskey = L
 
 ## Bookmarks panels, menus and toolbar
 
