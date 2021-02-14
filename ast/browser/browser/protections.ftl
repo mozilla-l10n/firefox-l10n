@@ -51,7 +51,11 @@ cryptominer-tab-content = Los criptomineros usen la potencia de cálculu del ord
 protections-close-button2 =
     .aria-label = Zarrar
     .title = Zarrar
+mobile-app-title = Bloquia rastrexadores de publicidá en más preseos
+mobile-app-card-content = Usa'l restolador móvil con proteición integrada escontra la publicidá que rastrexa.
+mobile-app-links = El restolador { -brand-product-name } p'<a data-l10n-name="android-mobile-inline-link">Android</a> ya <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nun vuelvas escaecer nin una contraseña
+lockwise-title-logged-in2 = Xestión de contraseñes
 lockwise-header-content = { -lockwise-brand-name } atroxa de forma segura les tos contraseñes nel restolador.
 protection-report-save-passwords-button = Guardar les contraseñes
     .title = Guarda les contraseñes en { -lockwise-brand-short-name }
