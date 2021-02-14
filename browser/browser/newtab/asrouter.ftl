@@ -211,6 +211,10 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } on estänyt yli <b>{ $blockedCount }</b> seurainta { $date } lähtien!
     }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } on estänyt yli <b>{ $blockedCount }</b> seurainta { DATETIME($date, month: "long", year: "numeric") } alkaen!
+    }
 cfr-doorhanger-milestone-ok-button = Näytä kaikki
     .accesskey = N
 cfr-doorhanger-milestone-close-button = Sulje
@@ -297,3 +301,4 @@ cfr-whatsnew-bookmarking-body = Suosikkisivustojesi seuranta on helpompaa. { -br
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Kattava suojaus sivustorajat ylittäviltä seurainevästeiltä
+cfr-whatsnew-cross-site-tracking-body = Voit nyt valita paremman suojauksen seurainevästeiltä. { -brand-short-name } voi eristää toimintasi ja tietosi muilta sivustoilta, jotta selaimeen tallennettuja tietoja ei jaeta sivustolta toiselle.
