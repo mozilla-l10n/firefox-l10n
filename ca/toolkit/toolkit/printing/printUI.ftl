@@ -40,10 +40,15 @@ printui-scale-pcent = Escala
 printui-two-sided-printing = Impressió a doble cara
 printui-duplex-checkbox = Imprimeix a doble cara
 printui-two-sided-printing-off = Desactivada
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Gira en el costat lateral
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Gira en el costat superior
 # Section title for miscellaneous print options
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprimeix capçaleres i peus de pàgina
 printui-backgrounds-checkbox = Imprimeix els fons
+printui-selection-checkbox = Imprimeix només la selecció
 printui-color-mode-label = Mode de color
 printui-color-mode-color = Color
 printui-color-mode-bw = Blanc i negre
@@ -51,18 +56,52 @@ printui-margins = Marges
 printui-margins-default = Per defecte
 printui-margins-min = Mínims
 printui-margins-none = Cap
+printui-margins-custom-inches = Personalitzats (polzades)
+printui-margins-custom-top = Superior
+printui-margins-custom-top-inches = Superior (polzades)
+printui-margins-custom-bottom = Inferior
+printui-margins-custom-bottom-inches = Inferior (polzades)
+printui-margins-custom-left = Esquerre
+printui-margins-custom-left-inches = Esquerre (polzades)
+printui-margins-custom-right = Dret
+printui-margins-custom-right-inches = Dret (polzades)
 printui-system-dialog-link = Imprimeix mitjançant el diàleg del sistema…
 printui-primary-button = Imprimeix
 printui-primary-button-save = Desa
 printui-cancel-button = Cancel·la
+printui-close-button = Tanca
 printui-loading = S'està preparant la previsualització
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Exemple d'impressió
+printui-pages-per-sheet = Pàgines per full
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = S'està imprimint…
+printui-print-progress-indicator-saving = S'està desant…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Carta EUA
+printui-paper-legal = Legal EUA
+printui-paper-tabloid = Tabloide
 
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = L'escala ha de ser un nombre entre 10 i 200.
+printui-error-invalid-margin = Introduïu un marge vàlid per a la mida del paper seleccionat.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L'interval ha de ser un nombre entre 1 i { $numPages }.
+printui-error-invalid-start-overflow = El número de pàgina inicial ha de ser superior al número de pàgina final.
