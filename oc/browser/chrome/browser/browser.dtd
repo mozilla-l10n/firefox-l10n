@@ -63,7 +63,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.sendTab.description "Enviatz un onglet sul pic a qual que siá periferic ont avètz una session.">
+<!ENTITY fxa.service.sendTab.description "Enviatz un onglet sul pic a qual periferic que siá ont avètz una session.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Fenèstras tampadas recentament">
 
 <!ENTITY appMenuHistory.showAll.label "Afichar tot l'istoric">
+
 <!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la session precedenta">
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
@@ -216,6 +217,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salvar la pagina dins Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Mostrar la lista de Pocket">
 
 <!ENTITY emailPageCmd.label           "Enviar per corrièl un ligam cap a la pagina…">

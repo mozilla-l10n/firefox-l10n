@@ -64,7 +64,7 @@ protection-report-save-passwords-button = Salvar los senhals
 protection-report-manage-passwords-button = Gestion dels senhals
     .title = Gestion dels senhals de { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Emportatz vòstres senhals pertot
-lockwise-no-logins-card-content = Utilizatz los senhals gardats dins { -brand-short-name } sus qual que siá periferic.
+lockwise-no-logins-card-content = Utilizatz los senhals gardats dins { -brand-short-name } sus qual periferic que siá.
 lockwise-app-links = { -lockwise-brand-name } per <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
