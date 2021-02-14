@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Imprentación
+# Dialog title to prompt the user for a filename to save print to PDF.
+printui-save-to-pdf-title = Guardar como
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -37,6 +39,11 @@ printui-scale-pcent = Escalar
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Imprentación a dos cares
 printui-duplex-checkbox = Imprentar dambes cares
+printui-two-sided-printing-off = Non
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Voltiar nel berbesu llateral
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Voltiar nel berbesu cimeru
 # Section title for miscellaneous print options
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprentar les testeres y los pies de páxina
@@ -86,6 +93,8 @@ printui-paper-b5 = B5
 printui-paper-b4 = B4
 printui-paper-jis-b5 = JIS-B5
 printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Carta ANSI
+printui-paper-legal = Llegal ANSI
 printui-paper-tabloid = Tabloide
 
 ## Error messages shown when a user has an invalid input
