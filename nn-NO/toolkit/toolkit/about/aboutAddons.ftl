@@ -385,6 +385,11 @@ addon-badge-recommended2 =
 addon-badge-line2 =
     .title = Dette er ei offisiell utviding utvikla av utviklaranee av { -brand-product-name }
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Offisiell utviding utvikla av Mozilla. Oppfyller sikkerheits- og ytingsstandardar.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Denne utvidinga er gjennomgått for å oppfylle standardane våre for sikkerheit og yting.
     .aria-label = { addon-badge-verified2.title }
