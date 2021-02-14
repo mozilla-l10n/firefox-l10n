@@ -3,3 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-rights-notification-text = { -brand-short-name } d aseɣzan ilelli n teɣbalut yeldin, tebna temɣiwent n yimelyan n yimdanen seg yal tama n umaḍal.
+
+## Folder Pane
+
+folder-pane-header-label = Ikaramen
+
+## Folder Toolbar Header Popup
+
+show-all-folders-label =
+    .label = Akk ikaramen
+    .accesskey = A
