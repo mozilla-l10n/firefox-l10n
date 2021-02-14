@@ -45,6 +45,8 @@ chooser-dialog =
     .buttonlabelaccept = Opne lenke
     .buttonaccesskeyaccept = O
 chooser-dialog-description = Vel eit program for å opne { $scheme }-lenka.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = Bruk alltid dette programmet for å opne <strong>{ $scheme }</strong>-lenker
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] Dette kan endrast i innstillingane for { -brand-short-name }.

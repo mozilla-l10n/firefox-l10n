@@ -291,10 +291,12 @@ cfr-whatsnew-search-shortcuts-body = Når nå du no skriv inn ein søkjemotor el
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Vern mot vondsinna super-infokapslar
+cfr-whatsnew-supercookies-body = Nettstadar kan i hemmelegheit leggje til ein «super-infokapsel» i nettlesaren din som kan følgje deg rundt på nettet, sjølv etter at du har fjerna infokapslane dine. { -brand-short-name } gir no eit sterkt vern mot super-infokapslar, slik at dei ikkje kan brukast til å spore aktivitetane dine på nettet frå ein nettstad til ein annan.
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Betre bokmerking
+cfr-whatsnew-bookmarking-body = Det er lettare å halde oversikt over favorittnettstadane dine. { -brand-short-name } hugsar no ønskt stad for lagra bokmerke, viser bokmerkeverktøylinja som standard på nye faner og gir deg enkel tilgang til resten av bokmerka dine via ei verktøylinjemappe.
 
 ## What's new: Cross-site cookie tracking
 
