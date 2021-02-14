@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Недавно затворени језичци
 menu-history-undo-window-menu =
     .label = Недавно затворени прозори
+menu-history-reopen-all-tabs = Поново отвори све језичке
+menu-history-reopen-all-windows = Поново отвори све прозоре
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Пречице на тастатури
     .accesskey = K
+menu-get-help =
+    .label = Потражи помоћ
+    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Подаци о решавању проблема
     .accesskey = T

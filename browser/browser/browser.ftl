@@ -357,6 +357,8 @@ browser-tab-audio-playing2 = РЕПРОДУКОВАЊЕ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = УТИШАНО
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = АУТОМАТСКА РЕПРОДУКЦИЈА БЛОКИРАНА
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = СЛИКА У СЛИЦИ
 
 ## Bookmarks toolbar items
