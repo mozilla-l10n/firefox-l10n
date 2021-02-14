@@ -7,7 +7,7 @@ about-rights-notification-text = { -brand-short-name } je voľne šíriteľný o
 ## Folder Pane
 
 folder-pane-toolbar =
-    .toolbarname = Panel nástrojov Priečinky
+    .toolbarname = Nástroje panela priečinkov
     .accesskey = a
 folder-pane-header-label = Priečinky
 
