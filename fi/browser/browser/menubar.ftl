@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Suljetut välilehdet
 menu-history-undo-window-menu =
     .label = Suljetut ikkunat
+menu-history-reopen-all-tabs = Avaa uudelleen kaikki välilehdet
+menu-history-reopen-all-windows = Avaa uudelleen kaikki ikkunat
 
 ## Bookmarks Menu
 
@@ -325,6 +327,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Näppäinkomennot
     .accesskey = N
+menu-get-help =
+    .label = Etsi ohjeita
+    .accesskey = h
 menu-help-troubleshooting-info =
     .label = Tietoja ongelmatilanteisiin
     .accesskey = T

@@ -39,6 +39,7 @@ printui-scale-pcent = Koko
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Kaksipuolinen tulostus
 printui-duplex-checkbox = Tulosta molemmille puolille
+printui-two-sided-printing-off = Pois päältä
 # Section title for miscellaneous print options
 printui-options = Valinnat
 printui-headers-footers-checkbox = Tulosta ylä- ja alatunnisteet
