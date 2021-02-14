@@ -440,9 +440,43 @@ expiry-too-short = Váš klíč musí být platný minimálně jeden den.
 expiry-too-long = Nemůžete vytvořit klíč s platností delší než 100 let.
 key-confirm = Chcete vytvořit veřejný a tajný klíč pro '{ $id }'?
 key-man-button-generate-key = &Vytvořit klíč
+key-abort = Přerušit vytváření klíče?
+key-man-button-generate-key-abort = &Přerušit vytváření klíče
+key-man-button-generate-key-continue = &Pokračovat ve vytváření klíče
 
 # Strings used in enigmailMessengerOverlay.js
 
+failed-decrypt = Chyba: Dešifrování se nezdařilo
+fix-broken-exchange-msg-failed = Zprávu se nepodařilo opravit.
+attachment-no-match-from-signature = Soubor s podpisem '{ $attachment }' nelze přiřadit k žádné příloze
+attachment-no-match-to-signature = Přílohu '{ $attachment }' nelze přiřadit k žádnému souboru s podpisem
+signature-verified-ok = Podpis přílohy { $attachment } byl úspěšně ověřen
+signature-verify-failed = Podpis přílohy { $attachment } nelze ověřit
+decrypt-ok-no-sig =
+    VAROVÁNÍ
+    Dešifrování bylo úspěšné, ale podpis nebylo možné správně ověřit
+msg-ovl-button-cont-anyway = &Přesto pokračovat
+enig-content-note = *Přílohy v této zprávě nebyly podepsány ani zašifrovány*
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = &Odeslat zprávu
+msg-compose-details-button-label = Podrobnosti…
+msg-compose-details-button-access-key = P
+send-aborted = Odesílání zprávy bylo přerušeno.
+key-not-trusted = Klíč '{ $key }' nemá dostatečnou důvěryhodnost
+key-not-found = Klíč '{ $key }' nebyl nalezen
+key-revoked = Klíč '{ $key }' byl zneplatněn
+key-expired = Platnost klíče '{ $key }' vypršela
+msg-compose-internal-error = Došlo k vnitřní chybě.
+keys-to-export = Vyberte klíče OpenPGP, které chcete vložit
+msg-compose-cannot-save-draft = Chyba při ukládání konceptu
+save-attachment-header = Uložit dešifrovanou přílohu
+dlg-button-view = &Zobrazit
+# Strings used in encryption.jsm
+not-required = Chyba: Šifrování není vyžadováno
+# Strings used in windows.jsm
+no-photo-available = Fotografie není k dispozici
+error-photo-path-not-readable = Cesta k fotografii '{ $photo }' není čitelná
+debug-log-title = Protokol ladění OpenPGP
 dlg-button-ok = &OK
 dlg-button-close = &Zavřít
 dlg-button-cancel = &Zrušit

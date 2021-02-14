@@ -32,9 +32,9 @@
 <!ENTITY account.movedown.label       "Posunout níže">
 <!ENTITY account.cancelReconnection.label         "Zrušit opětovné připojení">
 <!ENTITY account.cancelReconnection.accesskey     "r">
-<!ENTITY account.copyDebugLog.label     "Kopírovat ladící záznamy">
+<!ENTITY account.copyDebugLog.label     "Kopírovat ladicí protokol">
 <!ENTITY account.copyDebugLog.accesskey "K">
-<!ENTITY account.showDebugLog.label     "Zobrazit ladící protokol">
+<!ENTITY account.showDebugLog.label     "Zobrazit ladicí protokol">
 <!ENTITY account.showDebugLog.accesskey "Z">
 <!ENTITY account.connecting           "Připojování…">
 <!ENTITY account.disconnecting        "Odpojování…">
