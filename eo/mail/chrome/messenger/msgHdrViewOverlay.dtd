@@ -6,11 +6,11 @@
 <!ENTITY fromField4.label "El">
 <!ENTITY senderField4.label "Sendinto">
 <!ENTITY author.label "Aŭtoro">
-<!ENTITY organizationField4.label "Organization">
-<!ENTITY replyToField4.label "Reply to">
+<!ENTITY organizationField4.label "Firmao/organizaĵo">
+<!ENTITY replyToField4.label "Respondi al">
 
-<!ENTITY subjectField4.label "Subject">
-<!ENTITY ccField4.label "Cc">
+<!ENTITY subjectField4.label "Temo">
+<!ENTITY ccField4.label "Kopio">
 <!ENTITY bccField4.label "Bcc">
 <!ENTITY newsgroupsField4.label "Newsgroups">
 <!ENTITY followupToField4.label "Followup to">
