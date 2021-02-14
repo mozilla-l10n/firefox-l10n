@@ -5,10 +5,8 @@
 <!-- LOCALIZATION NOTE : This file contains the Storage Inspector strings. -->
 
 <!-- LOCALIZATION NOTE : Placeholder for the searchbox that allows you to filter the table items. -->
-<!ENTITY searchBox.placeholder         "Peñerar elementos">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
-<!ENTITY storage.popupMenu.deleteAllLabel "Desanicialo too">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
 
