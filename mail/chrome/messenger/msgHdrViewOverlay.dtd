@@ -11,11 +11,11 @@
 
 <!ENTITY subjectField4.label "Temo">
 <!ENTITY ccField4.label "Kopio">
-<!ENTITY bccField4.label "Bcc">
-<!ENTITY newsgroupsField4.label "Newsgroups">
-<!ENTITY followupToField4.label "Followup to">
-<!ENTITY tagsHdr4.label "Tags">
-<!ENTITY dateField4.label "Date">
+<!ENTITY bccField4.label "Kaŝkopio">
+<!ENTITY newsgroupsField4.label "Grupoj">
+<!ENTITY followupToField4.label "Pluigi al">
+<!ENTITY tagsHdr4.label "Etikedoj">
+<!ENTITY dateField4.label "Dato">
 <!ENTITY userAgentField4.label "User agent">
 <!ENTITY referencesField4.label "References">
 <!ENTITY messageIdField4.label "Message ID">
