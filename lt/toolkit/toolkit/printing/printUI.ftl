@@ -40,6 +40,11 @@ printui-scale-pcent = Mastelis
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Dvipusis spausdinimas
 printui-duplex-checkbox = Spausdinti ant abiejų pusių
+printui-two-sided-printing-off = Išjungta
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Paversti ant šoninio krašto
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Paversti ant viršutinio krašto
 # Section title for miscellaneous print options
 printui-options = Nuostatos
 printui-headers-footers-checkbox = Spausdinti antraštes ir poraštes

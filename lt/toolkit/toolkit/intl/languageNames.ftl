@@ -176,6 +176,7 @@ language-name-st = Pietų sotų
 language-name-su = Sudaniečių
 language-name-sv = Švedų
 language-name-sw = Svahilių
+language-name-szl = Sileziečių
 language-name-ta = Tamilų
 language-name-te = Telugų
 language-name-tg = Tadžikų
