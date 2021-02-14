@@ -176,6 +176,7 @@ language-name-st = Сесото, Паўднёвая
 language-name-su = Сунданская
 language-name-sv = Шведская
 language-name-sw = Суахілі
+language-name-szl = Сілезская
 language-name-ta = Тамільская
 language-name-te = Тэлугу
 language-name-tg = Таджыкская
