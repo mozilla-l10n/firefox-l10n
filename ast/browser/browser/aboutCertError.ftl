@@ -8,7 +8,7 @@ cert-error-intro = { $hostname } usa un certificáu de seguranza que nun ye vál
 cert-error-mitm-intro = Los sitios web demuestren la so identidá per certificaos qu'emiten les autoridaes certificadores.
 cert-error-mitm-mozilla = { -brand-short-name } ta sofitáu pola organización ensin ánimu de llucru Mozilla, que xestiona un almacén d'entidá certificadora (CA) abiertu dafechu. L'almacén CA ayúdanos a asegurar que les entidaes certificadores siguen les meyores práutiques pa la seguranza de los usuarios.
 cert-error-mitm-connection = { -brand-short-name } usa l'almacén CA de Mozilla pa verificar qu'una conexón ye segura, en cuentes d'usar los certificaos forníos pol sistema operativu del usuariu. Polo tanto, si un antivirus o una rede interceuten una conexón con un certificáu de seguranza emitíu por una CA que nun tan nel almacén CA de Mozilla, la conexón considérase insegura.
-cert-error-trust-unknown-issuer-intro = Daquién podría tar tentando de suplantar el sitiu y nun deberíes siguir.
+cert-error-trust-unknown-issuer-intro = Daquién podría tar tentando de suplantar el sitiu y nun habríes siguir.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota en { $hostname } porque nun se conoz el so emisor de certificaos, el certificáu ta robláu por sigo mesmu o'l sirvidor nun unvia los certificaos intermedios correutos.
@@ -95,6 +95,6 @@ inadequateSecurityError-title = La conexón nun ye segura
 blockedByPolicy-title = Páxina bloquiada
 clockSkewError-title = El reló del ordenador ta mal
 networkProtocolError-title = Fallu del protocolu de rede
-nssBadCert-title = Alvertencia: riesgu potencial de seguranza a la vista
+nssBadCert-title = Alvertencia: Riesgu potencial de seguranza
 nssBadCert-sts-title = Nun se conectó: Problema potencial de seguranza
 certerror-mitm-title = Un programa ta evitando que { -brand-short-name } se conecte con seguranza a esti sitiu
