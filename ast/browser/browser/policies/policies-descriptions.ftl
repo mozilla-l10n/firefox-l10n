@@ -54,6 +54,10 @@ policy-DownloadDirectory = Afita y bloquia'l direutoriu de descarga.
 policy-EnableTrackingProtection = Des/activa'l bloquéu de conteníu y, opcionalmente, blóquialu.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Des/activa les Estensiones Multimedia Cifraes (EME) y, opcionalmente, blóquiales
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instala, desinstala o bloquia estensiones. La opción «Install» lleva les URLs o los caminos como parámetros. Les opciones «Uninstall y «Locked» lleven les IDs de les estensiones.
 policy-ExtensionSettings = Xestiona tolos aspeutos de la instalación d'estensiones.
 policy-ExtensionUpdate = Des/activa l'anovamientu automáticu de les estensiones.
 policy-FirefoxHome = Configura la páxina d'aniciu de Firefox.
@@ -67,15 +71,20 @@ policy-LegacyProfiles = Desactiva la obligación d'un perfil separtáu pa cada i
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Activa'l comportamientu heredáu de SameSite pa les cookies de los sitios especificaos.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Restaura'l comportamientu heredáu de SameSite pa les cookies de los sitios especificaos.
 
 ##
 
 policy-LocalFileLinks = Permite que sitios web específicos enllacien a ficheros llocales.
+policy-ManagedBookmarks = Configura una llista de marcadores xestionaos por un alministrador que l'usuariu nun pue camudar.
 policy-MasterPassword = Rique o evita l'usu d'una contraseña maestra
 policy-ManualAppUpdateOnly = Namás permite los anovamientos manuales y nun avisa al usuariu d'ellos.
 policy-PrimaryPassword = Rique o evita l'usu d'una contraseña primaria.
 policy-NewTabPage = Des/activa la páxina «Llingüeta nueva».
 policy-NoDefaultBookmarks = Desactiva la creación de marcadores predeterminaos incluyíos con { -brand-short-name } y los marcadores intelixentes (Lo más visitao, Etiquetes de recién). Nota: esta política namás ye efeutiva si s'usa enantes de la primer execución d'un perfil.
+policy-OfferToSaveLogins = Forcia l'axuste que permite a { -brand-short-name } acordase de recordar los anicios de sesión y les contraseñes guardaos. Acéptense los valores «true» y «false»
+policy-OfferToSaveLoginsDefault = Afita'l valor predetermináu pa permitir que { -brand-short-name } ufra recordar los anicios de sesión y contraseñes guardaos. Acéptense los valores «true» y «false»
 policy-OverridePostUpdatePage = Anula la páxina de dempués del anovamientu «Novedaes». Dexa esta política balera si quies desactivar esa páxina.
 policy-PasswordManagerEnabled = Activa'l guardáu de contraseñes nel xestor de contraseñes.
 # PDF.js and PDF should not be translated
