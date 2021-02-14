@@ -5,17 +5,17 @@
 head-title = Sobre o Developer Tools
 enable-title = Ativar ferramentas de desenvolvimento do Firefox
 enable-inspect-element-title = Ative as ferramentas de desenvolvimento do Firefox para usar o Inspect Element
-enable-inspect-element-message = Examine and edit HTML and CSS with the Developer Tools’ Inspector.
+enable-inspect-element-message = Examine e edite HTML e CSS com o Inspetor das ferramentas de desenvolvimento.
 enable-about-debugging-message = Desenvolva e depure WebExtensions, web workers, service workers e muito mais com as ferramentas de desenvolvimento do Firefox.
 enable-key-shortcut-message = Você ativou um atalho das ferramentas de desenvolvimento. Se foi por engano, pode fechar esta aba.
-enable-menu-message = Aperfeiçoe HTML, CSS e JavaScript do seu site com ferramentas como Inspector e Debugger.
+enable-menu-message = Aperfeiçoe HTML, CSS e JavaScript do seu site com ferramentas como Inspetor e Debugger.
 enable-common-message = As ferramentas de desenvolvimento do Firefox são desativadas por padrão para dar a você mais controle sobre seu navegador.
-enable-learn-more-link = Saiba mais sobre o Developer Tools
+enable-learn-more-link = Saiba mais sobre as ferramentas de desenvolvimento
 enable-enable-button = Ativar ferramentas de desenvolvimento
 enable-close-button = Fechar esta aba
 welcome-title = Boas-vindas às ferramentas de desenvolvimento do Firefox!
 newsletter-title = Mozilla Developer Newsletter
-newsletter-message = Receba novidades, truques e recursos para o desenvolvedor diretamente na sua caixa de entrada.
+newsletter-message = Receba novidades, truques e recursos de desenvolvimento diretamente na sua caixa de entrada.
 newsletter-email-placeholder =
     .placeholder = Email
 newsletter-privacy-label = Eu aceito a Mozilla lidar com minhas informações conforme explicado nesta <a data-l10n-name="privacy-policy">política de privacidade</a>.
