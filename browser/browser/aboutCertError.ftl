@@ -62,7 +62,7 @@ csp-xfo-blocked-long-desc = Pa protexer la to seguranza, { $hostname } nun va pe
 
 ## Messages used for certificate error titles
 
-connectionFailure-title = Nun pue conectase
+connectionFailure-title = Nun ye posible conectase
 deniedPortAccess-title = Esta direición ta torgada
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -83,18 +83,18 @@ netReset-title = Reanicióse la conexón
 netTimeout-title = Escosó'l tiempu d'espera de la conexón
 unknownProtocolFound-title = Nun s'entendió la direición
 proxyConnectFailure-title = El sirvidor proxy ta refugando les conexones
-proxyResolveFailure-title = Nun pue atopase'l sirvidor proxy
+proxyResolveFailure-title = Nun ye posible atopar el sirvidor proxy
 redirectLoop-title = La páxina nun ta redirixendo afayadizamente
 unknownSocketType-title = Rempuesta inesperada del sirvidor
 nssFailure2-title = La conexón segura falló
 csp-xfo-error-title = { -brand-short-name } nun pue abrir esta páxina
 corruptedContentError-title = Fallu de conteníu toyíu
 remoteXUL-title = XUL Remotu
-sslv3Used-title = Nun pue conectase de mou seguru
+sslv3Used-title = Nun ye posible conectase de mou seguru
 inadequateSecurityError-title = La conexón nun ye segura
 blockedByPolicy-title = Páxina bloquiada
 clockSkewError-title = El reló del ordenador ta mal
 networkProtocolError-title = Fallu del protocolu de rede
 nssBadCert-title = Alvertencia: Riesgu potencial de seguranza
 nssBadCert-sts-title = Nun se conectó: Problema potencial de seguranza
-certerror-mitm-title = Un programa ta evitando que { -brand-short-name } se conecte con seguranza a esti sitiu
+certerror-mitm-title = Un programa evita que { -brand-short-name } se conecte con seguranza a esti sitiu
