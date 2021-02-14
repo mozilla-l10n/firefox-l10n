@@ -350,6 +350,8 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Iteddu
 browser-tab-audio-muted = Isusem
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = TAΓURI
 
 ## Bookmarks toolbar items
 
