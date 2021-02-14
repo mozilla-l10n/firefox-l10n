@@ -6,14 +6,14 @@
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Zachowaj ostrożność
-about-config-intro-warning-text = Modyfikacja zaawansowanych preferencji może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
+about-config-intro-warning-text = Modyfikacja zaawansowanych preferencji może wpłynąć na wydajność lub bezpieczeństwo programu { -brand-short-name }.
 about-config-intro-warning-checkbox = Wyświetlanie tego ostrzeżenia za każdym razem
 about-config-intro-warning-button = Akceptuję ryzyko, kontynuuj
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = Modyfikacja tych preferencji może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
+about-config-caution-text = Modyfikacja tych preferencji może wpłynąć na wydajność lub bezpieczeństwo programu { -brand-short-name }.
 about-config-page-title = Preferencje zaawansowane
 about-config-search-input1 =
     .placeholder = Szukaj preferencji
