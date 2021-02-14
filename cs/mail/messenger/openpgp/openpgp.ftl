@@ -477,6 +477,17 @@ not-required = Chyba: Šifrování není vyžadováno
 no-photo-available = Fotografie není k dispozici
 error-photo-path-not-readable = Cesta k fotografii '{ $photo }' není čitelná
 debug-log-title = Protokol ladění OpenPGP
+# Strings used in dialog.jsm
+repeat-prefix =
+    Toto upozornění se zobrazí ještě { $count ->
+        [one] jednou
+        [few] { $count }krát
+       *[other] { $count }krát
+    }.
+repeat-suffix-singular = { "" }
+repeat-suffix-plural = { "" }
+no-repeat = Toto upozornění se už nezobrazí.
+dlg-keep-setting = Pamatovat si odpověď a už se neptat
 dlg-button-ok = &OK
 dlg-button-close = &Zavřít
 dlg-button-cancel = &Zrušit
