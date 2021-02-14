@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nowe okno
 appmenuitem-new-private-window =
     .label = Nowe okno prywatne
+appmenuitem-passwords =
+    .label = Hasła
+appmenuitem-extensions-and-themes =
+    .label = Rozszerzenia i motywy
+appmenuitem-find-in-page =
+    .label = Znajdź na stronie…
+appmenuitem-more-tools =
+    .label = Więcej narzędzi
+appmenuitem-exit =
+    .label = Zakończ
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Ustawienia
 
 ## Zoom and Fullscreen Controls
 
@@ -46,6 +60,15 @@ whatsnew-panel-footer-checkbox =
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Odkryj więcej informacji
+profiler-popup-description-title =
+    .value = Nagrywaj, analizuj, udostępniaj
+
+## History panel
 
 
 ## Help panel
@@ -95,4 +118,7 @@ appmenu-help-not-deceptive =
     .accesskey = n
 
 ##
+
+
+## More Tools
 
