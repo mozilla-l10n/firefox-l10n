@@ -26,6 +26,10 @@ printui-scale = Escala
 printui-scale-fit-to-page-width = Axustar al anchor de la páxina
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Escalar
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Imprentación a dos cares
+# Section title for miscellaneous print options
+printui-options = Opciones
 printui-margins = Márxenes
 printui-margins-default = Lo predeterminao
 printui-margins-custom-top = Arriba
@@ -56,3 +60,8 @@ printui-paper-jis-b4 = JIS-B4
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = La escala ha ser un númberu ente 10 y 200.
+printui-error-invalid-margin = Introduz un marxe válidu pal tamañu de papel esbilláu, por favor.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = El rangu ha ser un númberu ente 1 y { $numPages }.
+printui-error-invalid-start-overflow = El númberu de páxina «dende» ha ser menor que'l d'«hasta».
