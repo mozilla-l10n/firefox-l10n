@@ -163,3 +163,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Tichinäx Rukajtz'ik Samajib'äl…
+appmenu-developer-tools-subheader = Rusamajib'al Okik'amaya'l

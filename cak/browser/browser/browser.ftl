@@ -348,6 +348,16 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Nitzij
+browser-tab-audio-muted = Mem
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = Netz'an
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = Mem
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = Q'ATON RUYON NITZIJ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## Bookmarks toolbar items
 
