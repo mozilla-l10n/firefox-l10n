@@ -4,31 +4,41 @@
 
 page-title = Información pa iguar problemes
 page-subtitle =
-    Esta páxina contién información téunica que podría ser útil cuando teas
-    tentando d'iguar un problema. Si guetes rempuestes a entruges fecuentes
-    tocante a { -brand-short-name }, écha-y un güeyu al nuesu <a data-l10n-name="support-link">sitiu web de sofitu</a>.
-
+    Esta páxina contién información téunica que quiciabes seya útil cuando tentes
+    d'iguar un problema. Si busques rempuestes a entrugues frecuentes tocante a
+    { -brand-short-name }, visita'l nuesu <a data-l10n-name="support-link">sitiu web de sofitu</a>.
 crashes-title = Informes de casques
 crashes-id = ID del informe
-crashes-send-date = Unvióse
+crashes-send-date = Data d'unviu
 crashes-all-reports = Tolos informes de casques
-crashes-no-config = Esta aplicación nun se configuró p'amosar informes de casques.
+crashes-no-config = Esta aplicación nun se configuró p'amosar los informes de casques.
 extensions-title = Estensiones
 extensions-name = Nome
-extensions-enabled = Activóse
 extensions-version = Versión
 extensions-id = ID
+support-addons-title = Complementos
 support-addons-name = Nome
+support-addons-type = Tipu
 support-addons-version = Versión
 support-addons-id = ID
+security-software-title = Software de seguranza
+security-software-type = Tipu
+security-software-name = Nome
+security-software-antivirus = Antivirus
+security-software-antispyware = Antispyware
+security-software-firewall = Tornafuéu
 features-title = Carauterístiques de { -brand-short-name }
 features-name = Nome
 features-version = Versión
 features-id = ID
+processes-title = Procesos remotos
+processes-type = Tipu
+processes-count = Cantidá
 app-basics-title = Configuración básica de l'aplicación
 app-basics-name = Nome
 app-basics-version = Versión
 app-basics-build-id = ID de compilación
+app-basics-distribution-id = ID de distribución
 app-basics-update-channel = Canal d'anovamientu
 app-basics-update-history = Historial d'anovamientos
 app-basics-show-update-history = Amosar historial d'anovamientos
@@ -143,7 +153,6 @@ report-crash-for-days =
         [one] Informes de casques del últimu día
        *[other] Informes de casques de los últimos { $days } díes
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -151,7 +160,6 @@ crashes-time-minutes =
         [one] Hai { $minutes } minutu
        *[other] Hai { $minutes } minutos
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -159,7 +167,6 @@ crashes-time-hours =
         [one] Hai { $hours } hora
        *[other] Hai { $hours } hores
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -167,7 +174,6 @@ crashes-time-days =
         [one] Hai { $days } día
        *[other] Hai { $days } díes
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -175,7 +181,6 @@ pending-reports =
         [one] Tolos informes de fallos (incluyendo un casque pendiente nel rangu dau de tiempu)
        *[other] Tolos informes de fallos (incluyendo { $reports } casques pendientes nel rangu dau de tiempu)
     }
-
 raw-data-copied = Copiáronse los datos en bruto al cartafueyu
 text-copied = Copióse'l testu al cartafueyu
 
@@ -188,11 +193,9 @@ blocked-mismatched-version = Bloquióse pola diferencia de versión del controla
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloquióse pa la versión del controlador gráficu. Tenta d'anovar el controlador gráficu a la versión { $driverVersion } o más nueva.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
-
 compositing = Composición
 hardware-h264 = Descodificación H264 de hardware
 main-thread-no-omtc = filu principal, non OMTC
@@ -205,7 +208,6 @@ no = Non
 
 found = Alcontróse
 missing = Falta
-
 gpu-description = Descripción
 gpu-vendor-id = ID del vendedor
 gpu-device-id = ID del preséu
@@ -226,28 +228,22 @@ webgl2-version = Versión controlador WebGL 2
 webgl2-driver-extensions = Estensiones del controlador WebGL 2
 webgl2-extensions = Estensiones WebGL 2
 blocklisted-bug = Bloquióse debío a problemes desconocíos
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = fallu { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ta na llistáu de bloquéu; códigu de fallu { $failureCode }
-
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de videu D3D11
 d3d9video-crash-guard = Descodificador de videu D3D9
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Reafitar nel reaniciu próximu
 gpu-process-kill-button = Finar procesos de GPU
 gpu-device-reset-button = Aicionar reaniciu del preséu
 off-main-thread-paint-enabled = Activóse'l pintáu fuera del filu principal
-
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión n'usu
-
 has-seccomp-bpf = Seccomp-BPF (peñera de llamaes al sistema)
 has-seccomp-tsync = Sincronización de filos seccomp
 has-user-namespaces = Espacios de nomes d'usuariu
@@ -259,7 +255,6 @@ effective-content-sandbox-level = Nivel d'aisllamientu efeutivu de procesos de c
 sandbox-proc-type-content = conteníu
 sandbox-proc-type-file = conteníu del ficheru
 sandbox-proc-type-media-plugin = complementu de medios
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -272,7 +267,6 @@ multi-process-status-6 = Desactivólo l'inxertar testu non sofitáu
 multi-process-status-7 = Desactivólo los complementos
 multi-process-status-8 = Desactivóse forzosamente
 multi-process-status-unknown = Estáu desconocíu
-
 async-pan-zoom = Encuadre/zoom asíncronu
 apz-none = nada
 wheel-enabled = entrada de rueda de mur activada
@@ -288,4 +282,7 @@ wheel-warning = entrada de rueda de mur desactivada darréu d'una preferencia no
 touch-warning = entrada táctil asíncrona desactivada darréu d'una preferencia non almitía: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
+
+
+## Printing section
 
