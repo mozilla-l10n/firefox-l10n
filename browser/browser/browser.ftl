@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Wird abgespielt
 browser-tab-audio-muted = Stumm
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = WIRD ABGESPIELT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = STUMM
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMATISCHE WIEDERGABE BLOCKIERT
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = BILD-IM-BILD
 
 ## Bookmarks toolbar items
 

@@ -176,6 +176,7 @@ language-name-st = Süd-Sotho-Sprache
 language-name-su = Sundanesisch
 language-name-sv = Schwedisch
 language-name-sw = Swahili
+language-name-szl = Schlesisch
 language-name-ta = Tamil
 language-name-te = Telugu-Sprache
 language-name-tg = Tadschikisch
