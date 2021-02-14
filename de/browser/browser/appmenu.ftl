@@ -76,7 +76,7 @@ profiler-popup-edit-settings = Einstellungen bearbeiten…
 profiler-popup-disabled =
     Der Profiler ist derzeit deaktiviert, wahrscheinlich aufgrund eines
     offenen privaten Fensters.
-profiler-popup-recording-screen = Aufzeichnung läuft…
+profiler-popup-recording-screen = Aufzeichnung wird durchgeführt…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
 profiler-popup-presets-custom =
@@ -86,7 +86,7 @@ profiler-popup-start-recording-button =
 profiler-popup-discard-button =
     .label = Verwerfen
 profiler-popup-capture-button =
-    .label = Aufnehmen
+    .label = Speichern
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
