@@ -104,3 +104,4 @@ experimental-features-http3-description = Eksperimentell støtte for HTTP/3-prot
 # Search during IME
 experimental-features-ime-search =
     .label = Adresselinja: Vis resultat under IME-samansetjing
+experimental-features-ime-search-description = Ein IME (Input Method Editor) er eit verktøy som lar deg skrive inn komplekse symbol, til dømes dei som vert brukte i austasiatiske eller Indiske skriftspråk, ved hjelp av eit standardtastatur. Aktivering av dette eksperimentet held adresselinjepanelet ope, viser søkjeresultat og forslag mens du brukar IME til å leggje inn tekst. Merk at IME kan vise eit panel som dekkjer resultata i adresselinja, og derfor er denne preferansen berre tilrådd for IME som ikkje brukar denne typen panel.
