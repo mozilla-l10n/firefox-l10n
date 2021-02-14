@@ -352,6 +352,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Odtwarzanie
 browser-tab-audio-muted = Wyciszona
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ODTWARZANIE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = WYCISZONA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ZABLOKOWANO AUTOMATYCZNE ODTWARZANIE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = OBRAZ W OBRAZIE
 
 ## Bookmarks toolbar items
 
@@ -513,6 +521,13 @@ pointerlock-warning-no-domain = Dokument kontroluje teraz kursor. Naciśnij klaw
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Część tej strony uległa awarii.</strong> Prosimy to zgłosić, aby powiadomić twórców przeglądarki { -brand-product-name } o problemie i przyspieszyć jego naprawienie.
+crashed-subframe-learnmore =
+    .label = Więcej informacji
+    .accesskey = W
+crashed-subframe-submit =
+    .label = Zgłoś awarię
+    .accesskey = Z
 
 ## Bookmarks panels, menus and toolbar
 
@@ -520,6 +535,8 @@ bookmarks-show-all-bookmarks =
     .label = Wyświetl wszystkie zakładki
 bookmarks-recent-bookmarks =
     .value = Ostatnio dodane
+bookmarks-recent-bookmarks-panel =
+    .value = Ostatnio dodane zakładki
 bookmarks-toolbar-chevron =
     .tooltiptext = Wyświetl więcej zakładek
 bookmarks-sidebar-content =
