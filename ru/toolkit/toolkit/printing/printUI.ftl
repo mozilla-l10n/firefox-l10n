@@ -41,6 +41,10 @@ printui-scale-pcent = Масштаб
 printui-two-sided-printing = Двусторонняя печать
 printui-duplex-checkbox = Печатать на обоих сторонах
 printui-two-sided-printing-off = Отключена
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Переплет сбоку
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Переплет сверху
 # Section title for miscellaneous print options
 printui-options = Настройки
 printui-headers-footers-checkbox = Печатать колонтитулы
