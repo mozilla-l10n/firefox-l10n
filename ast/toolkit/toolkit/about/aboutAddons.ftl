@@ -67,14 +67,20 @@ detail-contributions-button = Collaborar
 detail-update-type =
     .value = Anovamientos automáticos
 detail-update-default =
-    .label = Por defeutu
-    .tooltiptext = Instalar anovamientos automáticamente namái si eso ye lo predeterminao
+    .label = Per defecte
+    .tooltiptext = Instala los anovamientos namás si'l comportamientu ye'l predetermináu
 detail-update-automatic =
     .label = Sí
     .tooltiptext = Instalar anovamientos automáticamente
 detail-update-manual =
     .label = Non
     .tooltiptext = Nun instalar automáticamente los anovamientos
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Executar nes ventanes privaes
+detail-private-disallowed-description2 = Esta estensión nun s'executa mentanto restoles en privao. <a data-l10n-name="learn-more">Deprender más</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Rique l'accesu a les ventanes privaes
+detail-private-required-description2 = Esta estensión tien accesu a les tos actividaes en llinia mentanto restoles en privao. <a data-l10n-name="learn-more">Deprender más</a>
 detail-home =
     .label = Páxina d'aniciu
 detail-home-value =
@@ -84,9 +90,9 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = Comprobar anovamientos
+    .label = Comprobar los anovamientos
     .accesskey = C
-    .tooltiptext = Comprobar anovamientos d'esti complementu
+    .tooltiptext = Comprueba los anovamientos d'esti complementu
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -100,17 +106,16 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Camudar les opciones d'esti complementu
-           *[other] Camudar les preferencies d'esti complementu
+            [windows] Camuda les opciones d'esti complementu
+           *[other] Camuda les preferencies d'esti complementu
         }
 detail-rating =
     .value = Valoración
 addon-restart-now =
     .label = Reaniciar agora
 disabled-unsigned-heading =
-    .value = Desactiváronse dellos complementos
-disabled-unsigned-description = Nun se verificaron los complementos de darréu pa usase en { -brand-short-name }. Pues <label data-l10n-name="find-addons">alcontrar troqueos</label> o entrugar al desendolcador pa que los verifique.
-disabled-unsigned-learn-more = Deprendi más tocante a los nuesos esfuercios p'ayudar a caltenete seguru en llinia.
+    .value = Desactiváronse dalgunos complementos
+disabled-unsigned-description = Nun se verificaron los complementos de darréu pal so usu en { -brand-short-name }. Pues <label data-l10n-name="find-addons">atopar alternatives</label> o pidir al desendolcador que los verifique.
 disabled-unsigned-devinfo = Los desendolcadores interesaos en tener los complementos verificaos puen siguir lleendo'l nuesu <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = ¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu de { -brand-short-name }. <label data-l10n-name="learn-more">Deprendi más</label>
 legacy-warning-show-legacy = Amosar estensiones heredaes
