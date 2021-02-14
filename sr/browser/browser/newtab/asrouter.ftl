@@ -210,12 +210,18 @@ cfr-doorhanger-cryptominers-description = Ваша приватност је б�
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
         [few] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
        *[other] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење од { DATETIME($date, month: "long", year: "numeric") }!
+        [few] { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење од { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење од { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Погледај све
     .accesskey = S
@@ -299,3 +305,8 @@ cfr-whatsnew-supercookies-body = Сајтови могу да тајно пос�
 
 cfr-whatsnew-bookmarking-header = Боље обележавање
 cfr-whatsnew-bookmarking-body = Праћење омиљених страница постало је лакше. { -brand-short-name } сада памти ваше омиљено место за сачуване забелешке, подразумевано приказује траку забелешки на новим језичцима и омогућава лак приступ осталим обележивачима путем фасцикле на траци са алаткама.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Свеобухватна заштита од праћења путем међустраничних колачића
+cfr-whatsnew-cross-site-tracking-body = Сада можете одабрати бољу заштиту од праћења активности колачића. { -brand-short-name } може да изолује ваше активности и податке на тренутној страници, спречавајући да се информације сачуване у прегледачу деле између различитих сајтова.

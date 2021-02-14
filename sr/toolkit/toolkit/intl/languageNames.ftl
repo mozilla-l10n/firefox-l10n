@@ -176,6 +176,7 @@ language-name-st = сото, јужни
 language-name-su = судански
 language-name-sv = шведски
 language-name-sw = свахили
+language-name-szl = Шлески
 language-name-ta = тамилски
 language-name-te = телугу
 language-name-tg = таџички
