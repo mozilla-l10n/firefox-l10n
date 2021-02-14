@@ -48,6 +48,7 @@ printui-two-sided-printing-top-edge = Vend på øvste kant
 printui-options = Innstillingar
 printui-headers-footers-checkbox = Skriv ut topptekst og botntekst
 printui-backgrounds-checkbox = Skriv ut bakgrunnar
+printui-selection-checkbox = Skriv berre ut utvalet
 printui-color-mode-label = Fargemodus
 printui-color-mode-color = Farge
 printui-color-mode-bw = Svart-kvit
