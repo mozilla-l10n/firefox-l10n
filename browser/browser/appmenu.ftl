@@ -67,16 +67,46 @@ profiler-popup-reveal-description-button =
     .aria-label = Näytä lisätietoja
 profiler-popup-description-title =
     .value = Tallenna, analysoi, jaa
+profiler-popup-description = Työskentele suoprituskykyongelmien parissa yhdessä julkaisemalla profiileita ja jakamalla niitä tiimin kanssa.
+profiler-popup-learn-more = Lue lisää
 profiler-popup-settings =
     .value = Asetukset
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Muokkaa asetuksia…
+profiler-popup-disabled = Profiloija ei ole tällä hetkellä käytössä, todennäköisesti koska yksityisen selauksen ikkuna on auki.
+profiler-popup-recording-screen = Tallennetaan…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Mukautettu
+profiler-popup-start-recording-button =
+    .label = Aloita tallennus
+profiler-popup-discard-button =
+    .label = Hylkää
+profiler-popup-capture-button =
+    .label = Kaappaa
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Hallitse historiaa
+appmenu-reopen-all-tabs = Avaa uudelleen kaikki välilehdet
+appmenu-reopen-all-windows = Avaa uudelleen kaikki ikkunat
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name }-ohje
 appmenu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
@@ -100,6 +130,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Näppäinkomennot
     .accesskey = N
+appmenu-get-help =
+    .label = Etsi ohjeita
+    .accesskey = h
 appmenu-help-troubleshooting-info =
     .label = Tietoja ongelmatilanteisiin
     .accesskey = T
@@ -131,6 +164,11 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Tarkista päivitykset…
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Muokkaa työkalupalkkia…
+appmenu-developer-tools-subheader = Browser Tools
