@@ -535,6 +535,8 @@ bookmarks-show-all-bookmarks =
     .label = Wyświetl wszystkie zakładki
 bookmarks-recent-bookmarks =
     .value = Ostatnio dodane
+bookmarks-manage-bookmarks =
+    .label = Zarządzaj zakładkami
 bookmarks-recent-bookmarks-panel =
     .value = Ostatnio dodane zakładki
 bookmarks-toolbar-chevron =
@@ -565,6 +567,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Ukryj pasek zakładek
            *[other] Wyświetl pasek zakładek
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Ukryj pasek zakładek
+           *[other] Wyświetl pasek zakładek
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -590,6 +598,9 @@ bookmarks-toolbar-placeholder =
     .title = Elementy paska zakładek
 bookmarks-toolbar-placeholder-button =
     .label = Elementy paska zakładek
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Dodaj zakładkę do tej karty
 
 ## Library Panel items
 
