@@ -376,15 +376,14 @@ addon-detail-private-browsing-disallow = Älä salli
 addon-badge-recommended2 =
     .title = { -brand-product-name } suosittelee vain laajennuksia, jotka täyttävät standardimme turvallisuuden ja suorituskyvyn suhteen
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Tämä laajennus luotiin { -brand-product-name }in tekijöiden toimesta
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Tämän laajennuksen koodi on katselmoitu turvallisuuden varmistamiseksi
-    .aria-label = { addon-badge-verified.title }
 addon-badge-line2 =
     .title = Tämä on virallinen laajennus, joka on luotu { -brand-product-name }in tekijöiden toimesta
     .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Virallinen laajennus, jonka on toteuttanut Mozilla. Täyttää turvallisuus- ja suorituskykystandardit.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Tämä laajennnus on katselmoitu, ja se täyttää standardimme turvallisuuden ja suorituskyvyn suhteen.
     .aria-label = { addon-badge-verified2.title }

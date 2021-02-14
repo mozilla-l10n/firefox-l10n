@@ -176,6 +176,7 @@ language-name-st = eteläsotho
 language-name-su = sunda
 language-name-sv = ruotsi
 language-name-sw = swahili
+language-name-szl = sleesia
 language-name-ta = tamili
 language-name-te = telugu
 language-name-tg = tadžikki
