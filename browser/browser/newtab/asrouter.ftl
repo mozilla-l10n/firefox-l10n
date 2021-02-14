@@ -286,6 +286,7 @@ cfr-whatsnew-media-keys-button = Finn ut korleis
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Søkjesnarvegar i adresselinja
+cfr-whatsnew-search-shortcuts-body = Når nå du no skriv inn ein søkjemotor eller ein spesifikk nettstad i adresselinja, vert det vist ein blå snarveg i søkjeforslaga nedanfor. Vel snarvegen for å fullføre søket direkte frå adresselinja.
 
 ## What's new: Cookies protection
 
