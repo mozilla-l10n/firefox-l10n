@@ -19,8 +19,8 @@
 <!ENTITY userAgentField4.label "Programo">
 <!ENTITY referencesField4.label "Referencoj">
 <!ENTITY messageIdField4.label "Identigilo">
-<!ENTITY inReplyToField4.label "Respondo al">
-<!ENTITY originalWebsite4.label "Website">
+<!ENTITY inReplyToField4.label "En respondo al">
+<!ENTITY originalWebsite4.label "Retejo">
 
 <!ENTITY hdrArchiveButton1.label "Archive">
 <!ENTITY hdrArchiveButton1.tooltip "Archive this message">
