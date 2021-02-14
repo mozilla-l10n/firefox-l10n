@@ -11,7 +11,7 @@ cert-error-mitm-connection = { -brand-short-name } usa l'almacén CA de Mozilla 
 cert-error-trust-unknown-issuer-intro = Daquién podría tar tentando de suplantar el sitiu y nun deberíes siguir.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota en { $hostname } porque nun se conoz al so emisor de certificaos, el certificáu ta robláu por sigo mesmu o'l sirvidor nun ta unviando los certificaos intermedios correutos.
+cert-error-trust-unknown-issuer = Los sitios web demuestren la so identidá per certificaos. { -brand-short-name } nun s'enfota en { $hostname } porque nun se conoz al so emisor de certificaos, el certificáu ta robláu por sigo mesmu o'l sirvidor nun unvia los certificaos intermedios correutos.
 cert-error-trust-cert-invalid = El certificáu nun ye d'enfotu porque lu emitió una CA que nun ye válida.
 cert-error-trust-untrusted-issuer = El certificáu nun ye d'enfotu porque'l so emisor tampoco lo ye.
 cert-error-trust-signature-algorithm-disabled = El certificáu nun ye d'enfotu porque se robló col usu d'un algoritmu de robla que se desactivó porque nun ye seguru.
