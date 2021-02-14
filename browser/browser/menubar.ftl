@@ -14,7 +14,7 @@
 menu-application-services =
     .label = Usługi
 menu-application-hide-this =
-    .label = Ukryj program
+    .label = Ukryj program { -brand-shorter-name }
 menu-application-hide-other =
     .label = Ukryj pozostałe
 menu-application-show-all =
@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Ostatnio zamknięte karty
 menu-history-undo-window-menu =
     .label = Ostatnio zamknięte okna
+menu-history-reopen-all-tabs = Przywróć wszystkie karty
+menu-history-reopen-all-windows = Przywróć wszystkie okna
 
 ## Bookmarks Menu
 
