@@ -67,12 +67,48 @@ profiler-popup-reveal-description-button =
     .aria-label = Odkryj więcej informacji
 profiler-popup-description-title =
     .value = Nagrywaj, analizuj, udostępniaj
+profiler-popup-description = Współpracuj nad problemami z wydajnością, publikując profile do udostępnienia zespołowi.
+profiler-popup-learn-more = Więcej informacji
+profiler-popup-settings =
+    .value = Ustawienia
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Zmień ustawienia…
+profiler-popup-disabled =
+    Profiler jest obecnie wyłączony, najprawdopodobniej z powodu otwarcia okna
+    w trybie prywatnym.
+profiler-popup-recording-screen = Nagrywanie…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Własne
+profiler-popup-start-recording-button =
+    .label = Rozpocznij nagrywanie
+profiler-popup-discard-button =
+    .label = Odrzuć
+profiler-popup-capture-button =
+    .label = Przechwyć
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Zarządzaj historią
+appmenu-reopen-all-tabs = Przywróć wszystkie karty
+appmenu-reopen-all-windows = Przywróć wszystkie okna
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Pomoc programu { -brand-shorter-name }
 appmenu-about =
     .label = O programie { -brand-shorter-name }
     .accesskey = O
@@ -88,6 +124,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Skróty klawiaturowe
     .accesskey = S
+appmenu-get-help =
+    .label = Pomoc
+    .accesskey = P
 appmenu-help-troubleshooting-info =
     .label = Informacje dla pomocy technicznej
     .accesskey = n
@@ -119,6 +158,11 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Sprawdź dostępność aktualizacji…
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Dostosuj pasek narzędzi…
+appmenu-developer-tools-subheader = Narzędzia przeglądarki
