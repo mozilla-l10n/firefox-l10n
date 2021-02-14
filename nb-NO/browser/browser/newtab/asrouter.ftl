@@ -296,7 +296,7 @@ cfr-whatsnew-supercookies-body = Nettsteder kan i hemmelighet legge til en «sup
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Bedre bokmerking
-cfr-whatsnew-bookmarking-body = Det er lettere å holde oversikt over favorittsidene dine. { -brand-short-name } husker nå ønsket sted for lagrede bokmerker, viser bokmerkeverktøylinjen som standard på nye faner og gir deg enkel tilgang til resten av bokmerkene dine via en verktøylinjemappe.
+cfr-whatsnew-bookmarking-body = Det er lettere å holde oversikt over favorittnettstedene dine. { -brand-short-name } husker nå ønsket sted for lagrede bokmerker, viser bokmerkeverktøylinjen som standard på nye faner og gir deg enkel tilgang til resten av bokmerkene dine via en verktøylinjemappe.
 
 ## What's new: Cross-site cookie tracking
 
