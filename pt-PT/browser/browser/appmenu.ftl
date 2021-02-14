@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Gerir Histórico
+appmenu-reopen-all-tabs = Reabrir todos os separadores
+appmenu-reopen-all-windows = Reabrir todas as janelas
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Procurar por atualizações…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Personalizar barra de ferramentas…
+appmenu-developer-tools-subheader = Ferramentas do navegador
