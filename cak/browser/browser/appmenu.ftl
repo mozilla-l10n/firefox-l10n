@@ -87,12 +87,28 @@ profiler-popup-discard-button =
     .label = Tich'aqïx
 profiler-popup-capture-button =
     .label = Chapoj
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Tinuk'samajïx Natab'äl
+appmenu-reopen-all-tabs = Kejaq Chik Ronojel Ruwi'
+appmenu-reopen-all-windows = Kejaq Chik Ronojel Taq Tzuwäch
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } Tob'äl
 appmenu-about =
     .label = Chi rij ri { -brand-shorter-name }
     .accesskey = C
@@ -108,6 +124,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Ruq'a' rub'ey Keyboard
     .accesskey = K
+appmenu-get-help =
+    .label = Tik'ul To'ïk
+    .accesskey = o
 appmenu-help-troubleshooting-info =
     .label = Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
@@ -139,6 +158,8 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Tinik'öx we e k'o K'exoj…
 
 ## More Tools
 
