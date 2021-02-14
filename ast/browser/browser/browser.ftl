@@ -46,9 +46,13 @@ browser-main-window-title = { -brand-full-name }
 
 ##
 
+urlbar-identity-button =
+    .aria-label = Ver la información del sitiu
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-translate-notification-anchor =
+    .tooltiptext = Traducir esta páxina
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Xestionar la compartición de les ventanes o la pantalla col sitiu
 urlbar-persistent-storage-notification-anchor =
@@ -325,6 +329,13 @@ bookmarks-other-bookmarks-menu =
     .label = Otros marcadores
 bookmarks-mobile-bookmarks-menu =
     .label = Marcadores del móvil
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Barra de los marcadores
+    .accesskey = B
+    .aria-label = Marcadores
 
 ## Library Panel items
 
