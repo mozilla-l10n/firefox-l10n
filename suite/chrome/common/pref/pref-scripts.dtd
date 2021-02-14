@@ -21,6 +21,12 @@
 <!ENTITY allowHideStatusBar.label        "Ocultar barra de estado">
 
 <!ENTITY debugging.label                  "Depurador JavaScript">
+<!ENTITY debugEnableDump.label            "Ativar a saída dump() JavaScript">
+<!ENTITY debugEnableDump.accesskey        "v">
+<!ENTITY debugStrictJavascript.label      "Mostrar avisos estritos de JavaScript">
+<!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "Mostrar erros e avisos de JavaScript do Chrome">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Ativar plugins para">
 <!ENTITY enablePluginForSuite.label      "Suite">
