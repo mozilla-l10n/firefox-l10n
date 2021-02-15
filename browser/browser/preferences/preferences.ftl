@@ -1064,7 +1064,7 @@ addon-recommendations-link = Deprender más
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L'informe de datos ta desactiváu na configuración d'esta compilación
 collection-backlogged-crash-reports =
-    .label = Permtir que { -brand-short-name } unvie los informes de casques acumulaos por ti
+    .label = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos
     .accesskey = c
 collection-backlogged-crash-reports-link = Deprender más
 
