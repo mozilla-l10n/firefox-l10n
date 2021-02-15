@@ -106,7 +106,43 @@ browser-data-history-checkbox =
             [firefox] Cronologjie di navigazion e segnelibris
            *[other] Cronologjie di navigazion
         }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Cronologjie di navigazion e segnelibris
+           *[other] Cronologjie di navigazion
+        }
+browser-data-formdata-checkbox =
+    .label = Cronologjie dai formularis salvâts
+browser-data-formdata-label =
+    .value = Cronologjie dai formularis salvâts
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Credenziâls e passwords salvadis
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Credenziâls e passwords salvadis
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Preferîts
+            [edge] Preferîts
+           *[other] Segnelibris
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Preferîts
+            [edge] Preferîts
+           *[other] Segnelibris
+        }
+browser-data-otherdata-checkbox =
+    .label = Altris dâts
+browser-data-otherdata-label =
+    .label = Altris dâts
 browser-data-session-checkbox =
-    .label = Barcons e lengutis
+    .label = Barcons e schedis
 browser-data-session-label =
-    .value = Barcons e lengutis
+    .value = Barcons e schedis
