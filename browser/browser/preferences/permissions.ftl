@@ -83,7 +83,7 @@ permissions-exceptions-cookie-desc = Pues especificar los sitios web que siempre
 permissions-exceptions-popup-window =
     .title = Sitios web permitíos - Ventanos emerxentes
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir ventanes emerxentes. Escribi la direición exauta del sitiu que quies permitir y calca Permitir.
+permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir ventanes emerxentes. Escribi la direición exauta del sitiu que quies permitir y calca «Permitir».
 
 ## Exceptions - Saved Logins
 
@@ -97,7 +97,7 @@ permissions-exceptions-saved-logins-desc = Nun van guardase los anicios de sesi�
 permissions-exceptions-addons-window =
     .title = Sitios web permitíos - Instalación de complementos
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Pues especificar los sitios web que tienen permisu pa instalar complementos. Teclexa la direición exauta del sitiu que quies permitir y dempués calca «Permitir»
+permissions-exceptions-addons-desc = Pues especificar los sitios web que tienen permisu pa instalar complementos. Teclexa la direición exauta del sitiu que quies permitir y dempués calca «Permitir».
 
 ## Site Permissions - Autoplay
 
@@ -114,7 +114,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Los sitios web de darréu solicitaron unviate avisos, equí pues especificar los que tienen permisu pa facelo. Tamién pues bloquiar les solicitúes nueves de permitir avisos.
 permissions-site-notification-disable-label =
     .label = Bloquiar les solicitúes nueves pa permitir los avisos
-permissions-site-notification-disable-desc = Esto va evitar que cualesquier sitiu que nun tea na llista d'embaxo solicite'l permisu pa unviar avisos. Bloquiar los avisos pue romper les carauterístiques de dalgunos sitios web.
+permissions-site-notification-disable-desc = Esto va evitar que cualesquier sitiu que nun tea na llista d'enriba solicite'l permisu pa unviar avisos. Bloquiar los avisos pue romper les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Location
 
