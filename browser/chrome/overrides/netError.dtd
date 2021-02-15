@@ -29,9 +29,9 @@
 ">
 
 <!ENTITY fileNotFound.longDesc "
-<ul> 
-  <li>Check the file name for capitalisation or other typing errors.</li> 
-  <li>Check to see if the file was moved, renamed or deleted.</li> 
+<ul>
+  <li>Check the file name for capitalisation or other typing errors.</li>
+  <li>Check to see if the file was moved, renamed or deleted.</li>
 </ul>
 ">
 
