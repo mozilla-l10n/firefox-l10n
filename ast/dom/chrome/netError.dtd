@@ -8,33 +8,33 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Hebo un fallu al contectar">
-<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paeza válidu, el restolador nun foi a afitar una conexón.</p><ul><li>¿Pue ser que'l sitiu nun tea disponible temporalmente? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador o la rede tán protexíos por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paez válidu, el restolador nun foi a afitar una conexón.</p><ul><li>¿Pue ser que'l sitiu nun tea disponible temporalmente? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador o la rede tán protexíos por un tornafuéu o proxy? Unos axustes incorreutos puen afeutar al restolar de la web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Torgóse un puertu por seguranza">
 <!ENTITY deniedPortAccess.longDesc "<p>La direición solicitada especificaba un puertu (por exemplu, <q>softastur.org:80</q> pal puertu 80 en softastur.org) que davezu tien otru propósitu <em>distintu</em> al de restolar la web. El restolador encaboxó la solicitú pa la to proteición y seguranza.</p>">
 
-<!ENTITY dnsNotFound.title "Nun s'alcontró la direición">
-<!ENTITY dnsNotFound.longDesc "<p>El restolador nun pudo alcontrar la direición apurrida.</p><ul><li>¿Tuviesti dalgún fallu mentanto teclexabes el dominiu? (por exemplu, <q><strong>ww</strong>.softastur.org</q> en cuentes de <q><strong>www</strong>.softastur.org</q>)</li><li>¿De xuru qu'esti dominiu esiste? El so rexistru pudo caducar.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón a la rede y los axustes a los sirividores DNS.</li><li>¿L'ordenador ta protexíu por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li></ul>">
+<!ENTITY dnsNotFound.title "Nun s'atopó la direición">
+<!ENTITY dnsNotFound.longDesc "<p>El restolador nun pudo atopar l'agospiador de la direición apurrida.</p><ul><li>¿Tuviesti dalgún fallu mentanto teclexabes el dominiu? (por exemplu, <q><strong>ww</strong>.softastur.org</q> en cuentes de <q><strong>www</strong>.softastur.org</q>)</li><li>¿De xuru qu'esti dominiu esiste? El so rexistru pudo caducar.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón a la rede y los axustes a los sirividores DNS.</li><li>¿L'ordenador ta protexíu por un tornafuéu o proxy? Unos axustes incorreutos puen afeutar al restolar de la web.</li></ul>">
 
-<!ENTITY fileNotFound.title "Nun s'alcontró'l ficheru">
+<!ENTITY fileNotFound.title "Nun s'atopó'l ficheru">
 <!ENTITY fileNotFound.longDesc "<ul><li>¿Pue ser que l'elementu se renomare, desaniciare o moviere?</li><li>¿La direición tien dalguna falta u otru fallu tipográficu?</li><li>¿Tienes abondos permisos p'acceder al elementu solicitáu?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "Ñegóse l'accesu al ficheru">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Seique se desaniciare, moviere o los permisos del ficheru eviten l'accesu a elli.</li></ul>">
+<!ENTITY fileAccessDenied.title "Negóse l'accesu al ficheru">
+<!ENTITY fileAccessDenied.longDesc "<ul><li>Seique se desaniciare, moviere o los permisos del ficheru eviten l'accesu.</li></ul>">
 
 <!ENTITY generic.title "Nun pue completase la solicitú">
 <!ENTITY generic.longDesc "<p>Anguaño nun hai más información disponible tocante a esti problema o fallu.</p>">
 
 <!ENTITY malformedURI.title "La direición nun ye válida">
-<!ENTITY malformedURI.longDesc "<p>La direición apurrida nun ta nun formatu reconocíu. Comprueba los fallos na barra de direiciones y volvi a tentalo, por favor.</p>">
+<!ENTITY malformedURI.longDesc "<p>La direición apurrida nun ta nun formatu reconocíu. Comprueba si hai fallos na barra de direiciones y volvi a tentalo, por favor.</p>">
 
 <!ENTITY netInterrupt.title "Torgóse la tresferencia de datos">
-<!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse con ésitu pero interrumpióse la conexón mentanto se tresfería la información.  Volvi tentalo, por favor.</p><ul><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿Entá tienes problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>El restolador conectóse con ésitu mas torgóse la conexón mentanto se tresfería información. Volvi tentalo, por favor.</p><ul><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿Sigues teniendo problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
 
 <!ENTITY notCached.title "Caducó'l documentu">
-<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del restolador.</p><ul><li>Como midida de seguranza, el restolador nun va volver solicitar automáticamente documentos sensibles.</li><li>Calca Retentar pa solicitar de nueves el documentu del sitiu web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del restolador.</p><ul><li>Como midida de seguranza, el restolador nun va volver solicitar automáticamente documentos confidenciales.</li><li>Calca «Retentar» pa solicitar de nueves el documentu del sitiu web.</li></ul>">
 
-<!ENTITY netOffline.title "Mou desconeutáu">
+<!ENTITY netOffline.title "Mou ensin conexón">
 <!ENTITY netOffline.longDesc2 "<p>El restolador ta operando nel mou desconeutáu y nun pue coneutase col elementu solicitáu.</p><ul><li>¿L'ordenador ta coneutáu a una rede activa?</li><li>Primi «Retentar» pa cambiar al mou coneutáu y recargar la páxina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fallu de la codificación del conteníu">
