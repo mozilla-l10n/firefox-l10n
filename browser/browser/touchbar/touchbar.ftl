@@ -6,7 +6,7 @@
 # MacBook Touch Bar.
 back = Atrás
 forward = Alantre
-reload = Anovar
+reload = Volver cargar
 home = Aniciu
 fullscreen = Pantalla completa
 touchbar-fullscreen-exit = Colar de la pantalla completa
