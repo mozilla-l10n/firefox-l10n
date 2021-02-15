@@ -7,6 +7,7 @@
 <!ENTITY pref.debugging.title "Virheenjäljitys">
 
 <!-- Render Debugging -->
+<!ENTITY debugRendering.label             "Hahmonnus">
 <!ENTITY debugXULBox.label                "Jäljitä virheitä XUL-laatikoista">
 <!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "Poista XUL-välimuisti käytöstä">
