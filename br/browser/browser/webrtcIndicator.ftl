@@ -29,3 +29,12 @@ webrtc-camera-muted =
     .title = Enaouiñ ar c'hamera
 webrtc-minimize =
     .title = Bihanaat ar merker
+# This string will display as a tooltip on supported systems where we show
+# device sharing state in the OS notification area. We do not use these strings
+# on macOS, as global menu bar items do not have native tooltips.
+webrtc-camera-system-menu =
+    .label = Emaoc'h o rannañ ho kamera. Klikit evit reoliñ ar rannañ.
+webrtc-microphone-system-menu =
+    .label = Emaoc'h o rannañ ho mikrofon. Klikit evit reoliñ ar rannañ.
+webrtc-screen-system-menu =
+    .label = Emaoc'h o rannañ ur prenestr pe ur skramm. Klikit evit reoliñ ar rannañ.
