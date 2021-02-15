@@ -17,11 +17,14 @@
 <!ENTITY allowWindowMoveResize.label     "Siirtää ikkunoita ja muuttaa niiden kokoa">
 <!ENTITY allowWindowFlip.label           "Nostaa ja laskea ikkunoita">
 <!ENTITY allowWindowStatusChange.label   "Muuttaa tilarivin tekstiä">
-<!ENTITY allowWindowImageSrcChange.label "Vaihtaa kuvia">
 <!ENTITY allowContextmenuDisable.label   "Poistaa ja muuttaa ponnahdusvalikkoja">
 <!ENTITY allowHideStatusBar.label        "Piilottaa tilarivin">
 
-<!ENTITY enablePlugins.label              "Salli liitännäisten käyttö:">
+<!ENTITY debugging.label                  "JavaScript-virheenjäljitys">
+<!ENTITY debugEnableDump.label            "Ota käyttöön JavaScript dump() tuloste">
+<!ENTITY debugStrictJavascript.label      "Näytä tarkat JavaScript-varoitukset">
+
+<!ENTITY enablePlugins.label             "Salli liitännäisten käyttö:">
 <!ENTITY enablePluginForSuite.label      "Ohjelmistopaketissa">
 <!ENTITY enablePluginForSuite.accesskey  "h">
 
