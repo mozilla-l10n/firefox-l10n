@@ -297,8 +297,11 @@ identity-https-only-dropdown-off =
     .label = Izključeno
 identity-https-only-dropdown-off-temporarily =
     .label = Začasno izključeno
+identity-https-only-info-turn-on2 = Vključite način samo HTTPS za to stran, če želite, da { -brand-short-name } nadgradi povezavo, ko je to mogoče.
+identity-https-only-info-no-upgrade = Povezave ni mogoče nadgraditi s HTTP.
 identity-permissions =
     .value = Dovoljenja
+identity-permissions-storage-access-header = Spletni piškotki
 identity-permissions-reload-hint = Za uveljavitev sprememb boste morda morali ponovno naložiti stran.
 identity-permissions-empty = Tej strani niste dodelili posebnih dovoljenj.
 identity-clear-site-data =
@@ -346,6 +349,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Predvajanje
 browser-tab-audio-muted = Nemo
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = PREDVAJANJE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = NEMO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = SAMODEJNO PREDVAJANJE ZAVRNJENO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = SLIKA V SLIKI
 
 ## Bookmarks toolbar items
 

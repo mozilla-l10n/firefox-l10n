@@ -289,9 +289,21 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Uvoz dokončan
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Dodane nove prijave:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Posodobljene obstoječe prijave:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Najdene podvojene prijave:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvožene)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Napake:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(niso uvožene)</span>
     }
 about-logins-import-dialog-done = Končano
 about-logins-import-dialog-error-title = Napaka pri uvozu

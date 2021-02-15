@@ -96,6 +96,8 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Upravljanje zgodovine
 appmenu-reopen-all-tabs = Ponovno odpri vse zavihke
 appmenu-reopen-all-windows = Ponovno odpri vsa okna
 

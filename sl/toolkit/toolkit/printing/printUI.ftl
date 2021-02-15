@@ -41,6 +41,11 @@ printui-scale-pcent = Merilo
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Obojestransko tiskanje
 printui-duplex-checkbox = Natisni obojestransko
+printui-two-sided-printing-off = Izklopljeno
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Obrni ob stranskem robu
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Obrni ob zgornjem robu
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Natisni glave in noge

@@ -176,6 +176,7 @@ language-name-st = južna sotščina
 language-name-su = sundanščina
 language-name-sv = švedščina
 language-name-sw = svahili
+language-name-szl = šlezijščina
 language-name-ta = tamilščina
 language-name-te = telugijščina
 language-name-tg = tadžiščina

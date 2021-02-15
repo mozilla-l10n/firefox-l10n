@@ -504,6 +504,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Glavne strani
 home-prefs-topsites-description = Strani, ki jih največkrat obiščete
+home-prefs-topsites-by-option-sponsored =
+    .label = Glavne strani oglaševalcev
 home-prefs-shortcuts-header =
     .label = Bližnjice
 home-prefs-shortcuts-description = Strani, ki jih shranite ali obiščete
@@ -516,6 +518,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Priporoča { $provider }
 home-prefs-recommended-by-description-update = Izjemna vsebina z vsega spleta, ki jo izbira { $provider }
+home-prefs-recommended-by-description-new = Izjemna vsebina, ki jo pripravlja { $provider }, del družine { -brand-product-name }
 
 ##
 
@@ -543,6 +546,7 @@ home-prefs-recent-activity-description = Izbor nedavnih spletnih mest in vsebin
 home-prefs-snippets-header =
     .label = Izrezki
 home-prefs-snippets-description = Novice organizacije { -vendor-short-name } in { -brand-product-name }a
+home-prefs-snippets-description-new = Nasveti in novice organizacije { -vendor-short-name } in { -brand-product-name }a
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -898,6 +902,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Spletne sledilce
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Spletne sledilce in sledilce družbenih omrežij
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Spletne sledilne piškotke – vključuje piškotke družbenih omrežij
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Spletne sledilce in sledilce družbenih omrežij ter izoliraj preostale piškotke
 sitedata-option-block-unvisited =

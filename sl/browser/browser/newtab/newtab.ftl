@@ -8,6 +8,9 @@
 newtab-page-title = Nov zavihek
 newtab-settings-button =
     .title = Prilagodite stran novega zavihka
+newtab-personalize-button-label = Prilagodi
+    .title = Prilagodite nov zavihek
+    .aria-label = Prilagodite nov zacihek
 
 ## Search box component.
 
@@ -19,6 +22,10 @@ newtab-search-box-search-the-web-text = Iskanje po spletu
 newtab-search-box-search-the-web-input =
     .placeholder = Iskanje po spletu
     .title = Iskanje po spletu
+    .aria-label = Iskanje po spletu
+newtab-search-box-text = Iskanje po spletu
+newtab-search-box-input =
+    .placeholder = Iskanje po spletu
     .aria-label = Iskanje po spletu
 
 ## Top Sites - General form dialog.
@@ -220,9 +227,12 @@ newtab-custom-row-selector =
         [few] { $num } vrstice
        *[other] { $num } vrstic
     }
+newtab-custom-sponsored-sites = Bližnjice oglaševalcev
 newtab-custom-pocket-title = Priporoča { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Izjemna vsebina, ki jo pripravlja { -pocket-brand-name }, del družine { -brand-product-name }
 newtab-custom-pocket-sponsored = Zgodbe oglaševalcev
 newtab-custom-recent-title = Nedavna dejavnost
+newtab-custom-recent-subtitle = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-close-button = Zapri
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
@@ -230,3 +240,4 @@ newtab-custom-close-button = Zapri
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Izrezki
 newtab-custom-snippets-subtitle = Nasveti in novice organizacije { -vendor-short-name } in { -brand-product-name }a
+newtab-custom-settings = Več nastavitev

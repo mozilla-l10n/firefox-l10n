@@ -214,13 +214,20 @@ cfr-doorhanger-cryptominers-description = Vaša zasebnost je pomembna. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilca!
         [two] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilca!
         [few] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilce!
        *[other] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilcev!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] Od { DATETIME($date, month: "long", year: "numeric") } je { -brand-short-name } zavrnil več kot <b>{ $blockedCount }</b> sledilca!
+        [two] Od { DATETIME($date, month: "long", year: "numeric") } je { -brand-short-name } zavrnil več kot <b>{ $blockedCount }</b> sledilca!
+        [few] Od { DATETIME($date, month: "long", year: "numeric") } je { -brand-short-name } zavrnil več kot <b>{ $blockedCount }</b> sledilce!
+       *[other] Od { DATETIME($date, month: "long", year: "numeric") } je { -brand-short-name } zavrnil več kot <b>{ $blockedCount }</b> sledilcev!
     }
 cfr-doorhanger-milestone-ok-button = Prikaži vse
     .accesskey = P
@@ -299,3 +306,6 @@ cfr-whatsnew-supercookies-body = Spletna mesta lahko v vaš brskalnik skrivaj na
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Boljše upravljanje zaznamkov
+
+## What's new: Cross-site cookie tracking
+
