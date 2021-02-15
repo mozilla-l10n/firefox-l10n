@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Skiednis beheare
+appmenu-reopen-all-tabs = Alle ljepblêden opnij iepenje
+appmenu-reopen-all-windows = Alle finsters opnij iepenje
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Kontrolearje op fernijingen…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Arkbalke oanpasse…
+appmenu-developer-tools-subheader = Browserhelpmidelen
