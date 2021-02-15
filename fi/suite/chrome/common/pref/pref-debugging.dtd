@@ -20,3 +20,5 @@
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowShowFrameCounts.label        "Näytä kehyslaskuri">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "k">
+<!ENTITY debugReflowDumpFrameCounts.label        "Vedosta kehyslaskuri">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "d">
