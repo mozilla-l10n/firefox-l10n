@@ -40,6 +40,10 @@ printui-scale-pcent = Skalo
 printui-two-sided-printing = Ambaŭflanka presado
 printui-duplex-checkbox = Presi ambaŭflanke
 printui-two-sided-printing-off = Malŝaltita
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Kiel libro (flanka rando)
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Kiel kalendaro (supra rando)
 # Section title for miscellaneous print options
 printui-options = Ebloj
 printui-headers-footers-checkbox = Presi paĝokapojn kaj paĝopiedojn
@@ -75,6 +79,7 @@ printui-pages-per-sheet = Paĝoj en ĉiu folio
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Preso…
+printui-print-progress-indicator-saving = Konservo…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
