@@ -31,3 +31,7 @@
 <!ENTITY enablePrefetch.accesskey        "n">
 
 <!ENTITY debugCache.label                "Virheenjäljitys">
+<!ENTITY debugEnableMemCache.label       "Ota välimuisti käyttöön">
+<!ENTITY debugEnableMemCache.accesskey   "m">
+<!ENTITY debugEnableDiskCache.label      "Ota levyvälimuisti käyttöön">
+<!ENTITY debugEnableDiskCache.accesskey  "l">
