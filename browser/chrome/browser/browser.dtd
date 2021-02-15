@@ -82,6 +82,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.defaultPage.tooltip "Páxina d'aniciu de &brandShortName;">
 
 
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
@@ -183,6 +184,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.msg1                "L'historial recién ta llimpiu">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracies!">
 
+<!ENTITY updateUnsupported.panelUI.label "Yá nun pues anovar más nesti sistema">
 
 
 <!ENTITY pageAction.shareMore.label "Más…">
