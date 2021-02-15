@@ -73,12 +73,40 @@ profiler-popup-settings =
     .value = Agordoj
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Modifi agordojn…
+profiler-popup-disabled = La rulanalizilo estas nuntempe malaktiva, tre verŝajne pro tio ke fenestro de privata retumo estas malfermita.
+profiler-popup-recording-screen = Registrado…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Personecigita
+profiler-popup-start-recording-button =
+    .label = Komenci registri
+profiler-popup-discard-button =
+    .label = Forlasi
+profiler-popup-capture-button =
+    .label = Kapti
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Stir+Maj+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Stir+Maj+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Administri historion
+appmenu-reopen-all-tabs = Remalfermi ĉiujn langetojn
+appmenu-reopen-all-windows = Remalfermi ĉiujn fenestrojn
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Helpo de { -brand-shorter-name }
 appmenu-about =
     .label = Pri { -brand-shorter-name }
     .accesskey = P
@@ -94,6 +122,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Alirklavoj
     .accesskey = A
+appmenu-get-help =
+    .label = Helpo
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = Informoj por solvado de problemoj
     .accesskey = I
@@ -125,6 +156,11 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Kontroli ĉu estas ĝisdatigoj…
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personecigi ilaron…
+appmenu-developer-tools-subheader = Iloj de retumilo
