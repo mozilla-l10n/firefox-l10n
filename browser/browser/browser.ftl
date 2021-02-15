@@ -348,6 +348,16 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Ludanta
+browser-tab-audio-muted = Silentigita
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = LUDANTA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = SILENTIGITA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AŬTOMATA LUDADO BLOKITA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = BILDO-EN-BILDO
 
 ## Bookmarks toolbar items
 
@@ -509,12 +519,22 @@ pointerlock-warning-no-domain = Tiu ĉi dokumento regas vian musmontrilon. Premu
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Pli da informo
+    .accesskey = P
+crashed-subframe-submit =
+    .label = Sendi raporton
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
     .label = Montri ĉiujn legosignojn
 bookmarks-recent-bookmarks =
+    .value = Ĵusaj legosignoj
+bookmarks-manage-bookmarks =
+    .label = Administri legosignojn
+bookmarks-recent-bookmarks-panel =
     .value = Ĵusaj legosignoj
 bookmarks-toolbar-chevron =
     .tooltiptext = Montri pliajn legosignojn
