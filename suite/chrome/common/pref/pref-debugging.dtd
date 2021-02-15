@@ -16,10 +16,25 @@
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Tapahtumat">
 <!ENTITY debugPaintFlashing.label "Piirtämisen vilkuttaminen (Caps-Lock vaihtaa tilaa)">
-<!ENTITY debugPaintFlashing.accesskey "V">
+<!ENTITY debugPaintFlashing.accesskey "v">
+<!ENTITY debugPaintFlashingChrome.label "Piirtämisen vilkuttaminen Chrome">
+<!ENTITY debugPaintFlashingChrome.accesskey "C">
+<!ENTITY debugPaintDumping.label "Piirtämisen vedostaminen">
+<!ENTITY debugPaintDumping.accesskey "m">
+<!ENTITY debugInvalidateDumping.label "Kumoa vedostaminen">
+<!ENTITY debugInvalidateDumping.accesskey "u">
+<!ENTITY debugEventDumping.label "Tapahtumien vedostaminen">
+<!ENTITY debugEventDumping.accesskey "T">
+<!ENTITY debugMotionEventDumping.label "Liiketapahtumien vedostaminen">
+<!ENTITY debugMotionEventDumping.accesskey "i">
+<!ENTITY debugCrossingEventDumping.label "Risteävien tapahtumien vedostaminen">
+<!ENTITY debugCrossingEventDumping.accesskey "R">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowEvents.label                 "Asettelutapahtumat">
 <!ENTITY debugReflowShowFrameCounts.label        "Näytä kehyslaskuri">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "k">
 <!ENTITY debugReflowDumpFrameCounts.label        "Vedosta kehyslaskuri">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "d">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Vedosta kuva kuvalta -laskuri">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "o">
