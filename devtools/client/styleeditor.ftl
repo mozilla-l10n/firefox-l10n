@@ -16,11 +16,11 @@ styleeditor-save-button = Save
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Style Editor options
-styleeditor-media-rules = @media rules
+styleeditor-media-rules = Media Queries
 styleeditor-editor-textbox =
     .data-placeholder = Type CSS here.
 styleeditor-no-stylesheet = This page has no style sheet.
-styleeditor-no-stylesheet-tip = Perhaps you'd like to <a data-l10n-name="append-new-stylesheet">append a new style sheet</a>?
+styleeditor-no-stylesheet-tip = Perhaps you’d like to <a data-l10n-name="append-new-stylesheet">append a new style sheet</a>?
 styleeditor-open-link-new-tab =
     .label = Open Link in New Tab
 styleeditor-copy-url =
