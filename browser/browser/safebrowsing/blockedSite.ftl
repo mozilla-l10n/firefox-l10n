@@ -29,5 +29,5 @@ safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as containing a potentially harmful application</a>.
 safeb-blocked-harmful-page-learn-more = Learn more about { -brand-short-name }’s Phishing and Malware Protection at <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
-    .label = This isn't a deceptive site…
+    .label = This isn’t a deceptive site…
     .accesskey = d
