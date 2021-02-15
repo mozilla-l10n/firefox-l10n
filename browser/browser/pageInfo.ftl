@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
 page-info-window =
-    .style = width: 600px; min-height: 500px;
+    .style = width: 600px; min-height: 550px;
 copy =
     .key = C
 menu-copy =
@@ -226,6 +226,6 @@ media-block-image =
 # Variables:
 #   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
-    .title = Page Info – { $website }
+    .title = Page Info — { $website }
 page-info-frame =
-    .title = Frame Info – { $website }
+    .title = Frame Info — { $website }

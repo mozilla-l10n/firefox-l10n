@@ -178,7 +178,7 @@ containers-disable-alert-title = Close All Container Tabs?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] If you disable Container Tabs now, { $tabCount } container tab will be closed. Are you sure you want to disable Container Tabs?
-       *[other] If you disable Containers Tabs now, { $tabCount } container tabs will be closed. Are you sure you want to disable Containers Tabs?
+       *[other] If you disable Container Tabs now, { $tabCount } container tabs will be closed. Are you sure you want to disable Container Tabs?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -602,7 +602,7 @@ search-find-more-link = Find more search engines
 search-keyword-warning-title = Duplicate Keyword
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = You have chosen a keyword that is currently in use by "{ $name }". Please select another.
+search-keyword-warning-engine = You have chosen a keyword that is currently in use by “{ $name }”. Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
 
 ## Containers Section
@@ -675,7 +675,7 @@ prefs-sync-offer-setup-label = Synchronise your bookmarks, history, tabs, passwo
 prefs-sync-now =
     .labelnotsyncing = Synchronise Now
     .accesskeynotsyncing = N
-    .labelsyncing = Synchronising...
+    .labelsyncing = Synchronising…
 
 ## The list of things currently syncing.
 
@@ -703,7 +703,7 @@ sync-choose-what-to-sync-dialog =
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Save Changes
     .buttonaccesskeyaccept = S
-    .buttonlabelextra2 = Disconnect...
+    .buttonlabelextra2 = Disconnect…
     .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Bookmarks
@@ -717,7 +717,7 @@ sync-engine-tabs =
     .accesskey = T
 sync-engine-logins-passwords =
     .label = Logins and passwords
-    .tooltiptext = Usernames and passwords you've saved
+    .tooltiptext = Usernames and passwords you’ve saved
     .accesskey = L
 sync-engine-addresses =
     .label = Addresses
@@ -1049,7 +1049,7 @@ permissions-notification-pause =
     .accesskey = n
 permissions-autoplay = Autoplay
 permissions-autoplay-settings =
-    .label = Settings...
+    .label = Settings…
     .accesskey = t
 permissions-block-popups =
     .label = Block pop-up windows
