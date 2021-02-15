@@ -83,7 +83,7 @@ permissions-exceptions-cookie-desc = You can specify which web sites are always 
 permissions-exceptions-popup-window =
     .title = Allowed Web Sites - Pop-ups
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = You can specify which web sites are allowed to open popup windows. Type the exact address of the site you want to allow and then click Allow.
+permissions-exceptions-popup-desc = You can specify which web sites are allowed to open pop-up windows. Type the exact address of the site you want to allow and then click Allow.
 
 ## Exceptions - Saved Logins
 
