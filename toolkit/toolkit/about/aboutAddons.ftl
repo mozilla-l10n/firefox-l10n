@@ -86,7 +86,7 @@ detail-update-automatic =
     .tooltiptext = Automatically install updates
 detail-update-manual =
     .label = Off
-    .tooltiptext = Don't automatically install updates
+    .tooltiptext = Don’t automatically install updates
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Run in Private Windows
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
