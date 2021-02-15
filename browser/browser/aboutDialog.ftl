@@ -4,7 +4,7 @@
 
 aboutDialog-title =
     .title = About { -brand-full-name }
-releaseNotes-link = What's new
+releaseNotes-link = What’s new
 update-checkForUpdatesButton =
     .label = Check for updates
     .accesskey = C
@@ -23,7 +23,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by 
 update-manual = Updates available at <label data-l10n-name="manual-link"/>
 update-unsupported = You can not perform further updates on this system. <label data-l10n-name="unsupported-link">Learn more</label>
 update-restarting = Restarting…
-channel-description = You are currently on the <label data-l10n-name="current-channel"></label> update channel.{ " " }
+channel-description = You are currently on the <label data-l10n-name="current-channel"></label> update channel.
 warningDesc-version = { -brand-short-name } is experimental and may be unstable.
 aboutdialog-help-user = { -brand-product-name } Help
 aboutdialog-submit-feedback = Submit Feedback
