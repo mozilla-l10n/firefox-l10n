@@ -11,6 +11,8 @@
 <!ENTITY prefWindow.size "width: 116ch; height: 44em;">
 <!ENTITY prefWindowMac.size "width: 65em; height: 41em;">
 <!ENTITY prefWindowWin.size "width: 137ch; height: 43em;">
+<!ENTITY prefWindowMac2.size "width: 72em; height: 41em;">
+<!ENTITY prefWindowWin2.size "width: 137ch; height: 44em;">
 <!ENTITY categoryHeader "Categoría">
 <!ENTITY appear.label "Apariencia">
 <!ENTITY content.label "Contenido">
@@ -47,4 +49,5 @@
 <!ENTITY httpnetworking.label "Config. de HTTP">
 <!ENTITY smart.label "Instalación de software">
 <!ENTITY mousewheel.label "Rueda del ratón">
+<!ENTITY debugging.label "Depuración">
 <!ENTITY focusSearch.key "f">

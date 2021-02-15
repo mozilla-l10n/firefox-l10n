@@ -25,3 +25,8 @@
 <!ENTITY prefetchTitle.label "Precarga de enlaces">
 <!ENTITY enablePrefetch.label "Precargar las páginas web mientras está inactivo, para que los enlaces en las páginas web diseñadas para ello se carguen más rápido">
 <!ENTITY enablePrefetch.accesskey "P">
+<!ENTITY debugCache.label "Depuración">
+<!ENTITY debugEnableMemCache.label "Activar caché de memoria">
+<!ENTITY debugEnableMemCache.accesskey "E">
+<!ENTITY debugEnableDiskCache.label "Activar caché de disco">
+<!ENTITY debugEnableDiskCache.accesskey "D">

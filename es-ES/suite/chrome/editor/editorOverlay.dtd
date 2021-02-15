@@ -6,11 +6,12 @@
 <!ENTITY pasteNoFormatting.label "Pegar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Pegar como">
-<!ENTITY pasteAs.accesskey "a">
 <!ENTITY pasteAsQuotationCmd.label "Pegar como cita">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.label "Reajuste de línea">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY findBarCmd.label "Buscar…">
 <!ENTITY findReplaceCmd.label "Buscar y reemplazar…">
 <!ENTITY enableInlineSpellChecker.label "Revisar ortografía según escribe">
@@ -235,7 +236,7 @@
 <!ENTITY tableCellAfter.accesskey "u">
 <!ENTITY tableDeleteMenu.label "Eliminar">
 <!ENTITY tableDeleteMenu.accesskey "l">
-<!ENTITY tableJoinCells.label "U">
+<!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "U">
 <!ENTITY tableSplitCell.label "Dividir celda">
 <!ENTITY tableSplitCell.accesskey "C">
@@ -248,8 +249,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Cortar">
 <!ENTITY copyToolbarCmd.tooltip "Copiar">
 <!ENTITY pasteToolbarCmd.tooltip "Pegar">
-<!ENTITY printToolbarCmd.label "Imprimir">
-<!ENTITY printToolbarCmd.tooltip "Imprimir esta página">
 <!ENTITY findToolbarCmd.label "Buscar">
 <!ENTITY findToolbarCmd.tooltip "Buscar texto en la página">
 <!ENTITY spellToolbarCmd.label "Ortografía">
@@ -267,7 +266,6 @@
 <!ENTITY colorButtons.title "Colores">
 <!ENTITY TextColorButton.tooltip "Elija un color para el texto">
 <!ENTITY BackgroundColorButton.tooltip "Elija un color para el fondo">
-<!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
 <!ENTITY HighlightColorButton.label "Resaltador">
 <!ENTITY HighlightColorButton.tooltip "Elegir color para remarcar texto">
 <!ENTITY absoluteFontSize.label "Tamaño de letra">
