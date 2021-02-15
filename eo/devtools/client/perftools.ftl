@@ -76,9 +76,22 @@ perftools-thread-render-backend =
     .title = La fadeno WebRender RenderBackend
 perftools-thread-paint-worker =
     .title = Kiam farbado ekster la ĉefa fadeno estas aktiva, tiu estas la fadeno kiu farbas
+perftools-thread-style-thread =
+    .title = La komputo de stiloj estas dividita inter pluraj fadenoj
+pref-thread-stream-trans =
+    .title = Transmeto de reta fluo
+perftools-thread-socket-thread =
+    .title = La fadeno en kiu la retrilata kodo vokas ĉiujn blokantajn konektingaj vokoj
+perftools-thread-img-decoder =
+    .title = Fadenoj pri malkodigo de bildoj
+perftools-thread-dns-resolver =
+    .title = Serĉoj de DNS okazas en tiu ĉi fadeno
+perftools-thread-js-helper =
+    .title = Fonaj taskoj de la motoro JS kiel ekzemple kompilo ekster la ĉefa fadeno
 
 ##
 
+perftools-record-all-registered-threads = Ignori la suprajn eblojn kaj registri ĉiujn registritajn fadenojn
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
