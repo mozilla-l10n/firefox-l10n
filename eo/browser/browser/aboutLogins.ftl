@@ -84,6 +84,7 @@ login-item-new-login-title = Krei novan legitimilon
 login-item-edit-button = Redakti
 about-logins-login-item-remove-button = Forigi
 login-item-origin-label = Adreso de retejo
+login-item-tooltip-message = Certiĝu ke tio ĉi kongruas ekzakte kun la adreso de la retejo kie vi komencas seancon.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nomo de uzanto
@@ -267,6 +268,13 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dosiero CSV
        *[other] Dosiero CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumento TSV
+       *[other] Dosiero TSV
+    }
 
 ##
 ## Variables:
@@ -293,8 +301,15 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Farita
 about-logins-import-dialog-error-title = Enporta eraro
+about-logins-import-dialog-error-conflicting-values-title = Pluraj malkonsentaj valoroj por legitimilo
+about-logins-import-dialog-error-conflicting-values-description = Ekzemple: pluraj nomoj de uzanto, pasvortoj, retadresojn, ktp. por legitimilo.
+about-logins-import-dialog-error-file-format-title = Problemo kun la formo de dosiero
+about-logins-import-dialog-error-file-format-description = Malĝustaj aŭ mankantaj kolumnaj titoloj. Certiĝu ke la dosiero inkluzivas kolumnojn por nomo de uzanto, pasvorto kaj retadreso.
 about-logins-import-dialog-error-file-permission-title = Ne eblis legi dosieron
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } ne rajtas legi la dosieron. Provu ŝanĝi la permesojn de la dosiero.
 about-logins-import-dialog-error-unable-to-read-title = Ne eblis analizi dosieron
+about-logins-import-dialog-error-unable-to-read-description = Certiĝu ke vi elektis dosieron ĉu CSV ĉu TSV.
+about-logins-import-dialog-error-no-logins-imported = Neniu legitimilo estis enportita
 about-logins-import-dialog-error-learn-more = Pli da informo
 about-logins-import-dialog-error-try-again = Klopodi denove…
 about-logins-import-dialog-error-cancel = Nuligi
