@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = An error occurred during a connection to { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Error code: { $error }
-
-psmerr-ssl-disabled = Can't connect securely because the SSL protocol has been disabled.
-psmerr-ssl2-disabled = Can't connect securely because the site uses an older, insecure version of the SSL protocol.
-
+psmerr-ssl-disabled = Can’t connect securely because the SSL protocol has been disabled.
+psmerr-ssl2-disabled = Can’t connect securely because the site uses an older, insecure version of the SSL protocol.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
-
 ssl-error-export-only-server = Unable to communicate securely. Peer does not support high-grade encryption.
 ssl-error-us-only-server = Unable to communicate securely. Peer requires high-grade encryption which is not supported.
 ssl-error-no-cypher-overlap = Cannot communicate securely with peer: no common encryption algorithm(s).
@@ -171,11 +168,11 @@ sec-error-invalid-algorithm = security library: invalid algorithm.
 sec-error-invalid-ava = security library: invalid AVA.
 sec-error-invalid-time = Improperly formatted time string.
 sec-error-bad-der = security library: improperly formatted DER-encoded message.
-sec-error-bad-signature = Peer's certificate has an invalid signature.
+sec-error-bad-signature = Peer’s certificate has an invalid signature.
 sec-error-expired-certificate = Peer's Certificate has expired.
 sec-error-revoked-certificate = Peer's Certificate has been revoked.
 sec-error-unknown-issuer = Peer's Certificate issuer is not recognised.
-sec-error-bad-key = Peer's public key is invalid.
+sec-error-bad-key = Peer’s public key is invalid.
 sec-error-bad-password = The security password entered is incorrect.
 sec-error-retry-password = New password entered incorrectly. Please try again.
 sec-error-no-nodelock = security library: no nodelock.
@@ -341,9 +338,9 @@ sec-error-cert-signature-algorithm-disabled = The certificate was signed using a
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server uses a certificate with a basic constraints extension identifying it as a certificate authority. For a properly-issued certificate, this should not be the case.
 mozilla-pkix-error-inadequate-key-size = The server presented a certificate with a key size that is too small to establish a secure connection.
-mozilla-pkix-error-v1-cert-used-as-ca = An X.509 version 1 certificate that is not a trust anchor was used to issue the server's certificate. X.509 version 1 certificates are deprecated and should not be used to sign other certificates.
+mozilla-pkix-error-v1-cert-used-as-ca = An X.509 version 1 certificate that is not a trust anchor was used to issue the server’s certificate. X.509 version 1 certificates are deprecated and should not be used to sign other certificates.
 mozilla-pkix-error-not-yet-valid-certificate = The server presented a certificate that is not yet valid.
-mozilla-pkix-error-not-yet-valid-issuer-certificate = A certificate that is not yet valid was used to issue the server's certificate.
+mozilla-pkix-error-not-yet-valid-issuer-certificate = A certificate that is not yet valid was used to issue the server’s certificate.
 mozilla-pkix-error-signature-algorithm-mismatch = The signature algorithm in the signature field of the certificate does not match the algorithm in its signatureAlgorithm field.
 mozilla-pkix-error-ocsp-response-for-cert-missing = The OCSP response does not include a status for the certificate being verified.
 mozilla-pkix-error-validity-too-long = The server presented a certificate that is valid for too long.
