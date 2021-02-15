@@ -65,15 +65,35 @@ cfr-doorhanger-pintab-description = Oten un acès facil ai sîts che tu dopris d
 
 cfr-doorhanger-pintab-step1 = Fâs <b>clic di diestre</b> su la schede che tu desideris fissâ.
 cfr-doorhanger-pintab-step2 = Selezione <b>Fisse schede</b> dal menù.
+cfr-doorhanger-pintab-step3 = Se il sît al à un inzornament tu viodarâs un pont blu su la schede fissade.
+cfr-doorhanger-pintab-animation-pause = Met in pause
+cfr-doorhanger-pintab-animation-resume = Ripie
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Sincronizie i tiei segnelibris dapardut.
+cfr-doorhanger-bookmark-fxa-body = Biele pensade! Cumò no sta restâ cence chest segnelibri sui tiei dispositîfs mobii. Scomence cuntun { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronize i segnelibris cumò…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Boton par sierâ
+    .title = Siere
 
 ## Protections panel
 
+cfr-protections-panel-header = Navighe cence vê nissun che ti stâ daûr
+cfr-protections-panel-body = Ten i tiei dâts par te. { -brand-short-name } ti protêç di tancj dai plui comuns “trackers” (spiis) che a stan daûr a ce che tu fasis in rêt.
+cfr-protections-panel-link-text = Plui informazions
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Gnove funzionalitât:
+cfr-whatsnew-button =
+    .label = Novitâts
+    .tooltiptext = Novitâts
+cfr-whatsnew-panel-header = Novitâts
+cfr-whatsnew-release-notes-link-text = Lei lis notis di publicazion
 
 ## Search Bar
 
