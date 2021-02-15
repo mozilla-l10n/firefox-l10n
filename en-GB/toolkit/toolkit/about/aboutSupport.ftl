@@ -4,9 +4,9 @@
 
 page-title = Troubleshooting Information
 page-subtitle =
-    This page contains technical information that might be useful when you're
+    This page contains technical information that might be useful when you’re
     trying to solve a problem. If you are looking for answers to common questions
-    about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
+    about { -brand-short-name }, check out our <a data-l10n-name="support-link">support website</a>.
 crashes-title = Crash Reports
 crashes-id = Report ID
 crashes-send-date = Submitted
