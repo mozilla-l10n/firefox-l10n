@@ -5,6 +5,8 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!ENTITY appmenu.tooltip                     "Abrir el menú">
+<!ENTITY navbarOverflow.label                "Más ferramientes…">
 
 <!-- Tab context menu -->
 
@@ -13,13 +15,22 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+<!ENTITY  pinTab.label                       "Fixar la llingüeta">
+<!ENTITY  unpinTab.label                     "Soltar la llingüeta">
 
+<!ENTITY  listAllTabs.label      "Llistar toles llingüetes">
 
+<!ENTITY tabCmd.label "Llingüeta nueva">
+<!ENTITY openFileCmd.label "Abrir un ficheru…">
+<!ENTITY printCmd.label "Imprentar…">
 
+<!ENTITY taskManagerCmd.label "Xestor de xeres">
 
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navegación">
+<!ENTITY personalbarCmd.label "Barra de los marcadores">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -110,6 +121,7 @@ this container is a toolbar. This avoids double-speaking. -->
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 
+<!ENTITY findOnCmd.label     "Atopar nesta páxina…">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -119,9 +131,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 
+<!ENTITY panicButton.thankyou.msg1                "L'historial recién ta llimpiu">
 
 
 
+<!ENTITY pageAction.shareMore.label "Más…">
 
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
