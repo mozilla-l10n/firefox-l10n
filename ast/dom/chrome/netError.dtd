@@ -76,7 +76,7 @@
       </ul>">
 
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
-<!ENTITY securityOverride.warningContent "<p>Nun deberíes amestar una esceición si tas usando una conexón a internet na que nun t'enfotes dafechu o si nun tas avezáu a ver una alvertencia pa esti sirvidor.</p>
+<!ENTITY securityOverride.warningContent "<p>Nun habríes amestar una esceición si tas usando una conexón a internet na que nun t'enfotes dafechu o si nun tas avezáu a ver una alvertencia d'esti sirvidor.</p>
 <p>Si entá desees amestar una, pues facelo nos axustes de cifráu avanzáu.</p>">
 
 <!ENTITY cspBlocked.title "Bloquióse pola política de seguranza de conteníu">
@@ -86,10 +86,10 @@
 <!ENTITY xfoBlocked.longDesc "<p>El restolador evitó qu'esta páxina cargare d'esti mou porque esta tien una política X-Frame-Options que nun lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas tentando ver nun pue amosase porque deteutóse un fallu na tresmisión de los datos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti fallu, por favor.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas tentando ver nun pue amosase porque detectóse un fallu na tresmisión de los datos.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti fallu, por favor.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos propietarios del sitiu web pa informalos d'esti problema.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "La conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
