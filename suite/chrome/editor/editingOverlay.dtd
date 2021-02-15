@@ -32,12 +32,22 @@
 <!-- Insert menu items -->
 <!ENTITY insertFormMenu.label "Lomake">
 <!ENTITY insertFormMenu.accesskey "L">
+<!ENTITY insertFormCmd.label "Määritä lomake...">
+<!ENTITY insertFormCmd.accesskey "M">
 <!ENTITY insertInputTagCmd.label "Lomakekenttä…">
 <!ENTITY insertInputTagCmd.accesskey "e">
 <!ENTITY insertInputImageCmd.label "Lomakekuva…">
 <!ENTITY insertInputImageCmd.accesskey "k">
 <!ENTITY insertTextAreaCmd.label "Tekstikenttä…">
 <!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Valintaluettelo…">
+<!ENTITY insertSelectCmd.accesskey "V">
+<!ENTITY insertButtonCmd.label "Määritä painike…">
+<!ENTITY insertButtonCmd.accesskey "p">
+<!ENTITY insertLabelCmd.label "Määritä nimike">
+<!ENTITY insertLabelCmd.accesskey "n">
+<!ENTITY insertFieldSetCmd.label "Määritä kenttäryhmä…">
+<!ENTITY insertFieldSetCmd.accesskey "r">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Uusi">
