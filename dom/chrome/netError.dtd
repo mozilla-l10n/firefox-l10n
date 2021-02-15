@@ -89,14 +89,14 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas tentando ver nun pue amosase porque detectóse un fallu na tresmisión de los datos.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti fallu, por favor.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contauta colos propietarios del sitiu web pa informalos d'esti problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "La conexón nun ye segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría revelar cenciellamente información que cuidabes que taba segura. L'alministrador del sitiu web va precisar iguar primero'l sirvidor enantes de que pueas visitalu.</p><p>Códigu del fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa una teunoloxía de seguranza que nun ta anovada y ye vulnerable a ataques. Un atacante podría revelar cenciellamente información que cuidabes que taba segura. L'alministrador del sitiu web va tener d'iguar primero'l sirvidor enantes de que puedas visitalu.</p><p>Códigu del fallu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Bloquióse la páxina">
 
 <!ENTITY networkProtocolError.title "Fallu del protocolu de rede">
-<!ENTITY networkProtocolError.longDesc "<p>La páxina que tas tentando de ver nun pue amosase porque deteutóse un fallu nel protocolu de rede.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>La páxina que tas tentando de ver nun pue amosase porque detectóse un fallu nel protocolu de rede.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
