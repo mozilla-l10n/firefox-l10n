@@ -35,29 +35,29 @@
 <!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta disponible na caché del restolador.</p><ul><li>Como midida de seguranza, el restolador nun va volver solicitar automáticamente documentos confidenciales.</li><li>Calca «Retentar» pa solicitar de nueves el documentu del sitiu web.</li></ul>">
 
 <!ENTITY netOffline.title "Mou ensin conexón">
-<!ENTITY netOffline.longDesc2 "<p>El restolador ta operando nel mou desconeutáu y nun pue coneutase col elementu solicitáu.</p><ul><li>¿L'ordenador ta coneutáu a una rede activa?</li><li>Primi «Retentar» pa cambiar al mou coneutáu y recargar la páxina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>El restolador ta trabayando nel mou ensin conexón y nun pue coneutase al elementu solicitáu.</p><ul><li>¿L'ordenador ta conectáu a una rede activa?</li><li>Primi «Retentar» pa cambiar pal mou con conexón y volver cargar la páxina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fallu de la codificación del conteníu">
-<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas tentando de ver nun pue amosase porque usa una forma de compresión que nun ye válida o nun se sofita.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas tentando de ver nun pue amosase porque usa una forma de compresión que nun ye válida o nun se sofita.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
 
-<!ENTITY unsafeContentType.title "La triba del ficheru ye insegura">
+<!ENTITY unsafeContentType.title "El tipu de ficheru ye inseguru">
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li>
+  <li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li>
 </ul>">
 
-<!ENTITY netReset.title "Interrumpióse la conexón">
-<!ENTITY netReset.longDesc "<p>Interrumpióse l'enllaz a la rede mentanto se negociaba una conexón. Volvi tentalo, por favor.</p>">
+<!ENTITY netReset.title "Conexón torgada">
+<!ENTITY netReset.longDesc "<p>Torgóse l'enllaz a la rede mentanto se negociaba una conexón. Volvi tentalo, por favor.</p>">
 
 <!ENTITY netTimeout.title "Escosó'l tiempu d'espera de la rede">
-<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una solicitú de conexón y el restolador dexó d'esperar por una rempuesta.</p><ul><li>¿Pue ser que'l sirvidor tea sufriendo una demanda alta o una cayida temporal? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador ta protexíu por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li><li>¿Entá tienes problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una solicitú de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Pue ser que'l sirvidor tea sufriendo una demanda alta o una cayida temporal? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador ta protexíu por un tornafuéu o proxy? Unos axustes incorreutos puen afeutar al restolar de la web.</li><li>¿Sigues teniendo problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Desconozse'l protocolu">
-<!ENTITY unknownProtocolFound.longDesc "<p>La direición especifica un protocolu (por exemplu, <q>wxyz://</q>) que'l restolador nun reconoz, polo que nun se pue coneutar afayadizamente col sitiu.</p><ul><li>¿Tas tentando d'acceder a servicios multimedia o que nun son de testu? Comprueba'l sitiu pa ver más requirimientos.</li><li>Dalgunos protocolos riquen software o plugins de terceros enantes de que'l restolador puea reconocelos.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<p>La direición especifica un protocolu (por exemplu, <q>wxyz://</q>) que'l restolador nun reconoz, polo que nun se pue coneutar afayadizamente al sitiu.</p><ul><li>¿Tas tentando d'acceder a servicios multimedia o que nun son de testu? Comprueba'l sitiu pa ver más requirimientos.</li><li>Dalgunos protocolos riquen software o plugins de terceros pa que'l restolador pueda reconocelos.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "El sirvidor proxy refugó la conexón">
-<!ENTITY proxyConnectFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy pero esti últimu refugó la conexón.</p><ul><li>¿La configuración del proxy del restolador ye correuta? Comprueba los axustes y volvi tentalo.</li><li>¿El serviciu del proxy permite les conexones dende esta rede?</li><li>¿Entá tienes problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy mas esti últimu refugó la conexón.</p><ul><li>¿La configuración del proxy del restolador ye correuta? Comprueba los axustes y volvi tentalo.</li><li>¿El serviciu del proxy permite les conexones dende esta rede?</li><li>¿Sigues teniendo problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Nun s'alcontró'l sirvidor proxy">
+<!ENTITY proxyResolveFailure.title "Nun s'atopó'l sirvidor proxy">
 <!ENTITY proxyResolveFailure.longDesc "<p>El restolador ta configuráu pa usar un sirvidor proxy pero esti últimu nun pudo alcontrase.</p><ul><li>¿La configuración del proxy del restolador ye correuta? Comprueba los axustes y volvi tentalo.</li><li>¿L'ordenador ta coneutáu a una rede activa?</li><li>¿Entá tienes problemes? Consulta al to alministrador de redes o fornidor d'internet pa más asistencia.</li></ul>">
 
 <!ENTITY redirectLoop.title "Bucle de redireición">
