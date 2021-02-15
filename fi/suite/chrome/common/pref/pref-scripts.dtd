@@ -22,7 +22,11 @@
 
 <!ENTITY debugging.label                  "JavaScript-virheenjäljitys">
 <!ENTITY debugEnableDump.label            "Ota käyttöön JavaScript dump() tuloste">
-<!ENTITY debugStrictJavascript.label      "Näytä tarkat JavaScript-varoitukset">
+<!ENTITY debugEnableDump.accesskey        "t">
+<!ENTITY debugStrictJavascript.label      "Näytä strict JavaScript -varoitukset">
+<!ENTITY debugStrictJavascript.accesskey  "v">
+<!ENTITY debugConsoleJavascript.label     "Näytä chrome JavaScript -virheet ja varoitukset">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "Salli liitännäisten käyttö:">
 <!ENTITY enablePluginForSuite.label      "Ohjelmistopaketissa">
