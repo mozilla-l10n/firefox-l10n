@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = Identigilo de komponanto
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = Mezuma bitrapido:
+about-webrtc-avg-framerate-label = Mezuma kadrorapido:
 
 ##
 
@@ -122,6 +124,8 @@ about-webrtc-fold-show-msg = montri detalojn
     .title = alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-fold-hide-msg = kaŝi detalojn
     .title = alklaku por faldi tiun ĉi sekcion
+about-webrtc-dropped-frames-label = Perditaj kadroj:
+about-webrtc-discarded-packets-label = Forlasitaj paketoj:
 about-webrtc-decoder-label = Malkodilo
 about-webrtc-encoder-label = Kodilo
 about-webrtc-show-tab-label = Montri langeton
@@ -166,6 +170,11 @@ about-webrtc-pacer-delay-ms = Prokrasto inter pakedoj (ms)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = Tienreena tempo (RTT) (ms)
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Statistikoj pri kadroj videaj - Identigilo de MediaStreamTrack: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -179,6 +188,30 @@ about-webrtc-aec-logging-off-state-msg = kaptitaj dosieroj de registrado trovebl
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] { $packets } paketo ricevita
+       *[other] { $packets } paketoj ricevitaj
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] { $packets } paketo perdita
+       *[other] { $packets } paketoj perditaj
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] { $packets } paketo sendita
+       *[other] { $packets } paketoj senditaj
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
