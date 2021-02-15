@@ -161,12 +161,21 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } al pues bl
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Cjate chest segnelibri sul to telefon
+cfr-doorhanger-sync-bookmarks-body = Puarte i tiei segnelibris, lis tôs passwords, la cronologjie e tant altri dapardut là che tu sês conetût al to account { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Ative { -sync-brand-short-name }
+    .accesskey = t
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Mai plui une password pierdude
+cfr-doorhanger-sync-logins-body = Archivie in sigurece e sincronize lis tôs passwords su ducj i tiei dispositîfs.
+cfr-doorhanger-sync-logins-ok-button = Ative { -sync-brand-short-name }
+    .accesskey = t
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Leilu cuant che tu vûs
+cfr-doorhanger-send-tab-recipe-header = Puarte cheste ricete in cusine
 
 ## Firefox Send
 
