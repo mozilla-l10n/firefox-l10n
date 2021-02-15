@@ -292,3 +292,13 @@ about-logins-import-dialog-items-error =
        *[other] <span>Eraroj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportitaj)</span>
     }
 about-logins-import-dialog-done = Farita
+about-logins-import-dialog-error-title = Enporta eraro
+about-logins-import-dialog-error-file-permission-title = Ne eblis legi dosieron
+about-logins-import-dialog-error-unable-to-read-title = Ne eblis analizi dosieron
+about-logins-import-dialog-error-learn-more = Pli da informo
+about-logins-import-dialog-error-try-again = Klopodi denove…
+about-logins-import-dialog-error-cancel = Nuligi
+
+## Logins import report page
+
+about-logins-import-report-page-title = Enporti resuman raporton

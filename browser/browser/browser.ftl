@@ -519,6 +519,7 @@ pointerlock-warning-no-domain = Tiu ĉi dokumento regas vian musmontrilon. Premu
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Parto de tiu ĉi paĝo paneis.</strong> Por permesi al { -brand-product-name } scii pri tiu ĉi problemo kaj havi pli rapidan solvon, bonvolu sendi raporton.
 crashed-subframe-learnmore =
     .label = Pli da informo
     .accesskey = P
@@ -564,6 +565,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Kaŝi ilaron de legosignoj
            *[other] Montri ilaron de legosignoj
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Kaŝi ilaron de legosignoj
+           *[other] Montri ilaron de legosignoj
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -589,6 +596,9 @@ bookmarks-toolbar-placeholder =
     .title = Elementoj de ilaro de legosignoj
 bookmarks-toolbar-placeholder-button =
     .label = Elementoj de ilaro de legosignoj
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Aldoni legosignon por la nuna langeto
 
 ## Library Panel items
 
