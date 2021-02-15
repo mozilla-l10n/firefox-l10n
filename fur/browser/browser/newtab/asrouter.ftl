@@ -134,12 +134,25 @@ cfr-whatsnew-searchbar-icon-alt-text = Icone lint di ingrandiment
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Viôt i videos intant che tu navighis
+cfr-whatsnew-pip-body = Il Picture-in-picture al met il video intun barcon flotant cussì che tu lu puedis viodi intant che tu lavoris su altris schedis.
+cfr-whatsnew-pip-cta = Plui informazions
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Mancul barcons a comparse fastidiôs
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } cumò al impedìs ai sîts di domandâ in automatic di inviâti messaçs a comparse.
+cfr-whatsnew-permission-prompt-cta = Plui informazions
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Rilevadôr di stamp numeric blocât
+       *[other] Rilevadôrs di stamp numeric blocâts
+    }
 
 ## Bookmark Sync
 
