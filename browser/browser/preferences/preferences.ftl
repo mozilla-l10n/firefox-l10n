@@ -129,7 +129,7 @@ startup-header = Aniciu
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Permitir que { -brand-short-name } y Firefox s'executen al empar
+    .label = Permitir a { -brand-short-name } y Firefox que s'executen al empar
 use-firefox-sync = Conseyu: Esto usa perfiles separtaos. Usa { -sync-brand-short-name } pa compartir datos ente ellos.
 always-check-default =
     .label = Comprobar siempres si { -brand-short-name } ye'l restolador predetermináu
@@ -1051,14 +1051,14 @@ collection-privacy-notice = Avisu de privacidá
 collection-health-report-telemetry-disabled = Yá nun permites que { -vendor-short-name } capture datos téunicos y d'interaición. Tolos datos vieyos van desaniciase en 30 díes.
 collection-health-report-telemetry-disabled-link = Deprender más
 collection-health-report =
-    .label = Permitir que { -brand-short-name } unvie datos téunicos y d'interaición a { -vendor-short-name }
+    .label = Permitir a { -brand-short-name } qu'unvie datos téunicos y d'interaición a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Deprender más
 collection-studies =
-    .label = Permitir que { -brand-short-name } instale y execute estudios
+    .label = Permitir { -brand-short-name } qu'instale y execute estudios
 collection-studies-link = Amosar los estudios de { -brand-short-name }
 addon-recommendations =
-    .label = Permitir { -brand-short-name } aconseye estensiones de forma personalizada
+    .label = Permitir a { -brand-short-name } qu'aconseye estensiones de forma personalizada
 addon-recommendations-link = Deprender más
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
