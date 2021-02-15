@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Lecture en cours
 browser-tab-audio-muted = Muet
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = LECTURE EN COURS
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = MUET
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = LECTURE AUTOMATIQUE BLOQUÉE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = INCRUSTATION VIDÉO
 
 ## Bookmarks toolbar items
 
@@ -525,6 +533,10 @@ bookmarks-show-all-bookmarks =
     .label = Afficher tous les marque-pages
 bookmarks-recent-bookmarks =
     .value = Marqués récemment
+bookmarks-manage-bookmarks =
+    .label = Organiser les marque-pages
+bookmarks-recent-bookmarks-panel =
+    .value = Marque-pages récents
 bookmarks-toolbar-chevron =
     .tooltiptext = Afficher plus de marque-pages
 bookmarks-sidebar-content =
@@ -548,6 +560,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Afficher la barre personnelle
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Masquer la barre personnelle
+           *[other] Afficher la barre personnelle
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Masquer la barre personnelle
@@ -578,6 +596,9 @@ bookmarks-toolbar-placeholder =
     .title = Éléments de la barre personnelle
 bookmarks-toolbar-placeholder-button =
     .label = Éléments de la barre personnelle
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Marquer l’onglet courant
 
 ## Library Panel items
 

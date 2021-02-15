@@ -202,8 +202,12 @@ cfr-doorhanger-cryptominers-description = Le respect de votre vie privée est im
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading = { -brand-short-name } a bloqué plus de <b>{ $blockedCount }</b> traqueurs depuis { $date }.
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } a bloqué plus de <b>{ $blockedCount }</b> traqueurs depuis { DATETIME($date, month: "long", year: "numeric") } !
+    }
 cfr-doorhanger-milestone-ok-button = Tout afficher
     .accesskey = T
 cfr-doorhanger-milestone-close-button = Fermer
@@ -286,3 +290,8 @@ cfr-whatsnew-supercookies-body = Des sites web peuvent attacher secrètement à 
 
 cfr-whatsnew-bookmarking-header = De meilleurs marque-pages
 cfr-whatsnew-bookmarking-body = Il est plus facile de garder trace de vos sites préférés. { -brand-short-name } se souvient désormais de votre emplacement préféré pour les marque-pages enregistrés, affiche la barre personnelle sur les nouveaux onglets par défaut et vous offre un accès facile à vos autres marque-pages grâce à un dossier dans la barre personnelle.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Protection complète contre le pistage des cookies intersites
+cfr-whatsnew-cross-site-tracking-body = Vous pouvez désormais opter pour une meilleure protection contre le pistage des cookies. { -brand-short-name } peut isoler vos activités et données du site sur lequel vous vous trouvez afin que les informations stockées dans le navigateur ne soient pas partagées entre les sites web.

@@ -176,6 +176,7 @@ language-name-st = Sotho du Sud
 language-name-su = Soundanais
 language-name-sv = Suédois
 language-name-sw = Swahili
+language-name-szl = Silésien
 language-name-ta = Tamoul
 language-name-te = Télougou
 language-name-tg = Tadjik

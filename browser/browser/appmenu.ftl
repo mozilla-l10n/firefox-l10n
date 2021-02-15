@@ -98,8 +98,17 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Maj+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Gérer l’historique
+appmenu-reopen-all-tabs = Rouvrir tous les onglets
+appmenu-reopen-all-windows = Rouvrir toutes les fenêtres
+
 ## Help panel
 
+appmenu-help-header =
+    .title = Aide de { -brand-shorter-name }
 appmenu-about =
     .label = À propos de { -brand-shorter-name }
     .accesskey = p
@@ -115,6 +124,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Raccourcis clavier
     .accesskey = o
+appmenu-get-help =
+    .label = Obtenir de l’aide
+    .accesskey = O
 appmenu-help-troubleshooting-info =
     .label = Informations de dépannage
     .accesskey = I
@@ -148,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Rechercher des mises à jour…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Personnaliser la barre personnelle…
+appmenu-developer-tools-subheader = Outils du navigateur
