@@ -80,6 +80,13 @@ perftools-thread-renderer =
     .title = Quand WebRender est activé, le thread qui exécute les appels à OpenGL
 perftools-thread-render-backend =
     .title = Le thread RenderBackend de WebRender
+perftools-thread-style-thread =
+    .title = Le traitement du style est partagé entre plusieurs threads.
 
 ##
+
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
 

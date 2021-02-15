@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Onglets récemment fermés
 menu-history-undo-window-menu =
     .label = Fenêtres récemment fermées
+menu-history-reopen-all-tabs = Rouvrir tous les onglets
+menu-history-reopen-all-windows = Rouvrir toutes les fenêtres
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Raccourcis clavier
     .accesskey = o
+menu-get-help =
+    .label = Obtenir de l’aide
+    .accesskey = O
 menu-help-troubleshooting-info =
     .label = Informations de dépannage
     .accesskey = I

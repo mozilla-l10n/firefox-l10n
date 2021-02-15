@@ -313,3 +313,7 @@ about-logins-import-dialog-error-no-logins-imported = Aucun identifiant n’a é
 about-logins-import-dialog-error-learn-more = En savoir plus
 about-logins-import-dialog-error-try-again = Réessayer…
 about-logins-import-dialog-error-cancel = Annuler
+
+## Logins import report page
+
+about-logins-import-report-page-title = Rapport récapitulatif d’importation
