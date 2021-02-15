@@ -79,11 +79,15 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY pointerlockWarning.generic.label "Esti documentu tien el control del punteru. Primi Esc pa recuperalu.">
 
 
+<!ENTITY printButton.label            "Imprentar">
+<!ENTITY printButton.tooltip          "Imprentar esta páxina">
 
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Aniciu">
 <!ENTITY homeButton.defaultPage.tooltip "Páxina d'aniciu de &brandShortName;">
 
+<!ENTITY bookmarksButton.label          "Marcadores">
 
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
 <!ENTITY bookmarksMenuButton.mobile.label   "Marcadores del móvil">
@@ -120,6 +124,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.recentHistory.label "Historial recién">
 <!ENTITY appMenuHelp.label "Ayuda">
 
+<!ENTITY appMenuRemoteTabs.label "Llingüetes sincronizaes">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nun hai llingüetes abiertes">
@@ -194,3 +199,4 @@ this container is a toolbar. This avoids double-speaking. -->
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Carauterístiques de l'accesibilidá activaes">
