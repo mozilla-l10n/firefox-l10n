@@ -9,7 +9,7 @@ start-safe-mode =
     .label = Aniciar nel mou seguru
 refresh-profile =
     .label = Reafitar { -brand-short-name }
-safe-mode-description = El mou seguru ye un mou especial de { -brand-short-name } que pue usase pa iguar de problemes.
+safe-mode-description = El mou seguru ye un mou especial de { -brand-short-name } que pue usase pa iguar problemes.
 safe-mode-description-details = Los complementos y axustes personalizaos van desactivase temporalmente, y les carauterístiques de { -brand-short-name } puen dexar de rindir como lo faen anguaño.
 refresh-profile-instead = Tamién pues saltar la igua de problemes y probar a reafitar { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.

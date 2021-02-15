@@ -46,7 +46,7 @@ clear-time-duration-suffix =
 
 history-section-label = Historial
 item-history-and-downloads =
-    .label = Historial de restolar y descargues
+    .label = Historial de restolar y de descargues
     .accesskey = r
 item-cookies =
     .label = Cookies
@@ -65,7 +65,7 @@ item-site-preferences =
     .label = Preferencies de los sitios
     .accesskey = s
 item-offline-apps =
-    .label = Datos de los sitios web ensin conexón
+    .label = Datos de los sitios web del mou ensin conexón
     .accesskey = o
 sanitize-everything-undo-warning = Esta aición nun pue desfacese.
 window-close =
