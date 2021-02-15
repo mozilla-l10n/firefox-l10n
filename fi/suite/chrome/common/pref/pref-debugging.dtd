@@ -15,7 +15,7 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Tapahtumat">
-<!ENTITY debugPaintFlashing.label "Värin vilkuttaminen (Caps-Lock vaihtaa)">
+<!ENTITY debugPaintFlashing.label "Piirtämisen vilkuttaminen (Caps-Lock vaihtaa tilaa)">
 <!ENTITY debugPaintFlashing.accesskey "V">
 
 <!-- Reflow Event Debugging -->
