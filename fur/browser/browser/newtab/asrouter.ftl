@@ -114,9 +114,17 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Di { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Visualize rapuart
 cfr-whatsnew-lockwise-backup-title = Fâs il backup des tôs passwords
+cfr-whatsnew-lockwise-backup-body = Cumò gjenere passwords siguris che tu puedis doprâ su ogni dispositîf conetût al to account.
+cfr-whatsnew-lockwise-backup-link-text = Ative i backups
+cfr-whatsnew-lockwise-take-title = Puarte lis tôs passwords cun te
+cfr-whatsnew-lockwise-take-body =
+    La aplicazion mobil { -lockwise-brand-short-name } ti permet di doprâ cun sigurece 
+    lis tôs passwords salvadis, dapardut là che tu ti cjatis.
+cfr-whatsnew-lockwise-take-link-text = Oten la app
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Scrîf di mancul, cjate di plui cu la sbare de direzion
 
 ## Search bar
 
