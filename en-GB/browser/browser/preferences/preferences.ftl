@@ -1157,7 +1157,7 @@ space-alert-under-5gb-message = { -brand-short-name } is running out of disk spa
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only Mode
-httpsonly-description = HTTPS provides a secure, encrypted connection between { -brand-short-name } and the web sites you visit. Most websites support HTTPS, and if HTTPS-Only Mode is enabled, then { -brand-short-name } will upgrade all connections to HTTPS.
+httpsonly-description = HTTPS provides a secure, encrypted connection between { -brand-short-name } and the web sites you visit. Most web sites support HTTPS, and if HTTPS-Only Mode is enabled, then { -brand-short-name } will upgrade all connections to HTTPS.
 httpsonly-learn-more = Learn more
 httpsonly-radio-enabled =
     .label = Enable HTTPS-Only Mode in all windows

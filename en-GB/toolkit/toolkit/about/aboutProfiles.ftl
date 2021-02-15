@@ -48,7 +48,7 @@ profiles-delete-profile-title = Delete Profile
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     Deleting a profile will remove the profile from the list of available profiles and cannot be undone.
-    You may also choose to delete the profile data files, including your settings, certificates and other user-related data. This option will delete the folder "{ $dir }" and cannot be undone.
+    You may also choose to delete the profile data files, including your settings, certificates and other user-related data. This option will delete the folder “{ $dir }” and cannot be undone.
     Would you like to delete the profile data files?
 profiles-delete-files = Delete Files
 profiles-dont-delete-files = Don’t Delete Files
