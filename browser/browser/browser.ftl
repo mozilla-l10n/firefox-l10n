@@ -596,6 +596,9 @@ bookmarks-toolbar-placeholder =
     .title = Yer imleri araç çubuğu öğeleri
 bookmarks-toolbar-placeholder-button =
     .label = Yer imleri araç çubuğu öğeleri
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Bu sekmeyi yer imlerine ekle
 
 ## Library Panel items
 
