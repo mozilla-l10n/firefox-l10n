@@ -25,6 +25,24 @@
 <!ENTITY fileRevert.accesskey "t">
 <!ENTITY publishSettings.label "Configuración de sitio de publicación…">
 <!ENTITY publishSettings.accesskey "b">
+<!ENTITY insertFormMenu.label "Formulario">
+<!ENTITY insertFormMenu.accesskey "">
+<!ENTITY insertFormCmd.label "Definir formulario…">
+<!ENTITY insertFormCmd.accesskey "">
+<!ENTITY insertInputTagCmd.label "Campo de formulario…">
+<!ENTITY insertInputTagCmd.accesskey "u">
+<!ENTITY insertInputImageCmd.label "Imagen de formulario…">
+<!ENTITY insertInputImageCmd.accesskey "">
+<!ENTITY insertTextAreaCmd.label "Área de texto…">
+<!ENTITY insertTextAreaCmd.accesskey "x">
+<!ENTITY insertSelectCmd.label "Lista de opciones…">
+<!ENTITY insertSelectCmd.accesskey "L">
+<!ENTITY insertButtonCmd.label "Definir botón…">
+<!ENTITY insertButtonCmd.accesskey "e">
+<!ENTITY insertLabelCmd.label "Definir etiqueta">
+<!ENTITY insertLabelCmd.accesskey "n">
+<!ENTITY insertFieldSetCmd.label "Definir conjunto de campos…">
+<!ENTITY insertFieldSetCmd.accesskey "f">
 <!ENTITY newToolbarCmd.label "Nuevo">
 <!ENTITY newToolbarCmd.tooltip "Crear una página nueva en Composer">
 <!ENTITY openToolbarCmd.label "Abrir">

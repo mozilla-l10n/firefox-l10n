@@ -7,7 +7,7 @@
 <!ENTITY otherSubdir.label "Subdirectorio de imágenes:">
 <!ENTITY status.label "Publicando…">
 <!ENTITY fileList.label "Estado de la publicación">
-<!ENTITY succeeded.label "Completado con éxito">
+<!ENTITY succeeded.label "Completado">
 <!ENTITY failed.label "Fallido">
 <!ENTITY keepOpen "Mantener esta ventana abierta una vez completada la publicación.">
 <!ENTITY closeButton.label "Cerrar">
