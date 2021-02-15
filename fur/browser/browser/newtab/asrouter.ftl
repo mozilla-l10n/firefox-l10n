@@ -94,6 +94,26 @@ cfr-whatsnew-button =
     .tooltiptext = Novitâts
 cfr-whatsnew-panel-header = Novitâts
 cfr-whatsnew-release-notes-link-text = Lei lis notis di publicazion
+cfr-whatsnew-fx70-title = Cumò { -brand-short-name } si bat in maniere plui fuarte pe tô riservatece
+cfr-whatsnew-fx70-body =
+    L'ultin inzornament al miore la funzionalitât di protezion des spiis e al rint 
+    plui sempliç che mai creâ passwords siguris par ogni sît.
+cfr-whatsnew-tracking-protect-title = Proteziti des spiis (trackers)
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } al bloche tancj trackers (spiis) dai plui comuns social e sîts
+    che a stan daûr a ce che tu fasis in rêt.
+cfr-whatsnew-tracking-protect-link-text = Visualize il to rapuart
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Spie blocade
+       *[other] Spiis blocadis
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Di { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Visualize rapuart
+cfr-whatsnew-lockwise-backup-title = Fâs il backup des tôs passwords
 
 ## Search Bar
 
