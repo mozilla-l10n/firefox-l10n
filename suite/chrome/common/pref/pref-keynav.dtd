@@ -17,4 +17,6 @@
 <!ENTITY browseWithCaretShortCut.label "F7-näppäin ottaa kohdistinselauksen päälle ja pois">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Kysy ennen kohdistinselaamisen käyttöönottoa">
-<!ENTITY browseWithCaretWarn.accesskey "K">
+<!ENTITY browseWithCaretWarn.accesskey "e">
+
+<!ENTITY acceleratorKey.label "Pikanäppäin:">
