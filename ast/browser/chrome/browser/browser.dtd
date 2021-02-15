@@ -191,6 +191,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY updateUnsupported.panelUI.label "Yá nun pues anovar más nesti sistema">
 
+<!ENTITY sendToDevice.syncNotReady.label "Sincronizando los preseos…">
 
 <!ENTITY pageAction.shareMore.label "Más…">
 
