@@ -46,7 +46,7 @@ cert-error-not-yet-valid-now = Web sites prove their identity via certificates, 
 cert-error-code-prefix-link = Error code: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Web sites prove their identity via certificates, which are issued by certificate authorities. Most browsers no longer trust certificates issued by GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } uses a certificate from one of these authorities and so the website’s identity cannot be proven.
+cert-error-symantec-distrust-description = Web sites prove their identity via certificates, which are issued by certificate authorities. Most browsers no longer trust certificates issued by GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign. { $hostname } uses a certificate from one of these authorities and so the web site’s identity cannot be proven.
 cert-error-symantec-distrust-admin = You may notify the web site’s administrator about this problem.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -70,7 +70,7 @@ dnsNotFound-title = Hmm. We’re having trouble finding that site.
 fileNotFound-title = File not found
 fileAccessDenied-title = Access to the file was denied
 generic-title = Oops.
-captivePortal-title = Login to network
+captivePortal-title = Log in to network
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. That address doesn’t look right.
