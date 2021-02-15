@@ -46,9 +46,9 @@ features-memory-title = Memória
 features-memory-desc = Encontre vazamentos de memória e agilize sua aplicação. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
-newsletter-error-common = Falha ao solicitar inscrição ({ $errorDescription }).
+newsletter-error-common = Falha ao requisitar inscrição ({ $errorDescription }).
 newsletter-error-unknown = Ocorreu um erro não previsto.
-newsletter-error-timeout = Expirou o tempo de solicitação de inscrição.
+newsletter-error-timeout = Expirou o tempo de requisição de inscrição.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Você ativou com sucesso as ferramentas de desenvolvimento! Para começar, explore o menu Desenvolvimento web, ou abra as ferramentas com { $shortcut }.
