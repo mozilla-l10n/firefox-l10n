@@ -206,10 +206,14 @@ cfr-doorhanger-cryptominers-description = Via privateco gravas. { -brand-short-n
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } blokis pli ol <b>{ $blockedCount }</b> spurilojn ekde { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } blokis pli ol <b>{ $blockedCount }</b> spurilojn ekde { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = Vidi ĉiujn
     .accesskey = V
@@ -292,3 +296,9 @@ cfr-whatsnew-supercookies-body = Retejoj povas sekrete alkroĉi "superkuketon" a
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Plibonigitaj legosignoj
+cfr-whatsnew-bookmarking-body = Estas pli facile sekvi viajn plej ŝatatajn retejojn. Nun { -brand-short-name } memoras vian preferatan lokon por konservitaj legosignoj, norme montras la legosignan ilaron en novaj langetoj kaj permesas al vi facile aliri viajn ceterajn legosignojn per ilara dosierujo.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Ampleksan protekton kontraŭ interretejaj spurilaj kuketoj
+cfr-whatsnew-cross-site-tracking-body = Vi nun povas elekti pli bonan protekton kontraŭ spurado pere de kuketoj. { -brand-short-name } povas izoli viajn agojn kaj datumojn en la retejo kie vi estas, tiel ke la informoj konservitaj en la retumilo ne estos dividita inter retejoj.
