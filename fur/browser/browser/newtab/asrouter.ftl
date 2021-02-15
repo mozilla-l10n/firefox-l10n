@@ -153,9 +153,14 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Rilevadôr di stamp numeric blocât
        *[other] Rilevadôrs di stamp numeric blocâts
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } al bloche tancj rilevadôrs di stamp numeric che di scuindon a tirin dongje informazions sul to dispositîf e lis tôs azions par creâ un profîl publicitari di te.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Rilevadôrs di stamp numeric
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } al pues blocâ i rilevadôrs di stamp numeric che di scuindon a tirin dongje informazions sul to dispositîf e lis tôs azions par creâ un profîl publicitari di te.
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Cjate chest segnelibri sul to telefon
 
 ## Login Sync
 
