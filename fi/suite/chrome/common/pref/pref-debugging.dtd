@@ -18,3 +18,5 @@
 <!ENTITY debugPaintFlashing.accesskey "V">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowShowFrameCounts.label        "Näytä kehyslaskuri">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "k">
