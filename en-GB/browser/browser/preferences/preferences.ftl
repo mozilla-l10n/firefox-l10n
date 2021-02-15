@@ -355,7 +355,7 @@ play-drm-content =
 play-drm-content-learn-more = Learn more
 update-application-title = { -brand-short-name } Updates
 update-application-description = Keep { -brand-short-name } up to date for the best performance, stability, and security.
-update-application-version = Version { $version } <a data-l10n-name="learn-more">What's new</a>
+update-application-version = Version { $version } <a data-l10n-name="learn-more">What’s new</a>
 update-history =
     .label = Show Update History…
     .accesskey = p
@@ -648,7 +648,7 @@ sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a
 sync-profile-picture =
     .tooltiptext = Change profile picture
 sync-sign-out =
-    .label = Sign Out ...
+    .label = Sign Out…
     .accesskey = g
 sync-manage-account = Manage account
     .accesskey = o
