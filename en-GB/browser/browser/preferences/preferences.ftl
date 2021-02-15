@@ -699,7 +699,7 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog =
-    .title = Chose What To Synchronise
+    .title = Choose What To Synchronise
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Save Changes
     .buttonaccesskeyaccept = S

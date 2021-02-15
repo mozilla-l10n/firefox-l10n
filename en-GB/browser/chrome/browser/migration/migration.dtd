@@ -16,7 +16,7 @@
 <!ENTITY importFromEdgeLegacy.accesskey "L">
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Beta">
 <!ENTITY importFromEdgeBeta.accesskey   "d">
-<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.label        "Don’t import anything">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
