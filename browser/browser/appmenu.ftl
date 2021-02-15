@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Nova fenestro
 appmenuitem-new-private-window =
     .label = Nova privata fenestro
+appmenuitem-passwords =
+    .label = Pasvortoj
+appmenuitem-extensions-and-themes =
+    .label = Etendaĵoj kaj etosoj
+appmenuitem-find-in-page =
+    .label = Serĉi en la paĝo…
+appmenuitem-more-tools =
+    .label = Pli da iloj
+appmenuitem-exit =
+    .label = Fini
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Agordoj
 
 ## Zoom and Fullscreen Controls
 
@@ -46,6 +60,21 @@ whatsnew-panel-footer-checkbox =
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
+
+profiler-popup-title =
+    .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Montri pli da informo
+profiler-popup-description-title =
+    .value = Registri, analizi, dividi
+profiler-popup-description = Kunlaboru pri efikecaj problemoj per publikigo de profiloj dividotaj kun via teamo.
+profiler-popup-learn-more = Pli da informo
+profiler-popup-settings =
+    .value = Agordoj
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Modifi agordojn…
+
+## History panel
 
 
 ## Help panel
@@ -95,4 +124,7 @@ appmenu-help-not-deceptive =
     .accesskey = t
 
 ##
+
+
+## More Tools
 
