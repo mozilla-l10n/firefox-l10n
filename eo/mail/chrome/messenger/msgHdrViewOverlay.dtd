@@ -31,14 +31,14 @@
 <!ENTITY hdrReplyAllButton1.tooltip "Respondi al la sendinto kaj al ĉiuj ricevontojn">
 <!ENTITY hdrReplyListButton1.label "Respondi al listo">
 <!ENTITY hdrReplyListButton1.tooltip "Respondi al dissendolisto">
-<!ENTITY hdrFollowupButton1.label "Followup">
-<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
-<!ENTITY hdrForwardButton1.label "Forward">
-<!ENTITY hdrForwardButton1.tooltip "Forward this message">
-<!ENTITY hdrJunkButton1.label "Junk">
-<!ENTITY hdrJunkButton1.tooltip "Mark this message as junk">
-<!ENTITY hdrTrashButton1.label "Delete">
-<!ENTITY hdrTrashButton1.tooltip "Delete this message">
+<!ENTITY hdrFollowupButton1.label "Respondi al grupo">
+<!ENTITY hdrFollowupButton1.tooltip "Sendi respondon al tiu ĉi novaĵgrupo">
+<!ENTITY hdrForwardButton1.label "Plusendi">
+<!ENTITY hdrForwardButton1.tooltip "Plusendi tiun ĉi mesaĝon">
+<!ENTITY hdrJunkButton1.label "Trudmesaĝo">
+<!ENTITY hdrJunkButton1.tooltip "Marki tiun ĉi mesaĝon kiel nedeziratan">
+<!ENTITY hdrTrashButton1.label "Forigi">
+<!ENTITY hdrTrashButton1.tooltip "Forigi tiun ĉi mesaĝon">
 
 <!ENTITY hdrViewToolbarShowFull.label "Show Icons and Text">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
