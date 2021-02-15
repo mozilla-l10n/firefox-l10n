@@ -22,7 +22,7 @@ fonts-langgroup-simpl-chinese =
 fonts-langgroup-trad-chinese-hk =
     .label = Chinu tradicional (Ḥong Kong)
 fonts-langgroup-trad-chinese =
-    .label = Chinu tradicional (Taiwan)
+    .label = Chinu tradicional (Taiwán)
 fonts-langgroup-cyrillic =
     .label = Cirílicu
 fonts-langgroup-devanagari =
@@ -104,7 +104,7 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación del testu pal conteníu heredáu
 fonts-languages-fallback-desc = Esta codificación del testu úsase pa conteníu heredáu que nun ye a declarar la so codificación.
-fonts-languages-fallback-label = Codificación del testu alternativa
+fonts-languages-fallback-label = Codificación alternativa del testu
     .accesskey = t
 fonts-languages-fallback-name-auto =
     .label = Lo predeterminao pa la locale actual
