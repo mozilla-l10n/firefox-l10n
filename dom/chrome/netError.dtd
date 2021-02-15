@@ -7,7 +7,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Fallu al coneutar">
+<!ENTITY connectionFailure.title "Hebo un fallu al contectar">
 <!ENTITY connectionFailure.longDesc "<p>Magar que'l sitiu paeza válidu, el restolador nun foi a afitar una conexón.</p><ul><li>¿Pue ser que'l sitiu nun tea disponible temporalmente? Volvi tentalo dempués.</li><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón del ordenador a la rede.</li><li>¿L'ordenador o la rede tán protexíos por un tornafuéu o proxy? Unos axustes incorreutos puen interfirir col restolar de la web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Torgóse un puertu por seguranza">
