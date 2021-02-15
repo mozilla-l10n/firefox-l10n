@@ -66,6 +66,16 @@ perftools-button-edit-settings = Modifi agordojn…
 
 perftools-thread-gecko-main =
     .title = La ĉefa procezo por la gepatra procezo kaj la enhavaj procezoj
+perftools-thread-compositor =
+    .title = Tio kombinas apartajn farbitajn elementoj en la paĝo
+perftools-thread-dom-worker =
+    .title = Tio zorgas pri web workers kaj service workers
+perftools-thread-renderer =
+    .title = Kiam WebRender estas aktiva, tiu estas la fadeno kiu vokas OpenGL
+perftools-thread-render-backend =
+    .title = La fadeno WebRender RenderBackend
+perftools-thread-paint-worker =
+    .title = Kiam farbado ekster la ĉefa fadeno estas aktiva, tiu estas la fadeno kiu farbas
 
 ##
 
