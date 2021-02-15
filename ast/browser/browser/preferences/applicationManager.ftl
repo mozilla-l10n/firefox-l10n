@@ -18,5 +18,5 @@ app-manager-handle-file = Les aplicaciones de darréu puen usase pa remanar cont
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
-app-manager-web-app-info = Esta aplicación web ta agospiada en:
-app-manager-local-app-info = Esta aplicación ta asitiada en:
+app-manager-web-app-info = Esta aplicación web agóspiase en:
+app-manager-local-app-info = Esta aplicación asítiase en:
