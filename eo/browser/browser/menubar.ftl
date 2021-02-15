@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Antaŭ nelonge fermitaj langetoj
 menu-history-undo-window-menu =
     .label = Antaŭ nelonge fermitaj fenestroj
+menu-history-reopen-all-tabs = Remalfermi ĉiujn langetojn
+menu-history-reopen-all-windows = Remalfermi ĉiujn fenestrojn
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Alirklavoj
     .accesskey = A
+menu-get-help =
+    .label = Helpo
+    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Informoj por solvado de problemoj
     .accesskey = I
@@ -339,3 +344,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Tiu ĉi ne estas trompa retejo…
     .accesskey = t
+menu-help-check-for-update =
+    .label = Kontroli ĉu estas ĝisdatigoj…
+    .accesskey = K
