@@ -3,11 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Tocante a los plugins
-
 installed-plugins-label = Plugins instalaos
 no-plugins-are-installed-label = Nun s'atoparon plugins instalaos
-
-deprecation-description = ¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu. <a data-l10n-name="deprecation-link">Deprendi más.</a>
+deprecation-description = ¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu. <a data-l10n-name="deprecation-link">Deprender más.</a>
 
 ## The information of plugins
 ##
@@ -25,11 +23,10 @@ version-dd = <span data-l10n-name="version">Versión:</span> { $version }
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
-state-dd-enabled = <span data-l10n-name="state">Estáu:</span> Habilitáu
-state-dd-enabled-block-list-state = <span data-l10n-name="state">Estáu:</span> Habilitáu ({ $blockListState })
-state-dd-Disabled = <span data-l10n-name="state">Estáu:</span> Deshabilitáu
-state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estáu:</span> Deshabilitáu ({ $blockListState })
-
-mime-type-label = Triba MIME
+state-dd-enabled = <span data-l10n-name="state">Estáu:</span> Activóse
+state-dd-enabled-block-list-state = <span data-l10n-name="state">Estáu:</span> Activóse ({ $blockListState })
+state-dd-Disabled = <span data-l10n-name="state">Estáu:</span> Desactivóse
+state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estáu:</span> Desactivóse ({ $blockListState })
+mime-type-label = Tipu MIME
 description-label = Descripción
 suffixes-label = Sufixos
