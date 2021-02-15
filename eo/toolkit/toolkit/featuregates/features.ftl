@@ -101,3 +101,7 @@ experimental-features-multi-pip-description = Eksperimenta subteno por permesi l
 experimental-features-http3 =
     .label = Protokolo HTTP/3
 experimental-features-http3-description = Eksperimenta subteno de la protokolo HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Adresa strio: montri rezultojn dum komponado IME
+experimental-features-ime-search-description = IME (redaktilo de eniga metodo) estas ilo, kiu permesas al vi, pere de normala klavaro, tajpi malsimplajn signojn, kiel la uzatajn en la skribataj lingvoj de orienta Azio aŭ Barato. Se vi ŝaltas tiun ĉi eksperimenton, la adresa strio restos malfermita dum vi uzas IME por tajpi ion. Notu ke IME povus montri panelon kiu kovras la rezultojn de la adresa strio, tial tiu ĉi prefero estas sugestita por la IME, kiuj ne uzas tiajn panelojn.
