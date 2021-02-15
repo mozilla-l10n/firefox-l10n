@@ -80,7 +80,7 @@ detail-update-type =
     .value = Automatic Updates
 detail-update-default =
     .label = Default
-    .tooltiptext = Automatically install updates only if that's the default
+    .tooltiptext = Automatically install updates only if that’s the default
 detail-update-automatic =
     .label = On
     .tooltiptext = Automatically install updates
@@ -127,8 +127,8 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Change this add-on's options
-           *[other] Change this add-on's preferences
+            [windows] Change this add-on’s options
+           *[other] Change this add-on’s preferences
         }
 detail-rating =
     .value = Rating
@@ -400,7 +400,7 @@ available-updates-heading = Available Updates
 recent-updates-heading = Recent Updates
 release-notes-loading = Loading…
 release-notes-error = Sorry, but there was an error loading the release notes.
-addon-permissions-empty = This extension doesn't require any permissions
+addon-permissions-empty = This extension doesn’t require any permissions
 addon-permissions-required = Required permissions for core functionality:
 addon-permissions-optional = Optional permissions for added functionality:
 addon-permissions-learnmore = Learn more about permissions
