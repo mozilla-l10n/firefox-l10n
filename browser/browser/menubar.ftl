@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Koartlyn sluten ljepblêden
 menu-history-undo-window-menu =
     .label = Koartlyn sluten skermen
+menu-history-reopen-all-tabs = Alle ljepblêden opnij iepenje
+menu-history-reopen-all-windows = Alle finsters opnij iepenje
 
 ## Bookmarks Menu
 
