@@ -434,9 +434,6 @@ addon-badge-recommended2 =
     .title = Vengono consigliate solo estensioni che soddisfano i requisiti di sicurezza e prestazioni di { -brand-product-name }
     .aria-label = { addon-badge-recommended2.title }
 
-addon-badge-line2 =
-  .title = Questa è un’estensione ufficiale sviluppata dagli autori di { -brand-product-name }
-  .aria-label = { addon-badge-line2.title }
 addon-badge-line3 =
   .title = Estensione ufficiale realizzata da Mozilla. Rispetta gli standard in materia di sicurezza e prestazioni
   .aria-label = { addon-badge-line3.title }
