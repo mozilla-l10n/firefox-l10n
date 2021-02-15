@@ -64,6 +64,7 @@ this container is a toolbar. This avoids double-speaking. -->
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -83,6 +84,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Toolbar items -->
 
 
+<!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
+<!ENTITY bookmarksMenuButton.mobile.label   "Marcadores del móvil">
 
 <!ENTITY historyButton.label            "Historial">
 
@@ -102,6 +105,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY preferencesCmdUnix.label       "Preferencies">
 <!ENTITY logins.label                           "Anicios de sesión y contraseñes">
 
+<!ENTITY overflowCustomizeToolbar.label       "Personalizar la barra de ferramientes…">
 
 <!ENTITY historyMenu.label "Historial">
 <!ENTITY historyUndoMenu.label "Llingüetes zarraes apocayá">
@@ -110,6 +114,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY appMenuHistory.showAll.label "Amosar tol historial">
 
+<!ENTITY appMenuHistory.clearRecent.label "Llimpiar l'historial recién…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar la sesión anterior">
 <!ENTITY appMenuHistory.recentHistory.label "Historial recién">
 <!ENTITY appMenuHelp.label "Ayuda">
@@ -154,7 +159,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 
+<!ENTITY emailPageCmd.label           "Unviar l'enllaz per corréu…">
 
+<!ENTITY fullZoom.label                 "Zoom">
 
 
 
@@ -168,11 +175,13 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 
 
 
 <!ENTITY panicButton.thankyou.msg1                "L'historial recién ta llimpiu">
+<!ENTITY panicButton.thankyou.buttonlabel         "¡Gracies!">
 
 
 
