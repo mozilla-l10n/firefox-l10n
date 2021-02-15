@@ -153,12 +153,12 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few 
-    moments.</li> 
-  <li>If you are unable to load any pages, check your computer's network 
-    connection.</li> 
+  <li>The site could be temporarily unavailable or too busy. Try again in a few
+    moments.</li>
+  <li>If you are unable to load any pages, check your computer’s network
+    connection.</li>
   <li>If your computer or network is protected by a firewall or proxy, make sure
-    that &brandShortName; is permitted to access the Web.</li> 
+    that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
 
