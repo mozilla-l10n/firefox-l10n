@@ -176,9 +176,16 @@ cfr-doorhanger-sync-logins-ok-button = Ative { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Leilu cuant che tu vûs
 cfr-doorhanger-send-tab-recipe-header = Puarte cheste ricete in cusine
+cfr-doorhanger-send-tab-body = “Invie schede” ti permet di condividi cun facilitât chest colegament cul to telefon o dapardut là che tu sês conetût al to account { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Prove “Invie schede”
+    .accesskey = P
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Condivît chest PDF in sigurece
+cfr-doorhanger-firefox-send-body = Ten al sigûr i tiei documents sensibii cu la cifradure end-to-end (di une bande a chê altre) e un colegament che al sparìs cuant che la operazion e je stade completade.
+cfr-doorhanger-firefox-send-ok-button = Prove { -send-brand-name }
+    .accesskey = P
 
 ## Social Tracking Protection
 
