@@ -69,7 +69,7 @@ policy-HardwareAcceleration = If false, turn off hardware acceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Set and optionally lock the homepage.
 policy-InstallAddonsPermission = Allow certain web sites to install add-ons.
-policy-LegacyProfiles = Disable the feature enforcing a separate profile for each installation
+policy-LegacyProfiles = Disable the feature enforcing a separate profile for each installation.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
