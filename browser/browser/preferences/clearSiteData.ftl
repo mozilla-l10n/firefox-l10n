@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Llimpieza de datos
     .style = width: 35em
-clear-site-data-description = La llimpieza de toles cookies y datos de sitios atroxaos por { -brand-short-name } puen zarrate la sesión nos sitios web y quitar el conteníu web del mou ensin conexón. Llimpiar los datos de la caché nun va afeutar a los anicios de sesión.
+clear-site-data-description = La llimpieza de toles cookies y tolos datos de sitios atroxaos por { -brand-short-name } puen zarrate la sesión nos sitios web y desaniciar el conteníu web del mou ensin conexón. Llimpiar los datos de la caché nun va afeutar a los anicios de sesión.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -24,7 +24,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = Datos y cookies de los sitios
     .accesskey = s
-clear-site-data-cookies-info = Si los quites, puen zarrate la sesión nos sitios web
+clear-site-data-cookies-info = Si los llimpies, puen zarrate la sesión nos sitios web
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:

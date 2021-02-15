@@ -28,6 +28,6 @@ blocklist-dialog =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = Llista de bloqueos de nivel 1 (aconséyase).
-blocklist-item-moz-std-description = Permite dalgunos rastrexadores pa que menos sitios ruempan.
+blocklist-item-moz-std-description = Permite dalgunos rastrexadores pa que menos sitios web ruempan.
 blocklist-item-moz-full-listName = Llista de bloqueos de nivel 2.
 blocklist-item-moz-full-description = Bloquia tolos rastrexadores detectaos mas dalgunos sitios web o conteníu podríen dexar de funcionar bien.
