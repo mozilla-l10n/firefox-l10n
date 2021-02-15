@@ -63,16 +63,16 @@
 <!ENTITY redirectLoop.title "Bucle de redireición">
 <!ENTITY redirectLoop.longDesc "<p>El restolador dexó de tentar de recuperar l'elementu solicitáu. El sitiu ta redirixendo la solicitú d'una forma qu'enxamás nun va completase.</p><ul><li>¿Desactivesti o bloquiesti les cookies riquíes por esti sitiu?</li><li><em>NOTA</em>: Si l'aceutación de les cookies del sitiu nun resuelve'l problema, ye probable que seya un problema de la configuración del sirvidor y non del ordenador.</li></ul>">
 
-<!ENTITY unknownSocketType.title "La rempuesta nun foi correuta">
+<!ENTITY unknownSocketType.title "La rempuesta ye incorreuta">
 <!ENTITY unknownSocketType.longDesc "<p>El sitiu respondió a la solicitú de rede d'un mou inesperáu y el restolador nun pue siguir.</p>">
 
-<!ENTITY nssFailure2.title "Falló la conexón segura">
-<!ENTITY nssFailure2.longDesc2 "<p>La páxina que tas tentando de ver nun pue amosase porque nun se pudo verificar l'autenticidá de los datos recibíos.</p><ul><li>Contauta colos dueños del sitiu web pa informa-yos d'esti problema, por favor.</li></ul>">
+<!ENTITY nssFailure2.title "La conexón segura falló">
+<!ENTITY nssFailure2.longDesc2 "<p>La páxina que tas tentando de ver nun pue amosase porque nun se pudo verificar l'autenticidá de los datos recibíos.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
 
-<!ENTITY nssBadCert.title "Falló la conexón segura">
+<!ENTITY nssBadCert.title "La conexón segura falló">
 <!ENTITY nssBadCert.longDesc2 "<ul>
-        <li>Esto podría ser un problema cola configuración del sirvidor o que daquién tea tentando de suplantate nel sirvidor.</li>
-        <li>Si nel pasáu te coneutesti con ésitu al sirvidor, el fallu quiciabes seya temporal polo que refresca la páxina dempués.</li>
+        <li>Esto podría ser un problema cola configuración del sirvidor o que daquién tea tentando de suplantalu.</li>
+        <li>Si nel pasáu te conectesti con ésitu al sirvidor, el fallu quiciabes seya temporal polo que refresca la páxina dempués.</li>
       </ul>">
 
 <!ENTITY securityOverride.linkText "O pues amestar una esceición…">
