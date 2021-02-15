@@ -4,7 +4,7 @@
 
 synced-tabs-sidebar-title = Llingüetes sincronizaes
 synced-tabs-sidebar-noclients-subtitle = ¿Quies ver equí les llingüetes d'otros preseos de to?
-synced-tabs-sidebar-intro = Mira una llista de les llingüetes d'otros preseos de to
+synced-tabs-sidebar-intro = Ve una llista de les llingüetes d'otros preseos de to
 synced-tabs-sidebar-unverified = Tienes de verificar la cuenta.
 synced-tabs-sidebar-notabs = Nun hai llingüetes abiertes
 synced-tabs-sidebar-openprefs = Abrir les preferencies de { -sync-brand-short-name }
