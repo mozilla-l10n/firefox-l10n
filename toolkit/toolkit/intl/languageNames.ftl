@@ -176,6 +176,7 @@ language-name-st = Sotho, Zuiders
 language-name-su = Soendanees
 language-name-sv = Zweeds
 language-name-sw = Swahili
+language-name-szl = Silezisch
 language-name-ta = Tamil
 language-name-te = Telugu
 language-name-tg = Tadzjieks

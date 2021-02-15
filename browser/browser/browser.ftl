@@ -357,6 +357,8 @@ browser-tab-audio-playing2 = AFSPELEN
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = GEDEMPT
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMATISCH AFSPELEN GEBLOKKEERD
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## Bookmarks toolbar items
