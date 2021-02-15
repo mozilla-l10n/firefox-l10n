@@ -23,3 +23,6 @@ sync-label = Inserìs la tô e-mail
 sync-input =
     .placeholder = E-mail
 sync-button = Continue
+sync-terms = Continuant, tu acetis i <a data-l10n-name="terms">Tiermins dal servizi</a> e la <a data-l10n-name="privacy">informative su la riservatece</a>.
+sync-first = Prime volte che tu dopris { -sync-brand-name }? Tu varâs di acedi in ogni instalazion di Firefox par sincronizâ i tiei dâts.
+sync-learn = Plui informazions
