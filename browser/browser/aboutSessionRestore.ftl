@@ -7,7 +7,7 @@ restore-page-tab-title = Restauración d'una sesión
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Sentímoslo, tenemos problemes pa recuperar les páxines.
 restore-page-problem-desc = Tenemos problemes pa restaurar la última sesión de restolar. Esbilla «Restaurar la sesión» pa tentalo de nueves.
-restore-page-try-this = ¿Sigues ensin ser a restaurar la sesión? A vegaes, una llingüeta causa'l problema. Mira les llingüetes anteriores, quita la marca de les que nun precises recuperar y dempués, restaura.
+restore-page-try-this = ¿Sigues ensin ser a restaurar la sesión? A vegaes, una llingüeta causa'l problema. Mira les llingüetes anteriores, desmarca les que nun precises recuperar y dempués, restaura.
 restore-page-hide-tabs = Anubrir les llingüetes anteriores
 restore-page-show-tabs = Ver les llingüetes anteriores
 # When tabs are distributed across multiple windows, this message is used as a
