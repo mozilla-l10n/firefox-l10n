@@ -83,7 +83,7 @@ perftools-thread-render-backend =
 perftools-thread-style-thread =
     .title = Le traitement du style est partagé entre plusieurs threads.
 perftools-thread-dns-resolver =
-    .title = La résolution DNS se produit sur ce fil
+    .title = La résolution DNS se produit sur ce thread
 
 ##
 
