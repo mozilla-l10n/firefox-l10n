@@ -83,6 +83,7 @@ login-item-new-login-title = Buat Info Masuk Baru
 login-item-edit-button = Edit
 about-logins-login-item-remove-button = Hapus
 login-item-origin-label = Alamat Situs Web
+login-item-tooltip-message = Pastikan ini sesuai dengan alamat situs web tempat Anda masuk.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nama Pengguna
@@ -177,6 +178,20 @@ about-logins-confirm-remove-all-dialog-checkbox-label = Ya, hapus log masuk ini
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] Hapus seluruh { $count } log masuk?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } dan semua peringatan pembobolan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
+       *[other] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } dan semua peringatan pembobolan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+       *[other] Hapus { $count } info masuk dari semua perangkat?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } dan semua peringatan pembobolan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.Ini akan menghapus semua info masuk yang Anda simpan ke { -brand-short-name } di semua perangkat yang disinkronkan ke { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pelanggaran yang muncul di sini. Anda tidak akan dapat mengurungkan tindakan ini.
+       *[other] Ini akan menghapus semua info masuk yang Anda simpan pada { -brand-short-name } di semua perangkat yang tersinkronisasi dengan { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pembobolan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
     }
 about-logins-confirm-export-dialog-title = Ekspor info masuk dan sandi
 about-logins-confirm-export-dialog-message = Kata sandi Anda akan disimpan sebagai teks biasa yang bisa dibaca (contoh: P@sw0rd) sehingga siapa pun yang dapat membuka berkas yang Anda ekspor akan bisa membacanya.
