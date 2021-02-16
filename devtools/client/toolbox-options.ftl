@@ -96,7 +96,7 @@ options-disable-javascript-label = Desativar JavaScript *
 options-disable-javascript-tooltip =
     .title = Desativar JavaScript na aba atual. Esta configuração é esquecida se fechar a aba ou as ferramentas.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Ativar caixas de ferramentas de debug do chrome do navegador e de extensões
+options-enable-chrome-label = Ativar ferramentas de debug do chrome do navegador e de extensões
 options-enable-chrome-tooltip =
     .title = Permitir usar várias ferramentas de desenvolvimento no contexto do navegador (via Ferramentas > Desenvolvimento web > Ferramentas do navegador) e debugar extensões a partir do gerenciador de extensões
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
@@ -112,7 +112,7 @@ options-source-maps-label = Ativar mapas de fontes
 options-source-maps-tooltip =
     .title = Mapear fontes nas ferramentas.
 # The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = * Somente na sessão atual, a página é recarregada
+options-context-triggers-page-refresh = * somente na sessão atual, a página é recarregada
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Exibir dados da plataforma Gecko
