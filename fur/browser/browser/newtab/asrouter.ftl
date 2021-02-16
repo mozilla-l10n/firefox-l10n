@@ -257,9 +257,21 @@ cfr-whatsnew-better-pdf-body = Cumò i documents PDF si puedin vierzi daurman di
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = La tô riservatece e je impuartante. Cumò { -brand-short-name } al indrece in sigurece, ogni volte che al è pussibil, lis tôs richiestis DNS a un servizi afiliât par proteziti intant che tu navighis.
+cfr-doorhanger-doh-header = Plui sigurece, ricercjis DNS cifradis
+cfr-doorhanger-doh-primary-button = Va ben, capît
+    .accesskey = V
+cfr-doorhanger-doh-secondary-button = Disative
+    .accesskey = D
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = La tô riservatece e je impuartante. Cumò { -brand-short-name } al isole i sîts web l'un di chel altri, cussì di rindi plui dificil pai hackers robâ passwords, numars di cjarte di credit e altris informazions sensibilis.
+cfr-doorhanger-fission-header = Isolament dai sîts
+cfr-doorhanger-fission-primary-button = Va ben, capît
+    .accesskey = V
+cfr-doorhanger-fission-secondary-button = Plui informazions
+    .accesskey = P
 
 ## What's new: Cookies message
 
