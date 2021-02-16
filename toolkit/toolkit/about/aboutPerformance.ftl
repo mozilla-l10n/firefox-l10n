@@ -15,13 +15,18 @@ column-memory = Memoria
 ## Special values for the Name column
 
 ghost-windows = Llingüetes zarraes apocayá
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Precargóse: { $title }
 
 ## Values for the Type column
 
 type-tab = Llingüeta
+type-tracker = Rastrexador
 type-addon = Complementu
 type-browser = Restolador
 type-worker = Trabayador
+type-other = Otru tipu
 
 ## Values for the Energy Impact column
 ##
@@ -48,3 +53,13 @@ close-tab =
     .title = Zarrar la llingüeta
 show-addon =
     .title = Amosar nel xestor de complementos
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Mensaxes dende la carga: { $totalDispatches } ({ $totalDuration }ms)
+        Mensaxes nos últimos segundos: { $dispatchesSincePrevious } ({ $totalDuration }ms)
