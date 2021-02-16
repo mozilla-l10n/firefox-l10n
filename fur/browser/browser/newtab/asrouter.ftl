@@ -189,6 +189,17 @@ cfr-doorhanger-firefox-send-ok-button = Prove { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Viôt lis protezions
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Siere
+    .accesskey = S
+cfr-doorhanger-socialtracking-dont-show-again = No sta mostrâmi plui messaçs dal gjenar
+    .accesskey = N
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } al à fermât un social network dal spiâti aculì
+cfr-doorhanger-socialtracking-description = La tô riservatece e je impuartante. Cumò { -brand-short-name } al bloche lis spiadis dai “social media” plui comuns, limitant il cuantitatîf di dâts che a puedin tirâ dongje su ce che tu fasis in rêt.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } al à blocât un rilevadôr di stamp numeric su cheste pagjine
+cfr-doorhanger-fingerprinters-description = La tô riservatece e je impuartante. Cumò { -brand-short-name } al bloche i rilevadôrs di stamp numeric, che a colezionin tocs di informazions che si puedin identificâ in maniere univoche sui tiei dispositîfs, in mût di spiâti.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } al à blocât un minadôr di criptomonede su cheste pagjine
 
 ## Enhanced Tracking Protection Milestones
 
