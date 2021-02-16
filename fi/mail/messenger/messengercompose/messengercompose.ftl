@@ -7,11 +7,9 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Poista { $type } -kenttä
-
 #   $type (String) - the type of the addressing row
 remove-address-row-type-label =
     .tooltiptext = Poista { $type }-kenttä
-
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -20,7 +18,6 @@ address-input-type-aria-label =
         [one] { $type } ja yksi osoite, valitse se vasemmalla nuolinäppäimellä.
        *[other] { $type } ja { $count } osoitetta, valitse ne vasemmalla nuolinäppäimellä.
     }
-
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -28,23 +25,22 @@ pill-aria-label =
         [one] { $email }: muokkaa painamalla Enter, poista painamalla Delete.
        *[other] { $email }, 1/{ $count }: muokkaa painamalla Enter, poista painamalla Delete.
     }
-
+#   $email (String) - the email address
+pill-tooltip-invalid-address = { $email } ei ole kelvollinen sähköpostiosoite
+#   $email (String) - the email address
+pill-tooltip-not-in-address-book = { $email } ei ole osoitekirjassasi
 pill-action-edit =
     .label = Muokkaa osoitetta
     .accesskey = M
-
 pill-action-move-to =
     .label = Siirä vastaanottajaksi
     .accesskey = S
-
 pill-action-move-cc =
     .label = Siirrä kopion vastaanottajaksi
     .accesskey = k
-
 pill-action-move-bcc =
     .label = Siirrä piilokopion vastaanottajaksi
     .accesskey = p
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -53,7 +49,6 @@ attachment-bucket-count =
            *[other] { $count } liitettä
         }
     .accesskey = m
-
 #   $count (Number) - the number of attachments in the attachment bucket
 attachments-placeholder-tooltip =
     .tooltiptext =
@@ -61,11 +56,9 @@ attachments-placeholder-tooltip =
             [1] { $count } liite
            *[other] { $count } liitettä
         }
-
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
-
 button-return-receipt =
     .label = Vastaanottokuittaus
     .tooltiptext = Pyydä tämän viestin vastaanottokuittausta
