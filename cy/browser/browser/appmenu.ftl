@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Rheoli Hanes
+appmenu-reopen-all-tabs = Ailagor Pob Tab
+appmenu-reopen-all-windows = Ailagor Pob Ffenestr
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Gwirio am Ddiweddariadau…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Cyfaddasu'r Bar Offer…
+appmenu-developer-tools-subheader = Offer y Porwr

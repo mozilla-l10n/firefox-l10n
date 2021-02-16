@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Tabiau Wedi eu Cau'n Ddiweddar
 menu-history-undo-window-menu =
     .label = Ffenestri wedi eu Cau yn Ddiweddar
+menu-history-reopen-all-tabs = Ailagor Pob Tab
+menu-history-reopen-all-windows = Ailagor Pob Ffenestr
 
 ## Bookmarks Menu
 

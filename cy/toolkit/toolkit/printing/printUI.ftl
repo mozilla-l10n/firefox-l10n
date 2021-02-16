@@ -43,6 +43,11 @@ printui-scale-pcent = Graddfa
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Argraffu dwy ochr
 printui-duplex-checkbox = Argraffu ar y ddwy ochr
+printui-two-sided-printing-off = Wedi diffodd
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Fflipio ar ymyl ochr
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Fflipio ar ymyl uchaf
 # Section title for miscellaneous print options
 printui-options = Dewisiadau
 printui-headers-footers-checkbox = Argraffu penynnau a throedynnau

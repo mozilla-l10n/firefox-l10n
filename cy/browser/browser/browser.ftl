@@ -358,6 +358,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Chwarae
 browser-tab-audio-muted = Tewi
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = YN CHWARAE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = WEDI TEWI
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AWTOCHWARAE WEDI'I RWYSTRO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = LLUN-MEWN-LLUN
 
 ## Bookmarks toolbar items
 
