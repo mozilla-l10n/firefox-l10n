@@ -190,12 +190,14 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } dan semua peringatan pembobolan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.Ini akan menghapus semua info masuk yang Anda simpan ke { -brand-short-name } di semua perangkat yang disinkronkan ke { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pelanggaran yang muncul di sini. Anda tidak akan dapat mengurungkan tindakan ini.
-       *[other] Ini akan menghapus semua info masuk yang Anda simpan pada { -brand-short-name } di semua perangkat yang tersinkronisasi dengan { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pembobolan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
+        [1] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } di semua perangkat yang disinkronkan ke { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pembobolan yang muncul di sini. Anda tidak akan dapat mengurungkan tindakan ini.
+       *[other] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } di semua perangkat yang disinkronkan ke { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pembobolan yang muncul di sini. Anda tidak akan dapat mengurungkan tindakan ini.
     }
 about-logins-confirm-export-dialog-title = Ekspor info masuk dan sandi
 about-logins-confirm-export-dialog-message = Kata sandi Anda akan disimpan sebagai teks biasa yang bisa dibaca (contoh: P@sw0rd) sehingga siapa pun yang dapat membuka berkas yang Anda ekspor akan bisa membacanya.
 about-logins-confirm-export-dialog-confirm-button = Ekspor…
+about-logins-alert-import-title = Proses Impor Selesai
+about-logins-alert-import-message = Lihat ringkasan detail impor
 confirm-discard-changes-dialog-title = Buang perubahan yang belum disimpan?
 confirm-discard-changes-dialog-message = Semua perubahan yang belum disimpan akan hilang.
 confirm-discard-changes-dialog-confirm-button = Hapus Perubahan
@@ -257,11 +259,50 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokumen CSV
        *[other] Berkas CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Berkas TSV
+       *[other] Berkas TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Proses Impor Selesai
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Info masuk baru ditambahkan:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Info masuk yang ada diperbarui:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Info masuk ganda ditemukan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(tidak diimpor)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Kesalahan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(tidak diimpor)</span>
+    }
+about-logins-import-dialog-done = Selesai
+about-logins-import-dialog-error-title = Kesalahan Impor
+about-logins-import-dialog-error-conflicting-values-title = Nilai-Nilai yang Tidak Sama untuk Sebuah Info Masuk
+about-logins-import-dialog-error-conflicting-values-description = Misalnya: ada beberapa nama pengguna, kata sandi, URL, dll. untuk sebuah info masuk.
+about-logins-import-dialog-error-file-format-title = Masalah Format File
+about-logins-import-dialog-error-file-format-description = Tajuk kolom salah atau hilang. Pastikan berkas tersebut menyertakan kolom nama pengguna, kata sandi, dan URL.
+about-logins-import-dialog-error-file-permission-title = Tidak Dapat Membaca Berkas
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } tidak memiliki izin untuk membaca berkas. Coba ubah izin berkas.
+about-logins-import-dialog-error-unable-to-read-title = Tidak Dapat Mengurai Berkas
+about-logins-import-dialog-error-unable-to-read-description = Pastikan Anda memilih file CSV atau TSV.
+about-logins-import-dialog-error-no-logins-imported = Tidak ada info masuk yang diimpor
+about-logins-import-dialog-error-learn-more = Pelajari lebih lanjut
+about-logins-import-dialog-error-try-again = Coba Lagi…
+about-logins-import-dialog-error-cancel = Batalkan
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Laporan Ringkasan Impor

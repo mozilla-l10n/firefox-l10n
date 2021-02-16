@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Jendela Baru
 appmenuitem-new-private-window =
     .label = Jendela Mode Pribadi Baru
+appmenuitem-passwords =
+    .label = Kata Sandi
+appmenuitem-extensions-and-themes =
+    .label = Ekstensi dan Tema
+appmenuitem-find-in-page =
+    .label = Temukan di Halaman…
+appmenuitem-more-tools =
+    .label = Alat Lainnya
+appmenuitem-exit =
+    .label = Keluar
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Pengaturan
 
 ## Zoom and Fullscreen Controls
 
@@ -46,6 +60,19 @@ whatsnew-panel-footer-checkbox =
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
+
+profiler-popup-reveal-description-button =
+    .aria-label = Tampilkan informasi lebih lanjut
+profiler-popup-description-title =
+    .value = Rekam, analisis, bagikan
+profiler-popup-description = Berkolaborasi dalam masalah kinerja dengan mempublikasikan profil untuk dibagikan dengan tim Anda.
+profiler-popup-learn-more = Pelajari lebih lanjut
+profiler-popup-settings =
+    .value = Pengaturan
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Edit Pengaturan…
+
+## History panel
 
 
 ## Help panel
@@ -95,4 +122,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
