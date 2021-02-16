@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Tab yang Baru Saja Ditutup
 menu-history-undo-window-menu =
     .label = Jendela yang Baru Saja Ditutup
+menu-history-reopen-all-tabs = Buka Ulang Semua Tab
+menu-history-reopen-all-windows = Buka Ulang Semua Jendela
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Pintasan Papan Ketik
     .accesskey = K
+menu-get-help =
+    .label = Dapatkan Bantuan
+    .accesskey = B
 menu-help-troubleshooting-info =
     .label = Informasi Pemecahan Masalah…
     .accesskey = M
@@ -339,3 +344,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ini bukan situs tipuan…
     .accesskey = d
+menu-help-check-for-update =
+    .label = Periksa Versi Baru…
+    .accesskey = V

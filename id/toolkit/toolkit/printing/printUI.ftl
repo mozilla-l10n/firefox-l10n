@@ -16,14 +16,9 @@ printui-page-range-custom = Ubahsuai
 printui-page-range-label = Halaman
 printui-page-range-picker =
     .aria-label = Pilih rentang halaman
-printui-page-custom-range =
+printui-page-custom-range-input =
     .aria-label = Masukkan rentang halaman khusus
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Dari
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = ke
+    .placeholder = mis. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Salinan
 printui-orientation = Orientasi
@@ -37,14 +32,22 @@ printui-less-settings = Beberapa pengaturan
 printui-paper-size-label = Ukuran kertas:
 # Section title (noun) for the print scaling options
 printui-scale = Skala
-printui-scale-fit-to-page = Sesuaikan ke halaman
 printui-scale-fit-to-page-width = Sesuaikan dengan lebar halaman
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Skala
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Pencetakan dua sisi
+printui-duplex-checkbox = Cetak di kedua sisi
+printui-two-sided-printing-off = Nonaktif
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Balik di sisi samping
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Balik di sisi atas
 # Section title for miscellaneous print options
 printui-options = Opsi
 printui-headers-footers-checkbox = Cetak kepala dan kaki
 printui-backgrounds-checkbox = Cetak latar
+printui-selection-checkbox = Hanya cetak yang dipilih
 printui-color-mode-label = Mode warna
 printui-color-mode-color = Warna
 printui-color-mode-bw = Hitam putih
@@ -52,15 +55,30 @@ printui-margins = Margin
 printui-margins-default = Baku
 printui-margins-min = Minimum
 printui-margins-none = Tidak ada
+printui-margins-custom-inches = Khusus (inci)
+printui-margins-custom-top = Atas
+printui-margins-custom-top-inches = Atas (inci)
+printui-margins-custom-bottom = Bawah
+printui-margins-custom-bottom-inches = Bawah (inci)
+printui-margins-custom-left = Kiri
+printui-margins-custom-left-inches = Kiri (inci)
+printui-margins-custom-right = Kanan
+printui-margins-custom-right-inches = Kanan (inci)
 printui-system-dialog-link = Cetak menggunakan dialog sistem…
 printui-primary-button = Cetak
 printui-primary-button-save = Simpan
 printui-cancel-button = Batal
+printui-close-button = Tutup
 printui-loading = Mempersiapkan Pratinjau
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Pratinjau Cetak
+printui-pages-per-sheet = Halaman per lembar
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Mencetak…
+printui-print-progress-indicator-saving = Menyimpan…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -81,6 +99,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Skala harus berupa angka antara 10 dan 200
+printui-error-invalid-margin = Masukkan margin yang valid untuk ukuran kertas yang dipilih.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rentang harus berupa angka antara 1 dan { $numPages }
