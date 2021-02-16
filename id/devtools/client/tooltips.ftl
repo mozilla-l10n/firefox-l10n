@@ -27,6 +27,10 @@ inactive-css-not-display-block-on-floated = Nilai <strong>display</strong> telah
 inactive-css-property-is-impossible-to-override-in-visited = Tidak mungkin menimpa <strong>{ $property }</strong> karena pembatasan <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan elemen dengan posisi.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena <strong>overflow:hidden</strong> tidak diatur.
+inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena nilai <strong>outline-style</strong> adalah <strong>auto</strong> atau <strong>none</strong>.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> tidak berpengaruh pada elemen tabel internal kecuali sel tabel.
+inactive-css-not-table = <strong>{ $property }</strong> tidak berpengaruh pada elemen ini karena bukan tabel.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,3 +57,11 @@ inactive-text-overflow-when-no-overflow-fix = Coba tambahkan <strong>overflow:hi
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> tidak didukung pada peramban berikut:
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> adalah properti eksperimental yang sekarang tidak digunakan lagi oleh standard W3C. Properti ini tidak didukung di peramban berikut:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> adalah properti eksperimental yang sekarang tidak digunakan lagi oleh standard W3C.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> adalah properti eksperimental yang sekarang tidak digunakan lagi oleh standard W3C. Properti ini tidak didukung di peramban berikut:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> adalah properti eksperimental yang sekarang tidak digunakan lagi oleh standard W3C.
+css-compatibility-experimental-message = <strong>{ $property }</strong> adalah properti eksperimental. Properti ini tidak didukung di peramban berikut:
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> adalah properti eksperimental.
+css-compatibility-learn-more-message = <span data-l10n-name="link">Pelajari lebih lanjut</span> tentang <strong>{ $rootProperty }</strong>

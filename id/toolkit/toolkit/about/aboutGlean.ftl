@@ -6,6 +6,7 @@
 ### "Glean" and "Glean SDK" should remain in English.
 
 about-glean-page-title = Tentang Glean
+about-glean-description = <a data-l10n-name="glean-sdk-doc-link">SDK Glean</a> merupakan pustaka pengumpulan data yang digunakan dalam produk-produk Mozilla. Halaman ini diperuntukkan bagi pengembang dan penguji yang membutuhkan perlu <a data-l10n-name="fog-debug-doc-link">mengonfigurasi status debug dan pencatatan dalam SDK Glean</a>.
 about-glean-warning = Menyalahgunakan antarmuka ini dapat membuat { -brand-short-name } mogok.
 tag-pings-label = Tandai semua ping yang dikirim dengan tag ini
 log-pings-label = Catat muatan ping sebelum mengirim?
