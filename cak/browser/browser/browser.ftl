@@ -565,6 +565,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Tewüx ri Kikajtz'ik taq Yaketal
            *[other] Titz'et rukatz'ik taq yaketal
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Tewäx Rusamajib'al Yaketal
+           *[other] Tik'ut Rusamajib'al Yaketal
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -590,6 +596,9 @@ bookmarks-toolbar-placeholder =
     .title = Ruch'akulal taq kiyaketal cholsamajib'äl
 bookmarks-toolbar-placeholder-button =
     .label = Ruch'akulal taq kiyaketal cholsamajib'äl
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Titz'aqatisäx Ruwi' pa Yaketal
 
 ## Library Panel items
 

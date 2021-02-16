@@ -206,11 +206,16 @@ cfr-doorhanger-cryptominers-description = Nïm ri awichinanem. { -brand-short-na
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (String) - The date we began recording the count of blocked trackers
+#   $date (Number) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] ¡{ -brand-short-name } xeruq'ät k'ïy <b>{ $blockedCount }</b> taq ojqanela' pa { $date }!
        *[other] ¡{ -brand-short-name } xeruq'ät k'ïy <b>{ $blockedCount }</b> taq ojqanela' pa { $date }!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } xq'at pa <b>{ $blockedCount }</b> ojqanel { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } xeq'at pa <b>{ $blockedCount }</b> ojqanela' { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Titzet Ronojel
     .accesskey = t
@@ -294,3 +299,6 @@ cfr-whatsnew-supercookies-body = Ri taq ajk'amaya'l ruxaq pan ewäl yetikïr nik
 
 cfr-whatsnew-bookmarking-header = Utziläj taq yaketal
 cfr-whatsnew-bookmarking-body = Man k'ayew ta ye'oqäx ri jeb'ël taq ruxaq. { -brand-short-name } nunataj wakami ri jeb'ël kik'ojlib'al ri yakon taq ayaketal, yeruk'üt ri kikajtz'ik kisamajib'al yaketal pa ri k'ak'a' ruwi' chuqa' anin yatok pa ri ch'aqa' chik taq ayaketal rik'in jun rumolwuj rukajtz'ik samajib'äl.
+
+## What's new: Cross-site cookie tracking
+
