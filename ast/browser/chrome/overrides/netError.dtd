@@ -13,17 +13,31 @@
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Nun s'atopó'l sirvidor">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Si la direición ye correuta, equí tienes tres coses que pues probar:</strong>
+<ul>
+  <li>Volvi tentalo dempués.</li>
+  <li>Comprueba la conexón a internet.</li>
+  <li>Si tas conectáu mas pente un tornafuéu, comprueba que &brandShortName; tien permisu p'acceder a la web.</li>
+</ul>
+">
 
 
 
 
+<!ENTITY captivePortal.longDesc2 "
+<p>Has aniciar sesión nesta rede enantes de poder acceder a internet.</p>
+">
 
 
+<!ENTITY malformedURI.pageTitle "La URL nun ye válida">
 
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 
 
@@ -43,6 +57,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
+<!ENTITY certerror.expiredCert.sts.secondPara "Ye probable que'l certificáu del sitiu web caducare, lo qu'evita que &brandShortName; se conecte con seguranza.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedo facer?">
 
@@ -53,19 +68,24 @@ was trying to connect. -->
 
 
 
+<!ENTITY securityOverride.exceptionButton1Label "Aceptar el riesgu y siguir">
 
 
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!ENTITY certerror.copyToClipboard.label "Copiar el testu al cartafueyu">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
 
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si tas nuna rede corporativa, pue ponete en contautu col departamentu d'informática.">
 
 
 
+<!ENTITY enableTls10.note "TLS 1.0 and TLS 1.1 van desactivase dafechu nes versiones futures.">
+<!ENTITY enableTls10.label "Activar TLS 1.0 y 1.1">
 
 <!ENTITY networkProtocolError.longDesc "<p>La páxina que tentes de ver nun pue amosase porque detectóse un fallu nel protocolu de rede.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">

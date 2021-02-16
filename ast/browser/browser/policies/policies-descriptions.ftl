@@ -28,6 +28,7 @@ policy-DisableAppUpdate = Evita que'l restolador s'anueve.
 policy-DisableBuiltinPDFViewer = Desactiva PDF.js, el visor de PDFs integráu en { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Evita que l'axente del restolador predetermináu tome nenguna aición. Namás aplicable en Windows, les demás plataformes nun tienen l'axente.
 policy-DisableDeveloperTools = Bloquia l'accesu a les ferramientes de desendolcu.
+policy-DisableFeedbackCommands = Desactiva los comandos del menú «Ayuda» pa unviar opiniones: «Opinar» y «Informar de que'l sitiu ye engañosu».
 policy-DisableFirefoxAccounts = Desactiva los servicios basaos en { -fxaccount-brand-name }, incluyíu Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactiva la carauterística de Firefox Screenshots.
