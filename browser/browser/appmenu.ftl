@@ -21,6 +21,16 @@ appmenuitem-passwords =
     .label = პაროლები
 appmenuitem-extensions-and-themes =
     .label = გაფართოებები და თემები
+appmenuitem-find-in-page =
+    .label = პოვნა გვერდზე...
+appmenuitem-more-tools =
+    .label = მეტი ხელსაწყო
+appmenuitem-exit =
+    .label = გასვლა
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = პარამეტრები
 
 ## Zoom and Fullscreen Controls
 
@@ -90,9 +100,15 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = ისტორიის მართვა
+appmenu-reopen-all-tabs = ყველა ჩანართის ხელახლა გახსნა
+appmenu-reopen-all-windows = ყველა ფანჯრის ხელახლა გახსნა
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } დახმარება
 appmenu-about =
     .label = { -brand-shorter-name } შესახებ
     .accesskey = შ
@@ -108,8 +124,11 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = კლავიატურის მალსახმობები
     .accesskey = კ
+appmenu-get-help =
+    .label = დახმარება
+    .accesskey = დ
 appmenu-help-troubleshooting-info =
-    .label = გაუმართაობის აღმოფხვრა
+    .label = გაუმართავობის აღმოფხვრა
     .accesskey = ფ
 appmenu-help-taskmanager =
     .label = ამოცანათა მმართველი
@@ -144,3 +163,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = ხელსაწყოთა ზოლის მორგება...
+appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
