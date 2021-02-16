@@ -241,9 +241,11 @@ cfr-whatsnew-passwords-icon-alt = Icone di une clâf pe password vulnerabile
 
 cfr-whatsnew-pip-fullscreen-header = Puarte il picture-in-picture a plen visôr
 cfr-whatsnew-pip-fullscreen-body = Cuant che tu fasis vignî fûr un video suntun barcon flotant, tu puedis fâ dopli clic su chel barcon par fâlu lâ a plen visôr.
+cfr-whatsnew-pip-fullscreen-icon-alt = Icone dal picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-whatsnew-protections-header = Protezions a voglade
 
 ## Better PDF message
 
