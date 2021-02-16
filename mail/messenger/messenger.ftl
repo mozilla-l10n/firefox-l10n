@@ -19,3 +19,6 @@ folder-toolbar-hide-toolbar-toolbarbutton =
 show-all-folders-label =
     .label = Kaikki kansiot
     .accesskey = K
+show-smart-folders-label =
+    .label = Yhdistetyt kansiot
+    .accesskey = Y
