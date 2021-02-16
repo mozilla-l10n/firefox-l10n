@@ -459,7 +459,7 @@ urlbar-result-action-before-tabtosearch-web = Tekan Tab untuk mencari dengan { $
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-before-tabtosearch-other = Tekan Tab untuk mencari dengan { $engine }
+urlbar-result-action-before-tabtosearch-other = Tekan Tab untuk mencari { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).

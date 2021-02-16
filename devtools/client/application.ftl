@@ -81,6 +81,8 @@ manifest-view-header = Manifes Aplikasi
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Anda perlu menambahkan app manifest untuk diperiksa di sini. <a>Pelajari lebih lanjut</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Tidak ada manifes aplikasi web yang terdeteksi
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro-link = Pelajari cara menambahkan manifest
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
