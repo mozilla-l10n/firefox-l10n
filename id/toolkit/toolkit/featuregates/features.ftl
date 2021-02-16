@@ -2,11 +2,33 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-masonry2 =
+    .label = CSS: Masonry Layout
 experimental-features-css-masonry-description = Mengaktifkan dukungan untuk fitur Layout CSS Masonry eksperimental. Lihat <a data-l10n-name="explainer">penjelasan</a> untuk mendapatkan deskripsi fitur yang lebih lengkap. Untuk memberikan umpan balik, silakan berkomentar di <a data-l10n-name="w3c-issue">isu GitHub ini</a> atau <a data-l10n-name="bug">bug ini</a>.
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-gpu2 =
+    .label = API Web: WebGPU
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = API Web: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: Constructable Stylesheet
+experimental-features-devtools-color-scheme-simulation =
+    .label = Alat Pengembang: Simulasi Skema Warna
+experimental-features-devtools-execution-context-selector =
+    .label = Alat Pengembang: Pemilih Konteks Eksekusi
+experimental-features-devtools-compatibility-panel =
+    .label = Alat Pengembang: Panel Kompabilitas
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Kuki: SameSite=Lax secara baku
@@ -20,3 +42,9 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Kuki d
 experimental-features-abouthome-startup-cache =
     .label = tembolok awal about:home
 experimental-features-abouthome-startup-cache-description = Tembolok untuk dokumen about:home awal yang dimuat secara baku pada saat memulai. Tujuan dari tembolok ini adalah untuk meningkatkan kinerja proses mulai.
+experimental-features-print-preview-tab-modal =
+    .label = Desain Ulang Pratinjau Cetak
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-cookie-samesite-schemeful =
+    .label = Kuki: SameSite Berskema
