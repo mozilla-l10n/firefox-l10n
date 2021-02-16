@@ -73,6 +73,10 @@ serviceworker-empty-suggestions-aboutdebugging = Periksa Service Workers dari do
 serviceworker-empty-intro2 = TIdak ada service worker ditemukan
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Pelajari lebih lanjut
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Jika halaman saat ini harusnya berisi sebuah service worker, Anda dapat melihat kesalahannya di <a>Konsol</a> atau melihat langkah-langkah pendaftaran service worker di <span>Debugger</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Lihat service worker dari domain lain

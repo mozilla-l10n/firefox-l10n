@@ -176,6 +176,7 @@ language-name-st = Sotho, Selatan
 language-name-su = Sudan
 language-name-sv = Swedia
 language-name-sw = Swahili
+language-name-szl = Silesia
 language-name-ta = Tamil
 language-name-te = Telugu
 language-name-tg = Tajik
