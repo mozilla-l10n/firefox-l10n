@@ -293,6 +293,7 @@ identity-https-only-info-turn-off2 = Jika laman terlihat bermasalah, Anda mungki
 identity-https-only-info-no-upgrade = Tidak dapat meningkatkan koneksi dari HTTP.
 identity-permissions =
     .value = Izin
+identity-permissions-storage-access-header = Kuki lintas situs
 identity-permissions-reload-hint = Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.
 identity-permissions-empty = Anda belum memberikan izin khusus apa pun untuk situs ini.
 identity-clear-site-data =
@@ -338,9 +339,23 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Memutar
+browser-tab-audio-muted = Disenyapkan
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = MEMUTAR
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = DISENYAPKAN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = PUTAR OTOMATIS DIBLOKIR
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = GAMBAR DALAM GAMBAR
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Impor markah…
+    .tooltiptext = Impor markah dari peramban lain ke { -brand-short-name }.
+bookmarks-toolbar-empty-message = Untuk akses cepat, tempatkan markah Anda di sini pada bilah alat markah. <a data-l10n-name="manage-bookmarks">Kelola markah…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -495,6 +510,13 @@ pointerlock-warning-no-domain = Dokumen ini memiliki kendali atas pointer Anda. 
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Sebagian dari laman ini mogok. </strong>Untuk memberi tahu { -brand-product-name } tentang masalah ini dan memperbaikinya lebih cepat, harap kirimkan laporan.
+crashed-subframe-learnmore =
+    .label = Pelajari Lebih Lanjut
+    .accesskey = P
+crashed-subframe-submit =
+    .label = Kirimkan Laporan
+    .accesskey = K
 
 ## Bookmarks panels, menus and toolbar
 
@@ -502,6 +524,10 @@ bookmarks-show-all-bookmarks =
     .label = Tampilkan Semua Markah…
 bookmarks-recent-bookmarks =
     .value = Baru Saja Dibuat Markah
+bookmarks-manage-bookmarks =
+    .label = Kelola Markah
+bookmarks-recent-bookmarks-panel =
+    .value = Markah Terbaru
 bookmarks-toolbar-chevron =
     .tooltiptext = Tampilkan markah lainnya
 bookmarks-sidebar-content =
@@ -525,6 +551,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Tampilkan Bilah Alat Markah
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Sembunyikan Bilah Alat Markah
+           *[other] Tampilkan Bilah Alat Markah
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Sembunyikan Bilah Alat Markah
@@ -555,6 +587,9 @@ bookmarks-toolbar-placeholder =
     .title = Nama Markah
 bookmarks-toolbar-placeholder-button =
     .label = Nama Markah
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Markahi Tab Saat Ini
 
 ## Library Panel items
 
@@ -564,6 +599,8 @@ library-bookmarks-bookmark-this-page =
     .label = Markahi Laman ini
 library-bookmarks-bookmark-edit =
     .label = Edit Markah Ini
+library-recent-activity-title =
+    .value = Aktivitas Terkini
 
 ## More items
 
