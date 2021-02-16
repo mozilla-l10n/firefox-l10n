@@ -293,9 +293,11 @@ cfr-whatsnew-search-shortcuts-body = Cumò, cuant che tu stâs scrivint un motô
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Protezion dai supercookies malevui
+cfr-whatsnew-supercookies-body = I sîts web a puedin di scuindon tacâ al tô navigadôr un “supercookie” che al pues stâti daûr ator pal web, ancje dopo che tu netis i tiei cookie. Cumò { -brand-short-name } al furnìs une protezion valevule cuintri i supercookies, cussì che ur impedìs di stâ daûr aes tôs ativitâts in rêt di un sît a chel altri.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Gjestion dai segnelibris miorade
 
 ## What's new: Cross-site cookie tracking
 
