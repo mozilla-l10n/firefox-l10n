@@ -386,7 +386,7 @@ addon-badge-line3 =
     .title = Ekstensi resmi yang dibuat oleh Mozilla, memenuhi standar keamanan dan kinerja
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-    .title = Ekstensi ini telah ditinjau untuk memenuhi standard keamanan dan kinerja kami
+    .title = Ekstensi ini telah ditinjau untuk memenuhi standar keamanan dan kinerja kami
     .aria-label = { addon-badge-verified2.title }
 
 ##
