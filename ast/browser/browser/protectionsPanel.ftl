@@ -84,7 +84,7 @@ protections-panel-content-blocking-manage-settings =
     .label = Xestionar los axustes de la proteición
     .accesskey = X
 protections-panel-content-blocking-breakage-report-view =
-    .title = Informe d'un sitiu rotu
+    .title = Informe d'un sitiu estropiáu
 protections-panel-content-blocking-breakage-report-view-description = El bloquéu de ciertos rastrexadores pue causar problemes con dalgunos sitios web. Informar d'estos problemes ayuda a ameyorar { -brand-short-name } pa tol mundu. Poro, mandar esti informe va unviar a Mozilla la URL ya información tocante a los axustes del restolador. <label data-l10n-name="learn-more">Deprender más</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
