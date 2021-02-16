@@ -22,6 +22,7 @@ preloaded-tab = Precargóse: { $title }
 ## Values for the Type column
 
 type-tab = Llingüeta
+type-subframe = Somarcu
 type-tracker = Rastrexador
 type-addon = Complementu
 type-browser = Restolador
