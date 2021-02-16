@@ -8,3 +8,18 @@
 menu-view-charset =
     .label = Tekstin merkistö
     .accesskey = T
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Roskapostia
+    .tooltiptext = Merkitse valitut viestit roskapostiksi
+toolbar-not-junk-button =
+    .label = Ei roskapostia
+    .tooltiptext = Poista roskapostimerkintä valituilta viesteiltä
+toolbar-delete-button =
+    .label = Poista
+    .tooltiptext = Poista valitut viestit tai kansio
+toolbar-undelete-button =
+    .label = Peruuta poistaminen
+    .tooltiptext = Peruuta valittujen viestien poistaminen
