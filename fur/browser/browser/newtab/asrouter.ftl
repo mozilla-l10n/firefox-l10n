@@ -282,12 +282,17 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustrazion di un cookie blocât
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Plui controi multimediâi
+cfr-whatsnew-media-keys-body = Riprodûs e met in pause l'audio o il video dret de tô tastiere o des scufis, rindint facil controlâ i contignûts multimediâi di une altre schede, program o adiriture cuant che il to computer al è blocât. Tu puedis ancje spostâti tra lis liniis/tocs doprant i tascj indenant e indaûr.
+cfr-whatsnew-media-keys-button = Impare cemût
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Cîr scurtis te sbare de direzion
+cfr-whatsnew-search-shortcuts-body = Cumò, cuant che tu stâs scrivint un motôr di ricercje o un sît specific te sbare de direzion, e vignarà fûr une scurte di colôr blu tra i sugjeriments de ricercje. Selezione chê scurte par completâ la ricercje, dret de sbare de direzion.
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Protezion dai supercookies malevui
 
 ## What's new: Better bookmarking
 
