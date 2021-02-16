@@ -294,6 +294,7 @@ identity-https-only-info-no-upgrade = Tidak dapat meningkatkan koneksi dari HTTP
 identity-permissions =
     .value = Izin
 identity-permissions-storage-access-header = Kuki lintas situs
+identity-permissions-storage-access-hint = Pihak berikut dapat menggunakan kuki lintas situs dan data situs saat Anda berada di situs ini.
 identity-permissions-reload-hint = Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.
 identity-permissions-empty = Anda belum memberikan izin khusus apa pun untuk situs ini.
 identity-clear-site-data =
