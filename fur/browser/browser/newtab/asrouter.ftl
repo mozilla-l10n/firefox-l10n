@@ -200,9 +200,27 @@ cfr-doorhanger-socialtracking-description = La tô riservatece e je impuartante.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } al à blocât un rilevadôr di stamp numeric su cheste pagjine
 cfr-doorhanger-fingerprinters-description = La tô riservatece e je impuartante. Cumò { -brand-short-name } al bloche i rilevadôrs di stamp numeric, che a colezionin tocs di informazions che si puedin identificâ in maniere univoche sui tiei dispositîfs, in mût di spiâti.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } al à blocât un minadôr di criptomonede su cheste pagjine
+cfr-doorhanger-cryptominers-description = La tô riservatece e je impuartante. Cumò { -brand-short-name } al bloche i minadôrs di criptomonede, che a doprin la potence di elaborazion dal to sisteme par tirâ fûr monede digjitâl.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Number) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] Dal/i { $date } fin cumò, { -brand-short-name } al à blocât plui di <b>{ $blockedCount }</b> spie (tracker)!
+       *[other] Dal/i { $date } fin cumò, { -brand-short-name } al à blocât plui di <b>{ $blockedCount }</b> spiis (trackers)!
+    }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] Dal/i { DATETIME($date, month: "long", year: "numeric") } fin cumò, { -brand-short-name } al à blocât plui di <b>{ $blockedCount }</b> spie (tracker)!
+       *[other] Dal/i { DATETIME($date, month: "long", year: "numeric") } fin cumò, { -brand-short-name } al à blocât plui di <b>{ $blockedCount }</b> spiis (trackers)!
+    }
+cfr-doorhanger-milestone-ok-button = Viôt dut
+    .accesskey = V
+cfr-doorhanger-milestone-close-button = Siere
+    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
