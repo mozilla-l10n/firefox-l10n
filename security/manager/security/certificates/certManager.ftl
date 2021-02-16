@@ -18,6 +18,7 @@ certmgr-mine = Anda memiliki sertifikat dari organisasi berikut ini yang mengena
 certmgr-remembered = Sertifikat ini digunakan untuk mengidentifikasi Anda ke situs web.
 certmgr-people = Anda memiliki sertifikat di berkas yang mengenali orang ini
 certmgr-servers = Anda memiliki sertifikat pada berkas yang bisa mengidentifikasi server berikut
+certmgr-server = Entri ini mengidentifikasi pengecualian kesalahan sertifikat server
 certmgr-ca = Anda memiliki sertifikat pada berkas yang mengidentifikasi otoritas sertifikat ini
 certmgr-detail-general-tab-title =
     .label = Umum
@@ -161,6 +162,10 @@ delete-ssl-cert-title =
     .title = Hapus Pengecualian untuk Sertifikat Server
 delete-ssl-cert-confirm = Yakin akan menghapus pengecualian ini?
 delete-ssl-cert-impact = Jika server dihapus dari pengecualian, Anda memulihkan pemeriksaan yang biasanya dilakukan untuk server tersebut dan mengharuskan server tersebut untuk menggunakan sertifikat yang valid.
+delete-ssl-override-title =
+    .title = Hapus Pengecualian untuk Sertifikat Server
+delete-ssl-override-confirm = Yakin akan menghapus pengecualian server ini?
+delete-ssl-override-impact = Jika server dihapus dari pengecualian, Anda mengembalikan pemeriksaan yang biasanya dilakukan untuk server tersebut dan mengharuskan server tersebut untuk menggunakan sertifikat yang valid.
 delete-ca-cert-title =
     .title = Hapus atau Tidak Lagi Mempercayai Sertifikat CA
 delete-ca-cert-confirm = Anda telah meminta untuk menghapus sertifikat CA ini. Untuk sertifikat bawaan, semua kepercayaan akan dihapus yang efeknya sama. Yakin ingin menghapus atau tidak lagi mempercayai sertifikat ini?
@@ -208,6 +213,10 @@ cert-not-verified-issuer-unknown = Tidak dapat memeriksa sertifikat ini karena p
 cert-not-verified-ca-invalid = Tidak dapat memeriksa sertifikat karena sertifikat CA tidak sah.
 cert-not-verified_algorithm-disabled = Tidak dapat memeriksa sertifikat ini karena ditandatangani menggunakan algoritma tanda tangan yang dinonaktifkan dengan alasan algoritmanya tidak aman.
 cert-not-verified-unknown = Tidak dapat memeriksa sertifikat ini karena alasan yang tidak diketahui.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Tidak mengirim sertifikat klien
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Tidak Disimpan)
 
 ## Used to show whether an override is temporary or permanent
 
