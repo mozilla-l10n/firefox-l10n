@@ -28,6 +28,7 @@ primary-password-dialog =
     .title = Contraseña primaria
 set-password-old-password = Contraseña actual:
 set-password-new-password = Contraseña nueva:
+set-password-reenter-password = Confirmación de la contraseña:
 set-password-meter = Mididor de la calidá de la contraseña
 set-password-meter-loading = Cargando
 master-password-admin = L'alministrador rique qu'afites una contraseña maestra pa guardar les contraseñes.
