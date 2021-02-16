@@ -73,12 +73,40 @@ profiler-popup-settings =
     .value = Pengaturan
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Edit Pengaturan…
+profiler-popup-disabled = Profiler saat ini dimatikan, kemungkinan besar karena jendela Penjelajahan Pribadi terbuka.
+profiler-popup-recording-screen = Merekam…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Khusus
+profiler-popup-start-recording-button =
+    .label = Mulai Rekam
+profiler-popup-discard-button =
+    .label = Buang
+profiler-popup-capture-button =
+    .label = Tangkap
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Kelola Riwayat
+appmenu-reopen-all-tabs = Buka Ulang Semua Tab
+appmenu-reopen-all-windows = Buka Ulang Semua Jendela
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Bantuan { -brand-shorter-name }
 appmenu-about =
     .label = Tentang { -brand-shorter-name }
     .accesskey = T
@@ -94,6 +122,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Pintasan Papan Ketik
     .accesskey = K
+appmenu-get-help =
+    .label = Dapatkan Bantuan
+    .accesskey = D
 appmenu-help-troubleshooting-info =
     .label = Informasi Pemecahan Masalah…
     .accesskey = M
@@ -125,6 +156,11 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Periksa Versi Baru…
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Ubahsuai Bilah Alat…
+appmenu-developer-tools-subheader = Alat Peramban

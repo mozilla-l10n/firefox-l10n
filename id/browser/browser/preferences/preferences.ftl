@@ -29,6 +29,8 @@ search-input-box =
            *[other] Temukan di Pengaturan
         }
 managed-notice = Peramban Anda dikelola oleh organisasi Anda.
+category-list =
+    .aria-label = Kategori
 pane-general-title = Umum
 category-general =
     .tooltiptext = { pane-general-title }
@@ -50,6 +52,9 @@ category-experimental =
 pane-experimental-subtitle = Lanjutkan dengan Kehati-hatian
 pane-experimental-search-results-header = Eksperimen { -brand-short-name }: Lanjutkan dengan Hati-hati
 pane-experimental-description = Mengubah pilihan konfigurasi tingkat lanjut dapat mempengaruhi kinerja atau keamanan { -brand-short-name } .
+pane-experimental-reset =
+    .label = Pulihkan Bawaan
+    .accesskey = B
 help-button-label = Dukungan { -brand-short-name }
 addons-button-label = Ekstensi & Tema
 focus-search =
@@ -414,6 +419,10 @@ browsing-picture-in-picture-toggle-enabled =
     .label = Aktifkan kontrol video gambar-dalam-gambar
     .accesskey = g
 browsing-picture-in-picture-learn-more = Pelajari lebih lanjut
+browsing-media-control =
+    .label = Kontrol media melalui papan ketik, headset, atau antarmuka virtual
+    .accesskey = K
+browsing-media-control-learn-more = Pelajari lebih lanjut
 browsing-cfr-recommendations =
     .label = Sarankan ekstensi seiring penjelajahan Anda
     .accesskey = r
@@ -477,6 +486,13 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Situs Teratas
 home-prefs-topsites-description = Situs yang sering Anda kunjungi
+home-prefs-topsites-by-option-sponsored =
+    .label = Situs Teratas yang Disponsori
+home-prefs-shortcuts-header =
+    .label = Pintasan
+home-prefs-shortcuts-description = Situs yang Anda simpan atau kunjungi
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Pintasan bersponsor
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -484,6 +500,7 @@ home-prefs-topsites-description = Situs yang sering Anda kunjungi
 home-prefs-recommended-by-header =
     .label = Disarankan oleh { $provider }
 home-prefs-recommended-by-description-update = Konten luar biasa dari seluruh web, dikuratori oleh { $provider }
+home-prefs-recommended-by-description-new = Konten luar biasa yang dikelola oleh { $provider }, bagian dari keluarga { -brand-product-name }
 
 ##
 
@@ -501,6 +518,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Unduhan Terbaru
 home-prefs-highlights-option-saved-to-pocket =
     .label = Laman Disimpan di { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Aktivitas terbaru
+home-prefs-recent-activity-description = Pilihan situs dan konten terbaru
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -508,6 +528,7 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-snippets-header =
     .label = Catatan Kecil
 home-prefs-snippets-description = Pembaruan dari { -vendor-short-name } dan { -brand-product-name }
+home-prefs-snippets-description-new = Kiat dan berita dari { -vendor-short-name } dan { -brand-product-name }
 home-prefs-sections-rows-option =
     .label = { $num } baris
 
@@ -857,6 +878,10 @@ sitedata-option-block-cross-site-trackers =
     .label = Pelacak lintas situs
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Pelacak lintas situs dan media sosial
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Kuki pelacak lintas situs — juga termasuk kuki media sosial
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Kuki lintas situs — juga termasuk kuki media sosial
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Pelacak media sosial dan lintas situs, dan mengisolasi kuki tersisa
 sitedata-option-block-unvisited =
@@ -891,9 +916,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tab terbuka
     .accesskey = T
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Pintasan
+    .accesskey = P
 addressbar-locbar-topsites-option =
     .label = Situs teratas
     .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Mesin pencari
+    .accesskey = p
 addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 
 ## Privacy Section - Content Blocking
@@ -901,6 +933,7 @@ addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 content-blocking-enhanced-tracking-protection = Perlindungan Pelacakan yang Ditingkatkan
 content-blocking-section-top-level-description = Pelacak mengikuti Anda berkeliling daring untuk mengumpulkan informasi tentang kebiasaan dan minat penelusuran Anda. { -brand-short-name } memblokir banyak pelacak dan skrip jahat lainnya.
 content-blocking-learn-more = Pelajari Lebih Lanjut
+content-blocking-fpi-incompatibility-warning = Anda menggunakan First Party Isolation (FPI), yang menimpa beberapa pengaturan kuki { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -922,6 +955,7 @@ content-blocking-etp-standard-desc = Seimbang untuk perlindungan dan kinerja. Ha
 content-blocking-etp-strict-desc = Perlindungan yang lebih kuat, tetapi dapat menyebabkan beberapa situs atau konten rusak.
 content-blocking-etp-custom-desc = Pilih pelacak dan skrip yang akan diblokir.
 content-blocking-private-windows = Melacak konten di Jendela Pribadi
+content-blocking-cross-site-cookies = Kuki lintas situs
 content-blocking-cross-site-tracking-cookies = Kuki pelacakan lintas situs
 content-blocking-cross-site-tracking-cookies-plus-isolate = Kuki pelacak lintas situs, dan isolasi kuki tersisa
 content-blocking-social-media-trackers = Pelacak media sosial
@@ -933,6 +967,7 @@ content-blocking-cryptominers = Penambang Kripto
 content-blocking-fingerprinters = Pelacak Sidik
 content-blocking-warning-title = Perhatian!
 content-blocking-and-isolating-etp-warning-description = Memblokir pelacak dan mengisolasi kuki dapat memengaruhi fungsionalitas beberapa situs. Muat ulang laman dengan pelacak untuk memuat semua konten.
+content-blocking-and-isolating-etp-warning-description-2 = Pengaturan ini mungkin menyebabkan beberapa situs web tidak menampilkan konten atau bekerja dengan baik. Jika situs rusak, Anda mungkin ingin menonaktifkan perlindungan pelacakan untuk situs tersebut untuk memuat semua konten.
 content-blocking-warning-learn-how = Pelajari caranya
 content-blocking-reload-description = Anda harus memuat ulang tab Anda untuk menerapkan perubahan ini.
 content-blocking-reload-tabs-button =

@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Laman:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } dari { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Laman terakhir
-
+printpreview-homearrow-button =
+    .title = Halaman pertama
+printpreview-previousarrow-button =
+    .title = Halaman sebelumnya
+printpreview-nextarrow-button =
+    .title = Halaman selanjutnya
+printpreview-endarrow-button =
+    .title = Halaman terakhir
