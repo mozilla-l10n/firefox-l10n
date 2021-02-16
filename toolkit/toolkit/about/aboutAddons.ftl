@@ -377,12 +377,17 @@ addon-detail-private-browsing-disallow = Jangan Izinkan
 addon-badge-recommended2 =
     .title = { -brand-product-name } hanya menyarankan ekstensi yang memenuhi standar keamanan dan kinerja kami.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Ekstensi ini dibuat oleh pembuat { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Kode ekstensi ini telah ditinjau untuk keselamatan
-    .aria-label = { addon-badge-verified.title }
+addon-badge-line2 =
+    .title = Ini adalah ekstensi resmi yang dibuat oleh pembuat { -brand-product-name }
+    .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Ekstensi resmi yang dibuat oleh Mozilla, memenuhi standar keamanan dan kinerja
+    .aria-label = { addon-badge-line3.title }
+addon-badge-verified2 =
+    .title = Ekstensi ini telah ditinjau untuk memenuhi standard keamanan dan kinerja kami
+    .aria-label = { addon-badge-verified2.title }
 
 ##
 
@@ -391,6 +396,9 @@ recent-updates-heading = Versi Terkini
 release-notes-loading = Memuat…
 release-notes-error = Maaf, galat terjadi ketika memuat catatan rilis.
 addon-permissions-empty = Ekstensi ini tidak memerlukan izin apa pun
+addon-permissions-required = Izin yang diperlukan untuk fungsi inti:
+addon-permissions-optional = Izin opsional untuk fungsi tambahan:
+addon-permissions-learnmore = Pelajari lebih lanjut tentang perizinan
 recommended-extensions-heading = Ekstensi yang Disarankan
 recommended-themes-heading = Tema yang Disarankan
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
