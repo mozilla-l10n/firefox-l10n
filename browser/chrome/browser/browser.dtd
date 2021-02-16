@@ -138,6 +138,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.welcome.label "Ve una llista de les llingüetes d'otros preseos de to.">
 
 <!ENTITY appMenuRecentHighlights.label "Destacóse de recién">
 
