@@ -176,6 +176,7 @@ language-name-st = Sotho Deheuol
 language-name-su = Sundaneg
 language-name-sv = Swedeg
 language-name-sw = Swahili
+language-name-szl = Silesaidd
 language-name-ta = Tamileg
 language-name-te = Telugu
 language-name-tg = Tajik
