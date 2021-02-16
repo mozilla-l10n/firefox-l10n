@@ -38,7 +38,7 @@
 <!ENTITY netOffline.longDesc2 "<p>El restolador ta trabayando nel mou ensin conexón y nun pue coneutase al elementu solicitáu.</p><ul><li>¿L'ordenador ta conectáu a una rede activa?</li><li>Primi «Retentar» pa cambiar pal mou con conexón y volver cargar la páxina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Fallu de la codificación del conteníu">
-<!ENTITY contentEncodingError.longDesc "<p>La páxina que tas tentando de ver nun pue amosase porque usa una forma de compresión que nun ye válida o nun se sofita.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>La páxina que tentes de ver nun pue amosase porque usa una forma de compresión que nun ye válida o nun se sofita.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
 
 <!ENTITY unsafeContentType.title "El tipu de ficheru ye inseguru">
 <!ENTITY unsafeContentType.longDesc "<ul>
@@ -67,7 +67,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>El sitiu respondió a la solicitú de rede d'un mou inesperáu y el restolador nun pue siguir.</p>">
 
 <!ENTITY nssFailure2.title "La conexón segura falló">
-<!ENTITY nssFailure2.longDesc2 "<p>La páxina que tas tentando de ver nun pue amosase porque nun se pudo verificar l'autenticidá de los datos recibíos.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>La páxina que tentes de ver nun pue amosase porque nun se pudo verificar l'autenticidá de los datos recibíos.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
 
 <!ENTITY nssBadCert.title "La conexón segura falló">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -86,7 +86,7 @@
 <!ENTITY xfoBlocked.longDesc "<p>El restolador evitó qu'esta páxina cargare d'esti mou porque esta tien una política X-Frame-Options que nun lo permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fallu de conteníu toyíu">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tas tentando ver nun pue amosase porque detectóse un fallu na tresmisión de los datos.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti fallu, por favor.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La páxina que tentes de ver nun pue amosase porque detectóse un fallu na tresmisión de los datos.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti fallu, por favor.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL Remotu">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema.</li></ul></p>">
@@ -99,4 +99,4 @@
 <!ENTITY blockedByPolicy.title "Bloquióse la páxina">
 
 <!ENTITY networkProtocolError.title "Fallu del protocolu de rede">
-<!ENTITY networkProtocolError.longDesc "<p>La páxina que tas tentando de ver nun pue amosase porque detectóse un fallu nel protocolu de rede.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>La páxina que tentes de ver nun pue amosase porque detectóse un fallu nel protocolu de rede.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
