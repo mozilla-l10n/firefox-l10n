@@ -5,10 +5,18 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Hebo un problema al cargar la páxina">
+<!ENTITY retry.label "Retentar">
+<!ENTITY returnToPreviousPage.label "Dir p'atrás">
+<!ENTITY returnToPreviousPage1.label "Dir p'atrás (aconséyase)">
+<!ENTITY viewCertificate.label "Ver el certificáu">
 
 <!-- Specific error messages -->
 
 
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.pageTitle "Nun s'atopó'l sirvidor">
 
 
 
@@ -21,8 +29,9 @@
 
 
 
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 
 
@@ -35,6 +44,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedo facer?">
 
 
 
@@ -58,3 +68,4 @@ was trying to connect. -->
 
 
 
+<!ENTITY networkProtocolError.longDesc "<p>La páxina que tentes de ver nun pue amosase porque detectóse un fallu nel protocolu de rede.</p><ul><li>Ponte en contautu colos propietarios del sitiu web pa informalos d'esti problema, por favor.</li></ul>">
