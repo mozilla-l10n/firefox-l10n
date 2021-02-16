@@ -275,9 +275,13 @@ cfr-doorhanger-fission-secondary-button = Plui informazions
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Protezion automatiche des tatichis sordinis di spionaç
+cfr-whatsnew-clear-cookies-body = Cualchi spie ti indrece su altris sîts web che in segret al met i cookies. Cumò { -brand-short-name } al nete in automatic chescj cookies cussì che nissun ti pues stâ daûr.
+cfr-whatsnew-clear-cookies-image-alt = Ilustrazion di un cookie blocât
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Plui controi multimediâi
 
 ## What's new: Search shortcuts
 
