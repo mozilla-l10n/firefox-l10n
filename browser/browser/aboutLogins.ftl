@@ -301,6 +301,33 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = تمّ الاستيراد
+about-logins-import-dialog-items-added =
+    { $count ->
+        [zero] <span>أُضيفت جلسة ولوج جديدة:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>أُضيفت جلسة ولوج جديدة:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>أُضيفت جلستا ولوج جديدان:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>أُضيفت جلسات ولوج جديدة:</span> <span data-l10n-name="count">{ $count }</span>
+        [many] <span>أُضيفت جلسات ولوج جديدة:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>أُضيفت جلسات ولوج جديدة:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [zero] <span>حُدّثت جلسة ولوج موجودة:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>حُدّثت جلسة ولوج موجودة:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>حُدّثت جلستا ولوج موجودتان:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>حُدّثت جلسات ولوج موجودة:</span> <span data-l10n-name="count">{ $count }</span>
+        [many] <span>حُدّثت جلسات ولوج موجودة:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>حُدّثت جلسات ولوج موجودة:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [zero] <span>وُجدت جلسة ولوج مكرّرة: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+        [one] <span>وُجدت جلسة ولوج مكرّرة: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+        [two] <span>وُجدت جلستا ولوج مكرّرتان: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستوردا)</span>
+        [few] <span>وُجدت جلسات ولوج مكرّرة: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+        [many] <span>وُجدت جلسات ولوج مكرّرة: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+       *[other] <span>وُجدت جلسات ولوج مكرّرة: </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(لم تُستورد)</span>
+    }
 about-logins-import-dialog-done = تمّ
 about-logins-import-dialog-error-title = عُطل أثناء الاستيراد
 about-logins-import-dialog-error-file-format-title = مشكلة في نسق الملف
@@ -311,7 +338,9 @@ about-logins-import-dialog-error-unable-to-read-title = تعذّر تحليل ا
 about-logins-import-dialog-error-unable-to-read-description = تأكّد من اختيار ملف CSV أو TSV.
 about-logins-import-dialog-error-no-logins-imported = لم تُستورد أيّ جلسات ولوج
 about-logins-import-dialog-error-learn-more = اطّلع على المزيد
+about-logins-import-dialog-error-try-again = أعِد المحاولة…
 about-logins-import-dialog-error-cancel = ألغِ
 
 ## Logins import report page
 
+about-logins-import-report-page-title = تقرير بملخّص الاستيراد
