@@ -246,9 +246,14 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icone dal picture-in-picture
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Protezions a voglade
+cfr-whatsnew-protections-body = Il cruscot des protezions al inclût i rapuarts di sintesi des violazions e la gjestion des passwords. Tu puedis cumò tignî di voli tropis violazions che tu âs risolt e viodi se une des tôs passwords salvadis e je stade cjapade dentri di une compromission di dâts.
+cfr-whatsnew-protections-cta-link = Viôt il cruscot des protezions
+cfr-whatsnew-protections-icon-alt = Icone dal scût
 
 ## Better PDF message
 
+cfr-whatsnew-better-pdf-header = Esperience miorade cui PDF
+cfr-whatsnew-better-pdf-body = Cumò i documents PDF si puedin vierzi daurman di { -brand-short-name }, tignint il to flus di lavôr sot man.
 
 ## DOH Message
 
