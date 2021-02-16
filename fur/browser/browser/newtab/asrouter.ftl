@@ -227,12 +227,20 @@ cfr-doorhanger-milestone-close-button = Siere
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Cree cun facilitât passwords siguris
+cfr-whatsnew-lockwise-body = Al è dificil pensâ a une password uniche e sigure par ogni account. Cuant che tu creis une password, selezione il cjamp password par doprâ une password sigure gjenerade di { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Icone di { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Ricêf avîs su passwords vulnerabilis
+cfr-whatsnew-passwords-body = I hackers a san che la int e torne a doprâ lis stessis passwords. Se tu âs doprât la stesse password su plui sîts, e une di chês e je stade cjapade dentri di une compromission, tu viodarâs un avîs su { -lockwise-brand-short-name } par cambiâ la tô password su chei sîts.
+cfr-whatsnew-passwords-icon-alt = Icone di une clâf pe password vulnerabile
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Puarte il picture-in-picture a plen visôr
+cfr-whatsnew-pip-fullscreen-body = Cuant che tu fasis vignî fûr un video suntun barcon flotant, tu puedis fâ dopli clic su chel barcon par fâlu lâ a plen visôr.
 
 ## Protections Dashboard message
 
