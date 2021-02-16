@@ -21,6 +21,7 @@ primary-password-dialog =
 set-password-old-password = Contraseña actual:
 set-password-new-password = Contraseña nueva:
 set-password-meter = Mididor de la calidá de la contraseña
+set-password-meter-loading = Cargando
 master-password-admin = L'alministrador rique qu'afites una contraseña maestra pa guardar les contraseñes.
 master-password-description = La contraseña maestra úsase pa protexer la información confidencial, como les contraseñes de los sitios, nesti preséu. Si la crees, va pidise una vegada per sesión cuando { -brand-short-name } recupere la información guardada que la contraseña protexe.
 master-password-warning = Asegúrate de recordar la contraseña maestra qu'afites, por favor. Si la escaeces, nun vas ser a acceder a la información que protexa.
