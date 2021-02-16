@@ -14,6 +14,7 @@ column-memory = Memoria
 
 ## Special values for the Name column
 
+ghost-windows = Llingüetes zarraes apocayá
 
 ## Values for the Type column
 
@@ -29,6 +30,8 @@ type-worker = Trabayador
 ##                     5.38 (medium), 105.38 (high)
 
 energy-impact-high = Altu ({ $value })
+energy-impact-medium = Mediu ({ $value })
+energy-impact-low = Baxu ({ $value })
 
 ## Values for the Memory column
 ##
