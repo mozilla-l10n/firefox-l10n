@@ -42,6 +42,7 @@ about-processes-gpu-process-name = GPU (processus { $pid })
 about-processes-vr-process-name = Réalité virtuelle (processus { $pid })
 about-processes-rdd-process-name = Décodeur de données (processus { $pid })
 about-processes-socket-process-name = Réseau (processus { $pid })
+about-processes-fork-server-process-name = Copie du serveur (processus { $pid })
 about-processes-preallocated-process-name = Préalloué (processus { $pid })
 about-processes-unknown-process-name = Autre ({ $type }, processus { $pid })
 # Process
