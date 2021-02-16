@@ -317,6 +317,8 @@ crashed-subframe-learnmore =
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Xestionar los marcadores
 bookmarks-recent-bookmarks-panel =
     .value = Marcadores de recién
 bookmarks-toolbar-chevron =
@@ -329,6 +331,12 @@ bookmarks-other-bookmarks-menu =
     .label = Otros marcadores
 bookmarks-mobile-bookmarks-menu =
     .label = Marcadores del móvil
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Anubrir la barra de los marcadores
+           *[other] Amosar la barra de los marcadores
+        }
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
