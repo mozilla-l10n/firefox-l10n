@@ -43,6 +43,9 @@ perftools-devtools-settings-label = Taq nuk'ulem
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Nichup ri ya'öl ruwäch rub'i' toq nitzijtäj ri ichinan okem pa k'amaya'l.
+    Ke'atz'apij ronojel ri ichinan taq tzuwäch richin nitzij chik ri ya'öl ruwäch rub'i'
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
