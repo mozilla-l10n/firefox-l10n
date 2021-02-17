@@ -176,6 +176,7 @@ language-name-st = sotho, déli
 language-name-su = szundanéz
 language-name-sv = svéd
 language-name-sw = szuahéli
+language-name-szl = Sziléziai
 language-name-ta = tamil
 language-name-te = telugu
 language-name-tg = tádzsik

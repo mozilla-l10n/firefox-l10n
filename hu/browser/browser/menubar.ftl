@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Nemrég bezárt lapok
 menu-history-undo-window-menu =
     .label = Nemrég bezárt ablakok
+menu-history-reopen-all-tabs = Összes lap újranyitása
+menu-history-reopen-all-windows = Összes ablak újranyitása
 
 ## Bookmarks Menu
 

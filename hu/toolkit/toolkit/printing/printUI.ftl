@@ -39,6 +39,11 @@ printui-scale-pcent = Méret
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Kétoldalas nyomtatás
 printui-duplex-checkbox = Nyomtatás mindkét oldalra
+printui-two-sided-printing-off = Ki
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Átfordítás a lap oldalsó szélén
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Átfordítás a lap felső szélén
 # Section title for miscellaneous print options
 printui-options = Beállítások
 printui-headers-footers-checkbox = Fejlécek és láblécek nyomtatása

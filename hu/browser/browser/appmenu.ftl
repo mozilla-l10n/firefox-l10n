@@ -98,6 +98,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Előzmények kezelése
+appmenu-reopen-all-tabs = Összes lap újranyitása
+appmenu-reopen-all-windows = Összes ablak újranyitása
+
 ## Help panel
 
 appmenu-help-header =
@@ -153,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Frissítések keresése…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Eszköztár testreszabása…
+appmenu-developer-tools-subheader = Böngészőeszközök
