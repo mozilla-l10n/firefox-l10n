@@ -40,7 +40,7 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Kuki d
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
-    .label = tembolok awal about:home
+    .label = Tembolok awal about:home
 experimental-features-abouthome-startup-cache-description = Tembolok untuk dokumen about:home awal yang dimuat secara baku pada saat memulai. Tujuan dari tembolok ini adalah untuk meningkatkan kinerja proses mulai.
 experimental-features-print-preview-tab-modal =
     .label = Desain Ulang Pratinjau Cetak
