@@ -28,11 +28,13 @@
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY col.name.label          "Sivɨ">
+<!ENTITY col.lastmodified.label  "Nuu nɨ'ɨ a nsama">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.accesskey  "I">
 
+<!ENTITY backButton.tooltip  "Xniko">
 
-
+<!ENTITY forwardButton.tooltip  "Kaka ichi nuu">
 
