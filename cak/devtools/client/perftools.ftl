@@ -37,6 +37,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Runimile wuper:
+perftools-custom-threads-label = Ketz'aqatisäx ichinan taq chij chi kib'i':
+perftools-devtools-threads-label = Taq chij:
+perftools-devtools-settings-label = Taq nuk'ulem
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
