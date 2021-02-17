@@ -149,6 +149,12 @@ onboarding-not-now-button-label = Jangan sekarang
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Bagus, Anda mendapat { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Sekarang dapatkan <img data-l10n-name="icon"/><b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Tambahkan Ekstensi
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)

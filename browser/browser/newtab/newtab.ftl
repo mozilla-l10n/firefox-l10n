@@ -8,6 +8,9 @@
 newtab-page-title = Tab Baru
 newtab-settings-button =
     .title = Ubahsuai laman Tab Baru Anda
+newtab-personalize-button-label = Personalisasikan
+    .title = Personalisasikan tab baru
+    .aria-label = Personalisasikan tab baru
 
 ## Search box component.
 

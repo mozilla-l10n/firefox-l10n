@@ -205,6 +205,10 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } telah memblokir lebih dari <b>{ $blockedCount }</b> pelacak sejak { $date }!
     }
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } memblokir lebih dari <b>{ $blockedCount }</b> pelacak sejak { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Lihat Semua
     .accesskey = L
 cfr-doorhanger-milestone-close-button = Tutup
@@ -254,6 +258,7 @@ cfr-doorhanger-doh-secondary-button = Nonaktifkan
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Privasi Anda penting. { -brand-short-name } sekarang mengisolasi (atau memasukkan ke kotak pasir) masing-masing situs, yang mempersulit peretas untuk mencuri kata sandi, nomor kartu kredit, dan informasi sensitif lainnya.
 cfr-doorhanger-fission-header = Isolasi Situs
 cfr-doorhanger-fission-primary-button = Oke, paham
     .accesskey = O
@@ -269,19 +274,25 @@ cfr-whatsnew-clear-cookies-image-alt = Ilustrasi kuki yang diblokir
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-header = Kontrol media lainnya
+cfr-whatsnew-media-keys-body = Putar dan jeda audio atau video langsung dari papan ketik atau headset Anda, sehingga mudah untuk mengontrol media dari tab atau program lain, atau bahkan ketika komputer Anda terkunci. Anda juga dapat berpindah antara trek dengan menggunakan tombol maju dan mundur.
 cfr-whatsnew-media-keys-button = Pelajari caranya
 
 ## What's new: Search shortcuts
 
 cfr-whatsnew-search-shortcuts-header = Pintasan pencarian di bilah alamat
+cfr-whatsnew-search-shortcuts-body = Sekarang, ketika Anda mengetikkan mesin pencari atau situs tertentu ke dalam bilah alamat, pintasan biru akan muncul dalam saran pencarian di bawah. Pilih pintasan untuk menyelesaikan pencarian Anda langsung dari bilah alamat.
 
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Perlindungan dari superkuki yang berbahaya
+cfr-whatsnew-supercookies-body = Situs web dapat menyimpan "superkuki" secara rahasia ke peramban Anda yang dapat mengikuti Anda di Web, bahkan setelah Anda membersihkan kuki. { -brand-short-name } sekarang menyediakan perlindungan yang kuat atas superkuki sehingga mereka tidak dapat digunakan untuk melacak aktivitas daring Anda dari satu situs ke situs lainnya.
 
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Markah yang lebih baik
+cfr-whatsnew-bookmarking-body = Lebih mudah melacak situs favorit Anda. { -brand-short-name } kini mengingat lokasi yang diinginkan untuk markah tersimpan, menampilkan bilah markah secara baku di tab baru, dan memudahkan akses ke seluruh markah melalui folder bilah alat.
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Perlindungan menyeluruh dari pelacakan kuki lintas situs
+cfr-whatsnew-cross-site-tracking-body = Kini Anda dapat memilih perlindungan yang lebih baik dari pelacakan kuki. { -brand-short-name } dapat mengisolasi aktivitas dan data situs tempat Anda berada sekarang sehingga informasi yang tersimpan di peramban tidak dibagikan di antara situs web.
