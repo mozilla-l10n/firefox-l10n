@@ -17,8 +17,20 @@ experimental-features-media-avif =
     .label = Media: AVIF
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = API Web: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =
     .label = API Web: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Pseudo-class: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = API Web: Event beforeinput
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
@@ -48,3 +60,22 @@ experimental-features-print-preview-tab-modal =
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Kuki: SameSite Berskema
+# "Service Worker" is an API name and is usually not translated.
+experimental-features-devtools-serviceworker-debugger-support =
+    .label = Alat Pengembang: Debugging Service Worker
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (Isolasi Situs)
+# Support for having multiple Picture-in-Picture windows open simultaneously
+experimental-features-multi-pip =
+    .label = Dukungan Beberapa Gambar-dalam-Gambar
+experimental-features-multi-pip-description = Dukungan eksperimental untuk memungkinkan beberapa jendela Gambar-dalam-Gambar dibuka pada saat yang sama.
+experimental-features-http3 =
+    .label = Protokol HTTP/3
+experimental-features-http3-description = Dukungan eksperimental untuk protokol HTTP/3.
+# Search during IME
+experimental-features-ime-search =
+    .label = Bilah Alamat: Tampilkan hasil selama komposisi IME

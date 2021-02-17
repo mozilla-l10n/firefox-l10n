@@ -49,6 +49,10 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Coba tamb
 inactive-css-not-display-block-on-floated-fix = Coba hapus <strong>float</strong> atau menambahkan <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Coba atur properti <strong>position</strong> menjadi selain <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Coba tambahkan <strong>overflow:hidden</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Cobalah menyetel properti <strong>display</strong>-nya ke nilai lain selain <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, atau <strong>tabel-footer-group</strong>. { learn-more }
+inactive-outline-radius-when-outline-style-auto-or-none-fix = Cobalah menyetel properti <strong>outline-style</strong>-nya ke sesuatu selain <strong>auto</strong> atau <strong>none</strong>. { learn-more }
+inactive-css-not-table-fix = Coba tambahkan <strong>display:table</strong> atau <strong>display:inline-table</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
