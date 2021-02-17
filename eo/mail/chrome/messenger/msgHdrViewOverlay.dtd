@@ -51,29 +51,29 @@
 
 <!ENTITY otherActionsButton2.label "Pli">
 <!ENTITY otherActionsButton.tooltip "Pliaj agoj">
-<!ENTITY otherActionsOpenConversation1.label "Open in Conversation">
-<!ENTITY otherActionsOpenConversation1.accesskey "C">
-<!ENTITY otherActionsOpenInNewWindow1.label "Open in New Window">
-<!ENTITY otherActionsOpenInNewWindow1.accesskey "W">
-<!ENTITY otherActionsOpenInNewTab1.label "Open in New Tab">
-<!ENTITY otherActionsOpenInNewTab1.accesskey "T">
-<!ENTITY markAsReadMenuItem1.label "Mark as Read">
-<!ENTITY markAsReadMenuItem1.accesskey "R">
-<!ENTITY markAsUnreadMenuItem1.label "Mark as Unread">
-<!ENTITY markAsUnreadMenuItem1.accesskey "r">
-<!ENTITY saveAsMenuItem1.label "Save as…">
-<!ENTITY saveAsMenuItem1.accesskey "S">
-<!ENTITY viewSourceMenuItem1.label "View Source">
-<!ENTITY viewSourceMenuItem1.accesskey "V">
-<!ENTITY otherActionsPrint1.label "Print…">
+<!ENTITY otherActionsOpenConversation1.label "Malfermi fadenon">
+<!ENTITY otherActionsOpenConversation1.accesskey "a">
+<!ENTITY otherActionsOpenInNewWindow1.label "Malfermi en nova fenestro">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "f">
+<!ENTITY otherActionsOpenInNewTab1.label "Malfermi en nova langeto">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "l">
+<!ENTITY markAsReadMenuItem1.label "Marki kiel legita">
+<!ENTITY markAsReadMenuItem1.accesskey "M">
+<!ENTITY markAsUnreadMenuItem1.label "Marki kiel nelegita">
+<!ENTITY markAsUnreadMenuItem1.accesskey "M">
+<!ENTITY saveAsMenuItem1.label "Konservi kiel…">
+<!ENTITY saveAsMenuItem1.accesskey "K">
+<!ENTITY viewSourceMenuItem1.label "Montri fonton">
+<!ENTITY viewSourceMenuItem1.accesskey "o">
+<!ENTITY otherActionsPrint1.label "Presi…">
 <!ENTITY otherActionsPrint1.accesskey "P">
 
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label    "Montri liston de kunsendaĵoj">
-<!ENTITY startExpandedCmd.accesskey    "S">
+<!ENTITY startExpandedCmd.label    "Implicite montri liston de kunsendaĵoj">
+<!ENTITY startExpandedCmd.accesskey    "I">
 
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label    "Open">
+<!ENTITY openAttachmentCmd.label    "Malfermi">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Save As…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "S">
