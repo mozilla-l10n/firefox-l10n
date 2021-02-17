@@ -14,7 +14,9 @@ compatibility-issue-deprecated = (usang)
 compatibility-issue-experimental = (eksperimental)
 compatibility-issue-prefixneeded = (diperlukan prefiks)
 compatibility-issue-deprecated-experimental = (usang, eksperimental)
+compatibility-issue-deprecated-prefixneeded = (tidak disarankan, prefiks dibutuhkan)
 compatibility-issue-experimental-prefixneeded = (eksperimental, diperlukan prefiks)
+compatibility-issue-deprecated-experimental-prefixneeded = (tidak disarankan, eksperimental, prefiks dibutuhkan)
 
 ## Messages used as labels and titles for buttons in the footer
 
