@@ -8,12 +8,26 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Runuk'ulem Ya'öl Ruwäch Rub'i'
+perftools-intro-description =
+    Ri taq yakoj nikijäq profiler.firefox.com pa jun k'ak'a' ruwi'. Ronojel ri taq tzij eyakon
+    chupam, po yatikïr ye'ajob'a' richin ye'akomonij.
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Tz'aqät Runuk'ulem
+perftools-heading-buffer = Runuk'ulem Buper
+perftools-heading-features = Taq Rusamaj
+perftools-heading-features-default = Taq rusamaj (Nichilab'ëx chi ketzij)
+perftools-heading-features-disabled = Chupun taq Samaj
+perftools-heading-features-experimental = Tojtob'enel
+perftools-heading-threads = Chij
+perftools-heading-local-build = Ajwawe' moloj
 
 ##
 
+perftools-description-intro =
+    Ri taq yakoj nikijäq <a>profiler.firefox.com</a> pa jun k'ak'a' ruwi'. Ronojel ri taq tzij eyakon
+    chupam, po yatikïr ye'ajob'a' richin ye'akomonij.
 
 ## The controls for the interval at which the profiler samples the code.
 
