@@ -9,6 +9,7 @@
 # translation, we'll move it to the locales folder.
 
 webrtc-sharing-screen = Xituvinu nu ntaka pantalla noo'o.
+webrtc-stop-sharing-button = Nkuvi kua'a
 webrtc-microphone-unmuted =
     .title = Xina'va ka̱a̱ micrófono
 webrtc-microphone-muted =

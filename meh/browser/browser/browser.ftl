@@ -344,6 +344,9 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-muted = Sá'á nii
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## Bookmarks toolbar items
 
