@@ -40,6 +40,11 @@ printui-scale-pcent = Mjerilo
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Obostrani ispis
 printui-duplex-checkbox = Ispis s obje strane
+printui-two-sided-printing-off = Isključeno
+# Flip the page on the side (like a book).
+printui-two-sided-printing-side-edge = Preokreni na bočnom rubu
+# Flip the page on the top (like a vertical calendar).
+printui-two-sided-printing-top-edge = Preokreni na gornjem rubu
 # Section title for miscellaneous print options
 printui-options = Opcije
 printui-headers-footers-checkbox = Ispis zaglavlja i podnožja
