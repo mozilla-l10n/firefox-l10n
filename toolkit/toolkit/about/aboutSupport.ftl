@@ -59,12 +59,16 @@ app-basics-enabled-plugins = Plugin Terpasang
 app-basics-build-config = Konfigurasi Build
 app-basics-user-agent = User Agent
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Penggunaan Memori
 app-basics-performance = Kinerja
 app-basics-service-workers = Service Worker Terdaftar
 app-basics-profiles = Profil
 app-basics-launcher-process-status = Proses Peluncur
 app-basics-multi-process-support = Jendela Multiproses
+app-basics-fission-support = Jendela Fission
 app-basics-remote-processes-count = Proses Jarak Jauh
 app-basics-enterprise-policies = Kebijakan Perusahaan
 app-basics-location-service-key-google = Google Location Service Key
@@ -181,6 +185,36 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Modul Pihak Ketiga
+support-third-party-modules-module = Berkas Modul
+support-third-party-modules-version = Versi File
+support-third-party-modules-vendor = Info Vendor
+support-third-party-modules-occurrence = Kejadian
+support-third-party-modules-process = ID & Jenis Proses
+support-third-party-modules-thread = Thread
+support-third-party-modules-base = Alamat Imagebase
+support-third-party-modules-uptime = Waktu Operasi Proses (md)
+support-third-party-modules-duration = Durasi Pemuatan (md)
+support-third-party-modules-status = Status
+support-third-party-modules-status-loaded = Dimuat
+support-third-party-modules-status-blocked = Diblokir
+support-third-party-modules-status-redirected = Diarahkan ulang
+support-third-party-modules-empty = Tidak ada modul pihak ketiga yang dimuat.
+support-third-party-modules-no-value = (Tidak ada nilai)
+support-third-party-modules-button-open =
+    .title = Buka lokasi berkas…
+support-third-party-modules-expand =
+    .title = Tampilkan informasi rinci
+support-third-party-modules-collapse =
+    .title = Ciutkan informasi rinci
+support-third-party-modules-unsigned-icon =
+    .title = Modul ini tidak ditandatangani
+support-third-party-modules-folder-icon =
+    .title = Buka lokasi berkas…
+support-third-party-modules-down-icon =
+    .title = Tampilkan informasi rinci
+support-third-party-modules-up-icon =
+    .title = Ciutkan informasi rinci
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Laporan Kerusakan dalam { $days } Hari Terakhir
@@ -306,6 +340,20 @@ multi-process-status-6 = Dinonaktifkan oleh masukan teks yang tidak didukung
 multi-process-status-7 = Dinonaktifkan oleh pengaya
 multi-process-status-8 = Dinonaktifkan secara paksa
 multi-process-status-unknown = Status tak diketahui
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Dinonaktifkan oleh eksperimen
+fission-status-experiment-treatment = Diaktifkan oleh eksperimen
+fission-status-disabled-by-e10s-env = Dinonaktifkan oleh lingkungan
+fission-status-enabled-by-env = Diaktifkan oleh lingkungan
+fission-status-disabled-by-safe-mode = Dinonaktifkan oleh mode aman
+fission-status-enabled-by-default = Diaktifkan secara baku
+fission-status-disabled-by-default = Dinonaktifkan secara baku
+fission-status-enabled-by-user-pref = Diaktifkan oleh pengguna
+fission-status-disabled-by-user-pref = Dinonaktifkan oleh pengguna
+fission-status-disabled-by-e10s-other = E10s dinonaktifkan
 async-pan-zoom = Geser/Perbesaran Asinkron
 apz-none = tidak ada
 wheel-enabled = input wheel diaktifkan
@@ -326,3 +374,12 @@ touch-warning = input sentuh asinkron dinonaktifkan karena preferensi yang tidak
 policies-inactive = Tidak Aktif
 policies-active = Aktif
 policies-error = Galat
+
+## Printing section
+
+support-printing-title = Pencetakan
+support-printing-troubleshoot = Pemecahan Masalah
+support-printing-clear-settings-button = Bersihkan setelan cetak tersimpan
+support-printing-modified-settings = Pengaturan cetak yang diubah
+support-printing-prefs-name = Nama
+support-printing-prefs-value = Nilai
