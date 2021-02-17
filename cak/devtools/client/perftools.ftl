@@ -31,9 +31,12 @@ perftools-description-intro =
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = Runimile wuper:
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
