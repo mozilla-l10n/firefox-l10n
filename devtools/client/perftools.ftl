@@ -103,3 +103,12 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = A fenti kiválasztások megkerülése, és az összes regisztrált szál rögzítése
 perftools-tools-threads-input-label =
     .title = Az itt felsorolt szálnevek vesszővel elválasztott listája a profilozóban a szálak profilozásának engedélyezésére szolgál. A szál már nevének részleges egyezése esetén is hozzáadásra kerül. A mező szóközökre érzékeny.
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox profilozó
+perftools-onboarding-message = <b>Új</b>: A { -profiler-brand-name } mostantól a Fejlesztői eszközökbe integrált. <a>Tudjon meg többet</a> erről a hatékony új eszközről.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Korlátozott ideig elérheti az eredeti Teljesítmény panelt is a <a>{ options-context-advanced-settings }</a> segítségévél)

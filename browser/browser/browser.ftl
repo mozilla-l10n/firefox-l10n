@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Lejátszás
 browser-tab-audio-muted = Némítva
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = LEJÁTSZÁS
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = NÉMÍTVA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMATIKUS LEJÁTSZÁS BLOKKOLVA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = KÉP A KÉPBEN
 
 ## Bookmarks toolbar items
 
