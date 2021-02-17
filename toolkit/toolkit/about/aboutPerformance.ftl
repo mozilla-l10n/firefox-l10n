@@ -63,4 +63,4 @@ show-addon =
 item =
     .title =
         Mensaxes dende la carga: { $totalDispatches } ({ $totalDuration }ms)
-        Mensaxes nos últimos segundos: { $dispatchesSincePrevious } ({ $totalDuration }ms)
+        Mensaxes nos últimos segundos: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
