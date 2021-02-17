@@ -46,6 +46,8 @@ perftools-devtools-settings-label = Taq nuk'ulem
 perftools-status-private-browsing-notice =
     Nichup ri ya'öl ruwäch rub'i' toq nitzijtäj ri ichinan okem pa k'amaya'l.
     Ke'atz'apij ronojel ri ichinan taq tzuwäch richin nitzij chik ri ya'öl ruwäch rub'i'
+perftools-status-recording-stopped-by-another-tool = Jun chik samajib'äl xuq'ät ri yakoj.
+perftools-status-restart-required = K'o chi nitikirisäx chik ri okik'amaya'l richin nitzij re samaj re'.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
