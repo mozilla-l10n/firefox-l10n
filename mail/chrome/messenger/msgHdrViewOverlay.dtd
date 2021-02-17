@@ -44,13 +44,13 @@
 <!ENTITY hdrViewToolbarShowFull.accesskey "k">
 <!ENTITY hdrViewToolbarShowIcons.label "Montri nur bildsimbolojn">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "b">
-<!ENTITY hdrViewToolbarShowText.label "Show Text Only">
-<!ENTITY hdrViewToolbarShowText.accesskey "T">
-<!ENTITY hdrViewToolbarAlwaysReplySender.label "Always Show Reply to Sender">
-<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+<!ENTITY hdrViewToolbarShowText.label "Montri nur tekstojn">
+<!ENTITY hdrViewToolbarShowText.accesskey "t">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Ĉiam montri la butonon “respondi” (al sendinto)">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "r">
 
-<!ENTITY otherActionsButton2.label "More">
-<!ENTITY otherActionsButton.tooltip "More actions">
+<!ENTITY otherActionsButton2.label "Pli">
+<!ENTITY otherActionsButton.tooltip "Pliaj agoj">
 <!ENTITY otherActionsOpenConversation1.label "Open in Conversation">
 <!ENTITY otherActionsOpenConversation1.accesskey "C">
 <!ENTITY otherActionsOpenInNewWindow1.label "Open in New Window">
