@@ -40,10 +40,10 @@
 <!ENTITY hdrTrashButton1.label "Forigi">
 <!ENTITY hdrTrashButton1.tooltip "Forigi tiun ĉi mesaĝon">
 
-<!ENTITY hdrViewToolbarShowFull.label "Show Icons and Text">
-<!ENTITY hdrViewToolbarShowFull.accesskey "a">
-<!ENTITY hdrViewToolbarShowIcons.label "Show Icons Only">
-<!ENTITY hdrViewToolbarShowIcons.accesskey "I">
+<!ENTITY hdrViewToolbarShowFull.label "Montri bildsimbolojn kaj tekstojn">
+<!ENTITY hdrViewToolbarShowFull.accesskey "k">
+<!ENTITY hdrViewToolbarShowIcons.label "Montri nur bildsimbolojn">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "b">
 <!ENTITY hdrViewToolbarShowText.label "Show Text Only">
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Always Show Reply to Sender">
