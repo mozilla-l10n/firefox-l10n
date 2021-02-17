@@ -4,7 +4,7 @@
 
 print-setup =
     .title = Configurar página
-custom-prompt-title = Personalizar
+custom-prompt-title = Personalizar…
 custom-prompt-prompt = Forneça o texto do cabeçalho/rodapé:
 basic-tab =
     .label = Geral
@@ -103,7 +103,6 @@ print-window =
     .title = Imprimindo
 print-complete =
     .value = A impressão foi concluída.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
