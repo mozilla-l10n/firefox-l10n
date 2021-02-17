@@ -92,6 +92,7 @@
 
 <!ENTITY openAttachment.tooltip "Malfermi kunsenditan dosieron">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Malfermi entenantan dosierujon">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Save">
