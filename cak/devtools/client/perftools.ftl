@@ -75,6 +75,12 @@ perftools-button-edit-settings = Tinuk' ri Runuk'ulem…
 
 perftools-thread-gecko-main =
     .title = Ri nimaläj taq tajinïk achi'el richin ri nimaläj tajinïk achi'el kichin ri rutajinik rupam
+perftools-thread-compositor =
+    .title = Yerutün jalajöj b'onin taq ch'akulal pa ri ruxaq.
+perftools-thread-dom-worker =
+    .title = Re re' yerusamajij ri web taq samajela' chuqa' ri kisamajela' taq samaj
+perftools-thread-renderer =
+    .title = Toq tzijïl ri WebRender, ri tzij nusamajij ri OpenGL taq oyonïk
 perftools-thread-render-backend =
     .title = Ri WebRender RenderBackend chij
 
