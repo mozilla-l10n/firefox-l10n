@@ -23,6 +23,37 @@ radio-gnupg-key =
 ## Generate key section
 
 openpgp-generate-key-title = สร้างคีย์ OpenPGP
+openpgp-keygen-expiry-title = วันหมดอายุของคีย์
+openpgp-keygen-expiry-description = กำหนดเวลาหมดอายุของคีย์ที่คุณสร้างขึ้นใหม่ คุณสามารถควบคุมวันเพื่อขยายเวลาได้ในภายหลังหากจำเป็น
+radio-keygen-expiry =
+    .label = คีย์จะหมดอายุใน
+    .accesskey = ห
+radio-keygen-no-expiry =
+    .label = คีย์จะไม่หมดอายุ
+    .accesskey = ม
+openpgp-keygen-days-label =
+    .label = วัน
+openpgp-keygen-months-label =
+    .label = เดือน
+openpgp-keygen-years-label =
+    .label = ปี
+openpgp-keygen-advanced-title = การตั้งค่าขั้นสูง
+openpgp-keygen-advanced-description = ควบคุมการตั้งค่าขั้นสูงของคีย์ OpenPGP ของคุณ
+openpgp-keygen-keytype =
+    .value = ชนิดคีย์:
+    .accesskey = ช
+openpgp-keygen-keysize =
+    .value = ขนาดคีย์:
+    .accesskey = ข
+openpgp-keygen-type-rsa =
+    .label = RSA
+openpgp-keygen-type-ecc =
+    .label = ECC (เส้นโค้งรูปไข่)
+openpgp-keygen-button = สร้างคีย์
+openpgp-keygen-progress-title = กำลังสร้างคีย์ OpenPGP ใหม่ของคุณ…
+openpgp-keygen-import-progress-title = กำลังนำเข้าคีย์ OpenPGP ของคุณ…
+openpgp-import-success = นำเข้าคีย์ OpenPGP สำเร็จแล้ว!
+openpgp-import-success-title = ทำขั้นตอนการนำเข้าให้เสร็จสมบูรณ์
 
 ## Import Key section
 
