@@ -18,4 +18,12 @@ calendar-ics-file-dialog-progress-message = กำลังนำเข้า…
 calendar-ics-file-import-success = นำเข้าเรียบร้อย!
 calendar-ics-file-import-error = เกิดข้อผิดพลาดและการนำเข้าล้มเหลว
 calendar-ics-file-import-complete = การนำเข้าเสร็จสมบูรณ์
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+       *[other] { $duplicatesCount } รายการถูกเพิกเฉยเนื่องจากมีอยู่ในปฏิทินปลายทางแล้ว
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+       *[other] ไม่สามารถนำเข้า { $errorsCount } รายการได้ ตรวจสอบคอนโซลข้อผิดพลาดสำหรับรายละเอียด
+    }
 calendar-ics-file-dialog-no-calendars = ไม่มีปฏิทินที่สามารถนำเข้าเหตุการณ์หรืองานได้
