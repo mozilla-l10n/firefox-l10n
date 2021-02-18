@@ -98,9 +98,9 @@
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Konservi">
-<!ENTITY saveAttachmentButton1.tooltip     "Save the attached file">
-<!ENTITY saveAllAttachmentsButton1.label   "Save All">
-<!ENTITY saveAllAttachmentsButton1.tooltip "Save all the attached files">
+<!ENTITY saveAttachmentButton1.tooltip     "Konservi kunsenditan dosieron">
+<!ENTITY saveAllAttachmentsButton1.label   "Konservi ĉiujn">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Konservi ĉiujn kunsenditajn dosierojn">
 
 <!ENTITY copyLinkCmd.label        "Copy Link Location">
 <!ENTITY copyLinkCmd.accesskey    "C">
