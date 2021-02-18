@@ -57,9 +57,9 @@
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "f">
 <!ENTITY otherActionsOpenInNewTab1.label "Malfermi en nova langeto">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "l">
-<!ENTITY markAsReadMenuItem1.label "Marki kiel legita">
+<!ENTITY markAsReadMenuItem1.label "Marki kiel legitan">
 <!ENTITY markAsReadMenuItem1.accesskey "M">
-<!ENTITY markAsUnreadMenuItem1.label "Marki kiel nelegita">
+<!ENTITY markAsUnreadMenuItem1.label "Marki kiel nelegitan">
 <!ENTITY markAsUnreadMenuItem1.accesskey "M">
 <!ENTITY saveAsMenuItem1.label "Konservi kiel…">
 <!ENTITY saveAsMenuItem1.accesskey "K">
@@ -84,7 +84,7 @@
 <!ENTITY openAllAttachmentsCmd.label    "Malfermi ĉiujn…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "M">
 <!ENTITY saveAllAttachmentsCmd.label    "Konservi ĉiujn…">
-<!ENTITY saveAllAttachmentsCmd.accesskey    "K">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "i">
 <!ENTITY detachAllAttachmentsCmd.label    "Disigi ĉiujn…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
 <!ENTITY deleteAllAttachmentsCmd.label    "Forigi ĉiujn…">
@@ -93,8 +93,9 @@
 <!ENTITY openAttachment.tooltip "Malfermi kunsenditan dosieron">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Malfermi entenantan dosierujon">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "e">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Montri en Finder">
-<!ENTITY detachedAttachmentFolder.showMac.accesskey "d">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "e">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Konservi">
@@ -102,7 +103,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Konservi ĉiujn">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Konservi ĉiujn kunsenditajn dosierojn">
 
-<!ENTITY copyLinkCmd.label        "Copy Link Location">
+<!ENTITY copyLinkCmd.label        "Kopii adreson de ligilo">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copy Message-ID">
