@@ -82,6 +82,9 @@ experimental-features-devtools-serviceworker-debugger-support =
     .label = Outils de développement : débogage de Service worker
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Active la prise en charge expérimentale des Service workers dans le panneau Débogueur. Cette fonctionnalité peut ralentir les outils de développement et augmenter la consommation de mémoire.
+# WebRTC global mute toggle controls
+experimental-features-webrtc-global-mute-toggles =
+    .label = Activer/désactiver l’audio et la vidéo WebRTC au niveau global
 experimental-features-webrtc-global-mute-toggles-description = Ajoute des commandes à l’indicateur de partage global WebRTC qui permettent aux utilisateurs de désactiver globalement leur microphone et leurs flux de caméra.
 # JS JIT Warp project
 experimental-features-js-warp =
