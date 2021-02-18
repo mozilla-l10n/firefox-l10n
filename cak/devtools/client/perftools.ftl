@@ -83,6 +83,8 @@ perftools-thread-renderer =
     .title = Toq tzijïl ri WebRender, ri tzij nusamajij ri OpenGL taq oyonïk
 perftools-thread-render-backend =
     .title = Ri WebRender RenderBackend chij
+perftools-thread-paint-worker =
+    .title = Toq nitzij ri b'onil chi rij ri nimaläj chij, ri chij achoq chupam nib'an ri b'onil
 
 ##
 
