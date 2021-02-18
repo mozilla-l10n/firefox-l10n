@@ -93,9 +93,11 @@
 <!ENTITY openAttachment.tooltip "Malfermi kunsenditan dosieron">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Malfermi entenantan dosierujon">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Montri en Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "d">
 
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label       "Save">
+<!ENTITY saveAttachmentButton1.label       "Konservi">
 <!ENTITY saveAttachmentButton1.tooltip     "Save the attached file">
 <!ENTITY saveAllAttachmentsButton1.label   "Save All">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Save all the attached files">
