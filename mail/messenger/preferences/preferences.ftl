@@ -10,6 +10,8 @@ preferences-title =
             [windows] ตัวเลือก
            *[other] ค่ากำหนด
         }
+category-list =
+    .aria-label = หมวดหมู่
 pane-general-title = ทั่วไป
 category-general =
     .tooltiptext = { pane-general-title }
@@ -86,6 +88,7 @@ update-in-progress-ok-button = &ละทิ้ง
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
+account-button = การตั้งค่าบัญชี
 addons-button = ส่วนขยายและชุดตกแต่ง
 
 ## OS Authentication dialog
