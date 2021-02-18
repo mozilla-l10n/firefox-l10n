@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "ป">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "เปิด">
-<!ENTITY lightning.menupopup.open.accesskey           "ป">
-<!ENTITY lightning.menupopup.open.message.label       "ข้อความที่บันทึก…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "ข">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "ไฟล์ปฏิทิน…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "ฟ">
 
@@ -66,6 +60,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "ลบออกจากปฏิทิน">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "รายละเอียด…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "แสดงรายละเอียดเหตุการณ์">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "ไม่ต้องแสดงข้อความเหล่านี้ให้ฉันเห็น">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "ปฏิทิน">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "ไปที่แท็บปฏิทิน">
 <!ENTITY lightning.imipbar.btnMore.label                                    "เพิ่มเติม">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "คลิกเพื่อแสดงตัวเลือกเพิ่มเติม">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "ยืนยันใหม่">
@@ -84,7 +81,10 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "ส่งการตอบสนองตอนนี้">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "ส่งการตอบสนองไปยังผู้จัด">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "ส่งการตอบกลับทั้งชุดถึงผู้จัดงาน">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "ไม่ส่งการตอบสนอง">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "เปลี่ยนสถานะการเข้าร่วมของคุณโดยไม่ส่งการตอบกลับถึงผู้จัดงาน">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "เปลี่ยนสถานะการเข้าร่วมของคุณเป็นชุดโดยไม่ส่งการตอบกลับถึงผู้จัดงาน">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
