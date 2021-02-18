@@ -28,6 +28,10 @@ perftools-heading-local-build = Ajwawe' moloj
 perftools-description-intro =
     Ri taq yakoj nikijäq <a>profiler.firefox.com</a> pa jun k'ak'a' ruwi'. Ronojel ri taq tzij eyakon
     chupam, po yatikïr ye'ajob'a' richin ye'akomonij.
+perftools-description-local-build =
+    We nimol ruchi' jun amolik pa re
+    samajib'äl re', tatz'aqatisaj ri objdir pa ri cholb'äl k'o ikim richin
+    nokisäx richin nikanöx retamab'al taq etal.
 
 ## The controls for the interval at which the profiler samples the code.
 
