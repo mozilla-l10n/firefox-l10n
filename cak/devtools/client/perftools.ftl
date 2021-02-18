@@ -87,6 +87,8 @@ perftools-thread-paint-worker =
     .title = Toq nitzij ri b'onil chi rij ri nimaläj chij, ri chij achoq chupam nib'an ri b'onil
 perftools-thread-style-thread =
     .title = Ri rajlaxïk b'anikil rujachon ri' pa jalajöj chij
+perftools-thread-js-helper =
+    .title = Ruka'n rusamaj ri JS samajib'äl, achi'el taq molïk chi rij ri nïm chij
 
 ##
 
