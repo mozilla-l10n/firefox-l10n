@@ -92,8 +92,10 @@ perftools-thread-js-helper =
 
 ##
 
+perftools-record-all-registered-threads = Ke'elesäx ri taq cha'oj ajsik chuqa' keyak ronojel ri taq chij etz'ib'an
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+-profiler-brand-name = Firefox Ruya'öl Ruwäch Rub'i'
