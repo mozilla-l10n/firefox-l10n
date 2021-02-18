@@ -99,7 +99,7 @@ profiler-popup-capture-shortcut =
 ## History panel
 
 appmenu-manage-history =
-    .label = 管理历史记录
+    .label = 管理历史
 appmenu-reopen-all-tabs = 重新打开所有标签页
 appmenu-reopen-all-windows = 重新打开所有窗口
 
