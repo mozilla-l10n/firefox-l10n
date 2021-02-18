@@ -477,7 +477,7 @@
 <!ENTITY addonNoPrefs.label "Nenhuma extensão configurada.">
 <!ENTITY activitymanager.label "Gerenciador de atividade">
 <!ENTITY activitymanager.accesskey "G">
-<!ENTITY imAccountsStatus.label "Status da conversa">
+<!ENTITY imAccountsStatus.label "Status em conversas">
 <!ENTITY imAccountsStatus.accesskey "b">
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Ocupado">
@@ -515,7 +515,7 @@
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Ferramentas de desenvolvimento">
 <!ENTITY devtoolsMenu.accesskey "o">
-<!ENTITY devToolboxCmd.label "Caixa de ferramentas do desenvolvedor">
+<!ENTITY devToolboxCmd.label "Ferramentas de desenvolvimento">
 <!ENTITY devToolboxCmd.accesskey "T">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depurar extensões">
