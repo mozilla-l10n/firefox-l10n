@@ -35,6 +35,7 @@ perftools-description-local-build =
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = Rukojol etal:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
@@ -42,6 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Runimile wuper:
 perftools-custom-threads-label = Ketz'aqatisäx ichinan taq chij chi kib'i':
+perftools-devtools-interval-label = Rukojol:
 perftools-devtools-threads-label = Taq chij:
 perftools-devtools-settings-label = Taq nuk'ulem
 
@@ -71,6 +73,8 @@ perftools-button-edit-settings = Tinuk' ri Runuk'ulem…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Ri nimaläj taq tajinïk achi'el richin ri nimaläj tajinïk achi'el kichin ri rutajinik rupam
 perftools-thread-render-backend =
     .title = Ri WebRender RenderBackend chij
 
