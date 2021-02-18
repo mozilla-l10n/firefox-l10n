@@ -51,10 +51,10 @@ printui-scale-pcent = Ridimensiona
 printui-two-sided-printing = Stampa fronte/retro
 printui-duplex-checkbox = Stampa su entrambi i lati
 printui-two-sided-printing-off = Disattivata
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Capovolgi pagine sul lato lungo
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Capovolgi pagine sul lato corto
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Capovolgi pagine sul lato lungo
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Capovolgi pagine sul lato corto
 
 # Section title for miscellaneous print options
 printui-options = Opzioni
