@@ -11,11 +11,10 @@
 <!ENTITY helpMenuWin.accesskey "u">
 <!ENTITY aboutProduct2.label "Sobre o &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "S">
-<!ENTITY helpTroubleshootingInfo.label     "Dados para suporte">
+<!ENTITY helpTroubleshootingInfo.label     "Informações para resolver problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey "D">
 <!ENTITY helpSafeMode.label     "Reiniciar com extensões desativadas…">
 <!ENTITY helpSafeMode.accesskey "R">
-
 <!ENTITY helpSafeMode.stop.label     "Reiniciar com extensões ativadas">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Ajuda do &brandShortName;">
