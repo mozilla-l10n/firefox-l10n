@@ -245,7 +245,7 @@
 <!ENTITY headersAllCmd.accesskey "T">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "Formatação da mensagem como">
+<!ENTITY bodyMenu.label "Formatar mensagens como">
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "HTML original">
 <!ENTITY bodyAllowHTML.accesskey "F">
