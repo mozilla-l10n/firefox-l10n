@@ -157,7 +157,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY certerror.pagetitle2  "Alerta: Potencial risco de segurança à frente">
 <!ENTITY certerror.sts.pagetitle  "Não conectou: Potencial problema de segurança">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tem uma política de segurança chamada HTTP Strict Transport Security (HSTS), que significa que o &brandShortName; só pode se conectar a ele com segurança. Você não pode adicionar uma exceção para visitar este site.">
-<!ENTITY certerror.copyToClipboard.label "Copiar texto para a área de transferência">
+<!ENTITY certerror.copyToClipboard.label "Copiar texto para área de transferência">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
