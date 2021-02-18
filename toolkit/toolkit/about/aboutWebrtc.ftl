@@ -63,6 +63,8 @@ about-webrtc-ice-component-id = ID ส่วนประกอบ
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
+about-webrtc-avg-bitrate-label = บิตเรตเฉลี่ย:
+about-webrtc-avg-framerate-label = เฟรมเรตเฉลี่ย:
 
 ##
 
@@ -122,6 +124,8 @@ about-webrtc-fold-show-msg = แสดงรายละเอียด
     .title = คลิกเพื่อขยายส่วนนี้
 about-webrtc-fold-hide-msg = ซ่อนรายละเอียด
     .title = คลิกเพื่อยุบส่วนนี้
+about-webrtc-dropped-frames-label = เฟรมที่ถูกดรอป:
+about-webrtc-discarded-packets-label = แพ็คเก็ตที่ถูกละทิ้ง:
 about-webrtc-decoder-label = ตัวถอดรหัส
 about-webrtc-encoder-label = ตัวเข้ารหัส
 about-webrtc-show-tab-label = แสดงแท็บ
@@ -166,6 +170,11 @@ about-webrtc-pacer-delay-ms = หน่วงเวลาระยะห่า�
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = สถิติเฟรมวิดีโอ - รหัส MediaStreamTrack: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -179,6 +188,27 @@ about-webrtc-aec-logging-off-state-msg = ไฟล์บันทึกที่
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+       *[other] ได้รับ { $packets } แพ็กเก็ต
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+       *[other] สูญเสีย { $packets } แพ็กเก็ต
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+       *[other] ส่งแล้ว { $packets } แพ็กเก็ต
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

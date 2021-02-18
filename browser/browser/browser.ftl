@@ -340,6 +340,16 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = กำลังเล่น
+browser-tab-audio-muted = ปิดเสียงอยู่
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = กำลังเล่น
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ปิดเสียงอยู่
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = การเล่นอัตโนมัติถูกปิดกั้น
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ภาพที่เล่นควบคู่
 
 ## Bookmarks toolbar items
 
@@ -501,6 +511,13 @@ pointerlock-warning-no-domain = เอกสารชิ้นนี้ได้
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>เนื้อหาบางส่วนของหน้านี้ขัดข้อง</strong> หากต้องการแจ้งให้ { -brand-product-name } ทราบเกี่ยวกับปัญหานี้เพื่อให้ได้รับการแก้ไขเร็วขึ้น โปรดส่งรายงาน
+crashed-subframe-learnmore =
+    .label = เรียนรู้เพิ่มเติม
+    .accesskey = ร
+crashed-subframe-submit =
+    .label = ส่งรายงาน
+    .accesskey = ส
 
 ## Bookmarks panels, menus and toolbar
 
@@ -508,6 +525,10 @@ bookmarks-show-all-bookmarks =
     .label = แสดงที่คั่นหน้าทั้งหมด
 bookmarks-recent-bookmarks =
     .value = ที่คั่นหน้าที่เพิ่มล่าสุด
+bookmarks-manage-bookmarks =
+    .label = จัดการที่คั่นหน้า
+bookmarks-recent-bookmarks-panel =
+    .value = ที่คั่นหน้าล่าสุด
 bookmarks-toolbar-chevron =
     .tooltiptext = แสดงที่คั่นหน้าเพิ่มเติม
 bookmarks-sidebar-content =
@@ -536,6 +557,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] ซ่อนแถบเครื่องมือที่คั่นหน้า
            *[other] ดูแถบเครื่องมือที่คั่นหน้า
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] ซ่อนแถบเครื่องมือที่คั่นหน้า
+           *[other] แสดงแถบเครื่องมือที่คั่นหน้า
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -561,6 +588,9 @@ bookmarks-toolbar-placeholder =
     .title = รายการแถบเครื่องมือที่คั่นหน้า
 bookmarks-toolbar-placeholder-button =
     .label = รายการแถบเครื่องมือที่คั่นหน้า
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = เพิ่มที่คั่นหน้าแท็บปัจจุบัน
 
 ## Library Panel items
 
