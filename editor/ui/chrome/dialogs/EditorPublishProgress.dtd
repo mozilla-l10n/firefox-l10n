@@ -8,7 +8,7 @@
 <!ENTITY otherSubdir.label     "Subdiretório da imagem:">
 
 <!ENTITY status.label          "Publicando…">
-<!ENTITY fileList.label        "Estado da publicação">
+<!ENTITY fileList.label        "Status da publicação">
 <!ENTITY succeeded.label       "Bem-sucedido">
 <!ENTITY failed.label          "Falhou">
 
