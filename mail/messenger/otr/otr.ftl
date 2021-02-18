@@ -25,6 +25,9 @@ msgevent-rcvdmsg_unrecognized = Bạn đã nhận được một tin nhắn OTR 
 context-gone_secure_private = Đã bắt đầu cuộc trò chuyện riêng tư với { $name }.
 # Variables:
 #   $name (String) - the screen name of a chat contact person
+context-gone_secure_unverified = Đã mã hóa, nhưng cuộc trò chuyện chưa được xác minh bắt đầu với { $name }.
+# Variables:
+#   $name (String) - the screen name of a chat contact person
 context-still_secure = Đã làm mới cuộc trò chuyện được mã hóa với { $name }.
 error-enc = Đã xảy ra lỗi khi mã hóa tin nhắn.
 error-unreadable = Bạn đã truyền đi một tin nhắn được mã hóa không đọc được.
