@@ -76,7 +76,7 @@
 <!ENTITY openAttachmentCmd.label    "Malfermi">
 <!ENTITY openAttachmentCmd.accesskey    "M">
 <!ENTITY saveAsAttachmentCmd.label    "Konservi kiel…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "K">
+<!ENTITY saveAsAttachmentCmd.accesskey    "i">
 <!ENTITY detachAttachmentCmd.label    "Disigi…">
 <!ENTITY detachAttachmentCmd.accesskey    "D">
 <!ENTITY deleteAttachmentCmd.label    "Forigi">
@@ -104,11 +104,11 @@
 <!ENTITY saveAllAttachmentsButton1.tooltip "Konservi ĉiujn kunsenditajn dosierojn">
 
 <!ENTITY copyLinkCmd.label        "Kopii adreson de ligilo">
-<!ENTITY copyLinkCmd.accesskey    "C">
+<!ENTITY copyLinkCmd.accesskey    "K">
 
-<!ENTITY CopyMessageId.label "Copy Message-ID">
-<!ENTITY CopyMessageId.accesskey "C">
-<!ENTITY OpenMessageForMsgId.label "Open Message For ID">
-<!ENTITY OpenMessageForMsgId.accesskey "O">
-<!ENTITY OpenBrowserWithMsgId.label "Open Browser With Message-ID">
-<!ENTITY OpenBrowserWithMsgId.accesskey "B">
+<!ENTITY CopyMessageId.label "Kopii identigilon de mesaĝo">
+<!ENTITY CopyMessageId.accesskey "K">
+<!ENTITY OpenMessageForMsgId.label "Malfermi mesaĝon (laŭ identigilo)">
+<!ENTITY OpenMessageForMsgId.accesskey "M">
+<!ENTITY OpenBrowserWithMsgId.label "Malfermi mesaĝon (laŭ identigilo) en retumilo">
+<!ENTITY OpenBrowserWithMsgId.accesskey "r">
