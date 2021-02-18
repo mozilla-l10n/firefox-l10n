@@ -66,13 +66,14 @@ profiler-popup-title =
 profiler-popup-reveal-description-button =
     .aria-label = แสดงข้อมูลเพิ่มเติม
 profiler-popup-description-title =
-    .value = บันทึกวิเคราะห์แบ่งปัน
+    .value = บันทึก วิเคราะห์ แบ่งปัน
 profiler-popup-description = ทำงานร่วมกันในปัญหาด้านประสิทธิภาพโดยการเผยแพร่โปรไฟล์เพื่อแบ่งปันกับทีมของคุณ
 profiler-popup-learn-more = เรียนรู้เพิ่มเติม
 profiler-popup-settings =
     .value = การตั้งค่า
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = แก้ไขการตั้งค่า
+profiler-popup-disabled = ขณะนี้ตัวสร้างโปรไฟล์ถูกปิดใช้งาน ซึ่งส่วนใหญ่เกิดจากหน้าต่างการเรียกดูแบบส่วนตัวกำลังถูกเปิด
 profiler-popup-recording-screen = กำลังบันทึก…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -82,11 +83,25 @@ profiler-popup-start-recording-button =
     .label = เริ่มการบันทึก
 profiler-popup-discard-button =
     .label = ละทิ้ง
+profiler-popup-capture-button =
+    .label = จับ
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## History panel
+
+appmenu-manage-history =
+    .label = จัดการประวัติ
+appmenu-reopen-all-tabs = เปิดแท็บทั้งหมดใหม่
+appmenu-reopen-all-windows = เปิดหน้าต่างทั้งหมดใหม่
 
 ## Help panel
 
@@ -143,3 +158,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = ตรวจสอบการอัปเดต…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = ปรับแต่งแถบเครื่องมือ…
+appmenu-developer-tools-subheader = เครื่องมือสำหรับเบราว์เซอร์
