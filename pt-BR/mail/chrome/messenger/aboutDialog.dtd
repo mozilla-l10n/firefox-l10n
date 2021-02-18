@@ -13,7 +13,7 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Verificar por atualizações">
+<!ENTITY update.checkForUpdatesButton.label       "Verificar se há atualizações">
 <!ENTITY update.checkForUpdatesButton.accesskey   "V">
 <!ENTITY update.updateButton.label3               "Reiniciar o &brandShorterName; para atualizar">
 <!ENTITY update.updateButton.accesskey            "R">
@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 <!ENTITY warningDesc.version        "O &brandShortName; é experimental e pode estar instável.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ele envia automaticamente informações sobre o desempenho, os dispositivos, o uso e as personalizações para &vendorShortName; para ajudar a tornar o &brandShortName; melhor.">
+<!ENTITY warningDesc.telemetryDesc  "Ele envia automaticamente para a &vendorShortName; informações sobre desempenho, dispositivos, uso e personalizações para ajudar a melhorar o &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -31,7 +31,7 @@
 <!ENTITY community.exp.middle       " é uma ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "comunidade global">
-<!ENTITY community.exp.end          " trabalhando unida para manter a web aberta, pública e acessível a todos.">
+<!ENTITY community.exp.end          " que trabalha unida para manter a web aberta, pública e acessível a todos.">
 
 <!ENTITY community.start2           "O &brandShortName; é projetado pela ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
@@ -39,7 +39,7 @@
 <!ENTITY community.middle2          ", uma ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunidade global">
-<!ENTITY community.end3             " trabalhando unida para manter a web aberta, pública e acessível a todos.">
+<!ENTITY community.end3             " que trabalha unida para manter a web aberta, pública e acessível a todos.">
 
 <!ENTITY helpus.start               "Quer ajudar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
@@ -63,9 +63,9 @@
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.checkingForUpdates  "Verificando se há atualizações…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado.">
+<!ENTITY update.noUpdatesFound      "O &brandShortName; está atualizado">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "As atualizações estão desativadas pelo administrador do seu sistema">
+<!ENTITY update.adminDisabled       "Atualizações desativadas pelo administrador do seu sistema">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "O &brandShortName; está sendo atualizado por outra instância">
 
@@ -101,10 +101,10 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Baixando a atualização — ">
+<!ENTITY update.downloading.start   "Baixando atualização — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Aplicando a atualização…">
+<!ENTITY update.applying            "Aplicando atualização…">
 <!ENTITY update.restarting          "Reiniciando…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
