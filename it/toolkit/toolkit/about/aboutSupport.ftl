@@ -410,3 +410,14 @@ support-printing-clear-settings-button = Rimuovi impostazioni di stampa salvate
 support-printing-modified-settings = Impostazioni di stampa modificate
 support-printing-prefs-name = Nome
 support-printing-prefs-value = Valore
+
+## Normandy sections
+
+support-remote-experiments-title = Esperimenti remoti
+support-remote-experiments-name = Nome
+support-remote-experiments-branch = Branch esperimento
+support-remote-experiments-see-about-studies = Consultare <a data-l10n-name="support-about-studies-link">about:studies</a> per ulteriori informazioni, incluso come disattivare singoli esperimenti o impedire a { -brand-short-name } di eseguire questo tipo di esperimenti in futuro.
+
+support-remote-features-title = Funzioni remote
+support-remote-features-name = Nome
+support-remote-features-status = Stato
