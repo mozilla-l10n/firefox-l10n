@@ -386,3 +386,10 @@ support-printing-clear-settings-button = 清除保存的打印设置
 support-printing-modified-settings = 修改过的打印设置
 support-printing-prefs-name = 名称
 support-printing-prefs-value = 值
+
+## Normandy sections
+
+support-remote-experiments-name = 名称
+support-remote-features-title = 远程功能
+support-remote-features-name = 名称
+support-remote-features-status = 状态
