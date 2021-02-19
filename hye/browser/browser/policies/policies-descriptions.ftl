@@ -31,7 +31,7 @@ policy-DisableDeveloperTools = Արգելափակել մատչումը մշակ�
 policy-DisableFeedbackCommands = Անջատել հրամանները արձագանք ուղարկելու համար աւգնութեան ցանկից (Հաստատել արձագանքը եւ զեկուցել անարդար կայքի մասին)։
 policy-DisableFirefoxAccounts = Անջատել { -fxaccount-brand-name } հիմնուած ծառայութիւնները, համաժամեցումը ներառեալ։
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Անջատել Firefox-ի էկրանի հանոյթների գործառոյթը։
+policy-DisableFirefoxScreenshots = Անջատել Firefox-ի եկրանի հանոյթների գործառոյթը։
 policy-DisableFirefoxStudies = Կանխարգելել { -brand-short-name }-ը բեռնուող ուսումնասիրութիւններից։
 policy-DisableForgetButton = Կանխարգելել մուտքը մոռացման կոճակով։
 policy-DisableFormHistory = Չյիշել որոնումները պատմութեան միջից։

@@ -493,7 +493,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Firefox-ի սկզբնական պարունակութիւնը
-home-prefs-content-description = Ընտրեք, թե ինչ բովանդակութիւն կը ցնականաք Ձեր Firefox-ի սկզբնական էկրանին։
+home-prefs-content-description = Ընտրէք, թե ինչ բովանդակութիւն կը ցանկանաք Ձեր Firefox-ի սկզբնական եկրանին։
 home-prefs-search-header =
     .label = Վեբ որոնում
 home-prefs-topsites-header =

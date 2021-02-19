@@ -170,13 +170,13 @@ menu-view-charset =
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Լիաէկրան
+    .label = Լիեկրան
     .accesskey = F
 menu-view-exit-full-screen =
-    .label = Դուրս գալ լիաէկրան վիճակից
+    .label = Դուրս գալ լիեկրան կերպից
     .accesskey = F
 menu-view-full-screen =
-    .label = Բացել լիաէկրան
+    .label = Բացել լիեկրան
     .accesskey = F
 
 ##

@@ -180,7 +180,7 @@ onboarding-import-sites-disclaimer = Այստեղ թուարկուած կայք�
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 onboarding-welcome-steps-indicator =
-    .aria-label = Մեկնարկում է․ էկրան { $total }֊ից { $current }
+    .aria-label = Մեկնարկում է․ եկրան { $total }֊ից { $current }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Ընտրէք <span data-l10n-name="zap">տեսք</span>

@@ -13,7 +13,7 @@
 webrtc-indicator-title = { -brand-short-name } Կիսուած
 webrtc-sharing-window = Դուք կիսում էք այլ յաւելուածի պատուհանը
 webrtc-sharing-browser-window = Դուք կիսում էք { -brand-short-name }
-webrtc-sharing-screen = Դուք կիսում էք ամբողջ էկրանը
+webrtc-sharing-screen = Դուք կիսում էք ամբողջ եկրանը
 webrtc-stop-sharing-button = Դադարեցնել
 webrtc-microphone-button =
     .title = Ձեր բարձրախօսն հասանելի է երրորդ կողմին։ Սեղմէք՝ կարգաւորումների համար
@@ -37,4 +37,4 @@ webrtc-camera-system-menu =
 webrtc-microphone-system-menu =
     .label = Դուք համաւգտագործում էք Ձեր խաւսափողը: Կտտացրէք` համաւգտագործումը ղեկավարելու համար:
 webrtc-screen-system-menu =
-    .label = Դուք համաւգտագործում էք պատուհանը կամ էկրանը: Կտտացրէք` համաւգտագործումը ղեկավարելու համար:
+    .label = Դուք համաւգտագործում էք պատուհանը կամ եկրանը: Կտտացրէք համաւգտագործումը ղեկավարելու համար:

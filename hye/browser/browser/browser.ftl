@@ -76,7 +76,7 @@ urlbar-storage-access-anchor =
 urlbar-translate-notification-anchor =
     .tooltiptext = Թարգմանել այս էջը
 urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = Կառավարել պատուհանների կամ էկրանի համաւգտագործումն այս կայքի հետ
+    .tooltiptext = Կառավարել պատուհանների կամ եկրանի համաւգտագործումն այս կայքի հետ
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Բացել անցանց պահեստի հաղորդագրութեան վահանակը
 urlbar-password-notification-anchor =
@@ -132,7 +132,7 @@ urlbar-camera-blocked =
 urlbar-microphone-blocked =
     .tooltiptext = Դուք արգելափակել եք բարձրախոսը այս կայքի համար։
 urlbar-screen-blocked =
-    .tooltiptext = Դուք արգելափակել եք այս կայքը՝ Ձեր էկրանի համաւգտագործելուց։
+    .tooltiptext = Ձեր եկրանի համաւգտագործումն այս կայքի համար արգելափակուած է։
 urlbar-persistent-storage-blocked =
     .tooltiptext = Դուք արգելափակել եք մշտական պահեստը այս կայքի համար։
 urlbar-popup-blocked =
@@ -218,7 +218,7 @@ full-screen-autohide =
     .label = Թաքցնել Գործիքագաւտիները
     .accesskey = H
 full-screen-exit =
-    .label = Դուրս գալ լիաէկրան վիճակից
+    .label = Դուրս գալ լիեկրան կերպից
     .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
@@ -366,7 +366,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Բարձրախօս` կիսուելու համար.
     .accesskey = M
-popup-all-windows-shared = Ձեր էկրանին բոլոր տեսանելի պատուհանները համաւգտագործուելու են
+popup-all-windows-shared = Ձեր եկրանի բոլոր տեսանելի պատուհանները համաւգտագործուելու են։
 popup-screen-sharing-not-now =
     .label = Ոչ հիմա
     .accesskey = w
@@ -379,7 +379,7 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name }֊ից ծա�
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = Դուք համաւգտագործում էք { -brand-short-name }։ Նոր ներդիր բացելիս այն տեսանելի կը լինի այլոց։
-sharing-warning-screen = Դուք համաւգտագործում էք ամբողջ էկրանը։ Նոր ներդիր բացելիս այն տեսանելի կը լինի այլոց։
+sharing-warning-screen = Դուք համաւգտագործում էք ամբողջ եկրանը։ Նոր ներդիր բացելիս այն տեսանելի կը լինի այլոց։
 sharing-warning-proceed-to-tab =
     .label = Անցնել Ներդիրին
 sharing-warning-disable-for-session =

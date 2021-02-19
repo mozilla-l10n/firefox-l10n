@@ -2,16 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Ստանալ էկրանի հանոյթը
+screenshots-context-menu = Ստանալ եկրանի հանոյթը
 screenshots-my-shots-button = Իմ պատկերները
 screenshots-instructions = Ներբեռնէ՛ք եւ սեղմէ՛ք էջի վրայ՝ ընտրելու տարածքը: Սեղմէ՛ք ESC՝ չեղարկելու համար:
 screenshots-cancel-button = Չեղարկել
 screenshots-save-visible-button = Պահպանէ՛ք տեսանելի
 screenshots-save-page-button = Պահպանել ամբողջ էջը
 screenshots-download-button = Ներբեռնել
-screenshots-download-button-tooltip = Ներբեռնել էկրանահանը
+screenshots-download-button-tooltip = Ներբեռնել եկրանահանը
 screenshots-copy-button = Պատճէնել
-screenshots-copy-button-tooltip = Պատճէնել էկրանահանը սեղմատախտակին
+screenshots-copy-button-tooltip = Պատճէնել եկրանահանը սեղմատախտակին
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
