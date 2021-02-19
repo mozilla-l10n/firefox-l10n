@@ -169,6 +169,7 @@ onboarding-multistage-welcome-secondary-button-text = 已有账户？
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = 将 { -brand-short-name } 设为<span data-l10n-name="zap">默认浏览器</span>
+onboarding-multistage-set-default-subtitle = 每一次浏览，都有最快速度、安全与隐私保护。
 onboarding-multistage-set-default-primary-button-label = 设为默认
 onboarding-multistage-set-default-secondary-button-label = 暂时不要
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
