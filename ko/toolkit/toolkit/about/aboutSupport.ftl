@@ -389,6 +389,7 @@ support-printing-prefs-value = 값
 support-remote-experiments-title = 원격 실험
 support-remote-experiments-name = 이름
 support-remote-experiments-branch = 실험 지점
+support-remote-experiments-see-about-studies = 개별 실험을 비활성화하거나 { -brand-short-name }가 향후 이러한 유형의 실험을 실행하지 못하도록 하는 방법을 포함한 자세한 내용은 <a data-l10n-name="support-about-studies-link">about:studies</a>를 참조하세요.
 support-remote-features-title = 원격 기능
 support-remote-features-name = 이름
 support-remote-features-status = 상태
