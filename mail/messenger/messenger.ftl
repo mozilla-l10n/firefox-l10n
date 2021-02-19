@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } är fri programvara baser
 folder-pane-toolbar =
     .toolbarname = Verktygsfältet mappfönster
     .accesskey = m
+folder-pane-toolbar-options-button =
+    .tooltiptext = Alternativ för mappfönster
 folder-pane-header-label = Mappar
 
 ## Folder Toolbar Header Popup
