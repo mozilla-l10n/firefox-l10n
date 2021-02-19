@@ -44,10 +44,10 @@ printui-scale-pcent = Graddfa
 printui-two-sided-printing = Argraffu dwy ochr
 printui-duplex-checkbox = Argraffu ar y ddwy ochr
 printui-two-sided-printing-off = Wedi diffodd
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Fflipio ar ymyl ochr
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Fflipio ar ymyl uchaf
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Fflipio ar ymyl hir
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Fflipio ar ymyl fer
 # Section title for miscellaneous print options
 printui-options = Dewisiadau
 printui-headers-footers-checkbox = Argraffu penynnau a throedynnau
@@ -105,6 +105,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Rhaid i'r raddfa fod yn rhif rhwng 10 a 200.
 printui-error-invalid-margin = Rhowch ymyl ddilys ar gyfer y maint papur a ddewiswyd.
+printui-error-invalid-copies = Rhaid i gopïau fod yn rhif rhwng 1 a 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rhaid i'r raddfa fod yn rhif rhwng 10 a { $numPages }.

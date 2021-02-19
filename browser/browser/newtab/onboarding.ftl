@@ -170,7 +170,7 @@ onboarding-multistage-welcome-secondary-button-text = Oes gennych chi gyfrif?
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Gwnewch { -brand-short-name } yn <span data-l10n-name="zap"> ragosodedig </span>
 onboarding-multistage-set-default-subtitle = Cyflymder, diogelwch a phreifatrwydd bob tro y byddwch chi'n pori.
-onboarding-multistage-set-default-primary-button-label = Gwneud yn Ragosodedig
+onboarding-multistage-set-default-primary-button-label = Gwnewch yn Ragosodedig
 onboarding-multistage-set-default-secondary-button-label = Nid nawr
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
