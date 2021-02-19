@@ -413,3 +413,11 @@ support-printing-clear-settings-button = Składowane ćišćerske nastajenja zha
 support-printing-modified-settings = Změnjene ćišćerske nastajenja
 support-printing-prefs-name = Mjeno
 support-printing-prefs-value = Hódnota
+
+## Normandy sections
+
+support-remote-experiments-title = Zdalene eksperimenty
+support-remote-experiments-name = Mjeno
+support-remote-features-title = Zdalene funkcije
+support-remote-features-name = Mjeno
+support-remote-features-status = Status
