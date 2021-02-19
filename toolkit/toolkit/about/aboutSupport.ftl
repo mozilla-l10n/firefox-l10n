@@ -406,3 +406,11 @@ support-printing-clear-settings-button = Διαγραφή αποθηκευμέν
 support-printing-modified-settings = Τροποποιημένες ρυθμίσεις εκτύπωσης
 support-printing-prefs-name = Όνομα
 support-printing-prefs-value = Τιμή
+
+## Normandy sections
+
+support-remote-experiments-title = Απομακρυσμένα πειράματα
+support-remote-experiments-name = Όνομα
+support-remote-features-title = Απομακρυσμένες δυνατότητες
+support-remote-features-name = Όνομα
+support-remote-features-status = Κατάσταση

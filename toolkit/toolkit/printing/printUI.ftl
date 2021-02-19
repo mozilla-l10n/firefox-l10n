@@ -39,6 +39,7 @@ printui-scale-pcent = Κλίμακα
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Εκτύπωση δύο όψεων
 printui-duplex-checkbox = Εκτύπωση και στις δυο πλευρές
+printui-two-sided-printing-off = Ανενεργό
 # Section title for miscellaneous print options
 printui-options = Επιλογές
 printui-headers-footers-checkbox = Εκτύπωση κεφαλίδων και υποσέλιδων
@@ -96,6 +97,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Η κλίμακα πρέπει να είναι μεταξύ 10 και 200.
 printui-error-invalid-margin = Εισάγετε ένα έγκυρο περιθώριο για το επιλεγμένο μέγεθος χαρτιού.
+printui-error-invalid-copies = Τα αντίγραφα πρέπει να είναι ένας αριθμός μεταξύ 1 και 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Το εύρος πρέπει να είναι αριθμός μεταξύ 1 και { $numPages }.

@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Πρόσφατα κλεισμένες καρτέλες
 menu-history-undo-window-menu =
     .label = Πρόσφατα κλεισμένα παράθυρα
+menu-history-reopen-all-tabs = Επαναφορά όλων των καρτελών
+menu-history-reopen-all-windows = Επαναφορά όλων των παραθύρων
 
 ## Bookmarks Menu
 
