@@ -9,6 +9,8 @@ about-rights-notification-text = Mae { -brand-short-name } yn feddalwedd cod ago
 folder-pane-toolbar =
     .toolbarname = Bar Offer Paen Ffolder
     .accesskey = P
+folder-pane-toolbar-options-button =
+    .tooltiptext = Opsiynau Ffolder Paen
 folder-pane-header-label = Ffolderi
 
 ## Folder Toolbar Header Popup
