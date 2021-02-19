@@ -578,6 +578,9 @@ bookmarks-toolbar-placeholder =
     .title = Էջանիշերի վահանակի տարրերը
 bookmarks-toolbar-placeholder-button =
     .label = Էջանիշերի վահանակի տարրերը
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Էջանշել սոյն ներդիրը
 
 ## Library Panel items
 
