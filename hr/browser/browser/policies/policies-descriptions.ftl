@@ -26,7 +26,7 @@ policy-DisabledCiphers = Deaktiviraj šifratore.
 policy-DefaultDownloadDirectory = Postavi standardnu mapu za preuzimanje.
 policy-DisableAppUpdate = Spriječi aktualiziranje preglednika.
 policy-DisableBuiltinPDFViewer = Onemogući PDF.js, ugrađeni preglednik PDF datoteka u { -brand-short-name }u.
-policy-DisableDefaultBrowserAgent = Spriječi standardnog agenta preglednika poduzeti bilo kakve radnje. Primjenjivo samo na Windows sustavu; druge platforme nemaju agenta.
+policy-DisableDefaultBrowserAgent = Spriječi zadanog agenta preglednika da poduzima bilo kakve radnje. Primjenjivo samo na Windowsu; druge platforme nemaju agenta.
 policy-DisableDeveloperTools = Blokiraj pristup programerskim alatima.
 policy-DisableFeedbackCommands = Onemogući naredbe za slanje povratnih informacija u izborniku pomoći (Pošalji povratne informacije i Prijavi obmanjujuću stranicu).
 policy-DisableFirefoxAccounts = Onemogući usluge koje se temelje na { -fxaccount-brand-name }u, uključujući sinkronizaciju.
@@ -47,8 +47,8 @@ policy-DisableSecurityBypass = Spriječite korisnika da zaobiđe određena sigur
 policy-DisableSetAsDesktopBackground = Onemogućite naredbu izbornika Postavi kao pozadinu radne površine.
 policy-DisableSystemAddonUpdate = Spriječi instaliranje i aktualiziranje sustavskih dodataka u pregledniku.
 policy-DisableTelemetry = Isključi telemetriju.
-policy-DisplayBookmarksToolbar = Standardno prikaži alatnu traku zabilješki.
-policy-DisplayMenuBar = Standardno prikaži traku izbornika.
+policy-DisplayBookmarksToolbar = Zadano prikaži alatnu traku zabilješki.
+policy-DisplayMenuBar = Zadano prikaži traku izbornika.
 policy-DNSOverHTTPS = Podesi DNS preko HTTPS-a.
 policy-DontCheckDefaultBrowser = Onemogući provjeru standardnog preglednika prilikom pokretanja.
 policy-DownloadDirectory = Postavi i zaključaj direktorij za preuzimanje.
@@ -73,7 +73,7 @@ policy-LegacyProfiles = Onemogućuje značajku koja nameće zaseban profil za sv
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
-policy-LegacySameSiteCookieBehaviorEnabled = Aktiviraj standardnu staru postavku ponašanja SameSite kolačića.
+policy-LegacySameSiteCookieBehaviorEnabled = Aktiviraj zadanu staru postavku ponašanja SameSite kolačića.
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vrati se na staro ponašanje SameSitea za kolačiće na određenim stranicama.
 
 ##

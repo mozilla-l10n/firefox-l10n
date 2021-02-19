@@ -176,6 +176,7 @@ language-name-st = Južnosothoški
 language-name-su = Sundski
 language-name-sv = Švedski
 language-name-sw = Svahili
+language-name-szl = Šleski
 language-name-ta = Tamilski
 language-name-te = Teluguški
 language-name-tg = Tadžički

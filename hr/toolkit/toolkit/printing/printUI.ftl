@@ -41,10 +41,10 @@ printui-scale-pcent = Mjerilo
 printui-two-sided-printing = Obostrani ispis
 printui-duplex-checkbox = Ispis s obje strane
 printui-two-sided-printing-off = Isključeno
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Preokreni na bočnom rubu
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Preokreni na gornjem rubu
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Preokreni na dužem rubu
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Preokreni na kraćem rubu
 # Section title for miscellaneous print options
 printui-options = Opcije
 printui-headers-footers-checkbox = Ispis zaglavlja i podnožja
@@ -102,6 +102,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Mjerilo mora biti broj između 10 i 200.
 printui-error-invalid-margin = Unesi valjanu marginu za odabranu veličinu papira.
+printui-error-invalid-copies = Kopije moraju biti broj između 1 i 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Raspon mora biti broj između 1 i { $numPages }.
