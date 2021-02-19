@@ -15,7 +15,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Տեսք">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Փոխել դիտելու ձեւը">
+<!ENTITY views.tooltip                  "Փոխել դիտելաձեւը">
 <!ENTITY view.columns.label             "Ցուցադրել սիւները">
 <!ENTITY view.columns.accesskey         "C">
 <!ENTITY view.sort.label                "Տեսակաւորել">
@@ -60,4 +60,3 @@
 <!ENTITY forwardButton.tooltip  "Անցնել առաջ">
 
 <!ENTITY detailsPane.selectAnItemText.description "Ընտրէք բաղադրիչը դիտելու եւ խմբագրելու նրա կարգաւորումները">
-
