@@ -7,9 +7,9 @@ migration-wizard =
 import-from =
     { PLATFORM() ->
         [windows] Ներմուծել ընտրանքները, էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ տուեալներ այստեղից՝
-       *[other] Ներմուծել կարգաւորումները, էջանիշները, գաղտնաբառերը եւ այլ տուեալներ՝
+       *[other] Ներմուծել կարգաւորումները, էջանիշերը, գաղտնաբառերը եւ այլ տուեալներ՝
     }
-import-from-bookmarks = Ներմուծել էջանիշները՝
+import-from-bookmarks = Ներմուծել էջանիշերը՝
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
