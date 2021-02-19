@@ -406,3 +406,8 @@ support-printing-clear-settings-button = Gespeicherte Druckeinstellungen lösche
 support-printing-modified-settings = Angepasste Druckeinstellungen
 support-printing-prefs-name = Name
 support-printing-prefs-value = Wert
+
+## Normandy sections
+
+support-remote-features-name = Name
+support-remote-features-status = Status
