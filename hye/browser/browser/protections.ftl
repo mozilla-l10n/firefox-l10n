@@ -27,7 +27,7 @@ protection-report-page-content-title = Պաշտպանութեան կառավահ
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name }-ը կարող է պաշտպանել Ձեր գաղտնիութիւնը դիտարկման ընթացքում։ Ահա պաշտպանուածութիւնների անհատականացուած ամփոփագիրը՝ ներառեալ Ձեր առցանց անվտանգութիւնը վերահսկելու գործիքները:
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = { -brand-short-name } պաշտպանում է ձեր գաղտնիութիւնը համացանցում գտնուելու ընթացքում։ Սա անհատական պաշտպանութեան ամփոփումն է, որը ներառում է ձեր առցանց անվտանգութիւնը կարգաւորող գործիքները։
+protection-report-page-summary-default = { -brand-short-name }֊ը պաշտպանում է ձեր գաղտնիութիւնը համացանցում գտնուելիս։ Սա անհատական պաշտպանութեան ամփոփումն է, որը ներառում է ձեր առցանց անվտանգութիւնը կարգաւորող գործիքները։
 protection-report-settings-link = Վերահսկէք ձեր գաղտնիութեան եւ անվտանգութեան կարգաւորումները
 etp-card-title-always = Ընդլայնուած պաշտպանութիւն հետեւումից. Միշտ միացած
 etp-card-title-custom-not-blocking = Ընդլայնուած պաշտպանութիւն հետեւոմից։ Անջատուած
