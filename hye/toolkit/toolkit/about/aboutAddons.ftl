@@ -56,10 +56,10 @@ cmd-preferences =
            *[other] P
         }
 cmd-enable-theme =
-    .label = Աւգտագործել ոճապնակ
+    .label = Աւգտագործել հիմնապատկեր
     .accesskey = W
 cmd-disable-theme =
-    .label = Դադարեցնել ոճապնակի աւգտագործումը
+    .label = Դադարեցնել հիմնապատկերի աւգտագործումը
     .accesskey = W
 cmd-install-addon =
     .label = Տեղադրել
@@ -155,9 +155,9 @@ addon-category-discover-title =
 addon-category-extension = Ընդյալնումներ
 addon-category-extension-title =
     .title = Ընդլայնումներ
-addon-category-theme = Ոճապնակներ
+addon-category-theme = Հիմնապատկերներ
 addon-category-theme-title =
-    .title = Ոճապնակներ
+    .title = Հիմնապատկերներ
 addon-category-plugin = Ներդիրներ
 addon-category-plugin-title =
     .title = Ներդիրներ
@@ -377,9 +377,6 @@ addon-detail-private-browsing-disallow = Չթոյլատրել
 addon-badge-recommended2 =
     .title = { -brand-product-name }-ը առաջարկում է միայն այն ընդլայնումները, որոնք համապատասխանում են անվտանգութեան և արդիւնաւէտութեան մեր չափաւրինակներին
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line2 =
-    .title = Սա պաշտաւնական ընդլայնում է, որը կառուցուել է { -brand-product-name } -ի ստեղծողների կողմից
-    .aria-label = { addon-badge-line2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
