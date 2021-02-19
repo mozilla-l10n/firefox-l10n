@@ -14,6 +14,10 @@ appmenuitem-new-window =
     .label = Равзанаи нав
 appmenuitem-new-private-window =
     .label = Равзанаи махфии нав
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Танзимот
 
 ## Zoom and Fullscreen Controls
 
@@ -44,6 +48,21 @@ profiler-popup-settings =
     .value = Танзимот
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Таҳрир кардани танзимот…
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
+
+## History panel
+
+appmenu-manage-history =
+    .label = Идоракунии таърих
 
 ## Help panel
 
@@ -57,4 +76,7 @@ profiler-popup-edit-settings = Таҳрир кардани танзимот…
 
 
 ##
+
+
+## More Tools
 
