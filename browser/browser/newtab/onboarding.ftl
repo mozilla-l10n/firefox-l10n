@@ -166,8 +166,11 @@ onboarding-multistage-welcome-subtitle = 비영리 단체가 지원하는, 빠�
 onboarding-multistage-welcome-primary-button-label = 설정 시작
 onboarding-multistage-welcome-secondary-button-label = 로그인
 onboarding-multistage-welcome-secondary-button-text = 계정이 있으십니까?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name }를 <span data-l10n-name="zap">기본 브라우저</span>로 설정
 onboarding-multistage-set-default-subtitle = 탐색할 때마다 속도, 안전 및 개인 정보 보호.
-onboarding-multistage-set-default-primary-button-label = 기본값으로 설정
+onboarding-multistage-set-default-primary-button-label = 기본 브라우저로
 onboarding-multistage-set-default-secondary-button-label = 나중에
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
