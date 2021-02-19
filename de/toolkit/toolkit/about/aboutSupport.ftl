@@ -409,5 +409,6 @@ support-printing-prefs-value = Wert
 
 ## Normandy sections
 
+support-remote-experiments-name = Name
 support-remote-features-name = Name
 support-remote-features-status = Status
