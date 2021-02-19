@@ -98,6 +98,11 @@ drop-file-label-attachment =
         [one] Adicionar como anexo
        *[other] Adicionar como anexos
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Anexar dentro da mensagem
+       *[other] Anexar dentro da mensagem
+    }
 
 # Reorder Attachment Panel
 
