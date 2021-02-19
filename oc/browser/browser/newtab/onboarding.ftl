@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Avètz ja un compte ?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Connectatz-vos
 onboarding-start-browsing-button-label = Començar de navegar
-onboarding-not-now-button-label = Pas ara
 onboarding-cards-dismiss =
     .title = Tirar
     .aria-label = Tirar
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Recebètz una notification quand vòstras info
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }{ -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Gerissètz vòstres senhals protegits e portables.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
+onboarding-tracking-protection-text2 = { -brand-short-name } empacha que los sites web vos pisten en linha, fa venir complicat que la publicitat vos pòsca seguir per Internet.
+onboarding-tracking-protection-button2 = Cossí fonciona
+onboarding-data-sync-title = Emportatz vòstres paramètres pertot
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronizatz los marcapaginas, senhals e encara mai pertot ont utilizatz { -brand-product-name }.
+onboarding-data-sync-button2 = Se connectar a { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Siatz al fial de las pèrdas de donadas
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } verifica se vòstra adreça electronica apareis dins una pèrda de donadas e vos alèrta s’apareis dins una nòva divulgacion.
+onboarding-firefox-monitor-button = S’abonar a las alèrtas
+onboarding-browse-privately-title = Navegatz d’un biais privat
+onboarding-browse-privately-text = La navegacion privada escafa vòstre istoric de recèrcas e de navegacion per los gardar secrets de monde qu’utilizan vòstre ordenador.
+onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
+onboarding-firefox-send-title = Gardatz privats los fichièrs que partejatz
+onboarding-firefox-send-text2 = Enviatz vòstres fichièrs amb { -send-brand-name } per los partejar amb un chiframent del cap a la fin e un ligam qu’expira automaticament.
+onboarding-firefox-send-button = Ensajatz { -send-brand-name }
+onboarding-mobile-phone-title = Installatz { -brand-product-name } sus vòstre mobil
+onboarding-mobile-phone-text = Telecargatz { -brand-product-name } per iOS o Android e sincronizatz vòstras donadas entre periferics.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Telecargar lo navegador mobil
+onboarding-send-tabs-title = Enviatz-vos d’onglets
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Partejatz aisidament de paginas entre vòstres periferics sens aver a copiar los ligams o quitar lo navegador.
+onboarding-send-tabs-button = Començar d’utilizar « Enviar l’onglet »
+onboarding-pocket-anywhere-title = Legissètz e escotatz pertot
+onboarding-pocket-anywhere-text2 = Enregistratz vòstre contengut preferit fòra linha amb l’aplicacion { -pocket-brand-name } per lo legir, escotar e gaitar quand vos agrada.
+onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Creatz e gardatz de senhals fòrts.
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crèa de senhals fòrts sul pic e los garda en un sòl lòc.
+onboarding-lockwise-strong-passwords-button = Gerir vòstres identificants
+onboarding-facebook-container-title = Botatz de limitas amb Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } garda vòstre perfil separat de la rèsta, fa venir mai dificil per Facebook de vos ciblar amb de publicitats personalizadas.
+onboarding-facebook-container-button = Apondre l’extension
+onboarding-import-browser-settings-title = Importatz vòstres marcapaginas, senhals, e encara mai
+onboarding-import-browser-settings-text = Emportatz aisidament vòstres sites e paramètres Chrome.
+onboarding-import-browser-settings-button = Importar las donadas de Chrome
+onboarding-personal-data-promise-title = Concebut per la confidencialitat
+onboarding-personal-data-promise-text = { -brand-product-name } tracta vòstras donadas amb respècte en ne prendre mes, en las protegir e en èsser clar a prepaus de lor utilizacion.
+onboarding-personal-data-promise-button = Legir nòstra promessa
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Qué crane, avètz { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Ara anem vos installar <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Apondre l’extension
+return-to-amo-get-started-button = Ben començar amb { -brand-short-name }
+onboarding-not-now-button-label = Pas ara
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Qué crane, avètz { -brand-short-name }
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = Lo navegador rapid, segur e privat sost
 onboarding-multistage-welcome-primary-button-label = Començar la configuracion
 onboarding-multistage-welcome-secondary-button-label = Se connectar
 onboarding-multistage-welcome-secondary-button-text = Avètz un compte ?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Definir { -brand-short-name } per <span data-l10n-name="zap">defaut</span>
+onboarding-multistage-set-default-subtitle = Velocitat, seguretat e confidencialitat cada còp que navegatz.
+onboarding-multistage-set-default-primary-button-label = Definir per defaut
+onboarding-multistage-set-default-secondary-button-label = Pas ara
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importatz los senhals, <br/>marcapaginas, e <span data-l10n-name="zap">mai</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Utilizar una aparéncia colorada pels
         botons, menús e las fenèstras.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Proteccion contra lo seguiment
-onboarding-tracking-protection-text2 = { -brand-short-name } empacha que los sites web vos pisten en linha, fa venir complicat que la publicitat vos pòsca seguir per Internet.
-onboarding-tracking-protection-button2 = Cossí fonciona
-onboarding-data-sync-title = Emportatz vòstres paramètres pertot
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Sincronizatz los marcapaginas, senhals e encara mai pertot ont utilizatz { -brand-product-name }.
-onboarding-data-sync-button2 = Se connectar a { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Siatz al fial de las pèrdas de donadas
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } verifica se vòstra adreça electronica apareis dins una pèrda de donadas e vos alèrta s’apareis dins una nòva divulgacion.
-onboarding-firefox-monitor-button = S’abonar a las alèrtas
-onboarding-browse-privately-title = Navegatz d’un biais privat
-onboarding-browse-privately-text = La navegacion privada escafa vòstre istoric de recèrcas e de navegacion per los gardar secrets de monde qu’utilizan vòstre ordenador.
-onboarding-browse-privately-button = Dobrir una fenèstra de navegacion privada
-onboarding-firefox-send-title = Gardatz privats los fichièrs que partejatz
-onboarding-firefox-send-text2 = Enviatz vòstres fichièrs amb { -send-brand-name } per los partejar amb un chiframent del cap a la fin e un ligam qu’expira automaticament.
-onboarding-firefox-send-button = Ensajatz { -send-brand-name }
-onboarding-mobile-phone-title = Installatz { -brand-product-name } sus vòstre mobil
-onboarding-mobile-phone-text = Telecargatz { -brand-product-name } per iOS o Android e sincronizatz vòstras donadas entre periferics.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Telecargar lo navegador mobil
-onboarding-send-tabs-title = Enviatz-vos d’onglets
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Partejatz aisidament de paginas entre vòstres periferics sens aver a copiar los ligams o quitar lo navegador.
-onboarding-send-tabs-button = Començar d’utilizar « Enviar l’onglet »
-onboarding-pocket-anywhere-title = Legissètz e escotatz pertot
-onboarding-pocket-anywhere-text2 = Enregistratz vòstre contengut preferit fòra linha amb l’aplicacion { -pocket-brand-name } per lo legir, escotar e gaitar quand vos agrada.
-onboarding-pocket-anywhere-button = Ensajar { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Creatz e gardatz de senhals fòrts.
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crèa de senhals fòrts sul pic e los garda en un sòl lòc.
-onboarding-lockwise-strong-passwords-button = Gerir vòstres identificants
-onboarding-facebook-container-title = Botatz de limitas amb Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } garda vòstre perfil separat de la rèsta, fa venir mai dificil per Facebook de vos ciblar amb de publicitats personalizadas.
-onboarding-facebook-container-button = Apondre l’extension
-onboarding-import-browser-settings-title = Importatz vòstres marcapaginas, senhals, e encara mai
-onboarding-import-browser-settings-text = Emportatz aisidament vòstres sites e paramètres Chrome.
-onboarding-import-browser-settings-button = Importar las donadas de Chrome
-onboarding-personal-data-promise-title = Concebut per la confidencialitat
-onboarding-personal-data-promise-text = { -brand-product-name } tracta vòstras donadas amb respècte en ne prendre mes, en las protegir e en èsser clar a prepaus de lor utilizacion.
-onboarding-personal-data-promise-button = Legir nòstra promessa
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Qué crane, avètz { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Ara anem vos installar <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Apondre l’extension
-return-to-amo-get-started-button = Ben començar amb { -brand-short-name }
