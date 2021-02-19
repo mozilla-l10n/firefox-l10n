@@ -53,6 +53,7 @@ inactive-css-not-for-internal-table-elements-fix = Ensajatz d’atribuir a la pr
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ensajatz d’atribuir a la proprietat <strong>display</strong> una valor diferenta de <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Ensajar de definir sa proprietat <strong>outline-style</strong> a una valor diferenta de <strong>auto</strong> o <strong>none</strong>. { learn-more }
 inactive-css-not-table-fix = Ensajatz d’apondre <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Ensajatz d’apondre <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
