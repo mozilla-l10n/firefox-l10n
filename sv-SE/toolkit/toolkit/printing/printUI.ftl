@@ -101,6 +101,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Skalan måste vara ett nummer mellan 10 och 200.
 printui-error-invalid-margin = Ange en giltig marginal för den valda pappersstorleken.
+printui-error-invalid-copies = Kopiorna måste vara mellan 1 och 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Området måste vara ett nummer mellan 1 och { $numPages }.
