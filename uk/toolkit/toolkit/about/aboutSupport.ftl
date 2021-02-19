@@ -411,3 +411,13 @@ support-printing-clear-settings-button = Очистити збережені н�
 support-printing-modified-settings = Змінені налаштування друку
 support-printing-prefs-name = Назва
 support-printing-prefs-value = Значення
+
+## Normandy sections
+
+support-remote-experiments-title = Віддалені експерименти
+support-remote-experiments-name = Назва
+support-remote-experiments-branch = Гілка експерименту
+support-remote-experiments-see-about-studies = Перегляньте <a data-l10n-name="support-about-studies-link">about:studies</a> для докладнішої інформації, включаючи інструкції про те, як вимкнути певні експерименти, або як вимкнути для { -brand-short-name } виконання експериментів такого типу в майбутньому.
+support-remote-features-title = Віддалені функції
+support-remote-features-name = Назва
+support-remote-features-status = Стан

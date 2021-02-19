@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Вже маєте обліковий зап�
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Увійти
 onboarding-start-browsing-button-label = Почати перегляд
-onboarding-not-now-button-label = Не зараз
 onboarding-cards-dismiss =
     .title = Сховати
     .aria-label = Сховати
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Отримуйте сповіщення, ко�
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Отримайте безпечний доступ до паролів на всіх пристроях.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Захист від стеження
+onboarding-tracking-protection-text2 = { -brand-short-name } допомагає запобігти стеженню вебсайтами за вами в мережі, ускладнюючи рекламі переслідувати вас.
+onboarding-tracking-protection-button2 = Як це працює
+onboarding-data-sync-title = Синхронізуйте свої налаштування
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Синхронізуйте закладки, паролі та інші дані між усіма пристроями { -brand-product-name }.
+onboarding-data-sync-button2 = Увійти в { -sync-brand-short-name(case: "acc") }
+onboarding-firefox-monitor-title = Отримуйте попередження про витоки даних
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } стежить, чи не з'явилася ваша адреса електронної пошти у відомих витоках даних і одразу повідомляє вас про це.
+onboarding-firefox-monitor-button = Підписатися на попередження
+onboarding-browse-privately-title = Користуйтесь інтернетом приватно
+onboarding-browse-privately-text = Приватний перегляд очищує вашу історію пошуку і перегляду, щоб не дозволити дізнатися про неї іншим користувачам вашого комп'ютера.
+onboarding-browse-privately-button = Відкрити приватне вікно
+onboarding-firefox-send-title = Приватний обмін файлами
+onboarding-firefox-send-text2 = Вивантажуйте свої файли через { -send-brand-name }, щоб обмінюватися ними з використанням наскрізного шифрування і посиланнями з функцією автоматичного самознищення.
+onboarding-firefox-send-button = Спробувати { -send-brand-name }
+onboarding-mobile-phone-title = Встановіть { -brand-product-name } на свій смартфон
+onboarding-mobile-phone-text = Завантажте { -brand-product-name } для iOS чи Android і синхронізуйте свої дані між різними пристроями.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Завантажити мобільний браузер
+onboarding-send-tabs-title = Миттєво пересилайте собі вкладки
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Легко обмінюйтесь сторінками між своїми пристроями без копіювання посилань та не покидаючи браузер.
+onboarding-send-tabs-button = Почати використання обмін вкладками
+onboarding-pocket-anywhere-title = Читайте і слухайте всюди
+onboarding-pocket-anywhere-text2 = Зберігайте улюблені статті для автономного доступу за допомогою додатка { -pocket-brand-name } і читайте та слухайте їх всюди, де вам зручно.
+onboarding-pocket-anywhere-button = Спробувати { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Створюйте й зберігайте надійні паролі
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } створює надійні паролі та зберігає їх всі в одному місці.
+onboarding-lockwise-strong-passwords-button = Керуйте своїми паролями
+onboarding-facebook-container-title = Встановіть обмеження для Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } обмежує ваш соціальний профіль від доступу до всього іншого, ускладнюючи для Facebook можливість стежити за вами з метою показу реклами.
+onboarding-facebook-container-button = Додати розширення
+onboarding-import-browser-settings-title = Імпортуйте свої закладки, паролі та іншу інформацію
+onboarding-import-browser-settings-text = Швидке занурення — легко перенесіть свої сайти й налаштування з Chrome.
+onboarding-import-browser-settings-button = Імпорт даних Chrome
+onboarding-personal-data-promise-title = Розроблено для приватності
+onboarding-personal-data-promise-text = { -brand-product-name } ставиться до ваших даних з повагою, тому ми отримуємо їх якнайменше, захищаємо їх та чесно повідомляємо, як ми ними користуємося.
+onboarding-personal-data-promise-button = Прочитайте нашу Обіцянку
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Чудово, ви отримали { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Тепер перейдімо до <icon></icon><b>{ $addon-name }</b>.
+return-to-amo-extension-button = Додати розширення
+return-to-amo-get-started-button = Початок роботи з { -brand-short-name }
+onboarding-not-now-button-label = Не зараз
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Чудово, ви отримали { -brand-short-name }
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = Швидкий, безпечний та
 onboarding-multistage-welcome-primary-button-label = Почати налаштування
 onboarding-multistage-welcome-secondary-button-label = Увійти
 onboarding-multistage-welcome-secondary-button-text = Маєте обліковий запис?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Зробіть { -brand-short-name } своїм <span data-l10n-name="zap">типовим</span>
+onboarding-multistage-set-default-subtitle = Швидкість, безпека та приватність завжди під час перегляду.
+onboarding-multistage-set-default-primary-button-label = Зробити типовим
+onboarding-multistage-set-default-secondary-button-label = Не зараз
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Імпортуйте свої паролі, закладки та <span data-l10n-name="zap">інші дані</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Використовувати різнобарвний вигляд
         кнопок, меню та вікон.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Захист від стеження
-onboarding-tracking-protection-text2 = { -brand-short-name } допомагає запобігти стеженню вебсайтами за вами в мережі, ускладнюючи рекламі переслідувати вас.
-onboarding-tracking-protection-button2 = Як це працює
-onboarding-data-sync-title = Синхронізуйте свої налаштування
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Синхронізуйте закладки, паролі та інші дані між усіма пристроями { -brand-product-name }.
-onboarding-data-sync-button2 = Увійти в { -sync-brand-short-name(case: "acc") }
-onboarding-firefox-monitor-title = Отримуйте попередження про витоки даних
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } стежить, чи не з'явилася ваша адреса електронної пошти у відомих витоках даних і одразу повідомляє вас про це.
-onboarding-firefox-monitor-button = Підписатися на попередження
-onboarding-browse-privately-title = Користуйтесь інтернетом приватно
-onboarding-browse-privately-text = Приватний перегляд очищує вашу історію пошуку і перегляду, щоб не дозволити дізнатися про неї іншим користувачам вашого комп'ютера.
-onboarding-browse-privately-button = Відкрити приватне вікно
-onboarding-firefox-send-title = Приватний обмін файлами
-onboarding-firefox-send-text2 = Вивантажуйте свої файли через { -send-brand-name }, щоб обмінюватися ними з використанням наскрізного шифрування і посиланнями з функцією автоматичного самознищення.
-onboarding-firefox-send-button = Спробувати { -send-brand-name }
-onboarding-mobile-phone-title = Встановіть { -brand-product-name } на свій смартфон
-onboarding-mobile-phone-text = Завантажте { -brand-product-name } для iOS чи Android і синхронізуйте свої дані між різними пристроями.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Завантажити мобільний браузер
-onboarding-send-tabs-title = Миттєво пересилайте собі вкладки
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Легко обмінюйтесь сторінками між своїми пристроями без копіювання посилань та не покидаючи браузер.
-onboarding-send-tabs-button = Почати використання обмін вкладками
-onboarding-pocket-anywhere-title = Читайте і слухайте всюди
-onboarding-pocket-anywhere-text2 = Зберігайте улюблені статті для автономного доступу за допомогою додатка { -pocket-brand-name } і читайте та слухайте їх всюди, де вам зручно.
-onboarding-pocket-anywhere-button = Спробувати { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Створюйте й зберігайте надійні паролі
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } створює надійні паролі та зберігає їх всі в одному місці.
-onboarding-lockwise-strong-passwords-button = Керуйте своїми паролями
-onboarding-facebook-container-title = Встановіть обмеження для Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } обмежує ваш соціальний профіль від доступу до всього іншого, ускладнюючи для Facebook можливість стежити за вами з метою показу реклами.
-onboarding-facebook-container-button = Додати розширення
-onboarding-import-browser-settings-title = Імпортуйте свої закладки, паролі та іншу інформацію
-onboarding-import-browser-settings-text = Швидке занурення — легко перенесіть свої сайти й налаштування з Chrome.
-onboarding-import-browser-settings-button = Імпорт даних Chrome
-onboarding-personal-data-promise-title = Розроблено для приватності
-onboarding-personal-data-promise-text = { -brand-product-name } ставиться до ваших даних з повагою, тому ми отримуємо їх якнайменше, захищаємо їх та чесно повідомляємо, як ми ними користуємося.
-onboarding-personal-data-promise-button = Прочитайте нашу Обіцянку
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Чудово, ви отримали { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Тепер перейдімо до <icon></icon><b>{ $addon-name }</b>.
-return-to-amo-extension-button = Додати розширення
-return-to-amo-get-started-button = Початок роботи з { -brand-short-name }

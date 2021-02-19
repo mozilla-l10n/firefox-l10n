@@ -41,10 +41,10 @@ printui-scale-pcent = Масштаб
 printui-two-sided-printing = Двосторонній друк
 printui-duplex-checkbox = Друк з обох сторін
 printui-two-sided-printing-off = Вимкнено
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Перевернути на бічний край
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Перевернути на верхній край
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Перевернути на довгий край
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Перевернути на короткий край
 # Section title for miscellaneous print options
 printui-options = Параметри
 printui-headers-footers-checkbox = Друкувати колонтитули
@@ -102,6 +102,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Масштаб повинен бути числом від 10 до 200.
 printui-error-invalid-margin = Введіть дійсне значення поля для вибраного формату паперу.
+printui-error-invalid-copies = Копії повинні бути числом від 1 до 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Діапазон повинен бути числом від 1 до { $numPages }.
