@@ -64,6 +64,10 @@ menuitem-attach-files =
     .label = 檔案…
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = 附加檔案…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -82,9 +86,29 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = 顯示附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
+collapse-attachment-pane-tooltip =
+    .tooltiptext = 隱藏附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
+drop-file-label-attachment =
+    { $count ->
+       *[other] 新增為附件
+    }
+drop-file-label-inline =
+    { $count ->
+       *[other] 加到行內
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = 移到第一個
+move-attachment-left-panel-button =
+    .label = 移到左邊
+move-attachment-right-panel-button =
+    .label = 移到右邊
+move-attachment-last-panel-button =
+    .label = 移到最後一個
 button-return-receipt =
     .label = 收件回執
     .tooltiptext = 要求對方收信後寄發回執
