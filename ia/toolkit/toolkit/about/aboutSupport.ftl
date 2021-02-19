@@ -406,3 +406,7 @@ support-printing-clear-settings-button = Eliminar le parametros de impression sa
 support-printing-modified-settings = Parametros de impression modificate
 support-printing-prefs-name = Nomine
 support-printing-prefs-value = Valor
+
+## Normandy sections
+
+support-remote-experiments-name = Nomine
