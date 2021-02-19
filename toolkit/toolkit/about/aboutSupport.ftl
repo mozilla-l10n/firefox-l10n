@@ -407,5 +407,6 @@ support-printing-prefs-value = Verdi
 ## Normandy sections
 
 support-remote-experiments-name = Navn
+support-remote-features-title = Eksterne funksjoner
 support-remote-features-name = Navn
 support-remote-features-status = Status
