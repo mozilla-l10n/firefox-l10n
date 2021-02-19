@@ -386,3 +386,12 @@ support-printing-clear-settings-button = 清除儲存的列印設定
 support-printing-modified-settings = 更改過的列印設定
 support-printing-prefs-name = 名稱
 support-printing-prefs-value = 值
+
+## Normandy sections
+
+support-remote-experiments-title = 遠端實驗
+support-remote-experiments-name = 名稱
+support-remote-experiments-branch = 實驗分支
+support-remote-features-title = 遠端功能
+support-remote-features-name = 名稱
+support-remote-features-status = 狀態
