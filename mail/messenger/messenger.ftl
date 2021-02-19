@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } 是一款自由且开源�
 folder-pane-toolbar =
     .toolbarname = 文件夹窗格工具栏
     .accesskey = F
+folder-pane-toolbar-options-button =
+    .tooltiptext = 文件夹窗格选项
 folder-pane-header-label = 文件夹
 
 ## Folder Toolbar Header Popup
