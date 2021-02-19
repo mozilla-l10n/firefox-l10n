@@ -31,6 +31,7 @@ inactive-outline-radius-when-outline-style-auto-or-none = 由于此元素的 <st
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 对内部表格元素无影响。
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> 对内部表格元素（表格单元格除外）无影响。
 inactive-css-not-table = 由于不是表格项目，<strong>{ $property }</strong> 对此元素无效。
+inactive-scroll-padding-when-not-scroll-container = 由于不会滚动，<strong>{ $property }</strong> 对此元素无效。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
