@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Maće hižo konto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Přizjewić
 onboarding-start-browsing-button-label = Přehladowanje startować
-onboarding-not-now-button-label = Nic nětko
 onboarding-cards-dismiss =
     .title = Zaćisnyć
     .aria-label = Zaćisnyć
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Dóstańće zdźělenki, hdyž waše wosobinsk
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Rjadujće hesła, kotrež su škitane a portabelne.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Škit přećiwo slědowanju
+onboarding-tracking-protection-text2 = { -brand-short-name } wam pomha, websydła při tym haćić, wam online slědować, zo by za wabjenje ćešo było, wam po webje slědować.
+onboarding-tracking-protection-button2 = Kak funguje
+onboarding-data-sync-title = Wzmiće swoje nastajenja sobu
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronizujće swoje zapołožki, hesła a wjace wšudźe, hdźež { -brand-product-name } wužiwaće.
+onboarding-data-sync-button2 = Pola { -sync-brand-short-name } přizjewić
+onboarding-firefox-monitor-title = Dajće sej při datowych dźěrach warnować
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } dohladuje, hač je so waša e-mejlowa adresa hižo w znatej datowej dźěrje zjewiła a warnuje was, hdyž so w nowej dźěrje jewi.
+onboarding-firefox-monitor-button = Za zdźělenki registrować
+onboarding-browse-privately-title = Přehladowajće z priwatnosću
+onboarding-browse-privately-text = Priwatny modus wašej pytansku a přehladowansku historiju zhaša, zo by jej před kóždym zatajił, kotryž waš ličak wužiwa.
+onboarding-browse-privately-button = Priwatne wokno wočinić
+onboarding-firefox-send-title = Dźeržće swoje dźělene dataje priwatne
+onboarding-firefox-send-text2 = Nahrajće swoje dataje do { -send-brand-name }, zo byšće je ze zaklučowanjom kónc do kónca a z wotkazom, kotryž awtomatisce spadnje, dźělił.
+onboarding-firefox-send-button = { -send-brand-name } wupruwować
+onboarding-mobile-phone-title = Instalujće sej { -brand-product-name } na swojim telefonje
+onboarding-mobile-phone-text = Sćehńće { -brand-product-name } za iOS abo Android a synchronizujće swoje daty přez graty.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Mobilny wobhladowak sćahnyć
+onboarding-send-tabs-title = Sćelće hnydom rajtarki
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Dźělće lochko strony mjez wašimi gratami dźěli, bjeztoho zo byšće wotkazy kopěrował abo wobhladowak wopušćił.
+onboarding-send-tabs-button = Wužiwajće Send Tabs
+onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
+onboarding-pocket-anywhere-text2 = Składujće swój najlubši wobsah offline z nałoženjom { -pocket-brand-name } a čitajće, słuchajće a wobhladajće, hdyžkuli so wam hodźi.
+onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
+onboarding-lockwise-strong-passwords-title = Mócne hesła wutworić a składować
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } hnydom sylne hesła wutworja a składuje je na jednym městnje.
+onboarding-lockwise-strong-passwords-button = Waše přizjewjenja rjadować
+onboarding-facebook-container-title = Stajće hranicy za Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil dźěleny wot wšeho druheho dźerži. Tak je ćešo za Facebook, wam zaměrne wabjenje pokazać.
+onboarding-facebook-container-button = Rozšěrjenje přidać
+onboarding-import-browser-settings-title = Waše zapołožki, hesła a wjace importować
+onboarding-import-browser-settings-text = Započńće hnydom - wzmiće swoje sydła Chrome a nastajenja sobu.
+onboarding-import-browser-settings-button = Daty Chrome importować
+onboarding-personal-data-promise-title = Priwatny po designje
+onboarding-personal-data-promise-text = { -brand-product-name } z wašimi datami z respektom postupuje, zběra mjenje z nich, škita je a praji jasnje, kak my je wužiwamy.
+onboarding-personal-data-promise-button = Čitajće naše slubjenje
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Wulkotnje, maće { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Wobstarajće sej nětko <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Rozšěrjenje přidać
+return-to-amo-get-started-button = Prěnje kroki z { -brand-short-name }
+onboarding-not-now-button-label = Nic nětko
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Wulkotnje, maće { -brand-short-name }
@@ -106,6 +166,8 @@ onboarding-multistage-welcome-subtitle = Spěšny, wěsty a priwatny wobhladowak
 onboarding-multistage-welcome-primary-button-label = Konfigurowanje započeć
 onboarding-multistage-welcome-secondary-button-label = Přizjewić
 onboarding-multistage-welcome-secondary-button-text = Maće konto?
+onboarding-multistage-set-default-primary-button-label = K standardej činić
+onboarding-multistage-set-default-secondary-button-label = Nic nětko
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importujće swoje hesła, zapołožki a <span data-l10n-name="zap">wjace</span>
@@ -183,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Barbny napohlad za tłóčatka,
         menije a wokna.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Škit přećiwo slědowanju
-onboarding-tracking-protection-text2 = { -brand-short-name } wam pomha, websydła při tym haćić, wam online slědować, zo by za wabjenje ćešo było, wam po webje slědować.
-onboarding-tracking-protection-button2 = Kak funguje
-onboarding-data-sync-title = Wzmiće swoje nastajenja sobu
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synchronizujće swoje zapołožki, hesła a wjace wšudźe, hdźež { -brand-product-name } wužiwaće.
-onboarding-data-sync-button2 = Pola { -sync-brand-short-name } přizjewić
-onboarding-firefox-monitor-title = Dajće sej při datowych dźěrach warnować
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } dohladuje, hač je so waša e-mejlowa adresa hižo w znatej datowej dźěrje zjewiła a warnuje was, hdyž so w nowej dźěrje jewi.
-onboarding-firefox-monitor-button = Za zdźělenki registrować
-onboarding-browse-privately-title = Přehladowajće z priwatnosću
-onboarding-browse-privately-text = Priwatny modus wašej pytansku a přehladowansku historiju zhaša, zo by jej před kóždym zatajił, kotryž waš ličak wužiwa.
-onboarding-browse-privately-button = Priwatne wokno wočinić
-onboarding-firefox-send-title = Dźeržće swoje dźělene dataje priwatne
-onboarding-firefox-send-text2 = Nahrajće swoje dataje do { -send-brand-name }, zo byšće je ze zaklučowanjom kónc do kónca a z wotkazom, kotryž awtomatisce spadnje, dźělił.
-onboarding-firefox-send-button = { -send-brand-name } wupruwować
-onboarding-mobile-phone-title = Instalujće sej { -brand-product-name } na swojim telefonje
-onboarding-mobile-phone-text = Sćehńće { -brand-product-name } za iOS abo Android a synchronizujće swoje daty přez graty.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Mobilny wobhladowak sćahnyć
-onboarding-send-tabs-title = Sćelće hnydom rajtarki
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Dźělće lochko strony mjez wašimi gratami dźěli, bjeztoho zo byšće wotkazy kopěrował abo wobhladowak wopušćił.
-onboarding-send-tabs-button = Wužiwajće Send Tabs
-onboarding-pocket-anywhere-title = Čitajće a słuchajće wšudźe
-onboarding-pocket-anywhere-text2 = Składujće swój najlubši wobsah offline z nałoženjom { -pocket-brand-name } a čitajće, słuchajće a wobhladajće, hdyžkuli so wam hodźi.
-onboarding-pocket-anywhere-button = { -pocket-brand-name } wupruwować
-onboarding-lockwise-strong-passwords-title = Mócne hesła wutworić a składować
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } hnydom sylne hesła wutworja a składuje je na jednym městnje.
-onboarding-lockwise-strong-passwords-button = Waše přizjewjenja rjadować
-onboarding-facebook-container-title = Stajće hranicy za Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } waš profil dźěleny wot wšeho druheho dźerži. Tak je ćešo za Facebook, wam zaměrne wabjenje pokazać.
-onboarding-facebook-container-button = Rozšěrjenje přidać
-onboarding-import-browser-settings-title = Waše zapołožki, hesła a wjace importować
-onboarding-import-browser-settings-text = Započńće hnydom - wzmiće swoje sydła Chrome a nastajenja sobu.
-onboarding-import-browser-settings-button = Daty Chrome importować
-onboarding-personal-data-promise-title = Priwatny po designje
-onboarding-personal-data-promise-text = { -brand-product-name } z wašimi datami z respektom postupuje, zběra mjenje z nich, škita je a praji jasnje, kak my je wužiwamy.
-onboarding-personal-data-promise-button = Čitajće naše slubjenje
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Wulkotnje, maće { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Wobstarajće sej nětko <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Rozšěrjenje přidać
-return-to-amo-get-started-button = Prěnje kroki z { -brand-short-name }
