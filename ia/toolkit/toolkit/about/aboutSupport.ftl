@@ -410,3 +410,5 @@ support-printing-prefs-value = Valor
 ## Normandy sections
 
 support-remote-experiments-name = Nomine
+support-remote-features-name = Nomine
+support-remote-features-status = Stato
