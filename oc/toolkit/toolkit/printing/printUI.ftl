@@ -40,6 +40,10 @@ printui-scale-pcent = Escala
 printui-two-sided-printing = Imprimir rècto verso
 printui-duplex-checkbox = Imprimir los dos costats
 printui-two-sided-printing-off = Desactivat
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Virar al costat long
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Virar al costat cort
 # Section title for miscellaneous print options
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprimir las entèstas e los pès de pagina
