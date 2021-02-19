@@ -184,8 +184,8 @@ onboarding-welcome-steps-indicator =
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
 onboarding-multistage-theme-header = Ընտրէք <span data-l10n-name="zap">տեսք</span>
-onboarding-multistage-theme-subtitle = Համապատասխանեցնել { -brand-short-name }֊ը ոճապատկերով։
-onboarding-multistage-theme-primary-button-label = Պահպանել ոճապնակը
+onboarding-multistage-theme-subtitle = Անհատականացնել { -brand-short-name }֊ն ըստ հիմնապատկերի։
+onboarding-multistage-theme-primary-button-label = Պահել հիմնապատկերը
 onboarding-multistage-theme-secondary-button-label = Ոչ հիմա
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Ինքնաբար
