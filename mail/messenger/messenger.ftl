@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } є вільним про�
 folder-pane-toolbar =
     .toolbarname = Панель інструментів теки
     .accesskey = т
+folder-pane-toolbar-options-button =
+    .tooltiptext = Параметри панелі тек
 folder-pane-header-label = Теки
 
 ## Folder Toolbar Header Popup
