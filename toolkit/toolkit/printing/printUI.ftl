@@ -39,6 +39,11 @@ printui-scale-pcent = Shkallë
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Shtypje në të dy faqet
 printui-duplex-checkbox = Shtyp në të dy faqet
+printui-two-sided-printing-off = Off
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Ktheje në anë tjetër sipas anës së gjatë
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Ktheje në anë tjetër sipas anës së shkurtër
 # Section title for miscellaneous print options
 printui-options = Mundësi
 printui-headers-footers-checkbox = Shtyp kryefaqe dhe fundfaqe
@@ -96,6 +101,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Shkalla duhet të jetë një numër mes 10-ës dhe 200-ës.
 printui-error-invalid-margin = Ju lutemi, jepni një mënjanë të vlefshme për madhësinë e përzgjedhur të letrës.
+printui-error-invalid-copies = Kopjet duhet të jenë një numër mes 1 dhe 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervali duhet të jetë një numër mes 1-shit dhe { $numPages }.

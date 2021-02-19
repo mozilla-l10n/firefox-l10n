@@ -83,6 +83,8 @@ profiler-popup-start-recording-button =
     .label = Fillo Regjistrimin
 profiler-popup-discard-button =
     .label = Hidhe tej
+profiler-popup-capture-button =
+    .label = Regjistroje
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
@@ -93,6 +95,13 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+
+## History panel
+
+appmenu-manage-history =
+    .label = Administroni Historik
+appmenu-reopen-all-tabs = Rihapi Krejt Skedat
+appmenu-reopen-all-windows = Rihapi Krejt Dritaret
 
 ## Help panel
 
@@ -149,3 +158,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Shihni për Përditësime…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Përshtateni Panelin…
+appmenu-developer-tools-subheader = Mjete Shfletuesi

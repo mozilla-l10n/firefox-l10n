@@ -397,3 +397,13 @@ support-printing-clear-settings-button = Spastro rregullimet e ruajtura për sht
 support-printing-modified-settings = U ndryshuan rregullime shtypjeje
 support-printing-prefs-name = Emër
 support-printing-prefs-value = Vlerë
+
+## Normandy sections
+
+support-remote-experiments-title = Eksperimente Së Largëti
+support-remote-experiments-name = Emër
+support-remote-experiments-branch = Degë Eksperimenti
+support-remote-experiments-see-about-studies = Për më tepër të dhëna, shihni <a data-l10n-name="support-about-studies-link">about:studies</a>, përfshi si të çaktivizohen eksperimente individuale ose të çaktivizohet xhirimi nga { -brand-short-name }-i në të ardhmen i këtij lloji eksperimentesh.
+support-remote-features-title = Veçori Së Largëti
+support-remote-features-name = Emër
+support-remote-features-status = Gjendje
