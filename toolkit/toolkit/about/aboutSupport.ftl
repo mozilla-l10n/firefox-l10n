@@ -391,6 +391,7 @@ support-printing-prefs-value = 值
 
 support-remote-experiments-title = 远程实验
 support-remote-experiments-name = 名称
+support-remote-experiments-branch = 实验分支
 support-remote-experiments-see-about-studies = 欲详细了解，请参见 <a data-l10n-name="support-about-studies-link">about:studies</a>，包括如何禁用单个实验或禁止 { -brand-short-name } 以后运行此类实验。
 support-remote-features-title = 远程功能
 support-remote-features-name = 名称
