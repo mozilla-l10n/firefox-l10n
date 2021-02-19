@@ -9,6 +9,8 @@ about-rights-notification-text = Το { -brand-short-name } είναι δωρε�
 folder-pane-toolbar =
     .toolbarname = Γραμμή περιοχής φακέλων
     .accesskey = Γ
+folder-pane-toolbar-options-button =
+    .tooltiptext = Επιλογές προβολής φακέλων
 folder-pane-header-label = Φάκελοι
 
 ## Folder Toolbar Header Popup
