@@ -91,6 +91,8 @@ pref-thread-stream-trans =
     .title = Ruk'waxik rub'inib'al k'amab'ey
 perftools-thread-socket-thread =
     .title = Ri chij akuchi' ri rub'itz'ib' k'amab'ey nusamajij xab'achike royonik rusocket q'atoj
+perftools-thread-img-decoder =
+    .title = Ruchij ewan kisik'ixik taq wachib'äl
 perftools-thread-js-helper =
     .title = Ruka'n rusamaj ri JS samajib'äl, achi'el taq molïk chi rij ri nïm chij
 
