@@ -39,10 +39,10 @@ printui-scale-pcent = 縮放比例
 printui-two-sided-printing = 雙面列印
 printui-duplex-checkbox = 印在紙張的兩面
 printui-two-sided-printing-off = 關閉
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = 長邊翻轉
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = 短邊翻轉
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = 長邊翻轉
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = 短邊翻轉
 # Section title for miscellaneous print options
 printui-options = 選項
 printui-headers-footers-checkbox = 列印頁首與頁尾
@@ -100,6 +100,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = 縮放比例必須在 10 到 200 之間。
 printui-error-invalid-margin = 請輸入所選紙張尺寸的有效邊界大小。
+printui-error-invalid-copies = 份數必須是 1 到 10000 之間的數字。
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = 列印範圍必須在第 1 頁到第 { $numPages } 頁之間。
