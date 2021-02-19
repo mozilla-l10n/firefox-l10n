@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } është program i lirë d
 folder-pane-toolbar =
     .toolbarname = Panel Kuadrati Dosjesh
     .accesskey = P
+folder-pane-toolbar-options-button =
+    .tooltiptext = Mundësi Kuadrati Dosjesh
 folder-pane-header-label = Dosje
 
 ## Folder Toolbar Header Popup
