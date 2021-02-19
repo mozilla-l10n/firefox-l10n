@@ -49,6 +49,34 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Symud i Bcc
     .accesskey = B
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = P
+menuitem-toggle-attachment-pane =
+    .label = Paen Atodiad
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Atodi
+    .tooltiptext = Atodi Atodiad ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Ychwanegu Atodiad…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Ffeil(iau)…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Atodi Ffeil(iau)…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -77,6 +105,39 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Dangos y paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Cuddio'r paen atodi ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [zero] Ychwanegu fel Atodiadau
+        [one] Ychwanegu fel Atodiad
+        [two] Ychwanegu fel Atodiad
+        [few] Ychwanegu fel Atodiad
+        [many] Ychwanegu fel Atodiad
+       *[other] Ychwanegu fel Atodiad
+    }
+drop-file-label-inline =
+    { $count ->
+        [zero] Atodiadau ar-lein
+        [one] Atodiad ar-lein
+        [two] Atodiad ar-lein
+        [few] Atodiad ar-lein
+        [many] Atodiad ar-lein
+       *[other] Atodiad ar-lein
+    }
+
+# Reorder Attachment Panel
+
+move-attachment-first-panel-button =
+    .label = Symud yn Gyntaf
+move-attachment-left-panel-button =
+    .label = Symud i'r Chwith
+move-attachment-right-panel-button =
+    .label = Symud i'r Dde
+move-attachment-last-panel-button =
+    .label = Symud Olaf
 button-return-receipt =
     .label = Derbynneb
     .tooltiptext = Gofyn am dderbynneb dychwelyd i'r neges hon
