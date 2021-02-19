@@ -29,8 +29,8 @@ protection-report-page-summary = { -brand-short-name }-ը կարող է պաշտ
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } պաշտպանում է ձեր գաղտնիութիւնը համացանցում գտնուելու ընթացքում։ Սա անհատական պաշտպանութեան ամփոփումն է, որը ներառում է ձեր առցանց անվտանգութիւնը կարգաւորող գործիքները։
 protection-report-settings-link = Վերահսկէք ձեր գաղտնիութեան եւ անվտանգութեան կարգաւորումները
-etp-card-title-always = Լրտեսումից Ընդլայնուած Պաշտպանութիւն. Միշտ միացած
-etp-card-title-custom-not-blocking = Լրտեսումից Ընդլայնուած Պաշտպանութիւն։ Անջատուած
+etp-card-title-always = Ընդլայնուած պաշտպանութիւն հետեւումից. Միշտ միացած
+etp-card-title-custom-not-blocking = Ընդլայնուած պաշտպանութիւն հետեւոմից։ Անջատուած
 etp-card-content-description = { -brand-short-name } ինքնաբար արգելում է ընկերութիւններին հետեւել ձեզ առցանց աշխատելիս։
 protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանութիւններն անջատուած են։ Ձեր { -brand-short-name } ֊ի գաղտնիութեան կարգաւորումներից ընտրել, թե որ լրտեսներին պէտք է արգելափակել։
 protection-report-manage-protections = Փոխել կարգաւորումները
