@@ -41,6 +41,14 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Flytta till Dold kopia
     .accesskey = D
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -61,6 +69,17 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
+# Reorder Attachment Panel
+
+move-attachment-first-panel-button =
+    .label = Flytta först
+move-attachment-left-panel-button =
+    .label = Flytta vänster
+move-attachment-right-panel-button =
+    .label = Flytta höger
+move-attachment-last-panel-button =
+    .label = Flytta sist
 button-return-receipt =
     .label = Kvitto
     .tooltiptext = Begär ett returkvitto för detta meddelande
