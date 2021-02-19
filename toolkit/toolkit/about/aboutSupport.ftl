@@ -383,3 +383,12 @@ support-printing-clear-settings-button = 저장된 인쇄 설정 지우기
 support-printing-modified-settings = 수정된 인쇄 설정
 support-printing-prefs-name = 이름
 support-printing-prefs-value = 값
+
+## Normandy sections
+
+support-remote-experiments-title = 원격 실험
+support-remote-experiments-name = 이름
+support-remote-experiments-branch = 실험 지점
+support-remote-features-title = 원격 기능
+support-remote-features-name = 이름
+support-remote-features-status = 상태

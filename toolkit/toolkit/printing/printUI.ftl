@@ -39,10 +39,10 @@ printui-scale-pcent = 배율
 printui-two-sided-printing = 양면 인쇄
 printui-duplex-checkbox = 양쪽 면에 인쇄
 printui-two-sided-printing-off = 끄기
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = 측면 가장자리에서 뒤집기
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = 위쪽 가장자리에서 뒤집기
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = 긴 가장자리에서 뒤집기
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = 짧은 가장자리에서 뒤집기
 # Section title for miscellaneous print options
 printui-options = 옵션
 printui-headers-footers-checkbox = 머리글 및 바닥글 인쇄
@@ -100,6 +100,7 @@ printui-paper-tabloid = 타블로이드
 
 printui-error-invalid-scale = 배율은 10에서 200 사이의 숫자여야 합니다.
 printui-error-invalid-margin = 선택한 용지 크기에 유효한 여백을 입력하세요.
+printui-error-invalid-copies = 매수는 1에서 10000 사이의 숫자여야 합니다.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = 범위는 1에서 { $numPages } 사이의 숫자여야 합니다.
