@@ -403,3 +403,9 @@ support-printing-clear-settings-button = Rensa sparade utskriftsinställningar
 support-printing-modified-settings = Ändrade utskriftsinställningar
 support-printing-prefs-name = Namn
 support-printing-prefs-value = Värde
+
+## Normandy sections
+
+support-remote-features-title = Fjärrfunktioner
+support-remote-features-name = Namn
+support-remote-features-status = Status
