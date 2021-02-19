@@ -351,6 +351,12 @@ browser-window-close-button =
 browser-tab-audio-playing = Σε αναπαραγωγή
 browser-tab-audio-muted = Σε σίγαση
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ΑΝΑΠΑΡΑΓΩΓΗ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ΣΕ ΣΙΓΑΣΗ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ΦΡΑΓΗ ΑΥΤΟΜΑΤΗΣ ΑΝΑΠΑΡΑΓΩΓΗΣ
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ΕΙΚΟΝΑ ΕΝΤΟΣ ΕΙΚΟΝΑΣ
 
 ## Bookmarks toolbar items
