@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Har du redan ett konto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Logga in
 onboarding-start-browsing-button-label = Börja surfa
-onboarding-not-now-button-label = Inte nu
 onboarding-cards-dismiss =
     .title = Ignorera
     .aria-label = Ignorera
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Bli meddelad när din personliga information f
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Hantera lösenord som är skyddade och flyttbara.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Skydd från spårning
+onboarding-tracking-protection-text2 = { -brand-short-name } hjälper till att stoppa webbplatser från att spåra dig online, vilket gör det svårare för annonser att följa dig på webben.
+onboarding-tracking-protection-button2 = Hur det fungerar
+onboarding-data-sync-title = Ta med dig dina inställningar
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synkronisera dina bokmärken, lösenord och mer överallt där du använder { -brand-product-name }.
+onboarding-data-sync-button2 = Logga in på { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Var uppmärksam på dataintrång
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } övervakar om din e-postadress har förekommit i ett känt dataintrång och varnar dig om det dyker upp i ett nytt intrång.
+onboarding-firefox-monitor-button = Registrera dig för varningar
+onboarding-browse-privately-title = Surfa privat
+onboarding-browse-privately-text = Privat surfning rensar din sök- och surfhistorik för att hålla den hemlig från alla som använder din dator.
+onboarding-browse-privately-button = Öppna ett privat fönster
+onboarding-firefox-send-title = Håll dina delade filer privata
+onboarding-firefox-send-text2 = Ladda upp dina filer till { -send-brand-name } för att dela dem med end-to-end-kryptering och en länk som automatiskt upphör.
+onboarding-firefox-send-button = Prova { -send-brand-name }
+onboarding-mobile-phone-title = Hämta { -brand-product-name } till din telefon
+onboarding-mobile-phone-text = Hämta { -brand-product-name } för iOS eller Android och synkronisera dina data mellan enheter.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Hämta mobil webbläsare
+onboarding-send-tabs-title = Skicka snabbt flikar till dig själv
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Dela enkelt sidor mellan dina enheter utan att behöva kopiera länkar eller lämna webbläsaren.
+onboarding-send-tabs-button = Börja använda Send Tabs
+onboarding-pocket-anywhere-title = Läs och lyssna var som helst
+onboarding-pocket-anywhere-text2 = Spara ditt favoritinnehåll offline med appen { -pocket-brand-name } och läs, lyssna och kolla när det är bekvämt för dig.
+onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Skapa och lagra starka lösenord
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } skapar starka lösenord på plats och sparar dem alla på ett ställe.
+onboarding-lockwise-strong-passwords-button = Hantera dina inloggningar
+onboarding-facebook-container-title = Ange gränser för Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } håller din profil skild från allt annat, vilket gör det svårare för Facebook att rikta annonser.
+onboarding-facebook-container-button = Lägg till tillägget
+onboarding-import-browser-settings-title = Importera dina bokmärken, lösenord och mer
+onboarding-import-browser-settings-text = Dyk direkt in—ta enkelt med dig dina webbplatser och inställningar från Chrome.
+onboarding-import-browser-settings-button = Importera Chrome-data
+onboarding-personal-data-promise-title = Designad för integritet
+onboarding-personal-data-promise-text = { -brand-product-name } respekterar din integritet: vi samlar in mindre data, skyddar dem och anger tydligt hur vi använder dem.
+onboarding-personal-data-promise-button = Läs vårt löfte
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Bra, du har { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Låt oss hämta <icon></icon><b>{ $addon-name }</b>.
+return-to-amo-extension-button = Lägg till utökningen
+return-to-amo-get-started-button = Kom igång med { -brand-short-name }
+onboarding-not-now-button-label = Inte nu
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Toppen, du har { -brand-short-name }
@@ -106,6 +166,8 @@ onboarding-multistage-welcome-subtitle = Den snabba, säkra och privata webbläs
 onboarding-multistage-welcome-primary-button-label = Starta konfiguration
 onboarding-multistage-welcome-secondary-button-label = Logga in
 onboarding-multistage-welcome-secondary-button-text = Har du ett konto?
+onboarding-multistage-set-default-primary-button-label = Gör till standard
+onboarding-multistage-set-default-secondary-button-label = Inte nu
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importera dina lösenord, bokmärken och <span data-l10n-name = "zap">mer</span>
@@ -182,63 +244,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Använd ett färgglatt utseende för knappar,
         menyer och fönster.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Skydd från spårning
-onboarding-tracking-protection-text2 = { -brand-short-name } hjälper till att stoppa webbplatser från att spåra dig online, vilket gör det svårare för annonser att följa dig på webben.
-onboarding-tracking-protection-button2 = Hur det fungerar
-onboarding-data-sync-title = Ta med dig dina inställningar
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synkronisera dina bokmärken, lösenord och mer överallt där du använder { -brand-product-name }.
-onboarding-data-sync-button2 = Logga in på { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Var uppmärksam på dataintrång
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } övervakar om din e-postadress har förekommit i ett känt dataintrång och varnar dig om det dyker upp i ett nytt intrång.
-onboarding-firefox-monitor-button = Registrera dig för varningar
-onboarding-browse-privately-title = Surfa privat
-onboarding-browse-privately-text = Privat surfning rensar din sök- och surfhistorik för att hålla den hemlig från alla som använder din dator.
-onboarding-browse-privately-button = Öppna ett privat fönster
-onboarding-firefox-send-title = Håll dina delade filer privata
-onboarding-firefox-send-text2 = Ladda upp dina filer till { -send-brand-name } för att dela dem med end-to-end-kryptering och en länk som automatiskt upphör.
-onboarding-firefox-send-button = Prova { -send-brand-name }
-onboarding-mobile-phone-title = Hämta { -brand-product-name } till din telefon
-onboarding-mobile-phone-text = Hämta { -brand-product-name } för iOS eller Android och synkronisera dina data mellan enheter.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Hämta mobil webbläsare
-onboarding-send-tabs-title = Skicka snabbt flikar till dig själv
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Dela enkelt sidor mellan dina enheter utan att behöva kopiera länkar eller lämna webbläsaren.
-onboarding-send-tabs-button = Börja använda Send Tabs
-onboarding-pocket-anywhere-title = Läs och lyssna var som helst
-onboarding-pocket-anywhere-text2 = Spara ditt favoritinnehåll offline med appen { -pocket-brand-name } och läs, lyssna och kolla när det är bekvämt för dig.
-onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Skapa och lagra starka lösenord
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } skapar starka lösenord på plats och sparar dem alla på ett ställe.
-onboarding-lockwise-strong-passwords-button = Hantera dina inloggningar
-onboarding-facebook-container-title = Ange gränser för Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } håller din profil skild från allt annat, vilket gör det svårare för Facebook att rikta annonser.
-onboarding-facebook-container-button = Lägg till tillägget
-onboarding-import-browser-settings-title = Importera dina bokmärken, lösenord och mer
-onboarding-import-browser-settings-text = Dyk direkt in—ta enkelt med dig dina webbplatser och inställningar från Chrome.
-onboarding-import-browser-settings-button = Importera Chrome-data
-onboarding-personal-data-promise-title = Designad för integritet
-onboarding-personal-data-promise-text = { -brand-product-name } respekterar din integritet: vi samlar in mindre data, skyddar dem och anger tydligt hur vi använder dem.
-onboarding-personal-data-promise-button = Läs vårt löfte
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Bra, du har { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Låt oss hämta <icon></icon><b>{ $addon-name }</b>.
-return-to-amo-extension-button = Lägg till utökningen
-return-to-amo-get-started-button = Kom igång med { -brand-short-name }
