@@ -392,6 +392,7 @@ support-printing-prefs-value = 值
 support-remote-experiments-title = 遠端實驗
 support-remote-experiments-name = 名稱
 support-remote-experiments-branch = 實驗分支
+support-remote-experiments-see-about-studies = 若需更多資訊，請參考 <a data-l10n-name="support-about-studies-link">about:studies</a>。當中包含如何關閉單一實驗，或防止 { -brand-short-name } 在未來進行任何此類實驗的資訊。
 support-remote-features-title = 遠端功能
 support-remote-features-name = 名稱
 support-remote-features-status = 狀態
