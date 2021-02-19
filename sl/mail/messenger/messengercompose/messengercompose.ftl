@@ -45,6 +45,32 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Premakni v Skp
     .accesskey = S
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+menuitem-toggle-attachment-pane =
+    .label = Podokno za priponke
+    .accesskey = p
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Pripni
+    .tooltiptext = Dodaj priponko ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Dodaj priponko …
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Datoteke …
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Pripni datoteke …
+    .accesskey = d
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -69,6 +95,24 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Prikaži podokno s priponkami ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Skrij podokno s priponkami ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Dodaj kot priponko
+        [two] Dodaj kot priponki
+        [few] Dodaj kot priponke
+       *[other] Dodaj kot priponke
+    }
+
+# Reorder Attachment Panel
+
+move-attachment-left-panel-button =
+    .label = Premakni levo
+move-attachment-right-panel-button =
+    .label = Premakni desno
 button-return-receipt =
     .label = Povratnica
     .tooltiptext = Zahtevaj potrdilo o prejemu za to sporočilo

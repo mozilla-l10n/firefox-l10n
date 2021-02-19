@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } je brezplačen in odprtok
 folder-pane-toolbar =
     .toolbarname = Orodna vrstica podokna map
     .accesskey = O
+folder-pane-toolbar-options-button =
+    .tooltiptext = Možnosti podokna map
 folder-pane-header-label = Mape
 
 ## Folder Toolbar Header Popup
