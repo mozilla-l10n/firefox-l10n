@@ -65,6 +65,10 @@ menuitem-attach-files =
     .label = Arquivos…
     .accesskey = F
     .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Anexar arquivos…
+    .accesskey = n
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -85,9 +89,26 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Exibir painel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Ocultar painel de anexos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Adicionar como anexo
+       *[other] Adicionar como anexos
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Mover para ser o primeiro
+move-attachment-left-panel-button =
+    .label = Mover para esquerda
+move-attachment-right-panel-button =
+    .label = Mover para direita
+move-attachment-last-panel-button =
+    .label = Mover para ser o último
 button-return-receipt =
     .label = Confirmação
     .tooltiptext = Solicitar uma confirmação de leitura desta mensagem
