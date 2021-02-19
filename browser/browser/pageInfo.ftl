@@ -115,6 +115,9 @@ security-site-data-cookies = Da, kolačiće i { $value } { $unit } podataka
 security-site-data-only = Da, { $value } { $unit } podataka
 security-site-data-cookies-only = Da, kolačiće
 security-site-data-no = Ne
+
+##
+
 image-size-unknown = Nepoznato
 page-info-not-specified =
     .value = Neodređeno
@@ -145,7 +148,7 @@ media-select-folder = Odaberi mapu za spremanje slika
 media-unknown-not-cached =
     .value = Nepoznato (nije spremljeno u predmemoriju)
 permissions-use-default =
-    .label = Koristi standardne vrijednosti
+    .label = Koristi zadane vrijednosti
 security-no-visits = Ne
 # This string is used to display the number of meta tags
 # in the General Tab
@@ -228,7 +231,7 @@ media-block-image =
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
+#   $website (string) — The url of the website pageInfo is getting info for
 page-info-page =
     .title = Informacije o stranici - { $website }
 page-info-frame =

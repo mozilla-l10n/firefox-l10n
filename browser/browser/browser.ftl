@@ -238,10 +238,10 @@ search-one-offs-context-open-new-tab =
     .label = Traži u novoj kartici
     .accesskey = t
 search-one-offs-context-set-as-default =
-    .label = Postavi kao standardnu tražilicu
+    .label = Postavi kao zadanu tražilicu
     .accesskey = d
 search-one-offs-context-set-as-default-private =
-    .label = Postavi kao standardnu tražilicu za privatne prozore
+    .label = Postavi kao zadanu tražilicu za privatne prozore
     .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
