@@ -31,6 +31,7 @@ inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }<
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> s’ka efekt mbi elementë të brendshëm të tabelës.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> s’ka efekt në elementë të brendshëm të tabelës, hiq kuti tabele.
 inactive-css-not-table = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është tabelë.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> s’ka ndikim mbi këtë element, ngaqë ky nuk kryen rrëshqitje.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,6 +54,7 @@ inactive-css-not-for-internal-table-elements-fix = Provoni të vini vetinë e ti
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provoni të vini vetinë e tij <strong>display</strong> si diçka tjetër nga <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ose <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Provoni të vini vetinë e tij <strong>outline-style</strong> si diçka tjetër nga <strong>auto</strong> ose <strong>none</strong>. { learn-more }
 inactive-css-not-table-fix = Provoni të shtoni <strong>display:table</strong> ose <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Provoni të shtoni <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, ose <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
