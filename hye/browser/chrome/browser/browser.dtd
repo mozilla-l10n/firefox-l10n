@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Վերջին փակուած պատուհանները">
 
 <!ENTITY appMenuHistory.showAll.label "Ցուցադրել ամբողջ պատմութիւնը">
+
 <!ENTITY appMenuHistory.clearRecent.label "Մաքրել վերջին պատմութիւնը…">
 <!ENTITY appMenuHistory.restoreSession.label "Վերականգնել նախորդ աշխատաշրջանը">
 <!ENTITY appMenuHistory.viewSidebar.label "Պատմութեան կողային վահանակը">
@@ -266,7 +267,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY updateAvailable.panelUI.label "Ներբեռնել &brandShorterName;-ի թարմացումը">
 <!ENTITY updateManual.panelUI.label "Ներբեռնել &brandShorterName;-ի նոր տարբերակը">
 <!ENTITY updateUnsupported.panelUI.label "Դուք չեք կարող կատարել յետագայ թարմացումները">
-<!ENTITY updateRestart.panelUI.label2 "Վերագործարկեք՝ &brandShorterName;-ը՝ թարմացնելու համար">
+<!ENTITY updateRestart.panelUI.label2 "Վերագործարկէք՝ &brandShorterName;-ը թարմացնելու համար">
 
 <!ENTITY sendToDevice.syncNotReady.label "Սարքերի համաժամեցում…">
 
