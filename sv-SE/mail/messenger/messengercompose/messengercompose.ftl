@@ -98,6 +98,11 @@ drop-file-label-attachment =
         [one] Lägg till som bilaga
        *[other] Lägg till som bilagor
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Lägg till inline
+       *[other] Lägg till inline
+    }
 
 # Reorder Attachment Panel
 
