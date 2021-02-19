@@ -90,6 +90,14 @@ expand-attachment-pane-tooltip =
     .tooltiptext = 显示附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
 collapse-attachment-pane-tooltip =
     .tooltiptext = 隐藏附件窗格（{ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }）
+drop-file-label-attachment =
+    { $count ->
+       *[other] 添加为附件
+    }
+drop-file-label-inline =
+    { $count ->
+       *[other] 行内追加
+    }
 
 # Reorder Attachment Panel
 
