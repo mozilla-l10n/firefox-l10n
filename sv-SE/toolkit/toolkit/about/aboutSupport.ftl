@@ -406,7 +406,9 @@ support-printing-prefs-value = Värde
 
 ## Normandy sections
 
+support-remote-experiments-title = Fjärrexperiment
 support-remote-experiments-name = Namn
+support-remote-experiments-branch = Experimentgren
 support-remote-experiments-see-about-studies = Se <a data-l10n-name="support-about-studies-link">about:studies</a> för mer information, inklusive hur man inaktiverar enskilda experiment eller inaktiverar { -brand-short-name } från att köra denna typ av experiment i framtiden.
 support-remote-features-title = Fjärrfunktioner
 support-remote-features-name = Namn
