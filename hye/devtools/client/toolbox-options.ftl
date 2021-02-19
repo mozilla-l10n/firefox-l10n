@@ -56,15 +56,15 @@ options-stylesheet-autocompletion-tooltip =
 ## Screenshot section
 
 # The heading
-options-screenshot-label = Էկրանահանի վարքագիծ
+options-screenshot-label = Եկրանահանի վարքագիծ
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Էկրանահանել սեղմատախտակին
+options-screenshot-clipboard-label = Եկրանահանել սեղմատախտակին
 options-screenshot-clipboard-tooltip =
-    .title = Էկրանահանն պահպանել անմիջականաւրէն սեղմատախտակին
+    .title = Եկրանահանը պահել անմիջականաւրէն սեղմատախտակին
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Նուագարկել խցիկի փականակի ձայնը
 options-screenshot-audio-tooltip =
-    .title = Էկրանահան ստանալիս միացնում է տեսախցիկի ձայնը
+    .title = Եկրանահան ստանալիս միացնում է տեսախցիկի ձայնը
 
 ## Editor section
 
