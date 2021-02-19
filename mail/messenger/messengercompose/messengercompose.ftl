@@ -53,6 +53,8 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
 menuitem-toggle-attachment-pane =
     .label = Podokno za priponke
     .accesskey = p
@@ -106,13 +108,24 @@ drop-file-label-attachment =
         [few] Dodaj kot priponke
        *[other] Dodaj kot priponke
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Dodaj v vrstico
+        [two] Dodaj v vrstico
+        [few] Dodaj v vrstico
+       *[other] Dodaj v vrstico
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Premakni na začetek
 move-attachment-left-panel-button =
     .label = Premakni levo
 move-attachment-right-panel-button =
     .label = Premakni desno
+move-attachment-last-panel-button =
+    .label = Premakni na konec
 button-return-receipt =
     .label = Povratnica
     .tooltiptext = Zahtevaj potrdilo o prejemu za to sporočilo
