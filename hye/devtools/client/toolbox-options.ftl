@@ -20,7 +20,7 @@ options-select-additional-tools-label = Յաւելումների կողմից տ
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Առկայ գործիքատուփի կոճակներ
 # The label for the heading of the radiobox corresponding to the theme
-options-select-dev-tools-theme-label = Թեմաներ
+options-select-dev-tools-theme-label = Հիմնապատկերներ
 
 ## Inspector section
 
@@ -85,7 +85,7 @@ options-sourceeditor-keybinding-default-label = Սկզբնադիր
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Լրացուցիչ կարգաւորումներ
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Անջատել HTTP յիշապահեստը (երբ գործիքատուփը բաց է)
