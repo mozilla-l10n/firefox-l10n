@@ -119,6 +119,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Il ridimensionamento deve essere un numero compreso tra 10 e 200.
 printui-error-invalid-margin = Inserire un valore del margine valido per il formato di carta selezionato.
+printui-error-invalid-copies = Il numero di copie deve essere un valore compreso tra 1 e 10000.
 
 # Variables
 # $numPages (integer) - Number of pages
