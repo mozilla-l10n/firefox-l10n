@@ -41,6 +41,34 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Shpjere te Bcc
     .accesskey = B
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Kuadrat Bashkëngjitjesh
+    .accesskey = K
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Bashkëngjitni
+    .tooltiptext = Shtoni një Bashkëngjitje ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Shtoni Bashkëngjitje…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Kartelë(a)…
+    .accesskey = a
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Bashkëngjitni Kartelë(a)…
+    .accesskey = B
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -60,6 +88,31 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Shfaqni kuadrat bashkëngjitjesh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Fshihe kuadratin e bashkëngjitjeve ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Shtoje si Bashkëngjitje
+       *[other] Shtojini si Bashkëngjitje
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Shtoje brendazi
+       *[other] Shtojini brendazi
+    }
+
+# Reorder Attachment Panel
+
+move-attachment-first-panel-button =
+    .label = Vëre të Parën
+move-attachment-left-panel-button =
+    .label = Shpjere Majtas
+move-attachment-right-panel-button =
+    .label = Shpjere Djathtas
+move-attachment-last-panel-button =
+    .label = Vëre të Fundit
 button-return-receipt =
     .label = Dëftesë
     .tooltiptext = Kërko një dëftesë kthimi për këtë mesazh
