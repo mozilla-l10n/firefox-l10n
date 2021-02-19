@@ -93,6 +93,14 @@ collapse-attachment-pane-tooltip =
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = 移到首位
+move-attachment-left-panel-button =
+    .label = 向左移动
+move-attachment-right-panel-button =
+    .label = 向右移动
+move-attachment-last-panel-button =
+    .label = 移到末位
 button-return-receipt =
     .label = 回执
     .tooltiptext = 要求对方收件后发送回执
