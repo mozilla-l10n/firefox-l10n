@@ -92,7 +92,7 @@ urlbar-autoplay-notification-anchor =
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Պահել տուեալները Մշտական պահեստում
 urlbar-addons-notification-anchor =
-    .tooltiptext = Բացել հաւելման տեղադրման հաղորդագրութեան վահանակը
+    .tooltiptext = Բացել jաւելման տեղադրման հաղորդագրութեան վահանակը
 urlbar-tip-help-icon =
     .title = Ստանալ աւգնութիւն
 urlbar-search-tips-confirm = Հասկանալի է։
@@ -144,7 +144,7 @@ urlbar-canvas-blocked =
 urlbar-midi-blocked =
     .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին։
 urlbar-install-blocked =
-    .tooltiptext = Դուք այս կայքի համար արգելափակել եք հաւելասարքի բեռնումը։
+    .tooltiptext = Դուք այս կայքի համար արգելափակել էք յաւելասարքի բեռնումը։
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
