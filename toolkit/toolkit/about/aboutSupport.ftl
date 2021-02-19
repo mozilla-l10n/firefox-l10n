@@ -403,3 +403,10 @@ support-printing-clear-settings-button = Escafar los paramètres d’impression 
 support-printing-modified-settings = Paramètres d’impression modificats
 support-printing-prefs-name = Nom
 support-printing-prefs-value = Valor
+
+## Normandy sections
+
+support-remote-experiments-name = Nom
+support-remote-experiments-branch = Brancas experimentala
+support-remote-features-name = Nom
+support-remote-features-status = Estat
