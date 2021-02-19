@@ -40,6 +40,30 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = 移到密件副本
     .accesskey = b
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = 附件窗格
+    .accesskey = m
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = 附件
+    .tooltiptext = 新增附件（{ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }）
+add-attachment-notification-reminder =
+    .label = 新增附件…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = 檔案…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -58,6 +82,9 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
+# Reorder Attachment Panel
+
 button-return-receipt =
     .label = 收件回執
     .tooltiptext = 要求對方收信後寄發回執
