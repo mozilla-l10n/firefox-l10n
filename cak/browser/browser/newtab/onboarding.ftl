@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = ¿La k'o chik jun rub'i' ataqoya'l?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Titikirisäx Molojri'ïl
 onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
-onboarding-not-now-button-label = Wakami mani
 onboarding-cards-dismiss =
     .title = Tichup ruwäch
     .aria-label = Tichup ruwäch
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Tak'ulu' rutzijol toq ri awetamab'al xtz'iläx
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Ke'anuk'samajij ri ewan taq atzij, ri yechajïx chuqa' ek'axel.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Chajinïk Chuwäch Ojqanem
+onboarding-tracking-protection-text2 = { -brand-short-name } yatruto' richin yeruq'ät ri taq ajk'amaya'l ruxaq yatqojqaj pa k'amab'ey, ruma ri' toq k'ayew xtub'än chuwäch ri eltzijol richin yatorojqaj toq yatok pa k'amaya'l.
+onboarding-tracking-protection-button2 = Achike Rub'eyal Nisamäj
+onboarding-data-sync-title = Tak'waj Awik'in ri taq Anuk'ulem
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Ke'axima' ri taq ayaketal, ewan taq atzij chuqa' ch'aqa' chik xab'akuchi' nawokisaj ri { -brand-product-name }.
+onboarding-data-sync-button2 = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Ke'atz'eta' ri Kitzijol Kitz'ilanik Tzij
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } tanik'oj we ri rub'i' ataqoya'l k'o pa jun kitz'ilanik tzij etaman ruwäch chuqa' nuya' rutzijol we k'o pa jun k'ak'a' tz'ilanem.
+onboarding-firefox-monitor-button = Tatz'ib'aj ab'i' richin ye'akül taq Rutzijol K'ayewal
+onboarding-browse-privately-title = Richinanem Okik'amaya'l
+onboarding-browse-privately-text = Ri Ichinan Okik'amaya'l nuyüj ri taq kanoxïk chuqa' ri runatab'al okem pa k'amaya'l richin chi ewäl chuwäch xab'achike winäq nrokisaj ri kematz'ib'.
+onboarding-browse-privately-button = Tijaq jun Ichinan Tzuwäch
+onboarding-firefox-send-title = Ke'awichinaj ri Komoni taq Ayakb'al
+onboarding-firefox-send-text2 = Ke'ajotob'a' ri taq ayakb'al pa { -send-brand-name } richin ye'akomonij ronojel rik'in  ewan rusik'ixik chuqa' rik'in jun ximonel nik'is ruq'ijul.
+onboarding-firefox-send-button = Titojtob'ëx { -send-brand-name }
+onboarding-mobile-phone-title = Tik'ul { -brand-product-name } pan Awoyonib'al
+onboarding-mobile-phone-text = Taqasaj { -brand-product-name } richin iOS o Android richin ye'axïm ri taq atzij pa ronojel taq awokisab'al.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Taqasaj Oyonib'äl Okik'amaya'l
+onboarding-send-tabs-title = Ke'ataqa' Anin taq Ruwi'
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Anin ke'akomonij taq ruxaq pa taq awokisab'al, akuchi' man nawachib'ej ta taq ximonel o natz'apij ri okik'amaya'l.
+onboarding-send-tabs-button = Tachapa' Rokisaxik Send Tabs
+onboarding-pocket-anywhere-title = Tisik'is chuqa' Tak'axäx Xab'akuchi'
+onboarding-pocket-anywhere-text2 = Tayaka' ri ajowab'äl rupam akuchi' majun okem pa k'amaya'l ruma ri { -pocket-brand-name } App chuqa' tasik'ij, tawak'axaj o tatz'eta' xab'akuchi' o toq nawajo'.
+onboarding-pocket-anywhere-button = Titojtob'ëx { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Titz'uk chuqa' Keyak Ütz taq Ewan Tzij
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } yerutz'ük ütz ewan taq tzij pa ri b'anoj chuqa' yeruyäk pa jun k'ojlib'äl.
+onboarding-lockwise-strong-passwords-button = Ke'anuk'samajij ri Rutikirib'al taq Amolojri'ïl
+onboarding-facebook-container-title = Ke'anuk'samajij K'ulb'a't rik'in Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } nujäch ri rub'anikil awäch chi kiwäch ri ch'aqa' chik, akuchi' k'ayew nub'än chuwäch ri Facebook richin nuk'üt eltzijol chawäch.
+onboarding-facebook-container-button = Titz'aqatisäx ri K'amal
+onboarding-import-browser-settings-title = Ke'ajik'a' ri taq Ayaketal, Ewan taq Atzij Chuqa' Ch'aqa' chik
+onboarding-import-browser-settings-text = Tanima' awi'—anin ke'ak'waj awik'in ri taq ruxaq chuqa' taq anuk'ulem richin Chrome.
+onboarding-import-browser-settings-button = Ke'ajik'a' Taq Atzij Richin Chrome
+onboarding-personal-data-promise-title = Ichinan ruma Wachib'enïk
+onboarding-personal-data-promise-text = { -brand-product-name } yerukamelaj ri taq atzij rik'in jub'a' ok numöl, yeruchajij chuqa' nub'ij achike rub'eyal ye'okisäx.
+onboarding-personal-data-promise-button = Tasik'ij ri Ruya'ik Qatzij
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Ütz ütz, awichinan { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Wakami niqatäq chawe <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Titz'aqatisäx ri K'amal
+return-to-amo-get-started-button = Titikirisäx rik'in { -brand-short-name }
+onboarding-not-now-button-label = Wakami mani
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Ütz ütz, awichinan { -brand-short-name }
@@ -106,6 +166,7 @@ onboarding-multistage-welcome-subtitle = Ri aninäq, jikïl chuqa' ichinan okik'
 onboarding-multistage-welcome-primary-button-label = Tichap Runuk'ulem
 onboarding-multistage-welcome-secondary-button-label = Titikirisäx molojri'ïl
 onboarding-multistage-welcome-secondary-button-text = ¿La k'o jun rub'i' ataqoya'l?
+onboarding-multistage-set-default-secondary-button-label = Wakami mani
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Ke'ajik'a' ewan taq atzij, <br/>taq yaketal, chuqa' <span data-l10n-name="zap">ch'aqa' chik</span>
@@ -179,63 +240,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Tokisäx jeb'ejöj tzub'al pa taq pitz'b'äl,
         taq k'utsamaj chuqa' pa taq ruwi'.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Chajinïk Chuwäch Ojqanem
-onboarding-tracking-protection-text2 = { -brand-short-name } yatruto' richin yeruq'ät ri taq ajk'amaya'l ruxaq yatqojqaj pa k'amab'ey, ruma ri' toq k'ayew xtub'än chuwäch ri eltzijol richin yatorojqaj toq yatok pa k'amaya'l.
-onboarding-tracking-protection-button2 = Achike Rub'eyal Nisamäj
-onboarding-data-sync-title = Tak'waj Awik'in ri taq Anuk'ulem
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Ke'axima' ri taq ayaketal, ewan taq atzij chuqa' ch'aqa' chik xab'akuchi' nawokisaj ri { -brand-product-name }.
-onboarding-data-sync-button2 = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Ke'atz'eta' ri Kitzijol Kitz'ilanik Tzij
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } tanik'oj we ri rub'i' ataqoya'l k'o pa jun kitz'ilanik tzij etaman ruwäch chuqa' nuya' rutzijol we k'o pa jun k'ak'a' tz'ilanem.
-onboarding-firefox-monitor-button = Tatz'ib'aj ab'i' richin ye'akül taq Rutzijol K'ayewal
-onboarding-browse-privately-title = Richinanem Okik'amaya'l
-onboarding-browse-privately-text = Ri Ichinan Okik'amaya'l nuyüj ri taq kanoxïk chuqa' ri runatab'al okem pa k'amaya'l richin chi ewäl chuwäch xab'achike winäq nrokisaj ri kematz'ib'.
-onboarding-browse-privately-button = Tijaq jun Ichinan Tzuwäch
-onboarding-firefox-send-title = Ke'awichinaj ri Komoni taq Ayakb'al
-onboarding-firefox-send-text2 = Ke'ajotob'a' ri taq ayakb'al pa { -send-brand-name } richin ye'akomonij ronojel rik'in  ewan rusik'ixik chuqa' rik'in jun ximonel nik'is ruq'ijul.
-onboarding-firefox-send-button = Titojtob'ëx { -send-brand-name }
-onboarding-mobile-phone-title = Tik'ul { -brand-product-name } pan Awoyonib'al
-onboarding-mobile-phone-text = Taqasaj { -brand-product-name } richin iOS o Android richin ye'axïm ri taq atzij pa ronojel taq awokisab'al.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Taqasaj Oyonib'äl Okik'amaya'l
-onboarding-send-tabs-title = Ke'ataqa' Anin taq Ruwi'
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Anin ke'akomonij taq ruxaq pa taq awokisab'al, akuchi' man nawachib'ej ta taq ximonel o natz'apij ri okik'amaya'l.
-onboarding-send-tabs-button = Tachapa' Rokisaxik Send Tabs
-onboarding-pocket-anywhere-title = Tisik'is chuqa' Tak'axäx Xab'akuchi'
-onboarding-pocket-anywhere-text2 = Tayaka' ri ajowab'äl rupam akuchi' majun okem pa k'amaya'l ruma ri { -pocket-brand-name } App chuqa' tasik'ij, tawak'axaj o tatz'eta' xab'akuchi' o toq nawajo'.
-onboarding-pocket-anywhere-button = Titojtob'ëx { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Titz'uk chuqa' Keyak Ütz taq Ewan Tzij
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } yerutz'ük ütz ewan taq tzij pa ri b'anoj chuqa' yeruyäk pa jun k'ojlib'äl.
-onboarding-lockwise-strong-passwords-button = Ke'anuk'samajij ri Rutikirib'al taq Amolojri'ïl
-onboarding-facebook-container-title = Ke'anuk'samajij K'ulb'a't rik'in Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } nujäch ri rub'anikil awäch chi kiwäch ri ch'aqa' chik, akuchi' k'ayew nub'än chuwäch ri Facebook richin nuk'üt eltzijol chawäch.
-onboarding-facebook-container-button = Titz'aqatisäx ri K'amal
-onboarding-import-browser-settings-title = Ke'ajik'a' ri taq Ayaketal, Ewan taq Atzij Chuqa' Ch'aqa' chik
-onboarding-import-browser-settings-text = Tanima' awi'—anin ke'ak'waj awik'in ri taq ruxaq chuqa' taq anuk'ulem richin Chrome.
-onboarding-import-browser-settings-button = Ke'ajik'a' Taq Atzij Richin Chrome
-onboarding-personal-data-promise-title = Ichinan ruma Wachib'enïk
-onboarding-personal-data-promise-text = { -brand-product-name } yerukamelaj ri taq atzij rik'in jub'a' ok numöl, yeruchajij chuqa' nub'ij achike rub'eyal ye'okisäx.
-onboarding-personal-data-promise-button = Tasik'ij ri Ruya'ik Qatzij
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Ütz ütz, awichinan { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Wakami niqatäq chawe <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Titz'aqatisäx ri K'amal
-return-to-amo-get-started-button = Titikirisäx rik'in { -brand-short-name }
