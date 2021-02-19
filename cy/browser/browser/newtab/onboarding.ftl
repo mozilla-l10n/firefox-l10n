@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = A oes gennych chi gyfrif yn barod?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Mewngofnodi
 onboarding-start-browsing-button-label = Cychwyn Pori
-onboarding-not-now-button-label = Nid nawr
 onboarding-cards-dismiss =
     .title = Cau
     .aria-label = Cau
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Cewch eich hysbysu pan fydd eich manylion pers
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Rheoli cyfrineiriau sy'n ddiogel ac yn gludadwy.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Diogelu Rhag Tracio
+onboarding-tracking-protection-text2 = Mae { -brand-short-name } yn helpu i atal gwefannau rhag eich tracio ar-lein, gan ei gwneud yn anos i hysbysebion eich dilyn o gwmpas y we.
+onboarding-tracking-protection-button2 = Sut mae'n Gweithio
+onboarding-data-sync-title = Mynd â'ch Gosodiadau gyda Chi
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Cydweddwch eich nodau tudalen, cyfrineiriau, a mwy ym mhob man y byddwch yn defnyddio { -brand-product-name }.
+onboarding-data-sync-button2 = Mewngofnodwch i { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Cadw'n effro i achosion o dor-data
+onboarding-firefox-monitor-text2 = Mae { -monitor-brand-name } yn monitro os yw eich e-bost wedi ymddangos mewn tor-data ac yn eich rhybuddio os yw'n ymddangos mewn tor-data newydd.
+onboarding-firefox-monitor-button = Cofrestru am Rhybuddion
+onboarding-browse-privately-title = Pori'n Breifat
+onboarding-browse-privately-text = Mae Pori Preifat yn clirio'ch hanes chwilio a phori er mwyn ei gadw'n gyfrinachol rhag unrhyw un sy'n defnyddio'ch cyfrifiadur.
+onboarding-browse-privately-button = Agor Ffenestr Breifat
+onboarding-firefox-send-title = Cadw eich Ffeiliau a Rennir yn breifat
+onboarding-firefox-send-text2 = Llwythwch eich ffeiliau i fyny i { -send-brand-name } i'w rhannu gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n dod i ben yn awtomatig.
+onboarding-firefox-send-button = Rhoi cynnig ar { -send-brand-name }
+onboarding-mobile-phone-title = Rhoi { -brand-product-name } ar Eich Ffôn
+onboarding-mobile-phone-text = Llwythwch { -brand-product-name } i lawr ar gyfer iOS neu Android a chydweddu eich data ar draws dyfeisiau.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Llwytho Porwr Symudol i lawr
+onboarding-send-tabs-title = Anfon Tabiau Atoch Chi eich Hun
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Rhannu tudalennau'n hawdd rhwng eich dyfeisiau heb orfod copïo dolenni na gadael y porwr.
+onboarding-send-tabs-button = Cychwyn Defnyddio Anfon Tabiau
+onboarding-pocket-anywhere-title = Darllen a Gwrando yn Unrhyw Le
+onboarding-pocket-anywhere-text2 = Cadwch eich hoff gynnwys all-lein gyda'r Ap { -pocket-brand-name } a darllenwch, gwrandewch, a gwyliwch pryd bynnag y mae'n gyfleus i chi.
+onboarding-pocket-anywhere-button = Rhoi cynnig ar { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Creu a Chadw Cyfrineiriau Cryf
+onboarding-lockwise-strong-passwords-text = Mae { -lockwise-brand-name } yn creu cyfrineiriau cryf yn y fan a'r lle ac yn cadw pob un ohonyn nhw mewn un man.
+onboarding-lockwise-strong-passwords-button = Rheoli'ch Mewngofnodi
+onboarding-facebook-container-title = Gosod Ffiniau i Facebook
+onboarding-facebook-container-text2 = Mae { -facebook-container-brand-name } yn cadw eich proffil ar wahân i bopeth arall, gan ei gwneud yn anos i Facebook eich targedu chi gyda hysbysebion.
+onboarding-facebook-container-button = Ychwanegu'r Estyniad
+onboarding-import-browser-settings-title = Mewnforio Eich Nodau Tudalen, Cyfrineiriau, a Mwy
+onboarding-import-browser-settings-text = Symud yn sydyn - mae'n hawdd dod â'ch gwefannau a'ch gosodiadau Chrome gyda chi.
+onboarding-import-browser-settings-button = Mewnforio Data Chrome
+onboarding-personal-data-promise-title = Preifat o Fwriad
+onboarding-personal-data-promise-text = Mae { -brand-product-name } yn trin eich data â pharch trwy gymryd llai ohono, ei ddiogelu a bod yn glir ynglŷn â sut rydyn ni'n ei ddefnyddio.
+onboarding-personal-data-promise-button = Darllenwch ein Addewid
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Gwych, mae gennych { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Nawr gadewch i ni gael <icon> </icon> <b> { $addon-name } </ B> i chi.
+return-to-amo-extension-button = Ychwanegu'r Estyniad
+return-to-amo-get-started-button = Cychwyn gyda { -brand-short-name }
+onboarding-not-now-button-label = Nid nawr
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Gwych, mae { -brand-short-name } gennych
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = Y porwr cyflym, diogel a phreifat sydd 
 onboarding-multistage-welcome-primary-button-label = Cychwyn Gosod
 onboarding-multistage-welcome-secondary-button-label = Mewngofnodi
 onboarding-multistage-welcome-secondary-button-text = Oes gennych chi gyfrif?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Gwnewch { -brand-short-name } yn <span data-l10n-name="zap"> ragosodedig </span>
+onboarding-multistage-set-default-subtitle = Cyflymder, diogelwch a phreifatrwydd bob tro y byddwch chi'n pori.
+onboarding-multistage-set-default-primary-button-label = Gwneud yn Ragosodedig
+onboarding-multistage-set-default-secondary-button-label = Nid nawr
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Mewnforiwch eich cyfrineiriau, nodau tudalen, a <span data-l10n-name="zap">mwy</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Defnyddio gwedd liwgar ar gyfer botymau,
         dewislenni, a ffenestri.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Diogelu Rhag Tracio
-onboarding-tracking-protection-text2 = Mae { -brand-short-name } yn helpu i atal gwefannau rhag eich tracio ar-lein, gan ei gwneud yn anos i hysbysebion eich dilyn o gwmpas y we.
-onboarding-tracking-protection-button2 = Sut mae'n Gweithio
-onboarding-data-sync-title = Mynd â'ch Gosodiadau gyda Chi
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Cydweddwch eich nodau tudalen, cyfrineiriau, a mwy ym mhob man y byddwch yn defnyddio { -brand-product-name }.
-onboarding-data-sync-button2 = Mewngofnodwch i { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Cadw'n effro i achosion o dor-data
-onboarding-firefox-monitor-text2 = Mae { -monitor-brand-name } yn monitro os yw eich e-bost wedi ymddangos mewn tor-data ac yn eich rhybuddio os yw'n ymddangos mewn tor-data newydd.
-onboarding-firefox-monitor-button = Cofrestru am Rhybuddion
-onboarding-browse-privately-title = Pori'n Breifat
-onboarding-browse-privately-text = Mae Pori Preifat yn clirio'ch hanes chwilio a phori er mwyn ei gadw'n gyfrinachol rhag unrhyw un sy'n defnyddio'ch cyfrifiadur.
-onboarding-browse-privately-button = Agor Ffenestr Breifat
-onboarding-firefox-send-title = Cadw eich Ffeiliau a Rennir yn breifat
-onboarding-firefox-send-text2 = Llwythwch eich ffeiliau i fyny i { -send-brand-name } i'w rhannu gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n dod i ben yn awtomatig.
-onboarding-firefox-send-button = Rhoi cynnig ar { -send-brand-name }
-onboarding-mobile-phone-title = Rhoi { -brand-product-name } ar Eich Ffôn
-onboarding-mobile-phone-text = Llwythwch { -brand-product-name } i lawr ar gyfer iOS neu Android a chydweddu eich data ar draws dyfeisiau.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Llwytho Porwr Symudol i lawr
-onboarding-send-tabs-title = Anfon Tabiau Atoch Chi eich Hun
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Rhannu tudalennau'n hawdd rhwng eich dyfeisiau heb orfod copïo dolenni na gadael y porwr.
-onboarding-send-tabs-button = Cychwyn Defnyddio Anfon Tabiau
-onboarding-pocket-anywhere-title = Darllen a Gwrando yn Unrhyw Le
-onboarding-pocket-anywhere-text2 = Cadwch eich hoff gynnwys all-lein gyda'r Ap { -pocket-brand-name } a darllenwch, gwrandewch, a gwyliwch pryd bynnag y mae'n gyfleus i chi.
-onboarding-pocket-anywhere-button = Rhoi cynnig ar { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Creu a Chadw Cyfrineiriau Cryf
-onboarding-lockwise-strong-passwords-text = Mae { -lockwise-brand-name } yn creu cyfrineiriau cryf yn y fan a'r lle ac yn cadw pob un ohonyn nhw mewn un man.
-onboarding-lockwise-strong-passwords-button = Rheoli'ch Mewngofnodi
-onboarding-facebook-container-title = Gosod Ffiniau i Facebook
-onboarding-facebook-container-text2 = Mae { -facebook-container-brand-name } yn cadw eich proffil ar wahân i bopeth arall, gan ei gwneud yn anos i Facebook eich targedu chi gyda hysbysebion.
-onboarding-facebook-container-button = Ychwanegu'r Estyniad
-onboarding-import-browser-settings-title = Mewnforio Eich Nodau Tudalen, Cyfrineiriau, a Mwy
-onboarding-import-browser-settings-text = Symud yn sydyn - mae'n hawdd dod â'ch gwefannau a'ch gosodiadau Chrome gyda chi.
-onboarding-import-browser-settings-button = Mewnforio Data Chrome
-onboarding-personal-data-promise-title = Preifat o Fwriad
-onboarding-personal-data-promise-text = Mae { -brand-product-name } yn trin eich data â pharch trwy gymryd llai ohono, ei ddiogelu a bod yn glir ynglŷn â sut rydyn ni'n ei ddefnyddio.
-onboarding-personal-data-promise-button = Darllenwch ein Addewid
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Gwych, mae gennych { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Nawr gadewch i ni gael <icon> </icon> <b> { $addon-name } </ B> i chi.
-return-to-amo-extension-button = Ychwanegu'r Estyniad
-return-to-amo-get-started-button = Cychwyn gyda { -brand-short-name }
