@@ -22,3 +22,6 @@
 <!ENTITY modifiers.label "შემცვლელები">
 <!ENTITY acceleratorKey.label "სწრაფი ღილაკი:">
 <!ENTITY acceleratorKey.accesskey "წ">
+<!ENTITY menuAccessKey.label "მენიუსთან წვდომის ღილაკი:">
+<!ENTITY menuAccessKey.accesskey "მ">
+<!ENTITY modifiersDesc.label "შენიშვნა: ნული მნიშვნელობა გათიშავს შემცვლელ ღილაკს.">
