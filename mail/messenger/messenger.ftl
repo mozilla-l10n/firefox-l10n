@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } to wolne oprogramowanie o
 folder-pane-toolbar =
     .toolbarname = Pasek panelu folderów
     .accesskey = f
+folder-pane-toolbar-options-button =
+    .tooltiptext = Opcje panelu folderów
 folder-pane-header-label = Foldery
 
 ## Folder Toolbar Header Popup
