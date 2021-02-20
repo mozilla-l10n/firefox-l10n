@@ -58,14 +58,10 @@ about-webrtc-ice-pair-bytes-sent = გაგზავნილი ბაიტ�
 about-webrtc-ice-pair-bytes-received = მიღებული ბაიტები:
 about-webrtc-ice-component-id = კომპონენტის ID
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-
-##
-
+about-webrtc-avg-bitrate-label = საშ. ბიტური სიჩქარე:
+about-webrtc-avg-framerate-label = საშ. კადრული სიჩქარე:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -122,6 +118,8 @@ about-webrtc-fold-show-msg = ვრცლად ჩვენება
     .title = დააწკაპეთ, ამ განყოფილების გასაშლელად
 about-webrtc-fold-hide-msg = შემოკლებულად ჩვენება
     .title = დააწკაპეთ, ამ განყოფილების ასაკეცად
+about-webrtc-dropped-frames-label = გამოტოვებული კადრები:
+about-webrtc-discarded-packets-label = უარყოფილი პაკეტები:
 about-webrtc-decoder-label = გამშიფრავი
 about-webrtc-encoder-label = ენკოდერი
 about-webrtc-show-tab-label = ჩანართის ჩვენება
@@ -166,6 +164,11 @@ about-webrtc-pacer-delay-ms = კრებულებს შორის და
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT, მწმ
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = ვიდეო ჩარჩოს სტატისტიკა - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -179,6 +182,30 @@ about-webrtc-aec-logging-off-state-msg = ჩაწერის აღრიც�
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] მიღებულია { $packets } პაკეტი
+       *[other] მიღებულია { $packets } პაკეტი
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] დაიკარგა { $packets } პაკეტი
+       *[other] დაიკარგა { $packets } პაკეტი
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] გაიგზავნა { $packets } პაკეტი
+       *[other] გაიგზავნა { $packets } პაკეტი
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

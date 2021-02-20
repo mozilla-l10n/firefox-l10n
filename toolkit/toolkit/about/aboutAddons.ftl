@@ -382,15 +382,11 @@ addon-detail-private-browsing-disallow = აკრძალვა
 addon-badge-recommended2 =
     .title = { -brand-product-name } მხოლოდ იმ გაფართოებებს გირჩევთ, რომლებიც აკმაყოფილებს უსაფრთხოებისა და წარმადობის მაღალ მოთხოვნებს.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = გაფართოება ხალხისგან, რომელთაც შექმნეს { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = ამ გაფართოების კოდი შემოწმებულია უსაფრთხოებაზე
-    .aria-label = { addon-badge-verified.title }
-addon-badge-line2 =
-    .title = ოფიციალური გაფართოება ხალხისგან, რომელთაც შექმნეს { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Mozilla-ს მიერ შექმნილი ოფიციალური გაფართოება. სრულად აკმაყოფილებს უსაფრთხოებისა და წარმადობის მოთხოვნებს.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = მოცემული გაფართოება შემოწმებულია და აკმაყოფილებს უსაფრთხოებისა და წარმადობის სათანადო მოთხოვნებს.
     .aria-label = { addon-badge-verified2.title }

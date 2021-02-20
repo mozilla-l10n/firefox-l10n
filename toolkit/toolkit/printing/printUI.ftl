@@ -39,6 +39,11 @@ printui-scale-pcent = მასშტაბი
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = ორმხრივი ბეჭდვა
 printui-duplex-checkbox = ამობეჭდვა ორივე მხარეს
+printui-two-sided-printing-off = გამორთ.
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = გადაბრუნება გრძელ კიდეზე
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = გადაბრუნება მოკლე კიდეზე
 # Section title for miscellaneous print options
 printui-options = პარამეტრები
 printui-headers-footers-checkbox = თავსართისა და ბოლოსართის ამობეჭდვა
@@ -96,6 +101,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = მასშტაბი უნდა იყოს რიცხვი შუალედში 10 და 200
 printui-error-invalid-margin = გთხოვთ, შეიყვანოთ მართებული მინდვრები შერჩეული ქაღალდის ზომისთვის.
+printui-error-invalid-copies = ასლები უნდა იყოს 1-დან 10000-დან რიცხვი.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = უნდა იყოს რიცხვი შუალედში 1 და { $numPages }.
