@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Đã có một tài khoản?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Đăng nhập
 onboarding-start-browsing-button-label = Bắt đầu duyệt web
-onboarding-not-now-button-label = Không phải bây giờ
 onboarding-cards-dismiss =
     .title = Bỏ qua
     .aria-label = Bỏ qua
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Nhận thông báo khi thông tin cá nhân c�
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Quản lý mật khẩu được bảo vệ và di động.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Bảo vệ khỏi trình theo dõi
+onboarding-tracking-protection-text2 = { -brand-short-name } giúp ngăn các trang web theo dõi bạn trực tuyến, khiến quảng cáo khó theo dõi bạn hơn trên web.
+onboarding-tracking-protection-button2 = Nó hoạt động như thế nào
+onboarding-data-sync-title = Mang theo các cài đặt của bạn
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Đồng bộ hóa dấu trang, mật khẩu và hơn thế nữa ở mọi nơi bạn sử dụng { -brand-product-name }.
+onboarding-data-sync-button2 = Đăng nhập vào { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Cảnh báo về vi phạm dữ liệu
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } giám sát nếu email của bạn xuất hiện trong vụ rò rỉ dữ liệu đã biết và thông báo cho bạn nếu nó xuất hiện trong vụ rò rỉ mới.
+onboarding-firefox-monitor-button = Đăng ký thông báo
+onboarding-browse-privately-title = Duyệt web riêng tư hơn
+onboarding-browse-privately-text = Duyệt web riêng tư sẽ xóa lịch sử tìm kiếm và duyệt web của bạn để giữ bí mật với bất kỳ ai sử dụng máy tính của bạn.
+onboarding-browse-privately-button = Mở một cửa sổ riêng tư
+onboarding-firefox-send-title = Giữ các tập tin bạn chia sẻ ở chế độ riêng tư
+onboarding-firefox-send-text2 = Tải tập tin của bạn lên { -send-brand-name } để chia sẻ chúng với mã hóa đầu cuối và liên kết tự động hết hạn.
+onboarding-firefox-send-button = Thử { -send-brand-name }
+onboarding-mobile-phone-title = Tải { -brand-product-name } trên điện thoại của bạn
+onboarding-mobile-phone-text = Tải xuống { -brand-product-name } cho iOS hoặc Android và đồng bộ dữ liệu của bạn trên các thiết bị khác nhau.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Tải về trình duyệt di động
+onboarding-send-tabs-title = Gửi ngay cho chính mình các thẻ
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Dễ dàng chia sẻ các trang giữa các thiết bị của bạn mà không phải sao chép liên kết hoặc rời khỏi trình duyệt.
+onboarding-send-tabs-button = Bắt đầu sử dụng trình gửi thẻ
+onboarding-pocket-anywhere-title = Đọc và nghe mọi nơi
+onboarding-pocket-anywhere-text2 = Lưu nội dung yêu thích của bạn ngoại tuyến với ứng dụng { -pocket-brand-name } và đọc, nghe và xem bất cứ khi nào nó tiện lợi cho bạn.
+onboarding-pocket-anywhere-button = Thử { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Tạo và lưu trữ mật khẩu mạnh
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } tạo mật khẩu mạnh ngay tại chỗ và lưu tất cả chúng vào một nơi.
+onboarding-lockwise-strong-passwords-button = Quản lý thông tin đăng nhập của bạn
+onboarding-facebook-container-title = Đặt ranh giới với Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } giữ cho hồ sơ của bạn tách biệt với mọi thứ khác, khiến Facebook khó nhắm mục tiêu quảng cáo của bạn hơn.
+onboarding-facebook-container-button = Thêm phần mở rộng
+onboarding-import-browser-settings-title = Nhập dấu trang, mật khẩu và hơn thế nữa
+onboarding-import-browser-settings-text = Dễ dàng nhập các trang web và cài đặt Chrome.
+onboarding-import-browser-settings-button = Nhập dữ liệu từ Chrome
+onboarding-personal-data-promise-title = Được thiết kế xung quanh sự riêng tư
+onboarding-personal-data-promise-text = { -brand-product-name } xử lí dữ liệu của bạn một cách tôn trọng bằng cách lấy ít dữ liệu hơn, bảo vệ dữ liệu và hiểu rõ về cách chúng tôi sử dụng dữ liệu đó.
+onboarding-personal-data-promise-button = Đọc tuyên ngôn của chúng tôi
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Thật tuyệt, bạn đã có { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Bây giờ chúng tôi sẽ cài đặt các tiện ích <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Thêm tiện ích mở rộng
+return-to-amo-get-started-button = Bắt đầu với { -brand-short-name }
+onboarding-not-now-button-label = Không phải bây giờ
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Thật tuyệt, bạn đã có { -brand-short-name }
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = Trình duyệt riêng tư nhanh chóng,
 onboarding-multistage-welcome-primary-button-label = Bắt đầu thiết lập
 onboarding-multistage-welcome-secondary-button-label = Đăng nhập
 onboarding-multistage-welcome-secondary-button-text = Đã có một tài khoản?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Đặt { -brand-short-name } làm <span data-l10n-name="zap">trình duyệt mặc định</span> của bạn
+onboarding-multistage-set-default-subtitle = Tốc độ, an toàn và quyền riêng tư mỗi khi bạn duyệt.
+onboarding-multistage-set-default-primary-button-label = Đặt làm mặc định
+onboarding-multistage-set-default-secondary-button-label = Không phải bây giờ
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Nhập mật khẩu, dấu trang và <span data-l10n-name="zap">hơn thế nữa</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Sử dụng giao diện đầy màu sắc cho các nút,
         menu và cửa sổ
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Bảo vệ khỏi trình theo dõi
-onboarding-tracking-protection-text2 = { -brand-short-name } giúp ngăn các trang web theo dõi bạn trực tuyến, khiến quảng cáo khó theo dõi bạn hơn trên web.
-onboarding-tracking-protection-button2 = Nó hoạt động như thế nào
-onboarding-data-sync-title = Mang theo các cài đặt của bạn
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Đồng bộ hóa dấu trang, mật khẩu và hơn thế nữa ở mọi nơi bạn sử dụng { -brand-product-name }.
-onboarding-data-sync-button2 = Đăng nhập vào { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Cảnh báo về vi phạm dữ liệu
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } giám sát nếu email của bạn xuất hiện trong vụ rò rỉ dữ liệu đã biết và thông báo cho bạn nếu nó xuất hiện trong vụ rò rỉ mới.
-onboarding-firefox-monitor-button = Đăng ký thông báo
-onboarding-browse-privately-title = Duyệt web riêng tư hơn
-onboarding-browse-privately-text = Duyệt web riêng tư sẽ xóa lịch sử tìm kiếm và duyệt web của bạn để giữ bí mật với bất kỳ ai sử dụng máy tính của bạn.
-onboarding-browse-privately-button = Mở một cửa sổ riêng tư
-onboarding-firefox-send-title = Giữ các tập tin bạn chia sẻ ở chế độ riêng tư
-onboarding-firefox-send-text2 = Tải tập tin của bạn lên { -send-brand-name } để chia sẻ chúng với mã hóa đầu cuối và liên kết tự động hết hạn.
-onboarding-firefox-send-button = Thử { -send-brand-name }
-onboarding-mobile-phone-title = Tải { -brand-product-name } trên điện thoại của bạn
-onboarding-mobile-phone-text = Tải xuống { -brand-product-name } cho iOS hoặc Android và đồng bộ dữ liệu của bạn trên các thiết bị khác nhau.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Tải về trình duyệt di động
-onboarding-send-tabs-title = Gửi ngay cho chính mình các thẻ
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Dễ dàng chia sẻ các trang giữa các thiết bị của bạn mà không phải sao chép liên kết hoặc rời khỏi trình duyệt.
-onboarding-send-tabs-button = Bắt đầu sử dụng trình gửi thẻ
-onboarding-pocket-anywhere-title = Đọc và nghe mọi nơi
-onboarding-pocket-anywhere-text2 = Lưu nội dung yêu thích của bạn ngoại tuyến với ứng dụng { -pocket-brand-name } và đọc, nghe và xem bất cứ khi nào nó tiện lợi cho bạn.
-onboarding-pocket-anywhere-button = Thử { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Tạo và lưu trữ mật khẩu mạnh
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } tạo mật khẩu mạnh ngay tại chỗ và lưu tất cả chúng vào một nơi.
-onboarding-lockwise-strong-passwords-button = Quản lý thông tin đăng nhập của bạn
-onboarding-facebook-container-title = Đặt ranh giới với Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } giữ cho hồ sơ của bạn tách biệt với mọi thứ khác, khiến Facebook khó nhắm mục tiêu quảng cáo của bạn hơn.
-onboarding-facebook-container-button = Thêm phần mở rộng
-onboarding-import-browser-settings-title = Nhập dấu trang, mật khẩu và hơn thế nữa
-onboarding-import-browser-settings-text = Dễ dàng nhập các trang web và cài đặt Chrome.
-onboarding-import-browser-settings-button = Nhập dữ liệu từ Chrome
-onboarding-personal-data-promise-title = Được thiết kế xung quanh sự riêng tư
-onboarding-personal-data-promise-text = { -brand-product-name } xử lí dữ liệu của bạn một cách tôn trọng bằng cách lấy ít dữ liệu hơn, bảo vệ dữ liệu và hiểu rõ về cách chúng tôi sử dụng dữ liệu đó.
-onboarding-personal-data-promise-button = Đọc tuyên ngôn của chúng tôi
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Thật tuyệt, bạn đã có { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Bây giờ chúng tôi sẽ cài đặt các tiện ích <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Thêm tiện ích mở rộng
-return-to-amo-get-started-button = Bắt đầu với { -brand-short-name }
