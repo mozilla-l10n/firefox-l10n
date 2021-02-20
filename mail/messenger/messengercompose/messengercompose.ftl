@@ -45,6 +45,34 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Do schowaneje kopije přesunyć
     .accesskey = s
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Strg+Umsch+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Wobłuk přiwěškow
+    .accesskey = b
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Připowěsnyć
+    .tooltiptext = Přiwěšk přidać ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Přiwěšk přidać…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Dataje…
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Dataje připowěsnyć…
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -69,6 +97,23 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+drop-file-label-attachment =
+    { $count ->
+        [one] Jako přiwěšk přidać
+        [two] Jako přiwěškaj přidać
+        [few] Jako přiwěški přidać
+       *[other] Jako přiwěški přidać
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Inline připowěsnyć
+        [two] Inline připowěsnyć
+        [few] Inline připowěsnyć
+       *[other] Inline připowěsnyć
+    }
+
+# Reorder Attachment Panel
+
 button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwitowanku za tutu powěsć požadać
