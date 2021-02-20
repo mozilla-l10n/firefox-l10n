@@ -93,9 +93,33 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Pokaż listę załączników ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Ukryj listę załączników ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Dodaj jako załącznik
+        [few] Dodaj jako załączniki
+       *[many] Dodaj jako załączniki
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Dołącz w treści
+        [few] Dołącz w treści
+       *[many] Dołącz w treści
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Przenieś na początek
+move-attachment-left-panel-button =
+    .label = Przenieś w lewo
+move-attachment-right-panel-button =
+    .label = Przenieś w prawo
+move-attachment-last-panel-button =
+    .label = Przenieś na koniec
 button-return-receipt =
     .label = Potwierdzenie
     .tooltiptext = Żądaj potwierdzenia dostarczenia tej wiadomości
