@@ -101,6 +101,8 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Ke'elesäx ri taq cha'oj ajsik chuqa' keyak ronojel ri taq chij etz'ib'an
+perftools-tools-threads-input-label =
+    .title = Re taq kib'i' chik e jun rucholajem jachon chi chuq', ri ye'okisäx richin yetzij ri kitz'ukik kiwäch kib'i' taq chij pa ri ya'öl ruwäch b'i'aj. Ri rub'i' k'o chi xa xe jun peraj ruk'amon ri' rik'in ri rub'i' chij richin titz'aqatisäx. K'ayew nuna' rik'in ri k'ojlib'äl majun k' chupam.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
