@@ -117,6 +117,8 @@ newtab-menu-bookmark = Segnelibri
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Copie colegament dal discjariament
+newtab-menu-go-to-download-page = Va te pagjine dai discjariaments
+newtab-menu-remove-download = Gjave de cronologjie
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
