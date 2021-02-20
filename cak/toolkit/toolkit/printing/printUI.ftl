@@ -17,14 +17,6 @@ printui-page-range-custom = Ichinan
 printui-page-range-label = Taq ruxaq
 printui-page-range-picker =
     .aria-label = Ticha' rupalem ruxaq
-printui-page-custom-range =
-    .aria-label = Titz'ib'äx rupalem ichinan ruxaq
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Richin
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = chi re
 printui-page-custom-range-input =
     .aria-label = Titz'ib'äx rupalem ichinan ruxaq
     .placeholder = e.g. 2-6, 9, 12-16
@@ -47,6 +39,7 @@ printui-scale-pcent = Xakb'äl
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Nitz'ajb'äx pa ka'i'-ruwa
 printui-duplex-checkbox = Titz'ajb'äx pa ka'i'-ruwa
+printui-two-sided-printing-off = Chupun
 # Section title for miscellaneous print options
 printui-options = Taq cha'oj
 printui-headers-footers-checkbox = Titz'ajb'äl taq nab'ey chuqa' ruxe' rub'i' ruxaq
@@ -59,7 +52,6 @@ printui-margins = Taq ruchi'
 printui-margins-default = K'o wi
 printui-margins-min = Ko'öl
 printui-margins-none = Majun
-printui-margins-custom = Ichinan
 printui-margins-custom-inches = B'anon runuk'ulem (taq pulwata')
 printui-margins-custom-top = Ajsik
 printui-margins-custom-top-inches = Nima'q (taq pulwata')

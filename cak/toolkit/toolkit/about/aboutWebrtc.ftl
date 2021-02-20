@@ -58,14 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Taq wayt etaqon:
 about-webrtc-ice-pair-bytes-received = Taq wayt ek'ulun:
 about-webrtc-ice-component-id = ID Ch'akulal
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-
-##
-
+about-webrtc-avg-bitrate-label = Nik'aj ral wok'altäq b'itz:
+about-webrtc-avg-framerate-label = Nik'aj ral wok'altäq rusilowachib'alil:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -122,6 +118,8 @@ about-webrtc-fold-show-msg = kek'ut pe ri taq rub'anikil
     .title = tapitz'a' richin narïk' re peraj re'
 about-webrtc-fold-hide-msg = ke'ewäx ri taq rub'anikil
     .title = tapitz'a' richin nuk'öl ri' re peraj re'
+about-webrtc-dropped-frames-label = Xe'elesäx kan ri silowachib'alil:
+about-webrtc-discarded-packets-label = Taq pisoj xech'aqïx kan:
 about-webrtc-decoder-label = Elesäy na'oj
 about-webrtc-encoder-label = Elesäy na'oj
 about-webrtc-show-tab-label = Tik'ut ruwi'
@@ -179,6 +177,30 @@ about-webrtc-aec-logging-off-state-msg = ri kitz'ib'axik taq yakb'äl yatikïr y
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] Xk'ul { $packets } pisoj
+       *[other] Xek'ul { $packets } taq pisoj
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] Xsach { $packets } pisoj
+       *[other] Xesach { $packets } taq pisoj
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] Xtaq { $packets } pisoj
+       *[other] Xetaq { $packets } taq pisoj
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

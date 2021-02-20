@@ -409,3 +409,6 @@ support-printing-prefs-value = Retal
 support-remote-experiments-title = Näj Solna'oj
 support-remote-experiments-name = B'i'aj
 support-remote-experiments-branch = Solna'oj Branch
+support-remote-features-title = Näj taq B'anikil
+support-remote-features-name = B'i'aj
+support-remote-features-status = B'anikil
