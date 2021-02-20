@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = უკვე გაქვთ ანგარ
 # Text for link to submit the sign in form
 onboarding-join-form-signin = შესვლა
 onboarding-start-browsing-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
-onboarding-not-now-button-label = ახლა არა
 onboarding-cards-dismiss =
     .title = დამალვა
     .aria-label = დამალვა
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = შეიტყვეთ, თუ თქვე�
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = მართეთ და გადაიტანეთ პაროლები უსაფრთხოდ.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = თვალთვალისგან დაცვა
+onboarding-tracking-protection-text2 = { -brand-short-name } გეხმარებათ, აუკრძალოთ საიტებს თქვენი თვალთვალი ინტერნეტში, რაც ურთულებს რეკლამებს შესაძლებლობას, თვალი გადევნოთ ვებსივრცეში.
+onboarding-tracking-protection-button2 = როგორ მუშაობს
+onboarding-data-sync-title = წაიყოლეთ თქვენი პარამეტრები თან
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = დაასინქრონეთ თქვენი სანიშნები, პაროლები და სხვა მონაცემები ყველგან, სადაც გიყენიათ { -brand-product-name }.
+onboarding-data-sync-button2 = { -sync-brand-short-name } – შესვლა
+onboarding-firefox-monitor-title = შეიტყვეთ, მონაცემების მიტაცების შესახებ
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } მუდმივად გადაამოწმებს, არის თუ არა თქვენი ელფოსტა ბოლოს მიტაცებულ მონაცემებს შორის და გაცნობებთ აღმოჩენის შემთხვევაში.
+onboarding-firefox-monitor-button = გამოიწერეთ ცნობები
+onboarding-browse-privately-title = მოინახულეთ გვერდები უსაფრთხოდ
+onboarding-browse-privately-text = პირადი თვალიერების რეჟიმი ასუფთავებს თქვენ მიერ მოძიებულ და მონახულებულ გვერდებს და არ უმხელს მათ შესახებ, თქვენი კომპიუტერის სხვა მომხმარებლებს
+onboarding-browse-privately-button = პირადი ფანჯრის გახსნა
+onboarding-firefox-send-title = დატოვეთ გაზიარებული ფაილები საიდუმლოდ
+onboarding-firefox-send-text2 = ატვირთეთ თქვენი ფაილები, { -send-brand-name } კი გააზიარებს გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაუქმდება, ვადის ამოწურვისას.
+onboarding-firefox-send-button = გამოცადეთ { -send-brand-name }
+onboarding-mobile-phone-title = გადმოწერეთ { -brand-product-name } თქვენს ტელეფონზე
+onboarding-mobile-phone-text = { -brand-product-name } ჩამოტვირთეთ iOS ან Android-სისტემისთვის და დაასინქრონეთ მონაცემები ყველა მოწყობილობაზე.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = ჩამოტვირთეთ მობილურზე
+onboarding-send-tabs-title = მყისიერად გადააგზავნეთ ჩანართები
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = მარტივად გააზიარეთ გვერდები თქვენს მოწყობილობებზე ბმულების ასლების გადატანისა და ბრაუზერის დატოვების გარეშე.
+onboarding-send-tabs-button = გამოიყენეთ Send Tabs
+onboarding-pocket-anywhere-title = წაიკითხეთ და მოისმინეთ ნებისმიერ ადგილას
+onboarding-pocket-anywhere-text2 = გადაინახეთ თქვენი რჩეული მასალები ხაზგარეშედ { -pocket-brand-name }-პროგრამით და წაიკითხეთ, მოისმინეთ ან უყურეთ ხელსაყრელ ადგილას.
+onboarding-pocket-anywhere-button = სცადეთ { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = შექმენით და შეინახეთ ძლიერი პაროლები
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } მყისიერად ქმნის ძლიერ პაროლებს და ერთად ინახავს.
+onboarding-lockwise-strong-passwords-button = ანგარიშების მონაცემების მართვა
+onboarding-facebook-container-title = შემოსაზღვრეთ Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } განაცალკევებს თქვენს პროფილს დანარჩენი გვერდებისგან, რაც გაურთულებს Facebook-ს თქვენთვის მიზნობრივი რეკლამების შერჩევას.
+onboarding-facebook-container-button = გაფართოების დამატება
+onboarding-import-browser-settings-title = გადმოიტანეთ თქვენი სანიშნები, პაროლები და ა. შ.
+onboarding-import-browser-settings-text = დაიწყეთ ახლავე — მარტივად წამოიღეთ თქვენი საიტები და პარამეტრები Chrome-იდან.
+onboarding-import-browser-settings-button = Chrome-მონაცემების გადმოტანა
+onboarding-personal-data-promise-title = პირადულობისთვის შექმნილი
+onboarding-personal-data-promise-text = { -brand-product-name } თქვენს მონაცემებს ეპყრობა პატივისცემით, აღრიცხავს ნაკლებს, იცავს მას და ნათლად ხნის, როგორ იყენებს.
+onboarding-personal-data-promise-button = წაიკითხეთ ჩვენი პირობა
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = მშვენიერია, თქვენ უკვე გაქვთ { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = ახლა, მოდით დავამატოთ <icon></icon><b>{ $addon-name }</b>
+return-to-amo-extension-button = გაფართოების დამატება
+return-to-amo-get-started-button = შეგიძლიათ გამოიყენოთ { -brand-short-name }
+onboarding-not-now-button-label = ახლა არა
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = მშვენიერია, თქვენ უკვე გაქვთ { -brand-short-name }
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = სწრაფი, უსაფრთ�
 onboarding-multistage-welcome-primary-button-label = დაიწყეთ გამართვა
 onboarding-multistage-welcome-secondary-button-label = შესვლა
 onboarding-multistage-welcome-secondary-button-text = გაქვთ ანგარიში?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = აქციეთ { -brand-short-name } <span data-l10n-name="zap">ნაგულისხმევად</span>
+onboarding-multistage-set-default-subtitle = სიჩქარე, უსაფრთხოება და პირადულობა, ინტერნეტის ყოველი გამოყენებისას.
+onboarding-multistage-set-default-primary-button-label = ნაგულისხმევად დაყენება
+onboarding-multistage-set-default-secondary-button-label = ახლა არა
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = გადმოწერეთ თქვენი პაროლები, სანიშნები და <span data-l10n-name="zap">სხვა</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         ფერადი გაფორმების გამოყენება ღილაკებზე,
         მენიუებსა და ფანჯრებზე.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = თვალთვალისგან დაცვა
-onboarding-tracking-protection-text2 = { -brand-short-name } გეხმარებათ, აუკრძალოთ საიტებს თქვენი თვალთვალი ინტერნეტში, რაც ურთულებს რეკლამებს შესაძლებლობას, თვალი გადევნოთ ვებსივრცეში.
-onboarding-tracking-protection-button2 = როგორ მუშაობს
-onboarding-data-sync-title = წაიყოლეთ თქვენი პარამეტრები თან
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = დაასინქრონეთ თქვენი სანიშნები, პაროლები და სხვა მონაცემები ყველგან, სადაც გიყენიათ { -brand-product-name }.
-onboarding-data-sync-button2 = { -sync-brand-short-name } – შესვლა
-onboarding-firefox-monitor-title = შეიტყვეთ, მონაცემების მიტაცების შესახებ
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } მუდმივად გადაამოწმებს, არის თუ არა თქვენი ელფოსტა ბოლოს მიტაცებულ მონაცემებს შორის და გაცნობებთ აღმოჩენის შემთხვევაში.
-onboarding-firefox-monitor-button = გამოიწერეთ ცნობები
-onboarding-browse-privately-title = მოინახულეთ გვერდები უსაფრთხოდ
-onboarding-browse-privately-text = პირადი თვალიერების რეჟიმი ასუფთავებს თქვენ მიერ მოძიებულ და მონახულებულ გვერდებს და არ უმხელს მათ შესახებ, თქვენი კომპიუტერის სხვა მომხმარებლებს
-onboarding-browse-privately-button = პირადი ფანჯრის გახსნა
-onboarding-firefox-send-title = დატოვეთ გაზიარებული ფაილები საიდუმლოდ
-onboarding-firefox-send-text2 = ატვირთეთ თქვენი ფაილები, { -send-brand-name } კი გააზიარებს გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაუქმდება, ვადის ამოწურვისას.
-onboarding-firefox-send-button = გამოცადეთ { -send-brand-name }
-onboarding-mobile-phone-title = გადმოწერეთ { -brand-product-name } თქვენს ტელეფონზე
-onboarding-mobile-phone-text = { -brand-product-name } ჩამოტვირთეთ iOS ან Android-სისტემისთვის და დაასინქრონეთ მონაცემები ყველა მოწყობილობაზე.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = ჩამოტვირთეთ მობილურზე
-onboarding-send-tabs-title = მყისიერად გადააგზავნეთ ჩანართები
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = მარტივად გააზიარეთ გვერდები თქვენს მოწყობილობებზე ბმულების ასლების გადატანისა და ბრაუზერის დატოვების გარეშე.
-onboarding-send-tabs-button = გამოიყენეთ Send Tabs
-onboarding-pocket-anywhere-title = წაიკითხეთ და მოისმინეთ ნებისმიერ ადგილას
-onboarding-pocket-anywhere-text2 = გადაინახეთ თქვენი რჩეული მასალები ხაზგარეშედ { -pocket-brand-name }-პროგრამით და წაიკითხეთ, მოისმინეთ ან უყურეთ ხელსაყრელ ადგილას.
-onboarding-pocket-anywhere-button = სცადეთ { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = შექმენით და შეინახეთ ძლიერი პაროლები
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } მყისიერად ქმნის ძლიერ პაროლებს და ერთად ინახავს.
-onboarding-lockwise-strong-passwords-button = ანგარიშების მონაცემების მართვა
-onboarding-facebook-container-title = შემოსაზღვრეთ Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } განაცალკევებს თქვენს პროფილს დანარჩენი გვერდებისგან, რაც გაურთულებს Facebook-ს თქვენთვის მიზნობრივი რეკლამების შერჩევას.
-onboarding-facebook-container-button = გაფართოების დამატება
-onboarding-import-browser-settings-title = გადმოიტანეთ თქვენი სანიშნები, პაროლები და ა. შ.
-onboarding-import-browser-settings-text = დაიწყეთ ახლავე — მარტივად წამოიღეთ თქვენი საიტები და პარამეტრები Chrome-იდან.
-onboarding-import-browser-settings-button = Chrome-მონაცემების გადმოტანა
-onboarding-personal-data-promise-title = პირადულობისთვის შექმნილი
-onboarding-personal-data-promise-text = { -brand-product-name } თქვენს მონაცემებს ეპყრობა პატივისცემით, აღრიცხავს ნაკლებს, იცავს მას და ნათლად ხნის, როგორ იყენებს.
-onboarding-personal-data-promise-button = წაიკითხეთ ჩვენი პირობა
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = მშვენიერია, თქვენ უკვე გაქვთ { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = ახლა, მოდით დავამატოთ <icon></icon><b>{ $addon-name }</b>
-return-to-amo-extension-button = გაფართოების დამატება
-return-to-amo-get-started-button = შეგიძლიათ გამოიყენოთ { -brand-short-name }
