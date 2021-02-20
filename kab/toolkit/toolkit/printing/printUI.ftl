@@ -97,6 +97,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Sellum ilaq ad yili d amḍan gar 10 d 200.
 printui-error-invalid-margin = Ma ulac aɣilif, fren tama tameɣtut i teɣzi n lkaɣeḍ i yettwafernen.
+printui-error-invalid-copies = Anɣalen ilaq ad ilin d amḍan gar 10 d 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Azilal yessefk ad yili d amḍan gar 1 d { $numPages }.

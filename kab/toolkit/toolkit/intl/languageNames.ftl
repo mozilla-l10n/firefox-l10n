@@ -176,6 +176,7 @@ language-name-st = Tazutit n wenzul
 language-name-su = Tasudanit
 language-name-sv = Taswidit
 language-name-sw = Taswayilit
+language-name-szl = Silisyan
 language-name-ta = Taṭamilit
 language-name-te = Tilugut
 language-name-tg = Tatajikt

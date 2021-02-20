@@ -406,5 +406,7 @@ support-printing-prefs-value = Azal
 
 ## Normandy sections
 
+support-remote-experiments-name = Isem
+support-remote-features-title = Timahilin tinmeggayin
 support-remote-features-name = Isem
 support-remote-features-status = Addad
