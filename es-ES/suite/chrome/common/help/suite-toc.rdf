@@ -12,7 +12,6 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="welcome" nc:name="Ayuda de &brandShortName;" nc:link="welcome_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="help-help" nc:name="Usar la ventana de ayuda" nc:link="help_help.xhtml"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="ieusers"/> </rdf:li>
         <rdf:li> <rdf:Description ID="nav" nc:name="Navegar por la web" nc:link="nav_help.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="mail" nc:name="Usar Correo y noticias de &brandShortName;" nc:link="mailnews_getting_started.xhtml"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp" nc:name="Crear páginas con &brandShortName; Composer" nc:link="composer_help.xhtml"/> </rdf:li>
@@ -743,7 +742,7 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="cust-main" nc:name="Barra de menús"  nc:link="customize_help.xhtml#menu_bar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-main" nc:name="Barra de herramientas de navegación" nc:link="customize_help.xhtml#navigation_toolbar"/> </rdf:li>
-        <rdf:li> <rdf:Description ID="cust-personal" nc:name="Barra de herramientas personal" nc:link="customize_help.xhtml#personal_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cust-personal" nc:name="Barra de marcadores" nc:link="customize_help.xhtml#personal_toolbar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-status" nc:name="Barra de estado" nc:link="customize_help.xhtml#status_bar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-taskbar" nc:name="Barra de componentes" nc:link="customize_help.xhtml#component_bar"/> </rdf:li>
         <rdf:li> <rdf:Description ID="cust-hide" nc:name="Ocultar una barra de herramientas" nc:link="customize_help.xhtml#hiding_a_toolbar"/> </rdf:li>
@@ -826,7 +825,7 @@
         <rdf:li><rdf:Description ID="advanced_http_networking" nc:name="Protocolo HTTP" nc:link="cs_nav_prefs_advanced.xhtml#http_networking"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_installation" nc:name="Instalación de software" nc:link="cs_nav_prefs_advanced.xhtml#software_installation"/> </rdf:li>
         <rdf:li><rdf:Description ID="advanced_pref_mouse_wheel" nc:name="Rueda del ratón" nc:link="cs_nav_prefs_advanced.xhtml#mouse_wheel"/> </rdf:li>
-        <rdf:li><rdf:Description ID="advanced_pref_dom_inspector" nc:name="Inspector DOM" nc:link="cs_nav_prefs_advanced.xhtml#dom_inspector"/> </rdf:li>
+        <rdf:li><rdf:Description ID="advanced_pref_debugging" nc:name="Depuración" nc:link="cs_nav_prefs_advanced.xhtml#debugging"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
@@ -1152,7 +1151,6 @@
     <nc:subheadings>
       <rdf:Seq>
         <rdf:li><rdf:Description ID="tools-js_console" nc:name="Consola de errores" nc:link="developer_tools.xhtml#js_console"/> </rdf:li>
-        <rdf:li><rdf:Description ID="tools-inspector" nc:name="DOM Inspector" nc:link="developer_tools.xhtml#inspector"/> </rdf:li>
         <rdf:li><rdf:Description ID="tools-devtools" nc:name="Herramientas de desarrollo" nc:link="developer_tools.xhtml#devtools"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
