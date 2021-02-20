@@ -4,7 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Reafitar
-customize-mode-menu-and-toolbars-header = Arrastra los elementos que prefieras a la barra de ferramientes o al menú flotante
+customize-mode-menu-and-toolbars-header = Arrastra los elementos que prefieras a la barra de ferramientes o al menú flotante.
 customize-mode-overflow-list-title = Menú flotante
 customize-mode-uidensity =
     .label = Densidá
