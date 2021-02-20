@@ -408,3 +408,13 @@ support-printing-clear-settings-button = Išvalyti įrašytas spausdinimo nuosta
 support-printing-modified-settings = Pakeistos spausdinimo nuostatos
 support-printing-prefs-name = Pavadinimas
 support-printing-prefs-value = Reikšmė
+
+## Normandy sections
+
+support-remote-experiments-title = Nuotoliniai eksperimentai
+support-remote-experiments-name = Pavadinimas
+support-remote-experiments-branch = Eksperimentų skyrius
+support-remote-experiments-see-about-studies = Paskaitykite <a data-l10n-name="support-about-studies-link">about:studies</a> norėdami gauti daugiau informacijos, įskaitant kaip išjungti atskirus eksperimentus, arba kaip neleisti „{ -brand-short-name }“ vykdyti tokio tipo eksperimentų ateityje.
+support-remote-features-title = Nuotolinės funkcijos
+support-remote-features-name = Pavadinimas
+support-remote-features-status = Būsena

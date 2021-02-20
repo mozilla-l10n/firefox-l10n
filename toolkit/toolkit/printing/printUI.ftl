@@ -41,10 +41,10 @@ printui-scale-pcent = Mastelis
 printui-two-sided-printing = Dvipusis spausdinimas
 printui-duplex-checkbox = Spausdinti ant abiejų pusių
 printui-two-sided-printing-off = Išjungta
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Paversti ant šoninio krašto
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Paversti ant viršutinio krašto
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Paversti ant ilgojo krašto
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Paversti ant trumpojo krašto
 # Section title for miscellaneous print options
 printui-options = Nuostatos
 printui-headers-footers-checkbox = Spausdinti antraštes ir poraštes
@@ -102,6 +102,7 @@ printui-paper-tabloid = Bulvarinis
 
 printui-error-invalid-scale = Mastelis turi būti skaičius tarp 10 ir 200.
 printui-error-invalid-margin = Įveskite tinkamą paraštę pasirinktam popieriaus dydžiui.
+printui-error-invalid-copies = Kopijos turi būti skaičius tarp 1 ir 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervalas turi būti skaičius tarp 1 ir { $numPages }.
