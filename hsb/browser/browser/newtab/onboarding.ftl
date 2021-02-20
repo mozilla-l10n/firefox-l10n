@@ -166,6 +166,10 @@ onboarding-multistage-welcome-subtitle = Spěšny, wěsty a priwatny wobhladowak
 onboarding-multistage-welcome-primary-button-label = Konfigurowanje započeć
 onboarding-multistage-welcome-secondary-button-label = Přizjewić
 onboarding-multistage-welcome-secondary-button-text = Maće konto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name } jako <span data-l10n-name="zap">standard</span> postajić
+onboarding-multistage-set-default-subtitle = Spěšnosć, wěstota a priwatnosć kóždy raz, hdyž přehladujeće.
 onboarding-multistage-set-default-primary-button-label = K standardej činić
 onboarding-multistage-set-default-secondary-button-label = Nic nětko
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
