@@ -380,15 +380,11 @@ addon-detail-private-browsing-disallow = Man Tiya' Q'ij
 addon-badge-recommended2 =
     .title = { -brand-product-name } xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' rub'eyal qasamaj
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Re k'amal xnuk' kuma runuk'unela' { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Xnik'öx rub'itz'ib' re k'amal re' ruma jikomal
-    .aria-label = { addon-badge-verified.title }
-addon-badge-line2 =
-    .title = Re re' jun nab'ey k'amal nuk'un kuma ri runuk'unela' { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = K'amal b'anon ruma Mozilla. Rojqan retal jikomal chuqa' rub'eyal nisamäj
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Re k'amal re' xnik'öx richin nib'anatäj ri rub'eyal qajikomal chuqa' rub'eyal samaj.
     .aria-label = { addon-badge-verified2.title }
