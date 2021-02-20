@@ -176,6 +176,7 @@ language-name-st = სესოტო, სამხრეთი
 language-name-su = სუნდანური
 language-name-sv = შვედური
 language-name-sw = სუაჰილი
+language-name-szl = სილეზიური
 language-name-ta = ტამილური
 language-name-te = ტელუგუ
 language-name-tg = ტაჯიკური

@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = საცდელი შესა
 experimental-features-http3 =
     .label = HTTP/3-ოქმი
 experimental-features-http3-description = საცდელი მხარდაჭერა HTTP/3-ოქმის.
+# Search during IME
+experimental-features-ime-search =
+    .label = მისამართის ზოლი: შედეგების ჩვენება IME კომპოზიციის დროს
