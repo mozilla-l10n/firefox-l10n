@@ -195,6 +195,7 @@ support-third-party-modules-thread = Tzijonem
 support-third-party-modules-base = Rochochib'al imagebase
 support-third-party-modules-uptime = Q'ijul Rusamaj Tajinïk (ms)
 support-third-party-modules-duration = Ruramaj Samajinïk (ms)
+support-third-party-modules-status = B'anikil
 support-third-party-modules-empty = Man xesamajiïx ta kiperaj aj rox winäq
 support-third-party-modules-no-value = (Majun rajil)
 support-third-party-modules-button-open =
@@ -399,3 +400,6 @@ support-printing-clear-settings-button = Tiyuj kinuk'ulem yakon taq tz'ajb'anïk
 support-printing-modified-settings = Kinuk'ulem jalon taq tz'ajb'anïk
 support-printing-prefs-name = B'i'aj
 support-printing-prefs-value = Retal
+
+## Normandy sections
+
