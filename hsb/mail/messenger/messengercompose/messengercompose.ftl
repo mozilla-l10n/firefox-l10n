@@ -97,6 +97,10 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Wobłuk přiwěškow pokazać ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Wobłuk přiwěškow schować ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Jako přiwěšk přidać
@@ -114,6 +118,14 @@ drop-file-label-inline =
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Na spočatk přesunyć
+move-attachment-left-panel-button =
+    .label = Nalěwo přesunyć
+move-attachment-right-panel-button =
+    .label = Naprawo přesunyć
+move-attachment-last-panel-button =
+    .label = Na kónc přesunyć
 button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwitowanku za tutu powěsć požadać

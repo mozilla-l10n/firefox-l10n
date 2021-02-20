@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } je darmotna softwara wote
 folder-pane-toolbar =
     .toolbarname = Symbolowa lajsta rjadowakoweho wobłuka
     .accesskey = r
+folder-pane-toolbar-options-button =
+    .tooltiptext = Nastajenja wobłuka rjadowaka
 folder-pane-header-label = Rjadowaki
 
 ## Folder Toolbar Header Popup
