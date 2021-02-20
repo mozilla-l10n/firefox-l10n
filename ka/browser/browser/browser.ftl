@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = გაშვებულია
 browser-tab-audio-muted = დადუმებულია
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ᲒᲐᲨᲕᲔᲑᲣᲚᲘ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ᲓᲐᲓᲣᲛᲔᲑᲣᲚᲘ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ᲗᲕᲘᲗᲒᲐᲨᲕᲔᲑᲐ ᲨᲔᲘᲖᲦᲣᲓᲐ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ᲔᲙᲠᲐᲜᲘ-ᲔᲙᲠᲐᲜᲨᲘ
 
 ## Bookmarks toolbar items
 
@@ -525,6 +533,10 @@ bookmarks-show-all-bookmarks =
     .label = ყველა სანიშნის ჩვენება
 bookmarks-recent-bookmarks =
     .value = ბოლოს ჩანიშნული
+bookmarks-manage-bookmarks =
+    .label = სანიშნების მართვა
+bookmarks-recent-bookmarks-panel =
+    .value = ბოლოს ჩანიშნული
 bookmarks-toolbar-chevron =
     .tooltiptext = სხვა სანიშნების გამოჩენაც
 bookmarks-sidebar-content =
@@ -553,6 +565,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] სანიშნების ხელსაწყოთა ზოლის დამალვა
            *[other] სანიშნების ხელსაწყოთა ზოლის ჩვენება
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] სანიშნების ზოლის დამალვა
+           *[other] სანიშნების ზოლის გამოჩენა
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -578,6 +596,9 @@ bookmarks-toolbar-placeholder =
     .title = სანიშნების ზოლის ხელსაწყოები
 bookmarks-toolbar-placeholder-button =
     .label = სანიშნების ზოლის ხელსაწყოები
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = მიმდინარე ჩანართის ჩანიშვნა
 
 ## Library Panel items
 

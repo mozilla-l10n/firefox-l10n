@@ -316,3 +316,7 @@ about-logins-import-dialog-error-no-logins-imported = ანგარიშე�
 about-logins-import-dialog-error-learn-more = ვრცლად
 about-logins-import-dialog-error-try-again = სცადეთ ხელახლა…
 about-logins-import-dialog-error-cancel = გაუქმება
+
+## Logins import report page
+
+about-logins-import-report-page-title = საერთო შეჯამების გადმოტანა
