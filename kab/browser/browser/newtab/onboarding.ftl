@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Ɣur-k yakan amiḍan?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Kcem
 onboarding-start-browsing-button-label = Bdu tunigin
-onboarding-not-now-button-label = Mačči tura
 onboarding-cards-dismiss =
     .title = Kkes
     .aria-label = Kkes
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Rmes-d alɣu ticki tilɣa-ik tudmawanin banent
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Sefrek awalen uffiren i yettwaḍemnen u ara yili yid-k yal amkan.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Ammesten mgal aḍfar
+onboarding-tracking-protection-text2 = { -brand-short-name } yessewḥal ismal web seg uḍfaṛ deg tunigin-ik, ayen yessiwwiren adellel yettaɛraḍen ad k-yeḍfeṛ deg Web.
+onboarding-tracking-protection-button2 = Amek iteddu
+onboarding-data-sync-title = Awi iɣewwaṛen-ik yid-k
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Mtawi ticraḍ-ik n yisebtar, awalen-ik uffiren, d wugar, s kra wanida i tesqedceḍ { -brand-product-name }.
+onboarding-data-sync-button2 = Qqen ɣer { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Ḍfer s lqerban tarewla n yisefka
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } yessenqad ma yella tansa-ik imayl tella deg trewla n yisefka yettwasnen daɣen ad k-id-yelɣu ticki tella deg trewla-nniḍen tamaynut n yisefka.
+onboarding-firefox-monitor-button = jerred akken ak-id-awḍen ilɣa
+onboarding-browse-privately-title = Inig s wudem uslig
+onboarding-browse-privately-text = Tunigin tusligt ad tesfeḍ anadi-ik d umazray n tunigin akken ad t-teǧǧ d abaḍni seg wid ara yesqedcen aselkim-ik.
+onboarding-browse-privately-button = Ldi asfaylu n tunigin tusligt
+onboarding-firefox-send-title = Ḍmen tabaḍnit n yifuyla-inek ittwabḍan
+onboarding-firefox-send-text2 = Sali ifuyla-ik ɣer { -send-brand-name } akken ad ten-tebḍuḍ s usettengel s ṭṭerf ɣer ṭṭerf s useɣwen ara yemmten s wudem awurman.
+onboarding-firefox-send-button = Ɛreḍ { -send-brand-name }
+onboarding-mobile-phone-title = Awi-d { -brand-product-name } ar tiliɣri-inek
+onboarding-mobile-phone-text = Sader { -brand-product-name } i iOS neɣ Android sakin mtawi isefka-ik gar yibenkan.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Sali-d iminig aziraz
+onboarding-send-tabs-title = Azen i yiman-ik accaren-ik
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Bḍu isebtar s wudem fessusen gar yibenkan-ik war ma tneɣleḍ iseɣwan neɣ ad teffɣeḍ seg yiminig.
+onboarding-send-tabs-button = Bdu aseqdec n Send Tabs
+onboarding-pocket-anywhere-title = Ɣer daɣe sel, s kra wanida telliḍ.
+onboarding-pocket-anywhere-text2 = Sekles igburen-ik inurifen s war tuqqna s usnas { -pocket-brand-name } i tɣuri, awali neɣ timesliwt melmi i tebɣiḍ.
+onboarding-pocket-anywhere-button = Ɛreḍ { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Rnu daɣen sekles awalen uffiren iǧehden
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }irennu awalen uffiren s wudem fessusen daɣen iseklas-iten meṛṛa deg yiwen n umḍiq.
+onboarding-lockwise-strong-passwords-button = Sefrek inekcumen-ik
+onboarding-facebook-container-title = Err talast i Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } ad yeḥrez amaɣnu-ik yeɛzel ɣef yismal-nniḍen. Ihi ad yuɣal yewɛeṛ i Facebook akken ad ak-d-yazen adellel i ak-ulmen.
+onboarding-facebook-container-button = Rnu asiɣzef
+onboarding-import-browser-settings-title = Kter ticraḍ-ik n yisebtar, awalen-ik uffiren, d wayen-nniḍen
+onboarding-import-browser-settings-text = Err-d s wudem fessusen ismal-ik akked iɣewwaren-ik seg Chrome daɣen bdu tunigin tura kan.
+onboarding-import-browser-settings-button = Kter-d isefka si Chrome
+onboarding-personal-data-promise-title = D uslig s ufeṣṣel
+onboarding-personal-data-promise-text = { -brand-product-name } isesfar isefka-ik s uqadeṛ imi yettawi drus seg-sen,immestan-iten, daɣen isegzay-d amek iten-yesseqdac.
+onboarding-personal-data-promise-button = Ɣer lweɛd-nneɣ
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Igerrez, tesεiḍ { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Tura ad k-id-nmudd <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Rnu asiɣzef
+return-to-amo-get-started-button = Bdu s { -brand-short-name }
+onboarding-not-now-button-label = Mačči tura
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Igerrez, tesεiḍ { -brand-short-name }
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = D iminig arurad, aɣelsan, uslig i te�
 onboarding-multistage-welcome-primary-button-label = Bdu asebded
 onboarding-multistage-welcome-secondary-button-label = Kcem
 onboarding-multistage-welcome-secondary-button-text = Ɣur-k·m amiḍan?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Eg { -brand-short-name }-inek <span data-l10n-name="zap">amezwer</span>
+onboarding-multistage-set-default-subtitle = D arurad, d aɣellsan yerna iḥerrez tabaḍnit yal mi ara tinigeḍ.
+onboarding-multistage-set-default-primary-button-label = Eg amezwer
+onboarding-multistage-set-default-secondary-button-label = Mačči tura
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Kter awalen-ik·im uffiren, <br/>ticraḍ n yisebtar d <span data-l10n-name="zap">wugar</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Seqdec arwes s yiniten i tqeffalin,
         i wumuɣen d yisfuyla.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Ammesten mgal aḍfar
-onboarding-tracking-protection-text2 = { -brand-short-name } yessewḥal ismal web seg uḍfaṛ deg tunigin-ik, ayen yessiwwiren adellel yettaɛraḍen ad k-yeḍfeṛ deg Web.
-onboarding-tracking-protection-button2 = Amek iteddu
-onboarding-data-sync-title = Awi iɣewwaṛen-ik yid-k
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Mtawi ticraḍ-ik n yisebtar, awalen-ik uffiren, d wugar, s kra wanida i tesqedceḍ { -brand-product-name }.
-onboarding-data-sync-button2 = Qqen ɣer { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Ḍfer s lqerban tarewla n yisefka
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } yessenqad ma yella tansa-ik imayl tella deg trewla n yisefka yettwasnen daɣen ad k-id-yelɣu ticki tella deg trewla-nniḍen tamaynut n yisefka.
-onboarding-firefox-monitor-button = jerred akken ak-id-awḍen ilɣa
-onboarding-browse-privately-title = Inig s wudem uslig
-onboarding-browse-privately-text = Tunigin tusligt ad tesfeḍ anadi-ik d umazray n tunigin akken ad t-teǧǧ d abaḍni seg wid ara yesqedcen aselkim-ik.
-onboarding-browse-privately-button = Ldi asfaylu n tunigin tusligt
-onboarding-firefox-send-title = Ḍmen tabaḍnit n yifuyla-inek ittwabḍan
-onboarding-firefox-send-text2 = Sali ifuyla-ik ɣer { -send-brand-name } akken ad ten-tebḍuḍ s usettengel s ṭṭerf ɣer ṭṭerf s useɣwen ara yemmten s wudem awurman.
-onboarding-firefox-send-button = Ɛreḍ { -send-brand-name }
-onboarding-mobile-phone-title = Awi-d { -brand-product-name } ar tiliɣri-inek
-onboarding-mobile-phone-text = Sader { -brand-product-name } i iOS neɣ Android sakin mtawi isefka-ik gar yibenkan.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Sali-d iminig aziraz
-onboarding-send-tabs-title = Azen i yiman-ik accaren-ik
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Bḍu isebtar s wudem fessusen gar yibenkan-ik war ma tneɣleḍ iseɣwan neɣ ad teffɣeḍ seg yiminig.
-onboarding-send-tabs-button = Bdu aseqdec n Send Tabs
-onboarding-pocket-anywhere-title = Ɣer daɣe sel, s kra wanida telliḍ.
-onboarding-pocket-anywhere-text2 = Sekles igburen-ik inurifen s war tuqqna s usnas { -pocket-brand-name } i tɣuri, awali neɣ timesliwt melmi i tebɣiḍ.
-onboarding-pocket-anywhere-button = Ɛreḍ { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Rnu daɣen sekles awalen uffiren iǧehden
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name }irennu awalen uffiren s wudem fessusen daɣen iseklas-iten meṛṛa deg yiwen n umḍiq.
-onboarding-lockwise-strong-passwords-button = Sefrek inekcumen-ik
-onboarding-facebook-container-title = Err talast i Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } ad yeḥrez amaɣnu-ik yeɛzel ɣef yismal-nniḍen. Ihi ad yuɣal yewɛeṛ i Facebook akken ad ak-d-yazen adellel i ak-ulmen.
-onboarding-facebook-container-button = Rnu asiɣzef
-onboarding-import-browser-settings-title = Kter ticraḍ-ik n yisebtar, awalen-ik uffiren, d wayen-nniḍen
-onboarding-import-browser-settings-text = Err-d s wudem fessusen ismal-ik akked iɣewwaren-ik seg Chrome daɣen bdu tunigin tura kan.
-onboarding-import-browser-settings-button = Kter-d isefka si Chrome
-onboarding-personal-data-promise-title = D uslig s ufeṣṣel
-onboarding-personal-data-promise-text = { -brand-product-name } isesfar isefka-ik s uqadeṛ imi yettawi drus seg-sen,immestan-iten, daɣen isegzay-d amek iten-yesseqdac.
-onboarding-personal-data-promise-button = Ɣer lweɛd-nneɣ
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Igerrez, tesεiḍ { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Tura ad k-id-nmudd <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Rnu asiɣzef
-return-to-amo-get-started-button = Bdu s { -brand-short-name }
