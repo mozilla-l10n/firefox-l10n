@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = La tô riservatece e je impuartante. C
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] Dal/i { $date } fin cumò, { -brand-short-name } al à blocât plui di <b>{ $blockedCount }</b> spie (tracker)!
        *[other] Dal/i { $date } fin cumò, { -brand-short-name } al à blocât plui di <b>{ $blockedCount }</b> spiis (trackers)!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] Dal/i { DATETIME($date, month: "long", year: "numeric") } fin cumò, { -brand-short-name } al à blocât plui di <b>{ $blockedCount }</b> spie (tracker)!
@@ -243,6 +246,10 @@ cfr-whatsnew-pip-fullscreen-header = Puarte il picture-in-picture a plen visôr
 cfr-whatsnew-pip-fullscreen-body = Cuant che tu fasis vignî fûr un video suntun barcon flotant, tu puedis fâ dopli clic su chel barcon par fâlu lâ a plen visôr.
 cfr-whatsnew-pip-fullscreen-icon-alt = Icone dal picture-in-picture
 
+## Protections Dashboard message
+
+
+## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Protezions a voglade
@@ -298,6 +305,8 @@ cfr-whatsnew-supercookies-body = I sîts web a puedin di scuindon tacâ al tô n
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Gjestion dai segnelibris miorade
+cfr-whatsnew-bookmarking-body = Al è plui facil tignî sot man i tiei sîts preferîts. Cumò { -brand-short-name } si vise la posizion preferide pai segnelibris salvâts, in maniere predefinide al mostre la sbare dai segnelibris cuant che tu vierzis une gnove schede e ti furnìs un acès sempliç ai altris segnelibris a mieç di une cartele te sbare dai struments.
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Protezion integrâl dai cookies inter-sît che ti spiin
