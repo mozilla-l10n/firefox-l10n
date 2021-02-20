@@ -419,6 +419,7 @@ support-printing-prefs-value = Hódnota
 support-remote-experiments-title = Zdalene eksperimenty
 support-remote-experiments-name = Mjeno
 support-remote-experiments-branch = Hałza eksperimenta
+support-remote-experiments-see-about-studies = Hlejće <a data-l10n-name="support-about-studies-link">about:studies</a> za dalše informacije, inkluziwnje kak móžeće indiwiduelne eksperimenty znjemóžnić abo kak móžeće { -brand-short-name } při tym haćić, tutón typ eksperimenta w přichodźe wuwjesć.
 support-remote-features-title = Zdalene funkcije
 support-remote-features-name = Mjeno
 support-remote-features-status = Status
