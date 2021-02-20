@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Jau turite paskyrą?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Prisijungti
 onboarding-start-browsing-button-label = Pradėti naršymą
-onboarding-not-now-button-label = Ne dabar
 onboarding-cards-dismiss =
     .title = Paslėpti
     .aria-label = Paslėpti
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Gaukite pranešimą, kai jūsų asmeniniai duo
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Tvarkykite saugius ir patogiai pasiekiamus slaptažodžius.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Apsauga nuo stebėjimo
+onboarding-tracking-protection-text2 = „{ -brand-short-name }“ padeda sustabdyti svetaines nuo jūsų stebėjimo internete, taip apsunkinant jus sekančių reklamų veikimą naršant.
+onboarding-tracking-protection-button2 = Kaip tai veikia
+onboarding-data-sync-title = Pasiimkite savo nuostatas kartu
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sinchronizuokite adresyną, slaptažodžius ir daugiau visur, kur naudojate „{ -brand-product-name }“.
+onboarding-data-sync-button2 = Prisijungti prie „{ -sync-brand-short-name }“
+onboarding-firefox-monitor-title = Būkite įspėti apie duomenų pažeidimus
+onboarding-firefox-monitor-text2 = „{ -monitor-brand-name }“ stebi, ar jūsų el. paštas pasirodo tarp žinomų nutekėjusių duomenų ir apie tai jums praneša.
+onboarding-firefox-monitor-button = Gauti pranešimus
+onboarding-browse-privately-title = Naršykite privačiai
+onboarding-browse-privately-text = Privatuiss naršymas išvalo jūsų paieškos ir naršymo žurnalą, kad jis nebūti matomas kitiems, besinaudojantiems šiuo kompiuteriu.
+onboarding-browse-privately-button = Atverti privatųjį langą
+onboarding-firefox-send-title = Išlaikykite pasidalintų failų privatumą
+onboarding-firefox-send-text2 = Įkelkite savo failus į „{ -send-brand-name }“, norėdami jais pasidalinti užšifruojant ir suteikiant automatiškai susinaikinantį saitą.
+onboarding-firefox-send-button = Išbandykite „{ -send-brand-name }“
+onboarding-mobile-phone-title = Gaukite „{ -brand-product-name }“ savo telefonui
+onboarding-mobile-phone-text = Parsisiųskite „{ -brand-product-name }“ savo „iOS“ arba „Android“ įrenginiui ir sinchronizuokite duomenis.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Parsiųsti mobiliąją naršyklę
+onboarding-send-tabs-title = Siųskite sau korteles akimirksniu
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Paprastai dalinkitės tinklalapiais tarp savo įrenginių, taip išvengdami kopijavimo, ar išėjimo iš naršyklės.
+onboarding-send-tabs-button = Pradėti naudotis kortelių persiuntimu
+onboarding-pocket-anywhere-title = Skaityti ir klausyti bet kur
+onboarding-pocket-anywhere-text2 = Įrašykite savo mėgstamiausią interneto turinį įrenginyje, naudodamiesi „{ -pocket-brand-name }“ programa. Vėliau galėsite skaityti, klausyti, ar žiūrėti jums patogiu metu.
+onboarding-pocket-anywhere-button = Išbandyti „{ -pocket-brand-name }“
+onboarding-lockwise-strong-passwords-title = Susikurkite ir saugokite stiprius slaptažodžius
+onboarding-lockwise-strong-passwords-text = „{ -lockwise-brand-name }“ sukuria stiprius slaptažodžius ir saugo juos visus vienoje vietoje.
+onboarding-lockwise-strong-passwords-button = Tvarkykite savo prisijungimus
+onboarding-facebook-container-title = Nustatykite „Facebook“ ribas
+onboarding-facebook-container-text2 = „{ -facebook-container-brand-name }“ laiko jūsų „Facebook“ tapatybę atskirtą nuo viso kito, taip apsunkinant jų galimybę jums pritaikyti reklamas.
+onboarding-facebook-container-button = Pridėti priedą
+onboarding-import-browser-settings-title = Importuokite savo adresyną, slaptažodžius, ir dar daugiau
+onboarding-import-browser-settings-text = Nerkite pirmyn – lengvai perkelkite savo svetaines ir nuostatas iš „Chrome“.
+onboarding-import-browser-settings-button = Importuoti duomenis iš „Chrome“
+onboarding-personal-data-promise-title = Privatumas – numatytas
+onboarding-personal-data-promise-text = „{ -brand-product-name }“ gerbia jūsų duomenis. Jų renkama mažiau, jie apsaugomi, ir aiškiai nurodoma, kam jie naudojami.
+onboarding-personal-data-promise-button = Perskaitykite mūsų pažadą
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Puiku, jūs turite „{ -brand-short-name }“
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Dabar įdiekime jums <icon></icon><b>„{ $addon-name }“</b>.
+return-to-amo-extension-button = Įtraukti priedą
+return-to-amo-get-started-button = Pradėkite su „{ -brand-short-name }“
+onboarding-not-now-button-label = Ne dabar
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Puiku, jūs turite „{ -brand-short-name }“
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = Sparti, saugi, ir privati naršyklė, k
 onboarding-multistage-welcome-primary-button-label = Pradėti sąranką
 onboarding-multistage-welcome-secondary-button-label = Prisijunkite
 onboarding-multistage-welcome-secondary-button-text = Turite paskyrą?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Padarykite „{ -brand-short-name }“ jūsų <span data-l10n-name="zap">numatytąja</span>
+onboarding-multistage-set-default-subtitle = Greitis, saugumas, ir privatumas kiekvieno naršymo metu.
+onboarding-multistage-set-default-primary-button-label = Padaryti numatytąja
+onboarding-multistage-set-default-secondary-button-label = Ne dabar
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importuokite savo slaptažodžius, <br/>adresyną, ir <span data-l10n-name="zap">daugiau</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Naudoti įvairiaspalvę išvaizdą mygtukams,
         meniu elementams, ir langams.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Apsauga nuo stebėjimo
-onboarding-tracking-protection-text2 = „{ -brand-short-name }“ padeda sustabdyti svetaines nuo jūsų stebėjimo internete, taip apsunkinant jus sekančių reklamų veikimą naršant.
-onboarding-tracking-protection-button2 = Kaip tai veikia
-onboarding-data-sync-title = Pasiimkite savo nuostatas kartu
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Sinchronizuokite adresyną, slaptažodžius ir daugiau visur, kur naudojate „{ -brand-product-name }“.
-onboarding-data-sync-button2 = Prisijungti prie „{ -sync-brand-short-name }“
-onboarding-firefox-monitor-title = Būkite įspėti apie duomenų pažeidimus
-onboarding-firefox-monitor-text2 = „{ -monitor-brand-name }“ stebi, ar jūsų el. paštas pasirodo tarp žinomų nutekėjusių duomenų ir apie tai jums praneša.
-onboarding-firefox-monitor-button = Gauti pranešimus
-onboarding-browse-privately-title = Naršykite privačiai
-onboarding-browse-privately-text = Privatuiss naršymas išvalo jūsų paieškos ir naršymo žurnalą, kad jis nebūti matomas kitiems, besinaudojantiems šiuo kompiuteriu.
-onboarding-browse-privately-button = Atverti privatųjį langą
-onboarding-firefox-send-title = Išlaikykite pasidalintų failų privatumą
-onboarding-firefox-send-text2 = Įkelkite savo failus į „{ -send-brand-name }“, norėdami jais pasidalinti užšifruojant ir suteikiant automatiškai susinaikinantį saitą.
-onboarding-firefox-send-button = Išbandykite „{ -send-brand-name }“
-onboarding-mobile-phone-title = Gaukite „{ -brand-product-name }“ savo telefonui
-onboarding-mobile-phone-text = Parsisiųskite „{ -brand-product-name }“ savo „iOS“ arba „Android“ įrenginiui ir sinchronizuokite duomenis.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Parsiųsti mobiliąją naršyklę
-onboarding-send-tabs-title = Siųskite sau korteles akimirksniu
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Paprastai dalinkitės tinklalapiais tarp savo įrenginių, taip išvengdami kopijavimo, ar išėjimo iš naršyklės.
-onboarding-send-tabs-button = Pradėti naudotis kortelių persiuntimu
-onboarding-pocket-anywhere-title = Skaityti ir klausyti bet kur
-onboarding-pocket-anywhere-text2 = Įrašykite savo mėgstamiausią interneto turinį įrenginyje, naudodamiesi „{ -pocket-brand-name }“ programa. Vėliau galėsite skaityti, klausyti, ar žiūrėti jums patogiu metu.
-onboarding-pocket-anywhere-button = Išbandyti „{ -pocket-brand-name }“
-onboarding-lockwise-strong-passwords-title = Susikurkite ir saugokite stiprius slaptažodžius
-onboarding-lockwise-strong-passwords-text = „{ -lockwise-brand-name }“ sukuria stiprius slaptažodžius ir saugo juos visus vienoje vietoje.
-onboarding-lockwise-strong-passwords-button = Tvarkykite savo prisijungimus
-onboarding-facebook-container-title = Nustatykite „Facebook“ ribas
-onboarding-facebook-container-text2 = „{ -facebook-container-brand-name }“ laiko jūsų „Facebook“ tapatybę atskirtą nuo viso kito, taip apsunkinant jų galimybę jums pritaikyti reklamas.
-onboarding-facebook-container-button = Pridėti priedą
-onboarding-import-browser-settings-title = Importuokite savo adresyną, slaptažodžius, ir dar daugiau
-onboarding-import-browser-settings-text = Nerkite pirmyn – lengvai perkelkite savo svetaines ir nuostatas iš „Chrome“.
-onboarding-import-browser-settings-button = Importuoti duomenis iš „Chrome“
-onboarding-personal-data-promise-title = Privatumas – numatytas
-onboarding-personal-data-promise-text = „{ -brand-product-name }“ gerbia jūsų duomenis. Jų renkama mažiau, jie apsaugomi, ir aiškiai nurodoma, kam jie naudojami.
-onboarding-personal-data-promise-button = Perskaitykite mūsų pažadą
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Puiku, jūs turite „{ -brand-short-name }“
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Dabar įdiekime jums <icon></icon><b>„{ $addon-name }“</b>.
-return-to-amo-extension-button = Įtraukti priedą
-return-to-amo-get-started-button = Pradėkite su „{ -brand-short-name }“
