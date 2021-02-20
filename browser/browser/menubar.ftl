@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = ბოლოს დახურული ჩანართები
 menu-history-undo-window-menu =
     .label = ბოლოს დახურული ფანჯრები
+menu-history-reopen-all-tabs = ყველა ჩანართის ხელახლა გახსნა
+menu-history-reopen-all-windows = ყველა ფანჯრის ხელახლა გახსნა
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = კლავიატურის მალსახმობები
     .accesskey = კ
+menu-get-help =
+    .label = მხარდაჭერის მიღება
+    .accesskey = ხ
 menu-help-troubleshooting-info =
     .label = გაუმართაობის აღმოფხვრა
     .accesskey = ფ
