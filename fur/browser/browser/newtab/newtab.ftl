@@ -44,21 +44,54 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = URL valit necessari
 newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
+newtab-topsites-image-validation = No si è rivâts a cjariâ la imagjin. Prove cuntun URL diferent.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Anule
+newtab-topsites-delete-history-button = Elimine de cronologjie
+newtab-topsites-save-button = Salve
+newtab-topsites-preview-button = Anteprime
+newtab-topsites-add-button = Zonte
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = Eliminâ pardabon ogni istance di cheste pagjine de tô cronologjie?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = No si pues tornâ indaûr di cheste operazion.
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Sponsorizât
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Vierç menù
+    .aria-label = Vierç menù
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Gjave
+    .aria-label = Gjave
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Vierç menù
+    .aria-label = Vierç il menù contestuâl par { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Modifiche chest sît
+    .aria-label = Modifiche chest sît
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Modifiche
+newtab-menu-open-new-window = Vierç intun gnûf barcon
+newtab-menu-open-new-private-window = Vierç intun gnûf barcon privât
+newtab-menu-dismiss = Bandone
+newtab-menu-pin = Fisse
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
