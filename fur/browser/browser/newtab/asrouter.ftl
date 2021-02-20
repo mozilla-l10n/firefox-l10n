@@ -310,3 +310,4 @@ cfr-whatsnew-bookmarking-body = Al è plui facil tignî sot man i tiei sîts pre
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Protezion integrâl dai cookies inter-sît che ti spiin
+cfr-whatsnew-cross-site-tracking-body = Tu puedis sielzi une protezion miorade pai cookie che a spiin. { -brand-short-name } al pues isolâ lis tôs ativitâts e i tiei dâts al sît che tu stâts viodint cussì che lis informazions archiviadis tal navigadôr no vegnin condividudis tra i sîts web.
