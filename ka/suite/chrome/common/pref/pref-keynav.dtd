@@ -18,3 +18,7 @@
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "გაფრთხილება მაჩვენებლით გადაადგილების ჩართვამდე">
 <!ENTITY browseWithCaretWarn.accesskey "ფ">
+
+<!ENTITY modifiers.label "შემცვლელები">
+<!ENTITY acceleratorKey.label "სწრაფი ღილაკი:">
+<!ENTITY acceleratorKey.accesskey "წ">
