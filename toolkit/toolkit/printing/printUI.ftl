@@ -42,10 +42,10 @@ printui-scale-pcent = Skalować
 printui-two-sided-printing = Ćišćenje na woběmaj bokomaj
 printui-duplex-checkbox = Na woběmaj bokomaj šišćeć
 printui-two-sided-printing-off = Znjemóžnjeny
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Nabok kiwknyć
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Horje kiwknyć
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Na dołhej kromje kiwknyć
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Na krotkej kromje kiwknyć
 # Section title for miscellaneous print options
 printui-options = Nastajenja
 printui-headers-footers-checkbox = Hłowy a nohi ćišćeć
@@ -103,6 +103,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Skalowanje dyrbi ličba mjez 10 a 200 być.
 printui-error-invalid-margin = Prošu zapodajće płaćiwu kromu za wubranu wulkosć papjery.
+printui-error-invalid-copies = Kopije dyrbja ličba mjez 1 a 10000 być.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Wobłuk dyrbi ličba mjez 1 a { $numPages } być.
