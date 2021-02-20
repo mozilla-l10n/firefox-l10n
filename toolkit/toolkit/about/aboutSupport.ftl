@@ -195,6 +195,10 @@ support-third-party-modules-thread = ნაკადი
 support-third-party-modules-base = გამოსახულების კრებულთა მისამართი
 support-third-party-modules-uptime = პროცესის მუშაობის დრო (მწმ)
 support-third-party-modules-duration = ჩატვირთვის ხანგრძლივობა (მწმ)
+support-third-party-modules-status = მდგომარეობა
+support-third-party-modules-status-loaded = ჩატვირთული
+support-third-party-modules-status-blocked = შეზღუდული
+support-third-party-modules-status-redirected = გადამისამართებული
 support-third-party-modules-empty = გარეშე მოდულები არ ჩატვირთულა.
 support-third-party-modules-no-value = (მნიშვნელობის გარეშე)
 support-third-party-modules-button-open =
@@ -399,3 +403,9 @@ support-printing-clear-settings-button = ამობეჭდვის შე�
 support-printing-modified-settings = ამობეჭდვის შეცვლილი პარამეტრები
 support-printing-prefs-name = სახელი
 support-printing-prefs-value = მნიშვნელობა
+
+## Normandy sections
+
+support-remote-experiments-title = დაშორებული ცდები
+support-remote-experiments-name = სახელი
+support-remote-experiments-branch = ცდის განშტოება
