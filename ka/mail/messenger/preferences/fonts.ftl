@@ -4,21 +4,17 @@
 
 fonts-window-close =
     .key = w
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = ნაგულისხმევი ({ $name })
 fonts-label-default-unnamed =
     .label = ნაგულისხმევი
-
 fonts-encoding-dialog-title =
     .title = შრიფტები და კოდირებები
-
 fonts-language-legend =
     .value = შრიფტები:
     .accesskey = t
-
 fonts-proportional-label =
     .value = პროპორციული:
     .accesskey = P
@@ -89,45 +85,38 @@ font-language-group-tibetan =
 
 default-font-serif =
     .label = ნაჭდევებიანი
-
 default-font-sans-serif =
     .label = უნაჭდევო
-
 font-size-label =
     .value = ზომა:
     .accesskey = გ
-
+font-size-proportional-label =
+    .value = ზომა:
+    .accesskey = ო
 font-size-monospace-label =
     .value = ზომა:
     .accesskey = ი
-
 font-serif-label =
     .value = ნაჭდევებიანი:
     .accesskey = ნ
-
 font-sans-serif-label =
     .value = უნაჭდევო:
     .accesskey = უ
-
 font-monospace-label =
     .value = მონოსიგანის:
     .accesskey = m
-
 font-min-size-label =
     .value = შრიფტის უმცირესი ზომა:
     .accesskey = z
-
 min-size-none =
     .label = არა
 
 ## Fonts in message
 
 font-control-legend = შრიფტების მართვა
-
 use-document-fonts-checkbox =
     .label = წერილებში სხვა შრიფტების გამოყენების უფლება
     .accesskey = o
-
 use-fixed-width-plain-checkbox =
     .label = მონოსიგანის შრიფტებით სარგებლობა ტექსტური გზავნილებისთვის
     .accesskey = x
@@ -135,17 +124,13 @@ use-fixed-width-plain-checkbox =
 ## Language settings
 
 text-encoding-legend = ტექსტის კოდირება
-
 text-encoding-description = ტექსტის ნაგულისხმევი კოდირების მითითება, წერილების გაგზავნა/მიღებისთვის
-
 font-outgoing-email-label =
     .value = გამავალი ფოსტა:
     .accesskey = u
-
 font-incoming-email-label =
     .value = შემოსული ფოსტა:
     .accesskey = I
-
 default-font-reply-checkbox =
     .label = როცა შესაძლებელია, ტექსტის ნაგულისხმევი კოდირების გამოყენება პასუხისას
     .accesskey = პ

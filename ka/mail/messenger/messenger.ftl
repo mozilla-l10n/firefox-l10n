@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } თავისუფა�
 folder-pane-toolbar =
     .toolbarname = ხელსაწყოები საქაღალდის არეში
     .accesskey = ქ
+folder-pane-toolbar-options-button =
+    .tooltiptext = საქაღალდის არის პარამეტრები
 folder-pane-header-label = საქაღალდეები
 
 ## Folder Toolbar Header Popup
