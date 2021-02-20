@@ -92,16 +92,31 @@ newtab-menu-open-new-window = Vierç intun gnûf barcon
 newtab-menu-open-new-private-window = Vierç intun gnûf barcon privât
 newtab-menu-dismiss = Bandone
 newtab-menu-pin = Fisse
+newtab-menu-unpin = Mole
+newtab-menu-delete-history = Elimine de cronologjie
+newtab-menu-save-to-pocket = Salve su { -pocket-brand-name }
+newtab-menu-delete-pocket = Elimine di { -pocket-brand-name }
+newtab-menu-archive-pocket = Archivie in { -pocket-brand-name }
+newtab-menu-show-privacy-info = I nestris patrocinadôrs e la tô riservatece
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Fat
+newtab-privacy-modal-button-manage = Gjestìs lis impostazions dai contignûts sponsorizâts
+newtab-privacy-modal-header = La tô riservatece e je impuartante.
+newtab-privacy-modal-link = Scuvierç cemût che la riservatece e funzione te gnove schede
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Gjave segnelibri
+# Bookmark is a verb here.
+newtab-menu-bookmark = Segnelibri
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Copie colegament dal discjariament
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
