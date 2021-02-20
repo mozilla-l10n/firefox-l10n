@@ -33,6 +33,17 @@ newtab-search-box-input =
 newtab-topsites-add-search-engine-header = Zonte motôr di ricercje
 newtab-topsites-add-topsites-header = Gnûf sît principâl
 newtab-topsites-add-shortcut-header = Gnove scurte
+newtab-topsites-edit-topsites-header = Modifiche sît principâl
+newtab-topsites-edit-shortcut-header = Modifiche scurte
+newtab-topsites-title-label = Titul
+newtab-topsites-title-input =
+    .placeholder = Inserìs un titul
+newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Scrîf o tache un URL
+newtab-topsites-url-validation = URL valit necessari
+newtab-topsites-image-url-label = URL di imagjin personalizade
+newtab-topsites-use-image-link = Dopre une imagjin personalizade…
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
