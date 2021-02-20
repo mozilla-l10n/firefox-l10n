@@ -403,3 +403,9 @@ support-printing-clear-settings-button = Kayıtlı yazdırma ayarlarını temizl
 support-printing-modified-settings = Değiştirilmiş yazdırma ayarları
 support-printing-prefs-name = Ad
 support-printing-prefs-value = Değer
+
+## Normandy sections
+
+support-remote-experiments-name = Adı
+support-remote-features-name = Adı
+support-remote-features-status = Durum
