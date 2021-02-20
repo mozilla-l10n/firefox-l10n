@@ -29,3 +29,9 @@
 <!ENTITY prefetchTitle.label             "ბმულის წინასწარი ჩატვირთვა">
 <!ENTITY enablePrefetch.label            "უქმად ყოფნისას მიმდინარე ბმების ვებგვერდების წინასწარი ჩატვირთვა, რათა ისინი უფრო სწრაფად გაიხსნას">
 <!ENTITY enablePrefetch.accesskey        "P">
+
+<!ENTITY debugCache.label                "გამმართველი">
+<!ENTITY debugEnableMemCache.label       "მეხსიერების დროებითი საცავის ჩართვა">
+<!ENTITY debugEnableMemCache.accesskey   "ჩ">
+<!ENTITY debugEnableDiskCache.label      "დისკის დროებითი საცავის ჩართვა">
+<!ENTITY debugEnableDiskCache.accesskey  "დ">

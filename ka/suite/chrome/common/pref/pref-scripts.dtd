@@ -20,9 +20,13 @@
 <!ENTITY allowContextmenuDisable.label   "კონტექსტური მენიუს გამორთვა ან შეცვლა">
 <!ENTITY allowHideStatusBar.label        "მდგომარეობის ამსახველი ზოლის დამალვა">
 
-<!ENTITY enableDrmMedia.label            "ციფრული უფლებების მართვის (DRM) ჩართვა">
-<!ENTITY enableEmeForSuite.label         "მესამე მხარის შიგთავსის გამშიფრავი მოდულები">
-<!ENTITY enableEmeForSuite.accesskey     "გ">
+<!ENTITY debugging.label                  "JavaScript-გამმართველი">
+<!ENTITY debugEnableDump.label            "ჩაირთოს JavaScript dump() გამოტანა">
+<!ENTITY debugEnableDump.accesskey        "ჩ">
+<!ENTITY debugStrictJavascript.label      "გამოჩნდეს შეზღუდული JavaScript-გაფრთხილებები">
+<!ENTITY debugStrictJavascript.accesskey  "J">
+<!ENTITY debugConsoleJavascript.label     "გამოჩნდეს chrome JavaScript შეცდომები და გაფრთხილებები">
+<!ENTITY debugConsoleJavascript.accesskey "c">
 
 <!ENTITY enablePlugins.label             "მოდულების ჩართვა">
 <!ENTITY enablePluginForSuite.label      "სრული კრებული">
