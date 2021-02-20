@@ -240,6 +240,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = ეკრანი-ეკრანში 
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = დაცვისთვის თვალის შევლება
 cfr-whatsnew-protections-body = დაცვის მაჩვენებლების გვერდი შეიცავს შემაჯამებელ ცნობებს ანგარიშების მიტაცებებსა და პაროლების მართვაზე. შეგიძლიათ თვალი ადევნოთ, რამდენი გაქვთ გამოსწორებული და იხილოთ, თქვენი რომელიმე პაროლი გამჟღავნებულ მონაცემებში ხომ არ აღმოჩენილა.
 cfr-whatsnew-protections-cta-link = დაცვის მაჩვენებლების ნახვა
@@ -294,3 +298,7 @@ cfr-whatsnew-supercookies-body = საიტებს შეუძლია შ
 
 cfr-whatsnew-bookmarking-header = გაუმჯობესებული სანიშნები
 cfr-whatsnew-bookmarking-body = საყვარელ საიტებზე თვალის მიდევნება გაადვილდა. { -brand-short-name } ახლა უკვე დაიხსომებს თქვენ მიერ შერჩეულ ადგილს სანიშნების შესანახად, ნაგულისხმევად გამოაჩენს სანიშნების ზოლს ახალ ჩანართებზე და მოგცემთ მარტივი წვდომის საშუალებას დანარჩენ სანიშნებთან, ხელსაწყოთა ზოლის საქაღალდიდან.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = ყოვლისმომცველი დაცვა საიტთაშორისი ფუნთუშებით თვალთვალისგან
