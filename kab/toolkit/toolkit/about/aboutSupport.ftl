@@ -403,3 +403,8 @@ support-printing-clear-settings-button = Sfeḍ iɣewwaren n usiggez yettuskelse
 support-printing-modified-settings = Iɣewwaren n usiggez yettusneflen
 support-printing-prefs-name = Isem
 support-printing-prefs-value = Azal
+
+## Normandy sections
+
+support-remote-features-name = Isem
+support-remote-features-status = Addad
