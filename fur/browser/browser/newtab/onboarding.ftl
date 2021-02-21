@@ -26,12 +26,37 @@ onboarding-button-label-get-started = Scomence
 ## Welcome page strings
 
 onboarding-welcome-header = Benvignûts su { -brand-short-name }
+onboarding-welcome-body = Tu âs il navigadôr. <br/>Cumò esplore ducj chei altris prodots de famee { -brand-product-name }.
+onboarding-welcome-learn-more = Scuvierç ducj i vantaçs.
+onboarding-welcome-modal-get-body = Tu âs il navigadôr. <br/>Cumò oten il massim di { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Protezion pe riservatece al massim nivel.
+onboarding-welcome-modal-privacy-body = Tu âs il navigadôr. Zontìn cumò plui protezion pe tô riservatece.
+onboarding-welcome-modal-family-learn-more = Plui informazions su la famee di prodots di { -brand-product-name }.
+onboarding-welcome-form-header = Scomence di chi
+onboarding-join-form-body = Inserìs la tô direzion e-mail par scomençâ.
+onboarding-join-form-email =
+    .placeholder = Inserìs e-mail
+onboarding-join-form-email-error = Necessarie e-mail valide
+onboarding-join-form-legal = Procedint tu acetis i <a data-l10n-name="terms">Tiermins dal servizi</a> e la <a data-l10n-name="privacy">Informative su la riservatece</a>.
+onboarding-join-form-continue = Continue
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Âstu za un account?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Jentre
+onboarding-start-browsing-button-label = Scomence a navigâ
+onboarding-cards-dismiss =
+    .title = Bandone
+    .aria-label = Bandone
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Scomencìn a esplorâ dut ce che tu puedis fâ.
+onboarding-fullpage-form-email =
+    .placeholder = La tô direzion e-mail…
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Puarte daûr cun te { -brand-product-name }
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
