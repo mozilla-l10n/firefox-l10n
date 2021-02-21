@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppAutoUpdate = چالاک کردن و ناچالاک کردنی نوێکردنەوەی خۆکاری داوانامە.
 policy-BlockAboutConfig = دەستگەیشتن بە پەڕەی about:config بلۆک بکە.
 policy-BlockAboutProfiles = دەستگەیشتن بە پەڕەی about:profiles بلۆک بکە.
 policy-BlockAboutSupport = دەستگەیشتن بە پەڕەی about:support بلۆک بکە.
@@ -19,9 +20,11 @@ policy-DisableAppUpdate = مەهێڵە وەگەڕخەر نوێبێتەوە.
 policy-DisableBuiltinPDFViewer = PDF.js بنەڕەت ناچالاک بکە، کە پیشاندەری بنەڕەتییە لە { -brand-short-name }.
 policy-DisableDeveloperTools = دەستگەیشتن بە توڵامرازی گەشەپێدەر بلۆک بکە.
 policy-DisablePrivateBrowsing = گەڕانی تایبەت ناچالاک بکە.
+policy-FirefoxHome = ماڵەوەی فایەرفۆکس ڕێکبخە.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-NewTabPage = چالاک وناچالاک کردنی پەڕەی بازدەری نوێ.
