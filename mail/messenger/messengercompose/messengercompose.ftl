@@ -93,15 +93,33 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Zobraziť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Skryť panel príloh ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 drop-file-label-attachment =
     { $count ->
         [one] Pridať ako prílohu
         [few] Pridať ako prílohy
        *[other] Pridať ako prílohy
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Pripojiť ako vloženú prílohu
+        [few] Pripojiť ako vložené prílohy
+       *[other] Pripojiť ako vložené prílohy
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Presunúť na začiatok
+move-attachment-left-panel-button =
+    .label = Presunúť doľava
+move-attachment-right-panel-button =
+    .label = Presunúť doprava
+move-attachment-last-panel-button =
+    .label = Presunúť na koniec
 button-return-receipt =
     .label = Potvrdenka
     .tooltiptext = Požiadať o potvrdenie o prijatí tejto správy
