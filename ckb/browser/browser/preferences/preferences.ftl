@@ -614,6 +614,14 @@ sync-engine-addresses =
     .label = ناونیشانەکان
     .tooltiptext = نانونیشانی پۆست کە پاشەکەوتت کردووە (تەنها ڕوومێز)
     .accesskey = e
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] هەڵبژاردەکان
+           *[other] هەڵبژاردنەکان
+        }
+    .tooltiptext = گشتی، تایبەتیی لەگەڵ ڕێکخستنی پاراستن کە گۆڕیوتە
+    .accesskey = ه
 
 ## The device name controls.
 
@@ -765,6 +773,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = بازدەر بکەرەوە
     .accesskey = O
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = قەدبڕەکان
+    .accesskey = ق
+addressbar-locbar-topsites-option =
+    .label = ماڵپەڕە بەرزەکان
+    .accesskey = م
+addressbar-locbar-engines-option =
+    .label = بزوێنەری گەڕان
+    .accesskey = ب
 addressbar-suggestions-settings = هەڵبژاردنەکان بگۆڕە بۆ پێشنیارەکانی بزوێنەری گەڕان
 
 ## Privacy Section - Content Blocking
@@ -896,6 +914,17 @@ certs-select-ask-option =
 space-alert-learn-more-button =
     .label = زیاتر بزانە
     .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] هەڵبژاردەکان بکەرەوە
+           *[other] هەڵبژاردنەکان بکەرەوە
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ه
+           *[other] ه
+        }
 space-alert-under-5gb-ok-button =
     .label = باشە، تێگەشتم
     .accesskey = K

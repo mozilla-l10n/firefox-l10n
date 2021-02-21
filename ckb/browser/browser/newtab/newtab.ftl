@@ -25,7 +25,9 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = بزوێنەری گەڕان زیادبکە
 newtab-topsites-add-topsites-header = ماڵپەڕی سەرەکی نوێ
+newtab-topsites-add-shortcut-header = قەدبڕی نوێ
 newtab-topsites-edit-topsites-header = ماڵپەڕی سەرەکی دەستکاریبکە
+newtab-topsites-edit-shortcut-header = قەدبڕ دەستکاریبکە
 newtab-topsites-title-label = سەردێڕ
 newtab-topsites-title-input =
     .placeholder = سەردێڕێک بنووسە

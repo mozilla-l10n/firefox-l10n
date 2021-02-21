@@ -17,6 +17,10 @@ appmenuitem-new-window =
     .label = پەنجەرەی نوێ
 appmenuitem-new-private-window =
     .label = پەنجەرەی تایبەتی نوێ
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = ڕێکخستنەکان
 
 ## Zoom and Fullscreen Controls
 
@@ -46,6 +50,9 @@ whatsnew-panel-footer-checkbox =
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
+
+
+## History panel
 
 
 ## Help panel
@@ -95,4 +102,7 @@ appmenu-help-not-deceptive =
     .accesskey = ن
 
 ##
+
+
+## More Tools
 
