@@ -80,6 +80,11 @@ onboarding-benefit-products-text = Fâs lis robis cuntune famee di struments che
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Dut ce che o fasìn al onore la nestre “Promesse sui dâts personâi”: tire dongje mancul dâts, tegniju al sigûr, nissun segret.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Puarte i tiei segnelibris, lis passwords, la cronologjie e altri dapardut là che tu dopris { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Ven visât cuant che lis tôs informazions personâls a vegnin cjapadis dentri di une compromission di dâts.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gjestìs lis passwords protetis e portatilis.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -88,6 +93,7 @@ onboarding-benefit-sync-title = { -sync-brand-short-name }
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-tracking-protection-title2 = Protezion dal jessi spiâts (tracking)
 
 ## Message strings belonging to the Return to AMO flow
 
