@@ -49,6 +49,10 @@ ctrl-cmd-shift-pretty-prefix =
         [macos] ⇧ ⌘{ " " }
        *[other] Ctrl+Shift+
     }
+menuitem-attach-files =
+    .label = Fil(er) …
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
