@@ -414,6 +414,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = ماڵپەڕە سەرەکییەکان
 home-prefs-topsites-description = ئەو ماڵپەڕانەی زۆرترین سەردانت کردوون
+home-prefs-topsites-by-option-sponsored =
+    .label = بەرزترین ماڵپەڕە پاڵپشتیکراوەکان
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -481,7 +483,9 @@ search-show-suggestions-above-history-option =
     .label = پێشنیارەکانی گەڕان پیشان بدە لە مێژووی گەڕانی وێبدا لە شریتی ناونیشانەکان.
 search-show-suggestions-private-windows =
     .label = پێشنیارەکانی گەڕان لە پەنجەرەی تایبەت پیشان بدە
+suggestions-addressbar-settings-generic = هەڵبژاردنەکان بگۆڕە بۆ پێشنیارەکانی تووڵی ناونیشان
 search-one-click-header = بزوێنەری گەڕان بە یەک کرتە
+search-one-click-header2 = قەدبڕەکانی گەڕان
 search-one-click-desc = بزوێنەرێکی تری گەڕان بەکاربێنە دەربکەوێت کاتێک لە شریتی گەڕانی یان شریتی ناونیشان دەست دەکەی بە نووسین.
 search-choose-engine-column =
     .label = بزوێنەری گەڕان
@@ -658,6 +662,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = بەکارهێنانی وشەی تێپەڕی سەرەکی
     .accesskey = U
+forms-primary-pw-use =
+    .label = بەکارهێنانی وشەی تێپەڕی سەرەکی
+    .accesskey = ت
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -665,6 +672,10 @@ forms-master-pw-change =
     .label = وشەی تێپەڕبوونی سەرەکی بگۆڕە...
     .accesskey = M
 forms-master-pw-fips-title = تۆ ئێستا لە دۆخی FIPS دایت. FIPS پێویستە وشەی تێپەڕی سەرەکی بەتاڵ نەبێت.
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = پێشتر ناوی وشەی تێپەڕبوونی سەرەکی بوو
 forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سەرکەوتوو نەبوو
 
 ## OS Authentication dialog
@@ -674,6 +685,11 @@ forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سە
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = وشەی تێپەڕبوونی سەرەکی درووست بکە
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = درووستکردنی وشەی تێپەڕی سەرەکی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
