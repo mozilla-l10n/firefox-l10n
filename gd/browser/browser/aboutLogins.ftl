@@ -1,10 +1,6 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Clàraidhean a-steach ⁊ faclan-faire
@@ -17,12 +13,9 @@ login-app-promo-android =
     .alt = Faigh e air Google Play
 login-app-promo-apple =
     .alt = Luchdaich a-nuas e on App Store
-
 login-filter =
     .placeholder = Lorg sna clàraidhean a-steach
-
 create-login-button = Cruthaich clàradh a-steach ùr
-
 fxaccounts-sign-in-text = Faigh cothrom air na faclan-faire agad air uidheaman eile
 fxaccounts-sign-in-button = Clàraich a-steach gu { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -34,6 +27,9 @@ menu =
     .title = Fosgail an clàr-taice
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Ion-phortaich o bhrabhsair eile…
+about-logins-menu-menuitem-import-from-a-file = Ion-phortaich o fhaidhle…
+about-logins-menu-menuitem-export-logins = Às-phortaich na clàraidhean a-stach…
+about-logins-menu-menuitem-remove-all-logins = Thoir air falbh a h-uile clàradh a-steach…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Roghainnean
@@ -57,6 +53,7 @@ login-list-count =
 login-list-sort-label-text = Seòrsaich a-rèir:
 login-list-name-option = Ainm (A-Z)
 login-list-name-reverse-option = Ainm (Z-A)
+about-logins-login-list-alerts-option = Caismeachdan
 login-list-last-changed-option = Atharrachadh mu dheireadh
 login-list-last-used-option = Cleachdadh mu dheireadh
 login-list-intro-title = Cha deach clàradh a-steach a lorg
@@ -68,11 +65,13 @@ login-list-item-subtitle-new-login = Cuir a-steach an t-ainm is facal-faire agad
 login-list-item-subtitle-missing-username = (gun ainm-cleachdaiche)
 about-logins-list-item-breach-icon =
     .title = Làrach-lìn air an deach briseadh a-steach
+about-logins-list-item-vulnerable-password-icon =
+    .title = Facal-faire lag
 
 ## Introduction screen
 
 login-intro-heading = A’ lorg nan clàraidhean a-steach a shàbhail thu? Suidhich { -sync-brand-short-name }.
-
+about-logins-login-intro-heading-logged-out = A’ lorg nan clàraidhean a-steach a shàbhail thu? Suidhich { -sync-brand-short-name } no ion-phortaich iad.
 about-logins-login-intro-heading-logged-in = Cha deach clàradh a-steach sioncronaichte a lorg.
 login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am { -brand-product-name } air uidheam eile, seo mar a gheibh thu greim orra an-seo:
 login-intro-instruction-fxa = Cruthaich { -fxaccount-brand-name } no clàraich a-steach dha air an uidheam far an deach na clàraidhean a-steach agad a shàbhaladh
@@ -113,15 +112,13 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = an clàradh a-steach a shàbhail thu a dheasachadh
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = am facal-faire a shàbhail thu a nochdadh
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = lethbhreac a dhèanamh dhen fhacal-fhaire a shàbhail thu
 
@@ -158,11 +155,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Sguir dheth
 confirmation-dialog-dismiss-button =
     .title = Sguir dheth
-
 about-logins-confirm-remove-dialog-title = A bheil thu airson an clàradh a-steach seo a thoirt air falbh?
 confirm-delete-dialog-message = Cha ghabh seo a neo-dhèanamh.
 about-logins-confirm-remove-dialog-confirm-button = Thoir air falbh
-
 confirm-discard-changes-dialog-title = A bheil thu airson na h-atharraichean gun sàbhaladh a thilgeil air falbh?
 confirm-discard-changes-dialog-message = Thèid gach atharrachadh gun sàbhaladh air chall.
 confirm-discard-changes-dialog-confirm-button = Tilg air falbh
@@ -173,6 +168,7 @@ breach-alert-text = Chaidh faclan-faire a ghoid air an làrach-lìn seo on a dh�
 
 ## Vulnerable Password notification
 
+
 ## Error Messages
 
 # This is an error message that appears when a user attempts to save
@@ -180,12 +176,19 @@ breach-alert-text = Chaidh faclan-faire a ghoid air an làrach-lìn seo on a dh�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Tha innteart airson { $loginTitle } leis an ainm-chleachdaiche seo mu thràth. <a data-l10n-name="duplicate-link">A bheil thu airson tadhal air an innteart làithreach?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Thachair mearachd nuair a dh’fheuch sinn ris am facal-faire seo a shàbhaladh.
 
-
 ## Login Export Dialog
 
+
 ## Login Import Dialog
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
 
