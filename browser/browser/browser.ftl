@@ -355,7 +355,7 @@ browser-window-close-button =
 browser-tab-audio-playing = Проигрывается
 browser-tab-audio-muted = Звук отключён
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ВОСПРОИЗВОДИТЬСЯ
+browser-tab-audio-playing2 = ВОСПРОИЗВОДИТСЯ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = БЕЗ ЗВУКА
 # This label should be written in all capital letters if your locale supports them.
