@@ -402,3 +402,9 @@ support-printing-clear-settings-button = Tyhjennä tallennetut tulostusasetukset
 support-printing-modified-settings = Muokatut tulostusasetukset
 support-printing-prefs-name = Nimi
 support-printing-prefs-value = Arvo
+
+## Normandy sections
+
+support-remote-experiments-name = Nimi
+support-remote-features-name = Nimi
+support-remote-features-status = Tila

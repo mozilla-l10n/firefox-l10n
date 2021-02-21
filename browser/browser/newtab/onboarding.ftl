@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Onko sinulla jo tili?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Kirjaudu sisään
 onboarding-start-browsing-button-label = Aloita selaaminen
-onboarding-not-now-button-label = Ei nyt
 onboarding-cards-dismiss =
     .title = Hylkää
     .aria-label = Hylkää
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Saat ilmoituksen, kun tietovuodosta on löytyn
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Hallitse salasanoja, jotka ovat turvassa ja mukaan otettavissa.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Suojaa seurannalta
+onboarding-tracking-protection-text2 = { -brand-short-name } auttaa estämään sivustoja seuraamasta sinua verkossa, vaikeuttaen mainoksia seuraamasta sinua ympäri verkkoa.
+onboarding-tracking-protection-button2 = Kuinka se toimii
+onboarding-data-sync-title = Ota asetukset mukaasi
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synkronoi kirjanmerkit, salasanat jne. kaikkialle, missä käytät { -brand-product-name }ia.
+onboarding-data-sync-button2 = Kirjaudu sisään { -sync-brand-short-name }-palveluun
+onboarding-firefox-monitor-title = Pysy ajan tasalla tietovuodoista
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } tarkkailee, onko sähköpostiosoitteesi ollut mukana tunnetuissa tietovuodoissa ja lähettää sinulle hälytyksen, jos joudut osalliseksi uuteen tietovuotoon.
+onboarding-firefox-monitor-button = Tilaa ilmoitukset
+onboarding-browse-privately-title = Selaa yksityisesti
+onboarding-browse-privately-text = Yksityinen selaus tyhjentää haku- ja selaushistorian, jotta se säilyy salassa kaikilta muilta, jotka käyttävät tietokonettasi.
+onboarding-browse-privately-button = Avaa yksityinen ikkuna
+onboarding-firefox-send-title = Pidä jakamasi tiedostot yksityisinä
+onboarding-firefox-send-text2 = Lataa tiedostosi { -send-brand-name } -palveluun, kun haluat jakaa ne käyttäen läpisalausta ja linkkiä, joka vanhenee automaattisesti.
+onboarding-firefox-send-button = Kokeile { -send-brand-name } -palvelua
+onboarding-mobile-phone-title = Hanki { -brand-product-name } puhelimeesi
+onboarding-mobile-phone-text = Lataa { -brand-product-name } iOS:lle tai Androidille ja synkronoi tietosi laitteiden välillä.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Lataa mobiiliselain
+onboarding-send-tabs-title = Lähetä välilehtiä itsellesi välittömästi
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Jaa sivuja helposti laitteidesi välillä, tarvitsematta kopioida, liittää tai poistua selaimesta.
+onboarding-send-tabs-button = Kokeile välilehden lähettämistä
+onboarding-pocket-anywhere-title = Lue ja kuuntele kaikkialla
+onboarding-pocket-anywhere-text2 = Tallenna suosikkisisältösi paikallisesti { -pocket-brand-name }-sovelluksella ja lue, kuuntele sekä katsele, kun sinulle sopii.
+onboarding-pocket-anywhere-button = Kokeile { -pocket-brand-name }-palvelua
+onboarding-lockwise-strong-passwords-title = Luo ja tallenna vahvoja salasanoja
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } luo vahvoja salasanoja saman tien ja säilyttää ne kaikki samassa paikassa.
+onboarding-lockwise-strong-passwords-button = Hallitse kirjautumistietojasi
+onboarding-facebook-container-title = Aseta rajat Facebookille
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } pitää profiilisi erillään kaikesta muusta, vaikeuttaen Facebookia kohdentamasta mainoksia sinulle.
+onboarding-facebook-container-button = Lisää laajennus
+onboarding-import-browser-settings-title = Tuo kirjanmerkit, salasanat ja paljon muuta
+onboarding-import-browser-settings-text = Tutustu rohkeasti – tuo Chromen historia ja asetukset mukanasi.
+onboarding-import-browser-settings-button = Tuo Chrome-tiedot
+onboarding-personal-data-promise-title = Yksityisyys ensin
+onboarding-personal-data-promise-text = { -brand-product-name } kunnioittaa tietojasi keräämällä niitä vähemmän, suojelemalla niitä ja kertomalla selkeästi, miten niitä käytetään.
+onboarding-personal-data-promise-button = Lue lupauksemme
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Hienoa, sinulla on { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Hankitaanpa sinulle nyt <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Lisää laajennus
+return-to-amo-get-started-button = Aloita { -brand-short-name }in käyttö
+onboarding-not-now-button-label = Ei nyt
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Hienoa, sinulla on { -brand-short-name }
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = Nopea, turvallinen ja yksityinen selain
 onboarding-multistage-welcome-primary-button-label = Aloita
 onboarding-multistage-welcome-secondary-button-label = Kirjaudu sisään
 onboarding-multistage-welcome-secondary-button-text = Onko sinulla jo tili?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Aseta { -brand-short-name } <span data-l10n-name="zap">oletukseksi</span>
+onboarding-multistage-set-default-subtitle = Nopeutta, turvallisuutta ja yksityisyyttä joka kerta kun selaat.
+onboarding-multistage-set-default-primary-button-label = Aseta oletukseksi
+onboarding-multistage-set-default-secondary-button-label = Ei nyt
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Tuo salasanat, kirjanmerkit ja <span data-l10n-name="zap">paljon muuta</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Käytä värikästä ulkoasua
         painikkeille, valikoille ja ikkunoille.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Suojaa seurannalta
-onboarding-tracking-protection-text2 = { -brand-short-name } auttaa estämään sivustoja seuraamasta sinua verkossa, vaikeuttaen mainoksia seuraamasta sinua ympäri verkkoa.
-onboarding-tracking-protection-button2 = Kuinka se toimii
-onboarding-data-sync-title = Ota asetukset mukaasi
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synkronoi kirjanmerkit, salasanat jne. kaikkialle, missä käytät { -brand-product-name }ia.
-onboarding-data-sync-button2 = Kirjaudu sisään { -sync-brand-short-name }-palveluun
-onboarding-firefox-monitor-title = Pysy ajan tasalla tietovuodoista
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } tarkkailee, onko sähköpostiosoitteesi ollut mukana tunnetuissa tietovuodoissa ja lähettää sinulle hälytyksen, jos joudut osalliseksi uuteen tietovuotoon.
-onboarding-firefox-monitor-button = Tilaa ilmoitukset
-onboarding-browse-privately-title = Selaa yksityisesti
-onboarding-browse-privately-text = Yksityinen selaus tyhjentää haku- ja selaushistorian, jotta se säilyy salassa kaikilta muilta, jotka käyttävät tietokonettasi.
-onboarding-browse-privately-button = Avaa yksityinen ikkuna
-onboarding-firefox-send-title = Pidä jakamasi tiedostot yksityisinä
-onboarding-firefox-send-text2 = Lataa tiedostosi { -send-brand-name } -palveluun, kun haluat jakaa ne käyttäen läpisalausta ja linkkiä, joka vanhenee automaattisesti.
-onboarding-firefox-send-button = Kokeile { -send-brand-name } -palvelua
-onboarding-mobile-phone-title = Hanki { -brand-product-name } puhelimeesi
-onboarding-mobile-phone-text = Lataa { -brand-product-name } iOS:lle tai Androidille ja synkronoi tietosi laitteiden välillä.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Lataa mobiiliselain
-onboarding-send-tabs-title = Lähetä välilehtiä itsellesi välittömästi
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Jaa sivuja helposti laitteidesi välillä, tarvitsematta kopioida, liittää tai poistua selaimesta.
-onboarding-send-tabs-button = Kokeile välilehden lähettämistä
-onboarding-pocket-anywhere-title = Lue ja kuuntele kaikkialla
-onboarding-pocket-anywhere-text2 = Tallenna suosikkisisältösi paikallisesti { -pocket-brand-name }-sovelluksella ja lue, kuuntele sekä katsele, kun sinulle sopii.
-onboarding-pocket-anywhere-button = Kokeile { -pocket-brand-name }-palvelua
-onboarding-lockwise-strong-passwords-title = Luo ja tallenna vahvoja salasanoja
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } luo vahvoja salasanoja saman tien ja säilyttää ne kaikki samassa paikassa.
-onboarding-lockwise-strong-passwords-button = Hallitse kirjautumistietojasi
-onboarding-facebook-container-title = Aseta rajat Facebookille
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } pitää profiilisi erillään kaikesta muusta, vaikeuttaen Facebookia kohdentamasta mainoksia sinulle.
-onboarding-facebook-container-button = Lisää laajennus
-onboarding-import-browser-settings-title = Tuo kirjanmerkit, salasanat ja paljon muuta
-onboarding-import-browser-settings-text = Tutustu rohkeasti – tuo Chromen historia ja asetukset mukanasi.
-onboarding-import-browser-settings-button = Tuo Chrome-tiedot
-onboarding-personal-data-promise-title = Yksityisyys ensin
-onboarding-personal-data-promise-text = { -brand-product-name } kunnioittaa tietojasi keräämällä niitä vähemmän, suojelemalla niitä ja kertomalla selkeästi, miten niitä käytetään.
-onboarding-personal-data-promise-button = Lue lupauksemme
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Hienoa, sinulla on { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Hankitaanpa sinulle nyt <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Lisää laajennus
-return-to-amo-get-started-button = Aloita { -brand-short-name }in käyttö

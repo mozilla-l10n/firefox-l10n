@@ -40,10 +40,6 @@ printui-scale-pcent = Koko
 printui-two-sided-printing = Kaksipuolinen tulostus
 printui-duplex-checkbox = Tulosta molemmille puolille
 printui-two-sided-printing-off = Pois päältä
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Käännä sivulta
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Käännä yläreunasta
 # Section title for miscellaneous print options
 printui-options = Valinnat
 printui-headers-footers-checkbox = Tulosta ylä- ja alatunnisteet
@@ -101,6 +97,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Koon on oltava luku välillä 10 ja 200.
 printui-error-invalid-margin = Anna valitulle paperin koolle kelvollinen reunus.
+printui-error-invalid-copies = Kopioiden määrä tulee ilmoittaa luvulla väliltä 1 ja 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Sivualueen on oltava luku välillä 1 ja { $numPages }.
