@@ -408,6 +408,7 @@ support-printing-prefs-value = Verdi
 
 support-remote-experiments-title = Eksterne eksperimenter
 support-remote-experiments-name = Navn
+support-remote-experiments-branch = Eksperimentgren
 support-remote-experiments-see-about-studies = Se <a data-l10n-name="support-about-studies-link">about:studies</a> for mer informasjon, inkludert hvordan du slår av individuelle eksperimenter eller hvordan du hindrer { -brand-short-name } fra å kjøre denne typen eksperiment i fremtiden.
 support-remote-features-title = Eksterne funksjoner
 support-remote-features-name = Navn
