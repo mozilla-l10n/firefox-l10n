@@ -94,6 +94,11 @@ onboarding-benefit-lockwise-text = Gjestìs lis passwords protetis e portatilis.
 ## The string for the button is found above, in the UI strings section
 
 onboarding-tracking-protection-title2 = Protezion dal jessi spiâts (tracking)
+onboarding-tracking-protection-text2 = { -brand-short-name } al jude a fermâ i sîts web dal spiâti in rêt, rindint la vite plui dificile aes publicitâts che a cirin di stâti daûr ator pal web.
+onboarding-tracking-protection-button2 = Cemût funzional?
+onboarding-data-sync-title = Puarte lis tôs personalizazions cun te
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronize i tiei segnelibris, lis passwords e tant altri dapardut là che tu dopris { -brand-product-name }.
 
 ## Message strings belonging to the Return to AMO flow
 
