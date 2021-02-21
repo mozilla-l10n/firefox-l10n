@@ -408,5 +408,6 @@ support-printing-prefs-value = Valor
 
 support-remote-experiments-name = Nom
 support-remote-experiments-branch = Brancas experimentala
+support-remote-features-title = Foncionalitats distantas
 support-remote-features-name = Nom
 support-remote-features-status = Estat
