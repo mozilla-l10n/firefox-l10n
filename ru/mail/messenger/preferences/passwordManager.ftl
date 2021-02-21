@@ -10,6 +10,10 @@ focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
     .key = k
+focus-search-primary-shortcut =
+    .key = f
+focus-search-alt-shortcut =
+    .key = k
 copy-provider-url-cmd =
     .label = Копировать URL
     .accesskey = и
@@ -51,7 +55,9 @@ import =
 close-button =
     .label = Закрыть
     .accesskey = к
-
+password-close-button =
+    .label = Закрыть
+    .accesskey = к
 show-passwords =
     .label = Отобразить пароли
     .accesskey = а
@@ -74,12 +80,10 @@ no-master-password-prompt = Вы уверены, что хотите отобр�
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Подтвердите свою личность для показа сохранённых паролей.
-
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = показать сохранённые пароли
-
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }
