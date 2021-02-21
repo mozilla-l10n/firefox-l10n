@@ -72,6 +72,14 @@ onboarding-sync-form-sub-header = par continuâ cun { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-text = Fâs lis robis cuntune famee di struments che e rispiete la tô riservatece su ducj i tiei dispositîfs.
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Dut ce che o fasìn al onore la nestre “Promesse sui dâts personâi”: tire dongje mancul dâts, tegniju al sigûr, nissun segret.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
