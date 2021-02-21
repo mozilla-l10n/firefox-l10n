@@ -94,7 +94,7 @@ options-disable-http-cache-tooltip =
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Tắt JavaScript *
 options-disable-javascript-tooltip =
-    .title = Bật tùy chọn này sẽ vô hiệu hóa JavaScript cho thẻ hiện tại. Nếu thẻ hoặc hộp công cụ bị đóng thì cài đặt này sẽ bị quên.
+    .title = Bật tùy chọn này sẽ vô hiệu hóa JavaScript cho thẻ hiện tại. Nếu thẻ hoặc hộp công cụ bị đóng thì sẽ tự động tắt tùy chọn này.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Kích hoạt trình duyệt chrome và các hộp công cụ gỡ lỗi tiện ích
 options-enable-chrome-tooltip =
