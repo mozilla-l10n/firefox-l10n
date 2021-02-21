@@ -104,6 +104,12 @@ newtab-menu-show-privacy-info = I nestris patrocinadôrs e la tô riservatece
 newtab-privacy-modal-button-done = Fat
 newtab-privacy-modal-button-manage = Gjestìs lis impostazions dai contignûts sponsorizâts
 newtab-privacy-modal-header = La tô riservatece e je impuartante.
+newtab-privacy-modal-paragraph-2 =
+    Sore a proponiti storiis inmagantis, ti mostrin ancje contignûts,
+    pertinents e curâts cun atenzion, promovûts di un grup selezionât di
+    sponsors. Ti garantìn che <strong>nissun dât relatîf ae tô navigazion
+    al vignarà condividût de tô copie personâl di { -brand-product-name }</strong>.
+    Nô no viodìn chestis informazions e ancjemò di mancul i nestris sponsors.
 newtab-privacy-modal-link = Scuvierç cemût che la riservatece e funzione te gnove schede
 
 ##
@@ -124,15 +130,40 @@ newtab-menu-remove-download = Gjave de cronologjie
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Mostre in Finder
+       *[other] Vierç la cartele che lu conten
+    }
+newtab-menu-open-file = Vierç file
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Visitât
+newtab-label-bookmarked = Metût tai segnelibris
+newtab-label-removed-bookmark = Segnelibri gjavât
+newtab-label-recommended = Di tindince
+newtab-label-saved = Salvât su { -pocket-brand-name }
+newtab-label-download = Discjariât
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Sponsorizât
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Patrocinât di { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Gjave sezion
+newtab-section-menu-collapse-section = Colasse sezion
+newtab-section-menu-expand-section = Slargje sezion
+newtab-section-menu-manage-section = Gjestìs sezion
+newtab-section-menu-manage-webext = Gjestìs estension
 
 ## Section aria-labels
 
