@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } — это бесплат
 folder-pane-toolbar =
     .toolbarname = Панель вида папок
     .accesskey = н
+folder-pane-toolbar-options-button =
+    .tooltiptext = Настройки вида папок
 folder-pane-header-label = Папки
 
 ## Folder Toolbar Header Popup

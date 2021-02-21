@@ -103,6 +103,12 @@ drop-file-label-attachment =
         [few] Добавить как вложения
        *[many] Добавить как вложения
     }
+drop-file-label-inline =
+    { $count ->
+        [one] Вставить в содержимое
+        [few] Вставить в содержимое
+       *[many] Вставить в содержимое
+    }
 
 # Reorder Attachment Panel
 
