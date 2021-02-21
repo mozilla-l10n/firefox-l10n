@@ -189,19 +189,39 @@ newtab-section-header-pocket = Conseât di { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Scomence a navigâ e, in cheste sezion, ti mostrarìn cualchi articul impuartant, videos e altris pagjinis che tu âs visitât di resint o tu âs metût tai segnelibris.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Tu sês rivât insom. Controle plui indenant par vê altris storiis di { $provider }. No tu rivis a spietâ? Selezione un argoment tra chei plui popolârs par cjatâ altris storiis interessantis ator pal web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Tu sês rivât insom!
+newtab-discovery-empty-section-topstories-content = Controle plui indenant par vê plui storiis.
+newtab-discovery-empty-section-topstories-try-again-button = Torne prove
+newtab-discovery-empty-section-topstories-loading = Daûr a cjariâ…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Orpo! Al somee che cheste sezion no si sedi cjariade dal dut.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Argoments popolârs:
+newtab-pocket-more-recommendations = Altris sugjeriments
+newtab-pocket-learn-more = Plui informazions
+newtab-pocket-cta-button = Oten { -pocket-brand-name }
+newtab-pocket-cta-text = Salve lis storiis che ti plasin in { -pocket-brand-name } e nudrìs il to cjâf cun leturis apassionantis.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Orpo!, alc al è lât strucj tal cjariâ chest contignût.
+newtab-error-fallback-refresh-link = Inzorne la pagjine par tornâ a provâ.
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Scurtis
+newtab-custom-shortcuts-subtitle = Sîts che tu âs salvât o visitât
 newtab-custom-close-button = Siere
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
