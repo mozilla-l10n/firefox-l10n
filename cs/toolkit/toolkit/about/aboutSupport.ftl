@@ -419,3 +419,12 @@ support-printing-clear-settings-button = Vymazat uložené nastavení tisku
 support-printing-modified-settings = Upravená nastavení tisku
 support-printing-prefs-name = Název
 support-printing-prefs-value = Hodnota
+
+## Normandy sections
+
+support-remote-experiments-title = Vzdálené experimenty
+support-remote-experiments-name = Název
+support-remote-experiments-branch = Větev experimentu
+support-remote-features-title = Vzdálené funkce
+support-remote-features-name = Název
+support-remote-features-status = Stav

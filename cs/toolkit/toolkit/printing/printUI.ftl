@@ -41,10 +41,10 @@ printui-scale-pcent = Měřítko
 printui-two-sided-printing = Oboustranný tisk
 printui-duplex-checkbox = Vytisknout na obě strany
 printui-two-sided-printing-off = Vypnuto
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Překlopit před boční hranu list (jako knihu)
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Překlopit před horní hranu listu (jako kalendář)
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Překlopit přes delší hranu listu
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Překlopit přes kratší hranu listu
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Vytisknout záhlaví a zápatí
@@ -100,9 +100,10 @@ printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
-printui-error-invalid-scale = Měřítko musí být číslo mezi 10 a 200.
+printui-error-invalid-scale = Měřítko musí být v rozmezí 10 a 200.
 printui-error-invalid-margin = Zadejte platný okraj pro vybranou velikost papíru.
+printui-error-invalid-copies = Počet kopií musí být v rozmezí 1 až 10 000.
 # Variables
 # $numPages (integer) - Number of pages
-printui-error-invalid-range = Rozsah stránek musí být číslo mezi 1 a { $numPages }.
+printui-error-invalid-range = Rozsah stránek musí být v rozmezí 1 a { $numPages }.
 printui-error-invalid-start-overflow = Číslo stránky „od“ musí být menší než číslo stránky „do“.
