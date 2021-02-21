@@ -56,7 +56,6 @@ onboarding-join-form-signin-label = Už máte účet?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Přihlásit se
 onboarding-start-browsing-button-label = Začít prohlížet
-onboarding-not-now-button-label = Teď ne
 onboarding-cards-dismiss =
     .title = Skrýt
     .aria-label = Skrýt
@@ -110,100 +109,6 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Nechte se upozornit, pokud se vaše údaje objeví ve známém úniku dat.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Spravujte hesla bezpečně i na cestách.
-
-## Custom Return To AMO onboarding strings
-
-return-to-amo-subtitle = Skvěle, nyní máte aplikaci { -brand-short-name }
-# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Teď zpět k doplňku <img data-l10n-name="icon"/> </icon><b>{ $addon-name }</b>.
-return-to-amo-add-extension-label = Přidat rozšíření
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = Vítá vás <span data-l10n-name="zap">{ -brand-short-name }</span>
-onboarding-multistage-welcome-subtitle = Rychlý, bezpečný a soukromý prohlížeč od neziskové organizace.
-onboarding-multistage-welcome-primary-button-label = Nastavit
-onboarding-multistage-welcome-secondary-button-label = Přihlášení
-onboarding-multistage-welcome-secondary-button-text = Už máte účet?
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "more" should stay inside the span.
-onboarding-multistage-import-header = Importujte svá hesla, <br/> záložky a <span data-l10n-name="zap">další data</span>
-onboarding-multistage-import-subtitle =
-    Přecházíte z jiného prohlížeče? Přenést data do { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    } je velmi snadné.
-onboarding-multistage-import-primary-button-label = Spustit import
-onboarding-multistage-import-secondary-button-label = Teď ne
-# Info displayed in the footer of import settings screen during onboarding flow.
-# This supports welcome screen showing top sites imported from the user's default browser.
-onboarding-import-sites-disclaimer = Na tomto zařízení byly nalezeny následující stránky. { -brand-short-name } si neuloží a nebude synchronizovat dat uložená v jiném prohlížeči, dokud mu nepovolíte je importovat.
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label =
-        Úvod: strana { $current } { NUMBER($totla) ->
-            [one] z { $total }
-            [few] ze { $total }
-           *[other] z { $total }
-        }
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Vyberte si <span data-l10n-name="zap">vzhled</span>
-onboarding-multistage-theme-subtitle =
-    Přizpůsobte si vzhled { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "gen") }
-        [feminine] { -brand-short-name(case: "gen") }
-        [neuter] { -brand-short-name(case: "gen") }
-       *[other] aplikace { -brand-short-name }
-    }
-onboarding-multistage-theme-primary-button-label = Uložit vzhled
-onboarding-multistage-theme-secondary-button-label = Teď ne
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = Automatický
-onboarding-multistage-theme-label-light = Světlý
-onboarding-multistage-theme-label-dark = Tmavý
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
-# Tooltip displayed on hover of automatic theme
-onboarding-multistage-theme-tooltip-automatic-2 =
-    .title = Použije vzhled tlačítek, nabídek a oken podle nastavení vašeho operačního systému.
-# Input description for automatic theme
-onboarding-multistage-theme-description-automatic-2 =
-    .aria-description = Použije vzhled tlačítek, nabídek a oken podle nastavení vašeho operačního systému.
-# Tooltip displayed on hover of light theme
-onboarding-multistage-theme-tooltip-light-2 =
-    .title = Použije světlý vzhled tlačítek, nabídek a oken.
-# Input description for light theme
-onboarding-multistage-theme-description-light =
-    .aria-description = Použije světlý vzhled tlačítek, nabídek a oken.
-# Tooltip displayed on hover of dark theme
-onboarding-multistage-theme-tooltip-dark-2 =
-    .title = Použije tmavý vzhled tlačítek, nabídek a oken.
-# Input description for dark theme
-onboarding-multistage-theme-description-dark =
-    .aria-description = Použije tmavý vzhled tlačítek, nabídek a oken.
-# Tooltip displayed on hover of Alpenglow theme
-onboarding-multistage-theme-tooltip-alpenglow-2 =
-    .title = Použije barevný vzhled tlačítek, nabídek a oken.
-# Input description for Alpenglow theme
-onboarding-multistage-theme-description-alpenglow =
-    .aria-description = Použije barevný vzhled tlačítek, nabídek a oken.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -288,3 +193,104 @@ return-to-amo-get-started-button =
         [neuter] { -brand-short-name(case: "ins") }
        *[other] aplikací { -brand-short-name }
     }
+onboarding-not-now-button-label = Teď ne
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-subtitle = Skvěle, nyní máte aplikaci { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Teď zpět k doplňku <img data-l10n-name="icon"/> </icon><b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Přidat rozšíření
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Vítá vás <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Rychlý, bezpečný a soukromý prohlížeč od neziskové organizace.
+onboarding-multistage-welcome-primary-button-label = Nastavit
+onboarding-multistage-welcome-secondary-button-label = Přihlášení
+onboarding-multistage-welcome-secondary-button-text = Už máte účet?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Nastavte si { -brand-short-name(case: "acc") } jako <span data-l10n-name="zap">výchozí</span>
+onboarding-multistage-set-default-subtitle = Rychlost, bezpečnost a soukromí pro vaše prohlížení.
+onboarding-multistage-set-default-primary-button-label = Nastavit jako výchozí
+onboarding-multistage-set-default-secondary-button-label = Teď ne
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Importujte svá hesla, <br/> záložky a <span data-l10n-name="zap">další data</span>
+onboarding-multistage-import-subtitle =
+    Přecházíte z jiného prohlížeče? Přenést data do { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    } je velmi snadné.
+onboarding-multistage-import-primary-button-label = Spustit import
+onboarding-multistage-import-secondary-button-label = Teď ne
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = Na tomto zařízení byly nalezeny následující stránky. { -brand-short-name } si neuloží a nebude synchronizovat dat uložená v jiném prohlížeči, dokud mu nepovolíte je importovat.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label =
+        Úvod: strana { $current } { NUMBER($totla) ->
+            [one] z { $total }
+            [few] ze { $total }
+           *[other] z { $total }
+        }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Vyberte si <span data-l10n-name="zap">vzhled</span>
+onboarding-multistage-theme-subtitle =
+    Přizpůsobte si vzhled { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }
+onboarding-multistage-theme-primary-button-label = Uložit vzhled
+onboarding-multistage-theme-secondary-button-label = Teď ne
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatický
+onboarding-multistage-theme-label-light = Světlý
+onboarding-multistage-theme-label-dark = Tmavý
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title = Použije vzhled tlačítek, nabídek a oken podle nastavení vašeho operačního systému.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description = Použije vzhled tlačítek, nabídek a oken podle nastavení vašeho operačního systému.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title = Použije světlý vzhled tlačítek, nabídek a oken.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description = Použije světlý vzhled tlačítek, nabídek a oken.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title = Použije tmavý vzhled tlačítek, nabídek a oken.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description = Použije tmavý vzhled tlačítek, nabídek a oken.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title = Použije barevný vzhled tlačítek, nabídek a oken.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description = Použije barevný vzhled tlačítek, nabídek a oken.
