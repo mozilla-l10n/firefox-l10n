@@ -57,9 +57,17 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Puarte daûr cun te { -brand-product-name }
+onboarding-sync-welcome-content = Cjate i tiei segnelibris, la cronologjie, lis passwords e lis altris impostazions su ducj i tiei dispositîfs.
+onboarding-sync-welcome-learn-more-link = Altris informazions sui Accounts di Firefox
+onboarding-sync-form-input =
+    .placeholder = E-mail
+onboarding-sync-form-continue-button = Continue
+onboarding-sync-form-skip-login-button = Salte chest passaç
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Inserìs la tô e-mail
+onboarding-sync-form-sub-header = par continuâ cun { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
