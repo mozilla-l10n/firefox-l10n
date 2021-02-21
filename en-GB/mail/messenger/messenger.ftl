@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } is free and open source s
 folder-pane-toolbar =
     .toolbarname = Folder Pane Toolbar
     .accesskey = F
+folder-pane-toolbar-options-button =
+    .tooltiptext = Folder Pane Options
 folder-pane-header-label = Folders
 
 ## Folder Toolbar Header Popup
