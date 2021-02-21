@@ -164,12 +164,27 @@ newtab-section-menu-collapse-section = Colasse sezion
 newtab-section-menu-expand-section = Slargje sezion
 newtab-section-menu-manage-section = Gjestìs sezion
 newtab-section-menu-manage-webext = Gjestìs estension
+newtab-section-menu-add-topsite = Zonte sît principâl
+newtab-section-menu-add-search-engine = Zonte motôr di ricercje
+newtab-section-menu-move-up = Sposte in sù
+newtab-section-menu-move-down = Sposte in jù
+newtab-section-menu-privacy-notice = Informative su la riservatece
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Colasse sezion
+newtab-section-expand-section-label =
+    .aria-label = Slargje sezion
 
 ## Section Headers.
 
+newtab-section-header-topsites = Sîts principâi
+newtab-section-header-highlights = In evidence
+newtab-section-header-recent-activity = Ativitât resinte
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Conseât di { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -186,3 +201,11 @@ newtab-section-menu-manage-webext = Gjestìs estension
 
 ## Customization Menu
 
+newtab-custom-close-button = Siere
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = Notis interativis
+newtab-custom-snippets-subtitle = Conseis e notiziis di { -vendor-short-name } e { -brand-product-name }
+newtab-custom-settings = Gjestìs plui impostazions
