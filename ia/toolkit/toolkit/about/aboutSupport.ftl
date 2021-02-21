@@ -409,6 +409,10 @@ support-printing-prefs-value = Valor
 
 ## Normandy sections
 
+support-remote-experiments-title = Experimentos remote
 support-remote-experiments-name = Nomine
+support-remote-experiments-branch = Ramo experimental
+support-remote-experiments-see-about-studies = Vider <a data-l10n-name="support-about-studies-link">about:studies</a> pro altere informationes, includite como disactivar experimentos individual o impedir a { -brand-short-name } de exequer iste typo de experimento in le futuro.
+support-remote-features-title = Functiones remote
 support-remote-features-name = Nomine
 support-remote-features-status = Stato

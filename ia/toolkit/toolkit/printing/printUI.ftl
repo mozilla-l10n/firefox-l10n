@@ -40,10 +40,10 @@ printui-scale-pcent = Scala
 printui-two-sided-printing = Impression recto e verso
 printui-duplex-checkbox = Imprimer sur recto e verso
 printui-two-sided-printing-off = Disactivate
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Volver sur margine lateral
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Volver sur margine superior
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Volver sur margine longe
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Volver sur margine curte
 # Section title for miscellaneous print options
 printui-options = Optiones
 printui-headers-footers-checkbox = Imprimer capites e pedes de pagina
@@ -101,6 +101,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Le scala debe esser un numero inter 10 e 200.
 printui-error-invalid-margin = Insere un margine valide pro le dimension de papiro seligite.
+printui-error-invalid-copies = Copias debe esser un numero inter 1 e 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Le intervallo debe esser un numero inter 1 e { $numPages }.
