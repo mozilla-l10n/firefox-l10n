@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Chyba při načítání stránky">
+<!ENTITY loadError.label "Stránku se nepodařilo načíst">
 <!ENTITY retry.label "Zkusit znovu">
 
 <!-- Specific error messages -->
