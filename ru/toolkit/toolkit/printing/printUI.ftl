@@ -41,10 +41,10 @@ printui-scale-pcent = Масштаб
 printui-two-sided-printing = Двусторонняя печать
 printui-duplex-checkbox = Печатать на обоих сторонах
 printui-two-sided-printing-off = Отключена
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Переплет сбоку
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Переплет сверху
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Переплет по длинной стороне
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Переплет по короткой стороне
 # Section title for miscellaneous print options
 printui-options = Настройки
 printui-headers-footers-checkbox = Печатать колонтитулы
@@ -102,6 +102,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Масштаб должен быть числом от 10 до 200.
 printui-error-invalid-margin = Пожалуйста, введите допустимые значения полей для выбранного размера бумаги.
+printui-error-invalid-copies = Число копий должно быть числом от 1 до 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Диапазон должен содержать числа от 1 до { $numPages }.
