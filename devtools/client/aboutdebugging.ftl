@@ -176,7 +176,7 @@ about-debugging-runtime-service-workers-not-compatible = Cấu hình trình duy�
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = Trình duyệt được kết nối có phiên bản cũ ({ $runtimeVersion }). Phiên bản được hỗ trợ tối thiểu là ({ $minVersion }). Đây là một thiết lập không được hỗ trợ và có thể khiến công cụ nhà phát triển bị lỗi. Vui lòng cập nhật trình duyệt được kết nối. <a>Khắc phục sự cố</a>
+about-debugging-browser-version-too-old = Trình duyệt được kết nối có phiên bản cũ ({ $runtimeVersion }). Phiên bản được hỗ trợ tối thiểu là ({ $minVersion }). Đây là một thiết lập không được hỗ trợ và có thể khiến DevTools bị lỗi. Vui lòng cập nhật trình duyệt được kết nối. <a>Khắc phục sự cố</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Phiên bản Firefox này không thể gỡ lỗi Firefox dành cho Android (68). Chúng tôi khuyên bạn nên cài đặt Firefox Nightly dành cho Android trên điện thoại để thử nghiệm. <a>Chi tiết khác</a>
@@ -186,7 +186,7 @@ about-debugging-browser-version-too-old-fennec = Phiên bản Firefox này khôn
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Trình được kết nối gần đây ({ $runtimeVersion }, ID bản dựng { $runtimeID }) so với { -brand-shorter-name } ({ $localVersion }, ID bản dựng { $localID }). Đây là một thiết lập không được hỗ trợ và có thể khiến công cụ nhà phát triển bị lỗi. Vui lòng cập nhật Firefox. <a>Khắc phục sự cố</a>
+about-debugging-browser-version-too-recent = Trình được kết nối gần đây ({ $runtimeVersion }, ID bản dựng { $runtimeID }) so với { -brand-shorter-name } ({ $localVersion }, ID bản dựng { $localID }). Đây là một thiết lập không được hỗ trợ và có thể khiến DevTools bị lỗi. Vui lòng cập nhật Firefox. <a>Khắc phục sự cố</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
