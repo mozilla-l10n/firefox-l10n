@@ -38,10 +38,13 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "อีเมล:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "ต้องการการจัดกำหนดการอีเมลฝั่งไคลเอ็นต์">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "ตอนนี้ คุณสามารถเปิดใช้งานสิ่งนี้ได้หลังจากตั้งค่าปฏิทินนี้ในกล่องโต้ตอบคุณสมบัติเท่านั้นหากเซิร์ฟเวอร์ปฏิทินดูแลการจัดกำหนดการ">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "ตัวเลือกนี้จะใช้ได้เฉพาะในกรณีที่เซิร์ฟเวอร์ปฏิทินจัดการการจัดกำหนดการเท่านั้น การเปิดใช้งานจะช่วยให้สามารถถอยกลับไปใช้การจัดกำหนดการตามอีเมลมาตรฐานแทนที่จะปล่อยไว้ที่เซิร์ฟเวอร์ได้">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "ยอมรับ">
