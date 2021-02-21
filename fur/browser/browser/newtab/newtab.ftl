@@ -222,6 +222,17 @@ newtab-error-fallback-refresh-link = Inzorne la pagjine par tornâ a provâ.
 
 newtab-custom-shortcuts-title = Scurtis
 newtab-custom-shortcuts-subtitle = Sîts che tu âs salvât o visitât
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } rie
+       *[other] { $num } riis
+    }
+newtab-custom-sponsored-sites = Scurtis sponsorizadis
+newtab-custom-pocket-title = Conseâts di { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Contignûts ecezionâi curâts di { -pocket-brand-name }, part de famee { -brand-product-name }
+newtab-custom-pocket-sponsored = Storiis sponsorizadis
+newtab-custom-recent-title = Ativitât resinte
+newtab-custom-recent-subtitle = Une selezion di sîts e contignûts resints
 newtab-custom-close-button = Siere
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
