@@ -31,6 +31,7 @@ inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }<
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> не сработает для внутренних элементов таблиц.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> не сработает для внутренних элементов таблиц, кроме их ячеек.
 inactive-css-not-table = <strong>{ $property }</strong> не сработает для элемента, так как он не является таблицей.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является прокручиваемым.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,6 +54,7 @@ inactive-css-not-for-internal-table-elements-fix = Попробуйте уста
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Попробуйте установить для свойства <strong>display</strong> значение, отличное от <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> или <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Попробуйте установить для свойства <strong>outline-style</strong> значение, отличное от <strong>auto</strong> или <strong>none</strong>. { learn-more }
 inactive-css-not-table-fix = Попробуйте добавить <strong>display:table</strong> или <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Попробуйте добавить <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> или <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
