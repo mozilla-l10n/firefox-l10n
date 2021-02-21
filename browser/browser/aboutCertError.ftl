@@ -84,6 +84,7 @@ proxyResolveFailure-title = Cha ghabh am frithealaiche progsaidh a lorg
 redirectLoop-title = Chan eil an duilleag ag ath-stiùireadh mar bu chòir
 unknownSocketType-title = Freagairt ris nach robh dùil on fhrithealaiche
 nssFailure2-title = Dh’fhàillig an ceangal tèarainte
+csp-xfo-error-title = Chan urrainn dha { -brand-short-name } an duilleag seo fhosgladh
 corruptedContentError-title = Mearachd air sgàth susbaint thruaillte
 remoteXUL-title = XUL cèin
 sslv3Used-title = Chan urrainn dhuinn ceangal tèarainte a dhèanamh
