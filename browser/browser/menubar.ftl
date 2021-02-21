@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Senest lukkede faneblade
 menu-history-undo-window-menu =
     .label = Senest lukkede vinduer
+menu-history-reopen-all-tabs = Genåbn alle faneblade
+menu-history-reopen-all-windows = Genåbn alle vinduer
 
 ## Bookmarks Menu
 
