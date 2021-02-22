@@ -115,7 +115,7 @@ urlbar-tabtosearch-onboard = Ընտրէք այս դիւրանցումը, որպ�
 
 ## Local search mode indicator labels in the urlbar
 
-urlbar-search-mode-bookmarks = Էջանիշեր
+urlbar-search-mode-bookmarks = Էջանիշներ
 urlbar-search-mode-tabs = Ներդիրներ
 urlbar-search-mode-history = Պատմութիւն
 
@@ -256,7 +256,7 @@ search-one-offs-engine-with-alias =
 ##    bookmarks).
 
 search-one-offs-bookmarks =
-    .tooltiptext = Էջանիշեր ({ $restrict })
+    .tooltiptext = Էջանիշներ ({ $restrict })
 search-one-offs-tabs =
     .tooltiptext = Ներդիներներ ({ $restrict })
 search-one-offs-history =
@@ -354,9 +354,9 @@ browser-tab-audio-muted = Համրեցուած
 ## Bookmarks toolbar items
 
 browser-import-button2 =
-    .label = Ներմուծել էջանիշեր…
-    .tooltiptext = Ներմուծել էջանիշեր այլ դիտարկչից { -brand-short-name }֊ի մէջ
-bookmarks-toolbar-empty-message = Արագ մուտքի համար տեղադրէք ձեր էջանիշերն էջանիշերի գործեգաւտում։ <a data-l10n-name="manage-bookmarks"> Կառավարել էջանիշերը …</a>
+    .label = Ներմուծել էջանիշներ…
+    .tooltiptext = Ներմուծել էջանիշներ այլ դիտարկչից { -brand-short-name }֊ի մէջ
+bookmarks-toolbar-empty-message = Արագ մուտքի համար տեղադրէք ձեր էջանիշներն էջանիշների գործեգաւտում։ <a data-l10n-name="manage-bookmarks"> Կառավարել էջանիշները …</a>
 
 ## WebRTC Pop-up notifications
 
@@ -416,7 +416,7 @@ urlbar-placeholder-search-mode-other-engine =
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Գրանցէք որոնման պայմանները
-    .aria-label = Որոնել էջանիշերը
+    .aria-label = Որոնել էջանիշները
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Գրանցէք որոնման պայմանները
@@ -489,7 +489,7 @@ urlbar-result-action-tabtosearch-other-engine = Փնտրել { $engine }֊ում
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
-urlbar-result-action-search-bookmarks = Փնտրել էջանիշերում
+urlbar-result-action-search-bookmarks = Փնտրել էջանիշներում
 urlbar-result-action-search-history = Փնտրել Պատմութեան գրանցումներում
 urlbar-result-action-search-tabs = Փնտրել ներդիրներում
 
@@ -522,17 +522,17 @@ crashed-subframe-submit =
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
-    .label = Ցուցադրել բոլոր էջանիշերը
+    .label = Ցուցադրել բոլոր էջանիշները
 bookmarks-recent-bookmarks =
     .value = Վերջերս էջանշուած
 bookmarks-toolbar-chevron =
-    .tooltiptext = Ցուցադրել աւելի շատ էջանիշեր
+    .tooltiptext = Ցուցադրել այլ էջանիշներ
 bookmarks-sidebar-content =
-    .aria-label = Էջանիշեր
+    .aria-label = Էջանիշներ
 bookmarks-menu-button =
-    .label = Էջանիշերի ցանկ
+    .label = Էջանիշների ցանկ
 bookmarks-other-bookmarks-menu =
-    .label = Այլ Էջանիշեր
+    .label = Այլ Էջանիշներ
 bookmarks-mobile-bookmarks-menu =
     .label = Բջջային էջանիշեր
 bookmarks-tools-sidebar-visibility =
