@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } is frije en iepenboarneso
 folder-pane-toolbar =
     .toolbarname = Mappepanielarkbalke
     .accesskey = a
+folder-pane-toolbar-options-button =
+    .tooltiptext = Mappepanielopsjes
 folder-pane-header-label = Mappen
 
 ## Folder Toolbar Header Popup
