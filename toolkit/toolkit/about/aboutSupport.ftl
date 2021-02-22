@@ -366,3 +366,9 @@ support-printing-clear-settings-button = ניקוי הגדרות ההדפסה ה
 support-printing-modified-settings = הגדרות הדפסה ששונו
 support-printing-prefs-name = שם
 support-printing-prefs-value = ערך
+
+## Normandy sections
+
+support-remote-experiments-title = ניסויים מרוחקים
+support-remote-experiments-name = שם
+support-remote-experiments-branch = ענף ניסוי
