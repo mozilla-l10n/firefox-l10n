@@ -557,7 +557,7 @@ search-bar-hidden =
 search-bar-shown =
     .label = Աւելացնել որոնման գոտին գործիքագոտիում
 search-engine-default-header = Հիմնական որոնիչը
-search-engine-default-desc-2 = Սա ձեր լռելեայն որոնման միջոցն է հասցեագոտում եւ որոնման գոտում։ Դուք կարող եք փոխել այն ցանկացած ժամանակ։
+search-engine-default-desc-2 = Սա ձեր սկզբնադիր որոնման միջոցն է հասցէագաւտում եւ որոնման գաւտում։ Դուք կարող էք փոխել այն ցանկացած ժամանակ։
 search-engine-default-private-desc-2 = Ընտրեք այլ լռելեայն որոնման միջոց անձնական պատուհանների համար միայն
 search-separate-default-engine =
     .label = Անձնական պատուհաններում աւգտագործեք այս որոնիչը
@@ -565,18 +565,18 @@ search-separate-default-engine =
 search-suggestions-header = Որոնել առաջարկութիւն
 search-suggestions-desc = Ընտրեք, թե ինչպէս են որոնման առաջարկները երեւում։
 search-suggestions-option =
-    .label = Ցուցադրել որոնման հուշումներ
-    .accesskey = ո
+    .label = Ցուցադրել որոնման յուշումներ
+    .accesskey = Ց
 search-show-suggestions-url-bar-option =
-    .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդիւնքներում
-    .accesskey = l
+    .label = Ցուցադրել որոնման առաջարկները հասցէագաւտու արդիւնքներում
+    .accesskey = Ց
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդիւնքների ամենավերեւում
+    .label = Ցուցադրել որոնման առաջարկները հասցէագոտու արդիւնքների ամենավերեւում
 search-show-suggestions-private-windows =
     .label = Ցույց տալ որոնման առաջարկները մասնաւոր պատուհանում
 suggestions-addressbar-settings-generic = Փոխել ընտրանքները այլ հասցէգաւտիների առաջարկների համար
