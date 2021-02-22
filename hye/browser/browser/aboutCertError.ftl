@@ -8,7 +8,7 @@ cert-error-intro = { $hostname }-ը աւգտագործում է անվտանգո
 cert-error-mitm-intro = Կայքերն ապացուցում են իրենց ինքնութիւնը հաւաստագրման մարմինների կողմից թողարկուող վկայականների միջոցով:
 cert-error-mitm-mozilla = { -brand-short-name } -ն ապահովուած է շահոյթ չհետապնդող Mozilla-ի կողմից, որը կառավարում է լիովին բաց հաւաստագրման իրաւասութեան (CA) խանութ: CA խանութն աւգնում է հաւաստիանալ, որ հաւաստագրման մարմինները հետեւում են աւգտագործողների անվտանգութեան լաւագոյն փորձին։
 cert-error-mitm-connection = { -brand-short-name }-ն աւգտագործում է Mozilla CA խանութը` հաստատելու, որ կապն ապահով է, այլ ոչ թե աւգտագործողի գործառնական համակարգի կողմից տրամադրուած վկայագրերի: Այսպիսով, եթե հակաւիրուսային ծրագիրը կամ ցանցը ընդհատում են կապը անուտանգութեան Mozilla-ի կողմից, որը Mozilla CA խանութում չէ, կապը համարուում է անապահով։
-cert-error-trust-unknown-issuer-intro = Ինչ-որ մեկը կարող էր փորձել կայքը սանձազերծել, եւ Դուք չպէտք է շարունակեք։
+cert-error-trust-unknown-issuer-intro = Ինչ-որ մեկը կարող էր փորձել կեղծել կայքը եւ դուք չպէտք է շարունակէք։
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Կայքերն ապացուցում են իրենց ինքնութիւնը հաւաստագրերի միջոցով: { -brand-short-name } չի վստահում { $hostname }-ին, քանի որ դրա վկայագրի թողարկողն անյայտ է, վկայագիրը ինքնագիր է, կամ սպասարկիչը չի ուղարկում ճիշդ միջանկեալ վկայականներ։
@@ -47,7 +47,7 @@ cert-error-code-prefix-link = Սխալի կոդ՝ <a data-l10n-name="error-code-
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Կայքերը ապացուցում են իրենց ինքնութիւնը վկայականների միջոցով, որոնք թողարկուում են հաւաստագրման մարմինների կողմից։ Զննարկիչների մեծ մասը այլեւս չի վստահում GeoTrust-ի, RapidSSL-ի, Symantec-ի, Thawte-ի եւ VeriSign-ի կողմից թողարկած վկայագրերին։ { $hostname }-ը աւգտագործում է վկայագիր այս իշխանութիւններից որեւէ մեկի կողմից, ուստի կայքի ինքնութիւնը չի կարող ապացուցուել։
-cert-error-symantec-distrust-admin = Այս խնդրի մասին կարող եք տեղեկացնել կայքի համակարգաւարին։
+cert-error-symantec-distrust-admin = Այս խնդրի մասին կարող էք տեղեկացնել կայքի համակարգավարին։
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP խիստ փոխանցման անվտանգութիւն՝ { $hasHSTS }

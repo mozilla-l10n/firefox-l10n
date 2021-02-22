@@ -5,7 +5,7 @@
 
 ## These strings appear on the warning you see when first visiting about:config.
 
-about-config-intro-warning-title = Շարունակեք զգուշութեամբ
+about-config-intro-warning-title = Շարունակէք զգուշութեամբ
 about-config-intro-warning-text = Կազմաձեւի առաջատար նախընտրանքերի փոփոխութիւնը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգութեան վրաj:
 about-config-intro-warning-checkbox = Զգուշացրէք ինձ, երբ ես փորձում եմ մտնել այս նախընտրանքներ
 about-config-intro-warning-button = Ընդունել վտանգը եւ շարունակել
