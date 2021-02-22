@@ -44,6 +44,31 @@ pill-action-move-bcc =
 
 # Attachment widget
 
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Pannello de annexos
+    .accesskey = n
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Annexar
+    .tooltiptext = Adde un annexo ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Adder annexo…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = File(s)…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Annexar file(s)…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -66,11 +91,27 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Monstrar pannello de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Celar pannello de annexo ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Adder como annexo
+       *[other] Adder como annexos
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Appender in linea
+       *[other] Appender in linea
+    }
 
 # Reorder Attachment Panel
 
 move-attachment-first-panel-button =
     .label = Mover al primo
+move-attachment-left-panel-button =
+    .label = Mover a sinistra
+move-attachment-right-panel-button =
+    .label = Mover a dextera
+move-attachment-last-panel-button =
+    .label = Mover al ultimo
 button-return-receipt =
     .label = Quitantia
     .tooltiptext = Requirer un quitantia de retorno pro iste message

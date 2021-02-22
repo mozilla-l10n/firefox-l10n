@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } es un software gratuite e
 folder-pane-toolbar =
     .toolbarname = Barra del pannello de plicas
     .accesskey = p
+folder-pane-toolbar-options-button =
+    .tooltiptext = Columnas del pannello de plicas
 folder-pane-header-label = Plicas
 
 ## Folder Toolbar Header Popup
