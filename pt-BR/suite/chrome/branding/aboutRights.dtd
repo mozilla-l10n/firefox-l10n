@@ -58,7 +58,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Navegação Segura: ">
-<!ENTITY rights.safebrowsing-b "A desativação da Navegação Segura não é recomendada pois pode resultar no uso de sites inseguros. Caso deseje desativar totalmente este recurso, siga estes passos:">
+<!ENTITY rights.safebrowsing-b "Não é recomendado desativar a navegação segura, pois pode resultar no uso de sites não seguros. Se você quiser desativar totalmente este recurso, faça o seguinte:">
 <!ENTITY rights.safebrowsing-term1 "Abra as preferências do aplicativo">
 <!ENTITY rights.safebrowsing-term2 "Selecione o painel principal &security.label;">
 <!ENTITY rights.safebrowsing-term3 "Desmarque as opções &quot;&blockAttackSites.label;&quot; e &quot;&blockWebForgeries.label;&quot;">

@@ -28,9 +28,9 @@
 <!ENTITY warn.leavingsecure.accesskey       "S">
 
 <!ENTITY mixed.description                  "Páginas criptografadas podem conter conteúdo não criptografado que é vulnerável a espionagem ou fraudes. O &brandShortName; pode detectar e bloquear o seguinte:">
-<!ENTITY warn.mixedactivecontent            "Me alerte quando páginas criptografadas contiverem conteúdo inseguro">
+<!ENTITY warn.mixedactivecontent            "Me alerte quando páginas criptografadas contiverem conteúdo não seguro">
 <!ENTITY warn.mixedactivecontent.accesskey  "a">
-<!ENTITY block.activecontent                "Não carregue conteúdo inseguro em páginas criptografadas">
+<!ENTITY block.activecontent                "Não carregar conteúdo não seguro em páginas criptografadas">
 <!ENTITY block.activecontent.accesskey      "N">
 <!ENTITY warn.mixeddisplaycontent           "Me alerte quando páginas criptografadas contiverem outros tipos de conteúdos mesclados">
 <!ENTITY warn.mixeddisplaycontent.accesskey "c">
