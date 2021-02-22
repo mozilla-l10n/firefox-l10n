@@ -109,6 +109,12 @@ onboarding-browse-privately-button = Vierç un barcon privât
 onboarding-firefox-send-title = Ten privâts i tiei files condividûts
 onboarding-firefox-send-text2 = Cjarie i tiei files su { -send-brand-name } par condividiju cu la cifradure end-to-end (di une bande a chê altre) e un colegament che al scjât in automatic.
 onboarding-firefox-send-button = Prove { -send-brand-name }
+onboarding-mobile-phone-title = Instale { -brand-product-name } sul to telefon
+onboarding-mobile-phone-text = Discjarie { -brand-product-name } par iOS o Android e sincronize i tiei dâts cun ducj i tiei dispositîfs.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Discjarie il navigadôr mobil
+onboarding-send-tabs-title = Manditi daurman lis schedis
 
 ## Message strings belonging to the Return to AMO flow
 
