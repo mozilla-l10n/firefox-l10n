@@ -425,6 +425,7 @@ support-printing-prefs-value = Hodnota
 support-remote-experiments-title = Vzdálené experimenty
 support-remote-experiments-name = Název
 support-remote-experiments-branch = Větev experimentu
+support-remote-experiments-see-about-studies = Podrobnosti o experimentech { -brand-short-name(case: "gen") } a možnost je zakázat jednotlivě nebo celkově i do budoucna najdete na stránce <a data-l10n-name="support-about-studies-link">about:studies</a>.
 support-remote-features-title = Vzdálené funkce
 support-remote-features-name = Název
 support-remote-features-status = Stav
