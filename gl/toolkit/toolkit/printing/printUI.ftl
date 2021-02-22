@@ -39,6 +39,11 @@ printui-scale-pcent = Escala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impresión a dúas caras
 printui-duplex-checkbox = Imprimir polos dous lados
+printui-two-sided-printing-off = Apagado
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Virar polo bordo longo
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Virar polo bordo curto
 # Section title for miscellaneous print options
 printui-options = Opcións
 printui-headers-footers-checkbox = Imprimir cabeceiras e rodapés
@@ -96,6 +101,7 @@ printui-paper-tabloid = Tabloide
 
 printui-error-invalid-scale = A escala debe ser un número entre 10 e 200.
 printui-error-invalid-margin = Introduza unha marxe válida para o tamaño de páxina seleccionado.
+printui-error-invalid-copies = As copias deben estar entre o número 1 e o 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = O intervalo debe ser un número entre 1 e { $numPages }.
