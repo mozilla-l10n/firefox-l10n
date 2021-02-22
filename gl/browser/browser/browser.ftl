@@ -356,6 +356,8 @@ browser-tab-audio-playing2 = EN REPRODUCIÓN
 browser-tab-audio-muted2 = SILENCIADO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = AUTOREPRODUCIÓN BLOQUEADA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = IMAXE-A-IMAXE
 
 ## Bookmarks toolbar items
 
