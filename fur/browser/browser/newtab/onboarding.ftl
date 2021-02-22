@@ -99,6 +99,16 @@ onboarding-tracking-protection-button2 = Cemût funzional?
 onboarding-data-sync-title = Puarte lis tôs personalizazions cun te
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincronize i tiei segnelibris, lis passwords e tant altri dapardut là che tu dopris { -brand-product-name }.
+onboarding-data-sync-button2 = Jentre in { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Ten di voli lis violazions di dâts
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } al verifiche se la tô e-mail e je stade cjapade dentri di une violazion di dâts cognossude e ti vise se e ven fûr intune gnove violazion.
+onboarding-firefox-monitor-button = Iscriviti ai avîs
+onboarding-browse-privately-title = Navighe in maniere privade
+onboarding-browse-privately-text = La navigazion privade e nete la tô cronologjie di ricercje e di navigazion par fâ in mût che e resti segrete a ducj chei che a doprin il to computer.
+onboarding-browse-privately-button = Vierç un barcon privât
+onboarding-firefox-send-title = Ten privâts i tiei files condividûts
+onboarding-firefox-send-text2 = Cjarie i tiei files su { -send-brand-name } par condividiju cu la cifradure end-to-end (di une bande a chê altre) e un colegament che al scjât in automatic.
+onboarding-firefox-send-button = Prove { -send-brand-name }
 
 ## Message strings belonging to the Return to AMO flow
 
