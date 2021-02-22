@@ -72,7 +72,7 @@ urlbar-geolocation-notification-anchor =
 urlbar-xr-notification-anchor =
     .tooltiptext = Բացեք թուացեալ իրականութեան թոյլտուութեան վահանակը
 urlbar-storage-access-anchor =
-    .tooltiptext = Բացեք զննող գործունեութեան թոյլտուութեան վահանակը
+    .tooltiptext = Բացէք դիտարկման գործողութեանն առնչուող թոյլտուութեան վահանակը
 urlbar-translate-notification-anchor =
     .tooltiptext = Թարգմանել այս էջը
 urlbar-web-rtc-share-screen-notification-anchor =
@@ -432,7 +432,7 @@ urlbar-placeholder-with-name =
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Դիտարկիչը հեռակառավարուում է
 urlbar-permissions-granted =
-    .tooltiptext = Դուք տրամադրել եք այս կայքէջին լրացուցիչ թոյլտուութիւններ։
+    .tooltiptext = Դուք տրամադրել էք այս կայքէջին լրացուցիչ թոյլտուութիւններ։
 urlbar-switch-to-tab =
     .value = Անցնել ներդիրի՝
 # Used to indicate that a selected autocomplete entry is provided by an extension.
