@@ -403,3 +403,9 @@ support-printing-clear-settings-button = Fjern lagra utskriftsinnstillingar
 support-printing-modified-settings = Endra utskriftsinnstillingar
 support-printing-prefs-name = Namn
 support-printing-prefs-value = Verdi
+
+## Normandy sections
+
+support-remote-experiments-name = Namn
+support-remote-features-name = Namn
+support-remote-features-status = Status
