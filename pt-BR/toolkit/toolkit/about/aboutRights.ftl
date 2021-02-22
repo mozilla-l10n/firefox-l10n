@@ -14,7 +14,7 @@ rights-intro-point-5-unbranded = Se este produto incorporar serviços web, quais
 rights-intro-point-6 = Para poder reproduzir alguns tipos de vídeo, o { -brand-short-name } baixa alguns módulos de terceiros para decodificar o conteúdo.
 rights-webservices-header = Serviços de informação do { -brand-full-name } baseados na web
 rights-webservices = O { -brand-full-name } usa serviços de informações baseados na web ("Serviços") para fornecer algumas funcionalidades para seu uso com esta versão binária do { -brand-short-name } de acordo com os termos descritos abaixo. Se não quiser usar um ou mais Serviços ou não aceitar os termos a seguir, você pode desativar funcionalidades e Serviços. Instruções sobre como desativar uma funcionalidade ou Serviço em particular podem ser encontradas <a data-l10n-name="mozilla-disable-service-link">aqui</a>. Outras funcionalidades e Serviços podem ser desativados nas preferências da aplicação.
-rights-safebrowsing = <strong>Navegação segura: </strong>Desabilitar a navegação segura não é recomendada pois pode resultar no uso de sites inseguros.  Caso deseje desabilitar totalmente esta funcionalidade, siga estes passos:
+rights-safebrowsing = <strong>Navegação segura: </strong>Não é recomendado desativar a navegação segura, pois pode resultar em seguir para sites não seguros. Se você quiser desativar totalmente esta funcionalidade, faça o seguinte:
 rights-safebrowsing-term-1 = Abra as preferências do aplicativo
 rights-safebrowsing-term-2 = Selecione o painel Segurança
 rights-safebrowsing-term-3 = Desmarque a opção "{ enableSafeBrowsing-label }"
