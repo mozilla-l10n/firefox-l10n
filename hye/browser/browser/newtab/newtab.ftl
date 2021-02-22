@@ -183,7 +183,7 @@ newtab-section-header-pocket = Առաջարկուում է { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Սկսէք զննարկել եւ մենք կը ցուցադրենք հիանալի յաւդուածներ, տեսանիւթեր եւ այլ էջեր, որ այցելել կամ էջանշել էք վերջերս։
+newtab-empty-section-highlights = Սկսէք դիտարկել եւ մենք կը ցուցադրենք որոշ հիանալի յաւդուածներ, տեսանիւթեր եւ այլ էջեր, որ դուք այցելել կամ էջանշել էք վերջերս։
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
