@@ -40,10 +40,10 @@ printui-scale-pcent = Schaal
 printui-two-sided-printing = Dubbelzijdig afdrukken
 printui-duplex-checkbox = Op beide zijden afdrukken
 printui-two-sided-printing-off = Uit
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Draaien op zijkant
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Draaien op bovenkant
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Draaien op lange zijde
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Draaien op korte zijde
 # Section title for miscellaneous print options
 printui-options = Opties
 printui-headers-footers-checkbox = Kop- en voetteksten afdrukken
