@@ -102,8 +102,8 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Xestionar o historial
-appmenu-reopen-all-tabs = Volve abrir todas as lapelas
-appmenu-reopen-all-windows = Volve abrir todas as xanelas
+appmenu-reopen-all-tabs = Volver abrir todas as lapelas
+appmenu-reopen-all-windows = Volver abrir todas as xanelas
 
 ## Help panel
 
