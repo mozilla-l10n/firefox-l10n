@@ -406,3 +406,9 @@ support-printing-clear-settings-button = Opgeslagen afdrukinstellingen wissen
 support-printing-modified-settings = Gewijzigde afdrukinstellingen
 support-printing-prefs-name = Naam
 support-printing-prefs-value = Waarde
+
+## Normandy sections
+
+support-remote-experiments-name = Naam
+support-remote-features-name = Naam
+support-remote-features-status = Status
