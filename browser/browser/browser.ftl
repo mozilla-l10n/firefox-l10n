@@ -350,6 +350,12 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Reproducindo
 browser-tab-audio-muted = Silenciado
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = EN REPRODUCIÓN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = SILENCIADO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOREPRODUCIÓN BLOQUEADA
 
 ## Bookmarks toolbar items
 
