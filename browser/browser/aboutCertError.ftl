@@ -7,7 +7,7 @@
 cert-error-intro = O servidor { $hostname } usa um certificado de segurança inválido.
 cert-error-mitm-intro = Sites comprovam a própria identidade através de certificados, que são emitidos por autoridades certificadoras.
 cert-error-mitm-mozilla = O { -brand-short-name } é respaldado pela Mozilla, entidade sem fins lucrativos, que administra um armazenamento de autoridades certificadoras (CA) completamente aberto. O armazenamento de autoridades certificadoras ajuda a garantir que elas estão seguindo as melhores práticas para segurança dos usuários.
-cert-error-mitm-connection = O { -brand-short-name } usa o armazenamento de autoridades certificadoras da Mozilla para verificar se uma conexão é segura, em vez de certificados fornecidos pelo sistema operacional do usuário. Portanto, se um programa antivírus ou uma rede estiver interceptando uma conexão com um certificado de segurança emitido por uma autoridade certificadora que não esteja no armazenamento da Mozilla, a conexão será considerada insegura.
+cert-error-mitm-connection = O { -brand-short-name } usa o armazenamento de autoridades certificadoras da Mozilla para verificar se uma conexão é segura, em vez de certificados fornecidos pelo sistema operacional do usuário. Portanto, se um programa antivírus ou uma rede estiver interceptando uma conexão com um certificado de segurança emitido por uma autoridade certificadora que não esteja no armazenamento da Mozilla, a conexão será considerada não segura.
 cert-error-trust-unknown-issuer-intro = Alguém pode estar tentando imitar o site, você não deve continuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
@@ -78,7 +78,7 @@ netInterrupt-title = A conexão foi interrompida
 notCached-title = Documento fora de validade
 netOffline-title = Modo offline
 contentEncodingError-title = Erro de codificação de conteúdo
-unsafeContentType-title = Tipo de arquivo inseguro
+unsafeContentType-title = Tipo de arquivo não seguro
 netReset-title = A conexão foi reiniciada
 netTimeout-title = A conexão expirou
 unknownProtocolFound-title = O endereço não foi compreendido
