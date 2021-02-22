@@ -43,7 +43,6 @@ onboarding-join-form-signin-label = כבר יש לך חשבון?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = כניסה
 onboarding-start-browsing-button-label = התחלת גלישה
-onboarding-not-now-button-label = לא כעת
 onboarding-cards-dismiss =
     .title = הסרה
     .aria-label = הסרה
@@ -85,6 +84,60 @@ onboarding-benefit-monitor-text = קבלת התרעה כאשר המידע האי
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = ניהול ססמאות בצורה מאובטחת וניידת.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = הגנה מפני מעקב
+onboarding-tracking-protection-text2 = { -brand-short-name } מסייע למנוע מאתרים לעקוב אחריך ברשת, ומקשה על מודעות לעקוב אחריך ברחבי האינטרנט.
+onboarding-tracking-protection-button2 = איך זה עובד
+onboarding-data-sync-title = ההגדרות שלך הולכות אתך
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = סנכרון הסימניות, הססמאות ופריטים נוספים שלך בכל מקום בו יש לך את { -brand-product-name }.
+onboarding-data-sync-button2 = כניסה ל־{ -sync-brand-short-name }
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } בודק אם הדוא״ל שלך נחשף בדליפת נתונים מוכרת ומתריע לך אם הוא נחשף בדליפה חדשה.
+onboarding-firefox-monitor-button = הרשמה להתרעות
+onboarding-browse-privately-title = גלישה בפרטיות
+onboarding-browse-privately-text = גלישה פרטית מנקה את היסטוריית החיפוש והגלישה שלך כדי לשמור עליה בסוד מכל מי שמשתמש במחשב שלך.
+onboarding-browse-privately-button = פתיחת חלון פרטי
+onboarding-firefox-send-text2 = ניתן להעלות את הקבצים שלך אל { -send-brand-name } כדי לשתף אותם עם הצפנה מקצה לקצה וקישור שפג באופן אוטומטי.
+onboarding-firefox-send-button = לנסות את { -send-brand-name }
+onboarding-mobile-phone-title = קבלת { -brand-product-name } לטלפון שלך
+onboarding-mobile-phone-text = ניתן להוריד את { -brand-product-name } עבור iOS או Android ולסנכרן את הנתונים שלך בין מכשירים.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = הורדת דפדפן לנייד
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = שיתוף פשוט של דפים בין המכשירים שלך מבלי להעתיק את הקישורים או לעזוב את הדפדפן.
+onboarding-send-tabs-button = התחלת שימוש ב־Send Tabs
+onboarding-pocket-anywhere-title = לקרוא ולהקשיב בכל מקום
+onboarding-pocket-anywhere-text2 = ניתן לשמור את התכנים המועדפים עליך באופן לא מקוון עם { -pocket-brand-name } ולקרוא, לשמוע ולצפות בהם מתי שנוח לך.
+onboarding-pocket-anywhere-button = לנסות את { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = יצירה ואחסון ססמאות חזקות
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } יוצר ססמאות חזקות ושומר את כולן במקום אחד.
+onboarding-lockwise-strong-passwords-button = ניהול הכניסות שלך
+onboarding-facebook-container-title = הגדרת גבולות מול Facebook
+onboarding-facebook-container-button = הוספת ההרחבה
+onboarding-import-browser-settings-title = ייבוא הסימניות והססמאות שלך, ועוד
+onboarding-import-browser-settings-button = ייבוא נתוני Chrome
+onboarding-personal-data-promise-title = פרטיות מהיסודות
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = מצוין, השגת לך את { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = כעת הבה נשיג לך את <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = הוספת ההרחבה
+return-to-amo-get-started-button = תחילת עבודה עם { -brand-short-name }
+onboarding-not-now-button-label = לא כעת
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = מצוין, השגת לך את { -brand-short-name }
@@ -104,6 +157,12 @@ onboarding-multistage-welcome-subtitle = הדפדפן המהיר, הבטוח ו�
 onboarding-multistage-welcome-primary-button-label = תחילת עבודה
 onboarding-multistage-welcome-secondary-button-label = כניסה
 onboarding-multistage-welcome-secondary-button-text = כבר יש לך חשבון?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = להפוך את { -brand-short-name } <span data-l10n-name="zap">לברירת המחדל</span> שלך
+onboarding-multistage-set-default-subtitle = מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
+onboarding-multistage-set-default-primary-button-label = הגדרה כדפדפן ברירת מחדל
+onboarding-multistage-set-default-secondary-button-label = לא כעת
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = ייבוא הססמאות והסימניות שלך, <span data-l10n-name="zap">ועוד</span>
@@ -179,56 +238,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         שימוש בתצוגה צבעונית עבור כפתורים,
         תפריטים וחלונות.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = הגנה מפני מעקב
-onboarding-tracking-protection-text2 = { -brand-short-name } מסייע למנוע מאתרים לעקוב אחריך ברשת, ומקשה על מודעות לעקוב אחריך ברחבי האינטרנט.
-onboarding-tracking-protection-button2 = איך זה עובד
-onboarding-data-sync-title = ההגדרות שלך הולכות אתך
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = סנכרון הסימניות, הססמאות ופריטים נוספים שלך בכל מקום בו יש לך את { -brand-product-name }.
-onboarding-data-sync-button2 = כניסה ל־{ -sync-brand-short-name }
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } בודק אם הדוא״ל שלך נחשף בדליפת נתונים מוכרת ומתריע לך אם הוא נחשף בדליפה חדשה.
-onboarding-firefox-monitor-button = הרשמה להתרעות
-onboarding-browse-privately-title = גלישה בפרטיות
-onboarding-browse-privately-text = גלישה פרטית מנקה את היסטוריית החיפוש והגלישה שלך כדי לשמור עליה בסוד מכל מי שמשתמש במחשב שלך.
-onboarding-browse-privately-button = פתיחת חלון פרטי
-onboarding-firefox-send-text2 = ניתן להעלות את הקבצים שלך אל { -send-brand-name } כדי לשתף אותם עם הצפנה מקצה לקצה וקישור שפג באופן אוטומטי.
-onboarding-firefox-send-button = לנסות את { -send-brand-name }
-onboarding-mobile-phone-title = קבלת { -brand-product-name } לטלפון שלך
-onboarding-mobile-phone-text = ניתן להוריד את { -brand-product-name } עבור iOS או Android ולסנכרן את הנתונים שלך בין מכשירים.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = הורדת דפדפן לנייד
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = שיתוף פשוט של דפים בין המכשירים שלך מבלי להעתיק את הקישורים או לעזוב את הדפדפן.
-onboarding-send-tabs-button = התחלת שימוש ב־Send Tabs
-onboarding-pocket-anywhere-title = לקרוא ולהקשיב בכל מקום
-onboarding-pocket-anywhere-text2 = ניתן לשמור את התכנים המועדפים עליך באופן לא מקוון עם { -pocket-brand-name } ולקרוא, לשמוע ולצפות בהם מתי שנוח לך.
-onboarding-pocket-anywhere-button = לנסות את { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = יצירה ואחסון ססמאות חזקות
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } יוצר ססמאות חזקות ושומר את כולן במקום אחד.
-onboarding-lockwise-strong-passwords-button = ניהול הכניסות שלך
-onboarding-facebook-container-title = הגדרת גבולות מול Facebook
-onboarding-facebook-container-button = הוספת ההרחבה
-onboarding-import-browser-settings-title = ייבוא הסימניות והססמאות שלך, ועוד
-onboarding-import-browser-settings-button = ייבוא נתוני Chrome
-onboarding-personal-data-promise-title = פרטיות מהיסודות
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = מצוין, השגת לך את { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = כעת הבה נשיג לך את <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = הוספת ההרחבה
-return-to-amo-get-started-button = תחילת עבודה עם { -brand-short-name }
