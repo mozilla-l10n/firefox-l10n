@@ -277,7 +277,7 @@ bookmark-panel =
 
 ## Identity Panel
 
-identity-connection-not-secure = Conexão insegura
+identity-connection-not-secure = Conexão não segura
 identity-connection-secure = Conexão segura
 identity-connection-internal = Esta é uma página segura do { -brand-short-name }.
 identity-connection-file = Esta página está armazenada no seu computador.

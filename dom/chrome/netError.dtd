@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "<p>A página que você está tentando ver não pode ser exibida porque usa uma forma de compactação não suportada ou inválida.</p><ul><li>Entre em contato com os responsáveis pelo site para informar o problema.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Tipo de arquivo inseguro">
+<!ENTITY unsafeContentType.title "Tipo de arquivo não seguro">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
 </ul>">
