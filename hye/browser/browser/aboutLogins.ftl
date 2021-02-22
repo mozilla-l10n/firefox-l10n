@@ -7,7 +7,7 @@ about-logins-page-title = Մուտքանուններ եւ գաղտնաբառեր
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Կրիր գաղտնաբառերդ միշտ քեզ հետ
+login-app-promo-title = Ունեցէք ձեր գաղտնաբառերն ամենուր ձեզ հետ
 login-app-promo-subtitle = Ձեռք բերել անվճար { -lockwise-brand-name } յաւելուուածը
 login-app-promo-android =
     .alt = Ձեռք բերել Google Play-ից
@@ -317,3 +317,6 @@ about-logins-import-dialog-error-no-logins-imported = Մտից անուններ 
 about-logins-import-dialog-error-learn-more = Իմանալ աւելին
 about-logins-import-dialog-error-try-again = Կրկին փորձէք…
 about-logins-import-dialog-error-cancel = Չեղարկել
+
+## Logins import report page
+

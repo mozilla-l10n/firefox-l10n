@@ -112,7 +112,7 @@ cfr-whatsnew-tracking-blocked-link-text = Դիտել զեկոյցը
 cfr-whatsnew-lockwise-backup-title = Կրկնաւրինակել Ձեր գաղտնաբառերը
 cfr-whatsnew-lockwise-backup-body = Այժմ ստեղծեք անուտանգ գաղտնաբառեր, որոնցից կարող եք մուտք գործել ցանկացած մուտք։
 cfr-whatsnew-lockwise-backup-link-text = Միացնել կրկնաւրինակումները
-cfr-whatsnew-lockwise-take-title = Վերցրեք Ձեր գաղտնաբառերը Ձեզ հետ
+cfr-whatsnew-lockwise-take-title = Ունեցէք ձեր գաղտնաբառերը  ձեզ հետ
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } բջջային հաւելուածը հնարաւորութիւն է տալիս ապահով կերպով մուտք գործել Ձեր կրկնաւրինակուած գաղտնաբառերը ցանկացած վայրից։
 cfr-whatsnew-lockwise-take-link-text = Ստանալ հաւելուածը
 
