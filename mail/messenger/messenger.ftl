@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } is vrije en opensourcesof
 folder-pane-toolbar =
     .toolbarname = Mappenpaneelwerkbalk
     .accesskey = w
+folder-pane-toolbar-options-button =
+    .tooltiptext = Mappenpaneelopties
 folder-pane-header-label = Mappen
 
 ## Folder Toolbar Header Popup
