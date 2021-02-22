@@ -198,7 +198,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
-        [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמו{ -fxaccount-brand-name }פיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
+        [one] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
        *[other] פעולה זו תסיר את כל הכניסות ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים ל{ -fxaccount-brand-name(case: "the") } שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
     }
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
