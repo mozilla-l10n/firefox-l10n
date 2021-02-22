@@ -403,3 +403,13 @@ support-printing-clear-settings-button = Limpar a configuración de impresión g
 support-printing-modified-settings = Configuración de impresión modificada
 support-printing-prefs-name = Nome
 support-printing-prefs-value = Valor
+
+## Normandy sections
+
+support-remote-experiments-title = Experimentos remotos
+support-remote-experiments-name = Nome
+support-remote-experiments-branch = Ramificación experimental
+support-remote-experiments-see-about-studies = Vexa<a data-l10n-name="support-about-studies-link">about:studies</a> para máis información, que inclúe como desactivar experimentos individuais ou desactivar a { -brand-short-name } para que non execute este tipo de experimentos no futuro.
+support-remote-features-title = Características remotas
+support-remote-features-name = Nome
+support-remote-features-status = Status
