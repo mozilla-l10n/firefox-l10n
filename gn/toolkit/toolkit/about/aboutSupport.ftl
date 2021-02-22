@@ -403,3 +403,11 @@ support-printing-clear-settings-button = Emboguete ñemoĩporã monguatiagua ño
 support-printing-modified-settings = Ñemoĩporã monguatiagua moabuepyre
 support-printing-prefs-name = Téra
 support-printing-prefs-value = Tepykue
+
+## Normandy sections
+
+support-remote-experiments-title = Okayguágui jehekapyahu
+support-remote-experiments-name = Téra
+support-remote-experiments-branch = Jehekapyahu rehegua
+support-remote-features-name = Téra
+support-remote-features-status = Tekotee
