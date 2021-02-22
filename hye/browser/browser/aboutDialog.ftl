@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Ստուգել թարմացումները
     .accesskey = Ս
 update-updateButton =
-    .label = Վերամեկնարկեք՝ { -brand-shorter-name }-ը թարմացնելու համար
+    .label = Վերամեկնարկէք՝ { -brand-shorter-name }-ը թարմացնելու համար
     .accesskey = R
 update-checkingForUpdates = Ստուգուում է թարմացումները
 update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում — <label data-l10n-name="download-status"/>
