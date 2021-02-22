@@ -629,7 +629,7 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = Տարէք ձեր վեբը ձեզ հետ
+sync-signedout-caption = Ունեցէք ձեր ոստայնը ձեզ հետ
 sync-signedout-description = Համաժամեցրեք Ձեր բոլոր էջանիշերը, պատմութիւնը, ներդիրները, գաղտնաբառերը, յաւելումները եւ կարգաւորումները Ձեր բոլոր սարքերի միջեւ:
 sync-signedout-account-signin2 =
     .label = Մուտք գործել { -sync-brand-short-name }…

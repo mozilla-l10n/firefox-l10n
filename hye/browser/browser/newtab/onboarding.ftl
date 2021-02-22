@@ -80,7 +80,7 @@ onboarding-benefit-products-text = Աւարտեք գործերը աւգտագո�
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Այն ամէնն, ինչ մենք անում ենք, համապատասխանում է մեր «Անձնական տուեալների խոստմանը»։ Քիչ վերցնել։ Ապահով պահել։ Ոչ մի գաղտնիք։
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Վերցրեք Ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, որտեղ աւգտագործում եք { -brand-product-name }։
+onboarding-benefit-sync-text = Ունեցէք ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, ամենուր, որտեղ աւգտագործում էք { -brand-product-name }֊ը։
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Տեղեկացեք, երբ Ձեր անձնական տեղեկութիւնները յայտնի տուեալների խախտման մէջ են։
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
@@ -96,7 +96,7 @@ onboarding-benefit-lockwise-text = Կառավարեք գաղտնաբառերը, 
 onboarding-tracking-protection-title2 = Պաշտպանութիւն հետեւելուց
 onboarding-tracking-protection-text2 = { -brand-short-name }-ը աւգնում է դադարեցնել կայքերից Ձեզ առցանց հետեւելը, ինչը բարդեցնում է գովազդների հետապնդումը։
 onboarding-tracking-protection-button2 = Ինչպէս է դա աշխատում
-onboarding-data-sync-title = Վերցրեք Ձեր կարգաւորումները Ձեզ հետ
+onboarding-data-sync-title = Ունեցէք ձեր կարգաւորումները  ձեզ հետ
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Համաժամեցրեք Ձեր էջանիշները, գաղտնաբառերը եւ աւելին, որտեղ դուք աւգտագործում եք { -brand-product-name }։
 onboarding-data-sync-button2 = Մուտք գործել { -sync-brand-short-name }

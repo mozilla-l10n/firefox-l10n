@@ -63,7 +63,7 @@ protection-report-save-passwords-button = Պահպանել գաղտնաբառե�
     .title = Պահպանել գաղտնաբառերը { -lockwise-brand-short-name }-ում
 protection-report-manage-passwords-button = Կառավարել գաղտնաբառերը
     .title = Կառավարել գաղտնաբառերը { -lockwise-brand-short-name }-ում
-lockwise-mobile-app-title = Կրիր գաղտնաբառերդ միշտ քեզ հետ
+lockwise-mobile-app-title = Ունեցէք ձեր գաղտնաբառերը ամենուր
 lockwise-no-logins-card-content = Աւգտագործէք { -brand-short-name } -ում պահպանուած գաղտնաբառերը ցանկացած սարքում:
 lockwise-app-links = { -lockwise-brand-name }-ը <a data-l10n-name="lockwise-android-inline-link">Android</a> եւ <a data-l10n-name="lockwise-ios-inline-link">iOS</a>-յի համար
 # Variables:

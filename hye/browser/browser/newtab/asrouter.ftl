@@ -155,7 +155,7 @@ cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } կարող
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Ստացեք այս էջանիշը Ձեր հեռախաւսի վրայ
-cfr-doorhanger-sync-bookmarks-body = Վերցնել Ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, որտեղ Դուք մուտք եք գործել { -brand-product-name }։
+cfr-doorhanger-sync-bookmarks-body = Ունեցէք ձեր էջանիշները, գաղտնաբառերը, պատմութիւնը եւ աւելին, ամենուր, որտեղ գրանցուած էք { -brand-product-name }֊ում։
 cfr-doorhanger-sync-bookmarks-ok-button = Միացնել { -sync-brand-short-name }
     .accesskey = T
 
