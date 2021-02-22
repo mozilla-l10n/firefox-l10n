@@ -372,3 +372,7 @@ support-printing-prefs-value = ערך
 support-remote-experiments-title = ניסויים מרוחקים
 support-remote-experiments-name = שם
 support-remote-experiments-branch = ענף ניסוי
+support-remote-experiments-see-about-studies = ניתן להיכנס ל־<a data-l10n-name="support-about-studies-link">about:studies</a> למידע נוסף, כולל האפשרות להשבית ניסויים או למנוע מ־{ -brand-short-name } להריץ את אותו הסוג של הניסוי בעתיד.
+support-remote-features-title = תכונות מרוחקות
+support-remote-features-name = שם
+support-remote-features-status = מצב

@@ -97,6 +97,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = קנה המידה חייב להיות מספר בין 10 ל־200.
 printui-error-invalid-margin = נא להזין שוליים תקפים לגודל הנייר שנבחר.
+printui-error-invalid-copies = מספר העותקים חייב להיות בין 1 ל־10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = הטווח חייב להיות מספר בין 1 ל־{ $numPages }.
