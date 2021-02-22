@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Hawwe jo al in account?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Oanmelde
 onboarding-start-browsing-button-label = Begjinne mei sneupen
-onboarding-not-now-button-label = No net
 onboarding-cards-dismiss =
     .title = Fuortsmite
     .aria-label = Fuortsmite
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Untfang in melding wannear jo persoanlike gege
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Behear wachtwurden dy't beskerme en draachber binne.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Beskerming tsjin folgjen
+onboarding-tracking-protection-text2 = { -brand-short-name } helpt foar te kommen dat websites jo online folgje, wêrtroch it foar advertinsjes swierder wurdt om jo op it web te folgjen.
+onboarding-tracking-protection-button2 = Hoe't it wurket
+onboarding-data-sync-title = Nim jo ynstellingen mei jo mei
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Syngronisearje jo blêdwizers, wachtwurden en mear, oeral wêr't jo { -brand-product-name } brûke.
+onboarding-data-sync-button2 = Oanmelde by { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Bliuw alert op datalekken
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } hâldt yn de gaten oft jo e-mailadres foar komt yn in bekend datalek en warskôget jo as dit yn in nij lek ferskynt.
+onboarding-firefox-monitor-button = Ynskriuwe foar warskôgingen
+onboarding-browse-privately-title = Privee sneupe
+onboarding-browse-privately-text = Priveenavigaasje wisket jo syk- en navigaasjeskiednis, om dit geheim te hâlden foar elkenien dy't jo kompjûter brûkt.
+onboarding-browse-privately-button = Iepenje in priveefinster
+onboarding-firefox-send-title = Hâld jo dielde bestannen privee
+onboarding-firefox-send-text2 = Laad jo bestannen op nei { -send-brand-name } om se te dielen mei end-to-endfersifering en in keppeling dy't automatysk ferrint.
+onboarding-firefox-send-button = Probearje { -send-brand-name }
+onboarding-mobile-phone-title = Download { -brand-product-name } nei jo telefoan
+onboarding-mobile-phone-text = Download { -brand-product-name } foar iOS of Android en syngronisearje jo gegevens op ferskate apparaten.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Download de browser foar mobyl
+onboarding-send-tabs-title = Stjoer josels daliks ljepblêden
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Diel ienfâldich siden tusken jo apparaten sûnder keppelingen hoege te kopiearjen of de browser te ferlitten.
+onboarding-send-tabs-button = Start mei it gebrûk fan Send Tabs
+onboarding-pocket-anywhere-title = Lês en harkje oeral
+onboarding-pocket-anywhere-text2 = Bewarje jo favorite ynhâld offline mei de { -pocket-brand-name }-app en lês, harkje en sjoch wannear't it jo útkomt.
+onboarding-pocket-anywhere-button = Probearje { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Sterke wachtwurden meitsje en beheare
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } makket daliks sterke wachtwurden en bewarret se allegearre op ien plak.
+onboarding-lockwise-strong-passwords-button = Jo oanmeldingen beheare
+onboarding-facebook-container-title = Stel grinzen oan Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } hâldt jo profyl skieden fan al it oare, wêrtroch Facebook jo swierder mei advertinsjes efterfolgje kin.
+onboarding-facebook-container-button = De útwreiding tafoegje
+onboarding-import-browser-settings-title = Ymportearje jo blêdwizers, wachtwurden en mear
+onboarding-import-browser-settings-text = Dûk der daliks yn – nim ienfâldich jo Chrome-siden en -ynstellingen mei.
+onboarding-import-browser-settings-button = Chrome-gegevens ymportearje
+onboarding-personal-data-promise-title = Untwurpen foar privee
+onboarding-personal-data-promise-text = { -brand-product-name } behannelet jo gegevens mei respekt troch der minder te freegjen, se te beskermjen en dúdlik te wêzen oer hoe't wy se brûke.
+onboarding-personal-data-promise-button = Lês ús belofte
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Geweldich, jo hawwe { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Litte wy no <icon></icon><b>{ $addon-name }</b> ophelje.
+return-to-amo-extension-button = De útwreiding tafoegje
+return-to-amo-get-started-button = Begjinne mei { -brand-short-name }
+onboarding-not-now-button-label = No net
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Geweldich, jo hawwe { -brand-short-name }
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = De flugge, feilige en priveebrowser dy'
 onboarding-multistage-welcome-primary-button-label = Ynstellen starte
 onboarding-multistage-welcome-secondary-button-label = Oanmelde
 onboarding-multistage-welcome-secondary-button-text = Hawwe jo in account?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name } as jo <span data-l10n-name="zap">standertbrowser</span> ynstelle
+onboarding-multistage-set-default-subtitle = Snelheid, feilichheid en privacy, hieltyd as jo surfe.
+onboarding-multistage-set-default-primary-button-label = Standert meitsje
+onboarding-multistage-set-default-secondary-button-label = No net
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Ymportearje jo wachtwurden, blêdwizers en <span data-l10n-name = "zap">mear</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         In kleurich uterlik brûke foar knoppen,
         menu‘s en finsters.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Beskerming tsjin folgjen
-onboarding-tracking-protection-text2 = { -brand-short-name } helpt foar te kommen dat websites jo online folgje, wêrtroch it foar advertinsjes swierder wurdt om jo op it web te folgjen.
-onboarding-tracking-protection-button2 = Hoe't it wurket
-onboarding-data-sync-title = Nim jo ynstellingen mei jo mei
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Syngronisearje jo blêdwizers, wachtwurden en mear, oeral wêr't jo { -brand-product-name } brûke.
-onboarding-data-sync-button2 = Oanmelde by { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Bliuw alert op datalekken
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } hâldt yn de gaten oft jo e-mailadres foar komt yn in bekend datalek en warskôget jo as dit yn in nij lek ferskynt.
-onboarding-firefox-monitor-button = Ynskriuwe foar warskôgingen
-onboarding-browse-privately-title = Privee sneupe
-onboarding-browse-privately-text = Priveenavigaasje wisket jo syk- en navigaasjeskiednis, om dit geheim te hâlden foar elkenien dy't jo kompjûter brûkt.
-onboarding-browse-privately-button = Iepenje in priveefinster
-onboarding-firefox-send-title = Hâld jo dielde bestannen privee
-onboarding-firefox-send-text2 = Laad jo bestannen op nei { -send-brand-name } om se te dielen mei end-to-endfersifering en in keppeling dy't automatysk ferrint.
-onboarding-firefox-send-button = Probearje { -send-brand-name }
-onboarding-mobile-phone-title = Download { -brand-product-name } nei jo telefoan
-onboarding-mobile-phone-text = Download { -brand-product-name } foar iOS of Android en syngronisearje jo gegevens op ferskate apparaten.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Download de browser foar mobyl
-onboarding-send-tabs-title = Stjoer josels daliks ljepblêden
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Diel ienfâldich siden tusken jo apparaten sûnder keppelingen hoege te kopiearjen of de browser te ferlitten.
-onboarding-send-tabs-button = Start mei it gebrûk fan Send Tabs
-onboarding-pocket-anywhere-title = Lês en harkje oeral
-onboarding-pocket-anywhere-text2 = Bewarje jo favorite ynhâld offline mei de { -pocket-brand-name }-app en lês, harkje en sjoch wannear't it jo útkomt.
-onboarding-pocket-anywhere-button = Probearje { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Sterke wachtwurden meitsje en beheare
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } makket daliks sterke wachtwurden en bewarret se allegearre op ien plak.
-onboarding-lockwise-strong-passwords-button = Jo oanmeldingen beheare
-onboarding-facebook-container-title = Stel grinzen oan Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } hâldt jo profyl skieden fan al it oare, wêrtroch Facebook jo swierder mei advertinsjes efterfolgje kin.
-onboarding-facebook-container-button = De útwreiding tafoegje
-onboarding-import-browser-settings-title = Ymportearje jo blêdwizers, wachtwurden en mear
-onboarding-import-browser-settings-text = Dûk der daliks yn – nim ienfâldich jo Chrome-siden en -ynstellingen mei.
-onboarding-import-browser-settings-button = Chrome-gegevens ymportearje
-onboarding-personal-data-promise-title = Untwurpen foar privee
-onboarding-personal-data-promise-text = { -brand-product-name } behannelet jo gegevens mei respekt troch der minder te freegjen, se te beskermjen en dúdlik te wêzen oer hoe't wy se brûke.
-onboarding-personal-data-promise-button = Lês ús belofte
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Geweldich, jo hawwe { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Litte wy no <icon></icon><b>{ $addon-name }</b> ophelje.
-return-to-amo-extension-button = De útwreiding tafoegje
-return-to-amo-get-started-button = Begjinne mei { -brand-short-name }

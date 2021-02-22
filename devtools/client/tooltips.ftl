@@ -31,6 +31,7 @@ inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }<
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> hat gjin effekt op ynterne tabeleleminten.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> hat gjin effekt op ynterne tabeleleminten, útsein op tabelsellen.
 inactive-css-not-table = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it gjin tabel is.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it net skowt.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,6 +54,7 @@ inactive-css-not-for-internal-table-elements-fix = Probearje de property <strong
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Probearje de property <strong>display</strong> op wat oars as <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> of <strong>table-footer-group</strong> yn te stellen. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Probearje de eigenskip <strong>outline-style</strong> op wat oars as <strong>auto</strong> of <strong>none</strong> yn te stellen. { learn-more }
 inactive-css-not-table-fix = Probearje <strong>display:flex</strong> of <strong>display:inline-table</strong> ta te foegjen. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Probearje <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> of <strong>overflow:hidden</strong> ta te foegjen. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
