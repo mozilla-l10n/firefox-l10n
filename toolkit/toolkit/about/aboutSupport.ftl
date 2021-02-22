@@ -409,6 +409,10 @@ support-printing-prefs-value = Waarde
 
 ## Normandy sections
 
+support-remote-experiments-title = Externe experimenten
 support-remote-experiments-name = Naam
+support-remote-experiments-branch = Experimenttak
+support-remote-experiments-see-about-studies = Zie <a data-l10n-name="support-about-studies-link">about:studies</a> voor meer informatie, waaronder hoe u individuele experimenten uit kunt schakelen of kunt voorkomen dat { -brand-short-name } dit soort experimenten in de toekomst uitvoert.
+support-remote-features-title = Externe functies
 support-remote-features-name = Naam
 support-remote-features-status = Status
