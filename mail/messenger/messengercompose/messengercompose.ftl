@@ -41,6 +41,16 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Sposta in Ccn
     .accesskey = n
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -59,6 +69,9 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+
+# Reorder Attachment Panel
+
 button-return-receipt =
     .label = Ricevuta
     .tooltiptext = Richiedi una ricevuta di ritorno per questo messaggio
