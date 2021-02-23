@@ -41,6 +41,34 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Spustar a «bcc»
     .accesskey = b
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Zona d'agiuntas
+    .accesskey = n
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Agiuntar
+    .tooltiptext = Agiuntar ina agiunta ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Agiuntar ina agiunta…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Datoteca(s)…
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Agiuntar datoteca(s)
+    .accesskey = d
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -61,6 +89,31 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Mussar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Zuppentar la zona d'agiuntas ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Agiuntar sco agiunta
+       *[other] Agiuntar sco agiuntas
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Includer a l'intern
+       *[other] Includer a l'intern
+    }
+
+# Reorder Attachment Panel
+
+move-attachment-first-panel-button =
+    .label = Spustar a l'entschatta
+move-attachment-left-panel-button =
+    .label = Spustar a sanestra
+move-attachment-right-panel-button =
+    .label = Spustar a dretga
+move-attachment-last-panel-button =
+    .label = Spustar a la fin
 button-return-receipt =
     .label = Retschavida
     .tooltiptext = Dumandar ina conferma da retschavida per quest messadi

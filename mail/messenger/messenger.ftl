@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } è in program gratuit ed 
 folder-pane-toolbar =
     .toolbarname = Trav d'utensils da la panela d'ordinaturs
     .accesskey = T
+folder-pane-toolbar-options-button =
+    .tooltiptext = Opziuns da la zona d'agiuntas
 folder-pane-header-label = Ordinaturs
 
 ## Folder Toolbar Header Popup
