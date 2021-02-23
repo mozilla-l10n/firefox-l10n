@@ -166,6 +166,10 @@ onboarding-multistage-welcome-subtitle = Kundahára ipya’e, hekorosã ha heko�
 onboarding-multistage-welcome-primary-button-label = Eñepyrũ Ñemboheko
 onboarding-multistage-welcome-secondary-button-label = Mboheraguapy
 onboarding-multistage-welcome-secondary-button-text = ¿Erekópa mba’ete?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Ejapo { -brand-short-name }-gui <span data-l10n-name="zap">ijypykuéva</span>
+onboarding-multistage-set-default-subtitle = Ipya’e, hekorosã ha hekoñemi eikundaha vove.
 onboarding-multistage-set-default-primary-button-label = Ejapo ijypykuéramo
 onboarding-multistage-set-default-secondary-button-label = Ani ko’ág̃a
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be

@@ -519,6 +519,7 @@ pointerlock-warning-no-domain = Ko kuatia oñangareko nde hekaha rehe. Eikutu Es
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Peteĩva kuatiarogue pehẽ ndokói.</strong> Oikuaa hag̃ua { -brand-product-name } ko apañuãi ha omoĩporã pya’e hag̃ua, ikatúpa emondo marandu’i.
 crashed-subframe-learnmore =
     .label = Kuaave
     .accesskey = L

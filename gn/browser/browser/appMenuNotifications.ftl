@@ -38,6 +38,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = U
     .secondarybuttonlabel = Ko’ág̃a nahániri
     .secondarybuttonaccesskey = N
+appmenu-update-other-instance-message = Oĩ { -brand-shorter-name } hekopyahúmava, hákatu ndaikatúi gueteri emohenda ojejapo rupi { -brand-shorter-name } momokõi. Emboty ikatu hag̃ua embohekopyahu térã eiporavo mbohekopyahu opaicharei (ikatuhína pe ambue momokõimbyre ndoikoporãi emoñepyrũjey peve).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Oĩma, aikumby
     .buttonaccesskey = O
