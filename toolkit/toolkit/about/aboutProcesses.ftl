@@ -114,9 +114,9 @@ about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDi
 
 ## Duration units
 
-duration-unit-ns = ns
-duration-unit-us = µs
-duration-unit-ms = ms
+duration-unit-ns = 나노초
+duration-unit-us = 마이크로초
+duration-unit-ms = 밀리초
 duration-unit-s = 초
 duration-unit-m = 분
 duration-unit-h = 시간
