@@ -31,6 +31,7 @@ inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }<
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> no tiene efecto en elementos internos de la tabla.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> no tiene efecto en elementos internos de la tabla excepto en celdas de la tabla.
 inactive-css-not-table = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de la cuadrícula.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no se desplaza.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,6 +54,7 @@ inactive-css-not-for-internal-table-elements-fix = Pruebe configurar su propieda
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pruebe establecer su propiedad <strong>mostrar</strong> a algo diferente de<strong>tabla-columna</strong>, <strong>table-fila</strong>, <strong>table-de gupo de-columnas</strong>, <strong>tabla-de grupo de-filas</strong> o <strong>tabla de grupo de pies de página</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Intenté cambiar la propiedad <strong>outline-style</strong> a algo diferente a <strong>auto</strong> o <strong>none</strong>. { learn-more }
 inactive-css-not-table-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Intente agregar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
