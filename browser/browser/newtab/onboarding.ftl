@@ -166,6 +166,9 @@ onboarding-multistage-welcome-subtitle = Kâr amacı gütmeyen, hızlı, güvenl
 onboarding-multistage-welcome-primary-button-label = Kurulumu başlat
 onboarding-multistage-welcome-secondary-button-label = Giriş yap
 onboarding-multistage-welcome-secondary-button-text = Hesabınız var mı?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name } <span data-l10n-name="zap">varsayılan</span> tarayıcınız olsun
 onboarding-multistage-set-default-subtitle = Her seferinde hızlı, güvenli ve gizli gezinti.
 onboarding-multistage-set-default-primary-button-label = Varsayılan yap
 onboarding-multistage-set-default-secondary-button-label = Daha sonra

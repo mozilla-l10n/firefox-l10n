@@ -45,6 +45,7 @@ experimental-features-devtools-compatibility-panel-description = Sayfa Denetçis
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Çerezler: Varsayılan olarak SameSite=Lax
+experimental-features-cookie-samesite-lax-by-default2-description = Hiçbir “SameSite” özniteliği belirtilmemişse çerezleri “SameSite=Lax” olarak değerlendirir. Geliştiricilerin şu anda yaygın uygulama olan sınırsız kullanımı sürdürmek için “SameSite=None” şeklinde özellikle belirtmeleri gerekir.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Çerezler: SameSite=None, secure özniteliği gerektirsin
@@ -83,3 +84,6 @@ experimental-features-multi-pip-description = Birden çok görüntü içinde gö
 experimental-features-http3 =
     .label = HTTP/3 protokolü
 experimental-features-http3-description = Deneysel HTTP/3 protokolü desteği.
+# Search during IME
+experimental-features-ime-search =
+    .label = Adres Çubuğu: IME oluşturma sırasında sorunları göster

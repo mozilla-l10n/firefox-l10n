@@ -40,6 +40,10 @@ printui-scale-pcent = Ölçeklendir
 printui-two-sided-printing = İki taraflı yazdırma
 printui-duplex-checkbox = Kâğıdın iki yüzüne yazdır
 printui-two-sided-printing-off = Kapalı
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Uzun kenarından çevir
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Kısa kenarından çevir
 # Section title for miscellaneous print options
 printui-options = Seçenekler
 printui-headers-footers-checkbox = Üst bilgi ve alt bilgileri yazdır
@@ -97,6 +101,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Ölçek, 10 ile 200 arasında bir sayı olmalıdır.
 printui-error-invalid-margin = Lütfen seçilen kâğıt boyutu için geçerli bir kenar boşluğu girin.
+printui-error-invalid-copies = Kopya sayısı 1 ile 10000 arasında olmalıdır.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Aralık, 1 ile { $numPages } arasında bir sayı olmalıdır.
