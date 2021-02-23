@@ -91,6 +91,11 @@ expand-attachment-pane-tooltip =
     .tooltiptext = Mostra il pannello degli allegati ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Nascondi il pannello degli allegati ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Aggiungi come allegato
+       *[other] Aggiungi come allegati
+    }
 drop-file-label-inline =
     { $count ->
         [one] Aggiungi in linea
