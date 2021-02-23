@@ -203,6 +203,10 @@ openpgp-key-man-please-wait-tooltip =
     .label = Anahtarlar yüklenirken lütfen bekleyin…
 openpgp-key-man-filter-label =
     .placeholder = Anahtar ara
+openpgp-key-man-select-all-key =
+    .key = A
+openpgp-key-man-key-details-key =
+    .key = I
 openpgp-key-details-title =
     .title = Anahtar özellikleri
 openpgp-key-details-signatures-tab =
@@ -257,6 +261,22 @@ openpgp-copy-cmd-label =
 
 ## e2e encryption settings
 
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] Thunderbird <b>{ $identity }</b> için kişisel OpenPGP anahtarına sahip değil
+        [one] Thunderbird, <b>{ $identity }</b> ile ilişkili { $count } kişisel OpenPGP anahtarı buldu
+       *[other] Thunderbird, <b>{ $identity }</b> ile ilişkili { $count } kişisel OpenPGP anahtarı buldu
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status =
+    { $count ->
+        [0] OpenPGP protokolünü etkinleştirmek için geçerli bir anahtar seçin.
+        [one] Geçerli yapılandırmanızda <b>{ $key }</b> anahtar kimliği kullanılıyor
+       *[other] Geçerli yapılandırmalarınızda <b>{ $key }</b> anahtar kimliği kullanılıyor
+    }
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status-error = Geçerli yapılandırmanızda süresi dolmuş <b>{ $key }</b> anahtarı kullanılıyor.
 openpgp-add-key-button =
@@ -307,6 +327,7 @@ key-do-you-accept = Dijital imzaları doğrulamak ve iletileri şifrelemek için
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Kişisel anahtarınızla ilgili bir sorun olduğundan ileti gönderilemedi. { $problem }
 cannot-encrypt-because-missing = Aşağıdaki alıcıların anahtarlarında sorun olduğu için bu ileti uçtan uca şifrelemeyle gönderilemedi: { $problem }
+window-locked = Oluşturma penceresi kilitli; gönderme iptal edildi
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Şifrelenmiş mesaj bölümü
 # Strings in keyserver.jsm
@@ -318,6 +339,9 @@ keyserver-error-unavailable = Anahtar sunucusu kullanılamıyor.
 keyserver-error-security-error = Anahtar sunucusu şifreli erişimi desteklemiyor.
 keyserver-error-certificate-error = Anahtar sunucusunun sertifikası geçerli değil.
 keyserver-error-unsupported = Anahtar sunucusu desteklenmiyor.
+wkd-message-body-process =
+    Bu, ortak anahtarınızı OpenPGP Web Anahtar Dizini'ne yüklemek için otomatik işlemeyle ilgili bir e-postadır.
+    Şu anda herhangi bir işlem yapmanız gerekmiyor.
 # Strings in gpg.jsm
 unknown-signing-alg = Bilinmeyen imzalama algoritması (ID: { $id })
 expiry-open-key-manager = OpenPGP anahtar yöneticisini aç
@@ -343,6 +367,7 @@ copy-to-clipbrd-ok = Anahtar(lar) panoya kopyalandı
 delete-selected-pub-key = Ortak anahtarları silmek istiyor musunuz?
 key-man-loading-keys = Anahtarlar yükleniyor, lütfen bekleyin…
 export-to-file = Ortak anahtarı dosyaya aktar
+export-keypair-to-file = Gizli ve ortak anahtarı dosyaya aktar
 export-secret-key = Gizli anahtarı kaydedilmiş OpenPGP anahtar dosyasına eklemek istiyor musunuz?
 save-keys-ok = Anahtarlar başarıyla kaydedildi
 save-keys-failed = Anahtarların kaydedilmesi başarısız oldu
