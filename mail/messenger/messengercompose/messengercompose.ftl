@@ -51,6 +51,10 @@ ctrl-cmd-shift-pretty-prefix =
     }
 trigger-attachment-picker-key = A
 toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Pannello allegati
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
 toolbar-button-add-attachment =
     .label = Allega
     .tooltiptext = Aggiungi un allegato ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
@@ -95,6 +99,14 @@ drop-file-label-inline =
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Sposta all’inizio
+move-attachment-left-panel-button =
+    .label = Sposta a sinistra
+move-attachment-right-panel-button =
+    .label = Sposta a destra
+move-attachment-last-panel-button =
+    .label = Sposta alla fine
 button-return-receipt =
     .label = Ricevuta
     .tooltiptext = Richiedi una ricevuta di ritorno per questo messaggio
