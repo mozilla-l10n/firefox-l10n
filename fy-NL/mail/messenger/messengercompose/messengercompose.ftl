@@ -104,6 +104,14 @@ drop-file-label-inline =
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Nei de earste
+move-attachment-left-panel-button =
+    .label = Nei links
+move-attachment-right-panel-button =
+    .label = Nei rjochts
+move-attachment-last-panel-button =
+    .label = Nei de lêste
 button-return-receipt =
     .label = Untfangstbefêstiging
     .tooltiptext = In ûntfangstbefêstiging foar dit berjocht freegje
