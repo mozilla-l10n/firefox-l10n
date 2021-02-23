@@ -411,6 +411,7 @@ support-printing-prefs-value = Valor
 
 support-remote-experiments-title = Experimentos remotos
 support-remote-experiments-name = Nombre
+support-remote-experiments-see-about-studies = Ver <a data-l10n-name="support-about-studies-link">about:studies</a> para más información, incluyendo como deshabilitar experimentos individuales o deshabilitar que { -brand-short-name } ejecute este tipo de experimentos en el futuro.
 support-remote-features-title = Características remotas
 support-remote-features-name = Nombre
 support-remote-features-status = Estado
