@@ -54,7 +54,7 @@ move-to-new-window =
     .label = Desplaçar cap a una fenèstra novèla
     .accesskey = n
 tab-context-close-multiple-tabs =
-    .label = Tampar mantun onglets
+    .label = Tampar mantun onglet
     .accesskey = m
 
 ## Variables:

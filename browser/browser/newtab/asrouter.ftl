@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = Vòstra vida privada es importanta. Ar
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } a blocat <b>{ $blockedCount }</b> traçador dempuèi { $date } !
        *[other] { -brand-short-name } a blocat <b>{ $blockedCount }</b> traçadors dempuèi { $date } !
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } a blocat mai de <b>{ $blockedCount }</b> traçador dempuèi lo { DATETIME($date, month: "long", year: "numeric") }
@@ -234,7 +237,7 @@ cfr-whatsnew-lockwise-icon-alt = icòna { -lockwise-brand-short-name }
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Obtenètz d’alertas al subjècte dels senhals vulnerables
-cfr-whatsnew-passwords-body = Los piratas sabon que lo monde tòrnan utilizar los meteisses senhals. S’avètz utilizat lo meteis senhal sus mantun sites e qu’un d’aqueles sites a agut una divulgacion de donadas, veiretz una alèrta de { -lockwise-brand-short-name } per vos dire de cambiar vòstre senhal sus aqueles sites.
+cfr-whatsnew-passwords-body = Los piratas sabon que lo monde tòrnan utilizar los meteisses senhals. S’avètz utilizat lo meteis senhal sus mantun site e qu’un d’aqueles sites a agut una divulgacion de donadas, veiretz una alèrta de { -lockwise-brand-short-name } per vos dire de cambiar vòstre senhal sus aqueles sites.
 cfr-whatsnew-passwords-icon-alt = icòna d’una clau pas fisabla
 
 ## Picture-in-Picture fullscreen message
@@ -243,6 +246,10 @@ cfr-whatsnew-pip-fullscreen-header = Passar la vidèo incrustada en plen ecran
 cfr-whatsnew-pip-fullscreen-body = Quand plaçatz una vidèo dins una fenèstra bandejanta, podètz ara doble-clicar dessús per la passar en plen ecran.
 cfr-whatsnew-pip-fullscreen-icon-alt = icòna vidèos incrustada
 
+## Protections Dashboard message
+
+
+## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Proteccion en una ulhada
