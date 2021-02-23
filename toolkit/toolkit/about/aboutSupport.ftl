@@ -406,3 +406,12 @@ support-printing-clear-settings-button = Borrar los ajustes de impresión guarda
 support-printing-modified-settings = Ajustes de impresión modificados
 support-printing-prefs-name = Nombre
 support-printing-prefs-value = Valor
+
+## Normandy sections
+
+support-remote-experiments-title = Experimentos remotos
+support-remote-experiments-name = Nombre
+support-remote-experiments-branch = Rama de experimentos
+support-remote-features-title = Funcionalidades remotas
+support-remote-features-name = Nombre
+support-remote-features-status = Estado

@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Pestañas cerradas recientemente
 menu-history-undo-window-menu =
     .label = Ventanas cerradas recientemente
+menu-history-reopen-all-tabs = Reabrir todas las pestañas
+menu-history-reopen-all-windows = Reabrir todas las ventanas
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Atajos del teclado
     .accesskey = K
+menu-get-help =
+    .label = Obtener ayuda
+    .accesskey = H
 menu-help-troubleshooting-info =
     .label = Información para resolver problemas
     .accesskey = T

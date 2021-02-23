@@ -100,9 +100,13 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Gestionar historial
+appmenu-reopen-all-tabs = Reabrir todas las pestañas
+appmenu-reopen-all-windows = Reabrir todas las ventanas
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Ayuda de { -brand-shorter-name }
 appmenu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
@@ -118,6 +122,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Atajos del teclado
     .accesskey = K
+appmenu-get-help =
+    .label = Obtener ayuda
+    .accesskey = H
 appmenu-help-troubleshooting-info =
     .label = Información para resolver problemas
     .accesskey = T
@@ -154,3 +161,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personalizar barra de herramientas…
+appmenu-developer-tools-subheader = Herramientas del navegador
