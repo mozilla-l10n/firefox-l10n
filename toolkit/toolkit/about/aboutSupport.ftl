@@ -406,6 +406,10 @@ support-printing-prefs-value = Değer
 
 ## Normandy sections
 
+support-remote-experiments-title = Uzak deneyler
 support-remote-experiments-name = Adı
+support-remote-experiments-branch = Deney kolu
+support-remote-experiments-see-about-studies = Daha fazla bilgi için <a data-l10n-name="support-about-studies-link">about:studies</a> sayfasına bakabilirsiniz. O sayfadan deneyleri tek tek kapatabilir veya { -brand-short-name } tarayıcınızın gelecekte bu tür deneyleri çalıştırmasını engelleyebilirsiniz.
+support-remote-features-title = Uzak özellikler
 support-remote-features-name = Adı
 support-remote-features-status = Durum
