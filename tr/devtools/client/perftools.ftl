@@ -34,6 +34,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tampon boyutu:
+perftools-custom-threads-label = Ada göre özel iş parçacığı ekle:
 perftools-devtools-interval-label = Aralık:
 perftools-devtools-threads-label = İş parçacıkları:
 perftools-devtools-settings-label = Ayarlar
@@ -41,6 +42,7 @@ perftools-devtools-settings-label = Ayarlar
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
 perftools-status-recording-stopped-by-another-tool = Kayıt başka bir araç tarafından durduruldu.
+perftools-status-restart-required = Bu özelliği etkinleştirmek için tarayıcı yeniden başlatılmalıdır.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
@@ -63,3 +65,14 @@ perftools-button-edit-settings = Ayarları düzenle…
 
 ##
 
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profilleyici
+perftools-onboarding-message = <b>Yeni</b>: { -profiler-brand-name } artık geliştirici araçlarına entegre edildi. Bu güçlü yeni araç hakkında <a>daha fazla bilgi edinin</a>.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Sınırlı bir süre için <a>{ options-context-advanced-settings }</a> aracılığıyla eski Performans paneline erişebilirsiniz.)
+perftools-onboarding-close-button =
+    .aria-label = Tanıtım mesajını kapat
