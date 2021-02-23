@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Ti has gia in conto?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = S'annunziar
 onboarding-start-browsing-button-label = Cumenzar a navigar
-onboarding-not-now-button-label = Betg ussa
 onboarding-cards-dismiss =
     .title = Sbittar
     .aria-label = Sbittar
@@ -87,6 +86,67 @@ onboarding-benefit-monitor-text = Retschaiva in avis en cas che tias datas priva
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Administrescha tes pleds-clav uschia ch'els èn protegids e portabels.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Protecziun cunter il fastizar
+onboarding-tracking-protection-text2 = { -brand-short-name } impedescha che websites ta fastizeschan online. Uschia daventi pli grev per reclama da ta persequitar en il web.
+onboarding-tracking-protection-button2 = Co quai funcziuna
+onboarding-data-sync-title = Prenda tias preferenzas cun tai
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincronisescha tes segnapaginas, pleds-clav e dapli dapertut là, nua che ti utiliseschas { -brand-product-name }.
+onboarding-data-sync-button2 = S'annunziar tar { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Lascha t'avertir sche servetschs perdan datas
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } controllescha sche tia adressa d'e-mail è cumparida en in cas enconuschent da sperdita da datas e t'avertescha sch'ella cumpara en in nov cas.
+onboarding-firefox-monitor-button = S'inscriver per avis
+onboarding-browse-privately-title = Navighescha en il modus privat
+onboarding-browse-privately-text = Il modus privat stizza tia cronologia da tschertga e navigaziun per che las autras persunas che utiliseschan tes computer na la vesian betg.
+onboarding-browse-privately-button = Avrir ina fanestra privata
+onboarding-firefox-send-title = Protegia las datotecas che ti cundividas
+onboarding-firefox-send-text2 = Transferescha tias datotecas a { -send-brand-name } per las cundivider cun criptadi fin-a-fin ed ina colliaziun che scada automaticamain.
+onboarding-firefox-send-button = Emprova { -send-brand-name }
+onboarding-mobile-phone-title = Installescha { -brand-product-name } sin tes telefonin
+onboarding-mobile-phone-text = Telechargia { -brand-product-name } per iOS u Android e sincronisescha tias datas sin tut tes apparats.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Telechargiar il navigatur mobil
+onboarding-send-tabs-title = Trametta tabs averts a tes auters apparats
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Cundivider a moda simpla paginas cun auters apparats, senza stuair copiar colliaziuns u bandunar il navigatur.
+onboarding-send-tabs-button = Cumenzar ad utilisar «Trametter il tab»
+onboarding-pocket-anywhere-title = Leger e tadlar nua ch'i saja
+onboarding-pocket-anywhere-text2 = Memorisescha tes cuntegns preferids en l'app { -pocket-brand-name } e legia, taidla e guarda cura e sco ch'i para e plascha – era senza connexiun cun l'internet.
+onboarding-pocket-anywhere-button = Emprova { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Crear e memorisar ferms pleds-clav
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } creescha immediatamain ferms pleds-clav ed als memorisescha tuts en in lieu.
+onboarding-lockwise-strong-passwords-button = Administrar tias infurmaziuns d'annunzia
+onboarding-facebook-container-title = Mussa ils cunfins a Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } separa tes profil da tut il rest per render pli grev a Facebook da ta mussar reclama individualisada.
+onboarding-facebook-container-button = Agiuntar l'extensiun
+onboarding-import-browser-settings-title = Importa tes segnapaginas, pleds-clav e dapli
+onboarding-import-browser-settings-text = Cumenza direct — e porta tias paginas e las preferenzas da Chrome cun tai.
+onboarding-import-browser-settings-button = Importar las datas da Chrome
+onboarding-personal-data-promise-title = Privat per princip
+onboarding-personal-data-promise-text = { -brand-product-name } tracta tias datas cun respect cun rimnar damain, las proteger e declerar co ellas vegnan duvradas.
+onboarding-personal-data-promise-button = Leger nossa empermischun
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Stupent, ussa has ti { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Pertge n'emprovas ti ussa betg <icon></icon><b>{ $addon-name }</b>?
+return-to-amo-extension-button = Agiuntar l'extensiun
+return-to-amo-get-started-button = Cumenzar cun { -brand-short-name }
+onboarding-not-now-button-label = Betg ussa
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Stupent, ussa has ti { -brand-short-name }
@@ -106,6 +166,12 @@ onboarding-multistage-welcome-subtitle = Il navigatur svelt, segir e privat – 
 onboarding-multistage-welcome-primary-button-label = Cumenzar cun la configuraziun
 onboarding-multistage-welcome-secondary-button-label = S'annunziar
 onboarding-multistage-welcome-secondary-button-text = Has in conto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Definescha { -brand-short-name } sco tes <span data-l10n-name="zap">standard</span>
+onboarding-multistage-set-default-subtitle = Sveltezza, segirezza e sfera privata adina cura che ti navigheschas.
+onboarding-multistage-set-default-primary-button-label = Definir sco standard
+onboarding-multistage-set-default-secondary-button-label = Betg ussa
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importescha tes pleds-clav, <br/>segnapaginas e <span data-l10n-name="zap">dapli</span>
@@ -179,63 +245,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Utilisar ina apparientscha giaglia per buttuns,
         menus e fanestras.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Protecziun cunter il fastizar
-onboarding-tracking-protection-text2 = { -brand-short-name } impedescha che websites ta fastizeschan online. Uschia daventi pli grev per reclama da ta persequitar en il web.
-onboarding-tracking-protection-button2 = Co quai funcziuna
-onboarding-data-sync-title = Prenda tias preferenzas cun tai
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Sincronisescha tes segnapaginas, pleds-clav e dapli dapertut là, nua che ti utiliseschas { -brand-product-name }.
-onboarding-data-sync-button2 = S'annunziar tar { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Lascha t'avertir sche servetschs perdan datas
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } controllescha sche tia adressa d'e-mail è cumparida en in cas enconuschent da sperdita da datas e t'avertescha sch'ella cumpara en in nov cas.
-onboarding-firefox-monitor-button = S'inscriver per avis
-onboarding-browse-privately-title = Navighescha en il modus privat
-onboarding-browse-privately-text = Il modus privat stizza tia cronologia da tschertga e navigaziun per che las autras persunas che utiliseschan tes computer na la vesian betg.
-onboarding-browse-privately-button = Avrir ina fanestra privata
-onboarding-firefox-send-title = Protegia las datotecas che ti cundividas
-onboarding-firefox-send-text2 = Transferescha tias datotecas a { -send-brand-name } per las cundivider cun criptadi fin-a-fin ed ina colliaziun che scada automaticamain.
-onboarding-firefox-send-button = Emprova { -send-brand-name }
-onboarding-mobile-phone-title = Installescha { -brand-product-name } sin tes telefonin
-onboarding-mobile-phone-text = Telechargia { -brand-product-name } per iOS u Android e sincronisescha tias datas sin tut tes apparats.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Telechargiar il navigatur mobil
-onboarding-send-tabs-title = Trametta tabs averts a tes auters apparats
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Cundivider a moda simpla paginas cun auters apparats, senza stuair copiar colliaziuns u bandunar il navigatur.
-onboarding-send-tabs-button = Cumenzar ad utilisar «Trametter il tab»
-onboarding-pocket-anywhere-title = Leger e tadlar nua ch'i saja
-onboarding-pocket-anywhere-text2 = Memorisescha tes cuntegns preferids en l'app { -pocket-brand-name } e legia, taidla e guarda cura e sco ch'i para e plascha – era senza connexiun cun l'internet.
-onboarding-pocket-anywhere-button = Emprova { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Crear e memorisar ferms pleds-clav
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } creescha immediatamain ferms pleds-clav ed als memorisescha tuts en in lieu.
-onboarding-lockwise-strong-passwords-button = Administrar tias infurmaziuns d'annunzia
-onboarding-facebook-container-title = Mussa ils cunfins a Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } separa tes profil da tut il rest per render pli grev a Facebook da ta mussar reclama individualisada.
-onboarding-facebook-container-button = Agiuntar l'extensiun
-onboarding-import-browser-settings-title = Importa tes segnapaginas, pleds-clav e dapli
-onboarding-import-browser-settings-text = Cumenza direct — e porta tias paginas e las preferenzas da Chrome cun tai.
-onboarding-import-browser-settings-button = Importar las datas da Chrome
-onboarding-personal-data-promise-title = Privat per princip
-onboarding-personal-data-promise-text = { -brand-product-name } tracta tias datas cun respect cun rimnar damain, las proteger e declerar co ellas vegnan duvradas.
-onboarding-personal-data-promise-button = Leger nossa empermischun
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Stupent, ussa has ti { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Pertge n'emprovas ti ussa betg <icon></icon><b>{ $addon-name }</b>?
-return-to-amo-extension-button = Agiuntar l'extensiun
-return-to-amo-get-started-button = Cumenzar cun { -brand-short-name }
