@@ -26,6 +26,9 @@ openpgp-search-keys-openpgp =
 openpgp-missing-signature-key = Bu ileti henüz sahip olmadığınız bir anahtarla imzalandı.
 openpgp-search-signature-key =
     .label = Keşfet…
+# Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Bu ileti, görünüşe göre MS-Exchange tarafından bozulmuş bir OpenPGP iletisidir ve yerel bir dosyadan açıldığı için onarılamaz. Otomatik onarmayı denemek için iletiyi bir posta klasörüne kopyalayın.
+openpgp-broken-exchange-info = Bu ileti, görünüşe göre MS-Exchange tarafından bozulmuş bir OpenPGP iletisidir. İleti içeriği beklendiği gibi gösterilmezse otomatik onarmayı deneyebilirsiniz.
 openpgp-broken-exchange-repair =
     .label = İletiyi onar
 openpgp-broken-exchange-wait = Lütfen bekleyin…
