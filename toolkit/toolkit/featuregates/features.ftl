@@ -22,7 +22,7 @@ experimental-features-media-avif-description = Con esta función activada, { -br
 experimental-features-web-api-inputmode =
     .label = Web API: modo de entrada
 # "inputmode" and "contenteditable" are technical terms and shouldn't be translated.
-experimental-features-web-api-inputmode-description = Nuestra implementación del atributo global <a data-l10n-name="mdn-inputmode">inputmode</a> ha sido actualizado según <a data-l10n-name="whatwg">la especificación WHATWG</a>, pero también necesitamos hacer otros cambios, como hacerlo disponible en contenido contenteditable. Ver <a data-l10n-name="bugzilla">bug 1205133</a> para más detalles.
+experimental-features-web-api-inputmode-description = Nuestra implementación del atributo global <a data-l10n-name="mdn-inputmode">inputmode</a> se actualizó según <a data-l10n-name="whatwg">la especificación WHATWG</a>, pero también necesitamos hacer otros cambios, como hacerlo disponible en contenido contenteditable. Ver <a data-l10n-name="bugzilla">bug 1205133</a> para más detalles.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-web-api-link-preload =

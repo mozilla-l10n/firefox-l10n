@@ -74,7 +74,7 @@
 <!ENTITY nssBadCert.title "Fallo en conexión segura">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Ésto podría ser un problema con la configuración del servidor o podría ser alguien tratando de hacerse pasar por el servidor.</li>
-<li>Si se ha conectado a este servidor exitosamente en el pasado, el error puede ser temporal y puede intentarlo nuevamente más tarde.</li>
+<li>Si se conectó a este servidor exitosamente en el pasado, el error puede ser temporal y puede intentarlo nuevamente más tarde.</li>
 </ul>
 ">
 
