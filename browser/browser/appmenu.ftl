@@ -132,6 +132,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = R
 appmenu-help-taskmanager =
     .label = Gestione attività
+appmenu-help-report-site-issue =
+    .label = Segnala problema con questo sito…
 appmenu-help-feedback-page =
     .label = Invia feedback…
     .accesskey = k
@@ -165,5 +167,4 @@ appmenu-help-check-for-update =
 
 appmenu-customizetoolbar =
     .label = Personalizza barra degli strumenti…
-
 appmenu-developer-tools-subheader = Strumenti del browser
