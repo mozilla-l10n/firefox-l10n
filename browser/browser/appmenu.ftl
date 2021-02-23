@@ -96,6 +96,11 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Gestionar historial
+
 ## Help panel
 
 appmenu-about =
@@ -146,3 +151,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Buscar actualizaciones…
+
+## More Tools
+
