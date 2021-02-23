@@ -104,6 +104,14 @@ drop-file-label-inline =
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Naar de eerste
+move-attachment-left-panel-button =
+    .label = Naar links
+move-attachment-right-panel-button =
+    .label = Naar rechts
+move-attachment-last-panel-button =
+    .label = Naar de laatste
 button-return-receipt =
     .label = Ontvangstbevestiging
     .tooltiptext = Een ontvangstbevestiging voor dit bericht vragen
