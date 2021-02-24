@@ -43,7 +43,6 @@ onboarding-join-form-signin-label = کیا پہلے سے ہی ایک اکاؤن�
 # Text for link to submit the sign in form
 onboarding-join-form-signin = سائن ان کریں
 onboarding-start-browsing-button-label = براؤزنگ شروع کریں
-onboarding-not-now-button-label = ابھی نہیں
 onboarding-cards-dismiss =
     .title = برخاست کریں
     .aria-label = برخاست کریں
@@ -83,37 +82,6 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = جب آپ کی ذاتی معلومات معروف ڈیٹا کی خلاف ورزی میں ہے تو مطلع ھوں۔
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = پاس ورڈ کا نظم کریں جو محفوظ اور پورٹیبل ہیں۔
-
-## Custom Return To AMO onboarding strings
-
-return-to-amo-add-extension-label = ایکسٹینشن  شامل کریں
-
-## Multistage 3-screen onboarding flow strings (about:welcome pages)
-
-# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
-# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
-onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span> میں خوشامدید
-onboarding-multistage-welcome-subtitle = تیز ، محفوظ ، اور نجی براؤزر جس کو غیر منافع بخش کی حمایت حاصل ہے۔
-onboarding-multistage-welcome-primary-button-label = سیٹ اپ شروع کریں
-onboarding-multistage-welcome-secondary-button-label = سائن ان کریں
-onboarding-multistage-welcome-secondary-button-text = کیا آپ کا اکاؤنٹ ہے؟
-onboarding-multistage-import-subtitle = کسی دوسرے براؤزر سے آرہے ہیں؟ سب چیزوں کو { -brand-short-name } پر لانا آسان ہے۔
-onboarding-multistage-import-primary-button-label = درآمد شروع کریں
-onboarding-multistage-import-secondary-button-label = ابھی نہیں
-onboarding-multistage-theme-primary-button-label = تھیم کو محفوظ کریں
-onboarding-multistage-theme-secondary-button-label = ابھی نہیں
-# Automatic theme uses operating system color settings
-onboarding-multistage-theme-label-automatic = خودکار
-onboarding-multistage-theme-label-light = ہلکا
-onboarding-multistage-theme-label-dark = گہرا
-# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
-onboarding-multistage-theme-label-alpenglow = Firefox الپینگلو
-
-## Please make sure to split the content of the title attribute into lines whose
-## width corresponds to about 40 Latin characters, to ensure that the tooltip
-## doesn't become too long. Line breaks will be preserved when displaying the
-## tooltip.
-
 
 ## These strings belong to the individual onboarding messages.
 
@@ -168,3 +136,37 @@ return-to-amo-sub-header = بہت اچھا ، آپ کو { -brand-short-name } م
 return-to-amo-addon-header = چلیں آئیے آپ کو <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = اس توسیع شامل کریں
 return-to-amo-get-started-button = { -brand-short-name } کے ساتھ شروع کریں
+onboarding-not-now-button-label = ابھی نہیں
+
+## Custom Return To AMO onboarding strings
+
+return-to-amo-add-extension-label = ایکسٹینشن  شامل کریں
+
+## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = <span data-l10n-name="zap">{ -brand-short-name }</span> میں خوشامدید
+onboarding-multistage-welcome-subtitle = تیز ، محفوظ ، اور نجی براؤزر جس کو غیر منافع بخش کی حمایت حاصل ہے۔
+onboarding-multistage-welcome-primary-button-label = سیٹ اپ شروع کریں
+onboarding-multistage-welcome-secondary-button-label = سائن ان کریں
+onboarding-multistage-welcome-secondary-button-text = کیا آپ کا اکاؤنٹ ہے؟
+onboarding-multistage-set-default-primary-button-label = طے شدہ بنائیں
+onboarding-multistage-set-default-secondary-button-label = ابھی نہیں
+onboarding-multistage-import-subtitle = کسی دوسرے براؤزر سے آرہے ہیں؟ سب چیزوں کو { -brand-short-name } پر لانا آسان ہے۔
+onboarding-multistage-import-primary-button-label = درآمد شروع کریں
+onboarding-multistage-import-secondary-button-label = ابھی نہیں
+onboarding-multistage-theme-primary-button-label = تھیم کو محفوظ کریں
+onboarding-multistage-theme-secondary-button-label = ابھی نہیں
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = خودکار
+onboarding-multistage-theme-label-light = ہلکا
+onboarding-multistage-theme-label-dark = گہرا
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox الپینگلو
+
+## Please make sure to split the content of the title attribute into lines whose
+## width corresponds to about 40 Latin characters, to ensure that the tooltip
+## doesn't become too long. Line breaks will be preserved when displaying the
+## tooltip.
+

@@ -29,7 +29,9 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = تلاش انجن کا اضافہ کریں
 newtab-topsites-add-topsites-header = نئی بہترین سائٹ
+newtab-topsites-add-shortcut-header = نیا شارٹ کٹ
 newtab-topsites-edit-topsites-header = بہترین سائٹٹ کیی تدوین کریں
+newtab-topsites-edit-shortcut-header = شارٹ کٹ میں ترمیم کریں
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ایک عنوان داخل کریں
@@ -97,6 +99,7 @@ newtab-menu-show-privacy-info = ہمارے کفیل اور آپ کی رازدا�
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = مکمل
+newtab-privacy-modal-button-manage = سپانسر شدہ مواد کی ترتیبات کا نظم کریں
 newtab-privacy-modal-header = آپ کی رازداری کی اہمیت ہے۔
 newtab-privacy-modal-link = سیکھیں کہ نئے ٹیب پر رازداری کیسے کام کرتی ہے
 
@@ -207,3 +210,4 @@ newtab-custom-close-button = بند کریں
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = سنپیٹ
+newtab-custom-settings = مزید سیٹنگز کو نظم کریں
