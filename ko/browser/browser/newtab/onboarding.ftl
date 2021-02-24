@@ -168,8 +168,8 @@ onboarding-multistage-welcome-secondary-button-label = 로그인
 onboarding-multistage-welcome-secondary-button-text = 계정이 있으십니까?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
-onboarding-multistage-set-default-header = { -brand-short-name }를 <span data-l10n-name="zap">기본 브라우저</span>로 설정
-onboarding-multistage-set-default-subtitle = 탐색할 때마다 속도, 안전 및 개인 정보 보호.
+onboarding-multistage-set-default-header = { -brand-short-name }를 <span data-l10n-name="zap">기본 브라우저</span>로 설정하기
+onboarding-multistage-set-default-subtitle = 탐색할 때마다 속도, 안전 및 개인 정보 보호 기능이 제공됩니다.
 onboarding-multistage-set-default-primary-button-label = 기본 브라우저로
 onboarding-multistage-set-default-secondary-button-label = 나중에
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -189,7 +189,7 @@ onboarding-welcome-steps-indicator =
     .aria-label = 시작하기:  { $current } / { $total } 화면
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span> 선택
+onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span> 선택하기
 onboarding-multistage-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 onboarding-multistage-theme-primary-button-label = 테마 저장
 onboarding-multistage-theme-secondary-button-label = 나중에
