@@ -232,3 +232,9 @@ about-logins-import-file-picker-csv-filter-title =
 
 about-logins-import-dialog-title = درآمد مکمل ہوئی
 about-logins-import-dialog-done = ہوگیا
+about-logins-import-dialog-error-file-format-title = فائل فارمیٹ کا مسئلہ
+about-logins-import-dialog-error-learn-more = مزیدجانیے
+about-logins-import-dialog-error-try-again = دوبارہ کوشش کریں…
+
+## Logins import report page
+
