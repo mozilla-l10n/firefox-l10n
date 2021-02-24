@@ -493,6 +493,9 @@ bookmarks-toolbar-placeholder =
     .title = ٹولبار اشیاہ کو بک مارک کگاتا ہے
 bookmarks-toolbar-placeholder-button =
     .label = ٹولبار اشیاہ کو بک مارک کگاتا ہے
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = موجودہ ٹیب کو بک مارک کریں
 
 ## Library Panel items
 

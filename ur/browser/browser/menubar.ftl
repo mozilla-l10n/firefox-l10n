@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = حالیہ بند کیے گئے ٹیب
 menu-history-undo-window-menu =
     .label = حالیہ بند کیے گئے دریچے
+menu-history-reopen-all-tabs = تمام ٹیب کو دوبارہ کھولیں
+menu-history-reopen-all-windows = تمام ونڈوز کو دوبارہ کھولیں
 
 ## Bookmarks Menu
 

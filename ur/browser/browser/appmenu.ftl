@@ -47,9 +47,34 @@ whatsnew-panel-footer-checkbox =
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-learn-more = مزیدجانیے
+profiler-popup-settings =
+    .value = سیٹنگز
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = سیٹنگز میں تدوین کریں…
+profiler-popup-recording-screen = ریکارڈنگ ہو رہا…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = مخصوص
+profiler-popup-start-recording-button =
+    .label = ریکارڈنگ شروع کریں
+profiler-popup-discard-button =
+    .label = رد کريں
+profiler-popup-capture-button =
+    .label = ریکارڈ کریں
+
+## History panel
+
+appmenu-manage-history =
+    .label = تاریخ کا نظم کریں
+appmenu-reopen-all-tabs = تمام ٹیب کو دوبارہ کھولیں
+appmenu-reopen-all-windows = تمام ونڈوز کو دوبارہ کھولیں
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } کی مدد
 appmenu-about =
     .label = { -brand-shorter-name } کے بارے میں
     .accesskey = A
@@ -96,3 +121,11 @@ appmenu-help-not-deceptive =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = اپ ڈیٹ کے لیے چیک کریں…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = ٹول بار کی تخصیص کریں…
+appmenu-developer-tools-subheader = براؤزر ٹولز
