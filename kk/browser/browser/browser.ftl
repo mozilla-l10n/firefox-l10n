@@ -345,9 +345,21 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Ойнатуда
 browser-tab-audio-muted = Дыбысы өшірілген
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ОЙНАТУДА
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ДЫБЫСЫ БАСЫЛҒАН
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = АВТООЙНАТУ БҰҒАТТАЛҒАН
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = СУРЕТТЕГІ СУРЕТ
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Бетбелгілерді импорттау…
+    .tooltiptext = Басқа браузерден бетбелгілерді { -brand-short-name } ішіне иморттау.
+bookmarks-toolbar-empty-message = Жылдам қатынау үшін, бетбелгілеріңізді бетбелгілер панеліне орналастырыңыз. <a data-l10n-name="manage-bookmarks">Бетбелгілерді басқару…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -495,6 +507,10 @@ bookmarks-show-all-bookmarks =
     .label = Барлық бетбелгілерді көрсету
 bookmarks-recent-bookmarks =
     .value = Соңынан қосылғандар
+bookmarks-manage-bookmarks =
+    .label = Бетбелгілерді басқару
+bookmarks-recent-bookmarks-panel =
+    .value = Жуырдағы бетбелгілер
 bookmarks-toolbar-chevron =
     .tooltiptext = Көбірек бетбелгілерді көрсету
 bookmarks-sidebar-content =
@@ -523,6 +539,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Бетбелгілер құралдар панелін жасыру
            *[other] Бетбелгілер панелін қарау
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Бетбелгілер құралдар панелін жасыру
+           *[other] Бетбелгілер құралдар панелін көрсету
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -548,6 +570,9 @@ bookmarks-toolbar-placeholder =
     .title = Бетбелгілер панелінің элементтері
 bookmarks-toolbar-placeholder-button =
     .label = Бетбелгілер панелінің элементтері
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Ағымдағы бетті бетбелгілерге қосу
 
 ## Library Panel items
 

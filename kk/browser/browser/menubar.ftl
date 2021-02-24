@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Жақында жабылған беттер
 menu-history-undo-window-menu =
     .label = Жақында жабылған терезелер
+menu-history-reopen-all-tabs = Барлық беттерді қайта ашу
+menu-history-reopen-all-windows = Барлық терезелерді қайта ашу
 
 ## Bookmarks Menu
 
