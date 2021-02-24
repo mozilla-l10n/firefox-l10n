@@ -31,6 +31,7 @@ inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }<
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ndojapói mba’eve mba’epuru tabla ryepyguáre.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ndojapói mba’eve mba’epuru tabla ryepyguáre oiko’ỹva tabla kora’ípe.
 inactive-css-not-table = <strong>{ $property }</strong> ndojapói mba’eve ko mba’epurúpe ndaha’éire tabla.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ndojapói mba’eve ko mba’epurúpe ndoku’éi rupi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
