@@ -529,9 +529,10 @@ bookmarks-show-all-bookmarks =
 bookmarks-recent-bookmarks =
     .value = Aggiunti di recente
 bookmarks-manage-bookmarks =
-  .label = Gestisci segnalibri
+    .label = Gestisci segnalibri
 bookmarks-recent-bookmarks-panel =
-  .value = Segnalibri recenti
+    .value = Segnalibri recenti
+bookmarks-recent-bookmarks-panel-subheader = Segnalibri recenti
 bookmarks-toolbar-chevron =
     .tooltiptext = Visualizza altri segnalibri
 bookmarks-sidebar-content =
@@ -554,13 +555,13 @@ bookmarks-tools-toolbar-visibility =
             [true] Nascondi la barra dei segnalibri
            *[other] Visualizza la barra dei segnalibri
         }
-bookmarks-tools-toolbar-visibility-panel =
+bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
             [true] Nascondi la barra dei segnalibri
            *[other] Visualizza la barra dei segnalibri
         }
-bookmarks-tools-toolbar-visibility-menuitem =
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Nascondi la barra dei segnalibri
@@ -591,10 +592,9 @@ bookmarks-toolbar-placeholder =
     .title = Elementi della barra dei segnalibri
 bookmarks-toolbar-placeholder-button =
     .label = Elementi della barra dei segnalibri
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-  .label = Aggiungi scheda corrente ai segnalibri
+    .label = Aggiungi scheda corrente ai segnalibri
 
 ## Library Panel items
 
