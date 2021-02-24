@@ -406,6 +406,10 @@ support-printing-prefs-value = Verdi
 
 ## Normandy sections
 
+support-remote-experiments-title = Eksterne eksperiment
 support-remote-experiments-name = Namn
+support-remote-experiments-branch = EksperimentgreIn
+support-remote-experiments-see-about-studies = Sjå <a data-l10n-name="support-about-studies-link">about:studies</a> for meIr informasjon, inkludert korleis du slår av individuelle eksperiment eller korleis du hindrar { -brand-short-name } frå å køyre denne typen eksperiment i framtida.
+support-remote-features-title = Eksterne funksjonar
 support-remote-features-name = Namn
 support-remote-features-status = Status
