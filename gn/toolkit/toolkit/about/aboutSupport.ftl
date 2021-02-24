@@ -409,5 +409,6 @@ support-printing-prefs-value = Tepykue
 support-remote-experiments-title = Okayguágui jehekapyahu
 support-remote-experiments-name = Téra
 support-remote-experiments-branch = Jehekapyahu rehegua
+support-remote-features-title = Tembiapoite okayguágui
 support-remote-features-name = Téra
 support-remote-features-status = Tekotee

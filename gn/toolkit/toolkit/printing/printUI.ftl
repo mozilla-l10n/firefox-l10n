@@ -40,10 +40,10 @@ printui-scale-pcent = Jupiha
 printui-two-sided-printing = Mokõivéva tova ñemonguatia
 printui-duplex-checkbox = Mokõive gotyo monguatia
 printui-two-sided-printing-off = Mboguepyre
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Embojere pe tembe’y ykegua
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Embojere pe tembe’y yvategua
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Ehasa mombyryveha rupi
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Ehasa ag̃uiveha rupi
 # Section title for miscellaneous print options
 printui-options = Poravorã
 printui-headers-footers-checkbox = Emongutia myakãha ha kuatiarogue guy gotyo
@@ -101,6 +101,7 @@ printui-paper-tabloid = Kuatiahaipyre
 
 printui-error-invalid-scale = Pe jupiha ha’eva’erã 10 ha 200 pa’ũme.
 printui-error-invalid-margin = Emoinge peteĩ oikóva kuatia tuichakue poravopyrépe g̃uarã.
+printui-error-invalid-copies = Pe ñembokuatia ojejapova’erã 1 ha 10000 pa’ũme.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Pe rango ha’eva’erã papapy 1 ha { $numPages } pa’ũme.
