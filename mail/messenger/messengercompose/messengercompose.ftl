@@ -93,9 +93,27 @@ expand-attachment-pane-tooltip =
     .tooltiptext = A mellékletek ablaktábla megjelenítése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = A mellékletek ablaktábla elrejtése ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Hozzáadás mellékletként
+       *[other] Hozzáadás mellékletekként
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Hozzáfűzés soron belül
+       *[other] Hozzáfűzés soron belül
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Áthelyezés elsőnek
+move-attachment-left-panel-button =
+    .label = Áthelyezés balra
+move-attachment-right-panel-button =
+    .label = Áthelyezés jobbra
+move-attachment-last-panel-button =
+    .label = Áthelyezés utolsónak
 button-return-receipt =
     .label = Visszaigazolás
     .tooltiptext = Visszaigazolás kérése az üzenetről
