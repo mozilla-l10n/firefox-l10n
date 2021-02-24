@@ -123,6 +123,9 @@ cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
 cfr-whatsnew-searchbar-title = Адрестік жолақ көмегімен азырақ теріп, көбірек табыңыз.
 cfr-whatsnew-searchbar-body-topsites = Енді адрестік жолағын таңдасаңыз, ол топ сайттарыңыз бар сілтемелермен кеңейеді.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Үлкейту әйнегі таңбашасы
 
 ## Picture-in-Picture
@@ -204,6 +207,13 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } { $date } <b>{ $blockedCount }</b> шамасынан көп трекерді бұғаттаған!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } уақытынан бастап <b>{ $blockedCount }</b> шамасынан көп трекерді бұғаттады!
+    }
 cfr-doorhanger-milestone-ok-button = Барлығын қарау
     .accesskey = р
 cfr-doorhanger-milestone-close-button = Жабу
@@ -232,6 +242,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Суреттегі сурет таңба�
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Қорғаныс көрінісі
 cfr-whatsnew-protections-body = Қорғаныс панелінде деректерді бұзу және парольдерді басқару туралы жиынтық есептері бар. Енді сіз қанша деректер бұзушылығын шешкеніңізді және сақталған парольдеріңіздің қайсысы болса да, деректер бұзушылықтарда ашылғаны туралы ақпаратты бақылай аласыз.
 cfr-whatsnew-protections-cta-link = Қорғаныс панелін қарау
@@ -253,6 +267,7 @@ cfr-doorhanger-doh-secondary-button = Сөндіру
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-header = Сайтты оқшаулау
 cfr-doorhanger-fission-primary-button = Жақсы, түсіндім
     .accesskey = а
 cfr-doorhanger-fission-secondary-button = Көбірек білу
@@ -267,3 +282,15 @@ cfr-whatsnew-clear-cookies-image-alt = Cookie файлы блокталған к
 ## What's new: Media controls message
 
 cfr-whatsnew-media-keys-button = Қалай екенін білу
+
+## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
+

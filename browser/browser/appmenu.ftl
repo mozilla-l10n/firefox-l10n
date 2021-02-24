@@ -94,6 +94,13 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Тарихты басқару
+appmenu-reopen-all-tabs = Барлық беттерді қайта ашу
+appmenu-reopen-all-windows = Барлық терезелерді қайта ашу
+
 ## Help panel
 
 appmenu-help-header =
@@ -149,3 +156,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Жаңартуларды тексеру…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Құралдар панелін баптау…
+appmenu-developer-tools-subheader = Браузер құралдары
