@@ -89,9 +89,22 @@ key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
 expand-attachment-pane-tooltip =
     .tooltiptext = Näytä Liite-paneeli ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Lisää liitteenä
+       *[other] Lisää liitteinä
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Siirrä ensimmäiseksi
+move-attachment-left-panel-button =
+    .label = Siirrä vasemmalle
+move-attachment-right-panel-button =
+    .label = Siirrä oikealle
+move-attachment-last-panel-button =
+    .label = Siirrä viimeiseksi
 button-return-receipt =
     .label = Vastaanottokuittaus
     .tooltiptext = Pyydä tämän viestin vastaanottokuittausta
