@@ -9,6 +9,8 @@ about-rights-notification-text = A { -brand-short-name } szabad és nyílt forr�
 folder-pane-toolbar =
     .toolbarname = Mappa ablaktábla eszköztár
     .accesskey = M
+folder-pane-toolbar-options-button =
+    .tooltiptext = Mappa ablaktábla beállításai
 folder-pane-header-label = Mappák
 
 ## Folder Toolbar Header Popup
