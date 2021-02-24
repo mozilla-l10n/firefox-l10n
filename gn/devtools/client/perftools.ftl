@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Mbohapeha Ñemboheko
+perftools-intro-description =
+    Umi ñeñongatu ombojuruja profiler.firefox.com tendayke pyahúpe. Opaite mba’ekuaarã oñembyatypa
+    hyepýpe, hákatu ikatu ohupi omoherakuã hag̃ua.
 
 ## All of the headings for the various sections.
 
@@ -22,6 +25,9 @@ perftools-heading-local-build = Ñembyaty pypeguáva
 
 ##
 
+perftools-description-intro =
+    Umi ñeñongatu ombojuruja profiler.firefox.com tendayke pyahúpe. Opaite mba’ekuaarã oñembyatypa
+    hyepýpe, hákatu ikatu ohupi omoherakuã hag̃ua.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -97,5 +103,6 @@ perftools-record-all-registered-threads = Eñomi umi poravopyre yvategua ha eño
 ## preferences are true.
 
 -profiler-brand-name = Firefox mba’ete moheñoiha
+perftools-onboarding-message = <b>Ipyahu</b>: { -profiler-brand-name } ko’ág̃a oĩ juajúpe mboguatahára rembipuru ndive. <a>Eikuaave</a> ko tembipuru guasu rehegua.
 perftools-onboarding-close-button =
     .aria-label = Emboty pe ñe’ẽmondo jeikegua

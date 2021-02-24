@@ -202,11 +202,14 @@ cfr-doorhanger-cryptominers-description = Ne ñemigua tuichamba’e. { -brand-sh
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ojoko hetave <b>{ $blockedCount }</b> tapykuehoha { $date } guive!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } jokopyre <b>{ $blockedCount }</b> tapykuehoha { DATETIME($date, month: "long", year: "numeric") } guive!
@@ -237,6 +240,10 @@ cfr-whatsnew-pip-fullscreen-header = Ejapyhy peteĩva ta’ãnga mba’erechaha 
 cfr-whatsnew-pip-fullscreen-body = Osẽvo ta’ãngamýi ovetã ho’ytávape, ág̃a ikatu eikutujo’a ovetãme ehasa hag̃ua mba’erechaha tuichávape.
 cfr-whatsnew-pip-fullscreen-icon-alt = Peteĩva ta’ãnga ra’ãnga’i
 
+## Protections Dashboard message
+
+
+## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Ñemo’ã ma’ẽ rehegua
@@ -287,6 +294,7 @@ cfr-whatsnew-search-shortcuts-body = Ko’ág̃a, ehaívo peteĩ jeheka mongu’
 ## What's new: Cookies protection
 
 cfr-whatsnew-supercookies-header = Ñemo’ã kookieguasu imarãkuaáva rovake
+cfr-whatsnew-supercookies-body = Opaite ñanduti renda ikatu ombojuapy kañyhápe “supercookie” ikundahárape ohapykuehokuaáva ñanduti guive, omopotĩ rire jepe ikookiekuéra. { -brand-short-name } ome’ẽ ko’ág̃a ñemo’ã marete kookieguasu rovake ani hag̃ua ojepuru ohapykueho hag̃ua ne rembiapo ñandutípe peteĩ tendágui ambue tendápe.
 
 ## What's new: Better bookmarking
 
