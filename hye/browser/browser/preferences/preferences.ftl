@@ -553,7 +553,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Որոնման գոտի
 search-bar-hidden =
-    .label = Աւգտագործեք հասցեի գոտին՝ որոնման եւ ուղղորդման համար
+    .label = Աւգտագործէք հասցէագաւտին որոնման եւ ուղղորդման համար
 search-bar-shown =
     .label = Աւելացնել որոնման գոտին գործիքագոտիում
 search-engine-default-header = Հիմնական որոնիչը
@@ -583,7 +583,7 @@ suggestions-addressbar-settings-generic = Փոխել ընտրանքները այ
 search-suggestions-cant-show = Որոնման առաջարկութիւնները չեն ցուցադրուի գտնման վայրի տողի արդիւնքներում, քանի որ դուք կազմաձեւել եք { -brand-short-name }-ը, որ երբեք չհիշի պատմութիւնը։
 search-one-click-header = Մեկ սեղմամբ որոնիչներ
 search-one-click-header2 = Որոնել դիւրանցումները
-search-one-click-desc = Ընտրեք այլ ընտրանքային որոնիչներ, որոնք կերեւան ստորեւ հասցեի գոտում եւ որոնման գոտիում, երբ մուտքագրեք հիմնաբառ:
+search-one-click-desc = Ընտրէք այլընտրանքային որոնիչներ, որոնք կերեւան ստորեւ հասցէագաւտում եւ որոնման գաւտում, երբ մուտքագրէք հիմնաբառ:
 search-choose-engine-column =
     .label = Որոնիչներ
 search-choose-keyword-column =
@@ -948,7 +948,7 @@ addressbar-suggestions-settings = Փոխել որոնիչների նախապատ
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Կատարելագործուած պաշտպանութիւն հետեւումից
-content-blocking-section-top-level-description = Հետագծիչները հետեւում են Ձեզ առցանց Ձեր զննարկման յատկութիւնների եւ հետաքրքրութիւնների մասին տեղեկութիւն հաւաքելու համար։ { -brand-short-name }-ն արգելափակում է այս հետագծիչների եւ այլ վնասարար գրուածքների մեծ մասը։
+content-blocking-section-top-level-description = Հետագծիչները հետեւում են Ձեզ առցանց ձեր դիտարկման սովորութիւնների եւ հետաքրքրութիւնների մասին տեղեկութիւն հաւաքելու համար։ { -brand-short-name }-ն արգելափակում է այս հետագծիչների եւ այլ վնասարար գրուածքների մեծ մասը։
 content-blocking-learn-more = Իմանալ աւելին
 content-blocking-fpi-incompatibility-warning = Դուք աւգտագործում էք First Party Isolation (FPI), որը վրագրում է { -brand-short-name }֊ի որոշ նշոցիկների կարգաւորումները։
 
