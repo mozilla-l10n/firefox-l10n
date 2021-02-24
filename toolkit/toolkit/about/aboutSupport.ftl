@@ -383,3 +383,13 @@ support-printing-clear-settings-button = Xóa cài đặt in đã lưu
 support-printing-modified-settings = Đã sửa đổi cài đặt in
 support-printing-prefs-name = Tên
 support-printing-prefs-value = Giá trị
+
+## Normandy sections
+
+support-remote-experiments-title = Thử nghiệm từ xa
+support-remote-experiments-name = Tên
+support-remote-experiments-branch = Nhánh thử nghiệm
+support-remote-experiments-see-about-studies = Xem trang <a data-l10n-name="support-about-studies-link">about:studies</a> để biết thêm thông tin, bao gồm cách tắt các thử nghiệm riêng lẻ hoặc tắt { -brand-short-name } từ việc chạy loại thử nghiệm này trong tương lai.
+support-remote-features-title = Tính năng từ xa
+support-remote-features-name = Tên
+support-remote-features-status = Trạng thái

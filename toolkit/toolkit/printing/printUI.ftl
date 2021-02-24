@@ -39,10 +39,6 @@ printui-scale-pcent = Tỷ lệ
 printui-two-sided-printing = In hai mặt
 printui-duplex-checkbox = In trên cả hai mặt của giấy
 printui-two-sided-printing-off = Tắt
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Lật cạnh bên
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Lật cạnh trên
 # Section title for miscellaneous print options
 printui-options = Tùy chọn
 printui-headers-footers-checkbox = In đầu trang và chân trang
@@ -100,6 +96,7 @@ printui-paper-tabloid = Báo khổ nhỏ
 
 printui-error-invalid-scale = Tỉ lệ phải là số từ 10 đến 200.
 printui-error-invalid-margin = Vui lòng nhập lề hợp lệ cho khổ giấy đã chọn.
+printui-error-invalid-copies = Bản sao phải là một số từ 1 đến 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Phạm vi phải là số từ 1 đến { $numPages }.
