@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } on vapaa ja avoimen lähd
 folder-pane-toolbar =
     .toolbarname = Kansiopaneelin työkalupalkki
     .accesskey = Ö
+folder-pane-toolbar-options-button =
+    .tooltiptext = Kansiopaneelin asetukset
 folder-pane-header-label = Kansiot
 
 ## Folder Toolbar Header Popup
@@ -19,6 +21,18 @@ folder-toolbar-hide-toolbar-toolbarbutton =
 show-all-folders-label =
     .label = Kaikki kansiot
     .accesskey = K
+show-unread-folders-label =
+    .label = Kansiot, joissa lukematta
+    .accesskey = n
+show-favorite-folders-label =
+    .label = Suosikkikansiot
+    .accesskey = u
 show-smart-folders-label =
     .label = Yhdistetyt kansiot
     .accesskey = Y
+show-recent-folders-label =
+    .label = Viimeisimmät kansiot
+    .accesskey = V
+folder-toolbar-toggle-folder-compact-view =
+    .label = Tiivis näkymä
+    .accesskey = T
