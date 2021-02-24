@@ -189,7 +189,7 @@ onboarding-welcome-steps-indicator =
     .aria-label = 시작하기:  { $current } / { $total } 화면
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span>을 선택하세요
+onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span> 선택
 onboarding-multistage-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 onboarding-multistage-theme-primary-button-label = 테마 저장
 onboarding-multistage-theme-secondary-button-label = 나중에
