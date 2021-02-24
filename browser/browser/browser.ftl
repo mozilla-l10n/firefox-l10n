@@ -467,6 +467,18 @@ urlbar-result-action-search-w-engine = { $engine } көмегімен іздеу
 urlbar-result-action-sponsored = Демеуленген
 urlbar-result-action-switch-tab = Бетке ауысу
 urlbar-result-action-visit = Шолу
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine } көмегімен іздеу үшін Tab басыңыз
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine } ішінен іздеу үшін Tab басыңыз
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
