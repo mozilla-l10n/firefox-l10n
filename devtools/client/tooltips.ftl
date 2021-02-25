@@ -31,6 +31,7 @@ inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }<
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> njama žeden efekt na interne tabelowe elementy.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> njama žeden efekt na interne tabelowe elementy mimo tabelowych celow.
 inactive-css-not-table = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo tabela.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> na toś ten element efekt njama, dokulaž se njekula.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -53,6 +54,7 @@ inactive-css-not-for-internal-table-elements-fix = Wopytajśo kakosć <strong>di
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Wopytajśo kakosć <strong>display</strong> na něco druge ako <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row.group</strong> abo <strong>table-footer-group</strong> stajiś. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Wopytajśo kakosć <strong>outline-style</strong> na něco druge ako <strong>auto</strong> abo <strong>none</strong> stajiś. { learn-more }
 inactive-css-not-table-fix = Wopytajśo <strong>display:table</strong> abo <strong>display:inline-table</strong> pśidaś. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Wopytajśo, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> abo <strong>overflow:hidden</strong> pśidaś. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
