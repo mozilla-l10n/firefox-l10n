@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = Б
 update-checkingForUpdates = Дар ҳоли санҷиши навсозиҳо…
 update-downloading = <img data-l10n-name="icon"/>Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status"/>
+update-downloading-message = Дар ҳоли боргирии навсозӣ — <label data-l10n-name="download-status"/>
 update-applying = Дар ҳоли татбиқи навсозӣ…
 update-failed = Навсозӣ иҷро нашуд. <label data-l10n-name="failed-link">Версияи охиринро боргирӣ намоед</label>
 update-failed-main = Навсозӣ иҷро нашуд. <a data-l10n-name="failed-link-main">Версияи охиринро боргирӣ намоед</a>
