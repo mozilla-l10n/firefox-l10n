@@ -160,8 +160,16 @@ menu-history-clear-recent-history =
     .label = Пок кардани таърихи охирин…
 menu-history-synced-tabs =
     .label = Варақаҳои ҳамоҳангшуда
+menu-history-restore-last-session =
+    .label = Барқарор кардани ҷаласаи қаблӣ
 menu-history-hidden-tabs =
     .label = Варақаҳои пинҳоншуда
+menu-history-undo-menu =
+    .label = Варақаҳои ба наздикӣ пӯшидашуда
+menu-history-undo-window-menu =
+    .label = Равзанаҳои ба наздикӣ пӯшидашуда
+menu-history-reopen-all-tabs = Аз нав кушодани ҳамаи варақаҳо
+menu-history-reopen-all-windows = Аз нав кушодани ҳамаи равзанаҳо
 
 ## Bookmarks Menu
 

@@ -300,13 +300,30 @@ bookmarks-other-bookmarks-menu =
     .label = Хатбаракҳои дигар
 bookmarks-mobile-bookmarks-menu =
     .label = Хатбаракҳои мобилӣ
+bookmarks-search =
+    .label = Ҷустуҷӯи хатбаракҳо
+bookmarks-tools =
+    .label = Воситаҳои хатбаракҳо
 bookmarks-bookmark-edit-panel =
     .label = Таҳрир кардани ин хатбарак
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Навори хатбаракҳо
+    .accesskey = Н
+    .aria-label = Хатбаракҳо
+bookmarks-toolbar-menu =
+    .label = Навори хатбаракҳо
 
 ## Library Panel items
 
+library-bookmarks-menu =
+    .label = Хатбаракҳо
 library-bookmarks-bookmark-edit =
     .label = Таҳрир кардани ин хатбарак
+library-recent-activity-title =
+    .value = Фаъолияти охирин
 
 ## More items
 
