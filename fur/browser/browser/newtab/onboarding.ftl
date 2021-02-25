@@ -210,3 +210,38 @@ onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Eredite l'aspiet dal tô sisteme operatîf
         pai botons, pai menù e pai barcons.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Eredite l'aspiet dal tô sisteme operatîf
+        pai botons, pai menù e pai barcons.
+# Tooltip displayed on hover of light theme
+onboarding-multistage-theme-tooltip-light-2 =
+    .title =
+        Dopre un aspiet clâr pai botons,
+        pai menù e pai barcons.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
+        Dopre un aspiet clâr pai botons,
+        pai menù e pai barcons.
+# Tooltip displayed on hover of dark theme
+onboarding-multistage-theme-tooltip-dark-2 =
+    .title =
+        Dopre un aspiet scûr pai botons,
+        pai menù e pai barcons.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Dopre un aspiet scûr pai botons,
+        pai menù e pai barcons.
+# Tooltip displayed on hover of Alpenglow theme
+onboarding-multistage-theme-tooltip-alpenglow-2 =
+    .title =
+        Dopre un aspiet incolorît pai botons,
+        pai menù e pai barcons.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
+        Dopre un aspiet incolorît pai botons,
+        pai menù e pai barcons.

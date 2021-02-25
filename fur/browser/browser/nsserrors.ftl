@@ -2,26 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-psmerr-ssl-disabled = No si pues conetisi cun sigurece parcè che il protocol SSL al è stât disabilitât.
-psmerr-ssl2-disabled = No si pues conetisi cun sigurece parcè che il sît al dopre une version viere e no sigure dal protocol SSL.
-
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Si è verificât un erôr dilunc une conession a { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Codiç di erôr: { $error }
+psmerr-ssl-disabled = Impussibil conetisi cun sigurece parcè che il protocol SSL al è stât disabilitât.
+psmerr-ssl2-disabled = Impussibil conetisi cun sigurece parcè che il sît al dopre une version dal protocol SSL plui vecje e no sigure.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Tu âs ricevût un certificât invalit. Contate l'aministradôr di servidôr o chel che ti à mandât il messaç di pueste eletroniche e dai chest messaç:
+    Tu âs ricevût un certificât no valit. Contate l'aministradôr dal servidôr o la direzion e-mail di contat dal servidôr e dai chest messaç:
     
     Il to certificât al à il stes numar di serie di un altri certificât dât fûr de autoritât di certificazion. Par plasê cjatiti un gnûf certificât cuntun numar di serie unic.
-
-ssl-error-no-cypher-overlap = No si pues inviâ une conession sigure cun chel altri estrem: no son algoritmis di cifradure in comun.
-ssl-error-no-certificate = No si pues cjatâ il certificât o la clâf che a coventin pe autenticazion.
-ssl-error-bad-certificate = No si pues tacâ une conession sigure cun chel altri estrem: il certificât di chel altri estrem al è stât dineât.
-ssl-error-bad-client = Il servidôr al à vût dâts no corets dal client.
-ssl-error-bad-server = SSL al à vût dâts no crets dal servidôr.
-ssl-error-unsupported-certificate-type = Chest gjenar di certificât nol è supuartât.
+ssl-error-export-only-server = Impussibil comunicâ cun sigurece. Chê altre bande no supuarte la cifradure di grât elevât.
+ssl-error-us-only-server = Impussibil comunicâ cun sigurece. Chê altre bande e domande une cifradure di grât elevât che no je supuartade.
+ssl-error-no-cypher-overlap = Impussibil comunicâ cun sigurece cun chel di chê altre bande: nissun algoritmi di cifradure in comun.
+ssl-error-no-certificate = Impussibil cjatâ il certificât o la clâf che a coventin pe autenticazion.
+ssl-error-bad-certificate = Impussibil comunicâ cun sigurece cun chel di chê altre bande: il certificât di chel di chê altre bande al è stât refudât.
+ssl-error-bad-client = Il servidôr al à vût dâts no juscj dal client.
+ssl-error-bad-server = Il client al à vût dâts no juscj dal servidôr.
+ssl-error-unsupported-certificate-type = Gjenar di certificât no supuartât.
 ssl-error-unsupported-version = Chel altri estrem al dopre une version no supuartade dal protocol di sigurece.
 ssl-error-wrong-certificate = La autenticazion dal client e à falât: la clâf privade te base di dâts des clâfs no corispuint ae clâf publiche te base di dâts dai certificâts.
 ssl-error-bad-cert-domain = No si pues tacâ une conession sigure cun chel altri estrem: il non di domini nol corispuint al certificât dal servidôr.
