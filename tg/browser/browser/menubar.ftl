@@ -81,6 +81,9 @@ menu-file-close =
 menu-file-close-window =
     .label = Пӯшидани равзана
     .accesskey = П
+menu-file-save-page =
+    .label = Нигоҳ доштани саҳифа ҳамчун…
+    .accesskey = Н
 menu-file-print-preview =
     .label = Пешнамоиши чоп
     .accesskey = П
@@ -96,21 +99,79 @@ menu-edit =
 
 ## View Menu
 
+menu-view-sidebar =
+    .label = Навори ҷонибӣ
+    .accesskey = Н
+menu-view-bookmarks =
+    .label = Хатбаракҳо
+menu-view-history-button =
+    .label = Таърих
+menu-view-synced-tabs-sidebar =
+    .label = Варақаҳои ҳамоҳангшуда
+menu-view-full-zoom =
+    .label = Танзими андоза
+    .accesskey = Т
+menu-view-full-zoom-enlarge =
+    .label = Калон кардан
+    .accesskey = К
+menu-view-full-zoom-reduce =
+    .label = Хурд кардан
+    .accesskey = Х
+menu-view-full-zoom-actual-size =
+    .label = Андозаи воқеӣ
+    .accesskey = А
+menu-view-full-zoom-toggle =
+    .label = Калон кардани танҳо андозаи матн
+    .accesskey = К
+menu-view-charset =
+    .label = Рамзгузории матн
+    .accesskey = Р
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Фаъол кардани экрани пурра
+    .accesskey = Ф
+menu-view-exit-full-screen =
+    .label = Хомӯш кардани экрани пурра
+    .accesskey = Х
+menu-view-full-screen =
+    .label = Экрани пурра
+    .accesskey = Э
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Намоиш додани ҳамаи варақаҳо
+    .accesskey = Н
+menu-view-bidi-switch-page-direction =
+    .label = Иваз кардани самти матн дар саҳифа
+    .accesskey = И
 
 ## History Menu
 
+menu-history =
+    .label = Таърих
+    .accesskey = Т
 menu-history-show-all-history =
     .label = Намоиш додани таърихи пурра
+menu-history-clear-recent-history =
+    .label = Пок кардани таърихи охирин…
+menu-history-synced-tabs =
+    .label = Варақаҳои ҳамоҳангшуда
+menu-history-hidden-tabs =
+    .label = Варақаҳои пинҳоншуда
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Хатбаракҳо
+    .accesskey = Х
+menu-bookmarks-show-all =
+    .label = Намоиш додани ҳамаи хатбаракҳо
+menu-bookmark-edit =
+    .label = Таҳрир кардани ин хатбарак
 menu-bookmarks-other =
     .label = Хатбаракҳои дигар
 menu-bookmarks-mobile =
@@ -127,9 +188,40 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Ҷузъҳои иловагӣ
     .accesskey = Ҷ
+menu-tools-fxa-sign-in =
+    .label = Ворид шудан ба { -brand-product-name }…
+    .accesskey = В
+menu-tools-turn-on-sync =
+    .label = Фаъол кардани { -sync-brand-short-name }…
+    .accesskey = Ф
+menu-tools-sync-now =
+    .label = Ҳозир ҳамоҳанг кунед
+    .accesskey = Ҳ
+menu-tools-fxa-re-auth =
+    .label = Аз нав пайваст шудан ба { -brand-product-name }…
+    .accesskey = А
+menu-tools-page-source =
+    .label = Рамзи манбаи саҳифа
+    .accesskey = Р
+menu-tools-page-info =
+    .label = Маълумот дар бораи саҳифа
+    .accesskey = М
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Имконот
+           *[other] Хусусиятҳо
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] И
+           *[other] Х
+        }
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Равзана
 
 ## Help Menu
 
@@ -151,3 +243,6 @@ menu-tools-addons =
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
 
+menu-help =
+    .label = Кумак
+    .accesskey = К
