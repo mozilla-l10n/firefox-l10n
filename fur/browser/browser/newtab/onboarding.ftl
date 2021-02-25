@@ -132,15 +132,46 @@ onboarding-import-browser-settings-title = Impuarte i tiei segnelibris, lis pass
 onboarding-import-browser-settings-text = Butiti — recupere di Chrome i tiei sîts e lis impostazions e puartiju cun te.
 onboarding-import-browser-settings-button = Impuarte i dâts di Chrome
 onboarding-personal-data-promise-title = Progjetât pe riservatece
+onboarding-personal-data-promise-text = { -brand-product-name } al trate i tiei dâts cun rispiet, protezintju, cjolintint di mancul e disint in mût clâr cemût che si ju dopre.
+onboarding-personal-data-promise-button = Lei lis nestris promessis
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Maraveôs, tu âs instalât { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Parcè cumò no instalistu <icon></icon><b>{ $addon-name }?</b>
+return-to-amo-extension-button = Zonte la estension
+return-to-amo-get-started-button = Tache a doprâ { -brand-short-name }
+onboarding-not-now-button-label = No cumò
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Maraveôs, tu âs instalât { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Parcè cumò no provistu<img data-l10n-name="icon"/><b>{ $addon-name }</b>?
+return-to-amo-add-extension-label = Zonte la estension
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-welcome-header = Benvignûts su <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-welcome-subtitle = Il navigadôr veloç, sigûr e riservât che al è sostignût di une organizazion cence fins di vuadagn.
+onboarding-multistage-welcome-primary-button-label = Invie la configurazion
+onboarding-multistage-welcome-secondary-button-label = Jentre
+onboarding-multistage-welcome-secondary-button-text = Âstu za un account?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Met { -brand-short-name } come <span data-l10n-name="zap">predefinît</span>
+onboarding-multistage-set-default-subtitle = Velocitât, sigurece e riservatece ogni volte che tu navighis.
+onboarding-multistage-set-default-primary-button-label = Rint predefinît
+onboarding-multistage-set-default-secondary-button-label = No cumò
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
