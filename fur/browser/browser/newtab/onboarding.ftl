@@ -126,6 +126,12 @@ onboarding-lockwise-strong-passwords-title = Cree e archivie passwords siguris
 onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } al cree passwords complicadis e siguris sul moment e lis salve dutis intun puest.
 onboarding-lockwise-strong-passwords-button = Gjestìs lis tôs credenziâls
 onboarding-facebook-container-title = Met un limit a Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } al ten separât il to profîl di dut il rest, rindint plui dificil par Facebook mostrâ publicitâts smiradis.
+onboarding-facebook-container-button = Zonte la Estension
+onboarding-import-browser-settings-title = Impuarte i tiei segnelibris, lis passwords e tant altri
+onboarding-import-browser-settings-text = Butiti — recupere di Chrome i tiei sîts e lis impostazions e puartiju cun te.
+onboarding-import-browser-settings-button = Impuarte i dâts di Chrome
+onboarding-personal-data-promise-title = Progjetât pe riservatece
 
 ## Message strings belonging to the Return to AMO flow
 
