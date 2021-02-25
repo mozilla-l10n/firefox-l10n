@@ -187,6 +187,17 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Sojsa-el u { $count } tu'aale'
        *[other] Sojsa-el kaajayil { $count } unq'a tu'aale'
     }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] A' u vaa' tuk sojsan ixe'teb'al aq'on uve' kat akolkan tuk' u { -brand-short-name } as kam kuxh ka'taj kam uva' la chee tzitza'.  As ye' la uch aq'aav ti' aqul.
+        [one] A' u vaa' tuk sojsan ixe'teb'al aq'on uve' kat akolkan tuk' u { -brand-short-name } as kam kuxh ka'taj kam uva' la chee tzitza'.  As ye' la uch aq'aav ti' aqul.
+       *[other] A' u vaa' tuk sojsan ixe'teb'al aq'on uve' kat akolkan tuk' u { -brand-short-name } as kam kuxh ka'taj kam uva' la chee tzitza'.  As ye' la uch aq'aav ti' aqul.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Sojsa el u { $count } ixe'teb'al aq'on tulaj unq'a b'anb'al aq'one'?
+       *[other] Sojsa el u { $count } ixe'teb'al aq'on tulaj unq'a b'anb'al aq'one'?
+    }
 about-logins-confirm-export-dialog-title = Eq'otzan unq'a xe'teb'al aq'one' as tuk' unq'a kach'ub' tetze'
 about-logins-confirm-export-dialog-message = Unq'a kach'ub' tetze' la ikol unq'a tz'ib'e' uva' tetz kuxhtu' ( echkole' vila', BadP @ssw0rd) echkole' uva' ab'il kuxh la jajon u aq'one' as la eel teq'oltzan.
 about-logins-confirm-export-dialog-confirm-button = Eq'o eltzan
