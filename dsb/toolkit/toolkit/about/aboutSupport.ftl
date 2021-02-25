@@ -413,3 +413,13 @@ support-printing-clear-settings-button = Skłaźone śišćaŕske nastajenja wul
 support-printing-modified-settings = Změnjone śišćaŕske nastajenja
 support-printing-prefs-name = Mě
 support-printing-prefs-value = Gódnota
+
+## Normandy sections
+
+support-remote-experiments-title = Zdalone eksperimenty
+support-remote-experiments-name = Mě
+support-remote-experiments-branch = Wótnožka eksperimenta
+support-remote-experiments-see-about-studies = Glejśo <a data-l10n-name="support-about-studies-link">about:studies</a> za dalšne informacije, inkluziwnje kak móžośo indiwiduelne eksperimenty znjemóžniś abo kak móžośo { -brand-short-name } zawoboraś, toś ten typ eksperimenta w pśichoźe wuwjasć.
+support-remote-features-title = Zdalone funkcije
+support-remote-features-name = Mě
+support-remote-features-status = Status

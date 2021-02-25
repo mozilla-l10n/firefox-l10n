@@ -166,6 +166,10 @@ onboarding-multistage-welcome-subtitle = Malsny, wěsty a priwatny wobglědowak,
 onboarding-multistage-welcome-primary-button-label = Konfigurěrowanje zachopiś
 onboarding-multistage-welcome-secondary-button-label = Pśizjawiś
 onboarding-multistage-welcome-secondary-button-text = Maśo konto?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name } ako <span data-l10n-name="zap">standard</span> póstajiś
+onboarding-multistage-set-default-subtitle = Malsnosć, wěstota a priwatnosć kuždy raz, gaž pśeglědujośo.
 onboarding-multistage-set-default-primary-button-label = K standardoju cyniś
 onboarding-multistage-set-default-secondary-button-label = Nic něnto
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
