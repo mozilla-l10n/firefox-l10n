@@ -90,7 +90,7 @@ attachments-placeholder-tooltip =
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
 expand-attachment-pane-tooltip =
-    .tooltiptext = Mostrar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-accesorio-pane-key })
+    .tooltiptext = Mostrar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
 collapse-attachment-pane-tooltip =
     .tooltiptext = Ocultar el panel de adjuntos ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key } )
 drop-file-label-attachment =
@@ -106,6 +106,14 @@ drop-file-label-inline =
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Mover primero
+move-attachment-left-panel-button =
+    .label = Mover a la izquierda
+move-attachment-right-panel-button =
+    .label = Mover a la derecha
+move-attachment-last-panel-button =
+    .label = Mover último
 button-return-receipt =
     .label = Recibo
     .tooltiptext = Pedir recibo por este mensaje
