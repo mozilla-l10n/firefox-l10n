@@ -40,10 +40,10 @@ printui-scale-pcent = Méret
 printui-two-sided-printing = Kétoldalas nyomtatás
 printui-duplex-checkbox = Nyomtatás mindkét oldalra
 printui-two-sided-printing-off = Ki
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Átfordítás a lap oldalsó szélén
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Átfordítás a lap felső szélén
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Átfordítás a lap hosszabb szélén
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Átfordítás a lap rövidebb szélén
 # Section title for miscellaneous print options
 printui-options = Beállítások
 printui-headers-footers-checkbox = Fejlécek és láblécek nyomtatása
@@ -101,6 +101,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = A skálának 10 és 200 közötti számnak kell lennie.
 printui-error-invalid-margin = Adjon meg érvényes margót a kiválasztott papírmérethez.
+printui-error-invalid-copies = A másolatok számának 1 és 10000 közötti számnak kell lennie.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = A tartománynak 1 és { $numPages } közötti számnak kell lennie.

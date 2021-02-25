@@ -403,3 +403,12 @@ support-printing-clear-settings-button = Mentett nyomtatási beállítások tör
 support-printing-modified-settings = Módosított nyomtatási beállítások
 support-printing-prefs-name = Név
 support-printing-prefs-value = Érték
+
+## Normandy sections
+
+support-remote-experiments-title = Távoli kísérletek
+support-remote-experiments-name = Név
+support-remote-experiments-branch = Kísérleti ág
+support-remote-features-title = Távoli funkciók
+support-remote-features-name = Név
+support-remote-features-status = Állapot
