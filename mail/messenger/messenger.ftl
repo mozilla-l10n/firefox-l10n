@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } es un software gratuito y
 folder-pane-toolbar =
     .toolbarname = Barra de herramientas del panel de carpetas
     .accesskey = F
+folder-pane-toolbar-options-button =
+    .tooltiptext = Opciones del panel de carpetas
 folder-pane-header-label = Carpetas
 
 ## Folder Toolbar Header Popup
