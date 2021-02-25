@@ -403,3 +403,10 @@ support-printing-clear-settings-button = Viŝi konservitajn presajn agordojn
 support-printing-modified-settings = Modifitaj presaj agordoj
 support-printing-prefs-name = Nomo
 support-printing-prefs-value = Valoro
+
+## Normandy sections
+
+support-remote-experiments-name = Nomo
+support-remote-experiments-branch = Eksperimenta branĉo
+support-remote-features-name = Nomo
+support-remote-features-status = Stato
