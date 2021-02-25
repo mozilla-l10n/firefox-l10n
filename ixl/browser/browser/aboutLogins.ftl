@@ -29,6 +29,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Eq'o ku'tzan tu uma'l jajb'al tetz u aq'one'
 about-logins-menu-menuitem-import-from-a-file = La eeq'otzan tu uma'l kolb'al tetz…
 about-logins-menu-menuitem-export-logins = La eq'oltzan unq'a vee' uve' kat xe't kat aq'on…
+about-logins-menu-menuitem-remove-all-logins = Sojsa kaajayil unq'a aq'one' uve' xe'tisamal kan s-a'n…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Unka'te
@@ -83,6 +84,7 @@ login-item-new-login-title = Xe't'sa uma't ak' ixe't aq'on
 login-item-edit-button = B'an tuche'
 about-logins-login-item-remove-button = Sojsa
 login-item-origin-label = Tatinb'al web
+login-item-tooltip-message = Jik chit la aaq'ku' aq'al uva' la ilej tib' tuk' u texhlale' uve' naxe'tisa kat aq'on.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ib'ii u etzit tetze'
@@ -168,6 +170,23 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = La sojsa kan ixe'tisal kan u aq'one' tzitza'?
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
 about-logins-confirm-remove-dialog-confirm-button = Sojsa
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Sojsa
+        [one] Sojsa kaajayil
+       *[other] Sojsa kaajayil
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Kanoj, sojsa-el u xe'teb'al aq'one' vaa'
+        [one] Kanoj, sojsa-el kaajayil u xe'teb'al aq'one' vaa'
+       *[other] Kanoj, sojsa-el kaajayil u xe'teb'al aq'one' vaa'
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Sojsa-el u { $count } tu'aale'
+       *[other] Sojsa-el kaajayil { $count } unq'a tu'aale'
+    }
 about-logins-confirm-export-dialog-title = Eq'otzan unq'a xe'teb'al aq'one' as tuk' unq'a kach'ub' tetze'
 about-logins-confirm-export-dialog-message = Unq'a kach'ub' tetze' la ikol unq'a tz'ib'e' uva' tetz kuxhtu' ( echkole' vila', BadP @ssw0rd) echkole' uva' ab'il kuxh la jajon u aq'one' as la eel teq'oltzan.
 about-logins-confirm-export-dialog-confirm-button = Eq'o eltzan
@@ -208,4 +227,12 @@ about-logins-error-message-default = Kat ilej va'lexh la kam tul uva' ni'k ikolp
 
 
 ## Login Import Dialog
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
 
