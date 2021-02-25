@@ -12,7 +12,7 @@ printui-sheets-count =
         [one] { $sheetCount } folha de papel
        *[other] { $sheetCount } folhas de papel
     }
-printui-page-range-all = Tudo
+printui-page-range-all = Todas
 printui-page-range-custom = Personalizado
 printui-page-range-label = Páginas
 printui-page-range-picker =
@@ -47,7 +47,7 @@ printui-two-sided-printing-short-edge = Virar na borda curta
 # Section title for miscellaneous print options
 printui-options = Opções
 printui-headers-footers-checkbox = Imprimir cabeçalhos e rodapés
-printui-backgrounds-checkbox = Imprimir planos de fundo
+printui-backgrounds-checkbox = Imprimir fundo
 printui-selection-checkbox = Imprimir somente a seleção
 printui-color-mode-label = Modo de cor
 printui-color-mode-color = Colorido
