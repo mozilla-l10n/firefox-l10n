@@ -115,6 +115,17 @@ onboarding-mobile-phone-text = Discjarie { -brand-product-name } par iOS o Andro
 # browser.
 onboarding-mobile-phone-button = Discjarie il navigadôr mobil
 onboarding-send-tabs-title = Manditi daurman lis schedis
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Condivît cun facilitât lis pagjinis tra i tiei dispositîfs cence copiâ i colegaments o lassâ il navigadôr.
+onboarding-send-tabs-button = Scomence a doprâ “Invie schedis”
+onboarding-pocket-anywhere-title = Lei e scolte dapardut
+onboarding-pocket-anywhere-text2 = Salve i tiei contignûts preferîts fûr rêt cu la aplicazion { -pocket-brand-name } e lei, scolte e viôt ogni volte che ti va ben.
+onboarding-pocket-anywhere-button = Prove { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Cree e archivie passwords siguris
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } al cree passwords complicadis e siguris sul moment e lis salve dutis intun puest.
+onboarding-lockwise-strong-passwords-button = Gjestìs lis tôs credenziâls
+onboarding-facebook-container-title = Met un limit a Facebook
 
 ## Message strings belonging to the Return to AMO flow
 
