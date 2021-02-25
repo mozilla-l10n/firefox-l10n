@@ -11,12 +11,44 @@
 
 ## Application Menu (macOS only)
 
+menu-application-services =
+    .label = Хизматҳо
+menu-application-hide-this =
+    .label = Пинҳон кардани { -brand-shorter-name }
+menu-application-hide-other =
+    .label = Пинҳон кардани дигарон
+menu-application-show-all =
+    .label = Ҳамаро намоиш додан
+menu-application-touch-bar =
+    .label = Танзим кардани навори ламсӣ…
 
 ##
 
+# These menu-quit strings are only used on Windows and Linux.
+menu-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Баромадан
+           *[other] Хомӯш кардан
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Б
+           *[other] Х
+        }
+# This menu-quit-mac string is only used on macOS.
+menu-quit-mac =
+    .label = Хомӯш кардани { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
+# This menu-quit-button-win string is only used on Windows.
+menu-quit-button-win =
+    .label = { menu-quit.label }
+    .tooltip = Аз { -brand-shorter-name } баромадан
+menu-about =
+    .label = Дар бораи { -brand-shorter-name }
+    .accesskey = Д
 
 ## File Menu
 
@@ -25,6 +57,9 @@ menu-file =
     .accesskey = Ф
 menu-file-new-tab =
     .label = Варақаи нав
+    .accesskey = В
+menu-file-new-container-tab =
+    .label = Варақаи нави дарбаргиранда
     .accesskey = В
 menu-file-new-window =
     .label = Равзанаи нав
@@ -42,6 +77,9 @@ menu-file-open-file =
     .accesskey = К
 menu-file-close =
     .label = Пӯшидан
+    .accesskey = П
+menu-file-close-window =
+    .label = Пӯшидани равзана
     .accesskey = П
 menu-file-print-preview =
     .label = Пешнамоиши чоп
@@ -100,6 +138,15 @@ menu-tools-addons =
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-help-product
+#
+# These strings are duplicated to allow for different casing depending on
+# where the strings appear.
+
+
+# NOTE: For Engineers, any additions or changes to Help menu strings should
+# also be reflected in the related strings in appmenu.ftl. Those strings, by
+# convention, will have the same ID as these, but prefixed with "app".
+# Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
 # where the strings appear.
