@@ -409,6 +409,7 @@ support-printing-prefs-value = Érték
 support-remote-experiments-title = Távoli kísérletek
 support-remote-experiments-name = Név
 support-remote-experiments-branch = Kísérleti ág
+support-remote-experiments-see-about-studies = További információkért tekintse meg az <a data-l10n-name="support-about-studies-link">about:studies</a> oldalt, beleértve az egyes kísérletek letiltásának módját, vagy annak, hogy a { -brand-short-name } ne futtasson többé ilyen típusú kísérleteket.
 support-remote-features-title = Távoli funkciók
 support-remote-features-name = Név
 support-remote-features-status = Állapot
