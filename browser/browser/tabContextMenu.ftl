@@ -56,6 +56,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Chiudi più schede
     .accesskey = u
+tab-context-share-url =
+    .label = Condividi
+    .accesskey = d
+tab-context-share-more =
+    .label = Altro…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
