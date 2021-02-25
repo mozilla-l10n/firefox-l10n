@@ -58,7 +58,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.settings.label "Postavke">
 <!ENTITY fxa.menu.accountSettings.label "Postavke računa">
 <!ENTITY fxa.menu.manageAccount2.label "Upravljaj računom">
-<!ENTITY fxa.menu.signOut.label "Odjavite se…">
+<!ENTITY fxa.menu.signOut.label "Odjavi se…">
 <!ENTITY fxa.menu.setupSync.label "Postavi &syncBrand.shortName.label; …">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -144,6 +144,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Nedavno zatvoreni prozori">
 
 <!ENTITY appMenuHistory.showAll.label "Prikaži svu povijest">
+
 <!ENTITY appMenuHistory.clearRecent.label "Izbriši nedavnu povijest …">
 <!ENTITY appMenuHistory.restoreSession.label "Vrati prethodnu sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži okvir povijesti">
