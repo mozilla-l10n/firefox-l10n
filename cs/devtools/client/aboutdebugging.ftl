@@ -101,7 +101,7 @@ about-debugging-setup-usb-disabled =
         [feminine] { -brand-shorter-name(case: "gen") }
         [neuter] { -brand-shorter-name(case: "gen") }
        *[other] aplikace { -brand-shorter-name }
-    } komponenty potřebné pro ladění pomocí Andoird USB.
+    } komponenty potřebné pro ladění v Androidu pomocí USB.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Povolit USB zařízení
@@ -115,7 +115,7 @@ about-debugging-setup-usb-status-enabled = Povoleno
 about-debugging-setup-usb-status-disabled = Zakázáno
 about-debugging-setup-usb-status-updating = Probíhá aktualizace…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu2 = Zapněte nabídku vývojáře na vašem zařízení s Android.
+about-debugging-setup-usb-step-enable-dev-menu2 = Zapněte nabídku vývojáře na vašem zařízení s Androidem.
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Povolte ladění přes USB v nabídce pro vývojáře Androidu.
 # USB section step by step guide
