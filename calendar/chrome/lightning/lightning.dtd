@@ -19,12 +19,6 @@
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
-<!ENTITY lightning.menupopup.open.label               "Iepenje">
-<!ENTITY lightning.menupopup.open.accesskey           "I">
-<!ENTITY lightning.menupopup.open.message.label       "Bewarre berjocht…">
-<!ENTITY lightning.menupopup.open.message.accesskey   "b">
-
-<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Agindabestân…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "A">
 
@@ -79,7 +73,7 @@
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Opnij ynplanne">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Evenemint opnij ynplanne">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "In kopie bewarje">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "In kopie fan it barren yn de aginda bewarje, ûnôfhinklik fan beantwurding nei de organisearder. De lijst van genodigden zal worden gewist.">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "In kopy fan it barren yn de aginda bewarje, ûnôfhinklik fan beäntwurding nei de organisator. De list fan gasten sil wiske wurde.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Foarearst">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Barrensútnûging foarearst akseptearje">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Foarearst alles">
