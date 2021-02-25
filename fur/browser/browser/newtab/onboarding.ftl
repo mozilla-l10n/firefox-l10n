@@ -172,9 +172,41 @@ onboarding-multistage-set-default-header = Met { -brand-short-name } come <span 
 onboarding-multistage-set-default-subtitle = Velocitât, sigurece e riservatece ogni volte che tu navighis.
 onboarding-multistage-set-default-primary-button-label = Rint predefinît
 onboarding-multistage-set-default-secondary-button-label = No cumò
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "more" should stay inside the span.
+onboarding-multistage-import-header = Impuarte lis tôs passwords, <br/> i segnelibris e <span data-l10n-name="zap"> ancjemò altri</span>
+onboarding-multistage-import-subtitle = Rivistu di un altri navigadôr? Al è facil cjatâ dut su { -brand-short-name }.
+onboarding-multistage-import-primary-button-label = Scomence la importazion
+onboarding-multistage-import-secondary-button-label = No cumò
+# Info displayed in the footer of import settings screen during onboarding flow.
+# This supports welcome screen showing top sites imported from the user's default browser.
+onboarding-import-sites-disclaimer = I sîts listâts achì a son stâts cjatâts su chest dispositîfs. { -brand-short-name } nol salve o sincronize dâts di un altri navigadôr gjavant il câs che no tu decidis di impuartâju.
+# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+onboarding-welcome-steps-indicator =
+    .aria-label = Cemût scomençâ: videade { $current } di { $total }
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "look" should stay inside the span.
+onboarding-multistage-theme-header = Sielç un <span data-l10n-name="zap">aspiet</span>
+onboarding-multistage-theme-subtitle = Personalize { -brand-short-name } cuntun teme.
+onboarding-multistage-theme-primary-button-label = Salve il teme
+onboarding-multistage-theme-secondary-button-label = No cumò
+# Automatic theme uses operating system color settings
+onboarding-multistage-theme-label-automatic = Automatic
+onboarding-multistage-theme-label-light = Clâr
+onboarding-multistage-theme-label-dark = Scûr
+# "Firefox Alpenglow" here is the name of the theme, and should be kept in English.
+onboarding-multistage-theme-label-alpenglow = Firefox Alpenglow
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of automatic theme
+onboarding-multistage-theme-tooltip-automatic-2 =
+    .title =
+        Eredite l'aspiet dal tô sisteme operatîf
+        pai botons, pai menù e pai barcons.
