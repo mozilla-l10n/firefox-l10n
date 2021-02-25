@@ -406,3 +406,13 @@ support-printing-clear-settings-button = Stizzar ils parameters da stampa memori
 support-printing-modified-settings = Parameters da stampa modifitgads
 support-printing-prefs-name = Num
 support-printing-prefs-value = Valur
+
+## Normandy sections
+
+support-remote-experiments-title = Experiments a distanza
+support-remote-experiments-name = Num
+support-remote-experiments-branch = Branch d'experiments
+support-remote-experiments-see-about-studies = Consultar <a data-l10n-name="support-about-studies-link">about:studies</a> per ulteriuras infurmaziuns, p.ex. co deactivar singuls experiments u impedir che { -brand-short-name } exequeschia en l'avegnir tals experiments.
+support-remote-features-title = Funcziunalitads a distanza
+support-remote-features-name = Num
+support-remote-features-status = Status

@@ -40,10 +40,10 @@ printui-scale-pcent = Scalaziun
 printui-two-sided-printing = Stampar davant e davos
 printui-duplex-checkbox = Stampar d'omaduas varts
 printui-two-sided-printing-off = Deactivà
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Volver lung l'ur lateral
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Volver lung l'ur sura
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Volver enturn l'ur lung
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Volver enturn l'ur curt
 # Section title for miscellaneous print options
 printui-options = Opziuns
 printui-headers-footers-checkbox = Stampar ils chaus-pagina ed ils pes-pagina
@@ -101,6 +101,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = La scalaziun sto esser in numer tranter 10 e 200.
 printui-error-invalid-margin = Endatescha per plaschair in ur valid per la grondezza da palpiri tschernida.
+printui-error-invalid-copies = Il dumber da copias sto esser tranter 1 e 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L'interval sto esser in numer tranter 1 e { $numPages }.
