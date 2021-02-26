@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Kenuk'samajïx Taq Yaketal
 bookmarks-recent-bookmarks-panel =
     .value = K'ak'a' Taq Yaketal
+bookmarks-recent-bookmarks-panel-subheader = K'ak'a' Taq Yaketal
 bookmarks-toolbar-chevron =
     .tooltiptext = Kek'ut pe ch'aqa' chik taq yaketal
 bookmarks-sidebar-content =
