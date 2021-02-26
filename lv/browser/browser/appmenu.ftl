@@ -36,6 +36,9 @@ whatsnew-panel-header = Kas jauns?
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -55,6 +58,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = P
 appmenu-help-taskmanager =
     .label = Uzdevumu pārvaldnieks
+appmenu-help-report-site-issue =
+    .label = Ziņot par problēmu ar lapu…
 appmenu-help-feedback-page =
     .label = Nosūtīt atsauksmi…
     .accesskey = s
@@ -80,4 +85,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
