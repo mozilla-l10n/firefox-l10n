@@ -324,11 +324,29 @@ about-logins-import-report-row-description-error = Feil: Mangler felt
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Feil: Flere verdier for { $field }
+about-logins-import-report-row-description-error-missing-field = Feil: Mangler { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nye innlogginger lagt til</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterende innlogginger oppdatert</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikate innlogginger</div> <div data-l10n-name="not-imported">(ikke importerrt)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">feil</div> <div data-l10n-name="not-imported">(ikke importert)</div>
+    }
 
 ## Logins import report page
 
