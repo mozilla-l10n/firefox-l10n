@@ -317,6 +317,37 @@ about-logins-import-dialog-error-no-logins-imported = No se importaron inicios d
 about-logins-import-dialog-error-learn-more = Conocer más
 about-logins-import-dialog-error-try-again = Intentar de nuevo...
 about-logins-import-dialog-error-cancel = Cancelar
+about-logins-import-report-title = Importar resumen
+about-logins-import-report-description = Inicios de sesión y contraseñas importados a { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Fila { $number }
+about-logins-import-report-row-description-no-change = Duplicar: Coincidencia exacta del inicio de sesión existente
+about-logins-import-report-row-description-modified = Inicio de sesión actual actualizado
+about-logins-import-report-row-description-added = Se agregó nuevo inicio de sesión
+about-logins-import-report-row-description-error = Error: campo faltante
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Error: Valores múltiples para { $field }
+about-logins-import-report-row-description-error-missing-field = Error: Falta { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><Se agregaron nuevos inicios de sesión</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Inicios de sesión actualizados</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Inicios de sesión actualizados</div>
+    }
 
 ## Logins import report page
 
