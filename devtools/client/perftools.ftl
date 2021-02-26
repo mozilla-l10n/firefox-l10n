@@ -84,6 +84,8 @@ perftools-thread-render-backend =
     .title = Lo fila d’execucion RenderBackend de WebRender
 perftools-thread-style-thread =
     .title = Lo calcul de l’estil es partejat entre mantun fial
+pref-thread-stream-trans =
+    .title = Transpòrt de flux ret
 perftools-thread-img-decoder =
     .title = Filas de decodatge d’imatge
 perftools-thread-dns-resolver =
@@ -91,6 +93,7 @@ perftools-thread-dns-resolver =
 
 ##
 
+perftools-record-all-registered-threads = Ignorar las seleccion al dessús e enregistrar totes los fils
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
