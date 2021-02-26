@@ -539,6 +539,7 @@ bookmarks-manage-bookmarks =
     .label = Керувати закладками
 bookmarks-recent-bookmarks-panel =
     .value = Недавні закладки
+bookmarks-recent-bookmarks-panel-subheader = Недавні закладки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показати інші закладки
 bookmarks-sidebar-content =
