@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Hantera bokmärken
 bookmarks-recent-bookmarks-panel =
     .value = Senaste bokmärken
+bookmarks-recent-bookmarks-panel-subheader = Senaste bokmärken
 bookmarks-toolbar-chevron =
     .tooltiptext = Visa fler bokmärken
 bookmarks-sidebar-content =
