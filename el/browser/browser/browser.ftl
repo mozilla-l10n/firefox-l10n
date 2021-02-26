@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Διαχείριση σελιδοδεικτών
 bookmarks-recent-bookmarks-panel =
     .value = Πρόσφατοι σελιδοδείκτες
+bookmarks-recent-bookmarks-panel-subheader = Πρόσφατοι σελιδοδείκτες
 bookmarks-toolbar-chevron =
     .tooltiptext = Προβολή περισσότερων σελιδοδεικτών
 bookmarks-sidebar-content =
