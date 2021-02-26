@@ -354,6 +354,18 @@ about-logins-import-report-modified =
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наявні паролі оновлено</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наявних паролів оновлено</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікат пароля</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікати паролів</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікатів паролів</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">помилка</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">помилки</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">помилок</div> <div data-l10n-name="not-imported">(не імпортовано)</div>
+    }
 
 ## Logins import report page
 
