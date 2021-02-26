@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ara
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Sincronizar ara
+    .value = Sincronizar ara
+appmenuitem-fxa-manage-account = Gestion del compte
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Darrièra sincro. { $time }
+    .label = Darrièra sincro. { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Sincronizar e enregistrar las donadas
+appmenu-fxa-signed-in-label = Connexion
+appmenu-fxa-setup-sync =
+    .label = Activar la sincronizacion…
 appmenuitem-save-page =
     .label = Enregistrar jos…
 
