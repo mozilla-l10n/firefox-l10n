@@ -529,6 +529,7 @@ bookmarks-manage-bookmarks =
     .label = Kudeatu laster-markak
 bookmarks-recent-bookmarks-panel =
     .value = Azken laster-markak
+bookmarks-recent-bookmarks-panel-subheader = Azken laster-markak
 bookmarks-toolbar-chevron =
     .tooltiptext = Erakutsi laster-marka gehiago
 bookmarks-sidebar-content =
