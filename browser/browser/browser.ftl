@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Administri legosignojn
 bookmarks-recent-bookmarks-panel =
     .value = Ĵusaj legosignoj
+bookmarks-recent-bookmarks-panel-subheader = Ĵusaj legosignoj
 bookmarks-toolbar-chevron =
     .tooltiptext = Montri pliajn legosignojn
 bookmarks-sidebar-content =
