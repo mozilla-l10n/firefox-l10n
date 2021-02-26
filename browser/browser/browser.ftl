@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = სანიშნების მართვა
 bookmarks-recent-bookmarks-panel =
     .value = ბოლოს ჩანიშნული
+bookmarks-recent-bookmarks-panel-subheader = ბოლოს ჩანიშნული
 bookmarks-toolbar-chevron =
     .tooltiptext = სხვა სანიშნების გამოჩენაც
 bookmarks-sidebar-content =
