@@ -40,6 +40,9 @@ whatsnew-panel-header = Yangi xususiyatlar
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -62,6 +65,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = N
 appmenu-help-taskmanager =
     .label = Vazifa menejeri
+appmenu-help-report-site-issue =
+    .label = Saytdagi muammo haqida xabar berish
 appmenu-help-feedback-page =
     .label = Mulohaza bildirish
     .accesskey = b
@@ -87,4 +92,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
