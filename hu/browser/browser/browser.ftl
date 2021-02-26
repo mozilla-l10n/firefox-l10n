@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Könyvjelzők kezelése
 bookmarks-recent-bookmarks-panel =
     .value = Friss könyvjelzők
+bookmarks-recent-bookmarks-panel-subheader = Friss könyvjelzők
 bookmarks-toolbar-chevron =
     .tooltiptext = További könyvjelzők megjelenítése
 bookmarks-sidebar-content =
