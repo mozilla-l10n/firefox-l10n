@@ -309,6 +309,26 @@ about-logins-import-dialog-error-no-logins-imported = Ingen innlogginger er impo
 about-logins-import-dialog-error-learn-more = Les mer
 about-logins-import-dialog-error-try-again = Prøv igjen …
 about-logins-import-dialog-error-cancel = Avbryt
+about-logins-import-report-title = Importsammendrag
+about-logins-import-report-description = Innlogginger og passord importert til { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rad { $number }
+about-logins-import-report-row-description-no-change = Duplikat: Nøyaktig samsvar med eksisterende innlogging
+about-logins-import-report-row-description-modified = Eksisterende innlogging oppdatert
+about-logins-import-report-row-description-added = Ny innlogging lagt til
+about-logins-import-report-row-description-error = Feil: Mangler felt
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
