@@ -539,6 +539,7 @@ bookmarks-manage-bookmarks =
     .label = Tvarkyti adresyną
 bookmarks-recent-bookmarks-panel =
     .value = Paskiausi adresyno įrašai
+bookmarks-recent-bookmarks-panel-subheader = Paskiausi adresyno įrašai
 bookmarks-toolbar-chevron =
     .tooltiptext = Kiti adresai
 bookmarks-sidebar-content =
