@@ -235,6 +235,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Protecciones de un vistazo
 cfr-whatsnew-protections-body = El Panel de protección incluye informes resumidos sobre filtraciones de datos y administración de contraseñas. Ahora puede realizar un seguimiento de la cantidad de filtraciones que has resuelto y ver si alguna de tus contraseñas guardadas puede haberse visto expuesta en una filtración de datos.
 cfr-whatsnew-protections-cta-link = Ver panel de protecciones
@@ -289,3 +293,7 @@ cfr-whatsnew-supercookies-body = Los sitios web pueden adjuntar en secreto una "
 
 cfr-whatsnew-bookmarking-header = Mejores marcadores
 cfr-whatsnew-bookmarking-body = Es más fácil realizar un seguimiento de tus sitios favoritos. { -brand-short-name } ahora recuerda tu ubicación preferida para los marcadores guardados, muestra la barra de herramientas de marcadores de forma predeterminada en las pestañas nuevas y te brinda fácil acceso al resto de tus marcadores a través de una carpeta en la barra de herramientas.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Protección integral contra el rastreo de cookies de sitios cruzados
