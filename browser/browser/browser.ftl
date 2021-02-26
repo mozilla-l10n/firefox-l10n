@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Lesezeichen verwalten
 bookmarks-recent-bookmarks-panel =
     .value = Neueste Lesezeichen
+bookmarks-recent-bookmarks-panel-subheader = Neueste Lesezeichen
 bookmarks-toolbar-chevron =
     .tooltiptext = Weitere Lesezeichen anzeigen
 bookmarks-sidebar-content =
