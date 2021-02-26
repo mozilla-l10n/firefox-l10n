@@ -76,6 +76,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -98,6 +101,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = T
 appmenu-help-taskmanager =
     .label = कार्य प्रबंधक
+appmenu-help-report-site-issue =
+    .label = साइट समस्या की रिपोर्ट करें…
 appmenu-help-feedback-page =
     .label = प्रतिक्रिया जमा करें...
     .accesskey = S
@@ -123,4 +128,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
