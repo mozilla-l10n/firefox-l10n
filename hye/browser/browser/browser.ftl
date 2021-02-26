@@ -538,30 +538,36 @@ bookmarks-menu-button =
 bookmarks-other-bookmarks-menu =
     .label = Այլ Էջանիշներ
 bookmarks-mobile-bookmarks-menu =
-    .label = Բջջային էջանիշեր
+    .label = Շարժական էջանիշներ
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Թաքցնել էջանիշերի կողագաւտին
-           *[other] Դիտել էջանիշերի վահանակը
+            [true] Թաքցնել էջանիշների կողագաւտին
+           *[other] Դիտել էջանիշների կողագաւտին
         }
 bookmarks-tools-toolbar-visibility =
     .label =
         { $isVisible ->
-            [true] Թաքցնել էջանիշերի գործիքագաւտին
-           *[other] Դիտել էջանիշերի վահանակը
+            [true] Թաքցնել էջանիշների գործեգաւտին
+           *[other] Դիտել էջանիշների գործեգաւտին
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Թաքցնել էջանիշերի գործիքագաւտին
-           *[other] Դիտել էջանիշերի վահանակը
+            [true] Թաքցնել էջանիշների գործեգաւտին
+           *[other] Դիտել էջանիշների գործեգաւտին
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Թաքցնել էջանիշների գործեգաւտին
+           *[other] Ցուցադրել էջանիշների գործեգաւտին
         }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Հեռացնել էջանիշերի ցանկը գործիքագաւտուց
-           *[other] Աւելացնել էջանիշերի ցանկ գործիքագաւտիում
+            [true] Հեռացնել էջանիշների ցանկը գործեգաւտուց
+           *[other] Աւելացնել էջանիշների ցանկ գործեգաւտում
         }
 bookmarks-search =
     .label = Էջանիշերի որոնում
