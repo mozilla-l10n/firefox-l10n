@@ -131,6 +131,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = 复制邮件地址
     .accesskey = E
@@ -227,6 +232,9 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = 复制音频地址
     .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = 复制音频链接
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = 另存图像为…
     .accesskey = v
@@ -239,6 +247,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = 查看图像信息
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = 将图片设为桌面背景…
+    .accesskey = S
 main-context-menu-image-desc =
     .label = 查看描述
     .accesskey = D
