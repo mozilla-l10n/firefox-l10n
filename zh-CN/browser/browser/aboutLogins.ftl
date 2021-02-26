@@ -305,6 +305,17 @@ about-logins-import-dialog-error-no-logins-imported = 未导入任何登录信�
 about-logins-import-dialog-error-learn-more = 详细了解
 about-logins-import-dialog-error-try-again = 重试…
 about-logins-import-dialog-error-cancel = 取消
+about-logins-import-report-row-description-error = 错误：缺少字段
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
