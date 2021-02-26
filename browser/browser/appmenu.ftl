@@ -48,6 +48,9 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -70,6 +73,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = f
 appmenu-help-taskmanager =
     .label = Chestor de quefers
+appmenu-help-report-site-issue =
+    .label = Reportar un problema con o puesto…
 appmenu-help-feedback-page =
     .label = Ninviar una opinión…
     .accesskey = v
@@ -95,4 +100,7 @@ appmenu-help-not-deceptive =
     .accesskey = m
 
 ##
+
+
+## More Tools
 
