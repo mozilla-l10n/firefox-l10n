@@ -67,8 +67,8 @@ deniedPortAccess-title = Այս հասցէն արգելափակուած է
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Հնարաւոր չէ գտնել այս կայքը։
-fileNotFound-title = Նիշքը չի գտնուել
-fileAccessDenied-title = Նիշքին հասանելութիւնը մերժուած է
+fileNotFound-title = Նիշը չի գտնուել
+fileAccessDenied-title = Նիշին հասանելութիւնը մերժուած է
 generic-title = Վա՜յ։
 captivePortal-title = Մուտք գործել ցանց
 # "Hmm" is a sound made when considering or puzzling over something.
@@ -78,7 +78,7 @@ netInterrupt-title = Կապը խզուեց
 notCached-title = Փաստաթուղթը ժամկէտանց է
 netOffline-title = Անցանց եղանակ
 contentEncodingError-title = Բովանդակութեան կոդաւորման սխալ
-unsafeContentType-title = Ոչ անվտանգ նիշքի տեսակ
+unsafeContentType-title = Անապահով նիշի տեսակ
 netReset-title = Կապը  վերակայուեց
 netTimeout-title = Կապի հաստատման ժամանակը սպառուեց
 unknownProtocolFound-title = Հասցէն անհասկանալի էր
