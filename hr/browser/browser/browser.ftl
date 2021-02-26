@@ -539,6 +539,7 @@ bookmarks-manage-bookmarks =
     .label = Upravljanje zabilješkama
 bookmarks-recent-bookmarks-panel =
     .value = Nedavne zabilješke
+bookmarks-recent-bookmarks-panel-subheader = Nedavne zabilješke
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki
 bookmarks-sidebar-content =
