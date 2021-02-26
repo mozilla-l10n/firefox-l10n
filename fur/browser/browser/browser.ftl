@@ -531,6 +531,7 @@ bookmarks-manage-bookmarks =
     .label = Gjestìs segnelibris
 bookmarks-recent-bookmarks-panel =
     .value = Segnelibris resints
+bookmarks-recent-bookmarks-panel-subheader = Segnelibris resints
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostre plui segnelibris
 bookmarks-sidebar-content =
