@@ -375,6 +375,20 @@ about-logins-import-report-modified =
         [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowace přizjewjenja su so zaktualizowali</div>
        *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowace přizjewjenja su so zaktualizowali</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Dwójne přizjewjenje</div><div data-l10n-name="not-imported">(njeimportowane)</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Dwójnej přizjewjeni</div><div data-l10n-name="not-imported">(njeimportowanej)</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Dwójne přizjewjenja</div><div data-l10n-name="not-imported">(njeimportowane)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Dwójne přizjewjenja</div><div data-l10n-name="not-imported">(njeimportowane)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Zmylk</div><div data-l10n-name="not-imported">(njeimportowany)</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Zmylkaj</div><div data-l10n-name="not-imported">(njeimportowanej)</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Zmylki</div><div data-l10n-name="not-imported">(njeimportowane)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Zmylki</div><div data-l10n-name="not-imported">(njeimportowane)</div>
+    }
 
 ## Logins import report page
 
