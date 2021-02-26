@@ -40,6 +40,9 @@ whatsnew-panel-header = Ko Hesɗi
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -62,6 +65,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = H
 appmenu-help-taskmanager =
     .label = Yiilorde golle
+appmenu-help-report-site-issue =
+    .label = Jaŋto Caɗeele Lowre…
 appmenu-help-feedback-page =
     .label = Neldu Duttinal…
     .accesskey = N
@@ -87,4 +92,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
