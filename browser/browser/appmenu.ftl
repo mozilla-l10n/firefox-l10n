@@ -40,6 +40,9 @@ whatsnew-panel-header = Na tha ùr
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -62,6 +65,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = T
 appmenu-help-taskmanager =
     .label = Manaidsear nan saothair
+appmenu-help-report-site-issue =
+    .label = Dèan aithris air duilgheadas leis an làrach...
 appmenu-help-feedback-page =
     .label = Cuir thugainn do bheachdan…
     .accesskey = C
@@ -87,4 +92,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
