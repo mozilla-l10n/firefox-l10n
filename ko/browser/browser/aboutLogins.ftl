@@ -308,16 +308,42 @@ about-logins-import-dialog-error-try-again = 다시 시도…
 about-logins-import-dialog-error-cancel = 취소
 about-logins-import-report-title = 가져오기 요약
 about-logins-import-report-description = 로그인과 비밀번호를 { -brand-short-name }로 가져왔습니다.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number } 행
+about-logins-import-report-row-description-no-change = 중복: 기존 로그인과 정확히 일치
+about-logins-import-report-row-description-modified = 기존 로그인 업데이트됨
+about-logins-import-report-row-description-added = 새 로그인 추가됨
+about-logins-import-report-row-description-error = 오류: 누락된 필드
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = 오류: { $field }에 대한 여러 값
+about-logins-import-report-row-description-error-missing-field = 오류: 누락된 { $field } 필드
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details"> 새 로그인 추가됨</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details">기존 로그인 업데이트됨</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details">중복 로그인</div> <div data-l10n-name="not-imported">(가져오지 않음)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details">오류</div> <div data-l10n-name="not-imported">(가져오지 않음)</div>
+    }
 
 ## Logins import report page
 

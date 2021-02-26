@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 지금 동기화
+appmenuitem-fxa-toolbar-sync-now =
+    .label = 지금 동기화
+    .value = 지금 동기화
+appmenuitem-fxa-manage-account = 계정 관리
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = { $time }에 마지막 동기화됨
+    .label = { $time }에 마지막 동기화됨
+appmenu-fxa-sync-and-save-data =
+    .value = 데이터 동기화 및 저장
+appmenu-fxa-signed-in-label = 로그인
+appmenu-fxa-setup-sync =
+    .label = 동기화 켜기…
 appmenuitem-save-page =
     .label = 다른 이름으로 저장…
 
