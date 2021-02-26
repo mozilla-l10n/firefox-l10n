@@ -48,6 +48,9 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -67,6 +70,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = P
 appmenu-help-taskmanager =
     .label = Tegumihaldur
+appmenu-help-report-site-issue =
+    .label = Anna teada saidil olevast veast…
 appmenu-help-feedback-page =
     .label = Anna tagasisidet…
     .accesskey = A
@@ -92,4 +97,7 @@ appmenu-help-not-deceptive =
     .accesskey = b
 
 ##
+
+
+## More Tools
 
