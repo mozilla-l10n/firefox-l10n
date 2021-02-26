@@ -529,6 +529,7 @@ bookmarks-manage-bookmarks =
     .label = 管理书签
 bookmarks-recent-bookmarks-panel =
     .value = 最近的书签
+bookmarks-recent-bookmarks-panel-subheader = 最近的书签
 bookmarks-toolbar-chevron =
     .tooltiptext = 显示更多书签
 bookmarks-sidebar-content =
