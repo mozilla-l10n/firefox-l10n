@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Administrar ils segnapaginas
 bookmarks-recent-bookmarks-panel =
     .value = Segnapaginas novs
+bookmarks-recent-bookmarks-panel-subheader = Segnapaginas novs
 bookmarks-toolbar-chevron =
     .tooltiptext = Mussar dapli segnapaginas
 bookmarks-sidebar-content =
