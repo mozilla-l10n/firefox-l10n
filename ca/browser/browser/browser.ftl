@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Gestiona les adreces d'interès
 bookmarks-recent-bookmarks-panel =
     .value = Adreces d'interès recents
+bookmarks-recent-bookmarks-panel-subheader = Adreces d'interès recents
 bookmarks-toolbar-chevron =
     .tooltiptext = Mostra més adreces d'interès
 bookmarks-sidebar-content =
