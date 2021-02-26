@@ -40,6 +40,9 @@ whatsnew-panel-header = Gnéithe Nua
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -59,6 +62,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = t
 appmenu-help-taskmanager =
     .label = Bainisteoir Tascanna
+appmenu-help-report-site-issue =
+    .label = Tuairiscigh Fadhb le Suíomh…
 appmenu-help-feedback-page =
     .label = Seol Aiseolas Chugainn…
     .accesskey = S
@@ -84,4 +89,7 @@ appmenu-help-not-deceptive =
     .accesskey = c
 
 ##
+
+
+## More Tools
 
