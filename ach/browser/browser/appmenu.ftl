@@ -42,6 +42,14 @@ whatsnew-panel-footer-checkbox =
     .label = Mi ngec pi jami manyen
     .accesskey = m
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -62,6 +70,8 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = Ngec me yubu bal
     .accesskey = N
+appmenu-help-report-site-issue =
+    .label = Mi ripot ikom peko me kakube…
 appmenu-help-feedback-page =
     .label = Cwal adwogi ne…
     .accesskey = C
@@ -87,4 +97,7 @@ appmenu-help-not-deceptive =
     .accesskey = b
 
 ##
+
+
+## More Tools
 
