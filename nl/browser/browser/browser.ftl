@@ -539,6 +539,7 @@ bookmarks-manage-bookmarks =
     .label = Bladwijzers beheren
 bookmarks-recent-bookmarks-panel =
     .value = Recente bladwijzers
+bookmarks-recent-bookmarks-panel-subheader = Recente bladwijzers
 bookmarks-toolbar-chevron =
     .tooltiptext = Meer bladwijzers tonen
 bookmarks-sidebar-content =
