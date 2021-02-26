@@ -35,6 +35,9 @@ appmenuitem-save-page =
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -54,6 +57,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = P
 appmenu-help-taskmanager =
     .label = Pengurus Tugasan
+appmenu-help-report-site-issue =
+    .label = Laporkan Isu Laman…
 appmenu-help-feedback-page =
     .label = Hantar Maklum balas…
     .accesskey = H
@@ -79,4 +84,7 @@ appmenu-help-not-deceptive =
     .accesskey = m
 
 ##
+
+
+## More Tools
 
