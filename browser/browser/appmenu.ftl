@@ -90,6 +90,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -112,6 +115,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = Ա
 appmenu-help-taskmanager =
     .label = Առաջադրանքների ղեկավար
+appmenu-help-report-site-issue =
+    .label = Զեկուցել կայքի խնդրի մասին…
 appmenu-help-feedback-page =
     .label = Ուղարկել արձագանք…
     .accesskey = Ո
@@ -140,3 +145,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Ստուգել թարմացումները...
+
+## More Tools
+
