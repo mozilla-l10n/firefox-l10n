@@ -541,6 +541,7 @@ bookmarks-manage-bookmarks =
     .label = Cytańske znamjenja zastojaś
 bookmarks-recent-bookmarks-panel =
     .value = Nejnowše cytańske znamjenja
+bookmarks-recent-bookmarks-panel-subheader = Nejnowše cytańske znamjenja
 bookmarks-toolbar-chevron =
     .tooltiptext = Dalšne cytańske znamjenja pokazaś
 bookmarks-sidebar-content =
