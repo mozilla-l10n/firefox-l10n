@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Sefrek ticraḍ n yisebtar
 bookmarks-recent-bookmarks-panel =
     .value = Ticraḍ n yisebtar n melmi kan
+bookmarks-recent-bookmarks-panel-subheader = Ticraḍ n yisebtar n melmi kan
 bookmarks-toolbar-chevron =
     .tooltiptext = Sken ugar n tecraḍ n yisebtar
 bookmarks-sidebar-content =
