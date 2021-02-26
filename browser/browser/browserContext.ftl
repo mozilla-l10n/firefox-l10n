@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Abrir enlace en una nueva pestaña contenedora
     .accesskey = C
+main-context-menu-open-link-container =
+    .label = Abrir enlace en una nueva pestaña contenedora
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = Abrir enlace en una nueva ventana
     .accesskey = A
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Guardar este enlace en marcadores
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Marcar enlace
+    .accesskey = B
 main-context-menu-save-link =
     .label = Guardar enlace como…
     .accesskey = G
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Copiar email
     .accesskey = e
 main-context-menu-copy-link =
     .label = Copiar ubicación del enlace
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Copiar enlace
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Copiar dirección del audio
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Copiar el enlace de la imagen
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Copiar enlace del video
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Copiar el enlace del audio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Guardar imagen como…
     .accesskey = G
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Ver información de la imagen
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Establecer imagen como fondo de pantalla…
+    .accesskey = S
 main-context-menu-image-desc =
     .label = Ver descripción
     .accesskey = D
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspeccionar elemento
     .accesskey = o
+main-context-menu-inspect =
+    .label = Inspeccionar
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Inspeccionar propiedades de accesibilidad
 main-context-menu-eme-learn-more =

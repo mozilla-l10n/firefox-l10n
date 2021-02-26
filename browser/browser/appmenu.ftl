@@ -45,6 +45,9 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
+appmenu-fxa-signed-in-label = Conectarse
+appmenu-fxa-setup-sync =
+    .label = Activar la sincronización…
 appmenuitem-save-page =
     .label = Guardar página como…
 

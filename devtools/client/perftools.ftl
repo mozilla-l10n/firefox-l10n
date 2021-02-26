@@ -107,3 +107,5 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 -profiler-brand-name = Perfilador de Firefox
+perftools-onboarding-close-button =
+    .aria-label = Cerrar el mensaje de introducción
