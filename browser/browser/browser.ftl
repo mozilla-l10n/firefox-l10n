@@ -529,6 +529,7 @@ bookmarks-manage-bookmarks =
     .label = จัดการที่คั่นหน้า
 bookmarks-recent-bookmarks-panel =
     .value = ที่คั่นหน้าล่าสุด
+bookmarks-recent-bookmarks-panel-subheader = ที่คั่นหน้าล่าสุด
 bookmarks-toolbar-chevron =
     .tooltiptext = แสดงที่คั่นหน้าเพิ่มเติม
 bookmarks-sidebar-content =
