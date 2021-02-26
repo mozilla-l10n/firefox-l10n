@@ -406,6 +406,7 @@ support-printing-prefs-value = Valor
 
 ## Normandy sections
 
+support-remote-experiments-title = Experiéncias a distància
 support-remote-experiments-name = Nom
 support-remote-experiments-branch = Brancas experimentala
 support-remote-features-title = Foncionalitats distantas
