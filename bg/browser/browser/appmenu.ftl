@@ -48,6 +48,9 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -70,6 +73,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = И
 appmenu-help-taskmanager =
     .label = Диспечер на задачите
+appmenu-help-report-site-issue =
+    .label = Докладване на проблем със страницата…
 appmenu-help-feedback-page =
     .label = Обратна връзка…
     .accesskey = в
@@ -98,3 +103,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Проверка за обновявания...
+
+## More Tools
+
