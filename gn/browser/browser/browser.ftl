@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Eñangareko techaukaháre
 bookmarks-recent-bookmarks-panel =
     .value = Techaukaha ramogua
+bookmarks-recent-bookmarks-panel-subheader = Techaukaha ramogua
 bookmarks-toolbar-chevron =
     .tooltiptext = Techaukaha jehechaukave
 bookmarks-sidebar-content =
