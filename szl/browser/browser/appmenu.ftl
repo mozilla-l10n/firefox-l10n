@@ -96,6 +96,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -118,6 +121,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = b
 appmenu-help-taskmanager =
     .label = Mynedżer zadań
+appmenu-help-report-site-issue =
+    .label = Dej znać ô problymie ze strōnōm…
 appmenu-help-feedback-page =
     .label = Poślij ôpinijo
     .accesskey = S
@@ -146,3 +151,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Badnij za aktualizacyjami…
+
+## More Tools
+
