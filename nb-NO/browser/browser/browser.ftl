@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Behandle bokmerker
 bookmarks-recent-bookmarks-panel =
     .value = Nylige bokmerker
+bookmarks-recent-bookmarks-panel-subheader = Nylige bokmerker
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis flere bokmerker
 bookmarks-sidebar-content =
