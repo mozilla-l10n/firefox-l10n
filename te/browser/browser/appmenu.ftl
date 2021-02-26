@@ -67,6 +67,9 @@ profiler-popup-settings =
 profiler-popup-discard-button =
     .label = విస్మరించు
 
+## History panel
+
+
 ## Help panel
 
 appmenu-help-header =
@@ -92,6 +95,8 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = సమస్యాపరిష్కారపు సమాచారం
     .accesskey = T
+appmenu-help-report-site-issue =
+    .label = సైటులోని సమస్యను నివేదించండి…
 appmenu-help-feedback-page =
     .label = ప్రతిస్పందనను తెలియజేయండి…
     .accesskey = S
@@ -120,3 +125,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = తాజాకరణలకై చూడు…
+
+## More Tools
+
