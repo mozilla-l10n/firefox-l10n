@@ -205,7 +205,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Սա կը հեռացնի { -fxaccount-brand-name }- ում պահպանած մտից անունները ձեր { -fxaccount-brand-name }֊ի հետ համաժամեցրած բոլոր սարքերում։ Կը հեռացուեն նաեւ խախտումների ծանուցումները, որոնք յայտնուում են այստեղ: Դուք չէք կարողանայ յետարկել այս գործողութիւնը:
     }
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանուններն ու գաղտնաբառերը
-about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել ձեր նիշքերը, կը տեսնեն գաղտնաբառերը։
+about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել ձեր նիշերը, կը տեսնեն գաղտնաբառերը։
 about-logins-confirm-export-dialog-confirm-button = Արտահանել
 about-logins-alert-import-title = Ներմուծումն աւարտուեց
 about-logins-alert-import-message = Նայէք մուտքագրուած մանրամասների ամփոփագիրը
