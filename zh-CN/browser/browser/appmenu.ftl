@@ -59,6 +59,8 @@ appmenu-fxa-last-sync = 上次同步：{ $time }
 appmenu-fxa-sync-and-save-data =
     .value = 同步并保存数据
 appmenu-fxa-signed-in-label = 登录
+appmenu-fxa-setup-sync =
+    .label = 开启同步...
 appmenuitem-save-page =
     .label = 另存页面为…
 

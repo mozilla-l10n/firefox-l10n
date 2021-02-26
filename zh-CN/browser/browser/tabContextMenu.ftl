@@ -63,6 +63,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = 批量关闭标签页
     .accesskey = M
+tab-context-share-url =
+    .label = 共享
+    .accesskey = h
 tab-context-share-more =
     .label = 更多…
 
