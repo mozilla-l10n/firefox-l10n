@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } jo dermotna softwara wót
 folder-pane-toolbar =
     .toolbarname = Symbolowa rědka zarědnikowego wobcerka
     .accesskey = z
+folder-pane-toolbar-options-button =
+    .tooltiptext = Nastajenja wobceŕka zarědnikow
 folder-pane-header-label = Zarědniki
 
 ## Folder Toolbar Header Popup

@@ -45,6 +45,34 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Do schowaneje kopije pśesunuś
     .accesskey = s
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Strg+Umsch+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = Pśidankowe wokno
+    .accesskey = P
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Pśipowjesyś
+    .tooltiptext = Pśidank pśidaś ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Pśidank pśidaś…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Dataje…
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Dataje pśipowjesyś…
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -69,6 +97,35 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Pśidankowe wokno pokazaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Pśidankowe wokno schowaś ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Ako pśidank pśidaś
+        [two] Ako pśidanka pśidaś
+        [few] Ako pśidanki pśidaś
+       *[other] Ako pśidanki pśidaś
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Inline pśipowjesyś
+        [two] Inline pśipowjesyś
+        [few] Inline pśipowjesyś
+       *[other] Inline pśipowjesyś
+    }
+
+# Reorder Attachment Panel
+
+move-attachment-first-panel-button =
+    .label = Na zachopjeńk pśesunuś
+move-attachment-left-panel-button =
+    .label = Nalěwo pśesunuś
+move-attachment-right-panel-button =
+    .label = Napšawo pśesunuś
+move-attachment-last-panel-button =
+    .label = Na kóńc pśesunuś
 button-return-receipt =
     .label = Kwitowanka
     .tooltiptext = Kwintowanku za toś tu powěsć pominaś
