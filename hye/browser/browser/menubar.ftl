@@ -53,7 +53,7 @@ menu-about =
 ## File Menu
 
 menu-file =
-    .label = Նիշք
+    .label = Նիշ
     .accesskey = F
 menu-file-new-tab =
     .label = Նոր ներդիր
@@ -73,7 +73,7 @@ menu-file-new-private-window =
 menu-file-open-location =
     .label = Բացել Հասցե…
 menu-file-open-file =
-    .label = Բացել նիշք…
+    .label = Բացել նիշը…
     .accesskey = O
 menu-file-close =
     .label = Փակել
@@ -133,7 +133,7 @@ menu-view-sidebar =
     .label = Կողային վահանակ
     .accesskey = e
 menu-view-bookmarks =
-    .label = Էջանիշեր
+    .label = Էջանիշներ
 menu-view-history-button =
     .label = Պատմութիւն
 menu-view-synced-tabs-sidebar =
@@ -211,10 +211,10 @@ menu-history-undo-window-menu =
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = Էջանիշեր
+    .label = Էջանիշներ
     .accesskey = B
 menu-bookmarks-show-all =
-    .label = Ցուցադրել բոլոր էջանիշերը
+    .label = Ցուցադրել բոլոր էջանիշները
 menu-bookmark-this-page =
     .label = Էջանշել այս էջը
 menu-bookmark-edit =
@@ -222,11 +222,11 @@ menu-bookmark-edit =
 menu-bookmarks-all-tabs =
     .label = Էջանշել բոլոր ներդիրները…
 menu-bookmarks-toolbar =
-    .label = Էջանիշերի վահանակ
+    .label = Էջանիշների գործեգաւտի
 menu-bookmarks-other =
-    .label = Այլ էջանիշեր
+    .label = Այլ էջանիշներ
 menu-bookmarks-mobile =
-    .label = Բջջային էջանիշեր
+    .label = Բջջային էջանիշներ
 
 ## Tools Menu
 

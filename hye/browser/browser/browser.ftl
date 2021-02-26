@@ -570,7 +570,7 @@ bookmarks-tools-menu-button-visibility =
            *[other] Աւելացնել էջանիշների ցանկ գործեգաւտում
         }
 bookmarks-search =
-    .label = Էջանիշերի որոնում
+    .label = Որոնել էջանիշներում
 bookmarks-tools =
     .label = Էջանշելու գործիքներ
 bookmarks-bookmark-edit-panel =
@@ -579,15 +579,15 @@ bookmarks-bookmark-edit-panel =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Էջանիշերի վահանակ
+    .toolbarname = Էջանիշների գործեգաւտում
     .accesskey = B
-    .aria-label = Էջանիշեր
+    .aria-label = Էջանիշներ
 bookmarks-toolbar-menu =
-    .label = Էջանիշերի վահանակ
+    .label = Էջանիշների գործեգաւտի
 bookmarks-toolbar-placeholder =
-    .title = Էջանիշերի վահանակի տարրերը
+    .title = Էջանիշների գործեգաւտու տարրերը
 bookmarks-toolbar-placeholder-button =
-    .label = Էջանիշերի վահանակի տարրերը
+    .label = Էջանիշների գործեգաւտու տարրերը
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
     .label = Էջանշել սոյն ներդիրը
@@ -595,7 +595,7 @@ bookmarks-current-tab =
 ## Library Panel items
 
 library-bookmarks-menu =
-    .label = Էջանիշեր
+    .label = Էջանիշներ
 library-bookmarks-bookmark-this-page =
     .label = Էջանշել այս էջը
 library-bookmarks-bookmark-edit =

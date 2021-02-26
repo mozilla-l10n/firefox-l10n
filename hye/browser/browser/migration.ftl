@@ -6,8 +6,8 @@ migration-wizard =
     .title = Ներմուծման աւգնական
 import-from =
     { PLATFORM() ->
-        [windows] Ներմուծել ընտրանքները, էջանիշերը, պատմութիւնը, գաղտնաբառերը եւ այլ տուեալներ այստեղից՝
-       *[other] Ներմուծել կարգաւորումները, էջանիշերը, գաղտնաբառերը եւ այլ տուեալներ՝
+        [windows] Ներմուծել ընտրանքները, էջանիշները, պատմութիւնը, գաղտնաբառերը եւ այլ տուեալներ այստեղից՝
+       *[other] Ներմուծել կարգաւորումները, էջանիշները, գաղտնաբառերը եւ այլ տուեալներ՝
     }
 import-from-bookmarks = Ներմուծել էջանիշերը՝
 import-from-ie =
@@ -127,16 +127,16 @@ browser-data-passwords-label =
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
-            [ie] Նախընտրութիւնք
-            [edge] Նախընտրութիւնք
-           *[other] Էջանիշք
+            [ie] Նախընտրութիւններ
+            [edge] Նախընտրութիւններ
+           *[other] Էջանիշներ
         }
 browser-data-bookmarks-label =
     .value =
         { $browser ->
-            [ie] Նախընտրութիւնք
-            [edge] Նախընտրութիւնք
-           *[other] Էջանիշք
+            [ie] Նախընտրութիւններ
+            [edge] Նախընտրութիւններ
+           *[other] Էջանի
         }
 browser-data-otherdata-checkbox =
     .label = Այլ տուեալներ
