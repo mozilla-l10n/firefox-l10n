@@ -48,6 +48,9 @@ whatsnew-panel-footer-checkbox =
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -70,6 +73,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = r
 appmenu-help-taskmanager =
     .label = Gestor de tasques
+appmenu-help-report-site-issue =
+    .label = Informa d'un problema amb el lloc…
 appmenu-help-feedback-page =
     .label = Envia comentaris…
     .accesskey = E
@@ -95,4 +100,7 @@ appmenu-help-not-deceptive =
     .accesskey = N
 
 ##
+
+
+## More Tools
 
