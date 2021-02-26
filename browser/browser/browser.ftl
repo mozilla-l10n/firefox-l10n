@@ -529,6 +529,7 @@ bookmarks-manage-bookmarks =
     .label = 북마크 관리
 bookmarks-recent-bookmarks-panel =
     .value = 최근 북마크
+bookmarks-recent-bookmarks-panel-subheader = 최근 북마크
 bookmarks-toolbar-chevron =
     .tooltiptext = 북마크 더보기
 bookmarks-sidebar-content =
