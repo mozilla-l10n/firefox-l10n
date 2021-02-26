@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Åpne lenke i ny innholdsfane
     .accesskey = a
+main-context-menu-open-link-container =
+    .label = Åpne lenke i ny beholder
+    .accesskey = p
 main-context-menu-open-link-new-window =
     .label = Åpne lenke i nytt vindu
     .accesskey = Å
@@ -119,6 +122,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = p
 main-context-menu-bookmark-this-link =
     .label = Bokmerk denne lenken
+    .accesskey = B
+main-context-menu-bookmark-link =
+    .label = Bokmerk lenke
     .accesskey = B
 main-context-menu-save-link =
     .label = Lagre lenke som …
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopier e-postadresse
     .accesskey = o
 main-context-menu-copy-link =
     .label = Kopier lenkeadresse
     .accesskey = K
+main-context-menu-copy-link-simple =
+    .label = Kopier lenke
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopier lydadresse
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Kopier bildelenke
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Kopier videolenke
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Kopier lydlenke
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Lagre bilde som …
     .accesskey = d
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Vis bildeinfo
     .accesskey = b
+main-context-menu-image-set-image-as-background =
+    .label = Bruk bilde som skrivebordsbakgrunn …
+    .accesskey = B
 main-context-menu-image-desc =
     .label = Vis beskrivelse
     .accesskey = k
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspiser element
     .accesskey = I
+main-context-menu-inspect =
+    .label = Undersøk
+    .accesskey = U
 main-context-menu-inspect-a11y-properties =
     .label = Inspiser tilgjengelighetsinnstillinger
 main-context-menu-eme-learn-more =
