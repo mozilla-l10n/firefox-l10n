@@ -54,8 +54,8 @@ appmenu-fxa-header =
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
-appmenu-fxa-last-sync = { $time }에 마지막 동기화됨
-    .label = { $time }에 마지막 동기화됨
+appmenu-fxa-last-sync = { $time }에 마지막으로 동기화됨
+    .label = { $time }에 마지막으로 동기화됨
 appmenu-fxa-sync-and-save-data =
     .value = 데이터 동기화 및 저장
 appmenu-fxa-signed-in-label = 로그인
