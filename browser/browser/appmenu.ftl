@@ -35,6 +35,9 @@ appmenuitem-save-page =
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -54,6 +57,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = T
 appmenu-help-taskmanager =
     .label = কাজ ব্যবস্থাপক
+appmenu-help-report-site-issue =
+    .label = সাইটের সমস্যা রিপোর্ট করুন…
 appmenu-help-feedback-page =
     .label = মন্তব্য প্রদান…
     .accesskey = S
@@ -79,4 +84,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
