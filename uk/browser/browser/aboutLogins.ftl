@@ -320,6 +320,40 @@ about-logins-import-dialog-error-no-logins-imported = Жоден пароль н
 about-logins-import-dialog-error-learn-more = Дізнатися більше
 about-logins-import-dialog-error-try-again = Спробувати знову…
 about-logins-import-dialog-error-cancel = Скасувати
+about-logins-import-report-title = Підсумок імпорту
+about-logins-import-report-description = Паролі, імпортовані до { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Рядок { $number }
+about-logins-import-report-row-description-no-change = Повторення: Точний збіг з наявним паролем
+about-logins-import-report-row-description-modified = Наявний пароль оновлено
+about-logins-import-report-row-description-added = Новий пароль додано
+about-logins-import-report-row-description-error = Помилка: відсутнє поле
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Помилка: кілька значень для { $field }
+about-logins-import-report-row-description-error-missing-field = Помилка: відсутнє поле { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новий пароль додано</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нових паролі додано</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">нових паролів додано</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наявний пароль оновлено</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наявні паролі оновлено</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наявних паролів оновлено</div>
+    }
 
 ## Logins import report page
 
