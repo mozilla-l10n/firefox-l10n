@@ -317,6 +317,42 @@ about-logins-import-dialog-error-no-logins-imported = Nenhuma conta foi importad
 about-logins-import-dialog-error-learn-more = Saiba mais
 about-logins-import-dialog-error-try-again = Tentar novamente…
 about-logins-import-dialog-error-cancel = Cancelar
+about-logins-import-report-description = Contas e senhas importadas para o { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Linha { $number }
+about-logins-import-report-row-description-no-change = Duplicado: Corresponde exatamente a uma conta já existente
+about-logins-import-report-row-description-modified = Conta existente atualizada
+about-logins-import-report-row-description-added = Nova conta adicionada
+about-logins-import-report-row-description-error = Erro: Falta um campo
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Erro: Múltiplos valores de { $field }
+about-logins-import-report-row-description-error-missing-field = Erro: Falta { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nova conta adicionada</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Novas contas adicionadas</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Conta existente atualizada</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Contas existentes atualizadas</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Conta duplicada</div> <div data-l10n-name="not-imported">(não importada)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Contas duplicadas</div> <div data-l10n-name="not-imported">(não importadas)</div>
+    }
 
 ## Logins import report page
 
