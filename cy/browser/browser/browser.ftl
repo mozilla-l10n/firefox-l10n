@@ -545,6 +545,7 @@ bookmarks-manage-bookmarks =
     .label = Rheoli Nodau Tudalen
 bookmarks-recent-bookmarks-panel =
     .value = Nodau Tudalen Diweddar
+bookmarks-recent-bookmarks-panel-subheader = Nodau Tudalen Diweddar
 bookmarks-toolbar-chevron =
     .tooltiptext = Dangos pob ffolder nod tudalen
 bookmarks-sidebar-content =
