@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Xestionar marcadores
 bookmarks-recent-bookmarks-panel =
     .value = Marcadores recentes
+bookmarks-recent-bookmarks-panel-subheader = Marcadores recentes
 bookmarks-toolbar-chevron =
     .tooltiptext = Amosar máis marcadores
 bookmarks-sidebar-content =
