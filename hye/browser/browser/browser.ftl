@@ -531,6 +531,7 @@ bookmarks-manage-bookmarks =
     .label = Կառավարէք էջանիշներ
 bookmarks-recent-bookmarks-panel =
     .value = Վերջին էջանիշները
+bookmarks-recent-bookmarks-panel-subheader = Վերջին էջանիշները
 bookmarks-toolbar-chevron =
     .tooltiptext = Ցուցադրել այլ էջանիշներ
 bookmarks-sidebar-content =
