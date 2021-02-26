@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Abrir link em nova aba contêiner
     .accesskey = c
+main-context-menu-open-link-container =
+    .label = Abrir link em novo contêiner
+    .accesskey = v
 main-context-menu-open-link-new-window =
     .label = Abrir link em nova janela
     .accesskey = A
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Adicionar este link aos favoritos
     .accesskey = d
+main-context-menu-bookmark-link =
+    .label = Adicionar link aos favoritos
+    .accesskey = f
 main-context-menu-save-link =
     .label = Salvar link como…
     .accesskey = S
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Copiar endereço de email
     .accesskey = o
 main-context-menu-copy-link =
     .label = Copiar link
     .accesskey = o
+main-context-menu-copy-link-simple =
+    .label = Copiar link
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Copiar endereço do áudio
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Copiar link da imagem
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Copiar link do vídeo
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Copiar link do áudio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Salvar imagem como…
     .accesskey = i
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Ver informações da imagem
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Definir imagem como fundo da área de trabalho…
+    .accesskey = D
 main-context-menu-image-desc =
     .label = Ver descrição
     .accesskey = d
@@ -331,6 +357,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = e
 main-context-menu-inspect-element =
     .label = Inspecionar elemento
+    .accesskey = Q
+main-context-menu-inspect =
+    .label = Inspecionar
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Inspecionar propriedades de acessibilidade
