@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Blêdwizers beheare
 bookmarks-recent-bookmarks-panel =
     .value = Resinte blêdwizers
+bookmarks-recent-bookmarks-panel-subheader = Resinte blêdwizers
 bookmarks-toolbar-chevron =
     .tooltiptext = Mear blêdwizers toane
 bookmarks-sidebar-content =
