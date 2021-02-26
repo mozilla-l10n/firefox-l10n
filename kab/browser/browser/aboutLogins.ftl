@@ -313,6 +313,17 @@ about-logins-import-dialog-error-no-logins-imported = Ulac iɣmisen i d-yettwakt
 about-logins-import-dialog-error-learn-more = Issin ugar
 about-logins-import-dialog-error-try-again = Ɛreḍ tikkelt-nniḍen…
 about-logins-import-dialog-error-cancel = Sefsex
+about-logins-import-report-row-description-added = Anekcum amaynut ittwarna
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 

@@ -45,6 +45,15 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Mtawi tura
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Mtawi tura
+    .value = Mtawi tura
+appmenuitem-fxa-manage-account = Sefrek amiḍan
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-sync-and-save-data =
+    .value = Mtawi sakin sekles isefka
+appmenu-fxa-signed-in-label = Kcem
 appmenuitem-save-page =
     .label = Sekles asebter di...
 

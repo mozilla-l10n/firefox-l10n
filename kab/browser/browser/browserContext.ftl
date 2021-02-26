@@ -131,11 +131,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Nɣel tansa imayl
     .accesskey = t
 main-context-menu-copy-link =
     .label = Nɣel tansa n useɣwen
+    .accesskey = N
+main-context-menu-copy-link-simple =
+    .label = Nɣel aseɣwen
     .accesskey = N
 
 ## Media (video/audio) controls
@@ -226,6 +234,9 @@ main-context-menu-video-copy-location =
     .accesskey = N
 main-context-menu-audio-copy-location =
     .label = Nɣel tansa n umeslaw
+    .accesskey = N
+main-context-menu-image-copy-link =
+    .label = Nɣel aseɣwen n tugna
     .accesskey = N
 main-context-menu-image-save-as =
     .label = Sekles tugna s yisem…
