@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Yer imlerini yönet
 bookmarks-recent-bookmarks-panel =
     .value = Son yer imleri
+bookmarks-recent-bookmarks-panel-subheader = Son yer imleri
 bookmarks-toolbar-chevron =
     .tooltiptext = Daha fazla yer imi göster
 bookmarks-sidebar-content =
