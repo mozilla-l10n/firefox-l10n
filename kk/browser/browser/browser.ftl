@@ -523,6 +523,7 @@ bookmarks-manage-bookmarks =
     .label = Бетбелгілерді басқару
 bookmarks-recent-bookmarks-panel =
     .value = Жуырдағы бетбелгілер
+bookmarks-recent-bookmarks-panel-subheader = Жуырдағы бетбелгілер
 bookmarks-toolbar-chevron =
     .tooltiptext = Көбірек бетбелгілерді көрсету
 bookmarks-sidebar-content =
