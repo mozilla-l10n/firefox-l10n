@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = Vous possédez déjà un compte ?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Connectez-vous
 onboarding-start-browsing-button-label = Commencer la navigation
-onboarding-not-now-button-label = Plus tard
 onboarding-cards-dismiss =
     .title = Retirer
     .aria-label = Retirer
@@ -87,6 +86,71 @@ onboarding-benefit-monitor-text = Recevez une alerte lorsque vos informations pe
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Gérez des mots de passe protégés et portables.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Protection contre le pistage
+onboarding-tracking-protection-text2 = { -brand-short-name } empêche les sites web de vous pister pendant votre navigation, ce qui complique la tâche des publicités qui tentent de vous suivre sur le Web.
+onboarding-tracking-protection-button2 = Principes de fonctionnement
+onboarding-data-sync-title = Emportez vos paramètres avec vous
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchronisez marque-pages, mots de passe, etc., partout où vous utilisez { -brand-product-name }.
+onboarding-data-sync-button2 = Se connecter à { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Suivez de près les fuites de données
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } vérifie si votre adresse électronique fait partie d’une fuite de données connue et vous alerte si elle apparaît dans une nouvelle fuite de données.
+onboarding-firefox-monitor-button = S’abonner aux alertes
+onboarding-browse-privately-title = Naviguez en toute confidentialité
+onboarding-browse-privately-text = La navigation privée efface vos historiques de navigation et de recherches pour que les autres utilisateurs de votre ordinateur n’en sachent rien.
+onboarding-browse-privately-button =
+    Ouvrir une fenêtre de
+    navigation privée
+onboarding-firefox-send-title = Protégez les fichiers que vous partagez
+onboarding-firefox-send-text2 = Envoyez vos fichiers sur { -send-brand-name } pour les partager avec un chiffrement de bout en bout et un lien qui expire automatiquement.
+onboarding-firefox-send-button = Essayer { -send-brand-name }
+onboarding-mobile-phone-title = Installez { -brand-product-name } sur votre téléphone
+onboarding-mobile-phone-text = Téléchargez { -brand-product-name } pour iOS ou Android et synchronisez vos données entre vos appareils.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Télécharger le navigateur mobile
+onboarding-send-tabs-title = Envoyez-vous des onglets
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Partagez facilement des pages entre vos divers appareils sans copier de liens ni quitter le navigateur.
+onboarding-send-tabs-button =
+    Commencer à utiliser
+    « Envoyer l’onglet »
+onboarding-pocket-anywhere-title = Lisez et écoutez, où que vous soyez
+onboarding-pocket-anywhere-text2 = Enregistrez vos contenus préférés hors connexion avec l’application { -pocket-brand-name } pour les lire, regarder ou écouter quand bon vous semble.
+onboarding-pocket-anywhere-button = Essayer { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Créez et stockez des mots de passe robustes
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crée à la volée des mots de passe robustes et les enregistre tous en un seul endroit.
+onboarding-lockwise-strong-passwords-button = Gérer vos identifiants
+onboarding-facebook-container-title = Fixez les limites avec Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } conserve votre profil séparé de tout le reste. Il est ainsi plus difficile pour Facebook de vous cibler avec des publicités.
+onboarding-facebook-container-button = Installer l’extension
+onboarding-import-browser-settings-title = Importez vos marque-pages, mots de passe et plus encore
+onboarding-import-browser-settings-text = Récupérez facilement vos sites et vos paramètres à partir de Chrome et commencez à naviguer immédiatement.
+onboarding-import-browser-settings-button = Importer des données de Chrome
+onboarding-personal-data-promise-title = Conçu pour protéger votre vie privé
+onboarding-personal-data-promise-text = { -brand-product-name } traite vos données avec respect en en collectant moins, en les protégeant et en précisant clairement comment nous les utilisons.
+onboarding-personal-data-promise-button = Lire notre engagement
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Parfait, vous disposez de { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = À présent, installons <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Ajouter l’extension
+return-to-amo-get-started-button = Démarrer avec { -brand-short-name }
+onboarding-not-now-button-label = Plus tard
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Parfait, vous disposez de { -brand-short-name }
@@ -106,6 +170,11 @@ onboarding-multistage-welcome-subtitle = Le navigateur rapide, sûr et privé so
 onboarding-multistage-welcome-primary-button-label = Commencer la configuration
 onboarding-multistage-welcome-secondary-button-label = Se connecter
 onboarding-multistage-welcome-secondary-button-text = Vous avez déjà un compte ?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Définissez { -brand-short-name } <span data-l10n-name="zap">par défaut</span>
+onboarding-multistage-set-default-primary-button-label = Le définir par défaut
+onboarding-multistage-set-default-secondary-button-label = Plus tard
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importez vos mots de passe, <br/>marque-pages et <span data-l10n-name="zap">bien plus</span>
@@ -181,67 +250,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Utiliser un thème coloré pour les boutons,
         les menus et les fenêtres.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Protection contre le pistage
-onboarding-tracking-protection-text2 = { -brand-short-name } empêche les sites web de vous pister pendant votre navigation, ce qui complique la tâche des publicités qui tentent de vous suivre sur le Web.
-onboarding-tracking-protection-button2 = Principes de fonctionnement
-onboarding-data-sync-title = Emportez vos paramètres avec vous
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synchronisez marque-pages, mots de passe, etc., partout où vous utilisez { -brand-product-name }.
-onboarding-data-sync-button2 = Se connecter à { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Suivez de près les fuites de données
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } vérifie si votre adresse électronique fait partie d’une fuite de données connue et vous alerte si elle apparaît dans une nouvelle fuite de données.
-onboarding-firefox-monitor-button = S’abonner aux alertes
-onboarding-browse-privately-title = Naviguez en toute confidentialité
-onboarding-browse-privately-text = La navigation privée efface vos historiques de navigation et de recherches pour que les autres utilisateurs de votre ordinateur n’en sachent rien.
-onboarding-browse-privately-button =
-    Ouvrir une fenêtre de
-    navigation privée
-onboarding-firefox-send-title = Protégez les fichiers que vous partagez
-onboarding-firefox-send-text2 = Envoyez vos fichiers sur { -send-brand-name } pour les partager avec un chiffrement de bout en bout et un lien qui expire automatiquement.
-onboarding-firefox-send-button = Essayer { -send-brand-name }
-onboarding-mobile-phone-title = Installez { -brand-product-name } sur votre téléphone
-onboarding-mobile-phone-text = Téléchargez { -brand-product-name } pour iOS ou Android et synchronisez vos données entre vos appareils.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Télécharger le navigateur mobile
-onboarding-send-tabs-title = Envoyez-vous des onglets
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Partagez facilement des pages entre vos divers appareils sans copier de liens ni quitter le navigateur.
-onboarding-send-tabs-button =
-    Commencer à utiliser
-    « Envoyer l’onglet »
-onboarding-pocket-anywhere-title = Lisez et écoutez, où que vous soyez
-onboarding-pocket-anywhere-text2 = Enregistrez vos contenus préférés hors connexion avec l’application { -pocket-brand-name } pour les lire, regarder ou écouter quand bon vous semble.
-onboarding-pocket-anywhere-button = Essayer { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Créez et stockez des mots de passe robustes
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crée à la volée des mots de passe robustes et les enregistre tous en un seul endroit.
-onboarding-lockwise-strong-passwords-button = Gérer vos identifiants
-onboarding-facebook-container-title = Fixez les limites avec Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } conserve votre profil séparé de tout le reste. Il est ainsi plus difficile pour Facebook de vous cibler avec des publicités.
-onboarding-facebook-container-button = Installer l’extension
-onboarding-import-browser-settings-title = Importez vos marque-pages, mots de passe et plus encore
-onboarding-import-browser-settings-text = Récupérez facilement vos sites et vos paramètres à partir de Chrome et commencez à naviguer immédiatement.
-onboarding-import-browser-settings-button = Importer des données de Chrome
-onboarding-personal-data-promise-title = Conçu pour protéger votre vie privé
-onboarding-personal-data-promise-text = { -brand-product-name } traite vos données avec respect en en collectant moins, en les protégeant et en précisant clairement comment nous les utilisons.
-onboarding-personal-data-promise-button = Lire notre engagement
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Parfait, vous disposez de { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = À présent, installons <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Ajouter l’extension
-return-to-amo-get-started-button = Démarrer avec { -brand-short-name }
