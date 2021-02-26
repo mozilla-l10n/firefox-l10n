@@ -69,6 +69,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -91,6 +94,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = T
 appmenu-help-taskmanager =
     .label = Task Manager
+appmenu-help-report-site-issue =
+    .label = Mag-report ng Site Issue…
 appmenu-help-feedback-page =
     .label = Magbigay ng Katugunan...
     .accesskey = s
@@ -116,4 +121,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
