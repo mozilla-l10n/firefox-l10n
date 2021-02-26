@@ -339,10 +339,15 @@ about-logins-import-dialog-error-no-logins-imported = Žane přizjewjenja njejsu
 about-logins-import-dialog-error-learn-more = Dalše informacije
 about-logins-import-dialog-error-try-again = Hišće raz spytać…
 about-logins-import-dialog-error-cancel = Přetorhnyć
+about-logins-import-report-title = Zjeće importować
+about-logins-import-report-description = Přizjewjenja a hesła su so do { -brand-short-name } importowali.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Linka { $number }
+about-logins-import-report-row-description-no-change = Dwójny: Eksaktna kopija eksistowaceho přizjewjenja
+about-logins-import-report-row-description-modified = Eksistowace přizjewjenje je so zaktualizowało
+about-logins-import-report-row-description-added = Nowe přizjewjenje je so přidało
 about-logins-import-report-row-description-error = Zmylk: Falowace polo
 
 ##
@@ -362,6 +367,13 @@ about-logins-import-report-added =
         [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowej přizjewjeni přidatej</div>
         [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe přizjewjenja přidate</div>
        *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe přizjewjenja přidate</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowace přizjewjenje je so zaktualizował</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowacej přizjewjeni stej so zaktualizowałoj</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowace přizjewjenja su so zaktualizowali</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowace přizjewjenja su so zaktualizowali</div>
     }
 
 ## Logins import report page

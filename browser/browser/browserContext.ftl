@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Wotkaz w nowym kontejnerowym rajtarku wočinić
     .accesskey = o
+main-context-menu-open-link-container =
+    .label = Wotkaz w nowym kontejnerje wočinić
+    .accesskey = W
 main-context-menu-open-link-new-window =
     .label = Wotkaz w nowym woknje wočinić
     .accesskey = k
@@ -119,6 +122,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = o
 main-context-menu-bookmark-this-link =
     .label = Tutón wotkaz jako zapołožku składować
+    .accesskey = k
+main-context-menu-bookmark-link =
+    .label = Wotkaz jako zapołožku składować
     .accesskey = k
 main-context-menu-save-link =
     .label = Wotkaz składować jako…
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = E-mejlowu adresu kopěrować
     .accesskey = E
 main-context-menu-copy-link =
     .label = Wotkazowu adresu kopěrować
     .accesskey = k
+main-context-menu-copy-link-simple =
+    .label = Wotkaz kopěrować
+    .accesskey = z
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Adresu awdiodataje kopěrować
     .accesskey = u
+main-context-menu-image-copy-link =
+    .label = Wobrazowy wotkaz kopěrować
+    .accesskey = b
+main-context-menu-video-copy-link =
+    .label = Widejowotkaz kopěrować
+    .accesskey = i
+main-context-menu-audio-copy-link =
+    .label = Awdiowotkaz kopěrować
+    .accesskey = A
 main-context-menu-image-save-as =
     .label = Wobraz składować jako…
     .accesskey = r
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Info wo wobrazu pokazać
     .accesskey = w
+main-context-menu-image-set-image-as-background =
+    .label = Wobraz jako desktopowy pozadk nastajić…
+    .accesskey = d
 main-context-menu-image-desc =
     .label = Wopisanje pokazać
     .accesskey = o
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Element přepytować
     .accesskey = E
+main-context-menu-inspect =
+    .label = Přepytować
+    .accesskey = P
 main-context-menu-inspect-a11y-properties =
     .label = Kajkosće bjezbarjernosće přepytować
 main-context-menu-eme-learn-more =
