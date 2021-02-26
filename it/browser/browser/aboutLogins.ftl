@@ -307,6 +307,50 @@ about-logins-import-dialog-error-learn-more = Ulteriori informazioni
 about-logins-import-dialog-error-try-again = Riprova…
 about-logins-import-dialog-error-cancel = Annulla
 
+about-logins-import-report-title = Riepilogo importazione
+about-logins-import-report-description = Credenziali e password importate in { -brand-short-name }.
+
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Riga { $number }
+about-logins-import-report-row-description-no-change = Duplicata (corrisponde esattamente a una credenziale esistente)
+about-logins-import-report-row-description-modified = Credenziale esistente aggiornata
+about-logins-import-report-row-description-added = Nuova credenziale aggiunta
+about-logins-import-report-row-description-error = Errore: campo mancante
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Errore: valori multipli per il campo “{ $field }”
+about-logins-import-report-row-description-error-missing-field = Errore: campo “{ $field }” mancante
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+  { $count ->
+       [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nuova credenziale aggiunta</div>
+      *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nuove credenziali aggiunte</div>
+  }
+about-logins-import-report-modified =
+  { $count ->
+       [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziale esistente aggiornata</div>
+      *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziali esistenti aggiornate</div>
+  }
+about-logins-import-report-no-change =
+  { $count ->
+       [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziale duplicata</div> <div data-l10n-name="not-imported">(non importata)</div>
+      *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziali duplicate</div> <div data-l10n-name="not-imported">(non importate)</div>
+  }
+about-logins-import-report-error =
+  { $count ->
+       [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">errore</div> <div data-l10n-name="not-imported">(credenziale non importata)</div>
+      *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">errori</div> <div data-l10n-name="not-imported">(credenziali non importate)</div>
+  }
+
 ## Logins import report page
 
 about-logins-import-report-page-title = Riepilogo importazione
