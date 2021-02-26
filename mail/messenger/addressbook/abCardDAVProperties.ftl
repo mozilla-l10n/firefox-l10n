@@ -14,7 +14,15 @@ carddav-refreshinterval-minutes-value =
     .label =
         { $minutes ->
             [one] hvert minut
-           *[other] hvert { $minutes } minut
+           *[other] hvert { $minutes }. minut
+        }
+# Variables:
+#   $hours (integer) - Number of hours between address book synchronizations
+carddav-refreshinterval-hours-value =
+    .label =
+        { $hours ->
+            [one] hver time
+           *[other] hver { $hours }. time
         }
 carddav-readonly-label =
     .label = Skrivebeskyttet
