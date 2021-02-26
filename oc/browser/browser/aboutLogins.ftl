@@ -313,6 +313,29 @@ about-logins-import-dialog-error-no-logins-imported = Cap d’identificant pas i
 about-logins-import-dialog-error-learn-more = Ne saber mai
 about-logins-import-dialog-error-try-again = Tornar ensajar…
 about-logins-import-dialog-error-cancel = Anullar
+about-logins-import-report-row-description-modified = Identificant existent actualizat
+about-logins-import-report-row-description-added = Identificant novèl apondut
+about-logins-import-report-row-description-error = Error : camp mancant
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Error : mantuna valor per { $field }
+about-logins-import-report-row-description-error-missing-field = Error : { $field } mancant
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Identificants novèls aponduts</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Identificants existents actualizats</div>
+    }
 
 ## Logins import report page
 
