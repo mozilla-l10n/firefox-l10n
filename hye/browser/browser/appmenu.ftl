@@ -17,6 +17,20 @@ appmenuitem-new-window =
     .label = Նոր պատուհան
 appmenuitem-new-private-window =
     .label = Սկսել գաղտնի դիտարկում
+appmenuitem-passwords =
+    .label = Գաղտնաբառեր
+appmenuitem-extensions-and-themes =
+    .label = Ընդլայնումներ եւ համապատկերներ
+appmenuitem-find-in-page =
+    .label = Փնտրել էջում…
+appmenuitem-more-tools =
+    .label = Յաւելեալ գործիքներ
+appmenuitem-exit =
+    .label = Ելք
+# Settings is now used to access the browser settings across all platforms,
+# instead of Options or Preferences.
+appmenuitem-settings =
+    .label = Կարգաւորումներ
 
 ## Zoom and Fullscreen Controls
 
@@ -84,8 +98,17 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+appmenu-manage-history =
+    .label = Կարավարէք պատմութիւնը
+appmenu-reopen-all-tabs = Վերաբացէք բոլոր ներդիրները
+appmenu-reopen-all-windows = Վերաբացէք բոլոր պատուհանները
+
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name }-ի Աւգնութիւն
 appmenu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = A
@@ -101,6 +124,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Ստեղնաշարի պիտակներ
     .accesskey = K
+appmenu-get-help =
+    .label = Ստանալ աւգնութիւն
+    .accesskey = Ս
 appmenu-help-troubleshooting-info =
     .label = Անսարքութեան տեղեկատուութիւն
     .accesskey = T
@@ -134,3 +160,9 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Ստուգէք թարմացումները…
+
+## More Tools
+
+appmenu-customizetoolbar =
+    .label = Յարմարեցնել գործեգաւտին…
+appmenu-developer-tools-subheader = Դիտարկչի գործիքներ

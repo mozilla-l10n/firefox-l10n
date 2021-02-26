@@ -350,6 +350,8 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Նուագարկում
 browser-tab-audio-muted = Համրեցուած
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = Նուագարկուում է
 
 ## Bookmarks toolbar items
 
