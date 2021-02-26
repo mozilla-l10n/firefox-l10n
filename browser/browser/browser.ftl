@@ -545,6 +545,7 @@ bookmarks-manage-bookmarks =
     .label = ਬੁੱਕਮਾਰਕਾਂ ਇੰਤਜ਼ਾਮ
 bookmarks-recent-bookmarks-panel =
     .value = ਹਾਲੀਆ ਬੁੱਕਮਾਰਕ
+bookmarks-recent-bookmarks-panel-subheader = ਹਾਲੀਆ ਬੁੱਕਮਾਰਕ
 bookmarks-toolbar-chevron =
     .tooltiptext = ਹੋਰ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ
 bookmarks-sidebar-content =
