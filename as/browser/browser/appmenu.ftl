@@ -43,6 +43,14 @@ whatsnew-panel-footer-checkbox =
     .label = নতুন সুবিধাৰ বিষয়ে জনাব
     .accesskey = f
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
+## History panel
+
+
 ## Help panel
 
 appmenu-help-product =
@@ -60,6 +68,8 @@ appmenu-help-keyboard-shortcuts =
 appmenu-help-troubleshooting-info =
     .label = সমস্যামুক্তিৰ তথ্য
     .accesskey = T
+appmenu-help-report-site-issue =
+    .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
 appmenu-help-feedback-page =
     .label = সঁহাৰি জমা দিয়ক…
     .accesskey = S
@@ -85,4 +95,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
