@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Järjestele kirjanmerkkejä
 bookmarks-recent-bookmarks-panel =
     .value = Uusimmat kirjanmerkit
+bookmarks-recent-bookmarks-panel-subheader = Uusimmat kirjanmerkit
 bookmarks-toolbar-chevron =
     .tooltiptext = Näytä lisää kirjanmerkkejä
 bookmarks-sidebar-content =
