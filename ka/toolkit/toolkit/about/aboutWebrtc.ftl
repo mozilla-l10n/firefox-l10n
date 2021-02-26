@@ -60,8 +60,8 @@ about-webrtc-ice-component-id = კომპონენტის ID
 
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-about-webrtc-avg-bitrate-label = საშ. ბიტური სიჩქარე:
-about-webrtc-avg-framerate-label = საშ. კადრული სიჩქარე:
+about-webrtc-avg-bitrate-label = საშ. ბიტური სიხშირე:
+about-webrtc-avg-framerate-label = საშ. კადრული სიხშირე:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -168,7 +168,7 @@ about-webrtc-round-trip-time-ms = RTT, მწმ
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
 #   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
-about-webrtc-frame-stats-heading = ვიდეო ჩარჩოს სტატისტიკა - MediaStreamTrack ID: { $track-identifier }
+about-webrtc-frame-stats-heading = ვიდეოკადრების სტატისტიკა - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
