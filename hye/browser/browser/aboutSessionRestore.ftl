@@ -5,7 +5,7 @@
 restore-page-tab-title = Վերականգնել աշխատաշրջանը
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = Կներեք։ Խնդիր ծագեց Ձեր էջերը հետ բերելիս։
+restore-page-error-title = Կը ներէք։ Խնդիր ծագեց ձեր էջերը յետ բերելիս։
 restore-page-problem-desc = Խնդիր է ծագել Ձեր դիտարկումների վերջին աշխատաշրջանը վերականգնելիս։ Ընտրեք վերականգնել աշխատաշրջանը եւ կրկին փորձեք։
 restore-page-try-this = Դեռ չե՞ք կարողանում վերականգնել աշխատաշրջանը։ Երբեմն ներդիրը հանդիպում է խնդիրների։ Դիտեք նախորդ ներդիրները, հեռացրեք նշումը այն ներդիրից, որը չեք ցանկանում վերականգնել եւ յետոյ վերականգնեք։
 restore-page-hide-tabs = Թաքցնել նախորդ ներդիրները
