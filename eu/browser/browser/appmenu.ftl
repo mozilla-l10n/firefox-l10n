@@ -98,6 +98,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-help-header =
@@ -125,6 +128,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = A
 appmenu-help-taskmanager =
     .label = Ataza-kudeatzailea
+appmenu-help-report-site-issue =
+    .label = Eman gunearen arazoaren berri…
 appmenu-help-feedback-page =
     .label = Bidali iritzia…
     .accesskey = d
@@ -153,3 +158,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Bilatu eguneraketak…
+
+## More Tools
+
