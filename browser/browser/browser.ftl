@@ -575,6 +575,7 @@ bookmarks-manage-bookmarks =
     .label = Správa záložek
 bookmarks-recent-bookmarks-panel =
     .value = Naposledy přidané
+bookmarks-recent-bookmarks-panel-subheader = Naposledy přidané
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobrazí více záložek
 bookmarks-sidebar-content =
