@@ -113,7 +113,7 @@ main-context-menu-open-link-container-tab =
     .accesskey = к
 main-context-menu-open-link-container =
     .label = Відкрити посилання в новому контейнері
-    .accesskey = о
+    .accesskey = в
 main-context-menu-open-link-new-window =
     .label = Відкрити посилання в новому вікні
     .accesskey = к
@@ -128,10 +128,10 @@ main-context-menu-bookmark-link =
     .accesskey = с
 main-context-menu-save-link =
     .label = Зберегти посилання як…
-    .accesskey = п
+    .accesskey = я
 main-context-menu-save-link-to-pocket =
     .label = Зберегти посилання в { -pocket-brand-name }
-    .accesskey = п
+    .accesskey = б
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -305,8 +305,8 @@ main-context-menu-keyword =
     .label = Створити скорочення для цього пошуку…
     .accesskey = д
 main-context-menu-link-send-to-device =
-    .label = Відправити посилання на пристрій
-    .accesskey = л
+    .label = Надіслати посилання на пристрій
+    .accesskey = Н
 main-context-menu-frame =
     .label = У цьому фреймі
     .accesskey = ь
