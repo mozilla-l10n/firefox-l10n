@@ -40,6 +40,9 @@ whatsnew-panel-header = નવું શું છે
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -59,6 +62,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = T
 appmenu-help-taskmanager =
     .label = કાર્ય વ્યવસ્થાપક
+appmenu-help-report-site-issue =
+    .label = સાઇટ સમસ્યાનો અહેવાલ આપો…
 appmenu-help-feedback-page =
     .label = પ્રતિસાદને ઉમેરો…
     .accesskey = S
@@ -84,4 +89,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
