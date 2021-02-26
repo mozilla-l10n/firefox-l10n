@@ -529,6 +529,7 @@ bookmarks-manage-bookmarks =
     .label = Kelola Markah
 bookmarks-recent-bookmarks-panel =
     .value = Markah Terbaru
+bookmarks-recent-bookmarks-panel-subheader = Markah Terbaru
 bookmarks-toolbar-chevron =
     .tooltiptext = Tampilkan markah lainnya
 bookmarks-sidebar-content =
