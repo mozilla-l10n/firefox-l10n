@@ -305,12 +305,19 @@ about-logins-import-dialog-error-no-logins-imported = 未导入任何登录信�
 about-logins-import-dialog-error-learn-more = 详细了解
 about-logins-import-dialog-error-try-again = 重试…
 about-logins-import-dialog-error-cancel = 取消
+about-logins-import-report-title = 导入概览
+about-logins-import-report-description = 导入到 { -brand-short-name } 的登录名和密码。
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = 第 { $number } 行
 about-logins-import-report-row-description-error = 错误：缺少字段
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-missing-field = 错误：缺少“{ $field }”
 
 ##
 ## Variables:
