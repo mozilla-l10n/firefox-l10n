@@ -339,6 +339,30 @@ about-logins-import-dialog-error-no-logins-imported = Žane přizjewjenja njejsu
 about-logins-import-dialog-error-learn-more = Dalše informacije
 about-logins-import-dialog-error-try-again = Hišće raz spytać…
 about-logins-import-dialog-error-cancel = Přetorhnyć
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Linka { $number }
+about-logins-import-report-row-description-error = Zmylk: Falowace polo
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Zmylk: Wjacore hódnoty za { $field }
+about-logins-import-report-row-description-error-missing-field = Zmylk: Falowace { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe přizjewjenje přidate</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowej přizjewjeni přidatej</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe přizjewjenja přidate</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe přizjewjenja přidate</div>
+    }
 
 ## Logins import report page
 
