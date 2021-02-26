@@ -541,6 +541,7 @@ bookmarks-manage-bookmarks =
     .label = Zapołožki rjadować
 bookmarks-recent-bookmarks-panel =
     .value = Najnowše zapołožki
+bookmarks-recent-bookmarks-panel-subheader = Najnowše zapołožki
 bookmarks-toolbar-chevron =
     .tooltiptext = Dalše zapołožki pokazać
 bookmarks-sidebar-content =
