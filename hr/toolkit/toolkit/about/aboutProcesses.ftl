@@ -7,9 +7,14 @@ about-processes-title = Upravitelj procesima
 
 ## Tooltips
 
+about-processes-shutdown-tab =
+    .title = Zatvori karticu
 
 ## Column headers
 
+about-processes-column-name = Naziv
+about-processes-column-memory-resident = Memorija
+about-processes-column-cpu-total = CPU
 
 ## Process names
 ## Variables:
@@ -17,6 +22,7 @@ about-processes-title = Upravitelj procesima
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (proces { $pid })
 
 ## Details within processes
 
@@ -45,6 +51,15 @@ about-processes-title = Upravitelj procesima
 
 ## Duration units
 
+duration-unit-ns = ns
+duration-unit-us = µs
+duration-unit-ms = ms
+duration-unit-s = s
+duration-unit-m = m
+duration-unit-h = h
+duration-unit-d = d
 
 ## Memory units
 
+memory-unit-B = B
+memory-unit-KB = KB

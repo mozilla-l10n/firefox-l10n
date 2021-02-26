@@ -1160,15 +1160,15 @@ space-alert-under-5gb-message = { -brand-short-name }u ponestaje memorije. Sadr�
 
 ## Privacy Section - HTTPS-Only
 
-httpsonly-header = Samo HTTPS modus
-httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između { -brand-short-name } i web-stranica koje posjećuješ. Većina web-stranica podržava HTTPS, a ako je samo HTTPS modus aktiviran, tada će { -brand-short-name } nadograditi sve veze na HTTPS.
+httpsonly-header = Način rada "Samo HTTPS"
+httpsonly-description = HTTPS pruža sigurnu, šifriranu vezu između preglednika { -brand-short-name } i web-stranica koje posjećuješ. Većina web-stranica podržava HTTPS, a ako je aktiviran način rada "Samo HTTPS", tada će { -brand-short-name } nadograditi sve veze na HTTPS.
 httpsonly-learn-more = Saznaj više
 httpsonly-radio-enabled =
-    .label = Aktiviraj samo HTTPS modus u svim prozorima
+    .label = Aktiviraj način rada "Samo HTTPS" u svim prozorima
 httpsonly-radio-enabled-pbm =
-    .label = Aktiviraj samo HTTPS modus samo u privatnim prozorima
+    .label = Aktiviraj način rada "Samo HTTPS" samo u privatnim prozorima
 httpsonly-radio-disabled =
-    .label = Nemoj aktivirati samo HTTPS modus
+    .label = Nemoj aktivirati način rada "Samo HTTPS"
 
 ## The following strings are used in the Download section of settings
 
