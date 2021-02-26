@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронізувати зараз
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Синхронізувати зараз
+    .value = Синхронізувати зараз
+appmenuitem-fxa-manage-account = Керувати обліковим записом
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Востаннє синхронізовано { $time }
+    .label = Востаннє синхронізовано { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Синхронізувати та зберегти дані
+appmenu-fxa-signed-in-label = Увійти
+appmenu-fxa-setup-sync =
+    .label = Увімкнути синхронізацію…
 appmenuitem-save-page =
     .label = Зберегти як…
 

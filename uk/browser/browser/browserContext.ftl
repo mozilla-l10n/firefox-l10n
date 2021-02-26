@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Відкрити посилання в новій вкладці контейнера
     .accesskey = к
+main-context-menu-open-link-container =
+    .label = Відкрити посилання в новому контейнері
+    .accesskey = о
 main-context-menu-open-link-new-window =
     .label = Відкрити посилання в новому вікні
     .accesskey = к
@@ -119,6 +122,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = и
 main-context-menu-bookmark-this-link =
     .label = Закласти це посилання
+    .accesskey = с
+main-context-menu-bookmark-link =
+    .label = Закласти посилання
     .accesskey = с
 main-context-menu-save-link =
     .label = Зберегти посилання як…
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Копіювати адресу е-пошти
     .accesskey = п
 main-context-menu-copy-link =
     .label = Копіювати адресу посилання
+    .accesskey = п
+main-context-menu-copy-link-simple =
+    .label = Копіювати посилання
     .accesskey = п
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Копіювати адресу аудіо
     .accesskey = у
+main-context-menu-image-copy-link =
+    .label = Копіювати посилання на зображення
+    .accesskey = ж
+main-context-menu-video-copy-link =
+    .label = Копіювати посилання на відео
+    .accesskey = в
+main-context-menu-audio-copy-link =
+    .label = Копіювати посилання на аудіо
+    .accesskey = у
 main-context-menu-image-save-as =
     .label = Зберегти зображення як…
     .accesskey = б
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Інформація про зображення
     .accesskey = І
+main-context-menu-image-set-image-as-background =
+    .label = Призначити тлом стільниці…
+    .accesskey = ц
 main-context-menu-image-desc =
     .label = Переглянути опис
     .accesskey = о
@@ -331,6 +357,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = м
 main-context-menu-inspect-element =
     .label = Дослідити елемент
+    .accesskey = Д
+main-context-menu-inspect =
+    .label = Дослідити
     .accesskey = Д
 main-context-menu-inspect-a11y-properties =
     .label = Дослідити властивості доступності
