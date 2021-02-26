@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Gerer marcapaginas
 bookmarks-recent-bookmarks-panel =
     .value = Marcapaginas recente
+bookmarks-recent-bookmarks-panel-subheader = Marcapaginas recente
 bookmarks-toolbar-chevron =
     .tooltiptext = Monstrar plus marcapaginas
 bookmarks-sidebar-content =
