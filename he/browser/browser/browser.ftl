@@ -535,6 +535,7 @@ bookmarks-manage-bookmarks =
     .label = ניהול סימניות
 bookmarks-recent-bookmarks-panel =
     .value = סימניות אחרונות
+bookmarks-recent-bookmarks-panel-subheader = סימניות אחרונות
 bookmarks-toolbar-chevron =
     .tooltiptext = הצגת סימניות נוספות
 bookmarks-sidebar-content =
