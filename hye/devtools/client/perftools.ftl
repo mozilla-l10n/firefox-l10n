@@ -103,3 +103,9 @@ perftools-thread-js-helper =
 perftools-record-all-registered-threads = Շրջանցէք վերոնշեալ ընտրութիւնները եւ ձայնագրէք բոլոր գրանցուած շղթաները
 perftools-tools-threads-input-label =
     .title = Շղթաների անունների ցանկն առանձնացուած է ստորակէտով, որը յատկագրիչի վրայ միացնում է շղթաների յատկագրումը։ Շղթայի անուան հետ մասնակի համընկնման դէպքում անունը կը ներառուի։ Բացատը կարեւոր է։
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
+
+-profiler-brand-name = Firefox Profiler

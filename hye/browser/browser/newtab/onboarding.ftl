@@ -166,6 +166,8 @@ onboarding-multistage-welcome-subtitle = Արագ, ապահով գաղտնի դ�
 onboarding-multistage-welcome-primary-button-label = Մեկնարկել կարգարկումը
 onboarding-multistage-welcome-secondary-button-label = Գրանցուել
 onboarding-multistage-welcome-secondary-button-text = Ունէ՞ք հաշիւ։
+onboarding-multistage-set-default-primary-button-label = Դարձնել սկզբնադիր
+onboarding-multistage-set-default-secondary-button-label = Ոչ հիմա
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Ներմուծէք ձեր գաղտնաբառերը, <br/> էջանիշերը, եւ <span data-l10n-name="zap">եւ աւելի </span>
