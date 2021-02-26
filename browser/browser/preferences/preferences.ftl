@@ -271,7 +271,7 @@ applications-action-column =
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Tập tin { $extension }
 applications-action-save =
-    .label = Lưu Tập Tin
+    .label = Lưu tập tin
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =

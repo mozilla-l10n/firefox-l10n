@@ -6,14 +6,14 @@
 <!ENTITY  from.label                  "từ:">
 <!ENTITY  actionQuestion.label        "&brandShortName; nên làm gì với tập tin này?">
 
-<!ENTITY  openWith.label              "Mở Bằng">
+<!ENTITY  openWith.label              "Mở bằng">
 <!ENTITY  openWith.accesskey          "B">
 <!ENTITY  other.label                 "Khác…">
 
 <!ENTITY  saveFile.label              "Lưu Tập Tin">
 <!ENTITY  saveFile.accesskey          "L">
 
-<!ENTITY  rememberChoice.label        "Tự động xử lí tương tự đối với các tập tin kiểu này kể từ bây giờ trở đi.">
+<!ENTITY  rememberChoice.label        "Ghi nhớ cách xử lý cho các tập tin như thế này.">
 <!ENTITY  rememberChoice.accesskey    "T">
 
 <!ENTITY  whichIs.label              "là:">
