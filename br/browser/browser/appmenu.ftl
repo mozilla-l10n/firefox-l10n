@@ -74,6 +74,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -96,6 +99,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = T
 appmenu-help-taskmanager =
     .label = Ardoer trevelloù
+appmenu-help-report-site-issue =
+    .label = Danevell kudennoù al lec'hienn…
 appmenu-help-feedback-page =
     .label = Reiñ ho meno…
     .accesskey = m
@@ -124,3 +129,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Klask hizivadurioù…
+
+## More Tools
+
