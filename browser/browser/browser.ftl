@@ -537,6 +537,7 @@ bookmarks-manage-bookmarks =
     .label = Manage Bookmarks
 bookmarks-recent-bookmarks-panel =
     .value = Recent Bookmarks
+bookmarks-recent-bookmarks-panel-subheader = Recent Bookmarks
 bookmarks-toolbar-chevron =
     .tooltiptext = Show more bookmarks
 bookmarks-sidebar-content =
