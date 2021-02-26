@@ -35,6 +35,9 @@ appmenuitem-save-page =
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -54,6 +57,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = A
 appmenu-help-taskmanager =
     .label = Uhde İdareçisi
+appmenu-help-report-site-issue =
+    .label = Sayt Mes'elesini Maruzala…
 appmenu-help-feedback-page =
     .label = Keri Beslemeni Teslim Et…
     .accesskey = K
@@ -79,4 +84,7 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ##
+
+
+## More Tools
 
