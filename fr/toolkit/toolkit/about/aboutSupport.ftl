@@ -405,3 +405,9 @@ support-printing-clear-settings-button = Effacer les paramètres d’impression 
 support-printing-modified-settings = Paramètres d’impression modifiés
 support-printing-prefs-name = Nom
 support-printing-prefs-value = Valeur
+
+## Normandy sections
+
+support-remote-experiments-name = Nom
+support-remote-features-name = Nom
+support-remote-features-status = État
