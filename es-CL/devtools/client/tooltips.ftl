@@ -30,6 +30,8 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> no tien
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> no tiene efecto en este elemento debido a que su <strong>outline-style</strong> es <strong>auto</strong> o <strong>none</strong>.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> no tiene efectos en elementos internos de una tabla.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> no tiene efectos en elementos internos de una tabla excepto celdas de una tabla.
+inactive-css-not-table = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es una tabla.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no tiene desplazamiento.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
