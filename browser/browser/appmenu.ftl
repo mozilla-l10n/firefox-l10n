@@ -98,6 +98,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Skift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-help-header =
@@ -125,6 +128,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = T
 appmenu-help-taskmanager =
     .label = Jobliste
+appmenu-help-report-site-issue =
+    .label = Rapportér problem med websted…
 appmenu-help-feedback-page =
     .label = Indsend feedback…
     .accesskey = f
@@ -153,3 +158,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Søg efter opdateringer…
+
+## More Tools
+
