@@ -40,6 +40,9 @@ whatsnew-panel-header = Cöse gh'é de neuvo
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
@@ -62,6 +65,8 @@ appmenu-help-troubleshooting-info =
     .accesskey = I
 appmenu-help-taskmanager =
     .label = Gestion ativitæ
+appmenu-help-report-site-issue =
+    .label = Denonçia Problema do Scito…
 appmenu-help-feedback-page =
     .label = Manda comento…
     .accesskey = M
@@ -87,4 +92,7 @@ appmenu-help-not-deceptive =
     .accesskey = g
 
 ##
+
+
+## More Tools
 
