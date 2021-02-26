@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = 새 컨테이너 탭에 링크 열기
     .accesskey = C
+main-context-menu-open-link-container =
+    .label = 새 컨테이너에 링크 열기
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = 새 창에 링크 열기
     .accesskey = W
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = 이 링크 북마크
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = 링크 북마크
+    .accesskey = B
 main-context-menu-save-link =
     .label = 링크를 다른 이름으로 저장…
     .accesskey = k
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = 메일 주소 복사
     .accesskey = E
 main-context-menu-copy-link =
     .label = 링크 주소 복사
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = 링크 복사
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -226,6 +240,15 @@ main-context-menu-video-copy-location =
     .accesskey = o
 main-context-menu-audio-copy-location =
     .label = 오디오 주소 복사
+    .accesskey = o
+main-context-menu-image-copy-link =
+    .label = 이미지 링크 복사
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = 동영상 링크 복사
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = 오디오 링크 복사
     .accesskey = o
 main-context-menu-image-save-as =
     .label = 다른 이름으로 이미지 저장…
