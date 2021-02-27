@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Dupliser faner
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Lat att faner til venstre
+    .accesskey = L
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Lat att faner til høgre
     .accesskey = h
@@ -56,6 +63,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Lat att fleire faner
     .accesskey = f
+tab-context-share-url =
+    .label = Del
+    .accesskey = D
+tab-context-share-more =
+    .label = Meir…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
