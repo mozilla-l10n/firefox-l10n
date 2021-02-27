@@ -45,6 +45,15 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovať teraz
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Synchronizovať teraz
+    .value = Synchronizovať teraz
+appmenuitem-fxa-manage-account = Spravovať účet
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-signed-in-label = Prihlásiť sa
+appmenu-fxa-setup-sync =
+    .label = Zapnúť synchronizáciu…
 appmenuitem-save-page =
     .label = Uložiť stránku ako…
 
@@ -63,9 +72,15 @@ whatsnew-panel-footer-checkbox =
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Zobraziť ďalšie informácie
 profiler-popup-learn-more = Ďalšie informácie
 profiler-popup-settings =
     .value = Nastavenia
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings = Upraviť nastavenia…
+profiler-popup-discard-button =
+    .label = Zahodiť
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
