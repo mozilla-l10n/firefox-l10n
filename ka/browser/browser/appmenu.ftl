@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = დასინქრონება ახლავე
+appmenuitem-fxa-toolbar-sync-now =
+    .label = დასინქრონება ახლავე
+    .value = დასინქრონება ახლავე
+appmenuitem-fxa-manage-account = ანგარიშის მართვა
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = ბოლო დასინქრონება { $time }
+    .label = ბოლო დასინქრონება { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = დასინქრონება და შენახვა
+appmenu-fxa-signed-in-label = შესვლა
+appmenu-fxa-setup-sync =
+    .label = დასინქრონების ჩართვა…
 appmenuitem-save-page =
     .label = გვერდის შენახვა როგორც…
 
