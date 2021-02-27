@@ -62,6 +62,8 @@ appmenu-fxa-header =
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Naposledy synchronizováno { $time }
     .label = Naposledy synchronizováno { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Synchronizace a ukládání dat
 appmenu-fxa-signed-in-label = Přihlásit se
 appmenu-fxa-setup-sync =
     .label = Zapnout synchronizaci…

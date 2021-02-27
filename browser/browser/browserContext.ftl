@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Otevřít odkaz v novém kontejnerovém panelu
     .accesskey = K
+main-context-menu-open-link-container =
+    .label = Otevřít odkaz v novém kontejnerovém panelu
+    .accesskey = k
 main-context-menu-open-link-new-window =
     .label = Otevřít odkaz v novém okně
     .accesskey = O
@@ -119,6 +122,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = t
 main-context-menu-bookmark-this-link =
     .label = Přidat odkaz do záložek
+    .accesskey = d
+main-context-menu-bookmark-link =
+    .label = Přidat do záložek
     .accesskey = d
 main-context-menu-save-link =
     .label = Uložit odkaz jako…
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopírovat e-mailovou adresu
     .accesskey = a
 main-context-menu-copy-link =
     .label = Kopírovat adresu odkazu
     .accesskey = s
+main-context-menu-copy-link-simple =
+    .label = Zkopírovat odkaz
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopírovat adresu audia
     .accesskey = a
+main-context-menu-image-copy-link =
+    .label = Zkopírovat adresu obrázku
+    .accesskey = s
+main-context-menu-video-copy-link =
+    .label = Zkopírovat adresu videa
+    .accesskey = s
+main-context-menu-audio-copy-link =
+    .label = Zkopírovat adresu zvukového souboru
+    .accesskey = s
 main-context-menu-image-save-as =
     .label = Uložit obrázek jako…
     .accesskey = l
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Zobrazit vlastnosti obrázku
     .accesskey = v
+main-context-menu-image-set-image-as-background =
+    .label = Nastavit jako pozadí plochy…
+    .accesskey = t
 main-context-menu-image-desc =
     .label = Zobrazit popis
     .accesskey = p
@@ -330,6 +356,9 @@ main-context-menu-bidi-switch-page =
     .label = Změnit orientaci stránky
     .accesskey = o
 main-context-menu-inspect-element =
+    .label = Prozkoumat prvek
+    .accesskey = P
+main-context-menu-inspect =
     .label = Prozkoumat prvek
     .accesskey = P
 main-context-menu-inspect-a11y-properties =
