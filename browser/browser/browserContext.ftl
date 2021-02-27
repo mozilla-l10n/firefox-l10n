@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = ბმულის გახსნა ახალ სათავს ჩანართში
     .accesskey = ვ
+main-context-menu-open-link-container =
+    .label = ბმულის გახსნა ახალ სათავს ჩანართში
+    .accesskey = ხ
 main-context-menu-open-link-new-window =
     .label = ბმულის გახსნა ახალ ფანჯარაში
     .accesskey = ფ
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = ბმულის ჩანიშვნა
     .accesskey = შ
+main-context-menu-bookmark-link =
+    .label = ბმულის ჩანიშვნა
+    .accesskey = ლ
 main-context-menu-save-link =
     .label = ბმულის შენახვა როგორც…
     .accesskey = მ
@@ -142,6 +148,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = ბმულის მისამართის ასლი
     .accesskey = უ
+main-context-menu-copy-link-simple =
+    .label = ბმულის ასლი
+    .accesskey = ბ
 
 ## Media (video/audio) controls
 ##
