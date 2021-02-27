@@ -316,6 +316,37 @@ about-logins-import-dialog-error-no-logins-imported = ანგარიშე�
 about-logins-import-dialog-error-learn-more = ვრცლად
 about-logins-import-dialog-error-try-again = სცადეთ ხელახლა…
 about-logins-import-dialog-error-cancel = გაუქმება
+about-logins-import-report-title = გადმოტანის შეჯამება
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = რიგი { $number }
+about-logins-import-report-row-description-no-change = გაორმაგებული: ზუსტად ემთხვევა არსებულ ანგარიშს
+about-logins-import-report-row-description-modified = არსებული ანგარიში განახლდა
+about-logins-import-report-row-description-added = ახალი ანგარიში დაემატა
+about-logins-import-report-row-description-error = შეცდომა: ველი აკლია
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = შეცდომა: რამდენიმე მნიშვნელობითაა { $field }
+about-logins-import-report-row-description-error-missing-field = შეცდომა: აკლია { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ახალი ანგარიში დაემატა</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ახალი ანგარიში დაემატა</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">არსებული ანგარიში განახლდა</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">არსებული ანგარიში განახლდა</div>
+    }
 
 ## Logins import report page
 
