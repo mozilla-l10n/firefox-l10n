@@ -320,6 +320,7 @@ about-logins-import-report-description = כניסות וססמאות יובאו 
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = שורה { $number }
+about-logins-import-report-row-description-no-change = כפיל: התאמה מדויקת של כניסה קיימת
 about-logins-import-report-row-description-error = שגיאה: שדה חסר
 
 ##
