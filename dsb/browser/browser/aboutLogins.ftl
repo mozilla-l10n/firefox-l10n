@@ -339,6 +339,42 @@ about-logins-import-dialog-error-no-logins-imported = Žedne pśizjawjenja njejs
 about-logins-import-dialog-error-learn-more = Dalšne informacije
 about-logins-import-dialog-error-try-again = Hyšći raz wopytaś…
 about-logins-import-dialog-error-cancel = Pśetergnuś
+about-logins-import-report-title = Zespominanje importěrowaś
+about-logins-import-report-description = Pśizjawjenja a gronidła su se importěrowali do { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Smužka { $number }
+about-logins-import-report-row-description-no-change = Dwójny: Eksaktna kopija eksistěrujucego pśizjawjenja
+about-logins-import-report-row-description-modified = Eksistěrujuce pśizjawjenje jo se zaktualizěrowało
+about-logins-import-report-row-description-added = Nowe pśizjawjenje jo se pśidało
+about-logins-import-report-row-description-error = Zmólka: Felujuce pólo
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Zmólka: Někotare gódnoty za pólo { $field }
+about-logins-import-report-row-description-error-missing-field = Zmólka: Felujuce pólo { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe pśizjawjenje pśidane</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowej pśizjawjeni pśidanej</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe pśizjawjenja pśidane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe pśizjawjenja pśidane</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistěrujuce pśizjawjenje jo se zaktualizěrowało</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistěrujucej pśizjawjeni stej se zaktualizěrowałej</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistěrujuce pśizjawjenja su se zaktualizěrowali</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistěrujucych pśizjawjenjow jo se zaktualizěrowało</div>
+    }
 
 ## Logins import report page
 
