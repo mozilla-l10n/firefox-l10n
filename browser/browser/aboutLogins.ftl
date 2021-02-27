@@ -200,7 +200,7 @@ about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以进行查看。
 about-logins-confirm-export-dialog-confirm-button = 导出…
 about-logins-alert-import-title = 导入完成
-about-logins-alert-import-message = 查看详细的导入摘要
+about-logins-alert-import-message = 更多信息，请查看导入摘要
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
 confirm-discard-changes-dialog-message = 将失去所有未保存的更改。
 confirm-discard-changes-dialog-confirm-button = 丢弃
@@ -305,12 +305,14 @@ about-logins-import-dialog-error-no-logins-imported = 未导入任何登录信�
 about-logins-import-dialog-error-learn-more = 详细了解
 about-logins-import-dialog-error-try-again = 重试…
 about-logins-import-dialog-error-cancel = 取消
-about-logins-import-report-title = 导入概览
+about-logins-import-report-title = 导入摘要
 about-logins-import-report-description = 导入到 { -brand-short-name } 的登录名和密码。
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = 第 { $number } 行
+about-logins-import-report-row-description-modified = 更新的现有登录信息
+about-logins-import-report-row-description-added = 新增的登录信息
 about-logins-import-report-row-description-error = 错误：缺少字段
 
 ##
@@ -326,4 +328,4 @@ about-logins-import-report-row-description-error-missing-field = 错误：缺少
 
 ## Logins import report page
 
-about-logins-import-report-page-title = 导入情况概要
+about-logins-import-report-page-title = 导入摘要报告
