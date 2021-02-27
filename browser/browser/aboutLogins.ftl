@@ -309,6 +309,24 @@ about-logins-import-dialog-error-no-logins-imported = Ingen innloggingar er impo
 about-logins-import-dialog-error-learn-more = Les meir
 about-logins-import-dialog-error-try-again = Prøv igjen…
 about-logins-import-dialog-error-cancel = Avbryt
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rad { $number }
+about-logins-import-report-row-description-added = Ny innlogging lagt til
+about-logins-import-report-row-description-error = Feil: Manglar felt
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Feil: Fleire verdiar for { $field }
+about-logins-import-report-row-description-error-missing-field = Feil: { $field } manglar
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
