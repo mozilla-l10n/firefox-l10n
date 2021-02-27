@@ -315,6 +315,11 @@ about-logins-import-dialog-error-try-again = Tornar ensajar…
 about-logins-import-dialog-error-cancel = Anullar
 about-logins-import-report-title = Resumit d’importacion
 about-logins-import-report-description = Identificants e senhals importats dins { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Linha { $number }
+about-logins-import-report-row-description-no-change = Doblon : correspondéncia exacta d’un identificant existent
 about-logins-import-report-row-description-modified = Identificant existent actualizat
 about-logins-import-report-row-description-added = Identificant novèl apondut
 about-logins-import-report-row-description-error = Error : camp mancant
@@ -337,6 +342,16 @@ about-logins-import-report-added =
 about-logins-import-report-modified =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Identificants existents actualizats</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">identificant en doble</div> <div data-l10n-name="not-imported">(pas importat)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">identificants en doble</div> <div data-l10n-name="not-imported">(pas importats)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"> error</div> <div data-l10n-name="not-imported">(pas importat)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"> errors</div> <div data-l10n-name="not-imported">(pas importat)</div>
     }
 
 ## Logins import report page
