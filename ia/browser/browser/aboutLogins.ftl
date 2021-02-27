@@ -309,6 +309,19 @@ about-logins-import-dialog-error-no-logins-imported = Nulle credentiales ha essi
 about-logins-import-dialog-error-learn-more = Saper plus
 about-logins-import-dialog-error-try-again = Retentar…
 about-logins-import-dialog-error-cancel = Cancellar
+about-logins-import-report-title = Importar summario
+about-logins-import-report-row-description-modified = Credential existente actualisate
+about-logins-import-report-row-description-added = Nove credential addite
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
