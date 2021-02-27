@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Szinkronizálás
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Szinkronizálás
+    .value = Szinkronizálás
+appmenuitem-fxa-manage-account = Fiók kezelése
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Utoljára szinkronizálva: { $time }
+    .label = Utoljára szinkronizálva: { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Adatok szinkronizálása és mentése
+appmenu-fxa-signed-in-label = Bejelentkezés
+appmenu-fxa-setup-sync =
+    .label = Szinkronizálás bekapcsolása…
 appmenuitem-save-page =
     .label = Oldal mentése…
 
