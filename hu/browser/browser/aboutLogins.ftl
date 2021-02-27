@@ -339,6 +339,26 @@ about-logins-import-report-row-description-error-missing-field = Hiba: hiányzó
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Új bejelentkezés hozzáadva</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Új bejelentkezések hozzáadva</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Meglévő bejelentkezés frissítve</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Meglévő bejelentkezések frissítve</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ismétlődő bejelentkezés</div> <div data-l10n-name="not-imported">(nem lett importálva)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ismétlődő bejelentkezések</div> <div data-l10n-name="not-imported">(nem lettek importálva)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Hiba</div> <div data-l10n-name="not-imported">(nem lett importálva)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Hibák</div> <div data-l10n-name="not-imported">(nem lettek importálva)</div>
+    }
 
 ## Logins import report page
 
