@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Şimdi eşitle
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Şimdi eşitle
+    .value = Şimdi eşitle
+appmenuitem-fxa-manage-account = Hesabı yönet
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Son eşitleme: { $time }
+    .label = Son eşitleme: { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Verileri eşitle ve kaydet
+appmenu-fxa-signed-in-label = Giriş yap
+appmenu-fxa-setup-sync =
+    .label = Eşitlemeyi aç…
 appmenuitem-save-page =
     .label = Sayfayı farklı kaydet…
 
