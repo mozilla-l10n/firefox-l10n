@@ -45,6 +45,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronisar ora
+appmenu-fxa-signed-in-label = Aperir session
 appmenuitem-save-page =
     .label = Salvar le pagina como…
 

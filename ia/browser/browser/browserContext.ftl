@@ -131,6 +131,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Copiar le adresse de e-mail
     .accesskey = E
@@ -226,6 +231,9 @@ main-context-menu-video-copy-location =
     .accesskey = o
 main-context-menu-audio-copy-location =
     .label = Copiar le adresse del audio
+    .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Copiar le ligamine del imagine
     .accesskey = o
 main-context-menu-image-save-as =
     .label = Salvar le imagine como…
