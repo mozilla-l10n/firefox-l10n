@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Hivatkozás megnyitása új konténerlapon
     .accesskey = k
+main-context-menu-open-link-container =
+    .label = Hivatkozás megnyitása új konténerben
+    .accesskey = j
 main-context-menu-open-link-new-window =
     .label = Megnyitás új ablakban
     .accesskey = a
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Hivatkozás felvétele a könyvjelzők közé
     .accesskey = f
+main-context-menu-bookmark-link =
+    .label = Hivatkozás könyvjelzőzése
+    .accesskey = H
 main-context-menu-save-link =
     .label = Hivatkozás mentése más néven…
     .accesskey = n
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = E-mail cím másolása
     .accesskey = m
 main-context-menu-copy-link =
     .label = Hivatkozás címének másolása
     .accesskey = v
+main-context-menu-copy-link-simple =
+    .label = Hivatkozás másolása
+    .accesskey = m
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Hang címének másolása
     .accesskey = s
+main-context-menu-image-copy-link =
+    .label = Képhivatkozás másolása
+    .accesskey = l
+main-context-menu-video-copy-link =
+    .label = Videóhivatkozás másolása
+    .accesskey = V
+main-context-menu-audio-copy-link =
+    .label = Hanghivatkozás másolása
+    .accesskey = H
 main-context-menu-image-save-as =
     .label = Kép mentése más néven…
     .accesskey = m
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Képadatok megjelenítése
     .accesskey = d
+main-context-menu-image-set-image-as-background =
+    .label = Kép beállítása háttérképként…
+    .accesskey = K
 main-context-menu-image-desc =
     .label = Leírás megjelenítése
     .accesskey = L
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Elem vizsgálata
     .accesskey = z
+main-context-menu-inspect =
+    .label = Vizsgálat
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Akadálymentesítési tulajdonságok vizsgálata
 main-context-menu-eme-learn-more =
