@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Atverti saitą naujoje sudėtinėje kortelėje
     .accesskey = k
+main-context-menu-open-link-container =
+    .label = Atverti saitą naujame konteineryje
+    .accesskey = j
 main-context-menu-open-link-new-window =
     .label = Atverti saitą naujame lange
     .accesskey = l
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Įtraukti saitą į adresyną
     .accesskey = d
+main-context-menu-bookmark-link =
+    .label = Įtraukti saitą į adresyną
+    .accesskey = t
 main-context-menu-save-link =
     .label = Įrašyti saistomą objektą kaip…
     .accesskey = Į
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopijuoti el. pašto adresą
-    .accesskey = e
+    .accesskey = t
 main-context-menu-copy-link =
     .label = Kopijuoti saito adresą
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Kopijuoti saitą
+    .accesskey = t
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopijuoti garso adresą
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Kopijuoti paveikslo saitą
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Kopijuoti vaizdo saitą
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Kopijuoti garso saitą
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Įrašyti paveikslą kaip…
     .accesskey = r
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Rodyti paveikslo savybes
     .accesskey = s
+main-context-menu-image-set-image-as-background =
+    .label = Naudoti kaip darbastalio foną…
+    .accesskey = N
 main-context-menu-image-desc =
     .label = Rodyti aprašą
     .accesskey = o
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Tirti elementą
     .accesskey = T
+main-context-menu-inspect =
+    .label = Tirti
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Tirti pritaikymo neįgaliesiems savybes
 main-context-menu-eme-learn-more =
