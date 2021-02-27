@@ -317,11 +317,12 @@ about-logins-import-dialog-error-learn-more = ვრცლად
 about-logins-import-dialog-error-try-again = სცადეთ ხელახლა…
 about-logins-import-dialog-error-cancel = გაუქმება
 about-logins-import-report-title = გადმოტანის შეჯამება
+about-logins-import-report-description = გადმოტანილი ანგარიშები და პაროლები – { -brand-short-name }
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = რიგი { $number }
-about-logins-import-report-row-description-no-change = გაორმაგებული: ზუსტად ემთხვევა არსებულ ანგარიშს
+about-logins-import-report-row-description-no-change = გამეორებული: ზუსტად ემთხვევა არსებულ ანგარიშს
 about-logins-import-report-row-description-modified = არსებული ანგარიში განახლდა
 about-logins-import-report-row-description-added = ახალი ანგარიში დაემატა
 about-logins-import-report-row-description-error = შეცდომა: ველი აკლია
@@ -346,6 +347,16 @@ about-logins-import-report-modified =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">არსებული ანგარიში განახლდა</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">არსებული ანგარიში განახლდა</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ანგარიში მეორდება</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ანგარიში მეორდება</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">შეცდომებითაა</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">შეცდომებითაა</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
     }
 
 ## Logins import report page
