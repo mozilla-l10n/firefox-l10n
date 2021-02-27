@@ -320,16 +320,39 @@ about-logins-import-report-description = כניסות וססמאות יובאו 
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = שורה { $number }
+about-logins-import-report-row-description-error = שגיאה: שדה חסר
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = שגיאה: ערכים מרובים עבור { $field }
+about-logins-import-report-row-description-error-missing-field = שגיאה: { $field } חסר
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות חדשות נוספו</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות חדשות נוספו</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות קיימות עודכנו</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות קיימות עודכנו</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות כפולות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות כפולות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">שגיאות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">שגיאות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
+    }
 
 ## Logins import report page
 

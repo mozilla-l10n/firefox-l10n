@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = סנכרון כעת
+appmenuitem-fxa-toolbar-sync-now =
+    .label = סנכרון כעת
+    .value = סנכרון כעת
+appmenuitem-fxa-manage-account = ניהול חשבון
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name(case: "a") }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = סונכרן לאחרונה { $time }
+    .label = סונכרן לאחרונה { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = סנכרון ושמירת נתונים
+appmenu-fxa-signed-in-label = כניסה
+appmenu-fxa-setup-sync =
+    .label = הפעלת סנכרון…
 appmenuitem-save-page =
     .label = שמירת דף בשם…
 

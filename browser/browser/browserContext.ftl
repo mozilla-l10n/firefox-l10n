@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = פתיחת קישור במגירת לשוניות חדשה
     .accesskey = מ
+main-context-menu-open-link-container =
+    .label = פתיחת קישור במגירה חדשה
+    .accesskey = מ
 main-context-menu-open-link-new-window =
     .label = פתיחת קישור בחלון חדש
     .accesskey = ח
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = יצירת סימנייה לקישור זה
     .accesskey = ק
+main-context-menu-bookmark-link =
+    .label = יצירת סימנייה לקישור
+    .accesskey = ס
 main-context-menu-save-link =
     .label = שמירת קישור בשם…
     .accesskey = מ
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = העתקת כתובת דוא״ל
     .accesskey = כ
 main-context-menu-copy-link =
     .label = העתקת מיקום קישור
+    .accesskey = ה
+main-context-menu-copy-link-simple =
+    .label = העתקת קישור
     .accesskey = ה
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = העתקת מיקום אודיו
     .accesskey = ה
+main-context-menu-image-copy-link =
+    .label = העתקת קישור התמונה
+    .accesskey = ת
+main-context-menu-video-copy-link =
+    .label = העתקת קישור הוידאו
+    .accesskey = ו
+main-context-menu-audio-copy-link =
+    .label = העתקת קישור השמע
+    .accesskey = ש
 main-context-menu-image-save-as =
     .label = שמירת תמונה בשם…
     .accesskey = ב
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = הצגת פרטי תמונה
     .accesskey = מ
+main-context-menu-image-set-image-as-background =
+    .label = קביעה כתמונת רקע בשולחן העבודה…
+    .accesskey = ר
 main-context-menu-image-desc =
     .label = הצגת תיאור
     .accesskey = ת
@@ -328,6 +354,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = פ
 main-context-menu-inspect-element =
     .label = חקירת רכיב
+    .accesskey = ח
+main-context-menu-inspect =
+    .label = חקירה
     .accesskey = ח
 main-context-menu-inspect-a11y-properties =
     .label = חקירת מאפייני נגישות
