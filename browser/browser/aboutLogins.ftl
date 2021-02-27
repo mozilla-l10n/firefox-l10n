@@ -349,6 +349,16 @@ about-logins-import-report-modified =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Bestehende Zugangsdaten aktualisiert</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Bestehende Zugangsdaten aktualisiert</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Doppelte Zugangsdaten</div> <div data-l10n-name="not-imported">(nicht importiert)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Doppelte Zugangsdaten</div> <div data-l10n-name="not-imported">(nicht importiert)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fehler</div> <div data-l10n-name="not-imported">(nicht importiert)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fehler</div> <div data-l10n-name="not-imported">(nicht importiert)</div>
+    }
 
 ## Logins import report page
 
