@@ -309,6 +309,28 @@ about-logins-import-dialog-error-no-logins-imported = No logins have been import
 about-logins-import-dialog-error-learn-more = Learn more
 about-logins-import-dialog-error-try-again = Try Again…
 about-logins-import-dialog-error-cancel = Cancel
+about-logins-import-report-title = Import Summary
+about-logins-import-report-description = Logins and passwords imported to { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Row { $number }
+about-logins-import-report-row-description-no-change = Duplicate: Exact match of existing login
+about-logins-import-report-row-description-modified = Existing login updated
+about-logins-import-report-row-description-added = New login added
+about-logins-import-report-row-description-error = Error: Missing field
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Error: Multiple values for { $field }
+about-logins-import-report-row-description-error-missing-field = Error: Missing { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
