@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Öppna länk i ny innehållsflik
     .accesskey = h
+main-context-menu-open-link-container =
+    .label = Öppna länk i ny behållare
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = Öppna länk i nytt fönster
     .accesskey = Ö
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Bokmärk den här länken
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Bokmärk länk
+    .accesskey = B
 main-context-menu-save-link =
     .label = Spara länk som…
     .accesskey = m
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopiera e-postadress
-    .accesskey = e
+    .accesskey = K
 main-context-menu-copy-link =
     .label = Kopiera länkadress
+    .accesskey = K
+main-context-menu-copy-link-simple =
+    .label = Kopiera länk
     .accesskey = K
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopiera ljudadress
     .accesskey = r
+main-context-menu-image-copy-link =
+    .label = Kopiera bildlänk
+    .accesskey = b
+main-context-menu-video-copy-link =
+    .label = Kopiera videolänk
+    .accesskey = v
+main-context-menu-audio-copy-link =
+    .label = Kopiera ljudlänk
+    .accesskey = u
 main-context-menu-image-save-as =
     .label = Spara bild som…
     .accesskey = b
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Visa bildinfo
     .accesskey = a
+main-context-menu-image-set-image-as-background =
+    .label = Använd bild som skrivbordsbakgrund…
+    .accesskey = A
 main-context-menu-image-desc =
     .label = Visa beskrivning
     .accesskey = g
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspektera element
     .accesskey = e
+main-context-menu-inspect =
+    .label = Inspektera
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Inspektera tillgänglighetsinställningar
 main-context-menu-eme-learn-more =
