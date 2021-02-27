@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = 用新容器分頁開啟鏈結
     .accesskey = z
+main-context-menu-open-link-container =
+    .label = 用新容器開啟鏈結
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = 用新視窗開啟鏈結
     .accesskey = w
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = 將此鏈結加入書籤
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = 將鏈結加入書籤
+    .accesskey = B
 main-context-menu-save-link =
     .label = 鏈結另存新檔…
     .accesskey = k
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = 複製電子郵件地址
     .accesskey = E
 main-context-menu-copy-link =
     .label = 複製鏈結網址
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = 複製鏈結
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -226,6 +240,15 @@ main-context-menu-video-copy-location =
     .accesskey = o
 main-context-menu-audio-copy-location =
     .label = 複製音訊檔案網址
+    .accesskey = o
+main-context-menu-image-copy-link =
+    .label = 複製圖片鏈結
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = 複製影片鏈結
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = 複製音訊鏈結
     .accesskey = o
 main-context-menu-image-save-as =
     .label = 圖片另存新檔…
@@ -331,6 +354,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = D
 main-context-menu-inspect-element =
     .label = 檢測元素
+    .accesskey = Q
+main-context-menu-inspect =
+    .label = 檢測
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = 檢測輔助功能環境屬性

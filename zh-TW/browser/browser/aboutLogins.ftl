@@ -306,16 +306,39 @@ about-logins-import-dialog-error-learn-more = 了解更多
 about-logins-import-dialog-error-try-again = 再試一次…
 about-logins-import-dialog-error-cancel = 取消
 about-logins-import-report-title = 匯入摘要
+about-logins-import-report-description = 已將登入資訊與密碼匯入到 { -brand-short-name }。
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number } 行
+about-logins-import-report-row-description-no-change = 重複項目: 與現有的登入資訊完全相符
+about-logins-import-report-row-description-modified = 已更新現有的登入資訊
+about-logins-import-report-row-description-added = 已新增登入資訊
+about-logins-import-report-row-description-error = 錯誤: 缺少欄位
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = 錯誤: { $field } 欄位有多個值
+about-logins-import-report-row-description-error-missing-field = 錯誤: 缺少 { $field } 欄位
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="details">已新增</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆登入資訊</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="details">已更新</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆現有的登入資訊</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="details">發現</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆重複的登入資訊</div><div data-l10n-name="not-imported">（未匯入）</div>
+    }
 
 ## Logins import report page
 

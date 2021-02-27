@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = 複製分頁
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = 關閉左方分頁
+    .accesskey = l
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = 關閉右方分頁
     .accesskey = i
