@@ -363,17 +363,17 @@ about-logins-import-report-row-description-error-missing-field = Zmylk: Falowace
 
 about-logins-import-report-added =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe přizjewjenje přidate</div>
-        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowej přizjewjeni přidatej</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe přizjewjenja přidate</div>
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Nowe přizjewjenja přidate</div>
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe přizjewjenje přidate</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowej přizjewjeni přidatej</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe přizjewjenja přidate</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe přizjewjenja přidate</div>
     }
 about-logins-import-report-modified =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowace přizjewjenje je so zaktualizował</div>
-        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowacej přizjewjeni stej so zaktualizowałoj</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowace přizjewjenja su so zaktualizowali</div>
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Eksistowace přizjewjenja su so zaktualizowali</div>
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowace přizjewjenje je so zaktualizowało</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowacej přizjewjeni stej so zaktualizowałoj</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowace přizjewjenja su so zaktualizowali</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowacych přizjewjenjow je so zaktualizowało</div>
     }
 about-logins-import-report-no-change =
     { $count ->
