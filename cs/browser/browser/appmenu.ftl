@@ -51,6 +51,20 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovat
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Synchronizovat
+    .value = Synchronizovat
+appmenuitem-fxa-manage-account = Správa účtu
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Naposledy synchronizováno { $time }
+    .label = Naposledy synchronizováno { $time }
+appmenu-fxa-signed-in-label = Přihlásit se
+appmenu-fxa-setup-sync =
+    .label = Zapnout synchronizaci…
 appmenuitem-save-page =
     .label = Uložit stránku jako…
 
