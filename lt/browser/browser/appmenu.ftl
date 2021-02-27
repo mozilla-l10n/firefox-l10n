@@ -45,6 +45,17 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinchronizuoti dabar
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Sinchronizuoti dabar
+    .value = Sinchronizuoti dabar
+appmenuitem-fxa-manage-account = Tvarkyti paskyrą
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-sync-and-save-data =
+    .value = Sinchronizuoti ir įrašyti duomenis
+appmenu-fxa-signed-in-label = Prisijungti
+appmenu-fxa-setup-sync =
+    .label = Įjungti sinchronizavimą…
 appmenuitem-save-page =
     .label = Įrašyti kaip…
 

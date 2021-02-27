@@ -328,6 +328,28 @@ about-logins-import-dialog-error-no-logins-imported = Neimportuoti jokie prisiju
 about-logins-import-dialog-error-learn-more = Sužinoti daugiau
 about-logins-import-dialog-error-try-again = Bandyti dar kartą…
 about-logins-import-dialog-error-cancel = Atsisakyti
+about-logins-import-report-title = Importo suvestinė
+about-logins-import-report-description = Į „{ -brand-short-name }“ importuoti prisijungimai ir slaptažodžiai.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Eilutė { $number }
+about-logins-import-report-row-description-no-change = Dublikatas: tikslus jau esančio prisijungimo atitikmuo
+about-logins-import-report-row-description-modified = Atnaujintas esamas prisijungimas
+about-logins-import-report-row-description-added = Pridėtas naujas prisijungimas
+about-logins-import-report-row-description-error = Klaida: trūksta lauko
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Klaida: laukas „{ $field }“ turi keletą reikšmių
+about-logins-import-report-row-description-error-missing-field = Klaida: trūksta lauko „{ $field }“
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
