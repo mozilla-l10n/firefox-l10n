@@ -317,6 +317,28 @@ about-logins-import-dialog-error-no-logins-imported = Nem lettek bejelentkezése
 about-logins-import-dialog-error-learn-more = További tudnivalók
 about-logins-import-dialog-error-try-again = Próbálja újra…
 about-logins-import-dialog-error-cancel = Mégse
+about-logins-import-report-title = Importálási összefoglaló
+about-logins-import-report-description = A { -brand-short-name }ba importált bejelentkezési adatok és jelszavak.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number }. sor
+about-logins-import-report-row-description-no-change = Másolat: meglévő bejelentkezés pontos egyezése
+about-logins-import-report-row-description-modified = Meglévő bejelentkezés frissítve
+about-logins-import-report-row-description-added = Új bejelentkezés hozzáadva
+about-logins-import-report-row-description-error = Hiba: hiányzó mező
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Hiba: több érték a(z) { $field } mezőhöz
+about-logins-import-report-row-description-error-missing-field = Hiba: hiányzó { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
