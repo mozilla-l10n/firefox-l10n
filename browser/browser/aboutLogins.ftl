@@ -316,6 +316,25 @@ about-logins-import-dialog-error-no-logins-imported = Hiçbir hesap içe aktarı
 about-logins-import-dialog-error-learn-more = Daha fazla bilgi al
 about-logins-import-dialog-error-try-again = Yeniden dene…
 about-logins-import-dialog-error-cancel = Vazgeç
+about-logins-import-report-title = İçe Aktarma Özeti
+about-logins-import-report-description = { -brand-short-name } tarayıcınıza aktarılan hesap ve parolalar.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number }. satır
+about-logins-import-report-row-description-modified = Mevcut hesap güncellendi
+about-logins-import-report-row-description-added = Yeni hesap eklendi
+about-logins-import-report-row-description-error = Hata: Eksik alan
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
