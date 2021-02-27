@@ -354,6 +354,11 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dubbel inloggning</div> <div data-l10n-name="not-imported">(not imported)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dubbla inloggningar</div> <div data-l10n-name="not-imported">(not imported)</div>
     }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fel</div> <div data-l10n-name="not-imported">(inte importerad)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fel</div> <div data-l10n-name="not-imported">(inte importerad)</div>
+    }
 
 ## Logins import report page
 
