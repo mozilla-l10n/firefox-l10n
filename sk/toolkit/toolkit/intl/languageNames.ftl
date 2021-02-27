@@ -176,6 +176,7 @@ language-name-st = Sotho, Južné
 language-name-su = Sudánčina
 language-name-sv = Švédčina
 language-name-sw = Svahilčina
+language-name-szl = Sliezština
 language-name-ta = Tamilčina
 language-name-te = Telugčina
 language-name-tg = Tadžičtina

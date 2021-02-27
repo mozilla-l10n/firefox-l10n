@@ -18,14 +18,6 @@ printui-page-range-custom = Vlastné
 printui-page-range-label = Strany
 printui-page-range-picker =
     .aria-label = Vyberte rozsah strán
-printui-page-custom-range =
-    .aria-label = Zadajte vlastný rozsah strán
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Od
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = do
 printui-page-custom-range-input =
     .aria-label = Zadajte vlastný rozsah strán
     .placeholder = napr. 2-6, 9, 12-16
@@ -48,6 +40,11 @@ printui-scale-pcent = Mierka
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Obojstranná tlač
 printui-duplex-checkbox = Vytlačiť na obe strany
+printui-two-sided-printing-off = Vypnutá
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Preklopiť na dlhšom okraji
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Preklopiť na kratšom okraji
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Vytlačiť hlavičku a pätu
@@ -60,7 +57,6 @@ printui-margins = Okraje
 printui-margins-default = Predvolené
 printui-margins-min = Minimálne
 printui-margins-none = Žiadne
-printui-margins-custom = Vlastné
 printui-margins-custom-inches = Vlastné (palce)
 printui-margins-custom-top = Hore
 printui-margins-custom-top-inches = Hore (palce)
@@ -84,6 +80,7 @@ printui-pages-per-sheet = Stránok na list papiera
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Prebieha tlač…
+printui-print-progress-indicator-saving = Ukladá sa…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -105,6 +102,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Mierka musí byť číslo medzi 10 a 200.
 printui-error-invalid-margin = Zadajte platné okraje pre vybranú veľkosť papiera.
+printui-error-invalid-copies = Počet kópií musí byť číslo medzi 1 a 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rozsah strán musí byť číslo medzi 1 a { $numPages }.
