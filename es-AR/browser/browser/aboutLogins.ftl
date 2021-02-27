@@ -345,8 +345,8 @@ about-logins-import-report-added =
     }
 about-logins-import-report-modified =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Inicios de sesión actualizados</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Inicios de sesión actualizados</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión actualizados</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión actualizados</div>
     }
 
 ## Logins import report page
