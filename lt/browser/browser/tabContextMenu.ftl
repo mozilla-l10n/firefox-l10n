@@ -4,7 +4,7 @@
 
 reload-tab =
     .label = Atsiųsti kortelės tinklalapį iš naujo
-    .accesskey = n
+    .accesskey = i
 select-all-tabs =
     .label = Pasirinkti visas korteles
     .accesskey = P
@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Dubliuoti korteles
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Užverti korteles kairėje
+    .accesskey = l
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Užverti korteles dešinėje
     .accesskey = d
@@ -56,6 +63,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Užverti keletą kortelių
     .accesskey = k
+tab-context-share-url =
+    .label = Dalintis
+    .accesskey = i
+tab-context-share-more =
+    .label = Daugiau…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
