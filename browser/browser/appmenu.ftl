@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 立刻同步
+appmenuitem-fxa-toolbar-sync-now =
+    .label = 立刻同步
+    .value = 立刻同步
+appmenuitem-fxa-manage-account = 管理帳號
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = 上次同步於 { $time }
+    .label = 上次同步於 { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = 同步並儲存資料
+appmenu-fxa-signed-in-label = 登入
+appmenu-fxa-setup-sync =
+    .label = 開啟同步…
 appmenuitem-save-page =
     .label = 另存新檔…
 
