@@ -314,6 +314,22 @@ about-logins-import-dialog-error-no-logins-imported = לא יובאו כניסו
 about-logins-import-dialog-error-learn-more = מידע נוסף
 about-logins-import-dialog-error-try-again = ניסיון חוזר…
 about-logins-import-dialog-error-cancel = ביטול
+about-logins-import-report-title = סיכום הייבוא
+about-logins-import-report-description = כניסות וססמאות יובאו אל { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = שורה { $number }
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
