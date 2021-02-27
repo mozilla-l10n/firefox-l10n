@@ -275,6 +275,17 @@ about-logins-import-dialog-error-no-logins-imported = Логиндер импо�
 about-logins-import-dialog-error-learn-more = Көбірек білу
 about-logins-import-dialog-error-try-again = Қайталап көру…
 about-logins-import-dialog-error-cancel = Бас тарту
+about-logins-import-report-row-description-added = Жаңа логин қосылды
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 

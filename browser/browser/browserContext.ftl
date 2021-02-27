@@ -145,6 +145,9 @@ main-context-menu-copy-email =
 main-context-menu-copy-link =
     .label = Сілтемені көшіру
     .accesskey = ш
+main-context-menu-copy-link-simple =
+    .label = Сілтемені көшіріп алу
+    .accesskey = л
 
 ## Media (video/audio) controls
 ##
@@ -235,6 +238,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Аудионың сілтемесін көшіру
     .accesskey = А
+main-context-menu-image-copy-link =
+    .label = Сурет сілтемесін көшіру
+    .accesskey = ш
+main-context-menu-video-copy-link =
+    .label = Видео сілтемесін көшіру
+    .accesskey = ш
+main-context-menu-audio-copy-link =
+    .label = Аудио сілтемесін көшіру
+    .accesskey = ш
 main-context-menu-image-save-as =
     .label = Суретті қалайша сақтау…
     .accesskey = у
