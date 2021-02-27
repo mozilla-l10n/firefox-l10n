@@ -317,6 +317,43 @@ about-logins-import-dialog-error-no-logins-imported = Inga inloggningar har impo
 about-logins-import-dialog-error-learn-more = Läs mer
 about-logins-import-dialog-error-try-again = Försök igen…
 about-logins-import-dialog-error-cancel = Avbryt
+about-logins-import-report-title = Importera sammanfattning
+about-logins-import-report-description = Inloggningar och lösenord importerade till { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rad { $number }
+about-logins-import-report-row-description-no-change = Dubblett: Exakt matchning av befintlig inloggning
+about-logins-import-report-row-description-modified = Befintlig inloggning uppdaterad
+about-logins-import-report-row-description-added = Ny inloggning tillagd
+about-logins-import-report-row-description-error = Fel: Fält saknas
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Fel: Flera värden för { $field }
+about-logins-import-report-row-description-error-missing-field = Fel: { $field } saknas
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ny inloggning har lagts till</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nya inloggningar har lagts till</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">befintlig inloggning uppdaterad</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">befintliga inloggningar uppdaterade</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dubbel inloggning</div> <div data-l10n-name="not-imported">(not imported)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dubbla inloggningar</div> <div data-l10n-name="not-imported">(not imported)</div>
+    }
 
 ## Logins import report page
 
