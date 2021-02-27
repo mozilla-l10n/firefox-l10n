@@ -120,6 +120,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Осы сілтемені бетбелгілерге қосу
     .accesskey = л
+main-context-menu-bookmark-link =
+    .label = Сілтемені бетбелгілерге қосу
+    .accesskey = б
 main-context-menu-save-link =
     .label = Сілтемені қалайша сақтау…
     .accesskey = м
@@ -128,6 +131,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -332,6 +340,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Элементті бақылау
     .accesskey = Э
+main-context-menu-inspect =
+    .label = Бақылау
+    .accesskey = ы
 main-context-menu-inspect-a11y-properties =
     .label = Қолжетерлілік қасиеттерін бақылау
 main-context-menu-eme-learn-more =

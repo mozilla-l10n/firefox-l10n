@@ -291,6 +291,7 @@ cfr-whatsnew-media-keys-button = Қалай екенін білу
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Жақсырақ бетбелгілер
 
 ## What's new: Cross-site cookie tracking
 
