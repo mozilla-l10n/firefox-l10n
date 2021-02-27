@@ -311,6 +311,10 @@ about-logins-import-dialog-error-try-again = Retentar…
 about-logins-import-dialog-error-cancel = Cancellar
 about-logins-import-report-title = Importar summario
 about-logins-import-report-description = Credentiales e contrasignos importate in { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rango { $number }
 about-logins-import-report-row-description-no-change = Duplicate: exacte concordantia con existente credential
 about-logins-import-report-row-description-modified = Credential existente actualisate
 about-logins-import-report-row-description-added = Nove credential addite
