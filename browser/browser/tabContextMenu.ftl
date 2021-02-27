@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = Atsiųsti kortelės tinklalapį iš naujo
+    .label = Įkelti kortelę iš naujo
     .accesskey = i
 select-all-tabs =
     .label = Pasirinkti visas korteles
@@ -62,7 +62,7 @@ move-to-new-window =
     .accesskey = l
 tab-context-close-multiple-tabs =
     .label = Užverti keletą kortelių
-    .accesskey = k
+    .accesskey = v
 tab-context-share-url =
     .label = Dalintis
     .accesskey = i
@@ -80,7 +80,7 @@ tab-context-undo-close-tabs =
             [few] Atšaukti kortelių užvėrimus
            *[other] Atšaukti kortelių užvėrimus
         }
-    .accesskey = t
+    .accesskey = A
 close-tab =
     .label = Užverti kortelę
     .accesskey = U
