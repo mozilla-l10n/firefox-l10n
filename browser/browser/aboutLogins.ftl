@@ -323,6 +323,38 @@ about-logins-import-dialog-error-no-logins-imported = Nebyly naimportovány žá
 about-logins-import-dialog-error-learn-more = Zjistit více
 about-logins-import-dialog-error-try-again = Zkusit znovu
 about-logins-import-dialog-error-cancel = Zrušit
+about-logins-import-report-title = Souhrn
+about-logins-import-report-description =
+    Přihlašovací údaje importované do { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "gen") }
+        [feminine] { -brand-short-name(case: "gen") }
+        [neuter] { -brand-short-name(case: "gen") }
+       *[other] aplikace { -brand-short-name }
+    }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Řádek č. { $number }
+about-logins-import-report-row-description-no-change = Duplicitní: Přesná shoda se stávajícími údaji
+about-logins-import-report-row-description-modified = Přihlašovací údaje aktualizovány
+about-logins-import-report-row-description-added = Přidány nové přihlašovací údaje
+about-logins-import-report-row-description-error = Chyba: chybějící pole
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Chyba: více hodnot pro pole { $field }
+about-logins-import-report-row-description-error-missing-field = Chyba: chybějící pole { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added = <div data-l10n-name="details">Nově přidané přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div>
+about-logins-import-report-modified = <div data-l10n-name="details">Aktualizované přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div>
+about-logins-import-report-no-change = <div data-l10n-name="details">Duplicitní přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(neimportováno)</div>
+about-logins-import-report-error = <div data-l10n-name="details">Chyby:</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(neimportováno)</div>
 
 ## Logins import report page
 
