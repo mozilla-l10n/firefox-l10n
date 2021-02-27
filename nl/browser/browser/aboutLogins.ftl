@@ -317,6 +317,25 @@ about-logins-import-dialog-error-no-logins-imported = Er zijn geen aanmeldingen 
 about-logins-import-dialog-error-learn-more = Meer info
 about-logins-import-dialog-error-try-again = Opnieuw proberen…
 about-logins-import-dialog-error-cancel = Annuleren
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rij { $number }
+about-logins-import-report-row-description-modified = Bestaande aanmelding bijgewerkt
+about-logins-import-report-row-description-added = Nieuwe aanmelding toegevoegd
+about-logins-import-report-row-description-error = Fout: veld ontbreekt
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Fout: meerdere waarden voor { $field }
+about-logins-import-report-row-description-error-missing-field = Fout: { $field } ontbreekt
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
