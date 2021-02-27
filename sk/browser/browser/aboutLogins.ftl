@@ -170,6 +170,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Chcete odstrániť tento prihlasovací údaj?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 about-logins-confirm-remove-dialog-confirm-button = Odstrániť
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Odstrániť všetky
+        [one] Odstrániť všetky
+        [few] Odstrániť všetky
+       *[other] Odstrániť všetky
+    }
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Áno, odstrániť tieto prihlasovacie údaje
@@ -242,12 +249,21 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokument CSV
        *[other] Súbor CSV
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument TSV
+       *[other] Súbor TSV
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Import bol dokončený
 about-logins-import-dialog-done = Hotovo
+about-logins-import-dialog-error-no-logins-imported = Neboli importované žiadne prihlasovacie údaje
 about-logins-import-dialog-error-learn-more = Ďalšie informácie
 about-logins-import-dialog-error-try-again = Skúsiť znova…
 about-logins-import-dialog-error-cancel = Zrušiť
