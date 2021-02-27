@@ -173,6 +173,7 @@ onboarding-multistage-welcome-secondary-button-text = Vous avez déjà un compte
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Définissez { -brand-short-name } <span data-l10n-name="zap">par défaut</span>
+onboarding-multistage-set-default-subtitle = Toute votre navigation rapide, sûre et confidentielle.
 onboarding-multistage-set-default-primary-button-label = Le définir par défaut
 onboarding-multistage-set-default-secondary-button-label = Plus tard
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
