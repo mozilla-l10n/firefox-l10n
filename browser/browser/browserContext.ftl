@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Wótkaz w nowem kontejnerowem rejtariku wócyniś
     .accesskey = t
+main-context-menu-open-link-container =
+    .label = Wótkaz w nowem kontejnerje wócyniś
+    .accesskey = W
 main-context-menu-open-link-new-window =
     .label = Wótkaz w nowem woknje wócyniś
     .accesskey = n
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Toś ten wótkaz ako cytańske znamje składowaś
     .accesskey = k
+main-context-menu-bookmark-link =
+    .label = Wótkaz ako cytańske znamje składowaś
+    .accesskey = c
 main-context-menu-save-link =
     .label = Wótkaz składowaś ako…
     .accesskey = k
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = E-mailowu adresu kopěrowaś
     .accesskey = E
 main-context-menu-copy-link =
     .label = Wótkazowu adresu kopěrowaś
     .accesskey = k
+main-context-menu-copy-link-simple =
+    .label = Wótkaz kopěrowaś
+    .accesskey = z
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Adresu awdiodataje kopěrowaś
     .accesskey = u
+main-context-menu-image-copy-link =
+    .label = Wobrazowy wótkaz kopěrowaś
+    .accesskey = b
+main-context-menu-video-copy-link =
+    .label = Wideowótkaz kopěrowaś
+    .accesskey = i
+main-context-menu-audio-copy-link =
+    .label = Awdiowótkaz kopěrowaś
+    .accesskey = A
 main-context-menu-image-save-as =
     .label = Wobraz składowaś ako…
     .accesskey = r
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Info wó wobrazu pokazaś
     .accesskey = w
+main-context-menu-image-set-image-as-background =
+    .label = Wobraz ako desktopowu slězynu nastajiś…
+    .accesskey = d
 main-context-menu-image-desc =
     .label = Wopisanje pokazaś
     .accesskey = o
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Element pśepytowaś
     .accesskey = E
+main-context-menu-inspect =
+    .label = Pśepytowaś
+    .accesskey = P
 main-context-menu-inspect-a11y-properties =
     .label = Kakosći bźezbariernosći pśepytowaś
 main-context-menu-eme-learn-more =
