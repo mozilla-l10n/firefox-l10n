@@ -311,6 +311,7 @@ about-logins-import-report-description = 导入到 { -brand-short-name } 的登�
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = 第 { $number } 行
+about-logins-import-report-row-description-no-change = 重复：与现有登录信息完全一致
 about-logins-import-report-row-description-modified = 更新的现有登录信息
 about-logins-import-report-row-description-added = 新增的登录信息
 about-logins-import-report-row-description-error = 错误：缺少字段
@@ -319,12 +320,29 @@ about-logins-import-report-row-description-error = 错误：缺少字段
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = 错误：{ $field } 对应多个值
 about-logins-import-report-row-description-error-missing-field = 错误：缺少“{ $field }”
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">新增的登录信息</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">更新的现有登录信息</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">重复的登录信息</div> <div data-l10n-name="not-imported">（未导入）</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">错误</div> <div data-l10n-name="not-imported">（未导入）</div>
+    }
 
 ## Logins import report page
 
