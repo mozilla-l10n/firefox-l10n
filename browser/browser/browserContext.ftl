@@ -131,6 +131,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = ელფოსტის მისამართის ასლი
     .accesskey = ე
@@ -227,6 +232,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = ხმოვანი ფაილის მისამართის ასლი
     .accesskey = ლ
+main-context-menu-image-copy-link =
+    .label = სურათის ბმულის ასლი
+    .accesskey = უ
+main-context-menu-video-copy-link =
+    .label = ვიდეოს ბმულის ასლი
+    .accesskey = ო
+main-context-menu-audio-copy-link =
+    .label = აუდიოს ბმულის ასლი
+    .accesskey = ო
 main-context-menu-image-save-as =
     .label = სურათის შენახვა როგორც…
     .accesskey = ნ
@@ -239,6 +253,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = სურათის მონაცემები
     .accesskey = მ
+main-context-menu-image-set-image-as-background =
+    .label = სამუშაო ეკრანის ფონად გამოყენება…
+    .accesskey = ე
 main-context-menu-image-desc =
     .label = აღწერილობის ნახვა
     .accesskey = ა
@@ -332,8 +349,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = ელემენტზე დაკვირვება
     .accesskey = ტ
+main-context-menu-inspect =
+    .label = დაკვირვება
+    .accesskey = ვ
 main-context-menu-inspect-a11y-properties =
-    .label = დამხმარე საშუალებების გამოკვლევა
+    .label = დამხმარე საშუალებებზე დაკვირვება
 main-context-menu-eme-learn-more =
     .label = ვრცლად, DRM-ის შესახებ…
     .accesskey = D
