@@ -384,15 +384,11 @@ addon-detail-private-browsing-disallow = Nepovoliť
 addon-badge-recommended2 =
     .title = { -brand-product-name } odporúča len rozšírenia, ktoré spĺňajú naše štandardy pre bezpečnosť a výkon.
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = Toto je rozšírenie od tvorcov { -brand-product-name(case: "gen") }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = Za účelom bezpečnosti bol kód tohto rozšírenia skontrolovaný
-    .aria-label = { addon-badge-verified.title }
-addon-badge-line2 =
-    .title = Toto je oficiálne rozšírenie od tvorcov { -brand-product-name(case: "gen") }
-    .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = Oficiálne rozšírenie od autorov Firefoxu. Spĺňa bezpečnostné a výkonové štandardy.
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = Toto rozšírenie bolo skontrolované a spĺňa naše štandardy bezpečnosti a výkonu
     .aria-label = { addon-badge-verified2.title }

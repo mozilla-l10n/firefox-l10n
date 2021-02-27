@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Otvoriť odkaz na novej kontajnerovej karte
     .accesskey = z
+main-context-menu-open-link-container =
+    .label = Otvoriť odkaz na novej kontajnerovej karte
+    .accesskey = k
 main-context-menu-open-link-new-window =
     .label = Otvoriť odkaz v novom okne
     .accesskey = t
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Pridať tento odkaz medzi záložky
     .accesskey = i
+main-context-menu-bookmark-link =
+    .label = Pridať odkaz medzi záložky
+    .accesskey = o
 main-context-menu-save-link =
     .label = Uložiť cieľ odkazu ako…
     .accesskey = d
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopírovať e-mailovú adresu
     .accesskey = e
 main-context-menu-copy-link =
     .label = Kopírovať adresu odkazu
+    .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Kopírovať odkaz
     .accesskey = a
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopírovať adresu zvuku
     .accesskey = e
+main-context-menu-image-copy-link =
+    .label = Kopírovať odkaz na obrázok
+    .accesskey = k
+main-context-menu-video-copy-link =
+    .label = Kopírovať odkaz na video
+    .accesskey = v
+main-context-menu-audio-copy-link =
+    .label = Kopírovať odkaz na zvuk
+    .accesskey = z
 main-context-menu-image-save-as =
     .label = Uložiť obrázok ako…
     .accesskey = U
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Zobraziť informácie o obrázku
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Nastaviť ako pozadie pracovnej plochy…
+    .accesskey = p
 main-context-menu-image-desc =
     .label = Zobraziť popis
     .accesskey = s
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Preskúmať prvok
     .accesskey = m
+main-context-menu-inspect =
+    .label = Preskúmať
+    .accesskey = e
 main-context-menu-inspect-a11y-properties =
     .label = Preskúmať vlastnosti zjednodušenia ovládania
 main-context-menu-eme-learn-more =

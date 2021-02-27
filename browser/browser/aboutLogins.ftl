@@ -170,7 +170,6 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Chcete odstrániť tento prihlasovací údaj?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 about-logins-confirm-remove-dialog-confirm-button = Odstrániť
-about-logins-confirm-remove-all-dialog-confirm-button = Odstrániť všetky
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Áno, odstrániť tieto prihlasovacie údaje
@@ -181,6 +180,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
 about-logins-confirm-export-dialog-title = Exportovať prihlasovacie údaje
 about-logins-confirm-export-dialog-message = Vaše heslá budú uložené v čitateľnom formáte (napr. h3slo) takže ktokoľvek, kto bude môcť otvoriť tento súbor, bude môcť zistiť vaše heslá.
 about-logins-confirm-export-dialog-confirm-button = Exportovať…
+about-logins-alert-import-title = Import bol dokončený
 confirm-discard-changes-dialog-title = Chcete zahodiť neuložené zmeny?
 confirm-discard-changes-dialog-message = Všetky neuložené zmeny budú stratené.
 confirm-discard-changes-dialog-confirm-button = Zahodiť
@@ -242,3 +242,25 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] Dokument CSV
        *[other] Súbor CSV
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-done = Hotovo
+about-logins-import-dialog-error-learn-more = Ďalšie informácie
+about-logins-import-dialog-error-try-again = Skúsiť znova…
+about-logins-import-dialog-error-cancel = Zrušiť
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+

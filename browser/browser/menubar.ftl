@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Nedávno zatvorené karty
 menu-history-undo-window-menu =
     .label = Nedávno zatvorené okná
+menu-history-reopen-all-tabs = Obnoviť všetky karty
+menu-history-reopen-all-windows = Obnoviť všetky okná
 
 ## Bookmarks Menu
 
