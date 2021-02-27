@@ -317,6 +317,38 @@ about-logins-import-dialog-error-no-logins-imported = Es wurden keine Zugangsdat
 about-logins-import-dialog-error-learn-more = Weitere Informationen
 about-logins-import-dialog-error-try-again = Erneut versuchen…
 about-logins-import-dialog-error-cancel = Abbrechen
+about-logins-import-report-title = Import-Zusammenfassung
+about-logins-import-report-description = Zugangsdaten und Passwörter wurden in { -brand-short-name } importiert.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Zeile { $number }
+about-logins-import-report-row-description-no-change = Duplikat: Exakte Übereinstimmung mit bestehenden Zugangsdaten
+about-logins-import-report-row-description-modified = Bestehende Zugangsdaten aktualisiert
+about-logins-import-report-row-description-added = Neue Zugangsdaten hinzugefügt
+about-logins-import-report-row-description-error = Fehler: Fehlendes Feld
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Fehler: Mehrere Werte für { $field }
+about-logins-import-report-row-description-error-missing-field = Fehler: { $field } fehlt
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Neue Zugangsdaten hinzugefügt</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Neue Zugangsdaten hinzugefügt</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Bestehende Zugangsdaten aktualisiert</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Bestehende Zugangsdaten aktualisiert</div>
+    }
 
 ## Logins import report page
 
