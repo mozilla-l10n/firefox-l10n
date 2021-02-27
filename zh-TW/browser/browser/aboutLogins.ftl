@@ -339,6 +339,10 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="details">發現</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆重複的登入資訊</div><div data-l10n-name="not-imported">（未匯入）</div>
     }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="details">有</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">筆發生錯誤</div><div data-l10n-name="not-imported">（未匯入）</div>
+    }
 
 ## Logins import report page
 
