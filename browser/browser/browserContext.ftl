@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Otwórz odnośnik w nowej karcie w nowym kontekście
     .accesskey = k
+main-context-menu-open-link-container =
+    .label = Otwórz odnośnik w nowym kontekście
+    .accesskey = z
 main-context-menu-open-link-new-window =
     .label = Otwórz odnośnik w nowym oknie
     .accesskey = n
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Dodaj zakładkę do odnośnika
     .accesskey = D
+main-context-menu-bookmark-link =
+    .label = Dodaj zakładkę do odnośnika
+    .accesskey = a
 main-context-menu-save-link =
     .label = Zapisz element docelowy jako…
     .accesskey = s
@@ -128,6 +134,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
