@@ -45,6 +45,12 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Jetzt synchronisieren
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Jetzt synchronisieren
+    .value = Jetzt synchronisieren
+appmenuitem-fxa-manage-account = Konto verwalten
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
 appmenuitem-save-page =
     .label = Seite speichern unter…
 
