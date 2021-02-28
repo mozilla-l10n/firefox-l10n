@@ -8,6 +8,9 @@
 newtab-page-title = زبانه جدید
 newtab-settings-button =
     .title = صفحهٔ زبانه جدید را سفارشی کنید
+newtab-personalize-button-label = شخصی‌سازی
+    .title = شحصی‌سازی زبانهٔ جدید
+    .aria-label = شحصی‌سازی زبانهٔ جدید
 
 ## Search box component.
 
@@ -15,27 +18,30 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = جست‌وجو
     .aria-label = جست‌وجو
-
 newtab-search-box-search-the-web-text = جست‌وجوی وب
 newtab-search-box-search-the-web-input =
     .placeholder = جست‌وجوی وب
     .title = جست‌وجوی وب
     .aria-label = جست‌وجوی وب
+newtab-search-box-text = جست‌وجو در وب
+newtab-search-box-input =
+    .placeholder = جست‌وجو در وب
+    .aria-label = جست‌وجو در وب
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = افزودن موتور جست‌وجو
 newtab-topsites-add-topsites-header = سایت برتر جدید
+newtab-topsites-add-shortcut-header = میانبر جدید
 newtab-topsites-edit-topsites-header = ویرایش سایت برتر
+newtab-topsites-edit-shortcut-header = ویرایش میانبر
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = عنوان را وارد کنید
-
 newtab-topsites-url-label = آدرس
 newtab-topsites-url-input =
     .placeholder = یک URL تایپ کنید یا بچسبانید
 newtab-topsites-url-validation = URL معتبر الزامی است
-
 newtab-topsites-image-url-label = آدرسِ سفارشی عکس
 newtab-topsites-use-image-link = استفاده از یک عکس سفارشی…
 newtab-topsites-image-validation = بارگیری عکس شکست خورد. آدرس دیگری امتحان کنید.
@@ -54,18 +60,20 @@ newtab-confirm-delete-history-p1 = آیا از پاک کردن همه نمونه
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = این عمل قابل برگشت نیست.
 
+## Top Sites - Sponsored label
+
+newtab-topsite-sponsored = حمایت شده
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = باز کردن منو
     .aria-label = باز کردن منو
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = حذف
     .aria-label = حذف
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -133,12 +141,10 @@ newtab-label-removed-bookmark = نشانک حذف شد
 newtab-label-recommended = موضوعات داغ
 newtab-label-saved = در { -pocket-brand-name } ذخیره شد
 newtab-label-download = دریافت شد
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · حمایت مالی شده
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
@@ -169,6 +175,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = سایت‌های برتر
 newtab-section-header-highlights = برجسته‌ها
+newtab-section-header-recent-activity = فعالیت‌های اخیر
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
@@ -176,12 +183,10 @@ newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = مرور کردن را شروع کنید و شاهد تعداد زیادی مقاله، فیلم و صفحات خوبی باشید که اخیر مشاهده کرده اید یا نشانگ گذاری کرده اید.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = فعلاً تمام شد. بعداً دوباره سر بزن تا مطالب جدیدی از { $provider } ببینی. نمی‌توانی صبر کنی؟ یک موضوع محبوب را انتخاب کن تا مطالب جالب مرتبط از سراسر دنیا را پیدا کنی.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -206,3 +211,27 @@ newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pock
 
 newtab-error-fallback-info = اوه، هنگام بارگیری این محتوا مشکلی پیش آمد.
 newtab-error-fallback-refresh-link = برای تلاش مجدد صفحه را بازآوری کنید.
+
+## Customization Menu
+
+newtab-custom-shortcuts-title = میانبرها
+newtab-custom-shortcuts-subtitle = وب‌سایت‌هایی که ذخیره یا بازدید می‌کنید
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } ردیف
+       *[other] { $num } ردیف
+    }
+newtab-custom-sponsored-sites = میانبرهای حمایت شده
+newtab-custom-pocket-title = توصیه‌های { -pocket-brand-name }
+newtab-custom-pocket-subtitle = محتوای استثنایی که توسط { -pocket-brand-name }، بخشی از خانواده { -brand-product-name } جمع‌آوری شده‌اند.
+newtab-custom-pocket-sponsored = محتواهایی از حامیان مالی
+newtab-custom-recent-title = فعالیت‌های اخیر
+newtab-custom-recent-subtitle = منتخبی از سایت‌ها و مطالب اخیر
+newtab-custom-close-button = بستن
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = تکه‌ها
+newtab-custom-snippets-subtitle = نکات و اخبار از { -vendor-short-name } و { -brand-product-name }
+newtab-custom-settings = مدیریت تنظیمات بیشتر

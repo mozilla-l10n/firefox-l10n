@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = زبانه‌های تازه بسته شده
 menu-history-undo-window-menu =
     .label = پنجره‌های تازه بسته شده
+menu-history-reopen-all-tabs = بازآوری همهٔ زبانه‌ها
+menu-history-reopen-all-windows = بازآوری همهٔ پنجره‌ها
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = میانبرهای صفحه کلید
     .accesskey = K
+menu-get-help =
+    .label = دریافت کمک
+    .accesskey = H
 menu-help-troubleshooting-info =
     .label = اطلاعات رفع اشکال
     .accesskey = T
@@ -341,3 +346,6 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = این یک سایت گمراه‌کننده نیست…
     .accesskey = d
+menu-help-check-for-update =
+    .label = بررسی برای بروزرسانی‌ها…
+    .accesskey = C

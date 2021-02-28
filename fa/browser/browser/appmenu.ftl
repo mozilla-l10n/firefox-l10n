@@ -56,6 +56,8 @@ appmenu-fxa-header =
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = آخرین همگام‌سازی { $time }
     .label = آخرین همگام‌سازی { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = همگام‌سازی و ذخیرهٔ داده‌ها
 appmenu-fxa-signed-in-label = ورود
 appmenu-fxa-setup-sync =
     .label = روشن کردن همگام‌سازی…
@@ -81,11 +83,15 @@ profiler-popup-reveal-description-button =
     .aria-label = نمایش اطلاعات بیشتر
 profiler-popup-description-title =
     .value = ضبط، تجزیه و تحلیل، اشتراک گذاری
+profiler-popup-description = با انتشار پروفایل‌ها، در مورد مشکلات مربوط به بهینه‌سازی همکاری کنید.
 profiler-popup-learn-more = بیشتر بدانید
 profiler-popup-settings =
     .value = تنظیمات
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = ویرایش تنظیمات…
+profiler-popup-disabled =
+    پروفایلر در حال حاضر غیرفعال است، به احتمال زیاد به این خاطر که یک پنجرهٔ مرور ناشناس
+    باز است
 profiler-popup-recording-screen = ضبط…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
