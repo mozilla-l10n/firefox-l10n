@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchrōnizuj
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Synchrōnizuj teroz
+    .value = Synchrōnizuj teroz
+appmenuitem-fxa-manage-account = Regiyruj kōntym
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Ôstatnio synchrōnizowane { $time }
+    .label = Ôstatnio synchrōnizowane { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Synchrōnizuj i spamiyntej dane
+appmenu-fxa-signed-in-label = Wloguj
+appmenu-fxa-setup-sync =
+    .label = Załōncz synchronizacyjo…
 appmenuitem-save-page =
     .label = Spamiyntej strōna za…
 
@@ -98,9 +114,15 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Regiyruj historyjōm
+appmenu-reopen-all-tabs = Ôdewrzij nazod wszyskie karty
+appmenu-reopen-all-windows = Ôdewrzij nazod wszyskie ôkna
 
 ## Help panel
 
+appmenu-help-header =
+    .title = Pōmoc aplikacyje { -brand-shorter-name }
 appmenu-about =
     .label = Ô aplikacyji { -brand-shorter-name }
     .accesskey = O
@@ -116,6 +138,9 @@ appmenu-help-import-from-another-browser =
 appmenu-help-keyboard-shortcuts =
     .label = Skrōty tastatury
     .accesskey = T
+appmenu-get-help =
+    .label = Pōmoc
+    .accesskey = P
 appmenu-help-troubleshooting-info =
     .label = Ô rozwiōnzowaniu problymōw
     .accesskey = b
@@ -154,3 +179,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Przipasuj posek z noczyniami…
+appmenu-developer-tools-subheader = Noczynia przeglōndarki
