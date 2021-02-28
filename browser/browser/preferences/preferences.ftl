@@ -29,6 +29,8 @@ search-input-box =
            *[other] پیدا‌کردن در ترجیحات
         }
 managed-notice = مرورگر شما توسط سازمان شما مدیریت می شود.
+category-list =
+    .aria-label = دسته‌بندی‌ها
 pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
@@ -988,6 +990,7 @@ space-alert-under-5gb-message = فضای ذخیره سازی { -brand-short-name
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-learn-more = بیشتر بدانید
 
 ## The following strings are used in the Download section of settings
 
