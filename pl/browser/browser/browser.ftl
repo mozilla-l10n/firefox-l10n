@@ -351,11 +351,11 @@ browser-window-close-button =
 ## Tab actions
 
 browser-tab-audio-playing = Odtwarzanie
-browser-tab-audio-muted = Wyciszona
+browser-tab-audio-muted = Wyciszone
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ODTWARZANIE
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = WYCISZONA
+browser-tab-audio-muted2 = WYCISZONE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = ZABLOKOWANO AUTOMATYCZNE ODTWARZANIE
 # This label should be written in all capital letters if your locale supports them.
