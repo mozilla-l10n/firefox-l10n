@@ -167,6 +167,12 @@ onboarding-multistage-welcome-primary-button-label = Zacznij sztalować
 onboarding-multistage-welcome-secondary-button-label = Wloguj sie
 onboarding-multistage-welcome-secondary-button-text = Mosz kōnto?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Nastow { -brand-short-name } za swoja <span data-l10n-name="zap">bazowo</span>
+onboarding-multistage-set-default-subtitle = Gibkość, bezpieczyństwo a ôchrōna prywatności przi kożdym przeglōndaniu neca.
+onboarding-multistage-set-default-primary-button-label = Nastow za bazowo
+onboarding-multistage-set-default-secondary-button-label = Niy teroz
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importuj swoje hasła, <br/>zokłodki a <span data-l10n-name="zap">wiyncyj</span>
 onboarding-multistage-import-subtitle = Przichodzisz z inkszyj przeglōndarki? Leko idzie przeniyść wszysko do aplikacyje { -brand-short-name }.

@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Tupluj karty
     .accesskey = T
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Zawrzij lewe karty
+    .accesskey = Z
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Zawrzij prawe karty
     .accesskey = i
@@ -56,6 +63,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Ôbier mocka kart
     .accesskey = M
+tab-context-share-url =
+    .label = Udostympnij
+    .accesskey = U
+tab-context-share-more =
+    .label = Wiyncyj…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

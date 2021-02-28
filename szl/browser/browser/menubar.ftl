@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Niydowno zawarte karty
 menu-history-undo-window-menu =
     .label = Niydowno zawarte ôkna
+menu-history-reopen-all-tabs = Ôdewrzij nazod wszyskie karty
+menu-history-reopen-all-windows = Ôdewrzij nazod wszyskie ôkna
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Skrōty tastatury
     .accesskey = T
+menu-get-help =
+    .label = Pōmoc
+    .accesskey = P
 menu-help-troubleshooting-info =
     .label = Ô rozwiōnzowaniu problymōw
     .accesskey = b

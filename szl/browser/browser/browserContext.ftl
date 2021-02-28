@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Ôtwōrz link we nowyj kōntynerowyj karcie
     .accesskey = r
+main-context-menu-open-link-container =
+    .label = Ôdewrzij link we nowym kōntynerze
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = Ôtwōrz link we nowym ôknie
     .accesskey = N
@@ -119,6 +122,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = P
 main-context-menu-bookmark-this-link =
     .label = Przidej tyn link do zokłodek
+    .accesskey = L
+main-context-menu-bookmark-link =
+    .label = Link do zokłodek
     .accesskey = L
 main-context-menu-save-link =
     .label = Spamiyntej link za…
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopiuj adresa email
     .accesskey = A
 main-context-menu-copy-link =
     .label = Kopiuj adresa ôd linka
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Kopiuj link
+    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Skopiuj adresa ôd audio
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Kopiuj link ôbrozka
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Kopiuj link video
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Kopiuj link zbioru audio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Spamiyntej ôbroz za…
     .accesskey = t
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Pokoż informacyje ô ôbrazie
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Nastow ôbrozek za tapeta…
+    .accesskey = S
 main-context-menu-image-desc =
     .label = Pokoż ôpis
     .accesskey = O
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Ôbadej elymynt
     .accesskey = O
+main-context-menu-inspect =
+    .label = Zbadej
+    .accesskey = Z
 main-context-menu-inspect-a11y-properties =
     .label = Ôbadej włosności dostympności
 main-context-menu-eme-learn-more =

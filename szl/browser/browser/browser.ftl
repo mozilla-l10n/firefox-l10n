@@ -352,6 +352,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Puszczōne
 browser-tab-audio-muted = Wyłōnczōny klang
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = PUSZCZANIE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = BEZ KLANGU
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOPUSZCZANIE JE ZASZPEROWANE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ÔBROZ WE ÔBRAZIE
 
 ## Bookmarks toolbar items
 
@@ -527,6 +535,11 @@ bookmarks-show-all-bookmarks =
     .label = Pokoż wszyskie zokłodki
 bookmarks-recent-bookmarks =
     .value = Niydowno przidane
+bookmarks-manage-bookmarks =
+    .label = Regiyruj zokłodkami
+bookmarks-recent-bookmarks-panel =
+    .value = Niydowne zokłodki
+bookmarks-recent-bookmarks-panel-subheader = Niydowne zokłodki
 bookmarks-toolbar-chevron =
     .tooltiptext = Pokoż wiyncyj zokłodek
 bookmarks-sidebar-content =
@@ -555,6 +568,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Skryj posek ze zokłodkami
            *[other] Pokoż posek ze zokłodkami
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Pokoż posek z zokłodkami
+           *[other] Skryj posek z zokłodkami
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -580,6 +599,9 @@ bookmarks-toolbar-placeholder =
     .title = Elymynta ze poska z zokłodkami
 bookmarks-toolbar-placeholder-button =
     .label = Elymynta ze poska z zokłodkami
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Przidej aktualno karta do zookłodek
 
 ## Library Panel items
 
