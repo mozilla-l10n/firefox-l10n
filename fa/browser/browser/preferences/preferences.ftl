@@ -46,6 +46,13 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = آزمایش‌های { -brand-short-name }
+category-experimental =
+    .tooltiptext = آزمایش‌های { -brand-short-name }
+pane-experimental-subtitle = با هوشیاری پیش بروید
+pane-experimental-reset =
+    .label = بازنشانی پیش‌فرض‌ها
+    .accesskey = R
 help-button-label = پشتیبانی { -brand-short-name }
 addons-button-label = افزونه‌ها و پوسته‌ها
 focus-search =
@@ -393,6 +400,7 @@ browsing-picture-in-picture-toggle-enabled =
     .label = کنترل‌های ویدیویی تصویر در تصویر را فعال کنید
     .accesskey = E
 browsing-picture-in-picture-learn-more = بیشتر بدانید
+browsing-media-control-learn-more = اطلاعات بیشتر
 browsing-cfr-recommendations =
     .label = پیشنهاد دادن افزونه‌ها همزمان با مرور
     .accesskey = R
@@ -456,6 +464,8 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = سایت‌های برتر
 home-prefs-topsites-description = سایت‌هایی که بیشتر بازدید می‌کنید
+home-prefs-shortcuts-header =
+    .label = میان‌برها
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -532,6 +542,9 @@ search-restore-default =
 search-remove-engine =
     .label = حذف
     .accesskey = ح
+search-add-engine =
+    .label = اضافه کردن
+    .accesskey = A
 search-find-more-link = پیدا کردن موتورهای جست‌وجو بیشتر
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -707,6 +720,7 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = استفاده از گذرواژهٔ اصلی
     .accesskey = ا
+forms-primary-pw-learn-more-link = اطلاعات بیشتر
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -807,6 +821,12 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = زبانه‌های باز
     .accesskey = ز
+addressbar-locbar-topsites-option =
+    .label = سایت‌های برتر
+    .accesskey = T
+addressbar-locbar-engines-option =
+    .label = موتورهای جست‌وجو
+    .accesskey = a
 addressbar-suggestions-settings = تغییر ترجیحات مربوط به پیشنهادهای موتورهای جست‌وجو
 
 ## Privacy Section - Content Blocking
@@ -872,6 +892,9 @@ permissions-location = مکان
 permissions-location-settings =
     .label = تنظیمات…
     .accesskey = l
+permissions-xr-settings =
+    .label = تنظیمات…
+    .accesskey = t
 permissions-camera = دوربین
 permissions-camera-settings =
     .label = تنظیمات…
@@ -914,6 +937,7 @@ permissions-a11y-privacy-link = بیشتر بدانید
 collection-header = ذخیره اطلاعات و استفاده { -brand-short-name }
 collection-description = ما تمام تلاش خود را می‌کنیم که به شما حق انتخاب بدهیم و تنها اطلاعاتی را جمع‌آوری کنیم که برای بهبود { -brand-short-name } برای همه، کمک کند. ما همیشه قبل از دریافت اطلاعات شخصی از شما اجازه خواهیم گرفت.
 collection-privacy-notice = نکات حفظ حریم خصوصی
+collection-health-report-telemetry-disabled-link = اطلاعات بیشتر
 collection-health-report =
     .label = اجازه دادن به { -brand-short-name } برای ارسال اطلاعاتِ فنی و رفتاری به { -vendor-short-name }
     .accesskey = r
