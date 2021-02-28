@@ -128,6 +128,9 @@ permissions-site-location-disable-desc = این امکان درخواست اجا
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = تنظیمات - مجوزهای واقعیت مجازی
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
