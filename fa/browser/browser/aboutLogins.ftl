@@ -84,6 +84,7 @@ login-item-new-login-title = ایجاد اطلاعات ورود جدید
 login-item-edit-button = ویرایش
 about-logins-login-item-remove-button = حذف
 login-item-origin-label = آدرس پایگاه
+login-item-tooltip-message = مطمئن شوید که این آدرس با آدرس دقیق وب سایتی که در آن وارد شده‌اید مطابقت دارد.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = نام کاربری
@@ -285,11 +286,16 @@ about-logins-import-report-description = ورودها و گذرواژه‌ها �
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = ردیف { $number }
 about-logins-import-report-row-description-no-change = تکراری: مطابقت کامل به یک ورود دیگر
+about-logins-import-report-row-description-modified = ورود بروزرسانی شد
+about-logins-import-report-row-description-added = ورود جدید اضافه شد
+about-logins-import-report-row-description-error = خطا: فیلدِ ناموجود
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = خطا: مقادیر متعدد برای { $field }
+about-logins-import-report-row-description-error-missing-field = خطا: { $field } پیدا نشد
 
 ##
 ## Variables:
@@ -298,3 +304,4 @@ about-logins-import-report-row-description-no-change = تکراری: مطابق�
 
 ## Logins import report page
 
+about-logins-import-report-page-title = خلاصهٔ گزارشِ ورود اطلاعات
