@@ -328,6 +328,52 @@ about-logins-import-dialog-error-no-logins-imported = Nije uvezena nijedna prija
 about-logins-import-dialog-error-learn-more = Saznaj više
 about-logins-import-dialog-error-try-again = Pokušaj ponovno…
 about-logins-import-dialog-error-cancel = Odustani
+about-logins-import-report-title = Sažetak uvoza
+about-logins-import-report-description = Prijave i lozinke uvezene u { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Redak { $number }
+about-logins-import-report-row-description-no-change = Duplikat: točno podudaranje postojeće prijave
+about-logins-import-report-row-description-modified = Postojeća prijava je ažurirana
+about-logins-import-report-row-description-added = Dodana je nova prijava
+about-logins-import-report-row-description-error = Greška: nedostaje polje
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Greška: višestruke vrijednosti za { $field }
+about-logins-import-report-row-description-error-missing-field = Greška: nedostaje { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova prijava dodana</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove prijave dodane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novih prijava dodano</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeća prijava ažurirana</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojeće prijave ažurirane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">postojećih prijava ažurirano</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikat prijave</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata prijava</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikata prijava</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">greška</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">greške</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">grešaka</div> <div data-l10n-name="not-imported">(nije uvezeno)</div>
+    }
 
 ## Logins import report page
 

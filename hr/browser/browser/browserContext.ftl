@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Otvori poveznicu u kontejnerskoj kartici
     .accesskey = k
+main-context-menu-open-link-container =
+    .label = Otvori poveznicu u novoj kontejnerskoj kartici
+    .accesskey = j
 main-context-menu-open-link-new-window =
     .label = Otvori poveznicu u novom prozoru
     .accesskey = n
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Zabilježi ovu poveznicu
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Zabilježi poveznicu (B)
+    .accesskey = B
 main-context-menu-save-link =
     .label = Spremi poveznicu kao …
     .accesskey = k
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopiraj adresu e-pošte
     .accesskey = e
 main-context-menu-copy-link =
     .label = Kopiraj lokaciju poveznice
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Kopiraj poveznicu (L)
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
