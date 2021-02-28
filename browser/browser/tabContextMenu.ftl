@@ -72,6 +72,13 @@ tab-context-share-more =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] برگرداندن زبانه بسته شده
+           *[other] برگرداندن زبانه‌های بسته شده
+        }
+    .accesskey = U
 close-tab =
     .label = بستن زبانه
     .accesskey = ب
@@ -83,4 +90,18 @@ move-tabs =
     .accesskey = v
 move-tab =
     .label = انتقال زبانه
+    .accesskey = v
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] بستن زبانه
+           *[other] بستن زبانه‌ها
+        }
+    .accesskey = C
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] جابجایی زبانه
+           *[other] جابجایی زبانه‌ها
+        }
     .accesskey = v

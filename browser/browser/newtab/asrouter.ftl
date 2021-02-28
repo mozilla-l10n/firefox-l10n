@@ -232,6 +232,10 @@ cfr-doorhanger-doh-secondary-button = از کار انداختن
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-primary-button = باشه،‌ متوجه شدم
+    .accesskey = O
+cfr-doorhanger-fission-secondary-button = اطلاعات بیشتر
+    .accesskey = L
 
 ## What's new: Cookies message
 
