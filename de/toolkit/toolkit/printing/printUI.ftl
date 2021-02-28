@@ -41,9 +41,9 @@ printui-two-sided-printing = Beidseitiger Druck
 printui-duplex-checkbox = Beidseitig bedrucken
 printui-two-sided-printing-off = Aus
 # Flip the sheet as if it were bound along its long edge.
-printui-two-sided-printing-long-edge = An langer Kante drehen
+printui-two-sided-printing-long-edge = An langer Kante spiegeln
 # Flip the sheet as if it were bound along its short edge.
-printui-two-sided-printing-short-edge = An kurzer Kante drehen
+printui-two-sided-printing-short-edge = An kurzer Kante spiegeln
 # Section title for miscellaneous print options
 printui-options = Einstellungen
 printui-headers-footers-checkbox = Kopf- und Fußzeilen drucken
