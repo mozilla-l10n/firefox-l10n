@@ -17,5 +17,6 @@
 <!ENTITY removeDataChatAccount.desc   "Retira todos os rexistros desta conta almacenados no seu disco local.">
 <!ENTITY showData.label               "Amosar a localización dos datos">
 <!ENTITY showData.accesskey           "S">
-<!ENTITY progressPending              "Retirar os datos seleccionados…">
+<!ENTITY progressPending              "Retirando os datos seleccionados…">
 <!ENTITY progressSuccess              "Completouse o retirado.">
+<!ENTITY progressFailure              "Fallou o retirado.">
