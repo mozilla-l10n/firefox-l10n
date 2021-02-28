@@ -322,6 +322,7 @@ about-logins-import-report-description = { -brand-short-name } tarayıcınıza a
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = { $number }. satır
+about-logins-import-report-row-description-no-change = Mükerrer: Mevcut hesabın aynısı
 about-logins-import-report-row-description-modified = Mevcut hesap güncellendi
 about-logins-import-report-row-description-added = Yeni hesap eklendi
 about-logins-import-report-row-description-error = Hata: Eksik alan
@@ -330,11 +331,33 @@ about-logins-import-report-row-description-error = Hata: Eksik alan
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Hata: { $field } için birden çok değer
+about-logins-import-report-row-description-error-missing-field = Hata: { $field } eksik
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">yeni hesap eklendi</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">yeni hesap eklendi</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mevcut hesap güncellendi</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mevcut hesap güncellendi</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mükerrer hesap</div> <div data-l10n-name="not-imported">(İçe aktarılmadı)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mükerrer hesap</div> <div data-l10n-name="not-imported">(İçe aktarılmadı)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">hata</div> <div data-l10n-name="not-imported">(İçe aktarılmadı)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">hata</div> <div data-l10n-name="not-imported">(İçe aktarılmadı)</div>
+    }
 
 ## Logins import report page
 
