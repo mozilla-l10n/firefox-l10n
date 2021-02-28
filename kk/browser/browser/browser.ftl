@@ -298,6 +298,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = Уақытша сөндірулі
 identity-permissions =
     .value = Рұқсаттар
+identity-permissions-storage-access-header = Сайтаралық cookie файлдары
 identity-permissions-reload-hint = Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.
 identity-permissions-empty = Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.
 identity-clear-site-data =

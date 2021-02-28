@@ -191,6 +191,7 @@ about-logins-confirm-export-dialog-title = Логиндер және парол�
 about-logins-confirm-export-dialog-message = Парольдеріңіз ашық, оқуға келетін мәтін ретінде сақталатын болады (мыс., BadP@ssw0rd) сондықтан экспортталған файлды аша алатын адам оларды көре алады.
 about-logins-confirm-export-dialog-confirm-button = Экспорттау…
 about-logins-alert-import-title = Импорт аяқталды
+about-logins-alert-import-message = Импорттаудың толық есептемесін қарау
 confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді тайдыру керек пе?
 confirm-discard-changes-dialog-message = Барлық сақталмаған өзгерістер жоғалады.
 confirm-discard-changes-dialog-confirm-button = Тайдыру
@@ -265,8 +266,27 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Импорт аяқталды
+about-logins-import-dialog-items-added =
+    { $count ->
+       *[other] <span>Жаңа логиндер қосылды:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+       *[other] <span>Бар болып тұрған логиндер жаңартылды:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Қайталанатын логиндер табылды:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(импортталмады)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Қателер:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(импортталмады)</span>
+    }
 about-logins-import-dialog-done = Дайын
 about-logins-import-dialog-error-title = Импорттау қатесі
+about-logins-import-dialog-error-conflicting-values-title = Бір логинге байланысты бірнеше қақтығысатын мәндер
+about-logins-import-dialog-error-conflicting-values-description = Мысалы: бір логин үшін бірнеше пайдаланушы аты, пароль, URL және т.б.
+about-logins-import-dialog-error-file-format-title = Файл пішімінің мәселесі
 about-logins-import-dialog-error-file-permission-title = Файлды оқу мүмкін емес
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } үшін файлды оқу рұқсаты жоқ. Файл рұқсаттарын өзгертіп көріңіз.
 about-logins-import-dialog-error-unable-to-read-title = Файлды талдау мүмкін емес
