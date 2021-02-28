@@ -131,6 +131,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = E-Mail-Adresse kopieren
     .accesskey = E
@@ -331,6 +336,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = S
 main-context-menu-inspect-element =
     .label = Element untersuchen
+    .accesskey = Q
+main-context-menu-inspect =
+    .label = Untersuchen
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Barrierefreiheit-Eigenschaften untersuchen
