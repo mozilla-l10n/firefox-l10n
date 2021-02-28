@@ -296,6 +296,8 @@ identity-https-only-dropdown-off =
     .label = خاموش
 identity-https-only-dropdown-off-temporarily =
     .label = خاموش موقت
+identity-https-only-info-turn-on2 = اگر می‌خواهید در صورت امکان { -brand-short-name } اتصال را ارتقا دهد، حالت فقط HTTPS را برای این سایت روشن کنید.
+identity-https-only-info-turn-off2 = اگر صفحه خراب به نظر می‌رسد، ممکن است بخواهید حالت فقط HTTPS را برای این سایت خاموش کنید تا سایت در حال غیر امن HTTP بارگیری شود.
 identity-https-only-info-no-upgrade = ارتقا اتصال از HTTP امکان‌پذیر نبود.
 identity-permissions =
     .value = مجوزها
@@ -360,6 +362,7 @@ browser-tab-audio-pip = تصویر در تصویر
 browser-import-button2 =
     .label = وارد کردن نشانک‌ها
     .tooltiptext = وارد کردن نشانک‌ها از سایر مرورگرها به { -brand-short-name }.
+bookmarks-toolbar-empty-message = برای دسترسی سریع‌تر، نشانک‌های خود را اینجا در نوار ابزار نشانک‌ها قرار دهید.<a data-l10n-name="manage-bookmarks">مدیریت نشانک‌ها…</a>
 
 ## WebRTC Pop-up notifications
 

@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = باز کردن پیوند در زبانه حامل جدید
     .accesskey = ز
+main-context-menu-open-link-container =
+    .label = پیوند را در محفظه جدید باز کنید
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = باز کردن پیوند در پنجرهٔ جدید
     .accesskey = پ
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = نشانک‌گذاری این پیوند
     .accesskey = ش
+main-context-menu-bookmark-link =
+    .label = نشانک‌گذاری پیوند
+    .accesskey = B
 main-context-menu-save-link =
     .label = ذخیرهٔ پیوند به نام…
     .accesskey = پ
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = رونوشت برداشتن از نشانی پست الکترونیکی
     .accesskey = پ
 main-context-menu-copy-link =
     .label = رونوشت برداشتن از مکان پیوند
     .accesskey = ن
+main-context-menu-copy-link-simple =
+    .label = رونوشت از پیوند
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = رونوشت برداشتن از نشانی پروندهٔ صوتی
     .accesskey = ن
+main-context-menu-image-copy-link =
+    .label = رونوشت از پیوند تصویر
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = رونوشت از پیوند ویدئو
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = رونوشت از پیوند صوت
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = ذخیرهٔ تصویر به نام…
     .accesskey = خ
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = نمایش اطلاعات تصویر
     .accesskey = ص
+main-context-menu-image-set-image-as-background =
+    .label = تنظیم تصویر به عنوان پس‌زمینهٔ رومیزی…
+    .accesskey = S
 main-context-menu-image-desc =
     .label = نمایش توضیحات
     .accesskey = ت
@@ -311,6 +337,9 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = نمایش اطلاعات چارچوب
     .accesskey = ط
+main-context-menu-print-selection =
+    .label = چاپ ناحیهٔ انتخاب شده
+    .accesskey = r
 main-context-menu-view-selection-source =
     .label = نمایش کدمنبع قسمت انتخابی
     .accesskey = e
@@ -328,6 +357,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = ع
 main-context-menu-inspect-element =
     .label = بازرسی عناصر
+    .accesskey = Q
+main-context-menu-inspect =
+    .label = بازرسی
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = بررسی ترجیحات دسترسی‌پذیری
