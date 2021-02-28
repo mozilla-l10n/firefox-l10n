@@ -11,11 +11,20 @@
 
 <!ENTITY feedLocation.label          "URL da fonte:">
 <!ENTITY feedLocation.accesskey      "U">
+<!ENTITY feedLocation2.placeholder   "Introduza un URL válido para a fonte de noticias">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Comprobar validación e recuperar un URL correcto.">
 
 <!ENTITY feedFolder.label            "Gardar artigos en:">
 <!ENTITY feedFolder.accesskey        "s">
+
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Comprobar se hai novos artigos cada ">
+<!ENTITY biffStart.accesskey         "p">
+<!ENTITY biffMinutes.label           "minutos">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "días">
+<!ENTITY biffDays.accesskey          "d">
 
 <!ENTITY quickMode.label             "Amosar o resumo do artigo en vez de cargar a páxina web">
 <!ENTITY quickMode.accesskey         "g">
@@ -26,6 +35,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Escriba un prefixo de etiqueta">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Engadir">
 <!ENTITY button.addFeed.accesskey    "a">
 <!ENTITY button.removeFeed.label     "Retirar">
