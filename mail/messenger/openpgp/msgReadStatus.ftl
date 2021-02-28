@@ -10,7 +10,7 @@ message-header-show-security-info-key = S
 message-security-button =
     .title =
         { PLATFORM() ->
-            [macos] Wyświetl zabezpieczenia wiadomości (⌘ ⌥ { message-header-show-security-info-key })
+            [macos] Wyświetl zabezpieczenia wiadomości (⌃ ⌘ { message-header-show-security-info-key })
            *[other] Wyświetl zabezpieczenia wiadomości (Ctrl+Alt+{ message-header-show-security-info-key })
         }
 openpgp-view-signer-key =
