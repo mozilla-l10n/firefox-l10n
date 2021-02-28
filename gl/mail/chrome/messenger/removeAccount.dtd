@@ -1,0 +1,9 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "Retirar a conta e os datos">
+<!ENTITY removeButton.label           "Retirar">
+<!ENTITY removeButton.accesskey       "R">
+<!ENTITY removeAccount.label          "Retirar a información da conta">
+<!ENTITY removeAccount.accesskey      "a">
