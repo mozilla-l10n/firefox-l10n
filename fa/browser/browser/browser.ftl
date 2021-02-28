@@ -23,7 +23,7 @@ browser-main-window =
 # there is no content title:
 #
 # "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
+# "private" - "Mozilla Firefox — (Private Browsing)"
 #
 # The last two are for use when there *is* a content title.
 # Do not use the brand name in the last two attributes, as we do on non-macOS.
@@ -109,9 +109,15 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = کمتر تایپ کنید، بیشتر پیدا کنید: تنها از طریق نوار آدرس با { $engineName } جست‌وجو کنید.
 urlbar-search-tips-redirect-2 = جست‌وجوی خود را در نوار آدرس تایپ کنید تا پیشنهادهایی از { $engineName } و تاریخچهٔ مرور خود ببینید.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = این میانبر را برای پیدا کردن سریع‌تر آنچه که نیاز دارید، انتخاب کنید.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = نشانک‌ها
+urlbar-search-mode-tabs = زبانه‌ها
+urlbar-search-mode-history = تاریخچه
 
 ##
 
@@ -217,7 +223,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = این بار، جست‌وجو با:
 # This string won't wrap, so if the translated string is longer,
@@ -235,6 +241,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = تنظیم به عنوان موتور جست‌وجو پیش‌فرض در پنجره‌های ناشناس
     .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -270,6 +282,12 @@ identity-passive-loaded = قسمت‌هایی از این صفحه امن نیس
 identity-active-loaded = شما محافظت را در این صفحه غیرفعال کرده‌اید.
 identity-weak-encryption = این صفحه از کدگذاری ضعیفی استفاده می‌کند.
 identity-insecure-login-forms = اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.
+identity-https-only-dropdown-on =
+    .label = روشن
+identity-https-only-dropdown-off =
+    .label = خاموش
+identity-https-only-dropdown-off-temporarily =
+    .label = خاموش موقت
 identity-permissions =
     .value = مجوزها
 identity-permissions-reload-hint = ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.
@@ -315,6 +333,16 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = درحال پخش
+browser-tab-audio-muted = بی‌صدا
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ‏‏درحال پخش
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = بی‌صدا
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = پخش خودکار مسدود شد
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = تصویر در تصویر
 
 ## Bookmarks toolbar items
 
@@ -354,6 +382,8 @@ enable-devtools-popup-description = برای استفاده از میانبر F1
 
 urlbar-default-placeholder =
     .defaultPlaceholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
 # Variables
