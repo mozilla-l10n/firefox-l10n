@@ -326,7 +326,7 @@ about-logins-import-report-description = Паролі, імпортовані д
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Рядок { $number }
-about-logins-import-report-row-description-no-change = Повторення: Точний збіг з наявним паролем
+about-logins-import-report-row-description-no-change = Дублікат: Точний збіг з наявним паролем
 about-logins-import-report-row-description-modified = Наявний пароль оновлено
 about-logins-import-report-row-description-added = Новий пароль додано
 about-logins-import-report-row-description-error = Помилка: відсутнє поле
