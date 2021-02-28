@@ -16,7 +16,7 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Opnieuw afbreken">
 <!ENTITY editRewrapCmd.key "u">
-<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY editRewrapCmd.accesskey "f">
 <!ENTITY findBarCmd.label "Zoeken…">
 <!ENTITY findReplaceCmd.label "Zoeken en vervangen…">
 <!ENTITY enableInlineSpellChecker.label "Spelling controleren tijdens het typen">
