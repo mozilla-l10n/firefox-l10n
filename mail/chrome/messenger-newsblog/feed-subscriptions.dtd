@@ -25,6 +25,7 @@
 <!ENTITY biffMinutes.accesskey       "m">
 <!ENTITY biffDays.label              "días">
 <!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Recomendado polo editor:">
 
 <!ENTITY quickMode.label             "Amosar o resumo do artigo en vez de cargar a páxina web">
 <!ENTITY quickMode.accesskey         "g">
@@ -38,6 +39,10 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Engadir">
 <!ENTITY button.addFeed.accesskey    "a">
+<!ENTITY button.verifyFeed.label     "Verificar">
+<!ENTITY button.verifyFeed.accesskey "V">
+<!ENTITY button.updateFeed.label     "Actualizar">
+<!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Retirar">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Importar">
