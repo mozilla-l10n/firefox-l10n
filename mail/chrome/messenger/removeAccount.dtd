@@ -7,3 +7,15 @@
 <!ENTITY removeButton.accesskey       "R">
 <!ENTITY removeAccount.label          "Retirar a información da conta">
 <!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.desc           "Retirar unicamente a conta do &brandShortName;. Isto non afecta á conta que está no servidor.">
+<!ENTITY removeData.label             "Retirar os datos da mensaxe">
+<!ENTITY removeData.accesskey         "d">
+<!ENTITY removeDataChat.label         "Retirar os datos da conversa">
+<!ENTITY removeDataChat.accesskey     "d">
+<!ENTITY removeDataLocalAccount.desc  "Retira do disco local todas as mensaxes, cartafoles e filtros asociados con esta conta. Isto non afectará a algunhas mensaxes que aínda poden conservarse no servidor. Non seleccione isto se planea arquivar os datos locais ou reutilizalos no &brandShortName; máis adiante.">
+<!ENTITY removeDataServerAccount.desc "Retira do seu disco local todas as mensaxes, cartafoles e filtros asociados con esta conta. As mensaxes e cartafoles seguirán no servidor.">
+<!ENTITY removeDataChatAccount.desc   "Retira todos os rexistros desta conta almacenados no seu disco local.">
+<!ENTITY showData.label               "Amosar a localización dos datos">
+<!ENTITY showData.accesskey           "S">
+<!ENTITY progressPending              "Retirar os datos seleccionados…">
+<!ENTITY progressSuccess              "Completouse o retirado.">
