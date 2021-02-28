@@ -17,7 +17,6 @@ places-open-window =
 places-open-private-window =
     .label = باز کردن پنجرهٔ ناشناس جدید
     .accesskey = ن
-
 places-new-bookmark =
     .label = نشانک جدید…
     .accesskey = ن
@@ -30,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = جداساز جدید
     .accesskey = س
-
 places-view =
     .label = نما
     .accesskey = ن
@@ -49,12 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = بر حسب تاریخ و پایگاه
     .accesskey = ر
-
 places-history-search =
     .placeholder = تاریخچه جست‌و‌جو
 places-bookmarks-search =
     .placeholder = جست‌و‌جو نشانک‌ها
-
 places-delete-domain-data =
     .label = فراموش کردن این سایت
     .accesskey = ف
@@ -64,3 +60,12 @@ places-sortby-name =
 places-properties =
     .label = ویژگی‌ها
     .accesskey = و
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = نشانک‌های مدیریت شده
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = پوشه فرعی
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = سایر نشانک‌ها
