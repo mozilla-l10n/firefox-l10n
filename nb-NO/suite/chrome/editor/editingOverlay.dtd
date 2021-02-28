@@ -31,13 +31,13 @@
 
 <!-- Insert menu items -->
 <!ENTITY insertFormMenu.label "Skjema">
-<!ENTITY insertFormMenu.accesskey "S">
+<!ENTITY insertFormMenu.accesskey "j">
 <!ENTITY insertFormCmd.label "Definer skjema …">
 <!ENTITY insertFormCmd.accesskey "D">
 <!ENTITY insertInputTagCmd.label "Skjemafelt …">
-<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputTagCmd.accesskey "m">
 <!ENTITY insertInputImageCmd.label "Skjemabilde …">
-<!ENTITY insertInputImageCmd.accesskey "k">
+<!ENTITY insertInputImageCmd.accesskey "b">
 <!ENTITY insertTextAreaCmd.label "Tekstområde …">
 <!ENTITY insertTextAreaCmd.accesskey "T">
 <!ENTITY insertSelectCmd.label "Alternativliste …">
