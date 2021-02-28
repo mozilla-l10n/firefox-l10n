@@ -225,7 +225,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = این بار، جست‌وجو با:
+search-one-offs-with-title = جست‌وجو با:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -255,6 +255,12 @@ search-one-offs-engine-with-alias =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = نشانک‌ها ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = زبانه‌ها ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = تاریخچه ({ $restrict })
 
 ## Bookmark Panel
 
@@ -282,12 +288,15 @@ identity-passive-loaded = قسمت‌هایی از این صفحه امن نیس
 identity-active-loaded = شما محافظت را در این صفحه غیرفعال کرده‌اید.
 identity-weak-encryption = این صفحه از کدگذاری ضعیفی استفاده می‌کند.
 identity-insecure-login-forms = اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.
+identity-https-only-connection-upgraded = (ارتقا یافته به HTTPS)
+identity-https-only-label = حالت فقط HTTPS
 identity-https-only-dropdown-on =
     .label = روشن
 identity-https-only-dropdown-off =
     .label = خاموش
 identity-https-only-dropdown-off-temporarily =
     .label = خاموش موقت
+identity-https-only-info-no-upgrade = ارتقا اتصال از HTTP امکان‌پذیر نبود.
 identity-permissions =
     .value = مجوزها
 identity-permissions-reload-hint = ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.
@@ -328,6 +337,8 @@ browser-window-minimize-button =
     .tooltiptext = کمینه کردن
 browser-window-maximize-button =
     .tooltiptext = بزرگ کردن
+browser-window-restore-down-button =
+    .tooltiptext = بازیابی به پایین
 browser-window-close-button =
     .tooltiptext = بستن
 
@@ -346,6 +357,9 @@ browser-tab-audio-pip = تصویر در تصویر
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = وارد کردن نشانک‌ها
+    .tooltiptext = وارد کردن نشانک‌ها از سایر مرورگرها به { -brand-short-name }.
 
 ## WebRTC Pop-up notifications
 
@@ -386,6 +400,34 @@ urlbar-default-placeholder =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = جست‌وجوی وب
+    .aria-label = جست‌وجو با { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = عبارت جست‌وجو را وارد کنید
+    .aria-label = جست‌وجو { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = عبارت جست‌وجو را وارد کنید
+    .aria-label = جست‌وجو نشانک‌ها
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = عبارت جست‌وجو را وارد کنید
+    .aria-label = جست‌وجو تاریخچه
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = عبارت جست‌وجو را وارد کنید
+    .aria-label = جست‌وجو زبانه‌ها
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
@@ -422,6 +464,7 @@ urlbar-result-action-search-in-private = جست‌وجو در یک پنجرهٔ 
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = جست‌وجو از طریق { $engine }
+urlbar-result-action-sponsored = حمایت شده
 urlbar-result-action-switch-tab = پرش به زبانه
 urlbar-result-action-visit = بازدید
 
