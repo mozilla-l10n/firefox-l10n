@@ -15,6 +15,11 @@ printui-sheets-count =
 printui-page-range-all = همه
 printui-page-range-custom = سفارشی
 printui-page-range-label = صفحه‌ها
+printui-page-range-picker =
+    .aria-label = محدودهٔ صفحات برای چاپ
+printui-page-custom-range-input =
+    .aria-label = محدوده صفحات برای چاپ را وارد کنید
+    .placeholder = مثلا ۶-۲، ۹، ۱۶-۱۲
 # Section title for the number of copies to print
 printui-copies-label = رونوشت‌ها
 printui-orientation = جهت
@@ -51,6 +56,26 @@ printui-margins-custom-inches = سفارشی (اینچ)
 printui-margins-custom-top = بالا
 printui-margins-custom-top-inches = بالا (اینچ)
 printui-margins-custom-bottom = پایین
+printui-margins-custom-bottom-inches = پایین (اینچ)
+printui-margins-custom-left = چپ
+printui-margins-custom-left-inches = چپ (اینچ)
+printui-margins-custom-right = راست
+printui-margins-custom-right-inches = راست (اینچ)
+printui-system-dialog-link = چاپ با استفاده از محاورهٔ سیستم…
+printui-primary-button = چاپ
+printui-primary-button-save = ذخیره
+printui-cancel-button = لغو
+printui-close-button = بستن
+printui-loading = آماده‌سازی پیش‌نمایش
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = پیش‌نمایش چاپ
+printui-pages-per-sheet = صفحه‌ها در هر برگه
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = در حال چاپ…
+printui-print-progress-indicator-saving = در حال ذخیره…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -70,3 +95,10 @@ printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = مقیاس باید عددی بین ۱۰ تا ۲۰۰ باشد.
+printui-error-invalid-margin = لطفاً برای اندازه کاغذ انتخاب شده حاشیه معتبری وارد کنید.
+printui-error-invalid-copies = رونوشت‌ها باید یک عدد بین ۱ تا ۱۰۰۰۰ باشد.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = محدوده باید یک عدد بین ۱ تا { $numPages } باشد.
+printui-error-invalid-start-overflow = شمارهٔ صفحه «از» باید کوچکتر از شماره صفحه «تا» باشد.
