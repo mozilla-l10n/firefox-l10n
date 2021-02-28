@@ -14,6 +14,7 @@ crashed-request-help = آیا شما به ما کمک خواهید کرد؟
 crashed-request-help-message = گزارش خرابی به عیب یابی و بهتر کردن مشکلات و { -brand-short-name } کمک می کند.
 crashed-request-report-title = این زبانه را گزارش کنید
 crashed-send-report = یک گزارش خرابی خودکار ارسال کنید تا بتوانیم ایراداتی شبیه به این را رفع کنیم.
+crashed-send-report-2 = گزارش خرابی خودکار ارسال کنید تا بتوانیم مواردی از این دست را برطرف کنیم
 crashed-comment =
     .placeholder = افزودن یک توضیح (توضیحات در دسترس عموم قرار خواهند گرفت)
 crashed-include-URL = ضمیمه کردن آدرس سایت‌هایی که هنگام فروپاشی { -brand-short-name } در حال مشاهده آنها بودید.
