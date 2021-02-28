@@ -350,7 +350,31 @@ about-logins-import-report-row-description-error-missing-field = Ошибка: �
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новый логин добавлен</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых логина добавлены</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых логинов добавлены</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">существующий логин обновлён</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">существующих логина обновлено</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">существующих логинов обновлено</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющийся логин</div> <div data-l10n-name="not-imported">(не импортирован)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логина</div> <div data-l10n-name="not-imported">(не импортировано)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логинов</div> <div data-l10n-name="not-imported">(не импортировано)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибка</div> <div data-l10n-name="not-imported">(не импортирована)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибки</div> <div data-l10n-name="not-imported">(не импортированы)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибок</div> <div data-l10n-name="not-imported">(не импортировано)</div>
+    }
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Импорт сводного отчёта
+about-logins-import-report-page-title = Сводный отчет об импорте
