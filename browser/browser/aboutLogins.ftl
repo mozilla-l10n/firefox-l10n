@@ -318,6 +318,52 @@ about-logins-import-dialog-error-no-logins-imported = Żadne dane logowania nie 
 about-logins-import-dialog-error-learn-more = Więcej informacji
 about-logins-import-dialog-error-try-again = Spróbuj ponownie…
 about-logins-import-dialog-error-cancel = Anuluj
+about-logins-import-report-title = Podsumowanie importowania
+about-logins-import-report-description = Dane logowania i hasła zaimportowane do przeglądarki { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number }. wiersz
+about-logins-import-report-row-description-no-change = Duplikat: dokładnie pasuje do istniejących danych logowania
+about-logins-import-report-row-description-modified = Zaktualizowano istniejące dane logowania
+about-logins-import-report-row-description-added = Dodano nowe dane logowania
+about-logins-import-report-row-description-error = Błąd: brak pola
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Błąd: wiele wartości dla pola { $field }
+about-logins-import-report-row-description-error-missing-field = Błąd: brak pola { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dodane nowe dane logowania</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dodane nowe dane logowania</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dodane nowe dane logowania</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zaktualizowane istniejące dane logowania</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zaktualizowane istniejące dane logowania</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zaktualizowane istniejące dane logowania</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Podwójne dane logowania</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Podwójne dane logowania</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Podwójne dane logowania</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Błędy</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Błędy</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Błędy</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+    }
 
 ## Logins import report page
 
