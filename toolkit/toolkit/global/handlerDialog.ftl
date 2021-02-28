@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Please keep the emphasis around the hostname and scheme (ie the
-# `<strong>` HTML tags). Please also keep the hostname as close to the start
-# of the sentence as your language's grammar allows.
-#
-# Variables:
-#  $host - the hostname that is initiating the request
-#  $scheme - the type of link that's being opened.
-handler-dialog-host = <strong>{ $host }</strong> <strong>{ $scheme }</strong> сілтемесін ашқысы келеді.
 
 ## Permission Dialog
 ## Variables:
@@ -17,11 +9,44 @@ handler-dialog-host = <strong>{ $host }</strong> <strong>{ $scheme }</strong> с
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+permission-dialog-description = Бұл сайтқа { $scheme } сілтемесін ашуды рұқсат ету керек пе?
+permission-dialog-description-file = Бұл файлға { $scheme } сілтемесін ашуды рұқсат ету керек пе?
+permission-dialog-description-host = { $host } үшін { $scheme } сілтемесін ашуды рұқсат ету керек пе?
+permission-dialog-description-app = Бұл сайтқа { $scheme } сілтемесін { $appName } көмегімен ашуды рұқсат ету керек пе?
+permission-dialog-description-host-app = { $host } үшін { $scheme } сілтемесін { $appName } көмегімен ашуды рұқсат ету керек пе?
+permission-dialog-description-file-app = Бұл файлға { $scheme } сілтемесін { $appName } көмегімен ашуды рұқсат ету керек пе?
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+
+permission-dialog-remember = <strong>{ $host }</strong> үшін <strong>{ $scheme }</strong> сілтемелерін ашуды әрқашан рұқсат ету
+permission-dialog-remember-file = Бұл файлға <strong>{ $scheme }</strong> сілтемелерін ашуды әрқашан рұқсат ету
+
+##
+
+permission-dialog-btn-open-link =
+    .label = Сілтемені ашу
+    .accessKey = ш
 
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
 
+chooser-window =
+    .title = Қолданбаны таңдау
+    .style = min-width: 26em; min-height: 26em;
+chooser-dialog =
+    .buttonlabelaccept = Сілтемені ашу
+    .buttonaccesskeyaccept = ш
+chooser-dialog-description = { $scheme } сілтемесін ашу үшін қолданбаны таңдаңыз.
+# Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
+chooser-dialog-remember = <strong>{ $scheme }</strong> сілтемелерін ашу үшін бұл қолданбаны әрқашан қолдану
+chooser-dialog-remember-extra =
+    { PLATFORM() ->
+        [windows] Бұны { -brand-short-name } баптауларынан өзгертуге болады.
+       *[other] Бұны { -brand-short-name } баптауларынан өзгертуге болады.
+    }
 choose-other-app-description = Бағдарламаны таңдау
 choose-app-btn =
     .label = Таңдау…
