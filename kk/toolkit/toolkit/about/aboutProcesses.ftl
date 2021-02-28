@@ -22,6 +22,8 @@ about-processes-column-memory-resident = Жады
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-gpu-process-name = GPU (үрдіс { $pid })
+about-processes-vr-process-name = VR (үрдіс { $pid })
 
 ## Details within processes
 

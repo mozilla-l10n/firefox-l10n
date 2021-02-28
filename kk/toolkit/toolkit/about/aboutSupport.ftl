@@ -181,6 +181,14 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-module = Модуль файлы
+support-third-party-modules-version = Файл нұсқасы
+support-third-party-modules-vendor = Өндіруші ақпараты
+support-third-party-modules-thread = Ағын
+support-third-party-modules-status = Қалып-күйі
+support-third-party-modules-status-loaded = Жүктелген
+support-third-party-modules-status-blocked = Бұғатталған
+support-third-party-modules-status-redirected = Қайта бағдарланған
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -346,3 +354,11 @@ touch-warning = сенсорлық асинхронды енгізу қолда�
 policies-inactive = Белсенді емес
 policies-active = Белсенді
 policies-error = Қате
+
+## Printing section
+
+
+## Normandy sections
+
+support-remote-features-name = Аты
+support-remote-features-status = Қалып-күйі
