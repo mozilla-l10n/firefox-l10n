@@ -30,7 +30,7 @@ appmenuitem-exit =
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
-    .label = Параметры
+    .label = Настройки
 
 ## Zoom and Fullscreen Controls
 
