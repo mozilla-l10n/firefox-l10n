@@ -14,9 +14,16 @@ duplicate-tab =
 duplicate-tabs =
     .label = زبانه‌های تکراری
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = بستن زبانه ها به راست
+    .accesskey = I
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = بستن زبانه‌ها به چپ
-    .accesskey = چ
+    .accesskey = i
 close-other-tabs =
     .label = بستن زبانه‌های دیگر
     .accesskey = ب
@@ -53,9 +60,18 @@ move-to-end =
 move-to-new-window =
     .label = انتقال به پنجرهٔ جدید
     .accesskey = پ
+tab-context-close-multiple-tabs =
+    .label = بستن چندین زبانه
+    .accesskey = M
+tab-context-share-url =
+    .label = همرسانی
+    .accesskey = h
+tab-context-share-more =
+    .label = بیشتر…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
     .label = بستن زبانه
     .accesskey = ب
