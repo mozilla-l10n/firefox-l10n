@@ -166,6 +166,9 @@ onboarding-multistage-welcome-subtitle = El navegador rápido, seguro y privado 
 onboarding-multistage-welcome-primary-button-label = Iniciar configuración
 onboarding-multistage-welcome-secondary-button-label = Iniciar sesión
 onboarding-multistage-welcome-secondary-button-text = ¿Tiene una cuenta?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Establecer { -brand-short-name } como <span data-l10n-name="zap">predeterminado</span>
 onboarding-multistage-set-default-subtitle = Velocidad, seguridad y privacidad cada vez que navega.
 onboarding-multistage-set-default-primary-button-label = Convertir en predeterminado
 onboarding-multistage-set-default-secondary-button-label = Ahora no
