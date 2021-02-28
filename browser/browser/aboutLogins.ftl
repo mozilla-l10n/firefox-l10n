@@ -317,6 +317,47 @@ about-logins-import-dialog-error-no-logins-imported = No se importaron inicios d
 about-logins-import-dialog-error-learn-more = Saber más
 about-logins-import-dialog-error-try-again = Volver a intentarlo…
 about-logins-import-dialog-error-cancel = Cancelar
+about-logins-import-report-title = Resumen de importación
+about-logins-import-report-description = Inicios de sesión y contraseñas importados a { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Fila { $number }
+about-logins-import-report-row-description-no-change = Duplicado: Coincidencia exacta del inicio de sesión existente
+about-logins-import-report-row-description-modified = Inicio de sesión existente actualizado
+about-logins-import-report-row-description-added = Nuevo inicio de sesión añadido
+about-logins-import-report-row-description-error = Error: Campo faltante
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Error: Múltiples valores para { $field }
+about-logins-import-report-row-description-error-missing-field = Error: Falta { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Se añadieron nuevos inicios de sesión</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicio de sesión actualizado</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión actualizados</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicio de sesión duplicado</div> <div data-l10n-name="not-imported">(no importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">(no importado)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Error</div> <div data-l10n-name="not-imported">(no importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errores</div> <div data-l10n-name="not-imported">(no importado)</div>
+    }
 
 ## Logins import report page
 
