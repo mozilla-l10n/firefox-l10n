@@ -265,6 +265,26 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = ورود اطلاعات کامل شد
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>ورودهای جدید اضافه شده:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ورودهای جدید اضافه شده:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>ورودهای بروزرسانی شده:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ورودهای بروزرسانی شده:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>تعداد ورودهای تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
+       *[other] <span>تعداد ورودهای تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>خطاها:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
+       *[other] <span>خطاها:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
+    }
 about-logins-import-dialog-done = انجام شد
 about-logins-import-dialog-error-title = خطا در ورود اطلاعات
 about-logins-import-dialog-error-conflicting-values-title = چند مفدار متناقض برای یک ورود
@@ -301,6 +321,26 @@ about-logins-import-report-row-description-error-missing-field = خطا: { $fiel
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> ورود جدید وارد شد</div>
+       *[other] تعداد <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> ورود جدید وارد شد</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] تعداد <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورود بروزرسانی شد</div>
+       *[other] تعداد <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورود بروزرسانی شد</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورود تکراری</div> <div data-l10n-name="not-imported">(وارد نشدند)</div>
+       *[other] تعداد	<div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ورود تکراری</div> <div data-l10n-name="not-imported">(وارد نشدند)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] تعداد <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">خطا</div> <div data-l10n-name="not-imported">(وارد نشدند)</div>
+       *[other] تعداد <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">خطا</div> <div data-l10n-name="not-imported">(وارد نشدند)</div>
+    }
 
 ## Logins import report page
 
