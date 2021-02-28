@@ -267,7 +267,24 @@ about-logins-import-dialog-title = ورود اطلاعات کامل شد
 about-logins-import-dialog-done = انجام شد
 about-logins-import-dialog-error-title = خطا در ورود اطلاعات
 about-logins-import-dialog-error-conflicting-values-title = چند مفدار متناقض برای یک ورود
-about-logins-import-dialog-error-conflicting-values-description = برای مثال: نام‌کاربری‌هاد، گذرواژها، آدرسِ متعدد برای یک ورود
+about-logins-import-dialog-error-conflicting-values-description = برای مثال: نام‌کاربری‌هاد، گذرواژها، آدرسِ متعدد برای یک ورود.
+about-logins-import-dialog-error-file-format-title = گزارش اشکال در قالب
+about-logins-import-dialog-error-file-format-description = سرصفحه‌های ستون نادرست یا گم شده است. مطمئن شوید که این فایل دارای ستون‌هایی برای نام کاربری، گذرواژه و URL است.
+about-logins-import-dialog-error-file-permission-title = خواندن پرونده امکان‌پذیر نیست
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } اجازهٔ خواندن پرونده را ندارد. مجوزهای پرونده را تغییر دهید.
+about-logins-import-dialog-error-unable-to-read-title = تجزیه پرونده امکان‌پذیر نیست
+about-logins-import-dialog-error-unable-to-read-description = مطمئن شوید که یک پرونده CSV یا TSV انتخاب کرده‌اید.
+about-logins-import-dialog-error-no-logins-imported = هیچ اطلاعاتی وارد نشد
+about-logins-import-dialog-error-learn-more = اطلاعات بیشتر
+about-logins-import-dialog-error-try-again = تلاش مجدد…
+about-logins-import-dialog-error-cancel = انصراف
+about-logins-import-report-title = خلاصهٔ ورود اطلاعات
+about-logins-import-report-description = ورودها و گذرواژه‌ها به { -brand-short-name } وارد شدند.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = ردیف { $number }
+about-logins-import-report-row-description-no-change = تکراری: مطابقت کامل به یک ورود دیگر
 
 ##
 ## Variables:
