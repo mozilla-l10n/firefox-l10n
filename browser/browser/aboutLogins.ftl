@@ -328,6 +328,28 @@ about-logins-import-dialog-error-no-logins-imported = Ни один логин �
 about-logins-import-dialog-error-learn-more = Подробнее
 about-logins-import-dialog-error-try-again = Попробовать снова…
 about-logins-import-dialog-error-cancel = Отмена
+about-logins-import-report-title = Сводка импорта
+about-logins-import-report-description = Импортированы логины и пароли в { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Строка { $number }
+about-logins-import-report-row-description-no-change = Дубликат: Такой логин уже существует
+about-logins-import-report-row-description-modified = Обновлено существующих логинов
+about-logins-import-report-row-description-added = Добавлено новых логинов
+about-logins-import-report-row-description-error = Ошибка: Отсутствует поле
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Ошибка: Несколько значений для { $field }
+about-logins-import-report-row-description-error-missing-field = Ошибка: отсутствует { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 

@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Открыть ссылку в новой вкладке в контейнере
     .accesskey = е
+main-context-menu-open-link-container =
+    .label = Открыть ссылку в контейнере
+    .accesskey = к
 main-context-menu-open-link-new-window =
     .label = Открыть ссылку в новом окне
     .accesskey = ь
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Добавить ссылку в закладки
     .accesskey = с
+main-context-menu-bookmark-link =
+    .label = Добавить в закладки
+    .accesskey = з
 main-context-menu-save-link =
     .label = Сохранить объект как…
     .accesskey = х
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Копировать адрес электронной почты
     .accesskey = э
 main-context-menu-copy-link =
     .label = Копировать ссылку
     .accesskey = ы
+main-context-menu-copy-link-simple =
+    .label = Копировать ссылку
+    .accesskey = л
 
 ## Media (video/audio) controls
 ##
