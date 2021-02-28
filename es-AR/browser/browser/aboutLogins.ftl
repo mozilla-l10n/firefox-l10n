@@ -348,6 +348,16 @@ about-logins-import-report-modified =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión actualizados</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión actualizados</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Inicios de sesión duplicados</div> <div data-l10n-name="no importado">(no importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Inicios de sesión duplicados</div> <div data-l10n-name="no importado">(no importado)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Errores</div> <div data-l10n-name="no importado">(no importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Errores</div> <div data-l10n-name="no importado">(no importado)</div>
+    }
 
 ## Logins import report page
 
