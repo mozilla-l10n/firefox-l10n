@@ -353,8 +353,8 @@ about-logins-import-report-row-description-error-missing-field = Ошибка: �
 about-logins-import-report-added =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новый логин добавлен</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых логина добавлены</div>
-       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых логинов добавлены</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых логина добавлено</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых логинов добавлено</div>
     }
 about-logins-import-report-modified =
     { $count ->
@@ -364,14 +364,14 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющийся логин</div> <div data-l10n-name="not-imported">(не импортирован)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющийся логин</div> <div data-l10n-name="not-imported">(не импортировано)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логина</div> <div data-l10n-name="not-imported">(не импортировано)</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логинов</div> <div data-l10n-name="not-imported">(не импортировано)</div>
     }
 about-logins-import-report-error =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибка</div> <div data-l10n-name="not-imported">(не импортирована)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибки</div> <div data-l10n-name="not-imported">(не импортированы)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибка</div> <div data-l10n-name="not-imported">(не импортировано)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибки</div> <div data-l10n-name="not-imported">(не импортировано)</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ошибок</div> <div data-l10n-name="not-imported">(не импортировано)</div>
     }
 
