@@ -562,7 +562,7 @@
 <!ENTITY folderLocationToolbarItem.title "Localización do cartafol">
 <!ENTITY tagButton.label "Etiqueta">
 <!ENTITY compactButton.label "Compactar">
-<!ENTITY appmenuButton.label "Menú do aplicativo">
+<!ENTITY appmenuButton.label "Menú da aplicación">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Busca avanzada de mensaxes">
@@ -962,7 +962,7 @@
 <!ENTITY showAllAppsCmdMac.label        "Amosar todo">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "Opcións da icona do aplicativo…">
+<!ENTITY dockOptions.label              "Opcións da icona da aplicación…">
 <!ENTITY writeNewMessageDock.label      "Escribir unha nova mensaxe">
 <!ENTITY openAddressBookDock.label      "Abrir a axenda de enderezos">
 
