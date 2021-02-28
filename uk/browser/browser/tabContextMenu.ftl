@@ -65,7 +65,7 @@ tab-context-close-multiple-tabs =
     .accesskey = к
 tab-context-share-url =
     .label = Поділитися
-    .accesskey = д
+    .accesskey = я
 tab-context-share-more =
     .label = Більше…
 
