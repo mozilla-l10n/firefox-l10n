@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY manageSubscriptions.label "Xestionar subscricións…"> 
+<!ENTITY biffAll.label                 "Activar a actualización de todas as fontes de noticias">
+<!ENTITY biffAll.accesskey             "E">
+
+<!ENTITY newFeedSettings.label         "Configuración predeterminada para novas fontes de noticias">
+
+<!ENTITY manageSubscriptions.label     "Xestionar subscricións…">
 <!ENTITY manageSubscriptions.accesskey "X">
 
-<!ENTITY feedWindowTitle.label "Asistente de conta de fontes">
-
-<!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Blogs e fontes de novas">
+<!ENTITY feedWindowTitle.label         "Asistente de conta de fontes">
+<!ENTITY feeds.accountName             "Blogs e fontes de novas">
