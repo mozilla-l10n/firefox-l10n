@@ -176,6 +176,7 @@ language-name-st = سوتویی جنوبی
 language-name-su = سوندایی
 language-name-sv = سوئدی
 language-name-sw = سواحلی
+language-name-szl = سیلسیایی
 language-name-ta = تامیلی
 language-name-te = تلوگویی
 language-name-tg = تاجیکی
