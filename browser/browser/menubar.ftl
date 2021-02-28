@@ -207,8 +207,8 @@ menu-history-undo-menu =
     .label = Kürzlich geschlossene Tabs
 menu-history-undo-window-menu =
     .label = Kürzlich geschlossene Fenster
-menu-history-reopen-all-tabs = Alle Tabs neu öffnen
-menu-history-reopen-all-windows = Alle Fenster neu öffnen
+menu-history-reopen-all-tabs = Alle Tabs wieder öffnen
+menu-history-reopen-all-windows = Alle Fenster wieder öffnen
 
 ## Bookmarks Menu
 

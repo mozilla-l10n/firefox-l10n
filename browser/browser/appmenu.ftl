@@ -108,8 +108,8 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Chronik verwalten
-appmenu-reopen-all-tabs = Alle Tabs neu öffnen
-appmenu-reopen-all-windows = Alle Fenster neu öffnen
+appmenu-reopen-all-tabs = Alle Tabs wieder öffnen
+appmenu-reopen-all-windows = Alle Fenster wieder öffnen
 
 ## Help panel
 
