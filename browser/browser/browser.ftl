@@ -514,6 +514,7 @@ pointerlock-warning-no-domain = این سند کنترل مکان‌نما شم�
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>بخشی از این صفحه خراب شد.</strong> برای اطلاع { -brand-product-name } از این مسئله و رفع سریعتر آن، لطفاً گزارشی ارسال کنید.
 crashed-subframe-learnmore =
     .label = بیشتر بدانید
     .accesskey = L
