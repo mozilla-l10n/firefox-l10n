@@ -467,11 +467,34 @@ urlbar-result-action-search-w-engine = جست‌وجو از طریق { $engine }
 urlbar-result-action-sponsored = حمایت شده
 urlbar-result-action-switch-tab = پرش به زبانه
 urlbar-result-action-visit = بازدید
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = کلید Tab را برای جست‌وجو با { $engine } فشار دهید
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = برای جستجوی { $engine } کلید Tab را فشار دهید
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = با { $engine } مستقیماً از نوار آدرس جستجو کنید
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = با { $engine } مستقیماً از نوار آدرس جستجو کنید
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = جست‌وجو نشانک‌ها
+urlbar-result-action-search-history = جست‌وجو تاریخچه
+urlbar-result-action-search-tabs = جست‌وجو زبانه‌ها
 
 ## Full Screen and Pointer Lock UI
 
@@ -491,6 +514,12 @@ pointerlock-warning-no-domain = این سند کنترل مکان‌نما شم�
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = بیشتر بدانید
+    .accesskey = L
+crashed-subframe-submit =
+    .label = ثبت گزارش
+    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
@@ -498,6 +527,11 @@ bookmarks-show-all-bookmarks =
     .label = نمایش همهٔ نشانک‌ها
 bookmarks-recent-bookmarks =
     .value = به تازگی نشانک‌گذاری شده
+bookmarks-manage-bookmarks =
+    .label = مدیریت نشانک‌ها
+bookmarks-recent-bookmarks-panel =
+    .value = نشانک‌های اخیر
+bookmarks-recent-bookmarks-panel-subheader = نشانک‌های اخیر
 bookmarks-toolbar-chevron =
     .tooltiptext = نشانک‌های بیشتری نمایش داده شود
 bookmarks-sidebar-content =
@@ -521,6 +555,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] نمایش نوار ابزار نشانک‌ها
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] مخفی کردن نوار ابزار نشانک‌ها
+           *[other] نمایش نوار ابزار نشانک‌ها
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] مخفی کردن نوار ابزار نشانک‌ها
@@ -551,6 +591,9 @@ bookmarks-toolbar-placeholder =
     .title = موارد نوار ابزار نشانک‌ها
 bookmarks-toolbar-placeholder-button =
     .label = موارد نوار ابزار نشانک‌ها
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = نشانک‌گذاری زبانه فعلی
 
 ## Library Panel items
 
@@ -560,6 +603,8 @@ library-bookmarks-bookmark-this-page =
     .label = نشانک‌گذاری این صفحه
 library-bookmarks-bookmark-edit =
     .label = ویرایش این نشانک
+library-recent-activity-title =
+    .value = فعالیت‌های اخیر
 
 ## More items
 
