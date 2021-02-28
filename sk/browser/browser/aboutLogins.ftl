@@ -85,6 +85,7 @@ login-item-new-login-title = Nové prihlasovacie údaje
 login-item-edit-button = Upraviť
 about-logins-login-item-remove-button = Odstrániť
 login-item-origin-label = Adresa webovej stránky
+login-item-tooltip-message = Uistite sa, že zodpovedá adresu stránky, na ktorú sa prihlasujete.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Používateľské meno
@@ -263,10 +264,18 @@ about-logins-import-file-picker-tsv-filter-title =
 
 about-logins-import-dialog-title = Import bol dokončený
 about-logins-import-dialog-done = Hotovo
+about-logins-import-dialog-error-title = Chyba pri importe
+about-logins-import-dialog-error-unable-to-read-description = Uistite sa, že ste vybrali súbor typu CSV alebo TSV.
 about-logins-import-dialog-error-no-logins-imported = Neboli importované žiadne prihlasovacie údaje
 about-logins-import-dialog-error-learn-more = Ďalšie informácie
 about-logins-import-dialog-error-try-again = Skúsiť znova…
 about-logins-import-dialog-error-cancel = Zrušiť
+about-logins-import-report-title = Súhrn
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Riadok { $number }
+about-logins-import-report-row-description-added = Boli pridané nové prihlasovacie údaje
 
 ##
 ## Variables:

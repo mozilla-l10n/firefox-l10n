@@ -80,6 +80,8 @@ show-dir-label =
         [windows] Otvoriť priečinok
        *[other] Otvoriť priečinok
     }
+environment-variables-name = Názov
+environment-variables-value = Hodnota
 experimental-features-title = Experimentálne funkcie
 experimental-features-name = Názov
 experimental-features-value = Hodnota
@@ -324,6 +326,10 @@ multi-process-status-6 = Zakázané nepodporovaným textovým vstupom
 multi-process-status-7 = Zakázané doplnkami
 multi-process-status-8 = Vynútene zakázané
 multi-process-status-unknown = Neznámy stav
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Asynchrónna lupa/panning
 apz-none = žiadna
 wheel-enabled = vstup kolieskom povolený
@@ -352,3 +358,8 @@ support-printing-clear-settings-button = Vymazať uložené nastavenia tlače
 support-printing-modified-settings = Upravené nastavenia tlače
 support-printing-prefs-name = Názov
 support-printing-prefs-value = Hodnota
+
+## Normandy sections
+
+support-remote-experiments-name = Názov
+support-remote-features-name = Názov

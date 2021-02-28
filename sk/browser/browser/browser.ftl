@@ -328,9 +328,20 @@ browser-window-close-button =
 
 ## Tab actions
 
+browser-tab-audio-playing = Prehráva sa
+browser-tab-audio-muted = Stlmené
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = PREHRÁVA SA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = STLMENÉ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = OBRAZ V OBRAZE
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importovať záložky…
+    .tooltiptext = Importovať záložky z iného prehliadača do aplikácie { -brand-short-name }
 
 ## WebRTC Pop-up notifications
 
@@ -407,6 +418,7 @@ urlbar-result-action-search-in-private = Vyhľadať v súkromnom okne
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Vyhľadať pomocou { $engine }
+urlbar-result-action-sponsored = Sponzorované
 urlbar-result-action-switch-tab = Prepnúť na kartu
 urlbar-result-action-visit = Navštíviť
 
@@ -433,6 +445,12 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Ďalšie informácie
+    .accesskey = l
+crashed-subframe-submit =
+    .label = Odoslať hlásenie
+    .accesskey = h
 
 ## Bookmarks panels, menus and toolbar
 
@@ -440,6 +458,11 @@ bookmarks-show-all-bookmarks =
     .label = Zobraziť všetky záložky
 bookmarks-recent-bookmarks =
     .value = Nedávno pridané medzi záložky
+bookmarks-manage-bookmarks =
+    .label = Správa záložiek
+bookmarks-recent-bookmarks-panel =
+    .value = Nedávno pridané medzi záložky
+bookmarks-recent-bookmarks-panel-subheader = Nedávno pridané medzi záložky
 bookmarks-toolbar-chevron =
     .tooltiptext = Zobraziť ďalšie záložky
 bookmarks-sidebar-content =
@@ -468,6 +491,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Skryť panel nástrojov Záložky
            *[other] Zobraziť panel nástrojov Záložky
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Skryť panel záložiek
+           *[other] Zobraziť panel záložiek
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -493,6 +522,9 @@ bookmarks-toolbar-placeholder =
     .title = Položky panela záložiek
 bookmarks-toolbar-placeholder-button =
     .label = Položky panela záložiek
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Pridať túto kartu medzi záložky
 
 ## Library Panel items
 
@@ -502,6 +534,8 @@ library-bookmarks-bookmark-this-page =
     .label = Pridať stránku medzi záložky
 library-bookmarks-bookmark-edit =
     .label = Upraviť túto záložku
+library-recent-activity-title =
+    .value = Nedávna aktivita
 
 ## More items
 
