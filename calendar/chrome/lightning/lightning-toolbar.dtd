@@ -43,7 +43,7 @@
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
-<!ENTITY lightning.toolbar.appmenuButton.label       "Menú do aplicativo">
+<!ENTITY lightning.toolbar.appmenuButton.label       "Menú da aplicación">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Amosa o menú do &brandShortName;">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Panel de calendario">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
