@@ -176,10 +176,20 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] حذف همه
        *[other] حذف همه
     }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] بله، این ورودها را حذف کن
+       *[other] بله، این ورودها را حذف کن
+    }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } ورود حذف شود؟
        *[other] تمام { $count } ورود حذف شوند؟
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] با این کار ورودهایی که در { -brand-short-name } ذخیره شده‌اند و هرگونه هشدارهای ورود ناخواسته، حذف خواهند شد. این عمل غیرقابل بازگشت است.
+       *[other] با این کار ورودهایی که در { -brand-short-name } ذخیره شده‌اند و هرگونه هشدارهای ورود ناخواسته، حذف خواهند شد. این عمل غیرقابل بازگشت است.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
