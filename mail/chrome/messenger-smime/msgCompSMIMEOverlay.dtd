@@ -4,15 +4,30 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
+<!ENTITY menu_securityDoNotEncrypt.label "Non cifrar">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "o">
+
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
 <!ENTITY menu_securityEncryptOptional.accesskey "w">
 -->
 
+<!ENTITY menu_securityEncryptRequire2.label "Requirir cifraxe">
 <!ENTITY menu_securityEncryptRequire.accesskey "e">
 
 <!ENTITY menu_securitySign.label "Asinar dixitalmente esta mensaxe">
 <!ENTITY menu_securitySign.accesskey "A">
+
+<!ENTITY menu_securityAttachMyKey.label "Anexar a miña clave pública">
+<!ENTITY menu_securityAttachMyKey.accesskey "A">
+
+<!ENTITY menu_securityTech.label "Tecnoloxía de cifraxe">
+<!ENTITY menu_securityTech.accesskey "T">
+
+<!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
+<!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Ver información de seguranza">
 <!ENTITY menu_securityStatus.accesskey "s">
