@@ -18,3 +18,10 @@
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Προειδοποίηση πριν την ενεργοποίηση περιήγησης με κέρσορα">
 <!ENTITY browseWithCaretWarn.accesskey "Π">
+
+<!ENTITY modifiers.label "Πλήκτρα τροποποίησης">
+<!ENTITY acceleratorKey.label "Πλήκτρο επιτάχυνσης:">
+<!ENTITY acceleratorKey.accesskey "ε">
+<!ENTITY menuAccessKey.label "Πλήκτρο πρόσβασης μενού:">
+<!ENTITY menuAccessKey.accesskey "μ">
+<!ENTITY modifiersDesc.label "Σημείωση: Η τιμή μηδέν απενεργοποιεί το πλήκτρο τροποποίησης.">

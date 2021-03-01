@@ -31,5 +31,7 @@
 <!ENTITY enablePrefetch.accesskey        "Π">
 
 <!ENTITY debugCache.label                "Εντοπισμός σφαλμάτων">
+<!ENTITY debugEnableMemCache.label       "Ενεργοποίηση προσωρινής μνήμης μνήμης">
+<!ENTITY debugEnableMemCache.accesskey   "Ε">
 <!ENTITY debugEnableDiskCache.label      "Ενεργοποίηση προσωρινής μνήμης δίσκου">
 <!ENTITY debugEnableDiskCache.accesskey  "δ">
