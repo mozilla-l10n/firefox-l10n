@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Cydweddu Nawr
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Cydweddu Nawr
+    .value = Cydweddu Nawr
+appmenuitem-fxa-manage-account = Rheoli Cyfrif
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Cydweddwyd diwethaf { $time }
+    .label = Cydweddwyd diwethaf { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Cydweddu a Chadw Data
+appmenu-fxa-signed-in-label = Mewngofnodi
+appmenu-fxa-setup-sync =
+    .label = Cychwyn Cydweddu…
 appmenuitem-save-page =
     .label = Cadw Tudalen Fel…
 
