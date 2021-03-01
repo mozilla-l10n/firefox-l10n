@@ -350,13 +350,13 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Inicios de sesión duplicados</div> <div data-l10n-name="no importado">(no importado)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Inicios de sesión duplicados</div> <div data-l10n-name="no importado">(no importado)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">(no importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">(no importado)</div>
     }
 about-logins-import-report-error =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Errores</div> <div data-l10n-name="no importado">(no importado)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="detalles">Errores</div> <div data-l10n-name="no importado">(no importado)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errores</div> <div data-l10n-name="not-imported">(no importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errores</div> <div data-l10n-name="not-imported">(no importado)</div>
     }
 
 ## Logins import report page
