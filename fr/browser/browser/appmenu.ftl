@@ -45,6 +45,9 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchroniser maintenant
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name(capitalization: "uppercase") }
+appmenu-fxa-signed-in-label = Connexion
 appmenuitem-save-page =
     .label = Enregistrer sous…
 

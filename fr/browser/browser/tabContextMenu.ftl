@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = Dupliquer les onglets
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Fermer les onglets situés à droite
     .accesskey = m
@@ -56,6 +58,8 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Fermer plusieurs onglets
     .accesskey = l
+tab-context-share-more =
+    .label = Plus…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
