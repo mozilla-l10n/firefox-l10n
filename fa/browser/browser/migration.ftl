@@ -54,6 +54,8 @@ import-source-page-title = وارد کردن تنظیمات و داده‌ها
 import-items-page-title = مواردی که وارد شوند
 import-items-description = مواردی را که می‌خواهید وارد شوند انتخاب کنید:
 import-permissions-page-title = لطفاً مجوزهای لازم را به { -brand-short-name } بدهید
+# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
+import-permissions-description = در macOS لازم است که شما به { -brand-short-name } برای دسترسی به نشانک‌های Safari اجازه دهید. بر روی «ادامه» کلید کنید و در پنجره‌ای که باز می‌شود، پروندهٔ «Bookmarks.plist» را انتخاب کنید.
 import-migrating-page-title = در حال وارد کردن…
 import-migrating-description = موارد زیر در حال وارد شدن هستند…
 import-select-profile-page-title = انتخاب مجموعهٔ تنظیمات

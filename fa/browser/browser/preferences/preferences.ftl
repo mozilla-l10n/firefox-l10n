@@ -50,6 +50,7 @@ pane-experimental-title = آزمایش‌های { -brand-short-name }
 category-experimental =
     .tooltiptext = آزمایش‌های { -brand-short-name }
 pane-experimental-subtitle = با هوشیاری پیش بروید
+pane-experimental-search-results-header = آزمایش‌های { -brand-short-name }: با احتیاط ادامه دهید
 pane-experimental-reset =
     .label = بازنشانی پیش‌فرض‌ها
     .accesskey = R
@@ -306,6 +307,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = استفاده از { $plugin-name } (در { -brand-short-name })
+applications-open-inapp =
+    .label = باز کردن در { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -317,12 +320,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -400,6 +407,9 @@ browsing-picture-in-picture-toggle-enabled =
     .label = کنترل‌های ویدیویی تصویر در تصویر را فعال کنید
     .accesskey = E
 browsing-picture-in-picture-learn-more = بیشتر بدانید
+browsing-media-control =
+    .label = کنترل رسانه‌ها از طریق کیبورد، هدست، یا رابط مجازی
+    .accesskey = v
 browsing-media-control-learn-more = اطلاعات بیشتر
 browsing-cfr-recommendations =
     .label = پیشنهاد دادن افزونه‌ها همزمان با مرور
@@ -466,6 +476,8 @@ home-prefs-topsites-header =
 home-prefs-topsites-description = سایت‌هایی که بیشتر بازدید می‌کنید
 home-prefs-shortcuts-header =
     .label = میان‌برها
+home-prefs-shortcuts-by-option-sponsored =
+    .label = میانبرهایی از حامیان مالی
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -489,6 +501,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = آخرین دریافت
 home-prefs-highlights-option-saved-to-pocket =
     .label = صفحات در { -pocket-brand-name } ذخیره شد
+home-prefs-recent-activity-header =
+    .label = فعالیت‌های اخیر
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -807,6 +821,9 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = مدیریت مجوزها...
     .accesskey = P
+sitedata-cookies-exceptions =
+    .label = مدیریت استثناها…
+    .accesskey = x
 
 ## Privacy Section - Address Bar
 
@@ -821,6 +838,10 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = زبانه‌های باز
     .accesskey = ز
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = میانبرها
+    .accesskey = S
 addressbar-locbar-topsites-option =
     .label = سایت‌های برتر
     .accesskey = T
@@ -878,6 +899,11 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = استخراج کننده‌های رمزارزها
     .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = برداشت کنندگان اثر انگشت
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -892,6 +918,7 @@ permissions-location = مکان
 permissions-location-settings =
     .label = تنظیمات…
     .accesskey = l
+permissions-xr = واقعیت مجازی
 permissions-xr-settings =
     .label = تنظیمات…
     .accesskey = t
@@ -1014,6 +1041,7 @@ space-alert-under-5gb-message = فضای ذخیره سازی { -brand-short-name
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = حالت فقط HTTPS
 httpsonly-learn-more = بیشتر بدانید
 
 ## The following strings are used in the Download section of settings
