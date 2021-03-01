@@ -5,8 +5,8 @@
 all-tabs-menu-undo-close-tabs =
     .label =
         { $tabCount ->
-            [1] Anullar tampadura d'onglets
-            [one] Anullar la tampadura de l'onglet
+            [1] Anullar la tampadura de l’onglet
+            [one] Anullar la tampadura de l’onglet
            *[other] Anullar la tampadura dels onglet
         }
 # "Search" is a verb, as in "Search through tabs".
