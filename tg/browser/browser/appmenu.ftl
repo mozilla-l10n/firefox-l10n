@@ -7,6 +7,7 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Дар ҳоли боргирии навсозии { -brand-shorter-name }
+appmenuitem-protection-dashboard-title = Лавҳаи вазъияти муҳофизат
 appmenuitem-customize-mode =
     .label = Фармоишдиҳӣ…
 
@@ -66,6 +67,11 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Чӣ нав аст
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Огоҳдиҳӣ оид ба хусусиятҳои нав
+    .accesskey = О
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
@@ -73,6 +79,10 @@ whatsnew-panel-header = Чӣ нав аст
 
 profiler-popup-title =
     .value = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Намоиши маълумоти бештар
+profiler-popup-description-title =
+    .value = Сабт кунед, таҳлил кунед, мубодила намоед
 profiler-popup-learn-more = Маълумоти бештар
 profiler-popup-settings =
     .value = Танзимот
@@ -146,6 +156,9 @@ appmenu-help-feedback-page =
 appmenu-help-safe-mode-without-addons =
     .label = Аз нав оғоз кардани барнома бо ҷузъи иловагии ғайрифаъолшуда…
     .accesskey = А
+appmenu-help-safe-mode-with-addons =
+    .label = Аз нав оғоз кардани барнома бо ҷузъи иловагии фаъолшуда…
+    .accesskey = ф
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -153,6 +166,11 @@ appmenu-help-safe-mode-without-addons =
 
 ##
 
+appmenu-help-check-for-update =
+    .label = Санҷиши навсозиҳо…
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Танзимоти навори абзорҳо…
+appmenu-developer-tools-subheader = Абзорҳои браузер
