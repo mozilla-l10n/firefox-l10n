@@ -369,7 +369,7 @@ about-logins-import-report-description = Mewngofnodion a chyfrineiriau wedi'u me
 about-logins-import-report-row-index = Rhes { $number }
 about-logins-import-report-row-description-no-change = Dyblyg: Cydweddiad union o'r mewngofnod presennol
 about-logins-import-report-row-description-modified = Wedi diweddaru'r mewngofnod presennol
-about-logins-import-report-row-description-added = Ychwanegwyd mewngofnodi newydd
+about-logins-import-report-row-description-added = Ychwanegwyd mewngofnod newydd
 about-logins-import-report-row-description-error = Gwall: Maes ar goll
 
 ##
