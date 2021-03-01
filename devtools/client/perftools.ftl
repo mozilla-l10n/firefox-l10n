@@ -41,6 +41,9 @@ perftools-devtools-settings-label = Ayarlar
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Gizli gezinti etkinleştirildiğinde profilleyici devre dışı bırakılır.
+    Profilleyiciyi yeniden etkinleştirmek için tüm gizli pencereleri kapatın
 perftools-status-recording-stopped-by-another-tool = Kayıt başka bir araç tarafından durduruldu.
 perftools-status-restart-required = Bu özelliği etkinleştirmek için tarayıcı yeniden başlatılmalıdır.
 
@@ -62,9 +65,12 @@ perftools-button-edit-settings = Ayarları düzenle…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend iş parçacığı
 
 ##
 
+perftools-record-all-registered-threads = Yukarıdaki seçimleri atla ve tüm kayıtlı iş parçacıklarını kaydet
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
