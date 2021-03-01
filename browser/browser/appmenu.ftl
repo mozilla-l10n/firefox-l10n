@@ -45,6 +45,13 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Συγχρονισμός τώρα
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Συγχρονισμός τώρα
+    .value = Συγχρονισμός τώρα
+appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-signed-in-label = Σύνδεση
 appmenuitem-save-page =
     .label = Αποθήκευση σελίδας ως…
 
