@@ -26,6 +26,7 @@ update-restarting = Дар ҳоли бозоғозӣ…
 channel-description = Айни ҳол шумо дар шабакаи навсозии <label data-l10n-name="current-channel"></label> қарор доред.
 warningDesc-version = { -brand-short-name } дар реҷаи озмоишӣ мебошад ва метавонад ноустувор бошад.
 aboutdialog-help-user = Кумаки { -brand-product-name }
+aboutdialog-submit-feedback = Ирсоли изҳори назар
 bottomLinks-license = Маълумот дар бораи гувоҳинома
 bottomLinks-rights = Ҳуқуқҳои корбари ниҳоӣ
 bottomLinks-privacy = Сиёсати махфият

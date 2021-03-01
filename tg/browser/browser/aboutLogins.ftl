@@ -113,6 +113,16 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Кушодани имконоти { -sync-brand-short-name }
+           *[other] Кушодани хусусиятҳои { -sync-brand-short-name }
+        }
+    .accesskey = К
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Маро дигар напурсед
+    .accesskey = М
 
 ## Dialogs
 
@@ -144,6 +154,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
 about-logins-confirm-export-dialog-confirm-button = Содирот…
+about-logins-alert-import-title = Воридот анҷом ёфт
 confirm-discard-changes-dialog-title = Тағйироти захиранашударо бекор мекунед?
 confirm-discard-changes-dialog-message = Ҳамаи тағироти захиранашуда гум мешаванд.
 confirm-discard-changes-dialog-confirm-button = Рад кардан
@@ -215,10 +226,24 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Воридшавиҳои нав илова шуданд:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-done = Тайёр
+about-logins-import-dialog-error-title = Хатои воридот
 about-logins-import-dialog-error-file-permission-title = Файл хонда нашуд
 about-logins-import-dialog-error-learn-more = Маълумоти бештар
 about-logins-import-dialog-error-try-again = Аз нав кӯшиш кардан…
 about-logins-import-dialog-error-cancel = Бекор кардан
+about-logins-import-report-row-description-added = Воридшавии нав илова шуд
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Ҳисоботи ҷамъбастии воридот
