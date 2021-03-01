@@ -26,7 +26,7 @@
 <!ENTITY debugConsoleJavascript.label     "Zobrazit chyby a varování chrome JavaScript">
 
 <!ENTITY enablePlugins.label             "Povolit zásuvné moduly pro">
-<!ENTITY enablePluginForSuite.label      "Seamonkey">
+<!ENTITY enablePluginForSuite.label      "SeaMonkey">
 <!ENTITY enablePluginForSuite.accesskey  "S">
 
 <!ENTITY whenPageRequiresPlugins.label   "Pokud stránka vyžaduje zásuvný modul">
