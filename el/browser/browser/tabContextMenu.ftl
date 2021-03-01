@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = Αντιγραφή καρτελών
     .accesskey = Α
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Κλείσιμο καρτελών στα δεξιά
     .accesskey = ξ
@@ -56,6 +58,8 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Κλείσιμο πολλαπλών καρτελών
     .accesskey = π
+tab-context-share-more =
+    .label = Περισσότερα…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

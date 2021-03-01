@@ -45,6 +45,7 @@ perftools-request-to-stop-profiler = Διακοπή εγγραφής
 
 perftools-button-start-recording = Έναρξη εγγραφής
 perftools-button-cancel-recording = Ακύρωση εγγραφής
+perftools-button-save-settings = Αποθήκευση ρυθμίσεων και επιστροφή
 perftools-button-restart = Επανεκκίνηση
 perftools-button-add-directory = Προσθήκη καταλόγου
 perftools-button-remove-directory = Αφαίρεση επιλεγμένων
@@ -56,4 +57,9 @@ perftools-thread-dns-resolver =
     .title = Η ανάλυση DNS συμβαίνει σε αυτό το thread
 
 ##
+
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
+## preferences are true.
 

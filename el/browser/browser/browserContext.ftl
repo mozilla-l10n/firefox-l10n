@@ -131,12 +131,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Αντιγραφή διεύθυνσης email
     .accesskey = Ε
 main-context-menu-copy-link =
     .label = Αντιγραφή τοποθεσίας συνδέσμου
     .accesskey = γ
+main-context-menu-copy-link-simple =
+    .label = Αντιγραφή συνδέσμου
+    .accesskey = σ
 
 ## Media (video/audio) controls
 ##
@@ -332,6 +340,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Επιθεώρηση στοιχείου
     .accesskey = υ
+main-context-menu-inspect =
+    .label = Επιθεώρηση
+    .accesskey = θ
 main-context-menu-inspect-a11y-properties =
     .label = Επιθεώρηση ιδιοτήτων προσβασιμότητας
 main-context-menu-eme-learn-more =
