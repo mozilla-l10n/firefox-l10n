@@ -14,6 +14,8 @@
 <!ENTITY prefCheckDefaultClient.label     "Vérifier les paramètres par défaut de l’application au démarrage">
 <!ENTITY prefCheckDefaultClient.accesskey "V">
 
+<!ENTITY printing.label                   "Impression">
+
 <!ENTITY crashReports.caption             "Rapporteur de plantage">
 <!ENTITY submitCrashes.label              "Envoyer les rapports de plantage">
 <!ENTITY submitCrashes.accesskey          "E">

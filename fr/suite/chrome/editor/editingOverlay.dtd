@@ -29,6 +29,12 @@
 <!ENTITY publishSettings.label "Paramètres de publication des sites…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Formulaire">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertFormCmd.label "Définir le formulaire…">
+<!ENTITY insertFormCmd.accesskey "D">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nouveau">
 <!ENTITY newToolbarCmd.tooltip "Créer une nouvelle page">

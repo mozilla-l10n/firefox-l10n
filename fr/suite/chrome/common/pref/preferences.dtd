@@ -57,4 +57,6 @@
 <!ENTITY smart.label "Install. de logiciels">
 <!ENTITY mousewheel.label "Souris">
 
+<!ENTITY debugging.label "Débogage">
+
 <!ENTITY focusSearch.key "f">
