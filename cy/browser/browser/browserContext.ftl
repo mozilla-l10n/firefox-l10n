@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Agor Dolen mewn Tab Cynhwysydd Newydd
     .accesskey = T
+main-context-menu-open-link-container =
+    .label = Agor Dolen mewn Cynhwysydd Newydd
+    .accesskey = N
 main-context-menu-open-link-new-window =
     .label = Agor Dolen mewn Ffenestr Newydd
     .accesskey = F
@@ -119,6 +122,9 @@ main-context-menu-open-link-new-private-window =
     .accesskey = F
 main-context-menu-bookmark-this-link =
     .label = Gosod Nod Tudalen i'r Ddolen
+    .accesskey = D
+main-context-menu-bookmark-link =
+    .label = Dolen Nod Tudalen
     .accesskey = D
 main-context-menu-save-link =
     .label = Cadw'r Ddolen Fel…
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Copïo Cyfeiriad E-bost
     .accesskey = E
 main-context-menu-copy-link =
     .label = Copïo Lleoliad Dolen
+    .accesskey = C
+main-context-menu-copy-link-simple =
+    .label = Copïo'r Ddolen
     .accesskey = C
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Copïo Lleoliad Delwedd
     .accesskey = a
+main-context-menu-image-copy-link =
+    .label = Copi Dolen Delwedd
+    .accesskey = D
+main-context-menu-video-copy-link =
+    .label = Copïo Dolen Fideo
+    .accesskey = F
+main-context-menu-audio-copy-link =
+    .label = Copïo Dolen Sain
+    .accesskey = S
 main-context-menu-image-save-as =
     .label = Cadw Delwedd Fel…
     .accesskey = D
@@ -238,6 +261,9 @@ main-context-menu-image-set-as-background =
     .accesskey = B
 main-context-menu-image-info =
     .label = Gwybodaeth am Weld Delwedd
+    .accesskey = D
+main-context-menu-image-set-image-as-background =
+    .label = Gosod Delwedd fel Cefndir Bwrdd Gwaith…
     .accesskey = D
 main-context-menu-image-desc =
     .label = Gweld Disgrifiad
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Archwilio Elfen
     .accesskey = E
+main-context-menu-inspect =
+    .label = Arsylwi
+    .accesskey = A
 main-context-menu-inspect-a11y-properties =
     .label = Archwilio'r Priodoleddau Hygyrchedd
 main-context-menu-eme-learn-more =
