@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-appmenu-update-whats-new =
-    .value = Бинед, ки чӣ нав аст.
-appmenu-addon-private-browsing-installed =
-    .buttonlabel = Хуб, фаҳмидам
-    .buttonaccesskey = Х
+default-browser-notification-button =
+    .label = Ҳамчун стандартӣ танзим кардан
+    .accesskey = Ҳ
