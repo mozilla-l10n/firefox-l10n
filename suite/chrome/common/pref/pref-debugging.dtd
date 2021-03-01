@@ -7,6 +7,9 @@
 <!ENTITY pref.debugging.title "Εντοπισμός σφαλμάτων">
 
 <!-- Render Debugging -->
+<!ENTITY debugRendering.label             "Απόδοση">
+<!ENTITY debugDisableXULCache.label       "Απενεργοποίηση προσωρινής μνήμης XUL">
+<!ENTITY debugDisableXULCache.accesskey   "L">
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Συμβάντα">
