@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Mở lên kết trong thẻ chứa mới
     .accesskey = b
+main-context-menu-open-link-container =
+    .label = Mở lên kết trong ngăn chứa mới
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = Mở liên kết trong cửa sổ mới
     .accesskey = W
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Đánh dấu liên kết này
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = Đánh dấu liên kết
+    .accesskey = B
 main-context-menu-save-link =
     .label = Lưu liên kết tới…
     .accesskey = k
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Sao chép địa chỉ email
     .accesskey = E
 main-context-menu-copy-link =
     .label = Sao chép địa chỉ liên kết
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Sao chép liên kết
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Sao chép địa chỉ âm thanh
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Sao chép liên kết hình ảnh
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Sao chép liên kết video
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Sao chép liên kết âm thanh
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Lưu ảnh dưới dạng…
     .accesskey = v
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Xem thông tin hình ảnh
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Đặt hình ảnh làm màn hình nền…
+    .accesskey = S
 main-context-menu-image-desc =
     .label = Xem mô tả
     .accesskey = D
@@ -331,6 +357,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = D
 main-context-menu-inspect-element =
     .label = Kiểm tra phần tử HTML
+    .accesskey = Q
+main-context-menu-inspect =
+    .label = Kiểm tra
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Kiểm tra thuộc tính trợ năng

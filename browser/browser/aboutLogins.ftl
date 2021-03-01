@@ -306,6 +306,44 @@ about-logins-import-dialog-error-no-logins-imported = Không có thông tin đă
 about-logins-import-dialog-error-learn-more = Tìm hiểu thêm
 about-logins-import-dialog-error-try-again = Thử lại…
 about-logins-import-dialog-error-cancel = Hủy bỏ
+about-logins-import-report-title = Tóm tắt nhập
+about-logins-import-report-description = Thông tin đăng nhập và mật khẩu được nhập vào { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Hàng { $number }
+about-logins-import-report-row-description-no-change = Trùng lặp: Đối sánh chính xác thông tin đăng nhập hiện có
+about-logins-import-report-row-description-modified = Thông tin đăng nhập hiện tại đã được cập nhật
+about-logins-import-report-row-description-added = Đã thêm thông tin đăng nhập mới
+about-logins-import-report-row-description-error = Lỗi: Thiếu trường
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Lỗi: Nhiều giá trị cho { $field }
+about-logins-import-report-row-description-error-missing-field = Lỗi: Thiếu { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">thông tin đăng nhập mới được thêm vào</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">thông tin đăng nhập hiện tại đã được cập nhật</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">thông tin đăng nhập trùng lặp</div> <div data-l10n-name="not-imported">(không nhập)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">lỗi</div> <div data-l10n-name="not-imported">(không nhập)</div>
+    }
 
 ## Logins import report page
 

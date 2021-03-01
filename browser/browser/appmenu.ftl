@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Đồng bộ ngay
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Đồng bộ ngay
+    .value = Đồng bộ ngay
+appmenuitem-fxa-manage-account = Quản lý tài khoản
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Đồng bộ hóa lần cuối { $time }
+    .label = Đồng bộ hóa lần cuối { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Đồng bộ hóa và lưu dữ liệu
+appmenu-fxa-signed-in-label = Đăng nhập
+appmenu-fxa-setup-sync =
+    .label = Bật đồng bộ hóa…
 appmenuitem-save-page =
     .label = Lưu trang dưới dạng…
 
