@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Manajer Proses
 
 ## Tooltips
 
@@ -23,6 +25,14 @@ about-processes-column-cpu-total = CPU
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
 about-processes-browser-process-name = (proses { $pid }) { -brand-short-name }
+about-processes-socket-process-name = Jaringan (proses { $pid })
+about-processes-preallocated-process-name = Prealokasi (proses { $pid })
+about-processes-unknown-process-name = ({ $type }, proses { $pid }) lainnya
+# Process
+# Variables:
+#   $name (String) The name assigned to the process.
+#   $pid (String) The process id of this process, assigned by the OS.
+about-processes-process-name = Proses { $pid }: { $name }
 
 ## Details within processes
 
@@ -76,6 +86,12 @@ about-processes-frame-name-many = Subframe ({ $number }): { $shortUrl }
 
 ## Duration units
 
+duration-unit-ns = nd
+duration-unit-us = µd
+duration-unit-ms = md
+duration-unit-s = d
+duration-unit-m = m
+duration-unit-h = j
 duration-unit-d = d
 
 ## Memory units
