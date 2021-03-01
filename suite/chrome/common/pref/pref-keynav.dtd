@@ -18,3 +18,5 @@
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Avertir avant d’activer la navigation au curseur">
 <!ENTITY browseWithCaretWarn.accesskey "v">
+
+<!ENTITY modifiers.label "Modificateurs">
