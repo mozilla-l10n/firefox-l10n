@@ -361,6 +361,64 @@ about-logins-import-dialog-error-no-logins-imported = Heb fewnforio unrhyw fewng
 about-logins-import-dialog-error-learn-more = Dysgu rhagor
 about-logins-import-dialog-error-try-again = Ceisiwch eto…
 about-logins-import-dialog-error-cancel = Diddymu
+about-logins-import-report-title = Crynodeb Mewnforio
+about-logins-import-report-description = Mewngofnodion a chyfrineiriau wedi'u mewnforio i { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rhes { $number }
+about-logins-import-report-row-description-no-change = Dyblyg: Cydweddiad union o'r mewngofnod presennol
+about-logins-import-report-row-description-modified = Wedi diweddaru'r mewngofnod presennol
+about-logins-import-report-row-description-added = Ychwanegwyd mewngofnodi newydd
+about-logins-import-report-row-description-error = Gwall: Maes ar goll
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Gwall: Gwerthoedd lluosog ar gyfer { $field }
+about-logins-import-report-row-description-error-missing-field = Gwall: { $field } ar goll
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details"> Mewngofnodion newydd wedi'u hychwanegu</div>
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'i ychwanegu</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod newydd wedi'u hychwanegu</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u hychwanegu</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion newydd wedi'u diweddaru</div>
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'i ddiweddaru</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod newydd wedi'u diweddaru</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod newydd wedi'u diweddaru</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [zero] <div data-l10n-name="count"></div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [one] <div data-l10n-name="count"></div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb ei fewnforio)</div>
+        [two] <div data-l10n-name="count"></div> <div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [few] <div data-l10n-name="count"></div> <div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [many] <div data-l10n-name="count"></div> <div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+       *[other] <div data-l10n-name="count"></div> <div data-l10n-name="details"><div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gwallau</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gwall</div> <div data-l10n-name="not-imported">(heb ei fewnforio)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Wall</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gwall</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gwall</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gwall</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+    }
 
 ## Logins import report page
 
