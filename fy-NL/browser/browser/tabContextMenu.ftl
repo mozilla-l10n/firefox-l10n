@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Ljepblêden duplisearje
     .accesskey = u
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Ljepblêden oan de linkerkant slute
+    .accesskey = i
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Ljepblêden oan de rjochterkant slute
     .accesskey = j
@@ -56,6 +63,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mear ljepblêden slute
     .accesskey = M
+tab-context-share-url =
+    .label = Diele
+    .accesskey = e
+tab-context-share-more =
+    .label = Mear…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
