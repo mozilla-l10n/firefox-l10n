@@ -325,16 +325,25 @@ about-logins-import-report-description = Kitikirisaxik molojri'ïl chuqa' ewan t
 about-logins-import-report-row-index = Cholaj { $number }
 about-logins-import-report-row-description-no-change = Kamulun: ütz nuk'äm ri' ri retal ruwujil k'o
 about-logins-import-report-row-description-modified = K'exon rutikirib'al molojri'ïl k'o wakami
+about-logins-import-report-row-description-added = Xtz'aqatisäx k'ak'a' tikirib'äl molojri'ïl
+about-logins-import-report-row-description-error = Sachoj: K'ojlib'äl k'a k'o na
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Sachoj: Jalajöj taq rajil richin { $field }
+about-logins-import-report-row-description-error-missing-field = Sachoj: Nrajo' { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">K'ak'a' molojri'ïl tz'aqatisan</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">K'ak'a' taq molojri'ïl etz'aqatisan</div>
+    }
 
 ## Logins import report page
 
