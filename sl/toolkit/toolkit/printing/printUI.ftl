@@ -42,10 +42,10 @@ printui-scale-pcent = Merilo
 printui-two-sided-printing = Obojestransko tiskanje
 printui-duplex-checkbox = Natisni obojestransko
 printui-two-sided-printing-off = Izklopljeno
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Obrni ob stranskem robu
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Obrni ob zgornjem robu
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Obrni ob daljšem robu
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Obrni ob krajšem robu
 # Section title for miscellaneous print options
 printui-options = Možnosti
 printui-headers-footers-checkbox = Natisni glave in noge
@@ -103,6 +103,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Merilo mora biti število med 10 in 200.
 printui-error-invalid-margin = Vnesite veljaven rob za izbrano velikost papirja.
+printui-error-invalid-copies = Število kopij mora biti število med 1 in 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Obseg mora biti število med 1 in { $numPages }.
