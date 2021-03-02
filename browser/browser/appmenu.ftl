@@ -109,6 +109,8 @@ profiler-popup-capture-shortcut =
 
 appmenu-manage-history =
     .label = Διαχείριση ιστορικού
+appmenu-reopen-all-tabs = Επαναφορά όλων των καρτελών
+appmenu-reopen-all-windows = Επαναφορά όλων των παραθύρων
 
 ## Help panel
 

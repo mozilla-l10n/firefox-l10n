@@ -16,6 +16,7 @@ perftools-heading-buffer = Ρυθμίσεις buffer
 perftools-heading-features = Λειτουργίες
 perftools-heading-features-default = Λειτουργίες (Προτείνεται ενεργοποίηση από προεπιλογή)
 perftools-heading-features-disabled = Ανενεργές λειτουργίες
+perftools-heading-features-experimental = Πειραματικό
 perftools-heading-threads = Threads
 perftools-heading-local-build = Τοπική έκδοση δομής
 
@@ -63,3 +64,6 @@ perftools-thread-dns-resolver =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+-profiler-brand-name = Firefox Profiler
+perftools-onboarding-close-button =
+    .aria-label = Κλείσιμο μηνύματος υποδοχής
