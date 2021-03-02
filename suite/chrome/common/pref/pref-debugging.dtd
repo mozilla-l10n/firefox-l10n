@@ -15,7 +15,19 @@
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Συμβάντα">
+<!ENTITY debugPaintDumping.label "Κατεκτύπωση χρώματος">
+<!ENTITY debugPaintDumping.accesskey "ρ">
+<!ENTITY debugEventDumping.label "Κατεκτύπωση συμβάντων">
+<!ENTITY debugEventDumping.accesskey "σ">
+<!ENTITY debugMotionEventDumping.label "Κατεκτύπωση συμβάντων κίνησης">
+<!ENTITY debugMotionEventDumping.accesskey "κ">
+<!ENTITY debugCrossingEventDumping.label "Κατεκτύπωση διασταυρούμενων συμβάντων">
+<!ENTITY debugCrossingEventDumping.accesskey "δ">
 
 <!-- Reflow Event Debugging -->
 <!ENTITY debugReflowShowFrameCounts.label        "Εμφάνιση αριθμού καρέ">
 <!ENTITY debugReflowShowFrameCounts.accesskey    "Ε">
+<!ENTITY debugReflowDumpFrameCounts.label        "Κατεκτύπωση αριθμού καρέ">
+<!ENTITY debugReflowDumpFrameCounts.accesskey    "Κ">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Κατεκτύπωση καρέ ανά αριθμό καρέ">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "τ">
