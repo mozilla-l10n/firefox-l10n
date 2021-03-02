@@ -144,8 +144,11 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = E-Mail-Adresse kopieren
-    .accesskey = E
+    .accesskey = k
 main-context-menu-copy-link =
+    .label = Link-Adresse kopieren
+    .accesskey = k
+main-context-menu-copy-link-simple =
     .label = Link-Adresse kopieren
     .accesskey = k
 
