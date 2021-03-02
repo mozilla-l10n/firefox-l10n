@@ -181,4 +181,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personnaliser la barre d’outils…
 appmenu-developer-tools-subheader = Outils du navigateur

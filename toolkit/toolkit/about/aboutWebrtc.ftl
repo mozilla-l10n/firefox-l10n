@@ -58,16 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Octets envoyés:
 about-webrtc-ice-pair-bytes-received = Octets reçus:
 about-webrtc-ice-component-id = ID du composant
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
 about-webrtc-avg-bitrate-label = Débit binaire moyen :
 about-webrtc-avg-framerate-label = Taux moyen d’images par seconde :
-
-##
-
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -170,6 +164,11 @@ about-webrtc-pacer-delay-ms = Délai d’espacement (ms)
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Statistiques d’images vidéo - ID MediaStreamTrack : { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
