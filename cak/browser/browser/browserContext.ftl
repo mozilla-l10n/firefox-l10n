@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Tijaq ximonel pa k'ak'a' ajk'wayöl ruwi'
     .accesskey = w
+main-context-menu-open-link-container =
+    .label = Tijaq Ximonel pa K'ak'a' Ajk'wayöl
+    .accesskey = k
 main-context-menu-open-link-new-window =
     .label = Tijaq ximonel tzij pa jun k'ak'a' Tzuwäch
     .accesskey = T
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Titzaqatisäx re jun ximonel re' pa taq yaketal
     .accesskey = x
+main-context-menu-bookmark-link =
+    .label = Ruximoj Yaketal
+    .accesskey = Y
 main-context-menu-save-link =
     .label = Tiyak Ximonel Achi'el…
     .accesskey = o
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Tiwachib'ëx rochochib'al taqoya'l
     .accesskey = t
 main-context-menu-copy-link =
     .label = Tiwachib'ëx Ruk'ojlib'al Ximonel
     .accesskey = i
+main-context-menu-copy-link-simple =
+    .label = Tiwachib'ëx Ximoj
+    .accesskey = X
 
 ## Media (video/audio) controls
 ##
