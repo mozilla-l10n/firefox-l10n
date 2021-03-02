@@ -14,6 +14,11 @@ duplicate-tab =
 duplicate-tabs =
     .label = Tabbladen dupliceren
     .accesskey = u
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Tabbladen aan de linkerkant sluiten
+    .accesskey = i
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -58,6 +63,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Meerdere tabbladen sluiten
     .accesskey = M
+tab-context-share-url =
+    .label = Delen
+    .accesskey = e
 tab-context-share-more =
     .label = Meer…
 

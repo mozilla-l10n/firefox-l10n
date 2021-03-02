@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Koppeling openen in nieuw containertabblad
     .accesskey = c
+main-context-menu-open-link-container =
+    .label = Koppeling openen in nieuwe container
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = Koppeling openen in nieuw venster
     .accesskey = v
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Bladwijzer voor deze koppeling maken
     .accesskey = m
+main-context-menu-bookmark-link =
+    .label = Bladwijzer maken
+    .accesskey = B
 main-context-menu-save-link =
     .label = Koppeling opslaan als…
     .accesskey = l
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = E-mailadres kopiëren
     .accesskey = m
 main-context-menu-copy-link =
     .label = Koppelingslocatie kopiëren
     .accesskey = p
+main-context-menu-copy-link-simple =
+    .label = Koppeling kopiëren
+    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Audiolocatie kopiëren
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Afbeeldingskoppeling kopiëren
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Videokoppeling kopiëren
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Audiokoppeling kopiëren
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Afbeelding opslaan als…
     .accesskey = n
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Afbeeldingsinfo bekijken
     .accesskey = i
+main-context-menu-image-set-image-as-background =
+    .label = Afbeelding als bureaubladachtergrond instellen…
+    .accesskey = f
 main-context-menu-image-desc =
     .label = Beschrijving bekijken
     .accesskey = B
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Element inspecteren
     .accesskey = E
+main-context-menu-inspect =
+    .label = Inspecteren
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Toegankelijkheidseigenschappen inspecteren
 main-context-menu-eme-learn-more =
