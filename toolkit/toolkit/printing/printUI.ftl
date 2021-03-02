@@ -40,10 +40,10 @@ printui-scale-pcent = Échelle
 printui-two-sided-printing = Impression recto verso
 printui-duplex-checkbox = Imprimer en recto verso
 printui-two-sided-printing-off = Désactivée
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Retourner sur le bord latéral
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Retourner sur le bord supérieur
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Retourner sur le bord long
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Retourner sur le bord court
 # Section title for miscellaneous print options
 printui-options = Options
 printui-headers-footers-checkbox = Imprimer les en-têtes et pieds de page
