@@ -313,12 +313,15 @@ about-logins-import-dialog-error-no-logins-imported = Aucun identifiant n’a é
 about-logins-import-dialog-error-learn-more = En savoir plus
 about-logins-import-dialog-error-try-again = Réessayer…
 about-logins-import-dialog-error-cancel = Annuler
+about-logins-import-report-title = Résumé de l’importation
 about-logins-import-report-description = Identifiants et mots de passe importés dans { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Ligne { $number }
 about-logins-import-report-row-description-no-change = Doublon : correspondance exacte avec un identifiant existant
+about-logins-import-report-row-description-modified = Identifiant existant mis à jour
+about-logins-import-report-row-description-added = Nouvel identifiant ajouté
 about-logins-import-report-row-description-error = Erreur : champ manquant
 
 ##
@@ -326,6 +329,7 @@ about-logins-import-report-row-description-error = Erreur : champ manquant
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
 about-logins-import-report-row-description-error-multiple-values = Erreur : plusieurs valeurs pour { $field }
+about-logins-import-report-row-description-error-missing-field = Erreur : « { $field } » est manquant
 
 ##
 ## Variables:

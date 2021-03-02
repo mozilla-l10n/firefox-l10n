@@ -120,6 +120,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Marque-page sur ce lien
     .accesskey = M
+main-context-menu-bookmark-link =
+    .label = Marque-page sur le lien
+    .accesskey = l
 main-context-menu-save-link =
     .label = Enregistrer la cible du lien sous…
     .accesskey = E
@@ -131,12 +134,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Copier l’adresse électronique
-    .accesskey = E
+    .accesskey = l
 main-context-menu-copy-link =
     .label = Copier l’adresse du lien
     .accesskey = C
+main-context-menu-copy-link-simple =
+    .label = Copier le lien
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +238,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Copier l’URL du fichier audio
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Copier le lien de l’image
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Copier le lien de la vidéo
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Copier le lien du fichier audio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Enregistrer l’image sous…
     .accesskey = s
@@ -239,6 +259,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Informations sur l’image
     .accesskey = I
+main-context-menu-image-set-image-as-background =
+    .label = Choisir l’image comme fond d’écran
+    .accesskey = s
 main-context-menu-image-desc =
     .label = Description de l’image
     .accesskey = e
@@ -332,6 +355,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Examiner l’élément
     .accesskey = x
+main-context-menu-inspect =
+    .label = Inspecter
+    .accesskey = n
 main-context-menu-inspect-a11y-properties =
     .label = Inspecter les propriétés d’accessibilité
 main-context-menu-eme-learn-more =
