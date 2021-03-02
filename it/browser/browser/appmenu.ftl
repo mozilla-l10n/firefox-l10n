@@ -169,6 +169,12 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Riavvia attivando i componenti aggiuntivi
     .accesskey = R
+appmenu-help-enter-troubleshoot-mode =
+    .label = Modalità risoluzione problemi
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Disattiva modalità risoluzione problemi
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
