@@ -314,11 +314,17 @@ about-logins-import-dialog-error-learn-more = En savoir plus
 about-logins-import-dialog-error-try-again = Réessayer…
 about-logins-import-dialog-error-cancel = Annuler
 about-logins-import-report-description = Identifiants et mots de passe importés dans { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Ligne { $number }
+about-logins-import-report-row-description-error = Erreur : champ manquant
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Erreur : plusieurs valeurs pour { $field }
 
 ##
 ## Variables:
