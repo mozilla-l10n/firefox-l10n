@@ -42,7 +42,7 @@
 <!ENTITY insertHTMLCmd.label "HTML...">
 <!ENTITY insertHTMLCmd.accesskey "H">
 <!ENTITY insertMathCmd.label "Formel…">
-<!ENTITY insertMathCmd.accesskey "F">
+<!ENTITY insertMathCmd.accesskey "m">
 <!ENTITY insertCharsCmd.label "Tecken och symboler...">
 <!ENTITY insertCharsCmd.accesskey "c">
 <!ENTITY insertBreakAllCmd.label "Bryt under bild(er)">
