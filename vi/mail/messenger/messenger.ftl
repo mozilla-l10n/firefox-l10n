@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } là phần mềm nguồn 
 folder-pane-toolbar =
     .toolbarname = Thanh công cụ ngăn thư mục
     .accesskey = F
+folder-pane-toolbar-options-button =
+    .tooltiptext = Tùy chọn ngăn thư mục
 folder-pane-header-label = Thư mục
 
 ## Folder Toolbar Header Popup
