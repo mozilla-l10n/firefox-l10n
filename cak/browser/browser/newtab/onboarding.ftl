@@ -169,6 +169,7 @@ onboarding-multistage-welcome-secondary-button-text = ¿La k'o jun rub'i' ataqoy
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
 onboarding-multistage-set-default-header = Tab'ana' { -brand-short-name } achi'el <span data-l10n-name="zap">k'o wi</span>
+onboarding-multistage-set-default-subtitle = Aninem, jikomal chuqa' ichinanem jantape' toq yakoj pa k'amaya'l.
 onboarding-multistage-set-default-primary-button-label = Tib'an Achi'el K'o Wi
 onboarding-multistage-set-default-secondary-button-label = Wakami mani
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be

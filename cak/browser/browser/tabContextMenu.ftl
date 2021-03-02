@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Kekamulüx taq Ruwi'
     .accesskey = K
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Ketz'apïx taq ruwi' pa xokoq'a'
+    .accesskey = t
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Ketz'apïx Ruwi' pan Ajkiq'a'
     .accesskey = j
@@ -56,6 +63,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Ketz'apïx K'ïy Taq Ruwi'
     .accesskey = y
+tab-context-share-url =
+    .label = Tikomonïx
+    .accesskey = k
+tab-context-share-more =
+    .label = Ch'aqa'…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
