@@ -51,6 +51,9 @@ appmenuitem-fxa-toolbar-sync-now =
 appmenuitem-fxa-manage-account = Konto verwalten
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+appmenu-fxa-signed-in-label = Anmelden
+appmenu-fxa-setup-sync =
+    .label = Synchronisierung aktivieren…
 appmenuitem-save-page =
     .label = Seite speichern unter…
 
