@@ -333,6 +333,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Riavvia attivando i componenti aggiuntivi
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Modalità risoluzione problemi
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Disattiva modalità risoluzione problemi
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.
