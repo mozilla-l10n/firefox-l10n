@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = Din integritet är viktig. { -brand-sh
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } blockerade <b>{ $blockedCount }</b> spårare sedan { $date }!
        *[other] { -brand-short-name } blockerade över <b>{ $blockedCount }</b> spårare sedan { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } blockerade <b>{ $blockedCount }</b> spårare sedan { DATETIME($date, month: "long", year: "numeric") }!
@@ -243,6 +246,10 @@ cfr-whatsnew-pip-fullscreen-header = Ta bild-i-bild helskärm
 cfr-whatsnew-pip-fullscreen-body = När du placerar en video i ett flytande fönster kan du nu dubbelklicka på det fönstret för att gå till helskärm.
 cfr-whatsnew-pip-fullscreen-icon-alt = Ikon för bild-i-bild
 
+## Protections Dashboard message
+
+
+## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Överblick över skydd
@@ -302,5 +309,5 @@ cfr-whatsnew-bookmarking-body = Det är lättare att hålla koll på dina favori
 
 ## What's new: Cross-site cookie tracking
 
-cfr-whatsnew-cross-site-tracking-header = Omfattande skydd från spårning av globala kakor
+cfr-whatsnew-cross-site-tracking-header = Omfattande skydd mot spårning av globala kakor
 cfr-whatsnew-cross-site-tracking-body = Du kan nu välja bättre skydd mot kakspårning. { -brand-short-name } kan isolera dina aktiviteter och data till den webbplats du befinner dig på, så att information som lagras i webbläsaren inte delas mellan webbplatser.
