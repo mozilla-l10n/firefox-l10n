@@ -15,3 +15,5 @@
 <!ENTITY debugEvents.label "Συμβάντα">
 
 <!-- Reflow Event Debugging -->
+<!ENTITY debugReflowShowFrameCounts.label        "Εμφάνιση αριθμού καρέ">
+<!ENTITY debugReflowShowFrameCounts.accesskey    "Ε">
