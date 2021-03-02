@@ -318,6 +318,7 @@ about-logins-import-report-description = Identifiants et mots de passe importés
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Ligne { $number }
+about-logins-import-report-row-description-no-change = Doublon : correspondance exacte avec un identifiant existant
 about-logins-import-report-row-description-error = Erreur : champ manquant
 
 ##
