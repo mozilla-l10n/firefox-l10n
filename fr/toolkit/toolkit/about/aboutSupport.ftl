@@ -195,6 +195,7 @@ support-third-party-modules-vendor = Informations sur l’éditeur
 support-third-party-modules-occurrence = Occurrences
 support-third-party-modules-process = Type et identifiant du processus
 support-third-party-modules-thread = Fil d’exécution
+support-third-party-modules-base = Adresse Imagebase
 support-third-party-modules-uptime = Durée d’exécution du processus (ms)
 support-third-party-modules-duration = Durée de chargement (ms)
 support-third-party-modules-status = État
@@ -408,6 +409,9 @@ support-printing-prefs-value = Valeur
 
 ## Normandy sections
 
+support-remote-experiments-title = Expériences à distance
 support-remote-experiments-name = Nom
+support-remote-experiments-branch = Branche expérimentale
+support-remote-features-title = Fonctionnalités distantes
 support-remote-features-name = Nom
 support-remote-features-status = État
