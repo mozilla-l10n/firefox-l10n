@@ -317,6 +317,24 @@ about-logins-import-dialog-error-no-logins-imported = Man xejik' ta tikirib'äl 
 about-logins-import-dialog-error-learn-more = Tetamäx juley
 about-logins-import-dialog-error-try-again = Titojtob'ëx Chik…
 about-logins-import-dialog-error-cancel = Tiq'at
+about-logins-import-report-title = Tijik' Chutitzijol
+about-logins-import-report-description = Kitikirisaxik molojri'ïl chuqa' ewan taq tzij ejik'on pa { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Cholaj { $number }
+about-logins-import-report-row-description-no-change = Kamulun: ütz nuk'äm ri' ri retal ruwujil k'o
+about-logins-import-report-row-description-modified = K'exon rutikirib'al molojri'ïl k'o wakami
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
