@@ -131,6 +131,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Պատճէնել ել. փոստի հասցէն
     .accesskey = A
@@ -164,7 +169,7 @@ main-context-menu-media-mute =
     .label = Անձայն
     .accesskey = M
 main-context-menu-media-unmute =
-    .label = Ձայնով
+    .label = Միացնել
     .accesskey = m
 main-context-menu-media-play-speed =
     .label = Նուագարկելու արագութիւն

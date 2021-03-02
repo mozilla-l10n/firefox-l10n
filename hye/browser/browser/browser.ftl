@@ -349,9 +349,11 @@ browser-window-close-button =
 ## Tab actions
 
 browser-tab-audio-playing = Նուագարկում
-browser-tab-audio-muted = Համրեցուած
+browser-tab-audio-muted = Լռեցուած
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = Նուագարկուում է
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ԼՌԵՑՈՒԱԾ
 
 ## Bookmarks toolbar items
 
