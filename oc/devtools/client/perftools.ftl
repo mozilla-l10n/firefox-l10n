@@ -101,5 +101,7 @@ perftools-record-all-registered-threads = Ignorar las seleccion al dessús e enr
 
 -profiler-brand-name = Perfilador Firefox
 perftools-onboarding-message = <b>Novetat</b> { -profiler-brand-name } es ara integ{ -profiler-brand-name }rat a las aisinas de desvolopaire. <a>Ne saber mai</a> a prepaus d’aquesta aisina novèla.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Per una durada limitada, avètz accès al panèl original de performanças via <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Tampar lo messatge d’acuèlh
