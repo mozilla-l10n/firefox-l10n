@@ -51,6 +51,13 @@ appmenuitem-fxa-toolbar-sync-now =
 appmenuitem-fxa-manage-account = Konto verwalten
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Zuletzt synchronisiert { $time }
+    .label = Zuletzt synchronisiert { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Daten synchronisieren und speichern
 appmenu-fxa-signed-in-label = Anmelden
 appmenu-fxa-setup-sync =
     .label = Synchronisierung aktivieren…
