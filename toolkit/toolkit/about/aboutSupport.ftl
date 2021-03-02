@@ -416,3 +416,11 @@ support-printing-clear-settings-button = Počistite shranjene nastavitve tiskanj
 support-printing-modified-settings = Spremenjene nastavitve tiskanja
 support-printing-prefs-name = Ime
 support-printing-prefs-value = Vrednost
+
+## Normandy sections
+
+support-remote-experiments-title = Oddaljeni poskusi
+support-remote-experiments-name = Ime
+support-remote-experiments-branch = Področje poskusa
+support-remote-features-name = Ime
+support-remote-features-status = Stanje
