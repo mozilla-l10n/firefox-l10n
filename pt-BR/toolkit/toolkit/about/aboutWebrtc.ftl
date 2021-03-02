@@ -31,11 +31,11 @@ about-webrtc-peerconnection-id-label = ID PeerConnection:
 
 about-webrtc-sdp-heading = SDP
 about-webrtc-local-sdp-heading = SDP local
-about-webrtc-local-sdp-heading-offer = SDP local (Oferta)
-about-webrtc-local-sdp-heading-answer = SDP local (Resposta)
+about-webrtc-local-sdp-heading-offer = SDP local (oferta)
+about-webrtc-local-sdp-heading-answer = SDP local (resposta)
 about-webrtc-remote-sdp-heading = SDP remoto
-about-webrtc-remote-sdp-heading-offer = SDP remoto (Oferta)
-about-webrtc-remote-sdp-heading-answer = SDP remoto (Resposta)
+about-webrtc-remote-sdp-heading-offer = SDP remoto (oferta)
+about-webrtc-remote-sdp-heading-answer = SDP remoto (resposta)
 about-webrtc-sdp-history-heading = Histórico SDP
 about-webrtc-sdp-parsing-errors-heading = Erros de parsing de SDP
 
@@ -58,16 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Bytes enviados:
 about-webrtc-ice-pair-bytes-received = Bytes recebidos:
 about-webrtc-ice-component-id = ID do componente
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
 about-webrtc-avg-bitrate-label = Média da taxa de bits:
 about-webrtc-avg-framerate-label = Média da taxa de quadros:
-
-##
-
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
