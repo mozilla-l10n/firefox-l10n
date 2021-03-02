@@ -27,6 +27,13 @@ appmenuitem-more-tools =
     .label = Altri strumenti
 appmenuitem-exit =
     .label = Esci
+appmenu-menu-button-closed =
+    .tooltiptext = Apri menu applicazione
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Chiudi menu applicazione
+    .label = { -brand-shorter-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
