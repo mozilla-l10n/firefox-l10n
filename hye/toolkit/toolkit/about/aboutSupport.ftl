@@ -374,7 +374,7 @@ fission-status-disabled-by-default = Անջատուած է սկզբնադիր
 fission-status-enabled-by-user-pref = Միացուած է աւգտուողի կողմից
 fission-status-disabled-by-user-pref = Անջատուած է աւգտուողի կողմից
 fission-status-disabled-by-e10s-other = E10s -ն անջատուած է
-async-pan-zoom = Չհամաժամեցուած շեղում/Չափափոխում
+async-pan-zoom = Չհամաժամեցուած շեղում/խոշորացում
 apz-none = չկայ
 wheel-enabled = ղեկասարքային ներմուծումը միացուած է
 touch-enabled = հպմամբ մուտքագրումը միացուած է
@@ -403,3 +403,6 @@ support-printing-clear-settings-button = Մաքրել պահպանուած տպ�
 support-printing-modified-settings = Տպիչի փոփոխուած կարգաւորումներ
 support-printing-prefs-name = Անուանումը
 support-printing-prefs-value = Արժէքը
+
+## Normandy sections
+
