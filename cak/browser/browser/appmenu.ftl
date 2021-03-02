@@ -45,6 +45,19 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Tixim Wakami
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Tixim Wakami
+    .value = Tixim Wakami
+appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Ruk'isib'äl ximoj { $time }
+    .label = Ruk'isib'äl ximoj { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Tixim chuqa' Tiyak Tzij
 appmenuitem-save-page =
     .label = Tiyak Ruxaq Achi'el…
 
