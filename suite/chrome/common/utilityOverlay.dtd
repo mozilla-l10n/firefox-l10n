@@ -108,7 +108,7 @@
 <!ENTITY findCmd.key2 "VK_F19">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findReplaceCmdMac.key "F">
-<!ENTITY findReplaceCmd.accesskey "r">
+<!ENTITY findReplaceCmd.accesskey "e">
 <!ENTITY findAgainCmd.label "Sök nästa">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "n">
@@ -133,7 +133,6 @@
 
 <!ENTITY helpMenu.label                   "Hjälp">
 <!ENTITY helpMenu.accesskey               "H">
-
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
      for the help button in the menubar. -->
 <!ENTITY helpMenuWin.label                "Hjälp">
@@ -144,6 +143,7 @@
 
 <!ENTITY helpForIEUsers.label               "För Internet Explorer-användare">
 <!ENTITY helpForIEUsers.accesskey           "I">
+
 <!ENTITY helpTroubleshootingInfo.label      "Felsökningsinformation">
 <!ENTITY helpTroubleshootingInfo.accesskey  "F">
 <!ENTITY releaseCmd.label                   "Versionsfakta">
