@@ -313,6 +313,17 @@ about-logins-import-dialog-error-no-logins-imported = Aucun identifiant n’a é
 about-logins-import-dialog-error-learn-more = En savoir plus
 about-logins-import-dialog-error-try-again = Réessayer…
 about-logins-import-dialog-error-cancel = Annuler
+about-logins-import-report-description = Identifiants et mots de passe importés dans { -brand-short-name }.
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
