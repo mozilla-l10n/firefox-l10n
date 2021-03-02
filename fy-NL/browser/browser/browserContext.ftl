@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Keppeling yn nij kontenerljepblêd iepenje
     .accesskey = k
+main-context-menu-open-link-container =
+    .label = Keppeling iepenje yn nije kontener
+    .accesskey = y
 main-context-menu-open-link-new-window =
     .label = Keppeling yn nij finster iepenje
     .accesskey = f
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Blêdwizer foar dizze keppeling meitsje
     .accesskey = m
+main-context-menu-bookmark-link =
+    .label = Blêdwizer meitsje
+    .accesskey = B
 main-context-menu-save-link =
     .label = Keppeling bewarje as…
     .accesskey = l
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = E-mailadres kopiearje
     .accesskey = m
 main-context-menu-copy-link =
     .label = Keppelingslokaasje kopiearje
     .accesskey = p
+main-context-menu-copy-link-simple =
+    .label = Keppeling kopiearje
+    .accesskey = K
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Audiolokaasje kopiearje
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Ofbyldingskeppeling kopiearje
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Fideokeppeling kopiearje
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Audiokeppeling kopiearje
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Ofbylding bewarje as…
     .accesskey = n
@@ -238,6 +261,9 @@ main-context-menu-image-set-as-background =
     .accesskey = e
 main-context-menu-image-info =
     .label = Ofbyldingsynfo besjen
+    .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Ofbylding as bureaublêdeftergrûn ynstelle…
     .accesskey = f
 main-context-menu-image-desc =
     .label = Omskriuwing besjen
@@ -332,6 +358,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Elemint ynspektearje
     .accesskey = E
+main-context-menu-inspect =
+    .label = Ynspektearje
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = Tagonklikheidseigenskippen ynspektearje
 main-context-menu-eme-learn-more =

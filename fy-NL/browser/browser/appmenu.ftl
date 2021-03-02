@@ -45,6 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = No syngronisearje
+appmenuitem-fxa-toolbar-sync-now =
+    .label = No syngronisearje
+    .value = No syngronisearje
+appmenuitem-fxa-manage-account = Account beheare
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Lêst syngronisearre: { $time }
+    .label = Lêst syngronisearre: { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Syngronisearje en gegevens bewarje
+appmenu-fxa-signed-in-label = Oanmelde
+appmenu-fxa-setup-sync =
+    .label = Syngronisaasje ynskeakelje…
 appmenuitem-save-page =
     .label = Side bewarje as…
 

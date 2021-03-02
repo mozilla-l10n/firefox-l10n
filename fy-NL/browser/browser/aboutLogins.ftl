@@ -317,6 +317,48 @@ about-logins-import-dialog-error-no-logins-imported = Der binne gjin oanmeldinge
 about-logins-import-dialog-error-learn-more = Mear ynfo
 about-logins-import-dialog-error-try-again = Opnij probearje…
 about-logins-import-dialog-error-cancel = Annulearje
+about-logins-import-report-title = Ymportgearfetting
+about-logins-import-report-description = Oanmeldingen en wachtwurden ymportearre yn { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rige { $number }
+about-logins-import-report-row-description-no-change = Duplikaat: eksakte oerienkomst mei besteande oanmelding
+about-logins-import-report-row-description-modified = Besteande oanmelding bywurke
+about-logins-import-report-row-description-added = Nije oanmelding tafoege
+about-logins-import-report-row-description-error = Flater: fjild ûntbrekt
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Flater: meardere wearden foar { $field }
+about-logins-import-report-row-description-error-missing-field = Flater: { $field } ûntbrekt
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nije oanmelding tafoege</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nije oanmeldingen tafoege</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">besteande oanmelding bywurke</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">besteande oanmeldingen bywurke</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dûbele oanmelding</div> <div data-l10n-name="not-imported">(net ymportearre)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dûbele oanmeldingen</div> <div data-l10n-name="not-imported">(net ymportearre)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">flater</div><div data-l10n-name="not-imported">(net ymportearre)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">flaters</div><div data-l10n-name="not-imported">(net ymportearre)</div>
+    }
 
 ## Logins import report page
 
