@@ -166,8 +166,8 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = Անձայն
-    .accesskey = M
+    .label = Լռեցնել
+    .accesskey = Լ
 main-context-menu-media-unmute =
     .label = Միացնել
     .accesskey = m
