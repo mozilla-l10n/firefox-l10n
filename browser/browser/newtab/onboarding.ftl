@@ -149,6 +149,7 @@ onboarding-not-now-button-label = Қазір емес
 
 ## Custom Return To AMO onboarding strings
 
+return-to-amo-subtitle = Тамаша, сіз { -brand-short-name } орнаттыңыз
 return-to-amo-add-extension-label = Кеңейтуді қосу
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
