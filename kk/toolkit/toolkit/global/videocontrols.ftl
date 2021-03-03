@@ -10,3 +10,5 @@ videocontrols-scrubber =
 videocontrols-buffer-bar-label = Жүктелу:
 videocontrols-volume-control =
     .aria-label = Дыбысы
+videocontrols-closed-caption-button =
+    .aria-label = Субтитрлар
