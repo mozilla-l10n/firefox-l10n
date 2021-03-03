@@ -56,9 +56,24 @@ policy-DownloadDirectory = Stabilìs e bloche la cartele pai file discjariâts.
 policy-EnableTrackingProtection = Abilite o disabilite il bloc dai contignûts e, in maniere opzionâl, blochilu.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Abilite o disabilite lis estensions multimediâls cifradis e, in maniere opzionâl, blochilis.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instale, disinstale o bloche lis estensions. La opzion par instalâ e cjape tant che parametris i URLs o i percors. Lis opzions par disinstalâ o blocâ a domandin i IDs des estensions.
+policy-ExtensionSettings = Gjestìs ducj i aspiets relatîfs ae instalazion des estensions.
+policy-ExtensionUpdate = Ative o disative i inzornaments automatics des estensions.
+policy-FirefoxHome = Configure la pagjine iniziâl di Firefox.
+policy-FlashPlugin = Permet o dinee l'ûs dal plugin Flash.
+policy-Handlers = Configure i gjestôrs di aplicazion predefinîts.
+policy-HardwareAcceleration = Se false (fals), distude la acelerazion vie hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Stabilìs e, in maniere opzionâl, bloche la pagjine iniziâl.
+policy-InstallAddonsPermission = Permet a cierts sîts web di instalâ zontis.
+policy-LegacyProfiles = Disative la funzion par sfuarçâ un profîl separât par ogni instalazion.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Ative la impostazion par doprâ come predefinît il compuartament ae vecje maniere dal atribût SameSite pai cookies.
 
 ##
 
