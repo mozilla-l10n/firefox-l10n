@@ -334,5 +334,7 @@ sec-error-expired-password = La password e je scjadude.
 sec-error-locked-password = La password e je blocade.
 sec-error-unknown-pkcs11-error = Erôr PKCS #11 no cognossût.
 sec-error-bad-crl-dp-url = URL no valit o no supuartât tal non dal pont di distribuzion de liste des revochis dai certificâts.
+sec-error-cert-signature-algorithm-disabled = Il certificât al è stât firmât doprant un algoritmi di firme che al è disabilitât par vie che nol è sigûr.
+mozilla-pkix-error-key-pinning-failure = Il servidôr al dopre clâfs fissadis (HPKP) ma no si pues costruî nissune cjadene di certificâts fidade che e corispuindi cu la cumbinazion di fissade. Nol è pussibil passâ parsore des violazions des clâfs fissadis.
 mozilla-pkix-error-inadequate-key-size = Il servidôr al à presentât un certificât cuntune dimension di clâf masse piçule par stabilî une conession sigure.
 mozilla-pkix-error-not-yet-valid-certificate = Il servidôr al à presentât un certificât che nol è ancjemò valit.
