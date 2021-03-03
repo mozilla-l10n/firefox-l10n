@@ -10,10 +10,8 @@ containers-window-new =
 containers-window-update =
     .title = Preferencis dal contignidôr { $name }
     .style = width: 45em
-
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -24,26 +22,23 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = largjece minime: 4rem
-
 containers-name-label = Non
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
-    .placeholder = Inseris non dal contignidôr
-
+    .placeholder = Inserìs non dal contignidôr
 containers-icon-label = Icone
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Colôr
     .accesskey = o
     .style = { -containers-labels-style }
-
 containers-button-done =
     .label = Fat
-    .accesskey = D
-
+    .accesskey = F
+containers-dialog =
+    .buttonlabelaccept = Fat
+    .buttonaccesskeyaccept = F
 containers-color-blue =
     .label = Blu
 containers-color-turquoise =
@@ -60,17 +55,20 @@ containers-color-pink =
     .label = Rose
 containers-color-purple =
     .label = Viole
-
+containers-color-toolbar =
+    .label = Fâs coincidi cu la sbare dai struments
+containers-icon-fence =
+    .label = Cente
 containers-icon-fingerprint =
-    .label = Impronte digjitâl
+    .label = Impront digjitâl
 containers-icon-briefcase =
-    .label = Sincronie file
+    .label = Valisute
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
     .label = Segn dal dolar
 containers-icon-cart =
-    .label = Carel da la compre
+    .label = Carel de compre
 containers-icon-circle =
     .label = Pont
 containers-icon-vacation =
