@@ -317,6 +317,22 @@ about-logins-import-dialog-error-no-logins-imported = Noñemba’eguerúi tembia
 about-logins-import-dialog-error-learn-more = Kuaave
 about-logins-import-dialog-error-try-again = Eha’ãjey…
 about-logins-import-dialog-error-cancel = Heja
+about-logins-import-report-title = Mba’egueru Ñemomichĩ
+about-logins-import-report-description = Tembiapo ñepyrũ ha ñe’ẽñemi eguerupyre { -brand-short-name }-gui.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Tysyi’i { $number }
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
