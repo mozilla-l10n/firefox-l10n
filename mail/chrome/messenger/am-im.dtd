@@ -11,6 +11,6 @@
 <!ENTITY account.alias                 "Ψευδώνυμο:">
 <!ENTITY account.newMailNotification   "Ειδοποίηση για νέα email">
 <!ENTITY account.autojoin              "Κανάλια με αυτόματη σύνδεση:">
-<!ENTITY account.proxySettings.caption "Ρυθμίσεις διαμεσολαβητή:">
+<!ENTITY account.proxySettings.caption "Ρυθμίσεις διακομιστή μεσολάβησης:">
 <!ENTITY account.proxySettings.change.label     "Αλλαγή…">
-<!ENTITY account.proxySettings.change.accessKey "C">
+<!ENTITY account.proxySettings.change.accessKey "Α">
