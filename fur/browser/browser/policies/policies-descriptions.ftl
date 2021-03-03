@@ -88,4 +88,11 @@ policy-NewTabPage = Ative o disative la pagjine Gnove schede.
 policy-NoDefaultBookmarks = Disative la creazion dai segnelibris predefinîts includûts cun { -brand-short-name } e i segnelibris inteligjents (Plui visitâts, Etichetis resintis). Fâs câs: cheste politiche e vâl dome se doprade prime de prime esecuzion dal profîl.
 policy-OfferToSaveLogins = Apliche la impostazion par permeti a { -brand-short-name } di ufrî la pussibilitât di visâsi lis passwords e lis credenziâls salvadis. Ducj e doi i valôrs true e false (vêr e fals) a son valits.
 policy-OfferToSaveLoginsDefault = Stabilìs il valôr predefinît par permeti a { -brand-short-name } di ufrî la pussibilitât di visâsi lis passwords e lis credenziâls salvadis. Ducj e doi i valôrs true e false (vêr e fals) a son valits.
-policy-OverrideFirstRunPage = Sostituìs la pagjine de prime esecuzion. Met cheste politiche a valôr vueit se tu desideris disativâ la pagjine de prime esecuzion.
+policy-OverrideFirstRunPage = Anule la pagjine de prime esecuzion. Met cheste politiche a valôr vueit se tu desideris disativâ la pagjine de prime esecuzion.
+policy-OverridePostUpdatePage = Anule la pagjine “Novitâts” sucessive al inzornament. Met cheste politiche a valôr vueit se tu desideris disativâ la pagjine visualizade daspò un inzornament.
+policy-PasswordManagerEnabled = Ative il salvament des passwords tal gjestôr des passwords.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Disative o configure PDF.js, il visualizadôr PDF integrât in { -brand-short-name }.
+policy-Permissions2 = Configure i permès par fotocjamare, microfon, posizion, notifichis e pe riproduzion automatiche.
+policy-PictureInPicture = Ative o disative il Picture-in-Picture.
+policy-PopupBlocking = Permet a cierts sîts web di visualizâ i barcons a comparse in maniere predefinide.
