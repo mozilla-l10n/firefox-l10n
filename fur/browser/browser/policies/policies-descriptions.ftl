@@ -79,3 +79,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ripristine sui sîts s
 ##
 
 policy-LocalFileLinks = Permet a specifics sîts web di colegâsi a files locâi.
+policy-ManagedBookmarks = Al configure une liste di segnelibris gjestîts di un aministradôr che l'utent nol pues modificâ.
+policy-MasterPassword = Domande o impedìs la utilizazion di une password principâl.
+policy-ManualAppUpdateOnly = Permet dome i inzornaments manuâi e no sta visâ l'utent se a son disponibii inzornaments.
+policy-PrimaryPassword = Domande o impedìs la utilizazion i une password primarie.
