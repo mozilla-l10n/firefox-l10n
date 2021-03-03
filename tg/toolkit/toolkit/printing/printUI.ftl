@@ -33,6 +33,8 @@ printui-less-settings = Танзимоти камтар
 printui-paper-size-label = Андозаи қоғаз
 # Section title (noun) for the print scaling options
 printui-scale = Миқёс
+# Label for input control where user can set the scale percentage
+printui-scale-pcent = Миқёс
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
