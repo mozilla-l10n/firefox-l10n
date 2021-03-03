@@ -226,6 +226,7 @@ newtab-custom-row-selector =
        *[other] { $num } жол
     }
 newtab-custom-sponsored-sites = Демеушілік жарлықтары
+newtab-custom-pocket-title = { -pocket-brand-name } ұсынған
 newtab-custom-pocket-sponsored = Демеушілер мақалалары
 newtab-custom-recent-title = Жуырдағы белсенділік
 newtab-custom-close-button = Жабу
