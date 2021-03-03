@@ -2,16 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-panic-button-undo-warning = No si pues anulâ cheste azion.
+panic-button-open-new-window = Si vierzarà un gnûf barcon “net”
+panic-button-undo-warning = No si podarà anulâ cheste azion.
 panic-button-forget-button =
-    .label = Dismentê
+    .label = Dismentee!
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
+panic-main-timeframe-desc = Dismentee i ultins:
 panic-button-5min =
-    .label = Cinc minus
+    .label = Cinc minûts
 panic-button-2hr =
     .label = Doi oris
 panic-button-day =
