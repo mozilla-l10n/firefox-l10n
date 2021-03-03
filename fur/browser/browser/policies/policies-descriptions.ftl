@@ -74,6 +74,8 @@ policy-LegacyProfiles = Disative la funzion par sfuarçâ un profîl separât pa
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Ative la impostazion par doprâ come predefinît il compuartament ae vecje maniere dal atribût SameSite pai cookies.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ripristine sui sîts specificâts il compuartament ae vecje maniere dal atribût SameSite pai cookies.
 
 ##
 
+policy-LocalFileLinks = Permet a specifics sîts web di colegâsi a files locâi.
