@@ -47,6 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Par date e sît
     .accesskey = P
+places-history-search =
+    .placeholder = Cîr te cronologjie
+places-bookmarks-search =
+    .placeholder = Cîr tai segnelibris
 places-delete-domain-data =
     .label = Dismentee chest sît
     .accesskey = D
@@ -56,3 +60,12 @@ places-sortby-name =
 places-properties =
     .label = Proprietâts
     .accesskey = i
+# Managed bookmarks are created by an administrator and cannot be changed by the user.
+managed-bookmarks =
+    .label = Segnelibris gjestîts
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Sot-cartele
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Altris segnelibris
