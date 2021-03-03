@@ -346,3 +346,6 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = La rispueste OCSP no inclût
 mozilla-pkix-error-validity-too-long = Il servidôr al à presentât un certificât che al è valit di masse timp.
 mozilla-pkix-error-required-tls-feature-missing = E mancje une funzionalitât TLS necessarie.
 mozilla-pkix-error-invalid-integer-encoding = Il servidôr al à presentât un certificât che al conten une codifiche di intîr no valide. Lis causis plui comuns a includin numars seriâi negatîfs, modui RSA negatîfs e codifichis che a son plui lungjis di ce che al covente.
+mozilla-pkix-error-empty-issuer-name = Il servidôr al à presentât un certificât cuntun non distintîf de autoritât emitent vueit.
+mozilla-pkix-error-additional-policy-constraint-failed = Un vincul di politiche adizionâl al à falât cuant che si validave chest certificât.
+mozilla-pkix-error-self-signed-cert = Il certificât nol è fidât par vie che al è auto-firmât.
