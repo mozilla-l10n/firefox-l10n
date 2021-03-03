@@ -84,4 +84,4 @@ containers-icon-pet =
 containers-icon-tree =
     .label = Arbul
 containers-icon-chill =
-    .label = Divertiment
+    .label = Rilassament
