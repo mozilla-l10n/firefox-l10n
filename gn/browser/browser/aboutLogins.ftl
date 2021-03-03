@@ -348,6 +348,16 @@ about-logins-import-report-modified =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tembiapo ñepyrũ oĩva hekopyahupyre</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tembiapo ñepyrũ oĩva hekopyahupyre</div>
     }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tembiapo ñepyrũ mokõimbyre</div> <div data-l10n-name="not-imported">(ndojeguerúiva)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tembiapo ñepyrũ mokõimbyre</div> <div data-l10n-name="not-imported">(ndojeguerúiva)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Javy</div> <div data-l10n-name="not-imported">(ndojeguerúiva)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Javy</div> <div data-l10n-name="not-imported">(ndojeguerúiva)</div>
+    }
 
 ## Logins import report page
 

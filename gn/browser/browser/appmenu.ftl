@@ -45,7 +45,22 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Embojuehe ko’ág̃a
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Embojuehe ko’ág̃a
+    .value = Embojuehe ko’ág̃a
+appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Ñembojuehe ipyahuvéva { $time }
+    .label = Ñembojuehe ipyahuvéva { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Embojuehe ha eñongatu mba’ekuaarã
 appmenu-fxa-signed-in-label = Tembiapo ñepyrũ
+appmenu-fxa-setup-sync =
+    .label = Emyandy ñembojuehe…
 appmenuitem-save-page =
     .label = Ñongatu pyahu…
 
