@@ -35,3 +35,5 @@ text-action-select-all =
     .accesskey = λ
 text-action-select-all-shortcut =
     .key = A
+text-action-spell-no-suggestions =
+    .label = Καμία πρόταση ορθογραφίας

@@ -211,6 +211,13 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] Το { -brand-short-name } απέκλεισε πάνω από <b>{ $blockedCount }</b> ιχνηλάτες από τις { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+       *[other] Το { -brand-short-name } απέκλεισε πάνω από <b>{ $blockedCount }</b> ιχνηλάτες από τις { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = Προβολή όλων
     .accesskey = Π
 cfr-doorhanger-milestone-close-button = Κλείσιμο
@@ -237,6 +244,10 @@ cfr-whatsnew-pip-fullscreen-header = Επέκταση εικόνας-εντός-
 cfr-whatsnew-pip-fullscreen-body = Όταν προβάλλετε βίντεο σε αναδυόμενο παράθυρο, μπορείτε πλέον να κάνετε διπλό κλικ σε αυτό το παράθυρο για να μεταβείτε σε πλήρη οθόνη.
 cfr-whatsnew-pip-fullscreen-icon-alt = Εικονίδιο εικόνας-εντός-εικόνας
 
+## Protections Dashboard message
+
+
+## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Μέθοδοι προστασίες με μια ματιά
@@ -293,3 +304,7 @@ cfr-whatsnew-supercookies-body = Οι ιστοσελίδες μπορούν να
 
 cfr-whatsnew-bookmarking-header = Καλύτεροι σελιδοδείκτες
 cfr-whatsnew-bookmarking-body = Είναι πιο εύκολο να παρακολουθείτε τις αγαπημένες σας ιστοσελίδες. Το { -brand-short-name } απομνημονεύει πλέον την προτιμώμενη τοποθεσία σας για αποθηκευμένους σελιδοδείκτες, εμφανίζει τη γραμμή σελιδοδεικτών από προεπιλογή σε νέες καρτέλες και παρέχει εύκολη πρόσβαση στους υπόλοιπους σελιδοδείκτες σας μέσω ενός φακέλου στη γραμμή εργαλείων.
+
+## What's new: Cross-site cookie tracking
+
+cfr-whatsnew-cross-site-tracking-header = Πλήρης προστασία από τα cookies καταγραφής μεταξύ ιστοσελίδων
