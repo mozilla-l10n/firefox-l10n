@@ -92,3 +92,9 @@ perftools-thread-dns-resolver =
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
+-profiler-brand-name =
+    { $capitalization ->
+       *[lowercase] profileur de Firefox
+        [uppercase] Profileur de Firefox
+    }
+perftools-onboarding-message = <b>Nouveau</b> : le { -profiler-brand-name } est à présent intégré dans les outils de développement. <a>En savoir plus</a> sur ce nouvel outil puissant.
