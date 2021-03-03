@@ -98,7 +98,7 @@ extension-controlled-web-notifications = Une extension, <img data-l10n-name="ico
 extension-controlled-default-search = Une extension, <img data-l10n-name="icon"/> { $name }, a défini votre moteur de recherche par défaut.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Une extension, <img data-l10n-name="icon"/> { $name }, a besoin des onglets contextuels.
+extension-controlled-privacy-containers = Une extension, <img data-l10n-name="icon"/> { $name }, a besoin des onglets conteneurs.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Une extension, <img data-l10n-name="icon"/> { $name }, contrôle ce paramètre.
@@ -168,34 +168,34 @@ show-tabs-in-taskbar =
     .label = Afficher les aperçus d’onglets dans la barre des tâches de Windows
     .accesskey = c
 browser-containers-enabled =
-    .label = Activer les onglets contextuels
+    .label = Activer les onglets conteneurs
     .accesskey = g
 browser-containers-learn-more = En savoir plus
 browser-containers-settings =
     .label = Paramètres…
     .accesskey = s
-containers-disable-alert-title = Fermer tous les onglets contextuels ?
+containers-disable-alert-title = Fermer tous les onglets conteneurs ?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Si vous désactivez les onglets contextuels maintenant, { $tabCount } onglet contextuel sera fermé. Voulez-vous vraiment désactiver les onglets contextuels ?
-       *[other] Si vous désactivez les onglets contextuels maintenant, { $tabCount } onglets contextuels seront fermés. Voulez-vous vraiment désactiver les onglets contextuels ?
+        [one] Si vous désactivez les onglets conteneurs maintenant, { $tabCount } onglet conteneur sera fermé. Voulez-vous vraiment désactiver les onglets conteneurs ?
+       *[other] Si vous désactivez les onglets conteneurs maintenant, { $tabCount } onglets conteneurs seront fermés. Voulez-vous vraiment désactiver les onglets conteneurs ?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Fermer { $tabCount } onglet contextuel
-       *[other] Fermer { $tabCount } onglets contextuels
+        [one] Fermer { $tabCount } onglet conteneur
+       *[other] Fermer { $tabCount } onglets conteneurs
     }
 containers-disable-alert-cancel-button = Garder activé
-containers-remove-alert-title = Supprimer ce contexte ?
+containers-remove-alert-title = Supprimer ce conteneur ?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Si vous supprimez ce contexte maintenant, { $count } onglet contextuel sera fermé. Voulez-vous vraiment supprimer ce contexte ?
-       *[other] Si vous supprimez ce contexte maintenant, { $count } onglets contextuels seront fermés. Voulez-vous vraiment supprimer ce contexte ?
+        [one] Si vous supprimez ce conteneur maintenant, { $count } onglet conteneur sera fermé. Voulez-vous vraiment supprimer ce conteneur ?
+       *[other] Si vous supprimez ce conteneur maintenant, { $count } onglets conteneurs seront fermés. Voulez-vous vraiment supprimer ce conteneur ?
     }
-containers-remove-ok-button = Supprimer ce contexte
-containers-remove-cancel-button = Ne pas supprimer ce contexte
+containers-remove-ok-button = Supprimer ce conteneur
+containers-remove-cancel-button = Ne pas supprimer ce conteneur
 
 ## General Section - Language & Appearance
 
@@ -613,12 +613,12 @@ containers-back-button =
             [windows] Retour aux options
            *[other] Retour aux préférences
         }
-containers-header = Onglets contextuels
+containers-header = Onglets conteneurs
 containers-add-button =
-    .label = Ajouter un nouveau contexte
+    .label = Ajouter un nouveau conteneur
     .accesskey = A
 containers-new-tab-check =
-    .label = Sélectionner un contexte pour chaque nouvel onglet
+    .label = Sélectionner un conteneur pour chaque nouvel onglet
     .accesskey = S
 containers-preferences-button =
     .label = Préférences
