@@ -2,12 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-processes-title = Үрдістер басқарушысы
 # The Actions column
 about-processes-column-action =
     .title = Әрекеттер
 
 ## Tooltips
 
+about-processes-shutdown-process =
+    .title = Беттерді жауып, үрдісті өлтіру
 about-processes-shutdown-tab =
     .title = Бетті жабу
 
@@ -15,6 +19,7 @@ about-processes-shutdown-tab =
 
 about-processes-column-name = Аты
 about-processes-column-memory-resident = Жады
+about-processes-column-cpu-total = Процессор
 
 ## Process names
 ## Variables:
@@ -22,6 +27,8 @@ about-processes-column-memory-resident = Жады
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
+about-processes-browser-process-name = { -brand-short-name } (үрдіс { $pid })
+about-processes-web-process-name = Веб (үрдіс { $pid }, ортақ)
 about-processes-gpu-process-name = GPU (үрдіс { $pid })
 about-processes-vr-process-name = VR (үрдіс { $pid })
 
