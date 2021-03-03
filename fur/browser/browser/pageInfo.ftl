@@ -43,7 +43,7 @@ media-tab =
     .label = Media
     .accesskey = M
 media-location =
-    .value = Direzion:
+    .value = Ubicazion:
 media-text =
     .value = Test associât:
 media-alt-header =
@@ -61,10 +61,10 @@ media-dimension =
 media-long-desc =
     .value = Descrizion lungje:
 media-save-as =
-    .label = Salve cul non…
+    .label = Salve come…
     .accesskey = S
 media-save-image-as =
-    .label = Salve cul non…
+    .label = Salve come…
     .accesskey = e
 perm-tab =
     .label = Permès
@@ -87,7 +87,15 @@ security-view-identity-domain =
     .value = Sît web:
 security-view-identity-verifier =
     .value = Verificât par:
+security-view-identity-validity =
+    .value = Al scjât al/ai:
+security-view-privacy =
+    .value = Riservatece e cronologjie
 security-view-privacy-history-value = Aio visitât chest sît web prime di vuê?
+security-view-privacy-sitedata-value = Staial chest sît web archiviant informazions sul gno computer?
+security-view-privacy-clearsitedata =
+    .label = Nete i cookies e i dâts dal sît
+    .accesskey = c
 security-view-privacy-passwords-value = Aio salvât cualchi password par chest sît web?
 security-view-privacy-viewpasswords =
     .label = Visualize passwords salvadis
@@ -103,6 +111,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Sì, cookies e { $value } { $unit } di dâts dal sîts
+security-site-data-only = Sì, { $value } { $unit } di dâts dal sît
+security-site-data-cookies-only = Sì, cookies
+security-site-data-no = No
 
 ##
 
@@ -111,7 +123,7 @@ page-info-not-specified =
     .value = No specificât
 not-set-alternative-text = No specificât
 not-set-date = No specificât
-media-img = Figure
+media-img = Imagjin
 media-bg-img = Dâur
 media-object = Objet
 media-embed = Embed
