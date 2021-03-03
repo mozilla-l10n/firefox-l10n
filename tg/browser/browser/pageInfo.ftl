@@ -29,6 +29,10 @@ general-mode =
     .value = Навъи намоишӣ:
 general-size =
     .value = Андоза:
+general-modified =
+    .value = Санаи тағйир:
+general-encoding =
+    .value = Рамзгузории матн:
 general-meta-name =
     .label = Ном
 general-meta-content =
@@ -68,6 +72,9 @@ permissions-for =
 security-tab =
     .label = Амният
     .accesskey = А
+security-view =
+    .label = Дидани гувоҳинома
+    .accesskey = Д
 security-view-unknown = Номаълум
     .value = Номаълум
 security-view-identity-owner =
@@ -132,6 +139,17 @@ properties-general-size =
             [one] { $kb } КБ ({ $bytes } байт)
            *[other] { $kb } КБ ({ $bytes } байт)
         }
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = Тасвири { $type }
+# This string is used to display the size of a media
+# file in kilobytes
+# Variables:
+#   $size (number) - The size of the media file in kilobytes
+media-file-size = { $size } КБ
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
