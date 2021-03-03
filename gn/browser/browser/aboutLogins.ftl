@@ -323,11 +323,17 @@ about-logins-import-report-description = Tembiapo ñepyrũ ha ñe’ẽñemi egu
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Tysyi’i { $number }
+about-logins-import-report-row-description-no-change = Mokõimbyre: Ojokupyty tembiapo ñepyrũ oĩvare
+about-logins-import-report-row-description-modified = Tembiapo ñepyrũ oĩva hekopyahúma
+about-logins-import-report-row-description-added = Tembiapo ñepyrũ pyahu mbojuajupyre
+about-logins-import-report-row-description-error = Javy: Kora oĩ’ỹva
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Javy: Heta tepykue { $field } peg̃uarã
+about-logins-import-report-row-description-error-missing-field = Javy: Ndaipóri { $field }
 
 ##
 ## Variables:
