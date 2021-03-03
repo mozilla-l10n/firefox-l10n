@@ -170,7 +170,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Αποδοχή ρίσκου και συνέχεια">
 
-<!ENTITY errorReporting.automatic2 "Αναφέρετε σφάλματα όπως αυτό για να βοηθήσετε τη Mozilla στον εντοπισμό και αποκλεισμό κακόβουλων ιστοσελίδων">
+<!ENTITY errorReporting.automatic2 "Αναφορά σφαλμάτων όπως αυτό για να βοηθήσετε τη Mozilla στον εντοπισμό και αποκλεισμό κακόβουλων ιστοσελίδων">
 <!ENTITY errorReporting.learnMore "Μάθετε περισσότερα…">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul></p>">
