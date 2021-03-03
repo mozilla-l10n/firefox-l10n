@@ -34,6 +34,7 @@ about-processes-web-large-allocation = Веб (үрдіс { $pid }, үлкен),
 about-processes-with-coop-coep-process-name = Веб (үрдіс { $pid }, бөтен қайнар көзден оқшауланған), { $origin } үшін
 about-processes-file-process-name = Файлдар (үрдіс { $pid })
 about-processes-extension-process-name = Кеңейтулер (үрдіс { $pid })
+about-processes-privilegedabout-process-name = About беттері (үрдіс { $pid })
 about-processes-plugin-process-name = Плагиндер (үрдіс { $pid })
 about-processes-privilegedmozilla-process-name = Веб (үрдіс{ $pid }), { -vendor-short-name } сайттары үшін
 about-processes-gmp-plugin-process-name = Gecko медиа плагиндері (үрдіс { $pid })
