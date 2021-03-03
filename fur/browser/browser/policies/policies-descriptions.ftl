@@ -46,6 +46,12 @@ policy-DisableSafeMode = Disative la funzion par tornâ a inviâ in modalitât s
 policy-DisableSecurityBypass = Impedìs al utent di ignorâ cierts avertiments di sigurece.
 policy-DisableSetAsDesktopBackground = Disabilite il comant dal menù “Met come fondâl dal scritori” pes imagjins.
 policy-DisableSystemAddonUpdate = Impedìs al navigadôr di instalâ e inzornâ lis zontis di sisteme.
+policy-DisableTelemetry = Distude la telemetrie.
+policy-DisplayBookmarksToolbar = Visualize la sbare dai segnelibris tant che impostazion predefinide.
+policy-DisplayMenuBar = Visualize la sbare dai menù tant che impostazion predefinide.
+policy-DNSOverHTTPS = Configure DNS sore HTTPS.
+policy-DontCheckDefaultBrowser = Disative il control pal navigadôr predefinît al inviament.
+policy-DownloadDirectory = Stabilìs e bloche la cartele pai file discjariâts.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
