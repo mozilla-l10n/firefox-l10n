@@ -52,6 +52,10 @@ policy-DisplayMenuBar = Visualize la sbare dai menù tant che impostazion predef
 policy-DNSOverHTTPS = Configure DNS sore HTTPS.
 policy-DontCheckDefaultBrowser = Disative il control pal navigadôr predefinît al inviament.
 policy-DownloadDirectory = Stabilìs e bloche la cartele pai file discjariâts.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Abilite o disabilite il bloc dai contignûts e, in maniere opzionâl, blochilu.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Abilite o disabilite lis estensions multimediâls cifradis e, in maniere opzionâl, blochilis.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
