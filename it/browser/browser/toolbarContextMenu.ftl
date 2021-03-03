@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Riapri schede chiuse
         }
     .accesskey = a
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Riapri scheda chiusa
+           *[other] Riapri schede chiuse
+        }
+    .accesskey = a
 
 toolbar-context-menu-manage-extension =
     .label = Gestisci estensione

@@ -47,6 +47,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Riapri in contenitore
     .accesskey = e
+tab-context-open-in-container =
+    .label = Apri in nuovo contenitore
+    .accesskey = e
 move-to-start =
     .label = Sposta all’inizio
     .accesskey = z
@@ -68,6 +71,13 @@ tab-context-share-more =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 tab-context-undo-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Riapri scheda chiusa
+           *[other] Riapri schede chiuse
+        }
+    .accesskey = s
+tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] Riapri scheda chiusa
