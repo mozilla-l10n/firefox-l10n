@@ -6,15 +6,17 @@ places-open =
     .label = Vierç
     .accesskey = V
 places-open-tab =
-    .label = Vierç intune gnove lengute
+    .label = Vierç intune gnove schede
     .accesskey = l
 places-open-all-in-tabs =
-    .label = Vierç ducj intes lengutis
+    .label = Vierç ducj in schedis
     .accesskey = d
 places-open-window =
     .label = Vierç intun gnûf barcon
     .accesskey = b
-
+places-open-private-window =
+    .label = Vierç intun gnûf barcon privât
+    .accesskey = p
 places-new-bookmark =
     .label = Gnûf segnelibri…
     .accesskey = b
@@ -27,7 +29,6 @@ places-new-folder =
 places-new-separator =
     .label = Gnûf separadôr
     .accesskey = s
-
 places-view =
     .label = Viodude
     .accesskey = o
@@ -46,7 +47,6 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Par date e sît
     .accesskey = P
-
 places-delete-domain-data =
     .label = Dismentee chest sît
     .accesskey = D

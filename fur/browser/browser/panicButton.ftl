@@ -15,7 +15,7 @@ panic-main-timeframe-desc = Dismentee i ultins:
 panic-button-5min =
     .label = Cinc minûts
 panic-button-2hr =
-    .label = Doi oris
+    .label = Dôs oris
 panic-button-day =
     .label = 24 oris
 
@@ -25,3 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = Chest al compuarte:
+panic-button-delete-cookies = Eliminazion dai <strong>cookies</strong> plui resints
+panic-button-delete-history = Eliminazion de <strong>cronologjie</strong> plui resinte
+panic-button-delete-tabs-and-windows = Il sierâ dutis lis <strong>schedis</strong> e i <strong>barcons</strong>
