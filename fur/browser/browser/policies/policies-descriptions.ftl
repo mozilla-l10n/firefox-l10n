@@ -88,3 +88,4 @@ policy-NewTabPage = Ative o disative la pagjine Gnove schede.
 policy-NoDefaultBookmarks = Disative la creazion dai segnelibris predefinîts includûts cun { -brand-short-name } e i segnelibris inteligjents (Plui visitâts, Etichetis resintis). Fâs câs: cheste politiche e vâl dome se doprade prime de prime esecuzion dal profîl.
 policy-OfferToSaveLogins = Apliche la impostazion par permeti a { -brand-short-name } di ufrî la pussibilitât di visâsi lis passwords e lis credenziâls salvadis. Ducj e doi i valôrs true e false (vêr e fals) a son valits.
 policy-OfferToSaveLoginsDefault = Stabilìs il valôr predefinît par permeti a { -brand-short-name } di ufrî la pussibilitât di visâsi lis passwords e lis credenziâls salvadis. Ducj e doi i valôrs true e false (vêr e fals) a son valits.
+policy-OverrideFirstRunPage = Sostituìs la pagjine de prime esecuzion. Met cheste politiche a valôr vueit se tu desideris disativâ la pagjine de prime esecuzion.
