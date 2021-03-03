@@ -101,3 +101,14 @@ policy-PromptForDownloadLocation = Domande dulà salvâ i files cuant che si ju 
 policy-Proxy = Configure lis impostazions dal proxy.
 policy-RequestedLocales = Stabilìs la liste des localizazions (lenghis) desideradis pe aplicazion par ordin di preference.
 policy-SanitizeOnShutdown2 = Nete i dâts di navigazion ae jessude.
+policy-SearchBar = Stabilìs la posizion predefinide de sbare di ricercje. L'utent al pues distès personalizâle.
+policy-SearchEngines = Configure lis impostazions dal motôr di ricercje. Cheste politiche e je disponibile dome te version ESR (Publicazion cun supuart slargjât).
+policy-SearchSuggestEnabled = Ative o disative i sugjeriments di ricercje.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instale i modui PKCS #11.
+policy-SSLVersionMax = Stabilìs la massime version di SSL.
+policy-SSLVersionMin = Stabilìs la minime version di SSL.
+policy-SupportMenu = Zonte un element personalizât dal menù di supuart al menù di jutori.
+policy-UserMessaging = No sta mostrâ cierts messaçs al utent.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Bloche l'acès a cierts sîts web. Consulte la documentazion par vê plui detais sul formât.
