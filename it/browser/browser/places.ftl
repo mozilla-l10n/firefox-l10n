@@ -5,6 +5,32 @@
 places-open =
     .label = Apri
     .accesskey = A
+
+places-open-in-tab =
+    .label = Apri in nuova scheda
+    .accesskey = h
+places-open-all-bookmarks =
+    .label = Apri tutti i segnalibri
+    .accesskey = u
+places-open-in-window =
+    .label = Apri in nuova finestra
+    .accesskey = f
+places-open-in-private-window =
+    .label = Apri in nuova finestra anonima
+    .accesskey = m
+places-add-bookmark =
+    .label = Aggiungi segnalibro…
+    .accesskey = b
+places-add-folder-contextmenu =
+    .label = Aggiungi cartella…
+    .accesskey = n
+places-add-folder =
+    .label = Aggiungi cartella…
+    .accesskey = n
+places-add-separator =
+    .label = Aggiungi separatore
+    .accesskey = u
+
 places-open-tab =
     .label = Apri in nuova scheda
     .accesskey = h
@@ -64,6 +90,13 @@ places-sortby-name =
 places-properties =
     .label = Proprietà
     .accesskey = P
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Modifica segnalibro…
+    .accesskey = M
+places-edit-generic =
+    .label = Modifica…
+     .accesskey = M
 
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
@@ -74,3 +107,17 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
   .label = Altri segnalibri
+
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+      { $count ->
+          [1] Elimina segnalibro
+         *[other] Elimina segnalibri
+      }
+    .accesskey = E
+
+places-manage-bookmarks =
+    .label = Gestisci segnalibri
+    .accesskey = G
