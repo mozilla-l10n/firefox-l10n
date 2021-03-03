@@ -83,6 +83,7 @@ profiler-popup-reveal-description-button =
     .aria-label = Көбірек ақпаратты көрсету
 profiler-popup-description-title =
     .value = Жазу, талдау, бөлісу
+profiler-popup-description = Өзіңіздің командаңызбен бөлісу үшін профильдер жариялау арқылы өнімділік мәселелері бойынша бірлесіп жұмыс жасау.
 profiler-popup-learn-more = Көбірек білу
 profiler-popup-settings =
     .value = Баптаулар
