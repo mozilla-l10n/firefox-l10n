@@ -15,7 +15,7 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "m">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Moldar novamente">
-<!ENTITY editRewrapCmd.key "v">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "v">
 <!ENTITY findBarCmd.label "Localizar…">
 <!ENTITY findReplaceCmd.label "Localizar e substituir…">
