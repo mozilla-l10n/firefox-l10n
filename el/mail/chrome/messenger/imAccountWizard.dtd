@@ -23,7 +23,7 @@
 <!ENTITY accountAliasGroupbox.caption "Τοπικό Alias">
 <!ENTITY accountAliasField.label      "Ψευδώνυμο:">
 <!ENTITY accountAliasInfo.label       "Αυτό θα εμφανίζεται μόνο στις συνομιλίες σας που συμμετέχετε, οι απομακρυσμένες επαφές σας δεν θα το βλέπουν.">
-<!ENTITY accountProxySettings.caption "Ρυθμίσεις διαμεσολαβητή">
+<!ENTITY accountProxySettings.caption "Ρυθμίσεις διακομιστή μεσολάβησης">
 <!ENTITY accountProxySettings.change.label     "Αλλαγή…">
 <!ENTITY accountProxySettings.change.accessKey "γ">
 
