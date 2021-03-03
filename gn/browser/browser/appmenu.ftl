@@ -45,6 +45,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Embojuehe ko’ág̃a
+appmenu-fxa-signed-in-label = Tembiapo ñepyrũ
 appmenuitem-save-page =
     .label = Ñongatu pyahu…
 

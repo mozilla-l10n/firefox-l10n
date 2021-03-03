@@ -339,6 +339,15 @@ about-logins-import-report-row-description-error-missing-field = Javy: Ndaipóri
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Oñembojuaju tembiapo ñepyrũ pyahu</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tembiapo ñepyrũ oĩva hekopyahupyre</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tembiapo ñepyrũ oĩva hekopyahupyre</div>
+    }
 
 ## Logins import report page
 
