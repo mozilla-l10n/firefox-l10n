@@ -1049,7 +1049,6 @@ collection-header = Recoyida y usu de datos de { -brand-short-name }
 collection-description = Esforciámonos n'apurrite opciones y recoyer namás lo que precisamos pa fornir y ameyorar { -brand-short-name } pa tol mundu. Siempres pidimos permisu enantes de recibir información personal.
 collection-privacy-notice = Avisu de privacidá
 collection-health-report-telemetry-disabled = Yá nun permites que { -vendor-short-name } capture datos téunicos y d'interaición. Tolos datos vieyos van desaniciase en 30 díes.
-collection-health-report-telemetry-disabled-link = Deprender más
 collection-health-report =
     .label = Permitir a { -brand-short-name } qu'unvie datos téunicos y d'interaición a { -vendor-short-name }
     .accesskey = r
