@@ -4,7 +4,6 @@
 
 page-title = Informazions pal supuart
 page-subtitle = Cheste pagjine e conten informazions tecnichis che a podin jessi utilis cuant che tu stât cirint di risolvi un probleme. Se tu sês daûr a cirî rispuestis a lis domandis plui frecuentis su { -brand-short-name }, dai une cjalade al nestri <a data-l10n-name="support-link">sît web di supuart</a>.
-
 crashes-id = ID segnalazion
 extensions-title = Estensions
 extensions-name = Non
@@ -23,6 +22,7 @@ app-basics-enabled-plugins = Plugins instalâts
 app-basics-build-config = Configurazion de build
 app-basics-user-agent = Agjent utent
 app-basics-memory-use = Memorie doprade
+app-basics-safe-mode = Modalitât sigure
 modified-prefs-name = Non
 modified-prefs-value = Valôr
 user-js-title = user.js Preferencis
@@ -32,6 +32,7 @@ graphics-title = grafiche
 a11y-title = Acessibilitât
 a11y-activated = Ative
 copy-text-to-clipboard-label = Copie dut tai Aponts
+safe-mode-title = Prove la modalitât sigure
 restart-in-safe-mode-label = Torne a inviâ cu lis Zontis disativadis
 
 ## Media titles
@@ -61,7 +62,6 @@ crashes-time-minutes =
         [one] { $minutes } minut fa
        *[other] { $minutes } minuts fa
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -69,7 +69,6 @@ crashes-time-hours =
         [one] { $hours }ore fa
        *[other] { $hours } oris fa
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -77,7 +76,6 @@ crashes-time-days =
         [one] { $days } zornade fa
        *[other] { $days } zornadis fa
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -85,7 +83,6 @@ pending-reports =
         [one] Dutis lis segnalazions di bloc (includûts { $reports } i blocs par aiar tal interval di timp dât)
        *[other] dutis lis segnalazions di bloc (includûts { $reports } i blocs par aiar tal interval di timp dât)
     }
-
 raw-data-copied = Dâts no elaborâts copiâts tai aponts
 text-copied = Test copiât tai aponts
 
@@ -98,11 +95,9 @@ blocked-mismatched-version = Bloc par la version dal driver grafic no compatibil
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloc par la version in funzion dal driver grafic. Inzorne il driver grafic in funzion a la version { $driverVersion } o plui gnove.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametris ClearType
-
 compositing = Composizion
 hardware-h264 = Decodifiche H264 dal hardware
 main-thread-no-omtc = discussion principâl, no OMTC
@@ -115,7 +110,6 @@ no = No
 
 found = Cjatade
 missing = Mancjante
-
 gpu-description = Descrizion
 gpu-vendor-id = ID furnidôr
 gpu-device-id = ID dispositîf
@@ -136,34 +130,27 @@ webgl2-version = Version dal driver WebGL 2
 webgl2-driver-extensions = Estensions dal driver WebGL 2
 webgl2-extensions = Estensions WebGL2
 blocklisted-bug = Inte liste di bloc par causis cognossudis
-
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Inte liste di bloc; codiç di erôr { $failureCode }
-
 d3d11layers-crash-guard = Composizion D3D11
 d3d11video-crash-guard = Decoder video D3D11
 d3d9video-crash-guard = Decoder video D3D9
 glcontext-crash-guard = OpenGL
-
 reset-on-next-restart = Ripristine al prossim inviament
 gpu-process-kill-button = Finìs procès GPU
 gpu-device-reset-button = Restaurazion dal dispositîf di ativazion
 uses-tiling = Us di Mosaics
 content-uses-tiling = Us di Mosaics (contignût)
-
 loaded-lib-versions = Version in funzion
-
 has-user-namespaces = Spazis Non utent
 has-privileged-user-namespaces = Spazis Non utent par procès privilegjâts
 sandbox-proc-type-content = contignût
 sandbox-proc-type-file = contigût dal file
 sandbox-proc-type-media-plugin = plugin multimediâl
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -176,7 +163,7 @@ multi-process-status-6 = Disabilitât da input di test no supuartât
 multi-process-status-7 = Disabilitât da zontis
 multi-process-status-8 = Disabilitât par fuarce
 multi-process-status-unknown = Stât scognossût
-
+fission-status-disabled-by-safe-mode = Disativât de modalitât sigure
 apz-none = nissun
 keyboard-enabled = tastiere abilitade
 
@@ -189,3 +176,9 @@ keyboard-enabled = tastiere abilitade
 policies-inactive = Infatîf
 policies-active = Atîf
 policies-error = Erôr
+
+## Printing section
+
+
+## Normandy sections
+

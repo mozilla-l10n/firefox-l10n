@@ -42,6 +42,10 @@ policy-DisablePocket = Disabilite la funzionalitât par salvâ lis pagjinis web 
 policy-DisablePrivateBrowsing = Disabilite la navigazion privade.
 policy-DisableProfileImport = Disabilite il comant dal menù par impuartâ i dâts di un altri navigadôr.
 policy-DisableProfileRefresh = Disabilite il boton “Inzorne { -brand-short-name }” te pagjine about:support.
+policy-DisableSafeMode = Disative la funzion par tornâ a inviâ in modalitât sigure. Fâs câs: il tast Maiusc par jentrâ in modalitât sigure si pues disativâ dome in Windows doprant lis politichis di grup.
+policy-DisableSecurityBypass = Impedìs al utent di ignorâ cierts avertiments di sigurece.
+policy-DisableSetAsDesktopBackground = Disabilite il comant dal menù “Met come fondâl dal scritori” pes imagjins.
+policy-DisableSystemAddonUpdate = Impedìs al navigadôr di instalâ e inzornâ lis zontis di sisteme.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
