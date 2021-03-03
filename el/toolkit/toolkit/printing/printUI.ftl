@@ -40,6 +40,10 @@ printui-scale-pcent = Κλίμακα
 printui-two-sided-printing = Εκτύπωση δύο όψεων
 printui-duplex-checkbox = Εκτύπωση και στις δυο πλευρές
 printui-two-sided-printing-off = Ανενεργό
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Αναστροφή στο μακρύ άκρο
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Αναστροφή στο κοντό άκρο
 # Section title for miscellaneous print options
 printui-options = Επιλογές
 printui-headers-footers-checkbox = Εκτύπωση κεφαλίδων και υποσέλιδων
