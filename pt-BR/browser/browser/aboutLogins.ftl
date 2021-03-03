@@ -189,9 +189,9 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Será removida a conta que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não poderá desfazer esta ação.
-        [one] Será removida a conta que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não poderá desfazer esta ação.
-       *[other] Serão removidas as contas que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não poderá desfazer esta ação.
+        [1] Será removida a conta que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
+        [one] Será removida a conta que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
+       *[other] Serão removidas as contas que você salvou no { -brand-short-name } e quaisquer alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -200,9 +200,9 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não poderá desfazer esta ação.
-        [one] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não poderá desfazer esta ação.
-       *[other] Serão removidas todos as contas que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não poderá desfazer esta ação.
+        [1] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
+        [one] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
+       *[other] Serão removidas todos as contas que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
     }
 about-logins-confirm-export-dialog-title = Exportar contas e senhas
 about-logins-confirm-export-dialog-message = Suas senhas serão salvas em texto legível (exemplo, Senh@Ruim123), qualquer pessoa que consiga abrir o arquivo exportado poderá ver.

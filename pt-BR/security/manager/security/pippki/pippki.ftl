@@ -74,7 +74,7 @@ set-password-backup-pw =
     .value = Senha de backup do certificado:
 set-password-repeat-backup-pw =
     .value = Senha de backup do certificado (confirmar):
-set-password-reminder = Importante: caso você esqueça a senha do backup do certificado, não poderá restaurar este backup mais tarde. Anote em um local seguro.
+set-password-reminder = Importante: Se você esquecer a senha do backup de certificados, não poderá restaurar esse backup mais tarde. Anote em um local seguro.
 
 ## Protected Auth dialog
 
