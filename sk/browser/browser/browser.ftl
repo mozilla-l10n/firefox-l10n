@@ -542,3 +542,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Pracovať offline
     .accesskey = f
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Niektoré zvukové záznamy alebo videá na tejto stránke používajú softvér DRM, čo môže obmedzovať to, čo vám { -brand-short-name } dokáže umožniť urobiť s týmto obsahom.
