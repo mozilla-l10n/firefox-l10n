@@ -214,3 +214,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = آف  لائن  كریو كئم&
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = کوس تام آڈیو یا ویڈیو استعمال کران ڈی آر ایم سافٹْہ وْیر، یوس ذن حد کرِ  ذِ { -brand-short-name }  کیاہ دِیِہ توہیہ پانس سْیت کرنْہ۔   یتھ سایٹِہ پیٹھ چُھ
