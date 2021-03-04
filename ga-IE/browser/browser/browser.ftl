@@ -375,3 +375,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Oibrigh As Líne
     .accesskey = b
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Baineann roinnt comhad fuaime nó físe ar an suíomh seo leas as bogearraí DRM, rud a chuireann teorainn leis na rudaí is féidir le { -brand-short-name } a dhéanamh leis.
