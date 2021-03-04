@@ -438,3 +438,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ઓફલાઈન કામ કરો
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = આ સાઇટ પરના કેટલાક ઑડિઓ અથવા વિડિઓ DRM સૉફ્ટવેરનો ઉપયોગ કરે છે, જે { -brand-short-name } તમને તેની સાથે શું કરી શકે છે તે મર્યાદિત કરી શકે છે.
