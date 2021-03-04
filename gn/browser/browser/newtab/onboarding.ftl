@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Eiporavo peteĩva <span data-l10n-name="zap">ma’ẽ</span>
 onboarding-multistage-theme-subtitle = Eñemomba’e { -brand-short-name } peteĩ téma ndive
 onboarding-multistage-theme-primary-button-label = Eñongatu Téma
+onboarding-multistage-theme-primary-button-label2 = Apopyre
 onboarding-multistage-theme-secondary-button-label = Ani ko’ág̃a
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = ijeheguietéva

@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Peteĩva kuatiarogue pehẽ ndokói.</strong>
 crashed-subframe-learnmore =
     .label = Kuaave
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = Kuaave
 crashed-subframe-submit =
     .label = Emondo Marandu
     .accesskey = S
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Heta mba’epu térã ta’ãngamýi ko tenda pegua oipuru software DRM, upéva omomichĩ pe { -brand-short-name } ohejáva ejapo heseve.
+eme-notifications-drm-content-playing-manage = Eñangareko ñembohekóre
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Mosẽ
+eme-notifications-drm-content-playing-dismiss-accesskey = D
