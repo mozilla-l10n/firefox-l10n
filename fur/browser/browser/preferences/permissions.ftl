@@ -121,9 +121,16 @@ permissions-site-notification-disable-desc = Chest al impedirà a ducj i sîts w
 permissions-site-location-window =
     .title = Impostazions - Permès pe posizion
     .style = { permissions-window.style }
+permissions-site-location-desc = Chescj sîts web a àn domandât di cognossi la tô posizion. Tu puedis specificâ cuai sîts web a puedin savê la tô posizion. Tu puedis ancje blocâ lis gnovis richiestis par cognossi la tô posizion.
+permissions-site-location-disable-label =
+    .label = Bloche lis gnovis richiestis par cognossi la tô posizion
+permissions-site-location-disable-desc = Chest al impedirà a ducj i sîts web che no son listâts achì parsore di domandâ il permès par savê la tô posizion. Blocant l'acès ae tô posizion cualchi sît web al podarès vê malfunzionaments.
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Impostazions - Permès pe realtât virtuâl
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
