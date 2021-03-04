@@ -238,6 +238,6 @@ newtab-custom-close-button = Siere
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
-newtab-custom-snippets-title = Notis interativis
+newtab-custom-snippets-title = Piçulis notis
 newtab-custom-snippets-subtitle = Conseis e notiziis di { -vendor-short-name } e { -brand-product-name }
 newtab-custom-settings = Gjestìs plui impostazions

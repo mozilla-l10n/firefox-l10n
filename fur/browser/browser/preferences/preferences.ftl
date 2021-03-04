@@ -533,6 +533,20 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Ativitât resinte
 home-prefs-recent-activity-description = Une selezion di sîts e contignûts resints
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Piçulis notis
+home-prefs-snippets-description = Inzornaments di { -vendor-short-name } e { -brand-product-name }
+home-prefs-snippets-description-new = Sugjeriments e novitâts di { -vendor-short-name } e { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } rie
+           *[other] { $num } riis
+        }
 
 ## Search Section
 
