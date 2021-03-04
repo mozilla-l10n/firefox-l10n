@@ -590,3 +590,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = اعمل دون اتصال
     .accesskey = ع
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = تستخدم بعض الملفات الصوتية أو الفيديو على هذا الموقع برمجيات لإدارة الحقوق الرقمية، والتي قد تحد ما يستطيع { -brand-short-name } أن يسمح لك بفعله مع هذه الملفات.
