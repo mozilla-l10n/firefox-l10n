@@ -658,4 +658,10 @@ more-menu-go-offline =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Některé zvuky nebo videa na této stránce používají DRM software, což může omezit { -brand-short-name } při práci s tímto obsahem.
+eme-notifications-drm-content-playing =
+    Některé zvuky nebo videa na této stránce používají DRM software, což může omezit { -brand-short-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } při práci s tímto obsahem.
