@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = <span data-l10n-name="zap">외양</span> 선택하기
 onboarding-multistage-theme-subtitle = 테마로 { -brand-short-name }를 개인화하세요.
 onboarding-multistage-theme-primary-button-label = 테마 저장
+onboarding-multistage-theme-primary-button-label2 = 완료
 onboarding-multistage-theme-secondary-button-label = 나중에
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = 자동

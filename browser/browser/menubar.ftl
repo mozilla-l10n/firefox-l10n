@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = 문제 해결 정보…
     .accesskey = T
+menu-help-more-troubleshooting-info =
+    .label = 추가 문제 해결 정보
+    .accesskey = T
 menu-help-taskmanager =
     .label = 작업 관리자
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = 부가 기능을 켜고 다시 시작
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = 문제 해결 모드
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = 문제 해결 모드 끄기
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
