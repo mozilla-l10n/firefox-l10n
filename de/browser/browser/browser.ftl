@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Offline arbeiten
     .accesskey = O
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Einige Audio- oder Videodateien auf dieser Seite nutzen DRM-Kopierschutz, der einschränkt, was Sie in { -brand-short-name } damit tun können.
