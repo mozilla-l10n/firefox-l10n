@@ -540,3 +540,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Treballar difuera de linia
     .accesskey = d
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Bell audio u video d'iste puesto fan servir software DRM, o qual puet limitar o que { -brand-short-name } le deixará fer con ell.
