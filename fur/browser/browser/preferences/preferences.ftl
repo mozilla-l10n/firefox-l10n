@@ -550,6 +550,9 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
+search-bar-header = Sbare di ricercje
+search-bar-hidden =
+    .label = Dopre la sbare de direzion par ricercjis e pe navigazion
 search-choose-keyword-column =
     .label = Peraule clâf
 # This warning is displayed when the chosen keyword is already in use
