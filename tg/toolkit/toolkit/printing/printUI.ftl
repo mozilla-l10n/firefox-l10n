@@ -33,8 +33,19 @@ printui-less-settings = Танзимоти камтар
 printui-paper-size-label = Андозаи қоғаз
 # Section title (noun) for the print scaling options
 printui-scale = Миқёс
+printui-scale-fit-to-page-width = Мутобиқат ба паҳнии саҳифа
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Миқёс
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Чопи дутарафа
+printui-duplex-checkbox = Чоп дар ҳар ду тараф
+printui-two-sided-printing-off = Ғайрифаъол
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Муқовабандӣ аз тарафи дароз
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Муқовабандӣ аз тарафи кӯтоҳ
+# Section title for miscellaneous print options
+printui-options = Имконот
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
