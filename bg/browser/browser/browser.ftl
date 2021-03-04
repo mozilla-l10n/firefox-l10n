@@ -575,3 +575,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Работа извън мрежата
     .accesskey = Р
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Аудио или видеозапис от страницата използва софтуер за DRM, който може да ограничи какво { -brand-short-name } ви позволява да правите с тях.
