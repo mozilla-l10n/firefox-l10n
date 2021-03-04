@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = 使用容器開啟
     .accesskey = e
+tab-context-open-in-container =
+    .label = 用新容器開啟
+    .accesskey = e
 move-to-start =
     .label = 移動至開頭
     .accesskey = S
@@ -91,6 +94,13 @@ move-tabs =
 move-tab =
     .label = 移動分頁
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] 回復關閉的分頁
+           *[other] 回復關閉的 { $count } 個分頁
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->

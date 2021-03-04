@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] 復原已關閉分頁
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] 回復關閉的分頁
+           *[other] 回復關閉的 { $count } 個分頁
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = 管理擴充套件
     .accesskey = E

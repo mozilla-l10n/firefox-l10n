@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = 更多工具
 appmenuitem-exit =
     .label = 結束
+appmenu-menu-button-closed =
+    .tooltiptext = 開啟應用程式選單
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = 關閉應用程式選單
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = 登入
 appmenu-fxa-setup-sync =
     .label = 開啟同步…
+appmenu-fxa-show-more-tabs = 顯示更多分頁
 appmenuitem-save-page =
     .label = 另存新檔…
 
@@ -144,6 +151,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = 疑難排解資訊
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = 更多疑難排解資訊
+    .accesskey = T
 appmenu-help-taskmanager =
     .label = 工作管理員
 appmenu-help-report-site-issue =
@@ -161,6 +171,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = 重新啟動並啟用附加元件
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = 疑難排解模式
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = 關閉疑難排解模式
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
