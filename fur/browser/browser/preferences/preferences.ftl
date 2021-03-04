@@ -49,6 +49,14 @@ category-sync2 =
 pane-experimental-title = Esperiments di { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperiments di { -brand-short-name }
+pane-experimental-subtitle = Continue cun cautele
+pane-experimental-search-results-header = Esperiments di { -brand-short-name }: continue cun cautele
+pane-experimental-description = Modificant lis preferencis di configurazion avanzadis si pues lâ a tocjâ lis prestazions di { -brand-short-name } o la sigurece.
+pane-experimental-reset =
+    .label = Ripristine predefinîts
+    .accesskey = R
+help-button-label = Supuart par { -brand-short-name }
+addons-button-label = Estensions e temis
 focus-search =
     .key = f
 close-button =
@@ -56,7 +64,12 @@ close-button =
 
 ## Browser Restart Dialog
 
-should-restart-title = Torne a inviâ { -brand-short-name }
+feature-enable-requires-restart = Si scugne tornâ a inviâ { -brand-short-name } par ativâ cheste funzion.
+feature-disable-requires-restart = Si scugne tornâ a inviâ { -brand-short-name } par disativâ cheste funzion.
+should-restart-title = Torne invie { -brand-short-name }
+should-restart-ok = Torne invie { -brand-short-name } cumò
+cancel-no-restart-button = Anule
+restart-later = Torne invie plui indenant
 
 ## Extension Control Notifications
 ##
@@ -68,6 +81,18 @@ should-restart-title = Torne a inviâ { -brand-short-name }
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Une estension, <img data-l10n-name="icon"/>{ $name }, e sta controlant la tô pagjine iniziâl.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Une estension, <img data-l10n-name="icon"/>{ $name }, e sta controlant la tô pagjine Gnove schede.
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlled-password-saving = Une estension, <img data-l10n-name="icon"/>{ $name }, e sta controlant cheste impostazion.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Une estension, <img data-l10n-name="icon"/>{ $name }, e sta controlant cheste impostazion.
 
 ## Preferences UI Search Results
 
