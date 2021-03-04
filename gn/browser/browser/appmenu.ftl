@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Tembipuruve
 appmenuitem-exit =
     .label = Ñesẽ
+appmenu-menu-button-closed =
+    .tooltiptext = Embojuruja tembipuru’i poravorã
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Emboty tembipuru’i poravorã
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Tembiapo ñepyrũ
 appmenu-fxa-setup-sync =
     .label = Emyandy ñembojuehe…
+appmenu-fxa-show-more-tabs = Ehechaukave tendayke
 appmenuitem-save-page =
     .label = Ñongatu pyahu…
 
@@ -163,6 +170,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Moĩmbaha oguepyréva moñepyrũjey
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
