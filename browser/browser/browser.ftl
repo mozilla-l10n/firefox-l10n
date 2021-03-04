@@ -615,3 +615,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = آفلاین کار کن
     .accesskey = ک
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ویدئو یا صدا در این سایت به نرم‌افزار DRM نیاز دارد، که امکان دارد امکاناتی که { -brand-short-name } به شما میدهد را محدود کند.
