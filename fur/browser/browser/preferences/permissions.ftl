@@ -94,13 +94,23 @@ permissions-exceptions-saved-logins-desc = Lis credenziâls par chescj sîts web
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin instalâ lis zontis. Inserìs la direzion dal sît che tu vuelis dâi il permès e cjalcje su Permet.
+permissions-exceptions-addons-window =
+    .title = Sîts web permetûts - Instalazion zontis
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin instalâ lis zontis. Inserìs la direzion esate dal sît che tu vuelis dâi il permès e frache Permet.
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Impostazions - Riproduzion automatiche
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Achì tu puedis gjestî i sîts che no van daûr des tôs impostazions predefinidis di riproduzion automatiche.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Impostazions - Permès di notifiche
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
