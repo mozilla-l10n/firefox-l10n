@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Dobrir dins un onglet novèl
     .accesskey = o
+places-open-in-tab =
+    .label = Dobrir dins un onglet novèl
+    .accesskey = D
+places-open-all-bookmarks =
+    .label = Dobrir totes los marcapaginas
+    .accesskey = D
 places-open-all-in-tabs =
     .label = Tot dobrir dins d'onglets
     .accesskey = o
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Separador novèl
     .accesskey = S
+places-open-in-window =
+    .label = Dobrir dins una fenèstra novèla
+    .accesskey = f
+places-open-in-private-window =
+    .label = Dobrir dins una fenèstra privada
+    .accesskey = p
+places-add-bookmark =
+    .label = Apondre un marcapagina…
+    .accesskey = A
+places-add-folder-contextmenu =
+    .label = Apondre un dossièr…
+    .accesskey = d
+places-add-folder =
+    .label = Apondre un dossièr…
+    .accesskey = d
+places-add-separator =
+    .label = Apondre un separador
+    .accesskey = s
 places-view =
     .label = Visualizar
     .accesskey = z
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Proprietats
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Modificar lo marcapagina…
+    .accesskey = M
+places-edit-generic =
+    .label = Modificar…
+    .accesskey = M
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcapaginas constrenches
@@ -69,3 +100,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Autres marcapaginas
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Suprimir lo marcapagina
+            [one] Suprimir lo marcapagina
+           *[other] Suprimir los marcapaginas
+        }
+    .accesskey = S
+places-manage-bookmarks =
+    .label = Gerir los marcapaginas
+    .accesskey = G
