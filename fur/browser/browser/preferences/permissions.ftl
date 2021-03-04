@@ -90,6 +90,7 @@ permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts
 permissions-exceptions-saved-logins-window =
     .title = Ecezions - Credenziâls salvadis
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Lis credenziâls par chescj sîts web no vignaran salvadis
 
 ## Exceptions - Add-ons
 
