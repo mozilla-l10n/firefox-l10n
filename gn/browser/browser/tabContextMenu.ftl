@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Embojurujajey guerekohápe
     .accesskey = e
+tab-context-open-in-container =
+    .label = Ijuruja guerekoha pyahúpe
+    .accesskey = e
 move-to-start =
     .label = Eguerova Ñepyrũme
     .accesskey = S
@@ -92,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Eguerova tendayke
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Embojurujajey tendayke mbotypyre
+            [one] Embojurujajey tendayke mbotypyre
+           *[other] Embojurujajey umi tendayke mbotypyre
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->

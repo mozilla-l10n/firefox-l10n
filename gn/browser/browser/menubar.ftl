@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Marandu apañuãi myatyrõrã
     .accesskey = T
+menu-help-more-troubleshooting-info =
+    .label = Maranduve apañuãi ñemyatyrõ rehegua
+    .accesskey = T
 menu-help-taskmanager =
     .label = Tembiapo ñangarekohára
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Moĩmbaha oguepyréva moñepyrũjey
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Mba’éicha emyatyrõta apañuãi
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Eipe’a mba’éicha emyatyrõta apañuãi
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

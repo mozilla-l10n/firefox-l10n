@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Emboguevi tendayke mboty
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Embojurujajey tendayke mbotypyre
+            [one] Embojurujajey tendayke mbotypyre
+           *[other] Embojurujajey umi tendayke mbotypyre
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Emongu’e jepysokue
     .accesskey = E
