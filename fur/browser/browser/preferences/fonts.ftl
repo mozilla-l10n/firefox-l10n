@@ -4,12 +4,15 @@
 
 fonts-window =
     .title = Caratars
-
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
+fonts-langgroup-header = Caratars par
+    .accesskey = C
+fonts-langgroup-arabic =
+    .label = Arap
 fonts-langgroup-armenian =
     .label = Armen
 fonts-langgroup-bengali =
@@ -49,8 +52,12 @@ fonts-langgroup-latin =
     .label = Latin
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Matematiche
+fonts-langgroup-odia =
+    .label = Odia
 fonts-langgroup-sinhala =
-    .label = Sinhala
+    .label = Cingalês
 fonts-langgroup-tamil =
     .label = Tamil
 fonts-langgroup-telugu =
@@ -61,14 +68,23 @@ fonts-langgroup-tibetan =
     .label = Tibetan
 fonts-langgroup-canadian =
     .label = Silabari canadês unificât
+fonts-langgroup-other =
+    .label = Altris sistemis di scriture
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Proporzionâl
+    .accesskey = P
 fonts-default-serif =
-    .label = Cun graciis
+    .label = Serif (cun graciis)
 fonts-default-sans-serif =
-    .label = Cence graciis
-
+    .label = Sans Serif (cence graciis)
+fonts-proportional-size = Dimension
+    .accesskey = D
+fonts-serif = Serif (cun graciis)
+    .accesskey = S
+fonts-sans-serif = Sans-serif (cence graciis)
+    .accesskey = n
 fonts-minsize-none =
     .label = Nissune
 
@@ -97,7 +113,6 @@ fonts-languages-fallback-name-turkish =
     .label = Turc
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamit
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
