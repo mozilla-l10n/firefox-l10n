@@ -121,7 +121,7 @@ permissions-site-notification-disable-desc = Chest al impedirà a ducj i sîts w
 permissions-site-location-window =
     .title = Impostazions - Permès pe posizion
     .style = { permissions-window.style }
-permissions-site-location-desc = Chescj sîts web a àn domandât di cognossi la tô posizion. Tu puedis specificâ cuai sîts web a puedin savê la tô posizion. Tu puedis ancje blocâ lis gnovis richiestis par cognossi la tô posizion.
+permissions-site-location-desc = Chescj sîts web a àn domandât di cognossi la tô posizion. Tu puedis specificâ cuai sîts web a puedin savê la tô posizion. Tu puedis ancje blocâ lis gnovis richiestis che a domandin di cognossi la tô posizion.
 permissions-site-location-disable-label =
     .label = Bloche lis gnovis richiestis par cognossi la tô posizion
 permissions-site-location-disable-desc = Chest al impedirà a ducj i sîts web che no son listâts achì parsore di domandâ il permès par savê la tô posizion. Blocant l'acès ae tô posizion cualchi sît web al podarès vê malfunzionaments.
@@ -131,9 +131,17 @@ permissions-site-location-disable-desc = Chest al impedirà a ducj i sîts web c
 permissions-site-xr-window =
     .title = Impostazions - Permès pe realtât virtuâl
     .style = { permissions-window.style }
+permissions-site-xr-desc = Chescj sîts web a àn domandât di doprâ il to dispositîf pe realtât virtuâl. Tu puedis specificâ cuai che a son i sîts web che a puedin acedi al to dispositîf di realtât virtuâl. Tu puedis ancje blocâ lis gnovis richiestis che a domandin di acedi ai dispositîfs di realtât virtuâl.
+permissions-site-xr-disable-label =
+    .label = Bloche lis gnovis richiestis che a domandin di acedi ai tiei dispositîfs di realtât virtuâl
+permissions-site-xr-disable-desc = Chest al impedirà a ducj i sîts web che no son listât achì parsore di domandâ il permès di acedi ai tiei dispositîfs di realtât virtuâl. Blocant l'acès ai tiei dispositîfs di realtât virtuâl cualchi sît web al podarès vê malfunzionaments.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Impostazions - Permès pe fotocjamare
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Chescj sîts web a àn domandât di doprâ la tô fotocjamare. Tu puedis specificâ cuai che a son i sîts web che a puedin acedi ae tô fotocjamare. Tu puedis ancje blocâ lis gnovis richiestis che a domandin di acedi ae tô fotocjamare.
 
 ## Site Permissions - Microphone
 
