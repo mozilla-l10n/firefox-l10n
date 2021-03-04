@@ -2,26 +2,55 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Mande ai sîts web un segnâl “Do Not Track” che al indiche che no tu vuelis vignî spiât
+do-not-track-learn-more = Plui informazions
+do-not-track-option-default-content-blocking-known =
+    .label = Dome cuant che { -brand-short-name } al è configurât par blocâ lis spiis (trackers) cognossudis
+do-not-track-option-always =
+    .label = Simpri
 pref-page-title =
     { PLATFORM() ->
         [windows] Opzions
        *[other] Preferencis
     }
-
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Cjate tes Opzions
+           *[other] Cjate tes Preferencis
+        }
+managed-notice = Il to navigadôr al ven gjestît de tô organizazion.
+category-list =
+    .aria-label = Categoriis
 pane-general-title = Gjenerâl
 category-general =
     .tooltiptext = { pane-general-title }
-
+pane-home-title = Pagjine iniziâl
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Cîr
 category-search =
     .tooltiptext = { pane-search-title }
-
+pane-privacy-title = Riservatece e sigurece
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
+pane-experimental-title = Esperiments di { -brand-short-name }
+category-experimental =
+    .tooltiptext = Esperiments di { -brand-short-name }
 focus-search =
     .key = f
-
 close-button =
     .aria-label = Siere
 
@@ -46,28 +75,21 @@ should-restart-title = Torne a inviâ { -brand-short-name }
 ## General Section
 
 startup-header = Inizi
-
 tabs-group-header = Lengutis
-
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Caratars e colôrs
-
 advanced-fonts =
     .label = Avanzât…
     .accesskey = v
-
 colors-settings =
     .label = Colôrs…
     .accesskey = C
-
 choose-language-description = Sielç la tô lenghe preferide par visualizâ pagjinis
-
 choose-button =
     .label = Sielç…
     .accesskey = S
-
 translate-exceptions =
     .label = Ecezions…
     .accesskey = z
@@ -75,11 +97,9 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Discjamadis
-
 download-save-to =
     .label = Salve i files in
     .accesskey = S
-
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -91,50 +111,40 @@ download-choose-folder =
             [macos] S
            *[other] g
         }
-
 applications-type-column =
     .label = Gnenar di contignût
     .accesskey = t
-
 applications-action-column =
     .label = Azion
     .accesskey = A
-
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = file { $extension }
 applications-action-save =
     .label = Salve file
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Dopre { $app-name }
-
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Dopre { $app-name } (predeterminade)
-
 applications-use-other =
     .label = Dopre alc altri…
 applications-select-helper = Sielç la aplicazion di supuart
-
 applications-manage-app =
     .label = Detais de aplicazion…
 applications-always-ask =
     .label = Domande simpri
 applications-type-pdf = Portable Document Format (PDF)
-
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
-
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -146,19 +156,14 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
-
 applications-action-save-label =
     .value = { applications-action-save.label }
-
 applications-use-app-label =
     .value = { applications-use-app.label }
-
 applications-always-ask-label =
     .value = { applications-always-ask.label }
-
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
-
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -177,15 +182,12 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Navigazion
-
 browsing-use-autoscroll =
     .label = Dopre scoriment automatic
     .accesskey = a
-
 browsing-use-smooth-scrolling =
     .label = Dopre scoriment continuât
     .accesskey = c
-
 browsing-use-cursor-navigation =
     .label = Dopre simpri i tascj di moviment inte tastiere par navigâ intes pagjinis
     .accesskey = D
@@ -219,6 +221,7 @@ use-current-pages =
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+
 ##
 
 
@@ -226,7 +229,6 @@ use-current-pages =
 
 search-choose-keyword-column =
     .label = Peraule clâf
-
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Peraule clâf duplicade
@@ -238,14 +240,8 @@ search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade p
 ## Containers Section
 
 
-## Sync Section - Signed out
-
-
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
-
-
-## Sync Section - Signed in
 
 
 ## Firefox Account - Signed in
@@ -262,10 +258,8 @@ search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade p
 
 ## The device name controls.
 
+
 ## Privacy Section
-
-
-## Privacy Section - Forms
 
 
 ## Privacy Section - Logins and Passwords
@@ -273,41 +267,37 @@ search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade p
 forms-exceptions =
     .label = Ecezions…
     .accesskey = z
-
 forms-master-pw-use =
     .label = Dopre une password gjenerâl
     .accesskey = u
+# This string uses the former name of the Primary Password feature
+# ("Master Password" in English) so that the preferences can be found
+# when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
     .label = Cambie la password gjenerâl…
     .accesskey = m
-
 forms-master-pw-fips-title = Tu sês cumò tal mût FIPS. FIPS al domande une password gjenerâl no vueide.
-
 forms-master-pw-fips-desc = Cambiament de password falît
 
 ## OS Authentication dialog
 
+
 ## Privacy Section - History
 
 history-header = Cronologjie
-
 history-remember-option-all =
     .label = Salve la cronologjie
 history-remember-option-never =
     .label = No stâ mai salvâ la cronologjie
 history-remember-option-custom =
     .label = Dopre impostazions personalizadis pe cronologjie
-
 history-dontremember-description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e no sarà mantignude nissune cronologjie di navigazion.
-
 history-remember-search-option =
     .label = Memorize la cronologjie des ricercjis e dai modui
     .accesskey = M
-
 history-clear-on-close-option =
     .label = Nete fûr la cronologjie cuant che si siere { -brand-short-name }
     .accesskey = r
-
 history-clear-on-close-settings =
     .label = Parametris…
     .accesskey = t
@@ -333,6 +323,7 @@ addressbar-locbar-openpage-option =
 
 ##
 
+
 ## Privacy Section - Tracking
 
 
@@ -341,11 +332,9 @@ addressbar-locbar-openpage-option =
 permissions-block-popups =
     .label = Bloche i barcons pop-up
     .accesskey = B
-
 permissions-block-popups-exceptions =
     .label = Ecezions…
     .accesskey = E
-
 permissions-addon-exceptions =
     .label = Ecezions…
     .accesskey = E
@@ -365,9 +354,9 @@ certs-header = Certificâts
 
 ## Privacy Section - HTTPS-Only
 
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamadis
 choose-download-folder-title = Sielç une cartele pes discjamadis:
-
