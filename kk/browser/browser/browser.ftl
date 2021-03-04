@@ -614,3 +614,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Дербес жұмыс істеу
     .accesskey = Д
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Бұл сайттын кейбір аудио не видеосы DRM БҚ қолдануда, онымен { -brand-short-name } не жасай алатынын шектеуі мүмкін.
