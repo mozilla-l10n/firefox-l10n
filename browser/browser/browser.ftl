@@ -496,3 +496,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Tööta võrguta
     .accesskey = T
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Osa sellel lehel olevast audiost või videost kasutab DRM-tarkvara, mis võib piirata seda, mida { -brand-short-name } saab lubada sul sellega teha.
