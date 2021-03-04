@@ -542,3 +542,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Lucrează offline
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Unele elemente audio sau video de pe acest site folosesc programe DRM, care pot limita ceea ce îți permite { -brand-short-name } să faci cu ele.
