@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Άνοιγμα ξανά σε θεματική καρτέλα
     .accesskey = ξ
+tab-context-open-in-container =
+    .label = Άνοιγμα σε νέα θεματική καρτέλα
+    .accesskey = ο
 move-to-start =
     .label = Μετακίνηση στην αρχή
     .accesskey = α
@@ -92,6 +95,13 @@ move-tabs =
 move-tab =
     .label = Μετακίνηση καρτέλας
     .accesskey = ν
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Επαναφορά κλειστής καρτέλας
+           *[other] Επαναφορά κλειστών καρτελών
+        }
+    .accesskey = φ
 tab-context-close-tabs =
     .label =
         { $tabCount ->
