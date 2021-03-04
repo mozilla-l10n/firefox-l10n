@@ -530,6 +530,9 @@ home-prefs-highlights-option-most-recent-download =
     .label = Discjariâts plui di resint
 home-prefs-highlights-option-saved-to-pocket =
     .label = Pagjinis salvadis su { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = Ativitât resinte
+home-prefs-recent-activity-description = Une selezion di sîts e contignûts resints
 
 ## Search Section
 
