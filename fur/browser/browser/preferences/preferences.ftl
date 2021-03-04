@@ -366,9 +366,28 @@ update-application-auto =
 update-application-check-choose =
     .label = Controlâ la disponibilitât di inzornaments ma permeti al utent di sielzi se instalâju
     .accesskey = C
+update-application-manual =
+    .label = Mai controlâ la disponibilitât di inzornaments (disconseât)
+    .accesskey = M
+update-application-warning-cross-user-setting = Cheste impostazion e vignarà aplicade a ducj i account di Windows e ai profîi di { -brand-short-name } che a doprin cheste instalazion di { -brand-short-name }.
 update-application-use-service =
-    .label = Dopre servizi in background par instalâ i inzornaments
-    .accesskey = b
+    .label = Dopre un servizi in sotfont par instalâ i inzornaments
+    .accesskey = v
+update-setting-write-failure-title = Erôr tal salvâ lis preferencis di inzornament
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } al à vût un erôr e nol è rivât a salvâ cheste modifiche. Viôt che par configurâ cheste preference di inzornament al covente il permès di scriture sul file chi sot. Tu (o un aministradôr di sisteme) tu podaressis risolvi l'erôr garantint al grup Utents il plen control di chest file.
+    
+    Impussibil scrivi sul file: { $path }
+update-in-progress-title = Inzornament in vore
+update-in-progress-message = Desideristu che { -brand-short-name } al continui cun chest inzornament?
+update-in-progress-ok-button = &Interomp
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Continue
 
 ## General Section - Performance
 
