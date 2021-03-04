@@ -109,3 +109,4 @@ perftools-tools-threads-input-label =
 ## preferences are true.
 
 -profiler-brand-name = Firefox Profiler
+perftools-onboarding-message = <b> Նոր </b>: { -profiler-brand-name }-ն այժմ ընդգրկուած է մշակողների գործիքներում: <a> Իմանալ աւելին </a> այս նոր հզաւր գործիքի մասին:
