@@ -416,10 +416,13 @@ browsing-use-autoscroll =
     .label = Dopre scoriment automatic
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = Dopre scoriment continuât
+    .label = Dopre scoriment delicât
+    .accesskey = c
+browsing-use-onscreen-keyboard =
+    .label = Se al è necessari, mostre une tastiere virtuâl
     .accesskey = c
 browsing-use-cursor-navigation =
-    .label = Dopre simpri i tascj di moviment inte tastiere par navigâ intes pagjinis
+    .label = Dopre simpri i tascj di direzion de tastiere par navigâ intes pagjinis
     .accesskey = D
 
 ## General Section - Proxy
