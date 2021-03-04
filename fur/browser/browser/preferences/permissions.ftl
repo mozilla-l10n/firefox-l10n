@@ -66,16 +66,30 @@ permissions-invalid-uri-label = Inserìs par plasê un non di host valit
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-window =
+    .title = Ecezions pe protezion des spiis miorade
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Tu âs disativât lis protezions su chescj sîts web.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Ecezions - Cookies e dâts dal sît
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Tu puedis specificâ cuai sîts web a puedin doprâ simpri, o mai, i cookies e i dâts al sît.  Scrîf la direzion esate dal sît che tu desideris gjestî e dopo fâs clic su Bloche, Permet par cheste session opûr Permet.
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin vierzi barcons pop-up. Inserìs la direzion dal sît che tu vuelis dâi il permès e frache su Permet.
+permissions-exceptions-popup-window =
+    .title = Sîts web permetûts - Barcon a comparse
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin vierzi barcons a comparse. Inserìs la direzion esate dal sît che tu vuelis dâi il permès e frache su Permet.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Ecezions - Credenziâls salvadis
+    .style = { permissions-window.style }
 
 ## Exceptions - Add-ons
 
