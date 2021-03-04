@@ -2,33 +2,42 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = Ecezions
+    .style = width: 45em
 permissions-close-key =
     .key = w
-
+permissions-address = Direzion dal sît web
+    .accesskey = D
 permissions-block =
     .label = Bloche
     .accesskey = B
-
 permissions-session =
     .label = Permet par cheste session
     .accesskey = P
-
 permissions-allow =
     .label = Permet
     .accesskey = P
-
+permissions-site-name =
+    .label = Sît web
 permissions-status =
     .label = Stât
-
+permissions-remove =
+    .label = Gjave sît web
+    .accesskey = G
+permissions-remove-all =
+    .label = Gjave ducj i sîts web
+    .accesskey = e
 permissions-button-cancel =
-    .label = Scancele
+    .label = Anule
+    .accesskey = A
+permissions-button-ok =
+    .label = Salve lis modifichis
     .accesskey = S
-
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloche
-
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
@@ -58,10 +67,8 @@ permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts
 
 permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin instalâ lis zontis. Inserìs la direzion dal sît che tu vuelis dâi il permès e cjalcje su Permet.
 
-## Exceptions - Autoplay Media
-
-
 ## Site Permissions - Autoplay
+
 
 ## Site Permissions - Notifications
 
@@ -70,6 +77,7 @@ permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sît
 
 
 ## Site Permissions - Virtual Reality
+
 
 ## Site Permissions - Camera
 
