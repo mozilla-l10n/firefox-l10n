@@ -519,6 +519,17 @@ home-prefs-recommended-by-description-new = Contignûts ecezionâi par cure di {
 home-prefs-recommended-by-learn-more = Cemût funzionial?
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Storiis patrocinadis
+home-prefs-highlights-header =
+    .label = In evidence
+home-prefs-highlights-description = Une selezion di sîts che tu âs salvât o visitât
+home-prefs-highlights-option-visited-pages =
+    .label = Pagjinis visitadis
+home-prefs-highlights-options-bookmarks =
+    .label = Segnelibris
+home-prefs-highlights-option-most-recent-download =
+    .label = Discjariâts plui di resint
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Pagjinis salvadis su { -pocket-brand-name }
 
 ## Search Section
 
