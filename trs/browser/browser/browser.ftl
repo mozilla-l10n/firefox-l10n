@@ -457,3 +457,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Gi'iaj sun nùnj si nitaj koneksiôn hua
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Hua 'ngo sa achráa nej si video ni rajsun ma software DRM, ga'ue dure'ej { -brand-short-name } sa 'io' 'ngàj.
