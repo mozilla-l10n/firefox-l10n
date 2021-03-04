@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = ابزارهای بیشتر
 appmenuitem-exit =
     .label = خروج
+appmenu-menu-button-closed =
+    .tooltiptext = باز کردن منوی برنامه
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = بستن منوی برنامه
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = ورود
 appmenu-fxa-setup-sync =
     .label = روشن کردن همگام‌سازی…
+appmenu-fxa-show-more-tabs = نمایش زبانه‌های بیشتر
 appmenuitem-save-page =
     .label = ذخیرهٔ صفحه به نام…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = اطلاعات رفع اشکال
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = اطلاعات بیشتر
+    .accesskey = T
 appmenu-help-taskmanager =
     .label = مدیر وظایف
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = حالت عیب‌یابی
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = خاموش کردن حالت عیب‌یابی
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

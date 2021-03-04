@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = اطلاعات رفع اشکال
     .accesskey = T
+menu-help-more-troubleshooting-info =
+    .label = اطلاعات بیشتر
+    .accesskey = T
 menu-help-taskmanager =
     .label = مدیر وظایف
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = حالت عیب‌یابی
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = خاموش کردن حالت عیب‌یابی
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = باز کردن دوباره در محفظه
     .accesskey = e
+tab-context-open-in-container =
+    .label = بازکردن در محفظهٔ جدید
+    .accesskey = e
 move-to-start =
     .label = انتقال به ابتدا
     .accesskey = S
@@ -91,6 +94,13 @@ move-tabs =
 move-tab =
     .label = انتقال زبانه
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] باز کردن زبانه بسته شده
+           *[other] باز کردن زبانه‌های بسته شده
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
