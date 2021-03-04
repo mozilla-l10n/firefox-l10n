@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Trabalhar fòra connexion
     .accesskey = T
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Aqueste site conten d'àudio o de vidèo qu'utiliza de DRM, aquò pòt limitar çò que { -brand-short-name } vos permet de far.
