@@ -400,3 +400,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = முடக்க நிலை
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = இந்த தளத்தில் சில பாடல் அல்லது காணொளி DRM மென்பொருளைப் பயன்படுத்துகிறது, { -brand-short-name } நீங்கள் அதை செய்ய விட்டால் வசதிகளைக் குறைக்க கூடும்.
