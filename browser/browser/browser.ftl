@@ -455,3 +455,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Lòua feua linia
     .accesskey = L
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto scito deuvia software DRM. Porieivan esighe de limitaçioin a-e açioin pe l’utente in { -brand-short-name }.
