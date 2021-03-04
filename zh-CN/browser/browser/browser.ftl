@@ -609,3 +609,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = 脱机工作
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = 此网站的一些音频或视频使用了含数字版权管理（DRM）的软件，这可能会限制 { -brand-short-name } 能让您使用的功能。
