@@ -595,3 +595,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Arbejd offline
     .accesskey = o
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Noget lyd- eller videoindhold på dette websted bruger DRM-software, hvilken kan begrænse hvad { -brand-short-name } kan lade dig gøre med det.
