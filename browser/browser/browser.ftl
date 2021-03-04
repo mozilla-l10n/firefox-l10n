@@ -615,3 +615,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = עבודה לא־מקוונת
     .accesskey = ל
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = באתר זה קיימים משאבי אודיו או וידאו העושים שימוש ברכיב ניהול זכויות קניין, מה שעשוי להגביל את היכולות ש־{ -brand-short-name } מאפשר לך לעשות עם משאבים אלו.
