@@ -47,6 +47,12 @@ places-add-bookmark =
 places-add-folder-contextmenu =
     .label = Rjadowak přidać…
     .accesskey = R
+places-add-folder =
+    .label = Rjadowak přidać…
+    .accesskey = d
+places-add-separator =
+    .label = Dźělatko přidać
+    .accesskey = D
 places-view =
     .label = Napohlad
     .accesskey = N
@@ -78,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Kajkosće
     .accesskey = K
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Zapołožku wobdźěłać…
+    .accesskey = b
+places-edit-generic =
+    .label = Wobdźěłać…
+    .accesskey = d
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Rjadowane zapołožki
@@ -87,3 +100,18 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Druhe zapołožki
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Zapołožku wotstronić
+            [one] Zapołožku wotstronić
+            [two] Zapołožce wotstronić
+            [few] Zapołožki wotstronić
+           *[other] Zapołožki wotstronić
+        }
+    .accesskey = s
+places-manage-bookmarks =
+    .label = Zapołožki rjadować
+    .accesskey = r

@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = W kontejnerje znowa wočinić
     .accesskey = k
+tab-context-open-in-container =
+    .label = W nowym kontejnerje wočinić
+    .accesskey = k
 move-to-start =
     .label = K spočatkej přesunyć
     .accesskey = K
@@ -94,6 +97,16 @@ move-tabs =
 move-tab =
     .label = Rajtark přesunyć
     .accesskey = s
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Začinjeny rajtark znowa wočinić
+            [one] $tabCount začinjeny rajtark znowa wočinić
+            [two] $tabCount začinjenej rajtarkaj znowa wočinić
+            [few] $tabCount začinjene rajtarki znowa wočinić
+           *[other] $tabCount začinjenych rajtarkow znowa wočinić
+        }
+    .accesskey = r
 tab-context-close-tabs =
     .label =
         { $tabCount ->
