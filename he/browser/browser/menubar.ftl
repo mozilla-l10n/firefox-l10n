@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = מידע לפתרון בעיות
     .accesskey = מ
+menu-help-more-troubleshooting-info =
+    .label = מידע נוסף לפתרון בעיות
+    .accesskey = מ
 menu-help-taskmanager =
     .label = מנהל משימות
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = הפעלה מחדש עם תוספות פעילות
     .accesskey = ח
+menu-help-enter-troubleshoot-mode =
+    .label = מצב לפתרון בעיות
+    .accesskey = פ
+menu-help-exit-troubleshoot-mode =
+    .label = כיבוי מצב לפתרון בעיות
+    .accesskey = פ
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -521,6 +521,8 @@ crashed-subframe-message = <strong>חלק מדף זה קרס.</strong> כדי ל
 crashed-subframe-learnmore =
     .label = מידע נוסף
     .accesskey = מ
+crashed-subframe-learnmore-link =
+    .value = מידע נוסף
 crashed-subframe-submit =
     .label = שליחת דיווח
     .accesskey = ש
@@ -619,3 +621,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = באתר זה קיימים משאבי אודיו או וידאו העושים שימוש ברכיב ניהול זכויות קניין, מה שעשוי להגביל את היכולות ש־{ -brand-short-name } מאפשר לך לעשות עם משאבים אלו.
+eme-notifications-drm-content-playing-manage = ניהול הגדרות
+eme-notifications-drm-content-playing-manage-accesskey = נ
+eme-notifications-drm-content-playing-dismiss = סגירה
+eme-notifications-drm-content-playing-dismiss-accesskey = ס
