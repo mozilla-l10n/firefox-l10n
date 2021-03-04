@@ -621,3 +621,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Offline źěłaś
     .accesskey = O
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Někaka awdio- abo wideodataja na toś tom sedle wužywa DRM-softwaru, kótaraž by mógła wobgranicowaś, což { -brand-short-name } dajo wam z tym cyniś.
