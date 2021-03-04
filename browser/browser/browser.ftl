@@ -619,3 +619,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Праца па-за сеткаю
     .accesskey = з
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Некаторае аўдыё ці відэа на гэтым сайце выкарыстоўвае DRM-праграму, што можа абмежаваць магчымасці, якія дае вам { -brand-short-name }.
