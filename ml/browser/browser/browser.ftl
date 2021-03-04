@@ -385,3 +385,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ഓഫ്‌ലൈന്‍ ആയി പ്രവര്‍ത്തിക്കുക
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ഈ സൈറ്റിലുള്ള ചില ഓഡിയോ അല്ലെങ്കില്‍ വീഡിയോ ഡിആര്‍എം സോഫ്റ്റ്‌വെയര്‍ ഉപയോഗിയ്ക്കുന്നു. ഇതു് { -brand-short-name } ചെയ്യുന്നതിനു് പരിധി കല്‍പിയ്ക്കുന്നു.
