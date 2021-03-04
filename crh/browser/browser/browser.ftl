@@ -427,3 +427,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Devre-tışı Çalış
     .accesskey = v
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Bu sayttaki bazı audio yaki video DRM yazılımı qullana ki bu { -brand-short-name } uyğulamasınıñ onıñ ile ne yapmañızğa imkân berebilecegini belki sıñırlar.
