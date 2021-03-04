@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Geschlossene Tabs wiederherstellen
         }
     .accesskey = G
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Geschlossenen Tab wieder öffnen
+           *[other] Geschlossene Tabs wieder öffnen
+        }
+    .accesskey = ö
 toolbar-context-menu-manage-extension =
     .label = Erweiterung verwalten
     .accesskey = w

@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informationen zur Fehlerbehebung
     .accesskey = z
+menu-help-more-troubleshooting-info =
+    .label = Weitere Informationen zur Fehlerbehebung
+    .accesskey = z
 menu-help-taskmanager =
     .label = Task-Manager
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Mit aktivierten Add-ons neu starten
     .accesskey = A
+menu-help-enter-troubleshoot-mode =
+    .label = Fehlerbehebungsmodus
+    .accesskey = m
+menu-help-exit-troubleshoot-mode =
+    .label = Fehlerbehebungsmodus deaktivieren
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
