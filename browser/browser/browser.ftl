@@ -616,3 +616,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Nepovezan način
     .accesskey = e
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Zvok ali video na tej strani uporablja DRM, kar lahko omejuje delovanje { -brand-short-name }a.
