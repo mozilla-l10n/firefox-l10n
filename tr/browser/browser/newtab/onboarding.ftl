@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = <span data-l10n-name="zap">Görünümü</span> seçin
 onboarding-multistage-theme-subtitle = { -brand-short-name } tarayıcınızı bir temayla kişiselleştirin.
 onboarding-multistage-theme-primary-button-label = Temayı kaydet
+onboarding-multistage-theme-primary-button-label2 = Tamam
 onboarding-multistage-theme-secondary-button-label = Daha sonra
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Otomatik
