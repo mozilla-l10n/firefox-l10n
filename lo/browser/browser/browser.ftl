@@ -349,3 +349,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ເຮັດວຽກອອບໄລນ໌
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ສຽງ ຫລື ວີດີໂອບາງສ່ວນໃນເວັບໄຊທ໌ນີ້ໃຊ້ຊອບແວ DRM, ເຊິ່ງອາດຈະຈຳກັດສິ່ງທີ່ { -brand-short-name } ສາມາດໃຫ້ທ່ານເຮັດໄດ້.
