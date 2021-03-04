@@ -491,13 +491,34 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Contignût de pagjine iniziâl di Firefox
+home-prefs-content-description = Sielç il contignût che tu desideris pe tô videade iniziâl di Firefox.
+home-prefs-search-header =
+    .label = Ricercje sul Web
+home-prefs-topsites-header =
+    .label = Sîts principâls
+home-prefs-topsites-description = I sîts che tu visitis di plui
+home-prefs-topsites-by-option-sponsored =
+    .label = Sîts principâls sponsorizâts
+home-prefs-shortcuts-header =
+    .label = Scurtis
+home-prefs-shortcuts-description = Sîts che tu salvis o visitis
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Scurtis sponsorizadis
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
+home-prefs-recommended-by-header =
+    .label = Conseât di { $provider }
+home-prefs-recommended-by-description-update = Contignûts ecezionâi di dut il web, par cure di { $provider }
+home-prefs-recommended-by-description-new = Contignûts ecezionâi par cure di { $provider }, part de famee { -brand-product-name }
 
 ##
 
+home-prefs-recommended-by-learn-more = Cemût funzionial?
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Storiis patrocinadis
 
 ## Search Section
 
