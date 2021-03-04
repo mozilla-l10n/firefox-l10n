@@ -50,6 +50,9 @@ places-add-folder-contextmenu =
 places-add-folder =
     .label = Zarědnik pśidaś…
     .accesskey = d
+places-add-separator =
+    .label = Nowu źěleńsku liniju pśidaś
+    .accesskey = l
 places-view =
     .label = Naglěd
     .accesskey = N
@@ -81,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Kakosći
     .accesskey = K
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Cytańske znamje wobźěłaś…
+    .accesskey = b
+places-edit-generic =
+    .label = Wobźěłaś…
+    .accesskey = o
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Zastojane cytańske znamjenja
@@ -90,3 +100,18 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Druge cytańske znamjenja
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Cytańske znamje wótwónoźeś
+            [one] $count cytańske znamje wótwónoźeś
+            [two] $count cytańskej znamjeni wótwónoźeś
+            [few] $count cytańske znamjenja wótwónoźeś
+           *[other] $count cytańskich znamjenjow wótwónoźeś
+        }
+    .accesskey = t
+places-manage-bookmarks =
+    .label = Cytańske znamjenja zastojaś
+    .accesskey = C

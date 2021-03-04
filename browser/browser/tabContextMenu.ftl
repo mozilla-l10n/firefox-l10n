@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = W kontejnerje znowego wócyniś
     .accesskey = k
+tab-context-open-in-container =
+    .label = W nowem kontejnerje wócyniś
+    .accesskey = k
 move-to-start =
     .label = K zachopjeńkoju pśesunuś
     .accesskey = K
@@ -94,6 +97,16 @@ move-tabs =
 move-tab =
     .label = Rejtarik pśesunuś
     .accesskey = s
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zacynjony rejtarik znowego wócyniś
+            [one] $tabCount zacynjony rejtarik znowego wócyniś
+            [two] $tabCount zacynjonej rejtarika znowego wócyniś
+            [few] $tabCount zacynjone rejtariki znowego wócyniś
+           *[other] $tabCount zacynjonych rejtarikow znowego wócyniś
+        }
+    .accesskey = z
 tab-context-close-tabs =
     .label =
         { $tabCount ->
