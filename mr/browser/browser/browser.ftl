@@ -428,3 +428,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ऑफलाईन काम करा
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = या साईट वरील काही ऑडियो आणि व्हिडीओ DRM सॉफ्टवेअर वापरतात, ज्यामुळे { -brand-short-name } आपणास जे करू देऊ शकते त्यावर मर्यादा येतील
