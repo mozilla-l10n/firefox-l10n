@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Apondre un contenidor novèl
+    .title = Apondre un contenedor novèl
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = Preferéncias de contenidor { $name }
+    .title = Preferéncias de contenedor { $name }
     .style = width: 45em
 containers-window-close =
     .key = w
@@ -26,7 +26,7 @@ containers-name-label = Nom
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Marcar un nom de contenidor
+    .placeholder = Marcar un nom de contenedor
 containers-icon-label = Icòna
     .accesskey = I
     .style = { -containers-labels-style }

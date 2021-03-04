@@ -17,5 +17,5 @@ all-tabs-menu-new-user-context =
 all-tabs-menu-hidden-tabs =
     .label = Onglets amagats
 all-tabs-menu-manage-user-context =
-    .label = Gerir los contenidors
+    .label = Gerir los contenedors
     .accesskey = o

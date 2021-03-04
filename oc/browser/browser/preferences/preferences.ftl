@@ -168,13 +168,13 @@ show-tabs-in-taskbar =
     .label = Afichar los apercebuts d'onglets dins la barra dels prètzfaches de Windows
     .accesskey = c
 browser-containers-enabled =
-    .label = Activar los onglets de contenidor
+    .label = Activar los onglets de contenedor
     .accesskey = a
 browser-containers-learn-more = Ne saber mai
 browser-containers-settings =
     .label = Paramètres…
     .accesskey = t
-containers-disable-alert-title = Tampar totes los onglets de contenidor ?
+containers-disable-alert-title = Tampar totes los onglets de contenedor ?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Se desactivetz los onglets isolats ara, { $tabCount } onglet isolat serà tampat. Segur que volatz desactivar los onglets isolats ?
@@ -186,16 +186,16 @@ containers-disable-alert-ok-button =
        *[other] Tampar { $tabCount } onglets isolats
     }
 containers-disable-alert-cancel-button = Gardar activat
-containers-remove-alert-title = Suprimir aqueste contenidor ?
+containers-remove-alert-title = Suprimir aqueste contenedor ?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Se suprimiscatz aquel contenidor ara, { $count } onglet isolat serà tampat. Segur que volètz suprimir aqueste contenidor ? 
-       *[other] Se suprimiscatz aquel contenidor ara, { $count } onglets isolats seràn tampats. Segur que volètz suprimir aqueste contenidor ?
+        [one] Se suprimiscatz aquel contenedor ara, { $count } onglet isolat serà tampat. Segur que volètz suprimir aqueste contenidor ? 
+       *[other] Se suprimiscatz aquel contenedor ara, { $count } onglets isolats seràn tampats. Segur que volètz suprimir aqueste contenidor ?
     }
-containers-remove-ok-button = Suprimir aqueste contenidor
-containers-remove-cancel-button = Suprimir pas aqueste contenidor
+containers-remove-ok-button = Suprimir aqueste contenedor
+containers-remove-cancel-button = Suprimir pas aqueste contenedor
 
 ## General Section - Language & Appearance
 
@@ -613,12 +613,12 @@ containers-back-button =
             [windows] Tornar a las opcions
            *[other] Tornar a las preferéncias
         }
-containers-header = Onglets de contenidor
+containers-header = Onglets de contenedor
 containers-add-button =
-    .label = Apondre un contenidor novèl
+    .label = Apondre un contenedor novèl
     .accesskey = A
 containers-new-tab-check =
-    .label = Seleccionar un contenidor diferent per cada onglet novèl
+    .label = Seleccionar un contenedor diferent per cada onglet novèl
     .accesskey = S
 containers-preferences-button =
     .label = Preferéncias
