@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = 컨테이너에 다시 열기
     .accesskey = e
+tab-context-open-in-container =
+    .label = 새 컨테이너에 열기
+    .accesskey = e
 move-to-start =
     .label = 처음으로 이동
     .accesskey = S
@@ -91,6 +94,13 @@ move-tabs =
 move-tab =
     .label = 탭 이동
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] 닫은 탭 다시 열기
+           *[other] 닫은 탭 다시 열기
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
