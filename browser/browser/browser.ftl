@@ -609,3 +609,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = 離線模式
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = 此網站的某些影音內容需要使用 DRM 軟體，可能會影響 { -brand-short-name } 能讓您使用的功能。
