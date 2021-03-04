@@ -527,6 +527,8 @@ crashed-subframe-message = <strong>Dźěl tuteje strony je spadnył.</strong> Zo
 crashed-subframe-learnmore =
     .label = Dalše informacije
     .accesskey = D
+crashed-subframe-learnmore-link =
+    .value = Dalše informacije
 crashed-subframe-submit =
     .label = Rozprawu wotpósłać
     .accesskey = R
@@ -625,3 +627,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Někajka awdio- abo widejodataja na tutym sydle wužiwa DRM-softwaru, kotraž móhła wobmjezować, štož { -brand-short-name } da wam z tym činić.
+eme-notifications-drm-content-playing-manage = Nastajenja rjadować
+eme-notifications-drm-content-playing-manage-accesskey = N
+eme-notifications-drm-content-playing-dismiss = Zaćisnyć
+eme-notifications-drm-content-playing-dismiss-accesskey = Z

@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informacije za rozrisowanje problemow
     .accesskey = I
+menu-help-more-troubleshooting-info =
+    .label = Dalše informacije za rozrisowanje problemow
+    .accesskey = D
 menu-help-taskmanager =
     .label = Zrjadowak nadawkow
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Ze zmóžnjenymi přidatkami znowa startować
     .accesskey = Z
+menu-help-enter-troubleshoot-mode =
+    .label = Modus za rozrisanje problemow
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Modus za rozrisanje problemow znjemóžnić
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
