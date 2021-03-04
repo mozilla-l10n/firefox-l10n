@@ -553,6 +553,9 @@ home-prefs-sections-rows-option =
 search-bar-header = Sbare di ricercje
 search-bar-hidden =
     .label = Dopre la sbare de direzion par ricercjis e pe navigazion
+search-bar-shown =
+    .label = Zonte la sbare di ricercje te sbare dai struments
+search-engine-default-header = Motôr di ricercje predefinît
 search-choose-keyword-column =
     .label = Peraule clâf
 # This warning is displayed when the chosen keyword is already in use
