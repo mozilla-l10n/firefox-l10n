@@ -968,7 +968,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Պաշտպանութեան եւ արտադրողականութեան հաւասարակշռուածութիւն։ Էջերը կը բեռնուեն կանոնակարգուած կերպով։
+content-blocking-etp-standard-desc = Հաւասարակշռուածուած է պաշտպանութեան եւ կատարողականութեան համար։ Էջերը կը բեռնուեն կանոնաւորապէս։
 content-blocking-etp-strict-desc = Աւելի ուժեղ պաշտպանութիւն, բայց կարող է որոշ կայքերի կամ բովանդակութեան համար խնդրահարոյց լինել։
 content-blocking-etp-custom-desc = Ընտրեք, որ հետեւումները եւ գրուածքները արգելափակել։
 content-blocking-private-windows = Անձնական պատուհաններում բովանդակութեան հետեւում
