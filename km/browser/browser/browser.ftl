@@ -407,3 +407,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ធ្វើ​ការដោយ​គ្មាន​អ៊ីនធឺណិត
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = វីដេអូ និង​អូឌីយ៉ូ​មួយ​ចំនួន​នៅ​លើ​វេបសាយ​នេះ​ប្រើ​កម្មវិធី DRM ដែល​អាច​ដាក់​ដែន​កំណត់​ការ​ធ្វើ​របស់​អ្នក​ជាមួយ { -brand-short-name } ។
