@@ -20,3 +20,8 @@
 <!ENTITY browseWithCaretWarn.accesskey "v">
 
 <!ENTITY modifiers.label "Modificateurs">
+<!ENTITY acceleratorKey.label "Touche accélératrice :">
+<!ENTITY acceleratorKey.accesskey "a">
+<!ENTITY menuAccessKey.label "Touche d’accès au menu :">
+<!ENTITY menuAccessKey.accesskey "m">
+<!ENTITY modifiersDesc.label "Remarque : une valeur de zéro désactive une touche de modification.">
