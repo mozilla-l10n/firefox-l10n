@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Offline wurkje
     .accesskey = w
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Guon audio of video op dizze website brûkt DRM-software hokker { -brand-short-name } kin beheine yn wat jo der mei dwaan wolle.
