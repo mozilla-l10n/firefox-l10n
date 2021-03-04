@@ -120,10 +120,10 @@ permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרי
 permissions-site-location-window =
     .title = הגדרות - הרשאות מיקום
     .style = { permissions-window.style }
-permissions-site-location-desc = האתרים הבאים ביקשו לגשת למיקום שלך. באפשרותך לציין לאילו אתרים מותר לגשת למיקום שלך. ניתן גם לחסום בקשות חדשות לגשת למיקום שלך.
+permissions-site-location-desc = האתרים הבאים ביקשו לגשת לנתוני המיקום שלך. באפשרותך לציין לאילו אתרים מותר לגשת לנתוני המיקום שלך. ניתן גם לחסום בקשות חדשות לגשת לנתוני המיקום שלך.
 permissions-site-location-disable-label =
-    .label = חסימת בקשות חדשות לגישה למיקום שלך
-permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לגשת למיקום שלך. חסימת הגישה למיקום שלך עשויה להפריע לפעולה של מגוון תכונות באתרים.
+    .label = חסימת בקשות חדשות לגישה לנתוני המיקום שלך
+permissions-site-location-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן מהגשת בקשה לקבלת הרשאה לגשת לנתוני המיקום שלך. חסימת הגישה לנתוני המיקום שלך עשויה להפריע לפעולה של מגוון תכונות באתרים.
 
 ## Site Permissions - Virtual Reality
 
