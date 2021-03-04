@@ -451,3 +451,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Oflayn işlə
     .accesskey = l
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Bu saytda olan bəzi səs və ya video DRM proqramını işlədir, bu { -brand-short-name } tərəfindən sizə verilən servisləri limitləyir.
