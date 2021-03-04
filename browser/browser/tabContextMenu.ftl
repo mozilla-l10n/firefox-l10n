@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Tornar dobrir dins un onglet isolat
     .accesskey = d
+tab-context-open-in-container =
+    .label = Tornar dobrir dins un onglet isolat
+    .accesskey = T
 move-to-start =
     .label = Desplaçar a la debuta
     .accesskey = d
@@ -92,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Desplaçar l’onglet
     .accesskey = p
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tornar dobrir l’onglet tampat
+            [one] Tornar dobrir l’onglet tampat
+           *[other] Tornar dobrir los onglets tampats
+        }
+    .accesskey = t
 tab-context-close-tabs =
     .label =
         { $tabCount ->

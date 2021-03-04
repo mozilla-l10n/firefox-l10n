@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Causissètz una <span data-l10n-name="zap">aparéncia</span>
 onboarding-multistage-theme-subtitle = Personalizatz { -brand-short-name } amb un tèma.
 onboarding-multistage-theme-primary-button-label = Enregistrar tèma
+onboarding-multistage-theme-primary-button-label2 = Acabat
 onboarding-multistage-theme-secondary-button-label = Pas ara
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatic

@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Anullar la tampadura dels onglets
         }
     .accesskey = A
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tornar dobrir l’onglet tampat
+            [one] Tornar dobrir l’onglet tampat
+           *[other] Tornar dobrir los onglets tampats
+        }
+    .accesskey = T
 toolbar-context-menu-manage-extension =
     .label = Gerir l’extension
     .accesskey = G
