@@ -260,3 +260,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Dira o sa golagana
     .accesskey = D
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Modumo mongwe kgotsa bidio mo saeteng e, e dirisa serweboleta sa DRM se seka lekanyetsang se o { -brand-short-name } ka kgonang go se dira ka yone.
