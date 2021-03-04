@@ -53,7 +53,7 @@ reopen-in-container =
     .accesskey = й
 tab-context-open-in-container =
     .label = Відкрити в новому контейнері
-    .accesskey = е
+    .accesskey = д
 move-to-start =
     .label = Перемістити на початок
     .accesskey = ч
@@ -95,6 +95,15 @@ move-tabs =
 move-tab =
     .label = Перемістити вкладку
     .accesskey = м
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Відновити закриту вкладку
+            [one] Відновити закриту вкладку
+            [few] Відновити закриті вкладки
+           *[many] Відновити закриті вкладки
+        }
+    .accesskey = і
 tab-context-close-tabs =
     .label =
         { $tabCount ->
