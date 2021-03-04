@@ -32,12 +32,26 @@ permissions-button-cancel =
     .label = Anule
     .accesskey = A
 permissions-button-ok =
-    .label = Salve lis modifichis
+    .label = Salve modifichis
     .accesskey = S
+permission-dialog =
+    .buttonlabelaccept = Salve modifichis
+    .buttonaccesskeyaccept = S
+permissions-autoplay-menu = Predefinît par ducj i sîts web:
+permissions-searchbox =
+    .placeholder = Cîr sît web
+permissions-capabilities-autoplay-allow =
+    .label = Permet audio e video
+permissions-capabilities-autoplay-block =
+    .label = Bloche l'audio
+permissions-capabilities-autoplay-blockall =
+    .label = Bloche l'audio e il video
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloche
+permissions-capabilities-prompt =
+    .label = Domande simpri
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
@@ -48,7 +62,7 @@ permissions-capabilities-listitem-allow-session =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Non dal host inserît no valit
-permissions-invalid-uri-label = Inserìs par plasê un non dal host valit
+permissions-invalid-uri-label = Inserìs par plasê un non di host valit
 
 ## Exceptions - Tracking Protection
 
