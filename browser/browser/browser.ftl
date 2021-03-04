@@ -621,3 +621,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Работать автономно
     .accesskey = б
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Некоторое аудио или видео на этом сайте использует программу DRM, что может ограничить возможности, предоставляемые вам { -brand-short-name }.
