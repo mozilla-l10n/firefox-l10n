@@ -525,6 +525,8 @@ crashed-subframe-message = <strong>Dio ove stranice se srušio.</strong> Da bi {
 crashed-subframe-learnmore =
     .label = Saznaj više
     .accesskey = S
+crashed-subframe-learnmore-link =
+    .value = Saznaj više
 crashed-subframe-submit =
     .label = Pošalji izvješće
     .accesskey = P
@@ -623,3 +625,5 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Neki audio ili video materijali na ovoj stranici koriste DRM softver koji može ograničiti što { -brand-short-name } može učiniti s njima.
+eme-notifications-drm-content-playing-manage = Upravljaj postavkama
+eme-notifications-drm-content-playing-dismiss = Odbaci
