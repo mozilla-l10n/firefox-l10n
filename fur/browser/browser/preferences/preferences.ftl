@@ -93,13 +93,43 @@ extension-controlled-password-saving = Une estension, <img data-l10n-name="icon"
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Une estension, <img data-l10n-name="icon"/>{ $name }, e sta controlant cheste impostazion.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Une estension, <img data-l10n-name="icon"/>{ $name }, e à configurât il to motôr di ricercje predefinît.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Une estension, <img data-l10n-name="icon"/>{ $name }, e à bisugne des schedis contignidôr.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Une estension, <img data-l10n-name="icon"/>{ $name }, e sta controlant cheste impostazion.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Une estension, <img data-l10n-name="icon"/>{ $name }, e sta controlant cemût che { -brand-short-name } si conet a internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Par ativâ la estension va su <img data-l10n-name="addons-icon"/>Zontis tal <img data-l10n-name="menu-icon"/>menù.
 
 ## Preferences UI Search Results
 
+search-results-header = Risultâts de ricercje
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] Nus displâs! Nissun risultât par “<span data-l10n-name="query"></span>” tes Opzions.
+       *[other] Nus displâs! Nissun risultât par “<span data-l10n-name="query"></span>” tes Preferencis.
+    }
+search-results-help-link = Convential jutori? Visite il <a data-l10n-name="url">Supuart di { -brand-short-name }</a>
 
 ## General Section
 
-startup-header = Inizi
+startup-header = Inviament
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = permet la esecuzion in contemporanie di { -brand-short-name } e di Firefox
 tabs-group-header = Lengutis
 
 ## General Section - Language & Appearance

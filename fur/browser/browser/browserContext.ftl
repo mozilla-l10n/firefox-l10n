@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Vierç colegament intune gnove schede contignidôr
     .accesskey = c
+main-context-menu-open-link-container =
+    .label = Vierç colegament intun gnûf contignidôr
+    .accesskey = ç
 main-context-menu-open-link-new-window =
     .label = Vierç colegament intun gnûf barcon
     .accesskey = o
@@ -128,6 +131,11 @@ main-context-menu-save-link-to-pocket =
     .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
