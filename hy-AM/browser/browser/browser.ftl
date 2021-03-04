@@ -528,3 +528,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Աշխատել անցանց
     .accesskey = տ
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Այս կայքում որոշ ձայնանյութ կամ տեսանյութ օգտագործում են DRM ծրագիր, որը կարող է սահմանափակել { -brand-short-name }-ի օգտագործումը:
