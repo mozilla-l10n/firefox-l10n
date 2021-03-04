@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = פתיחה מחדש במגירה
     .accesskey = פ
+tab-context-open-in-container =
+    .label = פתיחת במגירה חדשה
+    .accesskey = ג
 move-to-start =
     .label = העברה להתחלה
     .accesskey = ת
@@ -92,6 +95,13 @@ move-tabs =
 move-tab =
     .label = העברת לשונית
     .accesskey = ע
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] פתיחת הלשונית שנסגרה מחדש
+           *[other] פתיחת הלשוניות שנסגרו מחדש
+        }
+    .accesskey = מ
 tab-context-close-tabs =
     .label =
         { $tabCount ->

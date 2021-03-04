@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] ביטול סגירת לשוניות
         }
     .accesskey = י
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] פתיחת הלשונית שנסגרה מחדש
+           *[other] פתיחת הלשוניות שנסגרו מחדש
+        }
+    .accesskey = מ
 toolbar-context-menu-manage-extension =
     .label = ניהול הרחבה
     .accesskey = ה
