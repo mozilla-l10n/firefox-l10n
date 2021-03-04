@@ -619,3 +619,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Pracuj w trybie offline
     .accesskey = c
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Dźwięk lub obraz na tej stronie używają oprogramowania DRM, które może ograniczać możliwości oferowane przez program { -brand-short-name }.
