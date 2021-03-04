@@ -609,3 +609,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Bekerja Luring
     .accesskey = L
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Beberapa audio atau video pada situs ini menggunakan perangkat lunak DRM yang mungkin membatasi pemakaian Anda atas { -brand-short-name }.
