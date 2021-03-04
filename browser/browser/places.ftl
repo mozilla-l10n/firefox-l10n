@@ -109,3 +109,6 @@ places-remove-bookmark =
            *[other] Yer imlerini sil
         }
     .accesskey = i
+places-manage-bookmarks =
+    .label = Yer imlerini yönet
+    .accesskey = n
