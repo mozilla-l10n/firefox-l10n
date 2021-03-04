@@ -330,3 +330,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Sebenza ngaphandle kweIntanethi
     .accesskey = e
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Enye into evakalayo okanye ividiyo kule sayithi isebenzisa i-DRM software, which may limit what { -brand-short-name } can let you do with it.
