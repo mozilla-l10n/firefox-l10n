@@ -111,6 +111,9 @@ permissions-site-autoplay-desc = Achì tu puedis gjestî i sîts che no van daû
 permissions-site-notification-window =
     .title = Impostazions - Permès di notifiche
     .style = { permissions-window.style }
+permissions-site-notification-desc = Chescj sîts web a àn domandât di inviâti notifichis. Tu puedis specificâ chei che a puedin inviâti notifichis. Tu puedis ancje blocâ lis gnovis richiestis di permès pes notifichis.
+permissions-site-notification-disable-label =
+    .label = Bloche lis gnovis richiestis di permès pes notifichis
 
 ## Site Permissions - Location
 
