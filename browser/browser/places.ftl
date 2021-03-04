@@ -100,6 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Weitere Lesezeichen
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Lesezeichen entfernen
+           *[other] Lesezeichen entfernen
+        }
+    .accesskey = e
 places-manage-bookmarks =
     .label = Lesezeichen verwalten
     .accesskey = v

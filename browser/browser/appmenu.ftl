@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Weitere Werkzeuge
 appmenuitem-exit =
     .label = Beenden
+appmenu-menu-button-closed =
+    .tooltiptext = Anwendungsmenü öffnen
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Anwendungsmenü schließen
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Anmelden
 appmenu-fxa-setup-sync =
     .label = Synchronisierung aktivieren…
+appmenu-fxa-show-more-tabs = Mehr Tabs anzeigen
 appmenuitem-save-page =
     .label = Seite speichern unter…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informationen zur Fehlerbehebung
     .accesskey = z
+appmenu-help-more-troubleshooting-info =
+    .label = Weitere Informationen zur Fehlerbehebung
+    .accesskey = z
 appmenu-help-taskmanager =
     .label = Task-Manager
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Mit aktivierten Add-ons neu starten
     .accesskey = A
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Fehlerbehebungsmodus
+    .accesskey = m
+appmenu-help-exit-troubleshoot-mode =
+    .label = Fehlerbehebungsmodus deaktivieren
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
