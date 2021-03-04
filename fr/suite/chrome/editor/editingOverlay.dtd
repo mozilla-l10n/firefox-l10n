@@ -34,6 +34,20 @@
 <!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertFormCmd.label "Définir le formulaire…">
 <!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Champ de formulaire…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Image de formulaire…">
+<!ENTITY insertInputImageCmd.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "Zone de texte…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+<!ENTITY insertSelectCmd.label "Liste de sélection…">
+<!ENTITY insertSelectCmd.accesskey "S">
+<!ENTITY insertButtonCmd.label "Définir un bouton…">
+<!ENTITY insertButtonCmd.accesskey "b">
+<!ENTITY insertLabelCmd.label "Définir une étiquette">
+<!ENTITY insertLabelCmd.accesskey "q">
+<!ENTITY insertFieldSetCmd.label "Définir un ensemble de champs…">
+<!ENTITY insertFieldSetCmd.accesskey "f">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nouveau">

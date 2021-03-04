@@ -36,3 +36,5 @@
 <!ENTITY debugReflowShowFrameCounts.accesskey    "s">
 <!ENTITY debugReflowDumpFrameCounts.label        "Dump frame counts">
 <!ENTITY debugReflowDumpFrameCounts.accesskey    "D">
+<!ENTITY debugReflowDumpFrameByFrameCounts.label "Dump frame by frame counts">
+<!ENTITY debugReflowDumpFrameByFrameCounts.accesskey "u">
