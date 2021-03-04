@@ -209,3 +209,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ऑफलायन काम करात
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ह्या सायटीवयलो काय ऑडियो वो व्हिडियो DRM सॉफ्टवेअर वापरता, जे { -brand-short-name } तुमका ताजेसंयत किदे करपाक दिंव शकता हाजेर मर्यादा हाडपाक शकता.
