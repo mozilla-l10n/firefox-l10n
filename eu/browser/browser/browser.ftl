@@ -609,3 +609,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Lan egin lineaz kanpo
     .accesskey = o
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Gune honetako zenbait audiok edo bideok DRM softwarea darabil eta { -brand-short-name }(r)en eginbideak muga litzake.
