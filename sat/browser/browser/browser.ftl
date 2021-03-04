@@ -206,3 +206,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ऑफलाइन
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = नोवा साइट रे तिनाक् गान आंजोमाक्  आर बाङ बिडियो   DRM  सोफ्टवेयार बेभाराक् , ओका दो  ओका दो सिमा़ भितिर दाड़ेयाक् चेत् नोवा सांव आम का़मी होचो दाड़ेयामा { -brand-short-name } .
