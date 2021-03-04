@@ -46,6 +46,10 @@ printui-two-sided-printing-long-edge = Муқовабандӣ аз тарафи 
 printui-two-sided-printing-short-edge = Муқовабандӣ аз тарафи кӯтоҳ
 # Section title for miscellaneous print options
 printui-options = Имконот
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Чоп шуда истодааст…
+printui-print-progress-indicator-saving = Сабт шуда истодааст…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
