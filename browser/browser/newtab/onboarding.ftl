@@ -185,6 +185,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = בחירת <span data-l10n-name="zap">מראה</span>
 onboarding-multistage-theme-subtitle = התאמה אישית של { -brand-short-name } עם ערכת נושא.
 onboarding-multistage-theme-primary-button-label = שמירת ערכת נושא
+onboarding-multistage-theme-primary-button-label2 = סיום
 onboarding-multistage-theme-secondary-button-label = לא כעת
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = אוטומטי
