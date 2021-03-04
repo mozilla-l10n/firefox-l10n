@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Trabalhar offline
     .accesskey = o
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Algum áudio ou vídeo neste site usa software DRM, o que pode limitar o que o { -brand-short-name } pode deixar você fazer com ele.
