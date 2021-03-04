@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Pestañas skuata nnakasɨ
 menu-history-undo-window-menu =
     .label = Ventanas skuata nnakasɨ
+menu-history-reopen-all-tabs = Nate kuaiyo da sukua
+menu-history-reopen-all-windows = Na síne kuaíyo da ventana
 
 ## Bookmarks Menu
 
@@ -325,6 +327,8 @@ menu-help-troubleshooting-info =
     .accesskey = T
 menu-help-taskmanager =
     .label = Tetiñu da tareas
+menu-help-report-site-issue =
+    .label = Iyo iin tixi nuu sitio ya´a...
 menu-help-feedback-page =
     .label = Chu'un ichí a jíaníninu...
     .accesskey = C

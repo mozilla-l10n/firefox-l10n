@@ -131,12 +131,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Tɨɨn correo electrónico
     .accesskey = e
 main-context-menu-copy-link =
     .label = Tɨɨn nuu enlace
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Tɨɨn enlace
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +235,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Tɨɨn nuu nasun
     .accesskey = O
+main-context-menu-image-copy-link =
+    .label = Tɨɨn tutu natava enlace
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Tɨɨn enlace tutu kana
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Tɨɨn enlace audio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Chuva´a tutu nátava kua…
     .accesskey = u

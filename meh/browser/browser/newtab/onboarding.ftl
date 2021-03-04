@@ -44,7 +44,6 @@ onboarding-join-form-signin-label = ¿Kuminu iin cuenta?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Kajie´e sesión
 onboarding-start-browsing-button-label = Kajie´e nánuku
-onboarding-not-now-button-label = Nkuvi ntañu´u
 onboarding-cards-dismiss =
     .title = Xita
     .aria-label = Xita
@@ -86,6 +85,65 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Tetiñu da contraseña noo´o kumima va´a ji noo´o.
 
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-tracking-protection-title2 = Protección antirrastreo
+onboarding-tracking-protection-text2 = { -brand-short-name } chinei noo'o a da nuu web nkutadaja noo'o, ya'a sa'a viji a da tutu xiko nkuntadaja noo'o ntaka nánukunu.
+onboarding-tracking-protection-button2 = Naja satiñu
+onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincroniza marcadores, contraseñas ji kue'e ntaka nuu ni'inu { -brand-product-name }.
+onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Kumi da alerta da filtraciones de datos
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } kune'ya de correo noo'o kene nuu iin filtración datos a xíín kene nuu iin filtración jíía.
+onboarding-firefox-monitor-button = Chu'un sivɨnɨ alertas
+onboarding-browse-privately-title = Nánuku yu´u
+onboarding-browse-privately-text = Nánuku yu'u xina historial nnákunu ji navegación sa kino yu'u nuu inka ñivɨ kuvi ni'i ka̱a̱ ya'a.
+onboarding-browse-privately-button = Síne iin ventana yu´u
+onboarding-firefox-send-title = Kumi yu'u da archivos nkua'anu
+onboarding-firefox-send-text2 = Ska da archivo nuu { -send-brand-name } je kua'a jí encriptación punto a punto jee iin enlace nɨ'ɨ ñama.
+onboarding-firefox-send-button = Nasá´á tuku { -send-brand-name }
+onboarding-mobile-phone-title = Ni'i { -brand-product-name } nuu télefono
+onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android je saa sincronizar datos ji inka ka̱a̱.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
+onboarding-send-tabs-title = Chu'un íchi sukua ñama
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Chu'un ichí pestañas ñama nuu ntaka ka̱a̱ ntu nejika tɨɨ, tee a xíín kenenu nuu ka̱a̱ nánuku.
+onboarding-send-tabs-button = Kajie´e ni´i Send Tabs
+onboarding-pocket-anywhere-title = Ka´vi je teso´o ntaka nuu
+onboarding-pocket-anywhere-text2 = Chuva'a tu'un kuvinu koo de ntu íyo conexión jí { -pocket-brand-name }. Ka'vi, teso'o je kune'ya a kuninu, ntaka ichí kuvinu.
+onboarding-pocket-anywhere-button = Nasá´á tuku { -pocket-brand-name }
+onboarding-lockwise-strong-passwords-title = Sa'a je chuva'a contraseñas nakui
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } sá'á contraseñas nakui je chuva'ama ntu'un iin nuu.
+onboarding-lockwise-strong-passwords-button = Tetiñu nuu kajie´e sesión
+onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
+onboarding-facebook-container-button = Tee extensión
+onboarding-import-browser-settings-title = Nake'en marcadores, contraseñas ji kue'eka
+onboarding-import-browser-settings-button = Sá´á importar datos Chrome
+onboarding-personal-data-promise-title = Privado por diseño
+onboarding-personal-data-promise-text = { -brand-product-name } kumi datos noo'o je nake'en mati'i, chuva'a je kachi naja ni'idani da ya'a.
+onboarding-personal-data-promise-button = Ka'vi promesa da nuu'u
+
+## Message strings belonging to the Return to AMO flow
+
+return-to-amo-sub-header = Va´a, kuminu { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Vitan tajiani <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Tee extensión
+return-to-amo-get-started-button = Nakajie´e  ji{ -brand-short-name }
+onboarding-not-now-button-label = Nkuvi ntañu´u
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Va´a, nchu'unu { -brand-short-name }
@@ -100,6 +158,8 @@ onboarding-multistage-welcome-subtitle = Ka̱a̱ nánuku ñama, va'a je yu'u vaj
 onboarding-multistage-welcome-primary-button-label = Kajie'e ke'i
 onboarding-multistage-welcome-secondary-button-label = Kajie´e sesión
 onboarding-multistage-welcome-secondary-button-text = A kumini iin cuenta?
+onboarding-multistage-set-default-primary-button-label = Nate kua vají
+onboarding-multistage-set-default-secondary-button-label = Ntañu'u ntuvi
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Kuiso contraseñas, <br/> a ta'an ini noo'o ji <span data-l10n-name = "zap">más</span>
@@ -160,61 +220,3 @@ onboarding-multistage-theme-description-alpenglow =
     .aria-description =
         Ni'i da teku vii ji botones, 
         nu kaji ji ventanas.
-
-## These strings belong to the individual onboarding messages.
-
-
-## Each message has a title and a description of what the browser feature is.
-## Each message also has an associated button for the user to try the feature.
-## The string for the button is found above, in the UI strings section
-
-onboarding-tracking-protection-title2 = Protección antirrastreo
-onboarding-tracking-protection-text2 = { -brand-short-name } chinei noo'o a da nuu web nkutadaja noo'o, ya'a sa'a viji a da tutu xiko nkuntadaja noo'o ntaka nánukunu.
-onboarding-tracking-protection-button2 = Naja satiñu
-onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
-# "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Sincroniza marcadores, contraseñas ji kue'e ntaka nuu ni'inu { -brand-product-name }.
-onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Kumi da alerta da filtraciones de datos
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } kune'ya de correo noo'o kene nuu iin filtración datos a xíín kene nuu iin filtración jíía.
-onboarding-firefox-monitor-button = Chu'un sivɨnɨ alertas
-onboarding-browse-privately-title = Nánuku yu´u
-onboarding-browse-privately-text = Nánuku yu'u xina historial nnákunu ji navegación sa kino yu'u nuu inka ñivɨ kuvi ni'i ka̱a̱ ya'a.
-onboarding-browse-privately-button = Síne iin ventana yu´u
-onboarding-firefox-send-title = Kumi yu'u da archivos nkua'anu
-onboarding-firefox-send-text2 = Ska da archivo nuu { -send-brand-name } je kua'a jí encriptación punto a punto jee iin enlace nɨ'ɨ ñama.
-onboarding-firefox-send-button = Nasá´á tuku { -send-brand-name }
-onboarding-mobile-phone-title = Ni'i { -brand-product-name } nuu télefono
-onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android je saa sincronizar datos ji inka ka̱a̱.
-# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
-# browser.
-onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
-onboarding-send-tabs-title = Chu'un íchi sukua ñama
-# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
-# tab's context menu.
-onboarding-send-tabs-text2 = Chu'un ichí pestañas ñama nuu ntaka ka̱a̱ ntu nejika tɨɨ, tee a xíín kenenu nuu ka̱a̱ nánuku.
-onboarding-send-tabs-button = Kajie´e ni´i Send Tabs
-onboarding-pocket-anywhere-title = Ka´vi je teso´o ntaka nuu
-onboarding-pocket-anywhere-text2 = Chuva'a tu'un kuvinu koo de ntu íyo conexión jí { -pocket-brand-name }. Ka'vi, teso'o je kune'ya a kuninu, ntaka ichí kuvinu.
-onboarding-pocket-anywhere-button = Nasá´á tuku { -pocket-brand-name }
-onboarding-lockwise-strong-passwords-title = Sa'a je chuva'a contraseñas nakui
-onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } sá'á contraseñas nakui je chuva'ama ntu'un iin nuu.
-onboarding-lockwise-strong-passwords-button = Tetiñu nuu kajie´e sesión
-onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
-onboarding-facebook-container-button = Tee extensión
-onboarding-import-browser-settings-title = Nake'en marcadores, contraseñas ji kue'eka
-onboarding-import-browser-settings-button = Sá´á importar datos Chrome
-onboarding-personal-data-promise-title = Privado por diseño
-onboarding-personal-data-promise-text = { -brand-product-name } kumi datos noo'o je nake'en mati'i, chuva'a je kachi naja ni'idani da ya'a.
-onboarding-personal-data-promise-button = Ka'vi promesa da nuu'u
-
-## Message strings belonging to the Return to AMO flow
-
-return-to-amo-sub-header = Va´a, kuminu { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Vitan tajiani <icon></icon><b>{ $addon-name }.</b>
-return-to-amo-extension-button = Tee extensión
-return-to-amo-get-started-button = Nakajie´e  ji{ -brand-short-name }
