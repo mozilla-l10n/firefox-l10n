@@ -206,6 +206,14 @@ cfr-doorhanger-milestone-heading =
         [one] { -brand-short-name } արգելափակել է <b>{ $blockedCount }</b> հետեւումը սկսած { $date }։
        *[other] { -brand-short-name } արգելափակել է <b>{ $blockedCount }</b> հետեւումները սկսած { $date }։
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name }-ն արգելափակուած է <b> { $blockedCount } </b> հետագծիչների տեսադաշտից սկսած { DATETIME($date, month: "long", year: "numeric") }֊ից
+       *[other] { -brand-short-name }-ն արգելափակուած է <b> { $blockedCount } </b> հետագծիչների տեսադաշտից սկսած { DATETIME($date, month: "long", year: "numeric") }֊ից
+    }
 cfr-doorhanger-milestone-ok-button = Պահպանել բոլորը
     .accesskey = S
 cfr-doorhanger-milestone-close-button = Փակել
@@ -295,3 +303,4 @@ cfr-whatsnew-bookmarking-body = Աւելի հեշտ է հետեւել ձեր ն�
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Համապարփակ պաշտպանութիւն միջկայքային նշոցիկների հետագծումից
