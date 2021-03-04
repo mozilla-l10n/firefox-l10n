@@ -391,9 +391,23 @@ update-in-progress-cancel-button = &Continue
 
 ## General Section - Performance
 
+performance-title = Prestazions
+performance-use-recommended-settings-checkbox =
+    .label = Dopre lis impostazions conseadis pes prestazions
+    .accesskey = o
+performance-use-recommended-settings-desc = Chestis impostazions a son justadis pal hardware dal to computer e pal to sisteme operatîf.
+performance-settings-learn-more = Plui informazions
 performance-allow-hw-accel =
-    .label = Dopre acelerazion hardware se disponibil
+    .label = Dopre acelerazion hardware se disponibile
     .accesskey = r
+performance-limit-content-process-option = Numar massim di procès pai contignûts
+    .accesskey = N
+performance-limit-content-process-enabled-desc = Un numar plui grant di procès pe gjestion dai contignûts e pues miorâ lis prestazions cuant che si doprin tantis schedis, ma chest al puarte a doprâ plui memorie.
+performance-limit-content-process-blocked-desc = Si pues modificâ il numar di procès pai contignûts dome cu la version multiprocès di { -brand-short-name }. <a data-l10n-name="learn-more">Scuvierç cemût controlâ se al è atîf il multiprocès</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (predefinît)
 
 ## General Section - Browsing
 
