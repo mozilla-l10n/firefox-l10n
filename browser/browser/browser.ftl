@@ -478,3 +478,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = অফলাইন অবস্থায় কাজ k
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
