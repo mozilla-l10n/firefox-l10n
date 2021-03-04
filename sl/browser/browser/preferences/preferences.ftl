@@ -249,7 +249,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Uporabite nastavitve operacijskega sistema za “{ $localeName }” za oblikovanje datumov, časa, številk in meritev.
+    .label = Uporabi nastavitve operacijskega sistema za “{ $localeName }” za oblikovanje datumov, časa, številk in meritev.
 check-user-spelling =
     .label = Preverjaj črkovanje med tipkanjem
     .accesskey = v
