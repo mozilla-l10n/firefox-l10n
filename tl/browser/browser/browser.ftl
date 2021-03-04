@@ -564,3 +564,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Magtrabaho nang Offline
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Ang ilang mga audio o video sa site na ito ay gumagamit ng software na DRM, na maaaring limitahan ang { -brand-short-name } sa kung ano ang maaaring mong gawin dito.
