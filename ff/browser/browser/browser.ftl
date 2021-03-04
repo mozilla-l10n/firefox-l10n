@@ -458,3 +458,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Golle e Ceŋtol
     .accesskey = l
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Yoga e ojooji e widewooji ndee lowre ena kuutoroo topirde DRM, ɗum ena haɗa { -brand-short-name } waɗde heen won e geɗe.
