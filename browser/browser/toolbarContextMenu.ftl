@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Reabrir abas
         }
     .accesskey = b
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir aba fechada
+           *[other] Reabrir abas fechadas
+        }
+    .accesskey = h
 toolbar-context-menu-manage-extension =
     .label = Gerenciar extensão
     .accesskey = e
