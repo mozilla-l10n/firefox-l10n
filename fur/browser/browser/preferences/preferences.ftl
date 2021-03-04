@@ -424,18 +424,56 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Dopre simpri i tascj di direzion de tastiere par navigâ intes pagjinis
     .accesskey = D
+browsing-search-on-start-typing =
+    .label = Cîr tal test cuant che tu scrivis alc
+    .accesskey = s
+browsing-picture-in-picture-toggle-enabled =
+    .label = Abilite i controi video picture-in-picture
+    .accesskey = e
+browsing-picture-in-picture-learn-more = Plui informazions
+browsing-media-control =
+    .label = Controle i flus multimediâi cu la tastiere, lis scufis o la interface virtuâl
+    .accesskey = v
+browsing-media-control-learn-more = Plui informazions
+browsing-cfr-recommendations =
+    .label = Consee estensions intant che tu navighis
+    .accesskey = C
+browsing-cfr-features =
+    .label = Consee funzionalitâts intant che tu navighis
+    .accesskey = f
+browsing-cfr-recommendations-learn-more = Plui informazions
 
 ## General Section - Proxy
 
+network-settings-title = Impostazions di rêt
+network-proxy-connection-description = Configure cemût che { -brand-short-name } si conet a internet.
+network-proxy-connection-learn-more = Plui informazions
 network-proxy-connection-settings =
-    .label = Parametris…
-    .accesskey = P
+    .label = Impostazions…
+    .accesskey = I
 
 ## Home Section
 
+home-new-windows-tabs-header = Gnûfs barcons e schedis
+home-new-windows-tabs-description2 = Sielç ce che tu viodis cuant che tu vierzis la pagjine iniziâl, i gnûfs barcons e lis gnovis schedis.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pagjine iniziâl e gnûfs barcons
+home-newtabs-mode-label = Gnovis schedis
+home-restore-defaults =
+    .label = Ripristine predefinîts
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Pagjine iniziâl di Firefox (predefinide)
+home-mode-choice-custom =
+    .label = Direzions web personalizadis…
+home-mode-choice-blank =
+    .label = Pagjine vueide
+home-homepage-custom-url =
+    .placeholder = Tache un URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -447,6 +485,9 @@ use-current-pages =
            *[other] Dopre lis pagjinis corintis
         }
     .accesskey = c
+choose-bookmark =
+    .label = Dopre segnelibri…
+    .accesskey = b
 
 ## Home Section - Firefox Home Content Customization
 
