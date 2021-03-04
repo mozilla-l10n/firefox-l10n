@@ -187,7 +187,7 @@ appmenu-help-exit-troubleshoot-mode =
 
 appmenu-help-report-deceptive-site =
     .label = Prijavi obmanjujuću stranicu…
-    .accesskey = o
+    .accesskey = b
 appmenu-help-not-deceptive =
     .label = Ovo nije obmanjujuća stranica…
     .accesskey = d
