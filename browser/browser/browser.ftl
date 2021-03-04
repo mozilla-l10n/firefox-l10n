@@ -594,3 +594,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Puno i Palidhur
     .accesskey = o
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Audio ose video në këtë sajt përdor software DRM, çka mund të kufizojë ato që { -brand-short-name }-i mund t’ju lejojë të bëni me të.
