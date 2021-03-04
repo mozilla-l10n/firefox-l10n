@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Kapatılan sekmeleri aç
         }
     .accesskey = l
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Kapatılan sekmeyi yeniden aç
+           *[other] Kapatılan sekmeleri yeniden aç
+        }
+    .accesskey = K
 toolbar-context-menu-manage-extension =
     .label = Eklentiyi yönet
     .accesskey = E
