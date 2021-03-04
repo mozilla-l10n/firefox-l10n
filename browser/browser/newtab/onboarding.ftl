@@ -196,6 +196,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Wubjerće <span data-l10n-name="zap">napohlad</span>
 onboarding-multistage-theme-subtitle = Personalizujće { -brand-short-name } z drastu.
 onboarding-multistage-theme-primary-button-label = Drastu składować
+onboarding-multistage-theme-primary-button-label2 = Dokónčeny
 onboarding-multistage-theme-secondary-button-label = Nic nětko
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Awtomatiski
