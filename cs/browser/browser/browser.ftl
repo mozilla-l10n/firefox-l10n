@@ -655,3 +655,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Pracovat offline
     .accesskey = l
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Některé zvuky nebo videa na této stránce používají DRM software, což může omezit { -brand-short-name } při práci s tímto obsahem.
