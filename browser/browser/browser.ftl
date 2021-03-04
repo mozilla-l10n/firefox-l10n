@@ -430,3 +430,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Vinna án nettengingar
     .accesskey = g
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Sumar hljóðskrár eða myndbönd á þessu vefsvæði nota DRM hugbúnað, sem gæti hugsanlega takmarkað hvað { -brand-short-name } getur gert með það efni.
