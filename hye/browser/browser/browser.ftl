@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Աշխատել անցանց
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Այս կայքում որոշ ձայնանիւթ կամ տեսանիւթ աւգտագործում են DRM ծրագիր, որը կարող է սահմանափակել { -brand-short-name }-ի աւգտագործումը։
