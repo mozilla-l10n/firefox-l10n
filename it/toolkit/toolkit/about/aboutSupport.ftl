@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Informazioni per la risoluzione dei problemi
+page-title = Informazioni per la risoluzione di problemi
 page-subtitle = Questa pagina contiene informazioni tecniche che potrebbero risultare utili per risolvere eventuali problemi. Per le risposte alle domande più comuni a proposito di { -brand-short-name }, consultare il <a data-l10n-name="support-link">sito web dedicato al supporto</a>.
 
 crashes-title = Segnalazioni di arresto anomalo
