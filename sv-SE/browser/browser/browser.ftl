@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Arbeta nedkopplad
     .accesskey = b
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = En del ljud eller video på den här hemsidan använder DRM mjukvara, vilket kan begränsa vad { -brand-short-name } tillåter dig att använda den till.
