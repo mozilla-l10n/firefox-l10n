@@ -614,3 +614,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Lavora non in linea
     .accesskey = L
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Alcuni contenuti audio o video in questo sito utilizzano software DRM. Questo potrebbe limitare le azioni disponibili per l’utente in { -brand-short-name }.
