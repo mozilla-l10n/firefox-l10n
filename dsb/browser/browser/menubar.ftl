@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informacije za rozwězowanje problemow
     .accesskey = I
+menu-help-more-troubleshooting-info =
+    .label = Dalšne informacije za rozwězowanje problemow
+    .accesskey = D
 menu-help-taskmanager =
     .label = Zastojnik nadawkow
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Ze zmóžnjonymi dodankami znowego startowaś
     .accesskey = Z
+menu-help-enter-troubleshoot-mode =
+    .label = Modus za rozwězowanje problemow
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Modus za rozwězowanje problemow znjemóžniś
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

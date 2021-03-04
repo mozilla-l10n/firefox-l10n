@@ -196,6 +196,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Wubjeŕśo <span data-l10n-name="zap">naglěd</span>
 onboarding-multistage-theme-subtitle = Personalizěrujśo { -brand-short-name } z drastwu.
 onboarding-multistage-theme-primary-button-label = Drastwu składowaś
+onboarding-multistage-theme-primary-button-label2 = Dokóńcony
 onboarding-multistage-theme-secondary-button-label = Nic něnto
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Awtomatiski

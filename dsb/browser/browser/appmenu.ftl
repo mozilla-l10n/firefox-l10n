@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Dalšne rědy
 appmenuitem-exit =
     .label = Skóńcyś
+appmenu-menu-button-closed =
+    .tooltiptext = Nałožeński meni wócyniś
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Nałožeński meni zacyniś
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Pśizjawiś
 appmenu-fxa-setup-sync =
     .label = Synchronizaciju zmóžniś…
+appmenu-fxa-show-more-tabs = Dalšne rejtariki pokazaś
 appmenuitem-save-page =
     .label = Bok składowaś ako…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informacije za rozwězowanje problemow
     .accesskey = I
+appmenu-help-more-troubleshooting-info =
+    .label = Dalšne informacije za rozwězowanje problemow
+    .accesskey = D
 appmenu-help-taskmanager =
     .label = Zastojnik nadawkow
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Ze zmóžnjonymi dodankami znowego startowaś
     .accesskey = Z
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Modus za rozwězowanje problemow
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Modus za rozwězowanje problemow znjemóžniś
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
