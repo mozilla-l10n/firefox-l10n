@@ -153,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Marandu apañuãi myatyrõrã
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = Maranduve apañuãi ñemyatyrõ rehegua
+    .accesskey = T
 appmenu-help-taskmanager =
     .label = Tembiapo ñangarekohára
 appmenu-help-report-site-issue =
@@ -174,6 +177,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = Mba’éicha emyatyrõta apañuãi
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Eipe’a mba’éicha emyatyrõta apañuãi
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
