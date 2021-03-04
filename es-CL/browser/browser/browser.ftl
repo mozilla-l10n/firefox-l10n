@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Trabajar desconectado
     .accesskey = j
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Algunos audios o videos de este sitio usan software con DRM, lo que puede limitar lo que { -brand-short-name } puede hacer con él.
