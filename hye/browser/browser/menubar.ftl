@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Վերջին փակուած ներդիրները
 menu-history-undo-window-menu =
     .label = Վերջին փակուած պատուհանները
+menu-history-reopen-all-tabs = Վերաբացել բոլոր ներդիրները
+menu-history-reopen-all-windows = Վերաբացել բոլոր պատուհանները
 
 ## Bookmarks Menu
 
@@ -317,6 +319,9 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = Ստեղնաշարի պիտակներ
     .accesskey = K
+menu-get-help =
+    .label = Ստանալ աւգնութիւն
+    .accesskey = ա
 menu-help-troubleshooting-info =
     .label = Անսարքութեան տեղեկատուութիւն
     .accesskey = T
