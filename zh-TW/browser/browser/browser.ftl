@@ -515,6 +515,8 @@ crashed-subframe-message = <strong>此頁面中的部分內容發生錯誤。</s
 crashed-subframe-learnmore =
     .label = 了解更多
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = 了解更多
 crashed-subframe-submit =
     .label = 送出報告
     .accesskey = S
@@ -612,4 +614,8 @@ more-menu-go-offline =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = 此網站的某些影音內容需要使用 DRM 軟體，可能會影響 { -brand-short-name } 能讓您使用的功能。
+eme-notifications-drm-content-playing = 此網站的某些影音內容需要使用 DRM 軟體，可能會限制 { -brand-short-name } 能讓您使用的功能。
+eme-notifications-drm-content-playing-manage = 管理設定
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = 知道了！
+eme-notifications-drm-content-playing-dismiss-accesskey = D
