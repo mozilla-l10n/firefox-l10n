@@ -584,3 +584,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Treballa fora de línia
     .accesskey = b
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Este lloc conté àudio o vídeo que utilitza programari de DRM, cosa que pot limitar allò que el { -brand-short-name } vos pot permetre fer.
