@@ -619,3 +619,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Offline werken
     .accesskey = f
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Sommige audio- of videobestanden op deze pagina gebruiken DRM-software die { -brand-short-name } kan beperken in wat u ermee wilt doen.
