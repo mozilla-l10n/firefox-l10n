@@ -461,3 +461,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Obraich far loidhne
     .accesskey = O
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Tha cuid dhen fhuaim no video air an làrach seo a' cleachdadh bathar-bog DRM agus dh'fhaoidte gun cuingich seo na 's urrainn dhut a dhèanamh leis ann am { -brand-short-name }.
