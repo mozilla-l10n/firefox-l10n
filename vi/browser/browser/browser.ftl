@@ -609,3 +609,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Làm việc ngoại tuyến
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Một số nguồn audio và video trên trang này có sử dụng phần mềm DRM bảo vệ bản quyền nên một số thao tác có thể bị giới hạn với { -brand-short-name }.
