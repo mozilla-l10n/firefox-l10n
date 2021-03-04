@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = კავშირგარეშე რეჟიმი
     .accesskey = კ
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ამ საიტზე ხმოვანი ფაილების ან ვიდეოების ნაწილი ექვემდებარება DRM-პროგრამას, რომლის გამოც შესაძლოა { -brand-short-name } გიზღუდავდეთ მათ სრულად გამოყენებას.
