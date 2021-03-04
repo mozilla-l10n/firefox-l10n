@@ -31,3 +31,7 @@
 <!ENTITY enablePrefetch.accesskey        "P">
 
 <!ENTITY debugCache.label                "Débogage">
+<!ENTITY debugEnableMemCache.label       "Activer le cache mémoire">
+<!ENTITY debugEnableMemCache.accesskey   "e">
+<!ENTITY debugEnableDiskCache.label      "Activer le cache de disque">
+<!ENTITY debugEnableDiskCache.accesskey  "d">

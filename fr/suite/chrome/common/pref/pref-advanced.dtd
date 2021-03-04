@@ -15,6 +15,10 @@
 <!ENTITY prefCheckDefaultClient.accesskey "V">
 
 <!ENTITY printing.label                   "Impression">
+<!ENTITY useNativePrintDialog.label       "Utiliser la boite de dialogue d’impression native (si elle est prise en charge)">
+<!ENTITY useNativePrintDialog.accesskey   "U">
+<!ENTITY useGlobalPrintSettings.label     "Utiliser les paramètres d’impression globaux">
+<!ENTITY useGlobalPrintSettings.accesskey "g">
 
 <!ENTITY crashReports.caption             "Rapporteur de plantage">
 <!ENTITY submitCrashes.label              "Envoyer les rapports de plantage">
