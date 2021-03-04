@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Bu sayfanın bir kısmı çöktü.</strong> B
 crashed-subframe-learnmore =
     .label = Daha fazla bilgi al
     .accesskey = b
+crashed-subframe-learnmore-link =
+    .value = Daha fazla bilgi al
 crashed-subframe-submit =
     .label = Rapor gönder
     .accesskey = R
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bu sitedeki bazı ses veya videolar DRM yazılımı kullanıyor. Bu yazılım, { -brand-short-name } ile yapabileceklerinizi kısıtlayabilir.
+eme-notifications-drm-content-playing-manage = Ayarları yönet
+eme-notifications-drm-content-playing-manage-accesskey = A
+eme-notifications-drm-content-playing-dismiss = Kapat
+eme-notifications-drm-content-playing-dismiss-accesskey = K

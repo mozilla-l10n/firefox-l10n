@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Kapsayıcıda yeniden aç
     .accesskey = K
+tab-context-open-in-container =
+    .label = Yeni kapsayıcıda aç
+    .accesskey = n
 move-to-start =
     .label = En başa taşı
     .accesskey = E
@@ -92,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Sekmeyi taşı
     .accesskey = t
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Kapatılan sekmeyi yeniden aç
+            [one] Kapatılan sekmeyi yeniden aç
+           *[other] Kapatılan sekmeleri yeniden aç
+        }
+    .accesskey = K
 tab-context-close-tabs =
     .label =
         { $tabCount ->

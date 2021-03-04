@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
+menu-help-more-troubleshooting-info =
+    .label = Sorun giderme bilgileri
+    .accesskey = S
 menu-help-taskmanager =
     .label = Görev yöneticisi
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Eklentileri etkinleştirip yeniden başlat
     .accesskey = E
+menu-help-enter-troubleshoot-mode =
+    .label = Sorun giderme modu
+    .accesskey = m
+menu-help-exit-troubleshoot-mode =
+    .label = Sorun giderme modunu kapat
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
