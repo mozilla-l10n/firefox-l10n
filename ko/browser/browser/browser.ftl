@@ -515,6 +515,8 @@ crashed-subframe-message = <strong>이 페이지의 일부가 손상되었습니
 crashed-subframe-learnmore =
     .label = 더 알아보기
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = 더 알아보기
 crashed-subframe-submit =
     .label = 보고서 제출
     .accesskey = S
@@ -613,3 +615,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = 여러분이 마음대로 { -brand-short-name }를 쓰지 못하게 할 수 있는 DRM 소프트웨어가 이 사이트의 일부 오디오나 동영상에 쓰이고 있습니다.
+eme-notifications-drm-content-playing-manage = 설정 관리
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = 닫기
+eme-notifications-drm-content-playing-dismiss-accesskey = D
