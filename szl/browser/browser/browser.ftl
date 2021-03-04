@@ -619,3 +619,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Rōb offline
     .accesskey = f
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Klang abo filmy na tyj strōnie używajōm softwaru DRM, co może zmyńszyć to, co { -brand-short-name } poradzi zrobić.
