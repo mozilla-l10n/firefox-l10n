@@ -4,8 +4,6 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
-<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
 
 <!ENTITY appmenu.tooltip                     "Vierç il menu">
 <!ENTITY navbarOverflow.label                "Altris imprescj">
@@ -17,14 +15,8 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "Fisse la schede">
 <!ENTITY  unpinTab.label                     "Disbloche la schede">
-
-
-
-
-
 
 <!ENTITY  listAllTabs.label      "Liste dutis lis lengutis">
 
@@ -32,25 +24,36 @@ can reach it easily. -->
 <!ENTITY openFileCmd.label "Vierç un file…">
 <!ENTITY printCmd.label "Stampe…">
 
+
 <!ENTITY menubarCmd.label "Sbare dai menù">
 <!ENTITY menubarCmd.accesskey "m">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Bande dai Segnelibris">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Elements de bande dai Segnelibris">
-
 
 <!ENTITY fullScreenCmd.label "Dut il visôr">
 
 
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.turnOnSync.label "Ative &syncBrand.shortName.label;">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
- <!ENTITY fullscreenWarning.beforeDomain.label "">
-
+<!ENTITY fullscreenWarning.beforeDomain.label "">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -61,90 +64,39 @@ can reach it easily. -->
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
-
-
 <!ENTITY showAllBookmarks2.label "Mostre ducj i segnelibris">
-
-
-
 <!ENTITY bookmarksToolbarChevron.tooltip "Fâs viodi altris segnelibris">
-
-
-
-
 
 <!ENTITY printButton.label            "Stampe">
 <!ENTITY printButton.tooltip          "Stampe cheste pagjine">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Toolbar items -->
-
-
 <!ENTITY homeButton.label             "Cjase">
 
 <!ENTITY bookmarksButton.label          "Segnelibris">
 
-
 <!ENTITY viewBookmarksSidebar2.label        "Viôt la sbare in bande dai Segnelibris">
-
 <!ENTITY viewBookmarksToolbar.label         "Viôt Bande dai Segnelibris">
-
 <!ENTITY searchBookmarks.label              "Cîr tai segnelibris">
-
-
-
-
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
-  -  key should not contain the letters A-F, since these are reserved
-  -  shortcut keys on Linux. -->
 
 <!ENTITY historyButton.label            "Cronologjie">
 
 <!ENTITY downloads.label              "Discjamadis">
-
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY addons.label                 "Zontis">
 
 <!ENTITY webDeveloperMenu.label       "Svilupadôr dal Web">
 
-
 <!ENTITY newNavigatorCmd.label        "Gnûf barcon">
 <!ENTITY newPrivateWindow.label     "Gnûf barcon privât">
 
-
 <!ENTITY editMenu.label         "Modifiche">
-
-
-
 <!ENTITY preferencesCmd2.label       "Opzions">
 <!ENTITY preferencesCmdUnix.label       "Preferencis">
-
 
 
 <!ENTITY historyMenu.label "Cronologjie">
@@ -153,140 +105,59 @@ can reach it easily. -->
 <!ENTITY historyUndoWindowMenu.label "Barcons sierâts che al è pôc">
 
 <!ENTITY appMenuHistory.showAll.label "Visualize dute la cronologjie">
+
 <!ENTITY appMenuHistory.clearRecent.label "Nete la cronologjie resinte...">
 <!ENTITY appMenuHistory.restoreSession.label "Ripristine la session precedent">
 <!ENTITY appMenuHistory.viewSidebar.label "Viôt la sbare da storie">
-
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ative la sincronizazion des schedis par visualizâ une liste di schedis dai tiei altris dispositîfs.">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
-
-
-
-
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Ative &syncBrand.shortName.label;…">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Zonte a la sbare dai strumens">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Z">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
-
-
-
-
+     in the location bar. -->
 <!ENTITY customizeMenu.removeFromToolbar.label "Gjave de rie dai imprescj">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "G">
 <!ENTITY customizeMenu.addMoreItems.label "Zonte plui arguments">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Z">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
 
-
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
-<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
-<!--
-  Comment duplicated from browser-sets.inc:
-
-  Search Command Key Logic works like this:
-
-  Unix: Ctrl+J (0.8, 0.9 support)
-        Ctrl+K (cross platform binding)
-  Mac:  Cmd+K (cross platform binding)
-        Cmd+Opt+F (platform convention)
-  Win:  Ctrl+K (cross platform binding)
-        Ctrl+E (IE compat)
-
-  We support Ctrl+K on all platforms now and advertise it in the menu since it is
-  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
-  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
-  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
-  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
-  for people to switch to Linux.
-
- -->
-
-<!-- LOCALIZATION NOTE (contentSearchInput.label):
-     This is set as the aria-label attribute for the search input box in the
-     in-content search UI, to be used by screen readers. -->
-
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
-
-<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
-     These two strings are used to build the header above the list of one-click
-     search providers:  "Search for <used typed keywords> with:" -->
-
-<!-- LOCALIZATION NOTE (searchWithHeader.label):
-     The wording of this string should be as close as possible to
-     searchFor.label and searchWith.label. This string will be used instead of
-     them when the user has not typed any keyword. -->
-<!-- LOCALIZATION NOTE (changeSearchSettings.button):
-     This string won't wrap, so if the translated string is longer,
-     consider translating it as if it said only "Search Settings". -->
-
-
-
-
-
 
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "Mande leam par pueste...">
-
-
-<!-- Media (video/audio) controls -->
-<!-- LOCALIZATION NOTE: The access keys for "Play" and
-"Pause" are the same because the two context-menu
-items are mutually exclusive. -->
-
-
-
-
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
-movie "Space Balls" and is meant to say that this speed is very
-fast. -->
-
-
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY fullZoom.label                 "Zoom">
 
 <!ENTITY sidebarCloseButton.tooltip     "Siere la sbare laterâl">
-
 
 <!ENTITY quitApplicationCmdWin2.label       "Jes">
 <!ENTITY quitApplicationCmdWin2.accesskey   "J">
@@ -294,7 +165,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Jes">
 <!ENTITY quitApplicationCmd.accesskey   "J">
 <!ENTITY quitApplicationCmdMac2.label   "Jes di &brandShortName;">
-
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -310,126 +180,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Zonte dizionaris…">
 <!ENTITY spellAddDictionaries.accesskey "Z">
 
-
-
-
-
-
-
-
-
-<!-- Strings for connection state warnings. -->
-
-
-
-<!-- Strings for connection state warnings in the subview. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
-
 <!ENTITY tabsToolbar.label "Viôt le lengutis">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!ENTITY syncBrand.shortName.label    "Sincronizazion">
 
 
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-
-
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
-
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-
-<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
-     width of the plugin popup notification that can appear if a plugin has been
-     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
-     and pluginActivateAlways.label strings above on a single line. This must be
-     a CSS length value. -->
-
 
 <!ENTITY uiTour.infoPanel.close "Siere">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-
-
-
-
 
 <!ENTITY panicButton.thankyou.buttonlabel         "Ringraziaments">
 
@@ -437,28 +196,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->

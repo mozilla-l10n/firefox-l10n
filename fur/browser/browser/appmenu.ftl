@@ -45,6 +45,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronize cumò
+appmenu-fxa-setup-sync =
+    .label = Ative la sincronizazion…
 appmenuitem-save-page =
     .label = Salve pagjine come…
 
@@ -97,6 +99,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Maiusc+2
     }
+
+## History panel
+
 
 ## Help panel
 
@@ -151,3 +156,6 @@ appmenu-help-not-deceptive =
 
 appmenu-help-check-for-update =
     .label = Cîr inzornaments…
+
+## More Tools
+
