@@ -32,3 +32,5 @@ text-action-delete =
     .accesskey = ח
 text-action-select-all-shortcut =
     .key = A
+text-action-spell-no-suggestions =
+    .label = אין הצעות איות
