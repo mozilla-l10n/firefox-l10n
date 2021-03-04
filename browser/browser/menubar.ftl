@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
+menu-help-more-troubleshooting-info =
+    .label = Περισσότερες πληροφορίες επίλυσης προβλημάτων
+    .accesskey = Π
 menu-help-taskmanager =
     .label = Διαχείριση εργασιών
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Επανεκκίνηση με ενεργά πρόσθετα
     .accesskey = π
+menu-help-enter-troubleshoot-mode =
+    .label = Λειτουργία επίλυσης προβλημάτων
+    .accesskey = Λ
+menu-help-exit-troubleshoot-mode =
+    .label = Απενεργοποίηση λειτουργίας επίλυσης προβλημάτων
+    .accesskey = ν
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

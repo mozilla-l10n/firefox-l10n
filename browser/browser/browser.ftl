@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Μέρος της σελίδας κατέρρ
 crashed-subframe-learnmore =
     .label = Μάθετε περισσότερα
     .accesskey = Μ
+crashed-subframe-learnmore-link =
+    .value = Μάθετε περισσότερα
 crashed-subframe-submit =
     .label = Υποβολή αναφοράς
     .accesskey = Υ
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Κάποιοι ήχοι ή βίντεο σε αυτή την ιστοσελίδα χρησιμοποιούν λογισμικό DRM, που ενδέχεται να περιορίσει αυτά που μπορείτε να κάνετε με το { -brand-short-name }.
+eme-notifications-drm-content-playing-manage = Διαχείριση ρυθμίσεων
+eme-notifications-drm-content-playing-manage-accesskey = Δ
+eme-notifications-drm-content-playing-dismiss = Απόρριψη
+eme-notifications-drm-content-playing-dismiss-accesskey = Α
