@@ -609,3 +609,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = 오프라인으로 작업
     .accesskey = w
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = 여러분이 마음대로 { -brand-short-name }를 쓰지 못하게 할 수 있는 DRM 소프트웨어가 이 사이트의 일부 오디오나 동영상에 쓰이고 있습니다.
