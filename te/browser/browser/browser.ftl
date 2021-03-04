@@ -532,3 +532,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = ఆఫ్‌లైన్‌లో పనిచేయి
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ఈ సైటు లోని ఆడియో లేదా వీడియో DRM సాఫ్ట్‌వేరును వాడుతోంది, అది { -brand-short-name } మిమ్మల్ని ఏమేం చేయనివ్వగలదో పరిమితం చేయవచ్చు.
