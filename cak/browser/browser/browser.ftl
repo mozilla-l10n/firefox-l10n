@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Chupül rusamaj
     .accesskey = m
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Jun k'oxom o silowachib'äl pa re jun ruxaq k'amaya'l re' nrokisaj DRM kema', ri nitikïr nuq'ät jub'a' rusamaj ri { -brand-short-name } nuya' q'ij nab'än rik'in.
