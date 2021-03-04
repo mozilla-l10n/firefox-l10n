@@ -384,3 +384,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = अफलाइन कार्य गर्नुहोस्
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = यो साइटमा रहेको केही अडियो या भिडियोले DRM प्रयोग गर्दछन्, तपाईँद्वारा { -brand-short-name } मार्फत गर्ने कुरामा कमी ल्याउन सक्छ।
