@@ -85,18 +85,41 @@ fonts-serif = Serif (cun graciis)
     .accesskey = S
 fonts-sans-serif = Sans-serif (cence graciis)
     .accesskey = n
+fonts-monospace = Largjece fisse
+    .accesskey = f
+fonts-monospace-size = Dimension
+    .accesskey = e
+fonts-minsize = Dimension minime dal caratar
+    .accesskey = o
 fonts-minsize-none =
     .label = Nissune
+fonts-allow-own =
+    .label = Permet aes pagjinis di sielzi i lôr caratars, invezit des tôs selezions chi parsore
+    .accesskey = a
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Codifiche dal test pai contignûts datâts
+fonts-languages-fallback-desc = Cheste codifiche di test e ven doprade pal contignût datât che nol rive a declarâ la sô codifiche.
+fonts-languages-fallback-label = Codifiche di repeç dal test
+    .accesskey = t
+fonts-languages-fallback-name-auto =
+    .label = Predefinît pe localizazion atuâl
+fonts-languages-fallback-name-arabic =
+    .label = Arap
 fonts-languages-fallback-name-baltic =
     .label = Baltic
 fonts-languages-fallback-name-ceiso =
     .label = Europe centrâl, ISO
+fonts-languages-fallback-name-cewindows =
+    .label = European Centrâl, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Cinês, semplificât
+fonts-languages-fallback-name-traditional =
+    .label = Cinês, tradizionâl
 fonts-languages-fallback-name-cyrillic =
     .label = Cirilic
 fonts-languages-fallback-name-greek =
@@ -112,8 +135,12 @@ fonts-languages-fallback-name-thai =
 fonts-languages-fallback-name-turkish =
     .label = Turc
 fonts-languages-fallback-name-vietnamese =
-    .label = Vietnamit
+    .label = Vietnamite
+fonts-languages-fallback-name-other =
+    .label = Altri (includût European Ocidentâl)
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Predeterminât ({ $name })
+    .label = Predefinît ({ $name })
+fonts-label-default-unnamed =
+    .label = Predefinît
