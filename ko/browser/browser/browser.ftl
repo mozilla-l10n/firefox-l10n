@@ -614,7 +614,7 @@ more-menu-go-offline =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = 여러분이 마음대로 { -brand-short-name }를 쓰지 못하게 할 수 있는 DRM 소프트웨어가 이 사이트의 일부 오디오나 동영상에 쓰이고 있습니다.
+eme-notifications-drm-content-playing = 이 사이트의 일부 오디오 또는 비디오는 DRM 소프트웨어를 사용하므로 { -brand-short-name }에서 수행할 수 있는 작업이 제한될 수 있습니다.
 eme-notifications-drm-content-playing-manage = 설정 관리
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = 닫기
