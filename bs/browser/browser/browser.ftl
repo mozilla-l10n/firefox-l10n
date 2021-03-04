@@ -423,3 +423,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Radi offline
     .accesskey = R
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Neki audio ili video sadržaji na ovoj stranici koriste DRM softver, što može ograničiti šta { -brand-short-name } može uraditi s njima.
