@@ -130,7 +130,25 @@ startup-header = Inviament
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = permet la esecuzion in contemporanie di { -brand-short-name } e di Firefox
-tabs-group-header = Lengutis
+use-firefox-sync = Sugjeriment: Chest al puarte a doprâ profîi separâts. Dopre { -sync-brand-short-name } par condividi tra di lôr i dâts.
+get-started-not-logged-in = Jentre su { -sync-brand-short-name }…
+get-started-configured = Vierç lis preferencis di { -sync-brand-short-name }
+always-check-default =
+    .label = Controle simpri se { -brand-short-name } al è il tô navigadôr predefinît
+    .accesskey = è
+is-default = In chest moment { -brand-short-name } al è il to navigadôr predefinît
+is-not-default = { -brand-short-name } nol è il to navigadôr predefinît
+set-as-my-default-browser =
+    .label = Definìs come predefinît…
+    .accesskey = d
+startup-restore-previous-session =
+    .label = Ripristine session precedente
+    .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Vise cuant che si jes dal navigadôr
+disable-extension =
+    .label = Disative estension
+tabs-group-header = Schedis
 
 ## General Section - Language & Appearance
 
