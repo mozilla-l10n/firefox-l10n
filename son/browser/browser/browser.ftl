@@ -325,3 +325,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Goy bila nda cinari
     .accesskey = G
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Jinde wala widewo foo interneti nungoo woo ra ga goy nda DRM goyjinay kaŋ ga hin ka goyey kaŋ { -brand-short-name } ga naŋ war m'i tee nd'a nakaši.
