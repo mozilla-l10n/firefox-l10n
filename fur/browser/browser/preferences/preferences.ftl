@@ -187,27 +187,71 @@ containers-disable-alert-ok-button =
     }
 containers-disable-alert-cancel-button = Ten abilitadis
 containers-remove-alert-title = Gjavâ chest contignidôr?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Se tu gjavis cumò chest contignidôr, { $count } schede contignidôr e vignarà sierade. Gjavâ pardabon chest contignidôr?
+       *[other] Se tu gjavis cumò chest contignidôr, { $count } schedis contignidôr a vignaran sieradis. Gjavâ pardabon chest contignidôr?
+    }
+containers-remove-ok-button = Gjave chest contignidôr
+containers-remove-cancel-button = No sta gjavâ chest contignidôr
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Lenghe e aspiet
 fonts-and-colors-header = Caratars e colôrs
+default-font = Caratar predefinît
+    .accesskey = d
+default-font-size = Dimension
+    .accesskey = s
 advanced-fonts =
-    .label = Avanzât…
+    .label = Avanzadis…
     .accesskey = v
 colors-settings =
     .label = Colôrs…
     .accesskey = C
-choose-language-description = Sielç la tô lenghe preferide par visualizâ pagjinis
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Ingrandiment
+preferences-default-zoom = Ingrandiment predefinît
+    .accesskey = f
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Ingrandìs dome il test
+    .accesskey = t
+language-header = Lenghe
+choose-language-description = Sielç la tô lenghe preferide par visualizâ lis pagjinis
 choose-button =
     .label = Sielç…
     .accesskey = S
+choose-browser-language-description = Sielç lis lenghis dopradis par visualizâ i menù, i messaçs e lis notifichis di { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Stabilìs lis alternativis…
+    .accesskey = l
+confirm-browser-language-change-description = Torne invie { -brand-short-name } par aplicâ chestis modifichis
+confirm-browser-language-change-button = Apliche e torne invie
+translate-web-pages =
+    .label = Volte il contignût web
+    .accesskey = t
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traduzions di <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ecezions…
     .accesskey = z
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Dopre lis impostazions dal to sisteme operatîf in “{ $localeName }” par formatâ datis, oris, numars e misuris.
+check-user-spelling =
+    .label = Controle la ortografie intant che tu scrivis
+    .accesskey = t
 
 ## General Section - Files and Applications
 
-download-header = Discjamadis
+files-and-applications-title = Files e aplicazions
+download-header = Discjamâts
 download-save-to =
     .label = Salve i files in
     .accesskey = S
@@ -222,8 +266,15 @@ download-choose-folder =
             [macos] S
            *[other] g
         }
+download-always-ask-where =
+    .label = Domande simpri dulà salvâ i files
+    .accesskey = a
+applications-header = Aplicazions
+applications-description = Sielç cemût che { -brand-short-name } al à di gjestî i files che tu discjariis dal web o lis aplicazions che tu dopris intant che tu navighis.
+applications-filter =
+    .placeholder = Cîr gjenars di file o aplicazions
 applications-type-column =
-    .label = Gnenar di contignût
+    .label = Gjenar di contignût
     .accesskey = t
 applications-action-column =
     .label = Azion
@@ -240,15 +291,22 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Dopre { $app-name } (predeterminade)
+    .label = Dopre { $app-name } (predefinide)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Dopre la aplicazion predefinide di macOS
+            [windows] Dopre la aplicazion predefinide di Windows
+           *[other] Dopre la aplicazion predefinide dal sisteme
+        }
 applications-use-other =
     .label = Dopre alc altri…
-applications-select-helper = Sielç la aplicazion di supuart
+applications-select-helper = Selezione la aplicazion di supuart
 applications-manage-app =
     .label = Detais de aplicazion…
 applications-always-ask =
     .label = Domande simpri
-applications-type-pdf = Portable Document Format (PDF)
+applications-type-pdf = PDF (Formât di document portatil)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -257,9 +315,15 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Dopre { $plugin-name } (in { -brand-short-name })
+applications-open-inapp =
+    .label = Vierç in { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -271,15 +335,37 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
+drm-content-header = Contignût DRM (Digital Rights Management, gjestion dai dirits digjitâi)
+play-drm-content =
+    .label = Riprodûs contignût protet di DRM
+    .accesskey = p
+play-drm-content-learn-more = Plui informazions
+update-application-title = Inzornaments di { -brand-short-name }
+update-application-description = Ten { -brand-short-name } inzornât par vê lis miôrs prestazions, stabilitât e sigurece.
+update-application-version = Version { $version } <a data-l10n-name="learn-more">Novitâts</a>
+update-history =
+    .label = Mostre cronologjie inzornaments…
+    .accesskey = M
+update-application-allow-description = Permet a { -brand-short-name } di
+update-application-auto =
+    .label = Instale i inzornaments in automatic (conseât)
+    .accesskey = a
+update-application-check-choose =
+    .label = Controlâ la disponibilitât di inzornaments ma permeti al utent di sielzi se instalâju
+    .accesskey = C
 update-application-use-service =
     .label = Dopre servizi in background par instalâ i inzornaments
     .accesskey = b
