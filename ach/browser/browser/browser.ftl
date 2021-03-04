@@ -476,3 +476,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Ti ma pe ikube iyamo
     .accesskey = T
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Dwon ki vidio mogo i kakube man tiyo ki purugram me DRM, ma romo gengo { -brand-short-name } mene ma weko itiyo kwede.
