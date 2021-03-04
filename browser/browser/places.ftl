@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = باز کردن در زبانهٔ جدید
     .accesskey = ج
+places-open-in-tab =
+    .label = باز کردن در زبانهٔ جدید
+    .accesskey = w
+places-open-all-bookmarks =
+    .label = باز کردن همه نشانک‌ها
+    .accesskey = O
 places-open-all-in-tabs =
     .label = باز کردن همه در زبانه‌های خاص خود
     .accesskey = ب
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = جداساز جدید
     .accesskey = س
+places-open-in-window =
+    .label = باز کردن در پنجرهٔ جدید
+    .accesskey = N
+places-open-in-private-window =
+    .label = باز کردن در پنجرهٔ ناشناس جدید
+    .accesskey = P
+places-add-bookmark =
+    .label = اضافه کردن نشانک…
+    .accesskey = B
+places-add-folder-contextmenu =
+    .label = اضافه کردن پوشه
+    .accesskey = F
+places-add-folder =
+    .label = اضافه کردن پوشه…
+    .accesskey = o
+places-add-separator =
+    .label = اضافه کردن جدا کننده
+    .accesskey = S
 places-view =
     .label = نما
     .accesskey = ن
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = ویژگی‌ها
     .accesskey = و
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = ویرایش نشانک…
+    .accesskey = i
+places-edit-generic =
+    .label = ویرایش…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = نشانک‌های مدیریت شده
@@ -69,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = سایر نشانک‌ها
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] حذف نشانک
+           *[other] حذف نشانک‌ها
+        }
+    .accesskey = e
+places-manage-bookmarks =
+    .label = مدیریت نشانک‌ها
+    .accesskey = M
