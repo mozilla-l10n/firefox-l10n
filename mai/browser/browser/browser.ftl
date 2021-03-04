@@ -275,3 +275,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ऑफ़लाइन काम करू (k)
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = एहि साइट पर किछु ऑडियो या वीडियो DRM सॉफ्टवेयर केर उपयोग करैत छी, जे सीमित कए सकैत अछि जे { -brand-short-name } अहाँक एकरा सँग की करए दिए सकैत अछि.
