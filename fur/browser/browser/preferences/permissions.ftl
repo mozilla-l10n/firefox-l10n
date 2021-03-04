@@ -114,9 +114,13 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Chescj sîts web a àn domandât di inviâti notifichis. Tu puedis specificâ chei che a puedin inviâti notifichis. Tu puedis ancje blocâ lis gnovis richiestis di permès pes notifichis.
 permissions-site-notification-disable-label =
     .label = Bloche lis gnovis richiestis di permès pes notifichis
+permissions-site-notification-disable-desc = Chest al impedirà a ducj i sîts web che no son listâts achì parsore di domandâ il permès par inviâ notifichis. Se lis notifichis a vegnin blocadis si podarès vê il malfunzionament di cualchi sît web.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Impostazions - Permès pe posizion
+    .style = { permissions-window.style }
 
 ## Site Permissions - Virtual Reality
 
