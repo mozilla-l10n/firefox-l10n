@@ -496,3 +496,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Oflayn ishlash
     .accesskey = i
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Ushbu saytdagi bir nechta audio yoki video DRM dasturiy ta’minotidan foydalanadi. Ushbu dasturiy ta’minot { -brand-short-name } imkoniyatlarini cheklashi mumkin.
