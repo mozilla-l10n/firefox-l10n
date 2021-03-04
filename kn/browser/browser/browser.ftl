@@ -379,3 +379,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ಆಫ್‍ಲೈನ್‍ನಲ್ಲಿ ಕೆಲಸ ಮಾಡು
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ಈ ತಾಣದಲ್ಲಿರುವ ಕೆಲವೊಂದು ಧ್ವನಿ ಅಥವಾ ವಿಡಿಯೋ DRM ತಂತ್ರಾಂಶ ಬಳಸುತ್ತವೆ, ಇವು ನೀವು { -brand-short-name } ನೊಂದಿಗೆ ಏನು ಮಾಡಬಹುದೋ ಅದನ್ನು ಮಿತಿಗೆ ಒಳಪಡಿಸುತ್ತದೆ.
