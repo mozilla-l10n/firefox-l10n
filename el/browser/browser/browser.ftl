@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Εργασία χωρίς σύνδεση
     .accesskey = χ
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Κάποιοι ήχοι ή βίντεο σε αυτή την ιστοσελίδα χρησιμοποιούν λογισμικό DRM, που ενδέχεται να περιορίσει αυτά που μπορείτε να κάνετε με το { -brand-short-name }.
