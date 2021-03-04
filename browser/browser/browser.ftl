@@ -619,3 +619,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Izvanmrežni rad
     .accesskey = v
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Neki audio ili video materijali na ovoj stranici koriste DRM softver koji može ograničiti što { -brand-short-name } može učiniti s njima.
