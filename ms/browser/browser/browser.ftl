@@ -413,3 +413,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Kerja Luar Talian
     .accesskey = K
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Beberapa audio atau video pada laman ini menggunakan perisian DRM, yang mungkin mengehadkan penggunaan anda dengan { -brand-short-name }.
