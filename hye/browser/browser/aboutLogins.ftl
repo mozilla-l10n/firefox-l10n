@@ -317,6 +317,21 @@ about-logins-import-dialog-error-no-logins-imported = Մտից անուններ 
 about-logins-import-dialog-error-learn-more = Իմանալ աւելին
 about-logins-import-dialog-error-try-again = Կրկին փորձէք…
 about-logins-import-dialog-error-cancel = Չեղարկել
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Շարք { $number }
+about-logins-import-report-row-description-no-change = Կրկնաւրինակել․ առկայ մտից անուան ճշգրիտ համընկնումը
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
