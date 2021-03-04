@@ -590,3 +590,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Labourat ezlinenn
     .accesskey = z
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Bez ez eus aodio ha video war ar bajenn-mañ a arver meziantoù DRM, ar pezh a c'hell bevenniñ ar pezh a vezoc'h laosket gant { -brand-short-name } d'ober ganto.
