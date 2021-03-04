@@ -423,3 +423,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Strādāt nesaistē
     .accesskey = r
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Daži audio un video šajā lapā izmanto DRM, kas var ierobežot ko { -brand-short-name } var darīt ar tiem.
