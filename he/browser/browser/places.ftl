@@ -84,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = מאפיינים
     .accesskey = מ
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = עריכת סימנייה…
+    .accesskey = ע
+places-edit-generic =
+    .label = עריכה…
+    .accesskey = ע
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = סימניות מנוהלות
@@ -93,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = סימניות אחרות
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] הסרת סימנייה
+           *[other] הסרת סימניות
+        }
+    .accesskey = ס
+places-manage-bookmarks =
+    .label = ניהול סימניות
+    .accesskey = נ
