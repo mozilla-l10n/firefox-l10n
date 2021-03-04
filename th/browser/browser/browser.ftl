@@ -609,3 +609,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = ทำงานออฟไลน์
     .accesskey = ฟ
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = เสียงหรือวิดีโอบางส่วนในไซต์นี้ใช้ซอฟต์แวร์ DRM ซึ่งอาจจะจำกัดสิ่งที่ { -brand-short-name } สามารถให้คุณทำได้
