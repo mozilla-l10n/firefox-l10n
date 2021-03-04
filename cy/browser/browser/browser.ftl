@@ -625,3 +625,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Gweithio All-lein
     .accesskey = w
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Mae peth sain a fideo ar y wefan yn defnyddio meddalwedd DRM, gall gyfyngu'r hyn y gall { -brand-short-name } ei wneud gydag ef.
