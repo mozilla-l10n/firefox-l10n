@@ -625,3 +625,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = ਆਫਲਾਈਨ ਕੰਮ ਕਰੋ
     .accesskey = w
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ਇਹ ਸਾਈਟ ਉੱਤੇ ਕੁਝ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ DRM ਸਾਫਟਵੇਅਰ ਵਰਤਦੇ ਹਨ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ { -brand-short-name } ਨਾਲ ਕੰਮ ਕਰਨ ਨੂੰ ਸੀਮਤ ਕਰ ਸਕਦਾ ਹੈ।
