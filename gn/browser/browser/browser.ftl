@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Mba’apo ñanduti’ỹre
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Heta mba’epu térã ta’ãngamýi ko tenda pegua oipuru software DRM, upéva omomichĩ pe { -brand-short-name } ohejáva ejapo heseve.
