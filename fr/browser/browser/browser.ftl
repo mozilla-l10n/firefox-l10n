@@ -617,3 +617,7 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Travailler hors connexion
     .accesskey = x
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = De l’audio ou de la vidéo sur ce site utilise des DRM, ce qui peut limiter les actions que vous permet { -brand-short-name } sur ces éléments.
