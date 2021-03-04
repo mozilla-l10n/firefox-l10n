@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = 더 많은 도구
 appmenuitem-exit =
     .label = 종료
+appmenu-menu-button-closed =
+    .tooltiptext = 응용 프로그램 메뉴 열기
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = 응용 프로그램 메뉴 닫기
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = 로그인
 appmenu-fxa-setup-sync =
     .label = 동기화 켜기…
+appmenu-fxa-show-more-tabs = 더 많은 탭 표시
 appmenuitem-save-page =
     .label = 다른 이름으로 저장…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = 문제 해결 정보…
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = 추가 문제 해결 정보
+    .accesskey = T
 appmenu-help-taskmanager =
     .label = 작업 관리자
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = 부가 기능을 켜고 다시 시작
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = 문제 해결 모드
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = 문제 해결 모드 끄기
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
