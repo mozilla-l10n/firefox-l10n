@@ -439,3 +439,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ချိတ်ဆက်မဲ့သုံးရန်
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = ဒီဆိုက်ရှိ အော်ဒီယို (သို့) ဗွီဒီယိုအချို့သည် DRM ဆော့ဖ်ဝဲ({ -brand-short-name } က သင့်ကို ပေးထားသည့် လုပ်ပိုင်ခွင့်ကို ကန့်သတ်နိုင်သည်)ကို အသုံးပြုထားသည်။
