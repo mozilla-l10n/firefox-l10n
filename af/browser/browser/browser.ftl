@@ -318,3 +318,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = Werk vanlyn
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Sommige klank of video op dié werf gebruik DRM-sagteware, wat moontlik beperk wat { -brand-short-name } mens toelaat.
