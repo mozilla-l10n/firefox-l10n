@@ -145,10 +145,48 @@ startup-restore-previous-session =
     .label = Ripristine session precedente
     .accesskey = s
 startup-restore-warn-on-quit =
-    .label = Vise cuant che si jes dal navigadôr
+    .label = Vise cuant che tu jessis dal navigadôr
 disable-extension =
     .label = Disative estension
 tabs-group-header = Schedis
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab al fâs scori lis schedis lant daûr l'ordin di chês dopradis plui di resint
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Vierç i colegaments in schedin invezit che in gnûfs barcons
+    .accesskey = b
+warn-on-close-multiple-tabs =
+    .label = Vise cuant che tu sieris plui schedis intun colp sôl
+    .accesskey = p
+warn-on-open-many-tabs =
+    .label = Vise cuant che vierzint plui schedis tu puedis morestâ { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Cuant che tu vierzis un colegament intune schede, passe a chê daurman
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = Mostre lis anteprimis des schedis inte sbare des aplicazions di Windows
+    .accesskey = W
+browser-containers-enabled =
+    .label = Abilite lis schedis contignidôr
+    .accesskey = n
+browser-containers-learn-more = Plui informazions
+browser-containers-settings =
+    .label = Impostazions…
+    .accesskey = I
+containers-disable-alert-title = Sierâ dutis lis schedis contignidôr?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Se tu disativis cumò lis schedis contignidôr, { $tabCount } schede contignidôr e vignarà sierade. Disativâ pardabon lis schedis contignidôr?
+       *[other] Se tu disativis cumò lis schedis contignidôr, { $tabCount } schedis contignidôr a vignaran sieradis. Disativâ pardabon lis schedis contignidôr?
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Siere { $tabCount } schede contignidôr
+       *[other] Siere { $tabCount } schedis contignidôr
+    }
+containers-disable-alert-cancel-button = Ten abilitadis
+containers-remove-alert-title = Gjavâ chest contignidôr?
 
 ## General Section - Language & Appearance
 
