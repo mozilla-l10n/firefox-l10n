@@ -506,3 +506,7 @@ library-bookmarks-bookmark-edit =
 more-menu-go-offline =
     .label = ऑफ़लाइन काम करें
     .accesskey = k
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = इस साइट पर कुछ ऑडियो या वीडियो DRM सॉफ्टवेयर का उपयोग करते है, जो सिमित कर सकता है कि { -brand-short-name } आपको इसके साथ क्या करने दे सकता हैं.
