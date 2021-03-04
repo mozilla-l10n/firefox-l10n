@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Ein Teil der Seite ist abgestürzt.</strong> 
 crashed-subframe-learnmore =
     .label = Weitere Informationen
     .accesskey = W
+crashed-subframe-learnmore-link =
+    .value = Weitere Informationen
 crashed-subframe-submit =
     .label = Bericht senden
     .accesskey = B
@@ -621,3 +623,5 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Einige Audio- oder Videodateien auf dieser Seite nutzen DRM-Kopierschutz, der einschränkt, was Sie in { -brand-short-name } damit tun können.
+eme-notifications-drm-content-playing-manage = Einstellungen verwalten
+eme-notifications-drm-content-playing-manage-accesskey = v
