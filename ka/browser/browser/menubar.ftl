@@ -323,7 +323,10 @@ menu-get-help =
     .label = მხარდაჭერის მიღება
     .accesskey = ხ
 menu-help-troubleshooting-info =
-    .label = გაუმართაობის აღმოფხვრა
+    .label = ხარვეზის აღმოფხვრის მონაცემები
+    .accesskey = ფ
+menu-help-more-troubleshooting-info =
+    .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
     .accesskey = ფ
 menu-help-taskmanager =
     .label = ამოცანათა მმართველი
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = ჩართული დამატებებით გაშვება
     .accesskey = ჩ
+menu-help-enter-troubleshoot-mode =
+    .label = ხარვეზის აღმოფხვრის რეჟიმი
+    .accesskey = ჟ
+menu-help-exit-troubleshoot-mode =
+    .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
+    .accesskey = ჟ
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

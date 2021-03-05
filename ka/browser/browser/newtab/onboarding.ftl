@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = აირჩიეთ <span data-l10n-name="zap">იერსახე</span>
 onboarding-multistage-theme-subtitle = მოირგეთ { -brand-short-name } თემებით.
 onboarding-multistage-theme-primary-button-label = თემის შენახვა
+onboarding-multistage-theme-primary-button-label2 = მზადაა
 onboarding-multistage-theme-secondary-button-label = ახლა არა
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = ავტომატური
