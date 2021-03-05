@@ -576,6 +576,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Mostre sugjeriments di ricercje prime de cronologjie di navigazion tai risultâts de sbare de direzion
+search-show-suggestions-private-windows =
+    .label = Mostre i sugjeriments di ricercje tai barcons privâts
+suggestions-addressbar-settings-generic = Cambie lis preferencis pr altris sugjeriments de sbare de direzion
 search-choose-keyword-column =
     .label = Peraule clâf
 # This warning is displayed when the chosen keyword is already in use
