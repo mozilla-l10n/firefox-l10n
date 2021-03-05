@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
+menu-help-more-troubleshooting-info =
+    .label = Ch'aqa' Etamab'äl richin yesol taq k'ayewal
+    .accesskey = E
 menu-help-taskmanager =
     .label = Kinuk'samajel taq Samaj
 menu-help-report-site-issue =
@@ -338,6 +341,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Titikirisäx chik rik'in Tzijïl taq Tz'aqat
     .accesskey = T
+menu-help-enter-troubleshoot-mode =
+    .label = Kib'anikil taq k'ayewal
+    .accesskey = K
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

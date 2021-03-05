@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Tacha' jun <span data-l10n-name="zap">rub'anikil</span>
 onboarding-multistage-theme-subtitle = Tawichinaj { -brand-short-name } rik'in jun wachinel.
 onboarding-multistage-theme-primary-button-label = Tiyak Wachinel
+onboarding-multistage-theme-primary-button-label2 = Xk'is
 onboarding-multistage-theme-secondary-button-label = Wakami mani
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Yonil
