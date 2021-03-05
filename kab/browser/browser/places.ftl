@@ -29,6 +29,12 @@ places-new-folder =
 places-new-separator =
     .label = Anabraz amaynut
     .accesskey = b
+places-add-folder =
+    .label = Rnu akaram
+    .accesskey = a
+places-add-separator =
+    .label = Rnu anabraz
+    .accesskey = B
 places-view =
     .label = Smizzwer
     .accesskey = S
@@ -60,6 +66,13 @@ places-sortby-name =
 places-properties =
     .label = Taɣaṛa
     .accesskey = ṛ
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Ẓreg tacreṭ n usebter…
+    .accesskey = Ẓ
+places-edit-generic =
+    .label = Ẓreg…
+    .accesskey = Ẓ
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Ticraḍ n yisebtar yettusefraken
