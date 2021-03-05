@@ -40,6 +40,10 @@ printui-scale-pcent = Xakb'äl
 printui-two-sided-printing = Nitz'ajb'äx pa ka'i'-ruwa
 printui-duplex-checkbox = Titz'ajb'äx pa ka'i'-ruwa
 printui-two-sided-printing-off = Chupun
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Tiq'och pa ri nïm raqän ruchi'
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Tiq'och pa ri nïm ko'öl ruchi'
 # Section title for miscellaneous print options
 printui-options = Taq cha'oj
 printui-headers-footers-checkbox = Titz'ajb'äl taq nab'ey chuqa' ruxe' rub'i' ruxaq
