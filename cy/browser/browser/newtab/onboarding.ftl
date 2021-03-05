@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Dewiswch <span data-l10n-name = "zap">olwg</span>
 onboarding-multistage-theme-subtitle = Personoli { -brand-short-name } gyda thema.
 onboarding-multistage-theme-primary-button-label = Cadw Thema
+onboarding-multistage-theme-primary-button-label2 = Gorffen
 onboarding-multistage-theme-secondary-button-label = Nid nawr
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Awtomatig

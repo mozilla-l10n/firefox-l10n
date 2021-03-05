@@ -531,6 +531,8 @@ crashed-subframe-message = <strong>Mae rhan o'r dudalen hon wedi chwalu.</strong
 crashed-subframe-learnmore =
     .label = Dysgu rhagor
     .accesskey = D
+crashed-subframe-learnmore-link =
+    .value = Dysgu Rhagor
 crashed-subframe-submit =
     .label = Cyflwyno Adroddiad
     .accesskey = A
@@ -629,3 +631,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Mae peth sain a fideo ar y wefan yn defnyddio meddalwedd DRM, gall gyfyngu'r hyn y gall { -brand-short-name } ei wneud gydag ef.
+eme-notifications-drm-content-playing-manage = Rheoli Gosodiadau
+eme-notifications-drm-content-playing-manage-accesskey = R
+eme-notifications-drm-content-playing-dismiss = Cau
+eme-notifications-drm-content-playing-dismiss-accesskey = C
