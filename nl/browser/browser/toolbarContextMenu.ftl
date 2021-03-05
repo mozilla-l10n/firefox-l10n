@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Tabbladen sluiten ongedaan maken
         }
     .accesskey = o
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Gesloten tabblad opnieuw openen
+            [one] Gesloten tabblad opnieuw openen
+           *[other] Gesloten tabbladen opnieuw openen
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Extensie beheren
     .accesskey = E

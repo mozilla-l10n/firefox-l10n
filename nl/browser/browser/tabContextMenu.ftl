@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Opnieuw openen in Container
     .accesskey = C
+tab-context-open-in-container =
+    .label = Openen in nieuwe container
+    .accesskey = e
 move-to-start =
     .label = Verplaatsen naar begin
     .accesskey = b
@@ -92,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Tabblad verplaatsen
     .accesskey = l
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Gesloten tabblad opnieuw openen
+            [one] Gesloten tabblad opnieuw openen
+           *[other] Gesloten tabbladen opnieuw openen
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->

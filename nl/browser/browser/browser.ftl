@@ -625,3 +625,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Sommige audio- of videobestanden op deze pagina gebruiken DRM-software die { -brand-short-name } kan beperken in wat u ermee wilt doen.
+eme-notifications-drm-content-playing-manage = Instellingen beheren
+eme-notifications-drm-content-playing-manage-accesskey = b
+eme-notifications-drm-content-playing-dismiss = Sluiten
+eme-notifications-drm-content-playing-dismiss-accesskey = S
