@@ -617,4 +617,5 @@ more-menu-go-offline =
 eme-notifications-drm-content-playing = 此网站的一些音频或视频使用了含数字版权管理（DRM）的软件，这可能会限制 { -brand-short-name } 能让您使用的功能。
 eme-notifications-drm-content-playing-manage = 管理设置
 eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = 了解！
 eme-notifications-drm-content-playing-dismiss-accesskey = D
