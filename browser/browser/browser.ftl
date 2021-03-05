@@ -515,6 +515,8 @@ crashed-subframe-message = <strong>此页面中的部分内容出现崩溃。</s
 crashed-subframe-learnmore =
     .label = 详细了解
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = 详细了解
 crashed-subframe-submit =
     .label = 提交报告
     .accesskey = S
@@ -613,3 +615,6 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = 此网站的一些音频或视频使用了含数字版权管理（DRM）的软件，这可能会限制 { -brand-short-name } 能让您使用的功能。
+eme-notifications-drm-content-playing-manage = 管理设置
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss-accesskey = D

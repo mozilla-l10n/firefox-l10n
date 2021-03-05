@@ -61,6 +61,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = 登录
 appmenu-fxa-setup-sync =
     .label = 开启同步...
+appmenu-fxa-show-more-tabs = 显示更多标签页
 appmenuitem-save-page =
     .label = 另存页面为…
 
@@ -144,6 +145,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = 故障排除信息
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = 更多故障排除信息
+    .accesskey = T
 appmenu-help-taskmanager =
     .label = 任务管理器
 appmenu-help-report-site-issue =
@@ -161,6 +165,13 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = 重启浏览器并启用附加组件
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = 故障排除模式
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

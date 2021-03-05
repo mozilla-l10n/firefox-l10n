@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = 故障排除信息
     .accesskey = T
+menu-help-more-troubleshooting-info =
+    .label = 更多故障排除信息
+    .accesskey = T
 menu-help-taskmanager =
     .label = 任务管理器
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = 重启浏览器并启用附加组件
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = 故障排除模式
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = 关闭故障排除模式
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
