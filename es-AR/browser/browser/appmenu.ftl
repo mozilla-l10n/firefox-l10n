@@ -27,6 +27,9 @@ appmenuitem-more-tools =
     .label = Más herramientas
 appmenuitem-exit =
     .label = Salir
+appmenu-menu-button-closed =
+    .tooltiptext = Abrir el menú de la aplicación
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -163,6 +166,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Reiniciar con los complementos habilitados
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
