@@ -14,6 +14,11 @@ duplicate-tab =
 duplicate-tabs =
     .label = Sleg iccaren
     .accesskey = S
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Mdel accaren n uzelmaḍ
+    .accesskey = d
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -46,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Ldi-d tikelt-nneḍen amagbar
     .accesskey = d
+tab-context-open-in-container =
+    .label = Ldi deg umagbar amaynut
+    .accesskey = i
 move-to-start =
     .label = Senkez akken ad tebḍuḍ
     .accesskey = B

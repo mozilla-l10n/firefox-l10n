@@ -82,3 +82,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Ticraḍ-nniḍen n yisebtar
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Kkes tacreṭ n usebter
+            [one] Kkes tacreṭ n usebter
+           *[other] Kkes ticraḍ n yisebtar
+        }
+    .accesskey = k
+places-manage-bookmarks =
+    .label = Sefrek ticraḍ n yisebtar
+    .accesskey = S
