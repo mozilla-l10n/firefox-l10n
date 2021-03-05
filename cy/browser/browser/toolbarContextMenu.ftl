@@ -29,6 +29,18 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Dadwneud Cau Tabiau
         }
     .accesskey = C
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ail agor Tabiau wedi'u Cau
+            [zero] Ail agor Tabiau wedi'u Cau
+            [one] Ail agor Tab wedi'i Gau
+            [two] Ail agor Tabiau wedi'u Cau
+            [few] Ail agor Tabiau wedi'u Cau
+            [many] Ail agor Tabiau wedi'u Cau
+           *[other] Ail agor Tabiau wedi'u Cau
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Rheoli Estyniad
     .accesskey = E
