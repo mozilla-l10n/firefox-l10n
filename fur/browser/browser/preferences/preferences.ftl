@@ -672,12 +672,53 @@ prefs-sync-setup =
     .label = Configure { -sync-brand-short-name }…
     .accesskey = C
 prefs-sync-offer-setup-label = Sincronize i segnelibris, la storie, lis schedis, lis passwords, lis zontis e preferencis su ducj i tiei dispositîfs.
+prefs-sync-now =
+    .labelnotsyncing = Sincronize cumò
+    .accesskeynotsyncing = u
+    .labelsyncing = Sincronizazion…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = In chest moment tu stâs sincronizant chescj elements:
+sync-currently-syncing-bookmarks = Segnelibris
+sync-currently-syncing-history = Cronologjie
+sync-currently-syncing-tabs = Schedis viertis
+sync-currently-syncing-logins-passwords = Credenziâls e passwords
+sync-currently-syncing-addresses = Direzions
+sync-currently-syncing-creditcards = Cjartis di credit
+sync-currently-syncing-addons = Zontis
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opzions
+       *[other] Preferencis
+    }
+sync-change-options =
+    .label = Cambie…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Sielç ce sincronizâ
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Salve modifichis
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconet…
+    .buttonaccesskeyextra2 = D
+sync-engine-bookmarks =
+    .label = Segnelibris
+    .accesskey = l
+sync-engine-history =
+    .label = Cronologjie
+    .accesskey = r
+sync-engine-tabs =
+    .label = Schedis viertis
+    .tooltiptext = Une liste di ce che al è viert su ducj i dispositîfs sincronizâts
+    .accesskey = t
+sync-engine-logins-passwords =
+    .label = Credenziâls e passwords
+    .tooltiptext = Non utents e passwords che tu âs salvât
+    .accesskey = w
 
 ## The device name controls.
 
