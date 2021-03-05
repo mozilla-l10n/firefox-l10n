@@ -304,3 +304,4 @@ cfr-whatsnew-bookmarking-body = Ndahyasyive ehapykuehóvo tendakuéra ehayhuvév
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Ñemo’ãmba kookie ohapykuehóva tenda pa’ũme rovake
+cfr-whatsnew-cross-site-tracking-body = Ko’ág̃a ikatu eiporavo omo’ãvéva kookie rapykuehoha rovake. { -brand-short-name } ikatu omoha’eño ne rembiapo ha mba’ekuaarã tenda eimehápe marandu oñembyatýva kundahárape ani hag̃ua oñemoherakuã ñanduti renda rupi.
