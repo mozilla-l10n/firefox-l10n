@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Fren <span data-l10n-name="zap">udem</span>
 onboarding-multistage-theme-subtitle = Err { -brand-short-name } d udmawan s usentel.
 onboarding-multistage-theme-primary-button-label = Kles asentel
+onboarding-multistage-theme-primary-button-label2 = Immed
 onboarding-multistage-theme-secondary-button-label = Mačči tura
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Awurman
