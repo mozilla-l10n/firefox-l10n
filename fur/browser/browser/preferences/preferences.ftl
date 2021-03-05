@@ -983,12 +983,71 @@ content-blocking-cryptominers = Minadôrs di criptomonede
 content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
 content-blocking-warning-title = Atenzion!
 content-blocking-and-isolating-etp-warning-description = Blocant lis spiis e isolant i cookies si pues impedî il bon funzionament di cualchi sît. Torne a cjariâ une pagjine cu lis spiis (trackers) par cjariâ ducj i contignûts.
+content-blocking-and-isolating-etp-warning-description-2 = In cualchi sît cheste impostazion e podarès impedî la visualizazion dai contignûts o di lavorâ ben. Se un sît al somee vuast, tu puedis disativâ la protezion da lis spiis par chel sît e cjariâ ducj i contignûts.
+content-blocking-warning-learn-how = Impare cemût
+content-blocking-reload-description = Tu varâs di tornâ a cjariâ lis tôs schedis par aplicâ chestis modifichis.
+content-blocking-reload-tabs-button =
+    .label = Torne cjarie dutis lis schedis
+    .accesskey = r
+content-blocking-tracking-content-label =
+    .label = Contignûts che a spiin
+    .accesskey = t
+content-blocking-tracking-protection-option-all-windows =
+    .label = In ducj i barcons
+    .accesskey = a
+content-blocking-option-private =
+    .label = Dome tai barcons privâts
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Cambie la liste dai blocs
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Altris informazions
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Minadôrs di criptomonede
+    .accesskey = M
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Rilevadôrs di stamp numeric
+    .accesskey = l
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Gjestìs ecezions…
+    .accesskey = j
 
 ## Privacy Section - Permissions
 
+permissions-header = Permès
+permissions-location = Posizion
+permissions-location-settings =
+    .label = Impostazions…
+    .accesskey = t
+permissions-xr = Realtât virtuâl
+permissions-xr-settings =
+    .label = Impostazions…
+    .accesskey = t
+permissions-camera = Fotocjamare
+permissions-camera-settings =
+    .label = Impostazions…
+    .accesskey = t
+permissions-microphone = Microfon
+permissions-microphone-settings =
+    .label = Impostazions…
+    .accesskey = t
+permissions-notification = Notifichis
+permissions-notification-settings =
+    .label = Impostazions…
+    .accesskey = t
+permissions-notification-link = Plui informazions
+permissions-autoplay = Riproduzion automatiche
+permissions-autoplay-settings =
+    .label = Impostazions…
+    .accesskey = t
 permissions-block-popups =
     .label = Bloche i barcons pop-up
     .accesskey = B
