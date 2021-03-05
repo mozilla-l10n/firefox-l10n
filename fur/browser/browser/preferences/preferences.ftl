@@ -970,6 +970,17 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Belançât par vê protezion e prestazions. Lis pagjinis si cjariaran in maniere normâl.
 content-blocking-etp-strict-desc = Protezion miorade, ma cualchi sît o contignût al podarès no funzionâ ben.
 content-blocking-etp-custom-desc = Sielç cualis spiis (trackers) e scripts blocâ.
+content-blocking-private-windows = Contignûts che a spiin tai barcons privâts
+content-blocking-cross-site-cookies = Cookies inter-sît
+content-blocking-cross-site-tracking-cookies = Cookies inter-sît che a spiin
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies inter-sît che a spiin e isole i cookies che a restin
+content-blocking-social-media-trackers = Spiis (trackers) dai social media
+content-blocking-all-cookies = Ducj i cookies
+content-blocking-unvisited-cookies = Cookies dai sîts no visitâts
+content-blocking-all-windows-tracking-content = Contignûts che a spiin in ducj i barcons
+content-blocking-all-third-party-cookies = Ducj i cookies di tiercis parts
+content-blocking-cryptominers = Minadôrs di criptomonede
+content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
 
 ## Privacy Section - Tracking
 
