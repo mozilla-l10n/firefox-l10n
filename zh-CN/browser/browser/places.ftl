@@ -81,6 +81,13 @@ places-sortby-name =
 places-properties =
     .label = 属性
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = 编辑书签…
+    .accesskey = i
+places-edit-generic =
+    .label = 编辑…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 受控书签
@@ -90,3 +97,6 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = 其他书签
+places-manage-bookmarks =
+    .label = 管理书签
+    .accesskey = M
