@@ -915,15 +915,34 @@ sitedata-settings =
 sitedata-cookies-permissions =
     .label = Gjestìs i permès…
     .accesskey = p
+sitedata-cookies-exceptions =
+    .label = Gjestìs ecezions…
+    .accesskey = c
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Sbare de direzion
+addressbar-suggest = Cuant che tu dopris la sbare de direzion, sugjerìs
+addressbar-locbar-history-option =
+    .label = Cronologjie di navigazion
+    .accesskey = r
 addressbar-locbar-bookmarks-option =
     .label = Segnelibris
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = Vierç lengutis
-    .accesskey = O
+    .label = Schedis viertis
+    .accesskey = v
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Scurtis
+    .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = Sîts principâi
+    .accesskey = T
+addressbar-locbar-engines-option =
+    .label = Motôrs di ricercje
+    .accesskey = o
+addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai motôrs di ricercje
 
 ## Privacy Section - Content Blocking
 
