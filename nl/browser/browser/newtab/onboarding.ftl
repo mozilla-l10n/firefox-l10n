@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Kies een <span data-l10n-name="zap">uiterlijk</span>
 onboarding-multistage-theme-subtitle = Personaliseer { -brand-short-name } met een thema.
 onboarding-multistage-theme-primary-button-label = Thema opslaan
+onboarding-multistage-theme-primary-button-label2 = Gereed
 onboarding-multistage-theme-secondary-button-label = Niet nu
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatisch
