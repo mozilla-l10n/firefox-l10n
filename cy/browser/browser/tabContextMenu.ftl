@@ -102,13 +102,13 @@ move-tab =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Ail agor Tabiau wedi Cau
-            [zero] Ail agor Tabiau wedi Cau
-            [one] Ail agor Tab wedi Cau
-            [two] Ail agor Tabiau wedi Cau
-            [few] Ail agor Tabiau wedi Cau
-            [many] Ail agor Tabiau wedi Cau
-           *[other] Ail agor Tabiau wedi Cau
+            [1] Ail agor Tabiau wedi'u Cau
+            [zero] Ail agor Tabiau wedi'u Cau
+            [one] Ail agor Tab wedi'i Gau
+            [two] Ail agor Tabiau wedi'u Cau
+            [few] Ail agor Tabiau wedi'u Cau
+            [many] Ail agor Tabiau wedi'u Cau
+           *[other] Ail agor Tabiau wedi'u Cau
         }
     .accesskey = A
 tab-context-close-tabs =

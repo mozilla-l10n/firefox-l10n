@@ -108,10 +108,10 @@ places-remove-bookmark =
             [1] Tynnu Nod Tudalen
             [zero] Tynnu Nodau Tudalen
             [one] Tynnu Nod Tudalen
-            [two] Tynnu Nod Tudalen
-            [few] Tynnu Nod Tudalen
-            [many] Tynnu Nod Tudalen
-           *[other] Tynnu Nod Tudalen
+            [two] Tynnu Nodau Tudalen
+            [few] Tynnu Nodau Tudalen
+            [many] Tynnu Nodau Tudalen
+           *[other] Tynnu Nodau Tudalen
         }
     .accesskey = T
 places-manage-bookmarks =
