@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] დახურული ჩანართების დაბრუნება
         }
     .accesskey = ბ
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] დახურული ჩანართის დაბრუნება
+           *[other] დახურული ჩანართების დაბრუნება
+        }
+    .accesskey = უ
 toolbar-context-menu-manage-extension =
     .label = გაფართოების მართვა
     .accesskey = ფ

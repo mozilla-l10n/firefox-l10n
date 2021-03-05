@@ -11,6 +11,9 @@ places-open-tab =
 places-open-in-tab =
     .label = გახსნა ახალ ჩანართში
     .accesskey = ლ
+places-open-all-bookmarks =
+    .label = ყველა სანიშნის გახსნა
+    .accesskey = ხ
 places-open-all-in-tabs =
     .label = ყველას გახსნა ჩანართებში
     .accesskey = ყ
@@ -38,6 +41,18 @@ places-open-in-window =
 places-open-in-private-window =
     .label = გახსნა ახალ პირად ფანჯარაში
     .accesskey = პ
+places-add-bookmark =
+    .label = სანიშნის დამატება
+    .accesskey = ს
+places-add-folder-contextmenu =
+    .label = საქაღალდის დამატება…
+    .accesskey = ქ
+places-add-folder =
+    .label = საქაღალდის დამატება…
+    .accesskey = ლ
+places-add-separator =
+    .label = გამყოფის დამატება
+    .accesskey = ყ
 places-view =
     .label = ხედი
     .accesskey = ხ
@@ -85,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = სხვა სანიშნები
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] სანიშნის მოცილება
+           *[other] სანიშნების მოცილება
+        }
+    .accesskey = ც
+places-manage-bookmarks =
+    .label = სანიშნების მართვა
+    .accesskey = მ
