@@ -255,7 +255,7 @@ about-logins-export-file-picker-export-button = Արտահանել
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV Փաստաթուղթ
-       *[other] CSV Նիշք
+       *[other] CSV Նիշ
     }
 
 ## Login Import Dialog

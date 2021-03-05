@@ -130,7 +130,7 @@ newtab-menu-show-file =
         [macos] Ցուցադրել Որոնիչում
        *[other] Բացել պարունակութեան պանակը
     }
-newtab-menu-open-file = Բացել նիշքը
+newtab-menu-open-file = Բացել նիշը
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
