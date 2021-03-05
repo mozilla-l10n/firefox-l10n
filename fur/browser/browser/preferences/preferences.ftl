@@ -946,13 +946,30 @@ addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Protezion miorade da lis spiis
+content-blocking-section-top-level-description = Lis spiis (trackers) ti stan daûr ator pe rêt par colezionâ informazions su lis tôs abitudinis di navigazion e su ce che ti interesse. { -brand-short-name } al bloche tancj di chestis spiis e altris scripts malevui.
+content-blocking-learn-more = Plui informazions
+content-blocking-fpi-incompatibility-warning = Tu stâs doprant First Party Isolation (FPI), che al passe parsore di cualchidune des impostazions di { -brand-short-name } sui cookies.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Restritîf
+    .accesskey = R
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizât
+    .accesskey = P
 
 ##
 
+content-blocking-etp-standard-desc = Belançât par vê protezion e prestazions. Lis pagjinis si cjariaran in maniere normâl.
+content-blocking-etp-strict-desc = Protezion miorade, ma cualchi sît o contignût al podarès no funzionâ ben.
+content-blocking-etp-custom-desc = Sielç cualis spiis (trackers) e scripts blocâ.
 
 ## Privacy Section - Tracking
 
