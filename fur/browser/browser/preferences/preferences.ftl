@@ -579,8 +579,24 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostre i sugjeriments di ricercje tai barcons privâts
 suggestions-addressbar-settings-generic = Cambie lis preferencis pr altris sugjeriments de sbare de direzion
+search-suggestions-cant-show = No vignaran mostrâts sugjeriments di ricercje tai risultâts de sbare di posizion, viodût che tu âs configurât { -brand-short-name } in mût che no si visi mai la cronologjie.
+search-one-click-header = Motôrs di ricercje intun clic
+search-one-click-header2 = Scurtis di ricercje
+search-one-click-desc = Cuant che tu scomencis a scrivi une peraule, sielç i motôrs di ricercje alternatîfs che a vegnin fûr sot de sbare de direzion e de sbare di ricercje.
+search-choose-engine-column =
+    .label = Motôr di ricercje
 search-choose-keyword-column =
     .label = Peraule clâf
+search-restore-default =
+    .label = Ripristine motôrs di ricercje predefinîts
+    .accesskey = d
+search-remove-engine =
+    .label = Gjave
+    .accesskey = G
+search-add-engine =
+    .label = Zonte
+    .accesskey = Z
+search-find-more-link = Cjate altris motôrs di ricercje
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Peraule clâf duplicade
@@ -591,10 +607,32 @@ search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade p
 
 ## Containers Section
 
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Torne aes Opzions
+           *[other] Torne aes Preferencis
+        }
+containers-header = Schedis contignidôr
+containers-add-button =
+    .label = Zonte gnûf contignidôr
+    .accesskey = Z
+containers-new-tab-check =
+    .label = Selezione un contignidôr par ogni gnove schede
+    .accesskey = S
+containers-preferences-button =
+    .label = Preferencis
+containers-remove-button =
+    .label = Gjave
 
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = Puartiti daûr il to Web
+sync-signedout-description = Sincronize i tiei segnelibris, la cronologjie, lis schedis, lis passwords, lis zontis e lis preferencis su ducj i tiei dispositîfs.
+sync-signedout-account-signin2 =
+    .label = Jentre su { -sync-brand-short-name }…
+    .accesskey = J
 
 ## Firefox Account - Signed in
 
