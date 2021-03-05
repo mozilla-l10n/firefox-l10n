@@ -29,8 +29,8 @@ toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [one] Відновити закриту вкладку
-            [few] Відновити { $count } закриті вкладки
-           *[many] Відновити { $count } закритих вкладок
+            [few] Відновити { $tabCount } закриті вкладки
+           *[many] Відновити { $tabCount } закритих вкладок
         }
     .accesskey = В
 toolbar-context-menu-manage-extension =
