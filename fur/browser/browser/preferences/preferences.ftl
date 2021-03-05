@@ -880,6 +880,9 @@ sitedata-delete-on-close =
     .label = Elimine i cookies e i dâts dai sîts cuant che al ven sierât { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = in modalitât navigazion privade permanente, i cookies e i dâts dai sîts a vignaran simpri netâts cuant che si sierarà { -brand-short-name }.
+sitedata-allow-cookies-option =
+    .label = Acete i cookies e i dâts dai sîts
+    .accesskey = A
 
 ## Privacy Section - Address Bar
 
