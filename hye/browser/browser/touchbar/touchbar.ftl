@@ -20,7 +20,7 @@ share = Կիսուել
 close-window = Փակել պատուհանը
 open-sidebar = Կողմնասիւներ
 # This string describes shortcuts for search.
-search-popover = Որոնել դիւրացումները
+search-popover = Որոնել դիւրանցումները
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Որոնել հետեւեալում
