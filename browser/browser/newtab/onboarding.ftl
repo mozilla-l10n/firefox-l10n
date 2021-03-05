@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Tscherna in'<span data-l10n-name="zap">apparientscha</span>
 onboarding-multistage-theme-subtitle = Persunalisescha { -brand-short-name } cun in design.
 onboarding-multistage-theme-primary-button-label = Memorisar il design
+onboarding-multistage-theme-primary-button-label2 = Finì
 onboarding-multistage-theme-secondary-button-label = Betg ussa
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatic

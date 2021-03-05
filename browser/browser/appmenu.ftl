@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Ulteriurs utensils
 appmenuitem-exit =
     .label = Terminar
+appmenu-menu-button-closed =
+    .tooltiptext = Avrir il menu d'applicaziun
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Serrar il menu d'applicaziun
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = S'annunziar
 appmenu-fxa-setup-sync =
     .label = Activar la sincronisaziun…
+appmenu-fxa-show-more-tabs = Mussar dapli tabs
 appmenuitem-save-page =
     .label = Memorisar la pagina sut…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Infurmaziuns per schliar problems
     .accesskey = p
+appmenu-help-more-troubleshooting-info =
+    .label = Dapli infurmaziuns per schliar problems
+    .accesskey = D
 appmenu-help-taskmanager =
     .label = Task Manager
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Reaviar ed activar ils supplements
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Modus per schliar problems
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Deactivar il modus per schliar problems
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

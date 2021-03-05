@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Ina part da questa pagina è collabada.</stro
 crashed-subframe-learnmore =
     .label = Ulteriuras infurmaziuns
     .accesskey = l
+crashed-subframe-learnmore-link =
+    .value = Ulteriuras infurmaziuns
 crashed-subframe-submit =
     .label = Trametter il rapport
     .accesskey = T
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Audio u video sin questa pagina utilisescha software da DRM, quai po limitar las pussaivladads da { -brand-short-name } da tractar quest cuntegn.
+eme-notifications-drm-content-playing-manage = Administrar ils parameters
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Serrar
+eme-notifications-drm-content-playing-dismiss-accesskey = S

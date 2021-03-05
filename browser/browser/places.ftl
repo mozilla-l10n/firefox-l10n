@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Avrir en in nov tab
     .accesskey = t
+places-open-in-tab =
+    .label = Avrir en in nov tab
+    .accesskey = v
+places-open-all-bookmarks =
+    .label = Avrir tut ils segnapaginas
+    .accesskey = A
 places-open-all-in-tabs =
     .label = Avrir tuts en tabs
     .accesskey = A
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Nova lingia da separaziun
     .accesskey = N
+places-open-in-window =
+    .label = Avrir en ina nova fanestra
+    .accesskey = n
+places-open-in-private-window =
+    .label = Avrir en ina nova fanestra privata
+    .accesskey = p
+places-add-bookmark =
+    .label = Agiuntar in segnapagina…
+    .accesskey = s
+places-add-folder-contextmenu =
+    .label = Agiuntar in ordinatur…
+    .accesskey = o
+places-add-folder =
+    .label = Agiuntar in ordinatur…
+    .accesskey = o
+places-add-separator =
+    .label = Agiuntar in separatur
+    .accesskey = s
 places-view =
     .label = Vista
     .accesskey = V
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Caracteristicas
     .accesskey = C
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Modifitgar il segnapagina…
+    .accesskey = i
+places-edit-generic =
+    .label = Modifitgar…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnapaginas administrads
@@ -69,3 +100,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Auters segnapaginas
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Allontanar segnapaginas
+            [one] Allontanar il segnapagina
+           *[other] Allontanar ils segnapaginas
+        }
+    .accesskey = e
+places-manage-bookmarks =
+    .label = Administrar ils segnapaginas
+    .accesskey = m
