@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Rhagor o Offer
 appmenuitem-exit =
     .label = Gadael
+appmenu-menu-button-closed =
+    .tooltiptext = Agor Dewislen y Rhaglen
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Cau Dewislen y Rhaglen
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Mewngofnodi
 appmenu-fxa-setup-sync =
     .label = Cychwyn Cydweddu…
+appmenu-fxa-show-more-tabs = Dangos Rhagor o Dabiau
 appmenuitem-save-page =
     .label = Cadw Tudalen Fel…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G
+appmenu-help-more-troubleshooting-info =
+    .label = Rhagor o Wybodaeth Datrys Problemau
+    .accesskey = D
 appmenu-help-taskmanager =
     .label = Rheolwr Tasgau
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi
     .accesskey = A
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Y Modd Datrys Problemau
+    .accesskey = P
+appmenu-help-exit-troubleshoot-mode =
+    .label = Diffodd y Modd Dartrys Problemau
+    .accesskey = D
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

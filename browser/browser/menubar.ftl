@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G
+menu-help-more-troubleshooting-info =
+    .label = Rhagor o Wybodaeth Datrys Problemau
+    .accesskey = R
 menu-help-taskmanager =
     .label = Rheolwr Tasgau
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi
     .accesskey = A
+menu-help-enter-troubleshoot-mode =
+    .label = Y Modd Datrys Problemau
+    .accesskey = Y
+menu-help-exit-troubleshoot-mode =
+    .label = Diffodd y Modd Dartrys Problemau
+    .accesskey = D
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
