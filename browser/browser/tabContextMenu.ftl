@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = ხელახლა გახსნა სათავსში
     .accesskey = ე
+tab-context-open-in-container =
+    .label = გახსნა ახალ სათავსში
+    .accesskey = ვ
 move-to-start =
     .label = თავში გადატანა
     .accesskey = თ
@@ -91,6 +94,13 @@ move-tabs =
 move-tab =
     .label = ჩანართის გადატანა
     .accesskey = ტ
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] დახურული ჩანართის დაბრუნება
+           *[other] დახურული ჩანართების დაბრუნება
+        }
+    .accesskey = უ
 tab-context-close-tabs =
     .label =
         { $tabCount ->
