@@ -406,3 +406,4 @@ support-printing-prefs-value = Արժէքը
 
 ## Normandy sections
 
+support-remote-experiments-title = Հեռակայ փորձեր
