@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Meer hulpmiddelen
 appmenuitem-exit =
     .label = Afsluiten
+appmenu-menu-button-closed =
+    .tooltiptext = Toepassingsmenu openen
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Toepassingsmenu sluiten
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Aanmelden
 appmenu-fxa-setup-sync =
     .label = Synchronisatie inschakelen…
+appmenu-fxa-show-more-tabs = Meer tabbladen tonen
 appmenuitem-save-page =
     .label = Pagina opslaan als…
 
@@ -163,6 +170,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Herstarten met ingeschakelde add-ons
     .accesskey = r
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
