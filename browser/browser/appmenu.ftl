@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = მეტი ხელსაწყო
 appmenuitem-exit =
     .label = გასვლა
+appmenu-menu-button-closed =
+    .tooltiptext = პროგრამის მენიუს გახსნა
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = პროგრამის მენიუს დახურვა
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = შესვლა
 appmenu-fxa-setup-sync =
     .label = დასინქრონების ჩართვა…
+appmenu-fxa-show-more-tabs = მეტი ჩანართის ჩვენება
 appmenuitem-save-page =
     .label = გვერდის შენახვა როგორც…
 
@@ -144,7 +151,10 @@ appmenu-get-help =
     .label = დახმარება
     .accesskey = დ
 appmenu-help-troubleshooting-info =
-    .label = გაუმართაობის აღმოფხვრა
+    .label = ხარვეზის აღმოფხვრის მონაცემები
+    .accesskey = ფ
+appmenu-help-more-troubleshooting-info =
+    .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
     .accesskey = ფ
 appmenu-help-taskmanager =
     .label = ამოცანათა მმართველი
@@ -163,6 +173,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = ჩართული დამატებებით გაშვება
     .accesskey = ჩ
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
