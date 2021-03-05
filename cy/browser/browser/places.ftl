@@ -84,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Priodweddau
     .accesskey = P
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Golygu Nod Tudalen…
+    .accesskey = G
+places-edit-generic =
+    .label = Golygu…
+    .accesskey = o
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Nodau Tudalen wedi'u rheoli
@@ -93,3 +100,20 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Nodau Tudalen Eraill
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Tynnu Nod Tudalen
+            [zero] Tynnu Nodau Tudalen
+            [one] Tynnu Nod Tudalen
+            [two] Tynnu Nod Tudalen
+            [few] Tynnu Nod Tudalen
+            [many] Tynnu Nod Tudalen
+           *[other] Tynnu Nod Tudalen
+        }
+    .accesskey = T
+places-manage-bookmarks =
+    .label = Rheoli Nodau Tudalen
+    .accesskey = R
