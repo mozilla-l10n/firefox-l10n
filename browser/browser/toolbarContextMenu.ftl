@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Ångra Stäng flikar
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Öppna stängd flik igen
+           *[other] Öppna stängda flikar igen
+        }
+    .accesskey = p
 toolbar-context-menu-manage-extension =
     .label = Hantera tillägg
     .accesskey = H

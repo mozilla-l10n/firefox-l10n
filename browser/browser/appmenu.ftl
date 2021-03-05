@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Fler verktyg
 appmenuitem-exit =
     .label = Avsluta
+appmenu-menu-button-closed =
+    .tooltiptext = Öppna applikationsmeny
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Stäng applikationsmeny
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Logga in
 appmenu-fxa-setup-sync =
     .label = Aktivera synkronisering…
+appmenu-fxa-show-more-tabs = Visa fler flikar
 appmenuitem-save-page =
     .label = Spara sida som…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Felsökningsinformation
     .accesskey = F
+appmenu-help-more-troubleshooting-info =
+    .label = Mer felsökningsinformation
+    .accesskey = f
 appmenu-help-taskmanager =
     .label = Aktivitetshanterare
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Starta om med tillägg aktiverade
     .accesskey = S
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Felsökningsläge
+    .accesskey = F
+appmenu-help-exit-troubleshoot-mode =
+    .label = Stäng av felsökningsläge
+    .accesskey = g
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
