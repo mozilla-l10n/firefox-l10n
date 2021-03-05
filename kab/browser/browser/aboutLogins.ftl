@@ -313,17 +313,39 @@ about-logins-import-dialog-error-no-logins-imported = Ulac iɣmisen i d-yettwakt
 about-logins-import-dialog-error-learn-more = Issin ugar
 about-logins-import-dialog-error-try-again = Ɛreḍ tikkelt-nniḍen…
 about-logins-import-dialog-error-cancel = Sefsex
+about-logins-import-report-title = Agzul n uktar
+about-logins-import-report-description = Inekcam d wawalen uffiren ttwaketren ɣer { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Izirig { $number }
+about-logins-import-report-row-description-modified = Anekcam yellan yettwaleqqem
 about-logins-import-report-row-description-added = Anekcum amaynut ittwarna
+about-logins-import-report-row-description-error = Tuccḍa: Urti ixuṣṣen
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Tuccḍa: Aṭas n wazalen i { $field }
+about-logins-import-report-row-description-error-missing-field = Tuccḍa: Ixuṣṣ { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ttwarnan inekcam imaynuten</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ttwaleqqmen yinekcam yellan</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tuccḍiwin</div> <div data-l10n-name="not-imported">(ur yettwaktar ara)</div>
+    }
 
 ## Logins import report page
 
