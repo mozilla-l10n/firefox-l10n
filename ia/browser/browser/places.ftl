@@ -44,6 +44,9 @@ places-open-in-private-window =
 places-add-bookmark =
     .label = Adder marcapagina…
     .accesskey = m
+places-add-folder-contextmenu =
+    .label = Addente plica…
+    .accesskey = p
 places-view =
     .label = Vider
     .accesskey = r
@@ -91,3 +94,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Altere marcapaginas
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Remover marcapaginas
+            [one] Remover marcapagina
+           *[other] Remover marcapaginas
+        }
+    .accesskey = e
+places-manage-bookmarks =
+    .label = Gerer marcapaginas
+    .accesskey = G

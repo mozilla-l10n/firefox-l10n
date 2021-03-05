@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Reaperi schedas claudite
         }
     .accesskey = R
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reaperir schedas claudite
+            [one] Reaperir scheda claudite
+           *[other] Reaperir schedas claudite
+        }
+    .accesskey = a
 toolbar-context-menu-manage-extension =
     .label = Gerer extension
     .accesskey = E
