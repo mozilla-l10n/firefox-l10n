@@ -956,8 +956,8 @@ content-blocking-fpi-incompatibility-warning = Você está usando isolamento pri
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Padrão
-    .accesskey = P
+    .label = Normal
+    .accesskey = N
 enhanced-tracking-protection-setting-strict =
     .label = Rigoroso
     .accesskey = R
