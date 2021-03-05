@@ -773,24 +773,73 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sugjerìs e gjenere passwords complicadis
     .accesskey = u
+forms-breach-alerts =
+    .label = Mostre avîs pes passwords di sîts cjapadis dentri di violazions di dâts
+    .accesskey = t
+forms-breach-alerts-learn-more-link = Plui informazions
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Compile in automatic credenziâls e passwords
+    .accesskey = i
+forms-saved-logins =
+    .label = Credenziâls salvadis…
+    .accesskey = l
 forms-master-pw-use =
-    .label = Dopre une password gjenerâl
+    .label = Dopre une password principâl
     .accesskey = u
+forms-primary-pw-use =
+    .label = Dopre une password primarie
+    .accesskey = U
+forms-primary-pw-learn-more-link = Plui informazions
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
 forms-master-pw-change =
-    .label = Cambie la password gjenerâl…
+    .label = Cambie la password principâl…
     .accesskey = m
-forms-master-pw-fips-title = Tu sês cumò tal mût FIPS. FIPS al domande une password gjenerâl no vueide.
-forms-master-pw-fips-desc = Cambiament de password falît
+forms-master-pw-fips-title = Tu sês cumò te modalitât FIPS. FIPS al domande une password principâl no vueide.
+forms-primary-pw-change =
+    .label = Cambie password primarie…
+    .accesskey = p
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = Une volte cognossude tant che password principâl
+forms-primary-pw-fips-title = Tu sês cumò tal mût FIPS. FIPS al domande une password primarie no vueide.
+forms-master-pw-fips-desc = No si è rivâts a cambiâ la password
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Par creâ une password principâl, inserìs lis tôs credenziâls di acès a Windows. Chest al jude a protezi la sigurece dai tiei accounts.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = creâ une password principâl
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Par creâ une password primarie, inserìs lis tôs credenziâls di acès a Windows. Chest al jude a protezi la sigurece dai tiei accounts.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = creâ une password primarie
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
 history-header = Cronologjie
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = w
 history-remember-option-all =
     .label = Salve la cronologjie
 history-remember-option-never =
