@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>გვერდის ნაწილი უ�
 crashed-subframe-learnmore =
     .label = ვრცლად
     .accesskey = ლ
+crashed-subframe-learnmore-link =
+    .value = ვრცლად
 crashed-subframe-submit =
     .label = მოხსენების გაგზავნა
     .accesskey = ო
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ამ საიტზე ხმოვანი ფაილების ან ვიდეოების ნაწილი ექვემდებარება DRM-პროგრამას, რომლის გამოც შესაძლოა { -brand-short-name } გიზღუდავდეთ მათ სრულად გამოყენებას.
+eme-notifications-drm-content-playing-manage = პარამეტრების მართვა
+eme-notifications-drm-content-playing-manage-accesskey = ვ
+eme-notifications-drm-content-playing-dismiss = დახურვა
+eme-notifications-drm-content-playing-dismiss-accesskey = უ
