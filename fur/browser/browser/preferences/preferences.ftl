@@ -900,6 +900,21 @@ sitedata-option-block-cross-site-cookies-including-social-media =
     .label = Cookies inter-sît — al inclût i cookies dai social media
 sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
     .label = Spiis (trackers) inter-sît e dai social media e isole i cookies che a restin
+sitedata-option-block-unvisited =
+    .label = Cookies dai sîts web no visitâts
+sitedata-option-block-all-third-party =
+    .label = Ducj i cookies di tiercis parts (al pues causâ malfunzionaments dai sîts web)
+sitedata-option-block-all =
+    .label = Ducj i cookies (al causarà malfunzionaments dai sîts web)
+sitedata-clear =
+    .label = Nete fûr i dâts…
+    .accesskey = û
+sitedata-settings =
+    .label = Gjestìs i dâts…
+    .accesskey = ì
+sitedata-cookies-permissions =
+    .label = Gjestìs i permès…
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
