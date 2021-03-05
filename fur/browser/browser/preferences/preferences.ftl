@@ -719,18 +719,60 @@ sync-engine-logins-passwords =
     .label = Credenziâls e passwords
     .tooltiptext = Non utents e passwords che tu âs salvât
     .accesskey = w
+sync-engine-addresses =
+    .label = Direzions
+    .tooltiptext = Recapits salvâts (dome par scritori)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Cjartis di credit
+    .tooltiptext = Nons, numars e datis di scjadince (dome par scritori)
+    .accesskey = C
+sync-engine-addons =
+    .label = Zontis
+    .tooltiptext = Estensions e temis par Firefox desktop
+    .accesskey = Z
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Opzions
+           *[other] Preferencis
+        }
+    .tooltiptext = Lis impostazions gjenerâls, di riservatece e di sigurece che tu âs modificât
+    .accesskey = s
 
 ## The device name controls.
 
+sync-device-name-header = Non dispositîf
+sync-device-name-change =
+    .label = Cambie non dal dispositîf…
+    .accesskey = n
+sync-device-name-cancel =
+    .label = Anule
+    .accesskey = n
+sync-device-name-save =
+    .label = Salve
+    .accesskey = v
+sync-connect-another-device = Conet un altri dispositîf
 
 ## Privacy Section
 
+privacy-header = Riservatece dal navigadôr
 
 ## Privacy Section - Logins and Passwords
 
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Credenziâls e passwords
+    .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = Domande se salvâ credenziâls e passwords pai sîts web
+    .accesskey = r
 forms-exceptions =
     .label = Ecezions…
     .accesskey = z
+forms-generate-passwords =
+    .label = Sugjerìs e gjenere passwords complicadis
+    .accesskey = u
 forms-master-pw-use =
     .label = Dopre une password gjenerâl
     .accesskey = u
