@@ -981,6 +981,7 @@ content-blocking-all-windows-tracking-content = Contignûts che a spiin in ducj 
 content-blocking-all-third-party-cookies = Ducj i cookies di tiercis parts
 content-blocking-cryptominers = Minadôrs di criptomonede
 content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
+content-blocking-warning-title = Atenzion!
 
 ## Privacy Section - Tracking
 
