@@ -805,7 +805,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Une volte cognossude tant che password principâl
-forms-primary-pw-fips-title = Tu sês cumò tal mût FIPS. FIPS al domande une password primarie no vueide.
+forms-primary-pw-fips-title = Tu sês cumò te modalitât FIPS. FIPS al domande une password primarie no vueide.
 forms-master-pw-fips-desc = No si è rivâts a cambiâ la password
 
 ## OS Authentication dialog
@@ -883,6 +883,23 @@ sitedata-delete-on-close-private-browsing = in modalitât navigazion privade per
 sitedata-allow-cookies-option =
     .label = Acete i cookies e i dâts dai sîts
     .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Bloche i cookies e i dâts dai sîts
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Gjenar blocât
+    .accesskey = t
+sitedata-option-block-cross-site-trackers =
+    .label = Spiis (trackers) inter-sît
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Spiis (trackers) inter-sît e di social media
+sitedata-option-block-cross-site-tracking-cookies-including-social-media =
+    .label = Cookies che a spiin tra plui sîts — al inclût i cookies dai social media
+sitedata-option-block-cross-site-cookies-including-social-media =
+    .label = Cookies inter-sît — al inclût i cookies dai social media
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Spiis (trackers) inter-sît e dai social media e isole i cookies che a restin
 
 ## Privacy Section - Address Bar
 
