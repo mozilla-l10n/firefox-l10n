@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Återöppna i innehållsflik
     .accesskey = i
+tab-context-open-in-container =
+    .label = Öppna i ny behållare
+    .accesskey = p
 move-to-start =
     .label = Flytta till början
     .accesskey = b
@@ -92,6 +95,13 @@ move-tabs =
 move-tab =
     .label = Flytta flik
     .accesskey = t
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Öppna stängd flik igen
+           *[other] Öppna stängda flikar igen
+        }
+    .accesskey = s
 tab-context-close-tabs =
     .label =
         { $tabCount ->

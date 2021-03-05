@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>En del av den här sidan kraschade.</strong> 
 crashed-subframe-learnmore =
     .label = Läs mer
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = Läs mer
 crashed-subframe-submit =
     .label = Skicka in rapport
     .accesskey = S
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = En del ljud eller video på den här hemsidan använder DRM mjukvara, vilket kan begränsa vad { -brand-short-name } tillåter dig att använda den till.
+eme-notifications-drm-content-playing-manage = Hantera inställningar
+eme-notifications-drm-content-playing-manage-accesskey = H
+eme-notifications-drm-content-playing-dismiss = Ignorera
+eme-notifications-drm-content-playing-dismiss-accesskey = g

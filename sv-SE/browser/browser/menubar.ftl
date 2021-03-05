@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Felsökningsinformation
     .accesskey = F
+menu-help-more-troubleshooting-info =
+    .label = Mer felsökningsinformation
+    .accesskey = f
 menu-help-taskmanager =
     .label = Aktivitetshanterare
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Starta om med tillägg aktiverade
     .accesskey = S
+menu-help-enter-troubleshoot-mode =
+    .label = Felsökningsläge
+    .accesskey = F
+menu-help-exit-troubleshoot-mode =
+    .label = Stäng av felsökningsläge
+    .accesskey = g
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
