@@ -1031,7 +1031,7 @@ tracking-manage-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = Pšawa
-permissions-location = Městno
+permissions-location = Stojnišćo
 permissions-location-settings =
     .label = Nastajenja…
     .accesskey = t
