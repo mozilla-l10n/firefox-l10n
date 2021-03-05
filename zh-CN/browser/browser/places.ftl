@@ -33,7 +33,7 @@ places-new-folder =
     .label = 新建文件夹…
     .accesskey = o
 places-new-separator =
-    .label = 新建分隔线
+    .label = 新建分隔条
     .accesskey = S
 places-open-in-window =
     .label = 新建窗口打开
@@ -51,7 +51,7 @@ places-add-folder =
     .label = 添加文件夹…
     .accesskey = o
 places-add-separator =
-    .label = 添加分隔线
+    .label = 添加分隔条
     .accesskey = S
 places-view =
     .label = 查看
@@ -100,6 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = 其他书签
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] 移除书签
+           *[other] 移除 { $count } 个书签
+        }
+    .accesskey = e
 places-manage-bookmarks =
     .label = 管理书签
     .accesskey = M
