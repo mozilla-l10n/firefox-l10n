@@ -28,6 +28,10 @@ perftools-heading-local-build = Ñembyaty pypeguáva
 perftools-description-intro =
     Umi ñeñongatu ombojuruja profiler.firefox.com tendayke pyahúpe. Opaite mba’ekuaarã oñembyatypa
     hyepýpe, hákatu ikatu ohupi omoherakuã hag̃ua.
+perftools-description-local-build =
+    Ojehechahína peteĩ ñembyaty ejapova’ekue ndete ko
+    mohendahápe, embojuaju pe objdir hesegua tysýi oĩva yvy gotyo ikatu hag̃ua
+    ojepuru ojeheka hag̃ua marandu ta’ãnga’i rehegua.
 
 ## The controls for the interval at which the profiler samples the code.
 
