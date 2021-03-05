@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = 更多工具
 appmenuitem-exit =
     .label = 退出
+appmenu-menu-button-closed =
+    .tooltiptext = 打开应用程序菜单
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = 关闭应用程序菜单
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -171,6 +177,9 @@ appmenu-help-safe-mode-with-addons =
 
 appmenu-help-enter-troubleshoot-mode =
     .label = 故障排除模式
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = 关闭故障排除模式
     .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
