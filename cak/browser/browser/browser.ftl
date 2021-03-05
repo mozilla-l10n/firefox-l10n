@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Xsach jun peraj ruxaq.</strong> Chi ri { -bra
 crashed-subframe-learnmore =
     .label = Tetamäx Ch'aqa' Chik
     .accesskey = T
+crashed-subframe-learnmore-link =
+    .value = Tisik'ïx Ch'aqa' Chik
 crashed-subframe-submit =
     .label = Titaq Rutzijol
     .accesskey = t
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Jun k'oxom o silowachib'äl pa re jun ruxaq k'amaya'l re' nrokisaj DRM kema', ri nitikïr nuq'ät jub'a' rusamaj ri { -brand-short-name } nuya' q'ij nab'än rik'in.
+eme-notifications-drm-content-playing-manage = Tinuk'samajïx Runuk'ulem
+eme-notifications-drm-content-playing-manage-accesskey = T
+eme-notifications-drm-content-playing-dismiss = Tichup ruwäch
+eme-notifications-drm-content-playing-dismiss-accesskey = T
