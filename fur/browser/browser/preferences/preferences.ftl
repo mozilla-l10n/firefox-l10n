@@ -1044,22 +1044,34 @@ permissions-notification-settings =
     .label = Impostazions…
     .accesskey = t
 permissions-notification-link = Plui informazions
+permissions-notification-pause =
+    .label = Met in pause lis notifichis sin cuant che si torne a inviâ { -brand-short-name }
+    .accesskey = n
 permissions-autoplay = Riproduzion automatiche
 permissions-autoplay-settings =
     .label = Impostazions…
     .accesskey = t
 permissions-block-popups =
-    .label = Bloche i barcons pop-up
+    .label = Bloche i barcons a comparse
     .accesskey = B
 permissions-block-popups-exceptions =
     .label = Ecezions…
     .accesskey = E
+permissions-addon-install-warning =
+    .label = Vise cuant che i sîts web a cirin di instalâ zontis
+    .accesskey = V
 permissions-addon-exceptions =
     .label = Ecezions…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Impedìs ai servizis di acessibilitât di doprâ il to navigadôr
+    .accesskey = a
+permissions-a11y-privacy-link = Plui informazions
 
 ## Privacy Section - Data Collection
 
+collection-header = Racuelte e ûs dai dâts di { -brand-short-name }
+collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e tirâ dongje dome i dâts necessaris par realizâ e miorâ { -brand-short-name } par ducj. O domandìn simpri il permès prime di ricevi informazions personâls.
 
 ## Privacy Section - Security
 ##
