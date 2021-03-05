@@ -982,6 +982,7 @@ content-blocking-all-third-party-cookies = Ducj i cookies di tiercis parts
 content-blocking-cryptominers = Minadôrs di criptomonede
 content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
 content-blocking-warning-title = Atenzion!
+content-blocking-and-isolating-etp-warning-description = Blocant lis spiis e isolant i cookies si pues impedî il bon funzionament di cualchi sît. Torne a cjariâ une pagjine cu lis spiis (trackers) par cjariâ ducj i contignûts.
 
 ## Privacy Section - Tracking
 
