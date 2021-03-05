@@ -625,3 +625,5 @@ more-menu-go-offline =
 eme-notifications-drm-content-playing = Einige Audio- oder Videodateien auf dieser Seite nutzen DRM-Kopierschutz, der einschränkt, was Sie in { -brand-short-name } damit tun können.
 eme-notifications-drm-content-playing-manage = Einstellungen verwalten
 eme-notifications-drm-content-playing-manage-accesskey = v
+eme-notifications-drm-content-playing-dismiss = Schließen
+eme-notifications-drm-content-playing-dismiss-accesskey = S
