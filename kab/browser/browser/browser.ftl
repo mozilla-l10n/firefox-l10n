@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Aḥric seg usebter-a yerreẓ.</strong> I wa
 crashed-subframe-learnmore =
     .label = Issin ugar
     .accesskey = I
+crashed-subframe-learnmore-link =
+    .value = Issin ugar
 crashed-subframe-submit =
     .label = Azen aneqqis
     .accesskey = A
@@ -621,3 +623,5 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Kra n imeslawen neɣ timwaliyin n usmel-a seqdacen aseɣẓan DRM, ayen ad igen talast i tigawin i yessirig { -brand-short-name } ɣef iferdisen-a.
+eme-notifications-drm-content-playing-manage = Sefrek iɣewwaren
+eme-notifications-drm-content-playing-dismiss = Zgel
