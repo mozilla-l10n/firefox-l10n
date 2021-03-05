@@ -119,7 +119,7 @@ permissions-site-notification-disable-desc = To budźe websydła, kotrež horjek
 ## Site Permissions - Location
 
 permissions-site-location-window =
-    .title = Nastajenja - prawa městna
+    .title = Nastajenja - prawa stejnišća
     .style = { permissions-window.style }
 permissions-site-location-desc = Slědowace websydła su přistup na waše stejnišćo požadali. Móžeće podać, kotre websydła maja přistup na waše stejnišćo. Móžeće tež žadanja za přistupom na waše stejnišćo blokować.
 permissions-site-location-disable-label =
