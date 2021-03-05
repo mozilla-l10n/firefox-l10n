@@ -176,6 +176,7 @@ language-name-st = Сан-Томе мен Принсипи
 language-name-su = Сундан
 language-name-sv = Сальвадор
 language-name-sw = Суахили
+language-name-szl = Силездік
 language-name-ta = Тамил
 language-name-te = Телугу
 language-name-tg = Тәжік
