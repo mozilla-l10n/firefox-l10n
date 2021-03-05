@@ -852,20 +852,34 @@ history-private-browsing-permanent =
     .label = Dopre simpri la modalitât di navigazion privade
     .accesskey = p
 history-remember-browser-option =
-    .label = Visâsi de cronologjie di navigazion e dai discjariaments
-    .accesskey = V
+    .label = Memorize la cronologjie di navigazion e dai discjariaments
+    .accesskey = M
 history-remember-search-option =
-    .label = Memorize la cronologjie des ricercjis e dai modui
+    .label = Memorize la cronologjie des ricercjis e dai formularis
     .accesskey = M
 history-clear-on-close-option =
     .label = Nete fûr la cronologjie cuant che si siere { -brand-short-name }
     .accesskey = r
 history-clear-on-close-settings =
-    .label = Parametris…
+    .label = Impostazions…
     .accesskey = t
+history-clear-button =
+    .label = Nete la cronologjie…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies e dâts dai sîts
+sitedata-total-size-calculating = Daûr a calcolâ la dimension dai dâts dai sîts e de cache…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = I tiei cookies, i dâts dai sîts e la cache memorizâts a stan doprant{ $value } { $unit } di spazi su disc.
+sitedata-learn-more = Plui informazions
+sitedata-delete-on-close =
+    .label = Elimine i cookies e i dâts dai sîts cuant che al ven sierât { -brand-short-name }
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = in modalitât navigazion privade permanente, i cookies e i dâts dai sîts a vignaran simpri netâts cuant che si sierarà { -brand-short-name }.
 
 ## Privacy Section - Address Bar
 
