@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Ail agor mewn Cynhwysydd
     .accesskey = A
+tab-context-open-in-container =
+    .label = Agor mewn Cynhwysydd Newydd
+    .accesskey = A
 move-to-start =
     .label = Symud i'r Cychwyn
     .accesskey = C
@@ -96,6 +99,18 @@ move-tabs =
 move-tab =
     .label = Symud Tab
     .accesskey = y
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ail agor Tabiau wedi Cau
+            [zero] Ail agor Tabiau wedi Cau
+            [one] Ail agor Tab wedi Cau
+            [two] Ail agor Tabiau wedi Cau
+            [few] Ail agor Tabiau wedi Cau
+            [many] Ail agor Tabiau wedi Cau
+           *[other] Ail agor Tabiau wedi Cau
+        }
+    .accesskey = A
 tab-context-close-tabs =
     .label =
         { $tabCount ->
