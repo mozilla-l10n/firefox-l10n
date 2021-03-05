@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Elige un nove <span data-l10n-name="zap">apparentia</span>
 onboarding-multistage-theme-subtitle = Personalisa { -brand-short-name } per un thema.
 onboarding-multistage-theme-primary-button-label = Salvar le thema
+onboarding-multistage-theme-primary-button-label2 = Facite
 onboarding-multistage-theme-secondary-button-label = Non ora
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatic

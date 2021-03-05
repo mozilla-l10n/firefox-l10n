@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Parte de iste pagina collabeva.</strong> Pro 
 crashed-subframe-learnmore =
     .label = Saper plus
     .accesskey = p
+crashed-subframe-learnmore-link =
+    .value = Saper plus
 crashed-subframe-submit =
     .label = Inviar reporto
     .accesskey = I
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Alcun audio o video in iste sito usa software DRM, le qual pote limitar le actiones super illo que { -brand-short-name } es capace de te permitter.
+eme-notifications-drm-content-playing-manage = Gerer le parametros
+eme-notifications-drm-content-playing-manage-accesskey = G
+eme-notifications-drm-content-playing-dismiss = Dimitter
+eme-notifications-drm-content-playing-dismiss-accesskey = D
