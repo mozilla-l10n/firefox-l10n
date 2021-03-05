@@ -633,12 +633,45 @@ sync-signedout-description = Sincronize i tiei segnelibris, la cronologjie, lis 
 sync-signedout-account-signin2 =
     .label = Jentre su { -sync-brand-short-name }…
     .accesskey = J
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Discjame Firefox par <img data-l10n-name="android-icon"/>Android</a> o <img data-l10n-name="ios-icon"/><a data-l10n-name="ios-link">iOS</a> par sincronizâ cul to dispositîf mobil.
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Cambie la imagjin dal profîl
+sync-sign-out =
+    .label = Disconet…
+    .accesskey = g
+sync-manage-account = Gjestìs account
+    .accesskey = o
+sync-signedin-unverified = L'account { $email } nol è verificât.
+sync-signedin-login-failure = Jentre par tornâ a coneti { $email }
+sync-resend-verification =
+    .label = Torne invie la verifiche
+    .accesskey = d
+sync-remove-account =
+    .label = Gjave l'account
+    .accesskey = G
+sync-sign-in =
+    .label = Jentre
+    .accesskey = J
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronizazion: ATIVE
+prefs-syncing-off = Sincronizazion: DISATIVADE
+prefs-sync-setup =
+    .label = Configure { -sync-brand-short-name }…
+    .accesskey = C
+prefs-sync-offer-setup-label = Sincronize i segnelibris, la storie, lis schedis, lis passwords, lis zontis e preferencis su ducj i tiei dispositîfs.
 
 ## The list of things currently syncing.
 
