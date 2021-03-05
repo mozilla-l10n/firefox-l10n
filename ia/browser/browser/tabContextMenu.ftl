@@ -92,6 +92,14 @@ move-tabs =
 move-tab =
     .label = Mover le scheda
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reaperir schedas claudite
+            [one] Reaperir scheda claudite
+           *[other] Reaperir schedas claudite
+        }
+    .accesskey = a
 tab-context-close-tabs =
     .label =
         { $tabCount ->
