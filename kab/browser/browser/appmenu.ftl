@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Ugar n yifecka
 appmenuitem-exit =
     .label = Ffeɣ
+appmenu-menu-button-closed =
+    .tooltiptext = Ldi umuɣ n usnas
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Mdel umuɣ n usnas
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -51,9 +57,17 @@ appmenuitem-fxa-toolbar-sync-now =
 appmenuitem-fxa-manage-account = Sefrek amiḍan
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Amtawi aneggaru { $time }
+    .label = Amtawi aneggaru { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Mtawi sakin sekles isefka
 appmenu-fxa-signed-in-label = Kcem
+appmenu-fxa-setup-sync =
+    .label = Rmed amtawi…
+appmenu-fxa-show-more-tabs = Sken ugar n waccaren
 appmenuitem-save-page =
     .label = Sekles asebter di...
 
@@ -156,6 +170,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Ales asenker s yizegrar urmiden
     .accesskey = A
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
