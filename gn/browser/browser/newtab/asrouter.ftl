@@ -299,6 +299,7 @@ cfr-whatsnew-supercookies-body = Opaite ñanduti renda ikatu ombojuapy kañyháp
 ## What's new: Better bookmarking
 
 cfr-whatsnew-bookmarking-header = Techaukaha iporãvéva
+cfr-whatsnew-bookmarking-body = Ndahyasyive ehapykuehóvo tendakuéra ehayhuvéva. { -brand-short-name } neatõita tendaite erohoryvéva techaukaha ñongatupyrépe, ohechauka tembipuru renda ijypykue rupi tendayke pyahúpe ha ome’ẽ jeike pya’e nde rechaukahakuéra ñongatuhápe tembipuru renda rupive.
 
 ## What's new: Cross-site cookie tracking
 
