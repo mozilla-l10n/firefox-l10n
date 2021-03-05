@@ -409,6 +409,7 @@ support-printing-prefs-value = Tepykue
 support-remote-experiments-title = Okayguágui jehekapyahu
 support-remote-experiments-name = Téra
 support-remote-experiments-branch = Jehekapyahu rehegua
+support-remote-experiments-see-about-studies = Ehecha <a data-l10n-name="support-about-studies-link">about:studies</a> eñemomaranduve hag̃ua, oikehápe mba’éichapa eipe’áta tembiapopyahu añogua térã eipe’a { -brand-short-name } ani hag̃ua omongu’e ko’ãichagua tembiapopyahu tenonderãve.
 support-remote-features-title = Tembiapoite okayguágui
 support-remote-features-name = Téra
 support-remote-features-status = Tekotee
