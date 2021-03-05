@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Lisää työkaluja
 appmenuitem-exit =
     .label = Sulje
+appmenu-menu-button-closed =
+    .tooltiptext = Avaa sovellusvalikko
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Sulje sovellusvalikko
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +51,20 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkronoi
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Synkronoi nyt
+    .value = Synkronoi nyt
+appmenuitem-fxa-manage-account = Hallinnoi tiliä
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Viimeksi synkronoitu { $time }
+    .label = Viimeksi synkronoitu { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Synkronoi ja tallenna tiedot
+appmenu-fxa-signed-in-label = Kirjaudu sisään
 appmenuitem-save-page =
     .label = Tallenna sivu nimellä…
 
@@ -153,6 +173,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Käynnistä uudelleen lisäosat päällä
     .accesskey = K
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

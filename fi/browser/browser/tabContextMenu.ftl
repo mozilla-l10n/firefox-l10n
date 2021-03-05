@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = Monista välilehdet
     .accesskey = n
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Sulje välilehdet oikealla
     .accesskey = o
@@ -56,6 +58,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Sulje useita välilehtiä
     .accesskey = t
+tab-context-share-url =
+    .label = Jaa
+    .accesskey = J
+tab-context-share-more =
+    .label = Lisää…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
