@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Titzolïx Yetz'apïx Taq Ruwi'
         }
     .accesskey = z
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tijaq Chik Tz'apin Ruwi'
+            [one] Tijaq Chik Tz'apin Ruwi'
+           *[other] Kejaq Chik Tz'apin taq Ruwi'
+        }
+    .accesskey = a
 toolbar-context-menu-manage-extension =
     .label = Tinuk'samajïx K'amal
     .accesskey = K

@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Tijaq chik pa K'wayöl
     .accesskey = c
+tab-context-open-in-container =
+    .label = Tijaq pa K'ak'a' Ajk'wayöl
+    .accesskey = a
 move-to-start =
     .label = Tisilöx pa Rutikirib'al
     .accesskey = R
@@ -92,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Tisilöx Ruwi'
     .accesskey = x
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Tijaq Chik Tz'apin Ruwi'
+            [one] Tijaq Chik Tz'apin Ruwi'
+           *[other] Kejaq Chik Tz'apin taq Ruwi'
+        }
+    .accesskey = a
 tab-context-close-tabs =
     .label =
         { $tabCount ->
