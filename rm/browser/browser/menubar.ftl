@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Infurmaziuns per schliar problems
     .accesskey = p
+menu-help-more-troubleshooting-info =
+    .label = Dapli infurmaziuns per schliar problems
+    .accesskey = D
 menu-help-taskmanager =
     .label = Task Manager
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reaviar ed activar ils supplements
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Modus per schliar problems
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Deactivar il modus per schliar problems
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
