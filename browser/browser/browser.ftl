@@ -525,6 +525,8 @@ crashed-subframe-message = <strong>Збій частини цієї сторін
 crashed-subframe-learnmore =
     .label = Дізнатися більше
     .accesskey = Д
+crashed-subframe-learnmore-link =
+    .value = Докладніше
 crashed-subframe-submit =
     .label = Надіслати звіт
     .accesskey = Н
@@ -623,3 +625,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Деяке аудіо чи відео на цій сторінці використовує програму DRM, що може обмежити можливості, які надає вам { -brand-short-name }.
+eme-notifications-drm-content-playing-manage = Керувати налаштуваннями
+eme-notifications-drm-content-playing-manage-accesskey = К
+eme-notifications-drm-content-playing-dismiss = Відхилити
+eme-notifications-drm-content-playing-dismiss-accesskey = х

@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Інші інструменти
 appmenuitem-exit =
     .label = Вийти
+appmenu-menu-button-closed =
+    .tooltiptext = Відкрити меню програми
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Закрити меню програми
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Увійти
 appmenu-fxa-setup-sync =
     .label = Увімкнути синхронізацію…
+appmenu-fxa-show-more-tabs = Показати більше вкладок
 appmenuitem-save-page =
     .label = Зберегти як…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Вирішення проблем
     .accesskey = В
+appmenu-help-more-troubleshooting-info =
+    .label = Додаткова інформація щодо усунення проблем
+    .accesskey = я
 appmenu-help-taskmanager =
     .label = Менеджер завдань
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Перезапуск з увімкненими додатками
     .accesskey = у
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Режим усунення проблем
+    .accesskey = ж
+appmenu-help-exit-troubleshoot-mode =
+    .label = Вимкнути режим усунення проблем
+    .accesskey = и
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
