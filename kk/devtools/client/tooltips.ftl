@@ -27,6 +27,7 @@ inactive-css-not-display-block-on-floated = <strong>display</strong> қасие�
 inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> қасиетін <strong>:visited</strong> шектеуі салдарынан үстінен жазу мүмкін емес.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол орны бекітілген элементі емес.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені <strong>overflow:hidden</strong> орнатылмаған.
+inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені оның <strong>outline-style</strong> қасиеті <strong>auto</strong> немесе <strong>none</strong> етіп орнатылған.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
