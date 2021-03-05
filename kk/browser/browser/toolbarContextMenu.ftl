@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Жабылған беттерді қайтару
         }
     .accesskey = й
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Жабылған бетті қайта ашу
+           *[other] Жабылған беттерді қайта ашу
+        }
+    .accesskey = й
 toolbar-context-menu-manage-extension =
     .label = Кеңейтуді басқару
     .accesskey = е
