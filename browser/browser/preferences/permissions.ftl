@@ -119,7 +119,7 @@ permissions-site-notification-disable-desc = To buźo websedłam, kótarež gór
 ## Site Permissions - Location
 
 permissions-site-location-window =
-    .title = Nastajenja - pšawa městna
+    .title = Nastajenja - pšawa stojnišća
     .style = { permissions-window.style }
 permissions-site-location-desc = Slědujuce websedła su pominali pśistup k wašomu městnoju. Móžośo pódaś, kótare websedła maju pśistup k wašomu městnoju. Móžośo teke nowe pominanja za pśistupom k wašomu městnoju blokěrowaś.
 permissions-site-location-disable-label =
