@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Troubleshooting Information
     .accesskey = T
+menu-help-more-troubleshooting-info =
+    .label = More Troubleshooting Information
+    .accesskey = T
 menu-help-taskmanager =
     .label = Task Manager
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Restart With Add-ons Enabled
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Troubleshoot Mode
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Turn Troubleshoot Mode Off
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
