@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Openen in een nieuw tabblad
     .accesskey = t
+places-open-in-tab =
+    .label = Openen in nieuw tabblad
+    .accesskey = w
+places-open-all-bookmarks =
+    .label = Alle bladwijzers openen
+    .accesskey = o
 places-open-all-in-tabs =
     .label = Alle openen in tabbladen
     .accesskey = t
@@ -29,6 +35,12 @@ places-new-folder =
 places-new-separator =
     .label = Nieuw scheidingsteken
     .accesskey = c
+places-open-in-window =
+    .label = Openen in nieuw venster
+    .accesskey = u
+places-open-in-private-window =
+    .label = Openen in nieuw privévenster
+    .accesskey = v
 places-add-bookmark =
     .label = Bladwijzer toevoegen…
     .accesskey = B
@@ -72,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Eigenschappen
     .accesskey = E
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Bladwijzer bewerken…
+    .accesskey = b
+places-edit-generic =
+    .label = Bewerken…
+    .accesskey = r
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Beheerde bladwijzers
@@ -81,3 +100,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Andere bladwijzers
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Bladwijzer verwijderen
+            [one] Bladwijzer verwijderen
+           *[other] Bladwijzers verwijderen
+        }
+    .accesskey = v
+places-manage-bookmarks =
+    .label = Bladwijzers beheren
+    .accesskey = b
