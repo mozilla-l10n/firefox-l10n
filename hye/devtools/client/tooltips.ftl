@@ -53,6 +53,7 @@ inactive-css-not-for-internal-table-elements-fix = Փորձէք դրա <strong> 
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Փորձէք դրա <strong> ցուցադրման </ strong> գործառոյթը սահմանել այլ բան, քան <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, կամ <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Փորձէք դրա <strong> ուրուագծային ոճ </strong> յատկութիւնը դնել այլ բանի վրայ, փոխանակ <strong> ինքնաշխատ </ strong> կամ <strong> չկայ </ strong>: { learn-more }
 inactive-css-not-table-fix = Փորձէք աւելացնել <strong> ցուցադրել:աղիւսակը </strong> կամ <strong> ցուցադրել:ներտողային-աղիւսակը</strong>: { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Փորձէք աւելացնել <strong> ընդարձակում:ինքնաբար </strong>, <strong> ընդարձակումը:ոլորել</strong>, կամ <strong> ընդարձակում:թաքցնել </strong>: { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
