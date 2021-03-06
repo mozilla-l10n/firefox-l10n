@@ -1082,6 +1082,9 @@ collection-health-report-link = Plui informazions
 collection-studies =
     .label = Permet a { -brand-short-name } di instalâ e puartâ indenant studis
 collection-studies-link = Visualize i studis di { -brand-short-name }
+addon-recommendations =
+    .label = Permet a { -brand-short-name } di rindi personalizâts i conseis di estensions
+addon-recommendations-link = Plui informazions
 
 ## Privacy Section - Security
 ##
