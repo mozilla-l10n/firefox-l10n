@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Wybierz swój <span data-l10n-name="zap">wygląd</span>
 onboarding-multistage-theme-subtitle = Spersonalizuj przeglądarkę { -brand-short-name } za pomocą motywu.
 onboarding-multistage-theme-primary-button-label = Zapisz motyw
+onboarding-multistage-theme-primary-button-label2 = Gotowe
 onboarding-multistage-theme-secondary-button-label = Nie teraz
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatyczny

@@ -525,6 +525,8 @@ crashed-subframe-message = <strong>Część tej strony uległa awarii.</strong> 
 crashed-subframe-learnmore =
     .label = Więcej informacji
     .accesskey = W
+crashed-subframe-learnmore-link =
+    .value = Więcej informacji
 crashed-subframe-submit =
     .label = Zgłoś awarię
     .accesskey = Z
@@ -622,4 +624,8 @@ more-menu-go-offline =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Dźwięk lub obraz na tej stronie używają oprogramowania DRM, które może ograniczać możliwości oferowane przez program { -brand-short-name }.
+eme-notifications-drm-content-playing = Dźwięk lub obraz na tej stronie używają oprogramowania DRM, które może ograniczać możliwości oferowane przez przeglądarkę { -brand-short-name }.
+eme-notifications-drm-content-playing-manage = Zarządzaj ustawieniami
+eme-notifications-drm-content-playing-manage-accesskey = u
+eme-notifications-drm-content-playing-dismiss = Zamknij
+eme-notifications-drm-content-playing-dismiss-accesskey = Z
