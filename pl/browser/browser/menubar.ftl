@@ -323,7 +323,10 @@ menu-get-help =
     .label = Pomoc
     .accesskey = P
 menu-help-troubleshooting-info =
-    .label = Informacje dla pomocy technicznej
+    .label = Informacje do rozwiązywania problemów
+    .accesskey = n
+menu-help-more-troubleshooting-info =
+    .label = Więcej informacji do rozwiązywania problemów
     .accesskey = n
 menu-help-taskmanager =
     .label = Menedżer zadań
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Uruchom ponownie z włączonymi dodatkami
     .accesskey = U
+menu-help-enter-troubleshoot-mode =
+    .label = Tryb rozwiązywania problemów
+    .accesskey = T
+menu-help-exit-troubleshoot-mode =
+    .label = Wyłącz tryb rozwiązywania problemów
+    .accesskey = t
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
