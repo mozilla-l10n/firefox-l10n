@@ -101,6 +101,7 @@ printui-paper-tabloid = Taloyit
 
 printui-error-invalid-scale = Ri rukojol k'o chi jun ajilab'äl 10 o chuqa' 200.
 printui-error-invalid-margin = Tatz'ib'aj jun okel ruchi' rupalem wuj xacha'.
+printui-error-invalid-copies = Ri rajilab'al taq wachib'äl k'o chi k'o chi kikojol 1 chuqa' 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Ri rupalem k'o chi jun ajilab'äl 1 chuqa' { $numPages }.
