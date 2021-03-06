@@ -344,6 +344,9 @@ menu-help-safe-mode-with-addons =
 menu-help-enter-troubleshoot-mode =
     .label = Kib'anikil taq k'ayewal
     .accesskey = K
+menu-help-exit-troubleshoot-mode =
+    .label = Tichup ri Rub'anikil Kiwäch K'ayewal
+    .accesskey = R
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

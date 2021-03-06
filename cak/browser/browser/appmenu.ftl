@@ -180,6 +180,9 @@ appmenu-help-safe-mode-with-addons =
 appmenu-help-enter-troubleshoot-mode =
     .label = Kib'anikil taq k'ayewal
     .accesskey = K
+appmenu-help-exit-troubleshoot-mode =
+    .label = Tichup ri Rub'anikil Kiwäch K'ayewal
+    .accesskey = R
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
