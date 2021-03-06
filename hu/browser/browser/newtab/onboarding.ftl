@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Válasszon egy <span data-l10n-name="zap">megjelenést</span>
 onboarding-multistage-theme-subtitle = Tegye egyedivé a { -brand-short-name }ot egy témával.
 onboarding-multistage-theme-primary-button-label = Téma mentése
+onboarding-multistage-theme-primary-button-label2 = Kész
 onboarding-multistage-theme-secondary-button-label = Most nem
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatikus

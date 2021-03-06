@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Újranyitás konténerben
     .accesskey = j
+tab-context-open-in-container =
+    .label = Megnyitás új konténerben
+    .accesskey = e
 move-to-start =
     .label = Áthelyezés az elejére
     .accesskey = e
@@ -92,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Lap áthelyezése
     .accesskey = h
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Bezárt lap újranyitása
+            [one] Bezárt lap újranyitása
+           *[other] Bezárt lapok újranyitása
+        }
+    .accesskey = z
 tab-context-close-tabs =
     .label =
         { $tabCount ->
