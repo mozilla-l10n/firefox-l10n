@@ -626,4 +626,6 @@ more-menu-go-offline =
 
 eme-notifications-drm-content-playing = Neki audio ili video materijali na ovoj stranici koriste DRM softver koji može ograničiti što { -brand-short-name } može učiniti s njima.
 eme-notifications-drm-content-playing-manage = Upravljaj postavkama
+eme-notifications-drm-content-playing-manage-accesskey = m
 eme-notifications-drm-content-playing-dismiss = Odbaci
+eme-notifications-drm-content-playing-dismiss-accesskey = d
