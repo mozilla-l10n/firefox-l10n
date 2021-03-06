@@ -65,8 +65,33 @@ protection-report-manage-passwords-button = Gjestìs lis passwords
     .title = Gjestìs lis passwords su { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Puarte lis tôs passwords dapardut
 lockwise-no-logins-card-content = Dopre lis passwords salvadis in { -brand-short-name } su ducj i dispositîfs.
+lockwise-app-links = { -lockwise-brand-name } par <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 password e podarès jessi stade cjapade dentri di une violazion di dâts.
+       *[other] { $count } passwords a podaressin jessi stadis cjapadis dentri di une violazion di dâts.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 password archiviade in sigurece.
+       *[other] Lis tôs passwords a son stadis archiviadis in sigurece.
+    }
+lockwise-how-it-works-link = Cemût funzionial?
 turn-on-sync = Ative { -sync-brand-short-name }…
     .title = Va tes preferencis de sincronizazion
+monitor-title = Ten di voli lis violazions di dâts
+monitor-link = Cemût funzionial?
+monitor-header-content-no-account = Controle { -monitor-brand-name } par viodi se tu sês stât cjapât dentri di une violazion di dâts e otignî avîs in merit a gnovis violazions.
+monitor-header-content-signed-in = { -monitor-brand-name } ti vise se lis tôs informazions a son vignudis fûr intune violazion di dâts cognossude.
+monitor-sign-up-link = Iscriviti pai avîs di violazions
+    .title = Iscriviti par vê avîs di violazions su { -monitor-brand-name }
+auto-scan = Controlât vuê in automatic
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
