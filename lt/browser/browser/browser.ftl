@@ -525,6 +525,8 @@ crashed-subframe-message = <strong>Dalis šio tinklalapio užstrigo.</strong> No
 crashed-subframe-learnmore =
     .label = Sužinoti daugiau
     .accesskey = S
+crashed-subframe-learnmore-link =
+    .value = Sužinoti daugiau
 crashed-subframe-submit =
     .label = Siųsti pranešimą
     .accesskey = S
@@ -623,3 +625,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Dalis šios svetainės garsinio ar vaizdinio turinio naudoja skaitmeninių teisių apsaugos (DRM) programinę įrangą, o tai gali riboti kokius veiksmus „{ -brand-short-name }“ gali leisti jums atlikti.
+eme-notifications-drm-content-playing-manage = Keisti nuostatas
+eme-notifications-drm-content-playing-manage-accesskey = K
+eme-notifications-drm-content-playing-dismiss = Paslėpti
+eme-notifications-drm-content-playing-dismiss-accesskey = P

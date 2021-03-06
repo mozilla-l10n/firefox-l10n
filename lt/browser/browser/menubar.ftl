@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informacija problemų sprendimui
     .accesskey = r
+menu-help-more-troubleshooting-info =
+    .label = Daugiau informacijos problemų sprendimui
+    .accesskey = p
 menu-help-taskmanager =
     .label = Užduočių tvarkytuvė
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Perleisti programą su išjungtais priedais
     .accesskey = r
+menu-help-enter-troubleshoot-mode =
+    .label = Problemų sprendimo veiksena
+    .accesskey = m
+menu-help-exit-troubleshoot-mode =
+    .label = Išjungti problemų sprendimo veikseną
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

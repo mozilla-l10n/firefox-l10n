@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Pasirinkite <span data-l10n-name="zap">išvaizdą</span>
 onboarding-multistage-theme-subtitle = Individualizuokite „{ -brand-short-name }“ su grafiniu apvalkalu.
 onboarding-multistage-theme-primary-button-label = Įrašyti grafinį apvalkalą
+onboarding-multistage-theme-primary-button-label2 = Gerai
 onboarding-multistage-theme-secondary-button-label = Ne dabar
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatinis
