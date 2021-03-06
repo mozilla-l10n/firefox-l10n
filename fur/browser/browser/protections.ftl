@@ -92,6 +92,10 @@ monitor-header-content-signed-in = { -monitor-brand-name } ti vise se lis tôs i
 monitor-sign-up-link = Iscriviti pai avîs di violazions
     .title = Iscriviti par vê avîs di violazions su { -monitor-brand-name }
 auto-scan = Controlât vuê in automatic
+monitor-emails-tooltip =
+    .title = Viôt lis direzions e-mail monitoradis su { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Viôt lis violazions di dâts cognossudis su { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
