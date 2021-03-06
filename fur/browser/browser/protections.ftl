@@ -44,6 +44,18 @@ social-tab-contant = I social networks a placin spiis su altris sîts web par st
 cookie-tab-title = Cookies inter-sît che a spiin
 cookie-tab-content = Chescj cookies ti stan daûr di un sît a chel altri par tirâ dongje dâts su ce che tu fasis in rêt. A vegnin stabilîts di tiercis parts tant che agjenziis publicitariis e di analisi dai dâts. Il bloc dai cookies inter-sît che a spiin al ridûs il numar di publicitâts che ti stan daûr ator pe rêt. <a data-l10n-name="learn-more-link">Plui informazions</a>
 tracker-tab-title = Contignûts che ti spiin
+tracker-tab-description = I sîts web a puedin cjariâ publicitât, videos e altri contignûts esternis cul codiç par spiâti. Blocant i contignûts che ti spiin tu puedis sveltî il cjariament dai sîts, ma cualchi boton, formulari e cjamp pes credenziâls al podarès no funzionâ. <a data-l10n-name="learn-more-link">Plui informazions</a>
+fingerprinter-tab-title = Rilevadôrs di stamp numeric
+fingerprinter-tab-content = I rilevadôrs di stamp numeric al tire dongje impostazions dal to navigadôr e dal to computer par creâ un to profîl. Doprant chest stamp numeric digjitâl, a puedin stâti daûr su diviers sîts web. <a data-l10n-name="learn-more-link">Plui informazions</a>
+cryptominer-tab-title = Minadôrs di criptomonede
+cryptominer-tab-content = I minadôrs di criptomonede a doprin la potence di elaborazion dal to sisteme par minâ monede digjitâl. I script par minâ la criptomonede ti cjucjin la batarie, ti morestin il computer e ti puedin fâ cressi il cont de bolete de eletricitât. <a data-l10n-name="learn-more-link">Plui informazions</a>
+protections-close-button2 =
+    .aria-label = Siere
+    .title = Siere
+mobile-app-title = Bloche lis spiis (trackers) des publicitâts su plui dispositîfs
+mobile-app-card-content = Dopre il navigadôr mobile cu la protezion integrade cuintri lis publicitâts che ti stan daûr.
+mobile-app-links = Navigadôr { -brand-product-name } par <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+lockwise-title = Mai plui dismenteâ une password
 turn-on-sync = Ative { -sync-brand-short-name }…
     .title = Va tes preferencis de sincronizazion
 
