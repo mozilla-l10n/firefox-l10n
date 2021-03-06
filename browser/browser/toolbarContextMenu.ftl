@@ -26,6 +26,15 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Poništi zatvaranje kartica
         }
     .accesskey = n
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ponovno otvori zatvorenu karticu
+            [one] Ponovno otvori zatvorenu karticu
+            [few] Ponovno otvori zatvorene kartice
+           *[other] Ponovno otvori zatvorene kartice
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Upravljaj proširenjem
     .accesskey = e

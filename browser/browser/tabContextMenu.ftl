@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Ponovo otvori u kontejneru
     .accesskey = e
+tab-context-open-in-container =
+    .label = Otvori u novoj kontejnerskoj kartici
+    .accesskey = e
 move-to-start =
     .label = Pomakni na početak
     .accesskey = p
@@ -93,6 +96,15 @@ move-tabs =
 move-tab =
     .label = Pomakni karticu
     .accesskey = m
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ponovno otvori zatvorenu karticu
+            [one] Ponovno otvori zatvorenu karticu
+            [few] Ponovno otvori zatvorene kartice
+           *[other] Ponovno otvori zatvorene kartice
+        }
+    .accesskey = r
 tab-context-close-tabs =
     .label =
         { $tabCount ->
