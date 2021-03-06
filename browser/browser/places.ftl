@@ -50,6 +50,9 @@ places-add-folder-contextmenu =
 places-add-folder =
     .label = Įtraukti aplanką…
     .accesskey = k
+places-add-separator =
+    .label = Įtraukti skirtuką
+    .accesskey = s
 places-view =
     .label = Rodyti
     .accesskey = o
@@ -81,6 +84,10 @@ places-sortby-name =
 places-properties =
     .label = Savybės
     .accesskey = S
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Redaguoti adresyno įrašą…
+    .accesskey = y
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tvarkomas adresynas
@@ -90,3 +97,6 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Kiti adresyno įrašai
+places-manage-bookmarks =
+    .label = Tvarkyti adresyną
+    .accesskey = T
