@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Plui struments
 appmenuitem-exit =
     .label = Jes
+appmenu-menu-button-closed =
+    .tooltiptext = Vierç menù aplicazion
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Siere menù aplicazion
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,8 +51,23 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronize cumò
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Sincronize cumò
+    .value = Sincronize cumò
+appmenuitem-fxa-manage-account = Gjestìs account
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Ultime volte sincronizât: { $time }
+    .label = Ultime volte sincronizât: { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Sincronize e salve i dâts
+appmenu-fxa-signed-in-label = Jentre
 appmenu-fxa-setup-sync =
     .label = Ative la sincronizazion…
+appmenu-fxa-show-more-tabs = Mostre plui schedis
 appmenuitem-save-page =
     .label = Salve pagjine come…
 
@@ -102,6 +123,10 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Gjestìs cronologjie
+appmenu-reopen-all-tabs = Torne vierç dutis lis schedis
+appmenu-reopen-all-windows = Torne vierç ducj i barcons
 
 ## Help panel
 
@@ -128,6 +153,13 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informazions par risolvi problemis…
     .accesskey = p
+appmenu-help-more-troubleshooting-info =
+    .label = Plui informazions pe risoluzion dai problemis
+    .accesskey = T
+appmenu-help-taskmanager =
+    .label = Gjestôr ativitâts
+appmenu-help-report-site-issue =
+    .label = Segnale probleme cul sît…
 appmenu-help-feedback-page =
     .label = Invie opinion
     .accesskey = o
@@ -141,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Torne invie abilitant lis zontis
     .accesskey = a
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Modalitât risoluzion problemis
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Distude modalitât risoluzion problemis
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -159,3 +201,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Personalize sbare dai struments…
+appmenu-developer-tools-subheader = Struments dal navigadôr
