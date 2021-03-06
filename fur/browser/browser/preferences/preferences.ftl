@@ -1085,16 +1085,39 @@ collection-studies-link = Visualize i studis di { -brand-short-name }
 addon-recommendations =
     .label = Permet a { -brand-short-name } di rindi personalizâts i conseis di estensions
 addon-recommendations-link = Plui informazions
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = La segnalazion di dâts e je stade disativade te configurazion di cheste compilazion
+collection-backlogged-crash-reports =
+    .label = Permet a { -brand-short-name } di inviâ lis segnalazions  di colàs in spiete, che tu âs fat
+    .accesskey = c
+collection-backlogged-crash-reports-link = Plui informazions
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sigurece
+security-browsing-protection = Protezion dai contignûts ingjanôs e dal software pericolôs
+security-enable-safe-browsing =
+    .label = Bloche i contignûts pericolôs e ingjanôs
+    .accesskey = B
+security-enable-safe-browsing-link = Plui informazions
+security-block-downloads =
+    .label = Bloche i discjariaments pericolôs
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Vise in câs di software indesiderât e no comun
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
 certs-header = Certificâts
+certs-personal-label = Cuant che un servidôr al domande il to certificât personâl
+certs-select-auto-option =
+    .label = Selezione un in automatic
+    .accesskey = S
 
 ## Privacy Section - HTTPS-Only
 
