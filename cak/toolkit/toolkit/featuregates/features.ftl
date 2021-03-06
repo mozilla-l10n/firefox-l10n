@@ -101,3 +101,6 @@ experimental-features-multi-pip-description = Tojtob'enel chi to'ïk richin niya
 experimental-features-http3 =
     .label = HTTP/3 protokolo'
 experimental-features-http3-description = Tojtob'enel Rutob'al ri HTTP/3 protokolo'.
+# Search during IME
+experimental-features-ime-search =
+    .label = Rukajtz'ik Ochochib'äl: Kek'ut ri xe'ilitäj ri runuk'uj IME
