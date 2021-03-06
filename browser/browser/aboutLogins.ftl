@@ -267,3 +267,25 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-fail
        *[other] CSV-fail
     }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-dialog-error-file-permission-title = Viga faili lugemisel
+about-logins-import-dialog-error-learn-more = Rohkem teavet
+about-logins-import-dialog-error-try-again = Proovi uuesti…
+about-logins-import-dialog-error-cancel = Tühista
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+
+## Logins import report page
+
