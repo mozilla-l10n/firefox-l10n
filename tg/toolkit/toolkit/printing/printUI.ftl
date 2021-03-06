@@ -99,3 +99,10 @@ printui-paper-tabloid = Ҷамъбастӣ
 
 ## Error messages shown when a user has an invalid input
 
+printui-error-invalid-scale = Миқёс бояд рақаме байни 10 ва 200 бошад.
+printui-error-invalid-margin = Лутфан, барои андозаи варақи интихобшуда ҳошияи дурустро ворид намоед.
+printui-error-invalid-copies = Шумораи нусхаҳо бояд рақаме байни 1 ва 10000 бошад.
+# Variables
+# $numPages (integer) - Number of pages
+printui-error-invalid-range = Қатори варақаҳо бояд рақаме байни 1 ва { $numPages } бошад.
+printui-error-invalid-start-overflow = Рақами “аз” саҳифа бояд аз рақами “то” саҳифа хурдтар бошад.
