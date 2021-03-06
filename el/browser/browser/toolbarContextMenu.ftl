@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Αναίρεση κλεισίματος καρτελών
         }
     .accesskey = Α
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Επαναφορά κλειστής καρτέλας
+           *[other] Επαναφορά κλειστών καρτελών
+        }
+    .accesskey = ο
 toolbar-context-menu-manage-extension =
     .label = Διαχείριση επέκτασης
     .accesskey = ε
