@@ -409,6 +409,7 @@ support-printing-prefs-value = Retal
 support-remote-experiments-title = Näj Solna'oj
 support-remote-experiments-name = B'i'aj
 support-remote-experiments-branch = Solna'oj Branch
+support-remote-experiments-see-about-studies = Titz'et <a data-l10n-name="support-about-studies-link">about:studies</a> richin ch'aqa' etamab'äl, achi'el chuqa' rub'eyal yechup junilal taq tojtob'enel o richin nichup { -brand-short-name } richin nusamajij re ruwäch tojtob'enel ri chwa'q kab'ij.
 support-remote-features-title = Näj taq B'anikil
 support-remote-features-name = B'i'aj
 support-remote-features-status = B'anikil
