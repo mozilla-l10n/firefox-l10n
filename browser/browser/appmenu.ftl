@@ -149,10 +149,10 @@ appmenu-get-help =
     .label = 获取帮助
     .accesskey = H
 appmenu-help-troubleshooting-info =
-    .label = 故障排除信息
+    .label = 排障信息
     .accesskey = T
 appmenu-help-more-troubleshooting-info =
-    .label = 更多故障排除信息
+    .label = 更多排障信息
     .accesskey = T
 appmenu-help-taskmanager =
     .label = 任务管理器
@@ -176,10 +176,10 @@ appmenu-help-safe-mode-with-addons =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-enter-troubleshoot-mode =
-    .label = 故障排除模式
+    .label = 排障模式
     .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
-    .label = 关闭故障排除模式
+    .label = 关闭排障模式
     .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
