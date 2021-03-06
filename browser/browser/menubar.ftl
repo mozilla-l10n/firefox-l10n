@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Hibakeresési információ
     .accesskey = H
+menu-help-more-troubleshooting-info =
+    .label = Több hibakeresési információ
+    .accesskey = T
 menu-help-taskmanager =
     .label = Feladatkezelő
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Újraindítás engedélyezett kiegészítőkkel
     .accesskey = r
+menu-help-enter-troubleshoot-mode =
+    .label = Hibakeresési mód
+    .accesskey = H
+menu-help-exit-troubleshoot-mode =
+    .label = Hibakeresési mód bekapcsolása
+    .accesskey = b
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

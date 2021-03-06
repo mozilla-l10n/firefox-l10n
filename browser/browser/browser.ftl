@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Az oldal egy része összeomlott.</strong> K�
 crashed-subframe-learnmore =
     .label = További tudnivalók
     .accesskey = T
+crashed-subframe-learnmore-link =
+    .value = További tudnivalók
 crashed-subframe-submit =
     .label = Jelentés beküldése
     .accesskey = b
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = A weboldal egyes hangjai vagy videói DRM szoftvert használnak, ami korlátozhatja, hogy a { -brand-short-name } ezekkel kapcsolatban mit engedélyezhet Önnek.
+eme-notifications-drm-content-playing-manage = Beállítások kezelése
+eme-notifications-drm-content-playing-manage-accesskey = k
+eme-notifications-drm-content-playing-dismiss = Elvetés
+eme-notifications-drm-content-playing-dismiss-accesskey = E

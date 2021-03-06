@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Lapbezárások visszavonása
         }
     .accesskey = v
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Bezárt lap újranyitása
+            [one] Bezárt lap újranyitása
+           *[other] Bezárt lapok újranyitása
+        }
+    .accesskey = r
 toolbar-context-menu-manage-extension =
     .label = Kiegészítő kezelése
     .accesskey = K

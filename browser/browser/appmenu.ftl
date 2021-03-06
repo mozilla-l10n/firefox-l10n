@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = További eszközök
 appmenuitem-exit =
     .label = Kilépés
+appmenu-menu-button-closed =
+    .tooltiptext = Alkalmazásmenü megnyitása
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Alkalmazásmenü bezárása
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Bejelentkezés
 appmenu-fxa-setup-sync =
     .label = Szinkronizálás bekapcsolása…
+appmenu-fxa-show-more-tabs = Több lap megjelenítése
 appmenuitem-save-page =
     .label = Oldal mentése…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Hibakeresési információ
     .accesskey = H
+appmenu-help-more-troubleshooting-info =
+    .label = Több hibakeresési információ
+    .accesskey = T
 appmenu-help-taskmanager =
     .label = Feladatkezelő
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Újraindítás engedélyezett kiegészítőkkel
     .accesskey = r
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Hibakeresési mód
+    .accesskey = H
+appmenu-help-exit-troubleshoot-mode =
+    .label = Hibakeresési mód kikapcsolása
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
