@@ -1072,6 +1072,16 @@ permissions-a11y-privacy-link = Plui informazions
 
 collection-header = Racuelte e ûs dai dâts di { -brand-short-name }
 collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e tirâ dongje dome i dâts necessaris par realizâ e miorâ { -brand-short-name } par ducj. O domandìn simpri il permès prime di ricevi informazions personâls.
+collection-privacy-notice = Informative su la riservatece
+collection-health-report-telemetry-disabled = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
+collection-health-report-telemetry-disabled-link = Plui informazions
+collection-health-report =
+    .label = Permet a { -brand-short-name } di inviâ dâts tecnics e di interazion a { -vendor-short-name }
+    .accesskey = r
+collection-health-report-link = Plui informazions
+collection-studies =
+    .label = Permet a { -brand-short-name } di instalâ e puartâ indenant studis
+collection-studies-link = Visualize i studis di { -brand-short-name }
 
 ## Privacy Section - Security
 ##
