@@ -312,6 +312,44 @@ about-logins-import-dialog-error-no-logins-imported = ਕੋਈ ਵੀ ਲਾਗ
 about-logins-import-dialog-error-learn-more = ਹੋਰ ਜਾਣੋ
 about-logins-import-dialog-error-try-again = …ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 about-logins-import-dialog-error-cancel = ਰੱਦ ਕਰੋ
+about-logins-import-report-title = ਦਰਾਮਦ ਦਾ ਸਾਰ
+about-logins-import-report-description = ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ { -brand-short-name } ਲਈ ਦਰਾਮਦ ਕੀਤੇ।
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = ਕਤਾਰ { $number }
+about-logins-import-report-row-description-no-change = ਡੁਪਲੀਕੇਟ: ਪੂਰੀ ਤਰ੍ਹਾਂ ਮਿਲਦਾ ਹੋਇਆ ਮੌਜੂਦਾ ਲਾਗਇਨ
+about-logins-import-report-row-description-modified = ਮੌਜੂਦਾ ਲਾਗਇਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ
+about-logins-import-report-row-description-added = ਨਵਾਂ ਲਾਗਇਨ ਜੋੜਿਆ
+about-logins-import-report-row-description-error = ਗ਼ਲਤੀ: ਖੇਤਰ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = ਗ਼ਲਤੀ: { $field } ਲਈ ਕਈ ਮੁੱਲ ਹਨ
+about-logins-import-report-row-description-error-missing-field = ਗ਼ਲਤੀ: { $field } ਮੌਜੂਦ ਨਹੀਂ ਹੈ
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਨਵੇਂ ਲਾਗਇਨ ਜੋੜੇ ਗਏ</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਮੌਜੂਦਾ ਲਾਗਇਨ ਅੱਪਡੇਟ ਕੀਤੇ</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਡੁਪਲੀਕੇਟ ਲਾਗਇਨ</div> <div data-l10n-name="not-imported">(ਦਰਾਮਦ ਨਹੀਂ ਕੀਤੇ)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਗ਼ਲਤੀਆਂ</div> <div data-l10n-name="not-imported">(ਦਰਾਮਦ ਨਹੀਂ ਕੀਤੇ ਗਏ)</div>
+    }
 
 ## Logins import report page
 
