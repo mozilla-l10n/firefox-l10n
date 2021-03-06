@@ -42,6 +42,7 @@ graph-legend-description = Un grafic che al conten il numar totâl di ogni gjena
 social-tab-title = Spiis (trackers) dai social media
 social-tab-contant = I social networks a placin spiis su altris sîts web par stâti daûr su ce che tu fasis, viodis e osservis in rêt. Chest al permet aes compagniis dai social media di savê alc di plui su di te, rispiet a ce che za tu condividis sui profîi dai tiei social media. <a data-l10n-name="learn-more-link">Plui informazions</a>
 cookie-tab-title = Cookies inter-sît che a spiin
+cookie-tab-content = Chescj cookies ti stan daûr di un sît a chel altri par tirâ dongje dâts su ce che tu fasis in rêt. A vegnin stabilîts di tiercis parts tant che agjenziis publicitariis e di analisi dai dâts. Il bloc dai cookies inter-sît che a spiin al ridûs il numar di publicitâts che ti stan daûr ator pe rêt. <a data-l10n-name="learn-more-link">Plui informazions</a>
 turn-on-sync = Ative { -sync-brand-short-name }…
     .title = Va tes preferencis de sincronizazion
 
