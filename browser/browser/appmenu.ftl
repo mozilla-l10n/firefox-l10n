@@ -144,7 +144,7 @@ appmenu-get-help =
     .label = Pomoc
     .accesskey = P
 appmenu-help-troubleshooting-info =
-    .label = Informacje dla pomocy technicznej
+    .label = Informacje do rozwiązywania problemów
     .accesskey = n
 appmenu-help-taskmanager =
     .label = Menedżer zadań
@@ -163,6 +163,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Uruchom ponownie z włączonymi dodatkami
     .accesskey = U
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

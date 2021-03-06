@@ -21,9 +21,14 @@ toolbar-context-menu-undo-close-tabs =
     .label =
         { $tabCount ->
             [1] Przywróć zamkniętą kartę
-            [one] Przywróć zamkniętą kartę
-            [few] Przywróć zamknięte karty
-           *[many] Przywróć zamknięte karty
+           *[other] Przywróć zamknięte karty
+        }
+    .accesskey = P
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Przywróć zamkniętą kartę
+           *[other] Przywróć zamknięte karty
         }
     .accesskey = P
 toolbar-context-menu-manage-extension =
