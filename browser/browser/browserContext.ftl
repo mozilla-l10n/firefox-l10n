@@ -131,11 +131,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopioi sähköpostiosoite
     .accesskey = s
 main-context-menu-copy-link =
     .label = Kopioi linkin osoite
+    .accesskey = K
+main-context-menu-copy-link-simple =
+    .label = Kopioi linkki
     .accesskey = K
 
 ## Media (video/audio) controls
@@ -227,6 +235,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopioi äänitteen sijainti
     .accesskey = p
+main-context-menu-image-copy-link =
+    .label = Kopioi kuvan linkki
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Kopioi videon linkki
+    .accesskey = v
+main-context-menu-audio-copy-link =
+    .label = Kopioi äänilinkki
+    .accesskey = ä
 main-context-menu-image-save-as =
     .label = Tallenna kuva nimellä…
     .accesskey = e
@@ -239,6 +256,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Näytä kuvan tiedot
     .accesskey = d
+main-context-menu-image-set-image-as-background =
+    .label = Aseta työpöydän taustakuvaksi…
+    .accesskey = t
 main-context-menu-image-desc =
     .label = Näytä kuvaus
     .accesskey = u
@@ -275,6 +295,9 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Käytä luotua salasanaa…
     .accesskey = K
+main-context-menu-manage-logins =
+    .label = Hallitse kirjautumistietoja…
+    .accesskey = H
 main-context-menu-keyword =
     .label = Lisää pikakomento tälle haulle…
     .accesskey = L
