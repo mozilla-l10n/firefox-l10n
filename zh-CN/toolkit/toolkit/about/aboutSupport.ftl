@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = 故障排除信息
+page-title = 排障信息
 page-subtitle =
     本页面包含的技术信息在您寻求解决方法时或许能帮上忙。
     如果您正在寻找 { -brand-short-name } 常见问题的答案，
