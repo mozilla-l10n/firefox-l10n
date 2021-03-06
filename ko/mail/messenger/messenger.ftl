@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name }은 전 세계 수천 명�
 folder-pane-toolbar =
     .toolbarname = 폴더 창 도구모음
     .accesskey = F
+folder-pane-toolbar-options-button =
+    .tooltiptext = 폴더 창 옵션
 folder-pane-header-label = 폴더
 
 ## Folder Toolbar Header Popup

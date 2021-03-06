@@ -88,9 +88,27 @@ key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
 expand-attachment-pane-tooltip =
     .tooltiptext = 첨부 파일 창 보기 ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = 첨부 파일 창 닫기 ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+       *[other] 첨부 파일로 추가
+    }
+drop-file-label-inline =
+    { $count ->
+       *[other] 인라인 추가
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = 첫번째로 이동
+move-attachment-left-panel-button =
+    .label = 왼쪽으로 이동
+move-attachment-right-panel-button =
+    .label = 오른쪽으로 이동
+move-attachment-last-panel-button =
+    .label = 마지막으로 이동
 button-return-receipt =
     .label = 수신 확인
     .tooltiptext = 이 메시지에 대한 수신 확인을 요청
