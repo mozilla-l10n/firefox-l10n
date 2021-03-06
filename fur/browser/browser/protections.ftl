@@ -32,6 +32,16 @@ protection-report-settings-link = Gjestìs lis impostazions de tô riservatece e
 etp-card-title-always = Protezion miorade da lis spiis: SIMPRI ATIVE
 etp-card-title-custom-not-blocking = Protezion miorade da lis spiis: DISATIVADE
 etp-card-content-description = { -brand-short-name } al ferme in automatic lis compagniis dal stâti daûr in segret ator pal web.
+protection-report-etp-card-content-custom-not-blocking = In chest moment dutis lis protezions a son disativadis. Sielç cualis spiis (trackers) blocâ gjestint lis tôs impostazions di protezion di { -brand-short-name }.
+protection-report-manage-protections = Gjestìs impostazions
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = Vuê
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Un grafic che al conten il numar totâl di ogni gjenar di spie (tracker) blocade cheste setemane.
+social-tab-title = Spiis (trackers) dai social media
+social-tab-contant = I social networks a placin spiis su altris sîts web par stâti daûr su ce che tu fasis, viodis e osservis in rêt. Chest al permet aes compagniis dai social media di savê alc di plui su di te, rispiet a ce che za tu condividis sui profîi dai tiei social media. <a data-l10n-name="learn-more-link">Plui informazions</a>
+cookie-tab-title = Cookies inter-sît che a spiin
 turn-on-sync = Ative { -sync-brand-short-name }…
     .title = Va tes preferencis de sincronizazion
 
