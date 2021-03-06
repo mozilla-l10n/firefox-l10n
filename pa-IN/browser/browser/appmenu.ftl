@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = ਹੋਰ ਟੂਲ
 appmenuitem-exit =
     .label = ਬਾਹਰ
+appmenu-menu-button-closed =
+    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +51,23 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+appmenuitem-fxa-toolbar-sync-now =
+    .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+    .value = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+appmenuitem-fxa-manage-account = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
+    .label = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
+appmenu-fxa-signed-in-label = ਸਾਇਨ ਇਨ
+appmenu-fxa-setup-sync =
+    .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
+appmenu-fxa-show-more-tabs = ਹੋਰ ਟੈਬਾਂ ਵੇਖਾਓ
 appmenuitem-save-page =
     .label = …ਸਫ਼ੇ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
 
@@ -128,6 +151,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = ਹੋਰ ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
+    .accesskey = T
 appmenu-help-taskmanager =
     .label = ਟਾਸਕ ਮੈਨੇਜਰ
 appmenu-help-report-site-issue =
@@ -145,6 +171,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = ਐਡ-ਆਨ ਸਮਰੱਥ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ ਬੰਦ ਹੈ
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

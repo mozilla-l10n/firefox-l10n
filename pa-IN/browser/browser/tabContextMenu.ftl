@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = ਡੁਪਲੀਕੇਟ ਟੈਬਾਂ
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = ਖੱਬੇ ਪਾਸੇ ਵਾਲੀਆਂ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
+    .accesskey = I
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = ਸੱਜੇ ਪਾਸੇ ਵਾਲੀਆਂ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰੋ
     .accesskey = i
@@ -44,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = ਕਨਟਰੇਨਰ ਵਿੱਚ ਮੁੜ-ਖੋਲ੍ਹੋ
     .accesskey = e
+tab-context-open-in-container =
+    .label = ਨਵੇਂ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ
+    .accesskey = e
 move-to-start =
     .label = ਸ਼ੁਰੂ 'ਤੇ ਭੇਜੋ
     .accesskey = S
@@ -56,6 +66,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = ਕਈ ਟੈਬਾਂ ਬੰਦ ਕਰੋ
     .accesskey = M
+tab-context-share-url =
+    .label = ਸਾਂਝਾ ਕਰੋ
+    .accesskey = h
+tab-context-share-more =
+    .label = …ਹੋਰ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -80,6 +95,13 @@ move-tabs =
 move-tab =
     .label = ਟੈਬ ਭੇਜੋ
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] ਬੰਦ ਕੀਤੀ ਟੈਬ ਮੁੜ-ਖੋਲ੍ਹੋ
+           *[other] ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਖੋਲ੍ਹੋ
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->

@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਵਾਪਸ ਲਵੋ
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] ਬੰਦ ਕੀਤੀ ਟੈਬ ਮੁੜ-ਖੋਲ੍ਹੋ
+           *[other] ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਮੁੜ-ਖੋਲ੍ਹੋ
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ
     .accesskey = E
@@ -46,21 +53,18 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = ਟੂਲ-ਪੱਟੀ ਨੂੰ ਆਪੇ-ਲੁਕਾਵੋ
     .accesskey = A
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = ਜਦੋਂ ਖਾਲੀ ਹੋਵੇ ਤਾਂ ਬਟਨ ਓਹਲੇ ਕਰੋ
+    .accesskey = H
 toolbar-context-menu-remove-from-toolbar =
     .label = ਟੂਲਬਾਰ 'ਚੋਂ ਹਟਾਓ
     .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
     .label = …ਪਸੰਦ
     .accesskey = C
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = ਹਮੇਸ਼ਾਂ
-    .accesskey = A
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = ਕਦੇ ਨਹੀਂ
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਹੀ
-    .accesskey = O
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = …ਟੂਲਬਾਰ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+    .accesskey = C
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = ਹਮੇਸ਼ਾਂ ਵੇਖਾਓ
     .accesskey = A
