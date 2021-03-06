@@ -41,6 +41,18 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Otvori u novom privatnom prozoru
     .accesskey = p
+places-add-bookmark =
+    .label = Dodaj zabilješku…
+    .accesskey = b
+places-add-folder-contextmenu =
+    .label = Dodaj mapu… (F)
+    .accesskey = F
+places-add-folder =
+    .label = Dodaj mapu…
+    .accesskey = o
+places-add-separator =
+    .label = Dodaj razdjelnik (S)
+    .accesskey = S
 places-view =
     .label = Prikaz
     .accesskey = i
@@ -72,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Svojstva
     .accesskey = S
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Uredi zabilješku…
+    .accesskey = i
+places-edit-generic =
+    .label = Uredi…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Upravljane zabilješke
@@ -81,3 +100,17 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Druge zabilješke
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Ukloni zabilješku
+            [one] Ukloni zabilješku
+            [few] Ukloni zabilješke
+           *[other] Ukloni zabilješke
+        }
+    .accesskey = e
+places-manage-bookmarks =
+    .label = Upravljaj zabilješkama
+    .accesskey = m
