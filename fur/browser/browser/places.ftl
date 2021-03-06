@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Vierç intune gnove schede
     .accesskey = l
+places-open-in-tab =
+    .label = Vierç intune gnove schede
+    .accesskey = w
+places-open-all-bookmarks =
+    .label = Vierç ducj i segnelibris
+    .accesskey = O
 places-open-all-in-tabs =
     .label = Vierç ducj in schedis
     .accesskey = d
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Gnûf separadôr
     .accesskey = s
+places-open-in-window =
+    .label = Vierç intun gnûf barcon
+    .accesskey = n
+places-open-in-private-window =
+    .label = Vierç intun gnûf barcon privât
+    .accesskey = P
+places-add-bookmark =
+    .label = Zonte segnelibri…
+    .accesskey = B
+places-add-folder-contextmenu =
+    .label = Zonte cartele…
+    .accesskey = F
+places-add-folder =
+    .label = Zonte cartele…
+    .accesskey = o
+places-add-separator =
+    .label = Zonte separadôr
+    .accesskey = S
 places-view =
     .label = Viodude
     .accesskey = o
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Proprietâts
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Modifiche segnelibri…
+    .accesskey = i
+places-edit-generic =
+    .label = Modifiche…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Segnelibris gjestîts
@@ -69,3 +100,13 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Altris segnelibris
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Gjave segnelibri
+            [one] Gjave segnelibri
+           *[other] Gjave segnelibris
+        }
+    .accesskey = e

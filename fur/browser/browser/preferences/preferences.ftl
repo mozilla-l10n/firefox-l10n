@@ -1149,12 +1149,29 @@ space-alert-over-5gb-message =
         [windows] { -brand-short-name } al sta finint il spazi su disc. Al è pussibil che i contignûts dai sîts web no sedin visualizâts in maniere corete. Tu puedis netâ fûr i dâts archiviâts in Opzions > Riservatece e sigurece > Cookies e dâts dai sîts.
        *[other] { -brand-short-name } al sta finint il spazi su disc. Al è pussibil che i contignûts dai sîts web no sedin visualizâts in maniere corete. Tu puedis netâ fûr i dâts archiviâts in Preferencis > Riservatece e sigurece > Cookies e dâts dai sîts.
     }
+space-alert-under-5gb-ok-button =
+    .label = Va ben, capît
+    .accesskey = b
+space-alert-under-5gb-message = { -brand-short-name } al sta finint il spazi su disc. Al è pussibil che i contignûts dai sîts web no sedin visualizâts in maniere corete. Visite “Plui informazions” par otimizâ la utilizazion dal disc par vê une esperience di navigazion miorade.
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Modalitât Dome-HTTPS
+httpsonly-description = HTTPS al da une conession sigure e cifrade tra { -brand-short-name } e i sîts web che tu visitis. La plui part dai sîts web e supuarte HTTPS e se la modalitât Dome-HTTPS e je ative, alore { -brand-short-name } al doprarà HTTPS in dutis lis conessions.
+httpsonly-learn-more = Plui informazions
+httpsonly-radio-enabled =
+    .label = Abilite la modalitât Dome-HTTPS in ducj i barcons
+httpsonly-radio-enabled-pbm =
+    .label = Abilite la modalitât Dome-HTTPS dome intai barcons privâts
+httpsonly-radio-disabled =
+    .label = No sta abilitâ la modalitât Dome-HTTPS
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
-downloads-folder-name = Discjamadis
-choose-download-folder-title = Sielç une cartele pes discjamadis:
+downloads-folder-name = Discjamâts
+choose-download-folder-title = Sielç une cartele pai files discjamâts:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Salve i files su { $service-name }
