@@ -46,6 +46,18 @@ printui-two-sided-printing-long-edge = Муқовабандӣ аз тарафи 
 printui-two-sided-printing-short-edge = Муқовабандӣ аз тарафи кӯтоҳ
 # Section title for miscellaneous print options
 printui-options = Имконот
+printui-headers-footers-checkbox = Чоп кардани унвонҳо ва поварақҳо
+printui-backgrounds-checkbox = Чоп кардани заминаҳо
+printui-selection-checkbox = Чоп кардани танҳо минтақаи интихобшуда
+printui-color-mode-label = Реҷаи рангин
+printui-color-mode-color = Рангин
+printui-color-mode-bw = Сиёҳ ва сафед
+printui-margins = Ҳошияҳо
+printui-margins-default = Пешфарз
+printui-margins-min = Ҳадди аққал
+printui-margins-none = Ҳеҷ
+printui-margins-custom-inches = Фармоишӣ (дар дюймҳо)
+printui-margins-custom-top = Боло
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Чоп шуда истодааст…
