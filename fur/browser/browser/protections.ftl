@@ -24,6 +24,14 @@ graph-private-window = { -brand-short-name } al continue a  blocâ lis spiis (tr
 graph-week-summary-private-window = Lis spiis (trackers) che { -brand-short-name } al à blocât cheste setemane
 protection-report-webpage-title = Panel des protezions
 protection-report-page-content-title = Panel des protezions
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } al pues protezi la tô riservatece di scuindon intant che tu navighis. Cheste e je une sintesi personalizade di chês protezions, includûts i struments par cjapâ control de tô sigurece in rêt.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } al protêç la to riservatece di scuindon intant che tu navighis. Cheste e je une sintesi personalizade di chês protezions, includûts i struments par cjapâ control de tô sigurece in rêt.
+protection-report-settings-link = Gjestìs lis impostazions de tô riservatece e sigurece
+etp-card-title-always = Protezion miorade da lis spiis: SIMPRI ATIVE
+etp-card-title-custom-not-blocking = Protezion miorade da lis spiis: DISATIVADE
+etp-card-content-description = { -brand-short-name } al ferme in automatic lis compagniis dal stâti daûr in segret ator pal web.
 turn-on-sync = Ative { -sync-brand-short-name }…
     .title = Va tes preferencis de sincronizazion
 
