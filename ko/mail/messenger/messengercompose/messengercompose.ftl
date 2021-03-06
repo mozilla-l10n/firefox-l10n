@@ -40,6 +40,34 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = 숨은 참조로 이동
     .accesskey = b
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+trigger-attachment-picker-key = A
+toggle-attachment-pane-key = M
+menuitem-toggle-attachment-pane =
+    .label = 첨부 창
+    .accesskey = m
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = 첨부
+    .tooltiptext = 첨부파일 추가 ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = 첨부 파일 추가…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = 파일…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = 첨부 파일…
+    .accesskey = F
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -58,6 +86,11 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = 첨부 파일 창 보기 ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+
+# Reorder Attachment Panel
+
 button-return-receipt =
     .label = 수신 확인
     .tooltiptext = 이 메시지에 대한 수신 확인을 요청
