@@ -1118,6 +1118,37 @@ certs-personal-label = Cuant che un servidôr al domande il to certificât perso
 certs-select-auto-option =
     .label = Selezione un in automatic
     .accesskey = S
+certs-select-ask-option =
+    .label = Domande ogni volte
+    .accesskey = a
+certs-enable-ocsp =
+    .label = Domande ai servidôrs dai rispuindidôrs OCSP di confermâ la validitât corinte dai certificâts
+    .accesskey = Q
+certs-view =
+    .label = Visualize certificâts…
+    .accesskey = c
+certs-devices =
+    .label = Dispositîfs di sigurece…
+    .accesskey = D
+space-alert-learn-more-button =
+    .label = Plui informazions
+    .accesskey = l
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Vierç Opzions
+           *[other] Vierç Preferencis
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] V
+           *[other] V
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } al sta finint il spazi su disc. Al è pussibil che i contignûts dai sîts web no sedin visualizâts in maniere corete. Tu puedis netâ fûr i dâts archiviâts in Opzions > Riservatece e sigurece > Cookies e dâts dai sîts.
+       *[other] { -brand-short-name } al sta finint il spazi su disc. Al è pussibil che i contignûts dai sîts web no sedin visualizâts in maniere corete. Tu puedis netâ fûr i dâts archiviâts in Preferencis > Riservatece e sigurece > Cookies e dâts dai sîts.
+    }
 
 ## Privacy Section - HTTPS-Only
 
