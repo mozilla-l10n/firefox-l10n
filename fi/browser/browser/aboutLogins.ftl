@@ -301,6 +301,29 @@ about-logins-import-dialog-error-no-logins-imported = Kirjautumistietoja ei ole 
 about-logins-import-dialog-error-learn-more = Lisätietoja
 about-logins-import-dialog-error-try-again = Yritä uudelleen…
 about-logins-import-dialog-error-cancel = Peruuta
+about-logins-import-report-row-description-modified = Olemassa oleva kirjautumistieto päivitetty
+about-logins-import-report-row-description-added = Uusi kirjautumistieto lisätty
+about-logins-import-report-row-description-error = Virhe: Puuttuva kenttä
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Virhe: Useita arvoja kentälle { $field }
+about-logins-import-report-row-description-error-missing-field = Virhe: Puuttuu { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uutta kirjautumistietoa lisätty</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemassa olevaa kirjautumistietoa päivitetty</div>
+    }
 
 ## Logins import report page
 

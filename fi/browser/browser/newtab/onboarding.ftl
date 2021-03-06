@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Valitse <span data-l10n-name="zap">ulkoasu</span>
 onboarding-multistage-theme-subtitle = Mukauta { -brand-short-name }ia teemalla.
 onboarding-multistage-theme-primary-button-label = Tallenna teema
+onboarding-multistage-theme-primary-button-label2 = Valmis
 onboarding-multistage-theme-secondary-button-label = Ei nyt
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automaattinen
