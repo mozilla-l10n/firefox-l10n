@@ -96,6 +96,16 @@ monitor-emails-tooltip =
     .title = Viôt lis direzions e-mail monitoradis su { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Viôt lis violazions di dâts cognossudis su { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Viôt lis passwords comprometudis su { -monitor-brand-short-name }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Direzion e-mail monitorade
+       *[other] Direzions e-mail monitoradis
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
