@@ -58,6 +58,24 @@ printui-margins-min = Ҳадди аққал
 printui-margins-none = Ҳеҷ
 printui-margins-custom-inches = Фармоишӣ (дар дюймҳо)
 printui-margins-custom-top = Боло
+printui-margins-custom-top-inches = Боло (дар дюймҳо)
+printui-margins-custom-bottom = Поён
+printui-margins-custom-bottom-inches = Поён (дар дюймҳо)
+printui-margins-custom-left = Чап
+printui-margins-custom-left-inches = Чап (дар дюймҳо)
+printui-margins-custom-right = Рост
+printui-margins-custom-right-inches = Рост (дар дюймҳо)
+printui-system-dialog-link = Чоп кардан бо истифодаи равзанаи гуфтугӯи низом…
+printui-primary-button = Чоп кардан
+printui-primary-button-save = Нигоҳ доштан
+printui-cancel-button = Бекор кардан
+printui-close-button = Пӯшидан
+printui-loading = Омодасозии пешнамоиш
+# Reported by screen readers and other accessibility tools to indicate that
+# the print preview has focus.
+printui-preview-label =
+    .aria-label = Пешнамоиши чоп
+printui-pages-per-sheet = Саҳифаҳо дар як варақ
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Чоп шуда истодааст…
@@ -65,6 +83,19 @@ printui-print-progress-indicator-saving = Сабт шуда истодааст�
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Мактубии ИМА
+printui-paper-legal = Ҳуқуқии ИМА
+printui-paper-tabloid = Ҷамъбастӣ
 
 ## Error messages shown when a user has an invalid input
 
