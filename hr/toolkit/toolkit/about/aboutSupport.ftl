@@ -387,3 +387,9 @@ support-printing-clear-settings-button = Očisti spremljene postavke ispisa
 support-printing-modified-settings = Izmijenjene postavke ispisa
 support-printing-prefs-name = Naziv
 support-printing-prefs-value = Vrijednost
+
+## Normandy sections
+
+support-remote-experiments-name = Naziv
+support-remote-features-name = Naziv
+support-remote-features-status = Status
