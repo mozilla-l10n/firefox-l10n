@@ -313,6 +313,48 @@ about-logins-import-dialog-error-no-logins-imported = No je stade impuartade nis
 about-logins-import-dialog-error-learn-more = Par savê di plui
 about-logins-import-dialog-error-try-again = Torne prove…
 about-logins-import-dialog-error-cancel = Anule
+about-logins-import-report-title = Sintesi di importazion
+about-logins-import-report-description = Credenziâls e passwords impuartadis su { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rie { $number }
+about-logins-import-report-row-description-no-change = Dopli: coincidence esate des credenziâls esistentis
+about-logins-import-report-row-description-modified = Credenziâls esistentis inzornadis
+about-logins-import-report-row-description-added = Zontadis gnovis credenziâls
+about-logins-import-report-row-description-error = Erôr: al mancje un cjamp
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Erôr: plui valôrs par { $field }
+about-logins-import-report-row-description-error-missing-field = Erôr: al mancje { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">gnove credenziâl zontade</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">gnovis credenziâls zontadis</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziâl esistente inzornade</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziâls esistentis inzornadis</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dopli di credenziâl</div> <div data-l10n-name="not-imported">(no impuartât)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">doplis di credenziâls</div> <div data-l10n-name="not-imported">(no impuartâts)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">erôr</div> <div data-l10n-name="not-imported">(no impuartât)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">erôrs</div> <div data-l10n-name="not-imported">(no impuartâts)</div>
+    }
 
 ## Logins import report page
 

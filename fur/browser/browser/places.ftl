@@ -110,3 +110,6 @@ places-remove-bookmark =
            *[other] Gjave segnelibris
         }
     .accesskey = e
+places-manage-bookmarks =
+    .label = Gjestìs segnelibris
+    .accesskey = M
