@@ -352,6 +352,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Riproduzion in vore
 browser-tab-audio-muted = Cidinât
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = RIPRODUZION IN CORS
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = CIDINADE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = RIPRODUZION AUTOMATICHE BLOCADE
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
 
 ## Bookmarks toolbar items
 
@@ -517,6 +525,8 @@ crashed-subframe-message = <strong>Part di cheste pagjine e je colassade.</stron
 crashed-subframe-learnmore =
     .label = Plui informazions
     .accesskey = l
+crashed-subframe-learnmore-link =
+    .value = Plui informazions
 crashed-subframe-submit =
     .label = Invie segnalazion
     .accesskey = s
@@ -611,3 +621,11 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Lavore fûr rêt
     .accesskey = v
+
+## EME notification panel
+
+eme-notifications-drm-content-playing = Cualchi contignût audio o video su chest sît al dopre software DRM (gjestion dirits digjitâi), che a puedin limitâ ce che { -brand-short-name } ti permet di fâ cun lôr.
+eme-notifications-drm-content-playing-manage = Gjestìs impostazions
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Scarte
+eme-notifications-drm-content-playing-dismiss-accesskey = D

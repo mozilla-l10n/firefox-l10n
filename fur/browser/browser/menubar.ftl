@@ -325,8 +325,13 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informazions pe risoluzion problemis…
     .accesskey = n
+menu-help-more-troubleshooting-info =
+    .label = Plui informazions pe risoluzion dai problemis
+    .accesskey = t
 menu-help-taskmanager =
     .label = Gjestôr des ativitâts
+menu-help-report-site-issue =
+    .label = Segnale probleme cul sît…
 menu-help-feedback-page =
     .label = Invie opinion
     .accesskey = o
@@ -336,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Torne invie cu lis zontis abilitadis
     .accesskey = r
+menu-help-enter-troubleshoot-mode =
+    .label = Modalitât risoluzion problemis
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Distude modalitât risoluzion problemis
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

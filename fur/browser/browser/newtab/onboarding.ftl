@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Sielç un <span data-l10n-name="zap">aspiet</span>
 onboarding-multistage-theme-subtitle = Personalize { -brand-short-name } cuntun teme.
 onboarding-multistage-theme-primary-button-label = Salve il teme
+onboarding-multistage-theme-primary-button-label2 = Fat
 onboarding-multistage-theme-secondary-button-label = No cumò
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatic
