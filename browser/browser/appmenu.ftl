@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Flere værktøjer
 appmenuitem-exit =
     .label = Afslut
+appmenu-menu-button-closed =
+    .tooltiptext = Åbn program-menu
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Luk program-menu
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +51,23 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkroniser nu
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Synkroniser nu
+    .value = Synkroniser nu
+appmenuitem-fxa-manage-account = Håndter konto
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Senest synkroniseret { $time }
+    .label = Senest synkroniseret { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Synkroniser og gem data
+appmenu-fxa-signed-in-label = Log ind
+appmenu-fxa-setup-sync =
+    .label = Slå synkronisering til…
+appmenu-fxa-show-more-tabs = Vis flere faneblade
 appmenuitem-save-page =
     .label = Gem side som…
 
@@ -100,6 +123,10 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Håndter historik
+appmenu-reopen-all-tabs = Åbn alle faneblade igen
+appmenu-reopen-all-windows = Åbn alle vinduer igen
 
 ## Help panel
 
@@ -126,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Teknisk information…
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = Mere teknisk information
+    .accesskey = t
 appmenu-help-taskmanager =
     .label = Jobliste
 appmenu-help-report-site-issue =
@@ -144,6 +174,16 @@ appmenu-help-safe-mode-with-addons =
     .label = Genstart med tilføjelser aktiveret
     .accesskey = G
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Fejlsøgnings-tilstand
+    .accesskey = F
+appmenu-help-exit-troubleshoot-mode =
+    .label = Slå fejlsøgnings-tilstand fra
+    .accesskey = S
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -161,3 +201,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Tilpas værktøjslinje…
+appmenu-developer-tools-subheader = Browser-værktøj

@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Åbn link i nyt kontekst-faneblad
     .accesskey = k
+main-context-menu-open-link-container =
+    .label = Åbn link i ny kontekst
+    .accesskey = k
 main-context-menu-open-link-new-window =
     .label = Åbn link i nyt vindue
     .accesskey = v
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Bogmærk dette link
     .accesskey = B
+main-context-menu-bookmark-link =
+    .label = Gem bogmærke for linket
+    .accesskey = b
 main-context-menu-save-link =
     .label = Gem link som…
     .accesskey = G
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopier mailadresse
     .accesskey = K
 main-context-menu-copy-link =
     .label = Kopier linkadresse
+    .accesskey = K
+main-context-menu-copy-link-simple =
+    .label = Kopier link
     .accesskey = K
 
 ## Media (video/audio) controls
