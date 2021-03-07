@@ -41,10 +41,10 @@ printui-scale-pcent = Маштаб
 printui-two-sided-printing = Двухбаковы друк
 printui-duplex-checkbox = Друкаваць на абедзвюх старанах
 printui-two-sided-printing-off = Выключаны
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Перавярнуць па бакавым краі
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Перавярнуць па верхнім краі
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Перавярнуць па доўгім краі
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Перавярнуць па кароткім краі
 # Section title for miscellaneous print options
 printui-options = Налады
 printui-headers-footers-checkbox = Друкаваць загалоўкі і калантытулы
@@ -102,6 +102,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Маштаб павінен быць лічбай ад 10 да 200.
 printui-error-invalid-margin = Калі ласка, увядзіце дапушчальныя палі для абранага памеру паперы.
+printui-error-invalid-copies = Колькасць копій павінна быць лічбай ад 1 да 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Дыяпазон павінен быць лічбай ад 1 да { $numPages }.

@@ -45,6 +45,19 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Сінхранізаваць зараз
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Сінхранізаваць зараз
+    .value = Сінхранізаваць зараз
+appmenuitem-fxa-manage-account = Кіраванне ўліковым запісам
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Апошняя сінхранізацыя { $time }
+    .label = Апошняя сінхранізацыя { $time }
+appmenu-fxa-signed-in-label = Увайсці
+appmenu-fxa-show-more-tabs = Паказаць больш картак
 appmenuitem-save-page =
     .label = Захаваць старонку як…
 
@@ -130,6 +143,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = З
+appmenu-help-more-troubleshooting-info =
+    .label = Больш звестак для вырашэння праблемаў
+    .accesskey = е
 appmenu-help-taskmanager =
     .label = Менеджар задач
 appmenu-help-report-site-issue =
@@ -147,6 +163,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Перазапусціць з дадаткамі
     .accesskey = П
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Рэжым вырашэння праблем
+    .accesskey = Р
+appmenu-help-exit-troubleshoot-mode =
+    .label = Выключыць рэжым вырашэння праблем
+    .accesskey = р
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Дубляваць карткі
     .accesskey = в
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Закрыць карткі злева
+    .accesskey = л
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Закрыць карткі справа
     .accesskey = с
@@ -44,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Пераадкрыць у кантэйнеры
     .accesskey = у
+tab-context-open-in-container =
+    .label = Адкрыць у новым кантэйнеры
+    .accesskey = у
 move-to-start =
     .label = Перанесці ў пачатак
     .accesskey = ч
@@ -56,6 +66,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Закрыць некалькі картак
     .accesskey = ь
+tab-context-share-url =
+    .label = Падзяліцца
+    .accesskey = П
+tab-context-share-more =
+    .label = Больш…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -81,6 +96,15 @@ move-tabs =
 move-tab =
     .label = Перамясціць картку
     .accesskey = м
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Перааадкрыць закрытыя карткі
+            [one] Перааадкрыць закрытую картку
+            [few] Перааадкрыць закрытыя карткі
+           *[many] Перааадкрыць закрытыя карткі
+        }
+    .accesskey = з
 tab-context-close-tabs =
     .label =
         { $tabCount ->

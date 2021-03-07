@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Адкрыць у новай картцы
     .accesskey = в
+places-open-in-tab =
+    .label = Адкрыць у новай картцы
+    .accesskey = ц
+places-open-all-bookmarks =
+    .label = Адкрыць усе закладкі
+    .accesskey = з
 places-open-all-in-tabs =
     .label = Адкрыць усе ў картках
     .accesskey = у
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Новы межнік
     .accesskey = м
+places-open-in-window =
+    .label = Адкрыць у новым акне
+    .accesskey = н
+places-open-in-private-window =
+    .label = Адкрыць у новым прыватным акне
+    .accesskey = п
+places-add-bookmark =
+    .label = Дадаць закладку…
+    .accesskey = з
+places-add-folder-contextmenu =
+    .label = Дадаць папку…
+    .accesskey = а
+places-add-folder =
+    .label = Дадаць папку…
+    .accesskey = п
+places-add-separator =
+    .label = Дадаць межнік
+    .accesskey = Д
 places-view =
     .label = Прагляд
     .accesskey = г
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Уласцівасці
     .accesskey = У
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Рэдагаваць закладку…
+    .accesskey = Р
+places-edit-generic =
+    .label = Рэдагаваць…
+    .accesskey = Р
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Кіраваныя закладкі
@@ -69,3 +100,17 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Іншыя закладкі
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Выдаліць закладкі
+            [one] Выдаліць закладку
+            [few] Выдаліць закладкі
+           *[many] Выдаліць закладкі
+        }
+    .accesskey = В
+places-manage-bookmarks =
+    .label = Кіраванне закладкамі
+    .accesskey = К

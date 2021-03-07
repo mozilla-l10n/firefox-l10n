@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = З
+menu-help-more-troubleshooting-info =
+    .label = Больш звестак для вырашэння праблемаў
+    .accesskey = е
 menu-help-taskmanager =
     .label = Менеджар задач
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Перазапусціць з дадаткамі
     .accesskey = П
+menu-help-enter-troubleshoot-mode =
+    .label = Рэжым вырашэння праблем
+    .accesskey = Р
+menu-help-exit-troubleshoot-mode =
+    .label = Выключыць рэжым вырашэння праблем
+    .accesskey = ь
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
