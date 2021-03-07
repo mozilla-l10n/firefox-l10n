@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = Kopier faneblade
     .accesskey = K
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Luk faneblade til højre
     .accesskey = h
@@ -56,6 +58,8 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Luk flere faneblade
     .accesskey = a
+tab-context-share-more =
+    .label = Mere…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -79,6 +83,14 @@ move-tabs =
 move-tab =
     .label = Flyt faneblad
     .accesskey = y
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Åbn lukket faneblad igen
+            [one] Åbn lukket faneblad igen
+           *[other] Åbn lukkede faneblade igen
+        }
+    .accesskey = u
 tab-context-close-tabs =
     .label =
         { $tabCount ->
