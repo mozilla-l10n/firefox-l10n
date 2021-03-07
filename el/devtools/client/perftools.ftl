@@ -65,5 +65,8 @@ perftools-thread-dns-resolver =
 ## preferences are true.
 
 -profiler-brand-name = Firefox Profiler
+perftools-onboarding-message = <b>Νέο</b>: Το { -profiler-brand-name } έχει ενσωματωθεί στα Εργαλεία προγραμματιστών. <a>Μάθετε περισσότερα</a> σχετικά με αυτό το νέο ισχυρό εργαλείο.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Για περιορισμένο χρονικό διάστημα, μπορείτε να ανοίξετε το αρχικό παράθυρο "Επιδόσεις" μέσω του <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Κλείσιμο μηνύματος υποδοχής
