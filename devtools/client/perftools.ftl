@@ -67,6 +67,10 @@ perftools-button-edit-settings = Ayarları düzenle…
 
 perftools-thread-render-backend =
     .title = WebRender RenderBackend iş parçacığı
+perftools-thread-img-decoder =
+    .title = Görüntü çözme iş parçacıkları
+perftools-thread-dns-resolver =
+    .title = DNS çözümleme bu iş parçacığında gerçekleşir
 
 ##
 
