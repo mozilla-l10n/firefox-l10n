@@ -299,11 +299,16 @@ multi-process-status-6 = Inhabilitat perquè l'entrada de text és incompatible
 multi-process-status-7 = Inhabilitat per part dels complements
 multi-process-status-8 = Inhabilitat de forma forçada
 multi-process-status-unknown = Estat desconegut
+fission-status-enabled-by-user-pref = Activat per l'usuari
+fission-status-disabled-by-user-pref = Desactivat per l'usuari
+fission-status-disabled-by-e10s-other = E10s desactivat
 async-pan-zoom = Pan/Zoom asíncrons
 apz-none = cap
 wheel-enabled = entrada amb roda activada
 touch-enabled = entrada tàctil activada
 drag-enabled = arrossegament de la barra de desplaçament activat
+keyboard-enabled = teclat activat
+autoscroll-enabled = desplaçament automàtic activat
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -319,3 +324,10 @@ policies-error = Error
 
 ## Printing section
 
+support-printing-prefs-name = Nom
+support-printing-prefs-value = Valor
+
+## Normandy sections
+
+support-remote-features-name = Nom
+support-remote-features-status = Estat
