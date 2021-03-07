@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Абайлап жалғастырыңыз
@@ -9,19 +10,15 @@ about-config-intro-warning-text = Кеңейтілген баптауларды 
 about-config-intro-warning-checkbox = Осы параметрлерді өзгерту кезінде ескертіңіз
 about-config-intro-warning-button = Тәуекелді қабылдап, жалғастыру
 
-
-
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Бұл баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
-
 about-config-page-title = Кеңейтілген баптаулар
-
 about-config-search-input1 =
     .placeholder = Баптау атынан іздеу
 about-config-show-all = Барлығын көрсету
-
+about-config-show-only-modified = Тек өзгертілген баптауларды көрсету
 about-config-pref-add-button =
     .title = Қосу
 about-config-pref-toggle-button =

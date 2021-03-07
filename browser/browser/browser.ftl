@@ -520,6 +520,8 @@ pointerlock-warning-no-domain = Бұл құжат курсорыңызды ба�
 crashed-subframe-learnmore =
     .label = Көбірек білу
     .accesskey = л
+crashed-subframe-learnmore-link =
+    .value = Көбірек білу
 crashed-subframe-submit =
     .label = Есептемені жіберу
     .accesskey = с
@@ -618,3 +620,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Бұл сайттын кейбір аудио не видеосы DRM БҚ қолдануда, онымен { -brand-short-name } не жасай алатынын шектеуі мүмкін.
+eme-notifications-drm-content-playing-manage = Баптауларды басқару
+eme-notifications-drm-content-playing-manage-accesskey = б
+eme-notifications-drm-content-playing-dismiss = Тайдыру
+eme-notifications-drm-content-playing-dismiss-accesskey = д
