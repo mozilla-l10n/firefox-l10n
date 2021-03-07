@@ -308,3 +308,4 @@ cfr-whatsnew-bookmarking-body = Είναι πιο εύκολο να παρακο
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Πλήρης προστασία από τα cookies καταγραφής μεταξύ ιστοσελίδων
+cfr-whatsnew-cross-site-tracking-body = Μπορείτε τώρα να εγγραφείτε για καλύτερη προστασία από καταγραφή cookie. Το { -brand-short-name } μπορεί να απομονώσει τις δραστηριότητες και τα δεδομένα σας στην ιστοσελίδα που βρίσκεστε, ώστε οι αποθηκευμένες πληροφορίες να μην μοιράζονται μεταξύ ιστοσελίδων.

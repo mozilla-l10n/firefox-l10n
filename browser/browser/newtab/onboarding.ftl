@@ -166,6 +166,10 @@ onboarding-multistage-welcome-subtitle = Το γρήγορο, ασφαλές κ�
 onboarding-multistage-welcome-primary-button-label = Έναρξη ρύθμισης
 onboarding-multistage-welcome-secondary-button-label = Σύνδεση
 onboarding-multistage-welcome-secondary-button-text = Έχετε λογαριασμό;
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Ορίστε το { -brand-short-name } ως <span data-l10n-name="zap">προεπιλογή</span>
+onboarding-multistage-set-default-subtitle = Ταχύτητα, ασφάλεια και απόρρητο κάθε φορά που περιηγείστε.
 onboarding-multistage-set-default-primary-button-label = Ορισμός ως προεπιλογή
 onboarding-multistage-set-default-secondary-button-label = Όχι τώρα
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
@@ -188,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Επιλέξτε <span data-l10n-name="zap">εμφάνιση</span>
 onboarding-multistage-theme-subtitle = Εξατομίκευση του { -brand-short-name } με ένα θέμα.
 onboarding-multistage-theme-primary-button-label = Αποθήκευση θέματος
+onboarding-multistage-theme-primary-button-label2 = Τέλος
 onboarding-multistage-theme-secondary-button-label = Όχι τώρα
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Αυτόματο
