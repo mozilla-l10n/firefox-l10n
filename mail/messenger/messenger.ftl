@@ -6,9 +6,18 @@ about-rights-notification-text = { -brand-short-name } - бұл еркін жә�
 
 ## Folder Pane
 
+folder-pane-toolbar =
+    .toolbarname = Бума панелінің саймандар панелі
+    .accesskey = б
+folder-pane-toolbar-options-button =
+    .tooltiptext = Бума панелінің баптаулары
+folder-pane-header-label = Бумалар
 
 ## Folder Toolbar Header Popup
 
+folder-toolbar-hide-toolbar-toolbarbutton =
+    .label = Құралдар панелін жасыру
+    .accesskey = ы
 show-all-folders-label =
     .label = Барлық бумалар
     .accesskey = а
