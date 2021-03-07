@@ -106,6 +106,59 @@ info-monitored-emails =
         [one] Direzion e-mail monitorade
        *[other] Direzions e-mail monitoradis
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] La violazion di dâts cognossude che e à cjapât dentri lis tôs informazions
+       *[other] Lis violazions di dâts cognossudis che a àn cjapât dentri lis tôs informazions
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] La violazion di dâts cognossude che e je stade segnade tant che risolte
+       *[other] Lis violazions di dâts cognossudis che a son stadis segnadis tant che risoltis
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] La password cjapade dentri in dutis lis violazions
+       *[other] Lis passwords cjapadis dentri in dutis lis violazions
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] La password cjapade dentri in violazions no risoltis
+       *[other] Lis passwords cjapadis dentri in violazions no risoltis
+    }
+monitor-no-breaches-title = Buinis notiziis!
+monitor-no-breaches-description = No tu sês stât cjapât dentri di nissune violazion di dâts cognossude. Se al cambie alc, ti fasarìn savê.
+monitor-view-report-link = Visualize rapuart
+    .title = Risolf lis violazions su { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Risolf lis tôs violazions
+monitor-breaches-unresolved-description = Dopo vê revisionât i detais des violazions e vê metût in vore lis misuris par protezis lis tôs informazions, tu puedis segnâ lis violazions come risoltis.
+monitor-manage-breaches-link = Gjestìs violazions
+    .title = Gjestìs lis violazions su { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Benon! Tu âs risolt dutis lis violazions cognossudis.
+monitor-breaches-resolved-description = Se la tô e-mail e ven fûr intune gnove violazion, ti fasarìn savê.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreachesResolved ->
+        [one] { $numBreachesResolved } violazion su { $numBreaches } segnade tant che risolte
+       *[other] { $numBreachesResolved } violazions su { $numBreaches } segnade tant che risoltis
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% completât
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
