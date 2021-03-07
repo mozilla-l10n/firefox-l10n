@@ -150,6 +150,11 @@ onboarding-not-now-button-label = Қазір емес
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Тамаша, сіз { -brand-short-name } орнаттыңыз
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Енді сізге <img data-l10n-name="icon"/> <b>{ $addon-name }</b> орнатайық.
 return-to-amo-add-extension-label = Кеңейтуді қосу
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
@@ -161,6 +166,9 @@ onboarding-multistage-welcome-subtitle = Коммерциялық емес ұй�
 onboarding-multistage-welcome-primary-button-label = Баптауды бастау
 onboarding-multistage-welcome-secondary-button-label = Кіру
 onboarding-multistage-welcome-secondary-button-text = Тіркелгіңіз бар ма?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = { -brand-short-name } өнімін өзіңіздің <span data-l10n-name="zap">үнсіз келісім браузері</span> қылыңыз.
 onboarding-multistage-set-default-subtitle = Әр шолудағы жылдамдық, қауіпсіздік және жекелік.
 onboarding-multistage-set-default-primary-button-label = Негізгі етіп қылу
 onboarding-multistage-set-default-secondary-button-label = Қазір емес
@@ -184,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = <span data-l10n-name="zap">Сыртқы түрін</span> таңдаңыз
 onboarding-multistage-theme-subtitle = { -brand-short-name } өнімін тема көмегімен жеке қылыңыз.
 onboarding-multistage-theme-primary-button-label = Теманы сақтау
+onboarding-multistage-theme-primary-button-label2 = Дайын
 onboarding-multistage-theme-secondary-button-label = Қазір емес
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Автоматты түрде

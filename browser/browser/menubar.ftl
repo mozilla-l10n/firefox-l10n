@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Техникалық ақпарат
     .accesskey = а
+menu-help-more-troubleshooting-info =
+    .label = Мәселелерді шешудің көбірек ақпараты
+    .accesskey = с
 menu-help-taskmanager =
     .label = Тапсырмалар басқарушысы
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Іске қосылған қосымшалармен қайта қосу
     .accesskey = р
+menu-help-enter-troubleshoot-mode =
+    .label = Мәселелерді шешу режимі
+    .accesskey = м
+menu-help-exit-troubleshoot-mode =
+    .label = Мәселелерді шешу режимін сөндіру
+    .accesskey = м
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
