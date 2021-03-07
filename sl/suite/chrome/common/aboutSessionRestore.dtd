@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restorepage.tabtitle       "Obnovi sejo">
+<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
+                        you may translate "crash" instead (even though it's IT-speak) -->
+
+<!ENTITY restorepage.restoreButton  "Obnovi prejšnjo sejo">
+<!ENTITY restorepage.cancelButton   "Začni novo sejo">
+
+<!ENTITY restorepage.restoreHeader  "Obnovi">
+<!ENTITY restorepage.listHeader     "Okna in zavihki">
+<!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Okno &#37;S">
