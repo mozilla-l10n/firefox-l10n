@@ -212,8 +212,8 @@ cfr-doorhanger-milestone-heading =
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } ha bloqueado más de <b>{ $blockCount }</b> rastreador desde { DATETIME($date, month: "long", year: "numeric") }
-       *[other] { -brand-short-name } ha bloqueado más de <b>{ $blockCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
+        [one] { -brand-short-name } ha bloqueado más de <b>{ $blockedCount }</b> rastreador desde { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } ha bloqueado más de <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
     }
 cfr-doorhanger-milestone-ok-button = Ver todos
     .accesskey = S
