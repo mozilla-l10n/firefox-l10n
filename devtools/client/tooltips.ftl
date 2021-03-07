@@ -53,6 +53,8 @@ inactive-text-overflow-when-no-overflow-fix = Prueba a añadir <strong>overflow:
 inactive-css-not-for-internal-table-elements-fix = Prueba ajustar su propiedad <strong>display</strong> a algo diferente a <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Prueba ajustar su propiedad <strong>display</strong> a algo diferente a <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Intenta establecer la propiedad <strong>outline-style</strong> a algo diferente a <strong>auto</strong> o <strong>none</strong>. { learn-more }
+inactive-css-not-table-fix = Prueba a añadir <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Prueba a añadir <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> u <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
