@@ -56,6 +56,11 @@ policy-DownloadDirectory = Defineix i bloca el directori de baixades.
 policy-EnableTrackingProtection = Activa o desactiva el Bloqueig de contingut i, opcionalment, el bloca.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = Activa o desactiva les extensions de contingut multimèdia xifrat i, opcionalment, les bloca.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instal·la, desinstal·la o bloca extensions. L'opció d'instal·lar utilitza URL o camins com a paràmetres. Les opcions de desinstal·lar o blocar utilitzen els identificadors de les extensions.
+policy-ExtensionSettings = Gestiona tots els aspectes de la instal·lació de l'extensió.
 policy-ExtensionUpdate = Activa o desactiva les actualitzacions automàtiques de les extensions.
 policy-FirefoxHome = Configura el Firefox Home.
 policy-FlashPlugin = Permet o denega l'ús del connector Flash.
@@ -64,14 +69,19 @@ policy-HardwareAcceleration = Si és fals, desactiva l'acceleració de maquinari
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Defineix i, opcionalment, bloca la pàgina d'inici.
 policy-InstallAddonsPermission = Permet que determinats llocs web instal·lin complements.
+policy-LegacyProfiles = Desactiva la funció aplicant un perfil independent per a cada instal·lació.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Activa la configuració del comportament antic per defecte de les galetes SameSite.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Torna al comportament de SameSite antic per a les galetes dels llocs especificats.
 
 ##
 
 policy-LocalFileLinks = Permetre que llocs web específics enllacin a fitxers locals.
+policy-ManagedBookmarks = Configura una llista d'adreces d'interès gestionada per un administrador que l'usuari no pot canviar.
 policy-MasterPassword = Requerir o impedir l'ús d'una contrasenya mestra.
+policy-ManualAppUpdateOnly = Permet només les actualitzacions manuals i sense notificar l'usuari.
 policy-PrimaryPassword = Requerir o impedir l'ús d'una contrasenya principal.
 policy-NewTabPage = Activa o desactiva la pàgina de pestanya nova.
 policy-PasswordManagerEnabled = Permet desar les contrasenyes en el gestor de contrasenyes.
