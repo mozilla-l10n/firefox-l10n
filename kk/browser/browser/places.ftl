@@ -38,6 +38,21 @@ places-new-separator =
 places-open-in-window =
     .label = Жаңа терезеде ашу
     .accesskey = N
+places-open-in-private-window =
+    .label = Жаңа жекелік терезесінде ашу
+    .accesskey = к
+places-add-bookmark =
+    .label = Бетбелгіні қосу…
+    .accesskey = б
+places-add-folder-contextmenu =
+    .label = Буманы қосу…
+    .accesskey = у
+places-add-folder =
+    .label = Буманы қосу…
+    .accesskey = а
+places-add-separator =
+    .label = Ажыратқышты қосу
+    .accesskey = ы
 places-view =
     .label = Қарау
     .accesskey = р
@@ -69,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Қасиеттері
     .accesskey = е
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Бетбелгіні түзету…
+    .accesskey = з
+places-edit-generic =
+    .label = Түзету…
+    .accesskey = з
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Басқарылатын бетбелгілер
@@ -78,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Басқа бетбелгілер
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Бетбелгіні өшіру
+           *[other] Бетбелгілерді өшіру
+        }
+    .accesskey = р
+places-manage-bookmarks =
+    .label = Бетбелгілерді басқару
+    .accesskey = с
