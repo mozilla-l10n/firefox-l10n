@@ -207,6 +207,14 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] ¡{ -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde el { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] { -brand-short-name } ha bloqueado más de <b>{ $blockCount }</b> rastreador desde { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } ha bloqueado más de <b>{ $blockCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }
+    }
 cfr-doorhanger-milestone-ok-button = Ver todos
     .accesskey = S
 cfr-doorhanger-milestone-close-button = Cerrar
@@ -297,3 +305,4 @@ cfr-whatsnew-bookmarking-body = Es más fácil realizar un seguimiento de tus si
 ## What's new: Cross-site cookie tracking
 
 cfr-whatsnew-cross-site-tracking-header = Protección integral contra el rastreo de cookies de sitios cruzados
+cfr-whatsnew-cross-site-tracking-body = Ahora puedes optar por una mejor protección contra el rastreo de cookies. { -brand-short-name } puede aislar tus actividades y datos para el sitio en el que se encuentra actualmente, por lo que la información almacenada en el navegador no se comparte entre sitios web.
