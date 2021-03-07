@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Abrir en pestaña nueva
     .accesskey = i
+places-open-in-tab =
+    .label = Abrir en nueva pestaña
+    .accesskey = w
+places-open-all-bookmarks =
+    .label = Abrir todos los marcadores
+    .accesskey = O
 places-open-all-in-tabs =
     .label = Abrir todo en pestañas
     .accesskey = o
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Nuevo separador
     .accesskey = s
+places-open-in-window =
+    .label = Abrir en nueva ventana
+    .accesskey = N
+places-open-in-private-window =
+    .label = Abrir en una nueva ventana privada
+    .accesskey = P
+places-add-bookmark =
+    .label = Agregar marcador...
+    .accesskey = B
+places-add-folder-contextmenu =
+    .label = Agregar carpeta
+    .accesskey = F
+places-add-folder =
+    .label = Agregar carpeta...
+    .accesskey = o
+places-add-separator =
+    .label = Agregar separador
+    .accesskey = S
 places-view =
     .label = Ver
     .accesskey = r
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Propiedades
     .accesskey = d
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Editar marcador
+    .accesskey = i
+places-edit-generic =
+    .label = Editar…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores administrados
@@ -69,3 +100,13 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Otros marcadores
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Eliminar marcador
+            [one] Eliminar marcadores
+           *[other] Eliminar marcadores
+        }
+    .accesskey = e
