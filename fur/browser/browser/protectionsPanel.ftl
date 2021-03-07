@@ -22,10 +22,17 @@ protections-popup-footer-protection-label-standard = Standard
 protections-panel-etp-more-info =
     .aria-label = Plui informazions su la protezion des spiis miorade
 protections-panel-etp-on-header = La protezion miorade da lis spiis e je ATIVE par chest sît
+protections-panel-etp-off-header = La protezion miorade da lis spiis e je DISATIVADE par chest sît
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Il sît nol funzione?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Il sît nol funzione?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = Parcè?
 
 ##
 
