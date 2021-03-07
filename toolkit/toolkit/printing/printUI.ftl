@@ -16,14 +16,9 @@ printui-page-range-custom = Таңдауыңызша
 printui-page-range-label = Парақтар
 printui-page-range-picker =
     .aria-label = Парақтар ауқымын таңдау
-printui-page-custom-range =
+printui-page-custom-range-input =
     .aria-label = Таңдауыңызша парақтар ауқымын енгізу
-# This label is displayed before the first input field indicating
-# the start of the range to print.
-printui-range-start = Бастап
-# This label is displayed between the input fields indicating
-# the start and end page of the range to print.
-printui-range-end = дейін
+    .placeholder = мыс. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Көшірмелер
 printui-orientation = Бағыт
@@ -37,10 +32,13 @@ printui-less-settings = Азырақ баптаулар
 printui-paper-size-label = Қағаз өлшемі
 # Section title (noun) for the print scaling options
 printui-scale = Масштаб
-printui-scale-fit-to-page = Бетке сыйдыру
 printui-scale-fit-to-page-width = Парақтың енімен
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Масштаб
+# Section title (noun) for the two-sided print options
+printui-two-sided-printing = Екі жақты баспа
+printui-duplex-checkbox = Екі жағынан да басып шығару
+printui-two-sided-printing-off = Сөндірулі
 # Section title for miscellaneous print options
 printui-options = Опциялар
 printui-headers-footers-checkbox = Үстіңгі және астыңғы тақырыптамаларды баспаға шығару
