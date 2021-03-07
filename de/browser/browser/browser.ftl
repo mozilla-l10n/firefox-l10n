@@ -351,11 +351,11 @@ browser-window-close-button =
 browser-tab-audio-playing = Wird abgespielt
 browser-tab-audio-muted = Stummgeschaltet
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = WIRD ABGESPIELT
+browser-tab-audio-playing2 = WIEDERGABE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = STUMMGESCHALTET
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-blocked = WIEDERGABE BLOCKIERT
+browser-tab-audio-blocked = BLOCKIERUNG DER WIEDERGABE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BILD-IM-BILD
 
