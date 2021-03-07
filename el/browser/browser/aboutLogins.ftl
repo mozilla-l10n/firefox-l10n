@@ -341,7 +341,7 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">διπλές συνδέσεις</div> <div data-l10n-name="not-imported">(δεν έγινε εισαγωγή)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">διπλότυπες συνδέσεις</div> <div data-l10n-name="not-imported">(δεν έγινε εισαγωγή)</div>
     }
 about-logins-import-report-error =
     { $count ->
