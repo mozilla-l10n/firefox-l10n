@@ -527,6 +527,8 @@ crashed-subframe-message = <strong>Часть этой страницы упал
 crashed-subframe-learnmore =
     .label = Подробнее
     .accesskey = о
+crashed-subframe-learnmore-link =
+    .value = Узнать больше
 crashed-subframe-submit =
     .label = Отправить сообщение
     .accesskey = п
@@ -625,3 +627,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Некоторое аудио или видео на этом сайте использует программу DRM, что может ограничить возможности, предоставляемые вам { -brand-short-name }.
+eme-notifications-drm-content-playing-manage = Управление настройками
+eme-notifications-drm-content-playing-manage-accesskey = в
+eme-notifications-drm-content-playing-dismiss = Закрыть
+eme-notifications-drm-content-playing-dismiss-accesskey = к

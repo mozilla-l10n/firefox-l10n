@@ -26,6 +26,15 @@ toolbar-context-menu-undo-close-tabs =
            *[many] Восстановить закрытые вкладки
         }
     .accesskey = н
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Восстановить закрытую вкладку
+            [one] Восстановить закрытую вкладку
+            [few] Восстановить закрытые вкладки
+           *[many] Восстановить закрытые вкладки
+        }
+    .accesskey = н
 toolbar-context-menu-manage-extension =
     .label = Управление расширением
     .accesskey = в
@@ -47,21 +56,18 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Автоматически скрывать на панели инструментов
     .accesskey = о
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Скрыть кнопку, когда пусто
+    .accesskey = н
 toolbar-context-menu-remove-from-toolbar =
     .label = Убрать с панели инструментов
     .accesskey = и
 toolbar-context-menu-view-customize-toolbar =
     .label = Персонализация…
     .accesskey = о
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Всегда
-    .accesskey = е
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Никогда
-    .accesskey = и
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Только в новой вкладке
-    .accesskey = н
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Персонализация панели инструментов…
+    .accesskey = с
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Всегда отображать
     .accesskey = е

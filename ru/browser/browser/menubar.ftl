@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = а
+menu-help-more-troubleshooting-info =
+    .label = Информация для решения проблем
+    .accesskey = а
 menu-help-taskmanager =
     .label = Диспетчер задач
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Перезапустить с дополнениями
     .accesskey = е
+menu-help-enter-troubleshoot-mode =
+    .label = Безопасный режим
+    .accesskey = п
+menu-help-exit-troubleshoot-mode =
+    .label = Отключить безопасный режим
+    .accesskey = ю
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
