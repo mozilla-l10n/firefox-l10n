@@ -26,6 +26,15 @@ toolbar-context-menu-undo-close-tabs =
            *[many] Адмяніць закрыццё картак
         }
     .accesskey = я
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Перааадкрыць закрытыя карткі
+            [one] Перааадкрыць закрытую картку
+            [few] Перааадкрыць закрытыя карткі
+           *[many] Перааадкрыць закрытыя карткі
+        }
+    .accesskey = з
 toolbar-context-menu-manage-extension =
     .label = Кіраваць пашырэннем
     .accesskey = К
@@ -47,21 +56,18 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Аўтаматычна хаваць на паліцы прылад
     .accesskey = А
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Хаваць кнопку, калі спіс пусты
+    .accesskey = Х
 toolbar-context-menu-remove-from-toolbar =
     .label = Выдаліць з паліцы прылад
     .accesskey = В
 toolbar-context-menu-view-customize-toolbar =
     .label = Уладкаваць…
     .accesskey = л
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Заўсёды
-    .accesskey = З
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Ніколі
-    .accesskey = Н
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Толькі на новай картцы
-    .accesskey = Т
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Уладкаваць паліцы прылад…
+    .accesskey = У
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Заўсёды паказваць
     .accesskey = З

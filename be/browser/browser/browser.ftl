@@ -525,6 +525,8 @@ crashed-subframe-message = <strong>Частка гэтай старонкі па
 crashed-subframe-learnmore =
     .label = Даведацца больш
     .accesskey = Д
+crashed-subframe-learnmore-link =
+    .value = Даведацца больш
 crashed-subframe-submit =
     .label = Адправіць справаздачу
     .accesskey = А
@@ -623,3 +625,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Некаторае аўдыё ці відэа на гэтым сайце выкарыстоўвае DRM-праграму, што можа абмежаваць магчымасці, якія дае вам { -brand-short-name }.
+eme-notifications-drm-content-playing-manage = Кіраваць наладамі
+eme-notifications-drm-content-playing-manage-accesskey = К
+eme-notifications-drm-content-playing-dismiss = Адхіліць
+eme-notifications-drm-content-playing-dismiss-accesskey = А

@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Адкрыць спасылку ў новай картцы кантэйнера
     .accesskey = ы
+main-context-menu-open-link-container =
+    .label = Адкрыць спасылку ў новым кантэйнеры
+    .accesskey = ц
 main-context-menu-open-link-new-window =
     .label = Адкрыць спасылку ў новым акне
     .accesskey = п
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Дадаць закладку на гэту спасылку
     .accesskey = с
+main-context-menu-bookmark-link =
+    .label = Дадаць закладку на спасылку
+    .accesskey = з
 main-context-menu-save-link =
     .label = Захаваць спасылку як…
     .accesskey = с
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Капіяваць адрас эл.пошты
     .accesskey = э
 main-context-menu-copy-link =
     .label = Капіяваць спасылку
+    .accesskey = с
+main-context-menu-copy-link-simple =
+    .label = Капіраваць спасылку
     .accesskey = с
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Капіяваць спасылку на аўдыё
     .accesskey = п
+main-context-menu-image-copy-link =
+    .label = Капіраваць спасылку на відарыс
+    .accesskey = в
+main-context-menu-video-copy-link =
+    .label = Капіраваць спасылку на відэа
+    .accesskey = в
+main-context-menu-audio-copy-link =
+    .label = Капіраваць спасылку на гук
+    .accesskey = в
 main-context-menu-image-save-as =
     .label = Захаваць выяву як…
     .accesskey = я
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Звесткі пра выяву
     .accesskey = в
+main-context-menu-image-set-image-as-background =
+    .label = Усталяваць як фон працоўнага стала…
+    .accesskey = У
 main-context-menu-image-desc =
     .label = Паглядзець апісанне
     .accesskey = а
@@ -275,6 +301,9 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Ужыць згенераваны пароль…
     .accesskey = п
+main-context-menu-manage-logins =
+    .label = Кіраваць лагінамі…
+    .accesskey = ь
 main-context-menu-keyword =
     .label = Дадаць ключавое слова для гэтага пошуку…
     .accesskey = к
@@ -331,6 +360,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = к
 main-context-menu-inspect-element =
     .label = Даследаваць элемент
+    .accesskey = Д
+main-context-menu-inspect =
+    .label = Даследаваць
     .accesskey = Д
 main-context-menu-inspect-a11y-properties =
     .label = Даследаваць уласцівасці даступнасці

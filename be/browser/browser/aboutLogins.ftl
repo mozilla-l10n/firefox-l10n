@@ -328,6 +328,22 @@ about-logins-import-dialog-error-no-logins-imported = Ніводзін лагі�
 about-logins-import-dialog-error-learn-more = Даведацца больш
 about-logins-import-dialog-error-try-again = Паспрабаваць зноў...
 about-logins-import-dialog-error-cancel = Скасаваць
+about-logins-import-report-title = Падсумаванне імпарту
+about-logins-import-report-description = Лагіны і паролі імпартаваны ў { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Радок { $number }
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
