@@ -89,7 +89,7 @@ update-in-progress-ok-button = Тай&дыру
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
 account-button = Тіркелгі баптаулары
-addons-button = Кеңейтімдер мен тақырыптар
+addons-button = Кеңейтулер және темалар
 
 ## OS Authentication dialog
 
