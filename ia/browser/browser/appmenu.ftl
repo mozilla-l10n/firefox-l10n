@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Altere utensiles
 appmenuitem-exit =
     .label = Exir
+appmenu-menu-button-closed =
+    .tooltiptext = Aperir menu del application
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Clauder menu del application
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Aperir session
 appmenu-fxa-setup-sync =
     .label = Activation synchronisation…
+appmenu-fxa-show-more-tabs = Monstrar altere schedas
 appmenuitem-save-page =
     .label = Salvar le pagina como…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informationes de diagnostico
     .accesskey = I
+appmenu-help-more-troubleshooting-info =
+    .label = Altere informationes diagnostic
+    .accesskey = d
 appmenu-help-taskmanager =
     .label = Gestor de activitate
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Reinitiar con le additivos active
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Modo diagnostic
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Disactivar le modo diagnostic
+    .accesskey = D
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

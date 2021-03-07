@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informationes de diagnostico
     .accesskey = I
+menu-help-more-troubleshooting-info =
+    .label = Altere informationes diagnostic
+    .accesskey = d
 menu-help-taskmanager =
     .label = Gestor de activitate
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reinitiar con le additivos active
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Modo diagnostic
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Disactivar modo diagnostic
+    .accesskey = D
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
