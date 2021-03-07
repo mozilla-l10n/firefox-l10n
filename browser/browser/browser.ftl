@@ -406,6 +406,7 @@ urlbar-result-action-visit = भ्रमण करें
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = बुकमार्क खोजें
+urlbar-result-action-search-history = खोज इतिहास
 
 ## Full Screen and Pointer Lock UI
 
@@ -428,6 +429,8 @@ pointerlock-warning-no-domain = इस दस्तेवाज को आपक
 crashed-subframe-learnmore =
     .label = अधिक जानें
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = अधिक जानें
 crashed-subframe-submit =
     .label = रिपोर्ट जमा करें
     .accesskey = S
@@ -510,3 +513,5 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = इस साइट पर कुछ ऑडियो या वीडियो DRM सॉफ्टवेयर का उपयोग करते है, जो सिमित कर सकता है कि { -brand-short-name } आपको इसके साथ क्या करने दे सकता हैं.
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss-accesskey = D
