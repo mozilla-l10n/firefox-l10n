@@ -25,7 +25,9 @@ update-unsupported = Edasised uuendused selle süsteemi peal pole võimalikud. <
 update-restarting = Taaskäivitamine…
 channel-description = Kasutusel on uuendustekanal <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } on katsetamiseks ja võib olla ebastabiilne.
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> on <label data-l10n-name="community-exp-creditsLink">üleilmne kogukond</label>, kes töötab koos, et hoida internet avatuna, avalikuna ja ilma igasuguste piiranguteta ligipääsetavana kõigile.
+aboutdialog-help-user = { -brand-product-name }i abi
+aboutdialog-submit-feedback = Saada tagasisidet
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> on <label data-l10n-name="community-exp-creditsLink">üleilmne kogukond</label>, kes töötab koos, et hoida internet avatuna, avalikuna ja ligipääsetavana kõigile.
 community-2 = { -brand-short-name } on loodud <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">üleilmse kogukonna </label> poolt. Me usume, et internet peaks olema avatud, avalik ja ilma igasuguste piiranguteta ligipääsetav kõigile.
 helpus = Soovid aidata? <label data-l10n-name="helpus-donateLink">Tee annetus</label> või <label data-l10n-name="helpus-getInvolvedLink">löö kaasa!</label>
 bottomLinks-license = Litsentsist
