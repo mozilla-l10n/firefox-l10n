@@ -106,7 +106,10 @@ places-remove-bookmark =
     .label =
         { $count ->
             [1] Eliminar marcador
-            [one] Eliminar marcadores
+            [one] Eliminar marcador
            *[other] Eliminar marcadores
         }
     .accesskey = e
+places-manage-bookmarks =
+    .label = Administrar marcadores
+    .accesskey = M
