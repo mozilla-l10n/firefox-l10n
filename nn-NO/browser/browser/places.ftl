@@ -81,6 +81,13 @@ places-sortby-name =
 places-properties =
     .label = Eigenskapar
     .accesskey = E
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Rediger bokmerke…
+    .accesskey = R
+places-edit-generic =
+    .label = Rediger…
+    .accesskey = R
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrerte bokmerke
