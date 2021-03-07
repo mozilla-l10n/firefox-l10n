@@ -312,6 +312,25 @@ about-logins-import-dialog-error-no-logins-imported = Ingen logins er blevet imp
 about-logins-import-dialog-error-learn-more = Læs mere
 about-logins-import-dialog-error-try-again = Prøv igen…
 about-logins-import-dialog-error-cancel = Annuller
+about-logins-import-report-title = Oversigt over import
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Række { $number }
+about-logins-import-report-row-description-no-change = Dublet: Login eksisterer allerede
+about-logins-import-report-row-description-modified = Eksisterende login opdateret
+about-logins-import-report-row-description-added = Nyt login tilføjet
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-missing-field = Fejl: Manglende { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
