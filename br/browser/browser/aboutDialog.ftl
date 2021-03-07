@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = A
 update-checkingForUpdates = O klask hizivadennoù…
 update-downloading = <img data-l10n-name="icon"/>O pellgargañ an hizivadenn — <label data-l10n-name="download-status"/>
+update-downloading-message = O pellgargañ an hizivadenn —<label data-l10n-name="download-status"/>
 update-applying = Oc’h arloañ an hizivadenn…
 update-failed = C’hwitadenn war an hizivaat. <label data-l10n-name="failed-link">Pellgargañ an handelv diwezhañ</label>
 update-failed-main = C’hwitadenn war an hizivaat. <a data-l10n-name="failed-link-main">Pellgargañ an handelv diwezhañ</a>
