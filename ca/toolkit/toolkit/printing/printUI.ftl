@@ -40,10 +40,10 @@ printui-scale-pcent = Escala
 printui-two-sided-printing = Impressió a doble cara
 printui-duplex-checkbox = Imprimeix a doble cara
 printui-two-sided-printing-off = Desactivada
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Gira en el costat lateral
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Gira en el costat superior
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Gira en el costat llarg
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Gira en el costat curt
 # Section title for miscellaneous print options
 printui-options = Opcions
 printui-headers-footers-checkbox = Imprimeix capçaleres i peus de pàgina
@@ -101,6 +101,7 @@ printui-paper-tabloid = Tabloide
 
 printui-error-invalid-scale = L'escala ha de ser un nombre entre 10 i 200.
 printui-error-invalid-margin = Introduïu un marge vàlid per a la mida del paper seleccionat.
+printui-error-invalid-copies = El nombre de còpies ha de ser entre 1 i 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = L'interval ha de ser un nombre entre 1 i { $numPages }.

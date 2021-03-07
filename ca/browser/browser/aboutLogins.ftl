@@ -317,6 +317,22 @@ about-logins-import-dialog-error-no-logins-imported = No s'ha importat cap inici
 about-logins-import-dialog-error-learn-more = Més informació
 about-logins-import-dialog-error-try-again = Torna-ho a provar…
 about-logins-import-dialog-error-cancel = Cancel·la
+about-logins-import-report-title = Resum de la importació
+about-logins-import-report-description = Inici de sessió i contrasenyes importats en el { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Fila { $number }
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
