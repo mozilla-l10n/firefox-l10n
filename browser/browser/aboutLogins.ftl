@@ -84,6 +84,7 @@ login-item-new-login-title = Uue kasutajakonto loomine
 login-item-edit-button = Muuda
 about-logins-login-item-remove-button = Eemalda
 login-item-origin-label = Saidi aadress
+login-item-tooltip-message = Veenduge, et see kattuks saidi täpse aadressiga, kuhu te sisse logite.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Kasutajanimi
@@ -120,7 +121,7 @@ about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
 about-logins-reveal-password-os-auth-dialog-message-win = Parooli vaatamiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-reveal-password-os-auth-dialog-message-macosx = reveal the saved password
+about-logins-reveal-password-os-auth-dialog-message-macosx = kuva salvestatud parooli
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Parooli kopeerimiseks sisesta Windowsi sisselogimisandmed. See aitab kaitsta sinu kontode turvalisust.
 # This message can be seen when attempting to copy a password in about:logins
@@ -206,6 +207,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Kasutajanimede ja paroolide eksportimine
 about-logins-confirm-export-dialog-message = Sinu paroolid salvestatakse loetava tekstina (nt HalbP@r00l), nii et kõik, kes saavad eksporditud faili avada, saavad neid vaadata.
 about-logins-confirm-export-dialog-confirm-button = Ekspordi...
+about-logins-alert-import-title = Importimine valmis
+about-logins-alert-import-message = Vaata impordiaruande üksikasju
 confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
 confirm-discard-changes-dialog-message = Kõik salvestamata muudatused lähevad kaduma.
 confirm-discard-changes-dialog-confirm-button = Unusta
@@ -267,12 +270,47 @@ about-logins-import-file-picker-csv-filter-title =
         [macos] CSV-fail
        *[other] CSV-fail
     }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV-dokument
+       *[other] TSV-fail
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Importimine on lõpetatud
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span>Uus kasutajatunnus lisatud.</span>
+       *[other] <span>Uusi kasutajatunnuseid lisatud:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Värskendati üht kasutajatunnust.</span>
+       *[other] <span>Olemasolevaid kasutajatunnuseid värskendatud:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Leiti üks korduv kasutajatunnus<span data-l10n-name="meta">(ei imporditud)</span>
+       *[other] <span>Korduvaid kasutajatunnuseid leitud:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ei imporditud)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Üks viga</span> <span data-l10n-name="meta">(ei imporditud)</span>
+       *[other] <span>Vigu:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei imporditud)</span>
+    }
+about-logins-import-dialog-done = Valmis
+about-logins-import-dialog-error-title = Viga importimisel
+about-logins-import-dialog-error-conflicting-values-title = Kasutajatunnusel leiti mitu vastuolus väärtust
+about-logins-import-dialog-error-file-format-title = Probleem failivorminguga
 about-logins-import-dialog-error-file-permission-title = Viga faili lugemisel
+about-logins-import-dialog-error-unable-to-read-title = Faili töötlemine ebaõnnestus
+about-logins-import-dialog-error-unable-to-read-description = Veendu, et valisid CSV- või TSV-faili.
+about-logins-import-dialog-error-no-logins-imported = Ühtegi kasutajatunnust ei imporditud
 about-logins-import-dialog-error-learn-more = Rohkem teavet
 about-logins-import-dialog-error-try-again = Proovi uuesti…
 about-logins-import-dialog-error-cancel = Tühista
@@ -289,3 +327,4 @@ about-logins-import-dialog-error-cancel = Tühista
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Importimise kokkuvõtte aruanne
