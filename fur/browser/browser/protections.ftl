@@ -159,6 +159,12 @@ monitor-partial-breaches-title =
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% completât
+monitor-partial-breaches-motivation-title-start = Ben scomençade!
+monitor-partial-breaches-motivation-title-middle = Va indenant cussì!
+monitor-partial-breaches-motivation-title-end = Cuasi finît! Va indenant cussì.
+monitor-partial-breaches-motivation-description = Risolf il rest des tôs violazions su { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Risolf lis violazions
+    .title = Risolf lis violazions su { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -167,3 +173,17 @@ monitor-partial-breaches-percentage = { $percentageResolved }% completât
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Spiis dai social media
+    .aria-label =
+        { $count ->
+            [one] { $count } spie di social media ({ $percentage }%)
+           *[other] { $count } spiis di social media ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cookies inter-sît che ti spiin
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie intersît che ti spie ({ $percentage }%)
+           *[other] { $count } cookies intersît che ti spiin ({ $percentage }%)
+        }
