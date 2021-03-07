@@ -187,3 +187,24 @@ bar-tooltip-cookie =
             [one] { $count } cookie intersît che ti spie ({ $percentage }%)
            *[other] { $count } cookies intersît che ti spiin ({ $percentage }%)
         }
+bar-tooltip-tracker =
+    .title = Contignûts che ti spiin
+    .aria-label =
+        { $count ->
+            [one] { $count } contignût che ti spie ({ $percentage }%)
+           *[other] { $count } contignûts che ti spiin ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Rilevadôrs di stamp numeric
+    .aria-label =
+        { $count ->
+            [one] { $count } rilevadôr di stamp numeric ({ $percentage }%)
+           *[other] { $count } rilevadôrs di stamp numeric ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Minadôrs di criptomonede
+    .aria-label =
+        { $count ->
+            [one] { $count } minadôr di criptomonede ({ $percentage }%)
+           *[other] { $count } minadôrs di criptomonede ({ $percentage }%)
+        }
