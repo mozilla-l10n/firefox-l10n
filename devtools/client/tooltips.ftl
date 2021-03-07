@@ -30,6 +30,8 @@ inactive-text-overflow-when-no-overflow = Το <strong>{ $property }</strong> δ
 inactive-outline-radius-when-outline-style-auto-or-none = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο επειδή το <strong>outline-style</strong> του είναι <strong>auto</strong> ή <strong>none</strong>.
 inactive-css-not-for-internal-table-elements = Το <strong>{ $property }</strong> δεν επηρεάζει τα εσωτερικά στοιχεία πίνακα.
 inactive-css-not-for-internal-table-elements-except-table-cells = Το <strong>{ $property }</strong> δεν επηρεάζει τα εσωτερικά στοιχεία πίνακα, εκτός από τα κελιά πίνακα.
+inactive-css-not-table = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι πίνακας.
+inactive-scroll-padding-when-not-scroll-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν κάνει κύλιση.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -51,6 +53,8 @@ inactive-text-overflow-when-no-overflow-fix = Δοκιμάστε να προσθ
 inactive-css-not-for-internal-table-elements-fix = Δοκιμάστε να ορίσετε την ιδιότητα <strong>display</strong> του σε κάτι άλλο εκτός από <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ή <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Δοκιμάστε να ορίσετε την ιδιότητα <strong>display</strong> του σε κάτι άλλο εκτός από <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ή <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Δοκιμάστε να ορίσετε την ιδιότητα <strong>outline-style</strong> σε κάτι άλλο εκτός από <strong>auto</strong> ή <strong>none</strong>. { learn-more }
+inactive-css-not-table-fix = Δοκιμάστε να προσθέσετε το <strong>display:table</strong> ή το <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Δοκιμάστε να προσθέσετε το <strong>overflow:auto</strong>, το <strong>overflow:scroll</strong>, ή το <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

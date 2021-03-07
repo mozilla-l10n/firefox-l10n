@@ -309,18 +309,45 @@ about-logins-import-dialog-error-no-logins-imported = Δεν έγινε εισα
 about-logins-import-dialog-error-learn-more = Μάθετε περισσότερα
 about-logins-import-dialog-error-try-again = Δοκιμή ξανά…
 about-logins-import-dialog-error-cancel = Ακύρωση
+about-logins-import-report-title = Περίληψη εισαγωγής
+about-logins-import-report-description = Εισήχθησαν συνδέσεις και κωδικοί πρόσβασης στο { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Σειρά { $number }
+about-logins-import-report-row-description-no-change = Διπλότυπο: ακριβής αντιστοίχιση υπαρχουσών συνδέσεων
+about-logins-import-report-row-description-modified = Η υπάρχουσα σύνδεση ενημερώθηκε
 about-logins-import-report-row-description-added = Προστέθηκε νέα σύνδεση
+about-logins-import-report-row-description-error = Σφάλμα: Απουσία πεδίου
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Σφάλμα: Πολλαπλές τιμές για το { $field }
+about-logins-import-report-row-description-error-missing-field = Σφάλμα: Απουσία πεδίου "{ $field }"
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">νέες συνδέσεις προστέθηκαν</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">υπάρχουσες συνδέσεις ενημερώθηκαν</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">διπλές συνδέσεις</div> <div data-l10n-name="not-imported">(δεν έγινε εισαγωγή)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">σφάλματα</div> <div data-l10n-name="not-imported">(δεν έγινε εισαγωγή)</div>
+    }
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Εισαγωγή περιληπτικής αναφοράς
+about-logins-import-report-page-title = Περιληπτική αναφορά εισαγωγής
