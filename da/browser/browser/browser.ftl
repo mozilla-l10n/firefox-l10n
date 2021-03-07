@@ -350,6 +350,12 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Afspiller
 browser-tab-audio-muted = Lyd slået fra
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = AFSPILLER
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = LYD SLÅET FRA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = BILLEDE-I-BILLEDE
 
 ## Bookmarks toolbar items
 
@@ -515,6 +521,8 @@ crashed-subframe-message = <strong>En del af denne side gik ned</strong>. Indsen
 crashed-subframe-learnmore =
     .label = Læs mere
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = Læs mere
 crashed-subframe-submit =
     .label = Indsend rapport
     .accesskey = I
@@ -525,6 +533,11 @@ bookmarks-show-all-bookmarks =
     .label = Vis alle bogmærker
 bookmarks-recent-bookmarks =
     .value = Seneste bogmærker
+bookmarks-manage-bookmarks =
+    .label = Håndter bogmærker
+bookmarks-recent-bookmarks-panel =
+    .value = Seneste bogmærker
+bookmarks-recent-bookmarks-panel-subheader = Senester bogmærker
 bookmarks-toolbar-chevron =
     .tooltiptext = Vis flere bogmærker
 bookmarks-sidebar-content =
@@ -548,6 +561,12 @@ bookmarks-tools-toolbar-visibility =
            *[other] Vis bogmærkelinjen
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Skjul bogmærkelinjen
+           *[other] Vis bogmærkelinjen
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] Skjul bogmærkelinjen
@@ -599,3 +618,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Noget lyd- eller videoindhold på dette websted bruger DRM-software, hvilken kan begrænse hvad { -brand-short-name } kan lade dig gøre med det.
+eme-notifications-drm-content-playing-manage = Håndter indstillinger
+eme-notifications-drm-content-playing-manage-accesskey = H
+eme-notifications-drm-content-playing-dismiss = Afvis
+eme-notifications-drm-content-playing-dismiss-accesskey = A
