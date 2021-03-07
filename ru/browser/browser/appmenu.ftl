@@ -149,7 +149,7 @@ appmenu-help-keyboard-shortcuts =
     .accesskey = ч
 appmenu-get-help =
     .label = Получить помощь
-    .accesskey = о
+    .accesskey = ч
 appmenu-help-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = а
@@ -182,14 +182,14 @@ appmenu-help-enter-troubleshoot-mode =
     .accesskey = п
 appmenu-help-exit-troubleshoot-mode =
     .label = Отключить безопасный режим
-    .accesskey = ю
+    .accesskey = п
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
     .label = Сообщить о поддельном сайте…
-    .accesskey = о
+    .accesskey = б
 appmenu-help-not-deceptive =
     .label = Это не поддельный сайт…
     .accesskey = е

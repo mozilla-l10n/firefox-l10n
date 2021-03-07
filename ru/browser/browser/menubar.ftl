@@ -321,7 +321,7 @@ menu-help-keyboard-shortcuts =
     .accesskey = ч
 menu-get-help =
     .label = Получить помощь
-    .accesskey = о
+    .accesskey = ч
 menu-help-troubleshooting-info =
     .label = Информация для решения проблем
     .accesskey = а
@@ -351,7 +351,7 @@ menu-help-exit-troubleshoot-mode =
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Сообщить о поддельном сайте…
-    .accesskey = о
+    .accesskey = б
 menu-help-not-deceptive =
     .label = Это не поддельный сайт…
     .accesskey = е
