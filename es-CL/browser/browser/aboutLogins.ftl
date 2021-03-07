@@ -339,6 +339,26 @@ about-logins-import-report-row-description-error-missing-field = Error: Falta { 
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nueva credencial añadida</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nuevas credenciales añadidas</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credencial existente actualizada</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credenciales existentes actualizadas</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credencial duplicada</div> <div data-l10n-name="not-imported">(no importada)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credenciales duplicadas</div> <div data-l10n-name="not-imported">(no importadas)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Error</div> <div data-l10n-name="not-imported">(no importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errores</div> <div data-l10n-name="not-imported">(no importados)</div>
+    }
 
 ## Logins import report page
 
