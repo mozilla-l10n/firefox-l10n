@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Reabrir en contenedor
     .accesskey = e
+tab-context-open-in-container =
+    .label = Abrir en un nuevo contenedor
+    .accesskey = e
 move-to-start =
     .label = Mover al inicio
     .accesskey = S
@@ -92,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Mover pestaña
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir pestañas cerrada
+            [one] Reabrir pestañas cerrada
+           *[other] Reabrir pestañas cerradas
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
