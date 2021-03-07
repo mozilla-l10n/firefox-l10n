@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Deshacer cierre de pestañas
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir pestañas cerrada
+            [one] Reabrir pestañas cerrada
+           *[other] Reabrir pestañas cerradas
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Gestionar extensión
     .accesskey = E
