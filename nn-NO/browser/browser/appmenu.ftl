@@ -61,6 +61,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Logg inn
 appmenu-fxa-setup-sync =
     .label = Slå på synkronisering…
+appmenu-fxa-show-more-tabs = Vis fleire faner
 appmenuitem-save-page =
     .label = Lagre sida som…
 
@@ -163,6 +164,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Start på nytt med påslåtte tillegg
     .accesskey = S
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
