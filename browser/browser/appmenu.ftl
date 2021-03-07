@@ -57,6 +57,11 @@ appmenuitem-fxa-toolbar-sync-now =
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Paskiausiai sinchronizuota { $time }
+    .label = Paskiausiai sinchronizuota { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sinchronizuoti ir įrašyti duomenis
 appmenu-fxa-signed-in-label = Prisijungti
