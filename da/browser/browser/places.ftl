@@ -8,6 +8,9 @@ places-open =
 places-open-tab =
     .label = Åbn i et nyt faneblad
     .accesskey = f
+places-open-all-bookmarks =
+    .label = Åbn alle bogmærker
+    .accesskey = a
 places-open-all-in-tabs =
     .label = Åbn alle i faneblade
     .accesskey = a
@@ -91,3 +94,6 @@ places-remove-bookmark =
            *[other] Fjern bogmærker
         }
     .accesskey = F
+places-manage-bookmarks =
+    .label = Håndter bogmærker
+    .accesskey = g
