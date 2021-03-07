@@ -29,6 +29,18 @@ places-new-folder =
 places-new-separator =
     .label = Ny separator
     .accesskey = p
+places-open-in-window =
+    .label = Åbn i nyt vindue
+    .accesskey = v
+places-open-in-private-window =
+    .label = Åbn i nyt privat vindue
+    .accesskey = p
+places-add-bookmark =
+    .label = Tilføj bogmærke…
+    .accesskey = b
+places-add-folder-contextmenu =
+    .label = Tilføj mappe
+    .accesskey = m
 places-view =
     .label = Vis
     .accesskey = V
@@ -69,3 +81,13 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Andre bogmærker
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Fjern bogmærke
+            [one] Fjern bogmærke
+           *[other] Fjern bogmærker
+        }
+    .accesskey = F
