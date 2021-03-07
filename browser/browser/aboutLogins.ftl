@@ -323,11 +323,16 @@ about-logins-import-report-description = Inici de sessió i contrasenyes importa
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Fila { $number }
+about-logins-import-report-row-description-no-change = Duplicat: Coincidència exacta amb un inici de sessió existent
+about-logins-import-report-row-description-modified = Inici de sessió existent actualitzat
+about-logins-import-report-row-description-added = Inici de sessió nou afegit
+about-logins-import-report-row-description-error = Error: Falta un camp
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Error: Hi ha diversos valors per a { $field }
 about-logins-import-report-row-description-error-missing-field = Error: Falta { $field }
 
 ##
@@ -345,6 +350,10 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inicis de sessió duplicats</div> <div data-l10n-name="not-imported">(no importats)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">errors</div> <div data-l10n-name="not-imported">(no importats)</div>
     }
 
 ## Logins import report page

@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informació de resolució de problemes
     .accesskey = r
+menu-help-more-troubleshooting-info =
+    .label = Més informació de resolució de problemes
+    .accesskey = i
 menu-help-taskmanager =
     .label = Gestor de tasques
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reinicia amb els complements habilitats
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Mode de resolució de problemes
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Desactiva el mode de resolució de problemes
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Part d'aquesta pàgina ha fallat.</strong> Pe
 crashed-subframe-learnmore =
     .label = Més informació
     .accesskey = M
+crashed-subframe-learnmore-link =
+    .value = Més informació
 crashed-subframe-submit =
     .label = Envia l'informe
     .accesskey = E
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Aquest lloc conté àudio o vídeo que utilitza programari de DRM, cosa que pot limitar allò que el { -brand-short-name } us pot permetre fer.
+eme-notifications-drm-content-playing-manage = Gestiona els paràmetres
+eme-notifications-drm-content-playing-manage-accesskey = G
+eme-notifications-drm-content-playing-dismiss = Descarta
+eme-notifications-drm-content-playing-dismiss-accesskey = D
