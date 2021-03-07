@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Выберите <span data-l10n-name="zap">внешний вид</span>
 onboarding-multistage-theme-subtitle = Персонализируйте { -brand-short-name } темами.
 onboarding-multistage-theme-primary-button-label = Сохранить тему
+onboarding-multistage-theme-primary-button-label2 = Готово
 onboarding-multistage-theme-secondary-button-label = Не сейчас
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Автоматическая

@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Открыть в новой вкладке
     .accesskey = ы
+places-open-in-tab =
+    .label = Открыть в новой вкладке
+    .accesskey = ы
+places-open-all-bookmarks =
+    .label = Открыть все закладки
+    .accesskey = з
 places-open-all-in-tabs =
     .label = Открыть всё во вкладках
     .accesskey = в
@@ -28,6 +34,24 @@ places-new-folder =
     .accesskey = а
 places-new-separator =
     .label = Новый разделитель
+    .accesskey = р
+places-open-in-window =
+    .label = Открыть в новом окне
+    .accesskey = н
+places-open-in-private-window =
+    .label = Открыть в новом приватном окне
+    .accesskey = и
+places-add-bookmark =
+    .label = Создать закладку…
+    .accesskey = з
+places-add-folder-contextmenu =
+    .label = Создать папку…
+    .accesskey = п
+places-add-folder =
+    .label = Создать папку…
+    .accesskey = п
+places-add-separator =
+    .label = Добавить разделитель
     .accesskey = р
 places-view =
     .label = Вид
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Свойства
     .accesskey = в
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Изменить закладку…
+    .accesskey = н
+places-edit-generic =
+    .label = Изменить…
+    .accesskey = н
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Управляемые закладки
@@ -69,3 +100,17 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Другие закладки
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Удалить закладку
+            [one] Удалить { $count } закладку
+            [few] Удалить { $count } закладки
+           *[many] Удалить { $count } закладок
+        }
+    .accesskey = л
+places-manage-bookmarks =
+    .label = Управление закладками
+    .accesskey = в
