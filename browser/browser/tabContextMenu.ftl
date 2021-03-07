@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Duplica les pestanyes
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Tanca les pestanyes de l'esquerra
+    .accesskey = l
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Tanca les pestanyes de la dreta
     .accesskey = d
@@ -44,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Torna a obrir en un contenidor
     .accesskey = e
+tab-context-open-in-container =
+    .label = Obre en un contenidor nou
+    .accesskey = e
 move-to-start =
     .label = Mou al principi
     .accesskey = p
@@ -56,6 +66,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tanca diverses pestanyes
     .accesskey = a
+tab-context-share-url =
+    .label = Comparteix
+    .accesskey = x
+tab-context-share-more =
+    .label = Més…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -79,6 +94,13 @@ move-tabs =
 move-tab =
     .label = Mou la pestanya
     .accesskey = u
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Torna a obrir la pestanya tancada
+           *[other] Torna a obrir les pestanyes tancades
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->

@@ -46,10 +46,10 @@ places-add-bookmark =
     .accesskey = A
 places-add-folder-contextmenu =
     .label = Afegeix una carpeta…
-    .accesskey = r
+    .accesskey = p
 places-add-folder =
     .label = Afegeix una carpeta…
-    .accesskey = r
+    .accesskey = p
 places-add-separator =
     .label = Afegeix un separador
     .accesskey = s
@@ -84,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Propietats
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Edita l'adreça d'interès…
+    .accesskey = E
+places-edit-generic =
+    .label = Edita…
+    .accesskey = E
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Adreces d'interès gestionades
@@ -93,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Altres adreces d'interès
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Elimina l'adreça d'interès
+           *[other] Elimina les adreces d'interès
+        }
+    .accesskey = m
+places-manage-bookmarks =
+    .label = Gestiona les adreces d'interès
+    .accesskey = G
