@@ -4,9 +4,12 @@
 
 head-title = Quant a les eines per a desenvolupadors
 enable-title = Activa les eines per a desenvolupadors del Firefox
+enable-inspect-element-title = Activeu les eines per a desenvolupadors del Firefox per utilitzar «Inspecciona l'element»
 enable-inspect-element-message = Examineu i editeu HTML i CSS amb l'Inspector de les eines per a desenvolupadors.
 enable-about-debugging-message = Desenvolupeu i depureu WebExtensions, processos de treball web, processos de treball de servei i més amb les eines per a desenvolupadors del Firefox.
 enable-key-shortcut-message = Heu activat una drecera a les Eines per a desenvolupadors. Si és un error, podeu tancar aquesta pestanya.
+enable-menu-message = Perfeccioneu l'HTML, el CSS i el JavaScript del vostre lloc web amb eines com l'Inspector o el Depurador.
+enable-common-message = Les eines per a desenvolupadors del Firefox estan desactivades per defecte per donar-vos més control sobre el navegador.
 enable-learn-more-link = Més informació sobre les eines per a desenvolupadors
 enable-enable-button = Activa les eines per a desenvolupadors
 enable-close-button = Tanca aquesta pestanya
