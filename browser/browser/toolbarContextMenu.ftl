@@ -26,6 +26,15 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Atšaukti kortelių užvėrimus
         }
     .accesskey = t
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Atkurti užvertą kortelę
+            [one] Atkurti užvertą kortelę
+            [few] Atkurti užvertas korteles
+           *[other] Atkurti užvertas korteles
+        }
+    .accesskey = r
 toolbar-context-menu-manage-extension =
     .label = Tvarkyti priedą
     .accesskey = p
