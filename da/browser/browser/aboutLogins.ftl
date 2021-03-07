@@ -313,6 +313,7 @@ about-logins-import-dialog-error-learn-more = Læs mere
 about-logins-import-dialog-error-try-again = Prøv igen…
 about-logins-import-dialog-error-cancel = Annuller
 about-logins-import-report-title = Oversigt over import
+about-logins-import-report-description = Logins og adgangskoder importeret til { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -320,11 +321,13 @@ about-logins-import-report-row-index = Række { $number }
 about-logins-import-report-row-description-no-change = Dublet: Login eksisterer allerede
 about-logins-import-report-row-description-modified = Eksisterende login opdateret
 about-logins-import-report-row-description-added = Nyt login tilføjet
+about-logins-import-report-row-description-error = Fejl: Manglende felt
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Fejl: Flere værdier for { $field }
 about-logins-import-report-row-description-error-missing-field = Fejl: Manglende { $field }
 
 ##
