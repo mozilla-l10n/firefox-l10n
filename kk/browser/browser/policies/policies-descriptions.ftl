@@ -79,8 +79,9 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Көрсетілген
 ##
 
 policy-LocalFileLinks = Арнайы веб-сайттарға жергілікті файлдарға сілтеуді рұқсат ету.
-policy-MasterPassword = Басты парольді орнатуды талап ету немесе оған тыйым салу.
 policy-ManagedBookmarks = Әкімші басқаратын және пайдаланушы өзгерте алмайтын бетбелгілер тізімін баптайды.
+policy-MasterPassword = Басты парольді орнатуды талап ету немесе оған тыйым салу.
+policy-ManualAppUpdateOnly = Тек қолмен жаңартуды рұқсат ету және пайдаланушыға жаңартулар туралы хабарламау.
 policy-PrimaryPassword = Басты парольді орнатуды талап ету немесе оған тыйым салу.
 policy-NetworkPrediction = Желі болжамын іске қосу немесе сөндіру (DNS алдын-ала таңдау).
 policy-NewTabPage = Жаңа бетті іске қосу немесе сөндіру

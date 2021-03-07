@@ -227,12 +227,15 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = Демеушілік жарлықтары
 newtab-custom-pocket-title = { -pocket-brand-name } ұсынған
+newtab-custom-pocket-subtitle = { -brand-product-name } отбасының мүшесі болып табылатын, { -pocket-brand-name } жетекшілік ететін тамаша құрама
 newtab-custom-pocket-sponsored = Демеушілер мақалалары
 newtab-custom-recent-title = Жуырдағы белсенділік
+newtab-custom-recent-subtitle = Жуырдағы сайттар мен құрама таңдауы
 newtab-custom-close-button = Жабу
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Үзінділер
+newtab-custom-snippets-subtitle = { -vendor-short-name } және { -brand-product-name } кеңестері және жаңалықтары
 newtab-custom-settings = Көбірек баптауларды басқару
