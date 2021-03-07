@@ -196,6 +196,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Vel ein <span data-l10n-name="zap">utsjånad</span>
 onboarding-multistage-theme-subtitle = Tilpass { -brand-short-name } med eit tema.
 onboarding-multistage-theme-primary-button-label = Lagre tema
+onboarding-multistage-theme-primary-button-label2 = Ferdig
 onboarding-multistage-theme-secondary-button-label = Ikkje no
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatisk

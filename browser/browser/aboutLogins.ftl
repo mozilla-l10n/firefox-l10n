@@ -309,6 +309,7 @@ about-logins-import-dialog-error-no-logins-imported = Ingen innloggingar er impo
 about-logins-import-dialog-error-learn-more = Les meir
 about-logins-import-dialog-error-try-again = Prøv igjen…
 about-logins-import-dialog-error-cancel = Avbryt
+about-logins-import-report-title = Importsamandrag
 #
 # Variables:
 #  $number (number) - The number of the row
