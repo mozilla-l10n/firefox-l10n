@@ -88,6 +88,9 @@ places-properties =
 places-edit-bookmark =
     .label = Redaguoti adresyno įrašą…
     .accesskey = y
+places-edit-generic =
+    .label = Keisti…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Tvarkomas adresynas
@@ -97,6 +100,17 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Kiti adresyno įrašai
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Pašalinti įrašą
+            [one] Pašalinti įrašą
+            [few] Pašalinti įrašus
+           *[other] Pašalinti įrašų
+        }
+    .accesskey = l
 places-manage-bookmarks =
     .label = Tvarkyti adresyną
     .accesskey = T

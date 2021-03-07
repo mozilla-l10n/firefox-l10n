@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Atverti iš naujo sudėtiniame rodinyje
     .accesskey = e
+tab-context-open-in-container =
+    .label = Atverti naujame konteineryje
+    .accesskey = e
 move-to-start =
     .label = Perkelti į pradžią
     .accesskey = p
@@ -93,6 +96,15 @@ move-tabs =
 move-tab =
     .label = Perkelti kortelę
     .accesskey = t
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Atkurti užvertą kortelę
+            [one] Atkurti užvertą kortelę
+            [few] Atkurti užvertas korteles
+           *[other] Atkurti užvertas korteles
+        }
+    .accesskey = r
 tab-context-close-tabs =
     .label =
         { $tabCount ->
