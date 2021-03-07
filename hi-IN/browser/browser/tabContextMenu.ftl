@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = दोहरे टैब
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = दाहिने तरफ टैब बंद करें
     .accesskey = i
@@ -44,6 +46,9 @@ bookmark-tab =
 reopen-in-container =
     .label = कंटेनर में दुबारा से खोलें
     .accesskey = e
+tab-context-open-in-container =
+    .label = नए कंटेनर में खोलें
+    .accesskey = e
 move-to-start =
     .label = शुरू करने के लिए ले जाएँ
     .accesskey = S
@@ -56,6 +61,7 @@ move-to-new-window =
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
+
 close-tab =
     .label = टैब बंद करें
     .accesskey = C
