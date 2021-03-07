@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "K">
 <!ENTITY  newContactCmd.label "Aadressiraamatu kontakt…">
 <!ENTITY  newContactCmd.accesskey "o">
+<!ENTITY openMenuCmd.label "Ava">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Ava salvestatud kiri…">
 <!ENTITY openMessageFileCmd.accesskey "i">
 <!ENTITY saveAsMenu.label "Salvesta kui">
@@ -287,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Otsi kirju...">
 <!ENTITY searchMailCmd.accesskey "k">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Üldotsing…">
+<!ENTITY glodaSearchCmd.accesskey "o">
 <!ENTITY searchAddressesCmd.label "Otsi aadresse...">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
@@ -715,6 +719,7 @@
 <!ENTITY locationColumn.label "Asukoht">
 <!ENTITY idColumn.label "Saabumise aeg">
 <!ENTITY attachmentColumn.label "Manused">
+<!ENTITY deleteColumn.label "Kustuta">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vali kuvatavad veerud">
@@ -739,6 +744,7 @@
 <!ENTITY locationColumn2.tooltip "Sordi asukoha järgi">
 <!ENTITY idColumn2.tooltip "Sordi kättesaamise järgi">
 <!ENTITY attachmentColumn2.tooltip "Sordi manuste järgi">
+<!ENTITY deleteColumn.tooltip "Kustuta kiri">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Uus kiri mallist">
@@ -960,3 +966,6 @@
 <!ENTITY writeNewMessageDock.label      "Kirjuta uus kiri">
 <!ENTITY openAddressBookDock.label      "Ava aadressiraamat">
 
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Mine üks leht tagasi">
+<!ENTITY browseForwardButton.tooltip "Mine üks leht edasi">
