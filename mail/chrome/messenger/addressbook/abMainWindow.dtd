@@ -54,7 +54,6 @@
 <!ENTITY deleteListsCmd.label                           "Pašalinti sąrašus">
 <!ENTITY deleteItemsCmd.label                           "Pašalinti elementus">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!ENTITY propertiesMenu.label                           "Savybės">
 <!ENTITY propertiesMenu.accesskey                       "S">
 <!ENTITY propertiesCmd.key                              "i">
@@ -103,9 +102,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.label                             "Paštas ir naujienų grupės">
 <!ENTITY messengerCmd.accesskey                         "P">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY addressBookCmd.label                           "Adresų knyga">
-<!ENTITY addressBookCmd.accesskey                       "a">
-<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Paieška…">
 <!ENTITY searchAddressesCmd.accesskey                   "P">
 <!ENTITY importCmd.label                                "Importas…">
@@ -129,6 +125,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY propertiesContext.accesskey                    "S">
 <!ENTITY abPropertiesContext.label                      "Savybės">
 <!ENTITY abPropertiesContext.accesskey                  "S">
+<!ENTITY syncContext.label                              "Sinchronizuoti">
 <!ENTITY editContactContext.label                       "Keisti adresatą">
 <!ENTITY editContactContext.accesskey                   "K">
 <!ENTITY editMailingListContext.label                   "Keisti sąrašą">
