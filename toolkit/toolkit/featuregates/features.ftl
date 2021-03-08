@@ -15,6 +15,28 @@ experimental-features-web-gpu2 =
 # by various online articles and is technical in nature.
 experimental-features-media-avif =
     .label = Media: AVIF
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-inputmode =
+    .label = Web API: inputmode
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-link-preload =
+    .label = Web API: <link rel="preload">
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-focus-visible =
+    .label = CSS: Псевдокласы: :focus-visible
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-web-api-beforeinput =
+    .label = Web API: beforeinput оқиғасы
+# The title of the experiment should be kept in English as it may be referenced
+# by various online articles and is technical in nature.
+experimental-features-css-constructable-stylesheets =
+    .label = CSS: құрастырылатын стильдер кестелері
+experimental-features-devtools-color-scheme-simulation =
+    .label = Әзірлеуші құралдары: Түстер схемасын симуляциялау
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-lax-by-default2 =
     .label = Cookie файлдары: Үнсіз келісім бойынша SameSite=Lax
@@ -31,7 +53,13 @@ experimental-features-abouthome-startup-cache-description = Іске қосыл�
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Әзірлеуші құралдары: Service Worker-ді жөндеу
-# Desktop zooming experiment
-experimental-features-graphics-desktop-zooming =
-    .label = Графика: Smooth Pinch Zoom
-experimental-features-graphics-desktop-zooming-description = Сенсорлық экрандарда және дәл сенсорлық тақталарда тегіс масштабтауды іске қосу.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = JavaScript өнімділігін және жады қолданылуын жақсартатын Warp жобасын іске қосады.
+# Fission is the name of the feature and should not be translated.
+experimental-features-fission =
+    .label = Fission (сайтты оқшаулау)
+experimental-features-http3 =
+    .label = HTTP/3 хаттамасы
+experimental-features-http3-description = HTTP/3 хаттамасына эксперименталды қолдау көрсету
