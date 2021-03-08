@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Thêm công cụ
 appmenuitem-exit =
     .label = Thoát
+appmenu-menu-button-closed =
+    .tooltiptext = Mở menu ứng dụng
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Đóng menu ứng dụng
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Đăng nhập
 appmenu-fxa-setup-sync =
     .label = Bật đồng bộ hóa…
+appmenu-fxa-show-more-tabs = Hiển thị thêm các thẻ
 appmenuitem-save-page =
     .label = Lưu trang dưới dạng…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Thông tin xử lý sự cố
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = Thông tin xử lý sự cố khác
+    .accesskey = T
 appmenu-help-taskmanager =
     .label = Quản lý tác vụ
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Khởi động lại và kích hoạt các tiện ích
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Chế độ xử lý sự cố
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Tắt chế độ xử lý sự cố
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
