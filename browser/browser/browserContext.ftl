@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Abrir ligação num novo separador contentor
     .accesskey = b
+main-context-menu-open-link-container =
+    .label = Abrir ligação num novo contentor
+    .accesskey = v
 main-context-menu-open-link-new-window =
     .label = Abrir ligação numa nova janela
     .accesskey = j
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Adicionar esta ligação aos marcadores
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Adicionar ligação aos marcadores
+    .accesskey = o
 main-context-menu-save-link =
     .label = Guardar ligação como…
     .accesskey = G
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Copiar endereço de email
     .accesskey = e
 main-context-menu-copy-link =
     .label = Copiar ligação
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Copiar ligação
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Copiar ligação do áudio
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Copiar ligação da imagem
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Copiar ligação do vídeo
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Copiar ligação do áudio
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Guardar imagem como…
     .accesskey = e
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Ver informação da imagem
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Definir como fundo do ambiente de trabalho…
+    .accesskey = h
 main-context-menu-image-desc =
     .label = Ver descrição
     .accesskey = d
@@ -275,6 +301,9 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Utilizar uma palavra-passe gerada…
     .accesskey = g
+main-context-menu-manage-logins =
+    .label = Gerir credenciais…
+    .accesskey = G
 main-context-menu-keyword =
     .label = Adicionar uma palavra-chave para esta pesquisa…
     .accesskey = A
@@ -332,6 +361,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspecionar elemento
     .accesskey = t
+main-context-menu-inspect =
+    .label = Inspecionar
+    .accesskey = n
 main-context-menu-inspect-a11y-properties =
     .label = Inspecionar propriedades de acessibilidade
 main-context-menu-eme-learn-more =
