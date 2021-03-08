@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
+carddav-url-label =
+    .value = „CardDAV“ URL:
+    .accesskey = V
 carddav-refreshinterval-label =
     .label = Sinchronizuoti:
     .accesskey = S
+carddav-readonly-label =
+    .label = Tik skaitymui
+    .accesskey = s
