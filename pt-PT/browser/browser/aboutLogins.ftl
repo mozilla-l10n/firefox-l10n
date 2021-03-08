@@ -351,6 +351,11 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credencial duplicada</div> <div data-l10n-name="not-imported">(não importada)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenciais duplicadas</div> <div data-l10n-name="not-imported">(não importadas)</div>
     }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">erro</div> <div data-l10n-name="not-imported">(não importada)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">erros</div> <div data-l10n-name="not-imported">(não importadas)</div>
+    }
 
 ## Logins import report page
 
