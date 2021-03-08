@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Flere verktøy …
 appmenuitem-exit =
     .label = Avslutt
+appmenu-menu-button-closed =
+    .tooltiptext = Åpne program-meny
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Lukk program-meny
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Logg inn
 appmenu-fxa-setup-sync =
     .label = Slå på synkronisering …
+appmenu-fxa-show-more-tabs = Vis flere faner
 appmenuitem-save-page =
     .label = Lagre side som …
 
@@ -163,6 +170,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Start på nytt med utvidelser påslått
     .accesskey = S
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
