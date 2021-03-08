@@ -4,19 +4,19 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY viewPicker.label "View:">
-<!ENTITY viewPicker.accesskey "i">
-<!ENTITY viewAll.label "All">
-<!ENTITY viewAll.accesskey "A">
-<!ENTITY viewUnread.label "Unread">
-<!ENTITY viewUnread.accesskey "U">
-<!ENTITY viewNotDeleted.label "Not Deleted">
-<!ENTITY viewNotDeleted.accesskey "D">
-<!ENTITY viewTags.label "Tags">
-<!ENTITY viewTags.accesskey "T">
-<!ENTITY viewCustomViews.label "Custom Views">
-<!ENTITY viewCustomViews.accesskey "V">
-<!ENTITY viewVirtualFolder.label "Save View as a Folder…">
-<!ENTITY viewVirtualFolder.accesskey "S">
-<!ENTITY viewCustomizeView.label "Customize…">
-<!ENTITY viewCustomizeView.accesskey "C">
+<!ENTITY viewPicker.label "Vido:">
+<!ENTITY viewPicker.accesskey "V">
+<!ENTITY viewAll.label "Ĉiuj">
+<!ENTITY viewAll.accesskey "j">
+<!ENTITY viewUnread.label "Nelegitaj">
+<!ENTITY viewUnread.accesskey "N">
+<!ENTITY viewNotDeleted.label "Neforigitaj">
+<!ENTITY viewNotDeleted.accesskey "f">
+<!ENTITY viewTags.label "Etikedoj">
+<!ENTITY viewTags.accesskey "E">
+<!ENTITY viewCustomViews.label "Personecigitaj vidoj…">
+<!ENTITY viewCustomViews.accesskey "r">
+<!ENTITY viewVirtualFolder.label "Konservi vidon kiel mesaĝujon…">
+<!ENTITY viewVirtualFolder.accesskey "K">
+<!ENTITY viewCustomizeView.label "Personecigi…">
+<!ENTITY viewCustomizeView.accesskey "P">
