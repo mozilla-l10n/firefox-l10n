@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>In part fan dizze side is ferûngelokke.</str
 crashed-subframe-learnmore =
     .label = Mear ynfo
     .accesskey = M
+crashed-subframe-learnmore-link =
+    .value = Mear ynfo
 crashed-subframe-submit =
     .label = Rapport ferstjoere
     .accesskey = s
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Guon audio of video op dizze website brûkt DRM-software hokker { -brand-short-name } kin beheine yn wat jo der mei dwaan wolle.
+eme-notifications-drm-content-playing-manage = Ynstellingen beheare
+eme-notifications-drm-content-playing-manage-accesskey = b
+eme-notifications-drm-content-playing-dismiss = Slute
+eme-notifications-drm-content-playing-dismiss-accesskey = S

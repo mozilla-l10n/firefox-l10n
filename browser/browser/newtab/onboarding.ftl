@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Kies in <span data-l10n-name="zap">uterlik</span>
 onboarding-multistage-theme-subtitle = Personalisearje { -brand-short-name } mei in tema.
 onboarding-multistage-theme-primary-button-label = Tema bewarje
+onboarding-multistage-theme-primary-button-label2 = Dien
 onboarding-multistage-theme-secondary-button-label = No net
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatysk

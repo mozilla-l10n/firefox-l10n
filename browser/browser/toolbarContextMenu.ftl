@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Ljepblêden slute ûngedien meitsje
         }
     .accesskey = u
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sluten ljepblêd opnij iepenje
+            [one] Sluten ljepblêd opnij iepenje
+           *[other] Sluten ljepblêden opnij iepenje
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Utwreiding beheare
     .accesskey = U
