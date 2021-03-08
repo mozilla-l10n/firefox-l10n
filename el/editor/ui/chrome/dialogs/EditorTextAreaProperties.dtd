@@ -8,8 +8,8 @@
 
 <!ENTITY TextAreaName.label "Όνομα πεδίου:">
 <!ENTITY TextAreaName.accessKey "δ">
-<!ENTITY TextAreaRows.label "Γραμμές:">
-<!ENTITY TextAreaRows.accessKey "μ">
+<!ENTITY TextAreaRows.label "Σειρές:">
+<!ENTITY TextAreaRows.accessKey "Σ">
 <!ENTITY TextAreaCols.label "Στήλες:">
 <!ENTITY TextAreaCols.accessKey "τ">
 <!ENTITY TextAreaReadOnly.label "Μόνο για ανάγνωση">

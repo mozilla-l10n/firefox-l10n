@@ -33,12 +33,12 @@
 <!ENTITY tableCaptionBelow.label          "Κάτω από τον πίνακα">
 <!ENTITY tableCaptionLeft.label           "Αριστερά του πίνακα">
 <!ENTITY tableCaptionRight.label          "Δεξιά του πίνακα">
-<!ENTITY tableCaptionNone.label           "Κανένα">
+<!ENTITY tableCaptionNone.label           "Καμία">
 <!ENTITY tableInheritColor.label           "(Εμφάνιση χρώματος σελίδας)">
 
 <!ENTITY cellSelection.label              "Επιλογή">
 <!ENTITY cellSelectCell.label             "Κελί">
-<!ENTITY cellSelectRow.label              "Γραμμή">
+<!ENTITY cellSelectRow.label              "Σειρά">
 <!ENTITY cellSelectColumn.label           "Στήλη">
 <!ENTITY cellSelectNext.label             "Επόμενο">
 <!ENTITY cellSelectNext.accessKey         "Ν">

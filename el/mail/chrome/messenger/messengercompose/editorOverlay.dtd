@@ -218,22 +218,22 @@
 <!ENTITY tableInsertMenu.accesskey "ι">
 <!ENTITY tableTable.label "Πίνακας">
 <!ENTITY tableTable.accesskey "Π">
-<!ENTITY tableRow.label "Γραμμή">
-<!ENTITY tableRows.label "Γραμμές">
-<!ENTITY tableRow.accesskey "Γ">
-<!ENTITY tableRowAbove.label "Γραμμή πάνω">
-<!ENTITY tableRowAbove.accesskey "Γ">
-<!ENTITY tableRowBelow.label "Γραμμή κάτω">
+<!ENTITY tableRow.label "Σειρά">
+<!ENTITY tableRows.label "Σειρά(ές)">
+<!ENTITY tableRow.accesskey "Σ">
+<!ENTITY tableRowAbove.label "Σειρά πάνω">
+<!ENTITY tableRowAbove.accesskey "Σ">
+<!ENTITY tableRowBelow.label "Σειρά κάτω">
 <!ENTITY tableRowBelow.accesskey "κ">
 <!ENTITY tableColumn.label "Στήλη">
-<!ENTITY tableColumns.label "Στήλες">
+<!ENTITY tableColumns.label "Στήλη(ες)">
 <!ENTITY tableColumn.accesskey "Σ">
 <!ENTITY tableColumnBefore.label "Στήλη πριν">
 <!ENTITY tableColumnBefore.accesskey "τ">
 <!ENTITY tableColumnAfter.label "Στήλη μετά">
 <!ENTITY tableColumnAfter.accesskey "μ">
 <!ENTITY tableCell.label "Κελί">
-<!ENTITY tableCells.label "Κελιά">
+<!ENTITY tableCells.label "Κελί(ά)">
 <!ENTITY tableCell.accesskey "Κ">
 <!ENTITY tableCellContents.label "Περιεχόμενα κελιού">
 <!ENTITY tableCellContents.accesskey "χ">

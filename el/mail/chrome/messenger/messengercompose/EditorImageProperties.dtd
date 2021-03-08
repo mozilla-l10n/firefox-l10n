@@ -51,7 +51,7 @@
 <!ENTITY alignment.label "Στοίχιση κειμένου στην εικόνα">
 <!ENTITY bottomPopup.value "Από κάτω">
 <!ENTITY topPopup.value "Πρός τα πάνω">
-<!ENTITY centerPopup.value "Στο μέσο">
+<!ENTITY centerPopup.value "Στο κέντρο">
 <!ENTITY wrapRightPopup.value "Αναδίπλωση στα δεξιά">
 <!ENTITY wrapLeftPopup.value "Αναδίπλωση στα αριστερά">
 
