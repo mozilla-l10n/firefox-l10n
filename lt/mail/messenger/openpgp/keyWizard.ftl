@@ -92,7 +92,7 @@ openpgp-import-key-list-amount =
        *[other] „Thunderbird“ rado { $count } raktų, kuriuos galima importuoti.
     }
 openpgp-import-key-list-description = Patvirtinkite savo asmeninius raktus. Asmeniniai raktai turėtų būti tik tie, kuriuos sukūrėte patys ir kurie parodo jūsų tapatybę. Vėliau asmeninių raktų parinktį galite pakeisti raktų savybėse.
-openpgp-import-key-list-caption = Asmeniniai raktai bus išvardyti skyriuje „end-to-end“ šifravimas. Kiti bus prieinami „Key Manager“.
+openpgp-import-key-list-caption = Asmeniniai raktai bus išvardyti skyriuje „Abipusis šifravimas“. Kiti bus prieinami „Key Manager“.
 openpgp-passphrase-prompt-title = Reikalingas slaptažodis
 #   $identity (String) - the id of the key being imported
 openpgp-passphrase-prompt = Įveskite slaptažodį, kad atrakintumėte šį „{ $key }“ raktą.
@@ -109,7 +109,7 @@ import-error-failed = <b> Klaida!</b> Nepavyko importuoti failo. { $error }
 #   $error (String) - the reported error from the failed key import method
 openpgp-import-keys-failed = <b> Klaida!</b> Nepavyko importuoti raktų. { $error }
 openpgp-import-identity-label = Tapatybė
-openpgp-import-fingerprint-label = „Pirštų antspaudas“
+openpgp-import-fingerprint-label = „Pirštų atspaudas“
 openpgp-import-created-label = Sukurtas
 openpgp-import-bits-label = bitų
 openpgp-import-key-props =

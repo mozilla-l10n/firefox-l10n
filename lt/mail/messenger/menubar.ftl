@@ -8,3 +8,12 @@
 menu-view-charset =
     .label = Simbolių koduotė
     .accesskey = S
+
+## Mail Toolbar
+
+toolbar-junk-button =
+    .label = Brukalas
+    .tooltiptext = Pasirinktas pranešimas bus pažymėtas kaip brukalas
+toolbar-delete-button =
+    .label = Pašalinti
+    .tooltiptext = Pašalinti pasirinktą pranešimą ar katalogą

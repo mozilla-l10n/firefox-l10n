@@ -4,19 +4,15 @@
 
 otr-finger =
     .buttonlabelaccept = Užverti
-    .title = Prieš tai matyti OTR „pirštų antspaudai“
-
-finger-intro = OTR raktų „pirštų atspaudai“ iš ankstesnių užšifruotų pokalbių.
-
+    .title = Prieš tai matyti OTR „pirštų atspaudai“
+finger-intro = OTR raktų „pirštų atspaudai“ iš ankstesnių abipusiai užšifruotų pokalbių.
 finger-screenName =
     .label = Adresatas
 finger-verified =
     .label = Patvirtinimo būsena
 finger-fingerprint =
-    .label = „Pirštų antspaudas“
-
+    .label = „Pirštų atspaudas“
 finger-remove =
     .label = Pašalinti pažymėtus
-
 finger-remove-all =
     .label = Pašalinti visus
