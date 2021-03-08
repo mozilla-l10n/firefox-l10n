@@ -207,6 +207,8 @@ menu-history-undo-menu =
     .label = Itxitako azken fitxak
 menu-history-undo-window-menu =
     .label = Itxitako azken leihoak
+menu-history-reopen-all-tabs = Ireki berriro fitxa guztiak
+menu-history-reopen-all-windows = Ireki berriro leiho guztiak
 
 ## Bookmarks Menu
 

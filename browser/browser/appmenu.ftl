@@ -100,6 +100,8 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-reopen-all-tabs = Ireki berriro fitxa guztiak
+appmenu-reopen-all-windows = Ireki berriro leiho guztiak
 
 ## Help panel
 
@@ -144,6 +146,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Berrabiarazi gehigarriak gaituta
     .accesskey = r
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -161,3 +167,6 @@ appmenu-help-check-for-update =
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Pertsonalizatu tresna-barra…
+appmenu-developer-tools-subheader = Nabigatzailearen tresnak
