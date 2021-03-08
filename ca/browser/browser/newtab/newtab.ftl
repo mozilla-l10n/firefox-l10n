@@ -227,7 +227,7 @@ newtab-custom-row-selector =
        *[other] { $num } files
     }
 newtab-custom-sponsored-sites = Dreceres patrocinades
-newtab-custom-pocket-title = Recomanat pel { -pocket-brand-name }
+newtab-custom-pocket-title = Recomanat per { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contingut excepcional seleccionat per { -pocket-brand-name }, part de la família de { -brand-product-name }
 newtab-custom-pocket-sponsored = Articles patrocinats
 newtab-custom-recent-title = Activitat recent

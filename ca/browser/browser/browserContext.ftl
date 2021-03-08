@@ -131,7 +131,7 @@ main-context-menu-save-link =
     .accesskey = s
 main-context-menu-save-link-to-pocket =
     .label = Desa l'enllaç al { -pocket-brand-name }
-    .accesskey = o
+    .accesskey = k
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
