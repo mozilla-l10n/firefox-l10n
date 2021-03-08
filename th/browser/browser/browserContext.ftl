@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = เปิดลิงก์ในแท็บแยกข้อมูลใหม่
     .accesskey = ย
+main-context-menu-open-link-container =
+    .label = เปิดลิงก์ในแท็บแยกข้อมูลใหม่
+    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = เปิดลิงก์ในหน้าต่างใหม่
     .accesskey = ห
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = เพิ่มที่คั่นหน้าสำหรับลิงก์นี้
     .accesskey = ล
+main-context-menu-bookmark-link =
+    .label = เพิ่มที่คั่นหน้าสำหรับลิงก์
+    .accesskey = B
 main-context-menu-save-link =
     .label = บันทึกลิงก์เป็น…
     .accesskey = น
@@ -131,12 +137,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = คัดลอกที่อยู่อีเมล
     .accesskey = ท
 main-context-menu-copy-link =
     .label = คัดลอกตำแหน่งที่ตั้งลิงก์
     .accesskey = ด
+main-context-menu-copy-link-simple =
+    .label = คัดลอกลิงก์
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = คัดลอกตำแหน่งที่ตั้งเสียง
     .accesskey = ง
+main-context-menu-image-copy-link =
+    .label = คัดลอกลิงก์ภาพ
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = คัดลอกลิงก์วิดีโอ
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = คัดลอกลิงก์เสียง
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = บันทึกภาพเป็น…
     .accesskey = บ
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = ดูข้อมูลภาพ
     .accesskey = ข
+main-context-menu-image-set-image-as-background =
+    .label = ตั้งค่ารูปภาพเป็นพื้นหลังเดสก์ท็อป…
+    .accesskey = S
 main-context-menu-image-desc =
     .label = ดูคำอธิบาย
     .accesskey = ย
@@ -275,6 +301,9 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = ใช้รหัสผ่านที่ถูกสร้างขึ้นมา ...
     .accesskey = G
+main-context-menu-manage-logins =
+    .label = จัดการการเข้าสู่ระบบ…
+    .accesskey = M
 main-context-menu-keyword =
     .label = เพิ่มคำสำคัญสำหรับการค้นหานี้…
     .accesskey = พ
@@ -332,6 +361,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = ตรวจสอบองค์ประกอบ
     .accesskey = อ
+main-context-menu-inspect =
+    .label = ตรวจสอบ
+    .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = ตรวจสอบคุณสมบัติการช่วยการเข้าถึง
 main-context-menu-eme-learn-more =
