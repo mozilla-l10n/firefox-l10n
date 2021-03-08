@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-quality-meter = Μέτρηση ποιότητας πιστοποιητικού
+password-quality-meter = Μέτρηση ποιότητας κωδικού πρόσβασης
 
 ## Change Password dialog
 
@@ -14,7 +14,7 @@ change-device-password-window =
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Συσκευή ασφάλειας: { $tokenName }
 change-password-old = Τρέχων κωδικός πρόσβασης:
-change-password-new = Εισάγετε ένα νέο κωδικό
+change-password-new = Νέος κωδικός πρόσβασης:
 change-password-reenter = Εισάγετε τον κωδικό ξανά
 
 ## Reset Password dialog

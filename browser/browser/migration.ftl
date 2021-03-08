@@ -62,7 +62,7 @@ import-select-profile-page-title = Επιλογή προφίλ
 import-select-profile-description = Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:
 import-done-page-title = Η εισαγωγή ολοκληρώθηκε
 import-done-description = Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:
-import-close-source-browser = Παρακαλούμε βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό πριν συνεχίσετε.
+import-close-source-browser = Παρακαλώ βεβαιωθείτε ότι το επιλεγμένο πρόγραμμα περιήγησης είναι κλειστό πριν συνεχίσετε.
 # Displays which browser the bookmarks are being imported from
 #
 # Variables:
