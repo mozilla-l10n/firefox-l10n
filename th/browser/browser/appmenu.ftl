@@ -45,6 +45,15 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ซิงค์ตอนนี้
+appmenuitem-fxa-toolbar-sync-now =
+    .label = ซิงค์ตอนนี้
+    .value = ซิงค์ตอนนี้
+appmenuitem-fxa-manage-account = จัดการบัญชี
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-sync-and-save-data =
+    .value = ซิงค์และบันทึก
+appmenu-fxa-signed-in-label = ลงชื่อเข้า
 appmenuitem-save-page =
     .label = บันทึกหน้าเป็น…
 
@@ -145,6 +154,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม
     .accesskey = ร
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
