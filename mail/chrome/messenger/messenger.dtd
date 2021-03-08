@@ -265,7 +265,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Alapértelmezett formátum">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "A">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Melléklet megtekintése belül">
+<!ENTITY viewAttachmentsInlineCmd.label "Mellékletek megjelenítése az üzenettörzsben">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "M">
 
 <!ENTITY pageSourceCmd.label "Üzenet forrása">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "Hely">
 <!ENTITY idColumn.label "Érkezési sorrend">
 <!ENTITY attachmentColumn.label "Mellékletek">
-
 <!ENTITY deleteColumn.label "Törlés">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "Rendezés hely szerint">
 <!ENTITY idColumn2.tooltip "Rendezés beérkezés szerint">
 <!ENTITY attachmentColumn2.tooltip "Rendezés mellékletek szerint">
-
 <!ENTITY deleteColumn.tooltip "Üzenet törlése">
 
 <!-- Thread Pane Context Menu -->
