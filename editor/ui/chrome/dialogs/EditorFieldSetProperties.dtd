@@ -13,7 +13,7 @@
 <!ENTITY LegendAlign.accesskey "τ">
 <!ENTITY AlignDefault.label "Προεπιλογή">
 <!ENTITY AlignLeft.label "Αριστερά">
-<!ENTITY AlignCenter.label "Μέσο">
+<!ENTITY AlignCenter.label "Κέντρο">
 <!ENTITY AlignRight.label "Δεξιά">
 
 <!ENTITY RemoveFieldSet.label "Απομάκρυνση ορισμού πεδίου">

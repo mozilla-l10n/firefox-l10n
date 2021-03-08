@@ -934,9 +934,9 @@
 <!ENTITY stopCmd.accesskey "Δ">
 <!ENTITY reloadCmd.label "Ανανέωση">
 <!ENTITY reloadCmd.accesskey "ν">
-<!ENTITY openInBrowser.label "Άνοιγμα στον περιηγητή">
+<!ENTITY openInBrowser.label "Άνοιγμα σε πρόγραμμα περιήγησης">
 <!ENTITY openInBrowser.accesskey "ο">
-<!ENTITY openLinkInBrowser.label "Άνοιγμα δεσμού στον περιηγητή">
+<!ENTITY openLinkInBrowser.label "Άνοιγμα συνδέσμου σε πρόγραμμα περιήγησης">
 <!ENTITY openLinkInBrowser.accesskey "δ">
 
 <!-- Statusbar -->

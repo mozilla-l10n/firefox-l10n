@@ -33,12 +33,12 @@
 <!ENTITY tableCaptionBelow.label          "Κάτω από τον πίνακα">
 <!ENTITY tableCaptionLeft.label           "Αριστερά του πίνακα">
 <!ENTITY tableCaptionRight.label          "Δεξιά του πίνακα">
-<!ENTITY tableCaptionNone.label           "Κανένα">
+<!ENTITY tableCaptionNone.label           "Καμία">
 <!ENTITY tableInheritColor.label           "(Εμφάνιση χρώματος σελίδας)">
 
 <!ENTITY cellSelection.label              "Επιλογή">
 <!ENTITY cellSelectCell.label             "Κελί">
-<!ENTITY cellSelectRow.label              "Γραμμή">
+<!ENTITY cellSelectRow.label              "Σειρά">
 <!ENTITY cellSelectColumn.label           "Στήλη">
 <!ENTITY cellSelectNext.label             "Επόμενο">
 <!ENTITY cellSelectNext.accessKey         "ν">
@@ -50,7 +50,7 @@
 <!ENTITY cellHorizontal.accessKey         "ζ">
 <!ENTITY cellVertical.label               "Κάθετη:">
 <!ENTITY cellVertical.accessKey           "θ">
-<!ENTITY cellStyle.label                  "Διαμόρφωση Κελιού:">
+<!ENTITY cellStyle.label                  "Στυλ κελιού:">
 <!ENTITY cellStyle.accessKey              "φ">
 <!ENTITY cellNormal.label                 "Κανονικό">
 <!ENTITY cellHeader.label                 "Κεφαλίδα">
@@ -71,5 +71,5 @@
 <!ENTITY backgroundColor.label            "Χρώμα παρασκηνίου:">
 <!ENTITY backgroundColor.accessKey        "χ">
 <!ENTITY AlignLeft.label                  "Αριστερά">
-<!ENTITY AlignCenter.label                "Μέσο">
+<!ENTITY AlignCenter.label                "Κέντρο">
 <!ENTITY AlignRight.label                 "Δεξιά">
