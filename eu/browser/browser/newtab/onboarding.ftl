@@ -166,6 +166,8 @@ onboarding-multistage-welcome-subtitle = Irabazi-asmorik gabeko erakunde batek b
 onboarding-multistage-welcome-primary-button-label = Hasi konfigurazioa
 onboarding-multistage-welcome-secondary-button-label = Hasi saioa
 onboarding-multistage-welcome-secondary-button-text = Kontua baduzu?
+onboarding-multistage-set-default-primary-button-label = Lehenetsi
+onboarding-multistage-set-default-secondary-button-label = Une honetan ez
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Inportatu zure pasahitzak, <br/>laster-markak eta <span data-l10n-name="zap">gehiago</span>
@@ -186,6 +188,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Aukeratu <span data-l10n-name="zap">itxura</span>
 onboarding-multistage-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
 onboarding-multistage-theme-primary-button-label = Gorde itxura
+onboarding-multistage-theme-primary-button-label2 = Eginda
 onboarding-multistage-theme-secondary-button-label = Orain ez
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatikoa

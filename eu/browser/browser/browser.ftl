@@ -350,6 +350,14 @@ browser-window-close-button =
 
 browser-tab-audio-playing = Erreproduzitzen
 browser-tab-audio-muted = Mutututa
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ERREPRODUZITZEN
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = MUTUTUTA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ERREPRODUKZIO AUTOMATIKOA BLOKEATUTA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = BIDEOA BESTE LEIHO BATEAN
 
 ## Bookmarks toolbar items
 
