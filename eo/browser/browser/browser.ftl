@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Parto de tiu ĉi paĝo paneis.</strong> Por p
 crashed-subframe-learnmore =
     .label = Pli da informo
     .accesskey = P
+crashed-subframe-learnmore-link =
+    .value = Pli da informo
 crashed-subframe-submit =
     .label = Sendi raporton
     .accesskey = S
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Parto de sono aŭ filmeto en tiu ĉi retejo uzas programaron DRM, kiu povas limigi tion, kion { -brand-short-name } rajtigos vin fari kun ĝi.
+eme-notifications-drm-content-playing-manage = Administri agordojn
+eme-notifications-drm-content-playing-manage-accesskey = A
+eme-notifications-drm-content-playing-dismiss = Ignori
+eme-notifications-drm-content-playing-dismiss-accesskey = I
