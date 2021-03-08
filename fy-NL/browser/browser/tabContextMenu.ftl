@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Opnij iepenje yn kontener
     .accesskey = e
+tab-context-open-in-container =
+    .label = Iepenje yn nije kontener
+    .accesskey = e
 move-to-start =
     .label = Ferpleatse nei begjin
     .accesskey = b
@@ -92,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Ljepblêd ferpleatse
     .accesskey = f
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sluten ljepblêd opnij iepenje
+            [one] Sluten ljepblêd opnij iepenje
+           *[other] Sluten ljepblêden opnij iepenje
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->

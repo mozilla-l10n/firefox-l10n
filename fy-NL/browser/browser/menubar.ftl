@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Probleemoplossingsynformaasje
     .accesskey = P
+menu-help-more-troubleshooting-info =
+    .label = Mear probleemoplossingsynformaasje
+    .accesskey = p
 menu-help-taskmanager =
     .label = Taakbehearder
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Opnij starte mei ynskeakele add-ons
     .accesskey = r
+menu-help-enter-troubleshoot-mode =
+    .label = Probleemoplossingsmodus
+    .accesskey = m
+menu-help-exit-troubleshoot-mode =
+    .label = Probleemoplossingsmodus útskeakelje
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

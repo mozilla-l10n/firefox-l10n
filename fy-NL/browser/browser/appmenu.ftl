@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Mear ark
 appmenuitem-exit =
     .label = Ofslute
+appmenu-menu-button-closed =
+    .tooltiptext = Tapassingsmenu iepenje
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Tapassingsmenu slute
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -61,6 +67,7 @@ appmenu-fxa-sync-and-save-data =
 appmenu-fxa-signed-in-label = Oanmelde
 appmenu-fxa-setup-sync =
     .label = Syngronisaasje ynskeakelje…
+appmenu-fxa-show-more-tabs = Mear ljepblêden toane
 appmenuitem-save-page =
     .label = Side bewarje as…
 
@@ -146,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Probleemoplossingsynformaasje
     .accesskey = P
+appmenu-help-more-troubleshooting-info =
+    .label = Mear probleemoplossingsynformaasje
+    .accesskey = p
 appmenu-help-taskmanager =
     .label = Taakbehearder
 appmenu-help-report-site-issue =
@@ -163,6 +173,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Opnij starte mei ynskeakele add-ons
     .accesskey = r
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Probleemoplossingsmodus
+    .accesskey = m
+appmenu-help-exit-troubleshoot-mode =
+    .label = Probleemoplossingsmodus útskeakelje
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

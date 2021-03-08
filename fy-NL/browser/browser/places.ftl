@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Iepenje yn in nij ljepblêd
     .accesskey = l
+places-open-in-tab =
+    .label = Iepenje yn nij ljepblêd
+    .accesskey = n
+places-open-all-bookmarks =
+    .label = Alle blêdwizers iepenje
+    .accesskey = i
 places-open-all-in-tabs =
     .label = Alle iepenje yn ljepblêden
     .accesskey = a
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Nij skiedingsteken
     .accesskey = s
+places-open-in-window =
+    .label = Iepenje yn nij finster
+    .accesskey = f
+places-open-in-private-window =
+    .label = Iepenje yn nij priveefinster
+    .accesskey = p
+places-add-bookmark =
+    .label = Blêdwizer tafoegje…
+    .accesskey = B
+places-add-folder-contextmenu =
+    .label = Map tafoegje…
+    .accesskey = M
+places-add-folder =
+    .label = Map tafoegje…
+    .accesskey = o
+places-add-separator =
+    .label = Skiedingsteken tafoegje
+    .accesskey = S
 places-view =
     .label = Byld
     .accesskey = B
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Eigenskippen
     .accesskey = E
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Blêdwizer bewurkje…
+    .accesskey = b
+places-edit-generic =
+    .label = Bewurkje…
+    .accesskey = r
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Behearde blêdwizers
@@ -69,3 +100,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Oare blêdwizers
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Blêdwizer fuortsmite
+            [one] Blêdwizer fuortsmite
+           *[other] Blêdwizers fuortsmite
+        }
+    .accesskey = f
+places-manage-bookmarks =
+    .label = Blêdwizers beheare
+    .accesskey = b
