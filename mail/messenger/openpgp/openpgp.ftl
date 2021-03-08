@@ -90,6 +90,14 @@ openpgp-key-copy-key =
 openpgp-key-export-key =
     .label = Eksportuoti viešą (-us) raktą (-us) į failą
     .accesskey = E
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+            [one] „Pirštų atspaudas“
+            [few] „Pirštų atspaudai“
+           *[other] „Pirštų atspaudų“
+        }
+    .accesskey = a
 openpgp-key-man-del-key =
     .label = Ištrinti raktą (-us)
     .accesskey = I
@@ -116,7 +124,7 @@ openpgp-key-man-show-invalid-keys =
 openpgp-key-man-user-id-label =
     .label = Vardas
 openpgp-key-man-fingerprint-label =
-    .label = „Pirštų antspaudas“
+    .label = „Pirštų atspaudas“
 openpgp-key-man-select-all =
     .label = Pasirinkti visus raktus
     .accesskey = v
@@ -150,7 +158,7 @@ openpgp-key-details-expiry-label =
 openpgp-key-details-expiry-header = Galiojimo pabaiga
 openpgp-key-details-usage-label =
     .label = Naudojimas
-openpgp-key-details-fingerprint-label = „Pirštų antspaudas“
+openpgp-key-details-fingerprint-label = „Pirštų atspaudas“
 openpgp-key-details-sel-action =
     .label = Pasirinkite veiksmą…
     .accesskey = P
@@ -249,7 +257,7 @@ import-info-title =
     .title = Raktai sėkmingai importuoti
 import-info-bits = bitų
 import-info-created = Sukurtas
-import-info-fpr = „Pirštų antspaudas“
+import-info-fpr = „Pirštų atspaudas“
 
 ## Account settings export output
 
@@ -279,6 +287,9 @@ import-rev-file = Importuoti „OpenPGP“ atšaukimų failą
 gnupg-file = „GnuPG“ failai
 expiry-too-long = Negalite sukurti rakto, kurio galiojimo laikas baigsis daugiau nei po 100 metų.
 key-confirm = Generuoti viešą ir slaptąjį „{ $id }“ raktą?
+
+# Strings used in enigmailMessengerOverlay.js
+
 key-not-found = Raktas „{ $key }“ nerastas
 key-revoked = Raktas „{ $key }“ buvo atšauktas
 key-expired = Raktas „{ $key }“ nebegalioja
