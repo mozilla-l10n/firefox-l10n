@@ -313,6 +313,31 @@ about-logins-import-dialog-error-no-logins-imported = Neniu legitimilo estis enp
 about-logins-import-dialog-error-learn-more = Pli da informo
 about-logins-import-dialog-error-try-again = Klopodi denove…
 about-logins-import-dialog-error-cancel = Nuligi
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Vico { $number }
+about-logins-import-report-row-description-no-change = Duobligo: ekzakta kongruo kun ekzistanta legitimilo
+about-logins-import-report-row-description-modified = Ekzistanta legitimilo ĝisdatigita
+about-logins-import-report-row-description-added = Nova legitimilo aldonita
+about-logins-import-report-row-description-error = Eraro: mankas kampo
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Eraro: pluraj valoroj por { $field }
+about-logins-import-report-row-description-error-missing-field = Eraro: mankas{ $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova legitimilo aldonita</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novaj legitimiloj aldonitaj</div>
+    }
 
 ## Logins import report page
 

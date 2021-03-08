@@ -131,12 +131,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopii retpoŝtan adreson
     .accesskey = a
 main-context-menu-copy-link =
     .label = Kopii adreson de ligilo
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Kopii ligilon
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -227,6 +235,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopii adreson de sono
     .accesskey = a
+main-context-menu-image-copy-link =
+    .label = Kopii ligilon de bildo
+    .accesskey = b
+main-context-menu-video-copy-link =
+    .label = Kopii ligilon de filmeto
+    .accesskey = f
+main-context-menu-audio-copy-link =
+    .label = Kopii ligilon de sono
+    .accesskey = s
 main-context-menu-image-save-as =
     .label = Konservi bildon kiel…
     .accesskey = K
@@ -332,6 +349,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspekti elementon
     .accesskey = n
+main-context-menu-inspect =
+    .label = Inspekti
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Inspekti alireblecajn atributojn
 main-context-menu-eme-learn-more =

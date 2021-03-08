@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Pli da iloj
 appmenuitem-exit =
     .label = Fini
+appmenu-menu-button-closed =
+    .tooltiptext = Malfermi menuon de programo
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Fermi menuon de programo
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +51,19 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Speguli nun
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Speguli nun
+    .value = Speguli nun
+appmenuitem-fxa-manage-account = Administri konton
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Laste spegulita: { $time }
+    .label = Laste spegulita: { $time }
+appmenu-fxa-signed-in-label = Komenci seancon
+appmenu-fxa-show-more-tabs = Montri pli da langetoj
 appmenuitem-save-page =
     .label = Konservi paĝon kiel…
 
@@ -145,6 +164,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Restartigi kun aldonaĵoj aktivaj
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
