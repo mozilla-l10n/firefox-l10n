@@ -39,10 +39,15 @@ printui-scale-pcent = Масштаб
 printui-two-sided-printing = Екі жақты баспа
 printui-duplex-checkbox = Екі жағынан да басып шығару
 printui-two-sided-printing-off = Сөндірулі
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Ұзын жақтан аудару
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Қысқа жақтан аудару
 # Section title for miscellaneous print options
 printui-options = Опциялар
 printui-headers-footers-checkbox = Үстіңгі және астыңғы тақырыптамаларды баспаға шығару
 printui-backgrounds-checkbox = Фондарды баспаға шығару
+printui-selection-checkbox = Тек таңдалғанды баспаға шығару
 printui-color-mode-label = Түс режимі
 printui-color-mode-color = Түс
 printui-color-mode-bw = Қара және ақ
@@ -50,15 +55,30 @@ printui-margins = Шеттер
 printui-margins-default = Бастапқы
 printui-margins-min = Минималды
 printui-margins-none = Жоқ
+printui-margins-custom-inches = Таңдауыңызша (дюйм)
+printui-margins-custom-top = Жоғарғы
+printui-margins-custom-top-inches = Жоғарғы (дюйм)
+printui-margins-custom-bottom = Төменгі
+printui-margins-custom-bottom-inches = Төменгі (дюйм)
+printui-margins-custom-left = Сол жақ
+printui-margins-custom-left-inches = Сол жақ (дюйм)
+printui-margins-custom-right = Оң жақ
+printui-margins-custom-right-inches = Оң жақ (дюйм)
 printui-system-dialog-link = Жүйелік сұхбатын қолданып, баспаға шығару…
 printui-primary-button = Баспаға шығару
 printui-primary-button-save = Сақтау
 printui-cancel-button = Бас тарту
+printui-close-button = Жабу
 printui-loading = Алдын ала қарауды дайындау
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Алдын-ала қарау
+printui-pages-per-sheet = Беттегі парақтар саны
+# This is shown next to the Print button with an indefinite loading spinner
+# when the user prints a page and it is being sent to the printer.
+printui-print-progress-indicator = Баспаға шығару…
+printui-print-progress-indicator-saving = Сақтау…
 
 ## Paper sizes that may be supported by the Save to PDF destination:
 
@@ -79,6 +99,8 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Масштаб 10 мен 200 арасындағы сан болуы керек.
+printui-error-invalid-margin = Таңдалған қағаз өлшемі үшін жарамды шет өрісін енгізіңіз.
+printui-error-invalid-copies = Көшірмелер 1 мен 10000 арасындағы сан болуы керек.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Ауқым 1 мен { $numPages } арасындағы сан болуы керек.

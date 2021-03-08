@@ -38,6 +38,10 @@ printpreview-page-setup =
 printpreview-page =
     .value = Парақ:
     .accesskey = р
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum }, барлығы { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
@@ -57,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Соңғы парақ
-
+printpreview-homearrow-button =
+    .title = Бірінші парақ
+printpreview-previousarrow-button =
+    .title = Алдыңғы парақ
+printpreview-nextarrow-button =
+    .title = Келесі парақ
+printpreview-endarrow-button =
+    .title = Соңғы парақ
