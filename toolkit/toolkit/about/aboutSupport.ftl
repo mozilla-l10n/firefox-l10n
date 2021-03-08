@@ -369,6 +369,11 @@ fission-status-experiment-treatment = Тәжірибемен іске қосыл
 fission-status-disabled-by-e10s-env = Қоршаммен сөндірілген
 fission-status-enabled-by-env = Қоршаммен іске қосылған
 fission-status-disabled-by-safe-mode = Қауіпсіз режиммен сөндірілген
+fission-status-enabled-by-default = Үнсіз келісім бойынша іске қосылған
+fission-status-disabled-by-default = Үнсіз келісім бойынша сөндірілген
+fission-status-enabled-by-user-pref = Пайдаланушымен іске қосылған
+fission-status-disabled-by-user-pref = Пайдаланушымен сөндірілген
+fission-status-disabled-by-e10s-other = E10s сөндірілген
 async-pan-zoom = Асинхронды панорамдау/масштабтау
 apz-none = ешнәрсе
 wheel-enabled = тышқан дөңгелегімен енгізу іске қосылған
@@ -392,8 +397,19 @@ policies-error = Қате
 
 ## Printing section
 
+support-printing-title = Баспаға шығару
+support-printing-troubleshoot = Мәселелерді шешу
+support-printing-clear-settings-button = Сақталған баспаға шығару параметрлерін өшіру
+support-printing-modified-settings = Баспаға шығарудың өзгертілген баптаулары
+support-printing-prefs-name = Аты
+support-printing-prefs-value = Мәні
 
 ## Normandy sections
 
+support-remote-experiments-title = Қашықтағы тәжірибелер
+support-remote-experiments-name = Аты
+support-remote-experiments-branch = Сынамалы бұтақ
+support-remote-experiments-see-about-studies = Қосымша ақпаратты, соның ішінде жеке-жеке тәжірибелерді сөндіру немесе { -brand-short-name } үшін осындай түрдегі тәжірибелерді болашақта орындамауды қалай іске қосу туралы қосымша ақпаратты <a data-l10n-name="support-about-studies-link">about:studies</a> бөлімінен қараңыз.
+support-remote-features-title = Қашықтағы мүмкіндіктер
 support-remote-features-name = Аты
 support-remote-features-status = Қалып-күйі
