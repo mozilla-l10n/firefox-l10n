@@ -267,6 +267,7 @@ cfr-doorhanger-doh-secondary-button = Сөндіру
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Сіздің жекелігіңіз маңызды. { -brand-short-name } енді веб-сайттарды бір-бірінен оқшаулайды (құмсалғышта), нәтижесінде хакерлерге парольдер, несие карта нөмірлері және басқа да сезімтал ақпаратты ұрлау қиындау болады.
 cfr-doorhanger-fission-header = Сайтты оқшаулау
 cfr-doorhanger-fission-primary-button = Жақсы, түсіндім
     .accesskey = а
@@ -281,13 +282,19 @@ cfr-whatsnew-clear-cookies-image-alt = Cookie файлы блокталған к
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Медианы басқарудың көбірек құралдары
+cfr-whatsnew-media-keys-body = Аудио және видеоны тікелей пернетақтадан немесе гарнитурадан ойнатып, аялдатыңыз, нәтижесінде медианы басқа беттен, бағдарламадан немесе компьютер бұғатталған тұрған кезде басқару оңайырақ болады. Сонымен қатар, тректер арасында алға және артқа батырмалары арқылы ауысуға болады.
 cfr-whatsnew-media-keys-button = Қалай екенін білу
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Адрестік жолақтан тікелей іздеудің жарлықтары
+cfr-whatsnew-search-shortcuts-body = Енді сіз адрестік жолақта іздеу жүйесін немесе белгілі бір сайтты енгізген кезде, оның астында, іздеу ұсыныстарында көк жарлық пайда болады. Іздеуді тікелей адрестік жолақтан жасау үшін сол таңбашаны таңдаңыз.
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Зиянды supercookie файлдарынан қорғаныс
+cfr-whatsnew-supercookies-body = Веб-сайттар сіздің браузеріңізге жасырын түрде "supercookie" файлын жалғауы мүмкін, ол сіздің интернетті шолуыңызды бақылай алады, cookie файлдарын өшіргеннен кейін де. { -brand-short-name } енді "supercookie" файлдарынан қатаң қорғанысты ұсынады, олар сіздің желідегі сайтаралық белсенділікті бақылай алмайды.
 
 ## What's new: Better bookmarking
 
