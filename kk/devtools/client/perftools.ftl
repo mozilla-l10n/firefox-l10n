@@ -14,6 +14,7 @@ perftools-intro-title = Профильдеуші баптаулары
 perftools-heading-settings = Толық баптаулар
 perftools-heading-buffer = Буфер баптаулары
 perftools-heading-features = Мүмкіндіктер
+perftools-heading-features-default = Мүмкіндіктер (бастапқыда іске қосылғаны ұсынылады)
 perftools-heading-features-disabled = Сөндірілген мүмкіндіктер
 perftools-heading-features-experimental = Сынамалы
 perftools-heading-threads = Ағындар
