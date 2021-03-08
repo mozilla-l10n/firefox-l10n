@@ -90,11 +90,15 @@ profiler-popup-reveal-description-button =
     .aria-label = Намоиши маълумоти бештар
 profiler-popup-description-title =
     .value = Сабт кунед, таҳлил кунед, мубодила намоед
+profiler-popup-description = Бо интишори профилҳо барои мубодила бо дастаи худ, дар масъалаҳои самаранокӣ якҷоя кор кунед.
 profiler-popup-learn-more = Маълумоти бештар
 profiler-popup-settings =
     .value = Танзимот
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Таҳрир кардани танзимот…
+profiler-popup-disabled =
+    Эҳтимол, ба сабаби кушода будани равзанаи тамошокунии махфӣ,
+    айни замон профилкунанда ғайрифаъол аст.
 profiler-popup-recording-screen = Сабт шуда истодааст…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -149,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Маълумот барои ислоҳи нуқсонҳо
     .accesskey = М
+appmenu-help-more-troubleshooting-info =
+    .label = Маълумоти бештар оид ба ислоҳи нуқсонҳо
+    .accesskey = М
 appmenu-help-taskmanager =
     .label = Мудири вазифаҳо
 appmenu-help-report-site-issue =
@@ -170,10 +177,22 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = Реҷаи ислоҳи нуқсонҳо
+    .accesskey = Р
+appmenu-help-exit-troubleshoot-mode =
+    .label = Хомӯш кардани реҷаи ислоҳи нуқсонҳо
+    .accesskey = Х
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-report-deceptive-site =
+    .label = Гузориш дар бораи сомонаи фиребанда…
+    .accesskey = Г
+appmenu-help-not-deceptive =
+    .label = Сомонаи ҷорӣ фиребанда аст…
+    .accesskey = С
 
 ##
 
