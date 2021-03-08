@@ -58,14 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Жіберілген байттар:
 about-webrtc-ice-pair-bytes-received = Алынған байттар:
 about-webrtc-ice-component-id = Құрама анықтағышы
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
-
-##
-
+about-webrtc-avg-bitrate-label = Орташа битрейт:
+about-webrtc-avg-framerate-label = Орташа кадр/сек:
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -122,6 +118,8 @@ about-webrtc-fold-show-msg = ақпаратын көрсету
     .title = бұл санатты жазық қылу үшін шертіңіз
 about-webrtc-fold-hide-msg = ақпаратын жасыру
     .title = бұл санатты жинау үшін шертіңіз
+about-webrtc-dropped-frames-label = Тасталған фреймдер:
+about-webrtc-discarded-packets-label = Тасталған дестелер:
 about-webrtc-decoder-label = Декодер
 about-webrtc-encoder-label = Кодер
 about-webrtc-show-tab-label = Бетті көрсету
@@ -149,6 +147,28 @@ about-webrtc-configuration-element-provided = Ұсынылған
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ұсынылмаған
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-custom-webrtc-configuration-heading = WebRTC пайдаланушы баптаулары
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = Болжалды өткізу қабілеттілігі
+# The ID of the MediaStreamTrack
+about-webrtc-track-identifier = Трек идентификаторы
+# The estimated bandwidth available for sending WebRTC media in bytes per second
+about-webrtc-send-bandwidth-bytes-sec = Жіберудің өткізу қабілеттілігі (байт/сек)
+# The estimated bandwidth available for receiving WebRTC media in bytes per second
+about-webrtc-receive-bandwidth-bytes-sec = Қабылдаудың өткізу қабілеттілігі (байт/сек)
+# Maximum number of bytes per second that will be padding zeros at the ends of packets
+about-webrtc-max-padding-bytes-sec = Максималды толтырғыш (байт/сек)
+# The amount of time inserted between packets to keep them spaced out
+about-webrtc-pacer-delay-ms = Пакеттер арасындағы кідіріс (мс)
+# The amount of time it takes for a packet to travel from the local machine to the remote machine,
+# and then have a packet return
+about-webrtc-round-trip-time-ms = RTT (мс)
+# This is a section heading for video frame statistics for a MediaStreamTrack.
+# see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
+# Variables:
+#   $track-identifier (String) - The unique identifier for the MediaStreamTrack.
+about-webrtc-frame-stats-heading = Видео фрейм статистикасы - MediaStreamTrack ID: { $track-identifier }
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -162,6 +182,27 @@ about-webrtc-aec-logging-off-state-msg = жиналған лог файлдар�
 
 ##
 
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+       *[other] { $packets } десте алынды
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+       *[other] { $packets } десте жоғалды
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+       *[other] { $packets } десте жіберілді
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:

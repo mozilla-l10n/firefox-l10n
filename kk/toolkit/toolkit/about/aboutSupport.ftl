@@ -59,12 +59,16 @@ app-basics-enabled-plugins = Іске қосулы плагиндер
 app-basics-build-config = Жинау баптаулары
 app-basics-user-agent = User Agent
 app-basics-os = ОЖ
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta бинарлық трансляциясы
 app-basics-memory-use = Жады қолданылуы
 app-basics-performance = Өнімділік
 app-basics-service-workers = Тіркелген жұмыс үрдістері
 app-basics-profiles = Профильдер
 app-basics-launcher-process-status = Жөнелтетін үрдіс
 app-basics-multi-process-support = Мультипроцесс терезелері
+app-basics-fission-support = Fission терезелері
 app-basics-remote-processes-count = Қашықтағы үрдістер
 app-basics-enterprise-policies = Кәсіпоорындық саясаттар
 app-basics-location-service-key-google = Google орналасулар қызметінің кілті
@@ -181,14 +185,36 @@ remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Үшінші жақты модульдер
 support-third-party-modules-module = Модуль файлы
 support-third-party-modules-version = Файл нұсқасы
 support-third-party-modules-vendor = Өндіруші ақпараты
+support-third-party-modules-occurrence = Көшірмелер
+support-third-party-modules-process = Үрдіс түрі және идентификаторы
 support-third-party-modules-thread = Ағын
+support-third-party-modules-base = Бейненің базалық жүктелудің адресі
+support-third-party-modules-uptime = Үрдістің жұмыс істеу уақыты (мс)
+support-third-party-modules-duration = Жүктелудің ұзақтығы (мс)
 support-third-party-modules-status = Қалып-күйі
 support-third-party-modules-status-loaded = Жүктелген
 support-third-party-modules-status-blocked = Бұғатталған
 support-third-party-modules-status-redirected = Қайта бағдарланған
+support-third-party-modules-empty = Үшінші жақты модульдер жүктелмеген.
+support-third-party-modules-no-value = (Мән жоқ)
+support-third-party-modules-button-open =
+    .title = Файл орналасуын ашу…
+support-third-party-modules-expand =
+    .title = Көбірек ақпаратты көрсету
+support-third-party-modules-collapse =
+    .title = Көбірек ақпаратты жасыру
+support-third-party-modules-unsigned-icon =
+    .title = Бұл модульге қол қойылмаған
+support-third-party-modules-folder-icon =
+    .title = Файл орналасуын ашу…
+support-third-party-modules-down-icon =
+    .title = Көбірек ақпаратты көрсету
+support-third-party-modules-up-icon =
+    .title = Көбірек ақпаратты жасыру
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -334,6 +360,15 @@ multi-process-status-6 = Қолдауы жоқ мәтіндік енгізу с�
 multi-process-status-7 = Қосымшалармен сөндірілген
 multi-process-status-8 = Мәжбүрлі түрде сөндірілген
 multi-process-status-unknown = Қалып-күйі белгісіз
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Тәжірибемен сөндірілген
+fission-status-experiment-treatment = Тәжірибемен іске қосылған
+fission-status-disabled-by-e10s-env = Қоршаммен сөндірілген
+fission-status-enabled-by-env = Қоршаммен іске қосылған
+fission-status-disabled-by-safe-mode = Қауіпсіз режиммен сөндірілген
 async-pan-zoom = Асинхронды панорамдау/масштабтау
 apz-none = ешнәрсе
 wheel-enabled = тышқан дөңгелегімен енгізу іске қосылған
