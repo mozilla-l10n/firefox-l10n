@@ -412,6 +412,7 @@ support-printing-prefs-value = Valeur
 support-remote-experiments-title = Expériences à distance
 support-remote-experiments-name = Nom
 support-remote-experiments-branch = Branche expérimentale
+support-remote-experiments-see-about-studies = Consultez <a data-l10n-name="support-about-studies-link">about:studies</a> pour plus d’informations, notamment sur la façon de désactiver des tests individuels ou d’empêcher { -brand-short-name } d’exécuter ce  type d’expérience dans le futur.
 support-remote-features-title = Fonctionnalités distantes
 support-remote-features-name = Nom
 support-remote-features-status = État
