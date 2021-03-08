@@ -28,6 +28,11 @@ permission-dialog-remember-file = Бұл файлға <strong>{ $scheme }</stron
 permission-dialog-btn-open-link =
     .label = Сілтемені ашу
     .accessKey = ш
+permission-dialog-btn-choose-app =
+    .label = Қолданбаны таңдау
+    .accessKey = д
+permission-dialog-unset-description = Қолданбаны таңдауыңыз керек.
+permission-dialog-set-change-app-link = Басқа қолданбаны таңдау.
 
 ## Chooser dialog
 ## Variables:

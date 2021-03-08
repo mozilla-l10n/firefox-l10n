@@ -11,6 +11,9 @@ perftools-intro-title = Профильдеуші баптаулары
 
 ## All of the headings for the various sections.
 
+perftools-heading-settings = Толық баптаулар
+perftools-heading-buffer = Буфер баптаулары
+perftools-heading-features = Мүмкіндіктер
 perftools-heading-features-disabled = Сөндірілген мүмкіндіктер
 perftools-heading-features-experimental = Сынамалы
 perftools-heading-threads = Ағындар
