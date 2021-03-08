@@ -411,3 +411,9 @@ support-printing-clear-settings-button = Ачысціць захаваныя н�
 support-printing-modified-settings = Змененыя параметры друку
 support-printing-prefs-name = Назва
 support-printing-prefs-value = Значэнне
+
+## Normandy sections
+
+support-remote-experiments-title = Аддаленыя эксперыменты
+support-remote-experiments-name = Назва
+support-remote-experiments-branch = Галіна эксперыменту
