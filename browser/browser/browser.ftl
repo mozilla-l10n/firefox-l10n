@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>En del av denne siden krasjet.</strong> For �
 crashed-subframe-learnmore =
     .label = Les mer
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = Les mer
 crashed-subframe-submit =
     .label = Send inn rapport
     .accesskey = S
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Noe lyd eller video på denne siden bruker DRM-programvare, som kan begrense hva { -brand-short-name } lar deg gjøre med den.
+eme-notifications-drm-content-playing-manage = Behandle innstillinger
+eme-notifications-drm-content-playing-manage-accesskey = B
+eme-notifications-drm-content-playing-dismiss = Ignorer
+eme-notifications-drm-content-playing-dismiss-accesskey = I
