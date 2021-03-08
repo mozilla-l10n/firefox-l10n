@@ -166,6 +166,7 @@ onboarding-multistage-welcome-subtitle = La rapida, sekura kaj privata retumilo 
 onboarding-multistage-welcome-primary-button-label = Komenci agordon
 onboarding-multistage-welcome-secondary-button-label = Komenci seancon
 onboarding-multistage-welcome-secondary-button-text = Ĉu vi havas konton?
+onboarding-multistage-set-default-primary-button-label = Igi norma
 onboarding-multistage-set-default-secondary-button-label = Ne nun
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
@@ -187,6 +188,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Elektu <span data-l10n-name="zap">aspekton</span>
 onboarding-multistage-theme-subtitle = Personecigu { -brand-short-name } per etoso.
 onboarding-multistage-theme-primary-button-label = Konservi etoson
+onboarding-multistage-theme-primary-button-label2 = Farita
 onboarding-multistage-theme-secondary-button-label = Ne nun
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Aŭtomate

@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Malfermi en nova langeto
     .accesskey = n
+places-open-in-tab =
+    .label = Malfermi en nova langeto
+    .accesskey = M
+places-open-all-bookmarks =
+    .label = Malfermi ĉiujn legosignojn
+    .accesskey = l
 places-open-all-in-tabs =
     .label = Malfermi ĉiujn en langetoj
     .accesskey = M
@@ -29,6 +35,21 @@ places-new-folder =
 places-new-separator =
     .label = Nova apartigilo
     .accesskey = N
+places-open-in-window =
+    .label = Malfermi en nova fenestro
+    .accesskey = f
+places-open-in-private-window =
+    .label = Malfermi en nova privata fenestro
+    .accesskey = p
+places-add-bookmark =
+    .label = Aldoni legosignon…
+    .accesskey = A
+places-add-folder-contextmenu =
+    .label = Aldoni dosierujon…
+    .accesskey = d
+places-add-folder =
+    .label = Aldoni dosierujon…
+    .accesskey = d
 places-view =
     .label = Vidi
     .accesskey = v
@@ -69,3 +90,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Aliaj legosignoj
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Forigi legosignon
+            [one] Forigi legosignon
+           *[other] Forigi legosignojn
+        }
+    .accesskey = F
+places-manage-bookmarks =
+    .label = Administri legosignojn
+    .accesskey = l

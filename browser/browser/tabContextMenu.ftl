@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Duobligi langetojn
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Fermi langetojn maldekstren
+    .accesskey = d
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Fermi langetojn dekstren
     .accesskey = i
@@ -44,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Remalfermi en ingo
     .accesskey = i
+tab-context-open-in-container =
+    .label = Malfermi en nova ingo
+    .accesskey = i
 move-to-start =
     .label = Movi plej maldekstren
     .accesskey = l
@@ -56,6 +66,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Fermi plurajn langetojn
     .accesskey = F
+tab-context-share-url =
+    .label = Dividi
+    .accesskey = D
+tab-context-share-more =
+    .label = Pli…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -80,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Movi langeton
     .accesskey = M
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Malfermi denove fermitan langeton
+            [one] Malfermi denove fermitan langeton
+           *[other] Malfermi denove fermitajn langetojn
+        }
+    .accesskey = f
 tab-context-close-tabs =
     .label =
         { $tabCount ->

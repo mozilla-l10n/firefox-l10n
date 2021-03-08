@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Malfari fermadon de langetoj
         }
     .accesskey = M
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Malfermi denove fermitan langeton
+           *[other] Malfermi denove fermitajn langetojn
+        }
+    .accesskey = M
 toolbar-context-menu-manage-extension =
     .label = Administri etendaĵon
     .accesskey = A
@@ -46,21 +53,18 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Aŭtomate kaŝi en ilaro
     .accesskey = A
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Kaŝi butonon se la listo malplenas
+    .accesskey = K
 toolbar-context-menu-remove-from-toolbar =
     .label = Forigi el ilarstrio
     .accesskey = f
 toolbar-context-menu-view-customize-toolbar =
     .label = Personecigi…
     .accesskey = P
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Ĉiam
-    .accesskey = i
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Neniam
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Nur en nova langeto
-    .accesskey = e
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Personecigi ilaron…
+    .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Ĉiam montri
     .accesskey = m
