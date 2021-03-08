@@ -32,7 +32,7 @@
 <!ENTITY filterActionDesc.label "Εκτέλεση των ακόλουθων ενεργειών:  ">
 <!ENTITY filterActionDesc.accesskey "Ε">
 
-<!ENTITY filterActionOrderWarning.label "Σημείωση: Το φιλτράρισμα ενεργειών θα εκτελεστεί σε διαφορετική σειρά.">
+<!ENTITY filterActionOrderWarning.label "Σημείωση: Οι ενέργειες των φίλτρων θα εκτελεστούν με διαφορετική σειρά.">
 <!ENTITY filterActionOrder.label "Προβολή σειράς εκτέλεσης">
 
 <!-- New Style Filter Rule Actions -->
