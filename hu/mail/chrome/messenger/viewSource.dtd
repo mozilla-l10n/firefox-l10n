@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from content/viewSource.xul -->
-
 <!-- extracted from content/viewSource.xhtml -->
 
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
@@ -15,7 +13,7 @@
 <!ENTITY mainWindow.preface "Oldal forrása: ">
 
 <!ENTITY editMenu.label "Szerkesztés">
-<!ENTITY editMenu.accesskey "E">
+<!ENTITY editMenu.accesskey "e">
 <!ENTITY fileMenu.label "Fájl">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Oldal mentése…">
@@ -51,9 +49,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goToLineCmd.commandkey "I">
 
 <!ENTITY viewMenu.label           "Nézet">
-<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewMenu.accesskey       "N">
 <!ENTITY reloadCmd.label "Újratöltés">
-<!ENTITY reloadCmd.accesskey "F">
+<!ENTITY reloadCmd.accesskey "r">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Hosszú sorok törése">
 <!ENTITY menu_wrapLongLines.accesskey "H">
@@ -86,5 +84,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY copyLinkCmd.label "Hivatkozás címének másolása">
 <!ENTITY copyLinkCmd.accesskey "H">
-<!ENTITY copyEmailCmd.label "E-mail cím másolása">
+<!ENTITY copyEmailCmd.label "E-mail-cím másolása">
 <!ENTITY copyEmailCmd.accesskey "E">
