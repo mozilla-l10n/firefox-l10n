@@ -95,6 +95,13 @@ move-tabs =
 move-tab =
     .label = Spustar il tab
     .accesskey = p
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reavrir il tab serrà
+           *[other] Reavrir ils tabs serrads
+        }
+    .accesskey = a
 tab-context-close-tabs =
     .label =
         { $tabCount ->

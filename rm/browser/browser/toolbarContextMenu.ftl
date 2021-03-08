@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Restaurar ils tabs serrads
         }
     .accesskey = u
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reavrir il tab serrà
+           *[other] Reavrir ils tabs serrads
+        }
+    .accesskey = a
 toolbar-context-menu-manage-extension =
     .label = Administrar l'extensiun
     .accesskey = e
