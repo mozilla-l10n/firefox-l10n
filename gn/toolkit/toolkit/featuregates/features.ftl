@@ -104,3 +104,4 @@ experimental-features-http3-description = Pytyvõha ipyahúva HTTP/3 raperekoit�
 # Search during IME
 experimental-features-ime-search =
     .label = Kundaharape renda: ehechauka jejapopyre IME ñemyeñói aja
+experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembipuru omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojepurúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oipurúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojepuru aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eipuru hag̃ua erohoryvéva IME ndoipurúirõ koichagua tupa.
