@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Mở trong ngăn chứa
     .accesskey = e
+tab-context-open-in-container =
+    .label = Mở lên kết trong ngăn chứa mới
+    .accesskey = e
 move-to-start =
     .label = Di chuyển lên đầu
     .accesskey = S
@@ -91,6 +94,13 @@ move-tabs =
 move-tab =
     .label = Di chuyển thẻ
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mở lại thẻ đã đóng
+           *[other] Mở lại các thẻ đã đóng
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
