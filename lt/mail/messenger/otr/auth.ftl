@@ -10,10 +10,10 @@ otr-auth =
 auth-title = Patikrinkite { $name } tapatybę
 # Variables:
 #   $own_name (String) - the user's own screen name
-auth-your-fp-value = Jūsų - { $own_name } - „piršto antspaudas":
+auth-your-fp-value = Jūsų - { $own_name } - „piršto atspaudas":
 # Variables:
 #   $their_name (String) - the screen name of a chat contact
-auth-their-fp-value = { $their_name } „pirštų antspaudas“:
+auth-their-fp-value = { $their_name } „pirštų atspaudas“:
 auth-help = Kontaktinio asmens tapatybės patikrinimas padeda įsitikinti, kad pokalbis yra tikrai privatus, todėl trečiajai šaliai labai sunku jo pasiklausyti ar juo manipuliuoti.
 auth-helpTitle = Patikrinimo pagalba
 auth-questionReceived = Jūsų adresatas uždavė klausimą:
