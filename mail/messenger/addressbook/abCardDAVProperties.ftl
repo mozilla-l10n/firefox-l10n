@@ -8,6 +8,24 @@ carddav-url-label =
 carddav-refreshinterval-label =
     .label = Sinchronizuoti:
     .accesskey = S
+# Variables:
+#   $minutes (integer) - Number of minutes between address book synchronizations
+carddav-refreshinterval-minutes-value =
+    .label =
+        { $minutes ->
+            [one] kas { $minutes } minutę
+            [few] kas { $minutes } minutes
+           *[other] kas { $minutes } minučių
+        }
+# Variables:
+#   $hours (integer) - Number of hours between address book synchronizations
+carddav-refreshinterval-hours-value =
+    .label =
+        { $hours ->
+            [one] kas { $hours } valandą
+            [few] kas { $hours } valandas
+           *[other] kas { $hours } valandų
+        }
 carddav-readonly-label =
     .label = Tik skaitymui
     .accesskey = s
