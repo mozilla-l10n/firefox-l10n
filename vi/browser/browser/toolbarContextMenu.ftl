@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Mở lại các thẻ vừa đóng
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Mở lại thẻ đã đóng
+           *[other] Mở lại các thẻ đã đóng
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Quản lí tiện ích
     .accesskey = E

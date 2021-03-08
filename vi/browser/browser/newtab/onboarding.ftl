@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Chọn một <span data-l10n-name="zap">cách nhìn</span>
 onboarding-multistage-theme-subtitle = Cá nhân hóa { -brand-short-name } với một chủ đề.
 onboarding-multistage-theme-primary-button-label = Lưu chủ đề
+onboarding-multistage-theme-primary-button-label2 = Hoàn tất
 onboarding-multistage-theme-secondary-button-label = Không phải bây giờ
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Tự động
