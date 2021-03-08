@@ -9,6 +9,8 @@ about-rights-notification-text = O { -brand-short-name } é um software livre e 
 folder-pane-toolbar =
     .toolbarname = Barra do painel de pastas
     .accesskey = p
+folder-pane-toolbar-options-button =
+    .tooltiptext = Opções do painel de pastas
 folder-pane-header-label = Pastas
 
 ## Folder Toolbar Header Popup
