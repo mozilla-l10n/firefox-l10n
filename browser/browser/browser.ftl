@@ -515,6 +515,8 @@ crashed-subframe-message = <strong>Một phần của trang này đã bị vớ.
 crashed-subframe-learnmore =
     .label = Tìm hiểu thêm
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = Tìm hiểu thêm
 crashed-subframe-submit =
     .label = Gửi báo cáo
     .accesskey = S
@@ -613,3 +615,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Một số nguồn audio và video trên trang này có sử dụng phần mềm DRM bảo vệ bản quyền nên một số thao tác có thể bị giới hạn với { -brand-short-name }.
+eme-notifications-drm-content-playing-manage = Quản lý cài đặt
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Bỏ qua
+eme-notifications-drm-content-playing-dismiss-accesskey = D
