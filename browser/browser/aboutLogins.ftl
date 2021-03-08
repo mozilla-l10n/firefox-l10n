@@ -356,6 +356,24 @@ about-logins-import-report-added =
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новыя лагіны дададзены</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых лагінаў дададзена</div>
     }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наяўны лагін абноўлены</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наяўныя лагіны абноўлены</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наяўных лагінаў абноўлена</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікат лагіна</div> <div data-l10n-name="not-imported">(не імпартаваны)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікаты лагінаў</div> <div data-l10n-name="not-imported">(не імпартаваны)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікатаў лагінаў</div> <div data-l10n-name="not-imported">(не імпартавана)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">памылка</div> <div data-l10n-name="not-imported">(не імпартавана)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">памылкі</div> <div data-l10n-name="not-imported">(не імпартаваны)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">памылак</div> <div data-l10n-name="not-imported">(не імпартавана)</div>
+    }
 
 ## Logins import report page
 
