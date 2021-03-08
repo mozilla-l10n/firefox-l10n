@@ -39,6 +39,10 @@ printui-scale-pcent = มาตราส่วน
 printui-two-sided-printing = การพิมพ์สองด้าน
 printui-duplex-checkbox = พิมพ์ทั้งสองด้าน
 printui-two-sided-printing-off = ปิด
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = พลิกตามขอบยาว
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = พลิกตามขอบสั้น
 # Section title for miscellaneous print options
 printui-options = ตัวเลือก
 printui-headers-footers-checkbox = พิมพ์หัวกระดาษและท้ายกระดาษ
