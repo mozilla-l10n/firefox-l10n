@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informação para resolução de problemas
     .accesskey = r
+menu-help-more-troubleshooting-info =
+    .label = Mais informação para diagnóstico
+    .accesskey = g
 menu-help-taskmanager =
     .label = Gestor de tarefas
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reiniciar com os extras ativados
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Modo de diagnóstico
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Desligar o modo de diagnóstico
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Abrir num novo separador
     .accesskey = s
+places-open-in-tab =
+    .label = Abrir num novo separador
+    .accesskey = v
+places-open-all-bookmarks =
+    .label = Abrir todos os marcadores
+    .accesskey = b
 places-open-all-in-tabs =
     .label = Abrir tudo em separadores
     .accesskey = o
@@ -28,6 +34,24 @@ places-new-folder =
     .accesskey = a
 places-new-separator =
     .label = Novo separador
+    .accesskey = s
+places-open-in-window =
+    .label = Abrir numa nova janela
+    .accesskey = j
+places-open-in-private-window =
+    .label = Abrir numa nova janela privada
+    .accesskey = p
+places-add-bookmark =
+    .label = Adicionar marcador…
+    .accesskey = m
+places-add-folder-contextmenu =
+    .label = Adicionar pasta…
+    .accesskey = s
+places-add-folder =
+    .label = Adicionar pasta…
+    .accesskey = s
+places-add-separator =
+    .label = Adicionar separador
     .accesskey = s
 places-view =
     .label = Ver
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Propriedades
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Editar marcador…
+    .accesskey = i
+places-edit-generic =
+    .label = Editar…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores administrativos
@@ -69,3 +100,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Outros marcadores
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Remover marcador
+            [one] Remover marcador
+           *[other] Remover marcadores
+        }
+    .accesskey = e
+places-manage-bookmarks =
+    .label = Gerir marcadores
+    .accesskey = m
