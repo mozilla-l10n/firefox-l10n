@@ -296,6 +296,7 @@ identity-https-only-dropdown-off =
     .label = Сөндірулі
 identity-https-only-dropdown-off-temporarily =
     .label = Уақытша сөндірулі
+identity-https-only-info-turn-on2 = { -brand-short-name } мүмкін болған кезде байланысты қауіпсіз нұсқасына жаңартуы үшін, бұл сайт үшін тек-HTTPS режимін іске қосыңыз.
 identity-https-only-info-no-upgrade = Байланысты HTTP-дан жаңарту мүмкін емес.
 identity-permissions =
     .value = Рұқсаттар
