@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Reabrir separadores fechados
         }
     .accesskey = b
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir separador fechado
+            [one] Reabrir separador fechado
+           *[other] Reabrir separadores fechados
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Gerir extensão
     .accesskey = e
@@ -46,21 +54,18 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Ocultar automaticamente na barra de ferramentas
     .accesskey = a
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Ocultar botão quando vazio
+    .accesskey = z
 toolbar-context-menu-remove-from-toolbar =
     .label = Remover da barra de ferramentas
     .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalizar…
     .accesskey = P
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Sempre
-    .accesskey = S
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Nunca
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Apenas num novo separador
-    .accesskey = A
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Personalizar barra de ferramentas…
+    .accesskey = f
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Mostrar sempre
     .accesskey = r
