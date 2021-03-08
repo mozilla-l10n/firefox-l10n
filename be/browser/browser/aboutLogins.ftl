@@ -334,16 +334,28 @@ about-logins-import-report-description = Лагіны і паролі імпар
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Радок { $number }
+about-logins-import-report-row-description-no-change = Дублікат: дакладнае супадзенне з наяўным лагінам
+about-logins-import-report-row-description-modified = Наяўны лагін абноўлены
+about-logins-import-report-row-description-added = Новы лагін дададзены
+about-logins-import-report-row-description-error = Памылка: адсутнічае поле
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Памылка: некалькі значэнняў для { $field }
+about-logins-import-report-row-description-error-missing-field = Памылка: адсутнічае { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новы лагін дададзены</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новыя лагіны дададзены</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых лагінаў дададзена</div>
+    }
 
 ## Logins import report page
 

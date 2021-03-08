@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Іншыя прылады
 appmenuitem-exit =
     .label = Выйсці
+appmenu-menu-button-closed =
+    .tooltiptext = Адкрыць меню праграмы
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Закрыць меню праграмы
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,7 +62,11 @@ appmenu-fxa-header =
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Апошняя сінхранізацыя { $time }
     .label = Апошняя сінхранізацыя { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Сінхранізаваць і захаваць дадзеныя
 appmenu-fxa-signed-in-label = Увайсці
+appmenu-fxa-setup-sync =
+    .label = Уключыць сінхранізацыю…
 appmenu-fxa-show-more-tabs = Паказаць больш картак
 appmenuitem-save-page =
     .label = Захаваць старонку як…

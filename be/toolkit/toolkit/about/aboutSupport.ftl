@@ -417,3 +417,7 @@ support-printing-prefs-value = Значэнне
 support-remote-experiments-title = Аддаленыя эксперыменты
 support-remote-experiments-name = Назва
 support-remote-experiments-branch = Галіна эксперыменту
+support-remote-experiments-see-about-studies = Гл. <a data-l10n-name="support-about-studies-link">about:studies</a> для дадатковай інфармацыі, у тым ліку пра тое, як адключыць асобныя эксперыменты або забараніць { -brand-short-name } запускаць эксперыменты такога тыпу ў будучыні.
+support-remote-features-title = Аддаленыя функцыі
+support-remote-features-name = Назва
+support-remote-features-status = Стан
