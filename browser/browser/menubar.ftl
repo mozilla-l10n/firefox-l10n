@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informations de dépannage
     .accesskey = I
+menu-help-more-troubleshooting-info =
+    .label = Plus d’informations de dépannage
+    .accesskey = t
 menu-help-taskmanager =
     .label = Gestionnaire de tâches
 menu-help-report-site-issue =
@@ -338,6 +341,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Redémarrer avec les modules activés…
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Mode de dépannage
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
