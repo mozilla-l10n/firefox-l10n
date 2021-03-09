@@ -99,6 +99,9 @@ menu-file-print =
 menu-file-import-from-another-browser =
     .label = Аз браузери дигар ворид кардан…
     .accesskey = А
+menu-file-go-offline =
+    .label = Дар офлайн кор кардан
+    .accesskey = Д
 
 ## Edit Menu
 
@@ -150,6 +153,15 @@ menu-view-full-zoom-actual-size =
 menu-view-full-zoom-toggle =
     .label = Калон кардани танҳо андозаи матн
     .accesskey = К
+menu-view-page-style-menu =
+    .label = Услуби саҳифа
+    .accesskey = У
+menu-view-page-style-no-style =
+    .label = Бе услуб
+    .accesskey = Б
+menu-view-page-basic-style =
+    .label = Услуби асосии саҳифа
+    .accesskey = У
 menu-view-charset =
     .label = Рамзгузории матн
     .accesskey = Р
@@ -205,8 +217,14 @@ menu-bookmarks-menu =
     .accesskey = Х
 menu-bookmarks-show-all =
     .label = Намоиш додани ҳамаи хатбаракҳо
+menu-bookmark-this-page =
+    .label = Гузоштани хатбарак барои ин саҳифа
 menu-bookmark-edit =
     .label = Таҳрир кардани ин хатбарак
+menu-bookmarks-all-tabs =
+    .label = Гузоштани хатбарак барои ҳамаи саҳифаҳо…
+menu-bookmarks-toolbar =
+    .label = Навори хатбаракҳо
 menu-bookmarks-other =
     .label = Хатбаракҳои дигар
 menu-bookmarks-mobile =
@@ -255,11 +273,16 @@ menu-preferences =
             [windows] И
            *[other] Х
         }
+menu-tools-layout-debugger =
+    .label = Ислоҳи нуқсонҳои тарҳрезӣ
+    .accesskey = И
 
 ## Window Menu
 
 menu-window-menu =
     .label = Равзана
+menu-window-bring-all-to-front =
+    .label = Ҳамаи равзанаҳо ба пеш гузошта шаванд
 
 ## Help Menu
 
@@ -284,12 +307,27 @@ menu-window-menu =
 menu-help =
     .label = Кумак
     .accesskey = К
+menu-help-product =
+    .label = Кумаки { -brand-shorter-name }
+    .accesskey = К
+menu-help-show-tour =
+    .label = Пешнамоиши { -brand-shorter-name }
+    .accesskey = П
+menu-help-import-from-another-browser =
+    .label = Аз браузери дигар ворид кардан…
+    .accesskey = А
 menu-help-keyboard-shortcuts =
     .label = Миёнбурҳои клавиатура
     .accesskey = М
 menu-get-help =
     .label = Гирифтани кумак
     .accesskey = Г
+menu-help-troubleshooting-info =
+    .label = Маълумот барои ислоҳи нуқсонҳо
+    .accesskey = М
+menu-help-more-troubleshooting-info =
+    .label = Маълумоти бештар оид ба ислоҳи нуқсонҳо
+    .accesskey = М
 menu-help-taskmanager =
     .label = Мудири вазифаҳо
 menu-help-report-site-issue =
