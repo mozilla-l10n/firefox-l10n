@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Fleire verktøy
 appmenuitem-exit =
     .label = Avslutt
+appmenu-menu-button-closed =
+    .tooltiptext = Opne program-meny
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Lat att program-meny
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
