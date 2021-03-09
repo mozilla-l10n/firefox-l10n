@@ -13,3 +13,4 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } al à blocât ches
 safeb-palm-advisory-desc = Consei furnît di <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Torne indaûr
 safeb-palm-see-details-label = Viôt i detais
+safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> al è stât <a data-l10n-name='error_desc_link'>segnalât tant che sît ingjanôs</a>. Tu puedis <a data-l10n-name='report_detection'>segnalâ un erôr relatîf aa chest avîs</a> opûr <a data-l10n-name='ignore_warning_link'>ignorâ il risi</a> e visitâ chest sît che nol è sigûr.
