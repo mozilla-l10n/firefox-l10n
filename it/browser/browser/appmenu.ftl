@@ -180,7 +180,7 @@ appmenu-help-enter-troubleshoot-mode =
     .label = Modalità risoluzione problemi
     .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
-    .label = Disattiva modalità risoluzione problemi
+    .label = Disattiva Modalità risoluzione problemi
     .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive

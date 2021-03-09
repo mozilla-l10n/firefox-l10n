@@ -337,7 +337,7 @@ menu-help-enter-troubleshoot-mode =
     .label = Modalità risoluzione problemi
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
-    .label = Disattiva modalità risoluzione problemi
+    .label = Disattiva Modalità risoluzione problemi
     .accesskey = m
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
