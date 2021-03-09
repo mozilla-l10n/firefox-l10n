@@ -101,11 +101,16 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Жоғарыдағы таңдауды елемей, барлық тіркелген ағындарды жазу
+perftools-tools-threads-input-label =
+    .title = Бұл ағын атаулары - профильдеушіде ағындар профильдеуін іске қосу үшін қолданылатын үтірлермен ажыратылған тізім. Бұл атау қосылатын ағын атауымен жартылай сәйкестік де бола алады. Ол бос аралықтарға сезімтал.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
 ## preferences are true.
 
 -profiler-brand-name = Firefox профильдеушісі
+perftools-onboarding-message = <b>Жаңа</b>: { -profiler-brand-name } енді әзірлеуші құралдарына ендірілген. Бұл мүмкіндігі көп жаңа құрал туралы <a>көбірек біліңіз</a>.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Белгілі бір шектелген уақыт ішінде, сіз түпнұсқа өнімділік панеліне <a>{ options-context-advanced-settings }</a> арқылы қатынай аласыз)
 perftools-onboarding-close-button =
     .aria-label = Қарсы алу хабарламасын жабу
