@@ -89,13 +89,18 @@ perftools-thread-style-thread =
     .title = Стильдерді есептеу бірнеше ағын арасында бөлінген
 pref-thread-stream-trans =
     .title = Желілік ағындық транспорты
+perftools-thread-socket-thread =
+    .title = Желілік код кез келген бұғаттаушы сокет шақыруларын орындайтын ағын
 perftools-thread-img-decoder =
     .title = Суреттерді декодтау ағындары
 perftools-thread-dns-resolver =
     .title = DNS шешуі бұл ағында орын алады
+perftools-thread-js-helper =
+    .title = JS қозғалтқышының фондық жұмысы, мысалы, басты ағыннан тыс компиляция
 
 ##
 
+perftools-record-all-registered-threads = Жоғарыдағы таңдауды елемей, барлық тіркелген ағындарды жазу
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
