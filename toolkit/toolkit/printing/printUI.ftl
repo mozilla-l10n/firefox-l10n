@@ -49,11 +49,16 @@ printui-scale-pcent = 倍率
 printui-two-sided-printing = 両面印刷
 printui-duplex-checkbox = 両面に印刷する
 
+printui-two-sided-printing-off = オフ
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = 長辺とじ
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = 短辺とじ
+
 # Section title for miscellaneous print options
 printui-options = オプション
 printui-headers-footers-checkbox = ヘッダーとフッターを印刷する
 printui-backgrounds-checkbox = 背景画像を印刷する
-
 printui-selection-checkbox = 選択範囲のみを印刷する
 
 printui-color-mode-label = カラーモード
@@ -116,6 +121,8 @@ printui-paper-tabloid = タブロイド (11"x17")
 
 printui-error-invalid-scale = 倍率は 10 から 200 までの間の数字を入力してください。
 printui-error-invalid-margin = 選択した用紙サイズに合う余白を入力してください。
+
+printui-error-invalid-copies = 部数は 1 から 10000 までの間の数字を入力してください。
 
 # Variables
 # $numPages (integer) - Number of pages
