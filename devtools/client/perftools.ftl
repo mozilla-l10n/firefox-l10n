@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Профильдеуші баптаулары
+perftools-intro-description =
+    Жазу profiler.firefox.com жаңа бетте ашады. Барлық деректер
+    жергілікті сақталады, бірақ сіз олармен бөлісу үшін оларды жүктеп жіберуді таңдай аласыз.
 
 ## All of the headings for the various sections.
 
@@ -22,6 +25,13 @@ perftools-heading-local-build = Жергілікті жинақ
 
 ##
 
+perftools-description-intro =
+    Жазу <a>profiler.firefox.com</a> жаңа бетте ашады. Барлық деректер
+    жергілікті сақталады, бірақ сіз олармен бөлісу үшін оларды жүктеп жіберуді таңдай аласыз.
+perftools-description-local-build =
+    Егер сіз бұл машинада өзіңіз құрастырған жинақты профильдейтін
+    болсаңыз, оның objdir бумасын төмендегі тізімге қосыңыз,
+    нәтижесінде ол бумадан да таңбалар ақпараты ізделетін болады.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -39,12 +49,23 @@ perftools-devtools-settings-label = Баптаулар
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Жекелік шолу режимі іске қосылған кезінде профильдеуші сөндіріледі.
+    Профильдеушіні қайта іске қосу үшін, барлық жекелік шолу терезелерін жабыңыз
+perftools-status-recording-stopped-by-another-tool = Жазбаны басқа құрал тоқтатты.
+perftools-status-restart-required = Бұл мүмкіндікті іске қосу үшін браузер қайта іске қосылуы керек.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = Жазуды тоқтату
+perftools-request-to-get-profile-and-stop-profiler = Профиль түсірілуде
 
 ##
 
+perftools-button-start-recording = Жазуды бастау
+perftools-button-capture-recording = Жазуды түсіру
+perftools-button-cancel-recording = Жазуды болдырмау
+perftools-button-save-settings = Баптауларды сақтап, оралу
 perftools-button-restart = Қайта қосу
 perftools-button-add-directory = Буманы қосу
 perftools-button-remove-directory = Таңдалғанды өшіру
@@ -52,6 +73,20 @@ perftools-button-edit-settings = Баптауларды түзету…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Аталық үрдіс те, мазмұн үрдісі де үшін басты үрдістер
+perftools-thread-compositor =
+    .title = Парақтағы әр түрлі салынған элементтерді біріктіреді
+perftools-thread-dom-worker =
+    .title = Бұл web worker және service worker-ді де өңдейді
+perftools-thread-renderer =
+    .title = WebRender іске қосылған кезде, бұл ағын OpenGL шақыруларын орындайды
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend ағыны
+perftools-thread-img-decoder =
+    .title = Суреттерді декодтау ағындары
+perftools-thread-dns-resolver =
+    .title = DNS шешуі бұл ағында орын алады
 
 ##
 
@@ -61,3 +96,5 @@ perftools-button-edit-settings = Баптауларды түзету…
 ## preferences are true.
 
 -profiler-brand-name = Firefox профильдеушісі
+perftools-onboarding-close-button =
+    .aria-label = Қарсы алу хабарламасын жабу
