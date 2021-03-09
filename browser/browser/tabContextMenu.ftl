@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Rouvrir dans un onglet conteneur
     .accesskey = O
+tab-context-open-in-container =
+    .label = Ouvrir dans un nouveau conteneur
+    .accesskey = e
 move-to-start =
     .label = Déplacer vers le début
     .accesskey = S
@@ -91,6 +94,14 @@ move-tabs =
 move-tab =
     .label = Déplacer l’onglet
     .accesskey = D
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Rouvrir l’onglet fermé
+            [one] Rouvrir l’onglet fermé
+           *[other] Rouvrir les onglets fermés
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->

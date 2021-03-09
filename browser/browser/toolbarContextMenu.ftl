@@ -24,6 +24,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Annuler la fermeture des onglets
         }
     .accesskey = n
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Rouvrir l’onglet fermé
+            [one] Rouvrir l’onglet fermé
+           *[other] Rouvrir les onglets fermés
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Gérer l’extension
     .accesskey = G
