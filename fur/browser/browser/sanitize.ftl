@@ -2,6 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Impostazions par netâ la cronologjie
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = Nete la cronologjie resinte
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Nete dute la cronologjie
+    .style = width: 34em
+clear-data-settings-label = Cuant che si siere, { -brand-short-name } al à di netâ dut in automatic
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -14,22 +28,16 @@
 clear-time-duration-prefix =
     .value = Dade di timp di scancelâ
     .accesskey = t
-
 clear-time-duration-value-last-hour =
     .label = La ultime ore
-
 clear-time-duration-value-last-2-hours =
     .label = Lis ultimis dôs oris
-
 clear-time-duration-value-last-4-hours =
     .label = Lis ultimis cuatri oris
-
 clear-time-duration-value-today =
     .label = Vuê
-
 clear-time-duration-value-everything =
     .label = Dut
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -37,42 +45,31 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Cronologjie
-
 item-cookies =
     .label = Cookies
     .accesskey = C
-
 item-active-logins =
     .label = Logins atîfs
     .accesskey = L
-
 item-cache =
     .label = Cache
     .accesskey = a
-
 data-section-label = Dâts
-
 item-site-preferences =
     .label = Preferencis sît
     .accesskey = s
-
 item-offline-apps =
     .label = Dâts dai sîts web fûr linie
     .accesskey = f
-
 sanitize-everything-undo-warning = No si pues anulâ cheste azion.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Nete fûr daûrman
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Dute la cronologjie e vignarà netade fûr.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
