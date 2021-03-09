@@ -123,6 +123,8 @@ clear-startup-cache-title = Prova a cancellare la cache di avvio
 clear-startup-cache-label = Cancella cache di avvio…
 startup-cache-dialog-title = Cancellazione cache di avvio
 startup-cache-dialog-body = Riavviare { -brand-short-name } per cancellare la cache di avvio. Questa operazione non modificherà le impostazioni esistenti né rimuoverà alcuna estensione installata in { -brand-short-name }.
+startup-cache-dialog-title2 = Riavviare { -brand-short-name } per cancellare la cache di avvio?
+startup-cache-dialog-body2 = Questa operazione non modificherà le impostazioni esistenti né rimuoverà le estensioni installate.
 restart-button-label = Riavvia
 
 ## Media titles
