@@ -238,6 +238,8 @@ about-logins-import-report-row-description-added = Воридшавии нав �
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Хато: Якчанд қимат барои { $field }
+about-logins-import-report-row-description-error-missing-field = Хато: { $field } намерасад
 
 ##
 ## Variables:

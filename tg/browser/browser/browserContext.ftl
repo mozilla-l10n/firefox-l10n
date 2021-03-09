@@ -99,6 +99,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Нусха бардоштани нишонии почтаи электронӣ
     .accesskey = Н
@@ -198,6 +203,9 @@ main-context-menu-audio-copy-location =
 main-context-menu-image-save-as =
     .label = Нигоҳ доштани тасвир ҳамчун…
     .accesskey = Н
+main-context-menu-image-desc =
+    .label = Дидани тавсиф
+    .accesskey = Д
 main-context-menu-video-save-as =
     .label = Нигоҳ доштани видео ҳамчун…
     .accesskey = Н
@@ -207,12 +215,18 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Нигоҳ доштани акси экран ҳамчун…
     .accesskey = Н
+main-context-menu-manage-logins =
+    .label = Идоракунии воридшавӣ…
+    .accesskey = И
 main-context-menu-view-page-source =
     .label = Дидани манбаи саҳифа
     .accesskey = Д
 main-context-menu-view-page-info =
     .label = Дидани иттилооти саҳифа
     .accesskey = Д
+main-context-menu-inspect =
+    .label = Баррасӣ
+    .accesskey = Б
 main-context-menu-eme-learn-more =
     .label = Маълумоти бештар дар бораи DRM…
     .accesskey = М
