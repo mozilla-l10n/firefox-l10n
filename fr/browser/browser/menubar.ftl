@@ -344,6 +344,9 @@ menu-help-safe-mode-with-addons =
 menu-help-enter-troubleshoot-mode =
     .label = Mode de dépannage
     .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Désactiver le mode de dépannage
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

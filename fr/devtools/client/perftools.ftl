@@ -98,5 +98,7 @@ perftools-thread-dns-resolver =
         [uppercase] Profileur de Firefox
     }
 perftools-onboarding-message = <b>Nouveau</b> : le { -profiler-brand-name } est à présent intégré dans les outils de développement. <a>En savoir plus</a> sur ce nouvel outil puissant.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (Pour une durée limitée, vous pouvez accéder au panneau de performances d’origine via <a>{ options-context-advanced-settings }</a>)
 perftools-onboarding-close-button =
     .aria-label = Fermer le message d’intégration
