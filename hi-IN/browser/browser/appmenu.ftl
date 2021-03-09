@@ -41,6 +41,9 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = अब तुल्यकालित करें
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-signed-in-label = साइन इन
 appmenuitem-save-page =
     .label = पृष्ठ ऐसे सहेजें…
 
@@ -116,6 +119,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = सक्षम सहयुक्तियों के साथ फिर आरंभ करें
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
