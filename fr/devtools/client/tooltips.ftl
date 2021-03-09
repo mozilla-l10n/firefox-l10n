@@ -30,6 +30,8 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> n’a a
 inactive-outline-radius-when-outline-style-auto-or-none = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car son <strong>outline-style</strong> est <strong>auto</strong> ou <strong>none</strong>.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> n’a aucun effet sur les éléments contenus dans un élément table.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> n’a aucun effet sur les éléments contenus dans un élément table à l’exception de ses cellules.
+inactive-css-not-table = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un tableau.
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un élément défilable.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -51,6 +53,8 @@ inactive-text-overflow-when-no-overflow-fix = Essayez d’ajouter <strong>overfl
 inactive-css-not-for-internal-table-elements-fix = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Essayez d’affecter à la propriété <strong>display</strong> une valeur autre que <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ou <strong>table-footer-group</strong>. { learn-more }
 inactive-outline-radius-when-outline-style-auto-or-none-fix = Essayez de définir sa propriété <strong>outline-style</strong> à une valeur autre qu’<strong>auto</strong> ou <strong>none</strong>. { learn-more }
+inactive-css-not-table-fix = Essayez d’ajouter <strong>display:table</strong> ou <strong>display:inline-table</strong>. { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = Essayez d’ajouter <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ou <strong>overflow:hidden</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
