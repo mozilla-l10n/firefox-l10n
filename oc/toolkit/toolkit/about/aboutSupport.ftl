@@ -409,6 +409,7 @@ support-printing-prefs-value = Valor
 support-remote-experiments-title = Experiéncias a distància
 support-remote-experiments-name = Nom
 support-remote-experiments-branch = Brancas experimentala
+support-remote-experiments-see-about-studies = Consultatz <a data-l10n-name="support-about-studies-link">about:studies</a> per mai d’informacions, subretot sul biais de desactivar las experiéncias individualas o per empachar { -brand-short-name } d’executar aqueste tipe d’experiéncia a l’avenidor.
 support-remote-features-title = Foncionalitats distantas
 support-remote-features-name = Nom
 support-remote-features-status = Estat
