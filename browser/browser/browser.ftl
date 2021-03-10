@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfòn de partejar :
     .accesskey = M
+popup-select-camera-device =
+    .value = Camèra :
+    .accesskey = C
+popup-select-microphone-device =
+    .value = Microfòn :
+    .accesskey = M
 popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.
 popup-screen-sharing-not-now =
     .label = Pas ara
@@ -383,6 +389,12 @@ popup-screen-sharing-never =
     .accesskey = p
 popup-silence-notifications-checkbox = Desactivar las notificacions de { -brand-short-name } pendent lo partatge
 popup-silence-notifications-checkbox-warning = { -brand-short-name } mostrarà pas de notificacions pendent lo partatge.
+popup-screen-sharing-block =
+    .label = Blocar
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Totjorn blocar
+    .accesskey = T
 
 ## WebRTC window or screen share tab switch warning
 

@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Recercar dins la pagina…
     .accesskey = R
+menu-edit-find-in-page =
+    .label = Recercar dins la pagina
+    .accesskey = R
 menu-edit-find-again =
     .label = Recercar lo seguent
     .accesskey = g
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = s
 menu-view-customize-toolbar =
     .label = Personalizar…
+    .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalizar la barra d'aisinas…
     .accesskey = P
 menu-view-sidebar =
     .label = Panèl lateral
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Afichar totes los marcapaginas
 menu-bookmark-this-page =
     .label = Marcar aquesta pagina
+menu-bookmark-current-tab =
+    .label = Marcar l’onglet actual
 menu-bookmark-edit =
     .label = Modificar aqueste marcapagina
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = M
 menu-tools-fxa-sign-in =
     .label = Se connectar a { -brand-product-name }…
+    .accesskey = c
+menu-tools-extensions =
+    .label = Extensions e tèmas
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Se connectar
     .accesskey = c
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] f
+        }
+menu-settings =
+    .label = Paramètres
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Desbugador de disposicion

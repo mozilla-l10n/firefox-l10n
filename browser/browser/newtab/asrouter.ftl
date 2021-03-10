@@ -268,6 +268,8 @@ cfr-doorhanger-doh-body = Vòstra vida privada es importanta. Ara { -brand-short
 cfr-doorhanger-doh-header = Requèstas DNS mai seguras e chifradas
 cfr-doorhanger-doh-primary-button = Òc, plan comprés
     .accesskey = c
+cfr-doorhanger-doh-primary-button-2 = OK
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Desactivar
     .accesskey = D
 
