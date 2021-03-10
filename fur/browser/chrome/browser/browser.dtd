@@ -114,12 +114,16 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY viewBookmarksToolbar.label         "Visualize la sbare dai segnelibris">
 <!ENTITY hideBookmarksToolbar.label         "Plate la sbare dai segnelibris">
 <!ENTITY searchBookmarks.label              "Cîr segnelibris">
+<!ENTITY bookmarkingTools.label             "Imprescj pai segnelibris">
+<!ENTITY addBookmarksMenu.label             "Zonte il menù dai segnelibris te sbare dai struments">
+<!ENTITY removeBookmarksMenu.label          "Gjave menù dai segnelibris de sbare dai struments">
 
 <!ENTITY historyButton.label            "Cronologjie">
 
-<!ENTITY downloads.label              "Discjamadis">
+<!ENTITY downloads.label              "Discjamâts">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Discjamâts">
 <!ENTITY addons.label                 "Zontis">
 
 <!ENTITY webDeveloperMenu.label       "Svilupadôr dal Web">
@@ -130,7 +134,10 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY editMenu.label         "Modifiche">
 <!ENTITY preferencesCmd2.label       "Opzions">
 <!ENTITY preferencesCmdUnix.label       "Preferencis">
+<!ENTITY logins.label                           "Credenziâls e passwords">
 
+<!ENTITY overflowCustomizeToolbar.label       "Personalize sbare dai struments…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "P">
 
 <!ENTITY historyMenu.label "Cronologjie">
 <!ENTITY historyUndoMenu.label "Schedis sieradis di resint">
@@ -140,35 +147,58 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.showAll.label "Visualize dute la cronologjie">
 
 <!ENTITY appMenuHistory.clearRecent.label "Nete la cronologjie resinte...">
-<!ENTITY appMenuHistory.restoreSession.label "Ripristine la session precedent">
-<!ENTITY appMenuHistory.viewSidebar.label "Viôt la sbare da storie">
+<!ENTITY appMenuHistory.restoreSession.label "Ripristine la session precedente">
+<!ENTITY appMenuHistory.viewSidebar.label "Visualize la sbare laterâl de cronologjie">
+<!ENTITY appMenuHistory.hideSidebar.label "Plate la sbare laterâl de cronologjie">
+<!ENTITY appMenuHistory.recentHistory.label "Cronologjie resinte">
+<!ENTITY appMenuHelp.label "Jutori">
 
+<!ENTITY appMenuRemoteTabs.label "Schedis sincronizadis">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Nissune schede vierte">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Mostre di plui">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Mostre plui schedis di chest dispositîf">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Mostre dutis">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Mostre dutis lis schedis di chest dispositîf">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ative la sincronizazion des schedis par visualizâ une liste di schedis dai tiei altris dispositîfs.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Desideristu viodi achì lis tôs schedis di altris dispositîfs?">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Vierç lis preferencis di sincronizazion">
+<!ENTITY appMenuRemoteTabs.welcome.label "Visualize une liste di schedis dai tiei altris dispositîfs.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Al è necessari verificâ il to account.">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Jentre su &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Ative &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Gjestìs dispositîfs…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Visualize la sbare laterâl des schedis sincronizadis">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Plate la sbare laterâl des schedis sincronizadis">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conet un altri dispositîf">
 
+<!ENTITY appMenuRecentHighlights.label "Elements in evidence resints">
 
-<!ENTITY customizeMenu.addToToolbar.label "Zonte a la sbare dai strumens">
+<!ENTITY customizeMenu.addToToolbar.label "Zonte ae sbare dai struments">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Z">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
-<!ENTITY customizeMenu.removeFromToolbar.label "Gjave de rie dai imprescj">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Zonte al menù sprolungje">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Mole dal menù sprolungje">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "O">
+<!ENTITY customizeMenu.removeFromToolbar.label "Gjave de sbare dai struments">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "G">
-<!ENTITY customizeMenu.addMoreItems.label "Zonte plui arguments">
+<!ENTITY customizeMenu.addMoreItems.label "Zonte plui elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Z">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
