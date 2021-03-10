@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Vierç il menu">
+
 <!ENTITY navbarOverflow.label                "Altris imprescj">
 
 <!-- Tab context menu -->
@@ -100,9 +101,9 @@ this container is a toolbar. This avoids double-speaking. -->
 
 
 <!ENTITY historyMenu.label "Cronologjie">
-<!ENTITY historyUndoMenu.label "Lengutis sieradis di recent">
+<!ENTITY historyUndoMenu.label "Schedis sieradis di resint">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Barcons sierâts che al è pôc">
+<!ENTITY historyUndoWindowMenu.label "Barcons sierâts di resint">
 
 <!ENTITY appMenuHistory.showAll.label "Visualize dute la cronologjie">
 
@@ -113,6 +114,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->

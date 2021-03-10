@@ -78,11 +78,44 @@ tab-context-share-more =
 tab-context-undo-close-tabs =
     .label =
         { $tabCount ->
+            [1] Anule il sierâ la schede
+            [one] Anule il sierâ la schede
+           *[other] Anule il sierâ lis schedis
+        }
+    .accesskey = u
+close-tab =
+    .label = Siere schede
+    .accesskey = S
+close-tabs =
+    .label = Siere schedis
+    .accesskey = S
+move-tabs =
+    .label = Sposte schedis
+    .accesskey = o
+move-tab =
+    .label = Sposte schede
+    .accesskey = p
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
             [1] Torne vierç schede sierade
             [one] Torne vierç schede sierade
            *[other] Torne vierç schedis sieradis
         }
-    .accesskey = T
-close-tab =
-    .label = Siere schede
-    .accesskey = S
+    .accesskey = o
+tab-context-close-tabs =
+    .label =
+        { $tabCount ->
+            [1] Siere schede
+            [one] Siere schede
+           *[other] Siere schedis
+        }
+    .accesskey = c
+tab-context-move-tabs =
+    .label =
+        { $tabCount ->
+            [1] Sposte schede
+            [one] Sposte schede
+           *[other] Sposte schedis
+        }
+    .accesskey = h
