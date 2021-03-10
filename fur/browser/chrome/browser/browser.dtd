@@ -64,6 +64,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Invie une schede daurman a ducj i dispositîfs conetûts al to account.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -71,10 +72,14 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "al è cumò a plen visôr">
+<!ENTITY fullscreenWarning.generic.label "Chest document cumò al è a plen visôr">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Jes dal plen visôr (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Jes dal plen visôr (esc)">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -82,22 +87,33 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "al à il control dal to pontadôr. Frache Esc par tornâ a cjapâ il control.">
+<!ENTITY pointerlockWarning.generic.label "Chest document al à il control dal to pontadôr. Frache Esc par tornâ a cjapâ il control.">
 
 <!ENTITY showAllBookmarks2.label "Mostre ducj i segnelibris">
+<!ENTITY recentBookmarks.label "Metûts tai segnelibris di resint">
 <!ENTITY bookmarksToolbarChevron.tooltip "Fâs viodi altris segnelibris">
 
 <!ENTITY printButton.label            "Stampe">
 <!ENTITY printButton.tooltip          "Stampe cheste pagjine">
 
+<!ENTITY searchItem.title             "Cîr">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Cjase">
+<!ENTITY homeButton.defaultPage.tooltip "Pagjine iniziâl di &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Segnelibris">
 
-<!ENTITY viewBookmarksSidebar2.label        "Viôt la sbare in bande dai Segnelibris">
-<!ENTITY viewBookmarksToolbar.label         "Viôt Bande dai Segnelibris">
-<!ENTITY searchBookmarks.label              "Cîr tai segnelibris">
+<!ENTITY bookmarksSubview.label             "Segnelibris">
+<!ENTITY bookmarksMenuButton2.label         "Menù dai segnelibris">
+<!ENTITY bookmarksMenuButton.other.label    "Altris segnelibris">
+<!ENTITY bookmarksMenuButton.mobile.label   "Segnelibris mobii">
+<!ENTITY viewBookmarksSidebar2.label        "Viôt la sbare laterâl dai Segnelibris">
+<!ENTITY hideBookmarksSidebar.label         "Plate la sbare laterâl dai segnelibris">
+<!ENTITY viewBookmarksToolbar.label         "Visualize la sbare dai segnelibris">
+<!ENTITY hideBookmarksToolbar.label         "Plate la sbare dai segnelibris">
+<!ENTITY searchBookmarks.label              "Cîr segnelibris">
 
 <!ENTITY historyButton.label            "Cronologjie">
 
