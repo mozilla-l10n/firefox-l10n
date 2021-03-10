@@ -378,6 +378,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon, kotryž ma so hromadźe wužiwać:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
 popup-all-windows-shared = Wšě widźomne wokna na wašej wobrazowce budu so dźělić.
 popup-screen-sharing-not-now =
     .label = Nic nětko
@@ -387,6 +393,13 @@ popup-screen-sharing-never =
     .accesskey = e
 popup-silence-notifications-checkbox = Zdźělenja w { -brand-short-name } znjemóžnić, mjeztym zo dźěliće
 popup-silence-notifications-checkbox-warning = { -brand-short-name } njebudźe zdźělenja pokazować, mjeztym zo dźěliće.
+popup-screen-sharing-block =
+    .label = Blokować
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Přeco blokować
+    .accesskey = P
+popup-mute-notifications-checkbox = Zdźělenki websydła při dźělenju zněmić
 
 ## WebRTC window or screen share tab switch warning
 
