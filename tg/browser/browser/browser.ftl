@@ -178,7 +178,7 @@ search-one-offs-context-open-new-tab =
     .label = Ҷустуҷӯ дар варақаи нав
     .accesskey = Ҷ
 search-one-offs-context-set-as-default =
-    .label = Танзим кардани ҳамчун низоми ҷустуҷӯии пешфарз
+    .label = Танзим кардан ҳамчун низоми ҷустуҷӯии пешфарз
     .accesskey = Т
 search-one-offs-context-set-as-default-private =
     .label = Танзим кардан ҳамчун низоми ҷустуҷӯии пешфарз барои равзанаи махфӣ
@@ -219,6 +219,11 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Пайвастшавӣ бехатар нест
+identity-connection-secure = Пайвастшавӣ бехатар аст
+identity-connection-internal = Ин саҳифаи бехатари { -brand-short-name } мебошад.
+identity-connection-file = Ин саҳифа дар компютери шумо нигоҳ дошта мешавад.
+identity-extension-page = Ин саҳифа аз васеъшавӣ бор карда шудааст.
 identity-https-only-connection-upgraded = (ба HTTPS такмил ёфт)
 identity-https-only-label = Реҷаи ТАНҲО-HTTPS
 identity-https-only-dropdown-on =
@@ -348,6 +353,11 @@ urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engi
 
 ## Subframe crash notification
 
+crashed-subframe-learnmore =
+    .label = Маълумоти бештар
+    .accesskey = М
+crashed-subframe-learnmore-link =
+    .value = Маълумоти бештар
 
 ## Bookmarks panels, menus and toolbar
 

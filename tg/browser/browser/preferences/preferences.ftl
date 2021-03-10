@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-learn-more = Маълумоти бештар
 
 ## Browser Restart Dialog
 
@@ -23,6 +24,7 @@ cancel-no-restart-button = Бекор кардан
 
 ## General Section
 
+browser-containers-learn-more = Маълумоти бештар
 containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошта шавад
 
 ## General Section - Language & Appearance
@@ -38,18 +40,24 @@ containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошт�
 
 ##
 
+play-drm-content-learn-more = Маълумоти бештар
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
 ## General Section - Performance
 
+performance-settings-learn-more = Маълумоти бештар
 
 ## General Section - Browsing
 
+browsing-picture-in-picture-learn-more = Маълумоти бештар
+browsing-media-control-learn-more = Маълумоти бештар
+browsing-cfr-recommendations-learn-more = Маълумоти бештар
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = Маълумоти бештар
 
 ## Home Section
 
@@ -66,6 +74,7 @@ update-in-progress-cancel-button = &Идома додан
 
 ##
 
+home-prefs-recommended-by-learn-more = Чӣ тавр кор мекунад
 
 ## Search Section
 
@@ -108,6 +117,8 @@ sync-device-name-cancel =
 
 ## Privacy Section - Logins and Passwords
 
+forms-breach-alerts-learn-more-link = Маълумоти бештар
+forms-primary-pw-learn-more-link = Маълумоти бештар
 
 ## OS Authentication dialog
 
@@ -117,12 +128,14 @@ sync-device-name-cancel =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Маълумоти бештар
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Маълумоти бештар
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -136,21 +149,32 @@ sync-device-name-cancel =
 
 ## Privacy Section - Permissions
 
+permissions-notification-link = Маълумоти бештар
+permissions-a11y-privacy-link = Маълумоти бештар
 
 ## Privacy Section - Data Collection
 
+collection-health-report-telemetry-disabled-link = Маълумоти бештар
+collection-health-report-link = Маълумоти бештар
+addon-recommendations-link = Маълумоти бештар
+collection-backlogged-crash-reports-link = Маълумоти бештар
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing-link = Маълумоти бештар
 
 ## Privacy Section - Certificates
 
+space-alert-learn-more-button =
+    .label = Маълумоти бештар
+    .accesskey = М
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-learn-more = Маълумоти бештар
 
 ## The following strings are used in the Download section of settings
 

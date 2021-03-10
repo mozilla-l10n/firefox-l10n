@@ -10,6 +10,7 @@
 
 cfr-doorhanger-extension-cancel-button = Ҳоло не
     .accesskey = н
+cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -24,9 +25,17 @@ cfr-doorhanger-extension-cancel-button = Ҳоло не
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Маълумоти бештар
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Хусусияти нав:
+cfr-whatsnew-button =
+    .label = Чӣ нав аст
+    .tooltiptext = Чӣ нав аст
+cfr-whatsnew-panel-header = Чӣ нав аст
 
 ## Search Bar
 
@@ -36,9 +45,11 @@ cfr-doorhanger-extension-cancel-button = Ҳоло не
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-cta = Маълумоти бештар
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Маълумоти бештар
 
 ## Fingerprinter Counter
 
@@ -76,6 +87,10 @@ cfr-doorhanger-extension-cancel-button = Ҳоло не
 ## Protections Dashboard message
 
 
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
+
 ## Better PDF message
 
 
@@ -84,6 +99,8 @@ cfr-doorhanger-extension-cancel-button = Ҳоло не
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-secondary-button = Маълумоти бештар
+    .accesskey = М
 
 ## What's new: Cookies message
 
@@ -92,4 +109,13 @@ cfr-doorhanger-extension-cancel-button = Ҳоло не
 
 
 ## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
 

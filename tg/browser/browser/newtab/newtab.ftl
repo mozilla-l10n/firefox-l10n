@@ -83,6 +83,7 @@ newtab-discovery-empty-section-topstories-try-again-button = Аз нав кӯш�
 
 ## Pocket Content Section.
 
+newtab-pocket-learn-more = Маълумоти бештар
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
