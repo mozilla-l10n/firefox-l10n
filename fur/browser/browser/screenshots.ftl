@@ -12,3 +12,11 @@ screenshots-download-button = Discjame
 screenshots-download-button-tooltip = Discjame la videade
 screenshots-copy-button = Copie
 screenshots-copy-button-tooltip = Copie la videade intes notis
+screenshots-meta-key =
+    { PLATFORM() ->
+        [macos] ⌘
+       *[other] Ctrl
+    }
+screenshots-notification-link-copied-title = Colegament copiât
+screenshots-notification-link-copied-details = Il colegament ae tô videade al è stât copiât intes notis. Frache { screenshots-meta-key }-V par tacâle.
+screenshots-notification-image-copied-title = Cature copiade
