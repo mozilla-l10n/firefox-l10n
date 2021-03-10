@@ -255,6 +255,9 @@ menu-tools-fxa-sign-in =
 menu-tools-extensions =
     .label = הרחבות וערכות נושא
     .accesskey = ה
+menu-tools-fxa-sign-in2 =
+    .label = כניסה
+    .accesskey = כ
 menu-tools-turn-on-sync =
     .label = הפעלת { -sync-brand-short-name }…
     .accesskey = ה
@@ -283,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] א
            *[other] ד
+        }
+menu-settings =
+    .label = הגדרות
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ג
+           *[other] ג
         }
 menu-tools-layout-debugger =
     .label = ניפוי שגיאות פריסה
