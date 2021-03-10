@@ -8,6 +8,8 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
+error-title-text = Хуш омадед ба одамон!
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 error-try-again = Аз нав кӯшиш кардан
     .label2 = Лутфан, ин тугмаро дубора зер накунед.
