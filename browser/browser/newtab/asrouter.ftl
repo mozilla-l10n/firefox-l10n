@@ -224,7 +224,7 @@ cfr-doorhanger-cryptominers-description = Na vašem soukromí záleží. { -bran
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     Od { $date } { -brand-short-name.gender ->
         [masculine] { -brand-short-name } zablokoval
@@ -236,6 +236,9 @@ cfr-doorhanger-milestone-heading =
         [few] více než <b>{ $blockedCount }</b> sledovací prvky
        *[other] více než <b>{ $blockedCount }</b> sledovacích prvků
     }.
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
@@ -280,6 +283,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu v obraze
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Ochrana soukromí na dosah ruky
 cfr-whatsnew-protections-body = Přehled ochrany soukromí obsahuje souhrnné informace o únicích dat a správě vašich hesel. Snad také zjistíte, následky kolika úniků dat už jste vyřešili, nebo jestli mohly být vaše přihlašovací údaje součástí nějakého nového úniku dat.
 cfr-whatsnew-protections-cta-link = Zobrazit přehled ochrany soukromí
@@ -301,6 +308,8 @@ cfr-whatsnew-better-pdf-body =
 cfr-doorhanger-doh-body = Na vašem soukromí záleží. V zájmu vaší ochrany nyní { -brand-short-name }, kdykoli je to možné, bezpečně směruje vaše DNS požadavky na partnerskou službu.
 cfr-doorhanger-doh-header = Bezpečnější, šifrované vyhledávání v DNS
 cfr-doorhanger-doh-primary-button = OK, rozumím
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Zakázat
     .accesskey = Z

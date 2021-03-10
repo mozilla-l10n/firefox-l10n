@@ -127,6 +127,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Najít na této stránce…
     .accesskey = N
+menu-edit-find-in-page =
+    .label = Najít na stránce
+    .accesskey = N
 menu-edit-find-again =
     .label = Najít další
     .accesskey = t
@@ -145,6 +148,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Nastavení tlačítek a lišt…
     .accesskey = V
+menu-view-customize-toolbar2 =
+    .label = Nastavení tlačítek a lišt…
+    .accesskey = v
 menu-view-sidebar =
     .label = Postranní lišta
     .accesskey = P
@@ -235,6 +241,8 @@ menu-bookmarks-show-all =
     .label = Zobrazit všechny záložky
 menu-bookmark-this-page =
     .label = Přidat stránku do záložek
+menu-bookmark-current-tab =
+    .label = Přidat současný panel do záložek
 menu-bookmark-edit =
     .label = Upravit záložku
 menu-bookmarks-all-tabs =
@@ -266,6 +274,12 @@ menu-tools-fxa-sign-in =
            *[other] aplikaci { -brand-product-name }
         }…
     .accesskey = p
+menu-tools-extensions =
+    .label = Rozšíření a motivy vzhledu
+    .accesskey = e
+menu-tools-fxa-sign-in2 =
+    .label = Přihlásit se
+    .accesskey = P
 menu-tools-turn-on-sync =
     .label = Zapnout { -sync-brand-short-name(case: "acc") }…
     .accesskey = n
@@ -300,6 +314,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] v
+        }
+menu-settings =
+    .label = Nastavení
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
         }
 menu-tools-layout-debugger =
     .label = Debugger rozložení
@@ -365,6 +386,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Technické informace
     .accesskey = T
+menu-help-more-troubleshooting-info =
+    .label = Další technické informace
+    .accesskey = t
 menu-help-taskmanager =
     .label = Správce úloh
 menu-help-report-site-issue =
@@ -378,6 +402,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Restartovat s povolenými doplňky
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Režim řešení potíží
+    .accesskey = m
+menu-help-exit-troubleshoot-mode =
+    .label = Ukončit režim řešení potíží
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

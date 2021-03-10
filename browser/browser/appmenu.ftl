@@ -33,6 +33,12 @@ appmenuitem-more-tools =
     .label = Další nástroje
 appmenuitem-exit =
     .label = Ukončit
+appmenu-menu-button-closed =
+    .tooltiptext = Otevře nabídku aplikace
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Zavře nabídku aplikace
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -169,6 +175,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Technické informace
     .accesskey = T
+appmenu-help-more-troubleshooting-info =
+    .label = Další technické informace
+    .accesskey = t
 appmenu-help-taskmanager =
     .label = Správce úloh
 appmenu-help-report-site-issue =
@@ -190,6 +199,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = Režim řešení potíží
+    .accesskey = m
+appmenu-help-exit-troubleshoot-mode =
+    .label = Ukončit režim řešení potíží
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

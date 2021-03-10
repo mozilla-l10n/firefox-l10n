@@ -415,6 +415,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Nezobrazovat oznámení od { -brand-short-name(case: "gen") } během sdílení
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nebude během sdílení zobrazovat žádná oznámení.
+popup-screen-sharing-block =
+    .label = Blokovat
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Vždy blokovat
+    .accesskey = V
+popup-mute-notifications-checkbox = Ztlumit oznámení ze serverů během sdílení
 
 ## WebRTC window or screen share tab switch warning
 
@@ -667,3 +674,7 @@ eme-notifications-drm-content-playing =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] aplikaci { -brand-short-name }
     } při práci s tímto obsahem.
+eme-notifications-drm-content-playing-manage = Nastavení
+eme-notifications-drm-content-playing-manage-accesskey = N
+eme-notifications-drm-content-playing-dismiss = Zavřít
+eme-notifications-drm-content-playing-dismiss-accesskey = Z
