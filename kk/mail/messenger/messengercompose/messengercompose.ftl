@@ -89,9 +89,27 @@ key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
 expand-attachment-pane-tooltip =
     .tooltiptext = Салынымдар панелін көрсету ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Салынымдар панелін жасыру ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+       *[other] Салыным(дар) ретінде қосу
+    }
+drop-file-label-inline =
+    { $count ->
+       *[other] Құрамасына қосу
+    }
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Бірінші ету
+move-attachment-left-panel-button =
+    .label = Солға жылжыту
+move-attachment-right-panel-button =
+    .label = Оңға жылжу
+move-attachment-last-panel-button =
+    .label = Соңғы ету
 button-return-receipt =
     .label = Түбіртек
     .tooltiptext = Бұл хабарлама үшін оқу туралы түбіртегін сұрау
