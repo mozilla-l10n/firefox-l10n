@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Arazoak konpontzeko informazioa…
     .accesskey = A
+menu-help-more-troubleshooting-info =
+    .label = Arazoak konpontzeko informazio gehiago
+    .accesskey = f
 menu-help-taskmanager =
     .label = Ataza-kudeatzailea
 menu-help-report-site-issue =
@@ -338,6 +341,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Berrabiarazi gehigarriak gaituta
     .accesskey = r
+menu-help-enter-troubleshoot-mode =
+    .label = Arazoak konpontzeko modua
+    .accesskey = m
+menu-help-exit-troubleshoot-mode =
+    .label = Desaktibatu arazoak konpontzeko modua
+    .accesskey = s
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Ireki lotura edukiontzi-fitxa berrian
     .accesskey = b
+main-context-menu-open-link-container =
+    .label = Ireki lotura edukiontzi berrian
+    .accesskey = d
 main-context-menu-open-link-new-window =
     .label = Ireki leiho berrian
     .accesskey = l
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Egin lotura honen laster-marka
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Egin loturaren laster-marka
+    .accesskey = s
 main-context-menu-save-link =
     .label = Gorde lotura honela…
     .accesskey = G
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopiatu helbide elektronikoa
     .accesskey = e
 main-context-menu-copy-link =
     .label = Kopiatu loturaren helbidea
+    .accesskey = K
+main-context-menu-copy-link-simple =
+    .label = Kopiatu lotura
     .accesskey = K
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopiatu audioaren helbidea
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Kopiatu irudiaren lotura
+    .accesskey = d
+main-context-menu-video-copy-link =
+    .label = Kopiatu bideoaren lotura
+    .accesskey = b
+main-context-menu-audio-copy-link =
+    .label = Kopiatu audioaren lotura
+    .accesskey = d
 main-context-menu-image-save-as =
     .label = Gorde irudia honela…
     .accesskey = G
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Ikusi irudiaren informazioa
     .accesskey = f
+main-context-menu-image-set-image-as-background =
+    .label = Ezarri irudia idazmahaiaren atzeko plano gisa…
+    .accesskey = z
 main-context-menu-image-desc =
     .label = Ikusi deskribapena
     .accesskey = d
@@ -275,6 +301,9 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Erabili sortutako pasahitza…
     .accesskey = s
+main-context-menu-manage-logins =
+    .label = Kudeatu saio-hasierak…
+    .accesskey = K
 main-context-menu-keyword =
     .label = Gehitu bilaketa honentzat gako-hitza…
     .accesskey = k
@@ -332,6 +361,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Ikuskatu elementua
     .accesskey = s
+main-context-menu-inspect =
+    .label = Ikuskatu
+    .accesskey = k
 main-context-menu-inspect-a11y-properties =
     .label = Ikuskatu erabilgarritasun-propietateak
 main-context-menu-eme-learn-more =
