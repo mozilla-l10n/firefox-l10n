@@ -45,6 +45,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkronizatu orain
+appmenu-fxa-show-more-tabs = Erakutsi fitxa gehiago
 appmenuitem-save-page =
     .label = Gorde orria honela…
 
@@ -100,6 +101,8 @@ profiler-popup-capture-shortcut =
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Kudeatu historia
 appmenu-reopen-all-tabs = Ireki berriro fitxa guztiak
 appmenu-reopen-all-windows = Ireki berriro leiho guztiak
 
@@ -128,6 +131,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Arazoak konpontzeko informazioa…
     .accesskey = A
+appmenu-help-more-troubleshooting-info =
+    .label = Arazoak konpontzeko informazio gehiago
+    .accesskey = f
 appmenu-help-taskmanager =
     .label = Ataza-kudeatzailea
 appmenu-help-report-site-issue =
@@ -149,6 +155,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = Arazoak konpontzeko modua
+    .accesskey = z
+appmenu-help-exit-troubleshoot-mode =
+    .label = Desaktibatu arazoak konpontzeko modua
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

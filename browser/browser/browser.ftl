@@ -523,6 +523,8 @@ crashed-subframe-message = <strong>Orriaren zati batek huts egin du</strong>. Ar
 crashed-subframe-learnmore =
     .label = Argibide gehiago
     .accesskey = A
+crashed-subframe-learnmore-link =
+    .value = Argibide gehiago
 crashed-subframe-submit =
     .label = Bidali txostena
     .accesskey = B
@@ -621,3 +623,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Gune honetako zenbait audiok edo bideok DRM softwarea darabil eta { -brand-short-name }(r)en eginbideak muga litzake.
+eme-notifications-drm-content-playing-manage = Kudeatu ezarpenak
+eme-notifications-drm-content-playing-manage-accesskey = K
+eme-notifications-drm-content-playing-dismiss = Baztertu
+eme-notifications-drm-content-playing-dismiss-accesskey = B
