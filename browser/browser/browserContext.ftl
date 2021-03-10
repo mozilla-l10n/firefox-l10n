@@ -298,6 +298,23 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = הצגת תמונת רקע
     .accesskey = ת
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = שימוש בכניסה שמורה
+    .accesskey = ש
+main-context-menu-use-saved-password =
+    .label = שימוש בססמה שמורה
+    .accesskey = ש
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = קבלת הצעה לססמה חזקה…
+    .accesskey = ק
 main-context-menu-manage-logins =
     .label = ניהול כניסות…
     .accesskey = נ
