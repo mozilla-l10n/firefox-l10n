@@ -392,6 +392,9 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } ndohechauka
 popup-screen-sharing-block =
     .label = Joko
     .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Ejoko tapiaite
+    .accesskey = w
 
 ## WebRTC window or screen share tab switch warning
 
