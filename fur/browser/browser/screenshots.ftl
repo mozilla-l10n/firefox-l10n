@@ -33,3 +33,4 @@ screenshots-empty-selection-error-title = La aree di selezion e je masse  piçul
 screenshots-private-window-error-title = { -screenshots-brand-name } al è disativât in modalitât navigazion privade
 screenshots-private-window-error-details = Nus displâs pal inconvenient. O stin lavorant su cheste funzionalitât pes publicazions che a vignaran.
 screenshots-generic-error-title = Orpo! { -screenshots-brand-name } al à dât di volte.
+screenshots-generic-error-details = No sin sigûrs di ce che al è sucedût. Vûstu tornâ a provâ o caturâ une istantanie di une pagjine divierse?
