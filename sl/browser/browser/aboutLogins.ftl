@@ -313,6 +313,7 @@ about-logins-import-dialog-error-file-format-title = Težava z obliko datoteke
 about-logins-import-dialog-error-file-format-description = Napačne ali manjkajoče glave stolpcev. Prepričajte se, da datoteka vsebuje stolpce za uporabniško ime, geslo in spletni naslov.
 about-logins-import-dialog-error-file-permission-title = Datoteke ni mogoče prebrati
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nima dovoljenja za branje datoteke. Poskusite spremeniti dovoljenja datoteke.
+about-logins-import-dialog-error-unable-to-read-title = Datoteke ni mogoče razčleniti
 about-logins-import-dialog-error-unable-to-read-description = Prepričajte se, da ste izbrali datoteko CSV ali TSV.
 about-logins-import-dialog-error-no-logins-imported = Uvožena ni bila nobena prijava
 about-logins-import-dialog-error-learn-more = Več o tem
