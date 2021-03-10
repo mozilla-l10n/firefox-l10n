@@ -376,6 +376,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Te delen microfoon:
     .accesskey = M
+popup-select-camera-device =
+    .value = Camera:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = Microfoon:
+    .accesskey = M
 popup-all-windows-shared = Alle zichtbare vensters op uw scherm worden gedeeld.
 popup-screen-sharing-not-now =
     .label = Niet nu
@@ -385,6 +391,9 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Notificaties van { -brand-short-name } uitschakelen tijdens delen
 popup-silence-notifications-checkbox-warning = { -brand-short-name } toont geen meldingen terwijl u deelt.
+popup-screen-sharing-block =
+    .label = Blokkeren
+    .accesskey = B
 
 ## WebRTC window or screen share tab switch warning
 
