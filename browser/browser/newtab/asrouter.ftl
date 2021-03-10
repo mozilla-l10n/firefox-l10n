@@ -196,11 +196,14 @@ cfr-doorhanger-cryptominers-description = 隐私是公民的基本权利。现�
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] 自{ $date }起，{ -brand-short-name } 已拦截超过 <b>{ $blockedCount }</b> 个跟踪器！
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] 自 { DATETIME($date, month: "long", year: "numeric") } 起，{ -brand-short-name } 已拦截超过 <b>{ $blockedCount }</b> 个跟踪器！
@@ -233,6 +236,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 画中画图标
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = 保护信息，一目了然
 cfr-whatsnew-protections-body = 保护信息面板包含有关数据外泄和密码管理的摘要报告。现在，您可以跟踪已处理的外泄事件数量，并检查是否有任何存放的密码已遭泄露。
 cfr-whatsnew-protections-cta-link = 查看保护信息面板
@@ -248,6 +255,8 @@ cfr-whatsnew-better-pdf-body = PDF 文档现可直接在 { -brand-short-name } �
 cfr-doorhanger-doh-body = 隐私是公民的基本权利。{ -brand-short-name } 现在会尽可能使用合作伙伴提供的一项服务处理您的 DNS 请求，让您上网更安全。
 cfr-doorhanger-doh-header = 更安全、经加密的 DNS 查询
 cfr-doorhanger-doh-primary-button = 好，知道了
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = 好的
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = 禁用
     .accesskey = D
