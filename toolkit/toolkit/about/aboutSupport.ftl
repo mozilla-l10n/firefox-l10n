@@ -130,10 +130,14 @@ sandbox-sys-call-number = Rendszerhívás
 sandbox-sys-call-args = Argumentumok
 safe-mode-title = Biztonságos mód kipróbálása
 restart-in-safe-mode-label = Újraindítás letiltott kiegészítőkkel…
+troubleshoot-mode-title = Problémák diagnosztizálása
+restart-in-troubleshoot-mode-label = Hibaelhárítási mód…
 clear-startup-cache-title = Próbálja meg üríteni az indítási gyorsítótárat
 clear-startup-cache-label = Indítási gyorsítótár törlése…
 startup-cache-dialog-title = Indítási gyorsítótár törlése
 startup-cache-dialog-body = Az indítási gyorsítótár ürítéséhez indítsa újra a { -brand-short-name }ot. Ez nem fogja megváltoztatni a beállításokat, és nem távolítja el a { -brand-short-name }hoz hozzáadott kiegészítőket.
+startup-cache-dialog-title2 = Újraindítja a { -brand-short-name }ot az indítási gyorsítótár törléséhez?
+startup-cache-dialog-body2 = Ez nem módosítja a beállításait, és nem távolít el kiegészítőket.
 restart-button-label = Újraindítás
 
 ## Media titles
