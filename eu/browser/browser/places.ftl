@@ -100,3 +100,6 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Beste laster-markak
+places-manage-bookmarks =
+    .label = Kudeatu laster-markak
+    .accesskey = K
