@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = 使用生成的密码…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = 使用存放的登录信息
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = 使用存放的密码
+    .accesskey = o
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = 建议高强度密码…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = 管理登录信息…
     .accesskey = M

@@ -366,6 +366,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = 共享的麦克风：
     .accesskey = M
+popup-select-camera-device =
+    .value = 摄像头：
+    .accesskey = C
+popup-select-microphone-device =
+    .value = 麦克风：
+    .accesskey = M
 popup-all-windows-shared = 您的屏幕上的所有可见窗口都将被共享。
 popup-screen-sharing-not-now =
     .label = 暂时不要
@@ -375,6 +381,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = 共享时，不显示 { -brand-short-name } 的通知
 popup-silence-notifications-checkbox-warning = { -brand-short-name } 将不会在共享时显示通知。
+popup-screen-sharing-block =
+    .label = 阻止
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = 一律阻止
+    .accesskey = w
+popup-mute-notifications-checkbox = 共享期间不显示网站通知
 
 ## WebRTC window or screen share tab switch warning
 
