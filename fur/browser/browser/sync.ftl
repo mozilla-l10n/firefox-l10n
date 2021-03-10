@@ -15,3 +15,7 @@ fxa-signout-dialog-heading = Disconetisi di { -fxaccount-brand-name }?
 fxa-signout-dialog-body = I dâts sincronizâts a restaran tal to account.
 fxa-signout-checkbox =
     .label = Elimine i dâts di chest dispositîf (credenziâls, passwords, cronologjie, segnelibris e vie indenant).
+fxa-signout-dialog =
+    .title = Disconession di { -fxaccount-brand-name }
+    .style = min-width: 375px;
+    .buttonlabelaccept = Disconet
