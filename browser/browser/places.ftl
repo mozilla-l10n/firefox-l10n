@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Otevřít v novém panelu
     .accesskey = p
+places-open-in-tab =
+    .label = Otevřít v novém panelu
+    .accesskey = p
+places-open-all-bookmarks =
+    .label = Otevřít všechny záložky
+    .accesskey = v
 places-open-all-in-tabs =
     .label = Otevřít vše v panelech
     .accesskey = p
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Nový oddělovač
     .accesskey = d
+places-open-in-window =
+    .label = Otevřít v novém okně
+    .accesskey = n
+places-open-in-private-window =
+    .label = Otevřít v novém anonymním okně
+    .accesskey = t
+places-add-bookmark =
+    .label = Nová záložka
+    .accesskey = z
+places-add-folder-contextmenu =
+    .label = Nová složka
+    .accesskey = s
+places-add-folder =
+    .label = Nová složka
+    .accesskey = s
+places-add-separator =
+    .label = Nový oddělovač
+    .accesskey = v
 places-view =
     .label = Zobrazit
     .accesskey = Z
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Vlastnosti
     .accesskey = V
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Upravit záložku…
+    .accesskey = U
+places-edit-generic =
+    .label = Upravit…
+    .accesskey = U
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Záložky spravované správcem
@@ -69,3 +100,14 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Ostatní záložky
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Odebrat záložku
+            [one] Odebrat záložku
+            [few] Odebrat záložky
+           *[other] Odebrat záložky
+        }
+    .accesskey = d
