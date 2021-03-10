@@ -153,6 +153,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Feilsøking
     .accesskey = F
+appmenu-help-more-troubleshooting-info =
+    .label = Mer feilsøkingsinformasjon
+    .accesskey = M
 appmenu-help-taskmanager =
     .label = Aktivitetsbehandler
 appmenu-help-report-site-issue =
@@ -174,6 +177,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = Feilsøkingsmodus
+    .accesskey = F
+appmenu-help-exit-troubleshoot-mode =
+    .label = Slå av feilsøkingsmodus
+    .accesskey = S
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
