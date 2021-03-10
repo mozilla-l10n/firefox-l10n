@@ -14,6 +14,8 @@ duplicate-tab =
 duplicate-tabs =
     .label = Podvoji zavihke
     .accesskey = o
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Zapri zavihke na desni
     .accesskey = i
@@ -82,6 +84,15 @@ move-tabs =
 move-tab =
     .label = Premakni zavihek
     .accesskey = k
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [one] Obnovi zaprti zavihek
+            [two] Obnovi zaprta zavihka
+            [few] Obnovi zaprte zavihke
+           *[other] Obnovi zaprte zavihke
+        }
+    .accesskey = h
 tab-context-close-tabs =
     .label =
         { $tabCount ->

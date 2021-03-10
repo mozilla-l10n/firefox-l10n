@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Odpri povezavo v novem zavihku vsebnika
     .accesskey = O
+main-context-menu-open-link-container =
+    .label = Odpri povezavo v novem vsebniku
+    .accesskey = v
 main-context-menu-open-link-new-window =
     .label = Odpri povezavo v novem oknu
     .accesskey = N
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Dodaj povezavo med zaznamke
     .accesskey = M
+main-context-menu-bookmark-link =
+    .label = Dodaj povezavo med zaznamke
+    .accesskey = m
 main-context-menu-save-link =
     .label = Shrani povezavo kot …
     .accesskey = k
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopiraj e-poštni naslov
     .accesskey = E
 main-context-menu-copy-link =
     .label = Kopiraj mesto povezave
+    .accesskey = i
+main-context-menu-copy-link-simple =
+    .label = Kopiraj povezavo
     .accesskey = i
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopiraj mesto zvoka
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Kopiraj povezavo do slike
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Kopiraj povezavo do videoposnetka
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Kopiraj povezavo do zvoka
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Shrani sliko kot …
     .accesskey = s
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Podatki o sliki
     .accesskey = o
+main-context-menu-image-set-image-as-background =
+    .label = Nastavi sliko kot ozadje namizja …
+    .accesskey = s
 main-context-menu-image-desc =
     .label = Pokaži opis
     .accesskey = S
@@ -275,6 +301,9 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Uporabi ustvarjeno geslo …
     .accesskey = g
+main-context-menu-manage-logins =
+    .label = Upravljanje prijav …
+    .accesskey = U
 main-context-menu-keyword =
     .label = Dodaj ključno besedo k iskanju …
     .accesskey = K
@@ -331,6 +360,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = s
 main-context-menu-inspect-element =
     .label = Preglej element
+    .accesskey = j
+main-context-menu-inspect =
+    .label = Preglej
     .accesskey = j
 main-context-menu-inspect-a11y-properties =
     .label = Preglej lastnosti dostopnosti

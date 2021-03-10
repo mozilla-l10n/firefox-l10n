@@ -318,6 +318,23 @@ about-logins-import-dialog-error-no-logins-imported = Uvožena ni bila nobena pr
 about-logins-import-dialog-error-learn-more = Več o tem
 about-logins-import-dialog-error-try-again = Poskusi znova …
 about-logins-import-dialog-error-cancel = Prekliči
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Vrstica { $number }
+about-logins-import-report-row-description-error = Napaka: Manjkajoče polje
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Napaka: Več vrednosti za { $field }
+about-logins-import-report-row-description-error-missing-field = Napaka: Manjka { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 

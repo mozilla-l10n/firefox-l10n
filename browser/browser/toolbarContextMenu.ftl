@@ -27,6 +27,15 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Ponovno odpri zavihke
         }
     .accesskey = P
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [one] Obnovi zaprti zavihek
+            [two] Obnovi zaprta zavihka
+            [few] Obnovi zaprte zavihke
+           *[other] Obnovi zaprte zavihke
+        }
+    .accesskey = h
 toolbar-context-menu-manage-extension =
     .label = Upravljaj razširitev
     .accesskey = U
@@ -54,15 +63,6 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Prilagodi …
     .accesskey = P
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Vedno
-    .accesskey = V
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Nikoli
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Samo na novih zavihkih
-    .accesskey = S
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Vedno prikaži
     .accesskey = V
