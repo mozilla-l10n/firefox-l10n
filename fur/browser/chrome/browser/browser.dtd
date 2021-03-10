@@ -5,9 +5,9 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
-<!ENTITY appmenu.tooltip                     "Vierç il menu">
+<!ENTITY appmenu.tooltip                     "Vierç il menù">
 
-<!ENTITY navbarOverflow.label                "Altris imprescj">
+<!ENTITY navbarOverflow.label                "Altris struments…">
 
 <!-- Tab context menu -->
 
@@ -17,34 +17,50 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fisse la schede">
-<!ENTITY  unpinTab.label                     "Disbloche la schede">
+<!ENTITY  unpinTab.label                     "Mole la schede">
 
-<!ENTITY  listAllTabs.label      "Liste dutis lis lengutis">
+<!ENTITY  listAllTabs.label      "Liste dutis lis schedis">
 
-<!ENTITY tabCmd.label "Gnove lengute">
-<!ENTITY openFileCmd.label "Vierç un file…">
+<!ENTITY tabCmd.label "Gnove schede">
+<!ENTITY openFileCmd.label "Vierç file…">
 <!ENTITY printCmd.label "Stampe…">
 
+<!ENTITY taskManagerCmd.label "Gjestôr ativitâts">
 
 <!ENTITY menubarCmd.label "Sbare dai menù">
 <!ENTITY menubarCmd.accesskey "m">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbarCmd.label "Bande dai Segnelibris">
+<!ENTITY navbar.accessibleLabel "Navigazion">
+<!ENTITY personalbarCmd.label "Sbare dai segnelibris">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY bookmarksToolbarItem.label "Elements de bande dai Segnelibris">
+<!ENTITY personalbar.accessibleLabel "Segnelibris">
+<!ENTITY bookmarksToolbarItem.label "Elements de sbare dai segnelibris">
 
-<!ENTITY fullScreenCmd.label "Dut il visôr">
+<!ENTITY fullScreenCmd.label "A plen visôr">
 
+<!ENTITY pictureInPictureHideToggle.label "Plate seletôr pal Picture-in-Picture">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "Impostazions di &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Conet un altri dispositîf…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+<!ENTITY fxa.menu.signin.label "Jentre su &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ative &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "Servizis di &brandProductName;">
+<!ENTITY fxa.menu.account.label "Account">
+<!ENTITY fxa.menu.settings.label "Impostazions">
+<!ENTITY fxa.menu.accountSettings.label "Impostazions account">
+<!ENTITY fxa.menu.manageAccount2.label "Gjestìs account">
+<!ENTITY fxa.menu.signOut.label "Disconet…">
+<!ENTITY fxa.menu.setupSync.label "Configure &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
