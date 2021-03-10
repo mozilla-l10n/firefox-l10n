@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Кодування тексту
     .accesskey = о
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Режим усунення проблем…
+    .accesskey = у
+menu-help-exit-troubleshoot-mode =
+    .label = Вимкнути режим усунення проблем
+    .accesskey = В
+menu-help-more-troubleshooting-info =
+    .label = Додаткова інформація про усунення проблем
+    .accesskey = Д
+
 ## Mail Toolbar
 
 toolbar-junk-button =
