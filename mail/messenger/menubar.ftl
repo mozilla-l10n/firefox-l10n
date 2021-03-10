@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Szövegkódolás
     .accesskey = k
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Hibakeresési mód…
+    .accesskey = H
+menu-help-exit-troubleshoot-mode =
+    .label = Hibakeresési mód kikapcsolása
+    .accesskey = k
+menu-help-more-troubleshooting-info =
+    .label = Több hibakeresési információ
+    .accesskey = T
+
 ## Mail Toolbar
 
 toolbar-junk-button =
