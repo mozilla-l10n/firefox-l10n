@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Bikoiztu fitxak
     .accesskey = B
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Itxi ezkerrera dauden fitxak
+    .accesskey = x
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Itxi eskuinera dauden fitxak
     .accesskey = s
@@ -44,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Ireki berriro edukiontzian
     .accesskey = b
+tab-context-open-in-container =
+    .label = Ireki edukiontzi berrian
+    .accesskey = e
 move-to-start =
     .label = Mugitu hasierara
     .accesskey = h
@@ -56,6 +66,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Itxi hainbat fitxa
     .accesskey = h
+tab-context-share-url =
+    .label = Partekatu
+    .accesskey = a
+tab-context-share-more =
+    .label = Gehiago…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
