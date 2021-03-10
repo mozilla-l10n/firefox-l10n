@@ -257,6 +257,7 @@ onboarding-multistage-theme-subtitle =
        *[other] aplikace { -brand-short-name }
     }
 onboarding-multistage-theme-primary-button-label = Uložit vzhled
+onboarding-multistage-theme-primary-button-label2 = Hotovo
 onboarding-multistage-theme-secondary-button-label = Teď ne
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatický

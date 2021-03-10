@@ -72,7 +72,7 @@ certificate-viewer-public-key-info = Informace o veřejném klíči
 certificate-viewer-miscellaneous = Různé
 certificate-viewer-fingerprints = Otisky
 certificate-viewer-basic-constraints = Základní omezení
-certificate-viewer-key-usages = Použití klíč
+certificate-viewer-key-usages = Použití klíče
 certificate-viewer-extended-key-usages = Rozšířená použití klíče
 certificate-viewer-ocsp-stapling = OCSP Stapling
 certificate-viewer-subject-key-id = ID klíče subjektu
@@ -102,7 +102,7 @@ certificate-viewer-download-pem-chain = PEM (řetězec)
     .download = { $fileName }-chain.pem
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-    .title = Toto rozšíření bylo označeno jako kritické, což znamená, že klienti musí certifikát odmítnou, pokud mu neporozumí.
+    .title = Toto rozšíření bylo označeno jako kritické, což znamená, že klienti musí certifikát odmítnout, pokud mu neporozumí.
 certificate-viewer-export = Exportovat
     .download = { $fileName }.pem
 
