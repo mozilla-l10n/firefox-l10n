@@ -373,6 +373,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = מיקרופון לשיתוף:
     .accesskey = מ
+popup-select-camera-device =
+    .value = מצלמה:
+    .accesskey = מ
+popup-select-microphone-device =
+    .value = מיקרופון:
+    .accesskey = ק
 popup-all-windows-shared = ישותפו כל החלונות הגלויים על המסך.
 popup-screen-sharing-not-now =
     .label = לא כעת
@@ -382,6 +388,13 @@ popup-screen-sharing-never =
     .accesskey = ע
 popup-silence-notifications-checkbox = השבתת התרעות מ־{ -brand-short-name } בזמן שיתוף
 popup-silence-notifications-checkbox-warning = ‏{ -brand-short-name } לא יציג התרעות בזמן השיתוף.
+popup-screen-sharing-block =
+    .label = לחסום
+    .accesskey = ח
+popup-screen-sharing-always-block =
+    .label = תמיד לחסום
+    .accesskey = ת
+popup-mute-notifications-checkbox = השתקת התרעות מאתרים בזמן שיתוף.
 
 ## WebRTC window or screen share tab switch warning
 
