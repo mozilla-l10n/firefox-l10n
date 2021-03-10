@@ -34,3 +34,7 @@ webrtc-minimize =
 # on macOS, as global menu bar items do not have native tooltips.
 webrtc-camera-system-menu =
     .label = Tu stâs condividint la tô fotocjamare. Fâs clic par controlâ la condivision.
+webrtc-microphone-system-menu =
+    .label = Tu stâs condividint il to microfon. Fâs clic par controlâ la condivision.
+webrtc-screen-system-menu =
+    .label = Tu stâs condividint un barcon o un schermi. Fâs clic par controlâ la condivision.
