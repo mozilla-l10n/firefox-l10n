@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+openpgp-cancel-key =
+    .label = Бас тарту
+    .tooltiptext = Кілт генерациядан бас тарту
 openpgp-key-gen-years-label =
     .label = жыл
 openpgp-key-gen-no-expiry-label =
@@ -25,8 +28,32 @@ openpgp-key-man-view-menu =
 openpgp-key-man-ctx-copy =
     .label = Көшіріп алу
     .accesskey = К
+openpgp-key-man-ctx-copy-fprs =
+    .label =
+        { $count ->
+           *[other] Баспалар
+        }
+    .accesskey = Б
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+           *[other] Кілт идентификаторы
+        }
+    .accesskey = К
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+           *[other] Ашық кілттер
+        }
+    .accesskey = А
 openpgp-key-man-close =
     .label = Жабу
+openpgp-key-man-reload =
+    .label = Кілт кэшін қайта жүктеу
+    .accesskey = й
+openpgp-key-man-change-expiry =
+    .label = Жарамдылық мерзімін өзгерту
+    .accesskey = е
 openpgp-delete-key =
     .label = Кілтті өшіру
     .accesskey = ш
