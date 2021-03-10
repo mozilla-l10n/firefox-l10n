@@ -16,3 +16,17 @@ troubleshoot-mode-reset-toolbars =
 troubleshoot-mode-change-and-restart =
     .label = Aplicar alterações e reiniciar
     .accesskey = A
+troubleshoot-mode-continue =
+    .label = Continuar em modo de solução de problemas
+    .accesskey = C
+troubleshoot-mode-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] Sair
+           *[other] Sair
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] r
+           *[other] r
+        }
