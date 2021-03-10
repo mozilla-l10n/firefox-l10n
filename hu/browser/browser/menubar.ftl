@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Keresés ezen az oldalon…
     .accesskey = e
+menu-edit-find-in-page =
+    .label = Keresés az oldalon…
+    .accesskey = K
 menu-edit-find-again =
     .label = Következő keresése
     .accesskey = z
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Testreszabás…
     .accesskey = T
+menu-view-customize-toolbar2 =
+    .label = Eszköztár testreszabása…
+    .accesskey = t
 menu-view-sidebar =
     .label = Oldalsáv
     .accesskey = O
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Minden könyvjelző megjelenítése
 menu-bookmark-this-page =
     .label = Oldal hozzáadása a könyvjelzőkhöz
+menu-bookmark-current-tab =
+    .label = Jelenlegi lap könyvjelzőzése
 menu-bookmark-edit =
     .label = Könyvjelző szerkesztése
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Bejelentkezés a { -brand-product-name }ba…
     .accesskey = B
+menu-tools-extensions =
+    .label = Kiegészítők és témák
+    .accesskey = K
+menu-tools-fxa-sign-in2 =
+    .label = Bejelentkezés
+    .accesskey = j
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } bekapcsolása…
     .accesskey = b
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] e
            *[other] e
+        }
+menu-settings =
+    .label = Beállítások
+    .accesskey =
+        { PLATFORM() ->
+            [windows] B
+           *[other] B
         }
 menu-tools-layout-debugger =
     .label = Elrendezési hibakereső

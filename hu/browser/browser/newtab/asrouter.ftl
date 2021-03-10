@@ -204,12 +204,15 @@ cfr-doorhanger-cryptominers-description = Számít az adatvédelem. A { -brand-s
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { $date } óta!
        *[other] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { $date } óta!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { DATETIME($date, month: "long", year: "numeric") } óta!
@@ -243,6 +246,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Kép a képben ikon
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = A védelmekről röviden
 cfr-whatsnew-protections-body = A Védelmi vezérlőpult összefoglaló jelentéseket tartalmaz az adatsértésekről és a jelszókezelésről. Most már nyomon tudja követni, hogy hány adatsértés történt, és megnézheti, hogy a mentett jelszavai megjelentek-e egy adatsértésben.
 cfr-whatsnew-protections-cta-link = Védelmi vezérlőpult megtekintése
@@ -258,6 +265,8 @@ cfr-whatsnew-better-pdf-body = A PDF-dokumentumok már közvetlenül a { -brand-
 cfr-doorhanger-doh-body = Számít az adatvédelem. A { -brand-short-name }, amikor csak lehet, biztonságosan továbbítja a DNS-kéréseit egy partnerszolgáltatóhoz, hogy megvédje Önt, miközben böngészik.
 cfr-doorhanger-doh-header = Biztonságosabb, titkosított DNS-keresések
 cfr-doorhanger-doh-primary-button = Rendben, értem
+    .accesskey = R
+cfr-doorhanger-doh-primary-button-2 = Rendben
     .accesskey = R
 cfr-doorhanger-doh-secondary-button = Letiltás
     .accesskey = t
