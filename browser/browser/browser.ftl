@@ -366,6 +366,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = 공유할 마이크:
     .accesskey = M
+popup-select-camera-device =
+    .value = 카메라:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = 마이크:
+    .accesskey = M
 popup-all-windows-shared = 화면에 표시되어 있는 모든 창을 공유합니다.
 popup-screen-sharing-not-now =
     .label = 나중에
@@ -375,6 +381,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = 공유하는 동안 { -brand-short-name }에서 알림을 사용 안 함
 popup-silence-notifications-checkbox-warning = { -brand-short-name }는 공유하는 동안 알림을 표시하지 않습니다.
+popup-screen-sharing-block =
+    .label = 차단
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = 항상 차단
+    .accesskey = w
+popup-mute-notifications-checkbox = 공유하는 동안 웹 사이트 알림 음소거
 
 ## WebRTC window or screen share tab switch warning
 

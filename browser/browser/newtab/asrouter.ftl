@@ -196,11 +196,14 @@ cfr-doorhanger-cryptominers-description = 개인 정보는 중요합니다. { -b
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name }가 { $date } 이후 <b>{ $blockedCount }</b>개 이상의 추적기를 차단했습니다!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name }가 { DATETIME($date, month: "long", year: "numeric") } 이후 <b>{ $blockedCount }</b>개 이상의 추적기를 차단했습니다!
@@ -233,6 +236,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 화면 속 화면 아이콘
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = 보호 기능을 한 눈에 확인
 cfr-whatsnew-protections-body = 보호 대시보드에는 데이터 유출 및 비밀번호 관리에 대한 요약 보고서가 포함되어 있습니다. 이제 해결된 유출 수를 추적하고 저장된 비밀번호 중 데이터 유출에 노출된 비밀번호가 있는지 확인할 수 있습니다.
 cfr-whatsnew-protections-cta-link = 보호 대시보드 보기
@@ -248,6 +255,8 @@ cfr-whatsnew-better-pdf-body = 이제 PDF 문서가 { -brand-short-name }에서 
 cfr-doorhanger-doh-body = 개인 정보 보호는 중요합니다. { -brand-short-name }는 탐색하는 동안 사용자를 보호하기 위해 가능하면 사용자의 DNS 요청을 파트너 서비스로 안전하게 라우팅합니다.
 cfr-doorhanger-doh-header = 더 안전하고, 암호화된 DNS 조회
 cfr-doorhanger-doh-primary-button = 확인
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = 확인
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = 사용 안 함
     .accesskey = D
