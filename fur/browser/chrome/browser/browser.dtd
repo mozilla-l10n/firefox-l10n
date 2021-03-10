@@ -204,21 +204,28 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Altri">
 
+<!ENTITY contentSearchSubmit.tooltip  "Invie ricercje">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Cîr">
+<!ENTITY searchIcon.tooltip           "Cîr">
 
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 
+<!ENTITY pageAction.copyLink.label    "Copie colegament">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.label        "Salve pagjine su Pocket">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketMenuitem.label         "Viôt la liste di Pocket">
 
-<!ENTITY emailPageCmd.label           "Mande leam par pueste...">
+<!ENTITY emailPageCmd.label           "Mande colegament vie e-mail...">
 
 <!ENTITY fullZoom.label                 "Zoom">
 
@@ -226,17 +233,17 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY quitApplicationCmdWin2.label       "Jes">
 <!ENTITY quitApplicationCmdWin2.accesskey   "J">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Jes di &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Jes di &brandShorterName;">
 <!ENTITY quitApplicationCmd.label       "Jes">
 <!ENTITY quitApplicationCmd.accesskey   "J">
-<!ENTITY quitApplicationCmdMac2.label   "Jes di &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "Jes di &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Gambie lis preferencis pal bloc dai barcons pop-up…">
-<!ENTITY editPopupSettings.label "Gambie lis opzions pal bloc dai barcons pop-up…">
+<!ENTITY editPopupSettingsUnix.label "Cambie lis preferencis pal bloc dai barcons a comparse…">
+<!ENTITY editPopupSettings.label "Modifiche lis opzions pal bloc dai barcons a comparse…">
 <!ENTITY editPopupSettings.accesskey "G">
 <!ENTITY dontShowMessage.accesskey "D">
 
@@ -247,10 +254,11 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Viôt le lengutis">
+<!ENTITY tabsToolbar.label "Schedis dal navigadôr">
 
-<!ENTITY syncBrand.shortName.label    "Sincronizazion">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Plate in automatic">
 
 
 <!ENTITY uiTour.infoPanel.close "Siere">
