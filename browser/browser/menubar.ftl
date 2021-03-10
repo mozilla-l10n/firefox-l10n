@@ -103,6 +103,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Trova in questa pagina…
     .accesskey = v
+menu-edit-find-in-page =
+    .label = Trova nella pagina…
+    .accesskey = v
 menu-edit-find-again =
     .label = Trova successivo
     .accesskey = u
@@ -120,6 +123,9 @@ menu-view-toolbars-menu =
     .accesskey = B
 menu-view-customize-toolbar =
     .label = Personalizza…
+    .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalizza barra degli strumenti…
     .accesskey = P
 menu-view-sidebar =
     .label = Barra laterale
@@ -211,6 +217,8 @@ menu-bookmarks-show-all =
     .label = Visualizza tutti i segnalibri
 menu-bookmark-this-page =
     .label = Aggiungi pagina ai segnalibri
+menu-bookmark-current-tab =
+    .label = Aggiungi scheda corrente ai segnalibri
 menu-bookmark-edit =
     .label = Modifica segnalibro
 menu-bookmarks-all-tabs =
@@ -233,8 +241,14 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Componenti aggiuntivi
     .accesskey = C
+menu-tools-extensions =
+    .label = Estensioni e temi
+    .accesskey = E
 menu-tools-fxa-sign-in =
     .label = Accedi a { -brand-product-name }…
+    .accesskey = c
+menu-tools-fxa-sign-in2 =
+    .label = Accedi
     .accesskey = c
 menu-tools-turn-on-sync =
     .label = Attiva { -sync-brand-short-name }…
@@ -263,6 +277,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Impostazioni
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
            *[other] n
         }
 menu-tools-layout-debugger =
