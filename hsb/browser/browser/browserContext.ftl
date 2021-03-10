@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Spłodźene hesło wužiwać…
     .accesskey = S
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Składowane přizjewjenje wužiwać
+    .accesskey = S
+main-context-menu-use-saved-password =
+    .label = Składowane hesło wužiwać
+    .accesskey = h
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Sylne hesło namjetować…
+    .accesskey = l
 main-context-menu-manage-logins =
     .label = Přizjewjenja zrjadować…
     .accesskey = P
