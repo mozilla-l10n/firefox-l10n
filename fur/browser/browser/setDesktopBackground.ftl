@@ -3,24 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-window =
-    .title = Impueste daûr dal scritori
-
+    .title = Stabilìs fondâl dal scritori
 set-desktop-background-accept =
-    .label = Impueste daûr dal scritori
-
+    .label = Stabilìs il fondâl dal scritori
 open-desktop-prefs =
-    .label = Vierç preferencis dal scritori
-
+    .label = Vierç lis preferencis dal scritori
+set-background-preview-unavailable = Anteprime no disponibile
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Pant
 set-background-color = Colôr:
-
 set-background-position = Posizion:
-
 set-background-tile =
     .label = Mosaic
-
 set-background-center =
     .label = Tal mieç
-
 set-background-stretch =
-    .label = Slargje
-
+    .label = Tire
+set-background-fill =
+    .label = Jemple
+set-background-fit =
+    .label = Adate
