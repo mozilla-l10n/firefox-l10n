@@ -371,6 +371,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfono da condividere:
     .accesskey = M
+popup-select-camera-device =
+    .value = Fotocamera:
+    .accesskey = F
+popup-select-microphone-device =
+    .value = Microfono:
+    .accesskey = M
 popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno condivise.
 popup-screen-sharing-not-now =
     .label = Non adesso
@@ -378,6 +384,14 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Mai
     .accesskey = M
+popup-screen-sharing-block =
+    .label = Blocca
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Blocca sempre
+    .accesskey = s
+
+popup-mute-notifications-checkbox = Disattiva notifiche dai siti web durante la condivisione
 popup-silence-notifications-checkbox = Disattiva notifiche di { -brand-short-name } durante la condivisione
 popup-silence-notifications-checkbox-warning = { -brand-short-name } non visualizzerà notifiche durante la condivisione.
 
