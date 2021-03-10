@@ -66,6 +66,16 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-add =
+    .aria-label = Гузоштани хатбарак барои ин саҳифа
+    .accesskey = Г
+    .tooltiptext = Гузоштани хатбарак барои ин саҳифа
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = Гузоштани хатбарак барои ин саҳифа
+    .accesskey = Г
+    .tooltiptext = Гузоштани хатбарак барои ин саҳифа ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Таҳрир кардани ин хатбарак
     .accesskey = х
@@ -82,12 +92,24 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Кушодани пайванд дар варақаи нав
     .accesskey = К
+main-context-menu-open-link-container-tab =
+    .label = Кушодани пайванд дар варақаи нави дарбаргиранда
+    .accesskey = К
+main-context-menu-open-link-container =
+    .label = Кушодани пайванд дар дарбаргирандаи нав
+    .accesskey = К
 main-context-menu-open-link-new-window =
     .label = Кушодани пайванд дар равзанаи нав
     .accesskey = К
 main-context-menu-open-link-new-private-window =
     .label = Кушодани пайванд дар равзанаи махфии нав
     .accesskey = К
+main-context-menu-bookmark-this-link =
+    .label = Гузоштани хатбарак барои ин пайванд
+    .accesskey = Г
+main-context-menu-bookmark-link =
+    .label = Гузоштани хатбарак барои пайванд
+    .accesskey = Г
 main-context-menu-save-link =
     .label = Нигоҳ доштани пайванд ҳамчун…
     .accesskey = Н
@@ -109,6 +131,9 @@ main-context-menu-copy-email =
     .accesskey = Н
 main-context-menu-copy-link =
     .label = Нусха бардоштани ҷойгиршавии пайванд
+    .accesskey = Н
+main-context-menu-copy-link-simple =
+    .label = Нусха бардоштани пайванд
     .accesskey = Н
 
 ## Media (video/audio) controls
@@ -200,9 +225,24 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Нусха бардоштани ҷойгиршавии аудио
     .accesskey = Н
+main-context-menu-image-copy-link =
+    .label = Нусха бардоштани пайванди тасвир
+    .accesskey = Н
+main-context-menu-video-copy-link =
+    .label = Нусха бардоштани пайванди видео
+    .accesskey = Н
+main-context-menu-audio-copy-link =
+    .label = Нусха бардоштани пайванди аудио
+    .accesskey = Н
 main-context-menu-image-save-as =
     .label = Нигоҳ доштани тасвир ҳамчун…
     .accesskey = Н
+main-context-menu-image-set-as-background =
+    .label = Танзим кардани ҳамчун заминаи мизи корӣ…
+    .accesskey = Т
+main-context-menu-image-info =
+    .label = Дидани иттилооти тасвир
+    .accesskey = Д
 main-context-menu-image-desc =
     .label = Дидани тавсиф
     .accesskey = Д

@@ -5,3 +5,8 @@
 crashed-close-tab-button = Пӯшидани варақа
 crashed-restore-tab-button = Барқарор кардани ин варақа
 crashed-restore-all-button = Барқарор кардани ҳамаи варақаҳои вайроншуда
+crashed-offer-help = Мо кумак карда метавонем!
+crashed-single-offer-help-message = Барои аз нав бор кардани саҳифа { crashed-restore-tab-button }-ро интихоб намоед.
+crashed-multiple-offer-help-message = Барои аз нав бор кардани саҳифа/саҳифаҳо { crashed-restore-tab-button } ё { crashed-restore-all-button }-ро интихоб намоед.
+crashed-request-help = Шумо ба мо кумак мекунед?
+crashed-request-report-title = Гузориш дар бораи ин варақа
