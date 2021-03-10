@@ -301,6 +301,26 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Vygenerovat bezpečné heslo…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Použit uložené uživatelské jméno
+    .accesskey = u
+main-context-menu-use-saved-password =
+    .label = Použít uložené heslo
+    .accesskey = u
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Navrhnou bezpečně vygenerované heslo…
+    .accesskey = g
+main-context-menu-manage-logins =
+    .label = Správa přihlašovacích údajů
+    .accesskey = S
 main-context-menu-keyword =
     .label = Přiřadit k tomuto vyhledávání klíčové slovo…
     .accesskey = h

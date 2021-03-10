@@ -26,6 +26,15 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Obnovit zavřené panely
         }
     .accesskey = t
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Obnovit zavřený panel
+            [one] Obnovit zavřený panel
+            [few] Obnovit zavřené panely
+           *[other] Obnovit zavřené panely
+        }
+    .accesskey = b
 toolbar-context-menu-manage-extension =
     .label = Nastavení tohoto rozšíření
     .accesskey = e
