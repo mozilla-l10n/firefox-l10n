@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Megosztandó mikrofon:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
 popup-all-windows-shared = A képernyő minden látható ablaka meg lesz osztva.
 popup-screen-sharing-not-now =
     .label = Most nem
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = S
 popup-silence-notifications-checkbox = A { -brand-short-name } értesítéseinek kikapcsolása megosztás közben
 popup-silence-notifications-checkbox-warning = A { -brand-short-name } nem fog értesítéseket megjeleníteni megosztás közben.
+popup-screen-sharing-block =
+    .label = Tiltás
+    .accesskey = T
+popup-screen-sharing-always-block =
+    .label = Tiltás mindig
+    .accesskey = i
+popup-mute-notifications-checkbox = Webhely értesítéseinek elnémítása megosztás közben
 
 ## WebRTC window or screen share tab switch warning
 
