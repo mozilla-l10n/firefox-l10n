@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Angre lukking av faner
         }
     .accesskey = A
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Gjenopprett lukket fane
+           *[other] Gjenopprett lukkede faner
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Behandle utvidelser
     .accesskey = e

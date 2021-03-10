@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Åpne på nytt i innholdsfane
     .accesskey = e
+tab-context-open-in-container =
+    .label = Åpne i ny beholder
+    .accesskey = e
 move-to-start =
     .label = Flytt til begynnelsen
     .accesskey = b
@@ -91,6 +94,13 @@ move-tabs =
 move-tab =
     .label = Flytt fane
     .accesskey = y
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Gjenopprett lukket fane
+           *[other] Gjenopprett lukkede faner
+        }
+    .accesskey = o
 tab-context-close-tabs =
     .label =
         { $tabCount ->
