@@ -25,6 +25,10 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help 도움말 및 사용법
 
+# LOCALIZATION NOTE (firefox_get_help):
+# link title for https://www.mozilla.org/en-US/firefox/help/
+#define firefox_get_help 도움 받기
+
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize 나만의 Firefox 만들기
