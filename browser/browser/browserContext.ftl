@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = 생성된 비밀번호 사용…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = 저장된 로그인 사용
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = 저장된 비밀번호 사용
+    .accesskey = o
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = 강력한 비밀번호 제안…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = 로그인 관리…
     .accesskey = M
