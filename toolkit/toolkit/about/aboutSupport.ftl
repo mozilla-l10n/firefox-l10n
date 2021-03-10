@@ -141,10 +141,20 @@ sandbox-sys-call-number = Systémové volání
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Vyzkoušet nouzový režim
 restart-in-safe-mode-label = Restartovat se zakázanými doplňky…
+troubleshoot-mode-title = Řešení problémů
+restart-in-troubleshoot-mode-label = Režim řešení problémů…
 clear-startup-cache-title = Zkuste vymazat mezipaměť spouštění
 clear-startup-cache-label = Vymazat mezipaměť spouštění…
 startup-cache-dialog-title = Vymazání mezipaměti spouštění
 startup-cache-dialog-body = Pro vymazání mezipaměti spouštění se { -brand-short-name } restartuje. Nedojde k žádné změně vašich nastavení ani odstranění rozšíření, které jste si do { -brand-short-name(case: "gen") } nainstalovali.
+startup-cache-dialog-title2 =
+    Chcete restartovat { -brand-shorter-name.gender ->
+        [masculine] { -brand-short-name(case: "acc") }
+        [feminine] { -brand-short-name(case: "acc") }
+        [neuter] { -brand-short-name(case: "acc") }
+       *[other] aplikaci { -brand-short-name }
+    } a vymazat mezipaměť spouštění?
+startup-cache-dialog-body2 = Vaše nastavení i nainstalována rozšíření nebudou nijak ovlivněna.
 restart-button-label = Restartovat
 
 ## Media titles
