@@ -196,6 +196,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Velg et <span data-l10n-name="zap">utseende</span>
 onboarding-multistage-theme-subtitle = Tilpass { -brand-short-name } med et tema.
 onboarding-multistage-theme-primary-button-label = Lagre tema
+onboarding-multistage-theme-primary-button-label2 = Ferdig
 onboarding-multistage-theme-secondary-button-label = Ikke nå
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatisk

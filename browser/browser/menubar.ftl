@@ -325,6 +325,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Feilsøking
     .accesskey = F
+menu-help-more-troubleshooting-info =
+    .label = Mer feilsøkingsinformasjon
+    .accesskey = M
 menu-help-taskmanager =
     .label = Aktivitetsbehandler
 menu-help-report-site-issue =
@@ -337,6 +340,12 @@ menu-help-safe-mode-without-addons =
     .accesskey = r
 menu-help-safe-mode-with-addons =
     .label = Start på nytt med utvidelser påslått
+    .accesskey = S
+menu-help-enter-troubleshoot-mode =
+    .label = Feilsøkingsmodus
+    .accesskey = F
+menu-help-exit-troubleshoot-mode =
+    .label = Slå av feilsøkingsmodus
     .accesskey = S
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
