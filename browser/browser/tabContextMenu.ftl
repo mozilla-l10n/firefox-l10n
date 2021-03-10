@@ -96,6 +96,15 @@ move-tabs =
 move-tab =
     .label = Přesunout panel
     .accesskey = s
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Obnovit zavřený panel
+            [one] Obnovit zavřený panel
+            [few] Obnovit zavřené panely
+           *[other] Obnovit zavřené panely
+        }
+    .accesskey = b
 tab-context-close-tabs =
     .label =
         Zavřít { $tabCount ->

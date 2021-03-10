@@ -111,3 +111,6 @@ places-remove-bookmark =
            *[other] Odebrat záložky
         }
     .accesskey = d
+places-manage-bookmarks =
+    .label = Správa záložek
+    .accesskey = S
