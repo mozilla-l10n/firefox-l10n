@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = 이 페이지에서 찾기…
     .accesskey = F
+menu-edit-find-in-page =
+    .label = 페이지에서 찾기…
+    .accesskey = F
 menu-edit-find-again =
     .label = 다시 찾기
     .accesskey = g
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = T
 menu-view-customize-toolbar =
     .label = 사용자 지정…
+    .accesskey = C
+menu-view-customize-toolbar2 =
+    .label = 도구 모음 사용자 지정…
     .accesskey = C
 menu-view-sidebar =
     .label = 탐색창
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = 모든 북마크 보기
 menu-bookmark-this-page =
     .label = 이 페이지 북마크
+menu-bookmark-current-tab =
+    .label = 현재 탭 북마크
 menu-bookmark-edit =
     .label = 이 북마크 편집
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = A
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name }에 로그인…
+    .accesskey = g
+menu-tools-extensions =
+    .label = 확장 기능 및 테마
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = 로그인
     .accesskey = g
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } 켜기…
@@ -271,6 +285,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = 설정
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
