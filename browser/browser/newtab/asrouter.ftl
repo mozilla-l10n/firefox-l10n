@@ -206,11 +206,14 @@ cfr-doorhanger-cryptominers-description = Your privacy matters. { -brand-short-n
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } blocked over <b>{ $blockedCount }</b> trackers since { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } blocked over <b>{ $blockedCount }</b> trackers since { DATETIME($date, month: "long", year: "numeric") }!
@@ -243,6 +246,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Picture-in-picture icon
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Protections at a glance
 cfr-whatsnew-protections-body = The Protections Dashboard includes summary reports about data breaches and password management. You can now track how many breaches you’ve resolved, and see if any of your saved passwords may have been exposed in a data breach.
 cfr-whatsnew-protections-cta-link = View Protections Dashboard
@@ -258,6 +265,8 @@ cfr-whatsnew-better-pdf-body = PDF documents now open directly in { -brand-short
 cfr-doorhanger-doh-body = Your privacy matters. { -brand-short-name } now securely routes your DNS requests whenever possible to a partner service to protect you while you browse.
 cfr-doorhanger-doh-header = More secure, encrypted DNS lookups
 cfr-doorhanger-doh-primary-button = OK, Got it
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Okay
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Disable
     .accesskey = D
