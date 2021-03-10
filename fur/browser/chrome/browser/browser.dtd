@@ -263,13 +263,24 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY uiTour.infoPanel.close "Siere">
 
-<!ENTITY panicButton.thankyou.buttonlabel         "Ringraziaments">
+<!ENTITY panicButton.thankyou.msg1                "La tô cronologjie resinte e je stade scancelade.">
+<!ENTITY panicButton.thankyou.msg2                "Navigazion sigure!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Ringraciaments">
 
+<!ENTITY updateAvailable.panelUI.label "Discjarie l'inzornament di &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Discjarie une gnove copie di &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "No tu puedis eseguî altris inzornaments">
+<!ENTITY updateRestart.panelUI.label2 "Torne invie par inzornâ &brandShorterName;">
 
+<!ENTITY sendToDevice.syncNotReady.label "Sincronizazion dispositîfs…">
 
+<!ENTITY pageAction.shareUrl.label "Condivît">
+<!ENTITY pageAction.shareMore.label "Altri…">
 
+<!ENTITY libraryButton.tooltip "Visualize la cronologjie, i segnelibris salvâts e altri">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Funzionalitâts di acessibilitât ativadis">
