@@ -366,6 +366,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = 要分享的麥克風:
     .accesskey = M
+popup-select-camera-device =
+    .value = 攝影機:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = 麥克風:
+    .accesskey = M
 popup-all-windows-shared = 將分享您畫面上所有可見的視窗。
 popup-screen-sharing-not-now =
     .label = 現在不要
@@ -375,6 +381,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = 分享時，不顯示 { -brand-short-name } 的通知
 popup-silence-notifications-checkbox-warning = { -brand-short-name } 將不會在進行分享時顯示通知。
+popup-screen-sharing-block =
+    .label = 封鎖
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = 總是封鎖
+    .accesskey = w
+popup-mute-notifications-checkbox = 分享時，不顯示網站通知
 
 ## WebRTC window or screen share tab switch warning
 

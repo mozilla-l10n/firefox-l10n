@@ -196,11 +196,14 @@ cfr-doorhanger-cryptominers-description = 您的隱私相當重要。{ -brand-sh
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] 從 { $date } 起，{ -brand-short-name } 已封鎖超過 <b>{ $blockedCount }</b> 組追蹤器！
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] 自 { DATETIME($date, month: "long", year: "numeric") } 起，{ -brand-short-name } 已封鎖超過 <b>{ $blockedCount }</b> 組追蹤器！
@@ -233,6 +236,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = 子母畫面圖示
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = 保護項目，一目了然
 cfr-whatsnew-protections-body = 保護資訊儀錶板當中包含了資料外洩事件與密碼管理的相關摘要報告。現在起您可以追蹤已經處理過幾場資料外洩事件，並且看看是否還有已遭外洩的密碼。
 cfr-whatsnew-protections-cta-link = 檢視保護資訊儀錶板
@@ -248,6 +255,8 @@ cfr-whatsnew-better-pdf-body = 現在可以直接在 { -brand-short-name } 直�
 cfr-doorhanger-doh-body = 您的隱私權相當重要。現在起，{ -brand-short-name } 會在您上網時，盡可能透過夥伴所提供的服務安全地進行 DNS 查詢，以保護您的隱私。
 cfr-doorhanger-doh-header = 更安全、加密的 DNS 查詢
 cfr-doorhanger-doh-primary-button = 好，知道了
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = 好的
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = 停用
     .accesskey = D
