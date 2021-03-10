@@ -338,6 +338,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Start på nytt med påslåtte tillegg
     .accesskey = S
+menu-help-enter-troubleshoot-mode =
+    .label = Feilsøkingsmodus
+    .accesskey = F
+menu-help-exit-troubleshoot-mode =
+    .label = Slå av feilsøkingsmodus
+    .accesskey = S
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
