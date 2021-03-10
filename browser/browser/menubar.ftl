@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Na tutej stronje pytać…
     .accesskey = u
+menu-edit-find-in-page =
+    .label = Na stronje pytać…
+    .accesskey = y
 menu-edit-find-again =
     .label = Dale pytać
     .accesskey = D
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Přiměrić…
     .accesskey = m
+menu-view-customize-toolbar2 =
+    .label = Symbolowu lajstu přiměrić…
+    .accesskey = b
 menu-view-sidebar =
     .label = Bóčnica
     .accesskey = B
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Wšě zapołožki pokazać
 menu-bookmark-this-page =
     .label = Tutu stronu jako zapołožku składować
+menu-bookmark-current-tab =
+    .label = Aktualny rajtark jako zapołožku składować
 menu-bookmark-edit =
     .label = Tutu zapołožku wobdźěłać
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Pola { -brand-product-name } přizjewić…
     .accesskey = e
+menu-tools-extensions =
+    .label = Rozšěrjenja a drasty
+    .accesskey = R
+menu-tools-fxa-sign-in2 =
+    .label = Přizjewić
+    .accesskey = i
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } zmóžnić
     .accesskey = m
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] N
            *[other] N
+        }
+menu-settings =
+    .label = Nastajenja
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] s
         }
 menu-tools-layout-debugger =
     .label = Layout Debugger

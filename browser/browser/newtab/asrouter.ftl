@@ -210,7 +210,7 @@ cfr-doorhanger-cryptominers-description = Waša priwatnosć je wažna. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowak wot { $date } zablokował!
@@ -218,6 +218,9 @@ cfr-doorhanger-milestone-heading =
         [few] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowaki wot { $date } zablokował!
        *[other] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowakow wot { $date } zablokował!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } je wot { DATETIME($date, month: "long", year: "numeric") } wjace hač <b>{ $blockedCount }</b> přesćěhowak zablokował!
@@ -253,6 +256,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Škity na jedne pohladnjenje
 cfr-whatsnew-protections-body = Přehlad škitow zjimace rozprawy wo datowych dźěrach a rjadowanju hesłow. Móžeće nětko slědować, kelko dźěrow sće rozrisał a widźeć, hač jedne abo wjace hesłow bě datowej dźěrje wustajene.
 cfr-whatsnew-protections-cta-link = Přehlad škitow pokazać
@@ -269,6 +276,8 @@ cfr-doorhanger-doh-body = Waša priwatnosć je wažna. { -brand-short-name } ně
 cfr-doorhanger-doh-header = Wjace wěstych zaklučowanych DNS-pytanjow
 cfr-doorhanger-doh-primary-button = W porjadku, sym zrozumił
     .accesskey = r
+cfr-doorhanger-doh-primary-button-2 = W porjadku
+    .accesskey = o
 cfr-doorhanger-doh-secondary-button = Znjemóžnić
     .accesskey = Z
 
