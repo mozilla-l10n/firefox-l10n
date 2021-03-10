@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Več orodij
 appmenuitem-exit =
     .label = Izhod
+appmenu-menu-button-closed =
+    .tooltiptext = Odpri meni programa
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Zapri meni programa
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +51,23 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinhroniziraj
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Sinhroniziraj zdaj
+    .value = Sinhroniziraj zdaj
+appmenuitem-fxa-manage-account = Upravljanje računa
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Sinhronizirano ob { $time }
+    .label = Sinhronizirano ob { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Sinhroniziraj in shrani podatke
+appmenu-fxa-signed-in-label = Prijava
+appmenu-fxa-setup-sync =
+    .label = Vklopi sinhronizacijo …
+appmenu-fxa-show-more-tabs = Prikaži več zavihkov
 appmenuitem-save-page =
     .label = Shrani stran kot …
 
@@ -126,6 +149,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Odpravljanje težav
     .accesskey = R
+appmenu-help-more-troubleshooting-info =
+    .label = Več podatkov za odpravljanje težav
+    .accesskey = t
 appmenu-help-taskmanager =
     .label = Upravitelj opravil
 appmenu-help-report-site-issue =
@@ -142,6 +168,16 @@ appmenu-help-safe-mode-without-addons =
     .accesskey = n
 appmenu-help-safe-mode-with-addons =
     .label = Ponovno zaženi z omogočenimi dodatki
+    .accesskey = n
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Način za odpravljanje težav
+    .accesskey = N
+appmenu-help-exit-troubleshoot-mode =
+    .label = Izključi način za odpravljanje težav
     .accesskey = n
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive

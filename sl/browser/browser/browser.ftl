@@ -522,6 +522,8 @@ crashed-subframe-message = <strong>Del te strani se je sesul.</strong> Pošljite
 crashed-subframe-learnmore =
     .label = Več o tem
     .accesskey = V
+crashed-subframe-learnmore-link =
+    .value = Več o tem
 crashed-subframe-submit =
     .label = Pošlji poročilo
     .accesskey = P
@@ -620,3 +622,5 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Zvok ali video na tej strani uporablja DRM, kar lahko omejuje delovanje { -brand-short-name }a.
+eme-notifications-drm-content-playing-dismiss = Zapri
+eme-notifications-drm-content-playing-dismiss-accesskey = Z
