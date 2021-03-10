@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Find in This Page…
     .accesskey = F
+menu-edit-find-in-page =
+    .label = Find in Page…
+    .accesskey = F
 menu-edit-find-again =
     .label = Find Again
     .accesskey = g
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = T
 menu-view-customize-toolbar =
     .label = Customize…
+    .accesskey = C
+menu-view-customize-toolbar2 =
+    .label = Customize Toolbar…
     .accesskey = C
 menu-view-sidebar =
     .label = Sidebar
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Show All Bookmarks
 menu-bookmark-this-page =
     .label = Bookmark This Page
+menu-bookmark-current-tab =
+    .label = Bookmark Current Tab
 menu-bookmark-edit =
     .label = Edit This Bookmark
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = A
 menu-tools-fxa-sign-in =
     .label = Sign In To { -brand-product-name }…
+    .accesskey = g
+menu-tools-extensions =
+    .label = Extensions and Themes
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Sign In
     .accesskey = g
 menu-tools-turn-on-sync =
     .label = Turn on { -sync-brand-short-name }…
@@ -271,6 +285,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Settings
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -325,6 +346,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Troubleshooting Information
     .accesskey = T
+menu-help-more-troubleshooting-info =
+    .label = More Troubleshooting Information
+    .accesskey = T
 menu-help-taskmanager =
     .label = Task Manager
 menu-help-report-site-issue =
@@ -338,6 +362,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Restart With Add-ons Enabled
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Troubleshoot Mode
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Turn Troubleshoot Mode Off
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
