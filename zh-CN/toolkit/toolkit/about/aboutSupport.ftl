@@ -133,10 +133,14 @@ sandbox-sys-call-number = 系统调用
 sandbox-sys-call-args = 参数
 safe-mode-title = 尝试安全模式
 restart-in-safe-mode-label = 以安全模式重启浏览器…
+troubleshoot-mode-title = 诊断问题
+restart-in-troubleshoot-mode-label = 排障模式…
 clear-startup-cache-title = 尝试清除启动缓存
 clear-startup-cache-label = 清除启动缓存...
 startup-cache-dialog-title = 清除启动缓存
 startup-cache-dialog-body = 重启 { -brand-short-name } 以清除启动缓存。这不会更改您的设置，也不会移除您添加到 { -brand-short-name } 中的扩展。
+startup-cache-dialog-title2 = 要重启 { -brand-short-name } 以清除启动缓存吗？
+startup-cache-dialog-body2 = 将不会更改您的设置或移除扩展。
 restart-button-label = 重启
 
 ## Media titles
