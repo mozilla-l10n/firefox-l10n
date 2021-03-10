@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = 在此页面中查找…
     .accesskey = F
+menu-edit-find-in-page =
+    .label = 在页面中查找…
+    .accesskey = F
 menu-edit-find-again =
     .label = 查找下一个
     .accesskey = g
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = T
 menu-view-customize-toolbar =
     .label = 定制…
+    .accesskey = C
+menu-view-customize-toolbar2 =
+    .label = 定制工具栏…
     .accesskey = C
 menu-view-sidebar =
     .label = 侧栏
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = 管理所有书签
 menu-bookmark-this-page =
     .label = 为此页添加书签
+menu-bookmark-current-tab =
+    .label = 将当前标签页加入书签
 menu-bookmark-edit =
     .label = 编辑此书签
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = A
 menu-tools-fxa-sign-in =
     .label = 登录到 { -brand-product-name }…
+    .accesskey = g
+menu-tools-extensions =
+    .label = 扩展和主题
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = 登录
     .accesskey = g
 menu-tools-turn-on-sync =
     .label = 开启{ -sync-brand-short-name }…
@@ -271,6 +285,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = 设置
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
