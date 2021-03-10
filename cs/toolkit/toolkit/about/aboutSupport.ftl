@@ -141,8 +141,8 @@ sandbox-sys-call-number = Systémové volání
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Vyzkoušet nouzový režim
 restart-in-safe-mode-label = Restartovat se zakázanými doplňky…
-troubleshoot-mode-title = Řešení problémů
-restart-in-troubleshoot-mode-label = Režim řešení problémů…
+troubleshoot-mode-title = Řešení potíží
+restart-in-troubleshoot-mode-label = Režim řešení potíží…
 clear-startup-cache-title = Zkuste vymazat mezipaměť spouštění
 clear-startup-cache-label = Vymazat mezipaměť spouštění…
 startup-cache-dialog-title = Vymazání mezipaměti spouštění
@@ -424,7 +424,7 @@ policies-error = Chyba
 ## Printing section
 
 support-printing-title = Tisk
-support-printing-troubleshoot = Řešení problémů
+support-printing-troubleshoot = Řešení potíží
 support-printing-clear-settings-button = Vymazat uložené nastavení tisku
 support-printing-modified-settings = Upravená nastavení tisku
 support-printing-prefs-name = Název
