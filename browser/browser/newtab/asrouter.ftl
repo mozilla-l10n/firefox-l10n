@@ -264,6 +264,8 @@ cfr-doorhanger-doh-body = La tua privacy è importante. { -brand-short-name } or
 cfr-doorhanger-doh-header = Ricerche DNS più sicure e crittate
 cfr-doorhanger-doh-primary-button = OK, ricevuto
   .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = OK
+  .accesskey = O
 cfr-doorhanger-doh-secondary-button = Disattiva
   .accesskey = D
 
