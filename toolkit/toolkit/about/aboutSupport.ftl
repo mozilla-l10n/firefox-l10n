@@ -130,10 +130,14 @@ sandbox-sys-call-number = 시스템 콜
 sandbox-sys-call-args = 인자
 safe-mode-title = 안전 모드 사용해 보기
 restart-in-safe-mode-label = 부가 기능을 끄고 다시 시작…
+troubleshoot-mode-title = 문제 진단
+restart-in-troubleshoot-mode-label = 문제 해결 모드…
 clear-startup-cache-title = 시작 캐시 지워 보기
 clear-startup-cache-label = 시작 캐시 지우기…
 startup-cache-dialog-title = 시작 캐시 지우기
 startup-cache-dialog-body = 시작 캐시를 지우려면 { -brand-short-name }를 다시 시작하세요. 설정이 변경되거나 { -brand-short-name }에 추가한 확장 기능이 제거되지는 않습니다.
+startup-cache-dialog-title2 = 시작 캐시를 지우기 위해 { -brand-short-name }를 다시 시작하시겠습니까?
+startup-cache-dialog-body2 = 사용자 설정이 변경되거나 확장 기능이 제거되지는 않습니다.
 restart-button-label = 다시 시작
 
 ## Media titles
