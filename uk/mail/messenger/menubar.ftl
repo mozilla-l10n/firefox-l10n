@@ -12,13 +12,13 @@ menu-view-charset =
 ## Help Menu
 
 menu-help-enter-troubleshoot-mode =
-    .label = Безпечний режим…
-    .accesskey = Б
+    .label = Режим усунення проблем…
+    .accesskey = Р
 menu-help-exit-troubleshoot-mode =
-    .label = Вимкнути безпечний режим
+    .label = Вимкнути режим усунення проблем
     .accesskey = В
 menu-help-more-troubleshooting-info =
-    .label = Додаткова інформація про безпечний режим
+    .label = Додаткова інформація про режим усунення проблем
     .accesskey = Д
 
 ## Mail Toolbar

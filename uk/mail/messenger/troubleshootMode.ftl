@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 troubleshoot-mode-window =
-    .title = Безпечний режим { -brand-short-name }
+    .title = Режим усунення проблем { -brand-short-name }
     .style = width: 37em;
-troubleshoot-mode-description = Використовуйте безпечний режим { -brand-short-name }, щоб визначити проблеми. Ваші додатки та налаштування буде тимчасово вимкнено.
+troubleshoot-mode-description = Застосовуйте режим усунення проблем { -brand-short-name }, щоб визначити проблеми. Ваші додатки та налаштування буде тимчасово вимкнено.
 troubleshoot-mode-description2 = Ви можете зробити всі ці зміни, або деякі з них, постійними:
 troubleshoot-mode-disable-addons =
     .label = Вимкнути всі додатки
@@ -17,7 +17,7 @@ troubleshoot-mode-change-and-restart =
     .label = Зробити зміни і перезапустити
     .accesskey = З
 troubleshoot-mode-continue =
-    .label = Продовжити в безпечному режимі
+    .label = Продовжити в режимі усунення проблем
     .accesskey = П
 troubleshoot-mode-quit =
     .label =
