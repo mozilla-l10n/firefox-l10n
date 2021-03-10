@@ -310,10 +310,13 @@ about-logins-import-dialog-error-learn-more = Les meir
 about-logins-import-dialog-error-try-again = Prøv igjen…
 about-logins-import-dialog-error-cancel = Avbryt
 about-logins-import-report-title = Importsamandrag
+about-logins-import-report-description = Innloggingar og passord importerte til { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Rad { $number }
+about-logins-import-report-row-description-no-change = Duplikat: Nøyaktig samsvar med eksisterande innlogging
+about-logins-import-report-row-description-modified = Eksisterande innlogging oppdatert
 about-logins-import-report-row-description-added = Ny innlogging lagt til
 about-logins-import-report-row-description-error = Feil: Manglar felt
 
@@ -328,6 +331,22 @@ about-logins-import-report-row-description-error-missing-field = Feil: { $field 
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nye innloggingar lagt til</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterande innloggingar oppdaterte</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikate innloggingar</div> <div data-l10n-name="not-imported">(ikkje importerte)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">feil</div> <div data-l10n-name="not-imported">(ikkje importert)</div>
+    }
 
 ## Logins import report page
 
