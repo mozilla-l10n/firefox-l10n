@@ -244,6 +244,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Eñepyrũ tembiapo { -brand-product-name }-pe…
     .accesskey = g
+menu-tools-fxa-sign-in2 =
+    .label = Tembiapo ñepyrũ
+    .accesskey = g
 menu-tools-turn-on-sync =
     .label = Emyandy { -sync-brand-short-name }...
     .accesskey = n
@@ -271,6 +274,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Ñemboheko
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =

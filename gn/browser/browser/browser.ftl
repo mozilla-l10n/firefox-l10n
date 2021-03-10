@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Ñe’ẽatãha hetápe g̃uarãva:
     .accesskey = M
+popup-select-camera-device =
+    .value = Ta’ãnganohẽha:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = Ñe’ẽatãha:
+    .accesskey = M
 popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.
 popup-screen-sharing-not-now =
     .label = Ani ko’ág̃a
@@ -383,6 +389,9 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Embogue momarandu’i { -brand-short-name } emoherakuã aja
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ndohechaukamo’ãi momarandu’i oñemoherakuã aja.
+popup-screen-sharing-block =
+    .label = Joko
+    .accesskey = B
 
 ## WebRTC window or screen share tab switch warning
 
