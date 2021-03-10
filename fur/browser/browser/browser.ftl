@@ -376,6 +376,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfon di condividi:
     .accesskey = M
+popup-select-camera-device =
+    .value = Fotocjamare:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = Microfon:
+    .accesskey = M
 popup-all-windows-shared = A vignaran condividûts ducj i barcons visibii sul to schermi.
 popup-screen-sharing-not-now =
     .label = No cumò
@@ -385,6 +391,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Disabilite lis notifichis di { -brand-short-name } intant che si condivît
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nol visualizarà lis notifichis intant che tu stâs condividint.
+popup-screen-sharing-block =
+    .label = Bloche
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bloche simpri
+    .accesskey = s
+popup-mute-notifications-checkbox = Cidine lis notifichis dal sît web intant che tu condividis
 
 ## WebRTC window or screen share tab switch warning
 

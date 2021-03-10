@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Cjate in cheste pagjine…
     .accesskey = j
+menu-edit-find-in-page =
+    .label = Cjate te pagjine…
+    .accesskey = j
 menu-edit-find-again =
     .label = Cjate ancjemò
     .accesskey = t
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = a
 menu-view-customize-toolbar =
     .label = Personalize…
+    .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalize sbare dai struments…
     .accesskey = P
 menu-view-sidebar =
     .label = Panel laterâl
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Mostre ducj i segnelibris
 menu-bookmark-this-page =
     .label = Zonte cheste pagjine tai segnelibris
+menu-bookmark-current-tab =
+    .label = Met tai segnelibris cheste schede
 menu-bookmark-edit =
     .label = Modifiche chest segnelibri
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = Z
 menu-tools-fxa-sign-in =
     .label = Jentre su { -brand-product-name }…
+    .accesskey = J
+menu-tools-extensions =
+    .label = Estensions e temis
+    .accesskey = e
+menu-tools-fxa-sign-in2 =
+    .label = Jentre
     .accesskey = J
 menu-tools-turn-on-sync =
     .label = Ative { -sync-brand-short-name }…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
+        }
+menu-settings =
+    .label = Impostazions
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Debugger de disposizion
