@@ -22,6 +22,10 @@
 # link title for http://www.mozilla.com/en-US/firefox/help/
 #define firefox_help Aiuto e guide
 
+# LOCALIZATION NOTE (firefox_get_help):
+# link title for http://www.mozilla.com/firefox/help/
+#define firefox_get_help Ottieni assistenza
+
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://www.mozilla.com/en-US/firefox/customize/
 #define firefox_customize Personalizza Firefox
