@@ -10,3 +10,5 @@ crashed-single-offer-help-message = Барои аз нав бор кардани
 crashed-multiple-offer-help-message = Барои аз нав бор кардани саҳифа/саҳифаҳо { crashed-restore-tab-button } ё { crashed-restore-all-button }-ро интихоб намоед.
 crashed-request-help = Шумо ба мо кумак мекунед?
 crashed-request-report-title = Гузориш дар бораи ин варақа
+crashed-email-placeholder = Нишонии почтаи электронии худро дар ин ҷо ворид намоед
+crashed-email-me = Вақте ки маълумоти бештар дастрас мешавад, ба ман почтаи электронӣ ирсол намоед

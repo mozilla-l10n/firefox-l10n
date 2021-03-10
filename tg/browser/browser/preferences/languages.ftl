@@ -5,3 +5,5 @@
 languages-customize-remove =
     .label = Тоза кардан
     .accesskey = Т
+browser-languages-downloading =
+    .label = Дар ҳоли боргирӣ…

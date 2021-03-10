@@ -7,6 +7,7 @@
 ### Firefox" and "version" is used to mean "the specific revision number of a
 ### given Firefox channel". These terms are not synonymous.
 
+sync-label = Почтаи электронии худро ворид кунед
 sync-input =
     .placeholder = Почтаи электронӣ
 sync-button = Давом додан

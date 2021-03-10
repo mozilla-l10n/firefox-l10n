@@ -27,15 +27,23 @@ onboarding-button-label-get-started = Оғози кор
 
 onboarding-welcome-header = Хуш омадед ба { -brand-short-name }
 onboarding-welcome-form-header = Аз ин ҷо оғоз кунед
+onboarding-join-form-body = Барои оғози кор нишонии почтаи электронии худро ворид намоед.
+onboarding-join-form-email =
+    .placeholder = Почтаи электрониро ворид намоед
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = Нишонии почтаи электронии шумо…
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-input =
+    .placeholder = Почтаи электронӣ
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Почтаи электронии худро ворид намоед
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
