@@ -116,6 +116,8 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Tipo processo
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argomenti
+troubleshoot-mode-title = Diagnosi problemi
+restart-in-troubleshoot-mode-label = Modalità risoluzione problemi…
 safe-mode-title = Prova la modalità provvisoria
 restart-in-safe-mode-label = Riavvia disattivando i componenti aggiuntivi…
 
