@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = Uw privacy is belangrijk. { -brand-sho
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } heeft <b>{ $blockedCount }</b> tracker geblokkeerd sinds { $date }!
        *[other] { -brand-short-name } heeft meer dan <b>{ $blockedCount }</b> trackers geblokkeerd sinds { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } heeft sinds { DATETIME($date, month: "long", year: "numeric") } b>{ $blockedCount }</b> tracker geblokkeerd!
@@ -245,6 +248,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Pictogram Picture-in-Picture
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Beschermingen in een oogopslag
 cfr-whatsnew-protections-body = Het Beveiligingsdashboard bevat samenvattingen over datalekken en wachtwoordbeheer. U kunt nu volgen hoeveel datalekken u hebt opgelost en bekijken of uw opgeslagen wachtwoorden mogelijk zijn getroffen door een datalek.
 cfr-whatsnew-protections-cta-link = Beveiligingsdashboard bekijken
@@ -260,6 +267,8 @@ cfr-whatsnew-better-pdf-body = PDF-documenten worden nu rechtstreeks geopend in 
 cfr-doorhanger-doh-body = Uw privacy is belangrijk. { -brand-short-name } leidt nu waar mogelijk uw DNS-verzoeken veilig naar een partnerservice om u te beschermen terwijl u surft.
 cfr-doorhanger-doh-header = Veiligere, versleutelde DNS-lookups
 cfr-doorhanger-doh-primary-button = OK, begrepen
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Oké
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Uitschakelen
     .accesskey = U
