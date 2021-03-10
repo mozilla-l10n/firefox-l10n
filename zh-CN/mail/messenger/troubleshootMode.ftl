@@ -16,6 +16,9 @@ troubleshoot-mode-reset-toolbars =
 troubleshoot-mode-change-and-restart =
     .label = 保存变更并重启客户端
     .accesskey = M
+troubleshoot-mode-continue =
+    .label = 以排障模式继续
+    .accesskey = C
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
