@@ -395,6 +395,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Totjorn blocar
     .accesskey = T
+popup-mute-notifications-checkbox = Rescondre las notificacions pendent un partiment
 
 ## WebRTC window or screen share tab switch warning
 
