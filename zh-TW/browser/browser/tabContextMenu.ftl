@@ -98,7 +98,7 @@ tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
             [1] 回復關閉的分頁
-           *[other] 回復關閉的 { $count } 個分頁
+           *[other] 回復關閉的 { $tabCount } 個分頁
         }
     .accesskey = o
 tab-context-close-tabs =
