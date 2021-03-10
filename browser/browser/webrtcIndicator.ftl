@@ -20,13 +20,13 @@ webrtc-microphone-button =
 webrtc-camera-button =
   .title = La fotocamera è condivisa. Fai clic per gestire la condivisione.
 webrtc-microphone-unmuted =
-  .title = Attiva microfono
-webrtc-microphone-muted =
   .title = Disattiva microfono
+webrtc-microphone-muted =
+  .title = Attiva microfono
 webrtc-camera-unmuted =
-  .title = Attiva fotocamera
-webrtc-camera-muted =
   .title = Disattiva fotocamera
+webrtc-camera-muted =
+  .title = Attiva fotocamera
 webrtc-minimize =
   .title = Riduci a icona l’indicatore
 
