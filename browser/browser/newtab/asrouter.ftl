@@ -180,12 +180,15 @@ cfr-doorhanger-cryptominers-description = הפרטיות שלך חשובה. { -b
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] ‏{ -brand-short-name } חסם יותר מרכיב מעקב אחד מאז { $date }!
        *[other] ‏{ -brand-short-name } חסם למעלה מ־<b>{ $blockedCount }</b> רכיבי מעקב מאז { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] ‏{ -brand-short-name } חסם יותר מרכיב מעקב אחד מאז { DATETIME($date, month: "long", year: "numeric") }!
@@ -217,6 +220,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = סמל תמונה בתוך תמונה
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = הגנות במבט חטוף
 cfr-whatsnew-protections-cta-link = הצגת לוח ההגנות
 cfr-whatsnew-protections-icon-alt = סמל מגן
@@ -231,6 +238,8 @@ cfr-whatsnew-better-pdf-body = מסמכי PDF נפתחים כעת ישירות �
 cfr-doorhanger-doh-body = הפרטיות שלך חשובה. { -brand-short-name } מעביר כעת את בקשות ה־DNS שלך, כאשר ניתן, לשירות שותף כדי להגן עליך בזמן הגלישה.
 cfr-doorhanger-doh-header = חיפושי DNS מוצפנים ומאובטחים יותר
 cfr-doorhanger-doh-primary-button = בסדר, הבנתי
+    .accesskey = ב
+cfr-doorhanger-doh-primary-button-2 = בסדר
     .accesskey = ב
 cfr-doorhanger-doh-secondary-button = השבתה
     .accesskey = ה
