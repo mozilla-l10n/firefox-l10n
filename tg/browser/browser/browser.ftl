@@ -65,6 +65,8 @@ urlbar-translate-notification-anchor =
     .tooltiptext = Тарҷума кардани саҳифаи ҷорӣ
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Кушодани лавҳаи пахши худкор
+urlbar-tip-help-icon =
+    .title = Гирифтани кумак
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -85,6 +87,14 @@ urlbar-search-mode-history = Таърих
 
 ##
 
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Таҳрир кардани хатбараки ҷорӣ ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Гузоштани хатбарак барои ин саҳифа ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -99,22 +109,65 @@ page-action-remove-extension =
 
 ## Page Action menu
 
+# Variables
+# $tabCount (integer) - Number of tabs selected
+page-action-send-tabs-panel =
+    .label =
+        { $tabCount ->
+            [1] Фиристодани варақа ба дастгоҳ
+           *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
+        }
+page-action-send-tabs-urlbar =
+    .tooltiptext =
+        { $tabCount ->
+            [1] Фиристодани варақа ба дастгоҳ
+           *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
+        }
+page-action-pocket-panel =
+    .label = Нигоҳ доштани саҳифа ба { -pocket-brand-name }
 page-action-copy-url-panel =
     .label = Нусха бардоштани пайванд
 page-action-copy-url-urlbar =
     .tooltiptext = Нусха бардоштани пайванд
+page-action-email-link-panel =
+    .label = Ирсоли пайванд тавассути почта…
+page-action-email-link-urlbar =
+    .tooltiptext = Ирсоли пайванд тавассути почта…
 page-action-share-url-panel =
     .label = Мубодила кардан
 page-action-share-url-urlbar =
     .tooltiptext = Мубодила кардан
 page-action-share-more-panel =
     .label = Бештар…
+page-action-send-tab-not-ready =
+    .label = Ҳамоҳангсозии дастгоҳҳо…
+# "Pin" is being used as a metaphor for expressing the fact that these tabs
+# are "pinned" to the left edge of the tabstrip. Really we just want the
+# string to express the idea that this is a lightweight and reversible
+# action that keeps your tab where you can reach it easily.
+page-action-pin-tab-panel =
+    .label = Васл кардани варақа
+page-action-pin-tab-urlbar =
+    .tooltiptext = Васл кардани варақа
+page-action-unpin-tab-panel =
+    .label = Ҷудо кардани варақа
+page-action-unpin-tab-urlbar =
+    .tooltiptext = Ҷудо кардани варақа
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Пинҳон кардани навори абзорҳо
+    .accesskey = П
+full-screen-exit =
+    .label = Баромад аз реҷаи экрани пурра
+    .accesskey = Б
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Ин дафъа бо зерин ҷустуҷӯ кунед:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -124,6 +177,12 @@ search-one-offs-change-settings-compact-button =
 search-one-offs-context-open-new-tab =
     .label = Ҷустуҷӯ дар варақаи нав
     .accesskey = Ҷ
+search-one-offs-context-set-as-default =
+    .label = Танзим кардани ҳамчун низоми ҷустуҷӯии пешфарз
+    .accesskey = Т
+search-one-offs-context-set-as-default-private =
+    .label = Танзим кардан ҳамчун низоми ҷустуҷӯии пешфарз барои равзанаи махфӣ
+    .accesskey = Т
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -326,4 +385,7 @@ library-recent-activity-title =
     .value = Фаъолияти охирин
 
 ## More items
+
+
+## EME notification panel
 
