@@ -9,6 +9,18 @@ menu-view-charset =
     .label = 文字编码
     .accesskey = c
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = 排障模式…
+    .accesskey = T
+menu-help-exit-troubleshoot-mode =
+    .label = 关闭排障模式
+    .accesskey = O
+menu-help-more-troubleshooting-info =
+    .label = 更多排障信息
+    .accesskey = M
+
 ## Mail Toolbar
 
 toolbar-junk-button =
