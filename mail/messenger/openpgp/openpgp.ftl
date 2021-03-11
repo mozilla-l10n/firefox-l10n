@@ -276,6 +276,8 @@ openpgp-selection-status =
         [few] Dabartinėje konfigūracijoje naudojamų raktų ID: <b> { $key } </b>
        *[other] Dabartinėje konfigūracijoje naudojamų raktų ID: <b> { $key } </b>
     }
+#   $key (String) - the currently selected OpenPGP key
+openpgp-selection-status-error = Dabartinėje konfigūracijoje naudojamas raktas <b> { $key } </b>, kurio galiojimo laikas baigėsi.
 openpgp-add-key-button =
     .label = Pridėti raktą…
     .accesskey = P
@@ -349,17 +351,28 @@ expiry-open-key-manager = Atverti „OpenPGP Key Manager“
 expiry-open-key-properties = Rakto savybės
 # Strings filters.jsm
 filter-folder-required = Reikia nurodyti aplanką.
+filter-term-pgpencrypted-label = Šifruotas „OpenPGP“
 filter-key-required = Turite pasirinkti gavėjo raktą.
 filter-key-not-found = Nepavyko rasti „{ $desc }“ šifravimo rakto.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Iššifruoti visam laikui („OpenPGP“)
+filter-decrypt-copy-label = Sukurti iššifruotą kopiją („OpenPGP“)
+filter-encrypt-label = Šifruoti su raktu („OpenPGP“)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Raktai sėkmingai importuoti
 import-info-bits = bitų
 import-info-created = Sukurtas
 import-info-fpr = „Pirštų atspaudas“
+import-info-details = Peržiūrėti išsamią informaciją ir tvarkyti raktų priėmimą
 import-info-no-keys = Nėra importuotų raktų.
 # Strings in enigmailKeyManager.js
 import-from-clip = Ar tikrai norite importuoti raktą (-us) iš mainų srities?
+import-from-url = Atsisiųsti viešąjį raktą iš šio URL:
+copy-to-clipbrd-failed = Nepavyko nukopijuoti pasirinkto (-ų) rakto (-ų) į mainų sritį.
+copy-to-clipbrd-ok = Raktas (-ai) nukopijuotas (-i) į mainų sritį
+delete-selected-pub-key = Ar norite ištrinti šiuos viešuosius raktus?
+refresh-all-question = Nepasirinkote jokio rakto. Ar norite atnaujinti VISUS raktus?
 key-man-button-export-sec-key = Eksportuoti slaptus raktus
 key-man-button-export-pub-key = Eksportuoti tik viešuosius raktus
 ascii-armor-file = ASCII apsaugoti failai (* .asc)
