@@ -19,7 +19,11 @@ connectionFailure-title = Пайваст ғайриимкон аст
 deniedPortAccess-title = Нишонии ҷорӣ маҳдуд шудааст
 fileNotFound-title = Файл ёфт нашуд
 fileAccessDenied-title = Дастрасӣ ба файл манъ карда шуд
+generic-title = Оҳ!
 captivePortal-title = Даромад ба шабака
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Хм. Ин нишонӣ дуруст ба назар намерасад.
 netInterrupt-title = Пайвастшавӣ қатъ карда шуд
 notCached-title = Муҳлати ҳуҷҷат ба анҷом расид
 netOffline-title = Реҷаи офлайн
@@ -28,12 +32,15 @@ unsafeContentType-title = Навъи файли беэътимод
 netReset-title = Пайвастшавӣ аз нав танзим карда шуд
 netTimeout-title = Вақти пайвастшавӣ ба анҷом расид
 unknownProtocolFound-title = Нишонӣ фаҳмида нашудааст
+proxyConnectFailure-title = Сервери прокси пайвастҳоро рад мекунад
+proxyResolveFailure-title = Сервери прокси ёфт нашуд
 redirectLoop-title = Саҳифа ба таври дуруст равона карда намешавад
 unknownSocketType-title = Ҷавоби ногаҳон аз сервер
 nssFailure2-title = Пайвасти бехатар иҷро нашуд
 csp-xfo-error-title = { -brand-short-name } ин саҳифаро кушода наметавонад
 corruptedContentError-title = Хатои муҳтавои вайроншуда
 remoteXUL-title = XUL-и дурдаст
+sslv3Used-title = Пайвасти бехатар ғайриимкон аст
 inadequateSecurityError-title = Пайвасти шумо бехатар нест
 blockedByPolicy-title = Саҳифаи басташуда
 clockSkewError-title = Соати компютери шумо нодуруст аст
