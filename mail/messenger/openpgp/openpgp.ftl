@@ -298,6 +298,10 @@ repeat-suffix-singular = daugiau laiko.
 repeat-suffix-plural = daugiau kartų.
 no-repeat = Šis perspėjimas daugiau nebus rodomas.
 dlg-keep-setting = Įsiminti mano atsakymą ir daugiau nebeklausti
+enig-confirm = „OpenPGP“ patvirtinimas
+enig-alert = „OpenPGP“ įspėjimas
+enig-info = „OpenPGP“ informacija
+dlg-button-skip = &Praleisti
 # Strings used in enigmailCommon.js
 enig-error = „OpenPGP“ klaida
 enig-alert-title =

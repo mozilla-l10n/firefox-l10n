@@ -10,6 +10,8 @@ preferences-title =
             [windows] Nuostatos
            *[other] Nuostatos
         }
+category-list =
+    .aria-label = Kategorijos
 pane-general-title = Bendrosios
 category-general =
     .tooltiptext = { pane-general-title }
@@ -86,6 +88,7 @@ update-in-progress-ok-button = &Atsisakyti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
+account-button = Paskyros nuostatos
 addons-button = Priedai ir grafiniai apvalkalai
 
 ## OS Authentication dialog
