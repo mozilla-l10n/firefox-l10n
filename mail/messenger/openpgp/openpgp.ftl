@@ -80,9 +80,13 @@ openpgp-key-man-export-to-file =
 openpgp-key-man-send-keys =
     .label = Siųsti viešą (-us) raktą (-us) el. paštu
     .accesskey = S
+openpgp-key-man-backup-secret-keys =
+    .label = Išsaugoti slaptą raktą faile
+    .accesskey = s
 openpgp-key-man-discover-cmd =
     .label = Ieškoti raktų internete
     .accesskey = I
+openpgp-key-man-discover-prompt = „OpenPGP“ raktų paieškai internete, raktų serveryje arba WKD protokolu įveskite arba elektroninio pašto adresą arba rakto ID.
 openpgp-key-man-discover-progress = Ieškoma…
 openpgp-key-copy-key =
     .label = Kopijuoti viešąjį raktą
@@ -115,6 +119,21 @@ openpgp-key-man-copy-fprs =
            *[other] Kopijuoti „pirštų atspaudus“ į mainų sritį
         }
     .accesskey = K
+openpgp-key-man-copy-to-clipboard =
+    .label =
+        { $count ->
+            [one] Kopijuoti viešąjį raktą į mainų sritį
+            [few] Kopijuoti viešuosius raktus į mainų sritį
+           *[other] Kopijuoti viešųjų raktų į mainų sritį
+        }
+    .accesskey = K
+openpgp-key-man-ctx-expor-to-file-label =
+    .label = Eksportuoti raktus į failą
+openpgp-key-man-ctx-copy-to-clipbrd-label =
+    .label = Kopijuoti viešuosius raktus į mainų sritį
+openpgp-key-man-ctx-copy =
+    .label = Kopijuoti
+    .accesskey = K
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
@@ -123,6 +142,30 @@ openpgp-key-man-ctx-copy-fprs =
            *[other] „Pirštų atspaudų“
         }
     .accesskey = a
+openpgp-key-man-ctx-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Rakto ID
+            [few] Raktų ID
+           *[other] Raktų ID
+        }
+    .accesskey = I
+openpgp-key-man-ctx-copy-public-keys =
+    .label =
+        { $count ->
+            [one] Viešasis raktas
+            [few] Viešieji raktai
+           *[other] Viešųjų raktų
+        }
+    .accesskey = V
+openpgp-key-man-close =
+    .label = Užverti
+openpgp-key-man-reload =
+    .label = Perkrauti raktų talpyklą
+    .accesskey = P
+openpgp-key-man-change-expiry =
+    .label = Keisti galiojimo datą
+    .accesskey = K
 openpgp-key-man-del-key =
     .label = Ištrinti raktą (-us)
     .accesskey = I
@@ -146,6 +189,9 @@ openpgp-key-man-ctx-view-photo-label =
 openpgp-key-man-show-invalid-keys =
     .label = Rodyti netinkamus raktus
     .accesskey = R
+openpgp-key-man-show-others-keys =
+    .label = Rodyti kitų žmonių raktus
+    .accesskey = R
 openpgp-key-man-user-id-label =
     .label = Vardas
 openpgp-key-man-fingerprint-label =
@@ -153,10 +199,18 @@ openpgp-key-man-fingerprint-label =
 openpgp-key-man-select-all =
     .label = Pasirinkti visus raktus
     .accesskey = v
+openpgp-key-man-empty-tree-tooltip =
+    .label = Įįveskite paieškos sąlygas aukščiau esančiame laukelyje
+openpgp-key-man-nothing-found-tooltip =
+    .label = Nei vienas raktas neatitinka jūsų paieškos sąlygų
 openpgp-key-man-please-wait-tooltip =
     .label = Palaukite, raktai įkeliami…
+openpgp-key-man-filter-label =
+    .placeholder = Raktų paieška
 openpgp-key-man-select-all-key =
     .key = v
+openpgp-key-man-key-details-key =
+    .key = I
 openpgp-key-details-title =
     .title = Rakto savybės
 openpgp-key-details-signatures-tab =
@@ -255,6 +309,7 @@ key-expiry-never = niekada
 key-usage-encrypt = Užšifruoti
 key-usage-sign = Pasirašyti
 key-usage-certify = Patvirtinti
+key-usage-authentication = Tapatumo nustatymas
 key-does-not-expire = Raktas nenustoja galioti
 key-expired-date = Raktas negalioja nuo { $keyExpiry }
 key-expired-simple = Raktas nebegalioja
@@ -293,9 +348,13 @@ keyring-photo = Nuotrauka
 user-att-photo = Vartotojo atributas (JPEG vaizdas)
 # Strings in key.jsm
 already-revoked = Šis raktas atšauktas.
+key-man-button-revoke-key = &Atšaukti raktą
 openpgp-key-revoke-success = Raktas sėkmingai atšauktas.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importuoti
 delete-key-title = Pašalingti „OpenPGP“ raktą
 delete-external-key-title = Pašalinti išorinį „GnuPG“ raktą
+delete-external-key-description = Ar norite pašalinti šį išorinio „GnuPG“ rakto ID?
 key-in-use-title = Šis „OpenPGP“ raktas šiuo metu naudojamas
 # Strings used in trust.jsm
 key-valid-unknown = nežinomas
