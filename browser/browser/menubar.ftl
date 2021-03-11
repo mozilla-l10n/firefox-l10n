@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Localizar nesta página…
     .accesskey = E
+menu-edit-find-in-page =
+    .label = Localizar na página…
+    .accesskey = L
 menu-edit-find-again =
     .label = Localizar novamente
     .accesskey = g
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Personalizar…
     .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalizar barra de ferramentas…
+    .accesskey = f
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = l
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Mostrar todos os marcadores
 menu-bookmark-this-page =
     .label = Adicionar esta página aos marcadores
+menu-bookmark-current-tab =
+    .label = Adicionar separador aos marcadores
 menu-bookmark-edit =
     .label = Editar este marcador
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Iniciar sessão no { -brand-product-name }…
     .accesskey = I
+menu-tools-extensions =
+    .label = Temas e extensões
+    .accesskey = T
+menu-tools-fxa-sign-in2 =
+    .label = Iniciar sessão
+    .accesskey = c
 menu-tools-turn-on-sync =
     .label = Ligar { -sync-brand-short-name }…
     .accesskey = L
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] f
+        }
+menu-settings =
+    .label = Definições
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Depurador de layout

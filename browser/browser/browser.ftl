@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfone a partilhar:
     .accesskey = M
+popup-select-camera-device =
+    .value = Câmara:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = Microfone:
+    .accesskey = M
 popup-all-windows-shared = Serão partilhadas todas as janelas visíveis no seu ecrã.
 popup-screen-sharing-not-now =
     .label = Agora não
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Desativar notificações do { -brand-short-name } ao partilhar
 popup-silence-notifications-checkbox-warning = O { -brand-short-name } não irá apresentar notificações enquanto estiver a partilhar.
+popup-screen-sharing-block =
+    .label = Bloquear
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bloquear sempre
+    .accesskey = m
+popup-mute-notifications-checkbox = Silenciar notificações de sites durante a partilha
 
 ## WebRTC window or screen share tab switch warning
 

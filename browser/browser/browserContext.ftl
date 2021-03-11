@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Utilizar uma palavra-passe gerada…
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Utilizar credencial guardada
+    .accesskey = g
+main-context-menu-use-saved-password =
+    .label = Utilizar palavra-passe guardada
+    .accesskey = u
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Sugerir palavra-passe forte…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Gerir credenciais…
     .accesskey = G
