@@ -9,6 +9,15 @@ menu-view-charset =
     .label = Textkodning
     .accesskey = k
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Felsökningsläge…
+    .accesskey = F
+menu-help-exit-troubleshoot-mode =
+    .label = Stäng av felsökningsläge
+    .accesskey = S
+
 ## Mail Toolbar
 
 toolbar-junk-button =
