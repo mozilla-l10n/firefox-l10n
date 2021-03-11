@@ -8,7 +8,15 @@ app-manager-window =
 app-manager-remove =
     .label = Тоза кардан
     .accesskey = Т
+# Variables:
+#   $type (String) - the URI scheme of the link (e.g. mailto:)
+app-manager-handle-protocol = Барномаҳои зерин метавонанд барои кор бо пайвандҳои { $type } истифода шаванд.
+# Variables:
+#   $type (String) - the MIME type (e.g. application/binary)
+app-manager-handle-file = Барномаҳои зерин метавонанд барои кор бо муҳтавои { $type } истифода шаванд.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
+app-manager-web-app-info = Ин барномаи веб дар нишонии зерин ҷойгир шудааст:
+app-manager-local-app-info = Ин барномаи веб дар нишонии зерин ҷойгир шудааст:

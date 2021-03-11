@@ -51,6 +51,8 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Кушодани лавҳаи иттилоотӣ оид ба насбкунӣ
 urlbar-midi-notification-anchor =
     .tooltiptext = Кушодани лавҳаи MIDI
 urlbar-eme-notification-anchor =
@@ -67,6 +69,7 @@ urlbar-autoplay-notification-anchor =
     .tooltiptext = Кушодани лавҳаи пахши худкор
 urlbar-tip-help-icon =
     .title = Гирифтани кумак
+urlbar-search-tips-confirm = Хуб, фаҳмидам
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
@@ -358,9 +361,14 @@ crashed-subframe-learnmore =
     .accesskey = М
 crashed-subframe-learnmore-link =
     .value = Маълумоти бештар
+crashed-subframe-submit =
+    .label = Гузориш додан
+    .accesskey = Г
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-show-all-bookmarks =
+    .label = Намоиш додани ҳамаи хатбаракҳо
 bookmarks-sidebar-content =
     .aria-label = Хатбаракҳо
 bookmarks-menu-button =
@@ -396,6 +404,10 @@ library-recent-activity-title =
 
 ## More items
 
+more-menu-go-offline =
+    .label = Дар офлайн кор кардан
+    .accesskey = Д
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-manage = Идоракунии танзимот
