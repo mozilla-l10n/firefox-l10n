@@ -135,6 +135,8 @@ clear-startup-cache-title = Ensajar d’escafar lo cache d’aviada
 clear-startup-cache-label = Escafar lo cache a l’aviada…
 startup-cache-dialog-title = Escafar lo cache a l’aviada
 startup-cache-dialog-body = Reaviatz { -brand-short-name } per dire d’escafar lo cache d’aviada. Aquò modificarà pas vòstres paramètres o suprimirà pas cap d’extensions qu’apondèretz a { -brand-short-name }.
+startup-cache-dialog-title2 = Reaviar { -brand-short-name } per escafar lo cache a l’aviada ?
+startup-cache-dialog-body2 = Aquò cambiarà pas vòstres paramètres o suprimirà pas cap d’extension.
 restart-button-label = Reaviar
 
 ## Media titles

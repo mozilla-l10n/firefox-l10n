@@ -306,6 +306,12 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Utilizar identificant salvat
+    .accesskey = U
+main-context-menu-use-saved-password =
+    .label = Utilizar senhal salvat
+    .accesskey = U
 
 ##
 
