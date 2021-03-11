@@ -295,6 +295,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Käytä luotua salasanaa…
     .accesskey = K
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Käytä tallennettua kirjautumistietoa
+    .accesskey = k
+main-context-menu-use-saved-password =
+    .label = Käytä tallennettua salasanaa
+    .accesskey = s
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Ehdota vahvaa salasanaa…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Hallitse kirjautumistietoja…
     .accesskey = H
@@ -355,6 +372,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspect Element
     .accesskey = Q
+main-context-menu-inspect =
+    .label = Tarkista
+    .accesskey = T
 main-context-menu-inspect-a11y-properties =
     .label = Inspect Accessibility Properties
 main-context-menu-eme-learn-more =

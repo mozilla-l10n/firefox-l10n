@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Etsi tältä sivulta…
     .accesskey = E
+menu-edit-find-in-page =
+    .label = Etsi sivulta…
+    .accesskey = E
 menu-edit-find-again =
     .label = Etsi seuraava
     .accesskey = s
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = T
 menu-view-customize-toolbar =
     .label = Muokkaa…
+    .accesskey = M
+menu-view-customize-toolbar2 =
+    .label = Muokkaa työkalupalkkia…
     .accesskey = M
 menu-view-sidebar =
     .label = Sivupaneeli
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Näytä kaikki kirjanmerkit
 menu-bookmark-this-page =
     .label = Lisää sivu kirjanmerkkeihin
+menu-bookmark-current-tab =
+    .label = Lisää nykyinen välilehti kirjanmerkkeihin
 menu-bookmark-edit =
     .label = Muokkaa kirjanmerkkiä
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = o
 menu-tools-fxa-sign-in =
     .label = Kirjaudu { -brand-product-name }iin…
+    .accesskey = K
+menu-tools-extensions =
+    .label = Laajennukset ja teemat
+    .accesskey = L
+menu-tools-fxa-sign-in2 =
+    .label = Kirjaudu sisään
     .accesskey = K
 menu-tools-turn-on-sync =
     .label = Ota { -sync-brand-short-name } käyttöön…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] A
            *[other] A
+        }
+menu-settings =
+    .label = Asetukset
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] S
         }
 menu-tools-layout-debugger =
     .label = Layout Debugger

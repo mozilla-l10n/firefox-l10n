@@ -65,6 +65,9 @@ appmenu-fxa-last-sync = Viimeksi synkronoitu { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Synkronoi ja tallenna tiedot
 appmenu-fxa-signed-in-label = Kirjaudu sisään
+appmenu-fxa-setup-sync =
+    .label = Ota synkronointi käyttöön…
+appmenu-fxa-show-more-tabs = Näytä lisää välilehtiä
 appmenuitem-save-page =
     .label = Tallenna sivu nimellä…
 

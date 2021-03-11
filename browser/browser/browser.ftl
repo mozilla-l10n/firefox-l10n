@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Jaettava mikrofoni:
     .accesskey = m
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Mikrofoni:
+    .accesskey = M
 popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
 popup-screen-sharing-not-now =
     .label = Ei nyt
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = Ä
 popup-silence-notifications-checkbox = Ei ilmoituksia { -brand-short-name(case: "elative") } jakamisen aikana
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ei näytä ilmoituksia, kun jaat näyttöä tai ikkunaa.
+popup-screen-sharing-block =
+    .label = Estä
+    .accesskey = E
+popup-screen-sharing-always-block =
+    .label = Estä aina
+    .accesskey = a
+popup-mute-notifications-checkbox = Mykistä verkkosivustojen ilmoitukset jakamisen aikana
 
 ## WebRTC window or screen share tab switch warning
 
@@ -523,6 +536,8 @@ crashed-subframe-message = <strong>Osa tästä sivusta kaatui.</strong> Lähetä
 crashed-subframe-learnmore =
     .label = Lue lisää
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = Lue lisää
 crashed-subframe-submit =
     .label = Lähetä raportti
     .accesskey = L
@@ -621,3 +636,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Osa sivuston äänitteistä tai videoista käyttää DRM-ohjelmistoa, joka voi rajoittaa mitä { -brand-short-name } voi antaa tehdä niillä.
+eme-notifications-drm-content-playing-manage = Hallitse asetuksia
+eme-notifications-drm-content-playing-manage-accesskey = H
+eme-notifications-drm-content-playing-dismiss = Hylkää
+eme-notifications-drm-content-playing-dismiss-accesskey = Y
