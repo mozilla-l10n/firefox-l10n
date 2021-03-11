@@ -17,6 +17,7 @@
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
 <!ENTITY NameField1.id                  "">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
@@ -61,6 +62,8 @@
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adresas:">
 <!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Miestas:">
 <!ENTITY HomeCity.accesskey             "y">
 <!ENTITY HomeState.label                "Valstija ar sritis / provincija:">
@@ -89,6 +92,8 @@
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Adresas:">
 <!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Miestas:">
 <!ENTITY WorkCity.accesskey             "y">
 <!ENTITY WorkState.label                "Valstija ar sritis / provincija:">
