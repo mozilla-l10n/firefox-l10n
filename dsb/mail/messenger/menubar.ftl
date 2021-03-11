@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Tekstowe koděrowanje
     .accesskey = k
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Modus za rozwězowanje problemow…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Modus za rozwězowanje problemow znjemóžniś
+    .accesskey = r
+menu-help-more-troubleshooting-info =
+    .label = Dalšne informacije za rozwězowanje problemow
+    .accesskey = D
+
 ## Mail Toolbar
 
 toolbar-junk-button =
