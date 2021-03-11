@@ -458,6 +458,14 @@ key-trust-group = (grupė)
 import-key-file = Importuoti „OpenPGP“ raktų failą
 import-rev-file = Importuoti „OpenPGP“ atšaukimų failą
 gnupg-file = „GnuPG“ failai
+import-keys-failed = Nepavyko importuoti raktų
+passphrase-prompt = Įveskite rakto „{ $key }“ slaptažodį.
+file-to-big-to-import = Šis failas per didelis. Neimportuokite didelių raktų rinkinių vienu metu.
+# Strings used in enigmailKeygen.js
+save-revoke-cert-as = Sukurti ir išsaugoti atšaukimo pažymėjimą
+revoke-cert-failed = Nepavyko sukurti atšaukimo pažymėjimo.
+gen-going = Raktai jau generuojami!
+expiry-too-short = Jūsų raktas turi galioti mažiausiai vieną dieną.
 expiry-too-long = Negalite sukurti rakto, kurio galiojimo laikas baigsis daugiau nei po 100 metų.
 key-confirm = Generuoti viešą ir slaptąjį „{ $id }“ raktą?
 key-abort = Nutraukti raktų generavimą?
@@ -469,6 +477,8 @@ key-man-button-generate-key-continue = &Tęsti raktų generavimą
 failed-decrypt = Klaida - nepavyko iššifruoti
 fix-broken-exchange-msg-failed = Nepavyko ištaisyti šio pranešimo.
 msg-ovl-button-cont-anyway = &Tęsti bet kokiu atveju
+# Strings used in enigmailMsgComposeOverlay.js
+msg-compose-button-send = Išsiųsti laišką
 msg-compose-details-button-label = Išsamiau…
 msg-compose-details-button-access-key = D
 send-aborted = Siuntimas nutrauktas.
