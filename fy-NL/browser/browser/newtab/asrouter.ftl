@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = Jo privacy is wichtich. { -brand-short
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } hat <b>{ $blockedCount }</b> tracker blokkearre sûnt { $date }!
        *[other] { -brand-short-name } hat mear as <b>{ $blockedCount }</b> trackers blokkearre sûnt { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } hat sûnt { DATETIME($date, month: "long", year: "numeric") } b>{ $blockedCount }</b> tracker blokkearre!
@@ -245,6 +248,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Piktogram Picture-in-Picture
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Beskerming yn ien eachopslach
 cfr-whatsnew-protections-body = It Befeiligingsdashboerd befettet gearfettingen oer datalekken en wachtwurdbehear. Jo kinne no folgje hofolle datalekken jo oplost hawwe en besjen oft jo bewarre wachtwurden mooglik troffen binne troch in datalek.
 cfr-whatsnew-protections-cta-link = Befeiligingsdashboerd besjen
@@ -260,6 +267,8 @@ cfr-whatsnew-better-pdf-body = PDF-dokuminten wurde no streekrjocht iepene yn { 
 cfr-doorhanger-doh-body = Jo privacy is wichtich. { -brand-short-name } liedt no wêr mooglik jo DNS-fersiken feilich nei in partnerservice om jo te beskermjen wylst jo sneupe.
 cfr-doorhanger-doh-header = Feiligere, fersifere DNS-lookups
 cfr-doorhanger-doh-primary-button = OK, begrepen
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Oké
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Utskeakelje
     .accesskey = U

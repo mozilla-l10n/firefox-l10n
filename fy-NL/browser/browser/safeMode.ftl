@@ -7,10 +7,17 @@ safe-mode-window =
     .style = max-width: 400px
 start-safe-mode =
     .label = Yn feilige modus starte
+troubleshoot-mode-window =
+    .title = { -brand-short-name } yn probleemoplossingsmodus iepenje?
+    .style = max-width: 400px
+start-troubleshoot-mode =
+    .label = Iepenje
 refresh-profile =
     .label = { -brand-short-name } opfrisse
 safe-mode-description = Feilige modus is in spesjale modus fan { -brand-short-name } om problemen te ûndersykjen.
+troubleshoot-mode-description = Brûk dizze spesjale modus fan { -brand-short-name } om problemen te analysearjen. Jo útwreidingen en oanpassingen sille tydlik útskeakele wurde.
 safe-mode-description-details = Jo add-ons en oanpaste ynstellingen sille tydlik útskeakele wurde, en funksjes fan { -brand-short-name } wurkje mooglik net sa as se dat no dogge.
 refresh-profile-instead = As jo probleemoplossing oerslaan wolle, kinne jo probearje { -brand-short-name } op te frissen.
-# Shown on the safe mode dialog after multiple startup crashes. 
+skip-troubleshoot-refresh-profile = jo kinne probleemoplossing ek oerslaan en { -brand-short-name } yn stee hjirfan opfrisse.
+# Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } is ûnferwachts sluten wylst it starten. Dit kin feroarsake wurde troch add-ons of oare problemen. Jo kinne probearje dit op te lossen troch in oplossing te sykjen yn feilige modus.
