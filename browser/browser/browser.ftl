@@ -601,7 +601,7 @@ bookmarks-toolbar-placeholder-button =
     .label = Itens da barra de ferramentas marcadores
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-current-tab =
-    .label = Adicionar separador atual aos marcadores
+    .label = Adicionar separador aos marcadores
 
 ## Library Panel items
 
