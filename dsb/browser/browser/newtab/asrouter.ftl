@@ -210,7 +210,7 @@ cfr-doorhanger-cryptominers-description = Waša priwatnosć jo wažna. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowaka wót { $date }!
@@ -218,6 +218,9 @@ cfr-doorhanger-milestone-heading =
         [few] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowakow wót { $date }!
        *[other] { -brand-short-name } jo zablokěrował wušej <b>{ $blockedCount }</b> pśeslědowakow wót { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } jo zablokěrował wěcej ako <b>{ $blockedCount }</b> pśeslědowak wót { DATETIME($date, month: "long", year: "numeric") }!
@@ -253,6 +256,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Šćity na jadno póglědnjenje
 cfr-whatsnew-protections-body = Pśeglěd šćitow zespominujuce rozpšawy wó datowych źěrach a zastojanju gronidłow. Móžośo něnto slědowaś, wjele źěrow sćo rozwězał a wiźeś, lěc jadno abo wěcej gronidłow jo było datowej źěrje wustajone.
 cfr-whatsnew-protections-cta-link = Pśeglěd šćitow pokazaś
@@ -268,6 +275,8 @@ cfr-whatsnew-better-pdf-body = PDF-dokumenty se něnto direktnje w { -brand-shor
 cfr-doorhanger-doh-body = Waša priwatnosć jo wažna. { -brand-short-name } něnto, gažkuli jo móžno, partnaŕskej słužbje waše DNS-napšašowanja wěsće pśenosujo, aby was šćitał, mjaztym až pśeglědujośo.
 cfr-doorhanger-doh-header = Wěcej wěstych skoděrowanych DNS-pytanjow
 cfr-doorhanger-doh-primary-button = W pórěźe, som zrozměł
+    .accesskey = r
+cfr-doorhanger-doh-primary-button-2 = W pórěźe
     .accesskey = r
 cfr-doorhanger-doh-secondary-button = Znjemóžniś
     .accesskey = Z
