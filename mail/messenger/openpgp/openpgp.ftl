@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description = Norėdami siųsti užšifruotus ar skaitmeniškai pasirašytus pranešimus, turite sukonfigūruoti šifravimo technologiją - „OpenPGP“ arba „S/MIME“.
 e2e-intro-description-more = Pasirinkite savo asmeninį raktą, kad galėtumėte naudoti „OpenPGP“, arba asmeninį sertifikatą, kad galėtumėte naudoti „S/MIME“. Kaip asmeninio rakto ar sertifikato savininkas, jūs turite atitinkamą slaptą raktą.
 openpgp-key-user-id-label = Paskyra / Vartotojo ID
 openpgp-keygen-title-label =
@@ -32,6 +33,7 @@ openpgp-generate-key =
     .tooltiptext = Sukuria naują, su „OpenPGP“ suderinamą raktų porą šifravimui ir (arba) pasirašymui
 openpgp-advanced-prefs-button-label =
     .label = Papildomai…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link"><b>Raktų generavimas gali užtrukti iki kelių minučių.</b></a> Neišeikite iš programos, kol generuojami raktai. Aktyvus naršymas ar aktyvios disko naudojimas raktų generavimo metu pagerins atsitiktinių reikšmių statistiką ir pagreitins procesą. Kai raktai bus sukurti, jus įspės.
 openpgp-key-expiry-label =
     .label = Galiojimo pabaiga
 openpgp-key-id-label =
@@ -339,6 +341,7 @@ key-do-you-accept = Ar priimate šį raktą skaitmeninių parašų tikrinimui ir
 key-accept-warning = Venkite priimti nepatikrintą raktą. Norėdami patikrinti korespondento rakto „pirštų atspaudą“ naudokite ir kitokį nei elektroninis paštas ryšio kanalą.
 # Strings enigmailMsgComposeOverlay.js
 cannot-use-own-key-because = Nepavyko išsiųsti pranešimo, nes yra problema su jūsų asmeniniu raktu. { $problem }
+cannot-encrypt-because-missing = Nepavyko išsiųsti šio pranešimo su abipusiu šifravimu, nes kilo problemų su šių gavėjų raktais: { $problem }
 # Strings in mimeDecrypt.jsm
 mime-decrypt-encrypted-part-attachment-label = Šifruota pranešimo dalis
 # Strings in keyserver.jsm
@@ -381,6 +384,9 @@ import-from-clip = Ar tikrai norite importuoti raktą (-us) iš mainų srities?
 import-from-url = Atsisiųsti viešąjį raktą iš šio URL:
 copy-to-clipbrd-failed = Nepavyko nukopijuoti pasirinkto (-ų) rakto (-ų) į mainų sritį.
 copy-to-clipbrd-ok = Raktas (-ai) nukopijuotas (-i) į mainų sritį
+delete-pub-key =
+    Ar norite ištrinti viešąjį raktą
+    „{ $userId }“?
 delete-selected-pub-key = Ar norite ištrinti šiuos viešuosius raktus?
 refresh-all-question = Nepasirinkote jokio rakto. Ar norite atnaujinti VISUS raktus?
 key-man-button-export-sec-key = Eksportuoti slaptus raktus
@@ -388,10 +394,13 @@ key-man-button-export-pub-key = Eksportuoti tik viešuosius raktus
 key-man-button-refresh-all = Atnaujinti &visus raktus
 key-man-loading-keys = Palaukite, įkeliami raktai…
 ascii-armor-file = ASCII apsaugoti failai (* .asc)
+no-key-selected = Norėdami atlikti pasirinktą operaciją, turėtumėte pasirinkti bent vieną raktą
 export-to-file = Eksportuoti viešąjį raktą į failą
 export-keypair-to-file = Eksportuoti slaptą ir viešąjį raktą į failą
 save-keys-ok = Raktai išsaugoti
 save-keys-failed = Nepavyko išsaugoti raktų
+default-pub-key-filename = Eksportuoti viešieji raktai
+default-pub-sec-key-filename = Slaptų raktų atsarginės kopijos
 preview-failed = Nepavyko nuskaityti viešojo rakto failo.
 general-error = Klaida: { $reason }
 dlg-button-delete = Š&alinti
@@ -414,6 +423,8 @@ delete-key-title = Pašalingti „OpenPGP“ raktą
 delete-external-key-title = Pašalinti išorinį „GnuPG“ raktą
 delete-external-key-description = Ar norite pašalinti šį išorinio „GnuPG“ rakto ID?
 key-in-use-title = Šis „OpenPGP“ raktas šiuo metu naudojamas
+# Strings used in keyRing.jsm & keyLookupHelper.jsm
+no-key-found = Nepavyko rasti jokių raktų, atitinkančių nurodytus paieškos kriterijus.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
 fail-key-extract = Klaida - nepavyko išgauti rakto
 # Strings used in keyRing.jsm
