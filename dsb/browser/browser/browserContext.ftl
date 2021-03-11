@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Napórane gronidło wužywaś
     .accesskey = N
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Skłaźone pśizjawjenje wužywaś
+    .accesskey = S
+main-context-menu-use-saved-password =
+    .label = Skłaźone gronidło wužywaś
+    .accesskey = r
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Mócne gronidło naraźiś…
+    .accesskey = M
 main-context-menu-manage-logins =
     .label = Pśizjawjenja zastojaś…
     .accesskey = P
