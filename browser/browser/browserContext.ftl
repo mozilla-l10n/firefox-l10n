@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Oluşturulan parolayı kullan…
     .accesskey = O
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Kayıtlı hesabı kullan
+    .accesskey = u
+main-context-menu-use-saved-password =
+    .label = Kayıtlı parolayı kullan
+    .accesskey = u
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Güçlü parola öner…
+    .accesskey = G
 main-context-menu-manage-logins =
     .label = Hesapları yönet…
     .accesskey = H

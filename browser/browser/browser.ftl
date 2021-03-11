@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Paylaşılacak mikrofon:
     .accesskey = m
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
 popup-all-windows-shared = Ekranınızdaki tüm görünür pencereler paylaşılacaktır.
 popup-screen-sharing-not-now =
     .label = Daha sonra
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = A
 popup-silence-notifications-checkbox = Paylaşırken { -brand-short-name } bildirimlerini devre dışı bırak
 popup-silence-notifications-checkbox-warning = { -brand-short-name }, paylaşım sırasında bildirimleri göstermeyecek.
+popup-screen-sharing-block =
+    .label = Engelle
+    .accesskey = E
+popup-screen-sharing-always-block =
+    .label = Her zaman engelle
+    .accesskey = H
+popup-mute-notifications-checkbox = Paylaşırken web sitesi bildirimlerini sessize al
 
 ## WebRTC window or screen share tab switch warning
 

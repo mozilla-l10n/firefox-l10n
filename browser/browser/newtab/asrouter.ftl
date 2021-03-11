@@ -262,6 +262,8 @@ cfr-doorhanger-doh-body = Gizliliğiniz bizim için önemli. Web’de gezinirken
 cfr-doorhanger-doh-header = Daha güvenli, şifrelenmiş DNS sorguları
 cfr-doorhanger-doh-primary-button = Tamam
     .accesskey = m
+cfr-doorhanger-doh-primary-button-2 = Tamam
+    .accesskey = T
 cfr-doorhanger-doh-secondary-button = Devre dışı bırak
     .accesskey = D
 
