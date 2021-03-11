@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+e2e-intro-description-more = Pasirinkite savo asmeninį raktą, kad galėtumėte naudoti „OpenPGP“, arba asmeninį sertifikatą, kad galėtumėte naudoti „S/MIME“. Kaip asmeninio rakto ar sertifikato savininkas, jūs turite atitinkamą slaptą raktą.
 openpgp-key-user-id-label = Paskyra / Vartotojo ID
 openpgp-keygen-title-label =
     .title = Sugeneruoti „OpenPGP“ raktą
@@ -268,6 +269,15 @@ openpgp-copy-cmd-label =
 ## e2e encryption settings
 
 #   $count (Number) - the number of configured keys associated with the current identity
+#   $identity (String) - the email address of the currently selected identity
+openpgp-description =
+    { $count ->
+        [0] „Thunderbird“ nerado asmeninių „OpenPGP“ raktų, susietų su <b> { $identity } </b>
+        [one] „Thunderbird“ rado { $count } asmeninį „OpenPGP“ raktą, susietą su <b> { $identity } </b>
+        [few] „Thunderbird“ rado { $count } asmeninius „OpenPGP“ raktus, susietus su <b> { $identity } </b>
+       *[other] „Thunderbird“ rado { $count } asmeninių „OpenPGP“ raktus, susietų su <b> { $identity } </b>
+    }
+#   $count (Number) - the number of configured keys associated with the current identity
 #   $key (String) - the currently selected OpenPGP key
 openpgp-selection-status =
     { $count ->
@@ -375,7 +385,11 @@ delete-selected-pub-key = Ar norite ištrinti šiuos viešuosius raktus?
 refresh-all-question = Nepasirinkote jokio rakto. Ar norite atnaujinti VISUS raktus?
 key-man-button-export-sec-key = Eksportuoti slaptus raktus
 key-man-button-export-pub-key = Eksportuoti tik viešuosius raktus
+key-man-button-refresh-all = Atnaujinti &visus raktus
+key-man-loading-keys = Palaukite, įkeliami raktai…
 ascii-armor-file = ASCII apsaugoti failai (* .asc)
+export-to-file = Eksportuoti viešąjį raktą į failą
+export-keypair-to-file = Eksportuoti slaptą ir viešąjį raktą į failą
 save-keys-ok = Raktai išsaugoti
 save-keys-failed = Nepavyko išsaugoti raktų
 preview-failed = Nepavyko nuskaityti viešojo rakto failo.
@@ -437,11 +451,22 @@ send-aborted = Siuntimas nutrauktas.
 key-not-found = Raktas „{ $key }“ nerastas
 key-revoked = Raktas „{ $key }“ buvo atšauktas
 key-expired = Raktas „{ $key }“ nebegalioja
+msg-compose-partially-encrypted-short = Nenutekinkite neskelbtinos informacijos - tik dalis pranešimo užšifruota.
 save-attachment-header = Išsaugoti iššifruotą priedą
+cant-import = Importuojant viešąjį raktą įvyko klaida
+sig-mismatch = Klaida - neatitinka parašas
+invalid-email = Klaida - netinkamas(-i) elektroninio pašto adresas (-ai)
+dlg-button-view = &Peržiūrėti
+# Strings used in encryption.jsm
+not-required = Klaida - šifruoti nereikia
+# Strings used in windows.jsm
+no-photo-available = Nuotraukos nėra
+debug-log-title = „OpenPGP“ derinimo žurnalas
 repeat-suffix-singular = daugiau laiko.
 repeat-suffix-plural = daugiau kartų.
 no-repeat = Šis perspėjimas daugiau nebus rodomas.
 dlg-keep-setting = Įsiminti mano atsakymą ir daugiau nebeklausti
+dlg-no-prompt = Šio dialogo daugiau neberodyti.
 enig-prompt = „OpenPGP“ pranešimas
 enig-confirm = „OpenPGP“ patvirtinimas
 enig-alert = „OpenPGP“ įspėjimas
