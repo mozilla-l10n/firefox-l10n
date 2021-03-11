@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Інформація для вирішення проблем
+page-title = Інформація для усунення проблем
 page-subtitle =
-    Ця сторінка містить технічну інформацію, що може стати у нагоді під час вирішення проблем.
-    Якщо ж вам потрібні відповіді на загальні питання щодо
-    { -brand-short-name } — відвідайте наш <a data-l10n-name="support-link">сайт підтримки</a>.
+    Ця сторінка містить технічну інформацію, що може стати в пригоді під час усунення проблем.
+    Якщо ж вам потрібні відповіді на поширені питання про { -brand-short-name },
+    відвідайте наш <a data-l10n-name="support-link">сайт підтримки</a>.
 crashes-title = Звіти про збої
 crashes-id = ID звіту
 crashes-send-date = Надіслано
