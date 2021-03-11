@@ -90,6 +90,31 @@ openpgp-key-copy-key =
 openpgp-key-export-key =
     .label = Eksportuoti viešą (-us) raktą (-us) į failą
     .accesskey = E
+openpgp-key-backup-key =
+    .label = Išsaugoti slaptą raktą faile
+    .accesskey = s
+openpgp-key-send-key =
+    .label = Siųsti viešą raktą el. paštu
+    .accesskey = s
+openpgp-key-man-copy-to-clipbrd =
+    .label = Kopijuoti viešąjį (-ius) raktą (-us) į mainų sritį
+    .accesskey = K
+openpgp-key-man-copy-key-ids =
+    .label =
+        { $count ->
+            [one] Kopijuoti rakto ID į mainų sritį
+            [few] Kopijuoti raktų ID į mainų sritį
+           *[other] Kopijuoti raktų ID į mainų sritį
+        }
+    .accesskey = K
+openpgp-key-man-copy-fprs =
+    .label =
+        { $count ->
+            [one] Kopijuoti „piršto atspaudą“ į mainų sritį
+            [few] Kopijuoti „pirštų atspaudus“ į mainų sritį
+           *[other] Kopijuoti „pirštų atspaudus“ į mainų sritį
+        }
+    .accesskey = K
 openpgp-key-man-ctx-copy-fprs =
     .label =
         { $count ->
