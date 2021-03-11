@@ -210,13 +210,16 @@ cfr-doorhanger-cryptominers-description = Ваша приватність має
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } заблокував <b>{ $blockedCount }</b> елемент стеження, починаючи з { $date }!
         [few] { -brand-short-name } заблокував <b>{ $blockedCount }</b> елементи стеження, починаючи з { $date }!
        *[many] { -brand-short-name } заблокував понад <b>{ $blockedCount }</b> елементів стеження, починаючи з { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } заблокував <b>{ $blockedCount }</b> елемент стеження від { DATETIME($date, month: "long", year: "numeric") }!
@@ -251,6 +254,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Піктограма зображення
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Швидкий огляд стану захисту
 cfr-whatsnew-protections-body = Панель стану захисту містить підсумкові звіти про витоки даних і керування паролями. Тепер ви можете стежити, скільки витоків даних ви розв'язали та переглядати чи якісь зі збережених паролів могли бути викриті з витоком даних.
 cfr-whatsnew-protections-cta-link = Переглянути панель стану захисту
@@ -266,6 +273,8 @@ cfr-whatsnew-better-pdf-body = PDF-документи тепер відкрив�
 cfr-doorhanger-doh-body = Ваша приватність має значення. { -brand-short-name } тепер надійно спрямовує ваші DNS-запити, коли це можливо, до партнерської служби, щоб захистити вас під час перегляду.
 cfr-doorhanger-doh-header = Безпечніша, зашифрована перевірка DNS
 cfr-doorhanger-doh-primary-button = Гаразд, зрозуміло
+    .accesskey = Г
+cfr-doorhanger-doh-primary-button-2 = Гаразд
     .accesskey = Г
 cfr-doorhanger-doh-secondary-button = Вимкнути
     .accesskey = В

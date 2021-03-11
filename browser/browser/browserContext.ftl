@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Використати згенерований пароль
     .accesskey = з
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Використати збережене ім'я входу
+    .accesskey = б
+main-context-menu-use-saved-password =
+    .label = Використати збережений пароль
+    .accesskey = б
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Запропонувати надійний пароль…
+    .accesskey = й
 main-context-menu-manage-logins =
     .label = Керувати паролями…
     .accesskey = п
