@@ -114,6 +114,12 @@ drop-file-label-inline =
 
 move-attachment-first-panel-button =
     .label = Perkelti į pradžią
+move-attachment-left-panel-button =
+    .label = Perkelti kairėn
+move-attachment-right-panel-button =
+    .label = Perkelti dešinėn
+move-attachment-last-panel-button =
+    .label = Perkelti į pabaigą
 button-return-receipt =
     .label = Patvirtinimas
     .tooltiptext = Paprašyti pristatymo patvirtinimo šiam pranešimui

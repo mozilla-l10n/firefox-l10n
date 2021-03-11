@@ -293,6 +293,7 @@ key-confirm = Generuoti viešą ir slaptąjį „{ $id }“ raktą?
 key-not-found = Raktas „{ $key }“ nerastas
 key-revoked = Raktas „{ $key }“ buvo atšauktas
 key-expired = Raktas „{ $key }“ nebegalioja
+save-attachment-header = Išsaugoti iššifruotą priedą
 repeat-suffix-singular = daugiau laiko.
 repeat-suffix-plural = daugiau kartų.
 no-repeat = Šis perspėjimas daugiau nebus rodomas.
