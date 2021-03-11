@@ -126,6 +126,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY abPropertiesContext.label                      "Savybės">
 <!ENTITY abPropertiesContext.accesskey                  "S">
 <!ENTITY syncContext.label                              "Sinchronizuoti">
+<!ENTITY syncContext.accesskey                          "y">
 <!ENTITY editContactContext.label                       "Keisti adresatą">
 <!ENTITY editContactContext.accesskey                   "K">
 <!ENTITY editMailingListContext.label                   "Keisti sąrašą">
