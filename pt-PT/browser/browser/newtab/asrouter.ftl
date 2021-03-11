@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = A sua privacidade é importante. O { -
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
        *[other] { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] O { -brand-short-name } bloqueou <b>{ $blockedCount }</b> rastreador desde { DATETIME($date, month: "long", year: "numeric") }!
@@ -245,6 +248,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícone de vídeo em janela flutuante
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Visão geral das proteções
 cfr-whatsnew-protections-body = O Painel de protecão inclui relatórios resumidos sobre violações de dados e gestão de palavras-passe. Agora pode acompanhar quantas violações de dados resolveu e ver se alguma das suas palavras-passe guardadas pode ter sido exposta em uma violação de dados.
 cfr-whatsnew-protections-cta-link = Ver painel de proteções
@@ -260,6 +267,8 @@ cfr-whatsnew-better-pdf-body = Os documentos PDF são agora abertos diretamente 
 cfr-doorhanger-doh-body = A sua privacidade é importante. Agora, o { -brand-short-name } encaminha os seus pedidos de DNS de forma segura e sempre que possível, para um serviço de um parceiro para o proteger enquanto navega.
 cfr-doorhanger-doh-header = Pesquisas de DNS encriptadas e mais seguras
 cfr-doorhanger-doh-primary-button = OK, percebi
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Desativar
     .accesskey = D
