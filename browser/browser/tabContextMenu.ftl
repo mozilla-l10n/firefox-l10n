@@ -95,6 +95,13 @@ move-tabs =
 move-tab =
     .label = Mugitu fitxa
     .accesskey = M
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ireki berriro itxitako fitxa
+           *[other] Ireki berriro itxitako fitxak
+        }
+    .accesskey = k
 tab-context-close-tabs =
     .label =
         { $tabCount ->
