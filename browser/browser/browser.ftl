@@ -376,6 +376,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon za dijeljenje:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
 popup-all-windows-shared = Svi vidljivi prozori na tvom ekranu će se dijeliti.
 popup-screen-sharing-not-now =
     .label = Ne sada
@@ -385,6 +391,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Deaktiviraj { -brand-short-name } obavijesti tijekom dijeljenja
 popup-silence-notifications-checkbox-warning = { -brand-short-name } neće prikazivati obavijesti dok dijeliš.
+popup-screen-sharing-block =
+    .label = Blokiraj
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Uvijek blokiraj
+    .accesskey = v
+popup-mute-notifications-checkbox = Utišaj obavijesti web-stranice tijekom dijeljenja
 
 ## WebRTC window or screen share tab switch warning
 
