@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Tekstcodering
     .accesskey = c
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Probleemoplossingsmodus…
+    .accesskey = P
+menu-help-exit-troubleshoot-mode =
+    .label = Probleemoplossingsmodus uitschakelen
+    .accesskey = c
+menu-help-more-troubleshooting-info =
+    .label = Meer probleemoplossingsinformatie
+    .accesskey = M
+
 ## Mail Toolbar
 
 toolbar-junk-button =
