@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Μοιραστείτε το μικρόφωνο:
     .accesskey = Μ
+popup-select-camera-device =
+    .value = Κάμερα:
+    .accesskey = Κ
+popup-select-microphone-device =
+    .value = Μικρόφωνο:
+    .accesskey = Μ
 popup-all-windows-shared = Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.
 popup-screen-sharing-not-now =
     .label = Όχι τώρα
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = Ν
 popup-silence-notifications-checkbox = Απενεργοποίηση ειδοποιήσεων από το { -brand-short-name } κατά την κοινή χρήση
 popup-silence-notifications-checkbox-warning = Το { -brand-short-name } δεν θα εμφανίζει ειδοποιήσεις κατά την κοινή χρήση.
+popup-screen-sharing-block =
+    .label = Φραγή
+    .accesskey = Φ
+popup-screen-sharing-always-block =
+    .label = Πάντα φραγή
+    .accesskey = τ
+popup-mute-notifications-checkbox = Σίγαση ειδοποιήσεων ιστοσελίδας κατά την κοινή χρήση
 
 ## WebRTC window or screen share tab switch warning
 
