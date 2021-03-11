@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Codificação de texto
     .accesskey = C
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Modo de diagnóstico…
+    .accesskey = d
+menu-help-exit-troubleshoot-mode =
+    .label = Desligar o modo de diagnóstico
+    .accesskey = g
+menu-help-more-troubleshooting-info =
+    .label = Mais informação para diagnóstico
+    .accesskey = M
+
 ## Mail Toolbar
 
 toolbar-junk-button =
