@@ -27,6 +27,7 @@ openpgp-missing-signature-key = Šis pranešimas pasirašytas raktu, kurio dar n
 openpgp-search-signature-key =
     .label = Atrasti…
 # Don't translate the terms "OpenPGP" and "MS-Exchange"
+openpgp-broken-exchange-opened = Tai „OpenPGP“ pranešimas, kuris ko gero sugadintas MS-Exchange ir, kadangi atvertas iš lokalaus failo, negali būti atkurtas. Pabandykite nukopijuoti pranešimą į pašto aplanką ir galbūt pavyks jį sutvarkyti automatiškai.
 openpgp-broken-exchange-info = Tai yra „OpenPGP“ pranešimas, kurį, matyt, sugadino „MS-Exchange“. Jei pranešimo turinys nerodomas taip, kaip tikėtasi, galite išbandyti automatinį taisymą.
 openpgp-broken-exchange-repair =
     .label = Atkurti pranešimą
