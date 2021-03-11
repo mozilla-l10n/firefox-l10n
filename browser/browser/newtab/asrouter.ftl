@@ -208,13 +208,16 @@ cfr-doorhanger-cryptominers-description = Tvoja privatnost je važna. { -brand-s
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
         [few] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
        *[other] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } je blokirao više od <b>{ $blockedCount }</b> programa za praćenje od { DATETIME($date, month: "long", year: "numeric") }!
@@ -249,6 +252,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona slike-u-slici
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Zaštita na prvi pogled
 cfr-whatsnew-protections-body = Nadzorna ploča zaštite sadrži sažeta izvješća o curenju podataka i upravljanju lozinkama. Sada možeš pratiti koliko je curenja riješeno i vidjeti ako su neke od tvojih lozinka izložene u curenju podataka.
 cfr-whatsnew-protections-cta-link = Prikaži nadzornu ploču zaštite
@@ -265,6 +272,8 @@ cfr-doorhanger-doh-body = Tvoja privatnost je važna. { -brand-short-name } sada
 cfr-doorhanger-doh-header = Sigurnije, šifrirano pregledavanje DNS-a
 cfr-doorhanger-doh-primary-button = U redu, razumijem
     .accesskey = r
+cfr-doorhanger-doh-primary-button-2 = U redu
+    .accesskey = U
 cfr-doorhanger-doh-secondary-button = Deaktiviraj
     .accesskey = D
 
