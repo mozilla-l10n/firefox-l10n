@@ -25,6 +25,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Desegin fitxak ixtea
         }
     .accesskey = D
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ireki berriro itxitako fitxa
+           *[other] Ireki berriro itxitako fitxak
+        }
+    .accesskey = k
 toolbar-context-menu-manage-extension =
     .label = Kudeatu hedapena
     .accesskey = h
