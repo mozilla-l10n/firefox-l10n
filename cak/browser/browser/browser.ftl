@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Q'asäy ch'ab'äl richin rutaluxik:
     .accesskey = Q
+popup-select-camera-device =
+    .value = Elesäy wachib'äl:
+    .accesskey = E
+popup-select-microphone-device =
+    .value = Q'asäy ch'ab'äl:
+    .accesskey = q
 popup-all-windows-shared = Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.
 popup-screen-sharing-not-now =
     .label = Wakami Mani
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = M
 popup-silence-notifications-checkbox = Kechup taq rutzijol { -brand-short-name } toq nikomonïx
 popup-silence-notifications-checkbox-warning = Man xkeruk'üt ta pe taq tzijol ri { -brand-short-name } toq nikomonin.
+popup-screen-sharing-block =
+    .label = Tiq'at
+    .accesskey = T
+popup-screen-sharing-always-block =
+    .label = Junelïk tiq'at
+    .accesskey = J
+popup-mute-notifications-checkbox = Kememüx rutzijol ajk'amaya'l ruxaq toq nikomonïx
 
 ## WebRTC window or screen share tab switch warning
 

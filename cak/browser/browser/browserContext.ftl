@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Tokisäx Tz'ukun Ewan Tzij…
     .accesskey = z
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Tokisäx Yakon Rutikirib'al Molojri'ïl
+    .accesskey = u
+main-context-menu-use-saved-password =
+    .label = Tokisäx Yakon Ewan Tzij
+    .accesskey = z
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Tichilab'ëx Ütz Ewan Tzij…
+    .accesskey = Ü
 main-context-menu-manage-logins =
     .label = Kenuk'samajïx ri taq Kitikirisab'al Moloj…
     .accesskey = K
