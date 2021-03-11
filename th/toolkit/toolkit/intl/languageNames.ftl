@@ -176,6 +176,7 @@ language-name-st = โซโทใต้
 language-name-su = ซุนดา
 language-name-sv = สวีเดน
 language-name-sw = สวาฮีลี
+language-name-szl = ซิลีเซีย
 language-name-ta = ทมิฬ
 language-name-te = เตลูกู
 language-name-tg = ทาจิก

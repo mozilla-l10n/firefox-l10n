@@ -100,6 +100,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = มาตราส่วนต้องเป็นตัวเลขระหว่าง 10 ถึง 200
 printui-error-invalid-margin = โปรดป้อนระยะขอบที่ถูกต้องสำหรับขนาดกระดาษที่เลือก
+printui-error-invalid-copies = สำเนาต้องเป็นตัวเลขระหว่าง 1 และ 10000
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = ช่วงต้องเป็นตัวเลขระหว่าง 1 ถึง { $numPages }
