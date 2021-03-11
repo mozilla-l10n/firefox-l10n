@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = Nïm ri awichinanem. { -brand-short-na
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] ¡{ -brand-short-name } xeruq'ät k'ïy <b>{ $blockedCount }</b> taq ojqanela' pa { $date }!
        *[other] ¡{ -brand-short-name } xeruq'ät k'ïy <b>{ $blockedCount }</b> taq ojqanela' pa { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } xq'at pa <b>{ $blockedCount }</b> ojqanel { DATETIME($date, month: "long", year: "numeric") }
@@ -245,6 +248,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ruwachib'al Picture-in-picture
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Taq chajinïk wakami
 cfr-whatsnew-protections-body = Ri rupas chajinïk eruk'wan ko'öl taq kitzijol kitz'ilanem tzij chuqa' kinuk'samajixik ewan taq tzij. Wakami yatikïr natz'ët jarupe' taq tz'ilanem xesol richin natz'ët we jun chi ke ri ewan taq atzij ayakon xtz'iläx pa jun tz'ilanem tzij.
 cfr-whatsnew-protections-cta-link = Titz'et Kipas Chajinïk
@@ -261,6 +268,8 @@ cfr-doorhanger-doh-body = K'o rejqalem ri awichinanem. { -brand-short-name } wak
 cfr-doorhanger-doh-header = Kikanoxik jikïl chuqa' man etaman ta rusik'ixik taq DNS
 cfr-doorhanger-doh-primary-button = ÜTZ, Wetaman chik
     .accesskey = T
+cfr-doorhanger-doh-primary-button-2 = Ütz
+    .accesskey = t
 cfr-doorhanger-doh-secondary-button = Tichup
     .accesskey = h
 

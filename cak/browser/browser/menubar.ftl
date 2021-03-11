@@ -225,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Kek'ut konojel ri taq yaketal
 menu-bookmark-this-page =
     .label = Titz'aqatisäx re ruxaq re' pa taq yaketal
+menu-bookmark-current-tab =
+    .label = Tiya' Retal Ruwi' Wakami
 menu-bookmark-edit =
     .label = Tinuk' re yaketal re'
 menu-bookmarks-all-tabs =
@@ -249,6 +251,12 @@ menu-tools-addons =
     .accesskey = t
 menu-tools-fxa-sign-in =
     .label = Titikirisäx Moloj Pa { -brand-product-name }...
+    .accesskey = k
+menu-tools-extensions =
+    .label = Taq K'amal chuqa' taq Wachinel
+    .accesskey = K
+menu-tools-fxa-sign-in2 =
+    .label = Titikirisäx Molojri'ïl
     .accesskey = k
 menu-tools-turn-on-sync =
     .label = Titzij { -sync-brand-short-name }...
@@ -278,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] c
            *[other] o
+        }
+menu-settings =
+    .label = Taq nuk'ulem
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Ruchojmirisanel Wachib'enïk
