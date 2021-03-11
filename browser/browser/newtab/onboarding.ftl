@@ -166,6 +166,10 @@ onboarding-multistage-welcome-subtitle = Irabazi-asmorik gabeko erakunde batek b
 onboarding-multistage-welcome-primary-button-label = Hasi konfigurazioa
 onboarding-multistage-welcome-secondary-button-label = Hasi saioa
 onboarding-multistage-welcome-secondary-button-text = Kontua baduzu?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Egizu { -brand-short-name } zure nabigatzaile <span data-l10n-name="zap">lehenetsia</span>
+onboarding-multistage-set-default-subtitle = Abiadura, segurtasuna eta pribatutasuna nabigatzen duzun aldiro.
 onboarding-multistage-set-default-primary-button-label = Lehenetsi
 onboarding-multistage-set-default-secondary-button-label = Une honetan ez
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be

@@ -383,6 +383,13 @@ popup-screen-sharing-never =
     .accesskey = n
 popup-silence-notifications-checkbox = Partekatu bitartean, desgaitu { -brand-short-name }(r)en jakinarazpenak
 popup-silence-notifications-checkbox-warning = { -brand-short-name }(e)k ez du jakinarazpenik bistaratuko partekatzen ari zaren bitartean.
+popup-screen-sharing-block =
+    .label = Blokeatu
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Blokeatu beti
+    .accesskey = k
+popup-mute-notifications-checkbox = Mututu webgunearen jakinarazpenak partekatzea aktibo dagoenean
 
 ## WebRTC window or screen share tab switch warning
 

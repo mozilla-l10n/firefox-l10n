@@ -100,6 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Beste laster-markak
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Kendu laster-marka
+           *[other] Kendu laster-markak
+        }
+    .accesskey = K
 places-manage-bookmarks =
     .label = Kudeatu laster-markak
     .accesskey = K
