@@ -408,8 +408,17 @@ dlg-button-delete = Š&alinti
 ## Account settings export output
 
 openpgp-export-public-success = <b> Viešasis raktas eksportuotas </b>
+openpgp-export-public-fail = <b> Nepavyko eksportuoti pasirinkto viešojo rakto! </b>
+openpgp-export-secret-success = <b> Slaptasis raktas eksportuotas </b>
+openpgp-export-secret-fail = <b> Nepavyko eksportuoti pasirinkto slaptojo rakto! </b>
+# Strings in keyObj.jsm
+key-ring-pub-key-revoked = Raktas { $userId } (rakto ID { $keyId }) yra atšauktas.
 key-ring-pub-key-expired = Rakto „{ $userId }“ (rakto ID „{ $keyId }“) galiojimas pasibaigęs.
 key-ring-key-disabled = Raktas „{ $userId }“ (rakto ID „{ $keyId }“) išjungtas; jo negalima naudoti.
+key-ring-key-invalid = Raktas { $userId } (rakto ID { $keyId }) neteisingas. Patikrinkite jį.
+key-ring-key-not-trusted = Raktas { $userId } (rakto ID { $keyId }) nėra pakankamai patikimas. Jei norite jį naudoti pasirašydami, nustatykite šio rakto pasitikėjimo lygį „didžiausias“.
+key-ring-no-secret-key = Panašu, kad jūs neturite slapto { $userId } (rakto ID { $keyId }) rakto, todėl negalite naudoti šio rakto pasirašymui.
+key-ring-pub-key-not-for-signing = Raktas { $userId } (rakto ID { $keyId }) negali būti naudojamas pasirašymuit.
 # Strings in gnupg-keylist.jsm
 keyring-photo = Nuotrauka
 user-att-photo = Vartotojo atributas (JPEG vaizdas)
@@ -423,6 +432,10 @@ delete-key-title = Pašalingti „OpenPGP“ raktą
 delete-external-key-title = Pašalinti išorinį „GnuPG“ raktą
 delete-external-key-description = Ar norite pašalinti šį išorinio „GnuPG“ rakto ID?
 key-in-use-title = Šis „OpenPGP“ raktas šiuo metu naudojamas
+# Strings used in errorHandling.jsm
+key-error-key-spec-not-found = El. pašto adreso „{ $keySpec }“ nėra jūsų raktų sąraše.
+key-error-key-id-not-found = Nurodyto rakto ID „{ $keySpec }“ nėrai jūsų raktų saraše.
+key-error-not-accepted-as-personal = Jūs nepatvirtinote, kad raktas, kurio ID „{ $keySpec }“, yra jūsų asmeninis raktas.
 # Strings used in keyRing.jsm & keyLookupHelper.jsm
 no-key-found = Nepavyko rasti jokių raktų, atitinkančių nurodytus paieškos kriterijus.
 # Strings used in keyRing.jsm & GnuPGCryptoAPI.jsm
