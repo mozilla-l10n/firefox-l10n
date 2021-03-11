@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Använd genererat lösenord…
     .accesskey = A
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Använd sparad inloggning
+    .accesskey = A
+main-context-menu-use-saved-password =
+    .label = Använd sparat lösenord
+    .accesskey = A
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Föreslå starkt lösenord…
+    .accesskey = F
 main-context-menu-manage-logins =
     .label = Hantera inloggningar…
     .accesskey = H

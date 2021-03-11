@@ -130,10 +130,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argument
 safe-mode-title = Prova felsäkert läge
 restart-in-safe-mode-label = Starta om utan tillägg…
+restart-in-troubleshoot-mode-label = Felsökningsläge…
 clear-startup-cache-title = Prova att rensa startcachen
 clear-startup-cache-label = Rensa startcache…
 startup-cache-dialog-title = Rensa startcache
 startup-cache-dialog-body = Starta om { -brand-short-name } för att rensa startcachen. Detta kommer inte att ändra dina inställningar eller ta bort tillägg som du har lagt till i { -brand-short-name }.
+startup-cache-dialog-title2 = Starta om { -brand-short-name } för att rensa startcache?
+startup-cache-dialog-body2 = Detta ändrar inte dina inställningar eller tar bort tillägg.
 restart-button-label = Starta om
 
 ## Media titles
