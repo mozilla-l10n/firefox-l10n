@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Søk på denne sida…
     .accesskey = S
+menu-edit-find-in-page =
+    .label = Finn på sida…
+    .accesskey = F
 menu-edit-find-again =
     .label = Søk igjen
     .accesskey = ø
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = V
 menu-view-customize-toolbar =
     .label = Tilpass…
+    .accesskey = T
+menu-view-customize-toolbar2 =
+    .label = Tilpass verktøylinje…
     .accesskey = T
 menu-view-sidebar =
     .label = Sidestolpe
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Vis alle bokmerka
 menu-bookmark-this-page =
     .label = Bokmerk denne sida
+menu-bookmark-current-tab =
+    .label = Bokmerk gjeldande fane
 menu-bookmark-edit =
     .label = Rediger dette bokmerket
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Logg inn på { -brand-product-name }…
     .accesskey = g
+menu-tools-extensions =
+    .label = Utvidingar og tema
+    .accesskey = U
+menu-tools-fxa-sign-in2 =
+    .label = Logg inn
+    .accesskey = L
 menu-tools-turn-on-sync =
     .label = Slå på { -sync-brand-short-name }…
     .accesskey = S
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] I
            *[other] I
+        }
+menu-settings =
+    .label = Innstillingar
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Feilsøk layout
@@ -325,6 +346,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Feilsøking
     .accesskey = e
+menu-help-more-troubleshooting-info =
+    .label = Meir feilsøkingsinformasjon
+    .accesskey = M
 menu-help-taskmanager =
     .label = Aktivitetshandterar
 menu-help-report-site-issue =
