@@ -315,6 +315,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Predloži jaku lozinku...
+    .accesskey = j
 main-context-menu-manage-logins =
     .label = Upravljaj prijavama…
     .accesskey = m
