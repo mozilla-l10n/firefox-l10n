@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofoan om te dielen:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Mikrofoan:
+    .accesskey = M
 popup-all-windows-shared = Alle sichtbere finsters op jo skerm sille dield wurde.
 popup-screen-sharing-not-now =
     .label = No net
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = a
 popup-silence-notifications-checkbox = Notifikaasjes fan { -brand-short-name } útskeakelje wylst dielen
 popup-silence-notifications-checkbox-warning = { -brand-short-name } toant gjin meldingen wylst jo diele.
+popup-screen-sharing-block =
+    .label = Blokkearje
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Altyd blokkearje
+    .accesskey = t
+popup-mute-notifications-checkbox = Websitemeldingen dôvje wylst dielen
 
 ## WebRTC window or screen share tab switch warning
 

@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Oanmakke wachtwurd brûke…
     .accesskey = c
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Bewarre oanmeldingen brûke
+    .accesskey = B
+main-context-menu-use-saved-password =
+    .label = Bewarre wachtwurden brûke
+    .accesskey = B
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Sterk wachtwurd foarstelle…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Oanmeldingen beheare…
     .accesskey = b

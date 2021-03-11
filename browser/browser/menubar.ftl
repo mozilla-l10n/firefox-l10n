@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Sykje op dizze side…
     .accesskey = S
+menu-edit-find-in-page =
+    .label = Sykje op side…
+    .accesskey = S
 menu-edit-find-again =
     .label = Opnij sykje
     .accesskey = s
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Oanpasse…
     .accesskey = O
+menu-view-customize-toolbar2 =
+    .label = Arkbalke oanpasse…
+    .accesskey = p
 menu-view-sidebar =
     .label = Sidebalke
     .accesskey = S
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Alle blêdwizers toane
 menu-bookmark-this-page =
     .label = Blêdwizer foar dizze side meitsje
+menu-bookmark-current-tab =
+    .label = Blêdwizer foar aktuele ljepblêd meitsje
 menu-bookmark-edit =
     .label = Dizze blêdwizer bewurkje
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = A
 menu-tools-fxa-sign-in =
     .label = Oanmelde by { -brand-product-name }…
+    .accesskey = m
+menu-tools-extensions =
+    .label = Utwreidingen en Tema’s
+    .accesskey = U
+menu-tools-fxa-sign-in2 =
+    .label = Oanmelde
     .accesskey = m
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } ynskeakelje…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] F
+        }
+menu-settings =
+    .label = Ynstellingen
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Y
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Lay-out-debugger
