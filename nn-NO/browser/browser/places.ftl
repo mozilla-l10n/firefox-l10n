@@ -50,6 +50,9 @@ places-add-folder-contextmenu =
 places-add-folder =
     .label = Legg til mappe
     .accesskey = m
+places-add-separator =
+    .label = Legg til skiljelinje
+    .accesskey = s
 places-view =
     .label = Vis
     .accesskey = i
@@ -97,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Andre bokmerke
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Fjern bokmerke
+           *[other] Fjern bokmerke
+        }
+    .accesskey = F
+places-manage-bookmarks =
+    .label = Handter bokmerke
+    .accesskey = H

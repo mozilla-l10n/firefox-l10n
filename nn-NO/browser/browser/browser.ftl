@@ -395,6 +395,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Blokker alltid
     .accesskey = k
+popup-mute-notifications-checkbox = Slå av nettstadvarsel mesn du deler
 
 ## WebRTC window or screen share tab switch warning
 
@@ -637,3 +638,5 @@ more-menu-go-offline =
 eme-notifications-drm-content-playing = Ein del lyd eller video på denne sida brukar DRM-programvare, som kan avgrense kva { -brand-short-name } lèt deg gjere med den.
 eme-notifications-drm-content-playing-manage = Handter innstillingar
 eme-notifications-drm-content-playing-manage-accesskey = H
+eme-notifications-drm-content-playing-dismiss = Ignorer
+eme-notifications-drm-content-playing-dismiss-accesskey = I
