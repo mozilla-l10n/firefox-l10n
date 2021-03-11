@@ -262,6 +262,8 @@ cfr-doorhanger-doh-body = Сіздің жекелігіңіз маңызды. { 
 cfr-doorhanger-doh-header = Одан әрі қауіпсіз, шифрленген DNS іздеулері
 cfr-doorhanger-doh-primary-button = Жақсы, түсіндім
     .accesskey = а
+cfr-doorhanger-doh-primary-button-2 = ОК
+    .accesskey = О
 cfr-doorhanger-doh-secondary-button = Сөндіру
     .accesskey = д
 

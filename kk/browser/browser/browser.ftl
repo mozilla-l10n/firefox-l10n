@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Бөлісу үшін микрофон:
     .accesskey = м
+popup-select-camera-device =
+    .value = Камера:
+    .accesskey = К
+popup-select-microphone-device =
+    .value = Микрофон:
+    .accesskey = М
 popup-all-windows-shared = Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.
 popup-screen-sharing-not-now =
     .label = Қазір емес
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = н
 popup-silence-notifications-checkbox = Бөлісу кезінде { -brand-short-name } хабарламаларын сөндіру
 popup-silence-notifications-checkbox-warning = { -brand-short-name } бөлісу кезінде хабарламаларды көрсетпейді.
+popup-screen-sharing-block =
+    .label = Бұғаттау
+    .accesskey = Б
+popup-screen-sharing-always-block =
+    .label = Әрқашан бұғаттау
+    .accesskey = ш
+popup-mute-notifications-checkbox = Бөлісу кезінде веб-сайт хабарламаларының дыбысын сөндіру
 
 ## WebRTC window or screen share tab switch warning
 
