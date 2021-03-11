@@ -255,7 +255,7 @@ shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] { $numberToShow }개 더 보기
     }
-shortcuts-card-collapse-button = 간략히 보기
+shortcuts-card-collapse-button = 간단히 보기
 header-back-button =
     .title = 뒤로 가기
 
