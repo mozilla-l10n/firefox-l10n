@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Кушодан дар варақаи нав
     .accesskey = К
+places-open-in-tab =
+    .label = Кушодан дар варақаи нав
+    .accesskey = К
+places-open-all-bookmarks =
+    .label = Кушодани ҳамаи хатбаракҳо
+    .accesskey = К
 places-open-all-in-tabs =
     .label = Ҳамаро дар варақаҳо кушоед
     .accesskey = Ҳ
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Ҷудосози нав
     .accesskey = Ҷ
+places-open-in-window =
+    .label = Кушодан дар равзанаи нав
+    .accesskey = К
+places-open-in-private-window =
+    .label = Кушодан дар равзанаи махфии нав
+    .accesskey = К
+places-add-bookmark =
+    .label = Илова кардани хатбарак…
+    .accesskey = И
+places-add-folder-contextmenu =
+    .label = Илова кардани ҷузвдон…
+    .accesskey = И
+places-add-folder =
+    .label = Илова кардани ҷузвдон…
+    .accesskey = И
+places-add-separator =
+    .label = Илова кардани ҷудосоз
+    .accesskey = И
 places-view =
     .label = Намоиш
     .accesskey = Н
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Хусусиятҳо
     .accesskey = Х
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Таҳрир кардани хатбарак…
+    .accesskey = Т
+places-edit-generic =
+    .label = Таҳрир кардан…
+    .accesskey = Т
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Хатбаракҳои идорашаванда
@@ -69,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Хатбаракҳои дигар
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Тоза кардани хатбарак
+           *[other] Тоза кардани хатбаракҳо
+        }
+    .accesskey = Т
+places-manage-bookmarks =
+    .label = Идоракунии хатбаракҳо
+    .accesskey = И
