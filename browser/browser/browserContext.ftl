@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Генерацияланған парольді қолдану…
     .accesskey = Г
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Сақталған логинді қолдану
+    .accesskey = о
+main-context-menu-use-saved-password =
+    .label = Сақталған парольді қолдану
+    .accesskey = о
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Мықты парольді ұсыну…
+    .accesskey = с
 main-context-menu-manage-logins =
     .label = Логиндерді басқару
     .accesskey = н

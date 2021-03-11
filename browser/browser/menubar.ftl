@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Осы парақтан іздеу…
     .accesskey = т
+menu-edit-find-in-page =
+    .label = Беттен табу…
+    .accesskey = т
 menu-edit-find-again =
     .label = Іздеуді қайталау
     .accesskey = з
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Баптау…
     .accesskey = а
+menu-view-customize-toolbar2 =
+    .label = Құралдар панелін баптау…
+    .accesskey = п
 menu-view-sidebar =
     .label = Бүйір панелі
     .accesskey = Б
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Барлық бетбелгілерді көрсету
 menu-bookmark-this-page =
     .label = Бұл бетті бетбелгілерге қосу
+menu-bookmark-current-tab =
+    .label = Ағымдағы бетті бетбелгілерге қосу
 menu-bookmark-edit =
     .label = Бетбелгіні түзету
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name } ішіне кіру…
     .accesskey = к
+menu-tools-extensions =
+    .label = Кеңейтулер және темалар
+    .accesskey = е
+menu-tools-fxa-sign-in2 =
+    .label = Кіру
+    .accesskey = р
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } іске қосу…
     .accesskey = е
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] ц
            *[other] м
+        }
+menu-settings =
+    .label = Баптаулар
+    .accesskey =
+        { PLATFORM() ->
+            [windows] п
+           *[other] п
         }
 menu-tools-layout-debugger =
     .label = Жайма жөндегіші
