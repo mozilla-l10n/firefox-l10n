@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Aangemaakte wachtwoord gebruiken…
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Opgeslagen aanmelding gebruiken
+    .accesskey = O
+main-context-menu-use-saved-password =
+    .label = Opgeslagen wachtwoord gebruiken
+    .accesskey = O
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Sterk wachtwoord voorstellen…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Aanmeldingen beheren…
     .accesskey = b
@@ -363,7 +380,7 @@ main-context-menu-inspect-element =
     .accesskey = E
 main-context-menu-inspect =
     .label = Inspecteren
-    .accesskey = Q
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Toegankelijkheidseigenschappen inspecteren
 main-context-menu-eme-learn-more =

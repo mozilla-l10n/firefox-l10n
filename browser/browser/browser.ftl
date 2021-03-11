@@ -394,6 +394,10 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } toont geen 
 popup-screen-sharing-block =
     .label = Blokkeren
     .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Altijd blokkeren
+    .accesskey = t
+popup-mute-notifications-checkbox = Websitemeldingen dempen tijdens delen
 
 ## WebRTC window or screen share tab switch warning
 
