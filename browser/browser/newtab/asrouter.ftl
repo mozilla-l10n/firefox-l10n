@@ -268,6 +268,8 @@ cfr-doorhanger-doh-body = Din integritet är viktig. { -brand-short-name } dirig
 cfr-doorhanger-doh-header = Säkrare, krypterade DNS-uppslag
 cfr-doorhanger-doh-primary-button = Ok, jag förstår
     .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Okej
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Inaktivera
     .accesskey = I
 
