@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Tekenkodearring
     .accesskey = k
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Probleemoplossingsmodus…
+    .accesskey = P
+menu-help-exit-troubleshoot-mode =
+    .label = Probleemoplossingsmodus útskeakelje
+    .accesskey = k
+menu-help-more-troubleshooting-info =
+    .label = Mear probleemoplossingsynformaasje
+    .accesskey = M
+
 ## Mail Toolbar
 
 toolbar-junk-button =
