@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Bu sayfada bul…
     .accesskey = s
+menu-edit-find-in-page =
+    .label = Sayfada bul…
+    .accesskey = b
 menu-edit-find-again =
     .label = Sonrakini bul
     .accesskey = a
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Özelleştir…
     .accesskey = Ö
+menu-view-customize-toolbar2 =
+    .label = Araç çubuğunu özelleştir…
+    .accesskey = z
 menu-view-sidebar =
     .label = Kenar çubuğu
     .accesskey = K
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Tüm yer imlerini göster
 menu-bookmark-this-page =
     .label = Bu sayfayı yer imlerine ekle
+menu-bookmark-current-tab =
+    .label = Bu sekmeyi yer imlerine ekle
 menu-bookmark-edit =
     .label = Bu yer imini düzenle
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name }’a giriş yap…
     .accesskey = g
+menu-tools-extensions =
+    .label = Eklentiler ve temalar
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Giriş yap
+    .accesskey = G
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name }’i etkinleştir…
     .accesskey = n
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] S
            *[other] T
+        }
+menu-settings =
+    .label = Ayarlar
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] r
         }
 menu-tools-layout-debugger =
     .label = Düzen hata ayıklayıcısı
