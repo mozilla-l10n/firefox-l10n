@@ -17,6 +17,9 @@ menu-help-enter-troubleshoot-mode =
 menu-help-exit-troubleshoot-mode =
     .label = Stäng av felsökningsläge
     .accesskey = S
+menu-help-more-troubleshooting-info =
+    .label = Mer felsökningsinformation
+    .accesskey = M
 
 ## Mail Toolbar
 
