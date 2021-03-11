@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Zoeken op deze pagina…
     .accesskey = Z
+menu-edit-find-in-page =
+    .label = Zoeken op pagina…
+    .accesskey = Z
 menu-edit-find-again =
     .label = Opnieuw zoeken
     .accesskey = w
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Aanpassen…
     .accesskey = A
+menu-view-customize-toolbar2 =
+    .label = Werkbalk aanpassen…
+    .accesskey = p
 menu-view-sidebar =
     .label = Zijbalk
     .accesskey = Z
@@ -249,6 +255,9 @@ menu-tools-fxa-sign-in =
 menu-tools-extensions =
     .label = Extensies en Thema’s
     .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Aanmelden
+    .accesskey = m
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } inschakelen…
     .accesskey = n
@@ -277,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] V
+        }
+menu-settings =
+    .label = Instellingen
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Lay-out-debugger

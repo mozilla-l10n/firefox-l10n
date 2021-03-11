@@ -133,11 +133,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenten
 safe-mode-title = Veilige modus proberen
 restart-in-safe-mode-label = Herstarten met uitgeschakelde add-ons…
+troubleshoot-mode-title = Problemen analyseren
 restart-in-troubleshoot-mode-label = Probleemoplossingsmodus…
 clear-startup-cache-title = Opstartbuffer proberen te wissen
 clear-startup-cache-label = Opstartbuffer wissen…
 startup-cache-dialog-title = Opstartbuffer wissen
 startup-cache-dialog-body = Herstart { -brand-short-name } om de opstartbuffer te wissen. Dit wijzigt uw instellingen niet en verwijdert geen aan { -brand-short-name } toegevoegde extensies.
+startup-cache-dialog-title2 = { -brand-short-name } herstarten om de opstartbuffer te wissen?
 startup-cache-dialog-body2 = Dit zal uw instellingen niet wijzigen of extensies verwijderen.
 restart-button-label = Herstarten
 
