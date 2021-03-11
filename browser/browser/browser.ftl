@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon som deles:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
 popup-all-windows-shared = Alle synlige vinduer på skjermen vil deles.
 popup-screen-sharing-not-now =
     .label = Ikke nå
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = a
 popup-silence-notifications-checkbox = Deaktiver varsler fra { -brand-short-name } mens du deler
 popup-silence-notifications-checkbox-warning = { -brand-short-name } vil ikke vise varsler mens du deler.
+popup-screen-sharing-block =
+    .label = Blokker
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Blokker alltid
+    .accesskey = k
+popup-mute-notifications-checkbox = Slå av nettstedsvarsler mens du deler
 
 ## WebRTC window or screen share tab switch warning
 
