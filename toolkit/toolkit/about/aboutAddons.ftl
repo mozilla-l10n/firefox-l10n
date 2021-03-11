@@ -380,15 +380,11 @@ addon-detail-private-browsing-disallow = ไม่อนุญาต
 addon-badge-recommended2 =
     .title = { -brand-product-name } แนะนำเฉพาะส่วนขยายที่ตรงตามมาตรฐานของเราเท่านั้นเพื่อความปลอดภัยและประสิทธิภาพ
     .aria-label = { addon-badge-recommended2.title }
-addon-badge-line =
-    .title = ส่วนขยายนี้สร้างโดยผู้สร้าง { -brand-product-name }
-    .aria-label = { addon-badge-line.title }
-addon-badge-verified =
-    .title = ส่วนขยายนี้ผ่านการตรวจทานรหัสเพื่อความปลอดภัยแล้ว
-    .aria-label = { addon-badge-verified.title }
-addon-badge-line2 =
-    .title = นี่คือส่วนขยายอย่างเป็นทางการที่สร้างโดยผู้สร้าง { -brand-product-name }
-    .aria-label = { addon-badge-line2.title }
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line3 =
+    .title = ส่วนขยายอย่างเป็นทางการที่สร้างขึ้นโดย Mozilla ซึ่งตรงตามมาตรฐานความปลอดภัยและประสิทธิภาพ
+    .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
     .title = ส่วนขยายนี้ได้รับการตรวจสอบว่าเป็นไปตามมาตรฐานด้านความปลอดภัยและประสิทธิภาพของเรา
     .aria-label = { addon-badge-verified2.title }
