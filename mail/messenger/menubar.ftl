@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Text Encoding
     .accesskey = c
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Troubleshoot Mode…
+    .accesskey = T
+menu-help-exit-troubleshoot-mode =
+    .label = Turn Troubleshoot Mode Off
+    .accesskey = O
+menu-help-more-troubleshooting-info =
+    .label = More Troubleshooting Information
+    .accesskey = M
+
 ## Mail Toolbar
 
 toolbar-junk-button =
