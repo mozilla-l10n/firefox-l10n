@@ -133,10 +133,14 @@ sandbox-sys-call-number = Системний виклик
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Спробувати безпечний режим
 restart-in-safe-mode-label = Перезапустити з вимкненими додатками…
+troubleshoot-mode-title = Визначення проблем
+restart-in-troubleshoot-mode-label = Режим усунення проблем…
 clear-startup-cache-title = Спробуйте очистити кеш запуску
 clear-startup-cache-label = Очистити кеш запуску…
 startup-cache-dialog-title = Очистити кеш запуску
 startup-cache-dialog-body = Перезапустіть { -brand-short-name } для очищення кешу запуску. Ця дія не змінить ваших налаштувань та не вилучить розширень, які ви встановили в { -brand-short-name }.
+startup-cache-dialog-title2 = Перезапустити { -brand-short-name } для очищення кешу запуску?
+startup-cache-dialog-body2 = Це не змінить ваші налаштування та не вилучить розширення.
 restart-button-label = Перезапустити
 
 ## Media titles

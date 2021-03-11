@@ -376,6 +376,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Доступ до мікрофону:
     .accesskey = м
+popup-select-camera-device =
+    .value = Камера:
+    .accesskey = К
+popup-select-microphone-device =
+    .value = Мікрофон:
+    .accesskey = М
 popup-all-windows-shared = Надасться доступ до всіх видимих вікон на вашому екрані.
 popup-screen-sharing-not-now =
     .label = Не зараз
@@ -385,6 +391,13 @@ popup-screen-sharing-never =
     .accesskey = Н
 popup-silence-notifications-checkbox = Вимкнути сповіщення від { -brand-short-name } під час спільного доступу
 popup-silence-notifications-checkbox-warning = { -brand-short-name } не показуватиме сповіщення під час спільного доступу.
+popup-screen-sharing-block =
+    .label = Блокувати
+    .accesskey = Б
+popup-screen-sharing-always-block =
+    .label = Завжди блокувати
+    .accesskey = ж
+popup-mute-notifications-checkbox = Вимкнути сповіщення вебсайту під час спільного доступу
 
 ## WebRTC window or screen share tab switch warning
 

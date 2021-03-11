@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Знайти на цій сторінці…
     .accesskey = ц
+menu-edit-find-in-page =
+    .label = Знайти на сторінці…
+    .accesskey = З
 menu-edit-find-again =
     .label = Знайти знову
     .accesskey = т
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Пристосування…
     .accesskey = П
+menu-view-customize-toolbar2 =
+    .label = Налаштувати панель інструментів…
+    .accesskey = л
 menu-view-sidebar =
     .label = Бічна панель
     .accesskey = ч
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Показати всі закладки
 menu-bookmark-this-page =
     .label = Закласти цю сторінку
+menu-bookmark-current-tab =
+    .label = Закласти поточну вкладку
 menu-bookmark-edit =
     .label = Редагувати цю закладку
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = Д
 menu-tools-fxa-sign-in =
     .label = Увійти в { -brand-product-name }…
+    .accesskey = в
+menu-tools-extensions =
+    .label = Розширення і теми
+    .accesskey = Р
+menu-tools-fxa-sign-in2 =
+    .label = Увійти
     .accesskey = в
 menu-tools-turn-on-sync =
     .label = Увімкнути { -sync-brand-short-name(case: "acc") }…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] Н
            *[other] Н
+        }
+menu-settings =
+    .label = Налаштування
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Н
+           *[other] ш
         }
 menu-tools-layout-debugger =
     .label = Зневаджувач шаблона
