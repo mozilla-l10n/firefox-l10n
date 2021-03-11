@@ -298,9 +298,12 @@ repeat-suffix-singular = daugiau laiko.
 repeat-suffix-plural = daugiau kartų.
 no-repeat = Šis perspėjimas daugiau nebus rodomas.
 dlg-keep-setting = Įsiminti mano atsakymą ir daugiau nebeklausti
+enig-prompt = „OpenPGP“ pranešimas
 enig-confirm = „OpenPGP“ patvirtinimas
 enig-alert = „OpenPGP“ įspėjimas
 enig-info = „OpenPGP“ informacija
+# Strings used in persistentCrypto.jsm
+dlg-button-retry = Kartoti
 dlg-button-skip = &Praleisti
 # Strings used in enigmailCommon.js
 enig-error = „OpenPGP“ klaida
