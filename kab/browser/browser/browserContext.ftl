@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Ldi aseɣwen deg yiccer amagbar amaynut
     .accesskey = L
+main-context-menu-open-link-container =
+    .label = Ldi aseɣwen deg umagbar amaynut
+    .accesskey = L
 main-context-menu-open-link-new-window =
     .label = Ldi aseɣwen deg usfaylu amaynut
     .accesskey = d
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Creḍ aseɣwen-a
     .accesskey = r
+main-context-menu-bookmark-link =
+    .label = Creḍ aseɣwen
+    .accesskey = C
 main-context-menu-save-link =
     .label = Sekles aseɣwen s yisem…
     .accesskey = S
@@ -238,6 +244,12 @@ main-context-menu-audio-copy-location =
 main-context-menu-image-copy-link =
     .label = Nɣel aseɣwen n tugna
     .accesskey = N
+main-context-menu-video-copy-link =
+    .label = Nɣel aseɣwen n tvidyut
+    .accesskey = ɣ
+main-context-menu-audio-copy-link =
+    .label = Nɣel aseɣwen n umeslaw
+    .accesskey = ɣ
 main-context-menu-image-save-as =
     .label = Sekles tugna s yisem…
     .accesskey = u
@@ -250,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Talɣut ɣef tugna
     .accesskey = l
+main-context-menu-image-set-image-as-background =
+    .label = Sbadu tugna d tugna n ugilal n tnarit…
+    .accesskey = S
 main-context-menu-image-desc =
     .label = Aglam n tugna
     .accesskey = t
@@ -286,6 +301,17 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Seqdec awal uffir yettwasirewen…
     .accesskey = S
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Seqdec inekcam yettwakelsen
+    .accesskey = k
+
+##
+
 main-context-menu-manage-logins =
     .label = Sefrek inekcam
     .accesskey = S
