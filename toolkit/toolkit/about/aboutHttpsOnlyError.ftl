@@ -24,3 +24,11 @@ about-httpsonly-explanation-continue = Proseguendo, la modalità solo HTTPS verr
 about-httpsonly-button-continue-to-site = Prosegui sul sito HTTP
 about-httpsonly-button-go-back = Torna indietro
 about-httpsonly-link-learn-more = Ulteriori informazioni…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-header = Possibile alternativa
+about-httpsonly-suggestion-box-www-text = È disponibile una versione sicura di <em>www.{ $websiteUrl }</em>. È possibile visitare questa pagina invece di <em>{ $websiteUrl}<em>.
+about-httpsonly-suggestion-box-www-button = Vai a www.{ $websiteUrl }
