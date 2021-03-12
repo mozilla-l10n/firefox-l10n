@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Bảng mã văn bản
     .accesskey = c
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Chế độ xử lý sự cố…
+    .accesskey = T
+menu-help-exit-troubleshoot-mode =
+    .label = Tắt chế độ xử lý sự cố
+    .accesskey = D
+menu-help-more-troubleshooting-info =
+    .label = Thông tin xử lý sự cố khác
+    .accesskey = M
+
 ## Mail Toolbar
 
 toolbar-junk-button =
