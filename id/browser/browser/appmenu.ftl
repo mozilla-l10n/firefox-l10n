@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Alat Lainnya
 appmenuitem-exit =
     .label = Keluar
+appmenu-menu-button-closed =
+    .tooltiptext = Buka Menu Aplikasi
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Tutup Menu Aplikasi
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +51,23 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkronkan Sekarang
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Sinkronkan Sekarang
+    .value = Sinkronkan Sekarang
+appmenuitem-fxa-manage-account = Kelola Akun
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Terakhir disinkronkan { $time }
+    .label = Terakhir disinkronkan { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Sinkronkan dan Simpan Data
+appmenu-fxa-signed-in-label = Masuk
+appmenu-fxa-setup-sync =
+    .label = Aktifkan Sinkronisasi…
+appmenu-fxa-show-more-tabs = Tampilkan Tab Lainnya
 appmenuitem-save-page =
     .label = Simpan Laman dengan Nama…
 
@@ -128,6 +151,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informasi Pemecahan Masalah…
     .accesskey = M
+appmenu-help-more-troubleshooting-info =
+    .label = Informasi Pemecahan Masalah Lebih Lanjut
+    .accesskey = I
 appmenu-help-taskmanager =
     .label = Pengelola Tugas
 appmenu-help-report-site-issue =
@@ -145,6 +171,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Mulai Ulang dengan Pengaya Diaktifkan
     .accesskey = n
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Mode Pemecahan Masalah
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Nonaktifkan Mode Pemecahan Masalah
+    .accesskey = N
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
