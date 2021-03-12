@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microfon per cundivider:
     .accesskey = M
+popup-select-camera-device =
+    .value = Camera:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = Microfon:
+    .accesskey = M
 popup-all-windows-shared = Tut las fanestras visiblas sin tes visur vegnan cundivididas.
 popup-screen-sharing-not-now =
     .label = Betg ussa
@@ -383,6 +389,12 @@ popup-screen-sharing-never =
     .accesskey = M
 popup-silence-notifications-checkbox = Deactivar las communicaziuns da { -brand-short-name } durant la cundivisiun
 popup-silence-notifications-checkbox-warning = { -brand-short-name } na mussa naginas communicaziuns durant la cundivisiun dal visur.
+popup-screen-sharing-block =
+    .label = Bloccar
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Adina bloccar
+    .accesskey = d
 
 ## WebRTC window or screen share tab switch warning
 
