@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Otvoriť na novej karte
     .accesskey = v
+places-open-in-tab =
+    .label = Otvoriť na novej karte
+    .accesskey = O
+places-open-all-bookmarks =
+    .label = Otvoriť všetky záložky
+    .accesskey = z
 places-open-all-in-tabs =
     .label = Otvoriť všetko na kartách
     .accesskey = k
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Nový oddeľovač
     .accesskey = d
+places-open-in-window =
+    .label = Otvoriť v novom okne
+    .accesskey = o
+places-open-in-private-window =
+    .label = Otvoriť v novom súkromnom okne
+    .accesskey = s
+places-add-bookmark =
+    .label = Pridať záložku…
+    .accesskey = z
+places-add-folder-contextmenu =
+    .label = Pridať priečinok…
+    .accesskey = p
+places-add-folder =
+    .label = Pridať priečinok…
+    .accesskey = p
+places-add-separator =
+    .label = Nový oddeľovač
+    .accesskey = o
 places-view =
     .label = Zobraziť
     .accesskey = b
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Vlastnosti
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Upraviť záložku…
+    .accesskey = l
+places-edit-generic =
+    .label = Upraviť…
+    .accesskey = U
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Záložky spravované správcom
@@ -69,3 +100,17 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Ostatné záložky
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Odstrániť záložku
+            [one] Odstrániť záložku
+            [few] Odstrániť záložky
+           *[other] Odstrániť záložky
+        }
+    .accesskey = s
+places-manage-bookmarks =
+    .label = Správa záložiek
+    .accesskey = S
