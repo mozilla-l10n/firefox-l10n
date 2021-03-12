@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Encodage du texte
     .accesskey = c
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Mode de dépannage…
+    .accesskey = d
+menu-help-exit-troubleshoot-mode =
+    .label = Désactiver le mode de dépannage
+    .accesskey = o
+menu-help-more-troubleshooting-info =
+    .label = Plus d’informations de dépannage
+    .accesskey = m
+
 ## Mail Toolbar
 
 toolbar-junk-button =
