@@ -16,7 +16,7 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "Zalomiť znovu">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "v">
+<!ENTITY editRewrapCmd.accesskey "m">
 <!ENTITY findBarCmd.label "Hľadať…">
 <!ENTITY findReplaceCmd.label "Hľadať a nahradiť…">
 <!ENTITY enableInlineSpellChecker.label "Kontrolovať pravopis počas písania">

@@ -29,6 +29,17 @@
 <!ENTITY publishSettings.label "Nastavenie servera na publikovanie…">
 <!ENTITY publishSettings.accesskey "b">
 
+<!-- Insert menu items -->
+<!ENTITY insertFormMenu.label "Formulár">
+<!ENTITY insertFormMenu.accesskey "F">
+<!ENTITY insertFormCmd.label "Definovať formulár…">
+<!ENTITY insertFormCmd.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Pole formulára…">
+<!ENTITY insertInputTagCmd.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Obrázok formulára…">
+<!ENTITY insertTextAreaCmd.label "Textová plocha…">
+<!ENTITY insertTextAreaCmd.accesskey "T">
+
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nový">
 <!ENTITY newToolbarCmd.tooltip "Nová prázdna stránka">
