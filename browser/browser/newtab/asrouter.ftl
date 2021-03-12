@@ -200,11 +200,14 @@ cfr-doorhanger-cryptominers-description = Privasi Anda penting. { -brand-short-n
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } telah memblokir lebih dari <b>{ $blockedCount }</b> pelacak sejak { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } memblokir lebih dari <b>{ $blockedCount }</b> pelacak sejak { DATETIME($date, month: "long", year: "numeric") }!
@@ -237,6 +240,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikon gambar-dalam-gambar
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Sekilas tentang perlindungan
 cfr-whatsnew-protections-body = Dasbor Perlindungan mencakup ringkasan laporan tentang pelanggaran data dan manajemen kata sandi. Anda sekarang dapat melacak berapa banyak pelanggaran yang Anda selesaikan, dan melihat apakah ada kata sandi Anda yang tersimpan mungkin terekspos dalam pelanggaran data.
 cfr-whatsnew-protections-cta-link = Tampilkan Dasbor Perlindungan
@@ -252,6 +259,8 @@ cfr-whatsnew-better-pdf-body = Dokumen PDF kini dapat dibuka langsung di { -bran
 cfr-doorhanger-doh-body = Privasi Anda penting. { -brand-short-name } sekarang dengan aman merutekan permintaan DNS Anda bila memungkinkan ke layanan mitra untuk melindungi saat Anda menjelajah.
 cfr-doorhanger-doh-header = Pencarian DNS yang lebih aman dan terenkripsi
 cfr-doorhanger-doh-primary-button = Oke, Beres
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Oke
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Nonaktifkan
     .accesskey = D

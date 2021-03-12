@@ -366,6 +366,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon untuk dibagikan:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
 popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan dibagikan.
 popup-screen-sharing-not-now =
     .label = Jangan Sekarang
@@ -375,6 +381,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Nonaktifkan pemberitahuan dari { -brand-short-name } ketika berbagi
 popup-silence-notifications-checkbox-warning = { -brand-short-name } tidak akan menampilkan pemberitahuan saat Anda berbagi.
+popup-screen-sharing-block =
+    .label = Blokir
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Selalu blokir
+    .accesskey = S
+popup-mute-notifications-checkbox = Bisukan notifikasi situs web ketika sedang berbagi
 
 ## WebRTC window or screen share tab switch warning
 
@@ -515,6 +528,8 @@ crashed-subframe-message = <strong>Sebagian dari laman ini mogok. </strong>Untuk
 crashed-subframe-learnmore =
     .label = Pelajari Lebih Lanjut
     .accesskey = P
+crashed-subframe-learnmore-link =
+    .value = Pelajari Lebih Lanjut
 crashed-subframe-submit =
     .label = Kirimkan Laporan
     .accesskey = K
@@ -613,3 +628,7 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Beberapa audio atau video pada situs ini menggunakan perangkat lunak DRM yang mungkin membatasi pemakaian Anda atas { -brand-short-name }.
+eme-notifications-drm-content-playing-manage = Kelola Pengaturan
+eme-notifications-drm-content-playing-manage-accesskey = K
+eme-notifications-drm-content-playing-dismiss = Tutup
+eme-notifications-drm-content-playing-dismiss-accesskey = T

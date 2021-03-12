@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Buka Tautan dalam Tab Kontainer Baru
     .accesskey = k
+main-context-menu-open-link-container =
+    .label = Buka Tautan di Kontainer Baru
+    .accesskey = u
 main-context-menu-open-link-new-window =
     .label = Buka Tautan di Jendela Baru
     .accesskey = J
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Markahi Tautan Ini
     .accesskey = T
+main-context-menu-bookmark-link =
+    .label = Markahi Tautan
+    .accesskey = M
 main-context-menu-save-link =
     .label = Simpan Tautan dengan Nama…
     .accesskey = T
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Salin Alamat Surel
     .accesskey = E
 main-context-menu-copy-link =
     .label = Salin Lokasi Tautan
+    .accesskey = S
+main-context-menu-copy-link-simple =
+    .label = Salin Tautan
     .accesskey = S
 
 ## Media (video/audio) controls
@@ -227,6 +241,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Salin Lokasi Audio
     .accesskey = o
+main-context-menu-image-copy-link =
+    .label = Salin Tautan Gambar
+    .accesskey = G
+main-context-menu-video-copy-link =
+    .label = Salin Tautan Video
+    .accesskey = V
+main-context-menu-audio-copy-link =
+    .label = Salin Tautan Audio
+    .accesskey = A
 main-context-menu-image-save-as =
     .label = Simpan Gambar dengan Nama…
     .accesskey = a
@@ -239,6 +262,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Lihat Informasi Gambar
     .accesskey = m
+main-context-menu-image-set-image-as-background =
+    .label = Jadikan Gambar Sebagai Latar Belakang Desktop…
+    .accesskey = D
 main-context-menu-image-desc =
     .label = Tampilkan Deskripsi
     .accesskey = D
@@ -275,6 +301,26 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Gunakan Sandi yang Dihasilkan
     .accesskey = D
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Gunakan Info Masuk Tersimpan
+    .accesskey = G
+main-context-menu-use-saved-password =
+    .label = Gunakan Kata Sandi Tersimpan
+    .accesskey = G
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Sarankan Kata Sandi Kuat…
+    .accesskey = K
+main-context-menu-manage-logins =
+    .label = Kelola Info Masuk…
+    .accesskey = K
 main-context-menu-keyword =
     .label = Tambahkan Kata Kunci untuk Pencarian ini…
     .accesskey = K
@@ -332,6 +378,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspeksi Elemen
     .accesskey = n
+main-context-menu-inspect =
+    .label = Inspeksi
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Periksa Properti Aksesibilitas
 main-context-menu-eme-learn-more =

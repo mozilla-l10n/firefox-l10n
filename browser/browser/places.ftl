@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Buka di Tab Baru
     .accesskey = T
+places-open-in-tab =
+    .label = Buka di Tab Baru
+    .accesskey = T
+places-open-all-bookmarks =
+    .label = Buka Semua Markah
+    .accesskey = M
 places-open-all-in-tabs =
     .label = Buka Semua di Tab
     .accesskey = m
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Garis Pemisah Baru
     .accesskey = G
+places-open-in-window =
+    .label = Buka di Jendela Baru
+    .accesskey = J
+places-open-in-private-window =
+    .label = Buka di Jendela Penjelajahan Pribadi Baru
+    .accesskey = P
+places-add-bookmark =
+    .label = Tambah Markah…
+    .accesskey = M
+places-add-folder-contextmenu =
+    .label = Tambahkan Folder…
+    .accesskey = F
+places-add-folder =
+    .label = Tambahkan Folder…
+    .accesskey = F
+places-add-separator =
+    .label = Tambahkan Pemisah
+    .accesskey = s
 places-view =
     .label = Tampilkan
     .accesskey = l
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Properti
     .accesskey = i
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Edit Markah…
+    .accesskey = E
+places-edit-generic =
+    .label = Edit…
+    .accesskey = E
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Markah yang dikelola
@@ -69,3 +100,15 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Markah Lain
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Hapus Markah
+           *[other] Hapus Markah
+        }
+    .accesskey = H
+places-manage-bookmarks =
+    .label = Kelola Markah
+    .accesskey = K

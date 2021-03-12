@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Cari di Laman Ini…
     .accesskey = C
+menu-edit-find-in-page =
+    .label = Temukan di Laman…
+    .accesskey = T
 menu-edit-find-again =
     .label = Cari Lagi
     .accesskey = i
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = t
 menu-view-customize-toolbar =
     .label = Ubahsuai…
+    .accesskey = U
+menu-view-customize-toolbar2 =
+    .label = Ubahsuai Bilah Alat…
     .accesskey = U
 menu-view-sidebar =
     .label = Bilah Samping
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Tampilkan Semua Markah…
 menu-bookmark-this-page =
     .label = Markahi Laman ini
+menu-bookmark-current-tab =
+    .label = Markahi Tab Saat Ini
 menu-bookmark-edit =
     .label = Edit Markah Ini
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = P
 menu-tools-fxa-sign-in =
     .label = Masuk ke { -brand-product-name }…
+    .accesskey = M
+menu-tools-extensions =
+    .label = Ekstensi dan Tema
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Masuk
     .accesskey = M
 menu-tools-turn-on-sync =
     .label = Aktifkan { -sync-brand-short-name }…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] g
            *[other] g
+        }
+menu-settings =
+    .label = Pengaturan
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] P
         }
 menu-tools-layout-debugger =
     .label = Debugger Tata Letak
@@ -325,6 +346,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informasi Pemecahan Masalah…
     .accesskey = M
+menu-help-more-troubleshooting-info =
+    .label = Informasi Pemecahan Masalah Lebih Lanjut
+    .accesskey = I
 menu-help-taskmanager =
     .label = Pengelola Tugas
 menu-help-report-site-issue =
@@ -338,6 +362,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Mulai Ulang dengan Pengaya Diaktifkan
     .accesskey = n
+menu-help-enter-troubleshoot-mode =
+    .label = Mode Pemecahan Masalah
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Nonaktifkan Mode Pemecahan Masalah
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
