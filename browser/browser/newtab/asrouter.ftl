@@ -6,36 +6,39 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = ផ្នែកបន្ថែមដែលបានណែនាំ
+cfr-doorhanger-feature-heading = មុខងារ​ដែលបានណែនាំ
+cfr-doorhanger-pintab-heading = សាកល្បងមួយនេះ៖ ខ្ទាស់ផ្ទាំង
 
 ##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ហេតុអ្វីបានជាខ្ញុំឃើញរឿងនេះ
-
 cfr-doorhanger-extension-cancel-button = កុំ​ទាន់អាល
     .accesskey = ម
-
 cfr-doorhanger-extension-ok-button = បន្ថែម​ឥឡូវ
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = ខ្ទាស់ផ្ទាំងនេះ
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = គ្រប់គ្រង​ការកំណត់​ការណែនាំ
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = កុំ​បង្ហាញ​ខ្ញុំ​អនុសាសន៍​នេះ
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = ស្វែងយល់​បន្ថែម
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ដោយ { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ការណែនាំ
+cfr-doorhanger-extension-notification2 = ការណែនាំ
+    .tooltiptext = ការណែនាំកម្មវីធីបន្ថែម
+    .a11y-announcement = មានការណែនាំកម្មវិធី​បន្ថែម
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = ការណែនាំ
+    .tooltiptext = ការណែនាំអំពី​មុខងារ
+    .a11y-announcement = មានការណែនាំ​អំពី​មុខងារ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -54,12 +57,13 @@ cfr-doorhanger-extension-total-users =
     { $total ->
        *[other] អ្នកប្រើ { $total }
     }
+cfr-doorhanger-pintab-description = ងាយស្រួលចូលទៅកាន់គេហទំព័រដែលប្រើច្រើនបំផុតរបស់អ្នក។ បន្ត​បើក​គេហទំព័រ​ក្នុងផ្ទាំង (ទោះបីនៅពេល​អ្នក​ចាប់ផ្ដើម​ឡើងវិញ)។
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>ចុចខាងស្តាំ </b> លើផ្ទាំងដែលអ្នកចង់ខ្ទាស់។
 cfr-doorhanger-pintab-animation-pause = ផ្អាក
 cfr-doorhanger-pintab-animation-resume = បន្ត
-
 
 ## Firefox Accounts Message
 
@@ -71,6 +75,9 @@ cfr-doorhanger-pintab-animation-resume = បន្ត
 
 
 ## Search Bar
+
+
+## Search bar
 
 
 ## Picture-in-Picture
@@ -115,9 +122,33 @@ cfr-doorhanger-pintab-animation-resume = បន្ត
 ## Protections Dashboard message
 
 
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
+
 ## Better PDF message
+
 
 ## DOH Message
 
+
+## Fission Experiment Message
+
+
 ## What's new: Cookies message
+
+
+## What's new: Media controls message
+
+
+## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
 

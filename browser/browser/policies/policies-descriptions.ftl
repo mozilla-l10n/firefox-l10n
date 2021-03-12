@@ -10,8 +10,12 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = កំណត់​គោលការណ៍​ដែល WebExtensions អាចចូលបានតាមរយៈ chrome.storage.managed។
+policy-AppAutoUpdate = បើក ឬបិទការ​ធ្វើបច្ចុប្បន្នភាពកម្មវិធីដោយស្វ័យប្រវត្តិ។
 policy-AppUpdateURL = កំណត់ URL ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​ផ្ទាល់​ខ្លួន។
+policy-Authentication = កំណត់រចនាសម្ព័ន្ធការផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវដែលរួមបញ្ចូលគ្នាសម្រាប់គេហទំព័រដែលគាំទ្រវា។
 policy-BlockAboutAddons = ទប់ស្កាត់​ការចូលប្រើប្រាស់​កម្មវិធីគ្រប់គ្រង​កម្មវិធី​បន្ថែម (about:addons) ។
+policy-BlockAboutConfig = ទប់ស្កាត់​ការចូលទៅកាន់ទំព័រ about: config។
 policy-BlockAboutProfiles = ទប់ស្កាត់​ការចូល​ទៅ​កាន់​ទំព័រ about:profiles ។
 policy-BlockAboutSupport = ទប់ស្កាត់​ការចូល​ទៅ​កាន់​ទំព័រ about:support ។
 policy-CertificatesDescription = បញ្ចូល​វិញ្ញាបនបត្រ ឬប្រើវិញ្ញាបនបត្រ​ដែល​បាន​បង្កើត​ស្រាប់។
