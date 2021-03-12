@@ -167,6 +167,12 @@ onboarding-multistage-welcome-primary-button-label = Mulai Penyiapan
 onboarding-multistage-welcome-secondary-button-label = Masuk
 onboarding-multistage-welcome-secondary-button-text = Sudah punya akun?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Jadikan { -brand-short-name } sebagai <span data-l10n-name="zap">yang baku</span>
+onboarding-multistage-set-default-subtitle = Kecepatan, keamanan, dan privasi setiap kali Anda menjelajah.
+onboarding-multistage-set-default-primary-button-label = Jadikan sebagai Peramban Baku
+onboarding-multistage-set-default-secondary-button-label = Jangan sekarang
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Impor kata sandi, markah, <br/>dan <span data-l10n-name="zap">yang lain</span>
 onboarding-multistage-import-subtitle = Dari peramban lain? Mudah sekali membawa semuanya ke { -brand-short-name }.
@@ -186,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Pilih <span data-l10n-name="zap">tampilan</span>
 onboarding-multistage-theme-subtitle = Personalisasikan { -brand-short-name } dengan tema.
 onboarding-multistage-theme-primary-button-label = Simpan Tema
+onboarding-multistage-theme-primary-button-label2 = Selesai
 onboarding-multistage-theme-secondary-button-label = Jangan sekarang
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Otomatis
