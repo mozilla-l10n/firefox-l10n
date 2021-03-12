@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Amgodiad Testun
     .accesskey = A
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Y Modd Datrys Problemau…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Diffodd y Modd Dartrys Problemau
+    .accesskey = D
+menu-help-more-troubleshooting-info =
+    .label = Rhagor o Wybodaeth Datrys Problemau
+    .accesskey = R
+
 ## Mail Toolbar
 
 toolbar-junk-button =
