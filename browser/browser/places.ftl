@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = 新規タブで開く
     .accesskey = w
+places-open-in-tab =
+    .label = 新規タブで開く
+    .accesskey = w
+places-open-all-bookmarks =
+    .label = ブックマークをすべて開く
+    .accesskey = O
 places-open-all-in-tabs =
     .label = タブですべて開く
     .accesskey = O
@@ -29,6 +35,26 @@ places-new-folder =
     .accesskey = o
 places-new-separator =
     .label = 新規区切り
+    .accesskey = S
+
+places-open-in-window =
+    .label = 新規ウインドウで開く
+    .accesskey = N
+places-open-in-private-window =
+    .label = 新規プライベートウインドウで開く
+    .accesskey = P
+
+places-add-bookmark =
+    .label = ブックマークを追加...
+    .accesskey = B
+places-add-folder-contextmenu =
+    .label = フォルダーを追加...
+    .accesskey = F
+places-add-folder =
+    .label = フォルダーを追加...
+    .accesskey = o
+places-add-separator =
+    .label = 区切りを追加
     .accesskey = S
 
 places-view =
@@ -65,6 +91,14 @@ places-properties =
     .label = 情報を見る
     .accesskey = i
 
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = ブックマークを編集...
+    .accesskey = i
+places-edit-generic =
+    .label = 編集...
+    .accesskey = i
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = 管理ブックマーク
@@ -74,4 +108,14 @@ managed-bookmarks-subfolder =
 
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
-  .label = 他のブックマーク
+    .label = 他のブックマーク
+
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label = ブックマークを削除
+    .accesskey = e
+
+places-manage-bookmarks =
+    .label = ブックマークを管理
+    .accesskey = M
