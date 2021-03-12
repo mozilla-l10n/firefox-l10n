@@ -309,9 +309,15 @@ main-context-menu-generate-new-password =
 main-context-menu-use-saved-login =
     .label = Eipuru tembiapo ñepyrũ ñongatupyre
     .accesskey = o
+main-context-menu-use-saved-password =
+    .label = Eipuru ñe’ẽñemi ñongatupyre
+    .accesskey = o
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Tojepuru ñe’ẽñemi hekorosãva…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Eñangareko tembiapo ñepyrũre…
     .accesskey = M
