@@ -202,11 +202,14 @@ cfr-doorhanger-cryptominers-description = Vấn đề riêng tư của bạn. { 
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } đã chặn hơn <b>{ $blockedCount }</b> trình theo dõi từ { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } đã chặn hơn <b>{ $blockedCount }</b> trình theo dõi kể từ { DATETIME($date, month: "long", year: "numeric") }!
@@ -239,6 +242,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Biểu tượng hình trong hình
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Bảo vệ trong nháy mắt
 cfr-whatsnew-protections-body = Bảng điều khiển bảo vệ bao gồm các báo cáo tóm tắt về rò rỉ dữ liệu và quản lý mật khẩu. Bây giờ bạn có thể theo dõi có bao nhiêu rò rỉ mà bạn đã giải quyết và xem liệu bất kỳ mật khẩu đã lưu nào của bạn có thể bị lộ trong một rò rỉ dữ liệu hay không.
 cfr-whatsnew-protections-cta-link = Xem bảng điều khiển bảo vệ
@@ -254,6 +261,8 @@ cfr-whatsnew-better-pdf-body = Tài liệu PDF hiện mở trực tiếp bằng 
 cfr-doorhanger-doh-body = Vấn đề riêng tư của bạn. { -brand-short-name } bây giờ định tuyến an toàn các yêu cầu DNS của bạn bất cứ khi nào có thể đến dịch vụ đối tác để bảo vệ bạn trong khi bạn duyệt.
 cfr-doorhanger-doh-header = Truy vấn DNS được mã hóa, an toàn hơn
 cfr-doorhanger-doh-primary-button = OK, đã hiểu
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Okey
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Vô hiệu hóa
     .accesskey = D
