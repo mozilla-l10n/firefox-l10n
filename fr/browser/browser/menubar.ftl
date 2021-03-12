@@ -287,6 +287,13 @@ menu-preferences =
             [windows] O
            *[other] f
         }
+menu-settings =
+    .label = Paramètres
+    .accesskey =
+        { PLATFORM() ->
+            [windows] a
+           *[other] a
+        }
 menu-tools-layout-debugger =
     .label = Débogueur de mise en page
     .accesskey = m
