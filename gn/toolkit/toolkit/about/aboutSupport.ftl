@@ -136,6 +136,7 @@ clear-startup-cache-title = Emohenda kache ñepyrũha ñembogue
 clear-startup-cache-label = Embogue kache ñepyrũha…
 startup-cache-dialog-title = Embogue kache ñepyrũha
 startup-cache-dialog-body = Emoñepyrũjey { -brand-short-name } embogue hag̃ua kache ñepyrũha. Kóva nomoambuéi ñemboheko ha jepysokue oñembojuajúva { -brand-short-name } rehe.
+startup-cache-dialog-title2 = ¿Emoñepyrũjey { -brand-short-name } empotĩ hag̃ua ñepyrũha kache?
 restart-button-label = Ñepyrũjey
 
 ## Media titles
