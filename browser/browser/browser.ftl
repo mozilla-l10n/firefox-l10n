@@ -366,6 +366,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Chia sẻ micro:
     .accesskey = M
+popup-select-camera-device =
+    .value = Máy ảnh:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = Micrô:
+    .accesskey = M
 popup-all-windows-shared = Tất cả các cửa sổ trên màn hình sẽ được chia sẻ.
 popup-screen-sharing-not-now =
     .label = Không phải bây giờ
@@ -375,6 +381,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Vô hiệu hóa thông báo từ { -brand-short-name } trong khi chia sẻ
 popup-silence-notifications-checkbox-warning = { -brand-short-name } sẽ không hiển thị thông báo trong khi bạn đang chia sẻ.
+popup-screen-sharing-block =
+    .label = Chặn
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Luôn chặn
+    .accesskey = w
+popup-mute-notifications-checkbox = Ẩn thông báo trang web khi chia sẻ
 
 ## WebRTC window or screen share tab switch warning
 
