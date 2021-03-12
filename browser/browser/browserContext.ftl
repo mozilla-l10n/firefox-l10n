@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Defnyddio Cyfrinair wedi'i Gynhyrchu
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Defnyddio Mewngofnodi wedi'i Gadw
+    .accesskey = G
+main-context-menu-use-saved-password =
+    .label = Defnyddio Cyfrinair wedi'i Gadw
+    .accesskey = C
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Cynnig Cyfrinair Cryf...
+    .accesskey = C
 main-context-menu-manage-logins =
     .label = Rheoli Mewngofnodion…
     .accesskey = R

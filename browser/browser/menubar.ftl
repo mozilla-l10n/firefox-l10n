@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Canfod ar y Dudalen…
     .accesskey = a
+menu-edit-find-in-page =
+    .label = Canfod ar y Dudalen…
+    .accesskey = D
 menu-edit-find-again =
     .label = Canfod Eto
     .accesskey = E
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Cyfaddasu…
     .accesskey = y
+menu-view-customize-toolbar2 =
+    .label = Cyfaddasu'r Bar Offer…
+    .accesskey = B
 menu-view-sidebar =
     .label = Bar Ochr
     .accesskey = B
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Dangos Pob Nod Tudalen
 menu-bookmark-this-page =
     .label = Gosod Nod Tudalen i'r Dudalen
+menu-bookmark-current-tab =
+    .label = Gosod Nod Tudalen i'r Tab Cyfredol
 menu-bookmark-edit =
     .label = Golygu'r Nod Tudalen
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = Y
 menu-tools-fxa-sign-in =
     .label = Mewngofnodi i { -brand-product-name }…
+    .accesskey = M
+menu-tools-extensions =
+    .label = Estyniadau a Themâu
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Mewngofnodi
     .accesskey = M
 menu-tools-turn-on-sync =
     .label = Cychwyn { -sync-brand-short-name }…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] w
+        }
+menu-settings =
+    .label = Gosodiadau
+    .accesskey =
+        { PLATFORM() ->
+            [windows] G
+           *[other] d
         }
 menu-tools-layout-debugger =
     .label = Dadfygiwr Dyluniad

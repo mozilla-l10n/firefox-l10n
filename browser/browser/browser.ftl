@@ -382,6 +382,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Meicroffon i'w rannu:
     .accesskey = M
+popup-select-camera-device =
+    .value = Camera:
+    .accesskey = C
+popup-select-microphone-device =
+    .value = Meicroffon:
+    .accesskey = M
 popup-all-windows-shared = Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.
 popup-screen-sharing-not-now =
     .label = Nid Nawr
@@ -391,6 +397,13 @@ popup-screen-sharing-never =
     .accesskey = B
 popup-silence-notifications-checkbox = Analluogi hysbysiadau gan { -brand-short-name } wrth rannu
 popup-silence-notifications-checkbox-warning = Ni fydd { -brand-short-name } yn dangos hysbysiadau tra'ch bod chi'n rhannu.
+popup-screen-sharing-block =
+    .label = Rhwystro
+    .accesskey = R
+popup-screen-sharing-always-block =
+    .label = Rhwystro bob tro
+    .accesskey = b
+popup-mute-notifications-checkbox = Tewi hysbysiadau gwefan tra'n rhannu
 
 ## WebRTC window or screen share tab switch warning
 
