@@ -5,6 +5,8 @@
 
 ## App Menu
 
+appmenuitem-update-banner =
+    .label-update-downloading = ទាញយកបច្ចុប្បន្នភាព { -brand-shorter-name }
 appmenuitem-customize-mode =
     .label = ប្ដូរ​តាម​តម្រូវ​ការ…
 
@@ -76,6 +78,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = ចាប់ផ្ដើម​ឡើងវិញ​ដោយ​បើកដំណើរការ​​កម្មវិធី​បន្ថែម
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
