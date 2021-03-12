@@ -130,10 +130,14 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumen
 safe-mode-title = Coba Mode Aman
 restart-in-safe-mode-label = Mulai Ulang dengan Pengaya Dinonaktifkan…
+troubleshoot-mode-title = Diagnosis masalah
+restart-in-troubleshoot-mode-label = Mode Pemecahan Masalah…
 clear-startup-cache-title = Coba bersihkan tembolok permulaan
 clear-startup-cache-label = Hapus tembolok permulaan...
 startup-cache-dialog-title = Hapus tembolok permulaan
 startup-cache-dialog-body = Mulai ulang { -brand-short-name } untuk menghapus tembolok permulaan. Ini tidak adakan mengubah pengaturan Anda atau menghapus ekstensi yang Anda tambahkan ke { -brand-short-name }.
+startup-cache-dialog-title2 = Mulai ulang { -brand-short-name } untuk membersihkan tembolok mulai?
+startup-cache-dialog-body2 = Ini tidak akan mengubah pengaturan Anda atau menghapus ekstensi.
 restart-button-label = Mulai Ulang
 
 ## Media titles
@@ -383,3 +387,13 @@ support-printing-clear-settings-button = Bersihkan setelan cetak tersimpan
 support-printing-modified-settings = Pengaturan cetak yang diubah
 support-printing-prefs-name = Nama
 support-printing-prefs-value = Nilai
+
+## Normandy sections
+
+support-remote-experiments-title = Eksperimen Jarak Jauh
+support-remote-experiments-name = Nama
+support-remote-experiments-branch = Cabang Eksperimen
+support-remote-experiments-see-about-studies = Lihat <a data-l10n-name="support-about-study-link">about:studies</a> untuk informasi lebih lanjut, termasuk cara menonaktifkan masing-masing percobaan atau menonaktifkan { -brand-short-name } untuk menjalankan jenis eksperimen ini di masa mendatang.
+support-remote-features-title = Fitur Jarak Jauh
+support-remote-features-name = Nama
+support-remote-features-status = Status

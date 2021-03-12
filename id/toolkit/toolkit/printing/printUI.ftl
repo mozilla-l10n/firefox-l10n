@@ -39,10 +39,10 @@ printui-scale-pcent = Skala
 printui-two-sided-printing = Pencetakan dua sisi
 printui-duplex-checkbox = Cetak di kedua sisi
 printui-two-sided-printing-off = Nonaktif
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Balik di sisi samping
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Balik di sisi atas
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Balik pada sisi panjang
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Balik pada sisi pendek
 # Section title for miscellaneous print options
 printui-options = Opsi
 printui-headers-footers-checkbox = Cetak kepala dan kaki
@@ -100,6 +100,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Skala harus berupa angka antara 10 dan 200
 printui-error-invalid-margin = Masukkan margin yang valid untuk ukuran kertas yang dipilih.
+printui-error-invalid-copies = Salinan harus berupa angka antara 1 dan 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Rentang harus berupa angka antara 1 dan { $numPages }
