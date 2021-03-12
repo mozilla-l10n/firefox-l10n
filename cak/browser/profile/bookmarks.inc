@@ -25,6 +25,10 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help To'ïk chuqa' taq tijonïk
 
+# LOCALIZATION NOTE (firefox_get_help):
+# link title for https://www.mozilla.org/en-US/firefox/help/
+#define firefox_get_help Tk'ul To'ïk
+
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Tawichinaj Firefox
@@ -60,10 +64,6 @@
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
 #define crashes Ronojel ri taq ruk'ayewal
-
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Discuss Nightly pa IRC
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/

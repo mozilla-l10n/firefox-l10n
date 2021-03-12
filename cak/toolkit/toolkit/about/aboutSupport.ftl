@@ -130,10 +130,14 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Taq rutzijol
 safe-mode-title = Titojtob'ëx ütz rub'anikil
 restart-in-safe-mode-label = Titikirisäx chik kik'in ri chupül taq tz'aqat…
+troubleshoot-mode-title = Kenik'öx taq k'ayewal
+restart-in-troubleshoot-mode-label = Kib'anikil taq K'ayewal…
 clear-startup-cache-title = Titojtob'ëx niyuj ri rujumej ruyakoj tikirib'äl
 clear-startup-cache-label = Tiyuj rujumejyak tikirib'äl…
 startup-cache-dialog-title = Tiyuj rujumejyak tikirib'äl
 startup-cache-dialog-body = Titikirisäx chik { -brand-short-name } richin niyuj ri rujumej ruyakoj tikirib'äl. Re re' man xtujäl ta ri anuk'ulem chuqa' man xkeruyüj ta ri taq k'amal e'atz'aqatisan pa { -brand-short-name }.
+startup-cache-dialog-title2 = ¿La nitikirisäx chik { -brand-short-name } richin yejosq'ïx ri rukache' tikirib'äl?
+startup-cache-dialog-body2 = Re man xtujäl ta ri runuk'ulem chuqa' man xkeruyüj ta ri taq k'amal.
 restart-button-label = Titikirisäx chik
 
 ## Media titles
