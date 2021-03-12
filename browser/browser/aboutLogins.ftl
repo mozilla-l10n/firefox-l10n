@@ -302,6 +302,44 @@ about-logins-import-dialog-error-no-logins-imported = Tidak ada info masuk yang 
 about-logins-import-dialog-error-learn-more = Pelajari lebih lanjut
 about-logins-import-dialog-error-try-again = Coba Lagi…
 about-logins-import-dialog-error-cancel = Batalkan
+about-logins-import-report-title = Ringkasan Impor
+about-logins-import-report-description = Info masuk dan kata sandi yang diimpor ke { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Baris { $number }
+about-logins-import-report-row-description-no-change = Duplikat: Persis sama dengan info masuk yang ada
+about-logins-import-report-row-description-modified = Info masuk yang sudah ada yang diperbarui
+about-logins-import-report-row-description-added = Info masuk baru yang ditambahkan
+about-logins-import-report-row-description-error = Kesalahan: Bidang tidak ada
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Kesalahan: Beberapa nilai untuk { $field }
+about-logins-import-report-row-description-error-missing-field = Kesalahan: { $field } tidak ada
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name = "count">{ $count }</div> <div data-l10n-name = "details">Info masuk baru yang ditambahkan</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Info masuk yang sudah ada yang diperbarui</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Info masuk duplikat</div> <div data-l10n-name="not-imported">(tidak diimpor)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kesalahan</div> <div data-l10n-name="not-imported">(tidak diimpor)</div>
+    }
 
 ## Logins import report page
 

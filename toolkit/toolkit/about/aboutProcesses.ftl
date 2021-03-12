@@ -4,11 +4,14 @@
 
 # Page title
 about-processes-title = Manajer Proses
+# The Actions column
+about-processes-column-action =
+    .title = Tindakan
 
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Batal muat tab dan hentikan proses
+    .title = Batal memuat tab dan hentikan proses
 about-processes-shutdown-tab =
     .title = Tutup tab
 
@@ -24,10 +27,25 @@ about-processes-column-cpu-total = CPU
 ##    $origin (String) The domain name for this process.
 ##    $type (String) The raw type for this process. Used for unknown processes.
 
-about-processes-browser-process-name = (proses { $pid }) { -brand-short-name }
+about-processes-browser-process-name = { -brand-short-name } (proses { $pid })
+about-processes-web-process-name = Web (proses{ $pid }, dibagikan)
+about-processes-web-isolated-process-name = Web (proses{ $pid }) untuk { $origin }
+about-processes-web-large-allocation = Web (proses { $pid }, raksasa) untuk { $origin }
+about-processes-with-coop-coep-process-name = Web (proses{ $pid }, diisolasi cross-origin) untuk { $origin }
+about-processes-file-process-name = Berkas (proses { $pid })
+about-processes-extension-process-name = Ekstensi (proses { $pid })
+about-processes-privilegedabout-process-name = About (proses { $pid })
+about-processes-plugin-process-name = Plugin (proses { $pid })
+about-processes-privilegedmozilla-process-name = Web (proses { $pid }) untuk situs { -vendor-short-name }
+about-processes-gmp-plugin-process-name = Plugin Media Gecko (proses { $pid })
+about-processes-gpu-process-name = GPU (proses { $pid })
+about-processes-vr-process-name = VR (proses { $pid })
+about-processes-rdd-process-name = Dekoder Data (proses { $pid })
 about-processes-socket-process-name = Jaringan (proses { $pid })
+about-processes-remote-sandbox-broker-process-name = Broker Kotak Pasir Jarak Jauh (proses { $pid })
+about-processes-fork-server-process-name = Server Fork (proses { $pid })
 about-processes-preallocated-process-name = Prealokasi (proses { $pid })
-about-processes-unknown-process-name = ({ $type }, proses { $pid }) lainnya
+about-processes-unknown-process-name = Lainnya ({ $type }, proses { $pid })
 # Process
 # Variables:
 #   $name (String) The name assigned to the process.
@@ -51,7 +69,7 @@ about-processes-thread-name = Utas { $tid }: { $name }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Tab: { $name }
-about-processes-preloaded-tab = Tab Baru yang Diunggah
+about-processes-preloaded-tab = Tab Baru Pramuat
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -71,6 +89,12 @@ about-processes-frame-name-many = Subframe ({ $number }): { $shortUrl }
 ##    $unit (String) The unit in which to display $total. See the definitions
 ##                   of `duration-unit-*`.
 
+# Common case.
+about-processes-cpu-user-and-kernel = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") } ({ NUMBER($total, maximumFractionDigits: 0) }{ $unit })
+# Special case: data is not available yet.
+about-processes-cpu-user-and-kernel-not-ready = (mengukur)
+# Special case: process or thread is currently idle.
+about-processes-cpu-user-and-kernel-idle = menganggur ({ NUMBER($total, maximumFractionDigits: 2) }{ $unit })
 
 ## Displaying Memory (total and delta)
 ## Variables:
@@ -83,6 +107,10 @@ about-processes-frame-name-many = Subframe ({ $number }): { $shortUrl }
 ##    $deltaUnit (String) The unit in which to display $delta. See the definitions
 ##                        of `memory-unit-*`.
 
+# Common case.
+about-processes-total-memory-size = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit } ({ $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit })
+# Special case: no change.
+about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
 ## Duration units
 
@@ -92,7 +120,7 @@ duration-unit-ms = md
 duration-unit-s = d
 duration-unit-m = m
 duration-unit-h = j
-duration-unit-d = d
+duration-unit-d = h
 
 ## Memory units
 
