@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Atopar nesta páxina…
     .accesskey = t
+menu-edit-find-in-page =
+    .label = Atopar na páxina…
+    .accesskey = A
 menu-edit-find-again =
     .label = Atopar de nueves
     .accesskey = n
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = B
 menu-view-customize-toolbar =
     .label = Personalizar…
+    .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalizar la barra de ferramientes…
     .accesskey = P
 menu-view-sidebar =
     .label = Barra llateral
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Amosar tolos marcadores
 menu-bookmark-this-page =
     .label = Amestar esta páxina a Marcadores
+menu-bookmark-current-tab =
+    .label = Amestar esta llingüeta a Marcadores
 menu-bookmark-edit =
     .label = Editar esti marcador
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Aniciar sesión en { -brand-product-name }…
     .accesskey = F
+menu-tools-extensions =
+    .label = Estensiones y estilos
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Aniciar sesión
+    .accesskey = n
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }…
     .accesskey = c
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] n
+        }
+menu-settings =
+    .label = Axustes
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] x
         }
 menu-tools-layout-debugger =
     .label = Depurador de distribuciones
@@ -325,6 +346,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Información pa iguar problemes
     .accesskey = i
+menu-help-more-troubleshooting-info =
+    .label = Más información pa iguar problemes
+    .accesskey = a
 menu-help-taskmanager =
     .label = Xestor de xeres
 menu-help-report-site-issue =
@@ -338,6 +362,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reaniciar colos complementos activaos
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Mou d'iguar problemes
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Desactivar el mou pa iguar problemes
+    .accesskey = m
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

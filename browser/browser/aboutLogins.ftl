@@ -317,6 +317,22 @@ about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún ani
 about-logins-import-dialog-error-learn-more = Deprender más
 about-logins-import-dialog-error-try-again = Retentar…
 about-logins-import-dialog-error-cancel = Encaboxar
+about-logins-import-report-title = Sumariu de la importación
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Filera { $number }
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-missing-field = Fallu: Falta { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
