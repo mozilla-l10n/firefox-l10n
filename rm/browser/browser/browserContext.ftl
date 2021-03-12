@@ -301,6 +301,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Utilisar in pled-clav generà…
     .accesskey = U
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Utilisar l'infurmaziun d'annunzia memorisada
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = Utilisar il pled-clav memorisà
+    .accesskey = o
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Proponer in ferm pled-clav…
+    .accesskey = P
 main-context-menu-manage-logins =
     .label = Administrar las datas d'annunzia…
     .accesskey = m
