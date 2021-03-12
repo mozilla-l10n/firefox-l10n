@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Ҷустуҷӯ дар ин саҳифа…
     .accesskey = Ҷ
+menu-edit-find-in-page =
+    .label = Ҷустуҷӯ дар саҳифа…
+    .accesskey = Ҷ
 menu-edit-find-again =
     .label = Аз нав ҷустуҷӯ кардан
     .accesskey = А
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Фармоишдиҳӣ…
     .accesskey = Ф
+menu-view-customize-toolbar2 =
+    .label = Танзимоти навори абзорҳо…
+    .accesskey = Т
 menu-view-sidebar =
     .label = Навори ҷонибӣ
     .accesskey = Н
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Намоиш додани ҳамаи хатбаракҳо
 menu-bookmark-this-page =
     .label = Гузоштани хатбарак барои ин саҳифа
+menu-bookmark-current-tab =
+    .label = Гузоштани хатбарак барои варақаи ҷорӣ
 menu-bookmark-edit =
     .label = Таҳрир кардани ин хатбарак
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = Ҷ
 menu-tools-fxa-sign-in =
     .label = Ворид шудан ба { -brand-product-name }…
+    .accesskey = В
+menu-tools-extensions =
+    .label = Васеъшавиҳо ва мавзӯъҳо
+    .accesskey = В
+menu-tools-fxa-sign-in2 =
+    .label = Ворид шудан
     .accesskey = В
 menu-tools-turn-on-sync =
     .label = Фаъол кардани { -sync-brand-short-name }…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] И
            *[other] Х
+        }
+menu-settings =
+    .label = Танзимот
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Т
+           *[other] т
         }
 menu-tools-layout-debugger =
     .label = Ислоҳи нуқсонҳои тарҳрезӣ
