@@ -5,6 +5,12 @@
 troubleshoot-mode-disable-addons =
     .label = Απενεργοποίηση όλων των προσθέτων
     .accesskey = Α
+troubleshoot-mode-reset-toolbars =
+    .label = Επαναφορά γραμμών εργαλείων και στοιχείων ελέγχου
+    .accesskey = Ε
+troubleshoot-mode-change-and-restart =
+    .label = Εφαρμογή αλλαγών και επανεκκίνηση
+    .accesskey = φ
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
