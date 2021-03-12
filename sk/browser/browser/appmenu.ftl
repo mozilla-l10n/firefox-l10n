@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Ďalšie nástroje
 appmenuitem-exit =
     .label = Ukončiť
+appmenu-menu-button-closed =
+    .tooltiptext = Otvorí ponuku aplikácie
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Zavrie ponuku aplikácie
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -56,6 +62,8 @@ appmenu-fxa-header =
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Posledná synchronizácia { $time }
     .label = Posledná synchronizácia { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Synchronizovať a uložiť údaje
 appmenu-fxa-signed-in-label = Prihlásiť sa
 appmenu-fxa-setup-sync =
     .label = Zapnúť synchronizáciu…
@@ -85,8 +93,15 @@ profiler-popup-settings =
     .value = Nastavenia
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Upraviť nastavenia…
+profiler-popup-recording-screen = Nahrávanie…
+# The profiler presets list is generated elsewhere, but the custom preset is defined
+# here only.
+profiler-popup-presets-custom =
+    .label = Vlastné
 profiler-popup-discard-button =
     .label = Zahodiť
+profiler-popup-capture-button =
+    .label = Spustiť nahrávanie
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
