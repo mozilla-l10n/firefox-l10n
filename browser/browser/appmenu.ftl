@@ -51,9 +51,15 @@ appmenuitem-fxa-toolbar-sync-now =
 appmenuitem-fxa-manage-account = Spravovať účet
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Posledná synchronizácia { $time }
+    .label = Posledná synchronizácia { $time }
 appmenu-fxa-signed-in-label = Prihlásiť sa
 appmenu-fxa-setup-sync =
     .label = Zapnúť synchronizáciu…
+appmenu-fxa-show-more-tabs = Zobraziť ďalšie karty
 appmenuitem-save-page =
     .label = Uložiť stránku ako…
 
@@ -124,6 +130,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informácie pre riešenie problémov
     .accesskey = n
+appmenu-help-more-troubleshooting-info =
+    .label = Ďalšie informácie pre riešenie problémov
+    .accesskey = i
 appmenu-help-taskmanager =
     .label = Správca úloh
 appmenu-help-report-site-issue =
@@ -141,6 +150,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Reštartovať a povoliť doplnky…
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Režim riešenia problémov
+    .accesskey = m
+appmenu-help-exit-troubleshoot-mode =
+    .label = Vypnúť režim riešenia problémov
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
