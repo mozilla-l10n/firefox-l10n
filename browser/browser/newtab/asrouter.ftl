@@ -202,8 +202,11 @@ cfr-doorhanger-cryptominers-description = Le respect de votre vie privée est im
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading = { -brand-short-name } a bloqué plus de <b>{ $blockedCount }</b> traqueurs depuis { $date }.
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } a bloqué plus de <b>{ $blockedCount }</b> traqueurs depuis { DATETIME($date, month: "long", year: "numeric") } !
@@ -236,6 +239,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icône d’incrustation vidéo
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Protections en un coup d’œil
 cfr-whatsnew-protections-body = Le tableau de bord des protections comprend des rapports récapitulatifs sur les fuites de données et la gestion des mots de passe. Vous pouvez désormais suivre le nombre de fuites que vous avez résolues et voir si l’un de vos mots de passe enregistrés peut avoir été exposé dans une fuite de données.
 cfr-whatsnew-protections-cta-link = Afficher le tableau de bord des protections
@@ -252,6 +259,8 @@ cfr-doorhanger-doh-body = Le respect de votre vie privée est important. Désorm
 cfr-doorhanger-doh-header = Des requêtes DNS chiffrées et plus sûres
 cfr-doorhanger-doh-primary-button = D’accord, j’ai compris.
     .accesskey = o
+cfr-doorhanger-doh-primary-button-2 = OK
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Désactiver
     .accesskey = D
 
