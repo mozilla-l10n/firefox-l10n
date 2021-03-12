@@ -29,3 +29,9 @@
 <!ENTITY prefetchTitle.label             "Načítavanie odkazov dopredu">
 <!ENTITY enablePrefetch.label            "Pri nečinnosti načítavať odkazy dopredu, takže sa po kliknutí budú načítavať oveľa rýchlejšie.">
 <!ENTITY enablePrefetch.accesskey        "r">
+
+<!ENTITY debugCache.label                "Ladenie">
+<!ENTITY debugEnableMemCache.label       "Povoliť vyrovnávaciu pamäť">
+<!ENTITY debugEnableMemCache.accesskey   "e">
+<!ENTITY debugEnableDiskCache.label      "Povoliť vyrovnávaciu pamäť disku">
+<!ENTITY debugEnableDiskCache.accesskey  "v">
