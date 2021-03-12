@@ -393,7 +393,7 @@ support-printing-prefs-value = Nilai
 support-remote-experiments-title = Eksperimen Jarak Jauh
 support-remote-experiments-name = Nama
 support-remote-experiments-branch = Cabang Eksperimen
-support-remote-experiments-see-about-studies = Lihat <a data-l10n-name="support-about-study-link">about:studies</a> untuk informasi lebih lanjut, termasuk cara menonaktifkan masing-masing percobaan atau menonaktifkan { -brand-short-name } untuk menjalankan jenis eksperimen ini di masa mendatang.
+support-remote-experiments-see-about-studies = Lihat <a data-l10n-name="support-about-studies-link">about:studies</a> untuk informasi lebih lanjut, termasuk cara menonaktifkan masing-masing percobaan atau menonaktifkan { -brand-short-name } untuk menjalankan jenis eksperimen ini di masa mendatang.
 support-remote-features-title = Fitur Jarak Jauh
 support-remote-features-name = Nama
 support-remote-features-status = Status
