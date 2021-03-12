@@ -374,6 +374,12 @@ popup-select-camera =
 popup-select-microphone =
     .value = Asawaḍ i beṭṭu:
     .accesskey = S
+popup-select-camera-device =
+    .value = Takamiṛat
+    .accesskey = K
+popup-select-microphone-device =
+    .value = Asawaḍ:
+    .accesskey = S
 popup-all-windows-shared = Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.
 popup-screen-sharing-not-now =
     .label = Mačči tura
@@ -383,6 +389,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Kkes ilɣa n { -brand-short-name } di lawan n beṭṭu
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ur yeskanay ara ilɣa mi ara tbeṭṭuḍ.
+popup-screen-sharing-block =
+    .label = Sewḥel
+    .accesskey = Ḥ
+popup-screen-sharing-always-block =
+    .label = Sewḥel yal tikkelt
+    .accesskey = W
+popup-mute-notifications-checkbox = Sgugem ilɣa n usmel web mi ara tbeṭṭuḍ
 
 ## WebRTC window or screen share tab switch warning
 

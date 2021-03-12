@@ -339,6 +339,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Talɣut n usellek
     .accesskey = Γ
+menu-help-more-troubleshooting-info =
+    .label = Ugar n talɣut n usellek
+    .accesskey = T
 menu-help-taskmanager =
     .label = Amsefrak n twuri
 menu-help-report-site-issue =
@@ -351,6 +354,9 @@ menu-help-safe-mode-without-addons =
     .accesskey = A
 menu-help-safe-mode-with-addons =
     .label = Ales asenker s yizegrar urmiden
+    .accesskey = A
+menu-help-enter-troubleshoot-mode =
+    .label = Askar n usellek
     .accesskey = A
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
