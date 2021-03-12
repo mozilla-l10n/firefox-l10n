@@ -130,10 +130,14 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Ymresymiadau
 safe-mode-title = Defnyddiwch y Modd Diogel
 restart-in-safe-mode-label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…
+troubleshoot-mode-title = Datrys materion
+restart-in-troubleshoot-mode-label = Y Modd Datrys Problemau…
 clear-startup-cache-title = Ceisiwch glirio'r storfa gychwyn
 clear-startup-cache-label = Clirio'r storfa gychwyn…
 startup-cache-dialog-title = Clirio'r storfa gychwyn
 startup-cache-dialog-body = Ailgychwyn { -brand-short-name } i glirio storfa cychwyn. Ni fydd hyn yn newid eich gosodiadau nac yn dileu estyniadau rydych chi wedi'u hychwanegu at { -brand-short-name }.
+startup-cache-dialog-title2 = Ailgychwyn { -brand-short-name } i glirio'r storfa cychwyn?
+startup-cache-dialog-body2 = Ni fydd hyn yn newid eich gosodiadau nac yn dileu estyniadau.
 restart-button-label = Ailgychwyn
 
 ## Media titles
