@@ -222,7 +222,7 @@ cfr-doorhanger-cryptominers-description = Mae eich preifatrwydd yn bwysig. Mae {
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [zero] Nid yw { -brand-short-name } wedi rhwystro <b>{ $blockedCount }</b> traciwr ers { $date }!
@@ -232,6 +232,9 @@ cfr-doorhanger-milestone-heading =
         [many] Mae { -brand-short-name } wedi rhwystro dros <b>{ $blockedCount }</b> traciwr ers { $date }!
        *[other] Mae { -brand-short-name } wedi rhwystro <b>{ $blockedCount }</b> traciwr ers { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [zero] Mae { -brand-short-name } wedi rhwystro mwy na <b>{ $blockedCount }</b> o dracwyr ers { DATETIME($date, month: "long", year: "numeric") }!
@@ -269,6 +272,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Eicon llun mewn llun
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Cipolwg ar ddiogelwch
 cfr-whatsnew-protections-body = Mae'r Bwrdd Gwaith Diogelwch yn cynnwys adroddiadau cryno am dor-data a rheoli cyfrineiriau. Nawr gallwch chi olrhain faint o dor-data rydych chi wedi'u datrys, a gweld a allai unrhyw un o'ch cyfrineiriau sydd wedi'u cadw fod wedi bod yn agored i dor-data.
 cfr-whatsnew-protections-cta-link = Gweld y Bwrdd Gwaith Diogelwch
@@ -284,6 +291,8 @@ cfr-whatsnew-better-pdf-body = Mae dogfennau PDF nawr yn agor yn uniongyrchol yn
 cfr-doorhanger-doh-body = Mae eich preifatrwydd yn bwysig. Mae { -brand-short-name } bellach yn cyfeirio eich ceisiadau DNS yn ddiogel pryd bynnag y bo modd at wasanaeth partner i'ch diogelu wrth i chi bori.
 cfr-doorhanger-doh-header = Chwilio DNS mwy diogel, wedi'u hamgryptio
 cfr-doorhanger-doh-primary-button = Iawn, Wedi deall!
+    .accesskey = I
+cfr-doorhanger-doh-primary-button-2 = Iawn
     .accesskey = I
 cfr-doorhanger-doh-secondary-button = Analluogi
     .accesskey = A
