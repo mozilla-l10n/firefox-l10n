@@ -128,6 +128,9 @@ sandbox-sys-call-number = Systémové volanie
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Vyskúšajte núdzový režim
 restart-in-safe-mode-label = Reštartovať a zakázať doplnky…
+troubleshoot-mode-title = Diagnostika problémov
+restart-in-troubleshoot-mode-label = Režim riešenia problémov…
+startup-cache-dialog-body2 = Vaše nastavenia a nainštalované rozšírenia to nijako neovplyvní.
 restart-button-label = Reštartovať
 
 ## Media titles
@@ -363,3 +366,4 @@ support-printing-prefs-value = Hodnota
 
 support-remote-experiments-name = Názov
 support-remote-features-name = Názov
+support-remote-features-status = Stav
