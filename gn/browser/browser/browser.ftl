@@ -395,6 +395,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Ejoko tapiaite
     .accesskey = w
+popup-mute-notifications-checkbox = Emokirirĩ ñanduti renda marandu’i emoherakuã aja
 
 ## WebRTC window or screen share tab switch warning
 

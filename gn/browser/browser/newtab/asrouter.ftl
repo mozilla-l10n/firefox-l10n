@@ -262,6 +262,8 @@ cfr-doorhanger-doh-body = Ne ñemigua tuichamba’e. { -brand-short-name } omboh
 cfr-doorhanger-doh-header = Jehekapy DNS hekorosã ha ipapapýva
 cfr-doorhanger-doh-primary-button = OK, Aikumbýma
     .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Moneĩ
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Pe’a
     .accesskey = D
 
