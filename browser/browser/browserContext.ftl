@@ -233,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Bilde-i-bilde
     .accesskey = B
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Sjå med bilde-i-bilde
+    .accesskey = S
 main-context-menu-image-reload =
     .label = Oppdater bilde
     .accesskey = l
@@ -242,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Vis video
     .accesskey = s
+main-context-menu-image-view-new-tab =
+    .label = Opne bilde i ny fane
+    .accesskey = O
+main-context-menu-video-view-new-tab =
+    .label = Opne video i ny fane
+    .accesskey = v
 main-context-menu-image-copy =
     .label = Kopier bildet
     .accesskey = b
