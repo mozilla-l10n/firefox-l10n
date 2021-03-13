@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "باز کردن منو">
+
 <!ENTITY navbarOverflow.label                "ابزارهای بیشتر…">
 
 <!-- Tab context menu -->
@@ -42,10 +43,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "تمام‌صفحه">
 
-
-<!-- } is above this key on many keyboards -->
-
-
 <!ENTITY pictureInPictureHideToggle.label "مخفی کردن تصویر-در-تصویر">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -54,11 +51,9 @@ this container is a toolbar. This avoids double-speaking. -->
      followed by the user's email. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "اتصال به دستگاه دیگر…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "ورود به &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "فعال‌سازی &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "خدمات &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "حساب">
 <!ENTITY fxa.menu.settings.label "تنظیمات">
 <!ENTITY fxa.menu.accountSettings.label "تنظیمات حساب">
@@ -99,7 +94,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY printButton.label            "چاپ">
 <!ENTITY printButton.tooltip          "چاپ کردن این صفحه">
 
-
 <!ENTITY searchItem.title             "جست‌وجو">
 
 <!-- Toolbar items -->
@@ -108,7 +102,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY bookmarksButton.label          "نشانک‌ها">
 
-<!ENTITY bookmarksSubview.label             "نشانک ها">
+<!ENTITY bookmarksSubview.label             "نشانک‌ها">
 <!ENTITY bookmarksMenuButton2.label         "نشانک‌ها فهرست">
 <!ENTITY bookmarksMenuButton.other.label    "نشانک‌‌های دیگر">
 <!ENTITY bookmarksMenuButton.mobile.label   "نشانک‌های همراه">
@@ -148,6 +142,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "پنجره‌های تازه بسته شده">
 
 <!ENTITY appMenuHistory.showAll.label "نمایش تمام تاریخچه">
+
 <!ENTITY appMenuHistory.clearRecent.label "پاک کردن تاریخچه اخیر…">
 <!ENTITY appMenuHistory.restoreSession.label "بازآوری نشست قبلی">
 <!ENTITY appMenuHistory.viewSidebar.label "نمایش ستون تاریخچه">
@@ -161,6 +156,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "نمایش بیشتر…">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "نمایش زبانه‌های بیشتر از این دستگاه">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -184,7 +181,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.addToToolbar.label "افزودن به نوار ابزار">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ا">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
-     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "اضافه کردن به منو شناور">
@@ -195,9 +192,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ح">
 <!ENTITY customizeMenu.addMoreItems.label "افزودن موارد بیشتر…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ا">
-<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
-     toolbar buttons context menus, a user can use this command to submit to Mozilla
-     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -211,26 +205,19 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY searchInput.placeholder      "جست‌وجو">
 <!ENTITY searchIcon.tooltip           "جست‌وجو">
 
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
 <!ENTITY openLinkCmdInTab.accesskey   "ز">
 
 <!ENTITY pageAction.copyLink.label    "رونوشت پیوند">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "ذخیره صفحه در Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "نمایش فهرست Pocket">
 
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "زوم">
 
@@ -256,7 +243,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "افزودن واژه‌نامه…">
 <!ENTITY spellAddDictionaries.accesskey "ا">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
