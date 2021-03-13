@@ -369,9 +369,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = 摄像头：
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = 摄像头
 popup-select-microphone-device =
     .value = 麦克风：
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = 麦克风
 popup-all-windows-shared = 您的屏幕上的所有可见窗口都将被共享。
 popup-screen-sharing-not-now =
     .label = 暂时不要
@@ -632,3 +636,11 @@ eme-notifications-drm-content-playing-manage = 管理设置
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = 了解！
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = 用户名
+panel-save-update-password = 密码
+
+## Add-on removal warning
+
