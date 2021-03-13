@@ -130,10 +130,14 @@ sandbox-sys-call-number = Sistema voko
 sandbox-sys-call-args = Parametroj
 safe-mode-title = Provi la sekuran reĝimon
 restart-in-safe-mode-label = Restartigi kun ĉiuj aldonaĵoj malaktivaj…
+troubleshoot-mode-title = Diagnozi problemojn
+restart-in-troubleshoot-mode-label = Problemsolva reĝimo…
 clear-startup-cache-title = Provu viŝi la startan staplon
 clear-startup-cache-label = Viŝi startan staplon…
 startup-cache-dialog-title = Viŝi startan staplon
 startup-cache-dialog-body = Restartigi { -brand-short-name } por viŝi la startan staplon. Tiu ago ne ŝanĝos viajn agordojn nek forigos etendaĵojn aldonitaj de vi al { -brand-short-name }.
+startup-cache-dialog-title2 = Ĉu restartigi { -brand-short-name } por viŝi la startan staplon?
+startup-cache-dialog-body2 = Tio ĉi ne ŝanĝos viajn agordojn nek forigos etendaĵojn.
 restart-button-label = Restartigi
 
 ## Media titles
@@ -406,6 +410,7 @@ support-printing-prefs-value = Valoro
 
 ## Normandy sections
 
+support-remote-experiments-title = Forigi eksperimentojn
 support-remote-experiments-name = Nomo
 support-remote-experiments-branch = Eksperimenta branĉo
 support-remote-features-name = Nomo

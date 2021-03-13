@@ -14,6 +14,7 @@ policy-3rdparty = Difini politikojn, kiujn Webextensions povas aliri per chrome.
 policy-AppAutoUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de programoj.
 policy-AppUpdateURL = Difini personecigitan ĝisdatigan ligilon por programo.
 policy-Authentication = Agordi internan aŭtentikigon por retejoj, kiuj subtenas ĝin.
+policy-BackgroundAppUpdate = Aktivigi aŭ malaktivigi la fonan ĝisdatigilon, kiu ĝisdatigas la retumilon dum ĝi ne funkcias.
 policy-BlockAboutAddons = Bloki aliron al administrilo de aldonaĵoj (about:addons).
 policy-BlockAboutConfig = Bloki aliron al la paĝo about:config.
 policy-BlockAboutProfiles = Bloki aliron al la paĝo about:profiles.

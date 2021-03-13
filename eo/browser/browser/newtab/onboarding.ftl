@@ -166,6 +166,10 @@ onboarding-multistage-welcome-subtitle = La rapida, sekura kaj privata retumilo 
 onboarding-multistage-welcome-primary-button-label = Komenci agordon
 onboarding-multistage-welcome-secondary-button-label = Komenci seancon
 onboarding-multistage-welcome-secondary-button-text = Ĉu vi havas konton?
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = Igu { -brand-short-name } via <span data-l10n-name="zap">norma</span> retumilo
+onboarding-multistage-set-default-subtitle = Via tuta retumo rapida, sekura kaj privata.
 onboarding-multistage-set-default-primary-button-label = Igi norma
 onboarding-multistage-set-default-secondary-button-label = Ne nun
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
