@@ -27,4 +27,7 @@ netInterrupt-title = Կապն խզեցաւ:
 notCached-title = Ժամկիտանց փաստաթուղթ
 netOffline-title = Արտացանց եղանակ
 netReset-title = Կապն վերագործարկեցաւ
+unknownSocketType-title = Անակնկալ պատասխանի ի սպասարկչէ
+nssFailure2-title = Անվտանգ կապակցումն տապալեցաւ։
+remoteXUL-title = Հեռակայ XUL
 blockedByPolicy-title = Արգելափակեալ երես
