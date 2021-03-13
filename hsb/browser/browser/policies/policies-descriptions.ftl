@@ -14,6 +14,7 @@ policy-3rdparty = Prawidła nastajić, na kotrež WebExtensions přez chrome.sto
 policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžnić abo znjemóžnić.
 policy-AppUpdateURL = Swójski aktualizowanski URL za nałoženje nastajić.
 policy-Authentication = Integrowanu awtentifikaciju za websydła konfigurować, kotrež ju podpěruja.
+policy-BackgroundAppUpdate = Pozadkowe aktualizowanje zmóžnić abo znjemóžnić, kotrež wobhladowak aktualizuje, hdyž wón njeběži.
 policy-BlockAboutAddons = Přistup na zrjadowak přidatkow (about:addons) blokować.
 policy-BlockAboutConfig = Přistup na stronu about:config blokować.
 policy-BlockAboutProfiles = Přistup na stronu about:profiles blokować.
