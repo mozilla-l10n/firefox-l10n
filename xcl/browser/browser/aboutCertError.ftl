@@ -26,6 +26,7 @@ generic-title = Վա՜յ։
 netInterrupt-title = Կապն խզեցաւ:
 notCached-title = Ժամկիտանց փաստաթուղթ
 netOffline-title = Արտացանց եղանակ
+unsafeContentType-title = Անապահով տիպ նշի
 netReset-title = Կապն վերագործարկեցաւ
 netTimeout-title = Կապակցումն ժամասպառեալ է
 unknownProtocolFound-title = Հասցէն չէր ընկալելի
