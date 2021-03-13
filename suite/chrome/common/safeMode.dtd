@@ -6,7 +6,7 @@
 <!ENTITY window.width                 "37em">
 
 <!ENTITY safeModeDescription.label    "&brandShortName; უსაფრთხო რეჟიმშია, რომლის დროსახ თქვენი პარამეტრები, თემები და მოდულები დროებით ამორთულია.">
-<!ENTITY safeModeDescription2.label   "შეგიძლიათ ზოგი პარამეტრეის შენახვაც შემდეგი სეანსისთვის:">
+<!ENTITY safeModeDescription2.label   "შეგიძლიათ, ზოგიერთი ან ყველა ცვლილება, მუდმივად დაამახსოვროთ:">
 
 <!ENTITY disableAddons.label          "ყველა მოდულის ამორთვა">
 <!ENTITY disableAddons.accesskey      "D">
