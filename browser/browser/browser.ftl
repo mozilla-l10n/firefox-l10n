@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Camera:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Camera
 popup-select-microphone-device =
     .value = Microfon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Microfon
 popup-all-windows-shared = Tut las fanestras visiblas sin tes visur vegnan cundivididas.
 popup-screen-sharing-not-now =
     .label = Betg ussa
@@ -643,6 +647,11 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 
 ## Password save/update panel
 
+panel-save-update-username = Num d'utilisader
+panel-save-update-password = Pled-clav
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Allontanar { $name }?
