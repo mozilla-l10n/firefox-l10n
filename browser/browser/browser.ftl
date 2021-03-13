@@ -374,6 +374,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = გასაზიარებელი მიკროფონი:
     .accesskey = მ
+popup-select-camera-device =
+    .value = კამერა:
+    .accesskey = კ
+popup-select-camera-icon =
+    .tooltiptext = კამერა
+popup-select-microphone-device =
+    .value = მიკროფონი
+    .accesskey = მ
+popup-select-microphone-icon =
+    .tooltiptext = მიკროფონი
 popup-all-windows-shared = ეკრანზე ნაჩვენები ყველა ფანჯარა გაზიარდება.
 popup-screen-sharing-not-now =
     .label = ახლა არა
@@ -383,6 +393,13 @@ popup-screen-sharing-never =
     .accesskey = ა
 popup-silence-notifications-checkbox = შეჩერდეს შეტყობინებები, როცა { -brand-short-name } აზიარებს
 popup-silence-notifications-checkbox-warning = { -brand-short-name } არ გამოაჩენს შეტყობინებებს მაშინ, როცა რამეს აზიარებთ.
+popup-screen-sharing-block =
+    .label = აკრძალვა
+    .accesskey = ა
+popup-screen-sharing-always-block =
+    .label = ყოველთვის აიკრძალოს
+    .accesskey = ლ
+popup-mute-notifications-checkbox = საიტის შეტყობინებების დადუმება გაზიარებისას
 
 ## WebRTC window or screen share tab switch warning
 
@@ -630,6 +647,12 @@ eme-notifications-drm-content-playing-dismiss-accesskey = უ
 
 ## Password save/update panel
 
+panel-save-update-username = მომხმარებელი
+panel-save-update-password = პაროლი
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = მოცილდეს { $name }?
+addon-removal-abuse-report-checkbox = გაფართოებაზე საჩივარი { -vendor-short-name }-სთვის
