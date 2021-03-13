@@ -30,4 +30,6 @@ netReset-title = Կապն վերագործարկեցաւ
 unknownSocketType-title = Անակնկալ պատասխանի ի սպասարկչէ
 nssFailure2-title = Անվտանգ կապակցումն տապալեցաւ։
 remoteXUL-title = Հեռակայ XUL
+sslv3Used-title = Անկարող անվտանգ կապակցել
 blockedByPolicy-title = Արգելափակեալ երես
+networkProtocolError-title = Սխալ հաղորդակարգի ցանցահիւսի
