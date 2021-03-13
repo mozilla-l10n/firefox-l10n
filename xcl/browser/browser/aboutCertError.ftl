@@ -23,9 +23,14 @@ dnsNotFound-title = Հնար չէ գտանել զայս կայս:
 fileNotFound-title = Նիշն գտեալ չէ:
 fileAccessDenied-title = Հասանելիութիւն նշին ժխտեալ է:
 generic-title = Վա՜յ։
-netInterrupt-title = Կապն խզեցաւ:
+captivePortal-title = Մտանել ի ցանցահիւս
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Թուի թե հասցէն չէ ճիշդ։
+netInterrupt-title = Կապակցումն խզեցաւ:
 notCached-title = Ժամկիտանց փաստաթուղթ
 netOffline-title = Արտացանց եղանակ
+contentEncodingError-title = Սխալ այղագրման բովանդակութեան
 unsafeContentType-title = Անապահով տիպ նշի
 netReset-title = Կապն վերագործարկեցաւ
 netTimeout-title = Կապակցումն ժամասպառեալ է
