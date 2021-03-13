@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Бязглузда (2×)
     .accesskey = Б
+main-context-menu-media-play-speed-2 =
+    .label = Хуткасць
+    .accesskey = Х
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Зацыкліць
     .accesskey = З
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Выява ў выяве
     .accesskey = ў
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Глядзець у рэжыме „выява ў выяве”
+    .accesskey = Г
 main-context-menu-image-reload =
     .label = Абнавіць выяву
     .accesskey = А
@@ -229,6 +247,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Прагледзець відэа
     .accesskey = г
+main-context-menu-image-view-new-tab =
+    .label = Адкрыць відарыс у новай картцы
+    .accesskey = і
 main-context-menu-image-copy =
     .label = Капіяваць выяву
     .accesskey = я
@@ -301,6 +322,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Ужыць згенераваны пароль…
     .accesskey = п
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = Кіраваць лагінамі…
     .accesskey = ь
