@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = ახალი { -brand-shorter-name } განახლება ხელმისაწვდომია.
+    .label = ახალი { -brand-shorter-name } ხელმისაწვდომია.
     .buttonlabel = განახლების ჩამოტვირთვა
     .buttonaccesskey = ჩ
     .secondarybuttonlabel = ახლა არა
