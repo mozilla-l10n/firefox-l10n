@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Malfermi ligilon en nova inga langeto
     .accesskey = e
+main-context-menu-open-link-container =
+    .label = Malfermi ligilon en nova ingo
+    .accesskey = i
 main-context-menu-open-link-new-window =
     .label = Malfermi ligilon en nova fenestro
     .accesskey = F
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Aldoni legosignon por tiu ĉi ligilo
     .accesskey = l
+main-context-menu-bookmark-link =
+    .label = Aldoni legosignon por ligilo
+    .accesskey = A
 main-context-menu-save-link =
     .label = Konservi ligitan dosieron kiel…
     .accesskey = K
@@ -187,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Rapidege (2×)
     .accesskey = g
+main-context-menu-media-play-speed-2 =
+    .label = Rapido
+    .accesskey = R
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Ripeti
     .accesskey = R
@@ -214,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Bildo en bildo
     .accesskey = b
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Vidi inkrustite
+    .accesskey = i
 main-context-menu-image-reload =
     .label = Reŝargi bildon
     .accesskey = R
@@ -223,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Spekti videon
     .accesskey = v
+main-context-menu-image-view-new-tab =
+    .label = Malfermi bildon en nova langeto
+    .accesskey = b
+main-context-menu-video-view-new-tab =
+    .label = Malfermi filmeton en nova langeto
+    .accesskey = f
 main-context-menu-image-copy =
     .label = Kopii bildon
     .accesskey = b
@@ -256,6 +286,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Vidi bildan informon
     .accesskey = i
+main-context-menu-image-set-image-as-background =
+    .label = Difini kiel skribotablan fonan bildon…
+    .accesskey = D
 main-context-menu-image-desc =
     .label = Vidi priskribon
     .accesskey = p
@@ -267,6 +300,9 @@ main-context-menu-audio-save-as =
     .accesskey = K
 main-context-menu-video-image-save-as =
     .label = Konservi filmetan bildon kiel…
+    .accesskey = K
+main-context-menu-video-take-snapshot =
+    .label = Kapti bildon…
     .accesskey = K
 main-context-menu-video-email =
     .label = Sendi filmeton retpoŝte…
@@ -292,6 +328,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Uzi aŭtomate kreitan pasvorton…
     .accesskey = U
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Aldoni kategorian vorton por tiu ĉi serĉado…
     .accesskey = v
