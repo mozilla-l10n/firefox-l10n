@@ -644,3 +644,7 @@ panel-save-update-password = 密码
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = 要移除 { $name } 吗？
+addon-removal-abuse-report-checkbox = 向 { -vendor-short-name } 举报此扩展
