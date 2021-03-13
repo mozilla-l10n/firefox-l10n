@@ -14,6 +14,7 @@ policy-3rdparty = Állítson be házirendeket, amelyeket a WebExtensionök a chr
 policy-AppAutoUpdate = Az automatikus alkalmazásfrissítés engedélyezése vagy letiltása.
 policy-AppUpdateURL = Egyéni alkalmazás-frissítési URL megadása.
 policy-Authentication = Integrált hitelesítés beállítása azokhoz a weboldalakhoz, melyek támogatják.
+policy-BackgroundAppUpdate = Engedélyezze vagy tiltsa le a háttérfrissítőt, amely frissíti a böngészőt, ha az nem fut.
 policy-BlockAboutAddons = Hozzáférés blokkolása a Kiegészítőkezelőhöz (about:addons).
 policy-BlockAboutConfig = Hozzáférés blokkolása az about:config oldalhoz.
 policy-BlockAboutProfiles = Hozzáférés blokkolása az about:profiles oldalhoz.
