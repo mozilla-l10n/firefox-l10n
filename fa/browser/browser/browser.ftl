@@ -372,6 +372,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = میکروفون جهت به‌اشتراک‌گذاری:
     .accesskey = م
+popup-select-camera-device =
+    .value = دوربین:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = دوربین
+popup-select-microphone-device =
+    .value = میکروفون:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = میکروفون
 popup-all-windows-shared = همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.
 popup-screen-sharing-not-now =
     .label = اکنون نه (w)
@@ -381,6 +391,12 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = از کار انداختن آگاهی‌ها از { -brand-short-name } هنگام هم‌رسانی
 popup-silence-notifications-checkbox-warning = { -brand-short-name } هنگام هم‌رسانی، اعلان‌ها را نمایش نمی‌دهد.
+popup-screen-sharing-block =
+    .label = مسدود کردن
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = همیشه مسدود شود
+    .accesskey = w
 
 ## WebRTC window or screen share tab switch warning
 
@@ -521,6 +537,8 @@ crashed-subframe-message = <strong>بخشی از این صفحه خراب شد.<
 crashed-subframe-learnmore =
     .label = بیشتر بدانید
     .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = بیشتر بدانید
 crashed-subframe-submit =
     .label = ثبت گزارش
     .accesskey = S
@@ -619,9 +637,19 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ویدئو یا صدا در این سایت به نرم‌افزار DRM نیاز دارد، که امکان دارد امکاناتی که { -brand-short-name } به شما میدهد را محدود کند.
+eme-notifications-drm-content-playing-manage = مدیریت تنظیمات
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = ‏‏نادیده گرفتن
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = نام کاربری
+panel-save-update-password = گذرواژه
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } حذف شود؟
+addon-removal-abuse-report-checkbox = گزارش این افزونه به { -vendor-short-name }
