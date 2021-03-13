@@ -14,6 +14,9 @@ fxa-disconnect-dialog-body = { -brand-product-name } sarà disconnesso dall’ac
 sync-disconnect-dialog-button = Disconnetti
 
 fxa-signout-dialog-heading = Disconnettersi dall’{ -fxaccount-brand-name }?
+fxa-signout-dialog2-title = Disconnettersi dall’{ -fxaccount-brand-name }?
+fxa-signout-dialog2-button = Disconnetti
+fxa-signout-dialog2-checkbox = Elimina i dati da questo dispositivo (password, cronologia, segnalibri, ecc.)
 fxa-signout-dialog-body = I dati sincronizzati verranno mantenuti nell’account.
 fxa-signout-checkbox =
     .label = Elimina i dati da questo dispositivo (accessi, password, cronologia, segnalibri, ecc.).
