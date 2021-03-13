@@ -395,6 +395,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Adina bloccar
     .accesskey = d
+popup-mute-notifications-checkbox = Deactivar las notificaziuns da websites durant la cundivisiun
 
 ## WebRTC window or screen share tab switch warning
 
@@ -639,3 +640,9 @@ eme-notifications-drm-content-playing-manage = Administrar ils parameters
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Serrar
 eme-notifications-drm-content-playing-dismiss-accesskey = S
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
