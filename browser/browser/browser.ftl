@@ -115,7 +115,7 @@ urlbar-tabtosearch-onboard = აირჩიეთ ეს მალსახმ�
 
 ## Local search mode indicator labels in the urlbar
 
-urlbar-search-mode-bookmarks = სანიშნეები
+urlbar-search-mode-bookmarks = სანიშნები
 urlbar-search-mode-tabs = ჩანართები
 urlbar-search-mode-history = ისტორია
 
@@ -364,7 +364,7 @@ browser-tab-audio-pip = ᲔᲙᲠᲐᲜᲘ-ᲔᲙᲠᲐᲜᲨᲘ
 browser-import-button2 =
     .label = სანიშნების გადმოტანა…
     .tooltiptext = სხვა ბრაუზერიდან გადმოტანილ სანიშნებს გამოიყენებს { -brand-short-name }.
-bookmarks-toolbar-empty-message = სწრაფი წვდომისთვის, განათავსეთ თქვენი სანიშნები აქ, სანიშნების ზოლზე. <a data-l10n-name="manage-bookmarks"> სანიშნეების მართვა…</a>
+bookmarks-toolbar-empty-message = სწრაფი წვდომისთვის, განათავსეთ თქვენი სანიშნები აქ, სანიშნების ზოლზე. <a data-l10n-name="manage-bookmarks">სანიშნების მართვა…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -627,3 +627,9 @@ eme-notifications-drm-content-playing-manage = პარამეტრები
 eme-notifications-drm-content-playing-manage-accesskey = ვ
 eme-notifications-drm-content-playing-dismiss = დახურვა
 eme-notifications-drm-content-playing-dismiss-accesskey = უ
+
+## Password save/update panel
+
+
+## Add-on removal warning
+

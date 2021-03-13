@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "მენიუს გახსნა">
+
 <!ENTITY navbarOverflow.label                "დამატებითი ხელსაწყოები...">
 
 <!-- Tab context menu -->
@@ -42,7 +43,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "სრული ეკრანი">
 
-
 <!ENTITY pictureInPictureHideToggle.label "ეკრანი-ეკრანში გადამრთველის დამალვა">
 <!ENTITY pictureInPictureHideToggle.accesskey "ე">
 
@@ -52,7 +52,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; – პარამეტრები">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "სხვა მოწყობილობის დაკავშირება…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "&brandProductName; – შესვლა">
 <!ENTITY fxa.menu.turnOnSync.label "ჩართეთ &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; – მომსახურებები">
@@ -146,6 +145,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "ბოლოს დახურული ფანჯრები">
 
 <!ENTITY appMenuHistory.showAll.label "სრული ისტორიის ჩვენება">
+
 <!ENTITY appMenuHistory.clearRecent.label "უახლესი ისტორიის გასუფთავება…">
 <!ENTITY appMenuHistory.restoreSession.label "წინა სეანსის აღდგენა">
 <!ENTITY appMenuHistory.viewSidebar.label "ისტორიის გვერდითი ზოლის ჩვენება">
@@ -160,6 +160,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "სხვების ჩვენებაც">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "სხვა ჩანართების ჩვენებაც, ამ მოწყობილობიდან">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -218,17 +220,12 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "გვერდის შენახვა Pocket-ში">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Pocket-ის სიის ნახვა">
 
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
-
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoom.label                 "ზომის ცვლილება">
 
@@ -255,7 +252,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "ლექსიკონების დამატება…">
 <!ENTITY spellAddDictionaries.accesskey "ლ">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ბრაუზერის ჩანართები">
@@ -274,7 +270,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; განახლების ჩამოტვირთვა">
 <!ENTITY updateManual.panelUI.label "ჩამოიტვირთოს ახალი ვერსიის &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "მეტად ვეღარ განაახლებთ">
-<!ENTITY updateRestart.panelUI.label2 "გასაახლებლად, გაუშვით ხელახლა &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "გასაახლებლად, კვლავ გაუშვით &brandShorterName;">
 
 <!ENTITY sendToDevice.syncNotReady.label "მოწყობილობების დასინქრონება…">
 
