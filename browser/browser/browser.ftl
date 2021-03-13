@@ -369,9 +369,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = 攝影機:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = 攝影機
 popup-select-microphone-device =
     .value = 麥克風:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = 麥克風
 popup-all-windows-shared = 將分享您畫面上所有可見的視窗。
 popup-screen-sharing-not-now =
     .label = 現在不要
@@ -635,6 +639,12 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = 使用者名稱
+panel-save-update-password = 密碼
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = 要移除 { $name } 嗎？
+addon-removal-abuse-report-checkbox = 回報此擴充套件給 { -vendor-short-name }
