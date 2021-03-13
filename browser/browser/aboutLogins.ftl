@@ -313,6 +313,8 @@ about-logins-import-dialog-error-no-logins-imported = Neniu legitimilo estis enp
 about-logins-import-dialog-error-learn-more = Pli da informo
 about-logins-import-dialog-error-try-again = Klopodi denove…
 about-logins-import-dialog-error-cancel = Nuligi
+about-logins-import-report-title = Resumo pri enporto
+about-logins-import-report-description = Akreditiloj kaj pasvortoj enportitaj en { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -337,6 +339,21 @@ about-logins-import-report-added =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova legitimilo aldonita</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novaj legitimiloj aldonitaj</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ekzistanta akreditilo ĝisdatigita</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ekzistantaj akreditiloj ĝisdatigitaj</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duobligita akreditilo</div> <div data-l10n-name="not-imported">(ne enportita)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duobligitaj akreditiloj</div> <div data-l10n-name="not-imported">(ne enportitaj)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eraro</div> <div data-l10n-name="not-imported">(ne enportita)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eraroj</div> <div data-l10n-name="not-imported">(ne enportitaj)</div>
     }
 
 ## Logins import report page
