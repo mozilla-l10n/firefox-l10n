@@ -369,9 +369,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = 카메라:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = 카메라
 popup-select-microphone-device =
     .value = 마이크:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = 마이크
 popup-all-windows-shared = 화면에 표시되어 있는 모든 창을 공유합니다.
 popup-screen-sharing-not-now =
     .label = 나중에
@@ -632,3 +636,14 @@ eme-notifications-drm-content-playing-manage = 설정 관리
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = 닫기
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = 사용자 이름
+panel-save-update-password = 비밀번호
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } 부가 기능을 제거하시겠습니까?
