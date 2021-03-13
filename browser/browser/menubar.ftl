@@ -132,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = سفارشی‌سازی…
     .accesskey = س
+menu-view-customize-toolbar2 =
+    .label = سفارشی‌سازی نوار ابزار…
+    .accesskey = C
 menu-view-sidebar =
     .label = نوار کناری
     .accesskey = ک
@@ -222,6 +225,8 @@ menu-bookmarks-show-all =
     .label = نمایش همهٔ نشانک‌ها
 menu-bookmark-this-page =
     .label = نشانک‌گذاری این صفحه
+menu-bookmark-current-tab =
+    .label = نشانک‌گذاری زبانهٔ فعلی
 menu-bookmark-edit =
     .label = ویرایش این نشانک
 menu-bookmarks-all-tabs =
@@ -246,6 +251,12 @@ menu-tools-addons =
     .accesskey = ا
 menu-tools-fxa-sign-in =
     .label = ورود به { -brand-product-name }ٕ‍ٕ…
+    .accesskey = g
+menu-tools-extensions =
+    .label = افزونه‌ها و پوسته‌ها
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = وارد شدن
     .accesskey = g
 menu-tools-turn-on-sync =
     .label = روشن کردن { -sync-brand-short-name } ...
@@ -275,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] گ
            *[other] ت
+        }
+menu-settings =
+    .label = تنظیمات
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = اشکال‌زدای چیدمان

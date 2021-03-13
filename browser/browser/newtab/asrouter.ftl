@@ -121,6 +121,7 @@ cfr-whatsnew-lockwise-take-link-text = دریافت اپ
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = با نوار آدرس، کمتر تایپ کنید، اطلاعات بیشتری پیدا کنید
+cfr-whatsnew-searchbar-body-topsites = اکنون، تنها لازم است که نوار آدرس را انتخاب کنید، و یک محاوره با پیوند به سایت‌های برتر شما نمایش داده می‌شود.
 
 ## Search bar
 
