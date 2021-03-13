@@ -62,7 +62,7 @@ toolbar-button-reload =
 ## Stop
 
 main-context-menu-stop =
-    .aria-label = გაჩერება
+    .aria-label = შეჩერება
     .accesskey = ჩ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = გიჟური (2×)
     .accesskey = გ
+main-context-menu-media-play-speed-2 =
+    .label = სიჩქარე
+    .accesskey = ქ
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = გამეორება დაუსრულებლად
     .accesskey = ო
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = ეკრანი-ეკრანში
     .accesskey = ე
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = ჩვენება ეკრანი-ეკრანში
+    .accesskey = კ
 main-context-menu-image-reload =
     .label = სურათის განახლება
     .accesskey = გ
@@ -229,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = ვიდეოს ნახვა
     .accesskey = ვ
+main-context-menu-image-view-new-tab =
+    .label = სურათის ახალ ჩანართში გახსნა
+    .accesskey = ხ
+main-context-menu-video-view-new-tab =
+    .label = ვიდეოს ახალ ჩანართში გახსნა
+    .accesskey = ი
 main-context-menu-image-copy =
     .label = სურათის ასლი
     .accesskey = რ
@@ -277,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = კადრის შენახვა როგორც…
     .accesskey = კ
+main-context-menu-video-take-snapshot =
+    .label = სურათის გადაღება
+    .accesskey = ღ
 main-context-menu-video-email =
     .label = ვიდეოს გაგზავნა ელფოსტით…
     .accesskey = ფ
@@ -301,6 +328,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = შედგენილი პაროლის გამოყენება…
     .accesskey = დ
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = შენახული ანგარიშის გამოყენება
+    .accesskey = ო
+main-context-menu-use-saved-password =
+    .label = შენახული პაროლის გამოყენება
+    .accesskey = ო
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = მძლავრი პაროლის შემოთავაზება…
+    .accesskey = შ
 main-context-menu-manage-logins =
     .label = ანგარიშების მართვა…
     .accesskey = ვ
@@ -346,6 +390,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = მონიშნულის წყაროს ჩვენება
     .accesskey = ო
+main-context-menu-take-screenshot =
+    .label = ეკრანის სურათის გადაღება
+    .accesskey = თ
 main-context-menu-view-page-source =
     .label = გვერდის წყაროს ჩვენება
     .accesskey = წ
