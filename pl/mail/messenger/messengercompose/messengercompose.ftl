@@ -105,9 +105,9 @@ drop-file-label-attachment =
     }
 drop-file-label-inline =
     { $count ->
-        [one] Dołącz w treści
-        [few] Dołącz w treści
-       *[many] Dołącz w treści
+        [one] Wstaw w treści
+        [few] Wstaw w treści
+       *[many] Wstaw w treści
     }
 
 # Reorder Attachment Panel
