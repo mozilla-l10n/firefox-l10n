@@ -330,9 +330,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = استفاده از ورود ذخیره شده
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = استفاده از گذرواژهٔ ذخیره شده
+    .accesskey = o
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = پیشنهادِ یک گذرواژ‌هٔ قوی…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = مدیریت ورودها…
     .accesskey = M
@@ -378,6 +387,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = نمایش کدمنبع قسمت انتخابی
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = گرفتن عکس از صفحه
+    .accesskey = T
 main-context-menu-view-page-source =
     .label = نمایش کدمنبع صفحه
     .accesskey = ن
