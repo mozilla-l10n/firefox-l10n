@@ -145,12 +145,12 @@ mail-play-sound-label =
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] დ
+            [macos] ო
            *[other] d
         }
 mail-play-button =
     .label = გახმოვანება
-    .accesskey = P
+    .accesskey = ო
 change-dock-icon = პროგრამის ხატულას პარამეტრების შეცვლა
 app-icon-options =
     .label = პროგრამის ხატულის პარამეტრები…
@@ -617,15 +617,15 @@ auto-connect-label =
 ## translate the whole sentence.
 
 idle-label =
-    .label = ეცნობოს ჩემს ხალხს, რომ უქმად ვიქნები მოცემული დროის შემდგომ
-    .accesskey = I
+    .label = ეცნობოს ხალხს ჩემი წიგნაკიდან, რომ მიუწვდომელი ვარ,
+    .accesskey = უ
 idle-time-label = უქმი წუთის შემდეგ
 
 ##
 
 away-message-label =
-    .label = და ჩემი სტატუსის მითითება, როგორც -გასულია-, გზავნილით:
-    .accesskey = A
+    .label = ასევე მიეთითოს „გასულია“ მოცემული შეტყობინებით:
+    .accesskey = ა
 send-typing-label =
     .label = ტექსტის აკრეფის შეტყობინების გაგზავნა, საუბრებისას
     .accesskey = კ
@@ -652,10 +652,10 @@ notification-type-label =
         }
 chat-play-sound-label =
     .label = გახმოვანება
-    .accesskey = მ
+    .accesskey = ო
 chat-play-button =
     .label = გახმოვანება
-    .accesskey = დ
+    .accesskey = ო
 chat-system-sound-label =
     .label = წერილის მიღებისას სისტემის ნაგულისხმევი ხმოვანი სიგნალი
     .accesskey = ნ
