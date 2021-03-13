@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Takamiṛat
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Takamiṛat
 popup-select-microphone-device =
     .value = Asawaḍ:
     .accesskey = S
+popup-select-microphone-icon =
+    .tooltiptext = Asawaḍ
 popup-all-windows-shared = Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.
 popup-screen-sharing-not-now =
     .label = Mačči tura
@@ -638,3 +642,9 @@ more-menu-go-offline =
 eme-notifications-drm-content-playing = Kra n imeslawen neɣ timwaliyin n usmel-a seqdacen aseɣẓan DRM, ayen ad igen talast i tigawin i yessirig { -brand-short-name } ɣef iferdisen-a.
 eme-notifications-drm-content-playing-manage = Sefrek iɣewwaren
 eme-notifications-drm-content-playing-dismiss = Zgel
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
