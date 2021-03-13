@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Camèra :
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Camèra
 popup-select-microphone-device =
     .value = Microfòn :
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Microfòn
 popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.
 popup-screen-sharing-not-now =
     .label = Pas ara
@@ -640,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Gerir los paramètres
 eme-notifications-drm-content-playing-manage-accesskey = G
 eme-notifications-drm-content-playing-dismiss = Ignorar
 eme-notifications-drm-content-playing-dismiss-accesskey = I
+
+## Password save/update panel
+
+panel-save-update-username = Nom d’utilizaire
+panel-save-update-password = Senhal
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Suprimir { $name } ?
+addon-removal-abuse-report-checkbox = Senhalar aquesta extension a { -vendor-short-name }
