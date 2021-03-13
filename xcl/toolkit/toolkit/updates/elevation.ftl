@@ -8,4 +8,5 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = Մանրամասունք
 elevation-finished-page = Արդիացումն պատրաստ է առ ի տեղադրել
+elevation-finished-background-page = Արդիացումն անվտանգութեան եւ կայունութեան վասն { -brand-short-name } ֊ի ¶ ներբեռնեցաւ եւ պատրաստ է առ ի տեղադրել։
 elevation-finished-background = Արդիացումն՝
