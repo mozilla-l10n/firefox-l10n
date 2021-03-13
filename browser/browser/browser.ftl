@@ -655,3 +655,4 @@ panel-save-update-password = Lösenord
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = Ta bort { $name }?
+addon-removal-abuse-report-checkbox = Rapportera detta tillägg till { -vendor-short-name }
