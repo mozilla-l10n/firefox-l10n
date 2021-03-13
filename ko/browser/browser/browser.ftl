@@ -647,3 +647,4 @@ panel-save-update-password = 비밀번호
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } 부가 기능을 제거하시겠습니까?
+addon-removal-abuse-report-checkbox = 이 확장 기능을 { -vendor-short-name }에 신고
