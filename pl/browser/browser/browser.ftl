@@ -654,3 +654,7 @@ panel-save-update-password = Hasło
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Czy usunąć „{ $name }”?
+addon-removal-abuse-report-checkbox = Zgłoś to rozszerzenie do organizacji { -vendor-short-name }

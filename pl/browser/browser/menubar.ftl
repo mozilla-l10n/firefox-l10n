@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Znajdź na tej stronie…
     .accesskey = Z
+menu-edit-find-in-page =
+    .label = Znajdź na stronie…
+    .accesskey = Z
 menu-edit-find-again =
     .label = Znajdź następne
     .accesskey = n
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = P
 menu-view-customize-toolbar =
     .label = Dostosuj…
+    .accesskey = t
+menu-view-customize-toolbar2 =
+    .label = Dostosuj pasek narzędzi…
     .accesskey = t
 menu-view-sidebar =
     .label = Panel boczny
@@ -218,9 +224,11 @@ menu-bookmarks-menu =
 menu-bookmarks-show-all =
     .label = Wyświetl wszystkie zakładki
 menu-bookmark-this-page =
-    .label = Dodaj zakładkę
+    .label = Dodaj zakładkę do tej strony
+menu-bookmark-current-tab =
+    .label = Dodaj zakładkę do tej karty
 menu-bookmark-edit =
-    .label = Edytuj zakładkę
+    .label = Edytuj tę zakładkę
 menu-bookmarks-all-tabs =
     .label = Dodaj zakładki do wszystkich kart…
 menu-bookmarks-toolbar =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = D
 menu-tools-fxa-sign-in =
     .label = Zaloguj się w przeglądarce { -brand-product-name }…
+    .accesskey = Z
+menu-tools-extensions =
+    .label = Rozszerzenia i motywy
+    .accesskey = R
+menu-tools-fxa-sign-in2 =
+    .label = Zaloguj się
     .accesskey = Z
 menu-tools-turn-on-sync =
     .label = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] r
+        }
+menu-settings =
+    .label = Ustawienia
+    .accesskey =
+        { PLATFORM() ->
+            [windows] U
+           *[other] U
         }
 menu-tools-layout-debugger =
     .label = Debuger układu
