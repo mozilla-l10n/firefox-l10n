@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = سرعت جنون‌آمیز(۲×)
     .accesskey = ج
+main-context-menu-media-play-speed-2 =
+    .label = سرعت
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = حلقه‌
     .accesskey = ح
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = تصویر-در-تصویر
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = تماشا در حالت تصویر در تصویر
+    .accesskey = u
 main-context-menu-image-reload =
     .label = بازآوری تصویر
     .accesskey = ب
@@ -229,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = مشاهدهٔ ویدیو
     .accesskey = م
+main-context-menu-image-view-new-tab =
+    .label = باز کردن تصویر در زبانهٔ جدید
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = باز کردن ویدئو در زبانهٔ جدید
+    .accesskey = i
 main-context-menu-image-copy =
     .label = رونوشت برداشتن از تصویر
     .accesskey = ت
@@ -301,6 +325,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = استفاده از گذرواژه تولید شده…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = مدیریت ورودها…
     .accesskey = M
