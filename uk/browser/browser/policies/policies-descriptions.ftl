@@ -14,6 +14,7 @@ policy-3rdparty = Встановити політики, за якими WebExte
 policy-AppAutoUpdate = Увімкнути або вимкнути автоматичне оновлення програми.
 policy-AppUpdateURL = Встановити власну URL-адресу для оновлення програми.
 policy-Authentication = Налаштувати інтегровану автентифікацію для підтримуваних вебсайтів.
+policy-BackgroundAppUpdate = Увімкнути чи вимкнути службу фонового оновлення, яка оновлює браузер, коли він не працює.
 policy-BlockAboutAddons = Заблокувати доступ до керування додатками (about:addons).
 policy-BlockAboutConfig = Заблокувати доступ до сторінки about:config.
 policy-BlockAboutProfiles = Заблокувати доступ до сторінки about:profiles.
