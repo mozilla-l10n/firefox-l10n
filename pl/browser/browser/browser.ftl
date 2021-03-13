@@ -376,6 +376,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon do udostępnienia:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = Wszystkie widoczne na ekranie okna zostaną udostępnione.
 popup-screen-sharing-not-now =
     .label = Nie teraz
@@ -385,6 +395,13 @@ popup-screen-sharing-never =
     .accesskey = d
 popup-silence-notifications-checkbox = Wyłącz powiadomienia przeglądarki { -brand-short-name } podczas udostępniania
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nie będzie wyświetlał powiadomień w trakcie udostępniania.
+popup-screen-sharing-block =
+    .label = Blokuj
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Zawsze blokuj
+    .accesskey = Z
+popup-mute-notifications-checkbox = Nie wyświetlaj powiadomień ze stron podczas udostępniania
 
 ## WebRTC window or screen share tab switch warning
 
@@ -629,3 +646,11 @@ eme-notifications-drm-content-playing-manage = Zarządzaj ustawieniami
 eme-notifications-drm-content-playing-manage-accesskey = u
 eme-notifications-drm-content-playing-dismiss = Zamknij
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Password save/update panel
+
+panel-save-update-username = Nazwa użytkownika
+panel-save-update-password = Hasło
+
+## Add-on removal warning
+
