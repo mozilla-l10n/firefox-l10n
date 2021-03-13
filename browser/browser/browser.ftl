@@ -379,9 +379,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Камера:
     .accesskey = К
+popup-select-camera-icon =
+    .tooltiptext = Камера
 popup-select-microphone-device =
     .value = Мікрофон:
     .accesskey = М
+popup-select-microphone-icon =
+    .tooltiptext = Мікрофон
 popup-all-windows-shared = Надасться доступ до всіх видимих вікон на вашому екрані.
 popup-screen-sharing-not-now =
     .label = Не зараз
@@ -642,3 +646,15 @@ eme-notifications-drm-content-playing-manage = Керувати налаштув
 eme-notifications-drm-content-playing-manage-accesskey = К
 eme-notifications-drm-content-playing-dismiss = Відхилити
 eme-notifications-drm-content-playing-dismiss-accesskey = х
+
+## Password save/update panel
+
+panel-save-update-username = Ім’я користувача
+panel-save-update-password = Пароль
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Вилучити { $name }?
+addon-removal-abuse-report-checkbox = Поскаржитись на це розширення до { -vendor-short-name }
