@@ -212,13 +212,16 @@ cfr-doorhanger-cryptominers-description = Twoja prywatność jest ważna. { -bra
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } od { $date } zablokował <b>{ $blockedCount }</b> element śledzący!
         [few] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> elementy śledzące!
        *[many] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> elementów śledzących!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } od { DATETIME($date, month: "long", year: "numeric") } zablokował <b>{ $blockedCount }</b> element śledzący!
@@ -253,6 +256,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu w obrazie
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Ochrona w pigułce
 cfr-whatsnew-protections-body = Panel ochrony zawiera podsumowanie informacji o wyciekach danych i zarządzaniu hasłami. Można teraz śledzić, ile wycieków danych rozwiązano, a także zobaczyć, czy któreś z zachowanych haseł mogło paść ofiarą wycieku.
 cfr-whatsnew-protections-cta-link = Otwórz panel ochrony
@@ -268,6 +275,8 @@ cfr-whatsnew-better-pdf-body = Dokumenty PDF są teraz otwierane bezpośrednio w
 cfr-doorhanger-doh-body = Twoja prywatność jest ważna. { -brand-short-name } teraz bezpiecznie przekierowuje Twoje żądania DNS do usługi partnerskiej, aby chronić Cię w czasie przeglądania Internetu.
 cfr-doorhanger-doh-header = Bezpieczniejsze, zaszyfrowane wyszukiwania DNS
 cfr-doorhanger-doh-primary-button = OK
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Wyłącz
     .accesskey = W
