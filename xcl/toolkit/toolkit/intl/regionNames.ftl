@@ -9,3 +9,4 @@
 region-name-ad = Անդորրա
 region-name-ae = Միացեալ Եմիրութիւնք Արաբացւոց
 region-name-am = Հայք
+region-name-tt = Տրինիդադ եւ Տոբագո
