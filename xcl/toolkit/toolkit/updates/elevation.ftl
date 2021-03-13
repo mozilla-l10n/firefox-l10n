@@ -11,3 +11,4 @@ elevation-error-manual = Կարես արդիացուցանել զ{ -brand-short-
 elevation-finished-page = Արդիացումն պատրաստ է առ ի տեղադրել
 elevation-finished-background-page = Արդիացումն անվտանգութեան եւ կայունութեան վասն { -brand-short-name } ֊ի¶ ներբեռնեցաւ եւ պատրաստ է առ ի տեղադրել։
 elevation-finished-background = Արդիացումն՝
+elevation-more-elevated = Այս արդիացումն պահանջէ զվարչի արտունութիւնս։ Արդիացումնս¶ տեղադրեսցի ի յաջորդ մեկնարկի { -brand-short-name }֊ի։ Կարես վերամեկնարկել¶ զ{ -brand-short-name } այժմ, շարունակել գործել եւ վերամեկնարկել անագան ուրեմն կամ մերժել զայս¶ արդիացումն։
