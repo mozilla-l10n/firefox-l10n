@@ -250,6 +250,9 @@ main-context-menu-video-view =
 main-context-menu-image-view-new-tab =
     .label = Адкрыць відарыс у новай картцы
     .accesskey = і
+main-context-menu-video-view-new-tab =
+    .label = Адкрыць відэа ў новай картцы
+    .accesskey = і
 main-context-menu-image-copy =
     .label = Капіяваць выяву
     .accesskey = я
@@ -275,7 +278,7 @@ main-context-menu-image-save-as =
     .label = Захаваць выяву як…
     .accesskey = я
 main-context-menu-image-email =
-    .label = Даслаць выяву эл.поштай…
+    .label = Даслаць відарыс поштай…
     .accesskey = Д
 main-context-menu-image-set-as-background =
     .label = Усталяваць як фон працоўнага стала…
@@ -298,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Захаваць здымак як…
     .accesskey = З
+main-context-menu-video-take-snapshot =
+    .label = Зрабіць здымак…
+    .accesskey = ы
 main-context-menu-video-email =
     .label = Даслаць відэа эл.поштай…
     .accesskey = д
@@ -327,9 +333,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Выкарыстаць захаваны лагін
+    .accesskey = В
+main-context-menu-use-saved-password =
+    .label = Выкарыстаць захаваны пароль
+    .accesskey = В
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Прапанаваць надзейны пароль…
+    .accesskey = ы
 main-context-menu-manage-logins =
     .label = Кіраваць лагінамі…
     .accesskey = ь
@@ -375,6 +390,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Праглядзець зыходнік вылучэння
     .accesskey = л
+main-context-menu-take-screenshot =
+    .label = Зрабіць здымак экрана
+    .accesskey = к
 main-context-menu-view-page-source =
     .label = Праглядзець зыходнік старонкі
     .accesskey = з
