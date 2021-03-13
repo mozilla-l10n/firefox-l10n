@@ -9,10 +9,6 @@ about-httpsonly-insecure-explanation-unavailable = בחרת לגלוש במצב 
 about-httpsonly-insecure-explanation-reasons = ככל הנראה האתר אינו תומך ב־HTTPS, אבל ייתכן גם שתוקף חוסם את גרסת ה־HTTPS.
 about-httpsonly-insecure-explanation-exception = אמנם סיכון האבטחה הוא נמוך, אך אם בחירתך תהיה לבקר בגרסת ה־HTTP של האתר, מומלץ שלא להזין מידע רגיש כמו ססמאות, כתובות דוא״ל או פרטי כרטיס אשראי.
 about-httpsonly-button-make-exception = קבלת הסיכון והמשך לאתר
-about-httpsonly-title = ‏{ -brand-short-name } איתר חולשת אבטחה אפשרית
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable = בחרת לגלוש במצב ״HTTPS בלבד״, אבל גרסת HTTPS מאובטחת של <em>{ $websiteUrl }</em> אינה זמינה.
 about-httpsonly-title-alert = התראת מצב ״HTTPS בלבד״
 about-httpsonly-title-connection-not-available = חיבור מאובטח אינו זמין
 # Variables:
@@ -21,8 +17,15 @@ about-httpsonly-explanation-unavailable2 = הפעלת את מצב ״HTTPS בלב
 about-httpsonly-explanation-question = מה יכול לגרום לזה?
 about-httpsonly-explanation-nosupport = סביר להניח שהאתר פשוט אינו תומך ב־HTTPS.
 about-httpsonly-explanation-risk = יתכן שיש גם גורם זדוני בתמונה. אם החלטת לבקר באתר, עדיף לך לא למלא מידע רגיש כגון ססמאות, כתובות דוא״ל או פרטי כרטיסי אשראי.
-about-httpsonly-button-accept-and-continue = קבלת הסיכון והמשך
 about-httpsonly-explanation-continue = אם בחירתך תהיה להמשיך, מצב ״HTTPS בלבד״ יושבת באופן זמני עבור אתר זה.
 about-httpsonly-button-continue-to-site = המשך לאתר בגרסת HTTP
 about-httpsonly-button-go-back = חזרה
 about-httpsonly-link-learn-more = מידע נוסף…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-header = חלופה אפשרית
+about-httpsonly-suggestion-box-www-text = קיימת גרסה מאובטחת של <em>www.{ $websiteUrl }</em>. באפשרותך לבקר בדף זה במקום ב־<em>{ $websiteUrl }<em>.
+about-httpsonly-suggestion-box-www-button = מעבר אל www.{ $websiteUrl }

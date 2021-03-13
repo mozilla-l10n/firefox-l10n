@@ -14,6 +14,7 @@ policy-3rdparty = הגדרת מדיניות שהרחבות WebExtensions יכו�
 policy-AppAutoUpdate = הפעלה או השבתה של עדכון אוטומטי ליישום.
 policy-AppUpdateURL = הגדרת כתובת מותאמת אישית לעדכון היישום.
 policy-Authentication = הגדרת אימות משולב לאתרים שתומכים בזה.
+policy-BackgroundAppUpdate = הפעלה או השבתה של שירות העדכון ברקע, שמעדכן את הדפדפן כשהוא אינו פועל.
 policy-BlockAboutAddons = חסימת הגישה למנהל התוספות (about:addons).
 policy-BlockAboutConfig = חסימת הגישה לעמוד about:config.
 policy-BlockAboutProfiles = חסימת הגישה לעמוד about:profiles.
