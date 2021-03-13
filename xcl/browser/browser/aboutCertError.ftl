@@ -33,3 +33,6 @@ remoteXUL-title = Հեռակայ XUL
 sslv3Used-title = Անկարող անվտանգ կապակցել
 blockedByPolicy-title = Արգելափակեալ երես
 networkProtocolError-title = Սխալ հաղորդակարգի ցանցահիւսի
+nssBadCert-title = Զգուշացումն․ հնարաւոր վտանգ յառաջոյ
+nssBadCert-sts-title = Ոչ կապակցեցաւ․ հնարաւոր խնդիր անվտանգութեան
+certerror-mitm-title = Ծրագրաշար կանխէ  զ-{ -brand-short-name } յանվտանգ կապակցմանէ ընդ այս կայս:
