@@ -333,9 +333,21 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Uzi konservitan legitimilon
+    .accesskey = U
+main-context-menu-use-saved-password =
+    .label = Uzi konservitan pasvorton
+    .accesskey = p
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Sugesti fortan pasvorton…
+    .accesskey = f
+main-context-menu-manage-logins =
+    .label = Administri akreditilojn…
+    .accesskey = A
 main-context-menu-keyword =
     .label = Aldoni kategorian vorton por tiu ĉi serĉado…
     .accesskey = v
@@ -377,6 +389,9 @@ main-context-menu-print-selection =
     .accesskey = e
 main-context-menu-view-selection-source =
     .label = Vidi fonton de selekto
+    .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Fari ekrankopion
     .accesskey = e
 main-context-menu-view-page-source =
     .label = Vidi fonton de paĝo

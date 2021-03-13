@@ -206,11 +206,14 @@ cfr-doorhanger-cryptominers-description = Via privateco gravas. { -brand-short-n
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } blokis pli ol <b>{ $blockedCount }</b> spurilojn ekde { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } blokis pli ol <b>{ $blockedCount }</b> spurilojn ekde { DATETIME($date, month: "long", year: "numeric") }!
@@ -243,6 +246,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Emblemo de bildo en bildo.
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Superrigardo de protektoj
 cfr-whatsnew-protections-body = La panelo de protektoj inkluzivas resumajn raportojn pri datumfuĝoj kaj administro de pasvortoj. Vi nun povas sevki la kvanton de solvitaj datumfuĝoj kaj vidi ĉu iu ajn el viaj konservitaj pasvortoj povus esti elmetita de datumfuĝo.
 cfr-whatsnew-protections-cta-link = Vidi panelon de protektoj
@@ -259,6 +266,8 @@ cfr-doorhanger-doh-body = Via privateco gravas. Ekde nun, se tio eblas, { -brand
 cfr-doorhanger-doh-header = Petoj DNS pli sekuraj kaj ĉifritaj
 cfr-doorhanger-doh-primary-button = En ordo, mi komprenis
     .accesskey = E
+cfr-doorhanger-doh-primary-button-2 = En ordo
+    .accesskey = o
 cfr-doorhanger-doh-secondary-button = Malaktivigi
     .accesskey = M
 
