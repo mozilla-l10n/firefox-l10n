@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Кодировка текста
     .accesskey = о
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Безопасный режим…
+    .accesskey = п
+menu-help-exit-troubleshoot-mode =
+    .label = Отключить безопасный режим
+    .accesskey = ю
+menu-help-more-troubleshooting-info =
+    .label = Информация для решения проблем
+    .accesskey = ш
+
 ## Mail Toolbar
 
 toolbar-junk-button =
