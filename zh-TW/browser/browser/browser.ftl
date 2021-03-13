@@ -387,7 +387,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = 總是封鎖
     .accesskey = w
-popup-mute-notifications-checkbox = 分享時，不顯示網站通知
+popup-mute-notifications-checkbox = 分享視窗或畫面時，隱藏網站通知
 
 ## WebRTC window or screen share tab switch warning
 
@@ -632,3 +632,9 @@ eme-notifications-drm-content-playing-manage = 管理設定
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = 知道了！
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
