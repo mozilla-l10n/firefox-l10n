@@ -13,6 +13,7 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
+
 ## Firefox and Mozilla Brand
 ##
 ## Firefox and Mozilla must be treated as a brand.
@@ -29,9 +30,9 @@
 
 -brand-shorter-name = Firefox
 -brand-short-name = Firefox
--brand-full-name = موزیلا فایرفاکس
+-brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
--vendor-short-name = موزیلا
+-vendor-short-name = Mozilla
 trademarkInfo = فایرفاکس و نشان‌های فایرفاکس، علائم تجاری بنیاد موزیلا محسوب می‌شوند.
