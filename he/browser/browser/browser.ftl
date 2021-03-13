@@ -376,9 +376,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = מצלמה:
     .accesskey = מ
+popup-select-camera-icon =
+    .tooltiptext = מצלמה
 popup-select-microphone-device =
     .value = מיקרופון:
     .accesskey = ק
+popup-select-microphone-icon =
+    .tooltiptext = מיקרופון
 popup-all-windows-shared = ישותפו כל החלונות הגלויים על המסך.
 popup-screen-sharing-not-now =
     .label = לא כעת
@@ -638,3 +642,15 @@ eme-notifications-drm-content-playing-manage = ניהול הגדרות
 eme-notifications-drm-content-playing-manage-accesskey = נ
 eme-notifications-drm-content-playing-dismiss = סגירה
 eme-notifications-drm-content-playing-dismiss-accesskey = ס
+
+## Password save/update panel
+
+panel-save-update-username = שם משתמש
+panel-save-update-password = ססמה
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = להסיר את { $name }?
+addon-removal-abuse-report-checkbox = דיווח על הרחבה זו ל־{ -vendor-short-name }
