@@ -413,5 +413,7 @@ support-printing-prefs-value = Valoro
 support-remote-experiments-title = Forigi eksperimentojn
 support-remote-experiments-name = Nomo
 support-remote-experiments-branch = Eksperimenta branĉo
+support-remote-experiments-see-about-studies = Vidu <a data-l10n-name="support-about-studies-link">about:studies</a> por havi pli da informo, ekzemple, kiel malaktivigi unuopajn eksperimentojn aŭ kiel eviti ke { -brand-short-name } rulu ĉi tiajn tipojn de eksperimentoj en la estonteco.
+support-remote-features-title = Foraj trajtoj
 support-remote-features-name = Nomo
 support-remote-features-status = Stato
