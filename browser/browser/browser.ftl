@@ -369,9 +369,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Máy ảnh:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Máy ảnh
 popup-select-microphone-device =
     .value = Micrô:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micrô
 popup-all-windows-shared = Tất cả các cửa sổ trên màn hình sẽ được chia sẻ.
 popup-screen-sharing-not-now =
     .label = Không phải bây giờ
@@ -632,3 +636,15 @@ eme-notifications-drm-content-playing-manage = Quản lý cài đặt
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Bỏ qua
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = Tên đăng nhập
+panel-save-update-password = Mật khẩu
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Xóa { $name }?
+addon-removal-abuse-report-checkbox = Báo cáo tiện ích mở rộng này cho { -vendor-short-name }
