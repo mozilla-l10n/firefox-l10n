@@ -5,27 +5,27 @@
 <!ENTITY pref.download.title            "ჩამოტვირთვები">
 
 <!ENTITY downloadBehavior.label         "ჩამოტვირთვის დაწყებისას">
-<!ENTITY doNothing.label                "რაიმეს გახსნის გარეშე">
-<!ENTITY doNothing.accesskey            "D">
-<!ENTITY openProgressDialog.label       "მიმდინარეობის დიალოგის გახსნა">
-<!ENTITY openProgressDialog.accesskey   "O">
+<!ENTITY doNothing.label                "გახსნის გარეშე">
+<!ENTITY doNothing.accesskey            "რ">
+<!ENTITY openProgressDialog.label       "მიმდინარეობის მონაცემების გახსნა">
+<!ENTITY openProgressDialog.accesskey   "ხ">
 <!ENTITY openDM.label                   "ჩამოტვირთვის მმართველის გახსნა">
-<!ENTITY openDM.accesskey               "m">
+<!ENTITY openDM.accesskey               "ლ">
 <!ENTITY flashWhenOpen.label            "ჩამოტვირთვის მმართველის გაელვება თუ უკვე გახსნილია">
-<!ENTITY flashWhenOpen.accesskey        "f">
+<!ENTITY flashWhenOpen.accesskey        "ბ">
 
 <!ENTITY downloadLocation.label         "ფაილის შენახვისას">
-<!ENTITY saveTo.label                   "Save files to">
-<!ENTITY saveTo.accesskey               "v">
+<!ENTITY saveTo.label                   "ფაილების შესანახი მდებარეობა">
+<!ENTITY saveTo.accesskey               "ნ">
 <!ENTITY chooseDownloadFolder.label     "საქაღალდის არჩევა…">
-<!ENTITY chooseDownloadFolder.accesskey "C">
+<!ENTITY chooseDownloadFolder.accesskey "ჩ">
 <!ENTITY alwaysAsk.label                "შეკითხვა ყოველ ჯერზე ფაილის შენახვას">
-<!ENTITY alwaysAsk.accesskey            "A">
+<!ENTITY alwaysAsk.accesskey            "ყ">
 
-<!ENTITY finishedBehavior.label         "გამოტვირთვის დასრულებისას">
+<!ENTITY finishedBehavior.label         "ჩამოტვირთვის დასრულებისას">
 <!ENTITY playSound.label                "გახმოვანება">
-<!ENTITY playSound.accesskey            "P">
-<!ENTITY browse.label                   "ნუსხა…">
-<!ENTITY browse.accesskey               "B">
+<!ENTITY playSound.accesskey            "ო">
+<!ENTITY browse.label                   "ამორჩევა…">
+<!ENTITY browse.accesskey               "ა">
 <!ENTITY playButton.label               "გახმოვანება">
-<!ENTITY playButton.accesskey           "l">
+<!ENTITY playButton.accesskey           "ო">

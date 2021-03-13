@@ -7,10 +7,10 @@
 <!ENTITY pref.popups.caption            "ამომხტომი ფანჯრები">
 
 <!ENTITY popupBlock.label               "ამომხტომი ფანჯრების აკრძალვა">
-<!ENTITY popupBlock.accesskey           "B">
+<!ENTITY popupBlock.accesskey           "ძ">
 
-<!ENTITY viewPermissions.label          "უფლებების მართვა">
-<!ENTITY viewPermissions.accesskey      "M">
+<!ENTITY viewPermissions.label          "ნებართვების მართვა">
+<!ENTITY viewPermissions.accesskey      "ნ">
 
 <!ENTITY whenBlock.description          "ამომხტომი ფანჯრების შეზღუდვისას:">
 <!ENTITY playSound.label                "გახმოვანება:">
@@ -32,4 +32,3 @@
 <!ENTITY displayNotification.accesskey  "N">
 
 <!ENTITY popupNote.description          "შენიშვნა: ყველა ამომხტომი ფანჯრის აკრძალვამ შესაძლოა შეზღუდოს ზოგი საიტის მნიშვნელოვანი შესაძლებლობები, როგორიცაა ანგარიშის შესავსები ველები ინტერნეტბანკებსა და მაღაზიებში. გარკვეული საიტებისათვის ამომხტომი ფანჯრების ჩვენების დაშვებისა და სხვა ყველა საიტისთვის ასაკრძალად დააწკაპეთ „დახმარებაზე“. ზოგიერთი საიტი იყენებს ამომხტომი ფანჯრების ჩვენების სხვა საშუალებებს, აკრძალვისთვის გვერდის ასავლელად.">
-
