@@ -53,7 +53,7 @@ reopen-in-container =
     .accesskey = ე
 tab-context-open-in-container =
     .label = გახსნა ახალ სათავსში
-    .accesskey = ვ
+    .accesskey = თ
 move-to-start =
     .label = თავში გადატანა
     .accesskey = თ
@@ -107,7 +107,7 @@ tab-context-close-tabs =
             [1] ჩანართის დახურვა
            *[other] ჩანართების დახურვა
         }
-    .accesskey = ხ
+    .accesskey = უ
 tab-context-move-tabs =
     .label =
         { $tabCount ->
