@@ -127,4 +127,7 @@ region-name-sa = Սաուդեան Արաբիա
 region-name-sd = Սուդան
 region-name-se = Շուեդիա
 region-name-sg = Սինգապուր
+region-name-si = Սղովենիա
+region-name-sk = Սղովակիա
+region-name-sl = Սիերա Ղէոնե
 region-name-tt = Տրինիդադ եւ Տոբագո
