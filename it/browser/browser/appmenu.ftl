@@ -33,7 +33,6 @@ appmenu-menu-button-closed =
 appmenu-menu-button-opened =
     .tooltiptext = Chiudi menu applicazione
     .label = { -brand-shorter-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -52,10 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizza adesso
-
-appmenuitem-fxa-toolbar-sync-now =
-   .label = Sincronizza adesso
-    .value = Sincronizza adesso
+appmenuitem-fxa-toolbar-sync-now2 = Sincronizza adesso
 appmenuitem-fxa-manage-account = Gestisci account
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -70,7 +66,6 @@ appmenu-fxa-signed-in-label = Accedi
 appmenu-fxa-setup-sync =
     .label = Attiva sincronizzazione…
 appmenu-fxa-show-more-tabs = Mostra più schede
-
 appmenuitem-save-page =
     .label = Salva pagina con nome…
 
@@ -176,6 +171,10 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Riavvia attivando i componenti aggiuntivi
     .accesskey = R
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
 appmenu-help-enter-troubleshoot-mode =
     .label = Modalità risoluzione problemi
     .accesskey = M
