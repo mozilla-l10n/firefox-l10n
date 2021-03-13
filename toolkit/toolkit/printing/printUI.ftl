@@ -71,6 +71,7 @@ printui-margins-default = Predefiniti
 printui-margins-min = Minimi
 printui-margins-none = Nessuno
 printui-margins-custom-inches = Personalizzati (pollici)
+printui-margins-custom-mm = Personalizzati (mm)
 printui-margins-custom-top = Superiore
 printui-margins-custom-bottom = Inferiore
 printui-margins-custom-left = Sinistra
@@ -79,6 +80,10 @@ printui-margins-custom-top-inches = Superiore (pollici)
 printui-margins-custom-bottom-inches = Inferiore (pollici)
 printui-margins-custom-left-inches = Sinistra (pollici)
 printui-margins-custom-right-inches = Destra (pollici)
+printui-margins-custom-top-mm = Superiore (mm)
+printui-margins-custom-bottom-mm = Inferiore (mm)
+printui-margins-custom-left-mm = Sinistra (mm)
+printui-margins-custom-right-mm = Destra (mm)
 
 printui-system-dialog-link = Stampa utilizzando la finestra di dialogo del sistema…
 
