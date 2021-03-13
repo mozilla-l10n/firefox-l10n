@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
 popup-select-microphone-device =
     .value = Mikrofon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = A képernyő minden látható ablaka meg lesz osztva.
 popup-screen-sharing-not-now =
     .label = Most nem
@@ -640,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Beállítások kezelése
 eme-notifications-drm-content-playing-manage-accesskey = k
 eme-notifications-drm-content-playing-dismiss = Elvetés
 eme-notifications-drm-content-playing-dismiss-accesskey = E
+
+## Password save/update panel
+
+panel-save-update-username = Felhasználónév
+panel-save-update-password = Jelszó
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Eltávoltja a következőt: { $name }?
+addon-removal-abuse-report-checkbox = A kiegészítő jelentése a { -vendor-short-name } felé
