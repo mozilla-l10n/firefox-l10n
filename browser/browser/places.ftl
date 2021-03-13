@@ -50,6 +50,9 @@ places-add-folder-contextmenu =
 places-add-folder =
     .label = Aldoni dosierujon…
     .accesskey = d
+places-add-separator =
+    .label = Aldoni apartigilon
+    .accesskey = a
 places-view =
     .label = Vidi
     .accesskey = v
@@ -81,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Atributoj
     .accesskey = o
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Modifi legosignon…
+    .accesskey = l
+places-edit-generic =
+    .label = Modifi…
+    .accesskey = M
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Administrataj legosignoj

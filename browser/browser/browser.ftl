@@ -374,6 +374,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Dividota mikrofono:
     .accesskey = m
+popup-select-camera-device =
+    .value = Filmilo:
+    .accesskey = F
+popup-select-camera-icon =
+    .tooltiptext = Filmilo
+popup-select-microphone-device =
+    .value = Mikrofono:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofono
 popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.
 popup-screen-sharing-not-now =
     .label = Ne nun
@@ -383,6 +393,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Malaktivigi sciigojn de { -brand-short-name } dum divido
 popup-silence-notifications-checkbox-warning = { -brand-short-name } ne montros sciigojn dum vi dividas.
+popup-screen-sharing-block =
+    .label = Bloki
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Ĉiam bloki
+    .accesskey = i
+popup-mute-notifications-checkbox = Malaktivigi retejejan sciigojn dum divido
 
 ## WebRTC window or screen share tab switch warning
 
@@ -627,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Administri agordojn
 eme-notifications-drm-content-playing-manage-accesskey = A
 eme-notifications-drm-content-playing-dismiss = Ignori
 eme-notifications-drm-content-playing-dismiss-accesskey = I
+
+## Password save/update panel
+
+panel-save-update-username = Nomo de uzanto
+panel-save-update-password = Pasvorto
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Ĉu forigi { $name }?
+addon-removal-abuse-report-checkbox = Denunci tiun ĉi etendaĵon al { -vendor-short-name }
