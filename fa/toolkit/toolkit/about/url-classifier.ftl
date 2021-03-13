@@ -40,14 +40,13 @@ url-classifier-debug-sb-modules = ماژول‌های وقایع مرور امن
 url-classifier-debug-modules = ماژول‌های وقایع فعلی
 url-classifier-debug-sbjs-modules = وقایع JS مرور امن
 url-classifier-debug-file = پرونده وقایع فعلی
-
 url-classifier-trigger-update = اجرای بروزرسانی
 url-classifier-not-available = نامربوط
 url-classifier-disable-sbjs-log = غیرفعال کردن وقایع JS مرور امن
 url-classifier-enable-sbjs-log = فعال کردن وقایع JS مرور امن
 url-classifier-enabled = فعال شد
 url-classifier-disabled = غیرفعال شد
-url-classifier-updating = درحال بروزرسانی
+url-classifier-updating = در حال بروزرسانی
 url-classifier-cannot-update = نمی‌توان بروزرسانی کرد
 url-classifier-success = با موفقیت انجام شد!
 url-classifier-update-error = خطا بروزرسانی ({ $error })

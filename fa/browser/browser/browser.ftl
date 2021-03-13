@@ -346,10 +346,10 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = درحال پخش
+browser-tab-audio-playing = در حال پخش
 browser-tab-audio-muted = بی‌صدا
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ‏‏درحال پخش
+browser-tab-audio-playing2 = ‏‏در حال پخش
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = بی‌صدا
 # This label should be written in all capital letters if your locale supports them.
@@ -619,3 +619,9 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ویدئو یا صدا در این سایت به نرم‌افزار DRM نیاز دارد، که امکان دارد امکاناتی که { -brand-short-name } به شما میدهد را محدود کند.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
