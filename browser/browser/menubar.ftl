@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = პოვნა გვერდზე…
     .accesskey = პ
+menu-edit-find-in-page =
+    .label = პოვნა გვერდზე…
+    .accesskey = პ
 menu-edit-find-again =
     .label = კვლავძიება
     .accesskey = კ
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = მორგება…
     .accesskey = მ
+menu-view-customize-toolbar2 =
+    .label = ხელსაწყოთა ზოლის მორგება…
+    .accesskey = რ
 menu-view-sidebar =
     .label = გვერდითი ზოლი
     .accesskey = ზ
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = ყველა სანიშნის ჩვენება
 menu-bookmark-this-page =
     .label = გვერდის ჩანიშვნა
+menu-bookmark-current-tab =
+    .label = მიმდინარე ჩანართის ჩანიშვნა
 menu-bookmark-edit =
     .label = სანიშნის ჩასწორება
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = { -brand-product-name } – შესვლა...
     .accesskey = ვ
+menu-tools-extensions =
+    .label = გაფართოებები და თემები
+    .accesskey = ფ
+menu-tools-fxa-sign-in2 =
+    .label = შესვლა
+    .accesskey = ვ
 menu-tools-turn-on-sync =
     .label = ჩართეთ { -sync-brand-short-name }...
     .accesskey = ჩ
@@ -268,6 +282,13 @@ menu-preferences =
             [windows] პარამეტრები
            *[other] პარამეტრები
         }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] პ
+           *[other] ტ
+        }
+menu-settings =
+    .label = პარამეტრები
     .accesskey =
         { PLATFORM() ->
             [windows] პ

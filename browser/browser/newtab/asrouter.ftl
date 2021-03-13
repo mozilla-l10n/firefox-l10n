@@ -268,6 +268,8 @@ cfr-doorhanger-doh-body = თქვენი პირადულობა უ�
 cfr-doorhanger-doh-header = მეტად უსაფრთხო, დაშიფრული DNS-გარდაქმნები
 cfr-doorhanger-doh-primary-button = კარგი, გასაგებია
     .accesskey = კ
+cfr-doorhanger-doh-primary-button-2 = კარგი
+    .accesskey = კ
 cfr-doorhanger-doh-secondary-button = გამორთვა
     .accesskey = გ
 
