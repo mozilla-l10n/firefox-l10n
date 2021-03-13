@@ -7,9 +7,12 @@
 cert-error-intro = { $hostname } ի գործ ածէ զանվաւեր անվտանգութեան վկայագիր:
 cert-error-mitm-intro = Կայք հաստատեն զինքնութիւն իւրեանց ի ձեռն վկայագրաց, որք սահմանին ի հաւաստագրող ատենից։
 cert-error-mitm-mozilla = { -brand-short-name } հոգացեալ է ընդ հովանեաւ յոր զհետ շահութի չէ պնդեալ Mozilla֊է, որ կառավարէ զհամաւրէն բաց շտեմարան հաւաստագրող ատենից։  Այս շտեմարան աւգնէ երաշխաւորել, զի հաւաստագրող ատեանք ըստ ամենայնի պահպանեն զանվտանգութիւն աւգտատեարց։
+cert-error-trust-cert-invalid = Վկայագիրն վստահելի չէ, զի թողարկեալ է յանվավեր վկայագրող ատենէ։
 cert-error-trust-untrusted-issuer = Վկայագիրն վստահելի չէ, զի թողարկող վկայագիրն չէ վստահելի։
 cert-error-trust-self-signed = Վկայագիրն վստահելի չէ, զի ինքնաստորագրեալ է։
 cert-error-untrusted-default = Վկայագիրն ոչ ելանէ ի վստահելի աղբերէ։
+cert-error-symantec-distrust-admin = Մարթ է ծանուցանել վարչին կայից զայսմ խնդրոյ։
+open-in-new-window-for-csp-or-xfo-error = Բանալ զկայս ի նորում պատուհանի
 
 ## Messages used for certificate error titles
 
@@ -19,7 +22,9 @@ deniedPortAccess-title = Այս հասցէ արգելափակեալ է:
 dnsNotFound-title = Հնար չէ գտանել զայս կայս:
 fileNotFound-title = Նիշն գտեալ չէ:
 fileAccessDenied-title = Հասանելիութիւն նշին ժխտեալ է:
+generic-title = Վա՜յ։
 netInterrupt-title = Կապն խզեցաւ:
 notCached-title = Ժամկիտանց փաստաթուղթ
+netOffline-title = Արտացանց եղանակ
 netReset-title = Կապն վերագործարկեցաւ
 blockedByPolicy-title = Արգելափակեալ երես
