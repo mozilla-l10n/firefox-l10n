@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Kodowanie tekstu
     .accesskey = K
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Tryb rozwiązywania problemów…
+    .accesskey = T
+menu-help-exit-troubleshoot-mode =
+    .label = Wyłącz tryb rozwiązywania problemów
+    .accesskey = t
+menu-help-more-troubleshooting-info =
+    .label = Więcej informacji do rozwiązywania problemów
+    .accesskey = n
+
 ## Mail Toolbar
 
 toolbar-junk-button =
