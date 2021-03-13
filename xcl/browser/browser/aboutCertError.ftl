@@ -12,10 +12,12 @@ cert-error-trust-untrusted-issuer = Վկայագիրն վստահելի չէ, զ
 cert-error-trust-self-signed = Վկայագիրն վստահելի չէ, զի ինքնաստորագրեալ է։
 cert-error-untrusted-default = Վկայագիրն ոչ ելանէ ի վստահելի աղբերէ։
 cert-error-symantec-distrust-admin = Մարթ է ծանուցանել վարչին կայից զայսմ խնդրոյ։
+cert-error-details-cert-chain-label = Շղթայ վկայագրի՝
 open-in-new-window-for-csp-or-xfo-error = Բանալ զկայս ի նորում պատուհանի
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Չէ հնար կապակցել
 deniedPortAccess-title = Այս հասցէ արգելափակեալ է:
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
