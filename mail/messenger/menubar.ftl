@@ -9,6 +9,18 @@ menu-view-charset =
     .label = ტექსტის კოდირება
     .accesskey = კ
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = ხარვეზის აღმოფხვრის რეჟიმი…
+    .accesskey = ხ
+menu-help-exit-troubleshoot-mode =
+    .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
+    .accesskey = გ
+menu-help-more-troubleshooting-info =
+    .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
+    .accesskey = ნ
+
 ## Mail Toolbar
 
 toolbar-junk-button =
