@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Tschertgar en la pagina
     .accesskey = s
+menu-edit-find-in-page =
+    .label = Tschertgar en la pagina…
+    .accesskey = T
 menu-edit-find-again =
     .label = Tschertgar vinavant
     .accesskey = n
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Persunalisar…
     .accesskey = a
+menu-view-customize-toolbar2 =
+    .label = Persunalisar la trav d'utensils…
+    .accesskey = P
 menu-view-sidebar =
     .label = Trav laterala
     .accesskey = T
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Mussar tut ils segnapaginas
 menu-bookmark-this-page =
     .label = Agiuntar in segnapagina…
+menu-bookmark-current-tab =
+    .label = Agiuntar in segnapagina per il tab actual
 menu-bookmark-edit =
     .label = Modifitgar quest segnapagina
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = S
 menu-tools-fxa-sign-in =
     .label = S'annunziar tar { -brand-product-name }…
+    .accesskey = z
+menu-tools-extensions =
+    .label = Extensiuns e designs
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = S'annunziar
     .accesskey = z
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }…
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] e
            *[other] e
+        }
+menu-settings =
+    .label = Parameters
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] p
         }
 menu-tools-layout-debugger =
     .label = Debugadi da layout

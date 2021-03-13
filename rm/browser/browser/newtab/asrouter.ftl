@@ -200,12 +200,15 @@ cfr-doorhanger-cryptominers-description = La protecziun da datas è impurtanta. 
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } ha bloccà passa <b>{ $blockedCount }</b> fastizader dapi { $date }!
        *[other] { -brand-short-name } ha bloccà passa <b>{ $blockedCount }</b> fastizaders dapi { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } ha bloccà <b>{ $blockedCount }</b> fastizader dapi ils { DATETIME($date, month: "long", year: "numeric") }!
@@ -239,6 +242,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icona da maletg-en-maletg
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Las mesiras da protecziun en in sguard
 cfr-whatsnew-protections-body = La survista da las protecziuns includa infurmaziuns davart sperditas da datas e l'administraziun da pleds-clav. Ti pos ussa persequitar quants problems en connex cun sperditas da datas che ti has schlià e vesair sche ti has anc pleds-clav memorisads ch'èn pertutgads da sperditas da datas.
 cfr-whatsnew-protections-cta-link = Mussar la survista da las protecziuns
@@ -254,6 +261,8 @@ cfr-whatsnew-better-pdf-body = PDFs vegnan ussa averts direct en { -brand-short-
 cfr-doorhanger-doh-body = La protecziun da tias datas è impurtanta. { -brand-short-name } trametta ussa tias dumondas DNS – adina cura che quai è pussaivel – a moda segirada ad in servetsch dad in partenari. Per ta proteger durant il navigar.
 cfr-doorhanger-doh-header = Retschertgas DNS criptadas e pli segiras
 cfr-doorhanger-doh-primary-button = OK, chapì
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deactivar
     .accesskey = D
