@@ -9,10 +9,6 @@ about-httpsonly-insecure-explanation-unavailable = Du surfar i moduset «Bere HT
 about-httpsonly-insecure-explanation-reasons = Mest sannsynleg støttar nettstaden ikkje HTTPS, men det kan òg vere at ein angripar blokkerer HTTPS-versjonen.
 about-httpsonly-insecure-explanation-exception = Sjølv om tryggingsrisikoen er låg om du bestemmer deg for å besøke HTTP-versjonen av nettstaden, bør du ikkje oppgi sensitiv informasjon som passord, e-post eller kredittkortinformasjon.
 about-httpsonly-button-make-exception = Godta risikoen og fortset til nettstaden
-about-httpsonly-title = { -brand-short-name } oppdaga eit potensielt sikkerheitsproblem
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable = Du surfar i moduset «Berre HTTPS» (HTTPS-Only), og ein sikker HTTPS-versjon av <em>{ $websiteUrl }</em> er ikkje tilgjengeleg.
 about-httpsonly-title-alert = Berre HTTPS-modus-åtvaring
 about-httpsonly-title-connection-not-available = Trygg tilkopling er ikkje tilgjengeleg
 # Variables:
@@ -21,8 +17,13 @@ about-httpsonly-explanation-unavailable2 = Du har slått på berre-HTTPS-modus f
 about-httpsonly-explanation-question = Kva kan vere årsaka til dette?
 about-httpsonly-explanation-nosupport = Mest sannsynleg støttar nettstaden ganske enkelt ikkje HTTPS.
 about-httpsonly-explanation-risk = Det er også mogleg at ein angripar er involvert. Dersom du bestemmer deg for å besøke nettstaden, bør du ikkje oppgi sensitiv informasjon som passord, e-post eller betalingskortinformasjon.
-about-httpsonly-button-accept-and-continue = Godta risikoen og fortset
 about-httpsonly-explanation-continue = Dersom du fortset, vert berre-HTTPS-modus slått av mellombels for denne nettstaden.
 about-httpsonly-button-continue-to-site = Fortset til HTTP-nettstaden
 about-httpsonly-button-go-back = Gå tilbake
 about-httpsonly-link-learn-more = Les meir…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-www-button = Gå til www.{ $websiteUrl }
