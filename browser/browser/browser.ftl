@@ -381,9 +381,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
 popup-select-microphone-device =
     .value = Mikrofon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = Wšykne widobne wokna na wašej wobrazowce budu se źěliś.
 popup-screen-sharing-not-now =
     .label = Nic něnto
@@ -644,3 +648,15 @@ eme-notifications-drm-content-playing-manage = Nastajenja zastojaś
 eme-notifications-drm-content-playing-manage-accesskey = N
 eme-notifications-drm-content-playing-dismiss = Zachyśiś
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Password save/update panel
+
+panel-save-update-username = Wužywarske mě
+panel-save-update-password = Gronidło
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } wótwónoźeś?
+addon-removal-abuse-report-checkbox = { -vendor-short-name } toś to rozšyrjenje k wěsći daś

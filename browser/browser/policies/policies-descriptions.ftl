@@ -14,6 +14,7 @@ policy-3rdparty = Pšawidła nastajiś, ku kótarymž WebExtensions maju pśistu
 policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžniś abo znjemóžniś.
 policy-AppUpdateURL = Swójski aktualizěrowański URL za nałoženje nastajiś.
 policy-Authentication = Integrěrowanu awtentifikaciju za websedła konfigurěrowaś, kótarež ju pódpěraju.
+policy-BackgroundAppUpdate = Slězynowe aktualizěrowanje zmóžniś abo znjemóžniś, kótarež wobglědowak aktualizěrujo, gaž wón njeběžy.
 policy-BlockAboutAddons = Pśistup k zastojnikoju dodankow (about:addons) blokěrowaś.
 policy-BlockAboutConfig = Pśistup k bokoju about:config blokěrowaś.
 policy-BlockAboutProfiles = Pśistup k bokoju about:profiles blokěrowaś.
