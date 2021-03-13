@@ -210,13 +210,16 @@ cfr-doorhanger-cryptominers-description = Ваша прыватнасць мае
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } заблакаваў больш за  <b>{ $blockedCount }</b> трэкер з { $date }!
         [few] { -brand-short-name } заблакаваў больш за  <b>{ $blockedCount }</b> трэкеры з { $date }!
        *[many] { -brand-short-name } заблакаваў больш за  <b>{ $blockedCount }</b> трэкераў з { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } заблакаваў больш за <b>{ $blockedCount }</b> трэкер з { DATETIME($date, month: "long", year: "numeric") }!
@@ -251,6 +254,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Значок «выява ў выяве»
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Хуткі агляд стану аховы
 cfr-whatsnew-protections-body = Панэль стану аховы змяшчае зводныя справаздачы аб уцечках дадзеных і кіраванні паролямі. Цяпер вы можаце асочваць колькасць уцечак, з якімі вы разабраліся, і бачыць, ці быў які-небудзь з захаваных пароляў выкрыты пры ўцечцы дадзеных.
 cfr-whatsnew-protections-cta-link = Адкрыць панэль стану аховы
@@ -267,6 +274,8 @@ cfr-doorhanger-doh-body = Ваша прыватнасць мае значэнн�
 cfr-doorhanger-doh-header = Больш бяспечны, зашыфраваны пошук DNS
 cfr-doorhanger-doh-primary-button = OK, зразумела
     .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Добра
+    .accesskey = Д
 cfr-doorhanger-doh-secondary-button = Адключыць
     .accesskey = А
 
