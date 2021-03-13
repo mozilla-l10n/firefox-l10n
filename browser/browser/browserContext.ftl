@@ -236,7 +236,7 @@ main-context-menu-media-pip =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
-    .label = 以画中画观看
+    .label = 画中画观看
     .accesskey = u
 main-context-menu-image-reload =
     .label = 重新载入图像
