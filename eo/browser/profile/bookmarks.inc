@@ -25,6 +25,10 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help Helpo kaj gvidado
 
+# LOCALIZATION NOTE (firefox_get_help):
+# link title for https://www.mozilla.org/en-US/firefox/help/
+#define firefox_get_help Helpo
+
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Agordi Firefox
@@ -60,10 +64,6 @@
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
 #define crashes Ĉiuj viaj paneoj
-
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Discuss Nightly en IRC
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/

@@ -40,10 +40,10 @@ printui-scale-pcent = Skalo
 printui-two-sided-printing = Ambaŭflanka presado
 printui-duplex-checkbox = Presi ambaŭflanke
 printui-two-sided-printing-off = Malŝaltita
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Kiel libro (flanka rando)
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Kiel kalendaro (supra rando)
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Ambaŭflanke laŭ la longa rando
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Ambaŭflanke laŭ la mallonga rando
 # Section title for miscellaneous print options
 printui-options = Ebloj
 printui-headers-footers-checkbox = Presi paĝokapojn kaj paĝopiedojn
@@ -101,6 +101,7 @@ printui-paper-tabloid = Duoble letera
 
 printui-error-invalid-scale = Skalo devas esti nombro inter 10 kaj 200.
 printui-error-invalid-margin = Bonvolu tajpi validan marĝenon por la elektita papergrando.
+printui-error-invalid-copies = Kopioj devas esti nombro inter 1 kaj 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Intervalo devas esti nombro inter 1 kaj { $numPages }.

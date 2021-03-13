@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Serĉi en tiu ĉi paĝo…
     .accesskey = S
+menu-edit-find-in-page =
+    .label = Serĉi en paĝo…
+    .accesskey = S
 menu-edit-find-again =
     .label = Serĉi denove
     .accesskey = e
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Personecigi…
     .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personecigi ilaron…
+    .accesskey = i
 menu-view-sidebar =
     .label = Flanka strio
     .accesskey = F
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Montri ĉiujn legosignojn
 menu-bookmark-this-page =
     .label = Aldoni legosignon por tiu ĉi paĝo
+menu-bookmark-current-tab =
+    .label = Aldoni legosignon por la nuna langeto
 menu-bookmark-edit =
     .label = Redakti tiun ĉi legosignon
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Komenci seancon en { -brand-product-name }…
     .accesskey = K
+menu-tools-extensions =
+    .label = Etendaĵoj kaj etosoj
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Komenci seancon
+    .accesskey = s
 menu-tools-turn-on-sync =
     .label = Ŝalto de { -sync-brand-short-name }…
     .accesskey = a
@@ -272,6 +286,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
+        }
+menu-settings =
+    .label = Agordoj
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
         }
 menu-tools-layout-debugger =
     .label = Erarserĉilo de aranĝo
@@ -325,6 +346,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informoj por solvado de problemoj
     .accesskey = I
+menu-help-more-troubleshooting-info =
+    .label = Pli da problemsolva informo
+    .accesskey = p
 menu-help-taskmanager =
     .label = Administrilo de taskoj
 menu-help-report-site-issue =
@@ -338,6 +362,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Restartigi kun aldonaĵoj aktivaj
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Problemsolva reĝimo
+    .accesskey = r
+menu-help-exit-troubleshoot-mode =
+    .label = Malŝalti problemsolvan reĝimon
+    .accesskey = p
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

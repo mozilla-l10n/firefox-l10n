@@ -62,6 +62,8 @@ appmenu-fxa-header =
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Laste spegulita: { $time }
     .label = Laste spegulita: { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Speguli kaj konservi datumojn
 appmenu-fxa-signed-in-label = Komenci seancon
 appmenu-fxa-setup-sync =
     .label = Ŝalti speguladon…
@@ -149,6 +151,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informoj por solvado de problemoj
     .accesskey = I
+appmenu-help-more-troubleshooting-info =
+    .label = Pli da problemsolva informo
+    .accesskey = p
 appmenu-help-taskmanager =
     .label = Administrilo de taskoj
 appmenu-help-report-site-issue =
@@ -170,6 +175,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = Problemsolva reĝimo
+    .accesskey = r
+appmenu-help-exit-troubleshoot-mode =
+    .label = Malŝalti problemsolvan reĝimon
+    .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
