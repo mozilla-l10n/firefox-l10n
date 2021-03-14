@@ -132,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Personalizar…
     .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalizar la barra de herramientas…
+    .accesskey = C
 menu-view-sidebar =
     .label = Panel lateral
     .accesskey = e
@@ -222,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Mostrar todos los marcadores
 menu-bookmark-this-page =
     .label = Añadir esta página a marcadores
+menu-bookmark-current-tab =
+    .label = Añadir pestaña actual a marcadores
 menu-bookmark-edit =
     .label = Editar este marcador
 menu-bookmarks-all-tabs =
@@ -247,6 +252,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Iniciar sesión en { -brand-product-name }…
     .accesskey = I
+menu-tools-extensions =
+    .label = Extensiones y temas
+    .accesskey = E
 menu-tools-fxa-sign-in2 =
     .label = Iniciar sesión
     .accesskey = i
@@ -277,6 +285,13 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
+           *[other] n
+        }
+menu-settings =
+    .label = Ajustes
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
