@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Absurdná (2 ×)
     .accesskey = b
+main-context-menu-media-play-speed-2 =
+    .label = Rýchlosť
+    .accesskey = R
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Slučka
     .accesskey = S
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Obraz v obraze
     .accesskey = v
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Sledovať ako obraz v obraze
+    .accesskey = S
 main-context-menu-image-reload =
     .label = Znova načítať obrázok
     .accesskey = t
@@ -229,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Zobraziť video
     .accesskey = b
+main-context-menu-image-view-new-tab =
+    .label = Otvoriť obrázok na novej karte
+    .accesskey = b
+main-context-menu-video-view-new-tab =
+    .label = Otvoriť video na novej karte
+    .accesskey = v
 main-context-menu-image-copy =
     .label = Kopírovať obrázok
     .accesskey = v
@@ -277,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Uložiť snímku ako…
     .accesskey = s
+main-context-menu-video-take-snapshot =
+    .label = Urobiť snímok
+    .accesskey = b
 main-context-menu-video-email =
     .label = Odoslať video…
     .accesskey = v
@@ -301,6 +328,26 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Použiť vygenerované heslo…
     .accesskey = u
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Použiť uložené prihlásenie
+    .accesskey = u
+main-context-menu-use-saved-password =
+    .label = Použiť uložené heslo
+    .accesskey = h
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Navrhnúť silné heslo ...
+    .accesskey = h
+main-context-menu-manage-logins =
+    .label = Spravovať prihlásenia ...
+    .accesskey = r
 main-context-menu-keyword =
     .label = Pridať kľúčové slovo pre toto vyhľadávanie…
     .accesskey = d
@@ -342,6 +389,9 @@ main-context-menu-print-selection =
     .accesskey = r
 main-context-menu-view-selection-source =
     .label = Zobraziť zdrojový kód výberu
+    .accesskey = r
+main-context-menu-take-screenshot =
+    .label = Urobiť snímku obrazovky
     .accesskey = r
 main-context-menu-view-page-source =
     .label = Zobraziť zdrojový kód stránky
