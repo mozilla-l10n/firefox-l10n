@@ -206,13 +206,16 @@ cfr-doorhanger-cryptominers-description = Ваша приватность име
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } заблокировал более <b>{ $blockedCount }</b> трекера с { $date }!
         [few] { -brand-short-name } заблокировал более <b>{ $blockedCount }</b> трекеров с { $date }!
        *[many] { -brand-short-name } заблокировал более <b>{ $blockedCount }</b> трекеров с { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] С { DATETIME($date, month: "long", year: "numeric") }! { -brand-short-name } заблокировал более <b>{ $blockedCount }</b> трекера
@@ -247,6 +250,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Значок «Картинка в кар
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Быстрый обзор состояния защиты
 cfr-whatsnew-protections-body = Панель состояния защиты содержит сводные отчеты об утечках данных и управлении паролями. Теперь вы можете отслеживать, со сколькими утечками данных вы разобрались, и видеть, были ли какие-либо из ваших сохранённых паролей затронуты утечками данных.
 cfr-whatsnew-protections-cta-link = Посмотреть панель состояния защиты
@@ -263,6 +270,8 @@ cfr-doorhanger-doh-body = Ваша приватность имеет значе�
 cfr-doorhanger-doh-header = Более безопасный, зашифрованный поиск адресов сайтов в DNS
 cfr-doorhanger-doh-primary-button = OK, понятно
     .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Хорошо
+    .accesskey = ш
 cfr-doorhanger-doh-secondary-button = Отключить
     .accesskey = ю
 

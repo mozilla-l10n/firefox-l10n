@@ -14,6 +14,7 @@ policy-3rdparty = Устанавливает политики, по которы
 policy-AppAutoUpdate = Включает или отключает автообновление приложения.
 policy-AppUpdateURL = Устанавливает собственный URL обновления приложения.
 policy-Authentication = Настраивает интегрированную авторизацию для поддерживающих это веб-сайтов.
+policy-BackgroundAppUpdate = Включает или отключает фоновое средство обновления, которое обновляет браузер, когда он не запущен.
 policy-BlockAboutAddons = Блокирует доступ к менеджеру дополнений (about:addons).
 policy-BlockAboutConfig = Блокирует доступ к странице about:config.
 policy-BlockAboutProfiles = Блокирует доступ к странице about:profiles.
