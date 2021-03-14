@@ -953,6 +953,7 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 content-blocking-enhanced-tracking-protection = Rozšírená ochrana pred sledovaním
 content-blocking-section-top-level-description = Sledovacie prvky zbierajú informácie o tom, čo na internete robíte. { -brand-short-name } blokuje množstvo takýchto prvkov a ďalších škodlivých skriptov.
 content-blocking-learn-more = Ďalšie informácie
+content-blocking-fpi-incompatibility-warning = Používate izoláciu prvej strany (FPI), ktorá potlačí niektoré nastavenia cookies prehliadača { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
