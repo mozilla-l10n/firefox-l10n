@@ -333,9 +333,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Gespeicherte Zugangsdaten verwenden
+    .accesskey = G
+main-context-menu-use-saved-password =
+    .label = Gespeichertes Passwort verwenden
+    .accesskey = G
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Starkes Passwort vorschlagen…
+    .accesskey = v
 main-context-menu-manage-logins =
     .label = Zugangsdaten verwalten…
     .accesskey = v
