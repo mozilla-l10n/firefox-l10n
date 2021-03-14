@@ -193,10 +193,10 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Týmto odstránite prihlásenie, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
-        [one] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na porušenie, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
-        [few] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na porušenie, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
-       *[other] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na porušenie, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+        [1] úTýmto odstránite prihlásenie, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+        [one] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+        [few] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+       *[other] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -292,20 +292,14 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Import bol dokončený
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span> Nové prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
-        [few] <span> Nové prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
        *[other] <span> Nové prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
-        [one] <span>Aktualizované prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span>
-        [few] <span>Aktualizované prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span>
        *[other] <span>Aktualizované prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-        [one] <span>Duplicitné prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
-        [few] <span>Duplicitné prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
        *[other] <span>Duplicitné prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
     }
 about-logins-import-dialog-items-error =
@@ -350,10 +344,21 @@ about-logins-import-report-row-description-error-missing-field = Chyba: chýbaj�
 
 about-logins-import-report-added =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> nový prihlasovací údaj</div>
-        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> nové prihlasovacie údaje</div
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> nových prihlasovacích údajov</div
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> Nové prihlasovacie údaje</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Aktualizované prihlasovacie údaje</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Duplicitné prihlasovacie údaje</div><div data-l10n-name="not-imported">(neboli importované)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Chyby</div><div data-l10n-name="not-imported">(neboli importované)</div>
     }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Súhrnná správa o importe
