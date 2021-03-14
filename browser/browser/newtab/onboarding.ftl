@@ -192,6 +192,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Vyberte si <span data-l10n-name="zap">vzhľad</span>
 onboarding-multistage-theme-subtitle = Prispôsobte si { -brand-short-name }.
 onboarding-multistage-theme-primary-button-label = Uložiť vzhľad
+onboarding-multistage-theme-primary-button-label2 = Hotovo
 onboarding-multistage-theme-secondary-button-label = Teraz nie
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automatický
