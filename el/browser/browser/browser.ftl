@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Κάμερα:
     .accesskey = Κ
+popup-select-camera-icon =
+    .tooltiptext = Κάμερα
 popup-select-microphone-device =
     .value = Μικρόφωνο:
     .accesskey = Μ
+popup-select-microphone-icon =
+    .tooltiptext = Μικρόφωνο
 popup-all-windows-shared = Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.
 popup-screen-sharing-not-now =
     .label = Όχι τώρα
@@ -640,3 +644,11 @@ eme-notifications-drm-content-playing-manage = Διαχείριση ρυθμίσ
 eme-notifications-drm-content-playing-manage-accesskey = Δ
 eme-notifications-drm-content-playing-dismiss = Απόρριψη
 eme-notifications-drm-content-playing-dismiss-accesskey = Α
+
+## Password save/update panel
+
+panel-save-update-username = Όνομα χρήστη
+panel-save-update-password = Κωδικός πρόσβασης
+
+## Add-on removal warning
+

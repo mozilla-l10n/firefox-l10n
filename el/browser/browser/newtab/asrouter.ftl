@@ -266,6 +266,8 @@ cfr-doorhanger-doh-body = Το απόρρητό σας έχει σημασία. 
 cfr-doorhanger-doh-header = Πιο ασφαλείς, κρυπτογραφημένες αναζητήσεις DNS
 cfr-doorhanger-doh-primary-button = Το κατάλαβα
     .accesskey = Τ
+cfr-doorhanger-doh-primary-button-2 = Εντάξει
+    .accesskey = Ε
 cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
     .accesskey = Α
 
