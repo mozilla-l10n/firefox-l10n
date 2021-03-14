@@ -1154,7 +1154,15 @@ space-alert-under-5gb-message = Aplikácii { -brand-short-name } dochádza miest
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Režim "Len HTTPS"
+httpsonly-description = Protokol HTTPS poskytuje bezpečné a šifrované spojenie medzi aplikáciou { -brand-short-name } a webmi, ktoré navštevujete. Väčšina webových stránok podporuje protokol HTTPS a ak je povolený režim "Len HTTPS", { -brand-short-name } zmení všetky pripojenia na zabezpečené.
 httpsonly-learn-more = Ďalšie informácie
+httpsonly-radio-enabled =
+    .label = Povoľte režim "Len HTTPS" vo všetkých oknách
+httpsonly-radio-enabled-pbm =
+    .label = Povoliť režim "Len HTTPS" iba v súkromných oknách
+httpsonly-radio-disabled =
+    .label = Nepovoliť režim "Len HTTPS"
 
 ## The following strings are used in the Download section of settings
 
