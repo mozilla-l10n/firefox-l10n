@@ -378,6 +378,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Доступ к микрофону:
     .accesskey = м
+popup-select-camera-device =
+    .value = Камера:
+    .accesskey = м
+popup-select-camera-icon =
+    .tooltiptext = Камера
+popup-select-microphone-device =
+    .value = Микрофон:
+    .accesskey = ф
+popup-select-microphone-icon =
+    .tooltiptext = Микрофон
 popup-all-windows-shared = Будет предоставлен доступ ко всем видимым окнам на вашем экране.
 popup-screen-sharing-not-now =
     .label = Не сейчас
@@ -387,6 +397,13 @@ popup-screen-sharing-never =
     .accesskey = и
 popup-silence-notifications-checkbox = Отключить уведомления { -brand-short-name }, когда к нему предоставлен доступ
 popup-silence-notifications-checkbox-warning = { -brand-short-name } не будет отображать уведомления, пока к нему предоставлен доступ.
+popup-screen-sharing-block =
+    .label = Блокировать
+    .accesskey = л
+popup-screen-sharing-always-block =
+    .label = Всегда блокировать
+    .accesskey = е
+popup-mute-notifications-checkbox = Отключить уведомления веб-сайтов при предоставлении доступа
 
 ## WebRTC window or screen share tab switch warning
 
@@ -631,3 +648,15 @@ eme-notifications-drm-content-playing-manage = Управление настро
 eme-notifications-drm-content-playing-manage-accesskey = в
 eme-notifications-drm-content-playing-dismiss = Закрыть
 eme-notifications-drm-content-playing-dismiss-accesskey = к
+
+## Password save/update panel
+
+panel-save-update-username = Имя пользователя
+panel-save-update-password = Пароль
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Удалить { $name }?
+addon-removal-abuse-report-checkbox = Пожаловаться на это расширение в { -vendor-short-name }

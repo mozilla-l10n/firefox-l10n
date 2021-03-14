@@ -247,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Открыть видео
     .accesskey = т
+main-context-menu-image-view-new-tab =
+    .label = Открыть изображение в новой вкладке
+    .accesskey = ы
+main-context-menu-video-view-new-tab =
+    .label = Открыть видео в новой вкладке
+    .accesskey = и
 main-context-menu-image-copy =
     .label = Копировать изображение
     .accesskey = и
@@ -295,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Сохранить кадр как…
     .accesskey = х
+main-context-menu-video-take-snapshot =
+    .label = Захватить кадр…
+    .accesskey = х
 main-context-menu-video-email =
     .label = Отправить видео по почте…
     .accesskey = а
@@ -324,9 +333,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Использовать сохранённый логин
+    .accesskey = й
+main-context-menu-use-saved-password =
+    .label = Использовать сохраненный пароль
+    .accesskey = н
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Предложить надежный пароль…
+    .accesskey = ж
 main-context-menu-manage-logins =
     .label = Управление логинами…
     .accesskey = п
@@ -372,6 +390,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Исходный код выделенного фрагмента
     .accesskey = д
+main-context-menu-take-screenshot =
+    .label = Сделать скриншот
+    .accesskey = ш
 main-context-menu-view-page-source =
     .label = Исходный код страницы
     .accesskey = о

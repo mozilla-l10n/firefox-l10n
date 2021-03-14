@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Найти на этой странице…
     .accesskey = Н
+menu-edit-find-in-page =
+    .label = Найти на странице…
+    .accesskey = а
 menu-edit-find-again =
     .label = Найти ещё раз
     .accesskey = й
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Персонализация…
     .accesskey = о
+menu-view-customize-toolbar2 =
+    .label = Персонализация панели инструментов…
+    .accesskey = н
 menu-view-sidebar =
     .label = Боковая панель
     .accesskey = Б
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Показать все закладки
 menu-bookmark-this-page =
     .label = Добавить страницу
+menu-bookmark-current-tab =
+    .label = Добавить текущую вкладку в закладки
 menu-bookmark-edit =
     .label = Редактировать эту закладку
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = Д
 menu-tools-fxa-sign-in =
     .label = Войти в { -brand-product-name }…
+    .accesskey = й
+menu-tools-extensions =
+    .label = Расширения и темы
+    .accesskey = ш
+menu-tools-fxa-sign-in2 =
+    .label = Войти
     .accesskey = й
 menu-tools-turn-on-sync =
     .label = Включить { -sync-brand-short-name(case: "accusative") }…
@@ -270,8 +284,15 @@ menu-preferences =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] Н
-           *[other] Н
+            [windows] а
+           *[other] а
+        }
+menu-settings =
+    .label = Настройки
+    .accesskey =
+        { PLATFORM() ->
+            [windows] а
+           *[other] а
         }
 menu-tools-layout-debugger =
     .label = Отладчик макета
