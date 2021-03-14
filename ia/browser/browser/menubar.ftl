@@ -129,6 +129,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Personalisar…
     .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalisar le barra de instrumentos…
+    .accesskey = P
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = l
@@ -244,6 +247,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Aperir session in { -brand-product-name }…
     .accesskey = A
+menu-tools-extensions =
+    .label = Extensiones e themas
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Aperir session
+    .accesskey = g
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }…
     .accesskey = A
@@ -272,6 +281,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
+        }
+menu-settings =
+    .label = Parametros
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] l
         }
 menu-tools-layout-debugger =
     .label = Depurator de disposition

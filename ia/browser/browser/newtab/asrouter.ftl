@@ -200,11 +200,14 @@ cfr-doorhanger-cryptominers-description = Tu vita private es importante. Ora { -
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ha blocate plus de <b>{ $blockedCount }</b> traciatores desde { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } ha blocate ultra <b>{ $blockedCount }</b> traciatores desde { DATETIME($date, month: "long", year: "numeric") }!
@@ -238,6 +241,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icone imagine-in-imagine
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Protectiones al prime colpo de oculos
 cfr-whatsnew-protections-body = Le Pannello de controlo protectiones include  reportos summari re gestion de violationes de datos e contrasignos. Tu pote ora traciar quante violationes tu ha resolvite e vider si tote tu contrasignos salvate ha forsan essite exponite in un violation de datos.
 cfr-whatsnew-protections-cta-link = Vider pannello de protectiones
@@ -254,6 +261,8 @@ cfr-doorhanger-doh-body = Tu confidentialitate es importante. { -brand-short-nam
 cfr-doorhanger-doh-header = Recercas DNS plus secur e ciphrate
 cfr-doorhanger-doh-primary-button = De accordo
     .accesskey = a
+cfr-doorhanger-doh-primary-button-2 = OK
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Disactivar
     .accesskey = D
 

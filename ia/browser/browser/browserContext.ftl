@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Rapidissime (2×)
     .accesskey = s
+main-context-menu-media-play-speed-2 =
+    .label = Velocitate
+    .accesskey = t
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Repeter
     .accesskey = R
@@ -301,6 +314,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Usar contrasigno generate…
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = Gerer credentiales…
     .accesskey = G
