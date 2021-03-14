@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Πολύ υψηλή (2×)
     .accesskey = Λ
+main-context-menu-media-play-speed-2 =
+    .label = Ταχύτητα
+    .accesskey = χ
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Επανάληψη
     .accesskey = Ψ
@@ -301,6 +314,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Χρήση προτεινόμενου κωδικού πρόσβασης…
     .accesskey = π
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = Διαχείριση συνδέσεων…
     .accesskey = Δ
@@ -346,6 +367,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Προβολή πηγαίου κώδικα επιλογής
     .accesskey = ε
+main-context-menu-take-screenshot =
+    .label = Λήψη στιγμιότυπου
+    .accesskey = Λ
 main-context-menu-view-page-source =
     .label = Προβολή πηγαίου κώδικα
     .accesskey = Π

@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Εύρεση στη σελίδα…
     .accesskey = ρ
+menu-edit-find-in-page =
+    .label = Εύρεση στη σελίδα…
+    .accesskey = Ε
 menu-edit-find-again =
     .label = Εύρεση ξανά
     .accesskey = ξ
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = ρ
 menu-view-customize-toolbar =
     .label = Προσαρμογή…
+    .accesskey = Π
+menu-view-customize-toolbar2 =
+    .label = Προσαρμογή γραμμής εργαλείων…
     .accesskey = Π
 menu-view-sidebar =
     .label = Πλευρική στήλη
@@ -244,6 +250,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Σύνδεση στο { -brand-product-name }…
     .accesskey = δ
+menu-tools-fxa-sign-in2 =
+    .label = Σύνδεση
+    .accesskey = δ
 menu-tools-turn-on-sync =
     .label = Ενεργοποίηση { -sync-brand-short-name }…
     .accesskey = ρ
@@ -272,6 +281,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] Ε
            *[other] μ
+        }
+menu-settings =
+    .label = Ρυθμίσεις
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Ρ
+           *[other] θ
         }
 menu-tools-layout-debugger =
     .label = Αποσφαλμάτωση διάταξης
