@@ -65,6 +65,8 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Кушодани лавҳаи дархости маконҳо
 urlbar-translate-notification-anchor =
     .tooltiptext = Тарҷума кардани саҳифаи ҷорӣ
+urlbar-translated-notification-anchor =
+    .tooltiptext = Идоракунии тарҷумаи саҳифа
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Кушодани лавҳаи пахши худкор
 urlbar-tip-help-icon =
@@ -268,11 +270,33 @@ browser-import-button2 =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Дастрасӣ ба камера:
+    .accesskey = Д
+popup-select-microphone =
+    .value = Дастрасӣ ба микрофон:
+    .accesskey = Д
+popup-select-camera-device =
+    .value = Камера:
+    .accesskey = К
+popup-select-camera-icon =
+    .tooltiptext = Камера
+popup-select-microphone-device =
+    .value = Микрофон:
+    .accesskey = М
+popup-select-microphone-icon =
+    .tooltiptext = Микрофон
 popup-screen-sharing-not-now =
     .label = Ҳоло не
     .accesskey = Ҳ
 popup-screen-sharing-never =
     .label = Ҳеҷ гоҳ бе иҷозат
+    .accesskey = Ҳ
+popup-screen-sharing-block =
+    .label = Манъ кардан
+    .accesskey = М
+popup-screen-sharing-always-block =
+    .label = Ҳамеша манъ кардан
     .accesskey = Ҳ
 
 ## WebRTC window or screen share tab switch warning
@@ -350,9 +374,20 @@ urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engi
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Ҷустуҷӯ дар хатбаракҳо
+urlbar-result-action-search-history = Ҷустуҷӯ дар таърих
+urlbar-result-action-search-tabs = Ҷустуҷӯ дар варақаҳо
 
 ## Full Screen and Pointer Lock UI
 
+# Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
+# Variables
+#  $domain (String): the domain that is full screen, e.g. "mozilla.org"
+fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> дар реҷаи экрани пурра мебошад
+fullscreen-warning-no-domain = Ин ҳуҷҷат дар реҷаи экрани пурра мебошад
+fullscreen-exit-button = Баромад аз экрани пурра (Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-exit-mac-button = Баромад аз экрани пурра (esc)
 
 ## Subframe crash notification
 
@@ -369,6 +404,13 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Намоиш додани ҳамаи хатбаракҳо
+bookmarks-manage-bookmarks =
+    .label = Идоракунии хатбаракҳо
+bookmarks-recent-bookmarks-panel =
+    .value = Хатбаракҳои охирин
+bookmarks-recent-bookmarks-panel-subheader = Хатбаракҳои охирин
+bookmarks-toolbar-chevron =
+    .tooltiptext = Намоиш додани хатбаракҳои дигар
 bookmarks-sidebar-content =
     .aria-label = Хатбаракҳо
 bookmarks-menu-button =
@@ -377,6 +419,12 @@ bookmarks-other-bookmarks-menu =
     .label = Хатбаракҳои дигар
 bookmarks-mobile-bookmarks-menu =
     .label = Хатбаракҳои мобилӣ
+bookmarks-tools-sidebar-visibility =
+    .label =
+        { $isVisible ->
+            [true] Пинҳон кардани навори ҷонибии хатбаракҳо
+           *[other] Намоиш додани навори ҷонибии хатбаракҳо
+        }
 bookmarks-search =
     .label = Ҷустуҷӯи хатбаракҳо
 bookmarks-tools =
@@ -411,3 +459,14 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing-manage = Идоракунии танзимот
+
+## Password save/update panel
+
+panel-save-update-username = Номи корбар
+panel-save-update-password = Ниҳонвожа
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name }-ро тоза мекунед?
