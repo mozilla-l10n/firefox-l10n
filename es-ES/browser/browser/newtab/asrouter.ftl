@@ -202,11 +202,14 @@ cfr-doorhanger-cryptominers-description = Su privacidad es importante. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] ¡{ -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } bloqueado en <b>{ $blockedCount }</b> rastreadores desde { DATETIME($date, month: "long", year: "numeric") }!
@@ -239,6 +242,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icono de picture-in-picture
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Protecciones de un vistazo
 cfr-whatsnew-protections-body = El panel de protecciones incluye informes resumidos sobre filtraciones de datos y administración de contraseñas. Ahora puede realizar un seguimiento de la cantidad de filtraciones que ha resuelto y ver si alguna de sus contraseñas guardadas puede haber sido expuesta en una filtración de datos.
 cfr-whatsnew-protections-cta-link = Ver panel de protecciones
@@ -255,6 +262,8 @@ cfr-doorhanger-doh-body = Su privacidad importa. { -brand-short-name } ahora enr
 cfr-doorhanger-doh-header = Búsquedas DNS más seguras y cifradas.
 cfr-doorhanger-doh-primary-button = De acuerdo, entendido
     .accesskey = D
+cfr-doorhanger-doh-primary-button-2 = Aceptar
+    .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deshabilitar
     .accesskey = D
 
