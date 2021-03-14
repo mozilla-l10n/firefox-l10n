@@ -306,6 +306,22 @@ about-logins-import-dialog-error-no-logins-imported = ไม่มีการ�
 about-logins-import-dialog-error-learn-more = เรียนรู้เพิ่มเติม
 about-logins-import-dialog-error-try-again = ลองอีกครั้ง…
 about-logins-import-dialog-error-cancel = ยกเลิก
+about-logins-import-report-title = สรุปการนำเข้า
+about-logins-import-report-description = นำเข้าข้อมูลการเข้าสู่ระบบและรหัสผ่านไปยัง { -brand-short-name } แล้ว
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = แถว { $number }
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
