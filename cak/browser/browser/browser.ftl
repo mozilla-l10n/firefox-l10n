@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Elesäy wachib'äl:
     .accesskey = E
+popup-select-camera-icon =
+    .tooltiptext = Elesäy wachib'äl
 popup-select-microphone-device =
     .value = Q'asäy ch'ab'äl:
     .accesskey = q
+popup-select-microphone-icon =
+    .tooltiptext = Q'asäy ch'ab'äl
 popup-all-windows-shared = Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.
 popup-screen-sharing-not-now =
     .label = Wakami Mani
@@ -640,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Tinuk'samajïx Runuk'ulem
 eme-notifications-drm-content-playing-manage-accesskey = T
 eme-notifications-drm-content-playing-dismiss = Tichup ruwäch
 eme-notifications-drm-content-playing-dismiss-accesskey = T
+
+## Password save/update panel
+
+panel-save-update-username = Rub'i' winäq
+panel-save-update-password = Ewan tzij
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = ¿La niyuj { $name }?
+addon-removal-abuse-report-checkbox = Tiya' rutzijol re k'amal re' pa { -vendor-short-name }
