@@ -6,6 +6,8 @@ certmgr-title =
     .title = Správca certifikátov
 certmgr-tab-mine =
     .label = Vaše certifikáty
+certmgr-tab-remembered =
+    .label = Rozhodnutia o overení
 certmgr-tab-people =
     .label = Ľudia
 certmgr-tab-servers =
@@ -13,8 +15,10 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Autority
 certmgr-mine = Máte certifikáty od týchto organizácií, ktoré vás identifikujú
+certmgr-remembered = Tieto certifikáty sa používajú na vašu identifikáciu na webových stránkach
 certmgr-people = Máte uložené certifikáty, ktoré identifikujú týchto ľudí
 certmgr-servers = Máte uložené certifikáty, ktoré identifikujú tieto servery
+certmgr-server = Tento zoznam obsahuje výnimky pre chyby certifikátov serverov
 certmgr-ca = Máte uložené certifikáty, ktoré identifikujú tieto certifikačné autority
 certmgr-detail-general-tab-title =
     .label = Všeobecné
@@ -209,6 +213,10 @@ cert-not-verified-issuer-unknown = Nepodarilo sa overiť tento certifikát, pret
 cert-not-verified-ca-invalid = Nepodarilo sa overiť tento certifikát, pretože certifikát certifikačnej autority je neplatný.
 cert-not-verified_algorithm-disabled = Nepodarilo sa overiť tento certifikát, pretože bol podpísaný pomocou algoritmu, ktorý nie je bezpečný.
 cert-not-verified-unknown = Z neznámych dôvodov sa nepodarilo overiť tento certifikát.
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Neposielať klientsky certifikát
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (neuložený)
 
 ## Used to show whether an override is temporary or permanent
 
