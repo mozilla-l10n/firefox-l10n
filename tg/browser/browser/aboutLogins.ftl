@@ -226,13 +226,30 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Воридшавиҳои нав илова шуданд:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Воридшавиҳои такрорӣ ёфт шуданд:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ворид нашудаанд)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Хатоҳо:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ворид нашудаанд)</span>
+    }
 about-logins-import-dialog-done = Тайёр
 about-logins-import-dialog-error-title = Хатои воридот
+about-logins-import-dialog-error-conflicting-values-description = Барои мисол: якчанд номи корбар, ниҳонвожа, нишонии URL ва ғайра барои як воридшавӣ.
+about-logins-import-dialog-error-file-format-title = Формати файл мушкилӣ дорад
 about-logins-import-dialog-error-file-permission-title = Файл хонда нашуд
 about-logins-import-dialog-error-learn-more = Маълумоти бештар
 about-logins-import-dialog-error-try-again = Аз нав кӯшиш кардан…
 about-logins-import-dialog-error-cancel = Бекор кардан
+about-logins-import-report-title = Ҷамъбасти воридот
+about-logins-import-report-description = Воридшавиҳо ва ниҳонвожаҳо ба { -brand-short-name } ворид шудаанд.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Сатри { $number }
 about-logins-import-report-row-description-added = Воридшавии нав илова шуд
+about-logins-import-report-row-description-error = Хато: Як майдон намерасад
 
 ##
 ## Variables:
@@ -245,6 +262,22 @@ about-logins-import-report-row-description-error-missing-field = Хато: { $fi
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">воридшавии нав илова шудаанд</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">воридшавии мавҷудбуда нав карда шудаанд</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">воридшавии такрорӣ</div> <div data-l10n-name="not-imported">(ворид нашудаанд)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">хато</div> <div data-l10n-name="not-imported">(ворид нашудаанд)</div>
+    }
 
 ## Logins import report page
 
