@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Rapidísimo (2×)
     .accesskey = a
+main-context-menu-media-play-speed-2 =
+    .label = Velocidad
+    .accesskey = V
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Repetir
     .accesskey = R
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Picture-in-Picture
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Ver en Picture-in-Picture
+    .accesskey = i
 main-context-menu-image-reload =
     .label = Recargar imagen
     .accesskey = R
@@ -229,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ver vídeo
     .accesskey = í
+main-context-menu-image-view-new-tab =
+    .label = Abrir imagen en una pestaña nueva
+    .accesskey = i
+main-context-menu-video-view-new-tab =
+    .label = Abrir vídeo en una pestaña nueva
+    .accesskey = A
 main-context-menu-image-copy =
     .label = Copiar imagen
     .accesskey = C
@@ -277,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Guardar captura de pantalla como…
     .accesskey = G
+main-context-menu-video-take-snapshot =
+    .label = Tomar instantánea
+    .accesskey = i
 main-context-menu-video-email =
     .label = Enviar vídeo…
     .accesskey = a
@@ -301,6 +328,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Usar contraseña generada…
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Usar inicio de sesión guardado
+    .accesskey = g
+main-context-menu-use-saved-password =
+    .label = Usar contraseña guardada
+    .accesskey = g
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Sugerir contraseña segura...
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Administrar inicios de sesión…
     .accesskey = M
@@ -346,6 +390,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Ver código fuente seleccionado
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Hacer captura de pantalla
+    .accesskey = c
 main-context-menu-view-page-source =
     .label = Ver código fuente de la página
     .accesskey = V
