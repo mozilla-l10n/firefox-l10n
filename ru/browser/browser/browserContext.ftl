@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Безумная (2×)
     .accesskey = з
+main-context-menu-media-play-speed-2 =
+    .label = Скорость
+    .accesskey = к
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Повторять
     .accesskey = в
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Картинка в картинке
     .accesskey = и
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Смотреть в режиме «Картинка-в-картинке»
+    .accesskey = а
 main-context-menu-image-reload =
     .label = Перезагрузить изображение
     .accesskey = и
@@ -301,6 +319,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Использовать сгенерированный пароль…
     .accesskey = п
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = Управление логинами…
     .accesskey = п
