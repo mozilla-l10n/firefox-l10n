@@ -100,6 +100,8 @@ monitor-emails-tooltip =
     .title = Zobraziť e-mailové adresy sledované službou { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Zobraziť známe úniky dát v { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Zobraziť uniknuté heslá v službe { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -119,6 +121,15 @@ info-known-breaches-found =
        *[other] Počet známych únikov dát, ktoré obsahujú vaše údaje
     }
 # This string is displayed after a large numeral that indicates the total number
+# of known data breaches that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-known-breaches-resolved =
+    { $count ->
+        [one] Známy únik dát označený za vyriešený
+        [few] Známe úniky dát označené za vyriešené
+       *[other] Známe úniky dát označené za vyriešené
+    }
+# This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
@@ -127,11 +138,41 @@ info-exposed-passwords-found =
         [few] Počet vašich uniknutých hesiel
        *[other] Počet vašich uniknutých hesiel
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords that are marked as resolved by the user. Don’t add $count
+# to your localization, because it would result in the number showing twice.
+info-exposed-passwords-resolved =
+    { $count ->
+        [one] Heslo prezradené pri nevyriešených únikoch dát
+        [few] Heslá prezradené pri nevyriešených únikoch dát
+       *[other] Heslá prezradené pri nevyriešených únikoch dát
+    }
 monitor-no-breaches-title = Dobré správy!
+monitor-no-breaches-description = Nemáte žiadne známe úniky dát. Ak sa to zmení, dáme vám vedieť.
+monitor-view-report-link = Zobraziť podrobnosti
+    .title = Vyriešiť úniky dát pomoucu služby { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Vyriešiť úniky dát
 monitor-breaches-unresolved-description = Po preskúmaní podrobností o úniku a prijatí opatrení na ochranu vašich osobných údajov môžete označiť úniky ako vyriešené.
+monitor-manage-breaches-link = Spravovať úniky
+    .title = Spravovať úniky dát v službe { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Paráda! Vyriešili ste všetky známe úniky.
+monitor-breaches-resolved-description = Ak sa váš email objaví v akýchkoľvek nových únikoch, budeme vás informovať.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } z { $numBreaches } únikov bolo označených za vyriešené
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% hotovo
 monitor-partial-breaches-motivation-title-start = Skvelý začiatok
 monitor-partial-breaches-motivation-title-middle = Len tak ďalej
+monitor-partial-breaches-motivation-title-end = Takmer hotové! Len tak ďalej.
+monitor-partial-breaches-motivation-description = Vyriešte zvyšok vašich únikov dát vďaka službe { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = Vyriešiť úniky dát
+    .title = Vyriešiť úniky dát v službe { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
