@@ -206,11 +206,14 @@ cfr-doorhanger-cryptominers-description = Du har ret til et privatliv. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } har blokeret flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } har blokeret flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { DATETIME($date, month: "long", year: "numeric") }!
@@ -243,6 +246,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikon for billede-i-billede
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Overblik over, hvordan du er beskyttet
 cfr-whatsnew-protections-body = Oversigten over beskyttelse inkluderer sammendrag af rapporter om datalæk og håndtering af adgangskoder. Du kan se, hvor mange datalæk du har løst - og om nogle af dine gemte adgangskoder er blevet ramt af et datalæk.
 cfr-whatsnew-protections-cta-link = Se oversigt over beskyttelse
@@ -258,6 +265,8 @@ cfr-whatsnew-better-pdf-body = PDF-dokumenter åbnes nu direkte i { -brand-short
 cfr-doorhanger-doh-body = Du har ret til et privatliv. { -brand-short-name } dirigerer nu så vidt muligt dine DNS-forespørgsler sikkert via en tjeneste leveret af en partner for at beskytte dig på nettet.
 cfr-doorhanger-doh-header = Sikrere, krypterede DNS-opslag
 cfr-doorhanger-doh-primary-button = Ok, forstået
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Okay
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deaktiver
     .accesskey = D

@@ -327,6 +327,9 @@ main-context-menu-generate-new-password =
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Foreslå sikker adgangskode…
+    .accesskey = r
 main-context-menu-manage-logins =
     .label = Håndter logins…
     .accesskey = H
@@ -372,6 +375,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Vis markeringens kildekode
     .accesskey = V
+main-context-menu-take-screenshot =
+    .label = Tag skærmbillede
+    .accesskey = T
 main-context-menu-view-page-source =
     .label = Vis sidens kildekode
     .accesskey = k
