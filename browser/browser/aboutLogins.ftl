@@ -193,7 +193,7 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] úTýmto odstránite prihlásenie, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+        [1] Týmto odstránite prihlásenie, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
         [one] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
         [few] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
        *[other] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
