@@ -82,18 +82,26 @@ perftools-thread-renderer =
     .title = Quand WebRender es activat, lo fial d’execucion qu’executa las cridas a OpenGL
 perftools-thread-render-backend =
     .title = Lo fila d’execucion RenderBackend de WebRender
+perftools-thread-paint-worker =
+    .title = Quand la pintura es fòra fil d’execucion principal es activada, lo fil ont se realiza la pintura
 perftools-thread-style-thread =
     .title = Lo calcul de l’estil es partejat entre mantun fial
 pref-thread-stream-trans =
     .title = Transpòrt de flux ret
+perftools-thread-socket-thread =
+    .title = Lo fil d’execucion ont lo còdi ret executa totas las cridas de sockets blocantas
 perftools-thread-img-decoder =
     .title = Filas de decodatge d’imatge
 perftools-thread-dns-resolver =
     .title = La resolucion DNS se passa sus aqueste fial
+perftools-thread-js-helper =
+    .title = Trabalh en rèireplan del motor JS coma las compilacions fòra fil principal
 
 ##
 
 perftools-record-all-registered-threads = Ignorar las seleccion al dessús e enregistrar totes los fils
+perftools-tools-threads-input-label =
+    .title = Aquestes noms de fil d’execucion son una lista separada per de virgulas utilizada per activar lo perfilatge dels fils dins lo perfilador. Lo nom fa sonque mestièr d’una correspondéncia parciala del nom del fil d’inclure. Es sensible als espacis.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
