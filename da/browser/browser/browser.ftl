@@ -599,6 +599,9 @@ bookmarks-toolbar-placeholder =
     .title = Bogmærkelinje-elementer
 bookmarks-toolbar-placeholder-button =
     .label = Bogmærkelinje-elementer
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Gem bogmærke til det aktuelle faneblad
 
 ## Library Panel items
 
