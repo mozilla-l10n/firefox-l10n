@@ -4,7 +4,7 @@
 
 reload-tab =
     .label = Recargar pestaña
-    .accesskey = g
+    .accesskey = R
 select-all-tabs =
     .label = Seleccionar todas las pestañas
     .accesskey = S
