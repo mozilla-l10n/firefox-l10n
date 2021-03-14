@@ -133,10 +133,12 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenter
 safe-mode-title = Prøv fejlsikret tilstand
 restart-in-safe-mode-label = Genstart med tilføjelser deaktiveret…
+restart-in-troubleshoot-mode-label = Fejlsøgnings-tilstand…
 clear-startup-cache-title = Prøv at rydde opstarts-cachen
 clear-startup-cache-label = Ryd opstarts-cachen…
 startup-cache-dialog-title = Ryd opstarts-cachen
 startup-cache-dialog-body = Genstart { -brand-short-name } for at rydde opstarts-cachen. Dette ændrer hverken dine indstillinger eller fjerner tilføjelser, du har installeret i { -brand-short-name }.
+startup-cache-dialog-title2 = Genstart { -brand-short-name } for at rydde opstarts-cachen?
 restart-button-label = Genstart
 
 ## Media titles
@@ -406,3 +408,9 @@ support-printing-clear-settings-button = Ryd gemte indstillinger for udskrivning
 support-printing-modified-settings = Ændrede indstillinger for udskrivning
 support-printing-prefs-name = Navn
 support-printing-prefs-value = Værdi
+
+## Normandy sections
+
+support-remote-experiments-name = Navn
+support-remote-features-name = Navn
+support-remote-features-status = Status

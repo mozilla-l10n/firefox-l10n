@@ -24,6 +24,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Fortryd lukning af faneblade
         }
     .accesskey = l
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Åbn lukket faneblad igen
+            [one] Åbn lukket faneblad igen
+           *[other] Åbn lukkede faneblade igen
+        }
+    .accesskey = d
 toolbar-context-menu-manage-extension =
     .label = Håndter udvidelse
     .accesskey = H
@@ -54,6 +62,9 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Tilpas…
     .accesskey = p
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Tilpas værktøjslinje…
+    .accesskey = v
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Vis altid
     .accesskey = a

@@ -39,6 +39,11 @@ printui-scale-pcent = Skalér
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Dobbeltsidet udskrift
 printui-duplex-checkbox = Udskriv på begge sider
+printui-two-sided-printing-off = Fra
+# Flip the sheet as if it were bound along its long edge.
+printui-two-sided-printing-long-edge = Vend efter lang kant
+# Flip the sheet as if it were bound along its short edge.
+printui-two-sided-printing-short-edge = Vend efter kort kant
 # Section title for miscellaneous print options
 printui-options = Indstillinger
 printui-headers-footers-checkbox = Print sidehoveder og sidefødder
@@ -96,6 +101,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = Skalering skal være et tal mellem 10 og 200.
 printui-error-invalid-margin = Angiv en gyldig margin for den valgte papirstørrelse.
+printui-error-invalid-copies = Kopier skal være et tal mellem 1 og 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Området skal være et tal mellem 1 og { $numPages }.
