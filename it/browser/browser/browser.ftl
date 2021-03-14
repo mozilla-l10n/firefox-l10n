@@ -356,6 +356,28 @@ browser-tab-audio-blocked = RIPRODUZ. AUTOMATICA BLOCCATA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
 
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] DISATTIVA AUDIO
+       *[other] DISATTIVA AUDIO ({ $count } SCHEDE)
+    }
+
+browser-tab-unmute =
+    { $count ->
+        [1] ATTIVA AUDIO
+       *[other] ATTIVA AUDIO ({ $count } SCHEDE)
+    }
+
+browser-tab-unblock =
+    { $count ->
+        [1] AVVIA RIPRODUZIONE
+       *[other] AVVIA RIPRODUZIONE ({ $count } SCHEDE)
+    }
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
