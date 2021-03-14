@@ -247,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Vis video
     .accesskey = V
+main-context-menu-image-view-new-tab =
+    .label = Åbn billede i nyt faneblad
+    .accesskey = b
+main-context-menu-video-view-new-tab =
+    .label = Åbn video i nyt faneblad
+    .accesskey = b
 main-context-menu-image-copy =
     .label = Kopier billede
     .accesskey = o
@@ -295,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Gem snapshot som…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = Tag snapshot…
+    .accesskey = s
 main-context-menu-video-email =
     .label = Send video…
     .accesskey = d
@@ -324,6 +333,12 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Brug gemt login
+    .accesskey = B
+main-context-menu-use-saved-password =
+    .label = Brug gemt adgangskode
+    .accesskey = B
 
 ##
 
