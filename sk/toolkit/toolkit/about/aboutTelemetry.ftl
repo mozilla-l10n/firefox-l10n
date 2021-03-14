@@ -56,6 +56,17 @@ about-telemetry-upload-type =
         [enabled] povolené
        *[disabled] zakázané
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } vzorka, priemer = { $prettyAverage }, súhrnne = { $sum }
+        [few] { $sampleCount } vzorky, priemer = { $prettyAverage }, súhrnne = { $sum }
+       *[other] { $sampleCount } vzoriek, priemer = { $prettyAverage }, súhrnne = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Táto stránka zobrazuje údaje o výkonnosti a využívaní funkcií zozbierané pomocou telemetrie. Informácie sú anonymne odosielané spoločnosti { $telemetryServerOwner } s cieľom vylepšiť program { -brand-full-name }.
@@ -64,6 +75,7 @@ about-telemetry-settings-explanation = Telemetria zbiera { about-telemetry-data-
 #   $name (String): ping name, e.g. “saved-session”
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Všetky informácie sú odosielané ako súčasť “<a data-l10n-name="ping-link">pings</a>”. Teraz sa pozeráte na ping { $name }, { $timestamp }.
+about-telemetry-data-details-current = Všetky informácie sú odosielané ako súčasť  “<a data-l10n-name="ping-link">pingov</a>“. Teraz sa pozeráte na aktuálne údaje.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
