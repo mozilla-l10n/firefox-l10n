@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] เรียกคืนแท็บที่เพิ่งปิด
         }
     .accesskey = ร
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] เปิดแท็บที่ปิดใหม่
+           *[other] เปิดแท็บที่ปิดใหม่
+        }
+    .accesskey = เ
 toolbar-context-menu-manage-extension =
     .label = จัดการส่วนขยาย
     .accesskey = จ
@@ -45,21 +52,18 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = ซ่อนอัตโนมัติในแถบเครื่องมือ
     .accesskey = ซ
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = ซ่อนปุ่มเมื่อว่างเปล่า
+    .accesskey = ซ
 toolbar-context-menu-remove-from-toolbar =
     .label = เอาออกจากแถบเครื่องมือ
     .accesskey = อ
 toolbar-context-menu-view-customize-toolbar =
     .label = ปรับแต่ง…
     .accesskey = ป
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = เสมอ
-    .accesskey = ส
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = ไม่เลย
-    .accesskey = ม
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = บนแท็บใหม่เท่านั้น
-    .accesskey = บ
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = ปรับแต่งแถบเครื่องมือ…
+    .accesskey = ป
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = แสดงเสมอ
     .accesskey = A

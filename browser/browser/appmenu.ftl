@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = เครื่องมือเพิ่มเติม
 appmenuitem-exit =
     .label = ออก
+appmenu-menu-button-closed =
+    .tooltiptext = เปิดเมนูแอปพลิเคชัน
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = ปิดเมนูแอปพลิเคชัน
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -51,9 +57,17 @@ appmenuitem-fxa-toolbar-sync-now =
 appmenuitem-fxa-manage-account = จัดการบัญชี
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = ซิงค์ล่าสุดเมื่อ { $time }
+    .label = ซิงค์ล่าสุดเมื่อ { $time }
 appmenu-fxa-sync-and-save-data =
     .value = ซิงค์และบันทึก
 appmenu-fxa-signed-in-label = ลงชื่อเข้า
+appmenu-fxa-setup-sync =
+    .label = เปิดการซิงค์…
+appmenu-fxa-show-more-tabs = แสดงแท็บเพิ่มเติม
 appmenuitem-save-page =
     .label = บันทึกหน้าเป็น…
 
@@ -137,6 +151,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหา
     .accesskey = ป
+appmenu-help-more-troubleshooting-info =
+    .label = ข้อมูลการแก้ไขปัญหาเพิ่มเติม
+    .accesskey = ข
 appmenu-help-taskmanager =
     .label = ตัวจัดการงาน
 appmenu-help-report-site-issue =
@@ -158,6 +175,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = โหมดแก้ไขปัญหา
+    .accesskey = ห
+appmenu-help-exit-troubleshoot-mode =
+    .label = ปิดโหมดแก้ไขปัญหา
+    .accesskey = ม
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
