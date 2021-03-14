@@ -312,16 +312,38 @@ about-logins-import-report-description = นำเข้าข้อมูลก
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = แถว { $number }
+about-logins-import-report-row-description-no-change = ซ้ำกัน: ตรงกันทุกประการกับข้อมูลการเข้าสู่ระบบที่มีอยู่
+about-logins-import-report-row-description-modified = อัปเดตข้อมูลการเข้าสู่ระบบที่มีอยู่แล้ว
+about-logins-import-report-row-description-added = เพิ่มข้อมูลการเข้าสู่ระบบใหม่แล้ว
+about-logins-import-report-row-description-error = ข้อผิดพลาด: ฟิลด์หายไป
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = ข้อผิดพลาด: มีหลายค่าสำหรับ { $field }
+about-logins-import-report-row-description-error-missing-field = ข้อผิดพลาด: { $field } หายไป
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">เพิ่มข้อมูลการเข้าสู่ระบบใหม่แล้ว</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">อัปเดตข้อมูลการเข้าสู่ระบบที่มีอยู่แล้ว</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ข้อมูลการเข้าสู่ระบบที่ซ้ำกัน</div> <div data-l10n-name="not-imported">(ไม่ได้นำเข้า)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ข้อผิดพลาด</div> <div data-l10n-name="not-imported">(ไม่ได้นำเข้า)</div>
+    }
 
 ## Logins import report page
 
