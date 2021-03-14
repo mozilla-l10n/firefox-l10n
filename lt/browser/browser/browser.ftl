@@ -376,6 +376,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofonas, kurį leisite pasiekti:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Mikrofonas
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofonas
 popup-all-windows-shared = Bus leidžiama matyti visus jūsų ekrane matomus langus.
 popup-screen-sharing-not-now =
     .label = Ne dabar
@@ -385,6 +395,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Išjungti „{ -brand-short-name }“ pranešimus dalinantis
 popup-silence-notifications-checkbox-warning = „{ -brand-short-name }“ nerodys pranešimų, kai jūs dalinatės.
+popup-screen-sharing-block =
+    .label = Neleisti
+    .accesskey = N
+popup-screen-sharing-always-block =
+    .label = Visada neleisti
+    .accesskey = V
+popup-mute-notifications-checkbox = Nutildyti svetainės pranešimus dalinantis
 
 ## WebRTC window or screen share tab switch warning
 
@@ -629,3 +646,15 @@ eme-notifications-drm-content-playing-manage = Keisti nuostatas
 eme-notifications-drm-content-playing-manage-accesskey = K
 eme-notifications-drm-content-playing-dismiss = Paslėpti
 eme-notifications-drm-content-playing-dismiss-accesskey = P
+
+## Password save/update panel
+
+panel-save-update-username = Naudotojo vardas
+panel-save-update-password = Slaptažodis
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Pašalinti „{ $name }“?
+addon-removal-abuse-report-checkbox = Pranešti apie šį priedą į „{ -vendor-short-name }“

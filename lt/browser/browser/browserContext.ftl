@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Pasiutęs (2×)
     .accesskey = P
+main-context-menu-media-play-speed-2 =
+    .label = Greitis
+    .accesskey = G
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Kartoti
     .accesskey = K
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Vaizdas-vaizde
     .accesskey = z
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Žiūrėti per vaizdą-vaizde
+    .accesskey = v
 main-context-menu-image-reload =
     .label = Atsiųsti paveikslą iš naujo
     .accesskey = n
@@ -229,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Rodyti vaizdo įrašą
     .accesskey = y
+main-context-menu-image-view-new-tab =
+    .label = Atverti paveikslą naujoje kortelėje
+    .accesskey = p
+main-context-menu-video-view-new-tab =
+    .label = Atverti vaizdo įrašą naujoje kortelėje
+    .accesskey = d
 main-context-menu-image-copy =
     .label = Kopijuoti paveikslą
     .accesskey = p
@@ -277,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Įrašyti kadrą kaip…
     .accesskey = k
+main-context-menu-video-take-snapshot =
+    .label = Padaryti vaizdo nuotrauką…
+    .accesskey = n
 main-context-menu-video-email =
     .label = Išsiųsti vaizdo įrašą el. paštu…
     .accesskey = s
@@ -301,6 +328,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Naudoti sugeneruotą slaptažodį
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Naudoti įrašytą prisijungimą
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = Naudoti įrašytą slaptažodį
+    .accesskey = o
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Pasiūlyti stiprų slaptažodį…
+    .accesskey = s
 main-context-menu-manage-logins =
     .label = Tvarkyti prisijungimus…
     .accesskey = T
@@ -346,6 +390,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Rodyti atrankos pirminį tekstą
     .accesskey = d
+main-context-menu-take-screenshot =
+    .label = Padaryti ekrano nuotrauką
+    .accesskey = n
 main-context-menu-view-page-source =
     .label = Pirminis tekstas
     .accesskey = e

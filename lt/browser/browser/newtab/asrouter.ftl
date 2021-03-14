@@ -210,13 +210,16 @@ cfr-doorhanger-cryptominers-description = Jūsų privatumas yra svarbus. „{ -b
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elemento nuo { $date }!
         [few] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų nuo { $date }!
        *[other] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų nuo { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] Nuo { DATETIME($date, month: "long", year: "numeric") } „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elemento!
@@ -251,6 +254,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Vaizdo-vaizde piktograma
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Apsaugos apžvalga
 cfr-whatsnew-protections-body = Apsaugos skydelis pateikia duomenų nutekėjimų ir slaptažodžių tvarkymo ataskaitų santraukas. Čia galite sekti, kiek duomenų nutekėjimų esate patikrinę, ir matyti, ar tarp jūsų įrašytų slaptažodžių yra galimai nutekėjusių.
 cfr-whatsnew-protections-cta-link = Rodyti apsaugos skydelį
@@ -266,6 +273,8 @@ cfr-whatsnew-better-pdf-body = PDF dokumentai dabar atveriami tiesiogiai per „
 cfr-doorhanger-doh-body = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ dabar saugiai nukreipia jūsų DNS užklausas, kai tik įmanoma, į partnerių tarnybą, kad apsaugotų jus naršant.
 cfr-doorhanger-doh-header = Saugesnės, šifruotos DNS užklausos
 cfr-doorhanger-doh-primary-button = Gerai, supratau
+    .accesskey = G
+cfr-doorhanger-doh-primary-button-2 = Gerai
     .accesskey = G
 cfr-doorhanger-doh-secondary-button = Išjungti
     .accesskey = I
