@@ -29,6 +29,9 @@
 
 
 
+<!ENTITY generic.longDesc "
+<p>&brandShortName; nun pue cargar esta páxina por dalgún motivu.</p>
+">
 
 <!ENTITY captivePortal.longDesc2 "
 <p>Has aniciar sesión nesta rede enantes de poder acceder a internet.</p>
