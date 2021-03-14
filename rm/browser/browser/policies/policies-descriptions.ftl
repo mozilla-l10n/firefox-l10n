@@ -14,6 +14,7 @@ policy-3rdparty = Definir directivas a las qualas WebExtensions pon acceder via 
 policy-AppAutoUpdate = Activar u deactivar l'actualisaziun automatica da l'applicaziun.
 policy-AppUpdateURL = Definir ina URL dad actualisaziun persunalisada per l'applicaziun.
 policy-Authentication = Configurar l'autentificaziun integrada per websites che la sustegnan.
+policy-BackgroundAppUpdate = Activar u deactivar il sistem d'actualisaziun davos las culissas che actualisescha il navigatur cura ch'el n'è betg en funcziun.
 policy-BlockAboutAddons = Bloccar l'access a l'administraziun da supplements (about:addons).
 policy-BlockAboutConfig = Bloccar l'access a la pagina about:config.
 policy-BlockAboutProfiles = Bloccar l'access a la pagina about:profiles.
