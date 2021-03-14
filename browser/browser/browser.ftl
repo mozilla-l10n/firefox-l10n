@@ -355,6 +355,8 @@ browser-tab-audio-playing2 = AFSPILLER
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = LYD SLÅET FRA
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOPLAY BLOKERET
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BILLEDE-I-BILLEDE
 
 ## Bookmarks toolbar items
@@ -622,3 +624,15 @@ eme-notifications-drm-content-playing-manage = Håndter indstillinger
 eme-notifications-drm-content-playing-manage-accesskey = H
 eme-notifications-drm-content-playing-dismiss = Afvis
 eme-notifications-drm-content-playing-dismiss-accesskey = A
+
+## Password save/update panel
+
+panel-save-update-username = Brugernavn
+panel-save-update-password = Adgangskode
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Fjern { $name }?
+addon-removal-abuse-report-checkbox = Rapporter denne udvidelse til { -vendor-short-name }

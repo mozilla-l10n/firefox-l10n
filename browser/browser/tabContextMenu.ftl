@@ -14,6 +14,11 @@ duplicate-tab =
 duplicate-tabs =
     .label = Kopier faneblade
     .accesskey = K
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Luk faneblade til venstre
+    .accesskey = v
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
@@ -45,6 +50,9 @@ bookmark-tab =
     .accesskey = B
 reopen-in-container =
     .label = Åbn igen i Kontekst
+    .accesskey = o
+tab-context-open-in-container =
+    .label = Åbn i ny kontekst
     .accesskey = o
 move-to-start =
     .label = Flyt længst til venstre

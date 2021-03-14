@@ -334,6 +334,26 @@ about-logins-import-report-row-description-error-missing-field = Fejl: Manglende
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nyt login tilføjet</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nye logins tilføjet</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterende login opdateret</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterende logins opdateret</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dublet-login</div> <div data-l10n-name="not-imported">(ikke importeret)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dublet-logins</div> <div data-l10n-name="not-imported">(ikke importeret)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">fejl</div> <div data-l10n-name="not-imported">(ikke importeret)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">fejl</div> <div data-l10n-name="not-imported">(ikke importeret)</div>
+    }
 
 ## Logins import report page
 

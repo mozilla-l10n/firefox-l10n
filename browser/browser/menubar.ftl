@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Find på denne side…
     .accesskey = d
+menu-edit-find-in-page =
+    .label = Find på side…
+    .accesskey = d
 menu-edit-find-again =
     .label = Find næste
     .accesskey = n
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Tilpas…
     .accesskey = p
+menu-view-customize-toolbar2 =
+    .label = Tilpas værktøjslinje…
+    .accesskey = T
 menu-view-sidebar =
     .label = Sidepaneler
     .accesskey = S
@@ -244,6 +250,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Log ind på { -brand-product-name }…
     .accesskey = g
+menu-tools-extensions =
+    .label = Udvidelser og temaer
+    .accesskey = U
+menu-tools-fxa-sign-in2 =
+    .label = Log ind
+    .accesskey = L
 menu-tools-turn-on-sync =
     .label = Aktiver { -sync-brand-short-name }…
     .accesskey = A
@@ -272,6 +284,13 @@ menu-preferences =
         { PLATFORM() ->
             [windows] I
            *[other] I
+        }
+menu-settings =
+    .label = Indstillinger
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Layout-debugger

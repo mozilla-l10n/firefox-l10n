@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Latterlig (2×)
     .accesskey = t
+main-context-menu-media-play-speed-2 =
+    .label = Hastighed
+    .accesskey = H
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0,5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1,0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1,25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1,5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Gentag
     .accesskey = G
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Billede-i-billede
     .accesskey = e
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Se billede-i-billede
+    .accesskey = e
 main-context-menu-image-reload =
     .label = Genindlæs billede
     .accesskey = G
@@ -241,6 +259,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopier lydadresse
     .accesskey = K
+main-context-menu-image-copy-link =
+    .label = Kopier link til billede
+    .accesskey = K
+main-context-menu-video-copy-link =
+    .label = Kopier link til video
+    .accesskey = K
+main-context-menu-audio-copy-link =
+    .label = Kopier link til lydklip
+    .accesskey = K
 main-context-menu-image-save-as =
     .label = Gem billede som…
     .accesskey = G
@@ -253,6 +280,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Vis billededoplysninger
     .accesskey = i
+main-context-menu-image-set-image-as-background =
+    .label = Brug billede som skrivebordsbaggrund…
+    .accesskey = b
 main-context-menu-image-desc =
     .label = Vis beskrivelse
     .accesskey = b
@@ -289,6 +319,17 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Brug genereret afgangskode…
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
+main-context-menu-manage-logins =
+    .label = Håndter logins…
+    .accesskey = H
 main-context-menu-keyword =
     .label = Tilføj en genvej til denne søgning…
     .accesskey = s
@@ -345,6 +386,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = g
 main-context-menu-inspect-element =
     .label = Inspicer element
+    .accesskey = n
+main-context-menu-inspect =
+    .label = Inspicer
     .accesskey = n
 main-context-menu-inspect-a11y-properties =
     .label = Inspicer tilgængeligheds-egenskaber

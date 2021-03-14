@@ -176,6 +176,7 @@ language-name-st = Sydsotho
 language-name-su = Sudanesisk
 language-name-sv = Svensk
 language-name-sw = Swahili
+language-name-szl = Schlesisk
 language-name-ta = Tamil
 language-name-te = Telugu
 language-name-tg = Tadsjikisk
