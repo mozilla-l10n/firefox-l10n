@@ -24,6 +24,13 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Angre attlating av faner
         }
     .accesskey = A
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Opne attlaten fane
+           *[other] Opne attlatne faner
+        }
+    .accesskey = a
 toolbar-context-menu-manage-extension =
     .label = Handter utviding
     .accesskey = e
