@@ -109,10 +109,15 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Menej písania, viac výsledkov. Používajte { $engineName } priamo z vášho panela s adresou.
 urlbar-search-tips-redirect-2 = Zadajte sem výraz vyhľadávania a uvidíte návrhy z vyhľadávacieho modulu { $engineName } a z vašej histórie prehliadania.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Vyberte túto skratku a nájdite rýchlejšie to, čo hľadáte
 
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Záložky
+urlbar-search-mode-tabs = Karty
+urlbar-search-mode-history = História
 
 ##
 
@@ -254,6 +259,8 @@ search-one-offs-engine-with-alias =
 
 search-one-offs-bookmarks =
     .tooltiptext = Záložky ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Karty ({ $restrict })
 search-one-offs-history =
     .tooltiptext = História ({ $restrict })
 
@@ -362,6 +369,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Zdieľať mikrofón:
     .accesskey = m
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Mikrofón:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofón
 popup-all-windows-shared = Všetky okná viditeľné na vašej obrazovke budú zdieľané.
 popup-screen-sharing-not-now =
     .label = Teraz nie
@@ -371,6 +388,13 @@ popup-screen-sharing-never =
     .accesskey = i
 popup-silence-notifications-checkbox = Nezobrazovať upozornenia z { -brand-short-name(case: "gen") } počas zdieľania
 popup-silence-notifications-checkbox-warning = { -brand-short-name } nebude počas zdieľania zobrazovať upozornenia.
+popup-screen-sharing-block =
+    .label = Zakázať
+    .accesskey = Z
+popup-screen-sharing-always-block =
+    .label = Vždy zakázať
+    .accesskey = V
+popup-mute-notifications-checkbox = Počas zdieľania stlmiť upozornenia na webe
 
 ## WebRTC window or screen share tab switch warning
 
@@ -432,6 +456,10 @@ urlbar-result-action-search-w-engine = Vyhľadať pomocou { $engine }
 urlbar-result-action-sponsored = Sponzorované
 urlbar-result-action-switch-tab = Prepnúť na kartu
 urlbar-result-action-visit = Navštíviť
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Hľadajte pomocou { $engine } priamo z panela s adresou
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -459,6 +487,8 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom
 crashed-subframe-learnmore =
     .label = Ďalšie informácie
     .accesskey = l
+crashed-subframe-learnmore-link =
+    .value = Ďalšie informácie
 crashed-subframe-submit =
     .label = Odoslať hlásenie
     .accesskey = h
@@ -557,9 +587,19 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Niektoré zvukové záznamy alebo videá na tejto stránke používajú softvér DRM, čo môže obmedzovať to, čo vám { -brand-short-name } dokáže umožniť urobiť s týmto obsahom.
+eme-notifications-drm-content-playing-manage = Spravovať nastavenia
+eme-notifications-drm-content-playing-manage-accesskey = S
+eme-notifications-drm-content-playing-dismiss = Zavrieť
+eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Password save/update panel
 
+panel-save-update-username = Používateľské meno
+panel-save-update-password = Heslo
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Odstrániť { $name }?
+addon-removal-abuse-report-checkbox = Nahlásiť toto rozšírenie spoločnosti { -vendor-short-name }

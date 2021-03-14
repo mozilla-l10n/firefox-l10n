@@ -125,6 +125,9 @@ cfr-whatsnew-lockwise-take-link-text = Prevziať aplikáciu
 
 cfr-whatsnew-searchbar-title = Používajte panel s adresou - píšte menej, nájdite viac
 cfr-whatsnew-searchbar-body-topsites = Teraz stačí vybrať panel s adresou, ktorý sa zväčší a zobrazí odkazy na vaše najnavštevovanejšie stránky.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
 
 ## Picture-in-Picture
@@ -221,6 +224,10 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu v obraze
 
 ## Protections Dashboard message
 
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Prehľad ochrany na jednom mieste
 cfr-whatsnew-protections-icon-alt = Ikona štítu
 
@@ -237,9 +244,23 @@ cfr-doorhanger-doh-primary-button = OK, rozumiem
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-secondary-button = Ďalšie informácie
+    .accesskey = a
 
 ## What's new: Cookies message
 
 
 ## What's new: Media controls message
+
+
+## What's new: Search shortcuts
+
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
 
