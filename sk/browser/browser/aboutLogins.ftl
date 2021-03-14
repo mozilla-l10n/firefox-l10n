@@ -292,9 +292,9 @@ about-logins-import-file-picker-tsv-filter-title =
 about-logins-import-dialog-title = Import bol dokončený
 about-logins-import-dialog-items-added =
     { $count ->
-        [one] <span> Nové pridané prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
-        [few] <span> Nové pridané prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
-       *[other] <span> Nové pridané prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
+        [one] <span> Nové prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
+        [few] <span> Nové prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span> Nové prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified =
     { $count ->
@@ -332,17 +332,28 @@ about-logins-import-report-description = Prihlasovacie údaje boli importované 
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Riadok { $number }
+about-logins-import-report-row-description-no-change = Duplikát: presná zhoda s existujúcimi prihlasovacími údajmi
+about-logins-import-report-row-description-modified = Prihlasovacie údaje boli aktualizované
 about-logins-import-report-row-description-added = Boli pridané nové prihlasovacie údaje
+about-logins-import-report-row-description-error = Chyba: chýbajúce pole
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Chyba: viacero hodnôt pre pole { $field }
+about-logins-import-report-row-description-error-missing-field = Chyba: chýbajúce pole { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> nový prihlasovací údaj</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> nové prihlasovacie údaje</div
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> nových prihlasovacích údajov</div
+    }
 
 ## Logins import report page
 
