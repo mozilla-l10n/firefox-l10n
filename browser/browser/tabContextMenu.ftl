@@ -58,6 +58,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Luk flere faneblade
     .accesskey = a
+tab-context-share-url =
+    .label = Del
+    .accesskey = D
 tab-context-share-more =
     .label = Mere…
 
