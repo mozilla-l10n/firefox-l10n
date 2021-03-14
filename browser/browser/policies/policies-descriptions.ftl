@@ -14,6 +14,7 @@ policy-3rdparty = Spesifiser policyar som WebExtensions kan få tilgang til via 
 policy-AppAutoUpdate = Slå på eller slå av automatiske programoppdateringar.
 policy-AppUpdateURL = Spesifiser eigendefinert programoppdateringsadresse.
 policy-Authentication = Konfigurer integrert godkjenning for nettsider som støttar det.
+policy-BackgroundAppUpdate = Slå på eller av bakgrunnsoppdateraren som oppdaterer nettlesaren når han ikkje køyrer.
 policy-BlockAboutAddons = Blokker tilgang til Tilleggshandteraren (about:addons)
 policy-BlockAboutConfig = Blokker tilgang til about:config-sida.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-sida.
