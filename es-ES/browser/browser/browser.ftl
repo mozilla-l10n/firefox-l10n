@@ -374,6 +374,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Micrófono para compartir:
     .accesskey = M
+popup-select-camera-device =
+    .value = Cámara:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Cámara
+popup-select-microphone-device =
+    .value = Micrófono:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micrófono
 popup-all-windows-shared = Se compartirán todas las ventanas visibles en su pantalla.
 popup-screen-sharing-not-now =
     .label = Ahora no
@@ -383,6 +393,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Desactivar las notificaciones de { -brand-short-name } mientras se comparte
 popup-silence-notifications-checkbox-warning = { -brand-short-name } no mostrará notificaciones mientras se está compartiendo.
+popup-screen-sharing-block =
+    .label = Bloquear
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bloquear siempre
+    .accesskey = s
+popup-mute-notifications-checkbox = Silenciar notificaciones de la página mientras se comparte
 
 ## WebRTC window or screen share tab switch warning
 
@@ -627,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Administrar ajustes
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Descartar
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = Nombre de usuario
+panel-save-update-password = Contraseña
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = ¿Eliminar { $name }?
+addon-removal-abuse-report-checkbox = Informar de esta extensión a { -vendor-short-name }
