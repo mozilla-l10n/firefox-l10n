@@ -26,4 +26,5 @@ about-httpsonly-link-learn-more = Les meir…
 ## Variables:
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
+about-httpsonly-suggestion-box-header = Mogleg alternativ
 about-httpsonly-suggestion-box-www-button = Gå til www.{ $websiteUrl }
