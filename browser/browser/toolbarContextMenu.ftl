@@ -26,6 +26,15 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Obnoviť zatvorené karty
         }
     .accesskey = b
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Obnoviť zatvorenú kartu
+            [one] Obnoviť zatvorenú kartu
+            [few] Obnoviť zatvorené karty
+           *[other] Obnoviť zatvorené karty
+        }
+    .accesskey = b
 toolbar-context-menu-manage-extension =
     .label = Správa rozšírenia
     .accesskey = S
