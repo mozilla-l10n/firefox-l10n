@@ -18,4 +18,16 @@ calendar-ics-file-dialog-progress-message = Importuje sa…
 calendar-ics-file-import-success = Import bol úspešný!
 calendar-ics-file-import-error = Pri importe nastala chyba.
 calendar-ics-file-import-complete = Import bol dokončený.
+calendar-ics-file-import-duplicates =
+    { $duplicatesCount ->
+        [one] Jedna položka boli ignorovaná, pretože sa už v cieľovom kalendári nachádza.
+        [few] { $duplicatesCount } položky boli ignorované, pretože sa už v cieľovom kalendári nachádzajú.
+       *[other] { $duplicatesCount } položiek boli ignorovaných, pretože sa už v cieľovom kalendári nachádzajú.
+    }
+calendar-ics-file-import-errors =
+    { $errorsCount ->
+        [one] Importovanie jednej položky zlyhalo. Podrobnosti nájdete v Chybovej konzole.
+        [few] Importovanie { $errorsCount } položiek zlyhalo. Podrobnosti nájdete v Chybovej konzole.
+       *[other] Importovanie { $errorsCount } položiek zlyhalo. Podrobnosti nájdete v Chybovej konzole.
+    }
 calendar-ics-file-dialog-no-calendars = Neexistujú žiadne kalendáre, ktoré dokážu importovať udalosti alebo úlohy.
