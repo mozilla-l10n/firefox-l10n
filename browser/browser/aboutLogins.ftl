@@ -185,10 +185,37 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Áno, odstrániť tieto prihlasovacie údaje
        *[other] Áno, odstrániť tieto prihlasovacie údaje
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Odstrániť { $count } prihlasovací údaj?
+        [few] Odstrániť { $count } prihlasovacie údaje?
+       *[other] Odstrániť všetkých { $count } prihlasovacích údajov?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Týmto odstránite prihlásenie, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+        [one] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na porušenie, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+        [few] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na porušenie, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+       *[other] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name }, a všetky upozornenia na porušenie, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Odstrániť { $count } prihlasovací údaj zo všetkých zariadení?
+        [few] Odstrániť { $count } prihlasovacie údaje zo všetkých zariadení?
+       *[other] Odstrániť všetkých { $count } prihlasovacích údajov zo všetkých zariadení?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Týmto odstránite prihlásenie, ktoré ste uložili v aplikácii { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou účtu { -fxaccount-brand-name }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+        [one] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou účtu { -fxaccount-brand-name }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+        [few] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou účtu { -fxaccount-brand-name }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+       *[other] Týmto odstránite prihlásenia, ktoré ste uložili v aplikácii { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou účtu { -fxaccount-brand-name }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+    }
 about-logins-confirm-export-dialog-title = Exportovať prihlasovacie údaje
 about-logins-confirm-export-dialog-message = Vaše heslá budú uložené v čitateľnom formáte (napr. h3slo) takže ktokoľvek, kto bude môcť otvoriť tento súbor, bude môcť zistiť vaše heslá.
 about-logins-confirm-export-dialog-confirm-button = Exportovať…
 about-logins-alert-import-title = Import bol dokončený
+about-logins-alert-import-message = Zobraziť podrobný súhrn importu
 confirm-discard-changes-dialog-title = Chcete zahodiť neuložené zmeny?
 confirm-discard-changes-dialog-message = Všetky neuložené zmeny budú stratené.
 confirm-discard-changes-dialog-confirm-button = Zahodiť
@@ -263,6 +290,12 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Import bol dokončený
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span> Nové pridané prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
+        [few] <span> Nové pridané prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span> Nové pridané prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-done = Hotovo
 about-logins-import-dialog-error-title = Chyba pri importe
 about-logins-import-dialog-error-unable-to-read-description = Uistite sa, že ste vybrali súbor typu CSV alebo TSV.
