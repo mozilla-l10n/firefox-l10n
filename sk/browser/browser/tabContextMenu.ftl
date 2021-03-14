@@ -51,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Otvoriť v kontajneri
     .accesskey = e
+tab-context-open-in-container =
+    .label = Otvoriť na novej kontajnerovej karte
+    .accesskey = e
 move-to-start =
     .label = Presunúť na začiatok
     .accesskey = z
@@ -93,6 +96,15 @@ move-tabs =
 move-tab =
     .label = Presunúť kartu
     .accesskey = u
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Obnoviť zatvorenú kartu
+            [one] Obnoviť zatvorenú kartu
+            [few] Obnoviť zatvorené karty
+           *[other] Obnoviť zatvorené karty
+        }
+    .accesskey = b
 tab-context-close-tabs =
     .label =
         { $tabCount ->
