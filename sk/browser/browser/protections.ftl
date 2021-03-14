@@ -30,8 +30,10 @@ protection-report-page-content-title = Nástenka ochrany súkromia
 protection-report-page-summary = { -brand-short-name } chráni vaše súkromie počas prehliadania. Toto je prehľad ochranných nástrojov, s ktorými máte kontrolu nad svojou online bezpečnosťou.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } chráni vaše súkromie počas prehliadania. Toto je prehľad ochranných nástrojov, s ktorými máte kontrolu nad svojou online bezpečnosťou.
+protection-report-settings-link = Spravovať nastavenie súkromia a bezpečnosti
 etp-card-title-always = Rozšírená ochrana pred sledovaním: vždy zapnutá
 etp-card-title-custom-not-blocking = Rozšírená ochrana pred sledovaním: VYPNUTÁ
+etp-card-content-description = { -brand-short-name } automaticky zabraňuje spoločnostiam tajne vás sledovať pri prehliadaní webu.
 protection-report-etp-card-content-custom-not-blocking = Všetky prvky ochrany sú v tejto chvíli vypnuté. V nastaveniach aplikácie { -brand-short-name } vyberte, ktoré sledovacie prvky chcete blokovať.
 protection-report-manage-protections = Možnosti
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -66,6 +68,14 @@ protection-report-manage-passwords-button = Spravovať heslá
 lockwise-mobile-app-title = Vezmite si svoje heslá so sebou
 lockwise-no-logins-card-content = Používajte heslá uložené v { -brand-short-name } na akomkoľvek zariadení.
 lockwise-app-links = { -lockwise-brand-name } pre <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Jedno heslo mohlo byť prezradené v niektorom úniku dát.
+        [few] { $count } heslá mohli byť prezradené v niektorom úniku dát.
+       *[other] { $count } hesiel mohlo byť prezradených v niektorom úniku dát.
+    }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -86,6 +96,10 @@ monitor-header-content-signed-in = { -monitor-brand-name } vás upozorní, ak sa
 monitor-sign-up-link = Prihláste sa na odber upozornení
     .title = Prihláste sa na odber upozornení cez { -monitor-brand-name }
 auto-scan = Automaticky skenované: dnes
+monitor-emails-tooltip =
+    .title = Zobraziť e-mailové adresy sledované službou { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Zobraziť známe úniky dát v { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -114,6 +128,7 @@ info-exposed-passwords-found =
        *[other] Počet vašich uniknutých hesiel
     }
 monitor-no-breaches-title = Dobré správy!
+monitor-breaches-unresolved-title = Vyriešiť úniky dát
 monitor-breaches-unresolved-description = Po preskúmaní podrobností o úniku a prijatí opatrení na ochranu vašich osobných údajov môžete označiť úniky ako vyriešené.
 monitor-partial-breaches-motivation-title-start = Skvelý začiatok
 monitor-partial-breaches-motivation-title-middle = Len tak ďalej
