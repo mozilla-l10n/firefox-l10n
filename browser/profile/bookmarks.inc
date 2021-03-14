@@ -4,7 +4,7 @@
 #filter emptyLines
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
-# your locale code, and link to your translated pages as soon as they're 
+# your locale code, and link to your translated pages as soon as they're
 # live.
 
 #define bookmarks_title Marcadores
@@ -14,7 +14,7 @@
 #define bookmarks_toolbarfolder_description Añada marcadores a esta carpeta para verlos en la barra de herramientas de marcadores
 
 # LOCALIZATION NOTE (getting_started):
-# link title for http://www.mozilla.org/es-ES/firefox/central/
+# link title for https://www.mozilla.org/en-US/firefox/central/
 #define getting_started Comenzar a usar Firefox
 
 # LOCALIZATION NOTE (firefox_heading):
@@ -22,19 +22,23 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for http://www.mozilla.org/es-ES/firefox/help/
+# link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help Ayuda y tutoriales
 
+# LOCALIZATION NOTE (firefox_get_help):
+# link title for https://www.mozilla.org/en-US/firefox/help/
+#define firefox_get_help Obtener ayuda
+
 # LOCALIZATION NOTE (firefox_customize):
-# link title for http://www.mozilla.org/es-ES/firefox/customize/
+# link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Personalice Firefox
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for http://www.mozilla.org/es-ES/firefox/contribute/
+# link title for https://www.mozilla.org/en-US/contribute/
 #define firefox_community ¡Involúcrese!
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for http://en-US.www.mozilla.org/es-ES/about/
+# link title for https://www.mozilla.org/en-US/about/
 #define firefox_about Acerca de nosotros
 
 # LOCALIZATION NOTE (nightly_heading):
@@ -60,10 +64,6 @@
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
 #define crashes Todos sus fallos
-
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Hable sobre Nightly en IRC
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
