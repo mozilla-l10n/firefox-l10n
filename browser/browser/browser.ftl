@@ -283,6 +283,17 @@ identity-passive-loaded = Časti tejto stránky nie sú zabezpečené (napr. obr
 identity-active-loaded = Na tejto stránke ste vypli Ochranu pred sledovaním.
 identity-weak-encryption = Táto stránka používa slabé šifrovanie.
 identity-insecure-login-forms = Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.
+identity-https-only-connection-upgraded = (zmenené na HTTPS)
+identity-https-only-label = Režim "Len HTTPS"
+identity-https-only-dropdown-on =
+    .label = Zapnutý
+identity-https-only-dropdown-off =
+    .label = Vypnutý
+identity-https-only-dropdown-off-temporarily =
+    .label = Dočasne vypnutý
+identity-https-only-info-turn-on2 = Ak chcete, aby prehliadač { -brand-short-name } pripojenie na zabezpečné kedykoľvek je to možné, zapnite pre tento server režim "Len HTTPS".
+identity-https-only-info-turn-off2 = Ak sa zdá byť stránka nefunkčná, možno budete musieť vypnúť režim "Len HTTPS" a opätovne načítať stránku pomocou nezabezpečeného protokolu HTTP.
+identity-https-only-info-no-upgrade = Nepodarilo sa zmeniť pripojenie z protokolu HTTP.
 identity-permissions =
     .value = Povolenia
 identity-permissions-reload-hint = Pre vykonanie zmien budete možno musieť stránku obnoviť.
@@ -546,3 +557,9 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Niektoré zvukové záznamy alebo videá na tejto stránke používajú softvér DRM, čo môže obmedzovať to, čo vám { -brand-short-name } dokáže umožniť urobiť s týmto obsahom.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
