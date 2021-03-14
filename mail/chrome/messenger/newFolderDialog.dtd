@@ -7,10 +7,10 @@
 <!ENTITY name.label                 "Nomo:">
 <!ENTITY name.accesskey             "N">
 <!ENTITY description.label          "Krei mesaĝujon en:">
-<!ENTITY description.accesskey      "K">
-<!ENTITY folderRestriction1.label   "This server restricts folders to two special kinds.">
-<!ENTITY folderRestriction2.label   "Allow your new folder to contain:">
-<!ENTITY foldersOnly.label          "Folders Only">
-<!ENTITY messagesOnly.label         "Messages Only">
-<!ENTITY accept.label               "Create Folder">
-<!ENTITY accept.accesskey           "r">
+<!ENTITY description.accesskey      "e">
+<!ENTITY folderRestriction1.label   "Tiu ĉi servilo limigas mesaĝujojn nur al du specialaj specoj.">
+<!ENTITY folderRestriction2.label   "Enhavo por nova mesaĝujo:">
+<!ENTITY foldersOnly.label          "Nur mesaĝujoj">
+<!ENTITY messagesOnly.label         "Nur mesaĝoj">
+<!ENTITY accept.label               "Krei mesaĝujon">
+<!ENTITY accept.accesskey           "K">
