@@ -96,7 +96,7 @@ profiler-popup-settings =
     .value = Nastavenia
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = Upraviť nastavenia…
-profiler-popup-disabled = Profiler je v tejto chvíli vypnutý, pravdepodobne preto, lebo máte otvorené okno súkromného prehliadania.
+profiler-popup-disabled = Nástroj na profilovanie je v tejto chvíli vypnutý, pravdepodobne preto, lebo máte otvorené okno súkromného prehliadania.
 profiler-popup-recording-screen = Nahrávanie…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.

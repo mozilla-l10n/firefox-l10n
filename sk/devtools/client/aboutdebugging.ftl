@@ -82,6 +82,8 @@ about-debugging-refresh-usb-devices-button = Obnoviť zariadenia
 about-debugging-setup-title = Nastavenie
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Nastavte spôsob, pomocou ktorého chcete ladiť svoje zariadenie.
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Použite <a>{ about-debugging-this-firefox-runtime-name }</a> pre ladenie doplnkov a service workerov v tejto verzii prehliadača { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Pripojenie zariadenia
 # USB section of the Setup page
@@ -105,6 +107,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = Povoľte ponuku vývojára na 
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Povoľte ladenie cez USB v ponuke pre vývojárov systému Android.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Povoľte ladenie cez USB v prehliadači Firefox na zariadení s Androidom.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Pripojte zariadenie s Androidom k svojmu počítaču.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
@@ -127,6 +131,10 @@ about-debugging-network-locations-host-input-label = Server
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Odstrániť
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Neplatný hostiteľ “{ $host-value }”. Očakávaný formát je “hostname:portnumber”.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -157,13 +165,28 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesy
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Profilovanie výkonu
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Konfigurácia vášho prehliadača nie je kompatibilná so službou Service Workers. <a>Ďalšie informácie</a>
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Pripojený prehliadač má starú verziu ({ $runtimeVersion }). Minimálna podporovaná verzia je ({ $minVersion }). Toto je nepodporovaná konfigurácia a môže spôsobiť nefunkčnosť nástrojov pre vývojárov. Prosím, aktualizujte pripojený prehliadač. <a>Riešenie problémov</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Táto verzia Firefoxu nemôže ladiť Firefox pre Android (68). Odporúčame vám nainštalovať Firefox pre Android Nightly. <a>Viac podrobností</a>
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = Pripojený prehliadač je novší ({ $runtimeVersion }, buildID { $runtimeID }) ako váš { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Toto je nepodporovaná konfigurácia a môže spôsobiť, že ladenie prestane fungovať. Aktualizujte prosím svoj Firefox. <a>Riešenie problémov</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
