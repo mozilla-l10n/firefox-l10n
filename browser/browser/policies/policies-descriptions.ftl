@@ -14,6 +14,7 @@ policy-3rdparty = Nustatykite strategijas, kurias „WebExtensions“ galės pas
 policy-AppAutoUpdate = Įjungti arba išjungti automatinius programos naujinimus.
 policy-AppUpdateURL = Nustatyti pasirinktinį programos naujinimų URL.
 policy-Authentication = Keisti integruotą autentikaciją ją palaikančioms svetainėms.
+policy-BackgroundAppUpdate = Įjungti arba išjungti foninę atnaujinimų tarnybą, kuri atnaujina naršyklę kai ji nėra paleista.
 policy-BlockAboutAddons = Blokuoti prieigą prie priedų valdymo (about:addons).
 policy-BlockAboutConfig = Blokuoti prieigą prie about:config puslapio.
 policy-BlockAboutProfiles = Blokuoti prieigą prie about:profiles puslapio.

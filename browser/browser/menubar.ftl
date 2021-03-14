@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Ieškoti šiame tinklalapyje…
     .accesskey = I
+menu-edit-find-in-page =
+    .label = Rasti tinklalapyje
+    .accesskey = R
 menu-edit-find-again =
     .label = Ieškoti toliau
     .accesskey = o
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = j
 menu-view-customize-toolbar =
     .label = Tvarkyti…
+    .accesskey = T
+menu-view-customize-toolbar2 =
+    .label = Tvarkyti priemonių juostą…
     .accesskey = T
 menu-view-sidebar =
     .label = Parankinė
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Rodyti visą adresyną
 menu-bookmark-this-page =
     .label = Įrašyti į adresyną
+menu-bookmark-current-tab =
+    .label = Įrašyti šią kortelę į adresyną
 menu-bookmark-edit =
     .label = Taisyti adresyno įrašą
 menu-bookmarks-all-tabs =
@@ -244,6 +252,12 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Prisijungti prie „{ -brand-product-name }“…
     .accesskey = g
+menu-tools-extensions =
+    .label = Priedai ir grafiniai apvalkalai
+    .accesskey = P
+menu-tools-fxa-sign-in2 =
+    .label = Prisijungti
+    .accesskey = g
 menu-tools-turn-on-sync =
     .label = Įjungti „{ -sync-brand-short-name }“…
     .accesskey = n
@@ -268,6 +282,13 @@ menu-preferences =
             [windows] Nuostatos
            *[other] Nuostatos
         }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
+menu-settings =
+    .label = Nuostatos
     .accesskey =
         { PLATFORM() ->
             [windows] N
