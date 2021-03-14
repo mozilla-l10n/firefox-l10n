@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Sefsex amdal n waccaren
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ales tawaledyawt n yiccer imedlen
+            [one] Ales tawaledyawt n yiccer imedlen
+           *[other] Ales tawaledyawt n waccaren imedlen
+        }
+    .accesskey = a
 toolbar-context-menu-manage-extension =
     .label = Sefrek isiɣzaf
     .accesskey = n
@@ -46,21 +54,18 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Tufra twurmant deg ufeggag n ifecka
     .accesskey = A
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Ffer taqeffalt mi ara yili d ilem
+    .accesskey = F
 toolbar-context-menu-remove-from-toolbar =
     .label = Kkes seg ufeggag n yifecka
     .accesskey = K
 toolbar-context-menu-view-customize-toolbar =
     .label = Sagen…
     .accesskey = S
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Yall ass
-    .accesskey = A
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Werǧin
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Iccer kan amaynut
-    .accesskey = O
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Sagen afeggag n yifecka…
+    .accesskey = S
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Sken yal tikelt
     .accesskey = A
