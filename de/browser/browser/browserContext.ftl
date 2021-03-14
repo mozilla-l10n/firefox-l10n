@@ -193,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Doppelte Geschwindigkeit (2×)
     .accesskey = D
+main-context-menu-media-play-speed-2 =
+    .label = Geschwindigkeit
+    .accesskey = G
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Endlosschleife
     .accesskey = f
@@ -220,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Bild-im-Bild (PiP)
     .accesskey = m
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = In Bild-im-Bild ansehen
+    .accesskey = m
 main-context-menu-image-reload =
     .label = Grafik neu laden
     .accesskey = G
@@ -229,6 +247,9 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Video anzeigen
     .accesskey = z
+main-context-menu-image-view-new-tab =
+    .label = Grafik in neuem Tab öffnen
+    .accesskey = G
 main-context-menu-image-copy =
     .label = Grafik kopieren
     .accesskey = o
@@ -277,6 +298,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Bildschirmfoto speichern unter…
     .accesskey = B
+main-context-menu-video-take-snapshot =
+    .label = Bildschirmfoto aufnehmen…
+    .accesskey = B
 main-context-menu-video-email =
     .label = Video per E-Mail senden…
     .accesskey = n
@@ -301,6 +325,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Erzeugtes Passwort verwenden…
     .accesskey = z
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = Zugangsdaten verwalten…
     .accesskey = v
@@ -346,6 +378,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Auswahl-Quelltext anzeigen
     .accesskey = A
+main-context-menu-take-screenshot =
+    .label = Bildschirmfoto aufnehmen
+    .accesskey = a
 main-context-menu-view-page-source =
     .label = Seitenquelltext anzeigen
     .accesskey = a
