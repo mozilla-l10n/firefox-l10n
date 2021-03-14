@@ -41,6 +41,32 @@ pill-action-move-cc =
 pill-action-move-bcc =
     .label = Bcc alanına taşı
     .accesskey = B
+
+# Attachment widget
+
+ctrl-cmd-shift-pretty-prefix =
+    { PLATFORM() ->
+        [macos] ⇧ ⌘{ " " }
+       *[other] Ctrl+Shift+
+    }
+menuitem-toggle-attachment-pane =
+    .label = Ek bölmesi
+    .accesskey = m
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key }
+toolbar-button-add-attachment =
+    .label = Ekle
+    .tooltiptext = Dosya ekle ({ ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key })
+add-attachment-notification-reminder =
+    .label = Dosya ekle…
+    .tooltiptext = { toolbar-button-add-attachment.tooltiptext }
+menuitem-attach-files =
+    .label = Dosya(lar)…
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
+context-menuitem-attach-files =
+    .label = Dosya ekle…
+    .accesskey = D
+    .acceltext = { ctrl-cmd-shift-pretty-prefix }{ trigger-attachment-picker-key }
 #   $count (Number) - the number of attachments in the attachment bucket
 attachment-bucket-count =
     .value =
@@ -61,6 +87,31 @@ attachments-placeholder-tooltip =
 #   { attachment-bucket-count.accesskey } - Do not localize this message.
 key-toggle-attachment-pane =
     .key = { attachment-bucket-count.accesskey }
+expand-attachment-pane-tooltip =
+    .tooltiptext = Ek bölmesini göster ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+collapse-attachment-pane-tooltip =
+    .tooltiptext = Ek bölmesini gizle ({ ctrl-cmd-shift-pretty-prefix }{ toggle-attachment-pane-key })
+drop-file-label-attachment =
+    { $count ->
+        [one] Dosya olarak ekle
+       *[other] Dosya olarak ekle
+    }
+drop-file-label-inline =
+    { $count ->
+        [one] Satır içi ekle
+       *[other] Satır içi ekle
+    }
+
+# Reorder Attachment Panel
+
+move-attachment-first-panel-button =
+    .label = Başa taşı
+move-attachment-left-panel-button =
+    .label = Sola taşı
+move-attachment-right-panel-button =
+    .label = Sağa taşı
+move-attachment-last-panel-button =
+    .label = Sona taşı
 button-return-receipt =
     .label = Alındı onayı
     .tooltiptext = Bu ileti için alındı onayı iste

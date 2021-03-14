@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Metin kodlaması
     .accesskey = M
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Sorun giderme modu…
+    .accesskey = o
+menu-help-exit-troubleshoot-mode =
+    .label = Sorun giderme modunu kapat
+    .accesskey = o
+menu-help-more-troubleshooting-info =
+    .label = Sorun giderme bilgileri
+    .accesskey = b
+
 ## Mail Toolbar
 
 toolbar-junk-button =
