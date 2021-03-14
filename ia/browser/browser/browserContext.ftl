@@ -233,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Imagine-in-imagine
     .accesskey = a
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Spectar in Imagine annidate
+    .accesskey = a
 main-context-menu-image-reload =
     .label = Recargar le imagine
     .accesskey = R
@@ -242,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Vider le video
     .accesskey = I
+main-context-menu-image-view-new-tab =
+    .label = Aperir imagine in nove scheda
+    .accesskey = i
+main-context-menu-video-view-new-tab =
+    .label = Aperir video in un nove scheda
+    .accesskey = v
 main-context-menu-image-copy =
     .label = Copiar le imagine
     .accesskey = C
@@ -290,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Salvar le instantaneo como…
     .accesskey = S
+main-context-menu-video-take-snapshot =
+    .label = Capturar instantaneo…
+    .accesskey = i
 main-context-menu-video-email =
     .label = Inviar le video per email…
     .accesskey = a
@@ -319,6 +333,12 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Usar credentiales salvate
+    .accesskey = e
+main-context-menu-use-saved-password =
+    .label = Usar contrasigno salvate
+    .accesskey = o
 
 ##
 
