@@ -95,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Senkez iccer
     .accesskey = n
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Ales tawaledyawt n yiccer imedlen
+            [one] Ales tawaledyawt n yiccer imedlen
+           *[other] Ales tawaledyawt n waccaren imedlen
+        }
+    .accesskey = a
 tab-context-close-tabs =
     .label =
         { $tabCount ->

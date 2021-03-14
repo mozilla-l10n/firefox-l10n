@@ -406,7 +406,7 @@ popup-mute-notifications-checkbox = Sgugem ilɣa n usmel web mi ara tbeṭṭu�
 sharing-warning-window = Tbeṭṭuḍ { -brand-short-name }. Imdanen-nniḍen zemren ad walin mi ara tedduḍ ɣer yiccer amaynut.
 sharing-warning-screen = Tbeṭṭuḍ akk agdil-inek . Imdanen-nniḍen zemren ad walin mi ara tedduḍ ɣer yiccer amaynut.
 sharing-warning-proceed-to-tab =
-    .label = Ɛeddi ɣeryiccer
+    .label = Ɛeddi ɣer yiccer
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
@@ -645,6 +645,12 @@ eme-notifications-drm-content-playing-dismiss = Zgel
 
 ## Password save/update panel
 
+panel-save-update-username = Isem n useqdac
+panel-save-update-password = Awal uffir
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Kkes { $name }?
+addon-removal-abuse-report-checkbox = Mmel asiɣzef-a i { -vendor-short-name }
