@@ -71,6 +71,10 @@ perftools-button-edit-settings = แก้ไขการตั้งค่า�
 
 perftools-thread-render-backend =
     .title = เธรด RenderBackend ของ WebRender
+perftools-thread-style-thread =
+    .title = การคำนวณรูปแบบจะแบ่งออกเป็นหลายเธรด
+pref-thread-stream-trans =
+    .title = การขนส่งกระแสเครือข่าย
 perftools-thread-img-decoder =
     .title = เธรดการถอดรหัสรูปภาพ
 perftools-thread-dns-resolver =
@@ -78,6 +82,7 @@ perftools-thread-dns-resolver =
 
 ##
 
+perftools-record-all-registered-threads = ข้ามการเลือกด้านบนและบันทึกเธรดที่ลงทะเบียนทั้งหมด
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
