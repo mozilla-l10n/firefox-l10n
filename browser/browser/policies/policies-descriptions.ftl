@@ -14,6 +14,7 @@ policy-3rdparty = Indstil politikker, som WebExtensions kan tilgå via chrome.st
 policy-AppAutoUpdate = Slå automatisk opdatering af programmet til eller fra.
 policy-AppUpdateURL = Indstil tilpasset URL for app-opdateringer
 policy-Authentication = Indstil integreret godkendelse for websteder, der understøtter det
+policy-BackgroundAppUpdate = Slå opdatering i baggrunden til eller fra. Dette opdaterer browseren, når den ikke kører.
 policy-BlockAboutAddons = Bloker adgang til fanebladet Tilføjelser (about:addons).
 policy-BlockAboutConfig = Bloker adgang til about:config.
 policy-BlockAboutProfiles = Bloker adgang til about:profiles.

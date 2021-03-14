@@ -15,6 +15,7 @@ start-troubleshoot-mode =
 refresh-profile =
     .label = Nulstil { -brand-short-name }
 safe-mode-description = Fejlsikret tilstand er en speciel tilstand af { -brand-short-name }, som kan bruges til fejlfinding.
+troubleshoot-mode-description = Brug denne specielle tilstand i { -brand-short-name } til at fejlsøge. Dine udvidelser og tilpassede indstillinger bliver deaktiveret midlertidig.
 safe-mode-description-details = Dine tilføjelser og tilpassede indstillinger vil blive deaktiveret midlertidigt, og funktioner i { -brand-short-name } har måske ikke samme ydelse som nu.
 refresh-profile-instead = Du kan også springe fejlfinding over og forsøge at nulstille { -brand-short-name }.
 skip-troubleshoot-refresh-profile = Du kan også springe fejlfinding over og nulstille { -brand-short-name } i stedet for.

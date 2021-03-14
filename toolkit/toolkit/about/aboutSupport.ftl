@@ -133,12 +133,14 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenter
 safe-mode-title = Prøv fejlsikret tilstand
 restart-in-safe-mode-label = Genstart med tilføjelser deaktiveret…
+troubleshoot-mode-title = Diagnosticer problemer
 restart-in-troubleshoot-mode-label = Fejlsøgnings-tilstand…
 clear-startup-cache-title = Prøv at rydde opstarts-cachen
 clear-startup-cache-label = Ryd opstarts-cachen…
 startup-cache-dialog-title = Ryd opstarts-cachen
 startup-cache-dialog-body = Genstart { -brand-short-name } for at rydde opstarts-cachen. Dette ændrer hverken dine indstillinger eller fjerner tilføjelser, du har installeret i { -brand-short-name }.
 startup-cache-dialog-title2 = Genstart { -brand-short-name } for at rydde opstarts-cachen?
+startup-cache-dialog-body2 = Dette vil ikke ændre dine indstillinger eller fjerne dine udvidelser.
 restart-button-label = Genstart
 
 ## Media titles
@@ -411,6 +413,10 @@ support-printing-prefs-value = Værdi
 
 ## Normandy sections
 
+support-remote-experiments-title = Fjern-eksperimenter
 support-remote-experiments-name = Navn
+support-remote-experiments-branch = Eksperimental-gren
+support-remote-experiments-see-about-studies = Få mere information på siden <a data-l10n-name="support-about-studies-link">about:studies</a>. Hér kan du fx læse om at slå specifikke eksperimenter fra eller om, hvordan du beder { -brand-short-name } om ikke at køre denne slags eksperimenter i fremtiden.
+support-remote-features-title = Fjern-funktioner
 support-remote-features-name = Navn
 support-remote-features-status = Status
