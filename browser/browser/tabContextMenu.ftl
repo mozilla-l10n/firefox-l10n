@@ -94,6 +94,13 @@ move-tabs =
 move-tab =
     .label = Flytt fane
     .accesskey = t
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Opne attlaten fane
+           *[other] Opne attlatne faner
+        }
+    .accesskey = a
 tab-context-close-tabs =
     .label =
         { $tabCount ->
