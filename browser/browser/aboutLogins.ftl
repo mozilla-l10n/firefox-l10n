@@ -296,14 +296,38 @@ about-logins-import-dialog-items-added =
         [few] <span> Nové pridané prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
        *[other] <span> Nové pridané prihlasovacie údaje: </span><span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Aktualizované prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Aktualizované prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Aktualizované prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Duplicitné prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
+        [few] <span>Duplicitné prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
+       *[other] <span>Duplicitné prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+       *[other] <span>Chyby:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neboli importované)</span>
+    }
 about-logins-import-dialog-done = Hotovo
 about-logins-import-dialog-error-title = Chyba pri importe
+about-logins-import-dialog-error-conflicting-values-title = Viacero konfliktných hodnôt pre jedno prihlásenie
+about-logins-import-dialog-error-conflicting-values-description = Napríklad: viac používateľských mien, hesiel, adries URL atď. pre jedno prihlásenie.
+about-logins-import-dialog-error-file-format-title = Problém s formátom súboru
+about-logins-import-dialog-error-file-format-description = Nesprávne alebo chýbajúce hlavičky stĺpcov. Uistite sa, že súbor obsahuje stĺpce s používateľským menom, heslom a adresou URL.
+about-logins-import-dialog-error-file-permission-title = Súbor sa nepodarilo prečítať
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nemá povolenie na čítanie súboru. Skúste zmeniť povolenia súboru.
+about-logins-import-dialog-error-unable-to-read-title = Súbor sa nepodarilo spracovať
 about-logins-import-dialog-error-unable-to-read-description = Uistite sa, že ste vybrali súbor typu CSV alebo TSV.
 about-logins-import-dialog-error-no-logins-imported = Neboli importované žiadne prihlasovacie údaje
 about-logins-import-dialog-error-learn-more = Ďalšie informácie
 about-logins-import-dialog-error-try-again = Skúsiť znova…
 about-logins-import-dialog-error-cancel = Zrušiť
 about-logins-import-report-title = Súhrn
+about-logins-import-report-description = Prihlasovacie údaje boli importované do aplikácie { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
