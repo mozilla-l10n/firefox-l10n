@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Kodim Teksti
     .accesskey = K
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Mënyra Diagnostikim…
+    .accesskey = D
+menu-help-exit-troubleshoot-mode =
+    .label = Çaktivizo Mënyrën Diagnostikim
+    .accesskey = Ç
+menu-help-more-troubleshooting-info =
+    .label = Më Tepër të Dhëna Diagnostikimi
+    .accesskey = M
+
 ## Mail Toolbar
 
 toolbar-junk-button =
