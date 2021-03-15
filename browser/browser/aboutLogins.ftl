@@ -309,6 +309,28 @@ about-logins-import-dialog-error-no-logins-imported = S’janë importuar kreden
 about-logins-import-dialog-error-learn-more = Mësoni më tepër
 about-logins-import-dialog-error-try-again = Riprovoni…
 about-logins-import-dialog-error-cancel = Anuloje
+about-logins-import-report-title = Përmbledhje Importimi
+about-logins-import-report-description = Kredenciale hyrjesh dhe fjalëkalime të importuar te { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rreshti { $number }
+about-logins-import-report-row-description-no-change = Përsëdytje: Përputhje ekzakte kredenciale ekzistuese hyrjeje
+about-logins-import-report-row-description-modified = U përditësuan kredenciale ekzistuese hyrjeje
+about-logins-import-report-row-description-added = U shtuan kredenciale të reja hyrjeje
+about-logins-import-report-row-description-error = Gabim: Fushë që mungon
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = Gabim: Vlera të shumta për { $field }
+about-logins-import-report-row-description-error-missing-field = Gabim: Mungon { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 

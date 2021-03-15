@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Më Tepër Mjete
 appmenuitem-exit =
     .label = Dilni
+appmenu-menu-button-closed =
+    .tooltiptext = Hap Menu Aplikacionesh
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Mbyll Menu Aplikacionesh
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +51,23 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Njëkohësohu Tani
+appmenuitem-fxa-toolbar-sync-now =
+    .label = Njëkohësoji Tani
+    .value = Njëkohësoji Tani
+appmenuitem-fxa-manage-account = Administroni Llogari
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Njëkohësuar së fundi më { $time }
+    .label = Njëkohësuar së fundi më { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = Njëkohëso dhe Ruaj të Dhëna
+appmenu-fxa-signed-in-label = Hyni
+appmenu-fxa-setup-sync =
+    .label = Aktivizoni Sync-un…
+appmenu-fxa-show-more-tabs = Shfaq Më Tepër Skeda
 appmenuitem-save-page =
     .label = Ruajeni Faqen Si…
 
@@ -128,6 +151,9 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Të dhëna Diagnostikimi
     .accesskey = D
+appmenu-help-more-troubleshooting-info =
+    .label = Më Tepër të Dhëna Diagnostikimi
+    .accesskey = D
 appmenu-help-taskmanager =
     .label = Përgjegjës Punësh
 appmenu-help-report-site-issue =
@@ -145,6 +171,16 @@ appmenu-help-safe-mode-without-addons =
 appmenu-help-safe-mode-with-addons =
     .label = Rinise me Shtesat të Aktivizuara
     .accesskey = A
+
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+appmenu-help-enter-troubleshoot-mode =
+    .label = Mënyra Diagnostikim
+    .accesskey = D
+appmenu-help-exit-troubleshoot-mode =
+    .label = Çaktivizo Mënyrën Diagnostikim
+    .accesskey = Ç
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
