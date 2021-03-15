@@ -379,9 +379,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Camera:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Camera
 popup-select-microphone-device =
     .value = Microfoon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Microfoon
 popup-all-windows-shared = Alle zichtbare vensters op uw scherm worden gedeeld.
 popup-screen-sharing-not-now =
     .label = Niet nu
@@ -642,3 +646,15 @@ eme-notifications-drm-content-playing-manage = Instellingen beheren
 eme-notifications-drm-content-playing-manage-accesskey = b
 eme-notifications-drm-content-playing-dismiss = Sluiten
 eme-notifications-drm-content-playing-dismiss-accesskey = S
+
+## Password save/update panel
+
+panel-save-update-username = Gebruikersnaam
+panel-save-update-password = Wachtwoord
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } verwijderen?
+addon-removal-abuse-report-checkbox = Deze extensie rapporteren aan { -vendor-short-name }
