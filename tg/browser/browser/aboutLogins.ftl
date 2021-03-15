@@ -108,9 +108,11 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## Master Password notification
 
+master-password-notification-message = Лутфан, барои дидани воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда, ниҳонвожаи хусусии худро ворид намоед
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Лутфан, барои дидани воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда, ниҳонвожаи асосии худро ворид намоед
 master-password-reload-button =
     .label = Ворид шдуан
     .accesskey = В
