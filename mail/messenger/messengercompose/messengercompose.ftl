@@ -103,6 +103,14 @@ drop-file-label-inline =
 
 # Reorder Attachment Panel
 
+move-attachment-first-panel-button =
+    .label = Flytt først
+move-attachment-left-panel-button =
+    .label = Flytt til venstre
+move-attachment-right-panel-button =
+    .label = Flytt til høyre
+move-attachment-last-panel-button =
+    .label = Flytt sist
 button-return-receipt =
     .label = Kvittering
     .tooltiptext = Be om returkvittering for denne meldingen
