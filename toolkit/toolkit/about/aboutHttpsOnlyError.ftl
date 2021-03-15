@@ -27,5 +27,5 @@ about-httpsonly-link-learn-more = Conocer más…
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 about-httpsonly-suggestion-box-header = Posible alternativa
-about-httpsonly-suggestion-box-www-text = Existe una versión segura de <em> www.{ $websiteUrl }</em>. Puede visitar esta página en lugar de em>{ $websiteUrl }<em>.
+about-httpsonly-suggestion-box-www-text = Existe una versión segura de <em> www.{ $websiteUrl }</em>. Puede visitar esta página en lugar de em>{ $websiteUrl }</em>.
 about-httpsonly-suggestion-box-www-button = Vaya a www. { $websiteUrl }
