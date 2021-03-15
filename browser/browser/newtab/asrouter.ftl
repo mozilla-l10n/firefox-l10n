@@ -144,6 +144,19 @@ cfr-whatsnew-permission-prompt-cta = Ďalšie informácie
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Blokovaný odtlačok prehliadača
+        [few] Blokované odtlačky prehliadača
+       *[other] Blokovaných odtlačkov prehliadača
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokuje mnoho odtlačkov prehliadača, ktoré tajne zhromažďujú informácie o vašom zariadení a akciách, aby vytvorili váš reklamný profil.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Odtlačky prehliadača
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } dokáže blokovať odtlačky prehliadača, ktoré tajne zhromažďujú informácie o vašom zariadení a akciách, aby vytvorili váš reklamný profil.
 
 ## Bookmark Sync
 
@@ -198,6 +211,15 @@ cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] Aplikácia { -brand-short-name } zablokovala od { $date } viac než <b>{ $blockedCount }</b> sledovacích prvkov!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [one] Prehliadač { -brand-short-name } zablokoval od { DATETIME($date, month: "long", year: "numeric") } viac ako <b>{ $blockedCount }</b> sledovací prvok.
+        [few] Prehliadač { -brand-short-name } zablokoval od { DATETIME($date, month: "long", year: "numeric") } viac ako <b>{ $blockedCount }</b> sledovacie prvky.
+       *[other] Prehliadač { -brand-short-name } zablokoval od { DATETIME($date, month: "long", year: "numeric") } viac ako <b>{ $blockedCount }</b> sledovacích prvkov.
+    }
 cfr-doorhanger-milestone-ok-button = Zobraziť všetko
     .accesskey = v
 cfr-doorhanger-milestone-close-button = Zavrieť
@@ -209,11 +231,13 @@ cfr-doorhanger-milestone-close-button = Zavrieť
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Vytvárajte zabezpečené heslá s ľahkosťou
+cfr-whatsnew-lockwise-body = Nie je jednoduché vymyslieť jedinečné a bezpečné heslá pre každý účet. Pri vytváraní hesla vyberte pole pre heslo, aby ste mohli použiť bezpečné heslo vygenerované prehliadačom { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = Ikona { -lockwise-brand-short-name(case: "gen") }
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Dostávajte upozornenia na zraniteľné heslá
+cfr-whatsnew-passwords-body = Hackeri vedia, že ľudia opakovane používajú rovnaké heslá. Ak ste na viacerých weboch použili rovnaké heslo a niektorý z týchto webov zasiahol únik dát, { -lockwise-brand-short-name } vás vyzve k zmene hesla na týchto stránkach.
 cfr-whatsnew-passwords-icon-alt = Ikona zraniteľného hesla
 
 ## Picture-in-Picture fullscreen message
