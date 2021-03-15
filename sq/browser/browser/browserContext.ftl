@@ -111,6 +111,9 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Hape Lidhjen në Skedë të Re Kontejneri
     .accesskey = K
+main-context-menu-open-link-container =
+    .label = Hape Lidhjen në Skedë të Re Kontejneri
+    .accesskey = H
 main-context-menu-open-link-new-window =
     .label = Hape Lidhjen në Dritare të Re
     .accesskey = D
@@ -120,6 +123,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Faqeruaje Këtë Lidhje
     .accesskey = L
+main-context-menu-bookmark-link =
+    .label = Faqeruani Lidhjen
+    .accesskey = F
 main-context-menu-save-link =
     .label = Ruajeni Lidhjen Si…
     .accesskey = R
@@ -131,11 +137,19 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Kopjo Adresë Email
     .accesskey = E
 main-context-menu-copy-link =
     .label = Kopjo Vendndodhje Lidhjeje
+    .accesskey = K
+main-context-menu-copy-link-simple =
+    .label = Kopjoji Lidhjen
     .accesskey = K
 
 ## Media (video/audio) controls
@@ -179,6 +193,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Marramendëse (2×)
     .accesskey = M
+main-context-menu-media-play-speed-2 =
+    .label = Shpejtësi
+    .accesskey = S
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Loop
     .accesskey = L
@@ -206,6 +233,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Picture-in-Picture
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Shiheni nën mënyrën Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Ringarkoje Figurën
     .accesskey = R
@@ -215,6 +247,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Shiheni Videon
     .accesskey = S
+main-context-menu-image-view-new-tab =
+    .label = Hape Figurën në Skedë të Re
+    .accesskey = i
+main-context-menu-video-view-new-tab =
+    .label = Hape Videon në Skedë të Re
+    .accesskey = i
 main-context-menu-image-copy =
     .label = Kopjo Figurën
     .accesskey = K
@@ -227,6 +265,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Kopjo Vendndodhje Audioje
     .accesskey = k
+main-context-menu-image-copy-link =
+    .label = Kopjo Lidhje Figure
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Kopjo Lidhje Videoje
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Kopjo Lidhje Audioje
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Ruajeni Figurën Si…
     .accesskey = u
@@ -239,6 +286,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = Shfaq të Dhëna Figure
     .accesskey = D
+main-context-menu-image-set-image-as-background =
+    .label = Vëreni Figurën si Sfond Desktopi…
+    .accesskey = V
 main-context-menu-image-desc =
     .label = Shihni Përshkrimin
     .accesskey = k
@@ -251,6 +301,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Ruajeni Foton Si…
     .accesskey = R
+main-context-menu-video-take-snapshot =
+    .label = Bëni Fotografim…
+    .accesskey = F
 main-context-menu-video-email =
     .label = Dërgoni Video me Email…
     .accesskey = v
@@ -275,6 +328,17 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Përdorni Fjalëkalimin e Prodhuar…
     .accesskey = o
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Përdor Kredenciale Hyrjesh të Ruajtura
+    .accesskey = o
+
+##
+
 main-context-menu-keyword =
     .label = Shtoni një Fjalëkyç për këtë Kërkim…
     .accesskey = K
