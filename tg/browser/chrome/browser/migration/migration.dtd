@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY migrationWizard.title          "Устоди воридот">
+
+<!ENTITY importFrom.label               "Ворид кардани имконот, хатбаракҳо, таърих, ниҳонвожаҳо ва маълумоти дигар аз:">
+<!ENTITY importFromUnix.label           "Ворид кардани хусусиятҳо, хатбаракҳо, таърих, ниҳонвожаҳо ва маълумоти дигар аз:">
+
+<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.accesskey         "M">
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
+<!ENTITY importFromEdgeLegacy.label     "Microsoft Edge Legacy">
+<!ENTITY importFromEdgeLegacy.accesskey "L">
+<!ENTITY importFromEdgeBeta.label       "Microsoft Edge Бета">
+<!ENTITY importFromEdgeBeta.accesskey   "d">
+
+
+
+
+
+
