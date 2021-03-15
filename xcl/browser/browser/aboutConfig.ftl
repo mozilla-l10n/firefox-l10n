@@ -6,9 +6,14 @@
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Ընթա՛ զգուշութեամբ
+about-config-intro-warning-text = Փոփոխումն նախընտրութեանց յառաջացելոյ կազմաձեւի կարէ վնասել  կատարողականութեան կամ անվտանգութեան { -brand-short-name }֊ի։
+about-config-intro-warning-checkbox = Զգուշացուցէ՛ք զիս ընդ փորձել իմ մատչել յայս նախընտրութիւնս
+about-config-intro-warning-button = Ընդունել զվտանգ եւ շարունակել
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Փոփոխումն այսց նախընտրութեանց կարէ վնասել կատարողականութեան կամ անվտանգութեան { -brand-short-name }֊ի։
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
