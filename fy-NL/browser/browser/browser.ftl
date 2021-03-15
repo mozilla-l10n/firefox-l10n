@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
 popup-select-microphone-device =
     .value = Mikrofoan:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofoan
 popup-all-windows-shared = Alle sichtbere finsters op jo skerm sille dield wurde.
 popup-screen-sharing-not-now =
     .label = No net
@@ -640,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Ynstellingen beheare
 eme-notifications-drm-content-playing-manage-accesskey = b
 eme-notifications-drm-content-playing-dismiss = Slute
 eme-notifications-drm-content-playing-dismiss-accesskey = S
+
+## Password save/update panel
+
+panel-save-update-username = Brûkersnamme
+panel-save-update-password = Wachtwurd
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } fuortsmite?
+addon-removal-abuse-report-checkbox = Dizze útwreiding rapportearje oan { -vendor-short-name }
