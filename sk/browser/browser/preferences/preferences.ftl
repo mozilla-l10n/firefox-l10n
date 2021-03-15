@@ -1080,14 +1080,14 @@ collection-privacy-notice = Zásady ochrany súkromia
 collection-health-report-telemetry-disabled = Odosielanie technických údajov a údajov o interakcii spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.
 collection-health-report-telemetry-disabled-link = Ďalšie informácie
 collection-health-report =
-    .label = Povoliť aplikácii { -brand-short-name } odosielať technické údaje a údaje o interakciách spoločnosti { -vendor-short-name }
+    .label = Povoliť prehliadaču { -brand-short-name } odosielať technické údaje a údaje o interakciách spoločnosti { -vendor-short-name }
     .accesskey = o
 collection-health-report-link = Ďalšie informácie
 collection-studies =
     .label = Povoliť prehliadaču { -brand-short-name } inštalovať a spúšťať štúdie
 collection-studies-link = Zobraziť štúdie aplikácie { -brand-short-name }
 addon-recommendations =
-    .label = Povoliť aplikácii { -brand-short-name } odporúčať rozšírenia vybrané priamo pre mňa
+    .label = Povoliť prehliadaču { -brand-short-name } odporúčať rozšírenia vybrané priamo pre mňa
 addon-recommendations-link = Ďalšie informácie
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

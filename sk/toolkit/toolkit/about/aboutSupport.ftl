@@ -136,7 +136,7 @@ restart-in-safe-mode-label = Reštartovať a zakázať doplnky…
 troubleshoot-mode-title = Diagnostika problémov
 restart-in-troubleshoot-mode-label = Režim riešenia problémov…
 clear-startup-cache-title = Skúste vyčistiť vyrovnávaciu pamäť spustenia
-clear-startup-cache-label = Vymazať vyrovnávaciu pamäť spustenia...
+clear-startup-cache-label = Vymazať vyrovnávaciu pamäť spustenia…
 startup-cache-dialog-title = Vymazať vyrovnávaciu pamäť spustenia
 startup-cache-dialog-body = Vyrovnávaciu pamäť spustenia vyčistíte reštartovaním aplikácie { -brand-short-name }. Toto nezmení vaše nastavenia ani neodstráni rozšírenia, ktoré ste nainštalovali do aplikácie { -brand-short-name }.
 startup-cache-dialog-title2 = Reštartovať { -brand-short-name } a vyčistiť vyrovnávaciu pamäť spustenia?
@@ -203,6 +203,10 @@ support-third-party-modules-button-open =
     .title = Otvoriť umiestnenie súboru…
 support-third-party-modules-folder-icon =
     .title = Otvoriť umiestnenie súboru…
+support-third-party-modules-down-icon =
+    .title = Zobraziť podrobné informácie
+support-third-party-modules-up-icon =
+    .title = Zbaliť podrobné informácie
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -299,6 +303,9 @@ blocklisted-bug = Zablokované kvôli známej chybe
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
 # Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = Zablokované kvôli známym problémom: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+# Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zablokované; chybový kód { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
@@ -354,6 +361,16 @@ multi-process-status-unknown = Neznámy stav
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 fission-windows = { $fissionWindows }/{ $totalWindows }
+fission-status-experiment-control = Zakázané experimentom
+fission-status-experiment-treatment = Povolené experimentom
+fission-status-disabled-by-e10s-env = Zakázané prostredím
+fission-status-enabled-by-env = Povolené prostredím
+fission-status-disabled-by-safe-mode = Zakázané v núdzovom režime
+fission-status-enabled-by-default = Povolené v núdzovom režime
+fission-status-disabled-by-default = Predvolene zakázané
+fission-status-enabled-by-user-pref = Povolené používateľom
+fission-status-disabled-by-user-pref = Zakázané používateľom
+fission-status-disabled-by-e10s-other = E10s zakázané
 async-pan-zoom = Asynchrónna lupa/panning
 apz-none = žiadna
 wheel-enabled = vstup kolieskom povolený
@@ -387,6 +404,7 @@ support-printing-prefs-value = Hodnota
 
 support-remote-experiments-title = Vzdialené experimenty
 support-remote-experiments-name = Názov
+support-remote-experiments-branch = Vetva experimentu
 support-remote-experiments-see-about-studies = Ďalšie informácie nájdete na stránke <a data-l10n-name="support-about-studies-link">about:studies</a> vrátane informácií, ako zakázať jednotlivé experimenty alebo ako zakázať spustenie tohto typu experimentu v aplikácii { -brand-short-name } v budúcnosti.
 support-remote-features-title = Vzdialené funkcie
 support-remote-features-name = Názov
