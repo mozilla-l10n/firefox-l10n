@@ -406,7 +406,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limit procesov obsahu
     .accesskey = L
 performance-limit-content-process-enabled-desc = Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.
-performance-limit-content-process-blocked-desc = Zmena počtu procesov obsahu je možná len pri použití multiprocesového režimu aplikácie { -brand-short-name }. <a data-l10n-name="learn-more">Pozrite sa, ako môžete skontrolovať stav multiprocesového režimu</a>
+performance-limit-content-process-blocked-desc = Zmena počtu procesov s obsahom je možná len pri použití viacprocesového režimu aplikácie { -brand-short-name }. <a data-l10n-name="learn-more">Pozrite sa, ako môžete skontrolovať stav viacprocesového režimu</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
