@@ -12,7 +12,11 @@ compatibility-all-elements-header = Všetky problémy
 
 compatibility-issue-deprecated = (zastarané)
 compatibility-issue-experimental = (experimentálne)
+compatibility-issue-prefixneeded = (je potrebný prefix)
 compatibility-issue-deprecated-experimental = (zastarané, experimentálne)
+compatibility-issue-deprecated-prefixneeded = (zastarané, je potrebný prefix)
+compatibility-issue-experimental-prefixneeded = (experimentálne, je potrebný prefix)
+compatibility-issue-deprecated-experimental-prefixneeded = (zastarané, experimentálne, je potrebný prefix)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -39,7 +43,6 @@ compatibility-issue-occurrences =
         [few] { $number } výskyty
        *[other] { $number } výskytov
     }
-
 compatibility-no-issues-found = Nenašli sa žiadne problémy s kompatibilitou.
 compatibility-close-settings-button =
     .title = Zavrieť nastavenia

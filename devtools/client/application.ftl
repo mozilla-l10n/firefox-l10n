@@ -32,6 +32,12 @@ serviceworker-worker-debug-forbidden = Ladiť
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Spustiť
     .title = Service Workery možno spustiť len s vypnutým e10s
+# Alt text for the image icon displayed inside a debug link for a service worker.
+serviceworker-worker-inspect-icon =
+    .alt = Preskúmať
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start3 = Spustiť
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Aktualizované <time>{ DATETIME($date, day: "numeric", month: "long", year: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -63,13 +69,26 @@ serviceworker-empty-suggestions-debugger = Prezrite si registráciu Service Work
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Preskúmajte Service Workery z iných domén. <a>Otvoriť about:debugging</a>
+# Text displayed when no service workers are visible for the current page.
+serviceworker-empty-intro2 = Neboli nájdení žiadni Service Workers
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Ďalšie informácie
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = Ak by mala mať aktuálna stránka Service Worker, prípadné jeho chyby nájdete v <a>Konzole</a>, jeho registráciu si môžete prejsť v <span>nástroji na ladenie</span>.
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = Zobraziť Service Workers z iných domén
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest aplikácie
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Manifest musíte vložiť sem na kontrolu. <a>Ďalšie informácie</a>
+# Header for the Manifest page when there's no manifest to inspect
+manifest-empty-intro2 = Nebol nájdený manifest webovej aplikácie
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = Pozrite sa, ako môžete pridať manifest
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Chyby a varovania
 # Header for the Identity section of Manifest inspection displayed in the application panel.
