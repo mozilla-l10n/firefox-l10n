@@ -177,6 +177,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Хандаовар (2×)
     .accesskey = Х
+main-context-menu-media-play-speed-2 =
+    .label = Суръат
+    .accesskey = С
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Ҳалқа сохтан
     .accesskey = Ҳ
@@ -204,6 +217,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Расм-дар-расм
     .accesskey = Р
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Тамошо дар реҷаи «Расм-дар-расм»
+    .accesskey = Т
 main-context-menu-image-reload =
     .label = Аз нав бор кардани тасвир
     .accesskey = А
@@ -213,6 +231,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Дидани видео
     .accesskey = Д
+main-context-menu-image-view-new-tab =
+    .label = Кушодани тасвир дар варақаи нав
+    .accesskey = К
+main-context-menu-video-view-new-tab =
+    .label = Кушодани видео дар варақаи нав
+    .accesskey = К
 main-context-menu-image-copy =
     .label = Нусха бардоштани тасвир
     .accesskey = Н
@@ -261,12 +285,18 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Нигоҳ доштани акси экран ҳамчун…
     .accesskey = Н
+main-context-menu-video-take-snapshot =
+    .label = Гирифтани акси экран…
+    .accesskey = Г
 main-context-menu-video-email =
     .label = Ирсоли видео тавассути почта…
     .accesskey = И
 main-context-menu-audio-email =
     .label = Ирсоли аудио тавассути почта…
     .accesskey = И
+main-context-menu-plugin-play =
+    .label = Фаъол кардани плагини ҷорӣ
+    .accesskey = Ф
 main-context-menu-save-to-pocket =
     .label = Нигоҳ доштани саҳифа ба { -pocket-brand-name }
     .accesskey = Н
@@ -276,6 +306,14 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Намоиши тасвири замина
     .accesskey = Н
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-manage-logins =
     .label = Идоракунии воридшавӣ…
     .accesskey = И

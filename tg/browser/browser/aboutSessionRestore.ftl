@@ -31,3 +31,4 @@ welcome-back-restore-button =
     .label = Ба пеш!
     .accesskey = Б
 welcome-back-restore-all-label = Барқарор кардани ҳамаи равзанаҳо ва варақаҳо
+welcome-back-restore-some-label = Танҳо онҳоеро, ки мехоҳед барқарор намоед
