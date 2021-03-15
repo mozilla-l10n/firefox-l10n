@@ -343,6 +343,8 @@ browser-window-minimize-button =
     .tooltiptext = Minimalizovať okno
 browser-window-maximize-button =
     .tooltiptext = Maximalizovať
+browser-window-restore-down-button =
+    .tooltiptext = Obnoviť nadol
 browser-window-close-button =
     .tooltiptext = Zavrieť
 

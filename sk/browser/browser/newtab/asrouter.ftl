@@ -241,6 +241,8 @@ cfr-whatsnew-better-pdf-body = Dokumenty PDF sa teraz otvárajú priamo v aplik�
 cfr-doorhanger-doh-header = Bezpečnejšie a šifrované vyhľadávanie DNS
 cfr-doorhanger-doh-primary-button = OK, rozumiem
     .accesskey = O
+cfr-doorhanger-doh-secondary-button = Zakázať
+    .accesskey = Z
 
 ## Fission Experiment Message
 
