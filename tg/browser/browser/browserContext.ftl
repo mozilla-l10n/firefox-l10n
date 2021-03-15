@@ -2,13 +2,29 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+navbar-tooltip-instruction =
+    .value =
+        { PLATFORM() ->
+            [macos] Барои намоиши таърих, ба поён кашед
+           *[other] Барои намоиши таърих, ба поён кашед ё бо тугмаи рости муш зер кунед
+        }
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = Гузариш ба як саҳифа қафо
+    .aria-label = Бозгашт
+    .accesskey = Б
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-2 =
+    .tooltiptext = Гузариш ба як саҳифа қафо ({ $shortcut })
+    .aria-label = Бозгашт
+    .accesskey = Б
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -297,6 +313,9 @@ main-context-menu-audio-email =
 main-context-menu-plugin-play =
     .label = Фаъол кардани плагини ҷорӣ
     .accesskey = Ф
+main-context-menu-plugin-hide =
+    .label = Пинҳон кардани плагини ҷорӣ
+    .accesskey = П
 main-context-menu-save-to-pocket =
     .label = Нигоҳ доштани саҳифа ба { -pocket-brand-name }
     .accesskey = Н
@@ -306,17 +325,32 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Намоиши тасвири замина
     .accesskey = Н
+main-context-menu-generate-new-password =
+    .label = Истифода кардани ниҳонвожаи эҷодшуда…
+    .accesskey = И
 
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Истифода кардани воридшавии нигоҳдошташуда
+    .accesskey = И
+main-context-menu-use-saved-password =
+    .label = Истифода кардани ниҳонвожаи нигоҳдошташуда
+    .accesskey = И
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Пешниҳод кардани ниҳонвожаи боқувват…
+    .accesskey = П
 main-context-menu-manage-logins =
     .label = Идоракунии воридшавӣ…
     .accesskey = И
+main-context-menu-link-send-to-device =
+    .label = Фиристодани пайванд ба дастгоҳ
+    .accesskey = Ф
 main-context-menu-view-page-source =
     .label = Дидани манбаи саҳифа
     .accesskey = Д
