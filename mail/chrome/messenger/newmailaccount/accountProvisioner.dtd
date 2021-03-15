@@ -4,9 +4,9 @@
 
 <!ENTITY window.title "Bonvenon al &brandShortName;">
 <!ENTITY header2.label "Ĉu vi volas havi novan retpoŝtan adreson?">
-<!ENTITY other.languages "We are only displaying the providers offering addresses in your area.  Click here to show all providers.">
-<!ENTITY error.line1 "Sorry, we could not find any suggested email addresses.">
-<!ENTITY error.line2 "You can try to search for nicknames or any other term to find more emails.">
+<!ENTITY other.languages "Estas montrataj nur retpoŝt‑provizantoj liverantaj servojn en via regiono. Klaku tien ĉi por vidigi ĉiujn provizantojn.">
+<!ENTITY error.line1 "Bedaŭrinde ne eblis trovi iun retpoŝtan adreson por via peto.">
+<!ENTITY error.line2 "Provu enigi aliajn kaŝnomojn aŭ vortojn por trovi pliajn disponeblajn retpoŝtajn adresojn.">
 
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
