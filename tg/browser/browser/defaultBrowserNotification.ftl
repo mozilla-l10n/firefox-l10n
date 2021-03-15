@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+default-browser-notification-message = <strong>Шумо мехоҳед, ки { -brand-short-name }-ро ҳамчун браузери асосӣ танзим намоед?</strong> Фаъолияти худро дар Интернет тезтар ва бехатар кунед ва маълумоти шахсиро дар веб ҳифз намоед.
 default-browser-notification-button =
     .label = Ҳамчун стандартӣ танзим кардан
     .accesskey = Ҳ

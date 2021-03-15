@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard =
+    .title = Устоди воридот
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
@@ -54,6 +56,11 @@ source-name-edge-beta = Microsoft Edge Бета
 source-name-safari = Safari
 source-name-canary = Google Chrome Canary
 source-name-chrome = Google Chrome
+source-name-chrome-beta = Google Chrome Бета
+source-name-chrome-dev = Google Chrome Dev
+source-name-chromium = Chromium
+source-name-firefox = Mozilla Firefox
+source-name-360se = 360 Secure Browser
 
 ## Browser data types
 ## All of these strings get a $browser variable passed in.
@@ -69,3 +76,53 @@ source-name-chrome = Google Chrome
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Кукиҳо
+browser-data-cookies-label =
+    .value = Кукиҳо
+browser-data-history-checkbox =
+    .label =
+        { $browser ->
+            [firefox] Таърихи тамошо ва хатбаракҳо
+           *[other] Таърихи тамошо
+        }
+browser-data-history-label =
+    .value =
+        { $browser ->
+            [firefox] Таърихи тамошо ва хатбаракҳо
+           *[other] Таърихи тамошо
+        }
+browser-data-formdata-checkbox =
+    .label = Таърихи шаклҳои нигоҳдошташуда
+browser-data-formdata-label =
+    .value = Таърихи шаклҳои нигоҳдошташуда
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-checkbox =
+    .label = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
+# This string should use the same phrase for "logins and passwords" as the
+# label in the main hamburger menu that opens about:logins.
+browser-data-passwords-label =
+    .value = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
+browser-data-bookmarks-checkbox =
+    .label =
+        { $browser ->
+            [ie] Баргузидаҳо
+            [edge] Баргузидаҳо
+           *[other] Хатбаракҳо
+        }
+browser-data-bookmarks-label =
+    .value =
+        { $browser ->
+            [ie] Баргузидаҳо
+            [edge] Баргузидаҳо
+           *[other] Хатбаракҳо
+        }
+browser-data-otherdata-checkbox =
+    .label = Маълумоти дигар
+browser-data-otherdata-label =
+    .label = Маълумоти дигар
+browser-data-session-checkbox =
+    .label = Равзанаҳо ва варақаҳо
+browser-data-session-label =
+    .value = Равзанаҳо ва варақаҳо
