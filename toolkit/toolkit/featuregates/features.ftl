@@ -29,26 +29,6 @@ experimental-features-web-api-inputmode-description = L’implementazione dell�
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = L’attributo <a data-l10n-name="rel">rel</a> con valore <code>"preload"</code> su un elemento <a data-l10n-name="link">&lt;link&gt;</a> è progettato per migliorare le prestazioni del browser, scaricando risorse nella fase iniziale del ciclo di vita della pagina. In questo modo, le risorse sono disponibili prima e si riduce il rischio di bloccare il rendering della pagina. Consultare la pagina <a data-l10n-name="readmore">“Preloading content with <code>rel="preload"</code>”</a> o il <a data-l10n-name="bugzilla">bug 1583604</a> per ulteriori dettagli.
-
-experimental-features-css-focus-visible =
-    .label = CSS: pseudoclasse :focus-visible
-experimental-features-css-focus-visible-description = Consente di applicare gli stili di focus a elementi come pulsanti e controlli di un modulo solo quando vengono selezionati tramite tastiera (ad es. passando da un elemento all’altro con il tasto di tabulazione), ma non quando vengono selezionati da un dispositivo di puntamento come il mouse. Consultare <a data-l10n-name="bugzilla">bug 1617600</a> per ulteriori dettagli.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: evento beforeinput
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = L’evento globale <a data-l10n-name="mdn-beforeinput">beforeinput</a> viene attivato su elementi <a data-l10n-name="mdn-input">&lt;input&gt;</a> e <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, o qualunque elemento con l’attributo <a data-l10n-name="mdn-contenteditable">contenteditable</a> attivo, appena prima che il valore dell’elemento cambi. Questo evento permette alle web app di ignorare il comportamento predefinito del browser per le interazioni con l’utente, ad es. una web app può ignorare il testo inserito dall’utente solo per specifici caratteri, oppure modificare del testo incollato con formattazione accettando solo degli stili predefiniti.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = L’aggiunta di un costruttore all’interfaccia <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, insieme ad altre modifiche correlate, rende possibile la creazione di nuovi fogli di stile senza bisogno di aggiungerli all’HTML. Questo rende molte più facile la creazione di fogli di stile riutilizzabili con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consultare <a data-l10n-name="bugzilla">bug 1520690</a> per ulteriori dettagli.
@@ -82,10 +62,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Rendi 
 experimental-features-abouthome-startup-cache =
     .label = Cache di avvio per about:home
 experimental-features-abouthome-startup-cache-description = Attiva cache per la pagina about:home che viene caricata automaticamente all’avvio del browser. Lo scopo di questa cache è migliorare le prestazioni di avvio.
-
-experimental-features-print-preview-tab-modal =
-    .label = Anteprima di stampa ridisegnata
-experimental-features-print-preview-tab-modal-description = Introduce un nuovo design per l’anteprima di stampa e rende disponibile questa funzione in macOS. Attivando questo esperimento potrebbero verificarsi errori e non sono ancora disponibili tutte le opzioni relative alla stampa. Per accedere alle opzioni complete, utilizzare “Stampa utilizzando la finestra di dialogo del sistema…”.
 
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.

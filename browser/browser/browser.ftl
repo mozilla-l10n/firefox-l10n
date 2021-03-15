@@ -345,8 +345,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Riproduzione in corso
-browser-tab-audio-muted = Audio disattivato
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = RIPRODUZIONE IN CORSO
 # This label should be written in all capital letters if your locale supports them.
@@ -568,8 +566,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Visualizza tutti i segnalibri
-bookmarks-recent-bookmarks =
-    .value = Aggiunti di recente
 bookmarks-manage-bookmarks =
     .label = Gestisci segnalibri
 bookmarks-recent-bookmarks-panel =
@@ -590,12 +586,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Nascondi la barra laterale dei segnalibri
            *[other] Visualizza la barra laterale dei segnalibri
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Nascondi la barra dei segnalibri
-           *[other] Visualizza la barra dei segnalibri
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -642,10 +632,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Segnalibri
-library-bookmarks-bookmark-this-page =
-    .label = Aggiungi pagina ai segnalibri
-library-bookmarks-bookmark-edit =
-    .label = Modifica segnalibro
 library-recent-activity-title =
     .value = Attività recente
 
