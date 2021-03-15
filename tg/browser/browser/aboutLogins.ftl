@@ -41,6 +41,8 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } барои iPhone ва
 
 ## Login List
 
+login-list =
+    .aria-label = Воридшавиҳое, ки ба дархости ҷустуҷӯ мувофиқат мекунанд
 login-list-count =
     { $count ->
         [one] { $count } воридшавӣ
@@ -66,6 +68,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 ## Introduction screen
 
+login-intro-heading = Воридшавиҳои нигоҳдошташударо меҷӯед? { -sync-brand-short-name }-ро танзим намоед.
+about-logins-login-intro-heading-logged-out = Воридшавиҳои нигоҳдошташударо меҷӯед? { -sync-brand-short-name }-ро танзим кунед ё онҳоро ворид намоед.
 about-logins-login-intro-heading-logged-in = Ягон воридшавии ҳамоҳангшуда ёфт нашуд.
 
 ## Login
