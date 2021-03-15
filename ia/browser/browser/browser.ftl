@@ -396,6 +396,9 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } non monstra
 popup-screen-sharing-block =
     .label = Blocar
     .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Blocar sempre
+    .accesskey = s
 
 ## WebRTC window or screen share tab switch warning
 
@@ -648,3 +651,7 @@ panel-save-update-password = Contrasigno
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Remover { $name }?
+addon-removal-abuse-report-checkbox = Signalar iste extension a { -vendor-short-name }

@@ -342,6 +342,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Suggerer un contrasigno forte…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Gerer credentiales…
     .accesskey = G
@@ -387,6 +390,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Vider le codice fonte del selection
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Capturar un instantaneo de schermo
+    .accesskey = C
 main-context-menu-view-page-source =
     .label = Vider le codice fonte del pagina
     .accesskey = V
