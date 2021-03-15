@@ -27,5 +27,5 @@ about-httpsonly-link-learn-more = Tetamäx ch'aqa' chik…
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 about-httpsonly-suggestion-box-header = Taq Cha'oj
-about-httpsonly-suggestion-box-www-text = K'o jun ütz ruwäch <em>www.{ $websiteUrl }</em>. Yatikïr natz'ët re ruxaq chuwäch ri <em>{ $websiteUrl }<em>.
+about-httpsonly-suggestion-box-www-text = K'o jun ütz ruwäch <em>www.{ $websiteUrl }</em>. Yatikïr natz'ët re ruxaq chuwäch ri <em>{ $websiteUrl }</em>.
 about-httpsonly-suggestion-box-www-button = Jät pa www.{ $websiteUrl }
