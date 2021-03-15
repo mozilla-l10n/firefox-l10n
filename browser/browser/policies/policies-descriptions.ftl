@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = រារាំង { -brand-short-name } ពី�
 policy-DisableForgetButton = រារាំង​ការ​ចូល​ប្រើ​ប៊ូតុង​រំលង។
 policy-DisableFormHistory = មិន​ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
 policy-DisableMasterPasswordCreation = ប្រសិន​បើ​ពិត​ពាក្យ​សម្ងាត់​មេ​មិន​អាច​បង្កើត​បានទេ។
+policy-DisablePrimaryPasswordCreation = ប្រសិនបើ​ពិត នោះពាក្យសម្ងាត់​ចម្បង​មិនអាចត្រូវបានបង្កើតទេ។
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
 policy-DNSOverHTTPS = កំណត់​រចនាសម្ព័ន្ធ DNS នៅ​លើ HTTPS ។
