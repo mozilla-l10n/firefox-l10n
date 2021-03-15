@@ -366,7 +366,7 @@ browser-tab-audio-pip = OBRAZ V OBRAZE
 browser-import-button2 =
     .label = Importovať záložky…
     .tooltiptext = Importovať záložky z iného prehliadača do aplikácie { -brand-short-name }
-bookmarks-toolbar-empty-message = Ak chcete mať rýchly prístup k záložkám, umiestnite ich sem na panel záložiek. <a data-l10n-name="manage-bookmarks">Spravovať záložky...</a>
+bookmarks-toolbar-empty-message = Ak chcete mať rýchly prístup k záložkám, umiestnite ich sem na panel záložiek. <a data-l10n-name="manage-bookmarks">Spravovať záložky…</a>
 
 ## WebRTC Pop-up notifications
 
