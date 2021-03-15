@@ -27,5 +27,5 @@ about-httpsonly-link-learn-more = Tìm hiểu thêm…
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 about-httpsonly-suggestion-box-header = Có thể thay thế
-about-httpsonly-suggestion-box-www-text = Có một phiên bản an toàn của <em>www.{ $websiteUrl }</em>. Bạn có thể truy cập trang này thay vì <em>{ $websiteUrl }<em>.
+about-httpsonly-suggestion-box-www-text = Có một phiên bản an toàn của <em>www.{ $websiteUrl }</em>. Bạn có thể truy cập trang này thay vì <em>{ $websiteUrl }</em>.
 about-httpsonly-suggestion-box-www-button = Truy cập www.{ $websiteUrl }
