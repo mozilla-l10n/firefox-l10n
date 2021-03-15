@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Tekstkoding
     .accesskey = e
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Feilsøkingsmodus…
+    .accesskey = F
+menu-help-exit-troubleshoot-mode =
+    .label = Slå av feilsøkingsmodus
+    .accesskey = S
+menu-help-more-troubleshooting-info =
+    .label = Mer feilsøkingsinformasjon
+    .accesskey = M
+
 ## Mail Toolbar
 
 toolbar-junk-button =
