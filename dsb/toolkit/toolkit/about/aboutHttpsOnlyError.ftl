@@ -27,5 +27,5 @@ about-httpsonly-link-learn-more = Dalšne informacije…
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 about-httpsonly-suggestion-box-header = Móžna alternatiwa
-about-httpsonly-suggestion-box-www-text = Dajo wěstu wersiju <em>www.{ $websiteUrl }</em>. Móžośo se k toś tomu bokoju město <em>{ $websiteUrl }<em> woglědaś.
+about-httpsonly-suggestion-box-www-text = Dajo wěstu wersiju <em>www.{ $websiteUrl }</em>. Móžośo se k toś tomu bokoju město <em>{ $websiteUrl }</em> woglědaś.
 about-httpsonly-suggestion-box-www-button = K www.{ $websiteUrl }
