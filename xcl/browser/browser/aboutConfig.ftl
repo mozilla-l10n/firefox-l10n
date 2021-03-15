@@ -41,3 +41,5 @@ about-config-pref-delete-button =
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (սկզբնադիր)
