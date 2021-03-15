@@ -16,9 +16,37 @@
 <!ENTITY importFromEdgeLegacy.accesskey "L">
 <!ENTITY importFromEdgeBeta.label       "Microsoft Edge Бета">
 <!ENTITY importFromEdgeBeta.accesskey   "d">
+<!ENTITY importFromNothing.label        "Ҳеҷ чиз ворид карда нашавад">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.accesskey     "S">
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
+<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChromeBeta.label     "Chrome Beta">
+<!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.label      "Chrome Dev">
+<!ENTITY importFromChromeDev.accesskey  "D">
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
+<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
+<!ENTITY noMigrationSources.label       "Ягон барномае, ки дорои маълумот бо хатбаракҳо, таърих ва ниҳонвожа мебошад, ёфт нашуд.">
 
+<!ENTITY importSource.title             "Ворид кардани танзимот ва маълумот">
+<!ENTITY importItems.title              "Маводҳое, ки ворид карда мешаванд">
+<!ENTITY importItems.label              "Интихоб кунед, ки кадом мавод бояд ворид карда шавад:">
 
+<!ENTITY migrating.title                "Ворид шуда истодааст…">
+<!ENTITY migrating.label                "Маводҳои зерин ворид шуда истодаанд…">
 
+<!ENTITY selectProfile.title            "Интихоби профил">
+<!ENTITY selectProfile.label            "Профилҳои зерин барои ворид аз ҷойи зерин дастрасанд:">
 
+<!ENTITY done.title                     "Воридот анҷом ёфт">
+<!ENTITY done.label                     "Маводҳои зерин бо муваффақият ворид карда шуданд:">
 
