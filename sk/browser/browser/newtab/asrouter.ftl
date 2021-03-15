@@ -251,18 +251,32 @@ cfr-doorhanger-fission-secondary-button = Ďalšie informácie
 
 ## What's new: Cookies message
 
+cfr-whatsnew-clear-cookies-header = Automatická ochrana pred záludnou taktikou sledovania
+cfr-whatsnew-clear-cookies-body = Niektoré sledovacie prvky vás presmerujú na iné webové stránky, ktoré tajne nastavujú súbory cookie. Prehliadač { -brand-short-name } teraz tieto cookies automaticky vymaže, aby vás nebolo možné sledovať.
+cfr-whatsnew-clear-cookies-image-alt = Ukážka blokovaného súboru cookie
 
 ## What's new: Media controls message
 
+cfr-whatsnew-media-keys-header = Viac ovládacích prvkov pre médiá
+cfr-whatsnew-media-keys-body = Prehrávajte a pozastavujte zvuk alebo video priamo z klávesnice alebo náhlavnej súpravy, čo uľahčuje ovládanie médií z inej karty, programu alebo dokonca aj vtedy, keď je počítač uzamknutý. Medzi skladbami sa tiež môžete pohybovať pomocou tlačidiel dopredu a dozadu.
+cfr-whatsnew-media-keys-button = Zistite ako na to
 
 ## What's new: Search shortcuts
 
+cfr-whatsnew-search-shortcuts-header = Skratky pre vyhľadávanie v paneli s adresou
+cfr-whatsnew-search-shortcuts-body = Keď teraz do panela s adresou napíšete vyhľadávací nástroj alebo konkrétny web, v návrhoch vyhľadávania sa zobrazí modrá skratka. Vyberte túto skratku a dokončite vyhľadávanie priamo z panela s adresou.
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = Ochrana pred škodlivými supercookies
+cfr-whatsnew-supercookies-body = Webové stránky môžu k vášmu prehliadaču tajne pripojiť „supercookie“, ktorý vás bude môcť po webe sledovať, a to aj po vymazaní súborov cookie. { -brand-short-name } teraz poskytuje silnú ochranu proti supercookies, takže ich nemožno použiť na sledovanie vašich aktivít online z jedného webu na druhý.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = Vylepšené záložky
+cfr-whatsnew-bookmarking-body = Sledovanie obľúbených webov je jednoduchšie. Prehliadač { -brand-short-name } si teraz pamätá vaše preferované umiestnenie uložených záložiek, predvolene zobrazuje panel so záložkami na nových kartách a umožňuje ľahký prístup k ostatným záložkám prostredníctvom priečinka na paneli nástrojov.
 
 ## What's new: Cross-site cookie tracking
 
+cfr-whatsnew-cross-site-tracking-header = Komplexná ochrana pred sledovaním pomocou cookies tretích strán
+cfr-whatsnew-cross-site-tracking-body = Teraz sa môžete využiť lepšiu ochranu pred sledovaním pomocou súborov cookies. { -brand-short-name } dokáže izolovať vaše aktivity a údaje od webu, na ktorom sa momentálne nachádzate, takže informácie uložené v prehliadači sa medzi webmi nezdieľajú.
