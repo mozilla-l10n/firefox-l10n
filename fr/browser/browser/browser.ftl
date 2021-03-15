@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Caméra :
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Caméra
 popup-select-microphone-device =
     .value = Microphone :
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Microphone
 popup-all-windows-shared = L’ensemble des fenêtres visibles sur votre écran seront partagées.
 popup-screen-sharing-not-now =
     .label = Plus tard
@@ -640,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Gérer les paramètres
 eme-notifications-drm-content-playing-manage-accesskey = m
 eme-notifications-drm-content-playing-dismiss = Ignorer
 eme-notifications-drm-content-playing-dismiss-accesskey = n
+
+## Password save/update panel
+
+panel-save-update-username = Nom d’utilisateur
+panel-save-update-password = Mot de passe
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Supprimer { $name } ?
+addon-removal-abuse-report-checkbox = Signaler cette extension à { -vendor-short-name }
