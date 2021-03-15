@@ -1168,7 +1168,7 @@ httpsonly-radio-enabled =
 httpsonly-radio-enabled-pbm =
     .label = Povoliť režim "Len HTTPS" iba v súkromných oknách
 httpsonly-radio-disabled =
-    .label = Nepovoliť režim "Len HTTPS"
+    .label = Nezapínať režim "Len HTTPS"
 
 ## The following strings are used in the Download section of settings
 
