@@ -24,6 +24,12 @@ about-config-pref-toggle-button =
     .title = Փոփոխել
 about-config-pref-edit-button =
     .title = Խմբագրել
+about-config-pref-save-button =
+    .title = Պահպանել
+about-config-pref-reset-button =
+    .title = Վերակայել
+about-config-pref-delete-button =
+    .title = Ջնջել
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
