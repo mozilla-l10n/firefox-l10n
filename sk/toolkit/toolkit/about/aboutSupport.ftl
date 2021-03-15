@@ -329,6 +329,11 @@ sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah súboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
 sandbox-proc-type-data-decoder = dekóder údajov
+startup-cache-title = Vyrovnávacia pamäť spustenia
+startup-cache-disk-cache-path = Cesta k vyrovnávacej pamäti na disku
+startup-cache-ignore-disk-cache = Ignorovať vyrovnávaciu pamäť disku
+startup-cache-found-disk-cache-on-init = Vyrovnávacia pamäť na disku nájdená počas inicializácie
+startup-cache-wrote-to-disk-cache = Zapísané do vyrovnávacej pamäti na disku
 launcher-process-status-0 = Povolený
 launcher-process-status-1 = Zakázaný kvôli chybe
 launcher-process-status-2 = Vynútene zakázaný
@@ -380,6 +385,9 @@ support-printing-prefs-value = Hodnota
 
 ## Normandy sections
 
+support-remote-experiments-title = Vzdialené experimenty
 support-remote-experiments-name = Názov
+support-remote-experiments-see-about-studies = Ďalšie informácie nájdete na stránke <a data-l10n-name="support-about-studies-link">about:studies</a> vrátane informácií, ako zakázať jednotlivé experimenty alebo ako zakázať spustenie tohto typu experimentu v aplikácii { -brand-short-name } v budúcnosti.
+support-remote-features-title = Vzdialené funkcie
 support-remote-features-name = Názov
 support-remote-features-status = Stav

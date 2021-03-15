@@ -46,16 +46,16 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
-pane-experimental-title = Experimenty aplikácie { -brand-short-name }
+pane-experimental-title = Experimenty prehliadača { -brand-short-name }
 category-experimental =
-    .tooltiptext = Experimenty aplikácie { -brand-short-name }
+    .tooltiptext = Experimenty prehliadača { -brand-short-name }
 pane-experimental-subtitle = Buďte obozretní
 pane-experimental-search-results-header = Experimenty { -brand-short-name(case: "gen") }: Pokračujte s opatrnosťou
-pane-experimental-description = Zmeny v pokročilej konfigurácii môžu ovplyvniť výkon a bezpečnosť aplikácie { -brand-short-name }.
+pane-experimental-description = Zmeny v pokročilej konfigurácii môžu ovplyvniť výkon a bezpečnosť prehliadača { -brand-short-name }.
 pane-experimental-reset =
     .label = Obnoviť predvolené nastavenia
     .accesskey = O
-help-button-label = Podpora aplikácie { -brand-short-name }
+help-button-label = Podpora pre prehliadač { -brand-short-name }
 addons-button-label = Rozšírenia a témy vzhľadu
 focus-search =
     .key = f
@@ -104,7 +104,7 @@ extension-controlled-privacy-containers = Rozšírenie <img data-l10n-name="icon
 extension-controlled-websites-content-blocking-all-trackers = Toto nastavenie spravuje rozšírenie <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Rozšírenie <img data-l10n-name="icon"/> { $name } kontroluje pripojenie aplikácie { -brand-short-name } k internetu.
+extension-controlled-proxy-config = Rozšírenie <img data-l10n-name="icon"/> { $name } kontroluje pripojenie prehliadača { -brand-short-name } k internetu.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -121,7 +121,7 @@ search-results-empty-message =
         [windows] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
        *[other] Mrzí nás to, no pre hľadaný výraz “<span data-l10n-name="query"></span>” sme v možnostiach nič nenašli.
     }
-search-results-help-link = Potrebujete pomoc? Navštívte <a data-l10n-name="url">podporu aplikácie { -brand-short-name }</a>
+search-results-help-link = Potrebujete pomoc? Navštívte <a data-l10n-name="url">stránku podpory pre prehliadač { -brand-short-name }</a>
 
 ## General Section
 
@@ -159,7 +159,7 @@ warn-on-close-multiple-tabs =
     .label = Upozorniť pri zatváraní viacerých kariet
     .accesskey = o
 warn-on-open-many-tabs =
-    .label = Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie aplikácie { -brand-short-name }
+    .label = Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie prehliadača { -brand-short-name }
     .accesskey = U
 switch-links-to-new-tabs =
     .label = Pri otvorení odkazu na novej karte ju preniesť do popredia
@@ -228,7 +228,7 @@ choose-language-description = Vyberte jazyky pre zobrazovanie webových stránok
 choose-button =
     .label = Vybrať…
     .accesskey = V
-choose-browser-language-description = Vyberte si jazyk, v ktorom sa majú zobrazovať ponuky, správy a oznámenia aplikácie { -brand-short-name }.
+choose-browser-language-description = Vyberte si jazyk, v ktorom sa majú zobrazovať ponuky, správy a oznámenia prehliadača { -brand-short-name }.
 manage-browser-languages-button =
     .label = Vybrať alternatívy
     .accesskey = a
@@ -324,7 +324,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = Použiť { $plugin-name } (v aplikácii { -brand-short-name })
+    .label = Použiť { $plugin-name } (v prehliadači { -brand-short-name })
 applications-open-inapp =
     .label = Otvoriť v aplikácii { -brand-short-name }
 
@@ -1084,7 +1084,7 @@ collection-health-report =
     .accesskey = o
 collection-health-report-link = Ďalšie informácie
 collection-studies =
-    .label = Povoliť aplikácii { -brand-short-name } inštalovať a spúšťať štúdie
+    .label = Povoliť prehliadaču { -brand-short-name } inštalovať a spúšťať štúdie
 collection-studies-link = Zobraziť štúdie aplikácie { -brand-short-name }
 addon-recommendations =
     .label = Povoliť aplikácii { -brand-short-name } odporúčať rozšírenia vybrané priamo pre mňa
