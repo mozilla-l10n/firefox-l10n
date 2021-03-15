@@ -385,9 +385,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Camera:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Camera
 popup-select-microphone-device =
     .value = Meicroffon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Meicroffon
 popup-all-windows-shared = Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.
 popup-screen-sharing-not-now =
     .label = Nid Nawr
@@ -648,3 +652,15 @@ eme-notifications-drm-content-playing-manage = Rheoli Gosodiadau
 eme-notifications-drm-content-playing-manage-accesskey = R
 eme-notifications-drm-content-playing-dismiss = Cau
 eme-notifications-drm-content-playing-dismiss-accesskey = C
+
+## Password save/update panel
+
+panel-save-update-username = Enw Defnyddiwr
+panel-save-update-password = Cyfrinair
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Tynnu { $name }?
+addon-removal-abuse-report-checkbox = Adroddwch yr estyniad hwn i { -vendor-short-name }
