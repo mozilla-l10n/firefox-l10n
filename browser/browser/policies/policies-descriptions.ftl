@@ -14,6 +14,7 @@ policy-3rdparty = Beliedsrigels ynstelle dy't troch WebExtensions benadere wurde
 policy-AppAutoUpdate = Automatyske applikaasjefernijing yn- of útskeakelje.
 policy-AppUpdateURL = Oanpaste app-fernijings-URL ynstelle.
 policy-Authentication = Yntegrearre autentikaasje konfigurearje foar websites dy't dit stypje.
+policy-BackgroundAppUpdate = Bywurkjen op de eftergrûn yn- of útskeakelje, wêrtroch de browser bywurke wurdt wannear't dizze net aktyf is.
 policy-BlockAboutAddons = Tagong ta de Add-onbehearder (about:addons) blokkearje.
 policy-BlockAboutConfig = Tagong ta de about:config-side blokkearje.
 policy-BlockAboutProfiles = Tagong ta de about:profiles-side blokkearje.
