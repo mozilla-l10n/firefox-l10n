@@ -539,7 +539,7 @@ crashed-subframe-learnmore =
 crashed-subframe-learnmore-link =
     .value = Learn More
 crashed-subframe-submit =
-    .label = Submit Report
+    .label = Submit report
     .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
