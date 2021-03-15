@@ -27,5 +27,5 @@ about-httpsonly-link-learn-more = További tudnivalók…
 ##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
 
 about-httpsonly-suggestion-box-header = Lehetséges alternatíva
-about-httpsonly-suggestion-box-www-text = Ez a <em>www.{ $websiteUrl }</em> biztonságos változata. Felkeresheti ezt az oldalt a <em>{ $websiteUrl }<em> helyett.
+about-httpsonly-suggestion-box-www-text = Ez a <em>www.{ $websiteUrl }</em> biztonságos változata. Felkeresheti ezt az oldalt a <em>{ $websiteUrl }</em> helyett.
 about-httpsonly-suggestion-box-www-button = Ugrás ide: www.{ $websiteUrl }
