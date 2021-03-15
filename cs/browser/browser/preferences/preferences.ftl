@@ -690,13 +690,13 @@ search-engine-default-private-desc-2 = Vyberte odlišný výchozí vyhledávač 
 search-separate-default-engine =
     .label = Použít tento vyhledávač jako výchozí také v režimu anonymního prohlížení
     .accesskey = u
-search-suggestions-header = Našeptávání
+search-suggestions-header = Našeptávání dotazů pro vyhledávač
 search-suggestions-desc = Zvolte si, zda a jak má prohlížeč zobrazovat návrhy od vyhledávače.
 search-suggestions-option =
-    .label = Našeptávat vyhledávání
+    .label = Našeptávat dotazy pro vyhledávač
     .accesskey = n
 search-show-suggestions-url-bar-option =
-    .label = Našeptávat vyhledávání také v adresním řádku
+    .label = Našeptávat dotazy pro vyhledávač také v adresním řádku
     .accesskey = e
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -704,9 +704,9 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Našeptávat vyhledávání v adresním řádku nad stránkami z historie prohlížení
+    .label = Našeptávat dotazy pro vyhledávač v adresním řádku nad stránkami z historie prohlížení
 search-show-suggestions-private-windows =
-    .label = Našeptávat vyhledávání také v anonymních oknech
+    .label = Našeptávat dotazy pro vyhledávač také v anonymních oknech
 suggestions-addressbar-settings-generic = Změnit předvolby našeptávání v adresním řádku
 search-suggestions-cant-show =
     Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name.gender ->
@@ -1098,7 +1098,7 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Vyhledávače
     .accesskey = a
-addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
+addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 
 ## Privacy Section - Content Blocking
 

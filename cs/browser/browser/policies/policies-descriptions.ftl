@@ -133,7 +133,7 @@ policy-RequestedLocales = Nastavení seznamu požadovaných jazyků pro zobrazen
 policy-SanitizeOnShutdown2 = Vymazání dat o prohlížení během vypnutí.
 policy-SearchBar = Nastavení výchozího umístění vyhledávacího pole. Uživatel ho může přemístit.
 policy-SearchEngines = Nastavení vyhledávačů. Toto pravidlo je dostupné jen pro verzi s rozšířenou podporou (ESR).
-policy-SearchSuggestEnabled = Povolení nebo zákaz našeptávače pro vyhledávání.
+policy-SearchSuggestEnabled = Povolení nebo zákaz našeptávání dotazů pro vyhledávač.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalace modulů PKCS #11.
 policy-SSLVersionMax = Nastavení maximální verze SSL.

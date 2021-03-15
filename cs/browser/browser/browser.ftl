@@ -409,9 +409,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
 popup-select-microphone-device =
     .value = Mikrofon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = Budou sdílena všechna viditelná okna na vaší obrazovce.
 popup-screen-sharing-not-now =
     .label = Teď ne
@@ -684,3 +688,11 @@ eme-notifications-drm-content-playing-manage = Nastavení
 eme-notifications-drm-content-playing-manage-accesskey = N
 eme-notifications-drm-content-playing-dismiss = Zavřít
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Password save/update panel
+
+panel-save-update-username = Uživatelské jméno
+panel-save-update-password = Heslo
+
+## Add-on removal warning
+
