@@ -369,6 +369,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Non è un sito ingannevole…
     .accesskey = e
-menu-help-check-for-update =
-    .label = Controlla aggiornamenti…
-    .accesskey = C
