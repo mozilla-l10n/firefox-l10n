@@ -21,7 +21,7 @@ storage-table-type-sessionstorage-hint = Úložisko relácie môžete zobraziť 
 storage-table-type-indexeddb-hint = Položky IndexedDB môžete zobraziť a odstrániť zvolením databázy. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cache_Storage
-storage-table-type-cache-hint = Položky ukladacieho priestoru medzipamäte môžete zobraziť a odstrániť zvolením úložiska. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+storage-table-type-cache-hint = Položky ukladacieho priestoru vyrovnávacej pamäte môžete zobraziť a odstrániť zvolením úložiska. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
 storage-table-type-extensionstorage-hint = Úložisko rozšírení môžete zobraziť a upraviť výberom servera. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>

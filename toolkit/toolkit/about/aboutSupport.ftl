@@ -62,12 +62,16 @@ app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Konfigurácia zostavenia
 app-basics-user-agent = Reťazec User Agent
 app-basics-os = OS
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Preložené pre Apple pomocou Rosetta
 app-basics-memory-use = Využitie pamäte
 app-basics-performance = Výkon
 app-basics-service-workers = Registrovaní Service Workers
 app-basics-profiles = Profily
 app-basics-launcher-process-status = Spúšťací proces
 app-basics-multi-process-support = Multiprocesové okná
+app-basics-fission-support = Okná používajúce Fission
 app-basics-remote-processes-count = Vzdialené procesy
 app-basics-enterprise-policies = Podnikové pravidlá
 app-basics-location-service-key-google = Kľúč služby Google Location Service
@@ -80,6 +84,7 @@ show-dir-label =
         [windows] Otvoriť priečinok
        *[other] Otvoriť priečinok
     }
+environment-variables-title = Premenné prostredia
 environment-variables-name = Názov
 environment-variables-value = Hodnota
 experimental-features-title = Experimentálne funkcie
@@ -130,6 +135,11 @@ safe-mode-title = Vyskúšajte núdzový režim
 restart-in-safe-mode-label = Reštartovať a zakázať doplnky…
 troubleshoot-mode-title = Diagnostika problémov
 restart-in-troubleshoot-mode-label = Režim riešenia problémov…
+clear-startup-cache-title = Skúste vyčistiť vyrovnávaciu pamäť spustenia
+clear-startup-cache-label = Vymazať vyrovnávaciu pamäť spustenia...
+startup-cache-dialog-title = Vymazať vyrovnávaciu pamäť spustenia
+startup-cache-dialog-body = Vyrovnávaciu pamäť spustenia vyčistíte reštartovaním aplikácie { -brand-short-name }. Toto nezmení vaše nastavenia ani neodstráni rozšírenia, ktoré ste nainštalovali do aplikácie { -brand-short-name }.
+startup-cache-dialog-title2 = Reštartovať { -brand-short-name } a vyčistiť vyrovnávaciu pamäť spustenia?
 startup-cache-dialog-body2 = Vaše nastavenia a nainštalované rozšírenia to nijako neovplyvní.
 restart-button-label = Reštartovať
 
@@ -182,6 +192,12 @@ remote-debugging-url = URL
 ##
 
 support-third-party-modules-title = Moduly tretích strán
+support-third-party-modules-module = Súbor modulu
+support-third-party-modules-version = Verzia súboru
+support-third-party-modules-vendor = Informácie o dodávateľovi
+support-third-party-modules-occurrence = Výskyt
+support-third-party-modules-process = Typ a ID procesu
+support-third-party-modules-thread = Vlákno
 support-third-party-modules-no-value = (Žiadna hodnota)
 support-third-party-modules-button-open =
     .title = Otvoriť umiestnenie súboru…
