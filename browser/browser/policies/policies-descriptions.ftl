@@ -14,6 +14,7 @@ policy-3rdparty = Permetre de definir las estrategias que WebExtensions pòdon a
 policy-AppAutoUpdate = Activar o desactivar la mesa a jorn automatica de las aplicacions.
 policy-AppUpdateURL = Permet de definir una URL de mesa a jorn personalizada per l’aplicacion.
 policy-Authentication = Configura l’autentificacion integrada pels sites web que la prepausan.
+policy-BackgroundAppUpdate = Activar o desactivar lo programa de mesa a jorn en rèireplan, que met a jorn lo navegador quand es pas en execucion.
 policy-BlockAboutAddons = Bloca l’accès al gestionari de moduls (about:addons).
 policy-BlockAboutConfig = Blòca l’accès a la pagina about:config.
 policy-BlockAboutProfiles = Blòca l’accès a la pagina about:profiles.
