@@ -229,6 +229,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu v obraze
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Prehľad ochrany na jednom mieste
+cfr-whatsnew-protections-body = Nástenka ochrany súkromia obsahuje súhrnné správy o únikoch údajov a správe hesiel. Teraz môžete sledovať, koľko únikov údajov ste vyriešili, a zistiť, či niektoré z vašich uložených hesiel mohlo byť vystavené úniku údajov.
+cfr-whatsnew-protections-cta-link = Zobraziť Nástenku ochrany súkromia
 cfr-whatsnew-protections-icon-alt = Ikona štítu
 
 ## Better PDF message
@@ -238,14 +240,21 @@ cfr-whatsnew-better-pdf-body = Dokumenty PDF sa teraz otvárajú priamo v aplik�
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Na vašom súkromí záleží. Prehliadač { -brand-short-name } teraz posiela vaše požiadavky DNS na partnerskú službu v záujme vašej ochrany zabezpečene.
 cfr-doorhanger-doh-header = Bezpečnejšie a šifrované vyhľadávanie DNS
 cfr-doorhanger-doh-primary-button = OK, rozumiem
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Zakázať
     .accesskey = Z
 
 ## Fission Experiment Message
 
+cfr-doorhanger-fission-body-approved = Na vašom súkromí záleží. Prehliadač { -brand-short-name } teraz izoluje webové stránky navzájom, čo hackerom sťažuje odcudzenie hesiel, čísiel kreditných kariet a ďalších citlivých informácií.
+cfr-doorhanger-fission-header = Izolácia stránok
+cfr-doorhanger-fission-primary-button = OK, rozumiem
+    .accesskey = r
 cfr-doorhanger-fission-secondary-button = Ďalšie informácie
     .accesskey = a
 
