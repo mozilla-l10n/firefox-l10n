@@ -27,6 +27,7 @@ policy-DisabledCiphers = Zakáže šifry.
 policy-DefaultDownloadDirectory = Nastaví predvolené umiestnenie pre preberanie súborov.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
 policy-DisableBuiltinPDFViewer = Zablokuje PDF prehliadač PDF.js zabudovaný v aplikácii { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Zabráni agentovi Default browser vykonávať akékoľvek činnosti. Platí len pre Windows; iné platformy nemajú agenta Default browser.
 policy-DisableDeveloperTools = Zablokuje prístup k vývojárskym nástrojom.
 policy-DisableFeedbackCommands = Zablokuje možnosť odoslať spätnú väzbu z ponuky Pomocník (možnosti Odoslať spätnú väzbu a Nahlásenie podvodnej stránky).
 policy-DisableFirefoxAccounts = Vypne funkcie súvisiace s účtom { -fxaccount-brand-name }, vrátane synchronizácie.
@@ -73,11 +74,15 @@ policy-LegacyProfiles = Vypne funkciu, ktorá vynucuje samostatný profil pre ka
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Povolí zastarané predvolené nastavenie správania cookies SameSite.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Povolí zastarané predvolené nastavenie správania cookies SameSite pre uvedené servery.
 
 ##
 
 policy-LocalFileLinks = Povolí určitým webovým stránkam odkazovať na súbory uložené na pevnom disku.
+policy-ManagedBookmarks = Konfiguruje zoznam záložiek spravovaný správcom, ktoré používateľ nemôže zmeniť.
 policy-MasterPassword = Vyžadovanie alebo zabránenie používania hlavného hesla.
+policy-ManualAppUpdateOnly = Povolí iba manuálne aktualizácie a neinformuje používateľa o aktualizáciách.
 policy-PrimaryPassword = Vyžadovanie alebo zabránenie používania hlavného hesla.
 policy-NetworkPrediction = Povolí alebo zakáže prednačítavanie DNS (prefetching).
 policy-NewTabPage = Povolí alebo zakáže stránku novej karty.
