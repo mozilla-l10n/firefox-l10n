@@ -303,6 +303,8 @@ identity-https-only-info-turn-off2 = Ak sa zdá byť stránka nefunkčná, možn
 identity-https-only-info-no-upgrade = Nepodarilo sa zmeniť pripojenie z protokolu HTTP.
 identity-permissions =
     .value = Povolenia
+identity-permissions-storage-access-header = Cookies tretích strán
+identity-permissions-storage-access-hint = Tieto weby môžu používať cookies tretích strán a počas návštevy tejto stránky pristupovať k údajom z nej.
 identity-permissions-reload-hint = Pre vykonanie zmien budete možno musieť stránku obnoviť.
 identity-permissions-empty = Tejto stránke ste neurčili žiadne špeciálne povolenia.
 identity-clear-site-data =
@@ -353,6 +355,8 @@ browser-tab-audio-playing2 = PREHRÁVA SA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = STLMENÉ
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMATICKÉ PREHRÁVANIE ZABLOKOVANÉ
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = OBRAZ V OBRAZE
 
 ## Bookmarks toolbar items
@@ -360,6 +364,7 @@ browser-tab-audio-pip = OBRAZ V OBRAZE
 browser-import-button2 =
     .label = Importovať záložky…
     .tooltiptext = Importovať záložky z iného prehliadača do aplikácie { -brand-short-name }
+bookmarks-toolbar-empty-message = Ak chcete mať rýchly prístup k záložkám, umiestnite ich sem na panel záložiek. <a data-l10n-name="manage-bookmarks">Spravovať záložky...</a>
 
 ## WebRTC Pop-up notifications
 
@@ -500,11 +505,18 @@ urlbar-result-action-before-tabtosearch-other = Stlačením klávesu Tab vyhľad
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = Hľadajte pomocou { $engine } priamo z panela s adresou
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Hľadajte pomocou { $engine } priamo z panela s adresou
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Hľadať v záložkách
+urlbar-result-action-search-history = Hľadať v histórii
+urlbar-result-action-search-tabs = Hľadať v otvorených kartách
 
 ## Full Screen and Pointer Lock UI
 
@@ -524,6 +536,7 @@ pointerlock-warning-no-domain = Tento dokument má kontrolu nad vaším kurzorom
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Časť tejto stránky zlyhala.</strong> Ak chcete, aby sa spoločnosť { -brand-product-name } dozvedela o tomto probléme a tento mohol byť rýchlejšie vyriešený, odošlite hlásenie.
 crashed-subframe-learnmore =
     .label = Ďalšie informácie
     .accesskey = l
