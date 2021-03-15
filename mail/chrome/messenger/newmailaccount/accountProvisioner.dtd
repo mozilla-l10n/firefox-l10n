@@ -39,5 +39,5 @@
 <!ENTITY input.namePlaceholder "Via nomo aŭ kaŝnomo">
 <!ENTITY input.search "Serĉi">
 <!ENTITY search_engine.title "Personecigi serĉilon">
-<!ENTITY search_engine.message "Your email provider can also provide you with web search capabilities.">
-<!ENTITY search_engine.button "Finish">
+<!ENTITY search_engine.message "Via retpoŝt‑provizanto ankaŭ povas liveri serĉilon.">
+<!ENTITY search_engine.button "Fini">
