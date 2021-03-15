@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
 popup-select-microphone-device =
     .value = Mikrofon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = Alle synlige vinduer på skjermen vil deles.
 popup-screen-sharing-not-now =
     .label = Ikke nå
@@ -640,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Behandle innstillinger
 eme-notifications-drm-content-playing-manage-accesskey = B
 eme-notifications-drm-content-playing-dismiss = Ignorer
 eme-notifications-drm-content-playing-dismiss-accesskey = I
+
+## Password save/update panel
+
+panel-save-update-username = Brukernavn
+panel-save-update-password = Passord
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Fjern { $name }?
+addon-removal-abuse-report-checkbox = Rapporter denne utvidelsen til { -vendor-short-name }
