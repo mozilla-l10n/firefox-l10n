@@ -22,14 +22,14 @@
 <!ENTITY success.title.before "Saluton ">
 <!ENTITY success.title.after ", la jenaj retpoŝtaj adresoj estas disponeblaj:">
 <!ENTITY success.tip "(provu enigi aliajn kaŝnomojn aŭ vortojn por trovi pliajn disponeblajn retpoŝtajn adresojn)">
-<!ENTITY partnership.description "In partnership with several providers, &brandShortName; can offer you a new email account. Just fill in your first and last name, or any other words you'd like, in the fields above to get started.">
-<!ENTITY existing.header "Already have an address you want to use?">
-<!ENTITY tinyheader.title "Got an address?">
-<!ENTITY tinyheader.existing "Skip this and use my existing email">
-<!ENTITY content.close "I think I'll configure my account later.">
-<!ENTITY successful.title "Congratulations!">
-<!ENTITY successful.successMessage "You have successfully set up your account.">
-<!ENTITY successful.write "Write some email">
+<!ENTITY partnership.description "Kunlaborante kun kelkaj retpoŝt‑provizantoj, la programo &brandShortName; povas helpi vin pri krei novan retpoŝtan konton. Necesas nur enigi vian nomon, kaŝnomon aŭ iun ajn vorton en la supran kampon por serĉi disponeblajn adresojn.">
+<!ENTITY existing.header "Ĉu vi jam havas retpoŝtan adreson?">
+<!ENTITY tinyheader.title "Ĉu vi jam havas adreson?">
+<!ENTITY tinyheader.existing "Preterpasi kaj uzi ekzistan retpoŝtan adreson">
+<!ENTITY content.close "Agordi adreson poste">
+<!ENTITY successful.title "Gratulon!">
+<!ENTITY successful.successMessage "Vi sukcese agordis vian retpoŝtan konton.">
+<!ENTITY successful.write "Sendi retleteron">
 <!ENTITY successful.write.desc "Let your friends and family know about your new address.<br/> That's why you got this new account, isn't it?">
 <!ENTITY successful.customize "Customize &brandShortName; with some cool add-ons">
 <!ENTITY successful.customize.desc "There are thousands of add-ons that let you customize &brandShortName; to make it fit your specific needs.">
