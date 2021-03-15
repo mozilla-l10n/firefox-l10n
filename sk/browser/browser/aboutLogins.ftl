@@ -352,11 +352,11 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Duplicitné prihlasovacie údaje</div><div data-l10n-name="not-imported">(neboli importované)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Duplicitné údaje</div><div data-l10n-name="not-imported">(neimportované)</div>
     }
 about-logins-import-report-error =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Chyby</div><div data-l10n-name="not-imported">(neboli importované)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">Chyby</div><div data-l10n-name="not-imported">(neimportované)</div>
     }
 
 ## Logins import report page
