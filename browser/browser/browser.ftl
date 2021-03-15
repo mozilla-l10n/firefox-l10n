@@ -379,9 +379,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
 popup-select-microphone-device =
     .value = Mikrofon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = Svi vidljivi prozori na tvom ekranu će se dijeliti.
 popup-screen-sharing-not-now =
     .label = Ne sada
@@ -642,3 +646,15 @@ eme-notifications-drm-content-playing-manage = Upravljaj postavkama
 eme-notifications-drm-content-playing-manage-accesskey = m
 eme-notifications-drm-content-playing-dismiss = Odbaci
 eme-notifications-drm-content-playing-dismiss-accesskey = d
+
+## Password save/update panel
+
+panel-save-update-username = Korisničko ime
+panel-save-update-password = Lozinka
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Ukloniti { $name }?
+addon-removal-abuse-report-checkbox = Prijavi ovaj dodatak prodavaču { -vendor-short-name }
