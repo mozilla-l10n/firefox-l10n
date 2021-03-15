@@ -30,7 +30,9 @@
 
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Možda je uklonjena, premještena ili dozvole za datoteku spriječavaju pristup.</li> </ul>">
 
-<!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ovu stranicu nije moguće učitati.</p>">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; iz nekog razloga ne može učitati ovu stranicu.</p>
+">
 
 <!ENTITY captivePortal.title "Prijava na mrežu">
 <!ENTITY captivePortal.longDesc2 "<p>Za upotrebu interneta, moraš se najprije prijaviti na ovu mreži.</p>">
