@@ -9,6 +9,8 @@ about-rights-notification-text = { -brand-short-name } er programvare basert på
 folder-pane-toolbar =
     .toolbarname = Mappevisningsverktøylinje
     .accesskey = M
+folder-pane-toolbar-options-button =
+    .tooltiptext = Alternativer for mappepanelet
 folder-pane-header-label = Mapper
 
 ## Folder Toolbar Header Popup
