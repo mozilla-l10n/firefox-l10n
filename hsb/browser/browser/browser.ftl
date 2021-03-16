@@ -292,6 +292,8 @@ identity-passive-loaded = Dźěle tuteje strony wěste njejsu (na přikład wobr
 identity-active-loaded = Sće škit na tutej stronje znjemóžnił.
 identity-weak-encryption = Tuta strona słabe zaklučowanje wužiwa.
 identity-insecure-login-forms = Přizjewjenja, kotrež so na tutej stronje zapodawaja, móhli wohrožene być.
+identity-permissions =
+    .value = Prawa
 identity-https-only-connection-upgraded = (na HTTPS zaktualizowany)
 identity-https-only-label = Modus Jenož-HTTPS
 identity-https-only-dropdown-on =
@@ -303,8 +305,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Zmóžńće modus Jenož-HTTPS, jeli chceće, zo { -brand-short-name } zwisk aktualizuje, jeli móžno.
 identity-https-only-info-turn-off2 = Jeli so zda, zo strona je wobškodźena, chceće snano  modus Jenož-HTTPS za tute sydło znjemóžnić. zo byšće zaso njewěsty HTTP wužiwał.
 identity-https-only-info-no-upgrade = Zwisk njeda so z HTTP aktualizować.
-identity-permissions =
-    .value = Prawa
 identity-permissions-storage-access-header = Placki wjacorych sydłow
 identity-permissions-storage-access-hint = Tući wobdźěleni móža placki a sydłowe daty wjacorych sydłow wužiwać, mjeztym zo sće na tutym sydle.
 identity-permissions-reload-hint = Dyrbiće snano stronu znowa začitać, zo bychu so změny wuskutkowali.
@@ -352,8 +352,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Wothrawanje
-browser-tab-audio-muted = Zynk wupinany
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = HRAJE SO
 # This label should be written in all capital letters if your locale supports them.
@@ -362,6 +360,27 @@ browser-tab-audio-muted2 = NĚMY
 browser-tab-audio-blocked = AWTOMATISKE WOTHRAĆE ZABLOKOWANE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = WOBRAZ-WE-WOBRAZU
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] RAJTARK ZNĚMIĆ
+        [one] { $count } RAJTARK ZNĚMIĆ
+        [two] { $count } RAJTARKAJ ZNĚMIĆ
+        [few] { $count } RAJTARKI ZNĚMIĆ
+       *[other] { $count } RAJTARKOW ZNĚMIĆ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ZNĚMJENJE RAJTARKA ZBĚHNYĆ
+        [one] ZNĚMJENJE { $count } RAJTARKA ZBĚHNYĆ
+        [two] ZNĚMJENJE { $count } RAJTARKOW ZBĚHNYĆ
+        [few] ZNĚMJENJE { $count } RAJTARKOW ZBĚHNYĆ
+       *[other] ZNĚMJENJE { $count } RAJTARKOW ZBĚHNYĆ
+    }
 
 ## Bookmarks toolbar items
 
@@ -554,8 +573,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Wšě zapołožki pokazać
-bookmarks-recent-bookmarks =
-    .value = Njedawno jako zapołožka wotpołoženy
 bookmarks-manage-bookmarks =
     .label = Zapołožki rjadować
 bookmarks-recent-bookmarks-panel =
@@ -576,12 +593,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Bóčnicu zapołožkow schować
            *[other] Bóčnicu zapołožkow pokazać
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Lajstu zapołožkow schować
-           *[other] Lajstu zapołožkow pokazać
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -628,10 +639,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Zapołožki
-library-bookmarks-bookmark-this-page =
-    .label = Tutu stronu jako zapołožku składować
-library-bookmarks-bookmark-edit =
-    .label = Tutu zapołožku wobdźěłać
 library-recent-activity-title =
     .value = Najnowša aktiwita
 
