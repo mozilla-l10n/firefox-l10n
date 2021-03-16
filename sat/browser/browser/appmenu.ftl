@@ -28,11 +28,16 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
+## History panel
+
+
 ## Help panel
 
-appmenu-help-keyboard-shortcuts =
-    .label = का़ठी बोर्ड काटो तेयार
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = दिगधा़ हुयुगाक् ला़य सोदोर
     .accesskey = T
@@ -47,9 +52,13 @@ appmenu-help-safe-mode-without-addons =
     .label = एड-ऑन बाङ हुय होचो तेयार सांव दोहड़ा एहोब …
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 
-##
+## More Tools
 
