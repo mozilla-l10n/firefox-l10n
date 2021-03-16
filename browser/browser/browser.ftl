@@ -280,6 +280,8 @@ identity-passive-loaded = 此页面上部分内容不安全（例如图像）。
 identity-active-loaded = 您在此页面上已禁用保护。
 identity-weak-encryption = 此页面使用较弱加密。
 identity-insecure-login-forms = 在此网页上输入的登录信息可能会泄露。
+identity-permissions =
+    .value = 权限
 identity-https-only-connection-upgraded = （升级为 HTTPS）
 identity-https-only-label = HTTPS-Only 模式
 identity-https-only-dropdown-on =
@@ -291,8 +293,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = 若想要 { -brand-short-name } 尽可能升级为安全连接，请对此网站开启 HTTPS-Only 模式。
 identity-https-only-info-turn-off2 = 若页面看起来不正常，则可能需要对此网站关闭 HTTPS-Only 模式，使用不安全的 HTTP 重新载入。
 identity-https-only-info-no-upgrade = 无法将网站连接从 HTTP 升级。
-identity-permissions =
-    .value = 权限
 identity-permissions-storage-access-header = 跨网站 Cookie
 identity-permissions-storage-access-hint = 当您在此网站上时，以下各方可以使用跨网站 Cookie 和网站数据。
 identity-permissions-reload-hint = 您可能需要重新载入此页面以应用更改。
@@ -340,8 +340,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = 正在播放
-browser-tab-audio-muted = 静音
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = 正在播放
 # This label should be written in all capital letters if your locale supports them.
@@ -350,6 +348,26 @@ browser-tab-audio-muted2 = 静音
 browser-tab-audio-blocked = 已阻止自动播放
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = 画中画
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] 静音标签页
+       *[other] 静音 { $count } 个标签页
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] 取消静音标签页
+       *[other] 取消静音 { $count } 个标签页
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] 播放标签页
+       *[other] 播放 { $count } 个标签页
+    }
 
 ## Bookmarks toolbar items
 
@@ -542,8 +560,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = 管理所有书签
-bookmarks-recent-bookmarks =
-    .value = 最近的书签
 bookmarks-manage-bookmarks =
     .label = 管理书签
 bookmarks-recent-bookmarks-panel =
@@ -564,12 +580,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] 隐藏书签侧栏
            *[other] 显示书签侧栏
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] 隐藏书签工具栏
-           *[other] 查看书签工具栏
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -616,10 +626,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = 书签
-library-bookmarks-bookmark-this-page =
-    .label = 为此页添加书签
-library-bookmarks-bookmark-edit =
-    .label = 编辑此书签
 library-recent-activity-title =
     .value = 近期动态
 
