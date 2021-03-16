@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Şimdi eşitle
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Şimdi eşitle
-    .value = Şimdi eşitle
+appmenuitem-fxa-toolbar-sync-now2 = Şimdi eşitle
 appmenuitem-fxa-manage-account = Hesabı yönet
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +131,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } hakkında
     .accesskey = h
-appmenu-help-product =
-    .label = { -brand-shorter-name } yardımı
-    .accesskey = m
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } turu
-    .accesskey = u
-appmenu-help-import-from-another-browser =
-    .label = Başka bir tarayıcıdan içe aktar…
-    .accesskey = B
-appmenu-help-keyboard-shortcuts =
-    .label = Klavye kısayolları
-    .accesskey = K
 appmenu-get-help =
     .label = Yardım al
     .accesskey = Y
@@ -191,11 +177,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Bu site aldatıcı değil…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Güncellemeleri denetle…
 
 ## More Tools
 
