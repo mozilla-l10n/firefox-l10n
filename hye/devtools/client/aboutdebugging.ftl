@@ -103,7 +103,7 @@ about-debugging-setup-usb-status-enabled = Միացուած
 about-debugging-setup-usb-status-disabled = Անջատուած
 about-debugging-setup-usb-status-updating = Թարմացուում է…
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-dev-menu2 = Միացրէք մշակողի ցանկը Ձեր Android սարքում։
+about-debugging-setup-usb-step-enable-dev-menu2 = Միացնել մշակողի ցանկը Ձեր Android սարքում։
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = Միացնել USB վրիպազերծումը Android-ի Մշակման Ցանկում։
 # USB section step by step guide
