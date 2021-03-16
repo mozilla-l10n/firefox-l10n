@@ -288,6 +288,8 @@ identity-passive-loaded = A weboldal egyes részei nem biztonságosak (például
 identity-active-loaded = Kikapcsolta a védelmet ezen az oldalon.
 identity-weak-encryption = Ez az oldal gyenge titkosítást használ.
 identity-insecure-login-forms = Az oldalon megadott bejelentkezési adatok nincsenek biztonságban.
+identity-permissions =
+    .value = Engedélyek
 identity-https-only-connection-upgraded = (frissítve HTTPS-re)
 identity-https-only-label = Csak HTTPS mód
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Kapcsolja be a Csak HTTPS módot ezen az oldalon, ha azt akarja, hogy a { -brand-short-name } frissítse a kapcsolatot, ha lehetséges.
 identity-https-only-info-turn-off2 = Ha az oldal nem megfelelően működik, lehet ki kell kapcsolnia a Csak HTTPS módot az oldalon, hogy nem biztonságos HTTP-vel töltse újra.
 identity-https-only-info-no-upgrade = Nem lehet frissíteni a kapcsolatot HTTP-ről.
-identity-permissions =
-    .value = Engedélyek
 identity-permissions-storage-access-header = Webhelyek közötti sütik
 identity-permissions-storage-access-hint = Ezek a felek használhatják a webhelyek közötti sütiket és a webhely adatait, amíg Ön ezen a webhelyen tartózkodik.
 identity-permissions-reload-hint = Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Lejátszás
-browser-tab-audio-muted = Némítva
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = LEJÁTSZÁS
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,29 @@ browser-tab-audio-muted2 = NÉMÍTVA
 browser-tab-audio-blocked = AUTOMATIKUS LEJÁTSZÁS BLOKKOLVA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = KÉP A KÉPBEN
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] LAP NÉMÍTÁSA
+        [one] LAP NÉMÍTÁSA
+       *[other] { $count } LAP NÉMÍTÁSA
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] LAP VISSZAHANGOSÍTÁSA
+        [one] LAP VISSZAHANGOSÍTÁSA
+       *[other] { $count } LAP VISSZAHANGOSÍTÁSA
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] LAP LEJÁTSZÁSA
+        [one] LAP LEJÁTSZÁSA
+       *[other] { $count } LAP LEJÁTSZÁSA
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +571,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Minden könyvjelző megjelenítése
-bookmarks-recent-bookmarks =
-    .value = Nemrég könyvjelzőzött
 bookmarks-manage-bookmarks =
     .label = Könyvjelzők kezelése
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +591,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Könyvjelzők oldalsáv elrejtése
            *[other] Könyvjelzők oldalsáv megjelenítése
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Könyvjelző eszköztár elrejtése
-           *[other] Könyvjelző eszköztár megjelenítése
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +637,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Könyvjelzők
-library-bookmarks-bookmark-this-page =
-    .label = Oldal hozzáadása a könyvjelzőkhöz
-library-bookmarks-bookmark-edit =
-    .label = Könyvjelző szerkesztése
 library-recent-activity-title =
     .value = Friss tevékenység
 
