@@ -219,6 +219,8 @@ menu-bookmarks-show-all =
     .label = Lesezeichen verwalten
 menu-bookmark-this-page =
     .label = Lesezeichen hinzufügen
+menu-bookmark-current-tab =
+    .label = Aktuellen Tab als Lesezeichen hinzufügen
 menu-bookmark-edit =
     .label = Lesezeichen bearbeiten
 menu-bookmarks-all-tabs =
@@ -247,6 +249,9 @@ menu-tools-fxa-sign-in =
 menu-tools-extensions =
     .label = Erweiterungen und Themes
     .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Anmelden
+    .accesskey = m
 menu-tools-turn-on-sync =
     .label = { -sync-brand-short-name } aktivieren…
     .accesskey = n
@@ -271,6 +276,13 @@ menu-preferences =
             [windows] Einstellungen
            *[other] Einstellungen
         }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] E
+        }
+menu-settings =
+    .label = Einstellungen
     .accesskey =
         { PLATFORM() ->
             [windows] E
