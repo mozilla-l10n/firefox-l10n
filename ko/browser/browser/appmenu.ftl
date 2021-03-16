@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 지금 동기화
-appmenuitem-fxa-toolbar-sync-now =
-    .label = 지금 동기화
-    .value = 지금 동기화
 appmenuitem-fxa-manage-account = 계정 관리
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +132,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } 정보
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } 도움말
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } 둘러보기
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = 다른 브라우저에서 가져오기…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = 키보드 단축키
-    .accesskey = K
 appmenu-get-help =
     .label = 도움 받기
     .accesskey = H
@@ -193,11 +178,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = 이 사이트는 가짜 사이트가 아닙니다…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = 업데이트 확인…
 
 ## More Tools
 
