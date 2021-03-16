@@ -57,9 +57,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovat
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Synchronizovat
-    .value = Synchronizovat
+appmenuitem-fxa-toolbar-sync-now2 = Synchronizovat
 appmenuitem-fxa-manage-account = Správa účtu
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -145,30 +143,6 @@ appmenu-help-header =
 appmenu-about =
     .label = O aplikaci { -brand-shorter-name }
     .accesskey = O
-appmenu-help-product =
-    .label =
-        Nápověda { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "gen") }
-            [feminine] { -brand-shorter-name(case: "gen") }
-            [neuter] { -brand-shorter-name(case: "gen") }
-           *[other] aplikace { -brand-shorter-name }
-        }
-    .accesskey = N
-appmenu-help-show-tour =
-    .label =
-        Průvodce { -brand-shorter-name.gender ->
-            [masculine] { -brand-shorter-name(case: "ins") }
-            [feminine] { -brand-shorter-name(case: "ins") }
-            [neuter] { -brand-shorter-name(case: "ins") }
-           *[other] aplikací { -brand-shorter-name }
-        }
-    .accesskey = P
-appmenu-help-import-from-another-browser =
-    .label = Importovat z jiného prohlížeče…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Klávesové zkratky
-    .accesskey = K
 appmenu-get-help =
     .label = Získat pomoc
     .accesskey = p
@@ -215,11 +189,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Tato stránka není klamavá…
     .accesskey = l
-
-##
-
-appmenu-help-check-for-update =
-    .label = Zkontrolovat aktualizace…
 
 ## More Tools
 
