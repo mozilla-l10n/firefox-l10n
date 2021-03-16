@@ -51,7 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Szinkronizálás
-appmenuitem-fxa-toolbar-sync-now2 = Szinkronizálás
+appmenuitem-fxa-toolbar-sync-now2 = Szinkronizálás most
 appmenuitem-fxa-manage-account = Fiók kezelése
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }

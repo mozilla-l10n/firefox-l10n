@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Oldalszélesség
 printui-scale-pcent = Méret
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Kétoldalas nyomtatás
-printui-duplex-checkbox = Nyomtatás mindkét oldalra
 printui-two-sided-printing-off = Ki
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Átfordítás a lap hosszabb szélén
@@ -57,14 +56,19 @@ printui-margins-default = Alapértelmezett
 printui-margins-min = Minimális
 printui-margins-none = Egyik sem
 printui-margins-custom-inches = Egyéni (hüvelyk)
+printui-margins-custom-mm = Egyéni (mm)
 printui-margins-custom-top = Felső
 printui-margins-custom-top-inches = Felső (hüvelyk)
+printui-margins-custom-top-mm = Felül (mm)
 printui-margins-custom-bottom = Alsó
 printui-margins-custom-bottom-inches = Alsó (hüvelyk)
+printui-margins-custom-bottom-mm = Alul (mm)
 printui-margins-custom-left = Bal
 printui-margins-custom-left-inches = Bal (hüvelyk)
+printui-margins-custom-left-mm = Balra (mm)
 printui-margins-custom-right = Jobb
 printui-margins-custom-right-inches = Jobb (hüvelyk)
+printui-margins-custom-right-mm = Jobbra (mm)
 printui-system-dialog-link = Nyomtatás a rendszer párbeszédablakával…
 printui-primary-button = Nyomtatás
 printui-primary-button-save = Mentés

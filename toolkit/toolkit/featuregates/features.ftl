@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Az <a data-l10n-name="mdn-inputmode">inputmode</a> globális attribútum implementációját frissítettük <a data-l10n-name="whatwg">a WHATWG-specifikáció</a> alapján, de még más változásokra is szükség lesz, mint például az elérhetővé tételéhez „contenteditable” típusú tartalom esetén. További részletek az <a data-l10n-name="bugzilla">1205133-as számú hibában</a> találhatók.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = A <a data-l10n-name="link">&lt;link&gt;</a> elemen lévő, <code>"preload"</code> értékű <a data-l10n-name="rel">rel</a> attribútum arra szolgál, hogy teljesítménybeli javulást nyújtson azáltal, hogy az erőforrásokat hamarabb letölthesse az oldal életciklusában, biztosítva hogy korábban elérhetők legyenek, és kevésbe legyen valószínű, hogy blokkolják a lap megjelenítését. További részletekért olvassa el a <a data-l10n-name="readmore">„Preloading content with <code>rel="preload"</code>”</a> című leírást vagy lásd a <a data-l10n-name="bugzilla">1583604-es számú jegyet</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Lehetővé teszi, hogy a fókuszstílusok csak akkor legyenek alkalmazva az olyan elemeken, mint a gombok és űrlapvezérlők, amikor billentyűzettel kerülnek fókuszba (például tabulátorral történő váltáskor), de egér és más mutatóeszközökkel nem. További részletekért lásd a <a data-l10n-name="bugzilla">1617600-as számú hibát</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = A globális <a data-l10n-name="mdn-beforeinput">beforeinput</a> esemény <a data-l10n-name="mdn-input">&lt;input&gt;</a> és <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> elemeken tüzel, vagy bármilyen olyan elemen, amelyen engedélyezett a <a data-l10n-name="mdn-contenteditable">contenteditable</a> attribútum. Ez közvetlenül az elem értékének megváltozása előtt történik. Az esemény lehetővé teszi a webalkalmazásoknak, hogy felülírják a böngésző alapértelmezett viselkedését a felhasználói interakcióknál, például a webalkalmazások megszakíthatják a felhasználói bemenetet bizonyos karakterek esetén, vagy módosíthatják a beillesztett szöveg stílusát, a megengedett stílusoknak megfelelően.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = A <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> interfész konstruktorának hozzáadása, valamint a kapcsolódó módosítások lehetővé teszik az új stíluslapok létrehozását, anélkül hogy hozzá kellene tennie a lapot HTML-hez. Ez sokkal könnyebbé teszi az újrahasznosítható stíluslapok készítését a <a data-l10n-name="mdn-shadowdom">Shadow DOM-mal</a> történő használathoz. További részletekért lásd az <a data-l10n-name="bugzilla">1520690-es számú jegyet</a>
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = A „S
 experimental-features-abouthome-startup-cache =
     .label = about:home indítási gyorsítótár
 experimental-features-abouthome-startup-cache-description = Gyorsítótár a kezdeti about:home dokumentumhoz, amely alapértelmezés szerint betöltődik indításkor. A gyorsítótár célja az indítási teljesítmény javítása.
-experimental-features-print-preview-tab-modal =
-    .label = A nyomtatási kép újratervezése
-experimental-features-print-preview-tab-modal-description = Új nyomtatási képet vezet be, és elérhetővé teszi a nyomtatási képen macOS-en is. Ez potenciálisan törést okoz, és nem tartalmaz minden nyomtatással kapcsolatos beállítást. A nyomtatással kapcsolatos beállítások eléréséhez válassza a „Nyomtatás a rendszer párbeszédablakával…” lehetőséget a Nyomtatás panelen.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Enge
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC globális némítási kapcsolók
 experimental-features-webrtc-global-mute-toggles-description = Olyan vezérlőket ad a WebRTC globális megosztásjelzőhöz, amelyekkel a felhasználók globálisan elnémíthatják mikrofonjaikat és kameráikat.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k zárolás
+experimental-features-win32k-lockdown-description = Letiltja a Win32k API-k használatát a böngészőlapokban. Növeli a biztonságot, de jelenleg instabil vagy hibás lehet. (Csak Windows esetén)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
