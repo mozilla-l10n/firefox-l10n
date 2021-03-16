@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synka nu
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Synkronisera nu
-    .value = Synkronisera nu
+appmenuitem-fxa-toolbar-sync-now2 = Synkronisera nu
 appmenuitem-fxa-manage-account = Hantera konto
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
-appmenu-help-product =
-    .label = { -brand-shorter-name } Hjälp
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name }-guide
-    .accesskey = d
-appmenu-help-import-from-another-browser =
-    .label = Importera från en annan webbläsare…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Tangentbordskommandon
-    .accesskey = T
 appmenu-get-help =
     .label = Få hjälp
     .accesskey = h
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Detta är inte en vilseledande webbplats…
     .accesskey = v
-
-##
-
-appmenu-help-check-for-update =
-    .label = Sök efter uppdateringar…
 
 ## More Tools
 
