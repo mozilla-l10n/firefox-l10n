@@ -122,7 +122,10 @@ temporary-override = Temporal
 ## Add Security Exception dialog
 
 add-exception-invalid-header = Esti sitiu tenta d'identificase con información que nun ye válida.
+add-exception-domain-mismatch-short = Sitiu incorreutu
 add-exception-expired-short = Información ensin anovar
+add-exception-unverified-or-bad-signature-short = Identidá desconocida
+add-exception-valid-short = Certificáu válidu
 add-exception-valid-long = Esti sitiu forne una identificación válida y verificada.  Nun hai necesidá d'amestar una esceición.
 
 ## Certificate export "Save as" and error dialogs
