@@ -288,6 +288,8 @@ identity-passive-loaded = Teile dieser Seite sind nicht sicher (wie z.B. Grafike
 identity-active-loaded = Sie haben den Schutz für diese Seite deaktiviert.
 identity-weak-encryption = Diese Seite verwendet eine schwache Verschlüsselung.
 identity-insecure-login-forms = Ihre Zugangsdaten könnten auf dieser Seite in falsche Hände geraten.
+identity-permissions =
+    .value = Berechtigungen
 identity-https-only-connection-upgraded = (zu HTTPS geändert)
 identity-https-only-label = Nur-HTTPS-Modus
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Aktivieren Sie den Nur-HTTPS-Modus für diese Website, wenn { -brand-short-name } nach Möglichkeit über HTTPS verbinden soll.
 identity-https-only-info-turn-off2 = Wenn die Seite beschädigt erscheint, können Sie den Nur-HTTPS-Modus für diese Website deaktivieren, um mit nicht verschlüsseltem HTTP neu zu laden.
 identity-https-only-info-no-upgrade = Verbindung konnte nicht von HTTP geändert werden.
-identity-permissions =
-    .value = Berechtigungen
 identity-permissions-storage-access-header = Seitenübergreifende Cookies
 identity-permissions-storage-access-hint = Diese Beteiligten können Cookies und Website-Daten verwenden, während Sie sich auf dieser Website befinden.
 identity-permissions-reload-hint = Eventuell muss die Seite neu geladen werden, um die Änderungen zu übernehmen.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Wird abgespielt
-browser-tab-audio-muted = Stummgeschaltet
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = WIEDERGABE
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,16 @@ browser-tab-audio-muted2 = STUMMGESCHALTET
 browser-tab-audio-blocked = BLOCKIERUNG DER WIEDERGABE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BILD-IM-BILD
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] TAB STUMMSCHALTEN
+       *[other] { $count } TABS STUMMSCHALTEN
+    }
 
 ## Bookmarks toolbar items
 
@@ -549,8 +557,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Lesezeichen verwalten
-bookmarks-recent-bookmarks =
-    .value = Kürzlich als Lesezeichen gesetzt
 bookmarks-manage-bookmarks =
     .label = Lesezeichen verwalten
 bookmarks-recent-bookmarks-panel =
@@ -571,12 +577,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Lesezeichen-Sidebar schließen
            *[other] Lesezeichen-Sidebar anzeigen
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Lesezeichen-Symbolleiste ausblenden
-           *[other] Lesezeichen-Symbolleiste anzeigen
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -623,10 +623,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Lesezeichen
-library-bookmarks-bookmark-this-page =
-    .label = Lesezeichen hinzufügen
-library-bookmarks-bookmark-edit =
-    .label = Lesezeichen bearbeiten
 library-recent-activity-title =
     .value = Neueste Aktivität
 
