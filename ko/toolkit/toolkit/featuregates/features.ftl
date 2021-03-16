@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = <a data-l10n-name="mdn-inputmode">inputmode</a> 전역 속성 구현은 <a data-l10n-name="whatwg">WHATWG 사양</a>에 따라 업데이트되었습니다. 그러나 contenteditable 콘텐츠에서 사용할 수 있도록 하는 것과 같은 다른 변경도 여전히 필요합니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1205133</a>을 참고하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = <a data-l10n-name="link">&lt;link&gt;</a> 요소에서 <code>"preload"</code> 값을 가진 <a data-l10n-name="rel">rel</a> 속성은 페이지 수명 주기 초기에 리소스를 다운로드하여 리소스를 더 일찍 사용할 수 있게 하고 페이지 렌더링을 차단할 가능성을 줄임으로써 성능을 향상하는데 도움이 됩니다. 자세한 내용은 <a data-l10n-name="readmore">“<code>rel="preload"</code>를 사용하여 콘텐츠 사전로드”</a> 또는 <a data-l10n-name="bugzilla">bug 1583604</a>를 참고하세요.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = 마우스나 기타 포인팅 장치를 사용하여 포커스를 맞추지 않고 키보드를 사용하여 포커스를 맞춘 경우에만 (예: 요소 간 탭 이동) 포커스 스타일을 버튼 및 양식 컨트롤과 같은 요소에 적용합니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1617600</a>을 참고하세요.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = 전역 <a data-l10n-name="mdn-beforeinput">beforeinput</a> 이벤트는 요소의 값이 변경되기 직전에 <a data-l10n-name="mdn-input">&lt;input&gt;</a> 및 <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> 요소 또는 <a data-l10n-name="mdn-contenteditable">contenteditable</a> 속성이 활성화된 요소에서 발생합니다. 이 이벤트를 통해 웹 앱은 사용자 상호 작용에 대한 브라우저의 기본 동작을 재정의할 수 있습니다. 예를 들어 웹 앱은 특정 문자에 대해서만 사용자 입력을 취소하거나 승인된 스타일로만 붙여넣기 스타일의 텍스트를 수정할 수 있습니다.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> 인터페이스에 생성자를 추가하는 것뿐만 아니라 다양한 관련 변경으로 인해 시트를 HTML에 추가하지 않고도 새로운 스타일시트를 직접 만들 수 있습니다. 이를 통해 <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>과 함께 사용할 수 있는 재사용 가능한 스타일시트를 훨씬 쉽게 만들 수 있습니다. 자세한 내용은 <a data-l10n-name="bugzilla">bug 1520690</a>을 참고하세요.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = “Sam
 experimental-features-abouthome-startup-cache =
     .label = about:home 시작 캐시
 experimental-features-abouthome-startup-cache-description = 시작시 기본적으로 로드되는 초기 about:home 문서에 대한 캐시입니다. 캐시의 목적은 시작 성능을 향상시키는 것입니다.
-experimental-features-print-preview-tab-modal =
-    .label = 인쇄 미리보기 새 디자인
-experimental-features-print-preview-tab-modal-description = 새롭게 디자인된 인쇄 미리보기를 소개하고 macOS에서 인쇄 미리보기를 사용할 수 있도록 합니다. 이로 인해 손상이 발생할 수 있으며 인쇄 관련 설정이 모두 포함되어 있지는 않습니다. 모든 인쇄 관련 설정에 액세스하려면, 인쇄 패널에서 "시스템 대화 상자를 사용하여 인쇄…"를 선택하세요.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = 디�
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC 전역 음소거 설정/해제
 experimental-features-webrtc-global-mute-toggles-description = WebRTC 전역 공유 표시기에 컨트롤을 추가하여 사용자가 전역적으로 마이크 및 카메라 피드를 음소거 할 수 있습니다.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k 잠금
+experimental-features-win32k-lockdown-description = 브라우저 탭에서 Win32k API를 사용하지 않도록 합니다. 보안을 강화하지만 현재 불안정해지거나 문제가 생길 수 있습니다. (Windows 전용)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

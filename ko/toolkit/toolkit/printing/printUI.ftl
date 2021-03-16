@@ -37,7 +37,6 @@ printui-scale-fit-to-page-width = 페이지 너비에 맞추기
 printui-scale-pcent = 배율
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = 양면 인쇄
-printui-duplex-checkbox = 양쪽 면에 인쇄
 printui-two-sided-printing-off = 끄기
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = 긴 가장자리에서 뒤집기
@@ -56,14 +55,19 @@ printui-margins-default = 기본값
 printui-margins-min = 최소값
 printui-margins-none = 없음
 printui-margins-custom-inches = 사용자 정의 (인치)
+printui-margins-custom-mm = 사용자 지정 (mm)
 printui-margins-custom-top = 위쪽
 printui-margins-custom-top-inches = 위쪽 (인치)
+printui-margins-custom-top-mm = 위쪽 (mm)
 printui-margins-custom-bottom = 아래쪽
 printui-margins-custom-bottom-inches = 아래쪽 (인치)
+printui-margins-custom-bottom-mm = 아래쪽 (mm)
 printui-margins-custom-left = 왼쪽
 printui-margins-custom-left-inches = 왼쪽 (인치)
+printui-margins-custom-left-mm = 왼쪽 (mm)
 printui-margins-custom-right = 오른쪽
 printui-margins-custom-right-inches = 오른쪽 (인치)
+printui-margins-custom-right-mm = 오른쪽 (mm)
 printui-system-dialog-link = 시스템 대화 상자를 사용하여 인쇄…
 printui-primary-button = 인쇄
 printui-primary-button-save = 저장
