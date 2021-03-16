@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Tixim Wakami
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Tixim Wakami
-    .value = Tixim Wakami
+appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Chi rij ri { -brand-shorter-name }
     .accesskey = C
-appmenu-help-product =
-    .label = { -brand-shorter-name } To'ïk
-    .accesskey = T
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } B'enam
-    .accesskey = n
-appmenu-help-import-from-another-browser =
-    .label = Tijik' pa Jun Chik Okik'amaya'l…
-    .accesskey = j
-appmenu-help-keyboard-shortcuts =
-    .label = Ruq'a' rub'ey Keyboard
-    .accesskey = K
 appmenu-get-help =
     .label = Tik'ul To'ïk
     .accesskey = o
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Re re' man q'olonel ta chi ruxaq k'amaya'l…
     .accesskey = q
-
-##
-
-appmenu-help-check-for-update =
-    .label = Tinik'öx we e k'o K'exoj…
 
 ## More Tools
 
