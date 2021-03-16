@@ -51,6 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkronoi
+appmenuitem-fxa-toolbar-sync-now2 = Synkronoi nyt
 appmenuitem-fxa-manage-account = Hallinnoi tiliä
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
