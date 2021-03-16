@@ -49,18 +49,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = { -brand-shorter-name } Haqqında
     .accesskey = H
-appmenu-help-product =
-    .label = { -brand-shorter-name } Kömək
-    .accesskey = K
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } Tur
-    .accesskey = T
-appmenu-help-import-from-another-browser =
-    .label = Başqa səyyahdan idxal et…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Qısa Düymələr
-    .accesskey = Q
 appmenu-help-troubleshooting-info =
     .label = Problemlərin aradan qaldırılması üzrə məlumatlar
     .accesskey = P
@@ -82,6 +70,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Əlavələri aktiv edərək Yenidən başla
     .accesskey = Y
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -91,9 +83,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Bu aldadıcı sayt deyil…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
