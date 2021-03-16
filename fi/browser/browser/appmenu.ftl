@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkronoi
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Synkronoi nyt
-    .value = Synkronoi nyt
 appmenuitem-fxa-manage-account = Hallinnoi tiliä
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,26 +130,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
-appmenu-help-product =
-    .label =
-        { -brand-shorter-name.case-status ->
-            [with-cases] { -brand-shorter-name(case: "genitive") } ohje
-           *[no-cases] Ohjelman ohje
-        }
-    .accesskey = o
-appmenu-help-show-tour =
-    .label =
-        { -brand-shorter-name.case-status ->
-            [with-cases] { -brand-shorter-name(case: "genitive") } esittely
-           *[no-cases] Ohjelman esittely
-        }
-    .accesskey = e
-appmenu-help-import-from-another-browser =
-    .label = Tuo toisesta selaimesta…
-    .accesskey = s
-appmenu-help-keyboard-shortcuts =
-    .label = Näppäinkomennot
-    .accesskey = N
 appmenu-get-help =
     .label = Etsi ohjeita
     .accesskey = h
@@ -190,11 +167,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Tämä ei ole petollinen sivusto…
     .accesskey = p
-
-##
-
-appmenu-help-check-for-update =
-    .label = Tarkista päivitykset…
 
 ## More Tools
 
