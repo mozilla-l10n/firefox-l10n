@@ -1,22 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
-<!ENTITY places.library.title  "Librerie">
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Librarie">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organize">
 <!ENTITY organize.accesskey    "O">
-
+<!ENTITY organize.tooltip      "Organize i tiei segnelibris">
 
 <!ENTITY file.close.label               "Siere">
 <!ENTITY file.close.accesskey           "S">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Viodudis">
 <!ENTITY views.accesskey                "V">
-
-<!ENTITY view.columns.label             "Visualize colonis">
+<!ENTITY views.tooltip                  "Cambie la viodude">
+<!ENTITY view.columns.label             "Mostre colonis">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Met in ordin">
 <!ENTITY view.sort.accesskey            "o">
@@ -28,11 +28,6 @@
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 
-
-
-
-
-
 <!ENTITY cmd.backup.label               "Copie di backup…">
 <!ENTITY cmd.backup.accesskey           "b">
 <!ENTITY cmd.restore2.label             "Ripristine">
@@ -40,25 +35,19 @@
 <!ENTITY cmd.restoreFromFile.label      "Sielç il file…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
-
 <!ENTITY col.name.label          "Non">
 <!ENTITY col.tags.label          "Etichetis">
-
-
 <!ENTITY col.visitcount.label    "Tropis visitis">
 <!ENTITY col.dateadded.label     "Cuant zontât">
 <!ENTITY col.lastmodified.label  "Ultime modifiche">
-
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Impuarte e salve une copie di backup">
 <!ENTITY maintenance.accesskey  "I">
 
-
 <!ENTITY backButton.tooltip  "Torne indaûr">
 
 <!ENTITY forwardButton.tooltip  "Va indevant">
 
 <!ENTITY detailsPane.selectAnItemText.description "Sielç un ogjet par visualizâlu e modificâ lis sôs proprietâts">
-
