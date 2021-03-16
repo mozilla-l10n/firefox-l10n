@@ -112,18 +112,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
-appmenu-help-product =
-    .label = Axuda do { -brand-shorter-name }
-    .accesskey = x
-appmenu-help-show-tour =
-    .label = Visita guiada por { -brand-shorter-name }
-    .accesskey = V
-appmenu-help-import-from-another-browser =
-    .label = Importar doutro navegador…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Atallos de teclado
-    .accesskey = l
 appmenu-get-help =
     .label = Obter axuda
     .accesskey = a
@@ -148,6 +136,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Reiniciar cos complementos activados
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -157,11 +149,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Non é un sitio enganoso…
     .accesskey = g
-
-##
-
-appmenu-help-check-for-update =
-    .label = Buscar actualizacións…
 
 ## More Tools
 
