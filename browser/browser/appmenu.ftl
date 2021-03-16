@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronisar ussa
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Sincronisar ussa
-    .value = Sincronisar ussa
+appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
 appmenuitem-fxa-manage-account = Administrar il conto
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Davart { -brand-shorter-name }
     .accesskey = D
-appmenu-help-product =
-    .label = Agid da { -brand-shorter-name }
-    .accesskey = d
-appmenu-help-show-tour =
-    .label = Tura da { -brand-shorter-name }
-    .accesskey = u
-appmenu-help-import-from-another-browser =
-    .label = Importar dad in auter navigatur…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Scursanidas da tastas
-    .accesskey = c
 appmenu-get-help =
     .label = Ir per agid
     .accesskey = I
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Quai n'è betg ina website che engiona…
     .accesskey = e
-
-##
-
-appmenu-help-check-for-update =
-    .label = Tschertgar actualisaziuns…
 
 ## More Tools
 
