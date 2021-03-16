@@ -288,6 +288,8 @@ identity-passive-loaded = K'o man ütz ta taq ruch'akulal re ruxaq re' (achi'el 
 identity-active-loaded = Xachüp ruchajixik re ruxaq re'.
 identity-weak-encryption = Re ruxaq re' nrokisaj yamayïk chi suq'ch'ab'äl.
 identity-insecure-login-forms = Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.
+identity-permissions =
+    .value = Taq ya'oj q'ij
 identity-https-only-connection-upgraded = (xk'expa HTTPS)
 identity-https-only-label = HTTPS-Only B'anikil
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Tatzija' ri HTTPS-Only Rub'anikil pa re ruxaq re' we nawajo' chi ri { -brand-short-name } nujäl rik'in ri okem toq k'atzinel.
 identity-https-only-info-turn-off2 = We man nisamäj ta ütz ri ruxaq, rik'in jub'a' nawajo' nachüp ri HTTPS-Only Rub'anikil pa re ruxaq re', richin nisamajïx chik akuchi' nokisäx ri mejikïl HTTP.
 identity-https-only-info-no-upgrade = Man nitikïr ta nik'ex ri okem pa HTTP.
-identity-permissions =
-    .value = Taq ya'oj q'ij
 identity-permissions-storage-access-header = Kicookies xoch'in taq ruxaq
 identity-permissions-storage-access-hint = Re taq peraj re' yetikïr nikokisaj kikokies xoch'in taq ruxaq chuqa' kitzij taq ruxaq toq at k'o pa re ruxaq.
 identity-permissions-reload-hint = Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Nitzij
-browser-tab-audio-muted = Mem
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = Netz'an
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,29 @@ browser-tab-audio-muted2 = Mem
 browser-tab-audio-blocked = Q'ATON RUYON NITZIJ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] TIMEMÜR RUWI'
+        [one] TIMEMÜR RUWI'
+       *[other] KEMEMÜR { $count } TAQ RUWI'
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] TITZIJ  RUWI'
+        [one] TITZIJ RUWI'
+       *[other] KETZIJ { $count } TAQ RUWI'
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] TITZIJ RUWI'
+        [one] TITZIJ RUWI'
+       *[other] KETZIJ { $count } TAQ RUWI'
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +571,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Kek'ut konojel ri taq yaketal
-bookmarks-recent-bookmarks =
-    .value = K'a nimakol tiya' ketal
 bookmarks-manage-bookmarks =
     .label = Kenuk'samajïx Taq Yaketal
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +591,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Tewüx ri Ajxikin Kipas taq Yaketal
            *[other] Titz'et ri ajxikin kipas taq yaketal
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Tewüx ri Kikajtz'ik taq Yaketal
-           *[other] Titz'et rukatz'ik taq yaketal
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +637,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Taq yaketal
-library-bookmarks-bookmark-this-page =
-    .label = Titz'aqatisäx re ruxaq re' pa taq yaketal
-library-bookmarks-bookmark-edit =
-    .label = Tinuk' re yaketal re'
 library-recent-activity-title =
     .value = K'ak'a' Samaj
 
