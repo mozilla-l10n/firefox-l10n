@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkronkan Sekarang
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Sinkronkan Sekarang
-    .value = Sinkronkan Sekarang
 appmenuitem-fxa-manage-account = Kelola Akun
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +130,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Tentang { -brand-shorter-name }
     .accesskey = T
-appmenu-help-product =
-    .label = Bantuan { -brand-shorter-name }
-    .accesskey = B
-appmenu-help-show-tour =
-    .label = Tur { -brand-shorter-name }
-    .accesskey = u
-appmenu-help-import-from-another-browser =
-    .label = Impor dari Peramban Lain…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Pintasan Papan Ketik
-    .accesskey = K
 appmenu-get-help =
     .label = Dapatkan Bantuan
     .accesskey = D
@@ -191,11 +176,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ini bukan situs tipuan…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Periksa Versi Baru…
 
 ## More Tools
 
