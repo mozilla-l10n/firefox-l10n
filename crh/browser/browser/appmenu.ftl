@@ -43,15 +43,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = { -brand-shorter-name } Aqqında
     .accesskey = a
-appmenu-help-product =
-    .label = { -brand-shorter-name } Yardımı
-    .accesskey = Y
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } Turu
-    .accesskey = T
-appmenu-help-keyboard-shortcuts =
-    .label = Klavye Qısqayolları
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Arıza Qıdıruv Malümatı
     .accesskey = A
@@ -73,6 +64,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Eklentiler Qabilleştirilgen Keliş Kene Başlat
     .accesskey = K
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -82,9 +77,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Bu, yañıltıcı bir sayt degildir…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
