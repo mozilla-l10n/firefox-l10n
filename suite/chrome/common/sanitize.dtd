@@ -5,23 +5,37 @@
 <!ENTITY sanitizeDialog.title            "Személyes adatok törlése">
 <!ENTITY sanitizeItems.label             "A következő elemek azonnali törlése:">
 
-<!ENTITY itemHistory.label               "Böngészés előzményei">
+<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
+    pref-privatedata.dtd. These entities are also used in the private data
+    preferences dialog.
+-->
+<!ENTITY itemHistory.label               "Böngészési előzmények">
 <!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemHistoryS.accesskey          "g">
 <!ENTITY itemUrlBar.label                "Címsor előzményei">
-<!ENTITY itemUrlBar.accesskey            "l">
+<!ENTITY itemUrlBar.accesskey            "C">
+<!ENTITY itemUrlBarS.accesskey           "e">
 <!ENTITY itemDownloads.label             "Letöltési előzmények">
 <!ENTITY itemDownloads.accesskey         "L">
+<!ENTITY itemDownloadsS.accesskey        "l">
 <!ENTITY itemFormSearchHistory.label     "Mentett űrlapadatok és keresési előzmények">
 <!ENTITY itemFormSearchHistory.accesskey "M">
+<!ENTITY itemFormSearchHistoryS.accesskey "k">
 <!ENTITY itemCache.label                 "Gyorsítótár">
 <!ENTITY itemCache.accesskey             "G">
+<!ENTITY itemCacheS.accesskey            "s">
 <!ENTITY itemCookies.label               "Sütik">
 <!ENTITY itemCookies.accesskey           "S">
+<!ENTITY itemCookiesS.accesskey          "t">
 <!ENTITY itemOfflineApps.label           "Kapcsolat nélküli webhelyadatok">
-<!ENTITY itemOfflineApps.accesskey       "o">
-<!ENTITY itemPasswords.label             "Elmentett jelszavak">
-<!ENTITY itemPasswords.accesskey         "E">
+<!ENTITY itemOfflineApps.accesskey       "p">
+<!ENTITY itemOfflineAppsS.accesskey      "n">
+<!ENTITY itemPasswords.label             "Mentett jelszavak">
+<!ENTITY itemPasswords.accesskey         "j">
+<!ENTITY itemPasswordsS.accesskey        "v">
 <!ENTITY itemSessions.label              "Hitelesített munkamenetek">
 <!ENTITY itemSessions.accesskey          "H">
+
+<!ENTITY itemSessionsS.accesskey         "u">
 
 <!ENTITY sanitizeButton.label            "Személyes adatok törlése">
