@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 language-name-aa = Afar
+language-name-ach = Acholí
 language-name-ae = Avésticu
 language-name-af = Afrikaans
 language-name-ak = Akánicu
@@ -25,10 +26,12 @@ language-name-bo = Tibetanu
 language-name-br = Bretón
 language-name-bs = Bosniu
 language-name-ca = Catalán
+language-name-cak = Kakchikel
 language-name-ce = Checheniu
 language-name-ch = Chamorru
 language-name-co = Corsu
 language-name-cr = Cree
+language-name-crh = Tatar crimeanu
 language-name-cs = Checu
 language-name-csb = Kashubianu
 language-name-cu = Eslavu eclesiásticu
@@ -166,6 +169,7 @@ language-name-st = Sesothu, sur
 language-name-su = Sudanés
 language-name-sv = Suecu
 language-name-sw = Suaḥili
+language-name-szl = Silesiu
 language-name-ta = Tamil
 language-name-te = Telugu
 language-name-tg = Tajiku
@@ -178,6 +182,7 @@ language-name-tlh = Klingon
 language-name-tn = Tswana
 language-name-to = Tonga
 language-name-tr = Turcu
+language-name-trs = Triqui
 language-name-ts = Tsonga
 language-name-tt = Tátaru
 language-name-tw = Twi
