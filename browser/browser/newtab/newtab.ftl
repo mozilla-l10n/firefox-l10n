@@ -8,6 +8,9 @@
 newtab-page-title = لسان جديد
 newtab-settings-button =
     .title = خصص صفحة اللسان الجديد
+newtab-personalize-button-label = خصّص
+    .title = خصّص صفحة اللسان الجديد
+    .aria-label = خصّص صفحة اللسان الجديد
 
 ## Search box component.
 
@@ -20,12 +23,18 @@ newtab-search-box-search-the-web-input =
     .placeholder = ابحث في الوِب
     .title = ابحث في الوِب
     .aria-label = ابحث في الوِب
+newtab-search-box-text = ابحث في الوِب
+newtab-search-box-input =
+    .placeholder = ابحث في الوِب
+    .aria-label = ابحث في الوِب
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = أضِف محرك بحث
 newtab-topsites-add-topsites-header = موقع شائع جديد
+newtab-topsites-add-shortcut-header = اختصار جديد
 newtab-topsites-edit-topsites-header = حرّر الموقع الشائع
+newtab-topsites-edit-shortcut-header = حرّر الاختصار
 newtab-topsites-title-label = العنوان
 newtab-topsites-title-input =
     .placeholder = أدخل عنوانًا
@@ -53,6 +62,7 @@ newtab-confirm-delete-history-p2 = لا يمكن التراجع عن هذا ال
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = نتيجة مموّلة
 
 ## Context Menu - Action Tooltips.
 
@@ -166,6 +176,7 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = المواقع الأكثر زيارة
 newtab-section-header-highlights = أهم الأحداث
+newtab-section-header-recent-activity = أحدث الأنشطة
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = ينصح به { $provider }
@@ -204,6 +215,7 @@ newtab-error-fallback-refresh-link = أنعِش الصفحة لإعادة الم
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = الاختصارات
 newtab-custom-row-selector =
     { $num ->
         [zero] ما من صفوف
@@ -213,3 +225,14 @@ newtab-custom-row-selector =
         [many] { $num } صفًا
        *[other] { $num } صف
     }
+newtab-custom-sponsored-sites = الاختصارات الممولة
+newtab-custom-pocket-sponsored = قصص مموّلة
+newtab-custom-recent-title = أحدث الأنشطة
+newtab-custom-close-button = أغلِق
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+newtab-custom-snippets-title = المقتطفات
+newtab-custom-snippets-subtitle = فوائد وأخبار من { -vendor-short-name } و{ -brand-product-name }
+newtab-custom-settings = أدِر المزيد من الإعدادات
