@@ -40,20 +40,14 @@ whatsnew-panel-header = मा गोदान
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } मदद नांगौ
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } दावबायनाय
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = गाहाय सोदोब शर्टकाट
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = जेंना बोस्रांनाय फोरमायथिहोग्रा
     .accesskey = T
@@ -73,6 +67,10 @@ appmenu-help-safe-mode-with-addons =
     .label = मावथि खालामनाय Add-ons जों जागाय
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -80,5 +78,5 @@ appmenu-help-not-deceptive =
     .label = बे जायगाया गाजि् जानाय नंआ
     .accesskey = ज
 
-##
+## More Tools
 
