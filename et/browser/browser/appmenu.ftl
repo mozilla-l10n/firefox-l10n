@@ -56,15 +56,6 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = { -brand-shorter-name }i teave
     .accesskey = e
-appmenu-help-product =
-    .label = { -brand-shorter-name }i käsiraamat
-    .accesskey = k
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name }i ringkäik
-    .accesskey = r
-appmenu-help-keyboard-shortcuts =
-    .label = Kiirklahvid
-    .accesskey = i
 appmenu-help-troubleshooting-info =
     .label = Probleemide lahendamise teave
     .accesskey = P
@@ -86,6 +77,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Taaskäivita koos lisade lubamisega
     .accesskey = T
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -95,9 +90,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = See ei ole veebivõltsing…
     .accesskey = b
-
-##
-
 
 ## More Tools
 
