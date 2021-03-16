@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Қазір синхрондау
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Қазір синхрондау
-    .value = Қазір синхрондау
+appmenuitem-fxa-toolbar-sync-now2 = Қазір синхрондау
 appmenuitem-fxa-manage-account = Тіркелгіні басқару
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } туралы
     .accesskey = а
-appmenu-help-product =
-    .label = { -brand-shorter-name } көмегі
-    .accesskey = к
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } ішіне cаяхат
-    .accesskey = я
-appmenu-help-import-from-another-browser =
-    .label = Басқа браузерден импорттау…
-    .accesskey = и
-appmenu-help-keyboard-shortcuts =
-    .label = Пернетақта жарлықтары
-    .accesskey = е
 appmenu-get-help =
     .label = Көмек алу
     .accesskey = м
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Бұл фишингті сайт емес…
     .accesskey = ш
-
-##
-
-appmenu-help-check-for-update =
-    .label = Жаңартуларды тексеру…
 
 ## More Tools
 
