@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = No syngronisearje
-appmenuitem-fxa-toolbar-sync-now =
-    .label = No syngronisearje
-    .value = No syngronisearje
+appmenuitem-fxa-toolbar-sync-now2 = No syngronisearje
 appmenuitem-fxa-manage-account = Account beheare
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Oer { -brand-shorter-name }
     .accesskey = O
-appmenu-help-product =
-    .label = { -brand-shorter-name } Help
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name }-toer
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Ymportearje fan in oare browser út…
-    .accesskey = Y
-appmenu-help-keyboard-shortcuts =
-    .label = Fluchtoetsen
-    .accesskey = t
 appmenu-get-help =
     .label = Help krije
     .accesskey = H
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Dit is gjin misliedende website…
     .accesskey = m
-
-##
-
-appmenu-help-check-for-update =
-    .label = Kontrolearje op fernijingen…
 
 ## More Tools
 
