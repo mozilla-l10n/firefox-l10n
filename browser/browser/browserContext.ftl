@@ -236,7 +236,7 @@ main-context-menu-media-pip =
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
-    .label = Tonton dalam format Gambar-dalam-Gambar
+    .label = Tonton dalam Format Gambar-dalam-Gambar
     .accesskey = G
 main-context-menu-image-reload =
     .label = Muat Ulang Gambar
@@ -302,7 +302,7 @@ main-context-menu-video-image-save-as =
     .label = Simpan Cuplikan dengan Nama…
     .accesskey = S
 main-context-menu-video-take-snapshot =
-    .label = Ambil Potret Diam…
+    .label = Ambil Tangkapan Gambar Diam…
     .accesskey = A
 main-context-menu-video-email =
     .label = Surelkan Video…
