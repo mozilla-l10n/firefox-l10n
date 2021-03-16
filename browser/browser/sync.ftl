@@ -20,3 +20,4 @@ fxa-signout-dialog =
     .title = Afmelden bij { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Afmelden
+fxa-signout-dialog2-button = Afmelden
