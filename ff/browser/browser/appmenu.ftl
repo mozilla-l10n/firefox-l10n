@@ -48,18 +48,6 @@ whatsnew-panel-header = Ko Hesɗi
 appmenu-about =
     .label = Baɗte { -brand-shorter-name }
     .accesskey = B
-appmenu-help-product =
-    .label = Ballal { -brand-shorter-name }
-    .accesskey = B
-appmenu-help-show-tour =
-    .label = Njillu { -brand-shorter-name }
-    .accesskey = N
-appmenu-help-import-from-another-browser =
-    .label = Jiggo Keɓe iwde e Wanngorde Woɗnde…
-    .accesskey = J
-appmenu-help-keyboard-shortcuts =
-    .label = Codorɗe Tappirde
-    .accesskey = C
 appmenu-help-troubleshooting-info =
     .label = Humpito Ñawndugol Caɗeele
     .accesskey = H
@@ -81,6 +69,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Hurmitin tawa Ɓeyditte ena Ndaaƴtaa…
     .accesskey = H
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -90,9 +82,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ɗum wonaa lowre fuuntoore…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
