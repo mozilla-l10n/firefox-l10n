@@ -15,7 +15,7 @@ error-title-text = Ողջո՛յն, Մարդիկ։
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Մենք եկել ենք այցելութեան խաղաղութեամբ եւ բարեմաղթանքներով։
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = Ռոբոտը չի կարող վնասել մարդուն կամ թոյլ տալ, որ դա տեղի ունենայ։
+error-long-desc1 = Ռոբոտը չի կարող վնասել մարդուն իր անգործութեամբ թոյղ տալ, որ դա տեղի ունենայ։
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Ռոբոտները տեսել են բաներ, որոնց Դուք՝ մարդիկ, երբեք չեք հաւատա։
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
