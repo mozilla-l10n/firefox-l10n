@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = התאמה לרוחב העמוד
 printui-scale-pcent = קנה מידה
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = הדפסה דו־צדדית
-printui-duplex-checkbox = הדפסה בשני הצדדים
 printui-two-sided-printing-off = כבויה
 # Section title for miscellaneous print options
 printui-options = אפשרויות
@@ -53,14 +52,19 @@ printui-margins-default = ברירת מחדל
 printui-margins-min = מינימום
 printui-margins-none = ללא
 printui-margins-custom-inches = התאמה אישית (אינצ'ים)
+printui-margins-custom-mm = מותאם אישית (מ״מ)
 printui-margins-custom-top = מלמעלה
 printui-margins-custom-top-inches = מלמעלה (אינצ'ים)
+printui-margins-custom-top-mm = מלמעלה (מ״מ)
 printui-margins-custom-bottom = מלמטה
 printui-margins-custom-bottom-inches = מלמטה (אינצ'ים)
+printui-margins-custom-bottom-mm = מלמטה (מ״מ)
 printui-margins-custom-left = משמאל
 printui-margins-custom-left-inches = משמאל (אינצ'ים)
+printui-margins-custom-left-mm = משמאל (מ״מ)
 printui-margins-custom-right = מימין
 printui-margins-custom-right-inches = מימין (אינצ'ים)
+printui-margins-custom-right-mm = מימין (מ״מ)
 printui-system-dialog-link = הדפסה באמצעות תיבת הדו־שיח של המערכת…
 printui-primary-button = הדפסה
 printui-primary-button-save = שמירה
