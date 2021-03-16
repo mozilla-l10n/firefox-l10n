@@ -14,6 +14,7 @@ policy-3rdparty = Afita les polítiques a les que WebExtensions pue acceder per 
 policy-AppAutoUpdate = Des/activa l'anovamientu automáticu de l'aplicación.
 policy-AppUpdateURL = Afita una URL d'anovamientu personalizada.
 policy-Authentication = Configura l'autenticación integrada pa los sitios web que la sofiten.
+policy-BackgroundAppUpdate = Des/activa l'anovador en segundu planu qu'anueva'l restolador cuando nun ta n'execución.
 policy-BlockAboutAddons = Bloquia l'accesu al xestor de complementos (about:addons).
 policy-BlockAboutConfig = Bloquia l'accesu a la páxina «about:config».
 policy-BlockAboutProfiles = Bloquia l'accesu a la páxina «about:profiles».
