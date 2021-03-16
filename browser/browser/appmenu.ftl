@@ -106,18 +106,6 @@ appmenu-help-header =
 appmenu-about =
     .label = عن { -brand-shorter-name }
     .accesskey = ع
-appmenu-help-product =
-    .label = مساعدة { -brand-shorter-name }
-    .accesskey = س
-appmenu-help-show-tour =
-    .label = جولة في { -brand-shorter-name }
-    .accesskey = ل
-appmenu-help-import-from-another-browser =
-    .label = استورِد من متصفح آخر…
-    .accesskey = س
-appmenu-help-keyboard-shortcuts =
-    .label = اختصارات لوحة المفاتيح
-    .accesskey = خ
 appmenu-help-troubleshooting-info =
     .label = معلومات مواجهة الأعطال
     .accesskey = ط
@@ -139,6 +127,10 @@ appmenu-help-safe-mode-with-addons =
     .label = أعِد التشغيل مع تفعيل الإضافات
     .accesskey = ش
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -148,11 +140,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = هذا ليس موقعًا مخادعًا…
     .accesskey = خ
-
-##
-
-appmenu-help-check-for-update =
-    .label = التمس التحديثات…
 
 ## More Tools
 
