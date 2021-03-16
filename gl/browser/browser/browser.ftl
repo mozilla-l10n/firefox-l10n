@@ -367,6 +367,12 @@ browser-tab-mute =
         [one] SILENCIAR LAPELA
        *[other] SILENCIAR { $count } LAPELAS
     }
+browser-tab-unmute =
+    { $count ->
+        [1] ACTIVAR SON DA LAPELA
+        [one] ACTIVAR SON DE LAPELA
+       *[other] ACTIVAR SON DE { $count } LAPELAS
+    }
 browser-tab-unblock =
     { $count ->
         [1] REPRODUCIR LAPELA
@@ -646,6 +652,7 @@ eme-notifications-drm-content-playing = Algún son ou vídeo neste sitio usa sof
 eme-notifications-drm-content-playing-manage = Xestionar configuración
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Rexeitar
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 

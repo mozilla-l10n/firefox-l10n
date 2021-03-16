@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = Máis ferramentas
 appmenuitem-exit =
     .label = Saír
+appmenu-menu-button-closed =
+    .tooltiptext = Abrir menú da aplicación
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = Pechar menú da aplicación
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -49,6 +55,11 @@ appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Xestionar conta
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Última sincronización: { $time }
+    .label = Última sincronización: { $time }
 appmenu-fxa-sync-and-save-data =
     .value = Sincronizar e gardar datos
 appmenu-fxa-signed-in-label = Identificarse
