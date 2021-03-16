@@ -10,7 +10,7 @@
 <!ENTITY feedTitle.accesskey         "i">
 
 <!ENTITY feedLocation.label          "Ligilo de fluo:">
-<!ENTITY feedLocation.accesskey      "L">
+<!ENTITY feedLocation.accesskey      "g">
 <!ENTITY feedLocation2.placeholder   "Enigu ĝustan adreson de RSS-abonfluo">
 <!ENTITY locationValidate.label      "Validigi">
 <!ENTITY validateText.label          "Kontroli ĝustecon kaj akiri ĝustan ligilon de abonfluo.">
@@ -45,10 +45,10 @@
 <!ENTITY button.updateFeed.accesskey "d">
 <!ENTITY button.removeFeed.label     "Forigi">
 <!ENTITY button.removeFeed.accesskey "F">
-<!ENTITY button.importOPML.label     "Import">
-<!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label     "Export">
-<!ENTITY button.exportOPML.accesskey "X">
+<!ENTITY button.importOPML.label     "Enporti">
+<!ENTITY button.importOPML.accesskey "n">
+<!ENTITY button.exportOPML.label     "Elporti">
+<!ENTITY button.exportOPML.accesskey "l">
 <!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
 
 <!ENTITY cmd.close.commandKey        "w">
