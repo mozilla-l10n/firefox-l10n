@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = 我们已按照 <a data-l10n-name="whatwg">WHATWG</a> 规范，更新了 <a data-l10n-name="mdn-inputmode">inputmode</a> 全局属性的实现。注意，我们仍需进行其他修改，如使其在可编辑内容上可用。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1205133</a>。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = <a data-l10n-name="link">&lt;link&gt;</a> 元素的 <a data-l10n-name="rel">rel</a> 属性值<code>“preload”</code>，使得资源能够在页面生命周期中更早的进行加载并可用，以此提高性能，且更不易阻塞页面的渲染。欲详细了解，请参阅<a data-l10n-name="readmore">“Preloading content with <code>rel="preload"</code>”</a> 或 <a data-l10n-name="bugzilla">Bug 1583604</a>。
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS：:focus-visible 伪类
-experimental-features-css-focus-visible-description = 仅在使用键盘聚焦于按钮和表单控件等元素（例如：使用 Tab 键切换）时，允许聚焦样式生效。鼠标或其他指针设备则禁止。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1617600</a>。
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = 在 <a data-l10n-name="mdn-input">&lt;input&gt;</a>、<a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>，以及任何启用 <a data-l10n-name="mdn-contenteditable">contenteditable</a> 属性的元素的值变更前，会触发全局的的 <a data-l10n-name="mdn-beforeinput">beforeinput</a> 事件。此事件可让 Web 应用程序覆盖浏览器的默认用户交互行为（例如：应用程序可阻止用户输入某些特殊字符，或只允许以特定的样式修改粘贴的文本）。
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS：可构造样式表
 experimental-features-css-constructable-stylesheets-description = 在 <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> 接口加入构造函数，以及其他多项相关修改，让您可以直接新建样式表，而无需将其添加到 HTML 中。此特性可让您更容易地创建用于 <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> 的可重用样式表。欲详细了解，请参阅 <a data-l10n-name="bugzilla">Bug 1520690</a>。
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = 属性
 experimental-features-abouthome-startup-cache =
     .label = about:home 启动缓存
 experimental-features-abouthome-startup-cache-description = 缓存启动时默认加载的 about:home 初始文件，以提高启动性能。
-experimental-features-print-preview-tab-modal =
-    .label = 打印预览改版
-experimental-features-print-preview-tab-modal-description = 引入了重新设计的打印预览功能，并使其在 macOS 上也可用。该实验项可能不够稳定，且尚未包含完整的打印选项。若有后者需求，请点击打印面板中的“使用系统对话框打印...”。
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = 在�
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC 全局音视频输入开关
 experimental-features-webrtc-global-mute-toggles-description = 添加控件到 WebRTC 全局共享指示器中，让用户可以全局关闭麦克风和摄像头输入。
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k 锁定
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
