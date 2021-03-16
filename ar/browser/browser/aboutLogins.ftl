@@ -330,6 +330,8 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-done = تمّ
 about-logins-import-dialog-error-title = عُطل أثناء الاستيراد
+about-logins-import-dialog-error-conflicting-values-title = قيم متعارضة متعدّدة لجلسة ولوج واحدة
+about-logins-import-dialog-error-conflicting-values-description = على سبيل المثال: لجلسة الولوج أكثر من اسم مستخدم واحد، أو كلمة سر واحدة، أو عنوان واحد، إلخ.
 about-logins-import-dialog-error-file-format-title = مشكلة في نسق الملف
 about-logins-import-dialog-error-file-format-description = رؤوس الأعمدة إمّا خاطئة أو ناقصة. تأكّد من أن يحتوي الملف على أعمدة اسم المستخدم وكلمة السر وعنوان الموقع.
 about-logins-import-dialog-error-file-permission-title = تعذّرت قراءة الملف
@@ -340,6 +342,27 @@ about-logins-import-dialog-error-no-logins-imported = لم تُستورد أيّ
 about-logins-import-dialog-error-learn-more = اطّلع على المزيد
 about-logins-import-dialog-error-try-again = أعِد المحاولة…
 about-logins-import-dialog-error-cancel = ألغِ
+about-logins-import-report-title = ملخص الاستيراد
+about-logins-import-report-description = استوردت جلسات الولوج وكلمات السر إلى { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = صف { $number }
+about-logins-import-report-row-description-no-change = متكرّر: مطابقة تامة لجلسة ولوج موجودة
+about-logins-import-report-row-description-modified = حُدّثت جلسة الولوج الموجودة
+about-logins-import-report-row-description-added = أُضيفت جلسة ولوج جديدة
+about-logins-import-report-row-description-error = خطأ: حقل مفقود
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+about-logins-import-report-row-description-error-multiple-values = خطأ: أكثر من قيمة للحقل { $field }
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
