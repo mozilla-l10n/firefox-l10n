@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = დასინქრონება ახლავე
-appmenuitem-fxa-toolbar-sync-now =
-    .label = დასინქრონება ახლავე
-    .value = დასინქრონება ახლავე
+appmenuitem-fxa-toolbar-sync-now2 = დასინქრონება ახლავე
 appmenuitem-fxa-manage-account = ანგარიშის მართვა
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } შესახებ
     .accesskey = შ
-appmenu-help-product =
-    .label = { -brand-shorter-name } დახმარება
-    .accesskey = დ
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } გზამკვლევი
-    .accesskey = ზ
-appmenu-help-import-from-another-browser =
-    .label = გადმოტანა სხვა ბრაუზერიდან…
-    .accesskey = ტ
-appmenu-help-keyboard-shortcuts =
-    .label = კლავიატურის მალსახმობები
-    .accesskey = კ
 appmenu-get-help =
     .label = დახმარება
     .accesskey = დ
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = ეს თაღლითური საიტი არაა…
     .accesskey = ე
-
-##
-
-appmenu-help-check-for-update =
-    .label = შემოწმება განახლებებზე…
 
 ## More Tools
 
