@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "메뉴 열기">
+
 <!ENTITY navbarOverflow.label                "도구 더보기…">
 
 <!-- Tab context menu -->
@@ -106,7 +107,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY bookmarksSubview.label             "북마크">
 <!ENTITY bookmarksMenuButton2.label         "북마크 메뉴">
-<!ENTITY bookmarksMenuButton.other.label    "다른 북마크">
+<!ENTITY bookmarksMenuButton.other.label    "기타 북마크">
 <!ENTITY bookmarksMenuButton.mobile.label   "모바일 북마크">
 <!ENTITY viewBookmarksSidebar2.label        "북마크 탐색창 보기">
 <!ENTITY hideBookmarksSidebar.label         "북마크 탐색창 숨기기">
@@ -144,6 +145,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "최근에 닫은 창">
 
 <!ENTITY appMenuHistory.showAll.label "모든 기록 보기">
+
 <!ENTITY appMenuHistory.clearRecent.label "최근 기록 지우기…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
 <!ENTITY appMenuHistory.viewSidebar.label "기록 탐색창 보기">
@@ -158,6 +160,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "더보기">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "이 기기의 탭 더 보기">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -216,6 +220,9 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "페이지를 Pocket에 저장">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Pocket 목록 보기">
 
 <!ENTITY emailPageCmd.label           "메일로 링크 보내기…">

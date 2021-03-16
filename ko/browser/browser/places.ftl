@@ -99,7 +99,7 @@ managed-bookmarks-subfolder =
     .label = 하위 폴더
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
-    .label = 다른 북마크
+    .label = 기타 북마크
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-remove-bookmark =
