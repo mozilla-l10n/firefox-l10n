@@ -44,15 +44,6 @@ whatsnew-panel-header = புதியவை என்ன
 appmenu-about =
     .label = { -brand-shorter-name } பற்றி
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } உதவி
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } செயல்முறை விளக்கம்
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = விசைப்பலகை குறுக்கு வழிகள்
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = பிழைத்திருத்தல் தகவல்
     .accesskey = T
@@ -72,6 +63,10 @@ appmenu-help-safe-mode-with-addons =
     .label = நிரலை நீக்கியபின் மீட்துவக்கு…
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -81,9 +76,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = இது ஓர் ஏமாற்று தளம் அல்ல
     .accesskey = d
-
-##
-
 
 ## More Tools
 
