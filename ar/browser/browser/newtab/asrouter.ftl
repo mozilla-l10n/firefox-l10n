@@ -138,6 +138,9 @@ cfr-whatsnew-lockwise-take-link-text = نزّل التطبيق
 
 cfr-whatsnew-searchbar-title = مع شريط العنوان، قلّل الكتابة وخُذ نتائج أكثر
 cfr-whatsnew-searchbar-body-topsites = ما عليك الآن إلا نقر شريط العنوان وسترى مربّعا فيه روابط تنقلك إلى أكثر المواقع زيارة.
+
+## Search bar
+
 cfr-whatsnew-searchbar-icon-alt-text = أيقونة المكبّرة
 
 ## Picture-in-Picture
@@ -231,8 +234,6 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = اعرض الكل
     .accesskey = ع
-cfr-doorhanger-milestone-close-button = أغلِق
-    .accesskey = غ
 
 ## What’s New Panel Content for Firefox 76
 
@@ -257,6 +258,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = أيقونة الڤديو المعترِ�
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = أغلِق
+    .accesskey = غ
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = كل أمور الحماية، في لمحة سريعة
 cfr-whatsnew-protections-body = تشمل لوحة معلومات الحماية تقارير تلخّص تسرّب البيانات وإدارة كلمات السر. يمكنك الآن مراقبة التسريبات التي استجبت إليها، وإن ظهرت إحدى كلمات السر المحفوظة التي تستعمل في إحدى تسريبات البيانات.
 cfr-whatsnew-protections-cta-link = اعرض لوحة معلومات الحماية
@@ -272,6 +279,8 @@ cfr-whatsnew-better-pdf-body = تفتح مستندات PDF الآن مباشرة
 cfr-doorhanger-doh-body = خصوصيّتك فوق كل شيء. بات { -brand-short-name } يوجّه كل طلبات DNS التي تُجريها (متى كان ممكنًا) إلى خدمة شريكة، ذلك لحمايتك وأنت تتصفّح.
 cfr-doorhanger-doh-header = عمليات بحث DNS أكثر أمانًا وتعميةً
 cfr-doorhanger-doh-primary-button = حسنًا، فهمت
+    .accesskey = ح
+cfr-doorhanger-doh-primary-button-2 = حسنا
     .accesskey = ح
 cfr-doorhanger-doh-secondary-button = عطّل
     .accesskey = ط
@@ -301,3 +310,12 @@ cfr-whatsnew-media-keys-button = اطّلع على المزيد
 
 cfr-whatsnew-search-shortcuts-header = اختصارات البحث في شريط العنوان
 cfr-whatsnew-search-shortcuts-body = سيظهر الآن (متى كتبت اسم محرّك بحث أو موقع معيّن في شريط العنوان) اختصارًا أزرقًا في مربع اقتراحات البحث أسفل الشريط. اختر الاختصار لتُواصل البحث مباشرةً من شريط العنوان دون مغادرته.
+
+## What's new: Cookies protection
+
+
+## What's new: Better bookmarking
+
+
+## What's new: Cross-site cookie tracking
+

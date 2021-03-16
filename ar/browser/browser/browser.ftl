@@ -403,6 +403,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = استورِد العلامات…
     .tooltiptext = استورِد العلامات من متصفّح آخر إلى { -brand-short-name }.
+bookmarks-toolbar-empty-message = ضَع علاماتك هنا في شريط العلامات لتصل إليها بسرعة. <a data-l10n-name="manage-bookmarks">أدِر العلامات…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -412,6 +413,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = الميكروفون الذي سيُشارك:
     .accesskey = ك
+popup-select-camera-device =
+    .value = الكمرة:
+    .accesskey = ك
+popup-select-camera-icon =
+    .tooltiptext = الكمرة
+popup-select-microphone-device =
+    .value = الميكروفون
+    .accesskey = م
+popup-select-microphone-icon =
+    .tooltiptext = الميكروفون
 popup-all-windows-shared = ستُشارك كل النوافذ الظاهرة على شاشتك.
 popup-screen-sharing-not-now =
     .label = ليس الآن
@@ -421,6 +432,13 @@ popup-screen-sharing-never =
     .accesskey = س
 popup-silence-notifications-checkbox = عطّل التنبيهات { -brand-short-name } أثناء المشاركة
 popup-silence-notifications-checkbox-warning = لن يعرض { -brand-short-name } التنبيهات أثناء المشاركة.
+popup-screen-sharing-block =
+    .label = احجبه
+    .accesskey = ح
+popup-screen-sharing-always-block =
+    .label = احجبه دائمًا
+    .accesskey = د
+popup-mute-notifications-checkbox = اكتم تنبيهات المواقع أثناء المشاركة
 
 ## WebRTC window or screen share tab switch warning
 
@@ -557,11 +575,25 @@ pointerlock-warning-no-domain = يتحكم هذا المستند في مؤشرك
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>انهار جزء من هذه الصفحة.</strong> لإبلاغ { -brand-product-name } بهذه المشكلة وإصلاحها أسرع، رجاء أرسل بلاغا.
+crashed-subframe-learnmore =
+    .label = اطّلع على المزيد
+    .accesskey = ط
+crashed-subframe-learnmore-link =
+    .value = اطّلع على المزيد
+crashed-subframe-submit =
+    .label = أرسِل تقريرًا
+    .accesskey = س
 
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-show-all-bookmarks =
     .label = أظهِر كل العلامات
+bookmarks-manage-bookmarks =
+    .label = أدِر العلامات
+bookmarks-recent-bookmarks-panel =
+    .value = أحدث العلامات
+bookmarks-recent-bookmarks-panel-subheader = أحدث العلامات
 bookmarks-toolbar-chevron =
     .tooltiptext = أظهِر المزيد من العلامات
 bookmarks-sidebar-content =
@@ -579,6 +611,12 @@ bookmarks-tools-sidebar-visibility =
            *[other] أظهِر شريط العلامات الجانبي
         }
 bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] أخفِ شريط أدوات العلامات
+           *[other] أظهِر شريط أدوات العلامات
+        }
+bookmarks-tools-toolbar-visibility-panel =
     .label =
         { $isVisible ->
             [true] أخفِ شريط أدوات العلامات
@@ -609,11 +647,16 @@ bookmarks-toolbar-placeholder =
     .title = عناصر شريط العلامات
 bookmarks-toolbar-placeholder-button =
     .label = عناصر شريط العلامات
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = علّم اللسان الحالي
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = العلامات
+library-recent-activity-title =
+    .value = أحدث الأنشطة
 
 ## More items
 
@@ -624,9 +667,19 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = تستخدم بعض الملفات الصوتية أو الفيديو على هذا الموقع برمجيات لإدارة الحقوق الرقمية، والتي قد تحد ما يستطيع { -brand-short-name } أن يسمح لك بفعله مع هذه الملفات.
+eme-notifications-drm-content-playing-manage = أدِر الإعدادات
+eme-notifications-drm-content-playing-manage-accesskey = د
+eme-notifications-drm-content-playing-dismiss = أهمِل
+eme-notifications-drm-content-playing-dismiss-accesskey = ه
 
 ## Password save/update panel
 
+panel-save-update-username = اسم المستخدم
+panel-save-update-password = كلمة السر
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = أتريد إزالة { $name }؟
+addon-removal-abuse-report-checkbox = أبلِغ { -vendor-short-name } عن هذا الامتداد

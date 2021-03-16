@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = ابحث في هذه الصفحة…
     .accesskey = ب
+menu-edit-find-in-page =
+    .label = ابحث في الصفحة…
+    .accesskey = ح
 menu-edit-find-again =
     .label = ابحث مجددًا
     .accesskey = ب
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = خصّص…
     .accesskey = ص
+menu-view-customize-toolbar2 =
+    .label = خصّص شريط الأدوات…
+    .accesskey = خ
 menu-view-sidebar =
     .label = الشريط الجانبي
     .accesskey = ط
@@ -207,6 +213,8 @@ menu-history-undo-menu =
     .label = الألسنة المُغلقة مؤخرًا
 menu-history-undo-window-menu =
     .label = النوافذ المغلقة مؤخرًا
+menu-history-reopen-all-tabs = أعِد فتح كل الألسنة
+menu-history-reopen-all-windows = أعِد فتح كل النوافذ
 
 ## Bookmarks Menu
 
@@ -217,6 +225,8 @@ menu-bookmarks-show-all =
     .label = أظهِر كل العلامات
 menu-bookmark-this-page =
     .label = علّم هذه الصفحة
+menu-bookmark-current-tab =
+    .label = علّم اللسان الحالي
 menu-bookmark-edit =
     .label = حرّر هذه العلامة
 menu-bookmarks-all-tabs =
@@ -241,6 +251,12 @@ menu-tools-addons =
     .accesskey = ض
 menu-tools-fxa-sign-in =
     .label = لِج إلى { -brand-product-name }…
+    .accesskey = ل
+menu-tools-extensions =
+    .label = الامتدادات والسمات
+    .accesskey = م
+menu-tools-fxa-sign-in2 =
+    .label = لِج
     .accesskey = ل
 menu-tools-turn-on-sync =
     .label = فعّل { -sync-brand-short-name }…
@@ -288,15 +304,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -317,8 +324,14 @@ menu-help-import-from-another-browser =
 menu-help-keyboard-shortcuts =
     .label = اختصارات لوحة المفاتيح
     .accesskey = خ
+menu-get-help =
+    .label = احصل على مُساعدة
+    .accesskey = ح
 menu-help-troubleshooting-info =
     .label = معلومات مواجهة الأعطال
+    .accesskey = ط
+menu-help-more-troubleshooting-info =
+    .label = معلومات أكثر عن مواجهة الأعطال
     .accesskey = ط
 menu-help-taskmanager =
     .label = مدير المهام
@@ -333,6 +346,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = أعِد التشغيل مع تفعيل الإضافات
     .accesskey = ش
+menu-help-enter-troubleshoot-mode =
+    .label = وضع مواجهة الأعطال
+    .accesskey = ض
+menu-help-exit-troubleshoot-mode =
+    .label = عطّل وضع مواجهة الأعطال
+    .accesskey = ط
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

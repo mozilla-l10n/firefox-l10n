@@ -507,6 +507,12 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = المواقع الأكثر زيارة
 home-prefs-topsites-description = أكثر المواقع المزارة
+home-prefs-topsites-by-option-sponsored =
+    .label = أهم المواقع المموّلة
+home-prefs-shortcuts-header =
+    .label = الاختصارات
+home-prefs-shortcuts-by-option-sponsored =
+    .label = الاختصارات المموّلة
 
 ## Variables:
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
@@ -530,6 +536,8 @@ home-prefs-highlights-option-most-recent-download =
     .label = آخر ما نُزّل
 home-prefs-highlights-option-saved-to-pocket =
     .label = الصفحات المحفوظة في { -pocket-brand-name }
+home-prefs-recent-activity-header =
+    .label = أحدث الأنشطة
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
