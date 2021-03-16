@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovať teraz
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Synchronizovať teraz
-    .value = Synchronizovať teraz
+appmenuitem-fxa-toolbar-sync-now2 = Synchronizovať teraz
 appmenuitem-fxa-manage-account = Spravovať účet
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +131,6 @@ appmenu-help-header =
 appmenu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O
-appmenu-help-product =
-    .label = Pomocník prehliadača { -brand-shorter-name }
-    .accesskey = P
-appmenu-help-show-tour =
-    .label = Prehliadka prehliadača { -brand-shorter-name }
-    .accesskey = h
-appmenu-help-import-from-another-browser =
-    .label = Importovať z iného prehliadača…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Klávesové skratky
-    .accesskey = K
 appmenu-get-help =
     .label = Získať pomoc
     .accesskey = Z
@@ -191,11 +177,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Toto nie je podvodná stránka…
     .accesskey = T
-
-##
-
-appmenu-help-check-for-update =
-    .label = Vyhľadať aktualizácie…
 
 ## More Tools
 
