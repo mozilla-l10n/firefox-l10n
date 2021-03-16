@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Συγχρονισμός τώρα
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Συγχρονισμός τώρα
-    .value = Συγχρονισμός τώρα
+appmenuitem-fxa-toolbar-sync-now2 = Συγχρονισμός τώρα
 appmenuitem-fxa-manage-account = Διαχείριση λογαριασμού
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = τ
-appmenu-help-product =
-    .label = Βοήθεια για το { -brand-shorter-name }
-    .accesskey = Β
-appmenu-help-show-tour =
-    .label = Ξενάγηση στο { -brand-shorter-name }
-    .accesskey = Ξ
-appmenu-help-import-from-another-browser =
-    .label = Εισαγωγή από άλλο φυλλομετρητή…
-    .accesskey = Ε
-appmenu-help-keyboard-shortcuts =
-    .label = Συντομεύσεις πληκτρολογίου
-    .accesskey = υ
 appmenu-get-help =
     .label = Λήψη βοήθειας
     .accesskey = β
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Αυτή δεν είναι παραπλανητική ιστοσελίδα…
     .accesskey = δ
-
-##
-
-appmenu-help-check-for-update =
-    .label = Έλεγχος για ενημερώσεις…
 
 ## More Tools
 
