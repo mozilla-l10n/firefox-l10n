@@ -290,6 +290,8 @@ identity-passive-loaded = Parts di cheste pagjine no son siguris (come lis imagj
 identity-active-loaded = Tu âs disabilitât la protezion su cheste pagjine.
 identity-weak-encryption = Cheste pagjine e dopre une cifradure debile.
 identity-insecure-login-forms = Lis credenziâls inseridis in cheste pagjine a podaressin jessi comprometudis.
+identity-permissions =
+    .value = Permès
 identity-https-only-connection-upgraded = (inzornât a HTTPS)
 identity-https-only-label = Modalitât Dome-HTTPS
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Impie la modalitât Dome-HTTPS par chest sît se tu desideris che { -brand-short-name } al inzorni a pene pussibil la conession.
 identity-https-only-info-turn-off2 = Se la pagjine e somee ruvinade, tu podaressisdisativâ la modalitât Dome-HTTPS par chest sît cussì di podê tornâ a cjariâ ichest sît doprant il HTTP malsigûr.
 identity-https-only-info-no-upgrade = No si rive a inzornâ la conession dal HTTP.
-identity-permissions =
-    .value = Permès
 identity-permissions-storage-access-header = Cookies inter-sîts
 identity-permissions-storage-access-hint = Chestis parts a puedin doprâ cookies inter-sît e dâts di sît intant che tu stâs su chest sît.
 identity-permissions-reload-hint = Tu podaressis vê di tornâ a cjariâ la pagjine par aplicâ lis modifichis.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Riproduzion in vore
-browser-tab-audio-muted = Cidinât
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = RIPRODUZION IN CORS
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,27 @@ browser-tab-audio-muted2 = CIDINADE
 browser-tab-audio-blocked = RIPRODUZION AUTOMATICHE BLOCADE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] CIDINE SCHEDE
+        [one] CIDINE SCHEDE
+       *[other] CIDINE { $count } SCHEDIS
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ATIVE AUDIO DE SCHEDE
+       *[other] ATIVE AUDIO DI { $count } SCHEDIS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] RIPRODÛS SCHEDE
+       *[other] RIPRODÛS { $count } SCHEDIS
+    }
 
 ## Bookmarks toolbar items
 
@@ -379,9 +398,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Fotocjamare:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Fotocjamare
 popup-select-microphone-device =
     .value = Microfon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Microfon
 popup-all-windows-shared = A vignaran condividûts ducj i barcons visibii sul to schermi.
 popup-screen-sharing-not-now =
     .label = No cumò
@@ -548,8 +571,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Mostre ducj i segnelibris
-bookmarks-recent-bookmarks =
-    .value = Tai segnelibris di resint
 bookmarks-manage-bookmarks =
     .label = Gjestìs segnelibris
 bookmarks-recent-bookmarks-panel =
@@ -570,12 +591,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Plate sbare laterâl dai segnelibris
            *[other] Visualize sbare laterâl dai segnelibris
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Plate sbare dai segnelibris
-           *[other] Visualize sbare dai segnelibris
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -622,10 +637,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Segnelibris
-library-bookmarks-bookmark-this-page =
-    .label = Zonte cheste pagjine tai segnelibris
-library-bookmarks-bookmark-edit =
-    .label = Modifiche chest segnelibri
 library-recent-activity-title =
     .value = Ativitât resinte
 
@@ -642,3 +653,15 @@ eme-notifications-drm-content-playing-manage = Gjestìs impostazions
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Scarte
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = Non utent
+panel-save-update-password = Password
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Gjavâ { $name }?
+addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short-name }
