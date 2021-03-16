@@ -43,15 +43,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } Help
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = Keyboard ಸಮೀಪಮಾರ್ಗಗಳು
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Troubleshooting ಮಾಹಿತಿ
     .accesskey = T
@@ -71,6 +62,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Restart ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿದ ನಂತರ
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -80,9 +75,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = ಇದು ದಾಳಿಕಾರಕ ತಾಣವಲ್ಲ…‍
     .accesskey = d
-
-##
-
 
 ## More Tools
 
