@@ -280,6 +280,8 @@ identity-passive-loaded = 本頁面中的部分內容（例如圖片）並不安
 identity-active-loaded = 您已停用此頁面中的保護。
 identity-weak-encryption = 此頁面使用了弱強度的加密。
 identity-insecure-login-forms = 在此頁面輸入的登入資訊可能會被洩漏。
+identity-permissions =
+    .value = 權限
 identity-https-only-connection-upgraded = （升級 HTTPS）
 identity-https-only-label = 純 HTTPS 模式
 identity-https-only-dropdown-on =
@@ -291,8 +293,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = 若您想要 { -brand-short-name } 盡可能升級使用安全連線，請對此網站開啟純 HTTPS 模式。
 identity-https-only-info-turn-off2 = 若網頁外觀看起來不正常，您可能會想要針對此網站關閉純 HTTPS 模式，使用不安全的 HTTP 重新載入。
 identity-https-only-info-no-upgrade = 無法將網站連線從 HTTP 升級。
-identity-permissions =
-    .value = 權限
 identity-permissions-storage-access-header = 跨網站 Cookie
 identity-permissions-storage-access-hint = 當您開啟此網站時，這些網站可以使用跨網站 Cookie，並且取得您在此網站的資料。
 identity-permissions-reload-hint = 您可能需要重新載入頁面才能讓變更生效。
@@ -340,8 +340,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = 播放中
-browser-tab-audio-muted = 靜音
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = 播放中
 # This label should be written in all capital letters if your locale supports them.
@@ -350,6 +348,26 @@ browser-tab-audio-muted2 = 靜音
 browser-tab-audio-blocked = 已封鎖自動播放
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = 子母畫面
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] 將分頁靜音
+       *[other] 將 { $count } 個分頁靜音
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] 將分頁取消靜音
+       *[other] 將 { $count } 個分頁取消靜音
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] 播放分頁聲音
+       *[other] 播放 { $count } 個分頁的聲音
+    }
 
 ## Bookmarks toolbar items
 
@@ -542,8 +560,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = 顯示所有書籤
-bookmarks-recent-bookmarks =
-    .value = 最近加入的書籤
 bookmarks-manage-bookmarks =
     .label = 管理書籤
 bookmarks-recent-bookmarks-panel =
@@ -564,12 +580,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] 隱藏書籤側邊欄
            *[other] 檢視書籤欄
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] 隱藏書籤工具列
-           *[other] 檢視書籤工具列
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -616,10 +626,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = 書籤
-library-bookmarks-bookmark-this-page =
-    .label = 將本頁加入書籤
-library-bookmarks-bookmark-edit =
-    .label = 編輯此書籤
 library-recent-activity-title =
     .value = 近期動態
 
