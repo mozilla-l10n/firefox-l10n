@@ -40,7 +40,6 @@ printui-scale-fit-to-page-width = Šěrokosći strony přiměrić
 printui-scale-pcent = Skalować
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Ćišćenje na woběmaj bokomaj
-printui-duplex-checkbox = Na woběmaj bokomaj šišćeć
 printui-two-sided-printing-off = Znjemóžnjeny
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Na dołhej kromje kiwknyć
@@ -59,14 +58,19 @@ printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Žana
 printui-margins-custom-inches = Swójske (cóle)
+printui-margins-custom-mm = Swójske (mm)
 printui-margins-custom-top = Horjeka
 printui-margins-custom-top-inches = Horjeka (cóle)
+printui-margins-custom-top-mm = Horjeka (mm)
 printui-margins-custom-bottom = Deleka
 printui-margins-custom-bottom-inches = Deleka (cóle)
+printui-margins-custom-bottom-mm = Deleka (mm)
 printui-margins-custom-left = Nalěwo
 printui-margins-custom-left-inches = Nalěwo (cóle)
+printui-margins-custom-left-mm = Nalěwo (mm)
 printui-margins-custom-right = Naprawo
 printui-margins-custom-right-inches = Naprawo (cóle)
+printui-margins-custom-right-mm = Naprawo (mm)
 printui-system-dialog-link = Z pomocu systemoweho dialoga ćišćeć…
 printui-primary-button = Ćišćeć
 printui-primary-button-save = Składować
