@@ -7,6 +7,7 @@ restore-page-tab-title = Барқарор кардани ҷаласа
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Мутаассифона, мо саҳифаҳои шуморо барқарор карда наметавонем.
 restore-page-problem-desc = Мо ҷаласаи тамошокунии охирини шуморо барқарор карда наметавонем. «Барқарор кардани ҷаласа»-ро интихоб карда, аз нав кӯшиш кунед.
+restore-page-try-this = То ҳол наметавонед, ки ҷаласаи худро барқарор намоед? Баъзан варақаи кушодшуда боиси мушкилӣ мебошад. Варақаҳои қаблиро дида бароед ва аз он варақаҳое, ки барои барқарорсозӣ лозим нестанд, қайдҳоро тоза кунед ва пас ҷаласаи худро аз нав барқарор кунед.
 restore-page-hide-tabs = Пинҳон кардани варақаҳои қаблӣ
 restore-page-show-tabs = Нишон додани варақаҳои қаблӣ
 # When tabs are distributed across multiple windows, this message is used as a
