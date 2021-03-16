@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Szinkronizálás
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Szinkronizálás
-    .value = Szinkronizálás
 appmenuitem-fxa-manage-account = Fiók kezelése
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +132,6 @@ appmenu-help-header =
 appmenu-about =
     .label = A { -brand-shorter-name } névjegye
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } súgó
-    .accesskey = s
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } bemutató
-    .accesskey = u
-appmenu-help-import-from-another-browser =
-    .label = Importálás egy másik böngészőből…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Gyorsbillentyűk
-    .accesskey = G
 appmenu-get-help =
     .label = Segítség kérése
     .accesskey = S
@@ -193,11 +178,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ez nem félrevezető oldal…
     .accesskey = n
-
-##
-
-appmenu-help-check-for-update =
-    .label = Frissítések keresése…
 
 ## More Tools
 
