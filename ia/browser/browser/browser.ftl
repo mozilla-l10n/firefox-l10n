@@ -399,6 +399,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Blocar sempre
     .accesskey = s
+popup-mute-notifications-checkbox = Silentiar avisos del sito web durante le compartimento
 
 ## WebRTC window or screen share tab switch warning
 
