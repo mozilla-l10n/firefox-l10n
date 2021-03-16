@@ -40,20 +40,14 @@ whatsnew-panel-header = Nuvità
 ## "Enable Profiler Menu Button".
 
 
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
     .label = Supra { -brand-shorter-name }
     .accesskey = S
-appmenu-help-product =
-    .label = Ajutu di { -brand-shorter-name }
-    .accesskey = A
-appmenu-help-show-tour =
-    .label = Vìsita cunnuciuta di { -brand-shorter-name }
-    .accesskey = V
-appmenu-help-keyboard-shortcuts =
-    .label = Accurzi dâ tastera
-    .accesskey = s
 appmenu-help-troubleshooting-info =
     .label = Nfurmazziuna p'arrisòrbiri prubblemi
     .accesskey = p
@@ -73,6 +67,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Riabbìa cu l'agghiuncitini abbilitati
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -83,5 +81,5 @@ appmenu-help-not-deceptive =
     .label = Chistu nun è un situ fallaci…
     .accesskey = n
 
-##
+## More Tools
 
