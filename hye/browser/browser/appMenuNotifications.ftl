@@ -44,7 +44,7 @@ appmenu-addon-private-browsing-installed =
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Կառավարեք Ձեր հաւելումները սեղմելով <image data-l10n-name='addon-install-icon'></image><image data-l10n-name='addon-menu-icon'></image>ցանկին։
 appmenu-addon-post-install-incognito-checkbox =
-    .label = Թոյլատրել այս ընդլայնմանը աշխատեցնել Գաղտնի պատուհանը
+    .label = Թոյղատրել այս ընդլայնմանը աշխատեցնել Գաղտնի պատուհանը
     .accesskey = A
 appmenu-new-tab-controlled =
     .label = Ձեր նոր ներդիրը փոխուել է։
