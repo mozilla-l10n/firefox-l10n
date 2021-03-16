@@ -18,3 +18,7 @@ update-applying = Գործադրումն արդիացման…
 update-failed = Արդիացումն տապալեցաւ <label data-l10n-name="failed-link">Ներբեռնել զվերջին տարբերակն</label>
 update-failed-main = Արդիացումն տապալեցաւ։ <a data-l10n-name="failed-link-main">Ներբեռնել զվերջին տարբերակն</a>
 update-adminDisabled = Արդիացմունք անջատեալ են ի համակարգավարէ քումմէ
+update-noUpdatesFound = { -brand-short-name } արդիական է։
+update-otherInstanceHandlingUpdates = { -brand-short-name } արդիացուցանի այժմ ի ձեռն այղոյ իրիք
+update-manual = Արդիացմունք հասանելիք ի <label data-l10n-name="manual-link"/>
+update-restarting = Վերամեկնարկումն
