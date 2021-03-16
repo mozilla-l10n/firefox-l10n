@@ -30,20 +30,19 @@ appmenuitem-save-page =
 ## What's New panel in App menu.
 
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
     .label = Malunga ne-{ -brand-shorter-name }
     .accesskey = M
-appmenu-help-product =
-    .label = I-{ -brand-shorter-name } uncedo
-    .accesskey = u
-appmenu-help-show-tour =
-    .label = I-{ -brand-shorter-name } Ukhenketho
-    .accesskey = k
-appmenu-help-keyboard-shortcuts =
-    .label = Izinqumleli zekhibhodi
-    .accesskey = I
 appmenu-help-troubleshooting-info =
     .label = Inkcazelo yesisombululi-ngxaki
     .accesskey = I
@@ -61,6 +60,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Qalisa kwakhona izongezelelo ziqhwalelisiwe…
     .accesskey = Q
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -71,5 +74,5 @@ appmenu-help-not-deceptive =
     .label = Le asiyosayithi yenkohliso…
     .accesskey = d
 
-##
+## More Tools
 
