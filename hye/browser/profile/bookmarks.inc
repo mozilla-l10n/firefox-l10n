@@ -25,6 +25,9 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help Աւգնութիւն եւ Դասընթացներ
 
+# LOCALIZATION NOTE (firefox_get_help):
+# link title for https://www.mozilla.org/en-US/firefox/help/
+
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Յարմարեցնել Firefox-ը
@@ -39,11 +42,11 @@
 
 # LOCALIZATION NOTE (nightly_heading):
 # Firefox Nightly links folder name
-#define nightly_heading Firefox֊ի գիշերային աշխատապաշարներ
+#define nightly_heading Firefox Nightly֊ի աշխատապաշարներ
 
 # LOCALIZATION NOTE (nightly_blog):
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
-#define nightly_blog Firefox֊ի գիշերային աւրագիր
+#define nightly_blog Firefox Nightly֊ի աւրագիր
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
@@ -55,15 +58,11 @@
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
-#define nightly_tester_tools Գիշերային փորձարկող գործիքներ
+#define nightly_tester_tools Nightly֊ի փորձարկող գործիքներ
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
 #define crashes Ձեր բոլոր վթարները
-
-# LOCALIZATION NOTE (irc):
-# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Քննարկել գիշերային IRC-ում
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
