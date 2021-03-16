@@ -77,18 +77,6 @@ profiler-popup-capture-shortcut =
 appmenu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = Tulong sa { -brand-shorter-name }
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = Libutin ang { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Mag-import mula sa Ibang Browser…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Mga Keyboard Shortcut
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Impormasyon para sa Troubleshooting
     .accesskey = T
@@ -110,6 +98,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Mag-restart nang Naka-enable ang mga Add-on
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -119,9 +111,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ito ay hindi mapagkunwaring site...
     .accesskey = d
-
-##
-
 
 ## More Tools
 
