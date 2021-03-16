@@ -48,15 +48,6 @@ whatsnew-panel-header = Gnéithe Nua
 appmenu-about =
     .label = Maidir le { -brand-shorter-name }
     .accesskey = M
-appmenu-help-product =
-    .label = Cabhair { -brand-shorter-name }
-    .accesskey = C
-appmenu-help-show-tour =
-    .label = Turas ar { -brand-shorter-name }
-    .accesskey = u
-appmenu-help-keyboard-shortcuts =
-    .label = Aicearraí Méarchláir
-    .accesskey = A
 appmenu-help-troubleshooting-info =
     .label = Fabhtcheartú
     .accesskey = t
@@ -78,6 +69,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Atosaigh leis na Breiseáin ar siúl…
     .accesskey = A
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -87,9 +82,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ní suíomh cealgach é seo…
     .accesskey = c
-
-##
-
 
 ## More Tools
 
