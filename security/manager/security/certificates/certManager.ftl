@@ -25,9 +25,28 @@ certmgr-detail-general-tab-title =
 certmgr-detail-pretty-print-tab-title =
     .label = Detalles
     .accesskey = D
+certmgr-pending-label =
+    .value = Ta verificándose'l certificáu…
 certmgr-fingerprints = Buelgues
-certmgr-cert-detail-commonname = Nome común (CN)
+certmgr-cert-detail-commonname = Nome habitual (CN)
 certmgr-cert-detail-org = Organización (O)
+certmgr-cert-detail-orgunit = Unidá organizativa (OU)
+certmgr-cert-detail-serial-number = Númberu de serie
+certmgr-cert-detail-sha-256-fingerprint = Buelga SHA-256
+certmgr-cert-detail-sha-1-fingerprint = Buelga SHA1
+certmgr-edit-cert-trust-ssl =
+    .label = Esti certificáu pue identificar sitios web.
+certmgr-edit-cert-trust-email =
+    .label = Esti certificáu pue identificar a usuarios de corréu.
+certmgr-cert-name =
+    .label = Nome del certificáu
+certmgr-cert-server =
+    .label = Sirvidor
+certmgr-token-name =
+    .label = Preséu de seguranza
+certmgr-begins-on = Data d'aniciu
+certmgr-begins-label =
+    .label = Data d'aniciu
 certmgr-expires-on = Data de caducidá
 certmgr-expires-label =
     .label = Data de caducidá
@@ -38,6 +57,9 @@ certmgr-serial =
 certmgr-view =
     .label = Ver…
     .accesskey = V
+exception-mgr-cert-location-url =
+    .value = Allugamientu:
+pkcs12-dup-data = El certificáu y la clave privada yá esisten nel preséu de seguranza.
 
 ## PKCS#12 file dialogs
 
@@ -50,15 +72,19 @@ certmgr-view =
 
 ## For Deleting Certificates
 
+delete-user-cert-confirm = ¿De xuru quies desaniciar estos certificaos?
 
 ## Cert Viewer
 
 
 ## Used to show whether an override is temporary or permanent
 
+permanent-override = Permanente
+temporary-override = Temporal
 
 ## Add Security Exception dialog
 
 
 ## Certificate export "Save as" and error dialogs
 
+cert-format-pkcs7 = Certificáu X.509 (PKCS#7)
