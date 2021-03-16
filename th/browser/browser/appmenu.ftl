@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ซิงค์ตอนนี้
-appmenuitem-fxa-toolbar-sync-now =
-    .label = ซิงค์ตอนนี้
-    .value = ซิงค์ตอนนี้
 appmenuitem-fxa-manage-account = จัดการบัญชี
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +130,6 @@ appmenu-help-header =
 appmenu-about =
     .label = เกี่ยวกับ { -brand-shorter-name }
     .accesskey = ก
-appmenu-help-product =
-    .label = ความช่วยเหลือของ { -brand-shorter-name }
-    .accesskey = ช
-appmenu-help-show-tour =
-    .label = เที่ยวชม { -brand-shorter-name }
-    .accesskey = ท
-appmenu-help-import-from-another-browser =
-    .label = นำเข้าจากเบราว์เซอร์อื่น…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = แป้นพิมพ์ลัด
-    .accesskey = ล
 appmenu-get-help =
     .label = รับความช่วยเหลือ
     .accesskey = ช
@@ -191,11 +176,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = นี่ไม่ใช่ไซต์หลอกลวง…
     .accesskey = ห
-
-##
-
-appmenu-help-check-for-update =
-    .label = ตรวจสอบการอัปเดต…
 
 ## More Tools
 
