@@ -112,18 +112,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name }-ի Աւգնութիւն
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = Շրջայց { -brand-shorter-name }-ի հետ
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Ներմուծում մեկ այլ զննարկչից…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Ստեղնաշարի պիտակներ
-    .accesskey = K
 appmenu-get-help =
     .label = Ստանալ աւգնութիւն
     .accesskey = Ս
@@ -148,6 +136,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Վերամեկնարկել՝ միացնելով հաւելումները
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -157,11 +149,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Սա խաբուսիկ կայք չէ…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Ստուգէք թարմացումները…
 
 ## More Tools
 
