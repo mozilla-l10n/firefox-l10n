@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = انجام هم‌گام‌سازی
-appmenuitem-fxa-toolbar-sync-now =
-    .label = انجام همگام‌سازی
-    .value = انجام همگام‌سازی
 appmenuitem-fxa-manage-account = مدیریت حساب
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +132,6 @@ appmenu-help-header =
 appmenu-about =
     .label = دربارهٔ { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = راهنمای { -brand-shorter-name }
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = تور معرفی { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = درون‌ریزی از مرورگری دیگر… (I)
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = میانبرهای صفحه کلید
-    .accesskey = K
 appmenu-get-help =
     .label = دریافت راهنمایی
     .accesskey = H
@@ -193,11 +178,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = این یک سایت گمراه‌کننده نیست…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = بررسی برای بروزرسانی‌ها…
 
 ## More Tools
 
