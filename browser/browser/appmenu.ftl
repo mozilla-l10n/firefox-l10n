@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synkroniser no
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Synkroniser no
-    .value = Synkroniser no
+appmenuitem-fxa-toolbar-sync-now2 = Synkroniser no
 appmenuitem-fxa-manage-account = Handter kontoen
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
-appmenu-help-product =
-    .label = { -brand-shorter-name } Hjelp
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = Omvising i { -brand-shorter-name }
-    .accesskey = m
-appmenu-help-import-from-another-browser =
-    .label = Importer frå ein annan nettlesar…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Tastatursnarvegar
-    .accesskey = T
 appmenu-get-help =
     .label = Få hjelp
     .accesskey = F
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Dette er ikkje ein villeiande nettstad…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Sjå etter oppdateringar…
 
 ## More Tools
 
