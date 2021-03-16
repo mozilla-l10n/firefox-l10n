@@ -87,18 +87,6 @@ profiler-popup-capture-shortcut =
 appmenu-about =
     .label = { -brand-shorter-name } का परिचय
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } मदद
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } दौरा
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = दूसरे ब्राउज़र से आयात करें…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = कीबोर्ड शॉर्टकट‌‌
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = विघ्ननिवारण सूचना
     .accesskey = T
@@ -133,9 +121,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = यह एक भ्रमकारी भुजाल नहीं है…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
