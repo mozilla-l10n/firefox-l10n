@@ -27,6 +27,12 @@ appmenuitem-more-tools =
     .label = أدوات أكثر
 appmenuitem-exit =
     .label = اخرُج
+appmenu-menu-button-closed =
+    .tooltiptext = افتح قائمة التطبيق
+    .label = { -brand-shorter-name }
+appmenu-menu-button-opened =
+    .tooltiptext = أغلِق قائمة التطبيق
+    .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -45,6 +51,21 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = زامِن الآن
+appmenuitem-fxa-toolbar-sync-now2 = زامِن الآن
+appmenuitem-fxa-manage-account = أدِر الحساب
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = كانت آخر مزامنة { $time }
+    .label = كانت آخر مزامنة { $time }
+appmenu-fxa-sync-and-save-data =
+    .value = زامِن واحفظ البيانات
+appmenu-fxa-signed-in-label = لِج
+appmenu-fxa-setup-sync =
+    .label = فعّل المزامنة…
+appmenu-fxa-show-more-tabs = أظهِر ألسنة أكثر
 appmenuitem-save-page =
     .label = احفظ الصفحة باسم…
 
