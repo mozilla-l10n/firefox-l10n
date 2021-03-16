@@ -77,18 +77,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } గురించి
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } సహాయం
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } పర్యటన
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = మరో విహారిణి నుండి దిగుమతిచేయి…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = కీబోర్డు షార్టుకట్లు
-    .accesskey = K
 appmenu-get-help =
     .label = సహాయం పొందండి
     .accesskey = H
@@ -111,6 +99,10 @@ appmenu-help-safe-mode-with-addons =
     .label = యాడ్-ఆన్స్ చేతనపరచి పునఃప్రారంభించు
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -120,11 +112,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = ఇది ఒక మోసపూరిత సైట్ కాదు...
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = తాజాకరణలకై చూడు…
 
 ## More Tools
 
