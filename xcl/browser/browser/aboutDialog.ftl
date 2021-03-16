@@ -25,3 +25,4 @@ update-restarting = Վերամեկնարկումն
 channel-description = Այժմուս կաս ի <label data-l10n-name="current-channel"></label> արդիացման խուղակի։
 warningDesc-version = { -brand-short-name } առ ի փորձ է եւ մարթի անկայուն գոլ։
 aboutdialog-help-user = { -brand-product-name } Աւգնութիւն
+aboutdialog-submit-feedback = Հատատել զյետադարձ կապ
