@@ -193,6 +193,8 @@ identity-passive-loaded = Partes d'esta páxina nun son segures (como les imáxe
 identity-active-loaded = Desactivesti la proteición nesta páxina.
 identity-weak-encryption = Esta páxina usa un cifráu feble.
 identity-insecure-login-forms = Los anicios de sesión introducíos nesta páxina podríen tar en riesgu.
+identity-permissions =
+    .value = Permisos
 identity-https-only-connection-upgraded = (anovóse a HTTPS)
 identity-https-only-label = Mou de namás HTTPS
 identity-https-only-dropdown-on =
@@ -203,8 +205,6 @@ identity-https-only-dropdown-off-temporarily =
     .label = Non, temporalmente
 identity-https-only-info-turn-on2 = Activa'l mou de namás HTTPS pa esti sitiu si quies que { -brand-short-name } anueve la conexón cuando seya posible.
 identity-https-only-info-no-upgrade = Nun ye posible anovar la conexón a HTTPS.
-identity-permissions =
-    .value = Permisos
 identity-permissions-storage-access-header = Cookies ente sitios
 identity-permissions-storage-access-hint = Terceros puen usar cookies ente sitios y datos del sitiu mentanto tas nelli.
 identity-permissions-empty = Nun-y concediesti nengún permisu especial a esti sitiu.
@@ -246,6 +246,11 @@ browser-window-close-button =
 
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = IMAXE SOBRE IMAXE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -361,3 +366,13 @@ library-recent-activity-title =
 more-menu-go-offline =
     .label = Trabayar ensin conexón
     .accesskey = T
+
+## EME notification panel
+
+
+## Password save/update panel
+
+panel-save-update-password = Contraseña
+
+## Add-on removal warning
+

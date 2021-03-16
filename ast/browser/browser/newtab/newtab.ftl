@@ -130,6 +130,8 @@ newtab-empty-section-highlights = Comienza a restolar y equí vamos amosate dalg
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-loading = Cargando...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ¡Meca! Paez qu'esta seición nun cargó del too.
 
 ## Pocket Content Section.
 
@@ -147,6 +149,11 @@ newtab-error-fallback-info = Meca, asocedió daqué malo al cargar esti contení
 
 newtab-custom-shortcuts-title = Atayos
 newtab-custom-shortcuts-subtitle = Sitios que guardes o visites
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } filera
+       *[other] { $num } fileres
+    }
 newtab-custom-recent-title = Actividá recién
 newtab-custom-recent-subtitle = Una esbilla de los sitios y el conteníu de recién
 newtab-custom-close-button = Zarrar
