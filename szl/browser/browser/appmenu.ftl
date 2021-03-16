@@ -45,9 +45,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchrōnizuj
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Synchrōnizuj teroz
-    .value = Synchrōnizuj teroz
+appmenuitem-fxa-toolbar-sync-now2 = Synchrōnizuj teroz
 appmenuitem-fxa-manage-account = Regiyruj kōntym
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -126,18 +124,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Ô aplikacyji { -brand-shorter-name }
     .accesskey = O
-appmenu-help-product =
-    .label = Pōmoc aplikacyje { -brand-shorter-name }
-    .accesskey = P
-appmenu-help-show-tour =
-    .label = Ôkludziny po aplikacyji { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Importuj z inkszyj przeglōndarki…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Skrōty tastatury
-    .accesskey = T
 appmenu-get-help =
     .label = Pōmoc
     .accesskey = P
@@ -162,6 +148,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Resztartuj ze załōnczōnymi roszyrzyniami
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -171,11 +161,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = To niy ma ôszydno strōna…
     .accesskey = c
-
-##
-
-appmenu-help-check-for-update =
-    .label = Badnij za aktualizacyjami…
 
 ## More Tools
 
