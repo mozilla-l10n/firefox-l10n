@@ -21,3 +21,9 @@ about-httpsonly-explanation-continue = Жалғастыратын болсаңы
 about-httpsonly-button-continue-to-site = HTTP сайтына өту
 about-httpsonly-button-go-back = Артқа оралу
 about-httpsonly-link-learn-more = Көбірек білу…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-header = Мүмкін болатын балама
