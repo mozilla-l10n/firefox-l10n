@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Cydweddu Nawr
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Cydweddu Nawr
-    .value = Cydweddu Nawr
+appmenuitem-fxa-toolbar-sync-now2 = Cydweddu Nawr
 appmenuitem-fxa-manage-account = Rheoli Cyfrif
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
-appmenu-help-product =
-    .label = Cymorth { -brand-shorter-name }
-    .accesskey = m
-appmenu-help-show-tour =
-    .label = Cyflwyno { -brand-shorter-name }
-    .accesskey = C
-appmenu-help-import-from-another-browser =
-    .label = Mewnforio o Borwr arall ...
-    .accesskey = M
-appmenu-help-keyboard-shortcuts =
-    .label = Llwybrau Byr Bysellfwrdd
-    .accesskey = B
 appmenu-get-help =
     .label = Derbyn Cymorth
     .accesskey = D
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Nid yw hon yn wefan twyllodrus…
     .accesskey = t
-
-##
-
-appmenu-help-check-for-update =
-    .label = Gwirio am Ddiweddariadau…
 
 ## More Tools
 
