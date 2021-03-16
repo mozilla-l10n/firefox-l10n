@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Localizar nesta páxina…
     .accesskey = L
+menu-edit-find-in-page =
+    .label = Atopar na páxina…
+    .accesskey = A
 menu-edit-find-again =
     .label = Localizar de novo
     .accesskey = n
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = f
 menu-view-customize-toolbar =
     .label = Personalizar…
+    .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalizar barra de ferramentas…
     .accesskey = P
 menu-view-sidebar =
     .label = Barra lateral
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Amosar todos os marcadores
 menu-bookmark-this-page =
     .label = Marcar esta páxina
+menu-bookmark-current-tab =
+    .label = Marcar lapela actual
 menu-bookmark-edit =
     .label = Editar este marcador
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = C
 menu-tools-fxa-sign-in =
     .label = Iniciar sesión en { -brand-product-name } ...
+    .accesskey = I
+menu-tools-extensions =
+    .label = Extensións e temas
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Identificarse
     .accesskey = I
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name } ...
@@ -273,6 +287,13 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-settings =
+    .label = Configuración
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Depurador de deseño
     .accesskey = p
@@ -285,15 +306,6 @@ menu-window-bring-all-to-front =
     .label = Traer todo á fronte
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -325,6 +337,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = b
+menu-help-more-troubleshooting-info =
+    .label = Máis información para solucionar problemas
+    .accesskey = P
 menu-help-taskmanager =
     .label = Xestor de tarefas
 menu-help-report-site-issue =
@@ -338,6 +353,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reiniciar cos complementos activados
     .accesskey = R
+menu-help-enter-troubleshoot-mode =
+    .label = Modo de resolución de problemas
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Desactivar o modo de resolución de problemas
+    .accesskey = M
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -346,6 +367,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Non é un sitio enganoso…
     .accesskey = g
-menu-help-check-for-update =
-    .label = Buscar actualizacións…
-    .accesskey = c
