@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Ҳозир ҳамоҳанг кунед
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Ҳозир ҳамоҳанг кунед
-    .value = Ҳозир ҳамоҳанг кунед
+appmenuitem-fxa-toolbar-sync-now2 = Ҳозир ҳамоҳанг кунед
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Дар бораи { -brand-shorter-name }
     .accesskey = Д
-appmenu-help-product =
-    .label = Кумаки { -brand-shorter-name }
-    .accesskey = К
-appmenu-help-show-tour =
-    .label = пешнамоиши { -brand-shorter-name }
-    .accesskey = п
-appmenu-help-import-from-another-browser =
-    .label = Аз браузери дигар ворид кардан…
-    .accesskey = А
-appmenu-help-keyboard-shortcuts =
-    .label = Миёнбурҳои клавиатура
-    .accesskey = М
 appmenu-get-help =
     .label = Гирифтани кумак
     .accesskey = Г
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Сомонаи ҷорӣ фиребанда нест…
     .accesskey = С
-
-##
-
-appmenu-help-check-for-update =
-    .label = Санҷиши навсозиҳо…
 
 ## More Tools
 
