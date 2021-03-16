@@ -77,6 +77,9 @@ profiler-popup-capture-shortcut =
        *[other] Ctrl+Shift+2
     }
 
+## History panel
+
+
 ## Help panel
 
 appmenu-help-header =
@@ -84,18 +87,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Jie'e { -brand-shorter-name }
     .accesskey = J
-appmenu-help-product =
-    .label = { -brand-shorter-name } Chinei
-    .accesskey = C
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Nake'ema ji inka ka̱a̱ nánuku
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Sa´a ñama Ka̱a̱ tee
-    .accesskey = S
 appmenu-get-help =
     .label = Nánuku chineída noo´o
     .accesskey = H
@@ -118,6 +109,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Nakaji´e ji da nachisó-kúmani na´va...
     .accesskey = N
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -128,7 +123,5 @@ appmenu-help-not-deceptive =
     .label = Ya´a ntu kuvi iin nuu kantu´un…
     .accesskey = D
 
-##
+## More Tools
 
-appmenu-help-check-for-update =
-    .label = Nánukú a jiia...
