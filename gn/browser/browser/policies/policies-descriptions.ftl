@@ -14,6 +14,7 @@ policy-3rdparty = Emboheko purureko WebExtensions oikekuaa hag̃ua chrome.storag
 policy-AppAutoUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokuégui.
 policy-AppUpdateURL = Embohekopyahu URL kundaharape rembipuru ñemomba’epyre.
 policy-Authentication = Emboheko ñemoañete ojuajúva ñanduti rendápe g̃uarã moneĩmbyre.
+policy-BackgroundAppUpdate = Emyandy térã embogue ñembohekopyahu mokõihávape ombohekopyahúva kundahára ndojepurúi jave.
 policy-BlockAboutAddons = Ejoko Moĩmbaha ñangarekohápe jeike (about: addons).
 policy-BlockAboutConfig = Ejoko about:config kuatiaroguépe jeike.
 policy-BlockAboutProfiles = Ejoko about:profiles-pe jeike.
