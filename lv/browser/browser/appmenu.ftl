@@ -44,15 +44,6 @@ whatsnew-panel-header = Kas jauns?
 appmenu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
-appmenu-help-product =
-    .label = { -brand-shorter-name } palīdzība
-    .accesskey = l
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } ekskursija
-    .accesskey = r
-appmenu-help-keyboard-shortcuts =
-    .label = Taustiņu kombinācijas
-    .accesskey = k
 appmenu-help-troubleshooting-info =
     .label = Problēmu novēršanas informācija
     .accesskey = P
@@ -74,6 +65,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Pārstartēt ar aktivētiem papildinājumiem
     .accesskey = r
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -83,9 +78,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Šī nav maldinoša lapa…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
