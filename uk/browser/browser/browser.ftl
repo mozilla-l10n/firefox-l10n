@@ -290,6 +290,8 @@ identity-passive-loaded = Частини цієї сторінки (такі я�
 identity-active-loaded = Ви вимкнули захист на цій сторінці.
 identity-weak-encryption = Ця сторінка використовує слабке шифрування.
 identity-insecure-login-forms = Паролі, введені на цій сторінці, можуть бути скомпрометовані.
+identity-permissions =
+    .value = Дозволи
 identity-https-only-connection-upgraded = (оновлено до HTTPS)
 identity-https-only-label = HTTPS-режим
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Увімкніть HTTPS-режим для цього сайту, якщо ви хочете, щоб { -brand-short-name } оновив з'єднання, коли це можливо.
 identity-https-only-info-turn-off2 = Якщо сторінка виглядає пошкодженою, можливо, ви захочете вимкнути HTTPS-режим для цього сайту, щоб перезавантажити його в незахищеному режимі HTTP.
 identity-https-only-info-no-upgrade = Не вдалося змінити з'єднання з HTTP.
-identity-permissions =
-    .value = Дозволи
 identity-permissions-storage-access-header = Куки сторонніх сайтів
 identity-permissions-storage-access-hint = Ці сторони сайти можуть використовувати куки стеження між сайтами та дані сайту, поки ви перебуваєте на поточному вебсайті.
 identity-permissions-reload-hint = Для застосування змін, можливо, доведеться перезавантажити сторінку.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Відтворення
-browser-tab-audio-muted = Без звуку
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ВІДТВОРЕННЯ
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,29 @@ browser-tab-audio-muted2 = БЕЗ ЗВУКУ
 browser-tab-audio-blocked = АВТОВІДТВОРЕННЯ ЗАБЛОКОВАНО
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ЗОБРАЖЕННЯ В ЗОБРАЖЕННІ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [one] ВИМКНУТИ ЗВУК ВКЛАДКИ
+        [few] ВИМКНУТИ ЗВУК { $count } ВКЛАДОК
+       *[many] ВИМКНУТИ ЗВУК { $count } ВКЛАДОК
+    }
+browser-tab-unmute =
+    { $count ->
+        [one] УВІМКНУТИ ЗВУК ВКЛАДКИ
+        [few] УВІМКНУТИ ЗВУК { $count } ВКЛАДОК
+       *[many] УВІМКНУТИ ЗВУК { $count } ВКЛАДОК
+    }
+browser-tab-unblock =
+    { $count ->
+        [one] ВІДТВОРИТИ ВКЛАДКУ
+        [few] ВІДТВОРИТИ { $count } ВКЛАДКИ
+       *[many] ВІДТВОРИТИ { $count } ВКЛАДОК
+    }
 
 ## Bookmarks toolbar items
 
@@ -552,8 +573,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Показати всі закладки
-bookmarks-recent-bookmarks =
-    .value = Останні закладки
 bookmarks-manage-bookmarks =
     .label = Керувати закладками
 bookmarks-recent-bookmarks-panel =
@@ -573,12 +592,6 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] Приховати бічну панель закладок
-           *[other] Показати панель закладок
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Приховати панель закладок
            *[other] Показати панель закладок
         }
 bookmarks-tools-toolbar-visibility-menuitem =
@@ -626,10 +639,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Закладки
-library-bookmarks-bookmark-this-page =
-    .label = Закласти цю сторінку
-library-bookmarks-bookmark-edit =
-    .label = Редагувати цю закладку
 library-recent-activity-title =
     .value = Нещодавня активність
 

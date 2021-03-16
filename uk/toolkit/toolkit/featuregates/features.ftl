@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Наша реалізація глобального атрибута <a data-l10n-name="mdn-inputmode">inputmode</a> оновлено відповідно до <a data-l10n-name="whatwg">специфікації WHATWG</a>, але нам ще потрібно внести інші зміни, як-от зробити їх доступними для змістовного вмісту Докладніше про <a data-l10n-name="bugzilla">ваду 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Атрибут <a data-l10n-name="rel">rel</a> зі значенням <code>"preload"</code> в елементі <a data-l10n-name="link">&lt;link&gt;</a> покликаний допомогти забезпечити підвищення швидкодії, дозволяючи завантажувати ресурси на початку життєвого циклу сторінки, гарантуючи, що вони доступні раніше і менше шансів що вони заблокують показ сторінки. Читайте <a data-l10n-name="readmore">“Попереднє завантаження вмісту за допомогою <code>rel="preload"</code>”</a> або перегляньте <a data-l10n-name="bugzilla">ваду 1583604</a> для отримання докладної інформації.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Дозволяє застосовувати стилі фокусування до елементів, таких як кнопки та елементи керування формою, лише тоді, коли на них сфокусуватися за допомогою клавіатури (наприклад, при переході між елементами), а не тоді, коли на них сфокусуватися за допомогою миші чи іншого вказівного пристрою. Докладніше про <a data-l10n-name="bugzilla">ваду 1617600</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Глобальна подія <a data-l10n-name="mdn-beforeinput">beforeinput</a> запускається на елементах <a data-l10n-name="mdn-input">&lt;input&gt;</a> та <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> або будь-яких елементах, атрибут яких <a data-l10n-name="mdn-contenteditable">contenteditable</a> увімкнено, безпосередньо перед зміною значення елемента. Подія дозволяє вебпрограмам змінювати типову поведінку браузера під час взаємодії з користувачем, наприклад, вебпрограми можуть відхиляти введені користувачем окремі символи або змінювати стилі вставленого тексту лише на затверджений стиль.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Додавання конструктора до інтерфейсу <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> та різноманітних пов'язаних з цим змін дозволяє безпосередньо створювати нові таблиці стилів, не додаючи таблиці до HTML. Це значно спрощує створення таблиць стилів багаторазового використання для застосування з <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Докладніше про <a data-l10n-name="bugzilla">ваду 1520690</a>.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Кук
 experimental-features-abouthome-startup-cache =
     .label = Кеш запуску about:home
 experimental-features-abouthome-startup-cache-description = Кешування початкового вмісту about:home, який типово завантажується під час запуску. Метою кешування є пришвидшення запуску.
-experimental-features-print-preview-tab-modal =
-    .label = Новий вигляд вікна друку
-experimental-features-print-preview-tab-modal-description = Вмикає оновлене вікно друку та робить попередній перегляд друку доступним на macOS. Це потенційно може призвести до помилок і не включає всі налаштування друку. Щоб отримати доступ до всіх налаштувань друку, виберіть “Друк за допомогою засобу системи…” на панелі Друк.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Вм
 experimental-features-webrtc-global-mute-toggles =
     .label = Загальне вимкнення звуку WebRTC
 experimental-features-webrtc-global-mute-toggles-description = Додати елементи керування до загального індикатора спільного доступу WebRTC, які дозволять користувачам глобально вимкнути мікрофон і канали камери.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Блокування Win32k
+experimental-features-win32k-lockdown-description = Вимкнути використання Win32k API у вкладках браузера. Забезпечує підвищення безпеки, але наразі може бути нестабільним чи проблемним. (Лише Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
