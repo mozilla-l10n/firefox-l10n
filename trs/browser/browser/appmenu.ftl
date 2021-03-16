@@ -56,15 +56,6 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = rayi'î { -brand-shorter-name }
     .accesskey = r
-appmenu-help-product =
-    .label = Sa ruguñu'unj un { -brand-shorter-name }
-    .accesskey = S
-appmenu-help-show-tour =
-    .label = gache nu' riña { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = Sa hìo doj gà' da' si garasun' teklâdo
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Nuguan' garasun' dàj nagi'iô' sa hua a'nan'an
     .accesskey = N
@@ -86,6 +77,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Nayi'ì ñû' ngà nej sa ga'ue nutò' hua yugui
     .accesskey = N
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -95,9 +90,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Se sitio diga'ñu'unj huin ma maj...
     .accesskey = d
-
-##
-
 
 ## More Tools
 
