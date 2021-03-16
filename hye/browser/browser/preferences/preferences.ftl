@@ -1175,4 +1175,4 @@ choose-download-folder-title = Ընտրել ներբեռնումների թղթ�
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
-    .label = Պահել նիշքերը այստէղ՝ { $service-name }
+    .label = Պահել նիշերն այստեղ՝ { $service-name }
