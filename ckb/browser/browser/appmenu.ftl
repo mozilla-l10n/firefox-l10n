@@ -60,18 +60,6 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = دەربارەی { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } یارمەتی
-    .accesskey = ی
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } گەشت
-    .accesskey = گ
-appmenu-help-import-from-another-browser =
-    .label = هێنان لە وێبگەڕی ترەوە...
-    .accesskey = ێ
-appmenu-help-keyboard-shortcuts =
-    .label = قەدبڕەکانی تەختەکلیل
-    .accesskey = ق
 appmenu-help-troubleshooting-info =
     .label = زانیاری گەڕان بۆ کێشەکان
     .accesskey = ز
@@ -93,6 +81,10 @@ appmenu-help-safe-mode-with-addons =
     .label = دووبارە پێکردنەوە بە پێوەکراوی چالاکەوە...
     .accesskey = چ
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -102,9 +94,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
     .accesskey = ن
-
-##
-
 
 ## More Tools
 
