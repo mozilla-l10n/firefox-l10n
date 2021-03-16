@@ -56,18 +56,6 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = Относно { -brand-shorter-name }
     .accesskey = О
-appmenu-help-product =
-    .label = Помощ за { -brand-shorter-name }
-    .accesskey = П
-appmenu-help-show-tour =
-    .label = Обиколка на { -brand-shorter-name }
-    .accesskey = б
-appmenu-help-import-from-another-browser =
-    .label = Внасяне от друг мрежов четец…
-    .accesskey = В
-appmenu-help-keyboard-shortcuts =
-    .label = Клавишни комбинации
-    .accesskey = К
 appmenu-help-troubleshooting-info =
     .label = Отстраняване на неизправности
     .accesskey = И
@@ -89,6 +77,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Рестартиране с включени добавки
     .accesskey = д
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -98,11 +90,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Това не е измамническа страница…
     .accesskey = н
-
-##
-
-appmenu-help-check-for-update =
-    .label = Проверка за обновявания...
 
 ## More Tools
 
