@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Nětko synchronizować
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Nětko synchronizować
-    .value = Nětko synchronizować
+appmenuitem-fxa-toolbar-sync-now2 = Nětko synchronizować
 appmenuitem-fxa-manage-account = Manage Account
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Wo { -brand-shorter-name }
     .accesskey = W
-appmenu-help-product =
-    .label = { -brand-shorter-name } - Pomoc
-    .accesskey = m
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } - Tura
-    .accesskey = u
-appmenu-help-import-from-another-browser =
-    .label = Z druheho wobhladowaka importować…
-    .accesskey = d
-appmenu-help-keyboard-shortcuts =
-    .label = Tastowe skrótšenki
-    .accesskey = T
 appmenu-get-help =
     .label = Pomoc sej wobstarać
     .accesskey = P
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = To wobšudne sydło njeje…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Za aktualizacijemi pruwować…
 
 ## More Tools
 
