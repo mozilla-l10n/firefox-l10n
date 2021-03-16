@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ara
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Sincronizar ara
-    .value = Sincronizar ara
 appmenuitem-fxa-manage-account = Gestion del compte
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +132,6 @@ appmenu-help-header =
 appmenu-about =
     .label = A prepaus de { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = Ajuda de { -brand-shorter-name }
-    .accesskey = u
-appmenu-help-show-tour =
-    .label = Visita guidada de { -brand-shorter-name }
-    .accesskey = V
-appmenu-help-import-from-another-browser =
-    .label = Importar d’un autre navegador…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Acorchis de clavièr
-    .accesskey = c
 appmenu-get-help =
     .label = Obténer d’ajuda
     .accesskey = O
@@ -193,11 +178,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Es pas un site malvolent…
     .accesskey = m
-
-##
-
-appmenu-help-check-for-update =
-    .label = Recercar las mesas a jorn…
 
 ## More Tools
 
