@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Камера:
     .accesskey = К
+popup-select-camera-icon =
+    .tooltiptext = Камера
 popup-select-microphone-device =
     .value = Микрофон:
     .accesskey = М
+popup-select-microphone-icon =
+    .tooltiptext = Микрофон
 popup-all-windows-shared = Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.
 popup-screen-sharing-not-now =
     .label = Қазір емес
@@ -640,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Баптауларды басқа
 eme-notifications-drm-content-playing-manage-accesskey = б
 eme-notifications-drm-content-playing-dismiss = Тайдыру
 eme-notifications-drm-content-playing-dismiss-accesskey = д
+
+## Password save/update panel
+
+panel-save-update-username = Пайдаланушы аты
+panel-save-update-password = Пароль
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } өшіру керек пе?
+addon-removal-abuse-report-checkbox = Бұл кеңейту туралы { -vendor-short-name } адресіне шағым жасау

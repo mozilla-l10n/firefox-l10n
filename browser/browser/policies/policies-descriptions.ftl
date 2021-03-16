@@ -14,6 +14,7 @@ policy-3rdparty = WebExtensions chrome.storage.managed арқылы қатына
 policy-AppAutoUpdate = Қолданбаны автожаңартуды іске қосу немесе сөндіру.
 policy-AppUpdateURL = Қолданбаны жаңартудың таңдауыңызша URL-ын орнату.
 policy-Authentication = Құрамдас аутентификациясын қолдайтын веб-сайттары үшін оны баптау.
+policy-BackgroundAppUpdate = Браузер жұмыс істемей тұрған кезде оны жаңартатын фондық жаңартқышты іске қосу немесе сөндіру.
 policy-BlockAboutAddons = Қосымшалар басқарушысына (about:addons) қатынауды бұғаттау.
 policy-BlockAboutConfig = about:config парағына қатынауды бұғаттау.
 policy-BlockAboutProfiles = about:profiles парағына қатынауды бұғаттау.
