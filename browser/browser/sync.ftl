@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = Logga ut från { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Logga ut
+fxa-signout-dialog2-button = Logga ut
+fxa-signout-dialog2-checkbox = Ta bort data från den här enheten (lösenord, historik, bokmärken, etc.)
