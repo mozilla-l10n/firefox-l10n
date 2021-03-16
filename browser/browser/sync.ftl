@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = ¿Cerrar sesión de { -fxaccount-brand-name }?
     .style = min-width: 375px;
     .buttonlabelaccept = Cerrar sesión
+fxa-signout-dialog2-button = Cerrar sesión
+fxa-signout-dialog2-checkbox = Eliminar datos de este dispositivo (contraseñas, historial, marcadores, etc.).
