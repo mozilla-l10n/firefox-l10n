@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Abrir el menú">
+
 <!ENTITY navbarOverflow.label                "Más ferramientes…">
 
 <!-- Tab context menu -->
@@ -131,6 +132,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Amosar más">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
@@ -163,9 +166,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
-
 <!ENTITY emailPageCmd.label           "Unviar l'enllaz per corréu…">
 
 <!ENTITY fullZoom.label                 "Zoom">
@@ -191,6 +191,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracies!">
 
 <!ENTITY updateUnsupported.panelUI.label "Yá nun pues anovar más nesti sistema">
+<!ENTITY updateRestart.panelUI.label2 "Reaniciar p'anovar &brandShorterName;">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando los preseos…">
 
