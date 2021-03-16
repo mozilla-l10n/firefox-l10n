@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
-appmenuitem-fxa-toolbar-sync-now =
-    .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
-    .value = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+appmenuitem-fxa-toolbar-sync-now2 = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 appmenuitem-fxa-manage-account = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +131,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } ਬਾਰੇ
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } ਮਦਦ
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } ਟੂਰ
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = …ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਦਰਾਮਦ ਕਰੋ
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
-    .accesskey = K
 appmenu-get-help =
     .label = ਮਦਦ ਲਵੋ
     .accesskey = H
@@ -191,11 +177,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = ਇਹ ਭਰਮਪੂਰਨ ਸਾਈਟ ਨਹੀਂ ਹੈ…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = …ਅੱਪਡੇਟਾਂ ਲਈ ਚੈਕ ਕਰੋ
 
 ## More Tools
 
