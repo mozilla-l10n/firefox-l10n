@@ -36,23 +36,19 @@ appmenuitem-save-page =
 
 whatsnew-panel-header = ဘာတွေ အသစ် ပါလဲ
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
+## History panel
+
+
 ## Help panel
 
 appmenu-about =
     .label = { -brand-shorter-name } အကြောင်း
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } အကူအညီ
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } အလည်အပတ်
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = အခြား ဘရောင်ဇာ မှ တင်သွင်းရန်...
-    .accesskey = l
-appmenu-help-keyboard-shortcuts =
-    .label = ကီးဘုတ်အမြန်သုံးခလုတ်များ
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = အခက်အခဲဆိုင်ရာ ဖြေရှင်းခြင်းနည်းလမ်းများ
     .accesskey = T
@@ -70,6 +66,10 @@ appmenu-help-safe-mode-with-addons =
     .label = အတ်အွန်များဖွင့်ပြီး ပြန်စတင်ပါ
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -80,5 +80,5 @@ appmenu-help-not-deceptive =
     .label = အတုအယောင်ဝဘ်ဆိုက် မဟုတ်ပါ…
     .accesskey = d
 
-##
+## More Tools
 
