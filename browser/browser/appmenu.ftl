@@ -48,15 +48,6 @@ whatsnew-panel-header = പുതിയതെന്താണ്
 appmenu-about =
     .label = { -brand-shorter-name } സംബന്ധിച്ചു്
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } സഹായം
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } പര്യടനം
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = കീബോര്‍ഡിനുള്ള കുറുക്കുവഴികള്‍
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരങ്ങള്‍
     .accesskey = T
@@ -76,6 +67,10 @@ appmenu-help-safe-mode-with-addons =
     .label = ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കൂ
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -85,9 +80,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = ഇത് വഞ്ചനാപരമായ സൈറ്റല്ല…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
