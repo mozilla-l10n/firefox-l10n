@@ -3,33 +3,34 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Feed Subscriptions">
-<!ENTITY learnMore.label             "Learn more about Feeds">
+<!ENTITY feedSubscriptions.label     "Abonfluoj">
+<!ENTITY learnMore.label             "Pli da informo pri abonfluoj">
 
-<!ENTITY feedTitle.label             "Title:">
+<!ENTITY feedTitle.label             "Titolo:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "Feed URL:">
-<!ENTITY feedLocation.accesskey      "F">
-<!ENTITY locationValidate.label      "Validate">
-<!ENTITY validateText.label          "Check validation and retrieve a valid url.">
+<!ENTITY feedLocation.label          "Ligilo de fluo:">
+<!ENTITY feedLocation.accesskey      "L">
+<!ENTITY feedLocation2.placeholder   "Enigu ĝustan adreson de RSS-abonfluo">
+<!ENTITY locationValidate.label      "Validigi">
+<!ENTITY validateText.label          "Kontroli ĝustecon kaj akiri ĝustan ligilon de abonfluo.">
 
-<!ENTITY feedFolder.label            "Store Articles in:">
-<!ENTITY feedFolder.accesskey        "S">
+<!ENTITY feedFolder.label            "Konservi artikolojn en:">
+<!ENTITY feedFolder.accesskey        "K">
 
 <!-- Account Settings and Subscription Dialog -->
-<!ENTITY biffStart.label             "Check for new articles every ">
-<!ENTITY biffStart.accesskey         "k">
-<!ENTITY biffMinutes.label           "minutes">
-<!ENTITY biffMinutes.accesskey       "n">
-<!ENTITY biffDays.label              "days">
-<!ENTITY biffDays.accesskey          "d">
-<!ENTITY recommendedUnits.label      "Publisher recommends:">
+<!ENTITY biffStart.label             "Kontroli pri novaj artikoloj je ĉiu ">
+<!ENTITY biffStart.accesskey         "o">
+<!ENTITY biffMinutes.label           "minutoj">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "tagoj">
+<!ENTITY biffDays.accesskey          "t">
+<!ENTITY recommendedUnits.label      "Konsilo de eldonisto:">
 
-<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
-<!ENTITY quickMode.accesskey         "h">
+<!ENTITY quickMode.label             "Montri sumigon de la artikolo anstataŭ ŝargi la retpaĝon">
+<!ENTITY quickMode.accesskey         "s">
 
-<!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
+<!ENTITY autotagEnable.label         "Aŭtomate krei etikedojn surbaze de nomoj en elementoj &lt;category&gt; de abonfluo">
 <!ENTITY autotagEnable.accesskey     "o">
 <!ENTITY autotagUsePrefix.label      "Prefix tags with:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
