@@ -280,6 +280,8 @@ identity-passive-loaded = 페이지의 일부(이미지 등)가 안전하지 않
 identity-active-loaded = 이 페이지에서 보호를 비활성화하셨습니다.
 identity-weak-encryption = 이 페이지는 약한 암호화를 사용합니다.
 identity-insecure-login-forms = 이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.
+identity-permissions =
+    .value = 권한
 identity-https-only-connection-upgraded = (HTTPS로 업그레이드됨)
 identity-https-only-label = HTTPS 전용 모드
 identity-https-only-dropdown-on =
@@ -291,8 +293,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = { -brand-short-name }가 가능한 경우 연결을 업그레이드하도록 하려면 이 사이트에 대해 HTTPS 전용 모드를 켜세요.
 identity-https-only-info-turn-off2 = 페이지가 손상된 것 같으면 이 사이트가 안전하지 않은 HTTP를 사용하여 다시 로드되도록 HTTPS 전용 모드를 끌 수 있습니다.
 identity-https-only-info-no-upgrade = HTTP에서 연결을 업그레이드할 수 없습니다.
-identity-permissions =
-    .value = 권한
 identity-permissions-storage-access-header = 교차 사이트 쿠키
 identity-permissions-storage-access-hint = 이 당사자는 사용자가 이 사이트에 있는 동안 교차 사이트 쿠키 및 사이트 데이터를 사용할 수 있습니다.
 identity-permissions-reload-hint = 변경 사항을 적용하려면 페이지를 다시 로드해야할 수도 있습니다.
@@ -340,8 +340,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = 재생 중
-browser-tab-audio-muted = 음소거됨
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = 재생 중
 # This label should be written in all capital letters if your locale supports them.
@@ -350,6 +348,26 @@ browser-tab-audio-muted2 = 음소거됨
 browser-tab-audio-blocked = 자동 재생 차단됨
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = 화면 속 화면
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] 탭 음소거
+       *[other] 탭 { $count }개 음소거
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] 탭 음소거 해제
+       *[other] 탭 { $count }개 음소거 해제
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] 탭 재생
+       *[other] 탭 { $count }개 재생
+    }
 
 ## Bookmarks toolbar items
 
@@ -542,8 +560,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = 모든 북마크 보기
-bookmarks-recent-bookmarks =
-    .value = 최근 북마크됨
 bookmarks-manage-bookmarks =
     .label = 북마크 관리
 bookmarks-recent-bookmarks-panel =
@@ -564,12 +580,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] 북마크 탐색창 숨기기
            *[other] 북마크 탐색창 보기
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] 북마크 도구 모음 숨기기
-           *[other] 북마크 도구 모음 표시
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -616,10 +626,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = 북마크
-library-bookmarks-bookmark-this-page =
-    .label = 이 페이지 북마크
-library-bookmarks-bookmark-edit =
-    .label = 이 북마크 편집
 library-recent-activity-title =
     .value = 최근 활동
 

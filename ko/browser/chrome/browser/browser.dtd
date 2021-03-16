@@ -59,7 +59,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.settings.label "설정">
 <!ENTITY fxa.menu.accountSettings.label "계정 설정">
 <!ENTITY fxa.menu.manageAccount2.label "계정 관리">
-<!ENTITY fxa.menu.signOut.label "로그 아웃…">
+<!ENTITY fxa.menu.signOut.label "로그아웃…">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; 설정…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -220,9 +220,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "페이지를 Pocket에 저장">
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 <!ENTITY pocketMenuitem.label         "Pocket 목록 보기">
 
 <!ENTITY emailPageCmd.label           "메일로 링크 보내기…">
