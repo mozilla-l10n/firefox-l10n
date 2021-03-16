@@ -112,18 +112,6 @@ appmenu-help-header =
 appmenu-about =
     .label = О програму { -brand-shorter-name }
     .accesskey = О
-appmenu-help-product =
-    .label = Помоћ за { -brand-shorter-name }
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } водич
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Увезите из другог прегледача…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Пречице на тастатури
-    .accesskey = K
 appmenu-get-help =
     .label = Потражи помоћ
     .accesskey = H
@@ -148,6 +136,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Рестартуј са омогућеним додацима
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -157,11 +149,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ово није обманљив сајт…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Провери ажурирања…
 
 ## More Tools
 
