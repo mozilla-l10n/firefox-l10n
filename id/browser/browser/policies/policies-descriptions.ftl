@@ -14,6 +14,7 @@ policy-3rdparty = Tetapkan kebijakan yang dapat diakses WebExtensions melalui ch
 policy-AppAutoUpdate = Aktifkan atau nonaktifkan pembaruan aplikasi otomatis.
 policy-AppUpdateURL = Atur URL pemutakhiran aplikasi khusus
 policy-Authentication = Atur autentikasi terintegrasi untuk situs lain yang mendukung.
+policy-BackgroundAppUpdate = Aktifkan atau nonaktifkan pembaruan latar belakang, yang akan memperbarui versi peramban saat tidak berjalan.
 policy-BlockAboutAddons = Blokir akses ke Pengelola Pengaya (about:addons).
 policy-BlockAboutConfig = Blokir akses ke laman about:config.
 policy-BlockAboutProfiles = Blokir akses ke laman about:profiles.
