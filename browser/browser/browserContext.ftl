@@ -120,6 +120,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = Amestar esti enllaz a Marcadores
     .accesskey = e
+main-context-menu-bookmark-link =
+    .label = Amestar l'enllaz a Marcadores
+    .accesskey = M
 main-context-menu-save-link =
     .label = Guardar l'enllaz como…
     .accesskey = z
@@ -131,12 +134,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Copiar la direición de corréu
     .accesskey = d
 main-context-menu-copy-link =
     .label = Copiar l'allugamientu del enllaz
     .accesskey = a
+main-context-menu-copy-link-simple =
+    .label = Copiar l'enllaz
+    .accesskey = l
 
 ## Media (video/audio) controls
 ##
@@ -179,6 +190,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Desaxerada (2×)
     .accesskey = s
+main-context-menu-media-play-speed-2 =
+    .label = Velocidá
+    .accesskey = V
+main-context-menu-media-play-speed-slow-2 =
+    .label = ×0,5
+main-context-menu-media-play-speed-normal-2 =
+    .label = ×1,0
+main-context-menu-media-play-speed-fast-2 =
+    .label = ×1,25
+main-context-menu-media-play-speed-faster-2 =
+    .label = ×1,5
+main-context-menu-media-play-speed-fastest-2 =
+    .label = ×2
 main-context-menu-media-loop =
     .label = Repitición
     .accesskey = R
@@ -215,6 +239,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ver el videu
     .accesskey = i
+main-context-menu-image-view-new-tab =
+    .label = Abrir la imaxe nuna llingüeta nueva
+    .accesskey = i
+main-context-menu-video-view-new-tab =
+    .label = Abrir el videu nuna llingüeta nueva
+    .accesskey = v
 main-context-menu-image-copy =
     .label = Copiar la imaxe
     .accesskey = x
@@ -227,6 +257,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = Copiar l'allugamientu del audiu
     .accesskey = u
+main-context-menu-image-copy-link =
+    .label = Copiar l'enllaz de la imaxe
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Copiar l'enllaz del videu
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Copiar l'enllaz del audiu
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Guardar la imaxe como…
     .accesskey = G
@@ -275,6 +314,17 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Usar una contraseña xenerada…
     .accesskey = x
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
+main-context-menu-manage-logins =
+    .label = Xestionar los anicios de sesión…
+    .accesskey = X
 main-context-menu-keyword =
     .label = Amestar una pallabra clave pa esta busca…
     .accesskey = l
@@ -317,6 +367,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Ver l'orixe de la esbilla
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Facer una captura
+    .accesskey = F
 main-context-menu-view-page-source =
     .label = Ver el códigu fonte de la páxina
     .accesskey = V

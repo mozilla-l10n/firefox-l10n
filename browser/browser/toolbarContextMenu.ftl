@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Desfacer el zarru de les llingüetes
         }
     .accesskey = D
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Volver abrir la llingüeta zarrada
+            [one] Volver abrir les llingüetes zarraes
+           *[other] Volver abrir les llingüetes zarraes
+        }
+    .accesskey = a
 toolbar-context-menu-manage-extension =
     .label = Xestionar la estensión
     .accesskey = e
@@ -46,11 +54,17 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Anubrir automáticamente na barra de ferramientes
     .accesskey = A
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Anubrir al nun haber descargues
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Quitar de la barra de ferramientes
     .accesskey = Q
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalizar…
+    .accesskey = P
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Personalizar la barra de ferramientes…
     .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Amosar siempres
