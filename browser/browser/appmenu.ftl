@@ -43,15 +43,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } সহায়তা
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } ট্যুর
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = কীবোর্ড শর্টকাট
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = সমাধান করার তথ্য
     .accesskey = T
@@ -73,6 +64,10 @@ appmenu-help-safe-mode-with-addons =
     .label = অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -82,9 +77,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = এটি কোন ক্ষতিকারক সাইট না…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
