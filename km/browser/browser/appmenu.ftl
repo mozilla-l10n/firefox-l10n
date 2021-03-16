@@ -49,15 +49,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = អំពី { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = ជំនួយ { -brand-shorter-name }
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = ទេសចរណ៍ { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = គ្រាប់ចុច​ផ្លូវកាត់
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = ព័ត៌មាន​អំពី​ដំណោះស្រាយ​បញ្ហា
     .accesskey = T
@@ -92,9 +83,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = នេះ​មិនមែន​ជា​វេបសាយ​បញ្ឆោត​ទេ…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
