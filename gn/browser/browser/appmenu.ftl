@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Embojuehe ko’ág̃a
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Embojuehe ko’ág̃a
-    .value = Embojuehe ko’ág̃a
+appmenuitem-fxa-toolbar-sync-now2 = Embojuehe ko’ág̃a
 appmenuitem-fxa-manage-account = Mba’ete Ñangarekoha
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } rehegua
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } Oipytyvõ
-    .accesskey = O
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } rehe jeguata
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Egueru ambue kundahára guive…
-    .accesskey = l
-appmenu-help-keyboard-shortcuts =
-    .label = Tairenda mbopya’eha
-    .accesskey = K
 appmenu-get-help =
     .label = Eguereko pytyvõ
     .accesskey = H
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Kóva ndaha’éi tenda ombotavyséva…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Ehechajey oĩpa ñembohekopyahu…
 
 ## More Tools
 
