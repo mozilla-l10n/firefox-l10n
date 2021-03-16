@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Mtawi tura
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Mtawi tura
-    .value = Mtawi tura
 appmenuitem-fxa-manage-account = Sefrek amiḍan
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +132,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Ɣef { -brand-shorter-name }
     .accesskey = Γ
-appmenu-help-product =
-    .label = Tallelt { -brand-shorter-name }
-    .accesskey = a
-appmenu-help-show-tour =
-    .label = Tirza fessusen ɣer { -brand-shorter-name }
-    .accesskey = r
-appmenu-help-import-from-another-browser =
-    .label = Kter seg iminig nniḍen…
-    .accesskey = K
-appmenu-help-keyboard-shortcuts =
-    .label = Inegzumen n unasiw
-    .accesskey = I
 appmenu-get-help =
     .label = Awi tallalt
     .accesskey = A
@@ -190,11 +175,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Mačči d asmel web n ukellex…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Senqed ma llan ileqman…
 
 ## More Tools
 
