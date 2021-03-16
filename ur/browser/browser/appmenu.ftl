@@ -78,18 +78,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name } کے بارے میں
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } مدد
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } جائزہ
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = دوسرے براؤزر سے درآمد کریں…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = کلیدی تختہ تیز راہیں
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = ازالہ کاری معلومات
     .accesskey = T
@@ -111,6 +99,10 @@ appmenu-help-safe-mode-with-addons =
     .label = ایڈ اون اہل کر کے دوباره شروع کریں
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -120,11 +112,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = یہ فریبی سائٹ نہیں ہے…
     .accesskey = ف
-
-##
-
-appmenu-help-check-for-update =
-    .label = اپ ڈیٹ کے لیے چیک کریں…
 
 ## More Tools
 
