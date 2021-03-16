@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchronisar ora
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Synchronisar ora
-    .value = Synchronisar ora
+appmenuitem-fxa-toolbar-sync-now2 = Synchronisar ora
 appmenuitem-fxa-manage-account = Gerer conto
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = A proposito de { -brand-shorter-name }
     .accesskey = p
-appmenu-help-product =
-    .label = Adjuta de { -brand-shorter-name }
-    .accesskey = A
-appmenu-help-show-tour =
-    .label = Visita guidate de { -brand-shorter-name }
-    .accesskey = V
-appmenu-help-import-from-another-browser =
-    .label = Importar ab un altere navigator…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Claves de accesso directe
-    .accesskey = C
 appmenu-get-help =
     .label = Obtener adjuta
     .accesskey = a
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Iste sito non es fraudulente…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Verificar actualisationes…
 
 ## More Tools
 
