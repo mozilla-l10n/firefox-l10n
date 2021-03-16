@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronize cumò
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Sincronize cumò
-    .value = Sincronize cumò
 appmenuitem-fxa-manage-account = Gjestìs account
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +132,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Informazion su { -brand-shorter-name }
     .accesskey = I
-appmenu-help-product =
-    .label = Jutori di { -brand-shorter-name }
-    .accesskey = J
-appmenu-help-show-tour =
-    .label = Visite vuidade di { -brand-shorter-name }
-    .accesskey = V
-appmenu-help-import-from-another-browser =
-    .label = Impuarte di un altri navigadôr…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Scurtis di tastiere
-    .accesskey = S
 appmenu-get-help =
     .label = Oten jutori
     .accesskey = j
@@ -193,11 +178,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Chest nol è un sît ingjanôs…
     .accesskey = n
-
-##
-
-appmenu-help-check-for-update =
-    .label = Cîr inzornaments…
 
 ## More Tools
 
