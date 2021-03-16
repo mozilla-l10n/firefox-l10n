@@ -51,6 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронізувати зараз
+appmenuitem-fxa-toolbar-sync-now2 = Синхронізувати
 appmenuitem-fxa-manage-account = Керувати обліковим записом
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
