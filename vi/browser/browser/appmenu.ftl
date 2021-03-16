@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Đồng bộ ngay
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Đồng bộ ngay
-    .value = Đồng bộ ngay
+appmenuitem-fxa-toolbar-sync-now2 = Đồng bộ ngay
 appmenuitem-fxa-manage-account = Quản lý tài khoản
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +133,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Về { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = Trợ giúp { -brand-shorter-name }
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = Các tính năng cơ bản của { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Nhập dữ liệu từ trình duyệt khác…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Các phím tắt bàn phím
-    .accesskey = K
 appmenu-get-help =
     .label = Nhận trợ giúp
     .accesskey = H
@@ -193,11 +179,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Đây không phải là một trang lừa đảo…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Kiểm tra cập nhật…
 
 ## More Tools
 
