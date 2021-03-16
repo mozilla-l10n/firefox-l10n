@@ -58,7 +58,7 @@ cert-error-details-cert-chain-label = Վկայագրի նպատակ.
 open-in-new-window-for-csp-or-xfo-error = Բացել կայքը նոր պատուհանում
 # Variables:
 # $hostname (String) - Hostname of the website blocked by csp or xfo error.
-csp-xfo-blocked-long-desc = Ձեր անվտանգութիւնն ապահովելու համար { $hostname }չի թոյլատրի { -brand-short-name } ցուցադրել էջը, եթե այլ կայք է ներկառուցուել․ Այս էջը տեսնելու համար բացել այն այլ պատուհանում։
+csp-xfo-blocked-long-desc = Ձեր անվտանգութիւնն ապահովելու համար { $hostname }չի թոյղատրի { -brand-short-name } ցուցադրել էջը, եթե այլ կայք է ներկառուցուել․ Այս էջը տեսնելու համար բացել այն այլ պատուհանում։
 
 ## Messages used for certificate error titles
 

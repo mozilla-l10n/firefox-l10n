@@ -177,7 +177,7 @@ cfr-doorhanger-send-tab-ok-button = Փորձեք ուղարկել ներդիր
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Համաւգտագործել այս PDF- ն անուտանգ կերպով
-cfr-doorhanger-firefox-send-body = Պահպանեք Ձեր զգայուն փաստաթղթերը զերծ հայացք նետելուց՝ վերջնական ծածկագրմամբ եւ այն յղմամբ, որն անյայտանում է, երբ աւարտուում եք։
+cfr-doorhanger-firefox-send-body = Պահպանէք Ձեր կարեւոր փաստաթղթերը հետաքրքրասէր հայեացքներից՝ ծայրեծայր գաղտնագրմամբ եւ յղմամբ, որն անյայտանում է, երբ աւարտում էք։
 cfr-doorhanger-firefox-send-ok-button = Փորձեք { -send-brand-name }
     .accesskey = T
 
