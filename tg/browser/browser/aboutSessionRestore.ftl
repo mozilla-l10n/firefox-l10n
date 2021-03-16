@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Барқарор кардани ҷаласа
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Мутаассифона, мо саҳифаҳои шуморо барқарор карда наметавонем.
+restore-page-problem-desc = Мо ҷаласаи тамошокунии охирини шуморо барқарор карда наметавонем. «Барқарор кардани ҷаласа»-ро интихоб карда, аз нав кӯшиш кунед.
 restore-page-hide-tabs = Пинҳон кардани варақаҳои қаблӣ
 restore-page-show-tabs = Нишон додани варақаҳои қаблӣ
 # When tabs are distributed across multiple windows, this message is used as a
