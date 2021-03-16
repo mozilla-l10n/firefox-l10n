@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 立即同步
-appmenuitem-fxa-toolbar-sync-now =
-    .label = 立即同步
-    .value = 立即同步
 appmenuitem-fxa-manage-account = 管理账户
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +130,6 @@ appmenu-help-header =
 appmenu-about =
     .label = 关于 { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } 帮助
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } 导览
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = 从其他浏览器导入…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = 键盘快捷键
-    .accesskey = K
 appmenu-get-help =
     .label = 获取帮助
     .accesskey = H
@@ -191,11 +176,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = 这不是诈骗网站…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = 检查更新…
 
 ## More Tools
 
