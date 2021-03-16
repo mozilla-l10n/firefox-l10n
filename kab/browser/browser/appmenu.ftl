@@ -51,6 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Mtawi tura
+appmenuitem-fxa-toolbar-sync-now2 = Mtawi tura
 appmenuitem-fxa-manage-account = Sefrek amiḍan
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
