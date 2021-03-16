@@ -6,6 +6,9 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Llingüeta nueva
+newtab-personalize-button-label = Personalizar
+    .title = Personaliza «Llingüeta nueva»
+    .aria-label = Personalizar «Llingüeta nueva»
 
 ## Search box component.
 
@@ -13,8 +16,13 @@ newtab-page-title = Llingüeta nueva
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-shortcut-header = Atayu nuevu
+newtab-topsites-edit-shortcut-header = Edición d'un atayu
 newtab-topsites-title-label = Títulu
+newtab-topsites-title-input =
+    .placeholder = Introduz un títulu
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Teclexa o apiega una URL
 newtab-topsites-url-validation = Ríquese una URL válida
 newtab-topsites-use-image-link = Usar una imaxe personalizada…
 
@@ -36,6 +44,10 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 
 ## Context Menu - Action Tooltips.
 
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Editar esti sitiu
+    .aria-label = Editar esti sitiu
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -133,11 +145,15 @@ newtab-error-fallback-info = Meca, asocedió daqué malo al cargar esti contení
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Atayos
+newtab-custom-shortcuts-subtitle = Sitios que guardes o visites
 newtab-custom-recent-title = Actividá recién
 newtab-custom-recent-subtitle = Una esbilla de los sitios y el conteníu de recién
+newtab-custom-close-button = Zarrar
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 newtab-custom-snippets-title = Cachos d'información
 newtab-custom-snippets-subtitle = Conseyos y noticies de { -vendor-short-name } y { -brand-product-name }
+newtab-custom-settings = Xestionar más axustes
