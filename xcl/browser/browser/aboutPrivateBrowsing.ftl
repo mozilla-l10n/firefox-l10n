@@ -4,3 +4,8 @@
 
 privatebrowsingpage-open-private-window-label = Բանալ զգաղտնի պատուհան
     .accesskey = Պ
+about-private-browsing-search-placeholder = Խնդրել առցանց:
+about-private-browsing-info-title = Դուք Գաղտնի դիտարկման մէջ էք:
+about-private-browsing-info-myths = Տարածուած առասպելք վասն գաղտնի զնարկումն:
+about-private-browsing =
+    .title = Որոնել առցանց
