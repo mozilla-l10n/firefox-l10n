@@ -51,6 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 立即同步
+appmenuitem-fxa-toolbar-sync-now2 = 立即同步
 appmenuitem-fxa-manage-account = 管理账户
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
