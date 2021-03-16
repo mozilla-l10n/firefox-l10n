@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = סנכרון כעת
-appmenuitem-fxa-toolbar-sync-now =
-    .label = סנכרון כעת
-    .value = סנכרון כעת
 appmenuitem-fxa-manage-account = ניהול חשבון
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name(case: "a") }
@@ -132,18 +129,6 @@ appmenu-help-header =
 appmenu-about =
     .label = על אודות { -brand-shorter-name }
     .accesskey = א
-appmenu-help-product =
-    .label = עזרה עבור { -brand-shorter-name }
-    .accesskey = ע
-appmenu-help-show-tour =
-    .label = סיור ב־{ -brand-shorter-name }
-    .accesskey = ס
-appmenu-help-import-from-another-browser =
-    .label = ייבוא מדפדפן אחר…
-    .accesskey = י
-appmenu-help-keyboard-shortcuts =
-    .label = קיצורי מקלדת
-    .accesskey = ק
 appmenu-get-help =
     .label = קבלת עזרה
     .accesskey = ע
@@ -190,11 +175,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = אתר זה אינו אתר מטעה…
     .accesskey = א
-
-##
-
-appmenu-help-check-for-update =
-    .label = בדיקה אחר עדכונים…
 
 ## More Tools
 
