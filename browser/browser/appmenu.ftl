@@ -51,6 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = 지금 동기화
+appmenuitem-fxa-toolbar-sync-now2 = 지금 동기화
 appmenuitem-fxa-manage-account = 계정 관리
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
