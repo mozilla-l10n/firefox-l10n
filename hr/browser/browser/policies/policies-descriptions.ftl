@@ -14,6 +14,7 @@ policy-3rdparty = Postavi pravila kojima će WebExtensions moći pristupiti pute
 policy-AppAutoUpdate = Aktiviraj ili deaktiviraj automatsko aktualiziranje programa.
 policy-AppUpdateURL = Postavi prilagođeni URL za aktualiziranje programa.
 policy-Authentication = Postavi integriranu provjeru autentičnosti za web stranice koje to podržavaju.
+policy-BackgroundAppUpdate = Omogućite ili onemogućite pozadinski program za ažuriranje koji ažurira preglednik kada nije pokrenut.
 policy-BlockAboutAddons = Blokiraj pristup upravljaču dodataka (about:addons).
 policy-BlockAboutConfig = Blokiraj pristup stranici about:config.
 policy-BlockAboutProfiles = Blokiraj pristup stranici about:profiles.
