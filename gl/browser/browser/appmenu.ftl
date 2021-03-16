@@ -45,6 +45,16 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar agora
+appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
+appmenuitem-fxa-manage-account = Xestionar conta
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
+appmenu-fxa-sync-and-save-data =
+    .value = Sincronizar e gardar datos
+appmenu-fxa-signed-in-label = Identificarse
+appmenu-fxa-setup-sync =
+    .label = Activar a sincronización
+appmenu-fxa-show-more-tabs = Mostrar máis lapelas
 appmenuitem-save-page =
     .label = Gardar páxina como…
 
