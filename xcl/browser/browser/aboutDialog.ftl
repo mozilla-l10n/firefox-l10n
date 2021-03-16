@@ -11,3 +11,5 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = Վերամեկնարկեա՛, զի արդիացուսցես զ֊ { -brand-shorter-name }
     .accesskey = Ռ
+update-checkingForUpdates = Ստուգումն արդիացմանց
+update-downloading = <img data-l10n-name="icon"/>Ներբեռնումն արդիացման — <label data-l10n-name="download-status"/>
