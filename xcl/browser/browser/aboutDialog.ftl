@@ -22,3 +22,6 @@ update-noUpdatesFound = { -brand-short-name } արդիական է։
 update-otherInstanceHandlingUpdates = { -brand-short-name } արդիացուցանի այժմ ի ձեռն այղոյ իրիք
 update-manual = Արդիացմունք հասանելիք ի <label data-l10n-name="manual-link"/>
 update-restarting = Վերամեկնարկումն
+channel-description = Այժմուս կաս ի <label data-l10n-name="current-channel"></label> արդիացման խուղակի։
+warningDesc-version = { -brand-short-name } առ ի փորձ է եւ մարթի անկայուն գոլ։
+aboutdialog-help-user = { -brand-product-name } Աւգնութիւն
