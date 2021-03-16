@@ -43,15 +43,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Perihal { -brand-shorter-name }
     .accesskey = P
-appmenu-help-product =
-    .label = Bantuan { -brand-shorter-name }
-    .accesskey = B
-appmenu-help-show-tour =
-    .label = Teroka { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = Pintasan Papan Kekunci
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Maklumat Pencarisilapan
     .accesskey = P
@@ -73,6 +64,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Mula semula dengan Add-ons Didayakan
     .accesskey = M
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -82,9 +77,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ini bukan laman mengelirukan…
     .accesskey = m
-
-##
-
 
 ## More Tools
 
