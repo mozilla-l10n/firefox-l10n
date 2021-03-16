@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Importálás fájlból:
 calendar-ics-file-dialog-calendar-menu-label = Importálás a naptárba:
 calendar-ics-file-dialog-items-loading-message =
     .value = Elemek betöltése…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Elemek szűrése…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Rendezés kezdődátum szerint (elsőtől az utolsóig)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Rendezés kezdődátum szerint (utolsótól az elsőig)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Rendezés cím szerint (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Rendezés cím szerint (Z > A)
 calendar-ics-file-dialog-progress-message = Importálás…
 calendar-ics-file-import-success = Sikeresen importálva!
 calendar-ics-file-import-error = HIba történt és az importálás sikertelen.
