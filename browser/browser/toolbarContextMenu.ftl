@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Desfacer o peche da lapelas
         }
     .accesskey = U
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Reabrir lapela pechada
+            [one] Reabrir lapela pechada
+           *[other] Reabrir lapelas pechadas
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Xestionar extensión
     .accesskey = e
@@ -46,21 +54,18 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Agochar automaticamente na barra de ferramentas
     .accesskey = A
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Agochar botón ao estar baleiro
+    .accesskey = h
 toolbar-context-menu-remove-from-toolbar =
     .label = Retirar da barra de ferramentas
     .accesskey = R
 toolbar-context-menu-view-customize-toolbar =
     .label = Personalizar…
     .accesskey = P
-toolbar-context-menu-bookmarks-toolbar-always-show =
-    .label = Sempre
-    .accesskey = S
-toolbar-context-menu-bookmarks-toolbar-never-show =
-    .label = Nunca
-    .accesskey = N
-toolbar-context-menu-bookmarks-toolbar-on-new-tab =
-    .label = Só nas lapelas novas
-    .accesskey = l
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Personalizar barra de ferramentas…
+    .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Mostrar sempre
     .accesskey = s
