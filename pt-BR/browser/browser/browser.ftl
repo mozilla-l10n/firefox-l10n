@@ -288,6 +288,8 @@ identity-passive-loaded = Partes desta página não são seguras (como imagens).
 identity-active-loaded = Você desativou a proteção nesta página.
 identity-weak-encryption = Esta página usa criptografia fraca.
 identity-insecure-login-forms = As contas de acesso inseridas nesta página podem ser comprometidas.
+identity-permissions =
+    .value = Permissões
 identity-https-only-connection-upgraded = (promovido a HTTPS)
 identity-https-only-label = Modo somente HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ative o modo somente HTTPS neste site se quiser que o { -brand-short-name } promova a conexão quando possível.
 identity-https-only-info-turn-off2 = Se a página parecer não funcionar, você pode desativar o modo somente HTTPS neste site para recarregar usando HTTP não seguro.
 identity-https-only-info-no-upgrade = Não foi possível promover a conexão de HTTP.
-identity-permissions =
-    .value = Permissões
 identity-permissions-storage-access-header = Cookies entre sites
 identity-permissions-storage-access-hint = Essas partes podem usar cookies entre sites e dados do site enquanto você estiver nesse site.
 identity-permissions-reload-hint = Pode ser necessário recarregar a página para que as alterações sejam aplicadas.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Reproduzindo
-browser-tab-audio-muted = Sem som
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = REPRODUZINDO
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,26 @@ browser-tab-audio-muted2 = SEM SOM
 browser-tab-audio-blocked = REPRODUÇÃO AUTOMÁTICA BLOQUEADA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] SILENCIAR ABA
+       *[other] SILENCIAR { $count } ABAS
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ATIVAR SOM DA ABA
+       *[other] ATIVAR SOM DE { $count } ABAS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUZIR ABA
+       *[other] REPRODUZIR { $count } ABAS
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +568,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Mostrar todos os favoritos
-bookmarks-recent-bookmarks =
-    .value = Favoritos recentes
 bookmarks-manage-bookmarks =
     .label = Gerenciar favoritos
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +588,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Ocultar painel de favoritos
            *[other] Exibir painel de favoritos
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ocultar Barra de Favoritos
-           *[other] Ver barra de favoritos
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +634,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Favoritos
-library-bookmarks-bookmark-this-page =
-    .label = Adicionar página aos favoritos
-library-bookmarks-bookmark-edit =
-    .label = Editar este favorito
 library-recent-activity-title =
     .value = Atividade recente
 
