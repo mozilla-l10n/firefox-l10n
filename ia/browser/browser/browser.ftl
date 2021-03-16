@@ -288,6 +288,8 @@ identity-passive-loaded = Partes de iste pagina non es secur (per exemplo, imagi
 identity-active-loaded = Tu ha disactivate le protection sur iste pagina.
 identity-weak-encryption = Iste pagina usa cryptation debile.
 identity-insecure-login-forms = Credentiales inserite sur iste pagina poterea esser compromittite.
+identity-permissions =
+    .value = Permissiones
 identity-https-only-connection-upgraded = (promovite a HTTPS)
 identity-https-only-label = Modo solo HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Activa le modo solo HTTPS pro iste sito si tu vole que { -brand-short-name } securisa le connexion quando possibile.
 identity-https-only-info-turn-off2 = Si le pagina non functiona, prova disactivar le modo solo HTTPS pro iste sito e recargar con un connexion HTTP insecur.
 identity-https-only-info-no-upgrade = Impossibile promover le connexion HTTP.
-identity-permissions =
-    .value = Permissiones
 identity-permissions-storage-access-header = Cookies inter-sitos
 identity-permissions-storage-access-hint = Iste partes pote usar cookies inter-sitos e datos del sito durante que tu es sur iste sito.
 identity-permissions-reload-hint = Il es possibile que tu debe recargar le pagina pro que le cambios se applica.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = In reproduction
-browser-tab-audio-muted = Silentiate
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = In reproduction
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,26 @@ browser-tab-audio-muted2 = Silentiate
 browser-tab-audio-blocked = Auto-reproduction blocate
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = Imagine-in-imagine
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] SILENTIAR SCHEDA
+       *[other] SILENTIAR { $count } SCHEDAS
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] DE-SILENTIAR SCHEDA
+       *[other] DE-SILENTIAR { $count } SCHEDAS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUCER SCHEDA
+       *[other] REPRODUCER { $count } SCHEDAS
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +568,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Monstrar tote le marcapaginas
-bookmarks-recent-bookmarks =
-    .value = Marcapaginas recente
 bookmarks-manage-bookmarks =
     .label = Gerer marcapaginas
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +588,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Celar le barra lateral de marcapaginas
            *[other] Vider le barra lateral de marcapaginas
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Celar le barra de marcapaginas
-           *[other] Vider le barra de marcapaginas
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +634,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Marcapaginas
-library-bookmarks-bookmark-this-page =
-    .label = Adder un marcapaginas
-library-bookmarks-bookmark-edit =
-    .label = Modificar iste marcapaginas
 library-recent-activity-title =
     .value = Recente activitate
 
