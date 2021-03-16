@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Abrir nunha nova lapela
     .accesskey = v
+places-open-in-tab =
+    .label = Abrir nunha nova lapela
+    .accesskey = w
+places-open-all-bookmarks =
+    .label = Abrir todos os marcadores
+    .accesskey = o
 places-open-all-in-tabs =
     .label = Abrir todo en lapelas
     .accesskey = o
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Novo separador
     .accesskey = v
+places-open-in-window =
+    .label = Abrir nunha nova xanela
+    .accesskey = n
+places-open-in-private-window =
+    .label = Abrir nunha nova xanela privada
+    .accesskey = p
+places-add-bookmark =
+    .label = Engadir marcador…
+    .accesskey = m
+places-add-folder-contextmenu =
+    .label = Engadir cartafol…
+    .accesskey = c
+places-add-folder =
+    .label = Engadir cartafol…
+    .accesskey = o
+places-add-separator =
+    .label = Engadir separador
+    .accesskey = s
 places-view =
     .label = Ver
     .accesskey = V
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Propiedades
     .accesskey = r
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Editar marcador…
+    .accesskey = i
+places-edit-generic =
+    .label = Editar…
+    .accesskey = i
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcadores xestionados
@@ -69,3 +100,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Outros marcadores
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Retirar marcador
+            [one] Retirar marcadores
+           *[other] Retirar marcadores
+        }
+    .accesskey = R
+places-manage-bookmarks =
+    .label = Xestionar marcadores
+    .accesskey = X

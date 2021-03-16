@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = A súa privacidade importa. { -brand-s
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } bloqueou máis de <b> { $blockedCount }</b> rastrexadores desde { $date }!
        *[other] { -brand-short-name } bloqueou máis de <b>{ $blockedCount }</b> rastrexadores desde { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } bloqueado en<b>{ $blockedCount }</b>rastrexadores desde { DATETIME($date, month: "long", year: "numeric") }
@@ -219,8 +222,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Pechar
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -245,6 +246,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icona de imaxe en imaxe
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Pechar
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Proteccións dunha soa ollada
 cfr-whatsnew-protections-body = O Panel de proteccións inclúe informes resumidos sobre incumprimentos de datos e xestión de contrasinais. Agora pode rastrear cantas infraccións resolveu e ver se algún dos seus contrasinais gardados estivo exposto nun roubo de datos.
 cfr-whatsnew-protections-cta-link = Ver panel de proteccións
@@ -261,6 +268,8 @@ cfr-doorhanger-doh-body = A súa privacidade importa. { -brand-short-name } diri
 cfr-doorhanger-doh-header = Consultas aos DNS cifradas e máis seguras
 cfr-doorhanger-doh-primary-button = Entendín
     .accesskey = E
+cfr-doorhanger-doh-primary-button-2 = Aceptar
+    .accesskey = A
 cfr-doorhanger-doh-secondary-button = Desactivar
     .accesskey = D
 
