@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Codaziun dal text
     .accesskey = C
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Modus per schliar problems…
+    .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Deactivar il modus per schliar problems
+    .accesskey = o
+menu-help-more-troubleshooting-info =
+    .label = Dapli infurmaziuns per schliar problems
+    .accesskey = m
+
 ## Mail Toolbar
 
 toolbar-junk-button =
