@@ -45,9 +45,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar agora
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Sincronizar agora
-    .value = Sincronizar agora
+appmenuitem-fxa-toolbar-sync-now2 = Sincronizar agora
 appmenuitem-fxa-manage-account = Xestionar la cuenta
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -121,18 +119,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Tocante a { -brand-shorter-name }
     .accesskey = T
-appmenu-help-product =
-    .label = Ayuda de { -brand-shorter-name }
-    .accesskey = A
-appmenu-help-show-tour =
-    .label = Percorríu per { -brand-shorter-name }
-    .accesskey = P
-appmenu-help-import-from-another-browser =
-    .label = Importar d'otru restolador…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Atayos del tecláu
-    .accesskey = t
 appmenu-get-help =
     .label = Consiguir ayuda
     .accesskey = a
@@ -179,11 +165,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Esti sitiu nun ye engañosu…
     .accesskey = e
-
-##
-
-appmenu-help-check-for-update =
-    .label = Comprobar los anovamientos…
 
 ## More Tools
 
