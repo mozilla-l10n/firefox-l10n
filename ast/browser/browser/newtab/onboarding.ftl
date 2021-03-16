@@ -82,6 +82,12 @@ onboarding-multistage-welcome-primary-button-label = Aniciar la configuración
 onboarding-multistage-welcome-secondary-button-label = Anicia sesión
 onboarding-multistage-welcome-secondary-button-text = ¿Tienes una cuenta?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. "default" should stay inside the span.
+onboarding-multistage-set-default-header = <span data-l10n-name="zap">Predetermina</span> { -brand-short-name }
+onboarding-multistage-set-default-subtitle = Velocidá, seguranza y privacidá al restolar.
+onboarding-multistage-set-default-primary-button-label = Predeterminar
+onboarding-multistage-set-default-secondary-button-label = Agora non
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importa les tos contraseñes, <br/>marcadores y <span data-l10n-name="zap">más</span>
 onboarding-multistage-import-subtitle = ¿Vienes d'otru restolador? Importalo too a { -brand-short-name } ye perfácil.
@@ -98,6 +104,7 @@ onboarding-welcome-steps-indicator =
 onboarding-multistage-theme-header = Escoyeta d'un <span data-l10n-name="zap">estilu</span>
 onboarding-multistage-theme-subtitle = Personaliza { -brand-short-name } con un estilu.
 onboarding-multistage-theme-primary-button-label = Guardar l'estilu
+onboarding-multistage-theme-primary-button-label2 = Fecho
 onboarding-multistage-theme-secondary-button-label = Agora non
 # Automatic theme uses operating system color settings
 onboarding-multistage-theme-label-automatic = Automáticu
@@ -116,9 +123,19 @@ onboarding-multistage-theme-tooltip-automatic-2 =
     .title =
         Herieda l'aspeutu del sistema operativu
         pa los botones, el menú y les ventanes.
+# Input description for automatic theme
+onboarding-multistage-theme-description-automatic-2 =
+    .aria-description =
+        Herieda l'aspeutu del sistema operativu
+        pa los botones, el menú y les ventanes.
 # Tooltip displayed on hover of light theme
 onboarding-multistage-theme-tooltip-light-2 =
     .title =
+        Usa un aspeutu claru pa los botones,
+        el menú y les ventanes.
+# Input description for light theme
+onboarding-multistage-theme-description-light =
+    .aria-description =
         Usa un aspeutu claru pa los botones,
         el menú y les ventanes.
 # Tooltip displayed on hover of dark theme
@@ -126,8 +143,18 @@ onboarding-multistage-theme-tooltip-dark-2 =
     .title =
         Usa un aspeutu escuru pa los botones,
         el menú y les ventanes.
+# Input description for dark theme
+onboarding-multistage-theme-description-dark =
+    .aria-description =
+        Usa un aspeutu escuru pa los botones,
+        el menú y les ventanes.
 # Tooltip displayed on hover of Alpenglow theme
 onboarding-multistage-theme-tooltip-alpenglow-2 =
     .title =
+        Usa un aspeutu coloríu pa los botones,
+        el menú y les ventanes.
+# Input description for Alpenglow theme
+onboarding-multistage-theme-description-alpenglow =
+    .aria-description =
         Usa un aspeutu coloríu pa los botones,
         el menú y les ventanes.
