@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Naša implementacija globalneho atributa <a data-l10n-name="mdn-inputmode">inputmode</a> je so po <a data-l10n-name="whatwg">WHATWG-specifikaciji</a> zaktualizowała, ale dyrbimy hišće dalše změny přewjesć, kaž na př.  poskićenje  wobsaha „contenteditable“. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1205133</a>.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Atribut <a data-l10n-name="rel">rel</a>z hódnotu <code>"preload"</code> na elemenće <a data-l10n-name="link">&lt;link&gt;</a> ma k tomu přinošować, stopnjowanja wukona docpěć, hdyž resursy zašo w žiwjenskim cyklusu strony sćahujeće, zo bychu zašo k dispoziciji byli a mjenje najskerje rysowanje stronow blokowali. Čitajće <a data-l10n-name="readmore">"Preloading content with <code>rel="preload"</code>"</a> abo <a data-l10n-name="bugzilla">zmylkowu rozprawu 1583604</a> za dalše podrobnosće.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Zmóžnja nałožowanje fokusowych stilow na elementy kaž tłóčatka a formularne wodźenske elementy, hdyž so z pomocu tastatury fokusuja (na př. z tabulatorowej tastu při pohibowanju po elementach) a nic, hdyž so z myšku abo druhim pokazowanskim gratom fokusuja. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1617600</a>.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Globalny podawk <a data-l10n-name="mdn-beforeinput">beforeinput</a> so na elementach <a data-l10n-name="mdn-input">&lt;input&gt;</a> a na elementach <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a> abo na kóždym elemenće, kotrehož atribut <a data-l10n-name="mdn-contenteditable">contenteditable</a> je aktiwizowany, njeposrědnje před změnu hódnoty elementa wuwoła. Podawk webnałoženjam zmóžnja, standardne zadźerženje wobhladowaka za wužiwarsku interakciju přepisać, na př. webnałoženja móža wužiwarske zapodaće jenož za wěste znamješka přetorhnyć abo zasadźenje teksta ze stilemi jenož ze schwalenymi stilemi změnić.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Přidawanje konstruktora interfejsej <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> kaž tež wulkeje mnohosće přisłušnych změnow zmóžnja, nowe stilowe předłohi direktnje wutworić, bjeztoho zo byšće dyrbjał předłohu HTML přidać. To wosnadja, zaso wužiwajomne stilowe předłohi za wužiwanje z <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> wutworić. Hlejće <a data-l10n-name="bugzilla">zmylkowu rozprawu 1520690</a> za dalše podrobnosće.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Placki
 experimental-features-abouthome-startup-cache =
     .label = startowy pufrowak about:home
 experimental-features-abouthome-startup-cache-description = Pufrowak za spočatny dokument about:home, kotryž so po standardźe při startowanju začituje. Zaměr pufrowaka je, startowy wukon polěpšić.
-experimental-features-print-preview-tab-modal =
-    .label = Nowy design ćišćerskeho přehlada
-experimental-features-print-preview-tab-modal-description = Zawjeduje nowo wuhotowany ćišćerski přehlad a staja ćišćerski přehlad na macOS k dispoziciji. To potencielnje problemy zawinuje a njewobsahuje wšě ćišćerske nastajenja. Zo byšće přistup ke wšěm ćišćerskim nastajenjam měł, wubjerće „Z pomocu systemoweho dialoga ćišćeć…“ z ćišćerskeho přehlada.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,9 @@ experimental-features-devtools-serviceworker-debugger-support-description = Zmó
 experimental-features-webrtc-global-mute-toggles =
     .label = Globalne wodźenje za zněmjenje WebRTC
 experimental-features-webrtc-global-mute-toggles-description = Přidajće globalnemu dźělenskemu pokazej WebRTC wodźenske elementy, kotrež wužiwarjam zmóžnjeja, jich kanale mikrofona a kamery globalnje zněmić.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k-blokowanje
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

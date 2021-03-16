@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = Z { -fxaccount-brand-name } wotzjewić
     .style = min-width: 375px;
     .buttonlabelaccept = Wotzjewić
+fxa-signout-dialog2-button = Wotzjewić
+fxa-signout-dialog2-checkbox = Daty z tutoho grata (hesła, historija, zapołožki atd.) zhašeć.
