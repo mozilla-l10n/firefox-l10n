@@ -51,6 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Synchroniser maintenant
+appmenuitem-fxa-toolbar-sync-now2 = Synchroniser maintenant
 appmenuitem-fxa-manage-account = Gestion du compte
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name(capitalization: "uppercase") }
