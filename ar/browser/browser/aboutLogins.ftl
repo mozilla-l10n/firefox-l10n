@@ -358,6 +358,7 @@ about-logins-import-report-row-description-error = خطأ: حقل مفقود
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
 about-logins-import-report-row-description-error-multiple-values = خطأ: أكثر من قيمة للحقل { $field }
+about-logins-import-report-row-description-error-missing-field = خطأ: { $field } مفقود
 
 ##
 ## Variables:

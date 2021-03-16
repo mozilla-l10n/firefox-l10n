@@ -296,6 +296,8 @@ identity-passive-loaded = بعض أجزاء هذه الصفحة غير آمنة 
 identity-active-loaded = لقد أوقفت الحماية على هذه الصفحة.
 identity-weak-encryption = تستخدم هذه الصفحة تعمية ضعيفة.
 identity-insecure-login-forms = معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.
+identity-permissions =
+    .value = التصاريح
 identity-https-only-connection-upgraded = (ترقّى إلى HTTPS)
 identity-https-only-label = وضع HTTPS فقط
 identity-https-only-dropdown-on =
@@ -307,9 +309,8 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = فعّل وضع HTTPS فقط إن أردت من { -brand-short-name } ترقية الاتصال متى أمكن.
 identity-https-only-info-turn-off2 = إن شككت أن في الصفحة عطب، فيمكنك تعطيل وضع HTTPS فقط لإعادة تحميل هذا الموقع باستعمال بروتوكول HTTP غير الآمن.
 identity-https-only-info-no-upgrade = تعذرت ترقية الاتصال من HTTP.
-identity-permissions =
-    .value = التصاريح
 identity-permissions-storage-access-header = الكعكات بين المواقع
+identity-permissions-storage-access-hint = يمكن لهذه الأطراف استعمال الكعكات وبيانات المواقع المشتركة أثناء وجودك في هذا الموقع.
 identity-permissions-reload-hint = قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.
 identity-permissions-empty = لم تمنح هذا الموقع أي صلاحيات خاصة.
 identity-clear-site-data =
@@ -355,6 +356,47 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = قيد التشغيل
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = حُجب التشغيل التلقائي
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = الڤديو المعترِض
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] أصمِت اللسان
+        [zero] أصمِت اللسان
+        [one] أصمِت اللسان
+        [two] أصمِت اللسانين
+        [few] أصمِت { $count } ألسنة
+        [many] أصمِت { $count } لسانًا
+       *[other] أصمِت { $count } لسان
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] أطلِق صوت اللسان
+        [zero] أطلِق صوت اللسان
+        [one] أطلِق صوت اللسان
+        [two] أطلِق صوت اللسانين
+        [few] أطلِق صوت { $count } ألسنة
+        [many] أطلِق صوت { $count } لسانًا
+       *[other] أطلِق صوت { $count } لسان
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] شغّل اللسان
+        [zero] شغّل اللسان
+        [one] شغّل اللسان
+        [two] شغّل اللسانين
+        [few] شغّل { $count } ألسنة
+        [many] شغّل { $count } لسانًا
+       *[other] شغّل { $count } لسان
+    }
 
 ## Bookmarks toolbar items
 
@@ -520,8 +562,6 @@ pointerlock-warning-no-domain = يتحكم هذا المستند في مؤشرك
 
 bookmarks-show-all-bookmarks =
     .label = أظهِر كل العلامات
-bookmarks-recent-bookmarks =
-    .value = المعلّم حديثا
 bookmarks-toolbar-chevron =
     .tooltiptext = أظهِر المزيد من العلامات
 bookmarks-sidebar-content =
@@ -537,12 +577,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] أخفِ شريط العلامات الجانبي
            *[other] أظهِر شريط العلامات الجانبي
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] أخفِ شريط أدوات العلامات
-           *[other] أظهِر شريط أدوات العلامات
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -580,10 +614,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = العلامات
-library-bookmarks-bookmark-this-page =
-    .label = علّم هذه الصفحة
-library-bookmarks-bookmark-edit =
-    .label = حرّر هذه العلامة
 
 ## More items
 
@@ -594,3 +624,9 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = تستخدم بعض الملفات الصوتية أو الفيديو على هذا الموقع برمجيات لإدارة الحقوق الرقمية، والتي قد تحد ما يستطيع { -brand-short-name } أن يسمح لك بفعله مع هذه الملفات.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+

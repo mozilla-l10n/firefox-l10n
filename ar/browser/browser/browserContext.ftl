@@ -120,6 +120,9 @@ main-context-menu-open-link-new-private-window =
 main-context-menu-bookmark-this-link =
     .label = علِّم هذا الرابط
     .accesskey = ر
+main-context-menu-bookmark-link =
+    .label = علّم الرابط
+    .accesskey = ع
 main-context-menu-save-link =
     .label = احفظ الرابط باسم…
     .accesskey = ر
@@ -131,12 +134,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = انسخ عنوان البريد الإلكتروني
     .accesskey = خ
 main-context-menu-copy-link =
     .label = انسخ مكان الرابط
     .accesskey = م
+main-context-menu-copy-link-simple =
+    .label = انسخ الرابط
+    .accesskey = ن
 
 ## Media (video/audio) controls
 ##
@@ -179,6 +190,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = سريعة جدًا (ضعفي السرعة)
     .accesskey = د
+main-context-menu-media-play-speed-2 =
+    .label = السرعة
+    .accesskey = س
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = تكرار
     .accesskey = ر
@@ -206,6 +230,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = ڤديو معترِض
     .accesskey = ع
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = شاهِده بوضع الڤديو المعترِض
+    .accesskey = ش
 main-context-menu-image-reload =
     .label = أعِد تحميل الصورة
     .accesskey = ع
@@ -215,6 +244,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = اعرض الفديو
     .accesskey = ف
+main-context-menu-image-view-new-tab =
+    .label = افتح الصورة في لسان جديد
+    .accesskey = ت
+main-context-menu-video-view-new-tab =
+    .label = افتح الڤديو في لسان جديد
+    .accesskey = ت
 main-context-menu-image-copy =
     .label = انسخ الصورة
     .accesskey = خ
@@ -227,6 +262,15 @@ main-context-menu-video-copy-location =
 main-context-menu-audio-copy-location =
     .label = انسخ مكان الصوت
     .accesskey = و
+main-context-menu-image-copy-link =
+    .label = انسخ رابط الصورة
+    .accesskey = س
+main-context-menu-video-copy-link =
+    .label = انسخ رابط الڤديو
+    .accesskey = س
+main-context-menu-audio-copy-link =
+    .label = انسخ رابط الصوت
+    .accesskey = س
 main-context-menu-image-save-as =
     .label = احفظ الصورة باسم…
     .accesskey = ر
@@ -239,6 +283,9 @@ main-context-menu-image-set-as-background =
 main-context-menu-image-info =
     .label = اعرض معلومات الصورة
     .accesskey = ة
+main-context-menu-image-set-image-as-background =
+    .label = اضبط الصورة لتكون خلفية سطح المكتب…
+    .accesskey = ض
 main-context-menu-image-desc =
     .label = اعرض الوصف
     .accesskey = ص
@@ -251,6 +298,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = احفظ لقطة شاشة باسم…
     .accesskey = ط
+main-context-menu-video-take-snapshot =
+    .label = خُذ لقطة…
+    .accesskey = خ
 main-context-menu-video-email =
     .label = أرسل الڤديو بالبريد…
     .accesskey = ڤ
@@ -274,6 +324,26 @@ main-context-menu-view-background-image =
     .accesskey = خ
 main-context-menu-generate-new-password =
     .label = استعمل كلمة سرّ مولّدة…
+    .accesskey = د
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = استعمل جلسة ولوج محفوظة
+    .accesskey = ع
+main-context-menu-use-saved-password =
+    .label = استعمل كلمة سر محفوظة
+    .accesskey = ع
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = اقترِح كلمة مرور قوية…
+    .accesskey = ق
+main-context-menu-manage-logins =
+    .label = أدِر جلسات الولوج…
     .accesskey = د
 main-context-menu-keyword =
     .label = أضِف كلمة رئيسية لهذا البحث…
@@ -317,6 +387,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = اعرض مصدر التحديد
     .accesskey = ص
+main-context-menu-take-screenshot =
+    .label = خُذ لقطة شاشة
+    .accesskey = خ
 main-context-menu-view-page-source =
     .label = اعرض مصدر هذه الصفحة
     .accesskey = ص
@@ -331,6 +404,9 @@ main-context-menu-bidi-switch-page =
     .accesskey = ك
 main-context-menu-inspect-element =
     .label = افحص العنصر
+    .accesskey = ح
+main-context-menu-inspect =
+    .label = افحص
     .accesskey = ح
 main-context-menu-inspect-a11y-properties =
     .label = افحص خصائص الإتاحة
