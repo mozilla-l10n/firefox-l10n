@@ -230,6 +230,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Imaxe sobre imaxe
     .accesskey = x
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Ver n'Imaxe sobre Imaxe
+    .accesskey = V
 main-context-menu-image-reload =
     .label = Volver cargar la imaxe
     .accesskey = r
@@ -290,6 +295,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Guardar la captura como…
     .accesskey = G
+main-context-menu-video-take-snapshot =
+    .label = Facer una captura…
+    .accesskey = F
 main-context-menu-video-email =
     .label = Unviar el videu per corréu
     .accesskey = a
@@ -319,9 +327,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Usar un aniciu sesión guardáu
+    .accesskey = U
+main-context-menu-use-saved-password =
+    .label = Usar una contraseña guardada
+    .accesskey = U
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Suxerir una contraseña segura…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Xestionar los anicios de sesión…
     .accesskey = X
@@ -385,6 +402,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = Inspeicionar l'elementu
     .accesskey = n
+main-context-menu-inspect =
+    .label = Inspeicionar
+    .accesskey = p
 main-context-menu-inspect-a11y-properties =
     .label = Inspeicionar les propiedaes de l'accesibilidá
 main-context-menu-eme-learn-more =
