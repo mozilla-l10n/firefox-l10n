@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinchronizuoti dabar
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Sinchronizuoti dabar
-    .value = Sinchronizuoti dabar
+appmenuitem-fxa-toolbar-sync-now2 = Sinchronizuoti dabar
 appmenuitem-fxa-manage-account = Tvarkyti paskyrą
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +131,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Apie „{ -brand-shorter-name }“
     .accesskey = A
-appmenu-help-product =
-    .label = „{ -brand-shorter-name }“ žinynas
-    .accesskey = ž
-appmenu-help-show-tour =
-    .label = Įvadas į „{ -brand-shorter-name }“
-    .accesskey = v
-appmenu-help-import-from-another-browser =
-    .label = Importuoti iš kitos naršyklės…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Spartieji klavišai
-    .accesskey = k
 appmenu-get-help =
     .label = Žinynas ir pagalba
     .accesskey = Ž
@@ -191,11 +177,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Tai nėra apgaulinga svetainė…
     .accesskey = g
-
-##
-
-appmenu-help-check-for-update =
-    .label = Ieškoti naujinimų…
 
 ## More Tools
 
