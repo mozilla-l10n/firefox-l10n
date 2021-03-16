@@ -56,18 +56,6 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = Despre { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = Ajutor { -brand-shorter-name }
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = Tur { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Importă din alt browser…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Comenzi rapide din tastatură
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = Informații pentru depanare
     .accesskey = T
@@ -89,6 +77,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Repornește cu suplimentele activate
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -98,9 +90,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Nu este un site înșelător…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
