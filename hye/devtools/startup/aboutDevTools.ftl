@@ -15,7 +15,7 @@ enable-enable-button = Միացնել Մշակողի Գործիքները
 enable-close-button = Փակել այս ներդիրը
 welcome-title = Բարի գալուստ Firefox-ի Մշակողի Գործիքներ։
 newsletter-title = Mozilla-ի Մշակողի Լրագիր
-newsletter-message = Ստացեք մշակողից նորութիւններ, խորհուրդներ եւ աղբիւրներ, որոնք կուղարկուեն ուղիղ Ձեր փոստին։
+newsletter-message = Ստացէք մշակողից նորութիւններ, խորհուրդներ եւ աղբեւրներ, որոնք կուղարկուեն ուղիղ Ձեր փոստին։
 newsletter-email-placeholder =
     .placeholder = Ել֊փոստ
 newsletter-privacy-label = Համաձայն եմ կիսուել իմ տեղեկութիւններով Mozila-ի հետ՝ համաձայն <a data-l10n-name="privacy-policy">Privacy Policy</a> քաղաքականութեան։
