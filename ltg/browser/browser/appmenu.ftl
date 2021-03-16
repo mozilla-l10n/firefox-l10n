@@ -43,15 +43,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
-appmenu-help-product =
-    .label = { -brand-shorter-name } paleidzeiba
-    .accesskey = l
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } Tour
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = Tausteņu kombinacejis
-    .accesskey = k
 appmenu-help-troubleshooting-info =
     .label = Problemu nūvieršonys informaceja
     .accesskey = P
@@ -71,6 +62,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Puorstarteit ar deaktiveitim papyldynuojumym
     .accesskey = r
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -80,9 +75,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = This isn’t a deceptive site…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
