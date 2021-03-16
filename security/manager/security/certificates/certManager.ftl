@@ -27,6 +27,7 @@ certmgr-detail-pretty-print-tab-title =
     .accesskey = D
 certmgr-pending-label =
     .value = Ta verificándose'l certificáu…
+certmgr-period-of-validity = Periodu de validez
 certmgr-fingerprints = Buelgues
 certmgr-cert-detail-commonname = Nome habitual (CN)
 certmgr-cert-detail-org = Organización (O)
@@ -34,6 +35,9 @@ certmgr-cert-detail-orgunit = Unidá organizativa (OU)
 certmgr-cert-detail-serial-number = Númberu de serie
 certmgr-cert-detail-sha-256-fingerprint = Buelga SHA-256
 certmgr-cert-detail-sha-1-fingerprint = Buelga SHA1
+certmgr-edit-ca-cert =
+    .title = Edición de los axustes d'enfotu d'una CA de certificaos
+    .style = width: 48em;
 certmgr-edit-cert-trust-ssl =
     .label = Esti certificáu pue identificar sitios web.
 certmgr-edit-cert-trust-email =
@@ -57,12 +61,32 @@ certmgr-serial =
 certmgr-view =
     .label = Ver…
     .accesskey = V
+certmgr-edit =
+    .label = Editar l'enfotu…
+    .accesskey = E
+certmgr-export =
+    .label = Esportar…
+    .accesskey = s
+certmgr-delete =
+    .label = Desaniciar…
+    .accesskey = e
+certmgr-delete-builtin =
+    .label = Desaniciar o quitar l'enfotu…
+    .accesskey = n
+certmgr-restore =
+    .label = Importar…
+    .accesskey = m
+exception-mgr-supplemental-warning = Los bancos, les tiendes y otros sitios públicos llexítimos nun van pidite facer esto.
 exception-mgr-cert-location-url =
     .value = Allugamientu:
+exception-mgr-cert-status-view-cert =
+    .label = Ver…
+    .accesskey = V
 pkcs12-dup-data = El certificáu y la clave privada yá esisten nel preséu de seguranza.
 
 ## PKCS#12 file dialogs
 
+file-browse-pkcs12-spec = Ficheros PKCS12
 
 ## Import certificate(s) file dialog
 
@@ -87,4 +111,6 @@ temporary-override = Temporal
 
 ## Certificate export "Save as" and error dialogs
 
+cert-format-der = Certificáu X.509 (DER)
 cert-format-pkcs7 = Certificáu X.509 (PKCS#7)
+cert-format-pkcs7-chain = Certificáu X.509 con cadena (PKCX#7)
