@@ -37,7 +37,6 @@ printui-scale-fit-to-page-width = 符合頁面寬度
 printui-scale-pcent = 縮放比例
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = 雙面列印
-printui-duplex-checkbox = 印在紙張的兩面
 printui-two-sided-printing-off = 關閉
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = 長邊翻轉
@@ -56,14 +55,19 @@ printui-margins-default = 預設值
 printui-margins-min = 最小
 printui-margins-none = 無
 printui-margins-custom-inches = 自訂（英寸）
+printui-margins-custom-mm = 自訂（mm）
 printui-margins-custom-top = 頂端
 printui-margins-custom-top-inches = 頂端（英寸）
+printui-margins-custom-top-mm = 頂端（mm）
 printui-margins-custom-bottom = 底端
 printui-margins-custom-bottom-inches = 底端（英寸）
+printui-margins-custom-bottom-mm = 底端（mm）
 printui-margins-custom-left = 左邊
 printui-margins-custom-left-inches = 左方（英寸）
+printui-margins-custom-left-mm = 左邊（mm）
 printui-margins-custom-right = 右邊
 printui-margins-custom-right-inches = 右方（英寸）
+printui-margins-custom-right-mm = 右邊（mm）
 printui-system-dialog-link = 使用系統對話框列印…
 printui-primary-button = 列印
 printui-primary-button-save = 儲存
