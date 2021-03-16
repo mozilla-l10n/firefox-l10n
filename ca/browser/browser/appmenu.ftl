@@ -110,18 +110,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
-appmenu-help-product =
-    .label = Ajuda del { -brand-shorter-name }
-    .accesskey = j
-appmenu-help-show-tour =
-    .label = Visita guiada del { -brand-shorter-name }
-    .accesskey = V
-appmenu-help-import-from-another-browser =
-    .label = Importa d'un altre navegador…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Dreceres de teclat
-    .accesskey = D
 appmenu-get-help =
     .label = Obteniu ajuda
     .accesskey = j
@@ -146,6 +134,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Reinicia amb els complements habilitats
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -155,11 +147,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = No és cap lloc enganyós…
     .accesskey = N
-
-##
-
-appmenu-help-check-for-update =
-    .label = Cerca actualitzacions…
 
 ## More Tools
 
