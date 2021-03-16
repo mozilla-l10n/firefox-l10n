@@ -43,12 +43,6 @@ appmenuitem-save-page =
 appmenu-about =
     .label = Kuhusu { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } Help
-    .accesskey = H
-appmenu-help-keyboard-shortcuts =
-    .label = Njiamkato za Kibodi
-    .accesskey = N
 appmenu-help-troubleshooting-info =
     .label = Kusuluhisha Maelezo
     .accesskey = K
@@ -65,11 +59,12 @@ appmenu-help-safe-mode-without-addons =
     .label = Anzisha tena na Vifaa vya Nyongeza Vilivyolemazwa…
     .accesskey = A
 
-## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 
-##
+## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
+## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 
 ## More Tools
