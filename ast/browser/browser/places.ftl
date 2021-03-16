@@ -8,6 +8,9 @@ places-open =
 places-open-tab =
     .label = Abrir nuna llingüeta nueva
     .accesskey = t
+places-open-in-tab =
+    .label = Abrir nuna llingüeta nueva
+    .accesskey = l
 places-open-all-in-tabs =
     .label = Abrir too en llingüetes
     .accesskey = o
@@ -29,6 +32,15 @@ places-new-folder =
 places-new-separator =
     .label = Separtador nuevu
     .accesskey = v
+places-open-in-window =
+    .label = Abrir nuna ventana nueva
+    .accesskey = n
+places-open-in-private-window =
+    .label = Abrir nuna ventana privada nueva
+    .accesskey = p
+places-add-separator =
+    .label = Amestar un separtador
+    .accesskey = s
 places-view =
     .label = Ver
     .accesskey = r
@@ -69,3 +81,13 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Otros marcadores
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Quitar el marcador
+            [one] Quitar el marcador
+           *[other] Quitar los marcadores
+        }
+    .accesskey = Q
