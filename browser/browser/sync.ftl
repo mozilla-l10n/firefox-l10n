@@ -22,3 +22,4 @@ fxa-signout-dialog =
     .style = min-width: 375px;
     .buttonlabelaccept = Desconnexion
 fxa-signout-dialog2-button = Se desconnectar
+fxa-signout-dialog2-checkbox = Suprimir las donadas d’aqueste periferic (senhals, istoric, marcapaginas, etc.).

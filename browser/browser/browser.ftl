@@ -367,6 +367,18 @@ browser-tab-mute =
         [one] AMUDIR L’ONGLET
        *[other] AMUDIR LOS { $count } ONGLETS
     }
+browser-tab-unmute =
+    { $count ->
+        [1] RESTABLIR LO SON DE L’ONGLET
+        [one] RESTABLIR LO SON DE L’ONGLET
+       *[other] RESTABLIR LO SON DELS { $count } ONGLETS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] LEGIR L’ONGLET
+        [one] LEGIR L’ONGLET
+       *[other] LEGIR { $count } ONGLETS
+    }
 
 ## Bookmarks toolbar items
 
