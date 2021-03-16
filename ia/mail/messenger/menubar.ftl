@@ -14,6 +14,12 @@ menu-view-charset =
 menu-help-enter-troubleshoot-mode =
     .label = Modo diagnostic…
     .accesskey = M
+menu-help-exit-troubleshoot-mode =
+    .label = Disactivar le modo diagnostic
+    .accesskey = D
+menu-help-more-troubleshooting-info =
+    .label = Altere informationes diagnostic
+    .accesskey = A
 
 ## Mail Toolbar
 
