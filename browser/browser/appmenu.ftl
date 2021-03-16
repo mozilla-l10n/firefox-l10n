@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронізувати зараз
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Синхронізувати
-    .value = Синхронізувати
 appmenuitem-fxa-manage-account = Керувати обліковим записом
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -135,18 +132,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Про { -brand-shorter-name }
     .accesskey = о
-appmenu-help-product =
-    .label = Довідка { -brand-shorter-name }
-    .accesskey = Д
-appmenu-help-show-tour =
-    .label = Знайомство з { -brand-shorter-name }
-    .accesskey = й
-appmenu-help-import-from-another-browser =
-    .label = Імпорт даних з іншого браузера…
-    .accesskey = м
-appmenu-help-keyboard-shortcuts =
-    .label = Комбінації клавіш
-    .accesskey = К
 appmenu-get-help =
     .label = Отримати допомогу
     .accesskey = д
@@ -193,11 +178,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Це не шахрайський сайт…
     .accesskey = н
-
-##
-
-appmenu-help-check-for-update =
-    .label = Перевірити наявність оновлень…
 
 ## More Tools
 
