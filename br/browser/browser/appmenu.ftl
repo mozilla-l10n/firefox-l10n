@@ -82,18 +82,6 @@ profiler-popup-capture-shortcut =
 appmenu-about =
     .label = A-zivout { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = Skoazell { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-show-tour =
-    .label = Gweladenniñ { -brand-shorter-name }
-    .accesskey = G
-appmenu-help-import-from-another-browser =
-    .label = Enporzhiañ eus ur merdeer all...
-    .accesskey = E
-appmenu-help-keyboard-shortcuts =
-    .label = Berradennoù klavier
-    .accesskey = k
 appmenu-help-troubleshooting-info =
     .label = Titouroù disac'hañ
     .accesskey = T
@@ -115,6 +103,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Adloc'hañ gant an askouezhioù diweredekaet
     .accesskey = r
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -124,11 +116,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = N'eo ket ul lec’hienn dagus…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Klask hizivadurioù…
 
 ## More Tools
 
