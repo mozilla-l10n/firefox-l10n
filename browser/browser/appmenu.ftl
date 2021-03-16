@@ -56,18 +56,6 @@ whatsnew-panel-footer-checkbox =
 appmenu-about =
     .label = Acerca de { -brand-shorter-name }
     .accesskey = A
-appmenu-help-product =
-    .label = Ayuda de { -brand-shorter-name }
-    .accesskey = A
-appmenu-help-show-tour =
-    .label = Paseo por { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Importar desde otro navegador…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Atajos de teclado
-    .accesskey = t
 appmenu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = I
@@ -89,6 +77,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Reiniciar con complementos habilitados
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -98,9 +90,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Este no es un sitio engañoso…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
