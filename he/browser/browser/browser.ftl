@@ -288,6 +288,8 @@ identity-passive-loaded = חלקים מדף זה אינם מאובטחים (כג
 identity-active-loaded = ניטרלת את אמצעי האבטחה על דף זה.
 identity-weak-encryption = דף זה משתמש בהצפנה חלשה.
 identity-insecure-login-forms = פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.
+identity-permissions =
+    .value = הרשאות
 identity-https-only-connection-upgraded = (שודרג ל־HTTPS)
 identity-https-only-label = מצב HTTPS בלבד
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = יש להפעיל את מצב HTTPS בלבד אם ברצונך ש־{ -brand-short-name } ישדרג את החיבור כשהדבר אפשרי.
 identity-https-only-info-turn-off2 = אם נראה שהדף שבור, באפשרותך לכבות את מצב ה־HTTPS בלבד עבור אתר זה כדי לטעון מחדש באמצעות HTTP לא מאובטח.
 identity-https-only-info-no-upgrade = לא ניתן לשדרג את החיבור מ־HTTP.
-identity-permissions =
-    .value = הרשאות
 identity-permissions-storage-access-header = עוגיות חוצות אתרים
 identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
 identity-permissions-empty = לא סופקו לאתר זה הרשאות מיוחדות.
@@ -347,8 +347,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = מנגן
-browser-tab-audio-muted = מושתק
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = מנגן
 # This label should be written in all capital letters if your locale supports them.
@@ -357,6 +355,26 @@ browser-tab-audio-muted2 = מושתק
 browser-tab-audio-blocked = ניגון אוטומטי מושתק
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = תמונה בתוך תמונה
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] השתקת לשונית
+       *[other] השתקת { $count } לשוניות
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ביטול השתקת לשונית
+       *[other] ביטול השתקת { $count } לשוניות
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ניגון לשונית
+       *[other] ניגון { $count } לשוניות
+    }
 
 ## Bookmarks toolbar items
 
@@ -548,8 +566,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = הצגת כל הסימניות
-bookmarks-recent-bookmarks =
-    .value = סימניות שנוספו לאחרונה
 bookmarks-manage-bookmarks =
     .label = ניהול סימניות
 bookmarks-recent-bookmarks-panel =
@@ -570,12 +586,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] הסתרת סרגל הצד סימניות
            *[other] הצגת סרגל הצד
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] הסתרת סרגל הכלים סימניות
-           *[other] הצגת סרגל הכלים סימניות
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -622,10 +632,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = סימניות
-library-bookmarks-bookmark-this-page =
-    .label = יצירת סימנייה לדף זה
-library-bookmarks-bookmark-edit =
-    .label = עריכת סימנייה זו
 library-recent-activity-title =
     .value = פעילות אחרונה
 
