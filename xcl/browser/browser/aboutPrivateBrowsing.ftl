@@ -18,3 +18,10 @@ about-private-browsing-turn-on-vpn = Փոորձեա՛ զ֊{ -mozilla-vpn-brand-n
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } է սկզբնադիր գործի որոնման ի ծածուկ պատուհանս
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Վասն զայղ գործի որոնման ընտրելոյ ե՛րթ ի <a data-l10n-name="link-options">Ընտրանք</a>
+       *[other] Վասն զայղ գործի որոնման ընտրելոյ ե՛րթ ի <a data-l10n-name="link-options">Նախընտրութիւնք</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Փակել

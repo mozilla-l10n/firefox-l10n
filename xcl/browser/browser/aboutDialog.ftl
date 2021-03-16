@@ -5,3 +5,9 @@
 aboutDialog-title =
     .title = Զ֊{ -brand-full-name }֊է
 releaseNotes-link = Զի՞նչ նոր իցէ
+update-checkForUpdatesButton =
+    .label = Ստուգել զարդիացմունս
+    .accesskey = Ս
+update-updateButton =
+    .label = Վերամեկնարկեա՛, զի արդիացուսցես զ֊ { -brand-shorter-name }
+    .accesskey = Ռ
