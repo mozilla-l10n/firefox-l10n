@@ -13,3 +13,8 @@ update-updateButton =
     .accesskey = Ռ
 update-checkingForUpdates = Ստուգումն արդիացմանց
 update-downloading = <img data-l10n-name="icon"/>Ներբեռնումն արդիացման — <label data-l10n-name="download-status"/>
+update-downloading-message = Ներբեռնումն արդիացման — <label data-l10n-name="download-status"/>
+update-applying = Գործադրումն արդիացման…
+update-failed = Արդիացումն տապալեցաւ <label data-l10n-name="failed-link">Ներբեռնել զվերջին տարբերակն</label>
+update-failed-main = Արդիացումն տապալեցաւ։ <a data-l10n-name="failed-link-main">Ներբեռնել զվերջին տարբերակն</a>
+update-adminDisabled = Արդիացմունք անջատեալ են ի համակարգավարէ քումմէ
