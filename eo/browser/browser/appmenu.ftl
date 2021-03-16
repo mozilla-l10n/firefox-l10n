@@ -51,6 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Speguli nun
+appmenuitem-fxa-toolbar-sync-now2 = Speguli nun
 appmenuitem-fxa-manage-account = Administri konton
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
