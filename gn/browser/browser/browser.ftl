@@ -377,9 +377,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Ta’ãnganohẽha:
     .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Ta’ãnganohẽha
 popup-select-microphone-device =
     .value = Ñe’ẽatãha:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Ñe’ẽatãha
 popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba’erechahápe.
 popup-screen-sharing-not-now =
     .label = Ani ko’ág̃a
@@ -640,3 +644,15 @@ eme-notifications-drm-content-playing-manage = Eñangareko ñembohekóre
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Mosẽ
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+panel-save-update-username = Puruhára réra
+panel-save-update-password = Ñe’ẽñemi
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = ¿Emboguete { $name }?
+addon-removal-abuse-report-checkbox = Emomarandu ko jepysokue rehegua { -vendor-short-name }-pe
