@@ -48,15 +48,6 @@ whatsnew-panel-header = नवीन काय आहे
 appmenu-about =
     .label = { -brand-shorter-name } विषयी
     .accesskey = A
-appmenu-help-product =
-    .label = { -brand-shorter-name } मदत
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name } फेरफटका
-    .accesskey = o
-appmenu-help-keyboard-shortcuts =
-    .label = किबोर्ड शार्टकट्स
-    .accesskey = K
 appmenu-help-troubleshooting-info =
     .label = त्रुटीनिवारण माहिती
     .accesskey = T
@@ -78,6 +69,10 @@ appmenu-help-safe-mode-with-addons =
     .label = ॲड-ऑन्स् सक्रीय असल्यावर पुनः सुरू करा
     .accesskey = R
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -87,9 +82,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = ही साईट फसवी नाही…
     .accesskey = d
-
-##
-
 
 ## More Tools
 
