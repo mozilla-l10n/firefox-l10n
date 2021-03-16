@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = …ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 fxa-toolbar-sync-syncing-tabs =
     .label = …ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+fxa-toolbar-sync-syncing2 = …ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 sync-disconnect-dialog-title = { -sync-brand-short-name } ਤੋਂ ਡਿਸ-ਕਨੈਕਟ ਕਰਨਾ ਹੈ?
 sync-disconnect-dialog-body = { -brand-product-name } ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਤਾਂ ਰੋਕ ਦੇਵਗਾ, ਪਰ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾਵੇਗਾ।
 fxa-disconnect-dialog-title = { -brand-product-name } ਡਿਸ-ਕਨੈਕਟ ਕਰਨਾ ਹੈ?
