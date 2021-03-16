@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Speguli nun
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Speguli nun
-    .value = Speguli nun
 appmenuitem-fxa-manage-account = Administri konton
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +130,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Pri { -brand-shorter-name }
     .accesskey = P
-appmenu-help-product =
-    .label = Helpo por { -brand-shorter-name }
-    .accesskey = H
-appmenu-help-show-tour =
-    .label = Prezento de { -brand-shorter-name }
-    .accesskey = r
-appmenu-help-import-from-another-browser =
-    .label = Enporti el alia retumilo…
-    .accesskey = E
-appmenu-help-keyboard-shortcuts =
-    .label = Alirklavoj
-    .accesskey = A
 appmenu-get-help =
     .label = Helpo
     .accesskey = H
@@ -191,11 +176,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Tiu ĉi ne estas trompa retejo…
     .accesskey = t
-
-##
-
-appmenu-help-check-for-update =
-    .label = Kontroli ĉu estas ĝisdatigoj…
 
 ## More Tools
 
