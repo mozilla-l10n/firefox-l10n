@@ -51,9 +51,6 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Sinkroniziraj sada
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Sinkroniziraj sada
-    .value = Sinkroniziraj sada
 appmenuitem-fxa-manage-account = Upravljaj računom
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +130,6 @@ appmenu-help-header =
 appmenu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
-appmenu-help-product =
-    .label = Pomoć za { -brand-shorter-name }
-    .accesskey = P
-appmenu-help-show-tour =
-    .label = Vodič za { -brand-shorter-name }
-    .accesskey = o
-appmenu-help-import-from-another-browser =
-    .label = Uvoz iz drugog preglednika…
-    .accesskey = l
-appmenu-help-keyboard-shortcuts =
-    .label = Tipkovnički prečaci
-    .accesskey = k
 appmenu-get-help =
     .label = Potraži pomoć
     .accesskey = p
@@ -191,11 +176,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ovo nije obmanjujuća stranica…
     .accesskey = d
-
-##
-
-appmenu-help-check-for-update =
-    .label = Provjeri dostupnost dopuna…
 
 ## More Tools
 
