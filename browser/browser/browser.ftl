@@ -381,6 +381,14 @@ browser-tab-unmute =
         [few] ZNĚMJENJE { $count } RAJTARKOW ZBĚHNYĆ
        *[other] ZNĚMJENJE { $count } RAJTARKOW ZBĚHNYĆ
     }
+browser-tab-unblock =
+    { $count ->
+        [1] RAJTARK WOTHRAĆ
+        [one] { $count } RAJTARK WOTHRAĆ
+        [two] { $count } RAJTARKAJ WOTHRAĆ
+        [few] { $count } RAJTARKI WOTHRAĆ
+       *[other] { $count } RAJTARKOW WOTHRAĆ
+    }
 
 ## Bookmarks toolbar items
 
