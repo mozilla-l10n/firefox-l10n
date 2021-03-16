@@ -369,9 +369,13 @@ popup-select-microphone =
 popup-select-camera-device =
     .value = Kamera:
     .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
 popup-select-microphone-device =
     .value = Mikrofon:
     .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan dibagikan.
 popup-screen-sharing-not-now =
     .label = Jangan Sekarang
@@ -632,3 +636,15 @@ eme-notifications-drm-content-playing-manage = Kelola Pengaturan
 eme-notifications-drm-content-playing-manage-accesskey = K
 eme-notifications-drm-content-playing-dismiss = Tutup
 eme-notifications-drm-content-playing-dismiss-accesskey = T
+
+## Password save/update panel
+
+panel-save-update-username = Nama Pengguna
+panel-save-update-password = Kata Sandi
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Hapus { $name }?
+addon-removal-abuse-report-checkbox = Laporkan ekstensi ini ke { -vendor-short-name }
