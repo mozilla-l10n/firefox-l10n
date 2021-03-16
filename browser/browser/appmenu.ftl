@@ -113,18 +113,6 @@ appmenu-help-header =
 appmenu-about =
     .label = { -brand-shorter-name }(r)i buruz
     .accesskey = b
-appmenu-help-product =
-    .label = { -brand-shorter-name }(r)en laguntza
-    .accesskey = l
-appmenu-help-show-tour =
-    .label = { -brand-shorter-name }(r)en itzulia
-    .accesskey = u
-appmenu-help-import-from-another-browser =
-    .label = Inportatu beste nabigatzaile batetik…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Laster-teklak
-    .accesskey = s
 appmenu-get-help =
     .label = Lortu laguntza
     .accesskey = L
@@ -171,11 +159,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Hau ez da gune iruzurtia…
     .accesskey = i
-
-##
-
-appmenu-help-check-for-update =
-    .label = Bilatu eguneraketak…
 
 ## More Tools
 
