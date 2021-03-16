@@ -42,6 +42,8 @@ certmgr-edit-cert-trust-ssl =
     .label = Esti certificáu pue identificar sitios web.
 certmgr-edit-cert-trust-email =
     .label = Esti certificáu pue identificar a usuarios de corréu.
+certmgr-cert-host =
+    .label = Agospiador
 certmgr-cert-name =
     .label = Nome del certificáu
 certmgr-cert-server =
@@ -100,6 +102,17 @@ delete-user-cert-confirm = ¿De xuru quies desaniciar estos certificaos?
 
 ## Cert Viewer
 
+not-present =
+    .value = <Nun ye parte del certificáu>
+# Cert verification
+cert-not-verified-cert-revoked = Nun pudo verificase esti certificáu porque se revocó.
+cert-not-verified-cert-expired = Nun pudo verificase esti certificáu porque caducó.
+cert-not-verified-cert-not-trusted = Nun pudo verificase esti certificáu porque nun ye d'enfotu.
+cert-not-verified-issuer-not-trusted = Nun pudo verificase esti certificáu porque l'emisor nun ye d'enfotu.
+cert-not-verified-issuer-unknown = Nun pudo verificase esti certificáu porque l'emisor ye desconocíu.
+cert-not-verified_algorithm-disabled = Nun pudo verificase esti certificáu porque se robló con un algoritmu de robla que se desactivó por nun ser seguru.
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Nun s'atroxó)
 
 ## Used to show whether an override is temporary or permanent
 
@@ -108,9 +121,13 @@ temporary-override = Temporal
 
 ## Add Security Exception dialog
 
+add-exception-invalid-header = Esti sitiu tenta d'identificase con información que nun ye válida.
+add-exception-expired-short = Información ensin anovar
+add-exception-valid-long = Esti sitiu forne una identificación válida y verificada.  Nun hai necesidá d'amestar una esceición.
 
 ## Certificate export "Save as" and error dialogs
 
+cert-format-base64-chain = Certificáu X.509 con cadena (PEM)
 cert-format-der = Certificáu X.509 (DER)
 cert-format-pkcs7 = Certificáu X.509 (PKCS#7)
 cert-format-pkcs7-chain = Certificáu X.509 con cadena (PKCX#7)
