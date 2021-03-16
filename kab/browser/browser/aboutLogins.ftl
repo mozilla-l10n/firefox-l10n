@@ -319,6 +319,7 @@ about-logins-import-report-description = Inekcam d wawalen uffiren ttwaketren ɣ
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Izirig { $number }
+about-logins-import-report-row-description-no-change = Uslig: yemsaḍa swaswa d unekcum yellan
 about-logins-import-report-row-description-modified = Anekcam yellan yettwaleqqem
 about-logins-import-report-row-description-added = Anekcum amaynut ittwarna
 about-logins-import-report-row-description-error = Tuccḍa: Urti ixuṣṣen
