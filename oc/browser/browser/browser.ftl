@@ -288,6 +288,8 @@ identity-passive-loaded = D'elements de la pagina son pas segurs (coma los imatg
 identity-active-loaded = Avètz desactivat la proteccion sus aquela pagina.
 identity-weak-encryption = Aquela pagina utiliza un chiframent flac.
 identity-insecure-login-forms = Los identificants marcats sus aquela pagina pòdon far perilh.
+identity-permissions =
+    .value = Permissions
 identity-https-only-connection-upgraded = (passada al HTTPS)
 identity-https-only-label = Mòde HTTPS sonque
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Activar lo mòde HTTPS solament per aqueste site se volètz que { -brand-short-name } passe la connexion en mòde securizat s’es possible.
 identity-https-only-info-turn-off2 = Se la page sembla copada, ensajatz de desactivar lo mòde HTTPS sonque per tornar cargar lo site en HTTP pas segur.
 identity-https-only-info-no-upgrade = Passatge de la connexion en HTTPS impossible.
-identity-permissions =
-    .value = Permissions
 identity-permissions-storage-access-header = Cookies intersites
 identity-permissions-storage-access-hint = Aquestas parts pòdon utilizar los cookies intersites e las donadas de sites pendent vòstra navegacion sul site.
 identity-permissions-reload-hint = Benlèu deuriatz actualizar la pagina per que s'apliquen los cambiaments.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Lectura
-browser-tab-audio-muted = Mut
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = LECTURA
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,17 @@ browser-tab-audio-muted2 = MUT
 browser-tab-audio-blocked = LECTURA AUTO BLOCADA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = VIDÈO-INCRUSTADA
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] AMUDIR L’ONGLET
+        [one] AMUDIR L’ONGLET
+       *[other] AMUDIR LOS { $count } ONGLETS
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +559,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Afichar totes los marcapaginas
-bookmarks-recent-bookmarks =
-    .value = Marcats recentament
 bookmarks-manage-bookmarks =
     .label = Gerir los marcapaginas
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +579,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Amagar la barra laterala d'onglets
            *[other] Afichar la barra laterala d'onglets
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Amagar la barra personala
-           *[other] Afichar la barra personala
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +625,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Marcapaginas
-library-bookmarks-bookmark-this-page =
-    .label = Marcar aquesta pagina
-library-bookmarks-bookmark-edit =
-    .label = Modificar aqueste marcapagina
 library-recent-activity-title =
     .value = Activitat recenta
 
