@@ -51,9 +51,7 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Njëkohësohu Tani
-appmenuitem-fxa-toolbar-sync-now =
-    .label = Njëkohësoji Tani
-    .value = Njëkohësoji Tani
+appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji Tani
 appmenuitem-fxa-manage-account = Administroni Llogari
 appmenu-fxa-header =
     .title = { -fxaccount-brand-name }
@@ -133,18 +131,6 @@ appmenu-help-header =
 appmenu-about =
     .label = Mbi { -brand-shorter-name }-in
     .accesskey = R
-appmenu-help-product =
-    .label = Ndihmë mbi { -brand-shorter-name }-in
-    .accesskey = N
-appmenu-help-show-tour =
-    .label = Tur { -brand-shorter-name }-i
-    .accesskey = u
-appmenu-help-import-from-another-browser =
-    .label = Importoni prej Shfletuesi Tjetër…
-    .accesskey = I
-appmenu-help-keyboard-shortcuts =
-    .label = Shkurtore Tastiere
-    .accesskey = S
 appmenu-get-help =
     .label = Merrni ndihmë
     .accesskey = M
@@ -191,11 +177,6 @@ appmenu-help-report-deceptive-site =
 appmenu-help-not-deceptive =
     .label = Ky s'është sajt i rremë…
     .accesskey = r
-
-##
-
-appmenu-help-check-for-update =
-    .label = Shihni për Përditësime…
 
 ## More Tools
 
