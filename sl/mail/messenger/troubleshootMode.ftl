@@ -5,6 +5,8 @@
 troubleshoot-mode-window =
     .title = { -brand-short-name }: Način za odpravljanje težav
     .style = width: 37em;
+troubleshoot-mode-description = { -brand-short-name }ov način za odpravljanje težav lahko uporabite, da odkrijete vzrok težav. Vaši dodatki in prilagoditve bodo začasno onemogočeni.
+troubleshoot-mode-description2 = Nekatere ali vse te spremembe lahko naredite trajne:
 troubleshoot-mode-disable-addons =
     .label = Onemogoči vse dodatke
     .accesskey = d
