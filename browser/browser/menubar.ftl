@@ -292,7 +292,7 @@ menu-settings =
     .accesskey =
         { PLATFORM() ->
             [windows] I
-           *[other] n
+           *[other] t
         }
 menu-tools-layout-debugger =
     .label = Layout-debugger

@@ -148,7 +148,7 @@ appmenu-help-report-site-issue =
     .label = Rapportér problem med websted…
 appmenu-help-feedback-page =
     .label = Indsend feedback…
-    .accesskey = f
+    .accesskey = n
 
 ## appmenu-help-safe-mode-without-addons and appmenu-help-safe-mode-without-addons
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

@@ -109,7 +109,7 @@ places-remove-bookmark =
             [one] Fjern bogmærke
            *[other] Fjern bogmærker
         }
-    .accesskey = F
+    .accesskey = j
 places-manage-bookmarks =
     .label = Håndter bogmærker
     .accesskey = g
