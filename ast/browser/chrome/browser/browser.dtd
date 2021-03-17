@@ -76,6 +76,7 @@ this container is a toolbar. This avoids double-speaking. -->
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "tien el control del punteru. Primi Esc pa recuperalu.">
 <!ENTITY pointerlockWarning.generic.label "Esti documentu tien el control del punteru. Primi Esc pa recuperalu.">
 
@@ -92,6 +93,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY bookmarksMenuButton.other.label    "Otros marcadores">
 <!ENTITY bookmarksMenuButton.mobile.label   "Marcadores del móvil">
+<!ENTITY searchBookmarks.label              "Buscar nos marcadores">
 
 <!ENTITY historyButton.label            "Historial">
 
@@ -141,7 +143,11 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Quies ver equí les llingüetes d'otros preseos de to?">
 <!ENTITY appMenuRemoteTabs.welcome.label "Ve una llista de les llingüetes d'otros preseos de to.">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Xestionar los preseos…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ver la barra llateral de les llingüetes sincronizaes">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Conectar otru preséu">
 
 <!ENTITY appMenuRecentHighlights.label "Destacóse de recién">
 
