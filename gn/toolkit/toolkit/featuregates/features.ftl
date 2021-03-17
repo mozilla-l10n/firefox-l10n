@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Ore rekome’ẽ tuichaháicha ñemomba’apo <a data-l10n-name="mdn-inputmode">inputmode</a> hekopyahúma he’iháicha <a data-l10n-name="whatwg">WHATWG oipotahaichaite</a>, hákatu noroikotevẽi gueteri ñemoambueve, techapyrãramo ojepurukuaávo tetepy oñembosako’ikuaáva. Eporandu <a data-l10n-name="bugzilla">bug 1205133</a> eikuaaporãve hag̃ua.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Pe tekome’ẽ <a data-l10n-name="rel">rel</a> hepykue<code>"preload"</code> mba’epuru <a data-l10n-name="link">&lt;lt;link</a> ne pytyvõta eikotevẽháicha emboguejývo kuatiaroguégui upe mboyve, eikuaávo eipurukuaaha ha hasyve ojokóvo pe ta’ãnga kuatiaroguégui. Emoñe’ẽ <a data-l10n-name="readmore">“Emyenyhẽvo tetepy ndive <code>rel="preload"</code>”</a> térã ehecha <a data-l10n-name="bugzilla">bug 1583604</a> eikuaave hag̃ua.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Emoneĩ umi ma’ẽha omohembiapóvo mba’epuru votõ ha myanyhẽha ñangarekohápe, emoma’ẽ añoitéramo tairenda rehe (techapyrã, emoambuévo tendayke mba’epuru pa’ũme), ha ani emoma’ẽnguévo anguja térã ambue mba’e’okáre. Eporandu <a data-l10n-name="bugzilla">bug 1617600</a> eguerekove hag̃ua mba’emimi.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Pe tembiaporã guasu <a data-l10n-name="mdn-beforeinput">beforeinput</a> hendy umi mba’epuru <a data-l10n-name="mdn-input">&lt;input&gt;</a> ha <a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, térã oimeraẽva mba’epuru hekome’ẽva <a data-l10n-name="mdn-contenteditable">mbosako’ikuaáva</a> hendy jave, iñambue mboyve mba’epuru repykue. Tembiaporã omoneĩta ñanduti rembipuru’i omboyke kundahára rekojehegui puruhára rembiapópe, techapyrã, ñanduti rembipuru’i ikatu omboyke puruhára jeike tai’aty ha’etévape térã omoambue moñe’ẽrã ñemboja umi oñemoneĩmbyrévape añoite.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Pe jehechaha apohare <a data-l10n-name="mdn-cssstylesheet"> CSSStyleSheet</a> avei ñemoambueita ojokupytýva ha omoneĩva oñemoheñói hag̃ua kuatia mbohekoha ipyahúva embojuaju’ỹre kuatia HTML rehe. Kóva nombohasyive emoheñoikuaa hag̃ua kuatia mbohekoha ojepurukuaajeýva eipuru hag̃uáicha <a data-l10n-name="mdn-shadowdom">Shadow DOM</a> ndive. Ehecha <a data-l10n-name="bugzilla">bug 1520690</a> eikuaa porãve hag̃ua.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Umi ko
 experimental-features-abouthome-startup-cache =
     .label = about:home kache ñepyrũgua
 experimental-features-abouthome-startup-cache-description = Kache kuatia ñepyrũguápe g̃uarã about:home henyhẽva ijehegui oñepyrũnguévo. Ko kache rembiaporã ha’e oikoporãve hag̃ua oñepyrũvo.
-experimental-features-print-preview-tab-modal =
-    .label = Japojey jehecha ypy ñemonguatia
-experimental-features-print-preview-tab-modal-description = Ehechauka jehecha ypy ñemonguatia apopyahúva ha emoĩ jehecha ypy ñemonguatia ojepurukuaa hag̃ua macOS-pe. Ikatu ndoikói ha ndoikepái umi mboheko ñemonguatiagua. Eike hag̃ua opaite ñemoĩporã monguatiaguápe, eiporavo “Monguatia eipurúvo apopyvusu ñomongeta kora…” Monguatia rupa guive.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Embo
 experimental-features-webrtc-global-mute-toggles =
     .label = Emyandy/embogue WebRTC tuichaháicha
 experimental-features-webrtc-global-mute-toggles-description = Embojuaju moambueha WebRTC iñambuéva tuichaháicha omoneĩva puruharápe omondohóvo tuichaháicha iñe’ẽatãha ha ha’ãngamýi.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k ñemomombyry
+experimental-features-win32k-lockdown-description = Eipe’a pe Win32k API jepuru kundahára rendayképe. Ome’ẽkuaa tekorosãve, hákatu naiporãmbái térã ojavykuaa. (Windows-pe añoite)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp

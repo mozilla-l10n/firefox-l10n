@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Emoĩporã kuatiarogue pekue
 printui-scale-pcent = Jupiha
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Mokõivéva tova ñemonguatia
-printui-duplex-checkbox = Mokõive gotyo monguatia
 printui-two-sided-printing-off = Mboguepyre
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Ehasa mombyryveha rupi
@@ -57,14 +56,19 @@ printui-margins-default = Ijypykue
 printui-margins-min = Michĩvéva
 printui-margins-none = Avave
 printui-margins-custom-inches = Momba’epyre (pulgada)
+printui-margins-custom-mm = Mboavapyry (mm)
 printui-margins-custom-top = Yvatevéva
 printui-margins-custom-top-inches = Tuichavéva (pulgada)
+printui-margins-custom-top-mm = Tuichavéva (mm)
 printui-margins-custom-bottom = Michĩvéva
 printui-margins-custom-bottom-inches = Michĩvéva (pulgada)
+printui-margins-custom-bottom-mm = Michĩvéva (mm)
 printui-margins-custom-left = Asugua
 printui-margins-custom-left-inches = Asu (pulgada)
+printui-margins-custom-left-mm = Asugua (mm)
 printui-margins-custom-right = Akatuagua
 printui-margins-custom-right-inches = Akatúa (pulgada)
+printui-margins-custom-right-mm = Akatuagua (mm)
 printui-system-dialog-link = Emonguatia eipurúvo apopyvusu rovetã…
 printui-primary-button = Ñemonguatia
 printui-primary-button-save = Ñongatu
