@@ -34,3 +34,5 @@ webrtc-camera-system-menu =
     .label = Vaša kamera je v skupni rabi. Kliknite za upravljanje skupne rabe.
 webrtc-microphone-system-menu =
     .label = Vaš mikrofon je v skupni rabi. Kliknite za upravljanje skupne rabe.
+webrtc-screen-system-menu =
+    .label = Vaš zaslon ali eno od oken je v skupni rabi. Kliknite za upravljanje skupne rabe.
