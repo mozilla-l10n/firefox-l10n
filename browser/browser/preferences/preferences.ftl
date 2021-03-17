@@ -865,6 +865,16 @@ sitedata-delete-on-close =
     .label = Desaniciar les cookies y los datos de los sitios al zarrar { -brand-short-name }
     .accesskey = z
 sitedata-delete-on-close-private-browsing = Nel mou de restolar en privao permanente, les cookies y los datos de los sitios van llimpiase al zarrar { -brand-short-name }.
+sitedata-allow-cookies-option =
+    .label = Aceptar les cookies y los datos de los sitios
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Bloquiar les cookies y los datos de los sitios
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipu bloquiáu
+    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Rastrexadores ente sitios
 sitedata-option-block-cross-site-and-social-media-trackers =
