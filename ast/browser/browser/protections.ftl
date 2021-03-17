@@ -48,7 +48,7 @@ tracker-tab-description = Los sitios web puen cargar publicidá, vídeos y otru 
 fingerprinter-tab-title = Xeneradores de buelgues
 fingerprinter-tab-content = Los xeneradores de buelgues recueyen los axustes del restolador y l'ordenador pa crear un perfil de ti. Col usu d'esta buelga dixital puen rastrexate pente sitios web estremaos. <a data-l10n-name="learn-more-link">Lleer más</a>
 cryptominer-tab-title = Criptomineros
-cryptominer-tab-content = Los criptomineros usen la potencia de cálculu del ordenador pa minar moneda dixital. Los scripts de criptominería escosen aína la batería del preséu, vuelven lentu al ordenador y puen aumentar el preciu de la factura de la lluz. <a data-l10n-name="learn-more-link">Lleer más</a>
+cryptominer-tab-content = Los criptomineros usen la potencia de cálculu del sistema pa minar moneda dixital. Los scripts de criptominería escosen aína la batería del preséu, vuelven lentu al ordenador y puen aumentar el preciu de la factura de la lluz. <a data-l10n-name="learn-more-link">Lleer más</a>
 protections-close-button2 =
     .aria-label = Zarrar
     .title = Zarrar

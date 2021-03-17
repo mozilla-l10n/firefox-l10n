@@ -158,7 +158,7 @@ cfr-doorhanger-socialtracking-description = La privacidá ye importante. Agora {
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloquió un xenerador de buelgues nesta páxina
 cfr-doorhanger-fingerprinters-description = La privacidá ye importante. Agora { -brand-short-name } bloquia xeneradores de buelgues que recueyen cachos d'información única ya identificadora tocante al preséu pa rastrexate.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloquió un criptomineru nesta páxina
-cfr-doorhanger-cryptominers-description = La privacidá ye importante. Agora { -brand-short-name } bloquia criptomineros qu'usen la potencia de cálculu del ordenador pa minar moneda dixital.
+cfr-doorhanger-cryptominers-description = La privacidá ye importante. Agora { -brand-short-name } bloquia criptomineros qu'usen la potencia de cálculu del sistema pa minar moneda dixital.
 
 ## Enhanced Tracking Protection Milestones
 
