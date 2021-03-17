@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = Recargar la llingüeta
+    .label = Volver cargar la llingüeta
     .accesskey = R
 select-all-tabs =
     .label = Esbillar toles llingüetes

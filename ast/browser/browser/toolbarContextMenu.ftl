@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-reload-selected-tab =
-    .label = Recargar la llingüeta esbillada
+    .label = Volver cargar la llingüeta esbillada
     .accesskey = R
 toolbar-context-menu-reload-selected-tabs =
-    .label = Recargar les llingüetes esbillaes
+    .label = Volver cargar les llingüetes esbillaes
     .accesskey = R
 toolbar-context-menu-bookmark-selected-tab =
     .label = Amestar la llingüeta esbillada a Marcadores…
