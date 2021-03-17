@@ -13,6 +13,7 @@ fxa-disconnect-dialog-title = Zwisk z { -brand-product-name } dźělić?
 fxa-disconnect-dialog-body = { -brand-product-name }budźe so z wašeho konta dźělić, ale njezhaša přehladowanske daty na tutym graće.
 sync-disconnect-dialog-button = Zwisk dźělić
 fxa-signout-dialog-heading = Z { -fxaccount-brand-name } wotzjewić?
+fxa-signout-dialog2-title = Z { -fxaccount-brand-name } wotzjewić?
 fxa-signout-dialog-body = Synchronizowane daty we wašim konće wostanu.
 fxa-signout-checkbox =
     .label = Daty z tutoho grata (přizjewjenja, hesła, historija, zapołožki atd.) zhašeć.
