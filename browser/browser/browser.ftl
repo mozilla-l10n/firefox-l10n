@@ -212,18 +212,18 @@ identity-clear-site-data =
     .label = Llimpiar les cookies y los datos de los sitios…
 identity-connection-not-secure-security-view = Nun tas conectáu de forma segura a esti sitiu.
 identity-connection-verified = Tas conectáu de forma segura a esti sitiu.
-identity-description-custom-root = Mozilla nun reconoz esti emisor de certificaos. Pue ser que lu amestare'l sistema operativu o un alministrador. <label data-l10n-name="link">Deprender más</label>
+identity-description-custom-root = Mozilla nun reconoz esti emisor de certificaos. Pue ser que lu amestare'l sistema operativu o un alministrador. <label data-l10n-name="link">Lleer más</label>
 identity-description-insecure = La conexón a esti sitiu nun ye privada. La información (contraseñes o tarxetes de creitu) qu'unvies podríen vela terceros.
 identity-description-weak-cipher-intro = La conexón a esti sitiu web usa un cifráu feble y nun ye privada.
 identity-description-weak-cipher-risk = Terceros puen ver la to información o modificar el comportamientu del sitiu web.
-identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Deprender más</label>
+identity-description-active-blocked = { -brand-short-name } bloquió partes d'esta páxina que nun son segures. <label data-l10n-name="link">Lleer más</label>
 identity-description-passive-loaded = La conexón nun ye privada y la información que compartas col sitiu podríen vela otros.
-identity-description-passive-loaded-insecure = Esti sitiu web contién conteníu que nun ye seguru (como les imáxenes). <label data-l10n-name="link">Deprender más</label>
-identity-description-passive-loaded-mixed = Magar que { -brand-short-name } bloquió dalgún conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes). <label data-l10n-name="link">Deprender más</label>
+identity-description-passive-loaded-insecure = Esti sitiu web contién conteníu que nun ye seguru (como les imáxenes). <label data-l10n-name="link">Lleer más</label>
+identity-description-passive-loaded-mixed = Magar que { -brand-short-name } bloquió dalgún conteníu, entá hai conteníu na páxina que nun ye seguru (como imáxenes). <label data-l10n-name="link">Lleer más</label>
 identity-description-active-loaded = Esti sitiu web contién conteníu que nun ye seguru (como los scripts) y la conexón a elli nun ye privada.
 identity-description-active-loaded-insecure = La información que compartas con esti sitiu podríen vela otros (contraseñes, mensaxes, tarxetes de creitu, etc.).
 identity-learn-more =
-    .value = Deprender más
+    .value = Lleer más
 identity-disable-mixed-content-blocking =
     .label = Desactivar la proteición pel momentu
     .accesskey = D
@@ -317,8 +317,10 @@ pointerlock-warning-no-domain = Esti documentu tien el control del punteru. Prim
 ## Subframe crash notification
 
 crashed-subframe-learnmore =
-    .label = Deprender más
-    .accesskey = D
+    .label = Lleer más
+    .accesskey = L
+crashed-subframe-learnmore-link =
+    .value = Lleer más
 
 ## Bookmarks panels, menus and toolbar
 

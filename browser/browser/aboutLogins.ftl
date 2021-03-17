@@ -221,7 +221,7 @@ about-logins-breach-alert-date = Esti arrampuñamientu asocedió'l { DATETIME($d
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Dir a { $hostname }
-about-logins-breach-alert-learn-more-link = Deprender más
+about-logins-breach-alert-learn-more-link = Lleer más
 
 ## Vulnerable Password notification
 
@@ -230,7 +230,7 @@ about-logins-vulnerable-alert-text2 = Esta contraseña usóse n'otra cuenta que 
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Dir a { $hostname }
-about-logins-vulnerable-alert-learn-more-link = Deprender más
+about-logins-vulnerable-alert-learn-more-link = Lleer más
 
 ## Error Messages
 
@@ -314,7 +314,7 @@ about-logins-import-dialog-error-file-permission-description = { -brand-short-na
 about-logins-import-dialog-error-unable-to-read-title = Nun ye posible analizar el ficheru
 about-logins-import-dialog-error-unable-to-read-description = Asegúrate de qu'esbillesti un ficheru CSV o TSV.
 about-logins-import-dialog-error-no-logins-imported = Nun s'importó nengún aniciu de sesión
-about-logins-import-dialog-error-learn-more = Deprender más
+about-logins-import-dialog-error-learn-more = Lleer más
 about-logins-import-dialog-error-try-again = Retentar…
 about-logins-import-dialog-error-cancel = Encaboxar
 about-logins-import-report-title = Sumariu de la importación

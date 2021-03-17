@@ -75,7 +75,7 @@ profiler-popup-reveal-description-button =
 profiler-popup-description-title =
     .value = Rexistra, analiza y comparti
 profiler-popup-description = Collabora na igua de problemes de rindimientu espublizando perfiles pa compartilos col to equipu.
-profiler-popup-learn-more = Deprender más
+profiler-popup-learn-more = Lleer más
 profiler-popup-settings =
     .value = Axustes
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
