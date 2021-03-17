@@ -8,3 +8,5 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
+sec-error-cert-valid = Esti certificáu ye válidu.
+sec-error-cert-not-valid = Esti certificáu nun ye válidu.
