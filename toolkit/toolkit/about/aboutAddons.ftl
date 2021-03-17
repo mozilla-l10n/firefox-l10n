@@ -281,11 +281,17 @@ install-theme-button = Инсталиране на тема
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Управление
 find-more-addons = Повече добавки
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Още настройки
 
 ## Add-on actions
 
 report-addon-button = Докладване
 remove-addon-button = Премахване
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Не може да бъде премахнато <a data-l10n-name="link"> Защо?</a>
 disable-addon-button = Изключване
 enable-addon-button = Включване
 preferences-addon-button =
@@ -303,6 +309,7 @@ addon-detail-version-label = Издание
 addon-detail-last-updated-label = Последно обновяване
 addon-detail-homepage-label = Страница
 addon-detail-rating-label = Оценка
+install-postponed-button = Обновяване
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
@@ -356,6 +363,7 @@ recent-updates-heading = Последни обновявания
 release-notes-loading = Зареждане…
 release-notes-error = За съжаление, зареждането на бележките към изданието е неуспешно.
 addon-permissions-empty = Разширението не изисква никакви права
+addon-permissions-learnmore = Научете повече за правата
 recommended-extensions-heading = Препоръчани разширения
 recommended-themes-heading = Препоръчани теми
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

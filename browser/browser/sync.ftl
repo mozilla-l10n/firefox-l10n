@@ -12,3 +12,4 @@ sync-disconnect-dialog-body = { -brand-product-name } ще спре синхро
 fxa-disconnect-dialog-title = Изключване на { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } ще бъде изключен от вашата сметка, но няма да изтрива данни за разглеждане от устройството.
 sync-disconnect-dialog-button = Изключване
+fxa-signout-dialog-heading = Излизане от { -fxaccount-brand-name }?

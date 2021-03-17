@@ -131,6 +131,11 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Копиране на електронния адрес
     .accesskey = е
@@ -206,6 +211,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Картина в картината
     .accesskey = т
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Гледайте картина в картина
+    .accesskey = к
 main-context-menu-image-reload =
     .label = Презареждане на изображение
     .accesskey = з
@@ -275,6 +285,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Генериране на парола…
     .accesskey = п
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Добавяне на ключова дума за търсенето…
     .accesskey = к
