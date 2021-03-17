@@ -31,6 +31,7 @@
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Lleer más
 
 ## Add-on actions
 
