@@ -288,6 +288,8 @@ identity-passive-loaded = Ko kuatiarogue pehẽ heta hendápe nda’ijeroviapái
 identity-active-loaded = Ndereguerekói pa’ũ ko kuatiaroguépe g̃uarã.
 identity-weak-encryption = Ko kuatiarogue oipuru ñangarekoha ikangýva.
 identity-insecure-login-forms = Ojehaiva’ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.
+identity-permissions =
+    .value = Moneĩ
 identity-https-only-connection-upgraded = (HTTPS hekopyahupyre)
 identity-https-only-label = HTTPS ayvúpe año
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Emyandy HTTPS ayvu añoite ko tendápe g̃uarã eipotáramo { -brand-short-name } ombohekopyahu nde jeike ikatu vove.
 identity-https-only-info-turn-off2 = Pe tenda ndoikoporãirõ, ikatu emboguese pe HTTPS ayvu añoite emyanyhẽjey hag̃ua eipurúvo HTTP jeike hekorosã’ỹva.
 identity-https-only-info-no-upgrade = Ndaikatúi embohekopyahu jeike HTTP guive.
-identity-permissions =
-    .value = Moneĩ
 identity-permissions-storage-access-header = Kookie tenda ojuasáva
 identity-permissions-storage-access-hint = Ko’ãva ikatu oipuru kookie ha tenda ojuasáva mba’ekuaarã eime aja ko tendápe.
 identity-permissions-reload-hint = Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Ñemboheta
-browser-tab-audio-muted = Mokirirĩ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ÑEMBOSARÁIPE
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,29 @@ browser-tab-audio-muted2 = OGUEPYRE
 browser-tab-audio-blocked = AUTOPLAY JOKOPYRE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] EMOKIRIRĨ TENDAYKE
+        [one] EMOKIRIRĨ TENDAYKE
+       *[other] EMOKIRIRĨ { $count } TENDAYKEKUÉRA
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] EMYANDY TENDAYKE
+        [one] EMYANDY TENDAYKE
+       *[other] EMYANDY { $count } TENDAYKEKUÉRA
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] EMBOPU TENDAYKE
+        [one] EMBOPU TENDAYKE
+       *[other] EMBOPU { $count } TENDAYKEKUÉRA
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +571,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Opaite techaukaha jehechauka
-bookmarks-recent-bookmarks =
-    .value = Oñembokurusu ramóva
 bookmarks-manage-bookmarks =
     .label = Eñangareko techaukaháre
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +591,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Eñomi Techaukaha Renda Yke
            *[other] Techaukaha ra’ãngarupa yke recha
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Eñomi Techaukaha Rembipuru Renda
-           *[other] Techaukaha renda jehecha
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +637,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Techaukaha
-library-bookmarks-bookmark-this-page =
-    .label = Kuatiarogue mbojoapy
-library-bookmarks-bookmark-edit =
-    .label = Ko techaukaha mbosako’i
 library-recent-activity-title =
     .value = Tembiapo ramovegua
 
