@@ -363,6 +363,11 @@ browser-tab-unmute =
         [1] BỎ TẮT TIẾNG THẺ
        *[other] BỎ TẮT TIẾNG { $count } THẺ
     }
+browser-tab-unblock =
+    { $count ->
+        [1] PHÁT THẺ
+       *[other] PHÁT { $count } THẺ
+    }
 
 ## Bookmarks toolbar items
 
