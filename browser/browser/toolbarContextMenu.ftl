@@ -25,6 +25,14 @@ toolbar-context-menu-undo-close-tabs =
            *[other] Zhbëje Mbylljen e Skedave
         }
     .accesskey = Z
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Rihap Skedën e Mbyllur
+            [one] Rihap Skedën e Mbyllur
+           *[other] Rihap Skedat e Mbyllura
+        }
+    .accesskey = R
 toolbar-context-menu-manage-extension =
     .label = Administroni Zgjerimin
     .accesskey = A
@@ -46,11 +54,17 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-auto-hide-downloads-button =
     .label = Vetëfshihe në Panel
     .accesskey = V
+toolbar-context-menu-auto-hide-downloads-button-2 =
+    .label = Fshihe Butonin, Kur Është e Zbrazët
+    .accesskey = F
 toolbar-context-menu-remove-from-toolbar =
     .label = Hiqe nga Paneli
     .accesskey = H
 toolbar-context-menu-view-customize-toolbar =
     .label = Përshtateni…
+    .accesskey = P
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Përshtateni Panelin…
     .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Shfaqe Përherë
