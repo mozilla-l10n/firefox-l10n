@@ -355,7 +355,7 @@ browser-tab-audio-muted2 = MUT
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = LECTURA AUTO BLOCADA
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = VIDÈO-INCRUSTADA
+browser-tab-audio-pip = VIDÈO INCRUSTADA
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
