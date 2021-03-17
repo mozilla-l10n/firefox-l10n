@@ -42,7 +42,6 @@ printui-scale-fit-to-page-width = Yn ffitio i led y dudalen
 printui-scale-pcent = Graddfa
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Argraffu dwy ochr
-printui-duplex-checkbox = Argraffu ar y ddwy ochr
 printui-two-sided-printing-off = Wedi diffodd
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Fflipio ar ymyl hir
@@ -61,14 +60,19 @@ printui-margins-default = Rhagosodiad
 printui-margins-min = Lleiafswm
 printui-margins-none = Dim
 printui-margins-custom-inches = Cyfaddas (modfeddi)
+printui-margins-custom-mm = Cyfaddas (mm)
 printui-margins-custom-top = Brig
 printui-margins-custom-top-inches = Brig (modfeddi)
+printui-margins-custom-top-mm = Brig (mm)
 printui-margins-custom-bottom = Gwaelod
 printui-margins-custom-bottom-inches = Gwaelod (modfeddi)
+printui-margins-custom-bottom-mm = Gwaelod (mm)
 printui-margins-custom-left = Chwith
 printui-margins-custom-left-inches = Chwith (modfeddi)
+printui-margins-custom-left-mm = Chwith (mm)
 printui-margins-custom-right = De
 printui-margins-custom-right-inches = De (modfeddi)
+printui-margins-custom-right-mm = De (mm)
 printui-system-dialog-link = Argraffu gan ddefnyddio deialog y system ...
 printui-primary-button = Argraffu
 printui-primary-button-save = Cadw
