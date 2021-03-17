@@ -301,6 +301,7 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Aktivizoni Mënyrën Vetëm-HTTPS për këtë sajt, nëse doni që { -brand-short-name }-i të përmirësojë lidhjen, kur është e mundur.
 identity-https-only-info-turn-off2 = Nëse faqja duket të jetë e dëmtuar, mund të doni të çaktivizoni Mënyrën Vetëm-HTTPS- për këtë sajt, që të ringarkohet duke përdorur HTTP jo të sigurt.
 identity-https-only-info-no-upgrade = S’arrihet të përmirësohet lidhja nga HTTP.
+identity-permissions-storage-access-header = Cookies nga sajti në sajt
 identity-permissions-storage-access-hint = Këto palë mund të përdorin “cross-site cookies” dhe të dhëna sajtesh, ndërkohë që jeni në këtë sajt.
 identity-permissions-reload-hint = Mund t'ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.
 identity-permissions-empty = S'i keni dhënë këtij sajti ndonjë leje speciale.
@@ -391,6 +392,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon për ndarje me të tjerët:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamerë:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamerë
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.
 popup-screen-sharing-not-now =
     .label = Jo Tani
@@ -400,6 +411,13 @@ popup-screen-sharing-never =
     .accesskey = K
 popup-silence-notifications-checkbox = Çaktivizo njoftime nga { -brand-short-name }-i, ndërkohë që bëhet ndarje me të tjerë
 popup-silence-notifications-checkbox-warning = { -brand-short-name }-i s’do të shfaqë njoftime, kur jeni duke ndarë gjëra me të tjerë.
+popup-screen-sharing-block =
+    .label = Bllokoje
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Bllokoje përherë
+    .accesskey = B
+popup-mute-notifications-checkbox = Mos shfaq njoftime sajti, kur ndahen gjëra me të tjerë
 
 ## WebRTC window or screen share tab switch warning
 
@@ -540,6 +558,8 @@ crashed-subframe-message = <strong>Një pjesë e kësaj faqeje u vithis.</strong
 crashed-subframe-learnmore =
     .label = Mësoni Më Tepër
     .accesskey = M
+crashed-subframe-learnmore-link =
+    .value = Mësoni Më Tepër
 crashed-subframe-submit =
     .label = Parashtroni Njoftim
     .accesskey = P
@@ -548,6 +568,11 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Shfaqni Krejt Faqerojtësit
+bookmarks-manage-bookmarks =
+    .label = Administroni Faqerojtës
+bookmarks-recent-bookmarks-panel =
+    .value = Faqerojtës Së Fundi
+bookmarks-recent-bookmarks-panel-subheader = Faqerojtës Së Fundi
 bookmarks-toolbar-chevron =
     .tooltiptext = Shfaqni më tepër faqerojtës
 bookmarks-sidebar-content =
@@ -569,6 +594,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
         { $isVisible ->
             [true] Fshihe Panelin e Faqerojtësve
            *[other] Shihni Panel Faqerojtësish
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Fshih Panel Faqerojtësish
+           *[other] Shfaq Panel Faqerojtësish
         }
 bookmarks-tools-menu-button-visibility =
     .label =
@@ -595,6 +626,9 @@ bookmarks-toolbar-placeholder =
     .title = Objekte Paneli Faqerojtësish
 bookmarks-toolbar-placeholder-button =
     .label = Objekte Paneli Faqerojtësish
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Faqeruaj Skedën e Tanishme
 
 ## Library Panel items
 
@@ -612,9 +646,19 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Audio ose video në këtë sajt përdor software DRM, çka mund të kufizojë ato që { -brand-short-name }-i mund t’ju lejojë të bëni me të.
+eme-notifications-drm-content-playing-manage = Administroni Rregullime
+eme-notifications-drm-content-playing-manage-accesskey = A
+eme-notifications-drm-content-playing-dismiss = Hidhe tej
+eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Password save/update panel
 
+panel-save-update-username = Emër përdoruesi
+panel-save-update-password = Fjalëkalim
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Të hiqet { $name }?
+addon-removal-abuse-report-checkbox = Raportojeni këtë zgjerim te { -vendor-short-name }
