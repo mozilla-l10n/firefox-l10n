@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Nhập từ tập tin:
 calendar-ics-file-dialog-calendar-menu-label = Nhập vào lịch:
 calendar-ics-file-dialog-items-loading-message =
     .value = Đang tải các mục…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Lọc các mục…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Sắp xếp theo ngày bắt đầu (ngày đầu đến ngày cuối)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Sắp xếp theo ngày bắt đầu (ngày cuối đến ngày đầu)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Sắp xếp theo tiêu đề (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Sắp xếp theo tiêu đề (Z > A)
 calendar-ics-file-dialog-progress-message = Đang nhập…
 calendar-ics-file-import-success = Nhập thành công!
 calendar-ics-file-import-error = Đã xảy ra lỗi và không thể nhập.
