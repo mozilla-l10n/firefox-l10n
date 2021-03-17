@@ -11,8 +11,6 @@
 <!ENTITY pasteNoFormatting.label "Coller sans mise en forme">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
-<!ENTITY pasteAs.label "Coller comme">
-<!ENTITY pasteAs.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.label "Coller comme une citation">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -25,7 +23,6 @@
 <!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "Insérer">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Lien…">
 <!ENTITY insertLinkCmd2.accesskey "L">
@@ -294,8 +291,6 @@
 <!ENTITY cutToolbarCmd.tooltip "Couper">
 <!ENTITY copyToolbarCmd.tooltip "Copier">
 <!ENTITY pasteToolbarCmd.tooltip "Coller">
-<!ENTITY printToolbarCmd.label "Imprimer">
-<!ENTITY printToolbarCmd.tooltip "Imprimer la page">
 <!ENTITY findToolbarCmd.label "Rechercher">
 <!ENTITY findToolbarCmd.tooltip "Rechercher du texte dans la page">
 <!ENTITY spellToolbarCmd.label "Orthographe">
@@ -313,8 +308,6 @@
 <!ENTITY colorButtons.title "Couleurs">
 <!ENTITY TextColorButton.tooltip "Choisir la couleur du texte">
 <!ENTITY BackgroundColorButton.tooltip "Choisir une couleur pour le fond">
-<!ENTITY throbber.tooltip "Visiter le site web de &vendorShortName;">
-<!ENTITY throbber.tooltip2 "Visiter le site web de &brandShortName;">
 <!ENTITY HighlightColorButton.label "Surlignage">
 <!ENTITY HighlightColorButton.tooltip "Choisir la mise en couleur pour le texte">
 
