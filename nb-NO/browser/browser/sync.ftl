@@ -13,7 +13,6 @@ fxa-disconnect-dialog-title = Koble fra { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } vil koble fra denne kontoen, men sletter ikke nettleserdata på denne enheten.
 sync-disconnect-dialog-button = Koble fra
 fxa-signout-dialog-heading = Logge ut av { -fxaccount-brand-name }?
-fxa-signout-dialog2-title = Logg ut av { -fxaccount-brand-name(capitalization: "sentence") }?
 fxa-signout-dialog-body = Synkroniserte data forblir på kontoen din.
 fxa-signout-checkbox =
     .label = Slett data fra denne enheten (innlogginger, passord, historikk, bokmerker osv.).
