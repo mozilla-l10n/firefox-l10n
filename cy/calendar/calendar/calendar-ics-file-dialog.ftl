@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Mewnforio o'r ffeil:
 calendar-ics-file-dialog-calendar-menu-label = Mewnforio i'r calendr:
 calendar-ics-file-dialog-items-loading-message =
     .value = Llwytho eitemau...
+calendar-ics-file-dialog-search-input =
+    .placeholder = Hidlo eitemau…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Trefnu yn ôl y dyddiad cychwyn (y cyntaf i'r olaf)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Trefnu yn ôl y dyddiad cychwyn (y cyntaf i'r olaf)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Trefnu yn ôl teitl (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Trefnu yn ôl teitl (A > Z)
 calendar-ics-file-dialog-progress-message = Mewnforio…
 calendar-ics-file-import-success = Wedi’i mewnforio’n llwyddiannus
 calendar-ics-file-import-error = Digwyddodd gwall a methodd y mewnforio.
