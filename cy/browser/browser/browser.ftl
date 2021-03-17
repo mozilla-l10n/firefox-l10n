@@ -296,6 +296,8 @@ identity-passive-loaded = Nid yw rhannau o'r dudalen hon yn ddiogel (megis delwe
 identity-active-loaded = Rydych wedi analluogi diogelwch ar y dudalen hon.
 identity-weak-encryption = Mae'r dudalen hon yn defnyddio amgryptiad gwan.
 identity-insecure-login-forms = Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.
+identity-permissions =
+    .value = Caniatâd
 identity-https-only-connection-upgraded = (wedi'i uwchraddio i HTTPS)
 identity-https-only-label = Modd HTTPS-yn-Unig
 identity-https-only-dropdown-on =
@@ -307,8 +309,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Trowch y Modd HTTPS-yn-Unig ymlaen os ydych chi am i { -brand-short-name } uwchraddio'r cysylltiad lle'n bosibl.
 identity-https-only-info-turn-off2 = Os yw'r wefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd Modd HTTPS-yn-Unig i'w ail-lwytho gan ddefnyddio HTTP anniogel.
 identity-https-only-info-no-upgrade = Methu uwchraddio'r cysylltiad o HTTP.
-identity-permissions =
-    .value = Caniatâd
 identity-permissions-storage-access-header = Cwcis traws-gwefan
 identity-permissions-storage-access-hint = Gall y partïon hyn ddefnyddio cwcis traws-gwefan a data gwefan tra'ch bod chi ar y wefan hon.
 identity-permissions-reload-hint = Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.
@@ -356,8 +356,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Chwarae
-browser-tab-audio-muted = Tewi
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = YN CHWARAE
 # This label should be written in all capital letters if your locale supports them.
@@ -366,6 +364,41 @@ browser-tab-audio-muted2 = WEDI TEWI
 browser-tab-audio-blocked = AWTOCHWARAE WEDI'I RWYSTRO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = LLUN-MEWN-LLUN
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] MUDO TAB
+        [zero] MUDO { $count } TABIAU
+        [one] MUDO { $count } TAB
+        [two] MUDO { $count } DAB
+        [few] MUDO { $count } THAB
+        [many] MUDO { $count } THAB
+       *[other] MUDO { $count } TAB
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] DAD-FUDO TAB
+        [zero] DAD-FUDO { $count } TABIAU
+        [one] DAD-FUDO { $count } TAB
+        [two] DAD-FUDO { $count } DAB
+        [few] DAD-FUDO { $count } THAB
+        [many] DAD-FUDO { $count } THAB
+       *[other] DAD-FUDO { $count } TAB
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] CHWARAE TAB
+        [zero] CHWARAE TABIAU
+        [one] CHWARAE { $count } TAB
+        [two] CHWARAE { $count } DAB
+        [few] CHWARAE { $count } THAB
+        [many] CHWARAE { $count } THAB
+       *[other] CHWARAE { $count } TAB
+    }
 
 ## Bookmarks toolbar items
 
@@ -558,8 +591,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Dangos Pob Nod Tudalen
-bookmarks-recent-bookmarks =
-    .value = Wedi gosod Nod Tudalen yn Ddiweddar
 bookmarks-manage-bookmarks =
     .label = Rheoli Nodau Tudalen
 bookmarks-recent-bookmarks-panel =
@@ -579,12 +610,6 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] Cuddio'r Bar Ochr Nodau Tudalen
-           *[other] Gweld Bar Offer Nodau Tudalen
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Cuddio'r Bar Offer Nodau Tudalen
            *[other] Gweld Bar Offer Nodau Tudalen
         }
 bookmarks-tools-toolbar-visibility-menuitem =
@@ -632,10 +657,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Nodau Tudalen
-library-bookmarks-bookmark-this-page =
-    .label = Gosod Nod Tudalen i'r Dudalen
-library-bookmarks-bookmark-edit =
-    .label = Golygu'r Nod Tudalen
 library-recent-activity-title =
     .value = Gweithgareddau Diweddar
 
