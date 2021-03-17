@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Importar desde archivo:
 calendar-ics-file-dialog-calendar-menu-label = Importar al calendario:
 calendar-ics-file-dialog-items-loading-message =
     .value = Cargando elementos…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Filtrar elementos...
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Ordenar por fecha de inicio (primero a último)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Ordenar por fecha de inicio (último a primero)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Ordenar por título (A>Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Ordenar por título (Z>A)
 calendar-ics-file-dialog-progress-message = Importando…
 calendar-ics-file-import-success = ¡Importado con éxito!
 calendar-ics-file-import-error = Se produjo un error y la importación falló.
