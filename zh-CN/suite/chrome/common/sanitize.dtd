@@ -5,23 +5,37 @@
 <!ENTITY sanitizeDialog.title            "清空隐私数据">
 <!ENTITY sanitizeItems.label             "立即清空下列项目：">
 
+<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
+    pref-privatedata.dtd. These entities are also used in the private data
+    preferences dialog.
+-->
 <!ENTITY itemHistory.label               "浏览历史">
 <!ENTITY itemHistory.accesskey           "B">
+<!ENTITY itemHistoryS.accesskey          "r">
 <!ENTITY itemUrlBar.label                "地址栏历史">
 <!ENTITY itemUrlBar.accesskey            "L">
+<!ENTITY itemUrlBarS.accesskey           "t">
 <!ENTITY itemDownloads.label             "下载历史">
 <!ENTITY itemDownloads.accesskey         "D">
+<!ENTITY itemDownloadsS.accesskey        "y">
 <!ENTITY itemFormSearchHistory.label     "已保存表单和搜索历史">
 <!ENTITY itemFormSearchHistory.accesskey "F">
+<!ENTITY itemFormSearchHistoryS.accesskey "m">
 <!ENTITY itemCache.label                 "高速缓存">
 <!ENTITY itemCache.accesskey             "a">
+<!ENTITY itemCacheS.accesskey            "e">
 <!ENTITY itemCookies.label               "Cookie">
 <!ENTITY itemCookies.accesskey           "C">
+<!ENTITY itemCookiesS.accesskey          "k">
 <!ENTITY itemOfflineApps.label           "脱机网站数据">
 <!ENTITY itemOfflineApps.accesskey       "O">
+<!ENTITY itemOfflineAppsS.accesskey      "i">
 <!ENTITY itemPasswords.label             "已保存的密码">
 <!ENTITY itemPasswords.accesskey         "P">
+<!ENTITY itemPasswordsS.accesskey        "v">
 <!ENTITY itemSessions.label              "已通过验证的会话">
 <!ENTITY itemSessions.accesskey          "S">
+
+<!ENTITY itemSessionsS.accesskey         "u">
 
 <!ENTITY sanitizeButton.label            "立即清除隐私数据">
