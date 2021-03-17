@@ -217,8 +217,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ver todos
     .accesskey = S
-cfr-doorhanger-milestone-close-button = Cerrar
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -243,6 +241,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Cerrar
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -262,6 +262,8 @@ cfr-whatsnew-better-pdf-body = Los documentos PDF ahora se abren directamente en
 cfr-doorhanger-doh-body = Tu privacidad importa. { -brand-short-name } ahora enruta de forma segura tus solicitudes DNS siempre que sea posible a un servicio asociado para protegerte mientras navegas.
 cfr-doorhanger-doh-header = Búsquedas DNS más seguras y encriptadas
 cfr-doorhanger-doh-primary-button = Ok, me quedó clarito
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = Confirmar
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Desactivar
     .accesskey = D
