@@ -111,9 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = เปิดลิงก์ในแท็บแยกข้อมูลใหม่
     .accesskey = ย
-main-context-menu-open-link-container =
-    .label = เปิดลิงก์ในแท็บแยกข้อมูลใหม่
-    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = เปิดลิงก์ในหน้าต่างใหม่
     .accesskey = ห
@@ -193,6 +190,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = เร็วมาก (2×)
     .accesskey = ม
+main-context-menu-media-play-speed-2 =
+    .label = ความเร็ว
+    .accesskey = ร
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = วนรอบ
     .accesskey = ว
@@ -220,6 +230,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = ภาพที่เล่นควบคู่
     .accesskey = ภ
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = ดูในแบบภาพที่เล่นควบคู่
+    .accesskey = ค
 main-context-menu-image-reload =
     .label = โหลดภาพใหม่
     .accesskey = ห
@@ -229,6 +244,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = ดูวิดีโอ
     .accesskey = ด
+main-context-menu-image-view-new-tab =
+    .label = เปิดภาพในแท็บใหม่
+    .accesskey = ภ
+main-context-menu-video-view-new-tab =
+    .label = เปิดวิดีโอในแท็บใหม่
+    .accesskey = ว
 main-context-menu-image-copy =
     .label = คัดลอกภาพ
     .accesskey = ค
@@ -277,6 +298,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = บันทึกสแนปช็อตเป็น…
     .accesskey = บ
+main-context-menu-video-take-snapshot =
+    .label = ถ่ายสแนปช็อต…
+    .accesskey = ส
 main-context-menu-video-email =
     .label = ส่งอีเมลวิดีโอ…
     .accesskey = ม
@@ -301,6 +325,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = ใช้รหัสผ่านที่ถูกสร้างขึ้นมา ...
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = ใช้การเข้าสู่ระบบที่บันทึกไว้
+    .accesskey = บ
+main-context-menu-use-saved-password =
+    .label = ใช้รหัสผ่านที่บันทึกไว้
+    .accesskey = ห
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = แนะนำรหัสผ่านที่คาดเดายาก…
+    .accesskey = ย
 main-context-menu-manage-logins =
     .label = จัดการการเข้าสู่ระบบ…
     .accesskey = M
@@ -346,6 +387,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = ดูต้นฉบับส่วนที่เลือก
     .accesskey = ต
+main-context-menu-take-screenshot =
+    .label = ถ่ายภาพหน้าจอ
+    .accesskey = ถ
 main-context-menu-view-page-source =
     .label = ดูต้นฉบับหน้า
     .accesskey = ด
