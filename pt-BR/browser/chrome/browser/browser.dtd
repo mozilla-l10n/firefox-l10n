@@ -59,7 +59,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.settings.label "Configurações">
 <!ENTITY fxa.menu.accountSettings.label "Configurações da conta">
 <!ENTITY fxa.menu.manageAccount2.label "Gerenciar conta">
-<!ENTITY fxa.menu.signOut.label "Sair…">
+<!ENTITY fxa.menu.signOut.label "Desconectar…">
 <!ENTITY fxa.menu.setupSync.label "Configurar o &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
