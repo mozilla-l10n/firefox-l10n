@@ -14,6 +14,13 @@ duplicate-tab =
 duplicate-tabs =
     .label = Përsëdytni Skeda
     .accesskey = P
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Mbyll Skedat në të Majtë
+    .accesskey = j
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Mbyll Skedat në të Djathtë
     .accesskey = D
@@ -44,6 +51,9 @@ bookmark-tab =
 reopen-in-container =
     .label = Rihape në Kontejner
     .accesskey = h
+tab-context-open-in-new-container-tab =
+    .label = Hape në Skedë të Re Kontejneri
+    .accesskey = a
 move-to-start =
     .label = Shpjere në Fillim
     .accesskey = i
@@ -56,6 +66,11 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mbyll Skeda të Shumta
     .accesskey = u
+tab-context-share-url =
+    .label = Ndajeni me të tjerët
+    .accesskey = N
+tab-context-share-more =
+    .label = Më tepër…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -80,6 +95,14 @@ move-tabs =
 move-tab =
     .label = Lëvizeni Skedën
     .accesskey = v
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Rihap Skedën e Mbyllur
+            [one] Rihap Skedën e Mbyllur
+           *[other] Rihap Skedat e Mbyllura
+        }
+    .accesskey = R
 tab-context-close-tabs =
     .label =
         { $tabCount ->
