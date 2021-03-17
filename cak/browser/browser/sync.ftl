@@ -13,6 +13,7 @@ fxa-disconnect-dialog-title = ¿La nichup ri { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } xtichuputäj pa ri rub'i' ataqoya'l, xa xe chi majun rutzij okem pa k'amaya'l pa re okisab'äl re' xtuyüj.
 sync-disconnect-dialog-button = Tichup
 fxa-signout-dialog-heading = ¿La nitz'apïx molojri'ïl pa { -fxaccount-brand-name }?
+fxa-signout-dialog2-title = ¿La nichup rumolojri'ïl { -fxaccount-brand-name }?
 fxa-signout-dialog-body = Xkek'oje' pan rub'i' ataqoya'l ri ximon taq atzij.
 fxa-signout-checkbox =
     .label = Tiyuj tzij pa re okisab'äl re' (tikirisab'äl molojri'ïl, ewan taq tzij, natab'äl, taq yaketal. ch'aqa' chik).
