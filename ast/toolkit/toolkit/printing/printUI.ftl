@@ -38,12 +38,7 @@ printui-scale-fit-to-page-width = Axustar al anchor de la páxina
 printui-scale-pcent = Escalar
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Imprentación a dos cares
-printui-duplex-checkbox = Imprentar dambes cares
 printui-two-sided-printing-off = Non
-# Flip the page on the side (like a book).
-printui-two-sided-printing-side-edge = Voltiar nel berbesu llateral
-# Flip the page on the top (like a vertical calendar).
-printui-two-sided-printing-top-edge = Voltiar nel berbesu cimeru
 # Section title for miscellaneous print options
 printui-options = Opciones
 printui-headers-footers-checkbox = Imprentar les testeres y los pies de páxina
@@ -59,12 +54,16 @@ printui-margins-none = Nada
 printui-margins-custom-inches = Personalizaos (pulgaes)
 printui-margins-custom-top = Arriba
 printui-margins-custom-top-inches = Arriba (pulgaes)
+printui-margins-custom-top-mm = Arriba (mm)
 printui-margins-custom-bottom = Abaxo
 printui-margins-custom-bottom-inches = Abaxo (pulgaes)
+printui-margins-custom-bottom-mm = Abaxo (mm)
 printui-margins-custom-left = Esquierda
 printui-margins-custom-left-inches = Esquierda (pulgaes)
+printui-margins-custom-left-mm = Esquierda (mm)
 printui-margins-custom-right = Derecha
 printui-margins-custom-right-inches = Derecha (pulgaes)
+printui-margins-custom-right-mm = Derecha (mm)
 printui-system-dialog-link = Imprentar col diálogu del sistema…
 printui-primary-button = Imprentar
 printui-primary-button-save = Guardar
