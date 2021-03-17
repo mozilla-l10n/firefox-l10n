@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Gjeni në Këtë Faqe…
     .accesskey = G
+menu-edit-find-in-page =
+    .label = Gjeni në Faqe…
+    .accesskey = G
 menu-edit-find-again =
     .label = Gjeje Sërish
     .accesskey = I
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = P
 menu-view-customize-toolbar =
     .label = Përshtateni…
+    .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Përshtateni Panelin…
     .accesskey = P
 menu-view-sidebar =
     .label = Anështyllë
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Shfaqni Krejt Faqerojtësit
 menu-bookmark-this-page =
     .label = Faqeruaje Këtë Faqe
+menu-bookmark-current-tab =
+    .label = Faqeruaj Skedën e Tanishme
 menu-bookmark-edit =
     .label = Përpunojeni Këtë Faqerojtës
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = a
 menu-tools-fxa-sign-in =
     .label = Hyni Te Llogari { -brand-product-name }…
+    .accesskey = H
+menu-tools-extensions =
+    .label = Zgjerime dhe Tema
+    .accesskey = Z
+menu-tools-fxa-sign-in2 =
+    .label = Hyni
     .accesskey = H
 menu-tools-turn-on-sync =
     .label = Aktivizoni { -sync-brand-short-name }…
@@ -273,6 +287,13 @@ menu-preferences =
             [windows] M
            *[other] a
         }
+menu-settings =
+    .label = Rregullime
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] R
+        }
 menu-tools-layout-debugger =
     .label = Diagnostikues Skemash
     .accesskey = D
@@ -285,15 +306,6 @@ menu-window-bring-all-to-front =
     .label = Bjeri të Tëra Para
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -325,6 +337,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Të dhëna Diagnostikimi
     .accesskey = D
+menu-help-more-troubleshooting-info =
+    .label = Më Tepër të Dhëna Diagnostikimi
+    .accesskey = M
 menu-help-taskmanager =
     .label = Përgjegjës Punësh
 menu-help-report-site-issue =
@@ -338,6 +353,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Rinise me Shtesat të Aktivizuara
     .accesskey = A
+menu-help-enter-troubleshoot-mode =
+    .label = Mënyra Diagnostikim
+    .accesskey = D
+menu-help-exit-troubleshoot-mode =
+    .label = Çaktivizo Mënyrën Diagnostikim
+    .accesskey = Ç
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -346,6 +367,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ky s'është sajt i rremë…
     .accesskey = r
-menu-help-check-for-update =
-    .label = Shihni për Përditësime…
-    .accesskey = S
