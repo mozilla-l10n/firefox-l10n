@@ -38,10 +38,11 @@ certmgr-cert-detail-sha-1-fingerprint = Buelga SHA1
 certmgr-edit-ca-cert =
     .title = Edición de los axustes d'enfotu d'una CA de certificaos
     .style = width: 48em;
+certmgr-edit-cert-edit-trust = Edita los axustes d'enfotu:
 certmgr-edit-cert-trust-ssl =
     .label = Esti certificáu pue identificar sitios web.
 certmgr-edit-cert-trust-email =
-    .label = Esti certificáu pue identificar a usuarios de corréu.
+    .label = Esti certificáu pue identificar usuarios de corréu.
 certmgr-cert-host =
     .label = Agospiador
 certmgr-cert-name =
@@ -95,6 +96,9 @@ file-browse-pkcs12-spec = Ficheros PKCS12
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = El certificáu «{ $certName }» representa a una entidá certificadora.
 
 ## For Deleting Certificates
 
