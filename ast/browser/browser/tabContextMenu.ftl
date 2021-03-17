@@ -63,6 +63,8 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zarrar delles llingüetes
     .accesskey = d
+tab-context-share-more =
+    .label = Más…
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
