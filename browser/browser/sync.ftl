@@ -13,6 +13,7 @@ fxa-disconnect-dialog-title = { -brand-product-name } trennen?
 fxa-disconnect-dialog-body = { -brand-product-name } wird von Ihrem Konto getrennt, löscht aber keine Surfdaten auf diesem Gerät.
 sync-disconnect-dialog-button = Trennen
 fxa-signout-dialog-heading = Von { -fxaccount-brand-name } abmelden?
+fxa-signout-dialog2-title = Von { -fxaccount-brand-name } abmelden?
 fxa-signout-dialog-body = Synchronisierte Daten bleiben weiter in Ihrem Konto.
 fxa-signout-checkbox =
     .label = Daten von diesem Gerät löschen (Zugangsdaten, Passwörter, Chronik, Lesezeichen usw.).
