@@ -226,7 +226,7 @@ menu-bookmarks-show-all =
 menu-bookmark-this-page =
     .label = Bogmærk denne side
 menu-bookmark-current-tab =
-    .label = Gem bogmærke til det aktuelle faneblad
+    .label = Bogmærk dette faneblad
 menu-bookmark-edit =
     .label = Rediger bogmærke
 menu-bookmarks-all-tabs =
@@ -311,15 +311,6 @@ menu-window-bring-all-to-front =
 # NOTE: For Engineers, any additions or changes to Help menu strings should
 # also be reflected in the related strings in appmenu.ftl. Those strings, by
 # convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
 # Example: appmenu-get-help
 #
 # These strings are duplicated to allow for different casing depending on
@@ -376,6 +367,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Dette er ikke et vildledende websted…
     .accesskey = v
-menu-help-check-for-update =
-    .label = Søg efter opdateringer…
-    .accesskey = S
