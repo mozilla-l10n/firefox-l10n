@@ -14,6 +14,7 @@ certificate-viewer-common-name = Nome habitual
 certificate-viewer-country = País
 certificate-viewer-id = ID
 certificate-viewer-method = Métodu
+certificate-viewer-name = Nome
 certificate-viewer-organization = Organización
 certificate-viewer-organizational-unit = Unidá organizativa
 certificate-viewer-policy = Política
