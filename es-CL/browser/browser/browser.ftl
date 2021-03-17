@@ -656,6 +656,12 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Nombre de usuario
+panel-save-update-password = Contraseña
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = ¿Eliminar { $name }?
+addon-removal-abuse-report-checkbox = Reportar esta extensión a { -vendor-short-name }

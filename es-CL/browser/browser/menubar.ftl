@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Buscar en esta página…
     .accesskey = B
+menu-edit-find-in-page =
+    .label = Buscar en la página…
+    .accesskey = F
 menu-edit-find-again =
     .label = Volver a buscar
     .accesskey = B
@@ -129,6 +132,9 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Personalizar…
     .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Personalizar barra de herramientas…
+    .accesskey = C
 menu-view-sidebar =
     .label = Barra lateral
     .accesskey = e
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Mostrar todos los marcadores
 menu-bookmark-this-page =
     .label = Guardar esta página en marcadores
+menu-bookmark-current-tab =
+    .label = Marcar la pestaña actual
 menu-bookmark-edit =
     .label = Editar este marcador
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = o
 menu-tools-fxa-sign-in =
     .label = Conectarse a { -brand-product-name }…
+    .accesskey = g
+menu-tools-extensions =
+    .label = Extensiones y temas
+    .accesskey = E
+menu-tools-fxa-sign-in2 =
+    .label = Conectarse
     .accesskey = g
 menu-tools-turn-on-sync =
     .label = Activar { -sync-brand-short-name }…
@@ -273,6 +287,13 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-settings =
+    .label = Ajustes
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-tools-layout-debugger =
     .label = Depurador de diseño
     .accesskey = L
@@ -285,15 +306,6 @@ menu-window-bring-all-to-front =
     .label = Traer todo hacia al frente
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -355,6 +367,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Este no es un sitio fraudulento…
     .accesskey = d
-menu-help-check-for-update =
-    .label = Buscar actualizaciones…
-    .accesskey = C
