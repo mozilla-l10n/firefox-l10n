@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Việc triển khai thuộc tính toàn cục <a data-l10n-name="mdn-inputmode">inputmode</a> của chúng tôi đã được cập nhật theo <a data-l10n-name="whatwg">thông số của WHATWG</a>, nhưng chúng tôi vẫn cần phải thực hiện các thay đổi khác, như làm cho nó có sẵn trên nội dung của contenteditable. Xem <a data-l10n-name="bugzilla">bug 1205133</a> để biết thêm chi tiết.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Thuộc tính <a data-l10n-name="rel">rel</a> có giá trị <code>"preload"</code> trên một phần tử <a data-l10n-name="link">&lt;link&gt;</a> nhằm giúp cung cấp hiệu suất tăng bằng cách cho phép bạn tải xuống các tài nguyên sớm hơn trong vòng đời của trang, đảm bảo rằng chúng có sẵn sớm hơn và ít có khả năng chặn kết xuất trang. Đọc <a data-l10n-name="readmore">“Tải trước nội dung với <code>rel="preload"</code>”</a> hoặc xem <a data-l10n-name="bugzilla">bug 1583604</a> để biết thêm chi tiết.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Cho phép các kiểu mẫu đã được chọn được áp dụng cho các thành phần như nút và điều khiển biểu mẫu, chỉ khi chúng được chọn bằng bàn phím (ví dụ: khi tab giữa các thành phần), chứ không phải khi chúng được chọn bằng chuột hoặc thiết bị trỏ khác. Xem <a data-l10n-name="bugzilla">bug 1617600</a> để biết thêm chi tiết.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Sự kiện toàn cục <a data-l10n-name="mdn-beforeinput">beforeinput</a> sẽ xảy ra trên một phần tử <a data-l10n-name="mdn-input">&lt;input&gt;</a> và<a data-l10n-name="mdn-textarea">&lt;textarea&gt;</a>, hoặc bất kỳ yếu tố nào có thuật tính <a data-l10n-name="mdn-contenteditable">contenteditable</a> được bật, ngay lập tức trước khi phần tử giá trị thay đổi. Sự kiện này cho phép các ứng dụng web ghi đè hành vi mặc định của trình duyệt để tương tác với người dùng, ví dụ: ứng dụng web chỉ có thể hủy nhập dữ liệu người dùng cho các ký tự cụ thể hoặc chỉ có thể sửa đổi dán văn bản theo kiểu với các kiểu được phê duyệt.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Việc bổ sung một hàm tạo vào giao diện <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> cũng như một loạt các thay đổi liên quan giúp có thể trực tiếp tạo các bảng định kiểu mới mà không cần phải thêm trang tính vào HTML. Điều này giúp tạo các biểu định kiểu có thể tái sử dụng dễ dàng hơn nhiều để sử dụng với <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Xem <a data-l10n-name="bugzilla">bug 1520690</a> để biết thêm chi tiết.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Cookie
 experimental-features-abouthome-startup-cache =
     .label = Bộ nhớ đệm tự chạy của about:home
 experimental-features-abouthome-startup-cache-description = Một bộ nhớ đệm cho tài liệu about:home được tải theo mặc định khi khởi động. Mục đích của bộ nhớ đệm là cải thiện hiệu suất khởi động.
-experimental-features-print-preview-tab-modal =
-    .label = Thiết kế lại bản xem trước trang in
-experimental-features-print-preview-tab-modal-description = Giới thiệu bản xem trước bản in được thiết kế lại và cung cấp bản xem trước bản in trên macOS. Điều này có khả năng gây ra vỡ và không bao gồm tất cả các cài đặt liên quan đến in. Để truy cập tất cả các cài đặt liên quan đến in, hãy chọn “In bằng hộp thoại hệ thống…” từ trong bảng In.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Cho 
 experimental-features-webrtc-global-mute-toggles =
     .label = WebRTC Global Mute Toggles
 experimental-features-webrtc-global-mute-toggles-description = Thêm điều khiển cho WebRTC global sharing indicator để cho phép người dùng tắt tiếng micrô và máy ảnh của họ.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k Lockdown
+experimental-features-win32k-lockdown-description = Vô hiệu hóa việc sử dụng các API Win32k trong các thẻ của trình duyệt. Tăng cường bảo mật nhưng hiện có thể không ổn định hoặc trục trặc. (Chỉ dành cho Windows)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
