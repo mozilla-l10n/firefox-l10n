@@ -20,7 +20,7 @@ cfr-doorhanger-pintab-ok-button = Fixar esta llingüeta
     .accesskey = F
 cfr-doorhanger-extension-never-show-recommendation = Nun amosar esta recomendación
     .accesskey = N
-cfr-doorhanger-extension-learn-more-link = Deprender más
+cfr-doorhanger-extension-learn-more-link = Lleer más
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -79,7 +79,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 cfr-protections-panel-header = Restola ensin que te sigan
 cfr-protections-panel-body = Curia los tos datos. { -brand-short-name } protéxete de la mayoría de rastrexadores comunes que siguen lo que faes en llinia.
-cfr-protections-panel-link-text = Deprender más
+cfr-protections-panel-link-text = Lleer más
 
 ## What's New toolbar button and panel
 
@@ -104,12 +104,12 @@ cfr-whatsnew-searchbar-icon-alt-text = Iconu de lente d'aumentu
 
 ## Picture-in-Picture
 
-cfr-whatsnew-pip-cta = Deprender más
+cfr-whatsnew-pip-cta = Lleer más
 
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-body = Agora { -brand-shorter-name } bloquia que los sitios te pidan automáticamente unviate mensaxes emerxentes.
-cfr-whatsnew-permission-prompt-cta = Deprender más
+cfr-whatsnew-permission-prompt-cta = Lleer más
 
 ## Fingerprinter Counter
 
@@ -164,12 +164,15 @@ cfr-doorhanger-cryptominers-description = La privacidá ye importante. Agora { -
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexador dende'l { $date }!
        *[other] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexadores dende'l { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] ¡{ -brand-short-name } bloquió alredor de <b>{ $blockedCount }</b> rastrexador dende'l { DATETIME($date, month: "long", year: "numeric") }!
@@ -177,8 +180,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Ver too
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Zarrar
-    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
@@ -195,6 +196,12 @@ cfr-whatsnew-lockwise-icon-alt = Iconu de { -lockwise-brand-short-name }
 
 cfr-whatsnew-pip-fullscreen-icon-alt = Iconu d'imaxe sobre imaxe
 
+## Protections Dashboard message
+
+cfr-doorhanger-milestone-close-button = Zarrar
+    .accesskey = Z
+
+## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-icon-alt = Iconu d'escudu
@@ -218,8 +225,8 @@ cfr-doorhanger-fission-body-approved = La privacidá ye importante. Agora { -bra
 cfr-doorhanger-fission-header = Aisllamientu de sitios
 cfr-doorhanger-fission-primary-button = Val, entendílo
     .accesskey = V
-cfr-doorhanger-fission-secondary-button = Deprender más
-    .accesskey = D
+cfr-doorhanger-fission-secondary-button = Lleer más
+    .accesskey = L
 
 ## What's new: Cookies message
 

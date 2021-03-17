@@ -412,4 +412,4 @@ main-context-menu-inspect-a11y-properties =
     .label = Inspeicionar les propiedaes de l'accesibilidá
 main-context-menu-eme-learn-more =
     .label = Lleer más tocante al DRM…
-    .accesskey = D
+    .accesskey = L
