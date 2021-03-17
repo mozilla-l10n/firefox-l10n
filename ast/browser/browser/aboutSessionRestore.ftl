@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = V
 welcome-back-restore-all-label = Restaurar toles ventanes y llingüetes
 welcome-back-restore-some-label = Restaurar namás les que quies
-welcome-back-page-info-link = Quitáronse los complementos y les personalizaciones, y reafitáronse los axustes del restolador. Si esto nun igua'l problema, <a data-l10n-name="link-more">deprendi más tocante a lo que pues facer.</a>
+welcome-back-page-info-link = Quitáronse los complementos y les personalizaciones, y reafitáronse los axustes del restolador. Si esto nun igua'l problema, <a data-l10n-name="link-more">llei más tocante a lo que pues facer.</a>
