@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = Von { -fxaccount-brand-name } abmelden
     .style = min-width: 375px;
     .buttonlabelaccept = Abmelden
+fxa-signout-dialog2-button = Abmelden
+fxa-signout-dialog2-checkbox = Daten von diesem Gerät löschen (Passwörter, Chronik, Lesezeichen usw.).
