@@ -288,6 +288,8 @@ identity-passive-loaded = Pjesë të kësaj faqeje (fjala vjen, figura) s'janë 
 identity-active-loaded = E keni çaktivizuar mbrojtjen për këtë faqe.
 identity-weak-encryption = Kjo faqe përdor fshehtëzim të dobët.
 identity-insecure-login-forms = Kredencialet e hyrjeve të dhëna në këtë faqe mund të komprometohen.
+identity-permissions =
+    .value = Leje
 identity-https-only-connection-upgraded = (u përmirësua në HTTPS)
 identity-https-only-label = Mënyra Vetëm-HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Aktivizoni Mënyrën Vetëm-HTTPS për këtë sajt, nëse doni që { -brand-short-name }-i të përmirësojë lidhjen, kur është e mundur.
 identity-https-only-info-turn-off2 = Nëse faqja duket të jetë e dëmtuar, mund të doni të çaktivizoni Mënyrën Vetëm-HTTPS- për këtë sajt, që të ringarkohet duke përdorur HTTP jo të sigurt.
 identity-https-only-info-no-upgrade = S’arrihet të përmirësohet lidhja nga HTTP.
-identity-permissions =
-    .value = Leje
 identity-permissions-storage-access-hint = Këto palë mund të përdorin “cross-site cookies” dhe të dhëna sajtesh, ndërkohë që jeni në këtë sajt.
 identity-permissions-reload-hint = Mund t'ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.
 identity-permissions-empty = S'i keni dhënë këtij sajti ndonjë leje speciale.
@@ -347,8 +347,34 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Po luhet
-browser-tab-audio-muted = Pa Zë
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = PO LUHET
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = HESHTUAR
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = VETËLUAJTJA E BLLOKUAR
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] HESHTOJE SKEDËN
+       *[other] HESHTO { $count } SKEDA
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] KTHEJI ZËRIN SKEDËS
+       *[other] KTHEJU ZËRIN { $count } SKEDAVE
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] LUAJE SKEDËN
+       *[other] LUAJ { $count } SKEDA
+    }
 
 ## Bookmarks toolbar items
 
@@ -522,8 +548,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Shfaqni Krejt Faqerojtësit
-bookmarks-recent-bookmarks =
-    .value = Faqeruajtur Së Fundi
 bookmarks-toolbar-chevron =
     .tooltiptext = Shfaqni më tepër faqerojtës
 bookmarks-sidebar-content =
@@ -539,12 +563,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Fshihe Anështyllën e Faqerojtësve
            *[other] Shihni Anështyllë Faqerojtësish
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Fshihe Panelin e Faqerojtësve
-           *[other] Shihni Panel Faqerojtësish
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -582,10 +600,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Faqerojtës
-library-bookmarks-bookmark-this-page =
-    .label = Faqeruaje Këtë Faqe
-library-bookmarks-bookmark-edit =
-    .label = Përpunojeni Këtë Faqerojtës
 library-recent-activity-title =
     .value = Veprimtari Së fundi
 
@@ -598,3 +612,9 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Audio ose video në këtë sajt përdor software DRM, çka mund të kufizojë ato që { -brand-short-name }-i mund t’ju lejojë të bëni me të.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
