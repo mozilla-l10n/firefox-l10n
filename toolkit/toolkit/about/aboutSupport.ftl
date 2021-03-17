@@ -76,24 +76,36 @@ experimental-features-name = Nome
 experimental-features-value = Valor
 modified-prefs-name = Nome
 modified-prefs-value = Valor
+user-js-title = Preferencies d'user.js
 locked-prefs-name = Nome
 locked-prefs-value = Valor
 graphics-title = Gráficos
 graphics-features-title = Carauterístiques
 graphics-gpu1-title = GPU #1
 graphics-gpu2-title = GPU #2
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocolu de ventanes
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Entornu d'escritoriu
 place-database-integrity = Integridá
 a11y-title = Accesibilidá
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Hai segundos
 sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
+sandbox-sys-call-args = Argumentos
 
 ## Media titles
 
+media-output-devices-title = Preseos de salida
+media-input-devices-title = Preseos d'entrada
+media-device-name = Nome
+media-device-channels = Canales
 
 ##
 
+intl-os-title = Sistema operativu
+intl-regional-prefs = Preferencies rexonales
 
 ## Remote Debugging
 ##
@@ -104,17 +116,48 @@ sandbox-sys-call-tid = TID
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-url = URL
 
 ##
 
+support-third-party-modules-title = Módulos de terceros
+support-third-party-modules-status = Estáu
+# Variables
+# $minutes (integer) - Number of minutes since crash
+crashes-time-minutes =
+    { $minutes ->
+        [one] Hai { $minutes } minutu
+       *[other] Hai { $minutes } minutos
+    }
+# Variables
+# $hours (integer) - Number of hours since crash
+crashes-time-hours =
+    { $hours ->
+        [one] Hai { $hours } hora
+       *[other] Hai { $hours } hores
+    }
+# Variables
+# $days (integer) - Number of days since crash
+crashes-time-days =
+    { $days ->
+        [one] Hai { $days } día
+       *[other] Hai { $days } díes
+    }
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+yes = Sí
+no = Non
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-ram = RAM
+# Variables
+# $remoteWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -122,9 +165,18 @@ sandbox-sys-call-tid = TID
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-error = Fallu
 
 ## Printing section
 
+support-printing-prefs-name = Nome
+support-printing-prefs-value = Valor
 
 ## Normandy sections
 
+support-remote-experiments-title = Esperimentos remotos
+support-remote-experiments-name = Nome
+support-remote-experiments-branch = Rama esperimental
+support-remote-features-title = Carauterístiques remotes
+support-remote-features-name = Nome
+support-remote-features-status = Estáu
