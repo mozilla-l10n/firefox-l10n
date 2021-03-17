@@ -67,7 +67,7 @@ experimental-features-webrtc-global-mute-toggles-description = 添加控件到 W
 # Win32k Lockdown
 experimental-features-win32k-lockdown =
     .label = Win32k 锁定
-experimental-features-win32k-lockdown-description = 在浏览器标签页中禁用 Win32k API。此举可增强安全性，但当前可能不够稳定或出现故障。（仅适用于 Windows）
+experimental-features-win32k-lockdown-description = 在浏览器标签页中禁用 Win32k API。此举可增强安全性，但当前可能不够稳定或易出故障。（仅适用于 Windows）
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
