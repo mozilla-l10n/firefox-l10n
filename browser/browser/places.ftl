@@ -8,6 +8,12 @@ places-open =
 places-open-tab =
     .label = Hape në Skedë të Re
     .accesskey = S
+places-open-in-tab =
+    .label = Hape në Skedë të Re
+    .accesskey = R
+places-open-all-bookmarks =
+    .label = Hapi Tërë Faqerojtësit
+    .accesskey = H
 places-open-all-in-tabs =
     .label = Hapi Krejt në Skeda
     .accesskey = T
@@ -29,6 +35,24 @@ places-new-folder =
 places-new-separator =
     .label = Ndarës i Ri
     .accesskey = s
+places-open-in-window =
+    .label = Hape në Dritare të Re
+    .accesskey = R
+places-open-in-private-window =
+    .label = Hape në Dritare të Re Private
+    .accesskey = P
+places-add-bookmark =
+    .label = Shtoni Faqerojtës…
+    .accesskey = F
+places-add-folder-contextmenu =
+    .label = Shtoni Dosje…
+    .accesskey = D
+places-add-folder =
+    .label = Shtoni Dosje…
+    .accesskey = o
+places-add-separator =
+    .label = Shtoni Ndarës
+    .accesskey = N
 places-view =
     .label = Shihni
     .accesskey = i
@@ -60,6 +84,13 @@ places-sortby-name =
 places-properties =
     .label = Veti
     .accesskey = V
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Përpunoni Faqerojtës…
+    .accesskey = u
+places-edit-generic =
+    .label = Përpunoni…
+    .accesskey = P
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Faqerojtës të administruar
@@ -69,3 +100,16 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Faqerojtës të Tjerë
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-remove-bookmark =
+    .label =
+        { $count ->
+            [1] Hiqe Faqerojtësin
+            [one] Hiqe Faqerojtësin
+           *[other] Hiqi Faqerojtësit
+        }
+    .accesskey = i
+places-manage-bookmarks =
+    .label = Administroni Faqerojtës
+    .accesskey = A
