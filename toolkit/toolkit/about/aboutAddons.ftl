@@ -40,6 +40,7 @@ detail-show-preferences =
         }
 detail-rating =
     .value = Valoración
+plugin-deprecation-description = ¿Fáltate daqué? { -brand-short-name } yá nun sofita dalgunos complementos. <label data-l10n-name="learn-more">Lleer más</label>
 legacy-extensions =
     .value = Estensiones heredaes
 addon-category-discover = Recomendaciones
