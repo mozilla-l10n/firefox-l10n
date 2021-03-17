@@ -648,8 +648,8 @@ sync-mobile-promo = Instale o Firefox no <img data-l10n-name="android-icon"/> <
 sync-profile-picture =
     .tooltiptext = Alterar imagem do perfil
 sync-sign-out =
-    .label = Sair…
-    .accesskey = S
+    .label = Desconectar…
+    .accesskey = D
 sync-manage-account = Gerenciar conta
     .accesskey = o
 sync-signedin-unverified = { $email } não foi verificado.
