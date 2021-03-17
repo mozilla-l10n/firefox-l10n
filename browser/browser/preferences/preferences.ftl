@@ -401,7 +401,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Llende de procesos de conteníu
     .accesskey = L
 performance-limit-content-process-enabled-desc = Más procesos de conteníu puen ameyorar el rindimientu al usar múltiples llingüetes, mas tamién van usar más memoria.
-performance-limit-content-process-blocked-desc = Modificar el númberu de procesos de conteníu namás ye posible col { -brand-short-name } multiprocesu. <a data-l10n-name="learn-more">Deprender más tocante a cómo comprobar si'l multiprocesu ta activáu</a>
+performance-limit-content-process-blocked-desc = Modificar el númberu de procesos de conteníu namás ye posible col { -brand-short-name } multiprocesu. <a data-l10n-name="learn-more">Lleei cómo comprobar si'l multiprocesu ta activáu</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -959,7 +959,7 @@ content-blocking-fingerprinters = Xeneradores de buelgues
 content-blocking-warning-title = ¡Atención!
 content-blocking-and-isolating-etp-warning-description = Bloquiar rastrexadores y aisllar cookies pue afeutar a la funcionalidá de dalgunos sitios. Volvi cargar la páxina colos rastrexadores pa cargar tol conteníu.
 content-blocking-and-isolating-etp-warning-description-2 = Esti axuste pue causar que dalgunos sitios web nun amuesen el conteníu o funcionen correutamente. Si te paez qu'un sitiu ta estropiáu, pues desactivar la proteición escontra'l rastrexu pa esi sitiu y cargar tol conteníu.
-content-blocking-warning-learn-how = Deprender cómo
+content-blocking-warning-learn-how = Lleer cómo
 content-blocking-reload-description = Tienes de volver cargar les llingüetes p'aplicar estos cambeos.
 content-blocking-reload-tabs-button =
     .label = Volver cargar toles llingüetes

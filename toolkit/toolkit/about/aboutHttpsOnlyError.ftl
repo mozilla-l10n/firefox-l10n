@@ -20,7 +20,7 @@ about-httpsonly-explanation-risk = Tamién ye posible qu'un atacante seya'l culp
 about-httpsonly-explanation-continue = Si sigues, el mou de namás HTTPS va desactivase temporalmente pa esti sitiu.
 about-httpsonly-button-continue-to-site = Siguir col sitiu HTTP
 about-httpsonly-button-go-back = Dir p'atrás
-about-httpsonly-link-learn-more = Deprender más…
+about-httpsonly-link-learn-more = Lleer más…
 
 ## Suggestion Box that only shows up if a secure connection to www can be established
 ## Variables:
