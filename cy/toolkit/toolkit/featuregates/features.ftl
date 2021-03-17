@@ -25,25 +25,6 @@ experimental-features-web-api-inputmode =
 experimental-features-web-api-inputmode-description = Mae ein gweithrediad o'r priodoledd byd-eang <a data-l10n-name="mdn-inputmode">inputmode</a> wedi'i ddiweddaru yn unol â <a data-l10n-name="whatwg">manyleb WHATWG</a>, ond mae angen i ni wneud newidiadau eraill o hyd hefyd, fel sicrhau ei fod ar gael ar gynnwys adolygadwy. Gweler <a data-l10n-name="bugzilla">bug 1205133</a> am fwy o fanylion.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
-experimental-features-web-api-link-preload =
-    .label = Web API: <link rel="preload">
-# Do not translate "rel", "preload" or "link" here, as they are all HTML spec
-# values that do not get translated.
-experimental-features-web-api-link-preload-description = Bwriad y briodoledd <a data-l10n-name="rel">rel</a> gyda gwerth <code>"preload"</code> ar <a data-l10n-name="link">&lt;dolen&gt;</a> yw helpu i ddarparu enillion perfformiad trwy adael i chi lwytho adnoddau i lawr yn gynharach yng nghylch bywyd y dudalen, gan sicrhau eu bod ar gael yn gynharach a'u bod yn llai tebygol o rwystro rendro tudalennau. Darllenwch <a data-l10n-name="readmore">“Rhag-lwytho cynnwys gyda<code> rel =" preload "</code>”</a> neu gweler <a data-l10n-name="bugzilla">bug 1583604</a> am fwy o fanylion.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-focus-visible =
-    .label = CSS: Pseudo-class: :focus-visible
-experimental-features-css-focus-visible-description = Yn caniatáu i arddulliau ffocws gael eu cymhwyso i elfennau fel botymau a rheolyddion ffurf, dim ond pan fyddan nhw'n canolbwyntio gan ddefnyddio'r bysellfwrdd (e.e. wrth dabio rhwng elfennau), ac nid pan fyddan nhw'n canolbwyntio gan ddefnyddio llygoden neu ddyfais bwyntio arall. Gweler <a data-l10n-name="bugzilla">bug 1617600</a> am fwy o fanylion.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-web-api-beforeinput =
-    .label = Web API: beforeinput Event
-# The terms "beforeinput", "input", "textarea", and "contenteditable" are technical terms
-# and shouldn't be translated.
-experimental-features-web-api-beforeinput-description = Mae'r digwyddiad cyffredinol <a data-l10n-name="mdn-beforeinput">beforeinput</a> yn cael ei danio ar ddigwyddiad <a data-l10n-name="mdn-input">&lt;input&gt;</a> a < a data-l10n-name = "mdn-textarea">&lt;textarea&gt;</a> elfennau, neu unrhyw elfen y mae ei briodoledd <a data-l10n-name="mdn-contenteditable">cynnwys adolygadwy</a> wedi'i alluogi, yn union cyn i werth yr elfen newid. Mae'r digwyddiad yn caniatáu i apiau gwe ddiystyru ymddygiad rhagosodedig y porwr ar gyfer rhyngweithio â defnyddwyr, e.e., gall apiau gwe ddiddymu mewnbwn defnyddiwr yn unig ar gyfer nodau penodol neu gallan nhw addasu gludo testun â steil yn unig gydag arddulliau cymeradwy.
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
 experimental-features-css-constructable-stylesheets =
     .label = CSS: Constructable Stylesheets
 experimental-features-css-constructable-stylesheets-description = Mae ychwanegu adeiladwr at y rhyngwyneb <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a> yn ogystal ag amrywiaeth o newidiadau cysylltiedig yn ei gwneud hi'n bosibl creu taflenni arddull newydd yn uniongyrchol heb orfod ychwanegu'r ddalen at yr HTML. Mae hyn yn ei gwneud hi'n llawer haws creu taflenni arddull y mae modd eu hailddefnyddio i'w defnyddio gyda <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Gweler <a data-l10n-name="bugzilla">bug 1520690</a> am fwy o fanylion.
@@ -69,9 +50,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Mae cw
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
 experimental-features-abouthome-startup-cache-description = Storfa ar gyfer y ddogfen gychwynnol about:home sy'n cael ei llwytho yn ragosodedig wrth gychwyn. Pwrpas y storfa yw gwella perfformiad cychwyn.
-experimental-features-print-preview-tab-modal =
-    .label = Ailgynllunio'r Rhagolwg Argraffu
-experimental-features-print-preview-tab-modal-description = Mae rhagolwg argraffu wedi'i ailgynllunio ac yn cynnig rhagolwg argraffu ar y macOS. Gall hyn o bosibl gyflwyno toriadau ac nid yw'n cynnwys yr holl osodiadau sy'n gysylltiedig ag argraffu. I gael mynediad at yr holl osodiadau sy'n gysylltiedig ag argraffu, dewiswch "Argraffu gan ddefnyddio deialog y system..." o fewn y panel Argraffu.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
@@ -86,6 +64,10 @@ experimental-features-devtools-serviceworker-debugger-support-description = Yn g
 experimental-features-webrtc-global-mute-toggles =
     .label = Toglau Tewi WebRTC Cyffredinol
 experimental-features-webrtc-global-mute-toggles-description = Ychwanegwch ffyrdd o reoli dangosydd rhannu WebRTC i gyd sy'n caniatáu i ddefnyddwyr dewi eu llif meicroffon a chamera.
+# Win32k Lockdown
+experimental-features-win32k-lockdown =
+    .label = Win32k Lockdown
+experimental-features-win32k-lockdown-description = Analluogwch y defnydd o APIs Win32k mewn tabiau porwr. Mae'n darparu gwelliant diogelwch ond gall fod yn ansefydlog neu'n broblemus ar hyn o bryd. (Windows yn unig)
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
