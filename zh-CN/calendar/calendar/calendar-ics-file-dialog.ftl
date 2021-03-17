@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = 从文件导入：
 calendar-ics-file-dialog-calendar-menu-label = 导入日历：
 calendar-ics-file-dialog-items-loading-message =
     .value = 正在载入项目…
+calendar-ics-file-dialog-search-input =
+    .placeholder = 过滤项目…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = 按开始日期排序（从先到后）
+calendar-ics-file-dialog-sort-start-descending =
+    .label = 按开始日期排序（从后到先）
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = 按标题排序（A > Z）
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = 按标题排序（Z > A）
 calendar-ics-file-dialog-progress-message = 正在导入…
 calendar-ics-file-import-success = 成功导入！
 calendar-ics-file-import-error = 发生错误，导入失败。
