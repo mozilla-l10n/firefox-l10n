@@ -13,7 +13,6 @@ fxa-disconnect-dialog-title = Desligar { -brand-product-name }?
 fxa-disconnect-dialog-body = O { -brand-product-name } irá desligar da sua conta mas não irá eliminar quaisquer dados de navegação neste dispositivo.
 sync-disconnect-dialog-button = Desligar
 fxa-signout-dialog-heading = Terminar sessão da { -fxaccount-brand-name }?
-fxa-signout-dialog2-title = Sair da { -fxaccount-brand-name(capitalization: "sentence") }?
 fxa-signout-dialog-body = Os dados sincronizados permanecerão na sua conta.
 fxa-signout-checkbox =
     .label = Remover dados deste dispositivo (credenciais, palavras-passe, histórico, marcadores, etc.).
