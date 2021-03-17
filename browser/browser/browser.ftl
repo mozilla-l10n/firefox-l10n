@@ -289,6 +289,8 @@ identity-passive-loaded = Deli strani niso varni (npr. slike).
 identity-active-loaded = Zaščita na tej strani je onemogočena.
 identity-weak-encryption = Stran uporablja šibko šifriranje.
 identity-insecure-login-forms = Prijave, ki jih vnesete na tej strani, so lahko ogrožene.
+identity-permissions =
+    .value = Dovoljenja
 identity-https-only-connection-upgraded = (nadgrajeno na HTTPS)
 identity-https-only-label = Način "samo HTTPS"
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
     .label = Začasno izključeno
 identity-https-only-info-turn-on2 = Vključite način samo HTTPS za to stran, če želite, da { -brand-short-name } nadgradi povezavo, ko je to mogoče.
 identity-https-only-info-no-upgrade = Povezave ni mogoče nadgraditi s HTTP.
-identity-permissions =
-    .value = Dovoljenja
 identity-permissions-storage-access-header = Spletni piškotki
 identity-permissions-reload-hint = Za uveljavitev sprememb boste morda morali ponovno naložiti stran.
 identity-permissions-empty = Tej strani niste dodelili posebnih dovoljenj.
@@ -347,8 +347,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Predvajanje
-browser-tab-audio-muted = Nemo
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = PREDVAJANJE
 # This label should be written in all capital letters if your locale supports them.
@@ -357,6 +355,11 @@ browser-tab-audio-muted2 = NEMO
 browser-tab-audio-blocked = SAMODEJNO PREDVAJANJE ZAVRNJENO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = SLIKA V SLIKI
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -373,6 +376,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Uporabi mikrofon:
     .accesskey = M
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Mikrofon:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofon
 popup-all-windows-shared = Vsa vidna okna na vašem zaslonu bodo v skupni rabi.
 popup-screen-sharing-not-now =
     .label = Ne zdaj
@@ -382,6 +395,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Onemogočite obvestila { -brand-short-name }a med deljenjem
 popup-silence-notifications-checkbox-warning = { -brand-short-name } med deljenjem ne bo prikazoval obvestil.
+popup-screen-sharing-block =
+    .label = Zavrni
+    .accesskey = Z
+popup-screen-sharing-always-block =
+    .label = Vedno zavrni
+    .accesskey = V
+popup-mute-notifications-checkbox = Med skupno rabo izklopi obvestila spletnega mesta
 
 ## WebRTC window or screen share tab switch warning
 
@@ -532,8 +552,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Prikaži vse zaznamke
-bookmarks-recent-bookmarks =
-    .value = Nedavni zaznamki
 bookmarks-manage-bookmarks =
     .label = Upravljanje zaznamkov
 bookmarks-recent-bookmarks-panel =
@@ -554,12 +572,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Skrij stransko vrstico zaznamkov
            *[other] Prikaži stransko vrstico zaznamkov
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Skrij orodno vrstico zaznamkov
-           *[other] Prikaži orodno vrstico zaznamkov
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -606,10 +618,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Zaznamki
-library-bookmarks-bookmark-this-page =
-    .label = Dodaj stran med zaznamke
-library-bookmarks-bookmark-edit =
-    .label = Uredi ta zaznamek
 library-recent-activity-title =
     .value = Nedavne dejavnosti
 
@@ -622,5 +630,15 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Zvok ali video na tej strani uporablja DRM, kar lahko omejuje delovanje { -brand-short-name }a.
+eme-notifications-drm-content-playing-manage = Upravljanje nastavitev
+eme-notifications-drm-content-playing-manage-accesskey = U
 eme-notifications-drm-content-playing-dismiss = Zapri
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Password save/update panel
+
+panel-save-update-username = Uporabniško ime
+panel-save-update-password = Geslo
+
+## Add-on removal warning
+

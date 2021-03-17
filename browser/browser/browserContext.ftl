@@ -111,9 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Odpri povezavo v novem zavihku vsebnika
     .accesskey = O
-main-context-menu-open-link-container =
-    .label = Odpri povezavo v novem vsebniku
-    .accesskey = v
 main-context-menu-open-link-new-window =
     .label = Odpri povezavo v novem oknu
     .accesskey = N
@@ -301,6 +298,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Uporabi ustvarjeno geslo …
     .accesskey = g
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Uporabi shranjeno prijavo
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = Uporabi shranjeno geslo
+    .accesskey = o
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Predlagaj močno geslo …
+    .accesskey = m
 main-context-menu-manage-logins =
     .label = Upravljanje prijav …
     .accesskey = U
