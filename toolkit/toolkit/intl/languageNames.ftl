@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 language-name-aa = Afar
+language-name-ab = Abkhasianu
 language-name-ach = Acholí
 language-name-ae = Avésticu
 language-name-af = Afrikaans
