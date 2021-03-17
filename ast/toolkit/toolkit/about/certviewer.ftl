@@ -12,6 +12,8 @@ certificate-viewer-error-title = Asocedió daqué malo
 certificate-viewer-algorithm = Algoritmu
 certificate-viewer-common-name = Nome habitual
 certificate-viewer-country = País
+certificate-viewer-ip-address = Direición IP
+certificate-viewer-other-name = Otru nome
 certificate-viewer-id = ID
 certificate-viewer-method = Métodu
 certificate-viewer-name = Nome
@@ -23,6 +25,7 @@ certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Númberu de serie
 certificate-viewer-version = Versión
+certificate-viewer-fingerprints = Buelgues
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
