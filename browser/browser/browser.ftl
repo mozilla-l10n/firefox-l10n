@@ -280,6 +280,8 @@ identity-passive-loaded = Có nhiều thành phân của trang không an toàn (
 identity-active-loaded = Bạn đã tắt tính năng bảo vệ trên trang này.
 identity-weak-encryption = Trang này sử dụng mã hóa yếu.
 identity-insecure-login-forms = Đăng nhập vào trang này bạn có thể bị xâm nhập.
+identity-permissions =
+    .value = Quyền hạn
 identity-https-only-connection-upgraded = (đã nâng cấp lên HTTPS)
 identity-https-only-label = Chế độ chỉ HTTPS
 identity-https-only-dropdown-on =
@@ -291,8 +293,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Bật Chế độ chỉ HTTPS cho trang web này nếu bạn muốn { -brand-short-name } nâng cấp kết nối khi có thể.
 identity-https-only-info-turn-off2 = Nếu trang có vẻ bị hỏng, bạn có thể tắt Chế độ chỉ HTTPS để trang web này tải lại sử dụng HTTP không an toàn.
 identity-https-only-info-no-upgrade = Không thể nâng cấp kết nối từ HTTP.
-identity-permissions =
-    .value = Quyền hạn
 identity-permissions-storage-access-header = Cookie trên nhiều trang web
 identity-permissions-storage-access-hint = Khi bạn mở trang web này, các trang web này có thể sử dụng cookie trên nhiều trang web và lấy thông tin của bạn trên trang web này.
 identity-permissions-reload-hint = Bạn có thể cần phải tải lại trang để các thay đổi được áp dụng.
@@ -340,8 +340,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Đang phát
-browser-tab-audio-muted = Đã tắt tiếng
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ĐANG PHÁT
 # This label should be written in all capital letters if your locale supports them.
@@ -350,6 +348,21 @@ browser-tab-audio-muted2 = ĐÃ TẮT TIẾNG
 browser-tab-audio-blocked = TỰ ĐỘNG PHÁT BỊ CHẶN
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = HÌNH TRONG HÌNH
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] TẮT TIẾNG THẺ
+       *[other] TẮT TIẾNG { $count } THẺ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] BỎ TẮT TIẾNG THẺ
+       *[other] BỎ TẮT TIẾNG { $count } THẺ
+    }
 
 ## Bookmarks toolbar items
 
@@ -542,8 +555,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Xem tất cả dấu trang
-bookmarks-recent-bookmarks =
-    .value = Dấu trang gần đây
 bookmarks-manage-bookmarks =
     .label = Quản lý dấu trang
 bookmarks-recent-bookmarks-panel =
@@ -564,12 +575,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Ẩn thanh lề dấu trang
            *[other] Hiển thị thanh lề dấu trang
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ẩn thanh công cụ dấu trang
-           *[other] Hiển thị thanh công cụ dấu trang
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -616,10 +621,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Dấu trang
-library-bookmarks-bookmark-this-page =
-    .label = Đánh dấu trang này
-library-bookmarks-bookmark-edit =
-    .label = Chỉnh sửa dấu trang này
 library-recent-activity-title =
     .value = Hoạt động gần đây
 

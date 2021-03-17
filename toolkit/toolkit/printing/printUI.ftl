@@ -37,7 +37,6 @@ printui-scale-fit-to-page-width = Vừa với chiều rộng trang
 printui-scale-pcent = Tỷ lệ
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = In hai mặt
-printui-duplex-checkbox = In trên cả hai mặt của giấy
 printui-two-sided-printing-off = Tắt
 # Section title for miscellaneous print options
 printui-options = Tùy chọn
@@ -52,14 +51,19 @@ printui-margins-default = Mặc định
 printui-margins-min = Tối thiểu
 printui-margins-none = Không có
 printui-margins-custom-inches = Tùy chỉnh (inch)
+printui-margins-custom-mm = Tùy chỉnh (mm)
 printui-margins-custom-top = Trên
 printui-margins-custom-top-inches = Trên (inch)
+printui-margins-custom-top-mm = Trên (mm)
 printui-margins-custom-bottom = Dưới
 printui-margins-custom-bottom-inches = Dưới (inch)
+printui-margins-custom-bottom-mm = Dưới (mm)
 printui-margins-custom-left = Trái
 printui-margins-custom-left-inches = Trái (inch)
+printui-margins-custom-left-mm = Trái (mm)
 printui-margins-custom-right = Phải
 printui-margins-custom-right-inches = Phải (inch)
+printui-margins-custom-right-mm = Phải (mm)
 printui-system-dialog-link = In bằng hộp thoại hệ thống…
 printui-primary-button = In
 printui-primary-button-save = Lưu
