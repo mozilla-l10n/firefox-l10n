@@ -164,3 +164,5 @@ about-debugging-worker-scope =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Procesu principal
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Detalles
