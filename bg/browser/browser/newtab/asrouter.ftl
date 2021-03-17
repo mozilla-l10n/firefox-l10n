@@ -203,8 +203,6 @@ cfr-doorhanger-cryptominers-description = Вашата поверителнос�
 
 cfr-doorhanger-milestone-ok-button = Показване на всички
     .accesskey = с
-cfr-doorhanger-milestone-close-button = Затваряне
-    .accesskey = З
 
 ## What’s New Panel Content for Firefox 76
 
@@ -220,8 +218,15 @@ cfr-whatsnew-passwords-header = Получавайте сигнали за уя�
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Картина в картината на цял екран
 cfr-whatsnew-pip-fullscreen-icon-alt = Икона за картина в картината
 
+## Protections Dashboard message
+
+cfr-doorhanger-milestone-close-button = Затваряне
+    .accesskey = З
+
+## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-icon-alt = Пиктограма на щит

@@ -57,3 +57,19 @@ serviceworker-empty-suggestions-debugger = Прегледайте процеса
 serviceworker-empty-suggestions-aboutdebugging = Изследвайте обслужващи нишки от други домейни. <a>Отваряне на about:debugging</a>
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Научете повече
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Грешки и предупреждения
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Пиктограми
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Пиктограма
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Манифест
+    .alt = Пиктограма на манифест
+    .title = Манифест
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Пиктограма на предупреждение
+    .title = Предупреждение

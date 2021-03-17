@@ -285,6 +285,8 @@ identity-passive-loaded = Части от страницата, например
 identity-active-loaded = Изключихте защитата за тази страница.
 identity-weak-encryption = Тази странница използва слабо шифриране.
 identity-insecure-login-forms = Въведените на страницата данни за вход може да бъдат компрометирани.
+identity-permissions =
+    .value = Права
 identity-https-only-connection-upgraded = (превключено на HTTPS)
 identity-https-only-label = Режим „само HTTPS“
 identity-https-only-dropdown-on =
@@ -294,8 +296,6 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Временно изключено
 identity-https-only-info-no-upgrade = Връзката не може да бъде превключена от HTTP.
-identity-permissions =
-    .value = Права
 identity-permissions-reload-hint = За да бъдат приложени промените може да се наложи да презаредите страницата.
 identity-permissions-empty = Не сте дали допълнителни права на страницата.
 identity-clear-site-data =
@@ -340,6 +340,13 @@ browser-window-close-button =
     .tooltiptext = Затваряне
 
 ## Tab actions
+
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = КАРТИНА В КАРТИНАТА
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
 
 
 ## Bookmarks toolbar items
@@ -505,8 +512,6 @@ pointerlock-warning-no-domain = Този документ контролира �
 
 bookmarks-show-all-bookmarks =
     .label = Показване на всички отметки
-bookmarks-recent-bookmarks =
-    .value = Последни отметки
 bookmarks-toolbar-chevron =
     .tooltiptext = Показване на повече отметки
 bookmarks-sidebar-content =
@@ -522,12 +527,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Скриване на лентата с отметки
            *[other] Странична лента с отметки
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Скриване на страничната лента с отметки
-           *[other] Показване на лентата с отметки
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -565,10 +564,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Отметки
-library-bookmarks-bookmark-this-page =
-    .label = Отмятане на страницата
-library-bookmarks-bookmark-edit =
-    .label = Промяна на отметка
 
 ## More items
 
@@ -579,3 +574,9 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Аудио или видеозапис от страницата използва софтуер за DRM, който може да ограничи какво { -brand-short-name } ви позволява да правите с тях.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+

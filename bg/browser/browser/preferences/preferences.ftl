@@ -747,6 +747,10 @@ forms-master-pw-change =
     .label = Промяна на главна парола…
     .accesskey = л
 forms-master-pw-fips-title = В момента е активен режим FIPS. Той изисква попълнена главна парола.
+forms-primary-pw-change =
+    .label = Промяна на главна парола…
+    .accesskey = П
+forms-primary-pw-fips-title = В момента сте в режим на FIPS. FIPS изисква главна парола.
 forms-master-pw-fips-desc = Грешка при промяна на паролата
 
 ## OS Authentication dialog
