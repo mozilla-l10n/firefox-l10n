@@ -86,11 +86,15 @@ profiler-popup-title =
     .value = { -profiler-brand-name }
 profiler-popup-reveal-description-button =
     .aria-label = اعرض معلومات أكثر
+profiler-popup-description-title =
+    .value = سجّل ثمّ حلّل ثمّ شارِك
+profiler-popup-description = تعاوَن على حلّ مشاكل الأداء بنشر تحليلات الأداء ومشاركتها مع فريقك.
 profiler-popup-learn-more = اطّلع على المزيد
 profiler-popup-settings =
     .value = الإعدادات
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings = عدّل الإعدادات…
+profiler-popup-disabled = مُحلّل الأداء معطّل حاليًا، أغلب الظن أنّ هناك نافذة تصفّح خاص مفتوحة.
 profiler-popup-recording-screen = يسجّل…
 # The profiler presets list is generated elsewhere, but the custom preset is defined
 # here only.
@@ -130,6 +134,9 @@ appmenu-about =
 appmenu-help-troubleshooting-info =
     .label = معلومات مواجهة الأعطال
     .accesskey = ط
+appmenu-help-more-troubleshooting-info =
+    .label = معلومات أكثر عن مواجهة الأعطال
+    .accesskey = ه
 appmenu-help-taskmanager =
     .label = مدير المهام
 appmenu-help-report-site-issue =
@@ -151,6 +158,12 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode =
+    .label = وضع مواجهة الأعطال
+    .accesskey = ض
+appmenu-help-exit-troubleshoot-mode =
+    .label = عطّل وضع مواجهة الأعطال
+    .accesskey = ع
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
