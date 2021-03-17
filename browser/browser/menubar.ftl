@@ -111,6 +111,9 @@ menu-edit =
 menu-edit-find-on =
     .label = Najdi na tej strani …
     .accesskey = D
+menu-edit-find-in-page =
+    .label = Najdi na strani …
+    .accesskey = d
 menu-edit-find-again =
     .label = Ponovno najdi
     .accesskey = j
@@ -128,6 +131,9 @@ menu-view-toolbars-menu =
     .accesskey = T
 menu-view-customize-toolbar =
     .label = Prilagodi …
+    .accesskey = P
+menu-view-customize-toolbar2 =
+    .label = Prilagodi orodno vrstico …
     .accesskey = P
 menu-view-sidebar =
     .label = Stranska vrstica
@@ -219,6 +225,8 @@ menu-bookmarks-show-all =
     .label = Prikaži vse zaznamke
 menu-bookmark-this-page =
     .label = Dodaj stran med zaznamke
+menu-bookmark-current-tab =
+    .label = Dodaj trenutni zavihek med zaznamke
 menu-bookmark-edit =
     .label = Uredi ta zaznamek
 menu-bookmarks-all-tabs =
@@ -243,6 +251,12 @@ menu-tools-addons =
     .accesskey = D
 menu-tools-fxa-sign-in =
     .label = Prijava v { -brand-product-name } …
+    .accesskey = j
+menu-tools-extensions =
+    .label = Razširitve in teme
+    .accesskey = š
+menu-tools-fxa-sign-in2 =
+    .label = Prijava
     .accesskey = j
 menu-tools-turn-on-sync =
     .label = Vklopi { -sync-brand-short-name } …
@@ -273,6 +287,13 @@ menu-preferences =
             [windows] M
            *[other] n
         }
+menu-settings =
+    .label = Nastavitve
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
 menu-tools-layout-debugger =
     .label = Razhroščevalnik postavitve
     .accesskey = P
@@ -285,15 +306,6 @@ menu-window-bring-all-to-front =
     .label = Vse v ospredje
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -325,6 +337,9 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Odpravljanje težav
     .accesskey = R
+menu-help-more-troubleshooting-info =
+    .label = Več podatkov za odpravljanje težav
+    .accesskey = r
 menu-help-taskmanager =
     .label = Upravitelj opravil
 menu-help-report-site-issue =
@@ -338,6 +353,12 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Ponovno zaženi z omogočenimi dodatki
     .accesskey = n
+menu-help-enter-troubleshoot-mode =
+    .label = Način za odpravljanje težav
+    .accesskey = č
+menu-help-exit-troubleshoot-mode =
+    .label = Izključi način za odpravljanje težav
+    .accesskey = I
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -346,6 +367,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = To ni zavajajoča stran …
     .accesskey = z
-menu-help-check-for-update =
-    .label = Poišči posodobitve …
-    .accesskey = P

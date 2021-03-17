@@ -214,7 +214,7 @@ cfr-doorhanger-cryptominers-description = Vaša zasebnost je pomembna. { -brand-
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilca!
@@ -222,6 +222,9 @@ cfr-doorhanger-milestone-heading =
         [few] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilce!
        *[other] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilcev!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] Od { DATETIME($date, month: "long", year: "numeric") } je { -brand-short-name } zavrnil več kot <b>{ $blockedCount }</b> sledilca!
@@ -231,8 +234,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Prikaži vse
     .accesskey = P
-cfr-doorhanger-milestone-close-button = Zapri
-    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
@@ -257,6 +258,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona slike v sliki
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Zapri
+    .accesskey = Z
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Zaščite na dosegu roke
 cfr-whatsnew-protections-body = Nadzorna plošča zaščit vključuje poročila povzetkov o krajah podatkov in upravljanju gesel. Zdaj lahko spremljate, koliko kraj ste razrešili in preverite, ali je bilo katero od shranjenih gesel morda izpostavljeno kraji podatkov.
 cfr-whatsnew-protections-cta-link = Prikaži nadzorno ploščo zaščit
@@ -272,6 +279,8 @@ cfr-whatsnew-better-pdf-body = Dokumenti PDF se zdaj odpirajo neposredno v { -br
 cfr-doorhanger-doh-body = Vaša zasebnost šteje. { -brand-short-name } sedaj varno usmerja vaše zahteve DNS, kadar je to mogoče, preko partnerske storitve, da vas ščiti med brskanjem.
 cfr-doorhanger-doh-header = Varnejša, šifrirana iskanja DNS
 cfr-doorhanger-doh-primary-button = V redu, razumem
+    .accesskey = V
+cfr-doorhanger-doh-primary-button-2 = V redu
     .accesskey = V
 cfr-doorhanger-doh-secondary-button = Onemogoči
     .accesskey = n
