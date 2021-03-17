@@ -12,11 +12,11 @@
 <!ENTITY feedLocation.label          "Ligilo de fluo:">
 <!ENTITY feedLocation.accesskey      "g">
 <!ENTITY feedLocation2.placeholder   "Enigu ĝustan adreson de RSS-abonfluo">
-<!ENTITY locationValidate.label      "Kontroli">
+<!ENTITY locationValidate.label      "Kontroli ĝustecon">
 <!ENTITY validateText.label          "Kontroli ĝustecon kaj akiri ĝustan ligilon de abonfluo.">
 
 <!ENTITY feedFolder.label            "Konservi artikolojn en:">
-<!ENTITY feedFolder.accesskey        "K">
+<!ENTITY feedFolder.accesskey        "r">
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Kontroli pri novaj artikoloj je ĉiu ">
@@ -39,8 +39,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Aldoni">
 <!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.verifyFeed.label     "Validigi">
-<!ENTITY button.verifyFeed.accesskey "V">
+<!ENTITY button.verifyFeed.label     "Kontroli">
+<!ENTITY button.verifyFeed.accesskey "K">
 <!ENTITY button.updateFeed.label     "Ĝisdatigi">
 <!ENTITY button.updateFeed.accesskey "d">
 <!ENTITY button.removeFeed.label     "Forigi">
