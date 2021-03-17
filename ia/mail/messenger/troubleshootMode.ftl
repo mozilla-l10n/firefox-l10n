@@ -12,6 +12,9 @@ troubleshoot-mode-reset-toolbars =
 troubleshoot-mode-change-and-restart =
     .label = Facer cambios e reinitiar
     .accesskey = F
+troubleshoot-mode-continue =
+    .label = Continuar in Modo diagnostic
+    .accesskey = C
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
