@@ -138,7 +138,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Meca! Paez qu'esta seici
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temes populares:
 newtab-pocket-more-recommendations = Más recomendaciones
-newtab-pocket-learn-more = Deprender más
+newtab-pocket-learn-more = Lleer más
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

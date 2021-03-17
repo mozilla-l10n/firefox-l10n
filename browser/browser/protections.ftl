@@ -40,15 +40,15 @@ graph-today = Güei
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Un gráficu que contién el númberu total de cada tipu de rastrexador bloquiáu esta selmana.
 social-tab-title = Rastrexadores de redes sociales
-social-tab-contant = Les redes sociales ponen rastrexadores n'otros sitios web pa siguir lo que faes y ves en llinia. Esto permíte-yos deprender más tocante a ti, acullá de lo que compartes nos tos perfiles de redes sociales. <a data-l10n-name="learn-more-link">Deprender más</a>
+social-tab-contant = Les redes sociales ponen rastrexadores n'otros sitios web pa siguir lo que faes y ves en llinia. Esto permíte-yos deprender más tocante a ti, acullá de lo que compartes nos tos perfiles de redes sociales. <a data-l10n-name="learn-more-link">Lleer más</a>
 cookie-tab-title = Cookies de rastrexu ente sitios
-cookie-tab-content = Estes cookies síguente de sitiu en sitiu p'atropar datos tocante a lo que faes en llinia. Tán instalaes por terceres partes, como anunciantes y compañes d'análisis. Bloquiar les cookies de rastrexu ente sitios amenorga'l númberu d'anuncios que te siguen. <a data-l10n-name="learn-more-link">Deprender más</a>
+cookie-tab-content = Estes cookies síguente de sitiu en sitiu p'atropar datos tocante a lo que faes en llinia. Tán instalaes por terceres partes, como anunciantes y compañes d'análisis. Bloquiar les cookies de rastrexu ente sitios amenorga'l númberu d'anuncios que te siguen. <a data-l10n-name="learn-more-link">Lleer más</a>
 tracker-tab-title = Conteníu que rastrexa
-tracker-tab-description = Los sitios web puen cargar publicidá, vídeos y otru conteníu esternu con códigu que rastrexe. El bloquéu del conteníu que rastrexa pue ayudar a que los sitios carguen más rápido, mas dalgunos botones, formularios y campos d'aniciu de sesión podríen dexar de funcionar. <a data-l10n-name="learn-more-link">Deprender más</a>
+tracker-tab-description = Los sitios web puen cargar publicidá, vídeos y otru conteníu esternu con códigu que rastrexe. El bloquéu del conteníu que rastrexa pue ayudar a que los sitios carguen más rápido, mas dalgunos botones, formularios y campos d'aniciu de sesión podríen dexar de funcionar. <a data-l10n-name="learn-more-link">Lleer más</a>
 fingerprinter-tab-title = Xeneradores de buelgues
-fingerprinter-tab-content = Los xeneradores de buelgues recueyen los axustes del restolador y l'ordenador pa crear un perfil de ti. Col usu d'esta buelga dixital puen rastrexate pente sitios web estremaos. <a data-l10n-name="learn-more-link">Deprender más</a>
+fingerprinter-tab-content = Los xeneradores de buelgues recueyen los axustes del restolador y l'ordenador pa crear un perfil de ti. Col usu d'esta buelga dixital puen rastrexate pente sitios web estremaos. <a data-l10n-name="learn-more-link">Lleer más</a>
 cryptominer-tab-title = Criptomineros
-cryptominer-tab-content = Los criptomineros usen la potencia de cálculu del ordenador pa minar moneda dixital. Los scripts de criptominería escosen aína la batería del preséu, vuelven lentu al ordenador y puen aumentar el preciu de la factura de la lluz. <a data-l10n-name="learn-more-link">Deprender más</a>
+cryptominer-tab-content = Los criptomineros usen la potencia de cálculu del ordenador pa minar moneda dixital. Los scripts de criptominería escosen aína la batería del preséu, vuelven lentu al ordenador y puen aumentar el preciu de la factura de la lluz. <a data-l10n-name="learn-more-link">Lleer más</a>
 protections-close-button2 =
     .aria-label = Zarrar
     .title = Zarrar

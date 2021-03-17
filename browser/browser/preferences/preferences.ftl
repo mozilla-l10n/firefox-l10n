@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Unviar a los sitios web la señal «Nun me siguir» pa dici-yos que nun quies que te rastrexen
-do-not-track-learn-more = Deprender más
+do-not-track-learn-more = Lleer más
 do-not-track-option-default-content-blocking-known =
     .label = Namás cuando { -brand-short-name } tea configuráu pa bloquiar los rastrexadores conocíos
 do-not-track-option-always =
@@ -168,7 +168,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Activar los contenedores de llingüetes
     .accesskey = c
-browser-containers-learn-more = Deprender más
+browser-containers-learn-more = Lleer más
 browser-containers-settings =
     .label = Axustes…
     .accesskey = u
@@ -350,7 +350,7 @@ drm-content-header = Conteníu con DRM (Xestión de Derechos Dixitales)
 play-drm-content =
     .label = Reproducir el conteníu controláu con DRM
     .accesskey = R
-play-drm-content-learn-more = Deprender más
+play-drm-content-learn-more = Lleer más
 update-application-title = Anovamientos de { -brand-short-name }
 update-application-description = Caltén { -brand-short-name } anováu pal meyor rindimientu, estabilidá y seguranza.
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedaes</a>
@@ -394,7 +394,7 @@ performance-use-recommended-settings-checkbox =
     .label = Usar los axustes de rindimientu aconseyaos
     .accesskey = U
 performance-use-recommended-settings-desc = Estos axustes adáutense al hardware y sistema operativu del ordenador.
-performance-settings-learn-more = Deprender más
+performance-settings-learn-more = Lleer más
 performance-allow-hw-accel =
     .label = Usar l'aceleración del hardware cuando tea disponible
     .accesskey = h
@@ -428,24 +428,24 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Activar los controles de videu nel mou imaxe sobre imaxe
     .accesskey = A
-browsing-picture-in-picture-learn-more = Deprender más
+browsing-picture-in-picture-learn-more = Lleer más
 browsing-media-control =
     .label = Controlar el conteníu multimedia pel tecláu, auriculares o interfaz virtual
     .accesskey = v
-browsing-media-control-learn-more = Deprender más
+browsing-media-control-learn-more = Lleer más
 browsing-cfr-recommendations =
     .label = Aconseyar estensiones mentanto restoles
     .accesskey = A
 browsing-cfr-features =
     .label = Aconseyar carauterístiques mentanto restoles
     .accesskey = c
-browsing-cfr-recommendations-learn-more = Deprender más
+browsing-cfr-recommendations-learn-more = Lleer más
 
 ## General Section - Proxy
 
 network-settings-title = Axustes de rede
 network-proxy-connection-description = Configura cómo se conecta { -brand-short-name } a internet.
-network-proxy-connection-learn-more = Deprender más
+network-proxy-connection-learn-more = Lleer más
 network-proxy-connection-settings =
     .label = Axustes…
     .accesskey = A
@@ -761,7 +761,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suxerir y xenerar contraseñes segures
     .accesskey = S
-forms-breach-alerts-learn-more-link = Deprender más
+forms-breach-alerts-learn-more-link = Lleer más
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Rellenar automáticamente los anicios de sesión y les contraseñes
@@ -775,7 +775,7 @@ forms-master-pw-use =
 forms-primary-pw-use =
     .label = Usar una contraseña primaria
     .accesskey = U
-forms-primary-pw-learn-more-link = Deprender más
+forms-primary-pw-learn-more-link = Lleer más
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -860,7 +860,7 @@ sitedata-total-size-calculating = Calcaulando'l tamañu de la caché y los datos
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Anguaño les cookies, los datos de los sitios y la caché tán usando { $value } { $unit } d'espaciu nel discu.
-sitedata-learn-more = Deprender más
+sitedata-learn-more = Lleer más
 sitedata-delete-on-close =
     .label = Desaniciar les cookies y los datos de los sitios al zarrar { -brand-short-name }
     .accesskey = z
@@ -923,7 +923,7 @@ addressbar-suggestions-settings = Camudar les preferencies pa les suxerencies de
 
 content-blocking-enhanced-tracking-protection = Proteición ameyorada escontra'l rastrexu
 content-blocking-section-top-level-description = Los rastrexadores síguente per internet pa recoyer información tocante a los tos vezos de restolar ya intereses. { -brand-short-name } bloquia munchos d'esos rastrexadores y otros scripts maliciosos.
-content-blocking-learn-more = Deprender más
+content-blocking-learn-more = Lleer más
 content-blocking-fpi-incompatibility-warning = Tas usando Aislamientu Primariu (FPI) lo qu'anula dalgunos axustes cookies de { -brand-short-name }
 
 ## These strings are used to define the different levels of
@@ -1018,7 +1018,7 @@ permissions-notification = Avisos
 permissions-notification-settings =
     .label = Axustes…
     .accesskey = t
-permissions-notification-link = Deprender más
+permissions-notification-link = Lleer más
 permissions-notification-pause =
     .label = Posar los avisos hasta reaniciar { -brand-short-name }
     .accesskey = v
@@ -1041,7 +1041,7 @@ permissions-addon-exceptions =
 permissions-a11y-privacy-checkbox =
     .label = Evitar que los servicios d'accesibilidá accedan al restolador
     .accesskey = a
-permissions-a11y-privacy-link = Deprender más
+permissions-a11y-privacy-link = Lleer más
 
 ## Privacy Section - Data Collection
 
@@ -1049,23 +1049,24 @@ collection-header = Recoyida y usu de datos de { -brand-short-name }
 collection-description = Esforciámonos n'apurrite opciones y recoyer namás lo que precisamos pa fornir y ameyorar { -brand-short-name } pa tol mundu. Siempres pidimos permisu enantes de recibir información personal.
 collection-privacy-notice = Avisu de privacidá
 collection-health-report-telemetry-disabled = Yá nun permites que { -vendor-short-name } capture datos téunicos y d'interaición. Tolos datos vieyos van desaniciase en 30 díes.
+collection-health-report-telemetry-disabled-link = Lleer más
 collection-health-report =
     .label = Permitir a { -brand-short-name } qu'unvie datos téunicos y d'interaición a { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Deprender más
+collection-health-report-link = Lleer más
 collection-studies =
     .label = Permitir { -brand-short-name } qu'instale y execute estudios
 collection-studies-link = Amosar los estudios de { -brand-short-name }
 addon-recommendations =
     .label = Permitir a { -brand-short-name } qu'aconseye estensiones de forma personalizada
-addon-recommendations-link = Deprender más
+addon-recommendations-link = Lleer más
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = L'informe de datos ta desactiváu na configuración d'esta compilación
 collection-backlogged-crash-reports =
     .label = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos
     .accesskey = c
-collection-backlogged-crash-reports-link = Deprender más
+collection-backlogged-crash-reports-link = Lleer más
 
 ## Privacy Section - Security
 ##
@@ -1077,7 +1078,7 @@ security-browsing-protection = Proteición escontra'l software peligrosu y conte
 security-enable-safe-browsing =
     .label = Bloquiar el conteníu engañosu y peligrosu
     .accesskey = B
-security-enable-safe-browsing-link = Deprender más
+security-enable-safe-browsing-link = Lleer más
 security-block-downloads =
     .label = Bloquiar les descargues peligroses
     .accesskey = p
@@ -1105,8 +1106,8 @@ certs-devices =
     .label = Preseos de seguranza…
     .accesskey = P
 space-alert-learn-more-button =
-    .label = Deprender más
-    .accesskey = D
+    .label = Lleer más
+    .accesskey = L
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
@@ -1126,13 +1127,13 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = Val, entendílo
     .accesskey = a
-space-alert-under-5gb-message = { -brand-short-name } ta quedando ensin espaciu nel discu. El conteníu de los sitios web pue dexar d'amosase afayadizamente. Vista «Deprender mas» pa optimiar l'usu del discu pa una esperiencia de restolar meyor.
+space-alert-under-5gb-message = { -brand-short-name } ta quedando ensin espaciu nel discu. El conteníu de los sitios web pue dexar d'amosase afayadizamente. Vista «Lleer más» pa optimiar l'usu del discu pa una esperiencia de restolar meyor.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mou de namás HTTPS
 httpsonly-description = HTTPS apurre una conexón segura y cifrada ente { -brand-short-name } y los sitios web que visites. La mayoría d'estos sitios web sofiten HTTPS, polo que si'l mou de namás HTTPS ta activáu, { -brand-short-name } va usar HTTPS en toles conexones.
-httpsonly-learn-more = Deprender más
+httpsonly-learn-more = Lleer más
 httpsonly-radio-enabled =
     .label = Activar el mou de namás HTTPS en toles ventanes
 httpsonly-radio-enabled-pbm =
