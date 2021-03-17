@@ -206,12 +206,15 @@ cfr-doorhanger-cryptominers-description = Deine Privatsphäre ist uns wichtig. {
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] { -brand-short-name } hat seit { $date } mehr als <b>{ $blockedCount }</b> Element zur Aktivitätenverfolgung blockiert!
        *[other] { -brand-short-name } hat seit { $date } mehr als <b>{ $blockedCount }</b> Elemente zur Aktivitätenverfolgung blockiert!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } hat seit { DATETIME($date, month: "long", year: "numeric") } mehr als <b>{ $blockedCount }</b> Element zur Aktivitätenverfolgung blockiert!
@@ -219,8 +222,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Alle anzeigen
     .accesskey = A
-cfr-doorhanger-milestone-close-button = Schließen
-    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
@@ -245,6 +246,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Bild-im-Bild-Symbol
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Schließen
+    .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = Schutzmaßnahmen auf einen Blick
 cfr-whatsnew-protections-body = Die Schutzmaßnahmen-Übersicht fasst Informationen über Datenlecks und die Passwortverwaltung zusammen. Sie können jetzt sehen, wie viele Probleme aus Datenlecks Sie behoben haben und ob einige Ihrer Passwörter in Datenlecks offengelegt wurden.
 cfr-whatsnew-protections-cta-link = Schutzmaßnahmen-Übersicht anzeigen
@@ -260,6 +267,8 @@ cfr-whatsnew-better-pdf-body = PDF-Dokumente werden jetzt direkt in { -brand-sho
 cfr-doorhanger-doh-body = Ihre Privatsphäre ist uns wichtig. { -brand-short-name } leitet Ihre DNS-Anfragen jetzt falls möglich sicher an einen Partnerdienst weiter, um Sie beim Surfen zu schützen.
 cfr-doorhanger-doh-header = Sicherere, verschlüsselte DNS-Anfragen
 cfr-doorhanger-doh-primary-button = Ok, verstanden
+    .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
 cfr-doorhanger-doh-secondary-button = Deaktivieren
     .accesskey = D
