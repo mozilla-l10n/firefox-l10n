@@ -111,9 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Abrir enlace en una nueva pestaña contenedora
     .accesskey = C
-main-context-menu-open-link-container =
-    .label = Abrir enlace en una nueva pestaña contenedora
-    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = Abrir enlace en una nueva ventana
     .accesskey = A
@@ -193,6 +190,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Ultra rápido (2×)
     .accesskey = L
+main-context-menu-media-play-speed-2 =
+    .label = Velocidad
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = En bucle
     .accesskey = L
@@ -220,6 +230,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Picture-in-Picture
     .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Ver en Picture-in-Picture
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Recargar imagen
     .accesskey = R
@@ -229,6 +244,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Ver video
     .accesskey = V
+main-context-menu-image-view-new-tab =
+    .label = Abrir imagen en una nueva pestaña
+    .accesskey = I
+main-context-menu-video-view-new-tab =
+    .label = Abrir video en una nueva pestaña
+    .accesskey = i
 main-context-menu-image-copy =
     .label = Copiar imagen
     .accesskey = C
@@ -277,6 +298,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Guardar captura como…
     .accesskey = G
+main-context-menu-video-take-snapshot =
+    .label = Tomar captura…
+    .accesskey = S
 main-context-menu-video-email =
     .label = Enviar video por email
     .accesskey = a
@@ -301,6 +325,23 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Usar contraseña generada…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+main-context-menu-use-saved-login =
+    .label = Usar credencial guardada
+    .accesskey = o
+main-context-menu-use-saved-password =
+    .label = Usar contraseña guardada
+    .accesskey = o
+
+##
+
+main-context-menu-suggest-strong-password =
+    .label = Sugerir contraseña segura…
+    .accesskey = S
 main-context-menu-manage-logins =
     .label = Administrar credenciales…
     .accesskey = M
@@ -346,6 +387,9 @@ main-context-menu-print-selection =
 main-context-menu-view-selection-source =
     .label = Ver código fuente de la selección
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = Tomar captura de pantalla
+    .accesskey = T
 main-context-menu-view-page-source =
     .label = Ver código fuente de la página
     .accesskey = V

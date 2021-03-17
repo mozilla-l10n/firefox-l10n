@@ -288,6 +288,8 @@ identity-passive-loaded = Partes de esta página no son seguras (por ejemplo: im
 identity-active-loaded = Has desactivado la protección en esta página.
 identity-weak-encryption = Esta página usa un cifrado débil.
 identity-insecure-login-forms = Las credenciales ingresadas en esta página pueden verse comprometidas.
+identity-permissions =
+    .value = Permisos
 identity-https-only-connection-upgraded = (actualizado a HTTPS)
 identity-https-only-label = Modo solo HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Actíva el modo solo HTTPS lo si quieres que { -brand-short-name } cambie la conexión cuando sea posible.
 identity-https-only-info-turn-off2 = Si la página no funciona correctamente, es posible que quieras desactivar el modo solo HTTPS para este sitio para volver a cargarlo usando una conexión HTTP insegura.
 identity-https-only-info-no-upgrade = No se pudo actualizar la conexión desde HTTP.
-identity-permissions =
-    .value = Permisos
 identity-permissions-storage-access-header = Cookies de sitios cruzados
 identity-permissions-storage-access-hint = Estas partes pueden usar cookies y datos de sitios cruzados mientras estás en este sitio.
 identity-permissions-reload-hint = Puede que tengas que recargar la página para que los cambios se apliquen.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Reproduciendo
-browser-tab-audio-muted = Silenciado
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = REPRODUCIENDO
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,29 @@ browser-tab-audio-muted2 = SILENCIADO
 browser-tab-audio-blocked = AUTOREPRODUCCIÓN BLOQUEADA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] SILENCIAR PESTAÑA
+        [one] SILENCIAR { $count } PESTAÑA
+       *[other] SILENCIAR { $count } PESTAÑAS
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ESCUCHAR PESTAÑA
+        [one] ESCUCHAR { $count } PESTAÑA
+       *[other] ESCUCHAR { $count } PESTAÑAS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUCIR PESTAÑA
+        [one] REPRODUCIR { $count } PESTAÑA
+       *[other] REPRODUCIR { $count } PESTAÑAS
+    }
 
 ## Bookmarks toolbar items
 
@@ -374,6 +395,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Micrófono a compartir:
     .accesskey = M
+popup-select-camera-device =
+    .value = Cámara:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = Cámara
+popup-select-microphone-device =
+    .value = Micrófono:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Micrófono
 popup-all-windows-shared = Todas las ventanas visibles en tu pantalla serán compartidas.
 popup-screen-sharing-not-now =
     .label = Ahora no
@@ -383,6 +414,13 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Desactivar las notificaciones de { -brand-short-name } mientras se comparte
 popup-silence-notifications-checkbox-warning = { -brand-short-name } no mostrará notificaciones mientras se está compartiendo.
+popup-screen-sharing-block =
+    .label = Bloquear
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Siempre bloquear
+    .accesskey = w
+popup-mute-notifications-checkbox = Silenciar las notificaciones de sitios web mientras se comparte
 
 ## WebRTC window or screen share tab switch warning
 
@@ -533,8 +571,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Mostrar todos los marcadores
-bookmarks-recent-bookmarks =
-    .value = Añadidos recientemente
 bookmarks-manage-bookmarks =
     .label = Gestionar marcadores
 bookmarks-recent-bookmarks-panel =
@@ -555,12 +591,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Ocultar barra lateral de marcadores
            *[other] Ver barra lateral de marcadores
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ocultar barra de herramientas de marcadores
-           *[other] Ver barra de marcadores
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -607,10 +637,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Marcadores
-library-bookmarks-bookmark-this-page =
-    .label = Guardar esta página en marcadores
-library-bookmarks-bookmark-edit =
-    .label = Editar este marcador
 library-recent-activity-title =
     .value = Actividad reciente
 
@@ -627,3 +653,9 @@ eme-notifications-drm-content-playing-manage = Administrar ajustes
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Ocultar
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
