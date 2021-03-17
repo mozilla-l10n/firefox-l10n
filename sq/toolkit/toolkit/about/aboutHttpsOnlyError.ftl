@@ -9,10 +9,6 @@ about-httpsonly-insecure-explanation-unavailable = Po shfletoni nën Mënyrën H
 about-httpsonly-insecure-explanation-reasons = Sipas shumicës së gjasave, sajti nuk mbulon HTTPS, por mund të jetë e mundur që një sulmues të jetë duke bllokuar versionin HTTPS.
 about-httpsonly-insecure-explanation-exception = Teksa rreziku ndaj sigurisë është i ulët, nëse vendosni ta vizitoni versionin HTTP të sajtit, s’duhet të jepni ndonjë të dhënë rezervat, bie fjala, fjalëkalime, email-e ose hollësi kartash krediti.
 about-httpsonly-button-make-exception = Pranoni Rrezikun dhe Vazhdoni te Sajti
-about-httpsonly-title = { -brand-short-name } Pikasi një Problem Potencial Sigurie
-# Variables:
-#   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable = Po shfletoni nën Mënyrën Vetëm-HTTPS, dhe nuk ka një version HTTPS të sigurt të <em>{ $websiteUrl }</em>.
 about-httpsonly-title-alert = Sinjalizim Mënyre Vetëm-HTTPS
 about-httpsonly-title-connection-not-available = S’ka Lidhje të Sigurt
 # Variables:
@@ -21,8 +17,15 @@ about-httpsonly-explanation-unavailable2 = Keni aktivizuar Mënyrën Vetëm-HTTP
 about-httpsonly-explanation-question = Ç’mund të jetë duke e shkaktuar?
 about-httpsonly-explanation-nosupport = Sipas shumicës së gjasave, sajti thjesht nuk mbulon HTTPS-në.
 about-httpsonly-explanation-risk = Është gjithashtu e mundur që të jetë dora e një agresori. Nëse vendosni ta vizitoni sajtin, s’duhet të jepni ndonjë të dhënë rezervat, bie fjala, fjalëkalime, email-e ose hollësi kartash krediti.
-about-httpsonly-button-accept-and-continue = Pranoni Rrezikun dhe Vazhdoni
 about-httpsonly-explanation-continue = Nëse vazhdoni, Mënyra Vetëm-HTTPS do të çaktivizohet përkohësisht për këtë sajt.
 about-httpsonly-button-continue-to-site = Vazhdo te Sajti HTTP
 about-httpsonly-button-go-back = Kthehu Mbrapsht
 about-httpsonly-link-learn-more = Mësoni Më Tepër…
+
+## Suggestion Box that only shows up if a secure connection to www can be established
+## Variables:
+##   $websiteUrl (String) - Url of the website that can be securely loded with these alternatives. Example: example.com
+
+about-httpsonly-suggestion-box-header = Alternativë e Mundshme
+about-httpsonly-suggestion-box-www-text = Ka një version të sigurt të <em>www.{ $websiteUrl }</em>. Mund të vizitoni këtë faqe, në vend të <em>{ $websiteUrl }</em>.
+about-httpsonly-suggestion-box-www-button = Kalo te www.{ $websiteUrl }
