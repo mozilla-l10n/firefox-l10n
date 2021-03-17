@@ -366,6 +366,16 @@ browser-tab-mute =
         [1] TAB STUMMSCHALTEN
        *[other] { $count } TABS STUMMSCHALTEN
     }
+browser-tab-unmute =
+    { $count ->
+        [1] STUMMSCHALTUNG FÜR TAB AUFHEBEN
+       *[other] STUMMSCHALTUNG FÜR { $count } TABS AUFHEBEN
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] TAB WIEDERGEBEN
+       *[other] { $count } TABS WIEDERGEBEN
+    }
 
 ## Bookmarks toolbar items
 
@@ -407,6 +417,7 @@ popup-screen-sharing-block =
 popup-screen-sharing-always-block =
     .label = Immer blockieren
     .accesskey = I
+popup-mute-notifications-checkbox = Websitebenachrichtigungen stummschalten, während Ihr Bildschirm oder ein Fenster geteilt wird
 
 ## WebRTC window or screen share tab switch warning
 
