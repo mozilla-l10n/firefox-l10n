@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Titz'aj pa ruwa ri ruxaq
 printui-scale-pcent = Xakb'äl
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Nitz'ajb'äx pa ka'i'-ruwa
-printui-duplex-checkbox = Titz'ajb'äx pa ka'i'-ruwa
 printui-two-sided-printing-off = Chupun
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Tiq'och pa ri nïm raqän ruchi'
@@ -57,6 +56,7 @@ printui-margins-default = K'o wi
 printui-margins-min = Ko'öl
 printui-margins-none = Majun
 printui-margins-custom-inches = B'anon runuk'ulem (taq pulwata')
+printui-margins-custom-mm = Ichinan (mm)
 printui-margins-custom-top = Ajsik
 printui-margins-custom-top-inches = Nima'q (taq pulwata')
 printui-margins-custom-bottom = Ikim
