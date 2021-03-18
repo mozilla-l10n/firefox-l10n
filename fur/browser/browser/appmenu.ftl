@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informazions par risolvi problemis…
     .accesskey = p
+appmenu-help-taskmanager =
+    .label = Gjestôr ativitâts
 appmenu-help-more-troubleshooting-info =
     .label = Plui informazions pe risoluzion dai problemis
     .accesskey = T
-appmenu-help-taskmanager =
-    .label = Gjestôr ativitâts
 appmenu-help-report-site-issue =
     .label = Segnale probleme cul sît…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Modalitât risoluzion problemis
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Distude modalitât risoluzion problemis
     .accesskey = M
