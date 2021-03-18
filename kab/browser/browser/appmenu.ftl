@@ -178,4 +178,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Sagen afeggag n yifeca…
+appmenu-taskmanager =
+    .label = Amsefrak n twuri
 appmenu-developer-tools-subheader = Ifecka n yiminig
