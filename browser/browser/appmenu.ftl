@@ -167,4 +167,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar la barra de ferramientes…
+appmenu-taskmanager =
+    .label = Xestor de xeres
 appmenu-developer-tools-subheader = Ferramientes del restolador
