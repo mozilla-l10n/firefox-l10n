@@ -230,6 +230,11 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-media-pip =
     .label = Εικόνα εντός εικόνας
     .accesskey = ν
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Προβολή σε εικόνα εντός εικόνας
+    .accesskey = ο
 main-context-menu-image-reload =
     .label = Ανανέωση εικόνας
     .accesskey = ν
