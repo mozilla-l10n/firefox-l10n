@@ -23,6 +23,7 @@
 <!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
+<!ENTITY insertMenu.label "Insertion">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Lien…">
 <!ENTITY insertLinkCmd2.accesskey "L">
