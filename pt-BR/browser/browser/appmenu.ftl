@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar barra de ferramentas…
+appmenu-taskmanager =
+    .label = Gerenciador de tarefas
 appmenu-developer-tools-subheader = Ferramentas do navegador
