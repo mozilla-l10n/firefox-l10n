@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Sayfa genişliğine sığdır
 printui-scale-pcent = Ölçeklendir
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = İki taraflı yazdırma
-printui-duplex-checkbox = Kâğıdın iki yüzüne yazdır
 printui-two-sided-printing-off = Kapalı
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Uzun kenarından çevir
@@ -57,14 +56,19 @@ printui-margins-default = Varsayılan
 printui-margins-min = Minimum
 printui-margins-none = Yok
 printui-margins-custom-inches = Özel (inç)
+printui-margins-custom-mm = Özel (mm)
 printui-margins-custom-top = Üst
 printui-margins-custom-top-inches = Üst (inç)
+printui-margins-custom-top-mm = Üst (mm)
 printui-margins-custom-bottom = Alt
 printui-margins-custom-bottom-inches = Alt (inç)
+printui-margins-custom-bottom-mm = Alt (mm)
 printui-margins-custom-left = Sol
 printui-margins-custom-left-inches = Sol (inç)
+printui-margins-custom-left-mm = Sol (mm)
 printui-margins-custom-right = Sağ
 printui-margins-custom-right-inches = Sağ (inç)
+printui-margins-custom-right-mm = Sağ (mm)
 printui-system-dialog-link = Sistem iletişim kutusuyla yazdır…
 printui-primary-button = Yazdır
 printui-primary-button-save = Kaydet
