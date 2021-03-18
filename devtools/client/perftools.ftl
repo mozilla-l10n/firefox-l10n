@@ -65,6 +65,8 @@ perftools-button-edit-settings = Ayarları düzenle…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-renderer =
+    .title = WebRender etkinleştirildiğinde OpenGL çağrılarını yürüten iş parçacığı
 perftools-thread-render-backend =
     .title = WebRender RenderBackend iş parçacığı
 perftools-thread-img-decoder =

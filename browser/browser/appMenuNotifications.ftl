@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Tamam, anladım
     .buttonaccesskey = T
 appmenu-addon-post-install-message = Eklentilerinizi yönetmek için <image data-l10n-name='addon-menu-icon'></image> menüdeki <image data-l10n-name='addon-install-icon'></image> simgesine tıklayabilirsiniz.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Tamam
+    .buttonaccesskey = T
+appmenu-addon-post-install-message2 = Eklentilerinizi ve temalarınızı uygulama menüsünden yönetebilirsiniz.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu eklentinin gizli pencerelerde çalışmasına izin ver
     .accesskey = B
