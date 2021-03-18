@@ -165,7 +165,7 @@ appmenu-help-safe-mode-with-addons =
 
 appmenu-help-exit-troubleshoot-mode =
     .label = Slå fejlsøgnings-tilstand fra
-    .accesskey = S
+    .accesskey = f
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
