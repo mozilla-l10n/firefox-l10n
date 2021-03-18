@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Dosyadan içe aktar:
 calendar-ics-file-dialog-calendar-menu-label = Takvime aktar:
 calendar-ics-file-dialog-items-loading-message =
     .value = Öğeler yükleniyor…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Öğeleri filtrele…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Başlangıç tarihine göre sırala (baştan sona)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Başlangıç tarihine göre sırala (sondan başa)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Başlığa göre sırala (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Başlığa göre sırala (Z > A)
 calendar-ics-file-dialog-progress-message = İçe aktarılıyor…
 calendar-ics-file-import-success = Başarıyla içe aktarıldı!
 calendar-ics-file-import-error = Bir hata oluştu ve içe aktarma başarısız oldu.
