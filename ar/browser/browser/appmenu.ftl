@@ -176,4 +176,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = خصّص شريط الأدوات…
+appmenu-taskmanager =
+    .label = مدير المهام
 appmenu-developer-tools-subheader = أدوات المتصفّح
