@@ -175,6 +175,10 @@ onboarding-multistage-set-default-secondary-button-label = 暂时不要
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = 只需点击几下，即可开始使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = 设置打开后，在“Web 浏览器”一栏中选择 { -brand-short-name }
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = 这会将 { -brand-short-name } 固定到任务栏并打开设置
 onboarding-multistage-pin-default-primary-button-label = 将 { -brand-short-name } 设为我的主浏览器
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
