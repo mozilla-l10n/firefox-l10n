@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Персонализация панели инструментов…
+appmenu-taskmanager =
+    .label = Диспетчер задач
 appmenu-developer-tools-subheader = Инструменты браузера
