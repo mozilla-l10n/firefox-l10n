@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Құралдар панелін баптау…
+appmenu-taskmanager =
+    .label = Тапсырмалар басқарушысы
 appmenu-developer-tools-subheader = Браузер құралдары
