@@ -137,11 +137,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Të dhëna Diagnostikimi
     .accesskey = D
+appmenu-help-taskmanager =
+    .label = Përgjegjës Punësh
 appmenu-help-more-troubleshooting-info =
     .label = Më Tepër të Dhëna Diagnostikimi
     .accesskey = D
-appmenu-help-taskmanager =
-    .label = Përgjegjës Punësh
 appmenu-help-report-site-issue =
     .label = Njoftoni Problem Sajti…
 appmenu-help-feedback-page =
@@ -161,9 +161,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Mënyra Diagnostikim
-    .accesskey = D
 appmenu-help-exit-troubleshoot-mode =
     .label = Çaktivizo Mënyrën Diagnostikim
     .accesskey = Ç
@@ -182,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Përshtateni Panelin…
+appmenu-taskmanager =
+    .label = Përgjegjës Punësh
 appmenu-developer-tools-subheader = Mjete Shfletuesi
