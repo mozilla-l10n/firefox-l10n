@@ -178,6 +178,9 @@ onboarding-multistage-pin-default-header = Tatikirisaj rub'anik <span data-l10n-
 onboarding-multistage-pin-default-subtitle = Anin, jikïl chuqa' ichinan okem pa k'amaya'l richin toq nawokisaj ri ajk'amaya'l.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Tacha' { -brand-short-name } pa ajk'amaya'l okik'amaya'l toq najäq ri runuk'ulem
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Re re' xtuya' { -brand-short-name } pa kikajtz'ik samaj chuqa' xtujäq ri runuk'ulem
+onboarding-multistage-pin-default-primary-button-label = Tib'an { -brand-short-name } Nab'ey Wokik'amaya'l
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Ke'ajik'a' ewan taq atzij, <br/>taq yaketal, chuqa' <span data-l10n-name="zap">ch'aqa' chik</span>
