@@ -137,11 +137,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
+appmenu-help-taskmanager =
+    .label = ਟਾਸਕ ਮੈਨੇਜਰ
 appmenu-help-more-troubleshooting-info =
     .label = ਹੋਰ ਸਮੱਸਿਆ ਹੱਲ ਜਾਣਕਾਰੀ
     .accesskey = T
-appmenu-help-taskmanager =
-    .label = ਟਾਸਕ ਮੈਨੇਜਰ
 appmenu-help-report-site-issue =
     .label = …ਸਾਈਟ ਮਸਲੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
 appmenu-help-feedback-page =
@@ -161,9 +161,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ ਬੰਦ ਹੈ
     .accesskey = M
