@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $count (Number) - Number of unread messages.
+unread-messages-os-tooltip =
+    { $count ->
+        [one] { $count } njecytana powěsć
+        [two] { $count } njecytanej powěsći
+        [few] { $count } njecytane powěsći
+       *[other] { $count } njecytanych powěsćow
+    }
 about-rights-notification-text = { -brand-short-name } jo dermotna softwara wótwórjonego žrědła, wuwita wót zgromaźeństwa towzyntow luźi z cełego swěta.
 
 ## Folder Pane
