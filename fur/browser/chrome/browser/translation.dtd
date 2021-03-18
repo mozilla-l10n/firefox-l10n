@@ -52,3 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
+<!ENTITY translation.options.neverForSite.label "No sta voltâ mai chest sît">
+<!ENTITY translation.options.neverForSite.accesskey "m">
+<!ENTITY translation.options.preferences.label  "Preferencis di traduzion">
+<!ENTITY translation.options.preferences.accesskey "T">
