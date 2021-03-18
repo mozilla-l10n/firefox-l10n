@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Oĩma, aikumby
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Eñangareko ne rembipuru’i eikutúvo <image data-l10n-name='addon-install-icon'></image> poravorã <image data-l10n-name='addon-menu-icon'></image> pegua.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Moneĩ
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Emoneĩ ko jepysokue oñembohekóvo Windows ñemiguápe
     .accesskey = A

@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Ñanduti mboguatahára
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Kundahára Rembipuru
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Tembiapo ñangarekohára
+    .accesskey = M
 menu-tools-page-source =
     .label = Ayvu reñoiha kuatiarogue
     .accesskey = o
 menu-tools-page-info =
     .label = Kuatiarogue rehegua marandu
     .accesskey = I
+menu-settings =
+    .label = Ñemboheko
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -285,13 +298,6 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
-           *[other] n
-        }
-menu-settings =
-    .label = Ñemboheko
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Jeguerupa tenonde gotyo
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Marandu apañuãi myatyrõrã
     .accesskey = T
+menu-help-taskmanager =
+    .label = Tembiapo ñangarekohára
 menu-help-more-troubleshooting-info =
     .label = Maranduve apañuãi ñemyatyrõ rehegua
     .accesskey = T
-menu-help-taskmanager =
-    .label = Tembiapo ñangarekohára
 menu-help-report-site-issue =
     .label = Eikuaauka iñapañuãiha ko Tenda…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Moĩmbaha oguepyréva moñepyrũjey
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Mba’éicha emyatyrõta apañuãi
+menu-help-enter-troubleshoot-mode2 =
+    .label = Mba’éicha emyatyrõta apañuãi…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Eipe’a mba’éicha emyatyrõta apañuãi
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Kóva ndaha’éi tenda ombotavyséva…
     .accesskey = d
-menu-help-check-for-update =
-    .label = Ehechajey oĩpa ñembohekopyahurã…
-    .accesskey = C
