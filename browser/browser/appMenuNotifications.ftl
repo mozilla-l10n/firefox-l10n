@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = 확인
     .buttonaccesskey = O
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> 메뉴에서 <image data-l10n-name='addon-install-icon'></image> 아이콘을 눌러서 부가 기능을 관리하세요.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = 확인
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = 응용 프로그램 메뉴를 통해 확장 기능과 테마를 관리하세요.
 appmenu-addon-post-install-incognito-checkbox =
     .label = 이 확장 기능이 사생활 보호 창에서 실행되도록 허용합니다
     .accesskey = A
