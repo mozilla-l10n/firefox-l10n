@@ -80,3 +80,5 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-taskmanager =
+    .label = टास्क मेनेजार
