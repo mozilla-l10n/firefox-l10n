@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = سفارشی‌سازی نوار ابزار…
+appmenu-taskmanager =
+    .label = مدیر وظایف
 appmenu-developer-tools-subheader = ابزارهای مرورگر
