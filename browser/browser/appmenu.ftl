@@ -177,4 +177,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Prilagodi orodno vrstico …
+appmenu-taskmanager =
+    .label = Upravitelj opravil
 appmenu-developer-tools-subheader = Orodja brskalnika
