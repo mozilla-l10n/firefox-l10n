@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Διαχειριστείτε τα πρόσ�
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Εντάξει
     .buttonaccesskey = Ε
+appmenu-addon-post-install-message2 = Διαχειριστείτε τις επεκτάσεις και τα θέματά σας από το μενού της εφαρμογής.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Να επιτρέπεται η εκτέλεση αυτής της επέκτασης σε ιδιωτικά παράθυρα
     .accesskey = Ν

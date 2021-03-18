@@ -172,6 +172,8 @@ onboarding-multistage-set-default-header = Ορίστε το { -brand-short-name
 onboarding-multistage-set-default-subtitle = Ταχύτητα, ασφάλεια και απόρρητο κάθε φορά που περιηγείστε.
 onboarding-multistage-set-default-primary-button-label = Ορισμός ως προεπιλογή
 onboarding-multistage-set-default-secondary-button-label = Όχι τώρα
+onboarding-multistage-pin-default-subtitle = Γρήγορη, ασφαλής και ιδιωτική περιήγηση κάθε φορά που χρησιμοποιείτε το διαδίκτυο.
+onboarding-multistage-pin-default-primary-button-label = Ορισμός { -brand-short-name } ως κύριου προγράμματος περιήγησης
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Εισάγετε κωδικούς πρόσβασης, <br/>σελιδοδείκτες και <span data-l10n-name="zap">πολλά άλλα</span>
