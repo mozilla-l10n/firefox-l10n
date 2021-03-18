@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Symbolowu rědku pśiměriś…
+appmenu-taskmanager =
+    .label = Zastojnik nadawkow
 appmenu-developer-tools-subheader = Rědy wobglědowaka
