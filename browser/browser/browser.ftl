@@ -290,6 +290,8 @@ identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
 identity-active-loaded = Zaštita je deaktivirana na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabo šifriranje.
 identity-insecure-login-forms = Prijave na ovoj stranici mogu biti kompromitirane.
+identity-permissions =
+    .value = Dozvole
 identity-https-only-connection-upgraded = (nadograđeno na HTTPS)
 identity-https-only-label = Način rada "Samo HTTPS"
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Uključi način rada „samo HTTPS” za ovu stranicu, ako želiš da { -brand-short-name } nadogradi vezu kad je to moguće.
 identity-https-only-info-turn-off2 = Ako se stranica čini slomljenom, možda ćeš htjeti isključiti način rada "samo HTTPS" za ovu stranicu i ponovno ju učitati pomoću nesigurnog HTTP-a.
 identity-https-only-info-no-upgrade = Nije moguće nadograditi vezu s HTTP-a.
-identity-permissions =
-    .value = Dozvole
 identity-permissions-storage-access-header = Međustranični kolačići
 identity-permissions-storage-access-hint = Ove stranke mogu koristiti kolačiće i podatke dijeljene među više stranica dok ste na toj stranici.
 identity-permissions-reload-hint = Stranica se možda mora ponovo učitati, kako bi se primijenile promjene.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Reprodukcija
-browser-tab-audio-muted = Isključen zvuk
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = REPRODUKCIJA
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,18 @@ browser-tab-audio-muted2 = UTIŠANO
 browser-tab-audio-blocked = AUTOMATSKA REPRODUKCIJA BLOKIRANA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = SLIKA U SLICI
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] UTIŠAJ KARTICU
+        [one] UTIŠAJ { $count } KARTICU
+        [few] UTIŠAJ { $count } KARTICE
+       *[other] UTIŠAJ { $count } KARTICA
+    }
 
 ## Bookmarks toolbar items
 
@@ -552,8 +562,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Prikaži sve zabilješke
-bookmarks-recent-bookmarks =
-    .value = Nedavno zabilježeno
 bookmarks-manage-bookmarks =
     .label = Upravljanje zabilješkama
 bookmarks-recent-bookmarks-panel =
@@ -574,12 +582,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Sakrij bočnu traku zabilješki
            *[other] Prikaži okno zabilješki
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Sakrij alatnu traku zabilješki
-           *[other] Prikaži traku zabilješki
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -626,10 +628,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Zabilješke
-library-bookmarks-bookmark-this-page =
-    .label = Zabilježi ovu stranicu
-library-bookmarks-bookmark-edit =
-    .label = Uredi ovu zabilješku
 library-recent-activity-title =
     .value = Nedavna aktivnost
 

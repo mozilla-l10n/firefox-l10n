@@ -161,6 +161,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Način rada za rješavanje problema
+    .accesskey = m
 appmenu-help-exit-troubleshoot-mode =
     .label = Isključi način rada za rješavanje problema
     .accesskey = N
