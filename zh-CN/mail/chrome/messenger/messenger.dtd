@@ -588,7 +588,7 @@
 <!ENTITY deleteButton.tooltip "删除选择的消息或文件夹">
 <!ENTITY undeleteButton.tooltip "恢复选中消息">
 <!ENTITY markButton.tooltip "标记消息">
-<!ENTITY printButton.tooltip "打印这条消息">
+<!ENTITY printButton.tooltip "打印此消息">
 <!ENTITY stopButton.tooltip "停止当前的传输">
 <!ENTITY junkButton.tooltip "将选中的消息标记为垃圾(或者非垃圾)">
 <!ENTITY notJunkButton.tooltip "将所选消息标记为非垃圾邮件">
@@ -719,7 +719,6 @@
 <!ENTITY locationColumn.label "位置">
 <!ENTITY idColumn.label "接收顺序">
 <!ENTITY attachmentColumn.label "附件">
-
 <!ENTITY deleteColumn.label "删除">
 
 <!-- Thread Pane Tooltips -->
@@ -745,7 +744,6 @@
 <!ENTITY locationColumn2.tooltip "按位置排序">
 <!ENTITY idColumn2.tooltip "按接收顺序排序">
 <!ENTITY attachmentColumn2.tooltip "按附件排序">
-
 <!ENTITY deleteColumn.tooltip "删除消息">
 
 <!-- Thread Pane Context Menu -->
