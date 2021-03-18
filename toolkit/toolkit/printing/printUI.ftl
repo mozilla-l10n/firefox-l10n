@@ -40,7 +40,6 @@ printui-scale-fit-to-page-width = Šyrokosći boka pśiměriś
 printui-scale-pcent = Skalěrowaś
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Śišćanje na woběma bokoma
-printui-duplex-checkbox = Na woběma bokoma šišćaś
 printui-two-sided-printing-off = Znjemóžnjony
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Na dłujkej kšomje wjerśeś
@@ -59,14 +58,19 @@ printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Žedna
 printui-margins-custom-inches = Swójske (cole)
+printui-margins-custom-mm = Swójske (mm)
 printui-margins-custom-top = Górjejce
 printui-margins-custom-top-inches = Górjejce (cole)
+printui-margins-custom-top-mm = Górjejce (mm)
 printui-margins-custom-bottom = Dołojce
 printui-margins-custom-bottom-inches = Dołojce (cole)
+printui-margins-custom-bottom-mm = Dołojce (mm)
 printui-margins-custom-left = Nalěwo
 printui-margins-custom-left-inches = Nalěwo (cole)
+printui-margins-custom-left-mm = Nalěwo (mm)
 printui-margins-custom-right = Napšawo
 printui-margins-custom-right-inches = Napšawo (cole)
+printui-margins-custom-right-mm = Napšawo (mm)
 printui-system-dialog-link = Z pomocu systemowego dialoga śišćaś…
 printui-primary-button = Śišćaś
 printui-primary-button-save = Składowaś
