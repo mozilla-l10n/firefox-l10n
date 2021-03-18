@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,41 +12,37 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ocurrió un error al conectarse a { $hostname }. { $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de error: { $error }
-
 psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL ha sido deshabilitado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Ha recibido un certificado no válido.  Contacte al administrador del servidor o correspondiente correo electrónico y envíeles la siguiente información:
+    Recibió un certificado no válido.  Contacte al administrador del servidor o correspondiente correo electrónico y envíeles la siguiente información:
     
     Su certificado contiene el mismo número de serie que otro certificado emitido por la autoridad de certificados.  Obtenga un nuevo certificado conteniendo un número de serie único.
-
-ssl-error-export-only-server = Unable to communicate securely.  Peer does not support high-grade encryption.
-ssl-error-us-only-server = Unable to communicate securely.  Peer requires high-grade encryption which is not supported.
-ssl-error-no-cypher-overlap = Cannot communicate securely with peer: no common encryption algorithm(s).
-ssl-error-no-certificate = Unable to find the certificate or key necessary for authentication.
-ssl-error-bad-certificate = Unable to communicate securely with peer: peers's certificate was rejected.
-ssl-error-bad-client = The server has encountered bad data from the client.
-ssl-error-bad-server = The client has encountered bad data from the server.
-ssl-error-unsupported-certificate-type = Unsupported certificate type.
-ssl-error-unsupported-version = Peer using unsupported version of security protocol.
-ssl-error-wrong-certificate = Client authentication failed: private key in key database does not match public key in certificate database.
-ssl-error-bad-cert-domain = Unable to communicate securely with peer: requested domain name does not match the server's certificate.
+ssl-error-export-only-server = No es posible comunicarse de forma segura. La otra parte no admite cifrado de grado alto.
+ssl-error-us-only-server = No es posible comunicarse de forma segura. La otra parte requiere cifrado de grado alto que no es compatible.
+ssl-error-no-cypher-overlap = No se puede comunicar de forma segura con un compañero: no hay algoritmos de cifrado comunes.
+ssl-error-no-certificate = No se pudo encontrar el certificado o la clave necesarios para la autenticación.
+ssl-error-bad-certificate = No se puede comunicar de forma segura con los compañeros: se rechazó el certificado de los compañeros.
+ssl-error-bad-client = El servidor encontró datos erróneos del cliente.
+ssl-error-bad-server = El servidor encontró datos erróneos del cliente.
+ssl-error-unsupported-certificate-type = El tipo de certificado no es compatible.
+ssl-error-unsupported-version = Falló la autenticación del cliente: la clave privada en la base de datos de claves no coincide con la clave pública en la base de datos de certificados.
+ssl-error-wrong-certificate = Falló la autenticación del cliente: la clave privada en la base de datos de claves no coincide con la clave pública en la base de datos de certificados.
+ssl-error-bad-cert-domain = No se puede comunicar de forma segura con el compañero: el nombre de dominio solicitado no coincide con el certificado del servidor.
 ssl-error-post-warning = Código de error SSL no reconocido.
-ssl-error-ssl2-disabled = Peer only supports SSL version 2, which is locally disabled.
-ssl-error-bad-mac-read = SSL received a record with an incorrect Message Authentication Code.
-ssl-error-bad-mac-alert = SSL peer reports incorrect Message Authentication Code.
-ssl-error-bad-cert-alert = SSL peer cannot verify your certificate.
-ssl-error-revoked-cert-alert = SSL peer rejected your certificate as revoked.
-ssl-error-expired-cert-alert = SSL peer rejected your certificate as expired.
+ssl-error-ssl2-disabled = El compañero solo admite SSL versión 2, que está desactivado localmente.
+ssl-error-bad-mac-read = SSL recibió un registro con un código de autenticación de mensaje incorrecto.
+ssl-error-bad-mac-alert = SSL recibió un registro con un código de autenticación de mensaje incorrecto.
+ssl-error-bad-cert-alert = El par SSL no puede verificar su certificado.
+ssl-error-revoked-cert-alert = El par SSL rechazó su certificado como revocado.
+ssl-error-expired-cert-alert = El otro extremo de la conexión SSL rechazó su certificado por considerarlo vencido.
 ssl-error-ssl-disabled = No se puede conectar: SSL está deshabilitado.
-ssl-error-fortezza-pqg = Cannot connect: SSL peer is in another FORTEZZA domain.
-ssl-error-unknown-cipher-suite = An unknown SSL cipher suite has been requested.
+ssl-error-fortezza-pqg = No se puede conectar: el par SSL está en otro dominio FORTEZZA.
+ssl-error-unknown-cipher-suite = Se soolicitó un conjunto de cifrado SSL desconocido.
 ssl-error-no-ciphers-supported = No cipher suites are present and enabled in this program.
 ssl-error-bad-block-padding = SSL received a record with bad block padding.
 ssl-error-rx-record-too-long = SSL received a record that exceeded the maximum permissible length.
