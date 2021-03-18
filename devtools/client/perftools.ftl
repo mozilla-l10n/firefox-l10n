@@ -8,6 +8,9 @@
 ### file that are used for the profiler popup.
 
 perftools-intro-title = Pengaturan Profiler
+perftools-intro-description =
+    Perekaman akan membuka profiler.firefox.com di tab baru. Semua data disimpan
+    secara lokal, tetapi Anda bisa memilih untuk mengunggahnya untuk dibagikan.
 
 ## All of the headings for the various sections.
 
@@ -22,6 +25,9 @@ perftools-heading-local-build = Build lokal
 
 ##
 
+perftools-description-intro =
+    Perekaman akan membuka <a>profiler.firefox.com</a> di tab baru. Semua data disimpan
+    secara lokal, tetapi Anda bisa memilih untuk mengunggahnya untuk dibagikan.
 
 ## The controls for the interval at which the profiler samples the code.
 
