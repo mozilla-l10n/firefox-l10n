@@ -292,6 +292,8 @@ identity-passive-loaded = Źěle toś togo boka njejsu wěste (na pśikład wobr
 identity-active-loaded = Sćo šćit na toś tom boku znjemóžnił.
 identity-weak-encryption = Toś ten bok wužywa słabe koděrowanje.
 identity-insecure-login-forms = Pśizjawjenja, kótarež zapódawaju se na toś tom boku, by mógli wobgrozone byś.
+identity-permissions =
+    .value = Pšawa
 identity-https-only-connection-upgraded = (na HTTPS zaktualizěrowany)
 identity-https-only-label = Modus jano-HTTPS
 identity-https-only-dropdown-on =
@@ -303,8 +305,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Zmóžniśo modus Jano-HTTPS, jolic cośo, až { -brand-short-name } zwisk aktualizěrujo, jolic móžno.
 identity-https-only-info-turn-off2 = Jolic se zda, až bok jo wobškóźony, cośo snaź  modus Jano-HTTPS za toś to sedło znjemóžniś. aby zasej njewěsty HTTP wužywał.
 identity-https-only-info-no-upgrade = Zwisk njedajo se z HTTP aktualizěrowaś.
-identity-permissions =
-    .value = Pšawa
 identity-permissions-storage-access-header = Cookieje někotarych sedłow
 identity-permissions-storage-access-hint = Toś te wobźělone mógu cookieje a sedłowe daty někotarych sedłow wužywaś, mjaztym až sćo na toś tom sedle.
 identity-permissions-reload-hint = Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.
@@ -352,8 +352,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Wótgrawanje
-browser-tab-audio-muted = Zuk wušaltowany
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = GRAJO SE
 # This label should be written in all capital letters if your locale supports them.
@@ -362,6 +360,19 @@ browser-tab-audio-muted2 = NIMY
 browser-tab-audio-blocked = AWTOMATISKE WÓTGRAŚE ZABLOKĚROWANE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = WOBRAZ-WE-WOBRAZU
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-unblock =
+    { $count ->
+        [1] REJTARIK WÓTGRAŚ
+        [one] { $count } REJTARIK WÓTGRAŚ
+        [two] { $count } REJTARIKA WÓTGRAŚ
+        [few] { $count } REJTARIKI WÓTGRAŚ
+       *[other] { $count } REJTARIKOW WÓTGRAŚ
+    }
 
 ## Bookmarks toolbar items
 
@@ -554,8 +565,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Wše cytańske znamjenja pokazaś
-bookmarks-recent-bookmarks =
-    .value = Tuchylu ako cytańske znamje składowane
 bookmarks-manage-bookmarks =
     .label = Cytańske znamjenja zastojaś
 bookmarks-recent-bookmarks-panel =
@@ -576,12 +585,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Bocnicu cytańskich znamjenjow schowaś
            *[other] Bocnicu cytańskich znamjenjow pokazaś
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Rědku cytańskich znamjenjow schowaś
-           *[other] Rědku cytańskich znamjenjow pokazaś
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -628,10 +631,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Cytańske znamjenja
-library-bookmarks-bookmark-this-page =
-    .label = Toś ten bok ako cytańske znamje składowaś
-library-bookmarks-bookmark-edit =
-    .label = Toś to cytańske znamje wobźěłaś
 library-recent-activity-title =
     .value = Nejnowša aktiwita
 
