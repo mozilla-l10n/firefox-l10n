@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tvarkyti priemonių juostą…
+appmenu-taskmanager =
+    .label = Užduočių tvarkytuvė
 appmenu-developer-tools-subheader = Naršyklės įrankiai
