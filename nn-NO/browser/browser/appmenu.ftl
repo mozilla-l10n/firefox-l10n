@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Feilsøking
     .accesskey = e
+appmenu-help-taskmanager =
+    .label = Aktivitetshandterar
 appmenu-help-more-troubleshooting-info =
     .label = Meir feilsøkingsinformasjon
     .accesskey = M
-appmenu-help-taskmanager =
-    .label = Aktivitetshandterar
 appmenu-help-report-site-issue =
     .label = Rapporter problem med nettstad…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Feilsøkingsmodus
-    .accesskey = F
 appmenu-help-exit-troubleshoot-mode =
     .label = Slå av feilsøkingsmodus
     .accesskey = S
