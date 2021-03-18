@@ -137,11 +137,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informacija problemų sprendimui
     .accesskey = r
+appmenu-help-taskmanager =
+    .label = Užduočių tvarkytuvė
 appmenu-help-more-troubleshooting-info =
     .label = Daugiau informacijos problemų sprendimui
     .accesskey = p
-appmenu-help-taskmanager =
-    .label = Užduočių tvarkytuvė
 appmenu-help-report-site-issue =
     .label = Pranešti apie svetainės problemą…
 appmenu-help-feedback-page =
@@ -161,9 +161,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Problemų sprendimo veiksena
-    .accesskey = m
 appmenu-help-exit-troubleshoot-mode =
     .label = Išjungti problemų sprendimo veikseną
     .accesskey = m
