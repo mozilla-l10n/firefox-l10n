@@ -288,6 +288,8 @@ identity-passive-loaded = Des éléments de la page ne sont pas sécurisés (tel
 identity-active-loaded = Vous avez désactivé la protection sur cette page.
 identity-weak-encryption = Cette page utilise un faible niveau de chiffrement.
 identity-insecure-login-forms = Les identifiants saisis sur cette page pourraient être compromis.
+identity-permissions =
+    .value = Permissions
 identity-https-only-connection-upgraded = (surclassé en HTTPS)
 identity-https-only-label = Mode HTTPS uniquement
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Activez le mode « HTTPS uniquement » pour ce site si vous voulez que { -brand-short-name } sécurise la connexion lorsque c’est possible.
 identity-https-only-info-turn-off2 = Si la page ne semble pas fonctionnelle, vous pouvez désactiver le mode « HTTPS uniquement » pour  ce site afin de la recharger en utilisant le protocole non sécurisé HTTP.
 identity-https-only-info-no-upgrade = Impossible de sécuriser la connexion.
-identity-permissions =
-    .value = Permissions
 identity-permissions-storage-access-header = Cookies intersites
 identity-permissions-storage-access-hint = Ces organismes peuvent utiliser des cookies intersites et les données du site tant que vous êtes sur ce site.
 identity-permissions-reload-hint = Vous devrez peut-être actualiser la page pour que les changements prennent effet.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Lecture en cours
-browser-tab-audio-muted = Muet
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = LECTURE EN COURS
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,29 @@ browser-tab-audio-muted2 = MUET
 browser-tab-audio-blocked = LECTURE AUTOMATIQUE BLOQUÉE
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = INCRUSTATION VIDÉO
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] COUPER LE SON DE L’ONGLET
+        [one] COUPER LE SON DE L’ONGLET
+       *[other] COUPER LE SON DE { $count } ONGLETS
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] RÉACTIVER LE SON DE L’ONGLET
+        [one] RÉACTIVER LE SON DE L’ONGLET
+       *[other] RÉACTIVER LE SON DE { $count } ONGLETS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] LANCER LA LECTURE DE L’ONGLET
+        [one] LANCER LA LECTURE DE L’ONGLET
+       *[other] LANCER LA LECTURE DE { $count } ONGLETS
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +571,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Afficher tous les marque-pages
-bookmarks-recent-bookmarks =
-    .value = Marqués récemment
 bookmarks-manage-bookmarks =
     .label = Organiser les marque-pages
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +591,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Masquer le panneau des marque-pages
            *[other] Afficher le panneau des marque-pages
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Masquer la barre personnelle
-           *[other] Afficher la barre personnelle
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +637,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Marque-pages
-library-bookmarks-bookmark-this-page =
-    .label = Marquer cette page
-library-bookmarks-bookmark-edit =
-    .label = Modifier ce marque-page
 library-recent-activity-title =
     .value = Activité récente
 

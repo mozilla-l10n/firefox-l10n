@@ -21,3 +21,5 @@ fxa-signout-dialog =
     .title = Se déconnecter du { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Déconnexion
+fxa-signout-dialog2-button = Déconnexion
+fxa-signout-dialog2-checkbox = Supprimer les données de cet appareil (mots de passe, historique, marque-pages, etc.)
