@@ -134,11 +134,11 @@ appmenu-about =
 appmenu-help-troubleshooting-info =
     .label = معلومات مواجهة الأعطال
     .accesskey = ط
+appmenu-help-taskmanager =
+    .label = مدير المهام
 appmenu-help-more-troubleshooting-info =
     .label = معلومات أكثر عن مواجهة الأعطال
     .accesskey = ه
-appmenu-help-taskmanager =
-    .label = مدير المهام
 appmenu-help-report-site-issue =
     .label = أبلغ عن مشكلة بالموقع…
 appmenu-help-feedback-page =
@@ -158,9 +158,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = وضع مواجهة الأعطال
-    .accesskey = ض
 appmenu-help-exit-troubleshoot-mode =
     .label = عطّل وضع مواجهة الأعطال
     .accesskey = ع
