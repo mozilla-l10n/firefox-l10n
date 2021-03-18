@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ปรับแต่งแถบเครื่องมือ…
+appmenu-taskmanager =
+    .label = ตัวจัดการงาน
 appmenu-developer-tools-subheader = เครื่องมือสำหรับเบราว์เซอร์
