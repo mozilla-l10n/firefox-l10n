@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ツールバーをカスタマイズ...
+appmenu-taskmanager =
+    .label = タスクマネージャー
 appmenu-developer-tools-subheader = ブラウザーツール
