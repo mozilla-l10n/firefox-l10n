@@ -36,5 +36,6 @@
 <!ENTITY itemSessions.label              "Autentiserade sessioner">
 <!ENTITY itemSessions.accesskey          "A">
 
+<!ENTITY itemSessionsS.accesskey         "s">
 
 <!ENTITY sanitizeButton.label            "Rensa personliga data nu">
