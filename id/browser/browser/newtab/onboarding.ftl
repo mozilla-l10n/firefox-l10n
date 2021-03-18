@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = Kecepatan, keamanan, dan privasi se
 onboarding-multistage-set-default-primary-button-label = Jadikan sebagai Peramban Baku
 onboarding-multistage-set-default-secondary-button-label = Jangan sekarang
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Luncurkan <span data-l10n-name="zap">{ -brand-short-name }</span> dengan sekali klik
+onboarding-multistage-pin-default-subtitle = Peramban yang cepat, aman, disertai penjelajahan pribadi untuk Anda berselancar di web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Pilih { -brand-short-name } di bawah Browser web saat pengaturan Anda terbuka
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Ini akan menyematkan { -brand-short-name } ke bilah tugas dan membuka pengaturan
+onboarding-multistage-pin-default-primary-button-label = Jadikan { -brand-short-name } Peramban Utama Saya
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Impor kata sandi, markah, <br/>dan <span data-l10n-name="zap">yang lain</span>
 onboarding-multistage-import-subtitle = Dari peramban lain? Mudah sekali membawa semuanya ke { -brand-short-name }.
