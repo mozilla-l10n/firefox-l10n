@@ -85,3 +85,5 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-taskmanager =
+    .label = কাজ ব্যবস্থাপক
