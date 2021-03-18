@@ -13,6 +13,7 @@ fxa-disconnect-dialog-title = Αποσύνδεση { -brand-product-name };
 fxa-disconnect-dialog-body = Το { -brand-product-name } θα αποσυνδεθεί από το λογαριασμό σας, αλλά δεν θα διαγράψει κανένα δεδομένο περιήγησης σε αυτή τη συσκευή.
 sync-disconnect-dialog-button = Αποσύνδεση
 fxa-signout-dialog-heading = Αποσύνδεση από τον { -fxaccount-brand-name };
+fxa-signout-dialog2-title = Αποσύνδεση από { -fxaccount-brand-name };
 fxa-signout-dialog-body = Τα συγχρονισμένα δεδομένα θα παραμείνουν στον λογαριασμό σας.
 fxa-signout-checkbox =
     .label = Διαγραφή δεδομένων συσκευής (συνδέσεις, κωδικοί πρόσβασης, ιστορικό, σελιδοδείκτες κ.λπ.).
