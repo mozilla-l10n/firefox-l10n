@@ -14,6 +14,7 @@ policy-3rdparty = WebExtension’ların chrome.storage.managed aracılığıyla 
 policy-AppAutoUpdate = Otomatik uygulama güncellemesini aç veya kapat.
 policy-AppUpdateURL = Özel uygulama güncelleme URL’si ayarla.
 policy-Authentication = Destekleyen web siteleri için bütünleşik kimlik doğrulamasını yapılandır.
+policy-BackgroundAppUpdate2 = Arka plan güncelleyicisini aç veya kapat.
 policy-BlockAboutAddons = Eklenti yöneticisine (about:addons) erişimi engelle.
 policy-BlockAboutConfig = about:config sayfasına erişimi engelle.
 policy-BlockAboutProfiles = about:profiles sayfasına erişimi engelle.
