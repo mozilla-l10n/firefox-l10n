@@ -280,6 +280,8 @@ identity-passive-loaded = Bagian dari laman ini tidak aman (misalnya, gambar).
 identity-active-loaded = Anda telah menonaktifkan perlindungan di laman ini.
 identity-weak-encryption = Laman ini menggunakan enkripsi lemah.
 identity-insecure-login-forms = Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.
+identity-permissions =
+    .value = Izin
 identity-https-only-connection-upgraded = (ditingkatkan ke HTTPS)
 identity-https-only-label = Mode Hanya HTTPS
 identity-https-only-dropdown-on =
@@ -291,8 +293,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Nyalakan Mode HTTPS-Only untuk situs ini jika Anda ingin { -brand-short-name } meningkatkan sambungan bila memungkinkan.
 identity-https-only-info-turn-off2 = Jika laman terlihat bermasalah, Anda mungkin ingin menonaktifkan Mode HTTPS-Only lalu memuat ulang situsnya dengan HTTP yang tidak aman.
 identity-https-only-info-no-upgrade = Tidak dapat meningkatkan koneksi dari HTTP.
-identity-permissions =
-    .value = Izin
 identity-permissions-storage-access-header = Kuki lintas situs
 identity-permissions-storage-access-hint = Pihak berikut dapat menggunakan kuki lintas situs dan data situs saat Anda berada di situs ini.
 identity-permissions-reload-hint = Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.
@@ -340,8 +340,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Memutar
-browser-tab-audio-muted = Disenyapkan
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = MEMUTAR
 # This label should be written in all capital letters if your locale supports them.
@@ -350,6 +348,26 @@ browser-tab-audio-muted2 = DISENYAPKAN
 browser-tab-audio-blocked = PUTAR OTOMATIS DIBLOKIR
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = GAMBAR DALAM GAMBAR
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] SENYAPKAN { $count } TAB
+       *[other] S
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] SUARAKAN { $count } TAB
+       *[other] U
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] PUTAR { $count } TAB
+       *[other] P
+    }
 
 ## Bookmarks toolbar items
 
@@ -542,8 +560,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Tampilkan Semua Markah…
-bookmarks-recent-bookmarks =
-    .value = Baru Saja Dibuat Markah
 bookmarks-manage-bookmarks =
     .label = Kelola Markah
 bookmarks-recent-bookmarks-panel =
@@ -564,12 +580,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Sembunyikan Bilah Samping Markah
            *[other] Tampilkan Bilah Samping Markah
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Sembunyikan Bilah Alat Markah
-           *[other] Tampilkan Bilah Alat Markah
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -616,10 +626,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Markah
-library-bookmarks-bookmark-this-page =
-    .label = Markahi Laman ini
-library-bookmarks-bookmark-edit =
-    .label = Edit Markah Ini
 library-recent-activity-title =
     .value = Aktivitas Terkini
 
