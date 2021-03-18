@@ -22,3 +22,4 @@ fxa-signout-dialog =
     .style = min-width: 375px;
     .buttonlabelaccept = Αποσύνδεση
 fxa-signout-dialog2-button = Αποσύνδεση
+fxa-signout-dialog2-checkbox = Διαγραφή δεδομένων συσκευής (κωδικοί πρόσβασης, ιστορικό, σελιδοδείκτες κ.λπ.).
