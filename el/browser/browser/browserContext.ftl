@@ -111,9 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Άνοιγμα συνδέσμου σε νέα θεματική καρτέλα
     .accesskey = κ
-main-context-menu-open-link-container =
-    .label = Άνοιγμα συνδέσμου σε νέα θεματική καρτέλα
-    .accesskey = υ
 main-context-menu-open-link-new-window =
     .label = Άνοιγμα συνδέσμου σε νέο παράθυρο
     .accesskey = δ
@@ -242,6 +239,12 @@ main-context-menu-image-view =
 main-context-menu-video-view =
     .label = Προβολή βίντεο
     .accesskey = β
+main-context-menu-image-view-new-tab =
+    .label = Άνοιγμα εικόνας σε νέα καρτέλα
+    .accesskey = ε
+main-context-menu-video-view-new-tab =
+    .label = Άνοιγμα βίντεο σε νέα καρτέλα
+    .accesskey = σ
 main-context-menu-image-copy =
     .label = Αντιγραφή εικόνας
     .accesskey = γ
@@ -290,6 +293,9 @@ main-context-menu-audio-save-as =
 main-context-menu-video-image-save-as =
     .label = Αποθήκευση στιγμιότυπου ως…
     .accesskey = ς
+main-context-menu-video-take-snapshot =
+    .label = Λήψη στιγμιότυπου…
+    .accesskey = τ
 main-context-menu-video-email =
     .label = Αποστολή βίντεο…
     .accesskey = σ
@@ -319,9 +325,18 @@ main-context-menu-generate-new-password =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Χρήση αποθηκευμένης σύνδεσης
+    .accesskey = υ
+main-context-menu-use-saved-password =
+    .label = Χρήση αποθηκευμένου κωδικού πρόσβασης
+    .accesskey = υ
 
 ##
 
+main-context-menu-suggest-strong-password =
+    .label = Πρόταση ισχυρού κωδικού πρόσβασης…
+    .accesskey = σ
 main-context-menu-manage-logins =
     .label = Διαχείριση συνδέσεων…
     .accesskey = Δ

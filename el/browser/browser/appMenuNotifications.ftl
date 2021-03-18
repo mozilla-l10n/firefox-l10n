@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Εντάξει, το 'πιασα
     .buttonaccesskey = Ε
 appmenu-addon-post-install-message = Διαχειριστείτε τα πρόσθετά σας κάνοντας κλικ στο <image data-l10n-name='addon-install-icon'></image>, στο μενού <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Εντάξει
+    .buttonaccesskey = Ε
 appmenu-addon-post-install-incognito-checkbox =
     .label = Να επιτρέπεται η εκτέλεση αυτής της επέκτασης σε ιδιωτικά παράθυρα
     .accesskey = Ν
