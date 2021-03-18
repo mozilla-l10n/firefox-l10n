@@ -46,4 +46,4 @@
 <!ENTITY ccButton.label                     "Kopie">
 <!ENTITY ccButton.accesskey                 "p">
 <!ENTITY bccButton.label                    "Skrytá kopie">
-<!ENTITY bccButton.accesskey                "S">
+<!ENTITY bccButton.accesskey                "y">
