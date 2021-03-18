@@ -346,7 +346,7 @@
 <!ENTITY archiveMsgCmd.label "Arĥivi">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
-<!ENTITY cancelNewsMsgCmd.label "Rezigni mesaĝon">
+<!ENTITY cancelNewsMsgCmd.label "Malsendi mesaĝon">
 <!ENTITY cancelNewsMsgCmd.accesskey "z">
 <!ENTITY replyMsgCmd.label "Respondi">
 <!ENTITY replyMsgCmd.accesskey "R">
