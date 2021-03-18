@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Web 开发者
     .accesskey = W
+menu-tools-browser-tools =
+    .label = 浏览器工具
+    .accesskey = B
+menu-tools-task-manager =
+    .label = 任务管理器
+    .accesskey = M
 menu-tools-page-source =
     .label = 页面源代码
     .accesskey = o
 menu-tools-page-info =
     .label = 页面信息
     .accesskey = I
+menu-settings =
+    .label = 设置
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -285,13 +298,6 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
-           *[other] n
-        }
-menu-settings =
-    .label = 设置
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = 全部前置
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = 故障排除信息
     .accesskey = T
+menu-help-taskmanager =
+    .label = 任务管理器
 menu-help-more-troubleshooting-info =
     .label = 更多故障排除信息
     .accesskey = T
-menu-help-taskmanager =
-    .label = 任务管理器
 menu-help-report-site-issue =
     .label = 反馈网站问题…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = 重启浏览器并启用附加组件
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = 故障排除模式
+menu-help-enter-troubleshoot-mode2 =
+    .label = 排障模式…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = 关闭故障排除模式
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = 这不是诈骗网站…
     .accesskey = d
-menu-help-check-for-update =
-    .label = 检查更新…
-    .accesskey = C

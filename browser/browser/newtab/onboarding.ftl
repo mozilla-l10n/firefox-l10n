@@ -172,6 +172,7 @@ onboarding-multistage-set-default-header = 将 { -brand-short-name } 设为<span
 onboarding-multistage-set-default-subtitle = 每一次浏览，都有最快速度、安全与隐私保护。
 onboarding-multistage-set-default-primary-button-label = 设为默认
 onboarding-multistage-set-default-secondary-button-label = 暂时不要
+onboarding-multistage-pin-default-primary-button-label = 将 { -brand-short-name } 设为我的主浏览器
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = 导入您的密码、书签和<span data-l10n-name="zap">更多数据</span>
