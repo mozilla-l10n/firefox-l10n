@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Техникалық ақпарат
     .accesskey = а
+appmenu-help-taskmanager =
+    .label = Тапсырмалар басқарушысы
 appmenu-help-more-troubleshooting-info =
     .label = Мәселелерді шешудің көбірек ақпараты
     .accesskey = ш
-appmenu-help-taskmanager =
-    .label = Тапсырмалар басқарушысы
 appmenu-help-report-site-issue =
     .label = Сайт мәселесі жөнінде хабарлау…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Мәселелерді шешу режимі
-    .accesskey = М
 appmenu-help-exit-troubleshoot-mode =
     .label = Мәселелерді шешу режимін сөндіру
     .accesskey = М
