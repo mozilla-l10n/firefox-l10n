@@ -163,6 +163,7 @@ onboarding-multistage-set-default-header = להפוך את { -brand-short-name }
 onboarding-multistage-set-default-subtitle = מהירות, בטיחות ופרטיות בכל פעם שגולשים ברשת.
 onboarding-multistage-set-default-primary-button-label = הגדרה כדפדפן ברירת מחדל
 onboarding-multistage-set-default-secondary-button-label = לא כעת
+onboarding-multistage-pin-default-primary-button-label = להפוך את { -brand-short-name } לדפדפן הראשי שלי
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = ייבוא הססמאות והסימניות שלך, <span data-l10n-name="zap">ועוד</span>
