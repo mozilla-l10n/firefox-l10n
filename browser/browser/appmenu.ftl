@@ -86,3 +86,5 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-taskmanager =
+    .label = កម្មវិធី​គ្រប់គ្រង​ភារកិច្ច
