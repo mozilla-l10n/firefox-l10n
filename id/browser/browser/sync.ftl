@@ -13,7 +13,6 @@ fxa-disconnect-dialog-title = Putuskan { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } akan diputuskan dari akun Anda, tetapi tidak akan menghapus data penjelajahan pada perangkat ini.
 sync-disconnect-dialog-button = Putuskan
 fxa-signout-dialog-heading = Keluar dari { -fxaccount-brand-name }?
-fxa-signout-dialog2-title = Keluar dari { -fxaccount-brand-name(capitalization: "sentence") }?
 fxa-signout-dialog-body = Data yang telah tersinkronisasi akan tetap berada di akun Anda
 fxa-signout-checkbox =
     .label = Hapus data dari perangkat ini (info masuk, sandi, riwayat, markah, dll.).
