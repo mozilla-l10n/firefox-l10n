@@ -5,6 +5,7 @@
 troubleshoot-mode-window =
     .title = Λειτουργία επίλυσης προβλημάτων του { -brand-short-name }
     .style = width: 37em;
+troubleshoot-mode-description2 = Μπορείτε να οριστικοποιήσετε κάποιες ή όλες τις αλλαγές:
 troubleshoot-mode-disable-addons =
     .label = Απενεργοποίηση όλων των προσθέτων
     .accesskey = Α
@@ -14,6 +15,9 @@ troubleshoot-mode-reset-toolbars =
 troubleshoot-mode-change-and-restart =
     .label = Εφαρμογή αλλαγών και επανεκκίνηση
     .accesskey = φ
+troubleshoot-mode-continue =
+    .label = Συνέχεια στη Λειτουργία επίλυσης προβλημάτων
+    .accesskey = Σ
 troubleshoot-mode-quit =
     .label =
         { PLATFORM() ->
