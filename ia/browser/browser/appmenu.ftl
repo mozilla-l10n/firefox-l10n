@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informationes de diagnostico
     .accesskey = I
+appmenu-help-taskmanager =
+    .label = Gestor de activitate
 appmenu-help-more-troubleshooting-info =
     .label = Altere informationes diagnostic
     .accesskey = d
-appmenu-help-taskmanager =
-    .label = Gestor de activitate
 appmenu-help-report-site-issue =
     .label = Reportar un problema con le sito…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Modo diagnostic
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Disactivar le modo diagnostic
     .accesskey = D
