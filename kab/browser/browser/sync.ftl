@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = Ffeɣ seg { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Ffeɣ
+fxa-signout-dialog2-button = Ffeɣ
+fxa-signout-dialog2-checkbox = Kkes isefka seg yibenk-a (awalen uffiren, azray, ticraḍ n yisebtar, atg.)

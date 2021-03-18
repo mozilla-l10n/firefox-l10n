@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Ṭṭef agdil
+screenshot-toolbarbutton =
+    .label = Agdil
+    .tooltiptext = Tuṭṭfa n ugdil
 screenshots-my-shots-button = Tuṭṭfiwin-iw
 screenshots-instructions = Zuγer sakin sit γef af usebter akken ad tferneḍ tamnaṭ. Senned γef ESC akken ad tesfesxeḍ.
 screenshots-cancel-button = Sefsex
