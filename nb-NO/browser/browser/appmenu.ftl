@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tilpass verktøylinje …
+appmenu-taskmanager =
+    .label = Aktivitetsbehandler
 appmenu-developer-tools-subheader = Nettleserverktøy
