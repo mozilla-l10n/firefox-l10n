@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+troubleshoot-mode-window =
+    .title = Λειτουργία επίλυσης προβλημάτων του { -brand-short-name }
+    .style = width: 37em;
 troubleshoot-mode-disable-addons =
     .label = Απενεργοποίηση όλων των προσθέτων
     .accesskey = Α

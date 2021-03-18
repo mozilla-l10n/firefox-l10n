@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Κωδικοποίηση κειμένου
     .accesskey = κ
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Λειτουργία επίλυσης προβλημάτων…
+    .accesskey = Λ
+menu-help-exit-troubleshoot-mode =
+    .label = Απενεργοποίηση λειτουργίας επίλυσης προβλημάτων
+    .accesskey = Α
+menu-help-more-troubleshooting-info =
+    .label = Περισσότερες πληροφορίες επίλυσης προβλημάτων
+    .accesskey = Π
+
 ## Mail Toolbar
 
 toolbar-junk-button =
