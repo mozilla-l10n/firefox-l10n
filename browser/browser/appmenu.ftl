@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = …ਟੂਲਬਾਰ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+appmenu-taskmanager =
+    .label = ਟਾਸਕ ਮੈਨੇਜਰ
 appmenu-developer-tools-subheader = ਬਰਾਊਜ਼ਰ ਟੂਲ
