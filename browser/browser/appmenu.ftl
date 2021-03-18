@@ -137,11 +137,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
+appmenu-help-taskmanager =
+    .label = Görev yöneticisi
 appmenu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = S
-appmenu-help-taskmanager =
-    .label = Görev yöneticisi
 appmenu-help-report-site-issue =
     .label = Siteyle ilgili sorun bildir…
 appmenu-help-feedback-page =
@@ -161,9 +161,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Sorun giderme modu
-    .accesskey = m
 appmenu-help-exit-troubleshoot-mode =
     .label = Sorun giderme modunu kapat
     .accesskey = m
@@ -182,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Araç çubuğunu özelleştir…
+appmenu-taskmanager =
+    .label = Görev yöneticisi
 appmenu-developer-tools-subheader = Tarayıcı araçları
