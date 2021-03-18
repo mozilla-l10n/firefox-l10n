@@ -173,4 +173,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Muokkaa työkalupalkkia…
+appmenu-taskmanager =
+    .label = Tehtävienhallinta
 appmenu-developer-tools-subheader = Browser Tools
