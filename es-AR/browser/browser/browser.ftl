@@ -349,7 +349,7 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = JUGANDO
+browser-tab-audio-playing2 = REPRODUCIENDO
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = MUDO
 # This label should be written in all capital letters if your locale supports them.
