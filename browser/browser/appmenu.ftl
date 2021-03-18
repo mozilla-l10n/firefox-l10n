@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის მონაცემები
     .accesskey = ფ
+appmenu-help-taskmanager =
+    .label = ამოცანათა მმართველი
 appmenu-help-more-troubleshooting-info =
     .label = ხარვეზის აღმოფხვრის ვრცელი მონაცემები
     .accesskey = ფ
-appmenu-help-taskmanager =
-    .label = ამოცანათა მმართველი
 appmenu-help-report-site-issue =
     .label = საიტის ხარვეზის მოხსენება…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = ხარვეზის აღმოფხვრის რეჟიმი
-    .accesskey = ჟ
 appmenu-help-exit-troubleshoot-mode =
     .label = ხარვეზის აღმოფხვრის რეჟიმის გამორთვა
     .accesskey = ჟ
@@ -184,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ხელსაწყოთა ზოლის მორგება...
+appmenu-taskmanager =
+    .label = ამოცანათა მმართველი
 appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
