@@ -161,4 +161,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Pertsonalizatu tresna-barra…
+appmenu-taskmanager =
+    .label = Ataza-kudeatzailea
 appmenu-developer-tools-subheader = Nabigatzailearen tresnak
