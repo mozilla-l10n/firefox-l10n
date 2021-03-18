@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = 隨時上網都有最快速度、�
 onboarding-multistage-set-default-primary-button-label = 設為預設瀏覽器
 onboarding-multistage-set-default-secondary-button-label = 現在不要
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = 滑鼠輕鬆點擊幾下，即可開始使用 <span data-l10n-name="zap">{ -brand-short-name }</span>
+onboarding-multistage-pin-default-subtitle = 每次上網時，都能保持快速、安全又有隱私的瀏覽體驗。
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = 開啟設定畫面後，在「網頁瀏覽器」下選擇 { -brand-short-name }
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = 將把 { -brand-short-name } 釘選到工具列並開啟設定畫面
+onboarding-multistage-pin-default-primary-button-label = 將 { -brand-short-name } 設為我的預設瀏覽器
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = 匯入您的密碼、書籤與<span data-l10n-name="zap">更多資料</span>
 onboarding-multistage-import-subtitle = 從其他瀏覽器過來使用？很簡單就能把所有東西都帶來 { -brand-short-name }。
