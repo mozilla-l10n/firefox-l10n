@@ -78,7 +78,7 @@
 <!ENTITY localFolderPicker.label "Selige directorio local">
 <!ENTITY browseFolder.label "Percurrer…">
 <!ENTITY browseFolder.accesskey "P">
-<!ENTITY browseNewsrc.label "Foliettar…">
+<!ENTITY browseNewsrc.label "Percurrer…">
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Parametros de contos">
