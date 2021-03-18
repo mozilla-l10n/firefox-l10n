@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Εισαγωγή από αρχείο:
 calendar-ics-file-dialog-calendar-menu-label = Εισαγωγή στο ημερολόγιο:
 calendar-ics-file-dialog-items-loading-message =
     .value = Φόρτωση στοιχείων…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Φιλτράρισμα στοιχείων…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Ταξινόμηση κατά ημερομηνία έναρξης (πρώτο προς τελευταίο)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Ταξινόμηση κατά ημερομηνία έναρξης (τελευταίο προς πρώτο)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Ταξινόμηση κατά τίτλο (Α > Ω)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Ταξινόμηση κατά τίτλο (Ω > Α)
 calendar-ics-file-dialog-progress-message = Εισαγωγή…
 calendar-ics-file-import-success = Επιτυχής εισαγωγή!
 calendar-ics-file-import-error = Προέκυψε σφάλμα και η εισαγωγή απέτυχε.
