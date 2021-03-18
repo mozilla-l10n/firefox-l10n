@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY NoAppFound.label      "Nulle application esseva trovate pro iste typo de file.">
-<!ENTITY BrowseButton.label    "Perquirer…">
+<!ENTITY BrowseButton.label    "Percurrer…">
 <!ENTITY SendMsg.label         "Inviar iste elemento a:">

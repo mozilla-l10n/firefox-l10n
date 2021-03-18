@@ -50,7 +50,7 @@ load-device-filename =
     .value = Nomine de file del modulo
     .accesskey = f
 load-device-browse =
-    .label = Perquirer…
+    .label = Percurrer…
     .accesskey = P
 
 ## Token Manager

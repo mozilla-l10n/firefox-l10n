@@ -20,7 +20,7 @@
 
 <!ENTITY  chooseHandlerMac.label      "Eliger…">
 <!ENTITY  chooseHandlerMac.accesskey  "E">
-<!ENTITY  chooseHandler.label         "Perquirer…">
+<!ENTITY  chooseHandler.label         "Percurrer…">
 <!ENTITY  chooseHandler.accesskey     "P">
 
 <!ENTITY  unknownPromptText.label     "Desira tu salvar iste file?">

@@ -10,13 +10,13 @@ elevation-details-link-label =
 elevation-error-manual =
     Tu pote actualisar { -brand-short-name } manualmente visitante iste ligamine
     e discargante le ultime version:
-elevation-finished-page = Actualisation preste a installar
+elevation-finished-page = Actualisation preste pro installation
 elevation-finished-background-page =
     Un actualisation de securitate e stabilitate pro { -brand-short-name } ha essite
-    discargate e es preste a installar.
+    discargate e es preste pro installation.
 elevation-finished-background = Actualisar:
 elevation-more-elevated =
-    Iste actualisation necessita privilegios de administrator. Le actualisation essera
-    installate le proxime vice que { -brand-short-name } initia. Tu pote reinitiar
-    { -brand-short-name } ora, continuar laborante e reinitiar plus tarde, o rejectar iste
+    Iste actualisation require privilegios de administrator. Le actualisation essera
+    installate le proxime vice que { -brand-short-name } se initia. Tu pote reinitiar
+    { -brand-short-name } ora, continuar a laborar e reinitiar plus tarde, o rejectar iste
     actualisation.

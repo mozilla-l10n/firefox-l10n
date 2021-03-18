@@ -184,8 +184,8 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> es probabilemente un sito secur, ma un connexion secur non poteva esser establite. Iste problema es causate per <span class='mitm-name'/>, que es o un software in tu computator o tu rete.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si tu programma antivirus ha un function que controla connexiones cryptate (generalmente appellate “scan web” o “scan https”), tenta disactivar iste function. Si isto non resolve le problema, tenta remover e reinstallar le software antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si tu es in un rete corporative, tu pote contactar tu assistentia technic.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, tunc isto pote esser un attacco e tu non deberea sequer al sito.">
-<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, tunc isto pote esser un attacco, e il non ha qualcosa que tu pote facer pro acceder al sito.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, isto pote esser un attacco e tu non deberea continuar al sito.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si tu non cognosce <span class='mitm-name'/>, isto pote esser un attacco, e non es possibile acceder al sito.">
 
 <!ENTITY clockSkewError.longDesc "Tu computator signa que es <span id='wrongSystemTime_systemDate1'/>. isto impedi a &brandShortName; de connecter se con securitate. Pro visitar <span class='hostname'></span>, actualisa le horologio de tu computator al data, tempore e fuso horari currente. Pois refresca <span class='hostname'></span>.">
 
