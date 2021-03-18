@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Prilagodi alatnu traku…
+appmenu-taskmanager =
+    .label = Upravljač zadataka
 appmenu-developer-tools-subheader = Alati preglednika
