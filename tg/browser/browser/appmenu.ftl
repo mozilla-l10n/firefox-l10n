@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Маълумот барои ислоҳи нуқсонҳо
     .accesskey = М
+appmenu-help-taskmanager =
+    .label = Мудири вазифаҳо
 appmenu-help-more-troubleshooting-info =
     .label = Маълумоти бештар оид ба ислоҳи нуқсонҳо
     .accesskey = М
-appmenu-help-taskmanager =
-    .label = Мудири вазифаҳо
 appmenu-help-report-site-issue =
     .label = Гузориш дар бораи мушкилии сомона…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Реҷаи ислоҳи нуқсонҳо
-    .accesskey = Р
 appmenu-help-exit-troubleshoot-mode =
     .label = Хомӯш кардани реҷаи ислоҳи нуқсонҳо
     .accesskey = Х
@@ -184,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Танзимоти навори абзорҳо…
+appmenu-taskmanager =
+    .label = Мудири вазифаҳо
 appmenu-developer-tools-subheader = Абзорҳои браузер
