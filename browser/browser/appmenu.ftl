@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Thông tin xử lý sự cố
     .accesskey = T
+appmenu-help-taskmanager =
+    .label = Quản lý tác vụ
 appmenu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = T
-appmenu-help-taskmanager =
-    .label = Quản lý tác vụ
 appmenu-help-report-site-issue =
     .label = Báo cáo vấn đề về trang…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Chế độ xử lý sự cố
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Tắt chế độ xử lý sự cố
     .accesskey = M
