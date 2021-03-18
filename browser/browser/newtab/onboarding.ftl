@@ -177,6 +177,15 @@ onboarding-multistage-set-default-subtitle = Toute votre navigation rapide, sûr
 onboarding-multistage-set-default-primary-button-label = Le définir par défaut
 onboarding-multistage-set-default-secondary-button-label = Plus tard
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Commencez par rendre <span data-l10n-name="zap">{ -brand-short-name }</span> accessible d’un clic
+onboarding-multistage-pin-default-subtitle = Une navigation rapide, sûre et privée à chaque fois que vous utilisez le Web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Choisissez { -brand-short-name } dans Navigateur Web lorsque vos paramètres s’ouvrent
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Ceci épinglera { -brand-short-name } à la barre des tâches et ouvrira les paramètres
+onboarding-multistage-pin-default-primary-button-label = Faire de { -brand-short-name } mon navigateur principal
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importez vos mots de passe, <br/>marque-pages et <span data-l10n-name="zap">bien plus</span>
 onboarding-multistage-import-subtitle = Vous utilisiez un autre navigateur ? Vous pouvez facilement tout importer dans { -brand-short-name }.

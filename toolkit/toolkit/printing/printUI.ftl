@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Ajuster à la largeur de la page
 printui-scale-pcent = Échelle
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Impression recto verso
-printui-duplex-checkbox = Imprimer en recto verso
 printui-two-sided-printing-off = Désactivée
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Retourner sur le bord long
@@ -57,14 +56,19 @@ printui-margins-default = Par défaut
 printui-margins-min = Minimum
 printui-margins-none = Aucune
 printui-margins-custom-inches = Personnalisées (pouces)
+printui-margins-custom-mm = Personnalisées (mm)
 printui-margins-custom-top = Haut de page
 printui-margins-custom-top-inches = Haut (pouces)
+printui-margins-custom-top-mm = Haut (mm)
 printui-margins-custom-bottom = Bas de page
 printui-margins-custom-bottom-inches = Bas (pouces)
+printui-margins-custom-bottom-mm = Bas (mm)
 printui-margins-custom-left = Gauche
 printui-margins-custom-left-inches = Gauche (pouces)
+printui-margins-custom-left-mm = Gauche (mm)
 printui-margins-custom-right = Droite
 printui-margins-custom-right-inches = Droite (pouces)
+printui-margins-custom-right-mm = Droite (mm)
 printui-system-dialog-link = Imprimer en utilisant la boîte de dialogue système…
 printui-primary-button = Imprimer
 printui-primary-button-save = Enregistrer
