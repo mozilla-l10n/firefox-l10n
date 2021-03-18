@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Webfejlesztő
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Böngészőeszközök
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Feladatkezelő
+    .accesskey = F
 menu-tools-page-source =
     .label = Oldal forrása
     .accesskey = r
 menu-tools-page-info =
     .label = Oldal adatai
     .accesskey = O
+menu-settings =
+    .label = Beállítások
+    .accesskey =
+        { PLATFORM() ->
+            [windows] B
+           *[other] B
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] e
            *[other] e
-        }
-menu-settings =
-    .label = Beállítások
-    .accesskey =
-        { PLATFORM() ->
-            [windows] B
-           *[other] B
         }
 menu-tools-layout-debugger =
     .label = Elrendezési hibakereső
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Előtérbe hozás
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Hibakeresési információ
     .accesskey = H
+menu-help-taskmanager =
+    .label = Feladatkezelő
 menu-help-more-troubleshooting-info =
     .label = Több hibakeresési információ
     .accesskey = T
-menu-help-taskmanager =
-    .label = Feladatkezelő
 menu-help-report-site-issue =
     .label = Hibás webhely bejelentése…
 menu-help-feedback-page =
@@ -362,9 +359,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Újraindítás engedélyezett kiegészítőkkel
     .accesskey = r
-menu-help-enter-troubleshoot-mode =
-    .label = Hibakeresési mód
-    .accesskey = H
+menu-help-enter-troubleshoot-mode2 =
+    .label = Hibaelhárítási mód…
+    .accesskey = m
 menu-help-exit-troubleshoot-mode =
     .label = Hibakeresési mód bekapcsolása
     .accesskey = b
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ez nem félrevezető oldal…
     .accesskey = n
-menu-help-check-for-update =
-    .label = Frissítések keresése…
-    .accesskey = F

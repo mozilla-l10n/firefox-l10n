@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Rendben, értem
     .buttonaccesskey = R
 appmenu-addon-post-install-message = Kezelje kiegészítőit a <image data-l10n-name='addon-install-icon'></image> ikonra kattintva a <image data-l10n-name='addon-menu-icon'></image> menüben.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Rendben
+    .buttonaccesskey = R
 appmenu-addon-post-install-incognito-checkbox =
     .label = A kiegészítő futtatásának engedélyezése privát ablakokban
     .accesskey = e
