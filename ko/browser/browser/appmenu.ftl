@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = 도구 모음 사용자 지정…
+appmenu-taskmanager =
+    .label = 작업 관리자
 appmenu-developer-tools-subheader = 브라우저 도구
