@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = اطلاعات رفع اشکال
     .accesskey = T
+appmenu-help-taskmanager =
+    .label = مدیر وظایف
 appmenu-help-more-troubleshooting-info =
     .label = اطلاعات بیشتر
     .accesskey = T
-appmenu-help-taskmanager =
-    .label = مدیر وظایف
 appmenu-help-report-site-issue =
     .label = مشکل سایت را گزارش کنید…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = حالت عیب‌یابی
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = خاموش کردن حالت عیب‌یابی
     .accesskey = M
