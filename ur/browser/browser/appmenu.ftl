@@ -117,4 +117,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ٹول بار کی تخصیص کریں…
+appmenu-taskmanager =
+    .label = ٹاسک مینیجر
 appmenu-developer-tools-subheader = براؤزر ٹولز
