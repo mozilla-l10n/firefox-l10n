@@ -6,6 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
 <!ENTITY appmenu.tooltip                     "Åpne meny">
+
 <!ENTITY navbarOverflow.label                "Flere verktøy …">
 
 <!-- Tab context menu -->
@@ -42,7 +43,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY fullScreenCmd.label "Fullskjerm">
 
-
 <!ENTITY pictureInPictureHideToggle.label "Skjul bilde-i-bilde-veksleknapp">
 <!ENTITY pictureInPictureHideToggle.accesskey "S">
 
@@ -52,7 +52,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label;-innstillinger">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Koble til en annen enhet…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
-
 <!ENTITY fxa.menu.signin.label "Logg inn på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Slå på &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tjenester">
@@ -102,7 +101,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Startside">
-<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Hjemmeside">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName;-startside">
 
 <!ENTITY bookmarksButton.label          "Bokmerker">
 
@@ -146,6 +145,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY historyUndoWindowMenu.label "Nylig lukkede vinduer">
 
 <!ENTITY appMenuHistory.showAll.label "Vis all historikk">
+
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nylig historikk …">
 <!ENTITY appMenuHistory.restoreSession.label "Gjenopprett forrige programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
@@ -160,6 +160,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Vis mer">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Vis flere faner fra denne enheten">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -222,14 +224,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY emailPageCmd.label           "Send lenke med e-post…">
 
-<!-- Media (video/audio) controls -->
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
-
 <!ENTITY fullZoom.label                 "Skalering">
 
 <!ENTITY sidebarCloseButton.tooltip     "Lukk sidestolpen">
@@ -254,7 +248,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
 <!ENTITY spellAddDictionaries.accesskey "L">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
