@@ -17,6 +17,12 @@ fonts-langgroup-armenian =
     .label = Арманӣ
 fonts-langgroup-bengali =
     .label = Банголӣ
+fonts-langgroup-simpl-chinese =
+    .label = Хитоии оддӣ
+fonts-langgroup-trad-chinese-hk =
+    .label = Хитоии анъанавӣ (Ҳонконг)
+fonts-langgroup-trad-chinese =
+    .label = Хитоии анъанавӣ (Тайван)
 fonts-langgroup-cyrillic =
     .label = Кириллӣ
 fonts-langgroup-devanagari =
@@ -60,9 +66,13 @@ fonts-langgroup-thai =
     .label = Тайӣ
 fonts-langgroup-tibetan =
     .label = Тибетӣ
+fonts-langgroup-canadian =
+    .label = Ҳиҷоии канадии умумӣ
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Мутаносиб
+    .accesskey = М
 fonts-default-serif =
     .label = Барҷаста
 fonts-default-sans-serif =
@@ -81,12 +91,21 @@ fonts-minsize = Андозаи ҳадди аққали ҳарф
     .accesskey = А
 fonts-minsize-none =
     .label = Ҳеҷ
+fonts-allow-own =
+    .label = Ба саҳифаҳои сомонаҳо иҷозат диҳед, то ки онҳо ба ҷойи ҳуруфи интихобкардаи шумо аз ҳуруфи худ истифода баранд
+    .accesskey = Б
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Рамзгузории матн барои саҳифаҳои сомонаҳои куҳна
+fonts-languages-fallback-desc = Рамзгузории матни ҷорӣ дар саҳифаҳои сомонаҳои куҳнае, ки наметавонанд рамзгузории худро муайян кунанд, истифода мешавад.
+fonts-languages-fallback-label = Рамзгузории эҳтиётӣ барои матн
+    .accesskey = Р
+fonts-languages-fallback-name-auto =
+    .label = Пешфарз барои забони ҷорӣ
 fonts-languages-fallback-name-arabic =
     .label = Арабӣ
 fonts-languages-fallback-name-baltic =
@@ -115,3 +134,11 @@ fonts-languages-fallback-name-turkish =
     .label = Туркӣ
 fonts-languages-fallback-name-vietnamese =
     .label = Ветнамӣ
+fonts-languages-fallback-name-other =
+    .label = Дигар (аз ҷумла аврупоии ғарбӣ)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Пешфарз ({ $name })
+fonts-label-default-unnamed =
+    .label = Пешфарз
