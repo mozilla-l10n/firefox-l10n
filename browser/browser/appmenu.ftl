@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Уладкаваць паліцы прылад…
+appmenu-taskmanager =
+    .label = Менеджар задач
 appmenu-developer-tools-subheader = Інструменты браўзера
