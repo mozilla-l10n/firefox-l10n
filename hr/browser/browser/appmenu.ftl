@@ -137,11 +137,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Rješavanje problema
     .accesskey = R
+appmenu-help-taskmanager =
+    .label = Upravljač zadataka
 appmenu-help-more-troubleshooting-info =
     .label = Više informacija za rješavanje problema
     .accesskey = v
-appmenu-help-taskmanager =
-    .label = Upravljač zadataka
 appmenu-help-report-site-issue =
     .label = Prijavi problem sa stranicom …
 appmenu-help-feedback-page =
@@ -161,9 +161,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Način rada za rješavanje problema
-    .accesskey = N
 appmenu-help-exit-troubleshoot-mode =
     .label = Isključi način rada za rješavanje problema
     .accesskey = N
