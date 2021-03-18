@@ -166,4 +166,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Przipasuj posek z noczyniami…
+appmenu-taskmanager =
+    .label = Mynedżer zadań
 appmenu-developer-tools-subheader = Noczynia przeglōndarki
