@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Snimi ekran
+screenshot-toolbarbutton =
+    .label = Snimka ekrana
+    .tooltiptext = Snimi ekran
 screenshots-my-shots-button = Moje snimke
 screenshots-instructions = Povuci ili pritisni na stranicu za odabir područja. Pritisni ESC za prekid.
 screenshots-cancel-button = Otkaži

@@ -370,6 +370,13 @@ browser-tab-mute =
         [few] UTIŠAJ { $count } KARTICE
        *[other] UTIŠAJ { $count } KARTICA
     }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUCIRAJ KARTICU
+        [one] REPRODUCIRAJ { $count } KARTICU
+        [few] REPRODUCIRAJ { $count } KARTICE
+       *[other] REPRODUCIRAJ { $count } KARTICA
+    }
 
 ## Bookmarks toolbar items
 
