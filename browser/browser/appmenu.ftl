@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Symbolleiste anpassen…
+appmenu-taskmanager =
+    .label = Task-Manager
 appmenu-developer-tools-subheader = Browser-Werkzeuge
