@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Disveloppamento web
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Instrumentos de navigator
+    .accesskey = n
+menu-tools-task-manager =
+    .label = Gestor de activitate
+    .accesskey = G
 menu-tools-page-source =
     .label = Codice fonte del pagina
     .accesskey = f
 menu-tools-page-info =
     .label = Informationes del pagina
     .accesskey = I
+menu-settings =
+    .label = Parametros
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] l
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
-        }
-menu-settings =
-    .label = Parametros
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] l
         }
 menu-tools-layout-debugger =
     .label = Depurator de disposition
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Traher toto al avante
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informationes de diagnostico
     .accesskey = I
+menu-help-taskmanager =
+    .label = Gestor de activitate
 menu-help-more-troubleshooting-info =
     .label = Altere informationes diagnostic
     .accesskey = d
-menu-help-taskmanager =
-    .label = Gestor de activitate
 menu-help-report-site-issue =
     .label = Reportar un problema con le sito…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reinitiar con le additivos active
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Modo diagnostic
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modo diagnostic…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Disactivar modo diagnostic
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Iste sito non es fraudulente…
     .accesskey = d
-menu-help-check-for-update =
-    .label = Verificar actualisationes…
-    .accesskey = V

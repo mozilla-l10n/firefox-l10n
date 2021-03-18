@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = OK, io lo comprende
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Gere tu additivos per cliccar sur <image data-l10n-name='addon-install-icon'></image> in le menu <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = OK
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitter que iste extension se executa in fenestras private
     .accesskey = P
