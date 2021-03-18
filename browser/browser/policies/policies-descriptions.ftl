@@ -17,7 +17,7 @@ policy-AppUpdateURL = Imposta URL personalizzato per aggiornamento applicazione.
 
 policy-Authentication = Configura autenticazione integrata per i siti in cui è supportata.
 
-policy-BackgroundAppUpdate = Attiva o disattiva il sistema di aggiornamento in background utilizzato per aggiornare il browser quando non è in esecuzione.
+policy-BackgroundAppUpdate2 = Attiva o disattiva il sistema di aggiornamento in background.
 
 policy-BlockAboutAddons = Blocca accesso al gestore componenti aggiuntivi (about:addons).
 
