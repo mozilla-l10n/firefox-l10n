@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = 請點擊 <image data-l10n-name='addon-menu
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = 好的
     .buttonaccesskey = O
+appmenu-addon-post-install-message2 = 透過應用程式選單管理您的擴充套件與佈景主題。
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允許此擴充套件於隱私瀏覽視窗中執行
     .accesskey = A
