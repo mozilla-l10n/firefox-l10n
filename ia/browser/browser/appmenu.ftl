@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalisar le barra de instrumentos…
+appmenu-taskmanager =
+    .label = Gestor de activitate
 appmenu-developer-tools-subheader = Instrumentos de navigator
