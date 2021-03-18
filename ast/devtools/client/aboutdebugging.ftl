@@ -37,6 +37,8 @@ about-debugging-sidebar-no-devices = Nun se descubrieron preseos
 about-debugging-sidebar-item-connect-button = Conectar
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Conectando…
+# Text displayed in buttons found in sidebar items when the connection failed.
+about-debugging-sidebar-item-connect-button-connection-failed = La conexón falló
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
@@ -57,6 +59,10 @@ about-debugging-refresh-usb-devices-button = Refrescar los preseos
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = Configuración
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Configura'l métodu de conexón col que quies depurar remotamente'l to preséu.
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
@@ -78,10 +84,10 @@ about-debugging-setup-usb-step-enable-debug-firefox2 = Activa la depuración per
 about-debugging-setup-usb-step-plug-device = Conecta'l preséu Android al ordenador.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
-about-debugging-setup-usb-troubleshoot = ¿Tienes problemes pa conectate per USB? <a>ígualos</a>
+about-debugging-setup-usb-troubleshoot = ¿Tienes problemes pa conectate per USB? <a>Ígualos</a>
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
-about-debugging-setup-network-troubleshoot = ¿Tienes problemes pa conectate per rede? <a>ígualos</a>
+about-debugging-setup-network-troubleshoot = ¿Tienes problemes pa conectate per rede? <a>Ígualos</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Amestar
@@ -91,6 +97,13 @@ about-debugging-network-locations-empty-text = Entá nun s'amestaron allugamient
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
 about-debugging-network-locations-host-input-label = Agospiador
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Quitar
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = L'agospiador «{ $host-value }» yá ta rexistráu
 
 # Runtime Page strings
 
