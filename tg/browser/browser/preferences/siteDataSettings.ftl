@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Идоракунии кукиҳо ва иттилооти сомона
 site-data-button-cancel =
     .label = Бекор кардан
     .accesskey = Б
