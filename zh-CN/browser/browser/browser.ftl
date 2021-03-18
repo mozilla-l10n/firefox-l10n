@@ -341,7 +341,7 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = 正在播放
+browser-tab-audio-playing2 = 正在播放声音
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = 静音
 # This label should be written in all capital letters if your locale supports them.
