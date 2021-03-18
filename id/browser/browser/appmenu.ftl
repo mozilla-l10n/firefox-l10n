@@ -137,11 +137,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informasi Pemecahan Masalah…
     .accesskey = M
+appmenu-help-taskmanager =
+    .label = Pengelola Tugas
 appmenu-help-more-troubleshooting-info =
     .label = Informasi Pemecahan Masalah Lebih Lanjut
     .accesskey = I
-appmenu-help-taskmanager =
-    .label = Pengelola Tugas
 appmenu-help-report-site-issue =
     .label = Laporkan Masalah Situs…
 appmenu-help-feedback-page =
@@ -161,9 +161,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Mode Pemecahan Masalah
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Nonaktifkan Mode Pemecahan Masalah
     .accesskey = N
@@ -182,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Ubahsuai Bilah Alat…
+appmenu-taskmanager =
+    .label = Pengelola Tugas
 appmenu-developer-tools-subheader = Alat Peramban
