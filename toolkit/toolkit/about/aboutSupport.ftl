@@ -139,6 +139,7 @@ clear-startup-cache-title = Απαλοιφή προσωρινής μνήμης �
 clear-startup-cache-label = Εκκαθάριση προσωρινής μνήμης εκκίνησης…
 startup-cache-dialog-title = Εκκαθάριση προσωρινής μνήμης εκκίνησης
 startup-cache-dialog-body = Επανεκκινήστε το { -brand-short-name } για να εκκαθαρίσετε την προσωρινή μνήμη εκκίνησης. Αυτό δεν θα αλλάξει τις ρυθμίσεις σας, ούτε θα καταργήσει τις επεκτάσεις που έχετε προσθέσει στο { -brand-short-name }.
+startup-cache-dialog-title2 = Επανεκκίνηση του { -brand-short-name } για απαλοιφή προσωρινής μνήμης εκκίνησης;
 startup-cache-dialog-body2 = Αυτό δεν θα αλλάξει τις ρυθμίσεις σας, ούτε θα αφαιρέσει τις επεκτάσεις σας.
 restart-button-label = Επανεκκίνηση
 
