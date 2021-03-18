@@ -5,23 +5,36 @@
 <!ENTITY sanitizeDialog.title            "Rensa personliga data">
 <!ENTITY sanitizeItems.label             "Rensa ut följande poster nu:">
 
+<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
+    pref-privatedata.dtd. These entities are also used in the private data
+    preferences dialog.
+-->
 <!ENTITY itemHistory.label               "Webbläsarhistorik">
 <!ENTITY itemHistory.accesskey           "W">
+<!ENTITY itemHistoryS.accesskey          "e">
 <!ENTITY itemUrlBar.label                "Adressfältshistorik">
 <!ENTITY itemUrlBar.accesskey            "d">
+<!ENTITY itemUrlBarS.accesskey           "f">
 <!ENTITY itemDownloads.label             "Filhämtningshistorik">
 <!ENTITY itemDownloads.accesskey         "h">
+<!ENTITY itemDownloadsS.accesskey        "i">
 <!ENTITY itemFormSearchHistory.label     "Sparade formulärdata och sökhistorik">
 <!ENTITY itemFormSearchHistory.accesskey "S">
+<!ENTITY itemFormSearchHistoryS.accesskey "p">
 <!ENTITY itemCache.label                 "Cache">
 <!ENTITY itemCache.accesskey             "C">
+<!ENTITY itemCacheS.accesskey            "e">
 <!ENTITY itemCookies.label               "Kakor">
 <!ENTITY itemCookies.accesskey           "K">
+<!ENTITY itemCookiesS.accesskey          "o">
 <!ENTITY itemOfflineApps.label           "Webbplatsdata i nedkopplat läge">
 <!ENTITY itemOfflineApps.accesskey       "b">
+<!ENTITY itemOfflineAppsS.accesskey      "n">
 <!ENTITY itemPasswords.label             "Sparade lösenord">
 <!ENTITY itemPasswords.accesskey         "ö">
+<!ENTITY itemPasswordsS.accesskey        "n">
 <!ENTITY itemSessions.label              "Autentiserade sessioner">
 <!ENTITY itemSessions.accesskey          "A">
+
 
 <!ENTITY sanitizeButton.label            "Rensa personliga data nu">
