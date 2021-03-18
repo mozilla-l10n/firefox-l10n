@@ -154,4 +154,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Прилагоди алатну траку…
+appmenu-taskmanager =
+    .label = Управник задатака
 appmenu-developer-tools-subheader = Алати прегледача
