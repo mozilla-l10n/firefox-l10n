@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Probleemoplossingsinformatie
     .accesskey = P
+appmenu-help-taskmanager =
+    .label = Taakbeheerder
 appmenu-help-more-troubleshooting-info =
     .label = Meer probleemoplossingsinformatie
     .accesskey = p
-appmenu-help-taskmanager =
-    .label = Taakbeheerder
 appmenu-help-report-site-issue =
     .label = Websiteprobleem melden…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Probleemoplossingsmodus
-    .accesskey = m
 appmenu-help-exit-troubleshoot-mode =
     .label = Probleemoplossingsmodus uitschakelen
     .accesskey = m
