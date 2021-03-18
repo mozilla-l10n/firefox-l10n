@@ -365,6 +365,22 @@ browser-tab-audio-pip = WOBRAZ-WE-WOBRAZU
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ZUK REJTARIKA WUŠALTOWAŚ
+        [one] ZUK { $count } REJTARIKA WUŠALTOWAŚ
+        [two] ZUK { $count } REJTARIKOWU WUŠALTOWAŚ
+        [few] ZUK { $count } REJTARIKOW WUŠALTOWAŚ
+       *[other] ZUK { $count } REJTARIKOW WUŠALTOWAŚ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ZUK REJTARIKOW ZAŠALTOWAŚ
+        [one] ZUK { $count } REJTARIKA ZAŠALTOWAŚ
+        [two] ZUK { $count } REJTARIKOWU ZAŠALTOWAŚ
+        [few] ZUK { $count } REJTARIKOW ZAŠALTOWAŚ
+       *[other] ZUK { $count } REJTARIKOW ZAŠALTOWAŚ
+    }
 browser-tab-unblock =
     { $count ->
         [1] REJTARIK WÓTGRAŚ
