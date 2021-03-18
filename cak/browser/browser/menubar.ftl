@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Nuk'unel ajk'amaya'l
     .accesskey = a
+menu-tools-browser-tools =
+    .label = Kisamajib'al Okik'amaya'l
+    .accesskey = O
+menu-tools-task-manager =
+    .label = Kinuk'samajel taq Samaj
+    .accesskey = K
 menu-tools-page-source =
     .label = Runuk' rutz'ib' re ruxaq re'
     .accesskey = n
 menu-tools-page-info =
     .label = Rutzijol rij re jun ruxaq re'
     .accesskey = R
+menu-settings =
+    .label = Taq nuk'ulem
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] m
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] c
            *[other] o
-        }
-menu-settings =
-    .label = Taq nuk'ulem
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] m
         }
 menu-tools-layout-debugger =
     .label = Ruchojmirisanel Wachib'enïk
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Tik'am pe Ronojel Chuwa
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
+menu-help-taskmanager =
+    .label = Kinuk'samajel taq Samaj
 menu-help-more-troubleshooting-info =
     .label = Ch'aqa' Etamab'äl richin yesol taq k'ayewal
     .accesskey = E
-menu-help-taskmanager =
-    .label = Kinuk'samajel taq Samaj
 menu-help-report-site-issue =
     .label = Tiya' rutzijol ri ruk'ayewal Ruxaq K'amaya'l…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Titikirisäx chik rik'in Tzijïl taq Tz'aqat
     .accesskey = T
-menu-help-enter-troubleshoot-mode =
-    .label = Kib'anikil taq k'ayewal
+menu-help-enter-troubleshoot-mode2 =
+    .label = Kib'anikil taq K'ayewal…
     .accesskey = K
 menu-help-exit-troubleshoot-mode =
     .label = Tichup ri Rub'anikil Kiwäch K'ayewal
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Re re' man q'olonel ta chi ruxaq k'amaya'l…
     .accesskey = q
-menu-help-check-for-update =
-    .label = Kenik'öx taq K'exoj…
-    .accesskey = K

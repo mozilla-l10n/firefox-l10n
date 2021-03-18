@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Ke'anuk'samajij ri taq achokoy rik'in napï
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Ütz
     .buttonaccesskey = z
+appmenu-addon-post-install-message2 = Ke'anuk'samajij ri taq ak'amal chuqa' taq wachinel pa kik'utsamaj taq chokoy.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tiya' q'ij chi re k'amal re' nisamäj pan Ichinan Tzuwäch
     .accesskey = T
