@@ -29,17 +29,16 @@ appmenuitem-save-page =
 
 whatsnew-panel-header = Kam ak' at ve'te'
 
+## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
+## performance profiles. To enable it go to profiler.firefox.com and click
+## "Enable Profiler Menu Button".
+
+
+## History panel
+
+
 ## Help panel
 
-appmenu-help-product =
-    .label = Lochb'al tetz { -brand-shorter-name }
-    .accesskey = L
-appmenu-help-show-tour =
-    .label = La xaan axh tu { -brand-shorter-name }
-    .accesskey = L
-appmenu-help-keyboard-shortcuts =
-    .label = Majb'al tetz unq'a itz'ib'b'ale'
-    .accesskey = M
 appmenu-help-troubleshooting-info =
     .label = Yol aq'al uva' la eel isuuchil unq'a vee' yannajle
     .accesskey = Y
@@ -57,6 +56,10 @@ appmenu-help-safe-mode-with-addons =
     .label = Xe'tisa tuk' unq'a tz'ajsab' tetze' uve' jajlu kan kuxhtu'
     .accesskey = X
 
+## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
+## are mutually exclusive, so it's possible to use the same accesskey for both.
+
+
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
@@ -64,5 +67,5 @@ appmenu-help-report-deceptive-site =
     .label = La aalb'en ab'iste yannajle
     .accesskey = L
 
-##
+## More Tools
 
