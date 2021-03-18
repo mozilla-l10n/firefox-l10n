@@ -172,12 +172,15 @@ onboarding-multistage-set-default-header = { -brand-short-name } <span data-l10n
 onboarding-multistage-set-default-subtitle = Her seferinde hızlı, güvenli ve gizli gezinti.
 onboarding-multistage-set-default-primary-button-label = Varsayılan yap
 onboarding-multistage-set-default-secondary-button-label = Daha sonra
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = <span data-l10n-name="zap">{ -brand-short-name }</span> tarayıcınız bir tık kadar yakınınızda
 onboarding-multistage-pin-default-subtitle = Her seferinde hızlı, güvenli ve gizli gezinti.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Ayarlarınız açılınca “Web tarayıcısı” altından { -brand-short-name } seçeneğini seçin
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Bu işlem, { -brand-short-name } tarayıcınızı görev çubuğuna sabitleyecek ve ayarları açacak
-onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } varsayılan tarayıcım olsun
+onboarding-multistage-pin-default-primary-button-label = { -brand-short-name } tarayıcısını varsayılan tarayıcım yap
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Parolalarınızı, yer imlerinizi ve <span data-l10n-name="zap">daha fazlasını</span> içe aktarın
