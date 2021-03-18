@@ -5,23 +5,37 @@
 <!ENTITY sanitizeDialog.title            "Απαλοιφή ιδιωτικών δεδομένων">
 <!ENTITY sanitizeItems.label             "Εκκαθάριση των εξής στοιχείων:">
 
+<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
+    pref-privatedata.dtd. These entities are also used in the private data
+    preferences dialog.
+-->
 <!ENTITY itemHistory.label               "Ιστορικό περιήγησης">
 <!ENTITY itemHistory.accesskey           "π">
+<!ENTITY itemHistoryS.accesskey          "ρ">
 <!ENTITY itemUrlBar.label                "Ιστορικό γραμμής διευθύνσεων">
 <!ENTITY itemUrlBar.accesskey            "Ι">
+<!ENTITY itemUrlBarS.accesskey           "τ">
 <!ENTITY itemDownloads.label             "Ιστορικό λήψεων">
 <!ENTITY itemDownloads.accesskey         "Ι">
+<!ENTITY itemDownloadsS.accesskey        "ψ">
 <!ENTITY itemFormSearchHistory.label     "Αποθηκευμένο ιστορικό αναζήτησης και φορμών">
 <!ENTITY itemFormSearchHistory.accesskey "φ">
+<!ENTITY itemFormSearchHistoryS.accesskey "μ">
 <!ENTITY itemCache.label                 "Προσωρινή μνήμη">
 <!ENTITY itemCache.accesskey             "σ">
+<!ENTITY itemCacheS.accesskey            "ν">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
+<!ENTITY itemCookiesS.accesskey          "k">
 <!ENTITY itemOfflineApps.label           "Δεδομένα ιστοσελίδων εκτός σύνδεσης">
 <!ENTITY itemOfflineApps.accesskey       "Δ">
+<!ENTITY itemOfflineAppsS.accesskey      "κ">
 <!ENTITY itemPasswords.label             "Αποθηκευμένοι κωδικοί πρόσβασης">
 <!ENTITY itemPasswords.accesskey         "κ">
+<!ENTITY itemPasswordsS.accesskey        "θ">
 <!ENTITY itemSessions.label              "Επαληθευμένες συνεδρίες">
 <!ENTITY itemSessions.accesskey          "σ">
+
+<!ENTITY itemSessionsS.accesskey         "δ">
 
 <!ENTITY sanitizeButton.label            "Απαλοιφή ιδιωτικών δεδομένων">
