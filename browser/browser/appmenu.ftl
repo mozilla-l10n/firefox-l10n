@@ -137,11 +137,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informoj por solvado de problemoj
     .accesskey = I
+appmenu-help-taskmanager =
+    .label = Administrilo de taskoj
 appmenu-help-more-troubleshooting-info =
     .label = Pli da problemsolva informo
     .accesskey = p
-appmenu-help-taskmanager =
-    .label = Administrilo de taskoj
 appmenu-help-report-site-issue =
     .label = Raporti problemon kun retejo…
 appmenu-help-feedback-page =
@@ -161,9 +161,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Problemsolva reĝimo
-    .accesskey = r
 appmenu-help-exit-troubleshoot-mode =
     .label = Malŝalti problemsolvan reĝimon
     .accesskey = M
