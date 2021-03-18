@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = 문제 해결 정보…
     .accesskey = T
+appmenu-help-taskmanager =
+    .label = 작업 관리자
 appmenu-help-more-troubleshooting-info =
     .label = 추가 문제 해결 정보
     .accesskey = T
-appmenu-help-taskmanager =
-    .label = 작업 관리자
 appmenu-help-report-site-issue =
     .label = 사이트 문제 보고…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = 문제 해결 모드
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = 문제 해결 모드 끄기
     .accesskey = M
