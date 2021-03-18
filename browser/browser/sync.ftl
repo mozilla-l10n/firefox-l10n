@@ -13,6 +13,7 @@ fxa-disconnect-dialog-title = { -brand-product-name } bağlantısı kesilsin mi?
 fxa-disconnect-dialog-body = { -brand-product-name } hesabınızla bağlantınız kesilecektir ama bu cihazdaki mevcut gezinti verileriniz silinmeyecektir.
 sync-disconnect-dialog-button = Bağlatıyı kes
 fxa-signout-dialog-heading = { -fxaccount-brand-name }ndan çıkılsın mı?
+fxa-signout-dialog2-title = { -fxaccount-brand-name }ndan çıkılsın mı?
 fxa-signout-dialog-body = Eşitlenmiş veriler hesabınızda kalacaktır.
 fxa-signout-checkbox =
     .label = Bu cihazdaki verileri sil (hesaplar, parolalar, gezinti geçmişi, yer imleri vb.)
