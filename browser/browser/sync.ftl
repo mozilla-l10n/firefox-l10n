@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = Выйсці з { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = Выйсці
+fxa-signout-dialog2-button = Выйсці
+fxa-signout-dialog2-checkbox = Выдаліць дадзеныя з гэтай прылады (паролі, гісторыю, закладкі і г.д.)
