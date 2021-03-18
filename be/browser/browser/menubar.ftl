@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Распрацоўшчык Сеціва
     .accesskey = Р
+menu-tools-browser-tools =
+    .label = Інструменты браўзера
+    .accesskey = І
+menu-tools-task-manager =
+    .label = Менеджар задач
+    .accesskey = М
 menu-tools-page-source =
     .label = Зыходны код старонкі
     .accesskey = ы
 menu-tools-page-info =
     .label = Звесткі пра старонку
     .accesskey = З
+menu-settings =
+    .label = Налады
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ы
+           *[other] д
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] Н
            *[other] л
-        }
-menu-settings =
-    .label = Налады
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ы
-           *[other] д
         }
 menu-tools-layout-debugger =
     .label = Адладчык макета
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Выцягнуць усе наперад
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = З
+menu-help-taskmanager =
+    .label = Менеджар задач
 menu-help-more-troubleshooting-info =
     .label = Звесткі для вырашэння праблемаў
     .accesskey = е
-menu-help-taskmanager =
-    .label = Менеджар задач
 menu-help-report-site-issue =
     .label = Паведаміць аб праблеме з сайтам…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Перазапусціць з дадаткамі
     .accesskey = П
-menu-help-enter-troubleshoot-mode =
-    .label = Рэжым вырашэння праблем
+menu-help-enter-troubleshoot-mode2 =
+    .label = Рэжым вырашэння праблем…
     .accesskey = Р
 menu-help-exit-troubleshoot-mode =
     .label = Выключыць рэжым вырашэння праблем
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Гэта не падманлівы сайт…
     .accesskey = в
-menu-help-check-for-update =
-    .label = Праверыць наяўнасць абнаўленняў…
-    .accesskey = с
