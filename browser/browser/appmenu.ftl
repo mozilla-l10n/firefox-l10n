@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G
+appmenu-help-taskmanager =
+    .label = Rheolwr Tasgau
 appmenu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth Datrys Problemau
     .accesskey = D
-appmenu-help-taskmanager =
-    .label = Rheolwr Tasgau
 appmenu-help-report-site-issue =
     .label = Adrodd ar Fater Gwefan…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Y Modd Datrys Problemau
-    .accesskey = P
 appmenu-help-exit-troubleshoot-mode =
     .label = Diffodd y Modd Dartrys Problemau
     .accesskey = D
