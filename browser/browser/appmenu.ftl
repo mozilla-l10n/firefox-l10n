@@ -125,11 +125,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Información pa iguar problemes
     .accesskey = I
+appmenu-help-taskmanager =
+    .label = Xestor de xeres
 appmenu-help-more-troubleshooting-info =
     .label = Más información pa iguar problemes
     .accesskey = a
-appmenu-help-taskmanager =
-    .label = Xestor de xeres
 appmenu-help-report-site-issue =
     .label = Informar d'un fallu del sitiu…
 appmenu-help-feedback-page =
@@ -149,9 +149,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Mou d'iguar problemes
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Desactivar el mou pa iguar problemes
     .accesskey = m
