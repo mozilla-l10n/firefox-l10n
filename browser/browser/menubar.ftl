@@ -250,6 +250,9 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Σύνδεση στο { -brand-product-name }…
     .accesskey = δ
+menu-tools-extensions =
+    .label = Επεκτάσεις και θέματα
+    .accesskey = Ε
 menu-tools-fxa-sign-in2 =
     .label = Σύνδεση
     .accesskey = δ
@@ -265,12 +268,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Προγραμματισμός ιστού
     .accesskey = Π
+menu-tools-browser-tools =
+    .label = Εργαλεία προγράμματος περιήγησης
+    .accesskey = ρ
+menu-tools-task-manager =
+    .label = Διαχείριση εργασιών
+    .accesskey = Δ
 menu-tools-page-source =
     .label = Κώδικας σελίδας
     .accesskey = δ
 menu-tools-page-info =
     .label = Πληροφορίες σελίδας
     .accesskey = λ
+menu-settings =
+    .label = Ρυθμίσεις
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Ρ
+           *[other] θ
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -281,13 +297,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] Ε
            *[other] μ
-        }
-menu-settings =
-    .label = Ρυθμίσεις
-    .accesskey =
-        { PLATFORM() ->
-            [windows] Ρ
-           *[other] θ
         }
 menu-tools-layout-debugger =
     .label = Αποσφαλμάτωση διάταξης
@@ -301,15 +310,6 @@ menu-window-bring-all-to-front =
     .label = Μεταφορά όλων μπροστά
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -341,11 +341,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
+menu-help-taskmanager =
+    .label = Διαχείριση εργασιών
 menu-help-more-troubleshooting-info =
     .label = Περισσότερες πληροφορίες επίλυσης προβλημάτων
     .accesskey = Π
-menu-help-taskmanager =
-    .label = Διαχείριση εργασιών
 menu-help-report-site-issue =
     .label = Αναφορά ζητήματος ιστοσελίδας…
 menu-help-feedback-page =
@@ -357,8 +357,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Επανεκκίνηση με ενεργά πρόσθετα
     .accesskey = π
-menu-help-enter-troubleshoot-mode =
-    .label = Λειτουργία επίλυσης προβλημάτων
+menu-help-enter-troubleshoot-mode2 =
+    .label = Λειτουργία επίλυσης προβλημάτων…
     .accesskey = Λ
 menu-help-exit-troubleshoot-mode =
     .label = Απενεργοποίηση λειτουργίας επίλυσης προβλημάτων
@@ -371,6 +371,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Αυτή δεν είναι παραπλανητική ιστοσελίδα…
     .accesskey = δ
-menu-help-check-for-update =
-    .label = Έλεγχος για ενημερώσεις…
-    .accesskey = Έ
