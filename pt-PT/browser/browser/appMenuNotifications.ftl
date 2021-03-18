@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, entendi
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Gira os seus extras ao clicar em <image data-l10n-name='addon-install-icon'></image> no menu <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = OK
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Faça a gestão das suas extensões e temas através do menu da aplicação.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitir que esta extensão seja executada em janelas privadas
     .accesskey = a
