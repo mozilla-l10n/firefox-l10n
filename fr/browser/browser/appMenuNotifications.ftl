@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = J’ai compris
     .buttonaccesskey = a
 appmenu-addon-post-install-message = Gérez vos modules en cliquant sur <image data-l10n-name='addon-install-icon'></image> dans le menu <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = OK
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Gérez vos extensions et thèmes via le menu de l’application.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Autoriser cette extension à s’exécuter dans une fenêtre de navigation privée
     .accesskey = A
