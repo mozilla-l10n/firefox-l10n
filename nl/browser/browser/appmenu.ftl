@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Werkbalk aanpassen…
+appmenu-taskmanager =
+    .label = Taakbeheerder
 appmenu-developer-tools-subheader = Browserhulpmidelen
