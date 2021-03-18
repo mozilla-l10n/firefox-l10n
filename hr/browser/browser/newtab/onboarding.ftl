@@ -198,8 +198,8 @@ onboarding-welcome-steps-indicator =
     .aria-label = Kako započeti: ekran { $current } od { $total }
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "look" should stay inside the span.
-onboarding-multistage-theme-header = Odaberite <span data-l10n-name="zap">izgled</span>
-onboarding-multistage-theme-subtitle = Prilagodite { -brand-short-name } s temom.
+onboarding-multistage-theme-header = Odaberi <span data-l10n-name="zap">izgled</span>
+onboarding-multistage-theme-subtitle = Prilagodi { -brand-short-name } s temom.
 onboarding-multistage-theme-primary-button-label = Spremi temu
 onboarding-multistage-theme-primary-button-label2 = Gotovo
 onboarding-multistage-theme-secondary-button-label = Ne sada
