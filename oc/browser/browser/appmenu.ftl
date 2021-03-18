@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar la barra d‘aisinas…
+appmenu-taskmanager =
+    .label = Gestionari de tascas
 appmenu-developer-tools-subheader = Aisinas del navegador
