@@ -347,7 +347,6 @@
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key "a">
 <!ENTITY cancelNewsMsgCmd.label "Malsendi mesaĝon">
-<!ENTITY cancelNewsMsgCmd.accesskey "z">
 <!ENTITY replyMsgCmd.label "Respondi">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
