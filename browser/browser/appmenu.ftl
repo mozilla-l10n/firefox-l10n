@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Persunalisar la trav d'utensils…
+appmenu-taskmanager =
+    .label = Task Manager
 appmenu-developer-tools-subheader = Utensils dal navigatur
