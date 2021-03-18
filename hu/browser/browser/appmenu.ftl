@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Hibakeresési információ
     .accesskey = H
+appmenu-help-taskmanager =
+    .label = Feladatkezelő
 appmenu-help-more-troubleshooting-info =
     .label = Több hibakeresési információ
     .accesskey = T
-appmenu-help-taskmanager =
-    .label = Feladatkezelő
 appmenu-help-report-site-issue =
     .label = Hibás webhely bejelentése…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Hibakeresési mód
-    .accesskey = H
 appmenu-help-exit-troubleshoot-mode =
     .label = Hibakeresési mód kikapcsolása
     .accesskey = m
