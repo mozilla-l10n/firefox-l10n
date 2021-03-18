@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Налаштувати панель інструментів…
+appmenu-taskmanager =
+    .label = Менеджер завдань
 appmenu-developer-tools-subheader = Інструменти браузера
