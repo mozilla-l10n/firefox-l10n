@@ -72,3 +72,5 @@ appmenu-help-safe-mode-with-addons =
 
 ## More Tools
 
+appmenu-taskmanager =
+    .label = ལས་འགན་དོ་དམ་པ
