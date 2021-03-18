@@ -124,3 +124,5 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-taskmanager =
+    .label = कार्य प्रबंधक
