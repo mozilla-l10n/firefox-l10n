@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Upraviť panel nástrojov…
+appmenu-taskmanager =
+    .label = Správca úloh
 appmenu-developer-tools-subheader = Nástroje prehliadača
