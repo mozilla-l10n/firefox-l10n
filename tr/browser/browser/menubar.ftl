@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Web geliştirici
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Tarayıcı araçları
+    .accesskey = T
+menu-tools-task-manager =
+    .label = Görev yöneticisi
+    .accesskey = G
 menu-tools-page-source =
     .label = Sayfa kaynağı
     .accesskey = a
 menu-tools-page-info =
     .label = Sayfa bilgileri
     .accesskey = b
+menu-settings =
+    .label = Ayarlar
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] r
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] S
            *[other] T
-        }
-menu-settings =
-    .label = Ayarlar
-    .accesskey =
-        { PLATFORM() ->
-            [windows] A
-           *[other] r
         }
 menu-tools-layout-debugger =
     .label = Düzen hata ayıklayıcısı
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Hepsini ön plana getir
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = b
+menu-help-taskmanager =
+    .label = Görev yöneticisi
 menu-help-more-troubleshooting-info =
     .label = Sorun giderme bilgileri
     .accesskey = S
-menu-help-taskmanager =
-    .label = Görev yöneticisi
 menu-help-report-site-issue =
     .label = Siteyle ilgili sorun bildir…
 menu-help-feedback-page =
@@ -362,9 +359,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Eklentileri etkinleştirip yeniden başlat
     .accesskey = E
-menu-help-enter-troubleshoot-mode =
-    .label = Sorun giderme modu
-    .accesskey = m
+menu-help-enter-troubleshoot-mode2 =
+    .label = Sorun giderme modu…
+    .accesskey = S
 menu-help-exit-troubleshoot-mode =
     .label = Sorun giderme modunu kapat
     .accesskey = m
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Bu site aldatıcı değil…
     .accesskey = d
-menu-help-check-for-update =
-    .label = Güncellemeleri denetle…
-    .accesskey = G
