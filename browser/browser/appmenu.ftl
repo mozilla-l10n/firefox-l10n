@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Anpassa verktygsfältet…
+appmenu-taskmanager =
+    .label = Aktivitetshanterare
 appmenu-developer-tools-subheader = Webbläsarverktyg
