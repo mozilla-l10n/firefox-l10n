@@ -276,6 +276,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = Sideoplysninger
     .accesskey = o
+menu-settings =
+    .label = Indstillinger
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] t
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +293,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] I
            *[other] I
-        }
-menu-settings =
-    .label = Indstillinger
-    .accesskey =
-        { PLATFORM() ->
-            [windows] I
-           *[other] t
         }
 menu-tools-layout-debugger =
     .label = Layout-debugger
@@ -337,11 +337,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Teknisk information…
     .accesskey = T
+menu-help-taskmanager =
+    .label = Jobliste
 menu-help-more-troubleshooting-info =
     .label = Mere teknisk information
     .accesskey = t
-menu-help-taskmanager =
-    .label = Jobliste
 menu-help-report-site-issue =
     .label = Rapportér problem med websted…
 menu-help-feedback-page =
@@ -353,12 +353,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Genstart med tilføjelser aktiveret
     .accesskey = G
-menu-help-enter-troubleshoot-mode =
-    .label = Fejlsøgnings-tilstand
-    .accesskey = F
 menu-help-exit-troubleshoot-mode =
     .label = Slå fejlsøgnings-tilstand fra
-    .accesskey = S
+    .accesskey = f
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
