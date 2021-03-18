@@ -152,4 +152,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalitza la barra d'eines…
+appmenu-taskmanager =
+    .label = Gestor de tasques
 appmenu-developer-tools-subheader = Eines del navegador
