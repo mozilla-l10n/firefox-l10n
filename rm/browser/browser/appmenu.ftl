@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Infurmaziuns per schliar problems
     .accesskey = p
+appmenu-help-taskmanager =
+    .label = Task Manager
 appmenu-help-more-troubleshooting-info =
     .label = Dapli infurmaziuns per schliar problems
     .accesskey = D
-appmenu-help-taskmanager =
-    .label = Task Manager
 appmenu-help-report-site-issue =
     .label = Rapportar in problem cun la pagina…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Modus per schliar problems
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Deactivar il modus per schliar problems
     .accesskey = m
