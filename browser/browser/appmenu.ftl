@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Symbolowu lajstu přiměrić…
+appmenu-taskmanager =
+    .label = Zrjadowak nadawkow
 appmenu-developer-tools-subheader = Graty wobhladowaka
