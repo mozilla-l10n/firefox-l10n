@@ -68,6 +68,8 @@ fonts-langgroup-tibetan =
     .label = Тибетӣ
 fonts-langgroup-canadian =
     .label = Ҳиҷоии канадии умумӣ
+fonts-langgroup-other =
+    .label = Низомҳои хаттии дигар
 
 ## Default fonts and their sizes
 
