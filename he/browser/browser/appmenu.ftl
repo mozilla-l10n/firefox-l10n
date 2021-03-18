@@ -136,11 +136,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = מידע לפתרון בעיות
     .accesskey = מ
+appmenu-help-taskmanager =
+    .label = מנהל משימות
 appmenu-help-more-troubleshooting-info =
     .label = מידע נוסף לפתרון בעיות
     .accesskey = מ
-appmenu-help-taskmanager =
-    .label = מנהל משימות
 appmenu-help-report-site-issue =
     .label = דיווח על בעיה באתר…
 appmenu-help-feedback-page =
@@ -160,9 +160,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = מצב לפתרון בעיות
-    .accesskey = פ
 appmenu-help-exit-troubleshoot-mode =
     .label = כיבוי מצב לפתרון בעיות
     .accesskey = פ
@@ -181,4 +178,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = התאמה אישית של סרגל הכלים…
+appmenu-taskmanager =
+    .label = מנהל משימות
 appmenu-developer-tools-subheader = כלי דפדפן
