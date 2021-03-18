@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Файлдан импорттау:
 calendar-ics-file-dialog-calendar-menu-label = Күнтізбеге импорттау:
 calendar-ics-file-dialog-items-loading-message =
     .value = Нәрселерді жүктеу…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Нәрселерді сүзгілеу…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Басталу күні бойынша сұрыптау (біріншіден соңғыға дейін)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Басталу күні бойынша сұрыптау (соңғысынан біріншіге дейін)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Атауы бойынша сұрыптау (А > Я)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Атауы бойынша сұрыптау (Я > А)
 calendar-ics-file-dialog-progress-message = Импорттау…
 calendar-ics-file-import-success = Сәтті импортталды!
 calendar-ics-file-import-error = Қате орын алды және импорт сәтсіз аяқталды.
