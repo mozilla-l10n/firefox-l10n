@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = 好的，明白了
     .buttonaccesskey = O
 appmenu-addon-post-install-message = 点击 <image data-l10n-name='addon-menu-icon'></image> 菜单中的 <image data-l10n-name='addon-install-icon'></image> 来管理您的附加组件。
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = 好的
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = 通过应用程序菜单管理扩展和主题。
 appmenu-addon-post-install-incognito-checkbox =
     .label = 允许此扩展在隐私窗口中运行
     .accesskey = A
