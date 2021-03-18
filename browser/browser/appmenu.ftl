@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Informacije za rozrisowanje problemow
     .accesskey = I
+appmenu-help-taskmanager =
+    .label = Zrjadowak nadawkow
 appmenu-help-more-troubleshooting-info =
     .label = Dalše informacije za rozrisowanje problemow
     .accesskey = D
-appmenu-help-taskmanager =
-    .label = Zrjadowak nadawkow
 appmenu-help-report-site-issue =
     .label = Sydłowy problem zdźělić…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Modus za rozrisanje problemow
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Modus za rozrisanje problemow znjemóžnić
     .accesskey = M
