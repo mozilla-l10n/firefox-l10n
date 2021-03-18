@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Desenvolvimento web
     .accesskey = w
+menu-tools-browser-tools =
+    .label = Ferramentas do navegador
+    .accesskey = F
+menu-tools-task-manager =
+    .label = Gerenciador de tarefas
+    .accesskey = G
 menu-tools-page-source =
     .label = Código-fonte da página
     .accesskey = f
 menu-tools-page-info =
     .label = Informações da página
     .accesskey = I
+menu-settings =
+    .label = Configurações
+    .accesskey =
+        { PLATFORM() ->
+            [windows] C
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] P
-        }
-menu-settings =
-    .label = Configurações
-    .accesskey =
-        { PLATFORM() ->
-            [windows] C
-           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Depurador de layout
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Trazer todas para frente
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informações para resolver problemas
     .accesskey = I
+menu-help-taskmanager =
+    .label = Gerenciador de tarefas
 menu-help-more-troubleshooting-info =
     .label = Mais informações para resolver problemas
     .accesskey = i
-menu-help-taskmanager =
-    .label = Gerenciador de tarefas
 menu-help-report-site-issue =
     .label = Relatar problema no site…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Reiniciar com extensões ativadas
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Modo de solução de problemas
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modo de solução de problemas…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Desativar modo de solução de problemas
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Este não é um site enganoso…
     .accesskey = E
-menu-help-check-for-update =
-    .label = Verificar se há atualizações…
-    .accesskey = V

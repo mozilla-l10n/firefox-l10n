@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Capturar tela
+screenshot-toolbarbutton =
+    .label = Capturar de tela
+    .tooltiptext = Capturar imagem da tela
 screenshots-my-shots-button = Minhas capturas
 screenshots-instructions = Clique e arraste, ou aponte e clique, para selecionar uma região. Tecle ESC para cancelar.
 screenshots-cancel-button = Cancelar
