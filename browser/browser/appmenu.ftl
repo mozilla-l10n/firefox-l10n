@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = 自訂工具列…
+appmenu-taskmanager =
+    .label = 工作管理員
 appmenu-developer-tools-subheader = 瀏覽器工具
