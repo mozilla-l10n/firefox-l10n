@@ -199,7 +199,7 @@ because displayed names don't have the comma in between. -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Contacto">
 <!ENTITY home.heading                                   "Initio">
-<!ENTITY other.heading                                  "Altero">
+<!ENTITY other.heading                                  "Altere">
 <!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telephono">
 <!ENTITY work.heading                                   "Officio">
