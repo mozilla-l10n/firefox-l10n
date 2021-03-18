@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tilpas værktøjslinje…
+appmenu-taskmanager =
+    .label = Jobliste
 appmenu-developer-tools-subheader = Browser-værktøj
