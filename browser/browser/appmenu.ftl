@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Troubleshooting Information
     .accesskey = T
+appmenu-help-taskmanager =
+    .label = Task Manager
 appmenu-help-more-troubleshooting-info =
     .label = More Troubleshooting Information
     .accesskey = T
-appmenu-help-taskmanager =
-    .label = Task Manager
 appmenu-help-report-site-issue =
     .label = Report Site Issue…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Troubleshoot Mode
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Turn Troubleshoot Mode Off
     .accesskey = M
