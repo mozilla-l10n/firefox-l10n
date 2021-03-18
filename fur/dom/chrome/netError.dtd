@@ -7,26 +7,17 @@
 
 <!-- Specific error messages -->
 
-
 <!ENTITY connectionFailure.title "No si à podût conetisi">
 <!ENTITY connectionFailure.longDesc "<p>Ancje se il sît al samee valit, il sgarfadôr nol è rivât a stabilî une conession.</p><ul><li>Podaressial jessi che il sît al in chest moment no disponbil? Torne a provâ ca di un pôc.</li><li>Rivistu a navigâ in altris sîts? Controle la conession ae rêt dal to ordenadôr.</li><li>Isal il to ordenadôr o rêt protezût di un firewall o di un proxy? Une configurazion sbaliade e podarès interferî cu la navigazion Internet.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Puarte blocade par motîfs di sigurece">
 
-
 <!ENTITY dnsNotFound.title "Indiriç no cjatât">
-<!ENTITY dnsNotFound.longDesc "<p>Il sgarfadôr nol à podût cjatâ il servidôr par cheste direzion.</p> 
-<ul> 
-<li>Astu fat erôrs di digitazion te direzion? (p.e. <q><strong>ww</strong>.esempli.com</q> invezit di <q><strong>www</strong>.esempli.com</q>)</li> 
-<li>Sêstu sigûr che chest domini al esisti?  Po stâi che la sô regjistrazion e sedi scjadude.</li> 
-<li>No rivistu a navigâ in altris sîts?  Verifiche la conession ae rêt e lis impostazions servidôr DNS.</li> 
-<li>Il to computer o la tô rêt sono protezûts di un firewall o di un proxy?  Impostazions sbaliadis a puedin blocâ la navigazion.</li> 
-</ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Il navigadôr nol à podût cjatâ il servidôr che al ospite la direzion indicade.</p><ul><li>Âstu sbaliât di scrivi il domini? (p.e. <q><strong>ww</strong>.mozilla.org</q> invezit di <q><strong>www</strong>.mozilla.org</q>)</li><li>Esistie pardabon la direzion di chest domini?  La sô regjistrazion e podarès jessi scjadude.</li><li>Rivistu a navigâ su altris sîts?  Verifiche la conession ae rêt e lis impostazions dal servidôr DNS.</li><li>Il to computer o la tô rêt sono protezûts di un firewall o di un proxy?  Impostazions sbaliadis a puedin interferî cu la navigazion tal web.</li></ul>">
 
 <!ENTITY fileNotFound.title "File no cjatât">
 <!ENTITY fileNotFound.longDesc "<ul><li>L'ogjet puedial jessi stât eliminât o mot, o i puedial jessi stât cambiât il non?</li> 
 <li>Isal un erôr di ortografie, digitazion, o maiusculis te direzion?</li><li>Astu il permès necessari par acedi al ogjet desiderât?</li></ul>">
-
 
 
 <!ENTITY generic.title "No si pues completâ la richieste.">
@@ -40,7 +31,6 @@
 
 <!ENTITY notCached.title "Document scjadût">
 
-
 <!ENTITY netOffline.title "Mût fûr linie">
 <!ENTITY netOffline.longDesc2 "<p>In chest moment il browser al è in modalitât no in linie e nol pues conetisi al ogjet domandât.</p> 
 <ul><li>L'computer isal conetût a une rêt ative?</li><li>Impueste il browser in modalitât in linie e torne a provâ.</li> 
@@ -52,7 +42,6 @@
 </ul>">
 
 <!ENTITY unsafeContentType.title "Gjenar di file no sigûr">
-
 
 <!ENTITY netReset.title "Conession interote">
 <!ENTITY netReset.longDesc "<p>La conession cu la rêt e je stade fermade dilunc la negoziazion de conession. Par plasê torne a provâ.</p>">
@@ -86,13 +75,10 @@
 
 <!ENTITY nssFailure2.title "Conession sigure falide">
 
-
 <!ENTITY nssBadCert.title "Conession sigure falide">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Chest al pues jessi un probleme cu la configuazion dal servidôr, o al podarès jessi che cualchidun al stedi provant a impersonâ il servidôr.</li> <li>Se in passât la conession a chest servidôr e lave, l'erôr al podarès jessi temporani, e tu puedis provâ di gnûf plui tart.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "O tu puedis zontâ une ecezion…">
-
-
 
 
 
@@ -102,4 +88,5 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
