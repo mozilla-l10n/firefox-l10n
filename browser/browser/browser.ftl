@@ -288,6 +288,8 @@ identity-passive-loaded = Κάποια τμήματα αυτής της σελί
 identity-active-loaded = Έχετε απενεργοποιήσει την προστασία σε αυτή τη σελίδα.
 identity-weak-encryption = Αυτή η σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση.
 identity-insecure-login-forms = Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.
+identity-permissions =
+    .value = Δικαιώματα
 identity-https-only-connection-upgraded = (αναβαθμίστηκε σε HTTPS)
 identity-https-only-label = Λειτουργία Μόνο-HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ενεργοποιήστε τη λειτουργία Μόνο-HTTPS για αυτή την ιστοσελίδα αν θέλετε το { -brand-short-name } να αναβαθμίζει τη σύνδεση όταν είναι δυνατό.
 identity-https-only-info-turn-off2 = Αν η σελίδα φαίνεται προβληματική, δοκιμάστε να απενεργοποιήσετε τη λειτουργία Μόνο-HTTPS για ανανέωση της ιστοσελίδας με το μη ασφαλές HTTP.
 identity-https-only-info-no-upgrade = Δεν είναι δυνατή η αναβάθμιση της σύνδεσης από HTTP.
-identity-permissions =
-    .value = Δικαιώματα
 identity-permissions-storage-access-header = Cookies μεταξύ ιστοσελίδων
 identity-permissions-storage-access-hint = Αυτά τα μέρη μπορούν να χρησιμοποιήσουν cookies μεταξύ ιστοσελίδων και δεδομένα ιστότοπων όσο βρίσκεστε σε αυτή την ιστοσελίδα.
 identity-permissions-reload-hint = Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Σε αναπαραγωγή
-browser-tab-audio-muted = Σε σίγαση
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ΑΝΑΠΑΡΑΓΩΓΗ
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,26 @@ browser-tab-audio-muted2 = ΣΕ ΣΙΓΑΣΗ
 browser-tab-audio-blocked = ΦΡΑΓΗ ΑΥΤΟΜΑΤΗΣ ΑΝΑΠΑΡΑΓΩΓΗΣ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = ΕΙΚΟΝΑ ΕΝΤΟΣ ΕΙΚΟΝΑΣ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] ΣΙΓΑΣΗ ΚΑΡΤΕΛΑΣ
+       *[other] ΣΙΓΑΣΗ { $count } ΚΑΡΤΕΛΩΝ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ΑΡΣΗ ΣΙΓΑΣΗΣ ΚΑΡΤΕΛΑΣ
+       *[other] ΑΡΣΗ ΣΙΓΑΣΗΣ { $count } ΚΑΡΤΕΛΩΝ
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ΑΝΑΠΑΡΑΓΩΓΗ ΚΑΡΤΕΛΑΣ
+       *[other] ΑΝΑΠΑΡΑΓΩΓΗ { $count } ΚΑΡΤΕΛΩΝ
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +568,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Προβολή όλων των σελιδοδεικτών
-bookmarks-recent-bookmarks =
-    .value = Πρόσφατοι σελιδοδείκτες
 bookmarks-manage-bookmarks =
     .label = Διαχείριση σελιδοδεικτών
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +588,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Απόκρυψη στήλης σελιδοδεικτών
            *[other] Προβολή στήλης σελιδοδεικτών
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Απόκρυψη γραμμής σελιδοδεικτών
-           *[other] Προβολή γραμμής σελιδοδεικτών
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +634,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Σελιδοδείκτες
-library-bookmarks-bookmark-this-page =
-    .label = Δημιουργία σελιδοδείκτη
-library-bookmarks-bookmark-edit =
-    .label = Επεξεργασία σελιδοδείκτη
 library-recent-activity-title =
     .value = Πρόσφατη δραστηριότητα
 
@@ -652,3 +658,7 @@ panel-save-update-password = Κωδικός πρόσβασης
 
 ## Add-on removal warning
 
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = Αφαίρεση του { $name };
+addon-removal-abuse-report-checkbox = Αναφορά επέκτασης στη { -vendor-short-name }
