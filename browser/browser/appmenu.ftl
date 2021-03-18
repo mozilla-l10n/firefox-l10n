@@ -139,11 +139,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = Información para solucionar problemas
     .accesskey = b
+appmenu-help-taskmanager =
+    .label = Xestor de tarefas
 appmenu-help-more-troubleshooting-info =
     .label = Máis información para solucionar problemas
     .accesskey = p
-appmenu-help-taskmanager =
-    .label = Xestor de tarefas
 appmenu-help-report-site-issue =
     .label = Informar dunha incidencia no sitio…
 appmenu-help-feedback-page =
@@ -163,9 +163,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = Modo de resolución de problemas
-    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Desactivar o modo de resolución de problemas
     .accesskey = M
@@ -184,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizar a barra de ferramentas…
+appmenu-taskmanager =
+    .label = Xestor de tarefas
 appmenu-developer-tools-subheader = Caixa de ferramentas do navegador
