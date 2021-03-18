@@ -83,7 +83,7 @@ permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o 
 permissions-exceptions-popup-window =
     .title = Sitos web permittite - Fenestras emergente
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Tu pote specificar le sitos web que es permittite a aperir fenestras emergente. Scribe le adresse exacte del sito que tu vole permitter e tunc clicca sur Permitter.
+permissions-exceptions-popup-desc = Tu pote specificar qual sitos web ha le permission de aperir fenestras emergente. Scribe le adresse exacte del sito que tu vole permitter e clicca sur Permitter.
 
 ## Exceptions - Saved Logins
 
@@ -97,7 +97,7 @@ permissions-exceptions-saved-logins-desc = Le authenticationes al sitos web sequ
 permissions-exceptions-addons-window =
     .title = Sitos web permittite - Installation de additivos
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Tu pote specificar que sitos web es permittite de installar additivos. Scribe le adresse exacte del sito que tu vole permitter e tunc clicca sur Permitter.
+permissions-exceptions-addons-desc = Tu pote specificar qual sitos web ha le permission de installar additivos. Scribe le adresse exacte del sito que tu vole permitter e clicca sur Permitter.
 
 ## Site Permissions - Autoplay
 
