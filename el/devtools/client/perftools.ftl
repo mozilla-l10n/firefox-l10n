@@ -54,6 +54,12 @@ perftools-button-edit-settings = Επεξεργασία ρυθμίσεων…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Οι κύριες διεργασίες για τη γονική διεργασία, καθώς και τις διεργασίες περιεχομένου
+perftools-thread-compositor =
+    .title = Συνθέτει διαφορετικά, χρωματισμένα στοιχεία στη σελίδα
+perftools-thread-dom-worker =
+    .title = Αυτό διαχειρίζεται web workers και service workers
 pref-thread-stream-trans =
     .title = Μεταφορά της ροής δικτύου
 perftools-thread-dns-resolver =
