@@ -137,11 +137,11 @@ appmenu-get-help =
 appmenu-help-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหา
     .accesskey = ป
+appmenu-help-taskmanager =
+    .label = ตัวจัดการงาน
 appmenu-help-more-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหาเพิ่มเติม
     .accesskey = ข
-appmenu-help-taskmanager =
-    .label = ตัวจัดการงาน
 appmenu-help-report-site-issue =
     .label = รายงานปัญหาไซต์…
 appmenu-help-feedback-page =
@@ -161,9 +161,6 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
-appmenu-help-enter-troubleshoot-mode =
-    .label = โหมดแก้ไขปัญหา
-    .accesskey = ห
 appmenu-help-exit-troubleshoot-mode =
     .label = ปิดโหมดแก้ไขปัญหา
     .accesskey = ม
