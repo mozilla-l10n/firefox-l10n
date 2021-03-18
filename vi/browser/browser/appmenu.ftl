@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tùy biến thanh công cụ…
+appmenu-taskmanager =
+    .label = Quản lý tác vụ
 appmenu-developer-tools-subheader = Công cụ của trình duyệt
