@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tichinäx Rukajtz'ik Samajib'äl…
+appmenu-taskmanager =
+    .label = Kinuk'samajel taq Samaj
 appmenu-developer-tools-subheader = Rusamajib'al Okik'amaya'l
