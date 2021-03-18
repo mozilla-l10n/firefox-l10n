@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Webwuwiwar
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Graty wobhladowaka
+    .accesskey = G
+menu-tools-task-manager =
+    .label = Zrjadowak nadawkow
+    .accesskey = Z
 menu-tools-page-source =
     .label = Žórłowy tekst strony
     .accesskey = t
 menu-tools-page-info =
     .label = Info wo stronje
     .accesskey = I
+menu-settings =
+    .label = Nastajenja
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] s
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] N
            *[other] N
-        }
-menu-settings =
-    .label = Nastajenja
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] s
         }
 menu-tools-layout-debugger =
     .label = Layout Debugger
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Wšitko do prědka přinjesć
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Informacije za rozrisowanje problemow
     .accesskey = I
+menu-help-taskmanager =
+    .label = Zrjadowak nadawkow
 menu-help-more-troubleshooting-info =
     .label = Dalše informacije za rozrisowanje problemow
     .accesskey = D
-menu-help-taskmanager =
-    .label = Zrjadowak nadawkow
 menu-help-report-site-issue =
     .label = Sydłowy problem zdźělić…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Ze zmóžnjenymi přidatkami znowa startować
     .accesskey = Z
-menu-help-enter-troubleshoot-mode =
-    .label = Modus za rozrisanje problemow
+menu-help-enter-troubleshoot-mode2 =
+    .label = Modus za rozrisowanje problemow…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Modus za rozrisanje problemow znjemóžnić
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = To wobšudne sydło njeje…
     .accesskey = d
-menu-help-check-for-update =
-    .label = Za aktualizacijemi pruwować…
-    .accesskey = Z

@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = W porjadku, sym zrozumił
     .buttonaccesskey = z
 appmenu-addon-post-install-message = Klikńće na <image data-l10n-name='addon-install-icon'></image> w meniju <image data-l10n-name='addon-menu-icon'></image>, zo byšće swoje přidatki rjadował.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = W porjadku
+    .buttonaccesskey = o
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tute rozšěrjenje w priwatnych woknach dowolić
     .accesskey = T
