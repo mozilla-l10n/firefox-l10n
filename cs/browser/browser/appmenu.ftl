@@ -191,4 +191,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Nastavení tlačítek a lišt…
+appmenu-taskmanager =
+    .label = Správce úloh
 appmenu-developer-tools-subheader = Nástroje prohlížeče
