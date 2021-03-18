@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Cyfaddasu'r Bar Offer…
+appmenu-taskmanager =
+    .label = Rheolwr Tasgau
 appmenu-developer-tools-subheader = Offer y Porwr
