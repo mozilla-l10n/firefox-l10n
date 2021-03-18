@@ -179,4 +179,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personecigi ilaron…
+appmenu-taskmanager =
+    .label = Administrilo de taskoj
 appmenu-developer-tools-subheader = Iloj de retumilo
