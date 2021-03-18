@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personnaliser la barre d’outils…
+appmenu-taskmanager =
+    .label = Gestionnaire de tâches
 appmenu-developer-tools-subheader = Outils du navigateur
