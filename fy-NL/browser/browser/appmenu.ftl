@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Arkbalke oanpasse…
+appmenu-taskmanager =
+    .label = Taakbehearder
 appmenu-developer-tools-subheader = Browserhelpmidelen
