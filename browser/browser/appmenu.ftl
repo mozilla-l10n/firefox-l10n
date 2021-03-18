@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Dostosuj pasek narzędzi…
+appmenu-taskmanager =
+    .label = Menedżer zadań
 appmenu-developer-tools-subheader = Narzędzia przeglądarki
