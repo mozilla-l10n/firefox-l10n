@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Prendre una captura d’ecran
+screenshot-toolbarbutton =
+    .label = Captura d’ecran
+    .tooltiptext = Prendre una captura d’ecran
 screenshots-my-shots-button = Mas capturas
 screenshots-instructions = Lisatz o clicatz per la pagina per seleccionar una region. Quichatz ESC per anullar.
 screenshots-cancel-button = Anullar
