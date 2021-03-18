@@ -93,3 +93,5 @@ appmenu-help-not-deceptive =
 
 ## More Tools
 
+appmenu-taskmanager =
+    .label = Sa nikaj ñu'unj nej suun
