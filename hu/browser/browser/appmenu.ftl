@@ -181,4 +181,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Eszköztár testreszabása…
+appmenu-taskmanager =
+    .label = Feladatkezelő
 appmenu-developer-tools-subheader = Böngészőeszközök
