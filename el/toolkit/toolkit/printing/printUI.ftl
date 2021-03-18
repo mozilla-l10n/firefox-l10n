@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Προσαρμογή στο πλάτος σε�
 printui-scale-pcent = Κλίμακα
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Εκτύπωση δύο όψεων
-printui-duplex-checkbox = Εκτύπωση και στις δυο πλευρές
 printui-two-sided-printing-off = Ανενεργό
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Αναστροφή στο μακρύ άκρο
@@ -57,14 +56,19 @@ printui-margins-default = Προεπιλογή
 printui-margins-min = Ελάχιστα
 printui-margins-none = Χωρίς
 printui-margins-custom-inches = Προσαρμογή (ίντσες)
+printui-margins-custom-mm = Προσαρμογή (mm)
 printui-margins-custom-top = Πάνω
 printui-margins-custom-top-inches = Πάνω (ίντσες)
+printui-margins-custom-top-mm = Πάνω (mm)
 printui-margins-custom-bottom = Κάτω
 printui-margins-custom-bottom-inches = Κάτω (ίντσες)
+printui-margins-custom-bottom-mm = Κάτω (mm)
 printui-margins-custom-left = Αριστερά
 printui-margins-custom-left-inches = Αριστερά (ίντσες)
+printui-margins-custom-left-mm = Αριστερά (mm)
 printui-margins-custom-right = Δεξιά
 printui-margins-custom-right-inches = Δεξιά (ίντσες)
+printui-margins-custom-right-mm = Δεξιά (mm)
 printui-system-dialog-link = Εκτύπωση μέσω διαλόγου συστήματος…
 printui-primary-button = Εκτύπωση
 printui-primary-button-save = Αποθήκευση
