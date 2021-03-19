@@ -5,23 +5,37 @@
 <!ENTITY sanitizeDialog.title            "Slett private data">
 <!ENTITY sanitizeItems.label             "Slett disse elementene nå:">
 
+<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
+    pref-privatedata.dtd. These entities are also used in the private data
+    preferences dialog.
+-->
 <!ENTITY itemHistory.label               "Nettleserhistorikk">
 <!ENTITY itemHistory.accesskey           "N">
+<!ENTITY itemHistoryS.accesskey          "e">
 <!ENTITY itemUrlBar.label                "Adresselinjehistorikk">
 <!ENTITY itemUrlBar.accesskey            "r">
+<!ENTITY itemUrlBarS.accesskey           "t">
 <!ENTITY itemDownloads.label             "Nedlastingshistorikk">
 <!ENTITY itemDownloads.accesskey         "d">
+<!ENTITY itemDownloadsS.accesskey        "k">
 <!ENTITY itemFormSearchHistory.label     "Søkehistorikk og lagrede skjemaer">
 <!ENTITY itemFormSearchHistory.accesskey "S">
+<!ENTITY itemFormSearchHistoryS.accesskey "m">
 <!ENTITY itemCache.label                 "Hurtiglager">
 <!ENTITY itemCache.accesskey             "H">
+<!ENTITY itemCacheS.accesskey            "e">
 <!ENTITY itemCookies.label               "Infokapsler">
 <!ENTITY itemCookies.accesskey           "I">
+<!ENTITY itemCookiesS.accesskey          "k">
 <!ENTITY itemOfflineApps.label           "Frakoblet nettsidedata">
 <!ENTITY itemOfflineApps.accesskey       "F">
+<!ENTITY itemOfflineAppsS.accesskey      "i">
 <!ENTITY itemPasswords.label             "Lagrede passord">
 <!ENTITY itemPasswords.accesskey         "L">
+<!ENTITY itemPasswordsS.accesskey        "s">
 <!ENTITY itemSessions.label              "Autentiserte økter">
 <!ENTITY itemSessions.accesskey          "A">
+
+<!ENTITY itemSessionsS.accesskey         "u">
 
 <!ENTITY sanitizeButton.label            "Slett private data nå">
