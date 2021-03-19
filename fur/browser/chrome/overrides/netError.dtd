@@ -28,11 +28,24 @@
 </ul>
 ">
 
-<!ENTITY fileNotFound.longDesc "<ul> <li>Verifiche di vê scrit esat maiusculis e minusculis o di no vê fat altris erôrs cussì.</li> <li>Verifiche che il file nol sedi stât movût, cambiât di non o eliminât.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>Verifiche di vê scrit ben maiusculis e minusculis o di no vê fat altris erôrs di scriture.</li>
+  <li>Verifiche che il file nol seddi stât spostât, cambiât di non o eliminât.</li>
+</ul>
+">
 
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Al podarès jessi stât gjavât, o mot, opûr i permès dal file a podaressin impedî l'acès.</li>
+</ul>
+">
 
-<!ENTITY generic.longDesc "<p>&brandShortName; nol rive a cjamâ cheste pagjine par cualchi motîf.</p>">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; nol rive a cjamâ cheste pagjine par cualchi motîf.</p>
+">
 
+<!ENTITY captivePortal.title "Jentre te rêt">
 
 
 
