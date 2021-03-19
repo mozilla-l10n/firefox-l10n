@@ -42,6 +42,8 @@ newtab-menu-content-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Таҳрир кардан
+newtab-menu-open-new-window = Кушодан дар равзанаи нав
+newtab-menu-open-new-private-window = Кушодан дар равзанаи махфии нав
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -57,6 +59,11 @@ newtab-menu-edit-topsites = Таҳрир кардан
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Намоиш додан дар ҷӯянда
+       *[other] Кушодани ҷузвдони дорои файл
+    }
 newtab-menu-open-file = Кушодани файл
 
 ## Card Labels: These labels are associated to pages to give
