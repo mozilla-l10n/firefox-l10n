@@ -100,6 +100,8 @@ perftools-thread-js-helper =
 ##
 
 perftools-record-all-registered-threads = Lewati pilihan di atas dan rekam semua utas yang terdaftar
+perftools-tools-threads-input-label =
+    .title = Nama utas ini berupa daftar yang dipisahkan karakter koma, yang akan digunakan untuk mengaktifkan profiling utas pada profiler. Pencocokan nama juga akan dilakukan secara bagian, tidak secara lengkap pada utas yang disertakan. Karakter spasi pada nama berpengaruh.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
