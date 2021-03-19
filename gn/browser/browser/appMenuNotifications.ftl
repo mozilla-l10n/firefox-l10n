@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Eñangareko ne rembipuru’i eikutúvo <ima
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Moneĩ
     .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Eñangareko ne moĩmbaha ha téma tembipuru’i poravorã rupive.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Emoneĩ ko jepysokue oñembohekóvo Windows ñemiguápe
     .accesskey = A
