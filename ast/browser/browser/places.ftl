@@ -110,3 +110,6 @@ places-remove-bookmark =
            *[other] Quitar los marcadores
         }
     .accesskey = Q
+places-manage-bookmarks =
+    .label = Xestionar los marcadores
+    .accesskey = X
