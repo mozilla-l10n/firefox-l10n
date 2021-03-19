@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Nhà phát triển Web
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Công cụ trình duyệt
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Trình quản lý tác vụ
+    .accesskey = M
 menu-tools-page-source =
     .label = Mở mã nguồn trang
     .accesskey = o
 menu-tools-page-info =
     .label = Thông tin về trang này
     .accesskey = I
+menu-settings =
+    .label = Cài đặt
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -285,13 +298,6 @@ menu-preferences =
     .accesskey =
         { PLATFORM() ->
             [windows] O
-           *[other] n
-        }
-menu-settings =
-    .label = Cài đặt
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
            *[other] n
         }
 menu-tools-layout-debugger =
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Đưa tất cả ra phía trước
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Thông tin xử lý sự cố
     .accesskey = T
+menu-help-taskmanager =
+    .label = Quản lý tác vụ
 menu-help-more-troubleshooting-info =
     .label = Thông tin xử lý sự cố khác
     .accesskey = T
-menu-help-taskmanager =
-    .label = Quản lý tác vụ
 menu-help-report-site-issue =
     .label = Báo cáo vấn đề về trang…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Khởi động lại và kích hoạt các tiện ích
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Chế độ xử lý sự cố
+menu-help-enter-troubleshoot-mode2 =
+    .label = Chế độ xử lý sự cố…
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Tắt chế độ xử lý sự cố
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Đây không phải là một trang lừa đảo…
     .accesskey = d
-menu-help-check-for-update =
-    .label = Kiểm tra cập nhật…
-    .accesskey = C

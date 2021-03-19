@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = Tốc độ, an toàn và quyền r
 onboarding-multistage-set-default-primary-button-label = Đặt làm mặc định
 onboarding-multistage-set-default-secondary-button-label = Không phải bây giờ
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Bắt đầu sử dụng <span data-l10n-name="zap">{ -brand-short-name }</span> sau vài cú nhấp chuột
+onboarding-multistage-pin-default-subtitle = Duyệt web nhanh chóng, an toàn và riêng tư mỗi khi bạn sử dụng web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Chọn { -brand-short-name } trong trình duyệt Web khi cài đặt của bạn mở ra
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Thao tác này sẽ ghim { -brand-short-name } vào thanh tác vụ và mở cài đặt
+onboarding-multistage-pin-default-primary-button-label = Đặt { -brand-short-name } làm trình duyệt chính của tôi
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Nhập mật khẩu, dấu trang và <span data-l10n-name="zap">hơn thế nữa</span>
 onboarding-multistage-import-subtitle = Đã sử dụng một trình duyệt khác? Rất dễ dàng để mang mọi thứ đến { -brand-short-name }.

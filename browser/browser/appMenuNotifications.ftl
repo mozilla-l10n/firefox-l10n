@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = OK, đã hiểu
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Quản lý tiện ích của bạn bằng cách nhấp vào <image data-l10n-name='addon-install-icon'></image> trong trình đơn <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Okay
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Quản lý các tiện ích mở rộng và chủ đề của bạn thông qua menu ứng dụng.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Cho phép tiện ích mở rộng này chạy trong cửa sổ riêng tư
     .accesskey = A
