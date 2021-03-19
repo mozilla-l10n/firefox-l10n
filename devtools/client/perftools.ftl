@@ -16,6 +16,9 @@ perftools-intro-description =
 
 perftools-heading-settings = Поўныя налады
 perftools-heading-buffer = Налады буфера
+perftools-heading-features = Магчымасці
+perftools-heading-features-default = Магчымасці (рэкамендаваныя да ўключэння)
+perftools-heading-features-disabled = Адключаныя магчымасці
 perftools-heading-threads = Патокі
 perftools-heading-local-build = Лакальная зборка
 
@@ -61,6 +64,8 @@ perftools-button-capture-recording = Захапіць запіс
 perftools-button-cancel-recording = Скасаваць запiс
 perftools-button-save-settings = Захаваць налады і вярнуцца назад
 perftools-button-restart = Перазапусціць
+perftools-button-add-directory = Дадаць каталог
+perftools-button-remove-directory = Выдаліць абранае
 perftools-button-edit-settings = Змянiць налады...
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
@@ -68,6 +73,7 @@ perftools-button-edit-settings = Змянiць налады...
 
 ##
 
+perftools-record-all-registered-threads = Iгнараваць абранае вышэй і запісваць усе зарэгістраваныя патокі
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## both devtools.performance.new-panel-onboarding & devtools.performance.new-panel-enabled
