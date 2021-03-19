@@ -99,6 +99,18 @@ move-tabs =
 move-tab =
     .label = انقل اللسان
     .accesskey = ق
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] أعِد فتح اللسان المغلق
+            [zero] أعِد فتح اللسان المغلق
+            [one] أعِد فتح اللسان المغلق
+            [two] أعِد فتح اللسانين المغلقين
+            [few] أعِد فتح الألسنة المغلقة
+            [many] أعِد فتح الألسنة المغلقة
+           *[other] أعِد فتح الألسنة المغلقة
+        }
+    .accesskey = ع
 tab-context-close-tabs =
     .label =
         { $tabCount ->
