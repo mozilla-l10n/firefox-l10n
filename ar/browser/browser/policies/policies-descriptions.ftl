@@ -14,6 +14,7 @@ policy-3rdparty = ضبط السياسات التي يمكن لامتدادات �
 policy-AppAutoUpdate = تفعيل/تعطيل تحديث التطبيق تلقائيًا.
 policy-AppUpdateURL = ضبط مسار التحديث المخصّص للتطبيق.
 policy-Authentication = ضبط الاستيثاق المتكامل مع المواقع التي تدعمه.
+policy-BackgroundAppUpdate2 = تفعيل/تعطيل أداة التحديث في الخلفية.
 policy-BlockAboutAddons = منع الوصول إلى مدير الإضافات (about:addons).
 policy-BlockAboutConfig = منع الوصول إلى صفحة about:config.
 policy-BlockAboutProfiles = منع الوصول إلى صفحة about:profiles.
