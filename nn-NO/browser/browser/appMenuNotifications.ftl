@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, eg forstår
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Administrer tillegga dine ved å klikke på <image data-l10n-name='addon-install-icon'></image> i <image data-l10n-name='addon-menu-icon'></image> menyen.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = OK
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillat denne utvidinga å kløyre i private vindauge
     .accesskey = T
