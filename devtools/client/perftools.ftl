@@ -65,10 +65,16 @@ perftools-button-edit-settings = Ayarları düzenle…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Hem üst işlem hem de içerik işlemleri için ana işlemler
+perftools-thread-dom-worker =
+    .title = Bu, hem web worker’ları hem de service worker’ları işler
 perftools-thread-renderer =
     .title = WebRender etkinleştirildiğinde OpenGL çağrılarını yürüten iş parçacığı
 perftools-thread-render-backend =
     .title = WebRender RenderBackend iş parçacığı
+pref-thread-stream-trans =
+    .title = Ağ akışı aktarımı
 perftools-thread-img-decoder =
     .title = Görüntü çözme iş parçacıkları
 perftools-thread-dns-resolver =
