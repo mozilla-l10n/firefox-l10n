@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, chapì
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Administrescha tes supplements cun cliccar sin <image data-l10n-name='addon-install-icon'></image> en il menu <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = OK
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Administrescha tias extensiuns e tes designs via il menu da l'applicaziun.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permetter a questa extensiun dad esser activa en fanestras privatas
     .accesskey = a
