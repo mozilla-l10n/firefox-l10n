@@ -940,9 +940,16 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = الألسنة المفتوحة
     .accesskey = ف
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = اختصارات
+    .accesskey = خ
 addressbar-locbar-topsites-option =
     .label = المواقع الأكثر زيارة
     .accesskey = ك
+addressbar-locbar-engines-option =
+    .label = محركات البحث
+    .accesskey = ح
 addressbar-suggestions-settings = غيّر تفضيلات اقتراحات محرّك البحث
 
 ## Privacy Section - Content Blocking
