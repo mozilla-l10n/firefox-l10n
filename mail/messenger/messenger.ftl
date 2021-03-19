@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $count (Number) - Number of unread messages.
+unread-messages-os-tooltip =
+    { $count ->
+        [one] 1 mesazh i palexuar
+       *[other] { $count } mesazhe të palexuar
+    }
 about-rights-notification-text = { -brand-short-name } është program i lirë dhe me burim të hapët, i krijuar nga një bashkësi mijëra vetash nga anembanë bota.
 
 ## Folder Pane
