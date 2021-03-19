@@ -131,12 +131,20 @@ main-context-menu-save-link-to-pocket =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+
+## The access keys for "Copy Link" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
 main-context-menu-copy-email =
     .label = Պատճենել Էլ. փոստի հասցեն
     .accesskey = Է
 main-context-menu-copy-link =
     .label = Պատճենել Հղման Հասցեն
     .accesskey = ց
+main-context-menu-copy-link-simple =
+    .label = Պատճենել հղումը
+    .accesskey = L
 
 ## Media (video/audio) controls
 ##
@@ -179,6 +187,19 @@ main-context-menu-media-play-speed-faster =
 main-context-menu-media-play-speed-fastest =
     .label = Անհավանական (2x)
     .accesskey = Ա
+main-context-menu-media-play-speed-2 =
+    .label = Արագություն
+    .accesskey = d
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0.5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1.0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1.25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1.5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Օղակում
     .accesskey = Օ
@@ -275,6 +296,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Օգտագործել ստեղծված գաղտնաբառը…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Ավելացնել Բանալի այս Որոնմանը…
     .accesskey = Բ

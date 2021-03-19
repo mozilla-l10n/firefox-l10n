@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Հասկանալի է:
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Կառավարեք ձեր հավելումները սեղմելով <image data-l10n-name='addon-install-icon'></image><image data-l10n-name='addon-menu-icon'></image>ցանկին:
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Լավ
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = Թույլատրել այս ընդլայնմանը աշխատեցնել Գաղտնի պատուհանը
     .accesskey = A
