@@ -37,7 +37,6 @@ printui-scale-fit-to-page-width = Sesuaikan dengan lebar halaman
 printui-scale-pcent = Skala
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Pencetakan dua sisi
-printui-duplex-checkbox = Cetak di kedua sisi
 printui-two-sided-printing-off = Nonaktif
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Balik pada sisi panjang
@@ -56,14 +55,19 @@ printui-margins-default = Baku
 printui-margins-min = Minimum
 printui-margins-none = Tidak ada
 printui-margins-custom-inches = Khusus (inci)
+printui-margins-custom-mm = Khusus (mm)
 printui-margins-custom-top = Atas
 printui-margins-custom-top-inches = Atas (inci)
+printui-margins-custom-top-mm = Atas (mm)
 printui-margins-custom-bottom = Bawah
 printui-margins-custom-bottom-inches = Bawah (inci)
+printui-margins-custom-bottom-mm = Bawah (mm)
 printui-margins-custom-left = Kiri
 printui-margins-custom-left-inches = Kiri (inci)
+printui-margins-custom-left-mm = Kiri (mm)
 printui-margins-custom-right = Kanan
 printui-margins-custom-right-inches = Kanan (inci)
+printui-margins-custom-right-mm = Kanan (mm)
 printui-system-dialog-link = Cetak menggunakan dialog sistem…
 printui-primary-button = Cetak
 printui-primary-button-save = Simpan
