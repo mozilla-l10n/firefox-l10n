@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Iawn, rwy'n deall
     .buttonaccesskey = I
 appmenu-addon-post-install-message = Rheolwch eich ychwanegion drwy glicio <image data-l10n-name='addon-install-icon'></image> yn newislen <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Iawn
+    .buttonaccesskey = I
+appmenu-addon-post-install-message2 = Rheolwch eich estyniadau a'ch themâu trwy ddewislen y rhaglen.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Caniatáu i'r estyniad yma redeg mewn Ffenestri Preifat
     .accesskey = C
