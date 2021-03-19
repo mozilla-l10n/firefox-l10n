@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Datblygwr Gwe
     .accesskey = D
+menu-tools-browser-tools =
+    .label = Offer Porwr
+    .accesskey = O
+menu-tools-task-manager =
+    .label = Rheolwr Tasgau
+    .accesskey = R
 menu-tools-page-source =
     .label = Cod Gwreiddiol y Dudalen
     .accesskey = o
 menu-tools-page-info =
     .label = Gwybodaeth am y Dudalen
     .accesskey = w
+menu-settings =
+    .label = Gosodiadau
+    .accesskey =
+        { PLATFORM() ->
+            [windows] G
+           *[other] d
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] O
            *[other] w
-        }
-menu-settings =
-    .label = Gosodiadau
-    .accesskey =
-        { PLATFORM() ->
-            [windows] G
-           *[other] d
         }
 menu-tools-layout-debugger =
     .label = Dadfygiwr Dyluniad
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Dwyn y Cyfan i'r Blaen
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Gwybodaeth am Ddatrys Problemau
     .accesskey = G
+menu-help-taskmanager =
+    .label = Rheolwr Tasgau
 menu-help-more-troubleshooting-info =
     .label = Rhagor o Wybodaeth i Ddatrys Problemau
     .accesskey = R
-menu-help-taskmanager =
-    .label = Rheolwr Tasgau
 menu-help-report-site-issue =
     .label = Adrodd ar Fater Gwefan…
 menu-help-feedback-page =
@@ -362,9 +359,9 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi
     .accesskey = A
-menu-help-enter-troubleshoot-mode =
-    .label = Y Modd Datrys Problemau
-    .accesskey = Y
+menu-help-enter-troubleshoot-mode2 =
+    .label = Y Modd Datrys Problemau…
+    .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = Diffodd y Modd Dartrys Problemau
     .accesskey = D
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Nid yw hon yn wefan twyllodrus…
     .accesskey = t
-menu-help-check-for-update =
-    .label = Gwirio am Ddiweddariadau…
-    .accesskey = G

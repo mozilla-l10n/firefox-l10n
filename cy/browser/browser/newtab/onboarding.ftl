@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = Cyflymder, diogelwch a phreifatrwyd
 onboarding-multistage-set-default-primary-button-label = Gwnewch yn Ragosodedig
 onboarding-multistage-set-default-secondary-button-label = Nid nawr
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Cychwynwch trwy osod<span data-l10n-name = "zap"> { -brand-short-name } </span> un clic i ffwrdd
+onboarding-multistage-pin-default-subtitle = Pori cyflym, diogel a phreifat bob tro y byddwch chi'n defnyddio'r we.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Dewiswch { -brand-short-name } o dan borwr Gwe pan fydd eich gosodiadau'n agor
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Bydd hyn yn pinio { -brand-short-name } i'r bar tasgau ac yn agor y gosodiadau
+onboarding-multistage-pin-default-primary-button-label = Gwneud { -brand-short-name } Fy Mrhif Borwr
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Mewnforiwch eich cyfrineiriau, nodau tudalen, a <span data-l10n-name="zap">mwy</span>
 onboarding-multistage-import-subtitle = Yn dod o borwr arall? Mae'n hawdd dod â phopeth gyda chi  i { -brand-short-name }.
