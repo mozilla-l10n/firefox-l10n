@@ -9,6 +9,18 @@ menu-view-charset =
     .label = Znaková sada textu
     .accesskey = s
 
+## Help Menu
+
+menu-help-enter-troubleshoot-mode =
+    .label = Režim řešení potíží…
+    .accesskey = m
+menu-help-exit-troubleshoot-mode =
+    .label = Ukončit režim řešení potíží
+    .accesskey = m
+menu-help-more-troubleshooting-info =
+    .label = Další technické informace
+    .accesskey = t
+
 ## Mail Toolbar
 
 toolbar-junk-button =
