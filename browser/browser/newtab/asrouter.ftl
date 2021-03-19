@@ -232,6 +232,18 @@ cfr-doorhanger-milestone-heading =
         [many] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّبًا منذ { $date }!
        *[other] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّب منذ { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [zero] لم يحجب { -brand-short-name } أيّ متعقّب منذ { DATETIME($date, month: "long", year: "numeric") }!
+        [one] حجب { -brand-short-name } ما يزيد على <b>متعقّب واحد</b> منذ { DATETIME($date, month: "long", year: "numeric") }!
+        [two] حجب { -brand-short-name } ما يزيد على <b>متعقّبين اثنين</b> منذ { DATETIME($date, month: "long", year: "numeric") }!
+        [few] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّبات منذ { DATETIME($date, month: "long", year: "numeric") }!
+        [many] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّبًا منذ { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] حجب { -brand-short-name } ما يزيد على <b>{ $blockedCount }</b> متعقّب منذ { DATETIME($date, month: "long", year: "numeric") }!
+    }
 cfr-doorhanger-milestone-ok-button = اعرض الكل
     .accesskey = ع
 
@@ -313,9 +325,12 @@ cfr-whatsnew-search-shortcuts-body = سيظهر الآن (متى كتبت اسم
 
 ## What's new: Cookies protection
 
+cfr-whatsnew-supercookies-header = الحماية من الكعكات الخارقة الضارّة
+cfr-whatsnew-supercookies-body = تستطيع المواقع إضافة ”كعكة خارقة/Supercookie“ إلى متصفّحك دون علمك كي تتعقّبك عبر الوِب حتّى إن مسحت كلّ الكعكات. يقدّم { -brand-short-name } الآن حماية أعتى ضدّ الكعكات الخارقة لألّا تُستعمل لتعقّب أنشطتك عبر الإنترنت وأنت تتنقّل بين المواقع.
 
 ## What's new: Better bookmarking
 
+cfr-whatsnew-bookmarking-header = علامات أفضل
 
 ## What's new: Cross-site cookie tracking
 

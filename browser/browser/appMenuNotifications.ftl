@@ -38,10 +38,15 @@ appmenu-update-other-instance =
     .buttonaccesskey = د
     .secondarybuttonlabel = ليس الآن
     .secondarybuttonaccesskey = ل
+appmenu-update-other-instance-message = يتوفّر تحديث { -brand-shorter-name } جديد، لكن تعذّر تنصيبه بسبب تشغيل نسخة أخرى من { -brand-shorter-name }. أغلِق هذه النسخة لمتابعة التحديث، أو اختر التحديث على أية حال (قد لا تعمل النسخة الأخرى كما ينبغي حتّى تعيد تشغيلها).
 appmenu-addon-private-browsing-installed =
     .buttonlabel = حسنًا، فهمت
     .buttonaccesskey = ح
 appmenu-addon-post-install-message = أدِر إضافاتك بنقر <image data-l10n-name='addon-install-icon'></image> في قائمة <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = حسنا
+    .buttonaccesskey = ح
+appmenu-addon-post-install-message2 = أدر الامتدادات والسمات لديك عبر قائمة التطبيق.
 appmenu-addon-post-install-incognito-checkbox =
     .label = اسمح لهذا الامتداد بأن يعمل في النوافذ الخاصة
     .accesskey = س
