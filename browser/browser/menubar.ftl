@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Webbutvecklare
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Webbläsarverktyg
+    .accesskey = W
+menu-tools-task-manager =
+    .label = Aktivitetshanterare
+    .accesskey = A
 menu-tools-page-source =
     .label = Källkod
     .accesskey = ä
 menu-tools-page-info =
     .label = Sidinfo
     .accesskey = d
+menu-settings =
+    .label = Inställningar
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] I
            *[other] I
-        }
-menu-settings =
-    .label = Inställningar
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Felsök layout
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Lägg alla överst
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Felsökningsinformation
     .accesskey = F
+menu-help-taskmanager =
+    .label = Aktivitetshanterare
 menu-help-more-troubleshooting-info =
     .label = Mer felsökningsinformation
     .accesskey = f
-menu-help-taskmanager =
-    .label = Aktivitetshanterare
 menu-help-report-site-issue =
     .label = Rapportera webbplatsproblem…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Starta om med tillägg aktiverade
     .accesskey = S
-menu-help-enter-troubleshoot-mode =
-    .label = Felsökningsläge
+menu-help-enter-troubleshoot-mode2 =
+    .label = Felsökningsläge…
     .accesskey = F
 menu-help-exit-troubleshoot-mode =
     .label = Stäng av felsökningsläge
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Detta är inte en vilseledande webbplats…
     .accesskey = v
-menu-help-check-for-update =
-    .label = Sök efter uppdateringar…
-    .accesskey = S
