@@ -173,6 +173,10 @@ onboarding-multistage-set-default-subtitle = Sveltezza, segirezza e sfera privat
 onboarding-multistage-set-default-primary-button-label = Definir sco standard
 onboarding-multistage-set-default-secondary-button-label = Betg ussa
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Cumenza cun render <span data-l10n-name="zap">{ -brand-short-name }</span> accessibel cun in clic
+onboarding-multistage-pin-default-subtitle = Navigaziun svelta, segira e privata – adina cura che ti dovras il web.
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importescha tes pleds-clav, <br/>segnapaginas e <span data-l10n-name="zap">dapli</span>
 onboarding-multistage-import-subtitle = Vegns ti dad in auter navigatur? Igl è simpel dad importar tut en { -brand-short-name }.

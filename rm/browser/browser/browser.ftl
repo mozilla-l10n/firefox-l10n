@@ -288,6 +288,8 @@ identity-passive-loaded = Parts da questa pagina (p.ex. maletgs) n'èn betg segi
 identity-active-loaded = Ti has deactivà la protecziun per questa pagina.
 identity-weak-encryption = Questa pagina utilisescha in criptadi flaivel.
 identity-insecure-login-forms = Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.
+identity-permissions =
+    .value = Autorisaziuns
 identity-https-only-connection-upgraded = (actualisà a HTTPS)
 identity-https-only-label = Modus mo HTTPS
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Activescha il modus mo HTTPS per questa website sche ti vuls che { -brand-short-name } midia sche pussaivel ad ina connexiun segira.
 identity-https-only-info-turn-off2 = Sche la pagina na funcziunescha betg endretg, pos ti empruvar da deactivar il modus mo HTTPS per questa website per rechargiar cun HTTP betg segirà.
 identity-https-only-info-no-upgrade = Impussibel da remplazzar la connexiun HTTP.
-identity-permissions =
-    .value = Autorisaziuns
 identity-permissions-storage-access-header = Cookies interpaginals
 identity-permissions-storage-access-hint = Questas partidas pon utilisar cookies interpaginals e datas da website durant che ti ta chattas sin questa website.
 identity-permissions-reload-hint = Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Reproducziun activa
-browser-tab-audio-muted = Senza tun
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = I GIRA
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,26 @@ browser-tab-audio-muted2 = SENZA TUN
 browser-tab-audio-blocked = BLOCCÀ LA REPRODUCZIUN AUTOMATICA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = MALETG-EN-MALETG
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] DEACTIVAR IL TUN DAL TAB
+       *[other] DEACTIVAR IL TUN DA { $count } TABS
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] REACTIVAR IL TUN DAL TAB
+       *[other] REACTIVAR IL TUN DA { $count } TABS
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] REPRODUCIR IL TAB
+       *[other] REPRODUCIR { $count } TABS
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +568,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Mussar tut ils segnapaginas
-bookmarks-recent-bookmarks =
-    .value = Tschernì dacurt sco segnapagina
 bookmarks-manage-bookmarks =
     .label = Administrar ils segnapaginas
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +588,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Zuppentar la trav laterala da segnapaginas
            *[other] Mussar la trav laterala da segnapaginas
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Zuppentar la trav d'utensils da segnapaginas
-           *[other] Mussar la trav d'utensils da segnapaginas
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +634,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Segnapaginas
-library-bookmarks-bookmark-this-page =
-    .label = Agiuntar in segnapagina…
-library-bookmarks-bookmark-edit =
-    .label = Modifitgar quest segnapagina
 library-recent-activity-title =
     .value = Activitad recenta
 
