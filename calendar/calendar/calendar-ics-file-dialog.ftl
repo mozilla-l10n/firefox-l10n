@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Importo prej kartele:
 calendar-ics-file-dialog-calendar-menu-label = Importo në kalendar:
 calendar-ics-file-dialog-items-loading-message =
     .value = Po ngarkohen zëra…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Filtroni objekte…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Renditi sipas datash fillimi (nga e para te e fundit)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Renditi sipas datash fillimi (nga e fundit te e para)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Renditi sipas titujsh (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Renditi sipas titujsh (Z > A)
 calendar-ics-file-dialog-progress-message = Po importohet…
 calendar-ics-file-import-success = U importua me sukses!
 calendar-ics-file-import-error = Ndodhi një gabim dhe importimi dështoi.
