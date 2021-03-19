@@ -11,6 +11,14 @@
 cfr-doorhanger-extension-cancel-button = Ҳоло не
     .accesskey = н
 cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = Тавсия
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Тавсия
+    .tooltiptext = Тавсияи хусусият
+    .a11y-announcement = Тавсияи хусусият дастрас аст
 
 ## Add-on statistics
 ## These strings are used to display the total number of

@@ -38,6 +38,10 @@ newtab-dismiss-button-tooltip =
 newtab-menu-content-tooltip =
     .title = Кушодани меню
     .aria-label = Кушодани менюи муҳтавоӣ барои { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Таҳрир кардани ин сомона
+    .aria-label = Таҳрир кардани ин сомона
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -70,6 +74,11 @@ newtab-menu-open-file = Кушодани файл
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Дидашуда
+newtab-label-bookmarked = Дар хатбаракҳо
+newtab-label-removed-bookmark = Хатбарак тоза карда шуд
+newtab-label-saved = Ба { -pocket-brand-name } нигоҳ дошта шуд
+newtab-label-download = Боргиришуда
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

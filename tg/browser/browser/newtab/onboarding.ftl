@@ -56,6 +56,7 @@ onboarding-sync-form-header = Почтаи электронии худро во�
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-browse-privately-button = Кушодани равзанаи махфӣ
 
 ## Message strings belonging to the Return to AMO flow
 

@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 
+<!ENTITY appmenu.tooltip                     "Кушодани меню">
 
 
 <!-- Tab context menu -->
@@ -16,6 +17,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 
+<!ENTITY openFileCmd.label "Кушодани файл…">
 
 
 <!ENTITY menubarCmd.label "Навори меню">
@@ -74,6 +76,7 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "Ягон варақаи кушодашуда нест">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.tooltip):
@@ -85,6 +88,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Кушодани хусусиятҳои ҳамоҳангсозӣ">
 
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
@@ -95,15 +99,13 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Бештар">
 
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
 
-
-<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
-  "Pocket" is a brand name. -->
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->

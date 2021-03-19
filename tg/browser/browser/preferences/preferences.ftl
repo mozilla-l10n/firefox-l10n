@@ -24,6 +24,7 @@ cancel-no-restart-button = Бекор кардан
 
 ## General Section
 
+get-started-configured = Кушодани хусусиятҳои { -sync-brand-short-name }
 browser-containers-learn-more = Маълумоти бештар
 containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошта шавад
 
@@ -32,11 +33,15 @@ containers-disable-alert-cancel-button = Фаъолшуда нигоҳ дошт�
 
 ## General Section - Files and Applications
 
+applications-open-inapp =
+    .label = Кушодан дар { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 
 ##
 
@@ -102,9 +107,14 @@ sync-remove-account =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-tabs = Варақаҳои кушодашуда
 
 ## The "Choose what to sync" dialog.
 
+sync-engine-tabs =
+    .label = Варақаҳои кушодашуда
+    .tooltiptext = Рӯйхати маводи кушодашуда дар ҳамаи дастгоҳҳои ҳамоҳангшуда
+    .accesskey = В
 
 ## The device name controls.
 
@@ -132,6 +142,9 @@ sitedata-learn-more = Маълумоти бештар
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-openpage-option =
+    .label = Варақаҳои кушодашуда
+    .accesskey = В
 
 ## Privacy Section - Content Blocking
 
@@ -171,6 +184,17 @@ security-enable-safe-browsing-link = Маълумоти бештар
 space-alert-learn-more-button =
     .label = Маълумоти бештар
     .accesskey = М
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Кушодани имконот
+           *[other] Кушодани хусусиятҳо
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] И
+           *[other] Х
+        }
 
 ## Privacy Section - HTTPS-Only
 
