@@ -176,6 +176,11 @@ onboarding-multistage-set-default-secondary-button-label = Betg ussa
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = Cumenza cun render <span data-l10n-name="zap">{ -brand-short-name }</span> accessibel cun in clic
 onboarding-multistage-pin-default-subtitle = Navigaziun svelta, segira e privata – adina cura che ti dovras il web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Tscherna { -brand-short-name } sut navigatur web suenter avair avert ils parameters
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Quai fixescha { -brand-short-name } en la taskbar ed avra ils parameters
+onboarding-multistage-pin-default-primary-button-label = Definir { -brand-short-name } sco mes navigatur principal
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importescha tes pleds-clav, <br/>segnapaginas e <span data-l10n-name="zap">dapli</span>

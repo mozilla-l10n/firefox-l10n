@@ -38,7 +38,6 @@ printui-scale-fit-to-page-width = Adattar a la largezza da la pagina
 printui-scale-pcent = Scalaziun
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Stampar davant e davos
-printui-duplex-checkbox = Stampar d'omaduas varts
 printui-two-sided-printing-off = Deactivà
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Volver enturn l'ur lung
@@ -57,14 +56,19 @@ printui-margins-default = Standard
 printui-margins-min = Minimum
 printui-margins-none = Nagins
 printui-margins-custom-inches = Persunalisà (poleschs/inches)
+printui-margins-custom-mm = Persunalisà (mm)
 printui-margins-custom-top = Sura
 printui-margins-custom-top-inches = Sura (poleschs/inches)
+printui-margins-custom-top-mm = Sura (mm)
 printui-margins-custom-bottom = Sut
 printui-margins-custom-bottom-inches = Sut (poleschs/inches)
+printui-margins-custom-bottom-mm = Sut (mm)
 printui-margins-custom-left = A sanestra
 printui-margins-custom-left-inches = A sanestra (poleschs/inches)
+printui-margins-custom-left-mm = A sanestra (mm)
 printui-margins-custom-right = A dretga
 printui-margins-custom-right-inches = A dretga (poleschs/inches)
+printui-margins-custom-right-mm = A dretga (mm)
 printui-system-dialog-link = Stampar cun agid dal dialog dal sistem…
 printui-primary-button = Stampar
 printui-primary-button-save = Memorisar
