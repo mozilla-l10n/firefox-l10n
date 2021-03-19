@@ -216,6 +216,7 @@ newtab-error-fallback-refresh-link = أنعِش الصفحة لإعادة الم
 ## Customization Menu
 
 newtab-custom-shortcuts-title = الاختصارات
+newtab-custom-shortcuts-subtitle = المواقع التي حفظتها أو زرتها
 newtab-custom-row-selector =
     { $num ->
         [zero] ما من صفوف
@@ -226,8 +227,10 @@ newtab-custom-row-selector =
        *[other] { $num } صف
     }
 newtab-custom-sponsored-sites = الاختصارات الممولة
+newtab-custom-pocket-subtitle = محتوى مميّز جمعه لك { -pocket-brand-name }، وهو جزء من عائلة { -brand-product-name }
 newtab-custom-pocket-sponsored = قصص مموّلة
 newtab-custom-recent-title = أحدث الأنشطة
+newtab-custom-recent-subtitle = مختارات من المواقع والمحتويات الحديثة
 newtab-custom-close-button = أغلِق
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that

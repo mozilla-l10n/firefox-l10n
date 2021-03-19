@@ -359,6 +359,8 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = قيد التشغيل
 # This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = مكتوم
+# This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = حُجب التشغيل التلقائي
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = الڤديو المعترِض
@@ -369,13 +371,13 @@ browser-tab-audio-pip = الڤديو المعترِض
 
 browser-tab-mute =
     { $count ->
-        [1] أصمِت اللسان
-        [zero] أصمِت اللسان
-        [one] أصمِت اللسان
-        [two] أصمِت اللسانين
-        [few] أصمِت { $count } ألسنة
-        [many] أصمِت { $count } لسانًا
-       *[other] أصمِت { $count } لسان
+        [1] اكتم اللسان
+        [zero] اكتم اللسان
+        [one] اكتم اللسان
+        [two] اكتم اللسانين
+        [few] اكتم { $count } ألسنة
+        [many] اكتم { $count } لسانًا
+       *[other] اكتم { $count } لسان
     }
 browser-tab-unmute =
     { $count ->
