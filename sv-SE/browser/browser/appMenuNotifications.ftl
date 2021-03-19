@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Ok, jag förstår
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Hantera dina tillägg genom att klicka på <image data-l10n-name='addon-install-icon'></image> i menyn <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Okej
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Hantera dina tillägg och teman via applikationsmenyn.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Tillåt att detta tillägg körs i privata fönster
     .accesskey = T
