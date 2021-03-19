@@ -115,6 +115,10 @@ sync-engine-tabs =
     .label = Варақаҳои кушодашуда
     .tooltiptext = Рӯйхати маводи кушодашуда дар ҳамаи дастгоҳҳои ҳамоҳангшуда
     .accesskey = В
+sync-engine-logins-passwords =
+    .label = Воридшавиҳо ва ниҳонвожаҳо
+    .tooltiptext = Воридшавиҳо ва ниҳонвожаҳое, ки шумо нигоҳ дошта бошед
+    .accesskey = В
 
 ## The device name controls.
 
