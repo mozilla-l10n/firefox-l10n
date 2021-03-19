@@ -57,9 +57,11 @@ perftools-request-to-stop-profiler = Спыненне запісу
 ##
 
 perftools-button-start-recording = Пачаць запіс
+perftools-button-capture-recording = Захапіць запіс
 perftools-button-cancel-recording = Скасаваць запiс
 perftools-button-save-settings = Захаваць налады і вярнуцца назад
 perftools-button-restart = Перазапусціць
+perftools-button-edit-settings = Змянiць налады...
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
@@ -75,3 +77,5 @@ perftools-button-restart = Перазапусціць
 perftools-onboarding-message = <b>Новае</b>: { -profiler-brand-name } цяпер інтэграваны ў Інструменты распрацоўшчыка. <a>Даведайцеся больш</a> пра гэты новы магутны інструмент.
 # `options-context-advanced-settings` is defined in toolbox-options.ftl
 perftools-onboarding-reenable-old-panel = (На працягу абмежаванага часу вы можаце атрымаць доступ да арыгінальнай панэлі Прадукцыйнасці праз <a>{ options-context-advanced-settings }</a>)
+perftools-onboarding-close-button =
+    .aria-label = Закрыць прывiтальнае паведамленне
