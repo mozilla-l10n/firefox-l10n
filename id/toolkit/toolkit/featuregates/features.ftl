@@ -54,6 +54,7 @@ experimental-features-devtools-serviceworker-debugger-support =
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = Aktifkan Warp, sebuah proyek untuk meningkatkan kinerja JavaScript dan penggunaan memori.
 # Fission is the name of the feature and should not be translated.
 experimental-features-fission =
     .label = Fission (Isolasi Situs)
