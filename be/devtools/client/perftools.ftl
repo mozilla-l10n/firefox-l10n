@@ -21,6 +21,13 @@ perftools-heading-local-build = Лакальная зборка
 
 ##
 
+perftools-description-intro =
+    Запісы запускаюць <a>profiler.firefox.com</a> у новай картцы. Усе дадзеныя захоўваюцца
+    лакальна, але вы можаце зацягнуць iх для сумеснага выкарыстання.
+perftools-description-local-build =
+    Калі вы прафілюеце зборку, якую вы зкампілявалі самі, на гэтай
+    машыне, калі ласка, дадайце objdir вашай зборкі ў спіс ніжэй, каб
+    яго можна было выкарыстоўваць для пошуку інфармацыі пра сімвалы.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -37,6 +44,9 @@ perftools-devtools-settings-label = Налады
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-private-browsing-notice =
+    Прафайлер адключаны, калі ўключана прыватнае агляданне.
+    Закройце ўсе прыватныя вокны, каб зноў уключыць прафайлер
 perftools-status-recording-stopped-by-another-tool = Запіс быў спынены іншай прыладай.
 perftools-status-restart-required = Каб уключыць гэтую функцыю, трэба перазапусціць браўзeр.
 
@@ -62,3 +72,6 @@ perftools-button-restart = Перазапусціць
 ## preferences are true.
 
 -profiler-brand-name = Прафайлер Firefox
+perftools-onboarding-message = <b>Новае</b>: { -profiler-brand-name } цяпер інтэграваны ў Інструменты распрацоўшчыка. <a>Даведайцеся больш</a> пра гэты новы магутны інструмент.
+# `options-context-advanced-settings` is defined in toolbox-options.ftl
+perftools-onboarding-reenable-old-panel = (На працягу абмежаванага часу вы можаце атрымаць доступ да арыгінальнай панэлі Прадукцыйнасці праз <a>{ options-context-advanced-settings }</a>)
