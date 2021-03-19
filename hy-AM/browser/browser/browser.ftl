@@ -285,6 +285,8 @@ identity-passive-loaded = Այս էջի մասերը անվտանգ չեն (օր
 identity-active-loaded = Դուք անջատել եք պաշտպանությունը այս էջում:
 identity-weak-encryption = Այս էջը օգտագործում է աղքատ գաղտնագրում:
 identity-insecure-login-forms = Այս էջից մուտքագրումները վտանգված են:
+identity-permissions =
+    .value = Արտոնություններ
 identity-https-only-connection-upgraded = (արդիացվել է HTTPS-ի)
 identity-https-only-label = HTTPS կերպ միայն
 identity-https-only-dropdown-on =
@@ -293,8 +295,6 @@ identity-https-only-dropdown-off =
     .label = Անջ.
 identity-https-only-dropdown-off-temporarily =
     .label = Ժամանակավորապես անջատված է
-identity-permissions =
-    .value = Արտոնություններ
 identity-permissions-reload-hint = Անհրաժեշտ կլինի թարմացնել էջը, որ կիրառվեն փոփոխությունները։
 identity-permissions-empty = Դուք չեք արտոնել այս կայքին որևէ հատուկ թույլտվություն:
 identity-clear-site-data =
@@ -340,8 +340,15 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Նվագարկում
-browser-tab-audio-muted = Անձայն
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ՆՎԱԳԱՐԿՈՒՄ Է
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = ԱՆՁԱՅՆ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -366,6 +373,12 @@ popup-screen-sharing-never =
     .accesskey = N
 popup-silence-notifications-checkbox = Համօգտագործելիս անջատել ծանուցումները { -brand-short-name }-ից
 popup-silence-notifications-checkbox-warning = { -brand-short-name }-ը չի ցուցադրի ծանուցումները համօգտագործելիս:
+popup-screen-sharing-block =
+    .label = Արգելափակել
+    .accesskey = B
+popup-screen-sharing-always-block =
+    .label = Միշտ արգելափակել
+    .accesskey = w
 
 ## WebRTC window or screen share tab switch warning
 
@@ -458,8 +471,6 @@ crashed-subframe-learnmore =
 
 bookmarks-show-all-bookmarks =
     .label = Ցուցադրել բոլոր էջանիշերը
-bookmarks-recent-bookmarks =
-    .value = Վերջերս էջանշված
 bookmarks-toolbar-chevron =
     .tooltiptext = Ցուցադրել ավելի շատ էջանիշեր
 bookmarks-sidebar-content =
@@ -474,12 +485,6 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] Թաքցնել Էջանիշերի Կողագոտին
-           *[other] Դիտել էջանիշերի վահանակը
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Թաքցնել Էջանիշերի Գործիքագոտին
            *[other] Դիտել էջանիշերի վահանակը
         }
 bookmarks-tools-toolbar-visibility-menuitem =
@@ -518,10 +523,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-bookmarks-menu =
     .label = Էջանիշեր
-library-bookmarks-bookmark-this-page =
-    .label = Էջանշել Այս Էջը
-library-bookmarks-bookmark-edit =
-    .label = Խմբագրել այս էջանիշը
 
 ## More items
 
@@ -532,3 +533,9 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Այս կայքում որոշ ձայնանյութ կամ տեսանյութ օգտագործում են DRM ծրագիր, որը կարող է սահմանափակել { -brand-short-name }-ի օգտագործումը:
+
+## Password save/update panel
+
+
+## Add-on removal warning
+
