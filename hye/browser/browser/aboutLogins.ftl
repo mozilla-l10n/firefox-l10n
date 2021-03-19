@@ -317,21 +317,33 @@ about-logins-import-dialog-error-no-logins-imported = Մտից անուններ 
 about-logins-import-dialog-error-learn-more = Իմանալ աւելին
 about-logins-import-dialog-error-try-again = Կրկին փորձէք…
 about-logins-import-dialog-error-cancel = Չեղարկել
+about-logins-import-report-title = Ներածել ամփոփագիրը
+about-logins-import-report-description = Մտից անունները եւ գաղտնաբառերը ներածուած են { -brand-short-name }:
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Շարք { $number }
 about-logins-import-report-row-description-no-change = Կրկնաւրինակել․ առկայ մտից անուան ճշգրիտ համընկնումը
+about-logins-import-report-row-description-modified = Առկայ մտից անունը թարմացուել է
+about-logins-import-report-row-description-added = Աւելացուած է նոր մտից անուն
+about-logins-import-report-row-description-error = Սխալ է․ բացակայող դաշտ
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Սխալ է․ { $field }֊ի բազմակի արժէքներ
+about-logins-import-report-row-description-error-missing-field = Սխալ է․ բացակայող { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Նոր մտից անուններն աւելացուած են </div>
+       *[other] <div data-l10n-name="count"> { $count } </div> <div data-l10n-name="details"> Նոր մտից անուններն աւելացուած են </div>
+    }
 
 ## Logins import report page
 
