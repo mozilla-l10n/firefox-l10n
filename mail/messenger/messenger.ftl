@@ -2,6 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $count (Number) - Number of unread messages.
+unread-messages-os-tooltip =
+    { $count ->
+        [zero] 0 negeseuon heb eu darllen
+        [one] 1 neges heb ei darllen
+        [two] { $count } neges heb eu darllen
+        [few] { $count } neges heb eu darllen
+        [many] { $count } neges heb eu darllen
+       *[other] { $count } neges heb eu darllen
+    }
 about-rights-notification-text = Mae { -brand-short-name } yn feddalwedd cod agored am ddim, wedi'i adeiladu gan gymuned o filoedd o bob cwr o'r byd.
 
 ## Folder Pane
