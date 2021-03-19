@@ -46,11 +46,17 @@
 ">
 
 <!ENTITY captivePortal.title "Jentre te rêt">
+<!ENTITY captivePortal.longDesc2 "
+<p>Tu scugnis jentrâ in cheste rêt prime di podê acedi a Internet.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Vierç la pagjine di acès ae rêt">
 
+<!ENTITY malformedURI.pageTitle "URL no valit">
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.longDesc "<p>Il document domandât nol è disponibil te memorie cache di &brandShortName;.</p><ul><li>Come misure precauzionâl di sigurece, &brandShortName; nol torne a domandâ documents sensibii.</li><li>Fâs clic su Torne prove par tornâ a domandâ il document dal sît web.</li></ul>">
 
 
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li> </ul>">
