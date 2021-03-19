@@ -19,6 +19,14 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Servidôr no cjatât">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Se chê direzion no je juste, chi a son trê altris robis che tu puedis provâ:</strong>
+<ul>
+  <li>Torne prove plui indenant.</li>
+  <li>Controle la conession ae rêt.</li>
+  <li>Se tu sês conetût ma daûr i un firewall, controle che &brandShortName; al vedi acès al Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifiche di vê scrit esat maiusculis e minusculis o di no vê fat altris erôrs cussì.</li> <li>Verifiche che il file nol sedi stât movût, cambiât di non o eliminât.</li> </ul>">
 
