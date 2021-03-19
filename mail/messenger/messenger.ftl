@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $count (Number) - Number of unread messages.
+unread-messages-os-tooltip =
+    { $count ->
+        [one] Jedna nepřečtená zpráva
+        [few] { $count } nepřečtená zprávy
+       *[other] { $count } nepřečtených zpráv
+    }
 about-rights-notification-text = { -brand-short-name } je svobodný a otevřený software vytvořený komunitou tisíců lidí z celého světa.
 
 ## Folder Pane
@@ -9,6 +17,8 @@ about-rights-notification-text = { -brand-short-name } je svobodný a otevřený
 folder-pane-toolbar =
     .toolbarname = Nástroje panelů složek
     .accesskey = a
+folder-pane-toolbar-options-button =
+    .tooltiptext = Nastavení panelu složek
 folder-pane-header-label = Složky
 
 ## Folder Toolbar Header Popup
