@@ -5,9 +5,12 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Probleme cjamant la pagjine">
-<!ENTITY retry.label "Torne a provâ">
-
+<!ENTITY loadError.label "Probleme tal cjamâ la pagjine">
+<!ENTITY retry.label "Torne prove">
+<!ENTITY returnToPreviousPage.label "Torne indaûr">
+<!ENTITY returnToPreviousPage1.label "Torne indaûr (conseât)">
+<!ENTITY advanced2.label "Avanzadis…">
+<!ENTITY viewCertificate.label "Visualize certificât">
 
 <!-- Specific error messages -->
 
@@ -15,7 +18,7 @@
 
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.pageTitle "Servidôr no cjatât">
 
 <!ENTITY fileNotFound.longDesc "<ul> <li>Verifiche di vê scrit esat maiusculis e minusculis o di no vê fat altris erôrs cussì.</li> <li>Verifiche che il file nol sedi stât movût, cambiât di non o eliminât.</li> </ul>">
 
@@ -24,11 +27,15 @@
 
 
 
-<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+
+
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li> </ul>">
+
+
+
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Par vierzi cheste direzion ti tocjarà instalâ altris programs.</li> </ul>">
 
@@ -45,10 +52,9 @@
   <li>Par plasê contate il proprietari dal sît web par informâlu dal probleme.</li>
 </ul>">
 
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-
 
 
 
@@ -60,18 +66,19 @@ was trying to connect. -->
 
 
 
+
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
 
 
 
