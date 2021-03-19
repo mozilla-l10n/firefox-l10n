@@ -168,10 +168,19 @@ onboarding-multistage-welcome-secondary-button-label = Logga in
 onboarding-multistage-welcome-secondary-button-text = Har du ett konto?
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "default" should stay inside the span.
-onboarding-multistage-set-default-header = Gör { -brand-short-name } till din <span data-l10n-name="zap">standard</span>
+onboarding-multistage-set-default-header = Gör { -brand-short-name } till din <span data-l10n-name="zap">standardwebbläsare</span>
 onboarding-multistage-set-default-subtitle = Hastighet, säkerhet och integritet varje gång du surfar.
 onboarding-multistage-set-default-primary-button-label = Gör till standard
 onboarding-multistage-set-default-secondary-button-label = Inte nu
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Börja med att göra <span data-l10n-name="zap">{ -brand-short-name }</span> tillgänglig med ett klick
+onboarding-multistage-pin-default-subtitle = Snabb, säker och privat surfning varje gång du använder webben.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Välj { -brand-short-name } under Webbläsare när dina inställningar öppnas
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Detta kommer att fästa { -brand-short-name } i aktivitetsfältet och öppna inställningar
+onboarding-multistage-pin-default-primary-button-label = Gör { -brand-short-name } till min primära webbläsare
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importera dina lösenord, bokmärken och <span data-l10n-name = "zap">mer</span>

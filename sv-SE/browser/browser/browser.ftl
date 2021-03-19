@@ -288,6 +288,8 @@ identity-passive-loaded = Vissa komponenter av den här sidan är inte säkra (t
 identity-active-loaded = Du har stängt av skyddet på den här sidan.
 identity-weak-encryption = Den här sidan använder en svag kryptering.
 identity-insecure-login-forms = Inloggningar som anges på den här sidan kan äventyras.
+identity-permissions =
+    .value = Behörigheter
 identity-https-only-connection-upgraded = (uppgraderad till HTTPS)
 identity-https-only-label = Endast HTTPS-läge
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Aktivera endast HTTPS-läge för den här webbplatsen om du vill att { -brand-short-name } ska uppgradera anslutningen när det är möjligt.
 identity-https-only-info-turn-off2 = Om sidan verkar trasig kanske du vill stänga av endast HTTPS-läge för att den här webbplatsen ska laddas om med osäker HTTP.
 identity-https-only-info-no-upgrade = Det gick inte att uppgradera anslutningen från HTTP.
-identity-permissions =
-    .value = Behörigheter
 identity-permissions-storage-access-header = Globala kakor
 identity-permissions-storage-access-hint = Dessa parter kan använda global kakor och webbplatsinformation medan du är på denna webbplats.
 identity-permissions-reload-hint = Du kan behöva ladda om sidan för att ändringarna ska verkställas.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Spelar
-browser-tab-audio-muted = Tyst
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = SPELAR
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,26 @@ browser-tab-audio-muted2 = TYST
 browser-tab-audio-blocked = AUTOPLAY BLOCKAD
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BILD-I-BILD
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] STÄNG AV LJUD
+       *[other] STÄNG AV LJUD ({ $count } FLIKAR)
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] SLÅ PÅ LJUD
+       *[other] SLÅ PÅ LJUD ({ $count } FLIKAR)
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] STARTA UPPSPELNING
+       *[other] STARTA UPPSPELNING ({ $count } FLIKAR)
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +568,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Visa alla bokmärken
-bookmarks-recent-bookmarks =
-    .value = Nyligen bokmärkt
 bookmarks-manage-bookmarks =
     .label = Hantera bokmärken
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +588,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Dölj sidofältet Bokmärken
            *[other] Visa sidofältet Bokmärken
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Dölj bokmärkesfältet
-           *[other] Visa bokmärkesfältet
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +634,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Bokmärken
-library-bookmarks-bookmark-this-page =
-    .label = Bokmärk denna sida
-library-bookmarks-bookmark-edit =
-    .label = Redigera bokmärket
 library-recent-activity-title =
     .value = Senaste aktivitet
 
