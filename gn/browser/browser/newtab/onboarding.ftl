@@ -178,6 +178,9 @@ onboarding-multistage-pin-default-header = Eñepyrũ ejapo <span data-l10n-name=
 onboarding-multistage-pin-default-subtitle = Ñeikundaha ipya’e, hekorosã ha iñemíva eipurúvo ñanduti.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Eiporavo { -brand-short-name } ñanduti kundahárape ijurujávo ñemboheko
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Kóva ombojáta { -brand-short-name } tembiapo rendápe ha ombojurujáta ñemboheko
+onboarding-multistage-pin-default-primary-button-label = Ajapo { -brand-short-name }-gui che kundahára aipuruvéva
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Emba’egueru ñe’ẽñemi, techaukaha ha <span data-l10n-name="zap">hetave</span>
