@@ -288,6 +288,8 @@ identity-passive-loaded = Delar av denne sida er ikkje trygg (til dømes bilde).
 identity-active-loaded = Du har slått av vern på denne sida.
 identity-weak-encryption = Denne sida brukar ei svak kryptering.
 identity-insecure-login-forms = Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.
+identity-permissions =
+    .value = Løyve
 identity-https-only-connection-upgraded = (oppgradert til HTTPS)
 identity-https-only-label = Berre-HTTPS-modus
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Slå på berre-HTTPS-modus for denne nettstaden dersom du vil at { -brand-short-name } skal oppgradere til ei trygg tilkopling når det er råd.
 identity-https-only-info-turn-off2 = Dersom nettsida verkar øydelagd, kan det vere lurt å slå av berre-HTTPS-modus for denne nettstadent for å laste inn på nytt ved hjelp av utrygg HTTP.
 identity-https-only-info-no-upgrade = Klarte ikkje å oppgradere kopling frå HTTP.
-identity-permissions =
-    .value = Løyve
 identity-permissions-storage-access-header = Infokapslar på tvers av nettstadar
 identity-permissions-storage-access-hint = Desse partane kan bruke infokapslar på tvers av nettstadar og nettstaddata medan du er på denne nettstaden.
 identity-permissions-reload-hint = Du må kanskje laste sida på nytt for at endringane skal gjelde.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Spelar av
-browser-tab-audio-muted = Dempa
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = SPELAR
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,16 @@ browser-tab-audio-muted2 = DEMPA
 browser-tab-audio-blocked = AUTOAVSPELING BLOKKERT
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BILDE-I-BILDE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-unblock =
+    { $count ->
+        [1] SPEL AV FANE
+       *[other] SPEL AV { $count } FANER
+    }
 
 ## Bookmarks toolbar items
 
@@ -550,8 +558,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Vis alle bokmerke
-bookmarks-recent-bookmarks =
-    .value = Nyleg bokmerkt
 bookmarks-manage-bookmarks =
     .label = Handter bokmerke
 bookmarks-recent-bookmarks-panel =
@@ -572,12 +578,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Gøym bokmerkesidestolpen
            *[other] Vis sidestolpe for bokmerke
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Gøym bokmerkeverktøylinja
-           *[other] Vis verktøylinje for bokmerke
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -624,10 +624,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Bokmerke
-library-bookmarks-bookmark-this-page =
-    .label = Bokmerk denne sida
-library-bookmarks-bookmark-edit =
-    .label = Rediger dette bokmerket
 library-recent-activity-title =
     .value = Nyleg aktivitet
 
