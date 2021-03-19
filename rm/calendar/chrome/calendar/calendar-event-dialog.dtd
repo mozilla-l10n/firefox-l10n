@@ -35,9 +35,9 @@
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label                "Infurmar ils participants">
 <!ENTITY event.attendees.notify.accesskey            "f">
-<!ENTITY event.attendees.notifyundisclosed.label     "Invitaziun seperada per mintga participant">
+<!ENTITY event.attendees.notifyundisclosed.label     "Invitaziun separada per mintga participant">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
-<!ENTITY event.attendees.notifyundisclosed.tooltip   "Questa opziun trametta in e-mail d'invitaziun seperà per mintga participant. Mintga invitaziun cuntegna be il participant da destinatur, uschè che las identitads dals auters participants na vegnan betg relevadas.">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Questa opziun trametta in e-mail d'invitaziun separà per mintga participant. Mintga invitaziun cuntegna be il participant destinatur, uschè che las identitads dals auters participants na vegnan betg relevadas.">
 <!ENTITY event.attendees.disallowcounter.label       "Betg permetter cuntraproposta">
 <!ENTITY event.attendees.disallowcounter.accesskey   "B">
 <!ENTITY event.attendees.disallowcounter.tooltip     "Inditgescha che ti n'accepteschas betg cuntrapropostas">
