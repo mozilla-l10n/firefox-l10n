@@ -257,8 +257,6 @@ cfr-doorhanger-milestone-heading2 =
     }.
 cfr-doorhanger-milestone-ok-button = Zobrazit vše
     .accesskey = v
-cfr-doorhanger-milestone-close-button = Zavřít
-    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 
@@ -283,6 +281,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu v obraze
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Zavřít
+    .accesskey = Z
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -337,7 +337,7 @@ cfr-whatsnew-media-keys-button = Jak na to
 
 ## What's new: Search shortcuts
 
-cfr-whatsnew-search-shortcuts-header = Zkratky vyhledávání v adresním řádku
+cfr-whatsnew-search-shortcuts-header = Vyhledávače v adresním řádku
 cfr-whatsnew-search-shortcuts-body = Nyní když do adresního řádku zadáte vyhledávač nebo konkrétní web, se níže v našeptávači zobrazí modrá zkratka. Klepněte na tuto zkratku a dokončete vyhledávání přímo z adresního řádku.
 
 ## What's new: Cookies protection
