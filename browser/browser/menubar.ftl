@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Zhvillues Web
     .accesskey = Z
+menu-tools-browser-tools =
+    .label = Mjete Shfletuesi
+    .accesskey = M
+menu-tools-task-manager =
+    .label = Përgjegjës Punësh
+    .accesskey = P
 menu-tools-page-source =
     .label = Burim Faqeje
     .accesskey = B
 menu-tools-page-info =
     .label = Të dhëna Faqeje
     .accesskey = T
+menu-settings =
+    .label = Rregullime
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] R
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] a
-        }
-menu-settings =
-    .label = Rregullime
-    .accesskey =
-        { PLATFORM() ->
-            [windows] S
-           *[other] R
         }
 menu-tools-layout-debugger =
     .label = Diagnostikues Skemash
@@ -337,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Të dhëna Diagnostikimi
     .accesskey = D
+menu-help-taskmanager =
+    .label = Përgjegjës Punësh
 menu-help-more-troubleshooting-info =
     .label = Më Tepër të Dhëna Diagnostikimi
     .accesskey = M
-menu-help-taskmanager =
-    .label = Përgjegjës Punësh
 menu-help-report-site-issue =
     .label = Njoftoni Problem Sajti…
 menu-help-feedback-page =
@@ -353,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Rinise me Shtesat të Aktivizuara
     .accesskey = A
-menu-help-enter-troubleshoot-mode =
-    .label = Mënyra Diagnostikim
+menu-help-enter-troubleshoot-mode2 =
+    .label = Mënyra Diagnostikim…
     .accesskey = D
 menu-help-exit-troubleshoot-mode =
     .label = Çaktivizo Mënyrën Diagnostikim
