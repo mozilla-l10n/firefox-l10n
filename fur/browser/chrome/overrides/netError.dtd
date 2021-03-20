@@ -181,8 +181,11 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> al dopre  une tecnologjie di sigurece sorpassade e vulnerabile ai atacs. Un malintenzionât al pues rivelâ un facilitât informazions che tu pensavis che a fossin al sigûr. L'aministradôr dal sît web al varà bisugne di comedâ il servidôr prime che tu podeis visitâ il sît.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Pagjine blocade">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> al è probabil che al sedi un sît sigûr, ma no si rive a stabilî une conession sigure. Chest probleme al è causât di <span class='mitm-name'/>, che al è un program sul computer opûr te rêt.">
 
 
 
