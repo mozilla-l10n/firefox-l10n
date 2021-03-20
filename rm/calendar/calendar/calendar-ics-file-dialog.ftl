@@ -14,6 +14,20 @@ calendar-ics-file-dialog-message-2 = Importar da la datoteca:
 calendar-ics-file-dialog-calendar-menu-label = Importar en il chalender:
 calendar-ics-file-dialog-items-loading-message =
     .value = Chargiar ils elements…
+calendar-ics-file-dialog-search-input =
+    .placeholder = Filtrar ils elements…
+calendar-ics-file-dialog-sort-start-ascending =
+    .label = Zavrar tenor data d'entschatta (emprim enfin ultim)
+calendar-ics-file-dialog-sort-start-descending =
+    .label = Zavrar tenor data d'entschatta (ultim enfin emprim)
+# "A > Z" is used as a concise way to say "alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-ascending =
+    .label = Zavrar tenor titel (A > Z)
+# "Z > A" is used as a concise way to say "reverse alphabetical order".
+# You may replace it with something appropriate to your language.
+calendar-ics-file-dialog-sort-title-descending =
+    .label = Zavrar tenor titel (Z > A)
 calendar-ics-file-dialog-progress-message = Importar…
 calendar-ics-file-import-success = Importà cun success!
 calendar-ics-file-import-error = Ina errur è capitada e l'import n'è betg reussì.
