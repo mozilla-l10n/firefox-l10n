@@ -5,11 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Čo je Service Worker
-about-service-workers-main-title = Registrovaní Service Workers
-about-service-workers-warning-not-enabled = Service Workers nie sú povolení.
-about-service-workers-warning-no-service-workers = Nie je registrovaný žiadny Service Worker.
-
+about-service-workers-title = Čo je skript typu worker
+about-service-workers-main-title = Registrované skripty typu worker
+about-service-workers-warning-not-enabled = Skripty typu worker nie sú povolené.
+about-service-workers-warning-no-service-workers = Nie sú registrované žiadne skripty typu worker.
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Názov aktívnej vyrovnávacej pamäte:</strong> { $
 waiting-cache-name = <strong>Názov čakajúcej vyrovnávacej pamäte:</strong> { $name }
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Aktualizovať
-
 unregister-button = Zrušiť registráciu
-
-unregister-error = Nepodarilo sa zrušiť registráciu pre tento Service Worker.
-
+unregister-error = Nepodarilo sa zrušiť registráciu pre tento skript typu worker.
 waiting = Čaká sa…
