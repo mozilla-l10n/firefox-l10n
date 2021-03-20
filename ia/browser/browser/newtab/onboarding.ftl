@@ -173,6 +173,12 @@ onboarding-multistage-set-default-subtitle = Velocitate, securitate, e confident
 onboarding-multistage-set-default-primary-button-label = Predefinir
 onboarding-multistage-set-default-secondary-button-label = Non ora
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Initia per render <span data-l10n-name="zap">{ -brand-short-name }</span> a portata de mus
+onboarding-multistage-pin-default-subtitle = Un navigation rapide, secur e private cata vice que tu usa le Web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Elige { -brand-short-name } in le navigatores web al apertura de tu parametros
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importa contrasignos, marcapaginas e <span data-l10n-name="zap">plus</span>
 onboarding-multistage-import-subtitle = Veni tu ab un altere navigator? Il es facile transferer toto a { -brand-short-name }.

@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Gere tu additivos per cliccar sur <image da
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Gere tu extensiones et themas via le menu del application.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permitter que iste extension se executa in fenestras private
     .accesskey = P
