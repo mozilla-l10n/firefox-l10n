@@ -43,6 +43,9 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ตกลง เข้าใจแล้ว
     .buttonaccesskey = ต
 appmenu-addon-post-install-message = จัดการส่วนเสริมของคุณโดยคลิก <image data-l10n-name='addon-install-icon'></image> ใน <image data-l10n-name='addon-menu-icon'></image> เมนู
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = ตกลง
+    .buttonaccesskey = O
 appmenu-addon-post-install-incognito-checkbox =
     .label = อนุญาตให้ส่วนขยายนี้ทำงานในหน้าต่างส่วนตัว
     .accesskey = อ

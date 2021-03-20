@@ -20,3 +20,4 @@ fxa-signout-dialog =
     .title = ลงชื่อออก { -fxaccount-brand-name }
     .style = min-width: 375px;
     .buttonlabelaccept = ลงชื่อออก
+fxa-signout-dialog2-button = ออกจากระบบ
