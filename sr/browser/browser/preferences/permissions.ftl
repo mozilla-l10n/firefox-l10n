@@ -76,14 +76,14 @@ permissions-exceptions-etp-desc = Искључили сте заштиту на 
 permissions-exceptions-cookie-window =
     .title = Изузеци - колачићи и подаци сајта
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Можете да наведете којим веб-сајтовима је дозвољено да користе колачиће и податке сајтова а којим није. Унесите тачну адресу сајта и кликните на „Блокирај”, „Дозволи за сесију” или „Дозволи”.
+permissions-exceptions-cookie-desc = Можете да наведете веб-сајтове који смеју да користе колачиће и податке сајтова а који не. Унесите тачну адресу сајта и кликните на „Блокирај”, „Дозволи за сесију” или „Дозволи”.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Омогућени веб сајтови - искачући прозори
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Можете да наведете којим веб-сајтовима је дозвољено да отварају искачуће прозоре. Унесите тачну адресу сајта и кликните на „Дозволи”.
+permissions-exceptions-popup-desc = Можете да наведете веб-сајтове који смеју да отварају искачуће прозоре. Унесите тачну адресу сајта и кликните на „Дозволи”.
 
 ## Exceptions - Saved Logins
 
@@ -97,7 +97,7 @@ permissions-exceptions-saved-logins-desc = Пријаве за следеће с
 permissions-exceptions-addons-window =
     .title = Омогућени веб сајтови - инсталације додатака
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Можете да одредите којим веб сајтовима је дозвољено да инсталирају додатке. Укуцајте тачну адресу сајта којем желите да дозволите и притисните на Дозволи.
+permissions-exceptions-addons-desc = Можете да наведете веб-сајтове који смеју да инсталирају додатке. Унесите тачну адресу сајта и кликните на „Дозволи”.
 
 ## Site Permissions - Autoplay
 
