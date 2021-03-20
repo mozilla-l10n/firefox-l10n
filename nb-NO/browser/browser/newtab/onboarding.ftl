@@ -175,6 +175,7 @@ onboarding-multistage-set-default-secondary-button-label = Ikke nå
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. { -brand-short-name } should stay inside the span.
 onboarding-multistage-pin-default-header = Start med å gjøre <span data-l10n-name="zap">{ -brand-short-name }</span> tilgjengelig med ett klikk
+onboarding-multistage-pin-default-subtitle = Rask, sikker og privat nettlesing hver gang du bruker nettet.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = Velg { -brand-short-name } under nettleser når dine innstillinger åpnes
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
