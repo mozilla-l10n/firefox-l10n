@@ -56,30 +56,30 @@ serviceworker-worker-status-running = Spustený
 serviceworker-worker-status-stopped = Zastavený
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Ak chcete Service Worker preskúmať, musíte ho zaregistrovať. <a>Ďalšie informácie</a>
+serviceworker-empty-intro = Ak chcete skript typu worker preskúmať, musíte ho najskôr zaregistrovať. <a>Ďalšie informácie</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Ak by stránka mala mať service worker, môžete skúsiť nasledujúce veci:
+serviceworker-empty-suggestions = Ak by stránka mala mať skript typu worker, môžete skúsiť nasledujúce veci:
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Nájsť chybu pomocou konzoly. <a> Otvoriť konzolu</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Prezrite si registráciu Service Workerov a hľadajte výnimky. <a>Otvoriť ladenie</a>
+serviceworker-empty-suggestions-debugger = Prezrite si registráciu skriptu typu worker a hľadajte výnimky. <a>Otvoriť ladenie</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Preskúmajte Service Workery z iných domén. <a>Otvoriť about:debugging</a>
+serviceworker-empty-suggestions-aboutdebugging = Preskúmajte skripty typu worker z iných domén. <a>Otvoriť about:debugging</a>
 # Text displayed when no service workers are visible for the current page.
-serviceworker-empty-intro2 = Neboli nájdení žiadni Service Workers
+serviceworker-empty-intro2 = Neboli nájdené žiadne skripty typu worker
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Ďalšie informácie
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = Ak by mala mať aktuálna stránka Service Worker, prípadné jeho chyby nájdete v <a>Konzole</a>, jeho registráciu si môžete prejsť v <span>nástroji na ladenie</span>.
+serviceworker-empty-suggestions2 = Ak by mala mať aktuálna stránka skript typu worker, prípadné jeho chyby nájdete v <a>Konzole</a>, jeho registráciu si môžete prejsť v <span>nástroji na ladenie</span>.
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging2 = Zobraziť Service Workers z iných domén
+serviceworker-empty-suggestions-aboutdebugging2 = Zobraziť skripty typu worker z iných domén
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest aplikácie
 # Header for the Manifest page when there's no manifest to inspect
@@ -131,9 +131,9 @@ sidebar-item-manifest = Manifest
     .alt = Ikona manifestu
     .title = Manifest
 # Sidebar navigation item for Service Workers sidebar item section
-sidebar-item-service-workers = Service Workery
-    .alt = Ikona Service Workerov
-    .title = Service Workery
+sidebar-item-service-workers = Skripty typu worker
+    .alt = Ikona Skripty typu worker
+    .title = Skripty typu worker
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona varovania
