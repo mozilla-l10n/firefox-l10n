@@ -39,7 +39,6 @@ printui-scale-fit-to-page-width = Prispôsobiť šírke stránky
 printui-scale-pcent = Mierka
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Obojstranná tlač
-printui-duplex-checkbox = Vytlačiť na obe strany
 printui-two-sided-printing-off = Vypnutá
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Preklopiť na dlhšom okraji
@@ -58,14 +57,19 @@ printui-margins-default = Predvolené
 printui-margins-min = Minimálne
 printui-margins-none = Žiadne
 printui-margins-custom-inches = Vlastné (palce)
+printui-margins-custom-mm = Vlastné (mm)
 printui-margins-custom-top = Hore
 printui-margins-custom-top-inches = Hore (palce)
+printui-margins-custom-top-mm = Hore (mm)
 printui-margins-custom-bottom = Dole
 printui-margins-custom-bottom-inches = Dole (palce)
+printui-margins-custom-bottom-mm = Dole (mm)
 printui-margins-custom-left = Vľavo
 printui-margins-custom-left-inches = Vľavo (palce)
+printui-margins-custom-left-mm = Vľavo (mm)
 printui-margins-custom-right = Vpravo
 printui-margins-custom-right-inches = Vpravo (palce)
+printui-margins-custom-right-mm = Vpravo (mm)
 printui-system-dialog-link = Vytlačiť pomocou systémového dialógu…
 printui-primary-button = Tlačiť
 printui-primary-button-save = Uložiť

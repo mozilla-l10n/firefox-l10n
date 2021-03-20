@@ -250,11 +250,25 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID rozšírenia
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Udalosť Push
+    .disabledTitle = Udalosti Push sú pre skripty typu worker v multiprocesovom prehliadači { -brand-shorter-name } zakázané
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = Spustiť
     .disabledTitle = Spúšťanie skriptov typu worker je v multiprocesovom prehliadači { -brand-shorter-name } zakázané
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Zrušiť registráciu
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Udalosť Fetch
+    .value = Počúva udalosti typu Fetch
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = Udalosť Fetch
+    .value = Nepočúva udalosti typu Fetch
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Spustené
