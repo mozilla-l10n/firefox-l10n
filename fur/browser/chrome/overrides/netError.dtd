@@ -197,4 +197,7 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Ripristine impostazions predefinidis">
 
 <!ENTITY enableTls10.longDesc "Chest sît web al podarès no supuartâ il protocol TLS 1.2, che e je la version minime supuartade di &brandShortName;. Al podarès jessi pussibil completâ la conession abilitant  TLS 1.0 e TLS 1.1.">
+<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 a vignaran disabilitâts par simpri intune prossime version.">
+<!ENTITY enableTls10.label "Abilite TLS 1.0 e 1.1">
 
+<!ENTITY networkProtocolError.longDesc "<p>No si pues visualizâ la pagjine che tu stâs cirint di viodi parcè che al è stât rilevât un erôr tal protocol di rêt.</p><ul><li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li></ul>">
