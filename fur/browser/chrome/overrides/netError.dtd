@@ -186,6 +186,10 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Pagjine blocade">
 
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> al è probabil che al sedi un sît sigûr, ma no si rive a stabilî une conession sigure. Chest probleme al è causât di <span class='mitm-name'/>, che al è un program sul computer opûr te rêt.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Se il to antivirus al inclût une funzion par analizâ lis conessions cifradis (di solit clamade “scansion web” o “scansion https”), tu puedis disativâle. Se nol funzione, tu puedis gjavâ e tornâ a instalâ il program antivirus.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Se tu sês suntune rêt aziendâl, tu puedis contatâ il to dipartiment informatic.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se no tu cognossis <span class='mitm-name'/>, alore al podarès tratâsi di un atac e tu varessis di interompi la conession a chest sît.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se no tu cognossis <span class='mitm-name'/>, alore al podarès tratâsi di un atac e no tu puedis fâ nuie par acedi al sît.">
 
 
 
