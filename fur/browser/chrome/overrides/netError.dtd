@@ -129,6 +129,7 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; al à rilevât une potenziâl menace di sigurece e al à interot la conession cun <span class='hostname'/> parcè che chest sît web al à bisugne di une conession sigure.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; al à rilevât un probleme e al à interot la conession cun <span class='hostname'/>. O il sît web nol è configurât ben o l'orloi dal to computer al à une ore sbaliade.">
+<!ENTITY certerror.expiredCert.secondPara2 "Al somee che il certificât dal sît web al sedi scjadût, chest al impedìs a &brandShortName; di conetisi in sigurece. Se tu visitis chest sît, i malintenzionâts a podaressin cirî di robâ informazions come lis tôs passwords, e-mails opûr i detais des cjartis di credit.">
 
 
 
