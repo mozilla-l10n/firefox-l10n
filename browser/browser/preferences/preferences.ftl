@@ -238,7 +238,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = 파일 및 응용 프로그램
+files-and-applications-title = 파일 및 애플리케이션
 download-header = 다운로드
 download-save-to =
     .label = 저장 위치
@@ -257,10 +257,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = 파일을 저장할 위치를 항상 묻기
     .accesskey = A
-applications-header = 응용 프로그램
-applications-description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 응용 프로그램을 처리하는 방법을 선택하세요.
+applications-header = 애플리케이션
+applications-description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 애플리케이션을 처리하는 방법을 선택하세요.
 applications-filter =
-    .placeholder = 파일 형식 또는 응용 프로그램 검색
+    .placeholder = 파일 형식 또는 애플리케이션 검색
 applications-type-column =
     .label = 콘텐츠 유형
     .accesskey = T
@@ -283,15 +283,15 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] macOS 기본 응용 프로그램 사용
-            [windows] Windows 기본 응용 프로그램 사용
-           *[other] 시스템 기본 응용 프로그램 사용
+            [macos] macOS 기본 애플리케이션 사용
+            [windows] Windows 기본 애플리케이션 사용
+           *[other] 시스템 기본 애플리케이션 사용
         }
 applications-use-other =
     .label = 다른 프로그램 사용…
-applications-select-helper = 도우미 응용 프로그램 선택
+applications-select-helper = 도우미 애플리케이션 선택
 applications-manage-app =
-    .label = 응용 프로그램 세부사항…
+    .label = 애플리케이션 세부사항…
 applications-always-ask =
     .label = 항상 물어 보기
 applications-type-pdf = Portable Document Format (PDF)
