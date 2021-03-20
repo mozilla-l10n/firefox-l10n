@@ -5,6 +5,7 @@
 troubleshoot-mode-window =
     .title = Безопасный режим { -brand-short-name }
     .style = width: 37em;
+troubleshoot-mode-description = Используйте безопасный режим { -brand-short-name } для диагностики проблем. Ваши дополнения и настройки будут временно отключены.
 troubleshoot-mode-description2 = Произведённые вами изменения настроек вступят в силу при перезапуске в обычном режиме:
 troubleshoot-mode-disable-addons =
     .label = Отключить все дополнения
