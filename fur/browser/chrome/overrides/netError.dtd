@@ -196,4 +196,5 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Al somee che lis impostazions di sigurece de tô rêt a causedin chest probleme. Desideristu tornâ a meti lis impostazions predefinidis?">
 <!ENTITY prefReset.label "Ripristine impostazions predefinidis">
 
+<!ENTITY enableTls10.longDesc "Chest sît web al podarès no supuartâ il protocol TLS 1.2, che e je la version minime supuartade di &brandShortName;. Al podarès jessi pussibil completâ la conession abilitant  TLS 1.0 e TLS 1.1.">
 
