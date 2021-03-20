@@ -6,9 +6,7 @@
 #define MOZ_LANGPACK_CREATOR mozilla.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
-
 # variable definition and use the format specified.
-
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Andrea Decorte</em:contributor><em:contributor>Adriano Biason</em:contributor>\u0020
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Andrea Decorte</em:contributor><em:contributor>Adriano Biason</em:contributor><em:contributor>Fabio Tomat</em:contributor>\u0020
 
 #unfilter emptyLines
