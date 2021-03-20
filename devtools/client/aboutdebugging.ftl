@@ -158,10 +158,10 @@ about-debugging-runtime-service-workers =
     .name = Skripty typu worker
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
-    .name = Shared Workers
+    .name = Zdieľané skripty typu worker
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = Other Workers
+    .name = Iné skripty typu worker
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesy
