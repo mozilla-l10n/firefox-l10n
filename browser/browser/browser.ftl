@@ -257,7 +257,7 @@ search-one-offs-history =
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
-    .label = Hiện trình chỉnh sửa này khi lưu
+    .label = Hiển thị trình chỉnh sửa khi lưu
     .accesskey = S
 bookmark-panel-done-button =
     .label = Xong
