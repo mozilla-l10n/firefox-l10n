@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Nettsideutvikling
     .accesskey = t
+menu-tools-browser-tools =
+    .label = Nettleserverktøy
+    .accesskey = N
+menu-tools-task-manager =
+    .label = Oppgavebehandler
+    .accesskey = O
 menu-tools-page-source =
     .label = Kildekode
     .accesskey = d
 menu-tools-page-info =
     .label = Sideinformasjon
     .accesskey = d
+menu-settings =
+    .label = Innstillinger
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] n
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] I
            *[other] I
-        }
-menu-settings =
-    .label = Innstillinger
-    .accesskey =
-        { PLATFORM() ->
-            [windows] n
-           *[other] n
         }
 menu-tools-layout-debugger =
     .label = Feilsøk layout
@@ -306,15 +312,6 @@ menu-window-bring-all-to-front =
     .label = Send alle til forgrunnen
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Feilsøking
     .accesskey = F
+menu-help-taskmanager =
+    .label = Aktivitetsbehandler
 menu-help-more-troubleshooting-info =
     .label = Mer feilsøkingsinformasjon
     .accesskey = M
-menu-help-taskmanager =
-    .label = Aktivitetsbehandler
 menu-help-report-site-issue =
     .label = Rapporter problem med nettsted…
 menu-help-feedback-page =
@@ -362,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Start på nytt med utvidelser påslått
     .accesskey = S
-menu-help-enter-troubleshoot-mode =
-    .label = Feilsøkingsmodus
+menu-help-enter-troubleshoot-mode2 =
+    .label = Feilsøkingsmodus…
     .accesskey = F
 menu-help-exit-troubleshoot-mode =
     .label = Slå av feilsøkingsmodus
@@ -376,6 +373,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Dette er ikke et villedende nettsted …
     .accesskey = d
-menu-help-check-for-update =
-    .label = Søk etter oppdateringer …
-    .accesskey = S
