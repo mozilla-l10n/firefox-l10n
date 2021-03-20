@@ -13,10 +13,10 @@
 ### best documentation on web development on the web.
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
-serviceworker-list-header = Service Workery
+serviceworker-list-header = Skripty typu worker
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
-serviceworker-list-aboutdebugging = Ak si chcete pozrieť Service Workery z iných domén, otvorte <a>about:debugging</a>
+serviceworker-list-aboutdebugging = Ak si chcete pozrieť skripty typu worker z iných domén, otvorte <a>about:debugging</a>
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Zrušiť registráciu
 # Text for the debug link displayed for an already started Service Worker. Clicking on the

@@ -83,7 +83,7 @@ about-debugging-setup-title = Nastavenie
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = Nastavte spôsob, pomocou ktorého chcete ladiť svoje zariadenie.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Použite <a>{ about-debugging-this-firefox-runtime-name }</a> pre ladenie doplnkov a service workerov v tejto verzii prehliadača { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = Použite <a>{ about-debugging-this-firefox-runtime-name }</a> pre ladenie doplnkov a skriptov typu worker v tejto verzii prehliadača { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Pripojenie zariadenia
 # USB section of the Setup page
@@ -155,7 +155,7 @@ about-debugging-runtime-tabs =
     .name = Karty
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
-    .name = Service Workers
+    .name = Skripty typu worker
 # Title of the shared workers category.
 about-debugging-runtime-shared-workers =
     .name = Shared Workers
@@ -171,7 +171,7 @@ about-debugging-runtime-profile-button2 = Profilovanie výkonu
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
-about-debugging-runtime-service-workers-not-compatible = Konfigurácia vášho prehliadača nie je kompatibilná so službou Service Workers. <a>Ďalšie informácie</a>
+about-debugging-runtime-service-workers-not-compatible = Konfigurácia vášho prehliadača nepodporuje skripty typu worker. <a>Ďalšie informácie</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -250,8 +250,11 @@ about-debugging-extension-location =
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ID rozšírenia
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Spustiť
+    .disabledTitle = Spúšťanie skriptov typu worker je v multiprocesovom prehliadači { -brand-shorter-name } zakázané
 # This string is displayed as a label of the button that unregisters a service worker.
-about-debugging-worker-action-unregister = Odregistrovať
+about-debugging-worker-action-unregister = Zrušiť registráciu
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Spustené
@@ -266,6 +269,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Služba Push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Preskúmanie skriptov typu worker je pre multiprocesový prehliadač { -brand-shorter-name } zakázené
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Karta nie je plne načítaná a nemôže byť preskúmaná
