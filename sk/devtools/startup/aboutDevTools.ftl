@@ -6,14 +6,13 @@ head-title = O vývojárskych nástrojoch
 enable-title = Povoliť vývojárske nástroje Firefoxu
 enable-inspect-element-title = Povoľte vývojárske nástroje a preskúmajte prvok
 enable-inspect-element-message = Preskúmajte a upravte HTML a CSS pomocou prieskumníka vo vývojárskych nástrojoch.
-enable-about-debugging-message = Pomocou vývojárskych nástrojov môžete vo Firefoxe vyvíjať a ladiť doplnky typu WebExtensions, web a service workery a ďalšie.
+enable-about-debugging-message = Pomocou vývojárskych nástrojov môžete vo Firefoxe vyvíjať a ladiť doplnky typu WebExtensions, webové skripty a skript typu worker a ďalšie.
 enable-key-shortcut-message = Aktivovali ste skratku pre otvorenie vývojárskych nástrojov. Ak ste sa pomýlili, môžete túto kartu zavrieť.
 enable-menu-message = Vylepšite HTML, CSS a JavaScript na svojich stránkach pomocou nástrojov, ako sú napríklad prieskumník či nástroj na ladenie.
 enable-common-message = Vývojárske nástroje sú v predvolenom nastavení pre vašu väčšiu kontrolu nad svojim prehliadačom vypnuté.
 enable-learn-more-link = Ďalšie informácie o vývojárskych nástrojoch
 enable-enable-button = Povoliť vývojárske nástroje
 enable-close-button = Zavrieť túto kartu
-
 welcome-title = Vítajú vás vývojárske nástroje!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Nechajte si posielať vývojárske novinky, triky a zdroje priamo do svojej schránky.
@@ -23,11 +22,9 @@ newsletter-privacy-label = Beriem na vedomie, že Mozilla spracuje tieto údaje 
 newsletter-subscribe-button = Odoberať
 newsletter-thanks-title = Ďakujeme!
 newsletter-thanks-message = Ak ste v minulosti nepotvrdili odber noviniek Mozilly, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinka s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.
-
 footer-title = Firefox Developer Edition
 footer-message = Hľadáte viac, než len vývojárske nástroje? Vyskúšajte verziu Firefoxu vytvorenú špeciálne pre vývojárov a moderné pracovné postupy.
 footer-learn-more-link = Ďalšie informácie
-
 features-learn-more = Ďalšie informácie
 features-inspector-title = Prieskumník
 features-inspector-desc = Skúmajte a upravujte kód stránok. <a data-l10n-name="learn-more">{ features-learn-more }</a>

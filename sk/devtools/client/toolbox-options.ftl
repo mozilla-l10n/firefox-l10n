@@ -90,7 +90,7 @@ options-context-advanced-settings = Rozšírené nastavenia
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Zakázať vyrovnávaciu pamäť HTTP (ak sú otvorené vývojárske nástroje)
 options-disable-http-cache-tooltip =
-    .title = Zapnutím tejto voľby bude vyrovnávacia pamäť HTTP vypnutá pre všetky karty, ktoré majú otvorené nástroje. Service Workers nebudú touto voľbou ovplyvnené.
+    .title = Zapnutím tejto voľby bude vyrovnávacia pamäť HTTP vypnutá pre všetky karty, ktoré majú otvorené nástroje. Skripty typu worker nebudú touto voľbou ovplyvnené.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Zakázať JavaScript *
 options-disable-javascript-tooltip =
@@ -104,9 +104,9 @@ options-enable-remote-label = Povoliť vzdialené ladenie
 options-enable-remote-tooltip2 =
     .title = Zapnutím tejto možnosti umožníte ladenie tejto inštancie prehliadača na diaľku
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
-options-enable-service-workers-http-label = Povoliť Service Workers cez HTTP (ak je súprava nástrojov otvorená)
+options-enable-service-workers-http-label = Povoliť skripty typu worker cez HTTP (ak je súprava nástrojov otvorená)
 options-enable-service-workers-http-tooltip =
-    .title = Zapnutie tejto voľby povolí service workers cez HTTP pre všetky karty, ktoré majú otvorené vývojárske nástroje
+    .title = Zapnutie tejto voľby povolí skripty typu worker cez HTTP pre všetky karty, ktoré majú otvorené vývojárske nástroje
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Povoliť zdrojové mapy
 options-source-maps-tooltip =
