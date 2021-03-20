@@ -161,14 +161,23 @@ was trying to connect. -->
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; al à impedît a cheste pagjine di cjaariâsi in chest contest parcè che la pagjine e à une politiche X-Frame-Options che no lu permet.</p>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>No si pues visualizâ la pagjine che tu stâs cirint i viodi parcè che al è stât rilevât un erôr te trasmission dai dâts.</p><ul><li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li></ul>">
 
+<!ENTITY securityOverride.exceptionButton1Label "Acete il risi e continue">
 
+<!ENTITY errorReporting.automatic2 "Segnale i erôrs come chest par judâ Mozilla a identificâ e blocâ i sîts malevui">
+<!ENTITY errorReporting.learnMore "Plui informazions…">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Contate par plasê i proprietaris dal sît par informâju di chest probleme.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Informazions avanzadis: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "Atenzion: potenziâl risi di sigurece plui indenant">
+<!ENTITY certerror.sts.pagetitle  "Conession interote: potenziâl probleme di sigurece ">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> al à une politiche di sigurece clamade HTTP Strict Transport Security (HSTS), che al significhe che &brandShortName; i pues conetisi dome in maniere sigure. No tu puedis zontâ une ecezion par visitâ chest sît.">
+<!ENTITY certerror.copyToClipboard.label "Copie il test intes notis">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
