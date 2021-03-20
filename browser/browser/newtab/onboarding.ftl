@@ -171,9 +171,14 @@ onboarding-multistage-set-default-header = اضبط { -brand-short-name } ليك
 onboarding-multistage-set-default-subtitle = السرعة والأمان والخصوصية في كل مرة تتصفح فيها.
 onboarding-multistage-set-default-primary-button-label = اجعله المبدئي
 onboarding-multistage-set-default-secondary-button-label = ليس الآن
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = ابدأ أولًا بتسهيل الوصول إلى <span data-l10n-name="zap">{ -brand-short-name }</span>
 onboarding-multistage-pin-default-subtitle = تصفّح سريع وآمن وخاص كلّما استعملت الوِب.
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-waiting-subtitle = اختر { -brand-short-name } من ”مستعرض الويب“ حين تظهر الإعدادات
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = هذا سيُثبّت { -brand-short-name } في شريط المهام ويفتح الإعدادات
 onboarding-multistage-pin-default-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي الأساسي
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
