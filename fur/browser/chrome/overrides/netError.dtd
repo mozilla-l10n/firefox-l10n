@@ -101,7 +101,12 @@
 </ul>
 ">
 
-<!ENTITY redirectLoop.longDesc "<ul> <li>Chest probleme al pues a voltis jessi causât de disativazion o de mancjade acetazion dai cookies.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Cualchi volte si pues causâ chest probleme disativant o refudant di acetâ 
+    i cookies.</li> 
+</ul>
+">
 
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Siguriti che il to sisteme al vedi instalât il Personal Security Manager.</li> <li>Chest al podarès jessi dovût a une configurazion no standard sul servidôr.</li> </ul>">
 
