@@ -282,6 +282,13 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = معلومات الصفحة
     .accesskey = م
+menu-settings =
+    .label = الإعدادات
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ع
+           *[other] ع
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
