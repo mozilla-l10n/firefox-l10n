@@ -290,6 +290,8 @@ identity-passive-loaded = Kai kurios šio tinklalapio dalys nėra saugios (pvz.,
 identity-active-loaded = Šiame tinklalapyje esate išjungę apsaugą.
 identity-weak-encryption = Šis tinklalapis naudoja silpną šifravimą.
 identity-insecure-login-forms = Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.
+identity-permissions =
+    .value = Leidimai
 identity-https-only-connection-upgraded = (naudojamas HTTPS)
 identity-https-only-label = Tik HTTPS veiksena
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Įjunkite tik HTTPS veikseną šiai svetainei, jei norite, kad „{ -brand-short-name }“ naudotų saugų ryšį kai tik įmanoma.
 identity-https-only-info-turn-off2 = Jei tinklalkapis veikia netinkamai, gali tekti išjungti tik HTTPS veikseną šiai svetainei, ir įkelti iš naujo naudojant nesaugų HTTP.
 identity-https-only-info-no-upgrade = Nepavyko perkelti ryšio iš HTTP.
-identity-permissions =
-    .value = Leidimai
 identity-permissions-storage-access-header = Tarp svetainių veikiantys slapukai
 identity-permissions-storage-access-hint = Šios šalys gali naudoti tarp svetainių veikiančius slapukus ir svetainių duomenis, kai esate šioje svetainėje.
 identity-permissions-reload-hint = Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Groja
-browser-tab-audio-muted = Nutildyta
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = GROJA
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,32 @@ browser-tab-audio-muted2 = NUTILDYTA
 browser-tab-audio-blocked = AUTOMATINIS GROJIMAS UŽBLOKUOTAS
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = VAIZDAS-VAIZDE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] NUTILDYTI KORTELĘ
+        [one] NUTILDYTI KORTELĘ
+        [few] NUTILDYTI { $count } KORTELES
+       *[other] NUTILDYTI { $count } KORTELIŲ
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ĮJUNGTI GARSĄ KORTELĖJE
+        [one] ĮJUNGTI GARSĄ KORTELĖJE
+        [few] ĮJUNGTI GARSĄ { $count } KORTELĖSE
+       *[other] ĮJUNGTI GARSĄ { $count } KORTELIŲ
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] GROTI KORTELĖJE
+        [one] GROTI KORTELĖJE
+        [few] GROTI { $count } KORTELĖSE
+       *[other] GROTI { $count } KORTELIŲ
+    }
 
 ## Bookmarks toolbar items
 
@@ -552,8 +576,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Rodyti visą adresyną
-bookmarks-recent-bookmarks =
-    .value = Paskiausiai įtraukti į adresyną
 bookmarks-manage-bookmarks =
     .label = Tvarkyti adresyną
 bookmarks-recent-bookmarks-panel =
@@ -574,12 +596,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Nerodyti adresyno parankinėje
            *[other] Rodyti adresyną parankinėje
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Slėpti adresyno juostą
-           *[other] Rodyti adresyno juostą
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -626,10 +642,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Adresynas
-library-bookmarks-bookmark-this-page =
-    .label = Įrašyti į adresyną
-library-bookmarks-bookmark-edit =
-    .label = Taisyti adresyno įrašą
 library-recent-activity-title =
     .value = Paskiausia veikla
 
