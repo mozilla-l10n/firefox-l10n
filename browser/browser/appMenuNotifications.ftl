@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Gerai, supratau
     .buttonaccesskey = G
 appmenu-addon-post-install-message = Tvarkykite savo priedus paspausdami <image data-l10n-name='addon-install-icon'></image>, esantį <image data-l10n-name='addon-menu-icon'></image> meniu.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = Gerai
+    .buttonaccesskey = G
+appmenu-addon-post-install-message2 = Tvarkykite savo priedus ir grafinius apvalkalus per programos meniu.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Leisti šiam priedui veikti privačiojo naršymo languose
     .accesskey = L
