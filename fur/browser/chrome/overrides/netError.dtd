@@ -125,7 +125,10 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; al à rilevât une potenziâl menace di sigurece e al à interot la conession cun <span class='hostname'/>. Se tu visitis chest sît, i malintenzionâts a podaressin cirî di robâ informazions personâls come passwords, e-mails o detais su cjartis di credit.">
+<!ENTITY certerror.sts.introPara "&brandShortName; al à rilevât une potenziâl menace di sigurece e al à interot la conession cun <span class='hostname'/> parcè che chest sît web al à bisugne di une conession sigure.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; al à rilevât un probleme e al à interot la conession cun <span class='hostname'/>. O il sît web nol è configurât ben o l'orloi dal to computer al à une ore sbaliade.">
 
 
 
