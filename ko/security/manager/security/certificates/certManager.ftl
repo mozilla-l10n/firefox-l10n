@@ -225,7 +225,7 @@ temporary-override = 임시
 
 ## Add Security Exception dialog
 
-add-exception-branded-warning = { -brand-short-name } 프로그램  웹 사이트 신원 확인 방식을 다시 설정합니다.
+add-exception-branded-warning = { -brand-short-name }가 사이트를 식별하는 방법을 사용자가 다시 설정하려고 합니다.
 add-exception-invalid-header = 이 사이트는 유효하지 않은 정보로 인증을 시도하고 있습니다.
 add-exception-domain-mismatch-short = 잘못된 사이트
 add-exception-domain-mismatch-long = 이 인증서는 다른 웹 사이트의 인증서로서 누군가 이 사이트를 사칭하고 있을 수 있습니다.
