@@ -64,7 +64,11 @@
 </ul>
 ">
 
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Contate par plasê i proprietaris dal sît par informâju di chest probleme.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul> 
+  <li>Contate par plasê i proprietaris dal sît par informâju di chest probleme.</li> 
+</ul>
+">
 
 <!ENTITY unsafeContentType.longDesc "
 <ul>
@@ -76,9 +80,18 @@
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Par vierzi cheste direzion ti tocjarà instalâ altris programs.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul> 
+  <li>Par vierzi cheste direzion tu podaressis vê di instalâ altris programs.</li> 
+</ul>
+">
 
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Controle lis impostazions proxy par verificâ che a sedin coretis.</li> <li>Contate il to aministradôr di rêt par verificâ che il servidôr proxy al funzioni.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Controle lis impostazions dal proxy par jessi sigûr che a sedin justis.</li> 
+  <li>Contate l'aministradôr de rêt par verificâ che il servidôr al funzioni.</li> 
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Controle lis impostazions proxy par verificâ che a sedin coretis.</li> <li>Siguriti che il to ordenadôr al vedi une conession di rêt che e funzionedi.</li> <li>Se il to ordenadôr o rêt a son protezûts di un firewall o di un proxy, siguriti che &brandShortName; al vedi il permès di acedi al Web.</li> </ul>">
 
