@@ -5,5 +5,5 @@
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong>Të caktohet { -brand-short-name } si shfletuesi juaj parazgjedhje?</strong>Përfitoni shfletim të shpejtë, të parrezik, dhe privat, kurdo që përdorni internetin.
 default-browser-notification-button =
-    .label = Vëre si Parazgjedhje
+    .label = Vëre si parazgjedhje
     .accesskey = V
