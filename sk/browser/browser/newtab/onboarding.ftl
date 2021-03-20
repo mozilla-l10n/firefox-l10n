@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = Rýchlosť, bezpečnosť a súkromi
 onboarding-multistage-set-default-primary-button-label = Nastaviť ako predvolený
 onboarding-multistage-set-default-secondary-button-label = Teraz nie
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Len niekoľko kliknutí a môžete <span data-l10n-name="zap">{ -brand-short-name }</span> používať
+onboarding-multistage-pin-default-subtitle = Rýchle, bezpečné a súkromné prehliadanie pri každom použití webu.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Po otvorení nastavení nájdite sekciu Webový prehliadač a zvoľte { -brand-short-name }
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Týmto pripnete { -brand-short-name } na paneli úloh a otvoríte nastavenia
+onboarding-multistage-pin-default-primary-button-label = Nastavte si { -brand-short-name } ako predvolený prehliadač
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importujte svoje heslá, záložky a <span data-l10n-name="zap">mnoho ďalšieho</span>
 onboarding-multistage-import-subtitle = Prechádzate z iného prehliadača? Všetko si môžete do { -brand-short-name(case: "gen") } jednoducho preniesť.
