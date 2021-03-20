@@ -118,7 +118,7 @@ about-telemetry-addon-table-id = Identifikátor doplnku
 about-telemetry-addon-table-details = Podrobnosti
 # Variables:
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
-about-telemetry-addon-provider = { $addonProvider } Provider
+about-telemetry-addon-provider = Poskytovateľ { $addonProvider }
 about-telemetry-keys-header = Kľúč
 about-telemetry-names-header = Názov
 about-telemetry-values-header = Hodnota
