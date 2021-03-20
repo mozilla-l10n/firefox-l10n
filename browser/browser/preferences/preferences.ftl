@@ -280,8 +280,8 @@ applications-type-column =
     .label = Тип садржаја
     .accesskey = Т
 applications-action-column =
-    .label = Дејство
-    .accesskey = Д
+    .label = Радња
+    .accesskey = Р
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Датотека { $extension }

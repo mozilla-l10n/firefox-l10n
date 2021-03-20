@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-safeb-blocked-phishing-page-title = Обманљив сајт испред
+safeb-blocked-phishing-page-title = Обмањујући сајт
 safeb-blocked-malware-page-title = Посећивање овог веб сајта може нашкодити вашем рачунару
 safeb-blocked-unwanted-page-title = Овај сајт можда садржи штетне програме
 safeb-blocked-harmful-page-title = Овај сајт можда садржи малициозни софтвер
@@ -13,8 +13,8 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } је блокир�
 safeb-palm-advisory-desc = Саветодавно мишљење дато од <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Иди назад
 safeb-palm-see-details-label = Погледајте детаље
-safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен као обманљив сајт</a>. Можете <a data-l10n-name='report_detection'>пријавити проблем</a> или <a data-l10n-name='ignore_warning_link'>га игнорисати</a> и отићи на овај небезбедан сајт.
-safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен као обманљив сајт</a>. Можете <a data-l10n-name='report_detection'>пријавити проблем</a>.
+safeb-blocked-phishing-page-error-desc-override = Сајт <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен као обмањујућ</a>. Ако мислите да је то грешка, <a data-l10n-name='report_detection'>пријавите проблем</a> или <a data-l10n-name='ignore_warning_link'>игноришите упозорење</a> и наставите на сајт.
+safeb-blocked-phishing-page-error-desc-no-override = Сајт <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен као обмањујућ</a>. Ако мислите да је то грешка, <a data-l10n-name='report_detection'>пријавите проблем</a>.
 safeb-blocked-phishing-page-learn-more = Сазнајте више о обманљивим сајтовима и “пецању” на <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Сазнајте више о { -brand-short-name }-овој заштити од “пецања” и злонамерног софтвера на <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-blocked-malware-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен да садржи злонамерни софтвер</a>. Можете <a data-l10n-name='report_detection'>пријавити проблем</a> или <a data-l10n-name='ignore_warning_link'>игнорисати упозорење</a> и наставити настави на сајт.
 safeb-blocked-malware-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен да садржи злонамерни софтвер</a>. Можете <a data-l10n-name='report_detection'>пријавити проблем</a>.
@@ -29,5 +29,5 @@ safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> је <a data-l10n-name='error_desc_link'>пријављен да садржи штетне апликације</a>.
 safeb-blocked-harmful-page-learn-more = Сазнајте више о { -brand-short-name }-овој заштити од “пецања” и злонамерног софтвера на <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
-    .label = Ово није обманљив сајт…
-    .accesskey = н
+    .label = Ово није обмањујућ сајт…
+    .accesskey = б
