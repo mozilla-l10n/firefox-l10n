@@ -28,10 +28,10 @@ appmenuitem-more-tools =
 appmenuitem-exit =
     .label = 종료
 appmenu-menu-button-closed =
-    .tooltiptext = 응용 프로그램 메뉴 열기
+    .tooltiptext = 애플리케이션 메뉴 열기
     .label = { -brand-shorter-name }
 appmenu-menu-button-opened =
-    .tooltiptext = 응용 프로그램 메뉴 닫기
+    .tooltiptext = 애플리케이션 메뉴 닫기
     .label = { -brand-shorter-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
