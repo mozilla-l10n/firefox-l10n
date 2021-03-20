@@ -55,9 +55,8 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Importar e salvar los marcapaginas">
 
-<!ENTITY backButton.tooltip  "Recuolar d'una pagina">
+<!ENTITY backButton.tooltip  "Recular d’una pagina">
 
 <!ENTITY forwardButton.tooltip  "Avançar d'una pagina">
 
 <!ENTITY detailsPane.selectAnItemText.description "Seleccionatz un element per visualizar e modificar sas proprietats">
-
