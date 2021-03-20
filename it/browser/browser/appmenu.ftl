@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Download aggiornamento di { -brand-shorter-name } in corso
+appmenuitem-update-banner2 =
+    .label-update-downloading = Download aggiornamento di { -brand-shorter-name } in corso
+    .label-update-available = Aggiornamento disponibile — scarica adesso
+    .label-update-manual = Aggiornamento disponibile — scarica adesso
+    .label-update-unsupported = Aggiornamento non riuscito
+    .label-update-restart = Aggiornamento disponibile — riavvia adesso
 appmenuitem-protection-dashboard-title = Pannello protezioni
 appmenuitem-customize-mode =
     .label = Personalizza…
