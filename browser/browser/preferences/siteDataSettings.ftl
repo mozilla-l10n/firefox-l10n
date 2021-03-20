@@ -54,4 +54,4 @@ site-data-removing-dialog =
     .buttonlabelaccept = Уклони
 site-data-removing-header = Брисање колачића и података сајта
 site-data-removing-desc = Уклањање колачића и података о сајтовима ће вас можда одјавити са веб-сајтова. Желите ли заиста да наставите?
-site-data-removing-table = Колачићи и подаци следећих веб сајтова ће бити обрисани
+site-data-removing-table = Уклониће се колачићи и подаци о следећим веб-сајтовима
