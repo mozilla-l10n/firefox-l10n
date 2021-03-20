@@ -51,7 +51,7 @@ category-experimental =
     .tooltiptext = { -brand-short-name } експерименти
 pane-experimental-subtitle = Наставите с опрезом
 pane-experimental-search-results-header = { -brand-short-name } експерименти: наставите с опрезом
-pane-experimental-description = Измена напредних подешавања може деловати на { -brand-short-name } перформансе или безбедност.
+pane-experimental-description = Промена напредних подешавања може да утиче на перформансе или безбедност { -brand-short-name }-а.
 pane-experimental-reset =
     .label = Врати подразумеване вредности
     .accesskey = R
@@ -132,7 +132,7 @@ separate-profile-mode =
     .label = Дозволи да { -brand-short-name } и Firefox раде у исто време
 use-firefox-sync = Савет: Ово користи одвојене профиле. Користите { -sync-brand-short-name } да делите податке између њих.
 get-started-not-logged-in = Пријавите се на { -sync-brand-short-name }…
-get-started-configured = Отворите { -sync-brand-short-name } поставке
+get-started-configured = Отвори подешавања { -sync-brand-short-name }-а
 always-check-default =
     .label = Увек провери да ли је { -brand-short-name } мој подразумевани прегледач
     .accesskey = у
@@ -172,8 +172,8 @@ browser-containers-enabled =
     .accesskey = к
 browser-containers-learn-more = Сазнајте више
 browser-containers-settings =
-    .label = Поставке…
-    .accesskey = в
+    .label = Подешавања…
+    .accesskey = П
 containers-disable-alert-title = Затворити све контејнер језичке?
 containers-disable-alert-desc =
     { $tabCount ->
@@ -277,8 +277,8 @@ applications-description = Одаберите како да { -brand-short-name 
 applications-filter =
     .placeholder = Претражи типове података или апликација
 applications-type-column =
-    .label = Врста садржаја
-    .accesskey = В
+    .label = Тип садржаја
+    .accesskey = Т
 applications-action-column =
     .label = Дејство
     .accesskey = Д
@@ -382,9 +382,9 @@ update-setting-write-failure-title = Грешка при чувању поста
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    Програм { -brand-short-name } је наишао на грешку и није сачувао ову промену. Имајте на уму да подешавање ове поставке ажурирања захтева дозволу за писање у датотеку наведену испод. Ви или администратор система можете да решите грешку тако што ћете корисничкој групи дати пуну контролу над овом датотеком.
+    { -brand-short-name } је наишао на грешку и није сачувао ову промену. Имајте на уму да је за промену овог подешавања потребна дозвола за писање у датотеку испод. Ви или администратор система можете да решите грешку тако што ћете корисничкој групи дати потпуну контролу над овом датотеком.
     
-    Нисам могао да пишем унутар датотеке: { $path }
+    Није могуће писати у датотеку: { $path }
 update-in-progress-title = Ажурирање у току
 update-in-progress-message = Желите ли да { -brand-short-name } настави са ажурирањем?
 update-in-progress-ok-button = &Одбаци
@@ -396,7 +396,7 @@ update-in-progress-cancel-button = &Настави
 
 performance-title = Перформансе
 performance-use-recommended-settings-checkbox =
-    .label = Користи препоручене поставке перформанси
+    .label = Користи препоручена подешавања перформанси
     .accesskey = К
 performance-use-recommended-settings-desc = Ове поставке су кројене за хардвер вашег рачунара и његов оперативни систем.
 performance-settings-learn-more = Сазнајте више
@@ -448,11 +448,11 @@ browsing-cfr-recommendations-learn-more = Сазнајте више
 
 ## General Section - Proxy
 
-network-settings-title = Поставке мреже
+network-settings-title = Подешавања мреже
 network-proxy-connection-description = Подесите начин на који се { -brand-short-name } повезује на интернет.
 network-proxy-connection-learn-more = Сазнајте више
 network-proxy-connection-settings =
-    .label = Поставке…
+    .label = Подешавања…
     .accesskey = П
 
 ## Home Section
@@ -614,8 +614,8 @@ search-keyword-warning-bookmark = Изабрали сте кључну реч к
 containers-back-button =
     .aria-label =
         { PLATFORM() ->
-            [windows] Назаад на Опције
-           *[other] Назад на Подешавања
+            [windows] Назад на подешавања
+           *[other] Назад на подешавања
         }
 containers-header = Контејнер језичци
 containers-add-button =
@@ -625,7 +625,7 @@ containers-new-tab-check =
     .label = Изаберите контејнер за сваки нови језичак
     .accesskey = S
 containers-preferences-button =
-    .label = Поставке
+    .label = Подешавања
 containers-remove-button =
     .label = Уклони
 
@@ -633,7 +633,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Понесите веб са собом
-sync-signedout-description = Синхронизујте забелешке, историјат, јазичке, лозинке, додатке и поставке на свим уређајима.
+sync-signedout-description = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
 sync-signedout-account-signin2 =
     .label = Пријавите се у { -sync-brand-short-name }…
     .accesskey = i
@@ -675,7 +675,7 @@ prefs-syncing-off = Синхронизација: ИСКЉУЧЕНА
 prefs-sync-setup =
     .label = Поставите { -sync-brand-short-name }…
     .accesskey = П
-prefs-sync-offer-setup-label = Синхронизујте ознаке, историју, језичке, лозинке, додатке и подешавања на свим својим уређајима.
+prefs-sync-offer-setup-label = Синхронизујте обележиваче, историју, картице, лозинке, додатке и подешавања на свим уређајима.
 prefs-sync-now =
     .labelnotsyncing = Синхронизујте сада
     .accesskeynotsyncing = С
@@ -693,7 +693,7 @@ sync-currently-syncing-creditcards = Кредитне картице
 sync-currently-syncing-addons = Додаци
 sync-currently-syncing-prefs =
     { PLATFORM() ->
-        [windows] Опције
+        [windows] Подешавања
        *[other] Подешавања
     }
 sync-change-options =
@@ -738,10 +738,10 @@ sync-engine-addons =
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
-            [windows] Поставке
-           *[other] Поставке
+            [windows] Подешавања
+           *[other] Подешавања
         }
-    .tooltiptext = Опште, поставке приватности и безбедности које сте изменили
+    .tooltiptext = Промењена подешавања
     .accesskey = П
 
 ## The device name controls.
@@ -849,9 +849,9 @@ history-remember-option-all =
 history-remember-option-never =
     .label = никада не бележи историјат
 history-remember-option-custom =
-    .label = користи посебна подешавања за историјат
+    .label = прилагођена подешавања
 history-remember-description = { -brand-short-name } ће запамтити историјат прегледања, преузимања, формулара и претраге.
-history-dontremember-description = { -brand-short-name } ће користити иста подешавања као за приватно прегледања, и неће памтити историјат прегледања веб страница.
+history-dontremember-description = { -brand-short-name } ће користити иста подешавања као и за приватно прегледање и неће чувати историју прегледања веб-страница.
 history-private-browsing-permanent =
     .label = Увек користи режим приватног прегледања
     .accesskey = в
@@ -865,7 +865,7 @@ history-clear-on-close-option =
     .label = Обриши историју када затворим { -brand-short-name }
     .accesskey = ш
 history-clear-on-close-settings =
-    .label = Поставке…
+    .label = Подешавања…
     .accesskey = П
 history-clear-button =
     .label = Обриши историјат…
@@ -946,7 +946,7 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Претраживачи
     .accesskey = a
-addressbar-suggestions-settings = Измени поставке предлога претраживања
+addressbar-suggestions-settings = Промени подешавања за предлоге претраживача
 
 ## Privacy Section - Content Blocking
 
@@ -1029,24 +1029,24 @@ tracking-manage-exceptions =
 permissions-header = Дозволе
 permissions-location = Локација
 permissions-location-settings =
-    .label = Поставке…
-    .accesskey = е
+    .label = Подешавања…
+    .accesskey = П
 permissions-xr = Виртуелна реалност
 permissions-xr-settings =
     .label = Подешавања…
-    .accesskey = t
+    .accesskey = П
 permissions-camera = Камера
 permissions-camera-settings =
-    .label = Поставке…
-    .accesskey = к
+    .label = Подешавања…
+    .accesskey = П
 permissions-microphone = Микрофон
 permissions-microphone-settings =
-    .label = Поставке…
-    .accesskey = в
+    .label = Подешавања…
+    .accesskey = П
 permissions-notification = Обавештења
 permissions-notification-settings =
-    .label = Поставке…
-    .accesskey = а
+    .label = Подешавања…
+    .accesskey = П
 permissions-notification-link = Сазнајте више
 permissions-notification-pause =
     .label = Паузирај обавештења док се { -brand-short-name } не рестартује
@@ -1140,8 +1140,8 @@ space-alert-learn-more-button =
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
-            [windows] Отвори поставке
-           *[other] Отвори поставке
+            [windows] Отвори подешавања
+           *[other] Отвори подешавања
         }
     .accesskey =
         { PLATFORM() ->
