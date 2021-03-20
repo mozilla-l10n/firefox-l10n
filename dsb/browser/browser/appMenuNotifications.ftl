@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Klikniśo na <image data-l10n-name='addon-i
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = W pórěźe
     .buttonaccesskey = o
+appmenu-addon-post-install-message2 = Zastojśo swóje rozšyrjenja a drastwy z menijom nałoženjow.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Toś to rozšyrjenje w priwatnych woknach dowóliś
     .accesskey = T
