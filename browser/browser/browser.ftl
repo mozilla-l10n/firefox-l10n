@@ -561,7 +561,7 @@ crashed-subframe-learnmore =
 crashed-subframe-learnmore-link =
     .value = Mësoni Më Tepër
 crashed-subframe-submit =
-    .label = Parashtroni Njoftim
+    .label = Parashtroni njoftim
     .accesskey = P
 
 ## Bookmarks panels, menus and toolbar
