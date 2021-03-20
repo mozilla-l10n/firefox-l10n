@@ -5,23 +5,37 @@
 <!ENTITY sanitizeDialog.title            "Удаление личных данных">
 <!ENTITY sanitizeItems.label             "Удалить следующие данные:">
 
+<!--LOCALIZATION NOTE : Make sure to not have overlapped  accesskeys with
+    pref-privatedata.dtd. These entities are also used in the private data
+    preferences dialog.
+-->
 <!ENTITY itemHistory.label               "Журнал посещений">
 <!ENTITY itemHistory.accesskey           "п">
+<!ENTITY itemHistoryS.accesskey          "е">
 <!ENTITY itemUrlBar.label                "Журнал посещений панели адреса">
 <!ENTITY itemUrlBar.accesskey            "а">
+<!ENTITY itemUrlBarS.accesskey           "у">
 <!ENTITY itemDownloads.label             "Журнал загрузок">
 <!ENTITY itemDownloads.accesskey         "з">
+<!ENTITY itemDownloadsS.accesskey        "к">
 <!ENTITY itemFormSearchHistory.label     "Сохранённые данные форм и историю поиска">
 <!ENTITY itemFormSearchHistory.accesskey "ф">
+<!ENTITY itemFormSearchHistoryS.accesskey "м">
 <!ENTITY itemCache.label                 "Кэш">
 <!ENTITY itemCache.accesskey             "э">
+<!ENTITY itemCacheS.accesskey            "ш">
 <!ENTITY itemCookies.label               "Куки">
 <!ENTITY itemCookies.accesskey           "у">
+<!ENTITY itemCookiesS.accesskey          "и">
 <!ENTITY itemOfflineApps.label           "Данные автономных веб-сайтов">
 <!ENTITY itemOfflineApps.accesskey       "н">
+<!ENTITY itemOfflineAppsS.accesskey      "ы">
 <!ENTITY itemPasswords.label             "Сохранённые пароли">
 <!ENTITY itemPasswords.accesskey         "р">
+<!ENTITY itemPasswordsS.accesskey        "х">
 <!ENTITY itemSessions.label              "Сессии аутентификации">
 <!ENTITY itemSessions.accesskey          "с">
+
+<!ENTITY itemSessionsS.accesskey         "ф">
 
 <!ENTITY sanitizeButton.label            "Удалить личные данные">
