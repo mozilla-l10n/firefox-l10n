@@ -33,7 +33,7 @@ features-id = ID
 processes-title = 원격 프로세스
 processes-type = 유형
 processes-count = 수
-app-basics-title = 응용 프로그램 기본 정보
+app-basics-title = 애플리케이션 기본 정보
 app-basics-name = 이름
 app-basics-version = 버전
 app-basics-build-id = 빌드 ID
@@ -165,10 +165,10 @@ media-capabilities-enumerate = 데이터베이스 열거
 ##
 
 intl-title = 국제화 및 현지화
-intl-app-title = 응용 프로그램 설정
+intl-app-title = 애플리케이션 설정
 intl-locales-requested = 요청된 언어
 intl-locales-available = 사용 가능한 언어
-intl-locales-supported = 응용 프로그램 언어
+intl-locales-supported = 앱 언어
 intl-locales-default = 기본 언어
 intl-os-title = 운영 체제
 intl-os-prefs-system-locales = 시스템 언어

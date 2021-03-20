@@ -37,6 +37,12 @@ abuse-report-submit-button = 제출
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+
+## Message bars descriptions.
+##
+## Variables:
+##   $addon-name (string) - Name of the add-on
+
 abuse-report-messagebar-aborted = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고가 취소되었습니다.
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고를 보내는 중입니다.
 abuse-report-messagebar-submitted = 신고해 주셔서 감사합니다. <span data-l10n-name="addon-name">{ $addon-name }</span>을 제거하시겠습니까?
@@ -81,5 +87,5 @@ abuse-report-policy-suggestions =
     참고: 저작권 및 상표권 문제는 별도의 절차로 보고해야 합니다.
     문제를 보고하려면 <a data-l10n-name="report-infringement-link">이 지침을 사용하세요</a>.
 abuse-report-unwanted-reason-v2 = 내가 원한것도 아니고 제거하는 방법도 모르겠습니다
-abuse-report-unwanted-example = 예: 내 허가 없이 응용 프로그램이 설치됐습니다
+abuse-report-unwanted-example = 예: 내 허가 없이 애플리케이션이 설치됐습니다
 abuse-report-other-reason = 그 밖의 다른 것
