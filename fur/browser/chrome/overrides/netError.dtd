@@ -191,6 +191,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Se no tu cognossis <span class='mitm-name'/>, alore al podarès tratâsi di un atac e tu varessis di interompi la conession a chest sît.">
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Se no tu cognossis <span class='mitm-name'/>, alore al podarès tratâsi di un atac e no tu puedis fâ nuie par acedi al sît.">
 
+<!ENTITY clockSkewError.longDesc "Il to computer al pense che la ore e sedi cheste <span id='wrongSystemTime_systemDate1'/>, chest al impedìs a &brandShortName; di conetisi in sigurece. Par visitâ <span class='hostname'></span>, inzorne la ore dal to computer intes impostazions di sisteme metint date, ore e fûs orari corints, podopo torne cjarie <span class='hostname'></span>.">
 
 
 
