@@ -20,8 +20,8 @@ about-private-browsing-turn-on-vpn = Испробајте { -mozilla-vpn-brand-n
 about-private-browsing-search-banner-title = { $engineName } је ваш подразумевани претраживач у приватном претраживању
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] За избор неког другог претраживача идите на <a data-l10n-name="link-options">опције</a>
-       *[other] За избор неког другог претраживача идите на <a data-l10n-name="link-options">подешавања</a>
+        [windows] У <a data-l10n-name="link-options">подешавањима</a> можете да изаберете други претраживач.
+       *[other] У <a data-l10n-name="link-options">подешавањима</a> можете да изаберете други претраживач.
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Затвори

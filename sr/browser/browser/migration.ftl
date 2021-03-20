@@ -6,8 +6,8 @@ migration-wizard =
     .title = Чаробњак за увоз
 import-from =
     { PLATFORM() ->
-        [windows] Увези подешавања, забелешке, историјат, лозинке и друге податке из:
-       *[other] Увези подешавања, забелешке, историјат, лозинке и друге податке из:
+        [windows] Увези подешавања, обележиваче, историју, лозинке и друге податке из:
+       *[other] Увези подешавања, обележиваче, историју, лозинке и друге податке из:
     }
 import-from-bookmarks = Увези забелешке из:
 import-from-ie =
@@ -50,7 +50,7 @@ import-from-360se =
     .label = 360 Secure Browser
     .accesskey = 3
 no-migration-sources = Није пронађен ниједан програм који садржи забелешке, историјат или лозинке.
-import-source-page-title = Увези подешавања и податке
+import-source-page-title = Увоз подешавања и података
 import-items-page-title = Ставке за увоз
 import-items-description = Изаберите ставке за увоз:
 import-permissions-page-title = Одобрите дозволе за { -brand-short-name }

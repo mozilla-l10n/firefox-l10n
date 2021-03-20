@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window =
-    .title = Поставке повезивања
+    .title = Подешавања везе
     .style =
         { PLATFORM() ->
             [macos] width: 44em
@@ -19,7 +19,7 @@ connection-proxy-option-no =
     .accesskey = y
 connection-proxy-option-system =
     .label = Користи системска подешавања проксија
-    .accesskey = U
+    .accesskey = К
 connection-proxy-option-auto =
     .label = Самостално откривање поставки проксија за ову мрежу
     .accesskey = w
