@@ -148,9 +148,18 @@ was trying to connect. -->
 <p>Al è probabil che il probleme al sedi causât dal sît web e che no tu puedis risolvilu. Tu puedis notificâ il probleme al aministradôr dal sît web.</p>
 ">
 
-<!ENTITY sharedLongDesc "<ul> <li>Il sît al podarès jessi par cumò no disponibil o masse impegnât. Torne a provâ ca di cualchi moment.</li> <li>Se no tu rivis a cjamâ nissune pagjine, verifiche la conession ae rêt dal to ordenadôr.</li> <li>Se il to ordenadôr o rêt a son protezûts di un firewall o di un proxy, siguriti che &brandShortName; al vedi il permès di acedi al Web.</li> </ul>">
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Il sît al podarès jessi no disponibil pal moment opûr masse impegnât. Torne prove chi di pôc.</li>
+  <li>Se no tu rivis a cjariâ nissune pagjine, controle la conession di rêt dal computer.</li>
+  <li>Se il computer o la rêt a son protets di un firewall o di un proxy, verifiche
+    che &brandShortName; al vedi i permès di acès al Web.</li>
+</ul>
+">
 
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; al à impedît a cheste pagjine di cjariâsi in cheste maniere parcè che la pagjine e à une politiche di sigurece dai contignûts che no lu permet.</p>">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; al à impedît a cheste pagjine di cjaariâsi in chest contest parcè che la pagjine e à une politiche X-Frame-Options che no lu permet.</p>">
 
 
 
