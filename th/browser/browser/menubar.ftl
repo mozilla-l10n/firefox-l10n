@@ -270,12 +270,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = นักพัฒนาเว็บ
     .accesskey = พ
+menu-tools-browser-tools =
+    .label = เครื่องมือสำหรับเบราว์เซอร์
+    .accesskey = บ
+menu-tools-task-manager =
+    .label = ตัวจัดการงาน
+    .accesskey = ต
 menu-tools-page-source =
     .label = ต้นฉบับหน้า
     .accesskey = ต
 menu-tools-page-info =
     .label = ข้อมูลหน้า
     .accesskey = ข
+menu-settings =
+    .label = การตั้งค่า
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ก
+           *[other] า
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +299,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] ต
            *[other] ด
-        }
-menu-settings =
-    .label = การตั้งค่า
-    .accesskey =
-        { PLATFORM() ->
-            [windows] ก
-           *[other] า
         }
 menu-tools-layout-debugger =
     .label = ตัวดีบั๊กเค้าโครง
@@ -337,11 +343,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหา
     .accesskey = ป
+menu-help-taskmanager =
+    .label = ตัวจัดการงาน
 menu-help-more-troubleshooting-info =
     .label = ข้อมูลการแก้ไขปัญหาเพิ่มเติม
     .accesskey = ข
-menu-help-taskmanager =
-    .label = ตัวจัดการงาน
 menu-help-report-site-issue =
     .label = รายงานปัญหาไซต์…
 menu-help-feedback-page =
@@ -353,8 +359,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม
     .accesskey = ร
-menu-help-enter-troubleshoot-mode =
-    .label = โหมดแก้ไขปัญหา
+menu-help-enter-troubleshoot-mode2 =
+    .label = โหมดแก้ไขปัญหา…
     .accesskey = ห
 menu-help-exit-troubleshoot-mode =
     .label = ปิดโหมดแก้ไขปัญหา

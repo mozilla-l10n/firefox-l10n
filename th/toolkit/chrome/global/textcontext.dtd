@@ -21,4 +21,4 @@
 <!ENTITY fillUsernameMenu.label       "กรอกชื่อผู้ใช้">
 <!ENTITY fillUsernameMenu.accesskey   "ก">
 <!ENTITY noLoginSuggestions.label     "(ไม่มีข้อเสนอแนะการเข้าสู่ระบบ)">
-<!ENTITY viewSavedLogins.label        "ดูข้อมูลการเข้าสู่ระบบที่บันทึกไว้">
+<!ENTITY viewSavedLogins.label        "ดูการเข้าสู่ระบบที่บันทึกไว้">

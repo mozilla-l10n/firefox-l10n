@@ -200,19 +200,20 @@ cfr-doorhanger-cryptominers-description = ความเป็นส่วน�
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
        *[other] { -brand-short-name } ปิดกั้นตัวติดตามไปแล้ว <b>{ $blockedCount }</b> ตัวตั้งแต่ { $date }!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
        *[other] { -brand-short-name } ได้ปิดกั้นตัวติดตามมากกว่า <b>{ $blockedCount }</b> ตัวตั้งแต่ { DATETIME($date, month: "long", year: "numeric") }!
     }
 cfr-doorhanger-milestone-ok-button = ดูทั้งหมด
     .accesskey = ด
-cfr-doorhanger-milestone-close-button = ปิด
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -237,6 +238,12 @@ cfr-whatsnew-pip-fullscreen-icon-alt = ไอคอนภาพที่เล�
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = ปิด
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
+## Protections Dashboard message
+
 cfr-whatsnew-protections-header = ภาพรวมการป้องกัน
 cfr-whatsnew-protections-body = แดชบอร์ดการป้องกันมีรายงานสรุปเกี่ยวกับข้อมูลที่รั่วไหลและการจัดการรหัสผ่าน โดยตอนนี้คุณสามารถติดตามได้ว่าคุณแก้ไขการรั่วไหลไปกี่รายการแล้ว และดูได้ว่ารหัสผ่านที่คุณบันทึกไว้รหัสใดรหัสหนึ่งมีโอกาสที่จะถูกเปิดเผยในข้อมูลที่รั่วไหลหรือไม่
 cfr-whatsnew-protections-cta-link = ดูแดชบอร์ดการป้องกัน
@@ -253,6 +260,8 @@ cfr-doorhanger-doh-body = ความเป็นส่วนตัวของ
 cfr-doorhanger-doh-header = การค้นหา DNS ที่เข้ารหัสและปลอดภัยยิ่งขึ้น
 cfr-doorhanger-doh-primary-button = ตกลง เข้าใจแล้ว
     .accesskey = O
+cfr-doorhanger-doh-primary-button-2 = ตกลง
+    .accesskey = ต
 cfr-doorhanger-doh-secondary-button = ปิดใช้งาน
     .accesskey = D
 
