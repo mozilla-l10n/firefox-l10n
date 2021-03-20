@@ -58,11 +58,23 @@
 
 <!ENTITY notCached.longDesc "<p>Il document domandât nol è disponibil te memorie cache di &brandShortName;.</p><ul><li>Come misure precauzionâl di sigurece, &brandShortName; nol torne a domandâ documents sensibii.</li><li>Fâs clic su Torne prove par tornâ a domandâ il document dal sît web.</li></ul>">
 
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Frache &quot;Torne prove&quot; par passâ ae modalitât in rêt e tornâ a cjamâ la pagjine.</li>
+</ul>
+">
 
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Contate par plasê l'aministradôr dal sît par informâlu di chest probleme.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Contate par plasê i proprietaris dal sît par informâju di chest probleme.</li> </ul>">
 
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Par plasê contate i proprietaris dal sît par informâju di chest probleme.</li>
+</ul>
+">
 
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Par vierzi cheste direzion ti tocjarà instalâ altris programs.</li> </ul>">
 
