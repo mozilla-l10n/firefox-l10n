@@ -95,13 +95,13 @@ main-context-menu-bookmark-add-with-shortcut =
 main-context-menu-bookmark-change =
     .aria-label = Chỉnh sửa dấu trang này
     .accesskey = m
-    .tooltiptext = Chỉnh sửa trang đánh dấu này
+    .tooltiptext = Chỉnh sửa dấu trang này
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-bookmark-change-with-shortcut =
     .aria-label = Chỉnh sửa dấu trang này
     .accesskey = m
-    .tooltiptext = Chỉnh sửa trang đánh dấu này ({ $shortcut })
+    .tooltiptext = Chỉnh sửa dấu trang này ({ $shortcut })
 main-context-menu-open-link =
     .label = Mở liên kết
     .accesskey = O
@@ -111,9 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Mở lên kết trong thẻ chứa mới
     .accesskey = b
-main-context-menu-open-link-container =
-    .label = Mở lên kết trong ngăn chứa mới
-    .accesskey = w
 main-context-menu-open-link-new-window =
     .label = Mở liên kết trong cửa sổ mới
     .accesskey = W
