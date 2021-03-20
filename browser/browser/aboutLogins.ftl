@@ -331,6 +331,22 @@ about-logins-import-report-row-description-error-missing-field = Gabim: Mungon {
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">U shtuan kredenciale të reja hyrjesh</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">U përditësuan kredenciale ekzistues hyrjesh</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kredenciale të përsëdytur hyrjesh</div> <div data-l10n-name="not-imported">(të paimportuar)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Gabime</div> <div data-l10n-name="not-imported">(të paimportuar)</div>
+    }
 
 ## Logins import report page
 
