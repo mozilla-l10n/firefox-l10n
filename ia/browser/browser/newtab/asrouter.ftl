@@ -215,8 +215,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Vider toto
     .accesskey = t
-cfr-doorhanger-milestone-close-button = Clauder
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -241,6 +239,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icone imagine-in-imagine
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Clauder
+    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -304,5 +304,5 @@ cfr-whatsnew-bookmarking-body = Es plus facile sequer tu sitos favorite. { -bran
 
 ## What's new: Cross-site cookie tracking
 
-cfr-whatsnew-cross-site-tracking-header = Complete protection de cookie de traciamento inter-sitos
+cfr-whatsnew-cross-site-tracking-header = Protection complete contra le traciamento inter sitos per cookies
 cfr-whatsnew-cross-site-tracking-body = Tu pote ora optar pro melior protection del cookies de traciamento. { -brand-short-name } poter isolar tu activitates e datos al sito sur que tu es actualmente, assi informationes immagazinate in le navigator non es compartite inter sitos web.
