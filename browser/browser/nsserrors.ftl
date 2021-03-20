@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -11,20 +12,16 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = 连接到 { $hostname } 时发生错误。{ $errorMessage }
-
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 错误代码：{ $error }
-
 psmerr-ssl-disabled = 由于 SSL 协议已被禁用，无法安全地连接。
 psmerr-ssl2-disabled = 由于该站点使用了旧的不安全版本的SSL协议，无法安全地连接。
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    您收到了一个无效的证书。请联系该服务器的管理员或者电子邮件通信员并向他们提供以下信息：
+    您收到了一个无效的证书。请与服务器管理员或者邮件联系人联系，并提供以下信息：
     
     您的证书具有与证书颁发机构签发的另一个证书相同的序列号。请获取一个具有唯一序列号的新证书。
-
 ssl-error-export-only-server = 无法安全通信。对等端不支持高等级加密。
 ssl-error-us-only-server = 无法安全通信。不支持对等端要求的高等级加密。
 ssl-error-no-cypher-overlap = 无法安全地与对等端通信：没有双方共用的加密算法。
