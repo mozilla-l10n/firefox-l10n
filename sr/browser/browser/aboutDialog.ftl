@@ -9,8 +9,8 @@ update-checkForUpdatesButton =
     .label = Провери да ли постоје ажурирања
     .accesskey = C
 update-updateButton =
-    .label = Поново покрени да се { -brand-shorter-name } ажурира
-    .accesskey = R
+    .label = Рестартуј { -brand-shorter-name } ради ажурирања
+    .accesskey = Р
 update-checkingForUpdates = Провера надоградњи…
 update-downloading = <img data-l10n-name="icon"/>Преузимам надоградњу — <label data-l10n-name="download-status"/>
 update-downloading-message = Преузимање ажурирања — <label data-l10n-name="download-status"/>
@@ -25,10 +25,10 @@ update-unsupported = Не можете да извршите ажурирања 
 update-restarting = Поново покрећем…
 channel-description = Тренутно користите <label data-l10n-name="current-channel"></label> канал за ажурирање.
 warningDesc-version = { -brand-short-name } је експерименталан и може бити нестабилан.
-aboutdialog-help-user = { -brand-product-name } помоћ
-aboutdialog-submit-feedback = Пошаљи повратне информације
+aboutdialog-help-user = Помоћ за { -brand-product-name }
+aboutdialog-submit-feedback = Пошаљите повратне информације
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> је <label data-l10n-name="community-exp-creditsLink"> глобална заједница</label> која ради на томе да задржи веб отвореним, јавним и доступним свима.
-community-2 = { -brand-short-name } је дизајнирала <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink"> глобална заједница</label> која ради на томе да задржи веб отвореним, јавним и доступним свима.
+community-2 = { -brand-short-name } развија <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink"> глобална заједница</label> која се залаже да интернет остане отворен, јаван и доступан свима.
 helpus = Желите да помогнете? <label data-l10n-name="helpus-donateLink">Донирајте</label> или <label data-l10n-name="helpus-getInvolvedLink">се прикључите!</label>
 bottomLinks-license = Информације о лиценцирању
 bottomLinks-rights = Права крајњег корисника
