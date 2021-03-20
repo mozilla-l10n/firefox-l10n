@@ -149,8 +149,8 @@ master-password-reload-button =
 
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Желите да синхронизујете своје пријаве на другим уређајима са { -brand-product-name }? Идите на { -sync-brand-short-name } подешавања и потврдите избор Пријаве.
-       *[other] Желите да синхронизујете своје пријаве на другим уређајима са { -sync-brand-short-name }? Идите на { -sync-brand-short-name } подешавања и потврдите избор Пријаве.
+        [windows] Желите да приступите подацима за пријаву свуда где користите { -brand-product-name }? Отворите подешавања { -sync-brand-short-name }-а и означите поље „Подаци за пријаву”.
+       *[other] Желите да приступите подацима за пријаву свуда где користите { -brand-product-name }? Отворите подешавања { -sync-brand-short-name }-а и означите поље „Подаци за пријаву”.
     }
 enable-password-sync-preferences-button =
     .label =
@@ -328,6 +328,16 @@ about-logins-import-dialog-error-no-logins-imported = Ниједна прија�
 about-logins-import-dialog-error-learn-more = Сазнајте више
 about-logins-import-dialog-error-try-again = Покушај поново…
 about-logins-import-dialog-error-cancel = Откажи
+
+##
+## Variables:
+##  $field (String) - The name of the field from the CSV file for example url, username or password
+
+
+##
+## Variables:
+##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
