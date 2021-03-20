@@ -180,6 +180,7 @@ onboarding-multistage-pin-default-subtitle = Spartus, saugus, ir privatus naršy
 onboarding-multistage-pin-default-waiting-subtitle = Atsivėrus nustatymams, pasirinkite „{ -brand-short-name }“ ties naršykle (angl. „Web browser“)
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Tai padarius, „{ -brand-short-name }“ bus įsegta į užduočių juostą, ir bus atverti nustatymai
+onboarding-multistage-pin-default-primary-button-label = Paskirti „{ -brand-short-name }“ mano pagrindine naršykle
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Importuokite savo slaptažodžius, <br/>adresyną, ir <span data-l10n-name="zap">daugiau</span>

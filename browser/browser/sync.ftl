@@ -20,3 +20,5 @@ fxa-signout-dialog =
     .title = Atsijungti nuo „{ -fxaccount-brand-name }“
     .style = min-width: 375px;
     .buttonlabelaccept = Atsijungti
+fxa-signout-dialog2-button = Atsijungti
+fxa-signout-dialog2-checkbox = Pašalinti duomenis iš šio įrenginio (slaptažodžiai, žurnalas, adresynas, kita)
