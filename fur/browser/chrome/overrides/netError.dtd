@@ -193,5 +193,7 @@ was trying to connect. -->
 
 <!ENTITY clockSkewError.longDesc "Il to computer al pense che la ore e sedi cheste <span id='wrongSystemTime_systemDate1'/>, chest al impedìs a &brandShortName; di conetisi in sigurece. Par visitâ <span class='hostname'></span>, inzorne la ore dal to computer intes impostazions di sisteme metint date, ore e fûs orari corints, podopo torne cjarie <span class='hostname'></span>.">
 
+<!ENTITY prefReset.longDesc "Al somee che lis impostazions di sigurece de tô rêt a causedin chest probleme. Desideristu tornâ a meti lis impostazions predefinidis?">
+<!ENTITY prefReset.label "Ripristine impostazions predefinidis">
 
 
