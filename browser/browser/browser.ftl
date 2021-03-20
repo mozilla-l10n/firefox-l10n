@@ -290,6 +290,8 @@ identity-passive-loaded = Časti tejto stránky nie sú zabezpečené (napr. obr
 identity-active-loaded = Na tejto stránke ste vypli Ochranu pred sledovaním.
 identity-weak-encryption = Táto stránka používa slabé šifrovanie.
 identity-insecure-login-forms = Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.
+identity-permissions =
+    .value = Povolenia
 identity-https-only-connection-upgraded = (zmenené na HTTPS)
 identity-https-only-label = Režim "Len HTTPS"
 identity-https-only-dropdown-on =
@@ -301,8 +303,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ak chcete, aby prehliadač { -brand-short-name } zmenil pripojenie na zabezpečné kedykoľvek je to možné, zapnite pre tento server režim "Len HTTPS".
 identity-https-only-info-turn-off2 = Ak sa zdá byť stránka nefunkčná, možno budete musieť vypnúť režim "Len HTTPS" a opätovne načítať stránku pomocou nezabezpečeného protokolu HTTP.
 identity-https-only-info-no-upgrade = Nepodarilo sa zmeniť pripojenie z protokolu HTTP.
-identity-permissions =
-    .value = Povolenia
 identity-permissions-storage-access-header = Cookies tretích strán
 identity-permissions-storage-access-hint = Tieto weby môžu používať cookies tretích strán a počas návštevy tejto stránky pristupovať k údajom z nej.
 identity-permissions-reload-hint = Pre vykonanie zmien budete možno musieť stránku obnoviť.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Prehráva sa
-browser-tab-audio-muted = Stlmené
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = PREHRÁVA SA
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,32 @@ browser-tab-audio-muted2 = STLMENÉ
 browser-tab-audio-blocked = AUTOMATICKÉ PREHRÁVANIE ZABLOKOVANÉ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = OBRAZ V OBRAZE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] STLMIŤ KARTU
+        [one] STLMIŤ KARTU
+        [few] STLMIŤ { $count } KARTY
+       *[other] STLMIŤ { $count } KARIET
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ZAPNÚŤ ZVUK NA KARTE
+        [one] ZAPNÚŤ ZVUK NA KARTE
+        [few] ZAPNÚŤ ZVUK NA { $count } KARTÁCH
+       *[other] ZAPNÚŤ ZVUK NA { $count } KARTÁCH
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] PREHRAŤ KARTU
+        [one] PREHRAŤ KARTU
+        [few] PREHRAŤ { $count } KARTY
+       *[other] PREHRAŤ { $count } KARIET
+    }
 
 ## Bookmarks toolbar items
 
@@ -552,8 +576,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Zobraziť všetky záložky
-bookmarks-recent-bookmarks =
-    .value = Nedávno pridané medzi záložky
 bookmarks-manage-bookmarks =
     .label = Správa záložiek
 bookmarks-recent-bookmarks-panel =
@@ -574,12 +596,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Skryť bočný panel Záložky
            *[other] Zobraziť bočný panel Záložky
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Skryť panel nástrojov Záložky
-           *[other] Zobraziť panel nástrojov Záložky
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -626,10 +642,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Záložky
-library-bookmarks-bookmark-this-page =
-    .label = Pridať stránku medzi záložky
-library-bookmarks-bookmark-edit =
-    .label = Upraviť túto záložku
 library-recent-activity-title =
     .value = Nedávna aktivita
 
