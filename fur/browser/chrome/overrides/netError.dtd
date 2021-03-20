@@ -139,7 +139,14 @@ was trying to connect. -->
 <p>Se tu sês suntune rêt aziendâl o tu stâs doprant programs anti-virus, tu puedis contatâ lis scuadris di supuart par vê assistence. Tu puedis ancje visâ l'aministradôr dal sît web in merit a chest probleme.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>L'orloi dal to computer al è metût su <span id='wrongSystemTime_systemDate2'/>. Verifiche tes impostazions di sisteme che il to computer al sedi configurât cu la date, ore e fûs orari juscj, podopo torne cjame <span class='hostname'/>.</p>
+<p>Se l'orloi al è za stât configurât just, al è probabil che il sît web nol sedi configurât ben e no si pues fâ nuie par risolvi il probleme. Tu puedis visâ l'aministradôr dal sît web in merit a chest probleme.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Al è probabil che il probleme al sedi causât dal sît web e che no tu puedis risolvilu. Tu puedis notificâ il probleme al aministradôr dal sît web.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Il sît al podarès jessi par cumò no disponibil o masse impegnât. Torne a provâ ca di cualchi moment.</li> <li>Se no tu rivis a cjamâ nissune pagjine, verifiche la conession ae rêt dal to ordenadôr.</li> <li>Se il to ordenadôr o rêt a son protezûts di un firewall o di un proxy, siguriti che &brandShortName; al vedi il permès di acedi al Web.</li> </ul>">
 
