@@ -12,7 +12,7 @@ navbar-tooltip-instruction =
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Recuolar d'una pagina
+    .tooltiptext = Recular d’una pagina
     .aria-label = Pagina precedenta
     .accesskey = P
 navbar-tooltip-back =
@@ -22,7 +22,7 @@ toolbar-button-back =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Recuolar d'una pagina ({ $shortcut })
+    .tooltiptext = Recular d’una pagina ({ $shortcut })
     .aria-label = Pagina precedenta
     .accesskey = P
 navbar-tooltip-back-2 =
@@ -111,9 +111,6 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = Dobrir lo ligam dins un novèl onglet contextual
     .accesskey = b
-main-context-menu-open-link-container =
-    .label = Dobrir lo ligam dins un novèl onglet contextual
-    .accesskey = c
 main-context-menu-open-link-new-window =
     .label = Dobrir lo ligam dins una fenèstra novèla
     .accesskey = o
