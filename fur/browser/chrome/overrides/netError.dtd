@@ -108,12 +108,19 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Siguriti che il to sisteme al vedi instalât il Personal Security Manager.</li> <li>Chest al podarès jessi dovût a une configurazion no standard sul servidôr.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Verifiche che il to sisteme al vedi instalât il Personal Security Manager.</li> 
+  <li>Chest al podarès jessi dovût a une configurazion sul servidôr che no je standard.</li> 
+</ul>
+">
 
-<!ENTITY nssFailure2.longDesc2 "<ul>
-  <li>No si pues visualizâ cheste pagjine parcè che no si à podût verificâ la autenticitât dai dâts ricevûts.</li>
-  <li>Par plasê contate il proprietari dal sît web par informâlu dal probleme.</li>
-</ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>No si pues visualizâ la pagjine che tu stâs cirint di viodi parcè che no si à podût verificâ la autenticitât dai dâts ricevûts.</li> 
+  <li>Par plasê contate i proprietaris dal sît web par informâju di chest probleme.</li> 
+</ul>
+">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
