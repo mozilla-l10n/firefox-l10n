@@ -11,7 +11,7 @@
 # This string is used so that the window has a title in tools that enumerate/look for window
 # titles. It is not normally visible anywhere.
 webrtc-indicator-title = { -brand-short-name } - 공유 표시기
-webrtc-sharing-window = 다른 응용 프로그램 창을 공유하고 있습니다.
+webrtc-sharing-window = 다른 애플리케이션 창을 공유하고 있습니다.
 webrtc-sharing-browser-window = { -brand-short-name }를 공유하고 있습니다.
 webrtc-sharing-screen = 전체 화면을 공유하고 있습니다.
 webrtc-stop-sharing-button = 공유 중지
