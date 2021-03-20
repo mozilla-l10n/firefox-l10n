@@ -10,8 +10,8 @@ do-not-track-option-always =
     .label = Увек
 pref-page-title =
     { PLATFORM() ->
-        [windows] Поставке
-       *[other] Поставке
+        [windows] Подешавања
+       *[other] Подешавања
     }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -883,7 +883,7 @@ sitedata-learn-more = Сазнајте више
 sitedata-delete-on-close =
     .label = Очисти колачиће и податке сајтова након што затворим { -brand-short-name }
     .accesskey = т
-sitedata-delete-on-close-private-browsing = У трајном режиму приватног прегледања колачићи и подаци о сајтовима ће се брисати сваки пут када се { -brand-short-name } затвори.
+sitedata-delete-on-close-private-browsing = У трајном режиму приватног прегледања колачићи и подаци о сајтовима ће бити обрисани сваки пут када се { -brand-short-name } затвори.
 sitedata-allow-cookies-option =
     .label = Прихватај колачиће и податке сајта
     .accesskey = П

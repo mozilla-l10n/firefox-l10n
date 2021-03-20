@@ -32,7 +32,7 @@ about-logins-menu-menuitem-export-logins = Извезите пријаве…
 about-logins-menu-menuitem-remove-all-logins = Уклони све пријаве…
 menu-menuitem-preferences =
     { PLATFORM() ->
-        [windows] Опције
+        [windows] Подешавања
        *[other] Подешавања
     }
 about-logins-menu-menuitem-help = Помоћ
@@ -155,10 +155,10 @@ enable-password-sync-notification-message =
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
-            [windows] Посетите { -sync-brand-short-name } опције
-           *[other] Посетите { -sync-brand-short-name } подешавања
+            [windows] Отвори подешавања { -sync-brand-short-name }-а
+           *[other] Отвори подешавања { -sync-brand-short-name }-а
         }
-    .accesskey = V
+    .accesskey = О
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Не питај ме поново
     .accesskey = D

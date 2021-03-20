@@ -72,7 +72,7 @@ profiler-popup-learn-more = Сазнајте више
 profiler-popup-settings =
     .value = Подешавања
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
-profiler-popup-edit-settings = Измени подешавања…
+profiler-popup-edit-settings = Уреди подешавања…
 profiler-popup-disabled =
     Profiler је тренутно онемогућен, вероватно због отвореног прозора
     за приватно прегледање.
