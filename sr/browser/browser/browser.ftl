@@ -290,6 +290,8 @@ identity-passive-loaded = Делови ове странице нису безб
 identity-active-loaded = Заштита на овој страници је искључена.
 identity-weak-encryption = Страница користи слабо шифровање.
 identity-insecure-login-forms = Пријаве које су унесене на овој страници су можда угрожене.
+identity-permissions =
+    .value = Дозволе
 identity-https-only-connection-upgraded = (надограђено на HTTPS)
 identity-https-only-label = HTTPS-Only режим
 identity-https-only-dropdown-on =
@@ -298,11 +300,9 @@ identity-https-only-dropdown-off =
     .label = Искљ.
 identity-https-only-dropdown-off-temporarily =
     .label = Привремено искључено
-identity-https-only-info-turn-on2 = Укључите HTTPS-Only режим за ову страницу ако желите да { -brand-short-name } надогради везу кад је то могуће.
+identity-https-only-info-turn-on2 = Укључите режим „Само HTTPS” за овај сајт ако желите да { -brand-short-name } надогради везу кад је то могуће.
 identity-https-only-info-turn-off2 = Ако страница делује неисправно, можете искључити HTTPS-Only режим и поново учитати страницу преко несигурног HTTP-а.
 identity-https-only-info-no-upgrade = Није могуће надоградити HTTP везу.
-identity-permissions =
-    .value = Дозволе
 identity-permissions-storage-access-header = Вишестранични колачићи
 identity-permissions-storage-access-hint = Ове стране могу користити вишестраничне колачиће и страничне податке током ваше посете страници.
 identity-permissions-reload-hint = Можда ћете морати поново учитати страницу да примените промене.
@@ -350,8 +350,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Пушта се
-browser-tab-audio-muted = Утишано
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = РЕПРОДУКОВАЊЕ
 # This label should be written in all capital letters if your locale supports them.
@@ -360,6 +358,11 @@ browser-tab-audio-muted2 = УТИШАНО
 browser-tab-audio-blocked = АУТОМАТСКА РЕПРОДУКЦИЈА БЛОКИРАНА
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = СЛИКА У СЛИЦИ
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -533,8 +536,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Прикажи све забелешке
-bookmarks-recent-bookmarks =
-    .value = Недавно забележене
 bookmarks-manage-bookmarks =
     .label = Управљај обележивачима
 bookmarks-recent-bookmarks-panel =
@@ -555,12 +556,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Сакриј палету са забелешкама
            *[other] Прикажи у бочној палети
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Сакриј траку са забелешкама
-           *[other] Прикажи траку са забелешкама
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -607,10 +602,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Забелешке
-library-bookmarks-bookmark-this-page =
-    .label = Забележи ову страницу
-library-bookmarks-bookmark-edit =
-    .label = Уреди ову забелешку
 library-recent-activity-title =
     .value = Недавна активност
 
@@ -623,3 +614,9 @@ more-menu-go-offline =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Неки аудио или видео на овом сајту користи DRM софтвер, што може ограничити могућности које { -brand-short-name } допушта да урадите са њим.
+
+## Password save/update panel
+
+
+## Add-on removal warning
+

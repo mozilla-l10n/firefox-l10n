@@ -65,7 +65,7 @@ cfr-doorhanger-pintab-description = Имајте брз приступ сајт�
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = Кликните <b>десним кликом</b> на језичак који желите закачити.
+cfr-doorhanger-pintab-step1 = Кликните <b>десним тастером</b> на картицу коју желите да закачите.
 cfr-doorhanger-pintab-step2 = Изаберите <b>„Закачи језичак“</b> опцију из менија.
 cfr-doorhanger-pintab-step3 = Уколико има новости на сајту, видећете плаву тачку на вашем закаченом језичку.
 cfr-doorhanger-pintab-animation-pause = Заустави
@@ -210,13 +210,16 @@ cfr-doorhanger-cryptominers-description = Ваша приватност је б�
 
 # Variables:
 #   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
-#   $date (Number) - The date we began recording the count of blocked trackers
+#   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
         [one] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
         [few] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
        *[other] Од { $date }, { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење!
     }
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
         [one] { -brand-short-name } је блокирао више од <b>{ $blockedCount }</b> програма за праћење од { DATETIME($date, month: "long", year: "numeric") }!
@@ -225,8 +228,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Погледај све
     .accesskey = S
-cfr-doorhanger-milestone-close-button = Затвори
-    .accesskey = C
 
 ## What’s New Panel Content for Firefox 76
 
@@ -249,6 +250,12 @@ cfr-whatsnew-pip-fullscreen-header = Проширите слика-у-слици
 cfr-whatsnew-pip-fullscreen-body = Када видео поставите у плутајући прозор, сада га можете двапут кликнути да бисте прешли на цео екран.
 cfr-whatsnew-pip-fullscreen-icon-alt = Слика-у-слици иконица
 
+## Protections Dashboard message
+
+cfr-doorhanger-milestone-close-button = Затвори
+    .accesskey = C
+
+## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
 
 cfr-whatsnew-protections-header = Заштита на први поглед
