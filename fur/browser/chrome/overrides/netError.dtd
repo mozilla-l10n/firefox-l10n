@@ -130,8 +130,14 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; al à rilevât un probleme e al à interot la conession cun <span class='hostname'/>. O il sît web nol è configurât ben o l'orloi dal to computer al à une ore sbaliade.">
 <!ENTITY certerror.expiredCert.secondPara2 "Al somee che il certificât dal sît web al sedi scjadût, chest al impedìs a &brandShortName; di conetisi in sigurece. Se tu visitis chest sît, i malintenzionâts a podaressin cirî di robâ informazions come lis tôs passwords, e-mails opûr i detais des cjartis di credit.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Al somee che il certificât dal sît web al sedi scjadût, chest al impedìs a &brandShortName; di conetisi in sigurece.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Ce puedistu fâ in merit?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Al è facil che il probleme al sedi causât dal sît web e no tu puedis fâ nuie par risolvilu.</p>
+<p>Se tu sês suntune rêt aziendâl o tu stâs doprant programs anti-virus, tu puedis contatâ lis scuadris di supuart par vê assistence. Tu puedis ancje visâ l'aministradôr dal sît web in merit a chest probleme.</p>
+">
 
 
 
