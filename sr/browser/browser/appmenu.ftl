@@ -144,11 +144,11 @@ appmenu-help-safe-mode-with-addons =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
-    .label = Пријави обманљив сајт…
-    .accesskey = D
+    .label = Пријави обмањујућ сајт…
+    .accesskey = б
 appmenu-help-not-deceptive =
-    .label = Ово није обманљив сајт…
-    .accesskey = d
+    .label = Ово није обмањујућ сајт…
+    .accesskey = б
 
 ## More Tools
 

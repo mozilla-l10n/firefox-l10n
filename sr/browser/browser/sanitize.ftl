@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = Поставке за брисање историјата
+    .title = Подешавања за брисање историје
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
@@ -62,7 +62,7 @@ item-form-search-history =
     .accesskey = ф
 data-section-label = Подаци
 item-site-preferences =
-    .label = Поставке за веб сајт
+    .label = Подешавања сајтова
     .accesskey = П
 item-offline-apps =
     .label = Примљене податке са сајтова
