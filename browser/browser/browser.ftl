@@ -279,7 +279,7 @@ identity-custom-root = การเชื่อมต่อถูกตรวจ
 identity-passive-loaded = บางส่วนของหน้านี้ไม่ปลอดภัย (อย่างเช่น ภาพ)
 identity-active-loaded = คุณได้ปิดใช้งานการป้องกันในหน้านี้
 identity-weak-encryption = หน้านี้ใช้การเข้ารหัสที่อ่อนแอ
-identity-insecure-login-forms = ข้อมูลการเข้าสู่ระบบที่ใส่ไว้บนหน้านี้อาจถูกบุกรุกได้
+identity-insecure-login-forms = การเข้าสู่ระบบที่ป้อนบนหน้านี้อาจถูกบุกรุกได้
 identity-permissions =
     .value = สิทธิอนุญาต
 identity-https-only-connection-upgraded = (อัปเกรดเป็น HTTPS)
@@ -307,7 +307,7 @@ identity-remove-cert-exception =
     .label = เอาข้อยกเว้นออก
     .accesskey = อ
 identity-description-insecure = การเชื่อมต่อของคุณไปยังไซต์นี้ไม่เป็นส่วนตัว ข้อมูลที่คุณแบ่งปันกับไซต์นี้สามารถดูได้โดยผู้อื่น (เช่น รหัสผ่าน, ข้อความ, บัตรเครดิต ฯลฯ)
-identity-description-insecure-login-forms = ข้อมูลการเข้าสู่ระบบที่คุณป้อนในหน้านี้ไม่ปลอดภัยและอาจถูกบุกรุกได้
+identity-description-insecure-login-forms = การเข้าสู่ระบบที่คุณป้อนบนหน้านี้ไม่ปลอดภัยและอาจถูกบุกรุกได้
 identity-description-weak-cipher-intro = การเชื่อมต่อของคุณไปยังเว็บไซต์นี้ใช้การเข้ารหัสที่อ่อนแอและไม่เป็นส่วนตัว
 identity-description-weak-cipher-risk = ผู้คนอื่น ๆ สามารถดูข้อมูลของคุณหรือเปลี่ยนแปลงลักษณะการทำงานของเว็บไซต์
 identity-description-active-blocked = { -brand-short-name } ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย <label data-l10n-name="link">เรียนรู้เพิ่มเติม</label>

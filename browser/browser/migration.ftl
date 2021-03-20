@@ -119,11 +119,11 @@ browser-data-formdata-label =
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
-    .label = ข้อมูลการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
+    .label = การเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
-    .value = ข้อมูลการเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
+    .value = การเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->

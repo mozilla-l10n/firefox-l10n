@@ -667,7 +667,7 @@ sync-currently-syncing-heading = คุณกำลังซิงค์รา�
 sync-currently-syncing-bookmarks = ที่คั่นหน้า
 sync-currently-syncing-history = ประวัติ
 sync-currently-syncing-tabs = แท็บที่เปิด
-sync-currently-syncing-logins-passwords = ข้อมูลการเข้าสู่ระบบและรหัสผ่าน
+sync-currently-syncing-logins-passwords = การเข้าสู่ระบบและรหัสผ่าน
 sync-currently-syncing-addresses = ที่อยู่
 sync-currently-syncing-creditcards = บัตรเครดิต
 sync-currently-syncing-addons = ส่วนเสริม
@@ -700,8 +700,8 @@ sync-engine-tabs =
     .tooltiptext = รายการสิ่งที่เปิดอยู่ในอุปกรณ์ที่ซิงค์ทั้งหมด
     .accesskey = บ
 sync-engine-logins-passwords =
-    .label = ข้อมูลการเข้าสู่ระบบและรหัสผ่าน
-    .tooltiptext = ชื่อผู้ใช้และรหัสผ่านที่คุณได้บันทึกไว้
+    .label = การเข้าสู่ระบบและรหัสผ่าน
+    .tooltiptext = ชื่อผู้ใช้และรหัสผ่านที่คุณบันทึกไว้
     .accesskey = L
 sync-engine-addresses =
     .label = ที่อยู่
@@ -745,11 +745,11 @@ privacy-header = ความเป็นส่วนตัวเบราว์
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = ข้อมูลการเข้าสู่ระบบและรหัสผ่าน
+pane-privacy-logins-and-passwords-header = การเข้าสู่ระบบและรหัสผ่าน
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = ถามเพื่อบันทึกข้อมูลการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
+    .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
     .accesskey = ถ
 forms-exceptions =
     .label = ข้อยกเว้น…
@@ -763,10 +763,10 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = เรียนรู้เพิ่มเติม
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = กรอกข้อมูลการเข้าสู่ระบบและรหัสผ่านอัตโนมัติ
+    .label = กรอกการเข้าสู่ระบบและรหัสผ่านอัตโนมัติ
     .accesskey = ร
 forms-saved-logins =
-    .label = ข้อมูลการเข้าสู่ระบบที่บันทึกไว้…
+    .label = การเข้าสู่ระบบที่บันทึกไว้…
     .accesskey = ก
 forms-master-pw-use =
     .label = ใช้รหัสผ่านหลัก
