@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-cancel-button = Бекор кардан
+screenshots-copy-button = Нусха бардоштан
+screenshots-copy-button-tooltip = Нусха бардоштани акси экран ба ҳофизаи муваққатӣ

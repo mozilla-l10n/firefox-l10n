@@ -122,6 +122,7 @@ this container is a toolbar. This avoids double-speaking. -->
      This string is displayed in the search box when the input field is empty. -->
 
 
+<!ENTITY pageAction.copyLink.label    "Нусха бардоштани пайванд">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->

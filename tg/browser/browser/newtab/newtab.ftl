@@ -15,6 +15,7 @@
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Бекор кардан
+newtab-topsites-delete-history-button = Нест кардан аз таърих
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -48,6 +49,7 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = Таҳрир кардан
 newtab-menu-open-new-window = Кушодан дар равзанаи нав
 newtab-menu-open-new-private-window = Кушодан дар равзанаи махфии нав
+newtab-menu-delete-history = Нест кардан аз таърих
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -58,6 +60,9 @@ newtab-menu-open-new-private-window = Кушодан дар равзанаи м�
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Нусха бардоштани пайванди боргирӣ
+newtab-menu-go-to-download-page = Гузариш ба саҳифаи боргирӣ
+newtab-menu-remove-download = Нест кардан аз таърих
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
