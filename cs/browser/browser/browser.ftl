@@ -302,6 +302,8 @@ identity-passive-loaded = Části této stránky nejsou zabezpečené (napříkl
 identity-active-loaded = Na této stránce jste ochranu zakázali.
 identity-weak-encryption = Tento server používá slabé šifrování.
 identity-insecure-login-forms = Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.
+identity-permissions =
+    .value = Oprávnění
 identity-https-only-connection-upgraded = (přepnuto na HTTPS)
 identity-https-only-label = Režim „pouze HTTPS“
 identity-https-only-dropdown-on =
@@ -319,8 +321,6 @@ identity-https-only-info-turn-on2 =
     } spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
 identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
 identity-https-only-info-no-upgrade = Nepodařilo se přepnout spojení z HTTP.
-identity-permissions =
-    .value = Oprávnění
 identity-permissions-storage-access-header = Cross-site cookies
 identity-permissions-storage-access-hint = Tyto weby mohou používat cross-site cookies a během vaší návštěvy této stránky tak přistupovat k jejím datům.
 identity-permissions-reload-hint = Pro provedení změn může být potřeba stránku znovu načíst.
@@ -380,8 +380,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Přehrávání
-browser-tab-audio-muted = Ztlumeno
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = PŘEHRÁVÁ
 # This label should be written in all capital letters if your locale supports them.
@@ -390,6 +388,32 @@ browser-tab-audio-muted2 = ZTLUMENO
 browser-tab-audio-blocked = BLOKOVÁNO AUTO. PŘEHRÁVÁNÍ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = OBRAZ V OBRAZE
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+browser-tab-mute =
+    { $count ->
+        [1] Vypnout zvuk panelu
+        [one] Vypnout zvuk panelu
+        [few] Vypnout zvuk { $count } panelů
+       *[other] Vypnout zvuk { $count } panelů
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] Zapnout zvuk panelu
+        [one] Zapnout zvuk panelu
+        [few] Zapnout zvuk { $count } panelů
+       *[other] Zapnout zvuk { $count } panelů
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] Spustit přehrávání
+        [one] Spustit přehrávání
+        [few] Spustit ve { $count } panelech
+       *[other] Spustit v { $count } panelech
+    }
 
 ## Bookmarks toolbar items
 
@@ -588,8 +612,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Zobrazit všechny záložky
-bookmarks-recent-bookmarks =
-    .value = Naposledy přidané
 bookmarks-manage-bookmarks =
     .label = Správa záložek
 bookmarks-recent-bookmarks-panel =
@@ -610,12 +632,6 @@ bookmarks-tools-sidebar-visibility =
         { $isVisible ->
             [true] Skrýt postranní lištu záložek
            *[other] Zobrazit v postranní liště
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Skrýt lištu záložek
-           *[other] Zobrazit lištu záložek
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
@@ -662,10 +678,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Záložky
-library-bookmarks-bookmark-this-page =
-    .label = Přidat stránku do záložek
-library-bookmarks-bookmark-edit =
-    .label = Upravit záložku
 library-recent-activity-title =
     .value = Nedávná aktivita
 

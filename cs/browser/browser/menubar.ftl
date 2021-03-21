@@ -298,12 +298,22 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Nástroje pro vývojáře
     .accesskey = v
+menu-tools-task-manager =
+    .label = Správce úloh
+    .accesskey = h
 menu-tools-page-source =
     .label = Zdrojový kód stránky
     .accesskey = j
 menu-tools-page-info =
     .label = Informace o stránce
     .accesskey = I
+menu-settings =
+    .label = Nastavení
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -314,13 +324,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] M
            *[other] v
-        }
-menu-settings =
-    .label = Nastavení
-    .accesskey =
-        { PLATFORM() ->
-            [windows] N
-           *[other] N
         }
 menu-tools-layout-debugger =
     .label = Debugger rozložení
@@ -334,15 +337,6 @@ menu-window-bring-all-to-front =
     .label = Přenést vše do popředí
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -386,11 +380,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Technické informace
     .accesskey = T
+menu-help-taskmanager =
+    .label = Správce úloh
 menu-help-more-troubleshooting-info =
     .label = Další technické informace
     .accesskey = t
-menu-help-taskmanager =
-    .label = Správce úloh
 menu-help-report-site-issue =
     .label = Nahlásit problém se stránkou…
 menu-help-feedback-page =
@@ -402,8 +396,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Restartovat s povolenými doplňky
     .accesskey = R
-menu-help-enter-troubleshoot-mode =
-    .label = Režim řešení potíží
+menu-help-enter-troubleshoot-mode2 =
+    .label = Režim řešení potíží…
     .accesskey = m
 menu-help-exit-troubleshoot-mode =
     .label = Ukončit režim řešení potíží
@@ -416,6 +410,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Tato stránka není klamavá…
     .accesskey = l
-menu-help-check-for-update =
-    .label = Zkontrolovat aktualizace…
-    .accesskey = Z
