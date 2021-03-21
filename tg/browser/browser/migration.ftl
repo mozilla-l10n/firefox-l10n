@@ -4,6 +4,7 @@
 
 migration-wizard =
     .title = Устоди воридот
+import-from-bookmarks = Ворид кардани хатбаракҳо аз:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M

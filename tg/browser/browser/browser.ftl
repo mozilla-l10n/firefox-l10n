@@ -231,6 +231,8 @@ identity-connection-secure = Пайвастшавӣ бехатар аст
 identity-connection-internal = Ин саҳифаи бехатари { -brand-short-name } мебошад.
 identity-connection-file = Ин саҳифа дар компютери шумо нигоҳ дошта мешавад.
 identity-extension-page = Ин саҳифа аз васеъшавӣ бор карда шудааст.
+identity-permissions =
+    .value = Иҷозатҳо
 identity-https-only-connection-upgraded = (ба HTTPS такмил ёфт)
 identity-https-only-label = Реҷаи ТАНҲО-HTTPS
 identity-https-only-dropdown-on =
@@ -239,8 +241,6 @@ identity-https-only-dropdown-off =
     .label = Ғайрифаъол
 identity-https-only-dropdown-off-temporarily =
     .label = Муваққатан ғайрифаъол
-identity-permissions =
-    .value = Иҷозатҳо
 identity-remove-cert-exception =
     .label = Тоза кардани истисно
     .accesskey = Т
@@ -265,6 +265,11 @@ browser-window-close-button =
     .tooltiptext = Пӯшидан
 
 ## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
 
 
 ## Bookmarks toolbar items
@@ -430,6 +435,24 @@ bookmarks-tools-sidebar-visibility =
             [true] Пинҳон кардани навори ҷонибии хатбаракҳо
            *[other] Намоиш додани навори ҷонибии хатбаракҳо
         }
+bookmarks-tools-toolbar-visibility-menuitem =
+    .label =
+        { $isVisible ->
+            [true] Пинҳон кардани навори хатбаракҳо
+           *[other] Намоиш додани навори хатбаракҳо
+        }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Пинҳон кардани навори хатбаракҳо
+           *[other] Намоиш додани навори хатбаракҳо
+        }
+bookmarks-tools-menu-button-visibility =
+    .label =
+        { $isVisible ->
+            [true] Тоза кардани менюи хатбаракҳо аз навори абзорҳо
+           *[other] Илова кардани менюи хатбаракҳо ба навори абзорҳо
+        }
 bookmarks-search =
     .label = Ҷустуҷӯи хатбаракҳо
 bookmarks-tools =
@@ -445,13 +468,18 @@ bookmarks-toolbar =
     .aria-label = Хатбаракҳо
 bookmarks-toolbar-menu =
     .label = Навори хатбаракҳо
+bookmarks-toolbar-placeholder =
+    .title = Унсурҳои навори хатбаракҳо
+bookmarks-toolbar-placeholder-button =
+    .label = Унсурҳои навори хатбаракҳо
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-current-tab =
+    .label = Гузоштани хатбарак барои варақаи ҷорӣ
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Хатбаракҳо
-library-bookmarks-bookmark-edit =
-    .label = Таҳрир кардани ин хатбарак
 library-recent-activity-title =
     .value = Фаъолияти охирин
 

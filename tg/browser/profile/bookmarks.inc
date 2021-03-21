@@ -10,6 +10,7 @@
 #define bookmarks_title Хатбаракҳо
 #define bookmarks_heading Хатбаракҳо
 
+#define bookmarks_toolbarfolder Ҷузвдони навори хатбаракҳо
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
@@ -19,6 +20,9 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
+# link title for https://www.mozilla.org/en-US/firefox/help/
+
+# LOCALIZATION NOTE (firefox_get_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 # LOCALIZATION NOTE (firefox_customize):
