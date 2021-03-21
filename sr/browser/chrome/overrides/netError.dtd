@@ -168,7 +168,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Прихвати ризик и настави">
 
-<!ENTITY errorReporting.automatic2 "Аутоматски пријавите грешке да бисте помогли Mozilla-и да идентификује и блокира злонамере сајтове">
+<!ENTITY errorReporting.automatic2 "Пријавите грешке попут ове како би Mozilla лакше препознала и блокирала злонамерне сајтове">
 <!ENTITY errorReporting.learnMore "Сазнајте више…">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Обавестите власнике веб сајта о овом проблему.</li></ul></p>">

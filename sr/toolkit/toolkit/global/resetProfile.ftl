@@ -9,6 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = Започните са свежом верзијом да бисте решили проблеме и обновили перформансе.
 refresh-profile-description-details = Ово ће:
 refresh-profile-remove = Уклонити додатке и прилагођавања
-refresh-profile-restore = Вратити поставке прегледача на подразумеване
+refresh-profile-restore = Враћање подразумеваних подешавања
 refresh-profile = Подеси { -brand-short-name }
 refresh-profile-button = Освежи { -brand-short-name }…
