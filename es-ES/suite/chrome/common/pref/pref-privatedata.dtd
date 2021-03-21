@@ -9,6 +9,9 @@
 <!ENTITY askBeforeClear.label "Preguntarme antes de limpiar datos privados">
 <!ENTITY askBeforeClear.accesskey "P">
 <!ENTITY clearDataSettings.label "Cuando le pida a &brandShortName; limpiar mis datos privados, debería borrar:">
+<!ENTITY clearData.label "Limpiar estos datos privados:">
+<!ENTITY clearData.cpd.label "Manualmente">
+<!ENTITY clearData.onShutdown.label "Al cerrar">
 <!ENTITY clearDataDialog.label "Limpiar ahora…">
 <!ENTITY clearDataSilent.label "Limpiar ahora">
 <!ENTITY clearDataDialog.accesskey "a">
