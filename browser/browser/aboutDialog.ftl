@@ -3,7 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = О { -brand-full-name }-у
+    .title =
+        О { -brand-full-name.gender ->
+            [masculine] { -brand-full-name(case: "loc") }
+            [feminine] { -brand-full-name(case: "loc") }
+            [neuter] { -brand-full-name(case: "loc") }
+           *[other] програму { -brand-full-name }
+        }
 releaseNotes-link = Шта је ново
 update-checkForUpdatesButton =
     .label = Провери да ли постоје ажурирања
