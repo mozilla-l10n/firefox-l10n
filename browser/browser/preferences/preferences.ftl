@@ -118,8 +118,8 @@ search-results-header = Резултати претраге
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Жао нам је! Нема резултата у поставкама за “<span data-l10n-name="query"></span>”.
-       *[other] Жао нам је! Нема резултата у поставкама за “<span data-l10n-name="query"></span>”.
+        [windows] У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
+       *[other] У подешавањима нема резултата за „<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Потребна вам је помоћ? Посетите <a data-l10n-name="url">{ -brand-short-name } подршка</a>
 
