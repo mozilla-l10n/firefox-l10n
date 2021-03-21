@@ -70,5 +70,14 @@
         [loc] Firefox-у
     }
     .gender = masculine
--vendor-short-name = Mozilla
+-vendor-short-name =
+    { $case ->
+       *[nom] Mozilla
+        [gen] Mozill-е
+        [dat] Mozill-и
+        [acc] Mozill-у
+        [ins] Mozill-ом
+        [loc] Mozill-и
+    }
+    .gender = feminine
 trademarkInfo = Firefox и његови логотипи су заштитни знакови Mozilla Foundation-а.
