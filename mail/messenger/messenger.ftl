@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $count (Number) - Number of unread messages.
+unread-messages-os-tooltip =
+    { $count ->
+       *[other] { $count } оқылмаған хабарлама
+    }
 about-rights-notification-text = { -brand-short-name } - бұл еркін және бастапқы кодтары ашық бағдарламалық қамтама, ол дүниежүзінің әр жерінен мындаған адамы бар қоғамдастықпен жасалған.
 
 ## Folder Pane

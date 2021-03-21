@@ -57,6 +57,11 @@ openpgp-key-man-change-expiry =
 openpgp-delete-key =
     .label = Кілтті өшіру
     .accesskey = ш
+openpgp-key-details-id-label =
+    .label = ID
+openpgp-key-details-key-type-label = Түрі
+openpgp-key-details-key-part-label =
+    .label = Кілт бөлімі
 openpgp-key-details-algorithm-label =
     .label = Алгоритм
 openpgp-key-details-size-label =
@@ -64,6 +69,7 @@ openpgp-key-details-size-label =
 openpgp-key-details-created-label =
     .label = Жасалған
 openpgp-key-details-created-header = Жасалған
+openpgp-key-details-fingerprint-label = Баспасы
 openpgp-copy-cmd-label =
     .label = Көшіріп алу
 
@@ -72,6 +78,7 @@ openpgp-copy-cmd-label =
 
 ## OpenPGP Key selection area
 
+key-expiry-never = ешқашан
 
 ## Account settings export output
 
