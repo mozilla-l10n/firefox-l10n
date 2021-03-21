@@ -370,6 +370,13 @@ browser-tab-mute =
         [few] UTIŠAJ { $count } KARTICE
        *[other] UTIŠAJ { $count } KARTICA
     }
+browser-tab-unmute =
+    { $count ->
+        [1] PRESTANI UTIŠAVATI KARTICU
+        [one] PRESTANI UTIŠAVATI { $count } KARTICU
+        [few] PRESTANI UTIŠAVATI { $count } KARTICE
+       *[other] PRESTANI UTIŠAVATI { $count } KARTICA
+    }
 browser-tab-unblock =
     { $count ->
         [1] REPRODUCIRAJ KARTICU
