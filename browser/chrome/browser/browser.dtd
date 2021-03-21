@@ -78,8 +78,8 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Изађи из приказа преко целог екрана (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Изађи из приказа преко целог екрана (esc)">
+<!ENTITY exitDOMFullscreen.button "Изађи из режима целог екрана (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Изађи из режима целог екрана (esc)">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used

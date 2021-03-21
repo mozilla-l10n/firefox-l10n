@@ -513,9 +513,9 @@ urlbar-result-action-search-tabs = Претражи језичке
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> је сада у приказу преко целог екрана
 fullscreen-warning-no-domain = Овај документ се приказује преко целог екрана
-fullscreen-exit-button = Изађи из приказа преко целог екрана (Esc)
+fullscreen-exit-button = Изађи из режима целог екрана (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
-fullscreen-exit-mac-button = Изађи из приказа преко целог екрана (esc)
+fullscreen-exit-mac-button = Изађи из режима целог екрана (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
