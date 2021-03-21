@@ -11,7 +11,7 @@
 <!ENTITY muteButton.muteLabel "Искљ. звук">
 <!ENTITY muteButton.unmuteLabel "Пусти тон">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Користи цео екран">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Изађи из целог екрана">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Изађи из режима целог екрана">
 <!ENTITY castingButton.castingLabel "Пребаци на екран">
 <!ENTITY closedCaption.off "Искључено">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to

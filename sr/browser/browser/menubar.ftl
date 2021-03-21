@@ -38,7 +38,7 @@ menu-quit =
         }
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
-    .label = Изађи из { -brand-shorter-name }
+    .label = Затвори { -brand-shorter-name }
 # This menu-quit-button string is only used on Linux.
 menu-quit-button =
     .label = { menu-quit.label }
