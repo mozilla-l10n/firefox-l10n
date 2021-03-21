@@ -24,9 +24,12 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbarCmd.label "Навори хатбаракҳо">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Хатбаракҳо">
+<!ENTITY bookmarksToolbarItem.label "Унсурҳои навори хатбаракҳо">
 
 
 
@@ -53,12 +56,25 @@ this container is a toolbar. This avoids double-speaking. -->
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
+<!ENTITY showAllBookmarks2.label "Намоиш додани ҳамаи хатбаракҳо">
 
 
 
 <!-- Toolbar items -->
 
+<!ENTITY bookmarksButton.label          "Хатбаракҳо">
 
+<!ENTITY bookmarksSubview.label             "Хатбаракҳо">
+<!ENTITY bookmarksMenuButton2.label         "Менюи хатбаракҳо">
+<!ENTITY bookmarksMenuButton.other.label    "Хатбаракҳои дигар">
+<!ENTITY bookmarksMenuButton.mobile.label   "Хатбаракҳои мобилӣ">
+<!ENTITY viewBookmarksSidebar2.label        "Намоиш додани навори ҷонибии хатбаракҳо">
+<!ENTITY hideBookmarksSidebar.label         "Пинҳон кардани навори ҷонибии хатбаракҳо">
+<!ENTITY viewBookmarksToolbar.label         "Намоиш додани навори хатбаракҳо">
+<!ENTITY hideBookmarksToolbar.label         "Пинҳон кардани навори хатбаракҳо">
+<!ENTITY searchBookmarks.label              "Ҷустуҷӯи хатбаракҳо">
+<!ENTITY addBookmarksMenu.label             "Илова кардани менюи хатбаракҳо ба навори абзорҳо">
+<!ENTITY removeBookmarksMenu.label          "Тоза кардани менюи хатбаракҳо аз навори абзорҳо">
 
 
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to

@@ -80,6 +80,8 @@ network-proxy-connection-learn-more = Маълумоти бештар
 ##
 
 home-prefs-recommended-by-learn-more = Чӣ тавр кор мекунад
+home-prefs-highlights-options-bookmarks =
+    .label = Хатбаракҳо
 
 ## Search Section
 
@@ -107,10 +109,14 @@ sync-remove-account =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Хатбаракҳо
 sync-currently-syncing-tabs = Варақаҳои кушодашуда
 
 ## The "Choose what to sync" dialog.
 
+sync-engine-bookmarks =
+    .label = Хатбаракҳо
+    .accesskey = Х
 sync-engine-tabs =
     .label = Варақаҳои кушодашуда
     .tooltiptext = Рӯйхати маводи кушодашуда дар ҳамаи дастгоҳҳои ҳамоҳангшуда
@@ -146,6 +152,9 @@ sitedata-learn-more = Маълумоти бештар
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Хатбаракҳо
+    .accesskey = Х
 addressbar-locbar-openpage-option =
     .label = Варақаҳои кушодашуда
     .accesskey = В
