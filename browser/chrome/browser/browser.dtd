@@ -230,10 +230,10 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY quitApplicationCmdWin2.label       "Изађи">
 <!ENTITY quitApplicationCmdWin2.accesskey   "И">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Изађи из &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Затвори &brandShorterName;">
 <!ENTITY quitApplicationCmd.label       "Изађи">
 <!ENTITY quitApplicationCmd.accesskey   "И">
-<!ENTITY quitApplicationCmdMac2.label   "Изађи из &brandShorterName;">
+<!ENTITY quitApplicationCmdMac2.label   "Затвори &brandShorterName;">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but

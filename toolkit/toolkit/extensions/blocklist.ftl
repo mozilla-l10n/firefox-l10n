@@ -6,16 +6,14 @@ blocklist-window =
     .title = Додаци су можда узрок проблема
     .style = width: 45em; height: 30em
 blocklist-accept =
-    .label = Поново покрени програм { -brand-short-name }
-    .accesskey = П
-
+    .label = Рестартуј { -brand-short-name }
+    .accesskey = Р
 blocklist-label-summary = { -brand-short-name } је установио да наредни додаци могу да узрокују проблеме са стабилношћу или безбедношћу:
 blocklist-soft-and-hard = Додаци који имају висок ризик да узрокују проблеме са стабилношћу или безбедношћу су блокирани. Остали су ниског ризика, али се ипак препоручује да их онемогућите.
 blocklist-hard-blocked = Ови додаци су под високим ризиком да узрокују проблеме са стабилношћу и безбедношћу тако да су блокирани. Потребно је поново покренути програм да би били потпуно онемогућени.
 blocklist-soft-blocked = Ради заштите, препоручује се да онемогућите ове додатке и поново покренете програм.
 blocklist-more-information =
     .value = Више информација
-
 blocklist-blocked =
     .label = Блокиран
 blocklist-checkbox =
