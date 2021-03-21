@@ -66,7 +66,7 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } се мора поново покренути да би се омогућила ова функционалност.
 feature-disable-requires-restart = { -brand-short-name } се мора поново покренути да би се онемогућила ова функционалност.
-should-restart-title = Рестартуј { -brand-short-name }
+should-restart-title = Рестартовање { -brand-short-name }-а
 should-restart-ok = Рестартуј { -brand-short-name }
 cancel-no-restart-button = Откажи
 restart-later = Рестартуј касније
@@ -232,7 +232,7 @@ choose-browser-language-description = Изаберите језике који �
 manage-browser-languages-button =
     .label = Постави алтернативне
     .accesskey = П
-confirm-browser-language-change-description = Поново покрените { -brand-short-name } да примените ове измене
+confirm-browser-language-change-description = Рестартујте { -brand-short-name } како би измене ступиле на снагу
 confirm-browser-language-change-button = Примени и рестартуј
 translate-web-pages =
     .label = Преведи садржај
