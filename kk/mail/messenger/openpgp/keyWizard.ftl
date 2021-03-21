@@ -37,6 +37,9 @@ openpgp-keygen-import-complete =
 
 ## Import Key section
 
+openpgp-import-identity-label = Жеке мәліметтер
+openpgp-import-fingerprint-label = Баспасы
+openpgp-import-created-label = Жасалған
 
 ## External Key section
 
