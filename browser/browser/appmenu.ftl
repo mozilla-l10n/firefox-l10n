@@ -162,10 +162,10 @@ appmenu-help-safe-mode-with-addons =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-enter-troubleshoot-mode2 =
-    .label = Problemų sprendimo veiksena
+    .label = Trikčių šalinimo veiksena…
     .accesskey = v
 appmenu-help-exit-troubleshoot-mode =
-    .label = Išjungti problemų sprendimo veikseną
+    .label = Išjungti trikčių šalinimo veikseną
     .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive

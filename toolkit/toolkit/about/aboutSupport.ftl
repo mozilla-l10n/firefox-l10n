@@ -130,10 +130,14 @@ sandbox-sys-call-number = Kreipimasis į sistemą
 sandbox-sys-call-args = Argumentai
 safe-mode-title = Išbandykite ribotąją veikseną
 restart-in-safe-mode-label = Perleisti išjungus priedus…
+troubleshoot-mode-title = Aptikti problemas
+restart-in-troubleshoot-mode-label = Trikčių šalinimo veiksena…
 clear-startup-cache-title = Pabandykite išvalyti paleisties podėlį
 clear-startup-cache-label = Valyti paleisties podėlį…
 startup-cache-dialog-title = Valyti paleisties podėlį
 startup-cache-dialog-body = Paleiskite „{ -brand-short-name }“ iš naujo, norėdami išvalyti paleisties podėlį. Tai neturės poveikio jūsų nuostatoms, ar į „{ -brand-short-name }“ įdiegtiems priedams.
+startup-cache-dialog-title2 = Paleisti „{ -brand-short-name }“ iš naujo, kad būtų išvalytas paleidimo podėlis?
+startup-cache-dialog-body2 = Tai nepakeis jūsų nustatymų ir nepašalins priedų.
 restart-button-label = Perleisti
 
 ## Media titles

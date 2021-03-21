@@ -58,16 +58,10 @@ about-webrtc-ice-pair-bytes-sent = Išsiųsta baitų:
 about-webrtc-ice-pair-bytes-received = Gauta baitų:
 about-webrtc-ice-component-id = Komponento ID
 
-##
-
-
 ## "Avg." is an abbreviation for Average. These are used as data labels.
 
 about-webrtc-avg-bitrate-label = Vid. pralaidumas:
 about-webrtc-avg-framerate-label = Vid. kadrų dažnis:
-
-##
-
 
 ## These adjectives are used to label a line of statistics collected for a peer
 ## connection. The data represents either the local or remote end of the
@@ -86,9 +80,9 @@ about-webrtc-nominated = Nominuota
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Pasirinkta
 about-webrtc-save-page-label = Įrašyti tinklalapį
-about-webrtc-debug-mode-msg-label = Derinimo režimas
+about-webrtc-debug-mode-msg-label = Derinimo veiksena
 about-webrtc-debug-mode-off-state-label = Įjungti derinimo veikseną
-about-webrtc-debug-mode-on-state-label = Įjungti derinimo veikseną
+about-webrtc-debug-mode-on-state-label = Išjungti derinimo veikseną
 about-webrtc-stats-heading = Seanso statistika
 about-webrtc-stats-clear = Išvalyti istoriją
 about-webrtc-log-heading = Ryšio žurnalas
@@ -183,7 +177,7 @@ about-webrtc-frame-stats-heading = Vaizdo kadrų statistika – „MediaStreamTr
 
 about-webrtc-save-page-msg = tinklalapis įrašytas į: { $path }
 about-webrtc-debug-mode-off-state-msg = vykdymo sekimo žurnalas yra čia: { $path }
-about-webrtc-debug-mode-on-state-msg = derinimo režimas aktyvus, vykdymo sekimo žurnalas čia: { $path }
+about-webrtc-debug-mode-on-state-msg = derinimo veiksena aktyvi, vykdymo sekimo žurnalas čia: { $path }
 about-webrtc-aec-logging-off-state-msg = įrašyti žurnalo failai yra čia: { $path }
 
 ##
