@@ -13,7 +13,7 @@ about-service-workers-warning-no-service-workers = Nie sú registrované žiadne
 #
 # Variables:
 #   $originTitle: original title
-origin-title = Pôvod: { $originTitle }
+origin-title = Zdroj: { $originTitle }
 
 ## These strings are for showing the information of workers.
 ##
