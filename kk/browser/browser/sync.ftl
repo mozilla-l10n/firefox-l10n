@@ -20,3 +20,4 @@ fxa-signout-dialog =
     .title = { -fxaccount-brand-name } ішінен шығу
     .style = min-width: 375px;
     .buttonlabelaccept = Шығу
+fxa-signout-dialog2-button = Шығу
