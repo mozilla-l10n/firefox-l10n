@@ -341,4 +341,4 @@ about-logins-import-dialog-error-cancel = Откажи
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Увоз резиме извештаја
+about-logins-import-report-page-title = Сажетак увоза
