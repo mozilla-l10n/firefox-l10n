@@ -48,9 +48,27 @@
         [loc] Firefox-у
     }
     .gender = masculine
--brand-full-name = Mozilla Firefox
+-brand-full-name =
+    { $case ->
+       *[nom] Mozilla Firefox
+        [gen] Mozilla Firefox-а
+        [dat] Mozilla Firefox-у
+        [acc] Mozilla Firefox
+        [ins] Mozilla Firefox-ом
+        [loc] Mozilla Firefox-у
+    }
+    .gender = masculine
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = Firefox
+-brand-product-name =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefox-а
+        [dat] Firefox-у
+        [acc] Firefox
+        [ins] Firefox-ом
+        [loc] Firefox-у
+    }
+    .gender = masculine
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox и његови логотипи су заштитни знакови Mozilla Foundation-а.
