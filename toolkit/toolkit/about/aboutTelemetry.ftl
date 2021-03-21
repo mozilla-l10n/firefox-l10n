@@ -93,14 +93,14 @@ about-telemetry-results-for-search = Резултати за “{ $searchTerms }
 # Variables:
 #   $sectionName (String): the section name from the structure of the ping.
 #   $currentSearchText (String): the current text in the search input
-about-telemetry-no-search-results = Жао нам је! Нема резултата у { $sectionName } за “{ $currentSearchText }”
+about-telemetry-no-search-results = У одељку { $sectionName } нема резултата за „{ $currentSearchText }”
 # Variables:
 #   $searchTerms (String): the searched terms
-about-telemetry-no-search-results-all = Жао нам је! Нема резултата претраге ни у једном одељку “{ $searchTerms }”
+about-telemetry-no-search-results-all = Ни у једном одељку нема резултата за „{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.
-about-telemetry-no-data-to-display = Жао нам је! Тренутно нема доступних података у “{ $sectionName }”
+about-telemetry-no-data-to-display = У одељку „{ $sectionName }” нема података
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = тренутни подаци
 # used in the “Ping Type” select
