@@ -54,7 +54,7 @@ experimental-features-abouthome-startup-cache-description = Cache pro le content
 # by various online articles and is technical in nature.
 experimental-features-cookie-samesite-schemeful =
     .label = Cookies: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Tracta cookies del mesme dominio, ma con differente schemas (e.g. http://example.com e https://example.com) como inter-sitos in vice del mesme-sito. Meliora le securitate, ma pote introducer problemas.
+experimental-features-cookie-samesite-schemeful-description = Tracta cookies del mesme dominio, ma con differente schemas (e.g. http://example.com e https://example.com) como inter sitos in vice de proveniente del mesme sito. Meliora le securitate, ma pote introducer problemas.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Utensiles de disveloppator: depuration de obrero de servicio
@@ -64,10 +64,6 @@ experimental-features-devtools-serviceworker-debugger-support-description = Acti
 experimental-features-webrtc-global-mute-toggles =
     .label = Activar/disactivar audio e video WebRTC globalmente
 experimental-features-webrtc-global-mute-toggles-description = Adder controlos al indicator de compartimento global WebRTC que permitte al usatores de silentiar globalmente le fluxos de lor microphono e camera.
-# Win32k Lockdown
-experimental-features-win32k-lockdown =
-    .label = Blocada de Win32k
-experimental-features-win32k-lockdown-description = Disactiva le uso del API Win32k in le schedas del navigator (solo in ambiente Windows). Isto garanti major securitate, ma poterea resultar instabile.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
