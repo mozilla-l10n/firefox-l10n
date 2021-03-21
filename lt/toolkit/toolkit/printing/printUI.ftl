@@ -39,7 +39,6 @@ printui-scale-fit-to-page-width = Pritaikyti prie puslapio pločio
 printui-scale-pcent = Mastelis
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Dvipusis spausdinimas
-printui-duplex-checkbox = Spausdinti ant abiejų pusių
 printui-two-sided-printing-off = Išjungta
 # Flip the sheet as if it were bound along its long edge.
 printui-two-sided-printing-long-edge = Paversti ant ilgojo krašto
@@ -58,14 +57,19 @@ printui-margins-default = Numatytos
 printui-margins-min = Mažiausios
 printui-margins-none = Jokių
 printui-margins-custom-inches = Pasirinktinės (coliai)
+printui-margins-custom-mm = Pasirinktinės (mm)
 printui-margins-custom-top = Viršutinė
 printui-margins-custom-top-inches = Viršutinė (coliai)
+printui-margins-custom-top-mm = Viršutinė (mm)
 printui-margins-custom-bottom = Apatinė
 printui-margins-custom-bottom-inches = Apatinė (coliai)
+printui-margins-custom-bottom-mm = Apatinė (mm)
 printui-margins-custom-left = Kairė
 printui-margins-custom-left-inches = Kairė (coliai)
+printui-margins-custom-left-mm = Kairė (mm)
 printui-margins-custom-right = Dešinė
 printui-margins-custom-right-inches = Dešinė (coliai)
+printui-margins-custom-right-mm = Dešinė (mm)
 printui-system-dialog-link = Spausdinti naudojant sistemos dialogą…
 printui-primary-button = Spausdinti
 printui-primary-button-save = Įrašyti
