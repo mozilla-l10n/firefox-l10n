@@ -28,8 +28,26 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-shorter-name = Firefox
--brand-short-name = Firefox
+-brand-shorter-name =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefox-а
+        [dat] Firefox-у
+        [acc] Firefox
+        [ins] Firefox-ом
+        [loc] Firefox-у
+    }
+    .gender = masculine
+-brand-short-name =
+    { $case ->
+       *[nom] Firefox
+        [gen] Firefox-а
+        [dat] Firefox-у
+        [acc] Firefox
+        [ins] Firefox-ом
+        [loc] Firefox-у
+    }
+    .gender = masculine
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
