@@ -66,10 +66,10 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } се мора поново покренути да би се омогућила ова функционалност.
 feature-disable-requires-restart = { -brand-short-name } се мора поново покренути да би се онемогућила ова функционалност.
-should-restart-title = Поново покрени { -brand-short-name }
-should-restart-ok = Поново покрени { -brand-short-name } сада
+should-restart-title = Рестартуј { -brand-short-name }
+should-restart-ok = Рестартуј { -brand-short-name }
 cancel-no-restart-button = Откажи
-restart-later = Поново покрени касније
+restart-later = Рестартуј касније
 
 ## Extension Control Notifications
 ##
@@ -1093,8 +1093,8 @@ addon-recommendations-link = Сазнајте више
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Слање података је онемогућено за ову конфигурацију за изградњу
 collection-backlogged-crash-reports =
-    .label = Дозволи { -brand-short-name }-у да шаље извештаје о рушењу у ваше име
-    .accesskey = и
+    .label = Дозволи да { -brand-short-name } шаље заостале извештаје о грешкама у моје име
+    .accesskey = Д
 collection-backlogged-crash-reports-link = Сазнајте више
 
 ## Privacy Section - Security
