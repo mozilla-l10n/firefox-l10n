@@ -43,6 +43,10 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = OK
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Die Add-ons lassen sich durch Klicken auf <image data-l10n-name='addon-install-icon'></image> im <image data-l10n-name='addon-menu-icon'></image>-Menü verwalten.
+appmenu-addon-private-browsing-installed2 =
+    .buttonlabel = OK
+    .buttonaccesskey = O
+appmenu-addon-post-install-message2 = Erweiterungen und Themes können über das Anwendungsmenü verwaltet werden.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Ausführen der Erweiterung in privaten Fenstern erlauben
     .accesskey = e
