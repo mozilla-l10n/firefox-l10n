@@ -2,12 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
--sync-brand-short-name = Sync
-
+-sync-brand-short-name =
+    { $case ->
+       *[nom] Sync
+        [gen] Sync-а
+        [dat] Sync-у
+        [acc] Sync
+        [ins] Sync-ом
+        [loc] Sync-у
+    }
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = Firefox Sync
-
+-sync-brand-name =
+    { $case ->
+       *[nom] Firefox Sync
+        [gen] Firefox Sync-а
+        [dat] Firefox Sync-у
+        [acc] Firefox Sync
+        [ins] Firefox Sync-ом
+        [loc] Firefox Sync-у
+    }
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = Firefox налог
+-fxaccount-brand-name =
+    { $case ->
+       *[nom] Firefox налог
+        [gen] Firefox налога
+        [dat] Firefox налогу
+        [acc] Firefox налог
+        [ins] Firefox налогом
+        [loc] Firefox налогу
+    }
