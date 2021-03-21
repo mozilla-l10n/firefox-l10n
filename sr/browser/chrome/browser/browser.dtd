@@ -147,7 +147,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY appMenuHistory.showAll.label "Прикажи целу историју">
 
 <!ENTITY appMenuHistory.clearRecent.label "Обриши историјат…">
-<!ENTITY appMenuHistory.restoreSession.label "Обнови претходну сесију">
+<!ENTITY appMenuHistory.restoreSession.label "Врати претходну сесију">
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи палету историјата">
 <!ENTITY appMenuHistory.hideSidebar.label "Сакријте бочну траку историје">
 <!ENTITY appMenuHistory.recentHistory.label "Недавни историјат">

@@ -142,8 +142,8 @@ set-as-my-default-browser =
     .label = Учини подразумеваним…
     .accesskey = д
 startup-restore-previous-session =
-    .label = Обнови претходну сесију
-    .accesskey = с
+    .label = Врати претходну сесију
+    .accesskey = В
 startup-restore-warn-on-quit =
     .label = Упозори при изласку из прегледача
 disable-extension =
@@ -457,7 +457,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Нови прозори и језичци
+home-new-windows-tabs-header = Нови прозори и картице
 home-new-windows-tabs-description2 = Изаберите шта желите да видите када отворите почетну страницу, нови прозор или картицу.
 
 ## Home Section - Home Page Customization
