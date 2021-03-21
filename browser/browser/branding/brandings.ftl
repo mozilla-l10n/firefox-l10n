@@ -49,10 +49,58 @@
         [ins] Lockwise-ом
         [loc] Lockwise-у
     }
--monitor-brand-name = Firefox Monitor
--monitor-brand-short-name = Monitor
--pocket-brand-name = Pocket
--send-brand-name = Firefox Send
+-monitor-brand-name =
+    { $case ->
+       *[nom] Firefox Monitor
+        [gen] Firefox Monitor-а
+        [dat] Firefox Monitor-у
+        [acc] Firefox Monitor
+        [ins] Firefox Monitor-ом
+        [loc] Firefox Monitor-у
+    }
+-monitor-brand-short-name =
+    { $case ->
+       *[nom] Monitor
+        [gen] Monitor-а
+        [dat] Monitor-у
+        [acc] Monitor
+        [ins] Monitor-ом
+        [loc] Monitor-у
+    }
+-pocket-brand-name =
+    { $case ->
+       *[nom] Pocket
+        [gen] Pocket-а
+        [dat] Pocket-у
+        [acc] Pocket
+        [ins] Pocket-ом
+        [loc] Pocket-у
+    }
+-send-brand-name =
+    { $case ->
+       *[nom] Firefox Send
+        [gen] Firefox Send-а
+        [dat] Firefox Send-у
+        [acc] Firefox Send
+        [ins] Firefox Send-ом
+        [loc] Firefox Send-у
+    }
 -screenshots-brand-name = Firefox Screenshots
--mozilla-vpn-brand-name = Mozilla VPN
--profiler-brand-name = Firefox Profiler
+-mozilla-vpn-brand-name =
+    { $case ->
+       *[nom] Mozilla VPN
+        [gen] Mozilla VPN-а
+        [dat] Mozilla VPN-у
+        [acc] Mozilla VPN
+        [ins] Mozilla VPN-ом
+        [loc] Mozilla VPN-у
+    }
+-profiler-brand-name =
+    { $case ->
+       *[nom] Firefox Profiler
+        [gen] Firefox Profiler-а
+        [dat] Firefox Profiler-у
+        [acc] Firefox Profiler
+        [ins] Firefox Profiler-ом
+        [loc] Firefox Profiler-у
+    }
