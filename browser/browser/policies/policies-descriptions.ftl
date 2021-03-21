@@ -178,6 +178,8 @@ policy-SearchSuggestEnabled = Attiva o disattiva suggerimenti di ricerca.
 
 policy-SecurityDevices = Installa moduli PKCS #11.
 
+policy-ShowHomeButton = Visualizza il pulsante Pagina iniziale nella barra degli strumenti.
+
 policy-SSLVersionMax = Imposta la versione massima di SSL.
 
 policy-SSLVersionMin = Imposta la versione minima di SSL.
