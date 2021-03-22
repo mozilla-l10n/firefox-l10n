@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Niqasäx ruk'exoj { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Tiqasäx ruk'exoj { -brand-shorter-name }
+    .label-update-available = K'exoj wachel — tiqasäx wakami
+    .label-update-manual = K'exoj wachel — tiqasäx wakami
+    .label-update-unsupported = Man tikirel ta niqasäx
+    .label-update-restart = Kexoj wachel — titikirisäx wakami
 appmenuitem-protection-dashboard-title = Rupas taq Chajinïk
 appmenuitem-customize-mode =
     .label = Tichinäx…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Ewan taq tzij
 appmenuitem-extensions-and-themes =
     .label = Taq K'amal chuqa' taq Wachinel
+appmenuitem-addons-and-themes =
+    .label = Taq Tz'aqat chuqa' taq Wachinel
 appmenuitem-find-in-page =
     .label = Tilitäj Pa Ruxaq…
 appmenuitem-more-tools =
