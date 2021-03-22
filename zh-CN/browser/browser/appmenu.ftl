@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = 正在下载 { -brand-shorter-name } 更新
+appmenuitem-update-banner2 =
+    .label-update-downloading = 正在下载 { -brand-shorter-name } 更新
+    .label-update-available = 有可用更新 — 立即下载
+    .label-update-manual = 有可用更新 — 立即下载
+    .label-update-unsupported = 无法更新
+    .label-update-restart = 有可用更新 — 立即重启
 appmenuitem-protection-dashboard-title = 保护信息面板
 appmenuitem-customize-mode =
     .label = 定制…
