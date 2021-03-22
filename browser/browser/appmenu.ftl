@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Llwytho diweddariad { -brand-shorter-name } i lawr
+appmenuitem-update-banner2 =
+    .label-update-downloading = Llwytho diweddariad { -brand-shorter-name } i lawr
+    .label-update-available = Diweddariad ar gael — llwythwch i lawr nawr
+    .label-update-manual = Diweddariad ar gael — llwythwch i lawr nawr
+    .label-update-unsupported = Methu diweddaru
+    .label-update-restart = Diweddariad ar gael — ail gychwynnwch nawr
 appmenuitem-protection-dashboard-title = Bwrdd Gwaith Diogelwch
 appmenuitem-customize-mode =
     .label = Cyfaddasu…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Cyfrineiriau
 appmenuitem-extensions-and-themes =
     .label = Estyniadau a Themâu
+appmenuitem-addons-and-themes =
+    .label = Ychwanegion a Themâu
 appmenuitem-find-in-page =
     .label = Canfod ar Dudalen…
 appmenuitem-more-tools =
