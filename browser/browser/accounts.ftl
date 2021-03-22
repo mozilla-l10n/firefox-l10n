@@ -7,4 +7,4 @@
 account-finish-account-setup = 完成账户设置
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-reconnect-to-fxa = 账户已解绑
+account-reconnect-to-fxa = 账户已断开连接
