@@ -107,6 +107,7 @@ policy-SearchEngines = Tib'an runuk'ulem ri kanob'äl. Re na'ojil re' xa xe okel
 policy-SearchSuggestEnabled = Titzij o tichup ri kichilab'exik kanoxïk.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Keyak PKCS #11 taq juperaj.
+policy-ShowHomeButton = Tik'ut ri rupitz'b'al tikirib'al pa ri rukajtz'ik samajib'äl.
 policy-SSLVersionMax = Tijikib'äx ri nïm ruwäch SSL.
 policy-SSLVersionMin = Tijikib'äx ri ko'öl ruwäch SSL
 policy-SupportMenu = Titz'aqatisäx jun ruch'akulal ruk'utsamaj ichinan tob'äl pa ruk'utsamaj tob'äl.
