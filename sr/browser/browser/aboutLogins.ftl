@@ -206,10 +206,34 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
-        [one] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
-        [few] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
-       *[other] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+        [1]
+            Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "loc") }
+                [feminine] { -brand-short-name(case: "loc") }
+                [neuter] { -brand-short-name(case: "loc") }
+               *[other] програму { -brand-short-name }
+            } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+        [one]
+            Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "loc") }
+                [feminine] { -brand-short-name(case: "loc") }
+                [neuter] { -brand-short-name(case: "loc") }
+               *[other] програму { -brand-short-name }
+            } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+        [few]
+            Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "loc") }
+                [feminine] { -brand-short-name(case: "loc") }
+                [neuter] { -brand-short-name(case: "loc") }
+               *[other] програму { -brand-short-name }
+            } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+       *[other]
+            Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name.gender ->
+                [masculine] { -brand-short-name(case: "loc") }
+                [feminine] { -brand-short-name(case: "loc") }
+                [neuter] { -brand-short-name(case: "loc") }
+               *[other] програму { -brand-short-name }
+            } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
     }
 about-logins-confirm-export-dialog-title = Извезите пријаве и лозинке
 about-logins-confirm-export-dialog-message = Ваше лозинке ће бити сачуване као читљив текст (нпр. BadP@ssw0rd) тако да може погледати свако ко може да отвори извезену датотеку.
