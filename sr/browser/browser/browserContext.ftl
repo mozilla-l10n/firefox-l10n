@@ -124,7 +124,7 @@ main-context-menu-save-link =
     .label = Сачувај везу као…
     .accesskey = k
 main-context-menu-save-link-to-pocket =
-    .label = Сачувај линк на { -pocket-brand-name(case: "loc") }
+    .label = Сачувај линк у { -pocket-brand-name(case: "loc") }
     .accesskey = а
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
@@ -269,7 +269,7 @@ main-context-menu-plugin-hide =
     .label = Сакриј овај прикључак
     .accesskey = H
 main-context-menu-save-to-pocket =
-    .label = Сачувај страницу на { -pocket-brand-name(case: "loc") }
+    .label = Сачувај страницу у { -pocket-brand-name(case: "loc") }
     .accesskey = а
 main-context-menu-send-to-device =
     .label = Пошаљи страницу на уређај

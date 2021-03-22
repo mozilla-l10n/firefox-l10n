@@ -184,7 +184,7 @@ page-action-send-tabs-urlbar =
            *[other] Пошаљи { $tabCount } језичака на уређај
         }
 page-action-pocket-panel =
-    .label = Сачувај страницу на { -pocket-brand-name(case: "loc") }
+    .label = Сачувај страницу у { -pocket-brand-name(case: "loc") }
 page-action-copy-url-panel =
     .label = Копирај везу
 page-action-copy-url-urlbar =
@@ -456,7 +456,7 @@ urlbar-go-button =
 urlbar-page-action-button =
     .tooltiptext = Радње странице
 urlbar-pocket-button =
-    .tooltiptext = Сачувај на { -pocket-brand-name(case: "loc") }
+    .tooltiptext = Сачувај у { -pocket-brand-name(case: "loc") }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

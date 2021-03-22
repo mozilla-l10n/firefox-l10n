@@ -94,9 +94,9 @@ newtab-menu-dismiss = Уклони
 newtab-menu-pin = Закачи
 newtab-menu-unpin = Откачи
 newtab-menu-delete-history = Уклони из историјата
-newtab-menu-save-to-pocket = Сачувај на { -pocket-brand-name }
-newtab-menu-delete-pocket = Обриши из { -pocket-brand-name }-а
-newtab-menu-archive-pocket = Архивирај у { -pocket-brand-name }
+newtab-menu-save-to-pocket = Сачувај у { -pocket-brand-name(case: "loc") }
+newtab-menu-delete-pocket = Избриши из { -pocket-brand-name(case: "gen") }
+newtab-menu-archive-pocket = Архивирај у { -pocket-brand-name(case: "loc") }
 newtab-menu-show-privacy-info = Наши спонзори и ваша приватност
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
@@ -144,7 +144,7 @@ newtab-label-visited = Посећено
 newtab-label-bookmarked = Забележено
 newtab-label-removed-bookmark = Забелешка је уклоњена
 newtab-label-recommended = У тренду
-newtab-label-saved = Сачувано у { -pocket-brand-name }
+newtab-label-saved = Сачувано у { -pocket-brand-name(case: "loc") }
 newtab-label-download = Преузето
 # This string is used in the story cards to indicate sponsored content
 # Variables:
@@ -208,7 +208,7 @@ newtab-discovery-empty-section-topstories-timed-out = Упс! Нисмо мог�
 newtab-pocket-read-more = Популарне теме:
 newtab-pocket-more-recommendations = Још препорука
 newtab-pocket-learn-more = Сазнајте више
-newtab-pocket-cta-button = Преузмите { -pocket-brand-name }
+newtab-pocket-cta-button = Преузми { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Сачувајте приче које волите у { -pocket-brand-name } и напуните свој ум фасцинантним причама.
 
 ## Error Fallback Content.
