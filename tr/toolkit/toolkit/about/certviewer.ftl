@@ -102,7 +102,7 @@ certificate-viewer-download-pem-chain = PEM (zincir)
     .download = { $fileName }-chain.pem
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-    .title = Bu eklenti kritik olarak işaretlenmiş. Yani istemciler sertifikayı anlamadılarsa sertifikayı reddetmeleri gerekir.
+    .title = Bu uzantı kritik olarak işaretlenmiş. Yani istemciler sertifikayı anlamadılarsa sertifikayı reddetmeleri gerekir.
 certificate-viewer-export = Dışa aktar
     .download = { $fileName }.pem
 
