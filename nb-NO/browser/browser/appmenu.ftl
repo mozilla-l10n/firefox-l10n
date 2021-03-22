@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Laster ned { -brand-shorter-name }-oppdatering
+appmenuitem-update-banner2 =
+    .label-update-downloading = Laster ned { -brand-shorter-name }-oppdatering
+    .label-update-available = Oppdatering tilgjengelig — last ned nå
+    .label-update-manual = Oppdatering tilgjengelig — last ned nå
+    .label-update-unsupported = Kan ikke oppdatere
+    .label-update-restart = Oppdatering tilgjengelig — start på nytt
 appmenuitem-protection-dashboard-title = Sikkerhetsoversikt
 appmenuitem-customize-mode =
     .label = Tilpass …
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Passord
 appmenuitem-extensions-and-themes =
     .label = Utvidelser og temaer
+appmenuitem-addons-and-themes =
+    .label = Tillegg og temaer
 appmenuitem-find-in-page =
     .label = Finn på siden …
 appmenuitem-more-tools =
