@@ -16,6 +16,8 @@
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Události">
 <!ENTITY debugPaintFlashing.label "Zvýrazňování překreslování (přepíná Caps-Lock)">
+<!ENTITY debugPaintFlashing.accesskey "p">
 <!ENTITY debugPaintFlashingChrome.label "Zvýrazňování překreslování Chrome">
+<!ENTITY debugPaintFlashingChrome.accesskey "e">
 
 <!-- Reflow Event Debugging -->
