@@ -107,6 +107,7 @@ policy-SearchEngines = Konfigurasikan setelan mesin pencari. Kebijakan ini hanya
 policy-SearchSuggestEnabled = Aktifkan atau nonaktifkan saran pencarian.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Pasang modul PKCS #11.
+policy-ShowHomeButton = Tampilkan tombol beranda pada bilah alat.
 policy-SSLVersionMax = Tetapkan versi SSL maksimum.
 policy-SSLVersionMin = Tetapkan versi SSL minimum.
 policy-SupportMenu = Tambahkan item menu dukungan khusus pada menu bantuan.

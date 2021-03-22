@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Mengunduh pembaruan { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Mengunduh pembaruan { -brand-shorter-name }
+    .label-update-available = Versi baru tersedia — unduh sekarang
+    .label-update-manual = Versi baru tersedia — unduh sekarang
+    .label-update-unsupported = Gagal memperbarui
+    .label-update-restart = Versi baru tersedia — mulai ulang sekarang
 appmenuitem-protection-dashboard-title = Dasbor Perlindungan
 appmenuitem-customize-mode =
     .label = Ubahsuai…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Kata Sandi
 appmenuitem-extensions-and-themes =
     .label = Ekstensi dan Tema
+appmenuitem-addons-and-themes =
+    .label = Pengaya dan Tema
 appmenuitem-find-in-page =
     .label = Temukan di Halaman…
 appmenuitem-more-tools =
