@@ -222,8 +222,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Viôt dut
     .accesskey = V
-cfr-doorhanger-milestone-close-button = Siere
-    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 
@@ -248,6 +246,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Icone dal picture-in-picture
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Siere
+    .accesskey = S
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message
@@ -267,6 +267,8 @@ cfr-whatsnew-better-pdf-body = Cumò i documents PDF si puedin vierzi daurman di
 cfr-doorhanger-doh-body = La tô riservatece e je impuartante. Cumò { -brand-short-name } al indrece in sigurece, ogni volte che al è pussibil, lis tôs richiestis DNS a un servizi afiliât par proteziti intant che tu navighis.
 cfr-doorhanger-doh-header = Plui sigurece, ricercjis DNS cifradis
 cfr-doorhanger-doh-primary-button = Va ben, capît
+    .accesskey = V
+cfr-doorhanger-doh-primary-button-2 = Va ben
     .accesskey = V
 cfr-doorhanger-doh-secondary-button = Disative
     .accesskey = D
