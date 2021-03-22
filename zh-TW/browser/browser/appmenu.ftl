@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = 正在下載 { -brand-shorter-name } 更新
+appmenuitem-update-banner2 =
+    .label-update-downloading = 正在下載 { -brand-shorter-name } 更新
+    .label-update-available = 已有更新可用 — 立即下載
+    .label-update-manual = 已有更新可用 — 立即下載
+    .label-update-unsupported = 無法更新
+    .label-update-restart = 已有更新可用 — 立即重新啟動
 appmenuitem-protection-dashboard-title = 保護資訊儀錶板
 appmenuitem-customize-mode =
     .label = 自訂…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = 密碼
 appmenuitem-extensions-and-themes =
     .label = 擴充套件和佈景主題
+appmenuitem-addons-and-themes =
+    .label = 附加元件與佈景主題
 appmenuitem-find-in-page =
     .label = 在頁面中搜尋…
 appmenuitem-more-tools =
