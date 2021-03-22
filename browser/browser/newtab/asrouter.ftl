@@ -74,7 +74,7 @@ cfr-doorhanger-pintab-animation-resume = Настави
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Синхронизујте своје забелешке свуда.
-cfr-doorhanger-bookmark-fxa-body = Одлично откриће! Да бисте имали ову забелешку и на вашем мобилном уређају, крените са коришћењем услуге { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Одлично откриће! Пренесите овај обележивач и на мобилне уређаје помоћу { -fxaccount-brand-name(case: "gen") }.
 cfr-doorhanger-bookmark-fxa-link-text = Синхронизуј забелешке сада…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Тастер затвори
@@ -188,8 +188,8 @@ cfr-doorhanger-send-tab-ok-button = Испробајте слање језича
 
 cfr-doorhanger-firefox-send-header = Делите овај PDF безбедно
 cfr-doorhanger-firefox-send-body = Користите шифровање с-краја-на-крај и везе које ће аутоматски нестати након употребе како бисте обезбедили сигурност осетљивих датотека.
-cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name }
-    .accesskey = T
+cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name(case: "acc") }
+    .accesskey = И
 
 ## Social Tracking Protection
 
