@@ -368,10 +368,41 @@ converter-decrypt-body-failed =
 # Strings in gpg.jsm
 unknown-signing-alg = Neznámý podpisový algoritmus (ID: { $id })
 unknown-hash-alg = Neznámý kryptografický hashovací algoritmus (ID: { $id })
+# Strings in keyUsability.jsm
+expiry-key-expires-soon =
+    Platnost vašeho klíče { $desc } skončí za méně než { $days ->
+        [one] jeden den
+        [few] { $days } dny
+       *[other] { $days } dní
+    }.
+    Doporučujeme vytvořit nový pár klíčů a nastavit příslušné účty tak, aby ho mohly používat.
+expiry-keys-expire-soon =
+    Platnost těchto vašich klíčů skončí za méně než { $days ->
+        [one] jeden den
+        [few] { $days } dny
+       *[other] { $days } dní
+    }: { $desc }.
+    Doporučujeme vytvořit nové klíče a nastavit příslušné účty tak, aby je mohly používat.
+expiry-key-missing-owner-trust =
+    Váš tajný klíč { $desc } postrádá důvěryhodnost.
+    Doporučujeme ve vlastnostech klíče nastavit volbu „You rely on certifications“ na „Absolutně důvěřuji“.
+expiry-keys-missing-owner-trust =
+    Tyto vaše tajné klíče postrádají důvěryhodnost.
+    { $desc }.
+    Doporučujeme ve vlastnostech klíče nastavit volbu „You rely on certifications“ na „Absolutně důvěřuji“.
 expiry-open-key-manager = Otevřít správce klíčů OpenPGP
 expiry-open-key-properties = Otevřít vlastnosti klíče
 # Strings filters.jsm
 filter-folder-required = Musíte vybrat cílovou složku.
+filter-decrypt-move-warn-experimental =
+    VAROVÁNÍ: Akce filtru „Dešifrovat nastálo“ může vést ke zničení zpráv.
+    Důrazně doporučujeme nejprve vyzkoušet filtr „Vytvořit dešifrovanou kopii“, výsledek pečlivě překontrolovat, a tento filtr začít používat až poté, co budete s výsledkem spokojeni.
+filter-term-pgpencrypted-label = Zašifrováno pomocí OpenPGP
+filter-key-required = Musíte vybrat klíč příjemce.
+filter-key-not-found = Nepodařilo se najít šifrovací klíč pro '{ $desc }'.
+# Strings filtersWrapper.jsm
+filter-decrypt-move-label = Dešifrovat nastálo (OpenPGP)
+filter-decrypt-copy-label = Vytvořit dešifrovanou kopii (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Import klíčů proběhl úspěšně!
@@ -394,6 +425,7 @@ key-man-button-export-sec-key = Exportovat &tajné klíče
 key-man-button-export-pub-key = Exportovat pouze &veřejné klíče
 key-man-button-refresh-all = &Obnovit všechny klíče
 key-man-loading-keys = Načítání klíčů, čekejte prosím…
+ascii-armor-file = Soubory ve formátu ASCII (*.asc)
 no-key-selected = K provedení operace byste měli vybrat alespoň jeden klíč
 export-to-file = Exportovat veřejný klíč do souboru
 export-keypair-to-file = Exportovat tajný a veřejný klíč do souboru
@@ -402,6 +434,7 @@ save-keys-ok = Klíče byly úspěšně uloženy
 save-keys-failed = Uložení klíčů selhalo
 default-pub-key-filename = Exportovane-verejne-klice
 default-pub-sec-key-filename = Zaloha-tajnych-klicu
+refresh-key-warn = VAROVÁNÍ: V závislosti na počtu klíčů a rychlosti připojení k internetu může trvat obnovení seznamu všech klíčů delší dobu!
 preview-failed = Soubor s veřejným klíčem nelze přečíst.
 general-error = Chyba: { $reason }
 dlg-button-delete = S&mazat
@@ -433,9 +466,15 @@ user-att-photo = Atribut uživatele (obrázek JPEG)
 # Strings in key.jsm
 already-revoked = Tento klíč už byl zneplatněn.
 #   $keyId (String) - the id of the key being revoked
+revoke-key-not-present =
+    Nemáte žádný klíč (0x{ $keyId }), který odpovídá tomuto revokačnímu certifikátu.
+    Pokud jste svůj klíč ztratili, musíte ho před importem revokačního certifikátu naimportovat (např. ze serveru klíčů).
+#   $keyId (String) - the id of the key being revoked
 revoke-key-already-revoked = Klíč 0x{ $keyId } už byl zneplatněn.
 key-man-button-revoke-key = &Zneplatnit klíč
 openpgp-key-revoke-success = Klíč byl úspěšně zneplatněn.
+# Strings in keyRing.jsm & decryption.jsm
+key-man-button-import = &Importovat
 delete-key-title = Odstranit klíč OpenPGP
 delete-external-key-title = Odebrat externí klíč GnuPG
 delete-external-key-description = Chcete odebrat ID tohoto externího klíče GnuPG?
@@ -457,6 +496,7 @@ import-key-confirm = Importovat veřejné klíče vložené do zprávy?
 fail-key-import = Chyba: Importování klíče selhalo
 file-write-failed = Zápis do souboru { $output } selhal
 no-pgp-block = Chyba: Nenalezen platný blok dat OpenPGP
+confirm-permissive-import = Import se nezdařil. Klíč, který se pokoušíte naimportovat, může být poškozený, nebo používá neznámé atributy. Chcete se pokusit naimportovat jeho korektní části? To může mít za následek import neúplných a nepoužitelných klíčů.
 # Strings used in trust.jsm
 key-valid-unknown = není známo
 key-valid-invalid = vadný
@@ -513,8 +553,30 @@ key-revoked = Klíč '{ $key }' byl zneplatněn
 key-expired = Platnost klíče '{ $key }' vypršela
 msg-compose-internal-error = Došlo k vnitřní chybě.
 keys-to-export = Vyberte klíče OpenPGP, které chcete vložit
+msg-compose-partially-encrypted-inlinePGP =
+    Zpráva, na kterou odpovídáte, obsahovala nezašifrované i zašifrované části. Pokud odesílatel nemohl původně dešifrovat některé části zprávy, může docházet k úniku důvěrných informací, které odesílatel nemohl původně dešifrovat. 
+    Zvažte odstranění veškerého citovaného textu z vaší odpovědi tomuto odesílateli.
 msg-compose-cannot-save-draft = Chyba při ukládání konceptu
+msg-compose-partially-encrypted-short = Pozor na únik citlivých informací, e-mail je zašifrovaný jen částečně.
+quoted-printable-warn =
+    Pro odesílání zpráv jste povolili kódování 'quoted-printable', což může mít za následek nesprávné dešifrování nebo ověření vaší zprávy.
+    Přejete si nyní odesílání zpráv v kódování 'quoted-printable' vypnout?
+minimal-line-wrapping =
+    Nastavili jste zalamování řádků na { $width } znaků. Pro správné šifrování a podepisování musí být tato hodnota nejméně 68.
+    Přejete si nyní změnit zalamování řádků na 68 znaků?
 save-attachment-header = Uložit dešifrovanou přílohu
+cannot-send-sig-because-no-own-key = Tuto zprávu nelze digitálně podepsat, protože jste pro <{ $key }> dosud nenastavili koncové šifrování
+cannot-send-enc-because-no-own-key = Tuto zprávu nelze odeslat zašifrovaně, protože jste dosud pro <{ $key }> nenastavili koncové šifrování
+# Strings used in decryption.jsm
+do-import-multiple =
+    Chcete naimportovat následující klíče?
+    { $key }
+do-import-one = Chcete importovat klíč { $name } ({ $id })?
+cant-import = Při importu veřejného klíče došlo k chybě
+unverified-reply = Odsazená část zprávy (odpověď) byla pravděpodobně pozměněna
+key-in-message-body = V těle zprávy byl nalezen klíč. Pro jeho naimportování klikněte na „Importovat klíč“
+sig-mismatch = Chyba: Podpis nesouhlasí
+invalid-email = Chyba: Neplatná e-mailová adresa
 dlg-button-view = &Zobrazit
 # Strings used in encryption.jsm
 not-required = Chyba: Šifrování není vyžadováno
