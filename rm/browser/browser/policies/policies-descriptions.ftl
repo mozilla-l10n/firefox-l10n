@@ -107,6 +107,7 @@ policy-SearchEngines = Configurar ils parameters da maschinas da tschertgar. Que
 policy-SearchSuggestEnabled = Activar u deactivar propostas da tschertga.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Installar moduls PKCS #11.
+policy-ShowHomeButton = Mussar il buttun da la pagina da partenza en la trav d'utensils.
 policy-SSLVersionMax = Definir la versiun maximala da SSL.
 policy-SSLVersionMin = Definir la versiun minimala da SSL.
 policy-SupportMenu = Agiuntar in element da menu persunalisà en il menu d'agid.

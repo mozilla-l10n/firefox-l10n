@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Telechargiar l'actualisaziun da { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Telechargiar l'actualisaziun da { -brand-shorter-name }
+    .label-update-available = Actualisaziun disponibla – ussa telechargiar
+    .label-update-manual = Actualisaziun disponibla – ussa telechargiar
+    .label-update-unsupported = Impussibel dad actualisar
+    .label-update-restart = Actualisaziun disponibla – ussa reaviar
 appmenuitem-protection-dashboard-title = Survista da las protecziuns
 appmenuitem-customize-mode =
     .label = Persunalisar…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Pleds-clav
 appmenuitem-extensions-and-themes =
     .label = Extensiuns e designs
+appmenuitem-addons-and-themes =
+    .label = Supplements e designs
 appmenuitem-find-in-page =
     .label = Tschertgar en la pagina…
 appmenuitem-more-tools =
