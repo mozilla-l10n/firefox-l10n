@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = { -brand-shorter-name } güncellemesi indiriliyor
+appmenuitem-update-banner2 =
+    .label-update-downloading = { -brand-shorter-name } güncellemesi indiriliyor
+    .label-update-available = Güncelleme var: Şimdi indirin
+    .label-update-manual = Güncelleme var: Şimdi indirin
+    .label-update-unsupported = Güncelleme yapılamadı
+    .label-update-restart = Güncelleme var: Yeniden başlatın
 appmenuitem-protection-dashboard-title = Korumalar panosu
 appmenuitem-customize-mode =
     .label = Özelleştir…
@@ -20,6 +26,8 @@ appmenuitem-new-private-window =
 appmenuitem-passwords =
     .label = Parolalar
 appmenuitem-extensions-and-themes =
+    .label = Uzantılar ve temalar
+appmenuitem-addons-and-themes =
     .label = Eklentiler ve temalar
 appmenuitem-find-in-page =
     .label = Sayfada bul…

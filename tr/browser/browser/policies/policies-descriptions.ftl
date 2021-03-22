@@ -61,8 +61,8 @@ policy-EncryptedMediaExtensions = Encrypted Media Extensions’ı etkinleştir v
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Eklentileri yükle, kaldır veya kilitle. Yükleme seçeneğinde parametre olarak URL veya yol kullanılır. Kaldırma ve kilitleme seçeneklerinde ise eklenti kimliği kullanılır.
-policy-ExtensionSettings = Eklenti kurulumunun tüm yönlerini yönet.
-policy-ExtensionUpdate = Otomatik eklenti güncellemelerini aç veya kapat.
+policy-ExtensionSettings = Uzantı kurulumunun tüm yönlerini yönet.
+policy-ExtensionUpdate = Otomatik uzantı güncellemelerini aç veya kapat.
 policy-FirefoxHome = Firefox giriş sayfasını yapılandır.
 policy-FlashPlugin = Flash yan uygulama kullanımını engelle ya da kullanımına izin ver.
 policy-Handlers = Varsayılan uygulama işleyicilerini yapılandır.
@@ -107,6 +107,7 @@ policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca
 policy-SearchSuggestEnabled = Arama önerilerini etkinleştir veya devre dışı bırak.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11 modüllerini yükle.
+policy-ShowHomeButton = Araç çubuğunda giriş sayfası düğmesini göster.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
 policy-SupportMenu = Yardım menüsüne özel bir destek menüsü öğesi ekle.

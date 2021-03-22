@@ -56,7 +56,7 @@ pane-experimental-reset =
     .label = Varsayılanları geri yükle
     .accesskey = V
 help-button-label = { -brand-short-name } Desteği
-addons-button-label = Eklentiler ve Temalar
+addons-button-label = Uzantılar ve Temalar
 focus-search =
     .key = f
 close-button =
@@ -83,34 +83,34 @@ restart-later = Daha sonra yeniden başlat
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Giriş sayfanızı <img data-l10n-name="icon"/> { $name } adlı eklenti yönetiyor.
+extension-controlled-homepage-override = Giriş sayfanızı <img data-l10n-name="icon"/> { $name } adlı uzantı yönetiyor.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Yeni Sekme sayfanızı <img data-l10n-name="icon"/> { $name } adlı eklenti yönetiyor.
+extension-controlled-new-tab-url = Yeni Sekme sayfanızı <img data-l10n-name="icon"/> { $name } adlı uzantı yönetiyor.
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlled-password-saving = Bu ayarı <img data-l10n-name="icon"/> { $name } adlı eklenti yönetiyor.
+extension-controlled-password-saving = Bu ayarı <img data-l10n-name="icon"/> { $name } adlı uzantı yönetiyor.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Bu ayarı <img data-l10n-name="icon"/> { $name } adlı eklenti kontrol ediyor.
+extension-controlled-web-notifications = Bu ayarı <img data-l10n-name="icon"/> { $name } adlı uzantı kontrol ediyor.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } eklentisi varsayılan arama motorunuzu değiştirdi.
+extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } uzantısı varsayılan arama motorunuzu değiştirdi.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } eklentisi kapsayıcı sekmelere ihtiyaç duyuyor.
+extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } uzantısı kapsayıcı sekmelere ihtiyaç duyuyor.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Bu ayarı <img data-l10n-name="icon"/> { $name } adlı eklenti yönetiyor.
+extension-controlled-websites-content-blocking-all-trackers = Bu ayarı <img data-l10n-name="icon"/> { $name } adlı uzantı yönetiyor.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını <img data-l10n-name="icon"/> { $name } adlı eklenti kontrol ediyor.
+extension-controlled-proxy-config = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını <img data-l10n-name="icon"/> { $name } adlı uzantı kontrol ediyor.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Eklentiyi etkinleştirmek için <img data-l10n-name="menu-icon"/> menüdeki <img data-l10n-name="addons-icon"/> Eklentiler bölümüne gidin.
+extension-controlled-enable = Uzantıyı etkinleştirmek için <img data-l10n-name="menu-icon"/> menüdeki <img data-l10n-name="addons-icon"/> Eklentiler bölümüne gidin.
 
 ## Preferences UI Search Results
 
@@ -147,7 +147,7 @@ startup-restore-previous-session =
 startup-restore-warn-on-quit =
     .label = Tarayıcıdan çıkarken beni uyar
 disable-extension =
-    .label = Eklentiyi etkisizleştir
+    .label = Uzantıyı etkisizleştir
 tabs-group-header = Sekmeler
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab, sekmeler arasında son kullanıldıkları sırayla atlasın
@@ -436,7 +436,7 @@ browsing-media-control =
     .accesskey = M
 browsing-media-control-learn-more = Daha fazla bilgi al
 browsing-cfr-recommendations =
-    .label = Gezinirken yeni eklentiler öner
+    .label = Gezinirken yeni uzantılar öner
     .accesskey = G
 browsing-cfr-features =
     .label = Gezinirken yeni özellikler öner
@@ -729,7 +729,7 @@ sync-engine-creditcards =
     .accesskey = K
 sync-engine-addons =
     .label = Eklentiler
-    .tooltiptext = Masaüstü Firefox eklentileri ve temaları
+    .tooltiptext = Masaüstü Firefox uzantıları ve temaları
     .accesskey = t
 sync-engine-prefs =
     .label =
@@ -1083,7 +1083,7 @@ collection-studies =
     .label = { -brand-short-name }, araştırmalar yükleyip çalıştırabilir
 collection-studies-link = { -brand-short-name } araştırmalarını göster
 addon-recommendations =
-    .label = { -brand-short-name }, bana özel eklenti tavsiyelerinde bulunabilir
+    .label = { -brand-short-name }, bana özel uzantı tavsiyelerinde bulunabilir
 addon-recommendations-link = Daha fazla bilgi al
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

@@ -127,7 +127,7 @@ onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } sizin için
 onboarding-lockwise-strong-passwords-button = Hesaplarınızı yönetin
 onboarding-facebook-container-title = Facebook’un sınırlarını belirleyin
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } profilinizi diğer sitelerden ayrı tutar, böylece Facebook’ reklamlarının sizi hedeflemesini zorlaştırır.
-onboarding-facebook-container-button = Eklentiyi yükle
+onboarding-facebook-container-button = Uzantıyı yükle
 onboarding-import-browser-settings-title = Yer imlerinizi, parolalarınızı ve daha fazlasını içe aktarın
 onboarding-import-browser-settings-text = Hemen başlayın: Chrome’daki sitelerinizi ve ayarlarınızı taşıyın.
 onboarding-import-browser-settings-button = Chrome verilerini içe aktar
@@ -142,8 +142,8 @@ return-to-amo-sub-header = Harika! { -brand-short-name } yüklendi
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = Şimdi <icon></icon><b>{ $addon-name }</b> eklentisine bir bakalım.
-return-to-amo-extension-button = Eklentiyi ekle
+return-to-amo-addon-header = Şimdi <icon></icon><b>{ $addon-name }</b> uzantısına bir bakalım.
+return-to-amo-extension-button = Uzantıyı ekle
 return-to-amo-get-started-button = { -brand-short-name } tarayıcısını kullanmaya başla
 onboarding-not-now-button-label = Daha sonra
 
@@ -154,8 +154,8 @@ return-to-amo-subtitle = Harika! { -brand-short-name } yüklendi
 #
 # Variables:
 #   $addon-name (String) - Name of the add-on
-return-to-amo-addon-title = Şimdi <img data-l10n-name="icon"/> <b>{ $addon-name }</b> eklentisine bir bakalım.
-return-to-amo-add-extension-label = Eklentiyi yükle
+return-to-amo-addon-title = Şimdi <img data-l10n-name="icon"/> <b>{ $addon-name }</b> uzantısına bir bakalım.
+return-to-amo-add-extension-label = Uzantıyı ekle
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
