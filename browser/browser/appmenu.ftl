@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Aktualizaciju { -brand-shorter-name } ześěgnuś
+appmenuitem-update-banner2 =
+    .label-update-downloading = Aktualizaciju { -brand-shorter-name } ześěgnuś
+    .label-update-available = Aktualizacija k dispoziciji – něnto ześěgnuś
+    .label-update-manual = Aktualizacija k dispoziciji – něnto ześěgnuś
+    .label-update-unsupported = Aktualizěrowanje njejo móžne
+    .label-update-restart = Aktualizacija k dispoziciji – něnto znowego startowaś
 appmenuitem-protection-dashboard-title = Pśeglěd šćitow
 appmenuitem-customize-mode =
     .label = Pśiměriś…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Gronidła
 appmenuitem-extensions-and-themes =
     .label = Rozšyrjenja a drastwy
+appmenuitem-addons-and-themes =
+    .label = Dodanki a drastwy
 appmenuitem-find-in-page =
     .label = Na boku pytaś…
 appmenuitem-more-tools =
