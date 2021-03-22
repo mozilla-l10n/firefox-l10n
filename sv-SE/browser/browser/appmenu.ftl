@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Hämtar uppdateringen av { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Hämtar uppdateringen av { -brand-shorter-name }
+    .label-update-available = Uppdatering tillgänglig — hämta nu
+    .label-update-manual = Uppdatering tillgänglig — hämta nu
+    .label-update-unsupported = Det gick inte att uppdatera
+    .label-update-restart = Uppdatering tillgänglig — starta om nu
 appmenuitem-protection-dashboard-title = Säkerhetsöversikt
 appmenuitem-customize-mode =
     .label = Anpassa…
@@ -20,6 +26,8 @@ appmenuitem-new-private-window =
 appmenuitem-passwords =
     .label = Lösenord
 appmenuitem-extensions-and-themes =
+    .label = Tillägg och teman
+appmenuitem-addons-and-themes =
     .label = Tillägg och teman
 appmenuitem-find-in-page =
     .label = Hitta på sidan…
