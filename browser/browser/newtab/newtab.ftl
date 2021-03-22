@@ -209,7 +209,7 @@ newtab-pocket-read-more = Популарне теме:
 newtab-pocket-more-recommendations = Још препорука
 newtab-pocket-learn-more = Сазнајте више
 newtab-pocket-cta-button = Преузми { -pocket-brand-name(case: "acc") }
-newtab-pocket-cta-text = Сачувајте приче које волите у { -pocket-brand-name } и напуните свој ум фасцинантним причама.
+newtab-pocket-cta-text = Сачувајте приче које вам се свиђају у { -pocket-brand-name(case: "loc") } и уживајте у врхунском штиву.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -228,8 +228,8 @@ newtab-custom-row-selector =
        *[other] { $num } редова
     }
 newtab-custom-sponsored-sites = Спонзорисане пречице
-newtab-custom-pocket-title = Препоручио { -pocket-brand-name }
-newtab-custom-pocket-subtitle = Изузетан садржај који је уредио { -pocket-brand-name }, део { -brand-product-name } породице
+newtab-custom-pocket-title = Препоруке из { -pocket-brand-name(case: "gen") }
+newtab-custom-pocket-subtitle = Изузетан садржај који уређује { -pocket-brand-name }, део породице { -brand-product-name }
 newtab-custom-pocket-sponsored = Спонзорисане приче
 newtab-custom-recent-title = Недавна активност
 newtab-custom-recent-subtitle = Избор недавних сајтова и садржаја
