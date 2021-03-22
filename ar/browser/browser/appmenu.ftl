@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = ينزّل تحديث { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = ينزّل تحديث { -brand-shorter-name }
+    .label-update-available = هناك تحديث متاح — نزّله الآن
+    .label-update-manual = هناك تحديث متاح — نزّله الآن
+    .label-update-unsupported = لا يمكنك التحديث
+    .label-update-restart = هناك تحديث متاح — أعِد التشغيل الآن
 appmenuitem-protection-dashboard-title = لوحة الحمايات
 appmenuitem-customize-mode =
     .label = خصّص…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = كلمات السر
 appmenuitem-extensions-and-themes =
     .label = الامتدادات والسمات
+appmenuitem-addons-and-themes =
+    .label = الإضافات والسمات
 appmenuitem-find-in-page =
     .label = ابحث في الصفحة…
 appmenuitem-more-tools =
