@@ -124,10 +124,15 @@ main-context-menu-save-link =
     .label = Сачувај везу као…
     .accesskey = k
 main-context-menu-save-link-to-pocket =
-    .label = Сачувај везу са услугом { -pocket-brand-name }
-    .accesskey = o
+    .label = Сачувај линк на { -pocket-brand-name(case: "loc") }
+    .accesskey = а
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
@@ -264,8 +269,8 @@ main-context-menu-plugin-hide =
     .label = Сакриј овај прикључак
     .accesskey = H
 main-context-menu-save-to-pocket =
-    .label = Сачувај страницу са услугом { -pocket-brand-name }
-    .accesskey = k
+    .label = Сачувај страницу на { -pocket-brand-name(case: "loc") }
+    .accesskey = а
 main-context-menu-send-to-device =
     .label = Пошаљи страницу на уређај
     .accesskey = n
@@ -275,6 +280,14 @@ main-context-menu-view-background-image =
 main-context-menu-generate-new-password =
     .label = Користи генерисану лозинку…
     .accesskey = G
+
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
+
+
+##
+
 main-context-menu-keyword =
     .label = Додај кључну реч за ову претрагу…
     .accesskey = K
