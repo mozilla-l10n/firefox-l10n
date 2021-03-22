@@ -45,6 +45,8 @@ appmenuitem-fullscreen =
 
 fxa-toolbar-sync-now =
     .label = Синхронизуј сада
+appmenu-fxa-header =
+    .title = { -fxaccount-brand-name }
 appmenuitem-save-page =
     .label = Сачувај страницу као…
 
