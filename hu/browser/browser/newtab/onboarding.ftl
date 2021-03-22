@@ -173,6 +173,15 @@ onboarding-multistage-set-default-subtitle = Gyorsaság, biztonság és adatvéd
 onboarding-multistage-set-default-primary-button-label = Beállítás alapértelmezettként
 onboarding-multistage-set-default-secondary-button-label = Most nem
 # The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Kezdje azzal, hogy a <span data-l10n-name="zap">{ -brand-short-name }</span> csak egy kattintásnyira legyen
+onboarding-multistage-pin-default-subtitle = Gyors, biztonságos és privát böngészés minden alkalommal, amikor a világhálót használja.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = A beállítások megnyitásakor válassza a Webböngésző alatt a { -brand-short-name }ot
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-help-text = Ez kitűzi a { -brand-short-name }ot a a tálcára, és megnyitja a beállításokat
+onboarding-multistage-pin-default-primary-button-label = Legyen a { -brand-short-name } az elsődleges böngészőm
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
 # automatically added to the text inside it. "more" should stay inside the span.
 onboarding-multistage-import-header = Jelszavak, könyvjelzők és <span data-l10n-name="zap">egyebek</span> importálása
 onboarding-multistage-import-subtitle = Egy másik böngészőből érkezett? Könnyen áthozhat mindent a { -brand-short-name }ba.
