@@ -46,6 +46,7 @@ appmenu-addon-post-install-message = Kezelje kiegészítőit a <image data-l10n-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Rendben
     .buttonaccesskey = R
+appmenu-addon-post-install-message2 = Kezelje a kiegészítőit és témáit az alkalmazásmenün keresztül.
 appmenu-addon-post-install-incognito-checkbox =
     .label = A kiegészítő futtatásának engedélyezése privát ablakokban
     .accesskey = e

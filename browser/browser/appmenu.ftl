@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = { -brand-shorter-name }-frissítés letöltése
+appmenuitem-update-banner2 =
+    .label-update-downloading = { -brand-shorter-name }-frissítés letöltése
+    .label-update-available = Frissítés érhető el – letöltés most
+    .label-update-manual = Frissítés érhető el – letöltés most
+    .label-update-unsupported = Nem frissíthető
+    .label-update-restart = Frissítés érhető el – újraindítás most
 appmenuitem-protection-dashboard-title = Védelmi vezérlőpult
 appmenuitem-customize-mode =
     .label = Testreszabás…
@@ -20,6 +26,8 @@ appmenuitem-new-private-window =
 appmenuitem-passwords =
     .label = Jelszavak
 appmenuitem-extensions-and-themes =
+    .label = Kiegészítők és témák
+appmenuitem-addons-and-themes =
     .label = Kiegészítők és témák
 appmenuitem-find-in-page =
     .label = Keresés az oldalon…
