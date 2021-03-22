@@ -288,6 +288,8 @@ identity-passive-loaded = Orri honetako zenbait atal ez dira seguruak (adib. iru
 identity-active-loaded = Babesa desgaitu duzu orri honetan.
 identity-weak-encryption = Orri honek zifraketa ahula erabiltzen du.
 identity-insecure-login-forms = Orri honetan sartutako saio-hasierak arriskuan egon litezke.
+identity-permissions =
+    .value = Baimenak
 identity-https-only-connection-upgraded = (HTTPSra bihurtu da)
 identity-https-only-label = HTTPS-Only modua
 identity-https-only-dropdown-on =
@@ -299,8 +301,6 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Aktibatu gune honetarako HTTPS-Only modua, ahal denean { -brand-short-name }(e)k konexioa HTTPSra bihur dezan.
 identity-https-only-info-turn-off2 = Orriak hautsita badirudi, agian HTTPS-Only modua desgaitu nahi duzu gunea HTTP ez-segurua erabiliz berritzeko.
 identity-https-only-info-no-upgrade = Ezin da konexioa bihurtu HTTPtik.
-identity-permissions =
-    .value = Baimenak
 identity-permissions-storage-access-header = Guneen arteko cookieak
 identity-permissions-storage-access-hint = Ondorengo hauek guneen arteko cookie eta datuak erabil ditzakete gune honetan zauden bitartean.
 identity-permissions-reload-hint = Agian orria berritu beharko duzu aldaketek eragina izan dezaten.
@@ -348,8 +348,6 @@ browser-window-close-button =
 
 ## Tab actions
 
-browser-tab-audio-playing = Erreproduzitzen
-browser-tab-audio-muted = Mutututa
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ERREPRODUZITZEN
 # This label should be written in all capital letters if your locale supports them.
@@ -358,6 +356,11 @@ browser-tab-audio-muted2 = MUTUTUTA
 browser-tab-audio-blocked = ERREPRODUKZIO AUTOMATIKOA BLOKEATUTA
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = BIDEOA BESTE LEIHO BATEAN
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
 
 ## Bookmarks toolbar items
 
@@ -374,6 +377,16 @@ popup-select-camera =
 popup-select-microphone =
     .value = Partekatzeko mikrofonoa:
     .accesskey = m
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Mikrofonoa:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofonoa
 popup-all-windows-shared = Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.
 popup-screen-sharing-not-now =
     .label = Une honetan ez
@@ -540,8 +553,6 @@ crashed-subframe-submit =
 
 bookmarks-show-all-bookmarks =
     .label = Erakutsi laster-marka guztiak
-bookmarks-recent-bookmarks =
-    .value = Azken laster-markak
 bookmarks-manage-bookmarks =
     .label = Kudeatu laster-markak
 bookmarks-recent-bookmarks-panel =
@@ -561,12 +572,6 @@ bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
             [true] Ezkutatu laster-marken alboko barra
-           *[other] Ikusi laster-marken tresna-barra
-        }
-bookmarks-tools-toolbar-visibility =
-    .label =
-        { $isVisible ->
-            [true] Ezkutatu laster-marken tresna-barra
            *[other] Ikusi laster-marken tresna-barra
         }
 bookmarks-tools-toolbar-visibility-menuitem =
@@ -614,10 +619,6 @@ bookmarks-current-tab =
 
 library-bookmarks-menu =
     .label = Laster-markak
-library-bookmarks-bookmark-this-page =
-    .label = Egin orriaren laster-marka
-library-bookmarks-bookmark-edit =
-    .label = Editatu laster-marka
 library-recent-activity-title =
     .value = Azken jarduera
 
@@ -634,3 +635,14 @@ eme-notifications-drm-content-playing-manage = Kudeatu ezarpenak
 eme-notifications-drm-content-playing-manage-accesskey = K
 eme-notifications-drm-content-playing-dismiss = Baztertu
 eme-notifications-drm-content-playing-dismiss-accesskey = B
+
+## Password save/update panel
+
+panel-save-update-username = Erabiltzaile-izena
+panel-save-update-password = Pasahitza
+
+## Add-on removal warning
+
+# Variables:
+#  $name (String): The name of the addon that will be removed.
+addon-removal-title = { $name } kendu?

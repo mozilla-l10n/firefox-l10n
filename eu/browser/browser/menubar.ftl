@@ -252,9 +252,6 @@ menu-tools-addons =
 menu-tools-fxa-sign-in =
     .label = Hasi saioa { -brand-product-name }(e)n…
     .accesskey = H
-menu-tools-extensions =
-    .label = Hedapenak eta itxurak
-    .accesskey = H
 menu-tools-fxa-sign-in2 =
     .label = Hasi saioa
     .accesskey = H
@@ -270,12 +267,25 @@ menu-tools-fxa-re-auth =
 menu-tools-web-developer =
     .label = Web garapena
     .accesskey = W
+menu-tools-browser-tools =
+    .label = Nabigatzailearen tresnak
+    .accesskey = b
+menu-tools-task-manager =
+    .label = Ataza-kudeatzailea
+    .accesskey = k
 menu-tools-page-source =
     .label = Orriaren iturburua
     .accesskey = O
 menu-tools-page-info =
     .label = Orriaren informazioa
     .accesskey = i
+menu-settings =
+    .label = Ezarpenak
+    .accesskey =
+        { PLATFORM() ->
+            [windows] E
+           *[other] E
+        }
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -286,13 +296,6 @@ menu-preferences =
         { PLATFORM() ->
             [windows] A
            *[other] n
-        }
-menu-settings =
-    .label = Ezarpenak
-    .accesskey =
-        { PLATFORM() ->
-            [windows] E
-           *[other] E
         }
 menu-tools-layout-debugger =
     .label = Diseinuaren araztailea
@@ -306,15 +309,6 @@ menu-window-bring-all-to-front =
     .label = Ekarri dena aurrera
 
 ## Help Menu
-
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-help-product
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
 
 
 # NOTE: For Engineers, any additions or changes to Help menu strings should
@@ -346,11 +340,11 @@ menu-get-help =
 menu-help-troubleshooting-info =
     .label = Arazoak konpontzeko informazioa…
     .accesskey = A
+menu-help-taskmanager =
+    .label = Ataza-kudeatzailea
 menu-help-more-troubleshooting-info =
     .label = Arazoak konpontzeko informazio gehiago
     .accesskey = f
-menu-help-taskmanager =
-    .label = Ataza-kudeatzailea
 menu-help-report-site-issue =
     .label = Eman gunearen arazoaren berri…
 menu-help-feedback-page =
@@ -362,8 +356,8 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Berrabiarazi gehigarriak gaituta
     .accesskey = r
-menu-help-enter-troubleshoot-mode =
-    .label = Arazoak konpontzeko modua
+menu-help-enter-troubleshoot-mode2 =
+    .label = Arazoak konpontzeko modua…
     .accesskey = m
 menu-help-exit-troubleshoot-mode =
     .label = Desaktibatu arazoak konpontzeko modua
@@ -376,6 +370,3 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Hau ez da gune iruzurtia…
     .accesskey = i
-menu-help-check-for-update =
-    .label = Bilatu eguneraketak…
-    .accesskey = B
