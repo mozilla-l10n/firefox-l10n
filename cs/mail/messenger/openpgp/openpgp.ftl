@@ -400,9 +400,13 @@ filter-decrypt-move-warn-experimental =
 filter-term-pgpencrypted-label = Zašifrováno pomocí OpenPGP
 filter-key-required = Musíte vybrat klíč příjemce.
 filter-key-not-found = Nepodařilo se najít šifrovací klíč pro '{ $desc }'.
+filter-warn-key-not-secret =
+    VAROVÁNÍ: Akce filtru „Šifrovat do klíče“ nahradí příjemce.
+    Pokud nemáte tajný klíč pro '{ $desc }', nebudete už moci e-maily číst.
 # Strings filtersWrapper.jsm
 filter-decrypt-move-label = Dešifrovat nastálo (OpenPGP)
 filter-decrypt-copy-label = Vytvořit dešifrovanou kopii (OpenPGP)
+filter-encrypt-label = Šifrovat do klíče (OpenPGP)
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Import klíčů proběhl úspěšně!
@@ -416,6 +420,16 @@ import-from-clip = Přejete si naimportovat nějaké klíče ze schránky?
 import-from-url = Stáhnout veřejný klíč z této URL adresy:
 copy-to-clipbrd-failed = Vybrané klíče nelze zkopírovat do schránky.
 copy-to-clipbrd-ok = Klíče byly zkopírovány do schránky
+delete-secret-key =
+    VAROVÁNÍ: Chystáte se odstranit tajný klíč!
+    
+    Pokud odstraníte svůj tajný klíč, nebudete už moci dešifrovat žádné zprávy zašifrované pro tento klíč, ani ho nebudete moci zneplatnit.
+    
+    Opravdu chcete odstranit OBA, jak tajný klíč tak i veřejný klíč, '{ $userId }'?
+delete-mix =
+    VAROVÁNÍ: Chystáte se odstranit tajné klíče!
+    Pokud odstraníte svůj tajný klíč, nebudete už moci dešifrovat žádné zprávy zašifrované pro tento klíč.
+    Opravdu chcete u vybraných klíčů odstranit OBA, jak tajný klíč tak i veřejný klíč?
 delete-pub-key =
     Přejete si odstranit tento veřejný klíč
     '{ $userId }'?
@@ -465,6 +479,11 @@ keyring-photo = Fotografie
 user-att-photo = Atribut uživatele (obrázek JPEG)
 # Strings in key.jsm
 already-revoked = Tento klíč už byl zneplatněn.
+#   $identity (String) - the id and associated user identity of the key being revoked
+revoke-key-question =
+    Chystáte se zneplatnit klíč '{ $identity }'.
+    Tímto klíčem už nebudete moci podepisovat a po jeho rozeslání již ostatní nebudou moci pomocí tohoto klíče šifrovat. Stále jím však budete moci dešifrovat staré zprávy.
+    Přejete si pokračovat?
 #   $keyId (String) - the id of the key being revoked
 revoke-key-not-present =
     Nemáte žádný klíč (0x{ $keyId }), který odpovídá tomuto revokačnímu certifikátu.
@@ -473,12 +492,19 @@ revoke-key-not-present =
 revoke-key-already-revoked = Klíč 0x{ $keyId } už byl zneplatněn.
 key-man-button-revoke-key = &Zneplatnit klíč
 openpgp-key-revoke-success = Klíč byl úspěšně zneplatněn.
+after-revoke-info =
+    Klíč byl zneplatněn.
+    Aby se ostatní dozvěděli o jeho zneplatnění, znovu tento veřejný klíč sdílejte e-mailem nebo nahráním na servery klíčů.
+    Jakmile se software používaný ostatními o zneplatnění dozví, přestane váš starý klíč používat.
+    Pokud pro stejnou e-mailovou adresu používáte nový klíč a tento nový veřejný klíč přiložíte ke svým odesílaným e-mailům, automaticky v nich budou zahrnuty i informace o vašem starém zneplatněném klíči.
 # Strings in keyRing.jsm & decryption.jsm
 key-man-button-import = &Importovat
 delete-key-title = Odstranit klíč OpenPGP
 delete-external-key-title = Odebrat externí klíč GnuPG
 delete-external-key-description = Chcete odebrat ID tohoto externího klíče GnuPG?
 key-in-use-title = Klíč OpenPGP se aktuálně používá
+delete-key-in-use-description = Nelze pokračovat, protože klíč vybraný k odstranění je aktuálně používán touto identitou. Vyberte jiný nebo žádný klíč a zkuste to znovu.
+revoke-key-in-use-description = Nelze pokračovat, protože klíč vybraný k zneplatnění je aktuálně používán touto identitou. Vyberte jiný nebo žádný klíč a zkuste to znovu.
 # Strings used in errorHandling.jsm
 key-error-key-spec-not-found = E-mailovou adresu '{ $keySpec }' nelze přiřadit k žádnému klíči ve vaší klíčence.
 key-error-key-id-not-found = Nastavený klíč s ID '{ $keySpec }' nelze v klíčence najít.
@@ -564,7 +590,19 @@ quoted-printable-warn =
 minimal-line-wrapping =
     Nastavili jste zalamování řádků na { $width } znaků. Pro správné šifrování a podepisování musí být tato hodnota nejméně 68.
     Přejete si nyní změnit zalamování řádků na 68 znaků?
+sending-hidden-rcpt = Při odesílání zašifrované zprávy nelze použít adresáty pro skrytou kopii. Aby mohla být tato zpráva odeslána šifrovaně, buď adresáty pro skrytou kopii odeberte, nebo je přesuňte do pole pro běžnou kopii.
+sending-news =
+    Odesílání zašifrované zprávy bylo přerušeno.
+    Tato zpráva nemůže být šifrována, protože obsahuje adresáty z diskuzní skupiny. Odešlete prosím zprávu bez šifrování.
+send-to-news-warning =
+    VAROVÁNÍ: Chystáte se odeslat zašifrovaný e-mail do diskusní skupiny.
+    To se nedoporučuje, protože to má smysl pouze tehdy, když mohou zprávu dešifrovat všichni členové skupiny, tj. zpráva musí být zašifrována pomocí klíčů všech účastníků skupiny. Odešlete prosím tuto zprávu pouze pokud přesně víte, co děláte.
+    Opravdu chcete pokračovat?
 save-attachment-header = Uložit dešifrovanou přílohu
+no-temp-dir =
+    Nelze najít dočasnou složku pro zápis
+    Nastavte prosím proměnnou prostředí TEMP
+possibly-pgp-mime = Tato zpráva je možná zašifrovaná nebo podepsaná pomocí PGP/MIME. Ověřit si to můžete pomocí funkce „Dešifrovat“ nebo „Ověřit“.
 cannot-send-sig-because-no-own-key = Tuto zprávu nelze digitálně podepsat, protože jste pro <{ $key }> dosud nenastavili koncové šifrování
 cannot-send-enc-because-no-own-key = Tuto zprávu nelze odeslat zašifrovaně, protože jste dosud pro <{ $key }> nenastavili koncové šifrování
 # Strings used in decryption.jsm
@@ -577,7 +615,12 @@ unverified-reply = Odsazená část zprávy (odpověď) byla pravděpodobně poz
 key-in-message-body = V těle zprávy byl nalezen klíč. Pro jeho naimportování klikněte na „Importovat klíč“
 sig-mismatch = Chyba: Podpis nesouhlasí
 invalid-email = Chyba: Neplatná e-mailová adresa
+attachment-pgp-key =
+    Zdá se, že otevíraná příloha „{ $name }“ je soubor s klíčem OpenPGP.
+    Pokud chcete obsažené klíče importovat, klepněte na „Importovat“. Pro zobrazení v okně prohlížeče klepněte na „Zobrazit.“.
 dlg-button-view = &Zobrazit
+# Strings used in enigmailMsgHdrViewOverlay.js
+decrypted-msg-with-format-error = Dešifrovaná zpráva (obnovený poškozený formát e-mailu v PGP, což pravděpodobně zapříčinil starý server Exchange, takže výsledek nemusí být dokonalý)
 # Strings used in encryption.jsm
 not-required = Chyba: Šifrování není vyžadováno
 # Strings used in windows.jsm
