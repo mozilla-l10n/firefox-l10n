@@ -33,6 +33,7 @@ openpgp-generate-key =
     .tooltiptext = Vytvoří nový klíč OpenPGP pro šifrování a/nebo podepisování
 openpgp-advanced-prefs-button-label =
     .label = Rozšířené…
+openpgp-keygen-desc = <a data-l10n-name="openpgp-keygen-desc-link">POZNÁMKA: Vytváření klíče může trvat až několik minut.</a> Po tu dobu prosím aplikaci neukončujte. Proces se urychlí, když budete aktivně pracovat s prohlížečem nebo provádět operace s častým přístupem k pevnému disku. Až bude vytváření klíče dokončeno, budete upozorněni.
 openpgp-key-expiry-label =
     .label = Konec platnosti
 openpgp-key-id-label =
@@ -194,6 +195,8 @@ openpgp-key-man-show-invalid-keys =
 openpgp-key-man-show-others-keys =
     .label = Zobrazit klíče ostatních lidí
     .accesskey = o
+openpgp-key-man-user-id-label =
+    .label = Jméno
 openpgp-key-man-fingerprint-label =
     .label = Otisk
 openpgp-key-man-select-all =
@@ -311,6 +314,7 @@ openpgp-key-expand-section =
 openpgp-key-revoke-title = Zneplatnit klíč
 openpgp-key-edit-title = Změnit klíč OpenPGP
 openpgp-key-edit-date-title = Prodloužit dobu platnosti
+openpgp-manager-description = Pomocí správce klíčů OpenPGP si můžete zobrazit a spravovat veřejné klíče svých korespondentů a všechny další klíče, které nejsou uvedeny výše.
 openpgp-manager-button =
     .label = Správce klíčů OpenPGP
     .accesskey = k
@@ -324,9 +328,50 @@ key-type-primary = primární klíč
 key-type-subkey = podklíč
 key-type-pair = pár klíčů (tajný klíč a veřejný klíč)
 key-expiry-never = nikdy
+key-usage-encrypt = Šifrování
+key-usage-sign = Podepisování
+key-usage-certify = Certifikace
+key-usage-authentication = Ověřování
+key-does-not-expire = Platnost klíče není omezená
+key-expired-date = Platnost klíče vypršela dne { $keyExpiry }
+key-expired-simple = Platnost klíče vypršela
+key-revoked-simple = Klíč byl zneplatněn
+key-do-you-accept = Přijímáte tento klíč k účelům ověřování digitálních podpisů a šifrování zpráv?
+key-accept-warning = Dejte pozor na přijetí podvodného klíče. Otisk klíče svého korespondenta ověřte prostřednictvím jiného komunikačního kanálu, než je elektronická pošta.
+# Strings enigmailMsgComposeOverlay.js
+cannot-use-own-key-because = Zprávu nelze odeslat, protože se u vašeho osobního klíče vyskytl problém. { $problem }
+cannot-encrypt-because-missing = Tuto zprávu nelze odeslat za použití koncového šifrování, protože u klíčů následujících příjemců se vyskytly problémy: { $problem }
+window-locked = Okno psaní zprávy je uzamčeno; odesílání bylo zrušeno
+# Strings in mimeDecrypt.jsm
+mime-decrypt-encrypted-part-attachment-label = Zašifrovaná část zprávy
+mime-decrypt-encrypted-part-concealed-data = Toto je zašifrovaná část zprávy. Otevřít ji musíte v samostatném okně klepnutím na přílohu.
 # Strings in keyserver.jsm
 keyserver-error-aborted = Přerušeno
 keyserver-error-unknown = Došlo k neznámé chybě
+keyserver-error-server-error = Server klíčů ohlásil chybu.
+keyserver-error-import-error = Import staženého klíče se nezdařil.
+keyserver-error-unavailable = Server klíčů není dostupný.
+keyserver-error-security-error = Server klíčů nepodporuje šifrovaný přístup.
+keyserver-error-certificate-error = Serveru klíčů používá neplatný certifikát.
+keyserver-error-unsupported = Tento server klíčů není podporován.
+# Strings in mimeWkdHandler.jsm
+wkd-message-body-req =
+    Váš poskytovatel e-mailu zpracoval váš požadavek na nahrání vašeho veřejného klíče do webového adresáře klíčů OpenPGP.
+    Potvrďte prosím publikování svého veřejného klíče.
+wkd-message-body-process =
+    Toto je e-mail zaslaný v souvislosti s automatickým zpracováním požadavku na nahrání vašeho veřejného klíče do webového adresáře klíčů OpenPGP.
+    V tuto chvíli není z vaší strany nutná žádná akce.
+# Strings in persistentCrypto.jsm
+converter-decrypt-body-failed =
+    Zprávu s předmětem „{ $subject }“ se nepodařilo dešifrovat.
+    Chcete to zkusit s jinou přístupovou frází nebo chcete zprávu přeskočit?
+# Strings in gpg.jsm
+unknown-signing-alg = Neznámý podpisový algoritmus (ID: { $id })
+unknown-hash-alg = Neznámý kryptografický hashovací algoritmus (ID: { $id })
+expiry-open-key-manager = Otevřít správce klíčů OpenPGP
+expiry-open-key-properties = Otevřít vlastnosti klíče
+# Strings filters.jsm
+filter-folder-required = Musíte vybrat cílovou složku.
 # Strings in enigmailKeyImportInfo.js
 import-info-title =
     .title = Import klíčů proběhl úspěšně!
