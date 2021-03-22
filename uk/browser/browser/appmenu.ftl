@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Завантажується оновлення { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Завантажується оновлення { -brand-shorter-name }
+    .label-update-available = Доступне оновлення — завантажити зараз
+    .label-update-manual = Доступне оновлення — завантажити зараз
+    .label-update-unsupported = Не вдається оновити
+    .label-update-restart = Доступне оновлення — перезавантажити зараз
 appmenuitem-protection-dashboard-title = Панель стану захисту
 appmenuitem-customize-mode =
     .label = Пристосування…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Паролі
 appmenuitem-extensions-and-themes =
     .label = Розширення і теми
+appmenuitem-addons-and-themes =
+    .label = Додатки й теми
 appmenuitem-find-in-page =
     .label = Знайти на сторінці…
 appmenuitem-more-tools =
