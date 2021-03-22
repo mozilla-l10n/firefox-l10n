@@ -361,6 +361,16 @@ browser-tab-audio-pip = BILDE-I-BILDE
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] SLÅ AV LYD I FANE
+       *[other] SLÅ AV LYD I { $count } FANER
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] SLÅ PÅ LYD I FANE
+       *[other] SLÅ PÅ LYD I { $count } FANER
+    }
 browser-tab-unblock =
     { $count ->
         [1] SPEL AV FANE
