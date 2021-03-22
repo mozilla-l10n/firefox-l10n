@@ -14,6 +14,7 @@ policy-3rdparty = Definìs lis politichis che a chês lis estensions basadis su 
 policy-AppAutoUpdate = Abilite o disabilite l'inzornament automatic de aplicazion .
 policy-AppUpdateURL = Stabilìs il URL personlizât pal inzornament de aplicazion.
 policy-Authentication = Configure la autenticazion integrade pai sîts web che le supuartin.
+policy-BackgroundAppUpdate2 = Abilite o disabilite l'inzornadôr in sotfont.
 policy-BlockAboutAddons = Bloche l'acès al gjestôr des zontis (about:addons).
 policy-BlockAboutConfig = Bloche l'acès aae pagjine about:config.
 policy-BlockAboutProfiles = Bloche l'acès ae pagjine about:profiles.
@@ -106,6 +107,7 @@ policy-SearchEngines = Configure lis impostazions dal motôr di ricercje. Cheste
 policy-SearchSuggestEnabled = Ative o disative i sugjeriments di ricercje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instale i modui PKCS #11.
+policy-ShowHomeButton = Mostre il boton pagjine iniziâl te sbare dai struments.
 policy-SSLVersionMax = Stabilìs la massime version di SSL.
 policy-SSLVersionMin = Stabilìs la minime version di SSL.
 policy-SupportMenu = Zonte un element personalizât dal menù di supuart al menù di jutori.

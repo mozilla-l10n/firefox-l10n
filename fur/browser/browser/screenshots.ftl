@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-context-menu = Cature une videade
+screenshot-toolbarbutton =
+    .label = Videade
+    .tooltiptext = Cature une videade
 screenshots-my-shots-button = Mês istantaniis
 screenshots-instructions = Strissine o fâs clic te pagjine par selezionâ une regjon. Frache ESC par anulâ.
 screenshots-cancel-button = Anule

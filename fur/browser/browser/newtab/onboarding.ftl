@@ -172,6 +172,12 @@ onboarding-multistage-set-default-header = Met { -brand-short-name } come <span 
 onboarding-multistage-set-default-subtitle = Velocitât, sigurece e riservatece ogni volte che tu navighis.
 onboarding-multistage-set-default-primary-button-label = Rint predefinît
 onboarding-multistage-set-default-secondary-button-label = No cumò
+# The <span data-l10n-name="zap"></span> in this string allows a "zap" underline style to be
+# automatically added to the text inside it. { -brand-short-name } should stay inside the span.
+onboarding-multistage-pin-default-header = Scomence mentint <span data-l10n-name="zap">{ -brand-short-name }</span> a puartade di man
+onboarding-multistage-pin-default-subtitle = Navigazion svelte, sigure e privade ogni volte che tu dopris il web.
+# The "settings" here refers to "Windows 10 Settings App" and not the browser's
+onboarding-multistage-pin-default-waiting-subtitle = Sielç { -brand-short-name } in Browser Web cuant che si vierzin lis impostazions
 # The "settings" here refers to "Windows 10 Settings App" and not the browser's
 onboarding-multistage-pin-default-help-text = Chest al fissarà { -brand-short-name } te sbare des aplicazions e al vierzarà lis impostazions
 onboarding-multistage-pin-default-primary-button-label = Rint { -brand-short-name } il gno navigadôr principâl
