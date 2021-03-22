@@ -85,7 +85,15 @@
         [ins] Firefox Send-ом
         [loc] Firefox Send-у
     }
--screenshots-brand-name = Firefox Screenshots
+-screenshots-brand-name =
+    { $case ->
+       *[nom] Mozilla Screenshots
+        [gen] Mozilla Screenshots-а
+        [dat] Mozilla Screenshots-у
+        [acc] Mozilla Screenshots
+        [ins] Mozilla Screenshots-ом
+        [loc] Mozilla Screenshots-у
+    }
 -mozilla-vpn-brand-name =
     { $case ->
        *[nom] Mozilla VPN
