@@ -5,7 +5,7 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = Eklenti Önerisi
+cfr-doorhanger-extension-heading = Uzantı Önerisi
 cfr-doorhanger-feature-heading = Özellik Önerisi
 cfr-doorhanger-pintab-heading = Bunu deneyin: Sekme sabitleme
 
@@ -216,8 +216,6 @@ cfr-doorhanger-milestone-heading2 =
     }
 cfr-doorhanger-milestone-ok-button = Tümünü göster
     .accesskey = T
-cfr-doorhanger-milestone-close-button = Kapat
-    .accesskey = K
 
 ## What’s New Panel Content for Firefox 76
 
@@ -242,6 +240,8 @@ cfr-whatsnew-pip-fullscreen-icon-alt = Görüntü içinde görüntü simgesi
 
 ## Protections Dashboard message
 
+cfr-doorhanger-milestone-close-button = Kapat
+    .accesskey = K
 
 ## What’s New Panel Content for Firefox 76
 ## Protections Dashboard message

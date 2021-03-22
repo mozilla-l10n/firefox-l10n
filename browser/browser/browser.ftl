@@ -159,11 +159,11 @@ urlbar-star-add-bookmark =
 page-action-add-to-urlbar =
     .label = Adres çubuğuna ekle
 page-action-manage-extension =
-    .label = Eklentiyi yönet…
+    .label = Uzantıyı yönet…
 page-action-remove-from-urlbar =
     .label = Adres çubuğundan kaldır
 page-action-remove-extension =
-    .label = Eklentiyi kaldır
+    .label = Uzantıyı kaldır
 
 ## Page Action menu
 
@@ -281,7 +281,7 @@ identity-connection-not-secure = Bağlantı güvenli değil
 identity-connection-secure = Bağlantı güvenli
 identity-connection-internal = Burası güvenli bir { -brand-short-name } sayfasıdır.
 identity-connection-file = Bu sayfa bilgisayarınızda depolanıyor.
-identity-extension-page = Bu sayfa bir eklenti üzerinden yüklendi.
+identity-extension-page = Bu sayfa bir uzantı üzerinden yüklendi.
 identity-active-blocked = { -brand-short-name } bu sayfanın güvenli olmayan kısımlarını engelledi.
 identity-custom-root = Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.
 identity-passive-loaded = Bu sayfanın bazı kısımları (örneğin resimler) güvenli değil.
@@ -482,7 +482,7 @@ urlbar-switch-to-tab =
     .value = Sekmeye geç:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
-    .value = Eklenti:
+    .value = Uzantı:
 urlbar-go-button =
     .tooltiptext = Konum çubuğundaki adrese git
 urlbar-page-action-button =
@@ -663,4 +663,4 @@ panel-save-update-password = Parola
 # Variables:
 #  $name (String): The name of the addon that will be removed.
 addon-removal-title = { $name } kaldırılsın mı?
-addon-removal-abuse-report-checkbox = Bu eklentiyi { -vendor-short-name }’ya şikâyet et
+addon-removal-abuse-report-checkbox = Bu uzantıyı { -vendor-short-name }’ya şikâyet et
