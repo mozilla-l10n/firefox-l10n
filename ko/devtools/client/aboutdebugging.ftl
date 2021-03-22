@@ -33,7 +33,7 @@ about-debugging-sidebar-usb-disabled = USB 사용 안 함
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = 연결됨
 # Connection status (disconnected) for runtime items in the sidebar
-aboutdebugging-sidebar-runtime-connection-status-disconnected = 연결끊김
+aboutdebugging-sidebar-runtime-connection-status-disconnected = 연결 끊김
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = 기기를 찾을 수 없음
 # Text displayed in buttons found in sidebar items representing remote runtimes.
