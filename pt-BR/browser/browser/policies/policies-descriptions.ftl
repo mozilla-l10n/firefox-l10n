@@ -107,6 +107,7 @@ policy-SearchEngines = Definir configurações de mecanismos de pesquisa. Esta d
 policy-SearchSuggestEnabled = Ativar ou desativar sugestões de pesquisa.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instalar módulos PKCS #11.
+policy-ShowHomeButton = Mostrar o botão de página inicial na barra de ferramentas.
 policy-SSLVersionMax = Definir a versão SSL máxima.
 policy-SSLVersionMin = Definir a versão SSL mínima.
 policy-SupportMenu = Adicionar um item de menu de suporte personalizado ao menu de ajuda.
