@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Téléchargement de la mise à jour de { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Téléchargement de la mise à jour de { -brand-shorter-name }
+    .label-update-available = Mise à jour disponible — télécharger maintenant
+    .label-update-manual = Mise à jour disponible — télécharger maintenant
+    .label-update-unsupported = Mise à jour impossible
+    .label-update-restart = Mise à jour disponible — redémarrer maintenant
 appmenuitem-protection-dashboard-title = Tableau de bord des protections
 appmenuitem-customize-mode =
     .label = Personnaliser…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Mots de passe
 appmenuitem-extensions-and-themes =
     .label = Extensions et thèmes
+appmenuitem-addons-and-themes =
+    .label = Modules complémentaires et thèmes
 appmenuitem-find-in-page =
     .label = Rechercher dans la page…
 appmenuitem-more-tools =
