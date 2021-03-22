@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Λήψη της ενημέρωσης του { -brand-shorter-name }
+appmenuitem-update-banner2 =
+    .label-update-downloading = Λήψη ενημέρωσης του { -brand-shorter-name }
+    .label-update-available = Διαθέσιμη ενημέρωση — λήψη τώρα
+    .label-update-manual = Διαθέσιμη ενημέρωση — λήψη τώρα
+    .label-update-unsupported = Αδυναμία ενημέρωσης
+    .label-update-restart = Διαθέσιμη ενημέρωση — επανεκκίνηση τώρα
 appmenuitem-protection-dashboard-title = Πίνακας προστασίας
 appmenuitem-customize-mode =
     .label = Προσαρμογή…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Κωδικοί πρόσβασης
 appmenuitem-extensions-and-themes =
     .label = Επεκτάσεις και θέματα
+appmenuitem-addons-and-themes =
+    .label = Πρόσθετα και θέματα
 appmenuitem-find-in-page =
     .label = Εύρεση στη σελίδα…
 appmenuitem-more-tools =
