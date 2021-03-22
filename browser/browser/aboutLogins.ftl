@@ -73,7 +73,7 @@ login-intro-heading = Тражите сачуване пријаве? Подес
 about-logins-login-intro-heading-logged-out = Тражите сачуване пријаве? Подесите { -sync-brand-short-name } или их увезите.
 about-logins-login-intro-heading-logged-in = Нису пронађене синхронизоване пријаве.
 login-intro-description = Уколико сте пријаве сачували у програму { -brand-product-name } на неком другом уређају, следите ове кораке:
-login-intro-instruction-fxa = Направите или се пријавите на ваш { -fxaccount-brand-name } налог, на уређају где су ваше пријаве сачуване
+login-intro-instruction-fxa = Региструјте се или се пријавите на { -fxaccount-brand-name } на уређају на ком су сачуване ваше лозинке
 login-intro-instruction-fxa-settings = Уверите се да сте штиклирали „Пријаве“ { -sync-brand-short-name } подешавањима
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">страницу подршке за { -lockwise-brand-short-name }</a>
 about-logins-intro-import = Ако су ваше пријаве сачуване у другом прегледачу, можете да их <a data-l10n-name="import-link">увезете у { -lockwise-brand-short-name }</a>
