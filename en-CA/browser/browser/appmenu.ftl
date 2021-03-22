@@ -7,6 +7,12 @@
 
 appmenuitem-update-banner =
     .label-update-downloading = Downloading { -brand-shorter-name } update
+appmenuitem-update-banner2 =
+    .label-update-downloading = Downloading { -brand-shorter-name } update
+    .label-update-available = Update available — download now
+    .label-update-manual = Update available — download now
+    .label-update-unsupported = Unable to update
+    .label-update-restart = Update available — restart now
 appmenuitem-protection-dashboard-title = Protections Dashboard
 appmenuitem-customize-mode =
     .label = Customize…
@@ -21,6 +27,8 @@ appmenuitem-passwords =
     .label = Passwords
 appmenuitem-extensions-and-themes =
     .label = Extensions and Themes
+appmenuitem-addons-and-themes =
+    .label = Add-ons and Themes
 appmenuitem-find-in-page =
     .label = Find In Page…
 appmenuitem-more-tools =
@@ -163,6 +171,9 @@ appmenu-help-safe-mode-with-addons =
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Troubleshoot Mode…
+    .accesskey = M
 appmenu-help-exit-troubleshoot-mode =
     .label = Turn Troubleshoot Mode Off
     .accesskey = M

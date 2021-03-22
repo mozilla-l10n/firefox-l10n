@@ -14,7 +14,7 @@ policy-3rdparty = Set policies that WebExtensions can access via chrome.storage.
 policy-AppAutoUpdate = Enable or disable automatic application update.
 policy-AppUpdateURL = Set custom app update URL.
 policy-Authentication = Configure integrated authentication for websites that support it.
-policy-BackgroundAppUpdate = Enable or disable the background updater, which updates the browser when it is not running.
+policy-BackgroundAppUpdate2 = Enable or disable the background updater.
 policy-BlockAboutAddons = Block access to the Add-ons Manager (about:addons).
 policy-BlockAboutConfig = Block access to the about:config page.
 policy-BlockAboutProfiles = Block access to the about:profiles page.
@@ -107,6 +107,7 @@ policy-SearchEngines = Configure search engine settings. This policy is only ava
 policy-SearchSuggestEnabled = Enable or disable search suggestions.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Install PKCS #11 modules.
+policy-ShowHomeButton = Show the home button on the toolbar.
 policy-SSLVersionMax = Set the maximum SSL version.
 policy-SSLVersionMin = Set the minimum SSL version.
 policy-SupportMenu = Add a custom support menu item to the help menu.
