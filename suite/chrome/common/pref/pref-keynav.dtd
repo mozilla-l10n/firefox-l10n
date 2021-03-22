@@ -21,5 +21,7 @@
 
 <!ENTITY modifiers.label "Modifikátory">
 <!ENTITY acceleratorKey.label "Klíč akcelerátoru:">
+<!ENTITY acceleratorKey.accesskey "a">
 <!ENTITY menuAccessKey.label "Klávesa pro přístup do nabídky:">
+<!ENTITY menuAccessKey.accesskey "n">
 <!ENTITY modifiersDesc.label "Poznámka: Hodnota nula zakáže modifikační klávesu.">

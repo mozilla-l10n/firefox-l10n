@@ -31,14 +31,23 @@
 
 <!-- Insert menu items -->
 <!ENTITY insertFormMenu.label "Formulář">
+<!ENTITY insertFormMenu.accesskey "F">
 <!ENTITY insertFormCmd.label "Definovat formulář…">
+<!ENTITY insertFormCmd.accesskey "D">
 <!ENTITY insertInputTagCmd.label "Pole formuláře…">
+<!ENTITY insertInputTagCmd.accesskey "e">
 <!ENTITY insertInputImageCmd.label "Obrázek formuláře…">
+<!ENTITY insertInputImageCmd.accesskey "O">
 <!ENTITY insertTextAreaCmd.label "Oblast textu…">
+<!ENTITY insertTextAreaCmd.accesskey "t">
 <!ENTITY insertSelectCmd.label "Výběr ze seznamu…">
+<!ENTITY insertSelectCmd.accesskey "s">
 <!ENTITY insertButtonCmd.label "Definovat tlačítko…">
+<!ENTITY insertButtonCmd.accesskey "t">
 <!ENTITY insertLabelCmd.label "Definovat popisek">
+<!ENTITY insertLabelCmd.accesskey "e">
 <!ENTITY insertFieldSetCmd.label "Definovat skupinu polí…">
+<!ENTITY insertFieldSetCmd.accesskey "f">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nová">

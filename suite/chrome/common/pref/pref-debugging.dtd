@@ -9,7 +9,9 @@
 <!-- Render Debugging -->
 <!ENTITY debugRendering.label             "Vykreslování">
 <!ENTITY debugXULBox.label                "Ladění XUL boxů">
+<!ENTITY debugXULBox.accesskey            "X">
 <!ENTITY debugDisableXULCache.label       "Zakázat XUL mezipaměť">
+<!ENTITY debugDisableXULCache.accesskey   "L">
 
 <!-- Event Debugging -->
 <!ENTITY debugEvents.label "Události">
