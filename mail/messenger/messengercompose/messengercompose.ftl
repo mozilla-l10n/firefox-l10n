@@ -103,6 +103,7 @@ drop-file-label-attachment =
         [few] Přidat jako přílohy
        *[other] Přidat jako přílohy
     }
+drop-file-label-inline = Vložit do obsahu
 
 # Reorder Attachment Panel
 
